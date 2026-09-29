@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_cosmic_hamiltonian_fluctuation_diverges
 -- name    : DSSYKScales.cosmic_hamiltonian_fluctuation_diverges
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T02:03:36.763687+00:00
 -- url     : https://prove2.me/theorems/9d0897c6-b9af-4161-bc65-cc4a20787f10

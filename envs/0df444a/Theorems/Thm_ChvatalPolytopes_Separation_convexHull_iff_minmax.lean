@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Separation_convexHull_iff_minmax
 -- name    : ChvatalPolytopes.Separation.convexHull_iff_minmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:17:46.067123+00:00
 -- url     : https://prove2.me/theorems/bf054e60-666d-4bfc-bfce-77de493819b8

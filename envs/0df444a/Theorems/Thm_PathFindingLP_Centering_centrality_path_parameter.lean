@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathFindingLP_Centering_centrality_path_parameter
 -- name    : PathFindingLP.Centering.centrality_path_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:37:45.290989+00:00
 -- url     : https://prove2.me/theorems/75c2b83a-1894-4207-978d-778798f370b4

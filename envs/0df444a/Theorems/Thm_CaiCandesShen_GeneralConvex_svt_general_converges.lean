@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CaiCandesShen_GeneralConvex_svt_general_converges
 -- name    : CaiCandesShen.GeneralConvex.svt_general_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:23:05.227302+00:00
 -- url     : https://prove2.me/theorems/7c8fac4e-b9b5-4064-98eb-ab4cf2e366cc

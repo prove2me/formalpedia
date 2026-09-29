@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistInterpRO_Consistency_kde_mem_distSet
 -- name    : DistInterpRO.Consistency.kde_mem_distSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:48:09.849988+00:00
 -- url     : https://prove2.me/theorems/41397aeb-2cfe-4689-af45-185e76550f4e

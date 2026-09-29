@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Equivalence_eq_B15_dantzig_side
 -- name    : LassoDantzig.Equivalence.eq_B15_dantzig_side
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:04:41.587484+00:00
 -- url     : https://prove2.me/theorems/8bb91e4e-0d99-4cb6-8508-42e3de37fbb8

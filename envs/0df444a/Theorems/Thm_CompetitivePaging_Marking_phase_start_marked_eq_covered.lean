@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Marking_phase_start_marked_eq_covered
 -- name    : CompetitivePaging.Marking.phase_start_marked_eq_covered
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:09:24.663988+00:00
 -- url     : https://prove2.me/theorems/edb4d06b-e514-4ea8-b720-fc236eddee2e

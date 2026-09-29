@@ -33,6 +33,8 @@
 --
 --   Source: Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.9, 25 September 2026 (GitHub release note-v1.9), Section 4 (*The precise open
 --   boundary*), the factorisation displayed after Theorem 4.2 (*Uniqueness of the obstruction*). No novelty is claimed.
+-- source:
+--   Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10), Section 4, the factorisation displayed after Theorem 4.2. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 import Definitions.Def_Diaz_Rigidity

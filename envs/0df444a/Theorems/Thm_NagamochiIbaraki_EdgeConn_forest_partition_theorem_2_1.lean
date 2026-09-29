@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagamochiIbaraki_EdgeConn_forest_partition_theorem_2_1
 -- name    : NagamochiIbaraki.EdgeConn.forest_partition_theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:05:24.565974+00:00
 -- url     : https://prove2.me/theorems/bfb8c193-b9f3-4ed1-a8e9-b3f5609dcabe

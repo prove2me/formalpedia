@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_ParallelRelease_relax_lower_bound
 -- name    : AvgCompletionSched.ParallelRelease.relax_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:54:02.575893+00:00
 -- url     : https://prove2.me/theorems/6bd9c822-dc2f-454c-99dd-20c29a509094

@@ -7,7 +7,7 @@
 -- title:
 --   Torsion dichotomy: some power of $e^{u}$ is positive real exactly when $\Im u \in \pi\mathbb{Q}$
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics, the equivalence (ii) <-> (iii) of his torsion dichotomy, unpublished apart from this node. Published on his mission with his permission. No novelty is claimed for it here; the argument is elementary.
+--   **Source.** This is Carlo Perassi's mathematics, the equivalence (ii) <-> (iii) of his torsion dichotomy, unpublished apart from this node. No novelty is claimed for it here; the argument is elementary.
 --
 --   **Statement.** For $u \in \mathbb{C}$ and $\alpha = e^{u}$, write $\theta = \Im u$. Then
 --   $$\theta \in \pi\mathbb{Q} \iff \alpha^{k} \in \mathbb{R}_{>0} \text{ for some } k \geq 1 .$$

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_Scaling_pseudoExtreme_max_isExtreme
 -- name    : EdmondsKarp.Scaling.pseudoExtreme_max_isExtreme
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:25:37.000652+00:00
 -- url     : https://prove2.me/theorems/0958ea2f-5a04-4398-8e12-f1f87acc88f2

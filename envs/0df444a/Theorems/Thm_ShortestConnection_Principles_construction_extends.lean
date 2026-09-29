@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestConnection_Principles_construction_extends
 -- name    : ShortestConnection.Principles.construction_extends
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:55:50.935836+00:00
 -- url     : https://prove2.me/theorems/0616d955-f771-48a1-8542-0da71c12ae99

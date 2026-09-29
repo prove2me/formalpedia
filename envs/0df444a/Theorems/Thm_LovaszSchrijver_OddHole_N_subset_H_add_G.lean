@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_OddHole_N_subset_H_add_G
 -- name    : LovaszSchrijver.OddHole.N_subset_H_add_G
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:47:08.220483+00:00
 -- url     : https://prove2.me/theorems/634332ae-fe7d-4f9c-9ed3-98291da383d0

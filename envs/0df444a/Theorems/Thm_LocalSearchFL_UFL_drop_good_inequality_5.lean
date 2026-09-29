@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_UFL_drop_good_inequality_5
 -- name    : LocalSearchFL.UFL.drop_good_inequality_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:16:42.053778+00:00
 -- url     : https://prove2.me/theorems/7bac64c2-dfd2-4b95-a1a2-4d68c8ff5a52

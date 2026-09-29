@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CaiCandesShen_ProximalLimit_min_frobenius_solution_unique
 -- name    : CaiCandesShen.ProximalLimit.min_frobenius_solution_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:26:27.949499+00:00
 -- url     : https://prove2.me/theorems/8021cdb4-f0cf-485e-adb2-0b377f880698

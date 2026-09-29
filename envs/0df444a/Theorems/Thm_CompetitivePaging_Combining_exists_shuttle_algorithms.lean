@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Combining_exists_shuttle_algorithms
 -- name    : CompetitivePaging.Combining.exists_shuttle_algorithms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:24:34.477322+00:00
 -- url     : https://prove2.me/theorems/32752201-556a-407a-ad5f-8527e52fd381

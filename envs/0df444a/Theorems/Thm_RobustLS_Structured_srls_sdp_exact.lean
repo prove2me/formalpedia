@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Structured_srls_sdp_exact
 -- name    : RobustLS.Structured.srls_sdp_exact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:37:07.255011+00:00
 -- url     : https://prove2.me/theorems/c2f2d4ef-adb5-451c-a678-a550d2b74351

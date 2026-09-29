@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Marking_adversary_cost_ge_clean_sub_d
 -- name    : CompetitivePaging.Marking.adversary_cost_ge_clean_sub_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:10:08.490431+00:00
 -- url     : https://prove2.me/theorems/6c13d683-ae80-4b6d-ad2a-bf0e1607c4bc

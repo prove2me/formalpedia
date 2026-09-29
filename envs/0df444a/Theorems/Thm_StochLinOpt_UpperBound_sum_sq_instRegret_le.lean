@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochLinOpt_UpperBound_sum_sq_instRegret_le
 -- name    : StochLinOpt.UpperBound.sum_sq_instRegret_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:31:04.008301+00:00
 -- url     : https://prove2.me/theorems/bdb53bf7-6096-449f-9ed1-e8ae491181d6

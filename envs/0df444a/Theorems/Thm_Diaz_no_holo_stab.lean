@@ -7,7 +7,7 @@
 -- title:
 --   No holomorphic stabilizer: a Möbius map over $K$ fixing a transcendental point is the identity
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics, unpublished apart from this node. Published on his mission with his permission. No novelty is claimed for it here; the argument is elementary.
+--   **Source.** This is Carlo Perassi's mathematics, unpublished apart from this node. No novelty is claimed for it here; the argument is elementary.
 --
 --   **Statement.** Let $K \subset \mathbb{C}$ be a subfield and $z$ transcendental over $K$. If $g(t) = (at+b)/(ct+d)$ has coefficients in $K$ and fixes $z$, then $c = b = 0$ and $a = d$ — that is, $g$ is the identity of $\mathrm{PGL}(2,K)$.
 --

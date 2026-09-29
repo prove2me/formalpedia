@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicNewton_Nonconvex_min_mu_rate
 -- name    : CubicNewton.Nonconvex.min_mu_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:21:48.596987+00:00
 -- url     : https://prove2.me/theorems/878bec2a-d0b9-4c92-8eac-4454fb7cefe2

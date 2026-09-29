@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarelTarjan_SymOrder_ncaDepthAlg_correct
 -- name    : HarelTarjan.SymOrder.ncaDepthAlg_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:48:37.018298+00:00
 -- url     : https://prove2.me/theorems/ea52ab1e-3530-4179-8a24-f6385b8dfe90

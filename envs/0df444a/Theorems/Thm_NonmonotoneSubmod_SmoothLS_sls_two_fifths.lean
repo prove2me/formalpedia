@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneSubmod_SmoothLS_sls_two_fifths
 -- name    : NonmonotoneSubmod.SmoothLS.sls_two_fifths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:13:10.213699+00:00
 -- url     : https://prove2.me/theorems/0fe875d0-7de1-4a62-abe2-da4626e27e0c

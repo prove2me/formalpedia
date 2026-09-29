@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedCE_Convergence_calibrated_best_response_converges
 -- name    : CalibratedCE.Convergence.calibrated_best_response_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:33:39.912867+00:00
 -- url     : https://prove2.me/theorems/8a92d3d7-d972-4922-81e5-0e8d94b3a69b

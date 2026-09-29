@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxCliqueWidth_Certificate_bw_ge_of_wellLinked
 -- name    : ApproxCliqueWidth.Certificate.bw_ge_of_wellLinked
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:32:37.442162+00:00
 -- url     : https://prove2.me/theorems/29c279c3-4fe5-4c90-b231-9aeb3825b353

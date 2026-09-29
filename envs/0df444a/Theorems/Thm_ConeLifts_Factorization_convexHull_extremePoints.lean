@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_Factorization_convexHull_extremePoints
 -- name    : ConeLifts.Factorization.convexHull_extremePoints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:44:22.859746+00:00
 -- url     : https://prove2.me/theorems/5aa18be9-27fc-4c0a-a298-a33e85298252

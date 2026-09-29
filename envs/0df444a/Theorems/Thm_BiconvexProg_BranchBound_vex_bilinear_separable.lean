@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiconvexProg_BranchBound_vex_bilinear_separable
 -- name    : BiconvexProg.BranchBound.vex_bilinear_separable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T17:54:57.44317+00:00
 -- url     : https://prove2.me/theorems/372204e6-6837-48d4-819b-485c86aa128b

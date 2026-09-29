@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Combining_greedy_punishing_meets_quotas
 -- name    : CompetitivePaging.Combining.greedy_punishing_meets_quotas
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:23:45.018688+00:00
 -- url     : https://prove2.me/theorems/0414d0f0-ae58-4dd1-8a59-227152073c51

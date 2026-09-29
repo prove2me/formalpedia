@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_PositiveSetup_sS_policy_optimal
 -- name    : GallegoOzerADI.PositiveSetup.sS_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:50:50.126414+00:00
 -- url     : https://prove2.me/theorems/dd87ee7a-1d33-40e5-93af-2b1858fd6568

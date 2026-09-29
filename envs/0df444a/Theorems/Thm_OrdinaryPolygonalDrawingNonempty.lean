@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OrdinaryPolygonalDrawingNonempty
 -- name    : OrdinaryPolygonalDrawingNonempty
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-26T20:44:35.496431+00:00
 -- url     : https://prove2.me/theorems/d931d833-3994-4abf-82d1-abdf53ef822c

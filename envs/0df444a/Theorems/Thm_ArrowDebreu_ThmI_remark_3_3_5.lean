@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmI_remark_3_3_5
 -- name    : ArrowDebreu.ThmI.remark_3_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:42:47.047109+00:00
 -- url     : https://prove2.me/theorems/92d9ebe8-ab7f-40ea-aaa1-9d1d06a6decf

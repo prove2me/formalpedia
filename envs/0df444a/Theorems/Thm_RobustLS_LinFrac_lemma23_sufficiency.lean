@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_LinFrac_lemma23_sufficiency
 -- name    : RobustLS.LinFrac.lemma23_sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:38:53.528479+00:00
 -- url     : https://prove2.me/theorems/964b4c72-208e-46d6-b7a7-728a0184b743

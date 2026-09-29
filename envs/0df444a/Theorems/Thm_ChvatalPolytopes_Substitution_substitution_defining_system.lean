@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Substitution_substitution_defining_system
 -- name    : ChvatalPolytopes.Substitution.substitution_defining_system
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:59:03.958694+00:00
 -- url     : https://prove2.me/theorems/fd4426c2-4986-4e16-8bd1-00bc3f3fb742

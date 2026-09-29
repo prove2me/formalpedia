@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_ErrorDecrease_error_diff_6_2
 -- name    : ConjGrad.ErrorDecrease.error_diff_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:56:26.470447+00:00
 -- url     : https://prove2.me/theorems/4a142e6a-f0ee-4331-be9a-8e85068c24db

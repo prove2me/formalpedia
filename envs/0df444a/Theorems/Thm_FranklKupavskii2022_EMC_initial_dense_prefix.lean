@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FranklKupavskii2022_EMC_initial_dense_prefix
 -- name    : FranklKupavskii2022.EMC.initial_dense_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:16:35.436565+00:00
 -- url     : https://prove2.me/theorems/c44cdcb6-1996-44f0-835b-34cef982ccca

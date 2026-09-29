@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PreorderADI_Correlation_newsvendor_order_and_profit
 -- name    : PreorderADI.Correlation.newsvendor_order_and_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:50:03.409043+00:00
 -- url     : https://prove2.me/theorems/5164efba-54f9-4120-82bf-8d25937561d1

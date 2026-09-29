@@ -32,6 +32,8 @@
 --   boundary*), Proposition 4.3. The
 --   observation is elementary and is stated there without any claim of priority; no novelty is claimed here
 --   either.
+-- source:
+--   Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10), Proposition 4.3. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 

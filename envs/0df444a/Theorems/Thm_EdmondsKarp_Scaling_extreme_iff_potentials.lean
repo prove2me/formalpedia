@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_Scaling_extreme_iff_potentials
 -- name    : EdmondsKarp.Scaling.extreme_iff_potentials
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:24:50.832766+00:00
 -- url     : https://prove2.me/theorems/3781a361-53c8-4671-8e1c-d465a454ef96

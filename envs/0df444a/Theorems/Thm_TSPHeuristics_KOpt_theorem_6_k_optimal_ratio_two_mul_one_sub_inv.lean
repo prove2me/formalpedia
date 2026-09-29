@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_KOpt_theorem_6_k_optimal_ratio_two_mul_one_sub_inv
 -- name    : TSPHeuristics.KOpt.theorem_6_k_optimal_ratio_two_mul_one_sub_inv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:01:44.437278+00:00
 -- url     : https://prove2.me/theorems/8f16e289-31dd-48c8-afca-15dab1367638

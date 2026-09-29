@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Oracle_lemma_B1
 -- name    : LassoDantzig.Oracle.lemma_B1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:09:22.966156+00:00
 -- url     : https://prove2.me/theorems/9f00efd1-6075-48d1-a0d7-6f04f26f0389

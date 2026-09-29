@@ -30,6 +30,8 @@
 --   Novelty is not asserted.
 --
 --   **Source.** Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.9, 25 September 2026 (GitHub release note-v1.9), Theorem 3.3. The mathematics is his; this node records it in Lean, and claims no novelty of its own.
+-- source:
+--   Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10), Theorem 3.3. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 import Definitions.Def_Diaz_Closure

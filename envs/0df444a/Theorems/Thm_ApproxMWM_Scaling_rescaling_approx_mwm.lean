@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxMWM_Scaling_rescaling_approx_mwm
 -- name    : ApproxMWM.Scaling.rescaling_approx_mwm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:08:08.163658+00:00
 -- url     : https://prove2.me/theorems/e21f2a94-6822-4f9f-b8a7-b701bec6ca36

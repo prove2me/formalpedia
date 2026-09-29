@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_RademacherVC_massart_lemma
 -- name    : FoundationsML.RademacherVC.massart_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:14:03.33199+00:00
 -- url     : https://prove2.me/theorems/8f6e70f5-312f-484e-a7a8-bf23bc49b7f9

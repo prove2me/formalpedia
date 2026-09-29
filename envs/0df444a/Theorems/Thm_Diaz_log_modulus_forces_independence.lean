@@ -19,6 +19,8 @@
 --   **Scope of the conclusion.** Carlo Perassi states the conclusion as "$\lambda$ and $\overline\lambda$ are algebraically independent over $\mathbb Q$; equivalently $\operatorname{trdeg}_{\mathbb Q}\mathbb Q(\lambda,|\lambda|)=2$". What is recorded here is the lower bound $\ge 2$ that the dichotomy yields directly. The passage from it to algebraic independence of the pair, and to the exact value $2$, uses the standard extraction of a transcendence basis from a generating set together with $\overline\lambda=|\lambda|^2/\lambda$; that step is **not** formalised in this node.
 --
 --   **Formalization note.** $K$ is an arbitrary subfield of $\mathbb C$ with `hKconj` asserting stability under complex conjugation — the property of $\mathcal L$ used to know $\overline\lambda\in\mathcal L$. "$\lambda\notin\mathbb R$" is `lam.im ≠ 0`, and $|\lambda|$ is `((‖lam‖ : ℝ) : ℂ)`. `#print axioms` on the submitted proof: `[propext, Classical.choice, Quot.sound]`.
+-- source:
+--   Known: Exercise 15.16(c) of M. Waldschmidt, Diophantine Approximation on Linear Algebraic Groups, Springer, 2000, p. 614, whose hint refers to Proposition 2 (p. 241) of G. Diaz, La conjecture des quatre exponentielles et les conjectures de D. Bertrand sur la fonction modulaire, J. Théor. Nombres Bordeaux 9 (1997), 229–245. This node proves only the implication from its carried hypothesis hMaster, a dichotomy for rationally proportional products that it does not prove; the unconditional statement for logarithms of algebraic numbers, in contrapositive form, is DiazModulus.exp_abs_transcendental_of_conj_algebraic. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 

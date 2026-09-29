@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicNewton_LocalQuad_theorem3_eigenvalue_bounds
 -- name    : CubicNewton.LocalQuad.theorem3_eigenvalue_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:37:37.350978+00:00
 -- url     : https://prove2.me/theorems/1f9f230d-0226-4e8c-afa7-d2ad0b4e1976

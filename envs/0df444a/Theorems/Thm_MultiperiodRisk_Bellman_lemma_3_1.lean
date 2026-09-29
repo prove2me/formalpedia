@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiperiodRisk_Bellman_lemma_3_1
 -- name    : MultiperiodRisk.Bellman.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:06:27.496985+00:00
 -- url     : https://prove2.me/theorems/6ae633fc-3447-46c8-8689-a19518c45526

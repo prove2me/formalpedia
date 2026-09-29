@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_MaxMin_prop4_phase1_eps_optimal
 -- name    : SatiaLave.MaxMin.prop4_phase1_eps_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:40:20.764994+00:00
 -- url     : https://prove2.me/theorems/12024752-034f-4c71-955f-b8a866c6f65a

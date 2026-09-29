@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomMatrices_quadratic_form_on_net
 -- name    : HighDimProb.RandomMatrices.quadratic_form_on_net
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:23:21.29099+00:00
 -- url     : https://prove2.me/theorems/66e14664-6067-4d0b-b3c2-4958d11db063

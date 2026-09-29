@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakJuditsky_Averaging_lyapunov_value_converges
 -- name    : PolyakJuditsky.Averaging.lyapunov_value_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:40:43.294712+00:00
 -- url     : https://prove2.me/theorems/a741af57-0be1-483e-925c-43bb07d37208

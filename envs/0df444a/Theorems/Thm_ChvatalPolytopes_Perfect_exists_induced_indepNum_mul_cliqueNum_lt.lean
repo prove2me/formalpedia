@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Perfect_exists_induced_indepNum_mul_cliqueNum_lt
 -- name    : ChvatalPolytopes.Perfect.exists_induced_indepNum_mul_cliqueNum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:13:48.011743+00:00
 -- url     : https://prove2.me/theorems/d0c52eb6-d69e-44e5-8cac-652bfeaadf4d

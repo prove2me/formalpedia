@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_chain_newsvendor
 -- name    : CachonPushPull.Pareto.chain_newsvendor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:23:54.866986+00:00
 -- url     : https://prove2.me/theorems/689fa6a8-9037-4325-8c02-10d7c5753d3c

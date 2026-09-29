@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Substitution_stable_max_decomposition
 -- name    : ChvatalPolytopes.Substitution.stable_max_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:58:27.833582+00:00
 -- url     : https://prove2.me/theorems/f647b758-aacf-4321-878f-2bb782308cc7

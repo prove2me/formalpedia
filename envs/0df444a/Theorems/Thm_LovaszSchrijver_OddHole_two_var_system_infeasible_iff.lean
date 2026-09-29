@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_OddHole_two_var_system_infeasible_iff
 -- name    : LovaszSchrijver.OddHole.two_var_system_infeasible_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:49:53.818988+00:00
 -- url     : https://prove2.me/theorems/1facb5a6-4b7f-4676-b56e-4eea424306f6

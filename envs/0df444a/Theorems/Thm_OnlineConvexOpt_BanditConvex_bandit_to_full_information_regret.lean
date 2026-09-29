@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_BanditConvex_bandit_to_full_information_regret
 -- name    : OnlineConvexOpt.BanditConvex.bandit_to_full_information_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:39:23.599475+00:00
 -- url     : https://prove2.me/theorems/58021617-3d2b-4598-8296-52da41e89eb4

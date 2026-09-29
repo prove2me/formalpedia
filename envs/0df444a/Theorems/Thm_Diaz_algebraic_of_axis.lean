@@ -26,6 +26,8 @@
 --   `DiazModulus.diaz_on_axes_of_hermite_lindemann`. What is published here is the half of the argument
 --   that is unconditional, and it is the half that carries the elementary content: on an axis, an
 --   algebraic modulus pins the point itself down to $\overline{\mathbb{Q}}$.
+-- source:
+--   Known: the first step of Case 1 of the proof of Proposition 1 in G. Diaz, Utilisation de la conjugaison complexe dans l'étude de la transcendance de valeurs de la fonction exponentielle usuelle, J. Théor. Nombres Bordeaux 16 (2004), 535–553, p. 551. It plays the same role in Remark 2.2 of Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10). Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 import Definitions.Def_Diaz_Closure

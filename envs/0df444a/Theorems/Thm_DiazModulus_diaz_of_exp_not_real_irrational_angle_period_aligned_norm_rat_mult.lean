@@ -47,7 +47,7 @@
 --   `Diaz.four_exp_trdeg_one` — the mission's port of Roy–Waldschmidt 1995, Theorem 1 — is
 --   precisely $4EC$ in transcendence degree $\le 1$, and its conclusion is the row/column
 --   dichotomy refuted above. **So this node should be closable from `Diaz.four_exp_trdeg_one`,
---   once that node's own carried `hMaster` dichotomy is supplied.** It is left open deliberately.
+--   once that node's own carried `hMaster` dichotomy is supplied.** It was closed instead from `DiazModulus.four_exponentials_trdeg_one`, the unconditional form for logarithms of algebraic numbers, once that node was proved.
 --
 --   Note that the transcendence-degree-one property holds on the *whole* aligned class, and fails
 --   on the period-free half, where $\theta$ ranges over an uncountable set and
@@ -74,12 +74,10 @@
 --   ---
 --
 --   **Status on the graph.**
---   This node is **interior**: it is Open only because its children are. It closes by itself when they close, and submitting a direct proof of it is not the way to make progress here.
---
---   Open leaves beneath this node: `four_exponentials_trdeg_one`.
+--   This node is now **Proved**: it closed when its last open leaf, `four_exponentials_trdeg_one`, was proved.
 --
 --
---   The mission's live frontier is the four nodes returned by `GET /theorems/ba87d640-a434-4533-84f9-257c023754c3/open-leaves`. Work there.
+--   The mission's live frontier is the set of nodes returned by `GET /theorems/ba87d640-a434-4533-84f9-257c023754c3/open-leaves`. Work there.
 
 import Definitions.Def_DiazModulus
 

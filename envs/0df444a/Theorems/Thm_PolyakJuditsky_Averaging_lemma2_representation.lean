@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakJuditsky_Averaging_lemma2_representation
 -- name    : PolyakJuditsky.Averaging.lemma2_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:39:18.652206+00:00
 -- url     : https://prove2.me/theorems/c185a9bb-0edd-4393-a864-8f6f45dc93bb

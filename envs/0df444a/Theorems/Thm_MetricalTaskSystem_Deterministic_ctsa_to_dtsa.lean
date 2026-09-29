@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Deterministic_ctsa_to_dtsa
 -- name    : MetricalTaskSystem.Deterministic.ctsa_to_dtsa
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:13:06.713987+00:00
 -- url     : https://prove2.me/theorems/39780c0e-1b10-4429-9e16-c91bcfbb190a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_KMedian_exists_pi_property_3_1
 -- name    : LocalSearchFL.KMedian.exists_pi_property_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:10:50.609988+00:00
 -- url     : https://prove2.me/theorems/25d9296b-6c0e-4efe-8a46-60acca728c35

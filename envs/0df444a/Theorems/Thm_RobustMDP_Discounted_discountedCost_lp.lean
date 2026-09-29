@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Discounted_discountedCost_lp
 -- name    : RobustMDP.Discounted.discountedCost_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:59:11.625061+00:00
 -- url     : https://prove2.me/theorems/b6e72bb8-671a-4b66-af0f-6df761a282c7

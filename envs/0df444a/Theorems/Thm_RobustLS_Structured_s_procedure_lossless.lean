@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Structured_s_procedure_lossless
 -- name    : RobustLS.Structured.s_procedure_lossless
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:34:17.177825+00:00
 -- url     : https://prove2.me/theorems/562e06b5-fdec-43d1-93ad-9cf44e3f913f

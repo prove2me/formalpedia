@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_Discounted_exists_optimal_stationary
 -- name    : JewellMRP.Discounted.exists_optimal_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:03:42.581291+00:00
 -- url     : https://prove2.me/theorems/4d9001b0-6b33-4471-8360-1f6d4898382d

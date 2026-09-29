@@ -39,6 +39,8 @@
 --   `Diaz.exp_ratio_pow_eq_one_iff` to $m\,\Im(qu)=n\pi$; here $\Im(qu)=qk\pi\neq 0$ forces
 --   $n\neq 0$, so $|n|\ge 1$ and $\Im(qu)^{2}\ge\pi^{2}/m^{2}$, while
 --   $\Re(qu)^{2}=q^{2}(\Re u)^{2}>0$ supplies the strictness.
+-- source:
+--   Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10), Proposition 3.2. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 

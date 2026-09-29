@@ -18,6 +18,8 @@
 --   **What the node proves.** Given `hMaster`, the corollary follows by applying the dichotomy to $(\mu_1,\nu_1,\mu_2,\nu_2)=(\lambda_{11},\lambda_{22},\lambda_{12},\lambda_{21})$ with $m=1$. Its third alternative is excluded by the transcendence-degree hypothesis. In the first alternative $\lambda_{12}=c\lambda_{11}$ and $\lambda_{21}=c'\lambda_{22}$, and the product relation forces $cc'=1$, so the second column is $c$ times the first; the second alternative is symmetric and gives the rows. That case analysis, including the derivation of $cc'=1$, is the content actually verified here.
 --
 --   **Formalization note.** Transcendence degree is `Algebra.trdeg ℚ` of `Algebra.adjoin ℚ` of the four numbers; membership in $\mathcal L$ is `Complex.exp l ∈ K`; "$\mu_2\in\mathbb Q^\times\mu_1$" is `∃ c : ℚ, c ≠ 0 ∧ μ₂ = c * μ₁`; and "linearly dependent over $\mathbb Q$" is the existence of a non-zero rational pair annihilating the two rows, resp. columns. `#print axioms` on the submitted proof: `[propext, Classical.choice, Quot.sound]`.
+-- source:
+--   Known: Theorem 1 of D. Roy and M. Waldschmidt, Quadratic relations between logarithms of algebraic numbers, Proc. Japan Acad. Ser. A 71 (1995), 151–153, p. 151 (the four exponentials theorem in transcendence degree one), where for its proof they refer to W. D. Brownawell, J. Number Theory 6 (1974), 22–31, and M. Waldschmidt, J. Number Theory 5 (1973), 191–202. This node proves only the implication from its carried hypothesis hMaster, a dichotomy for rationally proportional products that it does not prove; the theorem itself, for logarithms of algebraic numbers, is DiazModulus.four_exponentials_trdeg_one. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 

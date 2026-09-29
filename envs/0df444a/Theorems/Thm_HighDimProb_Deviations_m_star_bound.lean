@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_Deviations_m_star_bound
 -- name    : HighDimProb.Deviations.m_star_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:09:42.868231+00:00
 -- url     : https://prove2.me/theorems/bb7d1caf-7e24-4292-93f0-9cadd246dfb2

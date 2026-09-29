@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiuVanRyzin_cutoff_strictMono_convex
 -- name    : LiuVanRyzin.cutoff_strictMono_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:36:57.289989+00:00
 -- url     : https://prove2.me/theorems/ca5514ca-df63-4ff4-a601-4d48be84a899

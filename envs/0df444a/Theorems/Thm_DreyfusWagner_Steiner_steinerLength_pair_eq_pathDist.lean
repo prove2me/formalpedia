@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DreyfusWagner_Steiner_steinerLength_pair_eq_pathDist
 -- name    : DreyfusWagner.Steiner.steinerLength_pair_eq_pathDist
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:04:59.285873+00:00
 -- url     : https://prove2.me/theorems/3f30b1cf-6ad0-4515-8733-215b5288d1a9

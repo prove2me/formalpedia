@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyhedralSOC_UpperBound_planar_approx_extend
 -- name    : PolyhedralSOC.UpperBound.planar_approx_extend
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:48:16.545205+00:00
 -- url     : https://prove2.me/theorems/0ee193fe-3f30-4a35-be40-85365bcab3c4

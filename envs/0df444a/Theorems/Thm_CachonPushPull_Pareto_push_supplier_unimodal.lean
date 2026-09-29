@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_push_supplier_unimodal
 -- name    : CachonPushPull.Pareto.push_supplier_unimodal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:26:20.399984+00:00
 -- url     : https://prove2.me/theorems/47d2c273-ccfa-4cb1-abd7-3a9f13a1a104

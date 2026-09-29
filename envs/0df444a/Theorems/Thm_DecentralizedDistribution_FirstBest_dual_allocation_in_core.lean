@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DecentralizedDistribution_FirstBest_dual_allocation_in_core
 -- name    : DecentralizedDistribution.FirstBest.dual_allocation_in_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T06:51:11.672447+00:00
 -- url     : https://prove2.me/theorems/cabdeb0c-4866-4ac5-9964-5f969c5aa137

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathFindingLP_Centering_split_newton_step
 -- name    : PathFindingLP.Centering.split_newton_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:37:14.286422+00:00
 -- url     : https://prove2.me/theorems/412af15a-adbe-4c06-981f-867eb58c394f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_LossFunctions_zhang_inequality
 -- name    : SupportVectorMachines.LossFunctions.zhang_inequality
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:23:32.562988+00:00
 -- url     : https://prove2.me/theorems/bb91dcf0-aee8-4ace-bdba-ff5f9e6eb618

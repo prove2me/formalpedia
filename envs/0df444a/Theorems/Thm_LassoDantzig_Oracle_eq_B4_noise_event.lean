@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Oracle_eq_B4_noise_event
 -- name    : LassoDantzig.Oracle.eq_B4_noise_event
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:08:24.776446+00:00
 -- url     : https://prove2.me/theorems/c8a29cc7-1bc9-4017-88f8-0dde1b36a7ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Oracle_theorem_6_1
 -- name    : LassoDantzig.Oracle.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:11:14.382791+00:00
 -- url     : https://prove2.me/theorems/be797308-46d9-4a7f-93b1-53b79ba22086

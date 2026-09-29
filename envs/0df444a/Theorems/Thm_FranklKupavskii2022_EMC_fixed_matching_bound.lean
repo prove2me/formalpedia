@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FranklKupavskii2022_EMC_fixed_matching_bound
 -- name    : FranklKupavskii2022.EMC.fixed_matching_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:20:59.039289+00:00
 -- url     : https://prove2.me/theorems/0d07c5dc-213e-4c99-828c-8bfb0f06e97c

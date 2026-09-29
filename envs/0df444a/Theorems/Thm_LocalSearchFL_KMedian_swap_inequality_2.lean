@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_KMedian_swap_inequality_2
 -- name    : LocalSearchFL.KMedian.swap_inequality_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:12:28.451631+00:00
 -- url     : https://prove2.me/theorems/5b6f6c5d-0bd9-4e73-b9ff-fc77d85f4f75

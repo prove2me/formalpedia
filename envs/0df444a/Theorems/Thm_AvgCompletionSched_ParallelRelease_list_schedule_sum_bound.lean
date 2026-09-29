@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_ParallelRelease_list_schedule_sum_bound
 -- name    : AvgCompletionSched.ParallelRelease.list_schedule_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:54:36.134986+00:00
 -- url     : https://prove2.me/theorems/e9352715-1807-489f-b8a4-3d94d9b0ec3c

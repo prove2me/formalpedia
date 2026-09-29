@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_KOpt_theorem_6_proof_shortest_even_tour
 -- name    : TSPHeuristics.KOpt.theorem_6_proof_shortest_even_tour
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:00:18.647635+00:00
 -- url     : https://prove2.me/theorems/1e8a2c29-2164-47f0-b0ba-2d7cc33e7c5a

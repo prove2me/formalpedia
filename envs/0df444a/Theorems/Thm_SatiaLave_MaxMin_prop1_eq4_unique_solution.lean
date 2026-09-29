@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_MaxMin_prop1_eq4_unique_solution
 -- name    : SatiaLave.MaxMin.prop1_eq4_unique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:38:34.404353+00:00
 -- url     : https://prove2.me/theorems/bd0e3acc-0479-4efc-ad8a-b73e78aafce2

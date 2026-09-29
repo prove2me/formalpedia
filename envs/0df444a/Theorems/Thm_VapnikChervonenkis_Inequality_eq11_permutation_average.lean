@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Inequality_eq11_permutation_average
 -- name    : VapnikChervonenkis.Inequality.eq11_permutation_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:17:17.158195+00:00
 -- url     : https://prove2.me/theorems/503d1447-8360-4011-80bc-ac06f54a37bb

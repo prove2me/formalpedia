@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_integral_H_eq
 -- name    : ZhengQR.OrderQty.integral_H_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:49:59.573296+00:00
 -- url     : https://prove2.me/theorems/19934b64-77fd-4317-80cc-9dd627f15367

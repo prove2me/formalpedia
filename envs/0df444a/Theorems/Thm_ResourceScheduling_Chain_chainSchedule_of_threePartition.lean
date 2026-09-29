@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Chain_chainSchedule_of_threePartition
 -- name    : ResourceScheduling.Chain.chainSchedule_of_threePartition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:27:02.436896+00:00
 -- url     : https://prove2.me/theorems/d435f99f-786d-4818-acde-4aaca1a12694

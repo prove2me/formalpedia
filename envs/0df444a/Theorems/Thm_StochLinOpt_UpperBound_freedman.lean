@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochLinOpt_UpperBound_freedman
 -- name    : StochLinOpt.UpperBound.freedman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:31:28.612+00:00
 -- url     : https://prove2.me/theorems/5ed1f808-8ff6-4afe-9032-49f105a32095

@@ -7,7 +7,7 @@
 -- title:
 --   The norm of a point of the period plane of a candidate
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics: the norm identity in the proof of his classification of the period plane, unpublished apart from this node. Its case $a=1$, $b=0$ is the identity in the proof of Theorem 3.3 of his companion note to https://github.com/carlok/diaz-modulus-lean (version 1.9, 25 September 2026, GitHub release note-v1.9), and Appendix A of the note names this node as the identity from which Corollary 3.4 there follows. Published on his mission with his permission. No novelty is claimed for it here; the identity is elementary.
+--   **Source.** This is Carlo Perassi's mathematics: the norm identity in the proof of his classification of the period plane, unpublished apart from this node. Its case $a=1$, $b=0$ is the identity in the proof of Theorem 3.3 of his companion note to https://github.com/carlok/diaz-modulus-lean (version 1.9, 25 September 2026, GitHub release note-v1.9), and Appendix A of the note names this node as the identity from which Corollary 3.4 there follows. No novelty is claimed for it here; the identity is elementary.
 --
 --   **Statement.** For $u \in \mathbb{C}$, real $a,b,c$ and $w = a u + b \bar u + 2\pi i c$, writing $\rho = u \bar u$ and $\theta = \Im u$,
 --   $$w \bar w  =  (a+b)^2 \rho  +  4\,(a\theta + \pi c)(\pi c - b\theta).$$

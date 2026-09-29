@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_EOQHeuristic_optQty_iff
 -- name    : ZhengQR.EOQHeuristic.optQty_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:44:11.75349+00:00
 -- url     : https://prove2.me/theorems/dcd7ac99-fb29-4b66-bd9e-131258a74f52

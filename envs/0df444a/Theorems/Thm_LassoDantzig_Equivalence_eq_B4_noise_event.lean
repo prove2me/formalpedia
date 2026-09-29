@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Equivalence_eq_B4_noise_event
 -- name    : LassoDantzig.Equivalence.eq_B4_noise_event
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:52:51.36317+00:00
 -- url     : https://prove2.me/theorems/e35e706a-86f5-4286-8de6-88051e3b01bb

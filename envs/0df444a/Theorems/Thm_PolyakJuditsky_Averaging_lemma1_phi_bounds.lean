@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakJuditsky_Averaging_lemma1_phi_bounds
 -- name    : PolyakJuditsky.Averaging.lemma1_phi_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:38:45.063372+00:00
 -- url     : https://prove2.me/theorems/8a31e861-6fc6-4b81-ae43-1ac1aa78372c

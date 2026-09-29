@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Deterministic_astar_f_le_offline
 -- name    : MetricalTaskSystem.Deterministic.astar_f_le_offline
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:14:56.688432+00:00
 -- url     : https://prove2.me/theorems/16967dcc-dbd4-40c6-a0dc-c80862e643e4

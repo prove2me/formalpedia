@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_SeriesParallel_deleteIdentify_isSeriesParallel
 -- name    : ChvatalPolytopes.SeriesParallel.deleteIdentify_isSeriesParallel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:26:02.234867+00:00
 -- url     : https://prove2.me/theorems/245ced53-a3af-44c5-98c9-754e3fb153de

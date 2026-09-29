@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftMonopole_radial_W_equation
 -- name    : HooftMonopole.radial_W_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-23T20:04:12.588227+00:00
 -- url     : https://prove2.me/theorems/6e43caa0-8895-4e4b-ba29-dc05fb738ea2

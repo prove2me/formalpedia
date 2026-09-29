@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Substitution_convexHull_iff_minmax
 -- name    : ChvatalPolytopes.Substitution.convexHull_iff_minmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:57:44.312233+00:00
 -- url     : https://prove2.me/theorems/632d1e97-e353-4957-9f09-236be41a864e

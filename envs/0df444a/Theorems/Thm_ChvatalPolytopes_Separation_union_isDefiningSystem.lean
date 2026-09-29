@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Separation_union_isDefiningSystem
 -- name    : ChvatalPolytopes.Separation.union_isDefiningSystem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:18:26.141067+00:00
 -- url     : https://prove2.me/theorems/d3591128-e38d-49b6-b7fc-125a38b52024

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Regression_theorem_A_8_1_symmetrization
 -- name    : SupportVectorMachines.Regression.theorem_A_8_1_symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:13:57.606272+00:00
 -- url     : https://prove2.me/theorems/7e9690a5-a75e-416a-8053-dc5c3a504db1

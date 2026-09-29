@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Structured_s_procedure_step_eq29
 -- name    : RobustLS.Structured.s_procedure_step_eq29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:35:32.14174+00:00
 -- url     : https://prove2.me/theorems/1ca20ce2-6207-4fef-a52c-a28c95ebecba

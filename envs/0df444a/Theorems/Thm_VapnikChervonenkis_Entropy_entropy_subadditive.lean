@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_entropy_subadditive
 -- name    : VapnikChervonenkis.Entropy.entropy_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:05:45.25545+00:00
 -- url     : https://prove2.me/theorems/53c4e1fe-2bce-4b4f-bab5-781514406dd3

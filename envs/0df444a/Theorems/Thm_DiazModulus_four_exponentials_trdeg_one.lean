@@ -21,7 +21,7 @@
 --
 --   **Statement checked against the source.** The 1995 paper states the hypothesis as transcendence degree exactly $1$. This node writes $\le 1$: the degree-zero case is vacuous here, since four non-zero *algebraic* $\lambda_{ij}$ with $e^{\lambda_{ij}}$ algebraic contradict Hermite–Lindemann, available on this mission as the Proved node `DiazModulus.hermite_lindemann_holds`.
 --
---   **Relation to `Diaz.four_exp_trdeg_one`.** That node states the same conclusion over an arbitrary subfield $K\subset\mathbb C$ and carries a master dichotomy as the explicit hypothesis `hMaster`, because no source was held when it was written. This node is the $K=\overline{\mathbb Q}$ case, first recorded on the authority of the paper above and since proved. Neither supersedes the other: the $K$-general form is not supported by this source.
+--   **Relation to `Diaz.four_exp_trdeg_one`.** That node states the same conclusion over an arbitrary subfield $K\subset\mathbb C$ and carries a master dichotomy as the explicit hypothesis `hMaster`, because Carlo Perassi's derivation of that dichotomy from Théorème 0.2 of D. Roy and M. Waldschmidt, *Approximation diophantienne et indépendance algébrique de logarithmes*, Ann. Sci. École Norm. Sup. (4) **30** (1997), 753–796, is not formalised. This node is the $K=\overline{\mathbb Q}$ case, first recorded on the authority of the 1995 paper above and since proved. Neither supersedes the other: the $K$-general form is not supported by this source.
 --
 --   **Formalization note.** Transcendence degree is `Algebra.trdeg ℚ` of `Algebra.adjoin ℚ` of the four numbers, and "linearly dependent over $\mathbb Q$" is the existence of a non-zero rational pair annihilating the two rows, respectively the two columns.
 --

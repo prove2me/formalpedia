@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Structured_worst_case_residual_sdp
 -- name    : RobustLS.Structured.worst_case_residual_sdp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:36:04.943987+00:00
 -- url     : https://prove2.me/theorems/b4608c09-844d-4ba9-9d51-e8a38e2643ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeldWolfeCrowder_CoreProblem_bounded_iterates
 -- name    : HeldWolfeCrowder.CoreProblem.bounded_iterates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:49:53.279676+00:00
 -- url     : https://prove2.me/theorems/53940c0f-a999-4153-83d0-21d806834864

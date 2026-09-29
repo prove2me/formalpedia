@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Regression_lemma_9_2_concentration_of_hilbert_space_valued_means
 -- name    : SupportVectorMachines.Regression.lemma_9_2_concentration_of_hilbert_space_valued_means
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:15:17.278545+00:00
 -- url     : https://prove2.me/theorems/4779a7b8-f1fc-43a5-808f-648da290308d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Increase_cor5_1_stationary_bellman
 -- name    : MonotoneDP.Increase.cor5_1_stationary_bellman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:58:23.335041+00:00
 -- url     : https://prove2.me/theorems/b21ba411-4f99-4606-8ef4-4d3a360a0787

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondConvexRisk_Entropic_rhoGamma_isCondConvexRiskMeasure
 -- name    : CondConvexRisk.Entropic.rhoGamma_isCondConvexRiskMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:01:06.906781+00:00
 -- url     : https://prove2.me/theorems/3190aa9b-6f08-4359-8f66-29ea49508928

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Marking_phase_expected_cost_le
 -- name    : CompetitivePaging.Marking.phase_expected_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:12:23.510994+00:00
 -- url     : https://prove2.me/theorems/71c0f0d1-1cfb-4aa1-bf96-c6527d58ed22

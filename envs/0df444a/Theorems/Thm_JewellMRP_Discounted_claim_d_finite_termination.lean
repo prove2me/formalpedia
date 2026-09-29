@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_Discounted_claim_d_finite_termination
 -- name    : JewellMRP.Discounted.claim_d_finite_termination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:02:42.275707+00:00
 -- url     : https://prove2.me/theorems/8eaaf17a-191f-4c11-8d5c-4062eb3a4755

@@ -15,7 +15,7 @@
 --
 --   **Novelty.** Not asserted.
 -- source:
---   Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.9, 25 September 2026 (GitHub release note-v1.9), Theorem 5.4(b). Novelty is not asserted. Formal proof: Diaz modulus mission, 24 September 2026 (C. Perassi).
+--   Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.9, 25 September 2026 (GitHub release note-v1.9), Theorem 5.4(b). Novelty is not asserted. Formal proof: Diaz modulus mission, 23 September 2026 (C. Perassi).
 
 import Definitions.Def_DiazModulus
 

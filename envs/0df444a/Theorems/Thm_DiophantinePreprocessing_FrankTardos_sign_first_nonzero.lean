@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiophantinePreprocessing_FrankTardos_sign_first_nonzero
 -- name    : DiophantinePreprocessing.FrankTardos.sign_first_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:41:25.594476+00:00
 -- url     : https://prove2.me/theorems/b9766566-ee71-4cc6-a9bd-ed538092ab48

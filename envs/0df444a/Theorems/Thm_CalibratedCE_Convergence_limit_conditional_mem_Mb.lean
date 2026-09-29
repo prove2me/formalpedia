@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedCE_Convergence_limit_conditional_mem_Mb
 -- name    : CalibratedCE.Convergence.limit_conditional_mem_Mb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:32:32.298619+00:00
 -- url     : https://prove2.me/theorems/d9a24d15-ce3c-42c0-a7d2-60d4a128888f

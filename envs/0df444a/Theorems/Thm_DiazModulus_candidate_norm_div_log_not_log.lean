@@ -19,7 +19,7 @@
 --
 --   **Proof.** The matrix $\begin{pmatrix} u & x \\ |u|^{2}/x & \bar u \end{pmatrix}$ has determinant $u\bar u - |u|^{2} = 0$. If $e^{|u|^{2}/x}$ were algebraic, its entries would be non-zero logarithms of algebraic numbers, all algebraic over $\mathbb{Q}[u]$. By `DiazModulus.four_exponentials_trdeg_one` its rows or columns would then be $\mathbb{Q}$-dependent. A row relation puts $x$ in $\mathbb{Q}\bar u$, a column relation puts it in $\mathbb{Q}u$.
 --
---   **Novelty.** None claimed: it is a short consequence of the four exponentials theorem in transcendence degree one. It was not found in the literature reading of 24 September 2026 (Diaz, Roy, Waldschmidt, Dasgupta–Kakde), so it may be known in another form.
+--   **Novelty.** None claimed: it is a short consequence of the four exponentials theorem in transcendence degree one.
 -- source:
 --   Carlo Perassi, unpublished apart from this node. Novelty is not asserted. Formal proof: Diaz modulus mission, 24 September 2026 (C. Perassi). It generalises DiazModulus.candidate_harmonic_not_log. Background: W. D. Brownawell, The algebraic independence of certain numbers related to the exponential function, J. Number Theory 6 (1974); M. Waldschmidt, Solution du huitième problème de Schneider, J. Number Theory 5 (1973).
 

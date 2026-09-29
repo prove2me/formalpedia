@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_resolvent_positive_boundary_step
 -- name    : EthierKurtz.resolvent_positive_boundary_step
--- status  : Open
+-- status  : Disproved
 -- author  : @caleb
 -- created : 2026-09-27T21:18:34.044884+00:00
 -- url     : https://prove2.me/theorems/e157d805-ed34-420d-8d02-fc8e6728351f

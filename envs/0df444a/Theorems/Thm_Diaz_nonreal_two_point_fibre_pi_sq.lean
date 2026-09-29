@@ -7,7 +7,7 @@
 -- title:
 --   Non-real two-point fibres force $e^{\pi^2}$ transcendental
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics, unpublished apart from this node. Published on his mission with his permission. No novelty is claimed for it; the composition is elementary once its inputs are in place, and the statement is a direct consequence of Diaz's Corollaire 2 (P)(1), p. 381 of his 2007 paper cited below.
+--   **Source.** This is Carlo Perassi's mathematics, unpublished apart from this node. No novelty is claimed for it; the composition is elementary once its inputs are in place, and the statement is a direct consequence of Diaz's Corollaire 2 (P)(1), p. 381 of his 2007 paper cited below.
 --
 --   **Statement.** Write $\overline{\mathbb Q}$ for the algebraic numbers, $\mathcal L=\{\ell\in\mathbb C:\exp\ell\in\overline{\mathbb Q}\}$, and
 --   $$\widetilde{\mathcal L}\;=\;\overline{\mathbb Q}+\operatorname{span}_{\overline{\mathbb Q}}(\mathcal L)$$

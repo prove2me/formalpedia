@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_InfiniteSample_lemma_5_1_uniqueness_of_svm_solutions
 -- name    : SupportVectorMachines.InfiniteSample.lemma_5_1_uniqueness_of_svm_solutions
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:04:47.339118+00:00
 -- url     : https://prove2.me/theorems/88080838-6e9a-4a64-a609-8e1aea7d1724

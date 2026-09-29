@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Marking_stale_fault_prob
 -- name    : CompetitivePaging.Marking.stale_fault_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:11:54.777408+00:00
 -- url     : https://prove2.me/theorems/49ef3563-ec8e-40b9-9530-d4f0132117ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Lasso_eq_B6_kkt
 -- name    : LassoDantzig.Lasso.eq_B6_kkt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:18:43.394389+00:00
 -- url     : https://prove2.me/theorems/70c34c80-5be8-4ccf-b9aa-9c4e51b927e8

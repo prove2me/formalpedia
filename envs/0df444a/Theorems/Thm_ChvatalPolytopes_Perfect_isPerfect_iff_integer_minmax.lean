@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Perfect_isPerfect_iff_integer_minmax
 -- name    : ChvatalPolytopes.Perfect.isPerfect_iff_integer_minmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:15:25.933407+00:00
 -- url     : https://prove2.me/theorems/2c30a3ba-bbf0-45f8-b0f8-1b574c8c5a38

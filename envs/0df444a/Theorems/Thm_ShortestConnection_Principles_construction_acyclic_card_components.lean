@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestConnection_Principles_construction_acyclic_card_components
 -- name    : ShortestConnection.Principles.construction_acyclic_card_components
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:54:31.652284+00:00
 -- url     : https://prove2.me/theorems/ea77e897-e838-4911-8021-de1d651203ca

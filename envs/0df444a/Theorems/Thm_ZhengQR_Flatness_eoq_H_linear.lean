@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_Flatness_eoq_H_linear
 -- name    : ZhengQR.Flatness.eoq_H_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:07:05.598932+00:00
 -- url     : https://prove2.me/theorems/4f5825ef-b4c4-47e2-b883-2fc61d133a85

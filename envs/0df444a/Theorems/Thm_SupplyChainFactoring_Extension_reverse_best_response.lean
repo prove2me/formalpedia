@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Extension_reverse_best_response
 -- name    : SupplyChainFactoring.Extension.reverse_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:27:51.001888+00:00
 -- url     : https://prove2.me/theorems/8c220e71-4ade-44e7-953d-9b4d53e8cbf7

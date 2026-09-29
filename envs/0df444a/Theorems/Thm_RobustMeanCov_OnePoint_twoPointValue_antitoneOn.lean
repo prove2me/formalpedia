@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_OnePoint_twoPointValue_antitoneOn
 -- name    : RobustMeanCov.OnePoint.twoPointValue_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:42:41.827159+00:00
 -- url     : https://prove2.me/theorems/fc929e98-d810-4335-b122-4ce38fa624c6

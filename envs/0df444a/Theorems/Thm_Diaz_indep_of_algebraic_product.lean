@@ -7,7 +7,7 @@
 -- title:
 --   $1$, $\nu$ and $p$ are $K$-independent when $p\nu$ is a non-zero element of $K$
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics: the independence step, unpublished apart from this node, in the proof of his theorem that non-real two-point fibres force $e^{\pi^2}$ transcendental. Published on his mission with his permission. No novelty is claimed for it here; the argument is elementary.
+--   **Source.** This is Carlo Perassi's mathematics: the independence step, unpublished apart from this node, in the proof of his theorem that non-real two-point fibres force $e^{\pi^2}$ transcendental. No novelty is claimed for it here; the argument is elementary.
 --
 --   **Statement.** Let $K \subset \mathbb{C}$ be a subfield, $p$ transcendental over $K$, and $\nu \in \mathbb{C}$ with $\beta := p\nu \in K \setminus \{0\}$. Then $1$, $\nu$, $p$ are linearly independent over $K$.
 --

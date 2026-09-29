@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoresConvexGames_Stability_exists_face_extension
 -- name    : CoresConvexGames.Stability.exists_face_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:52:03.431988+00:00
 -- url     : https://prove2.me/theorems/68136413-4a66-482e-835f-426e06db92c3

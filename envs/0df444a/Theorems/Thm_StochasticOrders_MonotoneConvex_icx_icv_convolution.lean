@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MonotoneConvex_icx_icv_convolution
 -- name    : StochasticOrders.MonotoneConvex.icx_icv_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:03:01.579618+00:00
 -- url     : https://prove2.me/theorems/d09565f4-5837-4837-a258-1a976e21505e

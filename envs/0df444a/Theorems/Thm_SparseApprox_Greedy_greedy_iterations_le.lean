@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseApprox_Greedy_greedy_iterations_le
 -- name    : SparseApprox.Greedy.greedy_iterations_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:25:52.090853+00:00
 -- url     : https://prove2.me/theorems/84d1a54c-0841-473b-92b2-996b9158bc1a

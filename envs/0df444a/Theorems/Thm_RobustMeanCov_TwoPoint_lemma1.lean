@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_TwoPoint_lemma1
 -- name    : RobustMeanCov.TwoPoint.lemma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:50:40.434013+00:00
 -- url     : https://prove2.me/theorems/edfe2fe9-7065-432d-83f7-bce62111689d

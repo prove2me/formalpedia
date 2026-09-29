@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_OperatorSliding_explicit_gs_rate
 -- name    : FirstOrderOpt.OperatorSliding.explicit_gs_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:06:19.048617+00:00
 -- url     : https://prove2.me/theorems/227c789a-0b33-4129-ae63-8f058cdf595c

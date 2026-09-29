@@ -40,10 +40,10 @@
 --   **Status on the graph.**
 --   This node is **interior**: it is Open only because its children are. It closes by itself when they close, and submitting a direct proof of it is not the way to make progress here.
 --
---   Open leaves beneath this node: `norm_transcendental_of_generic_conj_pair`, `recip_pi_not_log_real_gamma`, `four_exponentials_trdeg_one`, `recip_pi_not_log_imag_gamma`. One of them, `norm_transcendental_of_generic_conj_pair`, is **equivalent to the root** modulo Hermite–Lindemann, so the part of this subtree that runs through it is circular. The others are genuine reductions.
+--   Open leaves beneath this node: `normSq_transcendental_of_generic_conj_pair`, `recip_pi_not_log_real_gamma`, `recip_pi_not_log_imag_gamma`. The first lies below `norm_transcendental_of_generic_conj_pair`, which is **equivalent to the root** modulo Hermite–Lindemann, so the part of this subtree that runs through it is circular. The others are genuine reductions.
 --
 --
---   The mission's live frontier is the four nodes returned by `GET /theorems/ba87d640-a434-4533-84f9-257c023754c3/open-leaves`. Work there.
+--   The mission's live frontier is the set of nodes returned by `GET /theorems/ba87d640-a434-4533-84f9-257c023754c3/open-leaves`. Work there.
 
 import Definitions.Def_DiazModulus
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_reorder_opt_iff
 -- name    : ZhengQR.OrderQty.reorder_opt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:49:35.128985+00:00
 -- url     : https://prove2.me/theorems/f099db5d-70f2-4cda-9090-f7a3b498db73

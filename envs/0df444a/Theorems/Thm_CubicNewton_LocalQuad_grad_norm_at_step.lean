@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicNewton_LocalQuad_grad_norm_at_step
 -- name    : CubicNewton.LocalQuad.grad_norm_at_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:35:27.802557+00:00
 -- url     : https://prove2.me/theorems/3cbb6604-c918-46c7-9725-2d7ed47faa4d

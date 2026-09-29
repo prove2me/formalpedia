@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_LinFrac_lemma22_necessity
 -- name    : RobustLS.LinFrac.lemma22_necessity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:38:23.899269+00:00
 -- url     : https://prove2.me/theorems/cf6201c4-3a83-437e-8bb9-ffde478a73aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Separation_sum_le_indepNum_isFacet
 -- name    : ChvatalPolytopes.Separation.sum_le_indepNum_isFacet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:19:01.959378+00:00
 -- url     : https://prove2.me/theorems/ff04e451-4168-413b-add5-2d01ac9b15d2

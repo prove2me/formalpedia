@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_necessity_step1
 -- name    : VapnikChervonenkis.Entropy.necessity_step1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:09:08.883846+00:00
 -- url     : https://prove2.me/theorems/7241c19d-f7e9-4878-a374-d824fa60a7f4

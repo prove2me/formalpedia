@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_zudilin_series_summable
 -- name    : ZudilinZeta.zudilin_series_summable
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-22T18:08:02.77976+00:00
 -- url     : https://prove2.me/theorems/55b395a9-53e2-42c0-9f60-3895aba3ec0f

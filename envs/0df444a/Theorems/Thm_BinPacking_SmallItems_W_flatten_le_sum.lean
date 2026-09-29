@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_SmallItems_W_flatten_le_sum
 -- name    : BinPacking.SmallItems.W_flatten_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:22:49.18568+00:00
 -- url     : https://prove2.me/theorems/2f8cf4ab-a1ad-42b4-bbaa-dae86bc39e45

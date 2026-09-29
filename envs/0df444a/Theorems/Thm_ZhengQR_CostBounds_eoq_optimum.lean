@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_CostBounds_eoq_optimum
 -- name    : ZhengQR.CostBounds.eoq_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:00:47.746934+00:00
 -- url     : https://prove2.me/theorems/7b38ee94-c543-450c-a905-cda3b073e4bc

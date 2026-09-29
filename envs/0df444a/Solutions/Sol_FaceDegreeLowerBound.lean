@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FaceDegreeLowerBound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-09-26T22:00:10.931678+00:00
 -- url     : https://prove2.me/submissions/a022c58f-63b5-4840-a0e3-b7bc26a44ec1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_DartSuccessorPreservesFace
 import Theorems.Thm_EveryFaceIncidentDart

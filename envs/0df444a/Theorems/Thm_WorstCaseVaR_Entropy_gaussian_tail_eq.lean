@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_Entropy_gaussian_tail_eq
 -- name    : WorstCaseVaR.Entropy.gaussian_tail_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:18:01.17523+00:00
 -- url     : https://prove2.me/theorems/984fb152-cce9-4a44-9915-59b495c903a8

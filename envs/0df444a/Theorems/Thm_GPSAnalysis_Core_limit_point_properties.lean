@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GPSAnalysis_Core_limit_point_properties
 -- name    : GPSAnalysis.Core.limit_point_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T07:34:03.803718+00:00
 -- url     : https://prove2.me/theorems/8af53f70-d4f4-4d1b-9c81-0ff514d4d534

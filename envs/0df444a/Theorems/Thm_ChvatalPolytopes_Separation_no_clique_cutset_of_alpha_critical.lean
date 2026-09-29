@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Separation_no_clique_cutset_of_alpha_critical
 -- name    : ChvatalPolytopes.Separation.no_clique_cutset_of_alpha_critical
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:19:39.521884+00:00
 -- url     : https://prove2.me/theorems/22f3e31c-8bb4-48bb-baae-542fe22c0570

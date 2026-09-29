@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_LearningTheory_oco_to_pac_generalization
 -- name    : OnlineConvexOpt.LearningTheory.oco_to_pac_generalization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:47:25.611854+00:00
 -- url     : https://prove2.me/theorems/ee5478aa-2f5c-4f5b-9ba8-145882a4eb83

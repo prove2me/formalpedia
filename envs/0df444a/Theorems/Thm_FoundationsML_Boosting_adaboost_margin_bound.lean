@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Boosting_adaboost_margin_bound
 -- name    : FoundationsML.Boosting.adaboost_margin_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:12:31.295316+00:00
 -- url     : https://prove2.me/theorems/a67ae01a-a6f4-4160-8e93-d4fa06fbe231

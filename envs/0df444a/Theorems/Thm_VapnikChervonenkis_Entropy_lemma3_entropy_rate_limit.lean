@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_lemma3_entropy_rate_limit
 -- name    : VapnikChervonenkis.Entropy.lemma3_entropy_rate_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:06:23.598621+00:00
 -- url     : https://prove2.me/theorems/0beed8db-9f1e-4e31-a8cc-73934bb571c7

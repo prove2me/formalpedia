@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxNewton_Inexact_compGradStep_norm_le
 -- name    : ProxNewton.Inexact.compGradStep_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:38:10.068149+00:00
 -- url     : https://prove2.me/theorems/78647def-f8a1-43d3-b402-53c29d8f0a9f

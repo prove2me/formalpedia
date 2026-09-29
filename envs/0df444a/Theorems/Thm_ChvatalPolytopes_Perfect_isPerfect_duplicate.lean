@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Perfect_isPerfect_duplicate
 -- name    : ChvatalPolytopes.Perfect.isPerfect_duplicate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:14:32.207618+00:00
 -- url     : https://prove2.me/theorems/a55643e9-1faa-462f-ac85-4992f38276f2

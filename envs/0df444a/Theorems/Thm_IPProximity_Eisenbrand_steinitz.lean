@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPProximity_Eisenbrand_steinitz
 -- name    : IPProximity.Eisenbrand.steinitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:31:57.14399+00:00
 -- url     : https://prove2.me/theorems/f828df2c-0a3b-4765-9c72-6f306e8db814

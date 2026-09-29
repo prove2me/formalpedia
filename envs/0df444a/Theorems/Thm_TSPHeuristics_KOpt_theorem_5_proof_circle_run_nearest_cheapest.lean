@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_KOpt_theorem_5_proof_circle_run_nearest_cheapest
 -- name    : TSPHeuristics.KOpt.theorem_5_proof_circle_run_nearest_cheapest
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:56:19.630264+00:00
 -- url     : https://prove2.me/theorems/08d33bc9-e4ee-4f03-9d4d-cb52a38cd8d8

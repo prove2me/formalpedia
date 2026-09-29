@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondConvexRisk_Entropic_condRelEntropy_eq_condExp_log
 -- name    : CondConvexRisk.Entropic.condRelEntropy_eq_condExp_log
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:02:53.102646+00:00
 -- url     : https://prove2.me/theorems/91c6bcbc-7327-4ca6-8211-e62e457297be

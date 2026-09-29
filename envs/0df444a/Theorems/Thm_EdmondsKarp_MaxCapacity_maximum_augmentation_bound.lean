@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_MaxCapacity_maximum_augmentation_bound
 -- name    : EdmondsKarp.MaxCapacity.maximum_augmentation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:21:51.874406+00:00
 -- url     : https://prove2.me/theorems/c3c59597-61a9-4d52-addf-5f9c517df26f

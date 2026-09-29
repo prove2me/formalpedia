@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_Perfect_clique_system_defines_iff_perfect
 -- name    : ChvatalPolytopes.Perfect.clique_system_defines_iff_perfect
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:15:57.740966+00:00
 -- url     : https://prove2.me/theorems/54b7f733-a3e5-429d-b41c-5bf05341ee3b

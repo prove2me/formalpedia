@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_MaxEnt_maxent_duality
 -- name    : FoundationsML.MaxEnt.maxent_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-20T04:18:57.642778+00:00
 -- url     : https://prove2.me/theorems/407c7b0d-a7f9-43e1-b922-fc109e927c1d

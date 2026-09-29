@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Accelerated_smoothing_gradient_lipschitz
 -- name    : RandomGradFree.Accelerated.smoothing_gradient_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:08:13.932256+00:00
 -- url     : https://prove2.me/theorems/5ef92ebb-29ee-4e1f-b358-70b32391f970

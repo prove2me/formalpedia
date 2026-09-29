@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorPayoffs_Convex_not_approachable_and_excludable
 -- name    : VectorPayoffs.Convex.not_approachable_and_excludable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:08:55.790614+00:00
 -- url     : https://prove2.me/theorems/dd5f53ad-aaba-44cb-bc10-740f4a6fda96

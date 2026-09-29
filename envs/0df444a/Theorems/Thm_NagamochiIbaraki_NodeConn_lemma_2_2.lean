@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagamochiIbaraki_NodeConn_lemma_2_2
 -- name    : NagamochiIbaraki.NodeConn.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:08:22.981984+00:00
 -- url     : https://prove2.me/theorems/2b162d45-a438-4c7c-8c39-982fb602cc3c

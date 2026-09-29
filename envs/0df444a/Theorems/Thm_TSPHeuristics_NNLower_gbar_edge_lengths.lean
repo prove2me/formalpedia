@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_NNLower_gbar_edge_lengths
 -- name    : TSPHeuristics.NNLower.gbar_edge_lengths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:26:35.011374+00:00
 -- url     : https://prove2.me/theorems/e942b894-8ac7-426d-bee6-e369798d189c

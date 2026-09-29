@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EveryFaceIncidentDart
 -- name    : EveryFaceIncidentDart
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-26T21:56:26.880648+00:00
 -- url     : https://prove2.me/theorems/ea67f535-630e-4725-ae65-5e485531c3dd

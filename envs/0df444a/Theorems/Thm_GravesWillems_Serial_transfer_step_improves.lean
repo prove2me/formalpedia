@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesWillems_Serial_transfer_step_improves
 -- name    : GravesWillems.Serial.transfer_step_improves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:20:05.533417+00:00
 -- url     : https://prove2.me/theorems/7c526d3c-0171-4284-bf38-0bcd5fb272ad

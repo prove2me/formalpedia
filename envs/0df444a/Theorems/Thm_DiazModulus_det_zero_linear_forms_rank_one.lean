@@ -15,7 +15,7 @@
 --
 --   **Novelty.** None claimed. Classical (rank-one linear spaces of matrices; unique factorisation in the polynomial ring).
 -- source:
---   Used in the proof of Theorem 5.4(b) of Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.9, 25 September 2026 (GitHub release note-v1.9), as the lemma on linear forms. Formal proof: Diaz modulus mission, 24 September 2026 (C. Perassi). Background: the classical description of linear spaces of rank-one matrices.
+--   Used in the proof of Theorem 5.4(b) of Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.9, 25 September 2026 (GitHub release note-v1.9), as the lemma on linear forms. Formal proof: Diaz modulus mission, 23 September 2026 (C. Perassi). Background: the classical description of linear spaces of rank-one matrices.
 
 import Mathlib
 

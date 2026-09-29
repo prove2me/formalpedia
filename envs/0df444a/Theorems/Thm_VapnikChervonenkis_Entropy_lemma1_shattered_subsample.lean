@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_lemma1_shattered_subsample
 -- name    : VapnikChervonenkis.Entropy.lemma1_shattered_subsample
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:08:44.709298+00:00
 -- url     : https://prove2.me/theorems/4f73ca1d-dd3f-41da-8385-f8649fc02da0

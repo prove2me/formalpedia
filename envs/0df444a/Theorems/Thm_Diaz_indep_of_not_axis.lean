@@ -32,6 +32,8 @@
 --   from transcendence of $u$ over the base field. This node gives it from a hypothesis that is purely
 --   about position in the plane, which is what is used to reduce Diaz's problem to points off
 --   the axes.
+-- source:
+--   Known: G. Diaz, Utilisation de la conjugaison complexe dans l'étude de la transcendance de valeurs de la fonction exponentielle usuelle, J. Théor. Nombres Bordeaux 16 (2004), 535–553, proof of Théorème 3, p. 539, and Case 2 of the proof of Proposition 1, p. 551. It is also the first step of the proof of Theorem 6.1 of Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10). Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 import Definitions.Def_Diaz_Closure

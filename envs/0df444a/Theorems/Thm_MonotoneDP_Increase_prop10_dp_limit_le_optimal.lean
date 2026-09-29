@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Increase_prop10_dp_limit_le_optimal
 -- name    : MonotoneDP.Increase.prop10_dp_limit_le_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:59:23.012861+00:00
 -- url     : https://prove2.me/theorems/711ce02d-873c-4456-8942-2a36519248e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_OddHole_odd_hole_deletion_contraction_valid_FRAC
 -- name    : LovaszSchrijver.OddHole.odd_hole_deletion_contraction_valid_FRAC
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:48:13.725893+00:00
 -- url     : https://prove2.me/theorems/f0fcfa25-cd5c-48c1-a67c-b12d7d361ab1

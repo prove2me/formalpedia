@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Combining_exists_sequence_forcing_moves
 -- name    : CompetitivePaging.Combining.exists_sequence_forcing_moves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:25:07.626111+00:00
 -- url     : https://prove2.me/theorems/55dd580b-c1b7-4bd4-96fc-13fbbd7f2da1

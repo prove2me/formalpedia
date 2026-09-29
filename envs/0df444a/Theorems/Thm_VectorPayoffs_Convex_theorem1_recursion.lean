@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorPayoffs_Convex_theorem1_recursion
 -- name    : VectorPayoffs.Convex.theorem1_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:08:13.346999+00:00
 -- url     : https://prove2.me/theorems/b37a82b3-198c-41a9-a027-409f54f19f01

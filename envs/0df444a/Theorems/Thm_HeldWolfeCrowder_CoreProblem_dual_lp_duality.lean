@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HeldWolfeCrowder_CoreProblem_dual_lp_duality
 -- name    : HeldWolfeCrowder.CoreProblem.dual_lp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:50:30.024784+00:00
 -- url     : https://prove2.me/theorems/f2b316c7-3958-4631-b60b-1bb58c12cb8c

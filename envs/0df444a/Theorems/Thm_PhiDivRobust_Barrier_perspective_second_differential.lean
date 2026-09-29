@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiDivRobust_Barrier_perspective_second_differential
 -- name    : PhiDivRobust.Barrier.perspective_second_differential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:54:28.207802+00:00
 -- url     : https://prove2.me/theorems/6f0b8972-690b-4dd4-a3e4-240cbbd27417

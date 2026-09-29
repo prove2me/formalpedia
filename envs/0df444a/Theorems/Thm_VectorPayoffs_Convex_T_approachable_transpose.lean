@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorPayoffs_Convex_T_approachable_transpose
 -- name    : VectorPayoffs.Convex.T_approachable_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:10:35.676153+00:00
 -- url     : https://prove2.me/theorems/6ac42baa-5371-43ca-b4fc-95b733bc7981

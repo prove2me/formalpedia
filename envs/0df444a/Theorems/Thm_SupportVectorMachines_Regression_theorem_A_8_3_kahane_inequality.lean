@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Regression_theorem_A_8_3_kahane_inequality
 -- name    : SupportVectorMachines.Regression.theorem_A_8_3_kahane_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:14:57.608579+00:00
 -- url     : https://prove2.me/theorems/3f259394-be02-4348-80ae-cff8082b23a6

@@ -7,7 +7,7 @@
 -- title:
 --   Effective quantisation from the order of $\alpha/\bar\alpha$
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics: the sharpening of the quantisation bound stated after Theorem 3.1 of his companion note to https://github.com/carlok/diaz-modulus-lean (version 1.9, 25 September 2026, GitHub release note-v1.9). Published on his mission with his permission. No novelty is claimed for it here; the argument is elementary.
+--   **Source.** This is Carlo Perassi's mathematics: the sharpening of the quantisation bound stated after Theorem 3.1 of his companion note to https://github.com/carlok/diaz-modulus-lean (version 1.9, 25 September 2026, GitHub release note-v1.9). No novelty is claimed for it here; the argument is elementary.
 --
 --   **Statement.** Let $\alpha = e^{u}$ and suppose $\xi = \alpha/\bar\alpha$ satisfies $\xi^{m} = 1$ for some $m \geq 1$. If $u$ lies on neither axis, then
 --   $$u\bar u  >  \frac{\pi^2}{m^2} .$$

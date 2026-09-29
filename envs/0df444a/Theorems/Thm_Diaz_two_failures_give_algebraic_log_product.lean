@@ -27,7 +27,7 @@
 --   the strong four exponentials conjecture excludes it, and that Roy's strong six exponentials does
 --   not reach it. There the condition arises with **purely imaginary** logarithms, which is why
 --   Diaz's assertion (C6) of 1997 --- whose hypothesis is $|\alpha|\neq 1$ --- does not apply there. Here the logarithms are **real**, so
---   $|\alpha|\neq 1$ does hold. That the failure set of the one-relation form feeds the same
+--   $|\alpha|\neq 1$ does hold; but (C6), one of the equivalent conjectural statements of Diaz's Théorème 1, asserts only that $(\log\alpha_1)(\log\alpha_2)$ and $\pi^{2}$ are $\mathbb{Q}$-linearly independent, which a non-zero algebraic product always satisfies, so it does not exclude this condition either. That the failure set of the one-relation form feeds the same
 --   condition with real logarithms is small.
 --
 --   **Proof.** $e^{t_{1}+t_{2}}=e^{t_{1}}e^{t_{2}}$ and $e^{t_{1}-t_{2}}=e^{t_{1}}/e^{t_{2}}$, and

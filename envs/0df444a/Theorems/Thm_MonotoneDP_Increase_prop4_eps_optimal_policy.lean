@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Increase_prop4_eps_optimal_policy
 -- name    : MonotoneDP.Increase.prop4_eps_optimal_policy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:57:18.6891+00:00
 -- url     : https://prove2.me/theorems/c136f278-4e2d-4b44-b47e-6fce3ea98fb7

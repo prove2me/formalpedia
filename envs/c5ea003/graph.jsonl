@@ -7532,6 +7532,11 @@
 {"parent": "D10.sum_fixCount_eq_card_orbits_mul", "child": "NumberTheory_MolienBurnsideD10", "via": ["solution", "statement"]}
 {"parent": "D10.sum_gcd_prime", "child": "NumberTheory_MolienBurnsideD10", "via": ["solution", "statement"]}
 {"parent": "D10.sum_gcd_prime", "child": "NumberTheory_MolienNecklaceCongruence", "via": ["solution", "statement"]}
+{"parent": "DAREx.CoefficientEnergyIdentity", "child": "DAREx_Model", "via": ["statement"]}
+{"parent": "DAREx.DAREExponentialTail", "child": "DAREx_Model", "via": ["statement"]}
+{"parent": "DAREx.DAREOutputConcentration", "child": "DAREx_Model", "via": ["statement"]}
+{"parent": "DAREx.KearnsSaulMGF", "child": "DAREx_Model", "via": ["statement"]}
+{"parent": "DAREx.RescaledErrorMoments", "child": "DAREx_Model", "via": ["statement"]}
 {"parent": "DDAG.descProduct_eq_gammaSeq", "child": "Applications_DescendantScaling", "via": ["solution", "statement"]}
 {"parent": "DaisyCube.daisy_geodesic", "child": "Novelty_PartialCube", "via": ["solution", "statement"]}
 {"parent": "DataSheafCohomology.cycSection_mem_ker", "child": "Algebra_DataSheafCohomology", "via": ["solution", "statement"]}

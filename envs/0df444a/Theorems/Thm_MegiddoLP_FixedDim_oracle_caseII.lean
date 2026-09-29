@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MegiddoLP_FixedDim_oracle_caseII
 -- name    : MegiddoLP.FixedDim.oracle_caseII
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:12:35.343456+00:00
 -- url     : https://prove2.me/theorems/691722ab-1498-41e9-aa51-1bdcfbe7e27c

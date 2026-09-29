@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Marking_adversary_phase_cost_ge_half
 -- name    : CompetitivePaging.Marking.adversary_phase_cost_ge_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:11:21.997539+00:00
 -- url     : https://prove2.me/theorems/f5dd5205-6314-4bad-bfea-7429dd0c1d6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPProximity_Eisenbrand_fractional_part_split
 -- name    : IPProximity.Eisenbrand.fractional_part_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:32:29.813892+00:00
 -- url     : https://prove2.me/theorems/c7ff5cc3-373f-48d5-b377-1aaff9d4cccd

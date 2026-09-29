@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_KnownMoments_ellipsoid_form_and_max_loss
 -- name    : WorstCaseVaR.KnownMoments.ellipsoid_form_and_max_loss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:16:08.603984+00:00
 -- url     : https://prove2.me/theorems/89be9fd1-25ca-48b5-bd16-033e0dfb706b

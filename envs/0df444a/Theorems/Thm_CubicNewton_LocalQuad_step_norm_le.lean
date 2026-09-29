@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicNewton_LocalQuad_step_norm_le
 -- name    : CubicNewton.LocalQuad.step_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:35:53.186536+00:00
 -- url     : https://prove2.me/theorems/b38f2f93-65f0-45aa-bd7d-08bdea1a178d

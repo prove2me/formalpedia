@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPOBounds_Natarajan_empirical_rademacher_massart
 -- name    : SPOBounds.Natarajan.empirical_rademacher_massart
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:28:25.94098+00:00
 -- url     : https://prove2.me/theorems/aa472ceb-99fd-46d8-863c-22c66b95ac28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MegiddoLP_FixedDim_approachI_fraction
 -- name    : MegiddoLP.FixedDim.approachI_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:10:37.180294+00:00
 -- url     : https://prove2.me/theorems/6bb3d5a9-72a4-4f6b-8510-d2dccff34c1b

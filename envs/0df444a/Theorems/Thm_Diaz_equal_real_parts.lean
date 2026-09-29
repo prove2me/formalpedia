@@ -24,7 +24,7 @@
 --
 --   The remaining branch — `m ≠ 1` makes the form non-degenerate, and the ternary-quadric proposition
 --   then forces transcendence degree at least two — is **not** formalised. It rests on Théorème 0.2 of
---   Roy–Waldschmidt, which is not available here. What is published is exactly the elementary
+--   Roy–Waldschmidt, which is not available here. That branch also follows from Theorem 6.7 of Carlo Perassi's companion note to https://github.com/carlok/diaz-modulus-lean (version 1.10, 27 September 2026, GitHub release note-v1.10), on this mission as the Proved node `DiazModulus.log_pair_rigid_of_trdeg_one`: if `ℚ(μ₁, conj μ₁, μ₂, conj μ₂)` had transcendence degree at most one, `μ₂` would be a rational multiple of `μ₁` or of `conj μ₁`, and the common non-zero real part would force `μ₂ ∈ {μ₁, conj μ₁}`, hence `m = 1`. What is published is exactly the elementary
 --   statement that the transcendence input is applied to.
 --
 --   **Not in the companion note.** This statement is not in Carlo Perassi's companion note to https://github.com/carlok/diaz-modulus-lean (version 1.9, 25 September 2026, GitHub release note-v1.9). It was left out for scope: the note treats the Diaz locus, not the consequences of the same machinery for

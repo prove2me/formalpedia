@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Increase_prop5_bellman_equation
 -- name    : MonotoneDP.Increase.prop5_bellman_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:57:58.729716+00:00
 -- url     : https://prove2.me/theorems/5ce7e215-6b3a-4dbf-8bb6-c996cdcba18c

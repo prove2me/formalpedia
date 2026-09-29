@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FaceDegreeLowerBound
 -- name    : FaceDegreeLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-26T21:35:52.842327+00:00
 -- url     : https://prove2.me/theorems/99dfbbbc-1ef5-4048-b624-96de30c8bc07

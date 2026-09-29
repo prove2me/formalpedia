@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPProximity_Eisenbrand_l1_proximity
 -- name    : IPProximity.Eisenbrand.l1_proximity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:33:29.595859+00:00
 -- url     : https://prove2.me/theorems/ad5b4cec-8148-4323-a049-e041f780d483

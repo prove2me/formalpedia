@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_MatrixRank_prop10_7_operator_norm_curvature_bound
 -- name    : HighDimStat.MatrixRank.prop10_7_operator_norm_curvature_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:19:44.045083+00:00
 -- url     : https://prove2.me/theorems/a8eaaabc-ce41-4724-81ee-454f729636dc

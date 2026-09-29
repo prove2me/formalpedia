@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_HessStep_hessian_norm_upper_bound
 -- name    : FatkhullinPolyak.HessStep.hessian_norm_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:50:18.652747+00:00
 -- url     : https://prove2.me/theorems/f25868fd-d5c8-4352-8b62-6e54b6ca3c7b

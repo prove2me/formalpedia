@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Kall1976_expected_recourse_finite_iff_dual_feasible
 -- name    : Kall1976.expected_recourse_finite_iff_dual_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T07:13:10.259673+00:00
 -- url     : https://prove2.me/theorems/05da8834-2d1e-4444-8494-da76807478f3

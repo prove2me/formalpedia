@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LubyMIS_MonteCarlo_lemmaA
 -- name    : LubyMIS.MonteCarlo.lemmaA
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:51:16.978325+00:00
 -- url     : https://prove2.me/theorems/2a8e4cd8-e387-40cb-b323-5f87d4380976

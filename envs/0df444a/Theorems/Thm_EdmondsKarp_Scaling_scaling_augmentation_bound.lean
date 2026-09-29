@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_Scaling_scaling_augmentation_bound
 -- name    : EdmondsKarp.Scaling.scaling_augmentation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:28:02.39923+00:00
 -- url     : https://prove2.me/theorems/2f41924f-a2bc-464c-82be-4981c96457a7

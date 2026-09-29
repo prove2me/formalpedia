@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Gaussian_single_sample_mean_variance
 -- name    : TraceEstimation.Gaussian.single_sample_mean_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:27:42.021643+00:00
 -- url     : https://prove2.me/theorems/3ef72179-de5e-4619-9673-28e364ce59a1

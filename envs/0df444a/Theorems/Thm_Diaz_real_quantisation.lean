@@ -7,7 +7,7 @@
 -- title:
 --   Quantisation of the real branch: a candidate with real exponential has $|u|^2 > \pi^2$
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics: Theorem 3.1 (*Quantisation*) of his companion note to https://github.com/carlok/diaz-modulus-lean (version 1.9, 25 September 2026, GitHub release note-v1.9). Published on his mission with his permission. No novelty is claimed for it here; the argument is elementary.
+--   **Source.** This is Carlo Perassi's mathematics: Theorem 3.1 (*Quantisation*) of his companion note to https://github.com/carlok/diaz-modulus-lean (version 1.9, 25 September 2026, GitHub release note-v1.9). No novelty is claimed for it here; the argument is elementary.
 --
 --   **Statement.** Let $u \in \mathbb{C}$ lie on neither axis ($\Re u \neq 0$, $\Im u \neq 0$) and suppose $e^{u}$ is real. Then $\Im u \in \pi\mathbb{Z}$, and consequently
 --   $$u\bar u  =  (\Re u)^2 + (\Im u)^2  >  \pi^2 .$$
@@ -19,6 +19,8 @@
 --   **Reading the Lean.** `(Complex.exp u).im = 0` is "$e^{u}$ is real"; `Complex.normSq u` is $u \bar u$.
 --
 --   **Proof.** `Complex.exp_im` gives $(e^{u})_{\mathrm{im}} = e^{\Re u}\sin(\Im u)$, and $e^{\Re u} \neq 0$, so $\sin(\Im u) = 0$ and $\Im u = n\pi$ for some integer $n$. Since $\Im u \neq 0$ we have $n \neq 0$, hence $|\Im u| \geq \pi$ and $(\Im u)^2 \geq \pi^2$; adding $(\Re u)^2 > 0$ gives the strict inequality.
+-- source:
+--   Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10), Theorem 3.1. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 
 import Mathlib
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Dantzig_eq_B29
 -- name    : LassoDantzig.Dantzig.eq_B29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:16:22.172215+00:00
 -- url     : https://prove2.me/theorems/2c73c12d-a141-4a54-a74c-d36b078e887c

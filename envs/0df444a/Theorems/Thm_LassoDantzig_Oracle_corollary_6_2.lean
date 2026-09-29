@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Oracle_corollary_6_2
 -- name    : LassoDantzig.Oracle.corollary_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:11:46.657977+00:00
 -- url     : https://prove2.me/theorems/09e73349-a0ff-49fd-a5df-48198ca86326

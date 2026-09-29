@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_IntegerLShaped_prop4_integer_lshaped_finite_convergence
 -- name    : StochasticProg.IntegerLShaped.prop4_integer_lshaped_finite_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:13:50.628989+00:00
 -- url     : https://prove2.me/theorems/87bb3d92-e249-4013-9214-ada75c232709

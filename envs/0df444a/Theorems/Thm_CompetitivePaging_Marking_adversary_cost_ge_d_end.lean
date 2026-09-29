@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Marking_adversary_cost_ge_d_end
 -- name    : CompetitivePaging.Marking.adversary_cost_ge_d_end
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:10:50.404666+00:00
 -- url     : https://prove2.me/theorems/232e58f3-6b30-4ca4-b8a4-6d7aa126491d

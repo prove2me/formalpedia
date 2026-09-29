@@ -18,7 +18,7 @@
 --   * (i) $v \in \mathbb{Q}^\times u \,\dot\cup\, \mathbb{Q}^\times\bar u$,
 --   * (ii) $u$ and $v$ are algebraically independent over $\mathbb{Q}$
 --
---   holds. The implication (i) $\Rightarrow \neg$(ii) is this node, and it is **unconditional**: it uses no transcendence input whatever. The opposite direction $\neg$(ii) $\Rightarrow$ (i) is the deep half — it passes through Théorème 0.2 of Roy–Waldschmidt (1997), which is not available in this Mathlib revision, and then through the linear-algebra step already published as `Diaz.rational_singular_subspace_classification` and `Diaz.rational_subspace_quadric_ratios`.
+--   holds. The implication (i) $\Rightarrow \neg$(ii) is this node, and it is **unconditional**: it uses no transcendence input whatever. The opposite direction $\neg$(ii) $\Rightarrow$ (i) is the deep half — it passes through Théorème 0.2 of Roy–Waldschmidt (1997), which is not available in this Mathlib revision, and then through the linear-algebra step already published as `Diaz.rational_singular_subspace_classification` and `Diaz.rational_subspace_quadric_ratios`. It also follows from Theorem 6.7 of Carlo Perassi's companion note to https://github.com/carlok/diaz-modulus-lean (version 1.10, 27 September 2026, GitHub release note-v1.10), on this mission as the Proved node `DiazModulus.log_pair_rigid_of_trdeg_one`, because on the Diaz locus $\bar u = |u|^{2}/u$ and $\bar v = |v|^{2}/v$ with algebraic numerators, so $\operatorname{trdeg}_{\mathbb{Q}}\mathbb{Q}(u,\bar u,v,\bar v) = \operatorname{trdeg}_{\mathbb{Q}}\mathbb{Q}(u,v)$.
 --
 --   **Proof.** Write $q = u\bar u$.
 --

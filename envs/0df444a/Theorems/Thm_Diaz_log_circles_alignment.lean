@@ -21,7 +21,7 @@
 --   if `m = 1` then `c = ±1`, leaving precisely the four points `±μ₁, ± conj μ₁`.
 --
 --   The third alternative of the master dichotomy, the transcendence-degree branch, is **not**
---   formalised: it rests on Théorème 0.2 of Roy–Waldschmidt. What is published is the part that runs
+--   formalised: it rests on Théorème 0.2 of Roy–Waldschmidt. That branch also follows from Theorem 6.7 of Carlo Perassi's companion note to https://github.com/carlok/diaz-modulus-lean (version 1.10, 27 September 2026, GitHub release note-v1.10), on this mission as the Proved node `DiazModulus.log_pair_rigid_of_trdeg_one`: if `trdeg_ℚ ℚ(μ₁, conj μ₁, μ₂, conj μ₂) ≤ 1`, then `μ₂` is a rational multiple of `μ₁` or of `conj μ₁`, and the arithmetic formalised here finishes. What is published is the part that runs
 --   without any transcendence input, which is also the part the corollary's proof actually spends its
 --   words on.
 --

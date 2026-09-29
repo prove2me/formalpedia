@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_Termination_cg_terminates_in_n_steps
 -- name    : ConjGrad.Termination.cg_terminates_in_n_steps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:53:00.506848+00:00
 -- url     : https://prove2.me/theorems/9ca266c4-0b2f-456a-ab6e-847b23994bf1

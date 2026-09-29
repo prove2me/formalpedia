@@ -7,7 +7,7 @@
 -- title:
 --   Rational-translate rigidity: at most one non-zero rational translate stays on the locus
 -- statement:
---   **Source.** This is Carlo Perassi's mathematics, the counting half of his rational-translate rigidity, unpublished apart from this node. Published on his mission with his permission. No novelty is claimed for it here; the argument is elementary.
+--   **Source.** This is Carlo Perassi's mathematics, the counting half of his rational-translate rigidity, unpublished apart from this node. No novelty is claimed for it here; the argument is elementary.
 --
 --   **Statement.** Let $K \subset \mathbb{C}$ be a subfield with $\pi^2 \notin K$, and let $u$ satisfy $u\bar u \in K$. Put $T(u) = \{r \in \mathbb{Q} : (u + 2\pi i r)\overline{(u + 2\pi i r)} \in K\}$. Then $T(u)$ contains at most one non-zero element — so, with $0 \in T(u)$ always, $\#T(u) \leq 2$.
 --

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_dissipative_estimate
 -- name    : EthierKurtz.oblique_dissipative_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T04:32:27.134179+00:00
 -- url     : https://prove2.me/theorems/7f173dd7-697b-4c41-9723-22560b4722ab

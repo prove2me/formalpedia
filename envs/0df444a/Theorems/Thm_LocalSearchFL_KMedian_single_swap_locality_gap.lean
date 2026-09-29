@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_KMedian_single_swap_locality_gap
 -- name    : LocalSearchFL.KMedian.single_swap_locality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:13:00.467989+00:00
 -- url     : https://prove2.me/theorems/ad7b0390-920c-4632-87ce-65d1d9ae5748

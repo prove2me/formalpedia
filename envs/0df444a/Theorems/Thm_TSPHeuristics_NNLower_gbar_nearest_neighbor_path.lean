@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_NNLower_gbar_nearest_neighbor_path
 -- name    : TSPHeuristics.NNLower.gbar_nearest_neighbor_path
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:27:08.807817+00:00
 -- url     : https://prove2.me/theorems/5032951e-67a0-40fc-83f6-8b6b98dfcb1e

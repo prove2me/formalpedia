@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_input_valuation_equidistribution_counterexample_unfolded
 -- name    : input_valuation_equidistribution_counterexample_unfolded
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-29T03:43:29.996203+00:00
 -- url     : https://prove2.me/theorems/e664f974-b419-4f8d-8ad7-9a5f0c424ac9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_KMedian_exists_swaps_four_properties
 -- name    : LocalSearchFL.KMedian.exists_swaps_four_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:12:03.982486+00:00
 -- url     : https://prove2.me/theorems/b5499683-d5f4-4123-a2ed-273748faadc4

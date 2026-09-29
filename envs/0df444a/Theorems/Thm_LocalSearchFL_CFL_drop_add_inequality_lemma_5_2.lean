@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_CFL_drop_add_inequality_lemma_5_2
 -- name    : LocalSearchFL.CFL.drop_add_inequality_lemma_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:22:07.135637+00:00
 -- url     : https://prove2.me/theorems/d7612336-211e-4d97-8059-a142684f0ed2

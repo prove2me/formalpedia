@@ -26,16 +26,16 @@
 --
 --   **What is new here relative to the existing node.** `Diaz.coeff_transfer` already carries the
 --   forward identity, over an arbitrary subfield $K$, for index types $\mathrm{Fin}\,m$ and
---   $\mathrm{Fin}\,n$. It does **not** carry the corollary's "consequently" clause. That clause is
+--   $\mathrm{Fin}\,n$. It does **not** carry the "consequently" clause. That clause is
 --   the half that uses injectivity, and it is the half the intended application needs: one wants to
 --   conclude that a coefficient *fails* to vanish downstream from its failing to vanish upstream,
---   which the identity alone does not give. This node states the corollary in full, and takes the
+--   which the identity alone does not give. This node states both halves, and takes the
 --   index types to be arbitrary finite types rather than $\mathrm{Fin}\,m$, $\mathrm{Fin}\,n$:
 --   $w^{\mathsf T} M v$ is a finite double sum, so finiteness of the index sets is what the
 --   expression means rather than an extra hypothesis, and there is no reason to force a caller
 --   through a numbering of the index set.
 --
---   **Hypotheses.** None beyond the note's. $M$ is an arbitrary complex matrix; only the
+--   **Hypotheses.** None beyond those stated above. $M$ is an arbitrary complex matrix; only the
 --   coefficient vectors are constrained to lie in $K$; $\Phi$ is only assumed to be a ring
 --   homomorphism fixing $K$ — not surjective, not continuous, not conjugation-equivariant.
 --

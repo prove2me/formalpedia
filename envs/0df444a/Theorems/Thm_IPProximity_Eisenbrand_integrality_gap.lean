@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IPProximity_Eisenbrand_integrality_gap
 -- name    : IPProximity.Eisenbrand.integrality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:33:52.465729+00:00
 -- url     : https://prove2.me/theorems/fa48c45e-16cc-442e-bbb0-e372fd2abee9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiperiodRisk_Bellman_psi_defines_process
 -- name    : MultiperiodRisk.Bellman.psi_defines_process
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:05:17.133298+00:00
 -- url     : https://prove2.me/theorems/51cb09f8-bfe1-43c5-9a6b-c4a38134db95

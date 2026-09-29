@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_Scaling_maxFlow_value_problem
 -- name    : EdmondsKarp.Scaling.maxFlow_value_problem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:26:57.118773+00:00
 -- url     : https://prove2.me/theorems/fb992fdf-ebdd-4e17-9328-924384b5d194

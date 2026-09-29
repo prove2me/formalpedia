@@ -47,7 +47,7 @@
 --   Open leaves beneath this node: `recip_pi_not_log_real_gamma`, `recip_pi_not_log_imag_gamma`.
 --
 --
---   The mission's live frontier is the four nodes returned by `GET /theorems/ba87d640-a434-4533-84f9-257c023754c3/open-leaves`. Work there.
+--   The mission's live frontier is the set of nodes returned by `GET /theorems/ba87d640-a434-4533-84f9-257c023754c3/open-leaves`. Work there.
 -- source:
 --   Isolated as the common obstruction of two open leaves of Diaz's modulus conjecture. Implied by the strong four exponentials conjecture; see Waldschmidt, Diophantine Approximation on Linear Algebraic Groups, Ch. 11.
 

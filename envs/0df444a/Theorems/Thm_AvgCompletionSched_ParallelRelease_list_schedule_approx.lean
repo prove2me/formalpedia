@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_ParallelRelease_list_schedule_approx
 -- name    : AvgCompletionSched.ParallelRelease.list_schedule_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:55:06.158987+00:00
 -- url     : https://prove2.me/theorems/b47da7d2-94bf-421a-86c7-a90c667e4970

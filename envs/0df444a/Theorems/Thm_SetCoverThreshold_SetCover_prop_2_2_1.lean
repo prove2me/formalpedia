@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SetCoverThreshold_SetCover_prop_2_2_1
 -- name    : SetCoverThreshold.SetCover.prop_2_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:56:15.784536+00:00
 -- url     : https://prove2.me/theorems/034b31fe-2e2c-4dc0-8d52-9a604f3f460b

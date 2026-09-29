@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_PAC_finite_consistent_learning_bound
 -- name    : FoundationsML.PAC.finite_consistent_learning_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:08:34.727898+00:00
 -- url     : https://prove2.me/theorems/83411db4-f224-4a34-bf03-ded409ac1d5e

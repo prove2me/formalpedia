@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LewisTorczon_BoundPS_corollary_4_4
 -- name    : LewisTorczon.BoundPS.corollary_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:47:31.723541+00:00
 -- url     : https://prove2.me/theorems/a15e305a-d5e7-4881-afd1-e189f3797cb7

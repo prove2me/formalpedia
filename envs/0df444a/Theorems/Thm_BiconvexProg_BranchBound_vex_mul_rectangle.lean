@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiconvexProg_BranchBound_vex_mul_rectangle
 -- name    : BiconvexProg.BranchBound.vex_mul_rectangle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T17:53:59.038864+00:00
 -- url     : https://prove2.me/theorems/bb316769-5081-423b-85ae-8817fc3c71e6
