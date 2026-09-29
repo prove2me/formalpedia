@@ -1,0 +1,846 @@
+-- Prove2me | solution 1 for mme_dwz_q6_canonical_112_basis_labelled_source_router
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-08-27T07:36:00.131323+00:00
+-- url     : https://prove2.me/submissions/bba0975f-25b4-440b-b4ab-3cca910631c5
+
+import Definitions.Def_mme_CW_square_five_grade_certificate
+import Definitions.Def_mme_dwz_q6_canonical_112_router_data
+import Definitions.Def_mme_TypeGrading_kron
+import Definitions.Def_mme_permutation
+import Mathlib.LinearAlgebra.TensorProduct.Basis
+import Mathlib.Tactic
+
+open PiTensorProduct TensorProduct BigOperators DirectSum Module
+
+set_option autoImplicit false
+
+namespace MME
+
+universe u
+
+set_option maxHeartbeats 800000
+set_option linter.unusedSectionVars false
+set_option linter.unnecessarySimpa false
+set_option linter.unusedVariables false
+set_option linter.unusedSimpArgs false
+set_option linter.unnecessarySeqFocus false
+
+section BasisGrading
+
+variable {K : Type u} [Field K]
+variable {V : Type u} [AddCommGroup V] [Module K V]
+variable {ι κ : Type*} [DecidableEq κ]
+
+def basisGrade (b : Basis ι K V) (g : ι → κ) (a : κ) : Submodule K V :=
+  Submodule.span K (b '' {i | g i = a})
+
+private def basisGrade_isInternal (b : Basis ι K V) (g : ι → κ) :
+    DirectSum.IsInternal (basisGrade b g) := by
+  classical
+  apply DirectSum.isInternal_submodule_of_iSupIndep_of_iSup_eq_top
+  · rw [iSupIndep_def]
+    intro a
+    simp_rw [basisGrade]
+    rw [← Submodule.span_iUnion₂]
+    rw [← Set.image_iUnion₂]
+    apply b.linearIndependent.disjoint_span_image
+    rw [Set.disjoint_left]
+    intro i hi hi'
+    simp only [Set.mem_setOf_eq] at hi
+    rcases Set.mem_iUnion.mp hi' with ⟨c, hi'⟩
+    rcases Set.mem_iUnion.mp hi' with ⟨hc, hi'⟩
+    exact hc (hi'.symm.trans hi)
+  · apply top_unique
+    rw [← b.span_eq]
+    refine Submodule.span_le.2 ?_
+    rintro _ ⟨i, rfl⟩
+    exact le_iSup (basisGrade b g) (g i) <|
+      Submodule.subset_span ⟨i, rfl, rfl⟩
+
+private def basis_mem_basisGrade (b : Basis ι K V) (g : ι → κ) (i : ι) :
+    b i ∈ basisGrade b g (g i) := by
+  exact Submodule.subset_span ⟨i, rfl, rfl⟩
+
+end BasisGrading
+
+section CWSquareCanonical
+
+private def cwCoordGrade (q : ℕ) (a : Fin (q + 2)) : Fin 3 :=
+  if a.val = 0 then 0 else if a.val = q + 1 then 2 else 1
+
+private def cwPairGrade (q : ℕ) (ab : Fin (q + 2) × Fin (q + 2)) : Fin 5 :=
+  ⟨(cwCoordGrade q ab.1).val + (cwCoordGrade q ab.2).val, by omega⟩
+
+private noncomputable def cwSquareBasis
+    (K : Type u) [Field K] (q : ℕ) (s : Fin 3) :
+    Basis (Fin (q + 2) × Fin (q + 2)) K
+      ((TensorObj.kron (CWObj K q) (CWObj K q)).V s) := by
+  letI : IsScalarTower K K (Fin (q + 2) → K) :=
+    IsScalarTower.of_algebraMap_smul (by simp)
+  exact match s with
+    | ⟨0, _⟩ => Module.Basis.tensorProduct (R := K) (S := K)
+        (Pi.basisFun K (Fin (q + 2))) (Pi.basisFun K (Fin (q + 2)))
+    | ⟨1, _⟩ => Module.Basis.tensorProduct (R := K) (S := K)
+        (Pi.basisFun K (Fin (q + 2))) (Pi.basisFun K (Fin (q + 2)))
+    | ⟨2, _⟩ => Module.Basis.tensorProduct (R := K) (S := K)
+        (Pi.basisFun K (Fin (q + 2))) (Pi.basisFun K (Fin (q + 2)))
+
+/-- Public alias for the canonical basis used by the explicit source routers
+in this file.  A separate compatibility leaf identifies it with the public
+DWZ canonical basis. -/
+noncomputable def cwSquareRouterBasis
+    (K : Type u) [Field K] (q : ℕ) (s : Fin 3) :=
+  cwSquareBasis K q s
+
+/-- Public alias for the canonical grading used by the explicit source
+routers in this file. -/
+noncomputable def cwSquareRouterGrading
+    (K : Type u) [Field K] (q : ℕ) :=
+  cwSquareCanonicalGrading K q
+
+private def cwSquareCanonical_blockProj_basis
+    (K : Type u) [Field K] (q : ℕ) (s : Fin 3)
+    (a : Fin 5) (i j : Fin (q + 2)) :
+    (cwSquareCanonicalGrading K q).blockProj s a
+        (cwSquareBasis K q s (i, j)) =
+      if h : cwPairGrade q (i, j) = a then
+        ⟨cwSquareBasis K q s (i, j), by
+          simpa [h] using
+            basis_mem_basisGrade (cwSquareBasis K q s) (cwPairGrade q) (i, j)⟩
+      else 0 := by
+  split_ifs with h
+  · subst a
+    exact TensorObj.TypeGrading.blockProj_apply_mem
+      (cwSquareCanonicalGrading K q) s (cwPairGrade q (i, j)) _
+      (basis_mem_basisGrade (cwSquareBasis K q s) (cwPairGrade q) (i, j))
+  · exact TensorObj.TypeGrading.blockProj_apply_mem_ne
+      (cwSquareCanonicalGrading K q) s a (cwPairGrade q (i, j)) (Ne.symm h) _
+      (basis_mem_basisGrade (cwSquareBasis K q s) (cwPairGrade q) (i, j))
+
+private def cwVec
+    (K : Type u) [Field K] (q : ℕ) (s : Fin 3) (a : Fin (q + 2)) :
+    CWSpace K q s :=
+  match s with
+  | ⟨0, _⟩ => (Pi.single a 1 : Fin (q + 2) → K)
+  | ⟨1, _⟩ => (Pi.single a 1 : Fin (q + 2) → K)
+  | ⟨2, _⟩ => (Pi.single a 1 : Fin (q + 2) → K)
+
+private def cwSquareBasis_apply
+    (K : Type u) [Field K] (q : ℕ) (s : Fin 3)
+    (a b : Fin (q + 2)) :
+    cwSquareBasis K q s (a, b) = cwVec K q s a ⊗ₜ[K] cwVec K q s b := by
+  letI : IsScalarTower K K (Fin (q + 2) → K) :=
+    IsScalarTower.of_algebraMap_smul (by simp)
+  fin_cases s <;>
+    change (Module.Basis.tensorProduct (R := K) (S := K)
+      (Pi.basisFun K (Fin (q + 2))) (Pi.basisFun K (Fin (q + 2)))) (a, b) = _ <;>
+    rw [Module.Basis.tensorProduct_apply] <;>
+    simp [cwVec, Pi.basisFun_apply]
+
+private def interchange_tprod
+    {K : Type u} [Field K] {d : ℕ}
+    {V W : Fin d → Type u}
+    [∀ i, AddCommGroup (V i)] [∀ i, Module K (V i)]
+    [∀ i, AddCommGroup (W i)] [∀ i, Module K (W i)]
+    (v : ∀ i, V i) (w : ∀ i, W i) :
+    interchange (tprod K v) (tprod K w) =
+      tprod K (fun i => v i ⊗ₜ[K] w i) := by
+  show (interchange (tprod K v)) (tprod K w) = _
+  rw [interchange]
+  change (PiTensorProduct.lift interchangeOuter (tprod K v)) (tprod K w) = _
+  rw [PiTensorProduct.lift.tprod]
+  change (PiTensorProduct.lift (interchangeInner v)) (tprod K w) = _
+  rw [PiTensorProduct.lift.tprod]
+  rfl
+
+private def interchange_add_right
+    {K : Type u} [Field K] {d : ℕ}
+    {V W : Fin d → Type u}
+    [∀ i, AddCommGroup (V i)] [∀ i, Module K (V i)]
+    [∀ i, AddCommGroup (W i)] [∀ i, Module K (W i)]
+    (x : PiTensorProduct K V) (y z : PiTensorProduct K W) :
+    interchange x (y + z) = interchange x y + interchange x z := by
+  exact (interchange x).map_add y z
+
+private def interchange_sum_right
+    {K : Type u} [Field K] {d : ℕ} {ι : Type*} [Fintype ι]
+    {V W : Fin d → Type u}
+    [∀ i, AddCommGroup (V i)] [∀ i, Module K (V i)]
+    [∀ i, AddCommGroup (W i)] [∀ i, Module K (W i)]
+    (x : PiTensorProduct K V) (f : ι → PiTensorProduct K W) :
+    interchange x (∑ i, f i) = ∑ i, interchange x (f i) := by
+  exact map_sum (interchange x) f Finset.univ
+
+private def interchange_sum_left
+    {K : Type u} [Field K] {d : ℕ} {ι : Type*} [Fintype ι]
+    {V W : Fin d → Type u}
+    [∀ i, AddCommGroup (V i)] [∀ i, Module K (V i)]
+    [∀ i, AddCommGroup (W i)] [∀ i, Module K (W i)]
+    (f : ι → PiTensorProduct K V) (y : PiTensorProduct K W) :
+    interchange (∑ i, f i) y = ∑ i, interchange (f i) y := by
+  have h :
+      (interchange (∑ i, f i) :
+        PiTensorProduct K W →ₗ[K]
+          PiTensorProduct K (fun i => V i ⊗[K] W i)) =
+        ∑ i, interchange (f i) :=
+    map_sum interchange f Finset.univ
+  simpa using congrArg (fun g => g y) h
+
+private def cwO (q : ℕ) : Fin (q + 2) := ⟨0, by omega⟩
+private def cwM (q : ℕ) (i : Fin q) : Fin (q + 2) := ⟨i.val + 1, by omega⟩
+private def cwT (q : ℕ) : Fin (q + 2) := ⟨q + 1, by omega⟩
+
+private def cwSupportedTriple (q : ℕ)
+    (a b c : Fin (q + 2)) : Prop :=
+  (∃ i : Fin q, a = cwO q ∧ b = cwM q i ∧ c = cwM q i) ∨
+  (∃ i : Fin q, a = cwM q i ∧ b = cwO q ∧ c = cwM q i) ∨
+  (∃ i : Fin q, a = cwM q i ∧ b = cwM q i ∧ c = cwO q) ∨
+  (a = cwO q ∧ b = cwO q ∧ c = cwT q) ∨
+  (a = cwO q ∧ b = cwT q ∧ c = cwO q) ∨
+  (a = cwT q ∧ b = cwO q ∧ c = cwO q)
+
+private def cwCoordGrade_O (q : ℕ) : cwCoordGrade q (cwO q) = 0 := by
+  simp [cwCoordGrade, cwO]
+
+private def cwCoordGrade_M (q : ℕ) (i : Fin q) :
+    cwCoordGrade q (cwM q i) = 1 := by
+  simp [cwCoordGrade, cwM]
+  omega
+
+private def cwCoordGrade_T (q : ℕ) : cwCoordGrade q (cwT q) = 2 := by
+  simp [cwCoordGrade, cwT]
+
+private def cwSupportedTriple_grade_sum_two
+    (q : ℕ) (a b c : Fin (q + 2))
+    (h : cwSupportedTriple q a b c) :
+    (cwCoordGrade q a).val + (cwCoordGrade q b).val +
+      (cwCoordGrade q c).val = 2 := by
+  rcases h with
+    ⟨i, rfl, rfl, rfl⟩ | ⟨i, rfl, rfl, rfl⟩ |
+    ⟨i, rfl, rfl, rfl⟩ | ⟨rfl, rfl, rfl⟩ |
+    ⟨rfl, rfl, rfl⟩ | ⟨rfl, rfl, rfl⟩ <;>
+    simp [cwCoordGrade_O, cwCoordGrade_M, cwCoordGrade_T]
+
+private abbrev CWTerm (q : ℕ) := (Fin q × Fin 3) ⊕ Fin 3
+
+private def cwTermTriple (q : ℕ) : CWTerm q → Fin 3 → Fin (q + 2)
+  | Sum.inl (i, ⟨0, _⟩), ⟨0, _⟩ => cwO q
+  | Sum.inl (i, ⟨0, _⟩), ⟨1, _⟩ => cwM q i
+  | Sum.inl (i, ⟨0, _⟩), ⟨2, _⟩ => cwM q i
+  | Sum.inl (i, ⟨1, _⟩), ⟨0, _⟩ => cwM q i
+  | Sum.inl (i, ⟨1, _⟩), ⟨1, _⟩ => cwO q
+  | Sum.inl (i, ⟨1, _⟩), ⟨2, _⟩ => cwM q i
+  | Sum.inl (i, ⟨2, _⟩), ⟨0, _⟩ => cwM q i
+  | Sum.inl (i, ⟨2, _⟩), ⟨1, _⟩ => cwM q i
+  | Sum.inl (i, ⟨2, _⟩), ⟨2, _⟩ => cwO q
+  | Sum.inr ⟨0, _⟩, ⟨0, _⟩ => cwO q
+  | Sum.inr ⟨0, _⟩, ⟨1, _⟩ => cwO q
+  | Sum.inr ⟨0, _⟩, ⟨2, _⟩ => cwT q
+  | Sum.inr ⟨1, _⟩, ⟨0, _⟩ => cwO q
+  | Sum.inr ⟨1, _⟩, ⟨1, _⟩ => cwT q
+  | Sum.inr ⟨1, _⟩, ⟨2, _⟩ => cwO q
+  | Sum.inr ⟨2, _⟩, ⟨0, _⟩ => cwT q
+  | Sum.inr ⟨2, _⟩, ⟨1, _⟩ => cwO q
+  | Sum.inr ⟨2, _⟩, ⟨2, _⟩ => cwO q
+
+private noncomputable def cwTermMonom
+    (K : Type u) [Field K] (q : ℕ) (t : CWTerm q) :
+    PiTensorProduct K (CWSpace K q) :=
+  CWMonom K q (cwTermTriple q t 0) (cwTermTriple q t 1) (cwTermTriple q t 2)
+
+private def cwTerm_supported (q : ℕ) (t : CWTerm q) :
+    cwSupportedTriple q
+      (cwTermTriple q t 0) (cwTermTriple q t 1) (cwTermTriple q t 2) := by
+  rcases t with ⟨i, r⟩ | r <;> fin_cases r <;>
+    simp [cwTermTriple, cwSupportedTriple]
+
+private def CWTensor_eq_sum_terms
+    (K : Type u) [Field K] (q : ℕ) :
+    CWTensor K q = ∑ t : CWTerm q, cwTermMonom K q t := by
+  have hM (i : Fin q) :
+      (⟨i.val + 1, by omega⟩ : Fin (q + 2)) =
+        ⟨1 + i.val, by omega⟩ := by
+    apply Fin.ext
+    change i.val + 1 = 1 + i.val
+    omega
+  have hT :
+      (⟨q + 1, by omega⟩ : Fin (q + 2)) =
+        ⟨1 + q, by omega⟩ := by
+    apply Fin.ext
+    change q + 1 = 1 + q
+    omega
+  rw [Fintype.sum_sum_type, Fintype.sum_prod_type]
+  unfold CWTensor cwTermMonom
+  simp [cwTermTriple, Fin.sum_univ_succ, cwO, cwM, cwT,
+    hM, hT]
+  abel
+
+private def cwTriple {α : Type u} (a b c : α) : Fin 3 → α
+  | ⟨0, _⟩ => a
+  | ⟨1, _⟩ => b
+  | ⟨2, _⟩ => c
+
+private def cwSquareCanonical_blockTensor_eq_term_pairs
+    (K : Type u) [Field K] (q : ℕ) (σ : Fin 3 → Fin 5) :
+    (cwSquareCanonicalGrading K q).blockTensor σ =
+      ∑ t : CWTerm q, ∑ u : CWTerm q,
+        PiTensorProduct.map
+          (fun s => (cwSquareCanonicalGrading K q).blockProj s (σ s))
+          (interchange (cwTermMonom K q t) (cwTermMonom K q u)) := by
+  change PiTensorProduct.map
+      (fun s => (cwSquareCanonicalGrading K q).blockProj s (σ s))
+      (interchange (CWTensor K q) (CWTensor K q)) = _
+  rw [CWTensor_eq_sum_terms]
+  let F := PiTensorProduct.map
+    (fun s => (cwSquareCanonicalGrading K q).blockProj s (σ s))
+  have hinter :
+      interchange (∑ t : CWTerm q, cwTermMonom K q t)
+          (∑ u : CWTerm q, cwTermMonom K q u) =
+        ∑ t : CWTerm q, ∑ u : CWTerm q,
+          interchange (cwTermMonom K q t) (cwTermMonom K q u) := by
+    calc
+      _ = ∑ t : CWTerm q,
+          interchange (cwTermMonom K q t)
+            (∑ u : CWTerm q, cwTermMonom K q u) :=
+        interchange_sum_left (cwTermMonom K q)
+          (∑ u : CWTerm q, cwTermMonom K q u)
+      _ = _ := by
+        apply Finset.sum_congr rfl
+        intro t ht
+        exact interchange_sum_right (cwTermMonom K q t) (cwTermMonom K q)
+  change F
+      (interchange (∑ t : CWTerm q, cwTermMonom K q t)
+        (∑ u : CWTerm q, cwTermMonom K q u)) = _
+  calc
+    _ = F (∑ t : CWTerm q, ∑ u : CWTerm q,
+          interchange (cwTermMonom K q t) (cwTermMonom K q u)) :=
+      congrArg F hinter
+    _ = _ := by
+      calc
+        _ = ∑ t : CWTerm q,
+            F (∑ u : CWTerm q,
+              interchange (cwTermMonom K q t) (cwTermMonom K q u)) :=
+          map_sum F
+            (fun t : CWTerm q => ∑ u : CWTerm q,
+              interchange (cwTermMonom K q t) (cwTermMonom K q u)) Finset.univ
+        _ = _ := by
+          apply Finset.sum_congr rfl
+          intro t ht
+          exact map_sum F
+            (fun u : CWTerm q =>
+              interchange (cwTermMonom K q t) (cwTermMonom K q u)) Finset.univ
+private def cwM_injective' (q : ℕ) : Function.Injective (cwM q) := by
+  intro i j h
+  apply Fin.ext
+  have hv := congrArg Fin.val h
+  simp only [cwM] at hv
+  omega
+
+private def cwM_eq_cwM_iff (q : ℕ) (i j : Fin q) :
+    cwM q i = cwM q j ↔ i = j :=
+  (cwM_injective' q).eq_iff
+
+private def cwO_ne_cwM (q : ℕ) (i : Fin q) : cwO q ≠ cwM q i := by
+  intro h
+  have hv := congrArg Fin.val h
+  simp only [cwO, cwM] at hv
+  omega
+
+private def cwT_ne_cwM (q : ℕ) (i : Fin q) : cwT q ≠ cwM q i := by
+  intro h
+  have hv := congrArg Fin.val h
+  simp only [cwT, cwM] at hv
+  omega
+
+private def cwO_ne_cwT (q : ℕ) : cwO q ≠ cwT q := by
+  intro h
+  have hv := congrArg Fin.val h
+  simp only [cwO, cwT] at hv
+  omega
+
+private def cwM_ne_cwO (q : ℕ) (i : Fin q) : cwM q i ≠ cwO q :=
+  (cwO_ne_cwM q i).symm
+
+private def cwM_ne_cwT (q : ℕ) (i : Fin q) : cwM q i ≠ cwT q :=
+  (cwT_ne_cwM q i).symm
+private def cwRectTermTriple (q : ℕ) :
+    CWTerm q → Fin 3 → Fin (q + 2)
+  | Sum.inl (i, ⟨0, _⟩), ⟨0, _⟩ => cwO q
+  | Sum.inl (i, ⟨0, _⟩), ⟨1, _⟩ => cwM q i
+  | Sum.inl (i, ⟨0, _⟩), ⟨2, _⟩ => cwM q i
+  | Sum.inl (i, ⟨1, _⟩), ⟨0, _⟩ => cwM q i
+  | Sum.inl (i, ⟨1, _⟩), ⟨1, _⟩ => cwO q
+  | Sum.inl (i, ⟨1, _⟩), ⟨2, _⟩ => cwM q i
+  | Sum.inl (i, ⟨2, _⟩), ⟨0, _⟩ => cwM q i
+  | Sum.inl (i, ⟨2, _⟩), ⟨1, _⟩ => cwM q i
+  | Sum.inl (i, ⟨2, _⟩), ⟨2, _⟩ => cwO q
+  | Sum.inr ⟨0, _⟩, ⟨0, _⟩ => cwO q
+  | Sum.inr ⟨0, _⟩, ⟨1, _⟩ => cwO q
+  | Sum.inr ⟨0, _⟩, ⟨2, _⟩ => cwT q
+  | Sum.inr ⟨1, _⟩, ⟨0, _⟩ => cwO q
+  | Sum.inr ⟨1, _⟩, ⟨1, _⟩ => cwT q
+  | Sum.inr ⟨1, _⟩, ⟨2, _⟩ => cwO q
+  | Sum.inr ⟨2, _⟩, ⟨0, _⟩ => cwT q
+  | Sum.inr ⟨2, _⟩, ⟨1, _⟩ => cwO q
+  | Sum.inr ⟨2, _⟩, ⟨2, _⟩ => cwO q
+
+private def cwRectTermTriple_eq_cwTermTriple
+    (q : ℕ) (t : CWTerm q) (s : Fin 3) :
+    cwRectTermTriple q t s = cwTermTriple q t s := by
+  rcases t with ⟨i, r⟩ | r <;> fin_cases r <;> fin_cases s <;> rfl
+@[simp] private theorem sum_sum_ite_pair_eq
+    {A : Type*} [AddCommMonoid A] {q : ℕ}
+    (f : Fin q → Fin q → A) (i j : Fin q) :
+    (∑ x : Fin q, ∑ y : Fin q,
+      if i = x ∧ j = y then f x y else 0) = f i j := by
+  rw [Fintype.sum_eq_single i]
+  · rw [Fintype.sum_eq_single j]
+    · simp
+    · intro y hy
+      simp [Ne.symm hy]
+  · intro x hx
+    simp [Ne.symm hx]
+private noncomputable def cwSquareTargetBasisMap
+    (K : Type u) [Field K] (q : ℕ)
+    (W : Fin 3 → Type u)
+    [∀ s, AddCommGroup (W s)] [∀ s, Module K (W s)]
+    (σ : Fin 3 → Fin 5)
+    (output : ∀ s : Fin 3,
+      Fin (q + 2) × Fin (q + 2) → W s)
+    (s : Fin 3) :
+    (cwSquareCanonicalGrading K q).classOf s (σ s) →ₗ[K] W s :=
+  ((cwSquareBasis K q s).constr K (output s)).comp
+    ((cwSquareCanonicalGrading K q).decomp s (σ s)).subtype
+
+private def cwSquareTargetBasisMap_apply_blockProj_basis
+    (K : Type u) [Field K] (q : ℕ)
+    (W : Fin 3 → Type u)
+    [∀ s, AddCommGroup (W s)] [∀ s, Module K (W s)]
+    (σ : Fin 3 → Fin 5)
+    (output : ∀ s : Fin 3,
+      Fin (q + 2) × Fin (q + 2) → W s)
+    (s : Fin 3) (idx : Fin (q + 2) × Fin (q + 2)) :
+    cwSquareTargetBasisMap K q W σ output s
+        ((cwSquareCanonicalGrading K q).blockProj s (σ s)
+          (cwSquareBasis K q s idx)) =
+      if cwPairGrade q idx = σ s then output s idx else 0 := by
+  rw [cwSquareCanonical_blockProj_basis]
+  split_ifs with hgrade
+  · simp [cwSquareTargetBasisMap]
+  · simp [cwSquareTargetBasisMap]
+
+private def cwSquareTargetBasisMap_term_pair
+    (K : Type u) [Field K] (q : ℕ)
+    (W : Fin 3 → Type u)
+    [∀ s, AddCommGroup (W s)] [∀ s, Module K (W s)]
+    (σ : Fin 3 → Fin 5)
+    (output : ∀ s : Fin 3,
+      Fin (q + 2) × Fin (q + 2) → W s)
+    (t u : CWTerm q) :
+    PiTensorProduct.map (cwSquareTargetBasisMap K q W σ output)
+        (PiTensorProduct.map
+          (fun s => (cwSquareCanonicalGrading K q).blockProj s (σ s))
+          (interchange (cwTermMonom K q t) (cwTermMonom K q u))) =
+      tprod K (fun s =>
+        if cwPairGrade q
+            (cwTermTriple q t s, cwTermTriple q u s) = σ s then
+          output s (cwTermTriple q t s, cwTermTriple q u s)
+        else 0) := by
+  have ht : cwTermMonom K q t =
+      tprod K (fun s => cwVec K q s (cwTermTriple q t s)) := by
+    unfold cwTermMonom CWMonom
+    congr 1
+    funext s
+    fin_cases s <;> rfl
+  have hu : cwTermMonom K q u =
+      tprod K (fun s => cwVec K q s (cwTermTriple q u s)) := by
+    unfold cwTermMonom CWMonom
+    congr 1
+    funext s
+    fin_cases s <;> rfl
+  rw [ht, hu]
+  let v₁ : ∀ s, CWSpace K q s :=
+    fun s => cwVec K q s (cwTermTriple q t s)
+  let v₂ : ∀ s, CWSpace K q s :=
+    fun s => cwVec K q s (cwTermTriple q u s)
+  change PiTensorProduct.map (cwSquareTargetBasisMap K q W σ output)
+      (PiTensorProduct.map
+        (fun s => (cwSquareCanonicalGrading K q).blockProj s (σ s))
+        (interchange (tprod K v₁) (tprod K v₂))) = _
+  have hinter := interchange_tprod (K := K) v₁ v₂
+  refine (congrArg
+    (fun z => PiTensorProduct.map (cwSquareTargetBasisMap K q W σ output)
+      (PiTensorProduct.map
+        (fun s => (cwSquareCanonicalGrading K q).blockProj s (σ s)) z)) hinter).trans ?_
+  have hinner :
+      PiTensorProduct.map
+          (fun s => (cwSquareCanonicalGrading K q).blockProj s (σ s))
+          (tprod K (fun i => v₁ i ⊗ₜ[K] v₂ i)) =
+        tprod K (fun s =>
+          (cwSquareCanonicalGrading K q).blockProj s (σ s)
+            (v₁ s ⊗ₜ[K] v₂ s)) :=
+    PiTensorProduct.map_tprod _ _
+  calc
+    _ = PiTensorProduct.map (cwSquareTargetBasisMap K q W σ output)
+        (tprod K (fun s =>
+          (cwSquareCanonicalGrading K q).blockProj s (σ s)
+            (v₁ s ⊗ₜ[K] v₂ s))) := congrArg _ hinner
+    _ = tprod K (fun s =>
+        cwSquareTargetBasisMap K q W σ output s
+          ((cwSquareCanonicalGrading K q).blockProj s (σ s)
+            (v₁ s ⊗ₜ[K] v₂ s))) :=
+      PiTensorProduct.map_tprod _ _
+    _ = _ := by
+      congr 1
+      funext s
+      dsimp [v₁, v₂]
+      have hbasis := (cwSquareBasis_apply K q s
+        (cwTermTriple q t s) (cwTermTriple q u s)).symm
+      refine (congrArg
+        (fun z => cwSquareTargetBasisMap K q W σ output s
+          ((cwSquareCanonicalGrading K q).blockProj s (σ s) z)) hbasis).trans ?_
+      exact cwSquareTargetBasisMap_apply_blockProj_basis
+        K q W σ output s _
+
+private noncomputable def cwCoupledVec
+    (K : Type u) [Field K] (q : ℕ)
+    (x y : Fin q ⊕ Fin q) (z : Fin 2 ⊕ (Fin q × Fin q)) :
+    ∀ s : Fin 3, CoupledSpace K q s
+  | ⟨0, _⟩ => (Pi.single x 1 : (Fin q ⊕ Fin q) → K)
+  | ⟨1, _⟩ => (Pi.single y 1 : (Fin q ⊕ Fin q) → K)
+  | ⟨2, _⟩ => (Pi.single z 1 : (Fin 2 ⊕ (Fin q × Fin q)) → K)
+
+private noncomputable def cwCoupledMonom
+    (K : Type u) [Field K] (q : ℕ)
+    (x y : Fin q ⊕ Fin q) (z : Fin 2 ⊕ (Fin q × Fin q)) :
+    PiTensorProduct K (CoupledSpace K q) :=
+  tprod K (cwCoupledVec K q x y z)
+
+private noncomputable def cwCoupled112BasisOut
+    (K : Type u) [Field K] (q : ℕ) (s : Fin 3)
+    (ab : Fin (q + 2) × Fin (q + 2)) : CoupledSpace K q s :=
+  match s with
+  | ⟨0, _⟩ =>
+      (∑ i : Fin q,
+        if ab = (cwO q, cwM q i) then
+          (Pi.single (Sum.inl i) 1 : (Fin q ⊕ Fin q) → K)
+        else 0) +
+      (∑ i : Fin q,
+        if ab = (cwM q i, cwO q) then
+          (Pi.single (Sum.inr i) 1 : (Fin q ⊕ Fin q) → K)
+        else 0)
+  | ⟨1, _⟩ =>
+      (∑ i : Fin q,
+        if ab = (cwO q, cwM q i) then
+          (Pi.single (Sum.inl i) 1 : (Fin q ⊕ Fin q) → K)
+        else 0) +
+      (∑ i : Fin q,
+        if ab = (cwM q i, cwO q) then
+          (Pi.single (Sum.inr i) 1 : (Fin q ⊕ Fin q) → K)
+        else 0)
+  | ⟨2, _⟩ =>
+      (if ab = (cwT q, cwO q) then
+        (Pi.single (Sum.inl (0 : Fin 2)) 1 :
+          (Fin 2 ⊕ (Fin q × Fin q)) → K)
+      else 0) +
+      (if ab = (cwO q, cwT q) then
+        (Pi.single (Sum.inl (1 : Fin 2)) 1 :
+          (Fin 2 ⊕ (Fin q × Fin q)) → K)
+      else 0) +
+      (∑ i : Fin q, ∑ j : Fin q,
+        if ab = (cwM q i, cwM q j) then
+          (Pi.single (Sum.inr (j, i)) 1 :
+            (Fin 2 ⊕ (Fin q × Fin q)) → K)
+        else 0)
+
+private noncomputable def cwCoupled112ExpectedTermPair
+    (K : Type u) [Field K] (q : ℕ) :
+    CWTerm q → CWTerm q → PiTensorProduct K (CoupledSpace K q)
+  | Sum.inr ⟨0, _⟩, Sum.inl (i, ⟨2, _⟩) =>
+      cwCoupledMonom K q (Sum.inl i) (Sum.inl i) (Sum.inl 0)
+  | Sum.inl (i, ⟨2, _⟩), Sum.inr ⟨0, _⟩ =>
+      cwCoupledMonom K q (Sum.inr i) (Sum.inr i) (Sum.inl 1)
+  | Sum.inl (i, ⟨0, _⟩), Sum.inl (k, ⟨1, _⟩) =>
+      cwCoupledMonom K q (Sum.inl k) (Sum.inr i) (Sum.inr (k, i))
+  | Sum.inl (k, ⟨1, _⟩), Sum.inl (i, ⟨0, _⟩) =>
+      cwCoupledMonom K q (Sum.inr k) (Sum.inl i) (Sum.inr (i, k))
+  | _, _ => 0
+
+private def cwCoupled112_special_or_grade_mismatch
+    (q : ℕ) (t u : CWTerm q) :
+    (∃ i : Fin q,
+      t = Sum.inr (0 : Fin 3) ∧ u = Sum.inl (i, (2 : Fin 3))) ∨
+    (∃ i : Fin q,
+      t = Sum.inl (i, (2 : Fin 3)) ∧ u = Sum.inr (0 : Fin 3)) ∨
+    (∃ i k : Fin q,
+      t = Sum.inl (i, (0 : Fin 3)) ∧ u = Sum.inl (k, (1 : Fin 3))) ∨
+    (∃ k i : Fin q,
+      t = Sum.inl (k, (1 : Fin 3)) ∧ u = Sum.inl (i, (0 : Fin 3))) ∨
+    cwPairGrade q (cwRectTermTriple q t 0, cwRectTermTriple q u 0) ≠ 1 ∨
+    cwPairGrade q (cwRectTermTriple q t 1, cwRectTermTriple q u 1) ≠ 1 ∨
+    cwPairGrade q (cwRectTermTriple q t 2, cwRectTermTriple q u 2) ≠ 2 := by
+  rcases t with ⟨i, a⟩ | a <;> rcases u with ⟨j, b⟩ | b <;>
+    fin_cases a <;> fin_cases b <;>
+    simp [cwRectTermTriple, cwPairGrade, cwCoordGrade_O,
+      cwCoordGrade_M, cwCoordGrade_T]
+
+private def cwCoupled112ExpectedTermPair_eq_zero_of_grade_mismatch
+    (K : Type u) [Field K] (q : ℕ) (t u : CWTerm q) (s : Fin 3)
+    (hgrade : cwPairGrade q
+      (cwRectTermTriple q t s, cwRectTermTriple q u s) ≠
+        cwSquareBlockType 1 1 2 s) :
+    cwCoupled112ExpectedTermPair K q t u = 0 := by
+  rcases t with ⟨i, a⟩ | a <;> rcases u with ⟨j, b⟩ | b <;>
+    fin_cases a <;> fin_cases b <;> fin_cases s <;>
+    simp [cwRectTermTriple, cwCoupled112ExpectedTermPair, cwPairGrade,
+      cwCoordGrade_O, cwCoordGrade_M, cwCoordGrade_T,
+      cwSquareBlockType] at hgrade ⊢
+
+private def cwCoupled112_filtered_term_pair_classification
+    (K : Type u) [Field K] (q : ℕ) (t u : CWTerm q) :
+    tprod K (fun s =>
+      if cwPairGrade q (cwRectTermTriple q t s, cwRectTermTriple q u s) =
+          cwSquareBlockType 1 1 2 s then
+        cwCoupled112BasisOut K q s
+          (cwRectTermTriple q t s, cwRectTermTriple q u s)
+      else 0) = cwCoupled112ExpectedTermPair K q t u := by
+  rcases cwCoupled112_special_or_grade_mismatch q t u with
+    ⟨i, rfl, rfl⟩ | ⟨i, rfl, rfl⟩ |
+    ⟨i, k, rfl, rfl⟩ | ⟨k, i, rfl, rfl⟩ | h0 | h1 | h2
+  · simp only [cwCoupled112ExpectedTermPair, cwCoupledMonom]
+    congr 1
+    funext s
+    fin_cases s <;>
+      simp [cwRectTermTriple, cwCoupled112BasisOut, cwCoupledVec,
+        cwPairGrade, cwCoordGrade_O, cwCoordGrade_M, cwCoordGrade_T,
+        cwSquareBlockType, cwM_eq_cwM_iff, cwO_ne_cwM, cwT_ne_cwM,
+        cwM_ne_cwO, cwM_ne_cwT, cwO_ne_cwT]
+  · simp only [cwCoupled112ExpectedTermPair, cwCoupledMonom]
+    congr 1
+    funext s
+    fin_cases s <;>
+      simp [cwRectTermTriple, cwCoupled112BasisOut, cwCoupledVec,
+        cwPairGrade, cwCoordGrade_O, cwCoordGrade_M, cwCoordGrade_T,
+        cwSquareBlockType, cwM_eq_cwM_iff, cwO_ne_cwM, cwT_ne_cwM,
+        cwM_ne_cwO, cwM_ne_cwT, cwO_ne_cwT]
+  · simp only [cwCoupled112ExpectedTermPair, cwCoupledMonom]
+    congr 1
+    funext s
+    fin_cases s <;>
+      simp [cwRectTermTriple, cwCoupled112BasisOut, cwCoupledVec,
+        cwPairGrade, cwCoordGrade_O, cwCoordGrade_M,
+        cwSquareBlockType, cwM_eq_cwM_iff, cwO_ne_cwM, cwT_ne_cwM,
+        cwM_ne_cwO, cwM_ne_cwT, cwO_ne_cwT, eq_comm]
+  · simp only [cwCoupled112ExpectedTermPair, cwCoupledMonom]
+    congr 1
+    funext s
+    fin_cases s <;>
+      simp [cwRectTermTriple, cwCoupled112BasisOut, cwCoupledVec,
+        cwPairGrade, cwCoordGrade_O, cwCoordGrade_M,
+        cwSquareBlockType, cwM_eq_cwM_iff, cwO_ne_cwM, cwT_ne_cwM,
+        cwM_ne_cwO, cwM_ne_cwT, cwO_ne_cwT, eq_comm]
+  · rw [cwCoupled112ExpectedTermPair_eq_zero_of_grade_mismatch
+      K q t u 0 (by simpa [cwSquareBlockType] using h0)]
+    apply (PiTensorProduct.tprod K).map_coord_zero (0 : Fin 3)
+    simp [h0, cwSquareBlockType]
+  · rw [cwCoupled112ExpectedTermPair_eq_zero_of_grade_mismatch
+      K q t u 1 (by simpa [cwSquareBlockType] using h1)]
+    apply (PiTensorProduct.tprod K).map_coord_zero (1 : Fin 3)
+    simp [h1, cwSquareBlockType]
+  · rw [cwCoupled112ExpectedTermPair_eq_zero_of_grade_mismatch
+      K q t u 2 (by simpa [cwSquareBlockType] using h2)]
+    apply (PiTensorProduct.tprod K).map_coord_zero (2 : Fin 3)
+    simp [h2, cwSquareBlockType]
+
+private def coupledTensor_eq_cwCoupledMonom_sums
+    (K : Type u) [Field K] (q : ℕ) :
+    coupledTensor K q =
+      (∑ i : Fin q,
+        cwCoupledMonom K q (Sum.inl i) (Sum.inl i) (Sum.inl 0)) +
+      (∑ k : Fin q,
+        cwCoupledMonom K q (Sum.inr k) (Sum.inr k) (Sum.inl 1)) +
+      (∑ i : Fin q, ∑ k : Fin q,
+        cwCoupledMonom K q (Sum.inl i) (Sum.inr k) (Sum.inr (i, k))) +
+      (∑ i : Fin q, ∑ k : Fin q,
+        cwCoupledMonom K q (Sum.inr k) (Sum.inl i) (Sum.inr (i, k))) := by
+  rfl
+
+private def cwCoupled_cross_swapped
+    (K : Type u) [Field K] (q : ℕ) :
+    (∑ i : Fin q, ∑ k : Fin q,
+      cwCoupledMonom K q (Sum.inl k) (Sum.inr i) (Sum.inr (k, i))) =
+    (∑ i : Fin q, ∑ k : Fin q,
+      cwCoupledMonom K q (Sum.inl i) (Sum.inr k) (Sum.inr (i, k))) := by
+  rw [Finset.sum_comm]
+
+private def cwCoupled_fourth_swapped
+    (K : Type u) [Field K] (q : ℕ) :
+    (∑ k : Fin q, ∑ i : Fin q,
+      cwCoupledMonom K q (Sum.inr k) (Sum.inl i) (Sum.inr (i, k))) =
+    (∑ i : Fin q, ∑ k : Fin q,
+      cwCoupledMonom K q (Sum.inr k) (Sum.inl i) (Sum.inr (i, k))) := by
+  rw [Finset.sum_comm]
+
+private def cwCoupled112_all_filtered_term_pairs_eq_coupledTensor
+    (K : Type u) [Field K] (q : ℕ) :
+    (∑ t : CWTerm q, ∑ u : CWTerm q,
+      tprod K (fun s =>
+        if cwPairGrade q (cwRectTermTriple q t s, cwRectTermTriple q u s) =
+            cwSquareBlockType 1 1 2 s then
+          cwCoupled112BasisOut K q s
+            (cwRectTermTriple q t s, cwRectTermTriple q u s)
+        else 0)) = coupledTensor K q := by
+  simp_rw [cwCoupled112_filtered_term_pair_classification]
+  rw [Fintype.sum_sum_type]
+  simp_rw [Fintype.sum_sum_type]
+  rw [Fintype.sum_prod_type]
+  simp_rw [Fintype.sum_prod_type]
+  simp [cwCoupled112ExpectedTermPair, Fin.sum_univ_succ]
+  rw [Finset.sum_add_distrib]
+  rw [Finset.sum_add_distrib]
+  rw [cwCoupled_cross_swapped K q]
+  rw [cwCoupled_fourth_swapped K q]
+  rw [coupledTensor_eq_cwCoupledMonom_sums]
+  ac_rfl
+def Coupled112Coord (q : ℕ) : Fin 3 → Type
+  | ⟨0, _⟩ => Fin q ⊕ Fin q
+  | ⟨1, _⟩ => Fin q ⊕ Fin q
+  | ⟨2, _⟩ => Fin 2 ⊕ (Fin q × Fin q)
+
+def coupled112CanonicalPair (q : ℕ) :
+    ∀ s : Fin 3, Coupled112Coord q s → Fin (q + 2) × Fin (q + 2)
+  | ⟨0, _⟩, Sum.inl i =>
+      (cwO q, cwM q i)
+  | ⟨0, _⟩, Sum.inr i =>
+      (cwM q i, cwO q)
+  | ⟨1, _⟩, Sum.inl i =>
+      (cwO q, cwM q i)
+  | ⟨1, _⟩, Sum.inr i =>
+      (cwM q i, cwO q)
+  | ⟨2, _⟩, Sum.inl a =>
+      if a = 0 then
+        (cwT q, cwO q)
+      else
+        (cwO q, cwT q)
+  | ⟨2, _⟩, Sum.inr ij =>
+      (cwM q ij.2, cwM q ij.1)
+
+noncomputable def coupled112CoordVec
+    (K : Type u) [Field K] (q : ℕ) :
+    ∀ s : Fin 3, Coupled112Coord q s → CoupledSpace K q s
+  | ⟨0, _⟩, c => Pi.single c 1
+  | ⟨1, _⟩, c => Pi.single c 1
+  | ⟨2, _⟩, c => Pi.single c 1
+
+private def coupled112CanonicalPair_grade
+    (q : ℕ) (s : Fin 3) (c : Coupled112Coord q s) :
+    cwPairGrade q (coupled112CanonicalPair q s c) =
+      cwSquareBlockType 1 1 2 s := by
+  fin_cases s
+  · rcases c with i | i <;>
+      simp [coupled112CanonicalPair, cwPairGrade,
+        cwSquareBlockType, cwCoordGrade_O, cwCoordGrade_M]
+  · rcases c with i | i <;>
+      simp [coupled112CanonicalPair, cwPairGrade,
+        cwSquareBlockType, cwCoordGrade_O, cwCoordGrade_M]
+  · rcases c with a | ij
+    · fin_cases a <;>
+        simp [coupled112CanonicalPair, cwPairGrade,
+          cwSquareBlockType, cwCoordGrade_O, cwCoordGrade_T,
+          cwO_ne_cwT]
+    · rcases ij with ⟨i, j⟩
+      simp [coupled112CanonicalPair, cwPairGrade,
+        cwSquareBlockType, cwCoordGrade_M]
+
+/-- Explicit maps from the literal canonical `112` block to the coupled
+constituent, with their exact action on every named canonical source basis
+pair.  In mode two this records the grade translation `0,1,2 ↦ 2,0,1`. -/
+private def cwSquareCanonical_coupled112_source_router
+    (K : Type u) [Field K] (q : ℕ) :
+    ∃ maps : ∀ s : Fin 3,
+        (cwSquareRouterGrading K q).classOf s
+            (cwSquareBlockType 1 1 2 s) →ₗ[K]
+          CoupledSpace K q s,
+      PiTensorProduct.map maps
+          ((cwSquareRouterGrading K q).blockTensor
+            (cwSquareBlockType 1 1 2)) =
+        coupledTensor K q ∧
+      ∀ (s : Fin 3) (c : Coupled112Coord q s),
+        maps s
+            ((cwSquareRouterGrading K q).blockProj s
+              (cwSquareBlockType 1 1 2 s)
+              (cwSquareRouterBasis K q s
+                (coupled112CanonicalPair q s c))) =
+          coupled112CoordVec K q s c := by
+  let maps := cwSquareTargetBasisMap K q (CoupledSpace K q)
+    (cwSquareBlockType 1 1 2) (cwCoupled112BasisOut K q)
+  refine ⟨maps, ?_, ?_⟩
+  · change PiTensorProduct.map maps
+        ((cwSquareCanonicalGrading K q).blockTensor
+          (cwSquareBlockType 1 1 2)) = coupledTensor K q
+    rw [cwSquareCanonical_blockTensor_eq_term_pairs]
+    dsimp only [maps]
+    simp only [map_sum, cwSquareTargetBasisMap_term_pair]
+    simpa only [cwRectTermTriple_eq_cwTermTriple] using
+      cwCoupled112_all_filtered_term_pairs_eq_coupledTensor K q
+  · intro s c
+    change maps s
+        ((cwSquareCanonicalGrading K q).blockProj s
+          (cwSquareBlockType 1 1 2 s)
+          (cwSquareBasis K q s (coupled112CanonicalPair q s c))) = _
+    dsimp only [maps]
+    rw [cwSquareTargetBasisMap_apply_blockProj_basis,
+      if_pos (coupled112CanonicalPair_grade q s c)]
+    fin_cases s
+    · rcases c with i | i <;>
+        simp [coupled112CanonicalPair, coupled112CoordVec,
+          cwCoupled112BasisOut, cwM_eq_cwM_iff, cwO_ne_cwM,
+          cwM_ne_cwO]
+    · rcases c with i | i <;>
+        simp [coupled112CanonicalPair, coupled112CoordVec,
+          cwCoupled112BasisOut, cwM_eq_cwM_iff, cwO_ne_cwM,
+          cwM_ne_cwO]
+    · rcases c with a | ij
+      · fin_cases a <;>
+          simp [coupled112CanonicalPair, coupled112CoordVec,
+            cwCoupled112BasisOut, cwO_ne_cwT,
+            cwT_ne_cwM, cwM_ne_cwT, cwO_ne_cwM, cwM_ne_cwO,
+            eq_comm]
+      · rcases ij with ⟨i, j⟩
+        simp [coupled112CanonicalPair, coupled112CoordVec,
+          cwCoupled112BasisOut, cwM_eq_cwM_iff, cwM_ne_cwT,
+          cwM_ne_cwO, eq_comm]
+
+end CWSquareCanonical
+
+end MME
+
+open MME PiTensorProduct
+
+universe u
+
+/-- Exact basis-labelled source router from the literal canonical q=6
+row-112 block to the four-sum coupled constituent. -/
+theorem solution
+    (K : Type u) [Field K] :
+    ∃ maps : ∀ s : Fin 3,
+        (cwSquareCanonicalGrading K 6).classOf s
+            (cwSquareBlockType 1 1 2 s) →ₗ[K]
+          CoupledSpace K 6 s,
+      PiTensorProduct.map maps
+          ((cwSquareCanonicalGrading K 6).blockTensor
+            (cwSquareBlockType 1 1 2)) =
+        coupledTensor K 6 ∧
+      ∀ (s : Fin 3) (c : DWZCanonical112Coord 6 s),
+        maps s
+            ((cwSquareCanonicalGrading K 6).blockProj s
+              (cwSquareBlockType 1 1 2 s)
+              (cwSquareCanonicalBasis K 6 s
+                (dwzCanonical112Pair 6 s c))) =
+          dwzCanonical112Vec K 6 s c := by
+  simpa only [DWZCanonical112Coord, dwzCanonical112Pair,
+    dwzCanonical112Vec, Coupled112Coord, coupled112CanonicalPair,
+    coupled112CoordVec, cwSquareRouterGrading, cwSquareRouterBasis,
+    cwSquareBasis] using
+      cwSquareCanonical_coupled112_source_router K 6

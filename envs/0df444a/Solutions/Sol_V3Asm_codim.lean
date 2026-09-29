@@ -1,0 +1,207 @@
+-- Prove2me | solution 1 for V3Asm.codim
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:13.503601+00:00
+-- url     : https://prove2.me/submissions/1dc87171-64a7-55e2-9c49-9c3be8e1b8bb
+
+import Mathlib
+import Definitions.Def_ModularCurve_ResolvedModelSite
+import Definitions.Def_ModularCurve_DRModelPackageCrossingFrame
+import Theorems.Thm_V3Glue_ChartInput_exists_eq_etaG_of_ringKrullDim_le_one
+import Theorems.Thm_ModularCurve_DRModelPackage_eq_or_eq_baseChangeMap_genericPoint_of_ringKrullDim_stalk_le_one
+import Theorems.Thm_AlgebraicGeometry_Scheme_branchIdeal_le_branchIdeal_iff
+import Theorems.Thm_AlgebraicGeometry_map_appTop_mem_nonZeroDivisors_of_flat
+import Theorems.Thm_MvPolynomial_CrossingQuotient_Resolution_exists_eq_lineUGen_of_toCrossing_eq_vertexPt_of_forall_specializes
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_V3Asm_codim
+p2m_attr_erase "instance" "ModularCurve.PhiGen.instNeZeroPhiGenCosetA AlgebraicCurve.CurveModel.locallyOfFiniteType_gluedToBase AlgebraicCurve.CurveModel.isFractionRing_overlap AlgebraicCurve.CurveModel.isLocallyNoetherian_glued AlgebraicCurve.CurveModel.jacobsonSpace_glued AlgebraicCurve.CurveModel.isOpenImmersion_ι₀ AlgebraicCurve.CurveModel.isIntegral_glued AlgebraicCurve.CurveModel.quasiSeparated_gluedToBase AlgebraicCurve.CurveModel.compactSpace_glued AlgebraicCurve.CurveModel.isIntegral_adjoin_chartRing AlgebraicCurve.CurveModel.isFractionRing_overlap_functionField AlgebraicCurve.CurveModel.isProper_gluedToBase AlgebraicCurve.CurveModel.isOpenImmersion_ιU AlgebraicCurve.CurveModel.isOpenImmersion_f₀ AlgebraicCurve.CurveModel.isOpenImmersion_fInf AlgebraicCurve.CurveModel.isOpenImmersion_ιInf AlgebraicCurve.CurveModel.algebra_overlap_functionField AlgebraicCurve.CurveModel.quasiCompact_gluedToBase AlgebraicCurve.CurveModel.algebraAdjoin AlgebraicCurve.CurveModel.isDedekindDomain_chartRing AlgebraicCurve.CurveModel.isIntegralClosure AlgebraicCurve.CurveModel.finite_chartRing AlgebraicCurve.CurveModel.centre_isPrime AlgebraicCurve.CurveModel.isFractionRing_chartRing AlgebraicCurve.CurveModel.finiteType_chartRing AlgebraicCurve.CurveModel.isNoetherianRing_chartRing AlgebraicCurve.CurveModel.isScalarTower_base_adjoin AlgebraicCurve.CurveModel.isScalarTower_adjoin AlgebraicCurve.CurveModel.chartRing_finitePresentation AlgebraicCurve.IsCurveOver.instNontrivialKaehler AlgebraicCurve.IsCurveOver.instFreeKaehler AlgebraicCurve.IsCurveOver.toHasPrincipalDivisors AlgebraicCurve.IsCurveOver.instFiniteResidue AlgebraicCurve.instFundamentalIdentityOfSumRamificationInertia AlgebraicCurve.Place.instIsScalarTowerResidueFieldRestrictPushforward AlgebraicCurve.Place.instAlgebraResidueFieldRestrictPushforward AlgebraicCurve.Place.instIsLocalHomRestrictInclusion AlgebraicCurve.Place.instIsPrimeCenter AlgebraicCurve.Place.instIsFractionRingIntegralClosureAt AlgebraicCurve.Place.instIsTorsionFreeSubtypeMemValuationSubringToValuationSubringIntegralClosureAt"
+p2m_attr_erase "instance" "AlgebraicCurve.Place.instIsDedekindDomainIntegralClosureAt AlgebraicCurve.Place.instFiniteSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.Place.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.Place.instIsTrivialOnWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.RationalFunctionField.instNontrivialSubtypeUnitsWithZeroMultiplicativeIntMemSubgroupValueGroupRatFuncValuationInftyValuation_definitions instIsScalarTowerIntegralClosure instNeZeroIdealUnderOfNontrivialOfIsDomainOfIsIntegral_definitions instAlgebraIntegralClosure_1 isInvariant_integralClosure instAlgebraIntegralClosure continuousSMulDiscrete_integralClosure mulSemiringActionIntegralClosure smulCommClass_integralClosure instIsDomainIntegralClosure instIsIntegralIntegralClosure instCommRingIntegralClosure instFaithfulSMulIntegralClosure instContinuousSMulOfDiscreteTopologyOfContinuousSMulDiscrete ModularCurve.instAlgebraJLineBar ModularCurve.instModuleJLineBar AlgebraicCurve.instHasLocalResidue_of_hasCanonicalLocalResidueK AlgebraicCurve.instHasCanonicalLocalResidueK_of_hasCanonicalLocalResidueKStar AlgebraicCurve.Place.kw_ffgc_finiteDimensional_adicCompletion instAlgebraSubtypeMemValuationSubring_definitions AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersIntegersCompletion ModularCurve.KwF4gRRTate.instAlgebraKAdicCompletionIntegers AlgebraicCurve.Place.kw_ffgc_continuousSMul_adicCompletionComap AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersCompletionCompletion IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instDimensionLEOneSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.instLiesOverSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersCompletionIdealAsIdeal IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsPrincipalIdealRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemSubringIntegerWithZeroMultiplicativeInt_definitions IsDedekindDomain.HeightOneSpectrum.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicCompletionV_definitions AlgebraicCurve.instHasCanonicalLocalResidueK AlgebraicCurve.Place.instAlgebra_restrictResidueField AlgebraicCurve.Place.instIsScalarTower_restrictResidueField AlgebraicCurve.instHasLocalResidue AlgebraicCurve.HasSeparableResidue.of_perfectField_of_isCurveOver AlgebraicCurve.HasSeparableResidue.of_perfectField"
+p2m_attr_erase "instance" "AlgebraicCurve.Place.instIsLocalHom_restrictSubringHom AlgebraicCurve.instHasCanonicalLocalResidueKStar ModularCurve.KwNo6Pin.isLocalRing_completion WeierstrassCurve.instIsEllipticBaseChange WeierstrassCurve.Univ.Affine.instAddGroupPointFieldBaseChangeMvPolynomialCoeffIntCurve WeierstrassCurve.Univ.instIsEllipticFieldPointedCurve WeierstrassCurve.Univ.instCommRingPoly WeierstrassCurve.Affine.instIsScalarTowerPolynomialRatFuncFunctionField_definitions WeierstrassCurve.Affine.instAlgebraRatFuncFunctionField_definitions WeierstrassCurve.Affine.instIsScalarTowerRatFuncFunctionField_definitions WeierstrassCurve.Affine.CoordinateRing.moduleFinite WeierstrassCurve.Affine.instDecidableEqFunctionField WeierstrassCurve.Affine.CoordinateRing.isIntegral ModularCurve.instFiniteProjectiveLine ModularCurve.unimodularRowSetoid ModularCurve.TatePoint.instIsElliptic_nearCurve ModularCurve.instIsElliptic_tateLaurent ModularCurve.B3.instIsElliptic_goodModel ModularCurve.instIsScalarTowerJAdjoin WeierstrassCurve.VeluQuotientJGates.instIsElliptic27a4 ModularCurve.ElevenA1.instDecidableEquation ModularCurve.ElevenA1.instDecidableNonsingular"
+p2m_attr_erase "simp" "ModularCurve.qExpandAlgHomC_apply ModularCurve.jqNModC_one ModularCurve.reductionDivAlong_apply ModularCurve.coe_reductionDegZeroAlong ModularCurve.CharPModel.FibreModel.mk.injEq ModularCurve.CharPModel.FibreModel.mk.sizeOf_spec ModularCurve.evalAtJqN_X ModularCurve.qTwistFun_coeff ModularCurve.swapBivar_C_X ModularCurve.PhiGen.cosetA_succ ModularCurve.qTwist_coeff ModularCurve.PhiGen.cosetB_zero ModularCurve.PhiGen.cosetA_zero ModularCurve.qTwist_single ModularCurve.swapBivar_X ModularCurve.aeval_toRingHom_X ModularCurve.PhiGen.cosetB_succ AlgebraicCurve.CurveModel.coe_gInf AlgebraicCurve.CurveModel.coe_tInvChart AlgebraicCurve.CurveModel.ιInf_gluedToBase_assoc AlgebraicCurve.CurveModel.ιInf_gluedToBase AlgebraicCurve.CurveModel.primeOfι₀_asIdeal AlgebraicCurve.CurveModel.coe_tChart AlgebraicCurve.CurveModel.ι₀_gluedToBase_assoc AlgebraicCurve.CurveModel.primeOfιInf_asIdeal AlgebraicCurve.CurveModel.ι₀_gluedToBase AlgebraicCurve.CurveModel.coe_tma AlgebraicCurve.CurveModel.coe_primeEquivChartPlaces ModularCurve.coe_frobeniusModL ModularCurve.coe_frobeniusDegZeroPullbackModL ModularCurve.coe_frobeniusDegZeroPushforwardModL AlgebraicCurve.Divisor.degree_pushforwardAlong AlgebraicCurve.Pic0.coe_degZeroCorrespondence AlgebraicCurve.Place.mem_fiberAlong AlgebraicCurve.Divisor.mapRestrict_single AlgebraicCurve.Divisor.pushforward_single AlgebraicCurve.Place.coe_restrictInclusion AlgebraicCurve.Place.mem_fiber AlgebraicCurve.Place.restrict_toValuationSubring AlgebraicCurve.Divisor.degree_pushforward"
+p2m_attr_erase "simp" "AlgebraicCurve.Place.restrictResidueMap_residue AlgebraicCurve.Pic0.coe_pushforwardDegZeroHom AlgebraicCurve.Pic0.coe_pullbackDegZeroHom ModularForm.val_heckeDiagMatrix ModularForm.heckeU_zero ModularForm.heckeU_zero_left ModularForm.heckeT_zero ModularForm.val_heckeMatrix ModularForm.heckeMatrix_zero ModularForm.heckeT_zero_left ModularForm.heckeDiagMatrix_zero ModularForm.val_upperTriangularGL AlgebraicCurve.Place.placeOfPrime_toValuationSubring AlgebraicCurve.Place.mem_fiberOver AlgebraicCurve.Place.fiberEquiv_symm_apply AlgebraicCurve.Place.fiberEquiv_apply AlgebraicCurve.Place.centerHeightOneSpectrum_asIdeal AlgebraicCurve.IsFrobeniusEndo.frobNormRingHom_apply ModularCurve.frobeniusPushforwardGeomLevelPic0_mk ModularCurve.coe_frobeniusGeomLevelEquiv_apply ModularCurve.coe_frobeniusPushforwardGeomLevelDegZero ModularCurve.heckeFibreGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusGeomLevel_apply_coe ModularCurve.frobeniusPullbackGeomLevelPic0OfIsCurveOver_mk ModularCurve.coe_heckeFibreGeomLevelDegZero ModularCurve.coe_frobeniusPullbackGeomLevelDegZero ModularCurve.frobeniusPullbackGeomLevelPic0_mk ModularCurve.frobeniusPullbackGeomLevel_single ModularCurve.heckeFibreGeomLevelPic0_mk ModularCurve.frobeniusPushforwardGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusPushforwardGeomLevel_single ModularCurve.qExpandAlgC_apply AlgebraicCurve.Place.congrEquiv_symm_apply AlgebraicCurve.RationalFunctionField.heightOneSpectrumOfIrreducible_asIdeal AlgebraicCurve.Place.congrRingEquiv_toValuationSubring AlgebraicCurve.Place.congrEquiv_apply AlgebraicCurve.Place.coe_comapSymmRingEquiv_apply AlgebraicCurve.RationalFunctionField.deg_placeOfPoint AlgebraicCurve.coe_frobeniusPushforwardDegZero AlgebraicCurve.IsFrobeniusEndo.coe_frobeniusPullbackDegZero"
+p2m_attr_erase "simp" "ModularCurve.reduceModBivar_C_X ModularCurve.laurentMap_coeff ModularCurve.reduceModBivar_X ModularCurve.laurentMap_single ModularCurve.evalAtJInt_X ModularCurve.evalAtJMod_X ModularCurve.jqNMod_one ModularCurve.aeval_heckeGen ModularCurve.coe_mTorsionGaloisRep_apply ModularCurve.eisensteinSystem_of_dvd ModularCurve.eisensteinSystem_of_not_dvd AlgebraicCurve.RationalFunctionField.placeInfty_toValuationSubring AlgebraicCurve.RationalFunctionField.placeEquivOption_placeInfty AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_some AlgebraicCurve.RationalFunctionField.placeEquivOption_placeOfPoint AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_none AlgebraicCurve.Divisor.evalFun_zero AlgebraicCurve.Place.evalAt_one AlgebraicCurve.mulAdele_apply AlgebraicCurve.residuePairing_apply_coe AlgebraicCurve.mem_adeleBdd AlgebraicCurve.weilSmul_one AlgebraicCurve.diagonalHom_apply AlgebraicCurve.weilSmul_apply AlgebraicCurve.adeleSpaceMul_coe AlgebraicCurve.mulAdele_one AlgebraicCurve.Place.differentialCoeff_zero AlgebraicCurve.Place.differentialCoeff_dCoord GoodReductionJacobian.RelativePic0Designation.mk.sizeOf_spec GoodReductionJacobian.AvatarSchemeBridge.mk.injEq MilneJVScheme.JacobianSchemeData.mk.injEq GoodReductionJacobian.AvatarSchemeBridge.mk.sizeOf_spec MilneJVScheme.JacobianSchemeData.mk.sizeOf_spec GoodReductionJacobian.RelativePic0Designation.mk.injEq GoodReductionJacobian.schemeHomOverComp_coe NeronModelInfra.schemeHomOverEquivOverHom_apply GoodReductionJacobian.RelativeGroupLaw.mk.sizeOf_spec NeronModelInfra.schemeHomOverEquivOverHom_symm_apply NeronModelInfra.overHomToSchemeHomOver_coe GoodReductionJacobian.RelativeGroupLaw.mk.injEq"
+p2m_attr_erase "simp" "NeronModelInfra.overHomToSchemeHomOver_schemeHomOverToOverHom NeronModelInfra.schemeHomOverToOverHom_left NeronModelInfra.schemeHomOverToOverHom_overHomToSchemeHomOver ModularCurve.coe_heckeBetaBarRingHom ModularCurve.coe_heckeBetaBar ModularCurve.coe_heckeAlphaBar NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_symm_restrict NeronModelInfra.schemeHomOverComp_id_left NeronModelInfra.schemeHomOverComp_id_right NeronModelInfra.schemeHomOverId_coe NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_apply NeronModelInfra.NeronModelPropertyBundle.restrict_endExtensionEquiv_symm NeronModelInfra.schemeHomOverComp_coe ModularCurve.qInftyPlaceBar_toValuationSubring ModularCurve.qSeriesBar_zero ModularCurve.qSeriesBar_add ModularCurve.cuspInftyFull_toValuationSubring ModularCurve.qInftyPlaceRat_toValuationSubring ModularCurve.qSeriesBar_mul ModularCurve.qSeriesBar_div ModularCurve.qSeriesBar_eq_zero_iff ModularCurve.coe_uniformizerBar ModularCurve.qSeriesBar_pow ModularCurve.cuspInfty_toValuationSubring ModularCurve.qSeriesBar_one ModularCurve.qSeriesBar_inv ModularCurve.qSeriesBar_sub ModularCurve.qSeriesBar_neg RegularLocalRingQuotientAscent.dualNumberFst_apply WeierstrassCurve.reducePoint_zero WeierstrassCurve.Affine.Point.galoisRep_apply ModularCurve.CharPReduction.coeffRed_coeff ModularCurve.CharPReduction.redLocHom_apply AlgebraicCurve.ConstantReduction.toRegularProlongation_residue AlgebraicCurve.RegularProlongation.mk.sizeOf_spec AlgebraicCurve.ConstantReduction.toRegularProlongation_integers AlgebraicCurve.RegularProlongation.mk.injEq AlgebraicCurve.ConstantReduction.mk.injEq AlgebraicCurve.ConstantReduction.mk.sizeOf_spec AlgebraicCurve.ConstantReduction.divMap_apply"
+p2m_attr_erase "simp" "AlgebraicCurve.ConstantReduction.coe_degZeroMap AlgebraicCurve.TranscendenceTower.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.injEq AlgebraicCurve.TranscendenceTower.mk.injEq AlgebraicCurve.PoleDivisorPackage.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.sizeOf_spec AlgebraicCurve.PoleDivisorPackage.mk.injEq ModularCurve.cuspCount_one ModularCurve.coe_uniformizerMod ModularCurve.qSeriesBar_jModElt ModularCurve.qInftyPlaceMod_toValuationSubring ModularCurve.coe_cuspidalDivisor₀ ModularCurve.eisensteinNumerator_nineteen ModularCurve.eisensteinNumerator_seventeen ModularCurve.eisensteinNumerator_eleven ModularCurve.eisensteinNumerator_five ModularCurve.eisensteinNumerator_seven ModularCurve.eisensteinNumerator_twentythree ModularCurve.eisensteinNumerator_thirteen ModularCurve.constantCoeff_dedekindEtaUnitQ AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.sizeOf_spec AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.injEq AlgebraicCurve.adeleSingle_coe AlgebraicCurve.kaehlerResidueTermKFam_apply AlgebraicCurve.Place.LocalResidueData.mk.injEq AlgebraicCurve.Place.LocalResidueData.mk.sizeOf_spec AlgebraicCurve.Place.kw_ffgc_adicCompletionComapIntegers_coe AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.sizeOf_spec AlgebraicCurve.Place.mem_simplePoleSubmodule AlgebraicCurve.Place.coe_uniformizerSubring ModularCurve.Lg37.Lg37CompletionSection.mk.injEq AlgebraicCurve.Place.CoefficientFieldSection.mk.injEq AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.injEq ModularCurve.Lg37.Lg37CompletionSection.mk.sizeOf_spec AlgebraicCurve.Place.CoefficientFieldSection.mk.sizeOf_spec AlgebraicCurve.Place.poleSubmodule_one AlgebraicCurve.Place.mem_poleSubmodule ModularCurve.coe_towerInclBar ModularCurve.coe_towerSubstBar HahnSeries.ramScale_apply"
+p2m_attr_erase "simp" "compl₂EDSAux_neg_two compl₂EDSAux_zero WeierstrassCurve.ωe_zero WeierstrassCurve.Univ.pointedCurve_a₁ WeierstrassCurve.Univ.polyToField_polynomial WeierstrassCurve.Coeff.A₁.sizeOf_spec compl₂EDS_zero compl₂EDS_one WeierstrassCurve.Univ.Affine.smulY_zero Param.C.sizeOf_spec EllSequence.redInvarDenom_zero compl₂EDSAux_two compl₂EDSAux_neg_one compl₂EDSAux_one WeierstrassCurve.Coeff.A₆.sizeOf_spec WeierstrassCurve.ψc_neg WeierstrassCurve.Univ.Affine.smulY_one WeierstrassCurve.Univ.Affine.smulX_one WeierstrassCurve.Coeff.A₂.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₄ compl₂EDS_neg WeierstrassCurve.Univ.pointedCurve_a₃ EllSequence.redInvarDenom_two WeierstrassCurve.Univ.pointedCurve_a₆ Param.D.sizeOf_spec WeierstrassCurve.ωe_one WeierstrassCurve.Univ.Affine.smulX_zero WeierstrassCurve.Coeff.A₃.sizeOf_spec EllSequence.redInvarDenom_one WeierstrassCurve.Coeff.A₄.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₂ Param.B.sizeOf_spec compl₂EDS_two WeierstrassCurve.veluWSum_empty WeierstrassCurve.veluQuotient_a₁ WeierstrassCurve.veluQuotient_a₃ WeierstrassCurve.veluQuotient_empty WeierstrassCurve.veluTSum_empty WeierstrassCurve.veluQuotient_a₂ WeierstrassCurve.Affine.Point.coordsOrZero_some"
+p2m_attr_erase "simp" "WeierstrassCurve.Affine.Point.coordsOrZero_zero WeierstrassCurve.veluQuotient2_a₂ WeierstrassCurve.veluQuotient2_a₃ WeierstrassCurve.veluQuotient2_a₁ WeierstrassCurve.veluPointMap2_zero WeierstrassCurve.Affine.IsogenyEndDatum.mk.injEq WeierstrassCurve.Affine.IsogenyHomDatum.mk.sizeOf_spec WeierstrassCurve.Affine.IsogenyHomDatum.mk.injEq WeierstrassCurve.Affine.IsogenyEndDatum.mk.sizeOf_spec AlgebraicCurve.Pic0.coe_pushforwardAlongDegZero WeierstrassCurve.Affine.pointMapOfPushforward_apply WeierstrassCurve.Affine.pointClass_zero WeierstrassCurve.Affine.pic0ToPoint_pointClass WeierstrassCurve.Affine.deg_placeOfPoint WeierstrassCurve.Affine.coe_pointDivisor WeierstrassCurve.Affine.pointEquivPlace_symm_placeOfPoint WeierstrassCurve.Affine.pointEquivPlace_apply WeierstrassCurve.Affine.genusOnePic0Equiv_symm_apply WeierstrassCurve.Affine.pointDivisor_zero WeierstrassCurve.Affine.pic0ToPoint_mk WeierstrassCurve.Affine.divisorSum_single WeierstrassCurve.Affine.genusOnePic0Equiv_apply PeriodPair.weierstrassCurve_a₆ PeriodPair.weierstrassCurve_a₃ PeriodPair.weierstrassCurve_a₁ PeriodPair.ofTau_ω₂ PeriodPair.scale_ω₂ PeriodPair.ofTau_ω₁ PeriodPair.toPoint_zero PeriodPair.toPoint_of_mem PeriodPair.weierstrassCurve_a₂ PeriodPair.ofTau_lattice PeriodPair.scale_ω₁ PeriodPair.weierstrassCurve_a₄ WeierstrassCurve.Affine.ratFuncToFunctionField_algebraMap WeierstrassCurve.Affine.pointHom_mk_C_C WeierstrassCurve.Affine.Point.yc_some WeierstrassCurve.Affine.Point.xc_some WeierstrassCurve.Affine.pointPull_algebraMap WeierstrassCurve.Affine.pointHom_mk_C_X"
+p2m_attr_erase "simp" "WeierstrassCurve.Affine.pointHom_mk_Y WeierstrassCurve.Affine.placeOf_asIdeal WeierstrassCurve.veluY_empty WeierstrassCurve.veluX_empty AddMonoid.End.DualEndData.symm_trace AddMonoid.End.dualEndData_intCast_norm AddMonoid.End.DualEndData.ofCharPoly_norm AddMonoid.End.DualEndData.mk.sizeOf_spec AddMonoid.End.DualEndData.mk.injEq AddMonoid.End.DualEndData.ofCharPoly_dual AddMonoid.End.dualEndData_intCast_dual AddMonoid.End.DualEndData.intLinComb_norm AddMonoid.End.DualEndData.ofCharPoly_trace AddMonoid.End.DualEndData.intLinComb_dual AddMonoid.End.DualEndData.symm_dual AddMonoid.End.DualEndData.intLinComb_trace AddMonoid.End.dualEndData_intCast_trace AddMonoid.End.DualEndData.symm_norm ModularCurve.ProjectiveLine.map_mk ModularCurve.tateLaurent_a₆ ModularCurve.tatePowerSeries_a₄ ModularCurve.tatePowerSeries_a₆ ModularCurve.tateLaurent_a₄ ModularCurve.tatePowerSeries_a₁ ModularCurve.tatePowerSeries_a₂ ModularCurve.tatePowerSeries_a₃ WeierstrassCurve.veluQuotientOfSums_a₂ WeierstrassCurve.veluQuotientOfSums_a₁ WeierstrassCurve.veluQuotientOfSums_a₃ ModularCurve.B3.cycOfCongr_apply_coe ModularCurve.B3.cycOfTorsionBy_symm_apply_coe ModularCurve.B3.redPoint_zero ModularCurve.B3.pointAddEquivOfEq_rfl ModularCurve.B3.vcAddEquiv_apply ModularCurve.B3.scaleAddEquiv_apply ModularCurve.B3.cycOfTorsionBy_apply_coe ModularCurve.B3.val_inv_sU ModularCurve.B3.val_sU ModularCurve.B3.resO_apply HahnSeries.coeff_hahnTwist"
+p2m_attr_erase "simp" "ModularCurve.HahnSpecialise.coe_specialiseCycSub CycSubOf.coe_map ModularCurve.HahnSpecialise.algebraMap_Qbar_apply ModularCurve.HahnSpecialise.resH_apply ModularCurve.HahnSpecialise.liftModel_map_subtype ModularCurve.HahnSpecialise.specialise_zero WeierstrassCurve.twoVeluCurve_a₁ WeierstrassCurve.twoVeluCurve_a₂ WeierstrassCurve.twoVeluCurve_a₃ WeierstrassCurve.xVeluCurve_a₃ WeierstrassCurve.xVeluCurve_a₂ WeierstrassCurve.xVeluCurve_a₁ WeierstrassCurve.map_veluU WeierstrassCurve.map_veluT WeierstrassCurve.map_veluW WeierstrassCurve.map_veluGy WeierstrassCurve.map_veluGx WeierstrassCurve.map_veluWSum_singleton WeierstrassCurve.map_veluTSum_singleton WeierstrassCurve.veluPointMap3_zero WeierstrassCurve.vcInvEmbedding_apply WeierstrassCurve.Affine.Point.netCol_one WeierstrassCurve.Affine.Point.xOrZero_zero WeierstrassCurve.Affine.Point.netPairing_zero_right WeierstrassCurve.Affine.Point.netW20_some WeierstrassCurve.Affine.Point.netCol_zero WeierstrassCurve.Affine.Point.netPairing_zero_left WeierstrassCurve.Affine.Point.xOrZero_some WeierstrassCurve.Affine.Point.netW20_zero TateCurve.cauchyMulInt_zero TateCurve.cauchyMulInt3_zero TateCurve.tent_one TateCurve.Gz_zero TateCurve.cauchyMulInt_one TateCurve.tent_zero TateCurve.Fz_zero TateCurve.xCoeffFull_succ TateCurve.a₆Coeff_zero TateCurve.a₄Coeff_succ TateCurve.a₄Coeff_zero"
+p2m_attr_erase "simp" "TateCurve.cauchyMul_zero TateCurve.a₆Coeff_succ TateCurve.yCoeffFull_succ TateCurve.xCoeffFull_zero TateCurve.yCoeffFull_zero TateCurve.yfun_zero TateCurve.xfun_zero TateCurve.yTerm_zero TateCurve.xTerm_zero TateCurve.curve_a₂ TateCurve.b_one TateCurve.curve_a₁ TateCurve.term_zero TateCurve.curve_a₆ TateCurve.curve_a₄ TateCurve.curve_a₃ FLT.DivisorConvolution.sigma_zero_right FLT.DivisorConvolution.sigma_one_right FLT.DivisorConvolution.sigmaConv_one FLT.DivisorConvolution.sigmaConv_zero FormalCoordinates.mk.injEq WeierstrassCurve.formalParam_zero WeierstrassCurve.SmoothLocusReductionData.reduceHom₀_apply WeierstrassCurve.formalParam_some FormalCoordinates.mk.sizeOf_spec WeierstrassCurve.SmoothLocusReductionData.mk.injEq WeierstrassCurve.reducePointSmooth_zero WeierstrassCurve.SmoothLocusReductionData.mk.sizeOf_spec WeierstrassCurve.mem_zeroComponentSubgroup_iff ModularCurve.PlaceSpecialization.mk.injEq ModularCurve.PlaceSpecialization.mk.sizeOf_spec"
+
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry ModularCurve IsLocalRing
+
+namespace V3Asm
+p2m_export "V3Asm" "SiteHyps R C Y toBase hq hRF p_mem_maximalIdeal ξ ξ_zero ξ_one vertex_eq gRes hgRes η"
+namespace Codim
+p2m_open "V3Asm"
+
+universe u
+
+theorem eq_of_specializes_of_ringKrullDim_le_one_of_flat {X : Scheme.{u}} {R : Type u} [CommRing R]
+    (f : X ⟶ Spec (CommRingCat.of R)) [Flat f] (r : R) (hr : r ∈ nonZeroDivisors R)
+    {a z : X} (h : a ⤳ z) (ha : a ∉ f ⁻¹ᵁ (PrimeSpectrum.basicOpen r : (Spec (CommRingCat.of R)).Opens))
+    (hdim : ringKrullDim (X.presheaf.stalk z) ≤ 1) : a = z := by
+  set s : Γ(X, ⊤) := f.appTop.hom ((Scheme.ΓSpecIso (CommRingCat.of R)).inv.hom r) with hs
+  have hbs : X.basicOpen s = f ⁻¹ᵁ (PrimeSpectrum.basicOpen r : (Spec (CommRingCat.of R)).Opens) := by
+    rw [hs, ← Scheme.preimage_basicOpen_top, basicOpen_eq_of_affine]
+  set g := (X.presheaf.germ ⊤ z trivial).hom s with hg
+
+  have hgP : g ∈ Scheme.branchIdeal h := by
+    rw [Scheme.mem_branchIdeal_iff, hg, ← CommRingCat.comp_apply, TopCat.Presheaf.germ_stalkSpecializes]
+    rw [IsLocalRing.mem_maximalIdeal, mem_nonunits_iff]
+    exact fun hu => ha (hbs ▸ (X.mem_basicOpen_top s a).mpr hu)
+
+  have hgnzd : g ∈ nonZeroDivisors (X.presheaf.stalk z) := by
+    obtain ⟨U, hU, hzU, -⟩ := (TopologicalSpace.Opens.isBasis_iff_nbhd.mp (Scheme.isBasis_affineOpens X))
+      (show z ∈ (⊤ : X.Opens) from trivial)
+    have hreg := AlgebraicGeometry.map_appTop_mem_nonZeroDivisors_of_flat f r hr U hU
+    letI := X.presheaf.algebra_section_stalk (⟨z, hzU⟩ : U)
+    haveI := hU.isLocalization_stalk ⟨z, hzU⟩
+    have h1 := IsLocalization.nonZeroDivisors_le_comap (hU.primeIdealOf ⟨z, hzU⟩).asIdeal.primeCompl
+      (X.presheaf.stalk z) hreg
+    rw [Submonoid.mem_comap] at h1
+    have h2 : (X.presheaf.germ U z hzU).hom ((X.presheaf.map (homOfLE (le_top : U ≤ ⊤)).op).hom s) ∈
+        nonZeroDivisors (X.presheaf.stalk z) := h1
+    have e1 : (X.presheaf.germ U z hzU).hom ((X.presheaf.map (homOfLE (le_top : U ≤ ⊤)).op).hom s) = g := by
+      rw [hg, ← CommRingCat.comp_apply, TopCat.Presheaf.germ_res]
+    rw [← e1]
+    exact h2
+
+  have hP : Scheme.branchIdeal h = maximalIdeal (X.presheaf.stalk z) := by
+    rcases (Order.krullDim_le_one_iff.mp hdim) ⟨Scheme.branchIdeal h, inferInstance⟩ with hmin | hmax
+    · exfalso
+      have hPmin : Scheme.branchIdeal h ∈ minimalPrimes (X.presheaf.stalk z) := by
+        refine ⟨⟨inferInstance, bot_le⟩, ?_⟩
+        rintro q ⟨hq, -⟩ hqP
+        exact hmin (b := ⟨q, hq⟩) hqP
+      exact Set.disjoint_left.mp (Ideal.disjoint_nonZeroDivisors_of_mem_minimalPrimes hPmin) hgP hgnzd
+    · have hle : (⟨Scheme.branchIdeal h, inferInstance⟩ : PrimeSpectrum (X.presheaf.stalk z)) ≤
+          ⟨maximalIdeal _, inferInstance⟩ := IsLocalRing.le_maximalIdeal (Ideal.IsPrime.ne_top inferInstance)
+      exact congrArg PrimeSpectrum.asIdeal (le_antisymm hle (hmax hle))
+  have hza : z ⤳ a := by
+    rw [← AlgebraicGeometry.Scheme.branchIdeal_le_branchIdeal_iff h (specializes_rfl : z ⤳ z), hP]
+    exact IsLocalRing.le_maximalIdeal (Ideal.IsPrime.ne_top inferInstance)
+  exact (h.antisymm hza).eq
+
+end V3Asm.Codim
+
+namespace V3Asm
+p2m_export "V3Asm" "SiteHyps R C Y toBase hq hRF p_mem_maximalIdeal ξ ξ_zero ξ_one vertex_eq gRes hgRes η"
+p2m_open "V3Asm"
+
+open V3Asm.Codim MvPolynomial MvPolynomial.CrossingQuotient
+
+variable (p : ℕ) [Fact p.Prime] (𝔛 : DRModelPackage p) (O : Type) [CommRing O] [IsDomain O]
+  [IsDiscreteValuationRing O] (hϖ : IsLocalRing.maximalIdeal O = Ideal.span {((p : ℕ) : O)})
+  (κ : Type) [Field κ] [CharP κ p] [IsAlgClosed κ] (toκ : O →+* κ) (H : V3Asm.SiteHyps p 𝔛 O κ toκ)
+
+omit [Fact p.Prime] in
+include hϖ in
+theorem p_ne_zero : ((p : ℕ) : O) ≠ 0 := fun h =>
+  IsDiscreteValuationRing.not_a_field O (by rw [hϖ, h, Ideal.span_singleton_eq_bot.mpr rfl])
+
+theorem toB_eq_g_toSpec (n : V3Glue.Site.Node p 𝔛 κ) :
+    (V3Asm.C p 𝔛 O κ toκ hϖ H).toB n =
+      (V3Asm.C p 𝔛 O κ toκ hϖ H).g n ≫ Resolution.toSpec ((p : ℕ) : O) ((V3Asm.C p 𝔛 O κ toκ hϖ H).thick n) := rfl
+
+local notation "ℭ" => V3Asm.C p 𝔛 O κ toκ hϖ H
+
+theorem hExcMax_of_model
+    (hModel : ∀ (e : ℕ) (he : 1 ≤ e) (o : Resolution ((p : ℕ) : O) e),
+      (Resolution.toCrossing ((p : ℕ) : O) e).base o =
+        Resolution.vertexPt ((p : ℕ) : O) e (IsLocalRing.maximalIdeal O) (V3Asm.p_mem_maximalIdeal p O hϖ) he →
+      (∀ o' : Resolution ((p : ℕ) : O) e, o' ⤳ o →
+        ((p : ℕ) : O) ∈ ((Resolution.toSpec ((p : ℕ) : O) e).base o').asIdeal → o' = o) →
+      ∃ k : Fin (e - 1), o = Resolution.lineUGen ((p : ℕ) : O) e (IsLocalRing.maximalIdeal O)
+        (V3Asm.p_mem_maximalIdeal p O hϖ) ⟨k, by omega⟩)
+    (hξ : ∀ j, V3Asm.ξ p 𝔛 O κ toκ j ∈ (V3Asm.C p 𝔛 O κ toκ hϖ H).X0) :
+    ∀ (n : V3Glue.Site.Node p 𝔛 κ) (yn : (V3Asm.C p 𝔛 O κ toκ hϖ H).Y n),
+      (((V3Asm.C p 𝔛 O κ toκ hϖ H).q n).base yn).1 = (V3Asm.C p 𝔛 O κ toκ hϖ H).x n →
+      ringKrullDim (((V3Asm.C p 𝔛 O κ toκ hϖ H).Y n).presheaf.stalk yn) ≤ 1 →
+      ∃ k, ((V3Asm.C p 𝔛 O κ toκ hϖ H).toGlueInput.ιY n).base yn =
+        (V3Asm.C p 𝔛 O κ toκ hϖ H).ηG (V3Asm.hRF p 𝔛 O κ toκ hϖ H) (V3Asm.gRes p 𝔛 O κ toκ hϖ H)
+          (V3Asm.hgRes p 𝔛 O κ toκ hϖ H) (V3Asm.ξ p 𝔛 O κ toκ) hξ (Sum.inr ⟨n, k⟩) := by
+  haveI := H.nodeFinite
+  intro n yn hyn h1
+  haveI : Flat (((ℭ).toB n : (ℭ).Y n ⟶ Spec (CommRingCat.of O))) := V3Glue.ChartInput.flat_toB (ℭ) n
+
+  have hq : (ℭ).q n yn = (ℭ).xU n := Subtype.ext hyn
+  have ho : (ℭ).ρ n ((ℭ).g n yn) = (ℭ).vertex n := by
+    rw [← Scheme.Hom.comp_apply, ← V3Glue.ChartInput.q_f (ℭ) n, Scheme.Hom.comp_apply, hq]
+    rfl
+
+  have hmaxY : ∀ y' : (ℭ).Y n, y' ⤳ yn →
+      y' ∉ ((ℭ).toB n) ⁻¹ᵁ (PrimeSpectrum.basicOpen ((p : ℕ) : O) : (Spec (CommRingCat.of O)).Opens) → y' = yn :=
+    fun y' hy' hV => @eq_of_specializes_of_ringKrullDim_le_one_of_flat _ O _ ((ℭ).toB n)
+      (V3Glue.ChartInput.flat_toB (ℭ) n) ((p : ℕ) : O)
+      (mem_nonZeroDivisors_of_ne_zero (p_ne_zero p O hϖ)) _ _ hy' hV h1
+
+  have hmaxR : ∀ o' : (ℭ).Res n, o' ⤳ (ℭ).g n yn →
+      ((p : ℕ) : O) ∈ ((Resolution.toSpec ((p : ℕ) : O) ((ℭ).thick n)).base o').asIdeal → o' = (ℭ).g n yn := by
+    intro o' ho' hp'
+    obtain ⟨y', hy', rfl⟩ := Flat.generalizingMap ((ℭ).g n) ho'
+    congr 1
+    refine hmaxY y' hy' ?_
+    intro hD
+    have hD' : ((p : ℕ) : O) ∉ (((ℭ).toB n).base y').asIdeal := hD
+    exact hD' hp'
+
+  have hov : (Resolution.toCrossing ((p : ℕ) : O) ((ℭ).thick n)).base ((ℭ).g n yn) =
+      Resolution.vertexPt ((p : ℕ) : O) ((ℭ).thick n) (IsLocalRing.maximalIdeal O) (V3Asm.p_mem_maximalIdeal p O hϖ)
+        ((ℭ).one_le_thick n) := by
+    rw [← V3Asm.vertex_eq p 𝔛 O κ toκ hϖ H n]
+    exact ho
+  obtain ⟨k, hk⟩ := hModel ((ℭ).thick n) ((ℭ).one_le_thick n) ((ℭ).g n yn) hov hmaxR
+  refine ⟨k, ?_⟩
+  rw [V3Glue.ChartInput.ηG_inr, V3Glue.ChartInput.exPt_def]
+  congr 1
+  exact (ℭ).eq_liftY_of_g_eq n (V3Asm.hRF p 𝔛 O κ toκ hϖ H n) (V3Asm.gRes p 𝔛 O κ toκ hϖ H n k)
+    (V3Asm.hgRes p 𝔛 O κ toκ hϖ H n k) yn hk
+
+theorem codim_of_model
+    (hModel : ∀ (e : ℕ) (he : 1 ≤ e) (o : Resolution ((p : ℕ) : O) e),
+      (Resolution.toCrossing ((p : ℕ) : O) e).base o =
+        Resolution.vertexPt ((p : ℕ) : O) e (IsLocalRing.maximalIdeal O) (V3Asm.p_mem_maximalIdeal p O hϖ) he →
+      (∀ o' : Resolution ((p : ℕ) : O) e, o' ⤳ o →
+        ((p : ℕ) : O) ∈ ((Resolution.toSpec ((p : ℕ) : O) e).base o').asIdeal → o' = o) →
+      ∃ k : Fin (e - 1), o = Resolution.lineUGen ((p : ℕ) : O) e (IsLocalRing.maximalIdeal O)
+        (V3Asm.p_mem_maximalIdeal p O hϖ) ⟨k, by omega⟩)
+    (hξ : ∀ j, V3Asm.ξ p 𝔛 O κ toκ j ∈ (V3Asm.C p 𝔛 O κ toκ hϖ H).X0) :
+    ∀ y : (V3Asm.Y p 𝔛 O κ toκ hϖ H), y ∉ (V3Asm.toBase p 𝔛 O κ toκ hϖ H) ⁻¹ᵁ
+      (PrimeSpectrum.basicOpen ((p : ℕ) : O) : (Spec (CommRingCat.of O)).Opens) →
+      ringKrullDim ((V3Asm.Y p 𝔛 O κ toκ hϖ H).presheaf.stalk y) ≤ 1 → ∃ v, y = V3Asm.η p 𝔛 O κ toκ hϖ H hξ v := by
+  intro y hy h1
+  refine V3Glue.ChartInput.exists_eq_etaG_of_ringKrullDim_le_one (V3Asm.C p 𝔛 O κ toκ hϖ H)
+    (V3Asm.hRF p 𝔛 O κ toκ hϖ H) (V3Asm.gRes p 𝔛 O κ toκ hϖ H) (V3Asm.hgRes p 𝔛 O κ toκ hϖ H)
+    (V3Asm.ξ p 𝔛 O κ toκ) hξ (V3Asm.hq p 𝔛 O κ toκ hϖ H)
+    (PrimeSpectrum.basicOpen ((p : ℕ) : O) : (Spec (CommRingCat.of O)).Opens) ?_
+    (hExcMax_of_model p 𝔛 O hϖ κ toκ H hModel hξ) y hy h1
+  intro z _ hzV hz1
+  rcases ModularCurve.DRModelPackage.eq_or_eq_baseChangeMap_genericPoint_of_ringKrullDim_stalk_le_one
+      p 𝔛 O hϖ κ toκ z hzV hz1 with h | h
+  · exact Or.inl (h.trans (V3Asm.ξ_zero p 𝔛 O κ toκ).symm)
+  · exact Or.inr (h.trans (V3Asm.ξ_one p 𝔛 O κ toκ).symm)
+
+end V3Asm
+
+theorem solution (p : ℕ) [Fact p.Prime] (𝔛 : ModularCurve.DRModelPackage p)
+    (O : Type) [CommRing O] [IsDomain O] [IsDiscreteValuationRing O]
+    (hϖ : IsLocalRing.maximalIdeal O = Ideal.span {((p : ℕ) : O)})
+    (κ : Type) [Field κ] [CharP κ p] [IsAlgClosed κ] (toκ : O →+* κ)
+    (H : V3Asm.SiteHyps p 𝔛 O κ toκ) (hξ : ∀ j, V3Asm.ξ p 𝔛 O κ toκ j ∈ (V3Asm.C p 𝔛 O κ toκ hϖ H).X0) :
+    ∀ y : (V3Asm.Y p 𝔛 O κ toκ hϖ H), y ∉ (V3Asm.toBase p 𝔛 O κ toκ hϖ H) ⁻¹ᵁ (PrimeSpectrum.basicOpen ((p : ℕ) : O) : (Spec (CommRingCat.of O)).Opens) → ringKrullDim ((V3Asm.Y p 𝔛 O κ toκ hϖ H).presheaf.stalk y) ≤ 1 → ∃ v, y = V3Asm.η p 𝔛 O κ toκ hϖ H hξ v :=
+  V3Asm.codim_of_model p 𝔛 O hϖ κ toκ H
+    (fun e he o ho hmax => MvPolynomial.CrossingQuotient.Resolution.exists_eq_lineUGen_of_toCrossing_eq_vertexPt_of_forall_specializes
+      ((p : ℕ) : O) e (IsLocalRing.maximalIdeal O) (V3Asm.p_mem_maximalIdeal p O hϖ) he o ho hmax) hξ
+
+end S_V3Asm_codim
+end P2MW
+export P2MW.S_V3Asm_codim (solution)

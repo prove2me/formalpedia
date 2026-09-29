@@ -1,0 +1,450 @@
+-- Prove2me | solution 1 for ModularCurve.exists_complexPlaceDictionary
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:11.261198+00:00
+-- url     : https://prove2.me/submissions/a820f488-a6a2-58f5-b798-09e487539685
+
+import Mathlib
+import Definitions.Def_ModularCurve_ComplexPlaceDictionary
+import Theorems.Thm_ModularCurve_exists_modularForm_mul_qExpansion_eq_of_mem_laurentBaseChange
+import Theorems.Thm_ModularCurve_realize_eq_div
+import Theorems.Thm_AlgebraicCurve_Place_exists_of_orderMap
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_ModularCurve_exists_complexPlaceDictionary
+p2m_attr_erase "simp" "ModularCurve.jqNModC_one ModularForm.val_heckeDiagMatrix ModularForm.heckeU_zero ModularForm.heckeU_zero_left ModularForm.heckeT_zero ModularForm.val_heckeMatrix ModularForm.heckeMatrix_zero ModularForm.heckeT_zero_left ModularForm.heckeDiagMatrix_zero ModularForm.val_upperTriangularGL"
+
+set_option autoImplicit false
+
+noncomputable section
+
+open UpperHalfPlane Filter
+open scoped MatrixGroups Topology Manifold
+
+namespace ModularCurve
+p2m_export "ModularCurve" "realize ComplexPlaceDictionary jq coeff_jq_neg_one jq_mem modularFunctionFieldFull modularFunctionField_le_full coeffEmb coeffEmb_coeff laurentBaseChange coeffEmb_mem_laurentBaseChange exists_modularForm_mul_qExpansion_eq_of_mem_laurentBaseChange realize_eq_div"
+namespace ComplexPlaceDictionaryExistence
+p2m_open "ModularCurve"
+
+variable {N : ℕ}
+
+abbrev qL {k : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) k) : LaurentSeries ℂ :=
+  ((qExpansion 1 (f : ℍ → ℂ) : PowerSeries ℂ) : LaurentSeries ℂ)
+
+structure Pres (N : ℕ) (x : LaurentSeries ℂ) where
+  k : ℤ
+  g : ModularForm (CongruenceSubgroup.Gamma0 N) k
+  h : ModularForm (CongruenceSubgroup.Gamma0 N) k
+  h_ne : h ≠ 0
+  eq : x * qL h = qL g
+
+theorem one_mem_strictPeriods (N : ℕ) :
+    (1 : ℝ) ∈ (CongruenceSubgroup.Gamma0 N : Subgroup (GL (Fin 2) ℝ)).strictPeriods := by
+  simp
+
+theorem map_coe_nhdsNE (τ : ℍ) :
+    Filter.map ((↑) : ℍ → ℂ) (𝓝[≠] τ) = 𝓝[≠] (τ : ℂ) := by
+  have h := isOpenEmbedding_coe.map_nhdsWithin_preimage_eq ({(τ : ℂ)}ᶜ) τ
+  have hpre : ((↑) : ℍ → ℂ) ⁻¹' ({(τ : ℂ)}ᶜ : Set ℂ) = ({τ}ᶜ : Set ℍ) := by
+    ext w
+    simp
+  rwa [hpre] at h
+
+theorem eventually_nhdsNE_coe_iff {p : ℍ → Prop} {τ : ℍ} :
+    (∀ᶠ z in 𝓝[≠] (τ : ℂ), p (ofComplex z)) ↔ ∀ᶠ w in 𝓝[≠] τ, p w := by
+  rw [← map_coe_nhdsNE, Filter.eventually_map]
+  simp only [ofComplex_apply]
+
+scoped instance nhdsNE_neBot (τ : ℍ) : (𝓝[≠] τ).NeBot := by
+  have h : (Filter.map ((↑) : ℍ → ℂ) (𝓝[≠] τ)).NeBot := by
+    rw [map_coe_nhdsNE]; infer_instance
+  exact Filter.NeBot.of_map h
+
+theorem isBoundedUnder_nhdsNE_coe_iff {u : ℍ → ℝ} {τ : ℍ} :
+    IsBoundedUnder (· ≤ ·) (𝓝[≠] (τ : ℂ)) (fun z : ℂ => u (ofComplex z)) ↔
+      IsBoundedUnder (· ≤ ·) (𝓝[≠] τ) u := by
+  rw [← map_coe_nhdsNE, Filter.isBoundedUnder_map_iff]
+  simp only [Function.comp_def, ofComplex_apply]
+
+theorem analyticAt_comp_ofComplex {k : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) k)
+    (τ : ℍ) : AnalyticAt ℂ (fun z : ℂ => (f : ℍ → ℂ) (ofComplex z)) (τ : ℂ) := by
+  have hf : DifferentiableOn ℂ ((f : ℍ → ℂ) ∘ ofComplex) {z : ℂ | 0 < z.im} :=
+    UpperHalfPlane.mdifferentiable_iff.mp (ModularFormClass.holo f)
+  exact hf.analyticAt (isOpen_upperHalfPlaneSet.mem_nhds τ.im_pos)
+
+theorem coe_eq_zero_iff {k : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) k) :
+    (f : ℍ → ℂ) = 0 ↔ f = 0 := by
+  constructor
+  · intro h
+    exact DFunLike.coe_injective (h.trans (ModularForm.coe_zero).symm)
+  · rintro rfl; rfl
+
+theorem eventually_ne_zero {k : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) k)
+    (hf : f ≠ 0) (τ : ℍ) : ∀ᶠ w in 𝓝[≠] τ, (f : ℍ → ℂ) w ≠ 0 := by
+  by_contra hcon
+  have hfr : ∃ᶠ w in 𝓝[≠] τ, (f : ℍ → ℂ) w = 0 := by
+    simpa [Filter.not_eventually] using hcon
+  exact hf ((coe_eq_zero_iff f).mp (eq_zero_of_frequently (ModularFormClass.holo f) hfr))
+
+theorem eventually_ne_zero_ofComplex {k : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) k)
+    (hf : f ≠ 0) (τ : ℍ) : ∀ᶠ z in 𝓝[≠] (τ : ℂ), (f : ℍ → ℂ) (ofComplex z) ≠ 0 :=
+  eventually_nhdsNE_coe_iff.mpr (eventually_ne_zero f hf τ)
+
+theorem meromorphicOrderAt_comp_ofComplex_ne_top {k : ℤ}
+    (f : ModularForm (CongruenceSubgroup.Gamma0 N) k) (hf : f ≠ 0) (τ : ℍ) :
+    meromorphicOrderAt (fun z : ℂ => (f : ℍ → ℂ) (ofComplex z)) (τ : ℂ) ≠ ⊤ :=
+  (meromorphicOrderAt_ne_top_iff_eventually_ne_zero
+    (analyticAt_comp_ofComplex f τ).meromorphicAt).mpr (eventually_ne_zero_ofComplex f hf τ)
+
+theorem qL_ne_zero {k : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) k) (hf : f ≠ 0) :
+    qL f ≠ 0 := by
+  intro h
+  apply hf
+  rw [← ModularForm.qExpansion_eq_zero_iff one_pos (one_mem_strictPeriods N)]
+  apply (HahnSeries.ofPowerSeries_injective (Γ := ℤ) (R := ℂ))
+  simpa [qL] using h
+
+theorem realize_eventuallyEq {x : LaurentSeries ℂ} (P : Pres N x) (τ : ℍ) :
+    (fun z : ℂ => realize N x (ofComplex z)) =ᶠ[𝓝[≠] (τ : ℂ)]
+      fun z : ℂ => (P.g : ℍ → ℂ) (ofComplex z) / (P.h : ℍ → ℂ) (ofComplex z) := by
+  filter_upwards [eventually_ne_zero_ofComplex P.h P.h_ne τ] with z hz
+  exact ModularCurve.realize_eq_div N P.g P.h x P.eq (ofComplex z) hz
+
+theorem meromorphicAt_div (x : LaurentSeries ℂ) (P : Pres N x) (τ : ℍ) :
+    MeromorphicAt (fun z : ℂ => (P.g : ℍ → ℂ) (ofComplex z) / (P.h : ℍ → ℂ) (ofComplex z))
+      (τ : ℂ) :=
+  (analyticAt_comp_ofComplex P.g τ).meromorphicAt.div (analyticAt_comp_ofComplex P.h τ).meromorphicAt
+
+theorem meromorphicAt_realize {x : LaurentSeries ℂ} (P : Pres N x) (τ : ℍ) :
+    MeromorphicAt (fun z : ℂ => realize N x (ofComplex z)) (τ : ℂ) :=
+  (meromorphicAt_div x P τ).congr (realize_eventuallyEq P τ).symm
+
+theorem meromorphicOrderAt_realize_eq {x : LaurentSeries ℂ} (P : Pres N x) (τ : ℍ) :
+    ∃ m : ℤ, 0 ≤ m ∧
+      meromorphicOrderAt (fun z : ℂ => (P.h : ℍ → ℂ) (ofComplex z)) (τ : ℂ) = m ∧
+      meromorphicOrderAt (fun z : ℂ => realize N x (ofComplex z)) (τ : ℂ) =
+        meromorphicOrderAt (fun z : ℂ => (P.g : ℍ → ℂ) (ofComplex z)) (τ : ℂ) + ((-m : ℤ) : WithTop ℤ) := by
+  have hh := meromorphicOrderAt_comp_ofComplex_ne_top P.h P.h_ne τ
+  obtain ⟨m, hm⟩ := WithTop.ne_top_iff_exists.mp hh
+  have hm0 : 0 ≤ m := by
+    have := (analyticAt_comp_ofComplex P.h τ).meromorphicOrderAt_nonneg
+    rw [← hm] at this
+    exact_mod_cast this
+  refine ⟨m, hm0, hm.symm, ?_⟩
+  rw [meromorphicOrderAt_congr (realize_eventuallyEq P τ)]
+  have hdiv : (fun z : ℂ => (P.g : ℍ → ℂ) (ofComplex z) / (P.h : ℍ → ℂ) (ofComplex z)) =
+      (fun z : ℂ => (P.g : ℍ → ℂ) (ofComplex z)) * (fun z : ℂ => (P.h : ℍ → ℂ) (ofComplex z))⁻¹ := by
+    ext z; simp [div_eq_mul_inv]
+  rw [hdiv, meromorphicOrderAt_mul (analyticAt_comp_ofComplex P.g τ).meromorphicAt
+    (analyticAt_comp_ofComplex P.h τ).meromorphicAt.inv, meromorphicOrderAt_inv, ← hm]
+  rfl
+
+theorem qL_mul {a b : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) a)
+    (g : ModularForm (CongruenceSubgroup.Gamma0 N) b) : qL (f.mul g) = qL f * qL g := by
+  simp only [qL, ModularForm.coe_mul,
+    ModularForm.qExpansion_mul_coe one_pos (one_mem_strictPeriods N), PowerSeries.coe_mul]
+
+theorem qL_add {a : ℤ} (f g : ModularForm (CongruenceSubgroup.Gamma0 N) a) :
+    qL (f + g) = qL f + qL g := by
+  simp only [qL, ModularForm.coe_add,
+    ModularForm.qExpansion_add one_pos (one_mem_strictPeriods N), PowerSeries.coe_add]
+
+theorem qL_one : qL (1 : ModularForm (CongruenceSubgroup.Gamma0 N) 0) = 1 := by
+  simp only [qL, ModularForm.qExpansion_one, PowerSeries.coe_one]
+
+theorem qL_const (c : ℂ) :
+    qL (c • (1 : ModularForm (CongruenceSubgroup.Gamma0 N) 0)) = algebraMap ℂ (LaurentSeries ℂ) c := by
+  rw [qL, ModularForm.IsGLPos.coe_smul,
+    ModularForm.qExpansion_smul one_pos (one_mem_strictPeriods N), ModularForm.qExpansion_one,
+    Algebra.smul_def, mul_one, HahnSeries.algebraMap_apply']
+
+theorem mul_ne_zero_of_ne_zero {a b : ℤ} (f : ModularForm (CongruenceSubgroup.Gamma0 N) a)
+    (g : ModularForm (CongruenceSubgroup.Gamma0 N) b) (hf : f ≠ 0) (hg : g ≠ 0) :
+    f.mul g ≠ 0 := by
+  intro hfg
+  obtain ⟨w, hw⟩ := ((eventually_ne_zero f hf UpperHalfPlane.I).and
+    (eventually_ne_zero g hg UpperHalfPlane.I)).exists
+  have := congrArg (fun F : ModularForm (CongruenceSubgroup.Gamma0 N) (a + b) => (F : ℍ → ℂ) w) hfg
+  simp only [ModularForm.coe_mul, Pi.mul_apply, ModularForm.coe_zero, Pi.zero_apply,
+    mul_eq_zero] at this
+  exact this.elim hw.1 hw.2
+
+theorem one_ne_zero' : (1 : ModularForm (CongruenceSubgroup.Gamma0 N) 0) ≠ 0 := by
+  intro h
+  have := congrArg (fun F : ModularForm (CongruenceSubgroup.Gamma0 N) 0 => (F : ℍ → ℂ) UpperHalfPlane.I) h
+  simp [ModularForm.one_coe_eq_one] at this
+
+abbrev Pres.mul {x y : LaurentSeries ℂ} (P : Pres N x) (Q : Pres N y) : Pres N (x * y) where
+  k := P.k + Q.k
+  g := P.g.mul Q.g
+  h := P.h.mul Q.h
+  h_ne := mul_ne_zero_of_ne_zero P.h Q.h P.h_ne Q.h_ne
+  eq := by
+    rw [qL_mul, qL_mul, ← P.eq, ← Q.eq]; ring
+
+abbrev Pres.add {x y : LaurentSeries ℂ} (P : Pres N x) (Q : Pres N y) : Pres N (x + y) where
+  k := P.k + Q.k
+  g := P.g.mul Q.h + P.h.mul Q.g
+  h := P.h.mul Q.h
+  h_ne := mul_ne_zero_of_ne_zero P.h Q.h P.h_ne Q.h_ne
+  eq := by
+    rw [qL_add, qL_mul, qL_mul, qL_mul, ← P.eq, ← Q.eq]; ring
+
+theorem algebraMap_laurentSeries_eq_C (c : ℂ) :
+    algebraMap ℂ (LaurentSeries ℂ) c = HahnSeries.C c := by
+  rw [HahnSeries.algebraMap_apply', PowerSeries.algebraMap_eq, HahnSeries.ofPowerSeries_C]
+
+abbrev Pres.const (N : ℕ) (c : ℂ) : Pres N (algebraMap ℂ (LaurentSeries ℂ) c) where
+  k := 0
+  g := c • (1 : ModularForm (CongruenceSubgroup.Gamma0 N) 0)
+  h := 1
+  h_ne := one_ne_zero'
+  eq := by
+    rw [qL_one, mul_one, qL_const]
+
+theorem realize_mul_eventuallyEq {x y : LaurentSeries ℂ} (P : Pres N x) (Q : Pres N y) (τ : ℍ) :
+    (fun z : ℂ => realize N (x * y) (ofComplex z)) =ᶠ[𝓝[≠] (τ : ℂ)]
+      (fun z : ℂ => realize N x (ofComplex z)) * fun z : ℂ => realize N y (ofComplex z) := by
+  filter_upwards [realize_eventuallyEq (P.mul Q) τ, realize_eventuallyEq P τ,
+    realize_eventuallyEq Q τ] with z h1 h2 h3
+  rw [Pi.mul_apply, h2, h3, h1]
+  rw [ModularForm.coe_mul, ModularForm.coe_mul, Pi.mul_apply, Pi.mul_apply, mul_div_mul_comm]
+
+theorem realize_add_eventuallyEq {x y : LaurentSeries ℂ} (P : Pres N x) (Q : Pres N y) (τ : ℍ) :
+    (fun z : ℂ => realize N (x + y) (ofComplex z)) =ᶠ[𝓝[≠] (τ : ℂ)]
+      (fun z : ℂ => realize N x (ofComplex z)) + fun z : ℂ => realize N y (ofComplex z) := by
+  filter_upwards [realize_eventuallyEq (P.add Q) τ, realize_eventuallyEq P τ,
+    realize_eventuallyEq Q τ, eventually_ne_zero_ofComplex P.h P.h_ne τ,
+    eventually_ne_zero_ofComplex Q.h Q.h_ne τ] with z h1 h2 h3 hP hQ
+  rw [Pi.add_apply, h2, h3, h1]
+  rw [ModularForm.coe_add, Pi.add_apply, ModularForm.coe_mul, ModularForm.coe_mul,
+    ModularForm.coe_mul, Pi.mul_apply, Pi.mul_apply, Pi.mul_apply, div_add_div _ _ hP hQ,
+    mul_comm ((P.h : ℍ → ℂ) (ofComplex z)) ((Q.g : ℍ → ℂ) (ofComplex z))]
+
+theorem realize_const_eventuallyEq (c : ℂ) (τ : ℍ) :
+    (fun z : ℂ => realize N (algebraMap ℂ (LaurentSeries ℂ) c) (ofComplex z)) =ᶠ[𝓝[≠] (τ : ℂ)]
+      fun _ => c := by
+  filter_upwards [realize_eventuallyEq (Pres.const N c) τ] with z h1
+  rw [h1, ModularForm.IsGLPos.coe_smul, ModularForm.one_coe_eq_one]
+  simp
+
+theorem realize_smul_eventuallyEq {x : LaurentSeries ℂ} (P : Pres N x)
+    (γ : CongruenceSubgroup.Gamma0 N) (τ : ℍ) :
+    (fun z : ℂ => realize N x ((((γ : SL(2, ℤ)) : GL (Fin 2) ℝ)) • ofComplex z)) =ᶠ[𝓝[≠] (τ : ℂ)]
+      fun z : ℂ => realize N x (ofComplex z) := by
+  filter_upwards [eventually_ne_zero_ofComplex P.h P.h_ne τ] with z hz
+  have hsm : (((γ : SL(2, ℤ)) : GL (Fin 2) ℝ)) • ofComplex z = (γ : SL(2, ℤ)) • ofComplex z := by
+    simp
+  have hh : (P.h : ℍ → ℂ) ((γ : SL(2, ℤ)) • ofComplex z) =
+      denom (γ : SL(2, ℤ)) (ofComplex z) ^ P.k * (P.h : ℍ → ℂ) (ofComplex z) :=
+    SlashInvariantForm.slash_action_eqn_SL'' P.h γ.2 _
+  have hg : (P.g : ℍ → ℂ) ((γ : SL(2, ℤ)) • ofComplex z) =
+      denom (γ : SL(2, ℤ)) (ofComplex z) ^ P.k * (P.g : ℍ → ℂ) (ofComplex z) :=
+    SlashInvariantForm.slash_action_eqn_SL'' P.g γ.2 _
+  have hd : (denom (γ : SL(2, ℤ)) (ofComplex z) : ℂ) ^ P.k ≠ 0 :=
+    zpow_ne_zero _ (denom_ne_zero _ _)
+  have hne : (P.h : ℍ → ℂ) ((γ : SL(2, ℤ)) • ofComplex z) ≠ 0 := by
+    rw [hh]; exact mul_ne_zero hd hz
+  rw [hsm, ModularCurve.realize_eq_div N P.g P.h x P.eq _ hne,
+    ModularCurve.realize_eq_div N P.g P.h x P.eq _ hz, hg, hh, mul_div_mul_left _ _ hd]
+
+section OrderFunction
+
+variable [NeZero N]
+
+abbrev CF (N : ℕ) [NeZero N] : Type :=
+  ↥(laurentBaseChange ℂ (modularFunctionFieldFull N))
+
+def pres (x : CF N) : Pres N (x : LaurentSeries ℂ) :=
+  let E := ModularCurve.exists_modularForm_mul_qExpansion_eq_of_mem_laurentBaseChange N
+    (x : LaurentSeries ℂ) x.2
+  ⟨E.choose, E.choose_spec.choose, E.choose_spec.choose_spec.choose,
+    E.choose_spec.choose_spec.choose_spec.1, E.choose_spec.choose_spec.choose_spec.2⟩
+
+def mu (τ : ℍ) (x : CF N) : WithTop ℤ :=
+  meromorphicOrderAt (fun z : ℂ => realize N (x : LaurentSeries ℂ) (ofComplex z)) (τ : ℂ)
+
+theorem meromorphicAt_realize' (x : CF N) (τ : ℍ) :
+    MeromorphicAt (fun z : ℂ => realize N (x : LaurentSeries ℂ) (ofComplex z)) (τ : ℂ) :=
+  meromorphicAt_realize (pres x) τ
+
+theorem mu_mul (τ : ℍ) (x y : CF N) : mu τ (x * y) = mu τ x + mu τ y := by
+  show meromorphicOrderAt
+      (fun z : ℂ => realize N ((x : LaurentSeries ℂ) * (y : LaurentSeries ℂ)) (ofComplex z)) (τ : ℂ) = _
+  rw [meromorphicOrderAt_congr (realize_mul_eventuallyEq (pres x) (pres y) τ),
+    meromorphicOrderAt_mul (meromorphicAt_realize' x τ) (meromorphicAt_realize' y τ)]
+  rfl
+
+theorem mu_add (τ : ℍ) (x y : CF N) : min (mu τ x) (mu τ y) ≤ mu τ (x + y) := by
+  show _ ≤ meromorphicOrderAt
+      (fun z : ℂ => realize N ((x : LaurentSeries ℂ) + (y : LaurentSeries ℂ)) (ofComplex z)) (τ : ℂ)
+  rw [meromorphicOrderAt_congr (realize_add_eventuallyEq (pres x) (pres y) τ)]
+  exact meromorphicOrderAt_add (meromorphicAt_realize' x τ) (meromorphicAt_realize' y τ)
+
+theorem mu_algebraMap (τ : ℍ) (c : ℂ) (hc : c ≠ 0) : mu τ (algebraMap ℂ (CF N) c) = 0 := by
+  classical
+  show meromorphicOrderAt
+      (fun z : ℂ => realize N (algebraMap ℂ (LaurentSeries ℂ) c) (ofComplex z)) (τ : ℂ) = 0
+  rw [meromorphicOrderAt_congr (realize_const_eventuallyEq c τ), meromorphicOrderAt_const,
+    if_neg hc]
+
+theorem mu_eq_top_iff (τ : ℍ) (x : CF N) : mu τ x = ⊤ ↔ x = 0 := by
+  obtain ⟨m, hm0, hmh, hmu⟩ := meromorphicOrderAt_realize_eq (pres x) τ
+  constructor
+  · intro hx
+    unfold mu at hx
+    rw [hx] at hmu
+    have hg : meromorphicOrderAt (fun z : ℂ => ((pres x).g : ℍ → ℂ) (ofComplex z)) (τ : ℂ) = ⊤ := by
+      rcases WithTop.add_eq_top.mp hmu.symm with h | h
+      · exact h
+      · exact absurd h WithTop.coe_ne_top
+    have hg0 : (pres x).g = 0 := by
+      by_contra hne
+      exact meromorphicOrderAt_comp_ofComplex_ne_top _ hne τ hg
+    have heq := (pres x).eq
+    rw [hg0, show qL (0 : ModularForm (CongruenceSubgroup.Gamma0 N) (pres x).k) = 0 by
+      simp [qL, UpperHalfPlane.qExpansion_zero]] at heq
+    have hx0 : (x : LaurentSeries ℂ) = 0 :=
+      (mul_eq_zero.mp heq).resolve_right (qL_ne_zero _ (pres x).h_ne)
+    exact_mod_cast hx0
+  · rintro rfl
+    have heq : (0 : LaurentSeries ℂ) * qL (pres (0 : CF N)).h = qL (pres (0 : CF N)).g :=
+      (pres (0 : CF N)).eq
+    rw [zero_mul] at heq
+    have hg0 : (pres (0 : CF N)).g = 0 := by
+      by_contra hne
+      exact qL_ne_zero _ hne heq.symm
+    unfold mu
+    rw [hmu, hg0]
+    have h0 : meromorphicOrderAt (fun z : ℂ =>
+        ((0 : ModularForm (CongruenceSubgroup.Gamma0 N) (pres (0 : CF N)).k) : ℍ → ℂ)
+          (ofComplex z)) (τ : ℂ) = ⊤ :=
+      meromorphicOrderAt_eq_top_iff.mpr (Filter.Eventually.of_forall fun _ => by simp)
+    rw [h0, top_add]
+
+theorem mu_ne_top (τ : ℍ) {x : CF N} (hx : x ≠ 0) : mu τ x ≠ ⊤ :=
+  fun h => hx ((mu_eq_top_iff τ x).mp h)
+
+theorem mu_one (τ : ℍ) : mu τ (1 : CF N) = 0 := by
+  rw [← map_one (algebraMap ℂ (CF N))]
+  exact mu_algebraMap τ 1 one_ne_zero
+
+def X (N : ℕ) [NeZero N] : CF N :=
+  ⟨coeffEmb ℂ jq, coeffEmb_mem_laurentBaseChange ℂ (modularFunctionField_le_full N (jq_mem N))⟩
+
+theorem X_ne_algebraMap (c : ℂ) : X N ≠ algebraMap ℂ (CF N) c := by
+  intro h
+  have h1 := congrArg (fun y : CF N => (y : LaurentSeries ℂ).coeff (-1)) h
+  simp only [X] at h1
+  rw [coeffEmb_coeff, coeff_jq_neg_one, map_one] at h1
+  have h2 : ((algebraMap ℂ (CF N) c : CF N) : LaurentSeries ℂ) = algebraMap ℂ (LaurentSeries ℂ) c :=
+    rfl
+  rw [h2, algebraMap_laurentSeries_eq_C, HahnSeries.C_apply, HahnSeries.coeff_single_of_ne
+    (by norm_num)] at h1
+  exact one_ne_zero h1
+
+theorem X_ne_zero : X N ≠ 0 := by
+  simpa using X_ne_algebraMap (N := N) 0
+
+theorem exists_mu_pos (τ : ℍ) : ∃ x : CF N, 0 < mu τ x ∧ mu τ x ≠ ⊤ := by
+  have hXt := mu_ne_top τ (X_ne_zero (N := N))
+  by_cases hneg : mu τ (X N) < 0
+  ·
+    refine ⟨(X N)⁻¹, ?_, mu_ne_top τ (inv_ne_zero (X_ne_zero (N := N)))⟩
+    have hsum : mu τ (X N)⁻¹ + mu τ (X N) = 0 := by
+      rw [← mu_mul, inv_mul_cancel₀ (X_ne_zero (N := N)), mu_one]
+    obtain ⟨m, hm⟩ := WithTop.ne_top_iff_exists.mp hXt
+    obtain ⟨n, hn⟩ := WithTop.ne_top_iff_exists.mp (mu_ne_top τ (inv_ne_zero (X_ne_zero (N := N))))
+    rw [← hm, ← hn, ← WithTop.coe_add, ← WithTop.coe_zero, WithTop.coe_eq_coe] at hsum
+    rw [← hm, ← WithTop.coe_zero, WithTop.coe_lt_coe] at hneg
+    rw [← hn, ← WithTop.coe_zero, WithTop.coe_lt_coe]
+    omega
+  ·
+    rw [not_lt] at hneg
+    obtain ⟨c, hc⟩ :=
+      (tendsto_nhds_iff_meromorphicOrderAt_nonneg (meromorphicAt_realize' (X N) τ)).mpr hneg
+    refine ⟨X N - algebraMap ℂ (CF N) c, ?_, mu_ne_top τ (sub_ne_zero.mpr (X_ne_algebraMap c))⟩
+    apply (tendsto_zero_iff_meromorphicOrderAt_pos (meromorphicAt_realize' _ τ)).mp
+    have hlim : Tendsto ((fun z : ℂ => realize N ((X N : CF N) : LaurentSeries ℂ) (ofComplex z)) +
+        fun _ => -c) (𝓝[≠] (τ : ℂ)) (𝓝 0) := by
+      have h__af := hc.add (tendsto_const_nhds (x := -c))
+      simp at h__af
+      exact h__af
+    refine hlim.congr' ?_
+    have hcoe : ((X N - algebraMap ℂ (CF N) c : CF N) : LaurentSeries ℂ) =
+        ((X N : CF N) : LaurentSeries ℂ) + algebraMap ℂ (LaurentSeries ℂ) (-c) := by
+      rw [map_neg, ← sub_eq_add_neg]; rfl
+    rw [hcoe]
+    exact ((realize_add_eventuallyEq (pres (X N)) (Pres.const N (-c)) τ).trans
+      (EventuallyEq.rfl.add (realize_const_eventuallyEq (-c) τ))).symm
+
+theorem mu_smul (γ : CongruenceSubgroup.Gamma0 N) (τ : ℍ) (x : CF N) :
+    mu ((γ : SL(2, ℤ)) • τ) x = mu τ x := by
+  unfold mu
+  have hdet1 : (((γ : SL(2, ℤ)) : GL (Fin 2) ℝ)).val.det = 1 := Matrix.SpecialLinearGroup.det_coe _
+  have hdet : 0 < (((γ : SL(2, ℤ)) : GL (Fin 2) ℝ)).val.det := by rw [hdet1]; exact one_pos
+  rw [show ((((γ : SL(2, ℤ)) • τ : ℍ)) : ℂ) = ↑((((γ : SL(2, ℤ)) : GL (Fin 2) ℝ)) • τ) by simp,
+    ← meromorphicOrderAt_comp_smul hdet]
+  exact meromorphicOrderAt_congr (realize_smul_eventuallyEq (pres x) γ τ)
+
+theorem mu_nonneg_iff (τ : ℍ) (x : CF N) :
+    0 ≤ mu τ x ↔
+      IsBoundedUnder (· ≤ ·) (𝓝[≠] τ) (fun z : ℍ => ‖realize N (x : LaurentSeries ℂ) z‖) := by
+  rw [← isBoundedUnder_nhdsNE_coe_iff, mu,
+    ← tendsto_nhds_iff_meromorphicOrderAt_nonneg (meromorphicAt_realize' x τ)]
+  constructor
+  · rintro ⟨c, hc⟩
+    exact hc.norm.isBoundedUnder_le
+  · intro hb
+    by_contra hno
+    have hneg : meromorphicOrderAt
+        (fun z : ℂ => realize N (x : LaurentSeries ℂ) (ofComplex z)) (τ : ℂ) < 0 := by
+      rw [tendsto_nhds_iff_meromorphicOrderAt_nonneg (meromorphicAt_realize' x τ), not_le] at hno
+      exact hno
+    have hcob := (tendsto_cobounded_iff_meromorphicOrderAt_neg (meromorphicAt_realize' x τ)).mpr hneg
+    rw [← tendsto_norm_atTop_iff_cobounded] at hcob
+    exact Filter.not_isBoundedUnder_of_tendsto_atTop hcob hb
+
+variable (N) in
+
+theorem exists_place (τ : ℍ) :
+    ∃ (P : AlgebraicCurve.Place ℂ (CF N)) (e : ℕ), 0 < e ∧
+      (∀ x, x ∈ P.toValuationSubring ↔ 0 ≤ mu τ x) ∧
+      ∀ x, x ≠ 0 → mu τ x = (((e : ℤ) * P.ord x : ℤ) : WithTop ℤ) :=
+  AlgebraicCurve.Place.exists_of_orderMap (mu τ) (mu_eq_top_iff τ) (mu_mul τ) (mu_add τ)
+    (fun c hc => mu_algebraMap τ c hc) (exists_mu_pos τ)
+
+end OrderFunction
+
+end ModularCurve.ComplexPlaceDictionaryExistence
+p2m_reactivate "P2MW.S_ModularCurve_exists_complexPlaceDictionary.ModularCurve P2MW.S_ModularCurve_exists_complexPlaceDictionary.ModularCurve.ComplexPlaceDictionaryExistence"
+p2m_reactivate "P2MW.S_ModularCurve_exists_complexPlaceDictionary.ModularCurve"
+
+open _root_.ModularCurve _root_.P2MW.S_ModularCurve_exists_complexPlaceDictionary.ModularCurve ModularCurve.ComplexPlaceDictionaryExistence in
+theorem solution (N : ℕ) [NeZero N] : Nonempty (ModularCurve.ComplexPlaceDictionary N) := by
+  refine ⟨{ pt := fun τ => (exists_place N τ).choose
+            ramification := fun τ => (exists_place N τ).choose_spec.choose
+            ramification_pos := fun τ => (exists_place N τ).choose_spec.choose_spec.1
+            pt_smul := ?_
+            mem_pt_iff := ?_
+            meromorphicOrderAt_realize := ?_ }⟩
+  · intro γ τ
+    apply AlgebraicCurve.Place.ext
+    ext x
+    rw [((exists_place N ((γ : SL(2, ℤ)) • τ)).choose_spec.choose_spec.2.1 x),
+      ((exists_place N τ).choose_spec.choose_spec.2.1 x), mu_smul]
+  · intro τ x
+    rw [((exists_place N τ).choose_spec.choose_spec.2.1 x), mu_nonneg_iff]
+  · intro τ x hx
+    exact (exists_place N τ).choose_spec.choose_spec.2.2 x hx
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_exists_complexPlaceDictionary.ModularCurve P2MW.S_ModularCurve_exists_complexPlaceDictionary.ModularCurve.ComplexPlaceDictionaryExistence"
+
+end S_ModularCurve_exists_complexPlaceDictionary
+end P2MW
+export P2MW.S_ModularCurve_exists_complexPlaceDictionary (solution)

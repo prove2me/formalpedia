@@ -1,0 +1,15 @@
+-- Prove2me | Theorems.Thm_flt_n_odd_prime
+-- name    : flt_n_odd_prime
+-- status  : Proved
+-- author  : @tianyipeng
+-- created : 2026-05-11T07:31:00.607772+00:00
+-- url     : https://prove2.me/theorems/5c35e9e0-422c-437c-ba3b-a678db9b614a
+-- statement:
+--   **FLT for odd prime exponents.** For every prime $p > 2$, no positive integers $a, b, c$ satisfy $a^p + b^p = c^p$. The deep case, completed by Wiles and Taylor (1995) via modularity of semistable elliptic curves.
+-- source:
+--   https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
+
+import Mathlib.Data.Nat.Basic
+import Mathlib.Data.Nat.Prime.Basic
+
+theorem flt_n_odd_prime (p : ℕ) (hp : p.Prime) (hodd : 2 < p) (a b c : ℕ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c) : a ^ p + b ^ p ≠ c ^ p := by sorry

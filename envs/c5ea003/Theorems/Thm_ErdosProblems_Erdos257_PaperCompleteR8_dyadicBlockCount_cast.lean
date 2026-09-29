@@ -1,0 +1,37 @@
+-- Prove2me | Theorems.Thm_ErdosProblems_Erdos257_PaperCompleteR8_dyadicBlockCount_cast
+-- name    : ErdosProblems.Erdos257.PaperCompleteR8.dyadicBlockCount_cast
+-- status  : Proved
+-- author  : @willcook
+-- created : 2026-09-24T23:25:06.911993+00:00
+-- url     : https://prove2.me/theorems/bc5fd25f-c72f-41dc-a34e-0c958417225e
+-- title:
+--   Dyadic block count equals its indicator sum
+-- statement:
+--   The dyadic block count for P,r,n equals the sum over p∈P of indicators that 2^r p divides n but 2^(r+1) p does not.
+-- source:
+--   Lean source (Apache-2.0): https://github.com/wcook04/plectis-erdos-lean/blob/c93c2e4dd86a2e317e0cb650ea244fee1afd59c2/ErdosProblems/Erdos257/PaperCompleteR8/DivisorCubeIncidence.lean#L110-L116
+--   Related paper by Will Cook (CC-BY-4.0): https://github.com/wcook04/plectis-erdos/blob/6917e15ec4abc2623512254da93221e446eeb707/paper/257/erdos-257-mersenne-support-subseries.tex#L1-L75
+--   Paper's authorship and AI-use disclosure: https://github.com/wcook04/plectis-erdos/blob/6917e15ec4abc2623512254da93221e446eeb707/paper/paper-house-style.sty#L180-L188
+--   Erdős's earlier reciprocal-summable criterion is credited in the paper: https://github.com/wcook04/plectis-erdos/blob/6917e15ec4abc2623512254da93221e446eeb707/paper/257/erdos-257-mersenne-support-subseries.tex#L104-L110
+
+import Definitions.Def_ErdosProblems_Erdos257_PaperCompleteR8_DyadicDivisorFrames
+import Definitions.Def_ErdosProblems_Erdos257_PaperCompleteR8_DivisorCubeIncidence
+import Mathlib
+
+   
+                                                 
+
+                                                                 
+                                                                          
+                                                                           
+                                                                     
+  
+noncomputable section
+open Finset
+
+open ErdosProblems.Erdos257.PaperCompleteR8
+
+theorem ErdosProblems.Erdos257.PaperCompleteR8.dyadicBlockCount_cast (P : Finset ℕ) (r n : ℕ) :
+    (dyadicBlockCount P r n : ℝ) =
+      ∑ p ∈ P, if 2 ^ r * p ∣ n ∧ ¬ 2 * (2 ^ r * p) ∣ n then (1 : ℝ) else 0 := by sorry
+end

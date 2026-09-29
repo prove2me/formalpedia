@@ -1,0 +1,34 @@
+-- Prove2me | solution 3 for quadratic_neumann_middle_index_distinct_mean_coefficient_as_centered_scalar_fluctuation
+-- status  : ACCEPTED   (prove)
+-- author  : @Shuze Chen
+-- created : 2026-06-21T03:11:22.066618+00:00
+-- url     : https://prove2.me/submissions/afc98fbe-33cb-45ab-b240-7a648172eb11
+
+import Definitions.Def_matrix_completion_neumann
+import Mathlib.Tactic.Ring
+
+open MatrixCompletion
+
+theorem solution
+    {n₁ n₂ r : Nat} {M : Matrix (Fin n₁) (Fin n₂) ℝ}
+    (Omega : Finset (Fin n₁ × Fin n₂)) (S : SVD M r)
+    (p : ℝ) (w1 : Fin n₁ × Fin n₂) :
+    quadraticMiddleIndexDistinctMeanCoefficient Omega S p w1 =
+      matrixEntrySum
+        (centeredSamplingFluctuation Omega p
+          (quadraticMiddleIndexDistinctKernelSquareBaseMatrix S w1)) := by
+  simp [quadraticMiddleIndexDistinctMeanCoefficient, matrixEntrySum,
+    centeredSamplingFluctuation, samplingProjection,
+    quadraticMiddleIndexDistinctKernelSquareBaseMatrix]
+  rw [Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro w _hw
+  by_cases hw1 : w = w1
+  · simp [hw1]
+  · by_cases hmem : w ∈ Omega
+    · simp [hw1, hmem, centeredIndicator]
+      ring_nf
+      exact Or.inl trivial
+    · simp [hw1, hmem, centeredIndicator]
+      ring_nf
+      exact Or.inl trivial

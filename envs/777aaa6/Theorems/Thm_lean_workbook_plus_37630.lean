@@ -1,0 +1,14 @@
+-- Prove2me | Theorems.Thm_lean_workbook_plus_37630
+-- name    : lean_workbook_plus_37630
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-02-28T22:43:56.562161+00:00
+-- url     : https://prove2.me/theorems/e0d30b89-2965-474b-8c9e-36cad35df2ea
+-- statement:
+--   Let $a,b>0$ and $\frac{1}{a(1+b)}+\frac{1}{b(1+a)}=\frac{2}{1+ab}$ . Prove that $a+b\geq2$
+-- source:
+--   https://huggingface.co/datasets/internlm/Lean-Workbook
+
+import Mathlib.Analysis.Complex.Basic
+
+theorem lean_workbook_plus_37630 (a b : ℝ) (ha : 0 < a) (hb : 0 < b) (hab : a * b ≠ 1) (h : (1 / (a * (1 + b))) + (1 / (b * (1 + a))) = 2 / (1 + a * b)) : a + b ≥ 2   :=  by sorry

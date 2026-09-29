@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for NumberField.TateGlobal.continuous_ideleNorm_det
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:12.93214+00:00
+-- url     : https://prove2.me/submissions/35e309af-3fc9-53d8-88b2-8089d9ed8177
+
+import Definitions.Def_NumberField_TateGlobalZeta
+import Theorems.Thm_NumberField_TateGlobal_continuous_ideleNorm
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_NumberField_TateGlobal_continuous_ideleNorm_det
+p2m_attr_erase "instance" "instFiniteResidueFieldAdicCompletionRingOfIntegersWithZeroMultiplicativeInt_definitions NumberField.instCompactSpaceAdicCompletionIntegers Rat.adicCompletion.locallyCompactSpace NumberField.instFiniteResidueFieldAdicCompletionIntegers instWeaklyLocallyCompactSpaceAdicCompletionRingOfIntegers_definitions instLocallyCompactSpaceAdicCompletionRingOfIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instDimensionLEOneSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.instLiesOverSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersCompletionIdealAsIdeal IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsPrincipalIdealRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemSubringIntegerWithZeroMultiplicativeInt_definitions IsDedekindDomain.HeightOneSpectrum.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicCompletionV_definitions instCountableOfNumberField_definitions"
+
+set_option autoImplicit false
+
+open NumberField AutomorphicForm
+
+open NumberField.TateGlobal in
+
+theorem solution (F : Type) [Field F] [NumberField F] :
+    Continuous fun g : AdelicGL2 (𝓞 F) F => ideleNorm F (Matrix.GeneralLinearGroup.det g) :=
+  (NumberField.TateGlobal.continuous_ideleNorm F).comp Matrix.GeneralLinearGroup.continuous_det
+
+end S_NumberField_TateGlobal_continuous_ideleNorm_det
+end P2MW
+export P2MW.S_NumberField_TateGlobal_continuous_ideleNorm_det (solution)

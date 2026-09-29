@@ -1,0 +1,938 @@
+-- Prove2me | solution 1 for CerednikDrinfeld.QM.FakeEllipticCurve.exists_rigidifiedToG_natural_isRigTransport_of_cover
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:06.141142+00:00
+-- url     : https://prove2.me/submissions/eeec2461-52e4-5e89-b427-9c743fa48118
+
+import Definitions.Def_CerednikDrinfeld_QMRigidification
+import Definitions.Def_CerednikDrinfeld_SpecialFormalFunctorG
+import Definitions.Def_CerednikDrinfeld_CosetGraphAtPrime
+
+import Theorems.Thm_CerednikDrinfeld_SpecialFormal_ModuliPackage_GPoint_exists_forall_map_eq_of_span_eq_top
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_Rigidification_gPoint_eq_map_gPoint_of_isPullbackVia_of_isRigTransport
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_Rigidification_gPoint_eq_gPoint_of_isPullbackVia_of_isPullbackVia_of_isRigTransport
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_Rigidification_exists_isRigTransport_isAdmissible_of_isFormalModuleVia
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_exists_cover_connected_isPullbackVia_isFormalModuleVia
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_exists_isPullback_levelIff
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_Rigidification_exists_isPullbackVia_of_isPullbackVia
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_Rigidification_IsPullbackVia_comp
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_IsPullbackVia_comp
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_Rigidification_isRigTransport_map_of_isPullbackVia
+import Theorems.Thm_CerednikDrinfeld_SpecialFormal_ModuliPackage_GPoint_eq_of_forall_map_eq_of_span_eq_top
+import Theorems.Thm_CerednikDrinfeld_SpecialFormal_ModuliPackage_GPoint_eq_of_eq_map_of_leg_eq_frobTwist
+import Theorems.Thm_Localization_Away_existsUnique_forall_algebraMap_eq_of_span_eq_top
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_CerednikDrinfeld_QM_FakeEllipticCurve_exists_rigidifiedToG_natural_isRigTransport_of_cover
+p2m_attr_erase "instance" "MvFormalGroup.Points.instNeg MvFormalGroup.Points.instZero MvFormalGroup.Points.instAdd MvFormalGroup.Points.instAddCommGroup MvFormalGroup.Points.instAddGroup instTopologicallyFGOfFiniteType GoodReductionJacobian.RelativeGroupLaw.isIso_endKerStr_schemeHomOverId AlgebraicGeometry.OModulePresheaf.isScalarTower AlgebraicGeometry.Scheme.OrderedAffineCover.instLinearOrder AlgebraicGeometry.OModulePresheaf.module AlgebraicGeometry.Scheme.OrderedAffineCover.instFintype AlgebraicGeometry.Scheme.OrderedAffineCover.instFintypeIdx AlgebraicGeometry.OModulePresheaf.addCommGroup AlgebraicGeometry.Scheme.OrderedAffineCover.instDecidableEqIdx AlgebraicGeometry.OModulePresheaf.moduleSections TwoChartCech.Sections.M0_moduleA TwoChartCech.Sections.M1_module TwoChartCech.Cover.A01_algebra TwoChartCech.Cover.A0_algebra TwoChartCech.Cover.A1_commRing TwoChartCech.Cover.A1_algebra TwoChartCech.Sections.M01_module TwoChartCech.Sections.M0_addCommGroup TwoChartCech.Sections.M0_tower TwoChartCech.Sections.M01_addCommGroup TwoChartCech.Cover.A0_commRing TwoChartCech.Sections.M1_tower TwoChartCech.Sections.M01_moduleA TwoChartCech.Sections.M0_module TwoChartCech.Sections.M1_moduleA TwoChartCech.Sections.M1_addCommGroup TwoChartCech.Cover.A01_commRing TwoChartCech.Sections.M01_tower CoherentBaseChange.TwoTermComplex.C0_module CoherentBaseChange.TwoTermComplex.C0_addCommGroup CoherentBaseChange.TwoTermComplex.C1_module CoherentBaseChange.TwoTermComplex.C1_addCommGroup CoherentBaseChange.TwoTermComplex.C0_free CoherentBaseChange.TwoTermComplex.C1_finite CoherentBaseChange.TwoTermComplex.C0_finite"
+p2m_attr_erase "instance" "CoherentBaseChange.TwoTermComplex.C1_free AlgebraicGeometry.OModulePresheaf.instSubsingletonObjZero AlgebraicGeometry.Scheme.Modules.preservesBinaryProducts_opensMap AlgebraicGeometry.Scheme.Modules.pullback_monoidal AlgebraicGeometry.Scheme.Modules.sheafify_isLocalization' AlgebraicGeometry.Scheme.Modules.preservesTerminal_opensMap AlgebraicGeometry.Scheme.Modules.pullback₀_monoidal AlgebraicGeometry.Scheme.Modules.preservesFiniteProducts_opensMap AlgebraicGeometry.Scheme.Modules.instLiftingPresheafOfModulesSheafifyPresheafWOpensCarrierCarrierCommRingCatGrothendieckTopologyObjFunctorOppositeIsSheafSheafCompPullback₀Pullback PresheafOfModules.PullbackMonoidal.pullback_monoidal PresheafOfModules.PullbackMonoidal.isIso_δ PresheafOfModules.pushforward_laxMonoidal PresheafOfModules.PullbackMonoidal.isIso_η PresheafOfModules.free_monoidal PresheafOfModules.restrictScalars_laxMonoidal PresheafOfModules.PullbackMonoidal.isIso_δ_gS PresheafOfModules.pullback_oplaxMonoidal PresheafOfModules.PullbackMonoidal.instPreservesColimitsOfSizeCompOppositeCommRingCatRingCatForget₂RingHomCarrierCarrierPb PresheafOfModules.pullback_monoidal' AlgebraicGeometry.SmoothOfRelativeDimension.fiberToSpecResidueField AlgebraicGeometry.SmoothOfRelativeDimension.pullback_snd AlgebraicGeometry.SmoothOfRelativeDimension.pullback_fst AlgebraicGeometry.SmoothOfRelativeDimension.smooth_one AlgebraicGeometry.SmoothProperCurve.isIntegral_pullback_Spec_field AlgebraicGeometry.IsProper.fiberToSpecResidueField AlgebraicCurve.CurveModel.isProper AlgebraicCurve.CurveModel.isIntegral AlgebraicCurve.CurveModel.smooth AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsLocallyInjectiveFunUliftYonedaGluedToSheaf AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsLocallySurjectiveFunUliftYonedaGluedToSheafOfIsLocallySurjectiveZariskiTopologyDescFunctorOppositeType AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsOpenImmersionToGlued AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsIsoSheafZariskiTopologyTypeUliftYonedaGluedToSheaf AlgebraicGeometry.RelPicard.instIsOpenImmersionToGlued AlgebraicCurve.Place.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.Place.instIsTrivialOnWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.instFundamentalIdentityOfSumRamificationInertia AlgebraicCurve.Place.instIsScalarTowerResidueFieldRestrictPushforward AlgebraicCurve.Place.instAlgebraResidueFieldRestrictPushforward AlgebraicCurve.Place.instIsLocalHomRestrictInclusion AlgebraicCurve.Place.instIsPrimeCenter"
+p2m_attr_erase "instance" "AlgebraicCurve.Place.instIsFractionRingIntegralClosureAt AlgebraicCurve.Place.instIsTorsionFreeSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.Place.instIsDedekindDomainIntegralClosureAt AlgebraicCurve.Place.instFiniteSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.RationalFunctionField.instNontrivialSubtypeUnitsWithZeroMultiplicativeIntMemSubgroupValueGroupRatFuncValuationInftyValuation_definitions PresheafOfModules.ExteriorPower.instModulePresheafAb AlgebraicGeometry.RelEffCartierDiv.subsingleton_of_degree_zero AlgebraicGeometry.RelEffCartierDiv.isIso_subschemeIota_snd_of_degree_one AlgebraicGeometry.isIso_ker_graphOver_subschemeIota_snd AlgebraicGeometry.isClosedImmersion_graphOver AlgebraicGeometry.FGSubalgebra.instIsDirectedLe AlgebraicGeometry.FGSubalgebra.instQuasiSeparatedSpaceCarrierCarrierCommRingCatObjOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instIsCofilteredOpposite AlgebraicGeometry.FGSubalgebra.instIsAffineObjOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instNonempty AlgebraicGeometry.FGSubalgebra.instNonemptySubtypeLeSubalgebraValFG AlgebraicGeometry.FGSubalgebra.instCompactSpaceCarrierCarrierCommRingCatObjOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instIsDirectedSubtypeLeSubalgebraValFG AlgebraicGeometry.FGSubalgebra.instIsAffineHomMapOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instIsFiltered AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instNeg AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSMulInt AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instAddCommGroup AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instAdd AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSub AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instModuleCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensTop AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSMulCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensTop AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSMulNat AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instZero AlgebraicCurve.instHasLocalResidue_of_hasCanonicalLocalResidueK AlgebraicCurve.instHasCanonicalLocalResidueK_of_hasCanonicalLocalResidueKStar AlgebraicCurve.Place.kw_ffgc_finiteDimensional_adicCompletion instAlgebraSubtypeMemValuationSubring_definitions AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersIntegersCompletion ModularCurve.KwF4gRRTate.instAlgebraKAdicCompletionIntegers AlgebraicCurve.Place.kw_ffgc_continuousSMul_adicCompletionComap AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersCompletionCompletion IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instDimensionLEOneSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.instLiesOverSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersCompletionIdealAsIdeal"
+p2m_attr_erase "instance" "IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsPrincipalIdealRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemSubringIntegerWithZeroMultiplicativeInt_definitions IsDedekindDomain.HeightOneSpectrum.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicCompletionV_definitions AlgebraicCurve.instHasCanonicalLocalResidueK AlgebraicCurve.Place.instAlgebra_restrictResidueField AlgebraicCurve.Place.instIsScalarTower_restrictResidueField AlgebraicCurve.instHasLocalResidue AlgebraicCurve.HasSeparableResidue.of_perfectField_of_isCurveOver AlgebraicCurve.HasSeparableResidue.of_perfectField AlgebraicCurve.Place.instIsLocalHom_restrictSubringHom AlgebraicCurve.instHasCanonicalLocalResidueKStar ModularCurve.KwNo6Pin.isLocalRing_completion SheafOfModules.isIso_ihomModelToIhom AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instDecidableEqIdx AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintype AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instLinearOrder AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintypeIdx AlgebraicGeometry.OModulePresheaf.Leray.relAltC_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_modΓ AlgebraicGeometry.OModulePresheaf.Leray.relAltC_modΓ AlgebraicGeometry.OModulePresheaf.Leray.biC_abGrp AlgebraicGeometry.OModulePresheaf.Leray.relAltH_modΓ AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_smul AlgebraicGeometry.OModulePresheaf.Leray.relAltH_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.relAltH_smul AlgebraicGeometry.OModulePresheaf.Leray.biC_module DoubleComplex.instModuleE₂I DoubleComplex.Bounded.modR DoubleComplex.instModuleE₂II DoubleComplex.instAddCommGroupE₂II DoubleComplex.Bounded.abGrp DoubleComplex.instAddCommGroupE₂I ProjSpaceCech.GradedModule.H.module ProjSpaceCech.GradedModule.H.addCommGroup ProjSpaceCech.GradedModule.sec.instAdd ProjSpaceCech.GradedModule.sec.instNeg ProjSpaceCech.GradedModule.acg ProjSpaceCech.GradedModule.Frac.setoid ProjSpaceCech.GradedModule.modR ProjSpaceCech.GradedModule.sec.instModule"
+p2m_attr_erase "instance" "ProjSpaceCech.GradedModule.sec.instAddCommGroup ProjSpaceCech.GradedModule.sec.instZero ProjSpaceCech.GradedModule.Presentation.fJ ProjSpaceCech.GradedModule.sec.instSMul ProjSpaceCech.Twist.H.module ProjSpaceCech.Idx.instFintype ProjSpaceCech.Twist.H.addCommGroup ProjSpaceCech.Idx.instDecidableEq ProjSpaceCech.Twist.Mon.instDecidableEq ProjSpaceCech.Twist.cochain.instAddCommGroup ProjSpaceCech.Twist.cochain.instModule AlgebraicGeometry.FGSubalgebra.tensorStage_directedSystem AlgebraicGeometry.RelEffCartierDiv.isClosedImmersion_subschemeι_resProdMap AlgebraicGeometry.RelEffCartierDiv.isOpenImmersion_resProdMap AlgebraicCurve.CurveModel.locallyOfFiniteType_gluedToBase AlgebraicCurve.CurveModel.isFractionRing_overlap AlgebraicCurve.CurveModel.isLocallyNoetherian_glued AlgebraicCurve.CurveModel.jacobsonSpace_glued AlgebraicCurve.CurveModel.isOpenImmersion_ι₀ AlgebraicCurve.CurveModel.isIntegral_glued AlgebraicCurve.CurveModel.quasiSeparated_gluedToBase AlgebraicCurve.CurveModel.compactSpace_glued AlgebraicCurve.CurveModel.isIntegral_adjoin_chartRing AlgebraicCurve.CurveModel.isFractionRing_overlap_functionField AlgebraicCurve.CurveModel.isProper_gluedToBase AlgebraicCurve.CurveModel.isOpenImmersion_ιU AlgebraicCurve.CurveModel.isOpenImmersion_f₀ AlgebraicCurve.CurveModel.isOpenImmersion_fInf AlgebraicCurve.CurveModel.isOpenImmersion_ιInf AlgebraicCurve.CurveModel.algebra_overlap_functionField AlgebraicCurve.CurveModel.quasiCompact_gluedToBase AlgebraicCurve.CurveModel.algebraAdjoin AlgebraicCurve.CurveModel.isDedekindDomain_chartRing AlgebraicCurve.CurveModel.isIntegralClosure AlgebraicCurve.CurveModel.finite_chartRing AlgebraicCurve.CurveModel.centre_isPrime AlgebraicCurve.CurveModel.isFractionRing_chartRing AlgebraicCurve.CurveModel.finiteType_chartRing AlgebraicCurve.CurveModel.isNoetherianRing_chartRing AlgebraicCurve.CurveModel.isScalarTower_base_adjoin"
+p2m_attr_erase "instance" "AlgebraicCurve.CurveModel.isScalarTower_adjoin AlgebraicCurve.CurveModel.chartRing_finitePresentation AlgebraicGeometry.ProjSpace.twistObj.addCommGroup AlgebraicGeometry.ProjSpace.twistFam.module AlgebraicGeometry.ProjSpace.twistObj.module AlgebraicGeometry.ProjSpace.twistObj.moduleSections AlgebraicGeometry.ProjSpace.twistFam.addCommGroup MvFormalGroup.CartierModule.instAddCommGroup MvFormalGroup.CartierModule.instNeg MvFormalGroup.CartierModule.instAdd MvFormalGroup.CartierModule.instZero MvFormalGroup.WittLaw.instTendstoCofiniteProdMk MvFormalGroup.CartierModule.instModuleWittVector kmfloorsGlue_int_three_isPrime kmfloorsGlue_int_bot_isPrime AlgebraicGeometry.SquareZero.isLocalRing' AlgebraicGeometry.SquareZero.isLocalRing"
+p2m_attr_erase "simp" "MvFormalGroup.Points.mk.injEq MvFormalGroup.Points.mk.sizeOf_spec RegularLocalRingQuotientAscent.dualNumberFst_apply GoodReductionJacobian.RelativeGroupLaw.fibre_inv GoodReductionJacobian.RelativeGroupLaw.fibrePointToBase_coe GoodReductionJacobian.RelativeGroupLaw.fibrePointOfBase_toBase GoodReductionJacobian.RelativeGroupLaw.fibre_mul GoodReductionJacobian.RelativeGroupLaw.fibrePointToBase_ofBase GoodReductionJacobian.RelativeGroupLaw.fibre_one GoodReductionJacobian.RelativeGroupLaw.fibrePointOfBase_coe GoodReductionJacobian.RelativeGroupLaw.baseChangePointToBase_ofBase GoodReductionJacobian.RelativeGroupLaw.baseChangePointToBase_coe GoodReductionJacobian.RelativeGroupLaw.baseChangePointOfBase_coe GoodReductionJacobian.RelativeGroupLaw.baseChange_inv GoodReductionJacobian.RelativeGroupLaw.baseChangePointOfBase_toBase GoodReductionJacobian.RelativeGroupLaw.baseChange_mul GoodReductionJacobian.RelativeGroupLaw.baseChange_one NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_symm_restrict NeronModelInfra.schemeHomOverComp_id_left NeronModelInfra.schemeHomOverComp_id_right NeronModelInfra.schemeHomOverId_coe NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_apply NeronModelInfra.NeronModelPropertyBundle.restrict_endExtensionEquiv_symm NeronModelInfra.schemeHomOverComp_coe NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_fst NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_snd NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_fst NeronSpecialFibreInfra.neronEndRestrictEquiv_apply NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_fst_assoc NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_snd NeronSpecialFibreInfra.neronEndExtension_genericFibreRestrict NeronSpecialFibreInfra.specClosedFibreInclusion_eq NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_fst_assoc NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_snd_assoc NeronSpecialFibreInfra.genericFibreRestrict_neronEndExtension NeronSpecialFibreInfra.homOverId_coe NeronSpecialFibreInfra.homOverComp_coe NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_snd_assoc NeronModelInfra.schemeHomOverNpow_succ NeronModelInfra.schemeHomOverNpow_zero"
+p2m_attr_erase "simp" "GoodReductionJacobian.relativeGroupLawOfGrpObj_inv GoodReductionJacobian.relativeGroupLawOfGrpObj_mul GoodReductionJacobian.overHomEquivSchemeHomOver_apply_coe GoodReductionJacobian.relativeGroupLawOfGrpObj_one GoodReductionJacobian.overHomEquivSchemeHomOver_symm_apply_left AlgebraicGeometry.Scheme.Modules.tensorPow_zero AlgebraicGeometry.Scheme.Modules.tensorPow_succ AlgebraicGeometry.Scheme.OrderedAffineCover.mk.injEq AlgebraicGeometry.OModulePresheaf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.mk.injEq AlgebraicGeometry.Scheme.TwoAffineOpenCover.mk.injEq AlgebraicGeometry.Scheme.TwoAffineOpenCover.mk.sizeOf_spec AlgebraicGeometry.Scheme.TwoAffineOpenCover.pullback_U1 AlgebraicGeometry.Scheme.TwoAffineOpenCover.pullback_U0 TwoChartCech.Sections.mk.injEq TwoChartCech.Cover.mk.injEq TwoChartCech.GrothendieckComplex.mk.injEq TwoChartCech.Sections.mk.sizeOf_spec TwoChartCech.Cover.mk.sizeOf_spec TwoChartCech.Cover.lineBundle_r0_apply TwoChartCech.GrothendieckComplex.mk.sizeOf_spec TwoChartCech.Cover.lineBundle_r1_apply CoherentBaseChange.TwoTermComplex.mk.sizeOf_spec CoherentBaseChange.TwoTermComplex.mk.injEq AlgebraicGeometry.OModulePresheaf.prod_obj AlgebraicGeometry.OModulePresheaf.restrOpen_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.injEq AlgebraicGeometry.OModulePresheaf.pushforward_obj AlgebraicGeometry.OModulePresheaf.im_obj AlgebraicGeometry.OModulePresheaf.pow_obj AlgebraicGeometry.OModulePresheaf.fstHom_app AlgebraicGeometry.OModulePresheaf.ker_obj AlgebraicGeometry.OModulePresheaf.coker_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.preimage_U AlgebraicGeometry.OModulePresheaf.sndHom_app AlgebraicGeometry.OModulePresheaf.Hom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.id_app AlgebraicGeometry.OModulePresheaf.AffHom.appSections_apply"
+p2m_attr_erase "simp" "AlgebraicGeometry.OModulePresheaf.AffHom.comp_app AlgebraicGeometry.OModulePresheaf.AffSES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.kerMap_coe AlgebraicGeometry.OModulePresheaf.AffHom.id_app AlgebraicGeometry.OModulePresheaf.Hom.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.Hom.toAffHom_app AlgebraicGeometry.OModulePresheaf.SES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.Hom.comp_app AlgebraicGeometry.OModulePresheaf.SES.mk.injEq AlgebraicGeometry.OModulePresheaf.AffHom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.appSections_apply AlgebraicGeometry.OModulePresheaf.AffSES.mk.injEq PresheafOfModules.freeεIso_hom_app PresheafOfModules.freeμIso_hom_app AlgebraicGeometry.RelPicard.RepresentsRelSubPic.mk.injEq AlgebraicGeometry.RelPicard.SubPicCondition.mk.injEq AlgebraicGeometry.RelPicard.SubPicCondition.mk.sizeOf_spec AlgebraicGeometry.RelPicard.RepresentsRelSubPic.mk.sizeOf_spec AlgebraicGeometry.SmoothProperCurve.sectionBaseChange_coe_snd AlgebraicGeometry.SmoothProperCurve.sectionBaseChange_coe_fst AlgebraicCurve.CurveModel.mk.injEq AlgebraicCurve.CurveModel.mk.sizeOf_spec AlgebraicCurve.mulAdele_apply AlgebraicCurve.residuePairing_apply_coe AlgebraicCurve.mem_adeleBdd AlgebraicCurve.weilSmul_one AlgebraicCurve.diagonalHom_apply AlgebraicCurve.weilSmul_apply AlgebraicCurve.adeleSpaceMul_coe AlgebraicCurve.mulAdele_one AlgebraicGeometry.SmoothProperCurve.FiniteMapData.twoAffineOpenCover_U1 AlgebraicGeometry.SmoothProperCurve.FiniteMapData.mk.injEq AlgebraicGeometry.SmoothProperCurve.FiniteMapData.mk.sizeOf_spec AlgebraicGeometry.SmoothProperCurve.FiniteMapData.twoAffineOpenCover_U0 AlgebraicGeometry.RelPicard.SubPicCondition.onClasses_mk AlgebraicGeometry.RelPicard.relSubPicPresheaf_map_coe CategoryTheory.Functor.OverTotal.ofFibre_fst CategoryTheory.Functor.overTotal_map_fst AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_J"
+p2m_attr_erase "simp" "AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYoneda_toGlued_uliftYonedaGluedToSheaf AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_t' AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYoneda_toGlued_uliftYonedaGluedToSheaf_assoc AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYonedaGluedToSheaf_app_toGlued AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_openCover_map AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYonedaGluedToSheaf_app_comp AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_V AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_t AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_U AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_f AlgebraicGeometry.RelPicard.designationOfRepresentableBy_P AlgebraicGeometry.RelPicard.designationOfRepresentableBy_toBase AlgebraicGeometry.RelPicard.rigSection_snd AlgebraicGeometry.RelPicard.RigidifiedLineBundle.ofInvertible_L AlgebraicGeometry.RelPicard.rigSection_snd_assoc AlgebraicGeometry.RelPicard.SubPicGroupCondition.mk.injEq AlgebraicGeometry.RelPicard.SubPicGroupCondition.mk.sizeOf_spec AlgebraicCurve.coe_cechH0Equiv_apply AlgebraicCurve.cechH1ToH1_mk AlgebraicCurve.lSpaceOn_univ AlgebraicCurve.lSpaceOn_empty AlgebraicCurve.Place.congrEquiv_symm_apply AlgebraicCurve.RationalFunctionField.heightOneSpectrumOfIrreducible_asIdeal AlgebraicCurve.Place.congrRingEquiv_toValuationSubring AlgebraicCurve.Place.congrEquiv_apply AlgebraicCurve.Place.coe_comapSymmRingEquiv_apply AlgebraicCurve.RationalFunctionField.deg_placeOfPoint AlgebraicCurve.Divisor.mapRestrict_single AlgebraicCurve.Divisor.pushforward_single AlgebraicCurve.Place.coe_restrictInclusion AlgebraicCurve.Place.mem_fiber AlgebraicCurve.Place.restrict_toValuationSubring AlgebraicCurve.Divisor.degree_pushforward AlgebraicCurve.Place.restrictResidueMap_residue AlgebraicCurve.Pic0.coe_pushforwardDegZeroHom AlgebraicCurve.Pic0.coe_pullbackDegZeroHom AlgebraicCurve.Place.placeOfPrime_toValuationSubring AlgebraicCurve.Place.mem_fiberOver AlgebraicCurve.Place.fiberEquiv_symm_apply AlgebraicCurve.Place.fiberEquiv_apply"
+p2m_attr_erase "simp" "AlgebraicCurve.Place.centerHeightOneSpectrum_asIdeal AlgebraicCurve.IsFrobeniusEndo.frobNormRingHom_apply ModularCurve.frobeniusPushforwardGeomLevelPic0_mk ModularCurve.coe_frobeniusGeomLevelEquiv_apply ModularCurve.coe_frobeniusPushforwardGeomLevelDegZero ModularCurve.heckeFibreGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusGeomLevel_apply_coe ModularCurve.frobeniusPullbackGeomLevelPic0OfIsCurveOver_mk ModularCurve.coe_heckeFibreGeomLevelDegZero ModularCurve.coe_frobeniusPullbackGeomLevelDegZero ModularCurve.frobeniusPullbackGeomLevelPic0_mk ModularCurve.frobeniusPullbackGeomLevel_single ModularCurve.heckeFibreGeomLevelPic0_mk ModularCurve.frobeniusPushforwardGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusPushforwardGeomLevel_single ModularCurve.qExpandAlgC_apply AlgebraicCurve.Divisor.degree_pushforwardAlong AlgebraicCurve.Pic0.coe_degZeroCorrespondence AlgebraicCurve.Place.mem_fiberAlong AlgebraicCurve.coe_frobeniusPushforwardDegZero AlgebraicCurve.IsFrobeniusEndo.coe_frobeniusPullbackDegZero ModularCurve.jqNModC_one ModularCurve.reduceModBivar_C_X ModularCurve.laurentMap_coeff ModularCurve.reduceModBivar_X ModularCurve.laurentMap_single ModularCurve.evalAtJInt_X ModularCurve.evalAtJMod_X ModularCurve.jqNMod_one AlgebraicCurve.RationalFunctionField.placeInfty_toValuationSubring AlgebraicCurve.RationalFunctionField.placeEquivOption_placeInfty AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_some AlgebraicCurve.RationalFunctionField.placeEquivOption_placeOfPoint AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_none AlgebraicCurve.Divisor.evalFun_zero AlgebraicCurve.Place.evalAt_one AlgebraicCurve.Place.differentialCoeff_zero AlgebraicCurve.Place.differentialCoeff_dCoord AlgebraicCurve.TranscendenceTower.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.injEq"
+p2m_attr_erase "simp" "AlgebraicCurve.TranscendenceTower.mk.injEq AlgebraicCurve.PoleDivisorPackage.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.sizeOf_spec AlgebraicCurve.PoleDivisorPackage.mk.injEq AlgebraicGeometry.RelPicard.thetaBundle_def AlgebraicGeometry.RelPicard.picardBundle_def AlgebraicGeometry.RelEffCartierDiv.toRelEffDivisor_ofRelEffDivisor AlgebraicGeometry.RelEffCartierDiv.toRelEffDivisor_I AlgebraicGeometry.mapOnProdOver_fst_assoc AlgebraicGeometry.RelEffCartierDiv.mk.sizeOf_spec AlgebraicGeometry.RelEffCartierDiv.mk.injEq AlgebraicGeometry.mapOnProdOver_snd AlgebraicGeometry.mapOnProdOver_fst AlgebraicGeometry.mapOnProdOver_snd_assoc AlgebraicGeometry.mapOnProdOver_id AlgebraicCurve.RelEffDivisor.mk.sizeOf_spec AlgebraicCurve.mapOnProd_fst AlgebraicCurve.mapOnProd_fst_assoc AlgebraicCurve.mapOnProd_snd AlgebraicCurve.UnivDivisorPack.mk.injEq AlgebraicCurve.RelEffDivisor.mk.injEq AlgebraicCurve.UnivDivisorPack.mk.sizeOf_spec AlgebraicCurve.mapOnProd_snd_assoc AlgebraicGeometry.Scheme.Modules.exteriorPower_obj PresheafOfModules.exteriorPower_map_ιMulti PresheafOfModules.ExteriorPower.appₗ_apply AlgebraicGeometry.prodKerGraph_one AlgebraicGeometry.fibrePowOver.proj_comp AlgebraicGeometry.prodKerGraph_zero AlgebraicGeometry.RelEffCartierDiv.empty_I AlgebraicGeometry.fibrePowOver.proj_comp_assoc AlgebraicGeometry.graphOver_fst_assoc AlgebraicGeometry.RelEffCartierDiv.toPoint_comp AlgebraicGeometry.RelEffCartierDiv.toPoint_comp_assoc AlgebraicGeometry.graphOver_fst AlgebraicGeometry.RelEffCartierDiv.ofPoint_I AlgebraicGeometry.graphOver_snd AlgebraicGeometry.graphOver_snd_assoc AlgebraicCurve.SymmetricPowerPackage.mk.sizeOf_spec AlgebraicCurve.SymmetricPowerPackage.mk.injEq"
+p2m_attr_erase "simp" "AlgebraicGeometry.FGSubalgebra.cocone_ι_app_apply AlgebraicGeometry.RelPicard.fst_toProdSpec AlgebraicGeometry.RelPicard.toProdSpec_fst_assoc AlgebraicGeometry.RelPicard.pointsSubBasepointModule_cons AlgebraicGeometry.RelPicard.pointsSubBasepointModule_nil AlgebraicGeometry.RelPicard.fst_toProdSpec_assoc AlgebraicGeometry.RelPicard.toProdSpec_fst AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.sub_app AlgebraicGeometry.Scheme.IdealSheafData.sres_sresTop AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.add_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.mk.sizeOf_spec AlgebraicGeometry.Scheme.IdealSheafData.coe_resLE AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.smul_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.coe_ofLE_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.ideal_range AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.zero_app AlgebraicGeometry.Scheme.IdealSheafData.sres_sres AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.comp_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.neg_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.id_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.coe_mulRight_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.nsmul_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.mk.injEq AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.zsmul_app AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.sizeOf_spec AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.injEq AlgebraicCurve.adeleSingle_coe AlgebraicCurve.kaehlerResidueTermKFam_apply AlgebraicCurve.Place.LocalResidueData.mk.injEq AlgebraicCurve.Place.LocalResidueData.mk.sizeOf_spec AlgebraicCurve.Place.kw_ffgc_adicCompletionComapIntegers_coe AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.sizeOf_spec AlgebraicCurve.Place.mem_simplePoleSubmodule AlgebraicCurve.Place.coe_uniformizerSubring ModularCurve.Lg37.Lg37CompletionSection.mk.injEq AlgebraicCurve.Place.CoefficientFieldSection.mk.injEq AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.injEq ModularCurve.Lg37.Lg37CompletionSection.mk.sizeOf_spec AlgebraicCurve.Place.CoefficientFieldSection.mk.sizeOf_spec AlgebraicCurve.Place.poleSubmodule_one"
+p2m_attr_erase "simp" "AlgebraicCurve.Place.mem_poleSubmodule AlgebraicGeometry.Scheme.Modules.toUnitSection_ofUnitSection AlgebraicGeometry.Scheme.Modules.pullbackSection_def AlgebraicGeometry.Scheme.Modules.ofUnitSection_toUnitSection PresheafOfModules.InternalHom.IsSheafAux.appAt_toPresheafHom SheafOfModules.ihomSectionsEquivFamily_unit AlgebraicGeometry.Scheme.Modules.restrictHomEquivFamily_apply SheafOfModules.ihomEval_unit_app AlgebraicGeometry.Scheme.Modules.ihomEval_zero_right AlgebraicGeometry.Scheme.Modules.ihomEval_zero_left AlgebraicGeometry.Scheme.Modules.homOfFamily_app_apply SheafOfModules.unit_ihomSectionsEquivFamily AlgebraicGeometry.Scheme.Modules.familyOfHom_app AlgebraicGeometry.Scheme.Modules.restrictUnitIso_hom_app_apply AlgebraicGeometry.Scheme.Modules.restrictUnitIso_inv_app_apply AlgebraicGeometry.Scheme.Modules.restrictHomOfFamily_app_apply AlgebraicGeometry.Scheme.Modules.restrictHomEquivFamily_symm_apply AlgebraicGeometry.Scheme.Modules.tensorSections_zero_right AlgebraicGeometry.Scheme.Modules.map_unitSection AlgebraicGeometry.Scheme.Modules.tensorSectionsBilin_apply AlgebraicGeometry.Scheme.Modules.tensorPowSection_zero AlgebraicGeometry.Scheme.Modules.tensorSections_zero_left AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_neg AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_zero AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_sub AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_add AlgebraicGeometry.Scheme.OrderedAffineCover.toCoverOf_U AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.injEq AlgebraicGeometry.Scheme.OrderedAffineCover.restrict_U AlgebraicGeometry.OModulePresheaf.Leray.restrictToPreimage_U DoubleComplex.Bounded.mk.injEq DoubleComplex.Bounded.mk.sizeOf_spec DoubleComplex.Convergence.mk.injEq DoubleComplex.Convergence.mk.sizeOf_spec DoubleComplex.SubQuot.mk.sizeOf_spec DoubleComplex.SubQuot.mk.injEq ProjSpaceCech.GradedModule.mk.injEq ProjSpaceCech.GradedModule.mk.sizeOf_spec ProjSpaceCech.GradedModule.Frac.mk.sizeOf_spec"
+p2m_attr_erase "simp" "ProjSpaceCech.GradedModule.Presentation.mk.injEq ProjSpaceCech.GradedModule.Frac.mk.injEq ProjSpaceCech.GradedModule.Presentation.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.shift_toLinearMap ProjSpaceCech.GradedModule.Hom.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.mk.injEq TwoChartCech.Mumford.dK_apply TwoChartCech.Mumford.ι0_apply TwoChartCech.Mumford.ι1_apply TwoChartCech.KerCoprod.dK_apply TwoChartCech.KerCoprod.ι1_apply TwoChartCech.KerCoprod.ι0_apply AlgebraicGeometry.tilde.functorCompPullbackSpecIso_app AlgebraicGeometry.RelPicard.algEquivZeroGroupCut_toSubPicCondition AlgebraicGeometry.RelPicard.LFP.stageHom_val AlgebraicGeometry.RelPicard.BaseChange.relSubPicPresheafRestrictIso_hom_app_coe AlgebraicGeometry.RelPicard.BaseChange.relSubPicPresheafRestrictIso_inv_app_coe AlgebraicGeometry.RelPicard.BaseChange.restrict_P AlgebraicGeometry.RelEffCartierDiv.IsUniversal.lift_comp AlgebraicGeometry.RelEffCartierDiv.functor_map_fst AlgebraicGeometry.RelEffCartierDiv.IsUniversal.homEquiv_apply AlgebraicGeometry.RelEffCartierDiv.IsUniversal.lift_pullbackAlong AlgebraicGeometry.RelEffCartierDiv.IsUniversal.homEquiv_symm_apply AlgebraicGeometry.RelEffCartierDiv.IsUniversal.lift_comp_assoc AlgebraicGeometry.RelEffCartierDiv.supportedIn_top AlgebraicGeometry.RelEffCartierDiv.mem_supportedIn_iff AlgebraicGeometry.RelEffCartierDiv.supportedIn_top_eq AlgebraicGeometry.RelEffCartierDiv.restrictAlong_extendAlong AlgebraicGeometry.RelEffCartierDiv.extendAlong_I AlgebraicGeometry.RelEffCartierDiv.resProdMap_snd AlgebraicGeometry.RelEffCartierDiv.restrictAlong_I AlgebraicGeometry.RelEffCartierDiv.extendAlong_restrictAlong AlgebraicGeometry.RelEffCartierDiv.resProdMap_fst_assoc AlgebraicGeometry.RelEffCartierDiv.resProdMap_snd_assoc AlgebraicGeometry.RelEffCartierDiv.resProdMap_fst CoherentBaseChange.FibreH0Family.mk.sizeOf_spec CoherentBaseChange.FibreH0Family.mk.injEq AlgebraicCurve.CurveModel.coe_gInf AlgebraicCurve.CurveModel.coe_tInvChart AlgebraicCurve.CurveModel.ιInf_gluedToBase_assoc"
+p2m_attr_erase "simp" "AlgebraicCurve.CurveModel.ιInf_gluedToBase AlgebraicCurve.CurveModel.primeOfι₀_asIdeal AlgebraicCurve.CurveModel.coe_tChart AlgebraicCurve.CurveModel.ι₀_gluedToBase_assoc AlgebraicCurve.CurveModel.primeOfιInf_asIdeal AlgebraicCurve.CurveModel.ι₀_gluedToBase AlgebraicCurve.CurveModel.coe_tma AlgebraicCurve.CurveModel.coe_primeEquivChartPlaces AlgebraicGeometry.ProjSpace.twistObj.mk.injEq AlgebraicGeometry.ProjSpace.twistObj.zero_val AlgebraicGeometry.ProjSpace.twistObj.add_val AlgebraicGeometry.ProjSpace.twist_res_val AlgebraicGeometry.ProjSpace.twist_smul_val AlgebraicGeometry.ProjSpace.twistGradeToObj_val AlgebraicGeometry.ProjSpace.twistObj.smul_val AlgebraicGeometry.ProjSpace.twistGradeEquiv_apply_val AlgebraicGeometry.ProjSpace.twistObj.mk.sizeOf_spec AlgebraicGeometry.schemeFibreEndo_snd AlgebraicGeometry.schemeFibreEndo_fst MvFormalGroup.CartierModule.toPowerSeries_sub MvFormalGroup.WittLaw.verFam_zero MvFormalGroup.WittLaw.verFam_succ MvFormalGroup.CartierModule.toPowerSeries_frobenius MvFormalGroup.CartierModule.toPowerSeries_verschiebung MvFormalGroup.WittLaw.blk_apply MvFormalGroup.WittLaw.weight_apply MvFormalGroup.CartierModule.toPowerSeries_map MvFormalGroup.CartierModule.toPowerSeries_precompFun MvFormalGroup.CartierModule.toPowerSeries_mapFun MvFormalGroup.CartierModule.mk.injEq MvFormalGroup.WittLaw.pairFam_apply MvFormalGroup.CartierModule.endAct_apply MvFormalGroup.WittLaw.frobFam_apply MvFormalGroup.CartierModule.toPowerSeries_zero MvFormalGroup.CartierModule.tangent_apply MvFormalGroup.CartierModule.toPowerSeries_precomp MvFormalGroup.CartierModule.Examples.toPowerSeries_addLinear MvFormalGroup.CartierModule.toPowerSeries_add MvFormalGroup.CartierModule.toPowerSeries_neg MvFormalGroup.CartierModule.mk.sizeOf_spec"
+p2m_attr_erase "simp" "MvFormalGroup.CartierModule.inBlk_apply MvFormalGroup.WittLaw.teichFam_apply MvFormalGroup.CartierModule.toPowerSeries_homothety MvFormalGroup.WittLaw.verPoly_succ MvFormalGroup.WittLaw.xVec_coeff MvFormalGroup.WittLaw.cVec_coeff MvFormalGroup.WittLaw.cVec_mul MvFormalGroup.WittLaw.mulFam_apply MvFormalGroup.CartierModule.mapLinear_apply MvFormalGroup.WittLaw.cVec_add MvFormalGroup.WittLaw.cVec_zero MvFormalGroup.WittLaw.verPoly_zero MvFormalGroup.CartierModule.toPowerSeries_wittSMul MvFormalGroup.CartierModule.toPowerSeries_smul_witt MvFormalGroup.WittLaw.cVec_one MvPowerSeries.blockPermEmbed_apply AlgebraicGeometry.Scheme.relFrobenius_snd AlgebraicGeometry.Scheme.frobenius_preimage AlgebraicGeometry.Scheme.relFrobenius_fst AlgebraicGeometry.Scheme.relFrobenius_snd_assoc AlgebraicGeometry.Scheme.relFrobenius_fst_assoc AlgebraicGeometry.powCharRingHom_apply AlgebraicGeometry.Scheme.frobenius_base AlgebraicGeometry.TangentPoints.map_coe AlgebraicGeometry.SquareZero.basePoint_toBase_assoc AlgebraicGeometry.SquareZero.basePoint_toBase AlgebraicGeometry.SquareZero.basePoint_specMap AlgebraicGeometry.SquareZero.basePointOver_coe AlgebraicGeometry.SquareZero.specMap_toBase_assoc AlgebraicGeometry.SquareZero.specMapOver_coe AlgebraicGeometry.RelPicard.TrivialModDeformations.map_coe AlgebraicGeometry.SquareZero.specMap_toBase AlgebraicGeometry.SquareZero.basePoint_specMap_assoc"
+
+set_option autoImplicit false
+
+open scoped TensorProduct Quaternion NumberField
+open CategoryTheory AlgebraicGeometry QuaternionAlgebra IsDedekindDomain CerednikDrinfeld CerednikDrinfeld.QM CerednikDrinfeld.FormalOmega CerednikDrinfeld.SpecialFormal NeronModelInfra GoodReductionJacobian
+
+namespace XEasm
+
+theorem isNilpotent_natCast_of_isNilpotent_algebraMap {r : ℕ} {𝒪 : Type} [CommRing 𝒪] {π : 𝒪}
+    (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π}) {L : Type} [CommRing L] [Algebra 𝒪 L]
+    (hL : IsNilpotent (algebraMap 𝒪 L π)) : IsNilpotent ((r : ℕ) : L) := by
+  have hmem : ((r : ℕ) : 𝒪) ∈ Ideal.span {π} := by rw [← hunr]; exact Ideal.subset_span rfl
+  obtain ⟨u, hu⟩ := Ideal.mem_span_singleton'.1 hmem
+  have : ((r : ℕ) : L) = algebraMap 𝒪 L u * algebraMap 𝒪 L π := by rw [← map_mul, hu, map_natCast]
+  rw [this]
+  exact (Commute.all _ _).isNilpotent_mul_left hL
+
+theorem isNilpotent_algebraMap_of_algHom {𝒪 : Type} [CommRing 𝒪] (π : 𝒪) {B L : Type} [CommRing B] [Algebra 𝒪 B]
+    [CommRing L] [Algebra 𝒪 L] (φ : B →ₐ[𝒪] L) (hB : IsNilpotent (algebraMap 𝒪 B π)) :
+    IsNilpotent (algebraMap 𝒪 L π) := by
+  rw [← φ.commutes π]
+  exact hB.map (φ : B →+* L)
+
+theorem frobTwist_comp {𝒪 : Type} [CommRing 𝒪] (Onr : Type) [CommRing Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr) (k : ℤ)
+    {B L : Type} [CommRing B] [Algebra 𝒪 B] [CommRing L] [Algebra 𝒪 L] (ψ : Onr →ₐ[𝒪] B) (φ : B →ₐ[𝒪] L) :
+    frobTwist Onr Fr k (φ.comp ψ) = φ.comp (frobTwist Onr Fr k ψ) := rfl
+
+theorem span_range_equivFin_symm_eq_top {B : Type} [CommRing B] (s : Finset B) (hs : Ideal.span (s : Set B) = ⊤) :
+    Ideal.span (Set.range (fun i : Fin s.card => ((s.equivFin.symm i : ↥s) : B))) = ⊤ := by
+  have hr : Set.range (fun i : Fin s.card => ((s.equivFin.symm i : ↥s) : B)) = (s : Set B) := by
+    ext b
+    constructor
+    · rintro ⟨i, rfl⟩; exact (s.equivFin.symm i).2
+    · intro hb; exact ⟨s.equivFin ⟨b, hb⟩, by simp⟩
+  rw [hr, hs]
+
+theorem span_range_algHom_apply_eq_top {𝒪 : Type} [CommRing 𝒪] {B L : Type} [CommRing B] [Algebra 𝒪 B] [CommRing L] [Algebra 𝒪 L]
+    (φ : B →ₐ[𝒪] L) {n : ℕ} (f : Fin n → B) (hf : Ideal.span (Set.range f) = ⊤) :
+    Ideal.span (Set.range (fun i => φ (f i))) = ⊤ := by
+  have : Set.range (fun i => φ (f i)) = (φ : B →+* L) '' Set.range f := by
+    ext y; simp [Set.mem_image, Set.mem_range]
+  rw [this, ← Ideal.map_span, hf, Ideal.map_top]
+
+noncomputable def awayR (𝒪 : Type) [CommRing 𝒪] (B : Type) [CommRing B] [Algebra 𝒪 B] (c d : B) :
+    Localization.Away c →ₐ[𝒪] Localization.Away (c * d) where
+  toRingHom := IsLocalization.Away.awayToAwayRight (S := Localization.Away c) c d (P := Localization.Away (c * d))
+  commutes' o := by
+    show IsLocalization.Away.awayToAwayRight (S := Localization.Away c) c d (P := Localization.Away (c * d))
+        (algebraMap 𝒪 (Localization.Away c) o) = algebraMap 𝒪 (Localization.Away (c * d)) o
+    rw [IsScalarTower.algebraMap_apply 𝒪 B (Localization.Away c), IsLocalization.Away.awayToAwayRight_eq,
+      ← IsScalarTower.algebraMap_apply]
+
+noncomputable def awayL (𝒪 : Type) [CommRing 𝒪] (B : Type) [CommRing B] [Algebra 𝒪 B] (c d : B) :
+    Localization.Away d →ₐ[𝒪] Localization.Away (c * d) where
+  toRingHom := IsLocalization.Away.awayToAwayLeft (S := Localization.Away d) d c (P := Localization.Away (c * d))
+  commutes' o := by
+    show IsLocalization.Away.awayToAwayLeft (S := Localization.Away d) d c (P := Localization.Away (c * d))
+        (algebraMap 𝒪 (Localization.Away d) o) = algebraMap 𝒪 (Localization.Away (c * d)) o
+    rw [IsScalarTower.algebraMap_apply 𝒪 B (Localization.Away d), IsLocalization.Away.awayToAwayLeft_eq,
+      ← IsScalarTower.algebraMap_apply]
+
+theorem awayR_apply (𝒪 : Type) [CommRing 𝒪] (B : Type) [CommRing B] [Algebra 𝒪 B] (c d : B) (z : Localization.Away c) :
+    awayR 𝒪 B c d z = IsLocalization.Away.awayToAwayRight (S := Localization.Away c) c d (P := Localization.Away (c * d)) z := rfl
+
+theorem awayL_apply (𝒪 : Type) [CommRing 𝒪] (B : Type) [CommRing B] [Algebra 𝒪 B] (c d : B) (z : Localization.Away d) :
+    awayL 𝒪 B c d z = IsLocalization.Away.awayToAwayLeft (S := Localization.Away d) d c (P := Localization.Away (c * d)) z := rfl
+
+theorem awayR_algebraMap (𝒪 : Type) [CommRing 𝒪] (B : Type) [CommRing B] [Algebra 𝒪 B] (c d : B) (b : B) :
+    awayR 𝒪 B c d (algebraMap B (Localization.Away c) b) = algebraMap B (Localization.Away (c * d)) b :=
+  IsLocalization.Away.awayToAwayRight_eq (S := Localization.Away c) c d (P := Localization.Away (c * d)) b
+
+theorem awayL_algebraMap (𝒪 : Type) [CommRing 𝒪] (B : Type) [CommRing B] [Algebra 𝒪 B] (c d : B) (b : B) :
+    awayL 𝒪 B c d (algebraMap B (Localization.Away d) b) = algebraMap B (Localization.Away (c * d)) b :=
+  IsLocalization.Away.awayToAwayLeft_eq (S := Localization.Away d) d c (P := Localization.Away (c * d)) b
+
+theorem awayR_comp_toAlgHom_eq_awayL_comp_toAlgHom (𝒪 : Type) [CommRing 𝒪] (B : Type) [CommRing B] [Algebra 𝒪 B] (c d : B) :
+    (awayR 𝒪 B c d).comp (IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) =
+      (awayL 𝒪 B c d).comp (IsScalarTower.toAlgHom 𝒪 B (Localization.Away d)) := by
+  apply AlgHom.ext
+  intro b
+  simp only [AlgHom.comp_apply, IsScalarTower.toAlgHom_apply]
+  rw [awayR_algebraMap, awayL_algebraMap]
+
+theorem awayLift_isUnit {𝒪 : Type} [CommRing 𝒪] {B L : Type} [CommRing B] [Algebra 𝒪 B] [CommRing L] [Algebra 𝒪 L]
+    (φ : B →ₐ[𝒪] L) (c : B) : IsUnit (((algebraMap L (Localization.Away (φ c))).comp (φ : B →+* L)) c) := by
+  simpa using IsLocalization.Away.algebraMap_isUnit (S := Localization.Away (φ c)) (φ c)
+
+noncomputable def awayLift (𝒪 : Type) [CommRing 𝒪] {B L : Type} [CommRing B] [Algebra 𝒪 B] [CommRing L] [Algebra 𝒪 L]
+    (φ : B →ₐ[𝒪] L) (c : B) : Localization.Away c →ₐ[𝒪] Localization.Away (φ c) where
+  toRingHom := IsLocalization.Away.lift (S := Localization.Away c) c (awayLift_isUnit φ c)
+  commutes' o := by
+    show IsLocalization.Away.lift (S := Localization.Away c) c (awayLift_isUnit φ c) (algebraMap 𝒪 (Localization.Away c) o) =
+      algebraMap 𝒪 (Localization.Away (φ c)) o
+    rw [IsScalarTower.algebraMap_apply 𝒪 B (Localization.Away c), IsLocalization.Away.lift_eq, RingHom.comp_apply,
+      AlgHom.coe_toRingHom, AlgHom.commutes, ← IsScalarTower.algebraMap_apply]
+
+theorem awayLift_algebraMap (𝒪 : Type) [CommRing 𝒪] {B L : Type} [CommRing B] [Algebra 𝒪 B] [CommRing L] [Algebra 𝒪 L]
+    (φ : B →ₐ[𝒪] L) (c : B) (b : B) :
+    awayLift 𝒪 φ c (algebraMap B (Localization.Away c) b) = algebraMap L (Localization.Away (φ c)) (φ b) := by
+  show IsLocalization.Away.lift (S := Localization.Away c) c (awayLift_isUnit φ c) (algebraMap B (Localization.Away c) b) = _
+  rw [IsLocalization.Away.lift_eq]
+  rfl
+
+theorem awayLift_comp_toAlgHom (𝒪 : Type) [CommRing 𝒪] {B L : Type} [CommRing B] [Algebra 𝒪 B] [CommRing L] [Algebra 𝒪 L]
+    (φ : B →ₐ[𝒪] L) (c : B) :
+    (awayLift 𝒪 φ c).comp (IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) =
+      (IsScalarTower.toAlgHom 𝒪 L (Localization.Away (φ c))).comp φ := by
+  apply AlgHom.ext
+  intro b
+  simp only [AlgHom.comp_apply, IsScalarTower.toAlgHom_apply]
+  exact awayLift_algebraMap 𝒪 φ c b
+
+theorem eq_of_forall_algebraMap_away_eq {B : Type} [CommRing B] {n : ℕ} (f : Fin n → B)
+    (hf : Ideal.span (Set.range f) = ⊤) (b₁ b₂ : B)
+    (hb : ∀ i, algebraMap B (Localization.Away (f i)) b₁ = algebraMap B (Localization.Away (f i)) b₂) : b₁ = b₂ := by
+  classical
+  suffices hs : Module.eqIdeal B b₁ b₂ = ⊤ by
+    simpa [Module.eqIdeal] using (Ideal.eq_top_iff_one _).mp hs
+  by_contra hne
+  obtain ⟨s, hrs, disj⟩ := Ideal.exists_disjoint_powers_of_span_eq_top _ hf _ hne
+  obtain ⟨i, rfl⟩ := hrs
+  obtain ⟨⟨c, n', hn'⟩, hc⟩ :=
+    (IsLocalization.eq_iff_exists (Submonoid.powers (f i)) (Localization.Away (f i))).mp (hb i)
+  refine Set.disjoint_left.mp disj ?_ ⟨n', hn'⟩
+  show c • b₁ = c • b₂
+  simpa [smul_eq_mul] using hc
+
+theorem exists_leg_eq_frobTwist_of_cover {r : ℕ} [Fact r.Prime] {𝒪 : Type} [CommRing 𝒪] (π : 𝒪)
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    {M : ModuliPackage.{0, 0} r Onr} (B : Type) [CommRing B] [Algebra 𝒪 B]
+    (hB : IsNilpotent (algebraMap 𝒪 B π)) (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+    (ψ : Onr →ₐ[𝒪] B) (y : ModuliPackage.GPoint 𝒪 M B) {n : ℕ} (f : Fin n → B) (hf : Ideal.span (Set.range f) = ⊤)
+    (k : Fin n → ℤ)
+    (hk : ∀ i, (y.map (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i)))).ψ =
+      frobTwist Onr Fr (k i) ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))).comp ψ)) :
+    ∃ k₀ : ℤ, y.ψ = frobTwist Onr Fr k₀ ψ := by
+  classical
+
+  by_cases hBtriv : Subsingleton B
+  · exact ⟨0, AlgHom.ext fun o => Subsingleton.elim _ _⟩
+  have hBnt : Nontrivial B := not_subsingleton_iff_nontrivial.mp hBtriv
+
+  have hkψ : ∀ i (o : Onr), algebraMap B (Localization.Away (f i)) (y.ψ o) =
+      algebraMap B (Localization.Away (f i)) (frobTwist Onr Fr (k i) ψ o) := by
+    intro i o
+    have h := congrArg (fun g : Onr →ₐ[𝒪] Localization.Away (f i) => g o) (hk i)
+    simp only [ModuliPackage.GPoint.map_ψ, AlgHom.comp_apply, IsScalarTower.toAlgHom_apply] at h
+    exact h
+
+  have hagree : ∀ i j, Nontrivial (Localization.Away (f i * f j)) → k j = k i := by
+    intro i j hnt
+    haveI := hnt
+    have hL : IsNilpotent (algebraMap 𝒪 (Localization.Away (f i * f j)) π) :=
+      isNilpotent_algebraMap_of_algHom π ((awayR 𝒪 B (f i) (f j)).comp (IsScalarTower.toAlgHom 𝒪 B _)) hB
+    refine CerednikDrinfeld.SpecialFormal.ModuliPackage.GPoint.eq_of_eq_map_of_leg_eq_frobTwist π Onr Fr hOnr_closed hFr
+      ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))).comp ψ) (awayR 𝒪 B (f i) (f j)) hL
+      (y.map (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))))
+      ((y.map (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f j)))).map (awayL 𝒪 B (f i) (f j))) ?_ (k i) (k j) (hk i) ?_
+    · rw [← ModuliPackage.GPoint.map_comp, ← ModuliPackage.GPoint.map_comp,
+        awayR_comp_toAlgHom_eq_awayL_comp_toAlgHom]
+    · rw [ModuliPackage.GPoint.map_ψ, hk j]
+      show (awayL 𝒪 B (f i) (f j)).comp (frobTwist Onr Fr (k j) ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f j))).comp ψ)) =
+        frobTwist Onr Fr (k j) ((awayR 𝒪 B (f i) (f j)).comp ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))).comp ψ))
+      rw [← AlgHom.comp_assoc, awayR_comp_toAlgHom_eq_awayL_comp_toAlgHom]
+      rfl
+
+  obtain ⟨i₀, hi₀⟩ : ∃ i₀, Nontrivial (Localization.Away (f i₀)) := by
+    by_contra hall
+    have h01 : (0 : B) = 1 := eq_of_forall_algebraMap_away_eq f hf 0 1 fun i => by
+      have hni : ¬ Nontrivial (Localization.Away (f i)) := fun h => hall ⟨i, h⟩
+      haveI : Subsingleton (Localization.Away (f i)) := not_nontrivial_iff_subsingleton.mp hni
+      exact Subsingleton.elim _ _
+    exact zero_ne_one h01
+
+  let z : ∀ i, Localization.Away (f i) := fun i => if k i = k i₀ then 1 else 0
+  have hzdef : ∀ i, z i = if k i = k i₀ then 1 else 0 := fun _ => rfl
+  have hz : ∀ i j, IsLocalization.Away.awayToAwayRight (S := Localization.Away (f i)) (f i) (f j)
+        (P := Localization.Away (f i * f j)) (z i) =
+      IsLocalization.Away.awayToAwayLeft (S := Localization.Away (f j)) (f j) (f i)
+        (P := Localization.Away (f i * f j)) (z j) := by
+    intro i j
+    by_cases hnt : Nontrivial (Localization.Away (f i * f j))
+    · have hij : k j = k i := hagree i j hnt
+      rw [hzdef, hzdef, hij]
+      split_ifs <;> simp
+    · haveI : Subsingleton (Localization.Away (f i * f j)) := not_nontrivial_iff_subsingleton.mp hnt
+      exact Subsingleton.elim _ _
+  obtain ⟨e, he, huniq⟩ := Localization.Away.existsUnique_forall_algebraMap_eq_of_span_eq_top f hf z hz
+  have hzz : ∀ i, z i * z i = z i := fun i => by rw [hzdef]; split_ifs <;> simp
+  have hee : IsIdempotentElem e := by
+    show e * e = e
+    exact huniq (e * e) fun i => by rw [map_mul, he i, hzz i]
+  rcases hconn e hee with h0 | h1
+  ·
+    exfalso
+    haveI := hi₀
+    have h10 : z i₀ = 0 := by rw [← he i₀, h0, map_zero]
+    rw [hzdef, if_pos rfl] at h10
+    exact one_ne_zero h10
+  ·
+    refine ⟨k i₀, AlgHom.ext fun o => eq_of_forall_algebraMap_away_eq f hf _ _ fun i => ?_⟩
+    by_cases hnt : Nontrivial (Localization.Away (f i))
+    · haveI := hnt
+      have hki : k i = k i₀ := by
+        by_contra hne
+        have h01 : z i = 1 := by rw [← he i, h1, map_one]
+        rw [hzdef, if_neg hne] at h01
+        exact zero_ne_one h01
+      rw [hkψ i o, hki]
+    · haveI : Subsingleton (Localization.Away (f i)) := not_nontrivial_iff_subsingleton.mp hnt
+      exact Subsingleton.elim _ _
+
+end XEasm
+
+namespace XEasm
+
+def Good {r : ℕ} [Fact r.Prime] {N : ℕ} (𝒪 : Type) [CommRing 𝒪] (π : 𝒪) (Onr : Type) [CommRing Onr] [Algebra 𝒪 Onr]
+    (Fr : Onr ≃ₐ[𝒪] Onr) {a b : ℚ} (Λ : Submodule ℤ ℍ[ℚ, a, b]) (coord : ↥Λ → Zp2 r × Zp2 r)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2)
+    (ι : Zp2 r →+* Onr) (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr)) (M : ModuliPackage.{0, 0} r Onr)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)), Rigidified r Φ B → M.obj B ψ hB)
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr)) (β₀ : Series (Onr ⧸ pIdeal r Onr))
+    (B : Type) [CommRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ)
+    (y : ModuliPackage.GPoint 𝒪 M B) : Prop :=
+  ∀ (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra 𝒪 L] (φ : B →ₐ[𝒪] L)
+    (_hL : IsNilpotent (algebraMap 𝒪 L π)) (hLr : IsNilpotent ((r : ℕ) : L))
+    (x' : FakeEllipticCurve.RigidifiedCurve r π A₀ L (φ.comp ψ))
+    (g : x'.1.A ⟶ x.1.A) (hg : FakeEllipticCurve.IsPullbackVia (φ : B →+* L) x.1 x'.1 g)
+    (_hρ : FakeEllipticCurve.Rigidification.IsPullbackVia φ g hg x.2 x'.2)
+    (X : FormalODModule r L) (θ : RelativeGroupLaw.FormalCoordinates x'.1.f 2) (_hX : x'.1.IsFormalModuleVia coord X θ)
+    (j : ℕ) (t : Rigidified r Φ L) (_hj : j ≤ 1) (_htX : t.X = X)
+    (_htr : FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x'.2 θ j t)
+    (_hadm : t.IsAdmissible ι ((frobTwist Onr Fr (-(j : ℤ)) (φ.comp ψ) : Onr →ₐ[𝒪] L) : Onr →+* L)),
+    y.map φ = ⟨frobTwist Onr Fr (-(j : ℤ)) (φ.comp ψ), hLr,
+      η L ((frobTwist Onr Fr (-(j : ℤ)) (φ.comp ψ) : Onr →ₐ[𝒪] L) : Onr →+* L) hLr t⟩
+
+theorem exists_local
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ) (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π})) (hX₀ : X₀.HasHeight 4)
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (M : ModuliPackage.{0, 0} r Onr) (hM : M.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → M.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = M.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : M.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  M.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀))
+    (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hBπ : IsNilpotent (algebraMap 𝒪 B π))
+    (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (c : B)
+    (hc : (∀ e : Localization.Away c, IsIdempotentElem e → e = 0 ∨ e = 1) ∧
+        (∀ (E' : FakeEllipticCurve Λ N (Localization.Away c)) (g : E'.A ⟶ x.1.A),
+            FakeEllipticCurve.IsPullbackVia (algebraMap B (Localization.Away c)) x.1 E' g →
+            ∃ (X : FormalODModule r (Localization.Away c)) (θ : RelativeGroupLaw.FormalCoordinates E'.f 2),
+              E'.IsFormalModuleVia coord X θ)) :
+    ∃ (x' : FakeEllipticCurve.RigidifiedCurve r π A₀ (Localization.Away c) ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)).comp ψ))
+      (g : x'.1.A ⟶ x.1.A)
+      (hg : FakeEllipticCurve.IsPullbackVia ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) : B →+* Localization.Away c) x.1 x'.1 g)
+      (_ : FakeEllipticCurve.Rigidification.IsPullbackVia (IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) g hg x.2 x'.2)
+      (X : FormalODModule r (Localization.Away c)) (θ : RelativeGroupLaw.FormalCoordinates x'.1.f 2)
+      (_ : x'.1.IsFormalModuleVia coord X θ) (j : ℕ) (t : Rigidified r Φ (Localization.Away c)),
+      j ≤ 1 ∧ t.X = X ∧ FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x'.2 θ j t ∧
+        t.IsAdmissible ι ((frobTwist Onr Fr (-(j : ℤ)) ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)).comp ψ) : Onr →ₐ[𝒪] Localization.Away c) :
+          Onr →+* Localization.Away c) := by
+  classical
+  have hLπ : IsNilpotent (algebraMap 𝒪 (Localization.Away c) π) := isNilpotent_algebraMap_of_algHom π (IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) hBπ
+  have hLr : IsNilpotent ((r : ℕ) : Localization.Away c) := isNilpotent_natCast_of_isNilpotent_algebraMap hunr hLπ
+  obtain ⟨E', g, hgsq, hmul, hact, hlev, -⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.exists_isPullback_levelIff ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) : B →+* Localization.Away c) x.1
+  have hg : FakeEllipticCurve.IsPullbackVia ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) : B →+* Localization.Away c) x.1 E' g := ⟨hgsq, hmul, hact, hlev⟩
+  obtain ⟨ρ', hρ'⟩ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.exists_isPullbackVia_of_isPullbackVia
+    𝒪 π Onr Λ A₀ B (Localization.Away c) (IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)) ψ x.1 E' g hg x.2
+  have hg' : FakeEllipticCurve.IsPullbackVia (algebraMap B (Localization.Away c)) x.1 E' g := by
+    have h := hg
+    rwa [IsScalarTower.coe_toAlgHom] at h
+  obtain ⟨X, θ, hX⟩ := hc.2 E' g hg'
+  obtain ⟨j, t, hj, htX, htr, hadm⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.exists_isRigTransport_isAdmissible_of_isFormalModuleVia
+      hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ (Localization.Away c) ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away c)).comp ψ) hLπ hc.1 hLr E' ρ' X θ hX
+  exact ⟨⟨E', ρ'⟩, g, hg, hρ', X, θ, hX, j, t, hj, htX, htr, hadm⟩
+
+theorem restrict_of_good
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ) (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π})) (hX₀ : X₀.HasHeight 4)
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (M : ModuliPackage.{0, 0} r Onr) (hM : M.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → M.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = M.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : M.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  M.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀))
+    (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hBπ : IsNilpotent (algebraMap 𝒪 B π))
+    (hBr : IsNilpotent ((r : ℕ) : B))
+    (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (y : ModuliPackage.GPoint 𝒪 M B)
+    (hy : Good 𝒪 π Onr Fr Λ coord A₀ θ₀ ι Φ M η κ β₀ B ψ x y)
+    (X : FormalODModule r B) (θ : RelativeGroupLaw.FormalCoordinates x.1.f 2) (hX : x.1.IsFormalModuleVia coord X θ)
+    (j : ℕ) (t : Rigidified r Φ B) (hj : j ≤ 1) (htX : t.X = X)
+    (htr : FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x.2 θ j t)
+    (hadm : t.IsAdmissible ι ((frobTwist Onr Fr (-(j : ℤ)) ψ : Onr →ₐ[𝒪] B) : Onr →+* B))
+    (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra 𝒪 L] (φ : B →ₐ[𝒪] L) (hL : IsNilpotent (algebraMap 𝒪 L π)) :
+    y.map φ = (⟨frobTwist Onr Fr (-(j : ℤ)) ψ, hBr,
+      η B ((frobTwist Onr Fr (-(j : ℤ)) ψ : Onr →ₐ[𝒪] B) : Onr →+* B) hBr t⟩ : ModuliPackage.GPoint 𝒪 M B).map φ := by
+  classical
+  have hLr : IsNilpotent ((r : ℕ) : L) := isNilpotent_natCast_of_isNilpotent_algebraMap hunr hL
+  obtain ⟨E', g, hgsq, hmul, hact, hlev, -⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.exists_isPullback_levelIff (φ : B →+* L) x.1
+  have hg : FakeEllipticCurve.IsPullbackVia (φ : B →+* L) x.1 E' g := ⟨hgsq, hmul, hact, hlev⟩
+  obtain ⟨ρ', hρ'⟩ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.exists_isPullbackVia_of_isPullbackVia
+    𝒪 π Onr Λ A₀ B L φ ψ x.1 E' g hg x.2
+  obtain ⟨θ', hX', hXm, -, htr', hadm', -⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.isRigTransport_map_of_isPullbackVia
+      hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B L φ ψ hBπ hL hBr hLr x ⟨E', ρ'⟩ g hg hρ' X θ hX j t hj htX htr hadm
+  rw [hy L φ hL hLr ⟨E', ρ'⟩ g hg hρ' _ θ' hX' j _ hj hXm htr' hadm']
+  exact CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.gPoint_eq_map_gPoint_of_isPullbackVia_of_isRigTransport
+    hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B L φ ψ hBπ hL hBr hLr x ⟨E', ρ'⟩ g hg hρ' X θ hX j t hj htX htr hadm _ θ' hX' j _ hj hXm htr' hadm'
+
+theorem gp_map_eq_gp_map
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ) (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π})) (hX₀ : X₀.HasHeight 4)
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (M : ModuliPackage.{0, 0} r Onr) (hM : M.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → M.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = M.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : M.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  M.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀))
+    (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hBπ : IsNilpotent (algebraMap 𝒪 B π))
+    (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ)
+    (L₁ L₂ L : Type) [CommRing L₁] [IsNoetherianRing L₁] [Algebra 𝒪 L₁] [CommRing L₂] [IsNoetherianRing L₂] [Algebra 𝒪 L₂]
+    [CommRing L] [IsNoetherianRing L] [Algebra 𝒪 L]
+    (φ₁ : B →ₐ[𝒪] L₁) (φ₂ : B →ₐ[𝒪] L₂) (m₁ : L₁ →ₐ[𝒪] L) (m₂ : L₂ →ₐ[𝒪] L) (hφ : m₁.comp φ₁ = m₂.comp φ₂)
+    (hLr₁ : IsNilpotent ((r : ℕ) : L₁)) (hLr₂ : IsNilpotent ((r : ℕ) : L₂))
+    (x₁ : FakeEllipticCurve.RigidifiedCurve r π A₀ L₁ (φ₁.comp ψ)) (g₁ : x₁.1.A ⟶ x.1.A)
+    (hg₁ : FakeEllipticCurve.IsPullbackVia (φ₁ : B →+* L₁) x.1 x₁.1 g₁)
+    (hρ₁ : FakeEllipticCurve.Rigidification.IsPullbackVia φ₁ g₁ hg₁ x.2 x₁.2)
+    (X₁ : FormalODModule r L₁) (θ₁ : RelativeGroupLaw.FormalCoordinates x₁.1.f 2) (hX₁ : x₁.1.IsFormalModuleVia coord X₁ θ₁)
+    (j₁ : ℕ) (t₁ : Rigidified r Φ L₁) (hj₁ : j₁ ≤ 1) (ht₁X : t₁.X = X₁)
+    (htr₁ : FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x₁.2 θ₁ j₁ t₁)
+    (hadm₁ : t₁.IsAdmissible ι ((frobTwist Onr Fr (-(j₁ : ℤ)) (φ₁.comp ψ) : Onr →ₐ[𝒪] L₁) : Onr →+* L₁))
+    (x₂ : FakeEllipticCurve.RigidifiedCurve r π A₀ L₂ (φ₂.comp ψ)) (g₂ : x₂.1.A ⟶ x.1.A)
+    (hg₂ : FakeEllipticCurve.IsPullbackVia (φ₂ : B →+* L₂) x.1 x₂.1 g₂)
+    (hρ₂ : FakeEllipticCurve.Rigidification.IsPullbackVia φ₂ g₂ hg₂ x.2 x₂.2)
+    (X₂ : FormalODModule r L₂) (θ₂ : RelativeGroupLaw.FormalCoordinates x₂.1.f 2) (hX₂ : x₂.1.IsFormalModuleVia coord X₂ θ₂)
+    (j₂ : ℕ) (t₂ : Rigidified r Φ L₂) (hj₂ : j₂ ≤ 1) (ht₂X : t₂.X = X₂)
+    (htr₂ : FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x₂.2 θ₂ j₂ t₂)
+    (hadm₂ : t₂.IsAdmissible ι ((frobTwist Onr Fr (-(j₂ : ℤ)) (φ₂.comp ψ) : Onr →ₐ[𝒪] L₂) : Onr →+* L₂)) :
+    (⟨frobTwist Onr Fr (-(j₁ : ℤ)) (φ₁.comp ψ), hLr₁,
+        η L₁ ((frobTwist Onr Fr (-(j₁ : ℤ)) (φ₁.comp ψ) : Onr →ₐ[𝒪] L₁) : Onr →+* L₁) hLr₁ t₁⟩ :
+        ModuliPackage.GPoint 𝒪 M L₁).map m₁ =
+      (⟨frobTwist Onr Fr (-(j₂ : ℤ)) (φ₂.comp ψ), hLr₂,
+        η L₂ ((frobTwist Onr Fr (-(j₂ : ℤ)) (φ₂.comp ψ) : Onr →ₐ[𝒪] L₂) : Onr →+* L₂) hLr₂ t₂⟩ :
+        ModuliPackage.GPoint 𝒪 M L₂).map m₂ := by
+  classical
+  have hL₁ : IsNilpotent (algebraMap 𝒪 L₁ π) := isNilpotent_algebraMap_of_algHom π φ₁ hBπ
+  have hL₂ : IsNilpotent (algebraMap 𝒪 L₂ π) := isNilpotent_algebraMap_of_algHom π φ₂ hBπ
+  have hL : IsNilpotent (algebraMap 𝒪 L π) := isNilpotent_algebraMap_of_algHom π m₁ hL₁
+  have hLr : IsNilpotent ((r : ℕ) : L) := isNilpotent_natCast_of_isNilpotent_algebraMap hunr hL
+
+  obtain ⟨E₁, k₁, hk₁sq, hk₁mul, hk₁act, hk₁lev, -⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.exists_isPullback_levelIff (m₁ : L₁ →+* L) x₁.1
+  have hk₁ : FakeEllipticCurve.IsPullbackVia (m₁ : L₁ →+* L) x₁.1 E₁ k₁ := ⟨hk₁sq, hk₁mul, hk₁act, hk₁lev⟩
+  obtain ⟨ρ₁, hρ₁'⟩ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.exists_isPullbackVia_of_isPullbackVia
+    𝒪 π Onr Λ A₀ L₁ L m₁ (φ₁.comp ψ) x₁.1 E₁ k₁ hk₁ x₁.2
+  obtain ⟨θ₁', hX₁', hXm₁, -, htr₁', hadm₁', -⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.isRigTransport_map_of_isPullbackVia
+      hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ L₁ L m₁ (φ₁.comp ψ) hL₁ hL hLr₁ hLr x₁ ⟨E₁, ρ₁⟩ k₁ hk₁ hρ₁' X₁ θ₁ hX₁ j₁ t₁ hj₁ ht₁X htr₁ hadm₁
+  have e₁ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.gPoint_eq_map_gPoint_of_isPullbackVia_of_isRigTransport
+    hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ L₁ L m₁ (φ₁.comp ψ) hL₁ hL hLr₁ hLr x₁ ⟨E₁, ρ₁⟩ k₁ hk₁ hρ₁' X₁ θ₁ hX₁ j₁ t₁ hj₁ ht₁X htr₁ hadm₁
+      _ θ₁' hX₁' j₁ _ hj₁ hXm₁ htr₁' hadm₁'
+  have hgg₁ : FakeEllipticCurve.IsPullbackVia ((m₁.comp φ₁ : B →ₐ[𝒪] L) : B →+* L) x.1 E₁ (k₁ ≫ g₁) :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.IsPullbackVia.comp (φ₁ : B →+* L₁) (m₁ : L₁ →+* L) x.1 x₁.1 E₁ g₁ k₁ hg₁ hk₁
+  have hρρ₁ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.IsPullbackVia.comp
+    φ₁ m₁ g₁ hg₁ k₁ hk₁ hgg₁ x.2 x₁.2 ρ₁ hρ₁ hρ₁'
+
+  obtain ⟨E₂, k₂, hk₂sq, hk₂mul, hk₂act, hk₂lev, -⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.exists_isPullback_levelIff (m₂ : L₂ →+* L) x₂.1
+  have hk₂ : FakeEllipticCurve.IsPullbackVia (m₂ : L₂ →+* L) x₂.1 E₂ k₂ := ⟨hk₂sq, hk₂mul, hk₂act, hk₂lev⟩
+  obtain ⟨ρ₂, hρ₂'⟩ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.exists_isPullbackVia_of_isPullbackVia
+    𝒪 π Onr Λ A₀ L₂ L m₂ (φ₂.comp ψ) x₂.1 E₂ k₂ hk₂ x₂.2
+  obtain ⟨θ₂', hX₂', hXm₂, -, htr₂', hadm₂', -⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.isRigTransport_map_of_isPullbackVia
+      hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ L₂ L m₂ (φ₂.comp ψ) hL₂ hL hLr₂ hLr x₂ ⟨E₂, ρ₂⟩ k₂ hk₂ hρ₂' X₂ θ₂ hX₂ j₂ t₂ hj₂ ht₂X htr₂ hadm₂
+  have e₂ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.gPoint_eq_map_gPoint_of_isPullbackVia_of_isRigTransport
+    hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ L₂ L m₂ (φ₂.comp ψ) hL₂ hL hLr₂ hLr x₂ ⟨E₂, ρ₂⟩ k₂ hk₂ hρ₂' X₂ θ₂ hX₂ j₂ t₂ hj₂ ht₂X htr₂ hadm₂
+      _ θ₂' hX₂' j₂ _ hj₂ hXm₂ htr₂' hadm₂'
+  have hgg₂ : FakeEllipticCurve.IsPullbackVia ((m₂.comp φ₂ : B →ₐ[𝒪] L) : B →+* L) x.1 E₂ (k₂ ≫ g₂) :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.IsPullbackVia.comp (φ₂ : B →+* L₂) (m₂ : L₂ →+* L) x.1 x₂.1 E₂ g₂ k₂ hg₂ hk₂
+  have hρρ₂ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.IsPullbackVia.comp
+    φ₂ m₂ g₂ hg₂ k₂ hk₂ hgg₂ x.2 x₂.2 ρ₂ hρ₂ hρ₂'
+
+  have e := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.gPoint_eq_gPoint_of_isPullbackVia_of_isPullbackVia_of_isRigTransport
+    hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ x L hL hLr (m₁.comp φ₁) (m₂.comp φ₂) hφ
+      ⟨E₁, ρ₁⟩ (k₁ ≫ g₁) hgg₁ hρρ₁ _ θ₁' hX₁' j₁ _ hj₁ hXm₁ htr₁' hadm₁'
+      ⟨E₂, ρ₂⟩ (k₂ ≫ g₂) hgg₂ hρρ₂ _ θ₂' hX₂' j₂ _ hj₂ hXm₂ htr₂' hadm₂'
+  exact e₁.symm.trans (e.trans e₂)
+
+theorem exists_good
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ) (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π})) (hX₀ : X₀.HasHeight 4)
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (M : ModuliPackage.{0, 0} r Onr) (hM : M.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → M.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = M.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : M.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  M.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀))
+    (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hBπ : IsNilpotent (algebraMap 𝒪 B π))
+    (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) :
+    ∃ y : ModuliPackage.GPoint 𝒪 M B, Good 𝒪 π Onr Fr Λ coord A₀ θ₀ ι Φ M η κ β₀ B ψ x y := by
+  classical
+  have hBr : IsNilpotent ((r : ℕ) : B) := isNilpotent_natCast_of_isNilpotent_algebraMap hunr hBπ
+  obtain ⟨s, hs, hcov⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.exists_cover_connected_isPullbackVia_isFormalModuleVia coord hcoord B hBr x.1
+  let f : Fin s.card → B := fun i => ((s.equivFin.symm i : ↥s) : B)
+  have hfmem : ∀ i, f i ∈ s := fun i => (s.equivFin.symm i).2
+  have hf : Ideal.span (Set.range f) = ⊤ := span_range_equivFin_symm_eq_top s hs
+  have hLπ : ∀ i, IsNilpotent (algebraMap 𝒪 (Localization.Away (f i)) π) := fun i =>
+    isNilpotent_algebraMap_of_algHom π (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))) hBπ
+  have hLr : ∀ i, IsNilpotent ((r : ℕ) : Localization.Away (f i)) := fun i =>
+    isNilpotent_natCast_of_isNilpotent_algebraMap hunr (hLπ i)
+  have loc := fun i => exists_local hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x (f i) (hcov (f i) (hfmem i))
+  choose xL gL hgL hρL XL θL hXL jL tL hjL htXL htrL hadmL using loc
+  obtain ⟨y, hy⟩ := CerednikDrinfeld.SpecialFormal.ModuliPackage.GPoint.exists_forall_map_eq_of_span_eq_top hM B hBr
+    s.card f hf (fun i => Localization.Away (f i)) (fun i j => Localization.Away (f i * f j))
+    (fun i j => awayR 𝒪 B (f i) (f j)) (fun i j => awayL 𝒪 B (f i) (f j))
+    (fun i j b => awayR_algebraMap 𝒪 B (f i) (f j) b) (fun i j b => awayL_algebraMap 𝒪 B (f i) (f j) b)
+    (fun i => ⟨frobTwist Onr Fr (-(jL i : ℤ)) ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))).comp ψ), hLr i,
+      η _ ((frobTwist Onr Fr (-(jL i : ℤ)) ((IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))).comp ψ) : Onr →ₐ[𝒪] _) : Onr →+* _) (hLr i) (tL i)⟩)
+    (fun i j => gp_map_eq_gp_map hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x _ _ _ (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))) (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f j)))
+      (awayR 𝒪 B (f i) (f j)) (awayL 𝒪 B (f i) (f j)) (awayR_comp_toAlgHom_eq_awayL_comp_toAlgHom 𝒪 B (f i) (f j))
+      (hLr i) (hLr j)
+      (xL i) (gL i) (hgL i) (hρL i) (XL i) (θL i) (hXL i) (jL i) (tL i) (hjL i) (htXL i) (htrL i) (hadmL i)
+      (xL j) (gL j) (hgL j) (hρL j) (XL j) (θL j) (hXL j) (jL j) (tL j) (hjL j) (htXL j) (htrL j) (hadmL j))
+  refine ⟨y, ?_⟩
+  intro L _ _ _ φ hL hLr' x' g hg hρ X θ hX j t hj htX htr hadm
+  apply CerednikDrinfeld.SpecialFormal.ModuliPackage.GPoint.eq_of_forall_map_eq_of_span_eq_top hM L
+    s.card (fun i => φ (f i)) (span_range_algHom_apply_eq_top φ f hf) (fun i => Localization.Away (φ (f i)))
+  intro i
+  have hLi : IsNilpotent (algebraMap 𝒪 (Localization.Away (φ (f i))) π) :=
+    isNilpotent_algebraMap_of_algHom π (IsScalarTower.toAlgHom 𝒪 L (Localization.Away (φ (f i)))) hL
+  rw [← ModuliPackage.GPoint.map_comp, ← awayLift_comp_toAlgHom 𝒪 φ (f i), ModuliPackage.GPoint.map_comp, hy i]
+  exact gp_map_eq_gp_map hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x _ _ _ (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (f i))) φ
+    (awayLift 𝒪 φ (f i)) (IsScalarTower.toAlgHom 𝒪 L (Localization.Away (φ (f i)))) (awayLift_comp_toAlgHom 𝒪 φ (f i))
+    (hLr i) hLr'
+    (xL i) (gL i) (hgL i) (hρL i) (XL i) (θL i) (hXL i) (jL i) (tL i) (hjL i) (htXL i) (htrL i) (hadmL i)
+    x' g hg hρ X θ hX j t hj htX htr hadm
+
+theorem nat_piece
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ) (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π})) (hX₀ : X₀.HasHeight 4)
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (M : ModuliPackage.{0, 0} r Onr) (hM : M.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → M.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = M.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : M.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  M.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀))
+    (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (B' : Type) [CommRing B'] [IsNoetherianRing B'] [Algebra 𝒪 B']
+    (φ : B →ₐ[𝒪] B') (ψ : Onr →ₐ[𝒪] B) (hBπ : IsNilpotent (algebraMap 𝒪 B π)) (hB'π : IsNilpotent (algebraMap 𝒪 B' π))
+    (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (x' : FakeEllipticCurve.RigidifiedCurve r π A₀ B' (φ.comp ψ))
+    (g : x'.1.A ⟶ x.1.A) (hg : FakeEllipticCurve.IsPullbackVia (φ : B →+* B') x.1 x'.1 g)
+    (hρ : FakeEllipticCurve.Rigidification.IsPullbackVia φ g hg x.2 x'.2)
+    (y : ModuliPackage.GPoint 𝒪 M B) (hy : Good 𝒪 π Onr Fr Λ coord A₀ θ₀ ι Φ M η κ β₀ B ψ x y)
+    (y' : ModuliPackage.GPoint 𝒪 M B') (hy' : Good 𝒪 π Onr Fr Λ coord A₀ θ₀ ι Φ M η κ β₀ B' (φ.comp ψ) x' y')
+    (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra 𝒪 L] (τ : B' →ₐ[𝒪] L) (hL : IsNilpotent (algebraMap 𝒪 L π))
+    (x'' : FakeEllipticCurve.RigidifiedCurve r π A₀ L (τ.comp (φ.comp ψ))) (g' : x''.1.A ⟶ x'.1.A)
+    (hg' : FakeEllipticCurve.IsPullbackVia (τ : B' →+* L) x'.1 x''.1 g')
+    (hρ' : FakeEllipticCurve.Rigidification.IsPullbackVia τ g' hg' x'.2 x''.2)
+    (X : FormalODModule r L) (θ : RelativeGroupLaw.FormalCoordinates x''.1.f 2) (hX : x''.1.IsFormalModuleVia coord X θ)
+    (j : ℕ) (t : Rigidified r Φ L) (hj : j ≤ 1) (htX : t.X = X)
+    (htr : FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x''.2 θ j t)
+    (hadm : t.IsAdmissible ι ((frobTwist Onr Fr (-(j : ℤ)) (τ.comp (φ.comp ψ)) : Onr →ₐ[𝒪] L) : Onr →+* L)) :
+    y'.map τ = (y.map φ).map τ := by
+  have hLr : IsNilpotent ((r : ℕ) : L) := isNilpotent_natCast_of_isNilpotent_algebraMap hunr hL
+  have hce : ((τ.comp φ : B →ₐ[𝒪] L) : B →+* L) = (τ : B' →+* L).comp (φ : B →+* B') := rfl
+  have hgg : FakeEllipticCurve.IsPullbackVia ((τ.comp φ : B →ₐ[𝒪] L) : B →+* L) x.1 x''.1 (g' ≫ g) := by
+    rw [hce]
+    exact CerednikDrinfeld.QM.FakeEllipticCurve.IsPullbackVia.comp (φ : B →+* B') (τ : B' →+* L) x.1 x'.1 x''.1 g g' hg hg'
+  have hρρ := CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.IsPullbackVia.comp
+    φ τ g hg g' hg' hgg x.2 x'.2 x''.2 hρ hρ'
+  rw [← ModuliPackage.GPoint.map_comp, hy' L τ hL hLr x'' g' hg' hρ' X θ hX j t hj htX htr hadm]
+  exact (hy L (τ.comp φ) hL hLr ⟨x''.1, x''.2⟩ (g' ≫ g) hgg hρρ X θ hX j t hj htX htr hadm).symm
+
+theorem leg_piece
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ) (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π})) (hX₀ : X₀.HasHeight 4)
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (M : ModuliPackage.{0, 0} r Onr) (hM : M.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → M.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = M.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : M.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  M.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀))
+    (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hBπ : IsNilpotent (algebraMap 𝒪 B π))
+    (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ)
+    (y : ModuliPackage.GPoint 𝒪 M B) (hy : Good 𝒪 π Onr Fr Λ coord A₀ θ₀ ι Φ M η κ β₀ B ψ x y)
+    (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra 𝒪 L] (τ : B →ₐ[𝒪] L) (hL : IsNilpotent (algebraMap 𝒪 L π))
+    (x' : FakeEllipticCurve.RigidifiedCurve r π A₀ L (τ.comp ψ)) (g : x'.1.A ⟶ x.1.A)
+    (hg : FakeEllipticCurve.IsPullbackVia (τ : B →+* L) x.1 x'.1 g)
+    (hρ : FakeEllipticCurve.Rigidification.IsPullbackVia τ g hg x.2 x'.2)
+    (X : FormalODModule r L) (θ : RelativeGroupLaw.FormalCoordinates x'.1.f 2) (hX : x'.1.IsFormalModuleVia coord X θ)
+    (j : ℕ) (t : Rigidified r Φ L) (hj : j ≤ 1) (htX : t.X = X)
+    (htr : FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x'.2 θ j t)
+    (hadm : t.IsAdmissible ι ((frobTwist Onr Fr (-(j : ℤ)) (τ.comp ψ) : Onr →ₐ[𝒪] L) : Onr →+* L)) :
+    (y.map τ).ψ = frobTwist Onr Fr (-(j : ℤ)) (τ.comp ψ) := by
+  have hLr : IsNilpotent ((r : ℕ) : L) := isNilpotent_natCast_of_isNilpotent_algebraMap hunr hL
+  rw [hy L τ hL hLr x' g hg hρ X θ hX j t hj htX htr hadm]
+
+end XEasm
+
+set_option maxHeartbeats 3200000 in
+theorem solution
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ) (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π})) (hX₀ : X₀.HasHeight 4)
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (M : ModuliPackage.{0, 0} r Onr) (hM : M.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → M.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = M.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : M.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  M.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀)) :
+    ∃ Ξ : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B),
+        IsNilpotent (algebraMap 𝒪 B π) → FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ → ModuliPackage.GPoint 𝒪 M B,
+
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+          (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ), ∃ k : ℤ, (Ξ B ψ hB x).ψ = frobTwist Onr Fr k ψ) ∧
+
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (B' : Type) [CommRing B'] [IsNoetherianRing B'] [Algebra 𝒪 B']
+          (φ : B →ₐ[𝒪] B') (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π)) (hB' : IsNilpotent (algebraMap 𝒪 B' π))
+          (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (x' : FakeEllipticCurve.RigidifiedCurve r π A₀ B' (φ.comp ψ))
+          (g : x'.1.A ⟶ x.1.A) (hg : FakeEllipticCurve.IsPullbackVia (φ : B →+* B') x.1 x'.1 g),
+          FakeEllipticCurve.Rigidification.IsPullbackVia φ g hg x.2 x'.2 → Ξ B' (φ.comp ψ) hB' x' = (Ξ B ψ hB x).map φ) ∧
+
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+          (hBr : IsNilpotent ((r : ℕ) : B))
+          (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (X : FormalODModule r B) (θ : RelativeGroupLaw.FormalCoordinates x.1.f 2),
+          x.1.IsFormalModuleVia coord X θ →
+          ∃ (j : ℕ) (t : Rigidified r Φ B), j ≤ 1 ∧ t.X = X ∧
+            FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x.2 θ j t ∧
+            t.IsAdmissible ι ((frobTwist Onr Fr (-(j : ℤ)) ψ : Onr →ₐ[𝒪] B) : Onr →+* B) ∧
+            Ξ B ψ hB x = ⟨frobTwist Onr Fr (-(j : ℤ)) ψ, hBr, η B ((frobTwist Onr Fr (-(j : ℤ)) ψ : Onr →ₐ[𝒪] B) : Onr →+* B) hBr t⟩) := by
+  classical
+  refine ⟨fun B _ _ _ ψ hBπ x => (XEasm.exists_good hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x).choose, ?_, ?_, ?_⟩
+  ·
+    intro B _ _ _ ψ hBπ hconn x
+    dsimp only
+    have hy := (XEasm.exists_good hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x).choose_spec
+    have hBr : IsNilpotent ((r : ℕ) : B) := XEasm.isNilpotent_natCast_of_isNilpotent_algebraMap hunr hBπ
+    obtain ⟨s, hs, hcov⟩ :=
+      CerednikDrinfeld.QM.FakeEllipticCurve.exists_cover_connected_isPullbackVia_isFormalModuleVia coord hcoord B hBr x.1
+    have hf := XEasm.span_range_equivFin_symm_eq_top s hs
+    have loc := fun i : Fin s.card => XEasm.exists_local hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x ((s.equivFin.symm i : ↥s) : B)
+      (hcov _ (s.equivFin.symm i).2)
+    choose xL gL hgL hρL XL θL hXL jL tL hjL htXL htrL hadmL using loc
+    exact XEasm.exists_leg_eq_frobTwist_of_cover π Onr Fr hOnr_closed hFr B hBπ hconn ψ _
+      (fun i : Fin s.card => ((s.equivFin.symm i : ↥s) : B)) hf (fun i => -(jL i : ℤ))
+      (fun i => XEasm.leg_piece hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x _ hy _ _
+        (XEasm.isNilpotent_algebraMap_of_algHom π (IsScalarTower.toAlgHom 𝒪 B (Localization.Away ((s.equivFin.symm i : ↥s) : B))) hBπ)
+        (xL i) (gL i) (hgL i) (hρL i) (XL i) (θL i) (hXL i) (jL i) (tL i) (hjL i) (htXL i) (htrL i) (hadmL i))
+  ·
+    intro B _ _ _ B' _ _ _ φ ψ hBπ hB'π x x' g hg hρ
+    dsimp only
+    have hy := (XEasm.exists_good hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x).choose_spec
+    have hy' := (XEasm.exists_good hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B' (φ.comp ψ) hB'π x').choose_spec
+    have hBr' : IsNilpotent ((r : ℕ) : B') := XEasm.isNilpotent_natCast_of_isNilpotent_algebraMap hunr hB'π
+    obtain ⟨s, hs, hcov⟩ :=
+      CerednikDrinfeld.QM.FakeEllipticCurve.exists_cover_connected_isPullbackVia_isFormalModuleVia coord hcoord B' hBr' x'.1
+    have hf := XEasm.span_range_equivFin_symm_eq_top s hs
+    apply CerednikDrinfeld.SpecialFormal.ModuliPackage.GPoint.eq_of_forall_map_eq_of_span_eq_top hM B'
+      s.card (fun i : Fin s.card => ((s.equivFin.symm i : ↥s) : B')) hf
+      (fun i => Localization.Away ((s.equivFin.symm i : ↥s) : B'))
+    intro i
+    obtain ⟨x'', g', hg', hρ', X, θ, hX, j, t, hj, htX, htr, hadm⟩ :=
+      XEasm.exists_local hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B' (φ.comp ψ) hB'π x' ((s.equivFin.symm i : ↥s) : B') (hcov _ (s.equivFin.symm i).2)
+    exact XEasm.nat_piece hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B B' φ ψ hBπ hB'π x x' g hg hρ _ hy _ hy' _ _
+      (XEasm.isNilpotent_algebraMap_of_algHom π (IsScalarTower.toAlgHom 𝒪 B' (Localization.Away ((s.equivFin.symm i : ↥s) : B'))) hB'π)
+      x'' g' hg' hρ' X θ hX j t hj htX htr hadm
+  ·
+    intro B _ _ _ ψ hBπ hconn hBr x X θ hX
+    dsimp only
+    have hy := (XEasm.exists_good hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ x).choose_spec
+    obtain ⟨j, t, hj, htX, htr, hadm⟩ :=
+      CerednikDrinfeld.QM.FakeEllipticCurve.Rigidification.exists_isRigTransport_isAdmissible_of_isFormalModuleVia
+        hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ hconn hBr x.1 x.2 X θ hX
+    refine ⟨j, t, hj, htX, htr, hadm, ?_⟩
+    apply CerednikDrinfeld.SpecialFormal.ModuliPackage.GPoint.eq_of_forall_map_eq_of_span_eq_top hM B
+      1 (fun _ => (1 : B)) (by simp) (fun _ => Localization.Away (1 : B))
+    intro i
+    exact XEasm.restrict_of_good hrr hrN 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr hB Λ hΛ hΛℤ coord hcoord A₀ X₀ hX₀ θ₀ hA₀ ι Φ hΦ hΦ4 M hM η hη E₀ hE₀ κ hκ n₀ β₀ hβ₀ B ψ hBπ hBr x _ hy X θ hX j t hj htX htr hadm _ (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (1 : B)))
+      (XEasm.isNilpotent_algebraMap_of_algHom π (IsScalarTower.toAlgHom 𝒪 B (Localization.Away (1 : B))) hBπ)
+
+end S_CerednikDrinfeld_QM_FakeEllipticCurve_exists_rigidifiedToG_natural_isRigTransport_of_cover
+end P2MW
+export P2MW.S_CerednikDrinfeld_QM_FakeEllipticCurve_exists_rigidifiedToG_natural_isRigTransport_of_cover (solution)

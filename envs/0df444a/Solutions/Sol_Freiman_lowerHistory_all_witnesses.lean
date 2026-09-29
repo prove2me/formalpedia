@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for Freiman.lowerHistory_all_witnesses
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-09-09T13:06:50.331759+00:00
+-- url     : https://prove2.me/submissions/114e7b06-492b-4e22-ac36-9d5fc178fa95
+
+import Definitions.Def_Freiman_lowerHistoryVerification
+import Mathlib.Tactic
+import Theorems.Thm_Freiman_lowerHistory_join_witnesses
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0000_0100
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0100_0200
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0200_0300
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0300_0400
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0400_0500
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0500_0600
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0600_0700
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0700_0800
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0800_0900
+import Theorems.Thm_Freiman_lowerHistory_witnesses_0900_1000
+import Theorems.Thm_Freiman_lowerHistory_witnesses_1000_1100
+import Theorems.Thm_Freiman_lowerHistory_witnesses_1100_1194
+import Theorems.Thm_Freiman_lowerHistory_inventory_sizes
+
+open Freiman
+
+theorem solution :
+    lowerHistoryAllWitnesses := by
+  exact lowerHistory_join_witnesses lowerHistory_inventory_sizes lowerHistory_witnesses_0000_0100 lowerHistory_witnesses_0100_0200 lowerHistory_witnesses_0200_0300 lowerHistory_witnesses_0300_0400 lowerHistory_witnesses_0400_0500 lowerHistory_witnesses_0500_0600 lowerHistory_witnesses_0600_0700 lowerHistory_witnesses_0700_0800 lowerHistory_witnesses_0800_0900 lowerHistory_witnesses_0900_1000 lowerHistory_witnesses_1000_1100 lowerHistory_witnesses_1100_1194

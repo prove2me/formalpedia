@@ -1,0 +1,20 @@
+-- Prove2me | Theorems.Thm_mme_released_global_owner4_mode1_compatibility_interior_mass_row5
+-- name    : mme_released_global_owner4_mode1_compatibility_interior_mass_row5
+-- status  : Proved
+-- author  : @Robertboy18
+-- created : 2026-09-24T02:56:46.764987+00:00
+-- url     : https://prove2.me/theorems/3ae703cd-9fc5-470d-a3c0-a6b939d43c92
+-- title:
+--   owner4 mode1 compatibility interior mass row5
+-- statement:
+--   For owner 4, mode 1, and coordinate pool 5, the stated integer table divided by 10^60 equals the sum of the released joint atom masses of each word in the indicated cells. Compatibility interior rows exclude the exact boundary predicate displayed in the statement.
+-- source:
+--   Exact released rational CW profile and joint atom counts.
+
+import Definitions.Def_mme_released_global_profile_data
+open scoped BigOperators
+open MME MME.ReleasedGlobal MME.MoreAsymmetryExactSeed
+
+theorem mme_released_global_owner4_mode1_compatibility_interior_mass_row5 : ∀ w : Word,
+    ((([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 114132250111362740819604726831649000000000000000000000000, 0, 0, 0, 0, 0, 136417170414687100165998316293810412614737330000000000000, 0, 136417170424192309299998316293810412614737330000000000000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 114132250063836695149604726831649000000000000000000000000, 0, 0, 0, 0, 0, 5663535598935552399583419086589365174770525340000000000000, 0, 5663535599101893559428419086589365174770525340000000000000, 0, 0, 0, 136417171876206102599585824698797620581433767000000000000, 0, 5663535276509853466318543907333096758837132466000000000000, 0, 136417171880958707166585824698797620581433767000000000000, 0, 0, 0, 0, 0, 0, 0, 136417170424192309299998316293810412614737330000000000000, 0, 136417170424192309299998316293810412614737330000000000000, 0, 0, 0, 136417171880958707166585824698797620581433767000000000000, 0, 5663535274974762191177543907333096758837132466000000000000, 0, 136417171876206102599585824698797620581433767000000000000, 0, 0, 0, 114132917055325254529263997260673000000000000000000000000, 0, 114132917045820045395263997260673000000000000000000000000, 0, 0, 0, 0, 0] : List ℕ).getD (27 * (w 0).val + 9 * (w 1).val + 3 * (w 2).val + (w 3).val) 0 : ℕ) : ℚ) / 1000000000000000000000000000000000000000000000000000000000000 =
+    ∑ s : Fin 45, if ¬ (((shape s).val 2).val = 0) ∧ (shape s).val 1 = 5 then ((alpha 4 s * ((jointRows 4 s).map (fun a => if atom a.1 1 = w then a.2 else 0)).sum : ℕ) : ℚ) / (denominator : ℚ) ^ 5 else 0 := by sorry

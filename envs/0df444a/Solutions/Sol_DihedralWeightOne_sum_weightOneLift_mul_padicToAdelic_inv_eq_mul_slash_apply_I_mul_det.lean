@@ -1,0 +1,942 @@
+-- Prove2me | solution 1 for DihedralWeightOne.sum_weightOneLift_mul_padicToAdelic_inv_eq_mul_slash_apply_I_mul_det
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:06.805612+00:00
+-- url     : https://prove2.me/submissions/477f5bce-3080-542c-babc-18c1e7b134f5
+
+import Mathlib
+import Definitions.Def_AutomorphicForm_DihedralWeightOneLift
+import Definitions.Def_CuspForm_PrimitiveFormGamma1
+import Definitions.Def_LocalNewvector_AdelicSpanCarrier
+import Definitions.Def_AdelicDock_LocalEmbedding
+import Definitions.Def_ModularForm_HeckeOperator
+import Theorems.Thm_DihedralWeightOne_weightOneLift_globalPoints_mul_and_mul_finEmbed_and_eq_weightOneArchLift
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_DihedralWeightOne_sum_weightOneLift_mul_padicToAdelic_inv_eq_mul_slash_apply_I_mul_det
+
+set_option autoImplicit false
+
+namespace HC1Proof
+
+open NumberField AdelicDock IsDedekindDomain
+
+namespace HeckeCosets
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+private noncomputable def repZ (i : Fin (p + 1)) : Matrix (Fin 2) (Fin 2) ℤ_[p] :=
+  if (i : ℕ) < p then !![1, ((i : ℕ) : ℤ_[p]); 0, (p : ℤ_[p])] else !![(p : ℤ_[p]), 0; 0, 1]
+
+private theorem det_repZ (i : Fin (p + 1)) : (repZ p i).det = (p : ℤ_[p]) := by
+  unfold repZ
+  split_ifs <;> simp [Matrix.det_fin_two_of]
+
+end HeckeCosets
+
+namespace DescentEngine
+
+open NumberField AdelicDock HeckeCosets
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+private noncomputable def ρQ (i : Fin (p + 1)) : GL (Fin 2) ℚ_[p] :=
+  Matrix.GeneralLinearGroup.mkOfDetNeZero ((repZ p i).map (algebraMap ℤ_[p] ℚ_[p])) (by
+    rw [show (repZ p i).map (algebraMap ℤ_[p] ℚ_[p]) = (algebraMap ℤ_[p] ℚ_[p]).mapMatrix (repZ p i) from rfl,
+      ← RingHom.map_det, det_repZ, map_natCast]
+    exact_mod_cast hp.out.ne_zero)
+
+private theorem coe_ρQ (i : Fin (p + 1)) :
+    ((ρQ p i : GL (Fin 2) ℚ_[p]) : Matrix (Fin 2) (Fin 2) ℚ_[p]) = (repZ p i).map (algebraMap ℤ_[p] ℚ_[p]) := rfl
+
+private noncomputable def ρA (i : Fin (p + 1)) : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ) :=
+  padicToFinAdelic p (ρQ p i)
+
+end DescentEngine
+
+namespace DescentEngine
+
+open NumberField AdelicDock AutomorphicForm IsDedekindDomain IsDedekindDomain.HeightOneSpectrum
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+private def repMat (i : Fin (p + 1)) : Matrix (Fin 2) (Fin 2) ℤ :=
+  if (i : ℕ) < p then !![1, ((i : ℕ) : ℤ); 0, (p : ℤ)] else !![(p : ℤ), 0; 0, 1]
+
+omit hp in
+private theorem det_repMat (i : Fin (p + 1)) : (repMat p i).det = (p : ℤ) := by
+  unfold repMat; split_ifs <;> simp [Matrix.det_fin_two_of]
+
+omit hp in
+private theorem repMat_lowerLeft (i : Fin (p + 1)) : repMat p i 1 0 = 0 := by
+  unfold repMat; split_ifs <;> rfl
+
+private theorem repZ_eq_map (i : Fin (p + 1)) :
+    HeckeCosets.repZ p i = (repMat p i).map (Int.castRingHom ℤ_[p]) := by
+  unfold HeckeCosets.repZ repMat
+  split_ifs <;> ext a b <;> fin_cases a <;> fin_cases b <;> simp
+
+private theorem coe_ρQ_eq_map (i : Fin (p + 1)) :
+    ((ρQ p i : GL (Fin 2) ℚ_[p]) : Matrix (Fin 2) (Fin 2) ℚ_[p])
+      = (repMat p i).map (Int.castRingHom ℚ_[p]) := by
+  rw [coe_ρQ, repZ_eq_map, Matrix.map_map]
+  congr 1
+
+private noncomputable def repQ (i : Fin (p + 1)) : GL (Fin 2) ℚ :=
+  Matrix.GeneralLinearGroup.mkOfDetNeZero ((repMat p i).map (Int.castRingHom ℚ)) (by
+    rw [show (repMat p i).map (Int.castRingHom ℚ) = (Int.castRingHom ℚ).mapMatrix (repMat p i) from rfl,
+      ← RingHom.map_det, det_repMat, map_natCast]
+    exact_mod_cast hp.out.ne_zero)
+
+private theorem coe_repQ (i : Fin (p + 1)) :
+    ((repQ p i : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) = (repMat p i).map (Int.castRingHom ℚ) := rfl
+
+private theorem map_repQ_eq_heckeMatrix {i : Fin (p + 1)} (hi : (i : ℕ) < p) :
+    Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (repQ p i) = ModularForm.heckeMatrix p (i : ℕ) := by
+  refine Units.ext ?_
+  rw [ModularForm.val_heckeMatrix hp.out.ne_zero]
+  ext a b
+  rw [Matrix.GeneralLinearGroup.map_apply, coe_repQ, repMat, if_pos hi]
+  fin_cases a <;> fin_cases b <;> simp
+
+private theorem map_repQ_last_eq_heckeDiagMatrix :
+    Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (repQ p (Fin.last p)) = ModularForm.heckeDiagMatrix p := by
+  refine Units.ext ?_
+  rw [ModularForm.val_heckeDiagMatrix hp.out.ne_zero]
+  ext a b
+  rw [Matrix.GeneralLinearGroup.map_apply, coe_repQ, repMat, if_neg (by simp)]
+  fin_cases a <;> fin_cases b <;> simp
+
+private theorem finComponent_glFin_globalPoints_repQ (i : Fin (p + 1)) :
+    AdelicLevel.finComponent (𝓞 ℚ) ℚ (padicPlace p)
+        (AdelicLevel.glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (repQ p i)))
+      = padicGL p (ρQ p i) := by
+  refine Matrix.GeneralLinearGroup.ext fun a b => ?_
+  rw [AdelicLevel.finComponent_apply, padicGL_apply, coe_ρQ_eq_map, Matrix.map_apply, eq_intCast, map_intCast]
+  change (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) ((repQ p i : Matrix (Fin 2) (Fin 2) ℚ) a b)) (padicPlace p) = _
+  rw [coe_repQ, Matrix.map_apply]
+  change ((algebraMap ℚ ((padicPlace p).adicCompletion ℚ)).comp (Int.castRingHom ℚ)) (repMat p i a b) = _
+  rw [eq_intCast]
+
+private theorem algebraMap_mem_adicCompletionIntegers_of_den {v : HeightOneSpectrum (𝓞 ℚ)}
+    (hv : v ≠ padicPlace p) {x : ℚ} (hx : x.den = 1 ∨ x.den = p) :
+    (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) x) v ∈ v.adicCompletionIntegers ℚ := by
+  have hden : (x.den : 𝓞 ℚ) ∉ v.asIdeal := by
+    intro hmem
+    have hgen : Rat.HeightOneSpectrum.natGenerator v ∣ x.den := by
+      rw [Rat.HeightOneSpectrum.natGenerator_dvd_iff]
+      have h__af := (Ideal.mem_map_of_mem (Rat.IsIntegralClosure.intEquiv (𝓞 ℚ) : 𝓞 ℚ →+* ℤ) hmem)
+      simp at h__af
+      exact h__af
+    rcases hx with h1 | hpd
+    · rw [h1, Nat.dvd_one] at hgen
+      exact (Rat.HeightOneSpectrum.prime_natGenerator v).one_lt.ne' hgen
+    · rw [hpd] at hgen
+      have heq : Rat.HeightOneSpectrum.natGenerator v = p :=
+        (Nat.prime_dvd_prime_iff_eq (Rat.HeightOneSpectrum.prime_natGenerator v) hp.out).mp hgen
+      apply hv
+      unfold padicPlace
+      rw [Equiv.eq_symm_apply]
+      exact Subtype.ext heq
+  have h := IsDedekindDomain.HeightOneSpectrum.valuedAdicCompletion_eq_valuation' (K := ℚ) v x
+  have h' : Valued.v ((algebraMap ℚ (v.adicCompletion ℚ)) x) = v.valuation ℚ x := by
+    convert h using 2
+    rfl
+  rw [mem_adicCompletionIntegers]
+  change Valued.v ((algebraMap ℚ (v.adicCompletion ℚ)) x) ≤ 1
+  rw [h']
+  exact Rat.valuation_le_one_iff_den.mpr hden
+
+end DescentEngine
+
+namespace DescentEngine
+
+open NumberField NumberField.AdelicLevel AdelicDock AutomorphicForm IsDedekindDomain
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+section GlobalPointsLemmas
+
+private theorem isReal_rat_infinitePlace (v : InfinitePlace ℚ) : v.IsReal := IsTotallyReal.isReal v
+
+private noncomputable def ratArchHom : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ) →* GL (Fin 2) ℝ :=
+  (Matrix.GeneralLinearGroup.map
+    (InfinitePlace.Completion.ringEquivRealOfIsReal (isReal_rat_infinitePlace default)).toRingHom).comp
+    ((archComponent ℚ default).comp (glArch (𝓞 ℚ) ℚ))
+
+private theorem ratArchHom_apply (g : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)) :
+    ratArchHom g = LanglandsTunnell.ratArchGL2 g := rfl
+
+private theorem ratArch_mul (g g' : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)) :
+    LanglandsTunnell.ratArchGL2 (g * g')
+      = LanglandsTunnell.ratArchGL2 g * LanglandsTunnell.ratArchGL2 g' := by
+  rw [← ratArchHom_apply, ← ratArchHom_apply, ← ratArchHom_apply, map_mul]
+
+private theorem ratArch_inv (g : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)) :
+    LanglandsTunnell.ratArchGL2 g⁻¹ = (LanglandsTunnell.ratArchGL2 g)⁻¹ := by
+  rw [← ratArchHom_apply, ← ratArchHom_apply, map_inv]
+
+private theorem ratArch_eq_one_of_glArch_eq_one {u : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)} (hu : glArch (𝓞 ℚ) ℚ u = 1) :
+    LanglandsTunnell.ratArchGL2 u = 1 := by
+  unfold LanglandsTunnell.ratArchGL2
+  rw [hu, map_one, map_one]
+
+private theorem ratArch_finEmbed (u : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) :
+    LanglandsTunnell.ratArchGL2 (finEmbed (𝓞 ℚ) ℚ u) = 1 :=
+  ratArch_eq_one_of_glArch_eq_one (glArch_finEmbed (𝓞 ℚ) ℚ u)
+
+private theorem ratArch_globalPoints (γ : GL (Fin 2) ℚ) :
+    LanglandsTunnell.ratArchGL2 (globalPoints (𝓞 ℚ) ℚ γ) = Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) γ := by
+  refine Matrix.GeneralLinearGroup.ext fun i j => ?_
+  change ((InfinitePlace.Completion.ringEquivRealOfIsReal (isReal_rat_infinitePlace default)).toRingHom.comp
+      ((archEval ℚ default).comp ((adeleArch (𝓞 ℚ) ℚ).comp (algebraMap ℚ (AdeleRing (𝓞 ℚ) ℚ)))))
+      ((γ : Matrix (Fin 2) (Fin 2) ℚ) i j) = (Rat.castHom ℝ) ((γ : Matrix (Fin 2) (Fin 2) ℚ) i j)
+  rw [eq_ratCast, eq_ratCast]
+
+private theorem glFin_globalPoints_apply (γ : GL (Fin 2) ℚ) (i j : Fin 2) :
+    (glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ γ) : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) i j
+      = algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) ((γ : Matrix (Fin 2) (Fin 2) ℚ) i j) := rfl
+
+end GlobalPointsLemmas
+
+private theorem gl_ext_of_arch_fin {x y : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)}
+    (h₁ : glArch (𝓞 ℚ) ℚ x = glArch (𝓞 ℚ) ℚ y) (h₂ : glFin (𝓞 ℚ) ℚ x = glFin (𝓞 ℚ) ℚ y) : x = y := by
+  refine Units.ext (Matrix.ext fun a b => Prod.ext ?_ ?_)
+  · exact congrArg (fun g : GL (Fin 2) (InfiniteAdeleRing ℚ) => (g : Matrix (Fin 2) (Fin 2) (InfiniteAdeleRing ℚ)) a b) h₁
+  · exact congrArg
+      (fun g : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ) => (g : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) a b) h₂
+
+private theorem finEmbed_mul_comm_of_glFin_eq_one {h : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)} (hh : glFin (𝓞 ℚ) ℚ h = 1)
+    (u : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) :
+    finEmbed (𝓞 ℚ) ℚ u * h = h * finEmbed (𝓞 ℚ) ℚ u := by
+  refine gl_ext_of_arch_fin ?_ ?_
+  · rw [map_mul, map_mul, glArch_finEmbed, one_mul, mul_one]
+  · rw [map_mul, map_mul, glFin_finEmbed, hh, one_mul, mul_one]
+
+private noncomputable def archPart (γ : GL (Fin 2) ℚ) : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ) :=
+  globalPoints (𝓞 ℚ) ℚ γ * (finEmbed (𝓞 ℚ) ℚ (glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ γ)))⁻¹
+
+private theorem glFin_archPart (γ : GL (Fin 2) ℚ) : glFin (𝓞 ℚ) ℚ (archPart γ) = 1 := by
+  rw [archPart, map_mul, map_inv, glFin_finEmbed, mul_inv_cancel]
+
+private theorem ratArch_archPart (γ : GL (Fin 2) ℚ) :
+    LanglandsTunnell.ratArchGL2 (archPart γ) = Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) γ := by
+  rw [archPart, ratArch_mul, ratArch_inv, ratArch_finEmbed, inv_one, mul_one, ratArch_globalPoints]
+
+private theorem globalPoints_eq_archPart_mul (γ : GL (Fin 2) ℚ) :
+    globalPoints (𝓞 ℚ) ℚ γ = archPart γ * finEmbed (𝓞 ℚ) ℚ (glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ γ)) := by
+  rw [archPart, inv_mul_cancel_right]
+
+end DescentEngine
+
+namespace DescentEngine
+
+open NumberField NumberField.AdelicLevel AdelicDock AutomorphicForm IsDedekindDomain
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+private noncomputable def repInvMat (i : Fin (p + 1)) : Matrix (Fin 2) (Fin 2) ℚ :=
+  if (i : ℕ) < p then !![1, ((-((i : ℕ) : ℤ) : ℤ) : ℚ) / (p : ℚ); 0, ((1 : ℤ) : ℚ) / (p : ℚ)]
+  else !![((1 : ℤ) : ℚ) / (p : ℚ), 0; 0, 1]
+
+private theorem coe_repQ_mul_repInvMat (i : Fin (p + 1)) :
+    ((repQ p i : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) * repInvMat p i = 1 := by
+  have hp0 : (p : ℚ) ≠ 0 := by exact_mod_cast hp.out.ne_zero
+  rw [coe_repQ]
+  unfold repMat repInvMat
+  split_ifs <;> ext a b <;> fin_cases a <;> fin_cases b <;>
+    (simp [Matrix.mul_apply, Fin.sum_univ_two]; (try field_simp); (try ring))
+
+private theorem coe_repQ_inv (i : Fin (p + 1)) :
+    (((repQ p i)⁻¹ : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) = repInvMat p i := by
+  rw [Matrix.coe_units_inv, Matrix.inv_eq_right_inv (coe_repQ_mul_repInvMat p i)]
+
+private def IsPShape (x : ℚ) : Prop := (∃ n : ℤ, x = n) ∨ ∃ n : ℤ, x = (n : ℚ) / (p : ℚ)
+
+private theorem isPShape_repQ_entry (i : Fin (p + 1)) (a b : Fin 2) :
+    IsPShape p (((repQ p i : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) a b) := by
+  rw [coe_repQ, Matrix.map_apply, eq_intCast]
+  exact Or.inl ⟨_, rfl⟩
+
+omit hp in
+private theorem isPShape_repInvMat_entry (i : Fin (p + 1)) (a b : Fin 2) : IsPShape p (repInvMat p i a b) := by
+  unfold repInvMat IsPShape
+  split_ifs <;> fin_cases a <;> fin_cases b <;> simp only [Matrix.of_apply, Matrix.cons_val_zero,
+    Matrix.cons_val_one, Matrix.cons_val_fin_one, Fin.isValue, Fin.mk_one, Fin.zero_eta]
+  · exact Or.inl ⟨1, by simp⟩
+  · exact Or.inr ⟨_, rfl⟩
+  · exact Or.inl ⟨0, by simp⟩
+  · exact Or.inr ⟨_, rfl⟩
+  · exact Or.inr ⟨_, rfl⟩
+  · exact Or.inl ⟨0, by simp⟩
+  · exact Or.inl ⟨0, by simp⟩
+  · exact Or.inl ⟨1, by simp⟩
+
+private theorem mem_of_isPShape {v : HeightOneSpectrum (𝓞 ℚ)} (hv : v ≠ padicPlace p) {x : ℚ} (hx : IsPShape p x) :
+    (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) x) v ∈ v.adicCompletionIntegers ℚ := by
+  rcases hx with ⟨n, rfl⟩ | ⟨n, rfl⟩
+  · exact algebraMap_mem_adicCompletionIntegers_of_den p hv (Or.inl (Rat.den_intCast n))
+  · rw [div_eq_mul_inv, map_mul, ← finAdeleEval_apply, map_mul, finAdeleEval_apply, finAdeleEval_apply]
+    refine mul_mem (algebraMap_mem_adicCompletionIntegers_of_den p hv (Or.inl (Rat.den_intCast n))) ?_
+    refine algebraMap_mem_adicCompletionIntegers_of_den p hv (Or.inr ?_)
+    rw [Rat.inv_natCast_den, if_neg hp.out.ne_zero]
+
+private noncomputable def kRep (i : Fin (p + 1)) : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ) :=
+  glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (repQ p i)) * (ρA p i)⁻¹
+
+private theorem finComponent_kRep_self (i : Fin (p + 1)) : finComponent (𝓞 ℚ) ℚ (padicPlace p) (kRep p i) = 1 := by
+  rw [kRep, map_mul, map_inv, finComponent_glFin_globalPoints_repQ, ρA, finComponent_padicToFinAdelic_self,
+    mul_inv_cancel]
+
+private theorem finComponent_kRep_of_ne {v : HeightOneSpectrum (𝓞 ℚ)} (hv : v ≠ padicPlace p) (i : Fin (p + 1)) :
+    finComponent (𝓞 ℚ) ℚ v (kRep p i) = finComponent (𝓞 ℚ) ℚ v (glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (repQ p i))) := by
+  rw [kRep, map_mul, map_inv, ρA, finComponent_padicToFinAdelic_of_ne p _ hv, inv_one, mul_one]
+
+private theorem finComponent_kRep_inv_of_ne {v : HeightOneSpectrum (𝓞 ℚ)} (hv : v ≠ padicPlace p) (i : Fin (p + 1)) :
+    finComponent (𝓞 ℚ) ℚ v (kRep p i)⁻¹
+      = finComponent (𝓞 ℚ) ℚ v (glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (repQ p i)⁻¹)) := by
+  rw [map_inv, finComponent_kRep_of_ne p hv, map_inv (globalPoints (𝓞 ℚ) ℚ), map_inv (glFin (𝓞 ℚ) ℚ),
+    map_inv (finComponent (𝓞 ℚ) ℚ v)]
+
+private theorem one_entry_mem (v : HeightOneSpectrum (𝓞 ℚ)) (a b : Fin 2) :
+    ((1 : GL (Fin 2) (v.adicCompletion ℚ)) : Matrix (Fin 2) (Fin 2) (v.adicCompletion ℚ)) a b
+      ∈ v.adicCompletionIntegers ℚ := by
+  rw [Units.val_one, Matrix.one_apply]
+  split_ifs
+  · exact one_mem _
+  · exact zero_mem _
+
+private theorem entry_mem_integral {g : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)} {m : Matrix (Fin 2) (Fin 2) ℚ}
+    (hself : finComponent (𝓞 ℚ) ℚ (padicPlace p) g = 1)
+    (hne : ∀ v : HeightOneSpectrum (𝓞 ℚ), v ≠ padicPlace p → ∀ a b : Fin 2,
+      ((g : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) a b) v
+        = (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) (m a b)) v)
+    (hm : ∀ a b, IsPShape p (m a b)) (a b : Fin 2) :
+    (g : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) a b ∈ integralFiniteAdeles (𝓞 ℚ) ℚ := by
+  intro v
+  by_cases hv : v = padicPlace p
+  · subst hv
+    rw [← finComponent_apply, hself]
+    exact one_entry_mem _ a b
+  · rw [hne v hv a b]
+    exact mem_of_isPShape p hv (hm a b)
+
+private theorem lowerLeft_mem_idealBall (N : Ideal (𝓞 ℚ)) {g : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)}
+    {m : Matrix (Fin 2) (Fin 2) ℚ} (hself : finComponent (𝓞 ℚ) ℚ (padicPlace p) g = 1)
+    (hne : ∀ v : HeightOneSpectrum (𝓞 ℚ), v ≠ padicPlace p → ∀ a b : Fin 2,
+      ((g : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) a b) v
+        = (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) (m a b)) v)
+    (hm : m 1 0 = 0) :
+    (g : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) 1 0 ∈ idealBall (𝓞 ℚ) ℚ N := by
+  intro v
+  by_cases hv : v = padicPlace p
+  · subst hv
+    rw [← finComponent_apply, hself, Units.val_one, Matrix.one_apply_ne (by decide), map_zero]
+    exact zero_le'
+  · rw [hne v hv 1 0, hm, map_zero]
+    change Valued.v ((0 : FiniteAdeleRing (𝓞 ℚ) ℚ) v) ≤ _
+    rw [← finAdeleEval_apply, map_zero, map_zero]
+    exact zero_le'
+
+private theorem kRep_entry_of_ne {v : HeightOneSpectrum (𝓞 ℚ)} (hv : v ≠ padicPlace p) (i : Fin (p + 1)) (a b : Fin 2) :
+    ((kRep p i : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) a b) v
+      = (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) (((repQ p i : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) a b)) v := by
+  rw [← finComponent_apply, finComponent_kRep_of_ne p hv, finComponent_apply, glFin_globalPoints_apply]
+
+private theorem kRep_inv_entry_of_ne {v : HeightOneSpectrum (𝓞 ℚ)} (hv : v ≠ padicPlace p) (i : Fin (p + 1)) (a b : Fin 2) :
+    ((((kRep p i)⁻¹ : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) a b) v
+      = (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) (repInvMat p i a b)) v := by
+  rw [← finComponent_apply, finComponent_kRep_inv_of_ne p hv, finComponent_apply, glFin_globalPoints_apply,
+    coe_repQ_inv]
+
+omit hp in
+private theorem repInvMat_lowerLeft (i : Fin (p + 1)) : repInvMat p i 1 0 = 0 := by
+  unfold repInvMat; split_ifs <;> rfl
+
+private theorem coe_repQ_lowerLeft (i : Fin (p + 1)) : ((repQ p i : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) 1 0 = 0 := by
+  rw [coe_repQ, Matrix.map_apply, repMat_lowerLeft, map_zero]
+
+private theorem kRep_mem_finiteLevelZero (N : Ideal (𝓞 ℚ)) (i : Fin (p + 1)) :
+    kRep p i ∈ finiteLevelZero (𝓞 ℚ) ℚ N := by
+  rw [mem_finiteLevelZero_iff]
+  refine ⟨⟨entry_mem_integral p (finComponent_kRep_self p i) (fun v hv => kRep_entry_of_ne p hv i)
+      (isPShape_repQ_entry p i), lowerLeft_mem_idealBall p N (finComponent_kRep_self p i)
+      (fun v hv => kRep_entry_of_ne p hv i) (coe_repQ_lowerLeft p i)⟩, ?_⟩
+  have hself : finComponent (𝓞 ℚ) ℚ (padicPlace p) (kRep p i)⁻¹ = 1 := by
+    rw [map_inv, finComponent_kRep_self, inv_one]
+  exact ⟨entry_mem_integral p hself (fun v hv => kRep_inv_entry_of_ne p hv i) (isPShape_repInvMat_entry p i),
+    lowerLeft_mem_idealBall p N hself (fun v hv => kRep_inv_entry_of_ne p hv i) (repInvMat_lowerLeft p i)⟩
+
+private theorem globalPoints_repQ_mul_mul_padicToAdelic_inv {h : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)}
+    (hh : glFin (𝓞 ℚ) ℚ h = 1) (i : Fin (p + 1)) :
+    globalPoints (𝓞 ℚ) ℚ (repQ p i) * h * padicToAdelic p (ρQ p i)⁻¹
+      = (archPart (repQ p i) * h) * finEmbed (𝓞 ℚ) ℚ (kRep p i) := by
+  rw [kRep]
+  set G := glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (repQ p i)) with hG
+  have h1 : globalPoints (𝓞 ℚ) ℚ (repQ p i) = archPart (repQ p i) * finEmbed (𝓞 ℚ) ℚ G :=
+    globalPoints_eq_archPart_mul _
+  rw [map_mul, map_inv, padicToAdelic_apply, map_inv, ρA, h1, mul_assoc (archPart _),
+    finEmbed_mul_comm_of_glFin_eq_one hh]
+  simp only [mul_assoc]
+
+private theorem glFin_archPart_mul {h : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)} (hh : glFin (𝓞 ℚ) ℚ h = 1) (γ : GL (Fin 2) ℚ) :
+    glFin (𝓞 ℚ) ℚ (archPart γ * h) = 1 := by
+  rw [map_mul, glFin_archPart, hh, one_mul]
+
+private theorem ratArch_archPart_mul (h : GL (Fin 2) (AdeleRing (𝓞 ℚ) ℚ)) (γ : GL (Fin 2) ℚ) :
+    LanglandsTunnell.ratArchGL2 (archPart γ * h)
+      = Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) γ * LanglandsTunnell.ratArchGL2 h := by
+  rw [ratArch_mul, ratArch_archPart]
+
+end DescentEngine
+
+namespace DescentEngine
+
+open NumberField NumberField.AdelicLevel AdelicDock AutomorphicForm IsDedekindDomain
+open scoped ModularForm
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+omit hp in
+private theorem σ_apply_of_det_pos {g : GL (Fin 2) ℝ} (hg : 0 < (g.det : ℝ)) (z : ℂ) :
+    UpperHalfPlane.σ g z = z := by
+  rw [UpperHalfPlane.σ, if_pos hg]
+  rfl
+
+omit hp in
+
+private noncomputable def slashHom (k : ℤ) (A : GL (Fin 2) ℝ) : (UpperHalfPlane → ℂ) →+ (UpperHalfPlane → ℂ) where
+  toFun f := f ∣[k] A
+  map_zero' := SlashAction.zero_slash k A
+  map_add' f g := SlashAction.add_slash k A f g
+
+end DescentEngine
+
+namespace DescentEngine
+
+open NumberField NumberField.AdelicLevel AdelicDock AutomorphicForm IsDedekindDomain
+open scoped ModularForm
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+private theorem det_map_repQ (i : Fin (p + 1)) :
+    ((Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (repQ p i)).det : ℝ) = (p : ℝ) := by
+  rw [Matrix.GeneralLinearGroup.map_det, Units.coe_map, MonoidHom.coe_coe]
+  change (Rat.castHom ℝ) (Matrix.det ((repMat p i).map (Int.castRingHom ℚ))) = _
+  rw [show (repMat p i).map (Int.castRingHom ℚ) = (Int.castRingHom ℚ).mapMatrix (repMat p i) from rfl,
+    ← RingHom.map_det, det_repMat, map_natCast, map_natCast]
+
+private theorem map_repQ_mem_GLPos (i : Fin (p + 1)) :
+    Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (repQ p i) ∈ Matrix.GLPos (Fin 2) ℝ := by
+  rw [Matrix.mem_glpos, det_map_repQ]
+  exact_mod_cast hp.out.pos
+
+end DescentEngine
+
+namespace DescentSupportB
+
+open NumberField NumberField.AdelicLevel AdelicDock IsDedekindDomain
+
+section S4c
+
+private theorem eq_padicPlace_natGenerator (v : HeightOneSpectrum (𝓞 ℚ)) :
+    haveI : Fact (Rat.HeightOneSpectrum.natGenerator v).Prime :=
+      ⟨Rat.HeightOneSpectrum.prime_natGenerator v⟩
+    v = padicPlace (Rat.HeightOneSpectrum.natGenerator v) := by
+  haveI : Fact (Rat.HeightOneSpectrum.natGenerator v).Prime :=
+    ⟨Rat.HeightOneSpectrum.prime_natGenerator v⟩
+  refine ((Rat.HeightOneSpectrum.primesEquiv (R := 𝓞 ℚ)).symm_apply_apply v).symm.trans ?_
+  exact congrArg _ (Subtype.ext rfl)
+
+end S4c
+
+end DescentSupportB
+
+namespace DescentSupportB
+
+open NumberField NumberField.AdelicLevel AdelicDock IsDedekindDomain
+
+section S4d
+
+private theorem algebraMap_intCast_apply_padicPlace_eq (p : ℕ) [Fact p.Prime] (n : ℤ) :
+    (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) (n : ℚ)) (padicPlace p)
+      = padicRingEquiv p ((n : ℤ_[p]) : ℚ_[p]) := by
+  have hL : (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) (n : ℚ)) (padicPlace p) =
+      (n : (padicPlace p).adicCompletion ℚ) := by
+    change ((algebraMap ℚ ((padicPlace p).adicCompletion ℚ)).comp (Int.castRingHom ℚ)) n = _
+    exact eq_intCast _ n
+  have hR : padicRingEquiv p ((n : ℤ_[p]) : ℚ_[p]) = (n : (padicPlace p).adicCompletion ℚ) := by
+    rw [PadicInt.coe_intCast, map_intCast]
+  exact hL.trans hR.symm
+
+private theorem isLevelZeroMatrix_mapMatrix_of_int_entries {N : ℕ} (hN : N ≠ 0)
+    (δ : Matrix (Fin 2) (Fin 2) ℚ) (hδ : ∀ a b, ∃ n : ℤ, δ a b = n)
+    (hlow : ∃ m : ℤ, δ 1 0 = (N : ℚ) * m) :
+    IsLevelZeroMatrix (𝓞 ℚ) ℚ (ratLevel N)
+      ((algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ)).mapMatrix δ) := by
+  refine ⟨fun i j v => ?_, fun v => ?_⟩
+  all_goals
+    haveI : Fact (Rat.HeightOneSpectrum.natGenerator v).Prime :=
+      ⟨Rat.HeightOneSpectrum.prime_natGenerator v⟩
+    rw [eq_padicPlace_natGenerator v]
+    set ℓ := Rat.HeightOneSpectrum.natGenerator v
+  · rw [RingHom.mapMatrix_apply, Matrix.map_apply]
+    obtain ⟨n, hn⟩ := hδ i j
+    rw [hn, algebraMap_intCast_apply_padicPlace_eq ℓ n]
+    exact padicRingEquiv_coe_mem ℓ _
+  · rw [RingHom.mapMatrix_apply, Matrix.map_apply]
+    obtain ⟨m, hm⟩ := hlow
+    have hNm : δ 1 0 = ((N * m : ℤ) : ℚ) := by push_cast; linarith [hm]
+    rw [hNm, algebraMap_intCast_apply_padicPlace_eq ℓ (N * m)]
+    rw [(valued_coe_le_idealBound_iff ℓ hN _)]
+    have hdvd : (ℓ : ℤ_[ℓ]) ^ N.factorization ℓ ∣ (↑(N * m) : ℤ_[ℓ]) := by
+      have hdvdZ : (ℓ : ℤ) ^ N.factorization ℓ ∣ (N * m : ℤ) := by
+        refine Dvd.dvd.mul_right ?_ m
+        exact_mod_cast Nat.ordProj_dvd N ℓ
+      obtain ⟨k, hk⟩ := hdvdZ
+      exact ⟨(k : ℤ_[ℓ]), by push_cast [hk]; ring⟩
+    exact Ideal.mem_span_singleton.mpr hdvd
+
+private theorem map_algebraMap_mem_finiteLevelZero {N : ℕ} (hN : N ≠ 0) (δ : GL (Fin 2) ℚ)
+    (hδ : ∀ a b : Fin 2, ∃ n : ℤ, (δ : Matrix (Fin 2) (Fin 2) ℚ) a b = n)
+    (hδ' : ∀ a b : Fin 2, ∃ n : ℤ, ((δ⁻¹ : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) a b = n)
+    (hlow : ∃ m : ℤ, (δ : Matrix (Fin 2) (Fin 2) ℚ) 1 0 = (N : ℚ) * m)
+    (hlow' : ∃ m : ℤ, ((δ⁻¹ : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) 1 0 = (N : ℚ) * m) :
+    Matrix.GeneralLinearGroup.map (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ)) δ
+      ∈ finiteLevelZero (𝓞 ℚ) ℚ (ratLevel N) := by
+  rw [mem_finiteLevelZero_iff]
+  have hcoe : ∀ (γ : GL (Fin 2) ℚ),
+      (Matrix.GeneralLinearGroup.map (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ)) γ
+        : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ))
+      = (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ)).mapMatrix (γ : Matrix (Fin 2) (Fin 2) ℚ) :=
+    fun γ => Matrix.ext fun i j => Matrix.GeneralLinearGroup.map_apply _ i j γ
+  rw [hcoe δ, ← Matrix.GeneralLinearGroup.map_inv, hcoe δ⁻¹]
+  exact ⟨isLevelZeroMatrix_mapMatrix_of_int_entries hN _ hδ hlow,
+    isLevelZeroMatrix_mapMatrix_of_int_entries hN _ hδ' hlow'⟩
+
+end S4d
+
+end DescentSupportB
+
+namespace DescentEngine
+
+open NumberField NumberField.AdelicLevel AdelicDock AutomorphicForm IsDedekindDomain
+open scoped ModularForm
+
+private theorem glFin_globalPoints_eq_map (δ : GL (Fin 2) ℚ) :
+    glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ δ)
+      = Matrix.GeneralLinearGroup.map (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ)) δ := by
+  refine Matrix.GeneralLinearGroup.ext fun i j => ?_
+  rw [glFin_globalPoints_apply]
+  rfl
+
+private theorem mapGL_entry_int (γ : Matrix.SpecialLinearGroup (Fin 2) ℤ) (a b : Fin 2) :
+    ∃ n : ℤ, ((Matrix.SpecialLinearGroup.mapGL ℚ γ : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) a b = n :=
+  ⟨γ a b, by simp [Matrix.SpecialLinearGroup.mapGL]⟩
+
+private theorem mapGL_lowerLeft_of_mem_Gamma0 {N : ℕ} {γ : Matrix.SpecialLinearGroup (Fin 2) ℤ}
+    (hγ : γ ∈ CongruenceSubgroup.Gamma0 N) :
+    ∃ m : ℤ, ((Matrix.SpecialLinearGroup.mapGL ℚ γ : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) 1 0 = (N : ℚ) * m := by
+  obtain ⟨m, hm⟩ := (ZMod.intCast_zmod_eq_zero_iff_dvd (γ 1 0) N).mp (CongruenceSubgroup.Gamma0_mem.mp hγ)
+  refine ⟨m, ?_⟩
+  simp [Matrix.SpecialLinearGroup.mapGL, hm]
+
+private theorem glFin_globalPoints_mapGL_mem_finiteLevelZero {N : ℕ} (hN : N ≠ 0) {γ : Matrix.SpecialLinearGroup (Fin 2) ℤ}
+    (hγ : γ ∈ CongruenceSubgroup.Gamma0 N) :
+    glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (Matrix.SpecialLinearGroup.mapGL ℚ γ)) ∈ finiteLevelZero (𝓞 ℚ) ℚ (ratLevel N) := by
+  rw [glFin_globalPoints_eq_map]
+  refine DescentSupportB.map_algebraMap_mem_finiteLevelZero hN _ (mapGL_entry_int γ) ?_
+    (mapGL_lowerLeft_of_mem_Gamma0 hγ) ?_
+  · rw [← map_inv]
+    exact mapGL_entry_int γ⁻¹
+  · rw [← map_inv]
+    exact mapGL_lowerLeft_of_mem_Gamma0 (Subgroup.inv_mem _ hγ)
+
+private theorem map_castHom_mapGL (γ : Matrix.SpecialLinearGroup (Fin 2) ℤ) :
+    Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (Matrix.SpecialLinearGroup.mapGL ℚ γ)
+      = Matrix.SpecialLinearGroup.mapGL ℝ γ := by
+  refine Matrix.GeneralLinearGroup.ext fun i j => ?_
+  simp [Matrix.SpecialLinearGroup.mapGL]
+
+private theorem mapGL_mem_GLPos (γ : Matrix.SpecialLinearGroup (Fin 2) ℤ) :
+    (Matrix.SpecialLinearGroup.mapGL ℝ γ : GL (Fin 2) ℝ) ∈ Matrix.GLPos (Fin 2) ℝ := by
+  rw [Matrix.mem_glpos]
+  simp [Matrix.SpecialLinearGroup.mapGL]
+
+end DescentEngine
+
+namespace DescentEngine
+
+open NumberField NumberField.AdelicLevel AdelicDock AutomorphicForm IsDedekindDomain
+open scoped ModularForm
+
+section LevelOneUpgrade
+
+private theorem valued_det_finComponent_eq_one_of_mem_finiteLevelZero
+    {N : Ideal (𝓞 ℚ)} {u : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)}
+    (hu : u ∈ finiteLevelZero (𝓞 ℚ) ℚ N) (w : HeightOneSpectrum (𝓞 ℚ)) :
+    Valued.v ((finComponent (𝓞 ℚ) ℚ w u).det : w.adicCompletion ℚ) = 1 := by
+  have hle : ∀ g : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ),
+      IsLevelZeroMatrix (𝓞 ℚ) ℚ N (g : Matrix _ _ _) →
+      Valued.v ((finComponent (𝓞 ℚ) ℚ w g).det : w.adicCompletion ℚ) ≤ 1 := by
+    intro g hg
+    rw [Matrix.GeneralLinearGroup.val_det_apply, Matrix.det_fin_two]
+    refine (Valuation.map_sub _ _ _).trans (max_le ?_ ?_)
+    all_goals
+      rw [Valuation.map_mul]
+      refine mul_le_one' ?_ ?_
+      all_goals
+        rw [finComponent_apply]
+        exact valued_apply_le_one (hg.integral _ _) w
+  have h1 : Valued.v ((finComponent (𝓞 ℚ) ℚ w u).det : w.adicCompletion ℚ) ≤ 1 := hle u hu.1
+  have h2 : Valued.v ((finComponent (𝓞 ℚ) ℚ w u⁻¹).det : w.adicCompletion ℚ) ≤ 1 := hle u⁻¹ hu.2
+  refine le_antisymm h1 ?_
+  have hprod : Valued.v ((finComponent (𝓞 ℚ) ℚ w u).det : w.adicCompletion ℚ)
+      * Valued.v ((finComponent (𝓞 ℚ) ℚ w u⁻¹).det : w.adicCompletion ℚ) = 1 := by
+    rw [← Valuation.map_mul, ← Units.val_mul, ← map_mul, ← map_mul, mul_inv_cancel,
+      map_one, map_one, Units.val_one, map_one]
+  calc (1 : _) = _ := hprod.symm
+    _ ≤ Valued.v ((finComponent (𝓞 ℚ) ℚ w u).det : w.adicCompletion ℚ) * 1 := by gcongr
+    _ = _ := mul_one _
+
+private theorem mem_finiteLevelOne_of_lowerRight {N : Ideal (𝓞 ℚ)} {g : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)}
+    (hg : g ∈ finiteLevelZero (𝓞 ℚ) ℚ N)
+    (h11 : (g : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) 1 1 - 1 ∈ idealBall (𝓞 ℚ) ℚ N) :
+    g ∈ finiteLevelOne (𝓞 ℚ) ℚ N := by
+  obtain ⟨hg₁, hg₂⟩ := mem_finiteLevelZero_iff.mp hg
+  refine mem_finiteLevelOne_iff.mpr ⟨⟨hg₁, h11⟩, ⟨hg₂, fun v => ?_⟩⟩
+  set G : Matrix (Fin 2) (Fin 2) (v.adicCompletion ℚ) :=
+    (finComponent (𝓞 ℚ) ℚ v g : Matrix (Fin 2) (Fin 2) (v.adicCompletion ℚ)) with hG
+  have hdet1 : Valued.v G.det = 1 := valued_det_finComponent_eq_one_of_mem_finiteLevelZero hg v
+  have hdet0 : G.det ≠ 0 := fun h => by rw [h, Valuation.map_zero] at hdet1; exact zero_ne_one hdet1
+  have hGinv : ((finComponent (𝓞 ℚ) ℚ v g⁻¹ : GL (Fin 2) (v.adicCompletion ℚ)) : Matrix (Fin 2) (Fin 2) _)
+      = G⁻¹ := by
+    rw [map_inv, Matrix.coe_units_inv]
+  have hinv11 : G⁻¹ 1 1 = G.det⁻¹ * G 0 0 := by
+    rw [Matrix.inv_def, Ring.inverse_eq_inv', Matrix.smul_apply, smul_eq_mul, Matrix.adjugate_fin_two]
+    simp
+
+  have hx : (((g⁻¹ : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) : Matrix (Fin 2) (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)) 1 1
+        - 1) v = G.det⁻¹ * (G 0 0 - G.det) := by
+    rw [coe_sub_apply, coe_one_apply, ← finComponent_apply, hGinv, hinv11, mul_sub, inv_mul_cancel₀ hdet0]
+  rw [hx, Valuation.map_mul, map_inv₀, hdet1, inv_one, one_mul]
+  have hexp : G 0 0 - G.det = G 0 0 * (1 - G 1 1) + G 0 1 * G 1 0 := by
+    rw [Matrix.det_fin_two]; ring
+  rw [hexp]
+  have hint : ∀ i j, Valued.v (G i j) ≤ 1 := fun i j => by
+    rw [hG, finComponent_apply]; exact valued_apply_le_one (hg₁.integral i j) v
+  refine (Valuation.map_add _ _ _).trans (max_le ?_ ?_)
+  · rw [Valuation.map_mul]
+    have h11' : Valued.v (1 - G 1 1) ≤ idealBound (𝓞 ℚ) N v := by
+      rw [Valuation.map_sub_swap, hG, finComponent_apply]
+      exact h11 v
+    calc Valued.v (G 0 0) * Valued.v (1 - G 1 1) ≤ 1 * idealBound (𝓞 ℚ) N v :=
+          mul_le_mul' (hint 0 0) h11'
+      _ = _ := one_mul _
+  · rw [Valuation.map_mul]
+    have h10 : Valued.v (G 1 0) ≤ idealBound (𝓞 ℚ) N v := by
+      rw [hG, finComponent_apply]; exact hg₁.lowerLeft v
+    calc Valued.v (G 0 1) * Valued.v (G 1 0) ≤ 1 * idealBound (𝓞 ℚ) N v := mul_le_mul' (hint 0 1) h10
+      _ = _ := one_mul _
+
+end LevelOneUpgrade
+
+section GammaOneReps
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+private theorem glFin_globalPoints_mul_kRep_mem_finiteLevelOne {N : ℕ} (hN : N ≠ 0) (hpN : ¬ p ∣ N)
+    {σ : Matrix.SpecialLinearGroup (Fin 2) ℤ} (hσ : σ ∈ CongruenceSubgroup.Gamma0 N) (i : Fin (p + 1))
+    (hcong : (N : ℤ) ∣ σ 1 1 * repMat p i 1 1 - 1) :
+    glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (Matrix.SpecialLinearGroup.mapGL ℚ σ)) * kRep p i
+      ∈ finiteLevelOne (𝓞 ℚ) ℚ (ratLevel N) := by
+  have hK₀ : glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (Matrix.SpecialLinearGroup.mapGL ℚ σ)) * kRep p i
+      ∈ finiteLevelZero (𝓞 ℚ) ℚ (ratLevel N) :=
+    mul_mem (glFin_globalPoints_mapGL_mem_finiteLevelZero hN hσ) (kRep_mem_finiteLevelZero p _ i)
+  refine mem_finiteLevelOne_of_lowerRight hK₀ fun v => ?_
+  rw [coe_sub_apply, coe_one_apply, ← finComponent_apply, map_mul]
+  by_cases hv : v = padicPlace p
+  ·
+    subst hv
+    rw [finComponent_kRep_self, mul_one, finComponent_apply, glFin_globalPoints_apply]
+    obtain ⟨n, hn⟩ := mapGL_entry_int σ 1 1
+    rw [hn, DescentSupportB.algebraMap_intCast_apply_padicPlace_eq p n, ← map_one (padicRingEquiv p), ← map_sub,
+      ← PadicInt.coe_one, ← PadicInt.coe_sub, valued_coe_le_idealBound_iff p hN,
+      Nat.factorization_eq_zero_of_not_dvd hpN, pow_zero, Ideal.span_singleton_one]
+    exact Submodule.mem_top
+  ·
+    rw [finComponent_kRep_of_ne p hv, ← map_mul, ← map_mul, ← map_mul, finComponent_apply, glFin_globalPoints_apply,
+      Units.val_mul, Matrix.mul_apply, Fin.sum_univ_two, coe_repQ]
+    haveI : Fact (Rat.HeightOneSpectrum.natGenerator v).Prime := ⟨Rat.HeightOneSpectrum.prime_natGenerator v⟩
+    rw [DescentSupportB.eq_padicPlace_natGenerator v]
+    set ℓ := Rat.HeightOneSpectrum.natGenerator v
+    have hentry : (((Matrix.SpecialLinearGroup.mapGL ℚ σ : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) 1 0
+          * ((repMat p i).map (Int.castRingHom ℚ)) 0 1 +
+        ((Matrix.SpecialLinearGroup.mapGL ℚ σ : GL (Fin 2) ℚ) : Matrix (Fin 2) (Fin 2) ℚ) 1 1
+          * ((repMat p i).map (Int.castRingHom ℚ)) 1 1) - 1
+        = (((σ 1 0 * repMat p i 0 1 + (σ 1 1 * repMat p i 1 1 - 1) : ℤ)) : ℚ) := by
+      simp [Matrix.SpecialLinearGroup.mapGL]
+      ring
+    rw [show (1 : (padicPlace ℓ).adicCompletion ℚ) = (algebraMap ℚ (FiniteAdeleRing (𝓞 ℚ) ℚ) 1) (padicPlace ℓ) from
+        by rw [map_one]; rfl, ← coe_sub_apply, ← map_sub, hentry,
+      DescentSupportB.algebraMap_intCast_apply_padicPlace_eq ℓ, valued_coe_le_idealBound_iff ℓ hN]
+    have hdvd : (N : ℤ) ∣ σ 1 0 * repMat p i 0 1 + (σ 1 1 * repMat p i 1 1 - 1) := by
+      refine dvd_add (Dvd.dvd.mul_right ?_ _) hcong
+      exact (ZMod.intCast_zmod_eq_zero_iff_dvd _ _).mp (CongruenceSubgroup.Gamma0_mem.mp hσ)
+    have hdvd' : ((ℓ : ℤ) ^ N.factorization ℓ) ∣ σ 1 0 * repMat p i 0 1 + (σ 1 1 * repMat p i 1 1 - 1) :=
+      (Int.natCast_dvd_natCast.mpr (Nat.ordProj_dvd N ℓ) |>.trans (by exact_mod_cast hdvd))
+    obtain ⟨k, hk⟩ := hdvd'
+    refine Ideal.mem_span_singleton.mpr ⟨(k : ℤ_[ℓ]), ?_⟩
+    have := congrArg (fun z : ℤ => (z : ℤ_[ℓ])) hk
+    push_cast at this ⊢
+    exact this
+
+private theorem exists_gamma0_lowerRight_mul_eq_one {N : ℕ} [NeZero N] {ℓ : ℕ} (hℓ : ℓ.Coprime N) :
+    ∃ σ : Matrix.SpecialLinearGroup (Fin 2) ℤ, σ ∈ CongruenceSubgroup.Gamma0 N ∧
+      ((σ 1 1 : ℤ) : ZMod N) * ℓ = 1 := by
+  set u : (ZMod N)ˣ := (ZMod.unitOfCoprime ℓ hℓ)⁻¹ with hu
+  set d : ℕ := (u : ZMod N).val with hd
+  have hdcop : d.Coprime N := ZMod.val_coe_unit_coprime u
+  obtain ⟨x, y, hxy⟩ : IsCoprime (d : ℤ) (N : ℤ) := Int.isCoprime_iff_gcd_eq_one.mpr (by simpa using hdcop)
+  refine ⟨⟨!![x, -y; (N : ℤ), (d : ℤ)], by rw [Matrix.det_fin_two_of]; linarith⟩, ?_, ?_⟩
+  · rw [CongruenceSubgroup.Gamma0_mem]
+    show (((N : ℤ) : ℤ) : ZMod N) = 0
+    simp
+  · show (((d : ℤ) : ℤ) : ZMod N) * ℓ = 1
+    rw [Int.cast_natCast, hd, ZMod.natCast_zmod_val, ← ZMod.coe_unitOfCoprime ℓ hℓ, ← Units.val_mul, hu,
+      inv_mul_cancel, Units.val_one]
+
+end GammaOneReps
+
+section HeckeReading
+
+variable (p : ℕ) [hp : Fact p.Prime]
+
+private theorem glFin_conj_eq_one' (δ : GL (Fin 2) ℚ) {h : AdelicGL2 (𝓞 ℚ) ℚ} (hh : glFin (𝓞 ℚ) ℚ h = 1) :
+    glFin (𝓞 ℚ) ℚ ((globalPoints (𝓞 ℚ) ℚ δ)⁻¹ * h * globalPoints (𝓞 ℚ) ℚ δ) = 1 := by
+  rw [map_mul, map_mul, hh, mul_one, map_inv, inv_mul_cancel]
+
+variable {N : ℕ} {ε : DirichletCharacter ℂ N} {F : CuspForm (CongruenceSubgroup.Gamma1 N) 1}
+variable {Ψ : AdelicGL2 (𝓞 ℚ) ℚ → ℂ}
+
+private structure IsLift1 (F : CuspForm (CongruenceSubgroup.Gamma1 N) 1) (Ψ : AdelicGL2 (𝓞 ℚ) ℚ → ℂ) : Prop where
+  left_inv : ∀ (γ : GL (Fin 2) ℚ) (x : AdelicGL2 (𝓞 ℚ) ℚ), Ψ (globalPoints (𝓞 ℚ) ℚ γ * x) = Ψ x
+  level_inv : ∀ u ∈ finiteLevelOne (𝓞 ℚ) ℚ (ratLevel N), ∀ x : AdelicGL2 (𝓞 ℚ) ℚ,
+    Ψ (x * finEmbed (𝓞 ℚ) ℚ u) = Ψ x
+  apply_eq : ∀ h : AdelicGL2 (𝓞 ℚ) ℚ, glFin (𝓞 ℚ) ℚ h = 1 →
+    LanglandsTunnell.ratArchGL2 h ∈ Matrix.GLPos (Fin 2) ℝ →
+      Ψ h = DihedralWeightOne.weightOneArchLift (⇑F) (LanglandsTunnell.ratArchGL2 h)
+
+private theorem weightOneArchLift_eq (f : UpperHalfPlane → ℂ) (x : GL (Fin 2) ℝ) :
+    DihedralWeightOne.weightOneArchLift f x = (f ∣[(1 : ℤ)] x) UpperHalfPlane.I * ((x.det.val : ℝ) : ℂ) := by
+  rw [DihedralWeightOne.weightOneArchLift, zpow_one]
+
+private theorem det_val_mapGL (γ : Matrix.SpecialLinearGroup (Fin 2) ℤ) :
+    ((Matrix.SpecialLinearGroup.mapGL ℝ γ : GL (Fin 2) ℝ).det.val : ℝ) = 1 := by
+  simp [Matrix.SpecialLinearGroup.mapGL]
+
+private theorem slash_eq_smul_of_hasNebentypus (hε : CuspForm.HasNebentypus ε F)
+    {γ : Matrix.SpecialLinearGroup (Fin 2) ℤ} (hγ : γ ∈ CongruenceSubgroup.Gamma0 N) :
+    (⇑F) ∣[(1 : ℤ)] (Matrix.SpecialLinearGroup.mapGL ℝ γ : GL (Fin 2) ℝ) = ε ((γ 1 1 : ℤ) : ZMod N) • (⇑F) := by
+  funext τ
+  have hSL : ((⇑F) ∣[(1 : ℤ)] (Matrix.SpecialLinearGroup.mapGL ℝ γ : GL (Fin 2) ℝ)) τ
+      = F (γ • τ) * UpperHalfPlane.denom γ τ ^ (-(1 : ℤ)) := ModularForm.SL_slash_apply (k := 1) (⇑F) γ τ
+  have hden : UpperHalfPlane.denom γ τ ≠ 0 := UpperHalfPlane.denom_ne_zero γ τ
+  rw [ModularGroup.denom_apply] at hden
+  rw [hSL, hε γ hγ τ, ModularGroup.denom_apply, Pi.smul_apply, smul_eq_mul, zpow_one]
+  have h2 : (((γ 1 0 : ℤ) : ℂ) * (τ : ℂ) + ((γ 1 1 : ℤ) : ℂ)) ^ (1 : ℤ) ≠ 0 := zpow_ne_zero _ hden
+  field_simp
+
+private theorem apply_mul_finEmbed_eq_of_mem_finiteLevelOne (hε : CuspForm.HasNebentypus ε F)
+    (hΨ : IsLift1 F Ψ)
+    {σ : Matrix.SpecialLinearGroup (Fin 2) ℤ} (hσ : σ ∈ CongruenceSubgroup.Gamma0 N)
+    {k : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ)}
+    (hk : glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ (Matrix.SpecialLinearGroup.mapGL ℚ σ)) * k
+      ∈ finiteLevelOne (𝓞 ℚ) ℚ (ratLevel N))
+    {X : AdelicGL2 (𝓞 ℚ) ℚ} (hX : glFin (𝓞 ℚ) ℚ X = 1) (hXpos : LanglandsTunnell.ratArchGL2 X ∈ Matrix.GLPos (Fin 2) ℝ) :
+    Ψ (X * finEmbed (𝓞 ℚ) ℚ k) = ε ((σ 1 1 : ℤ) : ZMod N) * Ψ X := by
+  set sQ : GL (Fin 2) ℚ := Matrix.SpecialLinearGroup.mapGL ℚ σ with hsQ
+  set E : GL (Fin 2) (FiniteAdeleRing (𝓞 ℚ) ℚ) := glFin (𝓞 ℚ) ℚ (globalPoints (𝓞 ℚ) ℚ sQ) with hE
+
+  have hk_eq : finEmbed (𝓞 ℚ) ℚ k = (globalPoints (𝓞 ℚ) ℚ sQ)⁻¹ * archPart sQ * finEmbed (𝓞 ℚ) ℚ (E * k) := by
+    rw [map_mul, hE, ← mul_assoc]
+    conv_rhs => rw [mul_assoc ((globalPoints (𝓞 ℚ) ℚ sQ)⁻¹), ← globalPoints_eq_archPart_mul, inv_mul_cancel,
+      one_mul]
+  set δ : GL (Fin 2) ℚ := sQ⁻¹ with hδ
+  set Y : AdelicGL2 (𝓞 ℚ) ℚ := (globalPoints (𝓞 ℚ) ℚ δ)⁻¹ * X * globalPoints (𝓞 ℚ) ℚ δ * archPart sQ with hY
+  have hXk : X * finEmbed (𝓞 ℚ) ℚ k = globalPoints (𝓞 ℚ) ℚ δ * (Y * finEmbed (𝓞 ℚ) ℚ (E * k)) := by
+    rw [hk_eq, hY, hδ, map_inv]
+    group
+  have hYfin : glFin (𝓞 ℚ) ℚ Y = 1 := by
+    rw [hY, map_mul, glFin_conj_eq_one' δ hX, one_mul, glFin_archPart]
+  have hYarch : LanglandsTunnell.ratArchGL2 Y
+      = Matrix.SpecialLinearGroup.mapGL ℝ σ * LanglandsTunnell.ratArchGL2 X := by
+    rw [hY, ratArch_mul, ratArch_mul, ratArch_mul, ratArch_inv, ratArch_globalPoints, ratArch_archPart, hδ,
+      map_inv, inv_inv, hsQ, map_castHom_mapGL]
+    group
+  have hYpos : LanglandsTunnell.ratArchGL2 Y ∈ Matrix.GLPos (Fin 2) ℝ := by
+    rw [hYarch]; exact Subgroup.mul_mem _ (mapGL_mem_GLPos σ) hXpos
+  rw [hXk, hΨ.left_inv, hΨ.level_inv _ hk, hΨ.apply_eq Y hYfin hYpos, hΨ.apply_eq X hX hXpos,
+    weightOneArchLift_eq, weightOneArchLift_eq, hYarch, SlashAction.slash_mul,
+    slash_eq_smul_of_hasNebentypus hε hσ, ModularForm.smul_slash, Pi.smul_apply, smul_eq_mul,
+    σ_apply_of_det_pos ((Matrix.mem_glpos _).mp hXpos), map_mul, Units.val_mul, det_val_mapGL, one_mul,
+    mul_assoc]
+
+private theorem apply_mul_finEmbed_kRep [NeZero N] (hε : CuspForm.HasNebentypus ε F)
+    (hΨ : IsLift1 F Ψ) (hpN : ¬ p ∣ N) (i : Fin (p + 1))
+    {X : AdelicGL2 (𝓞 ℚ) ℚ} (hX : glFin (𝓞 ℚ) ℚ X = 1) (hXpos : LanglandsTunnell.ratArchGL2 X ∈ Matrix.GLPos (Fin 2) ℝ) :
+    Ψ (X * finEmbed (𝓞 ℚ) ℚ (kRep p i))
+      = (if (i : ℕ) < p then (ε ((p : ℕ) : ZMod N))⁻¹ else 1) * Ψ X := by
+  have hN : N ≠ 0 := NeZero.ne N
+  have hcop : p.Coprime N := (Nat.Prime.coprime_iff_not_dvd hp.out).mpr hpN
+  split_ifs with hi
+  · obtain ⟨σ, hσ, hσℓ⟩ := exists_gamma0_lowerRight_mul_eq_one (N := N) hcop
+    have hcong : (N : ℤ) ∣ σ 1 1 * repMat p i 1 1 - 1 := by
+      rw [← ZMod.intCast_zmod_eq_zero_iff_dvd]
+      unfold repMat
+      rw [if_pos hi]
+      push_cast
+      simp only [Matrix.of_apply, Matrix.cons_val', Matrix.cons_val_one, Matrix.cons_val_fin_one,
+        Int.cast_natCast]
+      rw [hσℓ, sub_self]
+    rw [apply_mul_finEmbed_eq_of_mem_finiteLevelOne hε hΨ hσ
+      (glFin_globalPoints_mul_kRep_mem_finiteLevelOne p hN hpN hσ i hcong) hX hXpos]
+    congr 1
+    have hu : ε ((p : ℕ) : ZMod N) * ε ((σ 1 1 : ℤ) : ZMod N) = 1 := by
+      rw [← map_mul, mul_comm, hσℓ, map_one]
+    exact (eq_inv_of_mul_eq_one_right hu)
+  · have hcong : (N : ℤ) ∣ (1 : Matrix.SpecialLinearGroup (Fin 2) ℤ) 1 1 * repMat p i 1 1 - 1 := by
+      unfold repMat
+      rw [if_neg hi]
+      simp
+    have h1 := apply_mul_finEmbed_eq_of_mem_finiteLevelOne hε hΨ (Subgroup.one_mem _)
+      (glFin_globalPoints_mul_kRep_mem_finiteLevelOne p hN hpN (Subgroup.one_mem _) i hcong) hX hXpos
+    rw [h1]
+    simp
+
+private theorem sum_apply_eq_slash [NeZero N] (hε : CuspForm.HasNebentypus ε F)
+    (hΨ : IsLift1 F Ψ) (hpN : ¬ p ∣ N)
+    {h : AdelicGL2 (𝓞 ℚ) ℚ} (hh : glFin (𝓞 ℚ) ℚ h = 1)
+    (hpos : LanglandsTunnell.ratArchGL2 h ∈ Matrix.GLPos (Fin 2) ℝ) :
+    ∑ i : Fin (p + 1), Ψ (h * padicToAdelic p (ρQ p i)⁻¹)
+      = (p : ℂ) *
+        ((((ε ((p : ℕ) : ZMod N))⁻¹ • ModularForm.heckeU 1 p ⇑F + (⇑F) ∣[(1 : ℤ)] ModularForm.heckeDiagMatrix p)
+            ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h) UpperHalfPlane.I *
+          (((LanglandsTunnell.ratArchGL2 h).det.val : ℝ) : ℂ)) := by
+  set D : ℂ := (((LanglandsTunnell.ratArchGL2 h).det.val : ℝ) : ℂ) with hD
+
+  have hterm : ∀ i : Fin (p + 1), Ψ (h * padicToAdelic p (ρQ p i)⁻¹)
+      = ((p : ℂ) * D) *
+        ((if (i : ℕ) < p then (ε ((p : ℕ) : ZMod N))⁻¹ else 1) *
+          ((⇑F ∣[(1 : ℤ)] Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (repQ p i))
+            ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h) UpperHalfPlane.I) := by
+    intro i
+    have h1 : h * padicToAdelic p (ρQ p i)⁻¹
+        = globalPoints (𝓞 ℚ) ℚ (repQ p i)⁻¹ * ((archPart (repQ p i) * h) * finEmbed (𝓞 ℚ) ℚ (kRep p i)) := by
+      rw [← globalPoints_repQ_mul_mul_padicToAdelic_inv p hh i, map_inv (globalPoints (𝓞 ℚ) ℚ),
+        mul_assoc (globalPoints (𝓞 ℚ) ℚ (repQ p i)) h, inv_mul_cancel_left]
+    have hpos' : LanglandsTunnell.ratArchGL2 (archPart (repQ p i) * h) ∈ Matrix.GLPos (Fin 2) ℝ := by
+      rw [ratArch_archPart_mul]
+      exact Subgroup.mul_mem _ (map_repQ_mem_GLPos p i) hpos
+    rw [h1, hΨ.left_inv, apply_mul_finEmbed_kRep p hε hΨ hpN i (glFin_archPart_mul hh _) hpos',
+      hΨ.apply_eq _ (glFin_archPart_mul hh _) hpos', weightOneArchLift_eq, ratArch_archPart_mul,
+      SlashAction.slash_mul, map_mul, Units.val_mul, det_map_repQ, hD]
+    push_cast
+    ring
+
+  have hclass : ∑ i : Fin (p + 1),
+      ((if (i : ℕ) < p then (ε ((p : ℕ) : ZMod N))⁻¹ else 1) *
+        ((⇑F ∣[(1 : ℤ)] Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (repQ p i))
+          ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h) UpperHalfPlane.I)
+      = (((ε ((p : ℕ) : ZMod N))⁻¹ • ModularForm.heckeU 1 p ⇑F + (⇑F) ∣[(1 : ℤ)] ModularForm.heckeDiagMatrix p)
+          ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h) UpperHalfPlane.I := by
+    rw [Fin.sum_univ_castSucc]
+    have hlast : (if ((Fin.last p : Fin (p + 1)) : ℕ) < p then (ε ((p : ℕ) : ZMod N))⁻¹ else (1 : ℂ)) = 1 :=
+      if_neg (by simp)
+    have hcast : ∀ i : Fin p,
+        (if ((Fin.castSucc i : Fin (p + 1)) : ℕ) < p then (ε ((p : ℕ) : ZMod N))⁻¹ else (1 : ℂ))
+          = (ε ((p : ℕ) : ZMod N))⁻¹ := fun i => if_pos (by simp [Fin.is_lt])
+    rw [hlast, one_mul, map_repQ_last_eq_heckeDiagMatrix]
+    rw [Finset.sum_congr rfl fun (i : Fin p) _ => by rw [hcast i], ← Finset.mul_sum]
+    have hdist : (∑ i : Fin p, (⇑F) ∣[(1 : ℤ)] ModularForm.heckeMatrix p (i : ℕ)) ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h
+        = ∑ i : Fin p, ((⇑F) ∣[(1 : ℤ)] ModularForm.heckeMatrix p (i : ℕ)) ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h :=
+      map_sum (slashHom 1 (LanglandsTunnell.ratArchGL2 h)) _ _
+    rw [SlashAction.add_slash, Pi.add_apply, ModularForm.smul_slash, Pi.smul_apply, smul_eq_mul,
+      σ_apply_of_det_pos ((Matrix.mem_glpos _).mp hpos), ModularForm.heckeU_def, Finset.sum_range, hdist,
+      Finset.sum_apply]
+    congr 2
+    refine Finset.sum_congr rfl fun i _ => ?_
+    rw [map_repQ_eq_heckeMatrix p (by simp)]
+    rfl
+  calc ∑ i : Fin (p + 1), Ψ (h * padicToAdelic p (ρQ p i)⁻¹)
+      = ∑ i : Fin (p + 1), ((p : ℂ) * D) *
+          ((if (i : ℕ) < p then (ε ((p : ℕ) : ZMod N))⁻¹ else 1) *
+            ((⇑F ∣[(1 : ℤ)] Matrix.GeneralLinearGroup.map (Rat.castHom ℝ) (repQ p i))
+              ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h) UpperHalfPlane.I) := Finset.sum_congr rfl fun i _ => hterm i
+    _ = ((p : ℂ) * D) * (((ε ((p : ℕ) : ZMod N))⁻¹ • ModularForm.heckeU 1 p ⇑F + (⇑F) ∣[(1 : ℤ)] ModularForm.heckeDiagMatrix p)
+          ∣[(1 : ℤ)] LanglandsTunnell.ratArchGL2 h) UpperHalfPlane.I := by rw [← Finset.mul_sum, hclass]
+    _ = _ := by rw [hD]; ring
+
+private theorem isLift1_weightOneLift [NeZero N] (F : CuspForm (CongruenceSubgroup.Gamma1 N) 1) :
+    IsLift1 F (DihedralWeightOne.weightOneLift (Ideal.span {(N : 𝓞 ℚ)}) (⇑F)) := by
+  have hf : ∀ γ : Matrix.SpecialLinearGroup (Fin 2) ℤ, γ ∈ CongruenceSubgroup.Gamma1 N →
+      (⇑F) ∣[(1 : ℤ)] (γ : GL (Fin 2) ℝ) = ⇑F :=
+    fun γ hγ => SlashInvariantForm.slash_action_eqn F (γ : GL (Fin 2) ℝ)
+      (Subgroup.mem_map_of_mem (Matrix.SpecialLinearGroup.mapGL ℝ) hγ)
+  obtain ⟨h1, h2, h3⟩ :=
+    DihedralWeightOne.weightOneLift_globalPoints_mul_and_mul_finEmbed_and_eq_weightOneArchLift (NeZero.ne N) (⇑F) hf
+  exact ⟨h1, h2, h3⟩
+
+end HeckeReading
+
+section MainT
+
+private theorem eq_ρQ_of_coe_eq (ℓ : ℕ) [hℓ : Fact ℓ.Prime] (ρ : Fin (ℓ + 1) → GL (Fin 2) ℚ_[ℓ])
+    (hρ : ∀ i : Fin (ℓ + 1), ((ρ i : GL (Fin 2) ℚ_[ℓ]) : Matrix (Fin 2) (Fin 2) ℚ_[ℓ]) =
+      if (i : ℕ) < ℓ then !![(1 : ℚ_[ℓ]), ((i : ℕ) : ℚ_[ℓ]); 0, (ℓ : ℚ_[ℓ])]
+      else !![(ℓ : ℚ_[ℓ]), 0; 0, 1]) (i : Fin (ℓ + 1)) :
+    ρ i = ρQ ℓ i := by
+  refine Units.ext ?_
+  rw [hρ i, coe_ρQ]
+  unfold HeckeCosets.repZ
+  split_ifs
+  · ext a b; fin_cases a <;> fin_cases b <;> simp
+  · ext a b; fin_cases a <;> fin_cases b <;> simp
+
+end MainT
+
+end DescentEngine
+
+end HC1Proof
+
+open NumberField NumberField.AdelicLevel AutomorphicForm DihedralWeightOne IsDedekindDomain
+open scoped MatrixGroups ModularForm
+
+open HC1Proof HC1Proof.DescentEngine AdelicDock in
+theorem solution
+    {N : ℕ} [NeZero N] {ε : DirichletCharacter ℂ N} {F : CuspForm (CongruenceSubgroup.Gamma1 N) 1}
+    (hε : CuspForm.HasNebentypus ε F)
+    (p : ℕ) [Fact p.Prime] (hpN : ¬ p ∣ N)
+    (ρ : Fin (p + 1) → GL (Fin 2) ℚ_[p])
+    (hρ : ∀ i : Fin (p + 1), ((ρ i : GL (Fin 2) ℚ_[p]) : Matrix (Fin 2) (Fin 2) ℚ_[p]) =
+      if (i : ℕ) < p then !![(1 : ℚ_[p]), ((i : ℕ) : ℚ_[p]); 0, (p : ℚ_[p])]
+      else !![(p : ℚ_[p]), 0; 0, 1])
+    {h : AdelicGL2 (𝓞 ℚ) ℚ}
+    (hh : glFin (𝓞 ℚ) ℚ h = 1)
+    (hpos : LanglandsTunnell.ratArchGL2 h ∈ Matrix.GLPos (Fin 2) ℝ) :
+    ∑ i : Fin (p + 1), weightOneLift (Ideal.span {(N : 𝓞 ℚ)}) (⇑F) (h * AdelicDock.padicToAdelic p (ρ i)⁻¹) =
+      (p : ℂ) *
+        ((((ε (p : ZMod N))⁻¹ • ModularForm.heckeU 1 p ⇑F +
+              (⇑F) ∣[(1 : ℤ)] ModularForm.heckeDiagMatrix p) ∣[(1 : ℤ)]
+            LanglandsTunnell.ratArchGL2 h) UpperHalfPlane.I *
+          (((LanglandsTunnell.ratArchGL2 h).det.val : ℝ) : ℂ)) := by
+  rw [← sum_apply_eq_slash p hε (isLift1_weightOneLift F) hpN hh hpos]
+  exact Finset.sum_congr rfl fun i _ => by rw [eq_ρQ_of_coe_eq p ρ hρ i]
+
+end S_DihedralWeightOne_sum_weightOneLift_mul_padicToAdelic_inv_eq_mul_slash_apply_I_mul_det
+end P2MW
+export P2MW.S_DihedralWeightOne_sum_weightOneLift_mul_padicToAdelic_inv_eq_mul_slash_apply_I_mul_det (solution)

@@ -1,0 +1,185 @@
+-- Prove2me | solution 1 for WeierstrassCurve.Affine.Point.zsmul_y_mul_psi_cube
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:13.503601+00:00
+-- url     : https://prove2.me/submissions/ce334005-cc78-5d27-94bb-65d2679dd7dc
+
+import Definitions.Def_EllipticCurve_DivisionPolynomialOmega
+import Theorems.Thm_WeierstrassCurve_Affine_Point_smul_some_eq_zero_iff
+import Mathlib.NumberTheory.EllipticDivisibilitySequence
+import Mathlib.Algebra.Ring.NegOnePow
+import Mathlib.Data.Fin.VecNotation
+import Mathlib.Data.Fin.Tuple.Sort
+import Mathlib.Algebra.GroupWithZero.NonZeroDivisors
+import Mathlib.Algebra.MvPolynomial.CommRing
+import Mathlib.Algebra.MvPolynomial.Basic
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.IntervalCases
+import Mathlib.Tactic.FieldSimp
+import Mathlib.GroupTheory.Perm.Basic
+import Mathlib.GroupTheory.Perm.Sign
+import Mathlib.GroupTheory.Perm.Cycle.Type
+import Mathlib.Algebra.Polynomial.Bivariate
+import Mathlib.AlgebraicGeometry.EllipticCurve.Affine.Point
+import Mathlib.AlgebraicGeometry.EllipticCurve.Jacobian.Point
+import Mathlib.AlgebraicGeometry.EllipticCurve.DivisionPolynomial.Basic
+import Mathlib.AlgebraicGeometry.EllipticCurve.DivisionPolynomial.Degree
+import Mathlib.FieldTheory.IsAlgClosed.Basic
+import Mathlib.FieldTheory.Separable
+import Mathlib.Data.Nat.Factorization.Induction
+import Mathlib.Logic.Embedding.Set
+import Mathlib.SetTheory.Cardinal.Finite
+import Mathlib.Data.Set.Card
+import Mathlib.Algebra.Module.Torsion.Basic
+import Definitions.Def_WeierstrassCurve_EDSEngine
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_WeierstrassCurve_Affine_Point_zsmul_y_mul_psi_cube
+
+section PortCardMulXY
+
+namespace PortCard
+
+p2m_open "WeierstrassCurve P2MW.S_WeierstrassCurve_Affine_Point_zsmul_y_mul_psi_cube.WeierstrassCurve WeierstrassCurve.Affine WeierstrassCurve.Affine.Point Polynomial"
+open scoped Polynomial.Bivariate
+
+theorem zsmul_some_eq_some_jac {F : Type*} [Field F] [DecidableEq F] (V : WeierstrassCurve F)
+    {x y : F} (h : V.toAffine.Nonsingular x y) {n : ℤ} (hψ : (V.ψ n).evalEval x y ≠ 0) :
+    ∃ h' : V.toAffine.Nonsingular ((V.φ n).evalEval x y / (V.ψ n).evalEval x y ^ 2)
+        ((V.ωe n).evalEval x y / (V.ψ n).evalEval x y ^ 3),
+      n • Point.some x y h = Point.some ((V.φ n).evalEval x y / (V.ψ n).evalEval x y ^ 2)
+        ((V.ωe n).evalEval x y / (V.ψ n).evalEval x y ^ 3) h' := by
+  have key := zsmul_eq_smulEval V h n
+  have hVz : smulEval V x y n 2 ≠ 0 := hψ
+  have hV := key ▸ (n • Jacobian.Point.fromAffine (Point.some x y h)).nonsingular
+  have hQeq : (n • Jacobian.Point.fromAffine (Point.some x y h)) =
+      Jacobian.Point.mk hV := Jacobian.Point.ext key
+  refine ⟨(Jacobian.nonsingular_of_Z_ne_zero hVz).mp hV, ?_⟩
+  calc n • Point.some x y h
+      = Jacobian.Point.toAffineAddEquiv V
+          (n • Jacobian.Point.fromAffine (Point.some x y h)) := by
+        rw [map_zsmul, ← Jacobian.Point.toAffineAddEquiv_symm_apply,
+          AddEquiv.apply_symm_apply]
+    _ = _ := by
+        rw [hQeq, Jacobian.Point.toAffineAddEquiv_apply]
+        exact Jacobian.Point.toAffineLift_of_Z_ne_zero hVz
+
+theorem some_congr {F : Type*} [CommRing F] {V : Affine F} {x₁ x₂ y₁ y₂ : F} (ex : x₁ = x₂)
+    (ey : y₁ = y₂) (h₁ : V.Nonsingular x₁ y₁) :
+    ∃ h₂ : V.Nonsingular x₂ y₂, Point.some x₁ y₁ h₁ = Point.some x₂ y₂ h₂ := by
+  subst ex ey; exact ⟨h₁, rfl⟩
+
+universe u v in
+
+theorem exists_zsmul_some_eq_some_baseChange {R : Type u} [CommRing R] (W : WeierstrassCurve R)
+    (n : ℤ) : ∃ ωe : R[X][Y], ∀ {F : Type v} [Field F] [DecidableEq F] [Algebra R F] {x y : F}
+      (h : (W.baseChange F).toAffine.Nonsingular x y),
+      ((W.baseChange F).ψ n).evalEval x y ≠ 0 →
+        ∃ h' : (W.baseChange F).toAffine.Nonsingular
+            (((W.baseChange F).Φ n).eval x / ((W.baseChange F).ΨSq n).eval x)
+            ((ωe.map (mapRingHom (algebraMap R F))).evalEval x y /
+              ((W.baseChange F).ψ n).evalEval x y ^ 3),
+          n • Point.some x y h =
+            Point.some (((W.baseChange F).Φ n).eval x / ((W.baseChange F).ΨSq n).eval x)
+              ((ωe.map (mapRingHom (algebraMap R F))).evalEval x y /
+                ((W.baseChange F).ψ n).evalEval x y ^ 3) h' := by
+  refine ⟨W.ωe n, ?_⟩
+  intro F _ _ _ x y h hψ
+  have hω : (W.baseChange F).ωe n = (W.ωe n).map (mapRingHom (algebraMap R F)) := by
+    rw [WeierstrassCurve.baseChange, map_ωe]
+  obtain ⟨h₁, e₁⟩ := zsmul_some_eq_some_jac (W.baseChange F) h hψ
+  have ex : ((W.baseChange F).φ n).evalEval x y / ((W.baseChange F).ψ n).evalEval x y ^ 2 =
+      ((W.baseChange F).Φ n).eval x / ((W.baseChange F).ΨSq n).eval x := by
+    rw [(W.baseChange F).evalEval_φ h.left n, (W.baseChange F).evalEval_ψ_sq h.left n]
+  have ey : ((W.baseChange F).ωe n).evalEval x y / ((W.baseChange F).ψ n).evalEval x y ^ 3 =
+      ((W.ωe n).map (mapRingHom (algebraMap R F))).evalEval x y /
+        ((W.baseChange F).ψ n).evalEval x y ^ 3 := by
+    rw [hω]
+  obtain ⟨h₂, e₂⟩ := some_congr ex ey h₁
+  exact ⟨h₂, e₁.trans e₂⟩
+
+end PortCard
+
+end PortCardMulXY
+
+universe u v
+
+section M4WilesOmega
+
+namespace WeierstrassCurve
+p2m_export "WeierstrassCurve" "Affine map Jacobian.nonsingular_of_Z_ne_zero Jacobian.Point.toAffineAddEquiv_symm_apply mk Jacobian Affine.Point.some Jacobian.Point.ext Jacobian.Point.fromAffine Jacobian.Point.toAffineAddEquiv_apply ΨSq toAffine Affine.Point Jacobian.Point.toAffineAddEquiv Jacobian.Point baseChange Jacobian.Point.toAffineLift_of_Z_ne_zero Jacobian.Point.mk ψDbl twoω Universal.curve Universal.map_specialize ω ω_eq_map_of_twoω_eq two_mul_ω_of_twoω_universal_eq Affine.Point.smul_some_eq_zero_iff map_specialize ψc ωe two_mul_ωe map_ωe smulEval zsmul_eq_smulEval evalEval_ψ_sq evalEval_φ"
+p2m_open "WeierstrassCurve"
+
+open Polynomial
+open scoped Polynomial.Bivariate
+
+variable {R : Type*} [CommRing R] (W : WeierstrassCurve R)
+
+lemma ψc_eq_ψDbl (n : ℤ) : W.ψc n = W.ψDbl n := rfl
+
+lemma twoω_eq_two_mul_ωe (n : ℤ) : W.twoω n = 2 * W.ωe n := by
+  rw [two_mul_ωe, ψc_eq_ψDbl, twoω]
+  ring
+
+namespace Universal p2m_export "WeierstrassCurve.Universal" "curve map_specialize" end Universal
+p2m_open_scoped "WeierstrassCurve.Universal" in
+
+lemma Universal.twoω_curve_eq (n : ℤ) : Universal.curve.twoω n = 2 * Universal.curve.ωe n :=
+  twoω_eq_two_mul_ωe _ n
+
+theorem ω_eq_ωe (n : ℤ) : W.ω n = W.ωe n := by
+  rw [W.ω_eq_map_of_twoω_eq (Universal.twoω_curve_eq n), ← map_ωe, Universal.map_specialize]
+
+theorem two_mul_ω_eq_twoω (n : ℤ) : 2 * W.ω n = W.twoω n :=
+  W.two_mul_ω_of_twoω_universal_eq (Universal.twoω_curve_eq n)
+
+end WeierstrassCurve
+
+end M4WilesOmega
+
+section M4WilesOmegaXY
+
+namespace M4Wiles
+
+p2m_open "WeierstrassCurve P2MW.S_WeierstrassCurve_Affine_Point_zsmul_y_mul_psi_cube.WeierstrassCurve WeierstrassCurve.Affine WeierstrassCurve.Affine.Point Polynomial"
+open scoped Polynomial.Bivariate
+
+variable {F : Type*} [Field F] [DecidableEq F] (W : WeierstrassCurve F)
+
+theorem zsmul_coords {n : ℤ} {x y : F} (h : W.toAffine.Nonsingular x y) {x' y' : F}
+    (h' : W.toAffine.Nonsingular x' y')
+    (hn : n • Point.some x y h = Point.some x' y' h') :
+    (W.ψ n).evalEval x y ≠ 0 ∧ x' * (W.ψ n).evalEval x y ^ 2 = (W.φ n).evalEval x y ∧
+      y' * (W.ψ n).evalEval x y ^ 3 = (W.ω n).evalEval x y := by
+  have hψ : (W.ψ n).evalEval x y ≠ 0 := by
+    intro h0
+    have := (WeierstrassCurve.Affine.Point.smul_some_eq_zero_iff W h n).mpr h0
+    rw [hn] at this
+    exact absurd this (by rintro ⟨⟩)
+  obtain ⟨h₁, e₁⟩ := PortCard.zsmul_some_eq_some_jac W h hψ
+  rw [hn] at e₁
+  simp only [Point.some.injEq] at e₁
+  obtain ⟨ex, ey⟩ := e₁
+  refine ⟨hψ, ?_, ?_⟩
+  · rw [ex, div_mul_cancel₀ _ (pow_ne_zero 2 hψ)]
+  · rw [ey, div_mul_cancel₀ _ (pow_ne_zero 3 hψ), ω_eq_ωe]
+
+end M4Wiles
+
+end M4WilesOmegaXY
+
+open Polynomial
+open scoped Polynomial.Bivariate
+
+theorem solution {F : Type*} [Field F] [DecidableEq F] (W : WeierstrassCurve F) [W.IsElliptic] (n : ℤ) {x y : F} (h : W.toAffine.Nonsingular x y) {x' y' : F} (h' : W.toAffine.Nonsingular x' y') (hn : n • WeierstrassCurve.Affine.Point.some x y h = WeierstrassCurve.Affine.Point.some x' y' h') : y' * ((W.ψ n).evalEval x y) ^ 3 = (W.ω n).evalEval x y :=
+  (M4Wiles.zsmul_coords W h h' hn).2.2
+
+end S_WeierstrassCurve_Affine_Point_zsmul_y_mul_psi_cube
+end P2MW
+export P2MW.S_WeierstrassCurve_Affine_Point_zsmul_y_mul_psi_cube (solution)

@@ -1,0 +1,36 @@
+-- Prove2me | solution 1 for GoodReductionJacobian.RelativeGroupLaw.smooth_of_charZero
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:07.331093+00:00
+-- url     : https://prove2.me/submissions/1bf3ebc5-2666-5679-8ae0-1ea1920e9c87
+
+import Mathlib
+import Definitions.Def_AlgebraicGeometry_RelativeGroupLaw
+import Definitions.Def_AlgebraicGeometry_RelativeGroupLawGrpObj
+import Theorems.Thm_GoodReductionJacobian_RelativeGroupLaw_isReduced_of_charZero
+import Theorems.Thm_AlgebraicGeometry_geometricallyReduced_of_isReduced_of_charZero
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_GoodReductionJacobian_RelativeGroupLaw_smooth_of_charZero
+p2m_attr_erase "simp" "GoodReductionJacobian.RelativeGroupLaw.baseChangePointToBase_ofBase GoodReductionJacobian.RelativeGroupLaw.baseChangePointToBase_coe GoodReductionJacobian.RelativeGroupLaw.baseChangePointOfBase_coe GoodReductionJacobian.RelativeGroupLaw.baseChange_inv GoodReductionJacobian.RelativeGroupLaw.baseChangePointOfBase_toBase GoodReductionJacobian.RelativeGroupLaw.baseChange_mul GoodReductionJacobian.RelativeGroupLaw.baseChange_one GoodReductionJacobian.RelativeGroupLaw.nsmul_zero GoodReductionJacobian.RelativeGroupLaw.mem_torsionSubset GoodReductionJacobian.RelativeGroupLaw.nsmul_succ NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_symm_restrict NeronModelInfra.schemeHomOverComp_id_left NeronModelInfra.schemeHomOverComp_id_right NeronModelInfra.schemeHomOverId_coe NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_apply NeronModelInfra.NeronModelPropertyBundle.restrict_endExtensionEquiv_symm NeronModelInfra.schemeHomOverComp_coe NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_fst NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_snd NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_fst NeronSpecialFibreInfra.neronEndRestrictEquiv_apply NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_fst_assoc NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_snd NeronSpecialFibreInfra.neronEndExtension_genericFibreRestrict NeronSpecialFibreInfra.specClosedFibreInclusion_eq NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_fst_assoc NeronSpecialFibreInfra.specialFibreRestrict_coe_comp_snd_assoc NeronSpecialFibreInfra.genericFibreRestrict_neronEndExtension NeronSpecialFibreInfra.homOverId_coe NeronSpecialFibreInfra.homOverComp_coe NeronSpecialFibreInfra.fibreRestrictAlong_coe_comp_snd_assoc GoodReductionJacobian.RelativeGroupLaw.fibre_inv GoodReductionJacobian.RelativeGroupLaw.fibrePointToBase_coe GoodReductionJacobian.RelativeGroupLaw.fibrePointOfBase_toBase GoodReductionJacobian.RelativeGroupLaw.fibre_mul GoodReductionJacobian.RelativeGroupLaw.fibrePointToBase_ofBase GoodReductionJacobian.RelativeGroupLaw.fibre_one GoodReductionJacobian.RelativeGroupLaw.fibrePointOfBase_coe"
+
+set_option autoImplicit false
+
+open CategoryTheory CategoryTheory.Limits AlgebraicGeometry NeronModelInfra GoodReductionJacobian
+
+theorem solution
+    (k : Type) [Field k] [CharZero k] {G : Scheme.{0}} (g : G ⟶ Spec (CommRingCat.of k)) [LocallyOfFiniteType g]
+    (L : RelativeGroupLaw k g) :
+    Smooth g := by
+  letI : GrpObj (Over.mk g) := L.grpObjOverMk
+  haveI : IsReduced G := GoodReductionJacobian.RelativeGroupLaw.isReduced_of_charZero k g L
+  haveI : GeometricallyReduced g := AlgebraicGeometry.geometricallyReduced_of_isReduced_of_charZero k g
+  exact AlgebraicGeometry.smooth_of_grpObj g
+
+end S_GoodReductionJacobian_RelativeGroupLaw_smooth_of_charZero
+end P2MW
+export P2MW.S_GoodReductionJacobian_RelativeGroupLaw_smooth_of_charZero (solution)

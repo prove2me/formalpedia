@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_ErdosProblems_Erdos243_PaperCompleteR20_iterRealForwardDiff_add
+-- name    : ErdosProblems.Erdos243.PaperCompleteR20.iterRealForwardDiff_add
+-- status  : Proved
+-- author  : @willcook
+-- created : 2026-09-24T22:56:33.968719+00:00
+-- url     : https://prove2.me/theorems/cc2f3412-f4fe-40d9-80d2-4aa610c604c9
+-- title:
+--   Lean source theorem: iterRealForwardDiff_add
+-- statement:
+--   The k-fold real forward-difference operator distributes over the sum of two real sequences.
+-- source:
+--   Lean source (Apache-2.0): https://github.com/wcook04/plectis-erdos-lean/blob/4fe59e0191169606942baae0949365070b7f419c/ErdosProblems/Erdos243/PaperCompleteR20/CubicRateDifferenceLimits.lean#L43-L51
+--   Related paper by Will Cook (CC-BY-4.0): https://github.com/wcook04/plectis-erdos/blob/6917e15ec4abc2623512254da93221e446eeb707/paper/243/erdos-243-reciprocal-tail-rigidity.tex#L1-L58
+--   Paper's AI-assistance disclosure: https://github.com/wcook04/plectis-erdos/blob/6917e15ec4abc2623512254da93221e446eeb707/paper/paper-house-style.sty#L180-L188
+--   Original Erdős problem and Koizumi prior work are distinguished in the paper: https://github.com/wcook04/plectis-erdos/blob/6917e15ec4abc2623512254da93221e446eeb707/paper/243/erdos-243-reciprocal-tail-rigidity.tex#L57-L110
+
+import Definitions.Def_ErdosProblems_Erdos243_PaperCompleteR20_CubicRateFiniteDifference
+import Definitions.Def_ErdosProblems_Erdos243_PaperCompleteR20_CubicRateDifferenceLimits
+import Mathlib
+
+/-!
+# Erdős 243: limit transport for the cubic finite-difference extraction
+
+The paper's analytic comparison produces a residual whose first forward
+difference tends to zero.  This file proves that this is exactly enough for
+the fourth difference of the integer numerator to tend to zero, because the
+rising cubic has identically zero fourth difference.
+-/
+
+noncomputable section
+
+
+open Filter
+
+open ErdosProblems.Erdos243.PaperCompleteR20
+
+theorem ErdosProblems.Erdos243.PaperCompleteR20.iterRealForwardDiff_add (k : ℕ) (u v : ℕ → ℝ) :
+    iterRealForwardDiff k (fun n => u n + v n) =
+      fun n => iterRealForwardDiff k u n + iterRealForwardDiff k v n := by sorry

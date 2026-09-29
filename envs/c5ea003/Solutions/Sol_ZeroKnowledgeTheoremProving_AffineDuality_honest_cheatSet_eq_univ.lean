@@ -1,0 +1,108 @@
+-- Prove2me | solution 1 for ZeroKnowledgeTheoremProving.AffineDuality.honest_cheatSet_eq_univ
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-13T12:31:28.930975+00:00
+-- url     : https://prove2.me/submissions/787d715a-da31-4ef9-be0a-5f5a07894dcf
+
+-- Sol generated from Applications/ZeroKnowledgeTheoremProving/ProvabilityAmplification.lean
+import Mathlib
+import Definitions.Def_Applications_ZeroKnowledgeTheoremProving_AffineDuality
+import Definitions.Def_Applications_ZeroKnowledgeTheoremProving_ProvabilityAmplification
+
+/-!
+# Zero-Knowledge Provability: Amplification, Support Geometry and Proof Transfer
+
+This file continues the affine Σ-protocol theory of
+`Applications.ZeroKnowledgeTheoremProving.AffineDuality`, where the two
+directions of one affine law were shown to give *privacy* (translating a random
+tape by the witness is a measure-preserving permutation) and *extraction*
+(subtracting two accepting responses at one commitment recovers a witness).
+
+Here we push that duality into three genuinely new layers.
+
+1. **Support geometry.** The real execution of the protocol does not merely have
+   the same multiset of transcripts as the simulator; that common multiset is
+   *exactly* the set of accepting transcripts with the given challenge, each
+   occurring with multiplicity one (`real_support_eq_accepting`,
+   `real_count_le_one`). So the verifier's view is a *uniform* distribution on
+   a set defined by the public verification equation alone.
+
+2. **Soundness amplification (counting).** If the public statement has no
+   witness, then for any fixed commitment vector a cheating prover can answer at
+   *most one* challenge vector out of `2 ^ n` (`cheatSet_card_le_one`), giving a
+   quantitative soundness error `≤ (1/2)^n` (`soundness_error_le`), while an
+   honest prover holding a witness answers *all* `2 ^ n` of them
+   (`honest_cheatSet_eq_univ`). The resulting dichotomy
+   (`amplified_soundness_dichotomy`) is exponentially sharp: the accepting set
+   jumps from cardinality `≤ 1` to cardinality `2 ^ n`.
+
+3. **Provability transfer.** Packaging a formal proof system (a checking
+   relation `Checks : Thm → Prf → Prop`) into the group-theoretic statement via
+   an encoding turns the Σ-protocol into a zero-knowledge proof *of provability*:
+   the verifier becomes convinced that `∃ p, Checks T p` (`zk_convinces_provable`)
+   although its entire view is produced by a simulator that never sees a proof,
+   and is literally identical for any two proofs of `T`
+   (`zk_provability_transfer`).
+
+The cross-domain bridge is: a finite abelian group acting by translation
+(algebra) controls a counting/measure statement on transcript multisets
+(combinatorics/probability), which in turn certifies a purely logical statement
+about a proof system (logic).
+-/
+
+open ZeroKnowledgeTheoremProving.AffineDuality
+
+open Finset
+
+variable {G H : Type*} [AddCommGroup G] [AddCommGroup H]
+
+/-! ## 1. Support geometry of the verifier's view -/
+
+
+
+
+
+
+/-! ## 2. Kernel-coset structure of the witness set -/
+
+
+
+
+/-! ## 3. Soundness amplification over `n` parallel rounds -/
+
+
+variable (s : Statement (G := G) (H := H)) (n : ℕ)
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## 4. Zero-knowledge proofs of provability -/
+
+
+variable {Thm Prf : Type*}
+
+
+
+
+
+
+
+open ZeroKnowledgeTheoremProving.AffineDuality in
+open scoped Classical in
+theorem solution{w : G} (hw : IsWitness s w) (r : Fin n → G) :
+    cheatSet s n (honestProver s n w r) = Finset.univ := by
+  apply Finset.eq_univ_of_forall
+  intro c
+  simp only [cheatSet, Finset.mem_filter, Finset.mem_univ, true_and]
+  intro i
+  have hw' : s.hom w = s.target := hw
+  cases h : c i <;>
+    simp [Accepts, honestProver, challengeTerm, h, map_add, hw']

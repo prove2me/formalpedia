@@ -1,0 +1,942 @@
+-- Prove2me | solution 1 for LanglandsTunnell.RankinSelberg.exists_pos_forall_integral_mul_jacquetIntegral_godementSection_mul_row_eq_mul_integral_row_mul_row_mul_torusZeta
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:08.670037+00:00
+-- url     : https://prove2.me/submissions/dc02f8dc-5e12-51ad-958d-ffc09c5acd07
+
+import Mathlib
+import Definitions.Def_LanglandsTunnell_CubicInduction_PrincipalSeries2
+import Definitions.Def_LanglandsTunnell_StandardLocalConstantsAt
+import Definitions.Def_AutomorphicForm_LocalOrbitalBase
+import Definitions.Def_NumberField_AdelicLevel
+import Definitions.Def_HaarQuotient
+import Theorems.Thm_HaarQuotient_integrable_setIntegral_mul_out_and_setIntegral_eq_integral_setIntegral_mul_out
+import Theorems.Thm_LanglandsTunnell_TateLocal_modulus_adicCompletion_eq_nnnorm
+import Theorems.Thm_LanglandsTunnell_TateLocal_isHaarMeasure_comap_val_mulMeasure
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_LanglandsTunnell_RankinSelberg_exists_pos_forall_integral_mul_jacquetIntegral_godementSection_mul_row_eq_mul_integral_row_mul_row_mul_torusZeta
+
+set_option autoImplicit false
+
+open MeasureTheory IsDedekindDomain NumberField AutomorphicForm LanglandsTunnell.TateLocal LanglandsTunnell.CubicInduction
+
+open NumberField.AdelicLevel (diagOne)
+open scoped ENNReal NNReal Pointwise
+
+noncomputable section
+
+namespace RS22GodementRefold
+
+section LocalField
+
+variable (p : HeightOneSpectrum (𝓞 ℚ))
+
+local notation "F" => (HeightOneSpectrum.adicCompletion ℚ p)
+
+theorem coe_modulus_eq_norm (x : F) : ((modulus x : ℝ≥0) : ℝ) = ‖x‖ := by
+  rw [LanglandsTunnell.TateLocal.modulus_adicCompletion_eq_nnnorm ℚ p x, coe_nnnorm]
+
+theorem norm_units_pos (u : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : 0 < ‖(u : F)‖ :=
+  norm_pos_iff.mpr u.ne_zero
+
+scoped instance secondCountable_units : SecondCountableTopology (HeightOneSpectrum.adicCompletion ℚ p)ˣ :=
+  Units.isEmbedding_val₀.secondCountableTopology
+
+theorem borelSpace_units {G₀ : Type*} [GroupWithZero G₀] [TopologicalSpace G₀] [ContinuousInv₀ G₀]
+    [MeasurableSpace G₀] [BorelSpace G₀] : BorelSpace G₀ˣ := by
+  refine ⟨?_⟩
+  have hind : (inferInstance : TopologicalSpace G₀ˣ) = TopologicalSpace.induced Units.val inferInstance :=
+    (Units.isEmbedding_val₀ (G₀ := G₀)).eq_induced
+  show MeasurableSpace.comap Units.val (inferInstance : MeasurableSpace G₀) = borel G₀ˣ
+  rw [BorelSpace.measurable_eq (α := G₀), ← borel_comap, ← hind]
+
+attribute [local instance] LanglandsTunnell.TateLocal.localBorel LanglandsTunnell.TateLocal.borelSpace_localBorel
+
+theorem isAddHaarMeasure_selfDualHaarAt : (selfDualHaarAt ℚ p : Measure F).IsAddHaarMeasure := by
+  have hq : (Ideal.absNorm p.asIdeal : ℝ≥0) ≠ 0 := by
+    have h : 1 < Ideal.absNorm p.asIdeal := NumberField.HeightOneSpectrum.one_lt_absNorm p
+    exact_mod_cast (show Ideal.absNorm p.asIdeal ≠ 0 by omega)
+  have hc : ((Ideal.absNorm p.asIdeal : ℝ≥0) ^
+      (-(addCharLevel (NumberField.StandardAddChar.psiLocal ℚ p) : ℝ) / 2)) ≠ 0 :=
+    (NNReal.rpow_pos (pos_iff_ne_zero.mpr hq)).ne'
+  show ((((Ideal.absNorm p.asIdeal : ℝ≥0) ^ (-(addCharLevel (NumberField.StandardAddChar.psiLocal ℚ p) : ℝ) / 2))
+      • Measure.addHaarMeasure (integersPositiveCompacts ℚ p) : Measure F)).IsAddHaarMeasure
+  rw [ENNReal.smul_def]
+  exact Measure.IsAddHaarMeasure.smul _ (by exact_mod_cast hc) ENNReal.coe_ne_top
+
+theorem scalar_identity (r t : ℝ) (hr : 0 < r) (ht : 0 < t) (s : ℂ) :
+    ((Real.sqrt (1 / r) : ℝ) : ℂ) * ((r * t : ℝ) : ℂ) ^ s =
+      ((r : ℝ) : ℂ) ^ (s - 1 / 2) * ((t : ℝ) : ℂ) ^ s := by
+  have hr0 : ((r : ℝ) : ℂ) ≠ 0 := by exact_mod_cast hr.ne'
+  have ht0 : ((t : ℝ) : ℂ) ≠ 0 := by exact_mod_cast ht.ne'
+  have htr0 : ((r * t : ℝ) : ℂ) ≠ 0 := by exact_mod_cast (mul_pos hr ht).ne'
+  have e1 : ((Real.sqrt (1 / r) : ℝ) : ℂ) = Complex.exp ((((-Real.log r) / 2 : ℝ)) : ℂ) := by
+    rw [Real.sqrt_eq_rpow, Real.rpow_def_of_pos (by positivity), one_div, Real.log_inv, Complex.ofReal_exp]
+    congr 1
+    push_cast
+    ring
+  have e2 : ((r * t : ℝ) : ℂ) ^ s = Complex.exp (((Real.log r + Real.log t : ℝ) : ℂ) * s) := by
+    rw [Complex.cpow_def_of_ne_zero htr0, ← Complex.ofReal_log (mul_pos hr ht).le, Real.log_mul hr.ne' ht.ne']
+  have e4 : ((r : ℝ) : ℂ) ^ (s - 1 / 2) = Complex.exp (((Real.log r : ℝ) : ℂ) * (s - 1 / 2)) := by
+    rw [Complex.cpow_def_of_ne_zero hr0, ← Complex.ofReal_log hr.le]
+  have e5 : ((t : ℝ) : ℂ) ^ s = Complex.exp (((Real.log t : ℝ) : ℂ) * s) := by
+    rw [Complex.cpow_def_of_ne_zero ht0, ← Complex.ofReal_log ht.le]
+  rw [e1, e2, e4, e5, ← Complex.exp_add, ← Complex.exp_add]
+  congr 1
+  push_cast
+  ring
+
+end LocalField
+
+section GL2
+
+variable (p : HeightOneSpectrum (𝓞 ℚ))
+
+local notation "F" => (HeightOneSpectrum.adicCompletion ℚ p)
+local notation "G" => (GL (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p))
+local notation "Mat" => (Matrix (Fin 2) (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p))
+
+scoped instance : SecondCountableTopology (Matrix (Fin 2) (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p)) :=
+  inferInstanceAs (SecondCountableTopology (Fin 2 → Fin 2 → HeightOneSpectrum.adicCompletion ℚ p))
+
+scoped instance : SecondCountableTopology (Matrix (Fin 2) (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p))ᵐᵒᵖ :=
+  MulOpposite.opHomeomorph.symm.secondCountableTopology
+
+scoped instance secondCountableTopology_localGL : SecondCountableTopology G :=
+  Units.isEmbedding_embedProduct.isInducing.secondCountableTopology
+
+scoped instance locallyCompactSpace_localGL' : LocallyCompactSpace G := locallyCompactSpace_localGL ℚ p
+
+theorem continuous_entry (i j : Fin 2) : Continuous fun g : G => (g : Mat) i j :=
+  (Units.continuous_val).matrix_elem i j
+
+theorem continuous_row (i : Fin 2) : Continuous fun g : G => (g : Mat) i :=
+  continuous_pi fun j => continuous_entry p i j
+
+abbrev unip : Subgroup G := (unipotentGL2Hom (R := HeightOneSpectrum.adicCompletion ℚ p)).range
+
+theorem coe_unip_eq :
+    ((unip p : Subgroup G) : Set G) = {g : G | (g : Mat) 0 0 = 1 ∧ (g : Mat) 1 0 = 0 ∧ (g : Mat) 1 1 = 1} := by
+  ext g
+  simp only [SetLike.mem_coe, MonoidHom.mem_range, Set.mem_setOf_eq]
+  constructor
+  · rintro ⟨x, rfl⟩
+    simp [unipotentGL2Hom, unipotentGL2_coe]
+  · rintro ⟨h00, h10, h11⟩
+    refine ⟨Multiplicative.ofAdd ((g : Mat) 0 1), Units.ext ?_⟩
+    change ((unipotentGL2 ((g : Mat) 0 1) : G) : Mat) = (g : Mat)
+    rw [unipotentGL2_coe]
+    ext i j; fin_cases i <;> fin_cases j <;> simp [h00, h10, h11]
+
+theorem isClosed_unip : IsClosed ((unip p : Subgroup G) : Set G) := by
+  rw [coe_unip_eq]
+  exact ((isClosed_singleton.preimage (continuous_entry p 0 0)).inter
+    ((isClosed_singleton.preimage (continuous_entry p 1 0)).inter
+      (isClosed_singleton.preimage (continuous_entry p 1 1))))
+
+theorem unip_eq_unipotentGL2 (n : unip p) : (n : G) = unipotentGL2 (((n : G) : Mat) 0 1) := by
+  obtain ⟨z, hz⟩ := n.2
+  rw [← hz]
+  change (unipotentGL2 z.toAdd : G) = unipotentGL2 (((unipotentGL2 z.toAdd : G) : Mat) 0 1)
+  have h01 : (((unipotentGL2 z.toAdd : G) : Mat) 0 1) = z.toAdd := by simp [unipotentGL2_coe]
+  rw [h01]
+
+theorem unip_comm (m n : unip p) : m * n = n * m := by
+  refine Subtype.ext ?_
+  change (m : G) * (n : G) = (n : G) * (m : G)
+  rw [unip_eq_unipotentGL2 p m, unip_eq_unipotentGL2 p n, ← unipotentGL2_add, ← unipotentGL2_add, add_comm]
+
+theorem det_unipotentGL2 (x : F) : Matrix.GeneralLinearGroup.det (unipotentGL2 x : G) = 1 := by
+  refine Units.ext ?_
+  rw [Matrix.GeneralLinearGroup.val_det_apply, unipotentGL2_coe, Matrix.det_fin_two_of]
+  simp
+
+theorem row_unipotentGL2_mul (x : F) (g : G) : (((unipotentGL2 x * g : G)) : Mat) 1 = (g : Mat) 1 := by
+  funext j
+  simp [Units.val_mul, Matrix.mul_apply, Fin.sum_univ_two, unipotentGL2_coe]
+
+theorem continuous_unipotentGL2 : Continuous fun y : F => (unipotentGL2 y : G) := by
+  rw [Units.continuous_iff]
+  constructor
+  · have h : (Units.val ∘ fun y : F => (unipotentGL2 y : G)) = fun y => !![1, y; 0, 1] := funext fun y => rfl
+    rw [h]
+    refine continuous_matrix fun i j => ?_
+    fin_cases i <;> fin_cases j <;> simp <;> first | exact continuous_const | exact continuous_id
+  · have h : (fun y : F => (((unipotentGL2 y : G)⁻¹ : G) : Mat)) = fun y => !![1, -y; 0, 1] :=
+      funext fun y => rfl
+    show Continuous fun y : F => (((unipotentGL2 y : G)⁻¹ : G) : Mat)
+    rw [h]
+    refine continuous_matrix fun i j => ?_
+    fin_cases i <;> fin_cases j <;> simp <;> first | exact continuous_const | exact continuous_neg
+
+def unipHomeo : F ≃ₜ (unip p) where
+  toFun y := ⟨unipotentGL2 y, ⟨Multiplicative.ofAdd y, rfl⟩⟩
+  invFun n := ((n : G) : Mat) 0 1
+  left_inv y := by simp [unipotentGL2_coe]
+  right_inv n := Subtype.ext (unip_eq_unipotentGL2 p n).symm
+  continuous_toFun := (continuous_unipotentGL2 p).subtype_mk _
+  continuous_invFun := (continuous_entry p 0 1).comp continuous_subtype_val
+
+theorem unipHomeo_apply_coe (y : F) : ((unipHomeo p y : unip p) : G) = unipotentGL2 y := rfl
+
+theorem unipHomeo_add (y y' : F) : unipHomeo p (y + y') = unipHomeo p y * unipHomeo p y' :=
+  Subtype.ext (by simp [unipHomeo_apply_coe, unipotentGL2_add])
+
+abbrev torA : Subgroup G := (diagOne (A := HeightOneSpectrum.adicCompletion ℚ p)).range
+
+theorem coe_diagOne (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) :
+    ((diagOne y : G) : Mat) = Matrix.diagonal ![(y : F), 1] := rfl
+
+theorem det_diagOne (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) :
+    Matrix.GeneralLinearGroup.det (diagOne y : G) = y := by
+  refine Units.ext ?_
+  rw [Matrix.GeneralLinearGroup.val_det_apply, coe_diagOne, Matrix.det_diagonal]
+  simp [Fin.prod_univ_two]
+
+theorem coe_torA_eq :
+    ((torA p : Subgroup G) : Set G) = {g : G | (g : Mat) 0 1 = 0 ∧ (g : Mat) 1 0 = 0 ∧ (g : Mat) 1 1 = 1} := by
+  ext g
+  simp only [SetLike.mem_coe, MonoidHom.mem_range, Set.mem_setOf_eq]
+  constructor
+  · rintro ⟨y, rfl⟩
+    simp [coe_diagOne]
+  · rintro ⟨h01, h10, h11⟩
+    refine ⟨Matrix.GeneralLinearGroup.det g, Units.ext ?_⟩
+    have hdet : ((Matrix.GeneralLinearGroup.det g : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) = (g : Mat) 0 0 := by
+      rw [Matrix.GeneralLinearGroup.val_det_apply, Matrix.det_fin_two, h01, h11]
+      ring
+    change ((diagOne (Matrix.GeneralLinearGroup.det g) : G) : Mat) = (g : Mat)
+    rw [coe_diagOne, hdet]
+    ext i j; fin_cases i <;> fin_cases j <;> simp [h01, h10, h11]
+
+theorem isClosed_torA : IsClosed ((torA p : Subgroup G) : Set G) := by
+  rw [coe_torA_eq]
+  exact ((isClosed_singleton.preimage (continuous_entry p 0 1)).inter
+    ((isClosed_singleton.preimage (continuous_entry p 1 0)).inter
+      (isClosed_singleton.preimage (continuous_entry p 1 1))))
+
+theorem torA_eq_diagOne (a : torA p) : (a : G) = diagOne (Matrix.GeneralLinearGroup.det (a : G)) := by
+  obtain ⟨y, hy⟩ := a.2
+  rw [← hy, det_diagOne]
+
+theorem torA_comm (a b : torA p) : a * b = b * a := by
+  refine Subtype.ext ?_
+  change (a : G) * (b : G) = (b : G) * (a : G)
+  obtain ⟨y, hy⟩ := a.2
+  obtain ⟨y', hy'⟩ := b.2
+  rw [← hy, ← hy', ← map_mul, ← map_mul, mul_comm]
+
+theorem row_diagOne_mul (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) (h : G) :
+    (((diagOne y * h : G)) : Mat) 1 = (h : Mat) 1 := by
+  funext j
+  simp [Units.val_mul, Matrix.mul_apply, Fin.sum_univ_two, coe_diagOne]
+
+theorem continuous_diagOne : Continuous fun y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => (diagOne y : G) := by
+  rw [Units.continuous_iff]
+  constructor
+  · show Continuous fun y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => ((diagOne y : G) : Mat)
+    refine continuous_matrix fun i j => ?_
+    fin_cases i <;> fin_cases j <;> simp [coe_diagOne, Matrix.diagonal] <;>
+      first | exact continuous_const | exact Units.continuous_val
+  · have h : (fun y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => (((diagOne y : G)⁻¹ : G) : Mat)) =
+        fun y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ =>
+          Matrix.diagonal ![((y⁻¹ : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F), 1] :=
+      funext fun y => rfl
+    show Continuous fun y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => (((diagOne y : G)⁻¹ : G) : Mat)
+    rw [h]
+    refine continuous_matrix fun i j => ?_
+    fin_cases i <;> fin_cases j <;> simp [Matrix.diagonal] <;>
+      first
+        | exact continuous_const
+        | exact Units.continuous_coe_inv
+        | exact Units.continuous_val.inv₀ fun u => u.ne_zero
+
+def torHomeo : (HeightOneSpectrum.adicCompletion ℚ p)ˣ ≃ₜ (torA p) where
+  toFun y := ⟨diagOne y, ⟨y, rfl⟩⟩
+  invFun a := Matrix.GeneralLinearGroup.det (a : G)
+  left_inv y := det_diagOne p y
+  right_inv a := Subtype.ext (torA_eq_diagOne p a).symm
+  continuous_toFun := (continuous_diagOne p).subtype_mk _
+  continuous_invFun := Matrix.GeneralLinearGroup.continuous_det.comp continuous_subtype_val
+
+theorem torHomeo_apply_coe (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : ((torHomeo p y : torA p) : G) = diagOne y :=
+  rfl
+
+theorem torHomeo_mul (y y' : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) :
+    torHomeo p (y * y') = torHomeo p y * torHomeo p y' :=
+  Subtype.ext (by simp [torHomeo_apply_coe])
+
+theorem continuous_modulus_det :
+    Continuous fun g : G =>
+      ((modulus ((Matrix.GeneralLinearGroup.det g : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) : ℝ) : ℂ) := by
+  have : (fun g : G => ((modulus ((Matrix.GeneralLinearGroup.det g : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) :
+      ℝ) : ℂ)) = fun g : G => ((‖(g : Mat).det‖ : ℝ) : ℂ) := by
+    funext g
+    rw [coe_modulus_eq_norm, Matrix.GeneralLinearGroup.val_det_apply]
+  rw [this]
+  exact Complex.continuous_ofReal.comp (continuous_norm.comp (Units.continuous_val.matrix_det))
+
+theorem antidiag_mul_diagOne (w₀ : G) (hw₀ : (w₀ : Mat) = !![0, 1; 1, 0]) (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) :
+    w₀ * diagOne y = diagonal2 p ![1, y] * w₀ := by
+  refine Units.ext ?_
+  change (w₀ : Mat) * ((diagOne y : G) : Mat) = ((diagonal2 p ![1, y] : G) : Mat) * (w₀ : Mat)
+  rw [hw₀, coe_diagOne, diagonal2_coe]
+  ext i j
+  fin_cases i <;> fin_cases j <;> simp [Matrix.mul_apply, Matrix.diagonal]
+
+theorem torusChar2_one_left (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ))
+    (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) :
+    torusChar2 p χ ![1, y] = ((χ 1 y : ℂˣ) : ℂ) := by
+  simp [torusChar2, Fin.prod_univ_two]
+
+theorem halfModulus2_one_left (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) :
+    halfModulus2 p ![1, y] = ((Real.sqrt (1 / ‖(y : F)‖) : ℝ) : ℂ) := by
+  simp [halfModulus2]
+
+end GL2
+
+section SubgroupHaar
+
+variable (p : HeightOneSpectrum (𝓞 ℚ))
+
+local notation "F" => (HeightOneSpectrum.adicCompletion ℚ p)
+local notation "G" => (GL (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p))
+local notation "Mat" => (Matrix (Fin 2) (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p))
+
+attribute [local instance] LanglandsTunnell.TateLocal.localBorel LanglandsTunnell.TateLocal.borelSpace_localBorel
+  AutomorphicForm.localGLBorel AutomorphicForm.borelSpace_localGLBorel
+
+scoped instance borelSpace_units_local : BorelSpace (HeightOneSpectrum.adicCompletion ℚ p)ˣ := borelSpace_units
+
+scoped instance locallyCompactSpace_unip : LocallyCompactSpace (unip p) := (isClosed_unip p).locallyCompactSpace
+
+scoped instance secondCountable_unip : SecondCountableTopology (unip p) :=
+  TopologicalSpace.Subtype.secondCountableTopology ((unip p : Subgroup G) : Set G)
+
+scoped instance locallyCompactSpace_torA : LocallyCompactSpace (torA p) := (isClosed_torA p).locallyCompactSpace
+
+scoped instance secondCountable_torA : SecondCountableTopology (torA p) :=
+  TopologicalSpace.Subtype.secondCountableTopology ((torA p : Subgroup G) : Set G)
+
+theorem isMulRightInvariant_unip (μN : Measure (unip p)) [μN.IsMulLeftInvariant] : μN.IsMulRightInvariant := by
+  refine ⟨fun n₀ => ?_⟩
+  have h : (fun n : unip p => n * n₀) = fun n => n₀ * n := funext fun n => unip_comm p n n₀
+  rw [h]
+  exact map_mul_left_eq_self μN n₀
+
+theorem isMulRightInvariant_torA (μA : Measure (torA p)) [μA.IsMulLeftInvariant] : μA.IsMulRightInvariant := by
+  refine ⟨fun a₀ => ?_⟩
+  have h : (fun a : torA p => a * a₀) = fun a => a₀ * a := funext fun a => torA_comm p a a₀
+  rw [h]
+  exact map_mul_left_eq_self μA a₀
+
+def unipMeasure (ν : Measure F) : Measure (unip p) := Measure.map (unipHomeo p) ν
+
+theorem measurable_unipHomeo : Measurable (unipHomeo p) := (unipHomeo p).continuous.measurable
+
+scoped instance isHaarMeasure_unipMeasure (ν : Measure F) [ν.IsAddHaarMeasure] : (unipMeasure p ν).IsHaarMeasure where
+  map_mul_left_eq_self n₀ := by
+    obtain ⟨y₀, rfl⟩ : ∃ y₀, unipHomeo p y₀ = n₀ := ⟨(unipHomeo p).symm n₀, (unipHomeo p).apply_symm_apply n₀⟩
+    unfold unipMeasure
+    rw [Measure.map_map (measurable_const_mul _) (measurable_unipHomeo p)]
+    have hcomp : ((fun n : unip p => unipHomeo p y₀ * n) ∘ (unipHomeo p)) = (unipHomeo p) ∘ fun y : F => y₀ + y := by
+      funext y
+      simp [Function.comp_apply, unipHomeo_add]
+    rw [hcomp, ← Measure.map_map (measurable_unipHomeo p) (measurable_const_add _), map_add_left_eq_self]
+  lt_top_of_isCompact K hK := by
+    unfold unipMeasure
+    rw [Measure.map_apply (measurable_unipHomeo p) hK.measurableSet]
+    have : (unipHomeo p) ⁻¹' K = (unipHomeo p).symm '' K := by
+      rw [← Homeomorph.image_symm]
+    rw [this]
+    exact (hK.image (unipHomeo p).symm.continuous).measure_lt_top
+  open_pos U hU hne := by
+    unfold unipMeasure
+    rw [Measure.map_apply (measurable_unipHomeo p) hU.measurableSet]
+    exact (hU.preimage (unipHomeo p).continuous).measure_ne_zero ν (hne.preimage (unipHomeo p).surjective)
+
+theorem exists_eq_smul_unipMeasure (ν : Measure F) [ν.IsAddHaarMeasure] (μN : Measure (unip p)) [μN.IsHaarMeasure] :
+    ∃ c : ℝ≥0, 0 < c ∧ μN = c • unipMeasure p ν :=
+  ⟨μN.haarScalarFactor (unipMeasure p ν), Measure.haarScalarFactor_pos_of_isHaarMeasure _ _,
+    Measure.isMulLeftInvariant_eq_smul _ _⟩
+
+theorem integral_unip_eq (ν : Measure F) [ν.IsAddHaarMeasure] (μN : Measure (unip p)) [μN.IsHaarMeasure]
+    {c : ℝ≥0} (hc : μN = c • unipMeasure p ν) (h : unip p → ℂ) :
+    ∫ n, h n ∂μN = (c : ℂ) * ∫ y, h (unipHomeo p y) ∂ν := by
+  rw [hc, integral_smul_nnreal_measure]
+  unfold unipMeasure
+  rw [← Homeomorph.toMeasurableEquiv_coe, integral_map_equiv]
+  rw [NNReal.smul_def, Complex.real_smul]
+
+def torMeasure (τ : Measure (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : Measure (torA p) := Measure.map (torHomeo p) τ
+
+theorem measurable_torHomeo : Measurable (torHomeo p) := (torHomeo p).continuous.measurable
+
+scoped instance isHaarMeasure_torMeasure (τ : Measure (HeightOneSpectrum.adicCompletion ℚ p)ˣ) [τ.IsHaarMeasure] :
+    (torMeasure p τ).IsHaarMeasure where
+  map_mul_left_eq_self a₀ := by
+    obtain ⟨y₀, rfl⟩ : ∃ y₀, torHomeo p y₀ = a₀ := ⟨(torHomeo p).symm a₀, (torHomeo p).apply_symm_apply a₀⟩
+    unfold torMeasure
+    rw [Measure.map_map (measurable_const_mul _) (measurable_torHomeo p)]
+    have hcomp : ((fun a : torA p => torHomeo p y₀ * a) ∘ (torHomeo p)) =
+        (torHomeo p) ∘ fun y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => y₀ * y := by
+      funext y
+      simp [Function.comp_apply, torHomeo_mul]
+    rw [hcomp, ← Measure.map_map (measurable_torHomeo p) (measurable_const_mul _), map_mul_left_eq_self]
+  lt_top_of_isCompact K hK := by
+    unfold torMeasure
+    rw [Measure.map_apply (measurable_torHomeo p) hK.measurableSet]
+    have : (torHomeo p) ⁻¹' K = (torHomeo p).symm '' K := by
+      rw [← Homeomorph.image_symm]
+    rw [this]
+    exact (hK.image (torHomeo p).symm.continuous).measure_lt_top
+  open_pos U hU hne := by
+    unfold torMeasure
+    rw [Measure.map_apply (measurable_torHomeo p) hU.measurableSet]
+    exact (hU.preimage (torHomeo p).continuous).measure_ne_zero τ (hne.preimage (torHomeo p).surjective)
+
+theorem exists_eq_smul_torMeasure (τ : Measure (HeightOneSpectrum.adicCompletion ℚ p)ˣ) [τ.IsHaarMeasure]
+    (μA : Measure (torA p)) [μA.IsHaarMeasure] :
+    ∃ c : ℝ≥0, 0 < c ∧ μA = c • torMeasure p τ :=
+  ⟨μA.haarScalarFactor (torMeasure p τ), Measure.haarScalarFactor_pos_of_isHaarMeasure _ _,
+    Measure.isMulLeftInvariant_eq_smul _ _⟩
+
+theorem integral_torA_eq (τ : Measure (HeightOneSpectrum.adicCompletion ℚ p)ˣ) [τ.IsHaarMeasure]
+    (μA : Measure (torA p)) [μA.IsHaarMeasure]
+    {c : ℝ≥0} (hc : μA = c • torMeasure p τ) (h : torA p → ℂ) :
+    ∫ a, h a ∂μA = (c : ℂ) * ∫ y, h (torHomeo p y) ∂τ := by
+  rw [hc, integral_smul_nnreal_measure]
+  unfold torMeasure
+  rw [← Homeomorph.toMeasurableEquiv_coe, integral_map_equiv]
+  rw [NNReal.smul_def, Complex.real_smul]
+
+end SubgroupHaar
+
+section Unfold
+
+variable {G : Type*} [Group G] [TopologicalSpace G] [IsTopologicalGroup G] [LocallyCompactSpace G]
+  [SecondCountableTopology G] [MeasurableSpace G] [BorelSpace G]
+
+theorem integrable_and_integral_eq_unfold
+    (μ : Measure G) [μ.IsMulLeftInvariant] [SFinite μ]
+    (H : Subgroup G) (hH : IsClosed (H : Set G))
+    (μH : Measure H) [μH.IsHaarMeasure] [μH.IsMulRightInvariant]
+    (Φ : G → ℂ) (hΦm : Measurable Φ) (hΦi : Integrable Φ μ) :
+    (∀ᵐ g ∂(μ.withDensity (HaarQuotient.density H μH)), Integrable (fun x : H => Φ ((x : G) * g)) μH) ∧
+    Integrable (fun g : G => ∫ x : H, Φ ((x : G) * g) ∂μH) (μ.withDensity (HaarQuotient.density H μH)) ∧
+    ∫ g, Φ g ∂μ = ∫ g, (∫ x : H, Φ ((x : G) * g) ∂μH) ∂(μ.withDensity (HaarQuotient.density H μH)) := by
+  classical
+
+  have hS : IsFundamentalDomain (↥(⊥ : Subgroup G)) (Set.univ : Set G) μ :=
+    ⟨MeasurableSet.univ.nullMeasurableSet, Filter.Eventually.of_forall fun x => ⟨1, Set.mem_univ _⟩,
+      Subsingleton.pairwise⟩
+  haveI : Subsingleton (↥((⊥ : Subgroup G).subgroupOf H)) := ⟨fun a b => by
+    refine Subtype.ext (Subtype.ext ?_)
+    have ha := a.2
+    have hb := b.2
+    rw [Subgroup.mem_subgroupOf, Subgroup.mem_bot] at ha hb
+    rw [ha, hb]⟩
+  have hT : IsFundamentalDomain (↥((⊥ : Subgroup G).subgroupOf H)) (Set.univ : Set H) μH :=
+    ⟨MeasurableSet.univ.nullMeasurableSet, Filter.Eventually.of_forall fun x => ⟨1, Set.mem_univ _⟩,
+      Subsingleton.pairwise⟩
+  have hfin : ∫⁻ g in Set.univ, ‖Φ g‖ₑ ∂μ < ⊤ := by
+    rw [Measure.restrict_univ]
+    exact hΦi.2
+  obtain ⟨h1, h2, h3⟩ :=
+    HaarQuotient.integrable_setIntegral_mul_out_and_setIntegral_eq_integral_setIntegral_mul_out μ H hH μH ⊥ bot_le Φ
+      hΦm (fun γ hγ g => by rw [Subgroup.mem_bot.mp hγ, one_mul]) Set.univ hS Set.univ hT hfin
+  simp only [Measure.restrict_univ] at h2 h3
+  simp only [integrableOn_univ] at h1
+
+  set μD := μ.withDensity (HaarQuotient.density H μH) with hμD
+  set Ξ : MulAction.orbitRel.Quotient H G → ℂ := fun q => ∫ x : H, Φ ((x : G) * q.out) ∂μH with hΞ
+  have hmk : Measurable (Quotient.mk'' : G → MulAction.orbitRel.Quotient H G) := measurable_quotient_mk''
+  have hmeas : HaarQuotient.measure μ H μH = Measure.map (Quotient.mk'' : G → MulAction.orbitRel.Quotient H G) μD :=
+    rfl
+  rw [hmeas] at h1 h2 h3
+  have hΞi : Integrable Ξ (Measure.map (Quotient.mk'' : G → MulAction.orbitRel.Quotient H G) μD) := h2
+  have hcomp : Integrable (Ξ ∘ (Quotient.mk'' : G → MulAction.orbitRel.Quotient H G)) μD :=
+    (integrable_map_measure hΞi.aestronglyMeasurable hmk.aemeasurable).mp hΞi
+  have hint : ∫ q, Ξ q ∂(Measure.map (Quotient.mk'' : G → MulAction.orbitRel.Quotient H G) μD) =
+      ∫ g, Ξ (Quotient.mk'' g) ∂μD :=
+    integral_map hmk.aemeasurable hΞi.aestronglyMeasurable
+
+  have hfib : ∀ g : G, Ξ (Quotient.mk'' g) = ∫ x : H, Φ ((x : G) * g) ∂μH := by
+    intro g
+    have hrel : @Setoid.r _ (MulAction.orbitRel H G) ((Quotient.mk'' g : MulAction.orbitRel.Quotient H G).out) g :=
+      Quotient.mk_out' g
+    rw [MulAction.orbitRel_apply, MulAction.mem_orbit_iff] at hrel
+    obtain ⟨n, hn⟩ := hrel
+    simp only [hΞ]
+    rw [← hn, Subgroup.smul_def, smul_eq_mul]
+    have := integral_mul_right_eq_self (μ := μH) (fun x : H => Φ ((x : G) * g)) n
+    simpa only [Subgroup.coe_mul, mul_assoc] using this
+  have hfun : (Ξ ∘ (Quotient.mk'' : G → MulAction.orbitRel.Quotient H G)) = fun g => ∫ x : H, Φ ((x : G) * g) ∂μH :=
+    funext fun g => hfib g
+
+  have hae : ∀ᵐ g ∂μD, Integrable (fun x : H => Φ ((x : G) * g)) μH := by
+    have h1' := ae_of_ae_map hmk.aemeasurable h1
+    filter_upwards [h1'] with g hg
+    have hrel : @Setoid.r _ (MulAction.orbitRel H G) ((Quotient.mk'' g : MulAction.orbitRel.Quotient H G).out) g :=
+      Quotient.mk_out' g
+    rw [MulAction.orbitRel_apply, MulAction.mem_orbit_iff] at hrel
+    obtain ⟨n, hn⟩ := hrel
+    rw [← hn, Subgroup.smul_def, smul_eq_mul] at hg
+    have := hg.comp_mul_right n⁻¹
+    refine this.congr (Filter.Eventually.of_forall fun x => ?_)
+    simp only [Subgroup.coe_mul, Subgroup.coe_inv, mul_assoc, inv_mul_cancel_left]
+  refine ⟨hae, hfun ▸ hcomp, ?_⟩
+  rw [h3, hint]
+  exact integral_congr_ae (Filter.Eventually.of_forall hfib)
+
+end Unfold
+
+section Main
+
+variable (p : HeightOneSpectrum (𝓞 ℚ))
+
+local notation "F" => (HeightOneSpectrum.adicCompletion ℚ p)
+local notation "G" => (GL (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p))
+local notation "Mat" => (Matrix (Fin 2) (Fin 2) (HeightOneSpectrum.adicCompletion ℚ p))
+
+attribute [local instance] LanglandsTunnell.TateLocal.localBorel LanglandsTunnell.TateLocal.borelSpace_localBorel
+  AutomorphicForm.localGLBorel AutomorphicForm.borelSpace_localGLBorel
+
+def mulHaar : Measure (HeightOneSpectrum.adicCompletion ℚ p)ˣ :=
+  Measure.comap Units.val (mulMeasure (selfDualHaarAt ℚ p))
+
+scoped instance isHaarMeasure_mulHaar : (mulHaar p).IsHaarMeasure := by
+  haveI := isAddHaarMeasure_selfDualHaarAt p
+  exact LanglandsTunnell.TateLocal.isHaarMeasure_comap_val_mulMeasure ℚ p (selfDualHaarAt ℚ p)
+
+def adet (g : G) : ℝ :=
+  ((modulus ((Matrix.GeneralLinearGroup.det g : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) : ℝ))
+
+theorem adet_pos (g : G) : 0 < adet p g := by
+  simp only [adet, coe_modulus_eq_norm]
+  exact norm_units_pos p _
+
+theorem adet_unipotentGL2_mul (x : F) (g : G) : adet p (unipotentGL2 x * g) = adet p g := by
+  simp only [adet, map_mul, det_unipotentGL2, one_mul]
+
+theorem adet_diagOne_mul (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) (h : G) :
+    adet p (diagOne y * h) = ‖(y : F)‖ * adet p h := by
+  simp only [adet, map_mul, det_diagOne, Units.val_mul, coe_modulus_eq_norm, norm_mul]
+
+def phiFn (w : G → ℂ) (f : G → ℂ) (w₀ : G) (Φ : (Fin 2 → F) → ℂ) (s : ℂ) (g : G) : ℂ :=
+  w g * f (w₀ * g) * Φ ((g : Mat) 1) * ((adet p g : ℝ) : ℂ) ^ s
+
+theorem phiFn_apply (w : G → ℂ) (f : G → ℂ) (w₀ : G) (Φ : (Fin 2 → F) → ℂ) (s : ℂ) (g : G) :
+    phiFn p w f w₀ Φ s g = w g * f (w₀ * g) * Φ ((g : Mat) 1) * ((adet p g : ℝ) : ℂ) ^ s :=
+  rfl
+
+theorem measurable_phiFn {w : G → ℂ} (hw : IsLocallyConstant w) {f : G → ℂ} (hf : IsLocallyConstant f) (w₀ : G)
+    {Φ : (Fin 2 → F) → ℂ} (hΦ : IsLocallyConstant Φ) (s : ℂ) :
+    Measurable (phiFn p w f w₀ Φ s) := by
+  have h1 : Continuous w := hw.continuous
+  have h2 : Continuous fun g : G => f (w₀ * g) := hf.continuous.comp (continuous_const.mul continuous_id)
+  have h3 : Continuous fun g : G => Φ ((g : Mat) 1) := hΦ.continuous.comp (continuous_row p 1)
+  have h4 : Measurable fun g : G => ((adet p g : ℝ) : ℂ) ^ s := (continuous_modulus_det p).measurable.pow_const _
+  exact (((h1.mul h2).mul h3).measurable).mul h4
+
+theorem phiFn_unipotent_mul {w : G → ℂ}
+    (hwlaw : ∀ (x : F) (g : G), w (unipotentGL2 x * g) = NumberField.StandardAddChar.psiLocal ℚ p x * w g)
+    (f : G → ℂ) (w₀ : G) (Φ : (Fin 2 → F) → ℂ) (s : ℂ) (y : F) (g : G) :
+    phiFn p w f w₀ Φ s (unipotentGL2 y * g) =
+      (w g * Φ ((g : Mat) 1) * ((adet p g : ℝ) : ℂ) ^ s) *
+        (f (w₀ * unipotentGL2 y * g) * NumberField.StandardAddChar.psiLocal ℚ p y) := by
+  rw [phiFn_apply, hwlaw, row_unipotentGL2_mul, adet_unipotentGL2_mul, ← mul_assoc w₀]
+  ring
+
+theorem phiFn_diagOne_mul (w : G → ℂ) (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ))
+    (f : G → ℂ) (hf : f ∈ principalSeries2 p χ)
+    (w₀ : G) (hw₀ : (w₀ : Mat) = !![0, 1; 1, 0]) (Φ : (Fin 2 → F) → ℂ) (s : ℂ)
+    (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) (h : G) :
+    phiFn p w f w₀ Φ s (diagOne y * h) =
+      (f (w₀ * h) * Φ ((h : Mat) 1) * ((adet p h : ℝ) : ℂ) ^ s) *
+        (w (diagOne y * h) * ((χ 1 y : ℂˣ) : ℂ) * ((modulus (y : F) : ℝ) : ℂ) ^ (s - 1 / 2)) := by
+  obtain ⟨-, -, hfT⟩ := mem_principalSeries2_iff.mp hf
+  rw [phiFn_apply, ← mul_assoc w₀, antidiag_mul_diagOne p w₀ hw₀ y, mul_assoc (diagonal2 p ![1, y]), hfT,
+    torusChar2_one_left, halfModulus2_one_left, row_diagOne_mul, adet_diagOne_mul, coe_modulus_eq_norm]
+  have key := scalar_identity ‖(y : F)‖ (adet p h) (norm_units_pos p y) (adet_pos p h) s
+  linear_combination (w (diagOne y * h) * ((χ 1 y : ℂˣ) : ℂ) * f (w₀ * h) * Φ ((h : Mat) 1)) * key
+
+theorem fibre_integral_unip_eq (ν : Measure F) [ν.IsAddHaarMeasure] (μN : Measure (unip p)) [μN.IsHaarMeasure]
+    {cN : ℝ≥0} (hcN : μN = cN • unipMeasure p ν)
+    {w : G → ℂ}
+    (hwlaw : ∀ (x : F) (g : G), w (unipotentGL2 x * g) = NumberField.StandardAddChar.psiLocal ℚ p x * w g)
+    (f : G → ℂ) (w₀ : G) (Φ : (Fin 2 → F) → ℂ) (s : ℂ) (g : G) :
+    ∫ n : unip p, phiFn p w f w₀ Φ s ((n : G) * g) ∂μN =
+      (cN : ℂ) * ((w g * (∫ y, f (w₀ * unipotentGL2 y * g) * NumberField.StandardAddChar.psiLocal ℚ p y ∂ν) *
+          Φ ((g : Mat) 1)) * ((adet p g : ℝ) : ℂ) ^ s) := by
+  rw [integral_unip_eq p ν μN hcN]
+  congr 1
+  simp_rw [unipHomeo_apply_coe, phiFn_unipotent_mul p hwlaw]
+  rw [integral_const_mul]
+  ring
+
+theorem fibre_integral_torA_eq (μA : Measure (torA p)) [μA.IsHaarMeasure]
+    {cA : ℝ≥0} (hcA : μA = cA • torMeasure p (mulHaar p))
+    (w : G → ℂ) (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ))
+    (f : G → ℂ) (hf : f ∈ principalSeries2 p χ)
+    (w₀ : G) (hw₀ : (w₀ : Mat) = !![0, 1; 1, 0]) (Φ : (Fin 2 → F) → ℂ) (s : ℂ) (h : G) :
+    ∫ a : torA p, phiFn p w f w₀ Φ s ((a : G) * h) ∂μA =
+      (cA : ℂ) * ((f (w₀ * h) * Φ ((h : Mat) 1) * ((adet p h : ℝ) : ℂ) ^ s) *
+        ∫ y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ,
+          w (diagOne y * h) * ((χ 1 y : ℂˣ) : ℂ) * ((modulus (y : F) : ℝ) : ℂ) ^ (s - 1 / 2) ∂(mulHaar p)) := by
+  rw [integral_torA_eq p (mulHaar p) μA hcA]
+  congr 1
+  simp_rw [torHomeo_apply_coe, phiFn_diagOne_mul p w χ f hf w₀ hw₀ Φ s]
+  rw [integral_const_mul]
+
+theorem row_one_antidiag_mul (w₀ : G) (hw₀ : (w₀ : Mat) = !![0, 1; 1, 0]) (h : G) :
+    (((w₀ * h : G)) : Mat) 1 = (h : Mat) 0 := by
+  funext j
+  simp [Units.val_mul, Matrix.mul_apply, Fin.sum_univ_two, hw₀]
+
+theorem det_antidiag (w₀ : G) (hw₀ : (w₀ : Mat) = !![0, 1; 1, 0]) :
+    Matrix.GeneralLinearGroup.det w₀ = -1 := by
+  refine Units.ext ?_
+  rw [Matrix.GeneralLinearGroup.val_det_apply, hw₀, Matrix.det_fin_two_of]
+  simp
+
+theorem adet_antidiag_mul (w₀ : G) (hw₀ : (w₀ : Mat) = !![0, 1; 1, 0]) (h : G) :
+    adet p (w₀ * h) = adet p h := by
+  simp only [adet, map_mul, det_antidiag p w₀ hw₀, Units.val_mul, Units.val_neg, Units.val_one,
+    coe_modulus_eq_norm, norm_mul, norm_neg, norm_one, one_mul]
+
+theorem row_zero_diagOne_mul (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) (h : G) (j : Fin 2) :
+    (((diagOne y * h : G)) : Mat) 0 j = (y : F) * (h : Mat) 0 j := by
+  simp [Units.val_mul, Matrix.mul_apply, Fin.sum_univ_two, coe_diagOne]
+
+scoped instance isMulRightInvariant_mulHaar : (mulHaar p).IsMulRightInvariant := by
+  refine ⟨fun y₀ => ?_⟩
+  have h : (fun y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => y * y₀) = fun y => y₀ * y := funext fun y => mul_comm y y₀
+  rw [h]
+  exact map_mul_left_eq_self (mulHaar p) y₀
+
+theorem coe_modulus_units_ne_zero (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : ((modulus (y : F) : ℝ) : ℂ) ≠ 0 := by
+  rw [coe_modulus_eq_norm]
+  exact_mod_cast (norm_units_pos p y).ne'
+
+theorem modulus_mul_cpow (t y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) (e : ℂ) :
+    ((modulus (((t * y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ)) : F) : ℝ) : ℂ) ^ e =
+      ((modulus (t : F) : ℝ) : ℂ) ^ e * ((modulus (y : F) : ℝ) : ℂ) ^ e := by
+  rw [Units.val_mul, coe_modulus_eq_norm, coe_modulus_eq_norm, coe_modulus_eq_norm, norm_mul, Complex.ofReal_mul]
+  exact Complex.mul_cpow_ofReal_nonneg (norm_nonneg _) (norm_nonneg _) e
+
+def torusZeta (w : G → ℂ) (χ₁ : (HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ) (s : ℂ) (g : G) : ℂ :=
+  ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, w (diagOne t * g) * ((χ₁ t : ℂˣ) : ℂ) * ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2) ∂(mulHaar p)
+
+theorem torusZeta_diagOne_mul (w : G → ℂ) (χ₁ : (HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ) (s : ℂ) (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) (h : G) :
+    torusZeta p w χ₁ s (diagOne y * h) =
+      (((χ₁ y : ℂˣ) : ℂ))⁻¹ * ((modulus (y : F) : ℝ) : ℂ) ^ (1 / 2 - s) * torusZeta p w χ₁ s h := by
+  unfold torusZeta
+  set C : ℂ := (((χ₁ y : ℂˣ) : ℂ))⁻¹ * ((modulus (y : F) : ℝ) : ℂ) ^ (1 / 2 - s) with hC
+  set K : (HeightOneSpectrum.adicCompletion ℚ p)ˣ → ℂ := fun t => w (diagOne t * h) * ((χ₁ t : ℂˣ) : ℂ) * ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2)
+    with hK
+  have hy0 : ((χ₁ y : ℂˣ) : ℂ) ≠ 0 := Units.ne_zero _
+  have hm : ((modulus (y : F) : ℝ) : ℂ) ^ (1 / 2 - s) * ((modulus (y : F) : ℝ) : ℂ) ^ (s - 1 / 2) = 1 := by
+    rw [← Complex.cpow_add _ _ (coe_modulus_units_ne_zero p y)]
+    have : (1 / 2 - s) + (s - 1 / 2) = (0 : ℂ) := by ring
+    rw [this, Complex.cpow_zero]
+  have hpt : (fun t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => w (diagOne t * (diagOne y * h)) * ((χ₁ t : ℂˣ) : ℂ) *
+        ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2)) = fun t => (fun t' => C * K t') (t * y) := by
+    funext t
+    simp only [hK]
+    rw [← mul_assoc (diagOne t : G), ← map_mul, map_mul χ₁, Units.val_mul, modulus_mul_cpow p t y]
+    have e : C * (w (diagOne (t * y) * h) * (((χ₁ t : ℂˣ) : ℂ) * ((χ₁ y : ℂˣ) : ℂ)) *
+        (((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2) * ((modulus (y : F) : ℝ) : ℂ) ^ (s - 1 / 2))) =
+        w (diagOne (t * y) * h) * ((χ₁ t : ℂˣ) : ℂ) * ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2) *
+          (((((χ₁ y : ℂˣ) : ℂ))⁻¹ * ((χ₁ y : ℂˣ) : ℂ)) *
+            (((modulus (y : F) : ℝ) : ℂ) ^ (1 / 2 - s) * ((modulus (y : F) : ℝ) : ℂ) ^ (s - 1 / 2))) := by
+      simp only [hC]; ring
+    rw [e, inv_mul_cancel₀ hy0, hm, mul_one, mul_one]
+  rw [hpt, integral_mul_right_eq_self (fun t' => C * K t') y, integral_const_mul]
+
+def godFn (w : G → ℂ) (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ)) (Φ₁ Φ₂ : (Fin 2 → F) → ℂ) (s : ℂ) (g : G) : ℂ :=
+  Φ₁ ((g : Mat) 0) * Φ₂ ((g : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+      ((adet p g : ℝ) : ℂ) ^ (s + 1 / 2) * torusZeta p w (χ 1) s g
+
+theorem measurable_torusZeta {w : G → ℂ} (hw : IsLocallyConstant w) {χ₁ : (HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ}
+    (hχ₁ : IsLocallyConstant χ₁) (s : ℂ) : Measurable (torusZeta p w χ₁ s) := by
+  have hK : Measurable (fun q : G × (HeightOneSpectrum.adicCompletion ℚ p)ˣ =>
+      w (diagOne q.2 * q.1) * ((χ₁ q.2 : ℂˣ) : ℂ) * ((modulus ((q.2 : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) : ℝ) : ℂ) ^ (s - 1 / 2)) := by
+    have h1 : Continuous fun q : G × (HeightOneSpectrum.adicCompletion ℚ p)ˣ => w (diagOne q.2 * q.1) :=
+      hw.continuous.comp (((continuous_diagOne p).comp continuous_snd).mul continuous_fst)
+    have h2 : Continuous fun q : G × (HeightOneSpectrum.adicCompletion ℚ p)ˣ => ((χ₁ q.2 : ℂˣ) : ℂ) :=
+      Units.continuous_val.comp (hχ₁.continuous.comp continuous_snd)
+    have h3 : Measurable fun q : G × (HeightOneSpectrum.adicCompletion ℚ p)ˣ => ((modulus ((q.2 : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) : ℝ) : ℂ) ^ (s - 1 / 2) := by
+      have hc : Continuous fun q : G × (HeightOneSpectrum.adicCompletion ℚ p)ˣ => ((modulus ((q.2 : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) : ℝ) : ℂ) := by
+        have e : (fun q : G × (HeightOneSpectrum.adicCompletion ℚ p)ˣ => ((modulus ((q.2 : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F) : ℝ) : ℂ)) =
+            fun q => (((‖((q.2 : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) : F)‖ : ℝ)) : ℂ) := by
+          funext q; rw [coe_modulus_eq_norm]
+        rw [e]
+        exact Complex.continuous_ofReal.comp (continuous_norm.comp (Units.continuous_val.comp continuous_snd))
+      exact hc.measurable.pow_const _
+    exact ((h1.mul h2).measurable).mul h3
+  exact (hK.stronglyMeasurable.integral_prod_right' (ν := mulHaar p)).measurable
+
+theorem measurable_godFn {w : G → ℂ} (hw : IsLocallyConstant w) {χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ)}
+    (hχ : ∀ i, IsLocallyConstant (χ i)) {Φ₁ Φ₂ : (Fin 2 → F) → ℂ} (hΦ₁ : IsLocallyConstant Φ₁)
+    (hΦ₂ : IsLocallyConstant Φ₂) (s : ℂ) : Measurable (godFn p w χ Φ₁ Φ₂ s) := by
+  have h1 : Continuous fun g : G => Φ₁ ((g : Mat) 0) := hΦ₁.continuous.comp (continuous_row p 0)
+  have h2 : Continuous fun g : G => Φ₂ ((g : Mat) 1) := hΦ₂.continuous.comp (continuous_row p 1)
+  have h3 : Continuous fun g : G => ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) :=
+    Units.continuous_val.comp ((hχ 0).continuous.comp Matrix.GeneralLinearGroup.continuous_det)
+  have h4 : Measurable fun g : G => ((adet p g : ℝ) : ℂ) ^ (s + 1 / 2) :=
+    (continuous_modulus_det p).measurable.pow_const _
+  exact ((((h1.mul h2).mul h3).measurable).mul h4).mul (measurable_torusZeta p hw (hχ 1) s)
+
+theorem integrable_godFn (μ₂ : Measure G) {w : G → ℂ} {χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ)} {Φ₁ Φ₂ : (Fin 2 → F) → ℂ} {s : ℂ}
+    (hm : Measurable (godFn p w χ Φ₁ Φ₂ s))
+    (h2 : Integrable (fun g : G =>
+        ‖Φ₁ ((g : Mat) 0) * Φ₂ ((g : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+            ((adet p g : ℝ) : ℂ) ^ (s + 1 / 2)‖ *
+          ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, ‖w (diagOne t * g) * ((χ 1 t : ℂˣ) : ℂ) * ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2)‖ ∂(mulHaar p)) μ₂) :
+    Integrable (godFn p w χ Φ₁ Φ₂ s) μ₂ := by
+  refine Integrable.mono' h2 hm.aestronglyMeasurable (Filter.Eventually.of_forall fun g => ?_)
+  rw [godFn, norm_mul]
+  exact mul_le_mul_of_nonneg_left (norm_integral_le_integral_norm _) (norm_nonneg _)
+
+theorem scalar_identity2 (r t : ℝ) (hr : 0 < r) (ht : 0 < t) (s : ℂ) :
+    ((r * t : ℝ) : ℂ) ^ (s + 1 / 2) * ((r : ℝ) : ℂ) ^ (1 / 2 - s) = ((r : ℝ) : ℂ) * ((t : ℝ) : ℂ) ^ (s + 1 / 2) := by
+  have hr0 : ((r : ℝ) : ℂ) ≠ 0 := by exact_mod_cast hr.ne'
+  rw [Complex.ofReal_mul, Complex.mul_cpow_ofReal_nonneg hr.le ht.le]
+  have e : ((r : ℝ) : ℂ) ^ (s + 1 / 2) * ((r : ℝ) : ℂ) ^ (1 / 2 - s) = ((r : ℝ) : ℂ) := by
+    rw [← Complex.cpow_add _ _ hr0]
+    have : s + 1 / 2 + (1 / 2 - s) = (1 : ℂ) := by ring
+    rw [this, Complex.cpow_one]
+  linear_combination (((t : ℝ) : ℂ) ^ (s + 1 / 2)) * e
+
+theorem godFn_diagOne_mul (w : G → ℂ) (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ)) (Φ₁ Φ₂ : (Fin 2 → F) → ℂ) (s : ℂ)
+    (y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ) (h : G) :
+    godFn p w χ Φ₁ Φ₂ s (diagOne y * h) =
+      (Φ₂ ((h : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det h) : ℂˣ) : ℂ) *
+          ((adet p h : ℝ) : ℂ) ^ (s + 1 / 2) * torusZeta p w (χ 1) s h) *
+        (Φ₁ (fun j => (y : F) * (h : Mat) 0 j) * ((χ 0 y : ℂˣ) : ℂ) * (((χ 1 y : ℂˣ) : ℂ))⁻¹ *
+          ((modulus (y : F) : ℝ) : ℂ)) := by
+  have hrow0 : (((diagOne y * h : G)) : Mat) 0 = fun j => (y : F) * (h : Mat) 0 j :=
+    funext (row_zero_diagOne_mul p y h)
+  rw [godFn, hrow0, row_diagOne_mul, map_mul Matrix.GeneralLinearGroup.det, det_diagOne, map_mul (χ 0),
+    Units.val_mul, adet_diagOne_mul, torusZeta_diagOne_mul, coe_modulus_eq_norm p (y : F)]
+  have key := scalar_identity2 ‖(y : F)‖ (adet p h) (norm_units_pos p y) (adet_pos p h) s
+  linear_combination (Φ₁ (fun j => (y : F) * (h : Mat) 0 j) * Φ₂ ((h : Mat) 1) * ((χ 0 y : ℂˣ) : ℂ) *
+    ((χ 0 (Matrix.GeneralLinearGroup.det h) : ℂˣ) : ℂ) * (((χ 1 y : ℂˣ) : ℂ))⁻¹ * torusZeta p w (χ 1) s h) * key
+
+theorem fibre_integral_torA_godFn (w : G → ℂ) (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ)) (Φ₁ Φ₂ : (Fin 2 → F) → ℂ) (s : ℂ)
+    (h : G) :
+    ∫ a : torA p, godFn p w χ Φ₁ Φ₂ s ((a : G) * h) ∂(torMeasure p (mulHaar p)) =
+      (Φ₂ ((h : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det h) : ℂˣ) : ℂ) *
+          ((adet p h : ℝ) : ℂ) ^ (s + 1 / 2) * torusZeta p w (χ 1) s h) *
+        ∫ y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, Φ₁ (fun j => (y : F) * (h : Mat) 0 j) * ((χ 0 y : ℂˣ) : ℂ) * (((χ 1 y : ℂˣ) : ℂ))⁻¹ *
+          ((modulus (y : F) : ℝ) : ℂ) ∂(mulHaar p) := by
+  rw [integral_torA_eq p (mulHaar p) (torMeasure p (mulHaar p)) (c := 1) (by rw [one_smul])]
+  simp_rw [torHomeo_apply_coe, godFn_diagOne_mul p w χ Φ₁ Φ₂ s]
+  rw [integral_const_mul]
+  push_cast
+  ring
+
+theorem T_eq_of_godement (w : G → ℂ) (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ)) (Φ₁ Φ₂ : (Fin 2 → F) → ℂ) (f : G → ℂ)
+    (w₀ : G) (hw₀ : (w₀ : Mat) = !![0, 1; 1, 0]) (s : ℂ) (h : G)
+    (hG : f (w₀ * h) =
+      ((χ 0 (Matrix.GeneralLinearGroup.det (w₀ * h)) : ℂˣ) : ℂ) * ((adet p (w₀ * h) : ℝ) : ℂ) ^ (1 / 2 : ℂ) *
+        ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, Φ₁ (fun j => (t : F) * ((w₀ * h : G) : Mat) 1 j) * ((χ 0 t : ℂˣ) : ℂ) *
+          (((χ 1 t : ℂˣ) : ℂ))⁻¹ * ((modulus (t : F) : ℝ) : ℂ) ∂(mulHaar p)) :
+    (f (w₀ * h) * Φ₂ ((h : Mat) 1) * ((adet p h : ℝ) : ℂ) ^ s) * torusZeta p w (χ 1) s h =
+      ((χ 0 (-1) : ℂˣ) : ℂ) *
+        ((Φ₂ ((h : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det h) : ℂˣ) : ℂ) *
+            ((adet p h : ℝ) : ℂ) ^ (s + 1 / 2) * torusZeta p w (χ 1) s h) *
+          ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, Φ₁ (fun j => (t : F) * (h : Mat) 0 j) * ((χ 0 t : ℂˣ) : ℂ) * (((χ 1 t : ℂˣ) : ℂ))⁻¹ *
+            ((modulus (t : F) : ℝ) : ℂ) ∂(mulHaar p)) := by
+  rw [map_mul Matrix.GeneralLinearGroup.det w₀ h, det_antidiag p w₀ hw₀, map_mul (χ 0), Units.val_mul,
+    adet_antidiag_mul p w₀ hw₀] at hG
+  simp only [row_one_antidiag_mul p w₀ hw₀] at hG
+  have key : ((adet p h : ℝ) : ℂ) ^ (s + 1 / 2) = ((adet p h : ℝ) : ℂ) ^ (1 / 2 : ℂ) * ((adet p h : ℝ) : ℂ) ^ s := by
+    rw [← Complex.cpow_add _ _ (by exact_mod_cast (adet_pos p h).ne'), add_comm]
+  rw [hG, key]
+  ring
+
+theorem main :
+    ∀ (μ₂ : Measure G) [μ₂.IsHaarMeasure]
+      (μN₂ : Measure (unip p)) [μN₂.IsHaarMeasure]
+      (ν : Measure F) [ν.IsAddHaarMeasure],
+    ∃ c : ℝ, 0 < c ∧
+      ∀ (w : G → ℂ) (_hwlc : IsLocallyConstant w)
+        (_hwlaw : ∀ (x : F) (g : G), w (unipotentGL2 x * g) = NumberField.StandardAddChar.psiLocal ℚ p x * w g)
+        (χ : Fin 2 → ((HeightOneSpectrum.adicCompletion ℚ p)ˣ →* ℂˣ)) (_hχ : ∀ i, IsLocallyConstant (χ i))
+        (Φ₁ : (Fin 2 → F) → ℂ) (_hΦ₁ : IsLocallyConstant Φ₁ ∧ HasCompactSupport Φ₁)
+        (f : G → ℂ) (_hf : f ∈ principalSeries2 p χ)
+        (_hfΦ₁ : ∀ g : G,
+          Integrable (fun t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ => Φ₁ (fun j : Fin 2 => (t : F) * (g : Mat) 1 j) * ((χ 0 t : ℂˣ) : ℂ) *
+            (((χ 1 t : ℂˣ) : ℂ))⁻¹ * ((modulus (t : F) : ℝ) : ℂ)) (mulHaar p) ∧
+          f g = ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) * ((adet p g : ℝ) : ℂ) ^ (1 / 2 : ℂ) *
+            ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, Φ₁ (fun j : Fin 2 => (t : F) * (g : Mat) 1 j) * ((χ 0 t : ℂˣ) : ℂ) *
+              (((χ 1 t : ℂˣ) : ℂ))⁻¹ * ((modulus (t : F) : ℝ) : ℂ) ∂(mulHaar p))
+        (w₀ : G) (_hw₀ : (w₀ : Mat) = !![0, 1; 1, 0])
+        (Φ₂ : (Fin 2 → F) → ℂ) (_hΦ₂ : IsLocallyConstant Φ₂)
+        (s : ℂ),
+        Integrable (fun g : G => w g * f (w₀ * g) * Φ₂ ((g : Mat) 1) * ((adet p g : ℝ) : ℂ) ^ s) μ₂ →
+        Integrable (fun g : G =>
+            ‖Φ₁ ((g : Mat) 0) * Φ₂ ((g : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+                ((adet p g : ℝ) : ℂ) ^ (s + 1 / 2)‖ *
+              ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, ‖w (diagOne t * g) * ((χ 1 t : ℂˣ) : ℂ) * ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2)‖
+                ∂(mulHaar p)) μ₂ →
+        Integrable (fun g : G =>
+            (w g * (∫ y, f (w₀ * unipotentGL2 y * g) * NumberField.StandardAddChar.psiLocal ℚ p y ∂ν) *
+                Φ₂ ((g : Mat) 1)) * ((adet p g : ℝ) : ℂ) ^ s)
+          (μ₂.withDensity (HaarQuotient.density (unip p) μN₂)) ∧
+        Integrable (fun g : G =>
+            Φ₁ ((g : Mat) 0) * Φ₂ ((g : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+                ((adet p g : ℝ) : ℂ) ^ (s + 1 / 2) *
+              ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, w (diagOne t * g) * ((χ 1 t : ℂˣ) : ℂ) * ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2)
+                ∂(mulHaar p)) μ₂ ∧
+        ∫ g, (w g * (∫ y, f (w₀ * unipotentGL2 y * g) * NumberField.StandardAddChar.psiLocal ℚ p y ∂ν) *
+              Φ₂ ((g : Mat) 1)) * ((adet p g : ℝ) : ℂ) ^ s ∂(μ₂.withDensity (HaarQuotient.density (unip p) μN₂)) =
+        c * ((χ 0 (-1) : ℂˣ) : ℂ) *
+          ∫ g, Φ₁ ((g : Mat) 0) * Φ₂ ((g : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+                ((adet p g : ℝ) : ℂ) ^ (s + 1 / 2) *
+              (∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, w (diagOne t * g) * ((χ 1 t : ℂˣ) : ℂ) * ((modulus (t : F) : ℝ) : ℂ) ^ (s - 1 / 2)
+                ∂(mulHaar p)) ∂μ₂ := by
+  intro μ₂ _ μN₂ _ ν _
+  haveI : μN₂.IsMulRightInvariant := isMulRightInvariant_unip p μN₂
+  obtain ⟨cN, hcN, hμN⟩ := exists_eq_smul_unipMeasure p ν μN₂
+  have hcNpos : 0 < (cN : ℝ) := hcN
+  refine ⟨(cN : ℝ)⁻¹, inv_pos.mpr hcNpos, ?_⟩
+  intro w hwlc hwlaw χ hχ Φ₁ hΦ₁ f hf hfΦ₁ w₀ hw₀ Φ₂ hΦ₂ s hint hint2
+
+  haveI : (torMeasure p (mulHaar p)).IsMulRightInvariant := isMulRightInvariant_torA p _
+  have hμA : torMeasure p (mulHaar p) = (1 : ℝ≥0) • torMeasure p (mulHaar p) := by rw [one_smul]
+  set Ψ := phiFn p w f w₀ Φ₂ s with hΨdef
+  have hΨm : Measurable Ψ := measurable_phiFn p hwlc (mem_principalSeries2_iff.mp hf).1 w₀ hΦ₂ s
+  have hΨi : Integrable Ψ μ₂ := hint
+
+  obtain ⟨-, hU1, hU2⟩ := integrable_and_integral_eq_unfold μ₂ (unip p) (isClosed_unip p) μN₂ Ψ hΨm hΨi
+  set R : G → ℂ := fun g =>
+    (w g * (∫ y, f (w₀ * unipotentGL2 y * g) * NumberField.StandardAddChar.psiLocal ℚ p y ∂ν) *
+        Φ₂ ((g : Mat) 1)) * ((adet p g : ℝ) : ℂ) ^ s with hRdef
+  have hfibN : (fun g : G => ∫ n : unip p, Ψ ((n : G) * g) ∂μN₂) = fun g => (cN : ℂ) * R g :=
+    funext fun g => fibre_integral_unip_eq p ν μN₂ hμN hwlaw f w₀ Φ₂ s g
+  rw [hfibN] at hU1 hU2
+  have hcN0 : (cN : ℂ) ≠ 0 := by exact_mod_cast hcN.ne'
+  have hRint : Integrable R (μ₂.withDensity (HaarQuotient.density (unip p) μN₂)) := by
+    have := hU1.const_mul ((cN : ℂ)⁻¹)
+    refine this.congr (Filter.Eventually.of_forall fun g => ?_)
+    simp only []
+    rw [← mul_assoc, inv_mul_cancel₀ hcN0, one_mul]
+  have hstep1 : ∫ g, R g ∂(μ₂.withDensity (HaarQuotient.density (unip p) μN₂)) = ((cN : ℂ))⁻¹ * ∫ g, Ψ g ∂μ₂ := by
+    rw [hU2, integral_const_mul, ← mul_assoc, inv_mul_cancel₀ hcN0, one_mul]
+
+  obtain ⟨-, -, hV2⟩ :=
+    integrable_and_integral_eq_unfold μ₂ (torA p) (isClosed_torA p) (torMeasure p (mulHaar p)) Ψ hΨm hΨi
+  set T : G → ℂ := fun h =>
+    (f (w₀ * h) * Φ₂ ((h : Mat) 1) * ((adet p h : ℝ) : ℂ) ^ s) * torusZeta p w (χ 1) s h with hTdef
+  have hfibA : (fun h : G => ∫ a : torA p, Ψ ((a : G) * h) ∂(torMeasure p (mulHaar p))) = fun h => T h := by
+    funext h
+    rw [fibre_integral_torA_eq p (torMeasure p (mulHaar p)) hμA w χ f hf w₀ hw₀ Φ₂ s h]
+    simp only [hTdef, torusZeta, NNReal.coe_one, Complex.ofReal_one, one_mul]
+  rw [hfibA] at hV2
+
+  have hGm : Measurable (godFn p w χ Φ₁ Φ₂ s) := measurable_godFn p hwlc hχ hΦ₁.1 hΦ₂ s
+  have hGi : Integrable (godFn p w χ Φ₁ Φ₂ s) μ₂ := integrable_godFn p μ₂ hGm hint2
+  obtain ⟨-, -, hW2⟩ :=
+    integrable_and_integral_eq_unfold μ₂ (torA p) (isClosed_torA p) (torMeasure p (mulHaar p))
+      (godFn p w χ Φ₁ Φ₂ s) hGm hGi
+  have hfibG : (fun h : G => ∫ a : torA p, godFn p w χ Φ₁ Φ₂ s ((a : G) * h) ∂(torMeasure p (mulHaar p))) =
+      fun h : G => (Φ₂ ((h : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det h) : ℂˣ) : ℂ) *
+          ((adet p h : ℝ) : ℂ) ^ (s + 1 / 2) * torusZeta p w (χ 1) s h) *
+        ∫ y : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, Φ₁ (fun j => (y : F) * (h : Mat) 0 j) * ((χ 0 y : ℂˣ) : ℂ) * (((χ 1 y : ℂˣ) : ℂ))⁻¹ *
+          ((modulus (y : F) : ℝ) : ℂ) ∂(mulHaar p) :=
+    funext fun h => fibre_integral_torA_godFn p w χ Φ₁ Φ₂ s h
+  rw [hfibG] at hW2
+
+  have hT : ∀ h : G, T h = ((χ 0 (-1) : ℂˣ) : ℂ) *
+      ((Φ₂ ((h : Mat) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det h) : ℂˣ) : ℂ) *
+          ((adet p h : ℝ) : ℂ) ^ (s + 1 / 2) * torusZeta p w (χ 1) s h) *
+        ∫ t : (HeightOneSpectrum.adicCompletion ℚ p)ˣ, Φ₁ (fun j => (t : F) * (h : Mat) 0 j) * ((χ 0 t : ℂˣ) : ℂ) * (((χ 1 t : ℂˣ) : ℂ))⁻¹ *
+          ((modulus (t : F) : ℝ) : ℂ) ∂(mulHaar p)) :=
+    fun h => T_eq_of_godement p w χ Φ₁ Φ₂ f w₀ hw₀ s h (hfΦ₁ (w₀ * h)).2
+  have hstep3 : ∫ h, T h ∂(μ₂.withDensity (HaarQuotient.density (torA p) (torMeasure p (mulHaar p)))) =
+      ((χ 0 (-1) : ℂˣ) : ℂ) * ∫ g, godFn p w χ Φ₁ Φ₂ s g ∂μ₂ := by
+    rw [hW2, ← integral_const_mul]
+    exact integral_congr_ae (Filter.Eventually.of_forall hT)
+  refine ⟨hRint, hGi, ?_⟩
+  show ∫ g, R g ∂(μ₂.withDensity (HaarQuotient.density (unip p) μN₂)) =
+    ((cN : ℝ)⁻¹ : ℝ) * ((χ 0 (-1) : ℂˣ) : ℂ) * ∫ g, godFn p w χ Φ₁ Φ₂ s g ∂μ₂
+  rw [hstep1, hV2, hstep3]
+  push_cast
+  ring
+
+end Main
+
+end RS22GodementRefold
+p2m_reactivate "P2MW.S_LanglandsTunnell_RankinSelberg_exists_pos_forall_integral_mul_jacquetIntegral_godementSection_mul_row_eq_mul_integral_row_mul_row_mul_torusZeta.RS22GodementRefold"
+
+theorem solution
+    (p : HeightOneSpectrum (𝓞 ℚ)) :
+    letI := localBorel ℚ p
+    letI := localGLBorel ℚ p
+    haveI := borelSpace_localGLBorel ℚ p
+    ∀ (μ₂ : Measure (GL (Fin 2) (p.adicCompletion ℚ))) [μ₂.IsHaarMeasure]
+      (μN₂ : Measure ↥(unipotentGL2Hom (R := p.adicCompletion ℚ)).range) [μN₂.IsHaarMeasure]
+      (ν : Measure (p.adicCompletion ℚ)) [ν.IsAddHaarMeasure],
+    ∃ c : ℝ, 0 < c ∧
+      ∀ (w : GL (Fin 2) (p.adicCompletion ℚ) → ℂ) (_hwlc : IsLocallyConstant w)
+        (_hwlaw : ∀ (x : p.adicCompletion ℚ) (g : GL (Fin 2) (p.adicCompletion ℚ)),
+          w (unipotentGL2 x * g) = NumberField.StandardAddChar.psiLocal ℚ p x * w g)
+        (χ : Fin 2 → ((p.adicCompletion ℚ)ˣ →* ℂˣ))
+        (_hχ : ∀ i, IsLocallyConstant (χ i))
+
+        (Φ₁ : (Fin 2 → p.adicCompletion ℚ) → ℂ) (_hΦ₁ : IsLocallyConstant Φ₁ ∧ HasCompactSupport Φ₁)
+        (f : GL (Fin 2) (p.adicCompletion ℚ) → ℂ) (_hf : f ∈ principalSeries2 p χ)
+        (_hfΦ₁ : ∀ g : GL (Fin 2) (p.adicCompletion ℚ),
+          Integrable (fun t : (p.adicCompletion ℚ)ˣ => Φ₁ (fun j : Fin 2 => (t : p.adicCompletion ℚ) * (g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1 j) * ((χ 0 t : ℂˣ) : ℂ) * (((χ 1 t : ℂˣ) : ℂ))⁻¹ * ((modulus (t : p.adicCompletion ℚ) : ℝ) : ℂ)) (Measure.comap Units.val (mulMeasure (selfDualHaarAt ℚ p))) ∧
+          f g = ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) * ((modulus ((Matrix.GeneralLinearGroup.det g : (p.adicCompletion ℚ)ˣ) : p.adicCompletion ℚ) : ℝ) : ℂ) ^ (1 / 2 : ℂ) *
+            ∫ t : (p.adicCompletion ℚ)ˣ, Φ₁ (fun j : Fin 2 => (t : p.adicCompletion ℚ) * (g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1 j) * ((χ 0 t : ℂˣ) : ℂ) * (((χ 1 t : ℂˣ) : ℂ))⁻¹ * ((modulus (t : p.adicCompletion ℚ) : ℝ) : ℂ) ∂(Measure.comap Units.val (mulMeasure (selfDualHaarAt ℚ p))))
+        (w₀ : GL (Fin 2) (p.adicCompletion ℚ))
+        (_hw₀ : (w₀ : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) = !![0, 1; 1, 0])
+        (Φ₂ : (Fin 2 → p.adicCompletion ℚ) → ℂ) (_hΦ₂ : IsLocallyConstant Φ₂)
+        (s : ℂ),
+
+        Integrable (fun g : GL (Fin 2) (p.adicCompletion ℚ) =>
+            w g * f (w₀ * g) * Φ₂ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1) * ((modulus ((Matrix.GeneralLinearGroup.det g : (p.adicCompletion ℚ)ˣ) : p.adicCompletion ℚ) : ℝ) : ℂ) ^ s) μ₂ →
+
+        Integrable (fun g : GL (Fin 2) (p.adicCompletion ℚ) =>
+            ‖Φ₁ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 0) * Φ₂ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+                ((modulus ((Matrix.GeneralLinearGroup.det g : (p.adicCompletion ℚ)ˣ) : p.adicCompletion ℚ) : ℝ) : ℂ) ^ (s + 1 / 2)‖ *
+              ∫ y : (p.adicCompletion ℚ)ˣ,
+                ‖w (diagOne y * g) * ((χ 1 y : ℂˣ) : ℂ) * ((modulus (y : p.adicCompletion ℚ) : ℝ) : ℂ) ^ (s - 1 / 2)‖
+                ∂(Measure.comap Units.val (mulMeasure (selfDualHaarAt ℚ p)))) μ₂ →
+        Integrable (fun g : GL (Fin 2) (p.adicCompletion ℚ) =>
+            (w g * (∫ y, f (w₀ * unipotentGL2 y * g) * NumberField.StandardAddChar.psiLocal ℚ p y ∂ν) *
+                Φ₂ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1)) *
+              ((modulus ((Matrix.GeneralLinearGroup.det g : (p.adicCompletion ℚ)ˣ) : p.adicCompletion ℚ) : ℝ) : ℂ) ^ s)
+          (μ₂.withDensity (HaarQuotient.density (unipotentGL2Hom (R := p.adicCompletion ℚ)).range μN₂)) ∧
+        Integrable (fun g : GL (Fin 2) (p.adicCompletion ℚ) =>
+            Φ₁ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 0) * Φ₂ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+                ((modulus ((Matrix.GeneralLinearGroup.det g : (p.adicCompletion ℚ)ˣ) : p.adicCompletion ℚ) : ℝ) : ℂ) ^ (s + 1 / 2) *
+              ∫ y : (p.adicCompletion ℚ)ˣ,
+                w (diagOne y * g) * ((χ 1 y : ℂˣ) : ℂ) * ((modulus (y : p.adicCompletion ℚ) : ℝ) : ℂ) ^ (s - 1 / 2)
+                ∂(Measure.comap Units.val (mulMeasure (selfDualHaarAt ℚ p)))) μ₂ ∧
+        ∫ g, (w g * (∫ y, f (w₀ * unipotentGL2 y * g) * NumberField.StandardAddChar.psiLocal ℚ p y ∂ν) *
+              Φ₂ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1)) *
+            ((modulus ((Matrix.GeneralLinearGroup.det g : (p.adicCompletion ℚ)ˣ) : p.adicCompletion ℚ) : ℝ) : ℂ) ^ s
+          ∂(μ₂.withDensity (HaarQuotient.density (unipotentGL2Hom (R := p.adicCompletion ℚ)).range μN₂)) =
+        c * ((χ 0 (-1) : ℂˣ) : ℂ) *
+          ∫ g, Φ₁ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 0) * Φ₂ ((g : Matrix (Fin 2) (Fin 2) (p.adicCompletion ℚ)) 1) * ((χ 0 (Matrix.GeneralLinearGroup.det g) : ℂˣ) : ℂ) *
+                ((modulus ((Matrix.GeneralLinearGroup.det g : (p.adicCompletion ℚ)ˣ) : p.adicCompletion ℚ) : ℝ) : ℂ) ^ (s + 1 / 2) *
+              (∫ y : (p.adicCompletion ℚ)ˣ,
+                w (diagOne y * g) * ((χ 1 y : ℂˣ) : ℂ) * ((modulus (y : p.adicCompletion ℚ) : ℝ) : ℂ) ^ (s - 1 / 2)
+                ∂(Measure.comap Units.val (mulMeasure (selfDualHaarAt ℚ p)))) ∂μ₂ := by
+  intro μ₂ _ μN₂ _ ν _
+  exact RS22GodementRefold.main p μ₂ μN₂ ν
+
+end
+end S_LanglandsTunnell_RankinSelberg_exists_pos_forall_integral_mul_jacquetIntegral_godementSection_mul_row_eq_mul_integral_row_mul_row_mul_torusZeta
+end P2MW
+export P2MW.S_LanglandsTunnell_RankinSelberg_exists_pos_forall_integral_mul_jacquetIntegral_godementSection_mul_row_eq_mul_integral_row_mul_row_mul_torusZeta (solution)

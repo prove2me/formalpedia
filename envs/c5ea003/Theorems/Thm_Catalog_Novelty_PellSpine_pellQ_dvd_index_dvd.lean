@@ -1,0 +1,81 @@
+-- Prove2me | Theorems.Thm_Catalog_Novelty_PellSpine_pellQ_dvd_index_dvd
+-- name    : Catalog.Novelty.PellSpine.pellQ_dvd_index_dvd
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-11T15:14:57.522555+00:00
+-- url     : https://prove2.me/theorems/a5d37532-d849-4d59-8247-ebccc4fab148
+-- title:
+--   If `Q m` divides `Q n` (with `m ≥ 2`) then `m` divides `n`.
+-- statement:
+--   If `Q m` divides `Q n` (with `m ≥ 2`) then `m` divides `n`.
+--
+--   ```lean
+--   theorem Catalog.Novelty.PellSpine.pellQ_dvd_index_dvd{m n : ℕ} (hm : 2 ≤ m) (h : pellQ m ∣ pellQ n) : m ∣ n := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Novelty/PellSpineCompanionDivisibility.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Novelty/PellSpineCompanionDivisibility.lean#L139
+
+-- Thm stub generated from Novelty/PellSpineCompanionDivisibility.lean
+import Mathlib
+import Definitions.Def_Novelty_PellSpineCore
+/-
+# The companion divisibility law on the Pell spine
+
+`Novelty.PellSpineDivisibility` shows that the Pell numbers `P` form a strong divisibility
+sequence while the half-companion sequence `Q` does **not** (`gcd (Q 3) (Q 6) = 1`).  That
+refutation leaves the real question open: *exactly when* does `Q m` divide `Q n`?
+
+This file answers it completely.  For every `m ≥ 2`,
+
+`Q m ∣ Q n  ↔  n = m * k for some odd k`,
+
+a parity-graded divisibility law with no analogue among the `P`'s.  The proof runs in two
+independent halves:
+
+* **index step** — `Q m ∣ P (2m)` and `Q n ∣ P (2n)` push the hypothesis into the strong
+  divisibility law for `P`, forcing `Q m ∣ P (2 gcd(m,n))`; if `gcd(m,n) < m` the divisor
+  exceeds the dividend, so `m ∣ n`;
+* **parity step** — modulo `Q m` the companion sequence satisfies the two-step recursion
+  `Q (a + 2m) ≡ 2 P m ^ 2 * Q a`, so `Q (2jm) ≡ (2 P m ^ 2) ^ j`, a unit mod `Q m`
+  because `Q m` is odd and coprime to `P m`.  Even multiples are therefore ruled out.
+
+## Proved
+
+* `pellQ_odd`, `pellQ_coprime_two_pellP_sq` — the arithmetic units used by the parity step;
+* `pellQ_add_two_mul_modEq` — `Q (a + 2m) ≡ 2 P m ^ 2 * Q a [MOD Q m]`;
+* `pellQ_even_multiple_modEq` — `Q (2jm) ≡ (2 P m ^ 2) ^ j [MOD Q m]`;
+* `pellQ_coprime_even_multiple` — `gcd (Q m) (Q (2jm)) = 1`;
+* `pellQ_dvd_index_dvd` — `Q m ∣ Q n → m ∣ n` for `m ≥ 2`;
+* `pellQ_dvd_iff` — **the companion divisibility law**;
+* `pellQ_gcd_dvd`, `pellQ_gcd_eq_one_of_even_quotient`, `pellQ_gcd_law` — **the companion
+  gcd law**: `gcd (Q m) (Q n) = Q (gcd m n)` when both index quotients are odd, and `1`
+  otherwise, with no side condition on `m` and `n`;
+* `pellQ_gcd_of_odd_quotients` — the graded gcd statement that survives the refutation;
+* summation identities `pellQ_sum`, `pellP_sum`, `pellP_sq_sum` tying the two strands
+  of the spine together.
+
+## Refuted
+
+* `not_pellQ_dvd_all_multiples` — `Q n ∣ Q (kn)` fails for even `k`: `Q 2 = 3 ∤ 17 = Q 4`;
+* `not_pellQ_dvd_iff_index_dvd` — divisibility of indices is **not** sufficient, by the
+  same pair, so the parity grading in `pellQ_dvd_iff` cannot be dropped.
+-/
+
+open Catalog.Novelty.PellSpine
+
+open Finset
+
+/-! ## Arithmetic units modulo `Q m` -/
+
+
+
+/-! ## The parity step -/
+
+
+
+
+/-! ## The index step -/
+
+theorem Catalog.Novelty.PellSpine.pellQ_dvd_index_dvd{m n : ℕ} (hm : 2 ≤ m) (h : pellQ m ∣ pellQ n) : m ∣ n := by sorry

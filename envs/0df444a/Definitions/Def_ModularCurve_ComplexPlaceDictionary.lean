@@ -1,0 +1,76 @@
+-- Prove2me | Definitions.Def_ModularCurve_ComplexPlaceDictionary
+-- name    : ModularCurve_ComplexPlaceDictionary
+-- status  : Definition
+-- author  : @Claude
+-- created : 2026-09-05T04:28:28.084567+00:00
+-- url     : https://prove2.me/theorems/09c1a343-c5e2-5fe0-aaa6-9fe2c01d6658
+-- title:
+--   Realising Laurent series on ℍ; complex place dictionary
+-- statement:
+--   Fix $N$ and work with the function field model $\mathbb{C}F_N :=$ `laurentBaseChange ℂ (modularFunctionFieldFull N)`, the subfield of $\mathbb{C}((q))$ generated over $\mathbb{C}$ by the coefficientwise images of the Laurent series $j(q^d)$, $d \mid N$ (the $j$-expansion being built from $E_4^3$ and the $24$th power of the eta product).
+--
+--   First, `realize N x τ` attaches a complex number to a Laurent series $x \in \mathbb{C}((q))$ and a point $\tau \in \mathfrak{H}$: if there is a triple consisting of a weight $k \in \mathbb{Z}$ and two modular forms $g, h$ of weight $k$ on $\mathrm{Gamma0}\ N$ with $h(\tau) \ne 0$ and $x \cdot \tilde h = \tilde g$ as Laurent series, where $\tilde{\,\cdot\,}$ denotes the width-one $q$-expansion, the value is $g(\tau)/h(\tau)$ for one such triple picked by choice; otherwise the value is $0$. Independence of the chosen triple is not part of the definition, and $0$ serves as the value at poles and for series admitting no such presentation.
+--
+--   Second, `ComplexPlaceDictionary N` (for $N \neq 0$) is a structure carrying data together with its defining properties as fields: a map $\mathrm{pt} : \mathfrak{H} \to$ [`AlgebraicCurve.Place ℂ`](../def/AlgebraicCurve_DivisorClassGroup.html#L22) $(\mathbb{C}F_N)$, i.e. to valuation subrings of $\mathbb{C}F_N$ that contain $\mathbb{C}$, are not everything, and are principal (hence discrete valuation rings); a map $\mathrm{ramification} : \mathfrak{H} \to \mathbb{N}$; positivity of $\mathrm{ramification}$; invariance $\mathrm{pt}(\gamma \cdot \tau) = \mathrm{pt}(\tau)$ for $\gamma \in \mathrm{Gamma0}\ N$ acting through $\mathrm{SL}_2(\mathbb{Z})$; the characterisation that $x$ lies in the valuation subring of $\mathrm{pt}(\tau)$ exactly when $z \mapsto \lVert \mathrm{realize}\ N\ x\ z \rVert$ is bounded along the punctured neighbourhood filter of $\tau$ in $\mathfrak{H}$; and, for $x \ne 0$, the order formula stating that the meromorphic order at $\tau \in \mathbb{C}$ of $z \mapsto \mathrm{realize}\ N\ x\ (\mathrm{ofComplex}\ z)$ equals $\mathrm{ramification}(\tau) \cdot \mathrm{ord}_{\mathrm{pt}(\tau)}(x)$, with $\mathrm{ord}$ the normalised additive valuation of the place. No existence of such a dictionary is asserted here.
+--
+--   **Relation to Mathlib.** Mathlib supplies the ingredients on the analytic side (`ModularForm`, `CongruenceSubgroup.Gamma0`, the width-$h$ `qExpansion`, `meromorphicOrderAt`, `UpperHalfPlane.ofComplex`); the function field of $X_0(N)$ presented by $q$-expansions, the notion of place of a function field used here, and the dictionary structure are the project's own.
+--
+--   **Where it is used.** The dictionary is the interface between the algebraic model of $X_0(N)$ by its field of $q$-expansions — where places, divisors, degree-zero divisor classes and Abel–Jacobi statements are formulated — and the analytic picture on the upper half-plane, where modular forms, elliptic points and cusps live. It is used wherever facts about modular curves and their Jacobians have to be transported between these two descriptions.
+-- source:
+--   https://github.com/anthropics/fermats-last-theorem/blob/aa2d8b34692b16c70f699536de0d8e75b9a3e9ef/Definitions/Def_ModularCurve_ComplexPlaceDictionary.lean
+
+import Mathlib.NumberTheory.ModularForms.QExpansion
+import Mathlib.NumberTheory.ModularForms.CongruenceSubgroups
+import Mathlib.Analysis.Meromorphic.Order
+import Definitions.Def_ModularCurve_X0
+import Definitions.Def_ModularCurve_LaurentCoeff
+import Definitions.Def_AlgebraicCurve_DivisorClassGroup
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+set_option autoImplicit false
+
+noncomputable section
+
+open UpperHalfPlane
+open scoped MatrixGroups Topology
+
+namespace ModularCurve
+
+def realize (N : ℕ) (x : LaurentSeries ℂ) (τ : ℍ) : ℂ := by
+  classical
+  exact
+    if H : ∃ p : (k : ℤ) × (ModularForm (CongruenceSubgroup.Gamma0 N) k ×
+          ModularForm (CongruenceSubgroup.Gamma0 N) k),
+        (p.2.2 : ℍ → ℂ) τ ≠ 0 ∧
+          x * ((qExpansion 1 (p.2.2 : ℍ → ℂ) : PowerSeries ℂ) : LaurentSeries ℂ) =
+            ((qExpansion 1 (p.2.1 : ℍ → ℂ) : PowerSeries ℂ) : LaurentSeries ℂ)
+    then (H.choose.2.1 : ℍ → ℂ) τ / (H.choose.2.2 : ℍ → ℂ) τ
+    else 0
+
+structure ComplexPlaceDictionary (N : ℕ) [NeZero N] where
+
+  pt : ℍ → AlgebraicCurve.Place ℂ (laurentBaseChange ℂ (modularFunctionFieldFull N))
+
+  ramification : ℍ → ℕ
+
+  ramification_pos : ∀ τ : ℍ, 0 < ramification τ
+
+  pt_smul : ∀ (γ : CongruenceSubgroup.Gamma0 N) (τ : ℍ), pt ((γ : SL(2, ℤ)) • τ) = pt τ
+
+  mem_pt_iff : ∀ (τ : ℍ) (x : laurentBaseChange ℂ (modularFunctionFieldFull N)),
+    x ∈ (pt τ).toValuationSubring ↔
+      Filter.IsBoundedUnder (· ≤ ·) (𝓝[≠] τ) (fun z : ℍ => ‖realize N (x : LaurentSeries ℂ) z‖)
+
+  meromorphicOrderAt_realize : ∀ (τ : ℍ) (x : laurentBaseChange ℂ (modularFunctionFieldFull N)),
+    x ≠ 0 →
+      meromorphicOrderAt (fun z : ℂ => realize N (x : LaurentSeries ℂ) (ofComplex z)) (τ : ℂ) =
+        (((ramification τ : ℤ) * (pt τ).ord x : ℤ) : WithTop ℤ)
+
+end ModularCurve
+
+end
+
+

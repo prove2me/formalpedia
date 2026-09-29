@@ -1,0 +1,17 @@
+-- Prove2me | solution 1 for mme_released_global_owner3_mode1_compatibility_interior_mass_row2
+-- status  : ACCEPTED   (prove)
+-- author  : @Robertboy18
+-- created : 2026-09-24T02:26:44.380045+00:00
+-- url     : https://prove2.me/submissions/0f2dad3f-b4e7-415b-a039-533efa34f4a0
+
+import Definitions.Def_mme_released_global_profile_data
+open scoped BigOperators
+open MME MME.ReleasedGlobal MME.MoreAsymmetryExactSeed
+
+/-- The released rational table agrees with the joint atom masses. -/
+theorem solution : ∀ w : Word,
+    ((([0, 0, 1729206353498571338410896972423236431105109627000000000000, 0, 49750768973320694804126072258408819137789780746000000000000, 0, 1729206353499559208250896972423236431105109627000000000000, 0, 0, 0, 45669169960288157657442347465501188000000000000000000000000, 0, 45669169959838182945322347465501188000000000000000000000000, 0, 0, 0, 0, 0, 1729206153421566124280395730048606443595973564000000000000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45669169960192828217882347465501188000000000000000000000000, 0, 45669169959902394484922347465501188000000000000000000000000, 0, 0, 0, 0, 0, 49750773191807137974201952474642743112808052872000000000000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1729206153230907245160395730048606443595973564000000000000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] : List ℕ).getD (27 * (w 0).val + 9 * (w 1).val + 3 * (w 2).val + (w 3).val) 0 : ℕ) : ℚ) / 1000000000000000000000000000000000000000000000000000000000000 =
+    ∑ s : Fin 45, if ¬ (((shape s).val 2).val = 0) ∧ (shape s).val 1 = 2 then ((alpha 3 s * ((jointRows 3 s).map (fun a => if atom a.1 1 = w then a.2 else 0)).sum : ℕ) : ℚ) / (denominator : ℚ) ^ 5 else 0 := by
+  decide +kernel
+
+#print axioms solution

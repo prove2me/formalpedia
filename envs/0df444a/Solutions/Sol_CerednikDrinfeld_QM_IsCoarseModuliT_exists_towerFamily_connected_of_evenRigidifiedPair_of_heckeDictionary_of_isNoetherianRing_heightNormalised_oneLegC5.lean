@@ -1,0 +1,997 @@
+-- Prove2me | solution 1 for CerednikDrinfeld.QM.IsCoarseModuliT.exists_towerFamily_connected_of_evenRigidifiedPair_of_heckeDictionary_of_isNoetherianRing_heightNormalised_oneLegC5
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:06.141142+00:00
+-- url     : https://prove2.me/submissions/644b7c6d-e961-56d0-b925-0ad05415207c
+
+import Mathlib
+import Definitions.Def_CerednikDrinfeld_QMCoarseModuli
+import Definitions.Def_CerednikDrinfeld_QMFineModuli
+import Definitions.Def_CerednikDrinfeld_QMFineModuliT
+import Definitions.Def_CerednikDrinfeld_AlgFunctorConst
+import Definitions.Def_CerednikDrinfeld_FormalUpperHalfPlaneFunctor
+import Definitions.Def_CerednikDrinfeld_SchemeNilpPoints
+import Definitions.Def_CerednikDrinfeld_CosetGraphAtPrime
+import Definitions.Def_CerednikDrinfeld_HeckeTower
+import Definitions.Def_CerednikDrinfeld_ClassSetGraph
+import Definitions.Def_CerednikDrinfeld_QMRigidification
+import Definitions.Def_CerednikDrinfeld_SpecialFormalFunctorG
+import Definitions.Def_CerednikDrinfeld_QMRigidificationLevel
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_pushPt_act_natCast_eq_nsmulPt
+import Theorems.Thm_CerednikDrinfeld_QM_FakeEllipticCurve_ExtraLevel_exists_forall_factorsThrough_iff_of_isPullbackVia
+import Theorems.Thm_CerednikDrinfeld_isUnit_natCast_of_not_dvd_of_card_quotient
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_CerednikDrinfeld_QM_IsCoarseModuliT_exists_towerFamily_connected_of_evenRigidifiedPair_of_heckeDictionary_of_isNoetherianRing_heightNormalised_oneLegC5
+
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+
+open scoped TensorProduct Quaternion NumberField
+open CategoryTheory AlgebraicGeometry QuaternionAlgebra IsDedekindDomain CerednikDrinfeld CerednikDrinfeld.QM CerednikDrinfeld.FormalOmega CerednikDrinfeld.SpecialFormal NeronModelInfra GoodReductionJacobian
+
+namespace TDefConn
+
+open CerednikDrinfeld.QM.FakeEllipticCurve
+
+section Square
+
+variable {S S' : Type} [CommRing S] [CommRing S'] {φ : S →+* S'}
+variable {A A' : Scheme.{0}} {f : A ⟶ Spec (CommRingCat.of S)} {f' : A' ⟶ Spec (CommRingCat.of S')} {g : A' ⟶ A}
+
+def img (hg : IsPullback g f' f (Spec.map (CommRingCat.ofHom φ))) {T : Scheme.{0}}
+    {t' : T ⟶ Spec (CommRingCat.of S')} (P : SchemeHomOver t' f') :
+    SchemeHomOver (t' ≫ Spec.map (CommRingCat.ofHom φ)) f :=
+  ⟨P.1 ≫ g, by rw [Category.assoc, hg.w, ← Category.assoc, P.2]⟩
+
+@[scoped simp] theorem img_coe (hg : IsPullback g f' f (Spec.map (CommRingCat.ofHom φ))) {T : Scheme.{0}}
+    {t' : T ⟶ Spec (CommRingCat.of S')} (P : SchemeHomOver t' f') : (img hg P).1 = P.1 ≫ g := rfl
+
+theorem img_injective (hg : IsPullback g f' f (Spec.map (CommRingCat.ofHom φ))) {T : Scheme.{0}}
+    {t' : T ⟶ Spec (CommRingCat.of S')} {P Q : SchemeHomOver t' f'} (h : img hg P = img hg Q) : P = Q := by
+  apply Subtype.ext
+  apply hg.hom_ext
+  · exact congrArg Subtype.val h
+  · rw [P.2, Q.2]
+
+theorem img_one (hg : IsPullback g f' f (Spec.map (CommRingCat.ofHom φ)))
+    (L : RelativeGroupLaw S f) (L' : RelativeGroupLaw S' f')
+    (hg_mul : ∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of S')) (P Q : SchemeHomOver t' f'),
+      (L'.mul t' P Q).1 ≫ g = (L.mul (t' ≫ Spec.map (CommRingCat.ofHom φ)) (img hg P) (img hg Q)).1)
+    {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of S')) :
+    img hg (L'.one t') = L.one (t' ≫ Spec.map (CommRingCat.ofHom φ)) := by
+  set x := img hg (L'.one t') with hx
+  have hxx : L.mul _ x x = x := by
+    apply Subtype.ext
+    rw [hx, ← hg_mul, L'.one_mul]
+    rfl
+  letI := L.pointGroup (t' ≫ Spec.map (CommRingCat.ofHom φ))
+  have h2 : x * x = x * 1 := by rw [mul_one]; exact hxx
+  exact mul_left_cancel h2
+
+theorem img_mul (hg : IsPullback g f' f (Spec.map (CommRingCat.ofHom φ)))
+    (L : RelativeGroupLaw S f) (L' : RelativeGroupLaw S' f')
+    (hg_mul : ∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of S')) (P Q : SchemeHomOver t' f'),
+      (L'.mul t' P Q).1 ≫ g = (L.mul (t' ≫ Spec.map (CommRingCat.ofHom φ)) (img hg P) (img hg Q)).1)
+    {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of S')) (P Q : SchemeHomOver t' f') :
+    img hg (L'.mul t' P Q) = L.mul _ (img hg P) (img hg Q) :=
+  Subtype.ext (hg_mul t' P Q)
+
+theorem img_pushPt (hg : IsPullback g f' f (Spec.map (CommRingCat.ofHom φ)))
+    (e : A ⟶ A) (he : e ≫ f = f) (e' : A' ⟶ A') (he' : e' ≫ f' = f') (hcomm : e' ≫ g = g ≫ e)
+    {T : Scheme.{0}} {t' : T ⟶ Spec (CommRingCat.of S')} (P : SchemeHomOver t' f') :
+    img hg (pushPt e' he' P) = pushPt e he (img hg P) := by
+  apply Subtype.ext
+  simp only [img_coe, pushPt, mapPt_coe, Category.assoc, hcomm]
+
+theorem img_pow (hg : IsPullback g f' f (Spec.map (CommRingCat.ofHom φ)))
+    (L : RelativeGroupLaw S f) (L' : RelativeGroupLaw S' f')
+    (hg_mul : ∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of S')) (P Q : SchemeHomOver t' f'),
+      (L'.mul t' P Q).1 ≫ g = (L.mul (t' ≫ Spec.map (CommRingCat.ofHom φ)) (img hg P) (img hg Q)).1)
+    {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of S')) (P : SchemeHomOver t' f') (n : ℕ) :
+    letI := L.pointGroup (t' ≫ Spec.map (CommRingCat.ofHom φ)); letI := L'.pointGroup t'
+    img hg (P ^ n) = (img hg P) ^ n := by
+  letI := L.pointGroup (t' ≫ Spec.map (CommRingCat.ofHom φ)); letI := L'.pointGroup t'
+  let F : SchemeHomOver t' f' →* SchemeHomOver (t' ≫ Spec.map (CommRingCat.ofHom φ)) f :=
+    { toFun := img hg, map_one' := img_one hg L L' hg_mul t', map_mul' := fun X Y => img_mul hg L L' hg_mul t' X Y }
+  exact map_pow F P n
+
+end Square
+
+section OneBase
+
+variable {S : Type} [CommRing S] {a b : ℚ} {Λ : Submodule ℤ ℍ[ℚ, a, b]} {N : ℕ}
+
+theorem mapPt_one {E E' : FakeEllipticCurve Λ N S} (φ : E.A ⟶ E'.A) (hφ : φ ≫ E'.f = E.f)
+    (hmul : ∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of S)) (P Q : SchemeHomOver t E.f),
+      mapPt φ hφ (E.L.mul t P Q) = E'.L.mul t (mapPt φ hφ P) (mapPt φ hφ Q))
+    {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of S)) : mapPt φ hφ (E.L.one t) = E'.L.one t := by
+  set x := mapPt φ hφ (E.L.one t) with hx
+  have hxx : E'.L.mul t x x = x := by rw [hx, ← hmul, E.L.one_mul]
+  letI := E'.L.pointGroup t
+  have h2 : x * x = x * 1 := by rw [mul_one]; exact hxx
+  exact mul_left_cancel h2
+
+theorem mapPt_pow {E E' : FakeEllipticCurve Λ N S} (φ : E.A ⟶ E'.A) (hφ : φ ≫ E'.f = E.f)
+    (hmul : ∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of S)) (P Q : SchemeHomOver t E.f),
+      mapPt φ hφ (E.L.mul t P Q) = E'.L.mul t (mapPt φ hφ P) (mapPt φ hφ Q))
+    {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of S)) (P : SchemeHomOver t E.f) (n : ℕ) :
+    letI := E.L.pointGroup t; letI := E'.L.pointGroup t
+    mapPt φ hφ (P ^ n) = (mapPt φ hφ P) ^ n := by
+  letI := E.L.pointGroup t; letI := E'.L.pointGroup t
+  let F : SchemeHomOver t E.f →* SchemeHomOver t E'.f :=
+    { toFun := mapPt φ hφ, map_one' := mapPt_one φ hφ hmul t, map_mul' := fun X Y => hmul t X Y }
+  exact map_pow F P n
+
+theorem nsmulPt_eq_pow {A : Scheme.{0}} {f : A ⟶ Spec (CommRingCat.of S)} (L : RelativeGroupLaw S f)
+    {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of S)) (n : ℕ) (P : SchemeHomOver t f) :
+    letI := L.pointGroup t; nsmulPt L t n P = P ^ n := by
+  letI := L.pointGroup t
+  induction n with
+  | zero => rw [pow_zero]; rfl
+  | succ n ih => rw [pow_succ, ← ih]; rfl
+
+theorem pushPt_act_natCast_eq_pow (E : FakeEllipticCurve Λ N S) (h1 : (1 : ℍ[ℚ, a, b]) ∈ Λ) (n : ℕ)
+    (hn : ((n : ℚ) : ℍ[ℚ, a, b]) ∈ Λ) {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of S)) (P : SchemeHomOver t E.f) :
+    letI := E.L.pointGroup t; pushPt (E.act ⟨((n : ℚ) : ℍ[ℚ, a, b]), hn⟩) (E.act_over _) P = P ^ n := by
+  rw [CerednikDrinfeld.QM.FakeEllipticCurve.pushPt_act_natCast_eq_nsmulPt E h1 n hn t P]
+  exact nsmulPt_eq_pow E.L t n P
+
+theorem ft_congr {A C : Scheme.{0}} {f : A ⟶ Spec (CommRingCat.of S)} (lev : C ⟶ A)
+    {T : Scheme.{0}} {t t' : T ⟶ Spec (CommRingCat.of S)} (P : SchemeHomOver t f) (Q : SchemeHomOver t' f)
+    (h : P.1 = Q.1) : FactorsThrough lev P ↔ FactorsThrough lev Q := by
+  unfold FactorsThrough; rw [h]
+
+theorem ft_of_ft_pow {r : ℕ} [Fact r.Prime] (h1 : (1 : ℍ[ℚ, a, b]) ∈ Λ) (E : FakeEllipticCurve Λ N S)
+    (ℓ : ℕ) [Fact ℓ.Prime] (hℓr : ℓ ≠ r) (K : E.ExtraLevel ℓ) (j : ℕ)
+    {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of S)) (W : SchemeHomOver t E.f)
+    (htors : letI := E.L.pointGroup t; W ^ ℓ = 1)
+    (hW : letI := E.L.pointGroup t; FactorsThrough K.levK (W ^ (r ^ j))) :
+    FactorsThrough K.levK W := by
+  classical
+  letI := E.L.pointGroup t
+  have hℓp : ℓ.Prime := Fact.out
+  have hrp : r.Prime := Fact.out
+  have hcop : Nat.Coprime (r ^ j) ℓ := Nat.Coprime.pow_left _ ((Nat.coprime_primes hrp hℓp).2 (Ne.symm hℓr))
+  have key : ∃ s m : ℕ, s * r ^ j = m * ℓ + 1 := by
+    obtain ⟨s, -, hs⟩ := Nat.exists_mul_mod_eq_one_of_coprime hcop hℓp.one_lt
+    refine ⟨s, r ^ j * s / ℓ, ?_⟩
+    have := Nat.div_add_mod (r ^ j * s) ℓ
+    rw [hs, mul_comm] at this
+    rw [mul_comm s]; omega
+  obtain ⟨s, m, hsm⟩ := key
+  have hnat : ∀ n : ℕ, ((n : ℚ) : ℍ[ℚ, a, b]) ∈ Λ := fun n => by
+    have : ((n : ℚ) : ℍ[ℚ, a, b]) = (n : ℤ) • (1 : ℍ[ℚ, a, b]) := by rw [zsmul_eq_mul]; push_cast; rw [mul_one]
+    rw [this]; exact Λ.smul_mem _ h1
+  have hstab := K.levK_stable ⟨((s : ℚ) : ℍ[ℚ, a, b]), hnat s⟩ t _ hW
+  rw [pushPt_act_natCast_eq_pow E h1 s (hnat s) t] at hstab
+  have : (W ^ r ^ j) ^ s = W := by
+    rw [← pow_mul, mul_comm, hsm, pow_add, pow_one, pow_mul', htors, one_pow, one_mul]
+  rwa [this] at hstab
+
+end OneBase
+
+end TDefConn
+p2m_reactivate "P2MW.S_CerednikDrinfeld_QM_IsCoarseModuliT_exists_towerFamily_connected_of_evenRigidifiedPair_of_heckeDictionary_of_isNoetherianRing_heightNormalised_oneLegC5.TDefConn"
+
+namespace TDefConn
+
+open CerednikDrinfeld.QM.FakeEllipticCurve
+
+section Rig
+
+variable {r N : ℕ} [Fact r.Prime] {𝒪 : Type} [CommRing 𝒪] (π : 𝒪) {Onr : Type} [CommRing Onr] [Algebra 𝒪 Onr]
+  {a b : ℚ} {Λ : Submodule ℤ ℍ[ℚ, a, b]}
+  (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+
+def IsTr {B : Type} [CommRing B] [Algebra 𝒪 B] {ψ : Onr →ₐ[𝒪] B} {E : FakeEllipticCurve Λ N B}
+    (ϱ : FakeEllipticCurve.Rigidification r π A₀ ψ E) {ℓ : ℕ} (K₀ : A₀.ExtraLevel ℓ) (C : E.ExtraLevel ℓ) : Prop :=
+  ∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+    (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA
+
+theorem act_congr {S : Type} [CommRing S] (E : FakeEllipticCurve Λ N S) {x y : ℍ[ℚ, a, b]} (h : x = y) (hx : x ∈ Λ) (hy : y ∈ Λ) :
+    E.act ⟨x, hx⟩ = E.act ⟨y, hy⟩ := by
+  subst h; rfl
+
+theorem mul_val_congr {S : Type} [CommRing S] {A : Scheme.{0}} {f : A ⟶ Spec (CommRingCat.of S)} (L : RelativeGroupLaw S f)
+    {T : Scheme.{0}} {t t' : T ⟶ Spec (CommRingCat.of S)} (h : t = t')
+    (P Q : SchemeHomOver t f) (P' Q' : SchemeHomOver t' f) (hP : P.1 = P'.1) (hQ : Q.1 = Q'.1) :
+    (L.mul t P Q).1 = (L.mul t' P' Q').1 := by
+  subst h
+  obtain rfl : P = P' := Subtype.ext hP
+  obtain rfl : Q = Q' := Subtype.ext hQ
+  rfl
+
+theorem isTr_pullback {B B' : Type} [CommRing B] [Algebra 𝒪 B] [CommRing B'] [Algebra 𝒪 B'] (fφ : B →ₐ[𝒪] B')
+    {ψ : Onr →ₐ[𝒪] B} {E : FakeEllipticCurve Λ N B} {E' : FakeEllipticCurve Λ N B'}
+    (g : E'.A ⟶ E.A) (hg : FakeEllipticCurve.IsPullbackVia (fφ : B →+* B') E E' g)
+    (ϱ : FakeEllipticCurve.Rigidification r π A₀ ψ E) (ϱ' : FakeEllipticCurve.Rigidification r π A₀ (fφ.comp ψ) E')
+    (hϱ : FakeEllipticCurve.Rigidification.IsPullbackVia fφ g hg ϱ ϱ')
+    {ℓ : ℕ} (K₀ : A₀.ExtraLevel ℓ) (C : E.ExtraLevel ℓ) (C' : E'.ExtraLevel ℓ)
+    (hCC' : ∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of B')) (P : SchemeHomOver t' E'.f),
+      FactorsThrough C'.levK P ↔ ∃ P₀ : T ⟶ C.K, P₀ ≫ C.levK = P.1 ≫ g)
+    (hC : IsTr π A₀ ϱ K₀ C) : IsTr π A₀ ϱ' K₀ C' := by
+  intro T t' R hR
+  obtain ⟨ub, uA, hub, hubg, huA, huAg, hd, hφ⟩ := hϱ
+  have h1 : ∃ P₀ : T ⟶ C.K, P₀ ≫ C.levK = (R.1 ≫ ub) ≫ ϱ.gb := by
+    obtain ⟨P₀, hP₀⟩ := (hCC' _ ⟨R.1 ≫ ϱ'.gb, by rw [Category.assoc, ϱ'.isPullback_Eb.1.w, ← Category.assoc, R.2]⟩).1 hR
+    refine ⟨P₀, ?_⟩
+    rw [hP₀]
+    show (R.1 ≫ ϱ'.gb) ≫ g = (R.1 ≫ ub) ≫ ϱ.gb
+    rw [Category.assoc, ← hubg, Category.assoc]
+  obtain ⟨Q₀, hQ₀⟩ := hC _ ⟨R.1 ≫ ub, by rw [Category.assoc, hub.1.w, ← Category.assoc, R.2]⟩ h1
+  refine ⟨Q₀, ?_⟩
+  rw [hQ₀]
+  show ((R.1 ≫ ub) ≫ ϱ.φ) ≫ ϱ.gA = (R.1 ≫ ϱ'.φ) ≫ ϱ'.gA
+  rw [← huAg, Category.assoc, Category.assoc, ← Category.assoc ub, hφ, Category.assoc, Category.assoc]
+
+theorem isTr_transfer (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ) {B : Type} [CommRing B] [Algebra 𝒪 B]
+    {ψ : Onr →ₐ[𝒪] B} {E E' : FakeEllipticCurve Λ N B}
+    (ϱ : FakeEllipticCurve.Rigidification r π A₀ ψ E) (ϱ' : FakeEllipticCurve.Rigidification r π A₀ ψ E')
+    (i : E.A ≅ E'.A) (hi : i.hom ≫ E'.f = E.f) (hiso : FakeEllipticCurve.IsoVia E E' i hi)
+    (ib : ϱ.Eb.A ⟶ ϱ'.Eb.A) (hib1 : ib ≫ ϱ'.gb = ϱ.gb ≫ i.hom) (hib2 : ib ≫ ϱ'.Eb.f = ϱ.Eb.f)
+    (uA : ϱ'.Ab.A ⟶ ϱ.Ab.A) (huA : FakeEllipticCurve.IsPullbackVia (RingHom.id _) ϱ.Ab ϱ'.Ab uA) (huA' : uA ≫ ϱ.gA = ϱ'.gA)
+    (i₁ j₁ : ℕ)
+    (hcorr : ib ≫ ϱ'.φ ≫ uA ≫ ϱ.Ab.act ⟨(((r ^ i₁ : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = ϱ.φ ≫ ϱ.Ab.act ⟨(((r ^ j₁ : ℕ) : ℤ) : ℚ), hΛℤ _⟩)
+    (ℓ : ℕ) [Fact ℓ.Prime] (hℓr : ℓ ≠ r) (K₀ : A₀.ExtraLevel ℓ)
+    (C' : E'.ExtraLevel ℓ) (hC' : IsTr π A₀ ϱ' K₀ C') :
+    ∃ C'' : E.ExtraLevel ℓ, IsTr π A₀ ϱ K₀ C'' ∧
+      ∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of B)) (R : SchemeHomOver t E.f),
+        FactorsThrough C''.levK R ↔ FactorsThrough C'.levK (mapPt i.hom hi R) := by
+  classical
+  have hsid : Spec.map (CommRingCat.ofHom (RingHom.id B)) = 𝟙 (Spec (CommRingCat.of B)) := by
+    rw [CommRingCat.ofHom_id]; exact Spec.map_id _
+  obtain ⟨hmulI, hactI, hlevI⟩ := hiso
+
+  have hpbI : FakeEllipticCurve.IsPullbackVia (RingHom.id B) E' E i.hom := by
+    have hsq : IsPullback i.hom E.f E'.f (Spec.map (CommRingCat.ofHom (RingHom.id B))) := by
+      rw [hsid]; exact IsPullback.of_horiz_isIso ⟨by rw [hi, Category.comp_id]⟩
+    refine ⟨hsq, ?_, hactI, ?_⟩
+    · intro T t P Q
+      have := congrArg Subtype.val (hmulI t P Q)
+      simp only [mapPt_coe] at this
+      rw [this]
+      have ht : t = t ≫ Spec.map (CommRingCat.ofHom (RingHom.id B)) := by rw [hsid, Category.comp_id]
+      exact mul_val_congr E'.L ht _ _ _ _ rfl rfl
+    · intro T t P hP
+      exact (hlevI t P).1 hP
+  obtain ⟨C'', hC''⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.ExtraLevel.exists_forall_factorsThrough_iff_of_isPullbackVia _ E' E i.hom hpbI ℓ C'
+  refine ⟨C'', ?_, fun t R => (hC'' t R).trans (ft_congr _ _ _ rfl)⟩
+
+  obtain ⟨hgb, mgb, agb, lgb⟩ := ϱ.isPullback_Eb
+  obtain ⟨φA, hPBA⟩ : ∃ φA : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (B ⧸ Ideal.span {algebraMap 𝒪 B π}),
+      FakeEllipticCurve.IsPullbackVia φA A₀ ϱ.Ab ϱ.gA := ⟨_, ϱ.isPullback_Ab⟩
+  obtain ⟨hgA, mgA, agA, lgA⟩ := hPBA
+  obtain ⟨hφo, hφ'o, mφ, mφ', aφ, aφ', cφ⟩ := ϱ.isIsogenyPair
+  have h1 : (1 : ℍ[ℚ, a, b]) ∈ Λ := by simpa using hΛℤ 1
+  have hnat : ∀ n : ℕ, ((n : ℚ) : ℍ[ℚ, a, b]) ∈ Λ := fun n => by
+    have := hΛℤ (n : ℤ); rwa [Int.cast_natCast] at this
+  intro T t' R hR
+
+  have hR' : ∃ R₀ : T ⟶ C'.K, R₀ ≫ C'.levK = (R.1 ≫ ib) ≫ ϱ'.gb := by
+    obtain ⟨P₀, hP₀⟩ := (hC'' _ (img hgb R)).1 hR
+    exact ⟨P₀, by rw [hP₀]; simp only [img_coe, Category.assoc, hib1]⟩
+  obtain ⟨Q₀, hQ₀⟩ := hC' t' ⟨R.1 ≫ ib, by rw [Category.assoc, hib2, R.2]⟩ hR'
+
+  let Z : SchemeHomOver t' ϱ.Ab.f := mapPt ϱ.φ ϱ.φ_over R
+  let W := img hgA Z
+  have hsid' : Spec.map (CommRingCat.ofHom (RingHom.id (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) = 𝟙 _ := by
+    rw [CommRingCat.ofHom_id]; exact Spec.map_id _
+  have hY2 : (R.1 ≫ ib ≫ ϱ'.φ ≫ uA) ≫ ϱ.Ab.f = t' := by
+    have w := huA.1.w
+    rw [hsid', Category.comp_id] at w
+    rw [Category.assoc, Category.assoc, Category.assoc, w, ϱ'.φ_over, hib2, R.2]
+  let Y : SchemeHomOver t' ϱ.Ab.f := ⟨R.1 ≫ ib ≫ ϱ'.φ ≫ uA, hY2⟩
+  have hYK : FactorsThrough K₀.levK (img hgA Y) := by
+    refine ⟨Q₀, ?_⟩
+    rw [hQ₀]
+    show ((R.1 ≫ ib) ≫ ϱ'.φ) ≫ ϱ'.gA = (R.1 ≫ ib ≫ ϱ'.φ ≫ uA) ≫ ϱ.gA
+    simp only [Category.assoc, huA']
+  letI := ϱ.Eb.L.pointGroup t'
+  letI := ϱ.Ab.L.pointGroup t'
+  letI := A₀.L.pointGroup (t' ≫ Spec.map (CommRingCat.ofHom φA))
+
+  have hRt : R ^ ℓ = 1 := by
+    letI := E.L.pointGroup (t' ≫ Spec.map (CommRingCat.ofHom (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 B π}))))
+    have ht := C''.levK_torsion _ (img hgb R) hR
+    rw [nsmulPt_eq_pow, ← img_pow hgb E.L ϱ.Eb.L mgb, ← img_one hgb E.L ϱ.Eb.L mgb t'] at ht
+    exact img_injective hgb ht
+  have hZt : Z ^ ℓ = 1 := by
+    show (mapPt ϱ.φ ϱ.φ_over R) ^ ℓ = 1
+    rw [← mapPt_pow ϱ.φ ϱ.φ_over mφ t' R, hRt]
+    exact mapPt_one ϱ.φ ϱ.φ_over mφ t'
+  have hWt : W ^ ℓ = 1 := by
+    show (img hgA Z) ^ ℓ = 1
+    rw [← img_pow hgA A₀.L ϱ.Ab.L mgA, hZt]
+    exact img_one hgA A₀.L ϱ.Ab.L mgA t'
+
+  have e1 : ϱ.Ab.act ⟨(((r ^ i₁ : ℕ) : ℚ) : ℍ[ℚ, a, b]), hnat _⟩ = ϱ.Ab.act ⟨((((r ^ i₁ : ℕ) : ℤ) : ℚ) : ℍ[ℚ, a, b]), hΛℤ _⟩ :=
+    act_congr ϱ.Ab (by rw [Int.cast_natCast]) _ _
+  have e2 : ϱ.Ab.act ⟨(((r ^ j₁ : ℕ) : ℚ) : ℍ[ℚ, a, b]), hnat _⟩ = ϱ.Ab.act ⟨((((r ^ j₁ : ℕ) : ℤ) : ℚ) : ℍ[ℚ, a, b]), hΛℤ _⟩ :=
+    act_congr ϱ.Ab (by rw [Int.cast_natCast]) _ _
+  have hcorr' : ib ≫ ϱ'.φ ≫ uA ≫ ϱ.Ab.act ⟨(((r ^ i₁ : ℕ) : ℚ) : ℍ[ℚ, a, b]), hnat _⟩ =
+      ϱ.φ ≫ ϱ.Ab.act ⟨(((r ^ j₁ : ℕ) : ℚ) : ℍ[ℚ, a, b]), hnat _⟩ := by
+    rw [e1, e2]; exact hcorr
+  have hWpow : FactorsThrough K₀.levK (W ^ (r ^ j₁)) := by
+    rw [← pushPt_act_natCast_eq_pow A₀ h1 (r ^ j₁) (hnat _) _ W]
+    have hK := K₀.levK_stable ⟨(((r ^ i₁ : ℕ) : ℚ) : ℍ[ℚ, a, b]), hnat _⟩ _ _ hYK
+    refine (ft_congr K₀.levK _ _ ?_).1 hK
+    show ((R.1 ≫ ib ≫ ϱ'.φ ≫ uA) ≫ ϱ.gA) ≫ A₀.act ⟨(((r ^ i₁ : ℕ) : ℚ) : ℍ[ℚ, a, b]), hnat _⟩ =
+      ((R.1 ≫ ϱ.φ) ≫ ϱ.gA) ≫ A₀.act ⟨(((r ^ j₁ : ℕ) : ℚ) : ℍ[ℚ, a, b]), hnat _⟩
+    simp only [Category.assoc, ← agA]
+    rw [← Category.assoc ϱ.φ (ϱ.Ab.act _) ϱ.gA, ← hcorr']
+    simp only [Category.assoc]
+  exact ft_of_ft_pow h1 A₀ ℓ hℓr K₀ j₁ _ W hWt hWpow
+
+end Rig
+p2m_reactivate "P2MW.S_CerednikDrinfeld_QM_IsCoarseModuliT_exists_towerFamily_connected_of_evenRigidifiedPair_of_heckeDictionary_of_isNoetherianRing_heightNormalised_oneLegC5.TDefConn"
+
+end TDefConn
+p2m_reactivate "P2MW.S_CerednikDrinfeld_QM_IsCoarseModuliT_exists_towerFamily_connected_of_evenRigidifiedPair_of_heckeDictionary_of_isNoetherianRing_heightNormalised_oneLegC5.TDefConn"
+
+open TDefConn in
+theorem solution
+
+    {r rbar N : ℕ} [Fact r.Prime] [Fact rbar.Prime] [NeZero N] (hrr : rbar ≠ r) (hrN : ¬ r ∣ N) (hrbarN : ¬ rbar ∣ N) (hN : Squarefree N)
+
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (vdet : Matrix.GeneralLinearGroup (Fin 2) K₀ →* Multiplicative ℤ)
+    (hvdet : ∀ (g : Matrix.GeneralLinearGroup (Fin 2) K₀) (n : ℤ), vdet g = Multiplicative.ofAdd n ↔
+      ∃ u : 𝒪ˣ, (Matrix.GeneralLinearGroup.det g : K₀) = algebraMap 𝒪 K₀ (u : 𝒪) * (algebraMap 𝒪 K₀ π) ^ n)
+
+    {a b : ℚ} (hB : IsIndefiniteRamifiedExactlyAt a b r rbar)
+    (Λ : Submodule ℤ ℍ[ℚ, a, b]) (hΛ : IsMaximalOrder Λ)
+    (𝒳 : Scheme.{0}) (f : 𝒳 ⟶ Spec (CommRingCat.of 𝒪))
+    (pt : ∀ (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪)), FakeEllipticCurve Λ N S → SchemeHomOver s f)
+    (h𝒳 : IsCoarseModuli Λ N 𝒳 f pt)
+
+    (n : ℕ) (hn : 3 ≤ n) (hrn : ¬ r ∣ n) (hrbarn : ¬ rbar ∣ n) (hnN : Nat.Coprime n N)
+    (M : Scheme.{0}) (fM : M ⟶ Spec (CommRingCat.of 𝒪))
+    (ptF : ∀ (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪)),
+      FakeEllipticCurve.WithFullLevel Λ N n S → SchemeHomOver s fM)
+    (hM : IsFineModuli Λ N n M fM ptF)
+    (G : Type) [Group G] (ρ : G →* Aut M) (χ : G → ↥Λ) (hρ : IsLevelTwistAction Λ N n M fM ptF G ρ χ)
+
+    (p : M ⟶ 𝒳) (hp : p ≫ f = fM) (hρp : ∀ h : G, (ρ h).hom ≫ p = p)
+    (hp_pt : ∀ (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪)) (u : FakeEllipticCurve.WithFullLevel Λ N n S),
+      (ptF S s u).1 ≫ p = (pt S s u.1).1)
+    (𝒴 : HeckeTower.AwayPrime r rbar → Scheme.{0}) (g : ∀ ℓ : HeckeTower.AwayPrime r rbar, 𝒴 ℓ ⟶ Spec (CommRingCat.of 𝒪))
+    (ptT : ∀ (ℓ : HeckeTower.AwayPrime r rbar) (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪)),
+      FakeEllipticCurve.WithExtraLevel Λ N (ℓ.1 : ℕ) S → SchemeHomOver s (g ℓ))
+    (h𝒴 : ∀ ℓ : HeckeTower.AwayPrime r rbar, IsCoarseModuliT Λ N (ℓ.1 : ℕ) (𝒴 ℓ) (g ℓ) (ptT ℓ))
+    (d₀ d₁ : ∀ ℓ : HeckeTower.AwayPrime r rbar, 𝒴 ℓ ⟶ 𝒳) (hd₀f : ∀ ℓ, d₀ ℓ ≫ f = g ℓ) (hd₁f : ∀ ℓ, d₁ ℓ ≫ f = g ℓ)
+    (hd₀ : ∀ (ℓ : HeckeTower.AwayPrime r rbar) (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪))
+      (u : FakeEllipticCurve.WithExtraLevel Λ N (ℓ.1 : ℕ) S), (ptT ℓ S s u).1 ≫ d₀ ℓ = (pt S s u.1).1)
+    (hd₁ : ∀ (ℓ : HeckeTower.AwayPrime r rbar) (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪))
+      (u : FakeEllipticCurve.WithExtraLevel Λ N (ℓ.1 : ℕ) S) (d : FakeEllipticCurve Λ N S),
+      FakeEllipticCurve.IsLevelIsogeny (ℓ.1 : ℕ) u d → (ptT ℓ S s u).1 ≫ d₁ ℓ = (pt S s d).1)
+
+    (ar arbar : 𝒳 ⟶ 𝒳) (harf : ar ≫ f = f) (harbarf : arbar ≫ f = f)
+    (har : ∀ (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪)) (E E' : FakeEllipticCurve Λ N S),
+      FakeEllipticCurve.IsAtkinLehnerQuotient r E E' → (pt S s E).1 ≫ ar = (pt S s E').1)
+    (harbar : ∀ (S : Type) [CommRing S] (s : Spec (CommRingCat.of S) ⟶ Spec (CommRingCat.of 𝒪)) (E E' : FakeEllipticCurve Λ N S),
+      FakeEllipticCurve.IsAtkinLehnerQuotient rbar E E' → (pt S s E).1 ≫ arbar = (pt S s E').1)
+
+    {a₁ b₁ : ℚ} (hdef : IsDefiniteRamifiedExactlyAt (a := a₁) (b := b₁) rbar)
+    (Λ₁ R₁ : Submodule ℤ ℍ[ℚ, a₁, b₁]) (hΛ₁ : IsMaximalOrder Λ₁) (hR₁ : IsEichlerOrder R₁ N) (hRΛ₁ : R₁ ≤ Λ₁)
+    (n₁ : (ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ)ˣ) (hn₁ : n₁ ∈ primeHeckeSet R₁ r)
+    (hS₁ : IsEichlerOrder (meetOrder R₁ n₁) (N * r))
+    (ι₀ : ℍ[ℚ, a₁, b₁] →ₐ[ℚ] Matrix (Fin 2) (Fin 2) K₀) (hι₀ : Function.Injective ι₀)
+    (v : HeightOneSpectrum (𝓞 ℚ)) (hv : ((r : ℕ) : 𝓞 ℚ) ∈ v.asIdeal)
+
+    (Γt : Subgroup (ℍ[ℚ, a₁, b₁])ˣ) (hΓt : ∀ x : (ℍ[ℚ, a₁, b₁])ˣ, x ∈ Γt ↔ x ∈ CerednikDrinfeld.CosetGraph.awayUnits R₁ v)
+    (s : HeckeTower.AwayPrime r rbar → (ℍ[ℚ, a₁, b₁])ˣ)
+    (sf : HeckeTower.AwayPrime r rbar → (ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hs : ∀ ℓ : HeckeTower.AwayPrime r rbar,
+      (∀ u : HeightOneSpectrum (𝓞 ℚ), ((r : ℕ) : 𝓞 ℚ) ∉ u.asIdeal →
+        Submodule.finiteAdeleEvalAt ℍ[ℚ, a₁, b₁] u (sf ℓ : ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ) =
+          (s ℓ : ℍ[ℚ, a₁, b₁]) ⊗ₜ[ℚ] (1 : u.adicCompletion ℚ)) ∧
+      (∀ u : HeightOneSpectrum (𝓞 ℚ), ((r : ℕ) : 𝓞 ℚ) ∈ u.asIdeal →
+        Submodule.finiteAdeleEvalAt ℍ[ℚ, a₁, b₁] u (sf ℓ : ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ) = 1) ∧
+      Submodule.finiteIdeleDiagonal ℍ[ℚ, a₁, b₁]
+          (Units.map (algebraMap ℚ ℍ[ℚ, a₁, b₁]).toMonoidHom
+            (Units.mk0 ((ℓ.1 : ℕ) : ℚ) (Nat.cast_ne_zero.mpr ℓ.1.prop.ne_zero))) * (sf ℓ)⁻¹ ∈
+        (if (ℓ.1 : ℕ) ∣ N then levelHeckeUSet Λ₁ (meetOrder R₁ n₁) (ℓ.1 : ℕ)
+          else primeHeckeSet (meetOrder R₁ n₁) (ℓ.1 : ℕ)) ∧
+      nrd (s ℓ : ℍ[ℚ, a₁, b₁]) = ((ℓ.1 : ℕ) : ℚ))
+    (Γtℓ : HeckeTower.AwayPrime r rbar → Subgroup (ℍ[ℚ, a₁, b₁])ˣ) (hΓtℓ : ∀ ℓ : HeckeTower.AwayPrime r rbar, Γtℓ ℓ = Γt ⊓ Γt.map (MulAut.conj (s ℓ)).toMonoidHom)
+
+    (wbar : (ℍ[ℚ, a₁, b₁])ˣ) (hwbar : nrd (wbar : ℍ[ℚ, a₁, b₁]) = ((rbar : ℕ) : ℚ) ∧ ∀ x : (ℍ[ℚ, a₁, b₁])ˣ, x ∈ Γt → wbar * x * wbar⁻¹ ∈ Γt)
+
+    (hΛℤ : ∀ m : ℤ, ((m : ℚ) : ℍ[ℚ, a, b]) ∈ Λ)
+    (coord : ↥Λ → Zp2 r × Zp2 r) (hcoord : IsOrderCoord Λ r coord)
+
+    (A₀ : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (X₀ : FormalODModule r (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (θ₀ : RelativeGroupLaw.FormalCoordinates A₀.f 2)
+    (e e' : ↥Γt → (A₀.A ⟶ A₀.A)) (he : ∀ γ, e γ ≫ A₀.f = A₀.f) (deg : ↥Γt → ℕ)
+
+    (hX₀ : X₀.HasHeight 4) (hA₀ : A₀.IsFormalModuleVia coord X₀ θ₀)
+
+    (hE1 :
+      (∀ γ : ↥Γt, FakeEllipticCurve.IsIsogenyPair (r ^ deg γ) A₀ A₀ (e γ) (e' γ) ∧ FakeEllipticCurve.PreservesLevel A₀ A₀ (e γ) (he γ)))
+    (hE1mul :
+      (∀ γ γ' : ↥Γt, ∃ i j : ℕ,
+          e (γ * γ') ≫ A₀.act ⟨(((r ^ i : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = e γ' ≫ e γ ≫ A₀.act ⟨(((r ^ j : ℕ) : ℤ) : ℚ), hΛℤ _⟩))
+    (hE1sc :
+      (∀ (γ : ↥Γt) (c : ℤ), ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) = (c : ℚ) • (1 : ℍ[ℚ, a₁, b₁]) →
+          ∃ i : ℕ, e γ ≫ A₀.act ⟨(((r ^ i : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = A₀.act ⟨((c * ((r ^ i : ℕ) : ℤ) : ℤ) : ℚ), hΛℤ _⟩))
+
+    (hE1' :
+      (∀ (γ : ↥Γt), (∃ (i c : ℕ), 0 < c ∧ e γ ≫ A₀.act ⟨(((r ^ i : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = A₀.act ⟨((c : ℤ) : ℚ), hΛℤ _⟩) →
+          ∃ c : ℚ, ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) = c • (1 : ℍ[ℚ, a₁, b₁])))
+
+    (hE2 :
+      (∀ E₀ : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd})) →+* Matrix (Fin 2) (Fin 2) K₀, Function.Injective E₀ →
+        ∃ g : Matrix.GeneralLinearGroup (Fin 2) K₀, ∀ γ : ↥Γt, ∃ (ε : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (kγ : ℤ),
+          (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+              J ^ (m + 1) = ⊥ → ∀ s : Fin 2 → B', (∀ i, s i ∈ J) →
+              θ₀ B' (fun i => MvFormalGroup.nilEval m ((ε : MvFormalGroup.End X₀.F).toPowerSeries i) s) =
+                mapPt (e γ) (he γ) (θ₀ B' s)) ∧
+          E₀ ε = ((r : K₀) ^ kγ) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) *
+            ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀))))
+
+    (hE3 :
+      (∀ P₀ : A₀.FullLevel n, ∃ lab : ↥Γt → ↥Λ,
+        (∀ γ : ↥Γt, mapPt (e γ) (he γ) P₀.P = pushPt (A₀.act (lab γ)) (A₀.act_over (lab γ)) P₀.P) ∧
+        (∀ γ γ' : ↥Γt, ∃ y : ↥Λ, (lab (γ * γ') : ℍ[ℚ, a, b]) - (lab γ' : ℍ[ℚ, a, b]) * (lab γ : ℍ[ℚ, a, b]) = (n : ℚ) • (y : ℍ[ℚ, a, b])) ∧
+        (∀ (γ : ↥Γt) (c : ℤ), ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) = (c : ℚ) • (1 : ℍ[ℚ, a₁, b₁]) →
+            ∃ y : ↥Λ, (lab γ : ℍ[ℚ, a, b]) - (c : ℚ) • (1 : ℍ[ℚ, a, b]) = (n : ℚ) • (y : ℍ[ℚ, a, b]))))
+
+    (hE4 :
+      (∀ (k : Type) [Field k] [IsAlgClosed k] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) k]
+          (A : FakeEllipticCurve Λ N k) (gA : A.A ⟶ A₀.A),
+          FakeEllipticCurve.IsPullbackVia (algebraMap (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) k) A₀ A gA →
+          (∀ (φ ψ : A.A ⟶ A.A) (d : ℕ) (hφ : φ ≫ A.f = A.f),
+              FakeEllipticCurve.IsIsogenyPair (r ^ d) A A φ ψ → FakeEllipticCurve.PreservesLevel A A φ hφ →
+              ∃ (γ : ↥Γt) (i j : ℕ), φ ≫ A.act ⟨(((r ^ i : ℕ) : ℤ) : ℚ), hΛℤ _⟩ ≫ gA = gA ≫ e γ ≫ A₀.act ⟨(((r ^ j : ℕ) : ℤ) : ℚ), hΛℤ _⟩)))
+
+    (R₂ : Submodule ℤ ℍ[ℚ, a₁, b₁]) (hR₂ : R₂ ≤ R₁) (hR₂o : IsOrder R₂)
+          (hR₂r : ∀ x : ↥R₁, ∃ c : ℕ, ((r ^ c : ℕ) : ℚ) • (x : ℍ[ℚ, a₁, b₁]) ∈ R₂)
+          (ê : ↥R₂ → (A₀.A ⟶ A₀.A)) (hê : ∀ x, ê x ≫ A₀.f = A₀.f)
+
+        (hE5a : ∀ x : ↥R₂,
+          (∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))) (P Q : SchemeHomOver t A₀.f),
+              mapPt (ê x) (hê x) (A₀.L.mul t P Q) = A₀.L.mul t (mapPt (ê x) (hê x) P) (mapPt (ê x) (hê x) Q)) ∧
+          (∀ m : ↥Λ, A₀.act m ≫ ê x = ê x ≫ A₀.act m) ∧
+          FakeEllipticCurve.PreservesLevel A₀ A₀ (ê x) (hê x))
+
+        (hE5b1 : ∀ h : (1 : ℍ[ℚ, a₁, b₁]) ∈ R₂, ê ⟨1, h⟩ = 𝟙 A₀.A)
+        (hE5b2 : ∀ (x y : ↥R₂) (h : (x : ℍ[ℚ, a₁, b₁]) * (y : ℍ[ℚ, a₁, b₁]) ∈ R₂),
+            ê ⟨(x : ℍ[ℚ, a₁, b₁]) * (y : ℍ[ℚ, a₁, b₁]), h⟩ = ê y ≫ ê x)
+        (hE5b3 : ∀ (m : ℤ) (h : ((m : ℚ) : ℍ[ℚ, a₁, b₁]) ∈ R₂), ê ⟨((m : ℚ) : ℍ[ℚ, a₁, b₁]), h⟩ = A₀.act ⟨((m : ℤ) : ℚ), hΛℤ m⟩)
+
+        (hE5c : ∀ (x y : ↥R₂) (nx : ℤ), (y : ℍ[ℚ, a₁, b₁]) = star (x : ℍ[ℚ, a₁, b₁]) → nrd (x : ℍ[ℚ, a₁, b₁]) = (nx : ℚ) →
+            ê y ≫ ê x = A₀.act ⟨((nx : ℤ) : ℚ), hΛℤ nx⟩)
+
+        (hE5d : ∀ (γ : ↥Γt) (x : ↥R₂) (k : ℕ),
+            (x : ℍ[ℚ, a₁, b₁]) = ((r ^ k : ℕ) : ℚ) • ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) →
+            ∃ i j : ℕ, e γ ≫ A₀.act ⟨(((r ^ i : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = ê x ≫ A₀.act ⟨(((r ^ j : ℕ) : ℤ) : ℚ), hΛℤ _⟩)
+
+        (hE5e : ∀ E₀ : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd})) →+* Matrix (Fin 2) (Fin 2) K₀, Function.Injective E₀ →
+          ∃ g : Matrix.GeneralLinearGroup (Fin 2) K₀,
+            (∀ γ : ↥Γt, ∃ (ε : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (kγ : ℤ),
+              (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+                  J ^ (m + 1) = ⊥ → ∀ s : Fin 2 → B', (∀ i, s i ∈ J) →
+                  θ₀ B' (fun i => MvFormalGroup.nilEval m ((ε : MvFormalGroup.End X₀.F).toPowerSeries i) s) =
+                    mapPt (e γ) (he γ) (θ₀ B' s)) ∧
+              E₀ ε = ((r : K₀) ^ kγ) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) *
+                ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀))) ∧
+            (∀ x : ↥R₂, ∃ (ε : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (kx : ℤ),
+              (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+                  J ^ (m + 1) = ⊥ → ∀ s : Fin 2 → B', (∀ i, s i ∈ J) →
+                  θ₀ B' (fun i => MvFormalGroup.nilEval m ((ε : MvFormalGroup.End X₀.F).toPowerSeries i) s) =
+                    mapPt (ê x) (hê x) (θ₀ B' s)) ∧
+              E₀ ε = ((r : K₀) ^ kx) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ (x : ℍ[ℚ, a₁, b₁]) *
+                ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀))))
+
+    (hE5g : ∀ z : ↥R₂, star (z : ℍ[ℚ, a₁, b₁]) ∈ R₂)
+
+    (Λ₁s : Submodule ℤ ℍ[ℚ, a₁, b₁]) (hΛ₁s : IsMaximalOrder Λ₁s) (hR₁Λ₁s : R₁ ≤ Λ₁s) (htwin : Λ₁ ⊓ Λ₁s = R₁)
+            (R₂' : Submodule ℤ ℍ[ℚ, a₁, b₁]) (hR₂' : R₂' ≤ Λ₁s) (hR₂'o : IsOrder R₂')
+            (hR₂'r : ∀ z : ↥Λ₁s, ∃ c : ℕ, ((r ^ c : ℕ) : ℚ) • (z : ℍ[ℚ, a₁, b₁]) ∈ R₂') (hR₂R₂' : R₂ ≤ R₂')
+            (ê' : ↥R₂' → (A₀.A ⟶ A₀.A)) (hê' : ∀ z, ê' z ≫ A₀.f = A₀.f)
+
+          (hE6a : ∀ z : ↥R₂',
+            (∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))) (P Q : SchemeHomOver t A₀.f),
+                mapPt (ê' z) (hê' z) (A₀.L.mul t P Q) = A₀.L.mul t (mapPt (ê' z) (hê' z) P) (mapPt (ê' z) (hê' z) Q)) ∧
+            (∀ m : ↥Λ, A₀.act m ≫ ê' z = ê' z ≫ A₀.act m))
+
+          (hE6b1 : ∀ h : (1 : ℍ[ℚ, a₁, b₁]) ∈ R₂', ê' ⟨1, h⟩ = 𝟙 A₀.A)
+          (hE6b2 : ∀ (z y : ↥R₂') (h : (z : ℍ[ℚ, a₁, b₁]) * (y : ℍ[ℚ, a₁, b₁]) ∈ R₂'),
+              ê' ⟨(z : ℍ[ℚ, a₁, b₁]) * (y : ℍ[ℚ, a₁, b₁]), h⟩ = ê' y ≫ ê' z)
+          (hE6b3 : ∀ (m : ℤ) (h : ((m : ℚ) : ℍ[ℚ, a₁, b₁]) ∈ R₂'), ê' ⟨((m : ℚ) : ℍ[ℚ, a₁, b₁]), h⟩ = A₀.act ⟨((m : ℤ) : ℚ), hΛℤ m⟩)
+
+          (hE6c : ∀ (z y : ↥R₂') (nz : ℤ), (y : ℍ[ℚ, a₁, b₁]) = star (z : ℍ[ℚ, a₁, b₁]) → nrd (z : ℍ[ℚ, a₁, b₁]) = (nz : ℚ) →
+              ê' y ≫ ê' z = A₀.act ⟨((nz : ℤ) : ℚ), hΛℤ nz⟩)
+
+          (hE6d : ∀ z : ↥R₂, ê' ⟨(z : ℍ[ℚ, a₁, b₁]), hR₂R₂' z.2⟩ = ê z)
+
+          (hE6e1 : ∀ z : ↥R₂', star (z : ℍ[ℚ, a₁, b₁]) ∈ R₂')
+          (hE6e2 : ∀ z y : ↥R₂', ê' z = ê' y → z = y)
+
+          (hE6f : ∀ (q : ℕ), q.Prime → q ≠ r → ∀ z : ↥R₂',
+            (∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))) (P : SchemeHomOver t A₀.f),
+                nsmulPt A₀.L t q P = A₀.L.one t → mapPt (ê' z) (hê' z) P = A₀.L.one t) →
+            ∃ (K : ℕ) (y : ↥Λ₁s), ((r ^ K : ℕ) : ℚ) • (z : ℍ[ℚ, a₁, b₁]) = (q : ℚ) • (y : ℍ[ℚ, a₁, b₁]))
+
+    (ι : Zp2 r →+* Onr)
+    (Φ : FormalODModule r (Onr ⧸ pIdeal r Onr))
+    (hΦ : Φ.IsSpecial ((Ideal.Quotient.mk (pIdeal r Onr)).comp ι))
+    (hΦ4 : Φ.HasHeight 4)
+    (MD : ModuliPackage.{0, 0} r Onr) (hMD : MD.IsZariskiSheaf)
+    (η : ∀ (B : Type) [CommRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)),
+      Rigidified r Φ B → MD.obj B ψ hB)
+    (hη : (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B))
+          (t t' : Rigidified r Φ B), t.IsAdmissible ι ψ → t'.IsAdmissible ι ψ →
+          (η B ψ hB t = η B ψ hB t' ↔ t.IsIsomorphic t')) ∧
+      (∀ (B B' : Type) [CommRing B] [CommRing B'] [IsNoetherianRing B] [IsNoetherianRing B'] (ψ : Onr →+* B) (ψ' : Onr →+* B')
+          (hB : IsNilpotent (r : B)) (hB' : IsNilpotent (r : B')) (f : B →+* B')
+          (hf : f.comp ψ = ψ') (t : Rigidified r Φ B), t.IsAdmissible ι ψ →
+          η B' ψ' hB' (t.map f) = MD.map hB hB' f hf (η B ψ hB t)) ∧
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] (ψ : Onr →+* B) (hB : IsNilpotent (r : B)) (m : MD.obj B ψ hB),
+          ∃ (n : ℕ) (f : Fin n → B), Ideal.span (Set.range f) = ⊤ ∧
+            ∀ (i : Fin n) (L : Type) [CommRing L] [IsNoetherianRing L] [Algebra B L] [IsLocalization.Away (f i) L]
+              (hL : IsNilpotent (r : L)),
+              ∃ t : Rigidified r Φ L, t.IsAdmissible ι ((algebraMap B L).comp ψ) ∧
+                η L ((algebraMap B L).comp ψ) hL t =
+                  MD.map (ψ' := (algebraMap B L).comp ψ) hB hL (algebraMap B L) rfl m))
+    (E₀ : Subring.centralizer (Set.range Φ.actEnd ∪ {Φ.varpiEnd}) →+* Matrix (Fin 2) (Fin 2) K₀)
+    (hE₀ : Function.Injective E₀ ∧
+      ∃ m : ℕ,
+        (∀ A : Matrix (Fin 2) (Fin 2) 𝒪, ∃ e, E₀ e = (r : K₀) ^ m • A.map (algebraMap 𝒪 K₀)) ∧
+        (∀ e, ∃ A : Matrix (Fin 2) (Fin 2) 𝒪, (r : K₀) ^ m • E₀ e = A.map (algebraMap 𝒪 K₀)))
+
+      (eD : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B], IsNilpotent (algebraMap 𝒪 B π) → (ModuliPackage.G 𝒪 MD).obj B → (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B)
+
+      (hnatD : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (B' : Type) [CommRing B'] [IsNoetherianRing B'] [Algebra 𝒪 B'] (hB : IsNilpotent (algebraMap 𝒪 B π)) (hB' : IsNilpotent (algebraMap 𝒪 B' π))
+          (φ : B →ₐ[𝒪] B') (x : (ModuliPackage.G 𝒪 MD).obj B), eD B' hB' ((ModuliPackage.G 𝒪 MD).map φ x) = (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).map φ (eD B hB x))
+
+      (hbijD : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)), Function.Bijective (eD B hB))
+
+      (hfstD : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (x : (ModuliPackage.G 𝒪 MD).obj B), (eD B hB x).1 = x.ψ)
+
+      (hGLD : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (g : Matrix.GeneralLinearGroup (Fin 2) K₀) (x x' : (ModuliPackage.G 𝒪 MD).obj B),
+          ModuliPackage.G.IsActBy ι Φ η Fr E₀ g x x' ↔ OmegaNr.IsTwistedAct π Onr Fr vdet B g (eD B hB x) (eD B hB x'))
+
+      (hPiD : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (x x' : (ModuliPackage.G 𝒪 MD).obj B),
+          ModuliPackage.G.IsPiTranslate ι Φ η Fr x x' → eD B hB x' = (frobTwist Onr Fr 1 (eD B hB x).1, (eD B hB x).2))
+
+      (hPiexD : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (x : (ModuliPackage.G 𝒪 MD).obj B), ∃ x' : (ModuliPackage.G 𝒪 MD).obj B, ModuliPackage.G.IsPiTranslate ι Φ η Fr x x')
+
+    (κ : (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) →+* (Onr ⧸ pIdeal r Onr))
+    (hκ : κ.comp (Ideal.Quotient.mk (Ideal.span {algebraMap 𝒪 Onr π})) = Ideal.Quotient.mk (pIdeal r Onr))
+    (n₀ : ℕ) (β₀ : Series (Onr ⧸ pIdeal r Onr)) (hβ₀ : FormalODModule.IsIsogenyOfHeight Φ (X₀.map κ) β₀ (4 * n₀))
+
+    (P₀ : A₀.FullLevel n)
+
+    (A₀w : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (aw : A₀.A ⟶ A₀w.A) (haw : aw ≫ A₀w.f = A₀.f) (aw' : A₀w.A ⟶ A₀.A) (haw' : aw' ≫ A₀.f = A₀w.f)
+    (kw : ℕ) (bw : A₀w.A ⟶ A₀.A) (hbw : bw ≫ A₀.f = A₀w.f) (bw' : A₀.A ⟶ A₀w.A) (habw : (aw ≫ bw) ≫ A₀.f = A₀.f)
+    (hALw : FakeEllipticCurve.IsAtkinLehnerQuotientVia rbar A₀ A₀w aw haw aw' haw')
+    (hBSw : FakeEllipticCurve.IsIsogenyPair (r ^ kw) A₀w A₀ bw bw') (hBSwlev : FakeEllipticCurve.PreservesLevel A₀w A₀ bw hbw)
+    (hJOINTw :
+      (∀ E₀ : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd})) →+* Matrix (Fin 2) (Fin 2) K₀, Function.Injective E₀ →
+        ∃ g : Matrix.GeneralLinearGroup (Fin 2) K₀,
+          (∀ γ : ↥Γt, ∃ (ε : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (kγ : ℤ),
+          (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+              J ^ (m + 1) = ⊥ → ∀ s : Fin 2 → B', (∀ i, s i ∈ J) →
+              θ₀ B' (fun i => MvFormalGroup.nilEval m ((ε : MvFormalGroup.End X₀.F).toPowerSeries i) s) =
+                mapPt (e γ) (he γ) (θ₀ B' s)) ∧
+          E₀ ε = ((r : K₀) ^ kγ) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) *
+            ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀))) ∧
+
+          (∃ (εw : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (k_w : ℤ),
+              (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+                J ^ (m + 1) = ⊥ → ∀ v : Fin 2 → B', (∀ i, v i ∈ J) →
+                θ₀ B' (fun i => MvFormalGroup.nilEval m ((εw : MvFormalGroup.End X₀.F).toPowerSeries i) v) =
+                  mapPt (aw ≫ bw) habw (θ₀ B' v)) ∧
+              E₀ εw = ((r : K₀) ^ k_w) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ ((wbar : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) *
+                ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀)))))
+
+    (Ξ : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B),
+        IsNilpotent (algebraMap 𝒪 B π) → FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ → ModuliPackage.GPoint 𝒪 MD B)
+
+    (hΞleg :
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+          (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ), ∃ k : ℤ, (Ξ B ψ hB x).ψ = frobTwist Onr Fr k ψ))
+
+    (hΞnat :
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (B' : Type) [CommRing B'] [IsNoetherianRing B'] [Algebra 𝒪 B']
+          (φ : B →ₐ[𝒪] B') (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π)) (hB' : IsNilpotent (algebraMap 𝒪 B' π))
+          (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (x' : FakeEllipticCurve.RigidifiedCurve r π A₀ B' (φ.comp ψ))
+          (g : x'.1.A ⟶ x.1.A) (hg : FakeEllipticCurve.IsPullbackVia (φ : B →+* B') x.1 x'.1 g),
+          FakeEllipticCurve.Rigidification.IsPullbackVia φ g hg x.2 x'.2 → Ξ B' (φ.comp ψ) hB' x' = (Ξ B ψ hB x).map φ))
+
+    (hΞiso :
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (x x' : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (i : x.1.A ≅ x'.1.A) (hi : i.hom ≫ x'.1.f = x.1.f),
+          FakeEllipticCurve.IsoVia x.1 x'.1 i hi →
+          (∃ (ib : x.2.Eb.A ⟶ x'.2.Eb.A) (_ : ib ≫ x'.2.gb = x.2.gb ≫ i.hom) (_ : ib ≫ x'.2.Eb.f = x.2.Eb.f)
+            (uA : x'.2.Ab.A ⟶ x.2.Ab.A) (_ : FakeEllipticCurve.IsPullbackVia (RingHom.id _) x.2.Ab x'.2.Ab uA) (_ : uA ≫ x.2.gA = x'.2.gA)
+            (i₁ j₁ : ℕ),
+            ib ≫ x'.2.φ ≫ uA ≫ x.2.Ab.act ⟨(((r ^ i₁ : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = x.2.φ ≫ x.2.Ab.act ⟨(((r ^ j₁ : ℕ) : ℤ) : ℚ), hΛℤ _⟩) →
+            Ξ B ψ hB x = Ξ B ψ hB x'))
+
+    (hΞdef :
+      (∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+          (hBr : IsNilpotent ((r : ℕ) : B))
+          (x : FakeEllipticCurve.RigidifiedCurve r π A₀ B ψ) (X : FormalODModule r B) (θ : RelativeGroupLaw.FormalCoordinates x.1.f 2),
+          x.1.IsFormalModuleVia coord X θ →
+          ∃ (j : ℕ) (t : Rigidified r Φ B), j ≤ 1 ∧ t.X = X ∧
+            FakeEllipticCurve.Rigidification.IsRigTransport θ₀ κ β₀ x.2 θ j t ∧
+            t.IsAdmissible ι ((frobTwist Onr Fr (-(j : ℤ)) ψ : Onr →ₐ[𝒪] B) : Onr →+* B) ∧
+            Ξ B ψ hB x = ⟨frobTwist Onr Fr (-(j : ℤ)) ψ, hBr, η B ((frobTwist Onr Fr (-(j : ℤ)) ψ : Onr →ₐ[𝒪] B) : Onr →+* B) hBr t⟩))
+
+    (g₀ : Matrix.GeneralLinearGroup (Fin 2) K₀)
+
+      (heqΓ : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+          (E : FakeEllipticCurve Λ N B) (ρ ρ' : FakeEllipticCurve.Rigidification r π A₀ ψ E) (γ : ↥Γt),
+          FakeEllipticCurve.Rigidification.IsTranslateBy hΛℤ (e γ) ρ ρ' →
+            ∃ c : ℤ,
+              ModuliPackage.G.IsActBy ι Φ η Fr E₀
+                ((Units.map (algebraMap K₀ (Matrix (Fin 2) (Fin 2) K₀)).toMonoidHom
+                  (Units.mk0 (r : K₀) (Nat.cast_ne_zero.mpr (Fact.out : r.Prime).ne_zero))) ^ c *
+                  (g₀ * Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀) (γ : (ℍ[ℚ, a₁, b₁])ˣ) * g₀⁻¹))
+                (Ξ B ψ hB ⟨E, ρ⟩) (Ξ B ψ hB ⟨E, ρ'⟩))
+
+      (heqW : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+          (hrbarB : IsUnit ((rbar : ℕ) : B))
+          (E Ef : FakeEllipticCurve Λ N B)
+          (q : E.A ⟶ Ef.A) (hq : q ≫ Ef.f = E.f) (q' : Ef.A ⟶ E.A) (hq' : q' ≫ E.f = Ef.f),
+          FakeEllipticCurve.IsAtkinLehnerQuotientVia rbar E Ef q hq q' hq' →
+          ∀ (ρ : FakeEllipticCurve.Rigidification r π A₀ ψ E) (ρf : FakeEllipticCurve.Rigidification r π A₀ ψ Ef),
+          (∃ (qb : ρ.Eb.A ⟶ ρf.Eb.A) (_ : qb ≫ ρf.gb = ρ.gb ≫ q) (_ : qb ≫ ρf.Eb.f = ρ.Eb.f)
+            (uA : ρf.Ab.A ⟶ ρ.Ab.A) (_ : FakeEllipticCurve.IsPullbackVia (RingHom.id _) ρ.Ab ρf.Ab uA) (_ : uA ≫ ρ.gA = ρf.gA)
+            (ewb : ρ.Ab.A ⟶ ρ.Ab.A) (_ : ewb ≫ ρ.gA = ρ.gA ≫ (aw ≫ bw)) (_ : ewb ≫ ρ.Ab.f = ρ.Ab.f)
+            (i j : ℕ),
+            qb ≫ ρf.φ ≫ uA ≫ ρ.Ab.act ⟨(((r ^ i : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = ρ.φ ≫ ewb ≫ ρ.Ab.act ⟨(((r ^ j : ℕ) : ℤ) : ℚ), hΛℤ _⟩) →
+            ∃ c : ℤ,
+              ModuliPackage.G.IsActBy ι Φ η Fr E₀
+                ((Units.map (algebraMap K₀ (Matrix (Fin 2) (Fin 2) K₀)).toMonoidHom
+                  (Units.mk0 (r : K₀) (Nat.cast_ne_zero.mpr (Fact.out : r.Prime).ne_zero))) ^ c *
+                  (g₀ * Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀) wbar * g₀⁻¹))
+                (Ξ B ψ hB ⟨E, ρ⟩) (Ξ B ψ hB ⟨Ef, ρf⟩))
+
+      (heqS : ∀ (n₁ : (ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ)ˣ) (hn₁ : n₁ ∈ primeHeckeSet R₁ r)
+          (hS₁ : IsEichlerOrder (meetOrder R₁ n₁) (N * r))
+          (ℓ : HeckeTower.AwayPrime r rbar) (s : (ℍ[ℚ, a₁, b₁])ˣ)
+          (sf : (ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ)ˣ)
+          (hs :
+            (∀ u : HeightOneSpectrum (𝓞 ℚ), ((r : ℕ) : 𝓞 ℚ) ∉ u.asIdeal →
+              Submodule.finiteAdeleEvalAt ℍ[ℚ, a₁, b₁] u (sf : ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ) =
+                (s : ℍ[ℚ, a₁, b₁]) ⊗ₜ[ℚ] (1 : u.adicCompletion ℚ)) ∧
+            (∀ u : HeightOneSpectrum (𝓞 ℚ), ((r : ℕ) : 𝓞 ℚ) ∈ u.asIdeal →
+              Submodule.finiteAdeleEvalAt ℍ[ℚ, a₁, b₁] u (sf : ℍ[ℚ, a₁, b₁] ⊗[ℚ] FiniteAdeleRing (𝓞 ℚ) ℚ) = 1) ∧
+            Submodule.finiteIdeleDiagonal ℍ[ℚ, a₁, b₁]
+                (Units.map (algebraMap ℚ ℍ[ℚ, a₁, b₁]).toMonoidHom
+                  (Units.mk0 ((ℓ.1 : ℕ) : ℚ) (Nat.cast_ne_zero.mpr ℓ.1.prop.ne_zero))) * sf⁻¹ ∈
+              (if (ℓ.1 : ℕ) ∣ N then levelHeckeUSet Λ₁ (meetOrder R₁ n₁) (ℓ.1 : ℕ)
+                else primeHeckeSet (meetOrder R₁ n₁) (ℓ.1 : ℕ)) ∧
+            nrd (s : ℍ[ℚ, a₁, b₁]) = ((ℓ.1 : ℕ) : ℚ))
+          (C₀ : A₀.ExtraLevel (ℓ.1 : ℕ)) (A₀s : FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+          (as : A₀.A ⟶ A₀s.A) (has : as ≫ A₀s.f = A₀.f) (as' : A₀s.A ⟶ A₀.A) (has' : as' ≫ A₀.f = A₀s.f)
+          (ks : ℕ) (bs : A₀s.A ⟶ A₀.A) (hbs : bs ≫ A₀.f = A₀s.f) (bs' : A₀.A ⟶ A₀s.A) (habs : (as ≫ bs) ≫ A₀.f = A₀.f)
+          (hLIs : FakeEllipticCurve.IsLevelIsogenyVia (ℓ.1 : ℕ) ⟨A₀, C₀⟩ A₀s as has as' has')
+          (hBSs : FakeEllipticCurve.IsIsogenyPair (r ^ ks) A₀s A₀ bs bs') (hBSslev : FakeEllipticCurve.PreservesLevel A₀s A₀ bs hbs)
+          (hJOINTs : (∀ E₀ : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd})) →+* Matrix (Fin 2) (Fin 2) K₀, Function.Injective E₀ →
+            ∃ g : Matrix.GeneralLinearGroup (Fin 2) K₀,
+              (∀ γ : ↥Γt, ∃ (ε : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (kγ : ℤ),
+              (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+                  J ^ (m + 1) = ⊥ → ∀ s : Fin 2 → B', (∀ i, s i ∈ J) →
+                  θ₀ B' (fun i => MvFormalGroup.nilEval m ((ε : MvFormalGroup.End X₀.F).toPowerSeries i) s) =
+                    mapPt (e γ) (he γ) (θ₀ B' s)) ∧
+              E₀ ε = ((r : K₀) ^ kγ) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) *
+                ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀))) ∧
+
+              (∃ (εs : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (k_s : ℤ),
+                  (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+                    J ^ (m + 1) = ⊥ → ∀ v : Fin 2 → B', (∀ i, v i ∈ J) →
+                    θ₀ B' (fun i => MvFormalGroup.nilEval m ((εs : MvFormalGroup.End X₀.F).toPowerSeries i) v) =
+                      mapPt (as ≫ bs) habs (θ₀ B' v)) ∧
+                  E₀ εs = ((r : K₀) ^ k_s) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ (star ((s : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁])) *
+                    ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀))))),
+        ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (ψ : Onr →ₐ[𝒪] B) (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1)
+          (hℓB : IsUnit ((ℓ.1 : ℕ) : B))
+          (u : FakeEllipticCurve.WithExtraLevel Λ N (ℓ.1 : ℕ) B) (E' : FakeEllipticCurve Λ N B)
+          (q : u.1.A ⟶ E'.A) (hq : q ≫ E'.f = u.1.f) (q' : E'.A ⟶ u.1.A) (hq' : q' ≫ u.1.f = E'.f),
+          FakeEllipticCurve.IsLevelIsogenyVia (ℓ.1 : ℕ) u E' q hq q' hq' →
+          ∀ (ρ : FakeEllipticCurve.Rigidification r π A₀ ψ u.1) (ρ' : FakeEllipticCurve.Rigidification r π A₀ ψ E'),
+          (∃ (qb : ρ.Eb.A ⟶ ρ'.Eb.A) (_ : qb ≫ ρ'.gb = ρ.gb ≫ q) (_ : qb ≫ ρ'.Eb.f = ρ.Eb.f)
+            (uA : ρ'.Ab.A ⟶ ρ.Ab.A) (_ : FakeEllipticCurve.IsPullbackVia (RingHom.id _) ρ.Ab ρ'.Ab uA) (_ : uA ≫ ρ.gA = ρ'.gA)
+            (esb : ρ.Ab.A ⟶ ρ.Ab.A) (_ : esb ≫ ρ.gA = ρ.gA ≫ (as ≫ bs)) (_ : esb ≫ ρ.Ab.f = ρ.Ab.f)
+            (i j : ℕ),
+            qb ≫ ρ'.φ ≫ uA ≫ ρ.Ab.act ⟨(((r ^ i : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = ρ.φ ≫ esb ≫ ρ.Ab.act ⟨(((r ^ j : ℕ) : ℤ) : ℚ), hΛℤ _⟩) →
+            ∃ c : ℤ,
+              ModuliPackage.G.IsActBy ι Φ η Fr E₀
+                ((Units.map (algebraMap K₀ (Matrix (Fin 2) (Fin 2) K₀)).toMonoidHom
+                  (Units.mk0 (r : K₀) (Nat.cast_ne_zero.mpr (Fact.out : r.Prime).ne_zero))) ^ c *
+                  (g₀ * Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)
+                    (Units.map (algebraMap ℚ ℍ[ℚ, a₁, b₁]).toMonoidHom
+                      (Units.mk0 ((ℓ.1 : ℕ) : ℚ) (Nat.cast_ne_zero.mpr ℓ.1.prop.ne_zero)) * s⁻¹) * g₀⁻¹))
+                (Ξ B ψ hB ⟨u.1, ρ⟩) (Ξ B ψ hB ⟨E', ρ'⟩))
+
+    (θt : ↥Γt →* G)
+      (Θf : ∀ (B : Type) [CommRing B] [Algebra 𝒪 B], IsNilpotent (algebraMap 𝒪 B π) → (AlgFunctor.prod (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)) (AlgFunctor.const G)).obj B → (Scheme.nilpPoints fM).obj B)
+
+      (hnat : ∀ (B : Type) [CommRing B] [Algebra 𝒪 B] (B' : Type) [CommRing B'] [Algebra 𝒪 B'] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hB' : IsNilpotent (algebraMap 𝒪 B' π)) (φ : B →ₐ[𝒪] B') (x : (AlgFunctor.prod (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)) (AlgFunctor.const G)).obj B),
+          Θf B' hB' ((AlgFunctor.prod (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)) (AlgFunctor.const G)).map φ x) = (Scheme.nilpPoints fM).map φ (Θf B hB x))
+
+      (hG : ∀ (B : Type) [CommRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (x : (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B) (g h : G),
+          (Scheme.nilpPoints.mapHom fM fM (ρ h).hom (hρ.over_base h)).app B (Θf B hB (x, g * h)) = Θf B hB (x, g))
+
+      (hi' : ∀ (B : Type) [CommRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (γ : (ℍ[ℚ, a₁, b₁])ˣ) (hγ : γ ∈ Γt)
+          (x x' : (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B) (g : G),
+          OmegaNr.IsTwistedAct π Onr Fr vdet B ((Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) γ) x x' → Θf B hB (x', θt ⟨γ, hγ⟩ * g) = Θf B hB (x, g))
+
+      (het : ∀ (B : Type) [CommRing B] [Algebra 𝒪 B] (B₀ : Type) [CommRing B₀] [Algebra 𝒪 B₀] (p : B →ₐ[𝒪] B₀)
+          (hB : IsNilpotent (algebraMap 𝒪 B π)) (hB₀ : IsNilpotent (algebraMap 𝒪 B₀ π)),
+          Function.Surjective p → (∀ s t : B, p s = 0 → p t = 0 → s * t = 0) →
+          ∀ (x₀ : (AlgFunctor.prod (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)) (AlgFunctor.const G)).obj B₀) (y : (Scheme.nilpPoints fM).obj B), (Scheme.nilpPoints fM).map p y = Θf B₀ hB₀ x₀ →
+            ∃! x : (AlgFunctor.prod (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)) (AlgFunctor.const G)).obj B, (AlgFunctor.prod (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)) (AlgFunctor.const G)).map p x = x₀ ∧ Θf B hB x = y)
+
+      (hfib : ∀ (k : Type) [Field k] [IsAlgClosed k] [Algebra 𝒪 k] (hk : IsNilpotent (algebraMap 𝒪 k π)) (ψ : Onr →ₐ[𝒪] k),
+          ∀ (ψ' : Onr →ₐ[𝒪] k) (P P' : (Omega K₀ π).obj k) (g g' : G),
+            Θf k hk ((ψ, P), g) = Θf k hk ((ψ', P'), g') ↔
+              ∃ (γ : (ℍ[ℚ, a₁, b₁])ˣ) (hγ : γ ∈ Γt), g' = θt ⟨γ, hγ⟩ * g ∧
+                DeligneDatum.IsPullback (K := K₀) (π := π) k ((Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) γ)⁻¹ P P' ∧
+                ∀ y : Onr, (∀ (z : (ℍ[ℚ, a₁, b₁])ˣ) (hz : z ∈ Γt), (∃ c : ℚ, (z : ℍ[ℚ, a₁, b₁]) = c • (1 : ℍ[ℚ, a₁, b₁])) →
+                    θt ⟨z, hz⟩ = 1 → (Fr ^ Multiplicative.toAdd (vdet ((Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) z))) y = y) →
+                  ψ' y = frobTwist Onr Fr (- Multiplicative.toAdd (vdet ((Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) γ))) ψ y)
+
+      (hC0e : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B)
+          (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E)
+          (X : FormalODModule r B) (θ : RelativeGroupLaw.FormalCoordinates E.f 2), E.IsFormalModuleVia coord X θ →
+          ∃ Pn : E.FullLevel n, FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ Pn)
+
+      (hC0u : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (ψ : Onr →ₐ[𝒪] B)
+          (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E) (Pn Pn' : E.FullLevel n),
+          FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ Pn → FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ Pn' → Pn.P = Pn'.P)
+
+      (hC1e : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B),
+          ∃ (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E),
+            (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) ∧
+            OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P))
+
+      (hC1u : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B)
+          (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E) (E' : FakeEllipticCurve Λ N B) (ϱ' : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E'),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) →
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E', ϱ'⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E', ϱ'⟩)) (ψ, P) →
+            ∃ (i : E.A ≅ E'.A) (hi : i.hom ≫ E'.f = E.f), FakeEllipticCurve.IsoVia E E' i hi ∧
+              (∃ (ib : ϱ.Eb.A ⟶ ϱ'.Eb.A) (_ : ib ≫ ϱ'.gb = ϱ.gb ≫ i.hom) (_ : ib ≫ ϱ'.Eb.f = ϱ.Eb.f)
+                (uA : ϱ'.Ab.A ⟶ ϱ.Ab.A) (_ : FakeEllipticCurve.IsPullbackVia (RingHom.id _) ϱ.Ab ϱ'.Ab uA) (_ : uA ≫ ϱ.gA = ϱ'.gA)
+                (i₁ j₁ : ℕ),
+                ib ≫ ϱ'.φ ≫ uA ≫ ϱ.Ab.act ⟨(((r ^ i₁ : ℕ) : ℤ) : ℚ), hΛℤ _⟩ = ϱ.φ ≫ ϱ.Ab.act ⟨(((r ^ j₁ : ℕ) : ℤ) : ℚ), hΛℤ _⟩))
+
+      (hC1p : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (B' : Type) [CommRing B'] [IsNoetherianRing B'] [Algebra 𝒪 B'] (hB' : IsNilpotent (algebraMap 𝒪 B' π)) (φ : B →ₐ[𝒪] B')
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (hconn' : ∀ e : B', IsIdempotentElem e → e = 0 ∨ e = 1)
+          (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B) (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) →
+            ∃ (E' : FakeEllipticCurve Λ N B') (g : E'.A ⟶ E.A) (hg : FakeEllipticCurve.IsPullbackVia (φ : B →+* B') E E' g)
+              (ϱ' : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (φ.comp ψ)) E'),
+              FakeEllipticCurve.Rigidification.IsPullbackVia φ g hg ϱ ϱ' ∧
+              (Ξ B' (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (φ.comp ψ)) hB' ⟨E', ϱ'⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (φ.comp ψ)) ∧ OmegaNr.IsTwistedAct π Onr Fr vdet B' g₀⁻¹ (eD B' hB' (Ξ B' (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (φ.comp ψ)) hB' ⟨E', ϱ'⟩)) ((φ.comp ψ), ((Omega K₀ π).map φ P)))
+
+      (hC2 : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B)
+          (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E) (Pn : E.FullLevel n),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) → FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ Pn →
+            (Θf B hB ((ψ, P), (1 : G))).1 = (ptF B (Spec.map (CommRingCat.ofHom (algebraMap 𝒪 B))) ⟨E, Pn⟩).1)
+
+      (hC2c : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B)
+          (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) →
+            (Θf B hB ((ψ, P), (1 : G))).1 ≫ p = (pt B (Spec.map (CommRingCat.ofHom (algebraMap 𝒪 B))) E).1)
+
+      (hC3 : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B) (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) →
+          ∀ (γ : (ℍ[ℚ, a₁, b₁])ˣ) (hγ : γ ∈ Γt) (ψ' : Onr →ₐ[𝒪] B) (P' : (Omega K₀ π).obj B),
+            OmegaNr.IsTwistedAct π Onr Fr vdet B ((Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) γ) (ψ, P) (ψ', P') →
+            ∃ ϱ' : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ') E,
+              (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ') hB ⟨E, ϱ'⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ') ∧ OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ') hB ⟨E, ϱ'⟩)) (ψ', P') ∧
+              (∀ (Pn Pn' : E.FullLevel n), FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ Pn → FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ' Pn' →
+                  FakeEllipticCurve.WithFullLevel.IsTwist (χ (θt ⟨γ, hγ⟩)) (⟨E, Pn⟩ : FakeEllipticCurve.WithFullLevel Λ N n B) ⟨E, Pn'⟩) ∧
+              (∀ (ℓ : ℕ) [Fact ℓ.Prime], ℓ ≠ r → IsUnit ((ℓ : ℕ) : B) → ∀ (K₀ : A₀.ExtraLevel ℓ),
+                  (∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))) (R : SchemeHomOver t A₀.f),
+                      FactorsThrough K₀.levK R → FactorsThrough K₀.levK (mapPt (e ⟨γ, hγ⟩) (he ⟨γ, hγ⟩) R)) →
+                  ∀ (C C' : E.ExtraLevel ℓ), (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+                  (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA) → (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ'.Eb.f),
+                  (∃ R₀ : T ⟶ C'.K, R₀ ≫ C'.levK = R.1 ≫ ϱ'.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ'.φ) ≫ ϱ'.gA) →
+                    ∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of B)) (R : SchemeHomOver t E.f),
+                      FactorsThrough C.levK R ↔ FactorsThrough C'.levK R))
+
+      (hC4 : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B) (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) →
+          ∀ (E' : FakeEllipticCurve Λ N B) (ϱ' : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E') (h : (ℍ[ℚ, a₁, b₁])ˣ) (c : ℤ),
+            ModuliPackage.G.IsActBy ι Φ η Fr E₀ ((Units.map (algebraMap K₀ (Matrix (Fin 2) (Fin 2) K₀)).toMonoidHom (Units.mk0 (r : K₀) (Nat.cast_ne_zero.mpr (Fact.out : r.Prime).ne_zero))) ^ c * (g₀ * (Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) h * g₀⁻¹))
+              (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩) (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E', ϱ'⟩) →
+            ∀ (ψ'' : Onr →ₐ[𝒪] B) (P'' : (Omega K₀ π).obj B),
+              OmegaNr.IsTwistedAct π Onr Fr vdet B ((Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) h) (ψ, P) (ψ'', P'') →
+              ∃ ϱ'' : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ'') E',
+                (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ'') hB ⟨E', ϱ''⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ'') ∧ OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ'') hB ⟨E', ϱ''⟩)) (ψ'', P'') ∧
+                (∀ (ℓ : ℕ) [Fact ℓ.Prime], ℓ ≠ r → IsUnit ((ℓ : ℕ) : B) → ∀ (K₀ : A₀.ExtraLevel ℓ) (C C' : E'.ExtraLevel ℓ),
+                    (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ'.Eb.f),
+                  (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ'.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ'.φ) ≫ ϱ'.gA) → (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ''.Eb.f),
+                  (∃ R₀ : T ⟶ C'.K, R₀ ≫ C'.levK = R.1 ≫ ϱ''.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ''.φ) ≫ ϱ''.gA) →
+                      ∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of B)) (R : SchemeHomOver t E'.f),
+                        FactorsThrough C.levK R ↔ FactorsThrough C'.levK R))
+
+      (hC4pi : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π))
+          (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B) (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) →
+          ∀ (E' : FakeEllipticCurve Λ N B) (ψ₁ : Onr →ₐ[𝒪] B) (ϱ' : FakeEllipticCurve.Rigidification r π A₀ ψ₁ E') (c : ℤ)
+            (y : ModuliPackage.GPoint 𝒪 MD B),
+            ModuliPackage.G.IsPiTranslate ι Φ η Fr (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩) y →
+            ModuliPackage.G.IsActBy ι Φ η Fr E₀ ((Units.map (algebraMap K₀ (Matrix (Fin 2) (Fin 2) K₀)).toMonoidHom (Units.mk0 (r : K₀) (Nat.cast_ne_zero.mpr (Fact.out : r.Prime).ne_zero))) ^ c) y (Ξ B ψ₁ hB ⟨E', ϱ'⟩) →
+              ∃ ϱ'' : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (frobTwist Onr Fr 1 ψ)) E',
+                (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (frobTwist Onr Fr 1 ψ)) hB ⟨E', ϱ''⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (frobTwist Onr Fr 1 ψ)) ∧ OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) (frobTwist Onr Fr 1 ψ)) hB ⟨E', ϱ''⟩)) ((frobTwist Onr Fr 1 ψ), P))
+
+      (hC5 : ∀ (k : Type) [Field k] [IsAlgClosed k] [Algebra 𝒪 k] (hk : IsNilpotent (algebraMap 𝒪 k π))
+          (ψ : Onr →ₐ[𝒪] k) (P P' : (Omega K₀ π).obj k)
+          (E : FakeEllipticCurve Λ N k) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E) (E' : FakeEllipticCurve Λ N k) (ϱ' : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E'),
+          (Ξ k (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hk ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet k g₀⁻¹ (eD k hk (Ξ k (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hk ⟨E, ϱ⟩)) (ψ, P) →
+          (Ξ k (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hk ⟨E', ϱ'⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet k g₀⁻¹ (eD k hk (Ξ k (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hk ⟨E', ϱ'⟩)) (ψ, P') →
+          ∀ (i : E.A ≅ E'.A) (hi : i.hom ≫ E'.f = E.f), FakeEllipticCurve.IsoVia E E' i hi →
+            ∃ (γ : (ℍ[ℚ, a₁, b₁])ˣ) (hγ : γ ∈ Γt),
+              OmegaNr.IsTwistedAct π Onr Fr vdet k ((Units.map (ι₀ : ℍ[ℚ, a₁, b₁] →* Matrix (Fin 2) (Fin 2) K₀)) γ) (ψ, P) (ψ, P') ∧
+              (∀ (Pn : E.FullLevel n) (Pn' : E'.FullLevel n), FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ Pn → FakeEllipticCurve.Rigidification.IsNormLevelTransport Fr θ₀ κ β₀ Φ ι coord P₀ ϱ' Pn' →
+                  mapPt i.hom hi (pushPt (E.act (χ (θt ⟨γ, hγ⟩))) (E.act_over (χ (θt ⟨γ, hγ⟩))) Pn.P) = Pn'.P) ∧
+              (∀ (ℓ : ℕ) [Fact ℓ.Prime], ℓ ≠ r → IsUnit ((ℓ : ℕ) : k) → ∀ (K₀ : A₀.ExtraLevel ℓ) (C : E.ExtraLevel ℓ) (C' : E'.ExtraLevel ℓ),
+                  (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (k ⧸ Ideal.span {algebraMap 𝒪 k π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+                  (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA) → (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (k ⧸ Ideal.span {algebraMap 𝒪 k π}))) (R : SchemeHomOver t' ϱ'.Eb.f),
+                  (∃ R₀ : T ⟶ C'.K, R₀ ≫ C'.levK = R.1 ≫ ϱ'.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ'.φ) ≫ ϱ'.gA) →
+                  ((∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of k)) (R : SchemeHomOver t E.f),
+                      FactorsThrough C.levK R ↔ FactorsThrough C'.levK (mapPt i.hom hi R)) ↔
+                   (∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))) (R : SchemeHomOver t A₀.f),
+                      FactorsThrough K₀.levK R → FactorsThrough K₀.levK (mapPt (e ⟨γ, hγ⟩) (he ⟨γ, hγ⟩) R)))))
+
+    (C₀ : ∀ ℓ : HeckeTower.AwayPrime r rbar, A₀.ExtraLevel (ℓ.1 : ℕ))
+    (A₀s : HeckeTower.AwayPrime r rbar → FakeEllipticCurve Λ N (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))
+    (as : ∀ ℓ : HeckeTower.AwayPrime r rbar, A₀.A ⟶ (A₀s ℓ).A) (has : ∀ ℓ, as ℓ ≫ (A₀s ℓ).f = A₀.f)
+    (as' : ∀ ℓ : HeckeTower.AwayPrime r rbar, (A₀s ℓ).A ⟶ A₀.A) (has' : ∀ ℓ, as' ℓ ≫ A₀.f = (A₀s ℓ).f)
+    (ks : HeckeTower.AwayPrime r rbar → ℕ)
+    (bs : ∀ ℓ : HeckeTower.AwayPrime r rbar, (A₀s ℓ).A ⟶ A₀.A) (hbs : ∀ ℓ, bs ℓ ≫ A₀.f = (A₀s ℓ).f)
+    (bs' : ∀ ℓ : HeckeTower.AwayPrime r rbar, A₀.A ⟶ (A₀s ℓ).A) (habs : ∀ ℓ, (as ℓ ≫ bs ℓ) ≫ A₀.f = A₀.f)
+    (hLIs : ∀ ℓ, FakeEllipticCurve.IsLevelIsogenyVia (ℓ.1 : ℕ) ⟨A₀, C₀ ℓ⟩ (A₀s ℓ) (as ℓ) (has ℓ) (as' ℓ) (has' ℓ))
+    (hBSs : ∀ ℓ, FakeEllipticCurve.IsIsogenyPair (r ^ ks ℓ) (A₀s ℓ) A₀ (bs ℓ) (bs' ℓ))
+    (hBSslev : ∀ ℓ, FakeEllipticCurve.PreservesLevel (A₀s ℓ) A₀ (bs ℓ) (hbs ℓ))
+    (hJOINTs : ∀ ℓ : HeckeTower.AwayPrime r rbar,
+      (∀ E₀ : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd})) →+* Matrix (Fin 2) (Fin 2) K₀, Function.Injective E₀ →
+          ∃ g : Matrix.GeneralLinearGroup (Fin 2) K₀,
+            (∀ γ : ↥Γt, ∃ (ε : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (kγ : ℤ),
+            (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+                J ^ (m + 1) = ⊥ → ∀ s : Fin 2 → B', (∀ i, s i ∈ J) →
+                θ₀ B' (fun i => MvFormalGroup.nilEval m ((ε : MvFormalGroup.End X₀.F).toPowerSeries i) s) =
+                  mapPt (e γ) (he γ) (θ₀ B' s)) ∧
+            E₀ ε = ((r : K₀) ^ kγ) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ ((γ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁]) *
+              ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀))) ∧
+
+            (∃ (εs : ↥(Subring.centralizer (Set.range X₀.actEnd ∪ {X₀.varpiEnd}))) (k_s : ℤ),
+                (∀ (B' : Type) [CommRing B'] [Algebra (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}) B'] (J : Ideal B') (m : ℕ),
+                  J ^ (m + 1) = ⊥ → ∀ v : Fin 2 → B', (∀ i, v i ∈ J) →
+                  θ₀ B' (fun i => MvFormalGroup.nilEval m ((εs : MvFormalGroup.End X₀.F).toPowerSeries i) v) =
+                    mapPt (as ℓ ≫ bs ℓ) (habs ℓ) (θ₀ B' v)) ∧
+                E₀ εs = ((r : K₀) ^ k_s) • ((g : Matrix (Fin 2) (Fin 2) K₀) * ι₀ (star ((s ℓ : (ℍ[ℚ, a₁, b₁])ˣ) : ℍ[ℚ, a₁, b₁])) *
+                  ((g⁻¹ : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀)))))
+
+    (hSTAB : ∀ (ℓ : HeckeTower.AwayPrime r rbar) (γ : ↥Γt),
+      (∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of (Onr ⧸ Ideal.span {algebraMap 𝒪 Onr π}))) (P : SchemeHomOver t A₀.f),
+          FactorsThrough (C₀ ℓ).levK P → FactorsThrough (C₀ ℓ).levK (mapPt (e γ) (he γ) P)) ↔
+        (γ : (ℍ[ℚ, a₁, b₁])ˣ) ∈ Γtℓ ℓ)
+
+      (hCLe : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (ψ : Onr →ₐ[𝒪] B) (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E)
+          (ℓ : ℕ) [Fact ℓ.Prime], ℓ ≠ r → IsUnit ((ℓ : ℕ) : B) → ∀ (K₀ : A₀.ExtraLevel ℓ),
+          ∃ C : E.ExtraLevel ℓ, (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+                  (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA))
+
+      (hCLu : ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (ψ : Onr →ₐ[𝒪] B) (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E)
+          (ℓ : ℕ) [Fact ℓ.Prime], ℓ ≠ r → IsUnit ((ℓ : ℕ) : B) → ∀ (K₀ : A₀.ExtraLevel ℓ) (C C' : E.ExtraLevel ℓ),
+          (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+                  (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA) → (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+                  (∃ R₀ : T ⟶ C'.K, R₀ ≫ C'.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ K₀.K, Q₀ ≫ K₀.levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA) →
+          ∀ {T : Scheme.{0}} (t : T ⟶ Spec (CommRingCat.of B)) (R : SchemeHomOver t E.f), FactorsThrough C.levK R ↔ FactorsThrough C'.levK R)
+    :
+    ∃ Θc : ∀ ℓ : HeckeTower.AwayPrime r rbar, ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B], IsNilpotent (algebraMap 𝒪 B π) → (∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) → (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B → (Scheme.nilpPoints (g ℓ)).obj B,
+
+      (∀ (ℓ : HeckeTower.AwayPrime r rbar) (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (B' : Type) [CommRing B'] [IsNoetherianRing B'] [Algebra 𝒪 B'] (hB : IsNilpotent (algebraMap 𝒪 B π)) (hB' : IsNilpotent (algebraMap 𝒪 B' π))
+          (hc : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (hc' : ∀ e : B', IsIdempotentElem e → e = 0 ∨ e = 1)
+          (φ : B →ₐ[𝒪] B') (x : (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B), Θc ℓ B' hB' hc' ((AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).map φ x) = (Scheme.nilpPoints (g ℓ)).map φ (Θc ℓ B hB hc x)) ∧
+
+      (∀ (ℓ : HeckeTower.AwayPrime r rbar) (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B)
+          (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E) (C : E.ExtraLevel (ℓ.1 : ℕ)),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) → (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+                  (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ (C₀ ℓ).K, Q₀ ≫ (C₀ ℓ).levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA) →
+            (Θc ℓ B hB hconn (ψ, P)).1 = (ptT ℓ B (Spec.map (CommRingCat.ofHom (algebraMap 𝒪 B))) ⟨E, C⟩).1) := by
+  classical
+  have hrp : r.Prime := Fact.out
+  have hℓr : ∀ ℓ : HeckeTower.AwayPrime r rbar, ((ℓ.1 : ℕ)) ≠ r := fun ℓ => ℓ.2.1
+  have hℓu : ∀ (ℓ : HeckeTower.AwayPrime r rbar) (B : Type) [CommRing B] [Algebra 𝒪 B], IsUnit (((ℓ.1 : ℕ) : ℕ) : B) := by
+    intro ℓ B _ _
+    have hnd : ¬ r ∣ (ℓ.1 : ℕ) := fun hd => hℓr ℓ ((Nat.prime_dvd_prime_iff_eq hrp ℓ.1.2).1 hd).symm
+    have h := CerednikDrinfeld.isUnit_natCast_of_not_dvd_of_card_quotient 𝒪 π hcomplete hres hunr (ℓ.1 : ℕ) hnd
+    have := h.map (algebraMap 𝒪 B)
+    rwa [map_natCast] at this
+  choose Ec ϱc hEc using hC1e
+  choose Cc hCc using hCLe
+  let Θc : ∀ ℓ : HeckeTower.AwayPrime r rbar, ∀ (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B], IsNilpotent (algebraMap 𝒪 B π) → (∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) → (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B → (Scheme.nilpPoints (g ℓ)).obj B :=
+    fun ℓ B _ _ _ hB hconn x =>
+      haveI : Fact ((ℓ.1 : ℕ)).Prime := ⟨ℓ.1.2⟩
+      ptT ℓ B (Scheme.specOver B)
+        ⟨Ec B hB hconn x.1 x.2,
+         Cc B hB x.1 (Ec B hB hconn x.1 x.2) (ϱc B hB hconn x.1 x.2) (ℓ.1 : ℕ) (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ)⟩
+
+  have hval : ∀ (ℓ : HeckeTower.AwayPrime r rbar) (B : Type) [CommRing B] [IsNoetherianRing B] [Algebra 𝒪 B] (hB : IsNilpotent (algebraMap 𝒪 B π)) (hconn : ∀ e : B, IsIdempotentElem e → e = 0 ∨ e = 1) (ψ : Onr →ₐ[𝒪] B) (P : (Omega K₀ π).obj B)
+          (E : FakeEllipticCurve Λ N B) (ϱ : FakeEllipticCurve.Rigidification r π A₀ (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) E) (C : E.ExtraLevel (ℓ.1 : ℕ)),
+          (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩).ψ = (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) → OmegaNr.IsTwistedAct π Onr Fr vdet B g₀⁻¹ (eD B hB (Ξ B (frobTwist Onr Fr (- Multiplicative.toAdd (vdet g₀)) ψ) hB ⟨E, ϱ⟩)) (ψ, P) → (∀ {T : Scheme.{0}} (t' : T ⟶ Spec (CommRingCat.of (B ⧸ Ideal.span {algebraMap 𝒪 B π}))) (R : SchemeHomOver t' ϱ.Eb.f),
+                  (∃ R₀ : T ⟶ C.K, R₀ ≫ C.levK = R.1 ≫ ϱ.gb) → ∃ Q₀ : T ⟶ (C₀ ℓ).K, Q₀ ≫ (C₀ ℓ).levK = (R.1 ≫ ϱ.φ) ≫ ϱ.gA) →
+            (Θc ℓ B hB hconn (ψ, P)).1 = (ptT ℓ B (Spec.map (CommRingCat.ofHom (algebraMap 𝒪 B))) ⟨E, C⟩).1 := by
+    intro ℓ B _ _ _ hB hconn ψ P E' ϱ' C' hev' him' hC'
+    haveI : Fact ((ℓ.1 : ℕ)).Prime := ⟨ℓ.1.2⟩
+    have hch := hEc B hB hconn ψ P
+    have hCch := @hCc B _ _ _ hB ψ (Ec B hB hconn ψ P) (ϱc B hB hconn ψ P) (ℓ.1 : ℕ) _ (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ)
+    obtain ⟨i, hi, hiso, ib, hib1, hib2, uA, huA, huA', i₁, j₁, hcorr⟩ :=
+      hC1u B hB hconn ψ P (Ec B hB hconn ψ P) (ϱc B hB hconn ψ P) E' ϱ' hch.1 hch.2 hev' him'
+    obtain ⟨C'', hC''tr, hC''iff⟩ :=
+      TDefConn.isTr_transfer π A₀ hΛℤ (ϱc B hB hconn ψ P) ϱ' i hi hiso ib hib1 hib2 uA huA huA' i₁ j₁ hcorr
+        (ℓ.1 : ℕ) (hℓr ℓ) (C₀ ℓ) C' hC'
+    have hCC'' := @hCLu B _ _ _ hB ψ (Ec B hB hconn ψ P) (ϱc B hB hconn ψ P) (ℓ.1 : ℕ) _ (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ)
+      (Cc B hB ψ (Ec B hB hconn ψ P) (ϱc B hB hconn ψ P) (ℓ.1 : ℕ) (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ)) C'' hCch hC''tr
+    have hIso : FakeEllipticCurve.WithExtraLevel.Iso
+        (⟨Ec B hB hconn ψ P, Cc B hB ψ (Ec B hB hconn ψ P) (ϱc B hB hconn ψ P) (ℓ.1 : ℕ) (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ)⟩ :
+          FakeEllipticCurve.WithExtraLevel Λ N (ℓ.1 : ℕ) B) ⟨E', C'⟩ :=
+      ⟨i, hi, hiso.1, hiso.2.1, hiso.2.2, fun t R => (hCC'' t R).trans (hC''iff t R)⟩
+    exact congrArg Subtype.val ((h𝒴 ℓ).ptT_iso B (Scheme.specOver B) _ _ hIso)
+  refine ⟨Θc, ?_, hval⟩
+
+  intro ℓ B _ _ _ B' _ _ _ hB hB' hc hc' φ x
+  haveI : Fact ((ℓ.1 : ℕ)).Prime := ⟨ℓ.1.2⟩
+  obtain ⟨ψ, P⟩ := x
+  have hch := hEc B hB hc ψ P
+  have hCch := @hCc B _ _ _ hB ψ (Ec B hB hc ψ P) (ϱc B hB hc ψ P) (ℓ.1 : ℕ) _ (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ)
+  obtain ⟨E', g', hg', ϱ', hϱ', hev', him'⟩ := hC1p B hB B' hB' φ hc hc' ψ P (Ec B hB hc ψ P) (ϱc B hB hc ψ P) hch.1 hch.2
+  obtain ⟨C', hC'⟩ :=
+    CerednikDrinfeld.QM.FakeEllipticCurve.ExtraLevel.exists_forall_factorsThrough_iff_of_isPullbackVia (φ : B →+* B')
+      (Ec B hB hc ψ P) E' g' hg' (ℓ.1 : ℕ) (Cc B hB ψ (Ec B hB hc ψ P) (ϱc B hB hc ψ P) (ℓ.1 : ℕ) (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ))
+  have hC'tr : TDefConn.IsTr π A₀ ϱ' (C₀ ℓ) C' :=
+    TDefConn.isTr_pullback π A₀ φ g' hg' (ϱc B hB hc ψ P) ϱ' hϱ' (C₀ ℓ) _ C' (fun t' Q => hC' t' Q) hCch
+  have hv := hval ℓ B' hB' hc' (φ.comp ψ) ((Omega K₀ π).map φ P) E' ϱ' C' hev' him' hC'tr
+  have hpb : FakeEllipticCurve.WithExtraLevel.IsPullback (φ : B →+* B')
+      (⟨Ec B hB hc ψ P, Cc B hB ψ (Ec B hB hc ψ P) (ϱc B hB hc ψ P) (ℓ.1 : ℕ) (hℓr ℓ) (hℓu ℓ B) (C₀ ℓ)⟩ :
+        FakeEllipticCurve.WithExtraLevel Λ N (ℓ.1 : ℕ) B) ⟨E', C'⟩ :=
+    ⟨g', hg'.1, hg'.2.1, hg'.2.2.1, fun t' Q => ⟨hg'.2.2.2 t' Q, fun hQ => (hC' t' Q).1 hQ⟩⟩
+  have hss : Spec.map (CommRingCat.ofHom (φ : B →+* B')) ≫ Scheme.specOver (𝒪 := 𝒪) B = Scheme.specOver B' := by
+    rw [← AlgHom.toRingHom_eq_coe]; exact Scheme.specMap_algHom_comp_specOver φ
+  have hpt := (h𝒴 ℓ).ptT_pullback B B' (φ : B →+* B') (Scheme.specOver B) (Scheme.specOver B') hss _ _ hpb
+  apply Subtype.ext
+  show (Θc ℓ B' hB' hc' ((φ.comp ψ), (Omega K₀ π).map φ P)).1 = Spec.map (CommRingCat.ofHom φ.toRingHom) ≫ (Θc ℓ B hB hc (ψ, P)).1
+  rw [hv, hpt, AlgHom.toRingHom_eq_coe]
+
+end S_CerednikDrinfeld_QM_IsCoarseModuliT_exists_towerFamily_connected_of_evenRigidifiedPair_of_heckeDictionary_of_isNoetherianRing_heightNormalised_oneLegC5
+end P2MW
+export P2MW.S_CerednikDrinfeld_QM_IsCoarseModuliT_exists_towerFamily_connected_of_evenRigidifiedPair_of_heckeDictionary_of_isNoetherianRing_heightNormalised_oneLegC5 (solution)

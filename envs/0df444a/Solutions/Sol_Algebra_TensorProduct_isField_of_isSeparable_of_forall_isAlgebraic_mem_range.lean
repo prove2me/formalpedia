@@ -1,0 +1,178 @@
+-- Prove2me | solution 1 for Algebra.TensorProduct.isField_of_isSeparable_of_forall_isAlgebraic_mem_range
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:01.734404+00:00
+-- url     : https://prove2.me/submissions/7b908d9b-7af0-57f5-8d6e-723807f2469c
+
+import Mathlib
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_Algebra_TensorProduct_isField_of_isSeparable_of_forall_isAlgebraic_mem_range
+
+set_option autoImplicit false
+
+open Polynomial
+open scoped TensorProduct IntermediateField
+
+namespace RegularTensorField
+
+section Minpoly
+
+variable {k F M : Type*} [Field k] [Field F] [Field M] [Algebra k F] [Algebra F M]
+  [Algebra k M] [IsScalarTower k F M]
+
+theorem minpoly_eq_map (hconst : ∀ y : F, IsIntegral k y → y ∈ (algebraMap k F).range)
+    {β : M} (hβ : IsIntegral k β) :
+    minpoly F β = (minpoly k β).map (algebraMap k F) := by
+  have hPm : (minpoly k β).Monic := minpoly.monic hβ
+  have hQm : (minpoly F β).Monic := minpoly.monic hβ.tower_top
+  have hdvd : minpoly F β ∣ (minpoly k β).map (algebraMap k F) :=
+    minpoly.dvd_map_of_isScalarTower k F β
+  have hlift : minpoly F β ∈ lifts (algebraMap k F) := by
+    rw [lifts_iff_coeff_lifts]
+    intro n
+    have h1 := integralClosure.mem_lifts_of_monic_of_dvd_map F hPm hQm hdvd
+    rw [lifts_iff_coeff_lifts] at h1
+    obtain ⟨c, hc⟩ := h1 n
+    have hint : IsIntegral k ((minpoly F β).coeff n) := by
+      rw [← hc]
+      exact c.2
+    exact hconst _ hint
+  obtain ⟨Q₀, hQ₀, hdeg, hQ₀m⟩ := lifts_and_natDegree_eq_and_monic hlift hQm
+  have haeval : aeval β Q₀ = 0 := by
+    rw [← aeval_map_algebraMap F β Q₀, hQ₀]
+    exact minpoly.aeval F β
+  have hPQ₀ : minpoly k β ∣ Q₀ := minpoly.dvd k β haeval
+  have h1 : (minpoly k β).natDegree ≤ (minpoly F β).natDegree := by
+    rw [← hdeg]
+    exact natDegree_le_of_dvd hPQ₀ hQ₀m.ne_zero
+  have h2 : ((minpoly k β).map (algebraMap k F)).natDegree ≤ (minpoly F β).natDegree := by
+    rwa [natDegree_map]
+  exact (eq_of_monic_of_dvd_of_natDegree_le hQm (hPm.map _) hdvd h2).symm
+
+theorem natDegree_minpoly_eq (hconst : ∀ y : F, IsIntegral k y → y ∈ (algebraMap k F).range)
+    {β : M} (hβ : IsIntegral k β) :
+    (minpoly F β).natDegree = (minpoly k β).natDegree := by
+  rw [minpoly_eq_map hconst hβ, natDegree_map]
+
+end Minpoly
+
+section Overfield
+
+variable {k F K Ω : Type*} [Field k] [Field F] [Field K] [Field Ω]
+  [Algebra k F] [Algebra k K] [Algebra k Ω] (fa : F →ₐ[k] Ω) (fb : K →ₐ[k] Ω)
+
+theorem hconst_range (hconst : ∀ y : F, IsIntegral k y → y ∈ (algebraMap k F).range)
+    (y : fa.fieldRange) (hy : IsIntegral k y) : y ∈ (algebraMap k fa.fieldRange).range := by
+  obtain ⟨y, z, rfl⟩ := y
+  have hz : IsIntegral k z := by
+    have h1 : IsIntegral k (fa z) :=
+      (isIntegral_algHom_iff fa.fieldRange.val Subtype.val_injective).mpr hy
+    exact (isIntegral_algHom_iff fa fa.injective).mp h1
+  obtain ⟨c, hc⟩ := hconst z hz
+  refine ⟨c, Subtype.ext ?_⟩
+  change algebraMap k Ω c = fa z
+  rw [← hc, fa.commutes]
+
+theorem linearDisjoint_adjoin_singleton
+    (hconst : ∀ y : F, IsIntegral k y → y ∈ (algebraMap k F).range)
+    {x : Ω} (hx : IsIntegral k x) :
+    fa.fieldRange.toSubalgebra.LinearDisjoint (Algebra.adjoin k {x}) := by
+  let pb := Algebra.adjoin.powerBasis hx
+  refine Subalgebra.LinearDisjoint.of_basis_right _ _ pb.basis ?_
+
+  have hfam : ((Algebra.adjoin k {x}).val ∘ pb.basis : Fin pb.dim → Ω) =
+      fun i : Fin pb.dim => x ^ (i : ℕ) := by
+    funext i
+    simp only [Function.comp_apply, PowerBasis.coe_basis]
+    rw [map_pow]
+    congr 1
+  rw [hfam]
+
+  have hdim : pb.dim = (minpoly fa.fieldRange x).natDegree := by
+    rw [Algebra.adjoin.powerBasis_dim hx,
+      natDegree_minpoly_eq (k := k) (F := fa.fieldRange) (M := Ω) (hconst_range fa hconst) hx]
+  have hli : LinearIndependent fa.fieldRange fun i : Fin (minpoly fa.fieldRange x).natDegree =>
+      x ^ (i : ℕ) := linearIndependent_pow (K := fa.fieldRange) x
+  rw [← hdim] at hli
+  exact hli
+
+theorem exists_le_adjoin_singleton [Algebra.IsSeparable k K]
+    (B' : Subalgebra k Ω) (hB' : B' ≤ fb.range) [Module.Finite k B'] :
+    ∃ β : K, B' ≤ Algebra.adjoin k {fb β} := by
+  obtain ⟨n, s, hs⟩ := Module.Finite.exists_fin (R := k) (M := B')
+  have hpre : ∀ i, ∃ y : K, fb y = (s i : Ω) := fun i => hB' (s i).2
+  choose y hy using hpre
+  let S : Set K := Set.range y
+  let K₀ : IntermediateField k K := IntermediateField.adjoin k S
+  haveI : FiniteDimensional k K₀ :=
+    IntermediateField.finiteDimensional_adjoin fun x _ => Algebra.IsIntegral.isIntegral x
+  haveI : Algebra.IsSeparable k K₀ := Algebra.isSeparable_tower_bot_of_isSeparable k K₀ K
+  obtain ⟨α, hα⟩ := Field.exists_primitive_element k K₀
+  refine ⟨(α : K), ?_⟩
+  have hK₀ : K₀ = k⟮(α : K)⟯ := by
+    rw [← IntermediateField.lift_adjoin_simple k K₀ α, hα, IntermediateField.lift_top]
+  have hβint : IsIntegral k (α : K) := Algebra.IsIntegral.isIntegral _
+
+  have hmem : ∀ i, (s i : Ω) ∈ Algebra.adjoin k {fb (α : K)} := by
+    intro i
+    have hyi : y i ∈ K₀ := IntermediateField.subset_adjoin k S ⟨i, rfl⟩
+    rw [hK₀, ← IntermediateField.mem_toSubalgebra,
+      IntermediateField.adjoin_simple_toSubalgebra_of_isAlgebraic hβint.isAlgebraic] at hyi
+    rw [← hy i, ← Set.image_singleton, Algebra.adjoin_image]
+    exact Subalgebra.mem_map.mpr ⟨y i, hyi, rfl⟩
+  intro t ht
+  have ht' : (⟨t, ht⟩ : B') ∈ Submodule.span k (Set.range s) := by rw [hs]; exact Submodule.mem_top
+  have himg : t ∈ (Submodule.span k (Set.range s)).map B'.val.toLinearMap :=
+    ⟨⟨t, ht⟩, ht', rfl⟩
+  rw [Submodule.map_span] at himg
+  refine (Submodule.span_le.mpr ?_ : Submodule.span k _ ≤
+    Subalgebra.toSubmodule (Algebra.adjoin k {fb (α : K)})) himg
+  rintro _ ⟨_, ⟨i, rfl⟩, rfl⟩
+  exact hmem i
+
+theorem linearDisjoint_range [Algebra.IsSeparable k K]
+    (hconst : ∀ y : F, IsIntegral k y → y ∈ (algebraMap k F).range) :
+    fa.fieldRange.toSubalgebra.LinearDisjoint fb.range := by
+  haveI : Algebra.IsIntegral k fb.range := by
+    refine ⟨fun x => ?_⟩
+    obtain ⟨_, y, rfl⟩ := x
+    exact (isIntegral_algHom_iff fb.range.val Subtype.val_injective).mp
+      ((Algebra.IsIntegral.isIntegral (R := k) y).map fb)
+  refine Subalgebra.LinearDisjoint.of_linearDisjoint_finite_right _ _ fun B' hB' _ => ?_
+  obtain ⟨β, hβ⟩ := exists_le_adjoin_singleton fb B' hB'
+  exact (linearDisjoint_adjoin_singleton fa hconst
+    ((Algebra.IsIntegral.isIntegral (R := k) β).map fb)).of_le_right_of_flat hβ
+
+end Overfield
+
+end RegularTensorField
+
+open RegularTensorField in
+theorem solution
+    (k F K : Type*) [Field k] [Field F] [Field K] [Algebra k F] [Algebra k K]
+    [Algebra.IsSeparable k K]
+    (hconst : ∀ y : F, IsAlgebraic k y → y ∈ (algebraMap k F).range) :
+    IsField (F ⊗[k] K) := by
+  have hconst' : ∀ y : F, IsIntegral k y → y ∈ (algebraMap k F).range :=
+    fun y hy => hconst y hy.isAlgebraic
+  apply IntermediateField.LinearDisjoint.isField_of_forall
+  intro Ω _ _ fa fb
+  rw [IntermediateField.linearDisjoint_iff]
+  have hr : (IsScalarTower.toAlgHom k (↥fb.fieldRange) Ω).range = fb.range := by
+    ext x
+    constructor
+    · rintro ⟨⟨_, z, rfl⟩, rfl⟩
+      exact ⟨z, rfl⟩
+    · rintro ⟨z, rfl⟩
+      exact ⟨⟨fb z, z, rfl⟩, rfl⟩
+  rw [hr]
+  exact linearDisjoint_range fa fb hconst'
+
+end S_Algebra_TensorProduct_isField_of_isSeparable_of_forall_isAlgebraic_mem_range
+end P2MW
+export P2MW.S_Algebra_TensorProduct_isField_of_isSeparable_of_forall_isAlgebraic_mem_range (solution)

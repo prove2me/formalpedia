@@ -1,0 +1,60 @@
+-- Prove2me | Definitions.Def_Garrido_Foelner
+-- name    : Garrido_Foelner
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-09-23T19:06:35.126279+00:00
+-- url     : https://prove2.me/theorems/11052593-b704-4eb8-8a31-0a763ed8edbd
+-- title:
+--   The Følner condition and Følner sequences
+-- statement:
+--   Two notions for a discrete group $G$.
+--
+--   **SatisfiesFoelnerCondition $G$.** For every finite $A \subseteq G$ and every real
+--   $\varepsilon > 0$ there is a finite nonempty $F \subseteq G$ with
+--
+--   $$\frac{|aF \,\triangle\, F|}{|F|} \le \varepsilon \quad \text{for every } a \in A,$$
+--
+--   where $\triangle$ is symmetric difference. Note the inequality is non-strict, matching the
+--   source, and that $A$ is permitted to be empty, in which case the condition on $F$ is vacuous
+--   and any finite nonempty $F$ serves.
+--
+--   **HasFoelnerSequence $G$.** There is a sequence $F : \mathbb{N} \to \mathcal{P}(G)$ with every
+--   $F_n$ finite and nonempty, such that for every $g \in G$
+--
+--   $$\frac{|gF_n \,\triangle\, F_n|}{|F_n|} \longrightarrow 0 \quad (n \to \infty).$$
+--
+--   Note what the second definition does **not** require, following the source exactly: the $F_n$
+--   need not be nested, their sizes need not tend to infinity, and they need not exhaust $G$. Some
+--   texts build one or more of these into "Følner sequence"; Definition 3.3 asks only for finite,
+--   nonempty sets whose translation ratios vanish. The sequence is also chosen before $g$, so only
+--   the rate of convergence may depend on $g$.
+--
+--   In both definitions $aF$ and $gF_n$ are the **left** translates $\{ax : x \in F\}$, matching the
+--   source. Cardinalities are `Set.ncard`, so no `DecidableEq` instance enters; on a finite set this
+--   is the ordinary cardinality, and it is $0$ on an infinite one, which the finiteness hypotheses
+--   exclude. The quotient is real division and $|F| \ge 1$, so no division-by-zero junk value
+--   arises. This is the discrete, countably-indexed form; the source also defines Følner nets for
+--   uncountable groups, which are not formalised here.
+-- source:
+--   A. Garrido, "An introduction to amenable groups", lecture notes, Oxford Advanced Class in Algebra, Michaelmas 2013 (PDF, Feb 2015), p. 8, Definitions 3.1 and 3.3. The source's locally compact clause of Definition 3.1 reads "A is a compact subgroup", where a compact subset is meant; only the discrete case is formalised here; https://web.archive.org/web/20260805000803/https://www.math.uni-duesseldorf.de/~garrido/amenable.pdf
+
+import Mathlib
+
+namespace Garrido
+
+open scoped Pointwise symmDiff
+
+def SatisfiesFoelnerCondition (G : Type*) [Group G] : Prop :=
+  ∀ A : Set G, A.Finite → ∀ ε : ℝ, 0 < ε →
+    ∃ F : Set G, F.Finite ∧ F.Nonempty ∧
+      ∀ a ∈ A, (((a • F) ∆ F).ncard : ℝ) / (F.ncard : ℝ) ≤ ε
+
+def HasFoelnerSequence (G : Type*) [Group G] : Prop :=
+  ∃ F : ℕ → Set G, (∀ n, (F n).Finite ∧ (F n).Nonempty) ∧
+    ∀ g : G, Filter.Tendsto
+      (fun n => (((g • F n) ∆ F n).ncard : ℝ) / ((F n).ncard : ℝ))
+      Filter.atTop (nhds 0)
+
+end Garrido
+
+

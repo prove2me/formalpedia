@@ -1,0 +1,84 @@
+-- Prove2me | Theorems.Thm_CompressionOWF_decisionToFinder_correct
+-- name    : CompressionOWF.decisionToFinder_correct
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-13T04:39:31.1849+00:00
+-- url     : https://prove2.me/theorems/4b522dec-c23f-4383-b8fa-32f0d494f693
+-- title:
+--   Search-to-decision for compression.
+-- statement:
+--   **Search-to-decision for compression.**  A correct decision oracle for the
+--   conditional predicate "some length-`n` continuation of `w` is a `D`-program for
+--   `y`" yields a *shortest*-program finder for `D`, provided the fuel covers the
+--   complexity.
+--
+--   ```lean
+--   theorem CompressionOWF.decisionToFinder_correct(D : Str → Str) (dec : Str → Str → ℕ → Bool)
+--       (fuel : ℕ → ℕ)
+--       (hdec : ∀ y w n, dec y w n = true ↔ ∃ p : Str, p.length = n ∧ D (w ++ p) = y)
+--       (y : Str) (hy : Describable D y) (hfuel : K D y ≤ fuel y.length) :
+--       D (decisionToFinder dec fuel y) = y ∧
+--         (decisionToFinder dec fuel y).length = K D y := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Speculative/AutoResearch/CompressionSearchToDecision.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Speculative/AutoResearch/CompressionSearchToDecision.lean#L110
+
+-- Thm stub generated from Speculative/AutoResearch/CompressionSearchToDecision.lean
+import Mathlib
+import Definitions.Def_Speculative_AutoResearch_CompressionOneWayFunctions
+import Definitions.Def_Speculative_AutoResearch_CompressionSearchToDecision
+import Definitions.Def_Speculative_AutoResearch_CompressionUniversality
+/-
+Copyright (c) 2025. All rights reserved.
+
+# Search-to-Decision for Compression, and its Cryptographic Payoff
+
+## Overview
+
+Third cycle of the Phase-B/M8 investigation (`Shared.CompressionOneWayFunctions`,
+`Shared.CompressionUniversality`).
+
+The previous cycles compared two *search* tasks — inverting a function and
+finding shortest programs — and proved them equivalent.  The literature on
+polynomial-time Kolmogorov complexity phrases hardness assumptions instead in
+terms of the *decision* problem "is `K(y) ≤ n`?" (MINKT), so a complete
+characterization must bridge search and decision.  That bridge is the classical
+bit-by-bit prefix reconstruction, which we formalize here:
+
+* `rebuild` — reconstruct a program one bit at a time from a *decision* oracle
+  for the conditional predicate "some length-`n` continuation of the prefix `w`
+  is a program for `y`";
+* `rebuild_correct` — the reconstruction returns a genuine program of exactly the
+  promised length (proved by induction on the number of remaining bits);
+* `decisionToFinder_correct` — combining the reconstruction with the bounded
+  search of `leastFrom` turns the decision oracle into a *shortest*-program
+  finder;
+* `decision_solves_inversion` — hence into an inverter;
+* `owf_no_prefix_decider` — **cryptographic payoff**: if `f` is one-way for a
+  class, then no algorithm of the class can decide the prefix-compressibility
+  predicate of `f`.  The decision version of compression is hard exactly when
+  one-way functions exist.
+
+Together with cycle 1 (search version) and cycle 2 (approximate version), this
+gives the promised map: *validity, exact-shortest, approximate-shortest and
+prefix-decision compression tasks all sit at the same cryptographic level.*
+
+No axioms beyond the standard three, no `sorry`.
+-/
+
+open CompressionOWF
+
+/-! ## Section 1: Bit-by-bit reconstruction from a decision oracle -/
+
+
+
+/-! ## Section 2: From the decision oracle to a shortest-program finder -/
+
+theorem CompressionOWF.decisionToFinder_correct(D : Str → Str) (dec : Str → Str → ℕ → Bool)
+    (fuel : ℕ → ℕ)
+    (hdec : ∀ y w n, dec y w n = true ↔ ∃ p : Str, p.length = n ∧ D (w ++ p) = y)
+    (y : Str) (hy : Describable D y) (hfuel : K D y ≤ fuel y.length) :
+    D (decisionToFinder dec fuel y) = y ∧
+      (decisionToFinder dec fuel y).length = K D y := by sorry

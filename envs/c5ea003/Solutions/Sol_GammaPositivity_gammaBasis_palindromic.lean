@@ -1,0 +1,87 @@
+-- Prove2me | solution 1 for GammaPositivity.gammaBasis_palindromic
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-11T04:18:20.432988+00:00
+-- url     : https://prove2.me/submissions/edb3fbfc-6f7f-46cd-a3eb-c331d098f038
+
+-- Sol generated from Probability/GammaPositivity.lean
+import Mathlib
+import Definitions.Def_Probability_GammaPositivity
+import Theorems.Thm_GammaPositivity_gammaBasis_coeff
+
+/-!
+# γ-positivity of symmetric (palindromic) polynomials
+
+This file develops the elementary theory of **γ-positivity** for real polynomials,
+the exact algebraic property appearing in the study of Ehrhart `h*`-polynomials of
+symmetric edge polytopes.
+
+For a degree parameter `n`, the *γ-basis* of the space of polynomials that are
+symmetric about `n/2` is
+`{ t^i (1+t)^(n-2i) : 0 ≤ i ≤ ⌊n/2⌋ }`.
+A polynomial `p` is **γ-positive of order `n`** if it is a nonnegative real
+combination of these basis elements.
+
+The main results here:
+
+* `gammaBasis_coeff` — closed form for the coefficients of a basis element in terms
+  of binomial coefficients;
+* `gammaBasis_palindromic` — each basis element is palindromic about `n/2`;
+* `IsGammaPositive.palindromic` — **γ-positivity implies palindromicity** (symmetry
+  of the coefficient sequence), the structural constraint underlying every
+  `h*`-polynomial of a symmetric edge polytope;
+* `IsGammaPositive.coeff_nonneg` — γ-positive polynomials have nonnegative
+  coefficients.
+
+## Reference frame
+
+The catalog entries `ohsugi-tsuchiya-conj`, `higashitani-jochemko-michalek`, `gal`
+and `branden-gamma` concern precisely the γ-positivity of these Ehrhart
+`h*`-polynomials; the phenomenon that palindromicity is *necessary but not
+sufficient* for γ-positivity is what makes the "minimal dimension 36" question
+nontrivial (see `GammaPositivityCounterexample.lean`).
+
+-- !-- Lab Notes -- !--
+Hypothesis (Hypothesizer): γ-positivity is a strict strengthening of palindromicity;
+every γ-positive polynomial is palindromic and has nonnegative, unimodal coefficients,
+but the converse fails already in very small degree.
+Experiment (Experimenter): computed the coefficient vectors of `t^i(1+t)^(n-2i)` for
+small `n`; each is a shifted binomial row, symmetric about `n/2`.
+Analysis (Analyst): the symmetry `C(n-2i,k-i)=C(n-2i,(n-2i)-(k-i))` is the engine;
+nonnegativity is immediate; unimodality needs the same-center superposition argument.
+Critique (Critic): must guard `k ≤ n` for palindromicity, else Nat subtraction
+`n - k` collapses to `0` and the identity is false.
+Synthesis: the coefficient formula `gammaBasis_coeff` reduces both structural
+theorems to binomial identities.
+-/
+
+open GammaPositivity
+
+open Polynomial BigOperators
+
+
+
+
+
+
+
+
+
+
+
+open GammaPositivity in
+theorem solution(n i k : ℕ) (h2 : 2 * i ≤ n) (hk : k ≤ n) :
+    (gammaBasis n i).coeff k = (gammaBasis n i).coeff (n - k) := by
+  rw [gammaBasis_coeff, gammaBasis_coeff]
+  by_cases hik : i ≤ k
+  · by_cases hik2 : i ≤ n - k
+    · simp only [hik, hik2, if_true]
+      have hkm : k - i ≤ n - 2 * i := by omega
+      have hrw : n - k - i = (n - 2 * i) - (k - i) := by omega
+      rw [hrw, Nat.choose_symm hkm]
+    · simp only [hik, hik2, if_true, if_false]
+      rw [Nat.choose_eq_zero_of_lt (by omega)]; simp
+  · by_cases hik2 : i ≤ n - k
+    · simp only [hik, hik2, if_false, if_true]
+      rw [Nat.choose_eq_zero_of_lt (by omega)]; simp
+    · simp only [hik, hik2, if_false]

@@ -1,0 +1,72 @@
+-- Prove2me | Theorems.Thm_SpikeOrigin_card_lowBand_ge
+-- name    : SpikeOrigin.card_lowBand_ge
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-12T03:01:07.996605+00:00
+-- url     : https://prove2.me/theorems/a95ab201-79e0-4c76-9802-7525c7523048
+-- title:
+--   Quantitative degeneracy.
+-- statement:
+--   **Quantitative degeneracy.**  For a `96`-bit modulus the excluded low band
+--   `{j ∈ (s, 3s] : v(j) < 2⁹⁵}` is a left-edge interval of width at least `0.22 · s`, whereas
+--   the first decile has width at most `0.2 s + 1`.  So the exclusion clause wipes out the whole
+--   first decile and at least a further `0.02 · s` positions: it is a geometric operation, not a
+--   data-driven one.
+--
+--   ```lean
+--   theorem SpikeOrigin.card_lowBand_ge(hlo : 2 ^ 95 ≤ N) (hhi : N < 2 ^ 96) :
+--       11 * Nat.sqrt N ≤
+--         50 * (((Finset.Ioc (Nat.sqrt N) (3 * Nat.sqrt N)).filter
+--           (fun j => resid N j < 2 ^ 95)).card) := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Cryptography/SpikeOriginCounting.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Cryptography/SpikeOriginCounting.lean#L106
+
+-- Thm stub generated from Cryptography/SpikeOriginCounting.lean
+import Mathlib
+import Definitions.Def_Cryptography_SpikeOriginDegeneracy
+/-
+# Exact counting of the tiny-residue channel in a Fermat window
+
+Companion to `Cryptography.SpikeOriginDegeneracy` and `Cryptography.SpikeOriginBands`.
+
+The residue `v(j) = j² − N` is strictly increasing along the window `j ∈ (s, 3s]`,
+`s = ⌊√N⌋`.  Consequently *every* bit-length band is an interval of positions, and the
+"exclude `v < T`" clause is, for a **fixed** modulus, literally a positional cut at
+`j ≤ ⌊√(N + T − 1)⌋`.  We compute the excluded population exactly
+(`card_lowBand`) and show for `96`-bit moduli that the excluded left-edge interval has
+width at least `0.22 · s`, i.e. it strictly contains the whole first decile (width `0.2 s`)
+with a margin of at least `0.02 · s` positions.
+
+Combined with `SpikeOriginBands.midRegime_not_universal` — where the cut position moves with
+`N` — this is the precise form of "the spike is not one object": *within* a modulus the
+`bitlen v` band and the position are the same stratification, *across* moduli they are not.
+
+The tiny channel reaches all the way down to `v ≤ 2√N + 1` (`resid_left_end_le`), i.e.
+about half the bit-length of `N`, which is the arithmetic mechanism behind the inclusion
+artifact.
+-/
+
+open SpikeOrigin
+
+/-! ## Monotonicity: bands are positional intervals -/
+
+
+
+
+
+
+/-! ## How small the tiny channel gets -/
+
+
+/-! ## The excluded interval strictly contains the first decile (96-bit case) -/
+
+
+variable {N : ℕ}
+
+theorem SpikeOrigin.card_lowBand_ge(hlo : 2 ^ 95 ≤ N) (hhi : N < 2 ^ 96) :
+    11 * Nat.sqrt N ≤
+      50 * (((Finset.Ioc (Nat.sqrt N) (3 * Nat.sqrt N)).filter
+        (fun j => resid N j < 2 ^ 95)).card) := by sorry

@@ -1,0 +1,393 @@
+-- Prove2me | solution 1 for GeneralCK.Certificates.E8TAxisFirstCellGraphWholeB.qJetBox_contains
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-09-24T23:54:03.928038+00:00
+-- url     : https://prove2.me/submissions/2dc5d675-3e77-4409-989c-a0d1bddc3b93
+
+import Definitions.Def_GeneralCK_E8_canonical_inverse_jet
+import Definitions.Def_GeneralCK_E8_first_cell_inputs
+import Definitions.Def_GeneralCK_E8_first_cell_jet_graphs
+import Definitions.Def_GeneralCK_E8_interval_checkers
+import Definitions.Def_GeneralCK_E8_semantic_core
+import Mathlib.Analysis.Analytic.Order
+import Mathlib.Analysis.Calculus.ContDiff.Deriv
+import Mathlib.Analysis.Calculus.Deriv.Inv
+import Mathlib.Analysis.Calculus.Deriv.Inverse
+import Mathlib.Analysis.Calculus.Deriv.MeanValue
+import Mathlib.Analysis.Calculus.Deriv.Pow
+import Mathlib.Analysis.Calculus.Deriv.Slope
+import Mathlib.Analysis.Calculus.InverseFunctionTheorem.Analytic
+import Mathlib.Analysis.Calculus.MeanValue
+import Mathlib.Analysis.Complex.ExponentialBounds
+import Mathlib.Analysis.Complex.Norm
+import Mathlib.Analysis.Convex.Deriv
+import Mathlib.Analysis.Convex.Jensen
+import Mathlib.Analysis.SpecialFunctions.BinaryEntropy
+import Mathlib.Analysis.SpecialFunctions.Complex.Analytic
+import Mathlib.Analysis.SpecialFunctions.Complex.LogBounds
+import Mathlib.Analysis.SpecialFunctions.ExpDeriv
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Log.Deriv
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Int.DivMod
+import Mathlib.Data.Real.Basic
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Mathlib.Topology.MetricSpace.Contracting
+import Mathlib.Topology.MetricSpace.Lipschitz
+import Mathlib.Topology.Order.MonotoneContinuity
+import Theorems.Thm_GeneralCK_Certificates_E8TAxisStableInterval_checked_stable_contains_canonical
+
+section
+namespace GeneralCK.Certificates.E8TAxisOneCellStableWitnesses
+
+open DyadicInterval E8TAxisStableInterval
+
+set_option maxRecDepth 100000
+
+
+
+def logTwoWitness : FastLogBoxWitness := ⟨0, 128, 0, 128⟩
+
+theorem logTwo_checked :
+    logBoxCheck (ofInt precision 2) logTwo logTwoWitness = true := by decide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def wholeBExpWitness : ExpWitness precision :=
+  ⟨1377853800896563995864571507763643414276346917837, scale precision, 1389854329341637920452395630847774506522186392372, scale precision,
+    0, 128, 0, 128, ⟨-86137039450532460968088907419430722957626977305, -86137039450532460968088907419430722957624880152⟩, ⟨-73463086087256135796311921913602629993563805716, -73463086087256135796311921913602629993561708563⟩⟩
+def wholeBLogWitness : FastLogBoxWitness := ⟨0, 128, 0, 128⟩
+
+
+
+
+
+
+
+end GeneralCK.Certificates.E8TAxisOneCellStableWitnesses
+end
+
+section
+namespace GeneralCK.Certificates.E8TAxisFirstCellPaddedInputs
+open DyadicInterval E8TAxisStableInterval
+
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem wholeB_primitive_checks :
+    expBoxCheck ((ofInt precision (-2)).mul wholeBInput.alpha)
+      wholeBInput.expNegTwo E8TAxisOneCellStableWitnesses.wholeBExpWitness = true ∧
+    logBoxCheck ((ofInt precision 1).add wholeBInput.expNegTwo)
+      wholeBInput.logOnePlusExp E8TAxisOneCellStableWitnesses.wholeBLogWitness = true := by decide
+
+
+
+
+
+
+
+
+
+
+
+
+
+end GeneralCK.Certificates.E8TAxisFirstCellPaddedInputs
+end
+
+section
+namespace GeneralCK.Certificates.E8TAxisFirstCellGraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisFirstCellPaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+
+
+
+
+end GeneralCK.Certificates.E8TAxisFirstCellGraphWholeB
+end
+
+open GeneralCK GeneralCK.Certificates GeneralCK.Certificates.E8TAxisFirstCellGraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisFirstCellPaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+theorem solution {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisOneCellStableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos

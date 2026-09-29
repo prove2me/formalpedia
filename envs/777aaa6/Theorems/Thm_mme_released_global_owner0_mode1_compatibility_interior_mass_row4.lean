@@ -1,0 +1,24 @@
+-- Prove2me | Theorems.Thm_mme_released_global_owner0_mode1_compatibility_interior_mass_row4
+-- name    : mme_released_global_owner0_mode1_compatibility_interior_mass_row4
+-- status  : Proved
+-- author  : @Robertboy18
+-- created : 2026-09-24T00:20:39.504787+00:00
+-- url     : https://prove2.me/theorems/578a8a2d-c830-4ce4-8db7-e462ffa82c79
+-- title:
+--   owner0 mode1 compatibility interior mass row4
+-- statement:
+--   Fix owner 0, mode 1, and coordinate pool 4. Let $N_{4,w}$ be the stated table entry, $D=10^{12}$, $\alpha_s$ the outer cell weight, and $c_{s,a}$ the integer atom multiplicity. For every four-letter word $w$,
+--
+--   $$\frac{N_{4,w}}{D^5}=\sum_{s:\,\operatorname{shape}(s)_{1}=4,\ \operatorname{shape}(s)_{2}\ne0}\frac{\alpha_s}{D^5}\sum_{a:\,a_{1}=w}c_{s,a}.$$
+--
+--   This identifies the rational table with the actual released masses used by the compatibility entropy certificate.
+-- source:
+--   Exact released rational CW profile and joint atom counts.
+
+import Definitions.Def_mme_released_global_profile_data
+open scoped BigOperators
+open MME MME.ReleasedGlobal MME.MoreAsymmetryExactSeed
+
+theorem mme_released_global_owner0_mode1_compatibility_interior_mass_row4 : ∀ w : Word,
+    ((([0, 0, 0, 0, 0, 0, 0, 0, 74001240180223563742078936355179000000000000000000000000, 0, 0, 0, 0, 0, 3548639503016082714645413808762346000000000000000000000000, 0, 3548639503291849281589413808762346000000000000000000000000, 0, 0, 0, 75024496359366378041698773622099652138814519632247077268, 0, 3698096778838554212574037374002077840327276791735505845464, 0, 75024496309227002233698773622099652138814519632247077268, 0, 0, 0, 0, 0, 0, 0, 3548639503066222090453413808762346000000000000000000000000, 0, 3548639503091291778357413808762346000000000000000000000000, 0, 0, 0, 3698096653453838690730541344719752832959566152735505845464, 0, 134160635954515946085669612484563479044871056032528988309072, 0, 3698096653428769002826541344719752832959566152735505845464, 0, 0, 0, 3548639102104343786236234324509892750000000000000000000000, 0, 3548639101653089403964234324509892750000000000000000000000, 0, 0, 0, 0, 0, 0, 0, 75024496359366378041698773622099652138814519632247077268, 0, 3698096785356673067614037374002077840327276791735505845464, 0, 75024496359366378041698773622099652138814519632247077268, 0, 0, 0, 3548639101778437843484234324509892750000000000000000000000, 0, 3548639102079274098332234324509892750000000000000000000000, 0, 0, 0, 0, 0, 74000030758078243421763514060327000000000000000000000000, 0, 0, 0, 0, 0, 0, 0, 0] : List ℕ).getD (27 * (w 0).val + 9 * (w 1).val + 3 * (w 2).val + (w 3).val) 0 : ℕ) : ℚ) / 1000000000000000000000000000000000000000000000000000000000000 =
+    ∑ s : Fin 45, if ¬ ((shape s).val 2).val = 0 ∧ (shape s).val 1 = 4 then ((alpha 0 s * ((jointRows 0 s).map (fun a => if atom a.1 1 = w then a.2 else 0)).sum : ℕ) : ℚ) / (denominator : ℚ) ^ 5 else 0 := by sorry

@@ -1,0 +1,161 @@
+-- Prove2me | solution 1 for AdjSum.card_pathSet
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-11T02:16:12.134912+00:00
+-- url     : https://prove2.me/submissions/d37dd2d4-f318-48ac-a1f6-08a62238340e
+
+-- Sol generated from Applications/AdjacentSumPolytopes/Basic.lean
+import Mathlib
+import Definitions.Def_Applications_AdjacentSumPolytopes_Basic
+
+/-!
+# Adjacent-sum lattice sets and their transfer matrices
+
+Fix a *slack* parameter `s : ℕ`.  The **open adjacent-sum set** in dimension `d + 1`
+is the set of lattice points
+
+`Δ(s, d) = { x ∈ ℤ^{d+1} : 0 ≤ xᵢ,  xᵢ + xᵢ₊₁ ≤ s  (0 ≤ i < d) }`
+
+and the **cyclic adjacent-sum set** is the analogous set where the index `i + 1` is
+taken modulo the length, so that the constraint graph is a cycle rather than a path.
+Both are the sets of lattice points of a lattice polytope (the `d`-fold "adjacent-sum"
+polytope), which is why their counting functions are Ehrhart-type quantities.
+
+Because `0 ≤ xᵢ` and `xᵢ + xᵢ₊₁ ≤ s` force `xᵢ ≤ s`, every coordinate lives in the
+`(s+1)`-element state space `Fin (s+1)`; the model with `s + 1` slack has the
+`(s + 2)`-state transfer matrix `adjMat (s+1)`.
+
+The **transfer matrix** is the `(s+1) × (s+1)` `0/1` matrix
+
+`adjMat s a b = 1 ↔ a + b ≤ s`.
+
+## Main results
+
+* `AdjSum.card_pathSet` : the number of open adjacent-sum points of length `d + 1`
+  with prescribed first coordinate `a` and last coordinate `b` is the matrix entry
+  `(adjMat s ^ d) a b`.
+* `AdjSum.card_openSet` : the total number of open points of length `d+1` is the
+  sum of all entries of `adjMat s ^ d`.
+* `AdjSum.card_cycSet` : the number of cyclic points of length `d + 1` is
+  `trace (adjMat s ^ (d+1))`.
+* `AdjSum.adjMat_isSymm`, `AdjSum.card_openSet_symm_swap` : structural symmetries.
+
+-- !-- Lab Notes -- !--
+* **Hypothesis.** The naive "walks in a digraph" heuristic should hold verbatim
+  for these lattice sets: open points ↔ matrix products, cyclic points ↔ traces.
+* **Experiment.** `#eval`-ing `trace (adjMat 1 ^ n)` gives `1, 3, 4, 7, 11, 18, 29, 47`
+  (Lucas numbers) and `∑ₐ∑_b (adjMat 1 ^ n) a b` gives `2, 3, 5, 8, 13, 21, 34`
+  (Fibonacci), matching a direct enumeration of `0/1` vectors with no two adjacent
+  ones — the classical sanity check.  For `s = 2`: cyclic `2, 6, 11, 26, 57, 129`,
+  open `3, 6, 14, 31, 70, 157`.
+* **Analysis.** The proofs are genuine `Fin.snoc`/`Fin.init` bijections; the cyclic
+  case additionally needs the wrap-around index lemma `castSucc_add_one` and
+  `Fin.last_add_one`.
+* **Critique.** No statement here is definitional: both sides are computed by
+  different mechanisms (cardinality of a filtered `Finset` vs. matrix powers), and
+  the induction step is a fiberwise decomposition, not `rfl`.
+-/
+
+open AdjSum
+
+open Finset Matrix
+
+
+
+
+
+
+
+
+lemma mem_pathSet {s d : ℕ} {a b : Fin (s + 1)} {x : Fin (d + 1) → Fin (s + 1)} :
+    x ∈ pathSet s d a b ↔
+      (∀ i : Fin d, ((x i.castSucc : Fin (s + 1)) : ℕ) + ((x i.succ : Fin (s + 1)) : ℕ) ≤ s) ∧
+        x 0 = a ∧ x (Fin.last d) = b := by
+  simp [pathSet, openSet]
+
+
+/-! ### Index bookkeeping for the cyclic wrap-around -/
+
+
+
+
+
+
+/-! ### The transfer-matrix bijections -/
+
+
+
+
+
+
+open AdjSum in
+theorem solution(s d : ℕ) (a b : Fin (s + 1)) :
+    (pathSet s d a b).card = (adjMat s ^ d) a b := by
+  induction d generalizing b with
+  | zero =>
+      rw [pow_zero, Matrix.one_apply]
+      by_cases hab : a = b
+      · subst hab
+        rw [if_pos rfl, Finset.card_eq_one]
+        refine ⟨fun _ => a, ?_⟩
+        ext x
+        simp only [mem_pathSet, Finset.mem_singleton, IsEmpty.forall_iff, true_and, Fin.last_zero]
+        constructor
+        · rintro ⟨h1, -⟩
+          funext i
+          have hi : i = 0 := Fin.ext (by omega)
+          rw [hi]; exact h1
+        · rintro rfl; exact ⟨rfl, rfl⟩
+      · rw [if_neg hab, Finset.card_eq_zero, Finset.eq_empty_iff_forall_notMem]
+        intro x hx
+        rw [mem_pathSet, Fin.last_zero] at hx
+        exact hab (hx.2.1.symm.trans hx.2.2)
+  | succ d ih =>
+      rw [pow_succ, Matrix.mul_apply]
+      rw [Finset.card_eq_sum_card_fiberwise (f := fun x => x (Fin.last d).castSucc)
+          (t := Finset.univ) (fun x _ => Finset.mem_univ _)]
+      refine Finset.sum_congr rfl (fun c _ => ?_)
+      by_cases hcb : (c : ℕ) + (b : ℕ) ≤ s
+      · rw [adjMat, if_pos hcb, mul_one, ← ih c]
+        refine Finset.card_nbij' (fun x => Fin.init x) (fun y => Fin.snoc y b) ?_ ?_ ?_ ?_
+        · intro x hx
+          simp only [Finset.coe_filter, Set.mem_setOf_eq] at hx
+          obtain ⟨hx1, hx2⟩ := hx
+          rw [mem_pathSet] at hx1
+          simp only [Finset.mem_coe, mem_pathSet]
+          refine ⟨fun i => ?_, ?_, ?_⟩
+          · have := hx1.1 i.castSucc
+            rw [Fin.succ_castSucc] at this
+            simpa [Fin.init] using this
+          · simpa [Fin.init, Fin.castSucc_zero] using hx1.2.1
+          · simpa [Fin.init] using hx2
+        · intro y hy
+          simp only [Finset.mem_coe, mem_pathSet] at hy
+          simp only [Finset.coe_filter, Set.mem_setOf_eq, mem_pathSet]
+          refine ⟨⟨fun i => ?_, ?_, ?_⟩, ?_⟩
+          · refine Fin.lastCases ?_ ?_ i
+            · rw [Fin.succ_last]
+              simp only [Fin.snoc_castSucc, Fin.snoc_last]
+              rw [hy.2.2]; exact hcb
+            · intro j
+              rw [Fin.succ_castSucc]
+              simp only [Fin.snoc_castSucc]
+              exact hy.1 j
+          · rw [← Fin.castSucc_zero, Fin.snoc_castSucc]; exact hy.2.1
+          · exact Fin.snoc_last _ _
+          · rw [Fin.snoc_castSucc]; exact hy.2.2
+        · intro x hx
+          simp only [Finset.coe_filter, Set.mem_setOf_eq] at hx
+          obtain ⟨hx1, -⟩ := hx
+          rw [mem_pathSet] at hx1
+          rw [← hx1.2.2]
+          exact Fin.snoc_init_self x
+        · intro y _
+          exact Fin.init_snoc _ _
+      · rw [adjMat, if_neg hcb, mul_zero, Finset.card_eq_zero, Finset.eq_empty_iff_forall_notMem]
+        intro x hx
+        simp only [Finset.mem_filter, mem_pathSet] at hx
+        obtain ⟨⟨h1, -, h3⟩, h2⟩ := hx
+        have := h1 (Fin.last d)
+        rw [Fin.succ_last, h3, h2] at this
+        exact hcb this

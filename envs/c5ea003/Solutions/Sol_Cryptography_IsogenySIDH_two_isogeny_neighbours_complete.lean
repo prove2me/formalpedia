@@ -1,0 +1,120 @@
+-- Prove2me | solution 1 for Cryptography.IsogenySIDH.two_isogeny_neighbours_complete
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-12T04:56:07.27778+00:00
+-- url     : https://prove2.me/submissions/ea3b48c8-7e07-4697-9614-7f86333f1a45
+
+-- Sol generated from Cryptography/IsogenySIDH/TwoIsogenyNeighbours.lean
+import Mathlib
+import Definitions.Def_Cryptography_IsogenySIDH_ModularTwoIsogeny
+import Definitions.Def_Cryptography_IsogenySIDH_RadicalNonBacktracking
+import Definitions.Def_Cryptography_IsogenySIDH_TwoIsogenyNeighbours
+import Theorems.Thm_Cryptography_IsogenySIDH_modPoly2_jMont_jOther
+import Theorems.Thm_Cryptography_IsogenySIDH_modPoly2_jMont_jQuot
+import Theorems.Thm_Cryptography_IsogenySIDH_two_isogeny_neighbours_card_le_three
+/-
+# The three 2-isogenous neighbours of a Montgomery curve, explicitly
+
+`ModularTwoIsogeny` computed the neighbour reached by the *radical* step — the
+quotient of `E_A : y² = x³ + Ax² + x` by the rational two-torsion point `(0,0)`,
+whose `j`-invariant is the rational function `jQuot A = 16(A²+12)³/(A²-4)²` —
+and bounded the number of neighbours by three.  It did **not** say what the two
+remaining neighbours are, so the possibility remained that the radical formulas
+miss some 2-isogenies.  This file removes that gap; it is the previous cycle's
+Conjecture 5 ("every Montgomery 2-neighbour arises radically").
+
+The other two two-torsion points of `E_A` are `(r, 0)` with `r² + Ar + 1 = 0`.
+Moving `(r,0)` to the origin gives another Montgomery model of the *same* curve,
+whose parameter squared is
+
+  `tShift A u = (A² - 3u - 9) / (-(u+2))`,   `u = A·r`,
+
+and `u` is then a root of the *rational* quadratic `u² + A²u + A² = 0` — so the
+two extra neighbours are conjugate over `K(√(A²-4))`, exactly as the geometry
+predicts.  Feeding that model into the radical formula gives the neighbour
+
+  `jOther A u = 16 (A² - 15u - 33)³ / ((-(u+2)) (A² + u - 1)²)`.
+
+Results:
+
+* `jMontSq`, `jQuotSq` — the observation, used implicitly in `ModularTwoIsogeny`,
+  that both `j`-invariants depend on `A` only through `A²`; this is what lets us
+  work with the *square* of the shifted Montgomery parameter and thereby avoid
+  the square root `√(-Ar-2)` that the shifted model itself requires.
+* `two_torsion_shift_j_invariant` — `jMontSq (tShift A u) = jMont A`: the shifted
+  model really is a model of the same curve.  (Key identity:
+  `(u+2)²(A²+u-1) = A²-4` modulo `u² + A²u + A² = 0`.)
+* `modPoly2_jMont_jOther` — `Φ₂(j(E_A), jOther A u) = 0`: the two extra
+  neighbours are genuine 2-isogeny neighbours.
+* `two_isogeny_neighbours_complete` — **completeness**: if the three exhibited
+  neighbours are pairwise distinct, then *every* solution of
+  `Φ₂(j(E_A), Y) = 0` is one of them.  So the radical formula together with the
+  two-torsion shift generates the whole 2-isogeny neighbourhood, and nothing is
+  missed.
+* `u_of_two_torsion`, `u_sum`, `u_prod`, `u_exists_iff_sq` — the dictionary
+  between the two-torsion abscissa `r` and the parameter `u = A·r`, including
+  the fact that the extra neighbours exist over `K` exactly when `A²(A²-4)` is a
+  square, i.e. over `K(√(A²-4))`.
+-/
+
+set_option maxHeartbeats 1000000
+
+open Cryptography.IsogenySIDH
+
+variable {K : Type*} [Field K]
+
+/-! ## Both `j`-invariants depend only on `A²` -/
+
+
+
+
+
+
+/-! ## The two-torsion shift -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Completeness of the neighbour list -/
+
+
+
+
+open Cryptography.IsogenySIDH in
+theorem solution[DecidableEq K] {A u₁ u₂ Y : K}
+    (hu₁ : u₁ ^ 2 + A ^ 2 * u₁ + A ^ 2 = 0) (hu₂ : u₂ ^ 2 + A ^ 2 * u₂ + A ^ 2 = 0)
+    (hd : A ^ 2 - 4 ≠ 0)
+    (h01 : jQuot A ≠ jOther A u₁) (h02 : jQuot A ≠ jOther A u₂)
+    (h12 : jOther A u₁ ≠ jOther A u₂)
+    (hY : modPoly2 (jMont A) Y = 0) :
+    Y = jQuot A ∨ Y = jOther A u₁ ∨ Y = jOther A u₂ := by
+  by_contra hcon
+  push_neg at hcon
+  obtain ⟨hY0, hY1, hY2⟩ := hcon
+  set S : Finset K := {jQuot A, jOther A u₁, jOther A u₂, Y} with hSdef
+  have hcard : S.card = 4 := by
+    rw [hSdef]
+    rw [Finset.card_insert_of_notMem (by simp [h01, h02, Ne.symm hY0]),
+      Finset.card_insert_of_notMem (by simp [h12, Ne.symm hY1]),
+      Finset.card_insert_of_notMem (by simp [Ne.symm hY2]), Finset.card_singleton]
+  have hroots : ∀ y ∈ S, modPoly2 (jMont A) y = 0 := by
+    intro y hy
+    simp only [hSdef, Finset.mem_insert, Finset.mem_singleton] at hy
+    rcases hy with rfl | rfl | rfl | rfl
+    · exact modPoly2_jMont_jQuot hd
+    · exact modPoly2_jMont_jOther hu₁ hd
+    · exact modPoly2_jMont_jOther hu₂ hd
+    · exact hY
+  have := two_isogeny_neighbours_card_le_three (jMont A) S hroots
+  omega

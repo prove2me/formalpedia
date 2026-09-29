@@ -1,0 +1,28 @@
+-- Prove2me | Theorems.Thm_mme_dwz_positive_161_regional_rate_identity
+-- name    : mme_dwz_positive_161_regional_rate_identity
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-09-21T18:05:59.568632+00:00
+-- url     : https://prove2.me/theorems/79ffd990-6e03-4e43-91e9-a463149b51a7
+-- title:
+--   Positive component 161: regional rate identity
+-- statement:
+--   For the four-region integer fine profiles of the DWZ $(1,6,1)$ candidate, let $N$ be their total block count and let $E$ be the explicit entropy expression computed from their rational coarse, parent-word, and compatibility-part distributions. Then the regional rate used by the integer tensor extraction construction is exactly
+--   $$R(N,m,\mu)=N E.$$
+--   Here $R$ is the existing regional extraction rate, including its coarse entropy, coarse compatibility penalty, joint parent-word entropy, and both boundary/interior compatibility potentials. The identity connects the explicit numerical entropy calculation to that existing construction. It does not require an entropy inequality or assume a child tensor value.
+-- source:
+--   Duan, Wu, and Zhou, Faster Matrix Multiplication via Asymmetric Hashing, arXiv:2210.10173v5, Section 7, with the regional extraction of Alman, Duan, Vassilevska Williams, Xu, Xu, Zhou, More Asymmetry Yields Faster Matrix Multiplication, arXiv:2404.16349v2, Section 6. Object-154 data generated from the released q=5 fourth-power certificate.
+
+import Theorems.Thm_mme_dwz_positive_161_integer_fine_profile_validity
+import Theorems.Thm_mme_regional_mass_entropy_algebra
+import Theorems.Thm_mme_recursive_thin_split_entropy_penalty_zero
+
+open BigOperators MME MME.RegionRate MME.RegionRealization MME.RecursiveYZ MME.DWZ161Fine
+open scoped Classical
+set_option autoImplicit false
+set_option maxRecDepth 100000
+set_option maxHeartbeats 1800000
+set_option backward.isDefEq.respectTransparency false
+
+theorem mme_dwz_positive_161_regional_rate_identity :
+    regionalRate parent_total n m mu = (totalCount : ℝ) * explicitRate := by sorry

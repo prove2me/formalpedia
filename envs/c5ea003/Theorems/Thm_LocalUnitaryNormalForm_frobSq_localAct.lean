@@ -1,0 +1,138 @@
+-- Prove2me | Theorems.Thm_LocalUnitaryNormalForm_frobSq_localAct
+-- name    : LocalUnitaryNormalForm.frobSq_localAct
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-11T21:19:49.359272+00:00
+-- url     : https://prove2.me/theorems/00557bee-4460-4c00-b4b8-4556460ff55b
+-- title:
+--   FrobSq localAct
+-- statement:
+--   Formal statement of `LocalUnitaryNormalForm.frobSq_localAct` from the Aether Catalog (Combinatorics). The mathematical content is given by the Lean statement below; a human-readable write-up is pending.
+--
+--   ```lean
+--   theorem LocalUnitaryNormalForm.frobSq_localAct{U V : Amp} (hU : U ∈ U2) (hV : V ∈ U2) (M : Amp) :
+--       frobSq (localAct U V M) = frobSq M := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Combinatorics/LocalUnitaryNormalForm.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Combinatorics/LocalUnitaryNormalForm.lean#L297
+
+-- Thm stub generated from Combinatorics/LocalUnitaryNormalForm.lean
+import Mathlib
+import Definitions.Def_Combinatorics_LocalUnitaryNormalForm
+
+/-!
+# Local-unitary normal form for maximally entangled two-qubit states
+
+A two-qubit pure state `∑ᵢⱼ Mᵢⱼ |ij⟩` is encoded by its `2 × 2` complex amplitude matrix
+`M : Matrix (Fin 2) (Fin 2) ℂ`.  Its squared Frobenius norm `frobSq M` is the total
+probability and its *concurrence* is `concurrence M = 2 ‖det M‖` (Wootters).  A **sharp
+maximizer** is a normalized state whose concurrence attains the maximal value `1`.
+
+The main results are:
+
+* `two_mul_norm_det_le_frobSq` : the sharp inequality `2 ‖det M‖ ≤ ‖M‖_F²`, obtained from the
+  two-dimensional Lagrange / Cauchy–Binet identity `lagrange_two` together with AM–GM;
+  `concurrence_le_one` is the resulting bound on normalized states.
+* `row_sq_of_sharp`, `rowGram_of_sharp` : the **row classification** — the two rows of a
+  normalized sharp maximizer are orthogonal and each of squared length `1/2`, equivalently
+  `M * Mᴴ = (1/2) • 1`: the reduced density matrix is maximally mixed.
+* `sharp_iff_rowGram` : conversely, a maximally mixed reduced density matrix forces sharpness.
+* `sqrtTwo_smul_mem_unitaryGroup` : the promised step "build a unitary from an orthonormal
+  basis" — for a sharp maximizer `√2 • M` is a unitary matrix.
+* `localAct` : the two-sided `U(2) × U(2)` action `M ↦ U M Vᵀ` of the local unitaries `U ⊗ V`
+  on amplitude matrices, with its action laws (`localAct_one`, `localAct_mul`) and the
+  invariance of both `frobSq` and `‖det ·‖` (`frobSq_localAct`, `norm_det_localAct`).
+* `sharp_iff_localAct_bell` : **every** normalized sharp maximizer lies in the local-unitary
+  orbit of `bell = diag(1/√2, 1/√2)`, and conversely every point of that orbit is a sharp
+  maximizer.
+* `sharp_iff_exists_left`, `sharp_iff_exists_right` : one-sided transitivity — either factor of
+  the local group already acts transitively on sharp maximizers, because `bell` is a scalar
+  matrix; `exists_lact_of_sharp_sharp` phrases this as transitivity on the orbit.
+* `stabilizer_bell` : the stabilizer of `bell` is `{(U, U̅)}`, i.e. `U ⊗ V` fixes the Bell state
+  iff `V` is the entrywise conjugate of `U` (`V = Uᴴᵀ`).
+* `concurrence_eq_zero_iff_isProduct` and `sharp_not_isProduct` : the opposite extreme of the
+  scale, and the fact that the two extremes are disjoint.
+* `flat_sharp_iff`, `card_sharp_signMats` : the *flat* sharp maximizers (all amplitudes of
+  modulus `1/2`) are exactly the images of `(1/2) F₂` under diagonal unitaries — the order-two
+  case of the classification of complex Hadamard matrices — and exactly `8` of the `16` real
+  sign patterns are sharp.
+* `sharpMaximizer_bellBasis`, `hsInner_bellBasis`, `bellBasis_expansion` : the Pauli orbit of
+  `bell` is an orthonormal basis of the state space consisting of sharp maximizers.
+* `concurrence_sq_eq_two_mul_linearEntropy`, `sharp_iff_purity`, `half_le_purity` : the
+  concurrence is twice the linear entropy of the marginal, and sharp maximizers are exactly the
+  normalized states of minimal purity `1/2`.
+* `marginal_quadratic`, `sharp_iff_schmidt_eq`, `isProduct_iff_schmidtLo_eq_zero` : the Schmidt
+  spectrum `(1 ± √(1 - C²))/2` of the marginal, degenerate exactly at the maximizers and
+  containing `0` exactly at the product states.
+* `frobSq_marginal_eq`, `frobSq_marginal_le_deficit` : a quantitative form of the row
+  classification — the squared Frobenius distance of the marginal from `(1/2)·I` is exactly
+  `(1 - C²)/2`, hence at most the concurrence deficit `1 - C`.
+-/
+
+open Matrix Finset
+open scoped ComplexConjugate
+
+noncomputable section
+
+open LocalUnitaryNormalForm
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Algebra of the two actions -/
+
+
+
+
+
+
+/-! ## Elementary facts about `U(2)` -/
+
+
+
+
+/-! ## The Lagrange (Cauchy–Binet) identity in dimension two -/
+
+
+/-! ## Rows, the Frobenius norm and the Gram relation -/
+
+
+
+
+
+
+
+
+
+/-! ## The sharp inequality `2 |det M| ≤ ‖M‖_F²` -/
+
+
+
+
+/-! ## Row classification of the sharp maximizers -/
+
+
+
+
+/-! ## Sharpness ⟺ maximally mixed marginal -/
+
+
+
+
+/-! ## The Bell state -/
+
+
+
+/-! ## Invariance of the invariants under the local action -/
+
+theorem LocalUnitaryNormalForm.frobSq_localAct{U V : Amp} (hU : U ∈ U2) (hV : V ∈ U2) (M : Amp) :
+    frobSq (localAct U V M) = frobSq M := by sorry

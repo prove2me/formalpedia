@@ -1,0 +1,958 @@
+-- Prove2me | solution 1 for ModularCurve.FullLevel.SemistableCovering.naturality_levelAut_supersingular_of_discFamily
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:09.339302+00:00
+-- url     : https://prove2.me/submissions/549ec117-8d49-5914-a0a7-69b46b30637a
+
+import Definitions.Def_ModularCurve_FullLevelSemistableCovering
+import Definitions.Def_ModularCurve_SupersingularNodePlaces
+import Definitions.Def_AlgebraicCurve_ConstantReduction
+import Definitions.Def_AlgebraicCurve_RegularProlongation
+import Definitions.Def_ModularCurve_FullLevelSemistableCoveringGuards
+import Definitions.Def_ModularCurve_PlaceWidthChar
+import Definitions.Def_FLTPrelim_Ramification
+import Definitions.Def_ModularCurve_PhiGen
+import Definitions.Def_ModularCurve_FullLevelSemistableCoveringNaturality
+import Definitions.Def_AlgebraicCurve_ResidueDiscs
+import Theorems.Thm_ModularCurve_FullLevel_levelAutBar_mul
+import Theorems.Thm_ModularCurve_FullLevel_comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily
+p2m_attr_erase "instance" "AlgebraicCurve.Place.instIsPrimeCenter AlgebraicCurve.Place.instIsFractionRingIntegralClosureAt AlgebraicCurve.Place.instIsTorsionFreeSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.Place.instIsDedekindDomainIntegralClosureAt AlgebraicCurve.Place.instFiniteSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.RationalFunctionField.instNontrivialSubtypeUnitsWithZeroMultiplicativeIntMemSubgroupValueGroupRatFuncValuationInftyValuation_definitions AlgebraicCurve.instHasLocalResidue_of_hasCanonicalLocalResidueK AlgebraicCurve.instHasCanonicalLocalResidueK_of_hasCanonicalLocalResidueKStar AlgebraicCurve.Place.kw_ffgc_finiteDimensional_adicCompletion instAlgebraSubtypeMemValuationSubring_definitions AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersIntegersCompletion ModularCurve.KwF4gRRTate.instAlgebraKAdicCompletionIntegers AlgebraicCurve.Place.kw_ffgc_continuousSMul_adicCompletionComap AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersCompletionCompletion IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instDimensionLEOneSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.instLiesOverSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersCompletionIdealAsIdeal IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsPrincipalIdealRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemSubringIntegerWithZeroMultiplicativeInt_definitions IsDedekindDomain.HeightOneSpectrum.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicCompletionV_definitions AlgebraicCurve.instHasCanonicalLocalResidueK AlgebraicCurve.Place.instAlgebra_restrictResidueField AlgebraicCurve.Place.instIsScalarTower_restrictResidueField AlgebraicCurve.instHasLocalResidue AlgebraicCurve.HasSeparableResidue.of_perfectField_of_isCurveOver AlgebraicCurve.HasSeparableResidue.of_perfectField AlgebraicCurve.Place.instIsLocalHom_restrictSubringHom AlgebraicCurve.instHasCanonicalLocalResidueKStar ModularCurve.KwNo6Pin.isLocalRing_completion ModularCurve.instFiniteProjectiveLine ModularCurve.unimodularRowSetoid ModularCurve.instIsDomainTensorProduct AlgebraicClosure.Rat.isGalois ModularCurve.instIsElliptic_tateBase ModularCurve.instIsElliptic_tateLaurent ModularCurve.KatzGamma0Form.instModule ModularCurve.KatzGamma0Form.instZero ModularCurve.KatzLevelPForm.instSMul ModularCurve.KatzGamma0Form.instAdd ModularCurve.KatzLevelPForm.instAddCommGroup"
+p2m_attr_erase "instance" "ModularCurve.KatzGamma0Form.instNeg ModularCurve.KatzGamma0Form.instAddCommGroup ModularCurve.KatzLevelPForm.instAdd ModularCurve.KatzLevelPForm.instSub ModularCurve.KatzLevelPForm.instNeg ModularCurve.KatzGamma0Form.instSMul ModularCurve.KatzGamma0Form.instSub ModularCurve.KatzLevelPForm.instZero ModularCurve.KatzLevelPForm.instModule KatzModularForm.instAddCommGroup KatzModularForm.instSub KatzModularForm.instZero KatzModularForm.instModule KatzModularForm.instAdd KatzModularForm.instNeg KatzModularForm.instSMul WeierstrassCurve.instIsEllipticBaseChange WeierstrassCurve.Univ.Affine.instAddGroupPointFieldBaseChangeMvPolynomialCoeffIntCurve WeierstrassCurve.Univ.instIsEllipticFieldPointedCurve WeierstrassCurve.Univ.instCommRingPoly WeierstrassCurve.Affine.instIsScalarTowerPolynomialRatFuncFunctionField_definitions WeierstrassCurve.Affine.instAlgebraRatFuncFunctionField_definitions WeierstrassCurve.Affine.instIsScalarTowerRatFuncFunctionField_definitions WeierstrassCurve.Affine.CoordinateRing.moduleFinite WeierstrassCurve.Affine.instDecidableEqFunctionField WeierstrassCurve.Affine.CoordinateRing.isIntegral WeierstrassCurve.VeluQuotientJGates.instIsElliptic27a4 ModularCurve.ElevenA1.instDecidableEquation ModularCurve.ElevenA1.instDecidableNonsingular CuspForm.instModuleZModIntTwoCuspForms CuspForm.instAddCommGroupIntTwoCuspForms ModularCurve.instAlgebraIntermediateFieldLaurent ModularCurve.instIsScalarTowerKaehlerIntermediateFieldLaurent ModularCurve.instIsScalarTowerIntermediateFieldLaurent ModularCurve.instModuleKaehlerIntermediateFieldLaurent CuspForm.instModuleTwoCuspForms CuspForm.instIsScalarTowerTwoCuspForms CuspForm.instAddCommGroupTwoCuspForms CuspForm.instIsScalarTowerSelfTwoCuspForms CuspForm.instModuleQuotientTwoCuspForms"
+p2m_attr_erase "instance" "CuspForm.GammaH_finiteIndex"
+p2m_attr_erase "simp" "ModularForm.val_heckeDiagMatrix ModularForm.heckeU_zero ModularForm.heckeU_zero_left ModularForm.heckeT_zero ModularForm.val_heckeMatrix ModularForm.heckeMatrix_zero ModularForm.heckeT_zero_left ModularForm.heckeDiagMatrix_zero ModularForm.val_upperTriangularGL ModularCurve.IntegralWeightOneForm.mk.injEq ModularCurve.IntegralWeightOneForm.mk.sizeOf_spec ModularCurve.IgusaCover.IgusaDiamondData.mk.sizeOf_spec ModularCurve.IgusaCover.coe_incl ModularCurve.IgusaCover.IgusaDiamondData.mk.injEq AlgebraicCurve.mulAdele_apply AlgebraicCurve.residuePairing_apply_coe AlgebraicCurve.mem_adeleBdd AlgebraicCurve.weilSmul_one AlgebraicCurve.diagonalHom_apply AlgebraicCurve.weilSmul_apply AlgebraicCurve.adeleSpaceMul_coe AlgebraicCurve.mulAdele_one AlgebraicCurve.Place.differentialCoeff_zero AlgebraicCurve.Place.differentialCoeff_dCoord AlgebraicCurve.TranscendenceTower.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.injEq AlgebraicCurve.TranscendenceTower.mk.injEq AlgebraicCurve.PoleDivisorPackage.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.sizeOf_spec AlgebraicCurve.PoleDivisorPackage.mk.injEq AlgebraicCurve.RationalFunctionField.placeInfty_toValuationSubring AlgebraicCurve.Place.placeOfPrime_toValuationSubring AlgebraicCurve.Place.mem_fiberOver AlgebraicCurve.Place.fiberEquiv_symm_apply AlgebraicCurve.Place.fiberEquiv_apply AlgebraicCurve.Place.centerHeightOneSpectrum_asIdeal AlgebraicCurve.RationalFunctionField.placeEquivOption_placeInfty AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_some AlgebraicCurve.RationalFunctionField.placeEquivOption_placeOfPoint AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_none"
+p2m_attr_erase "simp" "AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.sizeOf_spec AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.injEq AlgebraicCurve.adeleSingle_coe AlgebraicCurve.kaehlerResidueTermKFam_apply AlgebraicCurve.Place.LocalResidueData.mk.injEq AlgebraicCurve.Place.LocalResidueData.mk.sizeOf_spec AlgebraicCurve.Place.kw_ffgc_adicCompletionComapIntegers_coe AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.sizeOf_spec AlgebraicCurve.Place.mem_simplePoleSubmodule AlgebraicCurve.Place.coe_uniformizerSubring ModularCurve.Lg37.Lg37CompletionSection.mk.injEq AlgebraicCurve.Place.CoefficientFieldSection.mk.injEq AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.injEq ModularCurve.Lg37.Lg37CompletionSection.mk.sizeOf_spec AlgebraicCurve.Place.CoefficientFieldSection.mk.sizeOf_spec AlgebraicCurve.Place.poleSubmodule_one AlgebraicCurve.Place.mem_poleSubmodule ModularCurve.qExpandAlgHomC_apply CohCarrier.frickeH1L_apply CohCarrier.frickeMat_apply_10 CohCarrier.frickeEquiv_symm_apply CohCarrier.frickeMat_apply_01 CohCarrier.coe_frickeHom CohCarrier.frickeMat_apply_00 CohCarrier.frickeMat_apply_11 CohCarrier.frickeEquiv_apply CohCarrier.frickeH1_apply ModularCurve.ProjectiveLine.map_mk ModularCurve.coe_baseChangeEquiv_apply ModularCurve.baseChangeHom_tmul ModularCurve.coe_cuspidalDivisor₀ ModularCurve.eisensteinNumerator_nineteen ModularCurve.eisensteinNumerator_seventeen ModularCurve.eisensteinNumerator_eleven ModularCurve.eisensteinNumerator_five ModularCurve.eisensteinNumerator_seven ModularCurve.eisensteinNumerator_twentythree ModularCurve.eisensteinNumerator_thirteen ModularCurve.constantCoeff_dedekindEtaUnitQ ModularCurve.tateUnivCurve_a₂"
+p2m_attr_erase "simp" "ModularCurve.tateUnivCurve_a₃ ModularCurve.tateUnivCurve_a₆ ModularCurve.nonToricPoint_fst ModularCurve.toricPoint_snd ModularCurve.tateUnivCurve_a₁ ModularCurve.nonToricPoint_snd ModularCurve.tateUnivCurve_a₄ ModularCurve.toricPoint_fst ModularCurve.tateLaurent_a₆ ModularCurve.tatePowerSeries_a₄ ModularCurve.tatePowerSeries_a₆ ModularCurve.tateLaurent_a₄ ModularCurve.tatePowerSeries_a₁ ModularCurve.tatePowerSeries_a₂ ModularCurve.tatePowerSeries_a₃ ModularCurve.cuspData_yP ModularCurve.qTwistAlgHom_apply ModularCurve.cuspData_yQ ModularCurve.cuspData_xP ModularCurve.cuspData_xQ ModularCurve.val_cyclZeta ModularCurve.cuspShift_one ModularCurve.cuspShift_zero ModularCurve.LevelPData.mk.sizeOf_spec ModularCurve.KatzLevelPForm.neg_toFun ModularCurve.LevelP.coe_swapW ModularCurve.KatzLevelPForm.swap_swap KatzModularForm.pullbackLevelP_toFun ModularCurve.LevelPData.swap_xQ KatzModularForm.pullbackLevelP_zero ModularCurve.LevelPData.map_yP ModularCurve.KatzLevelPForm.swap_neg ModularCurve.KatzGamma0Form.toKatzLevelPForm_sub ModularCurve.KatzLevelPForm.swap_add KatzModularForm.swap_pullbackLevelP ModularCurve.KatzGamma0Form.toKatzLevelPForm_add ModularCurve.KatzLevelPForm.swap_smul ModularCurve.LevelPData.map_yQ ModularCurve.KatzLevelPForm.mk.injEq ModularCurve.KatzLevelPForm.zero_toFun"
+p2m_attr_erase "simp" "KatzModularForm.pullbackLevelP_smul ModularCurve.LevelPData.swap_xP ModularCurve.KatzGamma0Form.toKatzLevelPForm_mul ModularCurve.KatzGamma0Form.toKatzLevelPForm_neg ModularCurve.LevelPData.variableChange_xQ KatzModularForm.pullbackGamma0_toKatzLevelPForm ModularCurve.KatzLevelPForm.mk.sizeOf_spec ModularCurve.KatzLevelPForm.swap_zero ModularCurve.LevelP.coe_unipotentU ModularCurve.KatzLevelPForm.mul_toFun ModularCurve.LevelPData.variableChange_yP ModularCurve.LevelPData.mk.injEq ModularCurve.KatzLevelPForm.sub_toFun ModularCurve.LevelPData.variableChange_xP ModularCurve.KatzLevelPForm.smul_toFun ModularCurve.LevelPData.swap_yP ModularCurve.LevelPData.map_xP ModularCurve.LevelPData.swap_swap ModularCurve.LevelPData.swap_yQ ModularCurve.KatzGamma0Form.toKatzLevelPForm_zero ModularCurve.KatzGamma0Form.mk.injEq ModularCurve.KatzLevelPForm.swap_toFun KatzModularForm.pullbackLevelP_add ModularCurve.KatzGamma0Form.mk.sizeOf_spec ModularCurve.LevelPData.variableChange_yQ ModularCurve.KatzLevelPForm.swap_sub ModularCurve.KatzGamma0Form.toKatzLevelPForm_smul ModularCurve.LevelPData.map_xQ ModularCurve.KatzLevelPForm.add_toFun KatzModularForm.c₆_toFun KatzModularForm.neg_toFun KatzModularForm.mul_toFun KatzModularForm.qExpansion_neg KatzModularForm.discr_toFun KatzModularForm.qExpansion_sub KatzModularForm.qExpansion_add KatzModularForm.qExpansion_mul KatzModularForm.zero_toFun KatzModularForm.mk.injEq KatzModularForm.qExpansion_smul"
+p2m_attr_erase "simp" "KatzModularForm.smul_toFun KatzModularForm.add_toFun KatzModularForm.sub_toFun KatzModularForm.c₄_toFun KatzModularForm.qExpansion_zero KatzModularForm.mk.sizeOf_spec TateCurve.tateTorsionPoint_zero_zero TateCurve.cauchyMulInt_zero TateCurve.cauchyMulInt3_zero TateCurve.tent_one TateCurve.Gz_zero TateCurve.cauchyMulInt_one TateCurve.tent_zero TateCurve.Fz_zero TateCurve.xCoeffFull_succ TateCurve.a₆Coeff_zero TateCurve.a₄Coeff_succ TateCurve.a₄Coeff_zero TateCurve.cauchyMul_zero TateCurve.a₆Coeff_succ TateCurve.yCoeffFull_succ TateCurve.xCoeffFull_zero TateCurve.yCoeffFull_zero TateCurve.yfun_zero TateCurve.xfun_zero TateCurve.yTerm_zero TateCurve.xTerm_zero TateCurve.curve_a₂ TateCurve.b_one TateCurve.curve_a₁ TateCurve.term_zero TateCurve.curve_a₆ TateCurve.curve_a₄ TateCurve.curve_a₃ FLT.DivisorConvolution.sigma_zero_right FLT.DivisorConvolution.sigma_one_right FLT.DivisorConvolution.sigmaConv_one FLT.DivisorConvolution.sigmaConv_zero WeierstrassCurve.Affine.Point.netCol_one WeierstrassCurve.Affine.Point.xOrZero_zero"
+p2m_attr_erase "simp" "WeierstrassCurve.Affine.Point.netPairing_zero_right WeierstrassCurve.Affine.Point.netW20_some WeierstrassCurve.Affine.Point.netCol_zero WeierstrassCurve.Affine.Point.netPairing_zero_left WeierstrassCurve.Affine.Point.xOrZero_some WeierstrassCurve.Affine.Point.netW20_zero compl₂EDSAux_neg_two compl₂EDSAux_zero WeierstrassCurve.ωe_zero WeierstrassCurve.Univ.pointedCurve_a₁ WeierstrassCurve.Univ.polyToField_polynomial WeierstrassCurve.Coeff.A₁.sizeOf_spec compl₂EDS_zero compl₂EDS_one WeierstrassCurve.Univ.Affine.smulY_zero Param.C.sizeOf_spec EllSequence.redInvarDenom_zero compl₂EDSAux_two compl₂EDSAux_neg_one compl₂EDSAux_one WeierstrassCurve.Coeff.A₆.sizeOf_spec WeierstrassCurve.ψc_neg WeierstrassCurve.Univ.Affine.smulY_one WeierstrassCurve.Univ.Affine.smulX_one WeierstrassCurve.Coeff.A₂.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₄ compl₂EDS_neg WeierstrassCurve.Univ.pointedCurve_a₃ EllSequence.redInvarDenom_two WeierstrassCurve.Univ.pointedCurve_a₆ Param.D.sizeOf_spec WeierstrassCurve.ωe_one WeierstrassCurve.Univ.Affine.smulX_zero WeierstrassCurve.Coeff.A₃.sizeOf_spec EllSequence.redInvarDenom_one WeierstrassCurve.Coeff.A₄.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₂ Param.B.sizeOf_spec compl₂EDS_two WeierstrassCurve.twoVeluCurve_a₁"
+p2m_attr_erase "simp" "WeierstrassCurve.twoVeluCurve_a₂ WeierstrassCurve.twoVeluCurve_a₃ WeierstrassCurve.xVeluCurve_a₃ WeierstrassCurve.xVeluCurve_a₂ WeierstrassCurve.xVeluCurve_a₁ WeierstrassCurve.veluWSum_empty WeierstrassCurve.veluQuotient_a₁ WeierstrassCurve.veluQuotient_a₃ WeierstrassCurve.veluQuotient_empty WeierstrassCurve.veluTSum_empty WeierstrassCurve.veluQuotient_a₂ WeierstrassCurve.veluQuotient2_a₂ WeierstrassCurve.veluQuotient2_a₃ WeierstrassCurve.veluQuotient2_a₁ WeierstrassCurve.veluPointMap2_zero WeierstrassCurve.Affine.Point.coordsOrZero_some WeierstrassCurve.Affine.Point.coordsOrZero_zero WeierstrassCurve.veluY_empty WeierstrassCurve.veluX_empty WeierstrassCurve.map_veluU WeierstrassCurve.map_veluT WeierstrassCurve.map_veluW WeierstrassCurve.map_veluGy WeierstrassCurve.map_veluGx WeierstrassCurve.map_veluWSum_singleton WeierstrassCurve.map_veluTSum_singleton WeierstrassCurve.veluPointMap3_zero WeierstrassCurve.vcInvEmbedding_apply WeierstrassCurve.Affine.IsogenyEndDatum.mk.injEq WeierstrassCurve.Affine.IsogenyHomDatum.mk.sizeOf_spec WeierstrassCurve.Affine.IsogenyHomDatum.mk.injEq WeierstrassCurve.Affine.IsogenyEndDatum.mk.sizeOf_spec AlgebraicCurve.Pic0.coe_pushforwardAlongDegZero WeierstrassCurve.Affine.pointMapOfPushforward_apply WeierstrassCurve.Affine.pointClass_zero WeierstrassCurve.Affine.pic0ToPoint_pointClass WeierstrassCurve.Affine.deg_placeOfPoint WeierstrassCurve.Affine.coe_pointDivisor WeierstrassCurve.Affine.pointEquivPlace_symm_placeOfPoint WeierstrassCurve.Affine.pointEquivPlace_apply"
+p2m_attr_erase "simp" "WeierstrassCurve.Affine.genusOnePic0Equiv_symm_apply WeierstrassCurve.Affine.pointDivisor_zero WeierstrassCurve.Affine.pic0ToPoint_mk WeierstrassCurve.Affine.divisorSum_single WeierstrassCurve.Affine.genusOnePic0Equiv_apply WeierstrassCurve.Affine.ratFuncToFunctionField_algebraMap WeierstrassCurve.Affine.pointHom_mk_C_C WeierstrassCurve.Affine.Point.yc_some WeierstrassCurve.Affine.Point.xc_some WeierstrassCurve.Affine.pointPull_algebraMap WeierstrassCurve.Affine.pointHom_mk_C_X WeierstrassCurve.Affine.pointHom_mk_Y WeierstrassCurve.Affine.placeOf_asIdeal PeriodPair.weierstrassCurve_a₆ PeriodPair.weierstrassCurve_a₃ PeriodPair.weierstrassCurve_a₁ PeriodPair.ofTau_ω₂ PeriodPair.scale_ω₂ PeriodPair.ofTau_ω₁ PeriodPair.toPoint_zero PeriodPair.toPoint_of_mem PeriodPair.weierstrassCurve_a₂ PeriodPair.ofTau_lattice PeriodPair.scale_ω₁ PeriodPair.weierstrassCurve_a₄ AddMonoid.End.DualEndData.symm_trace AddMonoid.End.dualEndData_intCast_norm AddMonoid.End.DualEndData.ofCharPoly_norm AddMonoid.End.DualEndData.mk.sizeOf_spec AddMonoid.End.DualEndData.mk.injEq AddMonoid.End.DualEndData.ofCharPoly_dual AddMonoid.End.dualEndData_intCast_dual AddMonoid.End.DualEndData.intLinComb_norm AddMonoid.End.DualEndData.ofCharPoly_trace AddMonoid.End.DualEndData.intLinComb_dual AddMonoid.End.DualEndData.symm_dual AddMonoid.End.DualEndData.intLinComb_trace AddMonoid.End.dualEndData_intCast_trace AddMonoid.End.DualEndData.symm_norm FormalCoordinates.mk.injEq"
+p2m_attr_erase "simp" "WeierstrassCurve.formalParam_zero WeierstrassCurve.SmoothLocusReductionData.reduceHom₀_apply WeierstrassCurve.formalParam_some FormalCoordinates.mk.sizeOf_spec WeierstrassCurve.SmoothLocusReductionData.mk.injEq WeierstrassCurve.reducePointSmooth_zero WeierstrassCurve.SmoothLocusReductionData.mk.sizeOf_spec WeierstrassCurve.mem_zeroComponentSubgroup_iff HahnSeries.ramScale_apply ModularCurve.LevelN.coe_jGen ModularCurve.CharPReduction.coeffRed_coeff ModularCurve.CharPReduction.redLocHom_apply ModularCurve.coe_towerInclBar ModularCurve.coe_towerSubstBar ModularCurve.coe_heckeBetaBarRingHom ModularCurve.coe_heckeBetaBar ModularCurve.coe_heckeAlphaBar ModularCurve.ComplexPlaceDictionaryOf.pt_ofGamma0 ModularCurve.ComplexPlaceDictionaryOf.mk.injEq ModularCurve.ComplexPlaceDictionaryOf.pt_toGamma0 ModularCurve.ComplexPlaceDictionaryOf.mk.sizeOf_spec ModularCurve.ComplexPlaceDictionary.mk.injEq ModularCurve.ComplexPlaceDictionary.mk.sizeOf_spec ModularCurve.coe_heckeBetaModLHOf ModularCurve.pairDiagModL_apply ModularCurve.coe_heckeAlphaModLH ModularCurve.pairUpModL_apply ModularCurve.coeff_qDecimate ModularCurve.coe_qExpFrobeniusModL ModularCurve.coe_qExpFrobeniusDegZeroPullbackModL ModularCurve.coe_qExpFrobeniusDegZeroPushforwardModL ModularCurve.coe_frobeniusModL ModularCurve.coe_frobeniusDegZeroPullbackModL ModularCurve.coe_frobeniusDegZeroPushforwardModL ModularCurve.qEulerFun_coeff ModularCurve.diffQExp_D ModularCurve.qEulerOn_apply ModularCurve.qEuler_coeff AlgebraicCurve.gluedPolarDifferentials.coe_fst_apply AlgebraicCurve.gluedPolarDifferentials.coe_snd_apply"
+p2m_attr_erase "simp" "CuspForm.heckeGenH_T CuspForm.coe_twoCuspEnd_apply CuspForm.twoCuspEndMod_reduce CuspForm.heckeGenH_U CuspForm.heckeGenH_dia ModularForm.AtkinLehnerDatum.mk.injEq ModularForm.AtkinLehnerDatum.alGL_coe ModularForm.AtkinLehnerDatum.mk.sizeOf_spec ModularForm.AtkinLehnerDatum.sqUnitSL_coe ModularForm.AtkinLehnerDatum.det_sqUnit ModularForm.AtkinLehnerDatum.det_mat ModularCurve.baseAut_x1ArithFrobC_apply ModularCurve.coe_qExpCoeffRingAut_apply ModularCurve.qExpCoeffSemilinearAutHom_apply ModularCurve.baseAut_x1x0ArithFrobC_apply ModularCurve.baseAut_qExpArithFrobC_apply ModularCurve.baseAut_qExpCoeffSemilinearAut ModularCurve.toRingAut_qExpCoeffSemilinearAut ModularForm.coe_atkinLehnerLin_apply CuspForm.coe_atkinLehnerLin_apply"
+
+section Inlined_w1_W1c_tube_penw2
+
+set_option autoImplicit false
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel IsLocalRing CongruenceSubgroup"
+open scoped MatrixGroups
+
+attribute [local instance] ModularCurve.instDecidableEqResidueFieldSemistable
+  ModularCurve.instAlgebraResidueFieldModularFunctionFieldCSemistable
+
+noncomputable section
+
+namespace ModularCurve
+p2m_export "ModularCurve" "xHFunctionFieldC modularFunctionFieldBar qExpand jq jq_mem jqN_mem modularFunctionField_le_full coeffMap coeffEmb coeffEmb_mem_laurentBaseChange instDecidableEqResidueFieldSemistable instAlgebraResidueFieldModularFunctionFieldCSemistable modularFunctionFieldC ssPlaces jGeomGen jNGeomGen FullLevel.levelAutBar_mul FullLevel.comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace FullLevel
+p2m_export "ModularCurve.FullLevel" "lineInfty SemistableCovering levelH fieldBar Idx IsLevelAutBar levelAutBar redQ SemistableCovering.NaturalityClauses SemistableCovering.InducesOnChart SemistableCovering.LevelPinClauses levelAutBar_mul comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace W1c
+namespace Plumbing
+p2m_open "ModularCurve.FullLevel ModularCurve"
+
+set_option synthInstance.maxHeartbeats 1600000 in
+
+def InTube (q : ℕ) [Fact q.Prime] (M' : ℕ) [NeZero M'] (A : ValuationSubring (AlgebraicClosure ℚ))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (R₀ : ConstantReduction A ↥(modularFunctionFieldBar M') (modularFunctionFieldC (ResidueField A) M'))
+    (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')) (P : Place (AlgebraicClosure ℚ) (fieldBar q M')) : Prop :=
+  ∀ (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+          (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+            0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+              coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+              ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+          (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+              (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+            ∀ a : A, residue A a =
+                (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+              ∃ h : P.evalAt (IntermediateField.inclusion hle f : fieldBar q M') - (a : AlgebraicClosure ℚ) ∈ A,
+                (⟨_, h⟩ : A) ∈ maximalIdeal A
+
+def jBar (M' : ℕ) [NeZero M'] : ↥(modularFunctionFieldBar M') :=
+  ⟨coeffEmb (AlgebraicClosure ℚ) jq,
+    coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩
+
+def jNBar (M' : ℕ) [NeZero M'] : ↥(modularFunctionFieldBar M') :=
+  ⟨coeffEmb (AlgebraicClosure ℚ) (qExpand ℚ M' jq),
+    coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jqN_mem M'))⟩
+
+@[scoped simp] theorem coe_jBar (M' : ℕ) [NeZero M'] :
+    ((jBar M' : ↥(modularFunctionFieldBar M')) : LaurentSeries (AlgebraicClosure ℚ)) = coeffEmb (AlgebraicClosure ℚ) jq := rfl
+
+@[scoped simp] theorem coe_jNBar (M' : ℕ) [NeZero M'] :
+    ((jNBar M' : ↥(modularFunctionFieldBar M')) : LaurentSeries (AlgebraicClosure ℚ)) =
+      coeffEmb (AlgebraicClosure ℚ) (qExpand ℚ M' jq) := rfl
+
+set_option synthInstance.maxHeartbeats 1600000 in
+
+def InTubeJ (q : ℕ) [Fact q.Prime] (M' : ℕ) [NeZero M'] (A : ValuationSubring (AlgebraicClosure ℚ))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')) (P : Place (AlgebraicClosure ℚ) (fieldBar q M')) : Prop :=
+  ((IntermediateField.inclusion hle (jBar M') : fieldBar q M') ∈ P.toValuationSubring ∧
+    ∀ a : A, residue A a = s.evalAt (jGeomGen (ResidueField A) M') →
+      ∃ h : P.evalAt (IntermediateField.inclusion hle (jBar M') : fieldBar q M') - (a : AlgebraicClosure ℚ) ∈ A,
+        (⟨_, h⟩ : A) ∈ maximalIdeal A) ∧
+  ((IntermediateField.inclusion hle (jNBar M') : fieldBar q M') ∈ P.toValuationSubring ∧
+    ∀ a : A, residue A a = s.evalAt (jNGeomGen (ResidueField A) M') →
+      ∃ h : P.evalAt (IntermediateField.inclusion hle (jNBar M') : fieldBar q M') - (a : AlgebraicClosure ℚ) ∈ A,
+        (⟨_, h⟩ : A) ∈ maximalIdeal A)
+
+namespace Idx
+
+private def _root_.ModularCurve.FullLevel.W1c.Plumbing.Idx.unit {q : ℕ} [Fact q.Prime] (ζ : Idx q) : (AlgebraicClosure ℚ)ˣ :=
+  (ζ.isPrimitiveRoot.isUnit (Fact.out : q.Prime).ne_zero).unit
+
+end Idx
+p2m_export "ModularCurve.FullLevel.W1c.Plumbing" "Idx.unit"
+@[scoped simp] theorem Idx.coe_unit {q : ℕ} [Fact q.Prime] (ζ : Idx q) : (Idx.unit ζ : AlgebraicClosure ℚ) = ζ.val := rfl
+
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx"
+end ModularCurve.FullLevel.W1c.Plumbing
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end Inlined_w1_W1c_tube_penw2
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+section Inlined_w1_pen_LevelPin_pen
+
+set_option autoImplicit false
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel IsLocalRing CongruenceSubgroup"
+open scoped MatrixGroups
+
+attribute [local instance] ModularCurve.instDecidableEqResidueFieldSemistable
+  ModularCurve.instAlgebraResidueFieldModularFunctionFieldCSemistable
+
+noncomputable section
+
+namespace ModularCurve
+p2m_export "ModularCurve" "xHFunctionFieldC modularFunctionFieldBar qExpand jq jq_mem jqN_mem modularFunctionField_le_full coeffMap coeffEmb coeffEmb_mem_laurentBaseChange instDecidableEqResidueFieldSemistable instAlgebraResidueFieldModularFunctionFieldCSemistable modularFunctionFieldC ssPlaces jGeomGen jNGeomGen FullLevel.levelAutBar_mul FullLevel.comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace FullLevel
+p2m_export "ModularCurve.FullLevel" "lineInfty SemistableCovering levelH fieldBar Idx IsLevelAutBar levelAutBar redQ SemistableCovering.NaturalityClauses SemistableCovering.InducesOnChart SemistableCovering.LevelPinClauses levelAutBar_mul comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace W1c
+namespace Pen
+p2m_open "ModularCurve.FullLevel ModularCurve"
+
+theorem mem_maximalIdeal_of_valuationSubring_eq {F : Type*} [Field F] {O₁ O₂ : ValuationSubring F}
+    (e : O₁ = O₂) {x : F} (h₁ : x ∈ O₁) (h₂ : x ∈ O₂) (hm : (⟨x, h₁⟩ : O₁) ∈ maximalIdeal ↥O₁) :
+    (⟨x, h₂⟩ : O₂) ∈ maximalIdeal ↥O₂ := by
+  subst e; exact hm
+
+set_option synthInstance.maxHeartbeats 1600000 in
+
+theorem levelPin_ss_of_integers_eq
+    (q : ℕ) [Fact q.Prime] (M' : ℕ) [NeZero M']
+    (A : ValuationSubring (AlgebraicClosure ℚ))
+    (W : Finset (Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (R₀ : ConstantReduction A ↥(modularFunctionFieldBar M') (modularFunctionFieldC (ResidueField A) M'))
+    (OSS : ↥W → ValuationSubring (fieldBar q M'))
+    (hSS_over : ∀ (s : ↥W) (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+      (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+        0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+          coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+          ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+      (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+          (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+        (IntermediateField.inclusion hle f : fieldBar q M') ∈ OSS s ∧
+        ∀ a : A, residue A a =
+            (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+          ∃ h : (IntermediateField.inclusion hle f : fieldBar q M')
+              - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s,
+            (⟨_, h⟩ : OSS s) ∈ maximalIdeal (OSS s))
+    (s : ↥W) {FSS : Type} [Field FSS] [Algebra (ResidueField A) FSS]
+    (C : ComponentChart A (fieldBar q M') FSS) (hCint : C.integers = OSS s)
+    (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers)
+    (hreg : ∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+        0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+          coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+          ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M')))
+    (hs : (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+          (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring) :
+    ∃ hC : (IntermediateField.inclusion hle f : fieldBar q M') ∈ C.integers,
+      C.residue ⟨_, hC⟩ = algebraMap (ResidueField A) FSS
+        ((s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩)) := by
+  obtain ⟨hO, hmax⟩ := hSS_over s f hf hreg hs
+  have hCf : (IntermediateField.inclusion hle f : fieldBar q M') ∈ C.integers := by rw [hCint]; exact hO
+  refine ⟨hCf, ?_⟩
+  obtain ⟨a, ha⟩ := Ideal.Quotient.mk_surjective (I := maximalIdeal ↥A)
+    ((s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩))
+  have ha' : residue A a =
+      (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) := ha
+  obtain ⟨hsub, hmx⟩ := hmax a ha'
+  have haC : algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ C.integers :=
+    (C.algebraMap_mem_iff a).mpr a.2
+  have hsubC : (IntermediateField.inclusion hle f : fieldBar q M')
+      - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ C.integers :=
+    C.integers.toSubring.sub_mem hCf haC
+  have hmxC : (⟨_, hsubC⟩ : C.integers) ∈ maximalIdeal ↥C.integers :=
+    mem_maximalIdeal_of_valuationSubring_eq hCint.symm hsub hsubC hmx
+  rw [← C.ker_residue, RingHom.mem_ker] at hmxC
+  have hsplit : (⟨_, hsubC⟩ : C.integers) = ⟨_, hCf⟩ - ⟨_, haC⟩ := Subtype.ext rfl
+  rw [hsplit, map_sub, C.residue_algebraMap a, sub_eq_zero] at hmxC
+  rw [hmxC, ha']
+
+end ModularCurve.FullLevel.W1c.Pen
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end Inlined_w1_pen_LevelPin_pen
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+section Inlined_w1_W1c_spec
+
+set_option autoImplicit false
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel IsLocalRing CongruenceSubgroup"
+open scoped MatrixGroups
+
+noncomputable section
+
+namespace ModularCurve
+p2m_export "ModularCurve" "xHFunctionFieldC modularFunctionFieldBar qExpand jq jq_mem jqN_mem modularFunctionField_le_full coeffMap coeffEmb coeffEmb_mem_laurentBaseChange instDecidableEqResidueFieldSemistable instAlgebraResidueFieldModularFunctionFieldCSemistable modularFunctionFieldC ssPlaces jGeomGen jNGeomGen FullLevel.levelAutBar_mul FullLevel.comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace FullLevel
+p2m_export "ModularCurve.FullLevel" "lineInfty SemistableCovering levelH fieldBar Idx IsLevelAutBar levelAutBar redQ SemistableCovering.NaturalityClauses SemistableCovering.InducesOnChart SemistableCovering.LevelPinClauses levelAutBar_mul comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace W1c
+p2m_open "ModularCurve.FullLevel ModularCurve"
+
+section Spec
+
+variable (q : ℕ) [Fact q.Prime] (M' : ℕ) [NeZero M'] (A : ValuationSubring (AlgebraicClosure ℚ))
+
+set_option synthInstance.maxHeartbeats 1600000 in
+
+def LevelAuts : Subgroup ((fieldBar q M') ≃ₐ[(AlgebraicClosure ℚ)] (fieldBar q M')) :=
+  Subgroup.closure {τ | ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ}
+
+set_option synthInstance.maxHeartbeats 1600000 in
+theorem levelAutBar_mem_levelAuts (ζ : Idx q) {γ : SL(2, ℤ)} (hγ : γ ∈ Gamma0 M') :
+    levelAutBar q M' ζ γ ∈ LevelAuts q M' :=
+  Subgroup.subset_closure ⟨ζ, γ, hγ, rfl⟩
+
+end Spec
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+@[reducible] private def _root_.AlgebraicCurve.ComponentChart.toRegularProlongation
+    {L : Type*} [Field L] {A : ValuationSubring L} {F : Type*} [Field F] [Algebra L F]
+    {Fbar : Type*} [Field Fbar] [Algebra (ResidueField A) Fbar]
+    (C : ComponentChart A F Fbar) : RegularProlongation A F Fbar where
+  integers := C.integers
+  residue := C.residue
+  algebraMap_mem_iff := C.algebraMap_mem_iff
+  residue_surjective := C.residue_surjective
+  ker_residue := C.ker_residue
+  residue_algebraMap := C.residue_algebraMap
+  exists_smul_mem := C.exists_smul_mem
+
+p2m_alias "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.AlgebraicCurve.ComponentChart.toRegularProlongation" "AlgebraicCurve.ComponentChart.toRegularProlongation"
+end ModularCurve.FullLevel.W1c
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end Inlined_w1_W1c_spec
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+section Inlined_w1_pen_NatPlumbing_pen
+
+set_option autoImplicit false
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel IsLocalRing CongruenceSubgroup"
+open scoped MatrixGroups Pointwise
+
+attribute [local instance] ModularCurve.instDecidableEqResidueFieldSemistable
+  ModularCurve.instAlgebraResidueFieldModularFunctionFieldCSemistable
+
+noncomputable section
+
+namespace ModularCurve
+p2m_export "ModularCurve" "xHFunctionFieldC modularFunctionFieldBar qExpand jq jq_mem jqN_mem modularFunctionField_le_full coeffMap coeffEmb coeffEmb_mem_laurentBaseChange instDecidableEqResidueFieldSemistable instAlgebraResidueFieldModularFunctionFieldCSemistable modularFunctionFieldC ssPlaces jGeomGen jNGeomGen FullLevel.levelAutBar_mul FullLevel.comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace FullLevel
+p2m_export "ModularCurve.FullLevel" "lineInfty SemistableCovering levelH fieldBar Idx IsLevelAutBar levelAutBar redQ SemistableCovering.NaturalityClauses SemistableCovering.InducesOnChart SemistableCovering.LevelPinClauses levelAutBar_mul comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace W1c
+namespace Pen
+p2m_open "ModularCurve.FullLevel ModularCurve"
+
+theorem ofAlgAut_smul_place {K F : Type*} [Field K] [Field F] [Algebra K F] (φ : F ≃ₐ[K] F) (Q : Place K F) :
+    SemilinearAut.ofAlgAut φ • Q = φ • Q := by
+  ext1
+  rw [SemilinearAut.smul_toValuationSubring, Place.smul_toValuationSubring]
+  ext x
+  rw [ValuationSubring.mem_pointwise_smul_iff_inv_smul_mem, ValuationSubring.mem_pointwise_smul_iff_inv_smul_mem,
+    SemilinearAut.inv_smul_def, SemilinearAut.toRingAut_ofAlgAut, AlgEquiv.smul_def, AlgEquiv.aut_inv]
+  rfl
+
+set_option synthInstance.maxHeartbeats 1600000 in
+
+theorem chartClauses_of_discFamily_semilinear
+    {q : ℕ} [Fact q.Prime] {M' : ℕ} [NeZero M'] {A : ValuationSubring (AlgebraicClosure ℚ)}
+    {Fbar : Type} [Field Fbar] [Algebra (ResidueField A) Fbar]
+    (R : RegularProlongation A (fieldBar q M') Fbar) (N : Finset (Place (ResidueField A) Fbar))
+    (disc : Place (ResidueField A) Fbar → Set (Place (AlgebraicClosure ℚ) (fieldBar q M')))
+    (C : ComponentChart A (fieldBar q M') Fbar)
+    (hint : C.integers = R.integers)
+    (hres : ∀ (f : fieldBar q M') (hC : f ∈ C.integers) (hR : f ∈ R.integers), C.residue ⟨f, hC⟩ = R.residue ⟨f, hR⟩)
+    (hdom : ∀ P, P ∈ C.dom ↔ ∃ Q, Q ∉ N ∧ P ∈ disc Q)
+    (hpm : ∀ P Q, Q ∉ N → P ∈ disc Q → C.placeMap P = Q)
+    (g : SemilinearAut (AlgebraicClosure ℚ) (fieldBar q M'))
+    (hst : ∀ f : fieldBar q M', f ∈ R.integers ↔ g • f ∈ R.integers)
+    (φ : Fbar ≃ₐ[ResidueField A] Fbar)
+    (hφ : ∀ (f : fieldBar q M') (hf : f ∈ R.integers), R.residue ⟨g • f, (hst f).mp hf⟩ = φ (R.residue ⟨f, hf⟩))
+    (hN : ∀ Q, φ • Q ∈ N ↔ Q ∈ N)
+    (hD : ∀ Q, Q ∉ N → ∀ P, g • P ∈ disc (φ • Q) ↔ P ∈ disc Q) :
+    (∀ f : fieldBar q M', f ∈ C.integers ↔ g • f ∈ C.integers) ∧
+    (∀ P, P ∈ C.dom ↔ g • P ∈ C.dom) ∧
+    SemistableCovering.InducesOnChart C g φ.toRingEquiv ∧
+    (∀ P ∈ C.dom, C.placeMap (g • P) = SemilinearAut.ofAlgAut φ • C.placeMap P) := by
+  have h1 : ∀ f : fieldBar q M', f ∈ C.integers ↔ g • f ∈ C.integers := fun f => by
+    rw [hint]; exact hst f
+  have h2 : ∀ P, P ∈ C.dom ↔ g • P ∈ C.dom := fun P => by
+    rw [hdom, hdom]
+    constructor
+    · rintro ⟨Q, hQ, hP⟩
+      exact ⟨φ • Q, fun h => hQ ((hN Q).mp h), (hD Q hQ P).mpr hP⟩
+    · rintro ⟨Q', hQ', hP'⟩
+      refine ⟨φ⁻¹ • Q', fun h => hQ' ?_, (hD (φ⁻¹ • Q') (fun h => hQ' ?_) P).mp ?_⟩
+      · rwa [← hN, smul_inv_smul] at h
+      · rwa [← hN, smul_inv_smul] at h
+      · rwa [smul_inv_smul]
+  refine ⟨h1, h2, ⟨h1, fun f hf => ?_⟩, fun P hP => ?_⟩
+  · have hR : f ∈ R.integers := hint ▸ hf
+    rw [hres _ _ ((hst f).mp hR), hres _ hf hR, hφ f hR]
+    rfl
+  · obtain ⟨Q, hQ, hPQ⟩ := (hdom P).mp hP
+    rw [hpm P Q hQ hPQ, ofAlgAut_smul_place,
+      hpm (g • P) (φ • Q) (fun h => hQ ((hN Q).mp h)) ((hD Q hQ P).mpr hPQ)]
+
+set_option synthInstance.maxHeartbeats 1600000 in
+
+theorem naturality_b_of_discFamily
+    {q : ℕ} [Fact q.Prime] {M' : ℕ} [NeZero M'] {A : ValuationSubring (AlgebraicClosure ℚ)}
+    {FSS : Type} [Field FSS] [Algebra (ResidueField A) FSS]
+    (R : RegularProlongation A (fieldBar q M') FSS) (O : ValuationSubring (fieldBar q M')) (hRb : R.integers = O)
+    (hfix : ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → O.comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = O)
+    (xt : CuspidalType.ProjLine q → Place (ResidueField A) FSS)
+    (disc : Place (ResidueField A) FSS → Set (Place (AlgebraicClosure ℚ) (fieldBar q M')))
+    (hxt_stab : ∀ τ ∈ Subgroup.closure {τ | ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ},
+        ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ R.integers ↔ f ∈ R.integers)
+        (Q : Place (ResidueField A) FSS), R.resAut τ hτ • Q ∈ Set.range xt ↔ Q ∈ Set.range xt)
+    (hdisc_stab : ∀ τ ∈ Subgroup.closure {τ | ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ},
+        ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ R.integers ↔ f ∈ R.integers)
+        (Q : Place (ResidueField A) FSS), Q ∉ Set.range xt →
+          RegularProlongation.smulDisc τ (disc Q) = disc (R.resAut τ hτ • Q))
+    (C : ComponentChart A (fieldBar q M') FSS)
+    (hint : C.integers = R.integers)
+    (hres : ∀ (f : fieldBar q M') (hC : f ∈ C.integers) (hR : f ∈ R.integers), C.residue ⟨f, hC⟩ = R.residue ⟨f, hR⟩)
+    (hdom : ∀ P, P ∈ C.dom ↔ ∃ Q, Q ∉ Set.range xt ∧ P ∈ disc Q)
+    (hpm : ∀ P Q, Q ∉ Set.range xt → P ∈ disc Q → C.placeMap P = Q)
+    (ζ : Idx q) (γ : SL(2, ℤ)) (hγ : γ ∈ Gamma0 M') :
+    ∃ φ : FSS ≃ₐ[ResidueField A] FSS,
+      SemistableCovering.InducesOnChart C (SemilinearAut.ofAlgAut (levelAutBar q M' ζ γ⁻¹)) φ.toRingEquiv ∧
+      ∀ P ∈ C.dom, C.placeMap (SemilinearAut.ofAlgAut (levelAutBar q M' ζ γ⁻¹) • P) =
+        SemilinearAut.ofAlgAut φ • C.placeMap P := by
+  classical
+  set τ : (fieldBar q M') ≃ₐ[(AlgebraicClosure ℚ)] (fieldBar q M') := levelAutBar q M' ζ γ⁻¹ with hτdef
+  have hγ' : γ⁻¹ ∈ Gamma0 M' := Subgroup.inv_mem _ hγ
+  have hτmem : τ ∈ Subgroup.closure {τ | ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ} :=
+    Subgroup.subset_closure ⟨ζ, γ⁻¹, hγ', rfl⟩
+  have hτ : ∀ f : (fieldBar q M'), τ f ∈ R.integers ↔ f ∈ R.integers := fun f => by
+    have e := SetLike.ext_iff.mp (hfix ζ γ⁻¹ hγ') f
+    rw [hRb]
+    exact e
+  have hst : ∀ f : fieldBar q M', f ∈ R.integers ↔ SemilinearAut.ofAlgAut τ • f ∈ R.integers := fun f => by
+    rw [SemilinearAut.ofAlgAut_smul]; exact (hτ f).symm
+
+  let N : Finset (Place (ResidueField A) FSS) := (Set.finite_range xt).toFinset
+  have hN_iff : ∀ Q, Q ∈ N ↔ Q ∈ Set.range xt := fun Q => Set.Finite.mem_toFinset _
+  have hdom' : ∀ P, P ∈ C.dom ↔ ∃ Q, Q ∉ N ∧ P ∈ disc Q := fun P => by
+    rw [hdom]; simp only [hN_iff]
+  have hpm' : ∀ P Q, Q ∉ N → P ∈ disc Q → C.placeMap P = Q := fun P Q hQ hP =>
+    hpm P Q (fun h => hQ ((hN_iff Q).mpr h)) hP
+  have hφ : ∀ (f : fieldBar q M') (hf : f ∈ R.integers),
+      R.residue ⟨SemilinearAut.ofAlgAut τ • f, (hst f).mp hf⟩ = R.resAut τ hτ (R.residue ⟨f, hf⟩) := fun f hf => by
+    rw [RegularProlongation.resAut_residue]
+    rfl
+  have hN : ∀ Q, R.resAut τ hτ • Q ∈ N ↔ Q ∈ N := fun Q => by
+    rw [hN_iff, hN_iff]; exact hxt_stab τ hτmem hτ Q
+  have hD : ∀ Q, Q ∉ N → ∀ P, SemilinearAut.ofAlgAut τ • P ∈ disc (R.resAut τ hτ • Q) ↔ P ∈ disc Q := by
+    intro Q hQ P
+    rw [ofAlgAut_smul_place, ← hdisc_stab τ hτmem hτ Q (fun h => hQ ((hN_iff Q).mpr h)),
+      RegularProlongation.smul_mem_smulDisc_iff]
+  obtain ⟨-, -, hind, hplace⟩ :=
+    chartClauses_of_discFamily_semilinear R N disc C hint hres hdom' hpm' (SemilinearAut.ofAlgAut τ) hst
+      (R.resAut τ hτ) hφ hN hD
+  exact ⟨R.resAut τ hτ, hind, hplace⟩
+
+set_option synthInstance.maxHeartbeats 1600000 in
+set_option maxHeartbeats 1600000 in
+
+theorem naturality_c_of_discFamily
+    {q : ℕ} [Fact q.Prime] {M' : ℕ} [NeZero M'] {A : ValuationSubring (AlgebraicClosure ℚ)}
+    {Fbar : Type} [Field Fbar] [Algebra (ResidueField A) Fbar]
+    (R : RegularProlongation A (fieldBar q M') Fbar) (N : Finset (Place (ResidueField A) Fbar))
+    (disc : Place (ResidueField A) Fbar → Set (Place (AlgebraicClosure ℚ) (fieldBar q M')))
+    (S : Subgroup ((fieldBar q M') ≃ₐ[(AlgebraicClosure ℚ)] (fieldBar q M')))
+    (hNstab : ∀ τ ∈ S, ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ R.integers ↔ f ∈ R.integers)
+      (Q : Place (ResidueField A) Fbar), R.resAut τ hτ • Q ∈ N ↔ Q ∈ N)
+    (hdiscstab : ∀ τ ∈ S, ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ R.integers ↔ f ∈ R.integers)
+      (Q : Place (ResidueField A) Fbar), Q ∉ N → RegularProlongation.smulDisc τ (disc Q) = disc (R.resAut τ hτ • Q))
+    (C₀ : ComponentChart A (fieldBar q M') Fbar)
+    (hint : C₀.integers = R.integers)
+    (hres : ∀ (f : fieldBar q M') (hC : f ∈ C₀.integers) (hR : f ∈ R.integers), C₀.residue ⟨f, hC⟩ = R.residue ⟨f, hR⟩)
+    (hdom : ∀ P, P ∈ C₀.dom ↔ ∃ Q, Q ∉ N ∧ P ∈ disc Q)
+    (hpm : ∀ P Q, Q ∉ N → P ∈ disc Q → C₀.placeMap P = Q)
+    (σ : (fieldBar q M') ≃ₐ[(AlgebraicClosure ℚ)] (fieldBar q M')) (hσ : σ ∈ S)
+    (hσR : ∀ f : (fieldBar q M'), σ f ∈ R.integers ↔ f ∈ R.integers)
+    (τ : (fieldBar q M') ≃ₐ[(AlgebraicClosure ℚ)] (fieldBar q M')) (hτS : τ ∈ S)
+    (hind : SemistableCovering.InducesOnChart (C₀.comap σ) (SemilinearAut.ofAlgAut τ) (RingEquiv.refl _)) :
+    (∀ P, P ∈ (C₀.comap σ).dom ↔ SemilinearAut.ofAlgAut τ • P ∈ (C₀.comap σ).dom) ∧
+    (∀ P ∈ (C₀.comap σ).dom, (C₀.comap σ).placeMap (SemilinearAut.ofAlgAut τ • P) = (C₀.comap σ).placeMap P) := by
+  unfold SemistableCovering.InducesOnChart at hind
+  obtain ⟨hst, hresid⟩ := hind
+
+  set τ' : (fieldBar q M') ≃ₐ[(AlgebraicClosure ℚ)] (fieldBar q M') := σ * τ * σ⁻¹ with hτ'def
+  have hτ'S : τ' ∈ S := Subgroup.mul_mem _ (Subgroup.mul_mem _ hσ hτS) (Subgroup.inv_mem _ hσ)
+  have hτ'app : ∀ f : fieldBar q M', τ' f = σ (τ (σ⁻¹ f)) := fun f => rfl
+  have hmemC : ∀ f : fieldBar q M', σ⁻¹ f ∈ (C₀.comap σ).integers ↔ f ∈ R.integers := fun f => by
+    rw [ComponentChart.mem_comap_integers, ← AlgEquiv.mul_apply, mul_inv_cancel, AlgEquiv.one_apply, hint]
+  have hτ'R : ∀ f : (fieldBar q M'), τ' f ∈ R.integers ↔ f ∈ R.integers := fun f => by
+    have e := hst (σ⁻¹ f)
+    rw [SemilinearAut.ofAlgAut_smul, hmemC, ComponentChart.mem_comap_integers, hint] at e
+    rw [hτ'app]
+    exact e.symm
+  have hres' : ∀ (f : fieldBar q M') (hf : f ∈ R.integers),
+      R.residue ⟨τ' f, (hτ'R f).mpr hf⟩ = R.residue ⟨f, hf⟩ := by
+    intro f hf
+    have hf₀ : σ⁻¹ f ∈ (C₀.comap σ).integers := (hmemC f).mpr hf
+    have e := hresid (σ⁻¹ f) hf₀
+    rw [RingEquiv.refl_apply, ComponentChart.comap_residue_apply, ComponentChart.comap_residue_apply] at e
+
+    have h1 : σ (σ⁻¹ f) = f := by rw [← AlgEquiv.mul_apply, mul_inv_cancel, AlgEquiv.one_apply]
+    have hR1 : σ (SemilinearAut.ofAlgAut τ • σ⁻¹ f) ∈ R.integers := by
+      rw [SemilinearAut.ofAlgAut_smul, ← hτ'app]; exact (hτ'R f).mpr hf
+    have hR2 : σ (σ⁻¹ f) ∈ R.integers := by rw [h1]; exact hf
+    rw [hres _ _ hR1, hres _ _ hR2] at e
+    have e1 : R.residue ⟨τ' f, (hτ'R f).mpr hf⟩ = R.residue ⟨σ (SemilinearAut.ofAlgAut τ • σ⁻¹ f), hR1⟩ := by
+      congr 1
+    have e2 : R.residue ⟨f, hf⟩ = R.residue ⟨σ (σ⁻¹ f), hR2⟩ := by
+      congr 1; exact Subtype.ext h1.symm
+    exact e1.trans (e.trans e2.symm)
+  have hres1 : R.resAut τ' hτ'R = 1 := by
+    ext x
+    obtain ⟨f, rfl⟩ := R.residue_surjective x
+    rw [RegularProlongation.resAut_residue, AlgEquiv.one_apply]
+    exact hres' f f.2
+
+  have hst₀ : ∀ f : fieldBar q M', f ∈ R.integers ↔ SemilinearAut.ofAlgAut τ' • f ∈ R.integers := fun f => by
+    rw [SemilinearAut.ofAlgAut_smul]; exact (hτ'R f).symm
+  have hφ : ∀ (f : fieldBar q M') (hf : f ∈ R.integers),
+      R.residue ⟨SemilinearAut.ofAlgAut τ' • f, (hst₀ f).mp hf⟩ = R.resAut τ' hτ'R (R.residue ⟨f, hf⟩) := fun f hf => by
+    rw [RegularProlongation.resAut_residue]; rfl
+  have hD : ∀ Q, Q ∉ N → ∀ P, SemilinearAut.ofAlgAut τ' • P ∈ disc (R.resAut τ' hτ'R • Q) ↔ P ∈ disc Q := by
+    intro Q hQ P
+    rw [ofAlgAut_smul_place, ← hdiscstab τ' hτ'S hτ'R Q hQ, RegularProlongation.smul_mem_smulDisc_iff]
+  obtain ⟨-, hdom₀, -, hplace₀⟩ :=
+    chartClauses_of_discFamily_semilinear R N disc C₀ hint hres hdom hpm (SemilinearAut.ofAlgAut τ') hst₀
+      (R.resAut τ' hτ'R) hφ (hNstab τ' hτ'S hτ'R) hD
+  have hcomm : ∀ P : Place (AlgebraicClosure ℚ) (fieldBar q M'), σ • (τ • P) = τ' • (σ • P) := fun P => by
+    rw [hτ'def, mul_smul, mul_smul, inv_smul_smul]
+  refine ⟨fun P => ?_, fun P hP => ?_⟩
+  · rw [ComponentChart.mem_comap_dom, ComponentChart.mem_comap_dom, ofAlgAut_smul_place, hcomm, ← ofAlgAut_smul_place]
+    exact hdom₀ (σ • P)
+  · rw [ComponentChart.comap_placeMap, ComponentChart.comap_placeMap, ofAlgAut_smul_place, hcomm, ← ofAlgAut_smul_place,
+      hplace₀ (σ • P) hP, ofAlgAut_smul_place, hres1, one_smul]
+
+end ModularCurve.FullLevel.W1c.Pen
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end Inlined_w1_pen_NatPlumbing_pen
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+section Inlined_w1_pen_LevelStructure_pen
+
+set_option autoImplicit false
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel IsLocalRing CongruenceSubgroup"
+open scoped MatrixGroups
+
+noncomputable section
+
+namespace ModularCurve
+p2m_export "ModularCurve" "xHFunctionFieldC modularFunctionFieldBar qExpand jq jq_mem jqN_mem modularFunctionField_le_full coeffMap coeffEmb coeffEmb_mem_laurentBaseChange instDecidableEqResidueFieldSemistable instAlgebraResidueFieldModularFunctionFieldCSemistable modularFunctionFieldC ssPlaces jGeomGen jNGeomGen FullLevel.levelAutBar_mul FullLevel.comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace FullLevel
+p2m_export "ModularCurve.FullLevel" "lineInfty SemistableCovering levelH fieldBar Idx IsLevelAutBar levelAutBar redQ SemistableCovering.NaturalityClauses SemistableCovering.InducesOnChart SemistableCovering.LevelPinClauses levelAutBar_mul comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace W1c
+namespace Pen
+p2m_open "ModularCurve.FullLevel ModularCurve"
+
+theorem comap_trans_eq {L F : Type*} [Field L] [Field F] [Algebra L F] (O : ValuationSubring F) (e₁ e₂ : F ≃ₐ[L] F) :
+    O.comap (e₁.trans e₂).toAlgHom.toRingHom = (O.comap e₂.toAlgHom.toRingHom).comap e₁.toAlgHom.toRingHom := by
+  ext f
+  simp only [ValuationSubring.mem_comap]
+  rfl
+
+set_option synthInstance.maxHeartbeats 1600000 in
+
+theorem comap_levelAutBar_inv_eq_of_labelling
+    (q : ℕ) [Fact q.Prime] (hq : 5 ≤ q) (M' : ℕ) [NeZero M'] (hqM' : ¬ q ∣ M')
+    (A : ValuationSubring (AlgebraicClosure ℚ)) (hA : A.LiesOverPrime q) (ζ : Idx q)
+    (OIg : CuspidalType.ProjLine q → ValuationSubring (fieldBar q M'))
+    (hIg_inf : ∀ f : fieldBar q M', f ∈ OIg (lineInfty q) ↔
+      ∃ x y : LaurentSeries A, coeffMap (IsLocalRing.residue A) y ≠ 0 ∧
+        (f : LaurentSeries (AlgebraicClosure ℚ)) * coeffMap A.subtype y = coeffMap A.subtype x)
+    (hIg : ∀ ℓ, ∃ γ : SL(2, ℤ), γ ∈ Gamma0 M' ∧ redQ q γ • lineInfty q = ℓ ∧
+      OIg ℓ = (OIg (lineInfty q)).comap (levelAutBar q M' ζ γ).toAlgHom.toRingHom)
+    (γ : SL(2, ℤ)) (hγ : γ ∈ Gamma0 M') (ℓ : CuspidalType.ProjLine q) :
+    (OIg ℓ).comap (levelAutBar q M' ζ γ⁻¹).toAlgHom.toRingHom = OIg ((redQ q γ)⁻¹ • ℓ) := by
+  obtain ⟨γ₁, hγ₁, hℓ₁, e₁⟩ := hIg ℓ
+  obtain ⟨γ₂, hγ₂, hℓ₂, e₂⟩ := hIg ((redQ q γ)⁻¹ • ℓ)
+  have hγ' : γ⁻¹ ∈ Gamma0 M' := Subgroup.inv_mem _ hγ
+  set δ : SL(2, ℤ) := γ₂⁻¹ * (γ⁻¹ * γ₁) with hδdef
+  have hδ : δ ∈ Gamma0 M' := Subgroup.mul_mem _ (Subgroup.inv_mem _ hγ₂) (Subgroup.mul_mem _ hγ' hγ₁)
+  have hδfix : redQ q δ • lineInfty q = lineInfty q := by
+    rw [hδdef, map_mul, map_mul, map_inv, map_inv, mul_smul, mul_smul, hℓ₁, inv_smul_eq_iff, hℓ₂]
+  have key : γ⁻¹ * γ₁ = γ₂ * δ := by rw [hδdef, mul_inv_cancel_left]
+  have hB := comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq q hq M' hqM' A hA ζ (OIg (lineInfty q)) hIg_inf δ hδ hδfix
+  rw [e₁, ValuationSubring.comap_comap]
+  have hcomp : (levelAutBar q M' ζ γ₁).toAlgHom.toRingHom.comp (levelAutBar q M' ζ γ⁻¹).toAlgHom.toRingHom
+      = (levelAutBar q M' ζ (γ⁻¹ * γ₁)).toAlgHom.toRingHom := by
+    rw [levelAutBar_mul q M' hqM' ζ γ⁻¹ γ₁ hγ' hγ₁]
+    rfl
+  rw [hcomp, key, levelAutBar_mul q M' hqM' ζ γ₂ δ hγ₂ hδ, comap_trans_eq, hB, ← e₂]
+
+end ModularCurve.FullLevel.W1c.Pen
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end Inlined_w1_pen_LevelStructure_pen
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+section Inlined_MAIN
+
+set_option autoImplicit false
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel IsLocalRing CongruenceSubgroup"
+open scoped MatrixGroups
+
+attribute [local instance] ModularCurve.instDecidableEqResidueFieldSemistable
+  ModularCurve.instAlgebraResidueFieldModularFunctionFieldCSemistable
+
+noncomputable section
+
+namespace ModularCurve
+p2m_export "ModularCurve" "xHFunctionFieldC modularFunctionFieldBar qExpand jq jq_mem jqN_mem modularFunctionField_le_full coeffMap coeffEmb coeffEmb_mem_laurentBaseChange instDecidableEqResidueFieldSemistable instAlgebraResidueFieldModularFunctionFieldCSemistable modularFunctionFieldC ssPlaces jGeomGen jNGeomGen FullLevel.levelAutBar_mul FullLevel.comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace FullLevel
+p2m_export "ModularCurve.FullLevel" "lineInfty SemistableCovering levelH fieldBar Idx IsLevelAutBar levelAutBar redQ SemistableCovering.NaturalityClauses SemistableCovering.InducesOnChart SemistableCovering.LevelPinClauses levelAutBar_mul comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq"
+namespace W1c
+namespace Pen
+p2m_open "ModularCurve.FullLevel ModularCurve"
+
+set_option synthInstance.maxHeartbeats 1600000 in
+theorem ss_level_leaf_proof
+    (q : ℕ) [Fact q.Prime] (hq : 5 ≤ q) (M' : ℕ) [NeZero M'] (hqM' : ¬ q ∣ M')
+    (A : ValuationSubring (AlgebraicClosure ℚ)) (hA : A.LiesOverPrime q)
+    (W : Finset (Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')))
+    (hW : ∀ w, w ∈ W ↔ w ∈ ssPlaces q M' (ResidueField A))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (R₀ : ConstantReduction A ↥(modularFunctionFieldBar M') (modularFunctionFieldC (ResidueField A) M'))
+    (hR₀ : ∀ (y : LaurentSeries ↥A) (hy : coeffMap A.subtype y ∈ modularFunctionFieldBar M'),
+      ∃ h : (⟨coeffMap A.subtype y, hy⟩ : ↥(modularFunctionFieldBar M')) ∈ R₀.integers,
+        ((R₀.residue ⟨_, h⟩ : modularFunctionFieldC (ResidueField A) M') : LaurentSeries (ResidueField A)) =
+          coeffMap (IsLocalRing.residue ↥A) y)
+    (ζ : Idx q)
+    (OIg : CuspidalType.ProjLine q → ValuationSubring (fieldBar q M'))
+    (OSS : ↥W → ValuationSubring (fieldBar q M'))
+
+    (hIg_inf : ∀ f : fieldBar q M', f ∈ OIg (lineInfty q) ↔
+      ∃ x y : LaurentSeries A, coeffMap (IsLocalRing.residue A) y ≠ 0 ∧
+        (f : LaurentSeries (AlgebraicClosure ℚ)) * coeffMap A.subtype y = coeffMap A.subtype x)
+    (hIg : ∀ ℓ, ∃ γ : SL(2, ℤ), γ ∈ Gamma0 M' ∧ redQ q γ • lineInfty q = ℓ ∧
+      OIg ℓ = (OIg (lineInfty q)).comap (levelAutBar q M' ζ γ).toAlgHom.toRingHom)
+    (hIg_inj : Function.Injective OIg)
+    (hIg_perm : ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      ∃ σ : Equiv.Perm (CuspidalType.ProjLine q),
+        ∀ ℓ, (OIg ℓ).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OIg (σ ℓ))
+
+    (hSS_A : ∀ s (x : AlgebraicClosure ℚ), algebraMap (AlgebraicClosure ℚ) (fieldBar q M') x ∈ OSS s ↔ x ∈ A)
+    (hSS_over : ∀ (s : ↥W) (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+      (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+        0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+          coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+          ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+      (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+          (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+        (IntermediateField.inclusion hle f : fieldBar q M') ∈ OSS s ∧
+        ∀ a : A, residue A a =
+            (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+          ∃ h : (IntermediateField.inclusion hle f : fieldBar q M')
+              - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s,
+            (⟨_, h⟩ : OSS s) ∈ maximalIdeal (OSS s))
+    (hSS_fix : ∀ (s : ↥W) (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      (OSS s).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OSS s)
+
+    (hSS_tr : ∀ s : ↥W, ∃ t : fieldBar q M', t ∈ OSS s ∧ ∀ a : A,
+      ∃ h : t - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s, IsUnit (⟨_, h⟩ : OSS s))
+    (𝒞 : SemistableCovering q M' A W)
+    (RSS : ∀ s : ↥W, RegularProlongation A (fieldBar q M') (𝒞.FSS s))
+    (hRSS : ∀ s, (RSS s).integers = OSS s)
+    (hCSSint : ∀ s, (𝒞.CSS s).integers = (RSS s).integers)
+    (hCSSres : ∀ s (f : fieldBar q M') (hC : f ∈ (𝒞.CSS s).integers) (hR : f ∈ (RSS s).integers),
+      (𝒞.CSS s).residue ⟨f, hC⟩ = (RSS s).residue ⟨f, hR⟩)
+    (discS : ∀ s : ↥W, Place (ResidueField A) (𝒞.FSS s) → Set (Place (AlgebraicClosure ℚ) (fieldBar q M')))
+    (coordS : ∀ s : ↥W, Place (ResidueField A) (𝒞.FSS s) → (fieldBar q M'))
+    (hfamS : ∀ s, (RSS s).DiscFamily (𝒞.CSS s).nodes (discS s) (coordS s))
+    (htransS : ∀ s, (∀ g : SemilinearAut (AlgebraicClosure ℚ) ↥(fieldBar q M'),
+        (∀ x : AlgebraicClosure ℚ, SemilinearAut.baseAut g x ∈ A ↔ x ∈ A) →
+        (∀ x : ↥A, ∃ h : SemilinearAut.baseAut g (x : AlgebraicClosure ℚ) ∈ A, (⟨_, h⟩ : ↥A) - x ∈ maximalIdeal ↥A) →
+        g • (IntermediateField.inclusion hle (⟨coeffEmb (AlgebraicClosure ℚ) jq,
+            coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+            ↥(modularFunctionFieldBar M')) : ↥(fieldBar q M')) = (IntermediateField.inclusion hle (⟨coeffEmb (AlgebraicClosure ℚ) jq,
+            coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+            ↥(modularFunctionFieldBar M')) : ↥(fieldBar q M')) →
+        ∀ (hst : ∀ f : ↥(fieldBar q M'), f ∈ (RSS s).integers ↔ g • f ∈ (RSS s).integers)
+          (φ : (𝒞.FSS s) ≃ₐ[ResidueField A] (𝒞.FSS s)),
+        (∀ (f : ↥(fieldBar q M')) (hf : f ∈ (RSS s).integers), (RSS s).residue ⟨g • f, (hst f).mp hf⟩ = φ ((RSS s).residue ⟨f, hf⟩)) →
+        (∀ Q : Place (ResidueField A) (𝒞.FSS s), φ • Q ∈ Set.range (fun ℓ => 𝒞.xt ℓ s) ↔ Q ∈ Set.range (fun ℓ => 𝒞.xt ℓ s)) →
+        ∀ (Q : Place (ResidueField A) (𝒞.FSS s)), Q ∉ Set.range (fun ℓ => 𝒞.xt ℓ s) →
+          ∀ P : Place (AlgebraicClosure ℚ) ↥(fieldBar q M'), P ∈ discS s Q ↔ g • P ∈ discS s (φ • Q)))
+    (hdomS : ∀ s P, P ∈ (𝒞.CSS s).dom ↔ ∃ Q, Q ∉ (𝒞.CSS s).nodes ∧ P ∈ discS s Q)
+    (hpmS : ∀ s P Q, Q ∉ (𝒞.CSS s).nodes → P ∈ discS s Q → (𝒞.CSS s).placeMap P = Q)
+    (hpmS_off : ∀ s P P', P ∉ (𝒞.CSS s).dom → P' ∉ (𝒞.CSS s).dom → (𝒞.CSS s).placeMap P = (𝒞.CSS s).placeMap P')
+    (hNstabS : ∀ s, ∀ τ ∈ LevelAuts q M', ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ (RSS s).integers ↔ f ∈ (RSS s).integers)
+      (Q : Place (ResidueField A) (𝒞.FSS s)), (RSS s).resAut τ hτ • Q ∈ (𝒞.CSS s).nodes ↔ Q ∈ (𝒞.CSS s).nodes)
+    (hdiscstabS : ∀ s, ∀ τ ∈ LevelAuts q M', ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ (RSS s).integers ↔ f ∈ (RSS s).integers)
+      (Q : Place (ResidueField A) (𝒞.FSS s)), Q ∉ (𝒞.CSS s).nodes →
+        RegularProlongation.smulDisc τ (discS s Q) = discS s ((RSS s).resAut τ hτ • Q)) :
+    ∀ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → ∀ s,
+      let g := SemilinearAut.ofAlgAut (levelAutBar q M' ζ γ⁻¹)
+      ∃ φ : 𝒞.FSS s ≃ₐ[ResidueField A] 𝒞.FSS s, SemistableCovering.InducesOnChart (𝒞.CSS s) g φ.toRingEquiv ∧
+        ∀ P ∈ (𝒞.CSS s).dom, (𝒞.CSS s).placeMap (g • P) = SemilinearAut.ofAlgAut φ • (𝒞.CSS s).placeMap P := by
+  intro ζ' γ hγ s g
+  have hγ' : γ⁻¹ ∈ Gamma0 M' := Subgroup.inv_mem _ hγ
+  have hτmem : levelAutBar q M' ζ' γ⁻¹ ∈ LevelAuts q M' := levelAutBar_mem_levelAuts q M' ζ' hγ'
+  have hτ : ∀ f : (fieldBar q M'), levelAutBar q M' ζ' γ⁻¹ f ∈ (RSS s).integers ↔ f ∈ (RSS s).integers := fun f => by
+    have e := SetLike.ext_iff.mp (hSS_fix s ζ' γ⁻¹ hγ') f
+    rw [hRSS]
+    exact e
+  have hst : ∀ f : fieldBar q M', f ∈ (RSS s).integers ↔
+      SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹) • f ∈ (RSS s).integers := fun f => by
+    rw [SemilinearAut.ofAlgAut_smul]; exact (hτ f).symm
+  have hφ : ∀ (f : fieldBar q M') (hf : f ∈ (RSS s).integers),
+      (RSS s).residue ⟨SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹) • f, (hst f).mp hf⟩
+        = (RSS s).resAut (levelAutBar q M' ζ' γ⁻¹) hτ ((RSS s).residue ⟨f, hf⟩) := fun f hf => by
+    rw [RegularProlongation.resAut_residue]; rfl
+  have hD : ∀ Q, Q ∉ (𝒞.CSS s).nodes → ∀ P,
+      SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹) • P ∈ discS s ((RSS s).resAut (levelAutBar q M' ζ' γ⁻¹) hτ • Q)
+        ↔ P ∈ discS s Q := by
+    intro Q hQ P
+    rw [ofAlgAut_smul_place, ← hdiscstabS s _ hτmem hτ Q hQ, RegularProlongation.smul_mem_smulDisc_iff]
+  obtain ⟨-, -, hind, hplace⟩ :=
+    chartClauses_of_discFamily_semilinear (RSS s) (𝒞.CSS s).nodes (discS s) (𝒞.CSS s) (hCSSint s) (hCSSres s)
+      (hdomS s) (hpmS s) (SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹)) hst
+      ((RSS s).resAut (levelAutBar q M' ζ' γ⁻¹) hτ) hφ (hNstabS s _ hτmem hτ) hD
+  exact ⟨_, hind, hplace⟩
+
+set_option synthInstance.maxHeartbeats 1600000 in
+theorem nat_d_leaf_proof
+    (q : ℕ) [Fact q.Prime] (hq : 5 ≤ q) (M' : ℕ) [NeZero M'] (hqM' : ¬ q ∣ M')
+    (A : ValuationSubring (AlgebraicClosure ℚ)) (hA : A.LiesOverPrime q)
+    (W : Finset (Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')))
+    (hW : ∀ w, w ∈ W ↔ w ∈ ssPlaces q M' (ResidueField A))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (R₀ : ConstantReduction A ↥(modularFunctionFieldBar M') (modularFunctionFieldC (ResidueField A) M'))
+    (hR₀ : ∀ (y : LaurentSeries ↥A) (hy : coeffMap A.subtype y ∈ modularFunctionFieldBar M'),
+      ∃ h : (⟨coeffMap A.subtype y, hy⟩ : ↥(modularFunctionFieldBar M')) ∈ R₀.integers,
+        ((R₀.residue ⟨_, h⟩ : modularFunctionFieldC (ResidueField A) M') : LaurentSeries (ResidueField A)) =
+          coeffMap (IsLocalRing.residue ↥A) y)
+    (ζ : Idx q)
+    (OIg : CuspidalType.ProjLine q → ValuationSubring (fieldBar q M'))
+    (OSS : ↥W → ValuationSubring (fieldBar q M'))
+
+    (hIg_inf : ∀ f : fieldBar q M', f ∈ OIg (lineInfty q) ↔
+      ∃ x y : LaurentSeries A, coeffMap (IsLocalRing.residue A) y ≠ 0 ∧
+        (f : LaurentSeries (AlgebraicClosure ℚ)) * coeffMap A.subtype y = coeffMap A.subtype x)
+    (hIg : ∀ ℓ, ∃ γ : SL(2, ℤ), γ ∈ Gamma0 M' ∧ redQ q γ • lineInfty q = ℓ ∧
+      OIg ℓ = (OIg (lineInfty q)).comap (levelAutBar q M' ζ γ).toAlgHom.toRingHom)
+    (hIg_inj : Function.Injective OIg)
+    (hIg_perm : ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      ∃ σ : Equiv.Perm (CuspidalType.ProjLine q),
+        ∀ ℓ, (OIg ℓ).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OIg (σ ℓ))
+
+    (hSS_A : ∀ s (x : AlgebraicClosure ℚ), algebraMap (AlgebraicClosure ℚ) (fieldBar q M') x ∈ OSS s ↔ x ∈ A)
+    (hSS_over : ∀ (s : ↥W) (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+      (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+        0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+          coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+          ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+      (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+          (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+        (IntermediateField.inclusion hle f : fieldBar q M') ∈ OSS s ∧
+        ∀ a : A, residue A a =
+            (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+          ∃ h : (IntermediateField.inclusion hle f : fieldBar q M')
+              - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s,
+            (⟨_, h⟩ : OSS s) ∈ maximalIdeal (OSS s))
+    (hSS_fix : ∀ (s : ↥W) (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      (OSS s).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OSS s)
+
+    (hSS_tr : ∀ s : ↥W, ∃ t : fieldBar q M', t ∈ OSS s ∧ ∀ a : A,
+      ∃ h : t - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s, IsUnit (⟨_, h⟩ : OSS s))
+    (𝒞 : SemistableCovering q M' A W)
+    (hCIg : ∀ ℓ, (𝒞.CIg ℓ).integers = OIg ℓ)
+    (hcan : ∀ ℓ, ∀ τ ∈ LevelAuts q M', ((𝒞.CIg ℓ).comap τ).integers = (𝒞.CIg ℓ).integers → ((𝒞.CIg ℓ).comap τ).dom = (𝒞.CIg ℓ).dom)
+    (hequiv : ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → ∀ σ : Equiv.Perm (CuspidalType.ProjLine q),
+      (∀ ℓ, (OIg ℓ).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OIg (σ ℓ)) →
+      ∀ ℓ s, ((𝒞.An ℓ s).comap (levelAutBar q M' ζ' γ)).dom = (𝒞.An (σ ℓ) s).dom ∧ (𝒞.An ℓ s).modulus = (𝒞.An (σ ℓ) s).modulus)
+    (hEquiv : 𝒞.EquivClauses) :
+    ∃ ζ₀ : Idx q, ∀ (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → ∀ ℓ,
+      ((𝒞.CIg ℓ).comap (levelAutBar q M' ζ₀ γ⁻¹)).integers = (𝒞.CIg ((redQ q γ)⁻¹ • ℓ)).integers ∧
+      ((𝒞.CIg ℓ).comap (levelAutBar q M' ζ₀ γ⁻¹)).dom = (𝒞.CIg ((redQ q γ)⁻¹ • ℓ)).dom ∧
+      ∀ s, ((𝒞.An ℓ s).comap (levelAutBar q M' ζ₀ γ⁻¹)).dom = (𝒞.An ((redQ q γ)⁻¹ • ℓ) s).dom := by
+  refine ⟨ζ, fun γ hγ ℓ => ?_⟩
+  have hγ' : γ⁻¹ ∈ Gamma0 M' := Subgroup.inv_mem _ hγ
+  obtain ⟨σ, hIgσ, -, hAnσ⟩ := hEquiv ζ γ⁻¹ hγ'
+  have key := comap_levelAutBar_inv_eq_of_labelling q hq M' hqM' A hA ζ OIg hIg_inf hIg γ hγ ℓ
+  have hint : ((𝒞.CIg ℓ).comap (levelAutBar q M' ζ γ⁻¹)).integers = OIg ((redQ q γ)⁻¹ • ℓ) := by
+    rw [← key]
+    ext f
+    rw [ComponentChart.mem_comap_integers, hCIg ℓ, ValuationSubring.mem_comap]
+    rfl
+  have hσℓ : σ ℓ = (redQ q γ)⁻¹ • ℓ := hIg_inj (by rw [← hCIg (σ ℓ), ← (hIgσ ℓ).1, hint])
+  refine ⟨by rw [hint, hCIg], by rw [(hIgσ ℓ).2, hσℓ], fun s => by rw [(hAnσ ℓ s).1, hσℓ]⟩
+
+set_option synthInstance.maxHeartbeats 1600000 in
+set_option maxHeartbeats 1600000 in
+theorem ig_unipotent_leaf_proof
+    (q : ℕ) [Fact q.Prime] (hq : 5 ≤ q) (M' : ℕ) [NeZero M'] (hqM' : ¬ q ∣ M')
+    (A : ValuationSubring (AlgebraicClosure ℚ)) (hA : A.LiesOverPrime q)
+    (W : Finset (Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')))
+    (hW : ∀ w, w ∈ W ↔ w ∈ ssPlaces q M' (ResidueField A))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (R₀ : ConstantReduction A ↥(modularFunctionFieldBar M') (modularFunctionFieldC (ResidueField A) M'))
+    (hR₀ : ∀ (y : LaurentSeries ↥A) (hy : coeffMap A.subtype y ∈ modularFunctionFieldBar M'),
+      ∃ h : (⟨coeffMap A.subtype y, hy⟩ : ↥(modularFunctionFieldBar M')) ∈ R₀.integers,
+        ((R₀.residue ⟨_, h⟩ : modularFunctionFieldC (ResidueField A) M') : LaurentSeries (ResidueField A)) =
+          coeffMap (IsLocalRing.residue ↥A) y)
+    (ζ : Idx q)
+    (OIg : CuspidalType.ProjLine q → ValuationSubring (fieldBar q M'))
+    (OSS : ↥W → ValuationSubring (fieldBar q M'))
+
+    (hIg_inf : ∀ f : fieldBar q M', f ∈ OIg (lineInfty q) ↔
+      ∃ x y : LaurentSeries A, coeffMap (IsLocalRing.residue A) y ≠ 0 ∧
+        (f : LaurentSeries (AlgebraicClosure ℚ)) * coeffMap A.subtype y = coeffMap A.subtype x)
+    (hIg : ∀ ℓ, ∃ γ : SL(2, ℤ), γ ∈ Gamma0 M' ∧ redQ q γ • lineInfty q = ℓ ∧
+      OIg ℓ = (OIg (lineInfty q)).comap (levelAutBar q M' ζ γ).toAlgHom.toRingHom)
+    (hIg_inj : Function.Injective OIg)
+    (hIg_perm : ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      ∃ σ : Equiv.Perm (CuspidalType.ProjLine q),
+        ∀ ℓ, (OIg ℓ).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OIg (σ ℓ))
+
+    (hSS_A : ∀ s (x : AlgebraicClosure ℚ), algebraMap (AlgebraicClosure ℚ) (fieldBar q M') x ∈ OSS s ↔ x ∈ A)
+    (hSS_over : ∀ (s : ↥W) (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+      (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+        0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+          coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+          ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+      (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+          (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+        (IntermediateField.inclusion hle f : fieldBar q M') ∈ OSS s ∧
+        ∀ a : A, residue A a =
+            (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+          ∃ h : (IntermediateField.inclusion hle f : fieldBar q M')
+              - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s,
+            (⟨_, h⟩ : OSS s) ∈ maximalIdeal (OSS s))
+    (hSS_fix : ∀ (s : ↥W) (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      (OSS s).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OSS s)
+
+    (hSS_tr : ∀ s : ↥W, ∃ t : fieldBar q M', t ∈ OSS s ∧ ∀ a : A,
+      ∃ h : t - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s, IsUnit (⟨_, h⟩ : OSS s))
+    (CIg : CuspidalType.ProjLine q → ComponentChart A (fieldBar q M') (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M')))
+    (Cinf : ComponentChart A (fieldBar q M') (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M')))
+    (RI : RegularProlongation A (fieldBar q M') (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M'))) (hRI : RI.integers = OIg (lineInfty q))
+    (hCinfint : Cinf.integers = RI.integers)
+    (hCinfres : ∀ (f : fieldBar q M') (hC : f ∈ Cinf.integers) (hR : f ∈ RI.integers), Cinf.residue ⟨f, hC⟩ = RI.residue ⟨f, hR⟩)
+    (NIg : Finset (Place (ResidueField A) (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M'))))
+    (discI : Place (ResidueField A) (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M')) → Set (Place (AlgebraicClosure ℚ) (fieldBar q M')))
+    (coordI : Place (ResidueField A) (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M')) → (fieldBar q M'))
+    (hnodesI : Cinf.nodes = NIg) (hfamI : RI.DiscFamily NIg discI coordI)
+    (SI : Place (ResidueField A) (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M')) → Subring (fieldBar q M'))
+    (χ₀I : ∀ Q : Place (ResidueField A) (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M')), ↥(SI Q) →+* ResidueField A)
+    (hstalkI : (∀ Q, Q ∉ NIg → (∀ f : ↥(SI Q), (f : fieldBar q M') ∈ RI.integers) ∧
+        ∀ P, P ∈ discI Q ↔ P.IsRational ∧
+          (∀ f : ↥(SI Q), (f : fieldBar q M') ∈ P.toValuationSubring ∧ P.evalAt (f : fieldBar q M') ∈ A) ∧
+          (∀ f : ↥(SI Q), A.valuation (P.evalAt (f : fieldBar q M')) < 1 ↔ χ₀I Q f = 0)))
+    (hdomI : ∀ P, P ∈ Cinf.dom ↔ ∃ Q, Q ∉ NIg ∧ P ∈ discI Q)
+    (hpmI : ∀ P Q, Q ∉ NIg → P ∈ discI Q → Cinf.placeMap P = Q)
+    (hpmI_off : ∀ P P', P ∉ Cinf.dom → P' ∉ Cinf.dom → Cinf.placeMap P = Cinf.placeMap P')
+    (hNstabI : ∀ τ ∈ LevelAuts q M', ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ RI.integers ↔ f ∈ RI.integers)
+      (Q : Place (ResidueField A) (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M'))), RI.resAut τ hτ • Q ∈ NIg ↔ Q ∈ NIg)
+    (hdiscstabI : ∀ τ ∈ LevelAuts q M', ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ RI.integers ↔ f ∈ RI.integers)
+      (Q : Place (ResidueField A) (xHFunctionFieldC (ResidueField A) (q ^ 2 * M') (levelH q M'))), Q ∉ NIg → RegularProlongation.smulDisc τ (discI Q) = discI (RI.resAut τ hτ • Q))
+    (g : CuspidalType.ProjLine q → ((fieldBar q M') ≃ₐ[(AlgebraicClosure ℚ)] (fieldBar q M')))
+    (hg : ∀ ℓ, g ℓ ∈ LevelAuts q M' ∧ ∃ γ : SL(2, ℤ), γ ∈ Gamma0 M' ∧ redQ q γ • lineInfty q = ℓ ∧ g ℓ = levelAutBar q M' ζ γ)
+    (hCIg_def : ∀ ℓ, CIg ℓ = Cinf.comap (g ℓ))
+
+    (huni : ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → (∃ t : ZMod q, redQ q γ = CuspidalType.unipotent q t) →
+      SemistableCovering.InducesOnChart (CIg (lineInfty q)) (SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹)) (RingEquiv.refl _)) :
+    ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → (∃ t : ZMod q, redQ q γ = CuspidalType.unipotent q t) →
+      (∀ P, P ∈ (CIg (lineInfty q)).dom ↔ SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹) • P ∈ (CIg (lineInfty q)).dom) ∧
+      SemistableCovering.InducesOnChart (CIg (lineInfty q)) (SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹)) (RingEquiv.refl _) ∧
+      (∀ P ∈ (CIg (lineInfty q)).dom,
+        (CIg (lineInfty q)).placeMap (SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹) • P) = (CIg (lineInfty q)).placeMap P) := by
+  intro ζ' γ hγ hu
+  obtain ⟨hgmem, γ₀, hγ₀, hγ₀fix, hgeq⟩ := hg (lineInfty q)
+  have hB : (OIg (lineInfty q)).comap (g (lineInfty q)).toAlgHom.toRingHom = OIg (lineInfty q) := by
+    rw [hgeq]
+    exact comap_levelAutBar_eq_of_redQ_smul_lineInfty_eq q hq M' hqM' A hA ζ (OIg (lineInfty q)) hIg_inf γ₀ hγ₀ hγ₀fix
+  have hσR : ∀ f : (fieldBar q M'), g (lineInfty q) f ∈ RI.integers ↔ f ∈ RI.integers := fun f => by
+    have e := SetLike.ext_iff.mp hB f
+    rw [hRI]
+    exact e
+  have hind := huni ζ' γ hγ hu
+  have hind' : SemistableCovering.InducesOnChart (Cinf.comap (g (lineInfty q)))
+      (SemilinearAut.ofAlgAut (levelAutBar q M' ζ' γ⁻¹)) (RingEquiv.refl _) := by
+    rw [← hCIg_def]; exact hind
+  have hτS : levelAutBar q M' ζ' γ⁻¹ ∈ LevelAuts q M' := levelAutBar_mem_levelAuts q M' ζ' (Subgroup.inv_mem _ hγ)
+  obtain ⟨hdom, hplace⟩ := naturality_c_of_discFamily RI NIg discI (LevelAuts q M') hNstabI hdiscstabI Cinf hCinfint hCinfres
+    hdomI hpmI (g (lineInfty q)) hgmem hσR (levelAutBar q M' ζ' γ⁻¹) hτS hind'
+  refine ⟨?_, hind, ?_⟩
+  · rw [hCIg_def]; exact hdom
+  · rw [hCIg_def]; exact hplace
+
+end ModularCurve.FullLevel.W1c.Pen
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+end Inlined_MAIN
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing.Idx P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel.W1c.Plumbing"
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve ModularCurve.FullLevel P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily.ModularCurve.FullLevel IsLocalRing CongruenceSubgroup"
+open scoped MatrixGroups
+
+attribute [local instance] ModularCurve.instDecidableEqResidueFieldSemistable
+  ModularCurve.instAlgebraResidueFieldModularFunctionFieldCSemistable
+
+set_option synthInstance.maxHeartbeats 1600000 in
+theorem solution
+    (q : ℕ) [Fact q.Prime] (hq : 5 ≤ q) (M' : ℕ) [NeZero M'] (hqM' : ¬ q ∣ M')
+    (A : ValuationSubring (AlgebraicClosure ℚ)) (hA : A.LiesOverPrime q)
+    (W : Finset (Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')))
+    (hW : ∀ w, w ∈ W ↔ w ∈ ssPlaces q M' (ResidueField A))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (R₀ : ConstantReduction A ↥(modularFunctionFieldBar M') (modularFunctionFieldC (ResidueField A) M'))
+    (hR₀ : ∀ (y : LaurentSeries ↥A) (hy : coeffMap A.subtype y ∈ modularFunctionFieldBar M'),
+      ∃ h : (⟨coeffMap A.subtype y, hy⟩ : ↥(modularFunctionFieldBar M')) ∈ R₀.integers,
+        ((R₀.residue ⟨_, h⟩ : modularFunctionFieldC (ResidueField A) M') : LaurentSeries (ResidueField A)) =
+          coeffMap (IsLocalRing.residue ↥A) y)
+    (ζ : Idx q)
+    (OIg : CuspidalType.ProjLine q → ValuationSubring (fieldBar q M'))
+    (OSS : ↥W → ValuationSubring (fieldBar q M'))
+
+    (hIg_inf : ∀ f : fieldBar q M', f ∈ OIg (lineInfty q) ↔
+      ∃ x y : LaurentSeries A, coeffMap (IsLocalRing.residue A) y ≠ 0 ∧
+        (f : LaurentSeries (AlgebraicClosure ℚ)) * coeffMap A.subtype y = coeffMap A.subtype x)
+    (hIg : ∀ ℓ, ∃ γ : SL(2, ℤ), γ ∈ Gamma0 M' ∧ redQ q γ • lineInfty q = ℓ ∧
+      OIg ℓ = (OIg (lineInfty q)).comap (levelAutBar q M' ζ γ).toAlgHom.toRingHom)
+    (hIg_inj : Function.Injective OIg)
+    (hIg_perm : ∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      ∃ σ : Equiv.Perm (CuspidalType.ProjLine q),
+        ∀ ℓ, (OIg ℓ).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OIg (σ ℓ))
+
+    (hSS_A : ∀ s (x : AlgebraicClosure ℚ), algebraMap (AlgebraicClosure ℚ) (fieldBar q M') x ∈ OSS s ↔ x ∈ A)
+    (hSS_over : ∀ (s : ↥W) (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+      (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+        0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+          coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+          ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+      (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+          (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+        (IntermediateField.inclusion hle f : fieldBar q M') ∈ OSS s ∧
+        ∀ a : A, residue A a =
+            (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+          ∃ h : (IntermediateField.inclusion hle f : fieldBar q M')
+              - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s,
+            (⟨_, h⟩ : OSS s) ∈ maximalIdeal (OSS s))
+    (hSS_fix : ∀ (s : ↥W) (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+      (OSS s).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = OSS s)
+
+    (hSS_tr : ∀ s : ↥W, ∃ t : fieldBar q M', t ∈ OSS s ∧ ∀ a : A,
+      ∃ h : t - algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (a : AlgebraicClosure ℚ) ∈ OSS s, IsUnit (⟨_, h⟩ : OSS s))
+    (𝒞 : SemistableCovering q M' A W)
+    (RSS : ∀ s : ↥W, RegularProlongation A (fieldBar q M') (𝒞.FSS s))
+    (hRSS : ∀ s, (RSS s).integers = OSS s)
+    (hCSSint : ∀ s, (𝒞.CSS s).integers = (RSS s).integers)
+    (hCSSres : ∀ s (f : fieldBar q M') (hC : f ∈ (𝒞.CSS s).integers) (hR : f ∈ (RSS s).integers),
+      (𝒞.CSS s).residue ⟨f, hC⟩ = (RSS s).residue ⟨f, hR⟩)
+    (discS : ∀ s : ↥W, Place (ResidueField A) (𝒞.FSS s) → Set (Place (AlgebraicClosure ℚ) (fieldBar q M')))
+    (coordS : ∀ s : ↥W, Place (ResidueField A) (𝒞.FSS s) → (fieldBar q M'))
+    (hfamS : ∀ s, (RSS s).DiscFamily (𝒞.CSS s).nodes (discS s) (coordS s))
+    (htransS : ∀ s, (∀ g : SemilinearAut (AlgebraicClosure ℚ) ↥(fieldBar q M'),
+        (∀ x : AlgebraicClosure ℚ, SemilinearAut.baseAut g x ∈ A ↔ x ∈ A) →
+        (∀ x : ↥A, ∃ h : SemilinearAut.baseAut g (x : AlgebraicClosure ℚ) ∈ A, (⟨_, h⟩ : ↥A) - x ∈ maximalIdeal ↥A) →
+        g • (IntermediateField.inclusion hle (⟨coeffEmb (AlgebraicClosure ℚ) jq,
+            coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+            ↥(modularFunctionFieldBar M')) : ↥(fieldBar q M')) = (IntermediateField.inclusion hle (⟨coeffEmb (AlgebraicClosure ℚ) jq,
+            coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+            ↥(modularFunctionFieldBar M')) : ↥(fieldBar q M')) →
+        ∀ (hst : ∀ f : ↥(fieldBar q M'), f ∈ (RSS s).integers ↔ g • f ∈ (RSS s).integers)
+          (φ : (𝒞.FSS s) ≃ₐ[ResidueField A] (𝒞.FSS s)),
+        (∀ (f : ↥(fieldBar q M')) (hf : f ∈ (RSS s).integers), (RSS s).residue ⟨g • f, (hst f).mp hf⟩ = φ ((RSS s).residue ⟨f, hf⟩)) →
+        (∀ Q : Place (ResidueField A) (𝒞.FSS s), φ • Q ∈ Set.range (fun ℓ => 𝒞.xt ℓ s) ↔ Q ∈ Set.range (fun ℓ => 𝒞.xt ℓ s)) →
+        ∀ (Q : Place (ResidueField A) (𝒞.FSS s)), Q ∉ Set.range (fun ℓ => 𝒞.xt ℓ s) →
+          ∀ P : Place (AlgebraicClosure ℚ) ↥(fieldBar q M'), P ∈ discS s Q ↔ g • P ∈ discS s (φ • Q)))
+    (hdomS : ∀ s P, P ∈ (𝒞.CSS s).dom ↔ ∃ Q, Q ∉ (𝒞.CSS s).nodes ∧ P ∈ discS s Q)
+    (hpmS : ∀ s P Q, Q ∉ (𝒞.CSS s).nodes → P ∈ discS s Q → (𝒞.CSS s).placeMap P = Q)
+    (hpmS_off : ∀ s P P', P ∉ (𝒞.CSS s).dom → P' ∉ (𝒞.CSS s).dom → (𝒞.CSS s).placeMap P = (𝒞.CSS s).placeMap P')
+    (hNstabS : ∀ s, ∀ τ ∈ (Subgroup.closure {τ : ↥(fieldBar q M') ≃ₐ[AlgebraicClosure ℚ] ↥(fieldBar q M') |
+          ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ}), ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ (RSS s).integers ↔ f ∈ (RSS s).integers)
+      (Q : Place (ResidueField A) (𝒞.FSS s)), (RSS s).resAut τ hτ • Q ∈ (𝒞.CSS s).nodes ↔ Q ∈ (𝒞.CSS s).nodes)
+    (hdiscstabS : ∀ s, ∀ τ ∈ (Subgroup.closure {τ : ↥(fieldBar q M') ≃ₐ[AlgebraicClosure ℚ] ↥(fieldBar q M') |
+          ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ}), ∀ (hτ : ∀ f : (fieldBar q M'), τ f ∈ (RSS s).integers ↔ f ∈ (RSS s).integers)
+      (Q : Place (ResidueField A) (𝒞.FSS s)), Q ∉ (𝒞.CSS s).nodes →
+        RegularProlongation.smulDisc τ (discS s Q) = discS s ((RSS s).resAut τ hτ • Q)) :
+    ∀ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → ∀ s,
+      let g := SemilinearAut.ofAlgAut (levelAutBar q M' ζ γ⁻¹)
+      ∃ φ : 𝒞.FSS s ≃ₐ[ResidueField A] 𝒞.FSS s, SemistableCovering.InducesOnChart (𝒞.CSS s) g φ.toRingEquiv ∧
+        ∀ P ∈ (𝒞.CSS s).dom, (𝒞.CSS s).placeMap (g • P) = SemilinearAut.ofAlgAut φ • (𝒞.CSS s).placeMap P  :=
+  ModularCurve.FullLevel.W1c.Pen.ss_level_leaf_proof q hq M' hqM' A hA W hW hle R₀ hR₀ ζ OIg OSS hIg_inf hIg hIg_inj hIg_perm hSS_A hSS_over hSS_fix hSS_tr 𝒞 RSS hRSS hCSSint hCSSres discS coordS hfamS htransS hdomS hpmS hpmS_off hNstabS hdiscstabS
+
+end S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily
+end P2MW
+export P2MW.S_ModularCurve_FullLevel_SemistableCovering_naturality_levelAut_supersingular_of_discFamily (solution)

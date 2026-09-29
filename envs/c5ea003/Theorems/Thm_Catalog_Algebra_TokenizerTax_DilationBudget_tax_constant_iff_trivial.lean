@@ -1,0 +1,80 @@
+-- Prove2me | Theorems.Thm_Catalog_Algebra_TokenizerTax_DilationBudget_tax_constant_iff_trivial
+-- name    : Catalog.Algebra.TokenizerTax.DilationBudget.tax_constant_iff_trivial
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-12T10:28:10.051651+00:00
+-- url     : https://prove2.me/theorems/e70974c9-8c3b-4d5c-a4e1-53dbd6373f7c
+-- title:
+--   P3 has no room.
+-- statement:
+--   **P3 has no room.**  The tax takes the same value at two contexts only if the language
+--   is free (`chi lam = 1`) or the baseline itself is unchanged between them.
+--
+--   ```lean
+--   theorem Catalog.Algebra.TokenizerTax.DilationBudget.tax_constant_iff_trivial{lam C₁ C₂ : ℝ} (hlam : 0 < lam) (hC₁ : 0 < C₁)
+--       (hC₂ : 0 < C₂) :
+--       D.langTax lam C₁ = D.langTax lam C₂ ↔ (D.chi lam = 1 ∨ D.B C₁ = D.B C₂) := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Algebra/TokenizerTaxDilation.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Algebra/TokenizerTaxDilation.lean#L108
+
+-- Thm stub generated from Algebra/TokenizerTaxDilation.lean
+import Mathlib
+import Definitions.Def_Algebra_TokenizerTaxDilation
+import Definitions.Def_Algebra_TokenizerTaxMultiplicative
+/-
+# The multiplicative law is model-independent: dilation budgets and their characters
+
+`Algebra.TokenizerTaxMultiplicative` proved the NET-88 multiplicative law inside one
+concrete family (the power-law recall model).  A critic is entitled to ask whether the
+law is an artefact of that family.  This file answers: **no** — the law follows from a
+single structural property, and a completely different micro-model (a continuum Zipf
+attention profile, whose retention curve is *computed here from an integral*, not
+postulated) satisfies the same property.
+
+## The structure
+
+A `DilationBudget` is a positive budget function `B` of the context length together with
+a factor `chi` describing how `B` responds to a dilation of the context:
+`B (u * C) = chi u * B C`.  A language shift acts precisely as such a dilation — German
+prose at context `C` is the reference workload at context `lam * C` — so every language
+tax is `(chi lam - 1) * B C`.
+
+* `DilationBudget.chi_mul`, `chi_one` — `chi` is *forced* to be a character of the
+  dilation monoid; multiplicativity is derived, not assumed.
+* `DilationBudget.tax_amplification` — the multiplicative law in its structural form:
+  `tax C₂ * B C₁ = tax C₁ * B C₂`.  Amplification of the tax = acceleration of the
+  baseline, in any model of the structure.
+* `DilationBudget.tax_constant_iff_trivial` — the tax is context-independent iff the
+  language is free or the baseline is dilation-invariant: P3 has no room.
+
+## Two models
+
+* `powerLawDilation` — the model of `Algebra.TokenizerTaxMultiplicative`, with character
+  `chi u = u ^ (b / a)`.
+* `zipfDilation` — a continuum Zipf attention profile `x ↦ x ^ (-s)` on `(0, C]` with
+  `s < 1`.  Here `zipf_retained_eq_ratio` *derives* the retention curve
+  `retained = (k / C) ^ (1 - s)` from the exact mass integrals, `zipf_gate_iff` shows the
+  gate is exactly `k ≥ τ ^ (1 - s)⁻¹ * C`, and the resulting budget is a dilation budget
+  with character `chi u = u`.
+
+Both models therefore obey `tax_amplification`; the `4×` amplification observed at
+ctx = 4096 is a structural, not a parametric, phenomenon.
+-/
+
+open Catalog.Algebra.TokenizerTax
+
+open Real intervalIntegral
+
+/-! ## Dilation budgets -/
+
+
+open DilationBudget
+
+variable (D : DilationBudget)
+
+theorem Catalog.Algebra.TokenizerTax.DilationBudget.tax_constant_iff_trivial{lam C₁ C₂ : ℝ} (hlam : 0 < lam) (hC₁ : 0 < C₁)
+    (hC₂ : 0 < C₂) :
+    D.langTax lam C₁ = D.langTax lam C₂ ↔ (D.chi lam = 1 ∨ D.B C₁ = D.B C₂) := by sorry

@@ -1,0 +1,268 @@
+-- Prove2me | solution 1 for tropicalBarronClass_max
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-11T08:27:03.192056+00:00
+-- url     : https://prove2.me/submissions/47bca340-e5bd-45f9-94f0-73cdb6126ab4
+
+-- Sol generated from Bridges/TropicalBarronDuality.lean
+import Mathlib
+import Definitions.Def_Bridges_TropicalBarronDuality
+/-
+Copyright (c) 2025 Harmonic. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+-/
+
+/-!
+# Tropical Barron Duality via Idempotent Choquet Features and Canonical Min-Plus Compression
+
+This file establishes a new approximation theory for tropical neural observables,
+analogous to classical Barron-space theory but genuinely idempotent: representation
+by extreme tropical features, compression by sparse max-plus dictionaries, and
+duality against witness/certificate functionals.
+
+## Mathematical Overview
+
+Classical Barron theory controls neural approximation by the variation of a representing
+measure in Fourier space. In the tropical (max-plus) world, the correct analog replaces
+Fourier mass with **extreme-feature idempotent variation**: the total weight needed to
+represent a function as a max-plus combination of affine features.
+
+Given a compact domain `X` and a family of "tropical features" `φ : Φ → X → ℝ`,
+a tropical observable `f : X → ℝ` admits a max-plus representation:
+
+  `f(x) ≈ sup_{φ ∈ Φ} (w(φ) + φ(x))`
+
+The **tropical Barron norm** measures the minimal total variation of weights needed
+for such representations.
+
+## Main Results
+
+### Theorem A: Finite-Feature Tropical Barron Representation
+* `exists_fin_tropical_barron_approx` — Functions in the tropical Barron class admit
+  finite max-plus approximation with variation control.
+
+### Theorem B: Compact Choquet Envelope Approximation
+* `compact_choquet_envelope_approx` — Continuous approximation by compact
+  feature families with capacity variation bounds.
+
+### Theorem C: Sparse Compression with Explicit Rate
+* `sparse_tropical_compression` — Threshold-based compression with controlled error.
+
+### Theorem D: Duality via Witness Certificates
+* `witness_lower_bound_on_variation` — Witness functionals provide lower bounds
+  on representation complexity.
+
+## Cross-Domain Connections
+
+- **Tropical geometry ↔ approximation theory**: Extreme-feature variation replaces
+  Fourier mass as the complexity measure.
+- **Choquet theory ↔ deep learning**: Extreme points of tropical feature hulls become
+  atoms of neural layers.
+- **Convex duality ↔ proof compression**: Witness certificates detecting irreducible
+  feature mass certify lower bounds for both network and proof compression.
+- **Idempotent analysis ↔ optimal control**: The representation
+  `f(x) = sup_φ (μ(φ) + φ(x))` mirrors value-function envelopes in max-plus control.
+-/
+
+noncomputable section
+
+open scoped NNReal Topology
+open Set Filter Finset Real
+
+/-! ## I. Core Structures: Tropical Features and Max-Plus Envelopes -/
+
+
+open TropicalFeatureFamily
+
+variable {X : Type*} [TopologicalSpace X] {n : ℕ}
+
+
+
+
+
+
+
+
+/-! ## II. Fundamental Lemmas -/
+
+/-
+Tropical variation is nonneg
+-/
+
+/-
+Tropical variation of the zero vector is zero
+-/
+
+/-
+Tropical variation is subadditive
+-/
+
+/-
+Tropical variation scales: `TV(c • a) = |c| * TV(a)`
+-/
+
+/-
+Max-plus envelope with zero weights
+-/
+
+/-
+Max-plus envelope is monotone in weights
+-/
+
+/-
+Shifting all weights by `c` shifts the envelope by `c`
+-/
+
+/-
+Max-plus envelope of a single feature
+-/
+
+/-
+Max-plus envelope is 1-Lipschitz in weights (sup-norm)
+-/
+
+/-! ## III. Theorem A: Finite-Feature Tropical Barron Representation -/
+
+/-
+**Theorem A.** If `f` is in the tropical Barron class for feature family `Φ`,
+    then for every `ε > 0`, there exists a weight vector achieving ε-approximation
+    with controlled tropical variation.
+
+    This is the finite tropical analog of atomic Barron representation.
+-/
+
+/-! ## IV. Sparse Compression -/
+
+
+/-
+The sparse approximation has controlled support size
+-/
+
+/-
+Tropical variation of the sparse approximation ≤ original
+-/
+
+/-
+The discarded weights have small total variation
+-/
+
+/-
+**Theorem C (Sparse Tropical Compression).**
+    Given an exact max-plus representation with `n` features, threshold-based
+    compression produces a sparse representation with controlled error.
+
+    The error is at most `n * threshold`, and the support size is at most `n`.
+    Optimizing: choosing `threshold = V/N` gives error `n * V / N` where
+    V = tropicalVariation(a).
+-/
+
+/-! ## V. Greedy Compression -/
+
+/-
+A greedy step: the feature with largest absolute weight
+-/
+
+/-! ## VI. Theorem D: Duality via Witness Certificates -/
+
+
+/-
+**Theorem D (Witness Lower Bound on Variation).**
+    For any two test points, the oscillation of `f` between them is controlled
+    by the max absolute weight times 2, plus the feature oscillation, plus 2ε.
+
+    This gives a lower bound: any ε-approximation must have max weight at least
+    `(|f(x₁) - f(x₂)| - maxFeatureOsc - 2ε) / 2`.
+-/
+
+/-
+**Witness lower bound on total variation.**
+    Any ε-approximation must have total variation at least as large as the
+    best single-feature approximation error minus ε.
+-/
+
+/-! ## VII. Tropical Barron Norm Properties -/
+
+/-
+The Barron norm is nonincreasing in ε, provided the Barron class at ε₁ is nonempty.
+    (When the infimum set is empty, `sInf ∅ = 0` by convention, which
+    breaks monotonicity.)
+-/
+
+/-! ## VIII. Compact Feature Space: Choquet Envelope -/
+
+
+variable {X Φ : Type*}
+  [TopologicalSpace X] [CompactSpace X]
+  [TopologicalSpace Φ] [CompactSpace Φ]
+
+/-
+Each feature in a compact system is continuous
+-/
+
+/-
+The evaluation is bounded on the compact product
+-/
+
+
+
+
+/-
+Total variation of an atomic capacity is nonneg
+-/
+
+/-
+**Theorem B (Compact Choquet Envelope Approximation).**
+    Given a finite ε-approximation by features from a compact system,
+    there exists an atomic capacity achieving the same approximation
+    with controlled total variation.
+-/
+
+/-! ## IX. Closure Properties of the Tropical Barron Class -/
+
+
+
+/-
+The Barron class is closed under `max`
+-/
+
+/-
+The Barron class is closed under translation (requires at least one feature,
+    since for `n = 0` the max-plus envelope is always `0` and cannot represent
+    nonzero constants).
+-/
+
+/-
+Every single feature is in the Barron class
+-/
+
+/-
+Every max-plus envelope is in the Barron class of its feature family
+-/
+
+
+theorem solution    {X : Type*} [TopologicalSpace X] [CompactSpace X]
+    {n : ℕ}
+    (Φ : TropicalFeatureFamily X n)
+    (f g : X → ℝ)
+    (hf : InTropicalBarronClass Φ f)
+    (hg : InTropicalBarronClass Φ g) :
+    InTropicalBarronClass Φ (tropicalMax f g) := by
+  -- Given ε > 0, obtain a_f and a_g from hf(ε/2) and hg(ε/2).
+  intro ε hεpos
+  obtain ⟨a_f, ha_f⟩ := hf (ε / 2) (half_pos hεpos)
+  obtain ⟨a_g, ha_g⟩ := hg (ε / 2) (half_pos hεpos);
+  refine' ⟨ fun i => Max.max ( a_f i ) ( a_g i ), fun x => _ ⟩;
+  -- By definition of maxPlusEnvelope, we have:
+  have h_maxPlusEnvelope : maxPlusEnvelope (fun i => max (a_f i) (a_g i)) Φ x = max (maxPlusEnvelope a_f Φ x) (maxPlusEnvelope a_g Φ x) := by
+    unfold maxPlusEnvelope;
+    split_ifs <;> simp +decide [ *, Finset.sup'_eq_sup, Finset.sup_union ];
+    refine' le_antisymm _ _ <;> simp +decide [ Finset.sup'_le_iff ];
+    · -- By definition of max, we know that for any $i$, $\max(a_f i, a_g i) + \Phi.eval i x \leq \max(a_f b + \Phi.eval b x, a_g b + \Phi.eval b x)$ for some $b$.
+      obtain ⟨b, hb⟩ : ∃ b : Fin n, ∀ i : Fin n, max (a_f i) (a_g i) + Φ.eval i x ≤ max (a_f b) (a_g b) + Φ.eval b x := by
+        simpa using Finset.exists_max_image Finset.univ ( fun i => max ( a_f i ) ( a_g i ) + Φ.eval i x ) ⟨ ⟨ 0, by linarith ⟩, Finset.mem_univ _ ⟩;
+      cases max_cases ( a_f b ) ( a_g b ) <;> [ left; right ] <;> exact ⟨ b, fun i => by linarith [ hb i ] ⟩;
+    · -- Let $b$ be the index where the maximum of $a_f$ and $a_g$ is achieved.
+      obtain ⟨b, hb⟩ : ∃ b : Fin n, ∀ i : Fin n, max (a_f i) (a_g i) + Φ.eval i x ≤ max (a_f b) (a_g b) + Φ.eval b x := by
+        simpa using Finset.exists_max_image Finset.univ ( fun i => max ( a_f i ) ( a_g i ) + Φ.eval i x ) ⟨ ⟨ 0, by linarith ⟩, Finset.mem_univ _ ⟩;
+      exact ⟨ b, fun i => by cases max_cases ( a_f i ) ( a_g i ) <;> cases max_cases ( a_f b ) ( a_g b ) <;> linarith [ hb i ], fun i => by cases max_cases ( a_f i ) ( a_g i ) <;> cases max_cases ( a_f b ) ( a_g b ) <;> linarith [ hb i ] ⟩;
+  unfold tropicalMax; cases max_cases ( f x ) ( g x ) <;> cases max_cases ( maxPlusEnvelope a_f Φ x ) ( maxPlusEnvelope a_g Φ x ) <;> exact abs_le.mpr ⟨ by linarith [ abs_le.mp ( ha_f x ), abs_le.mp ( ha_g x ) ], by linarith [ abs_le.mp ( ha_f x ), abs_le.mp ( ha_g x ) ] ⟩ ;

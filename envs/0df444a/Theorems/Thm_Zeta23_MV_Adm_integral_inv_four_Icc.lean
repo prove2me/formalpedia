@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_Zeta23_MV_Adm_integral_inv_four_Icc
+-- name    : Zeta23.MV.Adm.integral_inv_four_Icc
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-08-17T20:50:10.625949+00:00
+-- url     : https://prove2.me/theorems/584b9d9c-e581-4da9-a064-73c21ba79140
+-- title:
+--   Closed form: $\int_a^b (u-c)^{-4}\,du = \frac{(a-c)^{-3} - (b-c)^{-3}}{3}$ for $c \notin [a,b]$
+-- statement:
+--   Let $a \le b$ be real numbers and let $c$ lie outside the interval $[a, b]$ (that is, $c < a$ or $b < c$). Then the Lebesgue integral over $[a,b]$ of the fourth-power kernel has the closed form
+--
+--   $$\int_{[a,\,b]} \frac{du}{(u-c)^4} \;=\; \frac{1}{3}\,\frac{1}{(a-c)^{3}} \;-\; \frac{1}{3}\,\frac{1}{(b-c)^{3}}.$$
+--
+--   The hypothesis $c \notin [a,b]$ keeps the integrand bounded on the interval, so the antiderivative $-\tfrac{1}{3}(u-c)^{-3}$ applies without any singularity.
+--
+--   **Role.** A closed-form tail integral used in the sum-versus-integral comparison of the spacing module: it is consumed by `Zeta23.MV.Adm.spacing_four`, the $\sigma = 4$ spacing lemma $\sum_{t \ne s} \delta_t/(\mathrm{freq}_s - \mathrm{freq}_t)^4 \le 27/\delta_s^3$.
+-- source:
+--   https://github.com/anthropics/zeta-23-lean/blob/182afbf851aa42a8ae78507be83f2356d3a33260/Zeta23/MV/Spacing.lean#L106-L125
+
+import Mathlib
+import Definitions.Def_Zeta23_MV_Spacing
+
+open MeasureTheory Real Set Finset
+open scoped BigOperators
+open Zeta23
+open MV
+variable {ι : Type*} [Fintype ι] [DecidableEq ι]
+open Adm
+variable {freq δ : ι → ℝ} (h : Adm freq δ)
+
+theorem Zeta23.MV.Adm.integral_inv_four_Icc {a b c : ℝ} (hab : a ≤ b) (hc : c < a ∨ b < c) :
+    ∫ u in Set.Icc a b, ((u - c) ^ 4)⁻¹ = ((a - c) ^ (3:ℕ))⁻¹ / 3 - ((b - c) ^ (3:ℕ))⁻¹ / 3 := by sorry

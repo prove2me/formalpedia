@@ -1,0 +1,80 @@
+-- Prove2me | Theorems.Thm_LagrangeExponent_cbrt_neg
+-- name    : LagrangeExponent.cbrt_neg
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-11T16:06:17.837952+00:00
+-- url     : https://prove2.me/theorems/71c4786f-97b5-4c99-a6b9-5a5b641d4033
+-- title:
+--   Cbrt neg
+-- statement:
+--   Formal statement of `LagrangeExponent.cbrt_neg` from the Aether Catalog (Novelty). The mathematical content is given by the Lean statement below; a human-readable write-up is pending.
+--
+--   ```lean
+--   theorem LagrangeExponent.cbrt_neg(x : ℝ) : cbrt (-x) = -cbrt x := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Novelty/LagrangeExponentCore.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Novelty/LagrangeExponentCore.lean#L96
+
+-- Thm stub generated from Novelty/LagrangeExponentCore.lean
+import Mathlib
+import Definitions.Def_Novelty_LagrangeExponentCore
+/-
+# The Lagrange Exponent `σ`: signed cube roots and the critical cubic
+
+This file sets up the object studied in `Novelty.LagrangeExponentConcavity`.
+
+## The model
+
+Fix a three–slot branching mechanism whose *growth rate* `y` is tied to the total
+mass `t` through the **critical cubic**
+
+  `lagrangeCubic y = y ^ 3 - y ^ 2 + y / 3 = t`.
+
+This is the unique (up to affine normalisation) monic cubic whose derivative is a
+perfect square, `h' y = 3 (y - 1/3) ^ 2 ≥ 0`: the three roots of the resolvent
+coalesce at the single critical point `y = 1/3`.  Consequently `h` is a strictly
+monotone bijection of `ℝ`, and Lagrange's resolvent method degenerates to a single
+real radical:
+
+  `lagrangeCubic y = ((3 y - 1) ^ 3 + 1) / 27`,
+
+so its inverse — the **Lagrange exponent** — is
+
+  `σ t = (1 + ∛(27 t - 1)) / 3`.
+
+The critical value `h (1/3) = 1/27` is therefore *canonically* attached to the
+mechanism, not chosen by hand; it is exactly the mass at which the growth rate
+passes the degenerate critical point.  It is also, by AM–GM, the largest possible
+product of a three–point mass distribution (see `Novelty.LagrangeExponentConcavity`).
+
+## Contents
+
+* `cbrt` — the odd (sign–aware) real cube root, with `cbrt_cube`, `cbrt_strictMono`.
+* `lagrangeCubic`, `lagrangeCubic_eq_shift`, `lagrangeCubic_strictMono`.
+* `lagrangeExponent`, and the two inversion theorems
+  `lagrangeExponent_lagrangeCubic` / `lagrangeCubic_lagrangeExponent`,
+  giving `σ = h⁻¹` as an order isomorphism of `ℝ`.
+-/
+
+open LagrangeExponent
+
+open Set
+
+/-! ## The odd real cube root -/
+
+
+
+
+
+
+
+
+
+
+
+
+@[simp]
+
+theorem LagrangeExponent.cbrt_neg(x : ℝ) : cbrt (-x) = -cbrt x := by sorry

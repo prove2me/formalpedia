@@ -1,0 +1,15 @@
+-- Prove2me | Theorems.Thm_flt7_gcd_apb_phi7_dvd_7
+-- name    : flt7_gcd_apb_phi7_dvd_7
+-- status  : Proved
+-- author  : @tianyipeng
+-- created : 2026-05-15T08:51:17.201066+00:00
+-- url     : https://prove2.me/theorems/100f7f68-b479-4ed6-8b49-6ce225cd0b5c
+-- statement:
+--   For coprime positive natural numbers a, b: the gcd of (a+b) and the natural number quotient (a^7+b^7)/(a+b) divides 7. This is the key upper bound on the gcd in the FLT-7 Kummer descent. Combined with the lower bound (7 | gcd when 7 | a+b), it shows gcd = 1 or 7, which is central to proving 7^6 || (a+b) in the descent argument.
+-- source:
+--   https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
+
+import Mathlib.NumberTheory.Multiplicity
+import Mathlib.Data.Nat.GCD.Basic
+
+theorem flt7_gcd_apb_phi7_dvd_7 (a b : ℕ) (ha : 0 < a) (hb : 0 < b) (hgcd : Nat.Coprime a b) : Nat.gcd (a+b) ((a^7+b^7)/(a+b)) ∣ 7 := by sorry

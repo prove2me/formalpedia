@@ -1,0 +1,89 @@
+-- Prove2me | Theorems.Thm_harmonic_eq_const_cert
+-- name    : harmonic_eq_const_cert
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-11T00:33:26.889148+00:00
+-- url     : https://prove2.me/theorems/5828fc3b-4244-4a53-a7f1-4ad3d39a4f17
+-- title:
+--   Maximum Principle: harmonic functions on connected Cayley graphs are constant.
+-- statement:
+--   **Maximum Principle**: harmonic functions on connected Cayley graphs are constant.
+--
+--   ```lean
+--   theorem harmonic_eq_const_cert{G : Type*} [Group G] [Fintype G] [DecidableEq G]
+--       (S : Finset G) (hS : S.Nonempty)
+--       (_hsym : ∀ s ∈ S, s⁻¹ ∈ S)
+--       (hgen : Subgroup.closure (↑S : Set G) = ⊤)
+--       (f : G → ℝ) (hf : IsHarmonicAS S f) :
+--       ∃ c : ℝ, ∀ x : G, f x = c := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Bridges/HilbertSpace/AlgorithmicSpectralCertification.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Bridges/HilbertSpace/AlgorithmicSpectralCertification.lean#L173
+
+-- Thm stub generated from Bridges/HilbertSpace/AlgorithmicSpectralCertification.lean
+import Mathlib
+import Definitions.Def_Bridges_HilbertSpace_AlgorithmicSpectralCertification
+/-
+Copyright (c) 2025 Harmonic. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+
+# Algorithmic Spectral Certification for Cayley Graphs
+
+This file develops a theory of **algorithmically certifiable spectral expansion**
+for Cayley graphs of finite groups, with focus on `GL₂(𝔽_q)`.
+
+The central paradigm is **expansion by local algebraic witnesses**: sparse
+algebraic fingerprints — generation, irreducibility, determinant primitivity —
+are efficiently checkable and certify spectral gap.
+
+## Main results
+
+* `algorithmic_certificate_sound_qualitative`: Soundness — certificate data
+  implies no nontrivial harmonic mean-zero functions (spectral gap > 0).
+* `certificate_components_decidable`: Decidability of certificate predicates.
+* `generation_implies_harmonic_triviality`: Generation ⟹ spectral gap.
+* `l2_mixing_decay_certified`: Cross-domain bridge — contraction ⟹ mixing.
+* `irred_charpoly_not_split_torus`: Algebraic fingerprint theorem.
+* `primitive_det_surjective_image`: Determinant primitivity theorem.
+* `avgOperator_norm_le_one_cert`: L² operator norm bound ≤ 1.
+* `master_certificate_pipeline`: Master theorem chaining the full pipeline.
+
+## References
+
+* Lubotzky (1994). Discrete Groups, Expanding Graphs and Invariant Measures.
+* Hoory, Linial, Wigderson (2006). Expander Graphs and their Applications.
+* Bourgain, Gamburd (2008). Uniform expansion bounds for Cayley graphs of SL₂(𝔽_p).
+-/
+
+
+open Finset BigOperators
+
+/-! ## Section 1: Core Definitions -/
+
+
+
+
+
+
+
+/-! ## Section 2: Spectral Certificate Data -/
+
+
+
+
+
+/-! ## Section 3: Symmetric Generator Properties -/
+
+
+
+
+/-! ## Section 4: Maximum Principle -/
+
+theorem harmonic_eq_const_cert{G : Type*} [Group G] [Fintype G] [DecidableEq G]
+    (S : Finset G) (hS : S.Nonempty)
+    (_hsym : ∀ s ∈ S, s⁻¹ ∈ S)
+    (hgen : Subgroup.closure (↑S : Set G) = ⊤)
+    (f : G → ℝ) (hf : IsHarmonicAS S f) :
+    ∃ c : ℝ, ∀ x : G, f x = c := by sorry

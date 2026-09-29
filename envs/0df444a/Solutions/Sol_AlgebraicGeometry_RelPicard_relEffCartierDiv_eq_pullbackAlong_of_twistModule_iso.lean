@@ -1,0 +1,439 @@
+-- Prove2me | solution 1 for AlgebraicGeometry.RelPicard.relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:03.589526+00:00
+-- url     : https://prove2.me/submissions/985bbfa4-27f3-57fd-86a9-a38a48cc8d2e
+
+import Mathlib
+import Definitions.Def_AlgebraicGeometry_RelativePicardFunctor
+import Definitions.Def_AlgebraicGeometry_RelPicardAlgEquivZeroCut
+import Definitions.Def_AlgebraicGeometry_RelPicardThetaBundle
+import Definitions.Def_AlgebraicGeometry_SmoothProperCurveFiniteMapData
+import Definitions.Def_AlgebraicGeometry_TwoAffineOpenCover
+import Definitions.Def_AlgebraicGeometry_TwoChartCechSectionsOf
+import Definitions.Def_AlgebraicGeometry_RelEffCartierDiv
+import Definitions.Def_AlgebraicGeometry_RelEffCartierDivTwist2
+import Definitions.Def_AlgebraicGeometry_IdealSheafModule
+import Definitions.Def_SheafOfModules_Monoidal
+import Definitions.Def_AlgebraicGeometry_RigidifiedLineBundleOfInvertible
+import Definitions.Def_AlgebraicGeometry_ModulesPullbackMonoidal
+import Definitions.Def_AlgebraicGeometry_IdealSheafModuleMaps
+import Definitions.Def_AlgebraicGeometry_ModulesRigidify
+import Theorems.Thm_AlgebraicGeometry_RelPicard_relEffCartierDiv_I_eq_of_lineBundle_iso_tensor_pullback_of_forall_fibre
+import Theorems.Thm_AlgebraicGeometry_RelPicard_finrank_H0_fibre_eq_one_of_subsingleton_H1
+import Theorems.Thm_AlgebraicGeometry_Scheme_TwoAffineOpenCover_exists_linearEquiv_sectionsOf_of_iso
+import Theorems.Thm_AlgebraicGeometry_RelPicard_nonempty_pullback_sectionTwist_iso
+import Theorems.Thm_AlgebraicGeometry_Scheme_IdealSheafData_IsInvertible_isIso_pullbackModuleComparison
+import Theorems.Thm_AlgebraicGeometry_Scheme_Hom_isInvertible_ker_of_comp_eq_id
+import Theorems.Thm_AlgebraicGeometry_Scheme_IdealSheafData_IsInvertible_pow
+import Theorems.Thm_AlgebraicGeometry_Scheme_IdealSheafData_IsInvertible_isInvertible_invModule
+import Theorems.Thm_AlgebraicGeometry_Scheme_IdealSheafData_IsInvertible_isInvertible_module
+import Theorems.Thm_AlgebraicGeometry_RelEffCartierDiv_isInvertible_I
+import Theorems.Thm_AlgebraicGeometry_Scheme_Modules_IsInvertible_tensor
+import Theorems.Thm_AlgebraicGeometry_Scheme_Modules_IsInvertible_dual
+import Theorems.Thm_AlgebraicGeometry_Scheme_IdealSheafData_IsInvertible_nonempty_mul_invModule_iso_tensor
+import Theorems.Thm_AlgebraicGeometry_Scheme_Modules_IsInvertible_nonempty_rigidify_pullback_tensor_iso
+
+import Theorems.Thm_AlgebraicGeometry_RelEffCartierDiv_nonempty_twistModule_pullbackAlong_iso_pullback
+import Theorems.Thm_AlgebraicGeometry_Scheme_IdealSheafData_comap_mul
+import Theorems.Thm_AlgebraicGeometry_Scheme_Modules_IsInvertible_pullback_dual
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso
+p2m_attr_erase "instance" "AlgebraicGeometry.SmoothOfRelativeDimension.fiberToSpecResidueField AlgebraicGeometry.SmoothOfRelativeDimension.pullback_snd AlgebraicGeometry.SmoothOfRelativeDimension.pullback_fst AlgebraicGeometry.SmoothOfRelativeDimension.smooth_one AlgebraicGeometry.SmoothProperCurve.isIntegral_pullback_Spec_field AlgebraicGeometry.IsProper.fiberToSpecResidueField SheafOfModules.isIso_ihomModelToIhom AlgebraicCurve.Place.instIsScalarTowerSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Divisor.instDistribMulActionAlgEquiv AlgebraicCurve.Place.instSMulAlgEquiv AlgebraicCurve.Place.instIsPrincipalIdealRingSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Place.instIsDiscreteValuationRingSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Pic0.instDistribMulActionAlgEquiv AlgebraicCurve.Place.instAlgebraSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Place.instMulActionAlgEquiv AlgebraicCurve.Pic0.instSMulAlgEquiv AlgebraicCurve.CurveModel.isProper AlgebraicCurve.CurveModel.isIntegral AlgebraicCurve.CurveModel.smooth AlgebraicGeometry.OModulePresheaf.isScalarTower AlgebraicGeometry.Scheme.OrderedAffineCover.instLinearOrder AlgebraicGeometry.OModulePresheaf.module AlgebraicGeometry.Scheme.OrderedAffineCover.instFintype AlgebraicGeometry.Scheme.OrderedAffineCover.instFintypeIdx AlgebraicGeometry.OModulePresheaf.addCommGroup AlgebraicGeometry.Scheme.OrderedAffineCover.instDecidableEqIdx AlgebraicGeometry.OModulePresheaf.moduleSections AlgebraicGeometry.OModulePresheaf.instSubsingletonObjZero AlgebraicGeometry.OModulePresheaf.Leray.relAltC_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_modΓ AlgebraicGeometry.OModulePresheaf.Leray.relAltC_modΓ AlgebraicGeometry.OModulePresheaf.Leray.biC_abGrp AlgebraicGeometry.OModulePresheaf.Leray.relAltH_modΓ AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_smul AlgebraicGeometry.OModulePresheaf.Leray.relAltH_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.relAltH_smul AlgebraicGeometry.OModulePresheaf.Leray.biC_module AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instDecidableEqIdx AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintype AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instLinearOrder"
+p2m_attr_erase "instance" "AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintypeIdx DoubleComplex.instModuleE₂I DoubleComplex.Bounded.modR DoubleComplex.instModuleE₂II DoubleComplex.instAddCommGroupE₂II DoubleComplex.Bounded.abGrp DoubleComplex.instAddCommGroupE₂I AlgebraicGeometry.ChowDatum.hι_closed AlgebraicGeometry.ChowDatumProj.hιN_closed AlgebraicGeometry.ChowDatumProj.hp_proper AlgebraicGeometry.ChowDatum.hp_isoU AlgebraicGeometry.ChowDatum.hp_proper AlgebraicGeometry.ProjSpace.algebraAway AlgebraicGeometry.ProjSpace.instIsProperProdOverπ AlgebraicGeometry.ChowDatumProj.hp_isoU AlgebraicGeometry.ProjSpace.isProper_π AlgebraicGeometry.ProjSpace.finiteType_mvPolynomial ProjSpaceCech.GradedModule.H.module ProjSpaceCech.GradedModule.H.addCommGroup ProjSpaceCech.GradedModule.sec.instAdd ProjSpaceCech.GradedModule.sec.instNeg ProjSpaceCech.GradedModule.acg ProjSpaceCech.GradedModule.Frac.setoid ProjSpaceCech.GradedModule.modR ProjSpaceCech.GradedModule.sec.instModule ProjSpaceCech.GradedModule.sec.instAddCommGroup ProjSpaceCech.GradedModule.sec.instZero ProjSpaceCech.GradedModule.Presentation.fJ ProjSpaceCech.GradedModule.sec.instSMul ProjSpaceCech.Twist.H.module ProjSpaceCech.Idx.instFintype ProjSpaceCech.Twist.H.addCommGroup ProjSpaceCech.Idx.instDecidableEq ProjSpaceCech.Twist.Mon.instDecidableEq ProjSpaceCech.Twist.cochain.instAddCommGroup ProjSpaceCech.Twist.cochain.instModule"
+p2m_attr_erase "simp" "AlgebraicGeometry.Scheme.Modules.toUnitSection_ofUnitSection AlgebraicGeometry.Scheme.Modules.pullbackSection_def AlgebraicGeometry.Scheme.Modules.ofUnitSection_toUnitSection AlgebraicGeometry.tilde.functorCompPullbackSpecIso_app TwoChartCech.Mumford.dK_apply TwoChartCech.Mumford.ι0_apply TwoChartCech.Mumford.ι1_apply TwoChartCech.KerCoprod.dK_apply TwoChartCech.KerCoprod.ι1_apply TwoChartCech.KerCoprod.ι0_apply AlgebraicGeometry.SmoothProperCurve.sectionBaseChange_coe_snd AlgebraicGeometry.SmoothProperCurve.sectionBaseChange_coe_fst PresheafOfModules.InternalHom.IsSheafAux.appAt_toPresheafHom SheafOfModules.ihomSectionsEquivFamily_unit AlgebraicGeometry.Scheme.Modules.restrictHomEquivFamily_apply SheafOfModules.ihomEval_unit_app AlgebraicGeometry.Scheme.Modules.ihomEval_zero_right AlgebraicGeometry.Scheme.Modules.ihomEval_zero_left AlgebraicGeometry.Scheme.Modules.homOfFamily_app_apply SheafOfModules.unit_ihomSectionsEquivFamily AlgebraicGeometry.Scheme.Modules.familyOfHom_app AlgebraicGeometry.Scheme.Modules.restrictUnitIso_hom_app_apply AlgebraicGeometry.Scheme.Modules.restrictUnitIso_inv_app_apply AlgebraicGeometry.Scheme.Modules.restrictHomOfFamily_app_apply AlgebraicGeometry.Scheme.Modules.restrictHomEquivFamily_symm_apply AlgebraicGeometry.Scheme.Modules.tensorSections_zero_right AlgebraicGeometry.Scheme.Modules.map_unitSection AlgebraicGeometry.Scheme.Modules.tensorSectionsBilin_apply AlgebraicGeometry.Scheme.Modules.tensorPowSection_zero AlgebraicGeometry.Scheme.Modules.tensorSections_zero_left AlgebraicGeometry.Scheme.Modules.tensorPow_zero AlgebraicGeometry.Scheme.Modules.tensorPow_succ AlgebraicCurve.Place.mk.injEq AlgebraicCurve.Divisor.degree_single AlgebraicCurve.Divisor.smul_single AlgebraicCurve.Place.smul_toValuationSubring AlgebraicCurve.Place.heightOneSpectrum_asIdeal AlgebraicCurve.Place.coe_algebraMap AlgebraicCurve.Place.ord_one AlgebraicCurve.Place.coe_smulRingEquiv_apply"
+p2m_attr_erase "simp" "AlgebraicCurve.Pic0.coe_degZeroSMulHom AlgebraicCurve.Place.deg_smul AlgebraicCurve.Pic0.mk_zero AlgebraicCurve.Place.mk.sizeOf_spec AlgebraicCurve.Divisor.degree_smul AlgebraicCurve.Pic0.mk_add AlgebraicCurve.Place.ord_zero AlgebraicCurve.Place.ofHeightOneSpectrum_toValuationSubring AlgebraicCurve.CurveModel.mk.injEq AlgebraicCurve.CurveModel.mk.sizeOf_spec AlgebraicGeometry.RelPicard.fst_toProdSpec AlgebraicGeometry.RelPicard.toProdSpec_fst_assoc AlgebraicGeometry.RelPicard.pointsSubBasepointModule_cons AlgebraicGeometry.RelPicard.pointsSubBasepointModule_nil AlgebraicGeometry.RelPicard.fst_toProdSpec_assoc AlgebraicGeometry.RelPicard.toProdSpec_fst AlgebraicGeometry.Scheme.OrderedAffineCover.mk.injEq AlgebraicGeometry.OModulePresheaf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.mk.injEq AlgebraicGeometry.OModulePresheaf.prod_obj AlgebraicGeometry.OModulePresheaf.restrOpen_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.injEq AlgebraicGeometry.OModulePresheaf.pushforward_obj AlgebraicGeometry.OModulePresheaf.im_obj AlgebraicGeometry.OModulePresheaf.pow_obj AlgebraicGeometry.OModulePresheaf.fstHom_app AlgebraicGeometry.OModulePresheaf.ker_obj AlgebraicGeometry.OModulePresheaf.coker_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.preimage_U AlgebraicGeometry.OModulePresheaf.sndHom_app AlgebraicGeometry.OModulePresheaf.Hom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.id_app AlgebraicGeometry.OModulePresheaf.AffHom.appSections_apply AlgebraicGeometry.OModulePresheaf.AffHom.comp_app AlgebraicGeometry.OModulePresheaf.AffSES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.kerMap_coe AlgebraicGeometry.OModulePresheaf.AffHom.id_app AlgebraicGeometry.OModulePresheaf.Hom.mk.sizeOf_spec"
+p2m_attr_erase "simp" "AlgebraicGeometry.OModulePresheaf.Hom.toAffHom_app AlgebraicGeometry.OModulePresheaf.SES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.Hom.comp_app AlgebraicGeometry.OModulePresheaf.SES.mk.injEq AlgebraicGeometry.OModulePresheaf.AffHom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.appSections_apply AlgebraicGeometry.OModulePresheaf.AffSES.mk.injEq AlgebraicGeometry.OModulePresheaf.Leray.restrictToPreimage_U AlgebraicGeometry.Scheme.OrderedAffineCover.toCoverOf_U AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.injEq AlgebraicGeometry.Scheme.OrderedAffineCover.restrict_U DoubleComplex.Bounded.mk.injEq DoubleComplex.Bounded.mk.sizeOf_spec DoubleComplex.Convergence.mk.injEq DoubleComplex.Convergence.mk.sizeOf_spec DoubleComplex.SubQuot.mk.sizeOf_spec DoubleComplex.SubQuot.mk.injEq AlgebraicGeometry.ChowDatumProj.mk.sizeOf_spec AlgebraicGeometry.ChowDatum.mk.sizeOf_spec AlgebraicGeometry.ChowDatumProj.mk.injEq AlgebraicGeometry.ChowDatum.mk.injEq ProjSpaceCech.GradedModule.mk.injEq ProjSpaceCech.GradedModule.mk.sizeOf_spec ProjSpaceCech.GradedModule.Frac.mk.sizeOf_spec ProjSpaceCech.GradedModule.Presentation.mk.injEq ProjSpaceCech.GradedModule.Frac.mk.injEq ProjSpaceCech.GradedModule.Presentation.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.shift_toLinearMap ProjSpaceCech.GradedModule.Hom.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.mk.injEq"
+
+set_option autoImplicit false
+
+universe u
+
+namespace AlgebraicGeometry
+p2m_export "AlgebraicGeometry" "SmoothOfRelativeDimension IsProper Scheme.Modules.pullback Scheme.Hom GeometricallyIntegral LocallyOfFiniteType Spec Scheme IsSeparated smoothOfRelativeDimension_isStableUnderBaseChange Scheme.Modules.pullbackCongr Scheme.fromSpecResidueField_apply Scheme.Modules.pullbackId Scheme.Modules Scheme.Hom.comp_apply Scheme.IdealSheafData Scheme.Modules.pullbackComp Scheme.Modules.IsInvertible RelPicard.baseChangeSnd Scheme.Modules.dual Scheme.IdealSheafData.module Scheme.IdealSheafData.invModule RelEffCartierDiv RelEffCartierDiv.ext RelEffCartierDiv.pullbackAlong_comp SmoothProperCurve.FiniteMapData Scheme.TwoAffineOpenCover RelEffCartierDiv.twistModule_def Scheme.Modules.rigidify Scheme.Modules.rigidify_def Scheme.Modules.rigidifyMapIso Scheme.Modules.tensorTensorTensorComm Scheme.Modules.pullbackTensorObjIso Scheme.Modules.pullbackTensorUnitObjIso Scheme.TwoAffineOpenCover.exists_linearEquiv_sectionsOf_of_iso Scheme.IdealSheafData.IsInvertible.isIso_pullbackModuleComparison Scheme.IdealSheafData.IsInvertible Scheme.Hom.isInvertible_ker_of_comp_eq_id Scheme.Modules.IsInvertible.nonempty_rigidify_pullback_tensor_iso RelEffCartierDiv.nonempty_twistModule_pullbackAlong_iso_pullback Scheme.IdealSheafData.comap_mul"
+namespace RelPicard
+p2m_export "AlgebraicGeometry.RelPicard" "baseChangeSnd rigSection RigidifiedLineBundle fibreAt FibrewiseAlgEquivZero sectionIdeal sectionTwist fibreModule rigSection_snd RigidifiedLineBundle.nonempty_ofInvertible_iso_of_rigidified relEffCartierDiv_I_eq_of_lineBundle_iso_tensor_pullback_of_forall_fibre finrank_H0_fibre_eq_one_of_subsingleton_H1 nonempty_pullback_sectionTwist_iso"
+namespace K5bSupply
+p2m_open "AlgebraicGeometry.RelPicard AlgebraicGeometry"
+
+p2m_open "CategoryTheory CategoryTheory.Limits CategoryTheory.MonoidalCategory AlgebraicGeometry P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso.AlgebraicGeometry AlgebraicGeometry.RelPicard P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso.AlgebraicGeometry.RelPicard NeronModelInfra AlgebraicGeometry.SmoothProperCurve"
+
+variable (R : Type u) [CommRing R] {C : Scheme.{u}} (c : C ⟶ Spec (CommRingCat.of R))
+    [IsSeparated c] [SmoothOfRelativeDimension 1 c]
+    (ε : SchemeHomOver (𝟙 (Spec (CommRingCat.of R))) c)
+
+theorem isInvertible_sectionIdeal {V : Scheme.{u}} (u : V ⟶ Spec (CommRingCat.of R)) :
+    (sectionIdeal c ε u).IsInvertible :=
+  haveI : MorphismProperty.IsStableUnderBaseChange (@SmoothOfRelativeDimension 1) :=
+    smoothOfRelativeDimension_isStableUnderBaseChange 1
+  haveI : SmoothOfRelativeDimension 1 (pullback.snd c u) :=
+    MorphismProperty.pullback_snd (P := @SmoothOfRelativeDimension 1) c u inferInstance
+  Scheme.Hom.isInvertible_ker_of_comp_eq_id (p := pullback.snd c u) (rigSection c u ε) (rigSection_snd ε u)
+
+theorem isInvertible_sectionTwist {V : Scheme.{u}} (u : V ⟶ Spec (CommRingCat.of R)) (n : ℕ) :
+    Scheme.Modules.IsInvertible (sectionTwist c ε u n) :=
+  ((isInvertible_sectionIdeal R c ε u).pow n).isInvertible_invModule
+
+theorem isInvertible_Mγ {e n : ℕ} {V : Scheme.{u}} (u : V ⟶ Spec (CommRingCat.of R))
+    (LV : RigidifiedLineBundle c ε u) (DγV : RelEffCartierDiv c e u) :
+    Scheme.Modules.IsInvertible (LV.L ⊗ (sectionTwist c ε u n ⊗ DγV.idealModule)) :=
+  LV.isInvertible.tensor ((isInvertible_sectionTwist R c ε u n).tensor DγV.isInvertible_I.isInvertible_module)
+
+theorem nonempty_twistModule_iso
+    {g e : ℕ} {V : Scheme.{u}} (u : V ⟶ Spec (CommRingCat.of R))
+    (LU : RigidifiedLineBundle c ε u) (DγU : RelEffCartierDiv c e u)
+    (D₀ : RelEffCartierDiv c g u) (D : RelEffCartierDiv c (g + e) u) (hD : D.I = D₀.I * DγU.I)
+    (N : V.Modules) (hN : Scheme.Modules.IsInvertible N)
+    (e₀ : D₀.lineBundle ≅ (LU.L ⊗ (sectionTwist c ε u (g + e) ⊗ DγU.idealModule)) ⊗
+      (Scheme.Modules.pullback (pullback.snd c u)).obj N) :
+    Nonempty (D.twistModule c ε ≅ LU.L) := by
+  have hsIr : ((sectionIdeal c ε u) ^ (g + e)).IsInvertible := (isInvertible_sectionIdeal R c ε u).pow _
+  have hD₀ : D₀.I.IsInvertible := D₀.isInvertible_I
+  have hDγ : DγU.I.IsInvertible := DγU.isInvertible_I
+  have i1 : D.lineBundle ≅ D₀.lineBundle ⊗ DγU.lineBundle :=
+    eqToIso (congrArg Scheme.IdealSheafData.invModule hD) ≪≫ (hD₀.nonempty_mul_invModule_iso_tensor hDγ).some
+  have cST : sectionTwist c ε u (g + e) ⊗ ((sectionIdeal c ε u) ^ (g + e)).module ≅ 𝟙_ _ :=
+    (β_ _ _) ≪≫ (hsIr.isInvertible_module.dual).2.some
+  have cγ : DγU.lineBundle ⊗ DγU.idealModule ≅ 𝟙_ _ :=
+    (β_ _ _) ≪≫ (hDγ.isInvertible_module.dual).2.some
+  have i3 : (((LU.L ⊗ (sectionTwist c ε u (g + e) ⊗ DγU.idealModule)) ⊗
+      (Scheme.Modules.pullback (pullback.snd c u)).obj N) ⊗ DγU.lineBundle) ⊗
+        ((sectionIdeal c ε u) ^ (g + e)).module ≅
+      (Scheme.Modules.pullback (pullback.snd c u)).obj N ⊗ LU.L :=
+    (α_ _ _ _) ≪≫ ((β_ _ _) ⊗ᵢ (β_ _ _)) ≪≫ (α_ _ _ _) ≪≫
+      (Iso.refl _ ⊗ᵢ ((α_ _ _ _) ≪≫ (Iso.refl _ ⊗ᵢ
+        (Scheme.Modules.tensorTensorTensorComm _ _ _ _ ≪≫ (cST ⊗ᵢ ((β_ _ _) ≪≫ cγ)) ≪≫ (λ_ _))) ≪≫ (ρ_ _)))
+  have i4 : D.lineBundle ⊗ ((sectionIdeal c ε u) ^ (g + e)).module ≅
+      (Scheme.Modules.pullback (pullback.snd c u)).obj N ⊗ LU.L :=
+    ((i1 ≪≫ (e₀ ⊗ᵢ Iso.refl _)) ⊗ᵢ Iso.refl _) ≪≫ i3
+  have i5 : Scheme.Modules.rigidify (rigSection c u ε) (pullback.snd c u) LU.L ≅ LU.L :=
+    (RigidifiedLineBundle.nonempty_ofInvertible_iso_of_rigidified LU).some
+  rw [RelEffCartierDiv.twistModule_def]
+  exact ⟨Scheme.Modules.rigidifyMapIso _ _ i4 ≪≫
+    (Scheme.Modules.IsInvertible.nonempty_rigidify_pullback_tensor_iso (rigSection_snd ε u) hN LU.isInvertible).some ≪≫
+    i5⟩
+
+theorem exists_lineBundle_iso_of_twistModule_iso
+    {g e : ℕ} {V : Scheme.{u}} (u : V ⟶ Spec (CommRingCat.of R))
+    (LU : RigidifiedLineBundle c ε u) (DγU : RelEffCartierDiv c e u)
+    (D₀ : RelEffCartierDiv c g u) (D : RelEffCartierDiv c (g + e) u) (hD : D.I = D₀.I * DγU.I)
+    (hDL : Nonempty (D.twistModule c ε ≅ LU.L)) :
+    ∃ N : V.Modules, Scheme.Modules.IsInvertible N ∧
+      Nonempty (D₀.lineBundle ≅ (LU.L ⊗ (sectionTwist c ε u (g + e) ⊗ DγU.idealModule)) ⊗
+        (Scheme.Modules.pullback (pullback.snd c u)).obj N) := by
+  have hsIr : ((sectionIdeal c ε u) ^ (g + e)).IsInvertible := (isInvertible_sectionIdeal R c ε u).pow _
+  have hD₀ : D₀.I.IsInvertible := D₀.isInvertible_I
+  have hDγ : DγU.I.IsInvertible := DγU.isInvertible_I
+  have hDI : D.I.IsInvertible := D.isInvertible_I
+
+  set F := ((sectionIdeal c ε u) ^ (g + e)).module with hF
+  set X := D.lineBundle ⊗ F with hX
+  have hXinv : Scheme.Modules.IsInvertible X := hDI.isInvertible_invModule.tensor hsIr.isInvertible_module
+  set N₀ : V.Modules := Scheme.Modules.dual ((Scheme.Modules.pullback (rigSection c u ε)).obj X) with hN₀
+  have hN₀ : Scheme.Modules.IsInvertible N₀ := (hXinv.pullback _).dual.1
+
+  refine ⟨Scheme.Modules.dual N₀, hN₀.dual.1, ?_⟩
+  have cN : (Scheme.Modules.pullback (pullback.snd c u)).obj N₀ ⊗
+      (Scheme.Modules.pullback (pullback.snd c u)).obj (Scheme.Modules.dual N₀) ≅ 𝟙_ _ :=
+    (Scheme.Modules.pullbackTensorObjIso (pullback.snd c u) _ _).symm ≪≫
+      (Scheme.Modules.pullback _).mapIso hN₀.dual.2.some ≪≫ Scheme.Modules.pullbackTensorUnitObjIso _
+
+  have j0 : X ⊗ (Scheme.Modules.pullback (pullback.snd c u)).obj N₀ ≅ LU.L := by
+    have h := hDL.some
+    rw [RelEffCartierDiv.twistModule_def, Scheme.Modules.rigidify_def] at h
+    exact h
+
+  have j1 : X ≅ LU.L ⊗ (Scheme.Modules.pullback (pullback.snd c u)).obj (Scheme.Modules.dual N₀) :=
+    (ρ_ X).symm ≪≫ (Iso.refl X ⊗ᵢ cN.symm) ≪≫ (α_ _ _ _).symm ≪≫ (j0 ⊗ᵢ Iso.refl _)
+
+  have cST : F ⊗ sectionTwist c ε u (g + e) ≅ 𝟙_ _ := by
+    rw [hF]; exact (hsIr.isInvertible_module.dual).2.some
+  have cγ : DγU.lineBundle ⊗ DγU.idealModule ≅ 𝟙_ _ :=
+    (β_ _ _) ≪≫ (hDγ.isInvertible_module.dual).2.some
+
+  have j2 : D.lineBundle ≅ (LU.L ⊗ (Scheme.Modules.pullback (pullback.snd c u)).obj (Scheme.Modules.dual N₀)) ⊗
+      sectionTwist c ε u (g + e) :=
+    (ρ_ _).symm ≪≫ (Iso.refl _ ⊗ᵢ cST.symm) ≪≫ (α_ _ _ _).symm ≪≫ ((show D.lineBundle ⊗ F ≅ _ from j1) ⊗ᵢ Iso.refl _)
+
+  have i1 : D.lineBundle ≅ D₀.lineBundle ⊗ DγU.lineBundle :=
+    eqToIso (congrArg Scheme.IdealSheafData.invModule hD) ≪≫ (hD₀.nonempty_mul_invModule_iso_tensor hDγ).some
+  have j3 : D₀.lineBundle ≅ D.lineBundle ⊗ DγU.idealModule :=
+    (ρ_ _).symm ≪≫ (Iso.refl _ ⊗ᵢ cγ.symm) ≪≫ (α_ _ _ _).symm ≪≫ (i1.symm ⊗ᵢ Iso.refl _)
+  refine ⟨j3 ≪≫ (j2 ⊗ᵢ Iso.refl _) ≪≫ ?_⟩
+
+  exact (α_ _ _ _) ≪≫ (α_ _ _ _) ≪≫ (Iso.refl _ ⊗ᵢ (β_ _ _)) ≪≫ (α_ _ _ _).symm
+
+section Transport
+
+variable {e : ℕ} (r : ℕ) (Dγ : RelEffCartierDiv c e (𝟙 (Spec (CommRingCat.of R))))
+  {T T' : Scheme.{u}} (t : T ⟶ Spec (CommRingCat.of R)) (ψ1 : T' ⟶ T) (L : RigidifiedLineBundle c ε t)
+  {k : Type u} [Field k] (s' : Spec (CommRingCat.of k) ⟶ T')
+
+noncomputable def fibreIso : pullback (pullback.snd c t) (s' ≫ ψ1) ≅ pullback (pullback.snd c (ψ1 ≫ t)) s' :=
+  pullbackLeftPullbackSndIso c t (s' ≫ ψ1) ≪≫ pullback.congrHom rfl (Category.assoc s' ψ1 t) ≪≫
+    (pullbackLeftPullbackSndIso c (ψ1 ≫ t) s').symm
+
+theorem fibreIso_hom_fibreAt :
+    (fibreIso R c t ψ1 s').hom ≫ fibreAt c (ψ1 ≫ t) s' = fibreAt c t (s' ≫ ψ1) := by
+  simp only [fibreIso, fibreAt, Iso.trans_hom, Iso.symm_hom, Category.assoc,
+    pullbackLeftPullbackSndIso_inv_snd_snd, pullback.congrHom_hom, pullback.lift_snd,
+    Category.comp_id, pullbackLeftPullbackSndIso_hom_snd]
+
+theorem fibreIso_hom_fst_baseChangeSnd :
+    (fibreIso R c t ψ1 s').hom ≫ pullback.fst (pullback.snd c (ψ1 ≫ t)) s' ≫
+        baseChangeSnd c (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t) =
+      pullback.fst (pullback.snd c t) (s' ≫ ψ1) := by
+  have hβ : baseChangeSnd c (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t) =
+      pullback.lift (pullback.fst c (ψ1 ≫ t) ≫ 𝟙 C) (pullback.snd c (ψ1 ≫ t) ≫ ψ1) (by simp [pullback.condition]) := rfl
+  rw [hβ]
+  apply pullback.hom_ext
+  · simp only [fibreIso, Iso.trans_hom, Iso.symm_hom, Category.assoc, pullback.lift_fst, Category.comp_id,
+      pullbackLeftPullbackSndIso_inv_fst, pullback.congrHom_hom, pullbackLeftPullbackSndIso_hom_fst]
+  · simp only [fibreIso, Iso.trans_hom, Iso.symm_hom, Category.assoc, pullback.lift_snd, pullback.lift_snd_assoc,
+      pullbackLeftPullbackSndIso_inv_fst_snd_assoc, pullback.congrHom_hom,
+      Category.comp_id, pullbackLeftPullbackSndIso_hom_snd_assoc, pullback.condition]
+
+theorem nonempty_Mγ_iso_pullback :
+    Nonempty ((L.pullbackAlong (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t)).L ⊗
+        (sectionTwist c ε (ψ1 ≫ t) r ⊗ (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).idealModule) ≅
+      (Scheme.Modules.pullback (baseChangeSnd c (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t))).obj
+        (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule))) := by
+  let ψ : SchemeHomOver (ψ1 ≫ t) t := ⟨ψ1, rfl⟩
+  have hcomp : (Dγ.pullbackAlong t (Category.comp_id t)).pullbackAlong ψ1 ψ.2 =
+      Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _) :=
+    RelEffCartierDiv.pullbackAlong_comp _ _ _ _ _
+  have hI : (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).I =
+      (Dγ.pullbackAlong t (Category.comp_id t)).I.comap (baseChangeSnd c ψ) := by
+    rw [← hcomp]; rfl
+  have iγ : (Scheme.Modules.pullback (baseChangeSnd c ψ)).obj (Dγ.pullbackAlong t (Category.comp_id t)).idealModule ≅
+      (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).idealModule := by
+    haveI := Scheme.IdealSheafData.IsInvertible.isIso_pullbackModuleComparison (baseChangeSnd c ψ)
+      (Dγ.pullbackAlong t (Category.comp_id t)).isInvertible_I
+      (hI ▸ (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).isInvertible_I)
+    exact asIso ((Dγ.pullbackAlong t (Category.comp_id t)).I.pullbackModuleComparison (baseChangeSnd c ψ)) ≪≫
+      eqToIso (congrArg Scheme.IdealSheafData.module hI).symm
+  exact ⟨(Iso.refl _ ⊗ᵢ ((nonempty_pullback_sectionTwist_iso R c ε ψ r).some.symm ⊗ᵢ iγ.symm)) ≪≫
+      (Iso.refl _ ⊗ᵢ (Scheme.Modules.pullbackTensorObjIso (baseChangeSnd c ψ) _ _).symm) ≪≫
+      (Scheme.Modules.pullbackTensorObjIso (baseChangeSnd c ψ) _ _).symm⟩
+
+theorem nonempty_fibreModule_iso :
+    Nonempty (fibreModule c t (s' ≫ ψ1)
+        (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule)) ≅
+      (Scheme.Modules.pullback (fibreIso R c t ψ1 s').hom).obj (fibreModule c (ψ1 ≫ t) s'
+        ((L.pullbackAlong (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t)).L ⊗
+          (sectionTwist c ε (ψ1 ≫ t) r ⊗ (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).idealModule)))) := by
+  obtain ⟨iM⟩ := nonempty_Mγ_iso_pullback R c ε r Dγ t ψ1 L
+  exact ⟨((Scheme.Modules.pullbackCongr (fibreIso_hom_fst_baseChangeSnd R c t ψ1 s')).app _).symm ≪≫
+    ((Scheme.Modules.pullbackComp (fibreIso R c t ψ1 s').hom
+      (pullback.fst (pullback.snd c (ψ1 ≫ t)) s' ≫ baseChangeSnd c (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t))).app _).symm ≪≫
+    (Scheme.Modules.pullback (fibreIso R c t ψ1 s').hom).mapIso
+      (((Scheme.Modules.pullbackComp (pullback.fst (pullback.snd c (ψ1 ≫ t)) s')
+        (baseChangeSnd c (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t))).app _).symm ≪≫
+        (Scheme.Modules.pullback _).mapIso iM.symm)⟩
+
+theorem fibre_transport_to_t (𝒲 : (pullback (pullback.snd c (ψ1 ≫ t)) s').TwoAffineOpenCover) :
+    ∃ 𝒱 : (pullback (pullback.snd c t) (s' ≫ ψ1)).TwoAffineOpenCover,
+      Nonempty ((𝒱.sectionsOf (fibreAt c t (s' ≫ ψ1)) (fibreModule c t (s' ≫ ψ1)
+          (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule)))).H0 ≃ₗ[k]
+        (𝒲.sectionsOf (fibreAt c (ψ1 ≫ t) s') (fibreModule c (ψ1 ≫ t) s'
+          ((L.pullbackAlong (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t)).L ⊗
+            (sectionTwist c ε (ψ1 ≫ t) r ⊗ (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).idealModule)))).H0) ∧
+      Nonempty ((𝒱.sectionsOf (fibreAt c t (s' ≫ ψ1)) (fibreModule c t (s' ≫ ψ1)
+          (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule)))).H1 ≃ₗ[k]
+        (𝒲.sectionsOf (fibreAt c (ψ1 ≫ t) s') (fibreModule c (ψ1 ≫ t) s'
+          ((L.pullbackAlong (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t)).L ⊗
+            (sectionTwist c ε (ψ1 ≫ t) r ⊗ (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).idealModule)))).H1) := by
+  obtain ⟨eφ⟩ := nonempty_fibreModule_iso R c ε r Dγ t ψ1 L s'
+  obtain ⟨𝒱, -, -, h0, h1⟩ := Scheme.TwoAffineOpenCover.exists_linearEquiv_sectionsOf_of_iso
+    (fibreAt c t (s' ≫ ψ1)) (fibreAt c (ψ1 ≫ t) s') (fibreIso R c t ψ1 s') (fibreIso_hom_fibreAt R c t ψ1 s') 𝒲 _ _ eφ
+  exact ⟨𝒱, h0, h1⟩
+
+theorem fibre_transport_to_t' (𝒲 : (pullback (pullback.snd c t) (s' ≫ ψ1)).TwoAffineOpenCover) :
+    ∃ 𝒱 : (pullback (pullback.snd c (ψ1 ≫ t)) s').TwoAffineOpenCover,
+      Nonempty ((𝒱.sectionsOf (fibreAt c (ψ1 ≫ t) s') (fibreModule c (ψ1 ≫ t) s'
+          ((L.pullbackAlong (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t)).L ⊗
+            (sectionTwist c ε (ψ1 ≫ t) r ⊗ (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).idealModule)))).H0 ≃ₗ[k]
+        (𝒲.sectionsOf (fibreAt c t (s' ≫ ψ1)) (fibreModule c t (s' ≫ ψ1)
+          (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule)))).H0) ∧
+      Nonempty ((𝒱.sectionsOf (fibreAt c (ψ1 ≫ t) s') (fibreModule c (ψ1 ≫ t) s'
+          ((L.pullbackAlong (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t)).L ⊗
+            (sectionTwist c ε (ψ1 ≫ t) r ⊗ (Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _)).idealModule)))).H1 ≃ₗ[k]
+        (𝒲.sectionsOf (fibreAt c t (s' ≫ ψ1)) (fibreModule c t (s' ≫ ψ1)
+          (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule)))).H1) := by
+  obtain ⟨eφ⟩ := nonempty_fibreModule_iso R c ε r Dγ t ψ1 L s'
+
+  let φ := fibreIso R c t ψ1 s'
+  have hφ' : φ.symm.hom ≫ fibreAt c t (s' ≫ ψ1) = fibreAt c (ψ1 ≫ t) s' := by
+    rw [Iso.symm_hom, Iso.inv_comp_eq, fibreIso_hom_fibreAt]
+
+  have e' := ((Scheme.Modules.pullbackId _).app _).symm ≪≫
+    ((Scheme.Modules.pullbackCongr φ.inv_hom_id).app _).symm ≪≫
+    ((Scheme.Modules.pullbackComp φ.inv φ.hom).app _).symm ≪≫
+    (Scheme.Modules.pullback φ.inv).mapIso eφ.symm
+  obtain ⟨𝒱, -, -, h0, h1⟩ := Scheme.TwoAffineOpenCover.exists_linearEquiv_sectionsOf_of_iso
+    (fibreAt c (ψ1 ≫ t) s') (fibreAt c t (s' ≫ ψ1)) φ.symm hφ' 𝒲 _ _ e'
+  exact ⟨𝒱, h0, h1⟩
+
+end Transport
+
+end AlgebraicGeometry.RelPicard.K5bSupply
+
+namespace AlgebraicGeometry
+p2m_export "AlgebraicGeometry" "SmoothOfRelativeDimension IsProper Scheme.Modules.pullback Scheme.Hom GeometricallyIntegral LocallyOfFiniteType Spec Scheme IsSeparated smoothOfRelativeDimension_isStableUnderBaseChange Scheme.Modules.pullbackCongr Scheme.fromSpecResidueField_apply Scheme.Modules.pullbackId Scheme.Modules Scheme.Hom.comp_apply Scheme.IdealSheafData Scheme.Modules.pullbackComp Scheme.Modules.IsInvertible RelPicard.baseChangeSnd Scheme.Modules.dual Scheme.IdealSheafData.module Scheme.IdealSheafData.invModule RelEffCartierDiv RelEffCartierDiv.ext RelEffCartierDiv.pullbackAlong_comp SmoothProperCurve.FiniteMapData Scheme.TwoAffineOpenCover RelEffCartierDiv.twistModule_def Scheme.Modules.rigidify Scheme.Modules.rigidify_def Scheme.Modules.rigidifyMapIso Scheme.Modules.tensorTensorTensorComm Scheme.Modules.pullbackTensorObjIso Scheme.Modules.pullbackTensorUnitObjIso Scheme.TwoAffineOpenCover.exists_linearEquiv_sectionsOf_of_iso Scheme.IdealSheafData.IsInvertible.isIso_pullbackModuleComparison Scheme.IdealSheafData.IsInvertible Scheme.Hom.isInvertible_ker_of_comp_eq_id Scheme.Modules.IsInvertible.nonempty_rigidify_pullback_tensor_iso RelEffCartierDiv.nonempty_twistModule_pullbackAlong_iso_pullback Scheme.IdealSheafData.comap_mul"
+namespace RelPicard
+p2m_export "AlgebraicGeometry.RelPicard" "baseChangeSnd rigSection RigidifiedLineBundle fibreAt FibrewiseAlgEquivZero sectionIdeal sectionTwist fibreModule rigSection_snd RigidifiedLineBundle.nonempty_ofInvertible_iso_of_rigidified relEffCartierDiv_I_eq_of_lineBundle_iso_tensor_pullback_of_forall_fibre finrank_H0_fibre_eq_one_of_subsingleton_H1 nonempty_pullback_sectionTwist_iso"
+namespace K5bUniv
+p2m_open "AlgebraicGeometry.RelPicard AlgebraicGeometry"
+
+p2m_open "CategoryTheory CategoryTheory.Limits CategoryTheory.MonoidalCategory AlgebraicGeometry P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso.AlgebraicGeometry AlgebraicGeometry.RelPicard P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso.AlgebraicGeometry.RelPicard NeronModelInfra AlgebraicGeometry.SmoothProperCurve P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso.AlgebraicGeometry.RelPicard.K5bSupply"
+
+variable {R : Type u} [CommRing R]
+
+theorem pullbackAlong_I_eq_mul {𝒞 S : Scheme.{u}} {f : 𝒞 ⟶ S} {n m l : ℕ}
+    {T' : Scheme.{u}} {g' : T' ⟶ S} (D : RelEffCartierDiv f n g') (D₀ : RelEffCartierDiv f m g') (E : RelEffCartierDiv f l g')
+    (hD : D.I = D₀.I * E.I) {T : Scheme.{u}} {g : T ⟶ S} (φ : T ⟶ T') (hφ : φ ≫ g' = g) :
+    (D.pullbackAlong φ hφ).I = (D₀.pullbackAlong φ hφ).I * (E.pullbackAlong φ hφ).I := by
+  change D.I.comap _ = D₀.I.comap _ * E.I.comap _
+  rw [hD, Scheme.IdealSheafData.comap_mul]
+
+variable (R) [IsNoetherianRing R] {C : Scheme.{u}} (c : C ⟶ Spec (CommRingCat.of R))
+    [IsProper c] [SmoothOfRelativeDimension 1 c] [GeometricallyIntegral c]
+    (ε : SchemeHomOver (𝟙 (Spec (CommRingCat.of R))) c)
+
+theorem UNIV'
+    (h𝔉 : ∀ m₀ : ℕ, ∃ 𝔉 : SmoothProperCurve.FiniteMapData c ε, m₀ ≤ 𝔉.m)
+    (g e r : ℕ) (hr : g + e = r) (Dγ : RelEffCartierDiv c e (𝟙 (Spec (CommRingCat.of R))))
+    (hχ : ∀ (k : Type u) [Field k] [IsAlgClosed k] (x : Spec (CommRingCat.of k) ⟶ Spec (CommRingCat.of R))
+      (𝒲 : (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).TwoAffineOpenCover),
+      (Module.finrank k (𝒲.sectionsOf (fibreAt c (𝟙 _) x)
+          (fibreModule c (𝟙 _) x (sectionTwist c ε (𝟙 _) r ⊗ Dγ.idealModule))).H0 : ℤ) -
+        Module.finrank k (𝒲.sectionsOf (fibreAt c (𝟙 _) x)
+          (fibreModule c (𝟙 _) x (sectionTwist c ε (𝟙 _) r ⊗ Dγ.idealModule))).H1 = 1)
+    {T : Scheme.{u}} (t : T ⟶ Spec (CommRingCat.of R)) [LocallyOfFiniteType t]
+    (L : RigidifiedLineBundle c ε t) (hL : FibrewiseAlgEquivZero L) (U : T.Opens)
+    (hUmax : ∀ (k : Type u) [Field k] (s : Spec (CommRingCat.of k) ⟶ T),
+      (∀ (𝒲 : (pullback (pullback.snd c t) s).TwoAffineOpenCover),
+        Subsingleton (𝒲.sectionsOf (fibreAt c t s) (fibreModule c t s
+          (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule)))).H1) → Set.range ⇑s ⊆ (U : Set T))
+    (D : RelEffCartierDiv c r (U.ι ≫ t)) (D₀ : RelEffCartierDiv c g (U.ι ≫ t))
+    (hD : D.I = D₀.I * (Dγ.pullbackAlong (U.ι ≫ t) (Category.comp_id _)).I)
+    (hDL : Nonempty (D.twistModule c ε ≅ (L.pullbackAlong (⟨U.ι, rfl⟩ : SchemeHomOver (U.ι ≫ t) t)).L))
+    {T' : Scheme.{u}} (t' : T' ⟶ Spec (CommRingCat.of R)) [LocallyOfFiniteType t'] (ψ : SchemeHomOver t' t)
+    (D' : RelEffCartierDiv c r t') (D₀' : RelEffCartierDiv c g t')
+    (hD' : D'.I = D₀'.I * (Dγ.pullbackAlong t' (Category.comp_id _)).I)
+    (hD'L : Nonempty (D'.twistModule c ε ≅ (L.pullbackAlong ψ).L))
+    (h1' : ∀ (k : Type u) [Field k] (s' : Spec (CommRingCat.of k) ⟶ T')
+      (𝒲 : (pullback (pullback.snd c t') s').TwoAffineOpenCover),
+        Subsingleton (𝒲.sectionsOf (fibreAt c t' s') (fibreModule c t' s'
+          ((L.pullbackAlong ψ).L ⊗ (sectionTwist c ε t' r ⊗ (Dγ.pullbackAlong t' (Category.comp_id t')).idealModule)))).H1) :
+    Set.range ⇑ψ.1 ⊆ (U : Set T) ∧
+      ∀ (φ : T' ⟶ U) (hφ : φ ≫ U.ι = ψ.1),
+        D' = D.pullbackAlong φ (by rw [← Category.assoc, hφ]; exact ψ.2) := by
+  obtain ⟨ψ1, rfl⟩ := ψ
+  subst hr
+
+  set Lψ := L.pullbackAlong (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t) with hLψ
+  set DγT' := Dγ.pullbackAlong (ψ1 ≫ t) (Category.comp_id _) with hDγT'
+
+  have hL' : FibrewiseAlgEquivZero Lψ := hL.pullback _
+  have hfib' : ∀ (k : Type u) [Field k] (s' : Spec (CommRingCat.of k) ⟶ T')
+      (𝒲 : (pullback (pullback.snd c (ψ1 ≫ t)) s').TwoAffineOpenCover),
+      Subsingleton (𝒲.sectionsOf (fibreAt c (ψ1 ≫ t) s') (fibreModule c (ψ1 ≫ t) s'
+        (Lψ.L ⊗ (sectionTwist c ε (ψ1 ≫ t) (g + e) ⊗ DγT'.idealModule)))).H1 ∧
+      Module.finrank k (𝒲.sectionsOf (fibreAt c (ψ1 ≫ t) s') (fibreModule c (ψ1 ≫ t) s'
+        (Lψ.L ⊗ (sectionTwist c ε (ψ1 ≫ t) (g + e) ⊗ DγT'.idealModule)))).H0 = 1 :=
+    fun k _ s' 𝒲 => ⟨h1' k s' 𝒲,
+      finrank_H0_fibre_eq_one_of_subsingleton_H1 R c ε (g + e) e Dγ hχ (ψ1 ≫ t) Lψ hL' k s' 𝒲 (h1' k s' 𝒲)⟩
+  refine ⟨?_, ?_⟩
+  ·
+    rintro _ ⟨y, rfl⟩
+    have key := hUmax (T'.residueField y) (T'.fromSpecResidueField y ≫ ψ1) (fun 𝒲 => by
+      obtain ⟨𝒱, -, ⟨e1⟩⟩ := fibre_transport_to_t' R c ε (g + e) Dγ t ψ1 L (T'.fromSpecResidueField y) 𝒲
+      haveI := h1' _ (T'.fromSpecResidueField y) 𝒱
+      exact e1.symm.toEquiv.subsingleton)
+    refine key ⟨IsLocalRing.closedPoint (T'.residueField y), ?_⟩
+    rw [Scheme.Hom.comp_apply, Scheme.fromSpecResidueField_apply]
+  ·
+    intro φ hφ
+    have hφt : φ ≫ (U.ι ≫ t) = ψ1 ≫ t := by rw [← Category.assoc, hφ]
+
+    have hM' : Scheme.Modules.IsInvertible (Lψ.L ⊗ (sectionTwist c ε (ψ1 ≫ t) (g + e) ⊗ DγT'.idealModule)) :=
+      isInvertible_Mγ R c ε (ψ1 ≫ t) Lψ DγT'
+
+    obtain ⟨N₁, hN₁, ⟨e₁⟩⟩ := exists_lineBundle_iso_of_twistModule_iso R c ε (ψ1 ≫ t) Lψ DγT' D₀' D' hD' hD'L
+
+    have hD₂ : (D.pullbackAlong φ hφt).I = (D₀.pullbackAlong φ hφt).I * DγT'.I := by
+      rw [pullbackAlong_I_eq_mul D D₀ _ hD φ hφt, hDγT', RelEffCartierDiv.pullbackAlong_comp]
+      congr 2
+      refine RelEffCartierDiv.ext ?_
+      change Dγ.I.comap _ = Dγ.I.comap _
+      congr 1
+      simp only [hφ, ← Category.assoc]
+    have hβcomp : baseChangeSnd c (⟨φ, hφt⟩ : SchemeHomOver (ψ1 ≫ t) (U.ι ≫ t)) ≫
+        baseChangeSnd c (⟨U.ι, rfl⟩ : SchemeHomOver (U.ι ≫ t) t) =
+          baseChangeSnd c (⟨ψ1, rfl⟩ : SchemeHomOver (ψ1 ≫ t) t) := by
+      apply pullback.hom_ext
+      · simp only [RelPicard.baseChangeSnd, Category.assoc, pullback.lift_fst, Category.comp_id]
+      · simp only [RelPicard.baseChangeSnd, Category.assoc, pullback.lift_snd, pullback.lift_snd_assoc, hφ]
+    have eL : (Scheme.Modules.pullback (baseChangeSnd c (⟨φ, hφt⟩ : SchemeHomOver (ψ1 ≫ t) (U.ι ≫ t)))).obj
+        (L.pullbackAlong (⟨U.ι, rfl⟩ : SchemeHomOver (U.ι ≫ t) t)).L ≅ Lψ.L :=
+      (Scheme.Modules.pullbackComp _ _).app L.L ≪≫ (Scheme.Modules.pullbackCongr hβcomp).app L.L
+    have hDL₂ : Nonempty ((D.pullbackAlong φ hφt).twistModule c ε ≅ Lψ.L) := by
+      obtain ⟨i⟩ := RelEffCartierDiv.nonempty_twistModule_pullbackAlong_iso_pullback c ε
+        (⟨φ, hφt⟩ : SchemeHomOver (ψ1 ≫ t) (U.ι ≫ t)) D
+      exact ⟨i ≪≫ (Scheme.Modules.pullback _).mapIso hDL.some ≪≫ eL⟩
+    obtain ⟨N₂, hN₂, ⟨e₂⟩⟩ := exists_lineBundle_iso_of_twistModule_iso R c ε (ψ1 ≫ t) Lψ DγT'
+      (D₀.pullbackAlong φ hφt) (D.pullbackAlong φ hφt) hD₂ hDL₂
+
+    have huniq := relEffCartierDiv_I_eq_of_lineBundle_iso_tensor_pullback_of_forall_fibre R c ε h𝔉 (ψ1 ≫ t)
+      _ hM' hfib' D₀' (D₀.pullbackAlong φ hφt) N₁ N₂ hN₁ hN₂ e₁ e₂
+
+    refine RelEffCartierDiv.ext ?_
+    rw [hD', hD₂, huniq]
+
+end AlgebraicGeometry.RelPicard.K5bUniv
+
+p2m_open "CategoryTheory CategoryTheory.Limits CategoryTheory.MonoidalCategory AlgebraicGeometry P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso.AlgebraicGeometry AlgebraicGeometry.RelPicard P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso.AlgebraicGeometry.RelPicard NeronModelInfra AlgebraicGeometry.SmoothProperCurve"
+
+theorem solution
+    (R : Type u) [CommRing R] [IsNoetherianRing R] {C : Scheme.{u}} (c : C ⟶ Spec (CommRingCat.of R))
+    [IsProper c] [SmoothOfRelativeDimension 1 c] [GeometricallyIntegral c]
+    (ε : SchemeHomOver (𝟙 (Spec (CommRingCat.of R))) c)
+    (h𝔉 : ∀ m₀ : ℕ, ∃ 𝔉 : SmoothProperCurve.FiniteMapData c ε, m₀ ≤ 𝔉.m)
+    (g e r : ℕ) (hr : g + e = r) (Dγ : RelEffCartierDiv c e (𝟙 (Spec (CommRingCat.of R))))
+    (hχ : ∀ (k : Type u) [Field k] [IsAlgClosed k] (x : Spec (CommRingCat.of k) ⟶ Spec (CommRingCat.of R))
+      (𝒲 : (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).TwoAffineOpenCover),
+      (Module.finrank k (𝒲.sectionsOf (fibreAt c (𝟙 _) x)
+          (fibreModule c (𝟙 _) x (sectionTwist c ε (𝟙 _) r ⊗ Dγ.idealModule))).H0 : ℤ) -
+        Module.finrank k (𝒲.sectionsOf (fibreAt c (𝟙 _) x)
+          (fibreModule c (𝟙 _) x (sectionTwist c ε (𝟙 _) r ⊗ Dγ.idealModule))).H1 = 1)
+    {T : Scheme.{u}} (t : T ⟶ Spec (CommRingCat.of R)) [LocallyOfFiniteType t]
+    (L : RigidifiedLineBundle c ε t) (hL : FibrewiseAlgEquivZero L) (U : T.Opens)
+    (hUmax : ∀ (k : Type u) [Field k] (s : Spec (CommRingCat.of k) ⟶ T),
+      (∀ (𝒲 : (pullback (pullback.snd c t) s).TwoAffineOpenCover),
+        Subsingleton (𝒲.sectionsOf (fibreAt c t s) (fibreModule c t s
+          (L.L ⊗ (sectionTwist c ε t r ⊗ (Dγ.pullbackAlong t (Category.comp_id t)).idealModule)))).H1) → Set.range ⇑s ⊆ (U : Set T))
+    (D : RelEffCartierDiv c r (U.ι ≫ t)) (D₀ : RelEffCartierDiv c g (U.ι ≫ t))
+    (hD : D.I = D₀.I * (Dγ.pullbackAlong (U.ι ≫ t) (Category.comp_id _)).I)
+    (hDL : Nonempty (D.twistModule c ε ≅ (L.pullbackAlong (⟨U.ι, rfl⟩ : SchemeHomOver (U.ι ≫ t) t)).L))
+    {T' : Scheme.{u}} (t' : T' ⟶ Spec (CommRingCat.of R)) [LocallyOfFiniteType t'] (ψ : SchemeHomOver t' t)
+    (D' : RelEffCartierDiv c r t') (D₀' : RelEffCartierDiv c g t')
+    (hD' : D'.I = D₀'.I * (Dγ.pullbackAlong t' (Category.comp_id _)).I)
+    (hD'L : Nonempty (D'.twistModule c ε ≅ (L.pullbackAlong ψ).L))
+    (h1' : ∀ (k : Type u) [Field k] (s' : Spec (CommRingCat.of k) ⟶ T')
+      (𝒲 : (pullback (pullback.snd c t') s').TwoAffineOpenCover),
+        Subsingleton (𝒲.sectionsOf (fibreAt c t' s') (fibreModule c t' s'
+          ((L.pullbackAlong ψ).L ⊗ (sectionTwist c ε t' r ⊗ (Dγ.pullbackAlong t' (Category.comp_id t')).idealModule)))).H1) :
+    Set.range ⇑ψ.1 ⊆ (U : Set T) ∧
+      ∀ (φ : T' ⟶ U) (hφ : φ ≫ U.ι = ψ.1),
+        D' = D.pullbackAlong φ (by rw [← Category.assoc, hφ]; exact ψ.2) :=
+  AlgebraicGeometry.RelPicard.K5bUniv.UNIV' R c ε h𝔉 g e r hr Dγ hχ t L hL U hUmax D D₀ hD hDL t' ψ D' D₀' hD' hD'L h1'
+
+end S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso
+end P2MW
+export P2MW.S_AlgebraicGeometry_RelPicard_relEffCartierDiv_eq_pullbackAlong_of_twistModule_iso (solution)

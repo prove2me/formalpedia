@@ -1,0 +1,73 @@
+-- Prove2me | solution 1 for Erdos1041.Counterexample.S4Proofs.norm_cayley_sub_lt
+-- status  : ACCEPTED   (prove)
+-- author  : @willcook
+-- created : 2026-09-27T20:24:18.742175+00:00
+-- url     : https://prove2.me/submissions/066c2ddb-3620-491c-b2ec-d4e14b8e2f9b
+
+import Definitions.Def_ErdosProblems_Erdos1041_Counterexample_Defs
+import Definitions.Def_ErdosProblems_Erdos1041_Counterexample_InstanceCritical
+import Theorems.Thm_Erdos1041_Counterexample_S4Proofs_cayley_den_ne_zero
+import Mathlib.Algebra.Polynomial.Derivative
+import Mathlib.Algebra.Polynomial.Div
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Analysis.Real.Pi.Bounds
+import Mathlib.Analysis.SpecialFunctions.Complex.Log
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+import Mathlib.Tactic
+import Mathlib.Tactic.ComputeDegree
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Ring
+import Mathlib.Topology.Connected.LocallyConnected
+import Mathlib.Topology.EMetricSpace.BoundedVariation
+import Mathlib.Topology.MetricSpace.Contracting
+import Mathlib.Topology.Order.IntermediateValue
+
+noncomputable section
+open scoped ComplexConjugate NNReal
+
+namespace Erdos1041.Counterexample.S4Proofs
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 10000
+end Erdos1041.Counterexample.S4Proofs
+
+open Erdos1041
+open Erdos1041.Counterexample
+open Erdos1041.Counterexample.S4Proofs
+set_option maxHeartbeats 4000000
+set_option maxRecDepth 10000
+open Erdos1041 in
+open Erdos1041.Counterexample in
+open Erdos1041.Counterexample.S4Proofs in
+theorem solution {x : ℝ} {w : ℂ}
+    (hA : |1 - w.re - w.im * x| ≤ 1 / 100)
+    (hB : |x + w.re * x - w.im| ≤ 1 / 100) :
+    ‖cayley x - w‖ < 1 / 10 := by
+  have hden := cayley_den_ne_zero x
+  have hrw : cayley x - w
+      = ((1 + (x : ℂ) * Complex.I) - w * (1 - (x : ℂ) * Complex.I))
+        / (1 - (x : ℂ) * Complex.I) := by
+    rw [cayley]; field_simp
+  have hd2 : ‖(1 : ℂ) - (x : ℂ) * Complex.I‖ ^ 2 = 1 + x ^ 2 := by
+    rw [← Complex.normSq_eq_norm_sq]
+    simp only [Complex.normSq_apply, Complex.sub_re, Complex.sub_im, Complex.one_re,
+      Complex.one_im, Complex.mul_re, Complex.mul_im, Complex.ofReal_re, Complex.ofReal_im,
+      Complex.I_re, Complex.I_im]
+    ring
+  have hn2 : ‖(1 + (x : ℂ) * Complex.I) - w * (1 - (x : ℂ) * Complex.I)‖ ^ 2
+      = (1 - w.re - w.im * x) ^ 2 + (x + w.re * x - w.im) ^ 2 := by
+    rw [← Complex.normSq_eq_norm_sq]
+    simp only [Complex.normSq_apply, Complex.sub_re, Complex.sub_im, Complex.add_re,
+      Complex.add_im, Complex.one_re, Complex.one_im, Complex.mul_re, Complex.mul_im,
+      Complex.ofReal_re, Complex.ofReal_im, Complex.I_re, Complex.I_im]
+    ring
+  have hdpos : 0 < ‖(1 : ℂ) - (x : ℂ) * Complex.I‖ := norm_pos_iff.mpr hden
+  have hA' := abs_le.mp hA
+  have hB' := abs_le.mp hB
+  have hAsq : (1 - w.re - w.im * x) ^ 2 ≤ (1 / 100 : ℝ) ^ 2 := by
+    nlinarith [hA'.1, hA'.2]
+  have hBsq : (x + w.re * x - w.im) ^ 2 ≤ (1 / 100 : ℝ) ^ 2 := by
+    nlinarith [hB'.1, hB'.2]
+  rw [hrw, norm_div, div_lt_iff₀ hdpos]
+  nlinarith [hn2, hd2, hAsq, hBsq, hdpos, sq_nonneg x,
+    norm_nonneg ((1 + (x : ℂ) * Complex.I) - w * (1 - (x : ℂ) * Complex.I))]

@@ -1,0 +1,402 @@
+-- Prove2me | Definitions.Def_CannonFloydParry
+-- name    : CannonFloydParry
+-- status  : Definition
+-- author  : @dbenbenn
+-- created : 2026-09-15T19:23:22.025217+00:00
+-- url     : https://prove2.me/theorems/81fa4ea0-408b-4819-b6d5-568c2aafd7a7
+-- title:
+--   Thompson's group $F$ on the unit interval and on the line
+-- statement:
+--   Thompson's group $F$ and the objects section 4 of Cannon-Floyd-Parry is about.
+--
+--   A real number is **dyadic** when it has the form $m/2^{k}$ with $m \in \mathbb{Z}$ and
+--   $k \in \mathbb{N}$.
+--
+--   $F$ is defined here on the closed unit interval, as the source defines it. An element of $F$ is
+--   an order isomorphism $f$ of $[0,1]$ for which there is a finite set $B$ of dyadic reals such
+--   that on every closed subinterval whose interior misses $B$, $f$ is affine with slope an integer
+--   power of $2$. The intercept of each affine piece is an arbitrary real: that the intercepts are
+--   in fact dyadic is a theorem, obtained by induction along the breakpoints from $f(0)=0$, and it
+--   is deliberately not part of the definition. Phrasing piecewise linearity on **closed**
+--   subintervals rather than on neighborhoods is what the source does, and it is what makes the
+--   affine formula available at the breakpoints themselves.
+--
+--   Modeling an element as an order isomorphism builds in orientation preservation, which the
+--   source instead derives from the positivity of the derivatives; the two descriptions pick out the
+--   same set of maps.
+--
+--   A companion predicate places the same data on the whole real line: an order isomorphism of
+--   $\mathbb{R}$ that is the identity outside $[0,1]$ and satisfies the same piecewise condition.
+--   Extension by the identity off $[0,1]$ and restriction to $[0,1]$ are mutually inverse group
+--   isomorphisms between the two models, and the line model is the one that meets Brin and Squier's
+--   group of piecewise-linear homeomorphisms of the line.
+--
+--   Also defined: an element is **trivial near $0$** if it fixes every point of some $[0,\varepsilon)$
+--   and **trivial near $1$** if it fixes every point of some $(1-\varepsilon,1]$; the **support** of
+--   an element is the set of points of $[0,1]$ it moves; and the two generators $A$ and $B$ of
+--   Example 1.1 are constructed explicitly, so that $F$ is provably not the trivial group.
+-- source:
+--   Cannon, J. W., Floyd, W. J., Parry, W. R., Introductory notes on Richard Thompson's groups, L'Enseignement Mathematique (2) 42 (1996) 215-256, https://doi.org/10.5169/seals-87877, section 1 pp. 216-217 (definition of F and Example 1.1)
+
+import Mathlib
+
+namespace CannonFloydParry
+
+/-! ### Dyadic rationals -/
+
+/-- A dyadic rational: `m / 2 ^ k`. -/
+def IsDyadic (x : ℝ) : Prop := ∃ (m : ℤ) (k : ℕ), x = (m : ℝ) / 2 ^ k
+
+/-- The condition, on an order isomorphism `f` of `ℝ`, that defines the line realisation of
+Thompson's group: `f` fixes every point of `(-∞, 0]` and every point of `[1, ∞)`, and is
+piecewise linear with finitely many breakpoints, all breakpoints dyadic and every slope an
+integer power of two.
+
+This is a predicate on a single map, not a group; the group is `Fline` below.
+
+Note the two fixing conditions are stated on the *closed* rays, so they also pin `f 0 = 0` and
+`f 1 = 1`; that is load-bearing, and stronger than "the identity off `[0,1]`".  No continuity of
+`f` is assumed or used — `≃o` carries an order isomorphism, not a homeomorphism — and nothing in
+this file uses the topology of `ℝ` either.
+
+Nothing is required of the intercepts: they are unconstrained reals here.  That they are in fact
+dyadic is derived, by induction along the breakpoints, but that derivation is not in this file:
+it happens inside the proof of the mission's closure theorem.  Following the source it must not
+be assumed.
+
+The piecewise-linearity is phrased as "affine on every closed interval whose interior avoids
+the breakpoint set `B`", which is the usual textbook reading of *piecewise* linear and, unlike a
+local formulation, pins the affine formula down **at** the breakpoints as well. -/
+def IsThompsonLine (f : ℝ ≃o ℝ) : Prop :=
+  (∀ x ≤ (0 : ℝ), f x = x) ∧ (∀ x, (1 : ℝ) ≤ x → f x = x) ∧
+  ∃ B : Finset ℝ, (∀ b ∈ B, IsDyadic b) ∧
+    ∀ x y : ℝ, x < y → Set.Ioo x y ∩ (B : Set ℝ) = ∅ →
+      ∃ (n : ℤ) (c : ℝ), ∀ z ∈ Set.Icc x y, f z = 2 ^ n * z + c
+
+/-- The unit interval, as a type: the coercion to a type of `Set.Icc (0 : ℝ) 1`, carrying the
+order it inherits from `ℝ`.
+
+This is the same set as Mathlib's `unitInterval`; at this revision both are `abbrev`s, hence
+reducible, so lemmas stated about `unitInterval` apply to `UI` without transport.  That
+convenience depends on `unitInterval` remaining an `abbrev`.
+
+Two further naming hazards for anyone importing this file: `extend` collides with
+`Function.extend` and `restrict` with `Set.restrict`, so a file that also opens those
+namespaces must qualify; and `F` is a name many developments bind as a variable. -/
+abbrev UI : Type := Set.Icc (0 : ℝ) 1
+
+/-- The condition, on an order isomorphism `f` of `[0,1]`, that Cannon–Floyd–Parry's §1 places
+on the elements of Thompson's group: `f` is piecewise linear with finitely many breakpoints, all
+breakpoints dyadic and every slope an integer power of two.
+
+This is a predicate on a single map, not a group; the group is `F` below.
+
+The intercepts are unconstrained reals, and nothing in this file states that they are dyadic.
+That they are is derived inside the proof of the mission's closure theorem, which is a
+submission rather than anything published here. -/
+def IsThompson (f : UI ≃o UI) : Prop :=
+  ∃ B : Finset ℝ, (∀ b ∈ B, IsDyadic b) ∧
+    ∀ x y : UI, (x : ℝ) < (y : ℝ) → Set.Ioo (x : ℝ) (y : ℝ) ∩ (B : Set ℝ) = ∅ →
+      ∃ (n : ℤ) (c : ℝ),
+        ∀ z : UI, (z : ℝ) ∈ Set.Icc (x : ℝ) (y : ℝ) → (f z : ℝ) = 2 ^ n * (z : ℝ) + c
+
+/-- Extension by the identity off `[0,1]`, at the level of bare functions. -/
+noncomputable def extendFun (f : UI → UI) (x : ℝ) : ℝ :=
+  if h : x ∈ Set.Icc (0 : ℝ) 1 then (f ⟨x, h⟩ : ℝ) else x
+
+lemma extendFun_of_mem (f : UI → UI) {x : ℝ} (h : x ∈ Set.Icc (0:ℝ) 1) :
+    extendFun f x = (f ⟨x, h⟩ : ℝ) := dif_pos h
+
+lemma extendFun_of_notMem (f : UI → UI) {x : ℝ} (h : x ∉ Set.Icc (0:ℝ) 1) :
+    extendFun f x = x := dif_neg h
+
+lemma extendFun_monotone (f : UI ≃o UI) : Monotone (extendFun f) := by
+  intro a b hab
+  by_cases ha : a ∈ Set.Icc (0:ℝ) 1 <;> by_cases hb : b ∈ Set.Icc (0:ℝ) 1
+  · rw [extendFun_of_mem f ha, extendFun_of_mem f hb]
+    exact (OrderIso.le_iff_le f).mpr hab
+  · -- `a ∈ [0,1]`, `b ∉ [0,1]`, so `b > 1`
+    rw [extendFun_of_mem f ha, extendFun_of_notMem f hb]
+    have hb1 : (1:ℝ) < b := by
+      rcases not_and_or.mp hb with h | h
+      · exact absurd (le_trans ha.1 hab) h
+      · exact lt_of_not_ge h
+    exact le_of_lt (lt_of_le_of_lt (f ⟨a, ha⟩).2.2 hb1)
+  · -- `a ∉ [0,1]`, `b ∈ [0,1]`, so `a < 0`
+    rw [extendFun_of_notMem f ha, extendFun_of_mem f hb]
+    have ha0 : a < (0:ℝ) := by
+      rcases not_and_or.mp ha with h | h
+      · exact lt_of_not_ge h
+      · exact absurd (le_trans hab hb.2) h
+    exact le_of_lt (lt_of_lt_of_le ha0 (f ⟨b, hb⟩).2.1)
+  · rw [extendFun_of_notMem f ha, extendFun_of_notMem f hb]; exact hab
+
+lemma extendFun_left_inv (f : UI ≃o UI) (x : ℝ) :
+    extendFun f.symm (extendFun f x) = x := by
+  by_cases h : x ∈ Set.Icc (0:ℝ) 1
+  · rw [extendFun_of_mem f h, extendFun_of_mem f.symm (f ⟨x, h⟩).2]
+    have : (⟨(f ⟨x, h⟩ : ℝ), (f ⟨x, h⟩).2⟩ : UI) = f ⟨x, h⟩ := rfl
+    rw [this, f.symm_apply_apply]
+  · rw [extendFun_of_notMem f h, extendFun_of_notMem f.symm h]
+
+/-- Extension by the identity, as an order isomorphism of the line. -/
+noncomputable def extend (f : UI ≃o UI) : ℝ ≃o ℝ where
+  toFun := extendFun f
+  invFun := extendFun f.symm
+  left_inv := extendFun_left_inv f
+  right_inv := fun x => by simpa using extendFun_left_inv f.symm x
+  map_rel_iff' := by
+    intro a b
+    refine ⟨fun h => ?_, fun h => extendFun_monotone f h⟩
+    have h' : extendFun f a ≤ extendFun f b := h
+    have := extendFun_monotone f.symm h'
+    rwa [extendFun_left_inv f a, extendFun_left_inv f b] at this
+
+@[simp] lemma extend_apply (f : UI ≃o UI) (x : ℝ) : extend f x = extendFun f x := rfl
+
+/-- Restriction to `[0,1]` of an order isomorphism of `ℝ` that fixes every point of
+`(-∞, 0]` and every point of `[1, ∞)`.  Those closed rays, rather than the complement of
+`[0,1]`, are what the hypotheses ask for: they also pin `L 0 = 0` and `L 1 = 1`, which is what
+makes the restriction land in `[0,1]`. -/
+noncomputable def restrict (L : ℝ ≃o ℝ) (hlo : ∀ x ≤ (0:ℝ), L x = x)
+    (hhi : ∀ x, (1:ℝ) ≤ x → L x = x) : UI ≃o UI := by
+  have h0 : L 0 = 0 := hlo 0 le_rfl
+  have h1 : L 1 = 1 := hhi 1 le_rfl
+  have hs0 : L.symm 0 = 0 := by rw [L.symm_apply_eq, h0]
+  have hs1 : L.symm 1 = 1 := by rw [L.symm_apply_eq, h1]
+  refine
+    { toFun := fun z => ⟨L z, ?_, ?_⟩
+      invFun := fun z => ⟨L.symm z, ?_, ?_⟩
+      left_inv := ?_, right_inv := ?_, map_rel_iff' := ?_ }
+  · have hx : L 0 ≤ L (z : ℝ) := (OrderIso.le_iff_le L).mpr z.2.1
+    rwa [h0] at hx
+  · have hx : L (z : ℝ) ≤ L 1 := (OrderIso.le_iff_le L).mpr z.2.2
+    rwa [h1] at hx
+  · have hx : L.symm 0 ≤ L.symm (z : ℝ) := (OrderIso.le_iff_le L.symm).mpr z.2.1
+    rwa [hs0] at hx
+  · have hx : L.symm (z : ℝ) ≤ L.symm 1 := (OrderIso.le_iff_le L.symm).mpr z.2.2
+    rwa [hs1] at hx
+  · intro z; ext; simp
+  · intro z; ext; simp
+  · intro a b; exact (OrderIso.le_iff_le L)
+
+@[simp] lemma restrict_coe (L : ℝ ≃o ℝ) (hlo : ∀ x ≤ (0:ℝ), L x = x)
+    (hhi : ∀ x, (1:ℝ) ≤ x → L x = x) (z : UI) :
+    ((restrict L hlo hhi z : UI) : ℝ) = L (z : ℝ) := rfl
+
+lemma zero_mem_UI : (0:ℝ) ∈ Set.Icc (0:ℝ) 1 := by constructor <;> norm_num
+
+lemma one_mem_UI : (1:ℝ) ∈ Set.Icc (0:ℝ) 1 := by constructor <;> norm_num
+
+/-- `f` is **trivial in a neighborhood of `0`**: it fixes every point of `[0, ε)` for some
+`ε > 0`.  This is the condition appearing in Cannon–Floyd–Parry's Theorem 4.1. -/
+def TrivialNearZero (f : UI ≃o UI) : Prop :=
+  ∃ ε > (0:ℝ), ∀ z : UI, (z : ℝ) < ε → (f z : ℝ) = (z : ℝ)
+
+/-- `f` is **trivial in a neighborhood of `1`**: for some `ε > 0` it fixes every point of
+`(1 - ε, 1]`. -/
+def TrivialNearOne (f : UI ≃o UI) : Prop :=
+  ∃ ε > (0:ℝ), ∀ z : UI, (1:ℝ) - ε < (z : ℝ) → (f z : ℝ) = (z : ℝ)
+
+/-- The **support** of `f`, as a subset of the line: the set of points of `[0,1]` it moves.
+
+No closure is taken — this is the bare moved-point set, matching the convention of
+Brin–Squier's same-named `BrinSquier.supp` for the line.  Nothing in this file consumes it: it
+exists for a separate theorem of this mission, which asks for containment in a closed
+interval.  Beware that in dynamics "support" often means the closure of this set, and that
+`BrinSquier.supp` has the same name and the same result type `Set ℝ`, so a file that opens both
+namespaces must qualify. -/
+def supp (f : UI ≃o UI) : Set ℝ := {t : ℝ | ∃ z : UI, (z : ℝ) = t ∧ (f z : ℝ) ≠ t}
+
+/-- Gluing two strictly monotone pieces that agree at the seam. -/
+lemma strictMono_glue {f g : ℝ → ℝ} {c : ℝ}
+    (hf : StrictMonoOn f (Set.Iic c)) (hg : StrictMonoOn g (Set.Ici c)) (hfg : f c = g c) :
+    StrictMono (fun x => if x ≤ c then f x else g x) := by
+  intro x y hxy
+  by_cases hx : x ≤ c <;> by_cases hy : y ≤ c <;> simp only [hx, hy, if_true, if_false]
+  · exact hf hx hy hxy
+  · have h1 : f x ≤ f c := by
+      rcases eq_or_lt_of_le hx with h | h
+      · rw [h]
+      · exact le_of_lt (hf hx (Set.mem_Iic.mpr le_rfl) h)
+    have h2 : g c < g y := hg (Set.mem_Ici.mpr le_rfl) (le_of_lt (lt_of_not_ge hy)) (lt_of_not_ge hy)
+    rw [hfg] at h1; linarith
+  · exact absurd (lt_of_lt_of_le hxy hy) (not_lt.mpr (le_of_lt (lt_of_not_ge hx)))
+  · exact hg (le_of_lt (lt_of_not_ge hx)) (le_of_lt (lt_of_not_ge hy)) hxy
+
+/-- `A` on `[3/4, ∞)`, extended by the identity past `1`. -/
+noncomputable def aFun3 : ℝ → ℝ := fun x => if x ≤ 1 then 2 * x - 1 else x
+
+noncomputable def aFun2 : ℝ → ℝ := fun x => if x ≤ 3/4 then x - 1/4 else aFun3 x
+
+noncomputable def aFun1 : ℝ → ℝ := fun x => if x ≤ 1/2 then x / 2 else aFun2 x
+
+/-- Cannon–Floyd–Parry's `A`: `x/2` on `[0,1/2]`, `x - 1/4` on `[1/2,3/4]`, `2x - 1` on
+`[3/4,1]`, the identity outside `[0,1]`. -/
+noncomputable def aFun : ℝ → ℝ := fun x => if x ≤ 0 then x else aFun1 x
+
+lemma strictMono_aFun3 : StrictMono aFun3 := by
+  refine strictMono_glue (c := 1) (fun a _ b _ h => by linarith) (fun a _ b _ h => h) ?_
+  norm_num
+
+lemma strictMono_aFun2 : StrictMono aFun2 := by
+  refine strictMono_glue (c := 3/4) (fun a _ b _ h => by linarith)
+    (fun a _ b _ h => strictMono_aFun3 h) ?_
+  simp [aFun3]; norm_num
+
+lemma strictMono_aFun1 : StrictMono aFun1 := by
+  refine strictMono_glue (c := 1/2) (fun a _ b _ h => by linarith)
+    (fun a _ b _ h => strictMono_aFun2 h) ?_
+  simp [aFun2]; norm_num
+
+lemma strictMono_aFun : StrictMono aFun := by
+  refine strictMono_glue (c := 0) (fun a _ b _ h => h)
+    (fun a _ b _ h => strictMono_aFun1 h) ?_
+  simp [aFun1, aFun2, aFun3]
+
+/-- A right inverse for `aFun`, used only to get surjectivity: `aFun_aInv` proves
+`aFun (aInv y) = y`, and nothing here proves the other composite. -/
+noncomputable def aInv : ℝ → ℝ := fun y =>
+  if y ≤ 0 then y
+  else if y ≤ 1/4 then 2 * y
+  else if y ≤ 1/2 then y + 1/4
+  else if y ≤ 1 then (y + 1) / 2
+  else y
+
+lemma aFun_aInv (y : ℝ) : aFun (aInv y) = y := by
+  unfold aFun aFun1 aFun2 aFun3 aInv
+  split_ifs <;> linarith
+
+lemma surjective_aFun : Function.Surjective aFun := fun y => ⟨aInv y, aFun_aInv y⟩
+
+/-- `A` as an order isomorphism of the line. -/
+noncomputable def lineA : ℝ ≃o ℝ :=
+  StrictMono.orderIsoOfSurjective aFun strictMono_aFun surjective_aFun
+
+@[simp] lemma lineA_apply (x : ℝ) : lineA x = aFun x := rfl
+
+lemma aFun_of_le_zero {z : ℝ} (h : z ≤ 0) : aFun z = z := by
+  unfold aFun aFun1 aFun2 aFun3; split_ifs <;> linarith
+
+lemma aFun_of_mem1 {z : ℝ} (h0 : 0 ≤ z) (h1 : z ≤ 1/2) : aFun z = z / 2 := by
+  unfold aFun aFun1 aFun2 aFun3; split_ifs <;> linarith
+
+lemma aFun_of_mem2 {z : ℝ} (h0 : 1/2 ≤ z) (h1 : z ≤ 3/4) : aFun z = z - 1/4 := by
+  unfold aFun aFun1 aFun2 aFun3; split_ifs <;> linarith
+
+lemma aFun_of_mem3 {z : ℝ} (h0 : 3/4 ≤ z) (h1 : z ≤ 1) : aFun z = 2 * z - 1 := by
+  unfold aFun aFun1 aFun2 aFun3; split_ifs <;> linarith
+
+lemma aFun_of_one_le {z : ℝ} (h : 1 ≤ z) : aFun z = z := by
+  unfold aFun aFun1 aFun2 aFun3; split_ifs <;> linarith
+
+lemma lineA_of_le_zero : ∀ x ≤ (0:ℝ), lineA x = x := fun x hx => aFun_of_le_zero hx
+
+lemma lineA_of_one_le : ∀ x, (1:ℝ) ≤ x → lineA x = x := fun x hx => aFun_of_one_le hx
+
+/-- Cannon–Floyd–Parry's `A` of Example 1.1, as an element of the unit-interval model:
+`x/2` on `[0,1/2]`, `x - 1/4` on `[1/2,3/4]` and `2x - 1` on `[3/4,1]`.
+
+The name records that this is one of the two maps the source singles out, not that it
+generates anything: that `A` and `B` generate `F` is Corollary 2.6, which is a milestone of
+this mission and is not proved here. -/
+noncomputable def mapA : UI ≃o UI := restrict lineA lineA_of_le_zero lineA_of_one_le
+
+lemma half_mem_UI : (1/2 : ℝ) ∈ Set.Icc (0:ℝ) 1 := by constructor <;> norm_num
+
+noncomputable def bFun3 : ℝ → ℝ := fun x => if x ≤ 1 then 2 * x - 1 else x
+
+noncomputable def bFun2 : ℝ → ℝ := fun x => if x ≤ 7/8 then x - 1/8 else bFun3 x
+
+noncomputable def bFun1 : ℝ → ℝ := fun x => if x ≤ 3/4 then x / 2 + 1/4 else bFun2 x
+
+/-- Cannon–Floyd–Parry's `B`: the identity on `[0,1/2]`, `x/2 + 1/4` on `[1/2,3/4]`,
+`x - 1/8` on `[3/4,7/8]`, `2x - 1` on `[7/8,1]`, and the identity outside `[0,1]`. -/
+noncomputable def bFun : ℝ → ℝ := fun x => if x ≤ 1/2 then x else bFun1 x
+
+lemma strictMono_bFun3 : StrictMono bFun3 := by
+  refine strictMono_glue (c := 1) (fun a _ b _ h => by linarith) (fun a _ b _ h => h) ?_
+  norm_num
+
+lemma strictMono_bFun2 : StrictMono bFun2 := by
+  refine strictMono_glue (c := 7/8) (fun a _ b _ h => by linarith)
+    (fun a _ b _ h => strictMono_bFun3 h) ?_
+  simp [bFun3]; norm_num
+
+lemma strictMono_bFun1 : StrictMono bFun1 := by
+  refine strictMono_glue (c := 3/4) (fun a _ b _ h => by linarith)
+    (fun a _ b _ h => strictMono_bFun2 h) ?_
+  simp [bFun2]; norm_num
+
+lemma strictMono_bFun : StrictMono bFun := by
+  refine strictMono_glue (c := 1/2) (fun a _ b _ h => h)
+    (fun a _ b _ h => strictMono_bFun1 h) ?_
+  simp [bFun1]; norm_num
+
+/-- A right inverse for `bFun`, used only to get surjectivity, as `aInv` is for `aFun`. -/
+noncomputable def bInv : ℝ → ℝ := fun y =>
+  if y ≤ 1/2 then y
+  else if y ≤ 5/8 then 2 * y - 1/2
+  else if y ≤ 3/4 then y + 1/8
+  else if y ≤ 1 then (y + 1) / 2
+  else y
+
+lemma bFun_bInv (y : ℝ) : bFun (bInv y) = y := by
+  unfold bFun bFun1 bFun2 bFun3 bInv
+  split_ifs <;> linarith
+
+noncomputable def lineB : ℝ ≃o ℝ :=
+  StrictMono.orderIsoOfSurjective bFun strictMono_bFun (fun y => ⟨bInv y, bFun_bInv y⟩)
+
+@[simp] lemma lineB_apply (x : ℝ) : lineB x = bFun x := rfl
+
+lemma bFun_of_le_half {z : ℝ} (h : z ≤ 1/2) : bFun z = z := by
+  unfold bFun bFun1 bFun2 bFun3; split_ifs <;> linarith
+
+lemma bFun_of_mem1 {z : ℝ} (h0 : 1/2 ≤ z) (h1 : z ≤ 3/4) : bFun z = z / 2 + 1/4 := by
+  unfold bFun bFun1 bFun2 bFun3; split_ifs <;> linarith
+
+lemma bFun_of_mem2 {z : ℝ} (h0 : 3/4 ≤ z) (h1 : z ≤ 7/8) : bFun z = z - 1/8 := by
+  unfold bFun bFun1 bFun2 bFun3; split_ifs <;> linarith
+
+lemma bFun_of_mem3 {z : ℝ} (h0 : 7/8 ≤ z) (h1 : z ≤ 1) : bFun z = 2 * z - 1 := by
+  unfold bFun bFun1 bFun2 bFun3; split_ifs <;> linarith
+
+lemma bFun_of_one_le {z : ℝ} (h : 1 ≤ z) : bFun z = z := by
+  unfold bFun bFun1 bFun2 bFun3; split_ifs <;> linarith
+
+lemma lineB_of_le_zero : ∀ x ≤ (0:ℝ), lineB x = x := fun x hx => bFun_of_le_half (by linarith)
+
+lemma lineB_of_one_le : ∀ x, (1:ℝ) ≤ x → lineB x = x := fun x hx => bFun_of_one_le hx
+
+/-- Cannon–Floyd–Parry's `B` of Example 1.1, as an element of the unit-interval model:
+the identity on `[0,1/2]`, `x/2 + 1/4` on `[1/2,3/4]`, `x - 1/8` on `[3/4,7/8]` and `2x - 1`
+on `[7/8,1]`.  As with `mapA`, the name does not claim that it generates anything. -/
+noncomputable def mapB : UI ≃o UI := restrict lineB lineB_of_le_zero lineB_of_one_le
+
+/-! ### The two groups
+
+Each is the subgroup **generated by** the maps satisfying the corresponding condition. Nothing
+is claimed here about that set already being closed under composition and inverses — that is
+Cannon–Floyd–Parry's result on p. 217, and it is stated as a theorem of this mission rather
+than assumed as part of the construction. -/
+
+/-- Thompson's group `F`: the subgroup of order isomorphisms of `[0,1]` generated by the
+piecewise-linear maps with dyadic breakpoints and power-of-two slopes. -/
+def F : Subgroup (UI ≃o UI) := Subgroup.closure {f | IsThompson f}
+
+/-- The line realisation of Thompson's group: the subgroup of order isomorphisms of `ℝ`
+generated by the maps satisfying `IsThompsonLine`. -/
+def Fline : Subgroup (ℝ ≃o ℝ) := Subgroup.closure {f | IsThompsonLine f}
+
+/-- Membership in the generating set implies membership in `F`.  The converse is the content
+of the closure theorem, and is not available here. -/
+theorem mem_F_of_isThompson {f : UI ≃o UI} (hf : IsThompson f) : f ∈ F :=
+  Subgroup.subset_closure hf
+
+theorem mem_Fline_of_isThompsonLine {f : ℝ ≃o ℝ} (hf : IsThompsonLine f) : f ∈ Fline :=
+  Subgroup.subset_closure hf
+
+end CannonFloydParry
+
+

@@ -1,0 +1,947 @@
+-- Prove2me | solution 1 for ModularCurve.exists_galoisRepAdic_charpoly_frobenius_of_heckeDiamondChar_tateModule_quotient
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:12.007995+00:00
+-- url     : https://prove2.me/submissions/8709dc75-e118-59c1-b56b-6c66ccb9e01f
+
+import Mathlib
+import Definitions.Def_GaloisRep_Adic
+import Definitions.Def_ModularCurve_X1HeckeModule
+import Theorems.Thm_ModularCurve_rationalRankTwoNebentypus_family
+import Theorems.Thm_ModularCurve_rep_tateModule_jOne_comm
+import Theorems.Thm_ModularCurve_frobeniusQuadratic_tateModule_jOne
+import Theorems.Thm_ModularCurve_rep_tateModule_jOne_eq_self_of_mem_inertiaSubgroupIn
+import Theorems.Thm_ModularCurve_moduleFinite_padicInt_tateModule_jOne
+import Theorems.Thm_ModularCurve_JOne_exists_finiteDimensional_smul_eq_self_of_torsion
+import Theorems.Thm_ModularCurve_heckeDiamondCommuteBar
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_ModularCurve_exists_galoisRepAdic_charpoly_frobenius_of_heckeDiamondChar_tateModule_quotient
+p2m_attr_erase "instance" "CohCarrier.iotaDeg_range_finiteIndex CohCarrier.Gamma0Upper_finiteIndex CohCarrier.HeckeData.V_isScalarTower CohCarrier.HeckeData.opSubalgebra_isMulCommutative CohCarrier.HeckeData.mTheta_isPrime CuspForm.heckeAlgebra.instCommRing CuspForm.heckeAlgebra.instIsMulCommutative CuspForm.heckeAlgebra.instIsAddTorsionFree CuspForm.GammaH_finiteIndex AlgebraicCurve.Place.instIsPrimeCenter AlgebraicCurve.Place.instIsFractionRingIntegralClosureAt AlgebraicCurve.Place.instIsTorsionFreeSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.Place.instIsDedekindDomainIntegralClosureAt AlgebraicCurve.Place.instFiniteSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.IsCurveOver.instNontrivialKaehler AlgebraicCurve.IsCurveOver.instFreeKaehler AlgebraicCurve.IsCurveOver.toHasPrincipalDivisors AlgebraicCurve.IsCurveOver.instFiniteResidue AlgebraicCurve.Place.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.Place.instIsTrivialOnWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.RationalFunctionField.instNontrivialSubtypeUnitsWithZeroMultiplicativeIntMemSubgroupValueGroupRatFuncValuationInftyValuation_definitions ModularCurve.instIsDomainTensorProduct AlgebraicClosure.Rat.isGalois ModularCurve.PhiGen.instNeZeroPhiGenCosetA AlgebraicCurve.instHasLocalResidue_of_hasCanonicalLocalResidueK AlgebraicCurve.instHasCanonicalLocalResidueK_of_hasCanonicalLocalResidueKStar AlgebraicCurve.Place.kw_ffgc_finiteDimensional_adicCompletion instAlgebraSubtypeMemValuationSubring_definitions AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersIntegersCompletion ModularCurve.KwF4gRRTate.instAlgebraKAdicCompletionIntegers AlgebraicCurve.Place.kw_ffgc_continuousSMul_adicCompletionComap AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersCompletionCompletion IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instDimensionLEOneSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.instLiesOverSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersCompletionIdealAsIdeal IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsPrincipalIdealRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemSubringIntegerWithZeroMultiplicativeInt_definitions IsDedekindDomain.HeightOneSpectrum.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicCompletionV_definitions AlgebraicCurve.instHasCanonicalLocalResidueK AlgebraicCurve.Place.instAlgebra_restrictResidueField"
+p2m_attr_erase "instance" "AlgebraicCurve.Place.instIsScalarTower_restrictResidueField AlgebraicCurve.instHasLocalResidue AlgebraicCurve.HasSeparableResidue.of_perfectField_of_isCurveOver AlgebraicCurve.HasSeparableResidue.of_perfectField AlgebraicCurve.Place.instIsLocalHom_restrictSubringHom AlgebraicCurve.instHasCanonicalLocalResidueKStar ModularCurve.KwNo6Pin.isLocalRing_completion ModularCurve.Period.parabolicHoms_int_moduleFinite ModularCurve.Period.instGroupFG_SL2Z ModularCurve.Period.instIsNoetherian_addHom_int ModularCurve.Period.instGroupFG_Gamma0 HeckeEis.instFiniteIndexHeckeUpper FLT.Gamma0FundamentalSet.instContinuousConstSMulSpecialLinearGroupFinOfNatNatIntUpperHalfPlane_definitions FLT.HyperbolicMeasure.instSMulInvariantMeasureSpecialLinearGroupFinOfNatNatIntUpperHalfPlaneVolume_definitions FLT.HyperbolicMeasure.instIsOpenPosMeasureUpperHalfPlaneVolume_definitions FLT.L2ProductionInstance.isFiniteMeasure_gamma0 FLT.L2ProductionInstance.countable_SL2Z FLT.L2ProductionInstance.countable_quotient FLT.L2ProductionInstance.nontrivial_gamma0L2 HeckeEis.instModuleCoeffH1par HeckeEis.instAddCommGroupCoeffH1par AlgebraicCurve.CellDissection.fintypeV AlgebraicCurve.CellDissection.fintypeC AlgebraicCurve.CellDissection.fintypeE AlgebraicCurve.CellDissection.decEqV AlgebraicCurve.CellDissection.decEqC AlgebraicCurve.CellDissection.decEqE Ihara.instGroupIharaAmalgam CohCarrier.GammaHLower_finiteIndex ValuationSubring.instIsAlgClosedResidueField ModularCurve.instFiniteProjectiveLine ModularCurve.unimodularRowSetoid ModularCurve.instIsElliptic_tateBase ModularCurve.instIsElliptic_tateLaurent ModularCurve.KatzGamma0Form.instModule ModularCurve.KatzGamma0Form.instZero ModularCurve.KatzLevelPForm.instSMul ModularCurve.KatzGamma0Form.instAdd ModularCurve.KatzLevelPForm.instAddCommGroup ModularCurve.KatzGamma0Form.instNeg"
+p2m_attr_erase "instance" "ModularCurve.KatzGamma0Form.instAddCommGroup ModularCurve.KatzLevelPForm.instAdd ModularCurve.KatzLevelPForm.instSub ModularCurve.KatzLevelPForm.instNeg ModularCurve.KatzGamma0Form.instSMul ModularCurve.KatzGamma0Form.instSub ModularCurve.KatzLevelPForm.instZero ModularCurve.KatzLevelPForm.instModule KatzModularForm.instAddCommGroup KatzModularForm.instSub KatzModularForm.instZero KatzModularForm.instModule KatzModularForm.instAdd KatzModularForm.instNeg KatzModularForm.instSMul WeierstrassCurve.instIsEllipticBaseChange WeierstrassCurve.Univ.Affine.instAddGroupPointFieldBaseChangeMvPolynomialCoeffIntCurve WeierstrassCurve.Univ.instIsEllipticFieldPointedCurve WeierstrassCurve.Univ.instCommRingPoly WeierstrassCurve.Affine.instIsScalarTowerPolynomialRatFuncFunctionField_definitions WeierstrassCurve.Affine.instAlgebraRatFuncFunctionField_definitions WeierstrassCurve.Affine.instIsScalarTowerRatFuncFunctionField_definitions WeierstrassCurve.Affine.CoordinateRing.moduleFinite WeierstrassCurve.Affine.instDecidableEqFunctionField WeierstrassCurve.Affine.CoordinateRing.isIntegral WeierstrassCurve.VeluQuotientJGates.instIsElliptic27a4 ModularCurve.ElevenA1.instDecidableEquation ModularCurve.ElevenA1.instDecidableNonsingular AlgebraicCurve.CurveModel.isProper AlgebraicCurve.CurveModel.isIntegral AlgebraicCurve.CurveModel.smooth ModularCurve.IgusaScheme.isOpenImmersion_fInf ModularCurve.IgusaScheme.isOpenImmersion_ιInf ModularCurve.IgusaScheme.fact_jFull_ne_zero ModularCurve.IgusaScheme.isOpenImmersion_ιFin ModularCurve.IgusaScheme.isOpenImmersion_fFin AlgebraicCurve.CurveModel.locallyOfFiniteType_gluedToBase AlgebraicCurve.CurveModel.isFractionRing_overlap AlgebraicCurve.CurveModel.isLocallyNoetherian_glued AlgebraicCurve.CurveModel.jacobsonSpace_glued"
+p2m_attr_erase "instance" "AlgebraicCurve.CurveModel.isOpenImmersion_ι₀ AlgebraicCurve.CurveModel.isIntegral_glued AlgebraicCurve.CurveModel.quasiSeparated_gluedToBase AlgebraicCurve.CurveModel.compactSpace_glued AlgebraicCurve.CurveModel.isIntegral_adjoin_chartRing AlgebraicCurve.CurveModel.isFractionRing_overlap_functionField AlgebraicCurve.CurveModel.isProper_gluedToBase AlgebraicCurve.CurveModel.isOpenImmersion_ιU AlgebraicCurve.CurveModel.isOpenImmersion_f₀ AlgebraicCurve.CurveModel.isOpenImmersion_fInf AlgebraicCurve.CurveModel.isOpenImmersion_ιInf AlgebraicCurve.CurveModel.algebra_overlap_functionField AlgebraicCurve.CurveModel.quasiCompact_gluedToBase AlgebraicCurve.CurveModel.algebraAdjoin AlgebraicCurve.CurveModel.isDedekindDomain_chartRing AlgebraicCurve.CurveModel.isIntegralClosure AlgebraicCurve.CurveModel.finite_chartRing AlgebraicCurve.CurveModel.centre_isPrime AlgebraicCurve.CurveModel.isFractionRing_chartRing AlgebraicCurve.CurveModel.finiteType_chartRing AlgebraicCurve.CurveModel.isNoetherianRing_chartRing AlgebraicCurve.CurveModel.isScalarTower_base_adjoin AlgebraicCurve.CurveModel.isScalarTower_adjoin AlgebraicCurve.CurveModel.chartRing_finitePresentation"
+p2m_attr_erase "simp" "ModularCurve.coe_heckeAlphaHBar ModularCurve.coe_heckeBetaHBarOf ModularCurve.JH.torsionGaloisRep_apply CohCarrier.conjUpperMat_apply_11 CohCarrier.conjUpperMat_apply_10 CohCarrier.mem_Gamma0Upper CohCarrier.val_gamma0Units CohCarrier.Gen.dia.sizeOf_spec CohCarrier.Gen.U.injEq CohCarrier.Gen.T.sizeOf_spec CohCarrier.Gen.U.sizeOf_spec CohCarrier.Gen.T.injEq CohCarrier.Gen.dia.injEq CohCarrier.HeckeData.mk.sizeOf_spec CohCarrier.HeckeData.opAlgHom_X CohCarrier.HeckeData.toMLₒ_apply CohCarrier.HeckeData.mk.injEq ModularCurve.Period.IsEquivariantPrimitive.periodHom_apply ModularCurve.Period.IsEquivariantPrimitive.period_one ModularCurve.dualHeckeRep_apply_apply ModularCurve.coe_segmentPath ModularCurve.cuspHeckeAeval_heckeGen ModularCurve.coe_periodLatticeRestrict_apply CuspForm.heckeAlgebra.coe_U CuspForm.heckeAlgebra.coe_T ModularForm.coe_heckeTLin_apply CuspForm.coe_heckeULin_apply CuspForm.coe_heckeTLin_apply ModularForm.coe_heckeULin_apply ModularForm.val_heckeDiagMatrix ModularForm.heckeU_zero ModularForm.heckeU_zero_left ModularForm.heckeT_zero ModularForm.val_heckeMatrix ModularForm.heckeMatrix_zero ModularForm.heckeT_zero_left ModularForm.heckeDiagMatrix_zero ModularForm.val_upperTriangularGL ExtCitation.archimedeanLoc_archimedeanGen complexConjAlgEquiv_apply"
+p2m_attr_erase "simp" "CohCarrier.jConjGammaH_jConjGammaH CohCarrier.coe_jConjGammaH CohCarrier.charInvolution_apply ModularCurve.Period.jConjMat_apply_zero_one ModularCurve.Period.jConjSL_coe ModularCurve.Period.jConjMat_apply_one_zero ModularCurve.Period.jConjMat_apply_one_one ModularCurve.Period.jConjGamma0_coe ModularCurve.Period.charInvolution_apply ModularCurve.Period.jConjMat_apply_zero_zero AlgebraicCurve.Place.placeOfPrime_toValuationSubring AlgebraicCurve.Place.mem_fiberOver AlgebraicCurve.Place.fiberEquiv_symm_apply AlgebraicCurve.Place.fiberEquiv_apply AlgebraicCurve.Place.centerHeightOneSpectrum_asIdeal AlgebraicCurve.IsFrobeniusEndo.frobNormRingHom_apply ModularCurve.frobeniusPushforwardGeomLevelPic0_mk ModularCurve.coe_frobeniusGeomLevelEquiv_apply ModularCurve.coe_frobeniusPushforwardGeomLevelDegZero ModularCurve.heckeFibreGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusGeomLevel_apply_coe ModularCurve.frobeniusPullbackGeomLevelPic0OfIsCurveOver_mk ModularCurve.coe_heckeFibreGeomLevelDegZero ModularCurve.coe_frobeniusPullbackGeomLevelDegZero ModularCurve.frobeniusPullbackGeomLevelPic0_mk ModularCurve.frobeniusPullbackGeomLevel_single ModularCurve.heckeFibreGeomLevelPic0_mk ModularCurve.frobeniusPushforwardGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusPushforwardGeomLevel_single ModularCurve.qExpandAlgC_apply AlgebraicCurve.Place.congrEquiv_symm_apply AlgebraicCurve.RationalFunctionField.heightOneSpectrumOfIrreducible_asIdeal AlgebraicCurve.Place.congrRingEquiv_toValuationSubring AlgebraicCurve.Place.congrEquiv_apply AlgebraicCurve.Place.coe_comapSymmRingEquiv_apply AlgebraicCurve.RationalFunctionField.deg_placeOfPoint AlgebraicCurve.coe_frobeniusPushforwardDegZero AlgebraicCurve.IsFrobeniusEndo.coe_frobeniusPullbackDegZero ModularCurve.jqNModC_one ModularCurve.reduceModBivar_C_X"
+p2m_attr_erase "simp" "ModularCurve.laurentMap_coeff ModularCurve.reduceModBivar_X ModularCurve.laurentMap_single ModularCurve.evalAtJInt_X ModularCurve.evalAtJMod_X ModularCurve.jqNMod_one AlgebraicCurve.RationalFunctionField.placeInfty_toValuationSubring AlgebraicCurve.RationalFunctionField.placeEquivOption_placeInfty AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_some AlgebraicCurve.RationalFunctionField.placeEquivOption_placeOfPoint AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_none AlgebraicCurve.Divisor.evalFun_zero AlgebraicCurve.Place.evalAt_one AlgebraicCurve.mulAdele_apply AlgebraicCurve.residuePairing_apply_coe AlgebraicCurve.mem_adeleBdd AlgebraicCurve.weilSmul_one AlgebraicCurve.diagonalHom_apply AlgebraicCurve.weilSmul_apply AlgebraicCurve.adeleSpaceMul_coe AlgebraicCurve.mulAdele_one AlgebraicCurve.Place.differentialCoeff_zero AlgebraicCurve.Place.differentialCoeff_dCoord AlgebraicCurve.TranscendenceTower.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.injEq AlgebraicCurve.TranscendenceTower.mk.injEq AlgebraicCurve.PoleDivisorPackage.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.sizeOf_spec AlgebraicCurve.PoleDivisorPackage.mk.injEq ModularCurve.ComplexPlaceDictionaryOf.pt_ofGamma0 ModularCurve.ComplexPlaceDictionaryOf.mk.injEq ModularCurve.ComplexPlaceDictionaryOf.pt_toGamma0 ModularCurve.ComplexPlaceDictionaryOf.mk.sizeOf_spec ModularCurve.ComplexPlaceDictionary.mk.injEq ModularCurve.ComplexPlaceDictionary.mk.sizeOf_spec ModularCurve.qExpandAlgHomC_apply WeierstrassCurve.reducePoint_zero WeierstrassCurve.Affine.Point.galoisRep_apply ModularCurve.coe_baseChangeEquiv_apply ModularCurve.baseChangeHom_tmul"
+p2m_attr_erase "simp" "ModularCurve.qInftyPlaceBar_toValuationSubring ModularCurve.qSeriesBar_zero ModularCurve.qSeriesBar_add ModularCurve.cuspInftyFull_toValuationSubring ModularCurve.qInftyPlaceRat_toValuationSubring ModularCurve.qSeriesBar_mul ModularCurve.qSeriesBar_div ModularCurve.qSeriesBar_eq_zero_iff ModularCurve.coe_uniformizerBar ModularCurve.qSeriesBar_pow ModularCurve.cuspInfty_toValuationSubring ModularCurve.qSeriesBar_one ModularCurve.qSeriesBar_inv ModularCurve.qSeriesBar_sub ModularCurve.qSeriesBar_neg ModularCurve.coe_cuspidalDivisor₀ ModularCurve.evalAtJqN_X ModularCurve.qTwistFun_coeff ModularCurve.swapBivar_C_X ModularCurve.PhiGen.cosetA_succ ModularCurve.qTwist_coeff ModularCurve.PhiGen.cosetB_zero ModularCurve.PhiGen.cosetA_zero ModularCurve.qTwist_single ModularCurve.swapBivar_X ModularCurve.aeval_toRingHom_X ModularCurve.PhiGen.cosetB_succ ModularCurve.eisensteinNumerator_nineteen ModularCurve.eisensteinNumerator_seventeen ModularCurve.eisensteinNumerator_eleven ModularCurve.eisensteinNumerator_five ModularCurve.eisensteinNumerator_seven ModularCurve.eisensteinNumerator_twentythree ModularCurve.eisensteinNumerator_thirteen ModularCurve.constantCoeff_dedekindEtaUnitQ PeriodPair.weierstrassCurve_a₆ PeriodPair.weierstrassCurve_a₃ PeriodPair.weierstrassCurve_a₁ PeriodPair.ofTau_ω₂ PeriodPair.scale_ω₂"
+p2m_attr_erase "simp" "PeriodPair.ofTau_ω₁ PeriodPair.toPoint_zero PeriodPair.toPoint_of_mem PeriodPair.weierstrassCurve_a₂ PeriodPair.ofTau_lattice PeriodPair.scale_ω₁ PeriodPair.weierstrassCurve_a₄ AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.sizeOf_spec AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.injEq AlgebraicCurve.adeleSingle_coe AlgebraicCurve.kaehlerResidueTermKFam_apply AlgebraicCurve.Place.LocalResidueData.mk.injEq AlgebraicCurve.Place.LocalResidueData.mk.sizeOf_spec AlgebraicCurve.Place.kw_ffgc_adicCompletionComapIntegers_coe AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.sizeOf_spec AlgebraicCurve.Place.mem_simplePoleSubmodule AlgebraicCurve.Place.coe_uniformizerSubring ModularCurve.Lg37.Lg37CompletionSection.mk.injEq AlgebraicCurve.Place.CoefficientFieldSection.mk.injEq AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.injEq ModularCurve.Lg37.Lg37CompletionSection.mk.sizeOf_spec AlgebraicCurve.Place.CoefficientFieldSection.mk.sizeOf_spec AlgebraicCurve.Place.poleSubmodule_one AlgebraicCurve.Place.mem_poleSubmodule HeckeEis.heckeConjMat_apply_one_one HeckeEis.coe_heckeConjSL HeckeEis.mem_heckeUpperSL HeckeEis.resHom_apply HeckeEis.heckeConjMat_apply_zero_one HeckeEis.coe_transferAux HeckeEis.coe_heckeConj HeckeEis.alphaMat_apply_one_one HeckeEis.heckeConjMat_apply_one_zero HeckeEis.alphaMat_apply_zero_one HeckeEis.pullbackHom_apply HeckeEis.alphaMat_apply_one_zero HeckeEis.alphaMat_apply_zero_zero HeckeEis.heckeConjMat_apply_zero_zero ModularCurve.LevelN.coe_jGen FLT.TruncatedDomainPartition.unipotentDiagonalSum_zero"
+p2m_attr_erase "simp" "HeckeEis.coeffCoboundaryMap_apply AlgebraicCurve.abelJacobiDiv_single AlgebraicCurve.AnalyticCoord.mk.injEq AlgebraicCurve.Cell.mk.sizeOf_spec AlgebraicCurve.RadialRegion.mk.sizeOf_spec AlgebraicCurve.RadialRegion.mk.injEq AlgebraicCurve.CellDissection.mk.sizeOf_spec AlgebraicCurve.Cell.mk.injEq AlgebraicCurve.CellDissection.mk.injEq AlgebraicCurve.AnalyticCoord.mk.sizeOf_spec AlgebraicCurve.ConstantReduction.toRegularProlongation_residue AlgebraicCurve.RegularProlongation.mk.sizeOf_spec AlgebraicCurve.ConstantReduction.toRegularProlongation_integers AlgebraicCurve.RegularProlongation.mk.injEq AlgebraicCurve.ConstantReduction.mk.injEq AlgebraicCurve.ConstantReduction.mk.sizeOf_spec AlgebraicCurve.ConstantReduction.divMap_apply AlgebraicCurve.ConstantReduction.coe_degZeroMap FreyPackage.ModMCarrier.coe_rescaleLin_apply ModularForm.AtkinLehnerDatum.mk.injEq ModularForm.AtkinLehnerDatum.alGL_coe ModularForm.AtkinLehnerDatum.mk.sizeOf_spec ModularForm.AtkinLehnerDatum.sqUnitSL_coe ModularForm.AtkinLehnerDatum.det_sqUnit ModularForm.AtkinLehnerDatum.det_mat Ihara.wConj_coe Ihara.wConj_symm_coe Ihara.coe_iota1 Ihara.coe_iota1SL Ihara.iota1Mat_apply_one_zero Ihara.iota1Mat_apply_zero_zero Ihara.iota1Mat_apply_zero_one Ihara.iota1Mat_apply_one_one Ihara.coe_iota0 Ihara.iharaEdge_one Ihara.pairFamily_zero Ihara.iharaEdge_zero Ihara.pairFamily_one Ihara.coe_amalgamToGamma0Away Ihara.coe_vertexZero"
+p2m_attr_erase "simp" "Ihara.coe_slToAway CuspForm.Gamma1Hecke.redMatrix_apply_one_one CuspForm.Gamma1Hecke.redMatrix_apply_one_zero CuspForm.Gamma1Hecke.lift_infty CuspForm.Gamma1Hecke.heckeRep_infty CuspForm.Gamma1Hecke.heckeRep_coe CuspForm.Gamma1Hecke.wt_infty CuspForm.Gamma1Hecke.redMatrix_apply_zero_one CuspForm.coe_slashLinOfMemGamma0_apply CuspForm.Gamma1Hecke.wt_coe CuspForm.Gamma1Hecke.lift_coe CuspForm.Gamma1Hecke.redMatrix_apply_zero_zero CuspForm.coe_heckeTOne CuspForm.coe_heckeTLinOne_apply CuspForm.coe_slashOfMemGamma0 CuspForm.PeterssonCoset.mapGL_apply CohCarrier.uMat_apply_10 CohCarrier.rightQuotEquivOfDvd_apply CohCarrier.uMat_apply_11 CohCarrier.uMat_apply_01 CohCarrier.uMat_apply_00 CohCarrier.coe_uElt CohCarrier.frickeH1L_apply CohCarrier.frickeMat_apply_10 CohCarrier.frickeEquiv_symm_apply CohCarrier.frickeMat_apply_01 CohCarrier.coe_frickeHom CohCarrier.frickeMat_apply_00 CohCarrier.frickeMat_apply_11 CohCarrier.frickeEquiv_apply CohCarrier.frickeH1_apply AlgebraicCurve.DivisorialWeilPairingData.toChar_apply AlgebraicCurve.WeilDatum.coe_classRight AlgebraicCurve.WeilDatum.coe_degZeroRight AlgebraicCurve.DivisorialWeilPairingData.mk.sizeOf_spec AlgebraicCurve.WeilDatum.coe_classLeft AlgebraicCurve.WeilDatum.coe_degZeroLeft AlgebraicCurve.DivisorialWeilPairingData.mk.injEq AlgebraicCurve.DivisorialWeilPairingData.toHom_apply_apply AlgebraicCurve.WeilDatum.mk.sizeOf_spec"
+p2m_attr_erase "simp" "AlgebraicCurve.WeilDatum.mk.injEq AlgebraicCurve.WeilPairingData.evalAddChar_zero AlgebraicCurve.PrincipalPolarization.mk.injEq AlgebraicCurve.WeilPairingData.evalAddChar_apply AlgebraicCurve.H1Gm.degree_ofPic0 AlgebraicCurve.WeilPairingData.mk.sizeOf_spec AlgebraicCurve.HomPic0Gm.map_one AlgebraicCurve.PrincipalPolarization.mk.sizeOf_spec AlgebraicCurve.WeilPairingData.autodualityEquiv_apply AlgebraicCurve.WeilPairingData.eval_zero_right AlgebraicCurve.H1Gm.ofPic0_mk AlgebraicCurve.WeilPairingData.eval_neg_left AlgebraicCurve.HomPic0Gm.map_apply AlgebraicCurve.H1Gm.degree_mk AlgebraicCurve.HomPic0Gm.map_id AlgebraicCurve.WeilPairingData.mk.injEq AlgebraicCurve.WeilPairingData.congr_eval AlgebraicCurve.WeilPairingData.eval_neg_right AlgebraicCurve.WeilPairingData.eval_zero_left ModularCurve.coe_towerInclBar ModularCurve.coe_towerSubstBar ModularCurve.coe_heckeBetaBarRingHom ModularCurve.coe_heckeBetaBar ModularCurve.coe_heckeAlphaBar ModularCurve.coe_laurentReductionDegZero ModularCurve.laurentReductionDiv_apply ModularCurve.coe_qExpFrobeniusModL ModularCurve.coe_qExpFrobeniusDegZeroPullbackModL ModularCurve.coe_qExpFrobeniusDegZeroPushforwardModL ModularCurve.coe_frobeniusModL ModularCurve.coe_frobeniusDegZeroPullbackModL ModularCurve.coe_frobeniusDegZeroPushforwardModL ValuationSubring.reduceAt_coe ValuationSubring.reduceAt_one ValuationSubring.reduceAt_natCast ValuationSubring.reduceAt_intCast ValuationSubring.reduceAt_zero ModularCurve.ProjectiveLine.map_mk ModularCurve.coe_uniformizerMod ModularCurve.qSeriesBar_jModElt"
+p2m_attr_erase "simp" "ModularCurve.qInftyPlaceMod_toValuationSubring HahnSeries.ramScale_apply WeierstrassCurve.Affine.vcY_vcYInv WeierstrassCurve.Affine.vcXInv_vcX WeierstrassCurve.Affine.Point.vcFun_zero WeierstrassCurve.Affine.vcX_vcXInv WeierstrassCurve.Affine.vcYInv_vcY WeierstrassCurve.Affine.Point.vcInvFun_zero ModularCurve.tateUnivCurve_a₂ ModularCurve.tateUnivCurve_a₃ ModularCurve.tateUnivCurve_a₆ ModularCurve.nonToricPoint_fst ModularCurve.toricPoint_snd ModularCurve.tateUnivCurve_a₁ ModularCurve.nonToricPoint_snd ModularCurve.tateUnivCurve_a₄ ModularCurve.toricPoint_fst ModularCurve.tateLaurent_a₆ ModularCurve.tatePowerSeries_a₄ ModularCurve.tatePowerSeries_a₆ ModularCurve.tateLaurent_a₄ ModularCurve.tatePowerSeries_a₁ ModularCurve.tatePowerSeries_a₂ ModularCurve.tatePowerSeries_a₃ ModularCurve.cuspData_yP ModularCurve.qTwistAlgHom_apply ModularCurve.cuspData_yQ ModularCurve.cuspData_xP ModularCurve.cuspData_xQ ModularCurve.val_cyclZeta ModularCurve.cuspShift_one ModularCurve.cuspShift_zero ModularCurve.LevelPData.mk.sizeOf_spec ModularCurve.KatzLevelPForm.neg_toFun ModularCurve.LevelP.coe_swapW ModularCurve.KatzLevelPForm.swap_swap KatzModularForm.pullbackLevelP_toFun ModularCurve.LevelPData.swap_xQ KatzModularForm.pullbackLevelP_zero ModularCurve.LevelPData.map_yP"
+p2m_attr_erase "simp" "ModularCurve.KatzLevelPForm.swap_neg ModularCurve.KatzGamma0Form.toKatzLevelPForm_sub ModularCurve.KatzLevelPForm.swap_add KatzModularForm.swap_pullbackLevelP ModularCurve.KatzGamma0Form.toKatzLevelPForm_add ModularCurve.KatzLevelPForm.swap_smul ModularCurve.LevelPData.map_yQ ModularCurve.KatzLevelPForm.mk.injEq ModularCurve.KatzLevelPForm.zero_toFun KatzModularForm.pullbackLevelP_smul ModularCurve.LevelPData.swap_xP ModularCurve.KatzGamma0Form.toKatzLevelPForm_mul ModularCurve.KatzGamma0Form.toKatzLevelPForm_neg ModularCurve.LevelPData.variableChange_xQ KatzModularForm.pullbackGamma0_toKatzLevelPForm ModularCurve.KatzLevelPForm.mk.sizeOf_spec ModularCurve.KatzLevelPForm.swap_zero ModularCurve.LevelP.coe_unipotentU ModularCurve.KatzLevelPForm.mul_toFun ModularCurve.LevelPData.variableChange_yP ModularCurve.LevelPData.mk.injEq ModularCurve.KatzLevelPForm.sub_toFun ModularCurve.LevelPData.variableChange_xP ModularCurve.KatzLevelPForm.smul_toFun ModularCurve.LevelPData.swap_yP ModularCurve.LevelPData.map_xP ModularCurve.LevelPData.swap_swap ModularCurve.LevelPData.swap_yQ ModularCurve.KatzGamma0Form.toKatzLevelPForm_zero ModularCurve.KatzGamma0Form.mk.injEq ModularCurve.KatzLevelPForm.swap_toFun KatzModularForm.pullbackLevelP_add ModularCurve.KatzGamma0Form.mk.sizeOf_spec ModularCurve.LevelPData.variableChange_yQ ModularCurve.KatzLevelPForm.swap_sub ModularCurve.KatzGamma0Form.toKatzLevelPForm_smul ModularCurve.LevelPData.map_xQ ModularCurve.KatzLevelPForm.add_toFun KatzModularForm.c₆_toFun KatzModularForm.neg_toFun"
+p2m_attr_erase "simp" "KatzModularForm.mul_toFun KatzModularForm.qExpansion_neg KatzModularForm.discr_toFun KatzModularForm.qExpansion_sub KatzModularForm.qExpansion_add KatzModularForm.qExpansion_mul KatzModularForm.zero_toFun KatzModularForm.mk.injEq KatzModularForm.qExpansion_smul KatzModularForm.smul_toFun KatzModularForm.add_toFun KatzModularForm.sub_toFun KatzModularForm.c₄_toFun KatzModularForm.qExpansion_zero KatzModularForm.mk.sizeOf_spec TateCurve.tateTorsionPoint_zero_zero TateCurve.cauchyMulInt_zero TateCurve.cauchyMulInt3_zero TateCurve.tent_one TateCurve.Gz_zero TateCurve.cauchyMulInt_one TateCurve.tent_zero TateCurve.Fz_zero TateCurve.xCoeffFull_succ TateCurve.a₆Coeff_zero TateCurve.a₄Coeff_succ TateCurve.a₄Coeff_zero TateCurve.cauchyMul_zero TateCurve.a₆Coeff_succ TateCurve.yCoeffFull_succ TateCurve.xCoeffFull_zero TateCurve.yCoeffFull_zero TateCurve.yfun_zero TateCurve.xfun_zero TateCurve.yTerm_zero TateCurve.xTerm_zero TateCurve.curve_a₂ TateCurve.b_one TateCurve.curve_a₁ TateCurve.term_zero"
+p2m_attr_erase "simp" "TateCurve.curve_a₆ TateCurve.curve_a₄ TateCurve.curve_a₃ FLT.DivisorConvolution.sigma_zero_right FLT.DivisorConvolution.sigma_one_right FLT.DivisorConvolution.sigmaConv_one FLT.DivisorConvolution.sigmaConv_zero WeierstrassCurve.Affine.Point.netCol_one WeierstrassCurve.Affine.Point.xOrZero_zero WeierstrassCurve.Affine.Point.netPairing_zero_right WeierstrassCurve.Affine.Point.netW20_some WeierstrassCurve.Affine.Point.netCol_zero WeierstrassCurve.Affine.Point.netPairing_zero_left WeierstrassCurve.Affine.Point.xOrZero_some WeierstrassCurve.Affine.Point.netW20_zero compl₂EDSAux_neg_two compl₂EDSAux_zero WeierstrassCurve.ωe_zero WeierstrassCurve.Univ.pointedCurve_a₁ WeierstrassCurve.Univ.polyToField_polynomial WeierstrassCurve.Coeff.A₁.sizeOf_spec compl₂EDS_zero compl₂EDS_one WeierstrassCurve.Univ.Affine.smulY_zero Param.C.sizeOf_spec EllSequence.redInvarDenom_zero compl₂EDSAux_two compl₂EDSAux_neg_one compl₂EDSAux_one WeierstrassCurve.Coeff.A₆.sizeOf_spec WeierstrassCurve.ψc_neg WeierstrassCurve.Univ.Affine.smulY_one WeierstrassCurve.Univ.Affine.smulX_one WeierstrassCurve.Coeff.A₂.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₄ compl₂EDS_neg WeierstrassCurve.Univ.pointedCurve_a₃ EllSequence.redInvarDenom_two WeierstrassCurve.Univ.pointedCurve_a₆ Param.D.sizeOf_spec"
+p2m_attr_erase "simp" "WeierstrassCurve.ωe_one WeierstrassCurve.Univ.Affine.smulX_zero WeierstrassCurve.Coeff.A₃.sizeOf_spec EllSequence.redInvarDenom_one WeierstrassCurve.Coeff.A₄.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₂ Param.B.sizeOf_spec compl₂EDS_two WeierstrassCurve.twoVeluCurve_a₁ WeierstrassCurve.twoVeluCurve_a₂ WeierstrassCurve.twoVeluCurve_a₃ WeierstrassCurve.xVeluCurve_a₃ WeierstrassCurve.xVeluCurve_a₂ WeierstrassCurve.xVeluCurve_a₁ WeierstrassCurve.veluWSum_empty WeierstrassCurve.veluQuotient_a₁ WeierstrassCurve.veluQuotient_a₃ WeierstrassCurve.veluQuotient_empty WeierstrassCurve.veluTSum_empty WeierstrassCurve.veluQuotient_a₂ WeierstrassCurve.veluQuotient2_a₂ WeierstrassCurve.veluQuotient2_a₃ WeierstrassCurve.veluQuotient2_a₁ WeierstrassCurve.veluPointMap2_zero WeierstrassCurve.Affine.Point.coordsOrZero_some WeierstrassCurve.Affine.Point.coordsOrZero_zero WeierstrassCurve.veluY_empty WeierstrassCurve.veluX_empty WeierstrassCurve.map_veluU WeierstrassCurve.map_veluT WeierstrassCurve.map_veluW WeierstrassCurve.map_veluGy WeierstrassCurve.map_veluGx WeierstrassCurve.map_veluWSum_singleton WeierstrassCurve.map_veluTSum_singleton WeierstrassCurve.veluPointMap3_zero WeierstrassCurve.vcInvEmbedding_apply WeierstrassCurve.Affine.IsogenyEndDatum.mk.injEq WeierstrassCurve.Affine.IsogenyHomDatum.mk.sizeOf_spec WeierstrassCurve.Affine.IsogenyHomDatum.mk.injEq"
+p2m_attr_erase "simp" "WeierstrassCurve.Affine.IsogenyEndDatum.mk.sizeOf_spec AlgebraicCurve.Pic0.coe_pushforwardAlongDegZero WeierstrassCurve.Affine.pointMapOfPushforward_apply WeierstrassCurve.Affine.pointClass_zero WeierstrassCurve.Affine.pic0ToPoint_pointClass WeierstrassCurve.Affine.deg_placeOfPoint WeierstrassCurve.Affine.coe_pointDivisor WeierstrassCurve.Affine.pointEquivPlace_symm_placeOfPoint WeierstrassCurve.Affine.pointEquivPlace_apply WeierstrassCurve.Affine.genusOnePic0Equiv_symm_apply WeierstrassCurve.Affine.pointDivisor_zero WeierstrassCurve.Affine.pic0ToPoint_mk WeierstrassCurve.Affine.divisorSum_single WeierstrassCurve.Affine.genusOnePic0Equiv_apply WeierstrassCurve.Affine.ratFuncToFunctionField_algebraMap WeierstrassCurve.Affine.pointHom_mk_C_C WeierstrassCurve.Affine.Point.yc_some WeierstrassCurve.Affine.Point.xc_some WeierstrassCurve.Affine.pointPull_algebraMap WeierstrassCurve.Affine.pointHom_mk_C_X WeierstrassCurve.Affine.pointHom_mk_Y WeierstrassCurve.Affine.placeOf_asIdeal AddMonoid.End.DualEndData.symm_trace AddMonoid.End.dualEndData_intCast_norm AddMonoid.End.DualEndData.ofCharPoly_norm AddMonoid.End.DualEndData.mk.sizeOf_spec AddMonoid.End.DualEndData.mk.injEq AddMonoid.End.DualEndData.ofCharPoly_dual AddMonoid.End.dualEndData_intCast_dual AddMonoid.End.DualEndData.intLinComb_norm AddMonoid.End.DualEndData.ofCharPoly_trace AddMonoid.End.DualEndData.intLinComb_dual AddMonoid.End.DualEndData.symm_dual AddMonoid.End.DualEndData.intLinComb_trace AddMonoid.End.dualEndData_intCast_trace AddMonoid.End.DualEndData.symm_norm FormalCoordinates.mk.injEq WeierstrassCurve.formalParam_zero WeierstrassCurve.SmoothLocusReductionData.reduceHom₀_apply WeierstrassCurve.formalParam_some"
+p2m_attr_erase "simp" "FormalCoordinates.mk.sizeOf_spec WeierstrassCurve.SmoothLocusReductionData.mk.injEq WeierstrassCurve.reducePointSmooth_zero WeierstrassCurve.SmoothLocusReductionData.mk.sizeOf_spec WeierstrassCurve.mem_zeroComponentSubgroup_iff GoodReductionJacobian.RelativePic0Designation.mk.sizeOf_spec GoodReductionJacobian.AvatarSchemeBridge.mk.injEq MilneJVScheme.JacobianSchemeData.mk.injEq GoodReductionJacobian.AvatarSchemeBridge.mk.sizeOf_spec MilneJVScheme.JacobianSchemeData.mk.sizeOf_spec GoodReductionJacobian.RelativePic0Designation.mk.injEq NeronModelInfra.specGenericFibreInclusion_eq NeronModelInfra.genericFibreRestrict_coe_comp_snd NeronModelInfra.genericFibreRestrict_coe_comp_fst GoodReductionJacobian.schemeHomOverComp_coe NeronModelInfra.schemeHomOverEquivOverHom_apply GoodReductionJacobian.RelativeGroupLaw.mk.sizeOf_spec NeronModelInfra.schemeHomOverEquivOverHom_symm_apply NeronModelInfra.overHomToSchemeHomOver_coe GoodReductionJacobian.RelativeGroupLaw.mk.injEq NeronModelInfra.overHomToSchemeHomOver_schemeHomOverToOverHom NeronModelInfra.schemeHomOverToOverHom_left NeronModelInfra.schemeHomOverToOverHom_overHomToSchemeHomOver ModularCurve.reductionDivAlong_apply ModularCurve.coe_reductionDegZeroAlong NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_symm_restrict NeronModelInfra.schemeHomOverComp_id_left NeronModelInfra.schemeHomOverComp_id_right NeronModelInfra.schemeHomOverId_coe NeronModelInfra.NeronModelPropertyBundle.endExtensionEquiv_apply NeronModelInfra.NeronModelPropertyBundle.restrict_endExtensionEquiv_symm NeronModelInfra.schemeHomOverComp_coe AlgebraicCurve.CurveModel.mk.injEq AlgebraicCurve.CurveModel.mk.sizeOf_spec ModularCurve.CharPModel.FibreModel.mk.injEq ModularCurve.CharPModel.FibreModel.mk.sizeOf_spec ModularCurve.IgusaScheme.ιInf_igusaTo_assoc ModularCurve.IgusaScheme.coe_jFull ModularCurve.IgusaScheme.coe_jInvChartInf ModularCurve.IgusaScheme.coe_jChartFin"
+p2m_attr_erase "simp" "ModularCurve.IgusaScheme.ιFin_igusaTo ModularCurve.IgusaScheme.ιInf_igusaTo ModularCurve.IgusaScheme.ιFin_igusaTo_assoc AlgebraicCurve.CurveModel.coe_gInf AlgebraicCurve.CurveModel.coe_tInvChart AlgebraicCurve.CurveModel.ιInf_gluedToBase_assoc AlgebraicCurve.CurveModel.ιInf_gluedToBase AlgebraicCurve.CurveModel.primeOfι₀_asIdeal AlgebraicCurve.CurveModel.coe_tChart AlgebraicCurve.CurveModel.ι₀_gluedToBase_assoc AlgebraicCurve.CurveModel.primeOfιInf_asIdeal AlgebraicCurve.CurveModel.ι₀_gluedToBase AlgebraicCurve.CurveModel.coe_tma AlgebraicCurve.CurveModel.coe_primeEquivChartPlaces"
+
+open Polynomial
+
+open scoped TensorProduct
+noncomputable section
+namespace E1G1ESX
+open ModularCurve
+
+set_option synthInstance.maxHeartbeats 1600000
+set_option linter.unusedSectionVars false
+
+local notation "Gal" => (AlgebraicClosure ℚ ≃ₐ[ℚ] AlgebraicClosure ℚ)
+
+variable (p : ℕ) [Fact p.Prime] (J : Type) [AddCommGroup J] [Module HeckeAlgOne J]
+
+scoped instance isMulCommutative_rationalHeckeAlgebraOne :
+    IsMulCommutative (rationalHeckeAlgebraOne p J) :=
+  Algebra.isMulCommutative_adjoin ℚ_[p] (by
+    rintro _ ⟨s, rfl⟩ _ ⟨t, rfl⟩
+    rw [← map_mul, ← map_mul, mul_comm])
+
+open scoped IsMulCommutative in
+scoped instance instCommRingA : CommRing (rationalHeckeAlgebraOne p J) := inferInstance
+
+scoped instance instSMulCommClassA : SMulCommClass (rationalHeckeAlgebraOne p J) (rationalHeckeAlgebraOne p J)
+    (RationalTateModule p J) := inferInstance
+
+scoped instance instAlgebraEndA : Algebra (rationalHeckeAlgebraOne p J)
+    (Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) := inferInstance
+
+scoped instance instModuleEndA : Module (rationalHeckeAlgebraOne p J)
+    (Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) :=
+  (instAlgebraEndA p J).toModule
+
+scoped instance instSMulEndA : SMul (rationalHeckeAlgebraOne p J)
+    (Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) :=
+  (instAlgebraEndA p J).toSMul
+
+theorem subalgebra_smul_def (a : rationalHeckeAlgebraOne p J) (v : RationalTateModule p J) :
+    a • v = (a : Module.End ℚ_[p] (RationalTateModule p J)) v := rfl
+
+theorem algebraMap_smul_eq (c : ℚ_[p]) (v : RationalTateModule p J) :
+    (algebraMap ℚ_[p] (rationalHeckeAlgebraOne p J) c) • v = c • v := by
+  rw [subalgebra_smul_def, Subalgebra.coe_algebraMap, Module.algebraMap_end_apply]
+
+def CommHyp [DistribMulAction Gal J] : Prop :=
+  ∀ (σ : Gal) (t : HeckeAlgOne) (x : TateModule p J),
+      TateModule.rep p J Gal σ (TateModule.rep p J HeckeAlgOne t x)
+        = TateModule.rep p J HeckeAlgOne t (TateModule.rep p J Gal σ x)
+
+section GaloisLinear
+
+variable [DistribMulAction Gal J]
+
+theorem commute_of_comm (hcomm : CommHyp p J) (σ : Gal) (a : rationalHeckeAlgebraOne p J) :
+    (a : Module.End ℚ_[p] (RationalTateModule p J)) * rationalGaloisRep p J Gal σ
+      = rationalGaloisRep p J Gal σ * a := by
+  have hle : rationalHeckeAlgebraOne p J ≤
+      Subalgebra.centralizer ℚ_[p] {rationalGaloisRep p J Gal σ} := by
+    refine Algebra.adjoin_le ?_
+    rintro _ ⟨t, rfl⟩
+    rw [SetLike.mem_coe, Subalgebra.mem_centralizer_iff]
+    rintro g rfl
+    rw [rationalGaloisRep_apply, rationalHeckeRepOne_apply, ← LinearMap.baseChange_mul,
+      ← LinearMap.baseChange_mul]
+    exact congrArg _ (LinearMap.ext fun x => hcomm σ t x)
+  have := (Subalgebra.mem_centralizer_iff ℚ_[p]).mp (hle a.2) _ rfl
+  exact this.symm
+
+def galA (hcomm : CommHyp p J) (σ : Gal) :
+    RationalTateModule p J →ₗ[rationalHeckeAlgebraOne p J] RationalTateModule p J where
+  toFun := rationalGaloisRep p J Gal σ
+  map_add' := map_add _
+  map_smul' a v := (LinearMap.congr_fun (commute_of_comm p J hcomm σ a) v).symm
+
+@[scoped simp] theorem galA_apply (hcomm : CommHyp p J) (σ : Gal) (v : RationalTateModule p J) :
+    galA p J hcomm σ v = rationalGaloisRep p J Gal σ v := rfl
+
+def galAHom (hcomm : CommHyp p J) :
+    Gal →* Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J) where
+  toFun := galA p J hcomm
+  map_one' := LinearMap.ext fun v => by simp
+  map_mul' σ τ := LinearMap.ext fun v => by simp
+
+@[scoped simp] theorem galAHom_apply (hcomm : CommHyp p J) (σ : Gal) (v : RationalTateModule p J) :
+    galAHom p J hcomm σ v = rationalGaloisRep p J Gal σ v := rfl
+
+end GaloisLinear
+
+section Transfer
+
+variable (b : Module.Basis (Fin 2) (rationalHeckeAlgebraOne p J) (RationalTateModule p J))
+variable {K : Type} [Field K] (Λ : rationalHeckeAlgebraOne p J →+* K)
+
+def transfer :
+    Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J) →+* Module.End K (Fin 2 → K) :=
+  ((Matrix.toLinAlgEquiv' (R := K) (n := Fin 2)).toRingEquiv.toRingHom.comp
+    (RingHom.mapMatrix Λ)).comp (LinearMap.toMatrixAlgEquiv b).toRingEquiv.toRingHom
+
+theorem transfer_apply (f : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) :
+    transfer p J b Λ f = Matrix.toLin' ((LinearMap.toMatrix b b f).map Λ) := rfl
+
+theorem transfer_smul (a : rationalHeckeAlgebraOne p J)
+    (f : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) :
+    transfer p J b Λ (a • f) = Λ a • transfer p J b Λ f := by
+  rw [transfer_apply, transfer_apply, LinearEquiv.map_smul, ← LinearEquiv.map_smul]
+  ext i j
+  simp [Matrix.map_apply, smul_eq_mul]
+
+def coordK : RationalTateModule p J →+ (Fin 2 → K) where
+  toFun v i := Λ (b.repr v i)
+  map_zero' := by ext i; simp
+  map_add' v w := by ext i; simp
+
+theorem coordK_apply (v : RationalTateModule p J) (i : Fin 2) :
+    coordK p J b Λ v i = Λ (b.repr v i) := rfl
+
+theorem coordK_smul (a : rationalHeckeAlgebraOne p J) (v : RationalTateModule p J) :
+    coordK p J b Λ (a • v) = Λ a • coordK p J b Λ v := by
+  ext i
+  simp [coordK_apply, smul_eq_mul]
+
+theorem coordK_basis (i : Fin 2) : coordK p J b Λ (b i) = Pi.single i 1 := by
+  ext j
+  rw [coordK_apply, Module.Basis.repr_self, Finsupp.single_apply, Pi.single_apply]
+  by_cases h : j = i
+  · subst h; simp
+  · simp [h, Ne.symm h]
+
+theorem coordK_endo (f : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J))
+    (v : RationalTateModule p J) :
+    coordK p J b Λ (f v) = transfer p J b Λ f (coordK p J b Λ v) := by
+  ext i
+  rw [transfer_apply, Matrix.toLin'_apply, coordK_apply, ← LinearMap.toMatrix_mulVec_repr b b f v]
+  simp only [Matrix.mulVec, dotProduct, Matrix.map_apply, coordK_apply, map_sum, map_mul]
+
+theorem det_transfer (f : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) :
+    LinearMap.det (transfer p J b Λ f) = Λ (LinearMap.det f) := by
+  rw [transfer_apply, LinearMap.det_toLin', ← LinearMap.det_toMatrix b, RingHom.map_det]
+  rfl
+
+end Transfer
+
+section Frobenius
+
+variable [DistribMulAction Gal J]
+variable (b : Module.Basis (Fin 2) (rationalHeckeAlgebraOne p J) (RationalTateModule p J))
+variable {K : Type} [Field K] (Λ : rationalHeckeAlgebraOne p J →+* K)
+
+def rhoK (hcomm : CommHyp p J) : Gal →* Module.End K (Fin 2 → K) :=
+  (transfer p J b Λ).toMonoidHom.comp (galAHom p J hcomm)
+
+theorem rhoK_apply (hcomm : CommHyp p J) (σ : Gal) :
+    rhoK p J b Λ hcomm σ = transfer p J b Λ (galA p J hcomm σ) := rfl
+
+def iotaK (x : TateModule p J) : Fin 2 → K := coordK p J b Λ ((1 : ℚ_[p]) ⊗ₜ[ℤ_[p]] x)
+
+theorem iotaK_add (x y : TateModule p J) :
+    iotaK p J b Λ (x + y) = iotaK p J b Λ x + iotaK p J b Λ y := by
+  simp [iotaK, TensorProduct.tmul_add]
+
+theorem iotaK_zero : iotaK p J b Λ 0 = 0 := by simp [iotaK]
+
+theorem iotaK_sub (x y : TateModule p J) :
+    iotaK p J b Λ (x - y) = iotaK p J b Λ x - iotaK p J b Λ y := by
+  simp [iotaK, TensorProduct.tmul_sub]
+
+theorem rhoK_iotaK (hcomm : CommHyp p J) (σ : Gal) (x : TateModule p J) :
+    rhoK p J b Λ hcomm σ (iotaK p J b Λ x) = iotaK p J b Λ (TateModule.rep p J Gal σ x) := by
+  rw [rhoK_apply, iotaK, iotaK, ← coordK_endo, galA_apply, rationalGaloisRep_tmul]
+
+theorem galA_quadratic (hcomm : CommHyp p J) {ℓ : ℕ} (hℓ : ℓ.Prime) (σ : Gal)
+    (hES : ∀ x : TateModule p J,
+      TateModule.rep p J HeckeAlgOne (diamondGen ℓ)
+          (TateModule.rep p J Gal σ (TateModule.rep p J Gal σ x))
+        - TateModule.rep p J HeckeAlgOne (heckeGenOne ⟨ℓ, hℓ⟩) (TateModule.rep p J Gal σ x)
+        + ℓ • x = 0) :
+    rationalDiamondOne p J ℓ • (galA p J hcomm σ * galA p J hcomm σ)
+      - rationalHeckeOne p J ⟨ℓ, hℓ⟩ • galA p J hcomm σ
+      + ((ℓ : ℕ) : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) = 0 := by
+  refine LinearMap.ext fun v => ?_
+  simp only [LinearMap.add_apply, LinearMap.sub_apply, Module.End.mul_apply, LinearMap.smul_apply,
+    LinearMap.zero_apply, galA_apply, subalgebra_smul_def, coe_rationalDiamondOne, coe_rationalHeckeOne]
+  induction v using TensorProduct.induction_on with
+  | zero => simp
+  | tmul c x =>
+    rw [Module.End.natCast_apply, rationalGaloisRep_tmul, rationalGaloisRep_tmul, rationalHeckeRepOne_tmul,
+      rationalHeckeRepOne_tmul, tateHeckeRepOne_apply, tateHeckeRepOne_apply,
+      ← Nat.cast_smul_eq_nsmul ℤ_[p], ← TensorProduct.tmul_smul,
+      Nat.cast_smul_eq_nsmul, ← TensorProduct.tmul_sub, ← TensorProduct.tmul_add, hES x,
+      TensorProduct.tmul_zero]
+  | add v w hv hw =>
+    have e : rationalHeckeRepOne p J (diamondGen ℓ)
+          (rationalGaloisRep p J Gal σ (rationalGaloisRep p J Gal σ (v + w)))
+        - rationalHeckeRepOne p J (heckeGenOne ⟨ℓ, hℓ⟩) (rationalGaloisRep p J Gal σ (v + w))
+        + ((ℓ : ℕ) : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) (v + w)
+        = (rationalHeckeRepOne p J (diamondGen ℓ)
+              (rationalGaloisRep p J Gal σ (rationalGaloisRep p J Gal σ v))
+            - rationalHeckeRepOne p J (heckeGenOne ⟨ℓ, hℓ⟩) (rationalGaloisRep p J Gal σ v)
+            + ((ℓ : ℕ) : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) v)
+          + (rationalHeckeRepOne p J (diamondGen ℓ)
+              (rationalGaloisRep p J Gal σ (rationalGaloisRep p J Gal σ w))
+            - rationalHeckeRepOne p J (heckeGenOne ⟨ℓ, hℓ⟩) (rationalGaloisRep p J Gal σ w)
+            + ((ℓ : ℕ) : Module.End (rationalHeckeAlgebraOne p J) (RationalTateModule p J)) w) := by
+      simp only [map_add]
+      abel
+    rw [e, hv, hw, add_zero]
+
+theorem rhoK_quadratic (hcomm : CommHyp p J) {ℓ : ℕ} (hℓ : ℓ.Prime) (σ : Gal)
+    (hES : ∀ x : TateModule p J,
+      TateModule.rep p J HeckeAlgOne (diamondGen ℓ)
+          (TateModule.rep p J Gal σ (TateModule.rep p J Gal σ x))
+        - TateModule.rep p J HeckeAlgOne (heckeGenOne ⟨ℓ, hℓ⟩) (TateModule.rep p J Gal σ x)
+        + ℓ • x = 0) :
+    Λ (rationalDiamondOne p J ℓ) • (rhoK p J b Λ hcomm σ * rhoK p J b Λ hcomm σ)
+      - Λ (rationalHeckeOne p J ⟨ℓ, hℓ⟩) • rhoK p J b Λ hcomm σ
+      + ((ℓ : ℕ) : Module.End K (Fin 2 → K)) = 0 := by
+  have h := congrArg (transfer p J b Λ) (galA_quadratic p J hcomm hℓ σ hES)
+  rwa [map_add, map_sub, transfer_smul, map_mul, transfer_smul, map_natCast, map_zero] at h
+
+theorem rhoK_quadratic' (hcomm : CommHyp p J) {ℓ : ℕ} (hℓ : ℓ.Prime) (σ : Gal)
+    (hES : ∀ x : TateModule p J,
+      TateModule.rep p J HeckeAlgOne (diamondGen ℓ)
+          (TateModule.rep p J Gal σ (TateModule.rep p J Gal σ x))
+        - TateModule.rep p J HeckeAlgOne (heckeGenOne ⟨ℓ, hℓ⟩) (TateModule.rep p J Gal σ x)
+        + ℓ • x = 0)
+    (a' d' : K) (ha : Λ (rationalHeckeOne p J ⟨ℓ, hℓ⟩) = a')
+    (hd : Λ (rationalDiamondOne p J ℓ) * d' = 1) :
+    rhoK p J b Λ hcomm σ * rhoK p J b Λ hcomm σ - (d' * a') • rhoK p J b Λ hcomm σ
+      + ((d' * (ℓ : K)) • (1 : Module.End K (Fin 2 → K))) = 0 := by
+  have h := congrArg (fun f => d' • f) (rhoK_quadratic p J b Λ hcomm hℓ σ hES)
+  simp only [smul_add, smul_sub, smul_smul, smul_zero] at h
+  rw [mul_comm d' (Λ _), hd, one_smul, ha] at h
+  have e : d' • ((ℓ : ℕ) : Module.End K (Fin 2 → K)) = (d' * (ℓ : K)) • (1 : Module.End K (Fin 2 → K)) := by
+    rw [← smul_smul, Nat.cast_smul_eq_nsmul, nsmul_eq_mul, mul_one]
+  rw [e] at h
+  exact h
+
+theorem det_rhoK (hcomm : CommHyp p J) (σ : Gal) :
+    LinearMap.det (rhoK p J b Λ hcomm σ)
+      = Λ ((b.repr (rationalGaloisRep p J Gal σ (b 0))) 0
+              * (b.repr (rationalGaloisRep p J Gal σ (b 1))) 1
+            - (b.repr (rationalGaloisRep p J Gal σ (b 1))) 0
+              * (b.repr (rationalGaloisRep p J Gal σ (b 0))) 1) := by
+  rw [rhoK_apply, det_transfer, ← LinearMap.det_toMatrix b, Matrix.det_fin_two]
+  simp only [LinearMap.toMatrix_apply, galA_apply]
+
+end Frobenius
+
+section Lattice
+
+variable [DistribMulAction Gal J]
+variable (b : Module.Basis (Fin 2) (rationalHeckeAlgebraOne p J) (RationalTateModule p J))
+variable {K : Type} [Field K] (Λ : rationalHeckeAlgebraOne p J →+* K)
+variable (O : Type) [CommRing O] [IsDomain O] [IsDiscreteValuationRing O] [Algebra O K]
+  [IsFractionRing O K] [Algebra ℤ_[p] O]
+
+def lattice : Submodule O (Fin 2 → K) := Submodule.span O (Set.range (iotaK p J b Λ))
+
+theorem iotaK_mem (x : TateModule p J) : iotaK p J b Λ x ∈ lattice p J b Λ O :=
+  Submodule.subset_span ⟨x, rfl⟩
+
+def Compat : Prop :=
+  ∀ c : ℤ_[p], Λ (algebraMap ℚ_[p] (rationalHeckeAlgebraOne p J) (c : ℚ_[p]))
+    = algebraMap O K (algebraMap ℤ_[p] O c)
+
+theorem iotaK_smul (hc : Compat p J Λ O) (c : ℤ_[p]) (x : TateModule p J) :
+    iotaK p J b Λ (c • x) = (algebraMap ℤ_[p] O c) • iotaK p J b Λ x := by
+  rw [iotaK, iotaK, TensorProduct.tmul_smul, ← algebraMap_smul ℚ_[p] c, ← algebraMap_smul_eq,
+    coordK_smul, show algebraMap ℤ_[p] ℚ_[p] c = (c : ℚ_[p]) from rfl, hc, algebraMap_smul]
+
+theorem lattice_stable (hcomm : CommHyp p J) (σ : Gal) :
+    ∀ v ∈ lattice p J b Λ O, rhoK p J b Λ hcomm σ v ∈ lattice p J b Λ O := by
+  intro v hv
+  have : lattice p J b Λ O ≤ (lattice p J b Λ O).comap ((rhoK p J b Λ hcomm σ).restrictScalars O) := by
+    refine Submodule.span_le.mpr ?_
+    rintro _ ⟨x, rfl⟩
+    simp only [SetLike.mem_coe, Submodule.mem_comap, LinearMap.coe_restrictScalars, rhoK_iotaK]
+    exact iotaK_mem p J b Λ O _
+  exact this hv
+
+def rhoL (hcomm : CommHyp p J) (σ : Gal) : lattice p J b Λ O →ₗ[O] lattice p J b Λ O :=
+  ((rhoK p J b Λ hcomm σ).restrictScalars O).restrict (lattice_stable p J b Λ O hcomm σ)
+
+@[scoped simp] theorem coe_rhoL (hcomm : CommHyp p J) (σ : Gal) (v : lattice p J b Λ O) :
+    ((rhoL p J b Λ O hcomm σ v : lattice p J b Λ O) : Fin 2 → K) = rhoK p J b Λ hcomm σ v := rfl
+
+def rhoLHom (hcomm : CommHyp p J) : Gal →* Module.End O (lattice p J b Λ O) where
+  toFun := rhoL p J b Λ O hcomm
+  map_one' := LinearMap.ext fun v => Subtype.ext (by simp)
+  map_mul' σ τ := LinearMap.ext fun v => Subtype.ext (by simp)
+
+@[scoped simp] theorem rhoLHom_apply (hcomm : CommHyp p J) (σ : Gal) :
+    rhoLHom p J b Λ O hcomm σ = rhoL p J b Λ O hcomm σ := rfl
+
+theorem eq_top_of_forall_iotaK_mem (N : Submodule O (lattice p J b Λ O))
+    (h : ∀ x, ⟨iotaK p J b Λ x, iotaK_mem p J b Λ O x⟩ ∈ N) : N = ⊤ := by
+  rw [eq_top_iff]
+  rintro ⟨v, hv⟩ -
+  induction hv using Submodule.span_induction with
+  | mem w hw =>
+    obtain ⟨x, rfl⟩ := hw
+    exact h x
+  | zero => exact N.zero_mem
+  | add u w hu hw ihu ihw => exact N.add_mem ihu ihw
+  | smul c w hw ih => exact N.smul_mem c ih
+
+theorem lattice_finite [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) :
+    Module.Finite O (lattice p J b Λ O) := by
+  obtain ⟨S, hS⟩ := Module.Finite.fg_top (R := ℤ_[p]) (M := TateModule p J)
+  have hsub : Set.range (iotaK p J b Λ) ⊆ Submodule.span O (iotaK p J b Λ '' S) := by
+    rintro _ ⟨x, rfl⟩
+    have hx : x ∈ Submodule.span ℤ_[p] (S : Set (TateModule p J)) := hS ▸ Submodule.mem_top
+    induction hx using Submodule.span_induction with
+    | mem y hy => exact Submodule.subset_span ⟨y, hy, rfl⟩
+    | zero => rw [iotaK_zero]; exact zero_mem _
+    | add y z _ _ hy hz => rw [iotaK_add]; exact add_mem hy hz
+    | smul c y _ hy => rw [iotaK_smul p J b Λ O hc]; exact Submodule.smul_mem _ _ hy
+  rw [Module.Finite.iff_fg, Submodule.fg_def]
+  refine ⟨iotaK p J b Λ '' S, S.finite_toSet.image _, le_antisymm ?_ ?_⟩
+  · exact Submodule.span_mono (Set.image_subset_range _ _)
+  · exact Submodule.span_le.mpr hsub
+
+scoped instance : Module.IsTorsionFree O (Fin 2 → K) := by
+  haveI : Module.IsTorsionFree O K :=
+    Module.isTorsionFree_iff_algebraMap_injective.mpr (IsFractionRing.injective O K)
+  infer_instance
+
+theorem lattice_free [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) :
+    Module.Free O (lattice p J b Λ O) := by
+  haveI := lattice_finite p J b Λ O hc
+  infer_instance
+
+theorem coordK_mem_span (v : RationalTateModule p J) :
+    coordK p J b Λ v ∈ Submodule.span K (Set.range (iotaK p J b Λ)) := by
+  induction v using TensorProduct.induction_on with
+  | zero => rw [map_zero]; exact zero_mem _
+  | tmul c x =>
+    have : c ⊗ₜ[ℤ_[p]] x = (algebraMap ℚ_[p] (rationalHeckeAlgebraOne p J) c) • ((1 : ℚ_[p]) ⊗ₜ[ℤ_[p]] x) := by
+      rw [algebraMap_smul_eq, TensorProduct.smul_tmul', smul_eq_mul, mul_one]
+    rw [this, coordK_smul]
+    exact Submodule.smul_mem _ _ (Submodule.subset_span ⟨x, rfl⟩)
+  | add v w hv hw => rw [map_add]; exact add_mem hv hw
+
+theorem span_K_range_iotaK : Submodule.span K (Set.range (iotaK p J b Λ)) = ⊤ := by
+  classical
+  rw [eq_top_iff]
+  rintro v -
+  rw [← Finset.univ_sum_single v]
+  refine Submodule.sum_mem _ fun i _ => ?_
+  have : Pi.single i (v i) = v i • (Pi.single i (1 : K) : Fin 2 → K) := by
+    rw [← Pi.single_smul, smul_eq_mul, mul_one]
+  rw [this, ← coordK_basis p J b Λ]
+  exact Submodule.smul_mem _ _ (coordK_mem_span p J b Λ _)
+
+theorem lattice_le_span_K [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) :
+    letI := lattice_free p J b Λ O hc
+    ((lattice p J b Λ O : Submodule O (Fin 2 → K)) : Set (Fin 2 → K))
+      ⊆ Submodule.span K (Set.range fun i => ((Module.Free.chooseBasis O (lattice p J b Λ O) i
+          : lattice p J b Λ O) : Fin 2 → K)) := by
+  letI := lattice_free p J b Λ O hc
+  letI := lattice_finite p J b Λ O hc
+  intro z hz
+  set f := Module.Free.chooseBasis O (lattice p J b Λ O)
+  have hz' := f.sum_repr ⟨z, hz⟩
+  have : z = ∑ i, (f.repr ⟨z, hz⟩ i) • ((f i : lattice p J b Λ O) : Fin 2 → K) := by
+    conv_lhs => rw [show z = ((⟨z, hz⟩ : lattice p J b Λ O) : Fin 2 → K) from rfl, ← hz']
+    rw [Submodule.coe_sum]
+    rfl
+  rw [SetLike.mem_coe, this]
+  refine Submodule.sum_mem _ fun i _ => ?_
+  rw [← algebraMap_smul K]
+  exact Submodule.smul_mem _ _ (Submodule.subset_span ⟨i, rfl⟩)
+
+def basisK [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) :
+    letI := lattice_free p J b Λ O hc
+    Module.Basis (Module.Free.ChooseBasisIndex O (lattice p J b Λ O)) K (Fin 2 → K) :=
+  letI := lattice_free p J b Λ O hc
+  Module.Basis.mk
+    (v := fun i => ((Module.Free.chooseBasis O (lattice p J b Λ O) i : lattice p J b Λ O) : Fin 2 → K))
+    (((Module.Free.chooseBasis O (lattice p J b Λ O)).linearIndependent.map'
+        (lattice p J b Λ O).subtype (Submodule.ker_subtype _)).localization K (nonZeroDivisors O))
+    (by
+      rw [← span_K_range_iotaK p J b Λ, Submodule.span_le]
+      rintro _ ⟨x, rfl⟩
+      exact lattice_le_span_K p J b Λ O hc (iotaK_mem p J b Λ O x))
+
+theorem basisK_apply [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) (i) :
+    letI := lattice_free p J b Λ O hc
+    basisK p J b Λ O hc i = ((Module.Free.chooseBasis O (lattice p J b Λ O) i : lattice p J b Λ O) : Fin 2 → K) := by
+  simp [basisK]
+
+theorem finrank_lattice [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) :
+    Module.finrank O (lattice p J b Λ O) = 2 := by
+  letI := lattice_free p J b Λ O hc
+  letI := lattice_finite p J b Λ O hc
+  have h1 := Module.finrank_eq_card_basis (basisK p J b Λ O hc)
+  rw [Module.finrank_fin_fun] at h1
+  rw [Module.finrank_eq_card_chooseBasisIndex, ← h1]
+
+theorem basisK_repr [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (z : lattice p J b Λ O) (i) :
+    letI := lattice_free p J b Λ O hc
+    (basisK p J b Λ O hc).repr (z : Fin 2 → K) i
+      = algebraMap O K ((Module.Free.chooseBasis O (lattice p J b Λ O)).repr z i) := by
+  letI := lattice_free p J b Λ O hc
+  letI := lattice_finite p J b Λ O hc
+  set f := Module.Free.chooseBasis O (lattice p J b Λ O)
+  have hz : (z : Fin 2 → K) = ∑ j, algebraMap O K (f.repr z j) • basisK p J b Λ O hc j := by
+    conv_lhs => rw [← f.sum_repr z]
+    rw [Submodule.coe_sum]
+    refine Finset.sum_congr rfl fun j _ => ?_
+    rw [basisK_apply, algebraMap_smul, Submodule.coe_smul_of_tower]
+  rw [hz, Module.Basis.repr_sum_self]
+
+theorem algebraMap_det_rhoL [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (hcomm : CommHyp p J) (σ : Gal) :
+    algebraMap O K (LinearMap.det (rhoL p J b Λ O hcomm σ)) = LinearMap.det (rhoK p J b Λ hcomm σ) := by
+  letI := lattice_free p J b Λ O hc
+  letI := lattice_finite p J b Λ O hc
+  classical
+  set f := Module.Free.chooseBasis O (lattice p J b Λ O)
+  rw [← LinearMap.det_toMatrix f, ← LinearMap.det_toMatrix (basisK p J b Λ O hc), RingHom.map_det]
+  congr 1
+  ext i j
+  rw [RingHom.mapMatrix_apply, Matrix.map_apply, LinearMap.toMatrix_apply, LinearMap.toMatrix_apply,
+    basisK_apply, ← coe_rhoL, basisK_repr p J b Λ O hc]
+
+def ContHyp : Prop :=
+  ∀ m : ℕ, ∃ L : IntermediateField ℚ (AlgebraicClosure ℚ), FiniteDimensional ℚ L ∧
+    ∀ σ : Gal, (∀ x ∈ L, σ x = x) → ∀ P : J, ((p ^ m : ℕ) : ℤ) • P = 0 → σ • P = P
+
+theorem rhoL_sub_apply (hcomm : CommHyp p J) (σ : Gal) (v : lattice p J b Λ O) :
+    (((rhoL p J b Λ O hcomm σ - 1) v : lattice p J b Λ O) : Fin 2 → K)
+      = rhoK p J b Λ hcomm σ v - v := rfl
+
+theorem rhoL_continuous [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (hcomm : CommHyp p J) (hcont : ContHyp p J)
+    (hpm : (p : O) ∈ IsLocalRing.maximalIdeal O) :
+    GaloisActionIsAdicContinuous O (rhoLHom p J b Λ O hcomm) := by
+  intro n
+  obtain ⟨L, hL, hfix⟩ := hcont n
+  refine ⟨L, hL, fun σ hσ => ?_⟩
+  suffices h : Submodule.comap (rhoL p J b Λ O hcomm σ - 1)
+      ((IsLocalRing.maximalIdeal O ^ n) • (⊤ : Submodule O (lattice p J b Λ O))) = ⊤ by
+    intro v
+    have hv : v ∈ Submodule.comap (rhoL p J b Λ O hcomm σ - 1)
+        ((IsLocalRing.maximalIdeal O ^ n) • (⊤ : Submodule O (lattice p J b Λ O))) := by
+      rw [h]; exact Submodule.mem_top
+    rw [Submodule.mem_comap, LinearMap.sub_apply, Module.End.one_apply] at hv
+    exact hv
+  refine eq_top_of_forall_iotaK_mem p J b Λ O _ fun x => ?_
+  rw [Submodule.mem_comap]
+  have hmem : TateModule.rep p J Gal σ x - x
+      ∈ (IsLocalRing.maximalIdeal ℤ_[p] ^ n) • (⊤ : Submodule ℤ_[p] (TateModule p J)) :=
+    TateModule.rep_sub_mem_of_forall_torsionBy σ n
+      (fun m hm => hfix σ hσ m ((Submodule.mem_torsionBy_iff _ _).mp hm)) x
+  rw [PadicInt.maximalIdeal_eq_span_p, Ideal.span_singleton_pow, Submodule.ideal_span_singleton_smul,
+    Submodule.mem_smul_pointwise_iff_exists] at hmem
+  obtain ⟨y, -, hy⟩ := hmem
+  have hval : (((rhoL p J b Λ O hcomm σ - 1) ⟨iotaK p J b Λ x, iotaK_mem p J b Λ O x⟩
+        : lattice p J b Λ O) : Fin 2 → K)
+      = ((((p : O) ^ n) • (⟨iotaK p J b Λ y, iotaK_mem p J b Λ O y⟩ : lattice p J b Λ O)
+        : lattice p J b Λ O) : Fin 2 → K) := by
+    rw [rhoL_sub_apply, Submodule.coe_smul, rhoK_iotaK, ← iotaK_sub, ← hy,
+      iotaK_smul p J b Λ O hc, map_pow, map_natCast]
+  rw [Subtype.ext hval]
+  exact Submodule.smul_mem_smul (Ideal.pow_mem_pow hpm n) Submodule.mem_top
+
+theorem rhoL_eq_one (hcomm : CommHyp p J) (σ : Gal)
+    (hfix : ∀ x : TateModule p J, TateModule.rep p J Gal σ x = x) :
+    rhoL p J b Λ O hcomm σ = 1 := by
+  have h := eq_top_of_forall_iotaK_mem p J b Λ O (LinearMap.ker (rhoL p J b Λ O hcomm σ - 1))
+    fun x => by
+      rw [LinearMap.mem_ker]
+      apply Subtype.ext
+      rw [rhoL_sub_apply, rhoK_iotaK, hfix, sub_self]
+      rfl
+  refine LinearMap.ext fun v => ?_
+  have hv : v ∈ LinearMap.ker (rhoL p J b Λ O hcomm σ - 1) := h ▸ Submodule.mem_top
+  rw [LinearMap.mem_ker, LinearMap.sub_apply, sub_eq_zero] at hv
+  exact hv
+
+theorem rhoL_quadratic (hcomm : CommHyp p J) {ℓ : ℕ} (hℓ : ℓ.Prime) (σ : Gal)
+    (hES : ∀ x : TateModule p J,
+      TateModule.rep p J HeckeAlgOne (diamondGen ℓ)
+          (TateModule.rep p J Gal σ (TateModule.rep p J Gal σ x))
+        - TateModule.rep p J HeckeAlgOne (heckeGenOne ⟨ℓ, hℓ⟩) (TateModule.rep p J Gal σ x)
+        + ℓ • x = 0)
+    (a d : O) (ha : Λ (rationalHeckeOne p J ⟨ℓ, hℓ⟩) = algebraMap O K a)
+    (hd : Λ (rationalDiamondOne p J ℓ) * algebraMap O K d = 1) :
+    rhoL p J b Λ O hcomm σ * rhoL p J b Λ O hcomm σ - (d * a) • rhoL p J b Λ O hcomm σ
+      + algebraMap O (Module.End O (lattice p J b Λ O)) (d * (ℓ : O)) = 0 := by
+  have hK := rhoK_quadratic' p J b Λ hcomm hℓ σ hES _ _ ha hd
+  refine LinearMap.ext fun v => Subtype.ext ?_
+  have := LinearMap.congr_fun hK (v : Fin 2 → K)
+  simp only [LinearMap.add_apply, LinearMap.sub_apply, Module.End.mul_apply, LinearMap.smul_apply,
+    LinearMap.zero_apply, Module.End.one_apply] at this
+  simp only [LinearMap.add_apply, LinearMap.sub_apply, Module.End.mul_apply, LinearMap.smul_apply,
+    LinearMap.zero_apply, Module.algebraMap_end_apply, Submodule.coe_add, Submodule.coe_sub,
+    Submodule.coe_smul, Submodule.coe_zero, coe_rhoL]
+  rw [← algebraMap_smul K (d * a), ← algebraMap_smul K (d * (ℓ : O)), map_mul, map_mul, map_natCast]
+  exact this
+
+theorem det_rhoL [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (hcomm : CommHyp p J) (σ : Gal) (d : O)
+    (hd : LinearMap.det (rhoK p J b Λ hcomm σ) = algebraMap O K d) :
+    LinearMap.det (rhoL p J b Λ O hcomm σ) = d :=
+  IsFractionRing.injective O K (by rw [algebraMap_det_rhoL p J b Λ O hc, hd])
+
+def adicRep [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) (hcomm : CommHyp p J)
+    (hcont : ContHyp p J) (hpm : (p : O) ∈ IsLocalRing.maximalIdeal O) : GaloisRepAdic O :=
+  letI := lattice_free p J b Λ O hc
+  letI := lattice_finite p J b Λ O hc
+  { V := lattice p J b Λ O
+    finrank_eq := finrank_lattice p J b Λ O hc
+    ρ := rhoLHom p J b Λ O hcomm
+    isAdicContinuous := rhoL_continuous p J b Λ O hc hcomm hcont hpm }
+
+@[scoped simp] theorem adicRep_ρ [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (hcomm : CommHyp p J) (hcont : ContHyp p J) (hpm : (p : O) ∈ IsLocalRing.maximalIdeal O)
+    (σ : Gal) : (adicRep p J b Λ O hc hcomm hcont hpm).ρ σ = rhoL p J b Λ O hcomm σ := rfl
+
+end Lattice
+
+section Exposure
+
+variable [DistribMulAction Gal J]
+variable (b : Module.Basis (Fin 2) (rationalHeckeAlgebraOne p J) (RationalTateModule p J))
+variable {K : Type} [Field K] (Λ : rationalHeckeAlgebraOne p J →+* K)
+variable (O : Type) [CommRing O] [IsDomain O] [IsDiscreteValuationRing O] [Algebra O K]
+  [IsFractionRing O K] [Algebra ℤ_[p] O] [Algebra ℤ_[p] K] [IsScalarTower ℤ_[p] O K]
+
+theorem iotaK_hecke (t : HeckeAlgOne) (x : TateModule p J) :
+    iotaK p J b Λ (tateHeckeRepOne p J t x)
+      = Λ ⟨rationalHeckeRepOne p J t, rationalHeckeRepOne_mem_rationalHeckeAlgebraOne p J t⟩
+          • iotaK p J b Λ x := by
+  rw [iotaK, iotaK, ← rationalHeckeRepOne_tmul, ← coordK_smul]
+  rfl
+
+def iotaLin (hc : Compat p J Λ O) : TateModule p J →ₗ[ℤ_[p]] (Fin 2 → K) where
+  toFun := iotaK p J b Λ
+  map_add' := iotaK_add p J b Λ
+  map_smul' c x := by
+    rw [iotaK_smul p J b Λ O hc, algebraMap_smul, RingHom.id_apply]
+
+@[scoped simp] theorem iotaLin_apply (hc : Compat p J Λ O) (x : TateModule p J) :
+    iotaLin p J b Λ O hc x = iotaK p J b Λ x := rfl
+
+def expo (hc : Compat p J Λ O) : K ⊗[ℤ_[p]] TateModule p J →ₗ[K] (Fin 2 → K) :=
+  (iotaLin p J b Λ O hc).liftBaseChange K
+
+theorem expo_tmul (hc : Compat p J Λ O) (k : K) (x : TateModule p J) :
+    expo p J b Λ O hc (k ⊗ₜ[ℤ_[p]] x) = k • iotaK p J b Λ x :=
+  LinearMap.liftBaseChange_tmul K _ k x
+
+theorem expo_surjective (hc : Compat p J Λ O) : Function.Surjective (expo p J b Λ O hc) := by
+  rw [← LinearMap.range_eq_top, eq_top_iff, ← span_K_range_iotaK p J b Λ, Submodule.span_le]
+  rintro _ ⟨x, rfl⟩
+  exact ⟨(1 : K) ⊗ₜ[ℤ_[p]] x, by rw [expo_tmul, one_smul]⟩
+
+theorem expo_equivariant (hc : Compat p J Λ O) (hcomm : CommHyp p J) (σ : Gal)
+    (x : K ⊗[ℤ_[p]] TateModule p J) :
+    expo p J b Λ O hc ((TateModule.rep p J Gal σ).baseChange K x)
+      = rhoK p J b Λ hcomm σ (expo p J b Λ O hc x) := by
+  induction x using TensorProduct.induction_on with
+  | zero => simp
+  | tmul k y =>
+    rw [LinearMap.baseChange_tmul, expo_tmul, expo_tmul, map_smul, rhoK_iotaK]
+  | add u v hu hv => rw [map_add, map_add, hu, hv, map_add, map_add]
+
+theorem expo_hecke (hc : Compat p J Λ O) (t : HeckeAlgOne) (x : K ⊗[ℤ_[p]] TateModule p J) :
+    expo p J b Λ O hc ((tateHeckeRepOne p J t).baseChange K x)
+      = Λ ⟨rationalHeckeRepOne p J t, rationalHeckeRepOne_mem_rationalHeckeAlgebraOne p J t⟩
+          • expo p J b Λ O hc x := by
+  induction x using TensorProduct.induction_on with
+  | zero => simp
+  | tmul k y =>
+    rw [LinearMap.baseChange_tmul, expo_tmul, expo_tmul, iotaK_hecke, smul_comm]
+  | add u v hu hv => rw [map_add, map_add, hu, hv, map_add, smul_add]
+
+def latticeEquiv [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) :
+    (Fin 2 → K) ≃ₗ[K] K ⊗[O] lattice p J b Λ O :=
+  letI := lattice_free p J b Λ O hc
+  (basisK p J b Λ O hc).equiv
+    (Algebra.TensorProduct.basis K (Module.Free.chooseBasis O (lattice p J b Λ O))) (Equiv.refl _)
+
+theorem latticeEquiv_basisK [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O) (i) :
+    letI := lattice_free p J b Λ O hc
+    latticeEquiv p J b Λ O hc (basisK p J b Λ O hc i)
+      = (1 : K) ⊗ₜ[O] (Module.Free.chooseBasis O (lattice p J b Λ O) i) := by
+  letI := lattice_free p J b Λ O hc
+  rw [latticeEquiv, Module.Basis.equiv_apply, Equiv.refl_apply, Algebra.TensorProduct.basis_apply]
+
+theorem latticeEquiv_coe [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (z : lattice p J b Λ O) :
+    latticeEquiv p J b Λ O hc (z : Fin 2 → K) = (1 : K) ⊗ₜ[O] z := by
+  letI := lattice_free p J b Λ O hc
+  letI := lattice_finite p J b Λ O hc
+  set f := Module.Free.chooseBasis O (lattice p J b Λ O)
+  have hz : (z : Fin 2 → K) = ∑ j, algebraMap O K (f.repr z j) • basisK p J b Λ O hc j := by
+    conv_lhs => rw [← f.sum_repr z]
+    rw [Submodule.coe_sum]
+    refine Finset.sum_congr rfl fun j _ => ?_
+    rw [basisK_apply, algebraMap_smul, Submodule.coe_smul_of_tower]
+  rw [hz, map_sum]
+  conv_rhs => rw [← f.sum_repr z, TensorProduct.tmul_sum]
+  refine Finset.sum_congr rfl fun j _ => ?_
+  rw [map_smul, latticeEquiv_basisK, algebraMap_smul, TensorProduct.tmul_smul,
+    TensorProduct.smul_tmul', TensorProduct.smul_tmul]
+
+theorem latticeEquiv_rhoK [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (hcomm : CommHyp p J) (σ : Gal) (v : Fin 2 → K) :
+    latticeEquiv p J b Λ O hc (rhoK p J b Λ hcomm σ v)
+      = (rhoL p J b Λ O hcomm σ).baseChange K (latticeEquiv p J b Λ O hc v) := by
+
+  have hv : v ∈ Submodule.span K (Set.range (iotaK p J b Λ)) := by
+    rw [span_K_range_iotaK]; exact Submodule.mem_top
+  induction hv using Submodule.span_induction with
+  | mem w hw =>
+    obtain ⟨x, rfl⟩ := hw
+    have h1 := latticeEquiv_coe p J b Λ O hc ⟨iotaK p J b Λ x, iotaK_mem p J b Λ O x⟩
+    have h2 := latticeEquiv_coe p J b Λ O hc
+      (rhoL p J b Λ O hcomm σ ⟨iotaK p J b Λ x, iotaK_mem p J b Λ O x⟩)
+    rw [coe_rhoL] at h2
+    dsimp only at h1 h2
+    rw [h2, h1, LinearMap.baseChange_tmul]
+  | zero => simp
+  | add u w _ _ hu hw => rw [map_add, map_add, hu, hw, map_add, map_add]
+  | smul c u _ hu => rw [map_smul, map_smul, hu, map_smul, map_smul]
+
+theorem exists_exposure [Module.Finite ℤ_[p] (TateModule p J)] (hc : Compat p J Λ O)
+    (hcomm : CommHyp p J) (hcont : ContHyp p J) (hpm : (p : O) ∈ IsLocalRing.maximalIdeal O) :
+    ∃ π : K ⊗[ℤ_[p]] TateModule p J →ₗ[K] K ⊗[O] (adicRep p J b Λ O hc hcomm hcont hpm).V,
+      Function.Surjective π ∧
+      (∀ (σ : Gal) (x : K ⊗[ℤ_[p]] TateModule p J),
+        π ((TateModule.rep p J Gal σ).baseChange K x)
+          = ((adicRep p J b Λ O hc hcomm hcont hpm).ρ σ).baseChange K (π x)) ∧
+      (∀ (t : HeckeAlgOne) (x : K ⊗[ℤ_[p]] TateModule p J),
+        π ((tateHeckeRepOne p J t).baseChange K x)
+          = Λ ⟨rationalHeckeRepOne p J t, rationalHeckeRepOne_mem_rationalHeckeAlgebraOne p J t⟩
+              • π x) := by
+  refine ⟨(latticeEquiv p J b Λ O hc).toLinearMap.comp (expo p J b Λ O hc), ?_, ?_, ?_⟩
+  · exact (latticeEquiv p J b Λ O hc).surjective.comp (expo_surjective p J b Λ O hc)
+  · intro σ x
+    show latticeEquiv p J b Λ O hc (expo p J b Λ O hc _) =
+      ((adicRep p J b Λ O hc hcomm hcont hpm).ρ σ).baseChange K
+        (latticeEquiv p J b Λ O hc (expo p J b Λ O hc x))
+    rw [expo_equivariant p J b Λ O hc hcomm, latticeEquiv_rhoK p J b Λ O hc hcomm]
+    rfl
+  · intro t x
+    show latticeEquiv p J b Λ O hc (expo p J b Λ O hc _) =
+      _ • latticeEquiv p J b Λ O hc (expo p J b Λ O hc x)
+    rw [expo_hecke p J b Λ O hc, map_smul]
+    rfl
+
+end Exposure
+
+section TraceId
+
+open Polynomial
+
+variable {O : Type} [CommRing O] {V : Type} [AddCommGroup V] [Module O V]
+  [Module.Free O V] [Module.Finite O V]
+
+theorem eq_zero_of_smul_id_eq_zero (hV : 0 < Module.finrank O V) (c : O)
+    (hc : c • (LinearMap.id : Module.End O V) = 0) : c = 0 := by
+  classical
+  nontriviality O
+  let b := Module.Free.chooseBasis O V
+  haveI : Nonempty (Module.Free.ChooseBasisIndex O V) := by
+    rw [Module.finrank_eq_card_chooseBasisIndex] at hV
+    exact Fintype.card_pos_iff.mp hV
+  obtain ⟨i⟩ := ‹Nonempty (Module.Free.ChooseBasisIndex O V)›
+  have h1 : c • b i = 0 := by
+    have := LinearMap.congr_fun hc (b i)
+    simpa using this
+  have h2 := congrArg (fun v => b.repr v i) h1
+  simpa using h2
+
+theorem charpoly_eq_of_quadratic_of_det (hV : Module.finrank O V = 2)
+    (f : Module.End O V) (hf : IsUnit f) (t d : O)
+    (hq : f * f - t • f + algebraMap O (Module.End O V) d = 0) (hdet : LinearMap.det f = d) :
+    f.charpoly = X ^ 2 - C t * X + C d := by
+  nontriviality O
+  have hdeg : f.charpoly.natDegree = 2 := by rw [LinearMap.charpoly_natDegree, hV]
+  have hmonic := f.charpoly_monic
+  have hc0 : f.charpoly.coeff 0 = d := by
+    have h := LinearMap.det_eq_sign_charpoly_coeff f
+    rw [hV] at h
+    rw [← hdet, h]
+    ring
+  set c₁ := f.charpoly.coeff 1 with hc₁
+  have hshape : f.charpoly = X ^ 2 + C c₁ * X + C d := by
+    apply Polynomial.ext
+    intro n
+    rcases n with _ | _ | _ | n
+    · simp [hc0]
+    · simp [hc₁]
+    · have : f.charpoly.coeff 2 = 1 := by
+        have := hmonic.leadingCoeff
+        rwa [Polynomial.leadingCoeff, hdeg] at this
+      simp [this]
+    · have hlt : f.charpoly.natDegree < n + 3 := by omega
+      rw [Polynomial.coeff_eq_zero_of_natDegree_lt hlt]
+      simp
+  have hCH : f * f + c₁ • f + algebraMap O (Module.End O V) d = 0 := by
+    have h := LinearMap.aeval_self_charpoly f
+    rw [hshape] at h
+    simpa [sq, Algebra.smul_def] using h
+  have hdiff : (t + c₁) • f = 0 := by
+    have := sub_eq_zero.mpr (hCH.trans hq.symm)
+    have e : f * f + c₁ • f + algebraMap O (Module.End O V) d
+        - (f * f - t • f + algebraMap O (Module.End O V) d) = (t + c₁) • f := by
+      rw [add_smul]; abel
+    rw [e] at this
+    exact this
+  obtain ⟨u, rfl⟩ := hf
+  have hid : (t + c₁) • (LinearMap.id : Module.End O V) = 0 := by
+    have : ((t + c₁) • (u : Module.End O V)) * (↑u⁻¹ : Module.End O V) = 0 := by
+      rw [hdiff, zero_mul]
+    rwa [smul_mul_assoc, Units.mul_inv] at this
+  have hpos : 0 < Module.finrank O V := by rw [hV]; exact two_pos
+  have htc : t + c₁ = 0 := eq_zero_of_smul_id_eq_zero hpos _ hid
+  have : c₁ = -t := by linear_combination htc
+  rw [hshape, this, C_neg]
+  ring
+
+end TraceId
+
+section MainCharpoly
+
+open Polynomial
+
+variable [DistribMulAction Gal J]
+
+theorem main_charpoly [Module.Finite ℤ_[p] (TateModule p J)] (N : ℕ)
+    (hcomm : CommHyp p J)
+    (hi : RationalRankTwoNebentypusOf (K := ℚ) (L := AlgebraicClosure ℚ) N p J)
+    (hiii : ∀ (ℓ : ℕ) (hℓ : ℓ.Prime), ¬ ℓ ∣ N * p →
+      ∀ A : ValuationSubring (AlgebraicClosure ℚ), A.LiesOverPrime ℓ →
+        ∀ σ : Gal, A.IsFrobeniusAt σ ℓ → ∀ x : TateModule p J,
+          TateModule.rep p J HeckeAlgOne (diamondGen ℓ)
+              (TateModule.rep p J Gal σ (TateModule.rep p J Gal σ x))
+            - TateModule.rep p J HeckeAlgOne (heckeGenOne ⟨ℓ, hℓ⟩) (TateModule.rep p J Gal σ x)
+            + ℓ • x = 0)
+    (hv : ∀ (ℓ : ℕ), ℓ.Prime → ¬ ℓ ∣ N * p →
+      ∀ A : ValuationSubring (AlgebraicClosure ℚ), A.LiesOverPrime ℓ →
+        ∀ σ ∈ A.inertiaSubgroupIn ℚ, ∀ x : TateModule p J, TateModule.rep p J Gal σ x = x)
+    (hcont : ContHyp p J)
+    (O : Type) [CommRing O] [IsDomain O] [IsDiscreteValuationRing O] [Algebra ℤ_[p] O]
+    (K : Type) [Field K] [Algebra O K] [IsFractionRing O K]
+    (Λ : rationalHeckeAlgebraOne p J →+* K)
+    (hc : Compat p J Λ O)
+    (hpm : (p : O) ∈ IsLocalRing.maximalIdeal O) :
+    ∃ ρ : GaloisRepAdic O,
+      (∀ (ℓ : ℕ) (hℓ : ℓ.Prime), ¬ ℓ ∣ N * p → ∀ a d : O,
+        Λ (rationalHeckeOne p J ⟨ℓ, hℓ⟩) = algebraMap O K a →
+        Λ (rationalDiamondOne p J ℓ) * algebraMap O K d = 1 →
+        ∀ A : ValuationSubring (AlgebraicClosure ℚ), A.LiesOverPrime ℓ →
+          ∀ σ : Gal, A.IsFrobeniusAt σ ℓ →
+            LinearMap.charpoly (ρ.ρ σ) = X ^ 2 - C (d * a) * X + C (d * (ℓ : O))) ∧
+      (∀ ℓ : ℕ, ℓ.Prime → ¬ ℓ ∣ N * p → ρ.IsUnramifiedAt ℓ) := by
+  obtain ⟨b, hb⟩ := hi
+  refine ⟨adicRep p J b Λ O hc hcomm hcont hpm, ?_, ?_⟩
+  · intro ℓ hℓ hℓNp a d ha hd A hA σ hσ
+    have hq := rhoL_quadratic p J b Λ O hcomm hℓ σ (hiii ℓ hℓ hℓNp A hA σ hσ) a d ha hd
+    have hdK : LinearMap.det (rhoK p J b Λ hcomm σ) = algebraMap O K (d * (ℓ : O)) := by
+      have h1 := congrArg Λ (hb ℓ hℓ hℓNp A hA σ hσ)
+      rw [map_mul, map_natCast, ← det_rhoK p J b Λ hcomm σ] at h1
+      have h2 := congrArg (fun z => algebraMap O K d * z) h1
+      beta_reduce at h2
+      rw [← mul_assoc, mul_comm (algebraMap O K d), hd, one_mul] at h2
+      rw [h2, map_mul, map_natCast]
+    have hdet : LinearMap.det (rhoL p J b Λ O hcomm σ) = d * (ℓ : O) :=
+      det_rhoL p J b Λ O hc hcomm σ _ hdK
+    rw [adicRep_ρ]
+    refine charpoly_eq_of_quadratic_of_det (adicRep p J b Λ O hc hcomm hcont hpm).finrank_eq
+      (rhoL p J b Λ O hcomm σ) ?_ (d * a) (d * (ℓ : O)) hq hdet
+    rw [← rhoLHom_apply]
+    exact (Group.isUnit σ).map (rhoLHom p J b Λ O hcomm)
+  · intro ℓ hℓ hℓNp A hA σ hσ
+    exact rhoL_eq_one p J b Λ O hcomm σ (hv ℓ hℓ hℓNp A hA σ hσ)
+
+theorem main_charpoly_exposed [Module.Finite ℤ_[p] (TateModule p J)] (N : ℕ)
+    (hcomm : CommHyp p J)
+    (hi : RationalRankTwoNebentypusOf (K := ℚ) (L := AlgebraicClosure ℚ) N p J)
+    (hiii : ∀ (ℓ : ℕ) (hℓ : ℓ.Prime), ¬ ℓ ∣ N * p →
+      ∀ A : ValuationSubring (AlgebraicClosure ℚ), A.LiesOverPrime ℓ →
+        ∀ σ : Gal, A.IsFrobeniusAt σ ℓ → ∀ x : TateModule p J,
+          TateModule.rep p J HeckeAlgOne (diamondGen ℓ)
+              (TateModule.rep p J Gal σ (TateModule.rep p J Gal σ x))
+            - TateModule.rep p J HeckeAlgOne (heckeGenOne ⟨ℓ, hℓ⟩) (TateModule.rep p J Gal σ x)
+            + ℓ • x = 0)
+    (hv : ∀ (ℓ : ℕ), ℓ.Prime → ¬ ℓ ∣ N * p →
+      ∀ A : ValuationSubring (AlgebraicClosure ℚ), A.LiesOverPrime ℓ →
+        ∀ σ ∈ A.inertiaSubgroupIn ℚ, ∀ x : TateModule p J, TateModule.rep p J Gal σ x = x)
+    (hcont : ContHyp p J)
+    (O : Type) [CommRing O] [IsDomain O] [IsDiscreteValuationRing O] [Algebra ℤ_[p] O]
+    (K : Type) [Field K] [Algebra O K] [IsFractionRing O K] [Algebra ℤ_[p] K]
+    [IsScalarTower ℤ_[p] O K]
+    (Λ : rationalHeckeAlgebraOne p J →+* K)
+    (hc : Compat p J Λ O)
+    (hpm : (p : O) ∈ IsLocalRing.maximalIdeal O) :
+    ∃ ρ : GaloisRepAdic O,
+      (∀ (ℓ : ℕ) (hℓ : ℓ.Prime), ¬ ℓ ∣ N * p → ∀ a d : O,
+        Λ (rationalHeckeOne p J ⟨ℓ, hℓ⟩) = algebraMap O K a →
+        Λ (rationalDiamondOne p J ℓ) * algebraMap O K d = 1 →
+        ∀ A : ValuationSubring (AlgebraicClosure ℚ), A.LiesOverPrime ℓ →
+          ∀ σ : Gal, A.IsFrobeniusAt σ ℓ →
+            LinearMap.charpoly (ρ.ρ σ) = X ^ 2 - C (d * a) * X + C (d * (ℓ : O))) ∧
+      (∀ ℓ : ℕ, ℓ.Prime → ¬ ℓ ∣ N * p → ρ.IsUnramifiedAt ℓ) ∧
+      ∃ π : K ⊗[ℤ_[p]] TateModule p J →ₗ[K] K ⊗[O] ρ.V,
+        Function.Surjective π ∧
+        (∀ (σ : Gal) (x : K ⊗[ℤ_[p]] TateModule p J),
+          π ((TateModule.rep p J Gal σ).baseChange K x) = (ρ.ρ σ).baseChange K (π x)) ∧
+        (∀ (t : HeckeAlgOne) (x : K ⊗[ℤ_[p]] TateModule p J),
+          π ((tateHeckeRepOne p J t).baseChange K x)
+            = Λ ⟨rationalHeckeRepOne p J t, rationalHeckeRepOne_mem_rationalHeckeAlgebraOne p J t⟩
+                • π x) := by
+  obtain ⟨b, hb⟩ := hi
+  refine ⟨adicRep p J b Λ O hc hcomm hcont hpm, ?_, ?_, exists_exposure p J b Λ O hc hcomm hcont hpm⟩
+  · intro ℓ hℓ hℓNp a d ha hd A hA σ hσ
+    have hq := rhoL_quadratic p J b Λ O hcomm hℓ σ (hiii ℓ hℓ hℓNp A hA σ hσ) a d ha hd
+    have hdK : LinearMap.det (rhoK p J b Λ hcomm σ) = algebraMap O K (d * (ℓ : O)) := by
+      have h1 := congrArg Λ (hb ℓ hℓ hℓNp A hA σ hσ)
+      rw [map_mul, map_natCast, ← det_rhoK p J b Λ hcomm σ] at h1
+      have h2 := congrArg (fun z => algebraMap O K d * z) h1
+      beta_reduce at h2
+      rw [← mul_assoc, mul_comm (algebraMap O K d), hd, one_mul] at h2
+      rw [h2, map_mul, map_natCast]
+    have hdet : LinearMap.det (rhoL p J b Λ O hcomm σ) = d * (ℓ : O) :=
+      det_rhoL p J b Λ O hc hcomm σ _ hdK
+    rw [adicRep_ρ]
+    refine charpoly_eq_of_quadratic_of_det (adicRep p J b Λ O hc hcomm hcont hpm).finrank_eq
+      (rhoL p J b Λ O hcomm σ) ?_ (d * a) (d * (ℓ : O)) hq hdet
+    rw [← rhoLHom_apply]
+    exact (Group.isUnit σ).map (rhoLHom p J b Λ O hcomm)
+  · intro ℓ hℓ hℓNp A hA σ hσ
+    exact rhoL_eq_one p J b Λ O hcomm σ (hv ℓ hℓ hℓNp A hA σ hσ)
+
+end MainCharpoly
+
+end E1G1ESX
+p2m_reactivate "P2MW.S_ModularCurve_exists_galoisRepAdic_charpoly_frobenius_of_heckeDiamondChar_tateModule_quotient.E1G1ESX"
+
+open Polynomial in
+set_option maxHeartbeats 6400000 in
+set_option synthInstance.maxHeartbeats 1600000 in
+theorem solution
+    (M p : ℕ) [NeZero M] [Fact p.Prime]
+    (O : Type) [CommRing O] [IsDomain O] [IsDiscreteValuationRing O] [Algebra ℤ_[p] O]
+    (K : Type) [Field K] [Algebra O K] [IsFractionRing O K] [Algebra ℤ_[p] K]
+    [IsScalarTower ℤ_[p] O K] (hpO : (p : O) ∈ IsLocalRing.maximalIdeal O) :
+    letI := ModularCurve.heckeModuleOneBar M
+    ∀ (Λ : ↥(ModularCurve.rationalHeckeAlgebraOne p (ModularCurve.JOne M)) →+* K),
+      (∀ c : ℤ_[p],
+        Λ (algebraMap ℚ_[p] ↥(ModularCurve.rationalHeckeAlgebraOne p (ModularCurve.JOne M)) (c : ℚ_[p]))
+          = algebraMap ℤ_[p] K c) →
+      ∃ ρ : GaloisRepAdic O,
+        (∀ (ℓ : ℕ) (hℓ : ℓ.Prime), ¬ ℓ ∣ M * p → ∀ a d : O,
+          Λ (ModularCurve.rationalHeckeOne p (ModularCurve.JOne M) ⟨ℓ, hℓ⟩) = algebraMap O K a →
+          Λ (ModularCurve.rationalDiamondOne p (ModularCurve.JOne M) ℓ) * algebraMap O K d = 1 →
+          ∀ A : ValuationSubring (AlgebraicClosure ℚ), A.LiesOverPrime ℓ →
+            ∀ σ : AlgebraicClosure ℚ ≃ₐ[ℚ] AlgebraicClosure ℚ, A.IsFrobeniusAt σ ℓ →
+              LinearMap.charpoly (ρ.ρ σ) = X ^ 2 - C (d * a) * X + C (d * (ℓ : O))) ∧
+        (∀ ℓ : ℕ, ℓ.Prime → ¬ ℓ ∣ M * p → ρ.IsUnramifiedAt ℓ) ∧
+        ∃ π : K ⊗[ℤ_[p]] TateModule p (ModularCurve.JOne M) →ₗ[K] K ⊗[O] ρ.V,
+          Function.Surjective π ∧
+          (∀ (σ : AlgebraicClosure ℚ ≃ₐ[ℚ] AlgebraicClosure ℚ)
+              (x : K ⊗[ℤ_[p]] TateModule p (ModularCurve.JOne M)),
+            π ((TateModule.rep p (ModularCurve.JOne M)
+                (AlgebraicClosure ℚ ≃ₐ[ℚ] AlgebraicClosure ℚ) σ).baseChange K x) =
+              (ρ.ρ σ).baseChange K (π x)) ∧
+          (∀ (t : ModularCurve.HeckeAlgOne) (x : K ⊗[ℤ_[p]] TateModule p (ModularCurve.JOne M)),
+            π ((ModularCurve.tateHeckeRepOne p (ModularCurve.JOne M) t).baseChange K x) =
+              Λ ⟨ModularCurve.rationalHeckeRepOne p (ModularCurve.JOne M) t,
+                  ModularCurve.rationalHeckeRepOne_mem_rationalHeckeAlgebraOne p
+                    (ModularCurve.JOne M) t⟩ • π x) := by
+  letI := ModularCurve.heckeModuleOneBar M
+  intro Λ hΛ
+  have hp : p.Prime := Fact.out
+  have hcb := ModularCurve.heckeDiamondCommuteBar M
+  haveI : Module.Finite ℤ_[p] (TateModule p (ModularCurve.JOne M)) :=
+    ModularCurve.moduleFinite_padicInt_tateModule_jOne M p
+  have hcomm : E1G1ESX.CommHyp p (ModularCurve.JOne M) := fun σ t x =>
+    ModularCurve.rep_tateModule_jOne_comm M p hcb σ t x
+  have hi : ModularCurve.RationalRankTwoNebentypus M p :=
+    ModularCurve.rationalRankTwoNebentypus_family M p (Nat.pos_of_ne_zero (NeZero.ne M)) hp
+  have hcont : E1G1ESX.ContHyp p (ModularCurve.JOne M) := fun m =>
+    ModularCurve.JOne.exists_finiteDimensional_smul_eq_self_of_torsion M (p ^ m) (pow_pos hp.pos m)
+  have hc : E1G1ESX.Compat p (ModularCurve.JOne M) Λ O := fun c => by
+    rw [hΛ c, IsScalarTower.algebraMap_apply ℤ_[p] O K]
+  exact E1G1ESX.main_charpoly_exposed p (ModularCurve.JOne M) M hcomm hi
+    (fun ℓ hℓ hℓNp A hA σ hσ x =>
+      ModularCurve.frobeniusQuadratic_tateModule_jOne M p hcb hℓ hℓNp A hA σ hσ x)
+    (fun ℓ hℓ hℓNp A hA σ hσ x =>
+      ModularCurve.rep_tateModule_jOne_eq_self_of_mem_inertiaSubgroupIn M p hℓ hℓNp A hA σ hσ x)
+    hcont O K Λ hc hpO
+
+end
+end S_ModularCurve_exists_galoisRepAdic_charpoly_frobenius_of_heckeDiamondChar_tateModule_quotient
+end P2MW
+export P2MW.S_ModularCurve_exists_galoisRepAdic_charpoly_frobenius_of_heckeDiamondChar_tateModule_quotient (solution)

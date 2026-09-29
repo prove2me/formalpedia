@@ -1,0 +1,69 @@
+-- Prove2me | Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0017
+-- name    : ErdosProblems_Erdos251_StreamingChunksV5_Chunk0017
+-- status  : Definition
+-- author  : @willcook
+-- created : 2026-09-27T20:59:02.532558+00:00
+-- url     : https://prove2.me/theorems/98143dd8-28e9-460f-9bba-de9f035811c7
+-- title:
+--   Prime-prefix checkpoint 0017
+-- statement:
+--   Defines the exact prime-count and binary Horner-accumulator pair after scanning integers below 69632. The paired block and endpoint theorems independently check this explicit checkpoint in Lean.
+-- source:
+--   Pinned retained Lean definitions: https://github.com/wcook04/plectis-erdos-lean/blob/6e2d392bd294bd9883859fb86c49655e7567086e/ErdosProblems/Erdos251/StreamingChunksV5/Chunk0017.lean#L12
+
+import Definitions.Def_ErdosProblems_Erdos251_PrimeGapDyadicTail
+import Definitions.Def_ErdosProblems_Erdos251_KernelDenominatorFloor
+import Definitions.Def_ErdosProblems_Erdos251_GcdPrimality
+import Definitions.Def_ErdosProblems_Erdos251_PaperStreamingCertificateV5
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0001
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0002
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0003
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0004
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0005
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0006
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0007
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0008
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0009
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0010
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0011
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0012
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0013
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0014
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0015
+import Definitions.Def_ErdosProblems_Erdos251_StreamingChunksV5_Chunk0016
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Analysis.SpecificLimits.Normed
+import Mathlib.Data.Nat.Factorization.Basic
+import Mathlib.Data.Nat.Periodic
+import Mathlib.Data.Nat.Prime.Factorial
+import Mathlib.Data.Nat.Prime.Nth
+import Mathlib.Data.Nat.PrimeFin
+import Mathlib.Data.Rat.Lemmas
+import Mathlib.NumberTheory.Bertrand
+import Mathlib.NumberTheory.PowModTotient
+import Mathlib.NumberTheory.PrimeCounting
+import Mathlib.NumberTheory.Real.Irrational
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Ring
+import Mathlib.Topology.Algebra.InfiniteSum.NatInt
+
+                                                               
+                                                                    
+                                                  
+namespace ErdosProblems.Erdos251.PaperV5.Streaming.Chunks
+open ErdosProblems.Erdos251.PaperV5.Streaming
+set_option maxRecDepth 200000
+set_option maxHeartbeats 0
+set_option exponentiation.threshold 200000
+
+def state0017 : ℕ × ℕ := (6906, 3008606035421490205880241592721184362008140969557398849826824038551146403331316057901059137946212535433979776245557714452153086083429528853990388166202278289454308884558126115276259803859230838076120383943138051128775783544257006007047288343702229320293245343666124243250222113685585162642716072123012494177735382609437239169043232115395925487467509099428817599660067946993087888064170299494500716422898675219444197170166866610108142280250642316439084947613043116524095865259939086160415401875141526457421816059387691925862648782830584583171332011447710685169677205543664258736195075619892137425670104760343628016682936144961865715756340555841326614594374995418306853139228296382005486640626801322029012325616351921981279096278767391832274778745607617521390638377603453763323754483352505283082498923051708164224495344439355068577225065439800603821095256725402703607491960845426861444289580785751630846546332263498015236523524423004170313412602433209737665223844690981335185219509737405045273181341292443290650458310269312590305969307028940082392070300290178470429916364256562691105996453027621788717012157559042881172375552957864971388541633987659977151360252762851779656395385904103772960335389115109427925839218703078777525257220110834125898921342887151063414788236196975702071353005982560972380092568900874127462779502893416220352412529856076550582335748937709696518704056906124247929834798756324454773046073711258374939607997974560572051329766618273065498957531282812755374032439974346542968570777429375982963424307658243742628298212976211055227487902878917142743865570785655421604094068896221290643177209795287292123119001293312163888801613985475695081750901788015605977983475394765926360376048177860214551693550011239078431716544457772228788238163011482347552214179144409569485098748608696606185534797134443814010163624575531303243656834975417280492388764590712828984470740274636860702201265190776119580686670460512230002509040586305203977400004218224729150485958235134025670036564798291854377099610079262748126729696212635219760537239584175541012197553389107667533626992677)
+
+
+
+
+
+end ErdosProblems.Erdos251.PaperV5.Streaming.Chunks
+
+

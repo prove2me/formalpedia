@@ -1,0 +1,713 @@
+-- Prove2me | solution 1 for mme_released_global_boundary_normalized_six_weight_rate
+-- status  : ACCEPTED   (prove)
+-- author  : @Robertboy18
+-- created : 2026-09-23T03:06:03.156364+00:00
+-- url     : https://prove2.me/submissions/af4073bd-27e8-4dd3-be08-3f0f282662ee
+
+import Theorems.Thm_mme_MMObj_cyclicSymmetrization_iso
+import Theorems.Thm_mme_MMObj_permObj_swapFirstTwo
+import Theorems.Thm_mme_sixSymmetrization_restrict
+import Definitions.Def_mme_six_symmetrized_tau_value
+import Theorems.Thm_mme_dwz_multinomial_entropy_polynomial_lower
+import Theorems.Thm_mme_log_sqrt_loss_eventually_le_linear
+import Mathlib.Data.Nat.Choose.Multinomial
+import Theorems.Thm_mme_recursive_yz_boundary_actual_matrix_extraction
+import Definitions.Def_mme_recursive_yz_owned_filters
+import Definitions.Def_mme_released_global_frame_data
+import Theorems.Thm_mme_basis_projected_family_restrict
+universe u
+
+open BigOperators MME MME.ReleasedGlobal MME.MoreAsymmetryExactSeed
+set_option autoImplicit false
+
+private theorem row_marginal_sum (L : List (Fin 1296 × ℕ)) (i : Fin 3) (w : Word) :
+    (∑ v : JointWord, if v i = w then
+      (L.map (fun a ↦ if atom a.1 = v then a.2 else 0)).sum else 0) =
+      (L.map (fun a ↦ if atom a.1 i = w then a.2 else 0)).sum := by
+  classical
+  induction L with
+  | nil => simp
+  | cons a L ih =>
+    have hsum (v : JointWord) :
+        (if v i = w then (if atom a.1 = v then a.2 else 0) +
+          (L.map (fun a ↦ if atom a.1 = v then a.2 else 0)).sum else 0) =
+        (if v i = w then (if atom a.1 = v then a.2 else 0) else 0) +
+          (if v i = w then (L.map (fun a ↦ if atom a.1 = v then a.2 else 0)).sum
+            else 0) := by
+      by_cases h : v i = w <;> simp only [h, ite_true, ite_false, zero_add]
+    simp only [List.map_cons, List.sum_cons]
+    simp_rw [hsum]
+    rw [Finset.sum_add_distrib, ih]
+    have heq (v : JointWord) :
+        (if v i = w then if atom a.1 = v then a.2 else 0 else 0) =
+          if v = atom a.1 then (if atom a.1 i = w then a.2 else 0) else 0 := by
+      by_cases hv : v = atom a.1
+      · subst v; simp
+      · simp [hv, Ne.symm hv]
+    simp_rw [heq]
+    simp
+
+/-- The marginal of the released joint counts is the marginal of its finite
+row list, multiplied by the coarse weight. This includes zero coarse weights. -/
+private theorem mme_released_global_word_counts_row_marginal
+    (owner : Fin 6) (c : Shape) (i : Fin 3) (w : Word) :
+    wordCounts owner i c w = alpha owner (shapeEquiv.symm c) *
+      ((jointRows owner (shapeEquiv.symm c)).map
+        (fun a ↦ if atom a.1 i = w then a.2 else 0)).sum := by
+  classical
+  unfold wordCounts jointCounts rowCounts
+  rw [← row_marginal_sum]
+  rw [Finset.mul_sum]
+  apply Finset.sum_congr rfl
+  intro v _
+  split_ifs <;> simp
+
+/-- Conditioning the global histogram center on a positive coarse cell removes
+the global replication and its coarse weight, leaving the released row marginal. -/
+private theorem mme_released_global_conditional_histogram_center
+    (owner : Fin 6) (c : Shape) (hc : 0 < alpha owner (shapeEquiv.symm c))
+    (k : ℕ) (hk : 0 < k) (i : Fin 3) (w : Word) :
+    ((blocks k : ℝ) / ((k * coarseCounts owner c : ℕ) : ℝ)) *
+        (profile owner).2 i ⟨0,c⟩ w =
+      ((((jointRows owner (shapeEquiv.symm c)).map
+        (fun a ↦ if atom a.1 i = w then a.2 else 0)).sum : ℕ) : ℝ) /
+          (denominator : ℝ)^4 := by
+  change ((blocks k : ℝ) / ((k * coarseCounts owner c : ℕ) : ℝ)) *
+    ((wordCounts owner i c w : ℝ) / (denominator : ℝ)^5) = _
+  rw [mme_released_global_word_counts_row_marginal]
+  have hkR : (k : ℝ) ≠ 0 := Nat.cast_ne_zero.mpr (Nat.ne_of_gt hk)
+  have hcR : (alpha owner (shapeEquiv.symm c) : ℝ) ≠ 0 :=
+    Nat.cast_ne_zero.mpr (Nat.ne_of_gt hc)
+  have hd : (denominator : ℝ) ≠ 0 := by norm_num [denominator]
+  simp only [blocks, coarseCounts, Nat.cast_mul, Nat.cast_pow]
+  field_simp
+
+
+open MME.RecursiveYZ MME.RecursiveYZ.CWCells MME.CompleteSplit
+
+private theorem released_row_mass : ∀ (owner : Fin 6) (s : Fin 45),
+    ((jointRows owner s).map Prod.snd).sum = denominator ^ 4 := by
+  decide +kernel
+
+private theorem released_row_support : ∀ (owner : Fin 6) (s : Fin 45),
+    (jointRows owner s).all (fun a => decide
+      (∀ i : Fin 3, CWCells.grade (atom a.1 i) = ((shapeEquiv s).val i).val)) = true := by
+  decide +kernel
+
+private theorem marginal_mass (L : List (Fin 1296 × ℕ)) (i : Fin 3) :
+    (∑ w : Word, (L.map (fun a => if atom a.1 i = w then a.2 else 0)).sum) =
+      (L.map Prod.snd).sum := by
+  classical
+  induction L with
+  | nil => simp
+  | cons a L ih =>
+    simp only [List.map_cons, List.sum_cons]
+    rw [Finset.sum_add_distrib, ih]
+    simp
+
+/-- Every released marginal has exactly the coarse cell mass. -/
+private theorem mme_released_global_word_counts_mass
+    (owner : Fin 6) (c : Shape) (i : Fin 3) :
+    ∑ w, wordCounts owner i c w = coarseCounts owner c := by
+  simp_rw [mme_released_global_word_counts_row_marginal]
+  rw [← Finset.mul_sum, marginal_mass, released_row_mass]
+  rfl
+
+/-- Positive marginal counts occur only at the prescribed coarse grade. -/
+private theorem mme_released_global_word_counts_grade_support
+    (owner : Fin 6) (c : Shape) (i : Fin 3) (w : Word)
+    (hw : 0 < wordCounts owner i c w) : CWCells.grade w = (c.val i).val := by
+  classical
+  by_contra hn
+  have hs : ∀ a ∈ jointRows owner (shapeEquiv.symm c),
+      ∀ i : Fin 3, CWCells.grade (atom a.1 i) = (c.val i).val := by
+    simpa only [List.all_eq_true, decide_eq_true_eq, Equiv.apply_symm_apply] using
+      released_row_support owner (shapeEquiv.symm c)
+  have hz : ((jointRows owner (shapeEquiv.symm c)).map
+      (fun a => if atom a.1 i = w then a.2 else 0)).sum = 0 := by
+    apply List.sum_eq_zero
+    intro x hx
+    obtain ⟨a, ha, rfl⟩ := List.mem_map.mp hx
+    have hne : atom a.1 i ≠ w := by
+      intro h
+      exact hn (h ▸ hs a ha i)
+    simp only [if_neg hne]
+  rw [mme_released_global_word_counts_row_marginal, hz, mul_zero] at hw
+  exact (Nat.lt_irrefl 0) hw
+
+
+private theorem atomic_boundary : ∀ a : Fin 1296,
+    (CWCells.grade (atom a 2) = 0 → atom a 1 = fun r => Fin.rev (atom a 0 r)) ∧
+    (CWCells.grade (atom a 0) = 0 → atom a 2 = fun r => Fin.rev (atom a 1 r)) ∧
+    (CWCells.grade (atom a 1) = 0 → atom a 2 = fun r => Fin.rev (atom a 0 r)) := by
+  decide +kernel
+
+private theorem row_grade (owner : Fin 6) (c : Shape)
+    (a : Fin 1296 × ℕ) (ha : a ∈ jointRows owner (shapeEquiv.symm c)) (i : Fin 3) :
+    CWCells.grade (atom a.1 i) = (c.val i).val := by
+  have hs : ∀ a ∈ jointRows owner (shapeEquiv.symm c),
+      ∀ i : Fin 3, CWCells.grade (atom a.1 i) = (c.val i).val := by
+    simpa only [List.all_eq_true, decide_eq_true_eq, Equiv.apply_symm_apply] using
+      released_row_support owner (shapeEquiv.symm c)
+  exact hs a ha i
+
+private theorem marginal_reverse (L : List (Fin 1296 × ℕ)) (i j : Fin 3)
+    (h : ∀ a ∈ L, atom a.1 i = fun r => Fin.rev (atom a.1 j r)) (w : Word) :
+    (L.map (fun a => if atom a.1 i = w then a.2 else 0)).sum =
+      (L.map (fun a => if atom a.1 j = (fun r => Fin.rev (w r)) then a.2 else 0)).sum := by
+  classical
+  apply congrArg List.sum
+  apply List.map_congr_left
+  intro a ha
+  have heq : atom a.1 i = w ↔ atom a.1 j = (fun r => Fin.rev (w r)) := by
+    rw [h a ha]
+    constructor
+    · intro hw
+      funext r
+      have hh := congrArg (fun f => Fin.rev (f r)) hw
+      simpa using hh
+    · intro hw
+      funext r
+      simp only [hw, Fin.rev_rev]
+  simp only [heq]
+
+/-- Released boundary marginals satisfy the complementary-word identities in
+all three zero-coordinate orientations. -/
+private theorem mme_released_global_word_counts_boundary_profiles (owner : Fin 6) :
+    BoundaryProfiles (fun i (c : Cell 8 1 (fun _ _ ↦ 8)) w => wordCounts owner i c.2 w) := by
+  classical
+  refine ⟨?_, ?_, ?_⟩
+  · intro c hz w
+    dsimp only
+    rw [mme_released_global_word_counts_row_marginal,
+      mme_released_global_word_counts_row_marginal]
+    apply congrArg (alpha owner (shapeEquiv.symm c.2) * ·)
+    apply marginal_reverse
+    intro a ha
+    exact (atomic_boundary a.1).1 ((row_grade owner c.2 a ha 2).trans hz)
+  · intro c hz w
+    dsimp only
+    rw [mme_released_global_word_counts_row_marginal,
+      mme_released_global_word_counts_row_marginal]
+    apply congrArg (alpha owner (shapeEquiv.symm c.2) * ·)
+    apply marginal_reverse
+    intro a ha
+    exact (atomic_boundary a.1).2.1 ((row_grade owner c.2 a ha 0).trans hz)
+  · intro c hz w
+    dsimp only
+    rw [mme_released_global_word_counts_row_marginal,
+      mme_released_global_word_counts_row_marginal]
+    apply congrArg (alpha owner (shapeEquiv.symm c.2) * ·)
+    apply marginal_reverse
+    intro a ha
+    exact (atomic_boundary a.1).2.2 ((row_grade owner c.2 a ha 1).trans hz)
+
+
+open MME.TensorObj MME.RecursiveYZ.Boundary
+
+private theorem word_grade_zero {ell : ℕ} (s : CompleteWord ell)
+    (h : CWCells.grade s = 0) : s = fun _ ↦ 0 := by
+  funext r
+  apply Fin.ext
+  have hh : ∀ r, (s r).val = 0 := by
+    simpa [CWCells.grade] using (Finset.sum_eq_zero_iff_of_nonneg
+      (fun r (_ : r ∈ (Finset.univ : Finset (Fin (2 ^ (ell - 1))))) ↦ Nat.zero_le (s r).val)).mp h
+  exact hh r
+
+private theorem zero_profile {ell L : ℕ} (mu : CompleteWord ell → ℕ)
+    (hmass : ∑ s, mu s = L)
+    (hgrade : ∀ s, 0 < mu s → CWCells.grade s = 0) :
+    mu = fun s ↦ if s = (fun _ ↦ 0) then L else 0 := by
+  classical
+  have hs (s : CompleteWord ell) (h : s ≠ fun _ ↦ 0) : mu s = 0 := by
+    by_contra hn
+    exact h (word_grade_zero s (hgrade s (Nat.pos_of_ne_zero hn)))
+  have hz : mu (fun _ ↦ 0) = L := by
+    calc
+      mu (fun _ ↦ 0) = ∑ s, mu s := (Finset.sum_eq_single (fun _ ↦ 0)
+        (fun s _ h ↦ hs s h) (by simp)).symm
+      _ = L := hmass
+  funext s
+  by_cases h : s = fun _ ↦ 0
+  · simp [h, hz]
+  · simp [h, hs s h]
+
+private theorem flipLabel_eq_rev {ell : ℕ} (s : CompleteWord ell) :
+    flipLabel s = fun r ↦ Fin.rev (s r) := by
+  funext r
+  apply Fin.ext
+  simp [flipLabel, Fin.rev]
+
+/-- Exact boundary profiles follow from mass, grade support, and the
+boundary reversal identities, without requiring a hash stage. -/
+private theorem mme_cell_boundary_profile_of_mass_support
+    {half R ell L : ℕ} {parent : Fin R → Fin 3 → ℕ}
+    (c : Cell half R parent) (hhalf : half = 2 * 2 ^ (ell - 1))
+    (mu : Fin 3 → Cell half R parent → CompleteWord ell → ℕ)
+    (hmass : ∀ i, ∑ s, mu i c s = L) (hboundary : BoundaryProfiles mu)
+    (z : Fin 3) (hz : (c.2.val z).val = 0)
+    (hg : ∀ i s, 0 < mu i c s → CWCells.grade s = (c.2.val i).val) :
+    ∃ B : Boundary.Profile ell L,
+      (∀ i, (c.2.val i).val = B.shape z i) ∧
+      (∀ i, mu i c = B.mu z i) := by
+  classical
+  let cell := c
+  have hm (i : Fin 3) : ∑ s, mu i cell s = L := hmass i
+  have ht := cell.2.property.1.trans hhalf
+  have hb (i : Fin 3) : (cell.2.val i).val ≤ 2 * 2 ^ (ell - 1) := by
+    have h := (cell.2.val i).isLt
+    rw [← hhalf]
+    omega
+  have hzero : mu z cell = fun s ↦ if s = (fun _ ↦ 0) then L else 0 :=
+    zero_profile _ (hm z) (fun s hs ↦ (hg z s hs).trans hz)
+  have hrevs (s : CompleteWord ell) :
+      flipLabel (flipLabel s) = s := by
+    funext r
+    apply Fin.ext
+    simp only [flipLabel]
+    have := (s r).isLt
+    omega
+  fin_cases z
+  · let B : Boundary.Profile ell (L) :=
+      ⟨(cell.2.val 1).val, hb 1, mu 1 cell, hm 1,
+        fun s hs ↦ hg 1 s (Nat.pos_of_ne_zero hs)⟩
+    refine ⟨B, ?_, ?_⟩
+    · intro i
+      fin_cases i
+      · exact hz
+      · rfl
+      · change (cell.2.val 2).val = 2 * 2 ^ (ell - 1) - (cell.2.val 1).val
+        change (cell.2.val 0).val = 0 at hz
+        omega
+    · intro i
+      fin_cases i
+      · exact hzero
+      · rfl
+      · funext s
+        change mu 2 cell s = mu 1 cell (flipLabel s)
+        rw [flipLabel_eq_rev]
+        exact hboundary.2.1 cell hz s
+  · let B : Boundary.Profile ell (L) :=
+      ⟨(cell.2.val 2).val, hb 2, mu 2 cell, hm 2,
+        fun s hs ↦ hg 2 s (Nat.pos_of_ne_zero hs)⟩
+    refine ⟨B, ?_, ?_⟩
+    · intro i
+      fin_cases i
+      · change (cell.2.val 0).val = 2 * 2 ^ (ell - 1) - (cell.2.val 2).val
+        change (cell.2.val 1).val = 0 at hz
+        omega
+      · exact hz
+      · rfl
+    · intro i
+      fin_cases i
+      · funext s
+        change mu 0 cell s = mu 2 cell (flipLabel s)
+        rw [hboundary.2.2 cell hz, ← flipLabel_eq_rev, hrevs]
+      · exact hzero
+      · rfl
+  · let B : Boundary.Profile ell (L) :=
+      ⟨(cell.2.val 0).val, hb 0, mu 0 cell, hm 0,
+        fun s hs ↦ hg 0 s (Nat.pos_of_ne_zero hs)⟩
+    refine ⟨B, ?_, ?_⟩
+    · intro i
+      fin_cases i
+      · rfl
+      · change (cell.2.val 1).val = 2 * 2 ^ (ell - 1) - (cell.2.val 0).val
+        change (cell.2.val 2).val = 0 at hz
+        omega
+      · exact hz
+    · intro i
+      fin_cases i
+      · rfl
+      · funext s
+        change mu 1 cell s = mu 0 cell (flipLabel s)
+        rw [flipLabel_eq_rev]
+        exact hboundary.1 cell hz s
+      · exact hzero
+
+
+
+private theorem boundary_dim_pos {ell L : ℕ} (B : Boundary.Profile ell L) :
+    0 < B.dim := by
+  have hm : 0 < L.factorial / ∏ w, (B.count w).factorial := by
+    simpa only [Nat.multinomial, B.total] using Nat.multinomial_pos Finset.univ B.count
+  exact Nat.mul_pos hm (by positivity)
+
+private theorem boundary_volume {ell L : ℕ} (B : Boundary.Profile ell L) (z : Fin 3) :
+    B.a z * B.b z * B.c z = B.dim := by
+  fin_cases z <;> simp [Boundary.Profile.a, Boundary.Profile.b, Boundary.Profile.c]
+
+private theorem global_scaled_boundary_profiles (owner : Fin 6) (k : ℕ) :
+    BoundaryProfiles (fun i (c : Cell 8 1 (fun _ _ ↦ 8)) w => k * wordCounts owner i c.2 w) := by
+  obtain ⟨h2, h0, h1⟩ := mme_released_global_word_counts_boundary_profiles owner
+  exact ⟨fun c hc w => congrArg (k * ·) (h2 c hc w),
+    fun c hc w => congrArg (k * ·) (h0 c hc w),
+    fun c hc w => congrArg (k * ·) (h1 c hc w)⟩
+
+/-- Every physical boundary cell has an exact matrix extraction at every
+integer replication. Shape and histogram equalities are retained so the
+result can be assembled with the interior cells. -/
+private theorem mme_released_global_boundary_matrix_extraction
+    (owner : Fin 6) (k : ℕ) (c : Cell 8 1 (fun _ _ ↦ 8)) (z : Fin 3)
+    (hz : (c.2.val z).val = 0) :
+    ∃ B : Boundary.Profile 3
+        (k * (coarseCounts owner c.2)),
+      0 < B.dim ∧ B.a z * B.b z * B.c z = B.dim ∧
+      (∀ i, (c.2.val i).val = B.shape z i) ∧
+      (∀ i w, k * wordCounts owner i c.2 w = B.mu z i w) ∧
+      ∀ (K : Type u) [Field K],
+        TensorObj.Restrict (MMObj K (B.a z) (B.b z) (B.c z))
+          (CWCells.unbroken K 5 3
+            (k * (coarseCounts owner c.2))
+            (Equiv.refl _) (fun _ => Unit.unit)
+            (fun _ i => (c.2.val i).val)
+            (fun i _ w => k * wordCounts owner i c.2 w)) := by
+  have hmass (i : Fin 3) : ∑ w, k * wordCounts owner i c.2 w =
+      k * (coarseCounts owner c.2) := by
+    rw [← Finset.mul_sum, mme_released_global_word_counts_mass]
+  have hg (i : Fin 3) (w : CompleteWord 3) (hw : 0 < k * wordCounts owner i c.2 w) :
+      CWCells.grade w = (c.2.val i).val := by
+    exact mme_released_global_word_counts_grade_support owner c.2 i w (Nat.pos_of_mul_pos_left hw)
+  obtain ⟨B, hshape, hmu⟩ := mme_cell_boundary_profile_of_mass_support c rfl
+    (fun i c w => k * wordCounts owner i c.2 w) hmass (global_scaled_boundary_profiles owner k) z hz hg
+  refine ⟨B, boundary_dim_pos B, boundary_volume B z, hshape,
+    fun i w => congrFun (hmu i) w, ?_⟩
+  intro K _
+  have h := mme_recursive_yz_boundary_actual_matrix_extraction (K := K) B z
+  have hmu_point (i : Fin 3) (w : CompleteWord 3) :
+      k * wordCounts owner i c.2 w = B.mu z i w := congrFun (hmu i) w
+  simpa only [Boundary.Profile.tensor, hshape, hmu_point] using h
+
+
+open Filter
+
+private theorem scaled_boundary_log_lower {ell L : ℕ}
+    (B : Profile ell L) (hL : 0 < L) (k : ℕ) (hk : 0 < k)
+    (C : Profile ell (L * k)) (hcount : ∀ s, C.count s = B.count s * k) :
+    (k : ℝ) * ((L : ℝ) * Real.log 2 *
+        mme_modern_entropyBits (fun s ↦ (B.count s : ℝ) / (L : ℝ)) +
+      ((∑ s, B.count s * ones s : ℕ) : ℝ) * Real.log 5) -
+      (Fintype.card (CompleteWord ell) : ℝ) *
+        Real.log (6 * ((L * k + 1 : ℕ) : ℝ)) ≤ Real.log (C.dim : ℝ) := by
+  classical
+  have hm : 0 < ∑ s, B.count s := by rw [B.total]; exact hL
+  have h := mme_dwz_multinomial_entropy_polynomial_lower B.count k hk hm
+  have hc : (fun s ↦ B.count s * k) = C.count := by funext s; exact (hcount s).symm
+  rw [B.total, hc] at h
+  have hmulti : (0 : ℝ) < Nat.multinomial Finset.univ C.count := by
+    exact_mod_cast Nat.multinomial_pos Finset.univ C.count
+  have hp : (0 : ℝ) < 6 * ((L * k + 1 : ℕ) : ℝ) := by positivity
+  have hl := Real.log_le_log (Real.exp_pos _) h
+  rw [Real.log_exp, Real.log_mul (ne_of_gt (pow_pos hp _)) (ne_of_gt hmulti),
+    Real.log_pow] at hl
+  have hone : ∑ s, C.count s * ones s = (∑ s, B.count s * ones s) * k := by
+    simp only [hcount, Finset.sum_mul]
+    apply Finset.sum_congr rfl
+    intro s _
+    ring
+  have hd : (C.dim : ℝ) =
+      (Nat.multinomial Finset.univ C.count : ℝ) *
+        (5 : ℝ) ^ (∑ s, C.count s * ones s) := by
+    simp only [Profile.dim, Nat.multinomial, C.total, Nat.cast_mul, Nat.cast_pow,
+      Nat.cast_ofNat]
+  rw [hd, Real.log_mul (ne_of_gt hmulti) (by positivity), Real.log_pow, hone]
+  push_cast at hl ⊢
+  nlinarith only [hl]
+
+/-- Replication of a boundary histogram attains its entropy and CW-letter rate;
+the threshold is uniform over all boundary profiles with that histogram. -/
+private theorem mme_boundary_scaled_volume_rate {ell L : ℕ}
+    (B : Profile ell L) (hL : 0 < L) (delta : ℝ) (hdelta : 0 < delta) :
+    ∀ᶠ k : ℕ in atTop, ∀ C : Profile ell (L * k),
+      (∀ s, C.count s = B.count s * k) →
+      (k : ℝ) * ((L : ℝ) * Real.log 2 *
+          mme_modern_entropyBits (fun s ↦ (B.count s : ℝ) / (L : ℝ)) +
+        ((∑ s, B.count s * ones s : ℕ) : ℝ) * Real.log 5 - delta) ≤
+          Real.log (C.dim : ℝ) := by
+  classical
+  let a : ℝ := Fintype.card (CompleteWord ell)
+  have ha : 0 ≤ a := by positivity
+  have habs := mme_log_sqrt_loss_eventually_le_linear a 0
+    (a * Real.log (6 * ((L : ℝ) + 1))) delta hdelta
+  filter_upwards [habs, eventually_gt_atTop 0] with k hk hkpos
+  intro C hcount
+  have hlog := scaled_boundary_log_lower B hL k hkpos C hcount
+  have hpoly : (6 : ℝ) * ((L * k + 1 : ℕ) : ℝ) ≤
+      (6 * ((L : ℝ) + 1)) * ((k : ℝ) + 1) := by
+    push_cast
+    nlinarith [show (0 : ℝ) ≤ L from Nat.cast_nonneg L,
+      show (0 : ℝ) ≤ k from Nat.cast_nonneg k]
+  have hlogs := Real.log_le_log (by positivity : (0 : ℝ) <
+    6 * ((L * k + 1 : ℕ) : ℝ)) hpoly
+  rw [Real.log_mul (show (6 * ((L : ℝ) + 1)) ≠ 0 by positivity)
+    (show ((k : ℝ) + 1) ≠ 0 by positivity)] at hlogs
+  have hscaled := mul_le_mul_of_nonneg_left hlogs ha
+  change a * Real.log ((k : ℝ) + 1) + 0 * Real.sqrt ((k : ℝ) + 1) +
+    a * Real.log (6 * ((L : ℝ) + 1)) ≤ (k : ℝ) * delta at hk
+  change (k : ℝ) * _ - a * _ ≤ _ at hlog
+  nlinarith only [hlog, hscaled, hk]
+
+
+private theorem boundary_count_from_mu {ell L M : ℕ}
+    (B : Boundary.Profile ell L) (C : Boundary.Profile ell M)
+    (z : Fin 3) (k : ℕ) (h : ∀ i w, C.mu z i w = B.mu z i w * k) :
+    ∀ w, C.count w = B.count w * k := by
+  intro w
+  fin_cases z
+  · simpa [Boundary.Profile.mu] using h 1 w
+  · simpa [Boundary.Profile.mu] using h 2 w
+  · simpa [Boundary.Profile.mu] using h 0 w
+
+/-- Each released boundary cell has physical matrix extractions attaining the
+entropy and CW-letter rate of its exact integer histogram. -/
+private theorem mme_released_global_boundary_physical_volume_rate
+    (owner : Fin 6) (c : Cell 8 1 (fun _ _ ↦ 8))
+    (hmass : 0 < coarseCounts owner c.2) (z : Fin 3) (hz : (c.2.val z).val = 0)
+    (delta : ℝ) (hdelta : 0 < delta) :
+    ∃ B : Boundary.Profile 3
+        (coarseCounts owner c.2),
+      (∀ i w, wordCounts owner i c.2 w = B.mu z i w) ∧
+      ∀ᶠ k : ℕ in atTop, ∃ C : Boundary.Profile 3
+          (k * (coarseCounts owner c.2)),
+        0 < C.dim ∧ C.a z * C.b z * C.c z = C.dim ∧
+        (∀ i, (c.2.val i).val = C.shape z i) ∧
+        (∀ i w, k * wordCounts owner i c.2 w = C.mu z i w) ∧
+        (k : ℝ) *
+          (((coarseCounts owner c.2 : ℕ) : ℝ) *
+            Real.log 2 * mme_modern_entropyBits
+              (fun w ↦ (B.count w : ℝ) /
+                ((coarseCounts owner c.2 : ℕ) : ℝ)) +
+            ((∑ w, B.count w * ones w : ℕ) : ℝ) * Real.log 5 - delta) ≤
+          Real.log (C.a z * C.b z * C.c z : ℕ) ∧
+        ∀ (K : Type u) [Field K],
+          TensorObj.Restrict (MMObj K (C.a z) (C.b z) (C.c z))
+            (CWCells.unbroken K 5 3
+              (k * (coarseCounts owner c.2))
+              (Equiv.refl _) (fun _ => Unit.unit)
+              (fun _ i => (c.2.val i).val)
+              (fun i _ w => k * wordCounts owner i c.2 w)) := by
+  have hbase := mme_released_global_boundary_matrix_extraction.{u} owner 1 c z hz
+  rw [Nat.one_mul] at hbase
+  simp only [Nat.one_mul] at hbase
+  obtain ⟨B, _, _, _, hBmu, _⟩ := hbase
+  refine ⟨B, hBmu, ?_⟩
+  have hrate := mme_boundary_scaled_volume_rate B hmass
+    delta hdelta
+  have hrate' : ∀ᶠ k : ℕ in atTop,
+      ∀ C : Boundary.Profile 3 (k * (coarseCounts owner c.2)),
+        (∀ w, C.count w = B.count w * k) →
+        (k : ℝ) *
+          (((coarseCounts owner c.2 : ℕ) : ℝ) *
+            Real.log 2 * mme_modern_entropyBits
+              (fun w ↦ (B.count w : ℝ) /
+                ((coarseCounts owner c.2 : ℕ) : ℝ)) +
+            ((∑ w, B.count w * ones w : ℕ) : ℝ) * Real.log 5 - delta) ≤
+          Real.log (C.dim : ℝ) := by
+    filter_upwards [hrate] with k hk
+    rw [Nat.mul_comm (coarseCounts owner c.2) k] at hk
+    exact hk
+  filter_upwards [hrate'] with k hk
+  obtain ⟨C, hpos, hvol, hshape, hmu, hextract⟩ :=
+    mme_released_global_boundary_matrix_extraction owner k c z hz
+  have hcount := boundary_count_from_mu B C z k (by
+    intro i w
+    rw [← hmu i w, ← hBmu i w, Nat.mul_comm])
+  refine ⟨C, hpos, hvol, hshape, hmu, ?_, hextract⟩
+  rw [hvol]
+  exact hk C hcount
+
+
+
+open BigOperators MME MME.TensorObj MME.ReleasedGlobal MME.MoreAsymmetryExactSeed
+  MME.RecursiveYZ MME.RecursiveYZ.CWCells MME.CompleteSplit
+set_option autoImplicit false
+
+private theorem released_normalized_center (owner : Fin 6) (k L : ℕ)
+    (i : Fin 3) (c : Cell 8 1 (fun _ _ ↦ 8)) (w : Word) :
+    ((k * wordCounts owner i c.2 w : ℕ) : ℝ) / L =
+      ((blocks k : ℝ) / L) * (profile owner).2 i c w := by
+  change ((k * wordCounts owner i c.2 w : ℕ) : ℝ) / L =
+    ((denominator ^ 5 * k : ℕ) : ℝ) / L *
+      ((wordCounts owner i c.2 w : ℝ) / (denominator : ℝ)^5)
+  have halg (d n m t : ℝ) (hd : d ≠ 0) :
+      n * m / t = (d^5 * n / t) * (m / d^5) := by
+    field_simp
+  simp only [Nat.cast_mul, Nat.cast_pow]
+  exact halg _ _ _ _ (by norm_num [denominator])
+
+private theorem exact_histogram_window_restriction
+    {K : Type u} [Field K] (L : ℕ) (hL : 0 < L)
+    (shape : Fin 3 → ℕ) (mu : Fin 3 → Word → ℕ)
+    (center : Fin 3 → Word → ℝ) (total eps : ℝ)
+    (htotal : 0 ≤ total) (heps : 0 ≤ eps)
+    (hcenter : ∀ i w, (mu i w : ℝ) / L = (total / L) * center i w) :
+    Restrict
+      (unbroken K 5 3 L (Equiv.refl _) (fun _ => Unit.unit)
+        (fun _ => shape) (fun i _ => mu i))
+      ((source K 5 3 L).basisAllAllowedSubtensor (basis K 5 3 L) (fun i x =>
+        (∀ r, CWCells.grade (label 5 3 L (Equiv.refl _) x r) = shape i) ∧
+        if L = 0 then ∀ w, |center i w| ≤ eps else
+        ∀ w, |(count (fun _ : Fin L => Unit.unit)
+          (label 5 3 L (Equiv.refl _) x) Unit.unit w : ℝ) / (L : ℝ) -
+          (total / L) * center i w| ≤ (total / L) * eps)) := by
+  classical
+  apply mme_basis_projected_family_restrict (source K 5 3 L) (basis K 5 3 L) _
+    (fun (_ : Fin 1) => allowed 5 3 L (Equiv.refl _) (fun _ => Unit.unit)
+      (fun _ => shape) (fun i _ => mu i))
+  · intro j i x hx
+    refine ⟨hx.1, ?_⟩
+    rw [if_neg (Nat.ne_of_gt hL)]
+    intro w
+    have hc := hx.2 Unit.unit w
+    rw [hc, hcenter, sub_self, abs_zero]
+    exact mul_nonneg (div_nonneg htotal (Nat.cast_nonneg _)) heps
+  · intro x js _ _
+    exact ⟨0, funext (fun i => Fin.eq_zero (js i))⟩
+
+/-- Exact released histograms lie in every nonnegative normalized cell window. -/
+private theorem mme_released_global_exact_histogram_window_restriction
+    {K : Type u} [Field K] (owner : Fin 6) (k : ℕ)
+    (c : Cell 8 1 (fun _ _ ↦ 8)) (hL : 0 < k * coarseCounts owner c.2)
+    (eps : ℝ) (heps : 0 ≤ eps) :
+    let L := k * coarseCounts owner c.2
+    Restrict
+      (unbroken K 5 3 L (Equiv.refl _) (fun _ => Unit.unit)
+        (fun _ i => (c.2.val i).val) (fun i _ w => k * wordCounts owner i c.2 w))
+      ((source K 5 3 L).basisAllAllowedSubtensor (basis K 5 3 L) (fun i x =>
+        (∀ r, CWCells.grade (label 5 3 L (Equiv.refl _) x r) = (c.2.val i).val) ∧
+        if L = 0 then ∀ w, |(profile owner).2 i c w| ≤ eps else
+        ∀ w, |(count (fun _ : Fin L => Unit.unit)
+          (label 5 3 L (Equiv.refl _) x) Unit.unit w : ℝ) / (L : ℝ) -
+          ((blocks k : ℝ) / (L : ℝ)) * (profile owner).2 i c w| ≤
+          ((blocks k : ℝ) / (L : ℝ)) * eps)) := by
+  exact exact_histogram_window_restriction _ hL _ _ _ _ _
+    (Nat.cast_nonneg _) heps (released_normalized_center owner k _ · c ·)
+
+
+/-- Each released boundary cell has physical matrix extractions attaining the
+entropy and CW-letter rate of its exact integer histogram. -/
+private theorem mme_released_global_boundary_normalized_window_volume_rate
+    (owner : Fin 6) (c : Cell 8 1 (fun _ _ ↦ 8))
+    (hmass : 0 < coarseCounts owner c.2) (z : Fin 3) (hz : (c.2.val z).val = 0)
+    (delta : ℝ) (hdelta : 0 < delta) :
+    ∃ B : Boundary.Profile 3
+        (coarseCounts owner c.2),
+      (∀ i w, wordCounts owner i c.2 w = B.mu z i w) ∧
+      ∀ᶠ k : ℕ in atTop, ∃ C : Boundary.Profile 3
+          (k * (coarseCounts owner c.2)),
+        0 < C.dim ∧ C.a z * C.b z * C.c z = C.dim ∧
+        (∀ i, (c.2.val i).val = C.shape z i) ∧
+        (∀ i w, k * wordCounts owner i c.2 w = C.mu z i w) ∧
+        (k : ℝ) *
+          (((coarseCounts owner c.2 : ℕ) : ℝ) *
+            Real.log 2 * mme_modern_entropyBits
+              (fun w ↦ (B.count w : ℝ) /
+                ((coarseCounts owner c.2 : ℕ) : ℝ)) +
+            ((∑ w, B.count w * ones w : ℕ) : ℝ) * Real.log 5 - delta) ≤
+          Real.log (C.a z * C.b z * C.c z : ℕ) ∧
+        ∀ (eps : ℝ), 0 ≤ eps → ∀ (K : Type u) [Field K],
+          let L := k * coarseCounts owner c.2
+          Restrict (MMObj K (C.a z) (C.b z) (C.c z))
+      ((source K 5 3 L).basisAllAllowedSubtensor (basis K 5 3 L) (fun i x =>
+        (∀ r, CWCells.grade (label 5 3 L (Equiv.refl _) x r) = (c.2.val i).val) ∧
+        if L = 0 then ∀ w, |(profile owner).2 i c w| ≤ eps else
+        ∀ w, |(count (fun _ : Fin L => Unit.unit)
+          (label 5 3 L (Equiv.refl _) x) Unit.unit w : ℝ) / (L : ℝ) -
+          ((blocks k : ℝ) / (L : ℝ)) * (profile owner).2 i c w| ≤
+          ((blocks k : ℝ) / (L : ℝ)) * eps)) := by
+  obtain ⟨B, hBmu, hrate⟩ :=
+    mme_released_global_boundary_physical_volume_rate owner c hmass z hz delta hdelta
+  refine ⟨B, hBmu, ?_⟩
+  filter_upwards [hrate, eventually_gt_atTop 0] with k hk hkpos
+  obtain ⟨C, hpos, hvol, hshape, hmu, hbound, hextract⟩ := hk
+  refine ⟨C, hpos, hvol, hshape, hmu, hbound, ?_⟩
+  intro eps heps K _
+  exact (hextract K).trans
+    (mme_released_global_exact_histogram_window_restriction owner k c
+      (Nat.mul_pos hkpos hmass) eps heps)
+
+
+/-- Full symmetrization turns a matrix tensor of volume V into a square
+matrix tensor with each dimension V squared. -/
+private theorem mme_MMObj_sixSymmetrization_iso {K : Type u} [Field K] (a b c : ℕ) :
+    TensorObj.Isomorphic (sixSymmetrization (MMObj K a b c))
+      (MMObj K ((a * b * c) ^ 2) ((a * b * c) ^ 2) ((a * b * c) ^ 2)) := by
+  let V := a * b * c
+  have hcyc := TensorQ.toQ_eq_iff.mpr
+    (mme_MMObj_cyclicSymmetrization_iso (K := K) a b c)
+  have hswap := TensorQ.toQ_eq_iff.mpr
+    (mme_MMObj_permObj_swapFirstTwo (K := K) V V V)
+  apply TensorQ.toQ_eq_iff.mp
+  rw [sixSymmetrization, TensorQ.toQ_kron, ← TensorQ.permAut_toQ,
+    hcyc, TensorQ.permAut_toQ, hswap]
+  have hmul := TensorQ.toQ_eq_iff.mpr (MMObj_kron_iso (K := K) V V V V V V)
+  simpa only [TensorQ.toQ_kron, pow_two] using hmul
+
+/-- A positive matrix extraction yields a six-symmetric extraction whose tau
+weight retains six times its log-volume bound, for nonnegative tau. -/
+private theorem mme_matrix_extraction_six_volume_weight
+    {K : Type u} [Field K] {T : TensorObj K 3} (a b c : ℕ)
+    (hrestrict : TensorObj.Restrict (MMObj K a b c) T)
+    (hpos : 0 < a * b * c) (rate tau : ℝ) (htau : 0 ≤ tau)
+    (hrate : rate ≤ Real.log (a * b * c : ℕ)) :
+    TensorObj.Restrict
+      (MMObj K ((a * b * c) ^ 2) ((a * b * c) ^ 2) ((a * b * c) ^ 2))
+      (sixSymmetrization T) ∧
+    Real.exp (6 * tau * rate) ≤
+      ((((a * b * c) ^ 2 * (a * b * c) ^ 2 * (a * b * c) ^ 2 : ℕ) : ℝ) ^ tau) := by
+  constructor
+  · exact (mme_MMObj_sixSymmetrization_iso (K := K) a b c).2.trans
+      (mme_sixSymmetrization_restrict hrestrict)
+  · have hv : (0 : ℝ) < (a * b * c : ℕ) := by exact_mod_cast hpos
+    have hpow : (a * b * c) ^ 2 * (a * b * c) ^ 2 * (a * b * c) ^ 2 =
+        (a * b * c) ^ 6 := by ring
+    rw [hpow, Nat.cast_pow, Real.rpow_def_of_pos (pow_pos hv _), Real.log_pow]
+    apply Real.exp_le_exp.mpr
+    norm_num only [Nat.cast_ofNat]
+    nlinarith [mul_le_mul_of_nonneg_left hrate (show 0 ≤ 6 * tau by positivity)]
+
+
+/-- The released boundary cells supply square matrices in the full
+six-symmetric physical tensor, with their entropy and letter weight. -/
+theorem solution
+    (owner : Fin 6) (c : Cell 8 1 (fun _ _ ↦ 8))
+    (hmass : 0 < coarseCounts owner c.2) (z : Fin 3) (hz : (c.2.val z).val = 0)
+    (delta : ℝ) (hdelta : 0 < delta) :
+    ∃ B : Boundary.Profile 3
+        (coarseCounts owner c.2),
+      (∀ i w, wordCounts owner i c.2 w = B.mu z i w) ∧
+      ∀ᶠ k : ℕ in atTop, ∃ M : ℕ, 0 < M ∧
+        (∀ (eps : ℝ), 0 ≤ eps → ∀ (K : Type u) [Field K],
+          let L := k * coarseCounts owner c.2
+          Restrict (MMObj K M M M) (sixSymmetrization
+      ((source K 5 3 L).basisAllAllowedSubtensor (basis K 5 3 L) (fun i x =>
+        (∀ r, CWCells.grade (label 5 3 L (Equiv.refl _) x r) = (c.2.val i).val) ∧
+        if L = 0 then ∀ w, |(profile owner).2 i c w| ≤ eps else
+        ∀ w, |(count (fun _ : Fin L => Unit.unit)
+          (label 5 3 L (Equiv.refl _) x) Unit.unit w : ℝ) / (L : ℝ) -
+          ((blocks k : ℝ) / (L : ℝ)) * (profile owner).2 i c w| ≤
+          ((blocks k : ℝ) / (L : ℝ)) * eps)))) ∧
+        ∀ tau : ℝ, 0 ≤ tau →
+          Real.exp (6 * tau * ((k : ℝ) *
+            (((coarseCounts owner c.2 : ℕ) : ℝ) *
+              Real.log 2 * mme_modern_entropyBits
+                (fun w ↦ (B.count w : ℝ) /
+                  ((coarseCounts owner c.2 : ℕ) : ℝ)) +
+              ((∑ w, B.count w * ones w : ℕ) : ℝ) * Real.log 5 - delta))) ≤
+            ((M * M * M : ℕ) : ℝ) ^ tau := by
+  obtain ⟨B, hmu, hrate⟩ :=
+    mme_released_global_boundary_normalized_window_volume_rate.{u} owner c hmass z hz delta hdelta
+  refine ⟨B, hmu, ?_⟩
+  filter_upwards [hrate] with k hk
+  obtain ⟨C, hpos, hvol, _, _, hlog, hextract⟩ := hk
+  have hv : 0 < C.a z * C.b z * C.c z := by rw [hvol]; exact hpos
+  refine ⟨(C.a z * C.b z * C.c z) ^ 2, pow_pos hv _, ?_, ?_⟩
+  · intro eps heps K _
+    exact (mme_MMObj_sixSymmetrization_iso (K := K) (C.a z) (C.b z) (C.c z)).2.trans
+      (mme_sixSymmetrization_restrict (hextract eps heps K))
+  · intro tau htau
+    exact (mme_matrix_extraction_six_volume_weight (K := ULift.{u} ℚ)
+      (C.a z) (C.b z) (C.c z) (hextract 0 le_rfl (ULift.{u} ℚ)) hv _ tau htau hlog).2
+
+
+#print axioms solution

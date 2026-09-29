@@ -1,0 +1,55 @@
+-- Prove2me | Theorems.Thm_Zeta23_Taper_hasSum_phiHatR_mul
+-- name    : Zeta23.Taper.hasSum_phiHatR_mul
+-- status  : Proved
+-- author  : @Community (Bot)
+-- created : 2026-08-17T21:33:19.224604+00:00
+-- url     : https://prove2.me/theorems/42191e93-95e1-4103-a6b6-2f57294bbbf6
+-- title:
+--   Poisson summation for products of shifted taper transforms
+-- statement:
+--   Throughout, $\varrho$ is a taper profile (`TaperProfile`): a monotone $C^3$ function $\mathbb{R}\to\mathbb{R}$ equal to $0$ on $(-\infty,0]$ and $1$ on $[1,\infty)$. For a window length $L$ and ramp width $w$, the taper is $\varphi(u) = \varrho\bigl((L/2 - |u|)/w\bigr)$: an even function with $0\le\varphi\le 1$, supported in $[-L/2,L/2]$ and equal to $1$ on $[-L/2+w,\,L/2-w]$. The paper's Fourier transform is $h_f(z) = \int_{\mathbb{R}} f(u)\,e^{izu}\,du$ (`paperFT`), and $\hat\varphi(r)$ denotes the real part of $h_\varphi$ at a real argument $r$ (`phiHatR`).
+--
+--   Let $\Phi$ denote the transform of $\varphi^2$ at real arguments (`PhiR`), and for a base point $T$ let $\tau_k = T + k \cdot 2\pi/L$ ($k \in \mathbb{Z}$) be the arithmetic progression of sampling points with spacing $2\pi/L$.
+--
+--   Assume $w > 0$ and $2w \le L$. Then for all real $\tau, \tau'$, the bilateral series converges (in the strong `HasSum` sense, i.e. unconditional summability over $k \in \mathbb{Z}$) with
+--
+--   $$\sum_{k \in \mathbb{Z}} \hat\varphi(\tau - \tau_k)\,\hat\varphi(\tau' - \tau_k) \;=\; L\,\Phi(\tau - \tau').$$
+--
+--   This is the general real-valued form of the Poisson-summation lemma [lem:poisson]: the left side is a Fourier-series evaluation of the autocorrelation of $\varphi$, and the identity is what makes the discrete sampling of the taper transform exactly computable. It feeds `Zeta23.PrimeSide.localHyps_concrete` and its own special case `Zeta23.Taper.hasSum_phiHatR_sq`.
+-- source:
+--   https://github.com/anthropics/zeta-23-lean/blob/182afbf851aa42a8ae78507be83f2356d3a33260/Zeta23/Poisson.lean#L345-L364, docstring tag [lem:poisson]
+
+import Mathlib
+import Mathlib.Algebra.BigOperators.Finprod
+import Mathlib.Algebra.Order.Star.Basic
+import Mathlib.Analysis.CStarAlgebra.Classes
+import Mathlib.Analysis.Calculus.ContDiff.Deriv
+import Mathlib.Analysis.Calculus.Deriv.Support
+import Mathlib.Analysis.Fourier.FourierTransform
+import Mathlib.Analysis.Fourier.PoissonSummation
+import Mathlib.Analysis.SpecialFunctions.Gamma.Digamma
+import Mathlib.Analysis.SpecialFunctions.Pow.Complex
+import Mathlib.Analysis.SpecialFunctions.SmoothTransition
+import Mathlib.Data.Matrix.Basic
+import Mathlib.Data.Set.Card
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Mathlib.MeasureTheory.Integral.Bochner.Set
+import Mathlib.MeasureTheory.Integral.IntegralEqImproper
+import Mathlib.MeasureTheory.Integral.Prod
+import Mathlib.MeasureTheory.Measure.Haar.NormedSpace
+import Mathlib.MeasureTheory.Measure.Lebesgue.Basic
+import Mathlib.NumberTheory.ArithmeticFunction.VonMangoldt
+import Definitions.Def_Zeta23_Defs
+import Definitions.Def_Zeta23_Poisson
+import Definitions.Def_Zeta23_Taper_Basic
+
+open Complex MeasureTheory Real Set Filter Topology Asymptotics
+open scoped FourierTransform
+open Zeta23
+open Taper
+variable {ϱ : ℝ → ℝ} {L w : ℝ}
+
+theorem Zeta23.Taper.hasSum_phiHatR_mul (hϱ : TaperProfile ϱ) (hw : 0 < w) (hwL : 2 * w ≤ L) (T τ τ' : ℝ) :
+    HasSum (fun k : ℤ => phiHatR ϱ L w (τ - (T + k * (2 * π / L)))
+                          * phiHatR ϱ L w (τ' - (T + k * (2 * π / L))))
+      (L * PhiR ϱ L w (τ - τ')) := by sorry

@@ -1,0 +1,4855 @@
+-- Prove2me | solution 1 for Freiman.section14_select_long
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-09-13T16:33:40.931099+00:00
+-- url     : https://prove2.me/submissions/1e940dbe-e852-446c-be41-3fc58ddf4274
+
+import Definitions.Def_Freiman_section14Geometry
+import Theorems.Thm_Freiman_lowerHistory_width_threshold
+import Theorems.Thm_Freiman_trunk_endpoint_strict_order
+import Theorems.Thm_Freiman_lowerEarlyTerminal_endpoint_swap_nontie
+import Mathlib.Tactic.FinCases
+import Definitions.Def_Freiman_lowerHistoryVerification
+import Theorems.Thm_Freiman_prefixEval_difference
+import Theorems.Thm_Freiman_prefixEval_mobius
+import Theorems.Thm_Freiman_continuant_determinant
+import Theorems.Thm_Freiman_continuant_denominator_pos
+import Theorems.Thm_Freiman_lowerEarlyTerminal_ratio_range
+import Mathlib.Tactic
+import Definitions.Def_Freiman_lowerCover
+import Theorems.Thm_Freiman_lowerEarlyTerminal_ratio_append
+import Theorems.Thm_Freiman_lowerHistory_theta_values
+import Theorems.Thm_Freiman_lower_forced_reflections
+
+-- Source: agents.long16.Long
+
+set_option Elab.async false
+set_option linter.all false
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+
+open Freiman
+
+namespace Long14
+
+private theorem strictGood_good (p : LowerPair) (h : lowerStrictGood p) : lowerGood p := by
+  rw [lowerStrictGood] at h
+  rcases lt_min_iff.mp h with ⟨h1, h2⟩
+  rw [lowerGood, lowerCover]
+  refine ⟨max (lowerEndpoint (lowerChild p ([1], [])) false)
+    (lowerEndpoint (lowerChild p ([2], [])) false), ?_⟩
+  exact ⟨⟨le_max_left _ _, h1.le⟩, ⟨le_max_right _ _, h2.le⟩⟩
+
+private theorem child_good_of_raw
+    (p : LowerPair) (l : LowerLabel) (hl : l ∈ section14RawList p)
+    (hg : section14RawGeometry p)
+    (hcross :
+      lowerWidth ((lowerNormalize p).1 ++ (section14LabelWords l).1) <
+          lowerWidth ((lowerNormalize p).2 ++ (section14LabelWords l).2) →
+      lowerEndpoint ((lowerNormalize p).1 ++ (section14LabelWords l).1,
+          (lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [2]) false <
+        lowerEndpoint ((lowerNormalize p).1 ++ (section14LabelWords l).1,
+          (lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [1]) true →
+      lowerEndpoint ((lowerNormalize p).1 ++ (section14LabelWords l).1,
+          (lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [1]) false <
+        lowerEndpoint ((lowerNormalize p).1 ++ (section14LabelWords l).1,
+          (lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [2]) true →
+      lowerEndpoint ((lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [2],
+          (lowerNormalize p).1 ++ (section14LabelWords l).1) false <
+        lowerEndpoint ((lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [1],
+          (lowerNormalize p).1 ++ (section14LabelWords l).1) true ∧
+      lowerEndpoint ((lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [1],
+          (lowerNormalize p).1 ++ (section14LabelWords l).1) false <
+        lowerEndpoint ((lowerNormalize p).2 ++ (section14LabelWords l).2 ++ [2],
+          (lowerNormalize p).1 ++ (section14LabelWords l).1) true) :
+    lowerGood (lowerChild p l) := by
+  classical
+  let w := section14LabelWords l
+  have hspec (s : Section14Spec)
+      (hspec : s ∈ section14ExpectedSpecs (section14RawList p) (section14TargetLower p)) :
+      section14SpecHolds p s := hg s hspec
+  have hf12 :
+      section14Holds [⟨false, false, lowerHistoryWH w⟩]
+          (section14R p) (section14S p) (section14Q p) →
+        section14LocalEndpoint p (lowerHistorySet w false (lowerHistoryPick w false ++ [2])) false <
+          section14LocalEndpoint p (lowerHistorySet w false (lowerHistoryPick w false ++ [1])) true := by
+    simpa [section14SpecHolds] using
+      hspec ⟨lowerHistorySet w false (lowerHistoryPick w false ++ [1]), true,
+        lowerHistorySet w false (lowerHistoryPick w false ++ [2]), false, true,
+        [⟨false, false, lowerHistoryWH w⟩]⟩ (by
+          simp [section14ExpectedSpecs, section14NormalCases]
+          exact ⟨l.1, l.2, hl, Or.inl ⟨by simp [w], by simp [w], by simp [w]⟩⟩)
+  have hf21 :
+      section14Holds [⟨false, false, lowerHistoryWH w⟩]
+          (section14R p) (section14S p) (section14Q p) →
+        section14LocalEndpoint p (lowerHistorySet w false (lowerHistoryPick w false ++ [1])) false <
+          section14LocalEndpoint p (lowerHistorySet w false (lowerHistoryPick w false ++ [2])) true := by
+    simpa [section14SpecHolds] using
+      hspec ⟨lowerHistorySet w false (lowerHistoryPick w false ++ [2]), true,
+        lowerHistorySet w false (lowerHistoryPick w false ++ [1]), false, true,
+        [⟨false, false, lowerHistoryWH w⟩]⟩ (by
+          simp [section14ExpectedSpecs, section14NormalCases]
+          exact ⟨l.1, l.2, hl, Or.inr ⟨by simp [w], by simp [w], by simp [w]⟩⟩)
+  have ht12 :
+      section14Holds [⟨true, true, lowerHistoryWH w⟩]
+          (section14R p) (section14S p) (section14Q p) →
+        section14LocalEndpoint p (lowerHistorySet w true (lowerHistoryPick w true ++ [2])) false <
+          section14LocalEndpoint p (lowerHistorySet w true (lowerHistoryPick w true ++ [1])) true := by
+    simpa [section14SpecHolds] using
+      hspec ⟨lowerHistorySet w true (lowerHistoryPick w true ++ [1]), true,
+        lowerHistorySet w true (lowerHistoryPick w true ++ [2]), false, true,
+        [⟨true, true, lowerHistoryWH w⟩]⟩ (by
+          simp [section14ExpectedSpecs, section14NormalCases]
+          exact ⟨l.1, l.2, hl, Or.inl ⟨by simp [w], by simp [w], by simp [w]⟩⟩)
+  have ht21 :
+      section14Holds [⟨true, true, lowerHistoryWH w⟩]
+          (section14R p) (section14S p) (section14Q p) →
+        section14LocalEndpoint p (lowerHistorySet w true (lowerHistoryPick w true ++ [1])) false <
+          section14LocalEndpoint p (lowerHistorySet w true (lowerHistoryPick w true ++ [2])) true := by
+    simpa [section14SpecHolds] using
+      hspec ⟨lowerHistorySet w true (lowerHistoryPick w true ++ [2]), true,
+        lowerHistorySet w true (lowerHistoryPick w true ++ [1]), false, true,
+        [⟨true, true, lowerHistoryWH w⟩]⟩ (by
+          simp [section14ExpectedSpecs, section14NormalCases]
+          exact ⟨l.1, l.2, hl, Or.inr ⟨by simp [w], by simp [w], by simp [w]⟩⟩)
+  let Z := lowerNormalize p
+  have hc : lowerChild p l = (Z.1 ++ w.1, Z.2 ++ w.2) := by
+    simp [lowerChild, w, section14LabelWords, Z]
+  by_cases hw : lowerWidth (Z.2 ++ w.2) ≤ lowerWidth (Z.1 ++ w.1)
+  · have hn : section14Holds [⟨false, false, lowerHistoryWH w⟩]
+        (section14R p) (section14S p) (section14Q p) := by
+      have ht := (lowerHistory_width_threshold Z w).1.mp hw
+      simpa [lowerHistoryAtBase, lowerHistoryConditions, section14Holds,
+        section14R, section14S, section14Q, Z] using ht
+    have ha := hf12 hn
+    have hb := hf21 hn
+    have hca : lowerChild (lowerChild p l) ([1], []) =
+        (Z.1 ++ w.1 ++ [1], Z.2 ++ w.2) := by
+      rw [hc]
+      simp [lowerChild, lowerNormalize, hw]
+    have hcb : lowerChild (lowerChild p l) ([2], []) =
+        (Z.1 ++ w.1 ++ [2], Z.2 ++ w.2) := by
+      rw [hc]
+      simp [lowerChild, lowerNormalize, hw]
+    have hoa := trunk_endpoint_strict_order (Z.1 ++ w.1 ++ [1], Z.2 ++ w.2)
+    have hob := trunk_endpoint_strict_order (Z.1 ++ w.1 ++ [2], Z.2 ++ w.2)
+    apply strictGood_good
+    rw [lowerStrictGood, hca, hcb]
+    simp only [max_lt_iff, lt_min_iff]
+    by_cases he : Z.1.length % 2 = 0
+    · simp [section14LocalEndpoint, Z, w, he, lowerHistorySet, lowerHistoryPick] at ha hb
+      exact ⟨⟨hoa, by simpa [Z, w, List.append_assoc] using ha⟩,
+        ⟨by simpa [Z, w, List.append_assoc] using hb, hob⟩⟩
+    · simp [section14LocalEndpoint, Z, w, he, lowerHistorySet, lowerHistoryPick] at ha hb
+      exact ⟨⟨hoa, by simpa [Z, w, List.append_assoc] using hb⟩,
+        ⟨by simpa [Z, w, List.append_assoc] using ha, hob⟩⟩
+  · have hw' : lowerWidth (Z.1 ++ w.1) < lowerWidth (Z.2 ++ w.2) := lt_of_not_ge hw
+    have hn : section14Holds [⟨true, true, lowerHistoryWH w⟩]
+        (section14R p) (section14S p) (section14Q p) := by
+      have hn0 : ¬ section14Holds [⟨false, false, lowerHistoryWH w⟩]
+          (section14R p) (section14S p) (section14Q p) := by
+        intro ht
+        apply hw
+        have hw0 := (lowerHistory_width_threshold Z w).1.mpr (by
+          simpa [lowerHistoryAtBase, lowerHistoryConditions, section14Holds,
+            section14R, section14S, section14Q, Z] using ht)
+        exact hw0
+      simpa [section14Holds, certBoundHolds] using hn0
+    have ha := ht12 hn
+    have hb := ht21 hn
+    have hca : lowerChild (lowerChild p l) ([1], []) =
+        (Z.2 ++ w.2 ++ [1], Z.1 ++ w.1) := by
+      rw [hc]
+      simp [lowerChild, lowerNormalize, hw, hw']
+    have hcb : lowerChild (lowerChild p l) ([2], []) =
+        (Z.2 ++ w.2 ++ [2], Z.1 ++ w.1) := by
+      rw [hc]
+      simp [lowerChild, lowerNormalize, hw, hw']
+    have hoa := trunk_endpoint_strict_order (Z.2 ++ w.2 ++ [1], Z.1 ++ w.1)
+    have hob := trunk_endpoint_strict_order (Z.2 ++ w.2 ++ [2], Z.1 ++ w.1)
+    apply strictGood_good
+    rw [lowerStrictGood, hca, hcb]
+    simp only [max_lt_iff, lt_min_iff]
+    by_cases he : Z.1.length % 2 = 0
+    · simp [section14LocalEndpoint, Z, w, he, lowerHistorySet, lowerHistoryPick] at ha hb
+      have ha' : lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [2]) false <
+          lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [1]) true := by
+        simpa [Z, w, List.append_assoc] using ha
+      have hb' : lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [1]) false <
+          lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [2]) true := by
+        simpa [Z, w, List.append_assoc] using hb
+      have hcr := hcross (by simpa [Z,w] using hw')
+        (by simpa [Z,w] using ha') (by simpa [Z,w] using hb')
+      exact ⟨⟨hoa, by simpa [Z,w,List.append_assoc] using hcr.1⟩,
+        ⟨by simpa [Z,w,List.append_assoc] using hcr.2, hob⟩⟩
+    · simp [section14LocalEndpoint, Z, w, he, lowerHistorySet, lowerHistoryPick] at ha hb
+      have ha' : lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [1]) false <
+          lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [2]) true := by
+        simpa [Z, w, List.append_assoc] using ha
+      have hb' : lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [2]) false <
+          lowerEndpoint (Z.1 ++ w.1, Z.2 ++ w.2 ++ [1]) true := by
+        simpa [Z, w, List.append_assoc] using hb
+      have hcr := hcross (by simpa [Z,w] using hw')
+        (by simpa [Z,w] using hb') (by simpa [Z,w] using ha')
+      exact ⟨⟨hoa, by simpa [Z,w,List.append_assoc] using hcr.1⟩,
+        ⟨by simpa [Z,w,List.append_assoc] using hcr.2, hob⟩⟩
+
+private theorem chain_select {α : Type} (lo hi : α → ℝ) (x : ℝ) :
+    ∀ (ls : List α) (hls : ls ≠ []),
+      (∀ a ∈ ls, lo a ≤ hi a) →
+      (∀ a b, (a,b) ∈ ls.zip ls.tail → lo a ≤ hi b) →
+      lo (ls.getLast hls) ≤ x → x ≤ hi (ls.head hls) →
+      ∃ a ∈ ls, x ∈ Set.Icc (lo a) (hi a) := by
+  intro ls
+  induction ls with
+  | nil => simp
+  | cons a tail ih =>
+      intro _ hins hcontact hlo hhi
+      cases tail with
+      | nil =>
+          exact ⟨a, by simp, hlo, hhi⟩
+      | cons b tail =>
+          by_cases hax : lo a ≤ x
+          · exact ⟨a, by simp, hax, hhi⟩
+          · have hab : lo a ≤ hi b := hcontact a b (by simp)
+            have hxb : x ≤ hi b := (le_of_lt (lt_of_not_ge hax)).trans hab
+            have hlast : lo ((b :: tail).getLast (by simp)) ≤ x := by simpa using hlo
+            obtain ⟨c, hc, hxc⟩ := ih (by simp) (by
+              intro c hc
+              exact hins c (by simp [hc])) (by
+              intro c d hcd
+              exact hcontact c d (by
+                right
+                exact hcd)) hlast hxb
+            exact ⟨c, by simp [hc], hxc⟩
+
+private theorem local_mem_child (p : LowerPair) (l : LowerLabel) (t : ℝ)
+    (h : lowerLocalCoordinate p t ∈ Set.Icc
+      (section14LocalEndpoint p (section14LabelWords l) false)
+      (section14LocalEndpoint p (section14LabelWords l) true)) :
+    t ∈ lowerCover (lowerChild p l) := by
+  by_cases he : (lowerNormalize p).1.length % 2 = 0
+  · simpa [lowerCover, lowerChild, lowerLocalCoordinate, section14LocalEndpoint,
+      section14LabelWords, he] using h
+  · simp [lowerCover, lowerChild, lowerLocalCoordinate, section14LocalEndpoint,
+      section14LabelWords, he] at h ⊢
+    exact ⟨by linarith [h.2], by linarith [h.1]⟩
+
+private theorem selection_core (t : ℝ) (p : LowerPair) (ls : List LowerLabel)
+    (hls : ls ≠ []) (hsub : ∀ l ∈ ls, l ∈ section14RawList p)
+    (hadj : ∀ a b, (a,b) ∈ ls.zip ls.tail →
+      (a,b) ∈ (section14RawList p).zip (section14RawList p).tail)
+    (hheadmem : ls.head hls ∈ (section14RawList p).head?.toList)
+    (hoff : ∀ l ∈ ls, lowerOffered p l)
+    (hgood : ∀ l ∈ ls, lowerGood (lowerChild p l))
+    (hg : section14RawGeometry p)
+    (hparent : section14LocalEndpoint p ([], []) false ≤ lowerLocalCoordinate p t ∧
+      lowerLocalCoordinate p t ≤ section14LocalEndpoint p ([], []) true)
+    (hlower : section14LocalEndpoint p (section14LabelWords (ls.getLast hls)) false ≤
+      lowerLocalCoordinate p t) : lowerNumericSuccessor t p := by
+  classical
+  let lo : LowerLabel → ℝ := fun l =>
+    section14LocalEndpoint p (section14LabelWords l) false
+  let hi : LowerLabel → ℝ := fun l =>
+    section14LocalEndpoint p (section14LabelWords l) true
+  have hspec (s : Section14Spec)
+      (hspec : s ∈ section14ExpectedSpecs (section14RawList p) (section14TargetLower p)) :
+      section14SpecHolds p s := hg s hspec
+  have hins : ∀ l ∈ ls, lo l ≤ hi l := by
+    intro l hl
+    have hr := hsub l hl
+    simpa [lo, hi, section14SpecHolds, section14Holds] using
+      hspec ⟨section14LabelWords l, true, section14LabelWords l, false, false, []⟩ (by
+        simp [section14ExpectedSpecs]
+        exact Or.inl ⟨l.1, l.2, hr, by simp⟩)
+  have hcontact : ∀ a b, (a,b) ∈ ls.zip ls.tail → lo a ≤ hi b := by
+    intro a b hab
+    simpa [lo, hi, section14SpecHolds, section14Holds] using
+      hspec ⟨section14LabelWords b, true, section14LabelWords a, false, false, []⟩ (by
+        simp [section14ExpectedSpecs]
+        exact Or.inr ⟨a.1, a.2, b.1, b.2, hadj a b hab,
+          Or.inr ⟨rfl, rfl⟩⟩)
+  have hhead : section14LocalEndpoint p ([], []) true ≤ hi (ls.head hls) := by
+    simpa [hi, section14SpecHolds, section14Holds] using
+      hspec ⟨section14LabelWords (ls.head hls), true, ([], []), true, false, []⟩ (by
+        simp [section14ExpectedSpecs]
+        rcases heq : ls.head hls with ⟨a,b⟩
+        exact ⟨a, b, by simpa [heq] using hheadmem, rfl⟩)
+  obtain ⟨l, hl, hmem⟩ := chain_select lo hi (lowerLocalCoordinate p t) ls hls
+    hins hcontact hlower (hparent.2.trans hhead)
+  exact Or.inr ⟨l, hoff l hl, hgood l hl, local_mem_child p l t (by simpa [lo, hi] using hmem)⟩
+
+end Long14
+
+
+namespace Long16
+
+private theorem raw_nonempty (p : LowerPair) : section14RawList p ≠ [] := by
+  classical
+  unfold section14RawList
+  split_ifs <;> simp
+
+private theorem raw_selection (t : ℝ) (p : LowerPair)
+    (hn5 : ¬ lowerH p 5) (hg : section14RawGeometry p)
+    (hgood : ∀ l ∈ section14RawList p, lowerGood (lowerChild p l))
+    (hoff : ∀ l ∈ section14RawList p, lowerOffered p l)
+    (hparent : section14LocalEndpoint p ([],[]) false ≤ lowerLocalCoordinate p t ∧
+      lowerLocalCoordinate p t ≤ section14LocalEndpoint p ([],[]) true) :
+    lowerNumericSuccessor t p := by
+  classical
+  let ls := section14RawList p
+  have hls : ls ≠ [] := raw_nonempty p
+  have hlast : section14LocalEndpoint p
+        (section14LabelWords (ls.getLast hls)) false ≤
+      section14LocalEndpoint p ([],[]) false := by
+    have ht : section14TargetLower p = false := by simp [section14TargetLower,hn5]
+    have hmem :
+        ⟨([],[]),false,section14LabelWords (ls.getLast hls),false,false,[]⟩ ∈
+          section14ExpectedSpecs (section14RawList p) (section14TargetLower p) := by
+      simp only [ht,section14ExpectedSpecs,if_false,List.mem_append]
+      right
+      rw [List.getLast?_eq_some_getLast (raw_nonempty p)]
+      simp [ls]
+    have hs := hg _ hmem
+    simpa [section14SpecHolds,section14Holds] using hs
+  exact Long14.selection_core t p ls hls (by simp [ls]) (by simp [ls])
+    (by rw [List.head?_eq_some_head (raw_nonempty p)]; simp [ls])
+    (by simpa [ls] using hoff) (by simpa [ls] using hgood) hg hparent
+    (hlast.trans hparent.1)
+
+private theorem long_selection_of_good_parent (t : ℝ) (p : LowerPair)
+    (hm : lowerMixed p) (hn2 : ¬ lowerH p 2) (hn5 : ¬ lowerH p 5)
+    (hb : lowerSuffixBounds p t) (hg : section14RawGeometry p)
+    (hgood : ∀ l ∈ section14RawList p, lowerGood (lowerChild p l))
+    (hparent : section14LocalEndpoint p ([],[]) false ≤ lowerLocalCoordinate p t ∧
+      lowerLocalCoordinate p t ≤ section14LocalEndpoint p ([],[]) true) :
+    lowerNumericSuccessor t p := by
+  classical
+  have hnR : ¬ lowerRStar p := hb.2.2.2 hm hn2 hn5
+  by_cases hex : ¬ lowerH p 21 ∧ ¬ lowerEnds (lowerNormalize p).2 [3] ∧ lowerH p 23
+  · apply raw_selection t p hn5 hg hgood
+    intro l hl
+    simp [lowerOffered,lowerMixedList,section14RawList,hm,hn2,hn5,hnR,hex] at hl ⊢
+    exact Or.inl hl
+    exact hparent
+  · by_cases hstar : lowerLStar p
+    · let ls : List LowerLabel := [([1],[]),([2],[2])]
+      have hls : ls ≠ [] := by simp [ls]
+      have hsub : ∀ l ∈ ls, l ∈ section14RawList p := by
+        intro l hl
+        simp [ls] at hl
+        rcases hl with rfl | rfl
+        all_goals simp [section14RawList,hn2,hn5,hex] <;> split_ifs <;> simp_all
+      have hoff : ∀ l ∈ ls, lowerOffered p l := by
+        intro l hl
+        simp [ls] at hl
+        rcases hl with rfl | rfl
+        all_goals simp [lowerOffered,lowerMixedList,hm,hn2,hn5,hnR,hstar,hex] <;>
+          split_ifs <;> simp_all
+      have hlower : section14LocalEndpoint p
+          (section14LabelWords (([2],[2]) : LowerLabel)) false ≤
+          lowerLocalCoordinate p t := by
+        have hh := hb.2.2.1 hm hn2 hn5 hstar
+        simpa [lowerLocalLower,section14LocalEndpoint,section14LabelWords,
+          lowerChild,normalize_idem] using hh
+      exact Long14.selection_core t p ls hls hsub
+        (by intro a b hab; simp [ls] at hab ⊢; rcases hab with ⟨rfl,rfl⟩;
+            simp [section14RawList,hn2,hn5,hex] <;> split_ifs <;> simp_all)
+        (by simp [ls,section14RawList,hn2,hn5,hex] <;> split_ifs <;> simp_all) hoff
+        (fun l hl => hgood l (hsub l hl)) hg hparent (by simpa [ls] using hlower)
+    · apply raw_selection t p hn5 hg hgood
+      intro l hl
+      simp [lowerOffered,lowerMixedList,section14RawList,hm,hn2,hn5,hnR,hstar,hex] at hl ⊢
+      exact Or.inl hl
+      exact hparent
+
+end Long16
+
+
+-- Source: agents.tiealgebra14.Injective
+
+namespace TieAlgebra14
+
+private def A (c d : ℝ) : ℝ := 4*c*d - 3*c^2
+private def B (c d : ℝ) : ℝ := 2*d^2 - 4*c*d + 5*c^2
+private def cross (c1 d1 c2 d2 : ℝ) : ℝ := c1*d2 - c2*d1
+private def factor (c1 d1 c2 d2 : ℝ) : ℝ :=
+  4*c1*c2 + 3*c1*d2 + 3*c2*d1 - 4*d1*d2
+
+private theorem resultant {c1 d1 c2 d2 : ℝ}
+    (hA : A c1 d1 = A c2 d2) (hB : B c1 d1 = B c2 d2) :
+    cross c1 d1 c2 d2 * factor c1 d1 c2 d2 = 0 := by
+  have h : A c1 d1 * B c2 d2 - A c2 d2 * B c1 d1 = 0 := by rw [hA, hB]; ring
+  have hid : A c1 d1 * B c2 d2 - A c2 d2 * B c1 d1 =
+      -2 * cross c1 d1 c2 d2 * factor c1 d1 c2 d2 := by
+    simp only [A, B, cross, factor]
+    ring
+  rw [hid] at h
+  nlinarith
+
+private theorem finish {c1 d1 c2 d2 : ℝ}
+    (hd1 : 0 < d1) (hd2 : 0 < d2)
+    (hB : B c1 d1 = B c2 d2)
+    (hcross : cross c1 d1 c2 d2 = 0) : c1 = c2 ∧ d1 = d2 := by
+  have hid : B c1 d1 * d2^2 - B c2 d2 * d1^2 =
+      cross c1 d1 c2 d2 *
+        (-4*d1*d2 + 5*c1*d2 + 5*c2*d1) := by
+    simp only [B, cross]
+    ring
+  rw [hcross] at hid
+  have hweighted : B c1 d1 * d2^2 = B c2 d2 * d1^2 := by
+    linarith
+  have hsame : B c2 d2 * d1^2 = B c2 d2 * d2^2 := by
+    calc
+      B c2 d2 * d1^2 = B c1 d1 * d2^2 := hweighted.symm
+      _ = B c2 d2 * d2^2 := by rw [hB]
+  have hBpos : 0 < B c2 d2 := by
+    have hs : 0 < d2^2 := sq_pos_of_pos hd2
+    have h1 := sq_nonneg (d2 - 2*c2)
+    have h2 := sq_nonneg c2
+    simp only [B]
+    nlinarith
+  have hdsq : d1^2 = d2^2 := by nlinarith [hsame]
+  have hd : d1 = d2 := by nlinarith
+  have hcprod : (c1-c2)*d2 = 0 := by
+    simp only [cross] at hcross
+    rw [hd] at hcross
+    nlinarith
+  have hc : c1 = c2 := by
+    rcases mul_eq_zero.mp hcprod with h | h
+    · linarith
+    · exact (ne_of_gt hd2 h).elim
+  exact ⟨hc, hd⟩
+
+private theorem injective_below_twice
+    {c1 d1 c2 d2 : ℝ}
+    (hd1 : 0 < d1) (hd2 : 0 < d2) (hc1 : 0 ≤ c1) (hc2 : 0 ≤ c2)
+    (hA : 4*c1*d1 - 3*c1^2 = 4*c2*d2 - 3*c2^2)
+    (hB : 2*d1^2 - 4*c1*d1 + 5*c1^2 = 2*d2^2 - 4*c2*d2 + 5*c2^2)
+    (h1 : d1 < 2*c1) (h2 : d2 < 2*c2) : c1 = c2 ∧ d1 = d2 := by
+  have hres := resultant (c1 := c1) (d1 := d1) (c2 := c2) (d2 := d2) hA hB
+  have hg1 : 0 < 2*c1-d1 := by linarith
+  have hg2 : 0 < 2*c2-d2 := by linarith
+  have hp1 : 0 < (2*c1-d1)*(2*c2-d2) := mul_pos hg1 hg2
+  have hp2 : 0 < (2*c1-d1)*d2 := mul_pos hg1 hd2
+  have hp3 : 0 < (2*c2-d2)*d1 := mul_pos hg2 hd1
+  have hfac : 0 < factor c1 d1 c2 d2 := by
+    simp only [factor]
+    nlinarith
+  have hcross : cross c1 d1 c2 d2 = 0 :=
+    (mul_eq_zero.mp hres).resolve_right (ne_of_gt hfac)
+  exact finish hd1 hd2 hB hcross
+
+private theorem injective_above_twice
+    {c1 d1 c2 d2 : ℝ}
+    (hd1 : 0 < d1) (hd2 : 0 < d2) (hc1 : 0 ≤ c1) (hc2 : 0 ≤ c2)
+    (hA : 4*c1*d1 - 3*c1^2 = 4*c2*d2 - 3*c2^2)
+    (hB : 2*d1^2 - 4*c1*d1 + 5*c1^2 = 2*d2^2 - 4*c2*d2 + 5*c2^2)
+    (h1 : 2*c1 < d1) (h2 : 2*c2 < d2) : c1 = c2 ∧ d1 = d2 := by
+  have hres := resultant (c1 := c1) (d1 := d1) (c2 := c2) (d2 := d2) hA hB
+  have hg1 : 0 < d1-2*c1 := by linarith
+  have hg2 : 0 < d2-2*c2 := by linarith
+  have hp : 0 < (d1-2*c1)*(d2-2*c2) := mul_pos hg1 hg2
+  have hle1 : d1-2*c1 ≤ d1 := by linarith
+  have hle2 : d2-2*c2 ≤ d2 := by linarith
+  have hp1 : (d1-2*c1)*(d2-2*c2) ≤ (d1-2*c1)*d2 :=
+    mul_le_mul_of_nonneg_left hle2 hg1.le
+  have hp2 : (d1-2*c1)*(d2-2*c2) ≤ (d2-2*c2)*d1 := by
+    nlinarith [mul_le_mul_of_nonneg_right hle1 hg2.le]
+  have hfac : factor c1 d1 c2 d2 < 0 := by
+    simp only [factor]
+    nlinarith
+  have hcross : cross c1 d1 c2 d2 = 0 :=
+    (mul_eq_zero.mp hres).resolve_right (ne_of_lt hfac)
+  exact finish hd1 hd2 hB hcross
+
+
+end TieAlgebra14
+
+-- Source: agents.tiewidth14.Width
+
+open Freiman
+namespace M7TieWidth14
+private theorem cd_eq (w : List ℕ+) :
+    lowerCD w = (wordContinuantPrevQ w, wordContinuantQ w) := by
+  have h : ∀ (v : List ℕ) (m : (ℕ × ℕ) × (ℕ × ℕ)),
+      (v.foldl (fun d a => ((d.1.2, (a : ℕ) * d.1.2 + d.1.1),
+        (d.2.2, (a : ℕ) * d.2.2 + d.2.1))) m).2 =
+      v.foldl (fun z a => (z.2, z.1 + (a : ℕ) * z.2)) m.2 := by
+    intro v
+    induction v with
+    | nil => intro m; rfl
+    | cons a v ih =>
+      intro m
+      simp only [List.foldl_cons]
+      rw [ih]
+      simp only [Nat.add_comm]
+  simpa [lowerCD, wordContinuantPrevQ, wordContinuantQ, wordContinuantData]
+    using (h (w.flatMap fun a => [(a : ℕ)]) ((1,0),(0,1))).symm
+
+private theorem q_pos (w : List ℕ+) : 0 < ((lowerCD w).2 : ℝ) := by
+  rw [cd_eq]
+  exact_mod_cast continuant_denominator_pos w
+
+private theorem tails :
+    lowerAlpha ∈ Set.Icc (0 : ℝ) 1 ∧
+    lowerBeta ∈ Set.Icc (0 : ℝ) 1 ∧ lowerAlpha < lowerBeta := by
+  have hs := Real.sq_sqrt (by norm_num : (0 : ℝ) ≤ 21)
+  have hn := Real.sqrt_nonneg (21 : ℝ)
+  have hlo : 3 < Real.sqrt (21 : ℝ) := by nlinarith
+  have hhi : Real.sqrt (21 : ℝ) < 5 := by nlinarith
+  dsimp [lowerAlpha, lowerBeta, Set.mem_Icc]
+  constructor
+  · constructor <;> linarith
+  constructor
+  · constructor <;> linarith
+  · linarith
+
+private noncomputable def den (w : List ℕ+) : ℝ :=
+  (((lowerCD w).2 : ℝ) + lowerBeta * (lowerCD w).1) *
+    (((lowerCD w).2 : ℝ) + lowerAlpha * (lowerCD w).1)
+
+private def coeffA (w : List ℕ+) : ℚ :=
+  4 * ((lowerCD w).1 : ℚ) * (lowerCD w).2 - 3 * ((lowerCD w).1 : ℚ)^2
+private def coeffB (w : List ℕ+) : ℚ :=
+  2 * ((lowerCD w).2 : ℚ)^2 - 4 * ((lowerCD w).1 : ℚ) * (lowerCD w).2 +
+    5 * ((lowerCD w).1 : ℚ)^2
+
+private theorem width_eq (w : List ℕ+) : lowerWidth w = (lowerBeta-lowerAlpha) / den w := by
+  unfold lowerWidth
+  rw [prefixEval_difference w lowerBeta lowerAlpha tails.2.1 tails.1,
+    abs_of_pos (sub_pos.mpr tails.2.2)]
+  simp only [den, cd_eq]
+
+private theorem den_coefficients (w : List ℕ+) :
+    den w = (3 * (coeffB w : ℝ) + Real.sqrt 21 * (coeffA w : ℝ)) / 6 := by
+  have hs := Real.sq_sqrt (by norm_num : (0 : ℝ) ≤ 21)
+  simp only [den, coeffA, coeffB, lowerAlpha, lowerBeta]
+  push_cast
+  linear_combination (((lowerCD w).1 : ℝ)^2 / 12) * hs
+
+private theorem rational_coefficients (a b : ℚ)
+    (h : (a : ℝ) + Real.sqrt 21 * (b : ℝ) = 0) : a = 0 ∧ b = 0 := by
+  have hi : Irrational (Real.sqrt (21:ℝ)) := by norm_num
+  by_cases hb : b = 0
+  · subst b
+    simp only [Rat.cast_zero, mul_zero, add_zero] at h
+    exact ⟨by exact_mod_cast h,rfl⟩
+  · exfalso
+    apply hi
+    refine ⟨-a/b, ?_⟩
+    push_cast
+    have hb' : (b : ℝ) ≠ 0 := by exact_mod_cast hb
+    apply (div_eq_iff hb').mpr
+    linarith
+
+private theorem coefficients_of_width (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v) :
+    coeffA u = coeffA v ∧ coeffB u = coeffB v := by
+  have hd : den u = den v := by
+    apply inv_injective
+    apply mul_left_cancel₀ (ne_of_gt (sub_pos.mpr tails.2.2))
+    simpa only [width_eq, div_eq_mul_inv] using hw
+  rw [den_coefficients,den_coefficients] at hd
+  have hlin : ((3*(coeffB u-coeffB v) : ℚ) : ℝ) +
+      Real.sqrt 21 * ((coeffA u-coeffA v : ℚ) : ℝ) = 0 := by
+    push_cast
+    linarith
+  obtain ⟨hb,ha⟩ := rational_coefficients _ _ hlin
+  constructor <;> linarith
+
+private theorem cd_eq_of_width_same_side (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v)
+    (hside : ((1/2:ℝ) < lowerRatio u ∧ (1/2:ℝ) < lowerRatio v) ∨
+      (lowerRatio u < (1/2:ℝ) ∧ lowerRatio v < (1/2:ℝ))) :
+    lowerCD u = lowerCD v := by
+  have hcoeff := coefficients_of_width u v hw
+  have hA : 4*((lowerCD u).1:ℝ)*(lowerCD u).2-3*((lowerCD u).1:ℝ)^2 =
+      4*((lowerCD v).1:ℝ)*(lowerCD v).2-3*((lowerCD v).1:ℝ)^2 := by
+    have h := hcoeff.1
+    dsimp only [coeffA] at h
+    exact_mod_cast h
+  have hB : 2*((lowerCD u).2:ℝ)^2-4*((lowerCD u).1:ℝ)*(lowerCD u).2+5*((lowerCD u).1:ℝ)^2 =
+      2*((lowerCD v).2:ℝ)^2-4*((lowerCD v).1:ℝ)*(lowerCD v).2+5*((lowerCD v).1:ℝ)^2 := by
+    have h := hcoeff.2
+    dsimp only [coeffB] at h
+    exact_mod_cast h
+  have heq : ((lowerCD u).1:ℝ) = ((lowerCD v).1:ℝ) ∧
+      ((lowerCD u).2:ℝ) = ((lowerCD v).2:ℝ) := by
+    rcases hside with ⟨hu,hv⟩ | ⟨hu,hv⟩
+    · apply TieAlgebra14.injective_below_twice (q_pos u) (q_pos v)
+        (Nat.cast_nonneg _) (Nat.cast_nonneg _) hA hB
+      · have hx := (lt_div_iff₀ (q_pos u)).mp hu
+        linarith
+      · have hx := (lt_div_iff₀ (q_pos v)).mp hv
+        linarith
+    · apply TieAlgebra14.injective_above_twice (q_pos u) (q_pos v)
+        (Nat.cast_nonneg _) (Nat.cast_nonneg _) hA hB
+      · have hx := (div_lt_iff₀ (q_pos u)).mp hu
+        linarith
+      · have hx := (div_lt_iff₀ (q_pos v)).mp hv
+        linarith
+  apply Prod.ext
+  · exact_mod_cast heq.1
+  · exact_mod_cast heq.2
+
+end M7TieWidth14
+
+-- Source: agents.cdunique15.Unique
+
+open Freiman
+namespace CDUnique15
+
+private def GoodHead : List ℕ+ → Prop
+  | [] => True
+  | a :: _ => 2 ≤ (a : ℕ)
+
+private theorem goodHead_prefix (u v : List ℕ+) (h : GoodHead (u ++ v)) : GoodHead u := by
+  cases u with
+  | nil => trivial
+  | cons a u => exact h
+
+private theorem goodHead_append (u v : List ℕ+) (hu : GoodHead u) (hne : u ≠ []) :
+    GoodHead (u ++ v) := by
+  cases u with
+  | nil => exact (hne rfl).elim
+  | cons a u => exact hu
+
+private theorem cd_snoc (w : List ℕ+) (a : ℕ+) :
+    lowerCD (w ++ [a]) =
+      ((lowerCD w).2, (lowerCD w).1 + (a : ℕ) * (lowerCD w).2) := by
+  unfold lowerCD
+  simp [List.foldl_append]
+
+private theorem snd_pos (w : List ℕ+) : 0 < (lowerCD w).2 := by
+  induction w using List.reverseRecOn with
+  | nil => decide
+  | append_singleton w a ih =>
+      rw [cd_snoc]
+      have hp := Nat.mul_pos a.pos ih
+      dsimp only
+      omega
+
+private theorem fst_pos (w : List ℕ+) (h : w ≠ []) : 0 < (lowerCD w).1 := by
+  induction w using List.reverseRecOn with
+  | nil => exact (h rfl).elim
+  | append_singleton w a ih =>
+      rw [cd_snoc]
+      exact snd_pos w
+
+private theorem cd_strict (w : List ℕ+) (h : GoodHead w) : (lowerCD w).1 < (lowerCD w).2 := by
+  induction w using List.reverseRecOn with
+  | nil => decide
+  | append_singleton w a ih =>
+      rw [cd_snoc]
+      dsimp only
+      by_cases hw : w = []
+      · subst w
+        have ha : 2 ≤ (a : ℕ) := h
+        simpa [lowerCD] using (show 1 < (a : ℕ) by omega)
+      · have hp := fst_pos w hw
+        have hm := Nat.le_mul_of_pos_left (lowerCD w).2 a.pos
+        omega
+
+private theorem injective (u v : List ℕ+) (hu : GoodHead u) (hv : GoodHead v)
+    (heq : lowerCD u = lowerCD v) : u = v := by
+  induction u using List.reverseRecOn generalizing v with
+  | nil =>
+      by_cases hn : v = []
+      · exact hn.symm
+      · have hp := fst_pos v hn
+        have hz := congrArg Prod.fst heq
+        change 0 = (lowerCD v).1 at hz
+        omega
+  | append_singleton u a ih =>
+      rcases List.eq_nil_or_concat' v with rfl | ⟨v,b,rfl⟩
+      · have hz := congrArg Prod.fst heq
+        rw [cd_snoc] at hz
+        have hp := snd_pos u
+        change (lowerCD u).2 = 0 at hz
+        omega
+      · have hgu := goodHead_prefix u [a] hu
+        have hgv := goodHead_prefix v [b] hv
+        have hdu := cd_strict u hgu
+        have hdv := cd_strict v hgv
+        have hs := congrArg Prod.fst heq
+        have ht := congrArg Prod.snd heq
+        rw [cd_snoc,cd_snoc] at hs ht
+        dsimp only at hs ht
+        have hm := congrArg (fun z : ℕ × ℕ => z.2 % z.1) heq
+        rw [cd_snoc,cd_snoc] at hm
+        simp only [Nat.add_mul_mod_self_right, Nat.mod_eq_of_lt hdu,
+          Nat.mod_eq_of_lt hdv] at hm
+        have hc : lowerCD u = lowerCD v := Prod.ext hm hs
+        have huv := ih v hgu hgv hc
+        subst v
+        have hab : (a : ℕ) = (b : ℕ) := by
+          apply Nat.eq_of_mul_eq_mul_right (snd_pos u)
+          exact Nat.add_left_cancel ht
+        have hab' : a = b := Subtype.ext hab
+        rw [hab']
+
+private theorem core_append_head (c : LowerPair) (hc : c ∈ lowerCores)
+    (u v : List ℕ+) : GoodHead (c.1 ++ u) ∧ GoodHead (c.2 ++ v) := by
+  simp only [lowerCores, List.mem_append, List.mem_map] at hc
+  rcases hc with hc | ⟨d,hd,rfl⟩
+  · simp only [lowerBaseCores, List.mem_cons, List.not_mem_nil, or_false] at hc
+    rcases hc with rfl | rfl | rfl | rfl | rfl | rfl | rfl <;>
+      norm_num [GoodHead]
+  · simp only [lowerBaseCores, List.mem_cons, List.not_mem_nil, or_false] at hd
+    rcases hd with rfl | rfl | rfl | rfl | rfl | rfl | rfl <;>
+      norm_num [GoodHead]
+
+private theorem admissible_goodHead (p : LowerPair) (hp : lowerAdmissible p) :
+    GoodHead p.1 ∧ GoodHead p.2 := by
+  rcases hp.1 with ⟨c,hc,u,v,rfl,hu,hv⟩
+  exact core_append_head c hc u v
+
+end CDUnique15
+
+-- Source: agents.cdunique15.Width
+
+open Freiman
+namespace CDUnique15
+
+private theorem ratio_pos (w : List ℕ+) (hw : w ≠ []) : 0 < lowerRatio w := by
+  unfold lowerRatio
+  exact div_pos (by exact_mod_cast fst_pos w hw) (by exact_mod_cast snd_pos w)
+
+private theorem ratio_two_lt_half (w : List ℕ+) (hw : w ≠ []) :
+    lowerRatio (w ++ [2]) < (1 / 2 : ℝ) := by
+  rw [lowerEarlyTerminal_ratio_append]
+  change 1 / (2 + lowerRatio w) < 1 / 2
+  have hr := ratio_pos w hw
+  rw [div_lt_div_iff₀ (by linarith) (by norm_num)]
+  linarith
+
+private theorem width_ne_same_side_of_parity (u v : List ℕ+) (hu : GoodHead u)
+    (hv : GoodHead v) (hp : u.length % 2 ≠ v.length % 2)
+    (hside : ((1 / 2 : ℝ) < lowerRatio u ∧ (1 / 2 : ℝ) < lowerRatio v) ∨
+      (lowerRatio u < (1 / 2 : ℝ) ∧ lowerRatio v < (1 / 2 : ℝ))) :
+    lowerWidth u ≠ lowerWidth v := by
+  intro hw
+  have hcd := M7TieWidth14.cd_eq_of_width_same_side u v hw hside
+  have heq := injective u v hu hv hcd
+  exact hp (congrArg (fun w : List ℕ+ => w.length % 2) heq)
+
+private theorem width_ne_append_two (u v : List ℕ+) (hu : GoodHead u) (hv : GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length % 2 ≠ v.length % 2) :
+    lowerWidth (u ++ [2]) ≠ lowerWidth (v ++ [2]) := by
+  apply width_ne_same_side_of_parity _ _
+    (goodHead_append _ _ hu hnu) (goodHead_append _ _ hv hnv)
+  · simp only [List.length_append, List.length_singleton]
+    omega
+  · exact Or.inr ⟨ratio_two_lt_half u hnu, ratio_two_lt_half v hnv⟩
+
+end CDUnique15
+
+-- Source: agents.mixed15.Alignment
+
+open Freiman
+namespace Mixed15
+
+-- This is an internal interface. Its proof is required before submitting the
+-- original comparison-transfer theorem.
+private def LowTieLaw : Prop :=
+  ∀ (u v : List ℕ+), CDUnique15.GoodHead u → CDUnique15.GoodHead v →
+    u ≠ [] → v ≠ [] → lowerEnds u [1] → lowerEnds v [2] →
+    u.length % 2 = v.length % 2 → lowerWidth u = lowerWidth v →
+    (if u.length % 2 = 0 then
+      lowerEndpoint (u,v) false ≤ lowerEndpoint (v,u) false
+    else lowerEndpoint (v,u) true ≤ lowerEndpoint (u,v) true)
+
+private theorem alignment (hlow : LowTieLaw)
+    (u v : List ℕ+) (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length % 2 ≠ v.length % 2) :
+    (if v.length % 2 = 0 then
+      lowerEndpoint (v++[2],u++[2]) false ≤ lowerEndpoint (u++[2],v++[2]) false
+    else lowerEndpoint (u++[2],v++[2]) true ≤ lowerEndpoint (v++[2],u++[2]) true) := by
+  classical
+  let x := u ++ [2]
+  let y := v ++ [2]
+  have hxy : lowerWidth x ≠ lowerWidth y :=
+    CDUnique15.width_ne_append_two u v hu hv hnu hnv hp
+  have hxg : CDUnique15.GoodHead x := CDUnique15.goodHead_append _ _ hu hnu
+  have hyg : CDUnique15.GoodHead y := CDUnique15.goodHead_append _ _ hv hnv
+  have hy1g : CDUnique15.GoodHead (y++[1]) :=
+    CDUnique15.goodHead_append _ _ hyg (by simp [y])
+  rcases Nat.mod_two_eq_zero_or_one v.length with hve | hvo
+  · rw [if_pos hve]
+    change lowerEndpoint (y,x) false ≤ lowerEndpoint (x,y) false
+    have hx : x.length % 2 = 0 := by simp only [x,List.length_append,List.length_singleton]; omega
+    have hy : y.length % 2 = 1 := by simp only [y,List.length_append,List.length_singleton]; omega
+    have hy1 : (y++[1]).length % 2 = 0 := by simp only [List.length_append,List.length_singleton]; omega
+    have hpv : (y++[1]).length % 2 = x.length % 2 := hy1.trans hx.symm
+    by_cases hwide : lowerWidth x ≤ lowerWidth y
+    · have hnot : ¬ lowerWidth y ≤ lowerWidth x := fun h => hxy (le_antisymm hwide h)
+      have he1 : lowerEndpoint (y,x) false = lowerEndpoint (y++[1],x) false := by
+        simp [lowerEndpoint,lowerEndpointWords,hx,hy,hy1,hwide,hnot,List.length_append,Nat.add_mod]
+      have he2 : lowerEndpoint (x,y) false = lowerEndpoint (x,y++[1]) false := by
+        simp [lowerEndpoint,lowerEndpointWords,hx,hy,hy1,hwide,hnot,List.length_append,Nat.add_mod]
+      rw [he1,he2]
+      by_cases ht : lowerWidth (y++[1]) = lowerWidth x
+      · have hh := hlow (y++[1]) x hy1g hxg (by simp) (by simp [x])
+          ⟨y,rfl⟩ ⟨u,rfl⟩ hpv ht
+        simpa only [hy1,if_true] using hh
+      · have hn : LowerEarlyTerminalNoTies (y++[1],x) :=
+          ⟨ht,fun h => (h hpv).elim⟩
+        exact (lowerEarlyTerminal_endpoint_swap_nontie _ hn false).le
+    · have hle : lowerWidth y ≤ lowerWidth x := (not_le.mp hwide).le
+      apply le_of_eq
+      simp [lowerEndpoint,lowerEndpointWords,lowerNaturalWords,hx,hy,hwide,hle]
+      ring
+  · rw [if_neg (by omega : ¬ v.length % 2 = 0)]
+    change lowerEndpoint (x,y) true ≤ lowerEndpoint (y,x) true
+    have hx : x.length % 2 = 1 := by simp only [x,List.length_append,List.length_singleton]; omega
+    have hy : y.length % 2 = 0 := by simp only [y,List.length_append,List.length_singleton]; omega
+    have hy1 : (y++[1]).length % 2 = 1 := by simp only [List.length_append,List.length_singleton]; omega
+    have hpv : (y++[1]).length % 2 = x.length % 2 := hy1.trans hx.symm
+    by_cases hwide : lowerWidth x ≤ lowerWidth y
+    · have hnot : ¬ lowerWidth y ≤ lowerWidth x := fun h => hxy (le_antisymm hwide h)
+      have he1 : lowerEndpoint (y,x) true = lowerEndpoint (y++[1],x) true := by
+        simp [lowerEndpoint,lowerEndpointWords,hx,hy,hy1,hwide,hnot,List.length_append,Nat.add_mod]
+      have he2 : lowerEndpoint (x,y) true = lowerEndpoint (x,y++[1]) true := by
+        simp [lowerEndpoint,lowerEndpointWords,hx,hy,hy1,hwide,hnot,List.length_append,Nat.add_mod]
+      rw [he1,he2]
+      by_cases ht : lowerWidth (y++[1]) = lowerWidth x
+      · have hh := hlow (y++[1]) x hy1g hxg (by simp) (by simp [x])
+          ⟨y,rfl⟩ ⟨u,rfl⟩ hpv ht
+        simpa only [hy1,show ¬ (1:ℕ)=0 by omega,if_false] using hh
+      · have hn : LowerEarlyTerminalNoTies (y++[1],x) :=
+          ⟨ht,fun h => (h hpv).elim⟩
+        exact (lowerEarlyTerminal_endpoint_swap_nontie _ hn true).symm.le
+    · have hle : lowerWidth y ≤ lowerWidth x := (not_le.mp hwide).le
+      apply le_of_eq
+      simp [lowerEndpoint,lowerEndpointWords,lowerNaturalWords,hx,hy,hwide,hle]
+      ring
+
+end Mixed15
+
+-- Source: agents.lowties15.LowTie
+
+open Freiman
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+
+namespace M7LowTies15
+
+private theorem cd_eq (w : List ℕ+) :
+    lowerCD w = (wordContinuantPrevQ w, wordContinuantQ w) := by
+  apply M7TieWidth14.cd_eq <;> assumption
+
+private theorem q_pos (w : List ℕ+) : 0 < ((lowerCD w).2 : ℝ) := by
+  apply M7TieWidth14.q_pos <;> assumption
+
+private theorem tails :
+    lowerAlpha ∈ Set.Icc (0 : ℝ) 1 ∧
+    lowerBeta ∈ Set.Icc (0 : ℝ) 1 ∧ lowerAlpha < lowerBeta := by
+  apply M7TieWidth14.tails <;> assumption
+
+private theorem width_formula (w : List ℕ+) :
+    lowerWidth w = (lowerBeta - lowerAlpha) /
+      ((((lowerCD w).1 : ℝ) * lowerAlpha + (lowerCD w).2) *
+       (((lowerCD w).1 : ℝ) * lowerBeta + (lowerCD w).2)) := by
+  unfold lowerWidth
+  rw [prefixEval_difference w lowerBeta lowerAlpha tails.2.1 tails.1]
+  rw [abs_of_pos (sub_pos.mpr tails.2.2), cd_eq]
+  ring
+
+private theorem width_pos (w : List ℕ+) : 0 < lowerWidth w := by
+  rw [width_formula]
+  have ha := tails.1.1
+  have hb := tails.2.1.1
+  have hq := q_pos w
+  exact div_pos (sub_pos.mpr tails.2.2) (mul_pos (by positivity) (by positivity))
+
+private theorem width_eq_of_cd (u v : List ℕ+) (h : lowerCD u = lowerCD v) :
+    lowerWidth u = lowerWidth v := by rw [width_formula, width_formula, h]
+
+private theorem pe_append : ∀ (u v : List ℕ+) (x : ℝ),
+    prefixEval (u ++ v) x = prefixEval u (prefixEval v x)
+  | [], _, _ => rfl
+  | _ :: u, v, x => by simp only [List.cons_append, prefixEval, pe_append u v x]
+
+private theorem radical3 :
+    let s := Real.sqrt (3 : ℝ)
+    s^2 = 3 ∧ 0 < s ∧ s < 2 := by
+  have hs := Real.sq_sqrt (by norm_num : (0 : ℝ) ≤ 3)
+  have hn := Real.sqrt_nonneg (3 : ℝ)
+  dsimp
+  refine ⟨hs, by nlinarith, by nlinarith⟩
+
+private theorem endpoint_tails :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    E = 2 - Real.sqrt 3 ∧ F = (15 - Real.sqrt 3) / 37 ∧
+      E < F ∧ E ∈ Set.Icc (0 : ℝ) 1 ∧ F ∈ Set.Icc (0 : ℝ) 1 := by
+  have hs := radical3.1
+  have hp := radical3.2.1
+  have hh := radical3.2.2
+  have hE : prefixEval [3] lowerTau = 2 - Real.sqrt 3 := by
+    dsimp [lowerTau, prefixEval]
+    norm_num only [PNat.val_ofNat, Nat.cast_ofNat]
+    field_simp [show (3:ℝ) + (Real.sqrt 3 - 1) ≠ 0 by nlinarith]
+    nlinarith
+  have hF : prefixEval [2,1,3] lowerTau = (15 - Real.sqrt 3) / 37 := by
+    dsimp [lowerTau, prefixEval]
+    norm_num only [PNat.val_ofNat, Nat.cast_one, Nat.cast_ofNat]
+    have h3 : (1:ℝ) / (3 + (Real.sqrt 3 - 1)) = 2 - Real.sqrt 3 := by
+      field_simp [show (3:ℝ) + (Real.sqrt 3 - 1) ≠ 0 by nlinarith]
+      nlinarith
+    rw [h3]
+    have h1 : (1:ℝ) / (1 + (2 - Real.sqrt 3)) = (3 + Real.sqrt 3) / 6 := by
+      field_simp [show (1:ℝ) + (2 - Real.sqrt 3) ≠ 0 by nlinarith]
+      nlinarith
+    rw [h1]
+    field_simp [show (2:ℝ) + (3 + Real.sqrt 3) / 6 ≠ 0 by nlinarith]
+    nlinarith
+  rw [hE,hF]
+  refine ⟨rfl,rfl,by nlinarith,⟨by nlinarith,by nlinarith⟩,⟨by nlinarith,by nlinarith⟩⟩
+
+private theorem cd_append_one (w : List ℕ+) :
+    lowerCD (w ++ [1]) = ((lowerCD w).2, (lowerCD w).1 + (lowerCD w).2) := by
+  simp [lowerCD, List.foldl_append]
+
+private theorem cd_append_two (w : List ℕ+) :
+    lowerCD (w ++ [2]) = ((lowerCD w).2, (lowerCD w).1 + 2*(lowerCD w).2) := by
+  simp [lowerCD, List.foldl_append]
+
+private theorem cd_append_low (w : List ℕ+) :
+    lowerCD (w ++ [3]) = ((lowerCD w).2,
+      (lowerCD w).1 + 3*(lowerCD w).2) := by
+  simp [lowerCD, List.foldl_append]
+
+private theorem endpoint_den_pos (w : List ℕ+) (z : ℝ) (hz : 0 ≤ z) :
+    0 < ((lowerCD w).2 : ℝ) + z * (lowerCD w).1 := by
+  have hq := q_pos w
+  positivity
+
+private theorem pe_signed_difference (w : List ℕ+) (x y : ℝ) (hx : 0 ≤ x) (hy : 0 ≤ y) :
+    prefixEval w x - prefixEval w y =
+      (x-y) * ((-1 : ℝ)^w.length) /
+        ((((lowerCD w).2 : ℝ) + x*(lowerCD w).1) *
+         (((lowerCD w).2 : ℝ) + y*(lowerCD w).1)) := by
+  rw [prefixEval_mobius w x hx, prefixEval_mobius w y hy]
+  have hc := cd_eq w
+  have hd : (wordContinuantPrevP w : ℝ) * wordContinuantQ w -
+      (wordContinuantP w : ℝ) * wordContinuantPrevQ w = (-1 : ℝ)^w.length := by
+    exact_mod_cast continuant_determinant w
+  have hqx : (wordContinuantQ w : ℝ) + x * wordContinuantPrevQ w ≠ 0 := by
+    have hq : (0:ℝ) < wordContinuantQ w := by exact_mod_cast continuant_denominator_pos w
+    positivity
+  have hqy : (wordContinuantQ w : ℝ) + y * wordContinuantPrevQ w ≠ 0 := by
+    have hq : (0:ℝ) < wordContinuantQ w := by exact_mod_cast continuant_denominator_pos w
+    positivity
+  rw [hc]
+  dsimp only [Prod.fst, Prod.snd]
+  rw [div_sub_div _ _ hqx hqy]
+  congr 1
+  linear_combination (x-y) * hd
+
+private theorem pe_delta_abs (w : List ℕ+) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    |prefixEval w E - prefixEval w F| =
+      (F-E) / ((((lowerCD w).2:ℝ)+E*(lowerCD w).1) *
+        (((lowerCD w).2:ℝ)+F*(lowerCD w).1)) := by
+  dsimp only
+  rw [prefixEval_difference w _ _ endpoint_tails.2.2.2.1 endpoint_tails.2.2.2.2]
+  rw [abs_of_neg (sub_neg.mpr endpoint_tails.2.2.1), cd_eq]
+  ring
+
+end M7LowTies15
+
+namespace M7LowTies15
+
+private theorem algebra_classify {c d C D : ℝ}
+    (hd : 0 < d) (hD : 0 < D) (hc : 0 ≤ c) (hC : 0 ≤ C)
+    (hA : 4*c*d-3*c^2 = 4*C*D-3*C^2)
+    (hB : 2*d^2-4*c*d+5*c^2 = 2*D^2-4*C*D+5*C^2) :
+    (c = C ∧ d = D) ∨ (5*C = -3*c+4*d ∧ 5*D = 4*c+3*d) := by
+  have hres : (c*D-C*d) * (4*c*C+3*c*D+3*C*d-4*d*D) = 0 := by
+    have hz : (4*c*d-3*c^2)*(2*D^2-4*C*D+5*C^2) -
+        (4*C*D-3*C^2)*(2*d^2-4*c*d+5*c^2) = 0 := by rw [hA,hB]; ring
+    linear_combination -1/2 * hz
+  rcases mul_eq_zero.mp hres with hcross | hfac
+  · left
+    have hid : (2*d^2-4*c*d+5*c^2)*D^2 -
+        (2*D^2-4*C*D+5*C^2)*d^2 =
+        (c*D-C*d)*(-4*d*D+5*c*D+5*C*d) := by ring
+    rw [hcross] at hid
+    have hsame : (2*D^2-4*C*D+5*C^2)*d^2 =
+        (2*D^2-4*C*D+5*C^2)*D^2 := by
+      rw [hB] at hid
+      linarith only [hid]
+    have hBp : 0 < 2*D^2-4*C*D+5*C^2 := by
+      nlinarith only [sq_pos_of_pos hD, sq_nonneg (D-2*C), sq_nonneg C]
+    have hsq : d^2 = D^2 := mul_left_cancel₀ (ne_of_gt hBp) hsame
+    have hde : d = D := by nlinarith only [hsq,hd,hD]
+    have hce : c = C := by
+      rw [hde] at hcross
+      nlinarith only [hcross,hD]
+    exact ⟨hce,hde⟩
+  · right
+    have hcubic : D*(25*D^2-16*c^2-24*c*d-9*d^2) = 0 := by
+      linear_combination (10*C-31/2*D)*hA + (6*C-25/2*D)*hB - 4*d*hfac
+    have hsquare : (5*D)^2 = (4*c+3*d)^2 := by
+      have hn : D ≠ 0 := ne_of_gt hD
+      apply (mul_left_cancel₀ hn)
+      nlinarith only [hcubic]
+    have hDe : 5*D = 4*c+3*d := by
+      have hp : 0 < 4*c+3*d := by positivity
+      nlinarith only [hsquare,hp,hD]
+    have hCe : 5*C = -3*c+4*d := by
+      have hprod : D*(5*C+3*c-4*d) = 0 := by
+        calc
+          D*(5*C+3*c-4*d) = C*(5*D)+D*(3*c-4*d) := by ring
+          _ = C*(4*c+3*d)+D*(3*c-4*d) := by rw [hDe]
+          _ = 0 := by linarith only [hfac]
+      have := (mul_eq_zero.mp hprod).resolve_left (ne_of_gt hD)
+      linarith only [this]
+    exact ⟨hCe,hDe⟩
+
+private theorem cd_classify (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v) :
+    lowerCD u = lowerCD v ∨
+      (5*((lowerCD v).1:ℝ) = -3*((lowerCD u).1:ℝ)+4*(lowerCD u).2 ∧
+       5*((lowerCD v).2:ℝ) = 4*((lowerCD u).1:ℝ)+3*(lowerCD u).2) := by
+  have hh := M7TieWidth14.coefficients_of_width u v hw
+  have hA : 4*((lowerCD u).1:ℝ)*(lowerCD u).2-3*((lowerCD u).1:ℝ)^2 =
+      4*((lowerCD v).1:ℝ)*(lowerCD v).2-3*((lowerCD v).1:ℝ)^2 := by
+    have h := hh.1
+    dsimp [M7TieWidth14.coeffA] at h
+    exact_mod_cast h
+  have hB : 2*((lowerCD u).2:ℝ)^2-4*((lowerCD u).1:ℝ)*(lowerCD u).2+5*((lowerCD u).1:ℝ)^2 =
+      2*((lowerCD v).2:ℝ)^2-4*((lowerCD v).1:ℝ)*(lowerCD v).2+5*((lowerCD v).1:ℝ)^2 := by
+    have h := hh.2
+    dsimp [M7TieWidth14.coeffB] at h
+    exact_mod_cast h
+  rcases algebra_classify (q_pos u) (q_pos v) (by positivity) (by positivity) hA hB with h | h
+  · left
+    apply Prod.ext
+    · exact_mod_cast h.1
+    · exact_mod_cast h.2
+  · exact Or.inr h
+
+end M7LowTies15
+
+namespace M7LowTies15
+
+private theorem cd_fst_le_snd (w : List ℕ+) : (lowerCD w).1 ≤ (lowerCD w).2 := by
+  have hr := (lowerEarlyTerminal_ratio_range w).2
+  rw [lowerRatio, div_le_one (q_pos w)] at hr
+  exact_mod_cast hr
+
+private theorem width_seven_fifths (u v : List ℕ+)
+    (hden : 5*((((lowerCD v).1:ℝ)*lowerAlpha+(lowerCD v).2)*
+        (((lowerCD v).1:ℝ)*lowerBeta+(lowerCD v).2)) ≤
+      7*((((lowerCD u).1:ℝ)*lowerAlpha+(lowerCD u).2)*
+        (((lowerCD u).1:ℝ)*lowerBeta+(lowerCD u).2))) :
+    lowerWidth u ≤ (7/5:ℝ)*lowerWidth v := by
+  rw [width_formula,width_formula]
+  have hn := sub_pos.mpr tails.2.2
+  have hu : 0 < ((((lowerCD u).1:ℝ)*lowerAlpha+(lowerCD u).2)*
+      (((lowerCD u).1:ℝ)*lowerBeta+(lowerCD u).2)) := by
+    have ha := tails.1.1
+    have hb := tails.2.1.1
+    have hq := q_pos u
+    positivity
+  have hv : 0 < ((((lowerCD v).1:ℝ)*lowerAlpha+(lowerCD v).2)*
+      (((lowerCD v).1:ℝ)*lowerBeta+(lowerCD v).2)) := by
+    have ha := tails.1.1
+    have hb := tails.2.1.1
+    have hq := q_pos v
+    positivity
+  rw [show (7/5:ℝ) * ((lowerBeta-lowerAlpha) /
+      ((((lowerCD v).1:ℝ)*lowerAlpha+(lowerCD v).2)*
+       (((lowerCD v).1:ℝ)*lowerBeta+(lowerCD v).2))) =
+      ((7/5:ℝ)*(lowerBeta-lowerAlpha)) /
+      ((((lowerCD v).1:ℝ)*lowerAlpha+(lowerCD v).2)*
+       (((lowerCD v).1:ℝ)*lowerBeta+(lowerCD v).2)) by ring]
+  rw [div_le_div_iff₀ hu hv]
+  nlinarith [mul_pos hn hv]
+
+private theorem reflection_bounds_low {c d C D : ℝ}
+    (hc : 0 ≤ c) (hcd : c ≤ d) (hdc : d ≤ 2*c)
+    (hC : 5*C = -3*c+4*d) (hD : 5*D = 4*c+3*d) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    let a := lowerAlpha
+    let b := lowerBeta
+    let ce := d
+    let de := c+3*d
+    let Ce := D
+    let De := C+3*D
+    (d+E*c)*(d+F*c) ≤ (D+E*C)*(D+F*C) ∧
+      5*((De+a*Ce)*(De+b*Ce)) ≤ 7*((de+a*ce)*(de+b*ce)) ∧
+      5*((de+a*ce)*(de+b*ce)) ≤ 7*((De+a*Ce)*(De+b*Ce)) := by
+  dsimp only
+  have hC' : C = (-3*c+4*d)/5 := by linarith
+  have hD' : D = (4*c+3*d)/5 := by linarith
+  have hs3 := radical3.1
+  have hs30 := radical3.2.1
+  have hs21 := Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 21)
+  have hs210 := Real.sqrt_nonneg (21:ℝ)
+  have hs21lo : 4 < Real.sqrt (21:ℝ) := by nlinarith
+  have hs21hi : Real.sqrt (21:ℝ) < 5 := by nlinarith
+  have hprod : 0 ≤ (c+2*d)*(2*c-d) :=
+    mul_nonneg (by linarith) (by linarith)
+  rw [endpoint_tails.1, endpoint_tails.2.1, hC', hD']
+  dsimp [lowerAlpha, lowerBeta]
+  constructor
+  · have hid :
+      (((4*c+3*d)/5+(2-Real.sqrt 3)*((-3*c+4*d)/5))*
+       ((4*c+3*d)/5+(15-Real.sqrt 3)/37*((-3*c+4*d)/5))) -
+      ((d+(2-Real.sqrt 3)*c)*(d+(15-Real.sqrt 3)/37*c)) =
+      (2*(182*Real.sqrt 3-251)/925)*(c+2*d)*(2*c-d) := by
+      linear_combination (-8*(c+2*d)*(2*c-d)/925)*hs3
+    have hk : 0 ≤ 2*(182*Real.sqrt 3-251)/925 := by nlinarith only [hs3,hs30]
+    linarith only [hid,mul_nonneg hk hprod]
+  constructor
+  · have hq1 : 0 ≤ c*d-c^2 := by
+      nlinarith only [mul_nonneg hc (sub_nonneg.mpr hcd)]
+    have hq2 : 0 ≤ d^2-c*d := by
+      nlinarith only [mul_nonneg (by linarith only [hc,hcd] : 0 ≤ d) (sub_nonneg.mpr hcd)]
+    have h1 : 0 ≤ (93*Real.sqrt 21+237)*(d^2-c*d) := by positivity
+    have h2 : 0 ≤ (41*Real.sqrt 21+249)*(c*d-c^2) := by positivity
+    have h3 : 0 ≤ (207-7*Real.sqrt 21)*c^2 :=
+      mul_nonneg (by linarith only [hs21hi]) (sq_nonneg c)
+    linear_combination h1/15 + h2/15 + h3/15 +
+      ((8*c^2+12*c*d-13*d^2)/30)*hs21
+  · have hd0 : 0 ≤ d := by linarith
+    have hgap : 0 ≤ (2*c-d)*d := mul_nonneg (by linarith) hd0
+    have hk : 0 ≤ 111*Real.sqrt 21-321 := by linarith only [hs21lo]
+    have h1 : 0 ≤ (111*Real.sqrt 21-321)*((2*c-d)*d) :=
+      mul_nonneg hk hgap
+    have h2 : 0 ≤ (382*Real.sqrt 21+1998)*(c*d) := by positivity
+    have h3 : 0 ≤ (336*Real.sqrt 21+654)*c^2 := by positivity
+    linear_combination h1/75 + h2/75 + h3/75 -
+      ((56*c^2+84*c*d-31*d^2)/150)*hs21
+
+private theorem low_metric_data (u v : List ℕ+) (hu1 : lowerEnds u [1])
+    (hw : lowerWidth u = lowerWidth v) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    lowerWidth (u++[3]) ≤ (7/5:ℝ)*lowerWidth (v++[3]) ∧
+    lowerWidth (v++[3]) ≤ (7/5:ℝ)*lowerWidth (u++[3]) ∧
+    (((lowerCD u).2:ℝ)+E*(lowerCD u).1)*(((lowerCD u).2:ℝ)+F*(lowerCD u).1) ≤
+      (((lowerCD v).2:ℝ)+E*(lowerCD v).1)*(((lowerCD v).2:ℝ)+F*(lowerCD v).1) := by
+  dsimp only
+  have huc : (0:ℝ) ≤ (lowerCD u).1 := by positivity
+  have hucd : ((lowerCD u).1:ℝ) ≤ (lowerCD u).2 := by
+    exact_mod_cast cd_fst_le_snd u
+  obtain ⟨P,rfl⟩ := hu1
+  have hudc : ((lowerCD (P++[1])).2:ℝ) ≤ 2*(lowerCD (P++[1])).1 := by
+    rw [cd_append_one]
+    push_cast
+    have hp : (lowerCD P).1 ≤ (lowerCD P).2 := cd_fst_le_snd P
+    have hpR : ((lowerCD P).1:ℝ) ≤ (lowerCD P).2 := by exact_mod_cast hp
+    nlinarith
+  rcases cd_classify (P++[1]) v hw with heq | href
+  · have hae : lowerCD ((P++[1])++[3]) = lowerCD (v++[3]) := by
+      rw [cd_append_low,cd_append_low,heq]
+    refine ⟨?_, ?_, ?_⟩
+    · have hwe := width_eq_of_cd _ _ hae
+      nlinarith [width_pos (v++[3])]
+    · have hwe := width_eq_of_cd _ _ hae
+      nlinarith [width_pos ((P++[1])++[3])]
+    · rw [heq]
+  · have hb := reflection_bounds_low huc hucd hudc href.1 href.2
+    refine ⟨?_, ?_, hb.1⟩
+    · apply width_seven_fifths
+      simpa only [cd_append_low, Prod.fst, Prod.snd, Nat.cast_add, Nat.cast_mul,
+        Nat.cast_ofNat, add_comm, add_left_comm, add_assoc, mul_comm, mul_left_comm,
+        mul_assoc] using hb.2.1
+    · apply width_seven_fifths
+      simpa only [cd_append_low, Prod.fst, Prod.snd, Nat.cast_add, Nat.cast_mul,
+        Nat.cast_ofNat, add_comm, add_left_comm, add_assoc, mul_comm, mul_left_comm,
+        mul_assoc] using hb.2.2
+
+private theorem cd_append_three_one (w : List ℕ+) :
+    lowerCD (w ++ [3,1]) =
+      ((lowerCD w).1 + 3*(lowerCD w).2,
+       (lowerCD w).1 + 4*(lowerCD w).2) := by
+  simp [lowerCD, List.foldl_append]
+  ring
+
+private theorem low_not_short (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hu1 : lowerEnds u [1]) (hv2 : lowerEnds v [2])
+    (hw : lowerWidth u = lowerWidth v) : ¬ lowerEnds u [3,1] := by
+  rcases cd_classify u v hw with heq | href
+  · have huv := CDUnique15.injective u v hu hv heq
+    subst v
+    have h1 := hu1.getLast (by simp)
+    have h2 := hv2.getLast (by simp)
+    have hx : (1 : ℕ+) = 2 := h1.trans h2.symm
+    norm_num at hx
+  · intro hu31
+    obtain ⟨P,rfl⟩ := hu31
+    obtain ⟨Q,rfl⟩ := hv2
+    have hdu : 3*((lowerCD (P++[3,1])).2:ℝ) ≤
+        4*(lowerCD (P++[3,1])).1 := by
+      rw [cd_append_three_one]
+      push_cast
+      have hz : (0:ℝ) ≤ (lowerCD P).1 := by positivity
+      nlinarith
+    have hDv : ((lowerCD (Q++[2])).2:ℝ) ≤
+        3*(lowerCD (Q++[2])).1 := by
+      rw [cd_append_two]
+      push_cast
+      have hq := cd_fst_le_snd Q
+      have hq' : ((lowerCD Q).1:ℝ) ≤ (lowerCD Q).2 := by exact_mod_cast hq
+      nlinarith
+    have hcpos : (0:ℝ) < (lowerCD (P++[3,1])).1 := by
+      exact_mod_cast CDUnique15.fst_pos (P++[3,1]) (by simp)
+    nlinarith [href.1, href.2]
+
+private theorem low_words_lower (P Q : List ℕ+)
+    (hp : (P++[1]).length % 2 = 0) (hq : (Q++[2]).length % 2 = 0)
+    (hshort : ¬ lowerEnds (P++[1]) [3,1])
+    (hw : lowerWidth (P++[1]) = lowerWidth (Q++[2])) :
+    lowerEndpointWords (P++[1],Q++[2]) false =
+      (P++[1]++[3], Q++[2]++[2,1,3]) ∧
+    lowerEndpointWords (Q++[2],P++[1]) false =
+      (Q++[2]++[3], P++[1]++[2,1,3]) := by
+  have hm := low_metric_data (P++[1]) (Q++[2]) ⟨P,rfl⟩ hw
+  dsimp only at hm
+  have hp' : (P.length+1)%2 = 0 := by simpa using hp
+  have hq' : (Q.length+1)%2 = 0 := by simpa using hq
+  have hshort' : ¬ [3] <+: P.reverse := by
+    simpa [lowerEnds, ← List.reverse_prefix] using hshort
+  have hm1 : lowerWidth (P++[1,3]) ≤ (7/5:ℝ)*lowerWidth (Q++[2,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.1
+  have hm2 : lowerWidth (Q++[2,3]) ≤ (7/5:ℝ)*lowerWidth (P++[1,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.2.1
+  constructor
+  · unfold lowerEndpointWords
+    have hpar : (P++[1]).length % 2 = (Q++[2]).length % 2 := hp.trans hq.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (P++[1],Q++[2]) = (P++[1],Q++[2]) by
+      simp [lowerNormalize, hw.ge]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.ge, hm1, List.append_assoc]
+  · unfold lowerEndpointWords
+    have hpar : (Q++[2]).length % 2 = (P++[1]).length % 2 := hq.trans hp.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (Q++[2],P++[1]) = (Q++[2],P++[1]) by
+      simp [lowerNormalize, hw.le]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.le, hm2, List.append_assoc]
+
+private theorem low_words_upper (P Q : List ℕ+)
+    (hp : (P++[1]).length % 2 = 1) (hq : (Q++[2]).length % 2 = 1)
+    (hshort : ¬ lowerEnds (P++[1]) [3,1])
+    (hw : lowerWidth (P++[1]) = lowerWidth (Q++[2])) :
+    lowerEndpointWords (P++[1],Q++[2]) true =
+      (P++[1]++[3], Q++[2]++[2,1,3]) ∧
+    lowerEndpointWords (Q++[2],P++[1]) true =
+      (Q++[2]++[3], P++[1]++[2,1,3]) := by
+  have hm := low_metric_data (P++[1]) (Q++[2]) ⟨P,rfl⟩ hw
+  dsimp only at hm
+  have hp' : (P.length+1)%2 = 1 := by simpa using hp
+  have hq' : (Q.length+1)%2 = 1 := by simpa using hq
+  have hshort' : ¬ [3] <+: P.reverse := by
+    simpa [lowerEnds, ← List.reverse_prefix] using hshort
+  have hm1 : lowerWidth (P++[1,3]) ≤ (7/5:ℝ)*lowerWidth (Q++[2,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.1
+  have hm2 : lowerWidth (Q++[2,3]) ≤ (7/5:ℝ)*lowerWidth (P++[1,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.2.1
+  constructor
+  · unfold lowerEndpointWords
+    have hpar : (P++[1]).length % 2 = (Q++[2]).length % 2 := hp.trans hq.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (P++[1],Q++[2]) = (P++[1],Q++[2]) by
+      simp [lowerNormalize, hw.ge]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.ge, hm1, List.append_assoc]
+  · unfold lowerEndpointWords
+    have hpar : (Q++[2]).length % 2 = (P++[1]).length % 2 := hq.trans hp.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (Q++[2],P++[1]) = (Q++[2],P++[1]) by
+      simp [lowerNormalize, hw.le]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.le, hm2, List.append_assoc]
+
+private theorem low_delta_abs (u v : List ℕ+) (hu1 : lowerEnds u [1])
+    (hw : lowerWidth u = lowerWidth v) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    |prefixEval v E - prefixEval v F| ≤
+      |prefixEval u E - prefixEval u F| := by
+  dsimp only
+  have hm := (low_metric_data u v hu1 hw).2.2
+  rw [pe_delta_abs, pe_delta_abs]
+  apply div_le_div_of_nonneg_left (sub_nonneg.mpr endpoint_tails.2.2.1.le)
+  · exact mul_pos (endpoint_den_pos _ _ endpoint_tails.2.2.2.1.1)
+      (endpoint_den_pos _ _ endpoint_tails.2.2.2.2.1)
+  · exact hm
+
+private theorem delta_nonpos_of_even (w : List ℕ+) (hp : w.length % 2 = 0) :
+    prefixEval w (prefixEval [3] lowerTau) -
+      prefixEval w (prefixEval [2,1,3] lowerTau) ≤ 0 := by
+  rw [pe_signed_difference w _ _ endpoint_tails.2.2.2.1.1
+    endpoint_tails.2.2.2.2.1, neg_one_pow_eq_pow_mod_two, hp]
+  norm_num only [pow_zero, mul_one]
+  have hd := mul_pos (endpoint_den_pos w _ endpoint_tails.2.2.2.1.1)
+    (endpoint_den_pos w _ endpoint_tails.2.2.2.2.1)
+  exact (div_neg_of_neg_of_pos (sub_neg.mpr endpoint_tails.2.2.1) hd).le
+
+private theorem delta_nonneg_of_odd (w : List ℕ+) (hp : w.length % 2 = 1) :
+    0 ≤ prefixEval w (prefixEval [3] lowerTau) -
+      prefixEval w (prefixEval [2,1,3] lowerTau) := by
+  rw [pe_signed_difference w _ _ endpoint_tails.2.2.2.1.1
+    endpoint_tails.2.2.2.2.1, neg_one_pow_eq_pow_mod_two, hp]
+  norm_num only [pow_one]
+  have hn := sub_neg.mpr endpoint_tails.2.2.1
+  have hd := mul_pos (endpoint_den_pos w _ endpoint_tails.2.2.2.1.1)
+    (endpoint_den_pos w _ endpoint_tails.2.2.2.2.1)
+  exact (div_nonneg (by linarith) hd.le)
+
+private theorem lowTieLaw : Mixed15.LowTieLaw := by
+  intro u v hu hv hnu hnv hu1 hv2 hpar hw
+  have hshort := low_not_short u v hu hv hu1 hv2 hw
+  have habs := low_delta_abs u v hu1 hw
+  obtain ⟨P,rfl⟩ := hu1
+  obtain ⟨Q,rfl⟩ := hv2
+  dsimp only at habs
+  rcases Nat.mod_two_eq_zero_or_one (P++[1]).length with hue | huo
+  · have hve : (Q++[2]).length % 2 = 0 := hpar.symm ▸ hue
+    rw [if_pos hue]
+    have hwords := low_words_lower P Q hue hve hshort hw
+    have hdu := delta_nonpos_of_even (P++[1]) hue
+    have hdv := delta_nonpos_of_even (Q++[2]) hve
+    rw [abs_of_nonpos hdv, abs_of_nonpos hdu] at habs
+    unfold lowerEndpoint
+    rw [hwords.1,hwords.2]
+    simp only [Prod.fst,Prod.snd]
+    rw [pe_append (P++[1]) [3] lowerTau,
+      pe_append (Q++[2]) [2,1,3] lowerTau,
+      pe_append (Q++[2]) [3] lowerTau,
+      pe_append (P++[1]) [2,1,3] lowerTau]
+    linarith
+  · have hvo : (Q++[2]).length % 2 = 1 := hpar.symm ▸ huo
+    simp only [if_neg (by omega : (P++[1]).length % 2 ≠ 0)]
+    have hwords := low_words_upper P Q huo hvo hshort hw
+    have hdu := delta_nonneg_of_odd (P++[1]) huo
+    have hdv := delta_nonneg_of_odd (Q++[2]) hvo
+    rw [abs_of_nonneg hdv, abs_of_nonneg hdu] at habs
+    unfold lowerEndpoint
+    rw [hwords.1,hwords.2]
+    simp only [Prod.fst,Prod.snd]
+    rw [pe_append (P++[1]) [3] lowerTau,
+      pe_append (Q++[2]) [2,1,3] lowerTau,
+      pe_append (Q++[2]) [3] lowerTau,
+      pe_append (P++[1]) [2,1,3] lowerTau]
+    linarith
+
+end M7LowTies15
+
+
+-- Source: agents.p97_16.Virtual
+open Freiman
+set_option maxHeartbeats 0
+
+private theorem virtual_left (a b : List ℕ+) (upper : Bool)
+    (hp : a.length % 2 ≠ b.length % 2)
+    (hw : lowerWidth b ≤ lowerWidth a)
+    (heq : (a++[1]).length % 2 = b.length % 2)
+    (hu : upper = decide (a.length % 2 = 0)) :
+    lowerEndpoint (a,b) upper = lowerEndpoint (a++[1],b) upper := by
+  unfold lowerEndpoint
+  have heq' : (a.length+1) % 2 = b.length % 2 := by simpa using heq
+  simp only [lowerEndpointWords,if_neg hp,hw,hu,if_pos,List.length_append,List.length_singleton]
+  rw [if_pos heq']
+
+private theorem virtual_right (a b : List ℕ+) (upper : Bool)
+    (hp : a.length % 2 ≠ b.length % 2)
+    (hw : lowerWidth b < lowerWidth a)
+    (heq : b.length % 2 = (a++[1]).length % 2)
+    (hu : upper = decide (a.length % 2 = 0)) :
+    lowerEndpoint (b,a) upper = lowerEndpoint (b,a++[1]) upper := by
+  unfold lowerEndpoint
+  have hp' : b.length % 2 ≠ a.length % 2 := Ne.symm hp
+  have hn : ¬ lowerWidth a ≤ lowerWidth b := not_le_of_gt hw
+  have heq' : b.length % 2 = (a.length+1) % 2 := by simpa using heq
+  simp only [lowerEndpointWords,if_neg hp',hn,if_false,hu,if_pos,
+    List.length_append,List.length_singleton]
+  rw [if_pos heq']
+
+private theorem parent_tie_endpoint_end2 (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (hnb : b ≠ [])
+    (hp : a.length % 2 ≠ b.length % 2)
+    (hvu : lowerWidth b < lowerWidth a)
+    (htie : lowerWidth (a++[1]) = lowerWidth b)
+    (hend : lowerEnds b [2]) :
+    (if a.length % 2 = 0 then
+      lowerEndpoint (b,a) true ≤ lowerEndpoint (a,b) true
+    else lowerEndpoint (a,b) false ≤ lowerEndpoint (b,a) false) := by
+  have heq : (a++[1]).length % 2 = b.length % 2 := by
+    rcases Nat.mod_two_eq_zero_or_one a.length with h0 | h1 <;>
+      rcases Nat.mod_two_eq_zero_or_one b.length with k0 | k1 <;>
+      simp only [List.length_append,List.length_singleton] <;> omega
+  have hga := CDUnique15.goodHead_append a [1] ha hna
+  have hlow := M7LowTies15.lowTieLaw (a++[1]) b hga hb (by simp) hnb
+    ⟨a,rfl⟩ hend heq htie
+  by_cases he : a.length % 2 = 0
+  · rw [if_pos he]
+    have hu : (a++[1]).length % 2 ≠ 0 := by
+      simp only [List.length_append,List.length_singleton]
+      omega
+    simp only [if_neg hu] at hlow
+    rw [virtual_right a b true hp hvu heq.symm (by simp [he]),
+      virtual_left a b true hp hvu.le heq (by simp [he])]
+    exact hlow
+  · rw [if_neg he]
+    have hu : (a++[1]).length % 2 = 0 := by
+      rcases Nat.mod_two_eq_zero_or_one a.length with h0 | h1
+      · exact (he h0).elim
+      · simp only [List.length_append,List.length_singleton]; omega
+    simp only [if_pos hu] at hlow
+    rw [virtual_left a b false hp hvu.le heq (by simp [he]),
+      virtual_right a b false hp hvu heq.symm (by simp [he])]
+    exact hlow
+
+private theorem ratio_lt_one (w : List ℕ+) (hg : CDUnique15.GoodHead w)
+    (hn : w ≠ []) : lowerRatio w < 1 := by
+  rw [lowerRatio, div_lt_one]
+  · exact_mod_cast CDUnique15.cd_strict w hg
+  · exact_mod_cast CDUnique15.snd_pos w
+
+private theorem ratio_append_one_gt_half (w : List ℕ+)
+    (hg : CDUnique15.GoodHead w) (hn : w ≠ []) :
+    (1/2:ℝ) < lowerRatio (w++[1]) := by
+  rw [lowerEarlyTerminal_ratio_append]
+  simp only [List.reverse_cons,List.reverse_nil,List.nil_append,prefixEval]
+  have hone : (((1 : ℕ+) : ℕ) : ℝ) = 1 := by norm_num
+  rw [hone]
+  change (1/2:ℝ) < 1 / (1 + lowerRatio w)
+  have hp := CDUnique15.ratio_pos w hn
+  have hl := ratio_lt_one w hg hn
+  rw [lt_div_iff₀ (by linarith)]
+  linarith
+
+private theorem parent_tie_end1_eq (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (htie : lowerWidth (a++[1]) = lowerWidth b)
+    (hend : lowerEnds b [1]) : b = a++[1] := by
+  rcases hend with ⟨pre,rfl⟩
+  have hnp : pre ≠ [] := by
+    intro he
+    subst pre
+    norm_num [CDUnique15.GoodHead] at hb
+  have hgp := CDUnique15.goodHead_prefix pre [1] hb
+  have hga := CDUnique15.goodHead_append a [1] ha hna
+  have hcd := M7TieWidth14.cd_eq_of_width_same_side (a++[1]) (pre++[1]) htie
+    (Or.inl ⟨ratio_append_one_gt_half a ha hna,
+      ratio_append_one_gt_half pre hgp hnp⟩)
+  exact (CDUnique15.injective (a++[1]) (pre++[1]) hga hb hcd).symm
+
+
+-- Source: agents.p97_16.End3
+
+open Freiman
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+
+namespace P97End3
+
+end P97End3
+
+namespace P97End3
+
+end P97End3
+
+namespace P97End3
+
+end P97End3
+
+
+-- Source: agents.long16.Scalar
+open Freiman
+set_option maxHeartbeats 0
+
+namespace Long16Scalar
+
+private theorem theta_bounds :
+    0 < lowerTheta 35 ∧ lowerTheta 35 < (1/2:ℝ) ∧
+    (2/5:ℝ) < lowerTheta 63 ∧ lowerTheta 63 < (1/2:ℝ) ∧
+    (1/2:ℝ) < lowerTheta 70 ∧ lowerTheta 70 < (3/5:ℝ) := by
+  have hs := Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 3)
+  have hn := Real.sqrt_nonneg (3:ℝ)
+  have hl : (3/2:ℝ) < Real.sqrt 3 := by nlinarith
+  have hu : Real.sqrt 3 < (7/4:ℝ) := by nlinarith
+  rw [← lowerHistory_theta_values 35 (by simp),
+    ← lowerHistory_theta_values 63 (by simp),
+    ← lowerHistory_theta_values 70 (by simp)]
+  norm_num [lowerHistoryTheta, lowerHistoryCF, lowerHistoryTau,
+    lowerHistoryMatrix, lowerHistoryDiv, lowerHistoryInv, lowerHistoryRat,
+    certFieldVal, certFieldAdd, certFieldScale, certFieldMul]
+  constructor
+  · nlinarith
+  constructor
+  · nlinarith
+  constructor
+  · nlinarith
+  constructor
+  · nlinarith
+  constructor <;> nlinarith
+
+private theorem scalar_h5 (r s q : ℝ)
+    (hr : r ∈ Set.Icc (1/4:ℝ) (4/5:ℝ))
+    (hs : s = (4*r+1)/(3*r+7))
+    (hq : q = (5/(3*r+7))^2) :
+    q < (279/500:ℝ) *
+      ((1+s*lowerTheta 63)*(1+s*lowerTheta 70)) /
+      ((1+r*lowerTheta 35)*(1+r*lowerTheta 63)) := by
+  rcases theta_bounds with ⟨A0,A1,B0,B1,C0,C1⟩
+  have hd : 0 < 3*r+7 := by linarith only [hr.1]
+  have r0 : 0 < r := by linarith only [hr.1]
+  have sr : 0 < s := by rw [hs]; exact div_pos (by linarith only [hr.1]) hd
+  have Bpos : 0 < lowerTheta 63 := by linarith only [B0]
+  have den0 : 0 < (1+r*lowerTheta 35)*(1+r*lowerTheta 63) := by
+    exact mul_pos (by positivity) (by positivity)
+  by_cases hhalf : r ≤ 1/2
+  · have ss : (8/31:ℝ) ≤ s := by
+      rw [hs]
+      apply (le_div_iff₀ hd).2
+      linarith only [hr.1]
+    have qbd : q ≤ (400/961:ℝ) := by
+      rw [hq]
+      have hden : (31/4:ℝ) ≤ 3*r+7 := by linarith only [hr.1]
+      have hpos : 0 ≤ 5/(3*r+7) := by positivity
+      have hh : 5/(3*r+7) ≤ 20/31 := by
+        apply (div_le_iff₀ hd).2
+        linarith only [hden]
+      nlinarith only [hh,hpos]
+    have numbd : (1+(8/31:ℝ)*(2/5))*(1+(8/31:ℝ)*(1/2)) ≤
+        (1+s*lowerTheta 63)*(1+s*lowerTheta 70) := by
+      have hB : (8/31:ℝ)*(2/5) ≤ s*lowerTheta 63 :=
+        mul_le_mul ss B0.le (by norm_num) sr.le
+      have hC : (8/31:ℝ)*(1/2) ≤ s*lowerTheta 70 :=
+        mul_le_mul ss C0.le (by norm_num) sr.le
+      exact mul_le_mul (by linarith only [hB]) (by linarith only [hC])
+        (by norm_num) (by positivity)
+    have denbd : (1+r*lowerTheta 35)*(1+r*lowerTheta 63) < (5/4:ℝ)^2 := by
+      have hA : r*lowerTheta 35 < 1/4 :=
+        lt_of_lt_of_le (mul_lt_mul_of_pos_left A1 r0) (by linarith only [hhalf])
+      have hB : r*lowerTheta 63 < 1/4 :=
+        lt_of_lt_of_le (mul_lt_mul_of_pos_left B1 r0) (by linarith only [hhalf])
+      calc
+        _ < (5/4:ℝ) * (1+r*lowerTheta 63) :=
+          mul_lt_mul_of_pos_right (by linarith only [hA]) (by positivity)
+        _ < (5/4:ℝ) * (5/4:ℝ) := mul_lt_mul_of_pos_left (by linarith only [hB]) (by norm_num)
+        _ = _ := by ring
+    apply (lt_div_iff₀ den0).2
+    calc
+      q * ((1+r*lowerTheta 35)*(1+r*lowerTheta 63)) ≤
+          (400/961:ℝ) * ((1+r*lowerTheta 35)*(1+r*lowerTheta 63)) :=
+        mul_le_mul_of_nonneg_right qbd den0.le
+      _ < (400/961:ℝ) * ((5/4:ℝ)^2) :=
+        mul_lt_mul_of_pos_left denbd (by norm_num)
+      _ < (279/500:ℝ) *
+          ((1+(8/31:ℝ)*(2/5))*(1+(8/31:ℝ)*(1/2))) := by norm_num
+      _ ≤ (279/500:ℝ) *
+          ((1+s*lowerTheta 63)*(1+s*lowerTheta 70)) :=
+        mul_le_mul_of_nonneg_left numbd (by norm_num)
+  · have rhalf : (1/2:ℝ) < r := lt_of_not_ge hhalf
+    have ss : (6/17:ℝ) ≤ s := by
+      rw [hs]
+      apply (le_div_iff₀ hd).2
+      linarith only [rhalf]
+    have qbd : q < (25/72:ℝ) := by
+      rw [hq]
+      have hden : (17/2:ℝ) < 3*r+7 := by linarith only [rhalf]
+      have hpos : 0 ≤ 5/(3*r+7) := by positivity
+      have hh : 5/(3*r+7) < 10/17 := by
+        apply (div_lt_iff₀ hd).2
+        linarith only [hden]
+      nlinarith only [hh,hpos]
+    have numbd : (1+(6/17:ℝ)*(2/5))*(1+(6/17:ℝ)*(1/2)) ≤
+        (1+s*lowerTheta 63)*(1+s*lowerTheta 70) := by
+      have hB : (6/17:ℝ)*(2/5) ≤ s*lowerTheta 63 :=
+        mul_le_mul ss B0.le (by norm_num) sr.le
+      have hC : (6/17:ℝ)*(1/2) ≤ s*lowerTheta 70 :=
+        mul_le_mul ss C0.le (by norm_num) sr.le
+      exact mul_le_mul (by linarith only [hB]) (by linarith only [hC])
+        (by norm_num) (by positivity)
+    have denbd : (1+r*lowerTheta 35)*(1+r*lowerTheta 63) < (7/5:ℝ)^2 := by
+      have hA : r*lowerTheta 35 < 2/5 :=
+        lt_of_lt_of_le (mul_lt_mul_of_pos_left A1 r0) (by linarith only [hr.2])
+      have hB : r*lowerTheta 63 < 2/5 :=
+        lt_of_lt_of_le (mul_lt_mul_of_pos_left B1 r0) (by linarith only [hr.2])
+      calc
+        _ < (7/5:ℝ) * (1+r*lowerTheta 63) :=
+          mul_lt_mul_of_pos_right (by linarith only [hA]) (by positivity)
+        _ < (7/5:ℝ) * (7/5:ℝ) := mul_lt_mul_of_pos_left (by linarith only [hB]) (by norm_num)
+        _ = _ := by ring
+    apply (lt_div_iff₀ den0).2
+    calc
+      q * ((1+r*lowerTheta 35)*(1+r*lowerTheta 63)) <
+          (25/72:ℝ) * ((1+r*lowerTheta 35)*(1+r*lowerTheta 63)) :=
+        mul_lt_mul_of_pos_right qbd den0
+      _ < (25/72:ℝ) * ((7/5:ℝ)^2) :=
+        mul_lt_mul_of_pos_left denbd (by norm_num)
+      _ < (279/500:ℝ) *
+          ((1+(6/17:ℝ)*(2/5))*(1+(6/17:ℝ)*(1/2))) := by norm_num
+      _ ≤ (279/500:ℝ) *
+          ((1+s*lowerTheta 63)*(1+s*lowerTheta 70)) :=
+        mul_le_mul_of_nonneg_left numbd (by norm_num)
+
+end Long16Scalar
+
+-- Source: agents.long16.End3H5
+
+open Freiman
+set_option maxHeartbeats 0
+
+namespace Long16End3H5
+
+private theorem q_pos (w : List ℕ+) : 0 < ((lowerCD w).2 : ℝ) := by
+  apply M7TieWidth14.q_pos <;> assumption
+
+private theorem algebra_classify {c d C D : ℝ}
+    (hd : 0 < d) (hD : 0 < D) (hc : 0 ≤ c) (hC : 0 ≤ C)
+    (hA : 4*c*d-3*c^2 = 4*C*D-3*C^2)
+    (hB : 2*d^2-4*c*d+5*c^2 = 2*D^2-4*C*D+5*C^2) :
+    (c = C ∧ d = D) ∨ (5*C = -3*c+4*d ∧ 5*D = 4*c+3*d) := by
+  apply M7LowTies15.algebra_classify <;> assumption
+
+private theorem cd_classify (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v) :
+    lowerCD u = lowerCD v ∨
+      (5*((lowerCD v).1:ℝ) = -3*((lowerCD u).1:ℝ)+4*(lowerCD u).2 ∧
+       5*((lowerCD v).2:ℝ) = 4*((lowerCD u).1:ℝ)+3*(lowerCD u).2) := by
+  apply M7LowTies15.cd_classify <;> assumption
+
+private theorem tie_end3_h5 (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hane : a ≠ [])
+    (hbox : lowerRatio a ∈ Set.Icc (1/4:ℝ) (4/5:ℝ))
+    (htie : lowerWidth (a++[1]) = lowerWidth b)
+    (hend : lowerEnds b [3]) :
+    lowerScale (a,b) < (279/500:ℝ) *
+      ((1+lowerRatio b*lowerTheta 63)*(1+lowerRatio b*lowerTheta 70)) /
+      ((1+lowerRatio a*lowerTheta 35)*(1+lowerRatio a*lowerTheta 63)) := by
+  have hau : CDUnique15.GoodHead (a++[1]) := CDUnique15.goodHead_append _ _ ha hane
+  rcases cd_classify (a++[1]) b htie with heq | href
+  · have hw := CDUnique15.injective _ _ hau hb heq
+    rw [← hw] at hend
+    simpa [lowerEnds] using hend
+  · rw [CDUnique15.cd_snoc] at href
+    simp only [Prod.fst, Prod.snd] at href
+    push_cast at href
+    let c : ℝ := (lowerCD a).1
+    let d : ℝ := (lowerCD a).2
+    let C : ℝ := (lowerCD b).1
+    let D : ℝ := (lowerCD b).2
+    have hd : 0 < d := q_pos a
+    have hD : 0 < D := q_pos b
+    have hC : 5*C = 4*c+d := by dsimp [c,d,C,D]; linarith [href.1]
+    have hDrel : 5*D = 3*c+7*d := by dsimp [c,d,C,D]; linarith [href.2]
+    have hrs : lowerRatio b = (4*lowerRatio a+1)/(3*lowerRatio a+7) := by
+      have hnum : 4*(c/d)+1 = 5*C/d := by
+        field_simp [ne_of_gt hd]
+        nlinarith [hC]
+      have hden : 3*(c/d)+7 = 5*D/d := by
+        field_simp [ne_of_gt hd]
+        nlinarith [hDrel]
+      dsimp [lowerRatio, c,d,C,D] at hnum hden ⊢
+      rw [hnum,hden]
+      rw [div_div_div_cancel_right₀ (ne_of_gt hd)]
+      field_simp [ne_of_gt hD]
+    have hqs : lowerScale (a,b) = (5/(3*lowerRatio a+7))^2 := by
+      have hDf : D = d * (3*(c/d)+7) / 5 := by
+        field_simp [ne_of_gt hd]
+        nlinarith [hDrel]
+      dsimp [lowerScale, lowerRatio, c,d,C,D] at hDf ⊢
+      rw [hDf]
+      field_simp [show (lowerCD a).2 ≠ 0 by exact Nat.ne_of_gt (CDUnique15.snd_pos a)]
+    exact Long16Scalar.scalar_h5 _ _ _ hbox hrs hqs
+
+end Long16End3H5
+
+
+-- Source: agents.long16.Parent
+open Freiman
+attribute [local instance] Classical.propDecidable
+set_option maxHeartbeats 0
+
+private def smallEnd (w : List ℕ+) : Prop :=
+  lowerEnds w [1] ∨ lowerEnds w [2] ∨ lowerEnds w [3]
+
+private lemma smallEnd_of_last (w : List ℕ+) (hn : w ≠ [])
+    (hl : ((w.getLast hn : ℕ)) ≤ 3) : smallEnd w := by
+  have hp : 0 < (w.getLast hn : ℕ) := PNat.pos _
+  have hd : (w.getLast hn : ℕ) = 1 ∨ (w.getLast hn : ℕ) = 2 ∨
+      (w.getLast hn : ℕ) = 3 := by omega
+  have hs := List.dropLast_append_getLast hn
+  rcases hd with h | h | h
+  · have he : w.getLast hn = 1 := by exact_mod_cast h
+    left
+    exact ⟨w.dropLast, by simpa [he] using hs⟩
+  · have he : w.getLast hn = 2 := by exact_mod_cast h
+    right; left
+    exact ⟨w.dropLast, by simpa [he] using hs⟩
+  · have he : w.getLast hn = 3 := by exact_mod_cast h
+    right; right
+    exact ⟨w.dropLast, by simpa [he] using hs⟩
+
+private lemma append_smallEnd (w u : List ℕ+) (hw : smallEnd w)
+    (hu : ∀ d ∈ u, (d : ℕ) ≤ 3) : smallEnd (w ++ u) := by
+  induction u generalizing w with
+  | nil => simpa using hw
+  | cons a u ih =>
+      rw [show w ++ a :: u = (w ++ [a]) ++ u by simp]
+      apply ih (w := w ++ [a])
+      · have ha := hu a (by simp)
+        have hp : 0 < (a : ℕ) := PNat.pos a
+        have : (a : ℕ) = 1 ∨ (a : ℕ) = 2 ∨ (a : ℕ) = 3 := by omega
+        rcases this with h | h | h
+        · have ha1 : a = 1 := by exact_mod_cast h
+          left; exact ⟨w, by simp [ha1]⟩
+        · have ha2 : a = 2 := by exact_mod_cast h
+          right; left; exact ⟨w, by simp [ha2]⟩
+        · have ha3 : a = 3 := by exact_mod_cast h
+          right; right; exact ⟨w, by simp [ha3]⟩
+      · intro d hd
+        exact hu d (by simp [hd])
+
+private lemma admissible_smallEnds (p : LowerPair) (ha : lowerAdmissible p) :
+    smallEnd p.1 ∧ smallEnd p.2 := by
+  rcases ha.1 with ⟨c,hc,u,v,rfl,hu,hv⟩
+  have hbase : smallEnd c.1 ∧ smallEnd c.2 := by
+    simp only [lowerCores,lowerBaseCores,List.mem_append,List.mem_cons,List.mem_map,
+      List.not_mem_nil,or_false] at hc
+    rcases hc with hc | ⟨d,hd,rfl⟩
+    · rcases hc with rfl|rfl|rfl|rfl|rfl|rfl|rfl <;> constructor <;> apply smallEnd_of_last <;> simp
+    · rcases hd with rfl|rfl|rfl|rfl|rfl|rfl|rfl <;> constructor <;> apply smallEnd_of_last <;> simp
+  exact ⟨append_smallEnd _ _ hbase.1 hu,append_smallEnd _ _ hbase.2 hv⟩
+
+private theorem endpoint_swap_append_one (w : List ℕ+)
+    (hlt : lowerWidth (w++[1]) < lowerWidth w) (upper : Bool) :
+    lowerEndpoint (w++[1],w) upper = lowerEndpoint (w,w++[1]) upper := by
+  unfold lowerEndpoint lowerEndpointWords
+  have hp : (w++[1]).length%2 ≠ w.length%2 := by simp; omega
+  rw [if_neg hp,if_neg hp.symm]
+  have hn := not_le_of_gt hlt
+  simp only [hlt.le,hn,if_true,if_false]
+  by_cases hu : upper = decide (w.length%2=0)
+  · simp only [if_pos hu]
+  · simp only [if_neg hu,lowerNaturalWords]; ring
+
+private theorem parent_tie_word (t : ℝ) (w : List ℕ+)
+    (hlt : lowerWidth (w++[1]) < lowerWidth w)
+    (hs : lowerState t (w++[1],w)) :
+    lowerLocalCoordinate (w++[1],w) t ≤ section14LocalEndpoint (w++[1],w) ([],[]) true := by
+  rcases hs with ⟨_,_,hc,_⟩
+  have hn : lowerNormalize ((w++[1],w):LowerPair)=(w,w++[1]) := by simp [lowerNormalize,not_le_of_gt hlt]
+  by_cases he : w.length%2=0
+  · simp only [lowerLocalCoordinate,section14LocalEndpoint,hn,he,if_pos,List.append_nil]
+    rw [← endpoint_swap_append_one w hlt true]; exact hc.2
+  · simp only [lowerLocalCoordinate,section14LocalEndpoint,hn,he,List.append_nil,Bool.not_true]
+    rw [← endpoint_swap_append_one w hlt false]; exact neg_le_neg hc.1
+
+namespace Long16Parent
+
+private theorem parent_tie_other (a b : List ℕ+) (upper : Bool)
+    (hp : a.length % 2 ≠ b.length % 2)
+    (hvu : lowerWidth b < lowerWidth a)
+    (hu : upper ≠ decide (a.length % 2 = 0)) :
+    lowerEndpoint (b,a) upper = lowerEndpoint (a,b) upper := by
+  unfold lowerEndpoint lowerEndpointWords
+  have hp' : b.length % 2 ≠ a.length % 2 := Ne.symm hp
+  have hn : ¬ lowerWidth a ≤ lowerWidth b := not_le_of_gt hvu
+  simp only [if_neg hp,if_neg hp',hvu.le,hn,if_true,if_false,hu,lowerNaturalWords]
+  ring
+
+private theorem parent_upper_core (t : ℝ) (p : LowerPair) (hs : lowerState t p)
+    (hm : lowerMixed p)
+    (hbad : lowerWidth ((lowerNormalize p).1++[1]) = lowerWidth (lowerNormalize p).2 →
+      lowerEnds (lowerNormalize p).2 [3] → False) :
+    lowerLocalCoordinate p t ≤ section14LocalEndpoint p ([],[]) true := by
+  rcases hs with ⟨had,hgood,hcover,hbox⟩
+  have hforced := lower_forced_reflections p hgood hbox
+  by_cases hw : lowerWidth p.2 ≤ lowerWidth p.1
+  · have hn : lowerNormalize p=p := by simp [lowerNormalize,hw]
+    by_cases he : p.1.length%2=0
+    · simpa [lowerLocalCoordinate,section14LocalEndpoint,hn,he] using hcover.2
+    · simpa [lowerLocalCoordinate,section14LocalEndpoint,hn,he] using neg_le_neg hcover.1
+  · have hlt : lowerWidth p.1 < lowerWidth p.2 := lt_of_not_ge hw
+    have hn : lowerNormalize p=(p.2,p.1) := by simp [lowerNormalize,hw]
+    by_cases htie : lowerWidth (p.2++[1]) = lowerWidth p.1
+    · have heads := CDUnique15.admissible_goodHead p had
+      have hne1 : p.1 ≠ [] := by
+        intro he
+        have hx := hbox.1
+        rw [he] at hx
+        norm_num [lowerRatio, lowerCD] at hx
+      have hne2 : p.2 ≠ [] := by
+        intro he
+        have hx := hbox.2.2.1
+        rw [he] at hx
+        norm_num [lowerRatio, lowerCD] at hx
+      have hends := admissible_smallEnds p had
+      rcases hends.1 with he1 | he2 | he3
+      · have heq := parent_tie_end1_eq p.2 p.1 heads.2 heads.1 hne2 htie he1
+        have hp_eq : p = (p.2++[1],p.2) := by
+          apply Prod.ext
+          · exact heq
+          · rfl
+        have hsword : lowerState t (p.2++[1],p.2) := by
+          rw [← hp_eq]
+          exact ⟨had,hgood,hcover,hbox⟩
+        rw [hp_eq]
+        exact parent_tie_word t p.2 (by simpa [heq] using hlt) hsword
+      · have hal := parent_tie_endpoint_end2 p.2 p.1 heads.2 heads.1 hne2 hne1
+          (by exact Ne.symm hm) hlt htie he2
+        by_cases he : p.2.length%2=0
+        · simp only [if_pos he] at hal
+          simpa [lowerLocalCoordinate,section14LocalEndpoint,hn,he] using hcover.2.trans hal
+        · simp only [if_neg he] at hal
+          have hx := hal.trans hcover.1
+          simpa [lowerLocalCoordinate,section14LocalEndpoint,hn,he] using neg_le_neg hx
+      · exact (hbad (by simpa [hn] using htie) (by simpa [hn] using he3)).elim
+    · have hno : LowerEarlyTerminalNoTies p := by
+        rw [LowerEarlyTerminalNoTies]
+        refine ⟨hlt.ne,fun _ => ⟨?_,?_⟩⟩
+        · simpa [hn] using hforced.2.2.2.ne
+        · simpa [hn] using (Ne.symm htie)
+      have hswap (upper : Bool) :
+          lowerEndpoint p upper = lowerEndpoint (p.2,p.1) upper :=
+        lowerEarlyTerminal_endpoint_swap_nontie p hno upper
+      by_cases he : p.2.length%2=0
+      · simp only [lowerLocalCoordinate,hn,Prod.fst,if_pos he]
+        unfold section14LocalEndpoint
+        simp only [hn,Prod.fst,Prod.snd,List.nil_append,List.append_nil,if_pos he]
+        simpa only [hswap true] using hcover.2
+      · have hx := neg_le_neg hcover.1
+        simp only [lowerLocalCoordinate,hn,Prod.fst,if_neg he]
+        unfold section14LocalEndpoint
+        simp only [hn,Prod.fst,Prod.snd,List.nil_append,List.append_nil,if_neg he,Bool.not_true]
+        simpa only [hswap false] using hx
+
+
+private theorem parent_lower_core (t : ℝ) (p : LowerPair) (hs : lowerState t p)
+    (hm : lowerMixed p)
+    (hbad : lowerWidth ((lowerNormalize p).1++[1]) = lowerWidth (lowerNormalize p).2 →
+      lowerEnds (lowerNormalize p).2 [3] → False) :
+    section14LocalEndpoint p ([],[]) false ≤ lowerLocalCoordinate p t := by
+  rcases hs with ⟨had,hgood,hcover,hbox⟩
+  have hforced := lower_forced_reflections p hgood hbox
+  by_cases hw : lowerWidth p.2 ≤ lowerWidth p.1
+  · have hn : lowerNormalize p=p := by simp [lowerNormalize,hw]
+    by_cases he : p.1.length%2=0
+    · simpa [lowerLocalCoordinate,section14LocalEndpoint,hn,he] using hcover.1
+    · simpa [lowerLocalCoordinate,section14LocalEndpoint,hn,he] using neg_le_neg hcover.2
+  · have hlt : lowerWidth p.1 < lowerWidth p.2 := lt_of_not_ge hw
+    have hn : lowerNormalize p=(p.2,p.1) := by simp [lowerNormalize,hw]
+    by_cases htie : lowerWidth (p.2++[1]) = lowerWidth p.1
+    · have heads := CDUnique15.admissible_goodHead p had
+      have hne1 : p.1 ≠ [] := by
+        intro he; have hx := hbox.1; rw [he] at hx
+        norm_num [lowerRatio,lowerCD] at hx
+      have hne2 : p.2 ≠ [] := by
+        intro he; have hx := hbox.2.2.1; rw [he] at hx
+        norm_num [lowerRatio,lowerCD] at hx
+      have hends := admissible_smallEnds p had
+      rcases hends.1 with he1 | he2 | he3
+      · have heq := parent_tie_end1_eq p.2 p.1 heads.2 heads.1 hne2 htie he1
+        have hp_eq : p = (p.2++[1],p.2) := by apply Prod.ext <;> simp [heq]
+        have hsword : lowerState t (p.2++[1],p.2) := by
+          rw [← hp_eq]; exact ⟨had,hgood,hcover,hbox⟩
+        rw [hp_eq]
+        rcases hsword with ⟨_,_,hc,_⟩
+        have hsw := endpoint_swap_append_one p.2 (by simpa [heq] using hlt)
+        have hnorm : lowerNormalize ((p.2++[1],p.2):LowerPair)=(p.2,p.2++[1]) := by
+          simp [lowerNormalize,not_le_of_gt (by simpa [heq] using hlt)]
+        by_cases he : p.2.length%2=0
+        · simpa [section14LocalEndpoint,lowerLocalCoordinate,hnorm,he,hsw] using hc.1
+        · simpa [section14LocalEndpoint,lowerLocalCoordinate,hnorm,he,hsw] using neg_le_neg hc.2
+      · have ho (upper : Bool) (hu : upper ≠ decide (p.2.length%2=0)) :=
+          parent_tie_other p.2 p.1 upper (Ne.symm hm) hlt hu
+        by_cases he : p.2.length%2=0
+        · have hh := ho false (by simp [he])
+          simpa [section14LocalEndpoint,lowerLocalCoordinate,hn,he] using hh.symm.trans_le hcover.1
+        · have hh := ho true (by simp [he])
+          have hx := hcover.2.trans_eq hh
+          simpa [section14LocalEndpoint,lowerLocalCoordinate,hn,he] using neg_le_neg hx
+      · exact (hbad (by simpa [hn] using htie) (by simpa [hn] using he3)).elim
+    · have hno : LowerEarlyTerminalNoTies p := by
+        rw [LowerEarlyTerminalNoTies]
+        refine ⟨hlt.ne,fun _ => ⟨?_,?_⟩⟩
+        · simpa [hn] using hforced.2.2.2.ne
+        · simpa [hn] using (Ne.symm htie)
+      have hswap (upper : Bool) : lowerEndpoint p upper = lowerEndpoint (p.2,p.1) upper :=
+        lowerEarlyTerminal_endpoint_swap_nontie p hno upper
+      by_cases he : p.2.length%2=0
+      · simpa [section14LocalEndpoint,lowerLocalCoordinate,hn,he,hswap] using hcover.1
+      · simpa [section14LocalEndpoint,lowerLocalCoordinate,hn,he,hswap] using neg_le_neg hcover.2
+
+
+private theorem parent_interval_of_not_h5 (t : ℝ) (p : LowerPair) (hs : lowerState t p)
+    (hm : lowerMixed p) (hn5 : ¬ lowerH p 5) :
+    section14LocalEndpoint p ([],[]) false ≤ lowerLocalCoordinate p t ∧
+    lowerLocalCoordinate p t ≤ section14LocalEndpoint p ([],[]) true := by
+  have hbad : lowerWidth ((lowerNormalize p).1++[1]) = lowerWidth (lowerNormalize p).2 →
+      lowerEnds (lowerNormalize p).2 [3] → False := by
+    intro htie hend
+    rcases hs with ⟨had,_,_,hbox⟩
+    have heads := CDUnique15.admissible_goodHead p had
+    by_cases hw : lowerWidth p.2 ≤ lowerWidth p.1
+    · have hne : p.1 ≠ [] := by
+        intro he
+        have hx := hbox.1
+        rw [he] at hx
+        norm_num [lowerRatio,lowerCD] at hx
+      have hn : lowerNormalize p = p := by simp [lowerNormalize,hw]
+      have hh := Long16End3H5.tie_end3_h5 p.1 p.2 heads.1 heads.2 hne
+        ⟨hbox.1,hbox.2.1⟩ (by simpa [hn] using htie) (by simpa [hn] using hend)
+      apply hn5
+      simpa [lowerH,lowerThreshold,lowerNormalize,hw] using hh
+    · have hne : p.2 ≠ [] := by
+        intro he
+        have hx := hbox.2.2.1
+        rw [he] at hx
+        norm_num [lowerRatio,lowerCD] at hx
+      have hn : lowerNormalize p = (p.2,p.1) := by simp [lowerNormalize,hw]
+      have hh := Long16End3H5.tie_end3_h5 p.2 p.1 heads.2 heads.1 hne
+        ⟨hbox.2.2.1,hbox.2.2.2⟩ (by simpa [hn] using htie) (by simpa [hn] using hend)
+      apply hn5
+      simpa [lowerH,lowerThreshold,lowerNormalize,hw] using hh
+  exact ⟨parent_lower_core t p hs hm hbad,parent_upper_core t p hs hm hbad⟩
+
+end Long16Parent
+
+-- Source: agents.cross16.Critical
+
+open Freiman
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+
+namespace Cross16Critical
+
+private theorem cd_eq (w : List ℕ+) :
+    lowerCD w = (wordContinuantPrevQ w, wordContinuantQ w) := by
+  apply M7TieWidth14.cd_eq <;> assumption
+
+private theorem q_pos (w : List ℕ+) : 0 < ((lowerCD w).2 : ℝ) := by
+  apply M7TieWidth14.q_pos <;> assumption
+
+private theorem tails :
+    lowerAlpha ∈ Set.Icc (0 : ℝ) 1 ∧
+    lowerBeta ∈ Set.Icc (0 : ℝ) 1 ∧ lowerAlpha < lowerBeta := by
+  apply M7TieWidth14.tails <;> assumption
+
+private theorem width_formula (w : List ℕ+) :
+    lowerWidth w = (lowerBeta - lowerAlpha) /
+      ((((lowerCD w).1 : ℝ) * lowerAlpha + (lowerCD w).2) *
+       (((lowerCD w).1 : ℝ) * lowerBeta + (lowerCD w).2)) := by
+  apply M7LowTies15.width_formula <;> assumption
+
+private theorem width_pos (w : List ℕ+) : 0 < lowerWidth w := by
+  apply M7LowTies15.width_pos <;> assumption
+
+private theorem width_eq_of_cd (u v : List ℕ+) (h : lowerCD u = lowerCD v) :
+    lowerWidth u = lowerWidth v := by
+  apply M7LowTies15.width_eq_of_cd <;> assumption
+
+private theorem pe_append : ∀ (u v : List ℕ+) (x : ℝ),
+    prefixEval (u ++ v) x = prefixEval u (prefixEval v x)
+  | [], _, _ => rfl
+  | _ :: u, v, x => by simp only [List.cons_append, prefixEval, pe_append u v x]
+
+private theorem radical3 :
+    let s := Real.sqrt (3 : ℝ)
+    s^2 = 3 ∧ 0 < s ∧ s < 2 := by
+  apply M7LowTies15.radical3 <;> assumption
+
+private theorem endpoint_tails :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    E = 2 - Real.sqrt 3 ∧ F = (15 - Real.sqrt 3) / 37 ∧
+      E < F ∧ E ∈ Set.Icc (0 : ℝ) 1 ∧ F ∈ Set.Icc (0 : ℝ) 1 := by
+  apply M7LowTies15.endpoint_tails <;> assumption
+
+private theorem cd_append_one (w : List ℕ+) :
+    lowerCD (w ++ [1]) = ((lowerCD w).2, (lowerCD w).1 + (lowerCD w).2) := by
+  apply M7LowTies15.cd_append_one <;> assumption
+
+private theorem cd_append_two (w : List ℕ+) :
+    lowerCD (w ++ [2]) = ((lowerCD w).2, (lowerCD w).1 + 2*(lowerCD w).2) := by
+  apply M7LowTies15.cd_append_two <;> assumption
+
+private theorem cd_append_low (w : List ℕ+) :
+    lowerCD (w ++ [3]) = ((lowerCD w).2,
+      (lowerCD w).1 + 3*(lowerCD w).2) := by
+  apply M7LowTies15.cd_append_low <;> assumption
+
+private theorem pe_signed_difference (w : List ℕ+) (x y : ℝ) (hx : 0 ≤ x) (hy : 0 ≤ y) :
+    prefixEval w x - prefixEval w y =
+      (x-y) * ((-1 : ℝ)^w.length) /
+        ((((lowerCD w).2 : ℝ) + x*(lowerCD w).1) *
+         (((lowerCD w).2 : ℝ) + y*(lowerCD w).1)) := by
+  apply M7LowTies15.pe_signed_difference <;> assumption
+
+end Cross16Critical
+
+namespace Cross16Critical
+
+private theorem algebra_classify {c d C D : ℝ}
+    (hd : 0 < d) (hD : 0 < D) (hc : 0 ≤ c) (hC : 0 ≤ C)
+    (hA : 4*c*d-3*c^2 = 4*C*D-3*C^2)
+    (hB : 2*d^2-4*c*d+5*c^2 = 2*D^2-4*C*D+5*C^2) :
+    (c = C ∧ d = D) ∨ (5*C = -3*c+4*d ∧ 5*D = 4*c+3*d) := by
+  apply M7LowTies15.algebra_classify <;> assumption
+
+private theorem cd_classify (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v) :
+    lowerCD u = lowerCD v ∨
+      (5*((lowerCD v).1:ℝ) = -3*((lowerCD u).1:ℝ)+4*(lowerCD u).2 ∧
+       5*((lowerCD v).2:ℝ) = 4*((lowerCD u).1:ℝ)+3*(lowerCD u).2) := by
+  apply M7LowTies15.cd_classify <;> assumption
+
+end Cross16Critical
+
+namespace Cross16Critical
+
+private theorem cd_fst_le_snd (w : List ℕ+) : (lowerCD w).1 ≤ (lowerCD w).2 := by
+  apply M7LowTies15.cd_fst_le_snd <;> assumption
+
+private theorem width_seven_fifths (u v : List ℕ+)
+    (hden : 5*((((lowerCD v).1:ℝ)*lowerAlpha+(lowerCD v).2)*
+        (((lowerCD v).1:ℝ)*lowerBeta+(lowerCD v).2)) ≤
+      7*((((lowerCD u).1:ℝ)*lowerAlpha+(lowerCD u).2)*
+        (((lowerCD u).1:ℝ)*lowerBeta+(lowerCD u).2))) :
+    lowerWidth u ≤ (7/5:ℝ)*lowerWidth v := by
+  apply M7LowTies15.width_seven_fifths <;> assumption
+
+private theorem reflection_bounds_low {c d C D : ℝ}
+    (hc : 0 ≤ c) (hcd : c ≤ d) (hdc : d ≤ 2*c)
+    (hC : 5*C = -3*c+4*d) (hD : 5*D = 4*c+3*d) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    let a := lowerAlpha
+    let b := lowerBeta
+    let ce := d
+    let de := c+3*d
+    let Ce := D
+    let De := C+3*D
+    (d+E*c)*(d+F*c) ≤ (D+E*C)*(D+F*C) ∧
+      5*((De+a*Ce)*(De+b*Ce)) ≤ 7*((de+a*ce)*(de+b*ce)) ∧
+      5*((de+a*ce)*(de+b*ce)) ≤ 7*((De+a*Ce)*(De+b*Ce)) := by
+  apply M7LowTies15.reflection_bounds_low <;> assumption
+
+private theorem low_metric_data (u v : List ℕ+) (hu1 : lowerEnds u [1])
+    (hw : lowerWidth u = lowerWidth v) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    lowerWidth (u++[3]) ≤ (7/5:ℝ)*lowerWidth (v++[3]) ∧
+    lowerWidth (v++[3]) ≤ (7/5:ℝ)*lowerWidth (u++[3]) ∧
+    (((lowerCD u).2:ℝ)+E*(lowerCD u).1)*(((lowerCD u).2:ℝ)+F*(lowerCD u).1) ≤
+      (((lowerCD v).2:ℝ)+E*(lowerCD v).1)*(((lowerCD v).2:ℝ)+F*(lowerCD v).1) := by
+  apply M7LowTies15.low_metric_data <;> assumption
+
+private theorem cd_append_three_one (w : List ℕ+) :
+    lowerCD (w ++ [3,1]) =
+      ((lowerCD w).1 + 3*(lowerCD w).2,
+       (lowerCD w).1 + 4*(lowerCD w).2) := by
+  apply M7LowTies15.cd_append_three_one <;> assumption
+
+private theorem low_not_short (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hu1 : lowerEnds u [1]) (hv2 : lowerEnds v [2])
+    (hw : lowerWidth u = lowerWidth v) : ¬ lowerEnds u [3,1] := by
+  apply M7LowTies15.low_not_short <;> assumption
+
+private theorem low_words_lower (P Q : List ℕ+)
+    (hp : (P++[1]).length % 2 = 0) (hq : (Q++[2]).length % 2 = 0)
+    (hshort : ¬ lowerEnds (P++[1]) [3,1])
+    (hw : lowerWidth (P++[1]) = lowerWidth (Q++[2])) :
+    lowerEndpointWords (P++[1],Q++[2]) false =
+      (P++[1]++[3], Q++[2]++[2,1,3]) ∧
+    lowerEndpointWords (Q++[2],P++[1]) false =
+      (Q++[2]++[3], P++[1]++[2,1,3]) := by
+  apply M7LowTies15.low_words_lower <;> assumption
+
+private theorem low_words_upper (P Q : List ℕ+)
+    (hp : (P++[1]).length % 2 = 1) (hq : (Q++[2]).length % 2 = 1)
+    (hshort : ¬ lowerEnds (P++[1]) [3,1])
+    (hw : lowerWidth (P++[1]) = lowerWidth (Q++[2])) :
+    lowerEndpointWords (P++[1],Q++[2]) true =
+      (P++[1]++[3], Q++[2]++[2,1,3]) ∧
+    lowerEndpointWords (Q++[2],P++[1]) true =
+      (Q++[2]++[3], P++[1]++[2,1,3]) := by
+  apply M7LowTies15.low_words_upper <;> assumption
+
+end Cross16Critical
+
+namespace Cross16Critical
+private theorem critical_metric {c d : ℝ} (hc : 0 < c) (hcd : c ≤ d)
+    (hdc : d ≤ 2*c) :
+    let z := Real.sqrt 3
+    let E := 2-z
+    let A := (52+z)/73
+    let B := (4+z)/13
+    let G := (9-z)/13
+    let C := (-3*c+4*d)/5
+    0 < (A-E)/((c+A*(d-c))*(c+E*(d-c))) +
+      (B-G)/((C+B*(2*c-d))*(C+G*(2*c-d))) := by
+  dsimp only
+  have hz := radical3.1
+  have hz0 := radical3.2.1
+  have hzlo : (17/10:ℝ) < Real.sqrt 3 := by nlinarith
+  have hzhi : Real.sqrt 3 < (18/10:ℝ) := by nlinarith
+  have he : 0 ≤ 2-Real.sqrt 3 := by linarith
+  have ha : 0 ≤ (52+Real.sqrt 3)/73 := by positivity
+  have hb : 0 ≤ (4+Real.sqrt 3)/13 := by positivity
+  have hg : 0 ≤ (9-Real.sqrt 3)/13 := by linarith
+  have hdc0 : 0 ≤ d-c := by linarith
+  have hcd0 : 0 ≤ 2*c-d := by linarith
+  have hC : 0 < (-3*c+4*d)/5 := by linarith
+  have hden1 : 0 < (c+(52+Real.sqrt 3)/73*(d-c))*(c+(2-Real.sqrt 3)*(d-c)) := by positivity
+  have hden2 : 0 < ((-3*c+4*d)/5+(4+Real.sqrt 3)/13*(2*c-d))*
+      ((-3*c+4*d)/5+(9-Real.sqrt 3)/13*(2*c-d)) := by positivity
+  rw [div_add_div _ _ (ne_of_gt hden1) (ne_of_gt hden2), div_pos_iff]
+  left
+  constructor
+  · have hid :
+      ((52+Real.sqrt 3)/73-(2-Real.sqrt 3))*
+        (((-3*c+4*d)/5+(4+Real.sqrt 3)/13*(2*c-d))*
+         ((-3*c+4*d)/5+(9-Real.sqrt 3)/13*(2*c-d))) +
+      ((4+Real.sqrt 3)/13-(9-Real.sqrt 3)/13)*
+        ((c+(52+Real.sqrt 3)/73*(d-c))*(c+(2-Real.sqrt 3)*(d-c))) =
+      ((216306-116776*Real.sqrt 3)*c^2 +
+       (142386*Real.sqrt 3-232166)*c*d +
+       (146176*Real.sqrt 3-247881)*d^2)/308425 := by
+      linear_combination -(322*c^2*Real.sqrt 3-2493*c^2-348*c*d*Real.sqrt 3+
+        1258*c*d+100*d^2*Real.sqrt 3+771*d^2)/12337 * hz
+    suffices 0 < ((216306-116776*Real.sqrt 3)*c^2 +
+       (142386*Real.sqrt 3-232166)*c*d +
+       (146176*Real.sqrt 3-247881)*d^2)/308425 by linarith only [hid,this]
+    apply div_pos _ (by norm_num)
+    have h1 : 0 < (216306-116776*Real.sqrt 3)*c^2 :=
+      mul_pos (by linarith) (sq_pos_of_pos hc)
+    have h2 : 0 ≤ (142386*Real.sqrt 3-232166)*c*d := by
+      apply mul_nonneg (mul_nonneg (by linarith) hc.le) (by linarith)
+    have h3 : 0 ≤ (146176*Real.sqrt 3-247881)*d^2 :=
+      mul_nonneg (by linarith) (sq_nonneg _)
+    linarith
+  · exact mul_pos hden1 hden2
+end Cross16Critical
+namespace Cross16Critical
+
+private theorem critical_tie_delta (U v : List ℕ+)
+    (hU : CDUnique15.GoodHead U) (hv : CDUnique15.GoodHead v)
+    (hnU : U ≠ []) (hnv : v ≠ [])
+    (hp : U.length%2=v.length%2)
+    (ht : lowerWidth (U++[1])=lowerWidth (v++[2])) :
+    let z := Real.sqrt 3
+    let delta := prefixEval U ((52+z)/73) - prefixEval U (2-z) +
+      (prefixEval v ((4+z)/13)-prefixEval v ((9-z)/13))
+    if U.length%2=0 then 0 < delta else delta < 0 := by
+  dsimp only
+  have hgu := CDUnique15.goodHead_append U [1] hU hnU
+  have hgv := CDUnique15.goodHead_append v [2] hv hnv
+  have hh :
+      5*((lowerCD (v++[2])).1:ℝ) = -3*((lowerCD (U++[1])).1:ℝ)+4*(lowerCD (U++[1])).2 ∧
+      5*((lowerCD (v++[2])).2:ℝ) = 4*((lowerCD (U++[1])).1:ℝ)+3*(lowerCD (U++[1])).2 := by
+    rcases cd_classify (U++[1]) (v++[2]) ht with he | he
+    · have heq := CDUnique15.injective _ _ hgu hgv he
+      have heLast := congrArg List.getLast? heq
+      simp at heLast
+    · exact he
+  rw [cd_append_one,cd_append_two] at hh
+  simp only [Prod.fst,Prod.snd] at hh
+  push_cast at hh
+  let c : ℝ := (lowerCD U).2
+  let d : ℝ := (lowerCD U).1+(lowerCD U).2
+  have hc : 0 < c := q_pos U
+  have hcd : c ≤ d := by
+    have hh : (0:ℝ) ≤ (lowerCD U).1 := by positivity
+    dsimp [c,d]; linarith
+  have hdc : d ≤ 2*c := by
+    have hr := cd_fst_le_snd U
+    have hr' : ((lowerCD U).1:ℝ) ≤ (lowerCD U).2 := by exact_mod_cast hr
+    dsimp [c,d]; linarith
+  have heU : ((lowerCD U).1:ℝ)=d-c := by dsimp [c,d]; ring
+  have heV1 : ((lowerCD v).1:ℝ)=2*c-d := by dsimp [c,d]; linarith [hh.1,hh.2]
+  have heV2 : ((lowerCD v).2:ℝ)=(-3*c+4*d)/5 := by dsimp [c,d]; linarith [hh.1]
+  have hz0 := radical3.2.1
+  have hzhi := radical3.2.2
+  have hA : 0 ≤ (52+Real.sqrt 3)/73 := by positivity
+  have hE : 0 ≤ 2-Real.sqrt 3 := by linarith
+  have hB : 0 ≤ (4+Real.sqrt 3)/13 := by positivity
+  have hG : 0 ≤ (9-Real.sqrt 3)/13 := by linarith
+  have hu := pe_signed_difference U ((52+Real.sqrt 3)/73) (2-Real.sqrt 3) hA hE
+  have hvd := pe_signed_difference v ((4+Real.sqrt 3)/13) ((9-Real.sqrt 3)/13) hB hG
+  rw [heU] at hu
+  change prefixEval U ((52+Real.sqrt 3)/73)-prefixEval U (2-Real.sqrt 3) =
+    _ / ((c+((52+Real.sqrt 3)/73)*(d-c))*(c+(2-Real.sqrt 3)*(d-c))) at hu
+  rw [heV1,heV2] at hvd
+  have hm := critical_metric hc hcd hdc
+  dsimp only at hm
+  rw [neg_one_pow_eq_pow_mod_two] at hu hvd
+  rw [← hp] at hvd
+  rw [hu,hvd]
+  split_ifs with hp0
+  · simpa only [hp0,pow_zero,mul_one] using hm
+  · have hp1 : U.length%2=1 := by omega
+    simp only [hp1,pow_one,mul_neg_one]
+    have hh := neg_lt_zero.mpr hm
+    convert hh using 1 <;> ring
+end Cross16Critical
+
+namespace Cross16Critical
+
+private theorem critical_width_order (U v : List ℕ+)
+    (hU : CDUnique15.GoodHead U) (hv : CDUnique15.GoodHead v)
+    (hnU : U ≠ []) (hnv : v ≠ [])
+    (ht : lowerWidth (U++[1])=lowerWidth (v++[2])) :
+    lowerWidth (v++[1]) < lowerWidth U ∧ lowerWidth (v++[2]) < lowerWidth U := by
+  have hgu := CDUnique15.goodHead_append U [1] hU hnU
+  have hgv := CDUnique15.goodHead_append v [2] hv hnv
+  have hh :
+      5*((lowerCD (v++[2])).1:ℝ) = -3*((lowerCD (U++[1])).1:ℝ)+4*(lowerCD (U++[1])).2 ∧
+      5*((lowerCD (v++[2])).2:ℝ) = 4*((lowerCD (U++[1])).1:ℝ)+3*(lowerCD (U++[1])).2 := by
+    rcases cd_classify (U++[1]) (v++[2]) ht with he | he
+    · have heq := CDUnique15.injective _ _ hgu hgv he
+      have heLast := congrArg List.getLast? heq
+      simp at heLast
+    · exact he
+  rw [cd_append_one,cd_append_two] at hh
+  simp only [Prod.fst,Prod.snd] at hh
+  push_cast at hh
+  let c : ℝ := (lowerCD U).2
+  let d : ℝ := (lowerCD U).1+(lowerCD U).2
+  have hc : 0 < c := q_pos U
+  have hcd : c ≤ d := by
+    have hh : (0:ℝ) ≤ (lowerCD U).1 := by positivity
+    dsimp [c,d]; linarith
+  have hdc : d ≤ 2*c := by
+    have hr := cd_fst_le_snd U
+    have hr' : ((lowerCD U).1:ℝ) ≤ (lowerCD U).2 := by exact_mod_cast hr
+    dsimp [c,d]; linarith
+  have heU : ((lowerCD U).1:ℝ)=d-c := by dsimp [c,d]; ring
+  have heV1 : ((lowerCD v).1:ℝ)=2*c-d := by dsimp [c,d]; linarith [hh.1,hh.2]
+  have heV2 : ((lowerCD v).2:ℝ)=(-3*c+4*d)/5 := by dsimp [c,d]; linarith [hh.1]
+  have hDC : 0 < 2*c-d := by
+    have hh := CDUnique15.cd_strict U hU
+    have hh' : ((lowerCD U).1:ℝ) < (lowerCD U).2 := by exact_mod_cast hh
+    dsimp [c,d]; linarith
+  have hd : 0 < d := lt_of_lt_of_le hc hcd
+  have hz := Real.sq_sqrt (by norm_num : (0:ℝ) ≤ 21)
+  have hz0 := Real.sqrt_nonneg (21:ℝ)
+  have hzlo : 4 < Real.sqrt (21:ℝ) := by nlinarith
+  have hzhi : Real.sqrt (21:ℝ) < 5 := by nlinarith
+  have hapos := tails.1.1
+  have hbpos := tails.2.1.1
+  have hnum := sub_pos.mpr tails.2.2
+  have hdenU : 0 < (((lowerCD U).1:ℝ)*lowerAlpha+(lowerCD U).2)*
+      (((lowerCD U).1:ℝ)*lowerBeta+(lowerCD U).2) := by
+    have hq := q_pos U
+    positivity
+  constructor
+  · rw [width_formula,width_formula]
+    apply div_lt_div_of_pos_left hnum hdenU
+    rw [cd_append_one]
+    simp only [Prod.fst,Prod.snd,Nat.cast_add]
+    rw [heV1,heV2,heU]
+    change ((d-c)*lowerAlpha+c)*((d-c)*lowerBeta+c) < _
+    have hid :
+        (((-3*c+4*d)/5*lowerAlpha+(2*c-d)+(-3*c+4*d)/5)*
+         ((-3*c+4*d)/5*lowerBeta+(2*c-d)+(-3*c+4*d)/5)) -
+        (((d-c)*lowerAlpha+c)*((d-c)*lowerBeta+c)) =
+        (2*c-d)*(32*c*Real.sqrt 21-72*c-11*d*Real.sqrt 21+81*d)/150 := by
+      dsimp [lowerAlpha,lowerBeta]
+      linear_combination (-((2*c-d)*(8*c-9*d))/300)*hz
+    have hfac : 0 < 32*c*Real.sqrt 21-72*c-11*d*Real.sqrt 21+81*d := by
+      have h1 : 0 < (32*Real.sqrt 21-72)*c := mul_pos (by linarith) hc
+      have h2 : 0 < (81-11*Real.sqrt 21)*d := mul_pos (by linarith) hd
+      linarith only [h1,h2]
+    have hpos := div_pos (mul_pos hDC hfac) (by norm_num : (0:ℝ)<150)
+    linarith only [hid,hpos]
+  · rw [← ht,width_formula,width_formula]
+    apply div_lt_div_of_pos_left hnum hdenU
+    rw [cd_append_one]
+    simp only [Prod.fst,Prod.snd,Nat.cast_add]
+    have hq := q_pos U
+    have hc0 : (0:ℝ) ≤ (lowerCD U).1 := by positivity
+    have ha0 := tails.1.1
+    have hb0 := tails.2.1.1
+    have ha1 := tails.1.2
+    have hb1 := tails.2.1.2
+    have hg : ((lowerCD U).1:ℝ) < (lowerCD U).2 := by
+      exact_mod_cast CDUnique15.cd_strict U hU
+    have hcp : (0:ℝ) < (lowerCD U).1 := by exact_mod_cast CDUnique15.fst_pos U hnU
+    have hA : ((lowerCD U).1:ℝ)*lowerAlpha+(lowerCD U).2 <
+        ((lowerCD U).2:ℝ)*lowerAlpha+((lowerCD U).1+(lowerCD U).2) := by
+      nlinarith only [mul_nonneg (sub_nonneg.mpr hg.le) ha0,hcp]
+    have hB : ((lowerCD U).1:ℝ)*lowerBeta+(lowerCD U).2 <
+        ((lowerCD U).2:ℝ)*lowerBeta+((lowerCD U).1+(lowerCD U).2) := by
+      nlinarith only [mul_nonneg (sub_nonneg.mpr hg.le) hb0,hcp]
+    apply mul_lt_mul hA hB.le
+    · positivity
+    · positivity
+end Cross16Critical
+namespace Cross16Critical
+private theorem critical_tails :
+    prefixEval [1,2,1,3] lowerTau = (52+Real.sqrt 3)/73 ∧
+    prefixEval [2,3] lowerTau = (4+Real.sqrt 3)/13 ∧
+    prefixEval [1,1,3] lowerTau = (9-Real.sqrt 3)/13 := by
+  have hz := radical3.1
+  have hp := radical3.2.1
+  have hh := radical3.2.2
+  have hF : prefixEval [1,2,1,3] lowerTau = 1/(1+prefixEval [2,1,3] lowerTau) := by norm_num [prefixEval]
+  have hG : prefixEval [1,1,3] lowerTau = 1/(1+1/(1+prefixEval [3] lowerTau)) := by norm_num [prefixEval]
+  constructor
+  · rw [hF,endpoint_tails.2.1]
+    rw [div_eq_iff (show 1+(15-Real.sqrt 3)/37 ≠ 0 by linarith)]
+    field_simp
+    nlinarith [hz]
+  constructor
+  · change 1 / (2 + prefixEval [3] lowerTau) = _
+    rw [endpoint_tails.1]
+    rw [div_eq_iff (show 2+(2-Real.sqrt 3) ≠ 0 by linarith)]
+    field_simp
+    nlinarith [hz]
+  · rw [hG,endpoint_tails.1]
+    have hi : (1:ℝ)/(1+(2-Real.sqrt 3))=(3+Real.sqrt 3)/6 := by
+      field_simp [show 1+(2-Real.sqrt 3) ≠ 0 by linarith]
+      nlinarith [hz]
+    rw [hi]
+    rw [div_eq_iff (show 1+(3+Real.sqrt 3)/6 ≠ 0 by linarith)]
+    field_simp
+    nlinarith [hz]
+
+private theorem critical_tie_cross (U v : List ℕ+)
+    (hU : CDUnique15.GoodHead U) (hv : CDUnique15.GoodHead v)
+    (hnU : U ≠ []) (hnv : v ≠ [])
+    (hp : U.length%2=v.length%2)
+    (hshort : ¬ lowerEnds U [3,1])
+    (ht : lowerWidth (U++[1])=lowerWidth (v++[2])) :
+    if U.length%2=0 then
+      lowerEndpoint (v++[1],U) false < lowerEndpoint (v++[2],U) true
+    else lowerEndpoint (v++[2],U) false < lowerEndpoint (v++[1],U) true := by
+  have hw := critical_width_order U v hU hv hnU hnv ht
+  have hd := critical_tie_delta U v hU hv hnU hnv hp ht
+  dsimp only at hd
+  have hns := low_not_short (U++[1]) (v++[2])
+    (CDUnique15.goodHead_append _ _ hU hnU) (CDUnique15.goodHead_append _ _ hv hnv)
+    ⟨U,rfl⟩ ⟨v,rfl⟩ ht
+  have hmix1 : (v++[1]).length%2 ≠ U.length%2 := by simp; omega
+  have hmix2 : (v++[2]).length%2 ≠ U.length%2 := by simp; omega
+  have hv1 : ¬ lowerWidth U ≤ lowerWidth (v++[1]) := not_le_of_gt hw.1
+  have hv2 : ¬ lowerWidth U ≤ lowerWidth (v++[2]) := not_le_of_gt hw.2
+  have hshortv : ¬ lowerEnds (v++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  rcases Nat.mod_two_eq_zero_or_one U.length with hU0 | hU1
+  · have hv0 : v.length%2=0 := hp ▸ hU0
+    have hxp : (U++[1]).length%2=1 := by simp [hU0,Nat.add_mod]
+    have hyp : (v++[2]).length%2=1 := by simp [hv0,Nat.add_mod]
+    have hh := low_words_upper U v hxp hyp hns ht
+    simp only [hU0,if_true] at hd ⊢
+    have hA : lowerEndpoint (v++[1],U) false =
+        4+prefixEval (v++[1,1,3]) lowerTau+prefixEval (U++[3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix1,hv1,if_false,hU0,decide_true,
+        Bool.false_eq_true,if_false]
+      simp [lowerNaturalWords,lowerNaturalShort,lowerEndpointSuffix,hU0,hv0,
+        Nat.add_mod,hshort,hshortv,List.append_assoc]
+    have hB : lowerEndpoint (v++[2],U) true =
+        4+prefixEval (v++[2,3]) lowerTau+prefixEval (U++[1,2,1,3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix2,hv2,if_false,hU0,decide_true,if_true]
+      rw [← show lowerEndpointWords (v++[2],U++[1]) true = lowerEqualWords (v++[2],U++[1]) true by
+        unfold lowerEndpointWords
+        rw [if_pos (hyp.trans hxp.symm)]]
+      rw [hh.2]
+      simp [List.append_assoc, Nat.add_mod, hU0, hv0]
+    rw [hA,hB]
+    rw [pe_append v [1,1,3],pe_append U [3],pe_append v [2,3],pe_append U [1,2,1,3]]
+    rw [endpoint_tails.1,critical_tails.1,critical_tails.2.1,critical_tails.2.2]
+    linarith
+  · have hv1p : v.length%2=1 := hp ▸ hU1
+    have hxp : (U++[1]).length%2=0 := by simp [hU1,Nat.add_mod]
+    have hyp : (v++[2]).length%2=0 := by simp [hv1p,Nat.add_mod]
+    have hh := low_words_lower U v hxp hyp hns ht
+    have hU0 : ¬ U.length%2=0 := by omega
+    simp only [hU0,if_false] at hd ⊢
+    have hA : lowerEndpoint (v++[1],U) true =
+        4+prefixEval (v++[1,1,3]) lowerTau+prefixEval (U++[3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix1,hv1,if_false,hU0,decide_false,
+        Bool.true_eq_false,if_false]
+      simp [lowerNaturalWords,lowerNaturalShort,lowerEndpointSuffix,hU1,hv1p,
+        Nat.add_mod,hshort,hshortv,List.append_assoc]
+    have hB : lowerEndpoint (v++[2],U) false =
+        4+prefixEval (v++[2,3]) lowerTau+prefixEval (U++[1,2,1,3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix2,hv2,if_false,hU0,decide_false,if_true]
+      rw [← show lowerEndpointWords (v++[2],U++[1]) false = lowerEqualWords (v++[2],U++[1]) false by
+        unfold lowerEndpointWords
+        rw [if_pos (hyp.trans hxp.symm)]]
+      rw [hh.2]
+      simp [List.append_assoc, Nat.add_mod, hU1, hv1p]
+    rw [hA,hB]
+    rw [pe_append v [1,1,3],pe_append U [3],pe_append v [2,3],pe_append U [1,2,1,3]]
+    rw [endpoint_tails.1,critical_tails.1,critical_tails.2.1,critical_tails.2.2]
+    linarith
+end Cross16Critical
+namespace Cross16Critical
+
+private theorem low_tie_not_short (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hu1 : lowerEnds u [1]) (hv2 : lowerEnds v [2])
+    (hw : lowerWidth u = lowerWidth v) : ¬ lowerEnds u [3,1] :=
+  low_not_short u v hu hv hu1 hv2 hw
+end Cross16Critical
+
+namespace Cross16Critical
+private theorem critical_metric_short {c d : ℝ} (hc : 0 < c) (hcd : c ≤ d)
+    (hdc : d ≤ 2*c) :
+    let z := Real.sqrt 3
+    let E := (15-z)/37
+    let A := (52+z)/73
+    let B := (4+z)/13
+    let G := (9-z)/13
+    let C := (-3*c+4*d)/5
+    0 < (A-E)/((c+A*(d-c))*(c+E*(d-c))) +
+      (B-G)/((C+B*(2*c-d))*(C+G*(2*c-d))) := by
+  dsimp only
+  have hz := radical3.1
+  have hz0 := radical3.2.1
+  have hzlo : (171/100:ℝ) < Real.sqrt 3 := by nlinarith
+  have hzhi : Real.sqrt 3 < (18/10:ℝ) := by nlinarith
+  have he : 0 ≤ ((15-Real.sqrt 3)/37) := by linarith
+  have ha : 0 ≤ (52+Real.sqrt 3)/73 := by positivity
+  have hb : 0 ≤ (4+Real.sqrt 3)/13 := by positivity
+  have hg : 0 ≤ (9-Real.sqrt 3)/13 := by linarith
+  have hdc0 : 0 ≤ d-c := by linarith
+  have hcd0 : 0 ≤ 2*c-d := by linarith
+  have hC : 0 < (-3*c+4*d)/5 := by linarith
+  have hden1 : 0 < (c+(52+Real.sqrt 3)/73*(d-c))*(c+(((15-Real.sqrt 3)/37))*(d-c)) := by positivity
+  have hden2 : 0 < ((-3*c+4*d)/5+(4+Real.sqrt 3)/13*(2*c-d))*
+      ((-3*c+4*d)/5+(9-Real.sqrt 3)/13*(2*c-d)) := by positivity
+  rw [div_add_div _ _ (ne_of_gt hden1) (ne_of_gt hden2), div_pos_iff]
+  left
+  constructor
+  · have hid :
+      ((52+Real.sqrt 3)/73-(((15-Real.sqrt 3)/37)))*
+        (((-3*c+4*d)/5+(4+Real.sqrt 3)/13*(2*c-d))*
+         ((-3*c+4*d)/5+(9-Real.sqrt 3)/13*(2*c-d))) +
+      ((4+Real.sqrt 3)/13-(9-Real.sqrt 3)/13)*
+        ((c+(52+Real.sqrt 3)/73*(d-c))*(c+(((15-Real.sqrt 3)/37))*(d-c))) =
+      ((687085*Real.sqrt 3-789246)*c^2 +
+       (689290*Real.sqrt 3-864094)*c*d +
+       (685190*Real.sqrt 3-1170004)*d^2)/11411725 := by
+      linear_combination -(466*c^2*Real.sqrt 3+1077*c^2-492*c*d*Real.sqrt 3-
+        1974*c*d+136*d^2*Real.sqrt 3+1176*d^2)/456469 * hz
+    suffices 0 < ((687085*Real.sqrt 3-789246)*c^2 +
+       (689290*Real.sqrt 3-864094)*c*d +
+       (685190*Real.sqrt 3-1170004)*d^2)/11411725 by linarith only [hid,this]
+    apply div_pos _ (by norm_num)
+    have h1 : 0 < (687085*Real.sqrt 3-789246)*c^2 :=
+      mul_pos (by linarith) (sq_pos_of_pos hc)
+    have h2 : 0 ≤ (689290*Real.sqrt 3-864094)*c*d := by
+      apply mul_nonneg (mul_nonneg (by linarith) hc.le) (by linarith)
+    have h3 : 0 ≤ (685190*Real.sqrt 3-1170004)*d^2 :=
+      mul_nonneg (by linarith) (sq_nonneg _)
+    linarith
+  · exact mul_pos hden1 hden2
+private theorem critical_tie_delta_short (U v : List ℕ+)
+    (hU : CDUnique15.GoodHead U) (hv : CDUnique15.GoodHead v)
+    (hnU : U ≠ []) (hnv : v ≠ [])
+    (hp : U.length%2=v.length%2)
+    (ht : lowerWidth (U++[1])=lowerWidth (v++[2])) :
+    let z := Real.sqrt 3
+    let delta := prefixEval U ((52+z)/73) - prefixEval U ((15-z)/37) +
+      (prefixEval v ((4+z)/13)-prefixEval v ((9-z)/13))
+    if U.length%2=0 then 0 < delta else delta < 0 := by
+  dsimp only
+  have hgu := CDUnique15.goodHead_append U [1] hU hnU
+  have hgv := CDUnique15.goodHead_append v [2] hv hnv
+  have hh :
+      5*((lowerCD (v++[2])).1:ℝ) = -3*((lowerCD (U++[1])).1:ℝ)+4*(lowerCD (U++[1])).2 ∧
+      5*((lowerCD (v++[2])).2:ℝ) = 4*((lowerCD (U++[1])).1:ℝ)+3*(lowerCD (U++[1])).2 := by
+    rcases cd_classify (U++[1]) (v++[2]) ht with he | he
+    · have heq := CDUnique15.injective _ _ hgu hgv he
+      have heLast := congrArg List.getLast? heq
+      simp at heLast
+    · exact he
+  rw [cd_append_one,cd_append_two] at hh
+  simp only [Prod.fst,Prod.snd] at hh
+  push_cast at hh
+  let c : ℝ := (lowerCD U).2
+  let d : ℝ := (lowerCD U).1+(lowerCD U).2
+  have hc : 0 < c := q_pos U
+  have hcd : c ≤ d := by
+    have hh : (0:ℝ) ≤ (lowerCD U).1 := by positivity
+    dsimp [c,d]; linarith
+  have hdc : d ≤ 2*c := by
+    have hr := cd_fst_le_snd U
+    have hr' : ((lowerCD U).1:ℝ) ≤ (lowerCD U).2 := by exact_mod_cast hr
+    dsimp [c,d]; linarith
+  have heU : ((lowerCD U).1:ℝ)=d-c := by dsimp [c,d]; ring
+  have heV1 : ((lowerCD v).1:ℝ)=2*c-d := by dsimp [c,d]; linarith [hh.1,hh.2]
+  have heV2 : ((lowerCD v).2:ℝ)=(-3*c+4*d)/5 := by dsimp [c,d]; linarith [hh.1]
+  have hz0 := radical3.2.1
+  have hzhi := radical3.2.2
+  have hA : 0 ≤ (52+Real.sqrt 3)/73 := by positivity
+  have hE : 0 ≤ ((15-Real.sqrt 3)/37) := by linarith
+  have hB : 0 ≤ (4+Real.sqrt 3)/13 := by positivity
+  have hG : 0 ≤ (9-Real.sqrt 3)/13 := by linarith
+  have hu := pe_signed_difference U ((52+Real.sqrt 3)/73) (((15-Real.sqrt 3)/37)) hA hE
+  have hvd := pe_signed_difference v ((4+Real.sqrt 3)/13) ((9-Real.sqrt 3)/13) hB hG
+  rw [heU] at hu
+  change prefixEval U ((52+Real.sqrt 3)/73)-prefixEval U (((15-Real.sqrt 3)/37)) =
+    _ / ((c+((52+Real.sqrt 3)/73)*(d-c))*(c+(((15-Real.sqrt 3)/37))*(d-c))) at hu
+  rw [heV1,heV2] at hvd
+  have hm := critical_metric_short hc hcd hdc
+  dsimp only at hm
+  rw [neg_one_pow_eq_pow_mod_two] at hu hvd
+  rw [← hp] at hvd
+  rw [hu,hvd]
+  split_ifs with hp0
+  · simpa only [hp0,pow_zero,mul_one] using hm
+  · have hp1 : U.length%2=1 := by omega
+    simp only [hp1,pow_one,mul_neg_one]
+    have hh := neg_lt_zero.mpr hm
+    convert hh using 1 <;> ring
+private theorem critical_tie_cross_short (U v : List ℕ+)
+    (hU : CDUnique15.GoodHead U) (hv : CDUnique15.GoodHead v)
+    (hnU : U ≠ []) (hnv : v ≠ [])
+    (hp : U.length%2=v.length%2)
+    (hshort : lowerEnds U [3,1])
+    (ht : lowerWidth (U++[1])=lowerWidth (v++[2])) :
+    if U.length%2=0 then
+      lowerEndpoint (v++[1],U) false < lowerEndpoint (v++[2],U) true
+    else lowerEndpoint (v++[2],U) false < lowerEndpoint (v++[1],U) true := by
+  have hw := critical_width_order U v hU hv hnU hnv ht
+  have hd := critical_tie_delta_short U v hU hv hnU hnv hp ht
+  dsimp only at hd
+  have hns := low_not_short (U++[1]) (v++[2])
+    (CDUnique15.goodHead_append _ _ hU hnU) (CDUnique15.goodHead_append _ _ hv hnv)
+    ⟨U,rfl⟩ ⟨v,rfl⟩ ht
+  have hmix1 : (v++[1]).length%2 ≠ U.length%2 := by simp; omega
+  have hmix2 : (v++[2]).length%2 ≠ U.length%2 := by simp; omega
+  have hv1 : ¬ lowerWidth U ≤ lowerWidth (v++[1]) := not_le_of_gt hw.1
+  have hv2 : ¬ lowerWidth U ≤ lowerWidth (v++[2]) := not_le_of_gt hw.2
+  have hshortv : ¬ lowerEnds (v++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  rcases Nat.mod_two_eq_zero_or_one U.length with hU0 | hU1
+  · have hv0 : v.length%2=0 := hp ▸ hU0
+    have hxp : (U++[1]).length%2=1 := by simp [hU0,Nat.add_mod]
+    have hyp : (v++[2]).length%2=1 := by simp [hv0,Nat.add_mod]
+    have hh := low_words_upper U v hxp hyp hns ht
+    simp only [hU0,if_true] at hd ⊢
+    have hA : lowerEndpoint (v++[1],U) false =
+        4+prefixEval (v++[1,1,3]) lowerTau+prefixEval (U++[2,1,3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix1,hv1,if_false,hU0,decide_true,
+        Bool.false_eq_true,if_false]
+      simp [lowerNaturalWords,lowerNaturalShort,lowerEndpointSuffix,hU0,hv0,
+        Nat.add_mod,hshort,hshortv,List.append_assoc]
+    have hB : lowerEndpoint (v++[2],U) true =
+        4+prefixEval (v++[2,3]) lowerTau+prefixEval (U++[1,2,1,3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix2,hv2,if_false,hU0,decide_true,if_true]
+      rw [← show lowerEndpointWords (v++[2],U++[1]) true = lowerEqualWords (v++[2],U++[1]) true by
+        unfold lowerEndpointWords
+        rw [if_pos (hyp.trans hxp.symm)]]
+      rw [hh.2]
+      simp [List.append_assoc, Nat.add_mod, hU0, hv0]
+    rw [hA,hB]
+    rw [pe_append v [1,1,3],pe_append U [2,1,3],pe_append v [2,3],pe_append U [1,2,1,3]]
+    rw [endpoint_tails.2.1,critical_tails.1,critical_tails.2.1,critical_tails.2.2]
+    linarith
+  · have hv1p : v.length%2=1 := hp ▸ hU1
+    have hxp : (U++[1]).length%2=0 := by simp [hU1,Nat.add_mod]
+    have hyp : (v++[2]).length%2=0 := by simp [hv1p,Nat.add_mod]
+    have hh := low_words_lower U v hxp hyp hns ht
+    have hU0 : ¬ U.length%2=0 := by omega
+    simp only [hU0,if_false] at hd ⊢
+    have hA : lowerEndpoint (v++[1],U) true =
+        4+prefixEval (v++[1,1,3]) lowerTau+prefixEval (U++[2,1,3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix1,hv1,if_false,hU0,decide_false,
+        Bool.true_eq_false,if_false]
+      simp [lowerNaturalWords,lowerNaturalShort,lowerEndpointSuffix,hU1,hv1p,
+        Nat.add_mod,hshort,hshortv,List.append_assoc]
+    have hB : lowerEndpoint (v++[2],U) false =
+        4+prefixEval (v++[2,3]) lowerTau+prefixEval (U++[1,2,1,3]) lowerTau := by
+      unfold lowerEndpoint lowerEndpointWords
+      simp only [Prod.fst,Prod.snd,if_neg hmix2,hv2,if_false,hU0,decide_false,if_true]
+      rw [← show lowerEndpointWords (v++[2],U++[1]) false = lowerEqualWords (v++[2],U++[1]) false by
+        unfold lowerEndpointWords
+        rw [if_pos (hyp.trans hxp.symm)]]
+      rw [hh.2]
+      simp [List.append_assoc, Nat.add_mod, hU1, hv1p]
+    rw [hA,hB]
+    rw [pe_append v [1,1,3],pe_append U [2,1,3],pe_append v [2,3],pe_append U [1,2,1,3]]
+    rw [endpoint_tails.2.1,critical_tails.1,critical_tails.2.1,critical_tails.2.2]
+    linarith
+
+private theorem critical_tie_cross_general (U v : List ℕ+)
+    (hU : CDUnique15.GoodHead U) (hv : CDUnique15.GoodHead v)
+    (hnU : U ≠ []) (hnv : v ≠ [])
+    (hp : U.length%2=v.length%2)
+    (ht : lowerWidth (U++[1])=lowerWidth (v++[2])) :
+    if U.length%2=0 then
+      lowerEndpoint (v++[1],U) false < lowerEndpoint (v++[2],U) true
+    else lowerEndpoint (v++[2],U) false < lowerEndpoint (v++[1],U) true := by
+  by_cases hs : lowerEnds U [3,1]
+  · exact critical_tie_cross_short U v hU hv hnU hnv hp hs ht
+  · exact critical_tie_cross U v hU hv hnU hnv hp hs ht
+end Cross16Critical
+
+-- Source: agents.p97_16.ChildNontie
+open Freiman
+set_option maxHeartbeats 0
+
+namespace P97Child
+
+end P97Child
+
+-- Source: agents.cross16.One
+open Freiman
+namespace Cross16
+set_option maxHeartbeats 0
+
+private theorem ratio_one_gt_half (u : List ℕ+) (hu : CDUnique15.GoodHead u) :
+    (1/2:ℝ) < lowerRatio (u++[1]) := by
+  have hs := CDUnique15.cd_strict u hu
+  have hd := CDUnique15.snd_pos u
+  have hr : lowerRatio u < 1 := by
+    rw [lowerRatio,div_lt_one (by exact_mod_cast hd)]
+    exact_mod_cast hs
+  have hr0 : 0 ≤ lowerRatio u := by unfold lowerRatio; positivity
+  rw [lowerEarlyTerminal_ratio_append]
+  norm_num only [List.reverse_singleton, prefixEval, PNat.val_ofNat, Nat.cast_one]
+  rw [div_lt_div_iff₀ (by norm_num) (by linarith)]
+  linarith
+
+end Cross16
+namespace Cross16
+
+end Cross16
+namespace Cross16
+
+private theorem two_one_virtual_nontie (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ [])
+    (hw : lowerWidth (u++[2]) < lowerWidth v) :
+    lowerWidth ((u++[2])++[1]) ≠ lowerWidth (v++[1]) := by
+  intro ht
+  have hgu := CDUnique15.goodHead_append u [2] hu hnu
+  have hguu := CDUnique15.goodHead_append (u++[2]) [1] hgu (by simp)
+  have hgv := CDUnique15.goodHead_append v [1] hv hnv
+  have hc := M7TieWidth14.cd_eq_of_width_same_side _ _ ht
+    (Or.inl ⟨ratio_one_gt_half (u++[2]) hgu,ratio_one_gt_half v hv⟩)
+  have hsame := CDUnique15.injective _ _ hguu hgv hc
+  have heq : u++[2]=v := List.append_cancel_right hsame
+  exact hw.ne (congrArg lowerWidth heq)
+end Cross16
+
+-- Source: agents.cross16.Bounds
+
+open Freiman
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+
+namespace Cross16Bounds
+
+private theorem cd_eq (w : List ℕ+) :
+    lowerCD w = (wordContinuantPrevQ w, wordContinuantQ w) := by
+  apply M7TieWidth14.cd_eq <;> assumption
+
+private theorem q_pos (w : List ℕ+) : 0 < ((lowerCD w).2 : ℝ) := by
+  apply M7TieWidth14.q_pos <;> assumption
+
+private theorem tails :
+    lowerAlpha ∈ Set.Icc (0 : ℝ) 1 ∧
+    lowerBeta ∈ Set.Icc (0 : ℝ) 1 ∧ lowerAlpha < lowerBeta := by
+  apply M7TieWidth14.tails <;> assumption
+
+private theorem width_formula (w : List ℕ+) :
+    lowerWidth w = (lowerBeta - lowerAlpha) /
+      ((((lowerCD w).1 : ℝ) * lowerAlpha + (lowerCD w).2) *
+       (((lowerCD w).1 : ℝ) * lowerBeta + (lowerCD w).2)) := by
+  apply M7LowTies15.width_formula <;> assumption
+
+private theorem denom_pos (w : List ℕ+) :
+    0 < ((((lowerCD w).1:ℝ)*lowerAlpha+(lowerCD w).2)*
+       (((lowerCD w).1:ℝ)*lowerBeta+(lowerCD w).2)) := by
+  have ha := tails.1.1
+  have hb := tails.2.1.1
+  have hq := q_pos w
+  positivity
+
+private theorem denom_bounds (c d : ℝ) (hc : 0 ≤ c) (hd : 0 < d) :
+    2*((d*lowerAlpha+c+3*d)*(d*lowerBeta+c+3*d)) <
+      25*((c*lowerAlpha+d)*(c*lowerBeta+d)) ∧
+    18*((c*lowerAlpha+d)*(c*lowerBeta+d)) <
+      (((c+d)*lowerAlpha+3*c+4*d)*((c+d)*lowerBeta+3*c+4*d)) := by
+  have hz := Real.sq_sqrt (by norm_num : (0:ℝ)≤21)
+  have hz0 := Real.sqrt_nonneg (21:ℝ)
+  have hlo : 4 < Real.sqrt (21:ℝ) := by nlinarith
+  have hhi : Real.sqrt (21:ℝ) < (14/3:ℝ) := by nlinarith
+  have hs1 : 0 < (14-3*Real.sqrt 21)*d^2 :=
+    mul_pos (by linarith) (sq_pos_of_pos hd)
+  have hs2 : 0 ≤ ((121-25*Real.sqrt 21)/2)*c^2 :=
+    mul_nonneg (by linarith) (sq_nonneg c)
+  have hs3 : 0 ≤ ((46*Real.sqrt 21-174)/3)*c*d :=
+    mul_nonneg (mul_nonneg (by linarith) hc) hd.le
+  have ht1 : 0 < ((13*Real.sqrt 21-45)/6)*d^2 :=
+    mul_pos (by linarith) (sq_pos_of_pos hd)
+  have ht2 : 0 ≤ ((21*Real.sqrt 21-79)/2)*c^2 :=
+    mul_nonneg (by linarith) (sq_nonneg c)
+  have ht3 : 0 ≤ ((153-25*Real.sqrt 21)/3)*c*d :=
+    mul_nonneg (mul_nonneg (by linarith) hc) hd.le
+  have hid1 :
+      25*((c*lowerAlpha+d)*(c*lowerBeta+d)) -
+      2*((d*lowerAlpha+c+3*d)*(d*lowerBeta+c+3*d)) =
+      ((121-25*Real.sqrt 21)/2)*c^2 +
+      ((46*Real.sqrt 21-174)/3)*c*d +(14-3*Real.sqrt 21)*d^2 := by
+    dsimp [lowerAlpha,lowerBeta]
+    linear_combination ((25*c^2-2*d^2)/12)*hz
+  have hid2 :
+      (((c+d)*lowerAlpha+3*c+4*d)*((c+d)*lowerBeta+3*c+4*d)) -
+      18*((c*lowerAlpha+d)*(c*lowerBeta+d)) =
+      ((21*Real.sqrt 21-79)/2)*c^2 +
+      ((153-25*Real.sqrt 21)/3)*c*d +((13*Real.sqrt 21-45)/6)*d^2 := by
+    dsimp [lowerAlpha,lowerBeta]
+    linear_combination ((-17*c^2+2*c*d+d^2)/12)*hz
+  constructor <;> nlinarith [hid1,hid2]
+
+private theorem width_bounds (w : List ℕ+) :
+    2*lowerWidth w < 25*lowerWidth (w++[3]) ∧
+    18*lowerWidth (w++[1,3]) < lowerWidth w := by
+  have hw := denom_bounds ((lowerCD w).1:ℝ) (lowerCD w).2 (by positivity) (q_pos w)
+  have hnum := sub_pos.mpr tails.2.2
+  have hd := denom_pos w
+  have hd3 := denom_pos (w++[3])
+  have hd13 := denom_pos (w++[1,3])
+  have he3 : lowerCD (w++[3]) = ((lowerCD w).2,(lowerCD w).1+3*(lowerCD w).2) := by simp [lowerCD,List.foldl_append]
+  have he13 : lowerCD (w++[1,3]) = ((lowerCD w).1+(lowerCD w).2,3*(lowerCD w).1+4*(lowerCD w).2) := by
+    simp [lowerCD,List.foldl_append]; omega
+  constructor
+  · rw [width_formula,width_formula,← mul_div_assoc,← mul_div_assoc]
+    apply (div_lt_div_iff₀ hd hd3).2
+    rw [he3]
+    simp only [Prod.fst,Prod.snd,Nat.cast_add,Nat.cast_mul,Nat.cast_ofNat]
+    have hh := mul_pos hnum (sub_pos.mpr hw.1)
+    nlinarith
+  · rw [width_formula,width_formula,← mul_div_assoc]
+    apply (div_lt_div_iff₀ hd13 hd).2
+    rw [he13]
+    simp only [Prod.fst,Prod.snd,Nat.cast_add,Nat.cast_mul,Nat.cast_ofNat]
+    have hh := mul_pos hnum (sub_pos.mpr hw.2)
+    nlinarith
+
+private theorem tied_three_threshold (u v : List ℕ+) (ht : lowerWidth u=lowerWidth v) :
+    (7/5:ℝ)*lowerWidth (u++[1,3]) < lowerWidth (v++[3]) := by
+  have hu := width_bounds u
+  have hv := width_bounds v
+  have hw : 0 ≤ lowerWidth u := abs_nonneg _
+  nlinarith [hu.2,hv.1,ht]
+
+private theorem append_one_lt (w : List ℕ+) : lowerWidth (w++[1]) < lowerWidth w := by
+  have hnum := sub_pos.mpr tails.2.2
+  have hd := denom_pos w
+  have hde := denom_pos (w++[1])
+  have hq := q_pos w
+  have hc : (0:ℝ) ≤ (lowerCD w).1 := by positivity
+  have hz := Real.sq_sqrt (by norm_num : (0:ℝ)≤21)
+  have hz0 := Real.sqrt_nonneg (21:ℝ)
+  have hzlo : 3 < Real.sqrt (21:ℝ) := by nlinarith
+  have ha : 0 < lowerAlpha := by dsimp [lowerAlpha]; linarith
+  have hb : 0 < lowerBeta := by dsimp [lowerBeta]; linarith
+  have ha1 := tails.1.2
+  have hb1 := tails.2.1.2
+  rw [width_formula,width_formula]
+  apply div_lt_div_of_pos_left hnum hd
+  have he : lowerCD (w++[1]) = ((lowerCD w).2,(lowerCD w).1+(lowerCD w).2) := by
+    simp [lowerCD,List.foldl_append]
+  rw [he]
+  simp only [Prod.fst,Prod.snd,Nat.cast_add]
+  have hA : ((lowerCD w).1:ℝ)*lowerAlpha+(lowerCD w).2 <
+      ((lowerCD w).2:ℝ)*lowerAlpha+((lowerCD w).1+(lowerCD w).2) := by
+    nlinarith [mul_pos hq ha,mul_nonneg hc (sub_nonneg.mpr ha1)]
+  have hB : ((lowerCD w).1:ℝ)*lowerBeta+(lowerCD w).2 <
+      ((lowerCD w).2:ℝ)*lowerBeta+((lowerCD w).1+(lowerCD w).2) := by
+    nlinarith [mul_pos hq hb,mul_nonneg hc (sub_nonneg.mpr hb1)]
+  apply mul_lt_mul hA hB.le <;> positivity
+
+end Cross16Bounds
+
+
+namespace Cross16Bounds
+private theorem append_digit_lt (w : List ℕ+) (k : ℕ+) : lowerWidth (w++[k]) < lowerWidth w := by
+  have hnum := sub_pos.mpr tails.2.2
+  have hd := denom_pos w
+  have hde := denom_pos (w++[k])
+  have hq := q_pos w
+  have hk : (1:ℝ) ≤ (k:ℕ) := by exact_mod_cast k.property
+  have hk0 : 0 ≤ ((k:ℕ):ℝ)-1 := by linarith
+  have hc : (0:ℝ) ≤ (lowerCD w).1 := by positivity
+  have hz := Real.sq_sqrt (by norm_num : (0:ℝ)≤21)
+  have hz0 := Real.sqrt_nonneg (21:ℝ)
+  have hzlo : 3 < Real.sqrt (21:ℝ) := by nlinarith
+  have ha : 0 < lowerAlpha := by dsimp [lowerAlpha]; linarith
+  have hb : 0 < lowerBeta := by dsimp [lowerBeta]; linarith
+  have ha1 := tails.1.2
+  have hb1 := tails.2.1.2
+  rw [width_formula,width_formula]
+  apply div_lt_div_of_pos_left hnum hd
+  have he : lowerCD (w++[k]) = ((lowerCD w).2,(lowerCD w).1+(k:ℕ)*(lowerCD w).2) := by
+    simp [lowerCD,List.foldl_append]
+  rw [he]
+  simp only [Prod.fst,Prod.snd,Nat.cast_add,Nat.cast_mul]
+  have hA : ((lowerCD w).1:ℝ)*lowerAlpha+(lowerCD w).2 <
+      ((lowerCD w).2:ℝ)*lowerAlpha+((lowerCD w).1+((k:ℕ):ℝ)*(lowerCD w).2) := by
+    nlinarith [mul_pos hq ha,mul_nonneg hc (sub_nonneg.mpr ha1),mul_nonneg hk0 hq.le]
+  have hB : ((lowerCD w).1:ℝ)*lowerBeta+(lowerCD w).2 <
+      ((lowerCD w).2:ℝ)*lowerBeta+((lowerCD w).1+((k:ℕ):ℝ)*(lowerCD w).2) := by
+    nlinarith [mul_pos hq hb,mul_nonneg hc (sub_nonneg.mpr hb1),mul_nonneg hk0 hq.le]
+  apply mul_lt_mul hA hB.le <;> positivity
+
+private theorem width_lt_of_cd (a b : List ℕ+)
+    (hc : ((lowerCD a).1:ℝ) ≤ (lowerCD b).1)
+    (hd : ((lowerCD a).2:ℝ) < (lowerCD b).2) :
+    lowerWidth b < lowerWidth a := by
+  rw [width_formula,width_formula]
+  apply div_lt_div_of_pos_left (sub_pos.mpr tails.2.2) (denom_pos a)
+  have h1 := add_lt_add_of_le_of_lt (mul_le_mul_of_nonneg_right hc tails.1.1) hd
+  have h2 := add_lt_add_of_le_of_lt (mul_le_mul_of_nonneg_right hc tails.2.1.1) hd
+  apply mul_lt_mul h1 h2.le
+  · have ha := tails.1.1
+    have hb := tails.2.1.1
+    have hq := q_pos a
+    positivity
+  · have ha := tails.1.1
+    have hb := tails.2.1.1
+    have hq := q_pos b
+    positivity
+
+end Cross16Bounds
+
+-- Source: agents.long16.Complement
+
+open Freiman
+set_option maxHeartbeats 0
+
+namespace Long16Complement
+
+private theorem append_one_swap (w : List ℕ+) (upper : Bool) :
+    lowerEndpoint (w++[1],w) upper = lowerEndpoint (w,w++[1]) upper := by
+  have hlt := Cross16Bounds.append_one_lt w
+  unfold lowerEndpoint lowerEndpointWords
+  have hp : (w++[1]).length%2 ≠ w.length%2 := by simp; omega
+  rw [if_neg hp,if_neg hp.symm]
+  have hn := not_le_of_gt hlt
+  simp only [hlt.le,hn,if_true,if_false]
+  by_cases hu : upper = decide (w.length%2=0)
+  · simp only [if_pos hu]
+  · simp only [if_neg hu,lowerNaturalWords]; ring
+
+private theorem one_pair_swap (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (upper : Bool) :
+    lowerEndpoint (u++[1],v++[1]) upper = lowerEndpoint (v++[1],u++[1]) upper := by
+  have hgu := CDUnique15.goodHead_append u [1] hu hnu
+  have hgv := CDUnique15.goodHead_append v [1] hv hnv
+  have hdir : lowerWidth (u++[1]) ≠ lowerWidth (v++[1]) := by
+    apply CDUnique15.width_ne_same_side_of_parity _ _ hgu hgv
+    · simp; omega
+    · exact Or.inl ⟨Cross16.ratio_one_gt_half u hu,Cross16.ratio_one_gt_half v hv⟩
+  by_cases ht1 : lowerWidth ((u++[1])++[1]) = lowerWidth (v++[1])
+  · have hguu := CDUnique15.goodHead_append (u++[1]) [1] hgu (by simp)
+    have hc := M7TieWidth14.cd_eq_of_width_same_side _ _ ht1
+      (Or.inl ⟨Cross16.ratio_one_gt_half (u++[1]) hgu,Cross16.ratio_one_gt_half v hv⟩)
+    have he := CDUnique15.injective _ _ hguu hgv hc
+    have he' : u++[1]=v := List.append_cancel_right he
+    rw [← he']
+    exact (append_one_swap (u++[1]) upper).symm
+  · by_cases ht2 : lowerWidth (u++[1]) = lowerWidth ((v++[1])++[1])
+    · have hgvv := CDUnique15.goodHead_append (v++[1]) [1] hgv (by simp)
+      have hc := M7TieWidth14.cd_eq_of_width_same_side _ _ ht2
+        (Or.inl ⟨Cross16.ratio_one_gt_half u hu,Cross16.ratio_one_gt_half (v++[1]) hgv⟩)
+      have he := CDUnique15.injective _ _ hgu hgvv hc
+      have he' : u=v++[1] := List.append_cancel_right he
+      rw [he']
+      exact append_one_swap (v++[1]) upper
+    · exact lowerEarlyTerminal_endpoint_swap_nontie _ ⟨hdir,fun _ => ⟨ht1,ht2⟩⟩ upper
+
+private theorem mixed_other_swap (a b : List ℕ+) (upper : Bool)
+    (hp : a.length % 2 ≠ b.length % 2)
+    (hwide : lowerWidth b < lowerWidth a)
+    (hu : upper ≠ decide (a.length % 2 = 0)) :
+    lowerEndpoint (b,a) upper = lowerEndpoint (a,b) upper := by
+  apply Long16Parent.parent_tie_other <;> assumption
+
+private theorem critical_tie_complement (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (ht : lowerWidth ((u++[1])++[1]) = lowerWidth (v++[2]))
+    (hraw : if (u++[1]).length%2=0 then
+      lowerEndpoint (u++[1],v++[2]) false < lowerEndpoint (u++[1],v++[1]) true
+    else lowerEndpoint (u++[1],v++[1]) false < lowerEndpoint (u++[1],v++[2]) true) :
+    if (u++[1]).length%2=0 then
+      lowerEndpoint (v++[2],u++[1]) false < lowerEndpoint (v++[1],u++[1]) true
+    else lowerEndpoint (v++[1],u++[1]) false < lowerEndpoint (v++[2],u++[1]) true := by
+  have hs (upper : Bool) := one_pair_swap u v hu hv hnu hnv hp upper
+  have hwidth := Cross16Critical.critical_width_order (u++[1]) v
+    (CDUnique15.goodHead_append _ _ hu hnu) hv (by simp) hnv ht
+  have hpar : (u++[1]).length%2 ≠ (v++[2]).length%2 := by simp; omega
+  rcases Nat.mod_two_eq_zero_or_one (u++[1]).length with h0 | h1
+  · simp only [if_pos h0] at hraw ⊢
+    have h0' : (u.length+1)%2=0 := by simpa using h0
+    have ha := mixed_other_swap (u++[1]) (v++[2]) false hpar hwidth.2 (by simp [h0'])
+    exact ha.trans_lt (hraw.trans_eq (hs true))
+  · have h0 : ¬(u++[1]).length%2=0 := by omega
+    simp only [if_neg h0] at hraw ⊢
+    have h1' : (u.length+1)%2=1 := by simpa using h1
+    have ha := mixed_other_swap (u++[1]) (v++[2]) true hpar hwidth.2 (by simp [h1'])
+    exact (hs false).symm ▸ (hraw.trans_eq ha.symm)
+
+end Long16Complement
+
+
+-- Source: agents.p97_16.DirectWords
+open Freiman
+attribute [local instance] Classical.propDecidable
+set_option maxHeartbeats 0
+set_option maxRecDepth 10000
+namespace P97Direct
+
+private theorem direct_words_even_true (u v : List ℕ+)
+    (hu : u.length%2=1) (hv : v.length%2=0)
+    (ht : lowerWidth (u++[2])=lowerWidth (v++[1]))
+    (hU1 : lowerWidth ((u++[2])++[1]) < lowerWidth (v++[1]))
+    (hshortV : ¬ lowerEnds (v++[1]) [3,1])
+    (hthr : (7/5:ℝ)*lowerWidth ((u++[2])++[1,3]) < lowerWidth ((v++[1])++[3])) :
+    lowerEndpointWords (u++[2],v++[1]) true =
+      ((lowerEndpointWords (v++[1],u++[2]) true).2,
+       (lowerEndpointWords (v++[1],u++[2]) true).1) := by
+  have hp : (u++[2]).length%2 ≠ (v++[1]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[1]) ≤ lowerWidth (u++[2]) := ht.ge
+  have hw' : lowerWidth (u++[2]) ≤ lowerWidth (v++[1]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[2]).length%2=0 := by simp; omega
+  have hpv : (v++[1]).length%2=1 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[2,1]) < lowerWidth (v++[1]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[2,1],v++[1])=(v++[1],u++[2,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hnV3 : ¬ lowerEnds (v++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU31 : ¬ lowerEnds (u++[2,1]) [3,1] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU3 : ¬ lowerEnds (u++[2,1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU2_3 : ¬ lowerEnds (u++[2]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hsV : lowerNaturalShort (v++[1]) true = false := by
+    simp [lowerNaturalShort,hpv,hshortV,hnV3]
+  have hsU : lowerNaturalShort (u++[2,1]) true = false := by
+    simp [lowerNaturalShort,hu,hnU31,hnU3]
+  rw [hsV,hsU]
+  simp only [Bool.not_false,Bool.true_and,decide_eq_false_iff_not]
+  have hnot : ¬ lowerWidth (v++[1,3]) ≤
+      (7/5:ℝ)*lowerWidth (u++[2,1,3]) := by
+    simpa using not_le_of_gt hthr
+  simp only [hpv,show ¬ (1:ℕ)=0 by omega,decide_false,if_false,List.append_assoc]
+  norm_num
+  simp only [hnot,decide_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  simp only [Prod.fst,Prod.snd]
+  apply Prod.ext
+  · have hulen : (u.length+1)%2=0 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hulen,hnU31,hnU3,hnU2_3,List.append_assoc]
+  · have hvlen : (v.length+1)%2=1 := by omega
+    have hvnot : ¬ [3] <+: v.reverse := by
+      simpa [lowerEnds,← List.reverse_prefix] using hshortV
+    simp [lowerNaturalShort,lowerEndpointSuffix,hvlen,hvnot,List.append_assoc]
+    exact hshortV
+
+
+private theorem direct_words_odd_false (u v : List ℕ+)
+    (hu : u.length%2=0) (hv : v.length%2=1)
+    (ht : lowerWidth (u++[2])=lowerWidth (v++[1]))
+    (hU1 : lowerWidth ((u++[2])++[1]) < lowerWidth (v++[1]))
+    (hshortV : ¬ lowerEnds (v++[1]) [3,1])
+    (hthr : (7/5:ℝ)*lowerWidth ((u++[2])++[1,3]) < lowerWidth ((v++[1])++[3])) :
+    lowerEndpointWords (u++[2],v++[1]) false =
+      ((lowerEndpointWords (v++[1],u++[2]) false).2,
+       (lowerEndpointWords (v++[1],u++[2]) false).1) := by
+  have hp : (u++[2]).length%2 ≠ (v++[1]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[1]) ≤ lowerWidth (u++[2]) := ht.ge
+  have hw' : lowerWidth (u++[2]) ≤ lowerWidth (v++[1]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[2]).length%2=1 := by simp; omega
+  have hpv : (v++[1]).length%2=0 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[2,1]) < lowerWidth (v++[1]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[2,1],v++[1])=(v++[1],u++[2,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hnV3 : ¬ lowerEnds (v++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU31 : ¬ lowerEnds (u++[2,1]) [3,1] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU3 : ¬ lowerEnds (u++[2,1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU2_3 : ¬ lowerEnds (u++[2]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hsV : lowerNaturalShort (v++[1]) false = false := by
+    simp [lowerNaturalShort,hpv,hshortV,hnV3]
+  have hsU : lowerNaturalShort (u++[2,1]) false = false := by
+    simp [lowerNaturalShort,hu,hnU31,hnU3]
+  rw [hsV,hsU]
+  simp only [Bool.not_false,Bool.true_and,decide_eq_false_iff_not]
+  have hnot : ¬ lowerWidth (v++[1,3]) ≤
+      (7/5:ℝ)*lowerWidth (u++[2,1,3]) := by
+    simpa using not_le_of_gt hthr
+  simp only [hpv,show ¬ (1:ℕ)=0 by omega,decide_false,if_false,List.append_assoc]
+  norm_num
+  simp only [hnot,decide_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  simp only [Prod.fst,Prod.snd]
+  apply Prod.ext
+  · have hulen : (u.length+1)%2=1 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hulen,hnU31,hnU3,hnU2_3,List.append_assoc]
+  · have hvlen : (v.length+1)%2=0 := by omega
+    have hvnot : ¬ [3] <+: v.reverse := by
+      simpa [lowerEnds,← List.reverse_prefix] using hshortV
+    simp [lowerNaturalShort,lowerEndpointSuffix,hvlen,hvnot,List.append_assoc]
+    exact hshortV
+
+end P97Direct
+
+-- Source: agents.cross16.DirectOther
+open Freiman
+attribute [local instance] Classical.propDecidable
+set_option maxHeartbeats 0
+set_option maxRecDepth 10000
+namespace Cross16DirectOther
+
+private theorem one_two_even_true (u v : List ℕ+)
+    (hu : u.length%2=1) (hv : v.length%2=0)
+    (ht : lowerWidth (u++[1])=lowerWidth (v++[2]))
+    (hU1 : lowerWidth ((u++[1])++[1]) < lowerWidth (v++[2]))
+    (hthr : (7/5:ℝ)*lowerWidth ((u++[1])++[1,3]) < lowerWidth ((v++[2])++[3])) :
+    lowerEndpointWords (u++[1],v++[2]) true =
+      ((lowerEndpointWords (v++[2],u++[1]) true).2,
+       (lowerEndpointWords (v++[2],u++[1]) true).1) := by
+  have hshortV : ¬ lowerEnds (v++[2]) [3,1] := by simp [lowerEnds, ← List.reverse_prefix]
+  have hp : (u++[1]).length%2 ≠ (v++[2]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[2]) ≤ lowerWidth (u++[1]) := ht.ge
+  have hw' : lowerWidth (u++[1]) ≤ lowerWidth (v++[2]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[1]).length%2=0 := by simp; omega
+  have hpv : (v++[2]).length%2=1 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[1,1]) < lowerWidth (v++[2]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[1,1],v++[2])=(v++[2],u++[1,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hnV3 : ¬ lowerEnds (v++[2]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU31 : ¬ lowerEnds (u++[1,1]) [3,1] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU3 : ¬ lowerEnds (u++[1,1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU2_3 : ¬ lowerEnds (u++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hsV : lowerNaturalShort (v++[2]) true = false := by
+    simp [lowerNaturalShort,hpv,hshortV,hnV3]
+  have hsU : lowerNaturalShort (u++[1,1]) true = false := by
+    simp [lowerNaturalShort,hu,hnU31,hnU3]
+  rw [hsV,hsU]
+  simp only [Bool.not_false,Bool.true_and,decide_eq_false_iff_not]
+  have hnot : ¬ lowerWidth (v++[2,3]) ≤
+      (7/5:ℝ)*lowerWidth (u++[1,1,3]) := by
+    simpa using not_le_of_gt hthr
+  simp only [hpv,show ¬ (1:ℕ)=0 by omega,decide_false,if_false,List.append_assoc]
+  norm_num
+  simp only [hnot,decide_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  simp only [Prod.fst,Prod.snd]
+  apply Prod.ext
+  · have hulen : (u.length+1)%2=0 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hulen,hnU31,hnU3,hnU2_3,List.append_assoc]
+  · have hvlen : (v.length+1)%2=1 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hvlen,lowerEnds,← List.reverse_prefix,List.append_assoc]
+
+
+private theorem one_two_odd_false (u v : List ℕ+)
+    (hu : u.length%2=0) (hv : v.length%2=1)
+    (ht : lowerWidth (u++[1])=lowerWidth (v++[2]))
+    (hU1 : lowerWidth ((u++[1])++[1]) < lowerWidth (v++[2]))
+    (hthr : (7/5:ℝ)*lowerWidth ((u++[1])++[1,3]) < lowerWidth ((v++[2])++[3])) :
+    lowerEndpointWords (u++[1],v++[2]) false =
+      ((lowerEndpointWords (v++[2],u++[1]) false).2,
+       (lowerEndpointWords (v++[2],u++[1]) false).1) := by
+  have hshortV : ¬ lowerEnds (v++[2]) [3,1] := by simp [lowerEnds, ← List.reverse_prefix]
+  have hp : (u++[1]).length%2 ≠ (v++[2]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[2]) ≤ lowerWidth (u++[1]) := ht.ge
+  have hw' : lowerWidth (u++[1]) ≤ lowerWidth (v++[2]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[1]).length%2=1 := by simp; omega
+  have hpv : (v++[2]).length%2=0 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[1,1]) < lowerWidth (v++[2]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[1,1],v++[2])=(v++[2],u++[1,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hnV3 : ¬ lowerEnds (v++[2]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU31 : ¬ lowerEnds (u++[1,1]) [3,1] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU3 : ¬ lowerEnds (u++[1,1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU2_3 : ¬ lowerEnds (u++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hsV : lowerNaturalShort (v++[2]) false = false := by
+    simp [lowerNaturalShort,hpv,hshortV,hnV3]
+  have hsU : lowerNaturalShort (u++[1,1]) false = false := by
+    simp [lowerNaturalShort,hu,hnU31,hnU3]
+  rw [hsV,hsU]
+  simp only [Bool.not_false,Bool.true_and,decide_eq_false_iff_not]
+  have hnot : ¬ lowerWidth (v++[2,3]) ≤
+      (7/5:ℝ)*lowerWidth (u++[1,1,3]) := by
+    simpa using not_le_of_gt hthr
+  simp only [hpv,show ¬ (1:ℕ)=0 by omega,decide_false,if_false,List.append_assoc]
+  norm_num
+  simp only [hnot,decide_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  simp only [Prod.fst,Prod.snd]
+  apply Prod.ext
+  · have hulen : (u.length+1)%2=1 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hulen,hnU31,hnU3,hnU2_3,List.append_assoc]
+  · have hvlen : (v.length+1)%2=0 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hvlen,lowerEnds,← List.reverse_prefix,List.append_assoc]
+
+end Cross16DirectOther
+
+-- Source: agents.p97_16.DirectComplete
+open Freiman
+attribute [local instance] Classical.propDecidable
+set_option maxHeartbeats 0
+namespace P97Direct
+
+private theorem direct_tie_two_one (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ [])
+    (hp : u.length%2 ≠ v.length%2)
+    (ht : lowerWidth (u++[2]) = lowerWidth (v++[1])) (upper : Bool) :
+    lowerEndpoint (u++[2],v++[1]) upper =
+      lowerEndpoint (v++[1],u++[2]) upper := by
+  have hshort := Cross16Critical.low_tie_not_short (v++[1]) (u++[2])
+    (CDUnique15.goodHead_append _ _ hv hnv) (CDUnique15.goodHead_append _ _ hu hnu)
+    ⟨v,rfl⟩ ⟨u,rfl⟩ ht.symm
+  have hU1 : lowerWidth ((u++[2])++[1]) < lowerWidth (v++[1]) :=
+    (Cross16Bounds.append_one_lt (u++[2])).trans_eq ht
+  have hV1 : lowerWidth ((v++[1])++[1]) < lowerWidth (u++[2]) :=
+    (Cross16Bounds.append_one_lt (v++[1])).trans_eq ht.symm
+  have hthrU := Cross16Bounds.tied_three_threshold (u++[2]) (v++[1]) ht
+  have hthrV := Cross16Bounds.tied_three_threshold (v++[1]) (u++[2]) ht.symm
+  rcases Nat.mod_two_eq_zero_or_one u.length with hu0 | hu1
+  · have hv1 : v.length%2=1 := by omega
+    rcases upper with _|_
+    · have hw := direct_words_odd_false u v hu0 hv1 ht hU1 hshort hthrU
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+    · have hw := Cross16DirectOther.one_two_even_true v u hv1 hu0 ht.symm hV1 hthrV
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+  · have hv0 : v.length%2=0 := by omega
+    rcases upper with _|_
+    · have hw := Cross16DirectOther.one_two_odd_false v u hv0 hu1 ht.symm hV1 hthrV
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+    · have hw := direct_words_even_true u v hu1 hv0 ht hU1 hshort hthrU
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+
+end P97Direct
+
+-- Source: agents.long16.D1
+
+open Freiman
+set_option maxHeartbeats 0
+
+namespace Long16D1
+
+private theorem one_two_other_virtual_eq (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ [])
+    (ht : lowerWidth (u++[1]) = lowerWidth ((v++[2])++[1])) : u=v++[2] := by
+  have hgu := CDUnique15.goodHead_append u [1] hu hnu
+  have hgv := CDUnique15.goodHead_append v [2] hv hnv
+  have hgvv := CDUnique15.goodHead_append (v++[2]) [1] hgv (by simp)
+  have hc := M7TieWidth14.cd_eq_of_width_same_side _ _ ht
+    (Or.inl ⟨Cross16.ratio_one_gt_half u hu,Cross16.ratio_one_gt_half (v++[2]) hgv⟩)
+  have hsame := CDUnique15.injective _ _ hgu hgvv hc
+  exact List.append_cancel_right hsame
+
+private theorem append_one_swap (w : List ℕ+) (upper : Bool) :
+    lowerEndpoint (w++[1],w) upper = lowerEndpoint (w,w++[1]) upper := by
+  apply Long16Complement.append_one_swap <;> assumption
+
+private theorem transfer_one (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (h12 : lowerEndpoint (u++[1],v++[2]) false <
+      lowerEndpoint (u++[1],v++[1]) true)
+    (h21 : lowerEndpoint (u++[1],v++[1]) false <
+      lowerEndpoint (u++[1],v++[2]) true) :
+    lowerEndpoint (v++[2],u++[1]) false <
+      lowerEndpoint (v++[1],u++[1]) true ∧
+    lowerEndpoint (v++[1],u++[1]) false <
+      lowerEndpoint (v++[2],u++[1]) true := by
+  have hs1 (upper : Bool) := Long16Complement.one_pair_swap u v hu hv hnu hnv hp upper
+  by_cases hd : lowerWidth (u++[1]) = lowerWidth (v++[2])
+  · have hs2 (upper : Bool) := P97Direct.direct_tie_two_one v u hv hu hnv hnu hp.symm hd.symm upper
+    constructor
+    · exact (hs2 false).symm ▸ (h12.trans_eq (hs1 true))
+    · exact (hs1 false).symm ▸ (h21.trans_eq (hs2 true).symm)
+  · by_cases ht : lowerWidth ((u++[1])++[1]) = lowerWidth (v++[2])
+    · have hc := Cross16Critical.critical_tie_cross_general (u++[1]) v
+        (CDUnique15.goodHead_append _ _ hu hnu) hv (by simp) hnv
+        (by simp; omega) ht
+      by_cases he : (u++[1]).length%2=0
+      · have he' : (u.length+1)%2=0 := by simpa using he
+        have hr : if (u++[1]).length%2=0 then
+            lowerEndpoint (u++[1],v++[2]) false < lowerEndpoint (u++[1],v++[1]) true
+          else lowerEndpoint (u++[1],v++[1]) false < lowerEndpoint (u++[1],v++[2]) true := by
+          simp [he',h12]
+        have ho := Long16Complement.critical_tie_complement u v hu hv hnu hnv hp ht hr
+        simp only [if_pos he] at hc ho
+        exact ⟨ho,hc⟩
+      · have he' : ¬(u.length+1)%2=0 := by simpa using he
+        have hr : if (u++[1]).length%2=0 then
+            lowerEndpoint (u++[1],v++[2]) false < lowerEndpoint (u++[1],v++[1]) true
+          else lowerEndpoint (u++[1],v++[1]) false < lowerEndpoint (u++[1],v++[2]) true := by
+          simp [he',h21]
+        have ho := Long16Complement.critical_tie_complement u v hu hv hnu hnv hp ht hr
+        simp only [if_neg he] at hc ho
+        exact ⟨hc,ho⟩
+    · by_cases hvrt : lowerWidth (u++[1]) = lowerWidth ((v++[2])++[1])
+      · have heq := one_two_other_virtual_eq u v hu hv hnu hnv hvrt
+        have hs2 (upper : Bool) : lowerEndpoint (u++[1],v++[2]) upper =
+            lowerEndpoint (v++[2],u++[1]) upper := by
+          rw [heq]
+          exact append_one_swap (v++[2]) upper
+        constructor
+        · exact (hs2 false).symm ▸ (h12.trans_eq (hs1 true))
+        · exact (hs1 false).symm ▸ (h21.trans_eq (hs2 true))
+      · have hn2 : LowerEarlyTerminalNoTies (u++[1],v++[2]) :=
+          ⟨hd,fun _ => ⟨ht,hvrt⟩⟩
+        have hs2 (upper : Bool) := lowerEarlyTerminal_endpoint_swap_nontie
+          (u++[1],v++[2]) hn2 upper
+        constructor
+        · exact (hs2 false).symm ▸ (h12.trans_eq (hs1 true))
+        · exact (hs1 false).symm ▸ (h21.trans_eq (hs2 true))
+
+end Long16D1
+
+
+-- Source: agents.cross16.TwoOne
+open Freiman
+namespace Cross16TwoOne
+set_option maxHeartbeats 0
+
+private theorem containment_of_ne (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (hwu : lowerWidth (u++[2]) < lowerWidth v)
+    (hne : lowerWidth (u++[2]) ≠ lowerWidth (v++[1])) :
+    lowerEndpoint (v++[1],u++[2]) false ≤ lowerEndpoint (u++[2],v++[1]) false ∧
+    lowerEndpoint (u++[2],v++[1]) true ≤ lowerEndpoint (v++[1],u++[2]) true := by
+  have hxn := Cross16.two_one_virtual_nontie u v hu hv hnu hnv hwu
+  by_cases hyn : lowerWidth ((v++[1])++[1]) = lowerWidth (u++[2])
+  · have hwide : lowerWidth (u++[2]) ≤ lowerWidth (v++[1]) := by
+      rw [← hyn]
+      exact (Cross16Bounds.append_one_lt (v++[1])).le
+    have hnot : ¬ lowerWidth (v++[1]) ≤ lowerWidth (u++[2]) := by
+      rw [← hyn]
+      exact not_le_of_gt (Cross16Bounds.append_one_lt (v++[1]))
+    have hgu := CDUnique15.goodHead_append u [2] hu hnu
+    have hgv := CDUnique15.goodHead_append v [1] hv hnv
+    have hgvv := CDUnique15.goodHead_append (v++[1]) [1] hgv (by simp)
+    have hpar : ((v++[1])++[1]).length%2 = (u++[2]).length%2 := by
+      simp only [List.length_append,List.length_singleton]; omega
+    have hh := M7LowTies15.lowTieLaw ((v++[1])++[1]) (u++[2]) hgvv hgu
+      (by simp) (by simp) ⟨v++[1],rfl⟩ ⟨u,rfl⟩ hpar hyn
+    rcases Nat.mod_two_eq_zero_or_one v.length with hv0 | hv1
+    · have hu1 : u.length%2=1 := by omega
+      have hxp : (u++[2]).length%2=0 := by simp [hu1,Nat.add_mod]
+      have hyp : (v++[1]).length%2=1 := by simp [hv0,Nat.add_mod]
+      have hyyp : ((v++[1])++[1]).length%2=0 := by simp [hv0,Nat.add_mod]
+      simp only [hyyp,if_true] at hh
+      have he1 : lowerEndpoint (v++[1],u++[2]) false =
+          lowerEndpoint ((v++[1])++[1],u++[2]) false := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv0,hu1]
+      have he2 : lowerEndpoint (u++[2],v++[1]) false =
+          lowerEndpoint (u++[2],(v++[1])++[1]) false := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv0,hu1]
+      constructor
+      · simpa only [he1,he2] using hh
+      · apply le_of_eq
+        unfold lowerEndpoint lowerEndpointWords
+        simp only [Prod.fst,Prod.snd,hxp,hyp,hwide,hnot]
+        norm_num [Nat.add_mod,hv0]
+        unfold lowerNaturalWords
+        ring
+    · have hu0 : u.length%2=0 := by omega
+      have hxp : (u++[2]).length%2=1 := by simp [hu0,Nat.add_mod]
+      have hyp : (v++[1]).length%2=0 := by simp [hv1,Nat.add_mod]
+      have hyyp : ((v++[1])++[1]).length%2=1 := by simp [hv1,Nat.add_mod]
+      simp only [hyyp,show ¬(1:ℕ)=0 by omega,if_false] at hh
+      have he1 : lowerEndpoint (v++[1],u++[2]) true =
+          lowerEndpoint ((v++[1])++[1],u++[2]) true := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv1,hu0]
+      have he2 : lowerEndpoint (u++[2],v++[1]) true =
+          lowerEndpoint (u++[2],(v++[1])++[1]) true := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv1,hu0]
+      constructor
+      · apply le_of_eq
+        unfold lowerEndpoint lowerEndpointWords
+        simp only [Prod.fst,Prod.snd,hxp,hyp,hwide,hnot]
+        norm_num [Nat.add_mod,hv1]
+        unfold lowerNaturalWords
+        ring
+      · simpa only [he1,he2] using hh
+  · have hno : LowerEarlyTerminalNoTies (u++[2],v++[1]) :=
+      ⟨hne,fun _ => ⟨hxn,Ne.symm hyn⟩⟩
+    exact ⟨(lowerEarlyTerminal_endpoint_swap_nontie _ hno false).symm.le,
+      (lowerEarlyTerminal_endpoint_swap_nontie _ hno true).le⟩
+end Cross16TwoOne
+
+-- Source: agents.cross16.Two
+
+open Freiman
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+
+namespace Cross16
+
+private theorem cd_eq (w : List ℕ+) :
+    lowerCD w = (wordContinuantPrevQ w, wordContinuantQ w) := by
+  apply M7TieWidth14.cd_eq <;> assumption
+
+private theorem q_pos (w : List ℕ+) : 0 < ((lowerCD w).2 : ℝ) := by
+  apply M7TieWidth14.q_pos <;> assumption
+
+private theorem algebra_classify {c d C D : ℝ}
+    (hd : 0 < d) (hD : 0 < D) (hc : 0 ≤ c) (hC : 0 ≤ C)
+    (hA : 4*c*d-3*c^2 = 4*C*D-3*C^2)
+    (hB : 2*d^2-4*c*d+5*c^2 = 2*D^2-4*C*D+5*C^2) :
+    (c = C ∧ d = D) ∨ (5*C = -3*c+4*d ∧ 5*D = 4*c+3*d) := by
+  apply M7LowTies15.algebra_classify <;> assumption
+
+private theorem cd_classify (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v) :
+    lowerCD u = lowerCD v ∨
+      (5*((lowerCD v).1:ℝ) = -3*((lowerCD u).1:ℝ)+4*(lowerCD u).2 ∧
+       5*((lowerCD v).2:ℝ) = 4*((lowerCD u).1:ℝ)+3*(lowerCD u).2) := by
+  apply M7LowTies15.cd_classify <;> assumption
+
+end Cross16
+namespace Cross16
+private theorem equal_endpoint_swap (x y : List ℕ+) (h : lowerWidth x ≠ lowerWidth y)
+    (upper : Bool) :
+    (let w := lowerEqualWords (x,y) upper;
+      4+prefixEval w.1 lowerTau+prefixEval w.2 lowerTau) =
+    (let w := lowerEqualWords (y,x) upper;
+      4+prefixEval w.1 lowerTau+prefixEval w.2 lowerTau) := by
+  have hn : lowerNormalize (y,x) = lowerNormalize (x,y) := by
+    unfold lowerNormalize
+    by_cases hw : lowerWidth y ≤ lowerWidth x
+    · have hn : ¬ lowerWidth x ≤ lowerWidth y := fun hh => h (le_antisymm hh hw)
+      simp [hw,hn]
+    · have hh := (lt_of_not_ge hw).le
+      simp [hw,hh]
+  unfold lowerEqualWords
+  rw [hn]
+  by_cases hw : lowerWidth y ≤ lowerWidth x
+  · have hh : ¬ lowerWidth x ≤ lowerWidth y := fun hh => h (le_antisymm hh hw)
+    simp [hw,hh]
+    ring
+  · have hh := (lt_of_not_ge hw).le
+    simp [hw,hh]
+    ring
+
+private theorem mixed_partial_swap (x y : List ℕ+)
+    (hp : x.length%2 ≠ y.length%2)
+    (hne : lowerWidth x ≠ lowerWidth y)
+    (hnx : lowerWidth (x++[1]) ≠ lowerWidth y)
+    (upper : Bool) (hu : upper = decide (x.length%2=0)) :
+    lowerEndpoint (x,y) upper = lowerEndpoint (y,x) upper := by
+  have hu' : upper ≠ decide (y.length%2=0) := by
+    subst upper
+    rcases Nat.mod_two_eq_zero_or_one x.length with hx | hx <;>
+      rcases Nat.mod_two_eq_zero_or_one y.length with hy | hy <;> simp_all
+  unfold lowerEndpoint lowerEndpointWords
+  simp only [Prod.fst,Prod.snd,if_neg hp,if_neg hp.symm]
+  by_cases hw : lowerWidth y ≤ lowerWidth x
+  · have hh : ¬ lowerWidth x ≤ lowerWidth y := fun hh => hne (le_antisymm hh hw)
+    simp only [hw,hh,if_true,if_false,hu]
+    exact equal_endpoint_swap (x++[1]) y hnx (decide (x.length%2=0))
+  · have hh := (lt_of_not_ge hw).le
+    simp only [hw,hh,if_true,if_false,if_neg hu']
+    unfold lowerNaturalWords
+    ring
+
+end Cross16
+namespace Cross16
+
+private theorem two_virtual_nontie_of_ratio (u v : List ℕ+)
+    (hu : (1/4:ℝ) ≤ lowerRatio u) (hv : CDUnique15.GoodHead v) :
+    lowerWidth ((u++[2])++[1]) ≠ lowerWidth (v++[2]) := by
+  intro ht
+  have hU := q_pos u
+  have hV := q_pos v
+  have huc : (0:ℝ) ≤ (lowerCD u).1 := by positivity
+  have hvc : ((lowerCD v).1:ℝ) < (lowerCD v).2 := by
+    exact_mod_cast CDUnique15.cd_strict v hv
+  have hbound : ((lowerCD u).2:ℝ) ≤ 4*(lowerCD u).1 := by
+    rw [lowerRatio,le_div_iff₀ hU] at hu
+    linarith
+  have he1 : lowerCD ((u++[2])++[1]) =
+      ((lowerCD u).1+2*(lowerCD u).2,(lowerCD u).1+3*(lowerCD u).2) := by
+    simp [lowerCD,List.foldl_append]; omega
+  have he2 : lowerCD (v++[2]) = ((lowerCD v).2,(lowerCD v).1+2*(lowerCD v).2) := by
+    simp [lowerCD,List.foldl_append]
+  rcases cd_classify _ _ ht with he | he
+  · rw [he1,he2] at he
+    have h1 : ((lowerCD u).1:ℝ)+2*(lowerCD u).2=(lowerCD v).2 := by
+      exact_mod_cast congrArg Prod.fst he
+    have h2 : ((lowerCD u).1:ℝ)+3*(lowerCD u).2=(lowerCD v).1+2*(lowerCD v).2 := by
+      exact_mod_cast congrArg Prod.snd he
+    have hz : (0:ℝ) ≤ (lowerCD v).1 := by positivity
+    linarith
+  · rw [he1,he2] at he
+    simp only [Prod.fst,Prod.snd] at he
+    push_cast at he
+    linarith [he.1,he.2]
+
+private theorem two_complementary_swap_of_ratio (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (he : (1/4:ℝ) ≤ lowerRatio u) :
+    (if v.length%2=0 then
+      lowerEndpoint (u++[2],v++[2]) true = lowerEndpoint (v++[2],u++[2]) true
+    else lowerEndpoint (u++[2],v++[2]) false = lowerEndpoint (v++[2],u++[2]) false) := by
+  have hn := CDUnique15.width_ne_append_two u v hu hv hnu hnv hp
+  have hnx := two_virtual_nontie_of_ratio u v he hv
+  have hpar : (u++[2]).length%2 ≠ (v++[2]).length%2 := by simp; omega
+  split_ifs with hv0
+  · apply mixed_partial_swap _ _ hpar hn hnx
+    have hu1 : u.length%2=1 := by omega
+    simp [hu1,Nat.add_mod]
+  · apply mixed_partial_swap _ _ hpar hn hnx
+    have hu0 : u.length%2=0 := by omega
+    simp [hu0,Nat.add_mod]
+end Cross16
+
+-- Source: agents.cross16.TransferTwo
+open Freiman
+namespace Cross16
+set_option maxHeartbeats 0
+
+private theorem transfer_two_ratio_core (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (heu : (1/4:ℝ) ≤ lowerRatio u)
+    (hc1 : lowerEndpoint (v++[1],u++[2]) false ≤ lowerEndpoint (u++[2],v++[1]) false ∧
+      lowerEndpoint (u++[2],v++[1]) true ≤ lowerEndpoint (v++[1],u++[2]) true)
+    (h12 : lowerEndpoint (u++[2],v++[2]) false < lowerEndpoint (u++[2],v++[1]) true)
+    (h21 : lowerEndpoint (u++[2],v++[1]) false < lowerEndpoint (u++[2],v++[2]) true) :
+    lowerEndpoint (v++[2],u++[2]) false < lowerEndpoint (v++[1],u++[2]) true ∧
+    lowerEndpoint (v++[1],u++[2]) false < lowerEndpoint (v++[2],u++[2]) true := by
+  have hc := two_complementary_swap_of_ratio u v hu hv hnu hnv hp heu
+  have ha := Mixed15.alignment M7LowTies15.lowTieLaw u v hu hv hnu hnv hp
+  rcases Nat.mod_two_eq_zero_or_one v.length with hv0 | hv1
+  · simp only [if_pos hv0] at ha hc
+    exact ⟨ha.trans_lt (h12.trans_le hc1.2), hc1.1.trans_lt (h21.trans_eq hc)⟩
+  · simp only [if_neg (by omega : ¬ v.length%2=0)] at ha hc
+    exact ⟨hc.symm.le.trans_lt (h12.trans_le hc1.2), hc1.1.trans_lt (h21.trans_le ha)⟩
+
+
+private theorem transfer_two_of_ratio (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (heu : (1/4:ℝ) ≤ lowerRatio u)
+    (hwu : lowerWidth (u++[2]) < lowerWidth v)
+    (h12 : lowerEndpoint (u++[2],v++[2]) false < lowerEndpoint (u++[2],v++[1]) true)
+    (h21 : lowerEndpoint (u++[2],v++[1]) false < lowerEndpoint (u++[2],v++[2]) true) :
+    lowerEndpoint (v++[2],u++[2]) false < lowerEndpoint (v++[1],u++[2]) true ∧
+    lowerEndpoint (v++[1],u++[2]) false < lowerEndpoint (v++[2],u++[2]) true := by
+  apply transfer_two_ratio_core u v hu hv hnu hnv hp heu _ h12 h21
+  by_cases ht : lowerWidth (u++[2])=lowerWidth (v++[1])
+  · have hh := P97Direct.direct_tie_two_one u v hu hv hnu hnv hp ht
+    exact ⟨(hh false).symm.le,(hh true).le⟩
+  · exact Cross16TwoOne.containment_of_ne u v hu hv hnu hnv hp hwu ht
+end Cross16
+
+
+-- Source: agents.cross16.DirectThree
+open Freiman
+attribute [local instance] Classical.propDecidable
+set_option maxHeartbeats 0
+set_option maxRecDepth 10000
+namespace Cross16DirectThree
+private theorem three_words_even_true (u v : List ℕ+)
+    (hu : u.length%2=1) (hv : v.length%2=0)
+    (ht : lowerWidth (u++[3])=lowerWidth (v++[1]))
+    (hU1 : lowerWidth ((u++[3])++[1]) < lowerWidth (v++[1]))
+:
+    lowerEndpointWords (u++[3],v++[1]) true =
+      ((lowerEndpointWords (v++[1],u++[3]) true).2,
+       (lowerEndpointWords (v++[1],u++[3]) true).1) := by
+  have hp : (u++[3]).length%2 ≠ (v++[1]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[1]) ≤ lowerWidth (u++[3]) := ht.ge
+  have hw' : lowerWidth (u++[3]) ≤ lowerWidth (v++[1]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[3]).length%2=0 := by simp; omega
+  have hpv : (v++[1]).length%2=1 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[3,1]) < lowerWidth (v++[1]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[3,1],v++[1])=(v++[1],u++[3,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hU31 : lowerEnds (u++[3,1]) [3,1] := ⟨u,rfl⟩
+  have hsU : lowerNaturalShort (u++[3,1]) true = true := by
+    simp [lowerNaturalShort,hu,hU31]
+  rw [hsU]
+  simp only [Bool.not_true,Bool.and_false,Bool.false_and,Bool.or_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  apply Prod.ext <;>
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hv,Nat.add_mod,lowerEnds,
+      ← List.reverse_prefix,List.append_assoc]
+
+
+private theorem three_words_odd_false (u v : List ℕ+)
+    (hu : u.length%2=0) (hv : v.length%2=1)
+    (ht : lowerWidth (u++[3])=lowerWidth (v++[1]))
+    (hU1 : lowerWidth ((u++[3])++[1]) < lowerWidth (v++[1]))
+:
+    lowerEndpointWords (u++[3],v++[1]) false =
+      ((lowerEndpointWords (v++[1],u++[3]) false).2,
+       (lowerEndpointWords (v++[1],u++[3]) false).1) := by
+  have hp : (u++[3]).length%2 ≠ (v++[1]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[1]) ≤ lowerWidth (u++[3]) := ht.ge
+  have hw' : lowerWidth (u++[3]) ≤ lowerWidth (v++[1]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[3]).length%2=1 := by simp; omega
+  have hpv : (v++[1]).length%2=0 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[3,1]) < lowerWidth (v++[1]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[3,1],v++[1])=(v++[1],u++[3,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hU31 : lowerEnds (u++[3,1]) [3,1] := ⟨u,rfl⟩
+  have hsU : lowerNaturalShort (u++[3,1]) false = true := by
+    simp [lowerNaturalShort,hu,hU31]
+  rw [hsU]
+  simp only [Bool.not_true,Bool.and_false,Bool.false_and,Bool.or_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  apply Prod.ext <;>
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hv,Nat.add_mod,lowerEnds,
+      ← List.reverse_prefix,List.append_assoc]
+
+
+end Cross16DirectThree
+
+-- Source: agents.cross16.DirectThreeOther
+open Freiman
+attribute [local instance] Classical.propDecidable
+set_option maxHeartbeats 0
+set_option maxRecDepth 10000
+namespace Cross16DirectThreeOther
+
+private theorem one_three_even_true (u v : List ℕ+)
+    (hu : u.length%2=1) (hv : v.length%2=0)
+    (ht : lowerWidth (u++[1])=lowerWidth (v++[3]))
+    (hU1 : lowerWidth ((u++[1])++[1]) < lowerWidth (v++[3]))
+    (hthr : (7/5:ℝ)*lowerWidth ((u++[1])++[1,3]) < lowerWidth ((v++[3])++[3])) :
+    lowerEndpointWords (u++[1],v++[3]) true =
+      ((lowerEndpointWords (v++[3],u++[1]) true).2,
+       (lowerEndpointWords (v++[3],u++[1]) true).1) := by
+  have hshortV : ¬ lowerEnds (v++[3]) [3,1] := by simp [lowerEnds, ← List.reverse_prefix]
+  have hp : (u++[1]).length%2 ≠ (v++[3]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[3]) ≤ lowerWidth (u++[1]) := ht.ge
+  have hw' : lowerWidth (u++[1]) ≤ lowerWidth (v++[3]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[1]).length%2=0 := by simp; omega
+  have hpv : (v++[3]).length%2=1 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[1,1]) < lowerWidth (v++[3]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[1,1],v++[3])=(v++[3],u++[1,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hnU31 : ¬ lowerEnds (u++[1,1]) [3,1] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU3 : ¬ lowerEnds (u++[1,1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU2_3 : ¬ lowerEnds (u++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hsV : lowerNaturalShort (v++[3]) true = false := by
+    simp [lowerNaturalShort,hpv,hshortV,hv,Nat.add_mod]
+  have hsU : lowerNaturalShort (u++[1,1]) true = false := by
+    simp [lowerNaturalShort,hu,hnU31,hnU3]
+  rw [hsV,hsU]
+  simp only [Bool.not_false,Bool.true_and,decide_eq_false_iff_not]
+  have hnot : ¬ lowerWidth (v++[3,3]) ≤
+      (7/5:ℝ)*lowerWidth (u++[1,1,3]) := by
+    simpa using not_le_of_gt hthr
+  simp only [hpv,show ¬ (1:ℕ)=0 by omega,decide_false,if_false,List.append_assoc]
+  norm_num
+  simp only [hnot,decide_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  simp only [Prod.fst,Prod.snd]
+  apply Prod.ext
+  · have hulen : (u.length+1)%2=0 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hulen,hnU31,hnU3,hnU2_3,List.append_assoc]
+  · have hvlen : (v.length+1)%2=1 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hvlen,lowerEnds,← List.reverse_prefix,List.append_assoc]
+
+
+private theorem one_three_odd_false (u v : List ℕ+)
+    (hu : u.length%2=0) (hv : v.length%2=1)
+    (ht : lowerWidth (u++[1])=lowerWidth (v++[3]))
+    (hU1 : lowerWidth ((u++[1])++[1]) < lowerWidth (v++[3]))
+    (hthr : (7/5:ℝ)*lowerWidth ((u++[1])++[1,3]) < lowerWidth ((v++[3])++[3])) :
+    lowerEndpointWords (u++[1],v++[3]) false =
+      ((lowerEndpointWords (v++[3],u++[1]) false).2,
+       (lowerEndpointWords (v++[3],u++[1]) false).1) := by
+  have hshortV : ¬ lowerEnds (v++[3]) [3,1] := by simp [lowerEnds, ← List.reverse_prefix]
+  have hp : (u++[1]).length%2 ≠ (v++[3]).length%2 := by simp; omega
+  unfold lowerEndpointWords
+  rw [if_neg hp,if_neg hp.symm]
+  have hw : lowerWidth (v++[3]) ≤ lowerWidth (u++[1]) := ht.ge
+  have hw' : lowerWidth (u++[1]) ≤ lowerWidth (v++[3]) := ht.le
+  simp only [hw,hw',if_true]
+  have hpu : (u++[1]).length%2=1 := by simp; omega
+  have hpv : (v++[3]).length%2=0 := by simp; omega
+  simp only [hpu,hpv,decide_true,decide_false,if_true,if_false]
+  norm_num
+  unfold lowerEqualWords
+  have hU1' : lowerWidth (u++[1,1]) < lowerWidth (v++[3]) := by
+    simpa using hU1
+  have hn : lowerNormalize (u++[1,1],v++[3])=(v++[3],u++[1,1]) := by
+    simp [lowerNormalize,not_le_of_gt hU1']
+  rw [hn]
+  simp only [Prod.fst,Prod.snd]
+  have hnU31 : ¬ lowerEnds (u++[1,1]) [3,1] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU3 : ¬ lowerEnds (u++[1,1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hnU2_3 : ¬ lowerEnds (u++[1]) [3] := by
+    simp [lowerEnds, ← List.reverse_prefix]
+  have hsV : lowerNaturalShort (v++[3]) false = false := by
+    simp [lowerNaturalShort,hpv,hshortV,hv,Nat.add_mod]
+  have hsU : lowerNaturalShort (u++[1,1]) false = false := by
+    simp [lowerNaturalShort,hu,hnU31,hnU3]
+  rw [hsV,hsU]
+  simp only [Bool.not_false,Bool.true_and,decide_eq_false_iff_not]
+  have hnot : ¬ lowerWidth (v++[3,3]) ≤
+      (7/5:ℝ)*lowerWidth (u++[1,1,3]) := by
+    simpa using not_le_of_gt hthr
+  simp only [hpv,show ¬ (1:ℕ)=0 by omega,decide_false,if_false,List.append_assoc]
+  norm_num
+  simp only [hnot,decide_false]
+  simp only [not_le_of_gt hU1',if_false]
+  unfold lowerNaturalWords
+  simp only [Prod.fst,Prod.snd]
+  apply Prod.ext
+  · have hulen : (u.length+1)%2=1 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hu,hulen,hnU31,hnU3,hnU2_3,List.append_assoc]
+  · have hvlen : (v.length+1)%2=0 := by omega
+    simp [lowerNaturalShort,lowerEndpointSuffix,hvlen,lowerEnds,← List.reverse_prefix,List.append_assoc]
+
+end Cross16DirectThreeOther
+
+-- Source: agents.cross16.ThreeDirect
+open Freiman
+attribute [local instance] Classical.propDecidable
+set_option maxHeartbeats 0
+namespace Cross16Three
+
+private theorem direct_tie_three_one (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ [])
+    (hp : u.length%2 ≠ v.length%2)
+    (ht : lowerWidth (u++[3]) = lowerWidth (v++[1])) (upper : Bool) :
+    lowerEndpoint (u++[3],v++[1]) upper =
+      lowerEndpoint (v++[1],u++[3]) upper := by
+  have hU1 : lowerWidth ((u++[3])++[1]) < lowerWidth (v++[1]) :=
+    (Cross16Bounds.append_one_lt (u++[3])).trans_eq ht
+  have hV1 : lowerWidth ((v++[1])++[1]) < lowerWidth (u++[3]) :=
+    (Cross16Bounds.append_one_lt (v++[1])).trans_eq ht.symm
+  have hthrU := Cross16Bounds.tied_three_threshold (u++[3]) (v++[1]) ht
+  have hthrV := Cross16Bounds.tied_three_threshold (v++[1]) (u++[3]) ht.symm
+  rcases Nat.mod_two_eq_zero_or_one u.length with hu0 | hu1
+  · have hv1 : v.length%2=1 := by omega
+    rcases upper with _|_
+    · have hw := Cross16DirectThree.three_words_odd_false u v hu0 hv1 ht hU1
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+    · have hw := Cross16DirectThreeOther.one_three_even_true v u hv1 hu0 ht.symm hV1 hthrV
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+  · have hv0 : v.length%2=0 := by omega
+    rcases upper with _|_
+    · have hw := Cross16DirectThreeOther.one_three_odd_false v u hv0 hu1 ht.symm hV1 hthrV
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+    · have hw := Cross16DirectThree.three_words_even_true u v hu1 hv0 ht hU1
+      unfold lowerEndpoint
+      rw [hw]
+      ring
+
+end Cross16Three
+
+-- Source: agents.cross16.LowThree
+
+open Freiman
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+
+namespace Cross16LowThree
+
+private theorem cd_eq (w : List ℕ+) :
+    lowerCD w = (wordContinuantPrevQ w, wordContinuantQ w) := by
+  apply M7TieWidth14.cd_eq <;> assumption
+
+private theorem q_pos (w : List ℕ+) : 0 < ((lowerCD w).2 : ℝ) := by
+  apply M7TieWidth14.q_pos <;> assumption
+
+private theorem tails :
+    lowerAlpha ∈ Set.Icc (0 : ℝ) 1 ∧
+    lowerBeta ∈ Set.Icc (0 : ℝ) 1 ∧ lowerAlpha < lowerBeta := by
+  apply M7TieWidth14.tails <;> assumption
+
+private theorem width_formula (w : List ℕ+) :
+    lowerWidth w = (lowerBeta - lowerAlpha) /
+      ((((lowerCD w).1 : ℝ) * lowerAlpha + (lowerCD w).2) *
+       (((lowerCD w).1 : ℝ) * lowerBeta + (lowerCD w).2)) := by
+  apply M7LowTies15.width_formula <;> assumption
+
+private theorem width_pos (w : List ℕ+) : 0 < lowerWidth w := by
+  apply M7LowTies15.width_pos <;> assumption
+
+private theorem width_eq_of_cd (u v : List ℕ+) (h : lowerCD u = lowerCD v) :
+    lowerWidth u = lowerWidth v := by
+  apply M7LowTies15.width_eq_of_cd <;> assumption
+
+private theorem pe_append : ∀ (u v : List ℕ+) (x : ℝ),
+    prefixEval (u ++ v) x = prefixEval u (prefixEval v x)
+  | [], _, _ => rfl
+  | _ :: u, v, x => by simp only [List.cons_append, prefixEval, pe_append u v x]
+
+private theorem radical3 :
+    let s := Real.sqrt (3 : ℝ)
+    s^2 = 3 ∧ 0 < s ∧ s < 2 := by
+  apply M7LowTies15.radical3 <;> assumption
+
+private theorem endpoint_tails :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    E = 2 - Real.sqrt 3 ∧ F = (15 - Real.sqrt 3) / 37 ∧
+      E < F ∧ E ∈ Set.Icc (0 : ℝ) 1 ∧ F ∈ Set.Icc (0 : ℝ) 1 := by
+  apply M7LowTies15.endpoint_tails <;> assumption
+
+private theorem cd_append_one (w : List ℕ+) :
+    lowerCD (w ++ [1]) = ((lowerCD w).2, (lowerCD w).1 + (lowerCD w).2) := by
+  apply M7LowTies15.cd_append_one <;> assumption
+
+private theorem cd_append_low (w : List ℕ+) :
+    lowerCD (w ++ [3]) = ((lowerCD w).2,
+      (lowerCD w).1 + 3*(lowerCD w).2) := by
+  apply M7LowTies15.cd_append_low <;> assumption
+
+private theorem endpoint_den_pos (w : List ℕ+) (z : ℝ) (hz : 0 ≤ z) :
+    0 < ((lowerCD w).2 : ℝ) + z * (lowerCD w).1 := by
+  apply M7LowTies15.endpoint_den_pos <;> assumption
+
+private theorem pe_signed_difference (w : List ℕ+) (x y : ℝ) (hx : 0 ≤ x) (hy : 0 ≤ y) :
+    prefixEval w x - prefixEval w y =
+      (x-y) * ((-1 : ℝ)^w.length) /
+        ((((lowerCD w).2 : ℝ) + x*(lowerCD w).1) *
+         (((lowerCD w).2 : ℝ) + y*(lowerCD w).1)) := by
+  apply M7LowTies15.pe_signed_difference <;> assumption
+
+private theorem pe_delta_abs (w : List ℕ+) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    |prefixEval w E - prefixEval w F| =
+      (F-E) / ((((lowerCD w).2:ℝ)+E*(lowerCD w).1) *
+        (((lowerCD w).2:ℝ)+F*(lowerCD w).1)) := by
+  apply M7LowTies15.pe_delta_abs <;> assumption
+
+end Cross16LowThree
+
+namespace Cross16LowThree
+
+private theorem algebra_classify {c d C D : ℝ}
+    (hd : 0 < d) (hD : 0 < D) (hc : 0 ≤ c) (hC : 0 ≤ C)
+    (hA : 4*c*d-3*c^2 = 4*C*D-3*C^2)
+    (hB : 2*d^2-4*c*d+5*c^2 = 2*D^2-4*C*D+5*C^2) :
+    (c = C ∧ d = D) ∨ (5*C = -3*c+4*d ∧ 5*D = 4*c+3*d) := by
+  apply M7LowTies15.algebra_classify <;> assumption
+
+private theorem cd_classify (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v) :
+    lowerCD u = lowerCD v ∨
+      (5*((lowerCD v).1:ℝ) = -3*((lowerCD u).1:ℝ)+4*(lowerCD u).2 ∧
+       5*((lowerCD v).2:ℝ) = 4*((lowerCD u).1:ℝ)+3*(lowerCD u).2) := by
+  apply M7LowTies15.cd_classify <;> assumption
+
+end Cross16LowThree
+
+namespace Cross16LowThree
+
+private theorem cd_fst_le_snd (w : List ℕ+) : (lowerCD w).1 ≤ (lowerCD w).2 := by
+  apply M7LowTies15.cd_fst_le_snd <;> assumption
+
+private theorem width_seven_fifths (u v : List ℕ+)
+    (hden : 5*((((lowerCD v).1:ℝ)*lowerAlpha+(lowerCD v).2)*
+        (((lowerCD v).1:ℝ)*lowerBeta+(lowerCD v).2)) ≤
+      7*((((lowerCD u).1:ℝ)*lowerAlpha+(lowerCD u).2)*
+        (((lowerCD u).1:ℝ)*lowerBeta+(lowerCD u).2))) :
+    lowerWidth u ≤ (7/5:ℝ)*lowerWidth v := by
+  apply M7LowTies15.width_seven_fifths <;> assumption
+
+private theorem reflection_bounds_low {c d C D : ℝ}
+    (hc : 0 ≤ c) (hcd : c ≤ d) (hdc : d ≤ 2*c)
+    (hC : 5*C = -3*c+4*d) (hD : 5*D = 4*c+3*d) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    let a := lowerAlpha
+    let b := lowerBeta
+    let ce := d
+    let de := c+3*d
+    let Ce := D
+    let De := C+3*D
+    (d+E*c)*(d+F*c) ≤ (D+E*C)*(D+F*C) ∧
+      5*((De+a*Ce)*(De+b*Ce)) ≤ 7*((de+a*ce)*(de+b*ce)) ∧
+      5*((de+a*ce)*(de+b*ce)) ≤ 7*((De+a*Ce)*(De+b*Ce)) := by
+  apply M7LowTies15.reflection_bounds_low <;> assumption
+
+private theorem low_metric_data (u v : List ℕ+) (hu1 : lowerEnds u [1])
+    (hw : lowerWidth u = lowerWidth v) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    lowerWidth (u++[3]) ≤ (7/5:ℝ)*lowerWidth (v++[3]) ∧
+    lowerWidth (v++[3]) ≤ (7/5:ℝ)*lowerWidth (u++[3]) ∧
+    (((lowerCD u).2:ℝ)+E*(lowerCD u).1)*(((lowerCD u).2:ℝ)+F*(lowerCD u).1) ≤
+      (((lowerCD v).2:ℝ)+E*(lowerCD v).1)*(((lowerCD v).2:ℝ)+F*(lowerCD v).1) := by
+  apply M7LowTies15.low_metric_data <;> assumption
+
+private theorem low_delta_abs (u v : List ℕ+) (hu1 : lowerEnds u [1])
+    (hw : lowerWidth u = lowerWidth v) :
+    let E := prefixEval [3] lowerTau
+    let F := prefixEval [2,1,3] lowerTau
+    |prefixEval v E - prefixEval v F| ≤
+      |prefixEval u E - prefixEval u F| := by
+  apply M7LowTies15.low_delta_abs <;> assumption
+
+private theorem delta_nonpos_of_even (w : List ℕ+) (hp : w.length % 2 = 0) :
+    prefixEval w (prefixEval [3] lowerTau) -
+      prefixEval w (prefixEval [2,1,3] lowerTau) ≤ 0 := by
+  apply M7LowTies15.delta_nonpos_of_even <;> assumption
+
+private theorem delta_nonneg_of_odd (w : List ℕ+) (hp : w.length % 2 = 1) :
+    0 ≤ prefixEval w (prefixEval [3] lowerTau) -
+      prefixEval w (prefixEval [2,1,3] lowerTau) := by
+  apply M7LowTies15.delta_nonneg_of_odd <;> assumption
+
+private theorem low_three_words_lower (P Q : List ℕ+)
+    (hp : (P++[1]).length % 2 = 0) (hq : (Q++[3]).length % 2 = 0)
+    (hshort : ¬ lowerEnds (P++[1]) [3,1])
+    (hw : lowerWidth (P++[1]) = lowerWidth (Q++[3])) :
+    lowerEndpointWords (P++[1],Q++[3]) false =
+      (P++[1]++[3], Q++[3]++[2,1,3]) ∧
+    lowerEndpointWords (Q++[3],P++[1]) false =
+      (Q++[3]++[3], P++[1]++[2,1,3]) := by
+  have hm := low_metric_data (P++[1]) (Q++[3]) ⟨P,rfl⟩ hw
+  dsimp only at hm
+  have hp' : (P.length+1)%2 = 0 := by simpa using hp
+  have hq' : (Q.length+1)%2 = 0 := by simpa using hq
+  have hshort' : ¬ [3] <+: P.reverse := by
+    simpa [lowerEnds, ← List.reverse_prefix] using hshort
+  have hm1 : lowerWidth (P++[1,3]) ≤ (7/5:ℝ)*lowerWidth (Q++[3,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.1
+  have hm2 : lowerWidth (Q++[3,3]) ≤ (7/5:ℝ)*lowerWidth (P++[1,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.2.1
+  constructor
+  · unfold lowerEndpointWords
+    have hpar : (P++[1]).length % 2 = (Q++[3]).length % 2 := hp.trans hq.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (P++[1],Q++[3]) = (P++[1],Q++[3]) by
+      simp [lowerNormalize, hw.ge]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.ge, hm1, List.append_assoc]
+  · unfold lowerEndpointWords
+    have hpar : (Q++[3]).length % 2 = (P++[1]).length % 2 := hq.trans hp.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (Q++[3],P++[1]) = (Q++[3],P++[1]) by
+      simp [lowerNormalize, hw.le]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.le, hm2, List.append_assoc]
+
+private theorem low_three_words_upper (P Q : List ℕ+)
+    (hp : (P++[1]).length % 2 = 1) (hq : (Q++[3]).length % 2 = 1)
+    (hshort : ¬ lowerEnds (P++[1]) [3,1])
+    (hw : lowerWidth (P++[1]) = lowerWidth (Q++[3])) :
+    lowerEndpointWords (P++[1],Q++[3]) true =
+      (P++[1]++[3], Q++[3]++[2,1,3]) ∧
+    lowerEndpointWords (Q++[3],P++[1]) true =
+      (Q++[3]++[3], P++[1]++[2,1,3]) := by
+  have hm := low_metric_data (P++[1]) (Q++[3]) ⟨P,rfl⟩ hw
+  dsimp only at hm
+  have hp' : (P.length+1)%2 = 1 := by simpa using hp
+  have hq' : (Q.length+1)%2 = 1 := by simpa using hq
+  have hshort' : ¬ [3] <+: P.reverse := by
+    simpa [lowerEnds, ← List.reverse_prefix] using hshort
+  have hm1 : lowerWidth (P++[1,3]) ≤ (7/5:ℝ)*lowerWidth (Q++[3,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.1
+  have hm2 : lowerWidth (Q++[3,3]) ≤ (7/5:ℝ)*lowerWidth (P++[1,3]) := by
+    simpa only [List.append_assoc, List.cons_append, List.nil_append] using hm.2.1
+  constructor
+  · unfold lowerEndpointWords
+    have hpar : (P++[1]).length % 2 = (Q++[3]).length % 2 := hp.trans hq.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (P++[1],Q++[3]) = (P++[1],Q++[3]) by
+      simp [lowerNormalize, hw.ge]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.ge, hm1, List.append_assoc]
+  · unfold lowerEndpointWords
+    have hpar : (Q++[3]).length % 2 = (P++[1]).length % 2 := hq.trans hp.symm
+    rw [if_pos hpar]
+    unfold lowerEqualWords
+    rw [show lowerNormalize (Q++[3],P++[1]) = (Q++[3],P++[1]) by
+      simp [lowerNormalize, hw.le]]
+    simp [lowerNaturalShort, lowerEndpointSuffix, lowerEnds, ← List.reverse_prefix,
+      hp', hq', hshort', hw.le, hm2, List.append_assoc]
+
+private theorem low_tie_one_three (P Q : List ℕ+)
+    (hp : (P++[1]).length%2=(Q++[3]).length%2)
+    (hs : ¬ lowerEnds (P++[1]) [3,1])
+    (hw : lowerWidth (P++[1])=lowerWidth (Q++[3])) :
+    if (P++[1]).length%2=0 then
+      lowerEndpoint (P++[1],Q++[3]) false ≤ lowerEndpoint (Q++[3],P++[1]) false
+    else lowerEndpoint (Q++[3],P++[1]) true ≤ lowerEndpoint (P++[1],Q++[3]) true := by
+  have habs := low_delta_abs (P++[1]) (Q++[3]) ⟨P,rfl⟩ hw
+  dsimp only at habs
+  rcases Nat.mod_two_eq_zero_or_one (P++[1]).length with he | ho
+  · have hqe : (Q++[3]).length%2=0 := hp.symm ▸ he
+    rw [if_pos he]
+    have hwords := low_three_words_lower P Q he hqe hs hw
+    have hdp := delta_nonpos_of_even (P++[1]) he
+    have hdq := delta_nonpos_of_even (Q++[3]) hqe
+    rw [abs_of_nonpos hdq,abs_of_nonpos hdp] at habs
+    unfold lowerEndpoint
+    rw [hwords.1,hwords.2]
+    simp only [Prod.fst,Prod.snd]
+    rw [pe_append (P++[1]) [3] lowerTau,pe_append (Q++[3]) [2,1,3] lowerTau,
+      pe_append (Q++[3]) [3] lowerTau,pe_append (P++[1]) [2,1,3] lowerTau]
+    linarith
+  · have hqo : (Q++[3]).length%2=1 := hp.symm ▸ ho
+    simp only [if_neg (by omega : (P++[1]).length%2≠0)]
+    have hwords := low_three_words_upper P Q ho hqo hs hw
+    have hdp := delta_nonneg_of_odd (P++[1]) ho
+    have hdq := delta_nonneg_of_odd (Q++[3]) hqo
+    rw [abs_of_nonneg hdq,abs_of_nonneg hdp] at habs
+    unfold lowerEndpoint
+    rw [hwords.1,hwords.2]
+    simp only [Prod.fst,Prod.snd]
+    rw [pe_append (P++[1]) [3] lowerTau,pe_append (Q++[3]) [2,1,3] lowerTau,
+      pe_append (Q++[3]) [3] lowerTau,pe_append (P++[1]) [2,1,3] lowerTau]
+    linarith
+
+private theorem width_cd_classification (u v : List ℕ+) (hw : lowerWidth u = lowerWidth v) :
+    lowerCD u = lowerCD v ∨
+      (5*((lowerCD v).1:ℝ) = -3*((lowerCD u).1:ℝ)+4*(lowerCD u).2 ∧
+       5*((lowerCD v).2:ℝ) = 4*((lowerCD u).1:ℝ)+3*(lowerCD u).2) :=
+  cd_classify u v hw
+
+end Cross16LowThree
+
+-- Source: agents.cross16.ThreeArithmetic
+open Freiman
+namespace Cross16Three
+set_option maxHeartbeats 0
+
+private theorem three_one_virtual_nontie (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ [])
+    (hw : lowerWidth (u++[3]) < lowerWidth v) :
+    lowerWidth ((u++[3])++[1]) ≠ lowerWidth (v++[1]) := by
+  intro ht
+  have hgu := CDUnique15.goodHead_append u [3] hu hnu
+  have hguu := CDUnique15.goodHead_append (u++[3]) [1] hgu (by simp)
+  have hgv := CDUnique15.goodHead_append v [1] hv hnv
+  have hc := M7TieWidth14.cd_eq_of_width_same_side _ _ ht
+    (Or.inl ⟨Cross16.ratio_one_gt_half (u++[3]) hgu,Cross16.ratio_one_gt_half v hv⟩)
+  have hsame := CDUnique15.injective _ _ hguu hgv hc
+  have heq : u++[3]=v := List.append_cancel_right hsame
+  exact hw.ne (congrArg lowerWidth heq)
+
+private theorem three_one_other_virtual_nontie (u v : List ℕ+)
+    (hv : CDUnique15.GoodHead v) :
+    lowerWidth (u++[3]) ≠ lowerWidth ((v++[1])++[1]) := by
+  intro ht
+  have huq : (0:ℝ) < (lowerCD u).2 := by exact_mod_cast CDUnique15.snd_pos u
+  have hvq : (0:ℝ) < (lowerCD v).2 := by exact_mod_cast CDUnique15.snd_pos v
+  have huc : (0:ℝ) ≤ (lowerCD u).1 := by positivity
+  have hvc : (0:ℝ) ≤ (lowerCD v).1 := by positivity
+  have hvcq : ((lowerCD v).1:ℝ) < (lowerCD v).2 := by exact_mod_cast CDUnique15.cd_strict v hv
+  have he1 : lowerCD ((v++[1])++[1]) = ((lowerCD v).1+(lowerCD v).2,(lowerCD v).1+2*(lowerCD v).2) := by
+    simp [lowerCD,List.foldl_append]; omega
+  have he2 : lowerCD (u++[3]) = ((lowerCD u).2,(lowerCD u).1+3*(lowerCD u).2) := by
+    simp [lowerCD,List.foldl_append]
+  rcases Cross16LowThree.width_cd_classification _ _ ht.symm with he | he
+  · rw [he1,he2] at he
+    have h1 : ((lowerCD v).1:ℝ)+(lowerCD v).2=(lowerCD u).2 := by exact_mod_cast congrArg Prod.fst he
+    have h2 : ((lowerCD v).1:ℝ)+2*(lowerCD v).2=(lowerCD u).1+3*(lowerCD u).2 := by exact_mod_cast congrArg Prod.snd he
+    linarith
+  · rw [he1,he2] at he
+    simp only [Prod.fst,Prod.snd] at he
+    push_cast at he
+    linarith [he.1,he.2]
+
+private theorem three_two_virtual_nontie (u v : List ℕ+)
+    (hv : CDUnique15.GoodHead v) :
+    lowerWidth ((u++[3])++[1]) ≠ lowerWidth (v++[2]) := by
+  intro ht
+  have huq : (0:ℝ) < (lowerCD u).2 := by exact_mod_cast CDUnique15.snd_pos u
+  have hvq : (0:ℝ) < (lowerCD v).2 := by exact_mod_cast CDUnique15.snd_pos v
+  have huc : (0:ℝ) ≤ (lowerCD u).1 := by positivity
+  have hvc : (0:ℝ) ≤ (lowerCD v).1 := by positivity
+  have hvcq : ((lowerCD v).1:ℝ) < (lowerCD v).2 := by exact_mod_cast CDUnique15.cd_strict v hv
+  have he1 : lowerCD ((u++[3])++[1]) = ((lowerCD u).1+3*(lowerCD u).2,(lowerCD u).1+4*(lowerCD u).2) := by
+    simp [lowerCD,List.foldl_append]; omega
+  have he2 : lowerCD (v++[2]) = ((lowerCD v).2,(lowerCD v).1+2*(lowerCD v).2) := by
+    simp [lowerCD,List.foldl_append]
+  rcases Cross16LowThree.width_cd_classification _ _ ht with he | he
+  · rw [he1,he2] at he
+    have h1 : ((lowerCD u).1:ℝ)+3*(lowerCD u).2=(lowerCD v).2 := by exact_mod_cast congrArg Prod.fst he
+    have h2 : ((lowerCD u).1:ℝ)+4*(lowerCD u).2=(lowerCD v).1+2*(lowerCD v).2 := by exact_mod_cast congrArg Prod.snd he
+    linarith
+  · rw [he1,he2] at he
+    simp only [Prod.fst,Prod.snd] at he
+    push_cast at he
+    linarith [he.1,he.2]
+
+private theorem ratio_three_lt_half (w : List ℕ+) : lowerRatio (w++[3]) < (1/2:ℝ) := by
+  rw [lowerEarlyTerminal_ratio_append]
+  change 1/(3+lowerRatio w) < (1/2:ℝ)
+  have hr : 0 ≤ lowerRatio w := by unfold lowerRatio; positivity
+  rw [div_lt_div_iff₀ (by linarith) (by norm_num)]
+  linarith
+
+private theorem three_two_width_ne (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2≠v.length%2) :
+    lowerWidth (u++[3]) ≠ lowerWidth (v++[2]) := by
+  apply CDUnique15.width_ne_same_side_of_parity _ _
+    (CDUnique15.goodHead_append _ _ hu hnu) (CDUnique15.goodHead_append _ _ hv hnv)
+  · simp only [List.length_append,List.length_singleton]; omega
+  · exact Or.inr ⟨ratio_three_lt_half u,CDUnique15.ratio_two_lt_half v hnv⟩
+end Cross16Three
+
+-- Source: agents.cross16.ThreeContainment
+open Freiman
+namespace Cross16Three
+set_option maxHeartbeats 0
+
+private theorem containment_two (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+ :
+    lowerEndpoint (v++[2],u++[3]) false ≤ lowerEndpoint (u++[3],v++[2]) false ∧
+    lowerEndpoint (u++[3],v++[2]) true ≤ lowerEndpoint (v++[2],u++[3]) true := by
+  have hxn := three_two_virtual_nontie u v hv
+  have hne := three_two_width_ne u v hu hv hnu hnv hp
+  by_cases hyn : lowerWidth ((v++[2])++[1]) = lowerWidth (u++[3])
+  · have hwide : lowerWidth (u++[3]) ≤ lowerWidth (v++[2]) := by
+      rw [← hyn]
+      exact (Cross16Bounds.append_one_lt (v++[2])).le
+    have hnot : ¬ lowerWidth (v++[2]) ≤ lowerWidth (u++[3]) := by
+      rw [← hyn]
+      exact not_le_of_gt (Cross16Bounds.append_one_lt (v++[2]))
+    have hpar : ((v++[2])++[1]).length%2 = (u++[3]).length%2 := by
+      simp only [List.length_append,List.length_singleton]; omega
+    have hshort : ¬ lowerEnds ((v++[2])++[1]) [3,1] := by simp [lowerEnds, ← List.reverse_prefix]
+    have hh := Cross16LowThree.low_tie_one_three (v++[2]) u hpar hshort hyn
+    rcases Nat.mod_two_eq_zero_or_one v.length with hv0 | hv1
+    · have hu1 : u.length%2=1 := by omega
+      have hxp : (u++[3]).length%2=0 := by simp [hu1,Nat.add_mod]
+      have hyp : (v++[2]).length%2=1 := by simp [hv0,Nat.add_mod]
+      have hyyp : ((v++[2])++[1]).length%2=0 := by simp [hv0,Nat.add_mod]
+      simp only [hyyp,if_true] at hh
+      have he1 : lowerEndpoint (v++[2],u++[3]) false =
+          lowerEndpoint ((v++[2])++[1],u++[3]) false := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv0,hu1]
+      have he2 : lowerEndpoint (u++[3],v++[2]) false =
+          lowerEndpoint (u++[3],(v++[2])++[1]) false := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv0,hu1]
+      constructor
+      · simpa only [he1,he2] using hh
+      · apply le_of_eq
+        unfold lowerEndpoint lowerEndpointWords
+        simp only [Prod.fst,Prod.snd,hxp,hyp,hwide,hnot]
+        norm_num [Nat.add_mod,hv0]
+        unfold lowerNaturalWords
+        ring
+    · have hu0 : u.length%2=0 := by omega
+      have hxp : (u++[3]).length%2=1 := by simp [hu0,Nat.add_mod]
+      have hyp : (v++[2]).length%2=0 := by simp [hv1,Nat.add_mod]
+      have hyyp : ((v++[2])++[1]).length%2=1 := by simp [hv1,Nat.add_mod]
+      simp only [hyyp,show ¬(1:ℕ)=0 by omega,if_false] at hh
+      have he1 : lowerEndpoint (v++[2],u++[3]) true =
+          lowerEndpoint ((v++[2])++[1],u++[3]) true := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv1,hu0]
+      have he2 : lowerEndpoint (u++[3],v++[2]) true =
+          lowerEndpoint (u++[3],(v++[2])++[1]) true := by
+        simp [lowerEndpoint,lowerEndpointWords,hxp,hyp,hyyp,hwide,hnot,List.length_append,Nat.add_mod,hv1,hu0]
+      constructor
+      · apply le_of_eq
+        unfold lowerEndpoint lowerEndpointWords
+        simp only [Prod.fst,Prod.snd,hxp,hyp,hwide,hnot]
+        norm_num [Nat.add_mod,hv1]
+        unfold lowerNaturalWords
+        ring
+      · simpa only [he1,he2] using hh
+  · have hno : LowerEarlyTerminalNoTies (u++[3],v++[2]) :=
+      ⟨hne,fun _ => ⟨hxn,Ne.symm hyn⟩⟩
+    exact ⟨(lowerEarlyTerminal_endpoint_swap_nontie _ hno false).symm.le,
+      (lowerEarlyTerminal_endpoint_swap_nontie _ hno true).le⟩
+end Cross16Three
+
+-- Source: agents.cross16.TransferThree
+open Freiman
+namespace Cross16
+set_option maxHeartbeats 0
+
+private theorem transfer_three (u v : List ℕ+)
+    (hu : CDUnique15.GoodHead u) (hv : CDUnique15.GoodHead v)
+    (hnu : u ≠ []) (hnv : v ≠ []) (hp : u.length%2 ≠ v.length%2)
+    (hwu : lowerWidth (u++[3]) < lowerWidth v)
+    (h12 : lowerEndpoint (u++[3],v++[2]) false < lowerEndpoint (u++[3],v++[1]) true)
+    (h21 : lowerEndpoint (u++[3],v++[1]) false < lowerEndpoint (u++[3],v++[2]) true) :
+    lowerEndpoint (v++[2],u++[3]) false < lowerEndpoint (v++[1],u++[3]) true ∧
+    lowerEndpoint (v++[1],u++[3]) false < lowerEndpoint (v++[2],u++[3]) true := by
+  have hs1 (upper : Bool) : lowerEndpoint (u++[3],v++[1]) upper =
+      lowerEndpoint (v++[1],u++[3]) upper := by
+    by_cases ht : lowerWidth (u++[3])=lowerWidth (v++[1])
+    · exact Cross16Three.direct_tie_three_one u v hu hv hnu hnv hp ht upper
+    · have hno : LowerEarlyTerminalNoTies (u++[3],v++[1]) :=
+        ⟨ht,fun _ => ⟨Cross16Three.three_one_virtual_nontie u v hu hv hnu hnv hwu,
+          Cross16Three.three_one_other_virtual_nontie u v hv⟩⟩
+      exact lowerEarlyTerminal_endpoint_swap_nontie _ hno upper
+  have hc2 := Cross16Three.containment_two u v hu hv hnu hnv hp
+  exact ⟨hc2.1.trans_lt (h12.trans_eq (hs1 true)),
+    (hs1 false).symm.le.trans_lt (h21.trans_le hc2.2)⟩
+end Cross16
+
+-- Source: agents.longextra16.Cross
+
+open Freiman
+set_option maxHeartbeats 0
+
+namespace LongExtra16
+
+private theorem ratio_three_lt_third (w : List ℕ+) (hw : w ≠ []) :
+    lowerRatio (w++[3]) < (1/3:ℝ) := by
+  have hc := CDUnique15.fst_pos w hw
+  have hd := CDUnique15.snd_pos w
+  have hc' : (0:ℝ) < (lowerCD w).1 := by exact_mod_cast hc
+  rw [lowerRatio,CDUnique15.cd_snoc]
+  simp only [Prod.fst,Prod.snd,PNat.val_ofNat]
+  rw [div_lt_div_iff₀ (by positivity) (by norm_num)]
+  push_cast
+  nlinarith [hc']
+
+private theorem ratio_one_two_bounds (w : List ℕ+) (hw : w ≠ []) :
+    (1/3:ℝ) < lowerRatio (w++[1,2]) ∧ lowerRatio (w++[1,2]) < (1/2:ℝ) := by
+  have hc := CDUnique15.fst_pos w hw
+  have hd := CDUnique15.snd_pos w
+  have hc' : (0:ℝ) < (lowerCD w).1 := by exact_mod_cast hc
+  have hd' : (0:ℝ) < (lowerCD w).2 := by exact_mod_cast hd
+  rw [show w++[1,2] = (w++[1])++[2] by simp]
+  rw [lowerRatio,CDUnique15.cd_snoc,CDUnique15.cd_snoc]
+  simp only [Prod.fst,Prod.snd,PNat.val_ofNat]
+  constructor
+  · rw [div_lt_div_iff₀ (by norm_num) (by positivity)]
+    push_cast
+    nlinarith [hc']
+  · rw [div_lt_div_iff₀ (by positivity) (by norm_num)]
+    push_cast
+    nlinarith [hd']
+
+private theorem width_ne_three_one_two (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (hnb : b ≠ []) :
+    lowerWidth (a++[3]) ≠ lowerWidth (b++[1,2]) := by
+  intro ht
+  have hga := CDUnique15.goodHead_append a [3] ha hna
+  have hgb := CDUnique15.goodHead_append b [1,2] hb hnb
+  have hc := M7TieWidth14.cd_eq_of_width_same_side _ _ ht
+    (Or.inr ⟨(ratio_three_lt_third a hna).trans (by norm_num),
+      (ratio_one_two_bounds b hnb).2⟩)
+  have he := CDUnique15.injective _ _ hga hgb hc
+  have hz := congrArg List.getLast? he
+  simp at hz
+
+private theorem width_ne_three_one_one (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (hnb : b ≠ []) :
+    lowerWidth (a++[3]) ≠ lowerWidth (b++[1,1]) := by
+  simpa [List.append_assoc] using
+    Cross16Three.three_one_other_virtual_nontie a b hb
+
+private theorem endpoint_swap_same_parity (x y : List ℕ+)
+    (hp : x.length%2 = y.length%2) (hne : lowerWidth x ≠ lowerWidth y)
+    (upper : Bool) : lowerEndpoint (x,y) upper = lowerEndpoint (y,x) upper := by
+  have hn : lowerNormalize (y,x) = lowerNormalize (x,y) := by
+    unfold lowerNormalize
+    by_cases hw : lowerWidth y ≤ lowerWidth x
+    · have hh : ¬ lowerWidth x ≤ lowerWidth y := fun hh => hne (le_antisymm hh hw)
+      simp [hw,hh]
+    · have hh := (lt_of_not_ge hw).le
+      simp [hw,hh]
+  unfold lowerEndpoint lowerEndpointWords
+  simp only [Prod.fst,Prod.snd,if_pos hp,if_pos hp.symm]
+  unfold lowerEqualWords
+  rw [hn]
+  by_cases hw : lowerWidth y ≤ lowerWidth x
+  · have hh : ¬ lowerWidth x ≤ lowerWidth y := fun hh => hne (le_antisymm hh hw)
+    simp [hw,hh]
+    ring
+  · have hh := (lt_of_not_ge hw).le
+    simp [hw,hh]
+    ring
+
+private theorem transfer_three_one (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (hnb : b ≠ []) (hp : a.length%2 ≠ b.length%2)
+    (h12 : lowerEndpoint (a++[3],b++[1,2]) false <
+      lowerEndpoint (a++[3],b++[1,1]) true)
+    (h21 : lowerEndpoint (a++[3],b++[1,1]) false <
+      lowerEndpoint (a++[3],b++[1,2]) true) :
+    lowerEndpoint (b++[1,2],a++[3]) false <
+      lowerEndpoint (b++[1,1],a++[3]) true ∧
+    lowerEndpoint (b++[1,1],a++[3]) false <
+      lowerEndpoint (b++[1,2],a++[3]) true := by
+  have hp1 : (a++[3]).length%2 = (b++[1,1]).length%2 := by simp; omega
+  have hp2 : (a++[3]).length%2 = (b++[1,2]).length%2 := by simp; omega
+  have hn1 := width_ne_three_one_one a b ha hb hna hnb
+  have hn2 := width_ne_three_one_two a b ha hb hna hnb
+  have hs1 (upper : Bool) := endpoint_swap_same_parity (a++[3]) (b++[1,1]) hp1 hn1 upper
+  have hs2 (upper : Bool) := endpoint_swap_same_parity (a++[3]) (b++[1,2]) hp2 hn2 upper
+  constructor
+  · simpa [hs2 false,hs1 true] using h12
+  · simpa [hs1 false,hs2 true] using h21
+
+end LongExtra16
+
+
+-- Source: agents.cross16.SameOrdinary
+open Freiman
+namespace Cross16Same
+set_option maxHeartbeats 0
+set_option maxRecDepth 10000
+
+private def sameSuffixPairs : List (List ℕ+ × List ℕ+) :=
+  [([2],[2]),([3,2],[3,2]),([3,2],[3,3]),([3,1,1],[3,1,1]),
+   ([3,1,2],[3,1,2]),([3,1,2],[3,1,1]),([2],[1])]
+
+private theorem ordinary_width_ne (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (hnb : b ≠ [])
+    (hnorm : lowerWidth b ≤ lowerWidth a)
+    (hupper : lowerRatio a ≤ (4/5:ℝ))
+    (s t : List ℕ+) (hp : (s,t) ∈ sameSuffixPairs)
+    (j : ℕ+) (hj : j=1 ∨ j=2) :
+    lowerWidth (a++s) ≠ lowerWidth ((b++t)++[j]) := by
+  have hca : (0:ℝ) < (lowerCD a).1 := by exact_mod_cast CDUnique15.fst_pos a hna
+  have hda : (0:ℝ) < (lowerCD a).2 := by exact_mod_cast CDUnique15.snd_pos a
+  have hcb : (0:ℝ) < (lowerCD b).1 := by exact_mod_cast CDUnique15.fst_pos b hnb
+  have hdb : (0:ℝ) < (lowerCD b).2 := by exact_mod_cast CDUnique15.snd_pos b
+  have hacd : ((lowerCD a).1:ℝ) < (lowerCD a).2 := by exact_mod_cast CDUnique15.cd_strict a ha
+  have hbcd : ((lowerCD b).1:ℝ) < (lowerCD b).2 := by exact_mod_cast CDUnique15.cd_strict b hb
+  have hau : 5*((lowerCD a).1:ℝ) ≤ 4*(lowerCD a).2 := by
+    rw [lowerRatio,div_le_iff₀ hda] at hupper
+    linarith
+  simp only [sameSuffixPairs,List.mem_cons,List.not_mem_nil,or_false,Prod.mk.injEq] at hp
+  rcases hp with ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩
+  · rcases hj with rfl | rfl
+    · intro ht
+      have hA : lowerCD (a++[2]) = (((lowerCD a).2),((lowerCD a).1)+2*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[2])++[1]) = (((lowerCD b).1)+2*((lowerCD b).2),((lowerCD b).1)+3*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[2]) ((b++[2])++[1]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).2:ℝ) = ((lowerCD b).1:ℝ)+2*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : ((lowerCD a).1:ℝ)+2*((lowerCD a).2:ℝ) = ((lowerCD b).1:ℝ)+3*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+    · intro ht
+      have hA : lowerCD (a++[2]) = (((lowerCD a).2),((lowerCD a).1)+2*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[2])++[2]) = (((lowerCD b).1)+2*((lowerCD b).2),2*((lowerCD b).1)+5*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[2]) ((b++[2])++[2]) ht with he | he
+      · have hga := CDUnique15.goodHead_append a [2] ha hna
+        have hgb : CDUnique15.GoodHead ((b++[2])++[2]) := by
+          simpa [List.append_assoc] using CDUnique15.goodHead_append b [2,2] hb hnb
+        have hew := CDUnique15.injective _ _ hga hgb he
+        have hws : a++[2] = (b++[2])++[2] := by simpa [List.append_assoc] using hew
+        have heq : a=b++[2] := List.append_cancel_right hws
+        have hlt := Cross16Bounds.append_digit_lt b (2:ℕ+)
+        rw [← heq] at hlt
+        exact (not_lt_of_ge hnorm) hlt
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+  · rcases hj with rfl | rfl
+    · intro ht
+      have hA : lowerCD (a++[3,2]) = (((lowerCD a).1)+3*((lowerCD a).2),2*((lowerCD a).1)+7*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,2])++[1]) = (2*((lowerCD b).1)+7*((lowerCD b).2),3*((lowerCD b).1)+10*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,2]) ((b++[3,2])++[1]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+3*((lowerCD a).2:ℝ) = 2*((lowerCD b).1:ℝ)+7*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 2*((lowerCD a).1:ℝ)+7*((lowerCD a).2:ℝ) = 3*((lowerCD b).1:ℝ)+10*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+    · intro ht
+      have hA : lowerCD (a++[3,2]) = (((lowerCD a).1)+3*((lowerCD a).2),2*((lowerCD a).1)+7*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,2])++[2]) = (2*((lowerCD b).1)+7*((lowerCD b).2),5*((lowerCD b).1)+17*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,2]) ((b++[3,2])++[2]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+3*((lowerCD a).2:ℝ) = 2*((lowerCD b).1:ℝ)+7*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 2*((lowerCD a).1:ℝ)+7*((lowerCD a).2:ℝ) = 5*((lowerCD b).1:ℝ)+17*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+  · rcases hj with rfl | rfl
+    · intro ht
+      have hA : lowerCD (a++[3,2]) = (((lowerCD a).1)+3*((lowerCD a).2),2*((lowerCD a).1)+7*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,3])++[1]) = (3*((lowerCD b).1)+10*((lowerCD b).2),4*((lowerCD b).1)+13*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,2]) ((b++[3,3])++[1]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+3*((lowerCD a).2:ℝ) = 3*((lowerCD b).1:ℝ)+10*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 2*((lowerCD a).1:ℝ)+7*((lowerCD a).2:ℝ) = 4*((lowerCD b).1:ℝ)+13*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+    · intro ht
+      have hA : lowerCD (a++[3,2]) = (((lowerCD a).1)+3*((lowerCD a).2),2*((lowerCD a).1)+7*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,3])++[2]) = (3*((lowerCD b).1)+10*((lowerCD b).2),7*((lowerCD b).1)+23*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,2]) ((b++[3,3])++[2]) ht with he | he
+      · have hga := CDUnique15.goodHead_append a [3,2] ha hna
+        have hgb : CDUnique15.GoodHead ((b++[3,3])++[2]) := by
+          simpa [List.append_assoc] using CDUnique15.goodHead_append b [3,3,2] hb hnb
+        have hew := CDUnique15.injective _ _ hga hgb he
+        have hws : a++[3,2] = (b++[3])++[3,2] := by simpa [List.append_assoc] using hew
+        have heq : a=b++[3] := List.append_cancel_right hws
+        have hlt := Cross16Bounds.append_digit_lt b (3:ℕ+)
+        rw [← heq] at hlt
+        exact (not_lt_of_ge hnorm) hlt
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+  · rcases hj with rfl | rfl
+    · intro ht
+      have hA : lowerCD (a++[3,1,1]) = (((lowerCD a).1)+4*((lowerCD a).2),2*((lowerCD a).1)+7*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,1,1])++[1]) = (2*((lowerCD b).1)+7*((lowerCD b).2),3*((lowerCD b).1)+11*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,1,1]) ((b++[3,1,1])++[1]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+4*((lowerCD a).2:ℝ) = 2*((lowerCD b).1:ℝ)+7*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 2*((lowerCD a).1:ℝ)+7*((lowerCD a).2:ℝ) = 3*((lowerCD b).1:ℝ)+11*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+    · intro ht
+      have hA : lowerCD (a++[3,1,1]) = (((lowerCD a).1)+4*((lowerCD a).2),2*((lowerCD a).1)+7*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,1,1])++[2]) = (2*((lowerCD b).1)+7*((lowerCD b).2),5*((lowerCD b).1)+18*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,1,1]) ((b++[3,1,1])++[2]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+4*((lowerCD a).2:ℝ) = 2*((lowerCD b).1:ℝ)+7*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 2*((lowerCD a).1:ℝ)+7*((lowerCD a).2:ℝ) = 5*((lowerCD b).1:ℝ)+18*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+  · rcases hj with rfl | rfl
+    · intro ht
+      have hA : lowerCD (a++[3,1,2]) = (((lowerCD a).1)+4*((lowerCD a).2),3*((lowerCD a).1)+11*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,1,2])++[1]) = (3*((lowerCD b).1)+11*((lowerCD b).2),4*((lowerCD b).1)+15*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,1,2]) ((b++[3,1,2])++[1]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+4*((lowerCD a).2:ℝ) = 3*((lowerCD b).1:ℝ)+11*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 3*((lowerCD a).1:ℝ)+11*((lowerCD a).2:ℝ) = 4*((lowerCD b).1:ℝ)+15*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+    · intro ht
+      have hA : lowerCD (a++[3,1,2]) = (((lowerCD a).1)+4*((lowerCD a).2),3*((lowerCD a).1)+11*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,1,2])++[2]) = (3*((lowerCD b).1)+11*((lowerCD b).2),7*((lowerCD b).1)+26*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,1,2]) ((b++[3,1,2])++[2]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+4*((lowerCD a).2:ℝ) = 3*((lowerCD b).1:ℝ)+11*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 3*((lowerCD a).1:ℝ)+11*((lowerCD a).2:ℝ) = 7*((lowerCD b).1:ℝ)+26*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+  · rcases hj with rfl | rfl
+    · intro ht
+      have hA : lowerCD (a++[3,1,2]) = (((lowerCD a).1)+4*((lowerCD a).2),3*((lowerCD a).1)+11*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,1,1])++[1]) = (2*((lowerCD b).1)+7*((lowerCD b).2),3*((lowerCD b).1)+11*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,1,2]) ((b++[3,1,1])++[1]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+4*((lowerCD a).2:ℝ) = 2*((lowerCD b).1:ℝ)+7*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 3*((lowerCD a).1:ℝ)+11*((lowerCD a).2:ℝ) = 3*((lowerCD b).1:ℝ)+11*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+    · intro ht
+      have hA : lowerCD (a++[3,1,2]) = (((lowerCD a).1)+4*((lowerCD a).2),3*((lowerCD a).1)+11*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[3,1,1])++[2]) = (2*((lowerCD b).1)+7*((lowerCD b).2),5*((lowerCD b).1)+18*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[3,1,2]) ((b++[3,1,1])++[2]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).1:ℝ)+4*((lowerCD a).2:ℝ) = 2*((lowerCD b).1:ℝ)+7*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : 3*((lowerCD a).1:ℝ)+11*((lowerCD a).2:ℝ) = 5*((lowerCD b).1:ℝ)+18*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+  · rcases hj with rfl | rfl
+    · intro ht
+      have hA : lowerCD (a++[2]) = (((lowerCD a).2),((lowerCD a).1)+2*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[1])++[1]) = (((lowerCD b).1)+((lowerCD b).2),((lowerCD b).1)+2*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[2]) ((b++[1])++[1]) ht with he | he
+      · rw [hA,hB] at he
+        have h1 : ((lowerCD a).2:ℝ) = ((lowerCD b).1:ℝ)+((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.fst he
+        have h2 : ((lowerCD a).1:ℝ)+2*((lowerCD a).2:ℝ) = ((lowerCD b).1:ℝ)+2*((lowerCD b).2:ℝ) := by exact_mod_cast congrArg Prod.snd he
+        linarith
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        have hcf : ((lowerCD b).1:ℝ) ≤ (lowerCD a).1 := by linarith [he.1,he.2]
+        have hdf : ((lowerCD b).2:ℝ) < (lowerCD a).2 := by linarith [he.1,he.2]
+        exact (not_lt_of_ge hnorm) (Cross16Bounds.width_lt_of_cd b a hcf hdf)
+    · intro ht
+      have hA : lowerCD (a++[2]) = (((lowerCD a).2),((lowerCD a).1)+2*((lowerCD a).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      have hB : lowerCD ((b++[1])++[2]) = (((lowerCD b).1)+((lowerCD b).2),2*((lowerCD b).1)+3*((lowerCD b).2)) := by
+        simp [lowerCD,List.foldl_append] <;> omega
+      rcases Cross16LowThree.width_cd_classification (a++[2]) ((b++[1])++[2]) ht with he | he
+      · have hga := CDUnique15.goodHead_append a [2] ha hna
+        have hgb : CDUnique15.GoodHead ((b++[1])++[2]) := by
+          simpa [List.append_assoc] using CDUnique15.goodHead_append b [1,2] hb hnb
+        have hew := CDUnique15.injective _ _ hga hgb he
+        have hws : a++[2] = (b++[1])++[2] := by simpa [List.append_assoc] using hew
+        have heq : a=b++[1] := List.append_cancel_right hws
+        have hlt := Cross16Bounds.append_digit_lt b (1:ℕ+)
+        rw [← heq] at hlt
+        exact (not_lt_of_ge hnorm) hlt
+      · rw [hA,hB] at he
+        simp only [Prod.fst,Prod.snd] at he
+        push_cast at he
+        linarith [he.1,he.2]
+
+end Cross16Same
+namespace Cross16Same
+
+private theorem suffix_parity (s t : List ℕ+) (hp : (s,t) ∈ sameSuffixPairs) :
+    s.length%2=t.length%2 := by
+  simp only [sameSuffixPairs,List.mem_cons,List.not_mem_nil,or_false,Prod.mk.injEq] at hp
+  rcases hp with ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ | ⟨rfl,rfl⟩ <;> decide
+
+private theorem ordinary_endpoint_swap (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (hnb : b ≠ []) (hpar : a.length%2≠b.length%2)
+    (hnorm : lowerWidth b ≤ lowerWidth a)
+    (hupper : lowerRatio a ≤ (4/5:ℝ))
+    (s t : List ℕ+) (hp : (s,t) ∈ sameSuffixPairs)
+    (j : ℕ+) (hj : j=1 ∨ j=2) (upper : Bool) :
+    lowerEndpoint (a++s,(b++t)++[j]) upper =
+      lowerEndpoint ((b++t)++[j],a++s) upper := by
+  have hps := suffix_parity s t hp
+  have hpg : (a++s).length%2=((b++t)++[j]).length%2 := by
+    simp only [List.length_append,List.length_singleton]
+    omega
+  have hne := ordinary_width_ne a b ha hb hna hnb hnorm hupper s t hp j hj
+  have hn : LowerEarlyTerminalNoTies (a++s,(b++t)++[j]) :=
+    ⟨hne,fun hx => (hx hpg).elim⟩
+  exact lowerEarlyTerminal_endpoint_swap_nontie _ hn upper
+
+private theorem transfer (a b : List ℕ+)
+    (ha : CDUnique15.GoodHead a) (hb : CDUnique15.GoodHead b)
+    (hna : a ≠ []) (hnb : b ≠ []) (hpar : a.length%2≠b.length%2)
+    (hnorm : lowerWidth b ≤ lowerWidth a)
+    (hupper : lowerRatio a ≤ (4/5:ℝ))
+    (s t : List ℕ+) (hp : (s,t) ∈ sameSuffixPairs)
+    (h12 : lowerEndpoint (a++s,(b++t)++[2]) false < lowerEndpoint (a++s,(b++t)++[1]) true)
+    (h21 : lowerEndpoint (a++s,(b++t)++[1]) false < lowerEndpoint (a++s,(b++t)++[2]) true) :
+    lowerEndpoint ((b++t)++[2],a++s) false < lowerEndpoint ((b++t)++[1],a++s) true ∧
+    lowerEndpoint ((b++t)++[1],a++s) false < lowerEndpoint ((b++t)++[2],a++s) true := by
+  have hs1 := ordinary_endpoint_swap a b ha hb hna hnb hpar hnorm hupper s t hp 1 (Or.inl rfl)
+  have hs2 := ordinary_endpoint_swap a b ha hb hna hnb hpar hnorm hupper s t hp 2 (Or.inr rfl)
+  constructor
+  · rw [← hs2 false,← hs1 true]
+    exact h12
+  · rw [← hs1 false,← hs2 true]
+    exact h21
+end Cross16Same
+
+-- Source: agents.long16.Final
+
+open Freiman
+set_option maxHeartbeats 0
+set_option maxRecDepth 100000
+attribute [local instance] Classical.propDecidable
+
+namespace Long16Final
+
+private theorem normalized_width_le (p : LowerPair) :
+    lowerWidth (lowerNormalize p).2 ≤ lowerWidth (lowerNormalize p).1 := by
+  unfold lowerNormalize
+  split_ifs with h
+  · exact h
+  · exact (lt_of_not_ge h).le
+
+private theorem normalized_data (t : ℝ) (p : LowerPair) (hs : lowerState t p)
+    (hm : lowerMixed p) :
+    let Z := lowerNormalize p
+    CDUnique15.GoodHead Z.1 ∧ CDUnique15.GoodHead Z.2 ∧
+    Z.1 ≠ [] ∧ Z.2 ≠ [] ∧ Z.1.length % 2 ≠ Z.2.length % 2 ∧
+    lowerParameterBox Z ∧
+    lowerWidth (Z.1++[2]) < lowerWidth Z.2 ∧
+    lowerWidth (Z.1++[3]) < lowerWidth Z.2 ∧
+    lowerWidth (Z.1++[1,1]) < lowerWidth Z.2 ∧
+    lowerWidth (Z.2++[1]) < lowerWidth Z.1 := by
+  rcases hs with ⟨had,hgood,_,hbox⟩
+  have hh := CDUnique15.admissible_goodHead p had
+  have hn1 : p.1 ≠ [] := by
+    intro he; have hx := hbox.1; rw [he] at hx
+    norm_num [lowerRatio,lowerCD] at hx
+  have hn2 : p.2 ≠ [] := by
+    intro he; have hx := hbox.2.2.1; rw [he] at hx
+    norm_num [lowerRatio,lowerCD] at hx
+  have hf := lower_forced_reflections p hgood hbox
+  unfold lowerNormalize
+  split_ifs with hw
+  · have hf' := hf
+    simp [lowerNormalize,hw] at hf'
+    exact ⟨hh.1,hh.2,hn1,hn2,hm,hbox,hf'.1,hf'.2.1,hf'.2.2.1,hf'.2.2.2⟩
+  · exact ⟨hh.2,hh.1,hn2,hn1,Ne.symm hm,
+      ⟨hbox.2.2.1,hbox.2.2.2,hbox.1,hbox.2.1⟩,
+      (by simpa [lowerNormalize,hw] using hf.1),
+      (by simpa [lowerNormalize,hw] using hf.2.1),
+      (by simpa [lowerNormalize,hw] using hf.2.2.1),
+      (by simpa [lowerNormalize,hw] using hf.2.2.2)⟩
+
+private theorem ratio_append_ge_quarter (u s : List ℕ+)
+    (hu : (1/4:ℝ) ≤ lowerRatio u) (hu' : lowerRatio u ≤ (4/5:ℝ))
+    (hs : s = [] ∨ s = [3] ∨ s = [3,1]) :
+    (1/4:ℝ) ≤ lowerRatio (u++s) := by
+  rcases hs with rfl | rfl | rfl
+  · simpa using hu
+  · rw [lowerEarlyTerminal_ratio_append]
+    norm_num [prefixEval]
+    have hr := lowerEarlyTerminal_ratio_range u
+    rw [inv_eq_one_div]
+    rw [le_div_iff₀ (by positivity)]
+    linarith
+  · rw [lowerEarlyTerminal_ratio_append]
+    norm_num [prefixEval]
+    have hr := lowerEarlyTerminal_ratio_range u
+    rw [inv_eq_one_div]
+    rw [le_div_iff₀ (by positivity)]
+    have hi : 1 / (3 + lowerRatio u) ≤ (1:ℝ) := by
+      rw [div_le_one (by positivity)]
+      linarith
+    have hi' : (3 + lowerRatio u)⁻¹ ≤ (1:ℝ) := by
+      simpa only [one_div] using hi
+    nlinarith
+
+end Long16Final
+
+private theorem long_complete (t : ℝ) (p : LowerPair)
+    (hs : lowerState t p) (hb : lowerSuffixBounds p t)
+    (hp97 : lowerP97Anchor p t) (hlate : lowerLateEntryDomain p)
+    (hc : lowerMixed p ∧ ¬ lowerH p 2 ∧ ¬ lowerH p 5)
+    (hg : section14RawGeometry p) : lowerNumericSuccessor t p := by
+  rcases hc with ⟨hm,hn2,hn5⟩
+  have hd := Long16Final.normalized_data t p hs hm
+  let Z := lowerNormalize p
+  let a := Z.1
+  let b := Z.2
+  have ha : CDUnique15.GoodHead a := hd.1
+  have hbhead : CDUnique15.GoodHead b := hd.2.1
+  have hna : a ≠ [] := hd.2.2.1
+  have hnb : b ≠ [] := hd.2.2.2.1
+  have hp : a.length%2 ≠ b.length%2 := hd.2.2.2.2.1
+  have hbox : lowerParameterBox Z := hd.2.2.2.2.2.1
+  have hforced := hd.2.2.2.2.2.2
+  have hnorm : lowerWidth b ≤ lowerWidth a := by
+    simpa [a,b,Z] using Long16Final.normalized_width_le p
+  apply Long16.long_selection_of_good_parent t p hm hn2 hn5 hb hg
+  · intro l hl
+    apply Long14.child_good_of_raw p l hl hg
+    intro hwidth h12 h21
+    have hall : l ∈ [([1],[]),([], [1]),([2],[2]),([2,3],[3,2]),([2,3],[3,3]),
+        ([1,1,3],[3,1,1]),([2,1,3],[3,1,2]),([2,1,3],[3,1,1]),
+        ([1,1,3],[3,2]),([1,1,3],[3,3]),([2,1,3],[3,2]),([2],[1,1]),([2],[1]),
+        ([3,3],[2,1,3]),([3,3],[2,1,2]),([2,3],[2,1,3]),([2,3],[2,1,2]),
+        ([2,3],[2,1,1]),([3],[1])] := by
+      unfold section14RawList at hl
+      simp only [hn2,hn5,if_false] at hl
+      split_ifs at hl <;> simp at hl <;> aesop
+    simp only [List.mem_cons,List.not_mem_nil,or_false] at hall
+    rcases hall with rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl|rfl
+    all_goals simp only [section14LabelWords,List.reverse_cons,List.reverse_nil,List.nil_append] at hwidth h12 h21 ⊢
+    · simpa [a,b,Z,List.append_assoc] using
+        Long16D1.transfer_one a b ha hbhead hna hnb hp
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · exfalso
+      have hf : lowerWidth (b++[1]) < lowerWidth a := by
+        simpa [a,b,Z] using hforced.2.2.2
+      exact (not_lt_of_ge hf.le) (by simpa [a,b,Z,List.append_assoc] using hwidth)
+    · simpa [a,b,Z,List.append_assoc] using
+        Cross16Same.transfer a b ha hbhead hna hnb hp hnorm hbox.2.1 [2] [2]
+          (by simp [Cross16Same.sameSuffixPairs])
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · simpa [a,b,Z,List.append_assoc] using
+        Cross16Same.transfer a b ha hbhead hna hnb hp hnorm hbox.2.1 [3,2] [3,2]
+          (by simp [Cross16Same.sameSuffixPairs])
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · simpa [a,b,Z,List.append_assoc] using
+        Cross16Same.transfer a b ha hbhead hna hnb hp hnorm hbox.2.1 [3,2] [3,3]
+          (by simp [Cross16Same.sameSuffixPairs])
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · simpa [a,b,Z,List.append_assoc] using
+        Cross16Same.transfer a b ha hbhead hna hnb hp hnorm hbox.2.1 [3,1,1] [3,1,1]
+          (by simp [Cross16Same.sameSuffixPairs])
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · simpa [a,b,Z,List.append_assoc] using
+        Cross16Same.transfer a b ha hbhead hna hnb hp hnorm hbox.2.1 [3,1,2] [3,1,2]
+          (by simp [Cross16Same.sameSuffixPairs])
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · simpa [a,b,Z,List.append_assoc] using
+        Cross16Same.transfer a b ha hbhead hna hnb hp hnorm hbox.2.1 [3,1,2] [3,1,1]
+          (by simp [Cross16Same.sameSuffixPairs])
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3,1] ha hna
+      have hv := CDUnique15.goodHead_append b [3,2] hbhead hnb
+      have hpuv : (a++[3,1]).length%2 ≠ (b++[3,2]).length%2 := by simp; omega
+      simpa [a,b,Z,List.append_assoc] using
+        Long16D1.transfer_one (a++[3,1]) (b++[3,2]) hu hv (by simp) (by simp) hpuv
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3,1] ha hna
+      have hv := CDUnique15.goodHead_append b [3,3] hbhead hnb
+      have hpuv : (a++[3,1]).length%2 ≠ (b++[3,3]).length%2 := by simp; omega
+      simpa [a,b,Z,List.append_assoc] using
+        Long16D1.transfer_one (a++[3,1]) (b++[3,3]) hu hv (by simp) (by simp) hpuv
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3,1] ha hna
+      have hv := CDUnique15.goodHead_append b [3,2] hbhead hnb
+      have hpuv : (a++[3,1]).length%2 ≠ (b++[3,2]).length%2 := by simp; omega
+      have hru : (1/4:ℝ) ≤ lowerRatio (a++[3,1]) :=
+        Long16Final.ratio_append_ge_quarter a [3,1] hbox.1 hbox.2.1 (by simp)
+      simpa [a,b,Z,List.append_assoc] using
+        Cross16.transfer_two_of_ratio (a++[3,1]) (b++[3,2]) hu hv (by simp) (by simp)
+          hpuv hru (by simpa [a,b,Z,List.append_assoc] using hwidth)
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hv := CDUnique15.goodHead_append b [1,1] hbhead hnb
+      have hpv : a.length%2 ≠ (b++[1,1]).length%2 := by simp; omega
+      simpa [a,b,Z,List.append_assoc] using
+        Cross16.transfer_two_of_ratio a (b++[1,1]) ha hv hna (by simp) hpv hbox.1
+          (by simpa [a,b,Z,List.append_assoc] using hwidth)
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · simpa [a,b,Z,List.append_assoc] using
+        Cross16Same.transfer a b ha hbhead hna hnb hp hnorm hbox.2.1 [2] [1]
+          (by simp [Cross16Same.sameSuffixPairs])
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3] ha hna
+      have hv := CDUnique15.goodHead_append b [2,1,3] hbhead hnb
+      have hpuv : (a++[3]).length%2 ≠ (b++[2,1,3]).length%2 := by simp; omega
+      simpa [a,b,Z,List.append_assoc] using
+        Cross16.transfer_three (a++[3]) (b++[2,1,3]) hu hv (by simp) (by simp) hpuv
+          (by simpa [a,b,Z,List.append_assoc] using hwidth)
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3] ha hna
+      have hv := CDUnique15.goodHead_append b [2,1,2] hbhead hnb
+      have hpuv : (a++[3]).length%2 ≠ (b++[2,1,2]).length%2 := by simp; omega
+      simpa [a,b,Z,List.append_assoc] using
+        Cross16.transfer_three (a++[3]) (b++[2,1,2]) hu hv (by simp) (by simp) hpuv
+          (by simpa [a,b,Z,List.append_assoc] using hwidth)
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3] ha hna
+      have hv := CDUnique15.goodHead_append b [2,1,3] hbhead hnb
+      have hpuv : (a++[3]).length%2 ≠ (b++[2,1,3]).length%2 := by simp; omega
+      have hru := Long16Final.ratio_append_ge_quarter a [3] hbox.1 hbox.2.1 (by simp)
+      simpa [a,b,Z,List.append_assoc] using
+        Cross16.transfer_two_of_ratio (a++[3]) (b++[2,1,3]) hu hv (by simp) (by simp)
+          hpuv hru (by simpa [a,b,Z,List.append_assoc] using hwidth)
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3] ha hna
+      have hv := CDUnique15.goodHead_append b [2,1,2] hbhead hnb
+      have hpuv : (a++[3]).length%2 ≠ (b++[2,1,2]).length%2 := by simp; omega
+      have hru := Long16Final.ratio_append_ge_quarter a [3] hbox.1 hbox.2.1 (by simp)
+      simpa [a,b,Z,List.append_assoc] using
+        Cross16.transfer_two_of_ratio (a++[3]) (b++[2,1,2]) hu hv (by simp) (by simp)
+          hpuv hru (by simpa [a,b,Z,List.append_assoc] using hwidth)
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · have hu := CDUnique15.goodHead_append a [3] ha hna
+      have hv := CDUnique15.goodHead_append b [2,1,1] hbhead hnb
+      have hpuv : (a++[3]).length%2 ≠ (b++[2,1,1]).length%2 := by simp; omega
+      have hru := Long16Final.ratio_append_ge_quarter a [3] hbox.1 hbox.2.1 (by simp)
+      simpa [a,b,Z,List.append_assoc] using
+        Cross16.transfer_two_of_ratio (a++[3]) (b++[2,1,1]) hu hv (by simp) (by simp)
+          hpuv hru (by simpa [a,b,Z,List.append_assoc] using hwidth)
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+    · simpa [a,b,Z,List.append_assoc] using
+        LongExtra16.transfer_three_one a b ha hbhead hna hnb hp
+          (by simpa [a,b,Z,List.append_assoc] using h12)
+          (by simpa [a,b,Z,List.append_assoc] using h21)
+  · exact Long16Parent.parent_interval_of_not_h5 t p hs hm hn5
+
+
+theorem solution (t : ℝ) (p : LowerPair) (hs : lowerState t p) (hb : lowerSuffixBounds p t)
+    (hp97 : lowerP97Anchor p t) (hlate : lowerLateEntryDomain p)
+    (hc : lowerMixed p ∧ ¬ lowerH p 2 ∧ ¬ lowerH p 5) (hg : section14RawGeometry p) : lowerNumericSuccessor t p := by
+  apply long_complete <;> assumption
+
+#print axioms solution

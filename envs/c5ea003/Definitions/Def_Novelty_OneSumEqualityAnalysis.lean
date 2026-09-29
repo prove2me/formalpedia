@@ -1,0 +1,138 @@
+-- Prove2me | Definitions.Def_Novelty_OneSumEqualityAnalysis
+-- name    : Novelty_OneSumEqualityAnalysis
+-- status  : Definition
+-- author  : @raver1975
+-- created : 2026-09-11T14:34:18.471545+00:00
+-- url     : https://prove2.me/theorems/d5f107c8-f3f8-4c3f-ac01-ab1df6a86739
+-- title:
+--   Aether Catalog definitions — Novelty_OneSumEqualityAnalysis
+-- statement:
+--   Definition bundle for the Aether Catalog module `Novelty.OneSumEqualityAnalysis`, transplanted by skeleton subtraction; supplies the types and constants the catalog's theorems import.
+
+-- Def bundle generated from Novelty/OneSumEqualityAnalysis.lean by skeleton subtraction
+import Mathlib
+import Definitions.Def_Novelty_IndependenceRatioChromatic
+
+/-!
+# 1-sums (vertex amalgamations), the sharp pigeonhole bound, and its equality case
+
+This file develops the *structure theory of 1-sums* for the colouring / independence-ratio
+circle formalised in `Novelty.IndependenceRatioChromatic` and
+`Novelty.IndependenceRatioLowerBound`.
+
+A graph `G` is the **1-sum** (vertex amalgamation, clique-sum of order one) of `G₁` and `G₂`
+along the cut vertex `v` if `G = G₁ ⊔ G₂`, all edges of `Gᵢ` live inside a side `A` resp. `B`,
+the two sides cover the vertex set and meet exactly in `{v}`.  This is `SimpleGraph.IsOneSum`.
+
+Main results.
+
+* `SimpleGraph.IsOneSum.colorable` — **1-sum closure of colourability**: `k`-colourability is
+  preserved by 1-sums.  The proof recolours the second side by the transposition that matches
+  the two colours of the cut vertex.
+* `SimpleGraph.IsOneSum.chromaticNumber_eq_max` — `χ(G) = max (χ G₁) (χ G₂)`.
+* `SimpleGraph.IsOneSum.isClique_left_or_right`, `SimpleGraph.IsOneSum.cliqueNum_eq_max` —
+  every clique of a 1-sum lies on one side, hence `ω(G) = max (ω G₁) (ω G₂)`.
+* `SimpleGraph.IsOneSum.chromaticNumber_eq_cliqueNum` — **weak perfection (`χ = ω`) is closed
+  under 1-sums**; the equality analysis is exactly the pair of `max` formulas above.
+* `SimpleGraph.IsOneSum.card_add_indicator_eq` — the exact splitting identity for an arbitrary
+  vertex set: `|s| + [v ∈ s] = |s ∩ A| + |s ∩ B|`.
+* `SimpleGraph.card_eq_colors_mul_indepNum_iff` — **the equality analysis of the sharp
+  pigeonhole bound** `n ≤ k·α(G)` of the catalog: equality holds for a `k`-colouring `C`
+  precisely when *every* colour class of `C` is a maximum independent set.
+* `SimpleGraph.indepRatio_eq_inv_iff` — consequently `i(G) = 1/k` iff all colour classes are
+  maximum independent sets, and `SimpleGraph.IsOneSum.indepRatio_ge_quarter` /
+  `SimpleGraph.IsOneSum.indepRatio_eq_quarter_iff` transport the sharp bound `i(G) ≥ 1/4`
+  and its equality case across a 1-sum of two `4`-colourable graphs.
+
+-- !-- Lab Notes -- !--
+Hypothesis (Hypothesizer): the two catalog ingredients — the sharp bound `n ≤ k·α` and the
+closure of the colouring class under 1-sums — should combine into a *dictionary*: on the
+colouring side a 1-sum is a `max`, so every `max`-stable invariant (`χ`, `ω`) is determined by
+the pieces, and the conjecture "`i ≥ 1/4` is 1-sum stable" reduces to whether the *ratio* is
+`max`-stable too.  Ratios are not `max`-stable (they are mediants), so the prediction is:
+colouring closure survives, ratio closure fails.
+Experiment (Experimenter): the colouring closure was proved by the transposition recolouring
+`x ↦ if x ∈ A then C₁ x else (swap (C₁ v) (C₂ v)) (C₂ x)`; the only delicate case is an edge of
+`G₂` incident to the cut vertex, where `swap` is used through `Equiv.swap_apply_left`.  The
+clique statement needed the observation that a vertex of `A \ B` and a vertex of `B \ A` are
+never adjacent, so a clique cannot straddle the cut.
+Analysis (Analyst): the equality analysis of the pigeonhole bound is a `Finset.sum_lt_sum`
+argument: `n = ∑_c |C⁻¹ c| ≤ ∑_c α = k·α`, with equality iff no fibre is strictly smaller than
+`α`.  This makes "`i(G) = 1/k`" a *balancedness* statement, not a metric accident.
+Critique (Critic): `A ∪ B = univ` is load-bearing for the clique and splitting statements
+(otherwise a vertex outside both sides is isolated in `G` and joins every independent set but
+no side); `A ∩ B = {v}` is load-bearing for the colouring proof (two shared vertices need a
+simultaneous match, which a single transposition cannot deliver).  No statement here is
+definitional: each `max` formula needs both inequalities and one of them uses the
+recolouring.
+Synthesis (PI): 1-sums act as `max` on `χ` and `ω` and as a *mediant with a defect `-1`* on
+`(α, n)`.  The defect is exactly the cut vertex counted twice, which is what
+`card_add_indicator_eq` isolates — and it is what the companion file
+`Novelty.OneSumIndepRatioCounterexample` turns into a refutation of ratio closure.
+-- !-- end Lab Notes -- !--
+-/
+
+open Finset
+
+namespace SimpleGraph
+
+variable {V : Type*} {G G₁ G₂ : SimpleGraph V} {A B : Set V} {v : V}
+
+/-- `G` is the **1-sum** (vertex amalgamation) of `G₁` and `G₂` along the cut vertex `v`:
+`G` is the union of the two parts, the part `Gᵢ` has all its edges inside its side (`A` resp.
+`B`), the sides cover all vertices and meet exactly in `{v}`. -/
+structure IsOneSum (G G₁ G₂ : SimpleGraph V) (A B : Set V) (v : V) : Prop where
+  /-- `G` is the edge-union of the two parts. -/
+  sup_eq : G = G₁ ⊔ G₂
+  /-- All edges of the first part lie inside the side `A`. -/
+  left_support : ∀ ⦃x y⦄, G₁.Adj x y → x ∈ A ∧ y ∈ A
+  /-- All edges of the second part lie inside the side `B`. -/
+  right_support : ∀ ⦃x y⦄, G₂.Adj x y → x ∈ B ∧ y ∈ B
+  /-- The two sides meet exactly in the cut vertex. -/
+  inter_eq : A ∩ B = {v}
+  /-- The two sides cover the vertex set. -/
+  union_eq : A ∪ B = Set.univ
+
+namespace IsOneSum
+
+variable (h : IsOneSum G G₁ G₂ A B v)
+include h
+
+
+
+
+
+
+
+
+
+
+
+
+
+end IsOneSum
+
+section Equality
+
+variable {V : Type*} [Fintype V] (G : SimpleGraph V)
+
+
+
+end Equality
+
+namespace IsOneSum
+
+variable {V : Type*} [Fintype V] {G G₁ G₂ : SimpleGraph V} {A B : Set V} {v : V}
+variable (h : IsOneSum G G₁ G₂ A B v)
+include h
+
+
+
+
+
+
+end IsOneSum
+
+end SimpleGraph
+
+

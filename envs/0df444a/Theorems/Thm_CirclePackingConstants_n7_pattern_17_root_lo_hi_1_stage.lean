@@ -1,0 +1,47 @@
+-- Prove2me | Theorems.Thm_CirclePackingConstants_n7_pattern_17_root_lo_hi_1_stage
+-- name    : CirclePackingConstants.n7_pattern_17_root_lo_hi_1_stage
+-- status  : Proved
+-- author  : @xuanji
+-- created : 2026-09-27T01:26:27.823615+00:00
+-- url     : https://prove2.me/theorems/c07705f0-f4c8-459c-94eb-26ad4927163a
+-- title:
+--   n=7 (1,7) staged verifier transition n7_root_lo_hi_1
+-- statement:
+--   Exact bounded endpoint-state transition from the Appendix-A verifier for the $(1,7)$ representative.
+-- source:
+--   Supplied circles_in_square_n7.pdf, Appendix A, pp. 10–12.
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+
+theorem CirclePackingConstants.n7_pattern_17_root_lo_hi_1_stage (x0 y0 x1 y1 x2 y2 x3 y3 x4 y4 x5 y5 x6 y6 : ℝ)
+ (hx0L:(0:ℝ)≤x0 ) (hx0U:x0≤(509:ℝ) ) (hy0L:(0:ℝ)≤y0 ) (hy0U:y0≤(175:ℝ))
+ (hx1L:(2550:ℝ)≤x1 ) (hx1U:x1≤(3000:ℝ) ) (hy1L:(0:ℝ)≤y1 ) (hy1U:y1≤(199:ℝ))
+ (hx2L:(0:ℝ)≤x2 ) (hx2U:x2≤(89:ℝ) ) (hy2L:(1524:ℝ)≤y2 ) (hy2U:y2≤(1585:ℝ))
+ (hx3L:(1497:ℝ)≤x3 ) (hx3U:x3≤(1574:ℝ) ) (hy3L:(1000:ℝ)≤y3 ) (hy3U:y3≤(1172:ℝ))
+ (hx4L:(2923:ℝ)≤x4 ) (hx4U:x4≤(3000:ℝ) ) (hy4L:(1570:ℝ)≤y4 ) (hy4U:y4≤(1742:ℝ))
+ (hx5L:(637:ℝ)≤x5 ) (hx5U:x5≤(763:ℝ) ) (hy5L:(2825:ℝ)≤y5 ) (hy5U:y5≤(3000:ℝ))
+ (hx6L:(2000:ℝ)≤x6 ) (hx6U:x6≤(2332:ℝ) ) (hy6L:(2796:ℝ)≤y6 ) (hy6U:y6≤(3000:ℝ))
+ (hT01:(2584683:ℝ)<(x0-x1)^2+(y0-y1)^2)
+ (hT02:(2584683:ℝ)<(x0-x2)^2+(y0-y2)^2)
+ (hT03:(2584683:ℝ)<(x0-x3)^2+(y0-y3)^2)
+ (hT04:(2584683:ℝ)<(x0-x4)^2+(y0-y4)^2)
+ (hT05:(2584683:ℝ)<(x0-x5)^2+(y0-y5)^2)
+ (hT06:(2584683:ℝ)<(x0-x6)^2+(y0-y6)^2)
+ (hT12:(2584683:ℝ)<(x1-x2)^2+(y1-y2)^2)
+ (hT13:(2584683:ℝ)<(x1-x3)^2+(y1-y3)^2)
+ (hT14:(2584683:ℝ)<(x1-x4)^2+(y1-y4)^2)
+ (hT15:(2584683:ℝ)<(x1-x5)^2+(y1-y5)^2)
+ (hT16:(2584683:ℝ)<(x1-x6)^2+(y1-y6)^2)
+ (hT23:(2584683:ℝ)<(x2-x3)^2+(y2-y3)^2)
+ (hT24:(2584683:ℝ)<(x2-x4)^2+(y2-y4)^2)
+ (hT25:(2584683:ℝ)<(x2-x5)^2+(y2-y5)^2)
+ (hT26:(2584683:ℝ)<(x2-x6)^2+(y2-y6)^2)
+ (hT34:(2584683:ℝ)<(x3-x4)^2+(y3-y4)^2)
+ (hT35:(2584683:ℝ)<(x3-x5)^2+(y3-y5)^2)
+ (hT36:(2584683:ℝ)<(x3-x6)^2+(y3-y6)^2)
+ (hT45:(2584683:ℝ)<(x4-x5)^2+(y4-y5)^2)
+ (hT46:(2584683:ℝ)<(x4-x6)^2+(y4-y6)^2)
+ (hT56:(2584683:ℝ)<(x5-x6)^2+(y5-y6)^2)
+ : (269:ℝ)≤x0 ∧ x0≤(474:ℝ) ∧ (0:ℝ)≤y0 ∧ y0≤(61:ℝ) ∧ (2597:ℝ)≤x1 ∧ x1≤(3000:ℝ) ∧ (0:ℝ)≤y1 ∧ y1≤(186:ℝ) ∧ (0:ℝ)≤x2 ∧ x2≤(74:ℝ) ∧ (1536:ℝ)≤y2 ∧ y2≤(1572:ℝ) ∧ (1502:ℝ)≤x3 ∧ x3≤(1574:ℝ) ∧ (1000:ℝ)≤y3 ∧ y3≤(1159:ℝ) ∧ (2994:ℝ)≤x4 ∧ x4≤(3000:ℝ) ∧ (1583:ℝ)≤y4 ∧ y4≤(1586:ℝ) ∧ (664:ℝ)≤x5 ∧ x5≤(668:ℝ) ∧ (2964:ℝ)≤y5 ∧ y5≤(3000:ℝ) ∧ (2235:ℝ)≤x6 ∧ x6≤(2241:ℝ) ∧ (2997:ℝ)≤y6 ∧ y6≤(3000:ℝ)  := by sorry

@@ -1,0 +1,132 @@
+-- Prove2me | Theorems.Thm_dag_root_certificate_of_leaf_gap
+-- name    : dag_root_certificate_of_leaf_gap
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-12T20:01:36.827277+00:00
+-- url     : https://prove2.me/theorems/5fca9ecb-9f44-4921-b93f-3517151bfd4f
+-- title:
+--   Dag root certificate of leaf gap
+-- statement:
+--   Formal statement of `dag_root_certificate_of_leaf_gap` from the Aether Catalog (MachineLearning). The mathematical content is given by the Lean statement below; a human-readable write-up is pending.
+--
+--   ```lean
+--   theorem dag_root_certificate_of_leaf_gap    {V : Type*} [Fintype V] [DecidableEq V]
+--       (root : V)
+--       (children : V → Finset V)
+--       (rank : V → ℕ)
+--       (cert_x cert_z : V → ℝ)
+--       (Δ : ℝ)
+--       (_ : 0 ≤ Δ)
+--       (hacyclic : ∀ {u v}, v ∈ children u → rank v < rank u)
+--       (hleaf :
+--         ∀ u, children u = ∅ →
+--           |cert_x u - cert_z u| ≤ Δ)
+--       (hmono_lip :
+--         ∀ u, ∀ hne : (children u).Nonempty,
+--           |cert_x u - cert_z u| ≤
+--             (children u).sup' hne fun v => |cert_x v - cert_z v|)
+--       (hroot_pos :
+--         Δ < cert_x root) :
+--       0 < cert_z root := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `MachineLearning/TropicalDAGRobustness.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/MachineLearning/TropicalDAGRobustness.lean#L145
+
+-- Thm stub generated from MachineLearning/TropicalDAGRobustness.lean
+import Mathlib
+
+/-!
+# Tropical Certified Robustness for DAG-Aggregated Decision Rules
+
+This file formalizes a compositional robustness framework for multiclass classifiers
+whose decision procedures are represented by finite rooted DAGs built from monotone
+1-Lipschitz tropical primitives (`max`, `min`, score-difference comparisons).
+
+## Mathematical Overview
+
+Given a score map `score : (ι → ℝ) → C → ℝ` that is `K`-Lipschitz in the L∞ norm,
+and a decision procedure built from pairwise score comparisons aggregated through
+a DAG of monotone tropical operations, we prove that the decision is invariant
+under perturbations of size `ε` whenever pathwise bottleneck margins exceed `2·K·ε`.
+
+The key mathematical insight is that **pathwise bottleneck margins in an arbitrary
+acyclic tropical decision graph compose correctly with pairwise logit-gap perturbation
+bounds**. This unifies:
+1. One-vs-all argmax certificates (star DAG with min aggregation)
+2. Sequential elimination / tournament certificates (chain DAG)
+
+## Main Results
+
+### Foundational Lemmas
+* `abs_sub_pairwise_gap_le` — Triangle inequality for pairwise score gaps
+* `pairwise_gap_perturbation_le_two_mul` — Score gap perturbation bounded by `2·K·ε`
+* `abs_max_sub_max_le_max_abs_sub` — Max is 1-Lipschitz (nonexpansive)
+* `abs_min_sub_min_le_max_abs_sub` — Min is 1-Lipschitz (nonexpansive)
+
+### Finset Stability
+* `Finset.inf'_abs_sub_le` — `Finset.inf'` is nonexpansive
+* `Finset.sup'_abs_sub_le` — `Finset.sup'` is nonexpansive
+* `positive_inf'_of_pointwise_lower_bound` — Positivity from pointwise bounds
+
+### DAG Certificate
+* `dag_root_certificate_of_leaf_gap` — Root certificate positivity under perturbation
+
+### Corollaries
+* `one_vs_all_robust_of_margin` — Classical argmax robustness from runner-up margin
+* `sequential_elimination_robust` — Sequential elimination robustness from stagewise margins
+* `decision_invariant_of_dag_certificate` — Full end-to-end decision invariance
+-/
+
+open Finset
+
+noncomputable section
+
+/-! ## Section 1: Foundational Real-Analysis Lemmas -/
+
+
+
+
+
+/-! ## Section 2: Finset Inf'/Sup' Stability -/
+
+
+
+
+/-! ## Section 3: DAG Root Certificate Theorem -/
+
+/-
+**Main DAG certificate theorem.**
+
+Given a finite DAG with a recursive certificate function where:
+- leaf certificates perturb by at most `Δ`,
+- internal nodes aggregate children via monotone 1-Lipschitz operations
+  (perturbation at a node ≤ sup of perturbations at its children),
+- the root certificate at the clean input exceeds `Δ`,
+
+then the root certificate remains strictly positive under perturbation.
+
+The proof proceeds by strong induction on `rank`, showing that the certificate
+perturbation at every node is bounded by `Δ`. Since the root certificate
+exceeds `Δ`, it remains positive.
+-/
+
+theorem dag_root_certificate_of_leaf_gap    {V : Type*} [Fintype V] [DecidableEq V]
+    (root : V)
+    (children : V → Finset V)
+    (rank : V → ℕ)
+    (cert_x cert_z : V → ℝ)
+    (Δ : ℝ)
+    (_ : 0 ≤ Δ)
+    (hacyclic : ∀ {u v}, v ∈ children u → rank v < rank u)
+    (hleaf :
+      ∀ u, children u = ∅ →
+        |cert_x u - cert_z u| ≤ Δ)
+    (hmono_lip :
+      ∀ u, ∀ hne : (children u).Nonempty,
+        |cert_x u - cert_z u| ≤
+          (children u).sup' hne fun v => |cert_x v - cert_z v|)
+    (hroot_pos :
+      Δ < cert_x root) :
+    0 < cert_z root := by sorry

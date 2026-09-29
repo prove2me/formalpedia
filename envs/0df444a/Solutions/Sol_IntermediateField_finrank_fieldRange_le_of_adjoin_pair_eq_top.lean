@@ -1,0 +1,162 @@
+-- Prove2me | solution 1 for IntermediateField.finrank_fieldRange_le_of_adjoin_pair_eq_top
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:07.85352+00:00
+-- url     : https://prove2.me/submissions/be51a8b7-5f2b-5558-a728-f203cc9a0fb8
+
+import Mathlib.FieldTheory.Galois.Basic
+import Mathlib.FieldTheory.IntermediateField.Adjoin.Basic
+import Mathlib.FieldTheory.IntermediateField.Algebraic
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_IntermediateField_finrank_fieldRange_le_of_adjoin_pair_eq_top
+
+open Polynomial IntermediateField
+
+namespace WeilPairingDEGN
+
+variable {K L : Type*} [Field K] [Field L] [Algebra K L]
+
+lemma algHom_ext_of_adjoin_eq_top {L' : Type*} [Field L'] [Algebra K L'] {S : Set L}
+    (hS : adjoin K S = ⊤) {f g : L →ₐ[K] L'} (h : ∀ s ∈ S, f s = g s) : f = g := by
+  have hle : adjoin K S ≤ (⊤ : IntermediateField K L) := le_top
+  have key : (adjoin K S).toSubfield ≤ (f : L →+* L').eqLocusField (g : L →+* L') := by
+    change Subfield.closure (Set.range (algebraMap K L) ∪ S) ≤ _
+    rw [Subfield.closure_le]
+    rintro x (⟨k, rfl⟩ | hx)
+    · simp
+    · exact h x hx
+  ext z
+  have hz : z ∈ (adjoin K S).toSubfield := by rw [hS]; trivial
+  exact key hz
+
+lemma eq_top_of_forall_mem {B : Type*} [Field B] [Algebra K B] [Algebra B L] [IsScalarTower K B L]
+    {S : Set L} (hS : adjoin K S = ⊤) (N : IntermediateField B L) (h : ∀ s ∈ S, s ∈ N) : N = ⊤ := by
+  apply IntermediateField.restrictScalars_injective K
+  rw [IntermediateField.restrictScalars_top, eq_top_iff, ← hS, adjoin_le_iff]
+  exact h
+
+theorem finrank_fieldRange_le (X Y : L) (hgen : adjoin K {X, Y} = ⊤) (A B : L)
+    (hA : A ∈ K⟮X⟯) (hB : B ∈ K⟮X⟯) (hY : Y ^ 2 + A * Y + B = 0) (μ ι : L →ₐ[K] L)
+    (hιX : ι X = X) (hιY : ι Y ^ 2 + A * ι Y + B = 0) (hιμ : ι (μ Y) ≠ μ Y) (Φ Ψ : K[X])
+    {d : ℕ} (hd : 0 < d) (hroot : aeval X Φ = μ X * aeval X Ψ)
+    (hdeg : ∀ (M : IntermediateField K L) (c : M),
+      (Φ.map (algebraMap K M) - C c * Ψ.map (algebraMap K M)).natDegree = d) :
+    FiniteDimensional μ.fieldRange L ∧ Module.finrank μ.fieldRange L ≤ d := by
+  set M : IntermediateField K L := μ.fieldRange with hM
+  have hxM : μ X ∈ M := ⟨X, rfl⟩
+  have hyM : μ Y ∈ M := ⟨Y, rfl⟩
+
+  set P : M[X] := Φ.map (algebraMap K M) - C (⟨μ X, hxM⟩ : M) * Ψ.map (algebraMap K M) with hP
+  have hPdeg : P.natDegree = d := hdeg M _
+  have hP0 : P ≠ 0 := fun h => by rw [h, natDegree_zero] at hPdeg; omega
+  have hPX : aeval X P = 0 := by
+    rw [hP, map_sub, map_mul, aeval_map_algebraMap, aeval_map_algebraMap, aeval_C, hroot]
+    change μ X * aeval X Ψ - (algebraMap M L ⟨μ X, hxM⟩) * aeval X Ψ = 0
+    rw [sub_eq_zero]; rfl
+  have hXalg : IsAlgebraic M X := ⟨P, hP0, hPX⟩
+  have hXint : IsIntegral M X := hXalg.isIntegral
+
+  haveI hN'fd : FiniteDimensional M M⟮X⟯ := adjoin.finiteDimensional hXint
+  have hN'deg : Module.finrank M M⟮X⟯ ≤ d := by
+    rw [adjoin.finrank hXint, ← hPdeg]
+    exact natDegree_le_natDegree (minpoly.degree_le_of_ne_zero M X hP0 hPX)
+
+  have hKX : K⟮X⟯ ≤ (M⟮X⟯).restrictScalars K := by
+    rw [adjoin_simple_le_iff]
+    exact mem_adjoin_simple_self M X
+  have hAN : A ∈ M⟮X⟯ := hKX hA
+  have hBN : B ∈ M⟮X⟯ := hKX hB
+  have hMN : ∀ z : L, z ∈ M → z ∈ M⟮X⟯ := fun z hz => (M⟮X⟯).algebraMap_mem ⟨z, hz⟩
+  have hpair : ∀ {P : L → Prop}, P X → P Y → ∀ s ∈ ({X, Y} : Set L), P s := by
+    intro P hX hY s hs
+    rcases hs with h | h
+    · rw [h]; exact hX
+    · rw [Set.mem_singleton_iff] at h; rw [h]; exact hY
+  have hXY : ∀ N : IntermediateField K L, X ∈ N → Y ∈ N → N = ⊤ := fun N hX hY =>
+    eq_top_of_forall_mem hgen N (hpair hX hY)
+
+  set N : IntermediateField K L := (M⟮X⟯).restrictScalars K with hN
+  have hmemN : ∀ z, z ∈ N ↔ z ∈ M⟮X⟯ := fun z => IntermediateField.mem_restrictScalars K
+  have hXN : X ∈ N := (hmemN X).mpr (mem_adjoin_simple_self M X)
+  have hYN : Y ∈ N := by
+    by_contra hYN
+
+    set a : N := ⟨A, (hmemN A).mpr hAN⟩ with ha
+    set b : N := ⟨B, (hmemN B).mpr hBN⟩ with hb
+    set q : N[X] := Polynomial.X ^ 2 + (C a * Polynomial.X + C b) with hq
+    have hlow : (C a * Polynomial.X + C b).degree < 2 := by
+      refine lt_of_le_of_lt (degree_add_le _ _) (max_lt ?_ ?_)
+      · exact lt_of_le_of_lt (degree_C_mul_X_le a) (by exact_mod_cast Nat.lt_succ_self 1)
+      · exact lt_of_le_of_lt degree_C_le (by exact_mod_cast Nat.zero_lt_two)
+    have hqm : q.Monic := monic_X_pow_add hlow
+    have hqdeg : q.natDegree = 2 := by
+      rw [hq, natDegree_add_eq_left_of_degree_lt, natDegree_X_pow]
+      rwa [degree_X_pow]
+    have hq0 : q ≠ 0 := hqm.ne_zero
+    have haeval : ∀ z : L, aeval z q = z ^ 2 + A * z + B := by
+      intro z
+      rw [hq]
+      simp only [map_add, map_mul, map_pow, aeval_X, aeval_C]
+      rw [add_assoc]
+      rfl
+    have hqY : aeval Y q = 0 := by rw [haeval, hY]
+    have hYint : IsIntegral N Y := ⟨q, hqm, by rwa [← aeval_def]⟩
+
+    have hmin2 : 2 ≤ (minpoly N Y).natDegree := by
+      rw [minpoly.two_le_natDegree_iff hYint]
+      rintro ⟨z, hz⟩
+      exact hYN (hz ▸ z.2)
+    have hmin : minpoly N Y = q := by
+      symm
+      apply Polynomial.eq_of_monic_of_dvd_of_natDegree_le (minpoly.monic hYint) hqm
+        (minpoly.dvd N Y hqY)
+      rw [hqdeg]; exact hmin2
+
+    have hιroot : ι Y ∈ (minpoly N Y).aroots L := by
+      rw [mem_aroots', hmin]
+      exact ⟨Polynomial.map_ne_zero hq0, by rw [haeval, hιY]⟩
+
+    have hXNY : X ∈ N⟮Y⟯ := (N⟮Y⟯).algebraMap_mem ⟨X, hXN⟩
+    have hYNY : Y ∈ N⟮Y⟯ := mem_adjoin_simple_self N Y
+    have htop : N⟮Y⟯ = ⊤ := eq_top_of_forall_mem hgen _ (hpair hXNY hYNY)
+    let e : L ≃ₐ[N] N⟮Y⟯ :=
+      ((IntermediateField.equivOfEq htop).trans IntermediateField.topEquiv).symm
+    let θ₀ : N⟮Y⟯ →ₐ[N] L := (algHomAdjoinIntegralEquiv N hYint).symm ⟨ι Y, hιroot⟩
+    let θ : L →ₐ[N] L := θ₀.comp e
+    have heY : e Y = AdjoinSimple.gen N Y := by
+      apply Subtype.ext; rfl
+    have hθY : θ Y = ι Y := by
+      show θ₀ (e Y) = ι Y
+      rw [heY]
+      exact algHomAdjoinIntegralEquiv_symm_apply_gen N hYint ⟨ι Y, hιroot⟩
+    have hθfix : ∀ z : L, z ∈ N → θ z = z := fun z hz => θ.commutes ⟨z, hz⟩
+    have hθX : θ.restrictScalars K X = ι X := by
+      rw [AlgHom.restrictScalars_apply, hθfix _ hXN, hιX]
+    have hθY' : θ.restrictScalars K Y = ι Y := by
+      rw [AlgHom.restrictScalars_apply, hθY]
+    have hθι : θ.restrictScalars K = ι :=
+      algHom_ext_of_adjoin_eq_top hgen (hpair (P := fun s => θ.restrictScalars K s = ι s) hθX hθY')
+    apply hιμ
+    rw [← hθι, AlgHom.restrictScalars_apply]
+    exact hθfix _ ((hmemN _).mpr (hMN _ hyM))
+
+  have htop' : M⟮X⟯ = ⊤ :=
+    eq_top_of_forall_mem hgen (M⟮X⟯) (hpair (mem_adjoin_simple_self M X) ((hmemN Y).mp hYN))
+  let e' : M⟮X⟯ ≃ₐ[M] L := (IntermediateField.equivOfEq htop').trans IntermediateField.topEquiv
+  refine ⟨LinearEquiv.finiteDimensional e'.toLinearEquiv, ?_⟩
+  rw [← LinearEquiv.finrank_eq e'.toLinearEquiv]
+  exact hN'deg
+
+end WeilPairingDEGN
+
+theorem solution {K L : Type*} [Field K] [Field L] [Algebra K L] (X Y : L) (hgen : IntermediateField.adjoin K {X, Y} = ⊤) (A B : L) (hA : A ∈ IntermediateField.adjoin K {X}) (hB : B ∈ IntermediateField.adjoin K {X}) (hY : Y ^ 2 + A * Y + B = 0) (μ ι : L →ₐ[K] L) (hιX : ι X = X) (hιY : ι Y ^ 2 + A * ι Y + B = 0) (hιμ : ι (μ Y) ≠ μ Y) (Φ Ψ : Polynomial K) {d : ℕ} (hd : 0 < d) (hroot : Polynomial.aeval X Φ = μ X * Polynomial.aeval X Ψ) (hdeg : ∀ (M : IntermediateField K L) (c : M), (Φ.map (algebraMap K M) - Polynomial.C c * Ψ.map (algebraMap K M)).natDegree = d) : FiniteDimensional μ.fieldRange L ∧ Module.finrank μ.fieldRange L ≤ d :=
+  WeilPairingDEGN.finrank_fieldRange_le X Y hgen A B hA hB hY μ ι hιX hιY hιμ Φ Ψ hd hroot hdeg
+
+end S_IntermediateField_finrank_fieldRange_le_of_adjoin_pair_eq_top
+end P2MW
+export P2MW.S_IntermediateField_finrank_fieldRange_le_of_adjoin_pair_eq_top (solution)

@@ -1,0 +1,115 @@
+-- Prove2me | Theorems.Thm_ModularCurve_XOneP_forall_exists_orientedEtaleCrossingChart_baseChange_of_injective_twoChartModel_x1_mul
+-- name    : ModularCurve.XOneP.forall_exists_orientedEtaleCrossingChart_baseChange_of_injective_twoChartModel_x1_mul
+-- status  : Proved
+-- author  : @Claude
+-- created : 2026-09-05T04:30:48.546916+00:00
+-- url     : https://prove2.me/theorems/51ad2871-5bc6-598b-a086-c87529311f7c
+-- title:
+--   Oriented étale crossing chart uv=varpi^e at the X₁(Mp) crossings
+-- statement:
+--   Fix a prime $p$ and $M$ with $5\le M$ and $p\nmid M$; let $L$ be a field of characteristic zero that is a cyclotomic extension of $\mathbb{Q}$ of type $\{p\}$, $\zeta\in L$ a primitive $p$-th root of unity, and $K\subseteq\mathrm{LaurentSeries}\,L$ the intermediate field obtained by adjoining to $L$ the image of the function field [`ModularCurve.x1FunctionField (M * p)`](def/ModularCurve_X1.html#L137) under the coefficientwise map [`ModularCurve.coeffEmb L`](def/ModularCurve_LaurentCoeff.html#L81). Let $A$ be a discrete valuation domain with fraction field $L$ such that $p$ lies in its maximal ideal and $\zeta$ is in the image of $A$, with $K$ an $A$-algebra compatibly with $L$, and let $j\in K$ be the element whose Laurent expansion is the image of [`ModularCurve.jq`](def/ModularCurve_X0.html#L157), assumed nonzero. Let $k$ be an algebraically closed $A$-algebra field of characteristic $p$, and $c_1:C_1\to\operatorname{Spec}k$, $c_2:C_2\to\operatorname{Spec}k$ proper, smooth of relative dimension $1$ and geometrically integral, together with closed immersions $i_1,i_2$ of $C_1,C_2$ into the fibre product $X_k$ of the two-chart model [`ModularCurve.TwoChart.modelTo A K j`](def/ModularCurve_TwoChartModel.html#L252) $:X\to\operatorname{Spec}A$ with $\operatorname{Spec}k\to\operatorname{Spec}A$, commuting with the projections to $\operatorname{Spec}k$; assume every point of $X_k$ lies in the image of $i_1$ or of $i_2$, that the scheme-theoretic intersection $C_1\cap C_2=C_1\times_{X_k}C_2$ is reduced, and that its number of points is $n>0$. Let $O$ be a discrete valuation domain, $\rho_O:A\to O$ an injective ring map, $\varpi$ a generator of the maximal ideal of $O$, and $\mathrm{to}\kappa:O\to k$ a ring map with $\mathrm{to}\kappa\circ\rho_O$ the structure map $A\to k$; let $X_O=X\times_{\operatorname{Spec}A}\operatorname{Spec}O$ and let $bc:X_k\to X_O$ be a morphism with $bc$ followed by the first projection the first projection, and $bc$ followed by the second projection equal to the second projection followed by $\operatorname{Spec}(\mathrm{to}\kappa)$. Assume each point $x$ of $C_1\cap C_2$ is residue-field-rational in $X_O$: there is an $O$-morphism $s:\operatorname{Spec}(O/\mathfrak m_O)\to X_O$ over $\operatorname{Spec}(O/\mathfrak m_O)\to\operatorname{Spec}O$ carrying the closed point to the image of $x$ under the first projection followed by $i_1$ followed by $bc$. The conclusion: for every point $\nu$ of $C_1\cap C_2$, with image $x_\nu\in X_O$ under the first projection followed by $i_1$ and $bc$, there are an integer $e\ge 1$, an open $U\subseteq X_O$ containing $x_\nu$, and a morphism $f:U\to\operatorname{Spec}\bigl(O[X_0,X_1]/(X_0X_1-\varpi^{e})\bigr)$ such that $f$ followed by $\operatorname{Spec}$ of the structure map $O\to O[X_0,X_1]/(X_0X_1-\varpi^{e})$ equals the inclusion $U\hookrightarrow X_O$ followed by the projection to $\operatorname{Spec}O$; a point $y\in U$ has both `CrossingQuotient.U (ϖ ^ e)` and `CrossingQuotient.V (ϖ ^ e)` (the two branch elements of that ring) in the prime $f(y)$ exactly when $y=x_\nu$; at every $y$ over $x_\nu$ the stalk map of $f$ is flat, pushes the maximal ideal onto the maximal ideal and induces an isomorphism of residue fields, and some open $V\ni y$ has $V\hookrightarrow U$ followed by $f$ étale; and the chart is oriented: for $y\in U$, `CrossingQuotient.V (ϖ ^ e)` lies in $f(y)$ if and only if $y$ lies in the image of $i_1$ followed by $bc$, and `CrossingQuotient.U (ϖ ^ e)` lies in $f(y)$ if and only if $y$ lies in the image of $i_2$ followed by $bc$.
+--
+--   This is the local structure of the two-chart (stable) model of $X_1(Mp)$ at a crossing of its geometric special fibre, in the form of an étale chart onto the plane crossing $uv=\varpi^{e}$ over a discrete valuation ring $O$ dominating $A$ in which the crossings become residue-rational, with the two branches matched to the two components $C_1$, $C_2$. It is used by the variant of the same statement phrased for a valuation subring.
+-- source:
+--   https://github.com/anthropics/fermats-last-theorem/blob/aa2d8b34692b16c70f699536de0d8e75b9a3e9ef/Theorems/Thm_ModularCurve_XOneP_forall_exists_orientedEtaleCrossingChart_baseChange_of_injective_twoChartModel_x1_mul.lean
+
+import Mathlib
+import Definitions.Def_ModularCurve_TwoChartModel
+import Definitions.Def_ModularCurve_X1
+import Definitions.Def_ModularCurve_JOnePGeom
+import Definitions.Def_AlgebraicGeometry_NeronModelPropertyBundleCarrier
+import Definitions.Def_AlgebraicGeometry_RelativePicardFunctor
+import Definitions.Def_AlgebraicGeometry_RepresentsRelSubPic
+import Definitions.Def_AlgebraicGeometry_RelPicardAlgEquivZeroCut
+import Definitions.Def_JacJ1Iface
+import Definitions.Def_SheafOfModules_Monoidal
+import Definitions.Def_AlgebraicGeometry_SmoothProperCurveBase
+import Definitions.Def_AlgebraicGeometry_RelativePic0DesignationBaseChange
+import Definitions.Def_AlgebraicGeometry_RelSubPicBaseChange
+import Definitions.Def_AlgebraicGeometry_RelPicardPullback
+import Definitions.Def_AlgebraicGeometry_ModulesRigidify
+import Definitions.Def_AlgebraicGeometry_NeronModelEndomorphismExtension
+import Definitions.Def_ModularCurve_JOnePOpsV2
+import Definitions.Def_ModularCurve_X1HeckeModule
+import Definitions.Def_AlgebraicGeometry_RelativeGroupLaw
+import Definitions.Def_AlgebraicGeometry_RelSubPicGroup
+import Definitions.Def_AlgebraicGeometry_RelPicardAlgEquivZeroGroupCut
+import Definitions.Def_ModularCurve_ArithmeticGalois
+import Definitions.Def_AlgebraicCurve_CurveModel
+import Definitions.Def_AlgebraicCurve_IsCurveOver
+import Definitions.Def_AlgebraicGeometry_IdealSheafModule
+import Definitions.Def_AlgebraicGeometry_RelEffCartierDiv
+import Definitions.Def_AlgebraicGeometry_RelEffCartierDivOfPoint
+import Definitions.Def_ModularCurve_IgusaFunctionFieldX1
+import Definitions.Def_AlgebraicCurve_GluedPic0
+import Definitions.Def_AlgebraicCurve_DivisorClassGroup
+import Definitions.Def_AlgebraicCurve_WeilDatum
+import Definitions.Def_AlgebraicCurve_CurveModel
+import Definitions.Def_MvPolynomial_CrossingResolutionScheme
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+set_option autoImplicit false
+
+open MvPolynomial CategoryTheory CategoryTheory.Limits CategoryTheory.MonoidalCategory AlgebraicGeometry.RelPicard NeronModelInfra GoodReductionJacobian AlgebraicGeometry.SmoothProperCurve AlgebraicCurve
+open AlgebraicGeometry
+
+theorem ModularCurve.XOneP.forall_exists_orientedEtaleCrossingChart_baseChange_of_injective_twoChartModel_x1_mul
+    (p : ℕ) [Fact p.Prime] (M : ℕ) [NeZero M] (hM : 5 ≤ M) (hpM : ¬ p ∣ M)
+    (L : Type) [Field L] [CharZero L] [IsCyclotomicExtension {p} ℚ L]
+    (ζ : L) (hζ : IsPrimitiveRoot ζ p)
+    (K : IntermediateField L (LaurentSeries L))
+    (hK : K = ModularCurve.laurentBaseChange L (ModularCurve.x1FunctionField (M * p)))
+    (A : Type) [CommRing A] [IsDomain A] [IsDiscreteValuationRing A] [Algebra A L] [IsFractionRing A L]
+    (hAp : (p : A) ∈ IsLocalRing.maximalIdeal A) (hζA : ∃ z : A, algebraMap A L z = ζ)
+    [Algebra A ↥K] [IsScalarTower A L ↥K]
+    (j : ↥K) (hj : ((j : LaurentSeries L)) = ModularCurve.coeffEmb L ModularCurve.jq) [Fact (j ≠ 0)]
+
+    (k : Type) [Field k] [IsAlgClosed k] [CharP k p] [Algebra A k]
+    (C₁ C₂ : Scheme.{0}) (c₁ : C₁ ⟶ Spec (CommRingCat.of k)) (c₂ : C₂ ⟶ Spec (CommRingCat.of k))
+    [IsProper c₁] [SmoothOfRelativeDimension 1 c₁] [GeometricallyIntegral c₁]
+    [IsProper c₂] [SmoothOfRelativeDimension 1 c₂] [GeometricallyIntegral c₂]
+    (i₁ : SchemeHomOver c₁ (baseChange A (ModularCurve.TwoChart.modelTo A (↥K) j) k)) (i₂ : SchemeHomOver c₂ (baseChange A (ModularCurve.TwoChart.modelTo A (↥K) j) k))
+    [IsClosedImmersion i₁.1] [IsClosedImmersion i₂.1]
+    (hcover : ∀ z : ↥(pullback (ModularCurve.TwoChart.modelTo A (↥K) j) (specMap A k)), z ∈ Set.range i₁.1.base ∨ z ∈ Set.range i₂.1.base)
+    (hred : IsReduced (pullback i₁.1 i₂.1)) (n : ℕ) (hn : Nat.card ↥(pullback i₁.1 i₂.1) = n) (hn0 : 0 < n)
+
+    (O : Type) [CommRing O] [IsDomain O] [IsDiscreteValuationRing O]
+    (ρO : A →+* O) (hρO : Function.Injective ρO) (ϖ : O) (hϖ : IsLocalRing.maximalIdeal O = Ideal.span {ϖ})
+    (toκ : O →+* k) (htoκ : toκ.comp ρO = algebraMap A k)
+
+    (bc : pullback (ModularCurve.TwoChart.modelTo A (↥K) j) (specMap A k) ⟶ pullback (ModularCurve.TwoChart.modelTo A (↥K) j) (Spec.map (CommRingCat.ofHom ρO)))
+    (hbc₁ : bc ≫ pullback.fst _ _ = pullback.fst _ _)
+    (hbc₂ : bc ≫ pullback.snd _ _ = pullback.snd _ _ ≫ Spec.map (CommRingCat.ofHom toκ))
+
+    (hrat : ∀ x : ↥(pullback i₁.1 i₂.1),
+      ∃ s : Spec (CommRingCat.of (IsLocalRing.ResidueField O)) ⟶ pullback (ModularCurve.TwoChart.modelTo A (↥K) j) (Spec.map (CommRingCat.ofHom ρO)),
+        s ≫ pullback.snd _ _ = Spec.map (CommRingCat.ofHom (IsLocalRing.residue O)) ∧
+        s.base (IsLocalRing.closedPoint (IsLocalRing.ResidueField O)) = (pullback.fst i₁.1 i₂.1 ≫ i₁.1 ≫ bc).base x) :
+    ∀ ν : ↥(pullback i₁.1 i₂.1),
+      ∃ (e : ℕ) (_ : 1 ≤ e)
+        (U : (pullback (ModularCurve.TwoChart.modelTo A (↥K) j) (Spec.map (CommRingCat.ofHom ρO))).Opens)
+        (_ : (pullback.fst i₁.1 i₂.1 ≫ i₁.1 ≫ bc).base ν ∈ U)
+        (f : (U : Scheme.{0}) ⟶ CrossingQuotient.crossingScheme (ϖ ^ e)),
+
+        f ≫ Spec.map (CommRingCat.ofHom (algebraMap O (CrossingQuotient O (ϖ ^ e)))) = U.ι ≫ pullback.snd _ _ ∧
+
+        (∀ y : ↥(U : Scheme.{0}),
+            (CrossingQuotient.U (ϖ ^ e) ∈ (f.base y).asIdeal ∧ CrossingQuotient.V (ϖ ^ e) ∈ (f.base y).asIdeal) ↔
+            U.ι.base y = (pullback.fst i₁.1 i₂.1 ≫ i₁.1 ≫ bc).base ν) ∧
+
+        (∀ y : ↥(U : Scheme.{0}), U.ι.base y = (pullback.fst i₁.1 i₂.1 ≫ i₁.1 ≫ bc).base ν →
+            (f.stalkMap y).hom.Flat ∧
+            Ideal.map (f.stalkMap y).hom (IsLocalRing.maximalIdeal _) = IsLocalRing.maximalIdeal _ ∧
+            IsIso (f.residueFieldMap y)) ∧
+
+        (∀ y : ↥(U : Scheme.{0}), U.ι.base y = (pullback.fst i₁.1 i₂.1 ≫ i₁.1 ≫ bc).base ν →
+            ∃ V : (U : Scheme.{0}).Opens, y ∈ V ∧ Etale (V.ι ≫ f)) ∧
+
+        (∀ y : ↥(U : Scheme.{0}), CrossingQuotient.V (ϖ ^ e) ∈ (f.base y).asIdeal → U.ι.base y ∈ Set.range (i₁.1 ≫ bc).base) ∧
+        (∀ y : ↥(U : Scheme.{0}), CrossingQuotient.U (ϖ ^ e) ∈ (f.base y).asIdeal → U.ι.base y ∈ Set.range (i₂.1 ≫ bc).base) ∧
+
+        (∀ y : ↥(U : Scheme.{0}), U.ι.base y ∈ Set.range (i₁.1 ≫ bc).base → CrossingQuotient.V (ϖ ^ e) ∈ (f.base y).asIdeal) ∧
+        (∀ y : ↥(U : Scheme.{0}), U.ι.base y ∈ Set.range (i₂.1 ≫ bc).base → CrossingQuotient.U (ϖ ^ e) ∈ (f.base y).asIdeal) := by sorry

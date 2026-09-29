@@ -1,0 +1,26 @@
+-- Prove2me | solution 1 for syracuse_no_small_cycle
+-- status  : ACCEPTED   (prove)
+-- author  : @Zexuan Liu
+-- created : 2026-09-08T20:55:35.48937+00:00
+-- url     : https://prove2.me/submissions/a5b43d33-4900-4c02-82cd-c96f58714819
+
+import Mathlib
+import Definitions.Def_syracuseStep
+import Theorems.Thm_syracuse_periodic_reaches_one
+import Theorems.Thm_syracuse_small_reaches_one
+
+open Nat
+
+theorem stepOdd (n : ℕ) : Odd (syracuseStep n) := by
+  rw [Nat.odd_iff, ← Nat.not_even_iff]
+  intro he
+  exact Nat.not_dvd_ordCompl Nat.prime_two (by omega : 3 * n + 1 ≠ 0) he.two_dvd
+
+theorem solution (z a : ℕ) (hz : 0 < z) (ha : 0 < a) (hle : z ≤ 33)
+    (hcyc : syracuseStep^[a] z = z) : z = 1 := by
+  obtain ⟨n, rfl⟩ : ∃ n, a = n + 1 := ⟨a - 1, by omega⟩
+  have hodd : Odd z := by
+    rw [← hcyc, Function.iterate_succ_apply']
+    exact stepOdd _
+  exact syracuse_periodic_reaches_one z (n + 1) (by omega) hcyc
+    (syracuse_small_reaches_one z hz hodd hle)

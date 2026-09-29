@@ -1,0 +1,13186 @@
+-- Prove2me | solution 1 for AlgebraicCurve.residueTheoremK_ratFunc_of_isAlgClosed
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:02.4153+00:00
+-- url     : https://prove2.me/submissions/7ccd254a-780d-5a1a-a743-8b3c63a9deae
+
+import Mathlib
+import Definitions.Def_AlgebraicCurve_DivisorClassGroup
+import Definitions.Def_AlgebraicCurve_RatFuncPlaces
+import Definitions.Def_AlgebraicCurve_IsCurveOver
+import Definitions.Def_ModularCurve_CanonicalDivisor
+import Definitions.Def_ModularCurve_CanonicalDivisorUniformizer
+import Definitions.Def_AlgebraicCurve_Repartitions
+import Definitions.Def_AlgebraicCurve_AdelicIndex
+import Definitions.Def_AlgebraicCurve_CanonicalDivisor
+import Definitions.Def_AlgebraicCurve_LocalResidue
+import Definitions.Def_AlgebraicCurve_DivisorPushPull
+import Definitions.Def_AlgebraicCurve_PlacesOverDVR
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed
+
+namespace J1ThirteenPlaneModel end J1ThirteenPlaneModel
+namespace J1ThirteenPicZeroFibreDiamond end J1ThirteenPicZeroFibreDiamond
+namespace J1ThirteenPicZeroLiteralChordChain end J1ThirteenPicZeroLiteralChordChain
+namespace J1ThirteenPicZeroPlaceDictionary end J1ThirteenPicZeroPlaceDictionary
+namespace J1ThirteenPicZeroPlaceDictionary.PlaceConstruction end J1ThirteenPicZeroPlaceDictionary.PlaceConstruction
+namespace J1ThirteenPicZeroLitPic0Comparison end J1ThirteenPicZeroLitPic0Comparison
+namespace J1ThirteenX113RiemannRochRows end J1ThirteenX113RiemannRochRows
+namespace MazurTate1973Mt31b end MazurTate1973Mt31b
+namespace J1ThirteenX113PackageHeldRowOne end J1ThirteenX113PackageHeldRowOne
+namespace MilneAvAg9bRd9DictionaryHeld3Closure end MilneAvAg9bRd9DictionaryHeld3Closure
+namespace J1ThirteenX113OrdRowWellDefinedReduction end J1ThirteenX113OrdRowWellDefinedReduction
+namespace MilneAvAg9bRd10EllKFinUpperRow end MilneAvAg9bRd10EllKFinUpperRow
+namespace MilneAvAg9bRd11X113TowerPowerBasis end MilneAvAg9bRd11X113TowerPowerBasis
+namespace Ag9b11bX113HwdUnitDischarge end Ag9b11bX113HwdUnitDischarge
+namespace MilneAvAg9bRd11DictionaryBinderShrink end MilneAvAg9bRd11DictionaryBinderShrink
+namespace MilneAvAg9bRd12X113AssemblyRetirement end MilneAvAg9bRd12X113AssemblyRetirement
+namespace MilneAvAg9bRd12T1P1InftyResidue end MilneAvAg9bRd12T1P1InftyResidue
+namespace MilneAvAg9bRd12X113LocalDatumMint end MilneAvAg9bRd12X113LocalDatumMint
+namespace MilneAvAg9bRd12X113FiveRowUpgrade end MilneAvAg9bRd12X113FiveRowUpgrade
+
+set_option autoImplicit false
+set_option synthInstance.maxHeartbeats 6400000
+set_option maxHeartbeats 12800000
+
+namespace AdjoinRoot
+p2m_export "AdjoinRoot" "powerBasis_gen lift powerBasis algebraMap_eq liftAlgHom_root mkₐ mk_surjective minpoly_powerBasis_gen_of_monic powerBasis_dim mk_eq_mk mk_eq_zero liftAlgHom algHom_ext aeval_eq root mk map"
+p2m_open "AdjoinRoot"
+end AdjoinRoot
+namespace Ag9b11bX113HwdUnitDischarge
+end Ag9b11bX113HwdUnitDischarge
+namespace Algebra
+p2m_export "Algebra" "algebraMap_eq_smul_one EssFiniteType IsAlgebraic.of_finite trace_eq_of_algEquiv ofId isIntegral_iff trace FormallyEtale.of_isLocalization FormallyUnramified.of_restrictScalars norm_ne_zero_iff mk algebraMap norm_eq_prod_automorphisms EssFiniteType.comp mem_top FormallyUnramified eq_top_iff adjoin_le finrank_eq_of_equiv_equiv norm IsIntegral.isIntegral FiniteType FormallyEtale FiniteType.adjoin_of_finite IsAlgebraic.isSeparable_of_perfectField algebraMap_self FormallyUnramified.of_isSeparable smul_def FiniteType.trans IsSeparable.of_integral IsSeparable.of_equiv_equiv adjoin IsSeparable.isSeparable rec mem_bot restrictScalars EssFiniteType.of_isLocalization commutes' trace_algebraMap FormallyUnramified.subsingleton_kaehlerDifferential to_smulCommClass FiniteType.adjoin_singleton"
+p2m_open "Algebra"
+end Algebra
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+end AlgebraicCurve
+namespace CongruenceSubgroup
+p2m_open "CongruenceSubgroup"
+end CongruenceSubgroup
+namespace CoordinateRing
+end CoordinateRing
+namespace IntermediateField
+p2m_export "IntermediateField" "charP toAlgebra map_le_iff_le_comap mk val isIntegral_iff topEquiv_apply lift_top lift AdjoinSimple.gen inclusion lift_injective lift_adjoin_simple ext adjoin_simple_le_iff charZero equivOfEq algebraMap_apply smul_def adjoin mk.injEq AdjoinSimple.algebraMap_gen comap topEquiv mem_top adjoinRootEquivAdjoin restrictScalars rec adjoinRootEquivAdjoin_apply_root coe_smul AdjoinSimple.coe_gen mem_bot mem_adjoin_simple_self adjoin_map smul_mem restrict map"
+p2m_open "IntermediateField"
+end IntermediateField
+namespace IntermediateField
+p2m_export "IntermediateField" "charP toAlgebra map_le_iff_le_comap mk val isIntegral_iff topEquiv_apply lift_top lift AdjoinSimple.gen inclusion lift_injective lift_adjoin_simple ext adjoin_simple_le_iff charZero equivOfEq algebraMap_apply smul_def adjoin mk.injEq AdjoinSimple.algebraMap_gen comap topEquiv mem_top adjoinRootEquivAdjoin restrictScalars rec adjoinRootEquivAdjoin_apply_root coe_smul AdjoinSimple.coe_gen mem_bot mem_adjoin_simple_self adjoin_map smul_mem restrict map"
+namespace algebraAdjoinAdjoin
+p2m_open "IntermediateField.algebraAdjoinAdjoin IntermediateField"
+end IntermediateField.algebraAdjoinAdjoin
+namespace IsDedekindDomain
+p2m_export "IsDedekindDomain" "mem_primesOverFinset_iff HeightOneSpectrum.valuationSubringAtPrime HeightOneSpectrum.valuation_of_algebraMap HeightOneSpectrum.intValuation_le_pow_iff_mem HeightOneSpectrum.valuation_lt_one_iff_mem HeightOneSpectrum.valuation_eq_one_iff_notMem HeightOneSpectrum.asIdeal rec HeightOneSpectrum.intValuation_ne_zero HeightOneSpectrum.valuationSubringAtPrime_eq_valuationSubring HeightOneSpectrum.ext mk HeightOneSpectrum"
+p2m_open "IsDedekindDomain"
+end IsDedekindDomain
+namespace IsLocalRing
+p2m_export "IsLocalRing" "eq_maximalIdeal rec ResidueField ker_residue of_surjective maximalIdeal residue_eq_zero_iff mem_maximalIdeal ResidueField.mapEquiv residue_surjective subsingleton_tensorProduct ResidueField.algebraMap_eq residue"
+p2m_open "IsLocalRing"
+end IsLocalRing
+namespace J1ThirteenPicZeroFibreDiamond
+end J1ThirteenPicZeroFibreDiamond
+namespace J1ThirteenPicZeroLitPic0Comparison
+end J1ThirteenPicZeroLitPic0Comparison
+namespace J1ThirteenPicZeroLiteralChordChain
+end J1ThirteenPicZeroLiteralChordChain
+namespace J1ThirteenPicZeroPlaceDictionary
+end J1ThirteenPicZeroPlaceDictionary
+namespace J1ThirteenPicZeroPlaceDictionary
+namespace PlaceConstruction
+end J1ThirteenPicZeroPlaceDictionary.PlaceConstruction
+namespace J1ThirteenPlaneModel
+end J1ThirteenPlaneModel
+namespace J1ThirteenX113OrdRowWellDefinedReduction
+end J1ThirteenX113OrdRowWellDefinedReduction
+namespace J1ThirteenX113PackageHeldRowOne
+end J1ThirteenX113PackageHeldRowOne
+namespace J1ThirteenX113RiemannRochRows
+end J1ThirteenX113RiemannRochRows
+namespace KaehlerDifferential
+p2m_export "KaehlerDifferential" "span_range_map_derivation_of_isLocalization tensorKaehlerEquivOfFormallyEtale finite exact_kerCotangentToTensor_mapBaseChange polynomialEquiv_symm polynomialEquiv mapBaseChange_tmul D span_range_derivation map_surjective range_mapBaseChange mapBaseChange map_D kerCotangentToTensor_toCotangent map"
+p2m_open "KaehlerDifferential"
+end KaehlerDifferential
+namespace MazurTate1973Mt31b
+end MazurTate1973Mt31b
+namespace MilneAvAg9bRd10EllKFinUpperRow
+end MilneAvAg9bRd10EllKFinUpperRow
+namespace MilneAvAg9bRd11DictionaryBinderShrink
+end MilneAvAg9bRd11DictionaryBinderShrink
+namespace MilneAvAg9bRd11X113TowerPowerBasis
+end MilneAvAg9bRd11X113TowerPowerBasis
+namespace MilneAvAg9bRd12T1P1InftyResidue
+end MilneAvAg9bRd12T1P1InftyResidue
+namespace MilneAvAg9bRd12X113AssemblyRetirement
+end MilneAvAg9bRd12X113AssemblyRetirement
+namespace MilneAvAg9bRd12X113FiveRowUpgrade
+end MilneAvAg9bRd12X113FiveRowUpgrade
+namespace MilneAvAg9bRd12X113LocalDatumMint
+end MilneAvAg9bRd12X113LocalDatumMint
+namespace MilneAvAg9bRd9DictionaryHeld3Closure
+end MilneAvAg9bRd9DictionaryHeld3Closure
+namespace ModularCurve
+namespace KwNo6Pin
+end ModularCurve.KwNo6Pin
+namespace ModularCurve
+namespace KwNo6Section
+end ModularCurve.KwNo6Section
+namespace ModularCurve
+namespace Ldgr35Cs
+end ModularCurve.Ldgr35Cs
+namespace ModularCurve
+namespace Ldgr36Rc
+end ModularCurve.Ldgr36Rc
+namespace ModularCurve
+namespace Ldgr36Si
+end ModularCurve.Ldgr36Si
+namespace ModularCurve
+namespace Lg37
+end ModularCurve.Lg37
+namespace ModularCurve
+namespace Ldgr37Ch
+end ModularCurve.Ldgr37Ch
+namespace ModularCurve
+namespace Ldgr39Hf
+end ModularCurve.Ldgr39Hf
+namespace ModularCurve
+namespace Mp72a102T3
+end ModularCurve.Mp72a102T3
+namespace Module
+p2m_export "Module" "support Basis.span rec finrank_eq_card_basis Finite.of_basis Basis.singleton finrank Free mk finrank_self Free.of_basis Finite.of_equiv_equiv Basis.traceDual_powerBasis_eq restrictScalars Finite.of_surjective Basis.span_apply finrank_pos finite_of_finrank_pos mem_support_iff Basis"
+p2m_open "Module"
+end Module
+namespace Mp72a101T2
+end Mp72a101T2
+namespace Mp72a102T1
+end Mp72a102T1
+namespace Mp72a102T2
+end Mp72a102T2
+namespace Mp72a103T2
+end Mp72a103T2
+namespace Pointwise
+p2m_open "Pointwise"
+end Pointwise
+namespace Polynomial
+p2m_export "Polynomial" "C smul_eq_C_mul X X_mul_divX_add coeff_natDegree support derivative_C degree_one derivative_map aeval_def natDegree_mul C_eq_algebraMap eval₂_eq_sum_range leadingCoeff eval₂_eq_sum_range' derivative_add coeff algebraMap_eq aeval_X_left_apply eraseLead_natDegree_lt_or_eraseLead_eq_zero algEquivOfTranscendental divX charZero aeval eraseLead_add_C_mul_X_pow irreducible_X not_dvd_of_degree_lt ext_iff map_surjective degree mapEquiv factor aeval_C toSubring degree_sub_le degree_derivative_lt map degree_C degree_ne_bot derivative_X Monic comp natDegree_X_pow natDegree_pow coe_mul algHom_ext sum charP derivative_mul coe_smul Separable coeff_zero leadingCoeff_C natDegree transcendental_X X_ne_zero rec degree_mul_le natDegree_lt_natDegree leadingCoeff_mul sum_C_mul_X_pow_eq mem_support_iff derivative degree_sub_lt smul_pow aeval_X degree_le_of_dvd algebraMap_apply degree_X coeff_divX coeff_eq_zero_of_natDegree_lt eval_map mul_prod_pow_inverse_eq_quo_add_sum_rem_mul_pow_inverse degree_X_pow leadingCoeff_X_pow eraseLead ext degree_eq_natDegree eq_C_of_degree_le_zero isUnit_iff ring aeval_algHom_apply degree_mul aeval_algebraMap_apply leadingCoeff_ne_zero eval"
+p2m_open "Polynomial"
+end Polynomial
+namespace Polynomial
+p2m_export "Polynomial" "C smul_eq_C_mul X X_mul_divX_add coeff_natDegree support derivative_C degree_one derivative_map aeval_def natDegree_mul C_eq_algebraMap eval₂_eq_sum_range leadingCoeff eval₂_eq_sum_range' derivative_add coeff algebraMap_eq aeval_X_left_apply eraseLead_natDegree_lt_or_eraseLead_eq_zero algEquivOfTranscendental divX charZero aeval eraseLead_add_C_mul_X_pow irreducible_X not_dvd_of_degree_lt ext_iff map_surjective degree mapEquiv factor aeval_C toSubring degree_sub_le degree_derivative_lt map degree_C degree_ne_bot derivative_X Monic comp natDegree_X_pow natDegree_pow coe_mul algHom_ext sum charP derivative_mul coe_smul Separable coeff_zero leadingCoeff_C natDegree transcendental_X X_ne_zero rec degree_mul_le natDegree_lt_natDegree leadingCoeff_mul sum_C_mul_X_pow_eq mem_support_iff derivative degree_sub_lt smul_pow aeval_X degree_le_of_dvd algebraMap_apply degree_X coeff_divX coeff_eq_zero_of_natDegree_lt eval_map mul_prod_pow_inverse_eq_quo_add_sum_rem_mul_pow_inverse degree_X_pow leadingCoeff_X_pow eraseLead ext degree_eq_natDegree eq_C_of_degree_le_zero isUnit_iff ring aeval_algHom_apply degree_mul aeval_algebraMap_apply leadingCoeff_ne_zero eval"
+namespace Bivariate
+p2m_open "Polynomial.Bivariate Polynomial"
+end Polynomial.Bivariate
+namespace RationalFunctionField
+end RationalFunctionField
+namespace TameRamificationConverseThree
+end TameRamificationConverseThree
+namespace TensorProduct
+p2m_export "TensorProduct" "congr tmul_zero smul_tmul zero_tmul lift mk ext tmul map_surjective map Algebra.smul_def tmul_add mk_surjective tmul_smul"
+p2m_open "TensorProduct"
+end TensorProduct
+namespace The
+end The
+namespace UniqueFactorizationMonoid
+p2m_export "UniqueFactorizationMonoid" "normalizedFactors_eq_of_dvd rec induction_on_prime mk irreducible_of_normalized_factor mem_normalizedFactors_iff prod_normalizedFactors_eq normalizedFactors"
+p2m_open "UniqueFactorizationMonoid"
+end UniqueFactorizationMonoid
+namespace WithZero
+p2m_export "WithZero" "log_le_log map coe_mul exp_lt_exp log_zpow exp_neg coe log_exp exp_ne_zero log exp exp_zero log_mul lift le log_one exp_le_exp inv exp_log exp_injective"
+p2m_open "WithZero"
+end WithZero
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable {K F}
+
+variable (v : Place K F)
+
+end Place
+
+namespace Divisor
+p2m_export "AlgebraicCurve.Divisor" "degree degree_single principal smul_def smul_apply degree_smul"
+p2m_open "AlgebraicCurve.Divisor"
+
+variable {K F}
+
+end Divisor
+
+namespace Pic0
+p2m_export "AlgebraicCurve.Pic0" "mk mk_surjective"
+p2m_open "AlgebraicCurve.Pic0"
+
+variable {K F}
+
+end Pic0
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+p2m_open_scoped "Pointwise P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Pointwise"
+
+variable {K F}
+variable (σ : F ≃ₐ[K] F)
+
+variable (v : Place K F)
+
+end Place
+
+namespace Divisor
+p2m_export "AlgebraicCurve.Divisor" "degree degree_single principal smul_def smul_apply degree_smul"
+p2m_open "AlgebraicCurve.Divisor"
+
+p2m_open_scoped "Pointwise P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Pointwise"
+
+variable {K F}
+
+end Divisor
+
+namespace Pic0
+p2m_export "AlgebraicCurve.Pic0" "mk mk_surjective"
+p2m_open "AlgebraicCurve.Pic0"
+
+p2m_open_scoped "Pointwise P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Pointwise"
+
+variable {K F}
+
+end Pic0
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable {K F}
+variable {R : Type*} [CommRing R] [IsDedekindDomain R] [Algebra R F] [IsFractionRing R F]
+
+end Place
+
+end AlgebraicCurve
+
+end
+end
+
+end
+
+section
+section
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module Algebra P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Algebra"
+
+namespace FLT
+namespace EulerDualBasis
+
+variable {K L : Type*} [Field K] [Field L] [Algebra K L]
+  [FiniteDimensional K L] [Algebra.IsSeparable K L]
+
+omit [FiniteDimensional K L] [Algebra.IsSeparable K L] in
+
+theorem coeff_minpolyDiv_dim_sub_one (pb : PowerBasis K L) :
+    (minpolyDiv K pb.gen).coeff (pb.dim - 1) = 1 := by
+  have h1 : (minpolyDiv K pb.gen).natDegree = pb.dim - 1 := by
+    rw [natDegree_minpolyDiv, pb.natDegree_minpoly]
+  rw [← h1]
+  exact (minpolyDiv_monic pb.isIntegral_gen).coeff_natDegree
+
+theorem traceDual_eq_one_div_of_val_eq (pb : PowerBasis K L) {j : Fin pb.dim}
+    (hj : (j : ℕ) = pb.dim - 1) :
+    pb.basis.traceDual j = 1 / aeval pb.gen (derivative (minpoly K pb.gen)) := by
+  rw [Module.Basis.traceDual_powerBasis_eq]
+  rw [hj, coeff_minpolyDiv_dim_sub_one]
+
+theorem trace_pow_div_aeval_derivative_minpoly_of_lt (pb : PowerBasis K L) {k : ℕ}
+    (hk : k < pb.dim - 1) :
+    Algebra.trace K L
+      (pb.gen ^ k / aeval pb.gen (derivative (minpoly K pb.gen))) = 0 := by
+  have hd : 0 < pb.dim := by omega
+  have hk' : k < pb.dim := by omega
+  have hlt : pb.dim - 1 < pb.dim := by omega
+  have key := pb.basis.trace_mul_traceDual ⟨k, hk'⟩ ⟨pb.dim - 1, hlt⟩
+  rw [traceDual_eq_one_div_of_val_eq pb rfl, pb.basis_eq_pow, mul_one_div] at key
+  rw [key, if_neg]
+  simp only [Fin.mk.injEq]
+  omega
+
+theorem trace_pow_div_aeval_derivative_minpoly_self (pb : PowerBasis K L)
+    (hd : 0 < pb.dim) :
+    Algebra.trace K L
+      (pb.gen ^ (pb.dim - 1) / aeval pb.gen (derivative (minpoly K pb.gen))) = 1 := by
+  have hlt : pb.dim - 1 < pb.dim := by omega
+  have key := pb.basis.trace_mul_traceDual ⟨pb.dim - 1, hlt⟩ ⟨pb.dim - 1, hlt⟩
+  rw [traceDual_eq_one_div_of_val_eq pb rfl, pb.basis_eq_pow, mul_one_div] at key
+  rw [key, if_pos rfl]
+
+variable {F : Type*} [Field F] [CharZero F] {g : F[X]} [Fact (Irreducible g)]
+
+theorem trace_root_pow_div_derivative_of_lt (hg : g.Monic) {k : ℕ}
+    (hk : k < g.natDegree - 1) :
+    Algebra.trace F (AdjoinRoot g)
+      (AdjoinRoot.root g ^ k / aeval (AdjoinRoot.root g) (derivative g)) = 0 := by
+  haveI : FiniteDimensional F (AdjoinRoot g) :=
+    Module.Finite.of_basis (AdjoinRoot.powerBasis hg.ne_zero).basis
+  have hmin : minpoly F (AdjoinRoot.powerBasis hg.ne_zero).gen = g :=
+    AdjoinRoot.minpoly_powerBasis_gen_of_monic hg
+  have h := trace_pow_div_aeval_derivative_minpoly_of_lt
+    (AdjoinRoot.powerBasis hg.ne_zero) (k := k)
+    (by rwa [AdjoinRoot.powerBasis_dim])
+  rwa [hmin, AdjoinRoot.powerBasis_gen] at h
+
+theorem trace_root_pow_div_derivative_self (hg : g.Monic) (hd : 0 < g.natDegree) :
+    Algebra.trace F (AdjoinRoot g)
+      (AdjoinRoot.root g ^ (g.natDegree - 1) /
+        aeval (AdjoinRoot.root g) (derivative g)) = 1 := by
+  haveI : FiniteDimensional F (AdjoinRoot g) :=
+    Module.Finite.of_basis (AdjoinRoot.powerBasis hg.ne_zero).basis
+  have hmin : minpoly F (AdjoinRoot.powerBasis hg.ne_zero).gen = g :=
+    AdjoinRoot.minpoly_powerBasis_gen_of_monic hg
+  have h := trace_pow_div_aeval_derivative_minpoly_self
+    (AdjoinRoot.powerBasis hg.ne_zero)
+    (by rwa [AdjoinRoot.powerBasis_dim])
+  rwa [hmin, AdjoinRoot.powerBasis_gen, AdjoinRoot.powerBasis_dim] at h
+
+end FLT.EulerDualBasis
+
+namespace FLT
+namespace EulerDualBasis
+namespace Gates
+
+p2m_open "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.TameRamificationConverseThree AdjoinRoot P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AdjoinRoot"
+
+end FLT.EulerDualBasis.Gates
+
+end
+
+end
+
+section
+section
+
+noncomputable section
+
+p2m_open "KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+namespace IsCurveOver
+p2m_export "AlgebraicCurve.IsCurveOver" "instFiniteResidue mk finiteResidue kaehler_free_rank_one rec"
+p2m_open "AlgebraicCurve.IsCurveOver"
+
+variable {K F}
+
+end IsCurveOver
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable {K F}
+variable (v : Place K F)
+
+end Place
+
+variable {K F}
+
+variable (K F)
+
+def OrdDifferentialWellDefined : Prop :=
+  ∀ (v : Place K F) (π π' : F), v.ord π = 1 → v.ord π' = 1 →
+    ∃ u : F, v.ord u = 0 ∧
+      KaehlerDifferential.D K F π' = u • KaehlerDifferential.D K F π
+
+end AlgebraicCurve
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+end AlgebraicCurve
+
+namespace ModularCurve
+
+end ModularCurve
+
+end
+end
+
+end
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+variable {D E : Divisor K F}
+
+variable (K F)
+
+end AlgebraicCurve
+
+end
+
+end
+
+end
+
+section
+section
+
+noncomputable section
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain"
+
+p2m_open_scoped "Polynomial.Bivariate P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial.Bivariate"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.ord_add_eq_min {f g : F} (hf : f ≠ 0) (hg : g ≠ 0) (h : v.ord f ≠ v.ord g) :
+    v.ord (f + g) = min (v.ord f) (v.ord g) := by
+  have hval : v.adicValuation f ≠ v.adicValuation g := by
+    intro hcon
+    exact h (by simp only [ord, hcon])
+  have h1 : v.adicValuation (f + g) = max (v.adicValuation f) (v.adicValuation g) :=
+    Valuation.map_add_of_distinct_val _ hval
+  have hfg : f + g ≠ 0 := by
+    intro hcon
+    rw [hcon, _root_.map_zero] at h1
+    rcases max_cases (v.adicValuation f) (v.adicValuation g) with ⟨hmax, -⟩ | ⟨hmax, -⟩ <;>
+      rw [hmax] at h1
+    · exact v.adicValuation_ne_zero hf h1.symm
+    · exact v.adicValuation_ne_zero hg h1.symm
+  rcases max_cases (v.adicValuation f) (v.adicValuation g) with ⟨hmax, hle⟩ | ⟨hmax, hlt⟩ <;>
+    rw [hmax] at h1
+  ·
+    have hlog := (WithZero.log_le_log (v.adicValuation_ne_zero hg)
+      (v.adicValuation_ne_zero hf)).mpr hle
+    have h2 : v.ord (f + g) = v.ord f := by simp only [ord, h1]
+    simp only [ord] at hlog h2 ⊢
+    omega
+  · have hlog := (WithZero.log_le_log (v.adicValuation_ne_zero hf)
+      (v.adicValuation_ne_zero hg)).mpr hlt.le
+    have h2 : v.ord (f + g) = v.ord g := by simp only [ord, h1]
+    simp only [ord] at hlog h2 ⊢
+    omega
+
+p2m_export "AlgebraicCurve.Place" "ord_add_eq_min"
+end AlgebraicCurve.Place
+
+namespace WeierstrassCurve
+p2m_export "WeierstrassCurve" "Affine mk.injEq a₁ map mk a₂ isIntegral_iff IsIntegral rec baseChange j"
+namespace Affine
+p2m_export "WeierstrassCurve.Affine" "CoordinateRing map baseChange FunctionField"
+p2m_open "WeierstrassCurve.Affine WeierstrassCurve"
+
+p2m_open "WeierstrassCurve.Affine.CoordinateRing AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable {F : Type*} [Field F] {W : Affine F}
+
+variable (v : AlgebraicCurve.Place F W.FunctionField)
+
+end WeierstrassCurve.Affine
+
+end
+end
+
+end
+
+section
+section
+
+set_option linter.unusedSectionVars false
+set_option maxHeartbeats 1600000
+set_option maxRecDepth 8000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace ModularCurve
+namespace Lg37
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+open ModularCurve.Ldgr36Si
+open ModularCurve.Ldgr36Rc
+open ModularCurve.Ldgr35Cs
+
+section CompletionCarrier
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+abbrev lg37_completion (v : Place K F) : Type _ :=
+  AdicCompletion (IsLocalRing.maximalIdeal v.toValuationSubring) v.toValuationSubring
+
+def lg37_residueHat (v : Place K F) :
+    lg37_completion v →+* v.ResidueField :=
+  (AdicCompletion.evalOneₐ (IsLocalRing.maximalIdeal v.toValuationSubring)).toRingHom
+
+theorem lg37_residueHat_algebraMap (v : Place K F) (x : v.toValuationSubring) :
+    lg37_residueHat v
+        (algebraMap v.toValuationSubring (lg37_completion v) x)
+      = IsLocalRing.residue v.toValuationSubring x := rfl
+
+structure Lg37CompletionSection (v : Place K F) where
+
+  lift : v.ResidueField →ₐ[K] lg37_completion v
+
+  residueHat_lift : ∀ a, lg37_residueHat v (lift a) = a
+
+end CompletionCarrier
+
+section Inhabitant
+
+end Inhabitant
+
+section Stratum
+
+variable {K E : Type*} [Field K] [Field E] [Algebra K E] [HasCanonicalLocalResidueKStar K E]
+
+end Stratum
+
+section MovedCarrier
+
+variable {K K' F' : Type*} [Field K] [Field K'] [Field F']
+  [Algebra K K'] [Algebra K' F'] [Algebra K F'] [IsScalarTower K K' F']
+variable [HasCanonicalLocalResidueKStar K F']
+
+end MovedCarrier
+
+section CommittedPlace
+
+end CommittedPlace
+
+end ModularCurve.Lg37
+
+section AxiomAudit
+
+end AxiomAudit
+
+end
+
+end
+
+end
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section SinglePlace
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.ord_nonneg_of_mem {f : F} (hf : f ∈ v.toValuationSubring) : 0 ≤ v.ord f := by
+  rcases eq_or_ne f 0 with rfl | hf0
+  · simp
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible v.toValuationSubring
+  obtain ⟨n, u, hu⟩ :=
+    IsDiscreteValuationRing.eq_unit_mul_pow_irreducible
+      (x := (⟨f, hf⟩ : v.toValuationSubring)) (by simpa [Subtype.ext_iff] using hf0) hπ
+  have hcoe : f = ((u : v.toValuationSubring) : F) * ((π : F) ^ (n : ℤ)) := by
+    have h := congrArg (Subtype.val) hu
+    push_cast at h
+    rw [zpow_natCast]
+    exact h
+  rw [hcoe, v.ord_unit_smul_zpow u hπ (n : ℤ)]
+  exact Int.natCast_nonneg n
+
+p2m_export "AlgebraicCurve.Place" "ord_nonneg_of_mem"
+private theorem _root_.AlgebraicCurve.Place.mem_of_ord_nonneg {f : F} (hf : f ≠ 0) (h : 0 ≤ v.ord f) :
+    f ∈ v.toValuationSubring := by
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible v.toValuationSubring
+  obtain ⟨u, hu⟩ := v.exists_unit_mul_zpow hf hπ
+  rw [hu, show v.ord f = (((v.ord f).toNat : ℕ) : ℤ) from (Int.toNat_of_nonneg h).symm,
+    zpow_natCast]
+  exact mul_mem (u : v.toValuationSubring).2 (pow_mem (π : v.toValuationSubring).2 _)
+
+p2m_export "AlgebraicCurve.Place" "mem_of_ord_nonneg"
+private theorem _root_.AlgebraicCurve.Place.mem_iff_ord_nonneg {f : F} (hf : f ≠ 0) :
+    f ∈ v.toValuationSubring ↔ 0 ≤ v.ord f :=
+  ⟨v.ord_nonneg_of_mem, v.mem_of_ord_nonneg hf⟩
+
+p2m_export "AlgebraicCurve.Place" "mem_iff_ord_nonneg"
+theorem exists_ord_pos : ∃ f : F, f ≠ 0 ∧ 0 < v.ord f := by
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible v.toValuationSubring
+  refine ⟨(π : F), ?_, ?_⟩
+  · simpa [ne_eq, ZeroMemClass.coe_eq_zero] using hπ.ne_zero
+  · rw [v.ord_coe_irreducible hπ]
+    exact one_pos
+
+end SinglePlace
+
+section Restrict
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F'] [Algebra F F']
+
+private theorem _root_.AlgebraicCurve.Place.algebraMap_ne_zero {f : F} (hf : f ≠ 0) : algebraMap F F' f ≠ 0 := by
+  simpa using hf
+
+p2m_export "AlgebraicCurve.Place" "algebraMap_ne_zero"
+variable (w : Place K F')
+
+private theorem _root_.AlgebraicCurve.Place.comap_algebraMap_ne_top [Algebra.IsIntegral F F'] :
+    w.toValuationSubring.comap (algebraMap F F') ≠ ⊤ := by
+  intro htop
+  apply w.ne_top'
+
+  have hF : ∀ f : F, algebraMap F F' f ∈ w.toValuationSubring := fun f =>
+    ValuationSubring.mem_comap.mp (htop ▸ ValuationSubring.mem_top f)
+
+  refine SetLike.ext fun x => ⟨fun _ => ValuationSubring.mem_top x, fun _ => ?_⟩
+  letI : Algebra F w.toValuationSubring :=
+    ((algebraMap F F').codRestrict w.toValuationSubring.toSubring hF).toAlgebra
+  letI : IsScalarTower F w.toValuationSubring F' :=
+    IsScalarTower.of_algebraMap_eq fun f => rfl
+  have hx : _root_.IsIntegral w.toValuationSubring x :=
+    (Algebra.IsIntegral.isIntegral (R := F) x).tower_top
+  obtain ⟨y, hy⟩ := IsIntegrallyClosed.isIntegral_iff.mp hx
+  exact hy ▸ y.2
+
+p2m_export "AlgebraicCurve.Place" "comap_algebraMap_ne_top"
+variable {w} in
+
+theorem mem_comap_iff_ord_nonneg {f : F} (hf : f ≠ 0) :
+    f ∈ w.toValuationSubring.comap (algebraMap F F') ↔
+      0 ≤ w.ord (algebraMap F F' f) := by
+  rw [ValuationSubring.mem_comap]
+  exact w.mem_iff_ord_nonneg (algebraMap_ne_zero hf)
+
+variable {w} in
+
+theorem isUnit_mk_comap_iff {f : F} (hf : f ≠ 0)
+    (hmem : f ∈ w.toValuationSubring.comap (algebraMap F F')) :
+    IsUnit (⟨f, hmem⟩ : w.toValuationSubring.comap (algebraMap F F')) ↔
+      w.ord (algebraMap F F' f) = 0 := by
+  constructor
+  · rintro h
+    obtain ⟨b, hb⟩ := isUnit_iff_exists_inv.mp h
+    have hb' : f * (b : F) = 1 := by
+      simpa [Subtype.ext_iff] using hb
+    have hbne : (b : F) ≠ 0 := by
+      intro h0
+      rw [h0, mul_zero] at hb'
+      exact zero_ne_one hb'
+    have hsum : w.ord (algebraMap F F' f) + w.ord (algebraMap F F' (b : F)) = 0 := by
+      rw [← w.ord_mul (algebraMap_ne_zero hf) (algebraMap_ne_zero hbne), ← map_mul, hb',
+        map_one, w.ord_one]
+    have h1 : 0 ≤ w.ord (algebraMap F F' f) := (mem_comap_iff_ord_nonneg hf).mp hmem
+    have h2 : 0 ≤ w.ord (algebraMap F F' (b : F)) := (mem_comap_iff_ord_nonneg hbne).mp b.2
+    omega
+  · intro h0
+    have hinv : f⁻¹ ∈ w.toValuationSubring.comap (algebraMap F F') :=
+      (mem_comap_iff_ord_nonneg (inv_ne_zero hf)).mpr (by rw [map_inv₀, w.ord_inv]; omega)
+    exact ⟨⟨⟨f, hmem⟩, ⟨f⁻¹, hinv⟩, Subtype.ext (mul_inv_cancel₀ hf),
+      Subtype.ext (inv_mul_cancel₀ hf)⟩, rfl⟩
+
+private theorem _root_.AlgebraicCurve.Place.exists_ord_algebraMap_pos [Algebra.IsIntegral F F'] :
+    ∃ f : F, f ≠ 0 ∧ 0 < w.ord (algebraMap F F' f) := by
+  have h := w.comap_algebraMap_ne_top (F := F)
+  rw [ne_eq, SetLike.ext_iff, not_forall] at h
+  obtain ⟨g, hg⟩ := h
+  simp only [ValuationSubring.mem_top, iff_true] at hg
+  have hg0 : g ≠ 0 := by
+    rintro rfl
+    exact hg (zero_mem _)
+  refine ⟨g⁻¹, inv_ne_zero hg0, ?_⟩
+  rw [map_inv₀, w.ord_inv]
+  have := (mem_comap_iff_ord_nonneg hg0).not.mp hg
+  omega
+
+p2m_export "AlgebraicCurve.Place" "exists_ord_algebraMap_pos"
+variable [Algebra.IsIntegral F F']
+
+private theorem ramificationIndex_set_nonempty :
+    {n : ℕ | 0 < n ∧ ∃ f : F, f ≠ 0 ∧ w.ord (algebraMap F F' f) = n}.Nonempty := by
+  obtain ⟨f, hf0, hf⟩ := w.exists_ord_algebraMap_pos (F := F)
+  exact ⟨(w.ord (algebraMap F F' f)).toNat, by omega, f, hf0, by omega⟩
+
+theorem isPrincipalIdealRing_comap :
+    IsPrincipalIdealRing (w.toValuationSubring.comap (algebraMap F F')) := by
+  obtain ⟨g, hg0, hge⟩ := w.exists_ord_eq_ramificationIndex (F := F)
+  have hepos : 0 < ramificationIndex (F := F) w := w.ramificationIndex_pos (F := F)
+  have hgmem : g ∈ w.toValuationSubring.comap (algebraMap F F') :=
+    (mem_comap_iff_ord_nonneg hg0).mpr (by omega)
+  refine (IsDiscreteValuationRing.ofHasUnitMulPowIrreducibleFactorization
+    ⟨⟨g, hgmem⟩, irreducible_mk_comap w hg0 hgmem hge, ?_⟩).toIsPrincipalIdealRing
+  rintro ⟨f, hmem⟩ hx
+  have hf : f ≠ 0 := by simpa [Subtype.ext_iff] using hx
+
+  obtain ⟨c, hc⟩ := w.ramificationIndex_dvd_ord (F := F) hf
+  have hnonneg : 0 ≤ w.ord (algebraMap F F' f) := (mem_comap_iff_ord_nonneg hf).mp hmem
+  have hcnonneg : 0 ≤ c := by
+    by_contra hneg
+    have hcle : c ≤ -1 := by omega
+    have : (ramificationIndex (F := F) w : ℤ) * c ≤ (ramificationIndex (F := F) w : ℤ) * -1 :=
+      mul_le_mul_of_nonneg_left hcle (by omega)
+    omega
+  set n : ℕ := c.toNat with hn
+  have hcn : (n : ℤ) = c := Int.toNat_of_nonneg hcnonneg
+  refine ⟨n, ?_⟩
+
+  have hgn : g ^ n ≠ 0 := pow_ne_zero _ hg0
+  have hdiv0 : f / g ^ n ≠ 0 := div_ne_zero hf hgn
+  have hu0 : w.ord (algebraMap F F' (f / g ^ n)) = 0 := by
+    have hkey : algebraMap F F' (f / g ^ n)
+        = algebraMap F F' f * (algebraMap F F' g) ^ (-(n : ℤ)) := by
+      rw [div_eq_mul_inv, map_mul, map_inv₀, map_pow, ← zpow_natCast (algebraMap F F' g) n,
+        ← _root_.zpow_neg]
+    rw [hkey, w.ord_mul (algebraMap_ne_zero hf) (zpow_ne_zero _ (algebraMap_ne_zero hg0)),
+      w.ord_zpow, hge, hc, ← hcn]
+    ring
+  have humem : f / g ^ n ∈ w.toValuationSubring.comap (algebraMap F F') :=
+    (mem_comap_iff_ord_nonneg hdiv0).mpr (le_of_eq hu0.symm)
+  have hu : IsUnit (⟨f / g ^ n, humem⟩ : w.toValuationSubring.comap (algebraMap F F')) :=
+    (isUnit_mk_comap_iff hdiv0 humem).mpr hu0
+  refine ⟨hu.unit, ?_⟩
+  refine Subtype.ext ?_
+  have hcoe : ((hu.unit : w.toValuationSubring.comap (algebraMap F F')) : F) = f / g ^ n := by
+    rw [IsUnit.unit_spec]
+  push_cast
+  rw [hcoe, mul_comm, div_mul_cancel₀]
+  exact hgn
+
+section RestrictDef
+
+variable [Algebra K F] [IsScalarTower K F F']
+
+end RestrictDef
+
+end Restrict
+
+end Place
+
+end AlgebraicCurve
+
+end
+end
+
+end
+
+section
+section
+
+noncomputable section
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place AlgebraicCurve"
+
+section Ultrametric
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.ord_add_eq_left {f g : F} (hf : f ≠ 0) (hg : g ≠ 0) (h : v.ord f < v.ord g) :
+    v.ord (f + g) = v.ord f := by
+
+  have hfv := v.adicValuation_ne_zero hf
+  have hgv := v.adicValuation_ne_zero hg
+  have hlt : v.adicValuation g < v.adicValuation f := by
+    rw [← exp_log hfv, ← exp_log hgv]
+    have hlog : log (v.adicValuation g) < log (v.adicValuation f) := by
+      simp only [ord] at h
+      omega
+    exact lt_of_le_of_ne (exp_le_exp.mpr hlog.le)
+      fun hcon => hlog.ne (exp_injective hcon)
+  have h1 : v.adicValuation (f + g) = max (v.adicValuation f) (v.adicValuation g) :=
+    Valuation.map_add_of_distinct_val _ (ne_of_lt hlt).symm
+  rw [max_eq_left hlt.le] at h1
+  simp only [ord, h1]
+
+p2m_export "AlgebraicCurve.Place" "ord_add_eq_left"
+end Ultrametric
+
+section SumLeFinrank
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+  [FiniteDimensional F F'] [Algebra.IsSeparable F F']
+
+end SumLeFinrank
+
+end AlgebraicCurve.Place
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+section RationalFunctionFieldInfty
+
+end RationalFunctionFieldInfty
+
+section Tower
+
+variable (p : ℕ) [NeZero p]
+
+end Tower
+
+section Degree
+
+variable (p : ℕ) [NeZero p]
+
+end Degree
+
+section Restriction
+
+end Restriction
+
+section Assembly
+
+variable {p : ℕ} [NeZero p]
+
+end Assembly
+
+end ModularCurve
+
+end
+end
+
+end
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+section OfHeightOneSpectrum
+
+variable {R : Type*} [CommRing R] [IsDedekindDomain R] [Algebra R F] [IsFractionRing R F]
+  [Algebra K R] [IsScalarTower K R F]
+
+end OfHeightOneSpectrum
+
+end Place
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K]
+
+theorem ord_finitePlace_ne_zero_iff {p : K[X]} (hp : Irreducible p) {q : K[X]} (hq : q ≠ 0) :
+    (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) q) ≠ 0 ↔ p ∣ q := by
+  rw [finitePlace, Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) _ hq,
+    heightOneSpectrumOfIrreducible_asIdeal, Ideal.mem_span_singleton]
+
+section PlaceInfty
+
+variable [DecidableEq (RatFunc K)]
+
+scoped instance : Nontrivial (MonoidWithZeroHom.valueGroup (MonoidWithZeroHom.ofClass (RatFunc.inftyValuation K))) := by
+  rw [Subgroup.nontrivial_iff_exists_ne_one]
+  refine ⟨Units.mk0 (RatFunc.inftyValuation K RatFunc.X)
+    (by rw [RatFunc.inftyValuation.X]; exact exp_ne_zero), ?_, ?_⟩
+  · exact MonoidWithZeroHom.mem_valueGroup _ ⟨RatFunc.X, rfl⟩
+  · rw [ne_eq, Units.ext_iff, Units.val_mk0, Units.val_one, RatFunc.inftyValuation.X]
+    simp
+
+def placeInfty : Place K (RatFunc K) where
+  toValuationSubring := (RatFunc.inftyValuation K).valuationSubring
+  algebraMap_mem' a := by
+    rw [Valuation.mem_valuationSubring_iff]
+    exact Valuation.IsTrivialOn.valuation_algebraMap_le_one (v := RatFunc.inftyValuation K) a
+  ne_top' := by
+    simp only [ne_eq, Valuation.valuationSubring_eq_top_iff, not_not]
+    infer_instance
+  isPrincipalIdealRing' :=
+    (Valuation.valuationSubring_isDiscreteValuationRing
+      (RatFunc.inftyValuation K)).toIsPrincipalIdealRing
+
+@[scoped simp]
+theorem placeInfty_toValuationSubring :
+    (placeInfty K).toValuationSubring = (RatFunc.inftyValuation K).valuationSubring := rfl
+
+theorem inftyValuation_isEquiv_adicValuation :
+    (RatFunc.inftyValuation K).IsEquiv (placeInfty K).adicValuation :=
+  (placeInfty K).isEquiv_adicValuation_of_valuationSubring_eq rfl
+
+theorem placeInfty_ne_ofHeightOneSpectrum (w : HeightOneSpectrum K[X]) :
+    placeInfty K ≠ Place.ofHeightOneSpectrum w := by
+  intro h
+  refine RatFunc.adicValuation_not_isEquiv_infty_valuation w
+    ((Valuation.isEquiv_iff_valuationSubring _ _).mpr ?_)
+  have h2 := congrArg Place.toValuationSubring h
+  rw [placeInfty_toValuationSubring, Place.ofHeightOneSpectrum_toValuationSubring] at h2
+  exact h2.symm
+
+end PlaceInfty
+
+variable {K}
+
+theorem eq_ofHeightOneSpectrum_or_eq_placeInfty [DecidableEq (RatFunc K)]
+    (v : Place K (RatFunc K)) :
+    (∃ w : HeightOneSpectrum K[X], v = Place.ofHeightOneSpectrum w) ∨ v = placeInfty K := by
+  rcases (RatFunc.valuation_isEquiv_infty_or_adic (v := v.adicValuation)).or with h | h
+  · exact Or.inr (Place.ext (v.adicValuation_valuationSubring.symm.trans
+      ((Valuation.isEquiv_iff_valuationSubring _ _).mp h)))
+  · obtain ⟨w, hw, -⟩ := h
+    exact Or.inl ⟨w, Place.ext (v.adicValuation_valuationSubring.symm.trans
+      ((Valuation.isEquiv_iff_valuationSubring _ _).mp hw))⟩
+
+theorem subsingleton_setOf_forall_ne_ofHeightOneSpectrum :
+    {v : Place K (RatFunc K) |
+      ∀ w : HeightOneSpectrum K[X], v ≠ Place.ofHeightOneSpectrum w}.Subsingleton := by
+  classical
+  intro v hv v' hv'
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, h⟩ | h
+  · exact absurd h (hv w)
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v' with ⟨w, h'⟩ | h'
+  · exact absurd h' (hv' w)
+  rw [h, h']
+
+theorem finite_setOf_valuation_ne_one {f : RatFunc K} (hf : f ≠ 0) :
+    {w : HeightOneSpectrum K[X] | w.valuation (RatFunc K) f ≠ 1}.Finite := by
+  have hnum : (Ideal.span {f.num} : Ideal K[X]) ≠ 0 := by
+    simpa [Ideal.span_singleton_eq_bot] using RatFunc.num_ne_zero hf
+  have hden : (Ideal.span {f.denom} : Ideal K[X]) ≠ 0 := by
+    simpa [Ideal.span_singleton_eq_bot] using f.denom_ne_zero
+  refine Set.Finite.subset ((Ideal.finite_factors hnum).union (Ideal.finite_factors hden))
+    fun w hw => ?_
+  by_contra hcon
+  simp only [Set.mem_union, Set.mem_setOf_eq, not_or, Ideal.dvd_span_singleton] at hcon
+  refine hw ?_
+  have h1 : w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) f.num) = 1 :=
+    (HeightOneSpectrum.valuation_eq_one_iff_notMem w).mpr hcon.1
+  have h2 : w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) f.denom) = 1 :=
+    (HeightOneSpectrum.valuation_eq_one_iff_notMem w).mpr hcon.2
+  rw [show f = algebraMap K[X] (RatFunc K) f.num / algebraMap K[X] (RatFunc K) f.denom from
+    f.num_div_denom.symm, map_div₀, h1, h2]
+  exact div_one 1
+
+theorem finite_setOf_ord_ne_zero {f : RatFunc K} (hf : f ≠ 0) :
+    {v : Place K (RatFunc K) | v.ord f ≠ 0}.Finite := by
+  refine Set.Finite.subset
+    (Set.Finite.union
+      (Set.Finite.image (Place.ofHeightOneSpectrum (K := K))
+        (finite_setOf_valuation_ne_one hf))
+      (Set.Subsingleton.finite subsingleton_setOf_forall_ne_ofHeightOneSpectrum))
+    fun v hv => ?_
+  simp only [Set.mem_setOf_eq] at hv
+  simp only [Set.mem_union, Set.mem_image, Set.mem_setOf_eq]
+  by_cases hcase : ∃ w : HeightOneSpectrum K[X], v = Place.ofHeightOneSpectrum w
+  · obtain ⟨w, rfl⟩ := hcase
+    refine Or.inl ⟨w, fun hone => hv ?_, rfl⟩
+    exact ((Place.ofHeightOneSpectrum (K := K) w).ord_eq_zero_iff_adicValuation_eq_one hf).mpr
+      ((Place.isEquiv_adicValuation_ofHeightOneSpectrum (K := K) (F := RatFunc K)
+        w).eq_one_iff_eq_one.mp hone)
+  · exact Or.inr fun w h => hcase ⟨w, h⟩
+
+section ResidueDegree
+
+variable (K)
+
+end ResidueDegree
+
+section DegInfty
+
+variable (K) [DecidableEq (RatFunc K)]
+
+theorem exists_sub_algebraMap_intDegree_neg {x : RatFunc K}
+    (hx : RatFunc.inftyValuation K x ≤ 1) :
+    ∃ c : K, x - algebraMap K (RatFunc K) c = 0 ∨
+      (x - algebraMap K (RatFunc K) c).intDegree < 0 := by
+  rcases eq_or_ne x 0 with rfl | hx0
+  · exact ⟨0, Or.inl (by simp)⟩
+  have hdeg : x.intDegree ≤ 0 := by
+    rw [RatFunc.inftyValuation_apply, RatFunc.inftyValuation_of_nonzero K hx0,
+      show (1 : ℤᵐ⁰) = exp 0 from rfl, exp_le_exp] at hx
+    exact hx
+  have hnum0 : x.num ≠ 0 := RatFunc.num_ne_zero hx0
+  have hden0 : x.denom ≠ 0 := x.denom_ne_zero
+  rcases lt_or_eq_of_le hdeg with hlt | heq
+  · exact ⟨0, Or.inr (by simpa using hlt)⟩
+
+  have hndeg : x.num.natDegree = x.denom.natDegree := by
+    have h2 := heq
+    rw [RatFunc.intDegree, sub_eq_zero] at h2
+    exact_mod_cast h2
+  set c : K := x.num.leadingCoeff / x.denom.leadingCoeff with hc
+  have hc0 : c ≠ 0 := by
+    rw [hc]
+    exact div_ne_zero (Polynomial.leadingCoeff_ne_zero.mpr hnum0)
+      (Polynomial.leadingCoeff_ne_zero.mpr hden0)
+  refine ⟨c, ?_⟩
+  have hsub : x - algebraMap K (RatFunc K) c
+      = algebraMap K[X] (RatFunc K) (x.num - Polynomial.C c * x.denom)
+        / algebraMap K[X] (RatFunc K) x.denom := by
+    rw [map_sub, map_mul, sub_div, x.num_div_denom, mul_div_assoc,
+      div_self ((map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hden0),
+      mul_one, IsScalarTower.algebraMap_apply K K[X] (RatFunc K), Polynomial.algebraMap_eq]
+  rcases eq_or_ne (x.num - Polynomial.C c * x.denom) 0 with hzero | hnz
+  · exact Or.inl (by rw [hsub, hzero, _root_.map_zero, zero_div])
+  refine Or.inr ?_
+  rw [hsub, RatFunc.intDegree_div ((map_ne_zero_iff _
+      (IsFractionRing.injective K[X] (RatFunc K))).mpr hnz)
+    ((map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hden0),
+    RatFunc.intDegree_polynomial, RatFunc.intDegree_polynomial, sub_neg]
+
+  have hCdeg : (Polynomial.C c * x.denom).degree = x.denom.degree := by
+    rw [Polynomial.degree_mul, Polynomial.degree_C hc0, zero_add]
+  have hdegeq : x.num.degree = (Polynomial.C c * x.denom).degree := by
+    rw [hCdeg, Polynomial.degree_eq_natDegree hnum0, Polynomial.degree_eq_natDegree hden0,
+      hndeg]
+  have hlc : x.num.leadingCoeff = (Polynomial.C c * x.denom).leadingCoeff := by
+    rw [Polynomial.leadingCoeff_mul, Polynomial.leadingCoeff_C, hc,
+      div_mul_cancel₀ _ (Polynomial.leadingCoeff_ne_zero.mpr hden0)]
+  have hlt := Polynomial.degree_sub_lt hdegeq hnum0 hlc
+  rw [hdegeq, hCdeg] at hlt
+  exact_mod_cast Polynomial.natDegree_lt_natDegree hnz hlt
+
+theorem deg_placeInfty : (placeInfty K).deg = 1 := by
+  have hbij : Function.Bijective (Algebra.ofId K (placeInfty K).ResidueField) := by
+    constructor
+    · exact fun a b h => (algebraMap K ((placeInfty K).ResidueField)).injective h
+    · intro y
+      obtain ⟨⟨x, hx⟩, rfl⟩ := IsLocalRing.residue_surjective y
+      obtain ⟨c, hc⟩ := exists_sub_algebraMap_intDegree_neg K
+        ((Valuation.mem_valuationSubring_iff _ _).mp hx)
+      refine ⟨c, ?_⟩
+      show IsLocalRing.residue _ (algebraMap K (placeInfty K).toValuationSubring c) = _
+      rw [← sub_eq_zero, ← map_sub, IsLocalRing.residue_eq_zero_iff,
+        Place.mem_maximalIdeal_iff_adicValuation_lt_one]
+      show (placeInfty K).adicValuation (algebraMap K (RatFunc K) c - x) < 1
+      rw [← (inftyValuation_isEquiv_adicValuation K).lt_one_iff_lt_one,
+        show algebraMap K (RatFunc K) c - x = -(x - algebraMap K (RatFunc K) c) from
+          (neg_sub _ _).symm, Valuation.map_neg]
+      rcases hc with hc | hc
+      · rw [hc, _root_.map_zero]
+        exact zero_lt_one
+      · rw [RatFunc.inftyValuation_apply, RatFunc.inftyValuationDef]
+        split
+        · exact zero_lt_one
+        · rw [show (1 : ℤᵐ⁰) = exp 0 from rfl, exp_lt_exp]
+          exact hc
+  rw [Place.deg, ← (AlgEquiv.ofBijective _ hbij).toLinearEquiv.finrank_eq,
+    Module.finrank_self]
+
+end DegInfty
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+variable [HasCanonicalLocalResidueKStar K F] [HasCanonicalDivisor (K := K) (F := F)]
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+
+omit [HasCanonicalLocalResidueKStar K F] [HasCanonicalDivisor (K := K) (F := F)] [Nontrivial Ω[F⁄K]] in
+
+theorem exists_smul_eq_of_ne_zero (v : Place K F) {ω ω₀ : Ω[F⁄K]}
+    (hω : ω ≠ 0) (hω₀ : ω₀ ≠ 0) : ∃ g : F, g ≠ 0 ∧ ω = g • ω₀ := by
+  set a := v.differentialCoeff ω with ha
+  set b := v.differentialCoeff ω₀ with hb
+  have h0 : b ≠ 0 := v.differentialCoeff_ne_zero hω₀
+  refine ⟨a * b⁻¹, mul_ne_zero (v.differentialCoeff_ne_zero hω) (inv_ne_zero h0), ?_⟩
+  have hω₀eq : ω₀ = b • v.dCoord := hb ▸ (v.differentialCoeff_smul_dCoord ω₀).symm
+  rw [hω₀eq, smul_smul, mul_assoc, inv_mul_cancel₀ h0, mul_one]
+  exact ha ▸ (v.differentialCoeff_smul_dCoord ω).symm
+
+section TraceDescent
+
+variable (K F)
+variable (E : Type*) [Field E] [Algebra K E]
+variable [HasCanonicalLocalResidueKStar K E] [HasCanonicalDivisor (K := K) (F := E)]
+variable [∀ v : Place K E, v.DCoordGenerates] [Nontrivial Ω[E⁄K]]
+variable [Algebra E F]
+
+end TraceDescent
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+section Engine
+
+variable {E : Type*} [Field E] [Algebra K E]
+variable [HasCanonicalLocalResidueKStar K E] [HasCanonicalDivisor (K := K) (F := E)]
+variable [∀ v : Place K E, v.DCoordGenerates] [Nontrivial Ω[E⁄K]]
+variable [Algebra E F] [HasPrincipalDivisors K E]
+
+end Engine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+section
+section
+
+p2m_open "CongruenceSubgroup P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.CongruenceSubgroup IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section Transport
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private noncomputable def _root_.AlgebraicCurve.Place.uniformizerSubring' : v.toValuationSubring :=
+  (IsDiscreteValuationRing.exists_irreducible v.toValuationSubring).choose
+
+p2m_export "AlgebraicCurve.Place" "uniformizerSubring'"
+private scoped instance instSMulCommClass_subring : SMulCommClass K v.toValuationSubring F :=
+  IsScalarTower.to_smulCommClass
+
+private theorem _root_.AlgebraicCurve.Place.kaehlerMap_subring_D_uniformizer :
+    KaehlerDifferential.map K K v.toValuationSubring F
+      (KaehlerDifferential.D K v.toValuationSubring v.uniformizerSubring') = v.dCoord := by
+  rw [KaehlerDifferential.map_D K K v.toValuationSubring F]
+  rfl
+
+p2m_export "AlgebraicCurve.Place" "kaehlerMap_subring_D_uniformizer"
+end Transport
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def ValSubringKaehlerSpanTop : Prop :=
+  ∀ v : Place K F,
+    Submodule.span v.toValuationSubring
+      {KaehlerDifferential.D K v.toValuationSubring (Place.uniformizerSubring' v)} = ⊤
+
+variable {K F}
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+variable [HasCanonicalLocalResidueKStar K F] [HasCanonicalDivisor (K := K) (F := F)]
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+variable [HasPrincipalDivisors K F]
+
+variable (K F) in
+
+def principalAdele : F →ₗ[K] adeleSpace K F where
+  toFun f := ⟨diagonalHom K F f, diagonal_mem_adeleSpace f⟩
+  map_add' f g := Subtype.ext ((diagonalHom K F).map_add f g)
+  map_smul' c f := Subtype.ext ((diagonalHom K F).map_smul c f)
+
+section P1NamedRows
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+variable (K)
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+def P1PolynomialGenerators : Set (RatFunc K) := Set.range fun n : ℕ => RatFunc.X ^ n
+
+def P1PrincipalPartGenerators : Set (RatFunc K) :=
+  {f | ∃ (p c : K[X]) (m : ℕ), p.Monic ∧ Irreducible p ∧ c.degree < p.degree ∧ 1 ≤ m ∧
+    f = algebraMap K[X] (RatFunc K) c / (algebraMap K[X] (RatFunc K) p) ^ m}
+
+def P1PartialFractionGenerators : Set (RatFunc K) :=
+  P1PolynomialGenerators K ∪ P1PrincipalPartGenerators K
+
+variable {K}
+
+end P1NamedRows
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section P1Gates
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+theorem gate_algebraMap_polynomial_mem_span_P1PolynomialGenerators (q : K[X]) :
+    algebraMap K[X] (RatFunc K) q ∈ Submodule.span K (P1PolynomialGenerators K) := by
+
+  rw [← Polynomial.sum_C_mul_X_pow_eq q, Polynomial.sum, map_sum]
+  refine Submodule.sum_mem _ fun i _ => ?_
+  rw [map_mul, map_pow, RatFunc.algebraMap_C, RatFunc.algebraMap_X,
+    ← RatFunc.smul_eq_C_mul]
+  exact Submodule.smul_mem _ _ (Submodule.subset_span ⟨i, rfl⟩)
+
+end P1Gates
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+set_option maxHeartbeats 1600000
+set_option synthInstance.maxHeartbeats 1600000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace Mp72a102T1
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.RationalFunctionField AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+open ModularCurve.Lg37 ModularCurve.Ldgr37Ch
+open Mp72a101T2
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+attribute [local instance 2000] RatFunc.instAlgebraOfPolynomial
+
+section Engine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+noncomputable abbrev mp72a102_t1_maximalIdealHat (v : Place K F) :
+    Ideal (lg37_completion v) :=
+  (IsLocalRing.maximalIdeal v.toValuationSubring).map
+    (algebraMap v.toValuationSubring (lg37_completion v))
+
+theorem mp72a102_t1_isScalarTower (v : Place K F) :
+    IsScalarTower K v.toValuationSubring (lg37_completion v) :=
+  IsScalarTower.of_algebraMap_eq fun _ => rfl
+
+theorem mp72a102_t1_isAdicComplete_maximalIdealHat (v : Place K F) :
+    IsAdicComplete (mp72a102_t1_maximalIdealHat v) (lg37_completion v) :=
+  (IsAdicComplete.map_algebraMap_iff (IsLocalRing.maximalIdeal v.toValuationSubring)
+      (lg37_completion v)).mpr
+    (AdicCompletion.isAdicComplete
+      (IsPrincipalIdealRing.principal
+        (IsLocalRing.maximalIdeal v.toValuationSubring)).fg)
+
+theorem mp72a102_t1_henselianRing_completion (v : Place K F) :
+    HenselianRing (lg37_completion v) (mp72a102_t1_maximalIdealHat v) :=
+  letI := mp72a102_t1_isAdicComplete_maximalIdealHat v
+  IsAdicComplete.henselianRing (lg37_completion v) (mp72a102_t1_maximalIdealHat v)
+
+theorem mp72a102_t1_maximalIdealHat_le_ker_residueHat (v : Place K F) :
+    mp72a102_t1_maximalIdealHat v ≤ RingHom.ker (lg37_residueHat v) :=
+  Ideal.map_le_iff_le_comap.mpr fun s hs => by
+    rw [Ideal.mem_comap, RingHom.mem_ker, lg37_residueHat_algebraMap]
+    exact (IsLocalRing.residue_eq_zero_iff s).mpr hs
+
+theorem mp72a102_t1_exists_completion_root_of_residue_root
+    (v : Place K F) {p : K[X]} (hpmon : p.Monic) (hpsep : p.Separable)
+    {rbar : v.ResidueField} (hrbar : Polynomial.aeval rbar p = 0) :
+    ∃ α : lg37_completion v,
+      Polynomial.aeval α p = 0 ∧ lg37_residueHat v α = rbar := by
+  classical
+  haveI _htower : IsScalarTower K v.toValuationSubring (lg37_completion v) :=
+    mp72a102_t1_isScalarTower v
+
+  obtain ⟨a, ha⟩ := IsLocalRing.residue_surjective (R := v.toValuationSubring) rbar
+
+  have hapI : Polynomial.aeval a p ∈ IsLocalRing.maximalIdeal v.toValuationSubring := by
+    rw [← IsLocalRing.residue_eq_zero_iff]
+    have h1 : IsLocalRing.residue v.toValuationSubring (Polynomial.aeval a p)
+        = Polynomial.aeval rbar p := by
+      rw [← ha, ← IsLocalRing.ResidueField.algebraMap_eq,
+        Polynomial.aeval_algebraMap_apply]
+    rw [h1, hrbar]
+
+  have hapIhat : Polynomial.aeval
+      (algebraMap v.toValuationSubring (lg37_completion v) a) p
+        ∈ mp72a102_t1_maximalIdealHat v := by
+    rw [Polynomial.aeval_algebraMap_apply]
+    exact Ideal.mem_map_of_mem _ hapI
+
+  have hfeval : ∀ x : lg37_completion v,
+      (p.map (algebraMap K (lg37_completion v))).eval x = Polynomial.aeval x p :=
+    fun x => by rw [Polynomial.eval_map, ← Polynomial.aeval_def]
+  have hfderiv :
+      (p.map (algebraMap K (lg37_completion v))).derivative.eval
+          (algebraMap v.toValuationSubring (lg37_completion v) a)
+        = Polynomial.aeval
+            (algebraMap v.toValuationSubring (lg37_completion v) a)
+            (Polynomial.derivative p) := by
+    rw [Polynomial.derivative_map, Polynomial.eval_map, ← Polynomial.aeval_def]
+
+  obtain ⟨u, w, huw⟩ := hpsep
+  have hunit : IsUnit (Ideal.Quotient.mk (mp72a102_t1_maximalIdealHat v)
+      ((p.map (algebraMap K (lg37_completion v))).derivative.eval
+        (algebraMap v.toValuationSubring (lg37_completion v) a))) := by
+    rw [hfderiv]
+    set a₀ := algebraMap v.toValuationSubring (lg37_completion v) a
+    have h1 : Polynomial.aeval a₀ u * Polynomial.aeval a₀ p
+        + Polynomial.aeval a₀ w * Polynomial.aeval a₀ (Polynomial.derivative p)
+        = 1 := by
+      have h0 := congrArg (Polynomial.aeval (R := K) a₀) huw
+      simpa only [map_add, map_mul, map_one] using h0
+    have h2 := congrArg (Ideal.Quotient.mk (mp72a102_t1_maximalIdealHat v)) h1
+    rw [map_add, map_mul, map_mul, map_one,
+      Ideal.Quotient.eq_zero_iff_mem.mpr hapIhat, mul_zero, zero_add] at h2
+    exact IsUnit.of_mul_eq_one _ ((mul_comm _ _).trans h2)
+
+  obtain ⟨α, hαroot, hαnear⟩ :=
+    (mp72a102_t1_henselianRing_completion v).is_henselian
+      (p.map (algebraMap K (lg37_completion v))) (hpmon.map _)
+      (algebraMap v.toValuationSubring (lg37_completion v) a)
+      (by rw [hfeval]; exact hapIhat) hunit
+  refine ⟨α, ?_, ?_⟩
+  · rw [← hfeval]
+    exact hαroot
+  ·
+    have h0 : lg37_residueHat v
+        (α - algebraMap v.toValuationSubring (lg37_completion v) a) = 0 :=
+      RingHom.mem_ker.mp (mp72a102_t1_maximalIdealHat_le_ker_residueHat v hαnear)
+    have heq : lg37_residueHat v α
+        = lg37_residueHat v
+            (algebraMap v.toValuationSubring (lg37_completion v) a) := by
+      rwa [map_sub, sub_eq_zero] at h0
+    rw [heq, lg37_residueHat_algebraMap, ha]
+
+end Engine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section FinitePlace
+
+variable (K : Type*) [Field K]
+
+end FinitePlace
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section RatWs
+
+end RatWs
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Mp72a102T1
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+set_option maxHeartbeats 1600000
+set_option maxRecDepth 8000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace Mp72a102T2
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.RationalFunctionField AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+open ModularCurve.Lg37 ModularCurve.Ldgr39Hf ModularCurve.Ldgr35Cs
+open Mp72a101T2
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+section ResidueCalculus
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem mp72a102_t2_residueHat_algebraMap_base (v : Place K F) (c : K) :
+    lg37_residueHat v (algebraMap K (lg37_completion v) c)
+      = algebraMap K v.ResidueField c := by
+  have h : algebraMap K (lg37_completion v) c
+      = algebraMap v.toValuationSubring (lg37_completion v)
+          (algebraMap K v.toValuationSubring c) := rfl
+  rw [h, lg37_residueHat_algebraMap v]
+  rfl
+
+def mp72a102_t2_residueHatAlgHom (v : Place K F) :
+    lg37_completion v →ₐ[K] v.ResidueField where
+  toRingHom := lg37_residueHat v
+  commutes' := mp72a102_t2_residueHat_algebraMap_base v
+
+end ResidueCalculus
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Engine
+
+variable {K : Type*} [Field K] {p : K[X]}
+
+end Engine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Corners
+
+variable {K E : Type*} [Field K] [Field E] [Algebra K E] [HasCanonicalLocalResidueKStar K E]
+
+end Corners
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section RatProduction
+
+attribute [local instance 2000] RatFunc.instAlgebraOfPolynomial
+
+end RatProduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Mp72a102T2
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+  [Algebra.IsIntegral F F']
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (w : Place K F')
+
+scoped instance : IsLocalHom (restrictInclusion F w) where
+  map_nonunit a ha := by
+
+    have hord : w.ord (algebraMap F F' (a : F)) = 0 := by
+      have h := w.ord_coe_unit ha.unit
+      rwa [IsUnit.unit_spec, coe_restrictInclusion] at h
+
+    have ha0 : (a : F) ≠ 0 := by
+      rintro h0
+      obtain ⟨b, hb⟩ := isUnit_iff_exists_inv.mp ha
+      have hb' : algebraMap F F' (a : F) * (b : F') = 1 := congrArg Subtype.val hb
+      rw [h0, _root_.map_zero, zero_mul] at hb'
+      exact zero_ne_one hb'
+    exact (isUnit_mk_comap_iff ha0 a.2).mpr hord
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Divisor
+p2m_export "AlgebraicCurve.Divisor" "degree degree_single principal smul_def smul_apply degree_smul"
+p2m_open "AlgebraicCurve.Divisor"
+
+end Divisor
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+theorem mk_mem_maximalIdeal_iff {f : F} (hf : f ∈ v.toValuationSubring) :
+    (⟨f, hf⟩ : v.toValuationSubring) ∈ IsLocalRing.maximalIdeal v.toValuationSubring
+      ↔ f = 0 ∨ 0 < v.ord f := by
+  rw [IsLocalRing.mem_maximalIdeal, mem_nonunits_iff]
+  constructor
+  · intro hu
+    rcases eq_or_ne f 0 with rfl | hf0
+    · exact Or.inl rfl
+    · refine Or.inr ?_
+      rcases lt_or_eq_of_le (v.ord_nonneg_of_mem hf) with h | h
+      · exact h
+      ·
+        exfalso
+        apply hu
+        rw [← v.adicValuation_coe_eq_one_iff ⟨f, hf⟩]
+        show v.adicValuation f = 1
+        rw [v.adicValuation_eq_exp_neg_ord hf0, ← h, _root_.neg_zero, WithZero.exp_zero]
+  · intro h hu
+    have hne : f ≠ 0 := fun h0 => hu.ne_zero (Subtype.ext h0)
+    have h0 : v.ord f = 0 := by
+      obtain ⟨u, hu'⟩ := hu
+      have hcoe : f = ((u : v.toValuationSubring) : F) := by rw [hu']
+      rw [hcoe]; exact v.ord_coe_unit u
+    rcases h with rfl | hpos
+    · exact hne rfl
+    · omega
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+private def _root_.AlgebraicCurve.Place.uniformizerSubring : v.toValuationSubring :=
+  (IsDiscreteValuationRing.exists_irreducible v.toValuationSubring).choose
+
+p2m_export "AlgebraicCurve.Place" "uniformizerSubring"
+@[scoped simp]
+private theorem _root_.AlgebraicCurve.Place.coe_uniformizerSubring : (v.uniformizerSubring : F) = v.uniformizer := rfl
+
+p2m_export "AlgebraicCurve.Place" "coe_uniformizerSubring"
+private theorem _root_.AlgebraicCurve.Place.irreducible_uniformizerSubring : Irreducible v.uniformizerSubring :=
+  (IsDiscreteValuationRing.exists_irreducible v.toValuationSubring).choose_spec
+
+p2m_export "AlgebraicCurve.Place" "irreducible_uniformizerSubring"
+private theorem _root_.AlgebraicCurve.Place.uniformizerSubring_mem_maximalIdeal :
+    v.uniformizerSubring ∈ IsLocalRing.maximalIdeal v.toValuationSubring :=
+  (IsLocalRing.mem_maximalIdeal _).mpr v.irreducible_uniformizerSubring.not_isUnit
+
+p2m_export "AlgebraicCurve.Place" "uniformizerSubring_mem_maximalIdeal"
+private theorem _root_.AlgebraicCurve.Place.uniformizer_mem : v.uniformizer ∈ v.toValuationSubring :=
+  v.uniformizerSubring.2
+
+p2m_export "AlgebraicCurve.Place" "uniformizer_mem"
+private def _root_.AlgebraicCurve.Place.simplePoleSubmodule : Submodule K F where
+  carrier := {f | v.uniformizer * f ∈ v.toValuationSubring}
+  add_mem' {f g} hf hg := by
+    simpa only [Set.mem_setOf_eq, mul_add] using add_mem hf hg
+  zero_mem' := by simpa only [Set.mem_setOf_eq, mul_zero] using zero_mem _
+  smul_mem' c f hf := by
+    show v.uniformizer * (c • f) ∈ v.toValuationSubring
+    rw [Algebra.smul_def, mul_left_comm]
+    exact mul_mem (v.algebraMap_mem' c) hf
+
+p2m_export "AlgebraicCurve.Place" "simplePoleSubmodule"
+@[scoped simp]
+theorem mem_simplePoleSubmodule {f : F} :
+    f ∈ v.simplePoleSubmodule ↔ v.uniformizer * f ∈ v.toValuationSubring := Iff.rfl
+
+private theorem _root_.AlgebraicCurve.Place.mem_simplePoleSubmodule_of_mem {f : F} (hf : f ∈ v.toValuationSubring) :
+    f ∈ v.simplePoleSubmodule :=
+  mul_mem v.uniformizer_mem hf
+
+p2m_export "AlgebraicCurve.Place" "mem_simplePoleSubmodule_of_mem"
+private def _root_.AlgebraicCurve.Place.simplePoleMulUniformizer : v.simplePoleSubmodule →ₗ[K] v.toValuationSubring where
+  toFun f := ⟨v.uniformizer * f.1, f.2⟩
+  map_add' f g := Subtype.ext (mul_add _ _ _)
+  map_smul' c f := Subtype.ext <| by
+    show v.uniformizer * ((c • f : v.simplePoleSubmodule) : F)
+        = ((c • ⟨v.uniformizer * f.1, f.2⟩ : v.toValuationSubring) : F)
+    simp only [Algebra.smul_def, MulMemClass.coe_mul, v.coe_algebraMap, Submodule.coe_smul,
+      mul_left_comm]
+
+p2m_export "AlgebraicCurve.Place" "simplePoleMulUniformizer"
+private def _root_.AlgebraicCurve.Place.simplePoleResidueAux : v.simplePoleSubmodule →ₗ[K] v.ResidueField :=
+  (Ideal.Quotient.mkₐ K (IsLocalRing.maximalIdeal v.toValuationSubring)).toLinearMap
+    ∘ₗ v.simplePoleMulUniformizer
+
+p2m_export "AlgebraicCurve.Place" "simplePoleResidueAux"
+theorem simplePoleResidueAux_apply (f : v.simplePoleSubmodule) :
+    v.simplePoleResidueAux f = IsLocalRing.residue _ ⟨v.uniformizer * f.1, f.2⟩ := rfl
+
+private theorem _root_.AlgebraicCurve.Place.simplePoleResidueAux_eq_zero_of_mem {f : F} (hf : f ∈ v.toValuationSubring) :
+    v.simplePoleResidueAux ⟨f, v.mem_simplePoleSubmodule_of_mem hf⟩ = 0 := by
+  rw [simplePoleResidueAux_apply, IsLocalRing.residue_eq_zero_iff]
+
+  have hmul : (⟨v.uniformizer * f, mul_mem v.uniformizer_mem hf⟩ : v.toValuationSubring)
+      = v.uniformizerSubring * ⟨f, hf⟩ := Subtype.ext rfl
+  rw [hmul]
+  exact Ideal.mul_mem_right _ _ v.uniformizerSubring_mem_maximalIdeal
+
+p2m_export "AlgebraicCurve.Place" "simplePoleResidueAux_eq_zero_of_mem"
+private def _root_.AlgebraicCurve.Place.localResidueExtend : F →ₗ[K] v.ResidueField :=
+  v.simplePoleResidueAux.exists_extend.choose
+
+p2m_export "AlgebraicCurve.Place" "localResidueExtend"
+private theorem _root_.AlgebraicCurve.Place.localResidueExtend_apply_of_mem {f : F} (hf : f ∈ v.simplePoleSubmodule) :
+    v.localResidueExtend f = v.simplePoleResidueAux ⟨f, hf⟩ :=
+  congrArg (fun φ => φ (⟨f, hf⟩ : v.simplePoleSubmodule))
+    v.simplePoleResidueAux.exists_extend.choose_spec
+
+p2m_export "AlgebraicCurve.Place" "localResidueExtend_apply_of_mem"
+private def _root_.AlgebraicCurve.Place.localResidueDataOfExtend : v.LocalResidueData where
+  res := v.localResidueExtend
+  res_of_mem f hf := by
+    rw [v.localResidueExtend_apply_of_mem (v.mem_simplePoleSubmodule_of_mem hf),
+      v.simplePoleResidueAux_eq_zero_of_mem hf]
+  res_simplePole f hf := by
+    rw [v.localResidueExtend_apply_of_mem hf, simplePoleResidueAux_apply]
+
+p2m_export "AlgebraicCurve.Place" "localResidueDataOfExtend"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+scoped instance instHasLocalResidue : HasLocalResidue K F where
+  exists_data v := ⟨v.localResidueDataOfExtend⟩
+
+variable [HasCanonicalLocalResidueKStar K F]
+
+omit [HasCanonicalLocalResidueKStar K F] in
+
+theorem gate_uniformizer_inv_mem_simplePoleSubmodule (v : Place K F) :
+    v.uniformizer⁻¹ ∈ v.simplePoleSubmodule ∧ v.uniformizer⁻¹ ∉ v.toValuationSubring := by
+  refine ⟨?_, ?_⟩
+  · rw [Place.mem_simplePoleSubmodule, mul_inv_cancel₀ v.uniformizer_ne_zero]
+    exact one_mem _
+  · intro hmem
+    have h0 := v.ord_nonneg_of_mem hmem
+    rw [v.ord_inv, v.ord_uniformizer] at h0
+    omega
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option maxHeartbeats 1600000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace ModularCurve
+
+namespace MilneAvAg9bRd14CubeRowCartierSliceStart
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.RationalFunctionField AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+private theorem _root_.ModularCurve.MilneAvAg9bRd14CubeRowCartierSliceStart.ag9b14c_res_uniformizer_zpow_eq_zero_of_ne_neg_one
+    {K F : Type*} [Field K] [Field F] [Algebra K F]
+    (v : Place K F) (R : v.CanonicalLocalResidueDataK)
+    {j : ℤ} (hj : j ≠ -1) :
+    R.res (v.uniformizer ^ j) = 0 := by
+  by_cases h0 : 0 ≤ j
+  · refine R.res_of_mem _ (v.mem_of_ord_nonneg (zpow_ne_zero j v.uniformizer_ne_zero) ?_)
+    rw [v.ord_zpow, v.ord_uniformizer, mul_one]
+    exact h0
+  · have hn1 : 1 ≤ (-j - 1).toNat := by omega
+    have hjn : j = -(((-j - 1).toNat + 1 : ℕ) : ℤ) := by omega
+    rw [hjn, _root_.zpow_neg, zpow_natCast]
+    exact R.res_higherPoleMonomial _ hn1
+
+p2m_export "ModularCurve.MilneAvAg9bRd14CubeRowCartierSliceStart" "ag9b14c_res_uniformizer_zpow_eq_zero_of_ne_neg_one"
+end MilneAvAg9bRd14CubeRowCartierSliceStart
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section DegPos
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+theorem finiteResidue_of_deg_pos (h : 0 < v.deg) : v.FiniteResidue :=
+  ⟨Module.finite_of_finrank_pos h⟩
+
+end DegPos
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K]
+
+scoped instance instFiniteResidueOfHeightOneSpectrum (w : HeightOneSpectrum K[X]) :
+    (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).FiniteResidue := by
+  obtain ⟨p, hp, hw⟩ := exists_irreducible_span K w
+  refine Place.finiteResidue_of_deg_pos _ ?_
+  rw [deg_ofHeightOneSpectrum K hw]
+  exact hp.natDegree_pos
+
+scoped instance instFiniteResiduePlaceInfty [DecidableEq (RatFunc K)] :
+    (placeInfty K).FiniteResidue :=
+  Place.finiteResidue_of_deg_pos _ (by rw [deg_placeInfty K]; exact one_pos)
+
+variable {K} in
+
+scoped instance instFiniteResidue (v : Place K (RatFunc K)) : v.FiniteResidue := by
+  classical
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · exact instFiniteResidueOfHeightOneSpectrum K w
+  · exact instFiniteResiduePlaceInfty K
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section Restrict
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F'] [Algebra F F'] [Algebra K F] [IsScalarTower K F F']
+  [Algebra.IsIntegral F F'] (w : Place K F')
+
+end Restrict
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+variable [HasCanonicalLocalResidueKStar K F] [HasCanonicalDivisor (K := K) (F := F)]
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+variable [HasPrincipalDivisors K F]
+
+section RatFuncIntegrality
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+
+theorem algebraMap_polynomial_mem_of_ne_placeInfty'
+    {v : Place K (RatFunc K)} (hv : v ≠ placeInfty K) (q : K[X]) :
+    algebraMap K[X] (RatFunc K) q ∈ v.toValuationSubring := by
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · exact algebraMap_mem_ofHeightOneSpectrum K w q
+  · exact absurd rfl hv
+
+theorem pow_X_mem_of_ne_placeInfty
+    {v : Place K (RatFunc K)} (hv : v ≠ placeInfty K) (n : ℕ) :
+    (RatFunc.X : RatFunc K) ^ n ∈ v.toValuationSubring := by
+  have h : algebraMap K[X] (RatFunc K) (Polynomial.X ^ n) ∈ v.toValuationSubring :=
+    algebraMap_polynomial_mem_of_ne_placeInfty' K hv (Polynomial.X ^ n)
+  rwa [map_pow, RatFunc.algebraMap_X] at h
+
+theorem pow_X_mul_mem_of_ne_placeInfty
+    {v : Place K (RatFunc K)} (hv : v ≠ placeInfty K) (n : ℕ)
+    {g : RatFunc K} (hg : g ∈ v.toValuationSubring) :
+    (RatFunc.X : RatFunc K) ^ n * g ∈ v.toValuationSubring :=
+  mul_mem (pow_X_mem_of_ne_placeInfty K hv n) hg
+
+end RatFuncIntegrality
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section P1PolynomialSubrows
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+def P1DifferentialCoeffRegularFinite {ω₀ : Ω[(RatFunc K)⁄K]} (_hω₀ : ω₀ ≠ 0) : Prop :=
+  ∀ v : Place K (RatFunc K), v ≠ placeInfty K →
+    v.differentialCoeff ω₀ ∈ v.toValuationSubring
+
+variable {K}
+
+end P1PolynomialSubrows
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section P1PrincipalPartSubrows
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+abbrev p1PrincipalPartAtom (p c : K[X]) (m : ℕ) : RatFunc K :=
+  algebraMap K[X] (RatFunc K) c / (algebraMap K[X] (RatFunc K) p) ^ m
+
+variable {K}
+
+omit [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+  [HasPrincipalDivisors K (RatFunc K)] in
+
+theorem finitePlace_ne_placeInfty {p : K[X]} (hp : Irreducible p) :
+    finitePlace K hp ≠ placeInfty K :=
+  fun h => placeInfty_ne_ofHeightOneSpectrum K _ h.symm
+
+end P1PrincipalPartSubrows
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section P1Composed
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable [DecidableEq (RatFunc K)]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+end P1Composed
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section SubsingletonCriterion
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+end SubsingletonCriterion
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+theorem ord_algebraMap_base (a : K) : v.ord (algebraMap K F a) = 0 := by
+  rcases eq_or_ne a 0 with rfl | ha
+  · simp
+  have h1 : 0 ≤ v.ord (algebraMap K F a) := v.ord_nonneg_of_mem (v.algebraMap_mem' a)
+  have h2 : 0 ≤ v.ord (algebraMap K F a)⁻¹ := by
+    rw [← map_inv₀]
+    exact v.ord_nonneg_of_mem (v.algebraMap_mem' a⁻¹)
+  rw [v.ord_inv] at h2
+  omega
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K]
+
+theorem exists_ord_finitePlace_eq_nsmul {p : K[X]} (hp : Irreducible p) {q : K[X]}
+    (hq : q ≠ 0) :
+    ∃ m : ℕ, (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) q)
+      = m * (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) p) := by
+  obtain ⟨m, b, hb, rfl⟩ := WfDvdMonoid.max_power_factor hq hp
+  have hinj := IsFractionRing.injective K[X] (RatFunc K)
+  have hp0 : p ≠ 0 := hp.ne_zero
+  have hb0 : b ≠ 0 := by
+    rintro rfl
+    exact hq (mul_zero _)
+  have hordb : (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) b) = 0 := by
+    by_contra hcon
+    exact hb ((ord_finitePlace_ne_zero_iff K hp hb0).mp hcon)
+  refine ⟨m, ?_⟩
+  rw [map_mul, map_pow,
+    (finitePlace K hp).ord_mul (pow_ne_zero _ ((map_ne_zero_iff _ hinj).mpr hp0))
+      ((map_ne_zero_iff _ hinj).mpr hb0),
+    hordb, add_zero, ← zpow_natCast, (finitePlace K hp).ord_zpow]
+
+theorem ord_finitePlace_dvd {p : K[X]} (hp : Irreducible p) {f : RatFunc K} (hf : f ≠ 0) :
+    (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) p) ∣ (finitePlace K hp).ord f := by
+  have hinj := IsFractionRing.injective K[X] (RatFunc K)
+  obtain ⟨a, ha⟩ := exists_ord_finitePlace_eq_nsmul K hp (RatFunc.num_ne_zero hf)
+  obtain ⟨b, hb⟩ := exists_ord_finitePlace_eq_nsmul K hp f.denom_ne_zero
+  have hnum' : algebraMap K[X] (RatFunc K) f.num ≠ 0 :=
+    (map_ne_zero_iff _ hinj).mpr (RatFunc.num_ne_zero hf)
+  have hden' : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    (map_ne_zero_iff _ hinj).mpr f.denom_ne_zero
+  rw [show f = algebraMap K[X] (RatFunc K) f.num * (algebraMap K[X] (RatFunc K) f.denom)⁻¹ by
+      rw [← div_eq_mul_inv, f.num_div_denom],
+    (finitePlace K hp).ord_mul hnum' (inv_ne_zero hden'), (finitePlace K hp).ord_inv, ha, hb]
+  exact ⟨(a : ℤ) - b, by ring⟩
+
+theorem ord_finitePlace_self {p : K[X]} (hp : Irreducible p) :
+    (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) p) = 1 := by
+
+  have hnonneg : 0 ≤ (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) p) :=
+    (finitePlace K hp).ord_nonneg_of_mem (algebraMap_mem_ofHeightOneSpectrum K _ p)
+
+  obtain ⟨π, hπ⟩ :=
+    IsDiscreteValuationRing.exists_irreducible (finitePlace K hp).toValuationSubring
+  have hπ0 : (π : RatFunc K) ≠ 0 := by
+    simpa [ne_eq, ZeroMemClass.coe_eq_zero] using hπ.ne_zero
+  have hdvd : (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) p) ∣ 1 :=
+    (finitePlace K hp).ord_coe_irreducible hπ ▸ ord_finitePlace_dvd K hp hπ0
+  rcases Int.isUnit_iff.mp (isUnit_of_dvd_one hdvd) with h | h
+  · exact h
+  · omega
+
+section PlaceInfty
+
+variable [DecidableEq (RatFunc K)]
+
+theorem ord_placeInfty_eq_zero_of_intDegree_eq_zero {f : RatFunc K} (hf : f ≠ 0)
+    (h : f.intDegree = 0) : (placeInfty K).ord f = 0 := by
+  rw [(placeInfty K).ord_eq_zero_iff_adicValuation_eq_one hf,
+    ← (inftyValuation_isEquiv_adicValuation K).eq_one_iff_eq_one,
+    RatFunc.inftyValuation_apply, RatFunc.inftyValuation_of_nonzero K hf, h]
+  rfl
+
+theorem ord_placeInfty_eq_intDegree_mul {f : RatFunc K} (hf : f ≠ 0) :
+    (placeInfty K).ord f = f.intDegree * (placeInfty K).ord (RatFunc.X) := by
+  have hinj := IsFractionRing.injective K[X] (RatFunc K)
+
+  have hpoly : ∀ q : K[X], q ≠ 0 →
+      (placeInfty K).ord (algebraMap K[X] (RatFunc K) q)
+        = (q.natDegree : ℤ) * (placeInfty K).ord (RatFunc.X) := by
+    intro q hq
+    have hq' : algebraMap K[X] (RatFunc K) q ≠ 0 := (map_ne_zero_iff _ hinj).mpr hq
+    have hX : (RatFunc.X : RatFunc K) ≠ 0 := RatFunc.X_ne_zero
+    have hXpow : (RatFunc.X : RatFunc K) ^ q.natDegree ≠ 0 := pow_ne_zero _ hX
+
+    have hXpoly : (RatFunc.X : RatFunc K) ^ q.natDegree
+        = algebraMap K[X] (RatFunc K) (Polynomial.X ^ q.natDegree) := by
+      rw [map_pow, RatFunc.algebraMap_X]
+    have hdeg : (algebraMap K[X] (RatFunc K) q / RatFunc.X ^ q.natDegree).intDegree = 0 := by
+      rw [RatFunc.intDegree_div hq' hXpow, RatFunc.intDegree_polynomial, hXpoly,
+        RatFunc.intDegree_polynomial, natDegree_X_pow, sub_self]
+    have hne : algebraMap K[X] (RatFunc K) q / RatFunc.X ^ q.natDegree ≠ 0 :=
+      div_ne_zero hq' hXpow
+    have h0 := ord_placeInfty_eq_zero_of_intDegree_eq_zero K hne hdeg
+    have hsplit : algebraMap K[X] (RatFunc K) q
+        = (algebraMap K[X] (RatFunc K) q / RatFunc.X ^ q.natDegree)
+          * RatFunc.X ^ q.natDegree :=
+      (div_mul_cancel₀ _ hXpow).symm
+    rw [hsplit, (placeInfty K).ord_mul hne hXpow, h0, zero_add, ← zpow_natCast,
+      (placeInfty K).ord_zpow]
+  have hnum' : algebraMap K[X] (RatFunc K) f.num ≠ 0 :=
+    (map_ne_zero_iff _ hinj).mpr (RatFunc.num_ne_zero hf)
+  have hden' : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    (map_ne_zero_iff _ hinj).mpr f.denom_ne_zero
+  rw [show f = algebraMap K[X] (RatFunc K) f.num * (algebraMap K[X] (RatFunc K) f.denom)⁻¹ by
+      rw [← div_eq_mul_inv, f.num_div_denom],
+    (placeInfty K).ord_mul hnum' (inv_ne_zero hden'), (placeInfty K).ord_inv,
+    hpoly _ (RatFunc.num_ne_zero hf), hpoly _ f.denom_ne_zero, ← div_eq_mul_inv,
+    RatFunc.intDegree_div hnum' hden', RatFunc.intDegree_polynomial,
+    RatFunc.intDegree_polynomial]
+  ring
+
+theorem ord_placeInfty_X : (placeInfty K).ord (RatFunc.X : RatFunc K) = -1 := by
+  have hX : (RatFunc.X : RatFunc K) ≠ 0 := RatFunc.X_ne_zero
+
+  have hneg : (placeInfty K).ord (RatFunc.X : RatFunc K) < 0 := by
+    by_contra h
+    have hmem : (RatFunc.X : RatFunc K) ∈ (placeInfty K).toValuationSubring :=
+      (placeInfty K).mem_of_ord_nonneg hX (not_lt.mp h)
+    rw [placeInfty_toValuationSubring, Valuation.mem_valuationSubring_iff,
+      RatFunc.inftyValuation_apply, RatFunc.inftyValuation_of_nonzero K hX,
+      RatFunc.intDegree_X, show (1 : ℤᵐ⁰) = exp 0 from rfl, exp_le_exp] at hmem
+    omega
+
+  obtain ⟨π, hπ⟩ :=
+    IsDiscreteValuationRing.exists_irreducible (placeInfty K).toValuationSubring
+  have hπ0 : (π : RatFunc K) ≠ 0 := by
+    simpa [ne_eq, ZeroMemClass.coe_eq_zero] using hπ.ne_zero
+  have hdvd : (placeInfty K).ord (RatFunc.X : RatFunc K) ∣ 1 := by
+    rw [← (placeInfty K).ord_coe_irreducible hπ, ord_placeInfty_eq_intDegree_mul K hπ0]
+    exact Dvd.intro_left _ rfl
+  rcases Int.isUnit_iff.mp (isUnit_of_dvd_one hdvd) with h | h <;> omega
+
+theorem ord_placeInfty_algebraMap' {q : K[X]} (hq : q ≠ 0) :
+    (placeInfty K).ord (algebraMap K[X] (RatFunc K) q) = -(q.natDegree : ℤ) := by
+  have hq' : algebraMap K[X] (RatFunc K) q ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hq
+  rw [ord_placeInfty_eq_intDegree_mul K hq', ord_placeInfty_X, RatFunc.intDegree_polynomial]
+  ring
+
+end PlaceInfty
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Principal
+
+variable {K}
+
+end Principal
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section Congr
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F'] [Algebra K F] [Algebra K F']
+variable (e : F ≃+* F')
+
+variable (he : ∀ a : K, e (algebraMap K F a) = algebraMap K F' a)
+include he
+
+end Congr
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Pic0
+p2m_export "AlgebraicCurve.Pic0" "mk mk_surjective"
+p2m_open "AlgebraicCurve.Pic0"
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F'] [Algebra K F] [Algebra K F']
+variable (e : F ≃+* F') (he : ∀ a : K, e (algebraMap K F a) = algebraMap K F' a)
+include e he
+
+end Pic0
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section IntegrallyClosed
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (w : Place K F)
+
+end IntegrallyClosed
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section SupportTransfer
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F'] [Algebra K F'] [Algebra F F']
+  [FiniteDimensional F F']
+
+variable (w : Place K F')
+
+omit [FiniteDimensional F F'] in
+
+private theorem _root_.AlgebraicCurve.Place.aeval_mem {Q : Polynomial F} {x : F'}
+    (hcoeff : ∀ i, algebraMap F F' (Q.coeff i) ∈ w.toValuationSubring)
+    (hx : x ∈ w.toValuationSubring) :
+    Polynomial.aeval x Q ∈ w.toValuationSubring := by
+  rw [Polynomial.aeval_def, Polynomial.eval₂_eq_sum_range]
+  exact sum_mem fun i _ => mul_mem (hcoeff i) (pow_mem hx i)
+
+p2m_export "AlgebraicCurve.Place" "aeval_mem"
+private theorem _root_.AlgebraicCurve.Place.exists_coeff_ord_ne_zero {f : F'} (hf : f ≠ 0) (hford : w.ord f ≠ 0) :
+    ∃ i < (minpoly F f).natDegree, (minpoly F f).coeff i ≠ 0 ∧
+      w.ord (algebraMap F F' ((minpoly F f).coeff i)) ≠ 0 := by
+  by_contra hcon
+  push Not at hcon
+  set P := minpoly F f with hPdef
+  have hint : _root_.IsIntegral F f := Algebra.IsIntegral.isIntegral f
+  have hmonic : P.Monic := minpoly.monic hint
+  have hdeg : 0 < P.natDegree := minpoly.natDegree_pos hint
+  have hc0 : P.coeff 0 ≠ 0 := minpoly.coeff_zero_ne_zero hint hf
+
+  have hcoeff : ∀ i, algebraMap F F' (P.coeff i) ∈ w.toValuationSubring := by
+    intro i
+    rcases lt_trichotomy i P.natDegree with hi | hi | hi
+    · rcases eq_or_ne (P.coeff i) 0 with h0 | h0
+      · simp [h0]
+      · exact w.mem_of_ord_nonneg (by simpa using h0) (by have := hcon i hi h0; omega)
+    · subst hi
+      simp [hmonic.coeff_natDegree]
+    · simp [Polynomial.coeff_eq_zero_of_natDegree_lt hi]
+
+  have hfmem : f ∈ w.toValuationSubring := by
+    refine w.mem_of_eval_monic_eq_zero (P := P.map (algebraMap F F')) (hmonic.map _)
+      (fun i => by simpa using hcoeff i) ?_
+    rw [Polynomial.eval_map, ← Polynomial.aeval_def, hPdef, minpoly.aeval]
+
+  have hfpos : 0 < w.ord f := lt_of_le_of_ne (w.ord_nonneg_of_mem hfmem) (Ne.symm hford)
+
+  have hkey : algebraMap F F' (P.coeff 0) = -(f * Polynomial.aeval f P.divX) := by
+    have hsplit : Polynomial.aeval f (Polynomial.X * P.divX + Polynomial.C (P.coeff 0))
+        = (0 : F') := by rw [P.X_mul_divX_add]; exact minpoly.aeval F f
+    rw [map_add, map_mul, Polynomial.aeval_X, Polynomial.aeval_C] at hsplit
+    linear_combination hsplit
+  have hcof_mem : Polynomial.aeval f P.divX ∈ w.toValuationSubring :=
+    w.aeval_mem (fun i => by rw [Polynomial.coeff_divX]; exact hcoeff (i + 1)) hfmem
+  have hcof_ne : Polynomial.aeval f P.divX ≠ 0 := by
+    intro h
+    rw [h, mul_zero, _root_.neg_zero] at hkey
+    exact hc0 (by simpa using hkey)
+
+  have hpos0 : 0 < w.ord (algebraMap F F' (P.coeff 0)) := by
+    rw [hkey, w.ord_neg, w.ord_mul hf hcof_ne]
+    have := w.ord_nonneg_of_mem hcof_mem
+    omega
+  have := hcon 0 hdeg hc0
+  omega
+
+p2m_export "AlgebraicCurve.Place" "exists_coeff_ord_ne_zero"
+end SupportTransfer
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Chart
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+variable {R : Type*} [CommRing R] [IsDedekindDomain R] [Algebra R F] [IsFractionRing R F]
+variable (w : Place K F)
+
+private def chartHom (hw : ∀ r : R, algebraMap R F r ∈ w.toValuationSubring) :
+    R →+* w.toValuationSubring :=
+  (algebraMap R F).codRestrict w.toValuationSubring.toSubring hw
+
+omit [IsDedekindDomain R] [IsFractionRing R F] in
+
+private theorem inv_algebraMap_mem (hw : ∀ r : R, algebraMap R F r ∈ w.toValuationSubring)
+    {s : R} (hs : IsUnit (chartHom w hw s)) :
+    (algebraMap R F s)⁻¹ ∈ w.toValuationSubring := by
+  obtain ⟨u, hu⟩ := hs
+  have hcoe : ((u : w.toValuationSubring) : F) = algebraMap R F s := by rw [hu]; rfl
+  have h1 : (((u⁻¹ : w.toValuationSubringˣ) : w.toValuationSubring) : F)
+      * algebraMap R F s = 1 := by
+    have hmul := congrArg (fun a : w.toValuationSubring => (a : F)) u.inv_mul
+    push_cast at hmul
+    rwa [hcoe] at hmul
+  rw [← eq_inv_of_mul_eq_one_left h1]
+  exact SetLike.coe_mem _
+
+end Chart
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section FiberFiniteness
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F'] [Algebra K F] [Algebra K F']
+  [Algebra F F'] [IsScalarTower K F F'] [FiniteDimensional F F'] [Algebra.IsSeparable F F']
+
+end FiberFiniteness
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Assembly
+
+variable {K : Type*} [Field K] {F' : Type*} [Field F'] [Algebra K F']
+  [Algebra (RatFunc K) F'] [IsScalarTower K (RatFunc K) F']
+  [FiniteDimensional (RatFunc K) F'] [Algebra.IsSeparable (RatFunc K) F']
+
+theorem finite_setOf_ord_ne_zero_of_finiteDimensional {f : F'} (hf : f ≠ 0) :
+    {w : Place K F' | w.ord f ≠ 0}.Finite := by
+  classical
+  set P := minpoly (RatFunc K) f with hPdef
+
+  refine Set.Finite.subset (Set.Finite.biUnion (Set.finite_Iio P.natDegree) (fun i _ =>
+    Set.Finite.biUnion (s := {v : Place K (RatFunc K) | v.ord (P.coeff i) ≠ 0})
+      ?_ (fun v _ => Place.finite_setOf_restrict_eq v))) ?_
+  ·
+    rcases eq_or_ne (P.coeff i) 0 with h0 | h0
+    · simp [h0]
+    · exact RationalFunctionField.finite_setOf_ord_ne_zero h0
+  ·
+    intro w hw
+    obtain ⟨i, hi, hci, hord⟩ := w.exists_coeff_ord_ne_zero (F := RatFunc K) hf hw
+    simp only [Set.mem_iUnion, Set.mem_setOf_eq, exists_prop]
+    refine ⟨i, hi, w.restrict (RatFunc K), ?_, rfl⟩
+    intro h0
+    apply hord
+    rw [w.ord_restrict, h0, mul_zero]
+
+end Assembly
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+p2m_open "CongruenceSubgroup P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.CongruenceSubgroup IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section CotangentEngine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private noncomputable def _root_.AlgebraicCurve.Place.uniformizerSubring'' : v.toValuationSubring :=
+  (IsDiscreteValuationRing.exists_irreducible v.toValuationSubring).choose
+
+p2m_export "AlgebraicCurve.Place" "uniformizerSubring''"
+@[reducible] private noncomputable def _root_.AlgebraicCurve.Place.polynomialAlgebra : Algebra K[X] v.toValuationSubring :=
+  (Polynomial.aeval (R := K) v.uniformizerSubring'').toRingHom.toAlgebra
+
+p2m_export "AlgebraicCurve.Place" "polynomialAlgebra"
+private theorem _root_.AlgebraicCurve.Place.polynomialAlgebra_algebraMap_X :
+    letI := v.polynomialAlgebra
+    algebraMap K[X] v.toValuationSubring X = v.uniformizerSubring'' :=
+  aeval_X _
+
+p2m_export "AlgebraicCurve.Place" "polynomialAlgebra_algebraMap_X"
+@[reducible] private def _root_.AlgebraicCurve.Place.polynomialIsScalarTower :
+    letI := v.polynomialAlgebra
+    IsScalarTower K K[X] v.toValuationSubring := by
+  letI := v.polynomialAlgebra
+  refine IsScalarTower.of_algebraMap_eq fun a => ?_
+  show _ = aeval v.uniformizerSubring'' (algebraMap K K[X] a)
+  simp [Polynomial.algebraMap_eq, aeval_C]
+
+p2m_export "AlgebraicCurve.Place" "polynomialIsScalarTower"
+private theorem _root_.AlgebraicCurve.Place.range_mapBaseChange_le_span_D_uniformizer :
+    letI := v.polynomialAlgebra
+    letI := v.polynomialIsScalarTower
+    LinearMap.range (KaehlerDifferential.mapBaseChange K K[X] v.toValuationSubring)
+      ≤ Submodule.span v.toValuationSubring
+          {KaehlerDifferential.D K v.toValuationSubring v.uniformizerSubring''} := by
+  letI := v.polynomialAlgebra
+  letI := v.polynomialIsScalarTower
+  rintro _ ⟨t, rfl⟩
+  induction t with
+  | zero => simp
+  | add x y hx hy => rw [map_add]; exact add_mem hx hy
+  | tmul b ω =>
+    rw [KaehlerDifferential.mapBaseChange_tmul,
+      show ω = (KaehlerDifferential.polynomialEquiv K ω) • (KaehlerDifferential.D K K[X] X) from
+        ((KaehlerDifferential.polynomialEquiv K).symm_apply_apply ω).symm.trans
+          (KaehlerDifferential.polynomialEquiv_symm K _),
+      LinearMap.map_smul, KaehlerDifferential.map_D,
+      show algebraMap K[X] v.toValuationSubring X = v.uniformizerSubring'' from aeval_X _,
+      ← algebraMap_smul (A := v.toValuationSubring)]
+    exact Submodule.smul_mem _ b
+      (Submodule.smul_mem _ _ (Submodule.mem_span_singleton_self _))
+
+p2m_export "AlgebraicCurve.Place" "range_mapBaseChange_le_span_D_uniformizer"
+private theorem _root_.AlgebraicCurve.Place.range_mapBaseChange_eq_top_of_subsingleton
+    (hsub :
+      letI := v.polynomialAlgebra
+      Subsingleton Ω[v.toValuationSubring⁄K[X]]) :
+    letI := v.polynomialAlgebra
+    letI := v.polynomialIsScalarTower
+    LinearMap.range (KaehlerDifferential.mapBaseChange K K[X] v.toValuationSubring) = ⊤ := by
+  letI := v.polynomialAlgebra
+  letI := v.polynomialIsScalarTower
+  rw [KaehlerDifferential.range_mapBaseChange]
+  exact LinearMap.ker_eq_top.mpr (Subsingleton.elim _ _)
+
+p2m_export "AlgebraicCurve.Place" "range_mapBaseChange_eq_top_of_subsingleton"
+private theorem _root_.AlgebraicCurve.Place.span_D_uniformizer_eq_top_of_subsingleton
+    (hsub :
+      letI := v.polynomialAlgebra
+      Subsingleton Ω[v.toValuationSubring⁄K[X]]) :
+    Submodule.span v.toValuationSubring
+      {KaehlerDifferential.D K v.toValuationSubring v.uniformizerSubring''} = ⊤ := by
+  refine top_le_iff.mp ?_
+  rw [← v.range_mapBaseChange_eq_top_of_subsingleton hsub]
+  exact v.range_mapBaseChange_le_span_D_uniformizer
+
+p2m_export "AlgebraicCurve.Place" "span_D_uniformizer_eq_top_of_subsingleton"
+end CotangentEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def ValSubringPolynomialFormallyUnramified : Prop :=
+  ∀ v : Place K F,
+    letI := v.polynomialAlgebra
+    Subsingleton Ω[v.toValuationSubring⁄K[X]]
+
+variable {K F}
+
+theorem valSubringKaehlerSpanTop_of_polynomialFormallyUnramified
+    (hfu : ValSubringPolynomialFormallyUnramified K F) :
+    ValSubringKaehlerSpanTop K F :=
+  fun v => v.span_D_uniformizer_eq_top_of_subsingleton (hfu v)
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial UniqueFactorizationMonoid P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.UniqueFactorizationMonoid"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+variable {K : Type*} [Field K]
+
+theorem exists_monic_irreducible_factorization {d : K[X]} (hd : d.Monic) :
+    ∃ (s : Finset K[X]) (n : K[X] → ℕ),
+      (∀ p ∈ s, p.Monic) ∧ (∀ p ∈ s, Irreducible p) ∧
+      (Set.Pairwise (s : Set K[X]) fun i j => IsCoprime i j) ∧
+      d = ∏ p ∈ s, p ^ n p := by
+  classical
+  refine ⟨(normalizedFactors d).toFinset,
+    fun p => (normalizedFactors d).count p, ?_, ?_, ?_, ?_⟩
+  ·
+    intro p hp
+    exact ((Polynomial.mem_normalizedFactors_iff hd.ne_zero).mp
+      (Multiset.mem_toFinset.mp hp)).2.1
+  ·
+    intro p hp
+    exact irreducible_of_normalized_factor p (Multiset.mem_toFinset.mp hp)
+  ·
+
+    intro p hp q hq hne
+    have hp' := Multiset.mem_toFinset.mp hp
+    have hq' := Multiset.mem_toFinset.mp hq
+    rw [(irreducible_of_normalized_factor p hp').coprime_iff_not_dvd]
+    exact fun hdvd => hne (normalizedFactors_eq_of_dvd d p hp' q hq' hdvd)
+  ·
+
+    calc d = (normalizedFactors d).prod := by
+            rw [prod_normalizedFactors_eq hd.ne_zero, hd.normalize_eq_self]
+      _ = ∏ p ∈ (normalizedFactors d).toFinset, p ^ (normalizedFactors d).count p :=
+            Finset.prod_multiset_count _
+
+theorem algebraMap_mem_span_P1PartialFractionGenerators (q : K[X]) :
+    algebraMap K[X] (RatFunc K) q ∈ Submodule.span K (P1PartialFractionGenerators K) :=
+  Submodule.span_mono Set.subset_union_left
+    (gate_algebraMap_polynomial_mem_span_P1PolynomialGenerators q)
+
+theorem div_pow_mem_span_P1PartialFractionGenerators
+    {p c : K[X]} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (hdeg : c.degree < p.degree) {m : ℕ} (hm : 1 ≤ m) :
+    algebraMap K[X] (RatFunc K) c / (algebraMap K[X] (RatFunc K) p) ^ m
+      ∈ Submodule.span K (P1PartialFractionGenerators K) := by
+  exact Submodule.subset_span (Or.inr ⟨p, c, m, hpmon, hpirr, hdeg, hm, rfl⟩)
+
+theorem ratFunc_mem_span_P1PartialFractionGenerators (f : RatFunc K) :
+    f ∈ Submodule.span K (P1PartialFractionGenerators K) := by
+  classical
+
+  have hdenmon : f.denom.Monic := RatFunc.monic_denom f
+
+  obtain ⟨s, n, hmon, hirr, hcop, hdfac⟩ :=
+    exists_monic_irreducible_factorization hdenmon
+
+  have hginv : ∀ p ∈ s,
+      (algebraMap K[X] (RatFunc K) p)⁻¹ * algebraMap K[X] (RatFunc K) p = 1 :=
+    fun p hp => inv_mul_cancel₀ (RatFunc.algebraMap_ne_zero (hmon p hp).ne_zero)
+
+  obtain ⟨q, r, hr, hpfrac⟩ :=
+    Polynomial.mul_prod_pow_inverse_eq_quo_add_sum_rem_mul_pow_inverse
+      (K := RatFunc K) f.num hmon hcop n hginv
+
+  have hLHS : algebraMap K[X] (RatFunc K) f.num *
+      ∏ p ∈ s, ((algebraMap K[X] (RatFunc K) p)⁻¹) ^ n p = f := by
+    have hprod : ∏ p ∈ s, ((algebraMap K[X] (RatFunc K) p)⁻¹) ^ n p
+        = (algebraMap K[X] (RatFunc K) f.denom)⁻¹ := by
+      rw [hdfac, map_prod]
+      rw [← Finset.prod_inv_distrib]
+      exact Finset.prod_congr rfl fun p _ => by rw [map_pow, inv_pow]
+    rw [hprod, ← div_eq_mul_inv, RatFunc.num_div_denom]
+  rw [← hLHS, hpfrac]
+
+  refine Submodule.add_mem _ (algebraMap_mem_span_P1PartialFractionGenerators q) ?_
+  refine Submodule.sum_mem _ fun p hp => ?_
+  refine Submodule.sum_mem _ fun j _ => ?_
+
+  rw [inv_pow, ← div_eq_mul_inv]
+  exact div_pow_mem_span_P1PartialFractionGenerators (hmon p hp) (hirr p hp)
+    (hr p hp j) j.succ_pos
+
+theorem p1PartialFractionSpan_eq_top :
+    Submodule.span K (P1PartialFractionGenerators K) = ⊤ :=
+  Submodule.eq_top_iff'.mpr ratFunc_mem_span_P1PartialFractionGenerators
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option maxHeartbeats 3200000
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve.Lg37 Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Mp72a102T1 P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Mp72a102T2"
+
+namespace ModularCurve
+namespace KwNo6Section
+
+section GenericIso
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+noncomputable def residueFieldAdjoinRootEquiv {ᾱ : v.ResidueField} (hint : _root_.IsIntegral K ᾱ)
+    (htop : K⟮ᾱ⟯ = ⊤) :
+    AdjoinRoot (minpoly K ᾱ) ≃ₐ[K] v.ResidueField :=
+  (adjoinRootEquivAdjoin K hint).trans
+    ((IntermediateField.equivOfEq htop).trans IntermediateField.topEquiv)
+
+theorem residueFieldAdjoinRootEquiv_root {ᾱ : v.ResidueField} (hint : _root_.IsIntegral K ᾱ)
+    (htop : K⟮ᾱ⟯ = ⊤) :
+    residueFieldAdjoinRootEquiv v hint htop (AdjoinRoot.root (minpoly K ᾱ)) = ᾱ := by
+  have hgen := adjoinRootEquivAdjoin_apply_root K hint
+
+  simp only [residueFieldAdjoinRootEquiv, AlgEquiv.trans_apply, hgen,
+    IntermediateField.topEquiv_apply]
+  exact AdjoinSimple.coe_gen K ᾱ
+
+end GenericIso
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section GenericSection
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+noncomputable def sectionOfPrimitiveRoot {ᾱ : v.ResidueField} (hint : _root_.IsIntegral K ᾱ)
+    (htop : K⟮ᾱ⟯ = ⊤) (αhat : lg37_completion v)
+    (hroot : (aeval αhat) (minpoly K ᾱ) = 0)
+    (hres : lg37_residueHat v αhat = ᾱ) :
+    Lg37CompletionSection v where
+  lift :=
+    (AdjoinRoot.liftAlgHom (minpoly K ᾱ) (Algebra.ofId K (lg37_completion v)) αhat
+      (by rw [aeval_def] at hroot; exact hroot)).comp
+      (residueFieldAdjoinRootEquiv v hint htop).symm.toAlgHom
+  residueHat_lift a := by
+
+    have hres' : lg37_residueHat v αhat
+        = residueFieldAdjoinRootEquiv v hint htop (AdjoinRoot.root (minpoly K ᾱ)) :=
+      hres.trans (residueFieldAdjoinRootEquiv_root v hint htop).symm
+    have hkey : (mp72a102_t2_residueHatAlgHom v).comp
+          (AdjoinRoot.liftAlgHom (minpoly K ᾱ) (Algebra.ofId K (lg37_completion v)) αhat
+            (by rw [aeval_def] at hroot; exact hroot))
+        = (residueFieldAdjoinRootEquiv v hint htop).toAlgHom := by
+      refine AdjoinRoot.algHom_ext ?_
+      rw [AlgHom.comp_apply, AdjoinRoot.liftAlgHom_root]
+      exact hres'
+    have h1 := DFunLike.congr_fun hkey ((residueFieldAdjoinRootEquiv v hint htop).symm a)
+    rw [AlgHom.comp_apply] at h1
+    have h2 : (residueFieldAdjoinRootEquiv v hint htop).toAlgHom
+        ((residueFieldAdjoinRootEquiv v hint htop).symm a) = a :=
+      (residueFieldAdjoinRootEquiv v hint htop).apply_symm_apply a
+    exact h1.trans h2
+
+end GenericSection
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Modular
+
+end Modular
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end ModularCurve.KwNo6Section
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+private def _root_.AlgebraicCurve.Place.poleSubmodule (n : ℕ) : Submodule K F where
+  carrier := {f | v.uniformizer ^ n * f ∈ v.toValuationSubring}
+  add_mem' {f g} hf hg := by
+    simpa only [Set.mem_setOf_eq, mul_add] using add_mem hf hg
+  zero_mem' := by simpa only [Set.mem_setOf_eq, mul_zero] using zero_mem _
+  smul_mem' c f hf := by
+    show v.uniformizer ^ n * (c • f) ∈ v.toValuationSubring
+    rw [Algebra.smul_def, mul_left_comm]
+    exact mul_mem (v.algebraMap_mem' c) hf
+
+p2m_export "AlgebraicCurve.Place" "poleSubmodule"
+@[scoped simp]
+private theorem _root_.AlgebraicCurve.Place.mem_poleSubmodule {n : ℕ} {f : F} :
+    f ∈ v.poleSubmodule n ↔ v.uniformizer ^ n * f ∈ v.toValuationSubring := Iff.rfl
+
+p2m_export "AlgebraicCurve.Place" "mem_poleSubmodule"
+private theorem _root_.AlgebraicCurve.Place.uniformizer_pow_ne_zero (n : ℕ) : (v.uniformizer ^ n : F) ≠ 0 :=
+  pow_ne_zero n v.uniformizer_ne_zero
+
+p2m_export "AlgebraicCurve.Place" "uniformizer_pow_ne_zero"
+private theorem _root_.AlgebraicCurve.Place.ord_uniformizer_pow (n : ℕ) : v.ord (v.uniformizer ^ n) = (n : ℤ) := by
+  rw [show (v.uniformizer ^ n : F) = v.uniformizer ^ (n : ℤ) from (zpow_natCast _ n).symm,
+    v.ord_zpow, v.ord_uniformizer, mul_one]
+
+p2m_export "AlgebraicCurve.Place" "ord_uniformizer_pow"
+private theorem _root_.AlgebraicCurve.Place.coe_poleSubmodule_zero :
+    (v.poleSubmodule 0 : Set F) = (v.toValuationSubring : Set F) := by
+  ext f; simp [mem_poleSubmodule]
+
+p2m_export "AlgebraicCurve.Place" "coe_poleSubmodule_zero"
+@[scoped simp]
+private theorem _root_.AlgebraicCurve.Place.poleSubmodule_one : v.poleSubmodule 1 = v.simplePoleSubmodule := by
+  ext f; simp [mem_poleSubmodule, mem_simplePoleSubmodule]
+
+p2m_export "AlgebraicCurve.Place" "poleSubmodule_one"
+private theorem _root_.AlgebraicCurve.Place.mem_poleSubmodule_iff_ord {n : ℕ} {f : F} (hf : f ≠ 0) :
+    f ∈ v.poleSubmodule n ↔ -(n : ℤ) ≤ v.ord f := by
+  rw [mem_poleSubmodule, v.mem_iff_ord_nonneg (mul_ne_zero (v.uniformizer_pow_ne_zero n) hf),
+    v.ord_mul (v.uniformizer_pow_ne_zero n) hf, v.ord_uniformizer_pow]
+  omega
+
+p2m_export "AlgebraicCurve.Place" "mem_poleSubmodule_iff_ord"
+private theorem _root_.AlgebraicCurve.Place.poleSubmodule_mono : Monotone v.poleSubmodule := by
+  intro m n hmn f hf
+  rcases eq_or_ne f 0 with rfl | hf0
+  · exact zero_mem _
+  · rw [v.mem_poleSubmodule_iff_ord hf0] at hf ⊢
+    have : -(n : ℤ) ≤ -(m : ℤ) := by exact_mod_cast neg_le_neg (Nat.cast_le.mpr hmn)
+    omega
+
+p2m_export "AlgebraicCurve.Place" "poleSubmodule_mono"
+private def _root_.AlgebraicCurve.Place.poleMulUniformizerPow (n : ℕ) : v.poleSubmodule n →ₗ[K] v.toValuationSubring where
+  toFun f := ⟨v.uniformizer ^ n * f.1, f.2⟩
+  map_add' f g := Subtype.ext (mul_add _ _ _)
+  map_smul' c f := Subtype.ext <| by
+    show v.uniformizer ^ n * ((c • f : v.poleSubmodule n) : F)
+        = ((c • ⟨v.uniformizer ^ n * f.1, f.2⟩ : v.toValuationSubring) : F)
+    simp only [Algebra.smul_def, MulMemClass.coe_mul, v.coe_algebraMap, Submodule.coe_smul,
+      mul_left_comm]
+
+p2m_export "AlgebraicCurve.Place" "poleMulUniformizerPow"
+private def _root_.AlgebraicCurve.Place.laurentTailCoeff (n : ℕ) : v.poleSubmodule n →ₗ[K] v.ResidueField :=
+  (Ideal.Quotient.mkₐ K (IsLocalRing.maximalIdeal v.toValuationSubring)).toLinearMap
+    ∘ₗ v.poleMulUniformizerPow n
+
+p2m_export "AlgebraicCurve.Place" "laurentTailCoeff"
+theorem laurentTailCoeff_apply {n : ℕ} (f : v.poleSubmodule n) :
+    v.laurentTailCoeff n f = IsLocalRing.residue _ ⟨v.uniformizer ^ n * f.1, f.2⟩ := rfl
+
+private theorem _root_.AlgebraicCurve.Place.laurentTail_remainder_mem_poleSubmodule {n : ℕ} {f : F}
+    (hf : f ∈ v.poleSubmodule (n + 1)) {c : v.toValuationSubring}
+    (hc : IsLocalRing.residue _ c = v.laurentTailCoeff (n + 1) ⟨f, hf⟩) :
+    f - (c : F) * (v.uniformizer ^ (n + 1))⁻¹ ∈ v.poleSubmodule n := by
+
+  set a : v.toValuationSubring := ⟨v.uniformizer ^ (n + 1) * f, hf⟩ with ha_def
+  have hmem : a - c ∈ IsLocalRing.maximalIdeal v.toValuationSubring := by
+    rw [← IsLocalRing.residue_eq_zero_iff, map_sub, hc, laurentTailCoeff_apply, sub_self]
+  rw [v.irreducible_uniformizerSubring.maximalIdeal_eq, Ideal.mem_span_singleton] at hmem
+  obtain ⟨d, hd⟩ := hmem
+
+  rw [mem_poleSubmodule]
+  have hcoe : v.uniformizer ^ (n + 1) * f - (c : F) = v.uniformizer * (d : F) := by
+    have h := congrArg (Subtype.val) hd
+    push_cast [coe_uniformizerSubring] at h
+    exact h
+  have hkey : v.uniformizer ^ n * (f - (c : F) * (v.uniformizer ^ (n + 1))⁻¹) = (d : F) := by
+    refine mul_left_cancel₀ v.uniformizer_ne_zero ?_
+    calc v.uniformizer * (v.uniformizer ^ n * (f - (c : F) * (v.uniformizer ^ (n + 1))⁻¹))
+        = v.uniformizer ^ (n + 1) * f
+            - (c : F) * (v.uniformizer ^ (n + 1) * (v.uniformizer ^ (n + 1))⁻¹) := by ring
+      _ = v.uniformizer ^ (n + 1) * f - (c : F) := by
+          rw [mul_inv_cancel₀ (v.uniformizer_pow_ne_zero (n + 1)), mul_one]
+      _ = v.uniformizer * (d : F) := hcoe
+  rw [hkey]
+  exact d.2
+
+p2m_export "AlgebraicCurve.Place" "laurentTail_remainder_mem_poleSubmodule"
+private theorem _root_.AlgebraicCurve.Place.localResidueData_res_eq_simplePoleResidueAux (R : v.LocalResidueData) {f : F}
+    (hf : f ∈ v.simplePoleSubmodule) : R.res f = v.simplePoleResidueAux ⟨f, hf⟩ := by
+  rw [R.res_simplePole f hf, simplePoleResidueAux_apply]
+
+p2m_export "AlgebraicCurve.Place" "localResidueData_res_eq_simplePoleResidueAux"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+theorem gate_poleSubmodule_strictMono (v : Place K F) (n : ℕ) :
+    (v.uniformizer ^ (n + 1))⁻¹ ∈ v.poleSubmodule (n + 1) ∧
+      (v.uniformizer ^ (n + 1))⁻¹ ∉ v.poleSubmodule n := by
+  refine ⟨?_, ?_⟩
+  · rw [Place.mem_poleSubmodule, mul_inv_cancel₀ (v.uniformizer_pow_ne_zero (n + 1))]
+    exact one_mem _
+  · rw [v.mem_poleSubmodule_iff_ord (inv_ne_zero (v.uniformizer_pow_ne_zero (n + 1))),
+      v.ord_inv, v.ord_uniformizer_pow]
+    omega
+
+theorem gate_localResidueData_uniformizer_inv (v : Place K F) (R : v.LocalResidueData) :
+    R.res v.uniformizer⁻¹ = 1 := by
+  rw [v.localResidueData_res_eq_simplePoleResidueAux R
+      (gate_uniformizer_inv_mem_simplePoleSubmodule v).1,
+    Place.simplePoleResidueAux_apply]
+  have h1 :
+      (⟨v.uniformizer * v.uniformizer⁻¹,
+        (gate_uniformizer_inv_mem_simplePoleSubmodule v).1⟩ : v.toValuationSubring) = 1 :=
+    Subtype.ext (mul_inv_cancel₀ v.uniformizer_ne_zero)
+  rw [h1, map_one]
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+set_option maxHeartbeats 1600000
+set_option maxRecDepth 8000
+
+noncomputable section
+
+p2m_open "IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace ModularCurve
+namespace Mp72a102T3
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve.Lg37"
+
+section General
+
+variable {R : Type*} [CommRing R] (I : Ideal R)
+
+theorem mp72a102_t3_evalₐ_zero_depth (z : AdicCompletion I R) :
+    AdicCompletion.evalₐ I 0 z = 0 := by
+  haveI : Subsingleton (R ⧸ (I ^ 0)) :=
+    Ideal.Quotient.subsingleton_iff.mpr (by rw [pow_zero, Ideal.one_eq_top])
+  exact Subsingleton.elim _ _
+
+theorem mp72a102_t3_evalₐ_algebraMap (n : ℕ) (r : R) :
+    AdicCompletion.evalₐ I n (algebraMap R (AdicCompletion I R) r)
+      = Ideal.Quotient.mk (I ^ n) r := by
+  rw [AdicCompletion.algebraMap_apply, Algebra.algebraMap_self, RingHom.id_apply,
+    AdicCompletion.evalₐ_of]
+
+theorem mp72a102_t3_evalₐ_factor {m n : ℕ} (hmn : m ≤ n) (z : AdicCompletion I R) :
+    Ideal.Quotient.factor (Ideal.pow_le_pow_right hmn) (AdicCompletion.evalₐ I n z)
+      = AdicCompletion.evalₐ I m z := by
+  obtain ⟨c, rfl⟩ := AdicCompletion.mk_surjective I R z
+  rw [AdicCompletion.evalₐ_mk, AdicCompletion.evalₐ_mk, Ideal.Quotient.factor_mk]
+  exact AdicCompletion.Ideal.mk_eq_mk I hmn c
+
+theorem mp72a102_t3_exists_rep_of_evalₐ_eq_zero {n : ℕ} {z : AdicCompletion I R}
+    (h : AdicCompletion.evalₐ I n z = 0) :
+    ∃ w ∈ I ^ n, AdicCompletion.evalₐ I (n + 1) z = Ideal.Quotient.mk (I ^ (n + 1)) w := by
+  obtain ⟨w, hw⟩ := Ideal.Quotient.mk_surjective (AdicCompletion.evalₐ I (n + 1) z)
+  refine ⟨w, ?_, hw.symm⟩
+  have hfac := mp72a102_t3_evalₐ_factor I (Nat.le_succ n) z
+  rw [← hw, Ideal.Quotient.factor_mk, h] at hfac
+  exact Ideal.Quotient.eq_zero_iff_mem.mp hfac
+
+theorem mp72a102_t3_evalₐ_succ_mul_eq_zero {n : ℕ} {r : R} (hr : r ∈ I)
+    {z : AdicCompletion I R} (h : AdicCompletion.evalₐ I n z = 0) :
+    AdicCompletion.evalₐ I (n + 1) (algebraMap R (AdicCompletion I R) r * z) = 0 := by
+  obtain ⟨w, hw, hwz⟩ := mp72a102_t3_exists_rep_of_evalₐ_eq_zero I h
+  rw [map_mul, mp72a102_t3_evalₐ_algebraMap, hwz, ← map_mul,
+    Ideal.Quotient.eq_zero_iff_mem, pow_succ']
+  exact Ideal.mul_mem_mul hr hw
+
+theorem mp72a102_t3_evalₐ_one_eq_zero_of_evalOneₐ {z : AdicCompletion I R}
+    (h : AdicCompletion.evalOneₐ I z = 0) : AdicCompletion.evalₐ I 1 z = 0 := by
+  obtain ⟨w, hw⟩ := Ideal.Quotient.mk_surjective (AdicCompletion.evalₐ I 1 z)
+  have hfac := AdicCompletion.factorₐ_evalₐ_one I z
+  rw [← hw, Ideal.Quotient.factor_mk, h] at hfac
+  rw [← hw, Ideal.Quotient.eq_zero_iff_mem, pow_one]
+  exact Ideal.Quotient.eq_zero_iff_mem.mp hfac
+
+end General
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Carrier
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem mp72a102_t3_evalDepth_add (v : Place K F) (n : ℕ)
+    (x y : lg37_completion v) :
+    AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n (x + y)
+      = AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n x
+        + AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n y :=
+  map_add _ x y
+
+theorem mp72a102_t3_evalDepth_mul (v : Place K F) (n : ℕ)
+    (x y : lg37_completion v) :
+    AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n (x * y)
+      = AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n x
+        * AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n y :=
+  map_mul _ x y
+
+theorem mp72a102_t3_residueHat_congr_of_depth_one (v : Place K F)
+    {x y : lg37_completion v}
+    (h : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) 1 x
+        = AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) 1 y) :
+    lg37_residueHat v x = lg37_residueHat v y := by
+  show AdicCompletion.evalOneₐ (maximalIdeal v.toValuationSubring) x
+      = AdicCompletion.evalOneₐ (maximalIdeal v.toValuationSubring) y
+  rw [← AdicCompletion.factorₐ_evalₐ_one, ← AdicCompletion.factorₐ_evalₐ_one, h]
+
+theorem mp72a102_t3_evalDepth_one_eq_zero_of_residueHat (v : Place K F)
+    {x : lg37_completion v} (hx : lg37_residueHat v x = 0) :
+    AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) 1 x = 0 :=
+  mp72a102_t3_evalₐ_one_eq_zero_of_evalOneₐ _ hx
+
+theorem mp72a102_t3_eq_uniformizer_mul_of_mem_maximalIdeal (v : Place K F)
+    {w : v.toValuationSubring} (hw : w ∈ maximalIdeal v.toValuationSubring) :
+    ∃ u : v.toValuationSubring, w = v.uniformizerSubring * u := by
+  rw [v.irreducible_uniformizerSubring.maximalIdeal_eq, Ideal.mem_span_singleton] at hw
+  exact hw
+
+theorem mp72a102_t3_exists_uniformizer_factor (v : Place K F)
+    {x : lg37_completion v} (hx : lg37_residueHat v x = 0) (n : ℕ) :
+    ∃ u : v.toValuationSubring,
+      AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n
+        (x - algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+          * algebraMap v.toValuationSubring (lg37_completion v) u) = 0 := by
+  rcases n with _ | n
+  · exact ⟨0, mp72a102_t3_evalₐ_zero_depth _ _⟩
+  · obtain ⟨w, hw⟩ := Ideal.Quotient.mk_surjective
+      (AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 1) x)
+    have h1 : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) 1 x = 0 :=
+      mp72a102_t3_evalDepth_one_eq_zero_of_residueHat v hx
+    have hfac := mp72a102_t3_evalₐ_factor (maximalIdeal v.toValuationSubring)
+      (Nat.one_le_iff_ne_zero.mpr (Nat.succ_ne_zero n)) x
+    rw [← hw, Ideal.Quotient.factor_mk, h1] at hfac
+    have hwm : w ∈ maximalIdeal v.toValuationSubring := by
+      have hmem := Ideal.Quotient.eq_zero_iff_mem.mp hfac
+      rwa [pow_one] at hmem
+    obtain ⟨u, hu⟩ := mp72a102_t3_eq_uniformizer_mul_of_mem_maximalIdeal v hwm
+    refine ⟨u, ?_⟩
+    rw [map_sub, map_mul, mp72a102_t3_evalₐ_algebraMap, mp72a102_t3_evalₐ_algebraMap,
+      ← map_mul, ← hu, ← hw, sub_self]
+
+theorem mp72a102_t3_sigma_taylor_expansion (v : Place K F)
+    (S : Lg37CompletionSection v) (n : ℕ) (x : lg37_completion v) :
+    ∃ a : ℕ → v.ResidueField,
+      AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n
+        (x - ∑ i ∈ Finset.range n, S.lift (a i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i) = 0 := by
+  induction n generalizing x with
+  | zero => exact ⟨fun _ => 0, mp72a102_t3_evalₐ_zero_depth _ _⟩
+  | succ n ih =>
+    have hres : lg37_residueHat v (x - S.lift (lg37_residueHat v x)) = 0 := by
+      rw [map_sub, S.residueHat_lift, sub_self]
+    obtain ⟨u, hu⟩ := mp72a102_t3_exists_uniformizer_factor v hres (n + 1)
+    obtain ⟨a, ha⟩ := ih (algebraMap v.toValuationSubring (lg37_completion v) u)
+    have hshift := mp72a102_t3_evalₐ_succ_mul_eq_zero
+      (maximalIdeal v.toValuationSubring) v.uniformizerSubring_mem_maximalIdeal ha
+    refine ⟨fun i => Nat.rec (motive := fun _ => v.ResidueField)
+      (lg37_residueHat v x) (fun j _ => a j) i, ?_⟩
+    rw [Finset.sum_range_succ']
+    show AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 1)
+        (x - ((∑ i ∈ Finset.range n, S.lift (a i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ (i + 1))
+          + S.lift (lg37_residueHat v x)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ 0)) = 0
+    have hsum : ∑ i ∈ Finset.range n, S.lift (a i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ (i + 1)
+        = algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+          * ∑ i ∈ Finset.range n, S.lift (a i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i := by
+      rw [Finset.mul_sum]
+      exact Finset.sum_congr rfl fun i _ => by ring
+    rw [hsum, pow_zero, mul_one]
+    have hdecomp : x - (algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring
+          * ∑ i ∈ Finset.range n, S.lift (a i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i
+          + S.lift (lg37_residueHat v x))
+        = (x - S.lift (lg37_residueHat v x)
+            - algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring
+              * algebraMap v.toValuationSubring (lg37_completion v) u)
+          + algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+            * (algebraMap v.toValuationSubring (lg37_completion v) u
+              - ∑ i ∈ Finset.range n, S.lift (a i)
+                * algebraMap v.toValuationSubring (lg37_completion v)
+                    v.uniformizerSubring ^ i) := by
+      ring
+    rw [hdecomp, map_add, hu, hshift, add_zero]
+
+end Carrier
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section RatProduction
+
+p2m_open "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.RationalFunctionField AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Mp72a101T2"
+
+attribute [local instance 2000] RatFunc.instAlgebraOfPolynomial
+
+variable [HasCanonicalLocalResidueKStar ℚ (RatFunc ℚ)]
+variable [HasCanonicalLocalResidueKStar (AlgebraicClosure ℚ) (RatFunc (AlgebraicClosure ℚ))]
+
+end RatProduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end ModularCurve.Mp72a102T3
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+
+section OrdIntegrand
+
+variable [CharZero K]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)] [CharZero K]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1PrincipalPartAtom_ne_zero {p : K[X]} (hp : p ≠ 0) {c : K[X]} (hc : c ≠ 0)
+    (m : ℕ) : p1PrincipalPartAtom K p c m ≠ 0 := by
+  simp only [p1PrincipalPartAtom, ne_eq, div_eq_zero_iff, not_or]
+  exact ⟨(map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hc,
+    pow_ne_zero _ ((map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hp)⟩
+
+end OrdIntegrand
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section MOneMembership
+
+variable [CharZero K]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end MOneMembership
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section MOneTerm
+
+variable [CharZero K]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end MOneTerm
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section MOneInftyVanish
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates]
+
+end MOneInftyVanish
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section FiniteSideRow
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+end FiniteSideRow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section FiniteSideBridge
+
+variable [CharZero K]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end FiniteSideBridge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section TwoPlaceCancelFromFinite
+
+variable [CharZero K]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+end TwoPlaceCancelFromFinite
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+theorem le_exp_neg_one_of_lt_one {x : ℤᵐ⁰} (hx : x < 1) : x ≤ exp (-1 : ℤ) := by
+  rcases eq_or_ne x 0 with rfl | hx0
+  · exact zero_le'
+  · rw [← exp_log hx0] at hx ⊢
+    rw [show (1 : ℤᵐ⁰) = exp 0 from rfl, exp_lt_exp] at hx
+    rw [exp_le_exp]
+    omega
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.isUnit_algebraMap {c : K} (hc : c ≠ 0) :
+    IsUnit (algebraMap K v.toValuationSubring c) :=
+  (isUnit_iff_ne_zero.mpr hc).map _
+
+p2m_export "AlgebraicCurve.Place" "isUnit_algebraMap"
+private theorem _root_.AlgebraicCurve.Place.adicValuation_algebraMap {c : K} (hc : c ≠ 0) :
+    v.adicValuation (algebraMap K F c) = 1 := by
+  rw [← v.coe_algebraMap]
+  exact (v.adicValuation_coe_eq_one_iff _).mpr (v.isUnit_algebraMap hc)
+
+p2m_export "AlgebraicCurve.Place" "adicValuation_algebraMap"
+private theorem _root_.AlgebraicCurve.Place.ord_algebraMap (c : K) : v.ord (algebraMap K F c) = 0 := by
+  rcases eq_or_ne c 0 with rfl | hc
+  · rw [_root_.map_zero, v.ord_zero]
+  · simp only [ord, v.adicValuation_algebraMap hc, log_one, _root_.neg_zero]
+
+p2m_export "AlgebraicCurve.Place" "ord_algebraMap"
+private theorem _root_.AlgebraicCurve.Place.ord_eq_neg_log_of_valuationSubring_eq (w : Valuation F ℤᵐ⁰)
+    (hw : w.valuationSubring = v.toValuationSubring) {π : F} (hπ : w π = exp (-1 : ℤ))
+    {f : F} (hf : f ≠ 0) : v.ord f = -log (w f) := by
+  have hequiv : w.IsEquiv v.adicValuation :=
+    v.isEquiv_adicValuation_of_valuationSubring_eq hw
+  have hexp_lt : (exp (-1 : ℤ) : ℤᵐ⁰) < 1 := by
+    rw [show (1 : ℤᵐ⁰) = exp 0 from rfl]
+    exact exp_lt_exp.mpr (by omega)
+
+  obtain ⟨π₀, hπ₀⟩ := IsDiscreteValuationRing.exists_irreducible v.toValuationSubring
+  have hadic_π₀ : v.adicValuation (π₀ : F) = exp (-1 : ℤ) := v.adicValuation_coe_irreducible hπ₀
+
+  have hwπ₀ : w (π₀ : F) = exp (-1 : ℤ) := by
+    refine le_antisymm (le_exp_neg_one_of_lt_one (hequiv.lt_one_iff_lt_one.mpr ?_)) ?_
+    · rw [hadic_π₀]
+      exact hexp_lt
+    · rw [← hπ]
+      refine (hequiv π π₀).mpr ?_
+      rw [hadic_π₀]
+      refine le_exp_neg_one_of_lt_one (hequiv.lt_one_iff_lt_one.mp ?_)
+      rw [hπ]
+      exact hexp_lt
+
+  obtain ⟨u, hu⟩ := v.exists_unit_mul_zpow hf hπ₀
+  have hwu : w ((u : v.toValuationSubring) : F) = 1 :=
+    hequiv.eq_one_iff_eq_one.mpr ((v.adicValuation_coe_eq_one_iff _).mpr u.isUnit)
+  set n := v.ord f with hn
+  rw [hu, map_mul, map_zpow₀, hwu, hwπ₀, one_mul, log_zpow, log_exp, smul_eq_mul]
+  ring
+
+p2m_export "AlgebraicCurve.Place" "ord_eq_neg_log_of_valuationSubring_eq"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable {K : Type*} [Field K]
+
+theorem ord_ofHeightOneSpectrum_eq_neg_log (w : HeightOneSpectrum K[X]) {p : K[X]}
+    (hp : p ≠ 0) (hw : w.asIdeal = Ideal.span {p}) {f : RatFunc K} (hf : f ≠ 0) :
+    (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord f
+      = -log (w.valuation (RatFunc K) f) := by
+  have hval : w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) p) = exp (-1 : ℤ) := by
+    have h := w.intValuation_singleton hp hw
+    rw [← h]
+    simpa using w.valuation_of_algebraMap (K := RatFunc K) p
+  exact (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K)
+    w).ord_eq_neg_log_of_valuationSubring_eq (w.valuation (RatFunc K)) rfl hval hf
+
+theorem ord_ofHeightOneSpectrum_of_span (w : HeightOneSpectrum K[X]) {p : K[X]}
+    (hp : p ≠ 0) (hw : w.asIdeal = Ideal.span {p}) :
+    (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+      (algebraMap K[X] (RatFunc K) p) = 1 := by
+  have hval : w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) p) = exp (-1 : ℤ) := by
+    have h := w.intValuation_singleton hp hw
+    rw [← h]
+    simpa using w.valuation_of_algebraMap (K := RatFunc K) p
+  rw [ord_ofHeightOneSpectrum_eq_neg_log w hp hw (RatFunc.algebraMap_ne_zero hp), hval]
+  simp [log_exp]
+
+theorem ord_ofHeightOneSpectrum_eq_zero_of_notMem (w : HeightOneSpectrum K[X]) {q : K[X]}
+    (hq : q ≠ 0) (hmem : q ∉ w.asIdeal) :
+    (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+      (algebraMap K[X] (RatFunc K) q) = 0 := by
+  by_contra h
+  exact hmem
+    ((Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w hq).mp h)
+
+section PlaceInftyOrd
+
+variable [DecidableEq (RatFunc K)]
+
+theorem ord_placeInfty {f : RatFunc K} (hf : f ≠ 0) :
+    (placeInfty K).ord f = -f.intDegree := by
+  have hπ : RatFunc.inftyValuation K (RatFunc.X)⁻¹ = exp (-1 : ℤ) := by
+    rw [map_inv₀, RatFunc.inftyValuation.X]
+    exact (exp_neg (1 : ℤ)).symm
+  rw [(placeInfty K).ord_eq_neg_log_of_valuationSubring_eq (RatFunc.inftyValuation K) rfl hπ
+      hf,
+    RatFunc.inftyValuation_apply, RatFunc.inftyValuation_of_nonzero K hf, log_exp]
+
+theorem ord_placeInfty_algebraMap {q : K[X]} (hq : q ≠ 0) :
+    (placeInfty K).ord (algebraMap K[X] (RatFunc K) q) = -(q.natDegree : ℤ) := by
+  rw [ord_placeInfty (RatFunc.algebraMap_ne_zero hq), RatFunc.intDegree_polynomial]
+
+end PlaceInftyOrd
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section IrreducibleDivisor
+
+variable [DecidableEq (RatFunc K)]
+
+theorem single_add_single_apply_eq_ord {p : K[X]} (hp : Irreducible p)
+    (v : Place K (RatFunc K)) :
+    (Finsupp.single (finitePlace K hp) (1 : ℤ)
+        + Finsupp.single (placeInfty K) (-(p.natDegree : ℤ))) v
+      = v.ord (algebraMap K[X] (RatFunc K) p) := by
+  have hp0 : p ≠ 0 := hp.ne_zero
+  rw [Finsupp.add_apply]
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  ·
+    rw [Finsupp.single_eq_of_ne (Ne.symm (placeInfty_ne_ofHeightOneSpectrum K w)), add_zero]
+    by_cases hcase :
+        Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w = finitePlace K hp
+    ·
+      rw [hcase, Finsupp.single_eq_same]
+      exact (ord_ofHeightOneSpectrum_of_span (heightOneSpectrumOfIrreducible K hp) hp0
+        (heightOneSpectrumOfIrreducible_asIdeal K hp)).symm
+    ·
+      rw [Finsupp.single_eq_of_ne hcase]
+      refine (ord_ofHeightOneSpectrum_eq_zero_of_notMem w hp0 fun hmem => hcase ?_).symm
+
+      have hspan : Ideal.span {p} = w.asIdeal :=
+        (PrincipalIdealRing.isMaximal_of_irreducible hp).eq_of_le w.isPrime.ne_top
+          ((Ideal.span_singleton_le_iff_mem _).mpr hmem)
+      have hwp : w = heightOneSpectrumOfIrreducible K hp :=
+        HeightOneSpectrum.ext
+          (hspan.symm.trans (heightOneSpectrumOfIrreducible_asIdeal K hp).symm)
+      rw [hwp, finitePlace_def]
+  ·
+    rw [Finsupp.single_eq_of_ne
+        (show placeInfty K ≠ finitePlace K hp from
+          placeInfty_ne_ofHeightOneSpectrum K (heightOneSpectrumOfIrreducible K hp)),
+      Finsupp.single_eq_same, zero_add]
+    exact (ord_placeInfty_algebraMap hp0).symm
+
+theorem degree_single_add_single {p : K[X]} (hp : Irreducible p) :
+    Divisor.degree (Finsupp.single (finitePlace K hp) (1 : ℤ)
+        + Finsupp.single (placeInfty K) (-(p.natDegree : ℤ))) = 0 := by
+  rw [map_add, Divisor.degree_single, Divisor.degree_single, deg_finitePlace, deg_placeInfty]
+  push_cast
+  ring
+
+end IrreducibleDivisor
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+theorem degree_eq_zero_of_forall_eq_ord_algebraMap (q : K[X]) :
+    ∀ D : Divisor K (RatFunc K),
+      (∀ v : Place K (RatFunc K), D v = v.ord (algebraMap K[X] (RatFunc K) q)) →
+      Divisor.degree D = 0 := by
+  classical
+  refine UniqueFactorizationMonoid.induction_on_prime q ?_ ?_ ?_
+  ·
+    intro D hD
+    have hzero : D = 0 := by
+      ext v
+      simp [hD v]
+    rw [hzero, _root_.map_zero]
+  ·
+    intro x hx D hD
+    obtain ⟨r, -, rfl⟩ := Polynomial.isUnit_iff.mp hx
+    have hC : (algebraMap K[X] (RatFunc K)) (Polynomial.C r) = algebraMap K (RatFunc K) r := by
+      rw [← Polynomial.algebraMap_eq, ← IsScalarTower.algebraMap_apply]
+    have hzero : D = 0 := by
+      ext v
+      rw [hD v, hC, v.ord_algebraMap]
+      simp
+    rw [hzero, _root_.map_zero]
+  ·
+    intro a p ha hp ih D hD
+    have hp' : algebraMap K[X] (RatFunc K) p ≠ 0 := RatFunc.algebraMap_ne_zero hp.ne_zero
+    have ha' : algebraMap K[X] (RatFunc K) a ≠ 0 := RatFunc.algebraMap_ne_zero ha
+    set Dp : Divisor K (RatFunc K) :=
+      Finsupp.single (finitePlace K hp.irreducible) (1 : ℤ)
+        + Finsupp.single (placeInfty K) (-(p.natDegree : ℤ)) with hDp_def
+    have hDp : ∀ v : Place K (RatFunc K), Dp v = v.ord (algebraMap K[X] (RatFunc K) p) :=
+      fun v => single_add_single_apply_eq_ord hp.irreducible v
+
+    have hDa : ∀ v : Place K (RatFunc K),
+        (D - Dp) v = v.ord (algebraMap K[X] (RatFunc K) a) := by
+      intro v
+      rw [Finsupp.sub_apply, hD v, hDp v, map_mul, v.ord_mul hp' ha']
+      ring
+    have hdeg_p : Divisor.degree Dp = 0 := degree_single_add_single hp.irreducible
+    have hdeg_a : Divisor.degree (D - Dp) = 0 := ih (D - Dp) hDa
+    have hsplit : D = Dp + (D - Dp) := by abel
+    rw [hsplit, map_add, hdeg_p, zero_add]
+    exact hdeg_a
+
+def principalDivisor {f : RatFunc K} (hf : f ≠ 0) : Divisor K (RatFunc K) :=
+  ⟨(finite_setOf_ord_ne_zero hf).toFinset, fun v => v.ord f, fun v => by
+    simp [Set.Finite.mem_toFinset]⟩
+
+@[scoped simp]
+theorem principalDivisor_apply {f : RatFunc K} (hf : f ≠ 0) (v : Place K (RatFunc K)) :
+    principalDivisor hf v = v.ord f := rfl
+
+theorem degree_eq_zero_of_forall_eq_ord {f : RatFunc K} (D : Divisor K (RatFunc K))
+    (hD : ∀ v : Place K (RatFunc K), D v = v.ord f) : Divisor.degree D = 0 := by
+  rcases eq_or_ne f 0 with rfl | hf
+  · have hzero : D = 0 := by
+      ext v
+      simp [hD v]
+    rw [hzero, _root_.map_zero]
+  · have hden : f.denom ≠ 0 := f.denom_ne_zero
+    have hdenF : algebraMap K[X] (RatFunc K) f.denom ≠ 0 := RatFunc.algebraMap_ne_zero hden
+
+    have hsplit : ∀ v : Place K (RatFunc K),
+        (D + principalDivisor hdenF) v = v.ord (algebraMap K[X] (RatFunc K) f.num) := by
+      intro v
+      rw [Finsupp.add_apply, hD v, principalDivisor_apply]
+      have hmul : f * algebraMap K[X] (RatFunc K) f.denom
+          = algebraMap K[X] (RatFunc K) f.num :=
+        ((div_eq_iff hdenF).mp f.num_div_denom).symm
+      have h2 := v.ord_mul hf hdenF
+      rw [hmul] at h2
+      exact h2.symm
+    have h1 := degree_eq_zero_of_forall_eq_ord_algebraMap f.num
+      (D + principalDivisor hdenF) hsplit
+    have h2 := degree_eq_zero_of_forall_eq_ord_algebraMap f.denom
+      (principalDivisor hdenF) fun _ => rfl
+    rw [map_add, h2, add_zero] at h1
+    exact h1
+
+theorem degree_principalDivisor {f : RatFunc K} (hf : f ≠ 0) :
+    Divisor.degree (principalDivisor hf) = 0 :=
+  degree_eq_zero_of_forall_eq_ord (principalDivisor hf) fun _ => rfl
+
+scoped instance instHasPrincipalDivisors : HasPrincipalDivisors K (RatFunc K) where
+  exists_divisor _ hf := ⟨principalDivisor hf, fun _ => rfl, degree_principalDivisor hf⟩
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+
+omit [DecidableEq (RatFunc K)] in
+
+theorem D_ratFuncX_eq_neg_X_sq_smul_D_inv :
+    KaehlerDifferential.D K (RatFunc K) RatFunc.X
+      = (-(RatFunc.X : RatFunc K) ^ 2) •
+          KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹ :=
+  (KaehlerDifferential.D K (RatFunc K)).leibniz_of_mul_eq_one
+    (mul_inv_cancel₀ RatFunc.X_ne_zero)
+
+theorem ord_placeInfty_X_inv : (placeInfty K).ord (RatFunc.X : RatFunc K)⁻¹ = 1 := by
+  rw [(placeInfty K).ord_inv, ord_placeInfty_X, neg_neg]
+
+theorem ord_placeInfty_X_pow (n : ℕ) :
+    (placeInfty K).ord ((RatFunc.X : RatFunc K) ^ n) = -(n : ℤ) := by
+  rw [show ((RatFunc.X : RatFunc K) ^ n) = (RatFunc.X : RatFunc K) ^ (n : ℤ) from
+    (zpow_natCast _ n).symm, (placeInfty K).ord_zpow, ord_placeInfty_X]
+  ring
+
+section NonVanishing
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem D_ratFuncX_inv_ne_zero (hwd : OrdDifferentialWellDefined K (RatFunc K)) :
+    KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹ ≠ 0 := by
+  obtain ⟨u, -, hueq⟩ :=
+    hwd (placeInfty K) (RatFunc.X : RatFunc K)⁻¹ (placeInfty K).uniformizer
+      (ord_placeInfty_X_inv K) (placeInfty K).ord_uniformizer
+  intro h0
+  refine (placeInfty K).dCoord_ne_zero ?_
+  show KaehlerDifferential.D K (RatFunc K) (placeInfty K).uniformizer = 0
+  rw [hueq, h0, smul_zero]
+
+end NonVanishing
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section DifferentialCoeff
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem differentialCoeff_placeInfty_D_X_eq :
+    (placeInfty K).differentialCoeff (KaehlerDifferential.D K (RatFunc K) RatFunc.X)
+      = (-(RatFunc.X : RatFunc K) ^ 2) *
+          (placeInfty K).differentialCoeff
+            (KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹) := by
+  rw [D_ratFuncX_eq_neg_X_sq_smul_D_inv, (placeInfty K).differentialCoeff_smul]
+
+theorem ord_differentialCoeff_placeInfty_D_X_inv_eq_zero
+    (hwd : OrdDifferentialWellDefined K (RatFunc K)) :
+    (placeInfty K).ord
+        ((placeInfty K).differentialCoeff
+          (KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹)) = 0 := by
+  obtain ⟨u, hu0, hueq⟩ :=
+    hwd (placeInfty K) (placeInfty K).uniformizer (RatFunc.X : RatFunc K)⁻¹
+      (placeInfty K).ord_uniformizer (ord_placeInfty_X_inv K)
+  rw [(placeInfty K).differentialCoeff_unique
+    (show KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹
+        = u • (placeInfty K).dCoord from hueq), hu0]
+
+end DifferentialCoeff
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section OrdDifferential
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem ordDifferential_placeInfty_D_ratFuncX
+    (hwd : OrdDifferentialWellDefined K (RatFunc K)) :
+    (placeInfty K).ordDifferential
+        (KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)) = -2 := by
+  rw [Place.ordDifferential, differentialCoeff_placeInfty_D_X_eq K, neg_mul,
+    (placeInfty K).ord_neg,
+    (placeInfty K).ord_mul (pow_ne_zero 2 RatFunc.X_ne_zero)
+      ((placeInfty K).differentialCoeff_ne_zero (D_ratFuncX_inv_ne_zero K hwd)),
+    ord_placeInfty_X_pow K 2, ord_differentialCoeff_placeInfty_D_X_inv_eq_zero K hwd]
+  norm_num
+
+end OrdDifferential
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Factorisation
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end Factorisation
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section NamedSubrow
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+end NamedSubrow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Bridge
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end Bridge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section Uniqueness
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (w : Place K F)
+
+theorem eq_ord_of_addHom_of_nonneg_iff (φ : F → ℤ)
+    (hmul : ∀ x y, x ≠ 0 → y ≠ 0 → φ (x * y) = φ x + φ y)
+    (hone : ∃ t, t ≠ 0 ∧ φ t = 1)
+    (hiff : ∀ x, x ≠ 0 → (0 ≤ φ x ↔ x ∈ w.toValuationSubring))
+    {x : F} (hx : x ≠ 0) : φ x = w.ord x := by
+  obtain ⟨t, ht0, ht1⟩ := hone
+
+  have hφ1 : φ 1 = 0 := by
+    have := hmul 1 1 one_ne_zero one_ne_zero
+    rw [mul_one] at this
+    omega
+
+  have hinv : ∀ y, y ≠ 0 → φ y⁻¹ = -φ y := by
+    intro y hy
+    have h1 : φ (y * y⁻¹) = φ y + φ y⁻¹ := hmul y y⁻¹ hy (inv_ne_zero hy)
+    rw [mul_inv_cancel₀ hy, hφ1] at h1
+    omega
+
+  have hpow : ∀ (y : F), y ≠ 0 → ∀ m : ℕ, φ (y ^ m) = m * φ y := by
+    intro y hy m
+    induction m with
+    | zero => simpa using hφ1
+    | succ m ih =>
+      rw [pow_succ, hmul _ _ (pow_ne_zero _ hy) hy, ih]
+      push_cast
+      ring
+  have hzpow : ∀ (y : F) (n : ℤ), y ≠ 0 → φ (y ^ n) = n * φ y := by
+    intro y n hy
+    rcases n with m | m
+    · simpa using hpow y hy m
+    · rw [zpow_negSucc, hinv _ (pow_ne_zero _ hy), hpow y hy, Int.negSucc_eq]
+      push_cast
+      ring
+
+  have hsign : ∀ y, y ≠ 0 → (0 ≤ φ y ↔ 0 ≤ w.ord y) := by
+    intro y hy
+    rw [hiff y hy, w.mem_iff_ord_nonneg hy]
+  have hzero : ∀ y, y ≠ 0 → (φ y = 0 ↔ w.ord y = 0) := by
+    intro y hy
+    have h1 := hsign y hy
+    have h2 := hsign y⁻¹ (inv_ne_zero hy)
+    rw [hinv y hy, w.ord_inv] at h2
+    omega
+
+  have htord : 0 < w.ord t := by
+    have h1 := (hsign t ht0).mp (by omega)
+    have h2 := (hzero t ht0).not.mp (by omega)
+    omega
+
+  have hcancel : ∀ y, y ≠ 0 → w.ord y = φ y * w.ord t := by
+    intro y hy
+    have hyt : y * t ^ (-(φ y)) ≠ 0 := mul_ne_zero hy (zpow_ne_zero _ ht0)
+    have h1 : φ (y * t ^ (-(φ y))) = 0 := by
+      rw [hmul _ _ hy (zpow_ne_zero _ ht0), hzpow t _ ht0, ht1]
+      ring
+    have h2 : w.ord (y * t ^ (-(φ y))) = 0 := (hzero _ hyt).mp h1
+    rw [w.ord_mul hy (zpow_ne_zero _ ht0), w.ord_zpow] at h2
+    linarith
+
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible w.toValuationSubring
+  have hπ0 : (π : F) ≠ 0 := by
+    simpa [ne_eq, ZeroMemClass.coe_eq_zero] using hπ.ne_zero
+  have hπcancel := hcancel (π : F) hπ0
+  rw [w.ord_coe_irreducible hπ] at hπcancel
+
+  have htord1 : w.ord t = 1 := by
+    have hdvd : w.ord t ∣ 1 := ⟨φ (π : F), by linarith⟩
+    have := Int.le_of_dvd one_pos hdvd
+    omega
+  have := hcancel x hx
+  rw [htord1, mul_one] at this
+  exact this.symm
+
+end Uniqueness
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+  [FiniteDimensional F F'] [Algebra.IsSeparable F F']
+
+attribute [local instance 0] valuationSubringAlgebra
+
+section Setup
+
+variable (v : Place K F)
+
+scoped instance (priority := 100) : IsScalarTower v.toValuationSubring F F' :=
+  IsScalarTower.of_algebraMap_eq fun _ => rfl
+
+end Setup
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Center
+
+variable {v : Place K F} {w : Place K F'}
+
+end Center
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section ValuationDictionary
+
+variable {v : Place K F} {w : Place K F'}
+
+theorem neg_log_valuation_fiberCenter_eq_ord (hw : w.restrict F = v) {x : F'} (hx : x ≠ 0) :
+    -log ((fiberCenter F' v hw).valuation F' x) = w.ord x := by
+  refine eq_ord_of_addHom_of_nonneg_iff w
+    (fun y => -log ((fiberCenter F' v hw).valuation F' y)) ?_ ?_ ?_ hx
+  ·
+    intro a b ha hb
+    show -log ((fiberCenter F' v hw).valuation F' (a * b)) =
+      -log ((fiberCenter F' v hw).valuation F' a) +
+        -log ((fiberCenter F' v hw).valuation F' b)
+    rw [map_mul, log_mul ((Valuation.ne_zero_iff _).mpr ha) ((Valuation.ne_zero_iff _).mpr hb)]
+    ring
+  ·
+    obtain ⟨t, ht⟩ := (fiberCenter F' v hw).valuation_exists_uniformizer F'
+    refine ⟨t, ?_, ?_⟩
+    · intro h
+      rw [h, _root_.map_zero] at ht
+      exact exp_ne_zero ht.symm
+    · show -log ((fiberCenter F' v hw).valuation F' t) = 1
+      rw [ht, log_exp]
+      ring
+  ·
+    intro y hy
+    have hy0 : (fiberCenter F' v hw).valuation F' y ≠ 0 := (Valuation.ne_zero_iff _).mpr hy
+    show 0 ≤ -log ((fiberCenter F' v hw).valuation F' y) ↔ y ∈ w.toValuationSubring
+    have hmem : y ∈ w.toValuationSubring ↔ (fiberCenter F' v hw).valuation F' y ≤ 1 := by
+      rw [toValuationSubring_eq_of_restrict_eq hw,
+        HeightOneSpectrum.valuationSubringAtPrime_eq_valuationSubring]
+      exact Iff.rfl
+    rw [hmem]
+    constructor
+    · intro h
+      calc (fiberCenter F' v hw).valuation F' y
+          = exp (log ((fiberCenter F' v hw).valuation F' y)) := (exp_log hy0).symm
+        _ ≤ exp 0 := by rw [exp_le_exp]; omega
+        _ = 1 := exp_zero
+    · intro h
+      have h1 : exp (log ((fiberCenter F' v hw).valuation F' y)) ≤ exp 0 := by
+        rw [exp_log hy0, exp_zero]
+        exact h
+      rw [exp_le_exp] at h1
+      omega
+
+theorem le_ord_iff_mem_pow_fiberCenter (hw : w.restrict F = v)
+    {c : integralClosureAt F' v} (hc : c ≠ 0) (n : ℕ) :
+    (n : ℤ) ≤ w.ord (algebraMap (integralClosureAt F' v) F' c) ↔
+      c ∈ (fiberCenter F' v hw).asIdeal ^ n := by
+  have hcF : algebraMap (integralClosureAt F' v) F' c ≠ 0 := by
+    simpa using (IsFractionRing.injective (integralClosureAt F' v) F').ne_iff.mpr hc
+  rw [← neg_log_valuation_fiberCenter_eq_ord hw hcF,
+    HeightOneSpectrum.valuation_of_algebraMap,
+    ← HeightOneSpectrum.intValuation_le_pow_iff_mem]
+  have h0 : (fiberCenter F' v hw).intValuation c ≠ 0 :=
+    HeightOneSpectrum.intValuation_ne_zero _ c hc
+  constructor
+  · intro h
+    calc (fiberCenter F' v hw).intValuation c
+        = exp (log ((fiberCenter F' v hw).intValuation c)) := (exp_log h0).symm
+      _ ≤ exp (-(n : ℤ)) := by rw [exp_le_exp]; omega
+  · intro h
+    have h1 : exp (log ((fiberCenter F' v hw).intValuation c)) ≤ exp (-(n : ℤ)) := by
+      rw [exp_log h0]
+      exact h
+    rw [exp_le_exp] at h1
+    omega
+
+theorem ramificationIndex_eq_ramificationIdx_fiberCenter (hw : w.restrict F = v) :
+    w.ramificationIndex F =
+      (IsLocalRing.maximalIdeal v.toValuationSubring).ramificationIdx'
+        (fiberCenter F' v hw).asIdeal := by
+
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible v.toValuationSubring
+  have hπ0 : π ≠ 0 := hπ.ne_zero
+  have hπC : algebraMap v.toValuationSubring (integralClosureAt F' v) π ≠ 0 :=
+    algebraMap_integralClosureAt_ne_zero hπ0
+
+  have hmap : (IsLocalRing.maximalIdeal v.toValuationSubring).map
+      (algebraMap v.toValuationSubring (integralClosureAt F' v))
+        = Ideal.span {algebraMap v.toValuationSubring (integralClosureAt F' v) π} := by
+    rw [hπ.maximalIdeal_eq, Ideal.map_span, Set.image_singleton]
+
+  have hord : w.ord (algebraMap (integralClosureAt F' v) F'
+      (algebraMap v.toValuationSubring (integralClosureAt F' v) π))
+        = w.ramificationIndex F := by
+    rw [ord_algebraMap_integralClosureAt hw, ValuationSubring.algebraMap_apply,
+      v.ord_coe_irreducible hπ, mul_one]
+
+  refine (Ideal.ramificationIdx_spec ?_ ?_).symm
+  · rw [hmap, Ideal.span_singleton_le_iff_mem,
+      ← le_ord_iff_mem_pow_fiberCenter hw hπC, hord]
+  · rw [hmap, Ideal.span_singleton_le_iff_mem,
+      ← le_ord_iff_mem_pow_fiberCenter hw hπC, hord]
+    have : 0 < w.ramificationIndex F := w.ramificationIndex_pos
+    push_cast
+    omega
+
+end ValuationDictionary
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section ResidueDictionary
+
+variable {v : Place K F} {w : Place K F'}
+
+def toValuationSubringOfRestrictEq (hw : w.restrict F = v) :
+    integralClosureAt F' v →+* w.toValuationSubring :=
+  (algebraMap (integralClosureAt F' v) F').codRestrict
+    w.toValuationSubring.toSubring (forall_mem_of_restrict_eq hw)
+
+def residueOfCenter (hw : w.restrict F = v) :
+    integralClosureAt F' v →+* w.ResidueField :=
+  (IsLocalRing.residue w.toValuationSubring).comp (toValuationSubringOfRestrictEq hw)
+
+omit [FiniteDimensional F F'] in
+theorem residueOfCenter_apply (hw : w.restrict F = v) (c : integralClosureAt F' v) :
+    residueOfCenter hw c = IsLocalRing.residue w.toValuationSubring
+      (toValuationSubringOfRestrictEq hw c) := rfl
+
+theorem ker_residueOfCenter (hw : w.restrict F = v) :
+    RingHom.ker (residueOfCenter hw) = (fiberCenter F' v hw).asIdeal := by
+  ext c
+  rw [RingHom.mem_ker, residueOfCenter_apply, IsLocalRing.residue_eq_zero_iff]
+  exact Iff.rfl
+
+theorem surjective_residueOfCenter (hw : w.restrict F = v) :
+    Function.Surjective (residueOfCenter hw) := by
+  classical
+  intro y
+  obtain ⟨x, rfl⟩ := IsLocalRing.residue_surjective y
+
+  have hx : (x : F') ∈ HeightOneSpectrum.valuationSubringAtPrime F' (fiberCenter F' v hw) := by
+    rw [← toValuationSubring_eq_of_restrict_eq hw]
+    exact x.2
+  obtain ⟨a, s, hs, hxas⟩ := hx
+
+  have hsP : s ∉ (fiberCenter F' v hw).asIdeal := hs
+  have hs0 : s ≠ 0 := fun h => hsP (h ▸ (fiberCenter F' v hw).asIdeal.zero_mem)
+  have hsF : algebraMap (integralClosureAt F' v) F' s ≠ 0 := by
+    simpa using (IsFractionRing.injective (integralClosureAt F' v) F').ne_iff.mpr hs0
+  have hsord : w.ord (algebraMap (integralClosureAt F' v) F' s) = 0 := by
+    have h1 : ¬ 0 < w.ord (algebraMap (integralClosureAt F' v) F' s) := by
+      rw [← mem_fiberCenter_iff_ord_pos hw hs0]
+      exact hsP
+    have h2 : 0 ≤ w.ord (algebraMap (integralClosureAt F' v) F' s) :=
+      w.ord_nonneg_of_mem (forall_mem_of_restrict_eq hw s)
+    omega
+
+  haveI hmax : (fiberCenter F' v hw).asIdeal.IsMaximal :=
+    (fiberCenter F' v hw).isPrime.isMaximal (fiberCenter F' v hw).ne_bot
+  obtain ⟨t, i, hi, hti⟩ := hmax.exists_inv hsP
+  have hst : s * t - 1 ∈ (fiberCenter F' v hw).asIdeal := by
+    have h1 : s * t - 1 = -i := by linear_combination hti
+    rw [h1]
+    exact neg_mem hi
+  refine ⟨a * t, ?_⟩
+
+  rw [residueOfCenter_apply, ← sub_eq_zero, ← map_sub, IsLocalRing.residue_eq_zero_iff]
+
+  have hcoe : ((toValuationSubringOfRestrictEq hw (a * t) - x : w.toValuationSubring) : F')
+      = algebraMap (integralClosureAt F' v) F' (a * t) - (x : F') := rfl
+  rcases eq_or_ne (toValuationSubringOfRestrictEq hw (a * t) - x) 0 with hzero | hne
+  · rw [hzero]
+    exact (IsLocalRing.maximalIdeal w.toValuationSubring).zero_mem
+  have hcoene : algebraMap (integralClosureAt F' v) F' (a * t) - (x : F') ≠ 0 := by
+    intro h
+    exact hne (by rwa [← hcoe, ZeroMemClass.coe_eq_zero] at h)
+
+  have hfactor : algebraMap (integralClosureAt F' v) F' (a * t) - (x : F')
+      = algebraMap (integralClosureAt F' v) F' (a * t * s - a)
+          * (algebraMap (integralClosureAt F' v) F' s)⁻¹ := by
+    rw [hxas, map_sub, map_mul (algebraMap (integralClosureAt F' v) F') (a * t) s,
+      sub_mul, mul_assoc, mul_inv_cancel₀ hsF, mul_one]
+  have hdiffC : a * t * s - a ≠ 0 := by
+    intro h
+    apply hcoene
+    rw [hfactor, h, _root_.map_zero, zero_mul]
+  have hdiffP : a * t * s - a ∈ (fiberCenter F' v hw).asIdeal := by
+    have h1 : a * t * s - a = a * (s * t - 1) := by ring
+    rw [h1]
+    exact Ideal.mul_mem_left _ _ hst
+
+  have hmem' : algebraMap (integralClosureAt F' v) F' (a * t) - (x : F')
+      ∈ w.toValuationSubring := by
+    rw [← hcoe]
+    exact Subtype.coe_prop _
+  rw [show (toValuationSubringOfRestrictEq hw (a * t) - x)
+      = (⟨_, hmem'⟩ : w.toValuationSubring) from Subtype.ext hcoe,
+    w.mem_maximalIdeal_iff_ord_pos hcoene hmem']
+  rw [hfactor, w.ord_mul (by
+      simpa using (IsFractionRing.injective (integralClosureAt F' v) F').ne_iff.mpr hdiffC)
+    (inv_ne_zero hsF), w.ord_inv, hsord, _root_.neg_zero, add_zero]
+  exact (mem_fiberCenter_iff_ord_pos hw hdiffC).mp hdiffP
+
+def residueFieldEquivQuotientCenter (hw : w.restrict F = v) :
+    integralClosureAt F' v ⧸ (fiberCenter F' v hw).asIdeal ≃+* w.ResidueField :=
+  (Ideal.quotEquivOfEq (ker_residueOfCenter hw).symm).trans
+    ((residueOfCenter hw).quotientKerEquivOfSurjective (surjective_residueOfCenter hw))
+
+def placeCongrEquiv {u u' : Place K F} (h : u = u') :
+    u.toValuationSubring ≃+* u'.toValuationSubring where
+  toFun x := ⟨x.1, h ▸ x.2⟩
+  invFun x := ⟨x.1, h.symm ▸ x.2⟩
+  left_inv _ := rfl
+  right_inv _ := rfl
+  map_mul' _ _ := rfl
+  map_add' _ _ := rfl
+
+def restrictResidueFieldEquiv (hw : w.restrict F = v) :
+    (w.restrict F).ResidueField ≃+* IsLocalRing.ResidueField v.toValuationSubring :=
+  IsLocalRing.ResidueField.mapEquiv (placeCongrEquiv hw)
+
+theorem inertiaDeg_eq_inertiaDeg_fiberCenter (hw : w.restrict F = v) :
+    w.inertiaDeg F =
+      (IsLocalRing.maximalIdeal v.toValuationSubring).inertiaDeg'
+        (fiberCenter F' v hw).asIdeal := by
+  haveI := fiberCenter_liesOver hw
+  rw [Ideal.inertiaDeg_algebraMap]
+  show Module.finrank (w.restrict F).ResidueField w.ResidueField = _
+  refine Algebra.finrank_eq_of_equiv_equiv (restrictResidueFieldEquiv hw)
+    (residueFieldEquivQuotientCenter hw).symm ?_
+
+  ext a
+  obtain ⟨a, rfl⟩ := IsLocalRing.residue_surjective a
+  simp only [RingHom.coe_comp, Function.comp_apply, RingEquiv.toRingHom_eq_coe,
+    RingHom.coe_coe]
+
+  apply (residueFieldEquivQuotientCenter hw).injective
+  rw [RingEquiv.apply_symm_apply]
+
+  show IsLocalRing.residue w.toValuationSubring
+      (toValuationSubringOfRestrictEq hw
+        (algebraMap v.toValuationSubring (integralClosureAt F' v) (placeCongrEquiv hw a)))
+    = IsLocalRing.residue w.toValuationSubring (restrictInclusion F w a)
+
+  refine congrArg _ (Subtype.ext ?_)
+  show algebraMap (integralClosureAt F' v) F'
+      (algebraMap v.toValuationSubring (integralClosureAt F' v) (placeCongrEquiv hw a))
+    = algebraMap F F' (a : F)
+  rw [← IsScalarTower.algebraMap_apply,
+    IsScalarTower.algebraMap_apply v.toValuationSubring F F']
+  rfl
+
+end ResidueDictionary
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Bijection
+
+variable {v : Place K F}
+
+end Bijection
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Assembly
+
+variable (v : Place K F)
+
+end Assembly
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+p2m_open "CongruenceSubgroup P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.CongruenceSubgroup IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+p2m_open_scoped "TensorProduct P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.TensorProduct"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section ResidueEngine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private noncomputable def _root_.AlgebraicCurve.Place.uniformizerSubring''' : v.toValuationSubring :=
+  (IsDiscreteValuationRing.exists_irreducible v.toValuationSubring).choose
+
+p2m_export "AlgebraicCurve.Place" "uniformizerSubring'''"
+private theorem _root_.AlgebraicCurve.Place.irreducible_uniformizerSubring''' : Irreducible v.uniformizerSubring''' :=
+  (IsDiscreteValuationRing.exists_irreducible v.toValuationSubring).choose_spec
+
+p2m_export "AlgebraicCurve.Place" "irreducible_uniformizerSubring'''"
+private theorem _root_.AlgebraicCurve.Place.maximalIdeal_eq_span_uniformizer :
+    IsLocalRing.maximalIdeal v.toValuationSubring = Ideal.span {v.uniformizerSubring'''} :=
+  (IsDiscreteValuationRing.irreducible_iff_uniformizer _).mp v.irreducible_uniformizerSubring'''
+
+p2m_export "AlgebraicCurve.Place" "maximalIdeal_eq_span_uniformizer"
+private theorem _root_.AlgebraicCurve.Place.D_polynomialAlgebra_uniformizer :
+    letI := v.polynomialAlgebra
+    KaehlerDifferential.D K[X] v.toValuationSubring v.uniformizerSubring''' = 0 := by
+  letI := v.polynomialAlgebra
+  rw [show v.uniformizerSubring''' = algebraMap K[X] v.toValuationSubring X from
+    (v.polynomialAlgebra_algebraMap_X).symm]
+  exact (KaehlerDifferential.D K[X] v.toValuationSubring).map_algebraMap X
+
+p2m_export "AlgebraicCurve.Place" "D_polynomialAlgebra_uniformizer"
+private theorem _root_.AlgebraicCurve.Place.ker_algebraMap_residueField_eq_span :
+    RingHom.ker (algebraMap v.toValuationSubring v.ResidueField)
+      = Ideal.span {v.uniformizerSubring'''} := by
+  rw [IsLocalRing.ResidueField.algebraMap_eq, IsLocalRing.ker_residue,
+    v.maximalIdeal_eq_span_uniformizer]
+
+p2m_export "AlgebraicCurve.Place" "ker_algebraMap_residueField_eq_span"
+private theorem _root_.AlgebraicCurve.Place.formallyUnramified_polynomial_residueField_of_isSeparable
+    [Algebra.IsSeparable K (IsLocalRing.ResidueField v.toValuationSubring)] :
+    letI := v.polynomialAlgebra
+    Algebra.FormallyUnramified K[X] (IsLocalRing.ResidueField v.toValuationSubring) := by
+  letI := v.polynomialAlgebra
+  letI := v.polynomialIsScalarTower
+  haveI : Algebra.FormallyUnramified K (IsLocalRing.ResidueField v.toValuationSubring) :=
+    Algebra.FormallyUnramified.of_isSeparable K _
+  exact Algebra.FormallyUnramified.of_restrictScalars K K[X] _
+
+p2m_export "AlgebraicCurve.Place" "formallyUnramified_polynomial_residueField_of_isSeparable"
+private theorem _root_.AlgebraicCurve.Place.subsingleton_residueKaehler_of_isSeparable
+    [Algebra.IsSeparable K (IsLocalRing.ResidueField v.toValuationSubring)] :
+    letI := v.polynomialAlgebra
+    Subsingleton Ω[(IsLocalRing.ResidueField v.toValuationSubring)⁄K[X]] := by
+  letI := v.polynomialAlgebra
+  haveI := v.formallyUnramified_polynomial_residueField_of_isSeparable
+  exact Algebra.FormallyUnramified.subsingleton_kaehlerDifferential
+
+p2m_export "AlgebraicCurve.Place" "subsingleton_residueKaehler_of_isSeparable"
+private theorem _root_.AlgebraicCurve.Place.subsingleton_residueTensor_polynomialKaehler_of_isSeparable
+    [Algebra.IsSeparable K (IsLocalRing.ResidueField v.toValuationSubring)] :
+    letI := v.polynomialAlgebra
+    Subsingleton (v.ResidueField ⊗[v.toValuationSubring] Ω[v.toValuationSubring⁄K[X]]) := by
+  letI := v.polynomialAlgebra
+  letI := v.polynomialIsScalarTower
+  haveI := v.subsingleton_residueKaehler_of_isSeparable
+  refine subsingleton_of_forall_eq 0 fun t => ?_
+
+  obtain ⟨c, rfl⟩ :=
+    ((KaehlerDifferential.exact_kerCotangentToTensor_mapBaseChange K[X]
+      v.toValuationSubring v.ResidueField
+      Ideal.Quotient.mk_surjective) t).mp (Subsingleton.elim _ _)
+  obtain ⟨⟨x, hx⟩, rfl⟩ := Ideal.toCotangent_surjective _ c
+  simp only [KaehlerDifferential.kerCotangentToTensor_toCotangent]
+
+  rw [v.ker_algebraMap_residueField_eq_span] at hx
+  induction hx using Submodule.span_induction with
+  | mem y hy =>
+    rcases hy with rfl
+    rw [v.D_polynomialAlgebra_uniformizer, TensorProduct.tmul_zero]
+  | zero => simp
+  | add y z _ _ hy hz =>
+    rw [map_add, TensorProduct.tmul_add, hy, hz, add_zero]
+  | smul a y hy IH =>
+
+    have hres : (algebraMap v.toValuationSubring v.ResidueField y) = 0 := by
+      rw [IsLocalRing.ResidueField.algebraMap_eq, IsLocalRing.residue_eq_zero_iff,
+        v.maximalIdeal_eq_span_uniformizer]
+      exact hy
+    rw [smul_eq_mul, Derivation.leibniz, TensorProduct.tmul_add,
+      TensorProduct.tmul_smul, IH, smul_zero, zero_add,
+      ← TensorProduct.smul_tmul, ← Algebra.algebraMap_eq_smul_one, hres,
+      TensorProduct.zero_tmul]
+
+p2m_export "AlgebraicCurve.Place" "subsingleton_residueTensor_polynomialKaehler_of_isSeparable"
+private theorem _root_.AlgebraicCurve.Place.finite_polynomialKaehler_of_finite_kaehler
+    [Module.Finite v.toValuationSubring Ω[v.toValuationSubring⁄K]] :
+    letI := v.polynomialAlgebra
+    Module.Finite v.toValuationSubring Ω[v.toValuationSubring⁄K[X]] := by
+  letI := v.polynomialAlgebra
+  letI := v.polynomialIsScalarTower
+  exact Module.Finite.of_surjective
+    (KaehlerDifferential.map K K[X] v.toValuationSubring v.toValuationSubring)
+    (KaehlerDifferential.map_surjective K K[X] v.toValuationSubring)
+
+p2m_export "AlgebraicCurve.Place" "finite_polynomialKaehler_of_finite_kaehler"
+private theorem _root_.AlgebraicCurve.Place.subsingleton_polynomialKaehler_of_isSeparable_of_finite
+    [Algebra.IsSeparable K (IsLocalRing.ResidueField v.toValuationSubring)]
+    [Module.Finite v.toValuationSubring Ω[v.toValuationSubring⁄K]] :
+    letI := v.polynomialAlgebra
+    Subsingleton Ω[v.toValuationSubring⁄K[X]] := by
+  letI := v.polynomialAlgebra
+  haveI := v.finite_polynomialKaehler_of_finite_kaehler
+  haveI := v.subsingleton_residueTensor_polynomialKaehler_of_isSeparable
+  exact (IsLocalRing.subsingleton_tensorProduct (R := v.toValuationSubring)).mp ‹_›
+
+p2m_export "AlgebraicCurve.Place" "subsingleton_polynomialKaehler_of_isSeparable_of_finite"
+private theorem _root_.AlgebraicCurve.Place.isSeparable_residueField_of_charZero_of_finiteResidue
+    [CharZero K] [v.FiniteResidue] :
+    Algebra.IsSeparable K (IsLocalRing.ResidueField v.toValuationSubring) := by
+  haveI : Module.Finite K (IsLocalRing.ResidueField v.toValuationSubring) := Place.FiniteResidue.finite
+  haveI : Algebra.IsAlgebraic K (IsLocalRing.ResidueField v.toValuationSubring) :=
+    Algebra.IsAlgebraic.of_finite K _
+  exact Algebra.IsAlgebraic.isSeparable_of_perfectField
+
+p2m_export "AlgebraicCurve.Place" "isSeparable_residueField_of_charZero_of_finiteResidue"
+private theorem _root_.AlgebraicCurve.Place.subsingleton_polynomialKaehler_of_charZero_of_finite
+    [CharZero K] [v.FiniteResidue]
+    [Module.Finite v.toValuationSubring Ω[v.toValuationSubring⁄K]] :
+    letI := v.polynomialAlgebra
+    Subsingleton Ω[v.toValuationSubring⁄K[X]] := by
+  haveI := v.isSeparable_residueField_of_charZero_of_finiteResidue
+  exact v.subsingleton_polynomialKaehler_of_isSeparable_of_finite
+
+p2m_export "AlgebraicCurve.Place" "subsingleton_polynomialKaehler_of_charZero_of_finite"
+end ResidueEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def ValSubringKaehlerFinite : Prop :=
+  ∀ v : Place K F, Module.Finite v.toValuationSubring Ω[v.toValuationSubring⁄K]
+
+variable {K F}
+
+theorem valSubringPolynomialFormallyUnramified_of_kaehlerFinite_of_charZero
+    [CharZero K] [∀ v : Place K F, v.FiniteResidue]
+    (hfin : ValSubringKaehlerFinite K F) :
+    ValSubringPolynomialFormallyUnramified K F := by
+  intro v
+  haveI := hfin v
+  exact v.subsingleton_polynomialKaehler_of_charZero_of_finite
+
+theorem valSubringKaehlerSpanTop_of_kaehlerFinite_of_charZero
+    [CharZero K] [∀ v : Place K F, v.FiniteResidue]
+    (hfin : ValSubringKaehlerFinite K F) :
+    ValSubringKaehlerSpanTop K F :=
+  valSubringKaehlerSpanTop_of_polynomialFormallyUnramified
+    (valSubringPolynomialFormallyUnramified_of_kaehlerFinite_of_charZero hfin)
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.exists_mem_poleSubmodule (f : F) : ∃ n, f ∈ v.poleSubmodule n := by
+  rcases eq_or_ne f 0 with rfl | hf0
+  · exact ⟨0, zero_mem _⟩
+  · refine ⟨(-v.ord f).toNat, ?_⟩
+    rw [v.mem_poleSubmodule_iff_ord hf0]
+    have h := Int.self_le_toNat (-v.ord f)
+    omega
+
+p2m_export "AlgebraicCurve.Place" "exists_mem_poleSubmodule"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.uniformizer_pow_inv_mem_poleSubmodule_self (m : ℕ) :
+    (v.uniformizer ^ (m + 2))⁻¹ ∈ v.poleSubmodule (m + 2) :=
+  (gate_poleSubmodule_strictMono v (m + 1)).1
+
+p2m_export "AlgebraicCurve.Place" "uniformizer_pow_inv_mem_poleSubmodule_self"
+private theorem _root_.AlgebraicCurve.Place.higherPoleMonomial_sum_mem_poleSubmodule {s : Finset ℕ} {N : ℕ}
+    (hs : ∀ m ∈ s, m < N) (c : ℕ → K) :
+    ∑ m ∈ s, c m • (v.uniformizer ^ (m + 2))⁻¹ ∈ v.poleSubmodule (N + 1) :=
+  Submodule.sum_mem _ fun m hm =>
+    Submodule.smul_mem _ _ <|
+      v.poleSubmodule_mono (by have := hs m hm; omega)
+        (v.uniformizer_pow_inv_mem_poleSubmodule_self m)
+
+p2m_export "AlgebraicCurve.Place" "higherPoleMonomial_sum_mem_poleSubmodule"
+private theorem _root_.AlgebraicCurve.Place.higherPoleMonomial_coeff_eq_zero_of_mem (s : Finset ℕ) (c : ℕ → K)
+    (hmem : ∑ m ∈ s, c m • (v.uniformizer ^ (m + 2))⁻¹ ∈ v.poleSubmodule 1) :
+    ∀ m ∈ s, c m = 0 := by
+  induction s using Finset.induction_on_max with
+  | empty => intro m hm; exact absurd hm (Finset.notMem_empty m)
+  | insert N s hN ih =>
+    have hNs : N ∉ s := fun h => absurd (hN N h) (lt_irrefl N)
+    rw [Finset.sum_insert hNs] at hmem
+
+    have hrest : ∑ m ∈ s, c m • (v.uniformizer ^ (m + 2))⁻¹ ∈ v.poleSubmodule (N + 1) :=
+      v.higherPoleMonomial_sum_mem_poleSubmodule hN c
+
+    have hwhole := v.poleSubmodule_mono (Nat.one_le_iff_ne_zero.mpr (Nat.succ_ne_zero N)) hmem
+
+    have htop : c N • (v.uniformizer ^ (N + 2))⁻¹ ∈ v.poleSubmodule (N + 1) := by
+      have hsub := (v.poleSubmodule (N + 1)).sub_mem hwhole hrest
+      rwa [add_sub_cancel_right] at hsub
+
+    have hcN : c N = 0 := by
+      by_contra hcN
+      exact (gate_poleSubmodule_strictMono v (N + 1)).2 <|
+        (inv_smul_smul₀ hcN ((v.uniformizer ^ (N + 2))⁻¹)) ▸
+          (v.poleSubmodule (N + 1)).smul_mem (c N)⁻¹ htop
+
+    intro m hm
+    rcases Finset.mem_insert.mp hm with rfl | hm'
+    · exact hcN
+    · refine ih ?_ m hm'
+      rwa [hcN, zero_smul, zero_add] at hmem
+
+p2m_export "AlgebraicCurve.Place" "higherPoleMonomial_coeff_eq_zero_of_mem"
+private theorem _root_.AlgebraicCurve.Place.linearIndependent_higherPoleMonomial_mkQ :
+    LinearIndependent K
+      (fun m : ℕ => (v.poleSubmodule 1).mkQ ((v.uniformizer ^ (m + 2))⁻¹)) := by
+  rw [linearIndependent_iff']
+  intro s c hsum m hm
+  refine v.higherPoleMonomial_coeff_eq_zero_of_mem s c ?_ m hm
+  have h := hsum
+  simp only [← map_smul, ← map_sum] at h
+  rwa [Submodule.mkQ_apply, Submodule.Quotient.mk_eq_zero] at h
+
+p2m_export "AlgebraicCurve.Place" "linearIndependent_higherPoleMonomial_mkQ"
+private def _root_.AlgebraicCurve.Place.higherPoleCorrectionAux :
+    Submodule.span K
+        (Set.range fun m : ℕ => (v.poleSubmodule 1).mkQ ((v.uniformizer ^ (m + 2))⁻¹))
+      →ₗ[K] v.ResidueField :=
+  (Basis.span v.linearIndependent_higherPoleMonomial_mkQ).constr K
+    (fun m => v.localResidueExtend ((v.uniformizer ^ (m + 2))⁻¹))
+
+p2m_export "AlgebraicCurve.Place" "higherPoleCorrectionAux"
+private def _root_.AlgebraicCurve.Place.higherPoleCorrection : F →ₗ[K] v.ResidueField :=
+  v.higherPoleCorrectionAux.exists_extend.choose ∘ₗ (v.poleSubmodule 1).mkQ
+
+p2m_export "AlgebraicCurve.Place" "higherPoleCorrection"
+private theorem _root_.AlgebraicCurve.Place.higherPoleCorrection_apply_of_mem {f : F} (hf : f ∈ v.poleSubmodule 1) :
+    v.higherPoleCorrection f = 0 := by
+  unfold higherPoleCorrection
+  rw [LinearMap.comp_apply, Submodule.mkQ_apply, (Submodule.Quotient.mk_eq_zero _).mpr hf,
+    _root_.map_zero]
+
+p2m_export "AlgebraicCurve.Place" "higherPoleCorrection_apply_of_mem"
+private theorem _root_.AlgebraicCurve.Place.higherPoleCorrection_uniformizer_pow_inv (m : ℕ) :
+    v.higherPoleCorrection ((v.uniformizer ^ (m + 2))⁻¹)
+      = v.localResidueExtend ((v.uniformizer ^ (m + 2))⁻¹) := by
+
+  have hmem : (v.poleSubmodule 1).mkQ ((v.uniformizer ^ (m + 2))⁻¹)
+      ∈ Submodule.span K
+          (Set.range fun m : ℕ => (v.poleSubmodule 1).mkQ ((v.uniformizer ^ (m + 2))⁻¹)) :=
+    Submodule.subset_span ⟨m, rfl⟩
+  have hext := DFunLike.congr_fun v.higherPoleCorrectionAux.exists_extend.choose_spec
+    ⟨(v.poleSubmodule 1).mkQ ((v.uniformizer ^ (m + 2))⁻¹), hmem⟩
+
+  refine hext.trans ?_
+
+  unfold higherPoleCorrectionAux
+  have hb := (Basis.span v.linearIndependent_higherPoleMonomial_mkQ).constr_basis K
+    (fun m => v.localResidueExtend ((v.uniformizer ^ (m + 2))⁻¹)) m
+  rwa [Basis.span_apply] at hb
+
+p2m_export "AlgebraicCurve.Place" "higherPoleCorrection_uniformizer_pow_inv"
+private def _root_.AlgebraicCurve.Place.canonicalLocalResidueDataKOfExtend : v.CanonicalLocalResidueDataK where
+  res := v.localResidueExtend - v.higherPoleCorrection
+  res_of_mem f hf := by
+    have h1 : f ∈ v.poleSubmodule 1 :=
+      v.poleSubmodule_one ▸ v.mem_simplePoleSubmodule_of_mem hf
+    rw [LinearMap.sub_apply, v.higherPoleCorrection_apply_of_mem h1, sub_zero,
+      v.localResidueExtend_apply_of_mem (v.mem_simplePoleSubmodule_of_mem hf),
+      v.simplePoleResidueAux_eq_zero_of_mem hf]
+  res_simplePole f hf := by
+    have h1 : f ∈ v.poleSubmodule 1 := v.poleSubmodule_one ▸ hf
+    rw [LinearMap.sub_apply, v.higherPoleCorrection_apply_of_mem h1, sub_zero,
+      v.localResidueExtend_apply_of_mem hf, simplePoleResidueAux_apply]
+  res_higherPoleMonomial n hn := by
+    obtain ⟨m, rfl⟩ := Nat.exists_eq_add_of_le hn
+    rw [show 1 + m + 1 = m + 2 from by omega, LinearMap.sub_apply,
+      v.higherPoleCorrection_uniformizer_pow_inv m, sub_self]
+
+p2m_export "AlgebraicCurve.Place" "canonicalLocalResidueDataKOfExtend"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+namespace CanonicalLocalResidueDataK p2m_export "AlgebraicCurve.Place.CanonicalLocalResidueDataK" "toLocalResidueData res_higherPoleMonomial rec mk.injEq mk" end CanonicalLocalResidueDataK
+namespace CanonicalLocalResidueDataK
+p2m_open_scoped "AlgebraicCurve.Place.CanonicalLocalResidueDataK" in
+private theorem _root_.AlgebraicCurve.Place.CanonicalLocalResidueDataK.res_algebraMap_mul_uniformizer_pow_inv
+    (R : v.CanonicalLocalResidueDataK) {n : ℕ} (hn : 1 ≤ n) (c : K) :
+    R.res ((algebraMap K F c) * (v.uniformizer ^ (n + 1))⁻¹) = 0 := by
+  have h : (algebraMap K F c) * (v.uniformizer ^ (n + 1))⁻¹
+      = c • (v.uniformizer ^ (n + 1))⁻¹ := (Algebra.smul_def c _).symm
+  rw [h, map_smul, R.res_higherPoleMonomial n hn, smul_zero]
+
+end CanonicalLocalResidueDataK
+p2m_export "AlgebraicCurve.Place" "CanonicalLocalResidueDataK.res_algebraMap_mul_uniformizer_pow_inv"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+theorem gate_canonicalLocalResidueDataK_uniformizer_inv (v : Place K F)
+    (R : v.CanonicalLocalResidueDataK) : R.res v.uniformizer⁻¹ = 1 :=
+  gate_localResidueData_uniformizer_inv v R.toLocalResidueData
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option maxHeartbeats 1600000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace ModularCurve
+
+namespace MilneAvAg9bRd15UnitNormalFormLaurentSeed
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.RationalFunctionField AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+private theorem _root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_eq_zero_or_one_le_ord_of_residue_eq_zero
+    {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+    {g : F} (hg : g ∈ v.toValuationSubring)
+    (h0 : IsLocalRing.residue _ (⟨g, hg⟩ : v.toValuationSubring) = 0) :
+    g = 0 ∨ 1 ≤ v.ord g := by
+  rcases eq_or_ne g 0 with rfl | hg0
+  · exact Or.inl rfl
+  right
+  have hnn : 0 ≤ v.ord g := v.ord_nonneg_of_mem hg
+  rcases eq_or_ne (v.ord g) 0 with hz | hnz
+  · exfalso
+    have hmemi : g⁻¹ ∈ v.toValuationSubring := by
+      refine v.mem_of_ord_nonneg (inv_ne_zero hg0) ?_
+      rw [v.ord_inv, hz, _root_.neg_zero]
+    rw [IsLocalRing.residue_eq_zero_iff, IsLocalRing.mem_maximalIdeal,
+      mem_nonunits_iff] at h0
+    exact h0 ⟨⟨⟨g, hg⟩, ⟨g⁻¹, hmemi⟩, Subtype.ext (mul_inv_cancel₀ hg0),
+      Subtype.ext (inv_mul_cancel₀ hg0)⟩, rfl⟩
+  · omega
+
+p2m_export "ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed" "ag9b15u_eq_zero_or_one_le_ord_of_residue_eq_zero"
+private theorem _root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_exists_unit_normal_form_of_surj
+    {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    {w : F} (hw0 : w ≠ 0) (hw : v.ord w = 0) :
+    ∃ (c : K) (s : F), c ≠ 0 ∧ (s = 0 ∨ 1 ≤ v.ord s) ∧
+      w = algebraMap K F c * (1 + s) := by
+  have hwmem : w ∈ v.toValuationSubring := v.mem_of_ord_nonneg hw0 hw.ge
+  have hwinv : w⁻¹ ∈ v.toValuationSubring := by
+    refine v.mem_of_ord_nonneg (inv_ne_zero hw0) ?_
+    rw [v.ord_inv, hw, _root_.neg_zero]
+  have hres0 : IsLocalRing.residue _ (⟨w, hwmem⟩ : v.toValuationSubring) ≠ 0 := by
+    intro h0
+    rw [IsLocalRing.residue_eq_zero_iff, IsLocalRing.mem_maximalIdeal,
+      mem_nonunits_iff] at h0
+    exact h0 ⟨⟨⟨w, hwmem⟩, ⟨w⁻¹, hwinv⟩, Subtype.ext (mul_inv_cancel₀ hw0),
+      Subtype.ext (inv_mul_cancel₀ hw0)⟩, rfl⟩
+  obtain ⟨c, hc⟩ := hsurj (IsLocalRing.residue _ (⟨w, hwmem⟩ : v.toValuationSubring))
+  have hc0 : c ≠ 0 := by
+    rintro rfl
+    rw [_root_.map_zero] at hc
+    exact hres0 hc.symm
+  have ha0 : algebraMap K F c ≠ 0 :=
+    fun h => hc0 ((algebraMap K F).injective (h.trans (_root_.map_zero _).symm))
+  refine ⟨c, w * (algebraMap K F c)⁻¹ - 1, hc0, ?_, ?_⟩
+  · have hainv : (algebraMap K F c)⁻¹ ∈ v.toValuationSubring := by
+      rw [← map_inv₀]
+      exact v.algebraMap_mem' c⁻¹
+    have hsmem : w * (algebraMap K F c)⁻¹ - 1 ∈ v.toValuationSubring :=
+      sub_mem (mul_mem hwmem hainv) (one_mem _)
+    refine ag9b15u_eq_zero_or_one_le_ord_of_residue_eq_zero v hsmem ?_
+    have hfact : (⟨w * (algebraMap K F c)⁻¹ - 1, hsmem⟩ : v.toValuationSubring)
+        = ⟨w, hwmem⟩ * ⟨(algebraMap K F c)⁻¹, hainv⟩ - 1 :=
+      Subtype.ext (by push_cast; ring)
+    have hainv_res : IsLocalRing.residue _
+        ((⟨(algebraMap K F c)⁻¹, hainv⟩ : v.toValuationSubring))
+        = (IsLocalRing.residue _ (⟨w, hwmem⟩ : v.toValuationSubring))⁻¹ := by
+      have h1 : (⟨(algebraMap K F c)⁻¹, hainv⟩ : v.toValuationSubring)
+          = algebraMap K v.toValuationSubring c⁻¹ :=
+        Subtype.ext (by rw [v.coe_algebraMap, map_inv₀])
+      rw [h1, ← IsLocalRing.ResidueField.algebraMap_eq,
+        ← IsScalarTower.algebraMap_apply K v.toValuationSubring v.ResidueField,
+        map_inv₀, hc, IsLocalRing.ResidueField.algebraMap_eq]
+    rw [hfact, map_sub, map_mul, map_one, hainv_res, mul_inv_cancel₀ hres0, sub_self]
+  · have hrw : (1 : F) + (w * (algebraMap K F c)⁻¹ - 1) = w * (algebraMap K F c)⁻¹ := by
+      ring
+    rw [hrw, mul_comm w (algebraMap K F c)⁻¹, ← mul_assoc,
+      mul_inv_cancel₀ ha0, one_mul]
+
+p2m_export "ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed" "ag9b15u_exists_unit_normal_form_of_surj"
+private theorem _root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_exists_K_truncation_of_mem_poleSubmodule
+    {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (n : ℕ) {f : F} (hf : f ∈ v.poleSubmodule n) :
+    ∃ c : ℕ → K,
+      f - ∑ j ∈ Finset.range n, algebraMap K F (c j) * (v.uniformizer ^ (j + 1))⁻¹
+        ∈ v.toValuationSubring := by
+  induction n generalizing f with
+  | zero =>
+    refine ⟨0, ?_⟩
+    rw [Finset.range_zero, Finset.sum_empty, sub_zero]
+    rwa [← SetLike.mem_coe, v.coe_poleSubmodule_zero] at hf
+  | succ n ih =>
+    obtain ⟨ctop, hctop⟩ := hsurj (v.laurentTailCoeff (n + 1) ⟨f, hf⟩)
+    have hclift : IsLocalRing.residue _ (algebraMap K v.toValuationSubring ctop)
+        = v.laurentTailCoeff (n + 1) ⟨f, hf⟩ := by
+      rw [← hctop, IsScalarTower.algebraMap_apply K v.toValuationSubring v.ResidueField,
+        IsLocalRing.ResidueField.algebraMap_eq]
+    have hrem : f - algebraMap K F ctop * (v.uniformizer ^ (n + 1))⁻¹
+        ∈ v.poleSubmodule n := by
+      have h := v.laurentTail_remainder_mem_poleSubmodule hf hclift
+      rwa [v.coe_algebraMap] at h
+    obtain ⟨c', hc'⟩ := ih hrem
+    refine ⟨fun j => if j = n then ctop else c' j, ?_⟩
+    have hstep : ∑ j ∈ Finset.range (n + 1),
+        algebraMap K F (if j = n then ctop else c' j) * (v.uniformizer ^ (j + 1))⁻¹
+        = (∑ j ∈ Finset.range n, algebraMap K F (c' j) * (v.uniformizer ^ (j + 1))⁻¹)
+          + algebraMap K F ctop * (v.uniformizer ^ (n + 1))⁻¹ := by
+      rw [Finset.sum_range_succ, if_pos rfl]
+      congr 1
+      refine Finset.sum_congr rfl fun j hj => ?_
+      rw [if_neg (Finset.mem_range.mp hj).ne]
+    rw [hstep, show f - ((∑ j ∈ Finset.range n,
+          algebraMap K F (c' j) * (v.uniformizer ^ (j + 1))⁻¹)
+          + algebraMap K F ctop * (v.uniformizer ^ (n + 1))⁻¹)
+        = f - algebraMap K F ctop * (v.uniformizer ^ (n + 1))⁻¹
+          - ∑ j ∈ Finset.range n,
+              algebraMap K F (c' j) * (v.uniformizer ^ (j + 1))⁻¹ from by ring]
+    exact hc'
+
+p2m_export "ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed" "ag9b15u_exists_K_truncation_of_mem_poleSubmodule"
+private theorem _root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_differentialCoeff_D_unit_mul_uniformizer
+    {K F : Type*} [Field K] [Field F] [Algebra K F]
+    (v : Place K F) [v.DCoordGenerates] [Nontrivial Ω[F⁄K]] (w : F) :
+    v.differentialCoeff (KaehlerDifferential.D K F (w * v.uniformizer))
+      = w + v.uniformizer * v.differentialCoeff (KaehlerDifferential.D K F w) := by
+  refine v.differentialCoeff_unique ?_
+  calc KaehlerDifferential.D K F (w * v.uniformizer)
+      = w • KaehlerDifferential.D K F v.uniformizer
+        + v.uniformizer • KaehlerDifferential.D K F w := by
+        rw [Derivation.leibniz]
+    _ = w • v.dCoord + v.uniformizer •
+          (v.differentialCoeff (KaehlerDifferential.D K F w) • v.dCoord) := by
+        rw [show KaehlerDifferential.D K F v.uniformizer = v.dCoord from rfl,
+          v.differentialCoeff_smul_dCoord]
+    _ = (w + v.uniformizer * v.differentialCoeff (KaehlerDifferential.D K F w))
+          • v.dCoord := by
+        rw [smul_smul, add_smul]
+
+p2m_export "ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed" "ag9b15u_differentialCoeff_D_unit_mul_uniformizer"
+end MilneAvAg9bRd15UnitNormalFormLaurentSeed
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option maxHeartbeats 6400000
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+open ModularCurve.Lg37 ModularCurve.Mp72a102T3 Mp72a103T2 Mp72a102T1
+open ModularCurve.KwNo6Section
+
+namespace ModularCurve
+namespace KwNo6Pin
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+noncomputable def aCoeff (v : Place K F) (S : Lg37CompletionSection v)
+    (n : ℕ) (x : lg37_completion v) : v.ResidueField :=
+  (Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (n + 1) x)) n
+
+end ModularCurve.KwNo6Pin
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+set_option maxHeartbeats 1600000
+set_option maxRecDepth 8000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace Mp72a103T2
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.RationalFunctionField AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+open ModularCurve.Lg37 ModularCurve.Mp72a102T3
+open Mp72a102T2
+
+section Calculus
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem mp72a103_t2_evalDepth_of_uniformizer_mul (v : Place K F) {n : ℕ}
+    {z : lg37_completion v}
+    (h : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 1)
+        (algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring * z) = 0) :
+    AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n z = 0 := by
+  obtain ⟨w, hw⟩ := Ideal.Quotient.mk_surjective
+    (AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 1) z)
+  rw [map_mul, mp72a102_t3_evalₐ_algebraMap, ← hw, ← map_mul,
+    Ideal.Quotient.eq_zero_iff_mem, v.irreducible_uniformizerSubring.maximalIdeal_eq,
+    Ideal.span_singleton_pow, Ideal.mem_span_singleton] at h
+  obtain ⟨u, hu⟩ := h
+  have hw' : v.uniformizerSubring * w
+      = v.uniformizerSubring * (v.uniformizerSubring ^ n * u) := by
+    rw [hu, pow_succ', mul_assoc]
+  have hcancel : w = v.uniformizerSubring ^ n * u :=
+    mul_left_cancel₀ v.irreducible_uniformizerSubring.ne_zero hw'
+  have hfac := mp72a102_t3_evalₐ_factor (maximalIdeal v.toValuationSubring)
+    (Nat.le_succ n) z
+  rw [← hw, Ideal.Quotient.factor_mk] at hfac
+  rw [← hfac, Ideal.Quotient.eq_zero_iff_mem, hcancel,
+    v.irreducible_uniformizerSubring.maximalIdeal_eq, Ideal.span_singleton_pow,
+    Ideal.mem_span_singleton]
+  exact ⟨u, rfl⟩
+
+theorem mp72a103_t2_lift_eq_zero_of_depth_one (v : Place K F)
+    (S : Lg37CompletionSection v) {c : v.ResidueField}
+    (h : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) 1 (S.lift c) = 0) :
+    c = 0 := by
+  have hres : lg37_residueHat v (S.lift c) = lg37_residueHat v 0 :=
+    mp72a102_t3_residueHat_congr_of_depth_one v (by rw [h, _root_.map_zero])
+  rwa [S.residueHat_lift, _root_.map_zero] at hres
+
+theorem mp72a103_t2_taylor_coeff_eq_zero_of_depth (v : Place K F)
+    (S : Lg37CompletionSection v) :
+    ∀ (n : ℕ) (a : ℕ → v.ResidueField),
+      AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n
+        (∑ i ∈ Finset.range n, S.lift (a i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i) = 0 →
+      ∀ i < n, a i = 0 := by
+  intro n
+  induction n with
+  | zero => intro a _ i hi; exact absurd hi (Nat.not_lt_zero i)
+  | succ n ih =>
+    intro a h
+    have hsplit : (∑ i ∈ Finset.range (n + 1), S.lift (a i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i)
+        = algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+            * (∑ i ∈ Finset.range n, S.lift (a (i + 1))
+              * algebraMap v.toValuationSubring (lg37_completion v)
+                  v.uniformizerSubring ^ i)
+          + S.lift (a 0) := by
+      rw [Finset.sum_range_succ', pow_zero, mul_one, Finset.mul_sum]
+      congr 1
+      exact Finset.sum_congr rfl fun i _ => by ring
+    have hfac1 := mp72a102_t3_evalₐ_factor (maximalIdeal v.toValuationSubring)
+      (show 1 ≤ n + 1 by omega)
+      (∑ i ∈ Finset.range (n + 1), S.lift (a i)
+        * algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring ^ i)
+    rw [h, _root_.map_zero] at hfac1
+    have hT1 : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) 1
+        (algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+          * (∑ i ∈ Finset.range n, S.lift (a (i + 1))
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i)) = 0 :=
+      mp72a102_t3_evalₐ_succ_mul_eq_zero (maximalIdeal v.toValuationSubring)
+        v.uniformizerSubring_mem_maximalIdeal
+        (mp72a102_t3_evalₐ_zero_depth (maximalIdeal v.toValuationSubring) _)
+    have h1 : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) 1
+        (S.lift (a 0)) = 0 := by
+      have h1' := hfac1.symm
+      rw [hsplit, map_add, hT1, zero_add] at h1'
+      exact h1'
+    have ha0 : a 0 = 0 := mp72a103_t2_lift_eq_zero_of_depth_one v S h1
+    have hT : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) n
+        (∑ i ∈ Finset.range n, S.lift (a (i + 1))
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i) = 0 := by
+      apply mp72a103_t2_evalDepth_of_uniformizer_mul v
+      have h' := h
+      rw [hsplit, ha0, _root_.map_zero, add_zero] at h'
+      exact h'
+    have hrec := ih (fun j => a (j + 1)) hT
+    intro i hi
+    cases i with
+    | zero => exact ha0
+    | succ j => exact hrec j (Nat.lt_of_succ_lt_succ hi)
+
+end Calculus
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section NumeratorBand
+
+variable {K : Type*} [Field K] [CharZero K]
+
+end NumeratorBand
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section RatProduction
+
+attribute [local instance 2000] RatFunc.instAlgebraOfPolynomial
+
+variable [HasCanonicalLocalResidueKStar ℚ (RatFunc ℚ)]
+variable [HasCanonicalLocalResidueKStar (AlgebraicClosure ℚ) (RatFunc (AlgebraicClosure ℚ))]
+
+end RatProduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Mp72a103T2
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K]
+
+abbrev dX : Ω[(RatFunc K)⁄K] := KaehlerDifferential.D K (RatFunc K) RatFunc.X
+
+theorem aeval_ratFuncX_eq_algebraMap (q : K[X]) :
+    aeval (RatFunc.X : RatFunc K) q = algebraMap K[X] (RatFunc K) q := by
+  rw [← RatFunc.algebraMap_X,
+    show algebraMap K[X] (RatFunc K) X = IsScalarTower.toAlgHom K K[X] (RatFunc K) X from rfl,
+    aeval_algHom_apply, aeval_X_left_apply]
+  rfl
+
+theorem D_algebraMap_polynomial (q : K[X]) :
+    KaehlerDifferential.D K (RatFunc K) (algebraMap K[X] (RatFunc K) q)
+      = algebraMap K[X] (RatFunc K) q.derivative • dX K := by
+  rw [← aeval_ratFuncX_eq_algebraMap K q, (D K (RatFunc K)).map_aeval q RatFunc.X,
+    aeval_ratFuncX_eq_algebraMap K q.derivative]
+
+theorem denom_sq_smul_D_eq (f : RatFunc K) :
+    (algebraMap K[X] (RatFunc K) f.denom) ^ 2 • KaehlerDifferential.D K (RatFunc K) f
+      = algebraMap K[X] (RatFunc K)
+          (f.num.derivative * f.denom - f.num * f.denom.derivative) • dX K := by
+  have hd : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr f.denom_ne_zero
+  have hDf : KaehlerDifferential.D K (RatFunc K) f
+      = ((algebraMap K[X] (RatFunc K) f.denom)⁻¹ ^ 2) •
+        (algebraMap K[X] (RatFunc K) f.denom • D K (RatFunc K) (algebraMap K[X] (RatFunc K) f.num)
+          - algebraMap K[X] (RatFunc K) f.num
+              • D K (RatFunc K) (algebraMap K[X] (RatFunc K) f.denom)) := by
+    conv_lhs => rw [← f.num_div_denom, (D K (RatFunc K)).leibniz_div]
+  rw [hDf, smul_smul, ← mul_pow, mul_inv_cancel₀ hd, one_pow, one_smul,
+    D_algebraMap_polynomial K f.num, D_algebraMap_polynomial K f.denom,
+    smul_smul, smul_smul, ← sub_smul]
+  push_cast
+  ring_nf
+
+theorem span_dX_eq_top :
+    Submodule.span (RatFunc K) {dX K} = ⊤ := by
+  rw [eq_top_iff, ← KaehlerDifferential.span_range_derivation, Submodule.span_le]
+  rintro _ ⟨f, rfl⟩
+  have hd : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr f.denom_ne_zero
+
+  have hsq : ((algebraMap K[X] (RatFunc K) f.denom) ^ 2)⁻¹
+        * (algebraMap K[X] (RatFunc K) f.denom) ^ 2 = 1 :=
+    inv_mul_cancel₀ (pow_ne_zero 2 hd)
+  refine Submodule.mem_span_singleton.mpr ⟨((algebraMap K[X] (RatFunc K) f.denom) ^ 2)⁻¹
+    * algebraMap K[X] (RatFunc K)
+        (f.num.derivative * f.denom - f.num * f.denom.derivative), ?_⟩
+  rw [mul_smul, ← denom_sq_smul_D_eq K f, smul_smul, hsq, one_smul]
+
+theorem dX_ne_zero [Nontrivial Ω[(RatFunc K)⁄K]] : dX K ≠ 0 := by
+  intro h0
+  obtain ⟨ω, hω⟩ := exists_ne (0 : Ω[(RatFunc K)⁄K])
+  have hω_mem : ω ∈ Submodule.span (RatFunc K) {dX K} :=
+    span_dX_eq_top K ▸ Submodule.mem_top
+  rw [h0, Submodule.span_zero_singleton] at hω_mem
+  exact hω hω_mem
+
+theorem not_dvd_derivative_of_sq_not_dvd {p : K[X]} (hp : Irreducible p) (hsep : p.Separable)
+    {q : K[X]} (hpq : p ∣ q) (hpq2 : ¬ p ^ 2 ∣ q) : ¬ p ∣ q.derivative := by
+  obtain ⟨m, rfl⟩ := hpq
+  have hpm : ¬ p ∣ m := fun ⟨r, hr⟩ => hpq2 ⟨r, by rw [hr]; ring⟩
+  intro hpdvd
+  rw [derivative_mul] at hpdvd
+  have hpdvd' : p ∣ p.derivative * m := by
+    have := dvd_sub hpdvd (dvd_mul_right p m.derivative)
+    rwa [add_sub_cancel_right] at this
+  rcases hp.prime.dvd_mul.mp hpdvd' with hpp' | hpm'
+  ·
+    exact hp.not_isUnit (hsep.isUnit_of_dvd' dvd_rfl hpp')
+  · exact hpm hpm'
+
+variable {K}
+
+theorem not_dvd_derivative_of_ord_eq_one {w : HeightOneSpectrum K[X]} {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) (hsep : p.Separable)
+    {q : K[X]} (hq : q ≠ 0)
+    (hord : (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+      (algebraMap K[X] (RatFunc K) q) = 1) :
+    ¬ p ∣ q.derivative := by
+  have hwmem : ∀ {r : K[X]}, r ≠ 0 →
+      ((Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+        (algebraMap K[X] (RatFunc K) r) ≠ 0 ↔ p ∣ r) := fun {r} hr => by
+    rw [Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w hr,
+      hwp, Ideal.mem_span_singleton]
+  have hordp : (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+      (algebraMap K[X] (RatFunc K) p) = 1 :=
+    ord_ofHeightOneSpectrum_of_span w hp.ne_zero hwp
+  refine not_dvd_derivative_of_sq_not_dvd K hp hsep
+    ((hwmem hq).mp (hord ▸ one_ne_zero)) ?_
+
+  rintro ⟨r, rfl⟩
+  have hr : r ≠ 0 := fun h => hq (by simp [h])
+  have : (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+      (algebraMap K[X] (RatFunc K) (p ^ 2 * r)) ≥ 2 := by
+    have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+      (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hp.ne_zero
+    have hr0 : algebraMap K[X] (RatFunc K) r ≠ 0 :=
+      (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hr
+    rw [map_mul, map_pow,
+      (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord_mul (pow_ne_zero 2 hp0) hr0,
+      ← zpow_natCast, (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord_zpow,
+      hordp, mul_one]
+    have : 0 ≤ (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+        (algebraMap K[X] (RatFunc K) r) :=
+      (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord_nonneg_of_mem
+        (algebraMap_mem_ofHeightOneSpectrum K w r)
+    omega
+  omega
+
+section NumDenom
+
+variable {w : HeightOneSpectrum K[X]}
+
+local notation "v" => Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w
+
+private theorem uniformizer_ne_zero' : (v).uniformizer ≠ 0 :=
+  (v).uniformizer_ne_zero
+
+theorem ord_algebraMap_denom_uniformizer_eq_zero {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) :
+    (v).ord (algebraMap K[X] (RatFunc K) (v).uniformizer.denom) = 0 := by
+  set π := (v).uniformizer with hπ
+  have hπne : π ≠ 0 := uniformizer_ne_zero'
+  by_contra hne
+
+  have hpd : p ∣ π.denom := by
+    rw [← Ideal.mem_span_singleton, ← hwp]
+    exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+      π.denom_ne_zero).mp hne
+  have hpn : ¬ p ∣ π.num := fun hpn =>
+    hp.not_isUnit (π.isCoprime_num_denom.isUnit_of_dvd' hpn hpd)
+  have hordn : (v).ord (algebraMap K[X] (RatFunc K) π.num) = 0 := by
+    by_contra h
+    exact hpn (by
+      rw [← Ideal.mem_span_singleton, ← hwp]
+      exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+        (RatFunc.num_ne_zero hπne)).mp h)
+  have hordd : 0 < (v).ord (algebraMap K[X] (RatFunc K) π.denom) :=
+    lt_of_le_of_ne ((v).ord_nonneg_of_mem (algebraMap_mem_ofHeightOneSpectrum K w _)) (Ne.symm hne)
+
+  have hnum0 : algebraMap K[X] (RatFunc K) π.num ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr (RatFunc.num_ne_zero hπne)
+  have hden0 : algebraMap K[X] (RatFunc K) π.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr π.denom_ne_zero
+  have hordπ : (v).ord π = 1 := (v).ord_uniformizer
+  rw [← π.num_div_denom, div_eq_mul_inv, (v).ord_mul hnum0 (inv_ne_zero hden0),
+    (v).ord_inv, hordn] at hordπ
+  omega
+
+theorem ord_algebraMap_num_uniformizer_eq_one {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) :
+    (v).ord (algebraMap K[X] (RatFunc K) (v).uniformizer.num) = 1 := by
+  set π := (v).uniformizer with hπ
+  have hπne : π ≠ 0 := uniformizer_ne_zero'
+  have hnum0 : algebraMap K[X] (RatFunc K) π.num ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr (RatFunc.num_ne_zero hπne)
+  have hden0 : algebraMap K[X] (RatFunc K) π.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr π.denom_ne_zero
+  have hordπ : (v).ord π = 1 := (v).ord_uniformizer
+  rw [← π.num_div_denom, div_eq_mul_inv, (v).ord_mul hnum0 (inv_ne_zero hden0),
+    (v).ord_inv, ord_algebraMap_denom_uniformizer_eq_zero hp hwp] at hordπ
+  omega
+
+theorem not_dvd_num'denom_sub_numdenom' {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) (hsep : p.Separable) :
+    ¬ p ∣ ((v).uniformizer.num.derivative * (v).uniformizer.denom
+            - (v).uniformizer.num * (v).uniformizer.denom.derivative) := by
+  set π := (v).uniformizer with hπ
+  have hπne : π ≠ 0 := uniformizer_ne_zero'
+  have hpn' : ¬ p ∣ π.num.derivative :=
+    not_dvd_derivative_of_ord_eq_one hp hwp hsep (RatFunc.num_ne_zero hπne)
+      (ord_algebraMap_num_uniformizer_eq_one hp hwp)
+  have hpd : ¬ p ∣ π.denom := fun hpd => by
+    have := ord_algebraMap_denom_uniformizer_eq_zero (w := w) hp hwp
+    rw [← Ideal.mem_span_singleton, ← hwp] at hpd
+    exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+      π.denom_ne_zero).mpr hpd this
+  have hpn : p ∣ π.num := by
+    rw [← Ideal.mem_span_singleton, ← hwp]
+    refine (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+      (RatFunc.num_ne_zero hπne)).mp ?_
+    rw [ord_algebraMap_num_uniformizer_eq_one hp hwp]; exact one_ne_zero
+  intro hdvd
+
+  have hpnd' : p ∣ π.num * π.denom.derivative := hpn.mul_right _
+  have hpn'd : p ∣ π.num.derivative * π.denom := by
+    have := dvd_add hdvd hpnd'
+    rwa [sub_add_cancel] at this
+  rcases hp.prime.dvd_mul.mp hpn'd with h | h
+  · exact hpn' h
+  · exact hpd h
+
+end NumDenom
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section PerPlace
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable {w : HeightOneSpectrum K[X]}
+
+local notation "v" => Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w
+
+theorem ord_differentialCoeff_dX_ofHeightOneSpectrum {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) (hsep : p.Separable) :
+    (v).ord ((v).differentialCoeff (dX K)) = 0 := by
+  set π := (v).uniformizer with hπ
+  have hπne : π ≠ 0 := uniformizer_ne_zero'
+  set ξ : K[X] := π.num.derivative * π.denom - π.num * π.denom.derivative with hξ
+  have hd0 : algebraMap K[X] (RatFunc K) π.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr π.denom_ne_zero
+
+  have hcoord : (v).dCoord
+      = (algebraMap K[X] (RatFunc K) ξ / (algebraMap K[X] (RatFunc K) π.denom) ^ 2) • dX K := by
+    rw [div_eq_mul_inv, mul_comm, mul_smul, ← denom_sq_smul_D_eq K π, smul_smul,
+      inv_mul_cancel₀ (pow_ne_zero 2 hd0), one_smul]
+    rfl
+
+  have hξ0 : ξ ≠ 0 := by
+    intro h; rw [hξ] at h
+    exact not_dvd_num'denom_sub_numdenom' hp hwp hsep (h ▸ dvd_zero p)
+  have hcoeff0 : algebraMap K[X] (RatFunc K) ξ / (algebraMap K[X] (RatFunc K) π.denom) ^ 2 ≠ 0 :=
+    div_ne_zero ((map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hξ0)
+      (pow_ne_zero 2 hd0)
+
+  have hcoeff : (v).differentialCoeff (dX K)
+      = (algebraMap K[X] (RatFunc K) ξ / (algebraMap K[X] (RatFunc K) π.denom) ^ 2)⁻¹ := by
+    refine (v).differentialCoeff_unique ?_
+    rw [hcoord, smul_smul, inv_mul_cancel₀ hcoeff0, one_smul]
+
+  have hordξ : (v).ord (algebraMap K[X] (RatFunc K) ξ) = 0 := by
+    by_contra h
+    refine not_dvd_num'denom_sub_numdenom' hp hwp hsep ?_
+    rw [← Ideal.mem_span_singleton, ← hwp]
+    exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w hξ0).mp h
+  rw [hcoeff, (v).ord_inv, div_eq_mul_inv,
+    (v).ord_mul ((map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hξ0)
+      (inv_ne_zero (pow_ne_zero 2 hd0)),
+    hordξ, (v).ord_inv, ← zpow_natCast, (v).ord_zpow,
+    ord_algebraMap_denom_uniformizer_eq_zero hp hwp]
+  ring
+
+theorem differentialCoeff_dX_mem_ofHeightOneSpectrum {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) (hsep : p.Separable) :
+    (v).differentialCoeff (dX K) ∈ (v).toValuationSubring :=
+  (v).mem_of_ord_nonneg ((v).differentialCoeff_ne_zero (dX_ne_zero K))
+    (ord_differentialCoeff_dX_ofHeightOneSpectrum hp hwp hsep).ge
+
+end PerPlace
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Discharge
+
+variable (K)
+variable [CharZero K] [DecidableEq (RatFunc K)]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+omit [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+  [HasPrincipalDivisors K (RatFunc K)] in
+
+theorem p1DifferentialCoeffRegularFinite_dX :
+    P1DifferentialCoeffRegularFinite K (dX_ne_zero K) := by
+  intro v hvinf
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    exact differentialCoeff_dX_mem_ofHeightOneSpectrum hp hwp hp.separable
+  · exact absurd rfl hvinf
+
+end Discharge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable {K : Type*} [Field K] [DecidableEq (RatFunc K)]
+
+variable (K)
+
+omit [DecidableEq (RatFunc K)] in
+
+theorem ord_ofHeightOneSpectrum_irreducible_eq_zero_of_ne
+    (w : HeightOneSpectrum K[X]) {p : K[X]} (hp : Irreducible p)
+    (hne : w ≠ heightOneSpectrumOfIrreducible K hp) :
+    (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).ord
+      (algebraMap K[X] (RatFunc K) p) = 0 := by
+  by_contra hord
+  refine hne (HeightOneSpectrum.ext ?_)
+  have hmem : p ∈ w.asIdeal :=
+    (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w hp.ne_zero).mp hord
+
+  exact ((PrincipalIdealRing.isMaximal_of_irreducible hp).eq_of_le
+    (w.isPrime.isMaximal w.ne_bot).ne_top
+    ((Ideal.span_singleton_le_iff_mem w.asIdeal).mpr hmem)).symm
+
+theorem ord_algebraMap_irreducible_eq_zero_of_ne
+    {p : K[X]} (hp : Irreducible p) {v : Place K (RatFunc K)}
+    (hvp : v ≠ finitePlace K hp) (hvinf : v ≠ placeInfty K) :
+    v.ord (algebraMap K[X] (RatFunc K) p) = 0 := by
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · refine ord_ofHeightOneSpectrum_irreducible_eq_zero_of_ne K w hp ?_
+    rintro rfl; exact hvp rfl
+  · exact absurd rfl hvinf
+
+theorem inv_algebraMap_pow_mem_of_ne_finitePlace
+    {p : K[X]} (hp : Irreducible p) {v : Place K (RatFunc K)}
+    (hvp : v ≠ finitePlace K hp) (hvinf : v ≠ placeInfty K) (m : ℕ) :
+    ((algebraMap K[X] (RatFunc K) p) ^ m)⁻¹ ∈ v.toValuationSubring := by
+  have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hp.ne_zero
+  refine v.mem_of_ord_nonneg (inv_ne_zero (pow_ne_zero m hp0)) ?_
+  rw [v.ord_inv, ← zpow_natCast, v.ord_zpow,
+    ord_algebraMap_irreducible_eq_zero_of_ne K hp hvp hvinf, mul_zero, _root_.neg_zero]
+
+theorem p1PrincipalPartAtom_mem_of_ne_finitePlace
+    {p : K[X]} (hp : Irreducible p) (c : K[X]) (m : ℕ) {v : Place K (RatFunc K)}
+    (hvp : v ≠ finitePlace K hp) (hvinf : v ≠ placeInfty K) :
+    p1PrincipalPartAtom K p c m ∈ v.toValuationSubring := by
+  unfold p1PrincipalPartAtom
+  rw [div_eq_mul_inv]
+  exact mul_mem (algebraMap_polynomial_mem_of_ne_placeInfty' K hvinf c)
+    (inv_algebraMap_pow_mem_of_ne_finitePlace K hp hvp hvinf m)
+
+section Reduction
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+end Reduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+theorem ord_placeInfty_p1PrincipalPartAtom
+    {p : K[X]} (hp : p ≠ 0) {c : K[X]} (hc : c ≠ 0) (m : ℕ) :
+    (placeInfty K).ord (p1PrincipalPartAtom K p c m)
+      = (m : ℤ) * p.natDegree - c.natDegree := by
+  have hinj := IsFractionRing.injective K[X] (RatFunc K)
+  have hp' : algebraMap K[X] (RatFunc K) p ≠ 0 := (map_ne_zero_iff _ hinj).mpr hp
+  have hc' : algebraMap K[X] (RatFunc K) c ≠ 0 := (map_ne_zero_iff _ hinj).mpr hc
+  unfold p1PrincipalPartAtom
+  rw [div_eq_mul_inv, (placeInfty K).ord_mul hc' (inv_ne_zero (pow_ne_zero m hp')),
+    (placeInfty K).ord_inv, ← zpow_natCast, (placeInfty K).ord_zpow,
+    ord_placeInfty_algebraMap' K hc, ord_placeInfty_algebraMap' K hp]
+  ring
+
+theorem one_le_ord_placeInfty_p1PrincipalPartAtom
+    {p : K[X]} (hp : Irreducible p) {c : K[X]} (hc : c ≠ 0) {m : ℕ}
+    (hdeg : c.degree < p.degree) (hm : 1 ≤ m) :
+    1 ≤ (placeInfty K).ord (p1PrincipalPartAtom K p c m) := by
+  rw [ord_placeInfty_p1PrincipalPartAtom K hp.ne_zero hc]
+
+  have hndeg : c.natDegree < p.natDegree :=
+    Polynomial.natDegree_lt_natDegree hc hdeg
+  have hpdeg : 1 ≤ (p.natDegree : ℤ) := by exact_mod_cast hp.natDegree_pos
+  have hm' : 1 ≤ (m : ℤ) := by exact_mod_cast hm
+  nlinarith
+
+section CanonicalDivisor
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+end CanonicalDivisor
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section NamedSubrows
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+variable {K}
+
+end NamedSubrows
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def KaehlerRankOne : Prop :=
+  Module.Free F Ω[F⁄K] ∧ Module.finrank F Ω[F⁄K] = 1
+
+variable {K F}
+
+namespace IsCurveOver p2m_export "AlgebraicCurve.IsCurveOver" "instFiniteResidue mk finiteResidue kaehler_free_rank_one rec" end IsCurveOver
+p2m_open_scoped "AlgebraicCurve.IsCurveOver" in
+theorem IsCurveOver.of_finiteResidue_of_kaehlerRankOne
+    [HasPrincipalDivisors K F] [∀ v : Place K F, v.FiniteResidue]
+    (hΩ : KaehlerRankOne K F) : IsCurveOver K F where
+  finiteResidue v := Place.FiniteResidue.finite (v := v)
+  kaehler_free_rank_one := hΩ
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K]
+
+theorem isCurveOver_of_kaehlerRankOne (hΩ : KaehlerRankOne K (RatFunc K)) :
+    IsCurveOver K (RatFunc K) :=
+  IsCurveOver.of_finiteResidue_of_kaehlerRankOne hΩ
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+variable (K F)
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section Identity
+
+variable (K F F' : Type*) [Field K] [Field F] [Field F']
+  [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+  [Algebra.IsIntegral F F']
+
+def RamificationInertiaIdentity : Prop :=
+  ∀ (v : Place K F) (s : Finset (Place K F')), (∀ w : Place K F', w ∈ s ↔ w.restrict F = v) →
+    ∑ w ∈ s, (w.ramificationIndex F : ℤ) * (w.deg : ℤ)
+      = (Module.finrank F F' : ℤ) * (v.deg : ℤ)
+
+variable {K F F'}
+
+end Identity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace Divisor
+p2m_export "AlgebraicCurve.Divisor" "degree degree_single principal smul_def smul_apply degree_smul"
+p2m_open "AlgebraicCurve.Divisor"
+
+section Pullback
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+  [Algebra.IsIntegral F F']
+
+theorem degree_eq_sum_support (D : Divisor K F) :
+    degree D = ∑ v ∈ D.support, D v * (v.deg : ℤ) := by
+  rw [degree, Finsupp.liftAddHom_apply, Finsupp.sum]
+  rfl
+
+theorem degree_eq_finrank_mul_of_forall_eq_ord_algebraMap
+    (H : RamificationInertiaIdentity K F F') {g : F}
+    {D' : Divisor K F'} (hD' : ∀ w : Place K F', D' w = w.ord (algebraMap F F' g))
+    {D : Divisor K F} (hD : ∀ v : Place K F, D v = v.ord g) :
+    degree D' = (Module.finrank F F' : ℤ) * degree D := by
+  classical
+
+  have hmaps : ∀ w ∈ D'.support, w.restrict F ∈ D.support := by
+    intro w hw
+    rw [Finsupp.mem_support_iff] at hw ⊢
+    intro h0
+    apply hw
+    rw [hD' w, w.ord_restrict g, hD] at *
+    rw [h0, mul_zero]
+
+  have happ : ∀ w : Place K F', D' w = (w.ramificationIndex F : ℤ) * D (w.restrict F) := by
+    intro w
+    rw [hD' w, w.ord_restrict g, hD]
+
+  rw [degree_eq_sum_support, degree_eq_sum_support,
+    ← Finset.sum_fiberwise_of_maps_to hmaps fun w => D' w * (w.deg : ℤ), Finset.mul_sum]
+  refine Finset.sum_congr rfl fun v hv => ?_
+
+  have hfiber : ∀ w : Place K F',
+      w ∈ D'.support.filter (fun w => w.restrict F = v) ↔ w.restrict F = v := by
+    intro w
+    simp only [Finset.mem_filter, Finsupp.mem_support_iff, and_iff_right_iff_imp]
+    intro hw
+    rw [happ w, hw]
+    have he : 0 < w.ramificationIndex F := w.ramificationIndex_pos
+    have hv0 : D v ≠ 0 := Finsupp.mem_support_iff.mp hv
+    exact mul_ne_zero (by exact_mod_cast he.ne') hv0
+
+  calc
+    ∑ w ∈ D'.support with w.restrict F = v, D' w * (w.deg : ℤ)
+        = D v * ∑ w ∈ D'.support.filter (fun w => w.restrict F = v),
+            (w.ramificationIndex F : ℤ) * (w.deg : ℤ) := by
+          rw [Finset.mul_sum]
+          refine Finset.sum_congr rfl fun w hw => ?_
+          rw [happ w, ((hfiber w).mp hw)]
+          ring
+    _ = D v * ((Module.finrank F F' : ℤ) * (v.deg : ℤ)) := by
+          rw [H v _ hfiber]
+    _ = (Module.finrank F F' : ℤ) * (D v * (v.deg : ℤ)) := by ring
+
+end Pullback
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Galois
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+
+private theorem _root_.AlgebraicCurve.Place.ord_prod {ι : Type*} (v : Place K F') (s : Finset ι)
+    (g : ι → F') (hg : ∀ i ∈ s, g i ≠ 0) :
+    v.ord (∏ i ∈ s, g i) = ∑ i ∈ s, v.ord (g i) := by
+  classical
+  induction s using Finset.cons_induction with
+  | empty => simp
+  | cons i s hi ih =>
+    rw [Finset.prod_cons, Finset.sum_cons,
+      v.ord_mul (hg i (Finset.mem_cons_self i s))
+        (Finset.prod_ne_zero_iff.mpr fun j hj => hg j (Finset.mem_cons_of_mem hj)),
+      ih fun j hj => hg j (Finset.mem_cons_of_mem hj)]
+
+p2m_alias "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place.ord_prod" "AlgebraicCurve.Place.ord_prod"
+variable [FiniteDimensional F F']
+
+theorem sum_smul_apply_eq_ord_prod {f : F'} (hf : f ≠ 0)
+    {D : Divisor K F'} (hD : ∀ w : Place K F', D w = w.ord f) (w : Place K F') :
+    (∑ σ : F' ≃ₐ[F] F', (AlgEquiv.restrictScalars K σ) • D) w
+      = w.ord (∏ σ : F' ≃ₐ[F] F', σ f) := by
+  classical
+  rw [w.ord_prod _ _ fun σ _ => by simpa using hf, Finset.sum_apply']
+  refine Finset.sum_congr rfl fun σ _ => ?_
+
+  rw [smul_apply, hD]
+  have h := Place.ord_smul (AlgEquiv.restrictScalars K σ)
+    ((AlgEquiv.restrictScalars K σ)⁻¹ • w) f
+  rw [smul_inv_smul] at h
+  exact h.symm
+
+theorem degree_eq_zero_of_isGalois [IsGalois F F'] [HasPrincipalDivisors K F]
+    (H : RamificationInertiaIdentity K F F')
+    {f : F'} {D : Divisor K F'} (hD : ∀ w : Place K F', D w = w.ord f) :
+    degree D = 0 := by
+  classical
+
+  rcases eq_or_ne f 0 with rfl | hf
+  · have : D = 0 := Finsupp.ext fun w => by simpa using hD w
+    rw [this, _root_.map_zero]
+
+  set E : Divisor K F' := ∑ σ : F' ≃ₐ[F] F', (AlgEquiv.restrictScalars K σ) • D with hE
+
+  have hEord : ∀ w : Place K F', E w = w.ord (algebraMap F F' (Algebra.norm F f)) := by
+    intro w
+    rw [hE, sum_smul_apply_eq_ord_prod hf hD w, Algebra.norm_eq_prod_automorphisms F f]
+
+  have hnorm : Algebra.norm F f ≠ 0 := (Algebra.norm_ne_zero_iff (R := F)).mpr hf
+  obtain ⟨D₀, hD₀, hD₀deg⟩ := HasPrincipalDivisors.exists_divisor (K := K)
+    (Algebra.norm F f) hnorm
+
+  have hEdeg : degree E = 0 := by
+    rw [degree_eq_finrank_mul_of_forall_eq_ord_algebraMap H hEord hD₀, hD₀deg, mul_zero]
+
+  have hEdeg' : degree E = (Module.finrank F F' : ℤ) * degree D := by
+    rw [hE, map_sum]
+    simp only [degree_smul]
+    rw [Finset.sum_const, Finset.card_univ, nsmul_eq_mul]
+    congr 1
+    exact_mod_cast (Nat.card_eq_fintype_card (α := F' ≃ₐ[F] F')).symm.trans
+      (IsGalois.card_aut_eq_finrank F F')
+
+  have hpos : (0 : ℤ) < (Module.finrank F F' : ℤ) := by
+    exact_mod_cast Module.finrank_pos (R := F) (M := F')
+  rw [hEdeg] at hEdeg'
+  exact (mul_eq_zero.mp hEdeg'.symm).resolve_left hpos.ne'
+
+end Galois
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Descent
+
+variable {K F' F'' : Type*} [Field K] [Field F'] [Field F'']
+  [Algebra K F'] [Algebra K F''] [Algebra F' F''] [IsScalarTower K F' F'']
+  [Algebra.IsIntegral F' F''] [FiniteDimensional F' F'']
+
+end Descent
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Divisor
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable {K : Type*} [Field K] {F' : Type*} [Field F'] [Algebra K F']
+  [Algebra (RatFunc K) F'] [IsScalarTower K (RatFunc K) F']
+  [FiniteDimensional (RatFunc K) F'] [Algebra.IsSeparable (RatFunc K) F']
+
+def principalDivisorOf {f : F'} (hf : f ≠ 0) : Divisor K F' :=
+  ⟨(finite_setOf_ord_ne_zero_of_finiteDimensional hf).toFinset, fun w => w.ord f, fun w => by
+    simp [Set.Finite.mem_toFinset]⟩
+
+theorem degree_eq_zero_of_forall_eq_ord_of_isGalois [IsGalois (RatFunc K) F']
+    (H : RamificationInertiaIdentity K (RatFunc K) F')
+    {f : F'} {D : Divisor K F'} (hD : ∀ w : Place K F', D w = w.ord f) :
+    Divisor.degree D = 0 :=
+  Divisor.degree_eq_zero_of_isGalois H hD
+
+theorem hasPrincipalDivisors_of_isGalois [IsGalois (RatFunc K) F']
+    (H : RamificationInertiaIdentity K (RatFunc K) F') :
+    HasPrincipalDivisors K F' where
+  exists_divisor _ hf :=
+    ⟨principalDivisorOf hf, fun _ => rfl,
+      degree_eq_zero_of_forall_eq_ord_of_isGalois H fun _ => rfl⟩
+
+section GaloisClosure
+
+variable (F'' : Type*) [Field F''] [Algebra K F''] [Algebra (RatFunc K) F'']
+  [Algebra F' F''] [IsScalarTower K (RatFunc K) F''] [IsScalarTower K F' F'']
+  [FiniteDimensional (RatFunc K) F''] [Algebra.IsSeparable (RatFunc K) F'']
+  [IsGalois (RatFunc K) F''] [FiniteDimensional F' F'']
+
+end GaloisClosure
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+section SurjectivePlaceInfty
+
+variable (K) [DecidableEq (RatFunc K)]
+
+theorem surjective_algebraMap_residueField_placeInfty :
+    Function.Surjective (algebraMap K (placeInfty K).ResidueField) := by
+  intro z
+  obtain ⟨c, hc⟩ :=
+    (finrank_eq_one_iff_of_nonzero' (1 : (placeInfty K).ResidueField) one_ne_zero).mp
+      (show Module.finrank K (placeInfty K).ResidueField = 1 from deg_placeInfty K) z
+  exact ⟨c, by rw [Algebra.algebraMap_eq_smul_one]; exact hc⟩
+
+end SurjectivePlaceInfty
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section NamedRow
+
+variable (K F)
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+
+def CanonicalLocalResidueKDifferentialCoordIndep : Prop :=
+  ∀ (v : Place K F) (π' : F), v.ord π' = 1 →
+    ∀ (R : v.CanonicalLocalResidueDataK) (n : ℕ), 1 ≤ n →
+      R.res (v.differentialCoeff (KaehlerDifferential.D K F π') * ((π') ^ (n + 1))⁻¹) = 0
+
+end NamedRow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section SATGate
+
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+
+end SATGate
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section XInvCoordinate
+
+variable (K) [DecidableEq (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem ratFuncX_inv_pow_inv (m : ℕ) :
+    (((RatFunc.X : RatFunc K)⁻¹) ^ m)⁻¹ = (RatFunc.X : RatFunc K) ^ m := by
+  rw [inv_pow, inv_inv]
+
+theorem X_pow_mul_differentialCoeff_D_X_eq_neg (n : ℕ) :
+    (RatFunc.X : RatFunc K) ^ n
+        * (placeInfty K).differentialCoeff (KaehlerDifferential.D K (RatFunc K) RatFunc.X)
+      = -((placeInfty K).differentialCoeff
+            (KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹)
+          * (((RatFunc.X : RatFunc K)⁻¹) ^ (n + 2))⁻¹) := by
+  rw [ratFuncX_inv_pow_inv, differentialCoeff_placeInfty_D_X_eq K]
+  ring
+
+end XInvCoordinate
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Bridge
+
+variable (K) [DecidableEq (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem canonicalLocalResidueDataK_res_X_pow_mul_D_X_of_coordIndep
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (R : (placeInfty K).CanonicalLocalResidueDataK) (n : ℕ) :
+    R.res ((RatFunc.X : RatFunc K) ^ n
+        * (placeInfty K).differentialCoeff
+            (KaehlerDifferential.D K (RatFunc K) RatFunc.X)) = 0 := by
+  rw [X_pow_mul_differentialCoeff_D_X_eq_neg K n, _root_.map_neg, neg_eq_zero]
+  exact hcoord (placeInfty K) (RatFunc.X : RatFunc K)⁻¹ (ord_placeInfty_X_inv K) R (n + 1)
+    (by omega)
+
+theorem canonicalLocalResidueDataK_kaehlerResidueTerm_X_pow_of_coordIndep
+    (_hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (R : (placeInfty K).CanonicalLocalResidueDataK) (n : ℕ) :
+    Algebra.trace K (placeInfty K).ResidueField
+        (R.res (diagonalHom K (RatFunc K) ((RatFunc.X : RatFunc K) ^ n) (placeInfty K)
+          * (placeInfty K).differentialCoeff
+              (KaehlerDifferential.D K (RatFunc K) RatFunc.X))) = 0 := by
+  rw [diagonalHom_apply,
+    canonicalLocalResidueDataK_res_X_pow_mul_D_X_of_coordIndep K hcoord R n, _root_.map_zero]
+
+end Bridge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section IntegralRecursion
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end IntegralRecursion
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+p2m_open "CongruenceSubgroup P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.CongruenceSubgroup IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section EftEngine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.finite_kaehler_of_essFiniteType [Algebra.EssFiniteType K v.toValuationSubring] :
+    Module.Finite v.toValuationSubring Ω[v.toValuationSubring⁄K] :=
+  KaehlerDifferential.finite K v.toValuationSubring
+
+p2m_export "AlgebraicCurve.Place" "finite_kaehler_of_essFiniteType"
+end EftEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def ValSubringEssFiniteType : Prop :=
+  ∀ v : Place K F, Algebra.EssFiniteType K v.toValuationSubring
+
+variable {K F}
+
+theorem valSubringKaehlerFinite_of_essFiniteType
+    (heft : ValSubringEssFiniteType K F) :
+    ValSubringKaehlerFinite K F := fun v =>
+  haveI := heft v
+  v.finite_kaehler_of_essFiniteType
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option maxHeartbeats 6400000
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+open ModularCurve.Lg37 ModularCurve.Mp72a102T3 Mp72a103T2 Mp72a102T1
+open ModularCurve.KwNo6Section
+
+namespace ModularCurve
+namespace KwNo6Pin
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem aCoeff_zero (v : Place K F) (S : Lg37CompletionSection v)
+    (x : lg37_completion v) :
+    aCoeff v S 0 x = lg37_residueHat v x := by
+  have ha := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S 1 x)
+  set a := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S 1 x) with ha_def
+  rw [Finset.sum_range_one, pow_zero, mul_one] at ha
+  have hres : lg37_residueHat v (x - S.lift (a 0)) = lg37_residueHat v 0 :=
+    mp72a102_t3_residueHat_congr_of_depth_one v (by rw [ha, _root_.map_zero])
+  rw [map_sub, S.residueHat_lift, _root_.map_zero, sub_eq_zero] at hres
+  simp only [aCoeff, ← ha_def]
+  exact hres.symm
+
+theorem aCoeff_add (v : Place K F) (S : Lg37CompletionSection v) (m : ℕ)
+    (x y : lg37_completion v) :
+    aCoeff v S m (x + y) = aCoeff v S m x + aCoeff v S m y := by
+  have hx := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (m + 1) x)
+  have hy := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (m + 1) y)
+  have hxy := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (m + 1) (x + y))
+  set ax := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (m + 1) x) with hax_def
+  set ay := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (m + 1) y) with hay_def
+  set axy := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (m + 1) (x + y))
+    with haxy_def
+  have hsum : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (m + 1)
+      ((x + y) - ∑ i ∈ Finset.range (m + 1), S.lift ((fun i => ax i + ay i) i)
+        * algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring ^ i) = 0 := by
+    have e : (x + y) - ∑ i ∈ Finset.range (m + 1), S.lift (ax i + ay i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i
+        = (x - ∑ i ∈ Finset.range (m + 1), S.lift (ax i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i)
+          + (y - ∑ i ∈ Finset.range (m + 1), S.lift (ay i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i) := by
+      rw [Finset.sum_congr rfl (fun i _ => by rw [map_add, add_mul]),
+        Finset.sum_add_distrib]
+      ring
+    rw [e, mp72a102_t3_evalDepth_add, hx, hy, add_zero]
+  have key : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (m + 1)
+      (∑ i ∈ Finset.range (m + 1), S.lift ((fun i => (ax i + ay i) - axy i) i)
+        * algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring ^ i) = 0 := by
+    have e1 : (∑ i ∈ Finset.range (m + 1), S.lift ((ax i + ay i) - axy i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i)
+        = ((x + y) - ∑ i ∈ Finset.range (m + 1), S.lift (axy i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i)
+          - ((x + y) - ∑ i ∈ Finset.range (m + 1), S.lift (ax i + ay i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i) := by
+      rw [Finset.sum_congr rfl (fun i _ => by rw [map_sub, sub_mul]),
+        Finset.sum_sub_distrib]
+      ring
+    rw [e1, map_sub, hxy, hsum, sub_zero]
+  have hzero := mp72a103_t2_taylor_coeff_eq_zero_of_depth v S (m + 1)
+    (fun i => (ax i + ay i) - axy i) key m (Nat.lt_succ_self m)
+  have han : axy m = ax m + ay m := (sub_eq_zero.mp hzero).symm
+  simp only [aCoeff, ← hax_def, ← hay_def, ← haxy_def]
+  exact han
+
+theorem aCoeff_smul (v : Place K F) (S : Lg37CompletionSection v) (m : ℕ) (c : K)
+    (x : lg37_completion v) :
+    aCoeff v S m (algebraMap K (lg37_completion v) c * x)
+      = algebraMap K v.ResidueField c * aCoeff v S m x := by
+  have hx := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (m + 1) x)
+  have hcx := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (m + 1)
+    (algebraMap K (lg37_completion v) c * x))
+  set ax := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (m + 1) x) with hax_def
+  set acx := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (m + 1)
+    (algebraMap K (lg37_completion v) c * x)) with hacx_def
+  have hsmul : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (m + 1)
+      ((algebraMap K (lg37_completion v) c * x)
+        - ∑ i ∈ Finset.range (m + 1),
+            S.lift ((fun i => algebraMap K v.ResidueField c * ax i) i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i) = 0 := by
+    have e : (algebraMap K (lg37_completion v) c * x)
+          - ∑ i ∈ Finset.range (m + 1), S.lift (algebraMap K v.ResidueField c * ax i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i
+        = algebraMap K (lg37_completion v) c
+          * (x - ∑ i ∈ Finset.range (m + 1), S.lift (ax i)
+              * algebraMap v.toValuationSubring (lg37_completion v)
+                  v.uniformizerSubring ^ i) := by
+      rw [mul_sub, Finset.mul_sum]
+      congr 1
+      refine Finset.sum_congr rfl (fun i _ => ?_)
+      have hlift : S.lift (algebraMap K v.ResidueField c * ax i)
+          = algebraMap K (lg37_completion v) c * S.lift (ax i) := by
+        rw [← Algebra.smul_def c (ax i), map_smul, Algebra.smul_def]
+      rw [hlift, mul_assoc]
+    rw [e, mp72a102_t3_evalDepth_mul, hx, mul_zero]
+  have key : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (m + 1)
+      (∑ i ∈ Finset.range (m + 1),
+          S.lift ((fun i => algebraMap K v.ResidueField c * ax i - acx i) i)
+        * algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring ^ i) = 0 := by
+    have e1 : (∑ i ∈ Finset.range (m + 1),
+            S.lift (algebraMap K v.ResidueField c * ax i - acx i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i)
+        = ((algebraMap K (lg37_completion v) c * x)
+            - ∑ i ∈ Finset.range (m + 1), S.lift (acx i)
+              * algebraMap v.toValuationSubring (lg37_completion v)
+                  v.uniformizerSubring ^ i)
+          - ((algebraMap K (lg37_completion v) c * x)
+            - ∑ i ∈ Finset.range (m + 1), S.lift (algebraMap K v.ResidueField c * ax i)
+              * algebraMap v.toValuationSubring (lg37_completion v)
+                  v.uniformizerSubring ^ i) := by
+      rw [Finset.sum_congr rfl (fun i _ => by rw [map_sub, sub_mul]),
+        Finset.sum_sub_distrib]
+      ring
+    rw [e1, map_sub, hcx, hsmul, sub_zero]
+  have hzero := mp72a103_t2_taylor_coeff_eq_zero_of_depth v S (m + 1)
+    (fun i => algebraMap K v.ResidueField c * ax i - acx i) key m (Nat.lt_succ_self m)
+  have han : acx m = algebraMap K v.ResidueField c * ax m := (sub_eq_zero.mp hzero).symm
+  simp only [aCoeff, ← hax_def, ← hacx_def]
+  exact han
+
+theorem aCoeff_shift (v : Place K F) (S : Lg37CompletionSection v) (n : ℕ)
+    (x : lg37_completion v) :
+    aCoeff v S (n + 1)
+        (algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * x)
+      = aCoeff v S n x := by
+  have ha := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (n + 1) x)
+  have hpx := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (n + 2)
+    (algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * x))
+  set a := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (n + 1) x) with ha_def
+  set b := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (n + 2)
+    (algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * x))
+    with hb_def
+
+  set c : ℕ → v.ResidueField :=
+    fun i => Nat.rec (motive := fun _ => v.ResidueField) 0 (fun j _ => a j) i with hc_def
+
+  have hshift : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 2)
+      ((algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * x)
+        - ∑ i ∈ Finset.range (n + 2), S.lift (c i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i) = 0 := by
+    have hmul := mp72a102_t3_evalₐ_succ_mul_eq_zero (maximalIdeal v.toValuationSubring)
+      v.uniformizerSubring_mem_maximalIdeal ha
+    have e : (algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * x)
+          - ∑ i ∈ Finset.range (n + 2), S.lift (c i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i
+        = algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+          * (x - ∑ i ∈ Finset.range (n + 1), S.lift (a i)
+              * algebraMap v.toValuationSubring (lg37_completion v)
+                  v.uniformizerSubring ^ i) := by
+      have hc0 : c 0 = 0 := rfl
+      have hcs : ∀ i, c (i + 1) = a i := fun _ => rfl
+      rw [Finset.sum_range_succ', hc0, _root_.map_zero, zero_mul, add_zero, mul_sub, Finset.mul_sum]
+      congr 1
+      refine Finset.sum_congr rfl (fun i _ => ?_)
+      rw [hcs i, pow_succ]
+      ring
+    rw [e]
+    exact hmul
+
+  have key : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 2)
+      (∑ i ∈ Finset.range (n + 2), S.lift ((fun i => c i - b i) i)
+        * algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring ^ i) = 0 := by
+    have e1 : (∑ i ∈ Finset.range (n + 2), S.lift (c i - b i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i)
+        = ((algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * x)
+            - ∑ i ∈ Finset.range (n + 2), S.lift (b i)
+              * algebraMap v.toValuationSubring (lg37_completion v)
+                  v.uniformizerSubring ^ i)
+          - ((algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * x)
+            - ∑ i ∈ Finset.range (n + 2), S.lift (c i)
+              * algebraMap v.toValuationSubring (lg37_completion v)
+                  v.uniformizerSubring ^ i) := by
+      rw [Finset.sum_congr rfl (fun i _ => by rw [map_sub, sub_mul]),
+        Finset.sum_sub_distrib]
+      ring
+    rw [e1, map_sub, hpx, hshift, sub_zero]
+  have hzero := mp72a103_t2_taylor_coeff_eq_zero_of_depth v S (n + 2)
+    (fun i => c i - b i) key (n + 1) (Nat.lt_succ_self (n + 1))
+  have hcn : c (n + 1) = a n := rfl
+  have hbn : b (n + 1) = a n := by
+    have := sub_eq_zero.mp hzero
+    rw [hcn] at this
+    exact this.symm
+  simp only [aCoeff, ← ha_def, ← hb_def]
+  exact hbn
+
+theorem aCoeff_shift_pow (v : Place K F) (S : Lg37CompletionSection v) (n k : ℕ)
+    (x : lg37_completion v) :
+    aCoeff v S (n + k)
+        ((algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring) ^ k
+          * x)
+      = aCoeff v S n x := by
+  induction k with
+  | zero => simp
+  | succ k ih =>
+    have hstep : (algebraMap v.toValuationSubring (lg37_completion v)
+          v.uniformizerSubring) ^ (k + 1) * x
+        = algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+          * ((algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring) ^ k * x) := by
+      rw [pow_succ]; ring
+    rw [show n + (k + 1) = (n + k) + 1 from by omega, hstep, aCoeff_shift, ih]
+
+theorem aCoeff_one_eq_zero (v : Place K F) (S : Lg37CompletionSection v)
+    {n : ℕ} (hn : 1 ≤ n) : aCoeff v S n 1 = 0 := by
+  have hc := Classical.choose_spec (mp72a102_t3_sigma_taylor_expansion v S (n + 1) 1)
+  set cc := Classical.choose (mp72a102_t3_sigma_taylor_expansion v S (n + 1) 1) with hcc_def
+
+  set e : ℕ → v.ResidueField := fun i => if i = 0 then 1 else 0 with he_def
+  have hesum : (∑ i ∈ Finset.range (n + 1), S.lift (e i)
+      * algebraMap v.toValuationSubring (lg37_completion v)
+          v.uniformizerSubring ^ i) = 1 := by
+    rw [Finset.sum_eq_single 0]
+    · simp [he_def]
+    · intro i _ hi; simp [he_def, hi]
+    · intro h; exact absurd (Finset.mem_range.mpr (by omega)) h
+  have hevalid : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 1)
+      ((1 : lg37_completion v) - ∑ i ∈ Finset.range (n + 1), S.lift (e i)
+        * algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring ^ i) = 0 := by
+    rw [hesum, sub_self, _root_.map_zero]
+  have key : AdicCompletion.evalₐ (maximalIdeal v.toValuationSubring) (n + 1)
+      (∑ i ∈ Finset.range (n + 1), S.lift ((fun i => e i - cc i) i)
+        * algebraMap v.toValuationSubring (lg37_completion v)
+            v.uniformizerSubring ^ i) = 0 := by
+    have e1 : (∑ i ∈ Finset.range (n + 1), S.lift (e i - cc i)
+          * algebraMap v.toValuationSubring (lg37_completion v)
+              v.uniformizerSubring ^ i)
+        = ((1 : lg37_completion v) - ∑ i ∈ Finset.range (n + 1), S.lift (cc i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i)
+          - ((1 : lg37_completion v) - ∑ i ∈ Finset.range (n + 1), S.lift (e i)
+            * algebraMap v.toValuationSubring (lg37_completion v)
+                v.uniformizerSubring ^ i) := by
+      rw [Finset.sum_congr rfl (fun i _ => by rw [map_sub, sub_mul]),
+        Finset.sum_sub_distrib]
+      ring
+    rw [e1, map_sub, hc, hevalid, sub_zero]
+  have hzero := mp72a103_t2_taylor_coeff_eq_zero_of_depth v S (n + 1)
+    (fun i => e i - cc i) key n (Nat.lt_succ_self n)
+  have hen : e n = 0 := by simp [he_def, Nat.one_le_iff_ne_zero.mp hn]
+  have : e n - cc n = 0 := hzero
+  rw [hen, zero_sub, neg_eq_zero] at this
+  simp only [aCoeff, ← hcc_def]
+  exact this
+
+theorem clearPow_mem (v : Place K F) (f : F) {N : ℕ} (hN : (-v.ord f).toNat ≤ N) :
+    v.uniformizer ^ (N + 1) * f ∈ v.toValuationSubring := by
+  rcases eq_or_ne f 0 with rfl | hf0
+  · rw [mul_zero]; exact zero_mem _
+  · refine (v.mem_iff_ord_nonneg (mul_ne_zero (v.uniformizer_pow_ne_zero _) hf0)).mpr ?_
+    rw [v.ord_mul (v.uniformizer_pow_ne_zero _) hf0, v.ord_uniformizer_pow]
+    have h := Int.self_le_toNat (-v.ord f)
+    have hNc : ((-v.ord f).toNat : ℤ) ≤ (N : ℤ) := by exact_mod_cast hN
+    omega
+
+noncomputable def clearedHat (v : Place K F) (f : F) {N : ℕ} (hN : (-v.ord f).toNat ≤ N) :
+    lg37_completion v :=
+  algebraMap v.toValuationSubring (lg37_completion v)
+    ⟨v.uniformizer ^ (N + 1) * f, clearPow_mem v f hN⟩
+
+noncomputable def resStar (v : Place K F) (S : Lg37CompletionSection v) (f : F) :
+    v.ResidueField :=
+  aCoeff v S ((-v.ord f).toNat) (clearedHat v f (le_refl _))
+
+theorem aCoeff_clearedHat_of_le (v : Place K F) (S : Lg37CompletionSection v) (f : F)
+    {N : ℕ} (hN : (-v.ord f).toNat ≤ N) :
+    aCoeff v S N (clearedHat v f hN) = resStar v S f := by
+  obtain ⟨k, rfl⟩ := Nat.exists_eq_add_of_le hN
+  unfold clearedHat resStar
+  have hfac : (⟨v.uniformizer ^ (((-v.ord f).toNat + k) + 1) * f,
+        clearPow_mem v f hN⟩ : v.toValuationSubring)
+      = v.uniformizerSubring ^ k
+        * ⟨v.uniformizer ^ ((-v.ord f).toNat + 1) * f, clearPow_mem v f (le_refl _)⟩ := by
+    apply Subtype.ext
+    push_cast [v.coe_uniformizerSubring]
+    ring
+  rw [hfac, map_mul, map_pow]
+  exact aCoeff_shift_pow v S ((-v.ord f).toNat) k _
+
+theorem resStar_add (v : Place K F) (S : Lg37CompletionSection v) (f g : F) :
+    resStar v S (f + g) = resStar v S f + resStar v S g := by
+  set N := (-v.ord f).toNat ⊔ (-v.ord g).toNat ⊔ (-v.ord (f + g)).toNat with hN
+  have hf : (-v.ord f).toNat ≤ N := le_trans le_sup_left le_sup_left
+  have hg : (-v.ord g).toNat ≤ N := le_trans le_sup_right le_sup_left
+  have hfg : (-v.ord (f + g)).toNat ≤ N := le_sup_right
+  rw [← aCoeff_clearedHat_of_le v S f hf, ← aCoeff_clearedHat_of_le v S g hg,
+    ← aCoeff_clearedHat_of_le v S (f + g) hfg, ← aCoeff_add]
+  congr 1
+  unfold clearedHat
+  rw [← map_add]
+  congr 1
+  apply Subtype.ext
+  push_cast
+  ring
+
+theorem resStar_smul (v : Place K F) (S : Lg37CompletionSection v) (c : K) (f : F) :
+    resStar v S (c • f) = c • resStar v S f := by
+  set N := (-v.ord (c • f)).toNat ⊔ (-v.ord f).toNat with hN
+  have hcf : (-v.ord (c • f)).toNat ≤ N := le_sup_left
+  have hf : (-v.ord f).toNat ≤ N := le_sup_right
+  rw [← aCoeff_clearedHat_of_le v S (c • f) hcf, ← aCoeff_clearedHat_of_le v S f hf,
+    Algebra.smul_def c (aCoeff v S N (clearedHat v f hf)), ← aCoeff_smul]
+  congr 1
+  unfold clearedHat
+  rw [IsScalarTower.algebraMap_apply K v.toValuationSubring (lg37_completion v) c, ← map_mul]
+  congr 1
+  apply Subtype.ext
+  push_cast [v.coe_algebraMap, Algebra.smul_def]
+  ring
+
+noncomputable def resStarₗ (v : Place K F) (S : Lg37CompletionSection v) :
+    F →ₗ[K] v.ResidueField where
+  toFun := resStar v S
+  map_add' := resStar_add v S
+  map_smul' c f := by rw [RingHom.id_apply]; exact resStar_smul v S c f
+
+theorem resStar_simplePole (v : Place K F) (S : Lg37CompletionSection v) (f : F)
+    (hf : v.uniformizer * f ∈ v.toValuationSubring) :
+    resStar v S f = IsLocalRing.residue _ ⟨v.uniformizer * f, hf⟩ := by
+  have hM : (-v.ord f).toNat ≤ 1 := by
+    rcases eq_or_ne f 0 with rfl | hf0
+    · rw [v.ord_zero]; simp
+    · have hge : (0 : ℤ) ≤ v.ord (v.uniformizer * f) :=
+        (v.mem_iff_ord_nonneg (mul_ne_zero v.uniformizer_ne_zero hf0)).mp hf
+      rw [v.ord_mul v.uniformizer_ne_zero hf0, v.ord_uniformizer] at hge
+      have := Int.self_le_toNat (-v.ord f)
+      omega
+  rw [← aCoeff_clearedHat_of_le v S f hM]
+  unfold clearedHat
+  have hfac : (⟨v.uniformizer ^ (1 + 1) * f, clearPow_mem v f hM⟩ : v.toValuationSubring)
+      = v.uniformizerSubring * ⟨v.uniformizer * f, hf⟩ := by
+    apply Subtype.ext
+    push_cast [v.coe_uniformizerSubring]
+    ring
+  rw [hfac, map_mul, aCoeff_shift, aCoeff_zero, lg37_residueHat_algebraMap]
+
+theorem resStar_of_mem (v : Place K F) (S : Lg37CompletionSection v) {f : F}
+    (hf : f ∈ v.toValuationSubring) : resStar v S f = 0 := by
+  rw [resStar_simplePole v S f (mul_mem v.uniformizer_mem hf), IsLocalRing.residue_eq_zero_iff]
+  have : (⟨v.uniformizer * f, mul_mem v.uniformizer_mem hf⟩ : v.toValuationSubring)
+      = v.uniformizerSubring * ⟨f, hf⟩ := Subtype.ext rfl
+  rw [this]
+  exact Ideal.mul_mem_right _ _ v.uniformizerSubring_mem_maximalIdeal
+
+theorem resStar_higherPoleMonomial (v : Place K F) (S : Lg37CompletionSection v)
+    {n : ℕ} (hn : 1 ≤ n) : resStar v S (v.uniformizer ^ (n + 1))⁻¹ = 0 := by
+  have hord : v.ord (v.uniformizer ^ (n + 1))⁻¹ = -((n : ℤ) + 1) := by
+    rw [v.ord_inv, v.ord_uniformizer_pow]; push_cast; ring
+  have hM : (-v.ord (v.uniformizer ^ (n + 1))⁻¹).toNat = n + 1 := by
+    rw [hord]; simp
+  have hle : (-v.ord (v.uniformizer ^ (n + 1))⁻¹).toNat ≤ n + 1 := le_of_eq hM
+  rw [← aCoeff_clearedHat_of_le v S (v.uniformizer ^ (n + 1))⁻¹ hle]
+  unfold clearedHat
+  have hfac : (⟨v.uniformizer ^ ((n + 1) + 1) * (v.uniformizer ^ (n + 1))⁻¹,
+        clearPow_mem v (v.uniformizer ^ (n + 1))⁻¹ hle⟩ : v.toValuationSubring)
+      = v.uniformizerSubring := by
+    apply Subtype.ext
+    push_cast [v.coe_uniformizerSubring]
+    rw [pow_succ, mul_right_comm, mul_inv_cancel₀ (v.uniformizer_pow_ne_zero (n + 1)), one_mul]
+  rw [hfac]
+  have : algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring
+      = algebraMap v.toValuationSubring (lg37_completion v) v.uniformizerSubring * 1 := by
+    rw [mul_one]
+  rw [this, aCoeff_shift, aCoeff_one_eq_zero v S hn]
+
+noncomputable def canonicalLocalResidueDataKStar (v : Place K F)
+    (S : Lg37CompletionSection v) : v.CanonicalLocalResidueDataK where
+  res := resStarₗ v S
+  res_of_mem _f hf := resStar_of_mem v S hf
+  res_simplePole f hf := resStar_simplePole v S f hf
+  res_higherPoleMonomial _n hn := resStar_higherPoleMonomial v S hn
+
+section WitnessW
+variable {v : Place K F} {ℓ : v.toValuationSubring}
+  (hℓ : IsLocalRing.residue v.toValuationSubring ℓ ∉ Set.range (algebraMap K v.ResidueField))
+include hℓ
+
+end WitnessW
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end ModularCurve.KwNo6Pin
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section WronskianBound
+
+variable {K : Type*} [Field K]
+
+theorem natDegree_numDenomWronskian_lt {n d : K[X]} (hn : n ≠ 0) (hd : d ≠ 0)
+    (hW : n.derivative * d - n * d.derivative ≠ 0) :
+    (n.derivative * d - n * d.derivative).natDegree < n.natDegree + d.natDegree := by
+  have hdeg : (n.derivative * d - n * d.derivative).degree < (n * d).degree := by
+    rw [Polynomial.degree_mul]
+    refine lt_of_le_of_lt (Polynomial.degree_sub_le _ _) (max_lt ?_ ?_)
+    · refine lt_of_le_of_lt (Polynomial.degree_mul_le _ _) ?_
+      rw [WithBot.add_lt_add_iff_right (Polynomial.degree_ne_bot.mpr hd)]
+      exact Polynomial.degree_derivative_lt hn
+    · refine lt_of_le_of_lt (Polynomial.degree_mul_le _ _) ?_
+      rw [WithBot.add_lt_add_iff_left (Polynomial.degree_ne_bot.mpr hn)]
+      exact Polynomial.degree_derivative_lt hd
+  have h2 := Polynomial.natDegree_lt_natDegree hW hdeg
+  rwa [Polynomial.natDegree_mul hn hd] at h2
+
+end WronskianBound
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section DXCoeff
+
+variable (K : Type*) [Field K]
+
+def ratFuncDXCoeff (f : RatFunc K) : RatFunc K :=
+  algebraMap K[X] (RatFunc K) (f.num.derivative * f.denom - f.num * f.denom.derivative)
+    / (algebraMap K[X] (RatFunc K) f.denom) ^ 2
+
+theorem ratFuncDXCoeff_def (f : RatFunc K) :
+    ratFuncDXCoeff K f
+      = algebraMap K[X] (RatFunc K) (f.num.derivative * f.denom - f.num * f.denom.derivative)
+        / (algebraMap K[X] (RatFunc K) f.denom) ^ 2 := rfl
+
+theorem D_eq_ratFuncDXCoeff_smul_dX (f : RatFunc K) :
+    KaehlerDifferential.D K (RatFunc K) f = ratFuncDXCoeff K f • dX K := by
+  have hd : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    RatFunc.algebraMap_ne_zero f.denom_ne_zero
+  rw [ratFuncDXCoeff_def, div_eq_mul_inv, mul_comm, mul_smul, ← denom_sq_smul_D_eq K f,
+    smul_smul, inv_mul_cancel₀ (pow_ne_zero 2 hd), one_smul]
+
+theorem wronskian_ne_zero_of_ratFuncDXCoeff_ne_zero {f : RatFunc K}
+    (h : ratFuncDXCoeff K f ≠ 0) :
+    f.num.derivative * f.denom - f.num * f.denom.derivative ≠ 0 := by
+  intro h0
+  exact h (by rw [ratFuncDXCoeff_def, h0, _root_.map_zero, zero_div])
+
+end DXCoeff
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section FinitePlaces
+
+variable {K : Type*} [Field K]
+variable {w : HeightOneSpectrum K[X]}
+
+local notation "v" => Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w
+
+theorem ord_algebraMap_denom_eq_zero_of_ord_eq_one {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) {f : RatFunc K}
+    (hf : f ≠ 0) (hord : (v).ord f = 1) :
+    (v).ord (algebraMap K[X] (RatFunc K) f.denom) = 0 := by
+  by_contra hne
+
+  have hpd : p ∣ f.denom := by
+    rw [← Ideal.mem_span_singleton, ← hwp]
+    exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+      f.denom_ne_zero).mp hne
+  have hpn : ¬ p ∣ f.num := fun hpn =>
+    hp.not_isUnit (f.isCoprime_num_denom.isUnit_of_dvd' hpn hpd)
+  have hordn : (v).ord (algebraMap K[X] (RatFunc K) f.num) = 0 := by
+    by_contra h
+    exact hpn (by
+      rw [← Ideal.mem_span_singleton, ← hwp]
+      exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+        (RatFunc.num_ne_zero hf)).mp h)
+  have hordd : 0 < (v).ord (algebraMap K[X] (RatFunc K) f.denom) :=
+    lt_of_le_of_ne ((v).ord_nonneg_of_mem (algebraMap_mem_ofHeightOneSpectrum K w _))
+      (Ne.symm hne)
+
+  have hnum0 : algebraMap K[X] (RatFunc K) f.num ≠ 0 :=
+    RatFunc.algebraMap_ne_zero (RatFunc.num_ne_zero hf)
+  have hden0 : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    RatFunc.algebraMap_ne_zero f.denom_ne_zero
+  rw [← f.num_div_denom, div_eq_mul_inv, (v).ord_mul hnum0 (inv_ne_zero hden0),
+    (v).ord_inv, hordn] at hord
+  omega
+
+theorem ord_algebraMap_num_eq_one_of_ord_eq_one {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) {f : RatFunc K}
+    (hf : f ≠ 0) (hord : (v).ord f = 1) :
+    (v).ord (algebraMap K[X] (RatFunc K) f.num) = 1 := by
+  have hnum0 : algebraMap K[X] (RatFunc K) f.num ≠ 0 :=
+    RatFunc.algebraMap_ne_zero (RatFunc.num_ne_zero hf)
+  have hden0 : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    RatFunc.algebraMap_ne_zero f.denom_ne_zero
+  have h := hord
+  rw [← f.num_div_denom, div_eq_mul_inv, (v).ord_mul hnum0 (inv_ne_zero hden0),
+    (v).ord_inv, ord_algebraMap_denom_eq_zero_of_ord_eq_one hp hwp hf hord] at h
+  omega
+
+theorem not_dvd_wronskian_of_ord_eq_one {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) (hsep : p.Separable)
+    {f : RatFunc K} (hf : f ≠ 0) (hord : (v).ord f = 1) :
+    ¬ p ∣ (f.num.derivative * f.denom - f.num * f.denom.derivative) := by
+  have hpn' : ¬ p ∣ f.num.derivative :=
+    not_dvd_derivative_of_ord_eq_one hp hwp hsep (RatFunc.num_ne_zero hf)
+      (ord_algebraMap_num_eq_one_of_ord_eq_one hp hwp hf hord)
+  have hpd : ¬ p ∣ f.denom := fun hpd => by
+    have h0 := ord_algebraMap_denom_eq_zero_of_ord_eq_one hp hwp hf hord
+    rw [← Ideal.mem_span_singleton, ← hwp] at hpd
+    exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+      f.denom_ne_zero).mpr hpd h0
+  have hpn : p ∣ f.num := by
+    rw [← Ideal.mem_span_singleton, ← hwp]
+    refine (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+      (RatFunc.num_ne_zero hf)).mp ?_
+    rw [ord_algebraMap_num_eq_one_of_ord_eq_one hp hwp hf hord]
+    exact one_ne_zero
+  intro hdvd
+
+  have hpnd' : p ∣ f.num * f.denom.derivative := hpn.mul_right _
+  have hpn'd : p ∣ f.num.derivative * f.denom := by
+    have h1 := dvd_add hdvd hpnd'
+    rwa [sub_add_cancel] at h1
+  rcases hp.prime.dvd_mul.mp hpn'd with h | h
+  · exact hpn' h
+  · exact hpd h
+
+theorem ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) (hsep : p.Separable)
+    {f : RatFunc K} (hf : f ≠ 0) (hord : (v).ord f = 1) :
+    ratFuncDXCoeff K f ≠ 0 ∧ (v).ord (ratFuncDXCoeff K f) = 0 := by
+  have hW : ¬ p ∣ (f.num.derivative * f.denom - f.num * f.denom.derivative) :=
+    not_dvd_wronskian_of_ord_eq_one hp hwp hsep hf hord
+  have hξ0 : f.num.derivative * f.denom - f.num * f.denom.derivative ≠ 0 := fun h =>
+    hW (h ▸ dvd_zero p)
+  have hd0 : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    RatFunc.algebraMap_ne_zero f.denom_ne_zero
+  have hξ0' : algebraMap K[X] (RatFunc K)
+      (f.num.derivative * f.denom - f.num * f.denom.derivative) ≠ 0 :=
+    RatFunc.algebraMap_ne_zero hξ0
+
+  have hordξ : (v).ord (algebraMap K[X] (RatFunc K)
+      (f.num.derivative * f.denom - f.num * f.denom.derivative)) = 0 := by
+    by_contra h
+    refine hW ?_
+    rw [← Ideal.mem_span_singleton, ← hwp]
+    exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w hξ0).mp h
+  refine ⟨div_ne_zero hξ0' (pow_ne_zero 2 hd0), ?_⟩
+  rw [ratFuncDXCoeff_def, div_eq_mul_inv,
+    (v).ord_mul hξ0' (inv_ne_zero (pow_ne_zero 2 hd0)), (v).ord_inv, hordξ,
+    ← zpow_natCast, (v).ord_zpow,
+    ord_algebraMap_denom_eq_zero_of_ord_eq_one hp hwp hf hord]
+  ring
+
+end FinitePlaces
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section PlaceInftySide
+
+variable {K : Type*} [Field K] [DecidableEq (RatFunc K)]
+
+theorem ord_placeInfty_ratFuncDXCoeff_ge {g : RatFunc K} (hg : g ≠ 0)
+    (hW : g.num.derivative * g.denom - g.num * g.denom.derivative ≠ 0) :
+    (placeInfty K).ord g + 1 ≤ (placeInfty K).ord (ratFuncDXCoeff K g) := by
+  have hn0 : g.num ≠ 0 := RatFunc.num_ne_zero hg
+  have hd0 : g.denom ≠ 0 := g.denom_ne_zero
+  have hW' : algebraMap K[X] (RatFunc K)
+      (g.num.derivative * g.denom - g.num * g.denom.derivative) ≠ 0 :=
+    RatFunc.algebraMap_ne_zero hW
+  have hd' : algebraMap K[X] (RatFunc K) g.denom ≠ 0 := RatFunc.algebraMap_ne_zero hd0
+
+  have hdeg : (g.num.derivative * g.denom - g.num * g.denom.derivative).natDegree
+      < g.num.natDegree + g.denom.natDegree :=
+    natDegree_numDenomWronskian_lt hn0 hd0 hW
+
+  have hcoeff : (placeInfty K).ord (ratFuncDXCoeff K g)
+      = 2 * (g.denom.natDegree : ℤ)
+        - (g.num.derivative * g.denom - g.num * g.denom.derivative).natDegree := by
+    rw [ratFuncDXCoeff_def, ord_placeInfty (div_ne_zero hW' (pow_ne_zero 2 hd')),
+      RatFunc.intDegree_div hW' (pow_ne_zero 2 hd'), RatFunc.intDegree_polynomial,
+      ← map_pow, RatFunc.intDegree_polynomial, Polynomial.natDegree_pow]
+    push_cast
+    ring
+
+  have hgord : (placeInfty K).ord g = (g.denom.natDegree : ℤ) - g.num.natDegree := by
+    rw [ord_placeInfty hg, RatFunc.intDegree]
+    ring
+  rw [hcoeff, hgord]
+  omega
+
+theorem exists_dXCoeff_ord_ge_two_of_ord_placeInfty_eq_zero {g : RatFunc K}
+    (hg : g ≠ 0) (hord : (placeInfty K).ord g = 0) :
+    ∃ e : RatFunc K, (e = 0 ∨ 2 ≤ (placeInfty K).ord e) ∧
+      KaehlerDifferential.D K (RatFunc K) g = e • dX K := by
+
+  have hmem : RatFunc.inftyValuation K g ≤ 1 := by
+    have h1 : g ∈ (placeInfty K).toValuationSubring :=
+      (placeInfty K).mem_of_ord_nonneg hg hord.symm.le
+    rwa [placeInfty_toValuationSubring, Valuation.mem_valuationSubring_iff] at h1
+
+  obtain ⟨c, hc⟩ := exists_sub_algebraMap_intDegree_neg K hmem
+
+  have hDg : KaehlerDifferential.D K (RatFunc K) g
+      = KaehlerDifferential.D K (RatFunc K) (g - algebraMap K (RatFunc K) c) := by
+    rw [map_sub, Derivation.map_algebraMap (KaehlerDifferential.D K (RatFunc K)) c, sub_zero]
+  rcases hc with hc0 | hcneg
+  ·
+    exact ⟨0, Or.inl rfl, by rw [hDg, hc0, _root_.map_zero, zero_smul]⟩
+  ·
+    have hg₁0 : g - algebraMap K (RatFunc K) c ≠ 0 := by
+      intro h0
+      rw [h0] at hcneg
+      simp at hcneg
+    refine ⟨ratFuncDXCoeff K (g - algebraMap K (RatFunc K) c), ?_,
+      by rw [hDg, D_eq_ratFuncDXCoeff_smul_dX]⟩
+    rcases eq_or_ne (ratFuncDXCoeff K (g - algebraMap K (RatFunc K) c)) 0 with h0 | h0
+    · exact Or.inl h0
+    · refine Or.inr ?_
+      have hW := wronskian_ne_zero_of_ratFuncDXCoeff_ne_zero K h0
+      have hge := ord_placeInfty_ratFuncDXCoeff_ge hg₁0 hW
+      have hord₁ : 1 ≤ (placeInfty K).ord (g - algebraMap K (RatFunc K) c) := by
+        rw [ord_placeInfty hg₁0]
+        omega
+      omega
+
+theorem exists_unit_dXCoeff_of_ord_placeInfty_eq_neg_one {h : RatFunc K}
+    (hh : h ≠ 0) (hord : (placeInfty K).ord h = -1) :
+    ∃ b : RatFunc K, b ≠ 0 ∧ (placeInfty K).ord b = 0 ∧
+      KaehlerDifferential.D K (RatFunc K) h = b • dX K := by
+  have hX : (RatFunc.X : RatFunc K) ≠ 0 := RatFunc.X_ne_zero
+  have hXinv : (RatFunc.X : RatFunc K)⁻¹ ≠ 0 := inv_ne_zero hX
+
+  have hg0 : h * (RatFunc.X : RatFunc K)⁻¹ ≠ 0 := mul_ne_zero hh hXinv
+  have hordg : (placeInfty K).ord (h * (RatFunc.X : RatFunc K)⁻¹) = 0 := by
+    rw [(placeInfty K).ord_mul hh hXinv, (placeInfty K).ord_inv, ord_placeInfty_X, hord]
+    ring
+  obtain ⟨e, he, hDe⟩ := exists_dXCoeff_ord_ge_two_of_ord_placeInfty_eq_zero hg0 hordg
+
+  have hh_eq : h = h * (RatFunc.X : RatFunc K)⁻¹ * RatFunc.X := by
+    rw [mul_assoc, inv_mul_cancel₀ hX, mul_one]
+  have hDh : KaehlerDifferential.D K (RatFunc K) h
+      = (h * (RatFunc.X : RatFunc K)⁻¹ + RatFunc.X * e) • dX K := by
+    conv_lhs => rw [hh_eq]
+    rw [Derivation.leibniz, hDe, smul_smul,
+      show KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K) = dX K from rfl,
+      ← add_smul]
+  rcases he with rfl | he2
+  ·
+    refine ⟨h * (RatFunc.X : RatFunc K)⁻¹ + RatFunc.X * 0, ?_, ?_, hDh⟩
+    · rw [mul_zero, add_zero]
+      exact hg0
+    · rw [mul_zero, add_zero]
+      exact hordg
+  ·
+    have he0 : e ≠ 0 := by
+      intro h0
+      rw [h0, (placeInfty K).ord_zero] at he2
+      omega
+    have hXe0 : (RatFunc.X : RatFunc K) * e ≠ 0 := mul_ne_zero hX he0
+    have hlt : (placeInfty K).ord (h * (RatFunc.X : RatFunc K)⁻¹)
+        < (placeInfty K).ord ((RatFunc.X : RatFunc K) * e) := by
+      rw [hordg, (placeInfty K).ord_mul hX he0, ord_placeInfty_X]
+      omega
+    refine ⟨h * (RatFunc.X : RatFunc K)⁻¹ + RatFunc.X * e, ?_, ?_, hDh⟩
+    ·
+      intro hsum
+      have hXe_eq : (RatFunc.X : RatFunc K) * e = -(h * (RatFunc.X : RatFunc K)⁻¹) := by
+        linear_combination hsum
+      rw [hXe_eq, (placeInfty K).ord_neg] at hlt
+      exact lt_irrefl _ hlt
+    · rw [(placeInfty K).ord_add_eq_left hg0 hXe0 hlt]
+      exact hordg
+
+theorem exists_dXCoeff_ord_two_of_ord_placeInfty_eq_one {f : RatFunc K}
+    (hf : f ≠ 0) (hord : (placeInfty K).ord f = 1) :
+    ∃ e : RatFunc K, e ≠ 0 ∧ (placeInfty K).ord e = 2 ∧
+      KaehlerDifferential.D K (RatFunc K) f = e • dX K := by
+
+  have hf' : f⁻¹ ≠ 0 := inv_ne_zero hf
+  have hord' : (placeInfty K).ord f⁻¹ = -1 := by
+    rw [(placeInfty K).ord_inv, hord]
+  obtain ⟨b, hb0, hbord, hDb⟩ := exists_unit_dXCoeff_of_ord_placeInfty_eq_neg_one hf' hord'
+  refine ⟨-(f ^ 2 * b), neg_ne_zero.mpr (mul_ne_zero (pow_ne_zero 2 hf) hb0), ?_, ?_⟩
+  · rw [(placeInfty K).ord_neg, (placeInfty K).ord_mul (pow_ne_zero 2 hf) hb0, hbord,
+      add_zero, ← zpow_natCast, (placeInfty K).ord_zpow, hord]
+    norm_num
+  ·
+    conv_lhs => rw [← inv_inv f]
+    rw [(KaehlerDifferential.D K (RatFunc K)).leibniz_inv f⁻¹, hDb, inv_inv, smul_smul,
+      neg_mul]
+
+end PlaceInftySide
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Glue
+
+variable {K : Type*} [Field K]
+
+theorem exists_ord_zero_smul_of_smul_dX_eq {v : Place K (RatFunc K)} {π π' c c' : RatFunc K}
+    (hc : c ≠ 0) (hc' : c' ≠ 0) (hord : v.ord c' = v.ord c)
+    (hD : KaehlerDifferential.D K (RatFunc K) π = c • dX K)
+    (hD' : KaehlerDifferential.D K (RatFunc K) π' = c' • dX K) :
+    ∃ u : RatFunc K, v.ord u = 0 ∧
+      KaehlerDifferential.D K (RatFunc K) π' = u • KaehlerDifferential.D K (RatFunc K) π := by
+  refine ⟨c' / c, ?_, ?_⟩
+  · rw [div_eq_mul_inv, v.ord_mul hc' (inv_ne_zero hc), v.ord_inv, hord]
+    ring
+  · rw [hD, hD', smul_smul, div_mul_cancel₀ _ hc]
+
+end Glue
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+theorem ordDifferentialWellDefined_ratFunc (K : Type*) [Field K] [CharZero K] :
+    OrdDifferentialWellDefined K (RatFunc K) := by
+  classical
+  intro v π π' hπ hπ'
+
+  have hπ0 : π ≠ 0 := by
+    intro h
+    rw [h, v.ord_zero] at hπ
+    exact zero_ne_one hπ
+  have hπ'0 : π' ≠ 0 := by
+    intro h
+    rw [h, v.ord_zero] at hπ'
+    exact zero_ne_one hπ'
+
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  ·
+    obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    obtain ⟨h1ne, h1ord⟩ :=
+      ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp hp.separable hπ0 hπ
+    obtain ⟨h2ne, h2ord⟩ :=
+      ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp hp.separable hπ'0 hπ'
+    exact exists_ord_zero_smul_of_smul_dX_eq h1ne h2ne (h2ord.trans h1ord.symm)
+      (D_eq_ratFuncDXCoeff_smul_dX K π) (D_eq_ratFuncDXCoeff_smul_dX K π')
+  ·
+    obtain ⟨e, he0, heord, hDe⟩ := exists_dXCoeff_ord_two_of_ord_placeInfty_eq_one hπ0 hπ
+    obtain ⟨e', he'0, he'ord, hDe'⟩ := exists_dXCoeff_ord_two_of_ord_placeInfty_eq_one hπ'0 hπ'
+    exact exists_ord_zero_smul_of_smul_dX_eq he0 he'0 (he'ord.trans heord.symm) hDe hDe'
+
+section ConsumerGates
+
+variable (K : Type*) [Field K] [CharZero K] [DecidableEq (RatFunc K)]
+variable [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end ConsumerGates
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section NonVacuity
+
+variable (K : Type*) [Field K]
+
+end NonVacuity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable {K : Type*} [Field K] [DecidableEq (RatFunc K)]
+
+variable (K)
+
+theorem two_le_ord_placeInfty_p1PrincipalPartAtom
+    {p : K[X]} (hp : Irreducible p) {c : K[X]} (hc : c ≠ 0) {m : ℕ}
+    (hdeg : c.degree < p.degree) (hm : 2 ≤ m) :
+    2 ≤ (placeInfty K).ord (p1PrincipalPartAtom K p c m) := by
+  rw [ord_placeInfty_p1PrincipalPartAtom K hp.ne_zero hc]
+  have hndeg : c.natDegree < p.natDegree :=
+    Polynomial.natDegree_lt_natDegree hc hdeg
+  have hpdeg : 1 ≤ (p.natDegree : ℤ) := by exact_mod_cast hp.natDegree_pos
+  have hm' : 2 ≤ (m : ℤ) := by exact_mod_cast hm
+  nlinarith
+
+section InftyVanish
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+end InftyVanish
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+omit [DecidableEq (RatFunc K)] in
+
+theorem not_dvd_of_degree_lt {p c : K[X]} (hc : c ≠ 0)
+    (hdeg : c.degree < p.degree) : ¬ p ∣ c :=
+  fun hdvd => not_lt.mpr (Polynomial.degree_le_of_dvd hdvd hc) hdeg
+
+omit [DecidableEq (RatFunc K)] in
+
+theorem ord_finitePlace_of_degree_lt {p : K[X]} (hp : Irreducible p) {c : K[X]} (hc : c ≠ 0)
+    (hdeg : c.degree < p.degree) :
+    (finitePlace K hp).ord (algebraMap K[X] (RatFunc K) c) = 0 :=
+  not_ne_iff.mp fun h =>
+    not_dvd_of_degree_lt K hc hdeg ((ord_finitePlace_ne_zero_iff K hp hc).mp h)
+
+omit [DecidableEq (RatFunc K)] in
+
+theorem ord_finitePlace_p1PrincipalPartAtom {p : K[X]} (hp : Irreducible p)
+    {c : K[X]} (hc : c ≠ 0) (hdeg : c.degree < p.degree) (m : ℕ) :
+    (finitePlace K hp).ord (p1PrincipalPartAtom K p c m) = -(m : ℤ) := by
+  have hinj := IsFractionRing.injective K[X] (RatFunc K)
+  have hp' : algebraMap K[X] (RatFunc K) p ≠ 0 := (map_ne_zero_iff _ hinj).mpr hp.ne_zero
+  have hc' : algebraMap K[X] (RatFunc K) c ≠ 0 := (map_ne_zero_iff _ hinj).mpr hc
+  unfold p1PrincipalPartAtom
+  rw [div_eq_mul_inv, (finitePlace K hp).ord_mul hc' (inv_ne_zero (pow_ne_zero m hp')),
+    (finitePlace K hp).ord_inv, ← zpow_natCast, (finitePlace K hp).ord_zpow,
+    ord_finitePlace_of_degree_lt K hp hc hdeg, ord_finitePlace_self K hp]
+  ring
+
+section NamedSubrow
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+end NamedSubrow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section MOneReduction
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+variable {K}
+
+end MOneReduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section ComposedEngine
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+variable {K}
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section UnitFinite
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+def P1DifferentialCoeffUnitFinite {ω₀ : Ω[(RatFunc K)⁄K]} (_hω₀ : ω₀ ≠ 0) : Prop :=
+  ∀ v : Place K (RatFunc K), v ≠ placeInfty K → v.ord (v.differentialCoeff ω₀) = 0
+
+variable {K}
+
+omit [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+  [Nontrivial Ω[(RatFunc K)⁄K]] [HasPrincipalDivisors K (RatFunc K)] in
+
+theorem p1DifferentialCoeffRegularFinite_of_unitFinite
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0)
+    (hunit : P1DifferentialCoeffUnitFinite K hω₀) :
+    P1DifferentialCoeffRegularFinite K hω₀ :=
+  fun v hv => v.mem_of_ord_nonneg (v.differentialCoeff_ne_zero hω₀) (hunit v hv).ge
+
+end UnitFinite
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial TensorProduct P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.TensorProduct Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module"
+
+set_option synthInstance.maxHeartbeats 1600000
+set_option maxHeartbeats 3200000
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable (K : Type*) [Field K]
+
+def kaehlerPolynomialBasis : Basis Unit K[X] Ω[K[X]⁄K] :=
+  (Basis.singleton Unit K[X]).map (KaehlerDifferential.polynomialEquiv K).symm
+
+scoped instance instFormallyEtalePolynomialRatFunc : Algebra.FormallyEtale K[X] (RatFunc K) :=
+  Algebra.FormallyEtale.of_isLocalization (nonZeroDivisors K[X])
+
+def kaehlerRatFuncBasis : Basis Unit (RatFunc K) Ω[(RatFunc K)⁄K] :=
+  ((kaehlerPolynomialBasis K).baseChange (RatFunc K)).map
+    (KaehlerDifferential.tensorKaehlerEquivOfFormallyEtale K K[X] (RatFunc K))
+
+theorem kaehlerRankOne_ratFunc : KaehlerRankOne K (RatFunc K) :=
+  ⟨Module.Free.of_basis (kaehlerRatFuncBasis K),
+    (Module.finrank_eq_card_basis (kaehlerRatFuncBasis K)).trans (by simp)⟩
+
+scoped instance instIsCurveOverRatFunc : IsCurveOver K (RatFunc K) :=
+  RationalFunctionField.isCurveOver_of_kaehlerRankOne K (kaehlerRankOne_ratFunc K)
+
+variable {F : Type*} [Field F] [Algebra K F]
+
+variable {K}
+
+variable (K F)
+
+variable {K F}
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (K : Type*) [Field K] (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+@[expose] public section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+attribute [local instance 0] valuationSubringAlgebra
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+  [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+  [FiniteDimensional F F'] [Algebra.IsSeparable F F']
+
+theorem sum_ramificationIndex_mul_inertiaDeg_of_forall_mem_iff
+    (v : Place K F) (s : Finset (Place K F'))
+    (hs : ∀ w : Place K F', w ∈ s ↔ w.restrict F = v) :
+    ∑ w ∈ s, (w.ramificationIndex F : ℤ) * (w.inertiaDeg F : ℤ)
+      = (Module.finrank F F' : ℤ) := by
+  classical
+  have hkey := Ideal.sum_ramification_inertia (integralClosureAt F' v) F F'
+    (p := IsLocalRing.maximalIdeal v.toValuationSubring) (maximalIdeal_ne_bot v)
+  rw [← hkey]
+  push_cast
+  refine Finset.sum_bij
+    (fun w hw => (fiberCenter F' v ((hs w).mp hw)).asIdeal) ?_ ?_ ?_ ?_
+  ·
+    intro w hw
+    rw [IsDedekindDomain.mem_primesOverFinset_iff (maximalIdeal_ne_bot v)]
+    exact ⟨(fiberCenter F' v ((hs w).mp hw)).isPrime,
+      fiberCenter_liesOver ((hs w).mp hw)⟩
+  ·
+    intro w hw w' hw' h
+    exact eq_of_fiberCenter_eq ((hs w).mp hw) ((hs w').mp hw')
+      (HeightOneSpectrum.ext h)
+  ·
+    intro P hP
+    rw [IsDedekindDomain.mem_primesOverFinset_iff (maximalIdeal_ne_bot v)] at hP
+    obtain ⟨hP1, hP2⟩ := hP
+    have hPne : P ≠ ⊥ := by
+      intro h
+      apply maximalIdeal_ne_bot v
+      have h2 := hP2.over
+      rw [h, Ideal.under_def, Ideal.comap_bot_of_injective _
+        (algebraMap_integralClosureAt_injective v)] at h2
+      exact h2
+    refine ⟨placeOfPrime ⟨P, hP1, hPne⟩,
+      (hs _).mpr (restrict_placeOfPrime ⟨P, hP1, hPne⟩), ?_⟩
+    exact congrArg HeightOneSpectrum.asIdeal
+      (fiberCenter_placeOfPrime (⟨P, hP1, hPne⟩ :
+        HeightOneSpectrum (integralClosureAt F' v)))
+  ·
+    intro w hw
+    rw [ramificationIndex_eq_ramificationIdx_fiberCenter ((hs w).mp hw),
+      inertiaDeg_eq_inertiaDeg_fiberCenter ((hs w).mp hw)]
+
+theorem sum_ramificationIndex_mul_deg_of_forall_mem_iff
+    (v : Place K F) (s : Finset (Place K F'))
+    (hs : ∀ w : Place K F', w ∈ s ↔ w.restrict F = v) :
+    ∑ w ∈ s, (w.ramificationIndex F : ℤ) * (w.deg : ℤ)
+      = (Module.finrank F F' : ℤ) * (v.deg : ℤ) := by
+  have hsum := sum_ramificationIndex_mul_inertiaDeg_of_forall_mem_iff v s hs
+  calc ∑ w ∈ s, (w.ramificationIndex F : ℤ) * (w.deg : ℤ)
+      = ∑ w ∈ s, (v.deg : ℤ) * ((w.ramificationIndex F : ℤ) * (w.inertiaDeg F : ℤ)) := by
+        refine Finset.sum_congr rfl fun w hw => ?_
+        have hdeg : (w.restrict F).deg * w.inertiaDeg F = w.deg :=
+          deg_restrict_mul_inertiaDeg (K := K) (F := F) (w := w)
+        rw [(hs w).mp hw] at hdeg
+        rw [← hdeg]
+        push_cast
+        ring
+    _ = (v.deg : ℤ) * ∑ w ∈ s, (w.ramificationIndex F : ℤ) * (w.inertiaDeg F : ℤ) := by
+        rw [Finset.mul_sum]
+    _ = (Module.finrank F F' : ℤ) * (v.deg : ℤ) := by rw [hsum]; ring
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+theorem ramificationInertiaIdentity_of_finiteDimensional
+    (K F F' : Type*) [Field K] [Field F] [Field F']
+    [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+    [FiniteDimensional F F'] [Algebra.IsSeparable F F'] :
+    RamificationInertiaIdentity K F F' := fun v s hs =>
+  Place.sum_ramificationIndex_mul_deg_of_forall_mem_iff v s hs
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable {K : Type*} [Field K] {F' : Type*} [Field F'] [Algebra K F']
+  [Algebra (RatFunc K) F'] [IsScalarTower K (RatFunc K) F']
+  [FiniteDimensional (RatFunc K) F'] [Algebra.IsSeparable (RatFunc K) F']
+
+scoped instance (priority := 50) instHasPrincipalDivisorsOfIsGalois [IsGalois (RatFunc K) F'] :
+    HasPrincipalDivisors K F' :=
+  hasPrincipalDivisors_of_isGalois
+    (ramificationInertiaIdentity_of_finiteDimensional K (RatFunc K) F')
+
+section GaloisClosure
+
+variable (F'' : Type*) [Field F''] [Algebra K F''] [Algebra (RatFunc K) F'']
+  [Algebra F' F''] [IsScalarTower K (RatFunc K) F''] [IsScalarTower K F' F'']
+  [FiniteDimensional (RatFunc K) F''] [Algebra.IsSeparable (RatFunc K) F'']
+  [IsGalois (RatFunc K) F''] [FiniteDimensional F' F'']
+
+end GaloisClosure
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+section SurjectiveDegOne
+
+end SurjectiveDegOne
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section PCoordinateIdentity
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem derivative_monic_natDegree_one_eq_one {p : K[X]} (hpmon : p.Monic)
+    (hdeg : p.natDegree = 1) : derivative p = 1 := by
+  rw [hpmon.eq_X_add_C hdeg, derivative_add, derivative_X, derivative_C, add_zero]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem D_algebraMap_polynomial_degOne {p : K[X]} (hpmon : p.Monic) (hdeg : p.natDegree = 1) :
+    KaehlerDifferential.D K (RatFunc K) (algebraMap K[X] (RatFunc K) p) = dX K := by
+  rw [D_algebraMap_polynomial K p, derivative_monic_natDegree_one_eq_one K hpmon hdeg, map_one,
+    one_smul]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem eq_C_coeff_zero_of_degree_lt_degOne {p c : K[X]} (hpirr : Irreducible p)
+    (hdeg : p.natDegree = 1) (hcdeg : c.degree < p.degree) : c = C (c.coeff 0) := by
+  have hpdeg : p.degree = (1 : ℕ) := by
+    rw [degree_eq_natDegree hpirr.ne_zero, hdeg]
+  rw [hpdeg, Nat.cast_one] at hcdeg
+  exact eq_C_of_degree_le_zero (Nat.WithBot.lt_one_iff_le_zero.mp hcdeg)
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1PrincipalPartAtom_mul_differentialCoeff_dX_degOne
+    {p c : K[X]} (hpmon : p.Monic) (hpirr : Irreducible p) (hdeg : p.natDegree = 1)
+    (hcdeg : c.degree < p.degree) (m : ℕ) :
+    p1PrincipalPartAtom K p c m * (finitePlace K hpirr).differentialCoeff (dX K)
+      = c.coeff 0 • ((finitePlace K hpirr).differentialCoeff
+            (KaehlerDifferential.D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))
+          * ((algebraMap K[X] (RatFunc K) p) ^ m)⁻¹) := by
+  have hc : algebraMap K[X] (RatFunc K) c = algebraMap K (RatFunc K) (c.coeff 0) := by
+    conv_lhs => rw [eq_C_coeff_zero_of_degree_lt_degOne K hpirr hdeg hcdeg]
+    rw [C_eq_algebraMap, ← IsScalarTower.algebraMap_apply K K[X] (RatFunc K)]
+  rw [D_algebraMap_polynomial_degOne K hpmon hdeg, Algebra.smul_def,
+    show p1PrincipalPartAtom K p c m
+      = algebraMap K[X] (RatFunc K) c / (algebraMap K[X] (RatFunc K) p) ^ m from rfl, hc]
+  ring
+
+end PCoordinateIdentity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section NamedHigherDeg
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+def P1FinitePlaceCanonicalResidueAtomMGeTwoHigherDeg : Prop :=
+  ∀ (p c : K[X]) (m : ℕ) (_ : p.Monic) (hpirr : Irreducible p),
+    c.degree < p.degree → 2 ≤ m → 2 ≤ p.natDegree →
+    ∀ R : (finitePlace K hpirr).CanonicalLocalResidueDataK,
+      R.res (p1PrincipalPartAtom K p c m * (finitePlace K hpirr).differentialCoeff (dX K)) = 0
+
+end NamedHigherDeg
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section DegOneDischarge
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1FinitePlaceCanonicalResidueAtom_of_coordIndep_degOne
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    {p c : K[X]} {m : ℕ} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (hcdeg : c.degree < p.degree) (hm : 2 ≤ m) (hdeg : p.natDegree = 1)
+    (R : (finitePlace K hpirr).CanonicalLocalResidueDataK) :
+    R.res (p1PrincipalPartAtom K p c m * (finitePlace K hpirr).differentialCoeff (dX K)) = 0 := by
+  rw [p1PrincipalPartAtom_mul_differentialCoeff_dX_degOne K hpmon hpirr hdeg hcdeg m, map_smul,
+    show m = (m - 1) + 1 from (Nat.sub_add_cancel (by omega)).symm,
+    hcoord (finitePlace K hpirr) (algebraMap K[X] (RatFunc K) p) (ord_finitePlace_self K hpirr)
+      R (m - 1) (by omega),
+    smul_zero]
+
+end DegOneDischarge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section ComposedEngine
+
+variable [CharZero K]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AlgClosed
+
+variable [IsAlgClosed K]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1FinitePlaceCanonicalResidueAtomMGeTwoHigherDeg_of_algClosed :
+    P1FinitePlaceCanonicalResidueAtomMGeTwoHigherDeg K := by
+  intro p c m _ hpirr _ _ hdeg
+  have h1 : p.natDegree = 1 := by
+    have h := IsAlgClosed.degree_eq_one_of_irreducible K hpirr
+    rw [degree_eq_natDegree hpirr.ne_zero] at h
+    exact_mod_cast h
+  omega
+
+end AlgClosed
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+p2m_open "CongruenceSubgroup P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.CongruenceSubgroup IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace ValuationSubring
+p2m_export "ValuationSubring" "comap idealOfLE mem_comap neg_mem prime_idealOfLE toSubring algebraMap_apply ext zero_mem ofPrime_top rec mem_nonunits_iff ofPrime mk mem_or_inv_mem' mem_top instIsDomainSubtypeMem toSubring_injective mul_mem one_mem mem_or_inv_mem mk.injEq add_mem eq_top_iff valuation inclusion ofPrime_idealOfLE ofPrime_bot"
+p2m_open "ValuationSubring"
+
+variable {F : Type*} [Field F]
+
+private theorem ofPrime_congr {R : ValuationSubring F} {P Q : Ideal R}
+    [P.IsPrime] [Q.IsPrime] (h : P = Q) : R.ofPrime P = R.ofPrime Q := by
+  subst h; congr
+
+theorem eq_top_of_idealOfLE_eq_bot {R S : ValuationSubring F} (h : R ≤ S)
+    (hbot : idealOfLE R S h = ⊥) : S = ⊤ := by
+  haveI : IsDomain R := Subring.instIsDomainSubtypeMem R.toSubring
+  rw [← ofPrime_idealOfLE R S h, ofPrime_congr hbot, ofPrime_bot]
+
+theorem idealOfLE_ne_bot_of_ne_top {R S : ValuationSubring F} (h : R ≤ S)
+    (hS : S ≠ ⊤) : idealOfLE R S h ≠ ⊥ :=
+  fun hbot => hS (eq_top_of_idealOfLE_eq_bot h hbot)
+
+theorem eq_of_isDiscreteValuationRing_of_le {R S : ValuationSubring F}
+    [IsDiscreteValuationRing R] (h : R ≤ S) (hS : S ≠ ⊤) : R = S := by
+
+  haveI : IsDomain R := Subring.instIsDomainSubtypeMem R.toSubring
+  haveI : IsDedekindDomain R := IsPrincipalIdealRing.isDedekindDomain R
+
+  have hne : idealOfLE R S h ≠ ⊥ := idealOfLE_ne_bot_of_ne_top h hS
+  have hmax : (idealOfLE R S h).IsMaximal := (prime_idealOfLE R S h).isMaximal hne
+  have heq : idealOfLE R S h = IsLocalRing.maximalIdeal R := IsLocalRing.eq_maximalIdeal hmax
+  rw [← ofPrime_idealOfLE R S h, ofPrime_congr heq, ofPrime_top]
+
+end ValuationSubring
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section CenterIdeal
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+variable (A : Subalgebra K F) (hA : (A : Set F) ⊆ (v.toValuationSubring : Set F))
+
+@[reducible] private noncomputable def _root_.AlgebraicCurve.Place.modelInclusion : A →+* v.toValuationSubring :=
+  (Subring.inclusion (show A.toSubring ≤ v.toValuationSubring.toSubring from hA))
+
+p2m_export "AlgebraicCurve.Place" "modelInclusion"
+@[scoped simp] theorem coe_modelInclusion (a : A) :
+    ((v.modelInclusion A hA a : v.toValuationSubring) : F) = (a : F) := rfl
+
+@[reducible] private noncomputable def _root_.AlgebraicCurve.Place.modelAlgebra : Algebra A v.toValuationSubring :=
+  (v.modelInclusion A hA).toAlgebra
+
+p2m_export "AlgebraicCurve.Place" "modelAlgebra"
+@[reducible] private noncomputable def _root_.AlgebraicCurve.Place.centerIdeal : Ideal A :=
+  letI := v.modelAlgebra A hA
+  (IsLocalRing.maximalIdeal v.toValuationSubring).comap (algebraMap A v.toValuationSubring)
+
+p2m_export "AlgebraicCurve.Place" "centerIdeal"
+scoped instance centerIdeal_isPrime : (v.centerIdeal A hA).IsPrime :=
+  letI := v.modelAlgebra A hA
+  Ideal.comap_isPrime _ _
+
+private theorem _root_.AlgebraicCurve.Place.isUnit_modelInclusion_of_not_mem_centerIdeal {s : A}
+    (hs : s ∉ v.centerIdeal A hA) :
+    IsUnit (v.modelInclusion A hA s) := by
+  letI := v.modelAlgebra A hA
+
+  rw [centerIdeal, Ideal.mem_comap, IsLocalRing.mem_maximalIdeal, mem_nonunits_iff,
+    not_not] at hs
+  exact hs
+
+p2m_export "AlgebraicCurve.Place" "isUnit_modelInclusion_of_not_mem_centerIdeal"
+private theorem _root_.AlgebraicCurve.Place.isUnit_modelInclusion_of_mem_primeCompl (s : (v.centerIdeal A hA).primeCompl) :
+    IsUnit (v.modelInclusion A hA (s : A)) :=
+  v.isUnit_modelInclusion_of_not_mem_centerIdeal A hA s.2
+
+p2m_export "AlgebraicCurve.Place" "isUnit_modelInclusion_of_mem_primeCompl"
+private theorem _root_.AlgebraicCurve.Place.modelAlgebra_isScalarTower :
+    letI := v.modelAlgebra A hA
+    IsScalarTower K A v.toValuationSubring := by
+  letI := v.modelAlgebra A hA
+  refine IsScalarTower.of_algebraMap_eq fun c => ?_
+  apply Subtype.ext
+  simp only [coe_modelInclusion, RingHom.algebraMap_toAlgebra]
+  rfl
+
+p2m_export "AlgebraicCurve.Place" "modelAlgebra_isScalarTower"
+private theorem _root_.AlgebraicCurve.Place.essFiniteType_of_finiteType_isLocalization_centerIdeal
+    [Algebra.FiniteType K A]
+    (hloc : letI := v.modelAlgebra A hA
+            IsLocalization.AtPrime v.toValuationSubring (v.centerIdeal A hA)) :
+    Algebra.EssFiniteType K v.toValuationSubring := by
+  letI := v.modelAlgebra A hA
+  haveI := v.modelAlgebra_isScalarTower A hA
+  haveI : Algebra.EssFiniteType A v.toValuationSubring :=
+    Algebra.EssFiniteType.of_isLocalization _ (v.centerIdeal A hA).primeCompl
+  exact Algebra.EssFiniteType.comp K A v.toValuationSubring
+
+p2m_export "AlgebraicCurve.Place" "essFiniteType_of_finiteType_isLocalization_centerIdeal"
+end CenterIdeal
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def ValSubringDedekindModel : Prop :=
+  ∀ v : Place K F,
+    ∃ (A : Subalgebra K F) (hA : (A : Set F) ⊆ (v.toValuationSubring : Set F)),
+      Algebra.FiniteType K A ∧
+      (letI := v.modelAlgebra A hA
+       IsLocalization.AtPrime v.toValuationSubring (v.centerIdeal A hA))
+
+variable {K F}
+
+theorem valSubringEssFiniteType_of_dedekindModel
+    (hmodel : ValSubringDedekindModel K F) :
+    ValSubringEssFiniteType K F := fun v => by
+  obtain ⟨A, hA, hft, hloc⟩ := hmodel v
+  exact v.essFiniteType_of_finiteType_isLocalization_centerIdeal A hA hloc
+
+theorem valSubringKaehlerFinite_of_dedekindModel
+    (hmodel : ValSubringDedekindModel K F) :
+    ValSubringKaehlerFinite K F :=
+  valSubringKaehlerFinite_of_essFiniteType
+    (valSubringEssFiniteType_of_dedekindModel hmodel)
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option maxHeartbeats 6400000
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+open ModularCurve.Lg37 ModularCurve.KwNo6Section ModularCurve.KwNo6Pin
+open Mp72a102T1
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem completionSection_nonempty_generic (v : Place K F)
+    [FiniteDimensional K v.ResidueField] [Algebra.IsSeparable K v.ResidueField] :
+    Nonempty (Lg37CompletionSection v) := by
+  obtain ⟨ᾱ, htop⟩ := Field.exists_primitive_element K v.ResidueField
+  have hint : _root_.IsIntegral K ᾱ := Algebra.IsIntegral.isIntegral ᾱ
+  have hmon : (minpoly K ᾱ).Monic := minpoly.monic hint
+  have hsep : (minpoly K ᾱ).Separable := Algebra.IsSeparable.isSeparable K ᾱ
+  have haevalbar : (aeval ᾱ) (minpoly K ᾱ) = 0 := minpoly.aeval K ᾱ
+  obtain ⟨αhat, hαroot, hαres⟩ :=
+    mp72a102_t1_exists_completion_root_of_residue_root v hmon hsep haevalbar
+  exact ⟨sectionOfPrimitiveRoot v hint htop αhat hαroot hαres⟩
+
+variable (K F) in
+
+noncomputable scoped instance instHasCanonicalLocalResidueKStar [IsCurveOver K F] [PerfectField K] :
+    HasCanonicalLocalResidueKStar K F where
+  dataKStar v :=
+    haveI : FiniteDimensional K v.ResidueField := Place.FiniteResidue.finite
+    haveI : Algebra.IsSeparable K v.ResidueField :=
+      Algebra.IsAlgebraic.isSeparable_of_perfectField
+    canonicalLocalResidueDataKStar v
+      (Classical.choice (completionSection_nonempty_generic v))
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+theorem ordDifferentialWellDefined_ratFunc_of_perfectField (K : Type*) [Field K]
+    [PerfectField K] :
+    OrdDifferentialWellDefined K (RatFunc K) := by
+  classical
+  intro v π π' hπ hπ'
+
+  have hπ0 : π ≠ 0 := by
+    intro h
+    rw [h, v.ord_zero] at hπ
+    exact zero_ne_one hπ
+  have hπ'0 : π' ≠ 0 := by
+    intro h
+    rw [h, v.ord_zero] at hπ'
+    exact zero_ne_one hπ'
+
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  ·
+
+    obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    obtain ⟨h1ne, h1ord⟩ :=
+      ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp
+        (PerfectField.separable_of_irreducible hp) hπ0 hπ
+    obtain ⟨h2ne, h2ord⟩ :=
+      ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp
+        (PerfectField.separable_of_irreducible hp) hπ'0 hπ'
+    exact exists_ord_zero_smul_of_smul_dX_eq h1ne h2ne (h2ord.trans h1ord.symm)
+      (D_eq_ratFuncDXCoeff_smul_dX K π) (D_eq_ratFuncDXCoeff_smul_dX K π')
+  ·
+    obtain ⟨e, he0, heord, hDe⟩ := exists_dXCoeff_ord_two_of_ord_placeInfty_eq_one hπ0 hπ
+    obtain ⟨e', he'0, he'ord, hDe'⟩ := exists_dXCoeff_ord_two_of_ord_placeInfty_eq_one hπ'0 hπ'
+    exact exists_ord_zero_smul_of_smul_dX_eq he0 he'0 (he'ord.trans heord.symm) hDe hDe'
+
+section ConsumerGates
+
+variable (K : Type*) [Field K] [CharZero K] [DecidableEq (RatFunc K)]
+variable [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end ConsumerGates
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+
+section Defect
+
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+end Defect
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section CorrectedCarrier
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end CorrectedCarrier
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section CorrectedBridge
+
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end CorrectedBridge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section UnitFinite
+
+variable [CharZero K]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1DifferentialCoeffUnitFinite_dX :
+    P1DifferentialCoeffUnitFinite K (dX_ne_zero K) := by
+  intro v hvinf
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    exact ord_differentialCoeff_dX_ofHeightOneSpectrum hp hwp hp.separable
+  · exact absurd rfl hvinf
+
+end UnitFinite
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section CorrectedEngine
+
+variable [CharZero K]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end CorrectedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+section Defect
+
+variable (K)
+variable [DecidableEq (RatFunc K)] [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+end Defect
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section CanonicityRow
+
+variable (K F)
+variable [HasLocalResidue K F] [HasCanonicalLocalResidueKStar K F]
+
+variable {K F}
+
+end CanonicityRow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section MOneSimplePoleBounds
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates]
+
+theorem ord_finitePlace_mOneAtom_mul_differentialCoeff
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0)
+    (hunit : ∀ v : Place K (RatFunc K), v ≠ placeInfty K → v.ord (v.differentialCoeff ω₀) = 0)
+    {p : K[X]} (hp : Irreducible p) {c : K[X]} (hc : c ≠ 0)
+    (hdeg : c.degree < p.degree) :
+    (finitePlace K hp).ord
+        (p1PrincipalPartAtom K p c 1 * (finitePlace K hp).differentialCoeff ω₀) = -1 := by
+  have hatom0 : p1PrincipalPartAtom K p c 1 ≠ 0 := by
+    simp only [p1PrincipalPartAtom, ne_eq, div_eq_zero_iff, not_or]
+    exact ⟨(map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hc,
+      pow_ne_zero _ ((map_ne_zero_iff _
+        (IsFractionRing.injective K[X] (RatFunc K))).mpr hp.ne_zero)⟩
+  rw [(finitePlace K hp).ord_mul hatom0 ((finitePlace K hp).differentialCoeff_ne_zero hω₀),
+    ord_finitePlace_p1PrincipalPartAtom K hp hc hdeg 1,
+    hunit (finitePlace K hp) (finitePlace_ne_placeInfty hp)]
+  norm_num
+
+theorem ord_placeInfty_mOneAtom_mul_differentialCoeff_ge_neg_one
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0)
+    (hInfty : (placeInfty K).ordDifferential ω₀ = -2)
+    {p : K[X]} (hp : Irreducible p) {c : K[X]} (hc : c ≠ 0)
+    (hdeg : c.degree < p.degree) :
+    -1 ≤ (placeInfty K).ord
+        (p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff ω₀) := by
+  have hatom0 : p1PrincipalPartAtom K p c 1 ≠ 0 := by
+    simp only [p1PrincipalPartAtom, ne_eq, div_eq_zero_iff, not_or]
+    exact ⟨(map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hc,
+      pow_ne_zero _ ((map_ne_zero_iff _
+        (IsFractionRing.injective K[X] (RatFunc K))).mpr hp.ne_zero)⟩
+  rw [(placeInfty K).ord_mul hatom0 ((placeInfty K).differentialCoeff_ne_zero hω₀)]
+  have h1 : 1 ≤ (placeInfty K).ord (p1PrincipalPartAtom K p c 1) :=
+    one_le_ord_placeInfty_p1PrincipalPartAtom K hp hc hdeg le_rfl
+  have hordD : (placeInfty K).ord ((placeInfty K).differentialCoeff ω₀) = -2 := hInfty
+  omega
+
+theorem p1MOneAtom_mul_differentialCoeff_mem_simplePole_finitePlace
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0)
+    (hunit : ∀ v : Place K (RatFunc K), v ≠ placeInfty K → v.ord (v.differentialCoeff ω₀) = 0)
+    {p : K[X]} (hp : Irreducible p) (c : K[X]) (hdeg : c.degree < p.degree) :
+    p1PrincipalPartAtom K p c 1 * (finitePlace K hp).differentialCoeff ω₀
+      ∈ (finitePlace K hp).simplePoleSubmodule := by
+  rcases eq_or_ne c 0 with rfl | hc
+  · show algebraMap K[X] (RatFunc K) 0 / (algebraMap K[X] (RatFunc K) p) ^ 1
+        * (finitePlace K hp).differentialCoeff ω₀ ∈ _
+    rw [_root_.map_zero, zero_div, zero_mul]; exact zero_mem _
+  · have hatom0 : p1PrincipalPartAtom K p c 1 ≠ 0 := by
+      simp only [p1PrincipalPartAtom, ne_eq, div_eq_zero_iff, not_or]
+      exact ⟨(map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hc,
+        pow_ne_zero _ ((map_ne_zero_iff _
+          (IsFractionRing.injective K[X] (RatFunc K))).mpr hp.ne_zero)⟩
+    rw [← (finitePlace K hp).poleSubmodule_one, Place.mem_poleSubmodule, pow_one]
+    refine (finitePlace K hp).mem_of_ord_nonneg
+      (mul_ne_zero (finitePlace K hp).uniformizer_ne_zero
+        (mul_ne_zero hatom0 ((finitePlace K hp).differentialCoeff_ne_zero hω₀))) ?_
+    rw [(finitePlace K hp).ord_mul (finitePlace K hp).uniformizer_ne_zero
+        (mul_ne_zero hatom0 ((finitePlace K hp).differentialCoeff_ne_zero hω₀)),
+      (finitePlace K hp).ord_uniformizer,
+      ord_finitePlace_mOneAtom_mul_differentialCoeff K hω₀ hunit hp hc hdeg]
+    omega
+
+theorem p1MOneAtom_mul_differentialCoeff_mem_simplePole_placeInfty
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0)
+    (hInfty : (placeInfty K).ordDifferential ω₀ = -2)
+    {p : K[X]} (hp : Irreducible p) (c : K[X]) (hdeg : c.degree < p.degree) :
+    p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff ω₀
+      ∈ (placeInfty K).simplePoleSubmodule := by
+  rcases eq_or_ne c 0 with rfl | hc
+  · show algebraMap K[X] (RatFunc K) 0 / (algebraMap K[X] (RatFunc K) p) ^ 1
+        * (placeInfty K).differentialCoeff ω₀ ∈ _
+    rw [_root_.map_zero, zero_div, zero_mul]; exact zero_mem _
+  · have hatom0 : p1PrincipalPartAtom K p c 1 ≠ 0 := by
+      simp only [p1PrincipalPartAtom, ne_eq, div_eq_zero_iff, not_or]
+      exact ⟨(map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hc,
+        pow_ne_zero _ ((map_ne_zero_iff _
+          (IsFractionRing.injective K[X] (RatFunc K))).mpr hp.ne_zero)⟩
+    rw [← (placeInfty K).poleSubmodule_one, Place.mem_poleSubmodule, pow_one]
+    refine (placeInfty K).mem_of_ord_nonneg
+      (mul_ne_zero (placeInfty K).uniformizer_ne_zero
+        (mul_ne_zero hatom0 ((placeInfty K).differentialCoeff_ne_zero hω₀))) ?_
+    rw [(placeInfty K).ord_mul (placeInfty K).uniformizer_ne_zero
+        (mul_ne_zero hatom0 ((placeInfty K).differentialCoeff_ne_zero hω₀)),
+      (placeInfty K).ord_uniformizer]
+    have h := ord_placeInfty_mOneAtom_mul_differentialCoeff_ge_neg_one K hω₀ hInfty hp hc hdeg
+    omega
+
+end MOneSimplePoleBounds
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section MOneSimplePoleRow
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates]
+
+def P1PrincipalPartMOneSimplePoleCancel {ω₀ : Ω[(RatFunc K)⁄K]} (_hω₀ : ω₀ ≠ 0) : Prop :=
+  ∀ (p c : K[X]) (_ : p.Monic) (hpirr : Irreducible p), c.degree < p.degree →
+    ∀ (hfmem : p1PrincipalPartAtom K p c 1 * (finitePlace K hpirr).differentialCoeff ω₀
+        ∈ (finitePlace K hpirr).simplePoleSubmodule)
+      (himem : p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff ω₀
+        ∈ (placeInfty K).simplePoleSubmodule),
+    Algebra.trace K (finitePlace K hpirr).ResidueField
+        ((finitePlace K hpirr).simplePoleResidueAux ⟨_, hfmem⟩)
+      + Algebra.trace K (placeInfty K).ResidueField
+          ((placeInfty K).simplePoleResidueAux ⟨_, himem⟩)
+      = 0
+
+variable {K}
+
+end MOneSimplePoleRow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section CorrectedSubrow2
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+variable {K}
+
+end CorrectedSubrow2
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section NearClose
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end NearClose
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section
+section
+
+set_option synthInstance.maxHeartbeats 1600000
+set_option maxHeartbeats 3200000
+
+noncomputable section
+
+p2m_open "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+variable {K : Type*} [Field K]
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+namespace ModularCurve
+
+section Engine
+
+variable {K : Type*} [Field K] {N : ℕ} [NeZero N]
+
+end Engine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+section Corollaries
+
+variable (K : Type*) [Field K]
+
+scoped instance instHasPrincipalDivisorsRatFuncSelf : HasPrincipalDivisors K (RatFunc K) :=
+  RationalFunctionField.instHasPrincipalDivisorsOfIsGalois
+
+end Corollaries
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+
+section TraceRow
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+def P1FinitePlaceCanonicalResidueAtomMGeTwoTrace : Prop :=
+  ∀ (p c : K[X]) (m : ℕ) (_ : p.Monic) (hpirr : Irreducible p), c.degree < p.degree → 2 ≤ m →
+    ∀ R : (finitePlace K hpirr).CanonicalLocalResidueDataK,
+      Algebra.trace K (finitePlace K hpirr).ResidueField
+          (R.res (p1PrincipalPartAtom K p c m
+            * (finitePlace K hpirr).differentialCoeff (dX K))) = 0
+
+def P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg : Prop :=
+  ∀ (p c : K[X]) (m : ℕ) (_ : p.Monic) (hpirr : Irreducible p),
+    c.degree < p.degree → 2 ≤ m → 2 ≤ p.natDegree →
+    ∀ R : (finitePlace K hpirr).CanonicalLocalResidueDataK,
+      Algebra.trace K (finitePlace K hpirr).ResidueField
+          (R.res (p1PrincipalPartAtom K p c m
+            * (finitePlace K hpirr).differentialCoeff (dX K))) = 0
+
+end TraceRow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Monotonicity
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg_of_higherDeg
+    (h : P1FinitePlaceCanonicalResidueAtomMGeTwoHigherDeg K) :
+    P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K :=
+  fun p c m hpmon hpirr hdeg hm hpdeg R => by
+    rw [h p c m hpmon hpirr hdeg hm hpdeg R, _root_.map_zero]
+
+end Monotonicity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section DegOneDischarge
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1FinitePlaceCanonicalResidueAtomTrace_of_coordIndep_degOne
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    {p c : K[X]} {m : ℕ} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (hcdeg : c.degree < p.degree) (hm : 2 ≤ m) (hdeg : p.natDegree = 1)
+    (R : (finitePlace K hpirr).CanonicalLocalResidueDataK) :
+    Algebra.trace K (finitePlace K hpirr).ResidueField
+        (R.res (p1PrincipalPartAtom K p c m
+          * (finitePlace K hpirr).differentialCoeff (dX K))) = 0 := by
+  rw [p1FinitePlaceCanonicalResidueAtom_of_coordIndep_degOne K hcoord hpmon hpirr hcdeg hm
+    hdeg R, _root_.map_zero]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1FinitePlaceCanonicalResidueAtomMGeTwoTrace_of_coordIndep_higherDeg
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hHigh : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K) :
+    P1FinitePlaceCanonicalResidueAtomMGeTwoTrace K := by
+  intro p c m hpmon hpirr hcdeg hm R
+  have hpos := hpirr.natDegree_pos
+  rcases Nat.lt_or_ge p.natDegree 2 with hdeg | hdeg
+  · exact p1FinitePlaceCanonicalResidueAtomTrace_of_coordIndep_degOne K hcoord hpmon hpirr
+      hcdeg hm (by omega) R
+  · exact hHigh p c m hpmon hpirr hcdeg hm hdeg R
+
+end DegOneDischarge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TraceBridge
+
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end TraceBridge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ComposedEngine
+
+variable [CharZero K]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AlgClosed
+
+variable [IsAlgClosed K] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)]
+  [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]] in
+
+theorem p1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg_of_algClosed :
+    P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K :=
+  p1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg_of_higherDeg K
+    (p1FinitePlaceCanonicalResidueAtomMGeTwoHigherDeg_of_algClosed K)
+
+end AlgClosed
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+p2m_open "IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section CenterNonzero
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+  (A : Subalgebra K F) (hA : (A : Set F) ⊆ (v.toValuationSubring : Set F))
+
+private theorem inv_mem_of_not_mem_centerIdeal {a : A} (ha : a ∉ v.centerIdeal A hA) :
+    ((a : F))⁻¹ ∈ v.toValuationSubring := by
+  obtain ⟨u, hu⟩ := v.isUnit_modelInclusion_of_not_mem_centerIdeal A hA ha
+  have huF : ((u : v.toValuationSubring) : F) = (a : F) :=
+    congrArg (Subtype.val : v.toValuationSubring → F) hu
+  have huinvF : ((u⁻¹ : v.toValuationSubringˣ).1 : F) * (a : F) = 1 := by
+    have h1 : ((u⁻¹ : v.toValuationSubringˣ).1 : F) * ((u : v.toValuationSubring) : F)
+        = ((1 : v.toValuationSubring) : F) :=
+      congrArg (Subtype.val : v.toValuationSubring → F) u.inv_mul
+    rw [huF] at h1; exact h1
+  have : ((u⁻¹ : v.toValuationSubringˣ).1 : F) = (a : F)⁻¹ :=
+    eq_inv_of_mul_eq_one_left huinvF
+  exact this ▸ ((u⁻¹ : v.toValuationSubringˣ).1 : v.toValuationSubring).2
+
+private theorem div_mem_of_not_mem_centerIdeal (r : A) {a : A}
+    (ha : a ∉ v.centerIdeal A hA) :
+    (r : F) / (a : F) ∈ v.toValuationSubring := by
+  rw [div_eq_mul_inv]
+  exact v.toValuationSubring.toSubring.mul_mem (hA r.2)
+    (inv_mem_of_not_mem_centerIdeal v A hA ha)
+
+private theorem _root_.AlgebraicCurve.Place.centerIdeal_ne_bot_of_isFractionRing [IsFractionRing A F] :
+    v.centerIdeal A hA ≠ ⊥ := by
+
+  obtain ⟨f, hf⟩ : ∃ f : F, f ∉ v.toValuationSubring := by
+    by_contra h; push Not at h
+    exact v.ne_top' (ValuationSubring.toSubring_injective (top_le_iff.mp fun x _ => h x))
+  obtain ⟨r, s, hs, hfrs⟩ := IsFractionRing.div_surjective (A := A) f
+
+  have hsP : s ∈ v.centerIdeal A hA := by
+    by_contra hsP
+    apply hf
+    have : algebraMap A F r / algebraMap A F s ∈ v.toValuationSubring :=
+      div_mem_of_not_mem_centerIdeal v A hA r hsP
+    rwa [hfrs] at this
+
+  intro hbot
+  exact (nonZeroDivisors.ne_zero hs) (Ideal.mem_bot.mp (hbot ▸ hsP))
+
+p2m_export "AlgebraicCurve.Place" "centerIdeal_ne_bot_of_isFractionRing"
+end CenterNonzero
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section LocalizationSubalgebra
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+  (A : Subalgebra K F) (hA : (A : Set F) ⊆ (v.toValuationSubring : Set F))
+
+@[reducible] private noncomputable def _root_.AlgebraicCurve.Place.centerLocalizationSubalgebra [IsFractionRing A F] :
+    Subalgebra A F :=
+  Localization.subalgebra.ofField F (v.centerIdeal A hA).primeCompl
+    (v.centerIdeal A hA).primeCompl_le_nonZeroDivisors
+
+p2m_export "AlgebraicCurve.Place" "centerLocalizationSubalgebra"
+scoped instance centerLocalizationSubalgebra_isLocalization [IsFractionRing A F] :
+    IsLocalization.AtPrime (v.centerLocalizationSubalgebra A hA) (v.centerIdeal A hA) :=
+  Localization.subalgebra.isLocalization_ofField F _ _
+
+scoped instance centerLocalizationSubalgebra_isDomain [IsFractionRing A F] :
+    IsDomain (v.centerLocalizationSubalgebra A hA) :=
+  inferInstanceAs (IsDomain (_ : Subalgebra A F))
+
+private theorem _root_.AlgebraicCurve.Place.centerLocalizationSubalgebra_isDiscreteValuationRing
+    [IsDedekindDomain A] [IsFractionRing A F] :
+    IsDiscreteValuationRing (v.centerLocalizationSubalgebra A hA) :=
+  IsLocalization.AtPrime.isDiscreteValuationRing_of_dedekind_domain A
+    (v.centerIdeal_ne_bot_of_isFractionRing A hA) _
+
+p2m_export "AlgebraicCurve.Place" "centerLocalizationSubalgebra_isDiscreteValuationRing"
+scoped instance centerLocalizationSubalgebra_isFractionRing [IsFractionRing A F] :
+    IsFractionRing (v.centerLocalizationSubalgebra A hA) F :=
+  inferInstanceAs (IsFractionRing (Localization.subalgebra.ofField F _ _) F)
+
+private theorem _root_.AlgebraicCurve.Place.centerLocalizationSubalgebra_subset [IsFractionRing A F] :
+    ((v.centerLocalizationSubalgebra A hA : Subalgebra A F) : Set F)
+      ⊆ (v.toValuationSubring : Set F) := by
+  intro x hx
+
+  obtain ⟨a, s, hs, rfl⟩ := hx
+
+  rw [← div_eq_mul_inv]
+  exact div_mem_of_not_mem_centerIdeal v A hA a hs
+
+p2m_export "AlgebraicCurve.Place" "centerLocalizationSubalgebra_subset"
+private noncomputable def _root_.AlgebraicCurve.Place.centerLocalizationValuationSubring
+    [IsDedekindDomain A] [IsFractionRing A F] : ValuationSubring F where
+  toSubring := (v.centerLocalizationSubalgebra A hA).toSubring
+  mem_or_inv_mem' x := by
+    haveI := v.centerLocalizationSubalgebra_isDiscreteValuationRing A hA
+    rcases ValuationRing.isInteger_or_isInteger (v.centerLocalizationSubalgebra A hA) x with
+      ⟨a, ha⟩ | ⟨a, ha⟩
+    · exact Or.inl (ha ▸ a.2)
+    · exact Or.inr (ha ▸ a.2)
+
+p2m_export "AlgebraicCurve.Place" "centerLocalizationValuationSubring"
+theorem coe_centerLocalizationValuationSubring [IsDedekindDomain A] [IsFractionRing A F] :
+    ((v.centerLocalizationValuationSubring A hA : ValuationSubring F) : Set F)
+      = ((v.centerLocalizationSubalgebra A hA : Subalgebra A F) : Set F) := rfl
+
+scoped instance centerLocalizationValuationSubring_isDiscreteValuationRing
+    [IsDedekindDomain A] [IsFractionRing A F] :
+    IsDiscreteValuationRing (v.centerLocalizationValuationSubring A hA) :=
+  v.centerLocalizationSubalgebra_isDiscreteValuationRing A hA
+
+private theorem _root_.AlgebraicCurve.Place.centerLocalizationValuationSubring_le [IsDedekindDomain A] [IsFractionRing A F] :
+    v.centerLocalizationValuationSubring A hA ≤ v.toValuationSubring :=
+  v.centerLocalizationSubalgebra_subset A hA
+
+p2m_export "AlgebraicCurve.Place" "centerLocalizationValuationSubring_le"
+private theorem _root_.AlgebraicCurve.Place.centerLocalizationValuationSubring_eq [IsDedekindDomain A] [IsFractionRing A F] :
+    v.centerLocalizationValuationSubring A hA = v.toValuationSubring :=
+  ValuationSubring.eq_of_isDiscreteValuationRing_of_le
+    (v.centerLocalizationValuationSubring_le A hA) v.ne_top'
+
+p2m_export "AlgebraicCurve.Place" "centerLocalizationValuationSubring_eq"
+theorem coe_centerLocalizationSubalgebra_eq [IsDedekindDomain A] [IsFractionRing A F] :
+    ((v.centerLocalizationSubalgebra A hA : Subalgebra A F) : Set F)
+      = (v.toValuationSubring : Set F) := by
+  rw [← coe_centerLocalizationValuationSubring]
+  exact congrArg (SetLike.coe) (v.centerLocalizationValuationSubring_eq A hA)
+
+private theorem _root_.AlgebraicCurve.Place.mem_centerLocalizationSubalgebra_of_mem [IsDedekindDomain A] [IsFractionRing A F]
+    (x : F) (hx : x ∈ v.toValuationSubring) :
+    x ∈ (v.centerLocalizationSubalgebra A hA : Subalgebra A F) := by
+  rw [← SetLike.mem_coe, coe_centerLocalizationSubalgebra_eq]; exact hx
+
+p2m_export "AlgebraicCurve.Place" "mem_centerLocalizationSubalgebra_of_mem"
+private theorem _root_.AlgebraicCurve.Place.isLocalization_centerIdeal_of_isDedekindDomain
+    [IsDedekindDomain A] [IsFractionRing A F] :
+    letI := v.modelAlgebra A hA
+    IsLocalization.AtPrime v.toValuationSubring (v.centerIdeal A hA) := by
+  letI := v.modelAlgebra A hA
+  refine (isLocalization_iff _ _).mpr ⟨?_, ?_, ?_⟩
+  ·
+    exact v.isUnit_modelInclusion_of_mem_primeCompl A hA
+  ·
+
+    intro x
+    have hxP : (x : F) ∈ (v.centerLocalizationSubalgebra A hA : Subalgebra A F) :=
+      v.mem_centerLocalizationSubalgebra_of_mem A hA (x : F) x.2
+    obtain ⟨a, s, hs, hxeq⟩ := hxP
+
+    refine ⟨⟨a, ⟨s, hs⟩⟩, Subtype.ext ?_⟩
+    show (x : F) * ((s : A) : F) = ((a : A) : F)
+    have halg_s : algebraMap A F s = ((s : A) : F) := rfl
+    have halg_a : algebraMap A F a = ((a : A) : F) := rfl
+    have hs0 : algebraMap A F s ≠ 0 := by
+      intro hF
+      have hsne : s ≠ 0 := fun h => (h ▸ hs) (Ideal.zero_mem _)
+      exact hsne (Subtype.ext (p := (· ∈ A)) (halg_s ▸ hF))
+    rw [← halg_s, ← halg_a, hxeq, mul_assoc, inv_mul_cancel₀ hs0, mul_one]
+  ·
+    intro a₁ a₂ h
+    have hF : (a₁ : F) = (a₂ : F) :=
+      congrArg (Subtype.val : v.toValuationSubring → F) h
+    exact ⟨1, by rw [show a₁ = a₂ from Subtype.ext hF]⟩
+
+p2m_export "AlgebraicCurve.Place" "isLocalization_centerIdeal_of_isDedekindDomain"
+end LocalizationSubalgebra
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def ValSubringDedekindFractionModel : Prop :=
+  ∀ v : Place K F,
+    ∃ (A : Subalgebra K F) (_ : (A : Set F) ⊆ (v.toValuationSubring : Set F)),
+      Algebra.FiniteType K A ∧ IsDedekindDomain A ∧ IsFractionRing A F
+
+variable {K F}
+
+theorem valSubringDedekindModel_of_dedekindFractionModel
+    (hfrac : ValSubringDedekindFractionModel K F) :
+    ValSubringDedekindModel K F := fun v => by
+  obtain ⟨A, hA, hft, hded, hfracA⟩ := hfrac v
+  exact ⟨A, hA, hft, v.isLocalization_centerIdeal_of_isDedekindDomain A hA⟩
+
+theorem valSubringKaehlerFinite_of_dedekindFractionModel
+    (hfrac : ValSubringDedekindFractionModel K F) :
+    ValSubringKaehlerFinite K F :=
+  valSubringKaehlerFinite_of_dedekindModel
+    (valSubringDedekindModel_of_dedekindFractionModel hfrac)
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+
+section EulerGeneral
+
+variable [CharZero K] {p : K[X]} [Fact (Irreducible p)]
+
+theorem aeval_root_eq_sum_range {c : K[X]} {d : ℕ} (hd : c.natDegree < d) :
+    (aeval (AdjoinRoot.root p) c : AdjoinRoot p)
+      = ∑ k ∈ Finset.range d, c.coeff k • AdjoinRoot.root p ^ k := by
+  rw [aeval_def, eval₂_eq_sum_range' (algebraMap K (AdjoinRoot p)) hd]
+  exact Finset.sum_congr rfl fun k _ => (Algebra.smul_def _ _).symm
+
+theorem trace_adjoinRoot_mk_div_mk_derivative_of_degree_lt (hpmon : p.Monic)
+    {c : K[X]} (hdeg : c.degree < p.degree) :
+    Algebra.trace K (AdjoinRoot p)
+        (AdjoinRoot.mk p c / AdjoinRoot.mk p (derivative p))
+      = c.coeff (p.natDegree - 1) := by
+  haveI : FiniteDimensional K (AdjoinRoot p) :=
+    Module.Finite.of_basis (AdjoinRoot.powerBasis hpmon.ne_zero).basis
+
+  have hpd : 0 < p.natDegree := (Fact.out : Irreducible p).natDegree_pos
+  have hcd : c.natDegree < p.natDegree := by
+    rcases eq_or_ne c 0 with rfl | hc
+    · simpa using hpd
+    · exact natDegree_lt_natDegree hc hdeg
+  rw [← AdjoinRoot.aeval_eq, ← AdjoinRoot.aeval_eq,
+    aeval_root_eq_sum_range K hcd, Finset.sum_div, map_sum]
+
+  trans ∑ k ∈ Finset.range p.natDegree,
+      c.coeff k * Algebra.trace K (AdjoinRoot p)
+        (AdjoinRoot.root p ^ k / aeval (AdjoinRoot.root p) (derivative p))
+  · refine Finset.sum_congr rfl fun k _ => ?_
+    rw [Algebra.smul_def, mul_div_assoc, ← Algebra.smul_def, map_smul, smul_eq_mul]
+
+  rw [Finset.sum_eq_single (p.natDegree - 1)]
+  ·
+    rw [FLT.EulerDualBasis.trace_root_pow_div_derivative_self hpmon hpd, mul_one]
+  ·
+    intro k hk hkne
+    have hk' : k < p.natDegree - 1 :=
+      lt_of_le_of_ne (Nat.le_sub_one_of_lt (Finset.mem_range.mp hk)) hkne
+    rw [FLT.EulerDualBasis.trace_root_pow_div_derivative_of_lt hpmon hk', mul_zero]
+  ·
+    intro h
+    exact absurd (Finset.mem_range.mpr (Nat.sub_lt hpd one_pos)) h
+
+end EulerGeneral
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AlgEquiv
+
+variable {p : K[X]} (hpirr : Irreducible p)
+
+def finitePlaceResidueFieldAlgEquivAdjoinRoot :
+    AdjoinRoot p ≃ₐ[K] (finitePlace K hpirr).ResidueField :=
+  residueFieldEquivOfHeightOneSpectrum K (heightOneSpectrumOfIrreducible K hpirr)
+
+theorem finitePlaceResidueFieldAlgEquivAdjoinRoot_mk (q : K[X]) :
+    finitePlaceResidueFieldAlgEquivAdjoinRoot K hpirr (AdjoinRoot.mk p q)
+      = IsLocalRing.residue _ ⟨algebraMap K[X] (RatFunc K) q,
+          algebraMap_mem_ofHeightOneSpectrum K _ q⟩ :=
+  rfl
+
+end AlgEquiv
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TraceTransport
+
+variable {p : K[X]} (hpirr : Irreducible p)
+
+theorem trace_finitePlace_residueField_eq_trace_adjoinRoot
+    (y : (finitePlace K hpirr).ResidueField) :
+    Algebra.trace K (finitePlace K hpirr).ResidueField y
+      = Algebra.trace K (AdjoinRoot p)
+          ((finitePlaceResidueFieldAlgEquivAdjoinRoot K hpirr).symm y) := by
+  conv_lhs => rw [← (finitePlaceResidueFieldAlgEquivAdjoinRoot K hpirr).apply_symm_apply y]
+  exact Algebra.trace_eq_of_algEquiv _ _
+
+end TraceTransport
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section BridgeRows
+
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates]
+
+def P1FinitePlaceSimplePoleResidueAdjoinRootValue : Prop :=
+  ∀ (p c : K[X]) (_ : p.Monic) (hpirr : Irreducible p), c.degree < p.degree →
+    letI : Fact (Irreducible p) := ⟨hpirr⟩
+    ∀ (hfmem : p1PrincipalPartAtom K p c 1 * (finitePlace K hpirr).differentialCoeff (dX K)
+        ∈ (finitePlace K hpirr).simplePoleSubmodule),
+    (finitePlaceResidueFieldAlgEquivAdjoinRoot K hpirr).symm
+        ((finitePlace K hpirr).simplePoleResidueAux ⟨_, hfmem⟩)
+      = AdjoinRoot.mk p c / AdjoinRoot.mk p (derivative p)
+
+def P1PlaceInftySimplePoleResidueEulerValue : Prop :=
+  ∀ (p c : K[X]) (_ : p.Monic) (_ : Irreducible p), c.degree < p.degree →
+    ∀ (himem : p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff (dX K)
+        ∈ (placeInfty K).simplePoleSubmodule),
+    Algebra.trace K (placeInfty K).ResidueField
+        ((placeInfty K).simplePoleResidueAux ⟨_, himem⟩)
+      = -(c.coeff (p.natDegree - 1))
+
+end BridgeRows
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section FinitePlaceTrace
+
+variable [CharZero K]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates]
+
+theorem trace_finitePlace_simplePoleResidue_of_adjoinRootValue
+    (hbridge : P1FinitePlaceSimplePoleResidueAdjoinRootValue K)
+    {p c : K[X]} (hpmon : p.Monic) (hpirr : Irreducible p) (hdeg : c.degree < p.degree)
+    (hfmem : p1PrincipalPartAtom K p c 1 * (finitePlace K hpirr).differentialCoeff (dX K)
+        ∈ (finitePlace K hpirr).simplePoleSubmodule) :
+    Algebra.trace K (finitePlace K hpirr).ResidueField
+        ((finitePlace K hpirr).simplePoleResidueAux ⟨_, hfmem⟩)
+      = c.coeff (p.natDegree - 1) := by
+  haveI : Fact (Irreducible p) := ⟨hpirr⟩
+  have hval := hbridge p c hpmon hpirr hdeg
+  rw [trace_finitePlace_residueField_eq_trace_adjoinRoot K hpirr, hval hfmem,
+    trace_adjoinRoot_mk_div_mk_derivative_of_degree_lt K hpmon hdeg]
+
+end FinitePlaceTrace
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section HigherDegReduction
+
+variable [CharZero K]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1PrincipalPartMOneSimplePoleCancel_of_eulerBridge
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0) (heq : ω₀ = dX K)
+    (hfin : P1FinitePlaceSimplePoleResidueAdjoinRootValue K)
+    (hinf : P1PlaceInftySimplePoleResidueEulerValue K) :
+    P1PrincipalPartMOneSimplePoleCancel K hω₀ := by
+  subst heq
+  intro p c hpmon hpirr hdeg hfmem himem
+  rw [trace_finitePlace_simplePoleResidue_of_adjoinRootValue K hfin hpmon hpirr hdeg hfmem,
+    hinf p c hpmon hpirr hdeg himem, add_neg_cancel]
+
+end HigherDegReduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ComposedEngine
+
+variable [CharZero K] [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+p2m_open "IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section IntegrallyClosed
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.isIntegrallyClosed_toValuationSubring :
+    IsIntegrallyClosed v.toValuationSubring := inferInstance
+
+p2m_export "AlgebraicCurve.Place" "isIntegrallyClosed_toValuationSubring"
+private theorem _root_.AlgebraicCurve.Place.mem_valuationSubring_of_isIntegral {x : F}
+    (hx : _root_.IsIntegral v.toValuationSubring x) :
+    x ∈ v.toValuationSubring := by
+  obtain ⟨y, hy⟩ := (isIntegrallyClosed_iff F).mp (v.isIntegrallyClosed_toValuationSubring) hx
+  exact hy ▸ y.2
+
+p2m_export "AlgebraicCurve.Place" "mem_valuationSubring_of_isIntegral"
+variable (B : Subalgebra K F) (hB : (B : Set F) ⊆ (v.toValuationSubring : Set F))
+
+include hB in
+
+private theorem _root_.AlgebraicCurve.Place.modelAlgebra_isScalarTower_top :
+    letI := v.modelAlgebra B hB
+    IsScalarTower B v.toValuationSubring F := by
+  letI := v.modelAlgebra B hB
+  refine IsScalarTower.of_algebraMap_eq fun b => ?_
+  rfl
+
+p2m_export "AlgebraicCurve.Place" "modelAlgebra_isScalarTower_top"
+include hB in
+
+private theorem _root_.AlgebraicCurve.Place.mem_valuationSubring_of_isIntegral_subalgebra {x : F}
+    (hx : _root_.IsIntegral B x) :
+    x ∈ v.toValuationSubring := by
+  letI := v.modelAlgebra B hB
+  haveI := v.modelAlgebra_isScalarTower_top B hB
+  exact v.mem_valuationSubring_of_isIntegral (hx.tower_top (A := v.toValuationSubring))
+
+p2m_export "AlgebraicCurve.Place" "mem_valuationSubring_of_isIntegral_subalgebra"
+include hB in
+
+private theorem _root_.AlgebraicCurve.Place.integralClosure_subset_valuationSubring :
+    ((integralClosure B F : Subalgebra B F) : Set F)
+      ⊆ (v.toValuationSubring : Set F) := fun _ hx =>
+  v.mem_valuationSubring_of_isIntegral_subalgebra B hB hx
+
+p2m_export "AlgebraicCurve.Place" "integralClosure_subset_valuationSubring"
+end IntegrallyClosed
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TwoCharts
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def IsAffineChart (A : Subalgebra K F) : Prop :=
+  Algebra.FiniteType K A ∧ IsDedekindDomain A ∧ IsFractionRing A F
+
+def ValSubringTwoAffineCharts : Prop :=
+  ∃ A₀ A₁ : Subalgebra K F, IsAffineChart K F A₀ ∧ IsAffineChart K F A₁
+    ∧ ∀ v : Place K F, (A₀ : Set F) ⊆ (v.toValuationSubring : Set F)
+        ∨ (A₁ : Set F) ⊆ (v.toValuationSubring : Set F)
+
+variable {K F}
+
+theorem valSubringDedekindFractionModel_of_twoAffineCharts
+    (h : ValSubringTwoAffineCharts K F) :
+    ValSubringDedekindFractionModel K F := fun v => by
+  obtain ⟨A₀, A₁, ⟨hft₀, hded₀, hfrac₀⟩, ⟨hft₁, hded₁, hfrac₁⟩, hcover⟩ := h
+  rcases hcover v with h₀ | h₁
+  · exact ⟨A₀, h₀, hft₀, hded₀, hfrac₀⟩
+  · exact ⟨A₁, h₁, hft₁, hded₁, hfrac₁⟩
+
+theorem valSubringKaehlerFinite_of_twoAffineCharts
+    (h : ValSubringTwoAffineCharts K F) :
+    ValSubringKaehlerFinite K F :=
+  valSubringKaehlerFinite_of_dedekindFractionModel
+    (valSubringDedekindFractionModel_of_twoAffineCharts h)
+
+end TwoCharts
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section Gates
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+namespace Place p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod" end Place
+namespace Place
+p2m_open_scoped "AlgebraicCurve.Place" in
+@[reducible] private noncomputable def _root_.AlgebraicCurve.Place.toKSubalgebra (v : Place K F) : Subalgebra K F where
+  __ := v.toValuationSubring.toSubring
+  algebraMap_mem' c := v.algebraMap_mem' c
+
+end Place
+p2m_export "AlgebraicCurve" "Place.toKSubalgebra"
+namespace Place
+p2m_open_scoped "AlgebraicCurve.Place" in
+private theorem _root_.AlgebraicCurve.Place.coe_toKSubalgebra (v : Place K F) :
+    (v.toKSubalgebra : Set F) = (v.toValuationSubring : Set F) := rfl
+
+end Place
+p2m_export "AlgebraicCurve" "Place.coe_toKSubalgebra"
+theorem gate_adjoin_subset_valuationSubring_of_mem (v : Place K F) {t : F}
+    (ht : t ∈ v.toValuationSubring) :
+    ((Algebra.adjoin K {t} : Subalgebra K F) : Set F)
+      ⊆ (v.toValuationSubring : Set F) := by
+  rw [← v.coe_toKSubalgebra]
+  exact Algebra.adjoin_le (Set.singleton_subset_iff.mpr ht)
+
+end Gates
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.simplePoleResidueAux_mul_of_mem {a : F} (ha : a ∈ v.toValuationSubring)
+    {f : F} (hf : f ∈ v.simplePoleSubmodule)
+    (haf : a * f ∈ v.simplePoleSubmodule) :
+    v.simplePoleResidueAux ⟨a * f, haf⟩
+      = IsLocalRing.residue _ ⟨a, ha⟩ * v.simplePoleResidueAux ⟨f, hf⟩ := by
+  rw [simplePoleResidueAux_apply, simplePoleResidueAux_apply, ← map_mul]
+  exact congrArg (IsLocalRing.residue _) (Subtype.ext (mul_left_comm _ _ _))
+
+p2m_export "AlgebraicCurve.Place" "simplePoleResidueAux_mul_of_mem"
+private theorem _root_.AlgebraicCurve.Place.mul_mem_simplePoleSubmodule_of_mem {a : F} (ha : a ∈ v.toValuationSubring)
+    {f : F} (hf : f ∈ v.simplePoleSubmodule) :
+    a * f ∈ v.simplePoleSubmodule := by
+  rw [mem_simplePoleSubmodule, mul_left_comm]
+  exact mul_mem ha hf
+
+p2m_export "AlgebraicCurve.Place" "mul_mem_simplePoleSubmodule_of_mem"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section DerivativeRegular
+
+variable (K)
+variable [DecidableEq (RatFunc K)]
+
+theorem denom_notMem_of_mem_ofHeightOneSpectrum (w : HeightOneSpectrum K[X]) {f : RatFunc K}
+    (hf : f ∈ (Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w).toValuationSubring) :
+    f.denom ∉ w.asIdeal := by
+  intro hd
+  have hxval : w.valuation (RatFunc K) f ≤ 1 :=
+    (Place.isEquiv_adicValuation_ofHeightOneSpectrum (K := K)
+      (F := RatFunc K) w).le_one_iff_le_one.mpr ((Place.mem_iff_adicValuation_le_one _).mp hf)
+  have hden_ne : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr f.denom_ne_zero
+  have hmul : f * algebraMap K[X] (RatFunc K) f.denom = algebraMap K[X] (RatFunc K) f.num :=
+    ((div_eq_iff hden_ne).mp f.num_div_denom).symm
+  have hnum : f.num ∉ w.asIdeal := by
+    intro hn
+    refine w.isPrime.ne_top ((Ideal.eq_top_iff_one _).mpr ?_)
+    obtain ⟨a, b, hab⟩ := RatFunc.isCoprime_num_denom f
+    exact hab ▸ Ideal.add_mem _ (Ideal.mul_mem_left _ _ hn) (Ideal.mul_mem_left _ _ hd)
+  have h1 : w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) f.num) = 1 :=
+    (HeightOneSpectrum.valuation_eq_one_iff_notMem w).mpr hnum
+  refine absurd h1 (ne_of_lt ?_)
+  calc w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) f.num)
+      = w.valuation (RatFunc K) f
+          * w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) f.denom) := by
+        rw [← map_mul, hmul]
+    _ ≤ w.valuation (RatFunc K) (algebraMap K[X] (RatFunc K) f.denom) :=
+        mul_le_of_le_one_left' hxval
+    _ < 1 := (HeightOneSpectrum.valuation_lt_one_iff_mem w f.denom).mpr hd
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+private theorem differentialCoeff_add' (v : Place K (RatFunc K)) (ω₁ ω₂ : Ω[(RatFunc K)⁄K]) :
+    v.differentialCoeff (ω₁ + ω₂) = v.differentialCoeff ω₁ + v.differentialCoeff ω₂ :=
+  v.differentialCoeff_unique
+    (by rw [add_smul, v.differentialCoeff_smul_dCoord, v.differentialCoeff_smul_dCoord])
+
+theorem differentialCoeff_D_algebraMap_polynomial (v : Place K (RatFunc K)) (q : K[X]) :
+    v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) q))
+      = algebraMap K[X] (RatFunc K) q.derivative * v.differentialCoeff (dX K) := by
+  rw [D_algebraMap_polynomial K q, v.differentialCoeff_smul]
+
+theorem differentialCoeff_D_mem_finitePlace [CharZero K] {p : K[X]} (hpirr : Irreducible p)
+    {f : RatFunc K} (hf : f ∈ (finitePlace K hpirr).toValuationSubring) :
+    (finitePlace K hpirr).differentialCoeff (D K (RatFunc K) f)
+      ∈ (finitePlace K hpirr).toValuationSubring := by
+  set v := finitePlace K hpirr
+
+  set ξ : K[X] := f.num.derivative * f.denom - f.num * f.denom.derivative
+  have hd0 : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr f.denom_ne_zero
+  have hcoeff : v.differentialCoeff (D K (RatFunc K) f)
+      = algebraMap K[X] (RatFunc K) ξ * ((algebraMap K[X] (RatFunc K) f.denom) ^ 2)⁻¹
+          * v.differentialCoeff (dX K) := by
+    have hkey := denom_sq_smul_D_eq K f
+    refine v.differentialCoeff_unique ?_
+    rw [mul_smul, v.differentialCoeff_smul_dCoord, mul_comm, mul_smul, ← hkey, smul_smul,
+      inv_mul_cancel₀ (pow_ne_zero 2 hd0), one_smul]
+  rw [hcoeff]
+
+  refine mul_mem (mul_mem ?_ ?_) ?_
+  · exact algebraMap_mem_ofHeightOneSpectrum K _ ξ
+  ·
+    have hden_notmem : f.denom ∉ (heightOneSpectrumOfIrreducible K hpirr).asIdeal :=
+      denom_notMem_of_mem_ofHeightOneSpectrum K _ hf
+    have hordd : v.ord (algebraMap K[X] (RatFunc K) f.denom) = 0 := by
+      by_contra h
+      exact hden_notmem ((Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K)
+        (F := RatFunc K) _ f.denom_ne_zero).mp h)
+    refine v.mem_of_ord_nonneg (inv_ne_zero (pow_ne_zero 2 hd0)) ?_
+    rw [v.ord_inv, ← zpow_natCast, v.ord_zpow, hordd, mul_zero, _root_.neg_zero]
+  · exact v.mem_of_ord_nonneg (v.differentialCoeff_ne_zero (dX_ne_zero K))
+      (ord_differentialCoeff_dX_ofHeightOneSpectrum hpirr
+        (heightOneSpectrumOfIrreducible_asIdeal K hpirr) hpirr.separable).ge
+
+end DerivativeRegular
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section LeibnizCore
+
+variable (K)
+variable [DecidableEq (RatFunc K)] [CharZero K]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem uniformizer_div_mem_finitePlace {p : K[X]} (hpirr : Irreducible p) :
+    (finitePlace K hpirr).uniformizer / algebraMap K[X] (RatFunc K) p
+      ∈ (finitePlace K hpirr).toValuationSubring := by
+  set v := finitePlace K hpirr
+  have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hpirr.ne_zero
+  refine v.mem_of_ord_nonneg (div_ne_zero v.uniformizer_ne_zero hp0) ?_
+  rw [div_eq_mul_inv, v.ord_mul v.uniformizer_ne_zero (inv_ne_zero hp0), v.ord_inv,
+    v.ord_uniformizer, ord_finitePlace_self K hpirr]
+  omega
+
+theorem one_sub_uniformizer_div_mul_differentialCoeff_D
+    {p : K[X]} (hpirr : Irreducible p) :
+    (1 : RatFunc K) - (finitePlace K hpirr).uniformizer / algebraMap K[X] (RatFunc K) p
+        * (finitePlace K hpirr).differentialCoeff
+            (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))
+      = algebraMap K[X] (RatFunc K) p
+          * (finitePlace K hpirr).differentialCoeff
+              (D K (RatFunc K) ((finitePlace K hpirr).uniformizer
+                / algebraMap K[X] (RatFunc K) p)) := by
+  set v := finitePlace K hpirr
+  have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hpirr.ne_zero
+
+  have hleib : D K (RatFunc K) v.uniformizer
+      = (v.uniformizer / algebraMap K[X] (RatFunc K) p)
+            • D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)
+        + algebraMap K[X] (RatFunc K) p
+            • D K (RatFunc K) (v.uniformizer / algebraMap K[X] (RatFunc K) p) := by
+    have h := (D K (RatFunc K)).leibniz (a := v.uniformizer / algebraMap K[X] (RatFunc K) p)
+      (b := algebraMap K[X] (RatFunc K) p)
+    rw [div_mul_cancel₀ _ hp0] at h
+    exact h
+
+  have h1 : (1 : RatFunc K)
+      = (v.uniformizer / algebraMap K[X] (RatFunc K) p)
+            * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))
+        + algebraMap K[X] (RatFunc K) p
+            * v.differentialCoeff
+                (D K (RatFunc K) (v.uniformizer / algebraMap K[X] (RatFunc K) p)) := by
+    have hcoord : D K (RatFunc K) v.uniformizer = v.dCoord := rfl
+    rw [← v.differentialCoeff_dCoord, ← hcoord, hleib, differentialCoeff_add' K,
+      v.differentialCoeff_smul, v.differentialCoeff_smul]
+  linear_combination h1
+
+theorem uniformizer_div_mul_differentialCoeff_D_mem_finitePlace
+    {p : K[X]} (hpirr : Irreducible p) :
+    (finitePlace K hpirr).uniformizer / algebraMap K[X] (RatFunc K) p
+        * (finitePlace K hpirr).differentialCoeff
+            (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))
+      ∈ (finitePlace K hpirr).toValuationSubring := by
+  set v := finitePlace K hpirr
+  have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hpirr.ne_zero
+  refine mul_mem (uniformizer_div_mem_finitePlace K hpirr) ?_
+  rw [differentialCoeff_D_algebraMap_polynomial K]
+  exact mul_mem (algebraMap_mem_ofHeightOneSpectrum K _ p.derivative)
+    (v.mem_of_ord_nonneg (v.differentialCoeff_ne_zero (dX_ne_zero K))
+      (ord_differentialCoeff_dX_ofHeightOneSpectrum hpirr
+        (heightOneSpectrumOfIrreducible_asIdeal K hpirr) hpirr.separable).ge)
+
+theorem residue_uniformizer_div_mul_differentialCoeff_D_eq_one
+    {p : K[X]} (hpirr : Irreducible p) :
+    IsLocalRing.residue _ ⟨_, uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩
+      = (1 : (finitePlace K hpirr).ResidueField) := by
+  set v := finitePlace K hpirr
+  rw [← sub_eq_zero, show (1 : v.ResidueField) = IsLocalRing.residue _ 1 by simp,
+    ← map_sub, IsLocalRing.residue_eq_zero_iff]
+
+  have hsubmem : (1 : RatFunc K) - (v.uniformizer / algebraMap K[X] (RatFunc K) p
+      * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)))
+        ∈ v.toValuationSubring :=
+    sub_mem (one_mem _) (uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr)
+  have hcoe : (⟨_, uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩
+        - 1 : v.toValuationSubring)
+      = -⟨_, hsubmem⟩ :=
+    Subtype.ext (by push_cast; ring)
+  rw [hcoe]
+  refine neg_mem ?_
+
+  have herr : (1 : RatFunc K) - (v.uniformizer / algebraMap K[X] (RatFunc K) p
+      * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)))
+        = algebraMap K[X] (RatFunc K) p
+          * v.differentialCoeff (D K (RatFunc K)
+              (v.uniformizer / algebraMap K[X] (RatFunc K) p)) :=
+    one_sub_uniformizer_div_mul_differentialCoeff_D K hpirr
+
+  have hpmem : (⟨algebraMap K[X] (RatFunc K) p, algebraMap_mem_ofHeightOneSpectrum K _ p⟩
+      : v.toValuationSubring) ∈ IsLocalRing.maximalIdeal v.toValuationSubring := by
+    rw [Place.mem_maximalIdeal_iff_adicValuation_lt_one]
+    refine (Place.isEquiv_adicValuation_ofHeightOneSpectrum (K := K)
+      (F := RatFunc K) (heightOneSpectrumOfIrreducible K hpirr)).lt_one_iff_lt_one.mp ?_
+    exact (HeightOneSpectrum.valuation_lt_one_iff_mem _ p).mpr
+      (Ideal.mem_span_singleton_self p)
+  have hregmem : v.differentialCoeff (D K (RatFunc K)
+        (v.uniformizer / algebraMap K[X] (RatFunc K) p)) ∈ v.toValuationSubring :=
+    differentialCoeff_D_mem_finitePlace K hpirr (uniformizer_div_mem_finitePlace K hpirr)
+  have hprod : (⟨_, hsubmem⟩ : v.toValuationSubring)
+      = ⟨_, algebraMap_mem_ofHeightOneSpectrum K _ p⟩ * ⟨_, hregmem⟩ :=
+    Subtype.ext herr
+  rw [hprod]
+  exact Ideal.mul_mem_right _ _ hpmem
+
+end LeibnizCore
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section BridgeDischarge
+
+variable (K)
+variable [DecidableEq (RatFunc K)] [CharZero K]
+variable [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem residue_algebraMap_derivative_ne_zero {p : K[X]} (hpirr : Irreducible p) :
+    IsLocalRing.residue _ ⟨algebraMap K[X] (RatFunc K) p.derivative,
+        algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩
+      ≠ (0 : (finitePlace K hpirr).ResidueField) := by
+  rw [ne_eq, IsLocalRing.residue_eq_zero_iff,
+    Place.mem_maximalIdeal_iff_adicValuation_lt_one]
+  intro hlt
+  have hlt' := (Place.isEquiv_adicValuation_ofHeightOneSpectrum (K := K)
+    (F := RatFunc K) (heightOneSpectrumOfIrreducible K hpirr)).lt_one_iff_lt_one.mpr hlt
+  rw [HeightOneSpectrum.valuation_lt_one_iff_mem,
+    heightOneSpectrumOfIrreducible_asIdeal K hpirr, Ideal.mem_span_singleton] at hlt'
+  exact hpirr.not_isUnit (hpirr.separable.isUnit_of_dvd' dvd_rfl hlt')
+
+theorem simplePoleResidueAux_finitePlace_p1PrincipalPartAtom_mOne
+    {p c : K[X]} (hpirr : Irreducible p)
+    (hfmem : p1PrincipalPartAtom K p c 1 * (finitePlace K hpirr).differentialCoeff (dX K)
+        ∈ (finitePlace K hpirr).simplePoleSubmodule) :
+    (finitePlace K hpirr).simplePoleResidueAux ⟨_, hfmem⟩
+      = IsLocalRing.residue _ ⟨algebraMap K[X] (RatFunc K) c,
+            algebraMap_mem_ofHeightOneSpectrum K _ c⟩
+        / IsLocalRing.residue _ ⟨algebraMap K[X] (RatFunc K) p.derivative,
+            algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩ := by
+  set v := finitePlace K hpirr
+  have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hpirr.ne_zero
+
+  rw [Place.simplePoleResidueAux_apply, eq_div_iff (residue_algebraMap_derivative_ne_zero K hpirr)]
+
+  have hkey : (v.uniformizer * (p1PrincipalPartAtom K p c 1 * v.differentialCoeff (dX K)))
+        * algebraMap K[X] (RatFunc K) p.derivative
+      = algebraMap K[X] (RatFunc K) c
+        * (v.uniformizer / algebraMap K[X] (RatFunc K) p
+            * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))) := by
+    rw [differentialCoeff_D_algebraMap_polynomial K]
+    show v.uniformizer
+        * (algebraMap K[X] (RatFunc K) c / algebraMap K[X] (RatFunc K) p ^ 1
+            * v.differentialCoeff (dX K))
+        * algebraMap K[X] (RatFunc K) (derivative p)
+      = algebraMap K[X] (RatFunc K) c
+        * (v.uniformizer / algebraMap K[X] (RatFunc K) p
+            * (algebraMap K[X] (RatFunc K) (derivative p) * v.differentialCoeff (dX K)))
+    rw [pow_one, div_mul_eq_mul_div, div_mul_eq_mul_div, mul_div_assoc, mul_div_assoc]
+    ring_nf
+
+  have hLHSmem : v.uniformizer * (p1PrincipalPartAtom K p c 1 * v.differentialCoeff (dX K))
+      * algebraMap K[X] (RatFunc K) p.derivative ∈ v.toValuationSubring :=
+    mul_mem hfmem (algebraMap_mem_ofHeightOneSpectrum K _ p.derivative)
+  have hRHSmem : algebraMap K[X] (RatFunc K) c
+      * (v.uniformizer / algebraMap K[X] (RatFunc K) p
+          * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)))
+        ∈ v.toValuationSubring :=
+    mul_mem (algebraMap_mem_ofHeightOneSpectrum K _ c)
+      (uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr)
+  calc IsLocalRing.residue _ ⟨_, hfmem⟩ * IsLocalRing.residue _ ⟨_,
+          algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩
+      = IsLocalRing.residue _ (⟨_, hfmem⟩ * ⟨_,
+          algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩) := (map_mul _ _ _).symm
+    _ = IsLocalRing.residue _ ⟨_, hLHSmem⟩ :=
+        congrArg (IsLocalRing.residue _) (Subtype.ext rfl)
+    _ = IsLocalRing.residue _ ⟨_, hRHSmem⟩ :=
+        congrArg (IsLocalRing.residue _) (Subtype.ext hkey)
+    _ = IsLocalRing.residue _ (⟨_, algebraMap_mem_ofHeightOneSpectrum K _ c⟩
+          * ⟨_, uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩) :=
+        congrArg (IsLocalRing.residue _) (Subtype.ext rfl)
+    _ = IsLocalRing.residue _ ⟨_, algebraMap_mem_ofHeightOneSpectrum K _ c⟩
+          * IsLocalRing.residue _
+              ⟨_, uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩ :=
+        map_mul _ _ _
+    _ = IsLocalRing.residue _ ⟨_, algebraMap_mem_ofHeightOneSpectrum K _ c⟩ := by
+        rw [residue_uniformizer_div_mul_differentialCoeff_D_eq_one K hpirr, mul_one]
+
+theorem p1FinitePlaceSimplePoleResidueAdjoinRootValue_dX :
+    P1FinitePlaceSimplePoleResidueAdjoinRootValue K := by
+  intro p c _ hpirr _
+  letI : Fact (Irreducible p) := ⟨hpirr⟩
+  intro hfmem
+  rw [simplePoleResidueAux_finitePlace_p1PrincipalPartAtom_mOne K hpirr hfmem,
+    AlgEquiv.symm_apply_eq, map_div₀,
+    finitePlaceResidueFieldAlgEquivAdjoinRoot_mk K hpirr c,
+    finitePlaceResidueFieldAlgEquivAdjoinRoot_mk K hpirr p.derivative]
+
+end BridgeDischarge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ComposedEngine
+
+variable (K)
+variable [DecidableEq (RatFunc K)] [CharZero K]
+variable [HasCanonicalDivisor (K := K) (F := RatFunc K)] [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1PrincipalPartMOneSimplePoleCancel_of_inftyBridge
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0) (heq : ω₀ = dX K)
+    (hinf : P1PlaceInftySimplePoleResidueEulerValue K) :
+    P1PrincipalPartMOneSimplePoleCancel K hω₀ :=
+  p1PrincipalPartMOneSimplePoleCancel_of_eulerBridge K hω₀ heq
+    (p1FinitePlaceSimplePoleResidueAdjoinRootValue_dX K) hinf
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+p2m_open "IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField IntermediateField.algebraAdjoinAdjoin P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField.algebraAdjoinAdjoin"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section AdjoinRingProperties
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+private theorem _root_.Transcendental.isPrincipalIdealRing_adjoin {t : F} (ht : Transcendental K t) :
+    IsPrincipalIdealRing ↥(Algebra.adjoin K ({t} : Set F)) :=
+  IsPrincipalIdealRing.of_surjective
+    (Polynomial.algEquivOfTranscendental K t ht).toRingHom
+    (Polynomial.algEquivOfTranscendental K t ht).surjective
+
+p2m_alias "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Transcendental.isPrincipalIdealRing_adjoin" "Transcendental.isPrincipalIdealRing_adjoin"
+private theorem _root_.Transcendental.isDedekindDomain_adjoin {t : F} (ht : Transcendental K t) :
+    IsDedekindDomain ↥(Algebra.adjoin K ({t} : Set F)) :=
+  haveI := ht.isPrincipalIdealRing_adjoin
+  inferInstance
+
+p2m_alias "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Transcendental.isDedekindDomain_adjoin" "Transcendental.isDedekindDomain_adjoin"
+private theorem _root_.Transcendental.isIntegrallyClosed_adjoin {t : F} (ht : Transcendental K t) :
+    IsIntegrallyClosed ↥(Algebra.adjoin K ({t} : Set F)) :=
+  haveI := ht.isDedekindDomain_adjoin
+  inferInstance
+
+p2m_alias "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Transcendental.isIntegrallyClosed_adjoin" "Transcendental.isIntegrallyClosed_adjoin"
+private theorem _root_.Transcendental.isNoetherianRing_adjoin {t : F} (ht : Transcendental K t) :
+    IsNoetherianRing ↥(Algebra.adjoin K ({t} : Set F)) :=
+  haveI := ht.isPrincipalIdealRing_adjoin
+  inferInstance
+
+p2m_alias "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Transcendental.isNoetherianRing_adjoin" "Transcendental.isNoetherianRing_adjoin"
+private theorem _root_.Algebra.FiniteType.adjoin_singleton (t : F) :
+    Algebra.FiniteType K ↥(Algebra.adjoin K ({t} : Set F)) :=
+  Algebra.FiniteType.adjoin_of_finite (Set.finite_singleton t)
+
+p2m_alias "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Algebra.FiniteType.adjoin_singleton" "Algebra.FiniteType.adjoin_singleton"
+private theorem _root_.Transcendental.inv {t : F} (ht : Transcendental K t) :
+    Transcendental K t⁻¹ := by
+  rw [Transcendental, IsAlgebraic.inv_iff]; exact ht
+
+p2m_alias "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Transcendental.inv" "Transcendental.inv"
+end AdjoinRingProperties
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TranscendentalChart
+
+variable (K : Type*) {F : Type*} [Field K] [Field F] [Algebra K F]
+
+@[reducible] noncomputable def transcendentalChart (t : F) : Subalgebra K F :=
+  (integralClosure (Algebra.adjoin K ({t} : Set F)) F).restrictScalars K
+
+theorem coe_transcendentalChart (t : F) :
+    (transcendentalChart K t : Set F)
+      = ((integralClosure (Algebra.adjoin K ({t} : Set F)) F : Subalgebra _ F) : Set F) :=
+  rfl
+
+variable {K}
+
+theorem transcendentalChart_subset_valuationSubring_of_mem (v : Place K F)
+    {t : F} (ht : t ∈ v.toValuationSubring) :
+    (transcendentalChart K t : Set F) ⊆ (v.toValuationSubring : Set F) := by
+  rw [coe_transcendentalChart]
+  exact v.integralClosure_subset_valuationSubring _
+    (gate_adjoin_subset_valuationSubring_of_mem v ht)
+
+theorem transcendentalChart_subset_or_inv_subset (v : Place K F) (t : F) :
+    (transcendentalChart K t : Set F) ⊆ (v.toValuationSubring : Set F)
+      ∨ (transcendentalChart K t⁻¹ : Set F) ⊆ (v.toValuationSubring : Set F) :=
+  (v.toValuationSubring.mem_or_inv_mem t).imp
+    (transcendentalChart_subset_valuationSubring_of_mem v)
+    (transcendentalChart_subset_valuationSubring_of_mem v)
+
+end TranscendentalChart
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section IsAffineChartEngine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+section
+
+variable (B : Subalgebra K F)
+
+theorem isScalarTower_integralClosure_subalgebra :
+    IsScalarTower K B ↥(integralClosure B F) := by
+  refine IsScalarTower.of_algebraMap_eq fun c => ?_
+  exact Subtype.ext rfl
+
+theorem finiteType_integralClosure_of_moduleFinite (hft : Algebra.FiniteType K B)
+    (hfin : Module.Finite B ↥(integralClosure B F)) :
+    Algebra.FiniteType K ↥(integralClosure B F) :=
+  haveI := isScalarTower_integralClosure_subalgebra B
+  haveI := hfin
+  Algebra.FiniteType.trans (S := B) hft inferInstance
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+theorem isDedekindDomain_integralClosure_adjoin {t : F} (ht : Transcendental K t)
+    [FiniteDimensional K⟮t⟯ F] [Algebra.IsSeparable K⟮t⟯ F] :
+    IsDedekindDomain ↥(integralClosure (Algebra.adjoin K ({t} : Set F)) F) := by
+  haveI := ht.isDedekindDomain_adjoin
+  exact integralClosure.isDedekindDomain ↥(Algebra.adjoin K ({t} : Set F)) ↥(K⟮t⟯) F
+
+theorem isFractionRing_integralClosure_adjoin (t : F) [FiniteDimensional K⟮t⟯ F] :
+    IsFractionRing ↥(integralClosure (Algebra.adjoin K ({t} : Set F)) F) F :=
+  integralClosure.isFractionRing_of_finite_extension
+    (A := ↥(Algebra.adjoin K ({t} : Set F))) ↥(K⟮t⟯) F
+
+set_option synthInstance.maxHeartbeats 320000 in
+
+theorem moduleFinite_integralClosure_adjoin {t : F} (ht : Transcendental K t)
+    [FiniteDimensional K⟮t⟯ F] [Algebra.IsSeparable K⟮t⟯ F] :
+    Module.Finite ↥(Algebra.adjoin K ({t} : Set F))
+      ↥(integralClosure (Algebra.adjoin K ({t} : Set F)) F) := by
+  haveI := ht.isIntegrallyClosed_adjoin
+  haveI := ht.isNoetherianRing_adjoin
+  exact IsIntegralClosure.finite (A := ↥(Algebra.adjoin K ({t} : Set F)))
+    (K := ↥(K⟮t⟯)) (L := F) (integralClosure ↥(Algebra.adjoin K ({t} : Set F)) F)
+
+theorem finiteType_integralClosure_adjoin {t : F} (ht : Transcendental K t)
+    [FiniteDimensional K⟮t⟯ F] [Algebra.IsSeparable K⟮t⟯ F] :
+    Algebra.FiniteType K ↥(integralClosure (Algebra.adjoin K ({t} : Set F)) F) :=
+  finiteType_integralClosure_of_moduleFinite (Algebra.adjoin K {t})
+    (Algebra.FiniteType.adjoin_singleton t) (moduleFinite_integralClosure_adjoin ht)
+
+theorem isAffineChart_restrictScalars_integralClosure (B : Subalgebra K F)
+    (hft : Algebra.FiniteType K ↥(integralClosure B F))
+    (hded : IsDedekindDomain ↥(integralClosure B F))
+    (hfrac : IsFractionRing ↥(integralClosure B F) F) :
+    IsAffineChart K F ((integralClosure B F).restrictScalars K) :=
+  ⟨hft, hded, hfrac⟩
+
+theorem isAffineChart_transcendentalChart {t : F} (ht : Transcendental K t)
+    [FiniteDimensional K⟮t⟯ F] [Algebra.IsSeparable K⟮t⟯ F] :
+    IsAffineChart K F (transcendentalChart K t) :=
+  isAffineChart_restrictScalars_integralClosure (Algebra.adjoin K {t})
+    (finiteType_integralClosure_adjoin ht)
+    (isDedekindDomain_integralClosure_adjoin ht)
+    (isFractionRing_integralClosure_adjoin t)
+
+end IsAffineChartEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section SeparatingTranscendental
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def HasSeparatingTranscendental : Prop :=
+  ∃ t : F, Transcendental K t
+    ∧ FiniteDimensional K⟮t⟯ F ∧ Algebra.IsSeparable K⟮t⟯ F
+    ∧ FiniteDimensional K⟮t⁻¹⟯ F ∧ Algebra.IsSeparable K⟮t⁻¹⟯ F
+
+variable {K F}
+
+theorem valSubringTwoAffineCharts_of_hasSeparatingTranscendental
+    (h : HasSeparatingTranscendental K F) :
+    ValSubringTwoAffineCharts K F := by
+  obtain ⟨t, ht, hfin, hsep, hfin', hsep'⟩ := h
+  exact ⟨transcendentalChart K t, transcendentalChart K t⁻¹,
+    isAffineChart_transcendentalChart ht,
+    isAffineChart_transcendentalChart ht.inv,
+    fun v => transcendentalChart_subset_or_inv_subset v t⟩
+
+theorem valSubringKaehlerFinite_of_hasSeparatingTranscendental
+    (h : HasSeparatingTranscendental K F) :
+    ValSubringKaehlerFinite K F :=
+  valSubringKaehlerFinite_of_twoAffineCharts
+    (valSubringTwoAffineCharts_of_hasSeparatingTranscendental h)
+
+end SeparatingTranscendental
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+
+section LowDegRegular
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem ord_placeInfty_mOneAtom_mul_differentialCoeff_dX
+    (hInfty : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2)
+    {p c : K[X]} (hp : p ≠ 0) (hc : c ≠ 0) :
+    (placeInfty K).ord
+        (p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff (dX K))
+      = (p.natDegree : ℤ) - c.natDegree - 2 := by
+  have hatom0 : p1PrincipalPartAtom K p c 1 ≠ 0 := by
+    simp only [p1PrincipalPartAtom, ne_eq, div_eq_zero_iff, not_or]
+    exact ⟨(map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hc,
+      pow_ne_zero _ ((map_ne_zero_iff _
+        (IsFractionRing.injective K[X] (RatFunc K))).mpr hp)⟩
+  rw [(placeInfty K).ord_mul hatom0 ((placeInfty K).differentialCoeff_ne_zero (dX_ne_zero K)),
+    ord_placeInfty_p1PrincipalPartAtom K hp hc 1, hInfty]
+  push_cast; ring
+
+theorem p1MOneAtom_mul_differentialCoeff_dX_mem_placeInfty
+    (hInfty : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2)
+    {p c : K[X]} (hp : p ≠ 0) (hcdeg : c = 0 ∨ c.natDegree + 2 ≤ p.natDegree) :
+    p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff (dX K)
+      ∈ (placeInfty K).toValuationSubring := by
+  rcases hcdeg with rfl | hcdeg
+  · show algebraMap K[X] (RatFunc K) 0 / (algebraMap K[X] (RatFunc K) p) ^ 1
+        * (placeInfty K).differentialCoeff (dX K) ∈ _
+    rw [_root_.map_zero, zero_div, zero_mul]; exact zero_mem _
+  · rcases eq_or_ne c 0 with rfl | hc
+    · show algebraMap K[X] (RatFunc K) 0 / (algebraMap K[X] (RatFunc K) p) ^ 1
+          * (placeInfty K).differentialCoeff (dX K) ∈ _
+      rw [_root_.map_zero, zero_div, zero_mul]; exact zero_mem _
+    have hatom0 : p1PrincipalPartAtom K p c 1 ≠ 0 := by
+      simp only [p1PrincipalPartAtom, ne_eq, div_eq_zero_iff, not_or]
+      exact ⟨(map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hc,
+        pow_ne_zero _ ((map_ne_zero_iff _
+          (IsFractionRing.injective K[X] (RatFunc K))).mpr hp)⟩
+    refine (placeInfty K).mem_of_ord_nonneg
+      (mul_ne_zero hatom0 ((placeInfty K).differentialCoeff_ne_zero (dX_ne_zero K))) ?_
+    rw [ord_placeInfty_mOneAtom_mul_differentialCoeff_dX K hInfty hp hc]
+    omega
+
+end LowDegRegular
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section LowDegValue
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem trace_placeInfty_simplePoleResidue_mOne_of_lowDeg
+    (hInfty : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2)
+    {p c : K[X]} (hpirr : Irreducible p)
+    (hcdeg : c = 0 ∨ c.natDegree + 2 ≤ p.natDegree)
+    (himem : p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff (dX K)
+        ∈ (placeInfty K).simplePoleSubmodule) :
+    Algebra.trace K (placeInfty K).ResidueField
+        ((placeInfty K).simplePoleResidueAux ⟨_, himem⟩)
+      = -(c.coeff (p.natDegree - 1)) := by
+
+  have hreg := p1MOneAtom_mul_differentialCoeff_dX_mem_placeInfty K hInfty hpirr.ne_zero hcdeg
+  have hLHS : (placeInfty K).simplePoleResidueAux ⟨_, himem⟩ = 0 :=
+    (placeInfty K).simplePoleResidueAux_eq_zero_of_mem hreg
+  rw [hLHS, _root_.map_zero]
+
+  rcases hcdeg with rfl | hcdeg
+  · simp
+  · rw [coeff_eq_zero_of_natDegree_lt (by omega : c.natDegree < p.natDegree - 1), _root_.neg_zero]
+
+end LowDegValue
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section NamedCarriers
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+def P1PlaceInftySimplePoleResidueEulerValueTopDeg : Prop :=
+  ∀ (p c : K[X]) (_ : p.Monic) (_ : Irreducible p), c ≠ 0 → c.natDegree + 1 = p.natDegree →
+    ∀ (himem : p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff (dX K)
+        ∈ (placeInfty K).simplePoleSubmodule),
+    Algebra.trace K (placeInfty K).ResidueField
+        ((placeInfty K).simplePoleResidueAux ⟨_, himem⟩)
+      = -(c.coeff (p.natDegree - 1))
+
+def P1PlaceInftySimplePoleResidueEulerValueMonomial : Prop :=
+  ∀ (p : K[X]) (_ : p.Monic) (_ : Irreducible p),
+    ∀ (himem : p1PrincipalPartAtom K p (X ^ (p.natDegree - 1)) 1
+          * (placeInfty K).differentialCoeff (dX K)
+        ∈ (placeInfty K).simplePoleSubmodule),
+    Algebra.trace K (placeInfty K).ResidueField
+        ((placeInfty K).simplePoleResidueAux ⟨_, himem⟩)
+      = -1
+
+end NamedCarriers
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section EraseLeadLinearity
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+omit [DecidableEq (RatFunc K)] in
+
+theorem p1PrincipalPartAtom_add_mul_differentialCoeff (p c₁ c₂ : K[X]) (m : ℕ)
+    (v : Place K (RatFunc K)) (ω : Ω[(RatFunc K)⁄K]) :
+    p1PrincipalPartAtom K p (c₁ + c₂) m * v.differentialCoeff ω
+      = p1PrincipalPartAtom K p c₁ m * v.differentialCoeff ω
+        + p1PrincipalPartAtom K p c₂ m * v.differentialCoeff ω := by
+  show algebraMap K[X] (RatFunc K) (c₁ + c₂) / (algebraMap K[X] (RatFunc K) p) ^ m
+        * v.differentialCoeff ω
+    = algebraMap K[X] (RatFunc K) c₁ / (algebraMap K[X] (RatFunc K) p) ^ m * v.differentialCoeff ω
+      + algebraMap K[X] (RatFunc K) c₂ / (algebraMap K[X] (RatFunc K) p) ^ m
+        * v.differentialCoeff ω
+  rw [map_add]; ring
+
+omit [DecidableEq (RatFunc K)] in
+
+theorem p1PrincipalPartAtom_C_mul_mul_differentialCoeff (p c : K[X]) (a : K) (m : ℕ)
+    (v : Place K (RatFunc K)) (ω : Ω[(RatFunc K)⁄K]) :
+    p1PrincipalPartAtom K p (C a * c) m * v.differentialCoeff ω
+      = a • (p1PrincipalPartAtom K p c m * v.differentialCoeff ω) := by
+  show algebraMap K[X] (RatFunc K) (C a * c) / (algebraMap K[X] (RatFunc K) p) ^ m
+        * v.differentialCoeff ω
+    = a • (algebraMap K[X] (RatFunc K) c / (algebraMap K[X] (RatFunc K) p) ^ m
+        * v.differentialCoeff ω)
+  rw [map_mul, C_eq_algebraMap, ← IsScalarTower.algebraMap_apply K K[X] (RatFunc K),
+    Algebra.smul_def]
+  ring
+
+theorem trace_placeInfty_simplePoleResidueAux_mOne_add
+    {p c₁ c₂ : K[X]} {ω : Ω[(RatFunc K)⁄K]}
+    (h1 : p1PrincipalPartAtom K p c₁ 1 * (placeInfty K).differentialCoeff ω
+        ∈ (placeInfty K).simplePoleSubmodule)
+    (h2 : p1PrincipalPartAtom K p c₂ 1 * (placeInfty K).differentialCoeff ω
+        ∈ (placeInfty K).simplePoleSubmodule)
+    (h12 : p1PrincipalPartAtom K p (c₁ + c₂) 1 * (placeInfty K).differentialCoeff ω
+        ∈ (placeInfty K).simplePoleSubmodule) :
+    Algebra.trace K (placeInfty K).ResidueField
+        ((placeInfty K).simplePoleResidueAux ⟨_, h12⟩)
+      = Algebra.trace K (placeInfty K).ResidueField
+          ((placeInfty K).simplePoleResidueAux ⟨_, h1⟩)
+        + Algebra.trace K (placeInfty K).ResidueField
+            ((placeInfty K).simplePoleResidueAux ⟨_, h2⟩) := by
+  have heq : (⟨_, h12⟩ : (placeInfty K).simplePoleSubmodule)
+      = (⟨_, h1⟩ : (placeInfty K).simplePoleSubmodule) + ⟨_, h2⟩ :=
+    Subtype.ext (p1PrincipalPartAtom_add_mul_differentialCoeff K p c₁ c₂ 1 _ ω)
+  rw [heq, map_add, map_add]
+
+theorem trace_placeInfty_simplePoleResidueAux_mOne_C_mul
+    {p c : K[X]} {a : K} {ω : Ω[(RatFunc K)⁄K]}
+    (hc : p1PrincipalPartAtom K p c 1 * (placeInfty K).differentialCoeff ω
+        ∈ (placeInfty K).simplePoleSubmodule)
+    (hac : p1PrincipalPartAtom K p (C a * c) 1 * (placeInfty K).differentialCoeff ω
+        ∈ (placeInfty K).simplePoleSubmodule) :
+    Algebra.trace K (placeInfty K).ResidueField
+        ((placeInfty K).simplePoleResidueAux ⟨_, hac⟩)
+      = a * Algebra.trace K (placeInfty K).ResidueField
+          ((placeInfty K).simplePoleResidueAux ⟨_, hc⟩) := by
+  have heq : (⟨_, hac⟩ : (placeInfty K).simplePoleSubmodule)
+      = a • (⟨_, hc⟩ : (placeInfty K).simplePoleSubmodule) :=
+    Subtype.ext (p1PrincipalPartAtom_C_mul_mul_differentialCoeff K p c a 1 _ ω)
+  rw [heq, map_smul, map_smul, smul_eq_mul]
+
+theorem p1PlaceInftySimplePoleResidueEulerValue_of_topDeg
+    (hInfty : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2)
+    (htop : P1PlaceInftySimplePoleResidueEulerValueTopDeg K) :
+    P1PlaceInftySimplePoleResidueEulerValue K := by
+  intro p c hpmon hpirr hcdeg himem
+  rcases eq_or_ne c 0 with rfl | hc
+  · exact trace_placeInfty_simplePoleResidue_mOne_of_lowDeg K hInfty hpirr (.inl rfl) himem
+  have hndeg : c.natDegree < p.natDegree := natDegree_lt_natDegree hc hcdeg
+  rcases (by omega : c.natDegree + 2 ≤ p.natDegree ∨ c.natDegree + 1 = p.natDegree) with h | h
+  · exact trace_placeInfty_simplePoleResidue_mOne_of_lowDeg K hInfty hpirr (.inr h) himem
+  · exact htop p c hpmon hpirr hc h himem
+
+theorem p1PlaceInftySimplePoleResidueEulerValueTopDeg_of_monomial
+    (hInfty : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2)
+    (hmono : P1PlaceInftySimplePoleResidueEulerValueMonomial K) :
+    P1PlaceInftySimplePoleResidueEulerValueTopDeg K := by
+  intro p c hpmon hpirr hc hcnd himem
+
+  have hInfty' : (placeInfty K).ordDifferential (dX K) = -2 := hInfty
+  have hXd : (X ^ (p.natDegree - 1) : K[X]).degree < p.degree := by
+    rw [degree_X_pow, degree_eq_natDegree hpirr.ne_zero]
+    exact_mod_cast (by omega : p.natDegree - 1 < p.natDegree)
+  have hXmem := p1MOneAtom_mul_differentialCoeff_mem_simplePole_placeInfty K
+    (dX_ne_zero K) hInfty' hpirr (X ^ (p.natDegree - 1)) hXd
+  have hCXmem : p1PrincipalPartAtom K p (C c.leadingCoeff * X ^ (p.natDegree - 1)) 1
+        * (placeInfty K).differentialCoeff (dX K)
+      ∈ (placeInfty K).simplePoleSubmodule := by
+    rw [p1PrincipalPartAtom_C_mul_mul_differentialCoeff K]
+    exact (placeInfty K).simplePoleSubmodule.smul_mem _ hXmem
+  have hELdeg : c.eraseLead = 0 ∨ c.eraseLead.natDegree + 2 ≤ p.natDegree := by
+    rcases Polynomial.eraseLead_natDegree_lt_or_eraseLead_eq_zero c with h | h
+    · exact .inr (by omega)
+    · exact .inl h
+  have hELmem : p1PrincipalPartAtom K p c.eraseLead 1 * (placeInfty K).differentialCoeff (dX K)
+      ∈ (placeInfty K).simplePoleSubmodule :=
+    (placeInfty K).mem_simplePoleSubmodule_of_mem
+      (p1MOneAtom_mul_differentialCoeff_dX_mem_placeInfty K hInfty hpirr.ne_zero hELdeg)
+
+  have hcnd' : c.natDegree = p.natDegree - 1 := by omega
+  have hcdecomp : c = C c.leadingCoeff * X ^ (p.natDegree - 1) + c.eraseLead := by
+    conv_lhs => rw [← Polynomial.eraseLead_add_C_mul_X_pow c, add_comm, hcnd']
+
+  have h12mem : p1PrincipalPartAtom K p
+        (C c.leadingCoeff * X ^ (p.natDegree - 1) + c.eraseLead) 1
+          * (placeInfty K).differentialCoeff (dX K)
+      ∈ (placeInfty K).simplePoleSubmodule := by
+    rw [p1PrincipalPartAtom_add_mul_differentialCoeff K]; exact add_mem hCXmem hELmem
+  have heq : (⟨_, himem⟩ : (placeInfty K).simplePoleSubmodule) = ⟨_, h12mem⟩ := by
+    refine Subtype.ext ?_
+    show algebraMap K[X] (RatFunc K) c / (algebraMap K[X] (RatFunc K) p) ^ 1
+          * (placeInfty K).differentialCoeff (dX K)
+      = algebraMap K[X] (RatFunc K) (C c.leadingCoeff * X ^ (p.natDegree - 1) + c.eraseLead)
+          / (algebraMap K[X] (RatFunc K) p) ^ 1 * (placeInfty K).differentialCoeff (dX K)
+    rw [← hcdecomp]
+
+  have hELcoeff : c.eraseLead.coeff (p.natDegree - 1) = 0 := by
+    rcases hELdeg with h | h
+    · rw [h, coeff_zero]
+    · exact coeff_eq_zero_of_natDegree_lt (by omega)
+  have hLead : c.leadingCoeff = c.coeff (p.natDegree - 1) := by
+    rw [leadingCoeff, hcnd']
+  rw [heq, trace_placeInfty_simplePoleResidueAux_mOne_add K hCXmem hELmem,
+    trace_placeInfty_simplePoleResidueAux_mOne_C_mul K hXmem,
+    hmono p hpmon hpirr hXmem,
+    trace_placeInfty_simplePoleResidue_mOne_of_lowDeg K hInfty hpirr hELdeg hELmem,
+    hELcoeff, _root_.neg_zero, add_zero, hLead]
+  ring
+
+theorem p1PlaceInftySimplePoleResidueEulerValue_of_monomial
+    (hInfty : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2)
+    (hmono : P1PlaceInftySimplePoleResidueEulerValueMonomial K) :
+    P1PlaceInftySimplePoleResidueEulerValue K :=
+  p1PlaceInftySimplePoleResidueEulerValue_of_topDeg K hInfty
+    (p1PlaceInftySimplePoleResidueEulerValueTopDeg_of_monomial K hInfty hmono)
+
+end EraseLeadLinearity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ComposedEngine
+
+variable [CharZero K]
+variable [HasCanonicalDivisor (K := K) (F := RatFunc K)] [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1PrincipalPartMOneSimplePoleCancel_of_inftyMonomial
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0) (heq : ω₀ = dX K)
+    (hmono : P1PlaceInftySimplePoleResidueEulerValueMonomial K) :
+    P1PrincipalPartMOneSimplePoleCancel K hω₀ :=
+  p1PrincipalPartMOneSimplePoleCancel_of_inftyBridge K hω₀ heq
+    (p1PlaceInftySimplePoleResidueEulerValue_of_monomial K
+      (ordDifferential_placeInfty_D_ratFuncX K hwd) hmono)
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+p2m_open "IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+namespace IntermediateField
+p2m_export "IntermediateField" "charP toAlgebra map_le_iff_le_comap mk val isIntegral_iff topEquiv_apply lift_top lift AdjoinSimple.gen inclusion lift_injective lift_adjoin_simple ext adjoin_simple_le_iff charZero equivOfEq algebraMap_apply smul_def adjoin mk.injEq AdjoinSimple.algebraMap_gen comap topEquiv mem_top adjoinRootEquivAdjoin restrictScalars rec adjoinRootEquivAdjoin_apply_root coe_smul AdjoinSimple.coe_gen mem_bot mem_adjoin_simple_self adjoin_map smul_mem restrict map"
+p2m_open "IntermediateField"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem adjoin_simple_inv (t : F) : K⟮t⁻¹⟯ = K⟮t⟯ := by
+  refine le_antisymm (adjoin_simple_le_iff.mpr ?_) (adjoin_simple_le_iff.mpr ?_)
+  · exact inv_mem (mem_adjoin_simple_self K t)
+  · have h : (t⁻¹)⁻¹ ∈ (K⟮t⁻¹⟯ : IntermediateField K F) :=
+      inv_mem (mem_adjoin_simple_self K t⁻¹)
+    rwa [inv_inv] at h
+
+theorem algebraMap_comp_equivOfEq {S T : IntermediateField K F} (h : S = T) :
+    (algebraMap T F).comp ((IntermediateField.equivOfEq h).toRingEquiv : S →+* T)
+      = ((RingEquiv.refl F : F ≃+* F) : F →+* F).comp (algebraMap S F) := by
+  ext x; rfl
+
+theorem finiteDimensional_of_eq {S T : IntermediateField K F} (h : S = T)
+    [FiniteDimensional ↥S F] : FiniteDimensional ↥T F :=
+  Module.Finite.of_equiv_equiv (IntermediateField.equivOfEq h).toRingEquiv (RingEquiv.refl F)
+    (algebraMap_comp_equivOfEq h)
+
+theorem isSeparable_of_eq {S T : IntermediateField K F} (h : S = T)
+    [Algebra.IsSeparable ↥S F] : Algebra.IsSeparable ↥T F :=
+  Algebra.IsSeparable.of_equiv_equiv (IntermediateField.equivOfEq h).toRingEquiv
+    (RingEquiv.refl F) (algebraMap_comp_equivOfEq h)
+
+theorem finiteDimensional_adjoin_inv (t : F) [FiniteDimensional K⟮t⟯ F] :
+    FiniteDimensional K⟮t⁻¹⟯ F :=
+  finiteDimensional_of_eq (adjoin_simple_inv t).symm
+
+theorem isSeparable_adjoin_inv (t : F) [Algebra.IsSeparable K⟮t⟯ F] :
+    Algebra.IsSeparable K⟮t⁻¹⟯ F :=
+  isSeparable_of_eq (adjoin_simple_inv t).symm
+
+end IntermediateField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section CharZeroSeparable
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem isSeparable_of_charZero_of_finiteDimensional [CharZero K]
+    (S : IntermediateField K F) [FiniteDimensional ↥S F] :
+    Algebra.IsSeparable ↥S F :=
+  haveI : CharZero ↥S := IntermediateField.charZero S
+  Algebra.IsSeparable.of_integral ↥S F
+
+theorem isSeparable_adjoin_of_charZero_of_finiteDimensional [CharZero K] (t : F)
+    [FiniteDimensional K⟮t⟯ F] : Algebra.IsSeparable K⟮t⟯ F :=
+  isSeparable_of_charZero_of_finiteDimensional K⟮t⟯
+
+end CharZeroSeparable
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section SeparatingTranscendentalCore
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def HasSeparatingTranscendentalCore : Prop :=
+  ∃ t : F, Transcendental K t ∧ FiniteDimensional K⟮t⟯ F
+
+variable {K F}
+
+theorem hasSeparatingTranscendental_of_core [CharZero K]
+    (h : HasSeparatingTranscendentalCore K F) :
+    HasSeparatingTranscendental K F := by
+  obtain ⟨t, ht, hfin⟩ := h
+  haveI : Algebra.IsSeparable K⟮t⟯ F :=
+    isSeparable_adjoin_of_charZero_of_finiteDimensional t
+  exact ⟨t, ht, hfin, ‹_›,
+    IntermediateField.finiteDimensional_adjoin_inv t,
+    IntermediateField.isSeparable_adjoin_inv t⟩
+
+theorem valSubringKaehlerFinite_of_core [CharZero K]
+    (h : HasSeparatingTranscendentalCore K F) :
+    ValSubringKaehlerFinite K F :=
+  valSubringKaehlerFinite_of_hasSeparatingTranscendental
+    (hasSeparatingTranscendental_of_core h)
+
+end SeparatingTranscendentalCore
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [DecidableEq (RatFunc K)]
+
+section MonicRatioResidue
+
+theorem ord_placeInfty_X_pow_natDegree_div {p : K[X]} (hp : p ≠ 0) :
+    (placeInfty K).ord
+        (algebraMap K[X] (RatFunc K) (X ^ p.natDegree) / algebraMap K[X] (RatFunc K) p) = 0 := by
+  have hp' : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hp
+  have hXd : (X ^ p.natDegree : K[X]) ≠ 0 := pow_ne_zero _ X_ne_zero
+  have hXd' : algebraMap K[X] (RatFunc K) (X ^ p.natDegree) ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hXd
+  rw [div_eq_mul_inv, (placeInfty K).ord_mul hXd' (inv_ne_zero hp'),
+    (placeInfty K).ord_inv, ord_placeInfty_algebraMap' K hXd, ord_placeInfty_algebraMap' K hp,
+    natDegree_X_pow]
+  ring
+
+theorem X_pow_natDegree_div_mem_placeInfty {p : K[X]} (hp : p ≠ 0) :
+    algebraMap K[X] (RatFunc K) (X ^ p.natDegree) / algebraMap K[X] (RatFunc K) p
+      ∈ (placeInfty K).toValuationSubring := by
+  have hp' : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hp
+  have hXd' : algebraMap K[X] (RatFunc K) (X ^ p.natDegree) ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr
+      (pow_ne_zero _ X_ne_zero)
+  exact (placeInfty K).mem_of_ord_nonneg (div_ne_zero hXd' hp')
+    (ord_placeInfty_X_pow_natDegree_div K hp).ge
+
+theorem degree_X_pow_natDegree_sub_lt_of_monic {p : K[X]} (hpmon : p.Monic) :
+    ((X : K[X]) ^ p.natDegree - p).degree < p.degree := by
+  have hdeg : ((X : K[X]) ^ p.natDegree).degree = p.degree := by
+    rw [degree_X_pow, degree_eq_natDegree hpmon.ne_zero]
+  refine (Polynomial.degree_sub_lt hdeg (pow_ne_zero _ X_ne_zero) ?_).trans_le hdeg.le
+  rw [Polynomial.leadingCoeff_X_pow, hpmon]
+
+theorem residue_placeInfty_X_pow_natDegree_div_monic_eq_one {p : K[X]} (hpmon : p.Monic) :
+    IsLocalRing.residue _ ⟨_, X_pow_natDegree_div_mem_placeInfty K hpmon.ne_zero⟩
+      = (1 : (placeInfty K).ResidueField) := by
+  rw [← sub_eq_zero, show (1 : (placeInfty K).ResidueField) = IsLocalRing.residue _ 1 from
+      (map_one _).symm, ← map_sub, IsLocalRing.residue_eq_zero_iff]
+
+  set d := p.natDegree
+  have hp' : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hpmon.ne_zero
+
+  have hsubmem : algebraMap K[X] (RatFunc K) (X ^ d - p) / algebraMap K[X] (RatFunc K) p
+      ∈ (placeInfty K).toValuationSubring := by
+    rcases eq_or_ne ((X : K[X]) ^ d - p) 0 with h0 | h0
+    · simp only [h0, _root_.map_zero, zero_div]; exact zero_mem _
+    have h0' : algebraMap K[X] (RatFunc K) (X ^ d - p) ≠ 0 :=
+      (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr h0
+    refine (placeInfty K).mem_of_ord_nonneg (div_ne_zero h0' hp') ?_
+    rw [div_eq_mul_inv, (placeInfty K).ord_mul h0' (inv_ne_zero hp'),
+      (placeInfty K).ord_inv, ord_placeInfty_algebraMap' K h0,
+      ord_placeInfty_algebraMap' K hpmon.ne_zero]
+    have hlt : ((X : K[X]) ^ d - p).natDegree < d :=
+      Polynomial.natDegree_lt_natDegree h0 (degree_X_pow_natDegree_sub_lt_of_monic K hpmon)
+    omega
+  have hcoe : (⟨_, X_pow_natDegree_div_mem_placeInfty K hpmon.ne_zero⟩
+        - 1 : (placeInfty K).toValuationSubring)
+      = ⟨_, hsubmem⟩ := by
+    refine Subtype.ext ?_
+    show algebraMap K[X] (RatFunc K) (X ^ d) / algebraMap K[X] (RatFunc K) p - 1
+      = algebraMap K[X] (RatFunc K) (X ^ d - p) / algebraMap K[X] (RatFunc K) p
+    rw [map_sub, sub_div, div_self hp']
+  rw [hcoe, Place.mk_mem_maximalIdeal_iff]
+  rcases eq_or_ne ((X : K[X]) ^ d - p) 0 with h0 | h0
+  · exact .inl (by simp [h0])
+  · refine .inr ?_
+    have h0' : algebraMap K[X] (RatFunc K) (X ^ d - p) ≠ 0 :=
+      (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr h0
+    rw [div_eq_mul_inv, (placeInfty K).ord_mul h0' (inv_ne_zero hp'),
+      (placeInfty K).ord_inv, ord_placeInfty_algebraMap' K h0,
+      ord_placeInfty_algebraMap' K hpmon.ne_zero]
+    have hlt : ((X : K[X]) ^ d - p).natDegree < d :=
+      Polynomial.natDegree_lt_natDegree h0 (degree_X_pow_natDegree_sub_lt_of_monic K hpmon)
+    omega
+
+end MonicRatioResidue
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section NamedCarrier
+
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+def P1PlaceInftySimplePoleResidueEulerValueX : Prop :=
+  ∀ (himem : p1PrincipalPartAtom K (X : K[X]) 1 1 * (placeInfty K).differentialCoeff (dX K)
+        ∈ (placeInfty K).simplePoleSubmodule),
+    Algebra.trace K (placeInfty K).ResidueField
+        ((placeInfty K).simplePoleResidueAux ⟨_, himem⟩)
+      = -1
+
+end NamedCarrier
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section MonicRatioReduction
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1MonomialAtom_eq_monicRatio_mul {p : K[X]} (hpdeg : 1 ≤ p.natDegree) :
+    p1PrincipalPartAtom K p (X ^ (p.natDegree - 1)) 1 * (placeInfty K).differentialCoeff (dX K)
+      = (algebraMap K[X] (RatFunc K) (X ^ p.natDegree) / algebraMap K[X] (RatFunc K) p)
+        * (p1PrincipalPartAtom K (X : K[X]) 1 1
+            * (placeInfty K).differentialCoeff (dX K)) := by
+  show algebraMap K[X] (RatFunc K) (X ^ (p.natDegree - 1)) / algebraMap K[X] (RatFunc K) p ^ 1
+        * (placeInfty K).differentialCoeff (dX K)
+    = algebraMap K[X] (RatFunc K) (X ^ p.natDegree) / algebraMap K[X] (RatFunc K) p
+        * (algebraMap K[X] (RatFunc K) 1 / algebraMap K[X] (RatFunc K) X ^ 1
+            * (placeInfty K).differentialCoeff (dX K))
+  have hXd : algebraMap K[X] (RatFunc K) (X ^ p.natDegree)
+      = algebraMap K[X] (RatFunc K) (X ^ (p.natDegree - 1)) * algebraMap K[X] (RatFunc K) X := by
+    rw [← map_mul, ← pow_succ, Nat.sub_add_cancel hpdeg]
+  have hX0 : algebraMap K[X] (RatFunc K) (X : K[X]) ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr X_ne_zero
+  rw [pow_one, pow_one, map_one, hXd, one_div]
+  field_simp
+
+theorem p1XInvAtom_mul_differentialCoeff_dX_mem_simplePole_placeInfty
+    (hInfty : (placeInfty K).ordDifferential (dX K) = -2) :
+    p1PrincipalPartAtom K (X : K[X]) 1 1 * (placeInfty K).differentialCoeff (dX K)
+      ∈ (placeInfty K).simplePoleSubmodule :=
+  p1MOneAtom_mul_differentialCoeff_mem_simplePole_placeInfty K (dX_ne_zero K) hInfty
+    irreducible_X 1 (by rw [degree_one, degree_X]; decide)
+
+theorem simplePoleResidueAux_placeInfty_monomial_eq_X
+    (hInfty : (placeInfty K).ordDifferential (dX K) = -2)
+    {p : K[X]} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (himem : p1PrincipalPartAtom K p (X ^ (p.natDegree - 1)) 1
+          * (placeInfty K).differentialCoeff (dX K)
+        ∈ (placeInfty K).simplePoleSubmodule) :
+    (placeInfty K).simplePoleResidueAux ⟨_, himem⟩
+      = (placeInfty K).simplePoleResidueAux
+          ⟨_, p1XInvAtom_mul_differentialCoeff_dX_mem_simplePole_placeInfty K hInfty⟩ := by
+  set hXmem := p1XInvAtom_mul_differentialCoeff_dX_mem_simplePole_placeInfty K hInfty
+
+  have hfact := p1MonomialAtom_eq_monicRatio_mul K hpirr.natDegree_pos
+  have hRatioMem := X_pow_natDegree_div_mem_placeInfty K hpmon.ne_zero
+  have hprodmem : (algebraMap K[X] (RatFunc K) (X ^ p.natDegree)
+          / algebraMap K[X] (RatFunc K) p)
+        * (p1PrincipalPartAtom K (X : K[X]) 1 1 * (placeInfty K).differentialCoeff (dX K))
+      ∈ (placeInfty K).simplePoleSubmodule :=
+    (placeInfty K).mul_mem_simplePoleSubmodule_of_mem hRatioMem hXmem
+  have heq : (⟨_, himem⟩ : (placeInfty K).simplePoleSubmodule) = ⟨_, hprodmem⟩ :=
+    Subtype.ext hfact
+  rw [heq, (placeInfty K).simplePoleResidueAux_mul_of_mem hRatioMem hXmem,
+    residue_placeInfty_X_pow_natDegree_div_monic_eq_one K hpmon, one_mul]
+
+theorem p1PlaceInftySimplePoleResidueEulerValueMonomial_of_X
+    (hInfty : (placeInfty K).ordDifferential (dX K) = -2)
+    (hX : P1PlaceInftySimplePoleResidueEulerValueX K) :
+    P1PlaceInftySimplePoleResidueEulerValueMonomial K := by
+  intro p hpmon hpirr himem
+  rw [simplePoleResidueAux_placeInfty_monomial_eq_X K hInfty hpmon hpirr himem]
+  exact hX _
+
+end MonicRatioReduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ComposedEngine
+
+variable [CharZero K]
+variable [HasCanonicalDivisor (K := K) (F := RatFunc K)] [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1PrincipalPartMOneSimplePoleCancel_of_inftyX
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0) (heq : ω₀ = dX K)
+    (hX : P1PlaceInftySimplePoleResidueEulerValueX K) :
+    P1PrincipalPartMOneSimplePoleCancel K hω₀ :=
+  p1PrincipalPartMOneSimplePoleCancel_of_inftyMonomial K hwd hω₀ heq
+    (p1PlaceInftySimplePoleResidueEulerValueMonomial_of_X K
+      (ordDifferential_placeInfty_D_ratFuncX K hwd) hX)
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Monotonicity
+
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end Monotonicity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+p2m_open "IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+namespace IntermediateField
+p2m_export "IntermediateField" "charP toAlgebra map_le_iff_le_comap mk val isIntegral_iff topEquiv_apply lift_top lift AdjoinSimple.gen inclusion lift_injective lift_adjoin_simple ext adjoin_simple_le_iff charZero equivOfEq algebraMap_apply smul_def adjoin mk.injEq AdjoinSimple.algebraMap_gen comap topEquiv mem_top adjoinRootEquivAdjoin restrictScalars rec adjoinRootEquivAdjoin_apply_root coe_smul AdjoinSimple.coe_gen mem_bot mem_adjoin_simple_self adjoin_map smul_mem restrict map"
+p2m_open "IntermediateField"
+
+variable {K E : Type*} [Field K] [Field E] [Algebra K E]
+
+theorem finiteDimensional_top : FiniteDimensional ↥(⊤ : IntermediateField K E) E :=
+  Module.Finite.of_surjective (Algebra.linearMap (↥(⊤ : IntermediateField K E)) E)
+    fun x => ⟨⟨x, mem_top⟩, rfl⟩
+
+theorem adjoin_simple_gen_eq_top (α : E) :
+    K⟮AdjoinSimple.gen K α⟯ = (⊤ : IntermediateField K ↥K⟮α⟯) :=
+  (K⟮α⟯).lift_injective <| by
+    rw [lift_adjoin_simple, AdjoinSimple.coe_gen, lift_top]
+
+theorem transcendental_gen {α : E} (hα : Transcendental K α) :
+    Transcendental K (AdjoinSimple.gen K α) := by
+  rw [show α = algebraMap K⟮α⟯ E (AdjoinSimple.gen K α) from
+    (AdjoinSimple.algebraMap_gen K α).symm] at hα
+  exact (transcendental_algebraMap_iff (algebraMap K⟮α⟯ E).injective).mp hα
+
+end IntermediateField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section PurelyTranscendentalSimple
+
+variable (K F : Type*) [Field K] [Field F] [Algebra K F]
+
+def IsPurelyTranscendentalSimple : Prop :=
+  ∃ t : F, Transcendental K t ∧ K⟮t⟯ = (⊤ : IntermediateField K F)
+
+variable {K F}
+
+theorem hasSeparatingTranscendentalCore_of_isPurelyTranscendentalSimple
+    (h : IsPurelyTranscendentalSimple K F) :
+    HasSeparatingTranscendentalCore K F := by
+  obtain ⟨t, ht, htop⟩ := h
+  haveI : FiniteDimensional ↥(⊤ : IntermediateField K F) F :=
+    IntermediateField.finiteDimensional_top
+  exact ⟨t, ht, IntermediateField.finiteDimensional_of_eq htop.symm⟩
+
+end PurelyTranscendentalSimple
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section SelfAdjoinInstance
+
+variable {K E : Type*} [Field K] [Field E] [Algebra K E]
+
+theorem isPurelyTranscendentalSimple_adjoin_simple {α : E} (hα : Transcendental K α) :
+    IsPurelyTranscendentalSimple K ↥K⟮α⟯ :=
+  ⟨AdjoinSimple.gen K α, IntermediateField.transcendental_gen hα,
+    IntermediateField.adjoin_simple_gen_eq_top α⟩
+
+end SelfAdjoinInstance
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TowerComposites
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+variable [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+
+end TowerComposites
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AdjoinTowerComposites
+
+variable {K E F' : Type*} [Field K] [Field E] [Field F']
+variable [Algebra K E] [Algebra K F']
+
+end AdjoinTowerComposites
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+section NamedRow
+
+variable (K F)
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+
+def CanonicalLocalResidueKSimplePoleCoordIndep : Prop :=
+  ∀ (v : Place K F) (π' : F), v.ord π' = 1 →
+    ∀ (R : v.CanonicalLocalResidueDataK),
+      R.res (v.differentialCoeff (KaehlerDifferential.D K F π') * (π')⁻¹) = 1
+
+end NamedRow
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section SATGate
+
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+
+end SATGate
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section XInvCoordinate
+
+variable (K) [DecidableEq (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1XAtom_mul_differentialCoeff_dX_eq_neg :
+    p1PrincipalPartAtom K (X : K[X]) 1 1 * (placeInfty K).differentialCoeff (dX K)
+      = -((placeInfty K).differentialCoeff
+            (KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹)
+          * ((RatFunc.X : RatFunc K)⁻¹)⁻¹) := by
+  show algebraMap K[X] (RatFunc K) 1 / algebraMap K[X] (RatFunc K) X ^ 1
+        * (placeInfty K).differentialCoeff (dX K)
+      = -((placeInfty K).differentialCoeff
+            (KaehlerDifferential.D K (RatFunc K) (RatFunc.X : RatFunc K)⁻¹)
+          * ((RatFunc.X : RatFunc K)⁻¹)⁻¹)
+  rw [show (dX K) = KaehlerDifferential.D K (RatFunc K) RatFunc.X from rfl,
+    differentialCoeff_placeInfty_D_X_eq K, RatFunc.algebraMap_X, map_one, pow_one, inv_inv,
+    one_div]
+  field_simp [RatFunc.X_ne_zero (K := K), sq, mul_comm]
+
+end XInvCoordinate
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section InftyXDischarge
+
+variable (K) [DecidableEq (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem trace_placeInfty_residueField_one :
+    Algebra.trace K (placeInfty K).ResidueField 1 = 1 := by
+  rw [show (1 : (placeInfty K).ResidueField) = algebraMap K _ 1 from (map_one _).symm,
+    Algebra.trace_algebraMap, show Module.finrank K (placeInfty K).ResidueField = 1 from
+      deg_placeInfty K, one_smul]
+
+theorem simplePoleResidueAux_placeInfty_p1XAtom_eq_neg_one
+    (hsp : CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K))
+    (himem : p1PrincipalPartAtom K (X : K[X]) 1 1 * (placeInfty K).differentialCoeff (dX K)
+        ∈ (placeInfty K).simplePoleSubmodule) :
+    (placeInfty K).simplePoleResidueAux ⟨_, himem⟩ = -1 := by
+
+  set R := (placeInfty K).canonicalLocalResidueDataKOfExtend
+  rw [← (placeInfty K).localResidueData_res_eq_simplePoleResidueAux R.toLocalResidueData himem,
+    show R.toLocalResidueData.res = R.res from rfl,
+    p1XAtom_mul_differentialCoeff_dX_eq_neg K, _root_.map_neg,
+    hsp (placeInfty K) (RatFunc.X : RatFunc K)⁻¹ (ord_placeInfty_X_inv K) R]
+
+theorem p1PlaceInftySimplePoleResidueEulerValueX_of_simplePoleCoordIndep
+    (hsp : CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K)) :
+    P1PlaceInftySimplePoleResidueEulerValueX K := by
+  intro himem
+  rw [simplePoleResidueAux_placeInfty_p1XAtom_eq_neg_one K hsp himem, _root_.map_neg,
+    trace_placeInfty_residueField_one K]
+
+end InftyXDischarge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ComposedEngine
+
+variable (K) [DecidableEq (RatFunc K)] [CharZero K]
+variable [HasCanonicalDivisor (K := K) (F := RatFunc K)] [HasLocalResidue K (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+theorem p1PrincipalPartMOneSimplePoleCancel_of_simplePoleCoordIndep
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    {ω₀ : Ω[(RatFunc K)⁄K]} (hω₀ : ω₀ ≠ 0) (heq : ω₀ = dX K)
+    (hsp : CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K)) :
+    P1PrincipalPartMOneSimplePoleCancel K hω₀ :=
+  p1PrincipalPartMOneSimplePoleCancel_of_inftyX K hwd hω₀ heq
+    (p1PlaceInftySimplePoleResidueEulerValueX_of_simplePoleCoordIndep K hsp)
+
+end ComposedEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Monotonicity
+
+variable (K) [DecidableEq (RatFunc K)] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+variable [∀ v : Place K (RatFunc K), v.DCoordGenerates] [Nontrivial Ω[(RatFunc K)⁄K]]
+
+end Monotonicity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+p2m_open "IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+namespace IntermediateField
+p2m_export "IntermediateField" "charP toAlgebra map_le_iff_le_comap mk val isIntegral_iff topEquiv_apply lift_top lift AdjoinSimple.gen inclusion lift_injective lift_adjoin_simple ext adjoin_simple_le_iff charZero equivOfEq algebraMap_apply smul_def adjoin mk.injEq AdjoinSimple.algebraMap_gen comap topEquiv mem_top adjoinRootEquivAdjoin restrictScalars rec adjoinRootEquivAdjoin_apply_root coe_smul AdjoinSimple.coe_gen mem_bot mem_adjoin_simple_self adjoin_map smul_mem restrict map"
+p2m_open "IntermediateField"
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F'] [Algebra K F] [Algebra K F']
+
+theorem adjoin_simple_map_algHom' (e : F →ₐ[K] F') (t : F) :
+    (K⟮t⟯).map e = K⟮e t⟯ := by
+  rw [adjoin_map, Set.image_singleton]
+
+theorem adjoin_simple_eq_top_of_algEquiv (e : F ≃ₐ[K] F') {t : F}
+    (htop : K⟮t⟯ = (⊤ : IntermediateField K F)) :
+    K⟮e t⟯ = (⊤ : IntermediateField K F') := by
+  have key : K⟮(e : F →ₐ[K] F') t⟯ = (⊤ : IntermediateField K F') := by
+    rw [← adjoin_simple_map_algHom' (e : F →ₐ[K] F') t, htop,
+      ← AlgHom.fieldRange_eq_map, AlgEquiv.fieldRange_eq_top]
+  exact key
+
+end IntermediateField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section Congr
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F'] [Algebra K F] [Algebra K F']
+
+theorem IsPurelyTranscendentalSimple.congr (e : F ≃ₐ[K] F')
+    (h : IsPurelyTranscendentalSimple K F) : IsPurelyTranscendentalSimple K F' := by
+  obtain ⟨t, ht, htop⟩ := h
+  refine ⟨e t, ?_, IntermediateField.adjoin_simple_eq_top_of_algEquiv e htop⟩
+  unfold Transcendental at ht ⊢
+  rw [show (e t : F') = (e : F →ₐ[K] F') t from rfl,
+    isAlgebraic_algHom_iff (e : F →ₐ[K] F') e.injective]
+  exact ht
+
+end Congr
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section RatFuncInstance
+
+variable (K : Type*) [Field K]
+
+theorem isPurelyTranscendentalSimple_ratFunc :
+    IsPurelyTranscendentalSimple K (RatFunc K) :=
+  (isPurelyTranscendentalSimple_adjoin_simple (RatFunc.transcendental_X (K := K))).congr
+    (RatFunc.algEquivOfTranscendental (RatFunc.X : RatFunc K)
+      (RatFunc.transcendental_X (K := K))).symm
+
+end RatFuncInstance
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Iff
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+theorem isPurelyTranscendentalSimple_of_ratFuncAlgEquiv
+    (h : Nonempty (RatFunc K ≃ₐ[K] F)) : IsPurelyTranscendentalSimple K F :=
+  (isPurelyTranscendentalSimple_ratFunc K).congr h.some
+
+end Iff
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section CharZeroReflection
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+end CharZeroReflection
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TowerComposites
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+variable [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+
+end TowerComposites
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+p2m_open "IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+section AbstractEngine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+p2m_open_scoped "AlgebraicCurve.Place" in
+theorem Place.dCoordGenerates_of_valSubringKaehlerSpanTop
+    (hspan : ValSubringKaehlerSpanTop K F) (v : Place K F) :
+    v.DCoordGenerates := by
+  constructor
+  rw [eq_top_iff,
+    ← KaehlerDifferential.span_range_map_derivation_of_isLocalization (R := K)
+      (S := v.toValuationSubring) (T := F) (nonZeroDivisors v.toValuationSubring),
+    Submodule.span_le]
+  rintro _ ⟨f, rfl⟩
+
+  have hDf : KaehlerDifferential.D K v.toValuationSubring f
+      ∈ (⊤ : Submodule v.toValuationSubring Ω[v.toValuationSubring⁄K]) := Submodule.mem_top
+  rw [← hspan v] at hDf
+  have hmap : (KaehlerDifferential.map K K v.toValuationSubring F ∘
+        KaehlerDifferential.D K v.toValuationSubring) f
+      ∈ Submodule.map (KaehlerDifferential.map K K v.toValuationSubring F)
+        (Submodule.span v.toValuationSubring _) :=
+    Submodule.mem_map_of_mem hDf
+  rw [Submodule.map_span, Set.image_singleton,
+    v.kaehlerMap_subring_D_uniformizer] at hmap
+
+  exact Submodule.span_le_restrictScalars v.toValuationSubring F {v.dCoord} hmap
+
+p2m_open_scoped "AlgebraicCurve.Place" in
+theorem Place.dCoordGenerates_of_valSubringKaehlerFinite_of_charZero
+    [CharZero K] [∀ v : Place K F, v.FiniteResidue]
+    (hfin : ValSubringKaehlerFinite K F) (v : Place K F) :
+    v.DCoordGenerates :=
+  Place.dCoordGenerates_of_valSubringKaehlerSpanTop
+    (valSubringKaehlerSpanTop_of_kaehlerFinite_of_charZero hfin) v
+
+end AbstractEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ChainComposites
+
+variable {K F F' : Type*} [Field K] [Field F] [Field F']
+variable [Algebra K F] [Algebra K F'] [Algebra F F'] [IsScalarTower K F F']
+
+p2m_open_scoped "AlgebraicCurve.Place" in
+theorem Place.dCoordGenerates_of_isPurelyTranscendentalSimple
+    [CharZero K] [∀ v : Place K F, v.FiniteResidue]
+    (h : IsPurelyTranscendentalSimple K F) (v : Place K F) :
+    v.DCoordGenerates :=
+  Place.dCoordGenerates_of_valSubringKaehlerFinite_of_charZero
+    (valSubringKaehlerFinite_of_core
+      (hasSeparatingTranscendentalCore_of_isPurelyTranscendentalSimple h)) v
+
+end ChainComposites
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve"
+
+variable (N : ℕ) [NeZero N]
+
+theorem gate_dCoordGenerates_of_ratFunc_sat
+    {K F : Type*} [Field K] [Field F] [Algebra K F]
+    [CharZero K] [∀ v : Place K F, v.FiniteResidue]
+    (hRat : Nonempty (RatFunc K ≃ₐ[K] F)) (v : Place K F) :
+    v.DCoordGenerates :=
+  Place.dCoordGenerates_of_isPurelyTranscendentalSimple
+    (isPurelyTranscendentalSimple_of_ratFuncAlgEquiv hRat) v
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+noncomputable section
+
+set_option synthInstance.maxHeartbeats 1600000
+set_option maxHeartbeats 3200000
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+variable {K : Type*} [Field K]
+
+scoped instance (priority := low) instDCoordGenerates [CharZero K] (v : Place K (RatFunc K)) :
+    v.DCoordGenerates :=
+  ModularCurve.gate_dCoordGenerates_of_ratFunc_sat ⟨AlgEquiv.refl⟩ v
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TransportTwoRoutes
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [CharZero K]
+
+end TransportTwoRoutes
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ConsumerDemonstrations
+
+variable {K : Type*} [Field K] [CharZero K]
+
+end ConsumerDemonstrations
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+section RatBasePinned
+
+attribute [local instance 2000] RatFunc.instAlgebraOfPolynomial
+
+end RatBasePinned
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section RatBaseCrossing
+
+end RatBaseCrossing
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudits
+
+end AxiomAudits
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+noncomputable section
+
+p2m_open "KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section Uniqueness
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+end Uniqueness
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Profile
+
+variable (K : Type*) [Field K]
+
+theorem exists_smul_dX_eq (ω : Ω[(RatFunc K)⁄K]) : ∃ c : RatFunc K, c • dX K = ω := by
+  have hmem : ω ∈ Submodule.span (RatFunc K) {dX K} :=
+    span_dX_eq_top K ▸ Submodule.mem_top
+  exact Submodule.mem_span_singleton.mp hmem
+
+section ProfileValues
+
+variable [CharZero K] [DecidableEq (RatFunc K)]
+
+theorem ordDifferential_dX_of_ne_placeInfty {v : Place K (RatFunc K)}
+    (hv : v ≠ placeInfty K) : v.ordDifferential (dX K) = 0 := by
+  rw [Place.ordDifferential]
+  exact p1DifferentialCoeffUnitFinite_dX K v hv
+
+theorem ordDifferential_dX_placeInfty :
+    (placeInfty K).ordDifferential (dX K) = -2 :=
+  ordDifferential_placeInfty_D_ratFuncX K (ordDifferentialWellDefined_ratFunc K)
+
+theorem exists_divisor_smul_dX {c : RatFunc K} (hc : c ≠ 0) :
+    ∃ D : Divisor K (RatFunc K),
+      (∀ v : Place K (RatFunc K), D v = v.ordDifferential (c • dX K)) ∧
+        Divisor.degree D = -2 := by
+  obtain ⟨Dc, hDc, hDcdeg⟩ :=
+    HasPrincipalDivisors.exists_divisor (K := K) (F := RatFunc K) c hc
+  refine ⟨Dc + Finsupp.single (placeInfty K) (-2), fun v => ?_, ?_⟩
+  ·
+    rw [Finsupp.add_apply, hDc v,
+      v.ordDifferential_smul hc (v.differentialCoeff_ne_zero (dX_ne_zero K))]
+    rcases eq_or_ne v (placeInfty K) with rfl | hne
+    · rw [ordDifferential_dX_placeInfty K, Finsupp.single_eq_same]
+    · rw [ordDifferential_dX_of_ne_placeInfty K hne, Finsupp.single_eq_of_ne hne]
+  ·
+    rw [map_add, hDcdeg, zero_add, Divisor.degree_single, deg_placeInfty K, Nat.cast_one,
+      mul_one]
+
+end ProfileValues
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Instance
+
+variable [CharZero K]
+
+scoped instance instHasCanonicalDivisorRatFunc :
+    HasCanonicalDivisor (K := K) (F := RatFunc K) where
+  exists_divisor ω hω := by
+    classical
+    obtain ⟨c, hc⟩ := exists_smul_dX_eq K ω
+    have hc0 : c ≠ 0 := by
+      rintro rfl
+      rw [zero_smul] at hc
+      exact hω hc.symm
+    obtain ⟨D, hD, -⟩ := exists_divisor_smul_dX K hc0
+    refine ⟨D, fun v => ?_⟩
+    rw [← hc]
+    exact hD v
+
+end Instance
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ExactDivisor
+
+variable [CharZero K] [DecidableEq (RatFunc K)]
+
+end ExactDivisor
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end Profile
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section RatDiamond
+
+end RatDiamond
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve IntermediateField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IntermediateField"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section KaehlerToolbox
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+theorem D_pow_succ_inv (f : F) (m : ℕ) :
+    KaehlerDifferential.D K F ((f ^ (m + 1))⁻¹)
+      = (-((m + 1 : ℕ) : F) * (f ^ (m + 2))⁻¹) • KaehlerDifferential.D K F f := by
+  rw [← inv_pow f (m + 1), Derivation.leibniz_pow, Derivation.leibniz_inv, Nat.add_sub_cancel,
+    smul_smul, ← Nat.cast_smul_eq_nsmul F (m + 1), smul_smul, ← inv_pow f (m + 2)]
+  congr 1
+  push_cast
+  ring
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.differentialCoeff_add'' [v.DCoordGenerates] [Nontrivial Ω[F⁄K]] (ω₁ ω₂ : Ω[F⁄K]) :
+    v.differentialCoeff (ω₁ + ω₂) = v.differentialCoeff ω₁ + v.differentialCoeff ω₂ :=
+  v.differentialCoeff_unique (by
+    rw [add_smul, v.differentialCoeff_smul_dCoord, v.differentialCoeff_smul_dCoord])
+
+p2m_export "AlgebraicCurve.Place" "differentialCoeff_add''"
+private theorem _root_.AlgebraicCurve.Place.differentialCoeff_D_uniformizer_pow_inv [v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+    (m : ℕ) :
+    v.differentialCoeff (KaehlerDifferential.D K F ((v.uniformizer ^ (m + 1))⁻¹))
+      = -((m + 1 : ℕ) : F) * (v.uniformizer ^ (m + 2))⁻¹ := by
+  rw [D_pow_succ_inv, show KaehlerDifferential.D K F v.uniformizer = v.dCoord from rfl,
+    v.differentialCoeff_smul, v.differentialCoeff_dCoord, mul_one]
+
+p2m_export "AlgebraicCurve.Place" "differentialCoeff_D_uniformizer_pow_inv"
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end KaehlerToolbox
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section DXCoeffIntegrality
+
+variable {K : Type*} [Field K]
+
+theorem ratFuncDXCoeff_eq_of_D_eq_smul_dX {f e : RatFunc K}
+    (h : KaehlerDifferential.D K (RatFunc K) f = e • dX K) : ratFuncDXCoeff K f = e := by
+  have key : (ratFuncDXCoeff K f - e) • dX K = 0 := by
+    rw [sub_smul, ← D_eq_ratFuncDXCoeff_smul_dX K f, h, sub_self]
+  rcases smul_eq_zero.mp key with h' | h'
+  · exact sub_eq_zero.mp h'
+  · exact absurd h' (dX_ne_zero K)
+
+theorem ratFuncDXCoeff_zero : ratFuncDXCoeff K (0 : RatFunc K) = 0 :=
+  ratFuncDXCoeff_eq_of_D_eq_smul_dX (by rw [_root_.map_zero, zero_smul])
+
+section FinitePlaces
+
+variable {w : HeightOneSpectrum K[X]}
+
+local notation "vw" => Place.ofHeightOneSpectrum (K := K) (F := RatFunc K) w
+
+theorem ord_algebraMap_denom_eq_zero_of_ord_nonneg {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) {f : RatFunc K}
+    (hf : f ≠ 0) (hord : 0 ≤ (vw).ord f) :
+    (vw).ord (algebraMap K[X] (RatFunc K) f.denom) = 0 := by
+  by_contra hne
+  have hpd : p ∣ f.denom := by
+    rw [← Ideal.mem_span_singleton, ← hwp]
+    exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+      f.denom_ne_zero).mp hne
+  have hpn : ¬ p ∣ f.num := fun hpn =>
+    hp.not_isUnit (f.isCoprime_num_denom.isUnit_of_dvd' hpn hpd)
+  have hordn : (vw).ord (algebraMap K[X] (RatFunc K) f.num) = 0 := by
+    by_contra h
+    exact hpn (by
+      rw [← Ideal.mem_span_singleton, ← hwp]
+      exact (Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K) (F := RatFunc K) w
+        (RatFunc.num_ne_zero hf)).mp h)
+  have hordd : 0 < (vw).ord (algebraMap K[X] (RatFunc K) f.denom) :=
+    lt_of_le_of_ne ((vw).ord_nonneg_of_mem (algebraMap_mem_ofHeightOneSpectrum K w _))
+      (Ne.symm hne)
+  have hnum0 : algebraMap K[X] (RatFunc K) f.num ≠ 0 :=
+    RatFunc.algebraMap_ne_zero (RatFunc.num_ne_zero hf)
+  have hden0 : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    RatFunc.algebraMap_ne_zero f.denom_ne_zero
+  rw [← f.num_div_denom, div_eq_mul_inv, (vw).ord_mul hnum0 (inv_ne_zero hden0),
+    (vw).ord_inv, hordn] at hord
+  omega
+
+theorem ratFuncDXCoeff_eq_zero_or_ord_nonneg_of_ord_nonneg {p : K[X]}
+    (hp : Irreducible p) (hwp : w.asIdeal = Ideal.span {p}) {g : RatFunc K}
+    (hg : g ≠ 0) (hord : 0 ≤ (vw).ord g) :
+    ratFuncDXCoeff K g = 0 ∨ 0 ≤ (vw).ord (ratFuncDXCoeff K g) := by
+  rcases eq_or_ne (ratFuncDXCoeff K g) 0 with h0 | hne
+  · exact Or.inl h0
+  refine Or.inr ?_
+  have hW : g.num.derivative * g.denom - g.num * g.denom.derivative ≠ 0 :=
+    wronskian_ne_zero_of_ratFuncDXCoeff_ne_zero K hne
+  have hW' : algebraMap K[X] (RatFunc K)
+      (g.num.derivative * g.denom - g.num * g.denom.derivative) ≠ 0 :=
+    RatFunc.algebraMap_ne_zero hW
+  have hd' : algebraMap K[X] (RatFunc K) g.denom ≠ 0 :=
+    RatFunc.algebraMap_ne_zero g.denom_ne_zero
+  have hWord : 0 ≤ (vw).ord (algebraMap K[X] (RatFunc K)
+      (g.num.derivative * g.denom - g.num * g.denom.derivative)) :=
+    (vw).ord_nonneg_of_mem (algebraMap_mem_ofHeightOneSpectrum K w _)
+  have hden : (vw).ord (algebraMap K[X] (RatFunc K) g.denom) = 0 :=
+    ord_algebraMap_denom_eq_zero_of_ord_nonneg hp hwp hg hord
+  have key : (vw).ord (ratFuncDXCoeff K g)
+      = (vw).ord (algebraMap K[X] (RatFunc K)
+          (g.num.derivative * g.denom - g.num * g.denom.derivative))
+        - 2 * (vw).ord (algebraMap K[X] (RatFunc K) g.denom) := by
+    rw [ratFuncDXCoeff_def, div_eq_mul_inv,
+      (vw).ord_mul hW' (inv_ne_zero (pow_ne_zero 2 hd')), (vw).ord_inv, ← zpow_natCast,
+      (vw).ord_zpow]
+    push_cast
+    ring
+  rw [key, hden]
+  omega
+
+end FinitePlaces
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section PlaceInftySide
+
+variable [DecidableEq (RatFunc K)]
+
+theorem ratFuncDXCoeff_ne_zero_and_ord_placeInfty_eq_two_of_ord_eq_one
+    {f : RatFunc K} (hf : f ≠ 0) (hord : (placeInfty K).ord f = 1) :
+    ratFuncDXCoeff K f ≠ 0 ∧ (placeInfty K).ord (ratFuncDXCoeff K f) = 2 := by
+  obtain ⟨e, he0, heord, hDe⟩ := exists_dXCoeff_ord_two_of_ord_placeInfty_eq_one hf hord
+  rw [ratFuncDXCoeff_eq_of_D_eq_smul_dX hDe]
+  exact ⟨he0, heord⟩
+
+theorem ratFuncDXCoeff_eq_zero_or_two_le_ord_placeInfty_of_ord_nonneg
+    {g : RatFunc K} (hg : g ≠ 0) (hord : 0 ≤ (placeInfty K).ord g) :
+    ratFuncDXCoeff K g = 0 ∨ 2 ≤ (placeInfty K).ord (ratFuncDXCoeff K g) := by
+  rcases eq_or_ne (ratFuncDXCoeff K g) 0 with h0 | hne
+  · exact Or.inl h0
+  refine Or.inr ?_
+  rcases eq_or_lt_of_le hord with heq | hlt
+  ·
+    obtain ⟨e, he, hDe⟩ := exists_dXCoeff_ord_ge_two_of_ord_placeInfty_eq_zero hg heq.symm
+    have hee := ratFuncDXCoeff_eq_of_D_eq_smul_dX hDe
+    rcases he with rfl | h2
+    · exact absurd hee hne
+    · rw [hee]; exact h2
+  ·
+    have hW : g.num.derivative * g.denom - g.num * g.denom.derivative ≠ 0 :=
+      wronskian_ne_zero_of_ratFuncDXCoeff_ne_zero K hne
+    have h := ord_placeInfty_ratFuncDXCoeff_ge hg hW
+    omega
+
+end PlaceInftySide
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end DXCoeffIntegrality
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section LemmaA
+
+variable {K : Type*} [Field K] [CharZero K]
+
+theorem ratFuncDXCoeff_uniformizer_ne_zero_and_ord_le (v : Place K (RatFunc K))
+    {g : RatFunc K} (hg : g ∈ v.toValuationSubring) :
+    ratFuncDXCoeff K v.uniformizer ≠ 0 ∧
+      (ratFuncDXCoeff K g = 0 ∨
+        v.ord (ratFuncDXCoeff K v.uniformizer) ≤ v.ord (ratFuncDXCoeff K g)) := by
+  classical
+  have hg0 : 0 ≤ v.ord g := v.ord_nonneg_of_mem hg
+  rcases eq_or_ne g 0 with rfl | hgne
+  ·
+    refine ⟨?_, Or.inl (ratFuncDXCoeff_zero (K := K))⟩
+    rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+    · obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+      exact (ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp hp.separable
+        (Place.uniformizer_ne_zero _) (Place.ord_uniformizer _)).1
+    · exact (ratFuncDXCoeff_ne_zero_and_ord_placeInfty_eq_two_of_ord_eq_one
+        ((placeInfty K).uniformizer_ne_zero) ((placeInfty K).ord_uniformizer)).1
+  · rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+    ·
+      obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+      obtain ⟨hπne, hπord⟩ := ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp
+        hp.separable (Place.uniformizer_ne_zero _) (Place.ord_uniformizer _)
+      refine ⟨hπne, ?_⟩
+      rcases ratFuncDXCoeff_eq_zero_or_ord_nonneg_of_ord_nonneg hp hwp hgne hg0 with h0 | hge
+      · exact Or.inl h0
+      · exact Or.inr (by rw [hπord]; exact hge)
+    ·
+      obtain ⟨hπne, hπord⟩ :=
+        ratFuncDXCoeff_ne_zero_and_ord_placeInfty_eq_two_of_ord_eq_one
+          (f := (placeInfty K).uniformizer)
+          ((placeInfty K).uniformizer_ne_zero) ((placeInfty K).ord_uniformizer)
+      refine ⟨hπne, ?_⟩
+      rcases ratFuncDXCoeff_eq_zero_or_two_le_ord_placeInfty_of_ord_nonneg hgne hg0
+        with h0 | hge
+      · exact Or.inl h0
+      · exact Or.inr (by rw [hπord]; exact hge)
+
+theorem differentialCoeff_D_eq_ratFuncDXCoeff_div (v : Place K (RatFunc K)) (f : RatFunc K)
+    (hπ : ratFuncDXCoeff K v.uniformizer ≠ 0) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) f)
+      = ratFuncDXCoeff K f / ratFuncDXCoeff K v.uniformizer :=
+  v.differentialCoeff_unique (by
+    rw [show v.dCoord = KaehlerDifferential.D K (RatFunc K) v.uniformizer from rfl,
+      D_eq_ratFuncDXCoeff_smul_dX K v.uniformizer, D_eq_ratFuncDXCoeff_smul_dX K f,
+      smul_smul, div_mul_cancel₀ _ hπ])
+
+theorem differentialCoeff_D_mem_of_mem (v : Place K (RatFunc K))
+    {g : RatFunc K} (hg : g ∈ v.toValuationSubring) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) g) ∈ v.toValuationSubring := by
+  obtain ⟨hπne, hcase⟩ := ratFuncDXCoeff_uniformizer_ne_zero_and_ord_le v hg
+  rw [differentialCoeff_D_eq_ratFuncDXCoeff_div v g hπne]
+  rcases hcase with h0 | hle
+  · rw [h0, zero_div]; exact zero_mem _
+  · rcases eq_or_ne (ratFuncDXCoeff K g) 0 with h0 | hgne'
+    · rw [h0, zero_div]; exact zero_mem _
+    · refine v.mem_of_ord_nonneg (div_ne_zero hgne' hπne) ?_
+      rw [div_eq_mul_inv, v.ord_mul hgne' (inv_ne_zero hπne), v.ord_inv]
+      omega
+
+end LemmaA
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ExactDifferentialEngine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+variable (v : Place K F) [v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+
+p2m_open_scoped "AlgebraicCurve.Place.CanonicalLocalResidueDataK" in
+theorem CanonicalLocalResidueDataK.res_differentialCoeff_D_of_mem_poleSubmodule
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (hint : ∀ h : F, h ∈ v.toValuationSubring →
+      v.differentialCoeff (KaehlerDifferential.D K F h) ∈ v.toValuationSubring)
+    (R : v.CanonicalLocalResidueDataK) (N : ℕ) {g : F} (hg : g ∈ v.poleSubmodule N) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K F g)) = 0 := by
+  induction N generalizing g with
+  | zero =>
+
+    have hg' : g ∈ v.toValuationSubring := by
+      have h := (v.mem_poleSubmodule (n := 0) (f := g)).mp hg
+      rwa [pow_zero, one_mul] at h
+    exact R.res_of_mem _ (hint g hg')
+  | succ N ih =>
+
+    obtain ⟨c, hc⟩ := hsurj (v.laurentTailCoeff (N + 1) ⟨g, hg⟩)
+    have hclift : IsLocalRing.residue _ (algebraMap K v.toValuationSubring c)
+        = v.laurentTailCoeff (N + 1) ⟨g, hg⟩ := by
+      rw [← hc, IsScalarTower.algebraMap_apply K v.toValuationSubring v.ResidueField,
+        IsLocalRing.ResidueField.algebraMap_eq]
+    have hrem : g - algebraMap K F c * (v.uniformizer ^ (N + 1))⁻¹ ∈ v.poleSubmodule N := by
+      have h := v.laurentTail_remainder_mem_poleSubmodule hg hclift
+      rwa [v.coe_algebraMap] at h
+
+    have hpeel : R.res (v.differentialCoeff (KaehlerDifferential.D K F
+        (algebraMap K F c * (v.uniformizer ^ (N + 1))⁻¹))) = 0 := by
+      rw [Derivation.leibniz, Derivation.map_algebraMap, smul_zero, add_zero,
+        v.differentialCoeff_smul, v.differentialCoeff_D_uniformizer_pow_inv,
+        show algebraMap K F c * (-((N + 1 : ℕ) : F) * (v.uniformizer ^ (N + 2))⁻¹)
+            = algebraMap K F (c * -((N + 1 : ℕ) : K)) * (v.uniformizer ^ ((N + 1) + 1))⁻¹ by
+          rw [map_mul, _root_.map_neg, map_natCast]; ring]
+      exact R.res_algebraMap_mul_uniformizer_pow_inv v (Nat.le_add_left 1 N) _
+
+    have hsplit : R.res (v.differentialCoeff (KaehlerDifferential.D K F g))
+        = R.res (v.differentialCoeff (KaehlerDifferential.D K F
+            (g - algebraMap K F c * (v.uniformizer ^ (N + 1))⁻¹)))
+          + R.res (v.differentialCoeff (KaehlerDifferential.D K F
+            (algebraMap K F c * (v.uniformizer ^ (N + 1))⁻¹))) := by
+      conv_lhs => rw [show g = (g - algebraMap K F c * (v.uniformizer ^ (N + 1))⁻¹)
+          + algebraMap K F c * (v.uniformizer ^ (N + 1))⁻¹ by ring]
+      rw [map_add, v.differentialCoeff_add'', map_add]
+    rw [hsplit, ih hrem, hpeel, add_zero]
+
+p2m_open_scoped "AlgebraicCurve.Place.CanonicalLocalResidueDataK" in
+theorem CanonicalLocalResidueDataK.res_differentialCoeff_D_of_surj
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (hint : ∀ h : F, h ∈ v.toValuationSubring →
+      v.differentialCoeff (KaehlerDifferential.D K F h) ∈ v.toValuationSubring)
+    (R : v.CanonicalLocalResidueDataK) (g : F) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K F g)) = 0 := by
+  obtain ⟨N, hN⟩ := v.exists_mem_poleSubmodule g
+  exact CanonicalLocalResidueDataK.res_differentialCoeff_D_of_mem_poleSubmodule v hsurj hint
+    R N hN
+
+p2m_open_scoped "AlgebraicCurve.Place.CanonicalLocalResidueDataK" in
+theorem CanonicalLocalResidueDataK.res_differentialCoeff_D_mul_pow_inv_of_surj [CharZero K]
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (hint : ∀ h : F, h ∈ v.toValuationSubring →
+      v.differentialCoeff (KaehlerDifferential.D K F h) ∈ v.toValuationSubring)
+    (R : v.CanonicalLocalResidueDataK) (π' : F) {n : ℕ} (hn : 1 ≤ n) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K F π') * ((π') ^ (n + 1))⁻¹) = 0 := by
+  haveI : CharZero F := charZero_of_injective_algebraMap (algebraMap K F).injective
+  obtain ⟨m, rfl⟩ := Nat.exists_eq_add_of_le hn
+
+  have hres : R.res (v.differentialCoeff (KaehlerDifferential.D K F (((π') ^ (m + 1))⁻¹))) = 0 :=
+    CanonicalLocalResidueDataK.res_differentialCoeff_D_of_surj v hsurj hint R _
+
+  have hpow : v.differentialCoeff (KaehlerDifferential.D K F (((π') ^ (m + 1))⁻¹))
+      = -((m + 1 : ℕ) : F) * (((π') ^ (m + 2))⁻¹
+          * v.differentialCoeff (KaehlerDifferential.D K F π')) := by
+    rw [D_pow_succ_inv, v.differentialCoeff_smul]
+    ring
+
+  have hne : -(((m + 1 : ℕ) : F)) ≠ 0 := by
+    simp only [ne_eq, neg_eq_zero, Nat.cast_eq_zero]
+    omega
+
+  have hkey : v.differentialCoeff (KaehlerDifferential.D K F π') * ((π') ^ (1 + m + 1))⁻¹
+      = (-((m + 1 : ℕ) : K))⁻¹
+          • v.differentialCoeff (KaehlerDifferential.D K F (((π') ^ (m + 1))⁻¹)) := by
+    rw [Algebra.smul_def, map_inv₀, _root_.map_neg, map_natCast, hpow,
+      show 1 + m + 1 = m + 2 from by omega, inv_mul_cancel_left₀ hne]
+    ring
+  rw [hkey, map_smul, hres, smul_zero]
+
+p2m_open_scoped "AlgebraicCurve.Place.CanonicalLocalResidueDataK" in
+theorem CanonicalLocalResidueDataK.res_differentialCoeff_D_mul_inv_of_integral
+    (hint : ∀ h : F, h ∈ v.toValuationSubring →
+      v.differentialCoeff (KaehlerDifferential.D K F h) ∈ v.toValuationSubring)
+    (R : v.CanonicalLocalResidueDataK) {π' : F} (hπ' : v.ord π' = 1) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K F π') * (π')⁻¹) = 1 := by
+  have hπ'0 : π' ≠ 0 := by
+    intro h
+    rw [h, v.ord_zero] at hπ'
+    exact zero_ne_one hπ'
+  have hπv0 : v.uniformizer ≠ 0 := v.uniformizer_ne_zero
+
+  set w : F := π' * (v.uniformizer)⁻¹ with hw_def
+  have hw0 : w ≠ 0 := mul_ne_zero hπ'0 (inv_ne_zero hπv0)
+  have hword : v.ord w = 0 := by
+    rw [hw_def, v.ord_mul hπ'0 (inv_ne_zero hπv0), v.ord_inv, hπ', v.ord_uniformizer]
+    ring
+  have hwmem : w ∈ v.toValuationSubring := v.mem_of_ord_nonneg hw0 hword.ge
+  have hwinvmem : w⁻¹ ∈ v.toValuationSubring := by
+    refine v.mem_of_ord_nonneg (inv_ne_zero hw0) ?_
+    rw [v.ord_inv, hword]
+    omega
+
+  have hπ'_eq : π' = v.uniformizer * w := by
+    rw [hw_def, mul_comm π' (v.uniformizer)⁻¹, ← mul_assoc, mul_inv_cancel₀ hπv0, one_mul]
+
+  have hD : KaehlerDifferential.D K F π'
+      = v.uniformizer • KaehlerDifferential.D K F w
+        + w • KaehlerDifferential.D K F v.uniformizer := by
+    conv_lhs => rw [hπ'_eq]
+    exact Derivation.leibniz _ _ _
+
+  have hcoeff : v.differentialCoeff (KaehlerDifferential.D K F π')
+      = v.uniformizer * v.differentialCoeff (KaehlerDifferential.D K F w) + w := by
+    rw [hD, v.differentialCoeff_add'', v.differentialCoeff_smul, v.differentialCoeff_smul,
+      show KaehlerDifferential.D K F v.uniformizer = v.dCoord from rfl,
+      v.differentialCoeff_dCoord, mul_one]
+
+  have hsplit : v.differentialCoeff (KaehlerDifferential.D K F π') * (π')⁻¹
+      = v.differentialCoeff (KaehlerDifferential.D K F w) * w⁻¹ + (v.uniformizer)⁻¹ := by
+    rw [hcoeff, hπ'_eq, mul_inv]
+    field_simp
+  rw [hsplit, map_add, gate_canonicalLocalResidueDataK_uniformizer_inv v R,
+    R.res_of_mem _ (mul_mem (hint w hwmem) hwinvmem), zero_add]
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end ExactDifferentialEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section RatFuncClauses
+
+variable {K : Type*} [Field K] [CharZero K] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+theorem canonicalLocalResidueDataK_res_differentialCoeff_D_mul_pow_inv_ratFunc
+    (v : Place K (RatFunc K)) (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (π' : RatFunc K) (R : v.CanonicalLocalResidueDataK) {n : ℕ} (hn : 1 ≤ n) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) π')
+      * ((π') ^ (n + 1))⁻¹) = 0 :=
+  Place.CanonicalLocalResidueDataK.res_differentialCoeff_D_mul_pow_inv_of_surj v hsurj
+    (fun _ hh => differentialCoeff_D_mem_of_mem v hh) R π' hn
+
+theorem canonicalLocalResidueDataK_res_differentialCoeff_D_mul_inv_ratFunc
+    (v : Place K (RatFunc K)) {π' : RatFunc K} (hπ' : v.ord π' = 1)
+    (R : v.CanonicalLocalResidueDataK) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) π') * (π')⁻¹) = 1 :=
+  Place.CanonicalLocalResidueDataK.res_differentialCoeff_D_mul_inv_of_integral v
+    (fun _ hh => differentialCoeff_D_mem_of_mem v hh) R hπ'
+
+end RatFuncClauses
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+theorem canonicalLocalResidueKSimplePoleCoordIndep_ratFunc (K : Type*) [Field K] [CharZero K]
+    [HasCanonicalLocalResidueKStar K (RatFunc K)] :
+    CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K) :=
+  fun v _ hπ' R => canonicalLocalResidueDataK_res_differentialCoeff_D_mul_inv_ratFunc v hπ' R
+
+section PlaceInftyConsumers
+
+variable (K : Type*) [Field K] [CharZero K] [DecidableEq (RatFunc K)]
+variable [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+theorem canonicalLocalResidueDataK_res_differentialCoeff_D_mul_pow_inv_placeInfty
+    (π' : RatFunc K) (R : (placeInfty K).CanonicalLocalResidueDataK) {n : ℕ} (hn : 1 ≤ n) :
+    R.res ((placeInfty K).differentialCoeff (KaehlerDifferential.D K (RatFunc K) π')
+      * ((π') ^ (n + 1))⁻¹) = 0 :=
+  canonicalLocalResidueDataK_res_differentialCoeff_D_mul_pow_inv_ratFunc (placeInfty K)
+    (surjective_algebraMap_residueField_placeInfty K) π' R hn
+
+theorem canonicalLocalResidueDataK_res_X_pow_mul_D_X
+    (R : (placeInfty K).CanonicalLocalResidueDataK) (n : ℕ) :
+    R.res ((RatFunc.X : RatFunc K) ^ n
+        * (placeInfty K).differentialCoeff
+            (KaehlerDifferential.D K (RatFunc K) RatFunc.X)) = 0 := by
+  rw [X_pow_mul_differentialCoeff_D_X_eq_neg K n, _root_.map_neg, neg_eq_zero]
+  exact canonicalLocalResidueDataK_res_differentialCoeff_D_mul_pow_inv_placeInfty K
+    (RatFunc.X : RatFunc K)⁻¹ R (Nat.le_add_left 1 n)
+
+theorem canonicalLocalResidueDataK_kaehlerResidueTerm_X_pow
+    (R : (placeInfty K).CanonicalLocalResidueDataK) (n : ℕ) :
+    Algebra.trace K (placeInfty K).ResidueField
+        (R.res (diagonalHom K (RatFunc K) ((RatFunc.X : RatFunc K) ^ n) (placeInfty K)
+          * (placeInfty K).differentialCoeff
+              (KaehlerDifferential.D K (RatFunc K) RatFunc.X))) = 0 := by
+  rw [diagonalHom_apply, canonicalLocalResidueDataK_res_X_pow_mul_D_X K R n, _root_.map_zero]
+
+end PlaceInftyConsumers
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AlgClosedDischarge
+
+variable (K : Type*) [Field K] [CharZero K] [HasCanonicalLocalResidueKStar K (RatFunc K)]
+
+theorem surjective_algebraMap_residueField_of_deg_eq_one {F : Type*} [Field F] [Algebra K F]
+    (v : Place K F) (hdeg : v.deg = 1) :
+    Function.Surjective (algebraMap K v.ResidueField) := by
+  intro z
+  obtain ⟨c, hc⟩ := (finrank_eq_one_iff_of_nonzero' (1 : v.ResidueField) one_ne_zero).mp
+    (show Module.finrank K v.ResidueField = 1 from hdeg) z
+  exact ⟨c, by rw [Algebra.algebraMap_eq_smul_one]; exact hc⟩
+
+theorem surjective_algebraMap_residueField_ratFunc_of_isAlgClosed [IsAlgClosed K]
+    (v : Place K (RatFunc K)) :
+    Function.Surjective (algebraMap K v.ResidueField) := by
+  classical
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    refine surjective_algebraMap_residueField_of_deg_eq_one K _ ?_
+    rw [deg_ofHeightOneSpectrum K hwp]
+    have h := IsAlgClosed.degree_eq_one_of_irreducible K hp
+    rw [degree_eq_natDegree hp.ne_zero] at h
+    exact_mod_cast h
+  · exact surjective_algebraMap_residueField_placeInfty K
+
+variable [IsAlgClosed K]
+
+theorem canonicalLocalResidueKDifferentialCoordIndep_ratFunc_of_isAlgClosed :
+    CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K) :=
+  fun v π' _ R _ hn =>
+    canonicalLocalResidueDataK_res_differentialCoeff_D_mul_pow_inv_ratFunc v
+      (surjective_algebraMap_residueField_ratFunc_of_isAlgClosed K v) π' R hn
+
+end AlgClosedDischarge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+noncomputable section
+
+p2m_open "KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section PerfectDCoord
+
+variable (K : Type*) [Field K] [PerfectField K]
+
+theorem exists_ne_zero_smul_dX_of_uniformizer (v : Place K (RatFunc K)) :
+    ∃ c : RatFunc K, c ≠ 0 ∧
+      KaehlerDifferential.D K (RatFunc K) v.uniformizer = c • dX K := by
+  classical
+  have hord : v.ord v.uniformizer = 1 := v.ord_uniformizer
+  have hpi0 : v.uniformizer ≠ 0 := v.uniformizer_ne_zero
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  ·
+    obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    obtain ⟨hne, -⟩ := ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp
+      (PerfectField.separable_of_irreducible hp) hpi0 hord
+    exact ⟨ratFuncDXCoeff K _, hne, D_eq_ratFuncDXCoeff_smul_dX K _⟩
+  ·
+    obtain ⟨e, he0, -, hDe⟩ := exists_dXCoeff_ord_two_of_ord_placeInfty_eq_one hpi0 hord
+    exact ⟨e, he0, hDe⟩
+
+namespace RationalFunctionField
+p2m_export "AlgebraicCurve.RationalFunctionField" "heightOneSpectrumOfIrreducible heightOneSpectrumOfIrreducible_asIdeal exists_irreducible_span finitePlace finitePlace_def algebraMap_mem_ofHeightOneSpectrum residueFieldEquivOfHeightOneSpectrum deg_ofHeightOneSpectrum deg_finitePlace"
+p2m_open "AlgebraicCurve.RationalFunctionField"
+
+scoped instance (priority := low) instDCoordGeneratesPerfectField (v : Place K (RatFunc K)) :
+    v.DCoordGenerates := by
+  obtain ⟨c, hc0, hDc⟩ := exists_ne_zero_smul_dX_of_uniformizer K v
+  refine ⟨?_⟩
+  have hdc : v.dCoord = KaehlerDifferential.D K (RatFunc K) v.uniformizer := rfl
+  rw [hdc, hDc, eq_top_iff, ← span_dX_eq_top K, Submodule.span_singleton_le_iff_mem]
+  exact Submodule.mem_span_singleton.mpr
+    ⟨c⁻¹, by rw [smul_smul, inv_mul_cancel₀ hc0, one_smul]⟩
+
+end RationalFunctionField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end PerfectDCoord
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Profile
+
+variable (K : Type*) [Field K]
+
+section PerfectProfileValues
+
+variable [PerfectField K] [DecidableEq (RatFunc K)]
+
+theorem p1DifferentialCoeffUnitFinite_dX_of_perfectField :
+    P1DifferentialCoeffUnitFinite K (dX_ne_zero K) := by
+  intro v hvinf
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    exact ord_differentialCoeff_dX_ofHeightOneSpectrum hp hwp
+      (PerfectField.separable_of_irreducible hp)
+  · exact absurd rfl hvinf
+
+theorem p1DifferentialCoeffRegularFinite_dX_of_perfectField :
+    P1DifferentialCoeffRegularFinite K (dX_ne_zero K) :=
+  p1DifferentialCoeffRegularFinite_of_unitFinite (dX_ne_zero K)
+    (p1DifferentialCoeffUnitFinite_dX_of_perfectField K)
+
+theorem ordDifferential_dX_of_ne_placeInfty_of_perfectField {v : Place K (RatFunc K)}
+    (hv : v ≠ placeInfty K) : v.ordDifferential (dX K) = 0 := by
+  rw [Place.ordDifferential]
+  exact p1DifferentialCoeffUnitFinite_dX_of_perfectField K v hv
+
+theorem ordDifferential_dX_placeInfty_of_perfectField :
+    (placeInfty K).ordDifferential (dX K) = -2 :=
+  ordDifferential_placeInfty_D_ratFuncX K
+    (ordDifferentialWellDefined_ratFunc_of_perfectField K)
+
+theorem exists_divisor_smul_dX_of_perfectField {c : RatFunc K} (hc : c ≠ 0) :
+    ∃ D : Divisor K (RatFunc K),
+      (∀ v : Place K (RatFunc K), D v = v.ordDifferential (c • dX K)) ∧
+        Divisor.degree D = -2 := by
+  obtain ⟨Dc, hDc, hDcdeg⟩ :=
+    HasPrincipalDivisors.exists_divisor (K := K) (F := RatFunc K) c hc
+  refine ⟨Dc + Finsupp.single (placeInfty K) (-2), fun v => ?_, ?_⟩
+  ·
+    rw [Finsupp.add_apply, hDc v,
+      v.ordDifferential_smul hc (v.differentialCoeff_ne_zero (dX_ne_zero K))]
+    rcases eq_or_ne v (placeInfty K) with rfl | hne
+    · rw [ordDifferential_dX_placeInfty_of_perfectField K, Finsupp.single_eq_same]
+    · rw [ordDifferential_dX_of_ne_placeInfty_of_perfectField K hne,
+        Finsupp.single_eq_of_ne hne]
+  ·
+    rw [map_add, hDcdeg, zero_add, Divisor.degree_single, deg_placeInfty K, Nat.cast_one,
+      mul_one]
+
+end PerfectProfileValues
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section PerfectInstance
+
+variable [PerfectField K]
+
+scoped instance instHasCanonicalDivisorRatFuncPerfectField :
+    HasCanonicalDivisor (K := K) (F := RatFunc K) where
+  exists_divisor ω hω := by
+    classical
+    obtain ⟨c, hc⟩ := exists_smul_dX_eq K ω
+    have hc0 : c ≠ 0 := by
+      rintro rfl
+      rw [zero_smul] at hc
+      exact hω hc.symm
+    obtain ⟨D, hD, -⟩ := exists_divisor_smul_dX_of_perfectField K hc0
+    refine ⟨D, fun v => ?_⟩
+    rw [← hc]
+    exact hD v
+
+end PerfectInstance
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section PerfectExactDivisor
+
+variable [PerfectField K] [DecidableEq (RatFunc K)]
+
+end PerfectExactDivisor
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section CharZeroRoutes
+
+variable [CharZero K]
+
+end CharZeroRoutes
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end Profile
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section FiniteFieldReadings
+
+end FiniteFieldReadings
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option maxHeartbeats 1600000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace ModularCurve
+
+namespace MilneAvAg9bRd13T2CoordIndepChar3
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.RationalFunctionField AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+private theorem _root_.ModularCurve.MilneAvAg9bRd13T2CoordIndepChar3.ag9b13t_res_differentialCoeff_D_mul_pow_inv_of_surj_of_natCast_ne_zero
+    {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+    (v : Place K F) [v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (hint : ∀ h : F, h ∈ v.toValuationSubring →
+      v.differentialCoeff (KaehlerDifferential.D K F h) ∈ v.toValuationSubring)
+    (R : v.CanonicalLocalResidueDataK) (π' : F) {n : ℕ} (hn : 1 ≤ n)
+    (hnK : (n : K) ≠ 0) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K F π') * ((π') ^ (n + 1))⁻¹) = 0 := by
+  obtain ⟨m, rfl⟩ := Nat.exists_eq_add_of_le hn
+  have hmK : ((m + 1 : ℕ) : K) ≠ 0 := by
+    rwa [show m + 1 = 1 + m from by omega]
+
+  have hres : R.res (v.differentialCoeff
+      (KaehlerDifferential.D K F (((π') ^ (m + 1))⁻¹))) = 0 :=
+    Place.CanonicalLocalResidueDataK.res_differentialCoeff_D_of_surj v hsurj hint R _
+
+  have hpow : v.differentialCoeff (KaehlerDifferential.D K F (((π') ^ (m + 1))⁻¹))
+      = -((m + 1 : ℕ) : F) * (((π') ^ (m + 2))⁻¹
+          * v.differentialCoeff (KaehlerDifferential.D K F π')) := by
+    rw [D_pow_succ_inv, v.differentialCoeff_smul]
+    ring
+
+  have hne : -(((m + 1 : ℕ) : F)) ≠ 0 := by
+    rw [neg_ne_zero, ← map_natCast (algebraMap K F) (m + 1)]
+    exact (map_ne_zero_iff _ (algebraMap K F).injective).mpr hmK
+
+  have hkey : v.differentialCoeff (KaehlerDifferential.D K F π') * ((π') ^ (1 + m + 1))⁻¹
+      = (-((m + 1 : ℕ) : K))⁻¹
+          • v.differentialCoeff (KaehlerDifferential.D K F (((π') ^ (m + 1))⁻¹)) := by
+    rw [Algebra.smul_def, map_inv₀, _root_.map_neg, map_natCast, hpow,
+      show 1 + m + 1 = m + 2 from by omega, inv_mul_cancel_left₀ hne]
+    ring
+  rw [hkey, map_smul, hres, smul_zero]
+
+p2m_export "ModularCurve.MilneAvAg9bRd13T2CoordIndepChar3" "ag9b13t_res_differentialCoeff_D_mul_pow_inv_of_surj_of_natCast_ne_zero"
+end MilneAvAg9bRd13T2CoordIndepChar3
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section ChoiceOpacity
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+namespace Place
+p2m_export "AlgebraicCurve.Place" "ext coe_algebraMap ResidueField deg FiniteResidue adicValuation adicValuation_ne_zero adicValuation_coe_eq_one_iff adicValuation_coe_irreducible ord ord_zero ord_one ord_mul ord_inv ord_coe_unit ord_coe_irreducible ord_zpow ord_unit_smul_zpow exists_unit_mul_zpow ord_smul ofHeightOneSpectrum ofHeightOneSpectrum_toValuationSubring mk.injEq rec ne_top' FiniteResidue.finite algebraMap_mem' toValuationSubring isPrincipalIdealRing' mk adicValuation_valuationSubring mem_iff_adicValuation_le_one isEquiv_adicValuation_of_valuationSubring_eq mem_maximalIdeal_iff_adicValuation_lt_one ord_eq_zero_iff_adicValuation_eq_one isEquiv_adicValuation_ofHeightOneSpectrum ord_ofHeightOneSpectrum_ne_zero_iff dCoord DCoordGenerates dCoord_ne_zero differentialCoeff differentialCoeff_smul_dCoord differentialCoeff_unique differentialCoeff_dCoord differentialCoeff_zero differentialCoeff_smul ordDifferential ordDifferential_smul uniformizer ord_uniformizer uniformizer_ne_zero adicValuation_eq_exp_neg_ord LocalResidueData CanonicalLocalResidueDataK differentialCoeff_ne_zero ramificationIndex ramificationIndex_pos exists_ord_eq_ramificationIndex ramificationIndex_dvd_ord irreducible_mk_comap restrict ord_restrict restrictInclusion coe_restrictInclusion inertiaDeg deg_restrict_mul_inertiaDeg ord_neg mem_of_eval_monic_eq_zero mem_maximalIdeal_iff_ord_pos valuationSubringAlgebra integralClosureAt algebraMap_integralClosureAt_injective maximalIdeal_ne_bot forall_mem_of_restrict_eq fiberCenter mem_fiberCenter_iff_ord_pos toValuationSubring_eq_of_restrict_eq algebraMap_integralClosureAt_ne_zero ord_algebraMap_integralClosureAt fiberCenter_liesOver placeOfPrime restrict_placeOfPrime fiberCenter_placeOfPrime eq_of_fiberCenter_eq finite_setOf_restrict_eq ord_prod"
+p2m_open "AlgebraicCurve.Place"
+
+section BumpConstruction
+
+variable (v : Place K F)
+
+end BumpConstruction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end Place
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end ChoiceOpacity
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section CanonicalKResidueTerm
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+section SupportMachinery
+
+variable [HasCanonicalDivisor (K := K) (F := F)] [∀ v : Place K F, v.DCoordGenerates]
+
+variable (K F)
+
+variable {K F}
+
+section Bridge
+
+variable [HasLocalResidue K F] [HasCanonicalLocalResidueKStar K F]
+
+variable [Nontrivial Ω[F⁄K]]
+
+end Bridge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end SupportMachinery
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end CanonicalKResidueTerm
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section RatFuncPlaceInftyClause
+
+variable {K : Type*} [Field K] [CharZero K] [DecidableEq (RatFunc K)]
+
+theorem residueTheoremK_placeInfty_clause_X_pow
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK) (n : ℕ) :
+    kaehlerResidueTermKFam Rfam (KaehlerDifferential.D K (RatFunc K) RatFunc.X)
+      (diagonalHom K (RatFunc K) ((RatFunc.X : RatFunc K) ^ n)) (placeInfty K) = 0 := by
+  rw [kaehlerResidueTermKFam_apply]
+  exact canonicalLocalResidueDataK_kaehlerResidueTerm_X_pow K (Rfam (placeInfty K)) n
+
+end RatFuncPlaceInftyClause
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section GenericGates
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+end GenericGates
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AlgClosedGate
+
+variable {K : Type*} [Field K] [CharZero K] [IsAlgClosed K] [DecidableEq (RatFunc K)]
+  [HasCanonicalDivisor (K := K) (F := RatFunc K)]
+
+end AlgClosedGate
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+variable (K : Type*) [Field K] [PerfectField K] [DecidableEq (RatFunc K)]
+
+section EulerPerfectField
+
+variable {p : K[X]} [Fact (Irreducible p)]
+
+theorem ag9b12c_trace_root_pow_div_derivative_of_lt_of_perfectField (hpmon : p.Monic)
+    {k : ℕ} (hk : k < p.natDegree - 1) :
+    Algebra.trace K (AdjoinRoot p)
+      (AdjoinRoot.root p ^ k / aeval (AdjoinRoot.root p) (derivative p)) = 0 := by
+  haveI : FiniteDimensional K (AdjoinRoot p) :=
+    Module.Finite.of_basis (AdjoinRoot.powerBasis hpmon.ne_zero).basis
+  have hmin : minpoly K (AdjoinRoot.powerBasis hpmon.ne_zero).gen = p :=
+    AdjoinRoot.minpoly_powerBasis_gen_of_monic hpmon
+  have h := FLT.EulerDualBasis.trace_pow_div_aeval_derivative_minpoly_of_lt
+    (AdjoinRoot.powerBasis hpmon.ne_zero) (k := k)
+    (by rwa [AdjoinRoot.powerBasis_dim])
+  rwa [hmin, AdjoinRoot.powerBasis_gen] at h
+
+theorem ag9b12c_trace_root_pow_div_derivative_self_of_perfectField (hpmon : p.Monic)
+    (hd : 0 < p.natDegree) :
+    Algebra.trace K (AdjoinRoot p)
+      (AdjoinRoot.root p ^ (p.natDegree - 1) /
+        aeval (AdjoinRoot.root p) (derivative p)) = 1 := by
+  haveI : FiniteDimensional K (AdjoinRoot p) :=
+    Module.Finite.of_basis (AdjoinRoot.powerBasis hpmon.ne_zero).basis
+  have hmin : minpoly K (AdjoinRoot.powerBasis hpmon.ne_zero).gen = p :=
+    AdjoinRoot.minpoly_powerBasis_gen_of_monic hpmon
+  have h := FLT.EulerDualBasis.trace_pow_div_aeval_derivative_minpoly_self
+    (AdjoinRoot.powerBasis hpmon.ne_zero)
+    (by rwa [AdjoinRoot.powerBasis_dim])
+  rwa [hmin, AdjoinRoot.powerBasis_gen, AdjoinRoot.powerBasis_dim] at h
+
+private theorem ag9b12c_aeval_root_eq_sum_range {c : K[X]} {d : ℕ} (hd : c.natDegree < d) :
+    (aeval (AdjoinRoot.root p) c : AdjoinRoot p)
+      = ∑ k ∈ Finset.range d, c.coeff k • AdjoinRoot.root p ^ k := by
+  rw [aeval_def, eval₂_eq_sum_range' (algebraMap K (AdjoinRoot p)) hd]
+  exact Finset.sum_congr rfl fun k _ => (Algebra.smul_def _ _).symm
+
+theorem ag9b12c_trace_adjoinRoot_mk_div_mk_derivative_of_perfectField (hpmon : p.Monic)
+    {c : K[X]} (hdeg : c.degree < p.degree) :
+    Algebra.trace K (AdjoinRoot p)
+        (AdjoinRoot.mk p c / AdjoinRoot.mk p (derivative p))
+      = c.coeff (p.natDegree - 1) := by
+  haveI : FiniteDimensional K (AdjoinRoot p) :=
+    Module.Finite.of_basis (AdjoinRoot.powerBasis hpmon.ne_zero).basis
+  have hpd : 0 < p.natDegree := (Fact.out : Irreducible p).natDegree_pos
+  have hcd : c.natDegree < p.natDegree := by
+    rcases eq_or_ne c 0 with rfl | hc
+    · simpa using hpd
+    · exact natDegree_lt_natDegree hc hdeg
+  rw [← AdjoinRoot.aeval_eq, ← AdjoinRoot.aeval_eq,
+    ag9b12c_aeval_root_eq_sum_range K hcd, Finset.sum_div, map_sum]
+  trans ∑ k ∈ Finset.range p.natDegree,
+      c.coeff k * Algebra.trace K (AdjoinRoot p)
+        (AdjoinRoot.root p ^ k / aeval (AdjoinRoot.root p) (derivative p))
+  · refine Finset.sum_congr rfl fun k _ => ?_
+    rw [Algebra.smul_def, mul_div_assoc, ← Algebra.smul_def, map_smul, smul_eq_mul]
+  rw [Finset.sum_eq_single (p.natDegree - 1)]
+  · rw [ag9b12c_trace_root_pow_div_derivative_self_of_perfectField K hpmon hpd, mul_one]
+  · intro k hk hkne
+    have hk' : k < p.natDegree - 1 :=
+      lt_of_le_of_ne (Nat.le_sub_one_of_lt (Finset.mem_range.mp hk)) hkne
+    rw [ag9b12c_trace_root_pow_div_derivative_of_lt_of_perfectField K hpmon hk', mul_zero]
+  · intro h
+    exact absurd (Finset.mem_range.mpr (Nat.sub_lt hpd one_pos)) h
+
+end EulerPerfectField
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section DerivativeRegular
+
+private theorem ag9b12c_differentialCoeff_add (v : Place K (RatFunc K))
+    (ω₁ ω₂ : Ω[(RatFunc K)⁄K]) :
+    v.differentialCoeff (ω₁ + ω₂) = v.differentialCoeff ω₁ + v.differentialCoeff ω₂ :=
+  v.differentialCoeff_unique
+    (by rw [add_smul, v.differentialCoeff_smul_dCoord, v.differentialCoeff_smul_dCoord])
+
+theorem ag9b12c_differentialCoeff_D_mem_finitePlace {p : K[X]} (hpirr : Irreducible p)
+    {f : RatFunc K} (hf : f ∈ (finitePlace K hpirr).toValuationSubring) :
+    (finitePlace K hpirr).differentialCoeff (D K (RatFunc K) f)
+      ∈ (finitePlace K hpirr).toValuationSubring := by
+  set v := finitePlace K hpirr
+  set ξ : K[X] := f.num.derivative * f.denom - f.num * f.denom.derivative
+  have hd0 : algebraMap K[X] (RatFunc K) f.denom ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr f.denom_ne_zero
+  have hcoeff : v.differentialCoeff (D K (RatFunc K) f)
+      = algebraMap K[X] (RatFunc K) ξ * ((algebraMap K[X] (RatFunc K) f.denom) ^ 2)⁻¹
+          * v.differentialCoeff (dX K) := by
+    have hkey := denom_sq_smul_D_eq K f
+    refine v.differentialCoeff_unique ?_
+    rw [mul_smul, v.differentialCoeff_smul_dCoord, mul_comm, mul_smul, ← hkey, smul_smul,
+      inv_mul_cancel₀ (pow_ne_zero 2 hd0), one_smul]
+  rw [hcoeff]
+  refine mul_mem (mul_mem ?_ ?_) ?_
+  · exact algebraMap_mem_ofHeightOneSpectrum K _ ξ
+  · have hden_notmem : f.denom ∉ (heightOneSpectrumOfIrreducible K hpirr).asIdeal :=
+      denom_notMem_of_mem_ofHeightOneSpectrum K _ hf
+    have hordd : v.ord (algebraMap K[X] (RatFunc K) f.denom) = 0 := by
+      by_contra h
+      exact hden_notmem ((Place.ord_ofHeightOneSpectrum_ne_zero_iff (K := K)
+        (F := RatFunc K) _ f.denom_ne_zero).mp h)
+    refine v.mem_of_ord_nonneg (inv_ne_zero (pow_ne_zero 2 hd0)) ?_
+    rw [v.ord_inv, ← zpow_natCast, v.ord_zpow, hordd, mul_zero, _root_.neg_zero]
+  · exact v.mem_of_ord_nonneg (v.differentialCoeff_ne_zero (dX_ne_zero K))
+      (ord_differentialCoeff_dX_ofHeightOneSpectrum hpirr
+        (heightOneSpectrumOfIrreducible_asIdeal K hpirr)
+        (PerfectField.separable_of_irreducible hpirr)).ge
+
+end DerivativeRegular
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section LeibnizCore
+
+theorem ag9b12c_uniformizer_div_mem_finitePlace {p : K[X]} (hpirr : Irreducible p) :
+    (finitePlace K hpirr).uniformizer / algebraMap K[X] (RatFunc K) p
+      ∈ (finitePlace K hpirr).toValuationSubring := by
+  set v := finitePlace K hpirr
+  have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hpirr.ne_zero
+  refine v.mem_of_ord_nonneg (div_ne_zero v.uniformizer_ne_zero hp0) ?_
+  rw [div_eq_mul_inv, v.ord_mul v.uniformizer_ne_zero (inv_ne_zero hp0), v.ord_inv,
+    v.ord_uniformizer, ord_finitePlace_self K hpirr]
+  omega
+
+theorem ag9b12c_one_sub_uniformizer_div_mul_differentialCoeff_D
+    {p : K[X]} (hpirr : Irreducible p) :
+    (1 : RatFunc K) - (finitePlace K hpirr).uniformizer / algebraMap K[X] (RatFunc K) p
+        * (finitePlace K hpirr).differentialCoeff
+            (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))
+      = algebraMap K[X] (RatFunc K) p
+          * (finitePlace K hpirr).differentialCoeff
+              (D K (RatFunc K) ((finitePlace K hpirr).uniformizer
+                / algebraMap K[X] (RatFunc K) p)) := by
+  set v := finitePlace K hpirr
+  have hp0 : algebraMap K[X] (RatFunc K) p ≠ 0 :=
+    (map_ne_zero_iff _ (IsFractionRing.injective K[X] (RatFunc K))).mpr hpirr.ne_zero
+  have hleib : D K (RatFunc K) v.uniformizer
+      = (v.uniformizer / algebraMap K[X] (RatFunc K) p)
+            • D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)
+        + algebraMap K[X] (RatFunc K) p
+            • D K (RatFunc K) (v.uniformizer / algebraMap K[X] (RatFunc K) p) := by
+    have h := (D K (RatFunc K)).leibniz (a := v.uniformizer / algebraMap K[X] (RatFunc K) p)
+      (b := algebraMap K[X] (RatFunc K) p)
+    rw [div_mul_cancel₀ _ hp0] at h
+    exact h
+  have h1 : (1 : RatFunc K)
+      = (v.uniformizer / algebraMap K[X] (RatFunc K) p)
+            * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))
+        + algebraMap K[X] (RatFunc K) p
+            * v.differentialCoeff
+                (D K (RatFunc K) (v.uniformizer / algebraMap K[X] (RatFunc K) p)) := by
+    have hcoord : D K (RatFunc K) v.uniformizer = v.dCoord := rfl
+    rw [← v.differentialCoeff_dCoord, ← hcoord, hleib, ag9b12c_differentialCoeff_add K,
+      v.differentialCoeff_smul, v.differentialCoeff_smul]
+  linear_combination h1
+
+theorem ag9b12c_uniformizer_div_mul_differentialCoeff_D_mem_finitePlace
+    {p : K[X]} (hpirr : Irreducible p) :
+    (finitePlace K hpirr).uniformizer / algebraMap K[X] (RatFunc K) p
+        * (finitePlace K hpirr).differentialCoeff
+            (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))
+      ∈ (finitePlace K hpirr).toValuationSubring := by
+  set v := finitePlace K hpirr
+  refine mul_mem (ag9b12c_uniformizer_div_mem_finitePlace K hpirr) ?_
+  rw [differentialCoeff_D_algebraMap_polynomial K]
+  exact mul_mem (algebraMap_mem_ofHeightOneSpectrum K _ p.derivative)
+    (v.mem_of_ord_nonneg (v.differentialCoeff_ne_zero (dX_ne_zero K))
+      (ord_differentialCoeff_dX_ofHeightOneSpectrum hpirr
+        (heightOneSpectrumOfIrreducible_asIdeal K hpirr)
+        (PerfectField.separable_of_irreducible hpirr)).ge)
+
+theorem ag9b12c_residue_uniformizer_div_mul_differentialCoeff_D_eq_one
+    {p : K[X]} (hpirr : Irreducible p) :
+    IsLocalRing.residue _
+        ⟨_, ag9b12c_uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩
+      = (1 : (finitePlace K hpirr).ResidueField) := by
+  set v := finitePlace K hpirr
+  rw [← sub_eq_zero, show (1 : v.ResidueField) = IsLocalRing.residue _ 1 by simp,
+    ← map_sub, IsLocalRing.residue_eq_zero_iff]
+  have hsubmem : (1 : RatFunc K) - (v.uniformizer / algebraMap K[X] (RatFunc K) p
+      * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)))
+        ∈ v.toValuationSubring :=
+    sub_mem (one_mem _)
+      (ag9b12c_uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr)
+  have hcoe : (⟨_, ag9b12c_uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩
+        - 1 : v.toValuationSubring)
+      = -⟨_, hsubmem⟩ :=
+    Subtype.ext (by push_cast; ring)
+  rw [hcoe]
+  refine neg_mem ?_
+  have herr : (1 : RatFunc K) - (v.uniformizer / algebraMap K[X] (RatFunc K) p
+      * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)))
+        = algebraMap K[X] (RatFunc K) p
+          * v.differentialCoeff (D K (RatFunc K)
+              (v.uniformizer / algebraMap K[X] (RatFunc K) p)) :=
+    ag9b12c_one_sub_uniformizer_div_mul_differentialCoeff_D K hpirr
+  have hpmem : (⟨algebraMap K[X] (RatFunc K) p, algebraMap_mem_ofHeightOneSpectrum K _ p⟩
+      : v.toValuationSubring) ∈ IsLocalRing.maximalIdeal v.toValuationSubring := by
+    rw [Place.mem_maximalIdeal_iff_adicValuation_lt_one]
+    refine (Place.isEquiv_adicValuation_ofHeightOneSpectrum (K := K)
+      (F := RatFunc K) (heightOneSpectrumOfIrreducible K hpirr)).lt_one_iff_lt_one.mp ?_
+    exact (HeightOneSpectrum.valuation_lt_one_iff_mem _ p).mpr
+      (Ideal.mem_span_singleton_self p)
+  have hregmem : v.differentialCoeff (D K (RatFunc K)
+        (v.uniformizer / algebraMap K[X] (RatFunc K) p)) ∈ v.toValuationSubring :=
+    ag9b12c_differentialCoeff_D_mem_finitePlace K hpirr
+      (ag9b12c_uniformizer_div_mem_finitePlace K hpirr)
+  have hprod : (⟨_, hsubmem⟩ : v.toValuationSubring)
+      = ⟨_, algebraMap_mem_ofHeightOneSpectrum K _ p⟩ * ⟨_, hregmem⟩ :=
+    Subtype.ext herr
+  rw [hprod]
+  exact Ideal.mul_mem_right _ _ hpmem
+
+end LeibnizCore
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section BridgeDischarge
+
+theorem ag9b12c_residue_algebraMap_derivative_ne_zero {p : K[X]} (hpirr : Irreducible p) :
+    IsLocalRing.residue _ ⟨algebraMap K[X] (RatFunc K) p.derivative,
+        algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩
+      ≠ (0 : (finitePlace K hpirr).ResidueField) := by
+  rw [ne_eq, IsLocalRing.residue_eq_zero_iff,
+    Place.mem_maximalIdeal_iff_adicValuation_lt_one]
+  intro hlt
+  have hlt' := (Place.isEquiv_adicValuation_ofHeightOneSpectrum (K := K)
+    (F := RatFunc K) (heightOneSpectrumOfIrreducible K hpirr)).lt_one_iff_lt_one.mpr hlt
+  rw [HeightOneSpectrum.valuation_lt_one_iff_mem,
+    heightOneSpectrumOfIrreducible_asIdeal K hpirr, Ideal.mem_span_singleton] at hlt'
+  exact hpirr.not_isUnit
+    ((PerfectField.separable_of_irreducible hpirr).isUnit_of_dvd' dvd_rfl hlt')
+
+theorem ag9b12c_simplePoleResidueAux_finitePlace_p1PrincipalPartAtom_mOne
+    {p c : K[X]} (hpirr : Irreducible p)
+    (hfmem : p1PrincipalPartAtom K p c 1 * (finitePlace K hpirr).differentialCoeff (dX K)
+        ∈ (finitePlace K hpirr).simplePoleSubmodule) :
+    (finitePlace K hpirr).simplePoleResidueAux ⟨_, hfmem⟩
+      = IsLocalRing.residue _ ⟨algebraMap K[X] (RatFunc K) c,
+            algebraMap_mem_ofHeightOneSpectrum K _ c⟩
+        / IsLocalRing.residue _ ⟨algebraMap K[X] (RatFunc K) p.derivative,
+            algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩ := by
+  set v := finitePlace K hpirr
+  rw [Place.simplePoleResidueAux_apply,
+    eq_div_iff (ag9b12c_residue_algebraMap_derivative_ne_zero K hpirr)]
+  have hkey : (v.uniformizer * (p1PrincipalPartAtom K p c 1 * v.differentialCoeff (dX K)))
+        * algebraMap K[X] (RatFunc K) p.derivative
+      = algebraMap K[X] (RatFunc K) c
+        * (v.uniformizer / algebraMap K[X] (RatFunc K) p
+            * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p))) := by
+    rw [differentialCoeff_D_algebraMap_polynomial K]
+    show v.uniformizer
+        * (algebraMap K[X] (RatFunc K) c / algebraMap K[X] (RatFunc K) p ^ 1
+            * v.differentialCoeff (dX K))
+        * algebraMap K[X] (RatFunc K) (derivative p)
+      = algebraMap K[X] (RatFunc K) c
+        * (v.uniformizer / algebraMap K[X] (RatFunc K) p
+            * (algebraMap K[X] (RatFunc K) (derivative p) * v.differentialCoeff (dX K)))
+    rw [pow_one, div_mul_eq_mul_div, div_mul_eq_mul_div, mul_div_assoc, mul_div_assoc]
+    ring_nf
+  have hLHSmem : v.uniformizer * (p1PrincipalPartAtom K p c 1 * v.differentialCoeff (dX K))
+      * algebraMap K[X] (RatFunc K) p.derivative ∈ v.toValuationSubring :=
+    mul_mem hfmem (algebraMap_mem_ofHeightOneSpectrum K _ p.derivative)
+  have hRHSmem : algebraMap K[X] (RatFunc K) c
+      * (v.uniformizer / algebraMap K[X] (RatFunc K) p
+          * v.differentialCoeff (D K (RatFunc K) (algebraMap K[X] (RatFunc K) p)))
+        ∈ v.toValuationSubring :=
+    mul_mem (algebraMap_mem_ofHeightOneSpectrum K _ c)
+      (ag9b12c_uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr)
+  calc IsLocalRing.residue _ ⟨_, hfmem⟩ * IsLocalRing.residue _ ⟨_,
+          algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩
+      = IsLocalRing.residue _ (⟨_, hfmem⟩ * ⟨_,
+          algebraMap_mem_ofHeightOneSpectrum K _ p.derivative⟩) := (map_mul _ _ _).symm
+    _ = IsLocalRing.residue _ ⟨_, hLHSmem⟩ :=
+        congrArg (IsLocalRing.residue _) (Subtype.ext rfl)
+    _ = IsLocalRing.residue _ ⟨_, hRHSmem⟩ :=
+        congrArg (IsLocalRing.residue _) (Subtype.ext hkey)
+    _ = IsLocalRing.residue _ (⟨_, algebraMap_mem_ofHeightOneSpectrum K _ c⟩
+          * ⟨_, ag9b12c_uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩) :=
+        congrArg (IsLocalRing.residue _) (Subtype.ext rfl)
+    _ = IsLocalRing.residue _ ⟨_, algebraMap_mem_ofHeightOneSpectrum K _ c⟩
+          * IsLocalRing.residue _
+              ⟨_, ag9b12c_uniformizer_div_mul_differentialCoeff_D_mem_finitePlace K hpirr⟩ :=
+        map_mul _ _ _
+    _ = IsLocalRing.residue _ ⟨_, algebraMap_mem_ofHeightOneSpectrum K _ c⟩ := by
+        rw [ag9b12c_residue_uniformizer_div_mul_differentialCoeff_D_eq_one K hpirr, mul_one]
+
+theorem ag9b12c_p1FinitePlaceSimplePoleResidueAdjoinRootValue_of_perfectField :
+    P1FinitePlaceSimplePoleResidueAdjoinRootValue K := by
+  intro p c _ hpirr _
+  letI : Fact (Irreducible p) := ⟨hpirr⟩
+  intro hfmem
+  rw [ag9b12c_simplePoleResidueAux_finitePlace_p1PrincipalPartAtom_mOne K hpirr hfmem,
+    AlgEquiv.symm_apply_eq, map_div₀,
+    finitePlaceResidueFieldAlgEquivAdjoinRoot_mk K hpirr c,
+    finitePlaceResidueFieldAlgEquivAdjoinRoot_mk K hpirr p.derivative]
+
+end BridgeDischarge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section TraceValue
+
+theorem ag9b12c_trace_finitePlace_simplePoleResidue_mOne_of_perfectField
+    {p c : K[X]} (hpmon : p.Monic) (hpirr : Irreducible p) (hdeg : c.degree < p.degree)
+    (hfmem : p1PrincipalPartAtom K p c 1 * (finitePlace K hpirr).differentialCoeff (dX K)
+        ∈ (finitePlace K hpirr).simplePoleSubmodule) :
+    Algebra.trace K (finitePlace K hpirr).ResidueField
+        ((finitePlace K hpirr).simplePoleResidueAux ⟨_, hfmem⟩)
+      = c.coeff (p.natDegree - 1) := by
+  haveI : Fact (Irreducible p) := ⟨hpirr⟩
+  have hval := ag9b12c_p1FinitePlaceSimplePoleResidueAdjoinRootValue_of_perfectField K
+    p c hpmon hpirr hdeg
+  rw [trace_finitePlace_residueField_eq_trace_adjoinRoot K hpirr, hval hfmem,
+    ag9b12c_trace_adjoinRoot_mk_div_mk_derivative_of_perfectField K hpmon hdeg]
+
+theorem ag9b12c_p1MOneSimplePoleCancel_dX_of_inftyEulerValue_of_perfectField
+    (hinf : P1PlaceInftySimplePoleResidueEulerValue K) :
+    P1PrincipalPartMOneSimplePoleCancel K (dX_ne_zero K) := by
+  intro p c hpmon hpirr hdeg hfmem himem
+  rw [ag9b12c_trace_finitePlace_simplePoleResidue_mOne_of_perfectField K
+      hpmon hpirr hdeg hfmem,
+    hinf p c hpmon hpirr hdeg himem, add_neg_cancel]
+
+end TraceValue
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+set_option synthInstance.maxSize 4096
+set_option synthInstance.maxHeartbeats 1600000
+set_option maxHeartbeats 1600000
+
+section LemmaAPerfect
+
+variable {K : Type*} [Field K] [PerfectField K]
+
+theorem ag9b13e_ratFuncDXCoeff_uniformizer_ne_zero_and_ord_le_of_perfectField
+    (v : Place K (RatFunc K)) {g : RatFunc K} (hg : g ∈ v.toValuationSubring) :
+    ratFuncDXCoeff K v.uniformizer ≠ 0 ∧
+      (ratFuncDXCoeff K g = 0 ∨
+        v.ord (ratFuncDXCoeff K v.uniformizer) ≤ v.ord (ratFuncDXCoeff K g)) := by
+  classical
+  have hg0 : 0 ≤ v.ord g := v.ord_nonneg_of_mem hg
+  rcases eq_or_ne g 0 with rfl | hgne
+  · refine ⟨?_, Or.inl (ratFuncDXCoeff_zero (K := K))⟩
+    rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+    · obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+      exact (ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp
+        (PerfectField.separable_of_irreducible hp)
+        (Place.uniformizer_ne_zero _) (Place.ord_uniformizer _)).1
+    · exact (ratFuncDXCoeff_ne_zero_and_ord_placeInfty_eq_two_of_ord_eq_one
+        ((placeInfty K).uniformizer_ne_zero) ((placeInfty K).ord_uniformizer)).1
+  · rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+    ·
+      obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+      obtain ⟨hπne, hπord⟩ := ratFuncDXCoeff_ne_zero_and_ord_eq_zero_of_ord_eq_one hp hwp
+        (PerfectField.separable_of_irreducible hp)
+        (Place.uniformizer_ne_zero _) (Place.ord_uniformizer _)
+      refine ⟨hπne, ?_⟩
+      rcases ratFuncDXCoeff_eq_zero_or_ord_nonneg_of_ord_nonneg hp hwp hgne hg0 with h0 | hge
+      · exact Or.inl h0
+      · exact Or.inr (by rw [hπord]; exact hge)
+    ·
+      obtain ⟨hπne, hπord⟩ :=
+        ratFuncDXCoeff_ne_zero_and_ord_placeInfty_eq_two_of_ord_eq_one
+          (f := (placeInfty K).uniformizer)
+          ((placeInfty K).uniformizer_ne_zero) ((placeInfty K).ord_uniformizer)
+      refine ⟨hπne, ?_⟩
+      rcases ratFuncDXCoeff_eq_zero_or_two_le_ord_placeInfty_of_ord_nonneg hgne hg0
+        with h0 | hge
+      · exact Or.inl h0
+      · exact Or.inr (by rw [hπord]; exact hge)
+
+theorem ag9b13e_differentialCoeff_D_eq_ratFuncDXCoeff_div_of_perfectField
+    (v : Place K (RatFunc K)) (f : RatFunc K)
+    (hπ : ratFuncDXCoeff K v.uniformizer ≠ 0) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) f)
+      = ratFuncDXCoeff K f / ratFuncDXCoeff K v.uniformizer :=
+  v.differentialCoeff_unique (by
+    rw [show v.dCoord = KaehlerDifferential.D K (RatFunc K) v.uniformizer from rfl,
+      D_eq_ratFuncDXCoeff_smul_dX K v.uniformizer, D_eq_ratFuncDXCoeff_smul_dX K f,
+      smul_smul, div_mul_cancel₀ _ hπ])
+
+theorem ag9b13e_differentialCoeff_D_mem_of_mem_of_perfectField (v : Place K (RatFunc K))
+    {g : RatFunc K} (hg : g ∈ v.toValuationSubring) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) g) ∈ v.toValuationSubring := by
+  obtain ⟨hπne, hcase⟩ :=
+    ag9b13e_ratFuncDXCoeff_uniformizer_ne_zero_and_ord_le_of_perfectField v hg
+  rw [ag9b13e_differentialCoeff_D_eq_ratFuncDXCoeff_div_of_perfectField v g hπne]
+  rcases hcase with h0 | hle
+  · rw [h0, zero_div]; exact zero_mem _
+  · rcases eq_or_ne (ratFuncDXCoeff K g) 0 with h0 | hgne'
+    · rw [h0, zero_div]; exact zero_mem _
+    · refine v.mem_of_ord_nonneg (div_ne_zero hgne' hπne) ?_
+      rw [div_eq_mul_inv, v.ord_mul hgne' (inv_ne_zero hπne), v.ord_inv]
+      omega
+
+end LemmaAPerfect
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section SimplePoleRowPerfect
+
+variable (K : Type*) [Field K] [PerfectField K]
+
+theorem ag9b13e_canonicalLocalResidueKSimplePoleCoordIndep_ratFunc_of_perfectField :
+    CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K) :=
+  fun v _ hπ' R =>
+    Place.CanonicalLocalResidueDataK.res_differentialCoeff_D_mul_inv_of_integral v
+      (fun _ hh => ag9b13e_differentialCoeff_D_mem_of_mem_of_perfectField v hh) R hπ'
+
+end SimplePoleRowPerfect
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ChainPerfect
+
+variable (K : Type*) [Field K] [PerfectField K] [DecidableEq (RatFunc K)]
+
+theorem ag9b13e_p1PlaceInftySimplePoleResidueEulerValueX_of_perfectField :
+    P1PlaceInftySimplePoleResidueEulerValueX K :=
+  p1PlaceInftySimplePoleResidueEulerValueX_of_simplePoleCoordIndep K
+    (ag9b13e_canonicalLocalResidueKSimplePoleCoordIndep_ratFunc_of_perfectField K)
+
+theorem ag9b13e_p1PlaceInftySimplePoleResidueEulerValueMonomial_of_perfectField :
+    P1PlaceInftySimplePoleResidueEulerValueMonomial K :=
+  p1PlaceInftySimplePoleResidueEulerValueMonomial_of_X K
+    (ordDifferential_dX_placeInfty_of_perfectField K)
+    (ag9b13e_p1PlaceInftySimplePoleResidueEulerValueX_of_perfectField K)
+
+theorem ag9b13e_p1PlaceInftySimplePoleResidueEulerValue_of_perfectField :
+    P1PlaceInftySimplePoleResidueEulerValue K :=
+  p1PlaceInftySimplePoleResidueEulerValue_of_monomial K
+    (ordDifferential_dX_placeInfty_of_perfectField K)
+    (ag9b13e_p1PlaceInftySimplePoleResidueEulerValueMonomial_of_perfectField K)
+
+end ChainPerfect
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+namespace ModularCurve
+
+namespace MilneAvAg9bRd13X113FourRowUpgrade
+
+p2m_open "AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenPlaneModel P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenPicZeroFibreDiamond P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenPicZeroLiteralChordChain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenPicZeroPlaceDictionary P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenPicZeroPlaceDictionary.PlaceConstruction P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenPicZeroLitPic0Comparison P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenX113RiemannRochRows P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MazurTate1973Mt31b P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenX113PackageHeldRowOne P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd9DictionaryHeld3Closure P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.J1ThirteenX113OrdRowWellDefinedReduction P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd10EllKFinUpperRow P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd11X113TowerPowerBasis P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Ag9b11bX113HwdUnitDischarge P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd11DictionaryBinderShrink P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd12X113AssemblyRetirement P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd12T1P1InftyResidue P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd12X113LocalDatumMint P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.MilneAvAg9bRd12X113FiveRowUpgrade"
+
+set_option synthInstance.maxSize 4096
+set_option synthInstance.maxHeartbeats 1600000
+set_option maxHeartbeats 1600000
+
+end MilneAvAg9bRd13X113FourRowUpgrade
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end ModularCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section KernelEngine
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+variable [HasCanonicalDivisor (K := K) (F := F)] [∀ v : Place K F, v.DCoordGenerates]
+variable [HasPrincipalDivisors K F]
+
+def kaehlerResidueFunctionalK (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK)
+    {ω : Ω[F⁄K]} (hω : ω ≠ 0) : F →ₗ[K] K :=
+  (weilOfKaehlerK Rfam hω).comp (principalAdele K F)
+
+theorem kaehlerResidueFunctionalK_eq_finsum
+    (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK) {ω : Ω[F⁄K]} (hω : ω ≠ 0) (f : F) :
+    kaehlerResidueFunctionalK Rfam hω f
+      = ∑ᶠ v, kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v := rfl
+
+theorem kaehlerResidueFunctionalK_eq_zero_of_term_zero_compl
+    (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK) {ω : Ω[F⁄K]} (hω : ω ≠ 0) {f : F}
+    {T : Finset (Place K F)}
+    (hcompl : ∀ v ∉ T, kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v = 0)
+    (hsum : ∑ v ∈ T, kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v = 0) :
+    kaehlerResidueFunctionalK Rfam hω f = 0 := by
+  rw [kaehlerResidueFunctionalK_eq_finsum Rfam hω f,
+    finsum_eq_finsetSum_of_support_subset _
+      (fun v hv => by_contra fun hT => hv (hcompl v hT))]
+  exact hsum
+
+theorem kaehlerResidueFunctionalK_eq_zero_of_singleton
+    (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK) {ω : Ω[F⁄K]} (hω : ω ≠ 0) {f : F}
+    {v₀ : Place K F}
+    (hcompl : ∀ v, v ≠ v₀ → kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v = 0)
+    (hv₀ : kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v₀ = 0) :
+    kaehlerResidueFunctionalK Rfam hω f = 0 := by
+  classical
+  refine kaehlerResidueFunctionalK_eq_zero_of_term_zero_compl Rfam hω (T := {v₀}) ?_ ?_
+  · intro v hv
+    exact hcompl v (by simpa using hv)
+  · simpa using hv₀
+
+theorem kaehlerResidueFunctionalK_eq_zero_of_pair
+    (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK) {ω : Ω[F⁄K]} (hω : ω ≠ 0) {f : F}
+    {v₀ v₁ : Place K F} (hne : v₀ ≠ v₁)
+    (hcompl : ∀ v, v ≠ v₀ → v ≠ v₁ → kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v = 0)
+    (hsum : kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v₀
+      + kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v₁ = 0) :
+    kaehlerResidueFunctionalK Rfam hω f = 0 := by
+  classical
+  refine kaehlerResidueFunctionalK_eq_zero_of_term_zero_compl Rfam hω (T := {v₀, v₁}) ?_ ?_
+  · intro v hv
+    simp only [Finset.mem_insert, Finset.mem_singleton, not_or] at hv
+    exact hcompl v hv.1 hv.2
+  · rw [Finset.sum_pair hne]
+    exact hsum
+
+end KernelEngine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section SimplePoleSeam
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+
+theorem kaehlerResidueTermKFam_eq_of_mem_simplePoleSubmodule
+    (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK)
+    {ω : Ω[F⁄K]} {f : F} {v : Place K F}
+    (hmem : f * v.differentialCoeff ω ∈ v.simplePoleSubmodule) :
+    kaehlerResidueTermKFam Rfam ω (diagonalHom K F f) v
+      = Algebra.trace K v.ResidueField
+          (v.simplePoleResidueAux ⟨f * v.differentialCoeff ω, hmem⟩) := by
+  rw [kaehlerResidueTermKFam_apply, diagonalHom_apply,
+    (Rfam v).res_simplePole (f * v.differentialCoeff ω) hmem]
+  rfl
+
+end SimplePoleSeam
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section SmulReduction
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] [HasCanonicalLocalResidueKStar K F]
+variable [∀ v : Place K F, v.DCoordGenerates] [Nontrivial Ω[F⁄K]]
+
+theorem kaehlerResidueTermKFam_smul_diagonal
+    (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK)
+    (g : F) (ω : Ω[F⁄K]) (f : F) (v : Place K F) :
+    kaehlerResidueTermKFam Rfam (g • ω) (diagonalHom K F f) v
+      = kaehlerResidueTermKFam Rfam ω (diagonalHom K F (g * f)) v := by
+  simp only [kaehlerResidueTermKFam_apply, diagonalHom_apply]
+  rw [v.differentialCoeff_smul,
+    show f * (g * v.differentialCoeff ω) = g * f * v.differentialCoeff ω by ring]
+
+variable [HasCanonicalDivisor (K := K) (F := F)]
+
+theorem weilOfKaehlerK_smul_diagonal [HasPrincipalDivisors K F]
+    (Rfam : ∀ v : Place K F, v.CanonicalLocalResidueDataK) {g : F} {ω : Ω[F⁄K]}
+    (hω : ω ≠ 0) (hgω : g • ω ≠ 0) (f : F) :
+    weilOfKaehlerK Rfam hgω ⟨diagonalHom K F f, diagonal_mem_adeleSpace f⟩
+      = weilOfKaehlerK Rfam hω
+          ⟨diagonalHom K F (g * f), diagonal_mem_adeleSpace (g * f)⟩ := by
+  rw [weilOfKaehlerK_apply, weilOfKaehlerK_apply]
+  exact finsum_congr fun v => kaehlerResidueTermKFam_smul_diagonal Rfam g ω f v
+
+end SmulReduction
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section PerGenerator
+
+variable {K : Type*} [Field K] [CharZero K] [DecidableEq (RatFunc K)]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+theorem kaehlerResidueFunctionalK_dX_X_pow
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK) (n : ℕ) :
+    kaehlerResidueFunctionalK Rfam (dX_ne_zero K) ((RatFunc.X : RatFunc K) ^ n) = 0 := by
+  refine kaehlerResidueFunctionalK_eq_zero_of_singleton Rfam (dX_ne_zero K)
+    (v₀ := placeInfty K) ?_ ?_
+  ·
+    intro v hv
+    refine kaehlerResidueTermKFam_eq_zero_of_ord_nonneg Rfam ?_
+    rw [diagonalHom_apply]
+    exact Or.inr (v.ord_nonneg_of_mem
+      (pow_X_mul_mem_of_ne_placeInfty K hv n (p1DifferentialCoeffRegularFinite_dX K v hv)))
+  ·
+    exact residueTheoremK_placeInfty_clause_X_pow Rfam n
+
+theorem kaehlerResidueTermKFam_atom_eq_zero_of_ne_of_ne
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    {p : K[X]} (hpirr : Irreducible p) (c : K[X]) (m : ℕ) {v : Place K (RatFunc K)}
+    (hvp : v ≠ finitePlace K hpirr) (hvinf : v ≠ placeInfty K) :
+    kaehlerResidueTermKFam Rfam (dX K)
+      (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c m)) v = 0 := by
+  refine kaehlerResidueTermKFam_eq_zero_of_ord_nonneg Rfam ?_
+  rw [diagonalHom_apply]
+  exact Or.inr (v.ord_nonneg_of_mem
+    (mul_mem (p1PrincipalPartAtom_mem_of_ne_finitePlace K hpirr c m hvp hvinf)
+      (p1DifferentialCoeffRegularFinite_dX K v hvinf)))
+
+theorem kaehlerResidueTermKFam_atom_placeInfty_eq_zero_of_two_le
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    {p : K[X]} (hpirr : Irreducible p) (c : K[X]) {m : ℕ}
+    (hdeg : c.degree < p.degree) (hm : 2 ≤ m) :
+    kaehlerResidueTermKFam Rfam (dX K)
+      (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c m)) (placeInfty K) = 0 := by
+  refine kaehlerResidueTermKFam_eq_zero_of_ord_nonneg Rfam ?_
+  rw [diagonalHom_apply]
+  rcases eq_or_ne c 0 with rfl | hc
+  · left
+    show algebraMap K[X] (RatFunc K) 0 / (algebraMap K[X] (RatFunc K) p) ^ m
+        * (placeInfty K).differentialCoeff (dX K) = 0
+    rw [_root_.map_zero, zero_div, zero_mul]
+  · right
+    have hatom0 : p1PrincipalPartAtom K p c m ≠ 0 :=
+      p1PrincipalPartAtom_ne_zero K hpirr.ne_zero hc m
+    have hd0 : (placeInfty K).differentialCoeff (dX K) ≠ 0 :=
+      (placeInfty K).differentialCoeff_ne_zero (dX_ne_zero K)
+    rw [(placeInfty K).ord_mul hatom0 hd0]
+    have h2 : 2 ≤ (placeInfty K).ord (p1PrincipalPartAtom K p c m) :=
+      two_le_ord_placeInfty_p1PrincipalPartAtom K hpirr hc hdeg hm
+    have hordD : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2 :=
+      ordDifferential_placeInfty_D_ratFuncX K hwd
+    omega
+
+theorem kaehlerResidueTermKFam_atom_finitePlace_eq_zero_of_two_le
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K)
+    {p c : K[X]} {m : ℕ} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (hdeg : c.degree < p.degree) (hm : 2 ≤ m) :
+    kaehlerResidueTermKFam Rfam (dX K)
+      (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c m)) (finitePlace K hpirr) = 0 := by
+  rw [kaehlerResidueTermKFam_apply, diagonalHom_apply]
+  exact p1FinitePlaceCanonicalResidueAtomMGeTwoTrace_of_coordIndep_higherDeg K hcoord hHigh5
+    p c m hpmon hpirr hdeg hm (Rfam (finitePlace K hpirr))
+
+theorem kaehlerResidueTermKFam_atom_mOne_two_place_sum
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hsp : CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K))
+    {p c : K[X]} (hpmon : p.Monic) (hpirr : Irreducible p) (hdeg : c.degree < p.degree) :
+    kaehlerResidueTermKFam Rfam (dX K)
+        (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c 1)) (finitePlace K hpirr)
+      + kaehlerResidueTermKFam Rfam (dX K)
+          (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c 1)) (placeInfty K) = 0 := by
+
+  have hfmem := p1MOneAtom_mul_differentialCoeff_mem_simplePole_finitePlace K
+    (dX_ne_zero K) (p1DifferentialCoeffUnitFinite_dX K) hpirr c hdeg
+  have himem := p1MOneAtom_mul_differentialCoeff_mem_simplePole_placeInfty K
+    (dX_ne_zero K) (ordDifferential_placeInfty_D_ratFuncX K hwd) hpirr c hdeg
+
+  rw [kaehlerResidueTermKFam_eq_of_mem_simplePoleSubmodule Rfam hfmem,
+    kaehlerResidueTermKFam_eq_of_mem_simplePoleSubmodule Rfam himem]
+
+  exact p1PrincipalPartMOneSimplePoleCancel_of_simplePoleCoordIndep K hwd
+    (dX_ne_zero K) rfl hsp p c hpmon hpirr hdeg hfmem himem
+
+theorem kaehlerResidueFunctionalK_dX_atom
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hsp : CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K)
+    {p c : K[X]} {m : ℕ} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (hdeg : c.degree < p.degree) (hm : 1 ≤ m) :
+    kaehlerResidueFunctionalK Rfam (dX_ne_zero K) (p1PrincipalPartAtom K p c m) = 0 := by
+  refine kaehlerResidueFunctionalK_eq_zero_of_pair Rfam (dX_ne_zero K)
+    (finitePlace_ne_placeInfty hpirr)
+    (fun v hvp hvinf => kaehlerResidueTermKFam_atom_eq_zero_of_ne_of_ne Rfam hpirr c m
+      hvp hvinf) ?_
+
+  rcases eq_or_lt_of_le hm with rfl | hm2
+  ·
+    exact kaehlerResidueTermKFam_atom_mOne_two_place_sum Rfam hwd hsp hpmon hpirr hdeg
+  ·
+    rw [kaehlerResidueTermKFam_atom_finitePlace_eq_zero_of_two_le Rfam hcoord hHigh5
+        hpmon hpirr hdeg hm2,
+      kaehlerResidueTermKFam_atom_placeInfty_eq_zero_of_two_le Rfam hwd hpirr c hdeg hm2,
+      add_zero]
+
+theorem kaehlerResidueFunctionalK_dX_eq_zero
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hsp : CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K)
+    (h : RatFunc K) :
+    kaehlerResidueFunctionalK Rfam (dX_ne_zero K) h = 0 := by
+
+  have hker : Submodule.span K (P1PartialFractionGenerators K)
+      ≤ LinearMap.ker (kaehlerResidueFunctionalK Rfam (dX_ne_zero K)) := by
+    rw [Submodule.span_le]
+    rintro s hs
+    rw [SetLike.mem_coe, LinearMap.mem_ker]
+    rcases hs with hpoly | hatom
+    · obtain ⟨n, rfl⟩ := hpoly
+      exact kaehlerResidueFunctionalK_dX_X_pow Rfam n
+    · obtain ⟨p, c, m, hpmon, hpirr, hdeg, hm, rfl⟩ := hatom
+      exact kaehlerResidueFunctionalK_dX_atom Rfam hwd hcoord hsp hHigh5 hpmon hpirr hdeg hm
+
+  have hh : h ∈ LinearMap.ker (kaehlerResidueFunctionalK Rfam (dX_ne_zero K)) := by
+    apply hker
+    rw [p1PartialFractionSpan_eq_top]
+    exact Submodule.mem_top
+  exact LinearMap.mem_ker.mp hh
+
+end PerGenerator
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Engine
+
+variable {K : Type*} [Field K] [CharZero K] [DecidableEq (RatFunc K)]
+
+theorem residueTheoremK_ratFunc_of_subrows
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hsp : CanonicalLocalResidueKSimplePoleCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K) :
+    ResidueTheoremK K (RatFunc K) := by
+  intro Rfam instHPD ω hω f
+
+  obtain ⟨g, hg, rfl⟩ := exists_smul_eq_of_ne_zero (placeInfty K) hω (dX_ne_zero K)
+  calc weilOfKaehlerK Rfam hω
+        ⟨diagonalHom K (RatFunc K) f, diagonal_mem_adeleSpace f⟩
+      = weilOfKaehlerK Rfam (dX_ne_zero K)
+          ⟨diagonalHom K (RatFunc K) (g * f), diagonal_mem_adeleSpace (g * f)⟩ :=
+        weilOfKaehlerK_smul_diagonal Rfam (dX_ne_zero K) hω f
+    _ = 0 := kaehlerResidueFunctionalK_dX_eq_zero Rfam hwd hcoord hsp hHigh5 (g * f)
+
+end Engine
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AlgClosedDischarge
+
+variable (K : Type*) [Field K] [CharZero K] [IsAlgClosed K] [DecidableEq (RatFunc K)]
+
+theorem residueTheoremK_ratFunc_of_isAlgClosed_main : ResidueTheoremK K (RatFunc K) :=
+  residueTheoremK_ratFunc_of_subrows
+    (ordDifferentialWellDefined_ratFunc K)
+    (canonicalLocalResidueKDifferentialCoordIndep_ratFunc_of_isAlgClosed K)
+    (canonicalLocalResidueKSimplePoleCoordIndep_ratFunc K)
+    (p1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg_of_algClosed K)
+
+end AlgClosedDischarge
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section BridgeCorollary
+
+variable (K : Type*) [Field K] [CharZero K] [IsAlgClosed K] [DecidableEq (RatFunc K)]
+
+end BridgeCorollary
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AxiomAudit
+
+end AxiomAudit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+set_option maxHeartbeats 3200000
+set_option synthInstance.maxHeartbeats 1600000
+set_option synthInstance.maxSize 4096
+set_option maxRecDepth 8000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section MOnePerfect
+
+theorem p0n21_rtk_p1MOneSimplePoleCancel_dX_of_perfectField
+    (K : Type*) [Field K] [PerfectField K] [DecidableEq (RatFunc K)] :
+    P1PrincipalPartMOneSimplePoleCancel K (dX_ne_zero K) :=
+  ag9b12c_p1MOneSimplePoleCancel_dX_of_inftyEulerValue_of_perfectField K
+    (ag9b13e_p1PlaceInftySimplePoleResidueEulerValue_of_perfectField K)
+
+end MOnePerfect
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section PerGenerator
+
+variable {K : Type*} [Field K] [PerfectField K] [DecidableEq (RatFunc K)]
+variable [HasPrincipalDivisors K (RatFunc K)]
+
+theorem p0n21_rtk_kaehlerResidueFunctionalK_dX_X_pow
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K)) (n : ℕ) :
+    kaehlerResidueFunctionalK Rfam (dX_ne_zero K) ((RatFunc.X : RatFunc K) ^ n) = 0 := by
+  refine kaehlerResidueFunctionalK_eq_zero_of_singleton Rfam (dX_ne_zero K)
+    (v₀ := placeInfty K) ?_ ?_
+  ·
+    intro v hv
+    refine kaehlerResidueTermKFam_eq_zero_of_ord_nonneg Rfam ?_
+    rw [diagonalHom_apply]
+    exact Or.inr (v.ord_nonneg_of_mem
+      (pow_X_mul_mem_of_ne_placeInfty K hv n
+        (p1DifferentialCoeffRegularFinite_dX_of_perfectField K v hv)))
+  ·
+    rw [kaehlerResidueTermKFam_apply]
+    exact canonicalLocalResidueDataK_kaehlerResidueTerm_X_pow_of_coordIndep K hwd hcoord
+      (Rfam (placeInfty K)) n
+
+theorem p0n21_rtk_kaehlerResidueTermKFam_atom_eq_zero_of_ne_of_ne
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    {p : K[X]} (hpirr : Irreducible p) (c : K[X]) (m : ℕ) {v : Place K (RatFunc K)}
+    (hvp : v ≠ finitePlace K hpirr) (hvinf : v ≠ placeInfty K) :
+    kaehlerResidueTermKFam Rfam (dX K)
+      (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c m)) v = 0 := by
+  refine kaehlerResidueTermKFam_eq_zero_of_ord_nonneg Rfam ?_
+  rw [diagonalHom_apply]
+  exact Or.inr (v.ord_nonneg_of_mem
+    (mul_mem (p1PrincipalPartAtom_mem_of_ne_finitePlace K hpirr c m hvp hvinf)
+      (p1DifferentialCoeffRegularFinite_dX_of_perfectField K v hvinf)))
+
+theorem p0n21_rtk_kaehlerResidueTermKFam_atom_placeInfty_eq_zero_of_two_le
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    {p : K[X]} (hpirr : Irreducible p) (c : K[X]) {m : ℕ}
+    (hdeg : c.degree < p.degree) (hm : 2 ≤ m) :
+    kaehlerResidueTermKFam Rfam (dX K)
+      (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c m)) (placeInfty K) = 0 := by
+  refine kaehlerResidueTermKFam_eq_zero_of_ord_nonneg Rfam ?_
+  rw [diagonalHom_apply]
+  rcases eq_or_ne c 0 with rfl | hc
+  · left
+    show algebraMap K[X] (RatFunc K) 0 / (algebraMap K[X] (RatFunc K) p) ^ m
+        * (placeInfty K).differentialCoeff (dX K) = 0
+    rw [_root_.map_zero, zero_div, zero_mul]
+  · right
+    have hatom0 : p1PrincipalPartAtom K p c m ≠ 0 :=
+      p1PrincipalPartAtom_ne_zero K hpirr.ne_zero hc m
+    have hd0 : (placeInfty K).differentialCoeff (dX K) ≠ 0 :=
+      (placeInfty K).differentialCoeff_ne_zero (dX_ne_zero K)
+    rw [(placeInfty K).ord_mul hatom0 hd0]
+    have h2 : 2 ≤ (placeInfty K).ord (p1PrincipalPartAtom K p c m) :=
+      two_le_ord_placeInfty_p1PrincipalPartAtom K hpirr hc hdeg hm
+    have hordD : (placeInfty K).ord ((placeInfty K).differentialCoeff (dX K)) = -2 :=
+      ordDifferential_placeInfty_D_ratFuncX K hwd
+    omega
+
+theorem p0n21_rtk_kaehlerResidueTermKFam_atom_finitePlace_eq_zero_of_two_le
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K)
+    {p c : K[X]} {m : ℕ} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (hdeg : c.degree < p.degree) (hm : 2 ≤ m) :
+    kaehlerResidueTermKFam Rfam (dX K)
+      (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c m)) (finitePlace K hpirr) = 0 := by
+  rw [kaehlerResidueTermKFam_apply, diagonalHom_apply]
+  exact p1FinitePlaceCanonicalResidueAtomMGeTwoTrace_of_coordIndep_higherDeg K hcoord hHigh5
+    p c m hpmon hpirr hdeg hm (Rfam (finitePlace K hpirr))
+
+theorem p0n21_rtk_kaehlerResidueTermKFam_atom_mOne_two_place_sum
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    {p c : K[X]} (hpmon : p.Monic) (hpirr : Irreducible p) (hdeg : c.degree < p.degree) :
+    kaehlerResidueTermKFam Rfam (dX K)
+        (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c 1)) (finitePlace K hpirr)
+      + kaehlerResidueTermKFam Rfam (dX K)
+          (diagonalHom K (RatFunc K) (p1PrincipalPartAtom K p c 1)) (placeInfty K) = 0 := by
+  have hfmem := p1MOneAtom_mul_differentialCoeff_mem_simplePole_finitePlace K
+    (dX_ne_zero K) (p1DifferentialCoeffUnitFinite_dX_of_perfectField K) hpirr c hdeg
+  have himem := p1MOneAtom_mul_differentialCoeff_mem_simplePole_placeInfty K
+    (dX_ne_zero K) (ordDifferential_placeInfty_D_ratFuncX K hwd) hpirr c hdeg
+  rw [kaehlerResidueTermKFam_eq_of_mem_simplePoleSubmodule Rfam hfmem,
+    kaehlerResidueTermKFam_eq_of_mem_simplePoleSubmodule Rfam himem]
+  exact p0n21_rtk_p1MOneSimplePoleCancel_dX_of_perfectField K p c hpmon hpirr hdeg hfmem himem
+
+theorem p0n21_rtk_kaehlerResidueFunctionalK_dX_atom
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K)
+    {p c : K[X]} {m : ℕ} (hpmon : p.Monic) (hpirr : Irreducible p)
+    (hdeg : c.degree < p.degree) (hm : 1 ≤ m) :
+    kaehlerResidueFunctionalK Rfam (dX_ne_zero K) (p1PrincipalPartAtom K p c m) = 0 := by
+  refine kaehlerResidueFunctionalK_eq_zero_of_pair Rfam (dX_ne_zero K)
+    (finitePlace_ne_placeInfty hpirr)
+    (fun v hvp hvinf => p0n21_rtk_kaehlerResidueTermKFam_atom_eq_zero_of_ne_of_ne Rfam hpirr
+      c m hvp hvinf) ?_
+  rcases eq_or_lt_of_le hm with rfl | hm2
+  · exact p0n21_rtk_kaehlerResidueTermKFam_atom_mOne_two_place_sum Rfam hwd hpmon hpirr hdeg
+  · rw [p0n21_rtk_kaehlerResidueTermKFam_atom_finitePlace_eq_zero_of_two_le Rfam hcoord hHigh5
+        hpmon hpirr hdeg hm2,
+      p0n21_rtk_kaehlerResidueTermKFam_atom_placeInfty_eq_zero_of_two_le Rfam hwd hpirr c
+        hdeg hm2,
+      add_zero]
+
+theorem p0n21_rtk_kaehlerResidueFunctionalK_dX_eq_zero
+    (Rfam : ∀ v : Place K (RatFunc K), v.CanonicalLocalResidueDataK)
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K)
+    (h : RatFunc K) :
+    kaehlerResidueFunctionalK Rfam (dX_ne_zero K) h = 0 := by
+  have hker : Submodule.span K (P1PartialFractionGenerators K)
+      ≤ LinearMap.ker (kaehlerResidueFunctionalK Rfam (dX_ne_zero K)) := by
+    rw [Submodule.span_le]
+    rintro s hs
+    rw [SetLike.mem_coe, LinearMap.mem_ker]
+    rcases hs with hpoly | hatom
+    · obtain ⟨n, rfl⟩ := hpoly
+      exact p0n21_rtk_kaehlerResidueFunctionalK_dX_X_pow Rfam hwd hcoord n
+    · obtain ⟨p, c, m, hpmon, hpirr, hdeg, hm, rfl⟩ := hatom
+      exact p0n21_rtk_kaehlerResidueFunctionalK_dX_atom Rfam hwd hcoord hHigh5 hpmon hpirr
+        hdeg hm
+  have hh : h ∈ LinearMap.ker (kaehlerResidueFunctionalK Rfam (dX_ne_zero K)) := by
+    apply hker
+    rw [p1PartialFractionSpan_eq_top]
+    exact Submodule.mem_top
+  exact LinearMap.mem_ker.mp hh
+
+end PerGenerator
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section EngineCharFree
+
+variable {K : Type*} [Field K] [PerfectField K] [DecidableEq (RatFunc K)]
+
+theorem p0n21_rtk_residueTheoremK_ratFunc_of_subrows_charFree
+    (hwd : OrdDifferentialWellDefined K (RatFunc K))
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K) :
+    ResidueTheoremK K (RatFunc K) := by
+  intro Rfam instHPD ω hω f
+  obtain ⟨g, hg, rfl⟩ := exists_smul_eq_of_ne_zero (placeInfty K) hω (dX_ne_zero K)
+  calc weilOfKaehlerK Rfam hω
+        ⟨diagonalHom K (RatFunc K) f, diagonal_mem_adeleSpace f⟩
+      = weilOfKaehlerK Rfam (dX_ne_zero K)
+          ⟨diagonalHom K (RatFunc K) (g * f), diagonal_mem_adeleSpace (g * f)⟩ :=
+        weilOfKaehlerK_smul_diagonal Rfam (dX_ne_zero K) hω f
+    _ = 0 := p0n21_rtk_kaehlerResidueFunctionalK_dX_eq_zero Rfam hwd hcoord hHigh5 (g * f)
+
+theorem p0n21_rtk_residueTheoremK_ratFunc_of_coordIndep_higherDeg_of_perfectField
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K))
+    (hHigh5 : P1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg K) :
+    ResidueTheoremK K (RatFunc K) :=
+  p0n21_rtk_residueTheoremK_ratFunc_of_subrows_charFree
+    (ordDifferentialWellDefined_ratFunc_of_perfectField K) hcoord hHigh5
+
+end EngineCharFree
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section AlgClosedAnyChar
+
+theorem p0n21_rtk_residueTheoremK_ratFunc_of_isAlgClosed_of_coordIndep
+    (K : Type*) [Field K] [IsAlgClosed K] [DecidableEq (RatFunc K)]
+    (hcoord : CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K)) :
+    ResidueTheoremK K (RatFunc K) :=
+  p0n21_rtk_residueTheoremK_ratFunc_of_coordIndep_higherDeg_of_perfectField hcoord
+    (p1FinitePlaceCanonicalResidueAtomMGeTwoTraceHigherDeg_of_algClosed K)
+
+end AlgClosedAnyChar
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Bc2Carrier
+
+local notation "Qbar" => AlgebraicClosure ℚ
+
+end Bc2Carrier
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section ResidualLocation
+
+theorem p0n21_rtk_surjective_algebraMap_residueField_of_deg_eq_one
+    {K F : Type*} [Field K] [Field F] [Algebra K F]
+    (v : Place K F) (hdeg : v.deg = 1) :
+    Function.Surjective (algebraMap K v.ResidueField) := by
+  intro z
+  obtain ⟨c, hc⟩ := (finrank_eq_one_iff_of_nonzero' (1 : v.ResidueField) one_ne_zero).mp
+    (show Module.finrank K v.ResidueField = 1 from hdeg) z
+  exact ⟨c, by rw [Algebra.algebraMap_eq_smul_one]; exact hc⟩
+
+theorem p0n21_rtk_surjective_algebraMap_residueField_ratFunc_of_isAlgClosed
+    (K : Type*) [Field K] [IsAlgClosed K] (v : Place K (RatFunc K)) :
+    Function.Surjective (algebraMap K v.ResidueField) := by
+  classical
+  rcases eq_ofHeightOneSpectrum_or_eq_placeInfty v with ⟨w, rfl⟩ | rfl
+  · obtain ⟨p, hp, hwp⟩ := exists_irreducible_span K w
+    refine p0n21_rtk_surjective_algebraMap_residueField_of_deg_eq_one _ ?_
+    rw [deg_ofHeightOneSpectrum K hwp]
+    have h := IsAlgClosed.degree_eq_one_of_irreducible K hp
+    rw [degree_eq_natDegree hp.ne_zero] at h
+    exact_mod_cast h
+  · exact surjective_algebraMap_residueField_placeInfty K
+
+end ResidualLocation
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section
+section
+
+set_option linter.unusedSectionVars false
+set_option maxHeartbeats 3200000
+set_option synthInstance.maxHeartbeats 1600000
+set_option synthInstance.maxSize 4096
+set_option maxRecDepth 8000
+
+noncomputable section
+
+p2m_open "IsDedekindDomain P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsDedekindDomain WithZero P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.WithZero Module P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Module IsLocalRing P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.IsLocalRing Module.IsLocalRing KaehlerDifferential P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.KaehlerDifferential Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Place.ext Place.deg Place.FiniteResidue Divisor Divisor.degree Divisor.degree_single HasPrincipalDivisors Pic0 Place.ord_smul Place.ofHeightOneSpectrum Place.ofHeightOneSpectrum_toValuationSubring HasPrincipalDivisors.exists_divisor Place.FiniteResidue.finite Place.toValuationSubring Place.mem_iff_adicValuation_le_one Place.mem_maximalIdeal_iff_adicValuation_lt_one Place.isEquiv_adicValuation_ofHeightOneSpectrum Place.ord_ofHeightOneSpectrum_ne_zero_iff IsCurveOver Place.ordDifferential Place.ord_uniformizer Place.uniformizer_ne_zero diagonalHom diagonalHom_apply adeleSpace diagonal_mem_adeleSpace HasCanonicalDivisor Place.CanonicalLocalResidueDataK HasLocalResidue HasCanonicalLocalResidueKStar kaehlerResidueTermKFam kaehlerResidueTermKFam_apply kaehlerResidueTermKFam_eq_zero_of_ord_nonneg weilOfKaehlerK weilOfKaehlerK_apply ResidueTheoremK Place.finite_setOf_restrict_eq Place.ord_prod"
+p2m_open "AlgebraicCurve"
+
+p2m_open_scoped "Polynomial P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.Polynomial"
+
+p2m_open "AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField"
+
+section CharFreeToolkit
+
+variable {K : Type*} [Field K] [PerfectField K]
+
+theorem p0n22_cpf_uniformizer_pow_mul_mem_cases
+    (v : Place K (RatFunc K))
+    {σ : RatFunc K} (hσ : σ ∈ v.toValuationSubring) {k : ℕ} (hk : 1 ≤ k) :
+    v.uniformizer ^ k * σ = 0 ∨ 1 ≤ v.ord (v.uniformizer ^ k * σ) := by
+  rcases eq_or_ne σ 0 with rfl | hσ0
+  · exact Or.inl (mul_zero _)
+  · right
+    rw [v.ord_mul (v.uniformizer_pow_ne_zero k) hσ0, v.ord_uniformizer_pow]
+    have := v.ord_nonneg_of_mem hσ
+    omega
+
+theorem p0n22_cpf_one_add_ne_zero
+    (v : Place K (RatFunc K))
+    {g : RatFunc K} (hg : g = 0 ∨ 1 ≤ v.ord g) :
+    (1 : RatFunc K) + g ≠ 0 := by
+  rcases hg with rfl | hord
+  · simp
+  · intro h
+    rw [eq_neg_of_add_eq_zero_right h] at hord
+    have hneg : v.ord (-1 : RatFunc K) = 0 := by
+      have h2 : v.ord ((-1 : RatFunc K) * (-1)) = v.ord (-1 : RatFunc K)
+          + v.ord (-1 : RatFunc K) :=
+        v.ord_mul (neg_ne_zero.mpr one_ne_zero) (neg_ne_zero.mpr one_ne_zero)
+      rw [neg_mul_neg, one_mul, v.ord_one] at h2
+      omega
+    omega
+
+theorem p0n22_cpf_ord_one_add_eq_zero
+    (v : Place K (RatFunc K))
+    {g : RatFunc K} (hg : g = 0 ∨ 1 ≤ v.ord g) :
+    v.ord ((1 : RatFunc K) + g) = 0 := by
+  rcases hg with rfl | hord
+  · rw [add_zero, v.ord_one]
+  · have hg0 : g ≠ 0 := by
+      intro h
+      rw [h, v.ord_zero] at hord
+      omega
+    have h1 := v.ord_add_eq_min (f := (1 : RatFunc K)) (g := g) one_ne_zero hg0
+      (by rw [v.ord_one]; omega)
+    rw [v.ord_one] at h1
+    omega
+
+theorem p0n22_cpf_one_add_inv_mem
+    (v : Place K (RatFunc K))
+    {g : RatFunc K} (hg : g = 0 ∨ 1 ≤ v.ord g) :
+    ((1 : RatFunc K) + g)⁻¹ ∈ v.toValuationSubring := by
+  refine v.mem_of_ord_nonneg (inv_ne_zero (p0n22_cpf_one_add_ne_zero v hg)) ?_
+  rw [v.ord_inv, p0n22_cpf_ord_one_add_eq_zero v hg, _root_.neg_zero]
+
+theorem p0n22_cpf_logDeriv_mul
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    {w₁ w₂ : RatFunc K} (h1 : w₁ ≠ 0) (h2 : w₂ ≠ 0) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) (w₁ * w₂))
+        * (w₁ * w₂)⁻¹
+      = v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w₁) * w₁⁻¹
+        + v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w₂)
+            * w₂⁻¹ := by
+  rw [Derivation.leibniz, v.differentialCoeff_add'', v.differentialCoeff_smul,
+    v.differentialCoeff_smul]
+  have hc1 : w₁ * w₁⁻¹ = 1 := mul_inv_cancel₀ h1
+  have hc2 : w₂ * w₂⁻¹ = 1 := mul_inv_cancel₀ h2
+  linear_combination
+    (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w₂) * w₂⁻¹)
+      * hc1
+    + (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w₁) * w₁⁻¹)
+      * hc2
+
+theorem p0n22_cpf_logDeriv_mem
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    {w : RatFunc K} (hw0 : w ≠ 0) (hword : v.ord w = 0) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w) * w⁻¹
+      ∈ v.toValuationSubring := by
+  have hwmem : w ∈ v.toValuationSubring := v.mem_of_ord_nonneg hw0 hword.ge
+  have hwinv : w⁻¹ ∈ v.toValuationSubring := by
+    refine v.mem_of_ord_nonneg (inv_ne_zero hw0) ?_
+    rw [v.ord_inv, hword, _root_.neg_zero]
+  exact mul_mem (ag9b13e_differentialCoeff_D_mem_of_mem_of_perfectField v hwmem) hwinv
+
+theorem p0n22_cpf_differentialCoeff_D_one_add_algebraMap_mul_pow
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]] (a : K) (k : ℕ) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+        ((1 : RatFunc K)
+          + algebraMap K (RatFunc K) a * v.uniformizer ^ k))
+      = algebraMap K (RatFunc K) a
+        * (((k : ℕ) : RatFunc K) * v.uniformizer ^ (k - 1)) := by
+  refine v.differentialCoeff_unique ?_
+  rw [map_add, Derivation.map_one_eq_zero, zero_add, Derivation.leibniz,
+    Derivation.map_algebraMap, smul_zero, add_zero, Derivation.leibniz_pow,
+    show KaehlerDifferential.D K (RatFunc K) v.uniformizer = v.dCoord from
+      rfl,
+    ← Nat.cast_smul_eq_nsmul (RatFunc K) k, smul_smul, smul_smul, mul_assoc]
+
+theorem p0n22_cpf_differentialCoeff_D_one_add_pow_mul
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]] (σ : RatFunc K) (k : ℕ) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+        ((1 : RatFunc K) + v.uniformizer ^ k * σ))
+      = v.uniformizer ^ k
+          * v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) σ)
+        + σ * (((k : ℕ) : RatFunc K) * v.uniformizer ^ (k - 1)) := by
+  refine v.differentialCoeff_unique ?_
+  conv_lhs => rw [map_add, Derivation.map_one_eq_zero, zero_add, Derivation.leibniz,
+    Derivation.leibniz_pow,
+    show KaehlerDifferential.D K (RatFunc K) v.uniformizer = v.dCoord from
+      rfl,
+    ← Nat.cast_smul_eq_nsmul (RatFunc K) k,
+    ← v.differentialCoeff_smul_dCoord
+      (KaehlerDifferential.D K (RatFunc K) σ),
+    smul_smul, smul_smul, smul_smul, ← add_smul]
+  exact congrArg (· • v.dCoord) (by ring)
+
+theorem p0n22_cpf_exists_residue_lift_decomp
+    (v : Place K (RatFunc K))
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    {r : RatFunc K} (hr : r ∈ v.toValuationSubring) :
+    ∃ (d : K) (r' : RatFunc K), r' ∈ v.toValuationSubring ∧
+      r = algebraMap K (RatFunc K) d + v.uniformizer * r' := by
+  obtain ⟨d, hd⟩ := hsurj (IsLocalRing.residue _ (⟨r, hr⟩ : v.toValuationSubring))
+  have hxmem : r - algebraMap K (RatFunc K) d ∈ v.toValuationSubring :=
+    sub_mem hr (v.algebraMap_mem' d)
+  have hres0 : IsLocalRing.residue _
+      (⟨r - algebraMap K (RatFunc K) d, hxmem⟩ : v.toValuationSubring)
+      = 0 := by
+    have hfact : (⟨r - algebraMap K (RatFunc K) d, hxmem⟩
+        : v.toValuationSubring)
+        = ⟨r, hr⟩ - algebraMap K v.toValuationSubring d :=
+      Subtype.ext (by push_cast [v.coe_algebraMap]; ring)
+    have h2 : IsLocalRing.residue _ (algebraMap K v.toValuationSubring d)
+        = IsLocalRing.residue _ (⟨r, hr⟩ : v.toValuationSubring) := by
+      rw [← hd, IsScalarTower.algebraMap_apply K v.toValuationSubring
+        v.ResidueField, IsLocalRing.ResidueField.algebraMap_eq]
+    rw [hfact, map_sub, h2, sub_self]
+  rcases _root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_eq_zero_or_one_le_ord_of_residue_eq_zero
+      v hxmem hres0 with hx0 | hxord
+  · exact ⟨d, 0, zero_mem _, by rw [mul_zero, add_zero]; exact (sub_eq_zero.mp hx0)⟩
+  · have hxne : r - algebraMap K (RatFunc K) d ≠ 0 := by
+      intro h0
+      rw [h0, v.ord_zero] at hxord
+      omega
+    refine ⟨d, v.uniformizer⁻¹ * (r - algebraMap K (RatFunc K) d), ?_, ?_⟩
+    · refine v.mem_of_ord_nonneg
+        (mul_ne_zero (inv_ne_zero v.uniformizer_ne_zero) hxne) ?_
+      rw [v.ord_mul (inv_ne_zero v.uniformizer_ne_zero) hxne, v.ord_inv,
+        v.ord_uniformizer]
+      omega
+    · rw [← mul_assoc, mul_inv_cancel₀ v.uniformizer_ne_zero, one_mul]
+      ring
+
+theorem p0n22_cpf_exists_elementary_peel
+    (v : Place K (RatFunc K))
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    {k : ℕ} (hk : 1 ≤ k) {σ : RatFunc K} (hσ : σ ∈ v.toValuationSubring) :
+    ∃ (a : K) (τ : RatFunc K), τ ∈ v.toValuationSubring ∧
+      (1 : RatFunc K) + v.uniformizer ^ k * σ
+        = ((1 : RatFunc K)
+              + algebraMap K (RatFunc K) a * v.uniformizer ^ k)
+          * ((1 : RatFunc K) + v.uniformizer ^ (k + 1) * τ) := by
+  obtain ⟨a, σ', hσ', hdec⟩ := p0n22_cpf_exists_residue_lift_decomp v hsurj hσ
+  have hgcase : algebraMap K (RatFunc K) a * v.uniformizer ^ k = 0
+      ∨ 1 ≤ v.ord (algebraMap K (RatFunc K) a * v.uniformizer ^ k) := by
+    rw [mul_comm]
+    exact p0n22_cpf_uniformizer_pow_mul_mem_cases v (v.algebraMap_mem' a) hk
+  have he0 : (1 : RatFunc K)
+      + algebraMap K (RatFunc K) a * v.uniformizer ^ k ≠ 0 :=
+    p0n22_cpf_one_add_ne_zero v hgcase
+  have heinv : ((1 : RatFunc K)
+      + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+      ∈ v.toValuationSubring :=
+    p0n22_cpf_one_add_inv_mem v hgcase
+  refine ⟨a, σ' * ((1 : RatFunc K)
+    + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹,
+    mul_mem hσ' heinv, ?_⟩
+  have hce : ((1 : RatFunc K)
+      + algebraMap K (RatFunc K) a * v.uniformizer ^ k)
+      * ((1 : RatFunc K)
+          + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹ = 1 :=
+    mul_inv_cancel₀ he0
+  rw [hdec]
+  linear_combination (-(v.uniformizer ^ (k + 1) * σ')) * hce
+
+theorem p0n22_cpf_exists_laurent_expansion_one
+    (v : Place K (RatFunc K))
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (f : RatFunc K) :
+    ∃ (s : Finset ℤ) (c : ℤ → K) (r : RatFunc K),
+      r ∈ v.toValuationSubring ∧
+      f = (∑ j ∈ s, c j • v.uniformizer ^ j) + v.uniformizer * r := by
+  obtain ⟨N, hN⟩ := v.exists_mem_poleSubmodule f
+  obtain ⟨c0, hc0⟩ :=
+    _root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_exists_K_truncation_of_mem_poleSubmodule
+      v hsurj N hN
+  obtain ⟨d, r, hr, hdec⟩ := p0n22_cpf_exists_residue_lift_decomp v hsurj hc0
+  refine ⟨insert (0 : ℤ) ((Finset.range N).image fun j : ℕ => -((j : ℤ) + 1)),
+    fun t => if t = 0 then d else c0 (-(t + 1)).toNat, r, hr, ?_⟩
+  have h0not : (0 : ℤ) ∉ (Finset.range N).image (fun j : ℕ => -((j : ℤ) + 1)) := by
+    simp only [Finset.mem_image, Finset.mem_range]
+    rintro ⟨j, _, hj⟩
+    omega
+  have hinj : ∀ x ∈ Finset.range N, ∀ y ∈ Finset.range N,
+      -((x : ℤ) + 1) = -((y : ℤ) + 1) → x = y := fun x _ y _ h => by omega
+  have himg : ∀ j ∈ Finset.range N,
+      (if -((j : ℤ) + 1) = 0 then d else c0 (-(-((j : ℤ) + 1) + 1)).toNat)
+          • v.uniformizer ^ (-((j : ℤ) + 1))
+        = algebraMap K (RatFunc K) (c0 j)
+            * (v.uniformizer ^ (j + 1))⁻¹ := by
+    intro j _
+    rw [if_neg (by omega : ¬(-((j : ℤ) + 1) = (0 : ℤ))),
+      show (-(-((j : ℤ) + 1) + 1)).toNat = j from by omega,
+      Algebra.smul_def, _root_.zpow_neg,
+      show ((j : ℤ) + 1) = ((j + 1 : ℕ) : ℤ) from by push_cast; ring, zpow_natCast]
+  rw [Finset.sum_insert h0not, Finset.sum_image hinj, Finset.sum_congr rfl himg,
+    show ((fun t : ℤ => if t = 0 then d else c0 (-(t + 1)).toNat) 0) = d from by simp,
+    zpow_zero, Algebra.smul_def, mul_one]
+  linear_combination hdec
+
+theorem p0n22_cpf_res_geom_core
+    (v : Place K (RatFunc K)) (R : v.CanonicalLocalResidueDataK)
+    (a : K) {k q : ℕ} (hk : 1 ≤ k) (hq : 1 ≤ q) :
+    R.res (algebraMap K (RatFunc K) a * v.uniformizer ^ (k - 1)
+        * ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+        * (v.uniformizer ^ q)⁻¹)
+      = if k ∣ q
+        then algebraMap K v.ResidueField (a * (-a) ^ (q / k - 1))
+        else 0 := by
+  have hπ0 : (v.uniformizer : RatFunc K) ≠ 0 := v.uniformizer_ne_zero
+  have hgcase : algebraMap K (RatFunc K) a * v.uniformizer ^ k = 0
+      ∨ 1 ≤ v.ord (algebraMap K (RatFunc K) a * v.uniformizer ^ k) := by
+    rw [mul_comm]
+    exact p0n22_cpf_uniformizer_pow_mul_mem_cases v (v.algebraMap_mem' a) hk
+  have hu0 : (1 : RatFunc K)
+      + algebraMap K (RatFunc K) a * v.uniformizer ^ k ≠ 0 :=
+    p0n22_cpf_one_add_ne_zero v hgcase
+  have huinv : ((1 : RatFunc K)
+      + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+      ∈ v.toValuationSubring :=
+    p0n22_cpf_one_add_inv_mem v hgcase
+  have hgeom : ((1 : RatFunc K)
+      + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+      = (∑ t ∈ Finset.range q,
+          (-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) ^ t)
+        + (-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) ^ q
+          * ((1 : RatFunc K)
+              + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹ := by
+    refine (eq_inv_of_mul_eq_one_left ?_).symm
+    rw [add_mul, mul_assoc, inv_mul_cancel₀ hu0, mul_one]
+    have hgs := geom_sum_mul
+      (-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) q
+    linear_combination -hgs
+  rw [hgeom, mul_add, add_mul, map_add]
+  have htail : R.res ((algebraMap K (RatFunc K) a * v.uniformizer ^ (k - 1)
+      * ((-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) ^ q
+          * ((1 : RatFunc K)
+              + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹))
+      * (v.uniformizer ^ q)⁻¹) = 0 := by
+    apply R.res_of_mem
+    have hqle : q ≤ k * q := Nat.le_of_dvd (Nat.mul_pos hk hq) (dvd_mul_left q k)
+    have hpowsplit : (v.uniformizer : RatFunc K) ^ (k * q)
+        = v.uniformizer ^ (k * q - q) * v.uniformizer ^ q := by
+      rw [← pow_add, Nat.sub_add_cancel hqle]
+    have hxq : (-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) ^ q
+        = algebraMap K (RatFunc K) ((-a) ^ q)
+          * (v.uniformizer ^ (k * q - q) * v.uniformizer ^ q) := by
+      rw [map_pow, _root_.map_neg,
+        show -(algebraMap K (RatFunc K) a * v.uniformizer ^ k)
+            = -algebraMap K (RatFunc K) a * v.uniformizer ^ k from
+          (neg_mul _ _).symm,
+        mul_pow, ← pow_mul, hpowsplit]
+    have hcc : (v.uniformizer : RatFunc K) ^ q
+        * ((v.uniformizer : RatFunc K) ^ q)⁻¹ = 1 :=
+      mul_inv_cancel₀ (pow_ne_zero _ hπ0)
+    have heq : (algebraMap K (RatFunc K) a * v.uniformizer ^ (k - 1)
+        * ((-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) ^ q
+            * ((1 : RatFunc K)
+                + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹))
+        * (v.uniformizer ^ q)⁻¹
+        = algebraMap K (RatFunc K) a * v.uniformizer ^ (k - 1)
+          * (algebraMap K (RatFunc K) ((-a) ^ q)
+              * v.uniformizer ^ (k * q - q)
+              * ((1 : RatFunc K)
+                  + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹) := by
+      rw [hxq]
+      linear_combination (algebraMap K (RatFunc K) a
+        * v.uniformizer ^ (k - 1)
+        * (algebraMap K (RatFunc K) ((-a) ^ q)
+            * v.uniformizer ^ (k * q - q)
+            * ((1 : RatFunc K)
+                + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹)) * hcc
+    rw [heq]
+    exact mul_mem (mul_mem (v.algebraMap_mem' a) (pow_mem v.uniformizer_mem _))
+      (mul_mem (mul_mem (v.algebraMap_mem' _) (pow_mem v.uniformizer_mem _)) huinv)
+  have hterm : (algebraMap K (RatFunc K) a * v.uniformizer ^ (k - 1)
+      * (∑ t ∈ Finset.range q,
+          (-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) ^ t))
+      * (v.uniformizer ^ q)⁻¹
+      = ∑ t ∈ Finset.range q, (a * (-a) ^ t)
+          • v.uniformizer ^ ((k : ℤ) * ((t : ℤ) + 1) - 1 - (q : ℤ)) := by
+    rw [Finset.mul_sum, Finset.sum_mul]
+    refine Finset.sum_congr rfl fun t _ => ?_
+    have hxt : (-(algebraMap K (RatFunc K) a * v.uniformizer ^ k)) ^ t
+        = algebraMap K (RatFunc K) ((-a) ^ t)
+          * v.uniformizer ^ (k * t) := by
+      rw [map_pow, _root_.map_neg,
+        show -(algebraMap K (RatFunc K) a * v.uniformizer ^ k)
+            = -algebraMap K (RatFunc K) a * v.uniformizer ^ k from
+          (neg_mul _ _).symm,
+        mul_pow, ← pow_mul]
+    rw [hxt, Algebra.smul_def, map_mul, map_pow, _root_.map_neg,
+      show (k : ℤ) * ((t : ℤ) + 1) - 1 - (q : ℤ)
+          = ((k - 1 : ℕ) : ℤ) + ((k * t : ℕ) : ℤ) + -((q : ℕ) : ℤ) from by
+        push_cast [Nat.cast_sub hk]
+        ring,
+      zpow_add₀ hπ0, zpow_add₀ hπ0, zpow_natCast, zpow_natCast, _root_.zpow_neg, zpow_natCast]
+    ring
+  rw [hterm, map_sum]
+  simp only [map_smul]
+  by_cases hdvd : k ∣ q
+  · rw [if_pos hdvd, htail, add_zero]
+    obtain ⟨e, rfl⟩ := hdvd
+    rcases Nat.eq_zero_or_pos e with rfl | he1
+    · simp at hq
+    · rw [Nat.mul_div_cancel_left e hk]
+      have he_lt : e - 1 < k * e := by
+        have h1 : e ≤ k * e := Nat.le_of_dvd (Nat.mul_pos hk he1) (dvd_mul_left e k)
+        omega
+      have hother : ∀ t ∈ Finset.range (k * e), t ≠ e - 1 →
+          (a * (-a) ^ t) • R.res ((v.uniformizer : RatFunc K)
+            ^ ((k : ℤ) * ((t : ℤ) + 1) - 1 - ((k * e : ℕ) : ℤ))) = 0 := by
+        intro t _ htne
+        have hne : (k : ℤ) * ((t : ℤ) + 1) - 1 - ((k * e : ℕ) : ℤ) ≠ -1 := by
+          intro hcontra
+          have h2 : (k : ℤ) * ((t : ℤ) + 1) = (k : ℤ) * (e : ℤ) := by
+            push_cast at hcontra
+            linarith
+          have hk0 : (k : ℤ) ≠ 0 := by omega
+          have h3 : (t : ℤ) + 1 = (e : ℤ) := mul_left_cancel₀ hk0 h2
+          omega
+        rw [_root_.ModularCurve.MilneAvAg9bRd14CubeRowCartierSliceStart.ag9b14c_res_uniformizer_zpow_eq_zero_of_ne_neg_one
+          v R hne, smul_zero]
+      rw [Finset.sum_eq_single_of_mem (e - 1) (Finset.mem_range.mpr he_lt) hother,
+        show (k : ℤ) * (((e - 1 : ℕ) : ℤ) + 1) - 1 - ((k * e : ℕ) : ℤ) = -1 from by
+          push_cast [Nat.cast_sub he1]
+          ring,
+        _root_.zpow_neg, zpow_one, gate_canonicalLocalResidueDataK_uniformizer_inv v R,
+        ← Algebra.algebraMap_eq_smul_one]
+  · rw [if_neg hdvd, htail, add_zero]
+    refine Finset.sum_eq_zero fun t _ => ?_
+    have hne : (k : ℤ) * ((t : ℤ) + 1) - 1 - (q : ℤ) ≠ -1 := by
+      intro hcontra
+      have h2 : (k : ℤ) * ((t : ℤ) + 1) = (q : ℤ) := by linarith
+      have h3 : k * (t + 1) = q := by exact_mod_cast h2
+      exact hdvd ⟨t + 1, h3.symm⟩
+    rw [_root_.ModularCurve.MilneAvAg9bRd14CubeRowCartierSliceStart.ag9b14c_res_uniformizer_zpow_eq_zero_of_ne_neg_one
+      v R hne, smul_zero]
+
+theorem p0n22_cpf_res_logDeriv_elementary
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (R : v.CanonicalLocalResidueDataK) (a : K) {k q : ℕ} (hk : 1 ≤ k) (hq : 1 ≤ q) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+          ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k))
+        * ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+        * (v.uniformizer ^ q)⁻¹)
+      = ((k : ℕ) : K) • (if k ∣ q
+          then algebraMap K v.ResidueField (a * (-a) ^ (q / k - 1))
+          else 0) := by
+  rw [p0n22_cpf_differentialCoeff_D_one_add_algebraMap_mul_pow v a k]
+  have hsplit : algebraMap K (RatFunc K) a
+        * (((k : ℕ) : RatFunc K) * v.uniformizer ^ (k - 1))
+        * ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+        * (v.uniformizer ^ q)⁻¹
+      = ((k : ℕ) : K) • (algebraMap K (RatFunc K) a
+          * v.uniformizer ^ (k - 1)
+          * ((1 : RatFunc K)
+              + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+          * (v.uniformizer ^ q)⁻¹) := by
+    rw [Algebra.smul_def, map_natCast]
+    ring
+  rw [hsplit, map_smul, p0n22_cpf_res_geom_core v R a hk hq]
+
+theorem p0n22_cpf_res_logDeriv_highLevel_vanish
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (R : v.CanonicalLocalResidueDataK)
+    {σ : RatFunc K} (hσ : σ ∈ v.toValuationSubring)
+    {k q : ℕ} (hbig : q + 1 ≤ k) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+          ((1 : RatFunc K) + v.uniformizer ^ k * σ))
+        * ((1 : RatFunc K) + v.uniformizer ^ k * σ)⁻¹
+        * (v.uniformizer ^ q)⁻¹) = 0 := by
+  have hπ0 : (v.uniformizer : RatFunc K) ≠ 0 := v.uniformizer_ne_zero
+  have hgcase := p0n22_cpf_uniformizer_pow_mul_mem_cases v hσ
+    (show 1 ≤ k by omega)
+  have huinv := p0n22_cpf_one_add_inv_mem v hgcase
+  have hσ' : v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) σ)
+      ∈ v.toValuationSubring :=
+    ag9b13e_differentialCoeff_D_mem_of_mem_of_perfectField v hσ
+  have hkF : ((k : ℕ) : RatFunc K) ∈ v.toValuationSubring := by
+    rw [← map_natCast (algebraMap K (RatFunc K))]
+    exact v.algebraMap_mem' _
+  obtain ⟨e, rfl⟩ : ∃ e, k = q + 1 + e := ⟨k - (q + 1), by omega⟩
+  apply R.res_of_mem
+  rw [p0n22_cpf_differentialCoeff_D_one_add_pow_mul v σ (q + 1 + e)]
+  have hcc : (v.uniformizer : RatFunc K) ^ q
+      * ((v.uniformizer : RatFunc K) ^ q)⁻¹ = 1 :=
+    mul_inv_cancel₀ (pow_ne_zero _ hπ0)
+  have heq : (v.uniformizer ^ (q + 1 + e)
+        * v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) σ)
+        + σ * (((q + 1 + e : ℕ) : RatFunc K) * v.uniformizer ^ (q + 1 + e - 1)))
+        * ((1 : RatFunc K) + v.uniformizer ^ (q + 1 + e) * σ)⁻¹
+        * (v.uniformizer ^ q)⁻¹
+      = (v.uniformizer ^ (1 + e)
+          * v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) σ)
+          + σ * (((q + 1 + e : ℕ) : RatFunc K) * v.uniformizer ^ e))
+        * ((1 : RatFunc K) + v.uniformizer ^ (q + 1 + e) * σ)⁻¹ := by
+    rw [show q + 1 + e - 1 = q + e from by omega]
+    linear_combination ((v.uniformizer ^ (1 + e)
+        * v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) σ)
+        + σ * (((q + 1 + e : ℕ) : RatFunc K) * v.uniformizer ^ e))
+      * ((1 : RatFunc K) + v.uniformizer ^ (q + 1 + e) * σ)⁻¹) * hcc
+  rw [heq]
+  exact mul_mem (add_mem (mul_mem (pow_mem v.uniformizer_mem _) hσ')
+    (mul_mem hσ (mul_mem hkF (pow_mem v.uniformizer_mem _)))) huinv
+
+theorem p0n22_cpf_row_integrand_eq_pow_mul_dlog
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    {w : RatFunc K} (hw0 : w ≠ 0) (k : ℕ) :
+    v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+        (w * v.uniformizer))
+        * ((w * v.uniformizer) ^ (k + 1))⁻¹
+      = (w ^ k * v.uniformizer ^ k)⁻¹
+        * ((v.uniformizer)⁻¹
+            + v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+                * w⁻¹) := by
+  rw [_root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_differentialCoeff_D_unit_mul_uniformizer
+    v w]
+  have hπ0 : (v.uniformizer : RatFunc K) ≠ 0 := v.uniformizer_ne_zero
+  have hcw : w * w⁻¹ = 1 := mul_inv_cancel₀ hw0
+  have hcπ : (v.uniformizer : RatFunc K) * (v.uniformizer)⁻¹ = 1 :=
+    mul_inv_cancel₀ hπ0
+  linear_combination ((w ^ k)⁻¹ * (v.uniformizer ^ (k + 1))⁻¹) * hcw
+    + (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+        * (w ^ (k + 1))⁻¹ * (v.uniformizer ^ k)⁻¹) * hcπ
+
+end CharFreeToolkit
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section CharPCartier
+
+variable {p : ℕ} [hp : Fact p.Prime]
+variable {K : Type*} [Field K] [PerfectField K] [hKp : CharP K p]
+
+theorem p0n22_cpf_res_logDeriv_elementary_cartier
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (R : v.CanonicalLocalResidueDataK) (a : K) {k n : ℕ} (hk : 1 ≤ k) (hn : 1 ≤ n) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+          ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k))
+        * ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+        * (v.uniformizer ^ (p * n))⁻¹)
+      = (R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+          ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k))
+        * ((1 : RatFunc K)
+            + algebraMap K (RatFunc K) a * v.uniformizer ^ k)⁻¹
+        * (v.uniformizer ^ n)⁻¹)) ^ p := by
+  haveI : CharP v.ResidueField p :=
+    charP_of_injective_ringHom (algebraMap K v.ResidueField).injective p
+  rw [p0n22_cpf_res_logDeriv_elementary v R a hk (Nat.mul_pos hp.out.pos hn),
+    p0n22_cpf_res_logDeriv_elementary v R a hk hn]
+  by_cases hdn : k ∣ n
+  · rw [if_pos (hdn.mul_left p), if_pos hdn]
+    obtain ⟨e, rfl⟩ := hdn
+    rcases Nat.eq_zero_or_pos e with rfl | he1
+    · simp at hn
+    · rw [show p * (k * e) / k = p * e from by
+          rw [show p * (k * e) = k * (p * e) from by ring, Nat.mul_div_cancel_left _ hk],
+        Nat.mul_div_cancel_left e hk]
+      have key : ∀ m : ℕ, 1 ≤ m → a * (-a) ^ (m - 1) = -((-a) ^ m) := by
+        intro m hm
+        obtain ⟨m', rfl⟩ := Nat.exists_eq_add_of_le hm
+        rw [show 1 + m' - 1 = m' from by omega, show 1 + m' = m' + 1 from by omega,
+          pow_succ]
+        ring
+      have hneg : (-((-a) ^ e) : K) ^ p = -(((-a) ^ e) ^ p) := by
+        rw [neg_eq_neg_one_mul, mul_pow, neg_one_pow_char K p, neg_one_mul]
+      have hxp : (a * (-a) ^ (e - 1)) ^ p = a * (-a) ^ (p * e - 1) := by
+        rw [key e he1, key (p * e) (Nat.mul_pos hp.out.pos he1), hneg, ← pow_mul,
+          mul_comm e p]
+      have hfix : ((k : ℕ) : v.ResidueField) ^ p = ((k : ℕ) : v.ResidueField) := by
+        have h := map_natCast (frobenius v.ResidueField p) k
+        rwa [frobenius_def] at h
+      rw [Algebra.smul_def, Algebra.smul_def, map_natCast (algebraMap K v.ResidueField) k,
+        mul_pow, hfix, ← map_pow, hxp]
+  · by_cases hdp : k ∣ p * n
+    · have hpk : p ∣ k := by
+        by_contra hpk
+        exact hdn ((((hp.out.coprime_iff_not_dvd).mpr hpk).symm).dvd_mul_left.mp hdp)
+      have hk0 : ((k : ℕ) : K) = 0 := (CharP.cast_eq_zero_iff K p k).mpr hpk
+      rw [hk0, zero_smul, zero_smul, zero_pow hp.out.ne_zero]
+    · rw [if_neg hdp, if_neg hdn, smul_zero, zero_pow hp.out.ne_zero]
+
+theorem p0n22_cpf_res_logDeriv_principalUnit_cartier_aux
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (R : v.CanonicalLocalResidueDataK) {n : ℕ} (hn : 1 ≤ n) :
+    ∀ d k : ℕ, 1 ≤ k → p * n + 1 ≤ k + d →
+      ∀ σ : RatFunc K, σ ∈ v.toValuationSubring →
+        R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+              ((1 : RatFunc K) + v.uniformizer ^ k * σ))
+            * ((1 : RatFunc K) + v.uniformizer ^ k * σ)⁻¹
+            * (v.uniformizer ^ (p * n))⁻¹)
+          = (R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+              ((1 : RatFunc K) + v.uniformizer ^ k * σ))
+            * ((1 : RatFunc K) + v.uniformizer ^ k * σ)⁻¹
+            * (v.uniformizer ^ n)⁻¹)) ^ p := by
+  haveI : CharP v.ResidueField p :=
+    charP_of_injective_ringHom (algebraMap K v.ResidueField).injective p
+  intro d
+  induction d with
+  | zero =>
+    intro k hk hbound σ hσ
+    have hnp : n ≤ p * n := Nat.le_mul_of_pos_left n hp.out.pos
+    rw [p0n22_cpf_res_logDeriv_highLevel_vanish v R hσ (show p * n + 1 ≤ k by omega),
+      p0n22_cpf_res_logDeriv_highLevel_vanish v R hσ (show n + 1 ≤ k by omega),
+      zero_pow hp.out.ne_zero]
+  | succ d ihd =>
+    intro k hk hbound σ hσ
+    obtain ⟨a, τ, hτ, hfac⟩ := p0n22_cpf_exists_elementary_peel v hsurj hk hσ
+    have hgcase1 : algebraMap K (RatFunc K) a * v.uniformizer ^ k = 0
+        ∨ 1 ≤ v.ord (algebraMap K (RatFunc K) a * v.uniformizer ^ k) := by
+      rw [mul_comm]
+      exact p0n22_cpf_uniformizer_pow_mul_mem_cases v (v.algebraMap_mem' a) hk
+    have h1 : (1 : RatFunc K)
+        + algebraMap K (RatFunc K) a * v.uniformizer ^ k ≠ 0 :=
+      p0n22_cpf_one_add_ne_zero v hgcase1
+    have hgcase2 := p0n22_cpf_uniformizer_pow_mul_mem_cases v hτ
+      (show 1 ≤ k + 1 by omega)
+    have h2 : (1 : RatFunc K) + v.uniformizer ^ (k + 1) * τ ≠ 0 :=
+      p0n22_cpf_one_add_ne_zero v hgcase2
+    rw [hfac, p0n22_cpf_logDeriv_mul v h1 h2, add_mul, add_mul, LinearMap.map_add,
+      LinearMap.map_add, p0n22_cpf_res_logDeriv_elementary_cartier v R a hk hn,
+      ihd (k + 1) (by omega) (by omega) τ hτ, ← add_pow_char]
+
+theorem p0n22_cpf_res_zpow_mul_logDeriv_cartier
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (R : v.CanonicalLocalResidueDataK)
+    {w : RatFunc K} (hw0 : w ≠ 0) (hword : v.ord w = 0) (j : ℤ) :
+    R.res (v.uniformizer ^ ((p : ℤ) * j)
+        * (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+            * w⁻¹))
+      = (R.res (v.uniformizer ^ j
+        * (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+            * w⁻¹))) ^ p := by
+  have hπ0 : (v.uniformizer : RatFunc K) ≠ 0 := v.uniformizer_ne_zero
+  have hL := p0n22_cpf_logDeriv_mem v hw0 hword
+  rcases le_or_gt 0 j with hj | hj
+  · have hmem : ∀ i : ℤ, 0 ≤ i → v.uniformizer ^ i
+        * (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+            * w⁻¹) ∈ v.toValuationSubring := by
+      intro i hi
+      refine mul_mem ?_ hL
+      refine v.mem_of_ord_nonneg (zpow_ne_zero i hπ0) ?_
+      rw [v.ord_zpow, v.ord_uniformizer, mul_one]
+      exact hi
+    rw [R.res_of_mem _ (hmem _ (mul_nonneg (Int.natCast_nonneg p) hj)),
+      R.res_of_mem _ (hmem _ hj), zero_pow hp.out.ne_zero]
+  · obtain ⟨c, s, hc0, hs, hwfac⟩ :=
+      _root_.ModularCurve.MilneAvAg9bRd15UnitNormalFormLaurentSeed.ag9b15u_exists_unit_normal_form_of_surj
+        v hsurj hw0 hword
+    have hcF : algebraMap K (RatFunc K) c ≠ 0 := fun h =>
+      hc0 ((algebraMap K (RatFunc K)).injective
+        (h.trans (_root_.map_zero _).symm))
+    have h1s : (1 : RatFunc K) + s ≠ 0 := by
+      intro h0
+      exact hw0 (by rw [hwfac, h0, mul_zero])
+    have hLw : v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+        * w⁻¹
+        = v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+            ((1 : RatFunc K) + s)) * ((1 : RatFunc K) + s)⁻¹ := by
+      rw [hwfac, p0n22_cpf_logDeriv_mul v hcF h1s, Derivation.map_algebraMap,
+        v.differentialCoeff_zero, zero_mul, zero_add]
+    rcases hs with rfl | hsord
+    · rw [hLw, add_zero, Derivation.map_one_eq_zero, v.differentialCoeff_zero, zero_mul,
+        mul_zero, mul_zero, _root_.map_zero, zero_pow hp.out.ne_zero]
+    · have hs0 : s ≠ 0 := by
+        intro h
+        rw [h, v.ord_zero] at hsord
+        omega
+      have hσmem : v.uniformizer⁻¹ * s ∈ v.toValuationSubring := by
+        refine v.mem_of_ord_nonneg (mul_ne_zero (inv_ne_zero hπ0) hs0) ?_
+        rw [v.ord_mul (inv_ne_zero hπ0) hs0, v.ord_inv, v.ord_uniformizer]
+        omega
+      obtain ⟨n', rfl⟩ : ∃ n' : ℕ, j = -(n' : ℤ) := ⟨(-j).toNat, by omega⟩
+      have hn1 : 1 ≤ n' := by omega
+      rw [hLw, show (p : ℤ) * -(n' : ℤ) = -((p * n' : ℕ) : ℤ) from by push_cast; ring,
+        _root_.zpow_neg, zpow_natCast, _root_.zpow_neg, zpow_natCast,
+        show s = v.uniformizer ^ 1 * (v.uniformizer⁻¹ * s) from by
+          rw [pow_one, ← mul_assoc, mul_inv_cancel₀ hπ0, one_mul],
+        mul_comm ((v.uniformizer ^ (p * n') : RatFunc K)⁻¹) _,
+        mul_comm ((v.uniformizer ^ n' : RatFunc K)⁻¹) _]
+      exact p0n22_cpf_res_logDeriv_principalUnit_cartier_aux v hsurj R hn1 (p * n') 1
+        le_rfl (by omega) _ hσmem
+
+theorem p0n22_cpf_res_pow_mul_dlog_unit
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (R : v.CanonicalLocalResidueDataK)
+    {w : RatFunc K} (hw0 : w ≠ 0) (hword : v.ord w = 0) (f : RatFunc K) :
+    R.res (f ^ p * ((v.uniformizer)⁻¹
+        + v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+            * w⁻¹))
+      = (R.res (f * ((v.uniformizer)⁻¹
+        + v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+            * w⁻¹))) ^ p := by
+  haveI : CharP (RatFunc K) p :=
+    charP_of_injective_algebraMap (algebraMap K (RatFunc K)).injective p
+  haveI : CharP v.ResidueField p :=
+    charP_of_injective_ringHom (algebraMap K v.ResidueField).injective p
+  have hπ0 : (v.uniformizer : RatFunc K) ≠ 0 := v.uniformizer_ne_zero
+  have hL := p0n22_cpf_logDeriv_mem v hw0 hword
+  obtain ⟨s, c, r, hr, hf⟩ := p0n22_cpf_exists_laurent_expansion_one v hsurj f
+  have hππ : (v.uniformizer : RatFunc K) * (v.uniformizer)⁻¹ = 1 :=
+    mul_inv_cancel₀ hπ0
+  have hLHS : f ^ p * ((v.uniformizer)⁻¹
+      + v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w) * w⁻¹)
+      = (∑ j ∈ s, c j • v.uniformizer ^ j) ^ p * (v.uniformizer)⁻¹
+        + ((∑ j ∈ s, c j • v.uniformizer ^ j) ^ p
+            * (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+                * w⁻¹)
+          + (v.uniformizer ^ p * r ^ p * (v.uniformizer)⁻¹
+            + v.uniformizer ^ p * r ^ p
+                * (v.differentialCoeff
+                    (KaehlerDifferential.D K (RatFunc K) w) * w⁻¹))) := by
+    rw [hf, add_pow_char, mul_pow]
+    ring
+  have hRHS : f * ((v.uniformizer)⁻¹
+      + v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w) * w⁻¹)
+      = (∑ j ∈ s, c j • v.uniformizer ^ j) * (v.uniformizer)⁻¹
+        + ((∑ j ∈ s, c j • v.uniformizer ^ j)
+            * (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w)
+                * w⁻¹)
+          + (r + v.uniformizer * r
+              * (v.differentialCoeff
+                  (KaehlerDifferential.D K (RatFunc K) w) * w⁻¹))) := by
+    rw [hf]
+    linear_combination r * hππ
+  have hπp : (v.uniformizer : RatFunc K) ^ p
+      = v.uniformizer ^ (p - 1) * v.uniformizer := by
+    conv_lhs => rw [show p = (p - 1) + 1 from by have h2 := hp.out.two_le; omega]
+    rw [pow_succ]
+  have hm1 : v.uniformizer ^ p * r ^ p * (v.uniformizer)⁻¹ ∈ v.toValuationSubring := by
+    have heq : v.uniformizer ^ p * r ^ p * (v.uniformizer)⁻¹
+        = v.uniformizer ^ (p - 1) * r ^ p := by
+      rw [hπp]
+      linear_combination v.uniformizer ^ (p - 1) * r ^ p * hππ
+    rw [heq]
+    exact mul_mem (pow_mem v.uniformizer_mem _) (pow_mem hr _)
+  have hm2 : v.uniformizer ^ p * r ^ p
+      * (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w) * w⁻¹)
+      ∈ v.toValuationSubring :=
+    mul_mem (mul_mem (pow_mem v.uniformizer_mem _) (pow_mem hr _)) hL
+  have hm3 : v.uniformizer * r
+      * (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) w) * w⁻¹)
+      ∈ v.toValuationSubring :=
+    mul_mem (mul_mem v.uniformizer_mem hr) hL
+  have hpowp : ∀ j : ℤ, ((v.uniformizer : RatFunc K) ^ j) ^ p
+      = v.uniformizer ^ ((p : ℤ) * j) := by
+    intro j
+    rw [← zpow_natCast ((v.uniformizer : RatFunc K) ^ j) p, ← zpow_mul,
+      mul_comm j (p : ℤ)]
+  have hPp : (∑ j ∈ s, c j • (v.uniformizer : RatFunc K) ^ j) ^ p
+      = ∑ j ∈ s, (c j ^ p) • (v.uniformizer : RatFunc K) ^ ((p : ℤ) * j) := by
+    rw [sum_pow_char]
+    exact Finset.sum_congr rfl fun j _ => by rw [_root_.smul_pow, hpowp j]
+  rw [hLHS, hRHS]
+  simp only [map_add]
+  rw [R.res_of_mem _ hm1, R.res_of_mem _ hm2, R.res_of_mem _ hr, R.res_of_mem _ hm3]
+  simp only [add_zero]
+  rw [add_pow_char]
+  congr 1
+  ·
+    rw [hPp, Finset.sum_mul, Finset.sum_mul, map_sum, map_sum, sum_pow_char]
+    refine Finset.sum_congr rfl fun j _ => ?_
+    rw [smul_mul_assoc, smul_mul_assoc, map_smul, map_smul]
+    rcases eq_or_ne j 0 with rfl | hj
+    · rw [mul_zero, zpow_zero, one_mul,
+        gate_canonicalLocalResidueDataK_uniformizer_inv v R,
+        ← Algebra.algebraMap_eq_smul_one, ← Algebra.algebraMap_eq_smul_one, map_pow]
+    · have hp0 : (p : ℤ) ≠ 0 := Int.natCast_ne_zero.mpr hp.out.ne_zero
+      have h1 : R.res ((v.uniformizer : RatFunc K) ^ ((p : ℤ) * j)
+          * (v.uniformizer)⁻¹) = 0 := by
+        rw [← zpow_sub_one₀ hπ0]
+        refine _root_.ModularCurve.MilneAvAg9bRd14CubeRowCartierSliceStart.ag9b14c_res_uniformizer_zpow_eq_zero_of_ne_neg_one
+          v R ?_
+        intro hcontra
+        have hpj : (p : ℤ) * j = 0 := by linarith
+        rcases mul_eq_zero.mp hpj with h | h
+        · exact hp0 h
+        · exact hj h
+      have h2 : R.res ((v.uniformizer : RatFunc K) ^ j * (v.uniformizer)⁻¹) = 0 := by
+        rw [← zpow_sub_one₀ hπ0]
+        exact _root_.ModularCurve.MilneAvAg9bRd14CubeRowCartierSliceStart.ag9b14c_res_uniformizer_zpow_eq_zero_of_ne_neg_one
+          v R (by omega)
+      rw [h1, h2, smul_zero, smul_zero, zero_pow hp.out.ne_zero]
+  ·
+    rw [hPp, Finset.sum_mul, Finset.sum_mul, map_sum, map_sum, sum_pow_char]
+    refine Finset.sum_congr rfl fun j _ => ?_
+    rw [smul_mul_assoc, smul_mul_assoc, map_smul, map_smul,
+      p0n22_cpf_res_zpow_mul_logDeriv_cartier v hsurj R hw0 hword j,
+      Algebra.smul_def, Algebra.smul_def, mul_pow, map_pow]
+
+include hp hKp in
+
+theorem p0n22_cpf_res_row_at_unit_mul_uniformizer
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (R : v.CanonicalLocalResidueDataK)
+    {w : RatFunc K} (hw0 : w ≠ 0) (hword : v.ord w = 0) :
+    ∀ n : ℕ, 1 ≤ n →
+      R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+          (w * v.uniformizer))
+        * ((w * v.uniformizer) ^ (n + 1))⁻¹) = 0 := by
+  intro n
+  induction n using Nat.strong_induction_on with
+  | _ n ih =>
+    intro hn
+    by_cases hpn : p ∣ n
+    · obtain ⟨m, rfl⟩ := hpn
+      have hm1 : 1 ≤ m := by
+        rcases Nat.eq_zero_or_pos m with rfl | h
+        · simp at hn
+        · exact h
+      have hmlt : m < p * m := by
+        have h2m : 2 * m ≤ p * m := Nat.mul_le_mul_right m hp.out.two_le
+        omega
+      have hstep : R.res (v.differentialCoeff (KaehlerDifferential.D K
+            (RatFunc K) (w * v.uniformizer))
+            * ((w * v.uniformizer) ^ (p * m + 1))⁻¹)
+          = (R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K)
+              (w * v.uniformizer))
+            * ((w * v.uniformizer) ^ (m + 1))⁻¹)) ^ p := by
+        rw [p0n22_cpf_row_integrand_eq_pow_mul_dlog v hw0 (p * m),
+          p0n22_cpf_row_integrand_eq_pow_mul_dlog v hw0 m]
+        have hfp : ((w ^ m * v.uniformizer ^ m : RatFunc K)⁻¹) ^ p
+            = (w ^ (p * m) * v.uniformizer ^ (p * m))⁻¹ := by
+          rw [inv_pow, mul_pow, ← pow_mul, ← pow_mul, mul_comm m p]
+        rw [← hfp]
+        exact p0n22_cpf_res_pow_mul_dlog_unit v hsurj R hw0 hword
+          ((w ^ m * v.uniformizer ^ m)⁻¹)
+      rw [hstep, ih m hmlt hm1, zero_pow hp.out.ne_zero]
+    · have hnK : ((n : ℕ) : K) ≠ 0 := fun h =>
+        hpn ((CharP.cast_eq_zero_iff K p n).mp h)
+      exact _root_.ModularCurve.MilneAvAg9bRd13T2CoordIndepChar3.ag9b13t_res_differentialCoeff_D_mul_pow_inv_of_surj_of_natCast_ne_zero
+        v hsurj
+        (fun h hh => ag9b13e_differentialCoeff_D_mem_of_mem_of_perfectField v hh)
+        R (w * v.uniformizer) hn hnK
+
+include hp hKp in
+
+theorem p0n22_cpf_res_differentialCoeff_D_mul_pow_inv_of_surj
+    (v : Place K (RatFunc K)) [v.DCoordGenerates]
+    [Nontrivial Ω[(RatFunc K)⁄K]]
+    (hsurj : Function.Surjective (algebraMap K v.ResidueField))
+    (π' : RatFunc K) (hπ' : v.ord π' = 1)
+    (R : v.CanonicalLocalResidueDataK) {n : ℕ} (hn : 1 ≤ n) :
+    R.res (v.differentialCoeff (KaehlerDifferential.D K (RatFunc K) π')
+      * ((π') ^ (n + 1))⁻¹) = 0 := by
+  have hπ'0 : π' ≠ 0 := by
+    intro h0
+    rw [h0, v.ord_zero] at hπ'
+    omega
+  have hw0 : π' * (v.uniformizer)⁻¹ ≠ 0 :=
+    mul_ne_zero hπ'0 (inv_ne_zero v.uniformizer_ne_zero)
+  have hword : v.ord (π' * (v.uniformizer)⁻¹) = 0 := by
+    have h1 := v.ord_mul hπ'0 (inv_ne_zero v.uniformizer_ne_zero)
+    rw [v.ord_inv, hπ', v.ord_uniformizer] at h1
+    omega
+  have hrec : π' * (v.uniformizer)⁻¹ * v.uniformizer = π' := by
+    rw [mul_assoc, inv_mul_cancel₀ v.uniformizer_ne_zero, mul_one]
+  have h := p0n22_cpf_res_row_at_unit_mul_uniformizer v hsurj R hw0 hword n hn
+  rw [← hrec]
+  exact h
+
+end CharPCartier
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Headlines
+
+theorem p0n22_cpf_canonicalLocalResidueKDifferentialCoordIndep_ratFunc_of_isAlgClosed
+    (K : Type*) [Field K] [IsAlgClosed K] (p : ℕ) [Fact p.Prime] [CharP K p] :
+    CanonicalLocalResidueKDifferentialCoordIndep K (RatFunc K) :=
+  fun v π' hπ' R n hn =>
+    p0n22_cpf_res_differentialCoeff_D_mul_pow_inv_of_surj (p := p) v
+      (p0n21_rtk_surjective_algebraMap_residueField_ratFunc_of_isAlgClosed K v)
+      π' hπ' R hn
+
+theorem p0n22_cpf_residueTheoremK_ratFunc_of_isAlgClosed_of_charP
+    (K : Type*) [Field K] [IsAlgClosed K] (p : ℕ) [Fact p.Prime] [CharP K p]
+    [DecidableEq (RatFunc K)] :
+    ResidueTheoremK K (RatFunc K) :=
+  p0n21_rtk_residueTheoremK_ratFunc_of_isAlgClosed_of_coordIndep K
+    (p0n22_cpf_canonicalLocalResidueKDifferentialCoordIndep_ratFunc_of_isAlgClosed K p)
+
+theorem p0n22_cpf_residueTheoremK_ratFunc_of_isAlgClosed_main
+    (K : Type*) [Field K] [IsAlgClosed K] [DecidableEq (RatFunc K)] :
+    ResidueTheoremK K (RatFunc K) := by
+  rcases CharP.char_is_prime_or_zero K (ringChar K) with hprime | hzero
+  · haveI : Fact (ringChar K).Prime := ⟨hprime⟩
+    exact p0n22_cpf_residueTheoremK_ratFunc_of_isAlgClosed_of_charP K (ringChar K)
+  · haveI : CharP K 0 := hzero ▸ ringChar.charP K
+    haveI : CharZero K := CharP.charP_to_charZero K
+    exact residueTheoremK_ratFunc_of_isAlgClosed_main K
+
+end Headlines
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+section Bc2Carrier
+
+local notation "Qbar" => AlgebraicClosure ℚ
+
+end Bc2Carrier
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end AlgebraicCurve
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+end
+p2m_reactivate "P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.RationalFunctionField P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.AlgebraicCurve.Place P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed.ModularCurve"
+
+theorem solution
+    (K : Type*) [Field K] [IsAlgClosed K] [DecidableEq (RatFunc K)]
+    [AlgebraicCurve.HasCanonicalLocalResidueKStar K (RatFunc K)]
+    [AlgebraicCurve.HasCanonicalDivisor (K := K) (F := RatFunc K)]
+    [∀ v : AlgebraicCurve.Place K (RatFunc K), v.DCoordGenerates] :
+    AlgebraicCurve.ResidueTheoremK K (RatFunc K) :=
+  AlgebraicCurve.p0n22_cpf_residueTheoremK_ratFunc_of_isAlgClosed_main K
+
+end
+end S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed
+end P2MW
+export P2MW.S_AlgebraicCurve_residueTheoremK_ratFunc_of_isAlgClosed (solution)

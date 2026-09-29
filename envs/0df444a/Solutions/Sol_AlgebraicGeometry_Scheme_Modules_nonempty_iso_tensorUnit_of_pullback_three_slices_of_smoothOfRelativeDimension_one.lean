@@ -1,0 +1,353 @@
+-- Prove2me | solution 1 for AlgebraicGeometry.Scheme.Modules.nonempty_iso_tensorUnit_of_pullback_three_slices_of_smoothOfRelativeDimension_one
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:04.122355+00:00
+-- url     : https://prove2.me/submissions/d87c6980-3d5d-5da5-8a16-12726e64728a
+
+import Mathlib
+import Definitions.Def_SheafOfModules_Monoidal
+import Definitions.Def_AlgebraicGeometry_RelativePicardFunctor
+import Definitions.Def_AlgebraicGeometry_NeronModelPropertyBundleCarrier
+import Definitions.Def_JacJ1Iface
+import Definitions.Def_AlgebraicGeometry_RepresentsRelSubPic
+import Definitions.Def_AlgebraicGeometry_RelPicardAlgEquivZeroCut
+import Theorems.Thm_AlgebraicGeometry_RelPicard_exists_representsRelSubPic_algEquivZeroCut_of_isAlgClosed
+import Theorems.Thm_AlgebraicGeometry_exists_eq_pullback_snd_comp_of_isProper
+import Theorems.Thm_AlgebraicGeometry_geometricallyIntegral_of_isAlgClosed
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_AlgebraicGeometry_Scheme_Modules_nonempty_iso_tensorUnit_of_pullback_three_slices_of_smoothOfRelativeDimension_one
+p2m_attr_erase "instance" "AlgebraicGeometry.SmoothOfRelativeDimension.fiberToSpecResidueField AlgebraicGeometry.SmoothOfRelativeDimension.pullback_snd AlgebraicGeometry.SmoothOfRelativeDimension.pullback_fst AlgebraicGeometry.SmoothOfRelativeDimension.smooth_one AlgebraicGeometry.SmoothProperCurve.isIntegral_pullback_Spec_field AlgebraicGeometry.IsProper.fiberToSpecResidueField AlgebraicCurve.CurveModel.isProper AlgebraicCurve.CurveModel.isIntegral AlgebraicCurve.CurveModel.smooth AlgebraicCurve.Place.instIsScalarTowerSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Divisor.instDistribMulActionAlgEquiv AlgebraicCurve.Place.instSMulAlgEquiv AlgebraicCurve.Place.instIsPrincipalIdealRingSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Place.instIsDiscreteValuationRingSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Pic0.instDistribMulActionAlgEquiv AlgebraicCurve.Place.instAlgebraSubtypeMemValuationSubringToValuationSubring AlgebraicCurve.Place.instMulActionAlgEquiv AlgebraicCurve.Pic0.instSMulAlgEquiv TwoChartCech.Sections.M0_moduleA TwoChartCech.Sections.M1_module TwoChartCech.Cover.A01_algebra TwoChartCech.Cover.A0_algebra TwoChartCech.Cover.A1_commRing TwoChartCech.Cover.A1_algebra TwoChartCech.Sections.M01_module TwoChartCech.Sections.M0_addCommGroup TwoChartCech.Sections.M0_tower TwoChartCech.Sections.M01_addCommGroup TwoChartCech.Cover.A0_commRing TwoChartCech.Sections.M1_tower TwoChartCech.Sections.M01_moduleA TwoChartCech.Sections.M0_module TwoChartCech.Sections.M1_moduleA TwoChartCech.Sections.M1_addCommGroup TwoChartCech.Cover.A01_commRing TwoChartCech.Sections.M01_tower CoherentBaseChange.TwoTermComplex.C0_module CoherentBaseChange.TwoTermComplex.C0_addCommGroup CoherentBaseChange.TwoTermComplex.C1_module CoherentBaseChange.TwoTermComplex.C1_addCommGroup"
+p2m_attr_erase "instance" "CoherentBaseChange.TwoTermComplex.C0_free CoherentBaseChange.TwoTermComplex.C1_finite CoherentBaseChange.TwoTermComplex.C0_finite CoherentBaseChange.TwoTermComplex.C1_free AlgebraicCurve.IsCurveOver.instNontrivialKaehler AlgebraicCurve.IsCurveOver.instFreeKaehler AlgebraicCurve.IsCurveOver.toHasPrincipalDivisors AlgebraicCurve.IsCurveOver.instFiniteResidue AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsLocallyInjectiveFunUliftYonedaGluedToSheaf AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsLocallySurjectiveFunUliftYonedaGluedToSheafOfIsLocallySurjectiveZariskiTopologyDescFunctorOppositeType AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsOpenImmersionToGlued AlgebraicGeometry.Scheme.LocalRepresentabilityULift.instIsIsoSheafZariskiTopologyTypeUliftYonedaGluedToSheaf AlgebraicGeometry.RelPicard.instIsOpenImmersionToGlued AlgebraicGeometry.Scheme.Modules.preservesBinaryProducts_opensMap AlgebraicGeometry.Scheme.Modules.pullback_monoidal AlgebraicGeometry.Scheme.Modules.sheafify_isLocalization' AlgebraicGeometry.Scheme.Modules.preservesTerminal_opensMap AlgebraicGeometry.Scheme.Modules.pullback₀_monoidal AlgebraicGeometry.Scheme.Modules.preservesFiniteProducts_opensMap AlgebraicGeometry.Scheme.Modules.instLiftingPresheafOfModulesSheafifyPresheafWOpensCarrierCarrierCommRingCatGrothendieckTopologyObjFunctorOppositeIsSheafSheafCompPullback₀Pullback PresheafOfModules.PullbackMonoidal.pullback_monoidal PresheafOfModules.PullbackMonoidal.isIso_δ PresheafOfModules.pushforward_laxMonoidal PresheafOfModules.PullbackMonoidal.isIso_η PresheafOfModules.free_monoidal PresheafOfModules.restrictScalars_laxMonoidal PresheafOfModules.PullbackMonoidal.isIso_δ_gS PresheafOfModules.pullback_oplaxMonoidal PresheafOfModules.PullbackMonoidal.instPreservesColimitsOfSizeCompOppositeCommRingCatRingCatForget₂RingHomCarrierCarrierPb PresheafOfModules.pullback_monoidal' AlgebraicCurve.Place.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.Place.instIsTrivialOnWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.instFundamentalIdentityOfSumRamificationInertia AlgebraicCurve.Place.instIsScalarTowerResidueFieldRestrictPushforward AlgebraicCurve.Place.instAlgebraResidueFieldRestrictPushforward AlgebraicCurve.Place.instIsLocalHomRestrictInclusion AlgebraicCurve.Place.instIsPrimeCenter AlgebraicCurve.Place.instIsFractionRingIntegralClosureAt AlgebraicCurve.Place.instIsTorsionFreeSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.Place.instIsDedekindDomainIntegralClosureAt"
+p2m_attr_erase "instance" "AlgebraicCurve.Place.instFiniteSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.SemilinearAut.instDistribMulActionSubtypeProdRingAutMemSubgroupPic0 AlgebraicCurve.SemilinearAut.instDistribMulActionSubtypeProdRingAutMemSubgroupDivisor AlgebraicCurve.Pic0.instModuleZModTorsion AlgebraicCurve.SemilinearAut.instSMulSubtypeProdRingAutMemSubgroupPlace AlgebraicCurve.SemilinearAut.instDistribMulActionTorsion AlgebraicCurve.SemilinearAut.instSMulSubtypeProdRingAutMemSubgroupPic0 AlgebraicCurve.SemilinearAut.instSMulTorsion AlgebraicCurve.SemilinearAut.instMulActionSubtypeProdRingAutMemSubgroupPlace AlgebraicCurve.SemilinearAut.instSMulCommClassZModTorsion AlgebraicCurve.SemilinearAut.instMulSemiringActionSubtypeProdRingAutMemSubgroup instDecEqAlgebraicClosureRat WeierstrassCurve.Affine.Point.instDistribMulActionAlgEquiv WeierstrassCurve.Affine.Point.instModuleZModTorsionBy WeierstrassCurve.Affine.Point.instSMulTorsionBy WeierstrassCurve.Affine.Point.instDistribMulActionTorsionBy WeierstrassCurve.Affine.Point.instSMulAlgEquiv WeierstrassCurve.Affine.Point.instSMulCommClassAlgEquivZModTorsionBy AlgebraicCurve.RationalFunctionField.instNontrivialSubtypeUnitsWithZeroMultiplicativeIntMemSubgroupValueGroupRatFuncValuationInftyValuation_definitions PresheafOfModules.ExteriorPower.instModulePresheafAb AlgebraicGeometry.RelEffCartierDiv.subsingleton_of_degree_zero AlgebraicGeometry.RelEffCartierDiv.isIso_subschemeIota_snd_of_degree_one AlgebraicGeometry.isIso_ker_graphOver_subschemeIota_snd AlgebraicGeometry.isClosedImmersion_graphOver AlgebraicGeometry.FGSubalgebra.instIsDirectedLe AlgebraicGeometry.FGSubalgebra.instQuasiSeparatedSpaceCarrierCarrierCommRingCatObjOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instIsCofilteredOpposite AlgebraicGeometry.FGSubalgebra.instIsAffineObjOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instNonempty AlgebraicGeometry.FGSubalgebra.instNonemptySubtypeLeSubalgebraValFG AlgebraicGeometry.FGSubalgebra.instCompactSpaceCarrierCarrierCommRingCatObjOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instIsDirectedSubtypeLeSubalgebraValFG AlgebraicGeometry.FGSubalgebra.instIsAffineHomMapOppositeSchemeSpecDiagram AlgebraicGeometry.FGSubalgebra.instIsFiltered AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instNeg AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSMulInt AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instAddCommGroup AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instAdd AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSub AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instModuleCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensTop"
+p2m_attr_erase "instance" "AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSMulCarrierObjOppositeOpensCarrierCarrierCommRingCatPresheafOpOpensTop AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instSMulNat AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.instZero AlgebraicCurve.instHasLocalResidue_of_hasCanonicalLocalResidueK AlgebraicCurve.instHasCanonicalLocalResidueK_of_hasCanonicalLocalResidueKStar AlgebraicCurve.Place.kw_ffgc_finiteDimensional_adicCompletion instAlgebraSubtypeMemValuationSubring_definitions AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersIntegersCompletion ModularCurve.KwF4gRRTate.instAlgebraKAdicCompletionIntegers AlgebraicCurve.Place.kw_ffgc_continuousSMul_adicCompletionComap AlgebraicCurve.Place.kw_ffgc_isScalarTower_integersCompletionCompletion IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instDimensionLEOneSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.instLiesOverSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersCompletionIdealAsIdeal IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsPrincipalIdealRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemSubringIntegerWithZeroMultiplicativeInt_definitions IsDedekindDomain.HeightOneSpectrum.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicCompletionV_definitions AlgebraicCurve.instHasCanonicalLocalResidueK AlgebraicCurve.Place.instAlgebra_restrictResidueField AlgebraicCurve.Place.instIsScalarTower_restrictResidueField AlgebraicCurve.instHasLocalResidue AlgebraicCurve.HasSeparableResidue.of_perfectField_of_isCurveOver AlgebraicCurve.HasSeparableResidue.of_perfectField AlgebraicCurve.Place.instIsLocalHom_restrictSubringHom AlgebraicCurve.instHasCanonicalLocalResidueKStar ModularCurve.KwNo6Pin.isLocalRing_completion SheafOfModules.isIso_ihomModelToIhom AlgebraicGeometry.OModulePresheaf.isScalarTower AlgebraicGeometry.Scheme.OrderedAffineCover.instLinearOrder AlgebraicGeometry.OModulePresheaf.module AlgebraicGeometry.Scheme.OrderedAffineCover.instFintype AlgebraicGeometry.Scheme.OrderedAffineCover.instFintypeIdx AlgebraicGeometry.OModulePresheaf.addCommGroup AlgebraicGeometry.Scheme.OrderedAffineCover.instDecidableEqIdx AlgebraicGeometry.OModulePresheaf.moduleSections AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instDecidableEqIdx AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintype AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instLinearOrder AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintypeIdx AlgebraicGeometry.OModulePresheaf.instSubsingletonObjZero"
+p2m_attr_erase "instance" "AlgebraicGeometry.OModulePresheaf.Leray.relAltC_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_modΓ AlgebraicGeometry.OModulePresheaf.Leray.relAltC_modΓ AlgebraicGeometry.OModulePresheaf.Leray.biC_abGrp AlgebraicGeometry.OModulePresheaf.Leray.relAltH_modΓ AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_smul AlgebraicGeometry.OModulePresheaf.Leray.relAltH_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.relAltH_smul AlgebraicGeometry.OModulePresheaf.Leray.biC_module DoubleComplex.instModuleE₂I DoubleComplex.Bounded.modR DoubleComplex.instModuleE₂II DoubleComplex.instAddCommGroupE₂II DoubleComplex.Bounded.abGrp DoubleComplex.instAddCommGroupE₂I AlgebraicGeometry.ChowDatum.hι_closed AlgebraicGeometry.ChowDatumProj.hιN_closed AlgebraicGeometry.ChowDatumProj.hp_proper AlgebraicGeometry.ChowDatum.hp_isoU AlgebraicGeometry.ChowDatum.hp_proper AlgebraicGeometry.ProjSpace.algebraAway AlgebraicGeometry.ProjSpace.instIsProperProdOverπ AlgebraicGeometry.ChowDatumProj.hp_isoU AlgebraicGeometry.ProjSpace.isProper_π AlgebraicGeometry.ProjSpace.finiteType_mvPolynomial ProjSpaceCech.GradedModule.H.module ProjSpaceCech.GradedModule.H.addCommGroup ProjSpaceCech.GradedModule.sec.instAdd ProjSpaceCech.GradedModule.sec.instNeg ProjSpaceCech.GradedModule.acg ProjSpaceCech.GradedModule.Frac.setoid ProjSpaceCech.GradedModule.modR ProjSpaceCech.GradedModule.sec.instModule ProjSpaceCech.GradedModule.sec.instAddCommGroup ProjSpaceCech.GradedModule.sec.instZero ProjSpaceCech.GradedModule.Presentation.fJ ProjSpaceCech.GradedModule.sec.instSMul ProjSpaceCech.Twist.H.module ProjSpaceCech.Idx.instFintype ProjSpaceCech.Twist.H.addCommGroup"
+p2m_attr_erase "instance" "ProjSpaceCech.Idx.instDecidableEq ProjSpaceCech.Twist.Mon.instDecidableEq ProjSpaceCech.Twist.cochain.instAddCommGroup ProjSpaceCech.Twist.cochain.instModule AlgebraicGeometry.FGSubalgebra.tensorStage_directedSystem AlgebraicGeometry.RelEffCartierDiv.isClosedImmersion_subschemeι_resProdMap AlgebraicGeometry.RelEffCartierDiv.isOpenImmersion_resProdMap"
+p2m_attr_erase "simp" "AlgebraicGeometry.SmoothProperCurve.sectionBaseChange_coe_snd AlgebraicGeometry.SmoothProperCurve.sectionBaseChange_coe_fst AlgebraicCurve.CurveModel.mk.injEq AlgebraicCurve.CurveModel.mk.sizeOf_spec AlgebraicCurve.Place.mk.injEq AlgebraicCurve.Divisor.degree_single AlgebraicCurve.Divisor.smul_single AlgebraicCurve.Place.smul_toValuationSubring AlgebraicCurve.Place.heightOneSpectrum_asIdeal AlgebraicCurve.Place.coe_algebraMap AlgebraicCurve.Place.ord_one AlgebraicCurve.Place.coe_smulRingEquiv_apply AlgebraicCurve.Pic0.coe_degZeroSMulHom AlgebraicCurve.Place.deg_smul AlgebraicCurve.Pic0.mk_zero AlgebraicCurve.Place.mk.sizeOf_spec AlgebraicCurve.Divisor.degree_smul AlgebraicCurve.Pic0.mk_add AlgebraicCurve.Place.ord_zero AlgebraicCurve.Place.ofHeightOneSpectrum_toValuationSubring AlgebraicCurve.mulAdele_apply AlgebraicCurve.residuePairing_apply_coe AlgebraicCurve.mem_adeleBdd AlgebraicCurve.weilSmul_one AlgebraicCurve.diagonalHom_apply AlgebraicCurve.weilSmul_apply AlgebraicCurve.adeleSpaceMul_coe AlgebraicCurve.mulAdele_one AlgebraicGeometry.SmoothProperCurve.FiniteMapData.twoAffineOpenCover_U1 AlgebraicGeometry.SmoothProperCurve.FiniteMapData.mk.injEq AlgebraicGeometry.SmoothProperCurve.FiniteMapData.mk.sizeOf_spec AlgebraicGeometry.SmoothProperCurve.FiniteMapData.twoAffineOpenCover_U0 AlgebraicGeometry.Scheme.TwoAffineOpenCover.mk.injEq AlgebraicGeometry.Scheme.TwoAffineOpenCover.mk.sizeOf_spec AlgebraicGeometry.Scheme.TwoAffineOpenCover.pullback_U1 AlgebraicGeometry.Scheme.TwoAffineOpenCover.pullback_U0 TwoChartCech.Sections.mk.injEq TwoChartCech.Cover.mk.injEq TwoChartCech.GrothendieckComplex.mk.injEq TwoChartCech.Sections.mk.sizeOf_spec"
+p2m_attr_erase "simp" "TwoChartCech.Cover.mk.sizeOf_spec TwoChartCech.Cover.lineBundle_r0_apply TwoChartCech.GrothendieckComplex.mk.sizeOf_spec TwoChartCech.Cover.lineBundle_r1_apply CoherentBaseChange.TwoTermComplex.mk.sizeOf_spec CoherentBaseChange.TwoTermComplex.mk.injEq AlgebraicGeometry.RelPicard.SubPicCondition.onClasses_mk AlgebraicGeometry.RelPicard.relSubPicPresheaf_map_coe CategoryTheory.Functor.OverTotal.ofFibre_fst CategoryTheory.Functor.overTotal_map_fst AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_J AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYoneda_toGlued_uliftYonedaGluedToSheaf AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_t' AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYoneda_toGlued_uliftYonedaGluedToSheaf_assoc AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYonedaGluedToSheaf_app_toGlued AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_openCover_map AlgebraicGeometry.Scheme.LocalRepresentabilityULift.uliftYonedaGluedToSheaf_app_comp AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_V AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_t AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_U AlgebraicGeometry.Scheme.LocalRepresentabilityULift.glueData_f AlgebraicGeometry.RelPicard.designationOfRepresentableBy_P AlgebraicGeometry.RelPicard.designationOfRepresentableBy_toBase AlgebraicGeometry.RelPicard.rigSection_snd AlgebraicGeometry.RelPicard.RigidifiedLineBundle.ofInvertible_L AlgebraicGeometry.RelPicard.rigSection_snd_assoc AlgebraicGeometry.RelPicard.SubPicGroupCondition.mk.injEq AlgebraicGeometry.RelPicard.SubPicGroupCondition.mk.sizeOf_spec GoodReductionJacobian.relativeGroupLawOfGrpObj_inv GoodReductionJacobian.relativeGroupLawOfGrpObj_mul GoodReductionJacobian.overHomEquivSchemeHomOver_apply_coe GoodReductionJacobian.relativeGroupLawOfGrpObj_one GoodReductionJacobian.overHomEquivSchemeHomOver_symm_apply_left PresheafOfModules.freeεIso_hom_app PresheafOfModules.freeμIso_hom_app AlgebraicCurve.coe_cechH0Equiv_apply AlgebraicCurve.cechH1ToH1_mk AlgebraicCurve.lSpaceOn_univ AlgebraicCurve.lSpaceOn_empty AlgebraicCurve.Place.congrEquiv_symm_apply"
+p2m_attr_erase "simp" "AlgebraicCurve.RationalFunctionField.heightOneSpectrumOfIrreducible_asIdeal AlgebraicCurve.Place.congrRingEquiv_toValuationSubring AlgebraicCurve.Place.congrEquiv_apply AlgebraicCurve.Place.coe_comapSymmRingEquiv_apply AlgebraicCurve.RationalFunctionField.deg_placeOfPoint AlgebraicCurve.Divisor.mapRestrict_single AlgebraicCurve.Divisor.pushforward_single AlgebraicCurve.Place.coe_restrictInclusion AlgebraicCurve.Place.mem_fiber AlgebraicCurve.Place.restrict_toValuationSubring AlgebraicCurve.Divisor.degree_pushforward AlgebraicCurve.Place.restrictResidueMap_residue AlgebraicCurve.Pic0.coe_pushforwardDegZeroHom AlgebraicCurve.Pic0.coe_pullbackDegZeroHom AlgebraicCurve.Place.placeOfPrime_toValuationSubring AlgebraicCurve.Place.mem_fiberOver AlgebraicCurve.Place.fiberEquiv_symm_apply AlgebraicCurve.Place.fiberEquiv_apply AlgebraicCurve.Place.centerHeightOneSpectrum_asIdeal AlgebraicCurve.IsFrobeniusEndo.frobNormRingHom_apply ModularCurve.frobeniusPushforwardGeomLevelPic0_mk ModularCurve.coe_frobeniusGeomLevelEquiv_apply ModularCurve.coe_frobeniusPushforwardGeomLevelDegZero ModularCurve.heckeFibreGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusGeomLevel_apply_coe ModularCurve.frobeniusPullbackGeomLevelPic0OfIsCurveOver_mk ModularCurve.coe_heckeFibreGeomLevelDegZero ModularCurve.coe_frobeniusPullbackGeomLevelDegZero ModularCurve.frobeniusPullbackGeomLevelPic0_mk ModularCurve.frobeniusPullbackGeomLevel_single ModularCurve.heckeFibreGeomLevelPic0_mk ModularCurve.frobeniusPushforwardGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusPushforwardGeomLevel_single ModularCurve.qExpandAlgC_apply AlgebraicCurve.Divisor.degree_pushforwardAlong AlgebraicCurve.Pic0.coe_degZeroCorrespondence AlgebraicCurve.Place.mem_fiberAlong AlgebraicCurve.SemilinearAut.toRingAut_inv AlgebraicCurve.SemilinearAut.smul_def AlgebraicCurve.SemilinearAut.smul_single"
+p2m_attr_erase "simp" "AlgebraicCurve.SemilinearAut.smul_toValuationSubring AlgebraicCurve.SemilinearAut.baseAut_inv AlgebraicCurve.SemilinearAut.baseAut_ofAlgAut AlgebraicCurve.SemilinearAut.toRingAut_ofAlgAut AlgebraicCurve.SemilinearAut.torsionRep_apply AlgebraicCurve.SemilinearAut.toRingAut_one AlgebraicCurve.SemilinearAut.deg_smul AlgebraicCurve.SemilinearAut.degree_smul AlgebraicCurve.SemilinearAut.coe_degZeroSMulHom AlgebraicCurve.SemilinearAut.baseAut_mul AlgebraicCurve.SemilinearAut.coe_smulValuationSubringEquiv_apply AlgebraicCurve.SemilinearAut.baseAut_one AlgebraicCurve.SemilinearAut.ofAlgAut_smul AlgebraicCurve.SemilinearAut.coe_torsion_smul AlgebraicCurve.SemilinearAut.toRingAut_mul AlgebraicCurve.coe_frobeniusPushforwardDegZero AlgebraicCurve.IsFrobeniusEndo.coe_frobeniusPullbackDegZero ModularCurve.jqNModC_one ModularCurve.qExpand_coeff_mul ModularCurve.qExpandₐ_apply ModularCurve.jqN_one ModularCurve.qExpand_single ModularCurve.dedekindPsi_one ModularCurve.ModularPolynomialData.mk.sizeOf_spec ModularCurve.evalAtJ_X ModularCurve.ModularPolynomialData.mk.injEq ModularCurve.constantCoeff_jNum ModularCurve.constantCoeff_eisenstein4 ModularCurve.qExpand_C ModularCurve.coeff_jq_neg_one ModularCurve.constantCoeff_jNumQ ModularCurve.reduceModBivar_C_X ModularCurve.laurentMap_coeff ModularCurve.reduceModBivar_X ModularCurve.laurentMap_single ModularCurve.evalAtJInt_X ModularCurve.evalAtJMod_X ModularCurve.jqNMod_one ModularCurve.aeval_heckeGen ModularCurve.coe_mTorsionGaloisRep_apply"
+p2m_attr_erase "simp" "ModularCurve.eisensteinSystem_of_dvd ModularCurve.eisensteinSystem_of_not_dvd FreyPackage.mk.sizeOf_spec FreyPackage.mk.injEq WeierstrassCurve.Affine.Point.galoisRepModuleEnd_apply AlgebraicCurve.RationalFunctionField.placeInfty_toValuationSubring AlgebraicCurve.RationalFunctionField.placeEquivOption_placeInfty AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_some AlgebraicCurve.RationalFunctionField.placeEquivOption_placeOfPoint AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_none AlgebraicCurve.Divisor.evalFun_zero AlgebraicCurve.Place.evalAt_one AlgebraicCurve.Place.differentialCoeff_zero AlgebraicCurve.Place.differentialCoeff_dCoord AlgebraicCurve.TranscendenceTower.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.injEq AlgebraicCurve.TranscendenceTower.mk.injEq AlgebraicCurve.PoleDivisorPackage.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.sizeOf_spec AlgebraicCurve.PoleDivisorPackage.mk.injEq AlgebraicGeometry.RelPicard.thetaBundle_def AlgebraicGeometry.RelPicard.picardBundle_def AlgebraicGeometry.RelEffCartierDiv.toRelEffDivisor_ofRelEffDivisor AlgebraicGeometry.RelEffCartierDiv.toRelEffDivisor_I AlgebraicGeometry.mapOnProdOver_fst_assoc AlgebraicGeometry.RelEffCartierDiv.mk.sizeOf_spec AlgebraicGeometry.RelEffCartierDiv.mk.injEq AlgebraicGeometry.mapOnProdOver_snd AlgebraicGeometry.mapOnProdOver_fst AlgebraicGeometry.mapOnProdOver_snd_assoc AlgebraicGeometry.mapOnProdOver_id AlgebraicCurve.RelEffDivisor.mk.sizeOf_spec AlgebraicCurve.mapOnProd_fst AlgebraicCurve.mapOnProd_fst_assoc AlgebraicCurve.mapOnProd_snd AlgebraicCurve.UnivDivisorPack.mk.injEq AlgebraicCurve.RelEffDivisor.mk.injEq AlgebraicCurve.UnivDivisorPack.mk.sizeOf_spec AlgebraicCurve.mapOnProd_snd_assoc AlgebraicGeometry.Scheme.Modules.exteriorPower_obj"
+p2m_attr_erase "simp" "PresheafOfModules.exteriorPower_map_ιMulti PresheafOfModules.ExteriorPower.appₗ_apply AlgebraicGeometry.prodKerGraph_one AlgebraicGeometry.fibrePowOver.proj_comp AlgebraicGeometry.prodKerGraph_zero AlgebraicGeometry.RelEffCartierDiv.empty_I AlgebraicGeometry.fibrePowOver.proj_comp_assoc AlgebraicGeometry.graphOver_fst_assoc AlgebraicGeometry.RelEffCartierDiv.toPoint_comp AlgebraicGeometry.RelEffCartierDiv.toPoint_comp_assoc AlgebraicGeometry.graphOver_fst AlgebraicGeometry.RelEffCartierDiv.ofPoint_I AlgebraicGeometry.graphOver_snd AlgebraicGeometry.graphOver_snd_assoc AlgebraicCurve.SymmetricPowerPackage.mk.sizeOf_spec AlgebraicCurve.SymmetricPowerPackage.mk.injEq AlgebraicGeometry.FGSubalgebra.cocone_ι_app_apply AlgebraicGeometry.RelPicard.fst_toProdSpec AlgebraicGeometry.RelPicard.toProdSpec_fst_assoc AlgebraicGeometry.RelPicard.pointsSubBasepointModule_cons AlgebraicGeometry.RelPicard.pointsSubBasepointModule_nil AlgebraicGeometry.RelPicard.fst_toProdSpec_assoc AlgebraicGeometry.RelPicard.toProdSpec_fst AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.sub_app AlgebraicGeometry.Scheme.IdealSheafData.sres_sresTop AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.add_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.mk.sizeOf_spec AlgebraicGeometry.Scheme.IdealSheafData.coe_resLE AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.smul_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.coe_ofLE_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.ideal_range AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.zero_app AlgebraicGeometry.Scheme.IdealSheafData.sres_sres AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.comp_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.neg_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.id_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.coe_mulRight_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.nsmul_app AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.mk.injEq AlgebraicGeometry.Scheme.IdealSheafData.IdealHom.zsmul_app"
+p2m_attr_erase "simp" "AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.sizeOf_spec AlgebraicCurve.Place.CanonicalLocalResidueDataK.mk.injEq AlgebraicCurve.adeleSingle_coe AlgebraicCurve.kaehlerResidueTermKFam_apply AlgebraicCurve.Place.LocalResidueData.mk.injEq AlgebraicCurve.Place.LocalResidueData.mk.sizeOf_spec AlgebraicCurve.Place.kw_ffgc_adicCompletionComapIntegers_coe AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.sizeOf_spec AlgebraicCurve.Place.mem_simplePoleSubmodule AlgebraicCurve.Place.coe_uniformizerSubring ModularCurve.Lg37.Lg37CompletionSection.mk.injEq AlgebraicCurve.Place.CoefficientFieldSection.mk.injEq AlgebraicCurve.Place.CanonicalLocalResidueDataS.mk.injEq ModularCurve.Lg37.Lg37CompletionSection.mk.sizeOf_spec AlgebraicCurve.Place.CoefficientFieldSection.mk.sizeOf_spec AlgebraicCurve.Place.poleSubmodule_one AlgebraicCurve.Place.mem_poleSubmodule AlgebraicGeometry.Scheme.Modules.toUnitSection_ofUnitSection AlgebraicGeometry.Scheme.Modules.pullbackSection_def AlgebraicGeometry.Scheme.Modules.ofUnitSection_toUnitSection PresheafOfModules.InternalHom.IsSheafAux.appAt_toPresheafHom SheafOfModules.ihomSectionsEquivFamily_unit AlgebraicGeometry.Scheme.Modules.restrictHomEquivFamily_apply SheafOfModules.ihomEval_unit_app AlgebraicGeometry.Scheme.Modules.ihomEval_zero_right AlgebraicGeometry.Scheme.Modules.ihomEval_zero_left AlgebraicGeometry.Scheme.Modules.homOfFamily_app_apply SheafOfModules.unit_ihomSectionsEquivFamily AlgebraicGeometry.Scheme.Modules.familyOfHom_app AlgebraicGeometry.Scheme.Modules.restrictUnitIso_hom_app_apply AlgebraicGeometry.Scheme.Modules.restrictUnitIso_inv_app_apply AlgebraicGeometry.Scheme.Modules.restrictHomOfFamily_app_apply AlgebraicGeometry.Scheme.Modules.restrictHomEquivFamily_symm_apply AlgebraicGeometry.Scheme.Modules.tensorSections_zero_right AlgebraicGeometry.Scheme.Modules.map_unitSection AlgebraicGeometry.Scheme.Modules.tensorSectionsBilin_apply AlgebraicGeometry.Scheme.Modules.tensorPowSection_zero AlgebraicGeometry.Scheme.Modules.tensorSections_zero_left AlgebraicGeometry.Scheme.Modules.tensorPow_zero AlgebraicGeometry.Scheme.Modules.tensorPow_succ"
+p2m_attr_erase "simp" "AlgebraicGeometry.Scheme.OrderedAffineCover.mk.injEq AlgebraicGeometry.OModulePresheaf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.mk.injEq AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_neg AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_zero AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_sub AlgebraicGeometry.Scheme.Modules.pullbackLocalSection_add AlgebraicGeometry.Scheme.OrderedAffineCover.toCoverOf_U AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.injEq AlgebraicGeometry.Scheme.OrderedAffineCover.restrict_U AlgebraicGeometry.OModulePresheaf.Hom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.id_app AlgebraicGeometry.OModulePresheaf.AffHom.appSections_apply AlgebraicGeometry.OModulePresheaf.AffHom.comp_app AlgebraicGeometry.OModulePresheaf.AffSES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.kerMap_coe AlgebraicGeometry.OModulePresheaf.AffHom.id_app AlgebraicGeometry.OModulePresheaf.Hom.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.Hom.toAffHom_app AlgebraicGeometry.OModulePresheaf.SES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.Hom.comp_app AlgebraicGeometry.OModulePresheaf.SES.mk.injEq AlgebraicGeometry.OModulePresheaf.AffHom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.appSections_apply AlgebraicGeometry.OModulePresheaf.AffSES.mk.injEq AlgebraicGeometry.OModulePresheaf.prod_obj AlgebraicGeometry.OModulePresheaf.restrOpen_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.injEq AlgebraicGeometry.OModulePresheaf.pushforward_obj AlgebraicGeometry.OModulePresheaf.im_obj AlgebraicGeometry.OModulePresheaf.pow_obj AlgebraicGeometry.OModulePresheaf.fstHom_app AlgebraicGeometry.OModulePresheaf.ker_obj AlgebraicGeometry.OModulePresheaf.coker_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.preimage_U AlgebraicGeometry.OModulePresheaf.sndHom_app"
+p2m_attr_erase "simp" "AlgebraicGeometry.OModulePresheaf.Leray.restrictToPreimage_U DoubleComplex.Bounded.mk.injEq DoubleComplex.Bounded.mk.sizeOf_spec DoubleComplex.Convergence.mk.injEq DoubleComplex.Convergence.mk.sizeOf_spec DoubleComplex.SubQuot.mk.sizeOf_spec DoubleComplex.SubQuot.mk.injEq AlgebraicGeometry.ChowDatumProj.mk.sizeOf_spec AlgebraicGeometry.ChowDatum.mk.sizeOf_spec AlgebraicGeometry.ChowDatumProj.mk.injEq AlgebraicGeometry.ChowDatum.mk.injEq ProjSpaceCech.GradedModule.mk.injEq ProjSpaceCech.GradedModule.mk.sizeOf_spec ProjSpaceCech.GradedModule.Frac.mk.sizeOf_spec ProjSpaceCech.GradedModule.Presentation.mk.injEq ProjSpaceCech.GradedModule.Frac.mk.injEq ProjSpaceCech.GradedModule.Presentation.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.shift_toLinearMap ProjSpaceCech.GradedModule.Hom.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.mk.injEq TwoChartCech.Mumford.dK_apply TwoChartCech.Mumford.ι0_apply TwoChartCech.Mumford.ι1_apply TwoChartCech.KerCoprod.dK_apply TwoChartCech.KerCoprod.ι1_apply TwoChartCech.KerCoprod.ι0_apply AlgebraicGeometry.tilde.functorCompPullbackSpecIso_app AlgebraicGeometry.RelPicard.algEquivZeroGroupCut_toSubPicCondition AlgebraicGeometry.RelPicard.LFP.stageHom_val AlgebraicGeometry.RelPicard.BaseChange.relSubPicPresheafRestrictIso_hom_app_coe AlgebraicGeometry.RelPicard.BaseChange.relSubPicPresheafRestrictIso_inv_app_coe AlgebraicGeometry.RelPicard.BaseChange.restrict_P AlgebraicGeometry.RelEffCartierDiv.IsUniversal.lift_comp AlgebraicGeometry.RelEffCartierDiv.functor_map_fst AlgebraicGeometry.RelEffCartierDiv.IsUniversal.homEquiv_apply AlgebraicGeometry.RelEffCartierDiv.IsUniversal.lift_pullbackAlong AlgebraicGeometry.RelEffCartierDiv.IsUniversal.homEquiv_symm_apply AlgebraicGeometry.RelEffCartierDiv.IsUniversal.lift_comp_assoc AlgebraicGeometry.RelEffCartierDiv.supportedIn_top AlgebraicGeometry.RelEffCartierDiv.mem_supportedIn_iff"
+p2m_attr_erase "simp" "AlgebraicGeometry.RelEffCartierDiv.supportedIn_top_eq AlgebraicGeometry.RelEffCartierDiv.restrictAlong_extendAlong AlgebraicGeometry.RelEffCartierDiv.extendAlong_I AlgebraicGeometry.RelEffCartierDiv.resProdMap_snd AlgebraicGeometry.RelEffCartierDiv.restrictAlong_I AlgebraicGeometry.RelEffCartierDiv.extendAlong_restrictAlong AlgebraicGeometry.RelEffCartierDiv.resProdMap_fst_assoc AlgebraicGeometry.RelEffCartierDiv.resProdMap_snd_assoc AlgebraicGeometry.RelEffCartierDiv.resProdMap_fst CoherentBaseChange.FibreH0Family.mk.sizeOf_spec CoherentBaseChange.FibreH0Family.mk.injEq AlgebraicGeometry.Scheme.Modules.ProjPresentation.mk.injEq AlgebraicGeometry.Scheme.Modules.ProjPresentation.mk.sizeOf_spec"
+
+set_option autoImplicit false
+
+universe u
+
+noncomputable section
+
+p2m_open "CategoryTheory CategoryTheory.Limits CategoryTheory.MonoidalCategory AlgebraicGeometry CategoryTheory.CartesianMonoidalCategory AlgebraicGeometry.RelPicard NeronModelInfra GoodReductionJacobian"
+
+namespace P2mCubeCurve
+
+section Triv
+
+variable {S T V : Scheme.{u}}
+
+def Triv (φ : S ⟶ T) (A : T.Modules) : Prop :=
+  Nonempty ((Scheme.Modules.pullback φ).obj A ≅ 𝟙_ _)
+
+theorem triv_congr {φ ψ : S ⟶ T} (h : φ = ψ) (A : T.Modules) : Triv φ A ↔ Triv ψ A := by
+  subst h; exact Iff.rfl
+
+theorem triv_comp_iff (φ : S ⟶ T) (ψ : T ⟶ V) (A : V.Modules) :
+    Triv (φ ≫ ψ) A ↔ Triv φ ((Scheme.Modules.pullback ψ).obj A) :=
+  ⟨fun h => ⟨(Scheme.Modules.pullbackComp φ ψ).app A ≪≫ h.some⟩,
+    fun h => ⟨((Scheme.Modules.pullbackComp φ ψ).app A).symm ≪≫ h.some⟩⟩
+
+theorem Triv.of_iso_unit (φ : S ⟶ T) {A : T.Modules} (e : A ≅ 𝟙_ _) : Triv φ A :=
+  ⟨(Scheme.Modules.pullback φ).mapIso e ≪≫ Scheme.Modules.pullbackUnitIso φ⟩
+
+theorem Triv.comp (φ : S ⟶ T) {ψ : T ⟶ V} {A : V.Modules} (h : Triv ψ A) : Triv (φ ≫ ψ) A :=
+  (triv_comp_iff φ ψ A).mpr (Triv.of_iso_unit φ h.some)
+
+theorem triv_id_iff (A : T.Modules) : Triv (𝟙 T) A ↔ Nonempty (A ≅ 𝟙_ _) :=
+  ⟨fun h => ⟨((Scheme.Modules.pullbackId T).app A).symm ≪≫ h.some⟩,
+    fun h => ⟨(Scheme.Modules.pullbackId T).app A ≪≫ h.some⟩⟩
+
+def pbComp (φ : S ⟶ T) (ψ : T ⟶ V) (A : V.Modules) :
+    (Scheme.Modules.pullback (φ ≫ ψ)).obj A ≅
+      (Scheme.Modules.pullback φ).obj ((Scheme.Modules.pullback ψ).obj A) :=
+  ((Scheme.Modules.pullbackComp φ ψ).app A).symm
+
+def pbCongr {φ ψ : S ⟶ T} (h : φ = ψ) (A : T.Modules) :
+    (Scheme.Modules.pullback φ).obj A ≅ (Scheme.Modules.pullback ψ).obj A :=
+  (Scheme.Modules.pullbackCongr h).app A
+
+end Triv
+
+section Slices
+
+variable {k : Type u} [Field k]
+
+local notation "Sk" => Spec (CommRingCat.of k)
+
+abbrev slice₁ (X W : Over Sk) (x : 𝟙_ (Over Sk) ⟶ X) : W ⟶ X ⊗ W := lift (toUnit W ≫ x) (𝟙 W)
+
+abbrev slice₂ (V Y W : Over Sk) (y : 𝟙_ (Over Sk) ⟶ Y) : V ⊗ W ⟶ V ⊗ Y ⊗ W :=
+  lift (fst V W) (lift (toUnit (V ⊗ W) ≫ y) (snd V W))
+
+abbrev slice₃ (V W Z : Over Sk) (z : 𝟙_ (Over Sk) ⟶ Z) : V ⊗ W ⟶ V ⊗ W ⊗ Z :=
+  lift (fst V W) (lift (snd V W) (toUnit (V ⊗ W) ≫ z))
+
+theorem whiskerLeft_whiskerLeft (C Y Z : Over Sk) (z : 𝟙_ (Over Sk) ⟶ Z) :
+    C ◁ (Y ◁ z) = (C ◁ fst Y (𝟙_ (Over Sk))) ≫ slice₃ C Y Z z := by
+  have hs : snd Y (𝟙_ (Over Sk)) = toUnit _ := toUnit_unique _ _
+  apply CartesianMonoidalCategory.hom_ext
+  · simp
+  · apply CartesianMonoidalCategory.hom_ext
+    · simp
+    · simp [hs]
+
+theorem whiskerLeft_lift (C Y Z : Over Sk) (y : 𝟙_ (Over Sk) ⟶ Y) (z : 𝟙_ (Over Sk) ⟶ Z) :
+    C ◁ (lift y z) = (C ◁ y) ≫ slice₃ C Y Z z := by
+  have hs : snd C (𝟙_ (Over Sk)) = toUnit _ := toUnit_unique _ _
+  apply CartesianMonoidalCategory.hom_ext
+  · simp
+  · apply CartesianMonoidalCategory.hom_ext
+    · simp
+    · simp [hs]
+
+theorem whiskerLeft_slice₁ (C Y Z : Over Sk) (y : 𝟙_ (Over Sk) ⟶ Y) :
+    C ◁ slice₁ Y Z y = slice₂ C Y Z y := by
+  apply CartesianMonoidalCategory.hom_ext
+  · simp
+  · apply CartesianMonoidalCategory.hom_ext <;> simp
+
+theorem lift_toUnit_eq (Y Z : Over Sk) (z : 𝟙_ (Over Sk) ⟶ Z) :
+    lift (𝟙 Y) (toUnit Y ≫ z) = lift (𝟙 Y) (toUnit Y) ≫ (Y ◁ z) := by
+  apply CartesianMonoidalCategory.hom_ext <;> simp
+
+theorem slice₁_left (X W : Over Sk) (x : 𝟙_ (Over Sk) ⟶ X) :
+    (slice₁ X W x).left = rigSection X.hom W.hom ⟨x.left, Over.w x⟩ := rfl
+
+theorem whiskerLeft_left (Y : Over Sk) {T W : Over Sk} (τ : T ⟶ W) :
+    (Y ◁ τ).left = baseChangeSnd Y.hom (⟨τ.left, Over.w τ⟩ : SchemeHomOver T.hom W.hom) := rfl
+
+end Slices
+
+section InCut
+
+variable {k : Type u} [Field k] {C T : Scheme.{u}} {c : C ⟶ Spec (CommRingCat.of k)}
+  {ε : SchemeHomOver (𝟙 (Spec (CommRingCat.of k))) c} {t : T ⟶ Spec (CommRingCat.of k)}
+
+theorem fibrewiseAlgEquivZero_of_pullbackAlong_point [LocallyOfFiniteType t] [GeometricallyIntegral t]
+    (N : RigidifiedLineBundle c ε t) (τ₀ : SchemeHomOver (𝟙 (Spec (CommRingCat.of k))) t)
+    (h₀ : Nonempty ((N.pullbackAlong τ₀).L ≅
+      SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of k)))).ringCatSheaf)) :
+    FibrewiseAlgEquivZero N := by
+  intro K _ _ s
+  change IsAlgEquivZero (pullback.snd (pullback.snd c t) s)
+    ((Scheme.Modules.pullback (pullback.fst (pullback.snd c t) s)).obj N.L)
+  obtain ⟨σ, hσ⟩ : ∃ σ : Spec (CommRingCat.of K) ⟶ Spec (CommRingCat.of k), s ≫ t = σ := ⟨_, rfl⟩
+
+  have cCT : pullback.fst c t ≫ c = pullback.snd c t ≫ t := pullback.condition
+  have cA : pullback.fst (pullback.snd c t) s ≫ pullback.snd c t = pullback.snd (pullback.snd c t) s ≫ s :=
+    pullback.condition
+  have cT' : pullback.fst t σ ≫ t = pullback.snd t σ ≫ σ := pullback.condition
+  have cAh : pullback.fst (pullback.snd (pullback.snd c t) s) (pullback.snd t σ) ≫ pullback.snd (pullback.snd c t) s =
+      pullback.snd (pullback.snd (pullback.snd c t) s) (pullback.snd t σ) ≫ pullback.snd t σ := pullback.condition
+  have cA1 : pullback.fst (pullback.snd (pullback.snd c t) s) (𝟙 (Spec (CommRingCat.of K))) ≫
+      pullback.snd (pullback.snd c t) s =
+      pullback.snd (pullback.snd (pullback.snd c t) s) (𝟙 (Spec (CommRingCat.of K))) ≫ 𝟙 _ := pullback.condition
+
+  have hw : (pullback.fst (pullback.snd (pullback.snd c t) s) (pullback.snd t σ) ≫
+      pullback.fst (pullback.snd c t) s ≫ pullback.fst c t) ≫ c =
+      (pullback.snd (pullback.snd (pullback.snd c t) s) (pullback.snd t σ) ≫ pullback.fst t σ) ≫ t := by
+    simp only [Category.assoc]
+    rw [cCT, reassoc_of% cA, hσ, reassoc_of% cAh, cT']
+  let Pm : pullback (pullback.snd (pullback.snd c t) s) (pullback.snd t σ) ⟶ pullback c t :=
+    pullback.lift (pullback.fst _ _ ≫ pullback.fst (pullback.snd c t) s ≫ pullback.fst c t)
+      (pullback.snd _ _ ≫ pullback.fst t σ) hw
+
+  let t₁ : SchemeHomOver (𝟙 (Spec (CommRingCat.of K))) (pullback.snd t σ) :=
+    ⟨pullback.lift s (𝟙 _) (by rw [hσ, Category.id_comp]), pullback.lift_snd _ _ _⟩
+  let t₀ : SchemeHomOver (𝟙 (Spec (CommRingCat.of K))) (pullback.snd t σ) :=
+    ⟨pullback.lift (σ ≫ τ₀.1) (𝟙 _) (by rw [Category.assoc, τ₀.2, Category.comp_id, Category.id_comp]),
+      pullback.lift_snd _ _ _⟩
+
+  have hρ : (pullback.fst (pullback.snd (pullback.snd c t) s) (𝟙 (Spec (CommRingCat.of K))) ≫
+      pullback.fst (pullback.snd c t) s ≫ pullback.fst c t) ≫ c =
+      (pullback.snd (pullback.snd (pullback.snd c t) s) (𝟙 (Spec (CommRingCat.of K))) ≫ σ) ≫ 𝟙 _ := by
+    simp only [Category.assoc, Category.comp_id]
+    rw [cCT, reassoc_of% cA, hσ, reassoc_of% cA1]
+  let rho : pullback (pullback.snd (pullback.snd c t) s) (𝟙 (Spec (CommRingCat.of K))) ⟶
+      pullback c (𝟙 (Spec (CommRingCat.of k))) :=
+    pullback.lift (pullback.fst _ _ ≫ pullback.fst (pullback.snd c t) s ≫ pullback.fst c t)
+      (pullback.snd _ _ ≫ σ) hρ
+  have E0 : baseChangeSnd (pullback.snd (pullback.snd c t) s) t₀ ≫ Pm = rho ≫ baseChangeSnd c τ₀ := by
+    apply pullback.hom_ext <;>
+      simp only [baseChangeSnd, Pm, rho, t₀, Category.assoc, pullback.lift_fst, pullback.lift_snd,
+        pullback.lift_fst_assoc, pullback.lift_snd_assoc, Category.comp_id]
+  have E1 : baseChangeSnd (pullback.snd (pullback.snd c t) s) t₁ ≫ Pm =
+      pullback.fst (pullback.snd (pullback.snd c t) s) (𝟙 (Spec (CommRingCat.of K))) ≫
+        pullback.fst (pullback.snd c t) s := by
+    apply pullback.hom_ext
+    · simp only [baseChangeSnd, Pm, t₁, Category.assoc, pullback.lift_fst, pullback.lift_fst_assoc,
+        Category.id_comp]
+    · simp only [baseChangeSnd, Pm, t₁, Category.assoc, pullback.lift_fst, pullback.lift_snd,
+        pullback.lift_snd_assoc]
+      rw [cA, reassoc_of% cA1]
+  refine ⟨pullback t σ, pullback.snd t σ, inferInstance, inferInstance, (Scheme.Modules.pullback Pm).obj N.L,
+    N.isInvertible.pullback Pm, t₀, t₁, ⟨?_⟩, ⟨?_⟩⟩
+  · exact (pbComp _ _ N.L).symm ≪≫ pbCongr E0 N.L ≪≫ pbComp _ _ N.L ≪≫
+      (Scheme.Modules.pullback rho).mapIso h₀.some ≪≫ Scheme.Modules.pullbackUnitIso rho
+  · exact (pbComp _ _ N.L).symm ≪≫ pbCongr E1 N.L ≪≫ pbComp _ _ N.L
+
+end InCut
+
+section Classify
+
+variable {R : Type u} [CommRing R] {C : Scheme.{u}} {c : C ⟶ Spec (CommRingCat.of R)}
+  {ε : SchemeHomOver (𝟙 (Spec (CommRingCat.of R))) c} {P : SubPicCondition c ε} {D : RelativePic0Designation R c}
+
+def pullbackAlongPostCompIso {T T' T'' : Scheme.{u}} {t : T ⟶ Spec (CommRingCat.of R)}
+    {t' : T' ⟶ Spec (CommRingCat.of R)} {t'' : T'' ⟶ Spec (CommRingCat.of R)}
+    (N : RigidifiedLineBundle c ε t) (φ : SchemeHomOver t' t) (ψ : SchemeHomOver t'' t') :
+    (N.pullbackAlong (postComp φ ψ)).L ≅ ((N.pullbackAlong φ).pullbackAlong ψ).L :=
+  pbCongr (baseChangeSnd_comp c φ ψ).symm N.L ≪≫ pbComp _ _ N.L
+
+theorem poincare_pullbackAlong_trivial_of_eq (h : RepresentsRelSubPic c ε P D) {T : Scheme.{u}}
+    {t : T ⟶ Spec (CommRingCat.of R)} (g : SchemeHomOver t D.toBase) (hg : g.1 = t ≫ D.zeroSection) :
+    Nonempty ((h.poincare.pullbackAlong g).L ≅ SheafOfModules.unit (pullback c t).ringCatSheaf) := by
+  let z : SchemeHomOver (𝟙 (Spec (CommRingCat.of R))) D.toBase := ⟨D.zeroSection, D.zeroSection_toBase⟩
+  let τ : SchemeHomOver t (𝟙 (Spec (CommRingCat.of R))) := ⟨t, Category.comp_id t⟩
+  have hg' : g = postComp z τ := Subtype.ext hg
+  subst hg'
+  obtain ⟨e⟩ := RigidifiedLineBundle.pullbackAlong_congr τ h.zero
+  exact ⟨pullbackAlongPostCompIso h.poincare z τ ≪≫ e ≪≫ Scheme.Modules.pullbackUnitIso _⟩
+
+theorem comp_classify_eq_zero (h : RepresentsRelSubPic c ε P D) {T T' : Scheme.{u}}
+    {t : T ⟶ Spec (CommRingCat.of R)} {t' : T' ⟶ Spec (CommRingCat.of R)}
+    (N : RigidifiedLineBundle c ε t) (hN : P.P t N) (ψ : SchemeHomOver t' t)
+    (hψ : Nonempty ((N.pullbackAlong ψ).L ≅ SheafOfModules.unit (pullback c t').ringCatSheaf)) :
+    ψ.1 ≫ (h.classify t N hN).1 = t' ≫ D.zeroSection := by
+  let κ := h.classify t N hN
+  let g₁ : SchemeHomOver t' D.toBase := postComp κ ψ
+  let g₀ : SchemeHomOver t' D.toBase :=
+    ⟨t' ≫ D.zeroSection, by rw [Category.assoc, D.zeroSection_toBase, Category.comp_id]⟩
+  have hcl := h.classify_spec t N hN
+  obtain ⟨e₁⟩ := RigidifiedLineBundle.pullbackAlong_congr ψ hcl
+  obtain ⟨e₀⟩ := poincare_pullbackAlong_trivial_of_eq h g₀ rfl
+  have := h.ext_of_iso t' g₁ g₀
+    ⟨pullbackAlongPostCompIso h.poincare κ ψ ≪≫ e₁ ≪≫ hψ.some ≪≫ e₀.symm⟩
+  exact congrArg Subtype.val this
+
+end Classify
+
+section Main
+
+variable (k : Type u) [Field k] [IsAlgClosed k]
+
+local notation "Sk" => Spec (CommRingCat.of k)
+
+variable (C Y Z : Over (Spec (CommRingCat.of k)))
+  [IsProper C.hom] [SmoothOfRelativeDimension 1 C.hom] [IsIntegral C.left] [IsProper Y.hom] [IsIntegral Y.left]
+  [LocallyOfFiniteType Z.hom] [IsIntegral Z.left]
+  (c₀ : 𝟙_ (Over (Spec (CommRingCat.of k))) ⟶ C) (y₀ : 𝟙_ (Over (Spec (CommRingCat.of k))) ⟶ Y)
+  (z₀ : 𝟙_ (Over (Spec (CommRingCat.of k))) ⟶ Z)
+  (L : (C ⊗ Y ⊗ Z).left.Modules) (hL : Scheme.Modules.IsInvertible L)
+  (h₁ : Triv (slice₁ C (Y ⊗ Z) c₀).left L) (h₂ : Triv (slice₂ C Y Z y₀).left L)
+  (h₃ : Triv (slice₃ C Y Z z₀).left L)
+
+include hL h₁ h₂ h₃ in
+
+theorem main : Nonempty (L ≅ 𝟙_ _) := by
+
+  let c : C.left ⟶ Sk := C.hom
+  let T : Over Sk := Y ⊗ Z
+  let ε : SchemeHomOver (𝟙 Sk) c := ⟨c₀.left, Over.w c₀⟩
+  let M : RigidifiedLineBundle c ε T.hom := ⟨L, hL, h₁⟩
+
+  haveI : LocallyOfFiniteType T.hom := by
+    change LocallyOfFiniteType (pullback.fst Y.hom Z.hom ≫ Y.hom); infer_instance
+  haveI : IsIntegral T.left := by
+    have : GeometricallyIntegral Y.hom := geometricallyIntegral_of_isAlgClosed Y.hom
+    have : IsLocallyNoetherian Z.left := LocallyOfFiniteType.isLocallyNoetherian Z.hom
+    have : LocallyOfFinitePresentation Y.hom := inferInstance
+    change IsIntegral (pullback Y.hom Z.hom); infer_instance
+  haveI : GeometricallyIntegral T.hom := geometricallyIntegral_of_isAlgClosed T.hom
+
+  let τ₀ : 𝟙_ (Over Sk) ⟶ T := lift y₀ z₀
+  have hτ₀ : Triv (C ◁ τ₀).left L := by
+    have e : (C ◁ τ₀).left = ((C ◁ y₀) ≫ slice₃ C Y Z z₀).left := by rw [← whiskerLeft_lift]
+    rw [triv_congr e L]
+    exact Triv.comp _ h₃
+  have hcut : (algEquivZeroCut c ε).P T.hom M :=
+    fibrewiseAlgEquivZero_of_pullbackAlong_point M ⟨τ₀.left, Over.w τ₀⟩ hτ₀
+
+  obtain ⟨D, ⟨hrep⟩, -, hDpr, -⟩ := exists_representsRelSubPic_algEquivZeroCut_of_isAlgClosed k c ε
+  haveI : IsProper D.toBase := hDpr
+  let κ : SchemeHomOver T.hom D.toBase := hrep.classify T.hom M hcut
+
+  have hY : (Y ◁ z₀).left ≫ κ.1 = (Y ⊗ 𝟙_ (Over Sk)).hom ≫ D.zeroSection := by
+    refine comp_classify_eq_zero hrep M hcut ⟨(Y ◁ z₀).left, Over.w _⟩ ?_
+    change Triv (C ◁ (Y ◁ z₀)).left L
+    rw [whiskerLeft_whiskerLeft, Over.comp_left]
+    exact Triv.comp _ h₃
+  have hZ : (slice₁ Y Z y₀).left ≫ κ.1 = Z.hom ≫ D.zeroSection := by
+    refine comp_classify_eq_zero hrep M hcut ⟨(slice₁ Y Z y₀).left, Over.w _⟩ ?_
+    change Triv (C ◁ slice₁ Y Z y₀).left L
+    rw [whiskerLeft_slice₁]
+    exact h₂
+
+  haveI : IsReduced (pullback Y.hom Z.hom) := by
+    change IsReduced T.left; infer_instance
+  have hcontr : (lift (𝟙 Y) (toUnit Y ≫ z₀) : Y ⟶ Y ⊗ Z).left ≫ κ.1 = Y.hom ≫ D.zeroSection := by
+    rw [lift_toUnit_eq, Over.comp_left, Category.assoc, hY, ← Category.assoc]
+    congr 1
+    exact Over.w (lift (𝟙 Y) (toUnit Y))
+  obtain ⟨g, hg⟩ := exists_eq_pullback_snd_comp_of_isProper Y.hom Z.hom D.toBase κ.1 κ.2
+    z₀.left (Over.w z₀) D.zeroSection hcontr
+
+  have hgz : g = Z.hom ≫ D.zeroSection := by
+    have e : (slice₁ Y Z y₀).left ≫ pullback.snd Y.hom Z.hom = 𝟙 _ := by
+      change (slice₁ Y Z y₀ ≫ snd Y Z).left = (𝟙 Z : Z ⟶ Z).left
+      rw [CartesianMonoidalCategory.lift_snd]
+    have e1 : (slice₁ Y Z y₀).left ≫ κ.1 = ((slice₁ Y Z y₀).left ≫ pullback.snd Y.hom Z.hom) ≫ g := by
+      rw [hg]; exact (Category.assoc _ _ _).symm
+    rw [e, Category.id_comp] at e1
+    exact e1.symm.trans hZ
+  have hκ : κ.1 = T.hom ≫ D.zeroSection := by
+    rw [hg, hgz]
+    exact (Category.assoc _ _ _).symm.trans (congrArg (· ≫ D.zeroSection) (Over.w (snd Y Z)))
+
+  obtain ⟨e₁⟩ := hrep.classify_spec T.hom M hcut
+  obtain ⟨e₀⟩ := poincare_pullbackAlong_trivial_of_eq hrep κ hκ
+  exact ⟨e₁.symm ≪≫ e₀⟩
+
+end Main
+
+end P2mCubeCurve
+
+end
+
+p2m_open "CategoryTheory CategoryTheory.Limits CategoryTheory.MonoidalCategory AlgebraicGeometry CategoryTheory.CartesianMonoidalCategory"
+
+theorem solution
+    (k : Type u) [Field k] [IsAlgClosed k] (C Y Z : Over (Spec (CommRingCat.of k)))
+    [IsProper C.hom] [SmoothOfRelativeDimension 1 C.hom] [IsIntegral C.left] [IsProper Y.hom] [IsIntegral Y.left]
+    [LocallyOfFiniteType Z.hom] [IsIntegral Z.left]
+    (c₀ : 𝟙_ (Over (Spec (CommRingCat.of k))) ⟶ C) (y₀ : 𝟙_ (Over (Spec (CommRingCat.of k))) ⟶ Y)
+    (z₀ : 𝟙_ (Over (Spec (CommRingCat.of k))) ⟶ Z)
+    (L : (C ⊗ Y ⊗ Z).left.Modules) (hL : Scheme.Modules.IsInvertible L)
+    (h₁ : Nonempty ((Scheme.Modules.pullback
+      (lift (toUnit (Y ⊗ Z) ≫ c₀) (𝟙 (Y ⊗ Z)) : Y ⊗ Z ⟶ C ⊗ Y ⊗ Z).left).obj L ≅ 𝟙_ _))
+    (h₂ : Nonempty ((Scheme.Modules.pullback
+      (lift (fst C Z) (lift (toUnit (C ⊗ Z) ≫ y₀) (snd C Z)) : C ⊗ Z ⟶ C ⊗ Y ⊗ Z).left).obj L ≅ 𝟙_ _))
+    (h₃ : Nonempty ((Scheme.Modules.pullback
+      (lift (fst C Y) (lift (snd C Y) (toUnit (C ⊗ Y) ≫ z₀)) : C ⊗ Y ⟶ C ⊗ Y ⊗ Z).left).obj L ≅ 𝟙_ _)) :
+    Nonempty (L ≅ 𝟙_ _) :=
+  P2mCubeCurve.main k C Y Z c₀ y₀ z₀ L hL h₁ h₂ h₃
+
+end S_AlgebraicGeometry_Scheme_Modules_nonempty_iso_tensorUnit_of_pullback_three_slices_of_smoothOfRelativeDimension_one
+end P2MW
+export P2MW.S_AlgebraicGeometry_Scheme_Modules_nonempty_iso_tensorUnit_of_pullback_three_slices_of_smoothOfRelativeDimension_one (solution)

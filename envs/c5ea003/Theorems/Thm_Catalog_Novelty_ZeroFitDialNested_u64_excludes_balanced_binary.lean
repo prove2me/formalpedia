@@ -1,0 +1,107 @@
+-- Prove2me | Theorems.Thm_Catalog_Novelty_ZeroFitDialNested_u64_excludes_balanced_binary
+-- name    : Catalog.Novelty.ZeroFitDialNested.u64_excludes_balanced_binary
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-11T15:18:59.286903+00:00
+-- url     : https://prove2.me/theorems/d240789a-3feb-47ff-81b2-21fb0ef7a0a4
+-- title:
+--   Exclusion.
+-- statement:
+--   **Exclusion.**  The recorded reading rules out balanced-ish binary responses: any two-class
+--   response whose minority class holds at least a quarter of the sample would read
+--   `ρ² ≥ 9/16 = 0.5625`, far above the recorded pooled `ρ² = 0.419904`.  Hence, under the
+--   binary-response explanation, the U64 measurement forces a *skewed* response.
+--
+--   ```lean
+--   theorem Catalog.Novelty.ZeroFitDialNested.u64_excludes_balanced_binary(j k : ℕ) (hj : 1 ≤ j) (hjk : j ≤ k) (h4 : j + k ≤ 4 * j) :
+--       pooled ^ 2 < spearmanSq [j, k] := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Novelty/ZeroFitDialNested.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Novelty/ZeroFitDialNested.lean#L279
+
+-- Thm stub generated from Novelty/ZeroFitDialNested.lean
+import Mathlib
+import Definitions.Def_Novelty_ZeroFitDialNested
+import Definitions.Def_Novelty_ZeroFitDialU64
+
+/-!
+# Nested tie profiles: the zero-fit dial when *both* sides are tied
+
+Cycle 2 of the round-61 investigation.  `Novelty.ZeroFitDialU64` established the
+tie-attenuation law for a tied statistic `T` measured against a tie-*refining*
+response, and showed that at bitlen 64 the 2-adic tie ceiling
+(`≈ 0.9258`) is far above the recorded dial (`0.648`), so tie granularity of the
+zero-count statistic cannot explain the observed decline of the dial.
+
+The natural next suspect is granularity of the **response**.  Here we prove the
+two-sided law for *nested* profiles: if one variable's tie blocks refine the
+other's, then
+
+`ρ² = (V - T_coarse) / (V - T_fine)`,  where `V = (n³-n)/12`
+
+and `T_•` are the Kendall tie corrections of the two profiles.  The one-sided law
+is the special case `T_fine = 0`.
+
+## Main results
+
+* `spNest_eq_ssR_coarse` — the midrank collapse identity survives nesting:
+  the centred cross-product of the two midrank vectors equals the *coarse*
+  between-block sum of squares.
+* `nested_spearmanSq_eq` — the two-sided attenuation law.
+* `tieCorr_flatten_le` — refinement decreases the tie correction (superadditivity
+  of `m ↦ m³ - m`), hence `nested_spearmanSq_le_one`.
+* `nested_of_fine_tiefree` — the one-sided law is recovered.
+* `binary_response_spearmanSq` — **exact** ceiling for a binary response with
+  `j` positives and `k` negatives against a tie-free statistic:
+  `ρ² = 3jk/((j+k)² - 1)`, i.e. asymptotically `ρ = √(3q(1-q))`.
+* `balanced_binary_ceiling` — the balanced binary ceiling `ρ² = 3j²/(4j²-1) > 3/4`
+  (`ρ → √3/2 ≈ 0.8660`).
+* `u64_binary_calibration` — the recorded pooled reading `0.648` is reproduced to
+  `10⁻⁴` by a binary response with base rate `16.83 %`; combined with
+  `u64_binary_rate_forced`, any binary response with base rate above `25 %` is
+  *excluded* by the measurement.
+
+The scientific content is a falsifiable prediction: under the response-granularity
+explanation of the dial's decline, the bitlen-64 rate variable must be
+(effectively) a two-class variable with minority mass near `17 %`, and the dial can
+never exceed `√3/2` regardless of bitlen.
+-/
+
+open Finset
+
+open Catalog.Novelty.ZeroFitDialNested
+
+open Catalog.Novelty.ZeroFitDialU64
+
+/-! ## 1. Weighted midranks inside a coarse block -/
+
+
+
+
+
+/-! ## 2. Nested profiles -/
+
+
+
+
+
+
+
+/-! ## 3. Refinement decreases ties -/
+
+
+
+
+
+
+/-! ## 4. Binary responses: the exact `√(3q(1-q))` ceiling -/
+
+
+
+
+/-! ## 5. Calibrating the recorded U64 reading against a binary response -/
+
+theorem Catalog.Novelty.ZeroFitDialNested.u64_excludes_balanced_binary(j k : ℕ) (hj : 1 ≤ j) (hjk : j ≤ k) (h4 : j + k ≤ 4 * j) :
+    pooled ^ 2 < spearmanSq [j, k] := by sorry

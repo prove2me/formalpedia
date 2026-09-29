@@ -1,0 +1,138 @@
+-- Prove2me | solution 1 for AutomorphicForm.tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_apply_one_nhds_zero_of_flat_family
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:05.340288+00:00
+-- url     : https://prove2.me/submissions/66b3a7de-f2dc-52e9-9156-ac61b3feb8a4
+
+import Definitions.Def_AutomorphicForm_InducedSection
+import Definitions.Def_AutomorphicForm_EtaFamily
+import Definitions.Def_AutomorphicForm_WeylIntertwining
+import Definitions.Def_AutomorphicForm_SmoothAutomorphicFnAt
+import Definitions.Def_AutomorphicForm_ArchKFinite
+import Definitions.Def_AutomorphicForm_RowIsometryInvariance
+import Definitions.Def_AutomorphicForm_AdelicMaximalCompact
+import Definitions.Def_NumberField_AdelicHaar
+import Mathlib.MeasureTheory.Measure.Haar.DistribChar
+import Mathlib.Analysis.Meromorphic.Order
+import Theorems.Thm_AutomorphicForm_exists_forall_apply_mul_eq_of_mem_maximalCompactAway_of_flat_family
+import Theorems.Thm_AutomorphicForm_exists_mem_maximalCompactAt_mul_mem_maximalCompactAway_eq
+import Theorems.Thm_AutomorphicForm_exists_mem_maximalCompactAt_erase_mul_eq_of_mem_maximalCompactAt
+import Theorems.Thm_AutomorphicForm_flat_family_comp_mul_of_mem_adelicMaximalCompact
+import Theorems.Thm_AutomorphicForm_tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_nhds_zero_of_flat_family_of_mem_maximalCompactAt_singleton
+import Theorems.Thm_AutomorphicForm_tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_nhds_zero_of_flat_family_of_mem_maximalCompactAt_empty
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_AutomorphicForm_tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_apply_one_nhds_zero_of_flat_family
+p2m_attr_erase "instance" "HeckePair.instSMulCommClassSubtypeForallMemSubmoduleHeckeAlgebra HeckePair.instAlgebraSubtypeForallMemSubmoduleHeckeAlgebra HeckePair.instOneSubtypeForallMemSubmoduleHeckeAlgebra HeckePair.instIsScalarTowerSubtypeForallMemSubmoduleHeckeAlgebra HeckePair.instRingSubtypeForallMemSubmoduleHeckeAlgebra HeckePair.instMulSubtypeForallMemSubmoduleHeckeAlgebra FixedPoints.instMulActionElemFixedPointsOfSMulCommClass_definitions FixedPoints.module FixedPoints.instSMulElemFixedPointsOfSMulCommClass_definitions FixedPoints.instAddCommMonoidElemFixedPoints_definitions NumberField.AdelicCentre.locallyCompactSpace_adelicPGL2 NumberField.AdelicCentre.isTopologicalGroup_adelicPGL2 NumberField.AdelicCentre.t2Space_adelicPGL2 NumberField.AdelicCentre.isClosed_center instCountableOfNumberField_definitions IsDedekindDomain.HeightOneSpectrum.Extension.instAlgebraSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersValEqUnder IsDedekindDomain.HeightOneSpectrum.Extension.instAlgebraSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersValEqUnder_1 IsDedekindDomain.HeightOneSpectrum.instMulActionHomClassAlgHomTensorProductAdicCompletionForallValEqUnder_definitions IsDedekindDomain.HeightOneSpectrum.Extension.instAlgebraAdicCompletionValEqUnder IsDedekindDomain.HeightOneSpectrum.adicCompletion.instFiniteForallValEqUnderOfFiniteDimensional_definitions IsDedekindDomain.HeightOneSpectrum.instIsBiscalarSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersTensorProductCoeAlgHomTensorAdicCompletionIntegersTo IsDedekindDomain.HeightOneSpectrum.Extension.instContinuousSMulAdicCompletionValEqUnder IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsModuleTopology IsDedekindDomain.HeightOneSpectrum.Extension.instFiniteSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersValEqUnderOfFiniteDimensional IsDedekindDomain.HeightOneSpectrum.adicCompletion.instFiniteValEqUnderOfFiniteDimensional_definitions instIsBiscalarTensorProductCoeAlgHomBaseChange_of_algebraMap IsDedekindDomain.HeightOneSpectrum.instIsScalarTowerSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersValEqUnder_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsModuleTopologyPi IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instDimensionLEOneSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.instLiesOverSubtypeAdicCompletionMemValuationSubringAdicCompletionIntegersCompletionIdealAsIdeal IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsPrincipalIdealRingSubtypeMemValuationSubringAdicCompletionIntegers_definitions IsDedekindDomain.HeightOneSpectrum.adicCompletion.instIsDiscreteValuationRingSubtypeMemSubringIntegerWithZeroMultiplicativeInt_definitions IsDedekindDomain.HeightOneSpectrum.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicCompletionV_definitions Submodule.instIsTopologicalModuleSubtypeMem Pi.instTopologicalModule IsTopologicalModule.toContinuousSMul IsTopologicalModule.toContinuousAdd instFunLike SemialgHomClass.toSemilinearMapClass"
+p2m_attr_erase "instance" "instCoeTCSemialgHom SemialgHomClass.toRingHomClass SemialgHomClass.instSemialgHom instFiniteResidueFieldAdicCompletionRingOfIntegersWithZeroMultiplicativeInt_definitions NumberField.instCompactSpaceAdicCompletionIntegers Rat.adicCompletion.locallyCompactSpace NumberField.instFiniteResidueFieldAdicCompletionIntegers instWeaklyLocallyCompactSpaceAdicCompletionRingOfIntegers_definitions instLocallyCompactSpaceAdicCompletionRingOfIntegers_definitions RestrictedProduct.SecondCountableTopology_of_principal instCountableElemSetSetsCofinite_definitions"
+p2m_attr_erase "simp" "LocalGL2.coe_localRepSome LocalGL2.coe_diagPi LocalGL2.coe_localRepInf LocalGL2.coe_localRepSome_inv LocalGL2.coe_unipotentInt LocalGL2.coe_weylInt LocalGL2.coe_diagPi_inv LocalGL2.transposeGL_val LocalGL2.transposeGL_one HeckePair.convTerm_mk HeckePair.coe_apply_add HeckePair.coe_apply_smul FixedPoints.coe_zero FixedPoints.coe_smul FixedPoints.coe_add LocalGL2.swapUnit_val AdelicDock.coe_finEmbed AdelicDock.splice_apply_self AdelicDock.coe_localEmbed EisensteinGeneral.Piece.FactorizationDatum.mk.sizeOf_spec EisensteinGeneral.Piece.FactorizationDatum.mk.injEq LanglandsTunnell.TateLocal.conductorExponentAt_one LanglandsTunnell.TateLocal.charExt_coe_units LanglandsTunnell.TateLocal.modulus_one LanglandsTunnell.TateLocal.modulus_zero LanglandsTunnell.TateLocal.modulus_coe_units LanglandsTunnell.TateLocal.charExt_zero AutomorphicForm.SiegelCoordinates.upperUnit_apply_zero_zero AutomorphicForm.SiegelCoordinates.upperUnit_apply_one_zero AutomorphicForm.SiegelCoordinates.upperUnit_apply_one_one AutomorphicForm.SiegelCoordinates.upperUnit_apply_zero_one AutomorphicForm.fnTwist_zero AutomorphicForm.fnTwist_apply NumberField.StandardAddChar.ratArchLine_apply NumberField.StandardAddChar.AdelicTraceData.mk.sizeOf_spec NumberField.StandardAddChar.AdelicTraceData.mk.injEq AutomorphicForm.whittakerCoefficient_zero NumberField.AdelicTrace.traceDiag_apply NumberField.AdelicTrace.diag_apply SemialgHom.baseChange_of_algebraMap_tmul_left"
+p2m_attr_erase "simp" "SemialgHom.baseChangeRightOfAlgebraMap_apply Pi.semialgHomPi_apply Pi.semialgHom_apply Module.Basis.rightBaseChange_apply LinearEquiv.coe_mulLeft LinearEquiv.coe_mulRight WithVal.semialgebraMap_toFun_ofVal Module.Basis.rightBaseChange_repr IsDedekindDomain.HeightOneSpectrum.adicCompletionIntegers.tensorCoe_tmul IsDedekindDomain.HeightOneSpectrum.tensorAdicCompletionIntegersTo_tmul SemialgHom.baseChangeRightOfAlgebraMap_coe IsDedekindDomain.HeightOneSpectrum.adicCompletion.integerBaseChangeLinearEquiv_tmul_apply SemialgHom.baseChange_of_algebraMap_tmul_right IsLocalization.map_moduleTensorEquiv_symm_tmul IsLocalization.leftModuleTensorEquiv_apply IsLocalization.moduleLid_symm_apply IsLocalization.leftModuleTensorEquiv_symm_apply IsLocalization.map_moduleTensorEquiv_tmul IsModuleTopology.continuousLinearEquiv_apply AlgEquiv.extendScalars_symm_apply IsModuleTopology.Module.Basis.equivFun_homeo_symm_apply IsModuleTopology.Module.Basis.equivFun_homeo_apply IsModuleTopology.continuousAlgEquivOfIsBiscalar_apply AlgEquiv.extendScalars_apply IsModuleTopology.continuousLinearEquiv_symm_apply SemialgHom.restrictScalars_toFun SemialgHom.mk.sizeOf_spec SemialgHom.mk.injEq SemialgHom.coe_coe coe_mk TensorProduct.RightActions.smul_def TensorProduct.RightActions.Module.TensorProduct.comm_symm_apply_tmul TensorProduct.RightActions.LinearMap.baseChange_id TensorProduct.RightActions.algebraMap_eval TensorProduct.RightActions.Module.TensorProduct.comm_apply_tmul TensorProduct.RightActions.Algebra.TensorProduct.comm_symm_apply_tmul TensorProduct.RightActions.Algebra.TensorProduct.comm_apply_tmul AutomorphicForm.productionPins_nS AutomorphicForm.productionPins_mS AutomorphicForm.productionPins_ν"
+p2m_attr_erase "simp" "AutomorphicForm.productionPins_Z AutomorphicForm.productionPins_U AutomorphicForm.productionPins_μ AutomorphicForm.productionPins_gen AutomorphicForm.productionPins_D NumberField.AdeleRing.val_finiteUnitsComponent IsDedekindDomain.FiniteAdeleRing.val_unitsComponent NumberField.AdeleRing.val_finitePartUnits NumberField.AdeleRing.val_infiniteUnitsComponent ContinuousAddEquiv.restrictedProductPi_apply RestrictedProduct.flatten_homeomorph_apply RestrictedProduct.flatten_homeomorph'_symm_apply ContinuousMulEquiv.restrictedProductPi_symm_apply RestrictedProduct.flatten_homeomorph'_apply RestrictedProduct.flatten_homeomorph_symm_apply ContinuousMulEquiv.restrictedProductPi_apply ContinuousAddEquiv.restrictedProductPi_symm_apply RingEquiv.restrictedProductCongr_symm_apply RingEquiv.restrictedProductCongrRight_apply MulEquiv.restrictedProductCongrRight_apply Equiv.restrictedProductProd_symm_apply_coe Equiv.restrictedProductCongrRight_apply AddEquiv.restrictedProductCongr_apply Equiv.restrictedProductCongrLeft'_symm_apply_apply Equiv.restrictedProductCongr_apply_apply Equiv.restrictedProductCongrLeft_apply_apply RestrictedProduct.flatten_equiv'_apply AddEquiv.restrictedProductCongrRight_apply Equiv.restrictedProductCongr_symm_apply Equiv.restrictedProductCongrRight_symm_apply RestrictedProduct.flatten_equiv'_symm_apply AddEquiv.restrictedProductCongrLeft'_apply Equiv.restrictedProductCongrLeft'_apply RestrictedProduct.flatten_apply RingEquiv.restrictedProductCongr_apply_apply RingEquiv.restrictedProductCongrLeft'_apply Equiv.restrictedProductProd_apply RestrictedProduct.flatten_equiv_apply RestrictedProduct.flatten_equiv_symm_apply LinearEquiv.restrictedProductCongrLeft'_apply"
+p2m_attr_erase "simp" "RestrictedProduct.not_mem_support RestrictedProduct.mem_structureSubring_iff RestrictedProduct.not_mem_mulSupport RestrictedProduct.support_neg RestrictedProduct.mem_indexSupport_iff RestrictedProduct.mulSupport_inv RestrictedProduct.mapAlongLinearMap_apply"
+
+set_option autoImplicit false
+
+open MeasureTheory NumberField NumberField.AdelicHaar NumberField.AdelicLevel IsDedekindDomain
+open AutomorphicForm AutomorphicForm.WindowedSiegel Filter Topology
+open scoped NNReal
+
+theorem weylIntertwiningIntegral_mul_right
+    {R K : Type*} [CommRing R] [IsDedekindDomain R] [Field K] [Algebra R K] [IsFractionRing R K]
+    {_inst : MeasurableSpace (AdeleRing R K)} (ν : Measure (AdeleRing R K)) (f : AdelicGL2 R K → ℂ) (g k : AdelicGL2 R K) :
+    weylIntertwiningIntegral R K ν f (g * k) = weylIntertwiningIntegral R K ν (fun h => f (h * k)) g := by
+  simp only [weylIntertwiningIntegral, mul_assoc]
+
+theorem solution
+    (F : Type) [Field F] [NumberField F] :
+    let α : (AdeleRing (𝓞 F) F)ˣ →* ℝˣ :=
+      ((NNReal.toRealHom : ℝ≥0 →+* ℝ).toMonoidHom.comp
+        (distribHaarChar (AdeleRing (𝓞 F) F))).toHomUnits
+    ∀ (hα : ∀ t, 0 < ((α t : ℝˣ) : ℝ))
+      (φ : ℂ → AdelicGL2 (𝓞 F) F → ℂ)
+      (_hφ : ∀ s, IsInducedSection (𝓞 F) F (etaFst 1 α hα s) (etaSnd 1 α hα s) (φ s))
+      (_hφK : ∀ s, IsArchKFinite F (φ s))
+      (_hφf : ∀ s, IsKfSmooth F (φ s))
+      (_hφjc : Continuous (fun p : ℂ × AdelicGL2 (𝓞 F) F => φ p.1 p.2))
+      (_hφhol : ∀ g, Differentiable ℂ (fun s => φ s g))
+      (_hφflat : ∀ (s s' : ℂ) (k : AdelicGL2 (𝓞 F) F),
+          glFin (𝓞 F) F k ∈ finiteIntegralGL2 (𝓞 F) F →
+          (∀ w : InfinitePlace F, IsRowIsometry (archComponent F w (glArch (𝓞 F) F k))) →
+          φ s k = φ s' k),
+    letI := NumberField.AdelicHaar.adeleBorel (𝓞 F) F
+    ∀ k : AdelicGL2 (𝓞 F) F, glFin (𝓞 F) F k ∈ finiteIntegralGL2 (𝓞 F) F →
+      (∀ w : InfinitePlace F, IsRowIsometry (archComponent F w (glArch (𝓞 F) F k))) →
+      Tendsto (fun s : ℂ => (s - 1 / 2) *
+          (weylIntertwiningIntegral (𝓞 F) F (adelicAddHaar (𝓞 F) F) (φ s) k
+            - weylIntertwiningIntegral (𝓞 F) F (adelicAddHaar (𝓞 F) F) (φ s) 1))
+        (𝓝[{s : ℂ | 1 / 2 < s.re}] (1 / 2 : ℂ)) (𝓝 0) := by
+  classical
+  intro α hα
+
+  have main : ∀ (S : Finset (HeightOneSpectrum (𝓞 F)))
+      (φ : ℂ → AdelicGL2 (𝓞 F) F → ℂ)
+      (_hφ : ∀ s, IsInducedSection (𝓞 F) F (etaFst 1 α hα s) (etaSnd 1 α hα s) (φ s))
+      (_hφK : ∀ s, IsArchKFinite F (φ s))
+      (_hφf : ∀ s, IsKfSmooth F (φ s))
+      (_hφjc : Continuous (fun p : ℂ × AdelicGL2 (𝓞 F) F => φ p.1 p.2))
+      (_hφhol : ∀ g, Differentiable ℂ (fun s => φ s g))
+      (_hφflat : ∀ (s s' : ℂ) (k : AdelicGL2 (𝓞 F) F),
+          glFin (𝓞 F) F k ∈ finiteIntegralGL2 (𝓞 F) F →
+          (∀ w : InfinitePlace F, IsRowIsometry (archComponent F w (glArch (𝓞 F) F k))) →
+          φ s k = φ s' k)
+      (k : AdelicGL2 (𝓞 F) F), k ∈ maximalCompactAt F S →
+      letI := NumberField.AdelicHaar.adeleBorel (𝓞 F) F
+      Tendsto (fun s : ℂ => (s - 1 / 2) *
+          (weylIntertwiningIntegral (𝓞 F) F (adelicAddHaar (𝓞 F) F) (φ s) k
+            - weylIntertwiningIntegral (𝓞 F) F (adelicAddHaar (𝓞 F) F) (φ s) 1))
+        (𝓝[{s : ℂ | 1 / 2 < s.re}] (1 / 2 : ℂ)) (𝓝 0) := by
+    intro S
+    induction S using Finset.induction_on with
+    | empty =>
+      intro φ hφ hφK hφf hφjc hφhol hφflat k hk
+      exact AutomorphicForm.tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_nhds_zero_of_flat_family_of_mem_maximalCompactAt_empty
+        F hα φ hφ hφK hφf hφjc hφhol hφflat k hk
+    | insert v S' hv IH =>
+      intro φ hφ hφK hφf hφjc hφhol hφflat k hk
+      obtain ⟨k', kv, hk', hkv, hkv', rfl, hcomm⟩ :=
+        AutomorphicForm.exists_mem_maximalCompactAt_erase_mul_eq_of_mem_maximalCompactAt F (insert v S') v
+          (Finset.mem_insert_self v S') k hk
+      rw [Finset.erase_insert hv] at hk'
+      have hk'K : k' ∈ adelicMaximalCompact F := maximalCompactAt_le F S' hk'
+
+      obtain ⟨hψ, hψK, hψf, hψjc, hψhol, hψflat⟩ :=
+        AutomorphicForm.flat_family_comp_mul_of_mem_adelicMaximalCompact F hα φ hφ hφK hφf hφjc hφhol hφflat k' hk'K
+      have hA := AutomorphicForm.tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_nhds_zero_of_flat_family_of_mem_maximalCompactAt_singleton
+        F hα (fun s h => φ s (h * k')) hψ hψK hψf hψjc hψhol hψflat v kv hkv hkv'
+      have hB := IH φ hφ hφK hφf hφjc hφhol hφflat k' hk'
+      have hsum := hA.add hB
+      rw [add_zero] at hsum
+      refine hsum.congr (fun s => ?_)
+      rw [hcomm, weylIntertwiningIntegral_mul_right, ← one_mul k',
+        weylIntertwiningIntegral_mul_right (adelicAddHaar (𝓞 F) F) (φ s) 1 k', one_mul]
+      ring
+
+  intro φ hφ hφK hφf hφjc hφhol hφflat k hkf hka
+  letI : MeasurableSpace (AdeleRing (𝓞 F) F) := NumberField.AdelicHaar.adeleBorel (𝓞 F) F
+  have hkK : k ∈ adelicMaximalCompact F := mem_adelicMaximalCompact_iff.mpr ⟨hkf, hka⟩
+  obtain ⟨S₀, hS₀⟩ :=
+    AutomorphicForm.exists_forall_apply_mul_eq_of_mem_maximalCompactAway_of_flat_family F hα φ hφ hφK hφf hφjc hφhol hφflat
+  obtain ⟨k₁, k₂, hk₁, hk₂, rfl⟩ :=
+    AutomorphicForm.exists_mem_maximalCompactAt_mul_mem_maximalCompactAway_eq F S₀ k hkK
+  have hcut : ∀ s : ℂ, weylIntertwiningIntegral (𝓞 F) F (adelicAddHaar (𝓞 F) F) (φ s) (k₁ * k₂)
+      = weylIntertwiningIntegral (𝓞 F) F (adelicAddHaar (𝓞 F) F) (φ s) k₁ := by
+    intro s
+    simp only [weylIntertwiningIntegral]
+    refine integral_congr_ae (Filter.Eventually.of_forall (fun x => ?_))
+    show φ s ((adelicWeyl (𝓞 F) F)⁻¹ * unipotentGL2 x * (k₁ * k₂)) = φ s ((adelicWeyl (𝓞 F) F)⁻¹ * unipotentGL2 x * k₁)
+    rw [← mul_assoc]
+    exact hS₀ s _ k₂ hk₂
+  simp_rw [hcut]
+  exact main S₀ φ hφ hφK hφf hφjc hφhol hφflat k₁ hk₁
+
+end S_AutomorphicForm_tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_apply_one_nhds_zero_of_flat_family
+end P2MW
+export P2MW.S_AutomorphicForm_tendsto_sub_one_half_mul_weylIntertwiningIntegral_sub_apply_one_nhds_zero_of_flat_family (solution)

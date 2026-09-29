@@ -1,0 +1,40 @@
+-- Prove2me | solution 1 for WorkbookSource.plus_79177
+-- status  : ACCEPTED   (prove)
+-- author  : @wamlart
+-- created : 2026-09-13T07:01:07.314873+00:00
+-- url     : https://prove2.me/submissions/e1ee7e7d-79dd-41e1-ad0f-0fd6eb4d2318
+
+import Mathlib
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+theorem solution (a b c : ℝ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c) (hab : a + b + c = 3) : (a / (b + c) ^ 2 + b / (c + a) ^ 2 + c / (a + b) ^ 2) ≥ 12 / (9 + 7 * a * b * c)   := by
+  have haux0 (a b c : ℝ) (hlow : 0 ≤ a) (hord1 : a ≤ b) (hord2 : b ≤ c) : 0 ≤ (a^8/3 + 5*a^7*b/3 + 5*a^7*c/3 + 2*a^6*b^2 + 35*a^6*b*c/3 + 2*a^6*c^2 - 5*a^5*b^3/3 + 35*a^5*b^2*c/3 + 35*a^5*b*c^2/3 - 5*a^5*c^3/3 - 14*a^4*b^4/3 - 35*a^4*b^3*c/3 + a^4*b^2*c^2/3 - 35*a^4*b*c^3/3 - 14*a^4*c^4/3 - 5*a^3*b^5/3 - 35*a^3*b^4*c/3 - 35*a^3*b^3*c^2/3 - 35*a^3*b^2*c^3/3 - 35*a^3*b*c^4/3 - 5*a^3*c^5/3 + 2*a^2*b^6 + 35*a^2*b^5*c/3 + a^2*b^4*c^2/3 - 35*a^2*b^3*c^3/3 + a^2*b^2*c^4/3 + 35*a^2*b*c^5/3 + 2*a^2*c^6 + 5*a*b^7/3 + 35*a*b^6*c/3 + 35*a*b^5*c^2/3 - 35*a*b^4*c^3/3 - 35*a*b^3*c^4/3 + 35*a*b^2*c^5/3 + 35*a*b*c^6/3 + 5*a*c^7/3 + b^8/3 + 5*b^7*c/3 + 2*b^6*c^2 - 5*b^5*c^3/3 - 14*b^4*c^4/3 - 5*b^3*c^5/3 + 2*b^2*c^6 + 5*b*c^7/3 + c^8/3) := by
+    have hdiff1 : 0 ≤ (b - a) := by linarith
+    have hdiff2 : 0 ≤ (c - b) := by linarith
+    have hpos : 0 ≤ (560/3 : ℝ) * a^6 * (b - a)^2 + (560/3 : ℝ) * a^6 * (b - a)^1 * (c - b)^1 + (560/3 : ℝ) * a^6 * (c - b)^2 + (1952/3 : ℝ) * a^5 * (b - a)^3 + (976 : ℝ) * a^5 * (b - a)^2 * (c - b)^1 + (1264 : ℝ) * a^5 * (b - a)^1 * (c - b)^2 + (1408/3 : ℝ) * a^5 * (c - b)^3 + (896 : ℝ) * a^4 * (b - a)^4 + (1792 : ℝ) * a^4 * (b - a)^3 * (c - b)^1 + (8864/3 : ℝ) * a^4 * (b - a)^2 * (c - b)^2 + (6176/3 : ℝ) * a^4 * (b - a)^1 * (c - b)^3 + (1328/3 : ℝ) * a^4 * (c - b)^4 + (608 : ℝ) * a^3 * (b - a)^5 + (1520 : ℝ) * a^3 * (b - a)^4 * (c - b)^1 + (9568/3 : ℝ) * a^3 * (b - a)^3 * (c - b)^2 + (3264 : ℝ) * a^3 * (b - a)^2 * (c - b)^3 + (1392 : ℝ) * a^3 * (b - a)^1 * (c - b)^4 + (608/3 : ℝ) * a^3 * (c - b)^5 + (203 : ℝ) * a^2 * (b - a)^6 + (609 : ℝ) * a^2 * (b - a)^5 * (c - b)^1 + (5042/3 : ℝ) * a^2 * (b - a)^4 * (c - b)^2 + (7039/3 : ℝ) * a^2 * (b - a)^3 * (c - b)^3 + (4562/3 : ℝ) * a^2 * (b - a)^2 * (c - b)^4 + (449 : ℝ) * a^2 * (b - a)^1 * (c - b)^5 + (145/3 : ℝ) * a^2 * (c - b)^6 + (80/3 : ℝ) * a^1 * (b - a)^7 + (280/3 : ℝ) * a^1 * (b - a)^6 * (c - b)^1 + (1180/3 : ℝ) * a^1 * (b - a)^5 * (c - b)^2 + (750 : ℝ) * a^1 * (b - a)^4 * (c - b)^3 + (2024/3 : ℝ) * a^1 * (b - a)^3 * (c - b)^4 + (926/3 : ℝ) * a^1 * (b - a)^2 * (c - b)^5 + (208/3 : ℝ) * a^1 * (b - a)^1 * (c - b)^6 + (6 : ℝ) * a^1 * (c - b)^7 + (80/3 : ℝ) * (b - a)^6 * (c - b)^2 + (80 : ℝ) * (b - a)^5 * (c - b)^3 + (296/3 : ℝ) * (b - a)^4 * (c - b)^4 + (64 : ℝ) * (b - a)^3 * (c - b)^5 + (23 : ℝ) * (b - a)^2 * (c - b)^6 + (13/3 : ℝ) * (b - a)^1 * (c - b)^7 + (1/3 : ℝ) * (c - b)^8 := by positivity
+    convert hpos using 1 <;> ring
+  have hp : 0 ≤ (a^8/3 + 5*a^7*b/3 + 5*a^7*c/3 + 2*a^6*b^2 + 35*a^6*b*c/3 + 2*a^6*c^2 - 5*a^5*b^3/3 + 35*a^5*b^2*c/3 + 35*a^5*b*c^2/3 - 5*a^5*c^3/3 - 14*a^4*b^4/3 - 35*a^4*b^3*c/3 + a^4*b^2*c^2/3 - 35*a^4*b*c^3/3 - 14*a^4*c^4/3 - 5*a^3*b^5/3 - 35*a^3*b^4*c/3 - 35*a^3*b^3*c^2/3 - 35*a^3*b^2*c^3/3 - 35*a^3*b*c^4/3 - 5*a^3*c^5/3 + 2*a^2*b^6 + 35*a^2*b^5*c/3 + a^2*b^4*c^2/3 - 35*a^2*b^3*c^3/3 + a^2*b^2*c^4/3 + 35*a^2*b*c^5/3 + 2*a^2*c^6 + 5*a*b^7/3 + 35*a*b^6*c/3 + 35*a*b^5*c^2/3 - 35*a*b^4*c^3/3 - 35*a*b^3*c^4/3 + 35*a*b^2*c^5/3 + 35*a*b*c^6/3 + 5*a*c^7/3 + b^8/3 + 5*b^7*c/3 + 2*b^6*c^2 - 5*b^5*c^3/3 - 14*b^4*c^4/3 - 5*b^3*c^5/3 + 2*b^2*c^6 + 5*b*c^7/3 + c^8/3) := by
+    rcases le_total a b with hab | hba
+    · rcases le_total b c with hbc | hcb
+      ·
+        convert haux0 a b c (by positivity) (by linarith) (by linarith) using 1 <;> ring
+      · rcases le_total a c with hac | hca
+        ·
+          convert haux0 a c b (by positivity) (by linarith) (by linarith) using 1 <;> ring
+        ·
+          convert haux0 c a b (by positivity) (by linarith) (by linarith) using 1 <;> ring
+    · rcases le_total a c with hbc | hcb
+      ·
+        convert haux0 b a c (by positivity) (by linarith) (by linarith) using 1 <;> ring
+      · rcases le_total b c with hac | hca
+        ·
+          convert haux0 b c a (by positivity) (by linarith) (by linarith) using 1 <;> ring
+        ·
+          convert haux0 c b a (by positivity) (by linarith) (by linarith) using 1 <;> ring
+  have he : (7*a^6*b*c + 14*a^5*b^2*c + 14*a^5*b*c^2 + 9*a^5 + 7*a^4*b^3*c + 28*a^4*b^2*c^2 - 12*a^4*b^2 + 7*a^4*b*c^3 - 24*a^4*b*c + 18*a^4*b - 12*a^4*c^2 + 18*a^4*c + 7*a^3*b^4*c + 35*a^3*b^3*c^2 - 24*a^3*b^3 + 35*a^3*b^2*c^3 - 72*a^3*b^2*c + 9*a^3*b^2 + 7*a^3*b*c^4 - 72*a^3*b*c^2 + 36*a^3*b*c - 24*a^3*c^3 + 9*a^3*c^2 + 14*a^2*b^5*c + 28*a^2*b^4*c^2 - 12*a^2*b^4 + 35*a^2*b^3*c^3 - 72*a^2*b^3*c + 9*a^2*b^3 + 28*a^2*b^2*c^4 - 120*a^2*b^2*c^2 + 45*a^2*b^2*c + 14*a^2*b*c^5 - 72*a^2*b*c^3 + 45*a^2*b*c^2 - 12*a^2*c^4 + 9*a^2*c^3 + 7*a*b^6*c + 14*a*b^5*c^2 + 7*a*b^4*c^3 - 24*a*b^4*c + 18*a*b^4 + 7*a*b^3*c^4 - 72*a*b^3*c^2 + 36*a*b^3*c + 14*a*b^2*c^5 - 72*a*b^2*c^3 + 45*a*b^2*c^2 + 7*a*b*c^6 - 24*a*b*c^4 + 36*a*b*c^3 + 18*a*c^4 + 9*b^5 - 12*b^4*c^2 + 18*b^4*c - 24*b^3*c^3 + 9*b^3*c^2 - 12*b^2*c^4 + 9*b^2*c^3 + 18*b*c^4 + 9*c^5) = (a^8/3 + 5*a^7*b/3 + 5*a^7*c/3 + 2*a^6*b^2 + 35*a^6*b*c/3 + 2*a^6*c^2 - 5*a^5*b^3/3 + 35*a^5*b^2*c/3 + 35*a^5*b*c^2/3 - 5*a^5*c^3/3 - 14*a^4*b^4/3 - 35*a^4*b^3*c/3 + a^4*b^2*c^2/3 - 35*a^4*b*c^3/3 - 14*a^4*c^4/3 - 5*a^3*b^5/3 - 35*a^3*b^4*c/3 - 35*a^3*b^3*c^2/3 - 35*a^3*b^2*c^3/3 - 35*a^3*b*c^4/3 - 5*a^3*c^5/3 + 2*a^2*b^6 + 35*a^2*b^5*c/3 + a^2*b^4*c^2/3 - 35*a^2*b^3*c^3/3 + a^2*b^2*c^4/3 + 35*a^2*b*c^5/3 + 2*a^2*c^6 + 5*a*b^7/3 + 35*a*b^6*c/3 + 35*a*b^5*c^2/3 - 35*a*b^4*c^3/3 - 35*a*b^3*c^4/3 + 35*a*b^2*c^5/3 + 35*a*b*c^6/3 + 5*a*c^7/3 + b^8/3 + 5*b^7*c/3 + 2*b^6*c^2 - 5*b^5*c^3/3 - 14*b^4*c^4/3 - 5*b^3*c^5/3 + 2*b^2*c^6 + 5*b*c^7/3 + c^8/3) := by
+    linear_combination (-a^7/3 - 4*a^6*b/3 - 4*a^6*c/3 - a^6 - 2*a^5*b^2/3 - 2*a^5*b*c - 3*a^5*b - 2*a^5*c^2/3 - 3*a^5*c - 3*a^5 + 7*a^4*b^3/3 + 5*a^4*b^2*c + a^4*b^2 + 5*a^4*b*c^2 - 6*a^4*b + 7*a^4*c^3/3 + a^4*c^2 - 6*a^4*c + 7*a^3*b^4/3 + 34*a^3*b^3*c/3 + 6*a^3*b^3 + 53*a^3*b^2*c^2/3 + 14*a^3*b^2*c - 3*a^3*b^2 + 34*a^3*b*c^3/3 + 14*a^3*b*c^2 - 12*a^3*b*c + 7*a^3*c^4/3 + 6*a^3*c^3 - 3*a^3*c^2 - 2*a^2*b^5/3 + 5*a^2*b^4*c + a^2*b^4 + 53*a^2*b^3*c^2/3 + 14*a^2*b^3*c - 3*a^2*b^3 + 53*a^2*b^2*c^3/3 + 25*a^2*b^2*c^2 - 15*a^2*b^2*c + 5*a^2*b*c^4 + 14*a^2*b*c^3 - 15*a^2*b*c^2 - 2*a^2*c^5/3 + a^2*c^4 - 3*a^2*c^3 - 4*a*b^6/3 - 2*a*b^5*c - 3*a*b^5 + 5*a*b^4*c^2 - 6*a*b^4 + 34*a*b^3*c^3/3 + 14*a*b^3*c^2 - 12*a*b^3*c + 5*a*b^2*c^4 + 14*a*b^2*c^3 - 15*a*b^2*c^2 - 2*a*b*c^5 - 12*a*b*c^3 - 4*a*c^6/3 - 3*a*c^5 - 6*a*c^4 - b^7/3 - 4*b^6*c/3 - b^6 - 2*b^5*c^2/3 - 3*b^5*c - 3*b^5 + 7*b^4*c^3/3 + b^4*c^2 - 6*b^4*c + 7*b^3*c^4/3 + 6*b^3*c^3 - 3*b^3*c^2 - 2*b^2*c^5/3 + b^2*c^4 - 3*b^2*c^3 - 4*b*c^6/3 - 3*b*c^5 - 6*b*c^4 - c^7/3 - c^6 - 3*c^5) * hab
+  have hn : 0 ≤ (7*a^6*b*c + 14*a^5*b^2*c + 14*a^5*b*c^2 + 9*a^5 + 7*a^4*b^3*c + 28*a^4*b^2*c^2 - 12*a^4*b^2 + 7*a^4*b*c^3 - 24*a^4*b*c + 18*a^4*b - 12*a^4*c^2 + 18*a^4*c + 7*a^3*b^4*c + 35*a^3*b^3*c^2 - 24*a^3*b^3 + 35*a^3*b^2*c^3 - 72*a^3*b^2*c + 9*a^3*b^2 + 7*a^3*b*c^4 - 72*a^3*b*c^2 + 36*a^3*b*c - 24*a^3*c^3 + 9*a^3*c^2 + 14*a^2*b^5*c + 28*a^2*b^4*c^2 - 12*a^2*b^4 + 35*a^2*b^3*c^3 - 72*a^2*b^3*c + 9*a^2*b^3 + 28*a^2*b^2*c^4 - 120*a^2*b^2*c^2 + 45*a^2*b^2*c + 14*a^2*b*c^5 - 72*a^2*b*c^3 + 45*a^2*b*c^2 - 12*a^2*c^4 + 9*a^2*c^3 + 7*a*b^6*c + 14*a*b^5*c^2 + 7*a*b^4*c^3 - 24*a*b^4*c + 18*a*b^4 + 7*a*b^3*c^4 - 72*a*b^3*c^2 + 36*a*b^3*c + 14*a*b^2*c^5 - 72*a*b^2*c^3 + 45*a*b^2*c^2 + 7*a*b*c^6 - 24*a*b*c^4 + 36*a*b*c^3 + 18*a*c^4 + 9*b^5 - 12*b^4*c^2 + 18*b^4*c - 24*b^3*c^3 + 9*b^3*c^2 - 12*b^2*c^4 + 9*b^2*c^3 + 18*b*c^4 + 9*c^5) := by nlinarith only [hp, he]
+  field_simp (disch := positivity)
+  nlinarith only [hn]
+example : (∀ (a b c : ℝ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c) (hab : a + b + c = 3), (a / (b + c) ^ 2 + b / (c + a) ^ 2 + c / (a + b) ^ 2) ≥ 12 / (9 + 7 * a * b * c)) := @solution
+#print axioms solution

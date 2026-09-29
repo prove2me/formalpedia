@@ -1,0 +1,16 @@
+-- Prove2me | solution 1 for WorkbookSource.base_43462
+-- status  : ACCEPTED   (prove)
+-- author  : @wamlart
+-- created : 2026-09-12T22:57:21.699653+00:00
+-- url     : https://prove2.me/submissions/c5d4cb8d-3350-4ef7-b316-d3a932a94af6
+
+import Mathlib
+set_option autoImplicit false
+set_option maxHeartbeats 400000
+theorem solution (a b c : ℝ) : a^2 * (c^2 * a^2 + a^2 * b^2 + a * c^2 * b + c^4) + 2 * b^4 * c^2 ≥ a * c * (a^2 + 2 * b^2) * (a * b + c^2)  := by
+  have h0 : 0 ≤ (2 : ℝ) * (-a^2*b/2 - a*c^2/2 + b^2*c)^2 := mul_nonneg (by norm_num) (sq_nonneg _)
+  have h1 : 0 ≤ (1 : ℝ) * (-a^2*b/2 + a^2*c - a*c^2/2)^2 := mul_nonneg (by norm_num) (sq_nonneg _)
+  have h2 : 0 ≤ (1/4 : ℝ) * (-a^2*b + a*c^2)^2 := mul_nonneg (by norm_num) (sq_nonneg _)
+  nlinarith only [h0, h1, h2]
+example : (∀ (a b c : ℝ), a^2 * (c^2 * a^2 + a^2 * b^2 + a * c^2 * b + c^4) + 2 * b^4 * c^2 ≥ a * c * (a^2 + 2 * b^2) * (a * b + c^2)) := @solution
+#print axioms solution

@@ -1,0 +1,75 @@
+-- Prove2me | Theorems.Thm_FifthRootsGolden_periods_golden
+-- name    : FifthRootsGolden.periods_golden
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-11T15:49:20.833971+00:00
+-- url     : https://prove2.me/theorems/b524fd90-f761-46d8-9aef-07829d3770ff
+-- title:
+--   The set of Gaussian periods is exactly `{-φ, -ψ}`, giving the explicit bridge to
+-- statement:
+--   The set of Gaussian periods is exactly `{-φ, -ψ}`, giving the explicit bridge to
+--   the golden ratio.  (Which period equals which root depends on the choice of `ζ`.)
+--
+--   ```lean
+--   theorem FifthRootsGolden.periods_golden(ζ : ℂ) (h : IsPrimitiveRoot ζ 5) :
+--       (p ζ = -((goldenRatio : ℝ) : ℂ) ∧ q ζ = -((goldenConj : ℝ) : ℂ)) ∨
+--       (p ζ = -((goldenConj : ℝ) : ℂ) ∧ q ζ = -((goldenRatio : ℝ) : ℂ)) := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Novelty/FifthRootsGoldenBridge.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Novelty/FifthRootsGoldenBridge.lean#L88
+
+-- Thm stub generated from Novelty/FifthRootsGoldenBridge.lean
+import Mathlib
+import Definitions.Def_Novelty_FifthRootsGoldenBridge
+/-
+# A Cross-Domain Bridge: Fifth Roots of Unity ↔ Fibonacci and Lucas Numbers
+
+This file establishes, in a fully self-contained way, the algebraic bridge that
+underlies the study of `σ₅(n)`, the minimal absolute value of a non-vanishing sum
+of `n` fifth roots of unity.
+
+The key objects are the two *Gaussian periods* of the fifth cyclotomic field:
+
+* `p ζ = ζ + ζ⁴`
+* `q ζ = ζ² + ζ³`
+
+for a primitive fifth root of unity `ζ`.  These are real quadratic irrationals and
+are exactly the two roots of `x² + x - 1 = 0`, i.e. `{-φ, -ψ}` where `φ` is the golden
+ratio and `ψ = goldenConj` its conjugate.  This is the bridge between:
+
+* **fifth roots of unity** (cyclotomic / algebraic number theory), and
+* **the golden ratio, Fibonacci and Lucas numbers** (combinatorial number theory).
+
+Main results (all unconditional in the choice of primitive root `ζ`):
+
+* `periods_sum_prod`  : `p ζ + q ζ = -1` and `p ζ * q ζ = -1`.
+* `periods_golden`    : `{p ζ, q ζ} = {-φ, -ψ}`.
+* `fifthRoots_lucas_bridge` : `(p ζ)^n + (q ζ)^n = (-1)^n · Lₙ`  (Lucas numbers).
+* `fifthRoots_fib_bridge`   : `((p ζ)^n - (q ζ)^n)² = 5 · (Fₙ)²`  (Fibonacci numbers).
+* `golden_ratio_is_modulus` : `{‖p ζ‖, ‖q ζ‖} = {φ, φ⁻¹}`, so the golden ratio is
+  realized *exactly* as the modulus of a sum of two fifth roots of unity — and `φ⁻¹`
+  is the minimal such modulus, which is precisely `σ₅(2)`.
+* `sigma5_two` : `IsLeast {‖ζ^i + ζ^j‖ | i j} φ⁻¹`, a fully formal statement that `φ⁻¹`
+  is the least modulus among *all* two-term sums of fifth roots of unity, i.e. the value
+  `σ₅(2) = φ⁻¹`.
+
+The full monotonicity / jump characterization of `σ₅(n)` (with jumps located at
+`5Fₘ, Lₘ, 2Lₘ`) is discussed in `FUTURE_DIRECTIONS.md`; this file proves the exact
+algebraic connection that makes Fibonacci and Lucas numbers appear in that problem.
+-/
+
+open Real
+
+open FifthRootsGolden
+
+/-! ## Lucas numbers and their Binet formula -/
+
+
+
+/-! ## The Gaussian periods of the fifth cyclotomic field -/
+
+theorem FifthRootsGolden.periods_golden(ζ : ℂ) (h : IsPrimitiveRoot ζ 5) :
+    (p ζ = -((goldenRatio : ℝ) : ℂ) ∧ q ζ = -((goldenConj : ℝ) : ℂ)) ∨
+    (p ζ = -((goldenConj : ℝ) : ℂ) ∧ q ζ = -((goldenRatio : ℝ) : ℂ)) := by sorry

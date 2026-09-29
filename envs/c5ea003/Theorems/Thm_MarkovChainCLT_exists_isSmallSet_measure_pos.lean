@@ -1,0 +1,28 @@
+-- Prove2me | Theorems.Thm_MarkovChainCLT_exists_isSmallSet_measure_pos
+-- name    : MarkovChainCLT.exists_isSmallSet_measure_pos
+-- status  : Proved
+-- author  : @Nickrobbins95
+-- created : 2026-09-06T18:03:54.995678+00:00
+-- url     : https://prove2.me/theorems/b31e2e53-c01a-40d7-ac78-3f78658a3927
+-- title:
+--   A geometrically ergodic chain has a small set of positive invariant measure
+-- statement:
+--   Let $P$ be a Markov transition kernel on a state space $\mathsf{X}$ whose $\sigma$-field is countably generated, let $\pi$ be an invariant probability measure, and suppose the chain is Harris ergodic and **geometrically ergodic**: there are a function $M \ge 0$ and a constant $t < 1$ with $\|P^n(x,\cdot) - \pi\| \le M(x)\,t^n$ for every $x$ and every $n \ge 1$. Then the chain possesses a measurable **small set of positive invariant measure**: there is a measurable $C \subseteq \mathsf{X}$ with $\pi(C) > 0$ for which one can find an integer $n_0 \ge 1$, a constant $\varepsilon > 0$ and a probability measure $Q$ satisfying the minorization $P^{n_0}(x, A) \ge \varepsilon\, Q(A)$ simultaneously for every $x \in C$ and every measurable $A$.
+--
+--   This is the measure-theoretic half of Meyn and Tweedie's Theorem 15.0.1 (i) $\Rightarrow$ (iii), isolated from its analytic half. In the classical treatment the small set is produced by Theorem 5.2.2 from $\psi$-irreducibility, by Nummelin splitting together with a rectangle-extraction argument. Under geometric ergodicity that machinery is unnecessary, and the proof given here avoids it. Write $f_n(x, y)$ for the Radon-Nikodym density of the absolutely continuous part of $P^n(x,\cdot)$ with respect to $\pi$, which is jointly measurable precisely because the $\sigma$-field is countably generated. The elementary observation driving the argument is that if $\pi(A) \le \mu(A) + u$ for every measurable $A$, then $\pi\{y : (\mathrm{d}\mu/\mathrm{d}\pi)(y) < 1/2\} \le 2u$; applied with $\mu = P^n(x,\cdot)$ and $u = M(x)t^n$, this says that the set of states where the $n$-step density is small is itself small **in measure**, not merely of positive complement, and it is this quantitative strengthening that removes the need for rectangle extraction. Cutting the state space along a level set of $x \mapsto \pi\{y : f_n(x,y) < 1/2\}$ produces a set $C$ of positive $\pi$-measure on which that bound is uniform; one application of Tonelli's theorem on $\pi \times \pi$, followed by Markov's inequality, yields a set $D$ with $\pi(D) \ge 1/2$ whose points are reached with density at least $1/2$ from all but a quarter of $C$. Composing the two half-steps gives $P^{2n}(x, A) \ge \tfrac{1}{8}\,\pi(C)\,\pi(D \cap A)$ for every $x \in C$, which is the required minorization with $n_0 = 2n$, $\varepsilon = \tfrac{1}{8}\pi(C)\pi(D)$ and $Q$ the normalized restriction of $\pi$ to $D$.
+--
+--   Two remarks on the scope of the statement. First, the conclusion is not free. The identity kernel on $\mathbb{R}$ leaves the uniform law on $[0,1]$ invariant, yet under it every small set is a singleton or empty and therefore null, so no measurable small set of positive measure exists: some ergodicity hypothesis is genuinely doing work. Second, countable generation of the $\sigma$-field is load-bearing rather than decorative, and enters twice — as the hypothesis of the kernel Radon-Nikodym theorem that makes the densities $f_n$ jointly measurable, and as the assumption that excludes the countable/co-countable state spaces on which the accepted refutation of the sibling problem `MarkovChainCLT.geometricallyErgodic_integrable_rate` is built, and on which the present statement is in fact false. It should be recorded that the proof consumes only the geometric total-variation bound: the invariance of $\pi$ carried by `HarrisErgodic` is never used, and the hypothesis is retained solely so that the statement matches the binder list of the parent problem `MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic`.
+-- source:
+--   G. L. Jones, "On the Markov Chain Central Limit Theorem", Probability Surveys 1 (2004) 299-320, arXiv math/0409112v2, Section 2 (eqs. (3) and (4)). Original: S. P. Meyn & R. L. Tweedie, Markov Chains and Stochastic Stability, Springer 1993 (2nd ed., Cambridge University Press 2009): Theorem 5.2.2 (existence of small sets), under the standing assumption of Section 3.1 (countably generated sigma-field). This is the measure-theoretic half of the implication (i) => (iii) of their Theorem 15.0.1, specialized to the geometrically ergodic case: where Theorem 5.2.2 extracts a small set from psi-irreducibility via Nummelin splitting, the statement here obtains one directly from the geometric total-variation rate, and the invariant measure supplies psi, so the resulting small set has positive invariant measure. It is the hypothesis 'IsSmallSet P C' consumed by MarkovChainCLT.ergodicWithRate_of_geoDriftCondition, MarkovChainCLT.integrable_of_geoDriftCondition, MarkovChainCLT.clt_of_geometric_drift and MarkovChainCLT.clt_of_polynomial_drift, and the set demanded by the conclusion of MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic.
+
+import Definitions.Def_MarkovErgodicity
+import Definitions.Def_MarkovDriftMinorization
+
+open MeasureTheory ProbabilityTheory Filter
+open scoped ENNReal NNReal Topology ProbabilityTheory
+
+theorem MarkovChainCLT.exists_isSmallSet_measure_pos {X : Type*} [MeasurableSpace X]
+    [MeasurableSpace.CountablyGenerated X]
+    (P : Kernel X X) [IsMarkovKernel P] (π : Measure X) [IsProbabilityMeasure π]
+    (hP : HarrisErgodic P π) (hgeo : GeometricallyErgodic P π) :
+    ∃ C : Set X, MeasurableSet C ∧ IsSmallSet P C ∧ 0 < π C := by sorry

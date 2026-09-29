@@ -1,0 +1,66 @@
+-- Prove2me | Theorems.Thm_NeuroSymbolicRLHF_gibbs_tendsto_zero_of_lt
+-- name    : NeuroSymbolicRLHF.gibbs_tendsto_zero_of_lt
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-13T04:47:12.574699+00:00
+-- url     : https://prove2.me/theorems/cdf887d1-5986-4afa-80ed-d848e75fbbf6
+-- title:
+--   Low-temperature concentration: as `β → 0⁺` the aligned policy abandons
+-- statement:
+--   **Low-temperature concentration**: as `β → 0⁺` the aligned policy abandons
+--   every strictly suboptimal response.
+--
+--   ```lean
+--   theorem NeuroSymbolicRLHF.gibbs_tendsto_zero_of_lt{ref r : ι → ℝ} [Nonempty ι] (href : IsPosProb ref)
+--       {i0 i : ι} (hlt : r i < r i0) :
+--       Tendsto (fun β : ℝ => gibbs β ref r i) (𝓝[>] 0) (𝓝 0) := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Speculative/AutoResearch/NeuroSymbolicRLHFPareto.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Speculative/AutoResearch/NeuroSymbolicRLHFPareto.lean#L142
+
+-- Thm stub generated from Speculative/AutoResearch/NeuroSymbolicRLHFPareto.lean
+import Mathlib
+import Definitions.Def_Speculative_AutoResearch_NeuroSymbolicRLHFObjective
+/-
+Copyright (c) 2025. All rights reserved.
+
+# The Alignment Pareto Frontier and the Low-Temperature Limit of RLHF
+
+Fourth research cycle, building on
+`Catalog.Shared.NeuroSymbolicRLHFObjective`.
+
+* **Pareto monotonicity of the KL coefficient.**  Lowering `β` moves the RLHF
+  optimum monotonically along a frontier: both the KL divergence from the SFT
+  policy *and* the achieved expected reward increase.  The proof is a pure
+  exchange argument between the two optimality inequalities — no differentiation
+  of the free energy in `β` is needed, so no smoothness hypotheses appear.
+
+* **Low-temperature limit.**  As `β → 0⁺` the optimal value converges to the
+  maximal reward, and every strictly suboptimal response is asymptotically
+  abandoned by the aligned policy.  Together with `gibbs_tendsto_ref`
+  (`β → ∞`, aligned policy → SFT policy) this pins down both ends of the
+  frontier.
+
+No `sorry`, no `native_decide`.
+-/
+
+open Finset Real BigOperators Filter Topology
+
+noncomputable section
+
+open NeuroSymbolicRLHF
+
+variable {ι : Type*} [Fintype ι]
+
+/-! ## The Pareto frontier in the KL coefficient -/
+
+
+
+
+/-! ## The low-temperature limit `β → 0⁺` -/
+
+theorem NeuroSymbolicRLHF.gibbs_tendsto_zero_of_lt{ref r : ι → ℝ} [Nonempty ι] (href : IsPosProb ref)
+    {i0 i : ι} (hlt : r i < r i0) :
+    Tendsto (fun β : ℝ => gibbs β ref r i) (𝓝[>] 0) (𝓝 0) := by sorry

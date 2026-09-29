@@ -1,0 +1,84 @@
+-- Prove2me | Theorems.Thm_AlmostLossless_exact_card_collides_planar
+-- name    : AlmostLossless.exact_card_collides_planar
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-12T14:16:56.56646+00:00
+-- url     : https://prove2.me/theorems/86a4b458-aeda-4bb6-942a-d4599d3cdf64
+-- title:
+--   Exact collision count for a typical set.
+-- statement:
+--   **Exact collision count for a typical set.**  Let `D` be a set of
+--   representatives for the projective directions of the differences of `T`
+--   (nonzero, pairwise non-proportional, covering every difference, and each really
+--   occurring as a difference).  Then the number of bad seeds is exactly
+--   `1 + |D|(p-1)` — no union bound, an identity.
+--
+--   ```lean
+--   theorem AlmostLossless.exact_card_collides_planar(T : Finset (Fin 2 → ZMod p))
+--       (D : Finset (Fin 2 → ZMod p)) (hD : D.Nonempty) (h0 : ∀ z ∈ D, z ≠ 0)
+--       (hnp : ∀ z ∈ D, ∀ w ∈ D, z ≠ w → z 0 * w 1 - z 1 * w 0 ≠ 0)
+--       (hcov : ∀ x ∈ T, ∀ y ∈ T, x ≠ y → ∃ z ∈ D, ∃ c : ZMod p, c ≠ 0 ∧ x - y = c • z)
+--       (hreal : ∀ z ∈ D, ∃ x ∈ T, ∃ y ∈ T, ∃ c : ZMod p, c ≠ 0 ∧ x - y = c • z) :
+--       #{a : Fin 2 → ZMod p | CollidesOn (dotHash p 2) T a} = 1 + D.card * (p - 1) := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Logic/AlmostLossless/ExactPlanar.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Logic/AlmostLossless/ExactPlanar.lean#L135
+
+-- Thm stub generated from Logic/AlmostLossless/ExactPlanar.lean
+import Mathlib
+import Definitions.Def_Logic_AlmostLossless_ExactPlanar
+import Definitions.Def_Logic_AlmostLossless_Hashing
+
+/-!
+# The exact failure probability of the planar inner-product compressor
+
+The union bound of `AlmostLossless.collisionProb_le` charges one `1/p` per pair
+of typical words.  In dimension `k = 2` the truth is *exactly* computable, and
+it is strictly better whenever two pairs of typical words happen to differ by
+proportional vectors: only the **projective directions** of the difference set
+matter.
+
+For a seed `a ∈ (ZMod p)²` the hash `x ↦ ⟨a,x⟩` confuses `x` and `y` iff `a`
+lies on the line orthogonal to `x - y`.  Distinct projective directions give
+lines meeting only at the origin, so the bad seeds form a "pencil" of `d` lines
+through `0`:
+
+`#{bad seeds} = 1 + d·(p-1)`, i.e. `P(failure) = (1 + d(p-1))/p²`,
+
+where `d` is the number of distinct directions among the differences of typical
+words (`AlmostLossless.exact_card_collides_planar`).  Since `d ≤ |T|(|T|-1)/2`,
+this refines the union bound, and it is an *equality*, so the falsifiability
+gate of the research thread is met with an exact figure rather than a bound.
+
+This is a small bridge between finite projective geometry over `𝔽_p` and the
+Monte-Carlo analysis of a compressor.
+-/
+
+open AlmostLossless
+
+open Finset
+
+
+variable {p : ℕ} [Fact p.Prime]
+
+/-! ## Elementary identities for the inner-product hash -/
+
+
+
+
+
+
+
+/-! ## The pencil of bad seeds -/
+
+
+/-! ## Exact failure probability of the planar compressor -/
+
+theorem AlmostLossless.exact_card_collides_planar(T : Finset (Fin 2 → ZMod p))
+    (D : Finset (Fin 2 → ZMod p)) (hD : D.Nonempty) (h0 : ∀ z ∈ D, z ≠ 0)
+    (hnp : ∀ z ∈ D, ∀ w ∈ D, z ≠ w → z 0 * w 1 - z 1 * w 0 ≠ 0)
+    (hcov : ∀ x ∈ T, ∀ y ∈ T, x ≠ y → ∃ z ∈ D, ∃ c : ZMod p, c ≠ 0 ∧ x - y = c • z)
+    (hreal : ∀ z ∈ D, ∃ x ∈ T, ∃ y ∈ T, ∃ c : ZMod p, c ≠ 0 ∧ x - y = c • z) :
+    #{a : Fin 2 → ZMod p | CollidesOn (dotHash p 2) T a} = 1 + D.card * (p - 1) := by sorry

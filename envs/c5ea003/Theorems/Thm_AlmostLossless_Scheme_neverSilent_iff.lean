@@ -1,0 +1,84 @@
+-- Prove2me | Theorems.Thm_AlmostLossless_Scheme_neverSilent_iff
+-- name    : AlmostLossless.Scheme.neverSilent_iff
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-10T23:04:45.066708+00:00
+-- url     : https://prove2.me/theorems/731f9d3d-f032-421c-976f-2fa335949d36
+-- title:
+--   NeverSilent iff
+-- statement:
+--   Formal statement of `AlmostLossless.Scheme.neverSilent_iff` from the Aether Catalog (Bridges). The mathematical content is given by the Lean statement below; a human-readable write-up is pending.
+--
+--   ```lean
+--   theorem AlmostLossless.Scheme.neverSilent_iff(sch : Scheme α Code) :
+--       sch.NeverSilent ↔ ∀ x, sch.dec (sch.enc x) = some x ∨ sch.dec (sch.enc x) = none := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Bridges/AlmostLosslessCompression.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Bridges/AlmostLosslessCompression.lean#L121
+
+-- Thm stub generated from Bridges/AlmostLosslessCompression.lean
+import Mathlib
+import Definitions.Def_Bridges_AlmostLosslessCompression
+import Definitions.Def_Bridges_MinEntropy
+/-
+Copyright (c) 2025 Non-Archimedean Information Theory Project. All rights reserved.
+
+# Almost-Lossless Compression I: Schemes and the Relaxed Pigeonhole Bound
+
+## Bridge: Combinatorics (pigeonhole) ↔ Probability (min-entropy) ↔ Coding theory
+
+The exact pigeonhole bound says: a code that decodes *every* source symbol
+correctly needs at least `|α|` codewords.  This file develops the *relaxed*
+(almost-lossless) form of that statement:
+
+* a scheme is an encoder/decoder pair `enc : α → Code`, `dec : Code → Option α`;
+* the decoder may abstain (`none`), and may in principle err silently;
+* the **success set** is the set of symbols decoded exactly.
+
+Main results:
+
+* `enc_injOn_successSet` / `card_successSet_le_card_code` — the exact pigeonhole
+  bound applies to the success set only;
+* `successMass_le` — `P(success) ≤ |Code| · p_max`, i.e. the counting bound is
+  relaxed by a factor governed by the min-entropy of the source;
+* `card_code_ge_of_success` — the converse: to succeed with probability `1 - ε`
+  one needs `|Code| ≥ (1-ε)/p_max`;
+* `log_card_code_ge_of_success` — the same statement in entropy form,
+  `log |Code| ≥ H_∞(μ) + log (1-ε)`;
+* `exact_decoding_pigeonhole` — the classical bound is recovered at `ε = 0`.
+
+## Impact: certified_compression_bound, almost_lossless_converse
+-/
+
+
+open Finset BigOperators NonArchInfoTheory
+
+open AlmostLossless
+
+variable {α : Type*} [Fintype α]
+
+/-! ## Section 1: Mass of a finite set of source symbols -/
+
+
+
+
+
+
+
+
+
+
+/-! ## Section 2: Compression schemes with an abstaining decoder -/
+
+
+variable {Code : Type*}
+
+
+
+
+omit [Fintype α] in
+
+theorem AlmostLossless.Scheme.neverSilent_iff(sch : Scheme α Code) :
+    sch.NeverSilent ↔ ∀ x, sch.dec (sch.enc x) = some x ∨ sch.dec (sch.enc x) = none := by sorry

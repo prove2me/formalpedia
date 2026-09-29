@@ -1,0 +1,32 @@
+-- Prove2me | solution 1 for BookProof.SirkBandLedger.Decimal.leB_iff
+-- status  : ACCEPTED   (prove)
+-- author  : @wamlart
+-- created : 2026-09-12T09:06:22.971989+00:00
+-- url     : https://prove2.me/submissions/55291ce9-66a2-4b8c-94f0-9f3d4f862a45
+
+import Definitions.Def_ChapterSirkBandLedger
+-- Adapted from Leonardo Pedro, timepiece commit 61595bc (Apache-2.0).
+-- https://github.com/leonardopedro/timepiece/blob/61595bc/BookProof/ChapterSirkBandLedger.lean
+open BookProof.SirkBandLedger BookProof.SirkCertificateReader BookProof.BandEnclosure
+open Filter Topology
+set_option autoImplicit false
+set_option maxRecDepth 10000
+
+
+theorem solution (d e : Decimal) : Decimal.leB d e ↔ d.toQ ≤ e.toQ := by
+  have hd : (0 : ℚ) < (10 : ℚ) ^ d.exp := by positivity
+  have he : (0 : ℚ) < (10 : ℚ) ^ e.exp := by positivity
+  rw [Decimal.toQ, Decimal.toQ, div_le_div_iff₀ hd he, Decimal.leB]
+  constructor
+  · intro h
+    have : ((d.mant * 10 ^ e.exp : ℤ) : ℚ) ≤ ((e.mant * 10 ^ d.exp : ℤ) : ℚ) := by
+      exact_mod_cast h
+    push_cast at this
+    linarith
+  · intro h
+    have : ((d.mant * 10 ^ e.exp : ℤ) : ℚ) ≤ ((e.mant * 10 ^ d.exp : ℤ) : ℚ) := by
+      push_cast
+      linarith
+    exact_mod_cast this
+
+#print axioms solution

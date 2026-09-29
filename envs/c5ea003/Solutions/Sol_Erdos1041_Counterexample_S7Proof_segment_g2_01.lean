@@ -1,0 +1,70 @@
+-- Prove2me | solution 1 for Erdos1041.Counterexample.S7Proof.segment_g2_01
+-- status  : ACCEPTED   (prove)
+-- author  : @willcook
+-- created : 2026-09-27T20:41:57.862768+00:00
+-- url     : https://prove2.me/submissions/03e7d19d-46d4-49d2-b2c1-9d2c124ce55d
+
+import Definitions.Def_ErdosProblems_Erdos1041_Counterexample_Defs
+import Definitions.Def_ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra
+import Mathlib
+import Mathlib.Algebra.Polynomial.Derivative
+import Mathlib.Algebra.Polynomial.Div
+import Mathlib.Algebra.Polynomial.Roots
+import Mathlib.Analysis.SpecialFunctions.Complex.Log
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Trigonometric.Basic
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Ring
+import Mathlib.Topology.Connected.LocallyConnected
+import Mathlib.Topology.EMetricSpace.BoundedVariation
+
+/-! External source: ani, erdosproblems.com forum thread 1041, 7 Sept 2026.
+Explicit separating barriers replacing the Riemann-Hurwitz step of Lemma 2.1, at `s = 10⁻⁶`. -/
+
+
+noncomputable section
+
+namespace Erdos1041.Counterexample.S7Proof
+set_option maxRecDepth 10000
+set_option maxHeartbeats 8000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem cert_g2_01_0 (r : ℝ) (hr0 : 0 ≤ r) (hr1 : r ≤ 1) :
+    Hpoly ((-44) + ((-3189827584479 / 1000000000000) - (-44)) * r) (0 + ((-20000000083 / 40000000000) - 0) * r) ≤ 0 := by
+  have ht : 0 ≤ 1 - r := by linarith
+  have hid : Hpoly ((-44) + ((-3189827584479 / 1000000000000) - (-44)) * r) (0 + ((-20000000083 / 40000000000) - 0) * r) = -((
+      39907537294413577288759384999999999999999999962893849600000652325977153487999999999999999999999999999999999999999999875000000000000000000000000000000 * (1 - r) ^ 7
+      + 20243870751041530872305079881618934760792069998284537559261108840439843161660462744987071999999999999999999999999999125000000000000000000000000000000 * r * (1 - r) ^ 6
+      + 4281564669663911771501320277521625044337892529816905005765225360625921075031065685502816766336381759999999999999997375000000000000000000000000000000 * r ^ 2 * (1 - r) ^ 5
+      + 481343149663100599972161306328868613983942807175068630671303283938989920658839312230539117287131386042970838319995625000000000000000000000000000000 * r ^ 3 * (1 - r) ^ 4
+      + 28718802385038152410894995801925165658965862596399256385644552939708759392006835279047000221247833750449262408325998086370000000000000000000000000 * r ^ 4 * (1 - r) ^ 3
+      + 704295078844236496319486030800367422521100700557487034336370265721484349216225371279906763760830687358798433869627856372031676980585000000000000 * r ^ 5 * (1 - r) ^ 2
+      + 405484116237376866146058514396648950729225045843283744402279628496452784289231047260059323573571905678173361560244319786231305462347 * r ^ 6 * (1 - r)
+      + 61787757755991422876482638252104345541728771332921783940352523727440186199060784637079443199226364548403359528567339201231305462347 * r ^ 7) / 125000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000) := by
+    unfold Hpoly
+    ring
+  rw [hid]
+  exact neg_nonpos.mpr (by positivity)
+end Erdos1041.Counterexample.S7Proof
+
+set_option maxRecDepth 10000
+set_option maxHeartbeats 8000000
+open Erdos1041 in
+open Erdos1041.Counterexample in
+open Erdos1041.Counterexample.S7Proof in
+theorem solution (r : ℝ) (hr0 : 0 ≤ r) (hr1 : r ≤ 1) :
+    Hpoly ((-44) + ((-3189827584479 / 1000000000000) - (-44)) * r) (0 + ((-20000000083 / 40000000000) - 0) * r) ≤ 0 := by
+  exact cert_g2_01_0 r hr0 hr1

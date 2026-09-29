@@ -1,0 +1,119 @@
+-- Prove2me | solution 1 for AlgebraicGeometry.RelPicard.exists_forall_finrank_H1_unit_fibreAt_eq_of_finrank_H0_eq_one
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:03.589526+00:00
+-- url     : https://prove2.me/submissions/17f4aafb-80f6-538e-89dd-42a3d530c0e6
+
+import Mathlib
+import Definitions.Def_AlgebraicGeometry_RelPicardAlgEquivZeroCut
+import Definitions.Def_AlgebraicGeometry_RelPicardThetaBundle
+import Definitions.Def_AlgebraicGeometry_TwoAffineOpenCover
+import Definitions.Def_AlgebraicGeometry_TwoChartCechSectionsOf
+import Definitions.Def_SheafOfModules_Monoidal
+import Theorems.Thm_AlgebraicGeometry_Scheme_TwoAffineOpenCover_isLocallyConstant_finrank_ker_sub_finrank_coker_cechDiff_baseChange
+import Theorems.Thm_AlgebraicGeometry_RelPicard_exists_twoAffineOpenCover_fibre_finrank_eq_finrank_cechDiff_baseChange_residueField
+import Theorems.Thm_AlgebraicGeometry_Scheme_TwoAffineOpenCover_exists_linearEquiv_sectionsOf_of_iso
+import Theorems.Thm_AlgebraicGeometry_Scheme_TwoAffineOpenCover_nonempty_linearEquiv_H1_sectionsOf_of_isSeparated
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_AlgebraicGeometry_RelPicard_exists_forall_finrank_H1_unit_fibreAt_eq_of_finrank_H0_eq_one
+p2m_attr_erase "instance" "AlgebraicGeometry.OModulePresheaf.isScalarTower AlgebraicGeometry.Scheme.OrderedAffineCover.instLinearOrder AlgebraicGeometry.OModulePresheaf.module AlgebraicGeometry.Scheme.OrderedAffineCover.instFintype AlgebraicGeometry.Scheme.OrderedAffineCover.instFintypeIdx AlgebraicGeometry.OModulePresheaf.addCommGroup AlgebraicGeometry.Scheme.OrderedAffineCover.instDecidableEqIdx AlgebraicGeometry.OModulePresheaf.moduleSections AlgebraicGeometry.OModulePresheaf.instSubsingletonObjZero AlgebraicGeometry.OModulePresheaf.Leray.relAltC_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_modΓ AlgebraicGeometry.OModulePresheaf.Leray.relAltC_modΓ AlgebraicGeometry.OModulePresheaf.Leray.biC_abGrp AlgebraicGeometry.OModulePresheaf.Leray.relAltH_modΓ AlgebraicGeometry.OModulePresheaf.Leray.ker_relAltd_smul AlgebraicGeometry.OModulePresheaf.Leray.relAltH_scalarTower AlgebraicGeometry.OModulePresheaf.Leray.relAltH_smul AlgebraicGeometry.OModulePresheaf.Leray.biC_module AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instDecidableEqIdx AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintype AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instLinearOrder AlgebraicGeometry.Scheme.OrderedAffineCoverOf.instFintypeIdx DoubleComplex.instModuleE₂I DoubleComplex.Bounded.modR DoubleComplex.instModuleE₂II DoubleComplex.instAddCommGroupE₂II DoubleComplex.Bounded.abGrp DoubleComplex.instAddCommGroupE₂I AlgebraicGeometry.ChowDatum.hι_closed AlgebraicGeometry.ChowDatumProj.hιN_closed AlgebraicGeometry.ChowDatumProj.hp_proper AlgebraicGeometry.ChowDatum.hp_isoU AlgebraicGeometry.ChowDatum.hp_proper AlgebraicGeometry.ProjSpace.algebraAway AlgebraicGeometry.ProjSpace.instIsProperProdOverπ AlgebraicGeometry.ChowDatumProj.hp_isoU AlgebraicGeometry.ProjSpace.isProper_π AlgebraicGeometry.ProjSpace.finiteType_mvPolynomial ProjSpaceCech.GradedModule.H.module ProjSpaceCech.GradedModule.H.addCommGroup"
+p2m_attr_erase "instance" "ProjSpaceCech.GradedModule.sec.instAdd ProjSpaceCech.GradedModule.sec.instNeg ProjSpaceCech.GradedModule.acg ProjSpaceCech.GradedModule.Frac.setoid ProjSpaceCech.GradedModule.modR ProjSpaceCech.GradedModule.sec.instModule ProjSpaceCech.GradedModule.sec.instAddCommGroup ProjSpaceCech.GradedModule.sec.instZero ProjSpaceCech.GradedModule.Presentation.fJ ProjSpaceCech.GradedModule.sec.instSMul ProjSpaceCech.Twist.H.module ProjSpaceCech.Idx.instFintype ProjSpaceCech.Twist.H.addCommGroup ProjSpaceCech.Idx.instDecidableEq ProjSpaceCech.Twist.Mon.instDecidableEq ProjSpaceCech.Twist.cochain.instAddCommGroup ProjSpaceCech.Twist.cochain.instModule"
+p2m_attr_erase "simp" "AlgebraicGeometry.Scheme.OrderedAffineCover.mk.injEq AlgebraicGeometry.OModulePresheaf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.mk.injEq TwoChartCech.Mumford.dK_apply TwoChartCech.Mumford.ι0_apply TwoChartCech.Mumford.ι1_apply TwoChartCech.KerCoprod.dK_apply TwoChartCech.KerCoprod.ι1_apply TwoChartCech.KerCoprod.ι0_apply AlgebraicGeometry.OModulePresheaf.prod_obj AlgebraicGeometry.OModulePresheaf.restrOpen_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.injEq AlgebraicGeometry.OModulePresheaf.pushforward_obj AlgebraicGeometry.OModulePresheaf.im_obj AlgebraicGeometry.OModulePresheaf.pow_obj AlgebraicGeometry.OModulePresheaf.fstHom_app AlgebraicGeometry.OModulePresheaf.ker_obj AlgebraicGeometry.OModulePresheaf.coker_obj AlgebraicGeometry.OModulePresheaf.DevissageStep.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCover.preimage_U AlgebraicGeometry.OModulePresheaf.sndHom_app AlgebraicGeometry.OModulePresheaf.Hom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.id_app AlgebraicGeometry.OModulePresheaf.AffHom.appSections_apply AlgebraicGeometry.OModulePresheaf.AffHom.comp_app AlgebraicGeometry.OModulePresheaf.AffSES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.kerMap_coe AlgebraicGeometry.OModulePresheaf.AffHom.id_app AlgebraicGeometry.OModulePresheaf.Hom.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.Hom.toAffHom_app AlgebraicGeometry.OModulePresheaf.SES.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.AffHom.mk.sizeOf_spec AlgebraicGeometry.OModulePresheaf.Hom.comp_app AlgebraicGeometry.OModulePresheaf.SES.mk.injEq AlgebraicGeometry.OModulePresheaf.AffHom.mk.injEq AlgebraicGeometry.OModulePresheaf.Hom.appSections_apply AlgebraicGeometry.OModulePresheaf.AffSES.mk.injEq AlgebraicGeometry.OModulePresheaf.Leray.restrictToPreimage_U AlgebraicGeometry.Scheme.OrderedAffineCover.toCoverOf_U"
+p2m_attr_erase "simp" "AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.sizeOf_spec AlgebraicGeometry.Scheme.OrderedAffineCoverOf.mk.injEq AlgebraicGeometry.Scheme.OrderedAffineCover.restrict_U DoubleComplex.Bounded.mk.injEq DoubleComplex.Bounded.mk.sizeOf_spec DoubleComplex.Convergence.mk.injEq DoubleComplex.Convergence.mk.sizeOf_spec DoubleComplex.SubQuot.mk.sizeOf_spec DoubleComplex.SubQuot.mk.injEq AlgebraicGeometry.ChowDatumProj.mk.sizeOf_spec AlgebraicGeometry.ChowDatum.mk.sizeOf_spec AlgebraicGeometry.ChowDatumProj.mk.injEq AlgebraicGeometry.ChowDatum.mk.injEq ProjSpaceCech.GradedModule.mk.injEq ProjSpaceCech.GradedModule.mk.sizeOf_spec ProjSpaceCech.GradedModule.Frac.mk.sizeOf_spec ProjSpaceCech.GradedModule.Presentation.mk.injEq ProjSpaceCech.GradedModule.Frac.mk.injEq ProjSpaceCech.GradedModule.Presentation.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.shift_toLinearMap ProjSpaceCech.GradedModule.Hom.mk.sizeOf_spec ProjSpaceCech.GradedModule.Hom.mk.injEq AlgebraicGeometry.tilde.functorCompPullbackSpecIso_app AlgebraicGeometry.Scheme.Modules.tensorSections_zero_right AlgebraicGeometry.Scheme.Modules.map_unitSection AlgebraicGeometry.Scheme.Modules.tensorSectionsBilin_apply AlgebraicGeometry.Scheme.Modules.tensorPowSection_zero AlgebraicGeometry.Scheme.Modules.tensorSections_zero_left AlgebraicGeometry.Scheme.Modules.tensorPow_zero AlgebraicGeometry.Scheme.Modules.tensorPow_succ"
+
+set_option autoImplicit false
+
+universe u
+
+p2m_open "CategoryTheory CategoryTheory.Limits CategoryTheory.MonoidalCategory AlgebraicGeometry AlgebraicGeometry.RelPicard TensorProduct"
+
+theorem solution
+    {R : Type u} [CommRing R] [IsNoetherianRing R] [IsDomain R]
+    {C : Scheme.{u}} (c : C ⟶ Spec (CommRingCat.of R)) [IsProper c] [Flat c]
+    (𝒱 : C.TwoAffineOpenCover)
+    (hH0 : ∀ (k : Type u) [Field k] [IsAlgClosed k] (x : Spec (CommRingCat.of k) ⟶ Spec (CommRingCat.of R))
+      (𝒲 : (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).TwoAffineOpenCover),
+      Module.finrank k (𝒲.sectionsOf (fibreAt c (𝟙 _) x)
+        (SheafOfModules.unit (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).ringCatSheaf)).H0 = 1) :
+    ∃ g : ℕ, ∀ (k : Type u) [Field k] [IsAlgClosed k] (x : Spec (CommRingCat.of k) ⟶ Spec (CommRingCat.of R))
+      (𝒲 : (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).TwoAffineOpenCover),
+      Module.finrank k (𝒲.sectionsOf (fibreAt c (𝟙 _) x)
+        (SheafOfModules.unit (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).ringCatSheaf)).H1 = g := by
+  classical
+
+  obtain ⟨𝒱A, -, -, -, -⟩ := Scheme.TwoAffineOpenCover.exists_linearEquiv_sectionsOf_of_iso (R := R)
+      (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) c (asIso (pullback.fst c (𝟙 (Spec (CommRingCat.of R)))))
+      (by have h := pullback.condition (f := c) (g := 𝟙 (Spec (CommRingCat.of R)))
+          erw [Category.comp_id] at h; exact h) 𝒱 (𝟙_ C.Modules)
+      ((Scheme.Modules.pullback (asIso (pullback.fst c (𝟙 (Spec (CommRingCat.of R))))).hom).obj (𝟙_ C.Modules)) (Iso.refl _)
+
+  have hMA : Scheme.Modules.IsInvertible
+      ((Scheme.Modules.pullback (𝟙 (pullback c (𝟙 (Spec (CommRingCat.of R)))))).obj
+        (SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of R)))).ringCatSheaf)) :=
+    (Scheme.Modules.isInvertible_unit _).pullback _
+
+  let F : PrimeSpectrum R → ℤ := fun 𝔭 =>
+    (Module.finrank 𝔭.asIdeal.ResidueField
+        (LinearMap.ker ((𝒱A.sectionsOf (pullback.snd c (𝟙 (Spec (CommRingCat.of R))))
+          ((Scheme.Modules.pullback (𝟙 (pullback c (𝟙 (Spec (CommRingCat.of R)))))).obj
+            (SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of R)))).ringCatSheaf))).cechDiff.baseChange
+              𝔭.asIdeal.ResidueField)) : ℤ) -
+      Module.finrank 𝔭.asIdeal.ResidueField
+        ((𝔭.asIdeal.ResidueField ⊗[R] (𝒱A.sectionsOf (pullback.snd c (𝟙 (Spec (CommRingCat.of R))))
+          ((Scheme.Modules.pullback (𝟙 (pullback c (𝟙 (Spec (CommRingCat.of R)))))).obj
+            (SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of R)))).ringCatSheaf))).M01) ⧸
+          LinearMap.range ((𝒱A.sectionsOf (pullback.snd c (𝟙 (Spec (CommRingCat.of R))))
+            ((Scheme.Modules.pullback (𝟙 (pullback c (𝟙 (Spec (CommRingCat.of R)))))).obj
+              (SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of R)))).ringCatSheaf))).cechDiff.baseChange
+                𝔭.asIdeal.ResidueField))
+  have hlc : IsLocallyConstant F :=
+    Scheme.TwoAffineOpenCover.isLocallyConstant_finrank_ker_sub_finrank_coker_cechDiff_baseChange
+      (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) 𝒱A _ hMA
+  haveI : PreconnectedSpace (PrimeSpectrum R) :=
+    ⟨(PreirreducibleSpace.isPreirreducible_univ (X := PrimeSpectrum R)).isPreconnected⟩
+  let 𝔭₀ : PrimeSpectrum R := ⟨⊥, Ideal.isPrime_bot⟩
+  refine ⟨(1 - F 𝔭₀).toNat, ?_⟩
+  intro k _ _ x 𝒲
+
+  let 𝔭 : PrimeSpectrum R := x.base (IsLocalRing.closedPoint k)
+  obtain ⟨𝒲ₓ, h𝒲ₓ⟩ :=
+    RelPicard.exists_twoAffineOpenCover_fibre_finrank_eq_finrank_cechDiff_baseChange_residueField
+      c (𝟙 (Spec (CommRingCat.of R))) (𝟙 (Spec (CommRingCat.of R)))
+      (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) (𝟙 _) IsPullback.of_id_fst 𝒱A 𝔭 x rfl
+  obtain ⟨h0ₓ, h1ₓ⟩ := h𝒲ₓ _ (Scheme.Modules.isInvertible_unit _)
+  have hχ : (Module.finrank k (𝒲ₓ.sectionsOf (fibreAt c (𝟙 _) x)
+        (fibreModule c (𝟙 _) x (SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of R)))).ringCatSheaf))).H0 : ℤ) -
+      Module.finrank k (𝒲ₓ.sectionsOf (fibreAt c (𝟙 _) x)
+        (fibreModule c (𝟙 _) x (SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of R)))).ringCatSheaf))).H1 = F 𝔭₀ := by
+    rw [h0ₓ, h1ₓ]; exact hlc.apply_eq_of_preconnectedSpace 𝔭 𝔭₀
+
+  obtain ⟨𝒲ₓ', -, -, ⟨eH0⟩, ⟨eH1⟩⟩ := Scheme.TwoAffineOpenCover.exists_linearEquiv_sectionsOf_of_iso (R := k)
+      (fibreAt c (𝟙 _) x) (fibreAt c (𝟙 _) x) (Iso.refl _) (Category.id_comp _) 𝒲ₓ
+      (fibreModule c (𝟙 _) x (SheafOfModules.unit (pullback c (𝟙 (Spec (CommRingCat.of R)))).ringCatSheaf))
+      (SheafOfModules.unit (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).ringCatSheaf)
+      ((Scheme.Modules.pullbackUnitIso (𝟙 _)).symm ≪≫
+        (Scheme.Modules.pullback (𝟙 _)).mapIso (Scheme.Modules.pullbackUnitIso _).symm)
+
+  haveI : IsSeparated (fibreAt c (𝟙 (Spec (CommRingCat.of R))) x) :=
+    (inferInstance : IsSeparated (pullback.snd (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x))
+  obtain ⟨eCF⟩ := Scheme.TwoAffineOpenCover.nonempty_linearEquiv_H1_sectionsOf_of_isSeparated (fibreAt c (𝟙 _) x)
+      (SheafOfModules.unit (pullback (pullback.snd c (𝟙 (Spec (CommRingCat.of R)))) x).ringCatSheaf)
+      (fun _ => ⟨⊤, trivial, ⟨Scheme.Modules.pullbackUnitIso _⟩⟩) 𝒲ₓ' 𝒲
+  have h0 := hH0 k x 𝒲ₓ'
+  rw [← eH0.finrank_eq, ← eH1.finrank_eq, h0] at hχ
+  rw [← eCF.finrank_eq]
+
+  have hnn : (0 : ℤ) ≤ 1 - F 𝔭₀ := by rw [← hχ]; omega
+  apply Int.ofNat.inj
+  rw [Int.ofNat_eq_natCast, Int.ofNat_eq_natCast, Int.toNat_of_nonneg hnn, ← hχ]
+  push_cast
+  ring
+
+end S_AlgebraicGeometry_RelPicard_exists_forall_finrank_H1_unit_fibreAt_eq_of_finrank_H0_eq_one
+end P2MW
+export P2MW.S_AlgebraicGeometry_RelPicard_exists_forall_finrank_H1_unit_fibreAt_eq_of_finrank_H0_eq_one (solution)

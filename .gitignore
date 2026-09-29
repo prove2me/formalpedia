@@ -1,0 +1,6 @@
+.dump-state.jsonl
+*.lean.tmp
+scripts/
+__pycache__/
+*.pyc
+.pytest_cache/

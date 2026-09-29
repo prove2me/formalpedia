@@ -1,0 +1,190 @@
+-- Prove2me | solution 1 for CerednikDrinfeld.FormalOmega.descendedQuotientMap_nrCharts_transition
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:05.837917+00:00
+-- url     : https://prove2.me/submissions/f3fe1a92-02a8-56c6-bdd1-d7a4181abda5
+
+import Definitions.Def_CerednikDrinfeld_FormalQuotientDatum
+import Definitions.Def_CerednikDrinfeld_FormalUpperHalfPlaneFrame
+import Definitions.Def_CerednikDrinfeld_BruhatTitsTree
+import Definitions.Def_CerednikDrinfeld_MumfordTower
+import Definitions.Def_AlgebraicGeometry_TowerQuotientDatum
+import Definitions.Def_CerednikDrinfeld_MumfordNrPresentation
+import Theorems.Thm_CerednikDrinfeld_FormalOmega_descendedQuotientMap_nrCharts_kappa_transition
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_CerednikDrinfeld_FormalOmega_descendedQuotientMap_nrCharts_transition
+p2m_attr_erase "instance" "CerednikDrinfeld.FormalOmega.DrinfeldDatum.invertible₀ CerednikDrinfeld.FormalOmega.DrinfeldDatum.addCommGroup₁ CerednikDrinfeld.FormalOmega.DrinfeldDatum.invertible₁ CerednikDrinfeld.FormalOmega.DrinfeldDatum.module₀ CerednikDrinfeld.FormalOmega.DrinfeldDatum.module₁ CerednikDrinfeld.FormalOmega.DrinfeldDatum.addCommGroup₀"
+
+set_option autoImplicit false
+
+open scoped TensorProduct MatrixGroups
+open CategoryTheory AlgebraicGeometry LT.LatticeTree CerednikDrinfeld CerednikDrinfeld.FormalOmega CerednikDrinfeld.Omega
+
+namespace D2cTransitionBody
+
+theorem comp_base_apply {X Y Z : Scheme} (f : X ⟶ Y) (g : Y ⟶ Z) (x : X) : (f ≫ g).base x = g.base (f.base x) := by
+  simp
+
+theorem surjective_base_spec_map_of_ker_le {R S : Type} [CommRing R] [CommRing S] (f : R →+* S)
+    (hf : Function.Surjective f) (hker : ∀ p : Ideal R, p.IsPrime → RingHom.ker f ≤ p) :
+    Function.Surjective (Spec.map (CommRingCat.ofHom f)).base := by
+  intro x
+  haveI : x.asIdeal.IsPrime := x.isPrime
+  have hq : (x.asIdeal.map f).IsPrime := Ideal.map_isPrime_of_surjective hf (hker _ x.isPrime)
+  refine ⟨⟨x.asIdeal.map f, hq⟩, ?_⟩
+  rw [Spec.map_base]
+  show PrimeSpectrum.comap f ⟨x.asIdeal.map f, hq⟩ = x
+  ext1
+  rw [PrimeSpectrum.comap_asIdeal]
+  show Ideal.comap f (x.asIdeal.map f) = x.asIdeal
+  rw [Ideal.comap_map_of_surjective f hf, ← RingHom.ker_eq_comap_bot, sup_eq_left]
+  exact hker _ x.isPrime
+
+theorem surjective_base_spec_map_factor {A : Type} [CommRing A] (a : A) (n : ℕ) :
+    Function.Surjective (Spec.map (CommRingCat.ofHom (Ideal.Quotient.factor
+      (Ideal.span_singleton_le_span_singleton.mpr (pow_dvd_pow a (Nat.le_succ (n + 1))))))).base := by
+  refine surjective_base_spec_map_of_ker_le _ (Ideal.Quotient.factor_surjective _) ?_
+  intro p hp y hy
+  obtain ⟨z, rfl⟩ := Ideal.Quotient.mk_surjective y
+  rw [RingHom.mem_ker, Ideal.Quotient.factor_mk, Ideal.Quotient.eq_zero_iff_mem, Ideal.mem_span_singleton] at hy
+  obtain ⟨c, rfl⟩ := hy
+  rw [map_mul, map_pow]
+  refine Ideal.mul_mem_right _ _ (Ideal.pow_mem_of_mem p ?_ _ (Nat.succ_pos n))
+  refine hp.mem_of_pow_mem (n + 1 + 1) ?_
+  rw [← map_pow, Ideal.Quotient.eq_zero_iff_mem.mpr (Ideal.mem_span_singleton_self _)]
+  exact p.zero_mem
+
+theorem injective_base_yt {𝒪 : Type} [CommRing 𝒪] {π : 𝒪} {X : ℕ → Scheme.{0}}
+    {xb : ∀ n : ℕ, X n ⟶ Spec (CommRingCat.of (𝒪 ⧸ Ideal.span {π ^ (n + 1)}))} {xt : ∀ n : ℕ, X n ⟶ X (n + 1)}
+    {G : Type} [Group G] {a : ∀ n : ℕ, G →* Aut (X n)} (D : TowerQuotientDatum 𝒪 π X xb xt G a) (n : ℕ) :
+    Function.Injective (D.yt n).base := by
+  have H : Ideal.span {π ^ (n + 1 + 1)} ≤ Ideal.span {π ^ (n + 1)} :=
+    Ideal.span_singleton_le_span_singleton.mpr (pow_dvd_pow π (Nat.le_succ (n + 1)))
+  haveI hci : IsClosedImmersion (Spec.map (CommRingCat.ofHom (Ideal.Quotient.factor H))) :=
+    IsClosedImmersion.spec_of_surjective _ (Ideal.Quotient.factor_surjective H)
+  haveI : IsClosedImmersion (D.yt n) :=
+    MorphismProperty.of_isPullback (P := @IsClosedImmersion) (D.yt_isPullback n).flip hci
+  exact (D.yt n).isClosedEmbedding.injective
+
+end D2cTransitionBody
+
+open D2cTransitionBody in
+
+theorem solution
+
+    {r : ℕ} [Fact r.Prime]
+    (𝒪 : Type) [CommRing 𝒪] [IsDomain 𝒪] [CharZero 𝒪] (hdvr : IsDiscreteValuationRing 𝒪)
+    (π : 𝒪) (hπ : Irreducible π) (hcomplete : IsAdicComplete (Ideal.span {π}) 𝒪)
+    (hres : Nat.card (𝒪 ⧸ Ideal.span {π}) = r) (hunr : Ideal.span {((r : ℕ) : 𝒪)} = Ideal.span {π})
+    (K₀ : Type) [Field K₀] [CharZero K₀] [Algebra 𝒪 K₀] [IsFractionRing 𝒪 K₀]
+
+    (Onr : Type) [CommRing Onr] [IsDomain Onr] [CharZero Onr] [Algebra 𝒪 Onr] (Fr : Onr ≃ₐ[𝒪] Onr)
+    (hOnr_complete : IsAdicComplete (Ideal.span {algebraMap 𝒪 Onr π}) Onr)
+    (hOnr_max : (Ideal.span {algebraMap 𝒪 Onr π}).IsMaximal)
+    (hOnr_alg : ∀ x : Onr, ∃ p : Polynomial 𝒪, p.Monic ∧ Polynomial.aeval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hOnr_closed : ∀ p : Polynomial Onr, p.Monic → 0 < p.natDegree → ∃ x : Onr, Polynomial.eval x p ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (hFr : ∀ x : Onr, Fr x - x ^ r ∈ Ideal.span {algebraMap 𝒪 Onr π})
+    (vdet : Matrix.GeneralLinearGroup (Fin 2) K₀ →* Multiplicative ℤ)
+    (hvdet : ∀ (g : Matrix.GeneralLinearGroup (Fin 2) K₀) (n : ℤ), vdet g = Multiplicative.ofAdd n ↔
+      ∃ u : 𝒪ˣ, (Matrix.GeneralLinearGroup.det g : K₀) = algebraMap 𝒪 K₀ (u : 𝒪) * (algebraMap 𝒪 K₀ π) ^ n)
+
+    (G : Type) [Group G] (σ : G →* Matrix.GeneralLinearGroup (Fin 2) K₀) (Γ : Subgroup G)
+    (hcent : ∃ z ∈ Γ, ∃ c : K₀, ((σ z : Matrix.GeneralLinearGroup (Fin 2) K₀) : Matrix (Fin 2) (Fin 2) K₀) = c • (1 : Matrix (Fin 2) (Fin 2) K₀) ∧
+      vdet (σ z) = Multiplicative.ofAdd (2 : ℤ))
+    (hodd : ∃ w ∈ Γ, vdet (σ w) = Multiplicative.ofAdd (1 : ℤ))
+    (Γ' : Subgroup G) (hΓ' : ∀ x : G, x ∈ Γ' ↔ x ∈ Γ ∧ Even (Multiplicative.toAdd (vdet (σ x))))
+
+    (ρ : G →* PGL(2, K₀)) (hρ : ∀ g : G, ρ g = Matrix.ProjGenLinGroup.mk (σ g))
+    (hdisc : ∀ v : LT.LatticeTree.Vertex 𝒪 K₀, Set.Finite {g : PGL(2, K₀) | g ∈ Γ'.map ρ ∧ g • v = v})
+    (hcocpt : ∃ S : Finset (LT.LatticeTree.Vertex 𝒪 K₀), ∀ v : LT.LatticeTree.Vertex 𝒪 K₀, ∃ g ∈ Γ'.map ρ, g • v ∈ S)
+
+    (g₁ : Matrix.GeneralLinearGroup (Fin 2) K₀) (hg₁ : (g₁ : Matrix (Fin 2) (Fin 2) K₀) = Matrix.diagonal ![algebraMap 𝒪 K₀ π, 1])
+
+    (N : Subgroup (PGL(2, K₀))) (hNle : N ≤ Γ'.map ρ) (hNnorm : (N.subgroupOf (Γ.map ρ)).Normal) (hNidx : N.relIndex (Γ'.map ρ) ≠ 0)
+    (DM : MumfordTower 𝒪 π K₀ r g₁ N)
+
+    (X : ℕ → Scheme.{0}) (xb : ∀ n : ℕ, X n ⟶ Spec (CommRingCat.of (𝒪 ⧸ Ideal.span {π ^ (n + 1)})))
+    (xt : ∀ n : ℕ, X n ⟶ X (n + 1))
+    (G₂ : Type) [Group G₂] [Finite G₂] (a : ∀ n : ℕ, G₂ →* Aut (X n))
+    (pr₁ : ∀ n : ℕ, X n ⟶ DM.Z n) (pr₂ : ∀ n : ℕ, X n ⟶ Spec (CommRingCat.of (↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) ⧸ Ideal.span {(algebraMap 𝒪 ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) π) ^ (n + 1)})))
+    (θ : ↥Γ →* G₂) (Fr₂ : ∀ n : ℕ, (↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) ⧸ Ideal.span {(algebraMap 𝒪 ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) π) ^ (n + 1)}) ≃ₐ[𝒪] (↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) ⧸ Ideal.span {(algebraMap 𝒪 ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) π) ^ (n + 1)}))
+    (hcart : ∀ n : ℕ, IsPullback (xt n) (xb n) (xb (n + 1)) (Spec.map (CommRingCat.ofHom (Ideal.Quotient.factor (Ideal.span_singleton_le_span_singleton.mpr (pow_dvd_pow π (Nat.le_succ (n + 1))))))))
+    (hproper : ∀ n : ℕ, IsProper (xb n)) (hflat : ∀ n : ℕ, Flat (xb n))
+    (haff : ∀ (n : ℕ) (S : Set (X n)), S.Finite → ∃ U : (X n).Opens, IsAffineOpen U ∧ S ⊆ (U : Set (X n)))
+    (ha_over : ∀ (n : ℕ) (g : G₂), (a n g).hom ≫ xb n = xb n)
+    (ha_xt : ∀ (n : ℕ) (g : G₂), (a n g).hom ≫ xt n = xt n ≫ (a (n + 1) g).hom)
+    (hX : ∀ n : ℕ, IsPullback (pr₁ n) (pr₂ n) (DM.zb n) (Spec.map (CommRingCat.ofHom (Ideal.quotientMap (Ideal.span {(algebraMap 𝒪 ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) π) ^ (n + 1)}) (algebraMap 𝒪 ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)))
+            (by rw [Ideal.span_le, Set.singleton_subset_iff, SetLike.mem_coe, Ideal.mem_comap, map_pow]; exact Ideal.subset_span rfl)))))
+    (hxb : ∀ n : ℕ, xb n = pr₁ n ≫ DM.zb n)
+    (hxt₁ : ∀ n : ℕ, xt n ≫ pr₁ (n + 1) = pr₁ n ≫ DM.zt n)
+    (hxt₂ : ∀ n : ℕ, xt n ≫ pr₂ (n + 1) = pr₂ n ≫ Spec.map (CommRingCat.ofHom (Ideal.Quotient.factor (Ideal.span_singleton_le_span_singleton.mpr (pow_dvd_pow (algebraMap 𝒪 ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) π) (Nat.le_succ (n + 1)))))))
+    (hθsurj : Function.Surjective θ) (hθker : ∀ γ : ↥Γ, θ γ = 1 ↔ ρ (γ : G) ∈ N)
+    (hFr₂ : ∀ (n : ℕ) (y y' : ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr))), (y' : Onr) = Fr (y : Onr) →
+      Fr₂ n (Ideal.Quotient.mk _ y) = Ideal.Quotient.mk _ y')
+    (ha_pr₂ : ∀ (n : ℕ) (γ : ↥Γ), (a n (θ γ)).hom ≫ pr₂ n =
+      pr₂ n ≫ Spec.map (CommRingCat.ofHom ((Fr₂ n) ^ (- Multiplicative.toAdd (vdet (σ (γ : G))))).toRingEquiv.toRingHom))
+    (ha_pr₁ : ∀ (n : ℕ) (γ : ↥Γ) (B : Type) [CommRing B] [Algebra 𝒪 B] (hB : (algebraMap 𝒪 B π) ^ (n + 1) = 0)
+      (P P' : (Omega K₀ π).obj B), DeligneDatum.IsPullback (K := K₀) (π := π) B (σ (γ : G))⁻¹ P P' →
+      ∀ x : Spec (CommRingCat.of B) ⟶ X n, x ≫ pr₁ n = DM.q n B hB P → (x ≫ (a n (θ γ)).hom) ≫ pr₁ n = DM.q n B hB P')
+
+    (DQ : TowerQuotientDatum 𝒪 π X xb xt G₂ a)
+    (q : ∀ (n : ℕ) (B : Type) [CommRing B] [Algebra 𝒪 B], (algebraMap 𝒪 B π) ^ (n + 1) = 0 →
+    (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B → (Spec (CommRingCat.of B) ⟶ DQ.Y n))
+    (hqdef : (∀ (n : ℕ) (B : Type) [CommRing B] [Algebra 𝒪 B] (hB : (algebraMap 𝒪 B π) ^ (n + 1) = 0) (ψ : Onr →ₐ[𝒪] B)
+        (ψ₂ : (↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) ⧸ Ideal.span {(algebraMap 𝒪 ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)) π) ^ (n + 1)}) →ₐ[𝒪] B) (hψ₂ : ∀ y : ↥(AlgHom.equalizer ((Fr.trans Fr : Onr ≃ₐ[𝒪] Onr) : Onr →ₐ[𝒪] Onr) (AlgHom.id 𝒪 Onr)), ψ₂ (Ideal.Quotient.mk _ y) = ψ (y : Onr))
+        (P : (Omega K₀ π).obj B) (x : Spec (CommRingCat.of B) ⟶ X n),
+        x ≫ pr₁ n = DM.q n B hB P → x ≫ pr₂ n = Spec.map (CommRingCat.ofHom ψ₂.toRingHom) → q n B hB (ψ, P) = x ≫ DQ.p n))
+    (hqover : ∀ (n : ℕ) (B : Type) [CommRing B] [Algebra 𝒪 B] (hB : (algebraMap 𝒪 B π) ^ (n + 1) = 0)
+    (x : (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B),
+    q n B hB x ≫ DQ.yb n ≫ Spec.map (CommRingCat.ofHom (algebraMap 𝒪 (𝒪 ⧸ Ideal.span {π ^ (n + 1)}))) =
+      Spec.map (CommRingCat.ofHom (algebraMap 𝒪 B)))
+    (hqnat : ∀ (n : ℕ) (B : Type) [CommRing B] [Algebra 𝒪 B] (B' : Type) [CommRing B'] [Algebra 𝒪 B']
+    (hB : (algebraMap 𝒪 B π) ^ (n + 1) = 0) (hB' : (algebraMap 𝒪 B' π) ^ (n + 1) = 0) (φ : B →ₐ[𝒪] B')
+    (x : (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B),
+    q n B' hB' ((AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).map φ x) = Spec.map (CommRingCat.ofHom φ.toRingHom) ≫ q n B hB x)
+    (hqyt : ∀ (n : ℕ) (B : Type) [CommRing B] [Algebra 𝒪 B] (hB : (algebraMap 𝒪 B π) ^ (n + 1) = 0)
+    (hB' : (algebraMap 𝒪 B π) ^ (n + 1 + 1) = 0) (x : (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B),
+    q (n + 1) B hB' x = q n B hB x ≫ DQ.yt n)
+    (hqinv : ∀ (n : ℕ) (B : Type) [CommRing B] [Algebra 𝒪 B] (hB : (algebraMap 𝒪 B π) ^ (n + 1) = 0) (γ : G), γ ∈ Γ →
+    ∀ x x' : (AlgFunctor.prod (AlgFunctor.corep Onr) (Omega K₀ π)).obj B,
+      OmegaNr.IsTwistedAct π Onr Fr vdet B (σ γ) x x' → q n B hB x' = q n B hB x)
+
+    (Pr : MumfordTower.NrPresentation 𝒪 π K₀ g₁ N DM Onr Fr X xb xt G₂ a pr₁ pr₂ ((Γ'.subgroupOf Γ).map θ))
+    (D' : TowerQuotientDatum Onr (algebraMap 𝒪 Onr π) Pr.X' Pr.xb' Pr.xt' G₂ Pr.a')
+    (rY : ∀ n : ℕ, D'.Y n ⟶ DQ.Y n)
+    (hrY : ∀ n : ℕ, IsPullback (rY n) (D'.yb n) (DQ.yb n)
+      (Spec.map (CommRingCat.ofHom (Ideal.quotientMap (Ideal.span {(algebraMap 𝒪 Onr π) ^ (n + 1)}) (algebraMap 𝒪 Onr)
+        (by rw [Ideal.span_le, Set.singleton_subset_iff, SetLike.mem_coe, Ideal.mem_comap, map_pow]; exact Ideal.subset_span rfl)))))
+    (hrY_p : ∀ n : ℕ, D'.p n ≫ rY n = Pr.qX n ≫ DQ.p n)
+    (hrY_yt : ∀ n : ℕ, D'.yt n ≫ rY (n + 1) = rY n ≫ DQ.yt n)
+    :
+    (∀ (h : Matrix.GeneralLinearGroup (Fin 2) K₀) (n : ℕ),
+        (Pr.κ' h n ≫ D'.p n) ≫ D'.yt n = Spec.map (CommRingCat.ofHom (Ideal.Quotient.factor (Ideal.span_singleton_le_span_singleton.mpr
+            (pow_dvd_pow (algebraMap Onr (chartERing Onr (algebraMap 𝒪 Onr π) r) (algebraMap 𝒪 Onr π)) (Nat.le_succ (n + 1)))))) ≫ (Pr.κ' h (n + 1) ≫ D'.p (n + 1))) ∧
+    (∀ (h : Matrix.GeneralLinearGroup (Fin 2) K₀) (n : ℕ),
+        Set.range (Pr.κ' h n ≫ D'.p n).base = (D'.yt n).base ⁻¹' Set.range (Pr.κ' h (n + 1) ≫ D'.p (n + 1)).base) := by
+  have hTX := CerednikDrinfeld.FormalOmega.descendedQuotientMap_nrCharts_kappa_transition 𝒪 hdvr π hπ hcomplete hres hunr K₀ Onr Fr hOnr_complete hOnr_max hOnr_alg hOnr_closed hFr vdet hvdet G σ Γ hcent hodd Γ' hΓ' ρ hρ hdisc hcocpt g₁ hg₁ N hNle hNnorm hNidx DM X xb xt G₂ a pr₁ pr₂ θ Fr₂ hcart hproper hflat haff ha_over ha_xt hX hxb hxt₁ hxt₂ hθsurj hθker hFr₂ ha_pr₂ ha_pr₁ DQ q hqdef hqover hqnat hqyt hqinv Pr D' rY hrY hrY_p hrY_yt
+  have h3 : ∀ (h : Matrix.GeneralLinearGroup (Fin 2) K₀) (n : ℕ),
+      (Pr.κ' h n ≫ D'.p n) ≫ D'.yt n = Spec.map (CommRingCat.ofHom (Ideal.Quotient.factor (Ideal.span_singleton_le_span_singleton.mpr
+          (pow_dvd_pow (algebraMap Onr (chartERing Onr (algebraMap 𝒪 Onr π) r) (algebraMap 𝒪 Onr π)) (Nat.le_succ (n + 1)))))) ≫ (Pr.κ' h (n + 1) ≫ D'.p (n + 1)) := by
+    intro h n
+    rw [Category.assoc, ← D'.p_xt n, ← Category.assoc, hTX h n, Category.assoc]
+  refine ⟨h3, fun h n => ?_⟩
+  apply Set.Subset.antisymm
+  · rintro _ ⟨s, rfl⟩
+    refine ⟨(Spec.map (CommRingCat.ofHom (Ideal.Quotient.factor (Ideal.span_singleton_le_span_singleton.mpr
+          (pow_dvd_pow (algebraMap Onr (chartERing Onr (algebraMap 𝒪 Onr π) r) (algebraMap 𝒪 Onr π)) (Nat.le_succ (n + 1))))))).base s, ?_⟩
+    rw [← comp_base_apply, ← h3 h n, comp_base_apply]
+  · rintro y ⟨s', hs'⟩
+    obtain ⟨s, rfl⟩ := surjective_base_spec_map_factor (algebraMap Onr (chartERing Onr (algebraMap 𝒪 Onr π) r) (algebraMap 𝒪 Onr π)) n s'
+    rw [← comp_base_apply, ← h3 h n, comp_base_apply] at hs'
+    exact ⟨s, injective_base_yt D' n hs'⟩
+
+end S_CerednikDrinfeld_FormalOmega_descendedQuotientMap_nrCharts_transition
+end P2MW
+export P2MW.S_CerednikDrinfeld_FormalOmega_descendedQuotientMap_nrCharts_transition (solution)

@@ -1,0 +1,32 @@
+-- Prove2me | Theorems.Thm_R03SP06_no_small_closed_side_for_triangle_boundary
+-- name    : R03SP06.no_small_closed_side_for_triangle_boundary
+-- status  : Proved
+-- author  : @hao jia
+-- created : 2026-09-17T10:45:41.962107+00:00
+-- url     : https://prove2.me/theorems/04e5c53e-f58b-4f9a-ba7b-42606d9d20fa
+-- title:
+--   R03 P3-factor structural result: no small closed side for triangle boundary
+-- statement:
+--   This is a source-faithful auxiliary theorem from the candidate formalization of the cubic P3-partition problem. It records the structural result `R03SP06.no_small_closed_side_for_triangle_boundary` under exactly the explicit hypotheses in the Lean statement. It is a conditional reusable result and does not claim that the open root problem has been solved.
+--
+--   **Formalization Note** The Lean statement and direct proof were extracted from the cited candidate artifact; its source digest is d5c1f42c41c331b51f26cb63fa826906489e2c17631fbeebcc0c3c289460f718.
+-- source:
+--   VibeMathing candidate artifact: research/artifacts/candidates/r03/parallel/sp06/q3_triangle_external_port_card.lean; source SHA-256 d5c1f42c41c331b51f26cb63fa826906489e2c17631fbeebcc0c3c289460f718; ProblemContract problem:opg-46613-p3-partition; candidate-only formalization.
+
+import Mathlib
+import Definitions.Def_cubic_p3_partition_models
+
+namespace R03SP06
+
+open R03SP06
+open CubicP3Partition
+variable {V : Type} [Fintype V] [DecidableEq V]
+theorem no_small_closed_side_for_triangle_boundary
+    {G : SimpleGraph V} (h3 : ThreeVertexConnected G)
+    {A B T : Finset V}
+    (hA : A.Nonempty) (hB : B.Nonempty)
+    (hAB : Disjoint A B) (hAT : Disjoint A T) (hBT : Disjoint B T)
+    (hclosed : ∀ ⦃u v : V⦄, u ∈ A → G.Adj u v → v ∈ A ∪ T)
+    (hT : T.card ≤ 2) : False := by sorry
+
+end R03SP06

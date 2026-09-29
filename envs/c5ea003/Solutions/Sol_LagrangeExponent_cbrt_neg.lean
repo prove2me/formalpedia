@@ -1,0 +1,89 @@
+-- Prove2me | solution 1 for LagrangeExponent.cbrt_neg
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-12T01:30:51.757735+00:00
+-- url     : https://prove2.me/submissions/858e5e22-4478-4afd-bc9c-2b63611c8af3
+
+-- Sol generated from Novelty/LagrangeExponentCore.lean
+import Mathlib
+import Definitions.Def_Novelty_LagrangeExponentCore
+import Theorems.Thm_LagrangeExponent_cbrt_eq_iff
+/-
+# The Lagrange Exponent `σ`: signed cube roots and the critical cubic
+
+This file sets up the object studied in `Novelty.LagrangeExponentConcavity`.
+
+## The model
+
+Fix a three–slot branching mechanism whose *growth rate* `y` is tied to the total
+mass `t` through the **critical cubic**
+
+  `lagrangeCubic y = y ^ 3 - y ^ 2 + y / 3 = t`.
+
+This is the unique (up to affine normalisation) monic cubic whose derivative is a
+perfect square, `h' y = 3 (y - 1/3) ^ 2 ≥ 0`: the three roots of the resolvent
+coalesce at the single critical point `y = 1/3`.  Consequently `h` is a strictly
+monotone bijection of `ℝ`, and Lagrange's resolvent method degenerates to a single
+real radical:
+
+  `lagrangeCubic y = ((3 y - 1) ^ 3 + 1) / 27`,
+
+so its inverse — the **Lagrange exponent** — is
+
+  `σ t = (1 + ∛(27 t - 1)) / 3`.
+
+The critical value `h (1/3) = 1/27` is therefore *canonically* attached to the
+mechanism, not chosen by hand; it is exactly the mass at which the growth rate
+passes the degenerate critical point.  It is also, by AM–GM, the largest possible
+product of a three–point mass distribution (see `Novelty.LagrangeExponentConcavity`).
+
+## Contents
+
+* `cbrt` — the odd (sign–aware) real cube root, with `cbrt_cube`, `cbrt_strictMono`.
+* `lagrangeCubic`, `lagrangeCubic_eq_shift`, `lagrangeCubic_strictMono`.
+* `lagrangeExponent`, and the two inversion theorems
+  `lagrangeExponent_lagrangeCubic` / `lagrangeCubic_lagrangeExponent`,
+  giving `σ = h⁻¹` as an order isomorphism of `ℝ`.
+-/
+
+open LagrangeExponent
+
+open Set
+
+/-! ## The odd real cube root -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The critical cubic and its inverse -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Sample values (sanity checks on the normalisation) -/
+
+
+
+
+
+
+
+open LagrangeExponent in
+@[simp] theorem solution(x : ℝ) : cbrt (-x) = -cbrt x :=
+  cbrt_eq_iff.2 (by rw [show (-cbrt x) ^ 3 = -((cbrt x) ^ 3) by ring, cbrt_cube])

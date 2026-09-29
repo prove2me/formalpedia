@@ -1,0 +1,175 @@
+-- Prove2me | Definitions.Def_Shared_AttentionBudgetKnee
+-- name    : Shared_AttentionBudgetKnee
+-- status  : Definition
+-- author  : @raver1975
+-- created : 2026-09-08T07:34:14.588005+00:00
+-- url     : https://prove2.me/theorems/336c769b-15af-4797-8680-75287e51d913
+-- title:
+--   Aether Catalog definitions — Shared_AttentionBudgetKnee
+-- statement:
+--   Definition bundle for the Aether Catalog module `Shared.AttentionBudgetKnee`, transplanted by skeleton subtraction; supplies the types and constants the catalog's theorems import.
+
+-- Def bundle generated from Shared/AttentionBudgetKnee.lean by skeleton subtraction
+import Mathlib
+
+/-!
+# The attention-budget knee: context-stable versus context-sensitive key budgets
+
+This file develops a formal, model-free theory of the object measured in the NET-65
+experiment: the *retained attention mass* of a top-`k` truncation of a context of
+length `n`, and the *knee* `k*(n)` — the smallest budget of retained keys whose mass
+clears a fixed gate `τ`.
+
+The empirical situation is a dichotomy.  For one family of models the knee grows with
+context length (`{16, 20, 24}` over a rising context ladder), for another it is flat
+(`{16, 16}`).  The theorems below identify exactly which structural property of the
+attention weight profile separates the two regimes:
+
+* **Geometric decay ⇒ bounded knee** (`kstar_uniformly_bounded_of_geometric_decay`).
+  If the sorted weights obey `w (i+1) ≤ r * w i` with `r < 1`, then a single budget
+  `K = K(r, τ)` satisfies `k*(n) ≤ K` for *every* context length `n`.  This is the
+  "one 16-key budget covers every context" regime, and it makes the context
+  sensitivity `k*(2n) - k*(n)` bounded (`ctxSens_bounded_of_geometric_decay`).
+* **Bounded weight ratio (no spectral gap) ⇒ knee grows linearly**
+  (`kstar_ge_of_bounded_ratio`): `k*(n) ≥ τ · n · c / M`.  For uniform weights this is
+  sharp on both sides and the context sensitivity diverges
+  (`ctxSens_uniform_unbounded`).
+
+Together these give a genuine separation theorem, `context_sensitivity_dichotomy`:
+boundedness of the attention budget across contexts is governed by the decay profile
+of the sorted attention weights, and both regimes are non-empty.
+
+Finally we formalise the *razor bracket* reasoning used to report `k* = 16`: pure
+monotonicity of retained mass turns two measurements (a failure at `k = 12` and a pass
+at `k = 16`) into the bracket `12 < k* ≤ 16` (`knee_bracket`, `net65_razor_bracket`),
+and the strict increase of the reported sub-knee grid `4 < 6 < 8 < 12` is forced by
+positivity of the weights alone (`subknee_grid_strictly_increasing`).
+
+-- !-- Lab Notes -- !--
+Hypothesizer (5 conjectures, ranked by expected impact):
+ (H1) The knee is bounded across contexts iff the sorted attention profile has a
+      geometric (spectral-gap) tail; parameter count is irrelevant.        [BOLD]
+ (H2) Retained mass is monotone in `k` for every profile, so any two grid points
+      bracket the knee — the "razor" is a theorem, not a statistical artefact.
+ (H3) Gapless profiles (bounded ratio `w i ∈ [c, M]`) have knee `Θ(n)`, so the
+      rising `{16, 20, 24}` chain is a gapless signature.
+ (H4) There is a *universal* budget depending only on the decay ratio `r` and the
+      gate `τ`, uniform in `n`: any `K` with `r ^ K / (1 - r) ≤ 1 - τ` works.
+ (H5) A profile with a positive uniform floor cannot be context-stable: the floor
+      alone forces linear growth of the knee.                               [BOLD]
+
+Experimenter: H1–H5 are all formalised below and proved with zero sorries.
+Measured NET-65 inputs (Qwen2.5-1.5B, ctx = 1024, gate 0.98):
+  k        :   4        6        8       12       16
+  retained : 0.9318   0.9532   0.9660   0.9759   (pass)
+are used only as *hypotheses* of `net65_razor_bracket`, never as axioms.
+
+Analyst: the informative failure is that flatness in the exact form
+`k*(2n) = k*(n)` is **false** in general: for a geometric profile the normaliser
+`headMass w n` still creeps upward with `n`, so `retained w n k` is weakly decreasing
+in `n` and the knee can move by one step near a gate crossing.  The correct invariant
+is *uniform boundedness*, not equality — a "needs a different definition" outcome,
+and it is exactly what a two-point measurement `{16, 16}` can support.
+
+Critic: no theorem here is vacuous.  `subknee_grid_strictly_increasing` shows the
+sub-knee values are strictly increasing (the reported table is not a plateau);
+`context_sensitivity_dichotomy` exhibits both regimes with explicit witnesses, so the
+hypothesis classes are non-empty; and `retained_lt_one_of_lt` shows the gate is a real
+constraint (retained mass is `< 1` strictly below the context length).
+-/
+
+namespace AttentionBudget
+
+open Finset
+
+/-! ## Retained mass, the knee, and context sensitivity -/
+
+/-- Total unnormalised weight of the top `k` keys of a sorted attention profile. -/
+noncomputable def headMass (w : ℕ → ℝ) (k : ℕ) : ℝ := ∑ i ∈ range k, w i
+
+/-- The fraction of the attention mass of a context of length `n` that survives a
+top-`k` truncation. -/
+noncomputable def retained (w : ℕ → ℝ) (n k : ℕ) : ℝ :=
+  headMass w (min k n) / headMass w n
+
+/-- The *knee*: the least key budget whose retained mass clears the gate `τ`. -/
+noncomputable def kstar (w : ℕ → ℝ) (n : ℕ) (τ : ℝ) : ℕ := sInf {k | τ ≤ retained w n k}
+
+/-- Context sensitivity of the attention budget: how far the knee moves when the
+context length is doubled. -/
+noncomputable def ctxSens (w : ℕ → ℝ) (τ : ℝ) (n : ℕ) : ℕ := kstar w (2 * n) τ - kstar w n τ
+
+/-! ## Basic monotonicity theory -/
+
+section Basic
+
+variable {w : ℕ → ℝ} (hw : ∀ i, 0 < w i)
+
+include hw
+
+
+
+
+
+
+
+
+
+
+
+end Basic
+
+/-! ## The knee: existence, characterisation, and the razor bracket -/
+
+section Knee
+
+variable {w : ℕ → ℝ} {τ : ℝ} {n : ℕ} (hw : ∀ i, 0 < w i)
+
+include hw
+
+
+
+
+
+
+
+
+
+
+end Knee
+
+/-! ## Regime I: geometric decay gives a context-stable budget -/
+
+section Geometric
+
+variable {w : ℕ → ℝ} {r τ : ℝ}
+
+
+
+
+
+
+end Geometric
+
+/-! ## Regime II: no spectral gap forces a linearly growing budget -/
+
+section Gapless
+
+variable {w : ℕ → ℝ} {τ : ℝ} {n : ℕ}
+
+
+/-! ### The uniform profile: both bounds are sharp -/
+
+
+
+
+
+
+end Gapless
+
+/-! ## The separation theorem -/
+
+
+end AttentionBudget
+
+

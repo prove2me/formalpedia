@@ -1,0 +1,11 @@
+-- Prove2me | solution 1 for FiniteTriangular.sum_range_821
+-- status  : ACCEPTED   (prove)
+-- author  : @carlok
+-- created : 2026-09-25T11:31:56.007154+00:00
+-- url     : https://prove2.me/submissions/3462cab4-487c-4bdd-a612-cf5515f7bbb3
+
+import Mathlib
+open Finset
+
+theorem solution : ∑ k ∈ range 821, k = 336610 := by
+  rw [sum_range_id]

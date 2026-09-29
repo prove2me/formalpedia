@@ -1,0 +1,53 @@
+-- Prove2me | solution 1 for KobayashiMaskawa1973.kmMatrix_witness_11
+-- status  : ACCEPTED   (prove)
+-- author  : @Nickrobbins95
+-- created : 2026-09-25T01:49:08.492236+00:00
+-- url     : https://prove2.me/submissions/8f03d3f5-1e61-49e6-bbe5-0db65468dc1f
+
+import Mathlib
+import Definitions.Def_KobayashiMaskawa1973_Defs
+
+set_option autoImplicit false
+set_option linter.unusedSimpArgs false
+
+open KobayashiMaskawa1973 Matrix in
+theorem kmx_11 (θ₁ θ₂ θ₃ δ : ℝ) :
+    kmMatrix θ₁ θ₂ θ₃ δ 1 1 = (Real.cos θ₁ : ℂ) * (Real.cos θ₂ : ℂ) * (Real.cos θ₃ : ℂ)
+      - (Real.sin θ₂ : ℂ) * (Real.sin θ₃ : ℂ) * Complex.exp ((δ : ℂ) * Complex.I) := rfl
+
+open KobayashiMaskawa1973 Matrix in
+theorem kmx_cos4 : Real.cos (Real.pi / 4) = 1 / Real.sqrt 2 := by
+  rw [Real.cos_pi_div_four]; exact Real.sqrt_div_self'
+
+open KobayashiMaskawa1973 Matrix in
+theorem kmx_sin4 : Real.sin (Real.pi / 4) = 1 / Real.sqrt 2 := by
+  rw [Real.sin_pi_div_four]; exact Real.sqrt_div_self'
+
+open KobayashiMaskawa1973 Matrix in
+theorem kmx_expI : Complex.exp (((Real.pi / 2 : ℝ) : ℂ) * Complex.I) = Complex.I := by
+  push_cast; exact Complex.exp_pi_div_two_mul_I
+
+open KobayashiMaskawa1973 Matrix in
+theorem kmx_sq2 : ((Real.sqrt 2 : ℝ) : ℂ) ^ 2 = 2 := by
+  rw [← Complex.ofReal_pow, Real.sq_sqrt (by norm_num)]; norm_num
+
+open KobayashiMaskawa1973 Matrix in
+theorem kmx_sq2_ne : ((Real.sqrt 2 : ℝ) : ℂ) ≠ 0 := by
+  exact_mod_cast (by positivity : Real.sqrt 2 ≠ 0)
+
+open KobayashiMaskawa1973 Matrix in
+theorem kmx_w11 :
+    kmMatrix (Real.pi / 4) (Real.pi / 4) (Real.pi / 4) (Real.pi / 2) 1 1 =
+      (1 / (2 * Real.sqrt 2) - Complex.I / 2) := by
+  rw [kmx_11, kmx_cos4, kmx_sin4, kmx_expI]
+  have hx := kmx_sq2
+  have hx0 := kmx_sq2_ne
+  push_cast
+  generalize ((Real.sqrt 2 : ℝ) : ℂ) = x at hx hx0 ⊢
+  field_simp
+  linear_combination (-(1 - x * Complex.I)) * hx
+
+open KobayashiMaskawa1973 Matrix in
+theorem solution :
+    kmMatrix (Real.pi / 4) (Real.pi / 4) (Real.pi / 4) (Real.pi / 2) 1 1 = (1 / (2 * Real.sqrt 2) - Complex.I / 2) := by
+  exact kmx_w11

@@ -1,0 +1,62 @@
+-- Prove2me | solution 1 for Round10.least_complete_exponent_prod
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-11T07:55:36.010579+00:00
+-- url     : https://prove2.me/submissions/954a9dc7-ce7a-4fd4-9ba2-614c6a33dcfc
+
+-- Sol generated from Geometry/Round10Closures/SquarefreeTrace.lean
+import Mathlib
+import Definitions.Def_Geometry_Round10Closures_TraceLemma
+import Theorems.Thm_Round10_freeWitness_prod_eq_totient_iff
+/-
+Round-10 Closures — Part VIII (cycle 3): the trace lemma beyond semiprimes.
+
+Cycle 3 pushes the classification off the semiprime case: the free-witness family is
+multiplicative, so for every squarefree modulus `N = ∏_{r ∈ P} r` (a finite set of distinct
+primes) the witness is the product of the local gcd-residue coordinates,
+
+    R_k(N) = ∏_{r ∈ P} gcd(k, r - 1).
+
+Two consequences are recorded:
+
+* the population of square roots of unity is `2^ω(N)` for odd squarefree `N`, so the
+  residue coordinate *counts the prime factors* — the classified coordinate already knows
+  `ω(N)`, while it still cannot name a single factor without aggregation;
+* the witness of the exponent `k` is still bounded by `k^{ω(N)}`, so the bounded-exponent
+  barrier of `JointClosure.lean` degrades only polynomially in the number of factors.
+-/
+
+open Round10
+
+
+
+
+
+
+/-! ### The Carmichael threshold for squarefree moduli (cycle 4)
+
+The completeness analysis of `AggregationCost.lean` generalises verbatim: a free witness of
+a squarefree modulus is maximal exactly at the multiples of `lcm_{r ∈ P} (r-1)`, the
+Carmichael exponent of `N`.  So the aggregation depth of the classical channel is the
+Carmichael function, for every squarefree modulus and not just for semiprimes. -/
+
+
+
+
+
+
+open Round10 in
+theorem solution(P : Finset ℕ) (hP : ∀ r ∈ P, r.Prime) :
+    IsLeast {m : ℕ | 0 < m ∧ freeWitness (∏ r ∈ P, r) m = ∏ r ∈ P, (r - 1)}
+      (P.lcm (fun r => r - 1)) := by
+  classical
+  have hpos : 0 < P.lcm (fun r => r - 1) := by
+    refine Nat.pos_of_ne_zero fun h0 => ?_
+    rw [Finset.lcm_eq_zero_iff] at h0
+    obtain ⟨r, hr, hr0⟩ := h0
+    have := (hP r hr).two_le
+    omega
+  refine ⟨⟨hpos, (freeWitness_prod_eq_totient_iff _ P hP).mpr fun r hr => Finset.dvd_lcm hr⟩, ?_⟩
+  rintro m ⟨hm, hcomp⟩
+  exact Nat.le_of_dvd hm
+    (Finset.lcm_dvd fun r hr => (freeWitness_prod_eq_totient_iff m P hP).mp hcomp r hr)

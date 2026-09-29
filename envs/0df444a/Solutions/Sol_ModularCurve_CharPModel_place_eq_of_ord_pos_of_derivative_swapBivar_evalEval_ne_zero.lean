@@ -1,0 +1,1156 @@
+-- Prove2me | solution 1 for ModularCurve.CharPModel.place_eq_of_ord_pos_of_derivative_swapBivar_evalEval_ne_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:09.007888+00:00
+-- url     : https://prove2.me/submissions/6fbb5717-88f1-5966-b4cb-c88be789b3f8
+
+import Mathlib.Algebra.Polynomial.Bivariate
+import Mathlib.RingTheory.DiscreteValuationRing.Basic
+import Mathlib.RingTheory.Filtration
+import Mathlib.RingTheory.Localization.AtPrime.Basic
+import Mathlib.RingTheory.Localization.Submodule
+import Mathlib.RingTheory.Polynomial.UniqueFactorization
+import Definitions.Def_AlgebraicCurve_DivisorClassGroup
+import Definitions.Def_ModularCurve_JqCoeff
+import Definitions.Def_ModularCurve_PhiGen
+import Definitions.Def_ModularCurve_CharLFrobeniusGeomLevel
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_ModularCurve_CharPModel_place_eq_of_ord_pos_of_derivative_swapBivar_evalEval_ne_zero
+
+set_option autoImplicit false
+
+noncomputable section
+
+open ModularCurve AlgebraicCurve Polynomial
+open scoped Polynomial.Bivariate
+
+namespace SmoothPlanePoint
+
+section Core
+
+variable {R : Type*} [CommRing R] [IsNoetherianRing R] [IsLocalRing R]
+
+private theorem exists_unit_mul_pow {π : R} (hπ : IsLocalRing.maximalIdeal R = Ideal.span {π}) {x : R} (hx : x ≠ 0) :
+    ∃ (n : ℕ) (u : R), IsUnit u ∧ x = u * π ^ n := by
+  classical
+  have hK : ⨅ i : ℕ, (IsLocalRing.maximalIdeal R) ^ i = ⊥ :=
+    Ideal.iInf_pow_eq_bot_of_isLocalRing _ (IsLocalRing.maximalIdeal.isMaximal R).ne_top
+  have hex : ∃ n : ℕ, x ∉ (IsLocalRing.maximalIdeal R) ^ n := by
+    by_contra h
+    have h' : ∀ n : ℕ, x ∈ (IsLocalRing.maximalIdeal R) ^ n := fun n => by
+      by_contra hn; exact h ⟨n, hn⟩
+    have : x ∈ ⨅ i : ℕ, (IsLocalRing.maximalIdeal R) ^ i := Ideal.mem_iInf.mpr h'
+    rw [hK, Ideal.mem_bot] at this
+    exact hx this
+  obtain ⟨n, hn, hmin⟩ : ∃ n, x ∉ (IsLocalRing.maximalIdeal R) ^ n ∧ ∀ m < n, x ∈ (IsLocalRing.maximalIdeal R) ^ m := by
+    refine ⟨Nat.find hex, Nat.find_spec hex, fun m hm => ?_⟩
+    have := Nat.find_min hex hm
+    simpa using this
+  have hn0 : n ≠ 0 := by
+    rintro rfl
+    exact hn (by rw [pow_zero, Ideal.one_eq_top]; exact Submodule.mem_top)
+  obtain ⟨m, rfl⟩ : ∃ m, n = m + 1 := Nat.exists_eq_succ_of_ne_zero hn0
+  have hxm : x ∈ Ideal.span {π ^ m} := by
+    rw [← Ideal.span_singleton_pow, ← hπ]; exact hmin m (Nat.lt_succ_self m)
+  obtain ⟨c, hc⟩ := Ideal.mem_span_singleton'.mp hxm
+  refine ⟨m, c, ?_, hc.symm⟩
+  by_contra hcu
+  have hcm : c ∈ IsLocalRing.maximalIdeal R := (IsLocalRing.mem_maximalIdeal c).mpr hcu
+  rw [hπ] at hcm
+  obtain ⟨d, hd⟩ := Ideal.mem_span_singleton'.mp hcm
+  apply hn
+  rw [hπ, Ideal.span_singleton_pow, Ideal.mem_span_singleton']
+  exact ⟨d, by rw [← hc, ← hd, pow_succ]; ring⟩
+
+private theorem isDomain_and_dvr {π : R} (hπ : IsLocalRing.maximalIdeal R = Ideal.span {π}) (hnil : ∀ n : ℕ, π ^ n ≠ 0) :
+    ∃ _ : IsDomain R, IsDiscreteValuationRing R := by
+  classical
+  have hπ0 : π ≠ 0 := fun h => hnil 1 (by rw [pow_one, h])
+  have hπu : ¬ IsUnit π := by
+    intro hu
+    have : π ∈ IsLocalRing.maximalIdeal R := by rw [hπ]; exact Ideal.mem_span_singleton_self π
+    exact (IsLocalRing.mem_maximalIdeal π).mp this hu
+
+  haveI : NoZeroDivisors R := by
+    refine ⟨fun {a b} h => ?_⟩
+    by_cases ha : a = 0
+    · exact Or.inl ha
+    by_cases hb : b = 0
+    · exact Or.inr hb
+    exfalso
+    obtain ⟨m, u, hu, rfl⟩ := exists_unit_mul_pow hπ ha
+    obtain ⟨n, w, hw, rfl⟩ := exists_unit_mul_pow hπ hb
+    apply hnil (m + n)
+    have h' : (u * w) * π ^ (m + n) = 0 := by rw [pow_add, ← h]; ring
+    exact (hu.mul hw).mul_right_eq_zero.mp h'
+  haveI : IsDomain R := NoZeroDivisors.to_isDomain R
+  refine ⟨inferInstance, IsDiscreteValuationRing.ofHasUnitMulPowIrreducibleFactorization ⟨π, ?_, ?_⟩⟩
+  · refine ⟨hπu, fun a b hab => ?_⟩
+    by_contra h
+    obtain ⟨ha, hb⟩ := not_or.mp h
+    have ham : a ∈ Ideal.span {π} := hπ ▸ (IsLocalRing.mem_maximalIdeal a).mpr ha
+    have hbm : b ∈ Ideal.span {π} := hπ ▸ (IsLocalRing.mem_maximalIdeal b).mpr hb
+    obtain ⟨c, hc⟩ := Ideal.mem_span_singleton'.mp ham
+    obtain ⟨d, hd⟩ := Ideal.mem_span_singleton'.mp hbm
+    have h1 : π * (1 - c * d * π) = 0 := by
+      have : π = c * d * π * π := by
+        calc π = a * b := hab
+          _ = (c * π) * (d * π) := by rw [hc, hd]
+          _ = c * d * π * π := by ring
+      linear_combination this
+    have hunit : IsUnit (1 - c * d * π) := by
+      apply IsLocalRing.isUnit_one_sub_self_of_mem_nonunits
+      have : c * d * π ∈ IsLocalRing.maximalIdeal R := by
+        rw [hπ]; exact Ideal.mul_mem_left _ _ (Ideal.mem_span_singleton_self π)
+      exact this
+    exact hπ0 (hunit.mul_left_eq_zero.mp h1)
+  · intro x hx
+    obtain ⟨n, u, hu, rfl⟩ := exists_unit_mul_pow hπ hx
+    exact ⟨n, ⟨hu.unit, by rw [IsUnit.unit_spec, mul_comm]⟩⟩
+
+end Core
+
+section Plane
+
+variable {k : Type*} [Field k]
+
+private def swapK : k[X][Y] →+* k[X][Y] :=
+  eval₂RingHom (eval₂RingHom (C.comp C) (Polynomial.X : k[X][Y])) (C Polynomial.X)
+
+@[scoped simp] private theorem swapK_CC (c : k) : swapK (CC c : k[X][Y]) = CC c := by simp [swapK, CC]
+@[scoped simp] private theorem swapK_C_C (c : k) : swapK (C (C c) : k[X][Y]) = C (C c) := by simp [swapK]
+@[scoped simp] private theorem swapK_C_X : swapK (C X : k[X][Y]) = Polynomial.X := by simp [swapK]
+@[scoped simp] private theorem swapK_Y : swapK (Polynomial.X : k[X][Y]) = C X := by simp [swapK]
+
+private theorem evalEval_swapK (f : k[X][Y]) (a b : k) : (swapK f).evalEval b a = f.evalEval a b := by
+  have key : (evalEvalRingHom b a).comp (swapK (k := k)) = evalEvalRingHom a b := by
+    apply Polynomial.ringHom_ext
+    · intro p
+      have hin : ((evalEvalRingHom b a).comp (swapK (k := k))).comp C = (evalEvalRingHom a b).comp C := by
+        apply Polynomial.ringHom_ext
+        · intro c
+          show (swapK (CC c)).evalEval b a = (CC c).evalEval a b
+          rw [swapK_CC]; simp [evalEval]
+        · show (swapK (C X : k[X][Y])).evalEval b a = (C X : k[X][Y]).evalEval a b
+          rw [swapK_C_X]; simp [evalEval]
+      exact DFunLike.congr_fun hin p
+    · show (swapK (Polynomial.X : k[X][Y])).evalEval b a = (Polynomial.X : k[X][Y]).evalEval a b
+      rw [swapK_Y]; simp [evalEval]
+  exact DFunLike.congr_fun key f
+
+private lemma ker_evalEvalRingHom' (a b : k) :
+    RingHom.ker (evalEvalRingHom a b) = Ideal.span {(C (X - C a) : k[X][Y]), Y - CC b} := by
+  refine le_antisymm (fun f hf => ?_) (Ideal.span_le.mpr ?_)
+  · rw [RingHom.mem_ker] at hf
+    have hmod : f %ₘ (Y - CC b) = C (f.eval (C b)) := modByMonic_X_sub_C_eq_C_eval f (C b)
+    have hr : (f.eval (C b)).eval a = 0 := hf
+    obtain ⟨s, hs⟩ : (X - C a) ∣ f.eval (C b) := dvd_iff_isRoot.mpr hr
+    have hsplit : f = C (X - C a) * C s + (Y - CC b) * (f /ₘ (Y - CC b)) := by
+      conv_lhs => rw [← modByMonic_add_div f (Y - CC b)]
+      rw [hmod, hs, map_mul]
+    rw [hsplit]
+    exact Ideal.add_mem _
+      (Ideal.mul_mem_right _ _ (Ideal.subset_span (Set.mem_insert _ _)))
+      (Ideal.mul_mem_right _ _ (Ideal.subset_span (Set.mem_insert_of_mem _ rfl)))
+  · rintro x hx
+    simp only [Set.mem_insert_iff, Set.mem_singleton_iff] at hx
+    rcases hx with rfl | rfl
+    · simp [RingHom.mem_ker]
+    · simp [RingHom.mem_ker]
+
+private theorem exists_taylor (P : k[X][Y]) (a b : k) (hroot : P.evalEval a b = 0) :
+    ∃ A B : k[X][Y], P = C (X - C a) * A + (Y - CC b) * B ∧
+      A.evalEval a b = (derivative (swapK P)).evalEval b a := by
+  have hmem : P ∈ Ideal.span {(C (X - C a) : k[X][Y]), Y - CC b} := by
+    rw [← ker_evalEvalRingHom', RingHom.mem_ker]; exact hroot
+  obtain ⟨A, B, hAB⟩ := Ideal.mem_span_pair.mp hmem
+  refine ⟨A, B, by rw [← hAB]; ring, ?_⟩
+  have hsw : swapK P = (Polynomial.X - CC a) * swapK A + C (X - C b) * swapK B := by
+    rw [← hAB]
+    simp only [map_add, map_mul, map_sub, swapK_C_X, swapK_Y, CC, swapK_C_C]
+    ring
+  rw [hsw, derivative_add, derivative_mul, derivative_mul, derivative_sub, derivative_X, derivative_C,
+    derivative_C, sub_zero, one_mul, zero_mul, zero_add]
+  simp only [evalEval, eval_add, eval_mul, eval_sub, eval_X, eval_C, CC, sub_self, zero_mul, add_zero]
+  have := evalEval_swapK A a b
+  simp only [evalEval] at this
+  rw [this]
+
+private theorem exists_prime_factor_through (P : k[X][Y]) (hP0 : P ≠ 0) (a b : k) (hroot : P.evalEval a b = 0) :
+    ∃ Q : k[X][Y], Prime Q ∧ Q ∣ P ∧ Q.evalEval a b = 0 := by
+  classical
+  obtain ⟨u, hu⟩ := UniqueFactorizationMonoid.factors_prod hP0
+
+  have hev : (evalEvalRingHom a b) P = ((UniqueFactorizationMonoid.factors P).map (evalEvalRingHom a b)).prod
+      * (evalEvalRingHom a b) u := by
+    conv_lhs => rw [← hu]
+    rw [map_mul, map_multiset_prod]
+  have hu0 : (evalEvalRingHom a b) (u : k[X][Y]) ≠ 0 := (u.isUnit.map _).ne_zero
+  have hprod : ((UniqueFactorizationMonoid.factors P).map (evalEvalRingHom a b)).prod = 0 := by
+    have h : (evalEvalRingHom a b) P = 0 := hroot
+    rw [hev] at h
+    exact (mul_eq_zero.mp h).resolve_right hu0
+  obtain ⟨c, hc, hc0⟩ : ∃ c ∈ (UniqueFactorizationMonoid.factors P).map (evalEvalRingHom a b), c = 0 :=
+    ⟨0, Multiset.prod_eq_zero_iff.mp hprod, rfl⟩
+  obtain ⟨Q, hQ, hQc⟩ := Multiset.mem_map.mp hc
+  refine ⟨Q, UniqueFactorizationMonoid.prime_of_factor Q hQ, ?_, by rw [← hc0, ← hQc]; rfl⟩
+  exact (UniqueFactorizationMonoid.dvd_of_mem_factors hQ)
+
+private theorem not_dvd_mul_pow (P : k[X][Y]) (hP0 : P ≠ 0) (a b : k) (hroot : P.evalEval a b = 0)
+    (hder : (derivative (swapK P)).evalEval b a ≠ 0) (s : k[X][Y]) (hs : s.evalEval a b ≠ 0) (n : ℕ) :
+    ¬ P ∣ s * (Y - CC b) ^ n := by
+  intro hdvd
+  obtain ⟨Q, hQ, hQP, hQab⟩ := exists_prime_factor_through P hP0 a b hroot
+  rcases hQ.dvd_or_dvd (dvd_trans hQP hdvd) with h | h
+  · obtain ⟨c, rfl⟩ := h
+    apply hs
+    rw [show (Q * c).evalEval a b = Q.evalEval a b * c.evalEval a b from map_mul (evalEvalRingHom a b) Q c,
+      hQab, zero_mul]
+  · have hY : Prime (Y - CC b : k[X][Y]) := prime_X_sub_C (C b)
+    have hQY : Q ∣ Y - CC b := hQ.dvd_of_dvd_pow h
+    have hYP : (Y - CC b) ∣ P := dvd_trans ((hQ.associated_of_dvd hY hQY).symm.dvd) hQP
+    obtain ⟨P₁, hP₁⟩ := hYP
+    apply hder
+    rw [hP₁, map_mul, map_sub, swapK_Y, swapK_CC, derivative_mul]
+    simp only [CC, ← C_sub, derivative_C, zero_mul, zero_add]
+    simp [evalEval]
+
+variable (P : k[X][Y]) (a b : k)
+
+private theorem mk_mem_pt_iff' (hroot : P.evalEval a b = 0) (y : k[X][Y]) :
+    Ideal.Quotient.mk (Ideal.span {P}) y ∈
+        Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)), Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)}
+      ↔ y.evalEval a b = 0 := by
+  set J : Ideal k[X][Y] := Ideal.span {C (X - C a), Y - CC b} with hJdef
+  have hker : RingHom.ker (evalEvalRingHom a b) = J := ker_evalEvalRingHom' a b
+  have hPJ : Ideal.span {P} ≤ J := by
+    rw [Ideal.span_le, Set.singleton_subset_iff, ← hker]
+    exact hroot
+  have hmap : Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)),
+      Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)} = J.map (Ideal.Quotient.mk (Ideal.span {P})) := by
+    rw [hJdef, Ideal.map_span, Set.image_pair]
+  rw [hmap]
+  constructor
+  · intro hy
+    obtain ⟨z, hzJ, hzy⟩ := (Ideal.mem_map_iff_of_surjective _ Ideal.Quotient.mk_surjective).mp hy
+    have hsub : z - y ∈ Ideal.span {P} := Ideal.Quotient.eq.mp hzy
+    have hyJ : y ∈ J := by
+      have : y = z - (z - y) := by ring
+      rw [this]
+      exact J.sub_mem hzJ (hPJ hsub)
+    rw [← hker] at hyJ
+    exact hyJ
+  · intro hy
+    refine Ideal.mem_map_of_mem _ ?_
+    rw [← hker]
+    exact hy
+
+set_option maxSynthPendingDepth 3 in
+
+private theorem dvr_of_isLocalizationAtPrime (hP0 : P ≠ 0) (hroot : P.evalEval a b = 0)
+    (hder : (derivative (swapK P)).evalEval b a ≠ 0)
+    (𝔭 : Ideal (k[X][Y] ⧸ Ideal.span {P}))
+    (h𝔭 : 𝔭 = Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)), Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)})
+    [𝔭.IsPrime] (L : Type*) [CommRing L] [Algebra (k[X][Y] ⧸ Ideal.span {P}) L] [IsLocalization.AtPrime L 𝔭]
+    [IsLocalRing L] [IsNoetherianRing L] :
+    ∃ _ : IsDomain L, IsDiscreteValuationRing L := by
+  classical
+  set mkP := Ideal.Quotient.mk (Ideal.span {P}) with hmkP
+  set φ := algebraMap (k[X][Y] ⧸ Ideal.span {P}) L with hφ
+  set π : L := φ (mkP (Y - CC b)) with hπ
+  set ξ : L := φ (mkP (C (X - C a))) with hξ
+  have hmem_pt : ∀ y : k[X][Y], mkP y ∈ 𝔭 ↔ y.evalEval a b = 0 := fun y => by
+    rw [h𝔭, hmkP]; exact mk_mem_pt_iff' P a b hroot y
+
+  obtain ⟨A, B, hTaylor, hA⟩ := exists_taylor P a b hroot
+  have hAu : IsUnit (φ (mkP A)) := by
+    rw [hφ, IsLocalization.AtPrime.isUnit_to_map_iff L 𝔭]
+    intro hmem
+    exact hder (hA ▸ (hmem_pt A).mp hmem)
+  have hrel : ξ * φ (mkP A) + π * φ (mkP B) = 0 := by
+    have h0 : mkP (C (X - C a) * A + (Y - CC b) * B) = 0 := by
+      rw [← hTaylor, hmkP, Ideal.Quotient.eq_zero_iff_mem]; exact Ideal.mem_span_singleton_self P
+    have h1 : ξ * φ (mkP A) + π * φ (mkP B) = φ (mkP (C (X - C a) * A + (Y - CC b) * B)) := by
+      rw [hξ, hπ, RingHom.map_add, RingHom.map_add, RingHom.map_mul, RingHom.map_mul, RingHom.map_mul, RingHom.map_mul]
+    rw [h1, h0, RingHom.map_zero]
+  have hξmem : ξ ∈ Ideal.span {π} := by
+    obtain ⟨uA, huA⟩ := hAu
+    have h2 : ξ = -(π * φ (mkP B)) * ↑uA⁻¹ := by
+      rw [← huA] at hrel
+      have h3 : ξ * ↑uA = -(π * φ (mkP B)) := eq_neg_of_add_eq_zero_left hrel
+      rw [← h3, mul_assoc, Units.mul_inv, mul_one]
+    rw [h2]
+    exact Ideal.mul_mem_right _ _ (neg_mem (Ideal.mul_mem_right _ _ (Ideal.mem_span_singleton_self π)))
+
+  have hmax : IsLocalRing.maximalIdeal L = Ideal.span {π} := by
+    apply le_antisymm
+    · intro x hx
+      obtain ⟨⟨z, s⟩, rfl⟩ := IsLocalization.mk'_surjective 𝔭.primeCompl x
+      dsimp only at hx ⊢
+      have hz : z ∈ 𝔭 := by
+        by_contra hz
+        exact (IsLocalRing.mem_maximalIdeal _).mp hx ((IsLocalization.AtPrime.isUnit_mk'_iff L 𝔭 z s).mpr hz)
+      rw [h𝔭, Ideal.mem_span_pair] at hz
+      obtain ⟨c₁, c₂, hz12⟩ := hz
+      have hφz : φ z ∈ Ideal.span {π} := by
+        rw [← hz12, RingHom.map_add, RingHom.map_mul, RingHom.map_mul]
+        exact Ideal.add_mem _ (Ideal.mul_mem_left _ _ hξmem)
+          (Ideal.mul_mem_left _ _ (Ideal.mem_span_singleton_self π))
+      rw [IsLocalization.mk'_eq_mul_mk'_one]
+      exact Ideal.mul_mem_right _ _ hφz
+    · rw [Ideal.span_le, Set.singleton_subset_iff, SetLike.mem_coe, IsLocalRing.mem_maximalIdeal, mem_nonunits_iff,
+        hπ, hφ, IsLocalization.AtPrime.isUnit_to_map_iff L 𝔭]
+      intro h
+      exact h (by rw [h𝔭]; exact Ideal.subset_span (Set.mem_insert_of_mem _ rfl))
+
+  have hnil : ∀ n : ℕ, π ^ n ≠ 0 := by
+    intro n hn
+    rw [hπ, ← RingHom.map_pow, ← RingHom.map_pow, hφ, IsLocalization.map_eq_zero_iff 𝔭.primeCompl L] at hn
+    obtain ⟨⟨s, hs⟩, hsn⟩ := hn
+    obtain ⟨s', rfl⟩ := Ideal.Quotient.mk_surjective (I := Ideal.span {P}) s
+    have hs' : s'.evalEval a b ≠ 0 := fun h0 => hs ((hmem_pt s').mpr h0)
+    have hmem : s' * (Y - CC b) ^ n ∈ Ideal.span {P} := by
+      rw [← Ideal.Quotient.eq_zero_iff_mem, RingHom.map_mul, RingHom.map_pow]
+      exact hsn
+    exact not_dvd_mul_pow P hP0 a b hroot hder s' hs' n (Ideal.mem_span_singleton.mp hmem)
+  exact isDomain_and_dvr hmax hnil
+
+set_option maxSynthPendingDepth 3 in
+
+private theorem isDiscreteValuationRing_of_derivative_swapK_ne_zero (hP0 : P ≠ 0) (hroot : P.evalEval a b = 0)
+    (hder : (derivative (swapK P)).evalEval b a ≠ 0)
+    [hm : (Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)),
+      Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)}).IsMaximal] :
+    ∃ _ : IsDomain (Localization.AtPrime (Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)),
+      Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)})),
+      IsDiscreteValuationRing (Localization.AtPrime (Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)),
+      Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)})) :=
+  dvr_of_isLocalizationAtPrime P a b hP0 hroot hder _ rfl _
+
+end Plane
+
+private theorem swapK_map_intCast {k : Type*} [Field k] (Φ : Polynomial (Polynomial ℤ)) :
+    swapK (Φ.map (Polynomial.mapRingHom (Int.castRingHom k)))
+      = (ModularCurve.swapBivar Φ).map (Polynomial.mapRingHom (Int.castRingHom k)) := by
+  have key : (swapK (k := k)).comp (Polynomial.mapRingHom (Polynomial.mapRingHom (Int.castRingHom k)))
+      = (Polynomial.mapRingHom (Polynomial.mapRingHom (Int.castRingHom k))).comp ModularCurve.swapBivar := by
+    apply Polynomial.ringHom_ext
+    · intro p
+      have hin : ((swapK (k := k)).comp (Polynomial.mapRingHom (Polynomial.mapRingHom (Int.castRingHom k)))).comp C
+          = ((Polynomial.mapRingHom (Polynomial.mapRingHom (Int.castRingHom k))).comp ModularCurve.swapBivar).comp C := by
+        apply Polynomial.ringHom_ext
+        · intro n
+          simp [ModularCurve.swapBivar, ModularCurve.swapInner, swapK]
+        · simp [ModularCurve.swapBivar, ModularCurve.swapInner, swapK]
+      exact DFunLike.congr_fun hin p
+    · simp [ModularCurve.swapBivar, swapK]
+  exact DFunLike.congr_fun key Φ
+
+end SmoothPlanePoint
+p2m_reactivate "P2MW.S_ModularCurve_CharPModel_place_eq_of_ord_pos_of_derivative_swapBivar_evalEval_ne_zero.SmoothPlanePoint"
+
+namespace DerivXPlace
+
+private theorem exists_mul_eq_of_forall_mem_closure_range {L B : Type*} [Field L] [CommRing B]
+    (π : B →+* L) (hgen : ∀ x : L, x ∈ Subfield.closure (π.range : Set L)) :
+    ∀ x : L, ∃ b c : B, π c ≠ 0 ∧ x * π c = π b := by
+  intro x
+  obtain ⟨y, hy, z, hz, hyz⟩ := Subfield.mem_closure_iff.mp (hgen x)
+  rw [Subring.closure_eq] at hy hz
+  obtain ⟨b, rfl⟩ := RingHom.mem_range.mp hy
+  obtain ⟨c, rfl⟩ := RingHom.mem_range.mp hz
+  by_cases hc : π c = 0
+  · refine ⟨0, 1, by simp, ?_⟩
+    rw [← hyz, hc, div_zero, map_one, map_zero, zero_mul]
+  · exact ⟨b, c, hc, ((div_eq_iff hc).mp hyz).symm⟩
+
+private theorem forall_mem_closure_range_of_adjoin {F E : Type*} [Field F] [Field E] [Algebra F E]
+    (S : Set E) {B : Type*} [CommRing B] (π : B →+* IntermediateField.adjoin F S)
+    (hconst : ∀ c : F, algebraMap F (IntermediateField.adjoin F S) c ∈
+      Subfield.closure (π.range : Set (IntermediateField.adjoin F S)))
+    (hgen : ∀ (s : E) (hs : s ∈ S),
+      (⟨s, IntermediateField.subset_adjoin F S hs⟩ : IntermediateField.adjoin F S) ∈
+        Subfield.closure (π.range : Set (IntermediateField.adjoin F S))) :
+    ∀ x : IntermediateField.adjoin F S,
+      x ∈ Subfield.closure (π.range : Set (IntermediateField.adjoin F S)) := by
+  intro x
+  set T := Subfield.closure (π.range : Set (IntermediateField.adjoin F S)) with hT
+  let T' : Subfield E := T.map (algebraMap (IntermediateField.adjoin F S) E)
+  have hle : Subfield.closure (Set.range (algebraMap F E) ∪ S) ≤ T' := by
+    rw [Subfield.closure_le]
+    rintro e (⟨c, rfl⟩ | he)
+    · exact ⟨_, hconst c, rfl⟩
+    · exact ⟨_, hgen e he, rfl⟩
+  have hxE : (x : E) ∈ Subfield.closure (Set.range (algebraMap F E) ∪ S) := x.2
+  obtain ⟨t, ht, htx⟩ := Subfield.mem_map.mp (hle hxE)
+  have htx' : t = x := Subtype.ext htx
+  exact htx' ▸ ht
+
+private theorem exists_mul_eq_of_adjoin {F E : Type*} [Field F] [Field E] [Algebra F E]
+    (S : Set E) {B : Type*} [CommRing B] (π : B →+* IntermediateField.adjoin F S)
+    (hconst : ∀ c : F, algebraMap F (IntermediateField.adjoin F S) c ∈
+      Subfield.closure (π.range : Set (IntermediateField.adjoin F S)))
+    (hgen : ∀ (s : E) (hs : s ∈ S),
+      (⟨s, IntermediateField.subset_adjoin F S hs⟩ : IntermediateField.adjoin F S) ∈
+        Subfield.closure (π.range : Set (IntermediateField.adjoin F S))) :
+    ∀ x : IntermediateField.adjoin F S, ∃ b c : B, π c ≠ 0 ∧ x * π c = π b :=
+  exists_mul_eq_of_forall_mem_closure_range π (forall_mem_closure_range_of_adjoin S π hconst hgen)
+
+private abbrev M (k : Type*) [Field k] (N : ℕ) [NeZero N] :
+    IntermediateField k (LaurentSeries k) := modularFunctionFieldC k N
+
+private def Jel (k : Type*) [Field k] (N : ℕ) [NeZero N] : M k N :=
+  ⟨jqModC k, jqModC_mem k N⟩
+
+private def JNel (k : Type*) [Field k] (N : ℕ) [NeZero N] : M k N :=
+  ⟨jqNModC k N, jqNModC_mem k N⟩
+
+private def ψ (k : Type*) [Field k] (N : ℕ) [NeZero N] :
+    Polynomial (Polynomial k) →+* M k N :=
+  eval₂RingHom (eval₂RingHom (algebraMap k (M k N)) (Jel k N)) (JNel k N)
+
+variable {k : Type*} [Field k] (N : ℕ) [NeZero N]
+
+@[scoped simp] private theorem ψ_CC (c : k) : ψ k N (CC c) = algebraMap k (M k N) c := by
+  simp [ψ, CC]
+
+@[scoped simp] private theorem ψ_C_X : ψ k N (C X) = Jel k N := by
+  simp [ψ]
+
+@[scoped simp] private theorem ψ_Y : ψ k N (Polynomial.X (R := Polynomial k)) = JNel k N := by
+  simp [ψ]
+
+private def lmap {K K' : Type*} [CommRing K] [CommRing K'] (f : K →+* K') :
+    LaurentSeries K →+* LaurentSeries K' where
+  toFun x := x.map f
+  map_one' := HahnSeries.map_one f.toMonoidWithZeroHom
+  map_mul' x y := HahnSeries.map_mul f.toNonUnitalRingHom
+  map_zero' := by ext g; simp [HahnSeries.map_coeff]
+  map_add' x y := by ext g; simp [HahnSeries.map_coeff]
+
+private theorem lmap_apply {K K' : Type*} [CommRing K] [CommRing K'] (f : K →+* K')
+    (x : LaurentSeries K) : lmap f x = x.map f := rfl
+
+private theorem lmap_qExpand {K K' : Type*} [CommRing K] [CommRing K'] (f : K →+* K')
+    (Nn : ℕ) [NeZero Nn] (x : LaurentSeries K) :
+    lmap f (qExpand K Nn x) = qExpand K' Nn (lmap f x) := by
+  ext g
+  rw [lmap_apply, lmap_apply, HahnSeries.map_coeff]
+  by_cases h : (Nn : ℤ) ∣ g
+  · obtain ⟨m, rfl⟩ := h
+    rw [qExpand_coeff_mul, qExpand_coeff_mul, HahnSeries.map_coeff]
+  · rw [qExpand_coeff_of_not_dvd _ _ h, qExpand_coeff_of_not_dvd _ _ h, map_zero]
+
+private theorem lmap_jqNModC {K K' : Type*} [CommRing K] [CommRing K'] (f : K →+* K')
+    (Nn : ℕ) [NeZero Nn] : lmap f (jqNModC K Nn) = jqNModC K' Nn := by
+  rw [show jqNModC K Nn = qExpand K Nn (jqModC K) from rfl, lmap_qExpand,
+    show lmap f (jqModC K) = jqModC K' from map_jqModC f]
+  rfl
+
+private theorem lmap_eval₂ {K K' : Type*} [CommRing K] [CommRing K'] (f : K →+* K')
+    (Φ : Polynomial (Polynomial ℤ)) (u w : LaurentSeries K) :
+    lmap f (Φ.eval₂ (Polynomial.aeval (R := ℤ) u).toRingHom w)
+      = Φ.eval₂ (Polynomial.aeval (R := ℤ) (lmap f u)).toRingHom (lmap f w) := by
+  rw [Polynomial.hom_eval₂]
+  congr 1
+  apply Polynomial.ringHom_ext
+  · intro a
+    simp only [RingHom.comp_apply, AlgHom.toRingHom_eq_coe, AlgHom.coe_toRingHom, map_intCast,
+      eq_intCast]
+  · simp only [RingHom.comp_apply, AlgHom.toRingHom_eq_coe, AlgHom.coe_toRingHom,
+      Polynomial.aeval_X]
+
+private theorem eval₂_int_eq_zero (data : ModularPolynomialData N) :
+    data.Φ.eval₂ (Polynomial.aeval (R := ℤ) (jqModC ℤ)).toRingHom (jqNModC ℤ N) = 0 := by
+  have hinj : Function.Injective (lmap (Int.castRingHom ℚ)) := by
+    intro x y hxy
+    ext g
+    have h := congrArg (fun z : LaurentSeries ℚ => z.coeff g) hxy
+    simp only [lmap_apply, HahnSeries.map_coeff] at h
+    rw [eq_intCast, eq_intCast] at h
+    exact_mod_cast h
+  apply hinj
+  rw [map_zero, lmap_eval₂,
+    show lmap (Int.castRingHom ℚ) (jqModC ℤ) = jqModC ℚ from map_jqModC _,
+    lmap_jqNModC,
+    show (Polynomial.aeval (R := ℤ) (jqModC ℚ)).toRingHom = evalAtJ from by
+      rw [jqModC_rat]; rfl,
+    show jqNModC ℚ N = jqN N from rfl]
+  exact data.eval_eq_zero
+
+private theorem ψ_map_Φ (data : ModularPolynomialData N) :
+    ψ k N (data.Φ.map (Polynomial.mapRingHom (Int.castRingHom k))) = 0 := by
+  refine Subtype.ext ?_
+  have hcoe : (((ψ k N (data.Φ.map (Polynomial.mapRingHom (Int.castRingHom k)))) : M k N)
+        : LaurentSeries k)
+      = (data.Φ.map (Polynomial.mapRingHom (Int.castRingHom k))).eval₂
+          (eval₂RingHom (algebraMap k (LaurentSeries k)) (jqModC k)) (jqNModC k N) := by
+    have key : (algebraMap (M k N) (LaurentSeries k)).comp (ψ k N)
+        = eval₂RingHom (eval₂RingHom (algebraMap k (LaurentSeries k)) (jqModC k))
+            (jqNModC k N) := by
+      apply Polynomial.ringHom_ext
+      · intro p
+        have hin : ((algebraMap (M k N) (LaurentSeries k)).comp (ψ k N)).comp Polynomial.C
+            = eval₂RingHom (algebraMap k (LaurentSeries k)) (jqModC k) := by
+          apply Polynomial.ringHom_ext
+          · intro c
+            show algebraMap (M k N) (LaurentSeries k) (ψ k N (CC c)) = _
+            rw [ψ_CC]
+            simp only [coe_eval₂RingHom, Polynomial.eval₂_C]
+            exact (IsScalarTower.algebraMap_apply k (M k N) (LaurentSeries k) c).symm
+          · show algebraMap (M k N) (LaurentSeries k) (ψ k N (C X)) = _
+            rw [ψ_C_X]
+            simp only [coe_eval₂RingHom, Polynomial.eval₂_X]
+            rfl
+        show algebraMap (M k N) (LaurentSeries k) (ψ k N (C p)) = _
+        have h2 : (eval₂RingHom (eval₂RingHom (algebraMap k (LaurentSeries k)) (jqModC k))
+              (jqNModC k N)) (C p)
+            = (eval₂RingHom (algebraMap k (LaurentSeries k)) (jqModC k)) p := by
+          simp only [coe_eval₂RingHom, Polynomial.eval₂_C]
+        rw [h2]
+        exact DFunLike.congr_fun hin p
+      · show algebraMap (M k N) (LaurentSeries k) (ψ k N (Polynomial.X (R := Polynomial k)))
+            = _
+        rw [ψ_Y]
+        simp only [coe_eval₂RingHom, Polynomial.eval₂_X]
+        rfl
+    exact DFunLike.congr_fun key _
+  rw [show ((0 : M k N) : LaurentSeries k) = 0 from rfl, hcoe, Polynomial.eval₂_map]
+  have hcomp : (eval₂RingHom (algebraMap k (LaurentSeries k)) (jqModC k)).comp
+      (Polynomial.mapRingHom (Int.castRingHom k))
+      = (Polynomial.aeval (R := ℤ) (jqModC k)).toRingHom := by
+    apply Polynomial.ringHom_ext
+    · intro a
+      simp only [RingHom.comp_apply, Polynomial.coe_mapRingHom, Polynomial.map_C,
+        coe_eval₂RingHom, Polynomial.eval₂_C, AlgHom.toRingHom_eq_coe, AlgHom.coe_toRingHom,
+        map_intCast, eq_intCast]
+    · simp only [RingHom.comp_apply, Polynomial.coe_mapRingHom, Polynomial.map_X,
+        coe_eval₂RingHom, Polynomial.eval₂_X, AlgHom.toRingHom_eq_coe, AlgHom.coe_toRingHom,
+        Polynomial.aeval_X]
+  rw [hcomp,
+    show jqModC k = lmap (Int.castRingHom k) (jqModC ℤ) from (map_jqModC _).symm,
+    show jqNModC k N = lmap (Int.castRingHom k) (jqNModC ℤ N) from (lmap_jqNModC _ N).symm,
+    ← lmap_eval₂, eval₂_int_eq_zero, map_zero]
+
+variable (v : Place k (M k N))
+
+private theorem Jel_sub_mem (s : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s)) :
+    Jel k N - algebraMap k (M k N) s ∈ v.toValuationSubring := by
+  by_cases h : Jel k N - algebraMap k (M k N) s = 0
+  · rw [h]; exact zero_mem _
+  · exact v.mem_of_ord_nonneg h hvj.le
+
+private theorem JNel_sub_mem (t : k)
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) :
+    JNel k N - algebraMap k (M k N) t ∈ v.toValuationSubring := by
+  by_cases h : JNel k N - algebraMap k (M k N) t = 0
+  · rw [h]; exact zero_mem _
+  · exact v.mem_of_ord_nonneg h hvjN.le
+
+private theorem Jel_mem (s : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s)) :
+    Jel k N ∈ v.toValuationSubring := by
+  have h1 := Jel_sub_mem N v s hvj
+  have h2 : algebraMap k (M k N) s ∈ v.toValuationSubring := v.algebraMap_mem' s
+  simpa using add_mem h1 h2
+
+private theorem JNel_mem (t : k)
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) :
+    JNel k N ∈ v.toValuationSubring := by
+  have h1 := JNel_sub_mem N v t hvjN
+  have h2 : algebraMap k (M k N) t ∈ v.toValuationSubring := v.algebraMap_mem' t
+  simpa using add_mem h1 h2
+
+private def ψv (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) :
+    Polynomial (Polynomial k) →+* v.toValuationSubring :=
+  eval₂RingHom (eval₂RingHom ((algebraMap k (M k N)).codRestrict _
+      fun c => v.algebraMap_mem' c)
+    ⟨Jel k N, Jel_mem N v s hvj⟩) ⟨JNel k N, JNel_mem N v t hvjN⟩
+
+private theorem coe_ψv (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t))
+    (f : Polynomial (Polynomial k)) :
+    (ψv N v s t hvj hvjN f : M k N) = ψ k N f := by
+  suffices h : (v.toValuationSubring.subtype).comp (ψv N v s t hvj hvjN) = ψ k N from
+    DFunLike.congr_fun h f
+  have hinner : (v.toValuationSubring.subtype).comp
+      (eval₂RingHom ((algebraMap k (M k N)).codRestrict _ fun c => v.algebraMap_mem' c)
+        (⟨Jel k N, Jel_mem N v s hvj⟩ : v.toValuationSubring))
+      = eval₂RingHom (algebraMap k (M k N)) (Jel k N) := by
+    apply Polynomial.ringHom_ext
+    · intro a
+      simp only [RingHom.comp_apply, coe_eval₂RingHom, eval₂_C]
+      rfl
+    · simp only [RingHom.comp_apply, coe_eval₂RingHom, eval₂_X]
+      rfl
+  apply Polynomial.ringHom_ext
+  · intro a
+    simp only [ψv, ψ, RingHom.comp_apply, coe_eval₂RingHom, eval₂_C]
+    exact DFunLike.congr_fun hinner a
+  · simp only [ψv, ψ, RingHom.comp_apply, coe_eval₂RingHom, eval₂_X]
+    rfl
+
+@[scoped simp] private theorem ψv_CC (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) (c : k) :
+    ψv N v s t hvj hvjN (CC c)
+      = (algebraMap k (M k N)).codRestrict _ (fun a => v.algebraMap_mem' a) c := by
+  simp [ψv, CC]
+
+set_option maxHeartbeats 4000000 in
+@[scoped simp] private theorem ψv_C_X (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) :
+    ψv N v s t hvj hvjN (C X) = ⟨Jel k N, Jel_mem N v s hvj⟩ := by
+  simp [ψv]
+
+set_option maxHeartbeats 4000000 in
+@[scoped simp] private theorem ψv_Y (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) :
+    ψv N v s t hvj hvjN (Polynomial.X (R := Polynomial k)) = ⟨JNel k N, JNel_mem N v t hvjN⟩ := by
+  simp [ψv]
+
+@[scoped simp] private theorem evalEval_CC' (s t c : k) : (CC c).evalEval s t = c := by
+  simp [CC, Polynomial.evalEval]
+
+@[scoped simp] private theorem evalEval_C_X' (s t : k) : (C X : Polynomial (Polynomial k)).evalEval s t = s := by
+  simp [Polynomial.evalEval]
+
+@[scoped simp] private theorem evalEval_Y' (s t : k) :
+    (Polynomial.X (R := Polynomial k)).evalEval s t = t := by
+  simp [Polynomial.evalEval]
+
+private def ctr (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) :
+    Ideal v.toValuationSubring :=
+  Ideal.span {⟨Jel k N - algebraMap k (M k N) s, Jel_sub_mem N v s hvj⟩,
+    ⟨JNel k N - algebraMap k (M k N) t, JNel_sub_mem N v t hvjN⟩}
+
+set_option maxHeartbeats 4000000 in
+
+private theorem ψv_sub_const_mem (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t))
+    (f : Polynomial (Polynomial k)) :
+    ψv N v s t hvj hvjN f
+      - (algebraMap k (M k N)).codRestrict _ (fun c => v.algebraMap_mem' c) (f.evalEval s t)
+      ∈ ctr N v s t hvj hvjN := by
+  rw [← Ideal.Quotient.eq]
+  have hgen1 : (Ideal.Quotient.mk (ctr N v s t hvj hvjN))
+      ((⟨Jel k N, Jel_mem N v s hvj⟩ : v.toValuationSubring)
+        - ⟨algebraMap k (M k N) s, v.algebraMap_mem' s⟩) = 0 := by
+    rw [Ideal.Quotient.eq_zero_iff_mem]
+    exact Ideal.subset_span (Set.mem_insert _ _)
+  have hgen2 : (Ideal.Quotient.mk (ctr N v s t hvj hvjN))
+      ((⟨JNel k N, JNel_mem N v t hvjN⟩ : v.toValuationSubring)
+        - ⟨algebraMap k (M k N) t, v.algebraMap_mem' t⟩) = 0 := by
+    rw [Ideal.Quotient.eq_zero_iff_mem]
+    exact Ideal.subset_span (Set.mem_insert_of_mem _ rfl)
+  have key : (Ideal.Quotient.mk (ctr N v s t hvj hvjN)).comp (ψv N v s t hvj hvjN)
+      = (Ideal.Quotient.mk (ctr N v s t hvj hvjN)).comp
+        (((algebraMap k (M k N)).codRestrict _ (fun c => v.algebraMap_mem' c)).comp
+          (evalEvalRingHom s t)) := by
+    apply Polynomial.ringHom_ext
+    · intro p
+      have hin : ((Ideal.Quotient.mk (ctr N v s t hvj hvjN)).comp
+            (ψv N v s t hvj hvjN)).comp Polynomial.C
+          = ((Ideal.Quotient.mk (ctr N v s t hvj hvjN)).comp
+              (((algebraMap k (M k N)).codRestrict _ (fun c => v.algebraMap_mem' c)).comp
+                (evalEvalRingHom s t))).comp Polynomial.C := by
+        apply Polynomial.ringHom_ext
+        · intro c
+          show (Ideal.Quotient.mk (ctr N v s t hvj hvjN)) (ψv N v s t hvj hvjN (CC c))
+              = (Ideal.Quotient.mk (ctr N v s t hvj hvjN))
+                ((algebraMap k (M k N)).codRestrict _ (fun a => v.algebraMap_mem' a)
+                  ((CC c).evalEval s t))
+          rw [ψv_CC, evalEval_CC']
+        · show (Ideal.Quotient.mk (ctr N v s t hvj hvjN)) (ψv N v s t hvj hvjN (C X))
+              = (Ideal.Quotient.mk (ctr N v s t hvj hvjN))
+                ((algebraMap k (M k N)).codRestrict _ (fun a => v.algebraMap_mem' a)
+                  ((C X : Polynomial (Polynomial k)).evalEval s t))
+          rw [ψv_C_X, evalEval_C_X']
+          rw [show (algebraMap k (M k N)).codRestrict v.toValuationSubring
+                (fun a => v.algebraMap_mem' a) s
+              = ⟨algebraMap k (M k N) s, v.algebraMap_mem' s⟩ from rfl]
+          rw [← sub_eq_zero, ← RingHom.map_sub]
+          exact hgen1
+      exact DFunLike.congr_fun hin p
+    · show (Ideal.Quotient.mk (ctr N v s t hvj hvjN))
+            (ψv N v s t hvj hvjN (Polynomial.X (R := Polynomial k)))
+          = (Ideal.Quotient.mk (ctr N v s t hvj hvjN))
+            ((algebraMap k (M k N)).codRestrict _ (fun a => v.algebraMap_mem' a)
+              ((Polynomial.X (R := Polynomial k)).evalEval s t))
+      rw [ψv_Y, evalEval_Y']
+      rw [show (algebraMap k (M k N)).codRestrict v.toValuationSubring
+            (fun a => v.algebraMap_mem' a) t
+          = ⟨algebraMap k (M k N) t, v.algebraMap_mem' t⟩ from rfl]
+      rw [← sub_eq_zero, ← RingHom.map_sub]
+      exact hgen2
+  exact DFunLike.congr_fun key f
+
+private theorem ctr_le_maximalIdeal (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t)) :
+    ctr N v s t hvj hvjN ≤ IsLocalRing.maximalIdeal v.toValuationSubring := by
+  rw [ctr, Ideal.span_le]
+  rintro x (rfl | rfl)
+  · rw [SetLike.mem_coe, IsLocalRing.mem_maximalIdeal, mem_nonunits_iff]
+    rintro ⟨u, hu⟩
+    have h0 := v.ord_coe_unit u
+    rw [hu] at h0
+    exact hvj.ne' h0
+  · rw [SetLike.mem_coe, IsLocalRing.mem_maximalIdeal, mem_nonunits_iff]
+    rintro ⟨u, hu⟩
+    have h0 := v.ord_coe_unit u
+    rw [hu] at h0
+    exact hvjN.ne' h0
+
+private theorem isUnit_ψv_of_evalEval_ne_zero (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t))
+    {f : Polynomial (Polynomial k)} (hf : f.evalEval s t ≠ 0) :
+    IsUnit (ψv N v s t hvj hvjN f) := by
+  set c := f.evalEval s t with hc
+  have hu : IsUnit ((algebraMap k (M k N)).codRestrict _
+      (fun a => v.algebraMap_mem' a) c) := by
+    refine isUnit_iff_exists_inv.mpr ⟨(algebraMap k (M k N)).codRestrict _
+      (fun a => v.algebraMap_mem' a) c⁻¹, ?_⟩
+    rw [← map_mul, mul_inv_cancel₀ hf, map_one]
+  by_contra hnu
+  have h1 : ψv N v s t hvj hvjN f ∈ IsLocalRing.maximalIdeal v.toValuationSubring :=
+    (IsLocalRing.mem_maximalIdeal _).mpr hnu
+  have h2 : ψv N v s t hvj hvjN f - (algebraMap k (M k N)).codRestrict _
+      (fun a => v.algebraMap_mem' a) c ∈ IsLocalRing.maximalIdeal v.toValuationSubring :=
+    ctr_le_maximalIdeal N v s t hvj hvjN (ψv_sub_const_mem N v s t hvj hvjN f)
+  have h3 : (algebraMap k (M k N)).codRestrict _
+      (fun a => v.algebraMap_mem' a) c ∈ IsLocalRing.maximalIdeal v.toValuationSubring := by
+    have := Ideal.sub_mem _ h1 h2
+    simpa using this
+  exact (IsLocalRing.mem_maximalIdeal _).mp h3 hu
+
+private theorem ord_pos_of_mem_ctr (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t))
+    {x : v.toValuationSubring} (hx : x ∈ ctr N v s t hvj hvjN) (hx0 : (x : M k N) ≠ 0) :
+    0 < v.ord (x : M k N) := by
+  have hmax := ctr_le_maximalIdeal N v s t hvj hvjN hx
+  have hnn := v.ord_nonneg_of_mem x.2
+  rcases hnn.lt_or_eq with h | h
+  · exact h
+  · exfalso
+    have hinv : (x : M k N)⁻¹ ∈ v.toValuationSubring :=
+      v.mem_of_ord_nonneg (inv_ne_zero hx0) (by rw [v.ord_inv]; omega)
+    have hux : IsUnit x := by
+      refine isUnit_iff_exists_inv.mpr ⟨⟨(x : M k N)⁻¹, hinv⟩, ?_⟩
+      exact Subtype.ext (by simpa using mul_inv_cancel₀ hx0)
+    exact (IsLocalRing.mem_maximalIdeal _).mp hmax hux
+
+private theorem ord_algebraMap_eq_zero (c : k) :
+    v.ord (algebraMap k (M k N) c) = 0 := by
+  have h1 := v.ord_nonneg_of_mem (v.algebraMap_mem' c)
+  have h2 := v.ord_nonneg_of_mem (v.algebraMap_mem' c⁻¹)
+  rw [map_inv₀, v.ord_inv] at h2
+  omega
+
+private theorem ord_ψ_eq_zero_of_evalEval_ne_zero (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t))
+    {f : Polynomial (Polynomial k)} (hf : f.evalEval s t ≠ 0) :
+    v.ord (ψ k N f) = 0 := by
+  obtain ⟨u, hu⟩ := isUnit_ψv_of_evalEval_ne_zero N v s t hvj hvjN hf
+  have h0 := v.ord_coe_unit u
+  rw [← coe_ψv N v s t hvj hvjN f, ← hu]
+  exact h0
+
+private theorem evalEval_eq_zero_of_ψ_eq_zero (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t))
+    {f : Polynomial (Polynomial k)} (hf : ψ k N f = 0) :
+    f.evalEval s t = 0 := by
+  by_contra hne
+  have hu := isUnit_ψv_of_evalEval_ne_zero N v s t hvj hvjN hne
+  refine hu.ne_zero (Subtype.ext ?_)
+  rw [coe_ψv N v s t hvj hvjN f, hf]
+  rfl
+
+private theorem ord_ψ_nonneg (s t : k)
+    (hvj : 0 < v.ord (Jel k N - algebraMap k (M k N) s))
+    (hvjN : 0 < v.ord (JNel k N - algebraMap k (M k N) t))
+    (f : Polynomial (Polynomial k)) :
+    0 ≤ v.ord (ψ k N f) := by
+  rw [← coe_ψv N v s t hvj hvjN f]
+  exact v.ord_nonneg_of_mem (ψv N v s t hvj hvjN f).2
+
+private abbrev Phib (k : Type*) [Field k] {N : ℕ} [NeZero N]
+    (data : ModularPolynomialData N) : Polynomial (Polynomial k) :=
+  data.Φ.map (Polynomial.mapRingHom (Int.castRingHom k))
+
+private lemma ker_evalEvalRingHom {k : Type*} [Field k] (a b : k) :
+    RingHom.ker (evalEvalRingHom a b) =
+      Ideal.span {(C (X - C a) : k[X][Y]), Y - CC b} := by
+  refine le_antisymm (fun f hf => ?_) (Ideal.span_le.mpr ?_)
+  · rw [RingHom.mem_ker] at hf
+    have hmod : f %ₘ (Y - CC b) = C (f.eval (C b)) := modByMonic_X_sub_C_eq_C_eval f (C b)
+    have hr : (f.eval (C b)).eval a = 0 := hf
+    obtain ⟨s, hs⟩ : (X - C a) ∣ f.eval (C b) := dvd_iff_isRoot.mpr hr
+    have hsplit : f = C (X - C a) * C s + (Y - CC b) * (f /ₘ (Y - CC b)) := by
+      conv_lhs => rw [← modByMonic_add_div f (Y - CC b)]
+      rw [hmod, hs, map_mul]
+    rw [hsplit]
+    exact Ideal.add_mem _
+      (Ideal.mul_mem_right _ _ (Ideal.subset_span (Set.mem_insert _ _)))
+      (Ideal.mul_mem_right _ _ (Ideal.subset_span (Set.mem_insert_of_mem _ rfl)))
+  · rintro x hx
+    simp only [Set.mem_insert_iff, Set.mem_singleton_iff] at hx
+    rcases hx with rfl | rfl
+    · simp [RingHom.mem_ker]
+    · simp [RingHom.mem_ker]
+
+private theorem isMaximal_span_residue {k : Type*} [Field k] (P : k[X][Y]) (a b : k)
+    (hroot : P.evalEval a b = 0) :
+    (Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)),
+        Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)}).IsMaximal := by
+  set J : Ideal k[X][Y] := Ideal.span {C (X - C a), Y - CC b} with hJdef
+  have hker : RingHom.ker (evalEvalRingHom a b) = J := ker_evalEvalRingHom a b
+  have hJmax : J.IsMaximal := by
+    rw [← hker]
+    exact RingHom.ker_isMaximal_of_surjective (evalEvalRingHom a b)
+      (fun c => ⟨CC c, by simp⟩)
+  have hPJ : Ideal.span {P} ≤ J := by
+    rw [Ideal.span_le, Set.singleton_subset_iff, ← hker]
+    exact hroot
+  have hmap : Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C a)),
+      Ideal.Quotient.mk (Ideal.span {P}) (Y - CC b)} =
+      J.map (Ideal.Quotient.mk (Ideal.span {P})) := by
+    rw [hJdef, Ideal.map_span, Set.image_pair]
+  rw [hmap]
+  have hkle : RingHom.ker (Ideal.Quotient.mk (Ideal.span {P})) ≤ J := by
+    rw [Ideal.mk_ker]; exact hPJ
+  exact Ideal.IsMaximal.map_of_surjective_of_ker_le Ideal.Quotient.mk_surjective hkle
+
+private theorem mk_mem_pt_iff {k : Type*} [Field k] (P : k[X][Y]) (s t : k)
+    (hroot : P.evalEval s t = 0) (y : k[X][Y]) :
+    Ideal.Quotient.mk (Ideal.span {P}) y ∈
+        Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C s)),
+          Ideal.Quotient.mk (Ideal.span {P}) (Y - CC t)}
+      ↔ y.evalEval s t = 0 := by
+  set J : Ideal k[X][Y] := Ideal.span {C (X - C s), Y - CC t} with hJdef
+  have hker : RingHom.ker (evalEvalRingHom s t) = J := ker_evalEvalRingHom s t
+  have hPJ : Ideal.span {P} ≤ J := by
+    rw [Ideal.span_le, Set.singleton_subset_iff, ← hker]
+    exact hroot
+  have hmap : Ideal.span {Ideal.Quotient.mk (Ideal.span {P}) (C (X - C s)),
+      Ideal.Quotient.mk (Ideal.span {P}) (Y - CC t)} =
+      J.map (Ideal.Quotient.mk (Ideal.span {P})) := by
+    rw [hJdef, Ideal.map_span, Set.image_pair]
+  rw [hmap]
+  constructor
+  · intro hy
+    obtain ⟨z, hzJ, hzy⟩ :=
+      (Ideal.mem_map_iff_of_surjective _ Ideal.Quotient.mk_surjective).mp hy
+    have hsub : z - y ∈ Ideal.span {P} := Ideal.Quotient.eq.mp hzy
+    have hyJ : y ∈ J := by
+      have : y = z - (z - y) := by ring
+      rw [this]
+      exact J.sub_mem hzJ (hPJ hsub)
+    rw [← hker] at hyJ
+    exact hyJ
+  · intro hy
+    refine Ideal.mem_map_of_mem _ ?_
+    rw [← hker]
+    exact hy
+
+private def psibar (k : Type*) [Field k] (N : ℕ) [NeZero N] (data : ModularPolynomialData N) :
+    (k[X][Y] ⧸ Ideal.span {Phib k data}) →+* M k N :=
+  Ideal.Quotient.lift (Ideal.span {Phib k data}) (ψ k N) (by
+    intro a ha
+    obtain ⟨c, rfl⟩ := Ideal.mem_span_singleton.mp ha
+    rw [map_mul, show ψ k N (Phib k data) = 0 from ψ_map_Φ N data, zero_mul])
+
+@[scoped simp] private theorem psibar_mk {k : Type*} [Field k] (N : ℕ) [NeZero N]
+    (data : ModularPolynomialData N) (f : k[X][Y]) :
+    psibar k N data (Ideal.Quotient.mk (Ideal.span {Phib k data}) f) = ψ k N f := rfl
+
+set_option maxSynthPendingDepth 3 in
+
+private noncomputable def rho {k : Type*} [Field k] (N : ℕ) [NeZero N]
+    (data : ModularPolynomialData N) (s t : k)
+    [hm : (Ideal.span {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+        Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}).IsMaximal]
+    (hroot : (Phib k data).evalEval s t = 0)
+    (hker : ∀ f : k[X][Y], ψ k N f = 0 → f.evalEval s t = 0) :
+    Localization.AtPrime (Ideal.span
+      {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+       Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}) →+* M k N :=
+  IsLocalization.lift
+    (M := (Ideal.span {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+        Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}).primeCompl)
+    (g := psibar k N data) (fun u => by
+    obtain ⟨u, hu⟩ := u
+    obtain ⟨u', rfl⟩ := Ideal.Quotient.mk_surjective (I := Ideal.span {Phib k data}) u
+    show IsUnit (psibar k N data (Ideal.Quotient.mk (Ideal.span {Phib k data}) u'))
+    rw [psibar_mk, isUnit_iff_ne_zero]
+    intro h0
+    have hmem : Ideal.Quotient.mk (Ideal.span {Phib k data}) u' ∈ Ideal.span
+        {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+         Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)} :=
+      (mk_mem_pt_iff (Phib k data) s t hroot u').mpr (hker u' h0)
+    exact hu hmem)
+
+set_option maxSynthPendingDepth 3 in
+private theorem rho_algebraMap {k : Type*} [Field k] (N : ℕ) [NeZero N]
+    (data : ModularPolynomialData N) (s t : k)
+    [hm : (Ideal.span {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+        Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}).IsMaximal]
+    (hroot : (Phib k data).evalEval s t = 0)
+    (hker : ∀ f : k[X][Y], ψ k N f = 0 → f.evalEval s t = 0) (f : k[X][Y]) :
+    rho N data s t hroot hker ((algebraMap (k[X][Y] ⧸ Ideal.span {Phib k data})
+        (Localization.AtPrime (Ideal.span
+          {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+           Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)})))
+      (Ideal.Quotient.mk (Ideal.span {Phib k data}) f))
+      = ψ k N f := by
+  unfold rho
+  rw [IsLocalization.lift_eq]
+  exact psibar_mk N data f
+
+set_option maxHeartbeats 16000000 in
+set_option maxSynthPendingDepth 3 in
+
+private theorem de_solution {k : Type*} [Field k] (N : ℕ) [NeZero N]
+    (data : ModularPolynomialData N) (s t : k)
+    (hder : (Polynomial.derivative ((swapBivar data.Φ).map (Polynomial.mapRingHom (Int.castRingHom k)))).evalEval t s
+      ≠ 0)
+    (P Q : Place k (M k N))
+    (hPj : 0 < P.ord (Jel k N - algebraMap k (M k N) s))
+    (hPjN : 0 < P.ord (JNel k N - algebraMap k (M k N) t))
+    (hQj : 0 < Q.ord (Jel k N - algebraMap k (M k N) s))
+    (hQjN : 0 < Q.ord (JNel k N - algebraMap k (M k N) t)) :
+    P = Q := by
+  classical
+  have hroot : (Phib k data).evalEval s t = 0 :=
+    evalEval_eq_zero_of_ψ_eq_zero N P s t hPj hPjN (ψ_map_Φ N data)
+  have hker : ∀ f : k[X][Y], ψ k N f = 0 → f.evalEval s t = 0 :=
+    fun f hf => evalEval_eq_zero_of_ψ_eq_zero N P s t hPj hPjN hf
+  haveI hmax : (Ideal.span {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+      Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}).IsMaximal :=
+    isMaximal_span_residue (Phib k data) s t hroot
+  have hder' : (Polynomial.derivative (SmoothPlanePoint.swapK (Phib k data))).evalEval t s ≠ 0 := by
+    rw [SmoothPlanePoint.swapK_map_intCast]; exact hder
+  obtain ⟨hdom, hdvr⟩ :=
+    SmoothPlanePoint.isDiscreteValuationRing_of_derivative_swapK_ne_zero
+      (Phib k data) s t (data.monic.map _).ne_zero hroot hder'
+  haveI := hdom
+  haveI := hdvr
+  haveI : IsBezout (Localization.AtPrime (Ideal.span
+      {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+       Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)})) :=
+    (IsBezout.iff_span_pair_isPrincipal (R := Localization.AtPrime (Ideal.span
+      {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+       Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}))).mpr
+      fun _ _ => IsPrincipalIdealRing.principal _
+
+  have hrange : ∀ (W : Place k (M k N)),
+      0 < W.ord (Jel k N - algebraMap k (M k N) s) →
+      0 < W.ord (JNel k N - algebraMap k (M k N) t) →
+      ∀ x : M k N, x ∈ W.toValuationSubring ↔ x ∈ (rho N data s t hroot hker).range := by
+    intro W hWj hWjN x
+
+    have havatar : ∀ (y : M k N) (z' u' : k[X][Y]), u'.evalEval s t ≠ 0 →
+        y * ψ k N u' = ψ k N z' →
+        y ∈ W.toValuationSubring ∧ (z'.evalEval s t = 0 → y ≠ 0 → 0 < W.ord y) := by
+      intro y z' u' hut hyspec
+      have hψu0 : ψ k N u' ≠ 0 :=
+        fun h => hut (evalEval_eq_zero_of_ψ_eq_zero N W s t hWj hWjN h)
+      have hu0 : W.ord (ψ k N u') = 0 :=
+        ord_ψ_eq_zero_of_evalEval_ne_zero N W s t hWj hWjN hut
+      rcases eq_or_ne y 0 with rfl | hy0
+      · exact ⟨zero_mem _, fun _ h => absurd rfl h⟩
+      · have hz0 : ψ k N z' ≠ 0 := hyspec ▸ mul_ne_zero hy0 hψu0
+        have hordy : W.ord y = W.ord (ψ k N z') := by
+          have h := W.ord_mul hy0 hψu0
+          rw [hyspec, hu0, add_zero] at h
+          exact h.symm
+        have hzmem : ψ k N z' ∈ W.toValuationSubring := by
+          rw [← coe_ψv N W s t hWj hWjN z']
+          exact (ψv N W s t hWj hWjN z').2
+        refine ⟨W.mem_of_ord_nonneg hy0 ?_, fun hzt hy0' => ?_⟩
+        · rw [hordy]
+          exact W.ord_nonneg_of_mem hzmem
+        · have hctrz : ψv N W s t hWj hWjN z' ∈ ctr N W s t hWj hWjN := by
+            have h := ψv_sub_const_mem N W s t hWj hWjN z'
+            rw [hzt, map_zero, sub_zero] at h
+            exact h
+          have hcz : ((ψv N W s t hWj hWjN z' : W.toValuationSubring) : M k N) ≠ 0 := by
+            rw [coe_ψv]; exact hz0
+          have hpos := ord_pos_of_mem_ctr N W s t hWj hWjN hctrz hcz
+          rw [coe_ψv N W s t hWj hWjN z'] at hpos
+          rw [hordy]
+          exact hpos
+
+    have hspec : ∀ r : Localization.AtPrime (Ideal.span
+        {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+         Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}),
+        ∃ z' u' : k[X][Y], u'.evalEval s t ≠ 0 ∧
+          rho N data s t hroot hker r * ψ k N u' = ψ k N z' ∧
+          (¬IsUnit r → z'.evalEval s t = 0) := by
+      intro r
+      obtain ⟨⟨z, u⟩, rfl⟩ := IsLocalization.mk'_surjective (Ideal.span
+        {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+         Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}).primeCompl r
+      obtain ⟨z', rfl⟩ := Ideal.Quotient.mk_surjective (I := Ideal.span {Phib k data}) z
+      obtain ⟨u', hu'⟩ := Ideal.Quotient.mk_surjective (I := Ideal.span {Phib k data}) (u : _)
+      have hut : u'.evalEval s t ≠ 0 := by
+        intro h0
+        exact u.2 (hu' ▸ (mk_mem_pt_iff (Phib k data) s t hroot u').mpr h0)
+      refine ⟨z', u', hut, ?_, ?_⟩
+      · have h0 := congrArg (rho N data s t hroot hker)
+          (IsLocalization.mk'_spec (Localization.AtPrime (Ideal.span
+            {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+             Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}))
+            (Ideal.Quotient.mk (Ideal.span {Phib k data}) z') u)
+        rw [map_mul] at h0
+        rw [show ((algebraMap (k[X][Y] ⧸ Ideal.span {Phib k data})
+              (Localization.AtPrime (Ideal.span
+            {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+             Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)})))
+              ((u : k[X][Y] ⧸ Ideal.span {Phib k data}))) =
+            (algebraMap (k[X][Y] ⧸ Ideal.span {Phib k data})
+              (Localization.AtPrime (Ideal.span
+            {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+             Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)})))
+              (Ideal.Quotient.mk (Ideal.span {Phib k data}) u') from by rw [hu'],
+          rho_algebraMap, rho_algebraMap] at h0
+        exact h0
+      · intro hnu
+        have hz : Ideal.Quotient.mk (Ideal.span {Phib k data}) z' ∈ Ideal.span
+            {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+             Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)} := by
+          by_contra hzc
+          exact hnu ((IsLocalization.AtPrime.isUnit_mk'_iff _ _ _ u).mpr hzc)
+        exact (mk_mem_pt_iff (Phib k data) s t hroot z').mp hz
+    constructor
+    · intro hx
+
+      obtain ⟨b, c, hc0, hbc⟩ := exists_mul_eq_of_adjoin (F := k) (E := LaurentSeries k)
+        ({jqModC k, jqNModC k N} : Set (LaurentSeries k)) (ψ k N)
+        (fun c => Subfield.subset_closure ⟨CC c, ψ_CC N c⟩)
+        (by
+          rintro s' (rfl | rfl)
+          · exact Subfield.subset_closure ⟨C X, ψ_C_X N⟩
+          · exact Subfield.subset_closure ⟨Polynomial.X (R := Polynomial k), ψ_Y N⟩)
+        x
+
+      have hbc' : x * ψ k N c = ψ k N b := hbc
+      have hc0' : ψ k N c ≠ 0 := hc0
+
+      obtain ⟨r, hr | hr⟩ := ValuationRing.cond
+        (algebraMap _ (Localization.AtPrime (Ideal.span
+          {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+           Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}))
+          (Ideal.Quotient.mk (Ideal.span {Phib k data}) b))
+        (algebraMap _ (Localization.AtPrime (Ideal.span
+          {Ideal.Quotient.mk (Ideal.span {Phib k data}) (C (X - C s)),
+           Ideal.Quotient.mk (Ideal.span {Phib k data}) (Y - CC t)}))
+          (Ideal.Quotient.mk (Ideal.span {Phib k data}) c))
+      ·
+        have hρr : ψ k N b * rho N data s t hroot hker r = ψ k N c := by
+          have h0 := congrArg (rho N data s t hroot hker) hr
+          rwa [map_mul, rho_algebraMap, rho_algebraMap] at h0
+        by_cases hψb : ψ k N b = 0
+        · have hx0 : x = 0 := by
+            have h0 : x * ψ k N c = 0 := by rw [hbc', hψb]
+            exact (mul_eq_zero.mp h0).resolve_right hc0'
+          exact hx0 ▸ ⟨0, map_zero _⟩
+        · have hxρ : x * rho N data s t hroot hker r = 1 := by
+            have h1 : x * (ψ k N b * rho N data s t hroot hker r) = ψ k N b := by
+              rw [hρr]; exact hbc'
+            have h2 : ψ k N b * (x * rho N data s t hroot hker r) = ψ k N b * 1 := by
+              rw [mul_one, show ψ k N b * (x * rho N data s t hroot hker r)
+                = x * (ψ k N b * rho N data s t hroot hker r) from by ring]
+              exact h1
+            exact mul_left_cancel₀ hψb h2
+          by_cases hur : IsUnit r
+          · obtain ⟨ru, hru⟩ := hur
+            refine ⟨↑ru⁻¹, ?_⟩
+            have hρr0 : rho N data s t hroot hker r ≠ 0 := by
+              intro h
+              rw [h, mul_zero] at hxρ
+              exact one_ne_zero hxρ.symm
+            have hy : rho N data s t hroot hker ↑ru⁻¹
+                * rho N data s t hroot hker r = 1 := by
+              rw [← map_mul, ← hru, Units.inv_mul, map_one]
+            exact mul_right_cancel₀ hρr0 (hy.trans hxρ.symm)
+          ·
+            exfalso
+            obtain ⟨z', u', hut, hsp, hcond⟩ := hspec r
+            obtain ⟨hymem, hypos⟩ := havatar _ _ _ hut hsp
+            have hy0 : rho N data s t hroot hker r ≠ 0 := by
+              intro h
+              rw [h, mul_zero] at hxρ
+              exact one_ne_zero hxρ.symm
+            have hpos := hypos (hcond hur) hy0
+            have hunit : IsUnit (⟨rho N data s t hroot hker r, hymem⟩ : W.toValuationSubring) := by
+              refine IsUnit.of_mul_eq_one ⟨x, hx⟩ (Subtype.ext ?_)
+              rw [MulMemClass.coe_mul]
+              show rho N data s t hroot hker r * x = 1
+              rw [mul_comm]
+              exact hxρ
+            obtain ⟨yu, hyu⟩ := hunit
+            have h0 := W.ord_coe_unit yu
+            rw [hyu] at h0
+            have h0' : W.ord (rho N data s t hroot hker r) = 0 := h0
+            omega
+      ·
+        have hρr : ψ k N c * rho N data s t hroot hker r = ψ k N b := by
+          have h0 := congrArg (rho N data s t hroot hker) hr
+          rwa [map_mul, rho_algebraMap, rho_algebraMap] at h0
+        refine ⟨r, ?_⟩
+        have h1 : ψ k N c * rho N data s t hroot hker r = ψ k N c * x := by
+          rw [hρr, ← hbc']; ring
+        exact mul_left_cancel₀ hc0' h1
+    · rintro ⟨r, rfl⟩
+      obtain ⟨z', u', hut, hsp, -⟩ := hspec r
+      exact (havatar _ _ _ hut hsp).1
+  exact Place.ext (SetLike.ext fun x =>
+    ((hrange P hPj hPjN x).trans ((hrange Q hQj hQjN x).symm)))
+
+end DerivXPlace
+p2m_reactivate "P2MW.S_ModularCurve_CharPModel_place_eq_of_ord_pos_of_derivative_swapBivar_evalEval_ne_zero.SmoothPlanePoint P2MW.S_ModularCurve_CharPModel_place_eq_of_ord_pos_of_derivative_swapBivar_evalEval_ne_zero.DerivXPlace"
+
+set_option maxSynthPendingDepth 3 in
+
+theorem solution
+    {k : Type*} [Field k] (N : ℕ) [NeZero N] (data : ModularPolynomialData N)
+    (s t : k)
+    (hroot : (data.Φ.map (Polynomial.mapRingHom (Int.castRingHom k))).evalEval s t = 0)
+    (hder : (Polynomial.derivative
+        ((swapBivar data.Φ).map (Polynomial.mapRingHom (Int.castRingHom k)))).evalEval t s ≠ 0)
+    (P Q : Place k (modularFunctionFieldC k N))
+    (hPj : 0 < P.ord (⟨jqModC k, jqModC_mem k N⟩
+      - algebraMap k (modularFunctionFieldC k N) s))
+    (hPjN : 0 < P.ord (⟨jqNModC k N, jqNModC_mem k N⟩
+      - algebraMap k (modularFunctionFieldC k N) t))
+    (hQj : 0 < Q.ord (⟨jqModC k, jqModC_mem k N⟩
+      - algebraMap k (modularFunctionFieldC k N) s))
+    (hQjN : 0 < Q.ord (⟨jqNModC k N, jqNModC_mem k N⟩
+      - algebraMap k (modularFunctionFieldC k N) t)) :
+    P = Q := by
+  have _ := hroot
+  exact DerivXPlace.de_solution N data s t hder P Q hPj hPjN hQj hQjN
+
+end
+end S_ModularCurve_CharPModel_place_eq_of_ord_pos_of_derivative_swapBivar_evalEval_ne_zero
+end P2MW
+export P2MW.S_ModularCurve_CharPModel_place_eq_of_ord_pos_of_derivative_swapBivar_evalEval_ne_zero (solution)

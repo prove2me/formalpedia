@@ -1,0 +1,99 @@
+-- Prove2me | Theorems.Thm_C4FreeDiam2_moore_bound
+-- name    : C4FreeDiam2.moore_bound
+-- status  : Proved
+-- author  : @raver1975
+-- created : 2026-09-11T15:06:17.200343+00:00
+-- url     : https://prove2.me/theorems/2993d44c-48b9-4533-bb6e-fe2d98d87de6
+-- title:
+--   Diameter-2 Moore bound.
+-- statement:
+--   **Diameter-2 Moore bound.** A finite simple graph of diameter at most 2 has at
+--   most `Δ² + 1` vertices, where `Δ = G.maxDegree`.  (C4-freeness is *not* needed for
+--   this bound; it is what makes the bound tight.)
+--
+--   ```lean
+--   theorem C4FreeDiam2.moore_bound(h : HasDiameter2 G) :
+--       Fintype.card V ≤ G.maxDegree ^ 2 + 1 := by sorry
+--   ```
+--
+--   **Formalization Note** Transplanted verbatim from the Aether Catalog source `Novelty/C4FreeDiameter2.lean`; the statement is byte-identical to the source declaration, elaborated with `autoImplicit` disabled in the platform environment.
+-- source:
+--   https://github.com/paulklemstine/Lean/blob/53c2925a02/Catalog/Novelty/C4FreeDiameter2.lean#L92
+
+-- Thm stub generated from Novelty/C4FreeDiameter2.lean
+import Mathlib
+import Definitions.Def_Novelty_C4FreeDiameter2
+
+/-!
+# C4-free diameter-2 graphs: structural bounds toward a non-3-colorability conjecture
+
+This file formalizes the structural setting of the research target
+
+> *Any C4-free graph of diameter 2 without universal vertices and maximum degree
+> at least 17 is not 3-colorable.*
+
+We isolate the three governing hypotheses as `Prop`-valued predicates on a finite
+simple graph `G`:
+
+* `IsC4Free G` — no two distinct vertices have two distinct common neighbours
+  (equivalently, `G` contains no 4-cycle `C₄`);
+* `HasDiameter2 G` — every pair of distinct vertices is adjacent or has a common
+  neighbour (diameter `≤ 2`);
+* `NoUniversalVertex G` — no vertex is adjacent to every other vertex.
+
+The full conjecture is recorded verbatim as `NonThreeColorabilityConjecture`
+(a `Prop`; it is the open target and is *not* claimed here).  What we *prove* are
+the fully-verified structural inequalities that any attack on the conjecture must
+use:
+
+* `moore_bound` — the **diameter-2 Moore bound** `|V| ≤ Δ² + 1`.
+* `kovari_sos_turan_cherry_bound` — the **Kővári–Sós–Turán cherry inequality**
+  `∑_v C(deg v, 2) ≤ C(|V|, 2)` for C4-free graphs.
+* `maxDegree_add_two_le_card` — no-universal-vertex forces `Δ + 2 ≤ |V|`.
+
+The bridge to 3-colorability lives in `C4FreeDiameter2Coloring.lean`.
+
+-- !-- Lab Notes -- !--
+**Hypothesis (Hypothesizer).** The three hypotheses pull in opposite directions.
+Diameter 2 forces the graph to be *dense enough* (Moore bound is an upper cap on
+`|V|` in terms of `Δ`), C4-freeness forces it to be *locally sparse* (the
+neighbourhood of any vertex induces a matching, quantified by the cherry
+inequality), and "no universal vertex" removes the trivial 3-colorable stars.
+The conjecture asserts that once `Δ ≥ 17`, this tension makes the chromatic
+number exceed 3.  A proof must control the independence number `α`, since
+3-colorability is equivalent to `3·α ≥ |V|` failing.
+
+**Experiment (Experimenter).** We proved the two classical counting bounds and
+the elementary degree bound directly from the predicates.  The Moore bound is a
+covering argument: every far vertex hangs off a neighbour of a fixed vertex `v`,
+so `|V| ≤ 1 + Δ + Δ(Δ−1)`.  The cherry inequality is a genuine use of
+C4-freeness: the map (centre, unordered pair of its neighbours) ↦ (unordered
+pair) is injective, because two distinct centres for the same pair would be two
+common neighbours, i.e. a `C₄`.
+
+**Analysis (Analyst).** The Moore bound does *not* need C4-freeness — it is the
+generic diameter-2 cap.  C4-freeness only bites through the cherry inequality,
+which is why the sharp Moore graphs (Petersen, Hoffman–Singleton) are exactly the
+C4-free diameter-2 graphs meeting `|V| = Δ² + 1`.  The genuinely open content of
+the conjecture is the *lower* bound on the chromatic number, which is not a pure
+counting fact and is deferred to future work.
+
+**Critique (Critic).** Each theorem uses an insight-bearing technique (covering +
+`Finset` fibre counting, an injective double count, an `erase`/`card` argument);
+none is `decide`/`native_decide`/`rfl`. The predicates are faithful: `IsC4Free`
+is stated as "at most one common neighbour", equivalent to the absence of a
+`C₄`, and `HasDiameter2` is the standard "adjacent or a common neighbour".
+
+**Synthesis (PI).** These are the reusable structural primitives for the
+conjecture; the colorability reduction is built on top of them in the companion
+file.
+-/
+
+open SimpleGraph Finset
+
+open C4FreeDiam2
+
+variable {V : Type*} [Fintype V] [DecidableEq V] (G : SimpleGraph V) [DecidableRel G.Adj]
+
+theorem C4FreeDiam2.moore_bound(h : HasDiameter2 G) :
+    Fintype.card V ≤ G.maxDegree ^ 2 + 1 := by sorry

@@ -1,0 +1,345 @@
+-- Prove2me | Theorems.Thm_ModularCurve_FullLevel_supersingularProlongation_not_smoothPointPackage_of_mem_ends_nodeCharts_hasseJ_cuspFree_of_eq_three_of_dvd
+-- name    : ModularCurve.FullLevel.supersingularProlongation_not_smoothPointPackage_of_mem_ends_nodeCharts_hasseJ_cuspFree_of_eq_three_of_dvd
+-- status  : Proved
+-- author  : @Claude
+-- created : 2026-09-05T04:30:39.1924+00:00
+-- url     : https://prove2.me/theorems/db1f2516-1133-5fe0-a6b8-a49f2ad98c5e
+-- title:
+--   No cusp-free smooth chart at an end of the supersingular fibre, q=3
+-- statement:
+--   Throughout, $q$ is a prime with $q = 3$, $M'$ is a nonzero natural number not divisible by $q$, and $\ell$ is a prime with $\ell \equiv 11 \pmod{12}$ and $\ell \mid M'$. Further, $A$ is a valuation subring of $\overline{\mathbb{Q}} =$ `AlgebraicClosure ℚ` with `A.LiesOverPrime q`, i.e. $q$ is a non-unit of $A$; $W$ is a finite set of places of `modularFunctionFieldC (ResidueField A) M'` over `ResidueField A` whose members (by `hW`) are exactly the elements of `ssPlaces q M' (ResidueField A)`, that is the places $w$ that are rational, affine geometric, and with $w$-value of `jGeomGen` in `ssJSet q`; and $s$ is an element of $W$. The inclusion `hle` records `modularFunctionFieldBar M' ≤ fieldBar q M'`, where `fieldBar q M'` is the base change to $\overline{\mathbb{Q}}$ of the function field of $X_H$ at level $q^2M'$ with $H =$ `levelH q M'`. Next, $R_0$ is a constant reduction of $A$ on `modularFunctionFieldBar M'` with reduced field `modularFunctionFieldC (ResidueField A) M'` (a valuation subring `integers`, a surjective residue map with kernel the maximal ideal, compatible with $A$ and with reduction of constants, a scaling property, and a place map preserving degrees and orders), and `hR₀` states that for every Laurent series $y$ over $A$ whose coefficientwise image in $\overline{\mathbb{Q}}$ lies in `modularFunctionFieldBar M'`, that element lies in $R_0$'s integers and its residue, read as a Laurent series over `ResidueField A`, is the coefficientwise reduction of $y$. Finally $\pi \in \overline{\mathbb{Q}}$ satisfies $\pi^{q^2-1} = q$ and $\pi \in A$.
+--
+--   The remaining data are: a field `FSS` over `ResidueField A`; a regular prolongation $R$ of $A$ on `fieldBar q M'` with reduced field `FSS` (a valuation subring `integers`, a surjective residue map with kernel the maximal ideal, compatibility with $A$ and with reduction of constants, and the scaling property); a finite set $N$ of places of `FSS` over `ResidueField A`; and families $S_x$, $\varphi_x$, $\chi_{0x}$, $D_x$ indexed by places $Q$ of `FSS`, where $S_x Q$ is a subring of `fieldBar q M'`, $\varphi_x Q : A[T] \to S_x Q$ and $\chi_{0x} Q : S_x Q \to$ `ResidueField A` are ring homomorphisms, and $D_x Q$ is a set of places of `fieldBar q M'` over $\overline{\mathbb{Q}}$.
+--
+--   Write $\bar j$ for the element of `modularFunctionFieldBar M'` obtained from `jq` by coefficientwise embedding into Laurent series over $\overline{\mathbb{Q}}$, and write $j$ for its image in `fieldBar q M'` under the inclusion given by `hle`. Call an element $f$ of $R_0$'s integers *$\bar j$-integral* if $0 \le P.\mathrm{ord}(f)$ at every place $P$ of `modularFunctionFieldBar M'` over $\overline{\mathbb{Q}}$ at which $0 \le P.\mathrm{ord}(\bar j)$; and say that a place $P$ of `fieldBar q M'` *reduces to $s$* if for every $\bar j$-integral $f$ whose $R_0$-residue lies in the valuation subring of $s$ and every $a \in A$ whose residue equals the value of the $R_0$-residue of $f$ at $s$, the difference $P.\mathrm{evalAt}(f) - a$ lies in $A$ and in its maximal ideal.
+--
+--   The hypotheses on these data are: `h0`, that `FSS` contains an element transcendental over `ResidueField A`; `h1`, that $R$ lies over $s$, namely for every $\bar j$-integral $f$ in $R_0$'s integers whose $R_0$-residue lies in the valuation subring of $s$, the image of $f$ in `fieldBar q M'` lies in $R$'s integers and its $R$-residue is the image in `FSS` of the value at $s$ of that $R_0$-residue; `h2`, that $R$'s integers is preserved by pullback along `levelAutBar q M' ζ γ` for every $\zeta$ in `Idx q` and every $\gamma \in \Gamma_0(M')$; and `hcard`, that $N$ has exactly $q+1$ elements.
+--
+--   The hypothesis `hpkg` provides, for each place $Q \notin N$, a smooth-point package with the fourteen clauses spelled out in the conclusion below (with $S_x Q$, $\varphi_x Q$, $\chi_{0x} Q$, $D_x Q$ in place of $S$, $\varphi$, $\chi_0$, $D$, and without the final order condition on $j$). The hypothesis `hdisj` states that the discs of distinct places outside $N$ are disjoint: if $Q, Q' \notin N$ and some $P$ lies in both $D_x Q$ and $D_x Q'$ then $Q = Q'$. The hypothesis `hcusp` states that these discs are cusp-free: for $Q \notin N$ and $P \in D_x Q$, $0 \le P.\mathrm{ord}(j)$. The hypothesis `heqv` states equivariance: for every $\tau$ in the subgroup of $\overline{\mathbb{Q}}$-automorphisms of `fieldBar q M'` generated by the `levelAutBar q M' ζ γ` with $\gamma \in \Gamma_0(M')$ which preserves $R$'s integers, the induced residue automorphism `R.resAut τ` fixes $N$ setwise (membership in $N$ is equivalent for $Q$ and for its translate) and, for $Q \notin N$, carries $D_x Q$ to $D_x$ of the translate, where the action on discs is `smulDisc`.
+--
+--   The hypothesis `hK` (a single long existential statement, whose clauses are summarised here) asserts the existence of a family of annuli $\mathrm{An}$ of $A$ in `fieldBar q M'`, indexed by places of `FSS`, such that: for each $x \in N$ the parameter of $\mathrm{An}\,x$ lies in $R$'s integers with $x$-order of its residue equal to $1$ and satisfies a unit law (for $f$ in $R$'s integers with nonzero residue and order $0$ on the domain of $\mathrm{An}\,x$, the value of $f$ times the value of the parameter to the power $-x.\mathrm{ord}$ of the residue of $f$ is a unit of $A$ at every place of the domain), the modulus of $\mathrm{An}\,x$ is nonzero, the domain of $\mathrm{An}\,x$ misses every disc $D_x Q$ with $Q \notin N$, and every place of that domain reduces to $s$; the domains attached to distinct elements of $N$ are disjoint; the domains are permuted by the level automorphisms compatibly with the action on $N$; every rational place of `fieldBar q M'` reducing to $s$ lies in some $D_x Q$ with $Q \notin N$ or in the domain of some $\mathrm{An}\,x$ with $x \in N$; distinct $x, x' \in N$ are separated by a function $g$ in $R$'s integers with nonzero residue, nonzero $x$-order of that residue, order $0$ on the domain of $\mathrm{An}\,x$, and integral with unit values on the domain of $\mathrm{An}\,x'$. Moreover `hK` asserts the existence of a block of node data, also summarised here: fields $\mathrm{FI}_x$ over `ResidueField A` with regular prolongations $R_x$ of $A$ on `fieldBar q M'` and places $b_x$ of $\mathrm{FI}_x$; an index type $\Lambda$ with subrings $C'l$ of $\overline{\mathbb{Q}}$ contained in $A$ which are discrete valuation rings with uniformisers $\varpi' l$ and a base index $l_0$; complete discrete valuation rings $W_c l$ with irreducible elements $\pi_W l$, exponents $E l \ge 1$ and an exponent $E_0$; sets $S\,\mathrm{nd}$ of places, subrings $\mathcal{N}\,\mathrm{nd}$ and local Noetherian subrings $\mathcal{N}_0\,\mathrm{nd}\,l$ of `fieldBar q M'`, and elements $c_x, c_y, c_u$ indexed by places of `FSS`; subject to: the description of reduction on $C'l$ by divisibility by $\varpi' l$, monotonicity $C' l_0 \le C' l$, nonvanishing of $\varpi' l_0$, algebraicity of $A$ over $C' l_0$, invariance of $\varpi' l_0$ under the inertia elements at which the tame character with respect to $\pi$ is trivial, and a relation $(\varpi' l_0)^{E_0} = v\,\pi^{w}$ with $v$ a unit of $A$ and $w \ge 1$; and, for each $\mathrm{nd} \in N$: rationality of $b_x\,\mathrm{nd}$, of $\mathrm{nd}$ and of the places in $S\,\mathrm{nd}$, the description of $\mathcal{N}\,\mathrm{nd}$ as the functions integral for $R_x\,\mathrm{nd}$, for $R$ and at all places of $S\,\mathrm{nd}$, with values in $A$ there, the crossing relation $c_x c_y = (\varpi' l_0)^{E_0} c_u$ together with the prescribed vanishing and order conditions on $c_x$ and $c_y$ for $R_x\,\mathrm{nd}$ at $b_x\,\mathrm{nd}$ and for $R$ at $\mathrm{nd}$, invariance of $S\,\mathrm{nd}$, $c_x$ and $c_y$ under the arithmetic Galois action of the tame-trivial inertia elements on the function field of $X_H$ at level $q^2M'$, generation of `fieldBar q M'` by the $\mathcal{N}_0\,\mathrm{nd}\,l$ and a finite-span statement over $\mathcal{N}_0\,\mathrm{nd}\,l_0$, and for each $l$: the nesting $\mathcal{N}_0\,\mathrm{nd}\,l_0 \le \mathcal{N}_0\,\mathrm{nd}\,l \le \mathcal{N}\,\mathrm{nd}$, a valuative characterisation of $S\,\mathrm{nd}$ by $\mathcal{N}_0\,\mathrm{nd}\,l$, containment of $C'l$, a residue condition, a linear independence condition over $C'l$, existence of a subring $B_x$ generated by $C'l$ and a finite set whose localisation is $\mathcal{N}_0\,\mathrm{nd}\,l$ and which contains $c_x$, $c_y$, $c_u$, membership of $c_x$ and $c_y$ with $c_u$ a unit, and an isomorphism of the adic completion of $\mathcal{N}_0\,\mathrm{nd}\,l$ with `UVCrossingModel (Wc l) (πW l ^ E l)` sending $\pi_W l$ to $\varpi' l$ and reading the $b_x\,\mathrm{nd}$-order and the $\mathrm{nd}$-order of residues off the $V$- and $U$-coordinates respectively; the Hasse datum on $j$, namely that `jqNModC (AlgebraicClosure ℚ) q` lies in `fieldBar q M'`, that there is $a_0 \in A$ with $R$-residue of the difference equal to $0$ and with $(\text{residue } a_0)^q$ equal to the value at $s$ of `jGeomGen (ResidueField A) M'`, and a constant $c'$ for which $c'$ times that difference has nonzero $R$-residue and, for each $\mathrm{nd} \in N$, nonzero $R_x\,\mathrm{nd}$-residue with $\mathrm{nd}$-order of the former equal to minus the $b_x\,\mathrm{nd}$-order of the latter; disjointness of the $S\,\mathrm{nd}$; the reduction-to-$s$ condition for all places in $S\,\mathrm{nd}$; a permutation of $N$ induced by each `levelAutBar q M' ζ' γ` with $\gamma \in \Gamma_0(M')$, matching the sets $S$ and the integers of the $R_x$; equivariance of $S$ under the level group compatibly with the action on $N$; the identification $S\,\mathrm{nd} = (\mathrm{An}\,\mathrm{nd}).\mathrm{dom}$; the fact that the images of $R_0$'s integers lie in the integers of $R_x\,\mathrm{nd}$; and the existence of a ring homomorphism $j_{\mathrm{nd}}$ from `modularFunctionFieldC (ResidueField A) M'` to $\mathrm{FI}_{\mathrm{nd}}$ compatible with the residues of $R_0$ and $R_x\,\mathrm{nd}$ and identifying the valuation subring of $s$ with the preimage of that of $b_x\,\mathrm{nd}$.
+--
+--   Under these hypotheses the conclusion asserts: for every $Q \in N$, every subring $S$ of `fieldBar q M'`, every ring homomorphism $\varphi : A[T] \to S$, every ring homomorphism $\chi_0 : S \to$ `ResidueField A` and every set $D$ of places of `fieldBar q M'` over $\overline{\mathbb{Q}}$, the conjunction of the following fifteen clauses is false:
+--
+--   (1) the image in `fieldBar q M'` of every $a \in A$ lies in $S$; (2) $\varphi$ is formally smooth and formally unramified; (3) for every $a \in A$, $\varphi(C\,a)$ is, in `fieldBar q M'`, the image of $a$; (4) for every $a \in A$, $\chi_0(\varphi(C\,a))$ is the residue of $a$; (5) $\chi_0(\varphi(X)) = 0$; (6) for every $c \in A$ with residue $0$ there is a unique ring homomorphism $\chi : S \to A$ with $\chi(\varphi(C\,a)) = a$ for all $a \in A$, with residue $\circ\,\chi = \chi_0$, and with $\chi(\varphi(X)) = c$; (7) every $f \in S$ lies in $R$'s integers, its $R$-residue lies in the valuation subring of $Q$, and the residue of that element in the residue field of $Q$ is the image of $\chi_0(f)$; (8) $\varphi(X)$ lies in $R$'s integers and the $Q$-order of its $R$-residue is $1$; (9) $D$ consists exactly of the places $P$ that are rational, for which every $f \in S$ lies in the valuation subring of $P$ with $P.\mathrm{evalAt}(f) \in A$, and for which the valuation of $P.\mathrm{evalAt}(f)$ is $< 1$ if and only if $\chi_0(f) = 0$; (10) for every ring homomorphism $\chi : S \to A$ with $\chi(\varphi(C\,a)) = a$ for all $a \in A$ and residue $\circ\,\chi = \chi_0$ there is a unique place $P \in D$ with $P.\mathrm{evalAt}(f) = \chi(f)$ for all $f \in S$; (11) for $P \in D$, an element $f$ of `fieldBar q M'` lies in the valuation subring of $P$ if and only if $f h = g$ for some $g, h \in S$ with $P.\mathrm{evalAt}(h) \neq 0$; (12) every nonzero $f$ with $P.\mathrm{ord}(f) = 0$ for all $P \in D$ satisfies $c f = u$ for some nonzero $c \in \overline{\mathbb{Q}}$ (read in `fieldBar q M'`) and some unit $u$ of $S$; (13) every $f$ in $R$'s integers lying in the valuation subring of every $P \in D$ lies in $S$; (14) for every $P \in D$, $0 \le P.\mathrm{ord}(j)$.
+--
+--   (The clauses are numbered here for reference; in the Lean statement clause (2) is two conjuncts and (14) is the final conjunct.) Thus no place of $N$ carries an étale chart with residue disc of the above shape on which $j$ has no pole.
+--
+--   This is the step asserting that the $q+1$ ends of the supersingular part of the special fibre, at level $q^2M'$ with the auxiliary rigidifying prime $\ell \equiv 11 \pmod{12}$ dividing $M'$, are not smooth points of the reduction: a cusp-free étale chart with residue disc at a place of $N$ is incompatible with the node annuli, node presentations in the crossing model, and the Hasse datum on $j$ supplied by `hK`. It is the $q = 3$ case, and it is used in the construction of the semistable model, [`ModularCurve.FullLevel.exists_supersingularRegularProlongation_smoothPointCharts_nodePresentations_crossUnits_igusaOverS_inertia_nodeCharts_hasseJ_of_eq_three_of_dvd`](thm.html#ModularCurve.FullLevel.exists_supersingularRegularProlongation_smoothPointCharts_nodePresentations_crossUnits_igusaOverS_inertia_nodeCharts_hasseJ_of_eq_three_of_dvd).
+-- source:
+--   https://github.com/anthropics/fermats-last-theorem/blob/aa2d8b34692b16c70f699536de0d8e75b9a3e9ef/Theorems/Thm_ModularCurve_FullLevel_supersingularProlongation_not_smoothPointPackage_of_mem_ends_nodeCharts_hasseJ_cuspFree_of_eq_three_of_dvd.lean
+
+import Definitions.Def_ModularCurve_FullLevelSemistableCovering
+import Definitions.Def_ModularCurve_SupersingularNodePlaces
+import Definitions.Def_AlgebraicCurve_ConstantReduction
+import Definitions.Def_FLTPrelim_Ramification
+import Definitions.Def_AlgebraicCurve_RegularProlongation
+import Definitions.Def_AlgebraicCurve_ResidueDiscs
+import Definitions.Def_AlgebraicCurve_SemistableCharts
+import Definitions.Def_ModularCurve_FullLevelSemistableCoveringW2
+import Definitions.Def_AlgebraicCurve_BaseChangeGalois
+import Definitions.Def_ModularCurve_PlaceWidthChar
+import Definitions.Def_ModularCurve_ArithmeticGalois
+import Definitions.Def_GaloisRep_TameCharacter
+import Definitions.Def_ModularCurve_UVCrossingModel
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+set_option autoImplicit false
+
+open AlgebraicCurve ModularCurve ModularCurve.FullLevel IsLocalRing CongruenceSubgroup ModularCurve.UVCrossingModel
+open scoped MatrixGroups
+
+attribute [local instance] ModularCurve.instDecidableEqResidueFieldSemistable
+  ModularCurve.instAlgebraResidueFieldModularFunctionFieldCSemistable
+
+set_option synthInstance.maxHeartbeats 400000 in
+set_option maxHeartbeats 800000 in
+
+theorem ModularCurve.FullLevel.supersingularProlongation_not_smoothPointPackage_of_mem_ends_nodeCharts_hasseJ_cuspFree_of_eq_three_of_dvd
+    (q : ℕ) [Fact q.Prime] (hq3 : q = 3) (M' : ℕ) [NeZero M'] (hqM' : ¬ q ∣ M')
+    (ℓ : ℕ) (hℓ : ℓ.Prime) (hℓ12 : ℓ % 12 = 11) (hℓM' : ℓ ∣ M')
+    (A : ValuationSubring (AlgebraicClosure ℚ)) (hA : A.LiesOverPrime q)
+    (W : Finset (Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')))
+    (hW : ∀ w, w ∈ W ↔ w ∈ ssPlaces q M' (ResidueField A))
+    (hle : modularFunctionFieldBar M' ≤ fieldBar q M')
+    (R₀ : ConstantReduction A ↥(modularFunctionFieldBar M') (modularFunctionFieldC (ResidueField A) M'))
+    (hR₀ : ∀ (y : LaurentSeries ↥A) (hy : coeffMap A.subtype y ∈ modularFunctionFieldBar M'),
+      ∃ h : (⟨coeffMap A.subtype y, hy⟩ : ↥(modularFunctionFieldBar M')) ∈ R₀.integers,
+        ((R₀.residue ⟨_, h⟩ : modularFunctionFieldC (ResidueField A) M') : LaurentSeries (ResidueField A)) =
+          coeffMap (IsLocalRing.residue ↥A) y)
+    (s : ↥W)
+    (π : AlgebraicClosure ℚ) (hπ : π ^ (q ^ 2 - 1) = (q : AlgebraicClosure ℚ)) (hπP : π ∈ A)
+
+    (FSS : Type) [Field FSS] [Algebra (ResidueField A) FSS]
+    (R : RegularProlongation A (fieldBar q M') FSS)
+    (N : Finset (Place (ResidueField ↥A) FSS))
+    (Sx : Place (ResidueField ↥A) FSS → Subring ↥(fieldBar q M'))
+    (φx : (Q : Place (ResidueField ↥A) FSS) → (Polynomial ↥A →+* ↥(Sx Q)))
+    (χ₀x : (Q : Place (ResidueField ↥A) FSS) → (↥(Sx Q) →+* ResidueField ↥A))
+    (Dx : Place (ResidueField ↥A) FSS → Set (Place (AlgebraicClosure ℚ) ↥(fieldBar q M')))
+    (h0 : (∃ t : FSS, Transcendental (ResidueField A) t))
+    (h1 : (∀ (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+        (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+          0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+            coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+            ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+        (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+            (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+          ∃ hC : (IntermediateField.inclusion hle f : fieldBar q M') ∈ R.integers,
+            R.residue ⟨_, hC⟩ = algebraMap (ResidueField A) FSS
+              ((s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt
+                (R₀.residue ⟨f, hf⟩))))
+    (h2 : (∀ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' →
+        R.integers.comap (levelAutBar q M' ζ γ).toAlgHom.toRingHom = R.integers))
+    (hcard : N.card = q + 1)
+    (hpkg : (∀ Q : Place (ResidueField ↥A) FSS, Q ∉ N →
+
+          (∀ a : ↥A, algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') (a : (AlgebraicClosure ℚ)) ∈ Sx Q) ∧
+          (φx Q).FormallySmooth ∧ (φx Q).FormallyUnramified ∧
+          (∀ a : ↥A, ((φx Q (Polynomial.C a) : ↥(Sx Q)) : ↥(fieldBar q M')) = algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') (a : (AlgebraicClosure ℚ))) ∧
+          (∀ a : ↥A, χ₀x Q (φx Q (Polynomial.C a)) = IsLocalRing.residue ↥A a) ∧
+          χ₀x Q (φx Q Polynomial.X) = 0 ∧
+          (∀ c : ↥A, IsLocalRing.residue ↥A c = 0 →
+            ∃! χ : ↥(Sx Q) →+* ↥A, (∀ a : ↥A, χ (φx Q (Polynomial.C a)) = a) ∧
+              (∀ f : ↥(Sx Q), IsLocalRing.residue ↥A (χ f) = χ₀x Q f) ∧ χ (φx Q Polynomial.X) = c) ∧
+          (∀ f : ↥(Sx Q), ∃ hR : (f : ↥(fieldBar q M')) ∈ R.integers, ∃ hm : R.residue ⟨(f : ↥(fieldBar q M')), hR⟩ ∈ Q.toValuationSubring,
+            IsLocalRing.residue ↥Q.toValuationSubring ⟨R.residue ⟨(f : ↥(fieldBar q M')), hR⟩, hm⟩ =
+              algebraMap (ResidueField ↥A) Q.ResidueField (χ₀x Q f)) ∧
+          (∃ hR : ((φx Q Polynomial.X : ↥(Sx Q)) : ↥(fieldBar q M')) ∈ R.integers,
+            Q.ord (R.residue ⟨((φx Q Polynomial.X : ↥(Sx Q)) : ↥(fieldBar q M')), hR⟩) = 1) ∧
+          (∀ P, P ∈ Dx Q ↔ (P.IsRational ∧ (∀ f : ↥(Sx Q), (f : ↥(fieldBar q M')) ∈ P.toValuationSubring ∧ P.evalAt (f : ↥(fieldBar q M')) ∈ A) ∧
+            (∀ f : ↥(Sx Q), A.valuation (P.evalAt (f : ↥(fieldBar q M'))) < 1 ↔ χ₀x Q f = 0))) ∧
+          (∀ χ : ↥(Sx Q) →+* ↥A, (∀ a : ↥A, χ (φx Q (Polynomial.C a)) = a) →
+            (∀ f : ↥(Sx Q), IsLocalRing.residue ↥A (χ f) = χ₀x Q f) →
+            ∃! P, P ∈ Dx Q ∧ ∀ f : ↥(Sx Q), P.evalAt (f : ↥(fieldBar q M')) = ((χ f : ↥A) : (AlgebraicClosure ℚ))) ∧
+          (∀ P ∈ Dx Q, ∀ f : ↥(fieldBar q M'), f ∈ P.toValuationSubring ↔
+            ∃ g h : ↥(Sx Q), P.evalAt (h : ↥(fieldBar q M')) ≠ 0 ∧ f * (h : ↥(fieldBar q M')) = (g : ↥(fieldBar q M'))) ∧
+          (∀ f : ↥(fieldBar q M'), f ≠ 0 → (∀ P ∈ Dx Q, P.ord f = 0) →
+            ∃ (c : (AlgebraicClosure ℚ)) (u : (↥(Sx Q))ˣ), c ≠ 0 ∧ algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') c * f = ((u : ↥(Sx Q)) : ↥(fieldBar q M'))) ∧
+          (∀ f : ↥(fieldBar q M'), f ∈ R.integers → (∀ P ∈ Dx Q, f ∈ P.toValuationSubring) → f ∈ Sx Q)))
+    (hdisj : (∀ Q Q' : Place (ResidueField ↥A) FSS, Q ∉ N → Q' ∉ N → ∀ P, P ∈ Dx Q → P ∈ Dx Q' → Q = Q'))
+    (hcusp : (∀ Q : Place (ResidueField ↥A) FSS, Q ∉ N → ∀ P ∈ Dx Q, 0 ≤ P.ord (IntermediateField.inclusion hle (⟨coeffEmb (AlgebraicClosure ℚ) jq,
+              coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+              ↥(modularFunctionFieldBar M')) : fieldBar q M')))
+    (heqv : (∀ τ ∈ Subgroup.closure {τ : ↥(fieldBar q M') ≃ₐ[AlgebraicClosure ℚ] ↥(fieldBar q M') |
+            ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ},
+          ∀ (hτ : ∀ f : ↥(fieldBar q M'), τ f ∈ R.integers ↔ f ∈ R.integers) (Q : Place (ResidueField ↥A) FSS),
+            (R.resAut τ hτ • Q ∈ N ↔ Q ∈ N) ∧
+            (Q ∉ N → AlgebraicCurve.RegularProlongation.smulDisc τ (Dx Q) = Dx (R.resAut τ hτ • Q))))
+
+    (hK : (∃ An : Place (ResidueField ↥A) FSS → Annulus A ↥(fieldBar q M'),
+          (∀ x ∈ N,
+            (∃ hz : (An x).param ∈ R.integers, x.ord (R.residue ⟨(An x).param, hz⟩) = 1 ∧
+              ∀ (f : ↥(fieldBar q M')) (hf : f ∈ R.integers), R.residue ⟨f, hf⟩ ≠ 0 → (∀ P ∈ (An x).dom, P.ord f = 0) →
+                ∀ P ∈ (An x).dom,
+                  ∃ h : P.evalAt f * (P.evalAt (An x).param) ^ (-(x.ord (R.residue ⟨f, hf⟩))) ∈ A, IsUnit (⟨_, h⟩ : ↥A)) ∧
+            ((An x).modulus : AlgebraicClosure ℚ) ≠ 0 ∧
+            (∀ Q : Place (ResidueField ↥A) FSS, Q ∉ N → ∀ P, P ∈ (An x).dom → P ∉ Dx Q) ∧
+            (∀ P ∈ (An x).dom, (∀ (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+                (∀ P' : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+                  0 ≤ P'.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+                    coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+                    ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P'.ord (f : ↥(modularFunctionFieldBar M'))) →
+                (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+                    (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+                  ∀ a : A, IsLocalRing.residue A a =
+                      (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+                    ∃ h : P.evalAt (IntermediateField.inclusion hle f : fieldBar q M') - (a : AlgebraicClosure ℚ) ∈ A,
+                      (⟨_, h⟩ : A) ∈ IsLocalRing.maximalIdeal A))) ∧
+          (∀ x x' : Place (ResidueField ↥A) FSS, x ∈ N → x' ∈ N → ∀ P, P ∈ (An x).dom → P ∈ (An x').dom → x = x') ∧
+          (∀ τ ∈ Subgroup.closure {τ : ↥(fieldBar q M') ≃ₐ[AlgebraicClosure ℚ] ↥(fieldBar q M') |
+              ∃ (ζ : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ γ},
+            ∀ (hτ : ∀ f : ↥(fieldBar q M'), τ f ∈ R.integers ↔ f ∈ R.integers), ∀ x ∈ N,
+              AlgebraicCurve.RegularProlongation.smulDisc τ (An x).dom = (An (R.resAut τ hτ • x)).dom) ∧
+
+          (∀ P : Place (AlgebraicClosure ℚ) ↥(fieldBar q M'), P.IsRational →
+            (∀ (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+              (∀ P' : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+                0 ≤ P'.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+                  coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+                  ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P'.ord (f : ↥(modularFunctionFieldBar M'))) →
+              (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+                  (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+                ∀ a : A, IsLocalRing.residue A a =
+                    (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+                  ∃ h : P.evalAt (IntermediateField.inclusion hle f : fieldBar q M') - (a : AlgebraicClosure ℚ) ∈ A,
+                    (⟨_, h⟩ : A) ∈ IsLocalRing.maximalIdeal A) →
+            (∃ Q, Q ∉ N ∧ P ∈ Dx Q) ∨ ∃ x, x ∈ N ∧ P ∈ (An x).dom) ∧
+
+          (∀ x ∈ N, ∀ x' ∈ N, x ≠ x' →
+            ∃ (g : ↥(fieldBar q M')) (hg : g ∈ R.integers), R.residue ⟨g, hg⟩ ≠ 0 ∧ x.ord (R.residue ⟨g, hg⟩) ≠ 0 ∧
+              (∀ P ∈ (An x).dom, P.ord g = 0) ∧
+              (∀ P ∈ (An x').dom, g ∈ P.toValuationSubring ∧ ∃ h : P.evalAt g ∈ A, IsUnit (⟨_, h⟩ : ↥A))) ∧
+
+          (∃
+          (FIx : Place (ResidueField A) FSS → Type) (_ : ∀ x, Field (FIx x)) (_ : ∀ x, Algebra (ResidueField A) (FIx x))
+          (Rx : ∀ x : Place (ResidueField A) FSS, RegularProlongation A (fieldBar q M') (FIx x))
+          (bx : ∀ x : Place (ResidueField A) FSS, Place (ResidueField A) (FIx x))
+
+          (Λ : Type) (C' : Λ → Subring (AlgebraicClosure ℚ)) (hC'A : ∀ (l : Λ) (c : AlgebraicClosure ℚ), c ∈ C' l → c ∈ A)
+          (_ : ∀ l, IsDomain ↥(C' l)) (_ : ∀ l, IsDiscreteValuationRing ↥(C' l))
+          (ϖ' : ∀ l, ↥(C' l)) (l₀ : Λ)
+          (Wc : Λ → Type) (_ : ∀ l, CommRing (Wc l)) (_ : ∀ l, IsDomain (Wc l)) (_ : ∀ l, IsDiscreteValuationRing (Wc l))
+          (_ : ∀ l, IsAdicComplete (maximalIdeal (Wc l)) (Wc l))
+          (πW : ∀ l, Wc l) (E : Λ → ℕ) (E₀ : ℕ)
+
+          (S : Place (ResidueField A) FSS → Set (Place (AlgebraicClosure ℚ) (fieldBar q M')))
+          (𝒩 : Place (ResidueField A) FSS → Subring (fieldBar q M'))
+          (𝒩₀ : Place (ResidueField A) FSS → Λ → Subring (fieldBar q M'))
+          (hloc : ∀ nd l, IsLocalRing ↥(𝒩₀ nd l)) (hnoe : ∀ nd l, IsNoetherianRing ↥(𝒩₀ nd l))
+          (cx cy cu : Place (ResidueField A) FSS → fieldBar q M'),
+
+          (∀ (l : Λ) (d : ↥(C' l)), IsLocalRing.residue A ⟨(d : AlgebraicClosure ℚ), hC'A l d d.2⟩ = 0 ↔ ∃ d' : ↥(C' l), d = ϖ' l * d') ∧
+          (∀ l, C' l₀ ≤ C' l) ∧
+          ((ϖ' l₀ : ↥(C' l₀)) : AlgebraicClosure ℚ) ≠ 0 ∧
+          (∀ a : AlgebraicClosure ℚ, a ∈ A → IsAlgebraic ↥(C' l₀) a) ∧
+          (∀ l, Irreducible (πW l)) ∧ (∀ l, 1 ≤ E l) ∧
+
+          (∀ τ ∈ A.inertiaSubgroupIn ℚ, A.tameCharacter π τ = 1 →
+            τ ((ϖ' l₀ : ↥(C' l₀)) : AlgebraicClosure ℚ) = ((ϖ' l₀ : ↥(C' l₀)) : AlgebraicClosure ℚ)) ∧
+
+          (∃ w : ℕ, 1 ≤ w ∧ ∃ v : (↥A)ˣ,
+            (⟨((ϖ' l₀ : ↥(C' l₀)) : AlgebraicClosure ℚ), hC'A l₀ _ (ϖ' l₀).2⟩ : ↥A) ^ E₀ = (v : ↥A) * ⟨π, hπP⟩ ^ w) ∧
+
+          (∀ nd ∈ N,
+
+            (bx nd).IsRational ∧ nd.IsRational ∧ (∀ P ∈ S nd, P.IsRational) ∧
+
+            (∀ f : fieldBar q M', f ∈ 𝒩 nd ↔ f ∈ (Rx nd).integers ∧ f ∈ R.integers ∧ ∀ P ∈ S nd, f ∈ P.toValuationSubring) ∧
+            (∀ f ∈ 𝒩 nd, ∀ P ∈ S nd, P.evalAt f ∈ A) ∧
+
+            cx nd * cy nd = algebraMap (AlgebraicClosure ℚ) (fieldBar q M') ((ϖ' l₀ : ↥(C' l₀)) : AlgebraicClosure ℚ) ^ E₀ * cu nd ∧
+            (∀ h₁ : cx nd ∈ (Rx nd).integers, (Rx nd).residue ⟨cx nd, h₁⟩ = 0) ∧
+            (∀ h₂ : cx nd ∈ R.integers, nd.ord (R.residue ⟨cx nd, h₂⟩) = 1) ∧
+            (∀ h₂ : cy nd ∈ R.integers, R.residue ⟨cy nd, h₂⟩ = 0) ∧
+            (∀ h₁ : cy nd ∈ (Rx nd).integers, (bx nd).ord ((Rx nd).residue ⟨cy nd, h₁⟩) = 1) ∧
+
+            (∀ τ ∈ A.inertiaSubgroupIn ℚ, A.tameCharacter π τ = 1 →
+              let g := ModularCurve.arithmeticGalois (xHFunctionField (q ^ 2 * M') (levelH q M')) τ
+              (∀ P : Place (AlgebraicClosure ℚ) (fieldBar q M'), P ∈ S nd ↔ g • P ∈ S nd) ∧ g • cx nd = cx nd ∧ g • cy nd = cy nd) ∧
+
+            (∀ f : fieldBar q M', ∃ (l : Λ) (a b : ↥(𝒩₀ nd l)), (b : fieldBar q M') ≠ 0 ∧ f * (b : fieldBar q M') = (a : fieldBar q M')) ∧
+
+            (∀ f : fieldBar q M', ∃ (n : ℕ) (c : Fin n → AlgebraicClosure ℚ) (a : Fin n → ↥(𝒩₀ nd l₀)) (b : ↥(𝒩₀ nd l₀)),
+              (b : fieldBar q M') ≠ 0 ∧ f * (b : fieldBar q M') = ∑ i, c i • ((a i : ↥(𝒩₀ nd l₀)) : fieldBar q M')) ∧
+
+            (∀ l, letI : IsLocalRing ↥(𝒩₀ nd l) := hloc nd l;
+              𝒩₀ nd l₀ ≤ 𝒩₀ nd l ∧ 𝒩₀ nd l ≤ 𝒩 nd ∧
+              (∀ P : Place (AlgebraicClosure ℚ) (fieldBar q M'), P ∈ S nd ↔
+                (∀ f : fieldBar q M', f ∈ 𝒩₀ nd l → f ∈ P.toValuationSubring) ∧
+                (∀ f : ↥(𝒩₀ nd l), ¬ IsUnit f → ∃ h : P.evalAt (f : fieldBar q M') ∈ A, (⟨_, h⟩ : ↥A) ∈ maximalIdeal ↥A)) ∧
+              (∀ c : AlgebraicClosure ℚ, c ∈ C' l → algebraMap (AlgebraicClosure ℚ) (fieldBar q M') c ∈ 𝒩₀ nd l) ∧
+              (∀ g : ↥(𝒩₀ nd l), ∃ (o : ↥(C' l)) (h : algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (o : AlgebraicClosure ℚ) ∈ 𝒩₀ nd l), ¬ IsUnit (g - ⟨_, h⟩)) ∧
+              (∀ (n : ℕ) (c : Fin n → AlgebraicClosure ℚ) (a : Fin n → ↥(𝒩₀ nd l)), LinearIndependent ↥(C' l) c →
+                ∑ i, c i • ((a i : ↥(𝒩₀ nd l)) : fieldBar q M') = 0 → ∀ i, a i = 0) ∧
+
+              (∃ Bx : Subring (fieldBar q M'),
+                (∀ f : fieldBar q M', f ∈ Bx → f ∈ 𝒩₀ nd l) ∧
+                cx nd ∈ Bx ∧ cy nd ∈ Bx ∧ cu nd ∈ Bx ∧
+                (∀ f : fieldBar q M', f ∈ 𝒩₀ nd l ↔ ∃ g h : fieldBar q M', g ∈ Bx ∧ h ∈ Bx ∧
+                  (∀ hh : h ∈ 𝒩₀ nd l, IsUnit (⟨h, hh⟩ : ↥(𝒩₀ nd l))) ∧ f * h = g) ∧
+                (∃ T : Finset (fieldBar q M'), Bx = Subring.closure
+                  ({f : fieldBar q M' | ∃ c : AlgebraicClosure ℚ, c ∈ C' l ∧ f = algebraMap (AlgebraicClosure ℚ) (fieldBar q M') c} ∪
+                    (↑T : Set (fieldBar q M'))))) ∧
+              cx nd ∈ 𝒩₀ nd l ∧ cy nd ∈ 𝒩₀ nd l ∧ (∃ hu : cu nd ∈ 𝒩₀ nd l, IsUnit (⟨cu nd, hu⟩ : ↥(𝒩₀ nd l))) ∧
+              ∃ (σ : Wc l →+* AdicCompletion (maximalIdeal ↥(𝒩₀ nd l)) ↥(𝒩₀ nd l))
+                (ι : AdicCompletion (maximalIdeal ↥(𝒩₀ nd l)) ↥(𝒩₀ nd l) ≃+* UVCrossingModel (Wc l) (πW l ^ E l)),
+                (∀ h : algebraMap (AlgebraicClosure ℚ) (fieldBar q M') ((ϖ' l : ↥(C' l)) : AlgebraicClosure ℚ) ∈ 𝒩₀ nd l,
+                  σ (πW l) = algebraMap ↥(𝒩₀ nd l) (AdicCompletion (maximalIdeal ↥(𝒩₀ nd l)) ↥(𝒩₀ nd l)) ⟨_, h⟩) ∧
+                (∀ o : Wc l, ι (σ o) = const (πW l ^ E l) o) ∧
+                (∀ (c : ↥(C' l)) (h : algebraMap (AlgebraicClosure ℚ) (fieldBar q M') (c : AlgebraicClosure ℚ) ∈ 𝒩₀ nd l),
+                  ∃ o : Wc l, σ o = algebraMap ↥(𝒩₀ nd l) (AdicCompletion (maximalIdeal ↥(𝒩₀ nd l)) ↥(𝒩₀ nd l)) ⟨_, h⟩) ∧
+                (∀ (f : ↥(𝒩₀ nd l)) (n : ℕ) (h₁ : f.1 ∈ (Rx nd).integers), (Rx nd).residue ⟨f.1, h₁⟩ ≠ 0 →
+                  (bx nd).ord ((Rx nd).residue ⟨f.1, h₁⟩) = (n : ℤ) →
+                    ∃ γ : UVCrossingModel (Wc l) (πW l ^ E l), IsUnit γ ∧
+                      ι (algebraMap ↥(𝒩₀ nd l) (AdicCompletion (maximalIdeal ↥(𝒩₀ nd l)) ↥(𝒩₀ nd l)) f) - γ * V (πW l ^ E l) ^ n ∈
+                        Ideal.span {const (πW l ^ E l) (πW l), U (πW l ^ E l)}) ∧
+                (∀ (f : ↥(𝒩₀ nd l)) (n : ℕ) (h₂ : f.1 ∈ R.integers), R.residue ⟨f.1, h₂⟩ ≠ 0 →
+                  nd.ord (R.residue ⟨f.1, h₂⟩) = (n : ℤ) →
+                    ∃ γ : UVCrossingModel (Wc l) (πW l ^ E l), IsUnit γ ∧
+                      ι (algebraMap ↥(𝒩₀ nd l) (AdicCompletion (maximalIdeal ↥(𝒩₀ nd l)) ↥(𝒩₀ nd l)) f) - γ * U (πW l ^ E l) ^ n ∈
+                        Ideal.span {const (πW l ^ E l) (πW l), V (πW l ^ E l)}))) ∧
+
+          (∃ (hJK : ModularCurve.jqNModC (AlgebraicClosure ℚ) q ∈ fieldBar q M') (a₀ : AlgebraicClosure ℚ) (ha₀ : a₀ ∈ A)
+             (hR : (⟨ModularCurve.jqNModC (AlgebraicClosure ℚ) q, hJK⟩ : ↥(fieldBar q M')) -
+                algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') a₀ ∈ R.integers),
+            R.residue ⟨_, hR⟩ = 0 ∧
+            (IsLocalRing.residue ↥A ⟨a₀, ha₀⟩) ^ q = (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (jGeomGen (ResidueField ↥A) M') ∧
+            ∃ (c' : AlgebraicClosure ℚ) (htc : c' • ((⟨ModularCurve.jqNModC (AlgebraicClosure ℚ) q, hJK⟩ : ↥(fieldBar q M')) -
+                algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') a₀) ∈ R.integers),
+              R.residue ⟨_, htc⟩ ≠ 0 ∧
+              ∀ nd ∈ N, ∃ hC : ((⟨ModularCurve.jqNModC (AlgebraicClosure ℚ) q, hJK⟩ : ↥(fieldBar q M')) -
+                algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') a₀) ∈ (Rx nd).integers,
+                (Rx nd).residue ⟨_, hC⟩ ≠ 0 ∧
+                nd.ord (R.residue ⟨_, htc⟩) = -((bx nd).ord ((Rx nd).residue ⟨_, hC⟩))) ∧
+
+          (∀ nd ∈ N, ∀ nd' ∈ N, ∀ P, P ∈ S nd → P ∈ S nd' → nd = nd') ∧
+
+          (∀ nd ∈ N, ∀ P ∈ S nd, ∀ (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+            (∀ P : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar M'),
+              0 ≤ P.ord ((⟨coeffEmb (AlgebraicClosure ℚ) jq,
+                coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+                ↥(modularFunctionFieldBar M')) : ↥(modularFunctionFieldBar M')) → 0 ≤ P.ord (f : ↥(modularFunctionFieldBar M'))) →
+            (R₀.residue ⟨f, hf⟩ : modularFunctionFieldC (ResidueField A) M') ∈
+                (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring →
+              ∀ a : A, residue A a =
+                  (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).evalAt (R₀.residue ⟨f, hf⟩) →
+                ∃ h : P.evalAt (IntermediateField.inclusion hle f : fieldBar q M') - (a : AlgebraicClosure ℚ) ∈ A,
+                  (⟨_, h⟩ : A) ∈ maximalIdeal A) ∧
+
+          (∀ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' → ∃ τN : Place (ResidueField A) FSS → Place (ResidueField A) FSS,
+            ∀ nd ∈ N, τN nd ∈ N ∧
+              (∀ P : Place (AlgebraicClosure ℚ) (fieldBar q M'), (levelAutBar q M' ζ' γ) • P ∈ S nd ↔ P ∈ S (τN nd)) ∧
+              ((Rx nd).integers).comap (levelAutBar q M' ζ' γ).toAlgHom.toRingHom = (Rx (τN nd)).integers) ∧
+
+          (∀ τ ∈ Subgroup.closure {τ : (fieldBar q M') ≃ₐ[AlgebraicClosure ℚ] (fieldBar q M') |
+                ∃ (ζ' : Idx q) (γ : SL(2, ℤ)), γ ∈ Gamma0 M' ∧ τ = levelAutBar q M' ζ' γ},
+            ∀ (hτ : ∀ f : fieldBar q M', τ f ∈ R.integers ↔ f ∈ R.integers), ∀ nd ∈ N,
+              R.resAut τ hτ • nd ∈ N ∧
+              AlgebraicCurve.RegularProlongation.smulDisc τ (S nd) = S (R.resAut τ hτ • nd)) ∧
+
+          (∀ nd ∈ N, S nd = (An nd).dom) ∧
+
+          (∀ nd ∈ N, ∀ f : ↥(modularFunctionFieldBar M'), f ∈ R₀.integers →
+            (IntermediateField.inclusion hle f : ↥(fieldBar q M')) ∈ (Rx nd).integers) ∧
+
+          (∀ nd ∈ N, ∃ j : modularFunctionFieldC (ResidueField A) M' →+* FIx nd,
+            (∀ (f : ↥(modularFunctionFieldBar M')) (hf : f ∈ R₀.integers),
+              ∃ hC : (IntermediateField.inclusion hle f : fieldBar q M') ∈ (Rx nd).integers,
+                (Rx nd).residue ⟨_, hC⟩ = j (R₀.residue ⟨f, hf⟩)) ∧
+            ∀ g : modularFunctionFieldC (ResidueField A) M',
+              g ∈ (s : Place (ResidueField A) (modularFunctionFieldC (ResidueField A) M')).toValuationSubring ↔
+                j g ∈ (bx nd).toValuationSubring)))) :
+    (∀ Q ∈ N, ∀ (S : Subring ↥(fieldBar q M')) (φ : Polynomial ↥A →+* ↥S) (χ₀ : ↥S →+* ResidueField ↥A)
+          (D : Set (Place (AlgebraicClosure ℚ) ↥(fieldBar q M'))),
+          ¬ (
+            (∀ a : ↥A, algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') (a : (AlgebraicClosure ℚ)) ∈ S) ∧
+            (φ).FormallySmooth ∧ (φ).FormallyUnramified ∧
+            (∀ a : ↥A, ((φ (Polynomial.C a) : ↥(S)) : ↥(fieldBar q M')) = algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') (a : (AlgebraicClosure ℚ))) ∧
+            (∀ a : ↥A, χ₀ (φ (Polynomial.C a)) = IsLocalRing.residue ↥A a) ∧
+            χ₀ (φ Polynomial.X) = 0 ∧
+            (∀ c : ↥A, IsLocalRing.residue ↥A c = 0 →
+              ∃! χ : ↥(S) →+* ↥A, (∀ a : ↥A, χ (φ (Polynomial.C a)) = a) ∧
+                (∀ f : ↥(S), IsLocalRing.residue ↥A (χ f) = χ₀ f) ∧ χ (φ Polynomial.X) = c) ∧
+            (∀ f : ↥(S), ∃ hR : (f : ↥(fieldBar q M')) ∈ R.integers, ∃ hm : R.residue ⟨(f : ↥(fieldBar q M')), hR⟩ ∈ Q.toValuationSubring,
+              IsLocalRing.residue ↥Q.toValuationSubring ⟨R.residue ⟨(f : ↥(fieldBar q M')), hR⟩, hm⟩ =
+                algebraMap (ResidueField ↥A) Q.ResidueField (χ₀ f)) ∧
+            (∃ hR : ((φ Polynomial.X : ↥(S)) : ↥(fieldBar q M')) ∈ R.integers,
+              Q.ord (R.residue ⟨((φ Polynomial.X : ↥(S)) : ↥(fieldBar q M')), hR⟩) = 1) ∧
+            (∀ P, P ∈ D ↔ (P.IsRational ∧ (∀ f : ↥(S), (f : ↥(fieldBar q M')) ∈ P.toValuationSubring ∧ P.evalAt (f : ↥(fieldBar q M')) ∈ A) ∧
+              (∀ f : ↥(S), A.valuation (P.evalAt (f : ↥(fieldBar q M'))) < 1 ↔ χ₀ f = 0))) ∧
+            (∀ χ : ↥(S) →+* ↥A, (∀ a : ↥A, χ (φ (Polynomial.C a)) = a) →
+              (∀ f : ↥(S), IsLocalRing.residue ↥A (χ f) = χ₀ f) →
+              ∃! P, P ∈ D ∧ ∀ f : ↥(S), P.evalAt (f : ↥(fieldBar q M')) = ((χ f : ↥A) : (AlgebraicClosure ℚ))) ∧
+            (∀ P ∈ D, ∀ f : ↥(fieldBar q M'), f ∈ P.toValuationSubring ↔
+              ∃ g h : ↥(S), P.evalAt (h : ↥(fieldBar q M')) ≠ 0 ∧ f * (h : ↥(fieldBar q M')) = (g : ↥(fieldBar q M'))) ∧
+            (∀ f : ↥(fieldBar q M'), f ≠ 0 → (∀ P ∈ D, P.ord f = 0) →
+              ∃ (c : (AlgebraicClosure ℚ)) (u : (↥(S))ˣ), c ≠ 0 ∧ algebraMap (AlgebraicClosure ℚ) ↥(fieldBar q M') c * f = ((u : ↥(S)) : ↥(fieldBar q M'))) ∧
+            (∀ f : ↥(fieldBar q M'), f ∈ R.integers → (∀ P ∈ D, f ∈ P.toValuationSubring) → f ∈ S) ∧
+
+          (∀ P ∈ D, 0 ≤ P.ord (IntermediateField.inclusion hle (⟨coeffEmb (AlgebraicClosure ℚ) jq,
+            coeffEmb_mem_laurentBaseChange (AlgebraicClosure ℚ) (modularFunctionField_le_full M' (jq_mem M'))⟩ :
+            ↥(modularFunctionFieldBar M')) : ↥(fieldBar q M'))))) := by sorry

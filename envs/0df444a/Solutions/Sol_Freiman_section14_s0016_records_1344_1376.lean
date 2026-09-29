@@ -1,0 +1,272 @@
+-- Prove2me | solution 1 for Freiman.section14_s0016_records_1344_1376
+-- status  : ACCEPTED   (prove)
+-- author  : @tp
+-- created : 2026-09-18T23:28:55.974201+00:00
+-- url     : https://prove2.me/submissions/4824a4ef-2c79-4b92-8f70-995f6ab6a5fa
+
+import Definitions.Def_Freiman_section14Data
+import Definitions.Def_Freiman_section14Model
+import Mathlib.Data.Fintype.Pi
+
+open Freiman
+set_option synthInstance.maxSize 100000
+set_option maxRecDepth 100000
+namespace M7Section14Sep18
+instance (r : CertRectangle) : Decidable (certRectangleValid r) := by
+  unfold certRectangleValid
+  infer_instance
+instance (t : CertThreshold) : Decidable (certThresholdDataValid t) := by
+  unfold certThresholdDataValid
+  infer_instance
+instance (z : CertField) (q : ℚ) : Decidable (certCoefficientBoundValid z q) := by
+  unfold certCoefficientBoundValid
+  infer_instance
+instance (w : CertWitness) : Decidable (certWitnessValid w) := by
+  unfold certWitnessValid
+  infer_instance
+instance (C : Section14Catalog) (S : Section14State) (caseId : ℕ)
+    (gs : ℕ × Section14Spec) : Decidable (section14SpecValid C S caseId gs) := by
+  unfold section14SpecValid
+  infer_instance
+instance (C : Section14Catalog) (S : Section14State) (p : Section14Plan) :
+    Decidable (section14PlanValid C S p) := by
+  unfold section14PlanValid
+  infer_instance
+instance (outer inner : CertRectangle) : Decidable (section14RectangleContains outer inner) := by
+  unfold section14RectangleContains
+  infer_instance
+instance (C : Section14Catalog) (si : ℕ) (r : Section14Record) :
+    Decidable (section14RecordValid C si r) := by
+  unfold section14RecordValid
+  infer_instance
+instance (C : Section14Catalog) (si parent goal : ℕ) (branch : ℤ) :
+    Decidable (section14Recorded C si parent goal branch) := by
+  unfold section14Recorded
+  infer_instance
+instance (C : Section14Catalog) (si : ℕ) : Decidable (section14Coverage C si) := by
+  unfold section14Coverage
+  infer_instance
+instance (C : Section14Catalog) (si : ℕ) : Decidable (section14StateValid C si) := by
+  unfold section14StateValid
+  infer_instance
+end M7Section14Sep18
+
+open Freiman
+set_option maxRecDepth 100000
+set_option synthInstance.maxSize 100000
+set_option Elab.async false
+namespace M7Section14Sep18
+
+def RecordDataValid (C : Section14Catalog) (si : ℕ) (r : Section14Record) : Prop :=
+  let S := section14State C si
+  let p := section14Proof C r.proofId
+  0 < r.goal ∧ r.goal ≤ C.goals.length ∧ 0 < r.proofId ∧ r.proofId ≤ C.proofs.length ∧
+  (section14Branch C (section14Goal C r.goal) r.branch).2 ≠ .automatic ∧
+  (∀ b ∈ section14Parents C S, b.branch ∈ r.parents →
+    section14Bound C p.lowerBound ∈ section14RecordConditions C r b ∧
+    section14Bound C p.upperBound ∈ section14RecordConditions C r b) ∧
+  ∃ a ∈ C.assignments, a.proofId = r.proofId ∧ si ∈ a.states ∧
+    0 < a.witnessId ∧ a.witnessId ≤ C.witnesses.length ∧
+    let w := section14Witness C a.witnessId
+    w.firstThreshold = p.lowerBound.threshold ∧ w.secondThreshold = p.upperBound.threshold ∧
+    section14RectangleContains w.rectangle S.rectangle
+
+instance (C : Section14Catalog) (si : ℕ) (r : Section14Record) :
+    Decidable (RecordDataValid C si r) := by
+  unfold RecordDataValid
+  infer_instance
+
+theorem recordValid_of_data (C : Section14Catalog) (si : ℕ) (r : Section14Record)
+    (hnum : ∀ a ∈ C.assignments, certWitnessValid
+      (section14PairWitness C (section14Proof C a.proofId) (section14Witness C a.witnessId)))
+    (h : RecordDataValid C si r) : section14RecordValid C si r := by
+  rcases h with ⟨hg0,hg1,hp0,hp1,hbranch,hconditions,a,ha,hp,hs,hw0,hw1,hl,hu,hrect⟩
+  have hv := hnum a ha
+  rw [hp] at hv
+  exact ⟨hg0,hg1,hp0,hp1,hbranch,hconditions,a,ha,hp,hs,hw0,hw1,hl,hu,hrect,hv⟩
+
+theorem recordValid_all_of_data (C : Section14Catalog) (si : ℕ)
+    (hnum : ∀ a ∈ C.assignments, certWitnessValid
+      (section14PairWitness C (section14Proof C a.proofId) (section14Witness C a.witnessId)))
+    (h : ∀ r ∈ C.records, si ∈ r.states → RecordDataValid C si r) :
+    ∀ r ∈ C.records, si ∈ r.states → section14RecordValid C si r := by
+  intro r hr hs
+  exact recordValid_of_data C si r hnum (h r hr hs)
+end M7Section14Sep18
+
+set_option Elab.async false
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+set_option linter.all false
+open Freiman M7Section14Sep18
+namespace Section14Records_16_1344_1376
+private theorem valid1344 : RecordDataValid section14Catalog 16 (⟨221,(15),[4,8,12,16],[10],1359⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1359,[4,8,9,12,16],1363⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1345 : RecordDataValid section14Catalog 16 (⟨221,(16),[4,8,12,16],[10],1359⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1359,[4,8,9,12,16],1363⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1346 : RecordDataValid section14Catalog 16 (⟨221,(17),[4,8,12,16],[10],1359⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1359,[4,8,9,12,16],1363⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1347 : RecordDataValid section14Catalog 16 (⟨221,(18),[4,8,16],[10],1355⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1355,[4,8,9,12,16],1359⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1348 : RecordDataValid section14Catalog 16 (⟨221,(19),[4,8,12,16],[10],1359⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1359,[4,8,9,12,16],1363⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1349 : RecordDataValid section14Catalog 16 (⟨221,(20),[4,8,12,16],[10],1360⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1360,[4,8,9,12,16],1364⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1350 : RecordDataValid section14Catalog 16 (⟨221,(21),[4,8,12,16],[10],1360⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1360,[4,8,9,12,16],1364⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1351 : RecordDataValid section14Catalog 16 (⟨221,(22),[4,8,12,16],[10],1360⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1360,[4,8,9,12,16],1364⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1352 : RecordDataValid section14Catalog 16 (⟨221,(23),[4,8,12,16],[10],1355⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1355,[4,8,9,12,16],1359⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1353 : RecordDataValid section14Catalog 16 (⟨221,(24),[4,16],[10],1356⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1356,[4,8,9,12,16],1360⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1354 : RecordDataValid section14Catalog 16 (⟨222,(0),[4,8,12,16],[10],736⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨736,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],737⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1355 : RecordDataValid section14Catalog 16 (⟨222,(1),[3,4,8,12,15,16],[10],736⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨736,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],737⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1356 : RecordDataValid section14Catalog 16 (⟨222,(2),[3,4,7,15,16],[10],737⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨737,[1,2,3,4,5,6,7,10,11,13,14,15,16],738⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1357 : RecordDataValid section14Catalog 16 (⟨222,(3),[3,4,8,12,15,16],[10],736⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨736,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],737⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1358 : RecordDataValid section14Catalog 16 (⟨222,(4),[3,4,7,8,12,15,16],[10],525⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨525,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],526⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1359 : RecordDataValid section14Catalog 16 (⟨222,(5),[3,4,8,12,15,16],[10],735⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨735,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],736⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1360 : RecordDataValid section14Catalog 16 (⟨222,(6),[4,8,12,16],[10],740⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨740,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],741⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1361 : RecordDataValid section14Catalog 16 (⟨222,(7),[3,4,7,15,16],[10],739⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨739,[1,2,3,4,5,6,7,10,11,13,14,15,16],740⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1362 : RecordDataValid section14Catalog 16 (⟨222,(8),[3,4,8,12,15,16],[10],740⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨740,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],741⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1363 : RecordDataValid section14Catalog 16 (⟨222,(9),[3,4,7,8,12,15,16],[10],528⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨528,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],529⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1364 : RecordDataValid section14Catalog 16 (⟨222,(10),[4,8,12,16],[10],735⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨735,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],736⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1365 : RecordDataValid section14Catalog 16 (⟨222,(11),[4,8,12,16],[10],738⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨738,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],739⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1366 : RecordDataValid section14Catalog 16 (⟨222,(12),[4,16],[10],1361⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1361,[4,5,10,16],1365⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1367 : RecordDataValid section14Catalog 16 (⟨222,(13),[4,8,12,16],[10],1362⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨1362,[4,5,8,9,12,16],1366⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1368 : RecordDataValid section14Catalog 16 (⟨222,(14),[3,4,7,8,12,15,16],[10],531⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨531,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],532⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1369 : RecordDataValid section14Catalog 16 (⟨222,(15),[3,4,8,12,15,16],[10],735⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨735,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],736⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1370 : RecordDataValid section14Catalog 16 (⟨222,(16),[3,4,8,12,15,16],[10],738⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨738,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],739⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1371 : RecordDataValid section14Catalog 16 (⟨222,(17),[3,4,7,15,16],[10],745⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨745,[1,2,3,4,5,6,7,10,11,13,14,15,16],746⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1372 : RecordDataValid section14Catalog 16 (⟨222,(18),[3,4,8,12,15,16],[10],746⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨746,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],747⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1373 : RecordDataValid section14Catalog 16 (⟨222,(19),[3,4,7,8,12,15,16],[10],534⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨534,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],535⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1374 : RecordDataValid section14Catalog 16 (⟨222,(20),[3,4,7,8,12,15,16],[10],535⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨535,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],536⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+private theorem valid1375 : RecordDataValid section14Catalog 16 (⟨222,(21),[3,4,7,8,12,15,16],[10],536⟩) := by
+  unfold RecordDataValid
+  refine ⟨?_,?_,?_,?_,?_,?_,(⟨536,[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],537⟩),?_,?_,?_,?_,?_,?_,?_,?_⟩
+  all_goals decide +kernel
+theorem _root_.solution : (∀ a ∈ section14Catalog.assignments, certWitnessValid (section14PairWitness section14Catalog (section14Proof section14Catalog a.proofId) (section14Witness section14Catalog a.witnessId))) → ∀ r ∈ ((section14Catalog.records.filter (fun r => decide (16 ∈ r.states))).drop 1344).take 32, section14RecordValid section14Catalog 16 r := by
+  intro hnum
+  have he : ((section14Catalog.records.filter (fun r => decide (16 ∈ r.states))).drop 1344).take 32 = [⟨221,(15),[4,8,12,16],[10],1359⟩,⟨221,(16),[4,8,12,16],[10],1359⟩,⟨221,(17),[4,8,12,16],[10],1359⟩,⟨221,(18),[4,8,16],[10],1355⟩,⟨221,(19),[4,8,12,16],[10],1359⟩,⟨221,(20),[4,8,12,16],[10],1360⟩,⟨221,(21),[4,8,12,16],[10],1360⟩,⟨221,(22),[4,8,12,16],[10],1360⟩,⟨221,(23),[4,8,12,16],[10],1355⟩,⟨221,(24),[4,16],[10],1356⟩,⟨222,(0),[4,8,12,16],[10],736⟩,⟨222,(1),[3,4,8,12,15,16],[10],736⟩,⟨222,(2),[3,4,7,15,16],[10],737⟩,⟨222,(3),[3,4,8,12,15,16],[10],736⟩,⟨222,(4),[3,4,7,8,12,15,16],[10],525⟩,⟨222,(5),[3,4,8,12,15,16],[10],735⟩,⟨222,(6),[4,8,12,16],[10],740⟩,⟨222,(7),[3,4,7,15,16],[10],739⟩,⟨222,(8),[3,4,8,12,15,16],[10],740⟩,⟨222,(9),[3,4,7,8,12,15,16],[10],528⟩,⟨222,(10),[4,8,12,16],[10],735⟩,⟨222,(11),[4,8,12,16],[10],738⟩,⟨222,(12),[4,16],[10],1361⟩,⟨222,(13),[4,8,12,16],[10],1362⟩,⟨222,(14),[3,4,7,8,12,15,16],[10],531⟩,⟨222,(15),[3,4,8,12,15,16],[10],735⟩,⟨222,(16),[3,4,8,12,15,16],[10],738⟩,⟨222,(17),[3,4,7,15,16],[10],745⟩,⟨222,(18),[3,4,8,12,15,16],[10],746⟩,⟨222,(19),[3,4,7,8,12,15,16],[10],534⟩,⟨222,(20),[3,4,7,8,12,15,16],[10],535⟩,⟨222,(21),[3,4,7,8,12,15,16],[10],536⟩] := by decide +kernel
+  rw [he]
+  intro r hr
+  simp only [List.mem_cons,List.not_mem_nil,or_false] at hr
+  rcases hr with rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl | rfl
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1344
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1345
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1346
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1347
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1348
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1349
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1350
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1351
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1352
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1353
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1354
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1355
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1356
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1357
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1358
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1359
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1360
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1361
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1362
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1363
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1364
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1365
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1366
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1367
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1368
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1369
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1370
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1371
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1372
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1373
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1374
+  · exact recordValid_of_data section14Catalog 16 _ hnum valid1375
+end Section14Records_16_1344_1376
+
+#print axioms solution

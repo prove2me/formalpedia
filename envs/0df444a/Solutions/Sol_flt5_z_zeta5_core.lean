@@ -1,0 +1,105 @@
+-- Prove2me | solution 1 for flt5_z_zeta5_core
+-- status  : SKETCH_ACCEPTED   (sketch)
+-- author  : @tianyipeng
+-- created : 2026-05-12T14:46:37.408953+00:00
+-- url     : https://prove2.me/submissions/ef57e2b3-b490-47c7-a41e-1cb88041e4d5
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Mathlib.Data.Int.Basic
+import Mathlib.Data.Int.GCD
+import Mathlib.Data.ZMod.Basic
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.Linarith
+import Theorems.Thm_flt5_zeta5_pid_step
+import Theorems.Thm_flt5_case1
+
+theorem solution (a b c r s c1 : ℤ) (h_eq : a ^ 5 + b ^ 5 = c ^ 5)
+    (h_cop : Int.gcd a b = 1) (h5c : (5 : ℤ) ∣ c) (hc : c ≠ 0) (hc1 : c = 5 * c1)
+    (hw : a + b = 5 ^ 4 * r ^ 5)
+    (hPhi : a ^ 4 - a ^ 3 * b + a ^ 2 * b ^ 2 - a * b ^ 3 + b ^ 4 = 5 * s ^ 5)
+    (hcop_rs : Int.gcd r s = 1) (hrs : r * s = c1) :
+    ∃ a' b' c' : ℤ, a' ^ 5 + b' ^ 5 = c' ^ 5 ∧ Int.gcd a' b' = 1 ∧
+    (5 : ℤ) ∣ c' ∧ c' ≠ 0 ∧ c'.natAbs < c.natAbs := by
+  -- Helper: k|x, k|y → k | ↑(Int.gcd x y)
+  have dvd_igcd : ∀ (k x y : ℤ), k ∣ x → k ∣ y → k ∣ ↑(Int.gcd x y) := by
+    intro k x y hkx hky
+    have hkx' : k.natAbs ∣ x.natAbs := Int.natAbs_dvd_natAbs.mpr hkx
+    have hky' : k.natAbs ∣ y.natAbs := Int.natAbs_dvd_natAbs.mpr hky
+    exact Int.natAbs_dvd.mp (by exact_mod_cast Nat.dvd_gcd hkx' hky')
+  -- Helper: prime ℓ, ℓ | n^5 → ℓ | n (as integers)
+  have prime_dvd_pow5 : ∀ (ℓ : ℕ), Nat.Prime ℓ → ∀ n : ℤ, (ℓ : ℤ) ∣ n ^ 5 → (ℓ : ℤ) ∣ n := by
+    intro ℓ hℓ n hdn5
+    have h := Int.natAbs_dvd_natAbs.mpr hdn5
+    simp only [Int.natAbs_pow] at h
+    have hnat : ℓ ∣ n.natAbs ^ 5 := by exact_mod_cast h
+    exact Int.natAbs_dvd_natAbs.mp (by exact_mod_cast hℓ.dvd_of_dvd_pow hnat)
+  -- Z[ζ_5] PID descent: get (p,q) with p^5+q^5=c1^5, gcd(p,q)=1, size bounds p,q ≠ 0
+  obtain ⟨p, q, h_pq, h_cop_pq, hp_size, hq_size, hp_ne, hq_ne⟩ :=
+    flt5_zeta5_pid_step a b c r s c1 h_eq h_cop h5c hc hc1 hw hPhi hcop_rs hrs
+  -- c1 ≠ 0 (since c = 5*c1, c ≠ 0)
+  have hc1_ne : c1 ≠ 0 := by
+    intro h; rw [h, mul_zero] at hc1; exact hc hc1
+  -- |c1| < |c| (since |c| = 5*|c1| > |c1| when c1 ≠ 0)
+  have hsize : c1.natAbs < c.natAbs := by
+    rw [hc1, Int.natAbs_mul]
+    have h5 : (5 : ℤ).natAbs = 5 := by norm_num
+    rw [h5]
+    have h2 := Int.natAbs_pos.mpr hc1_ne
+    omega
+  -- Helper: from x^5+y^5=c1^5 and gcd(x,y)=1, we get gcd(y,c1)=1
+  have gcd_with_c1 : ∀ x y : ℤ, x ^ 5 + y ^ 5 = c1 ^ 5 → Int.gcd x y = 1 →
+      Int.gcd y c1 = 1 := by
+    intro x y hxy hcopxy
+    by_contra hne1
+    obtain ⟨ℓ, hℓ_prime, hℓ_dvd_gcd⟩ := Nat.exists_prime_and_dvd hne1
+    have hℓy : (ℓ : ℤ) ∣ y :=
+      dvd_trans (by exact_mod_cast hℓ_dvd_gcd : (ℓ : ℤ) ∣ ↑(Int.gcd y c1))
+                (Int.gcd_dvd_left y c1)
+    have hℓc1 : (ℓ : ℤ) ∣ c1 :=
+      dvd_trans (by exact_mod_cast hℓ_dvd_gcd : (ℓ : ℤ) ∣ ↑(Int.gcd y c1))
+                (Int.gcd_dvd_right y c1)
+    have hℓy5 : (ℓ : ℤ) ∣ y ^ 5 := dvd_pow hℓy (by norm_num)
+    have hℓc15 : (ℓ : ℤ) ∣ c1 ^ 5 := dvd_pow hℓc1 (by norm_num)
+    have hℓx5 : (ℓ : ℤ) ∣ x ^ 5 := by
+      have heq : x ^ 5 = c1 ^ 5 - y ^ 5 := by linarith [hxy]
+      rw [heq]; exact dvd_sub hℓc15 hℓy5
+    have hℓx : (ℓ : ℤ) ∣ x := prime_dvd_pow5 ℓ hℓ_prime x hℓx5
+    have h1 : (ℓ : ℤ) ∣ ↑(Int.gcd x y) := dvd_igcd (ℓ : ℤ) x y hℓx hℓy
+    rw [hcopxy, Nat.cast_one] at h1
+    have hle : (ℓ : ℤ) ≤ 1 := Int.le_of_dvd one_pos h1
+    linarith [show 2 ≤ (ℓ : ℤ) from by exact_mod_cast hℓ_prime.two_le]
+  -- By flt5_case1: 5 must divide at least one of p, q, c1
+  have h_five : (5 : ℤ) ∣ p ∨ (5 : ℤ) ∣ q ∨ (5 : ℤ) ∣ c1 := by
+    by_contra h
+    push_neg at h
+    exact flt5_case1 p q c1 h_pq h.1 h.2.1 h.2.2
+  -- Case split
+  rcases h_five with h5p | h5q | h5c1
+  · -- Case 5|p: use triple (q, -c1, -p) since q^5+(-c1)^5=(-p)^5
+    have h_eq' : q ^ 5 + (-c1) ^ 5 = (-p) ^ 5 := by
+      have h1 : (-c1 : ℤ) ^ 5 = -(c1 ^ 5) := by ring
+      have h2 : (-p : ℤ) ^ 5 = -(p ^ 5) := by ring
+      rw [h1, h2]; linarith [h_pq]
+    have h_cop_qc1 : Int.gcd q c1 = 1 := gcd_with_c1 p q h_pq h_cop_pq
+    have h_cop' : Int.gcd q (-c1) = 1 := by
+      change Nat.gcd q.natAbs (-c1).natAbs = 1
+      rw [Int.natAbs_neg]; exact h_cop_qc1
+    exact ⟨q, -c1, -p, h_eq', h_cop', dvd_neg.mpr h5p,
+           fun h => hp_ne (neg_eq_zero.mp h),
+           by rw [Int.natAbs_neg]; exact hp_size⟩
+  · -- Case 5|q: use triple (p, -c1, -q) since p^5+(-c1)^5=(-q)^5
+    have h_eq'' : p ^ 5 + (-c1) ^ 5 = (-q) ^ 5 := by
+      have h1 : (-c1 : ℤ) ^ 5 = -(c1 ^ 5) := by ring
+      have h2 : (-q : ℤ) ^ 5 = -(q ^ 5) := by ring
+      rw [h1, h2]; linarith [h_pq]
+    have h_cop_pc1 : Int.gcd p c1 = 1 :=
+      gcd_with_c1 q p (by rw [add_comm]; exact h_pq) (by rw [Int.gcd_comm]; exact h_cop_pq)
+    have h_cop'' : Int.gcd p (-c1) = 1 := by
+      change Nat.gcd p.natAbs (-c1).natAbs = 1
+      rw [Int.natAbs_neg]; exact h_cop_pc1
+    exact ⟨p, -c1, -q, h_eq'', h_cop'', dvd_neg.mpr h5q,
+           fun h => hq_ne (neg_eq_zero.mp h),
+           by rw [Int.natAbs_neg]; exact hq_size⟩
+  · -- Case 5|c1: use triple (p, q, c1) directly
+    exact ⟨p, q, c1, h_pq, h_cop_pq, h5c1, hc1_ne, hsize⟩

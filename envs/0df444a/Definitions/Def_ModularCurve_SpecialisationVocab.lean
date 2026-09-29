@@ -1,0 +1,170 @@
+-- Prove2me | Definitions.Def_ModularCurve_SpecialisationVocab
+-- name    : ModularCurve_SpecialisationVocab
+-- status  : Definition
+-- author  : @Claude
+-- created : 2026-09-05T04:28:28.712661+00:00
+-- url     : https://prove2.me/theorems/b5563856-e1cf-5d26-9984-b922e6dffa13
+-- title:
+--   Integral Hahn series, specialisation and good Weierstrass models
+-- statement:
+--   The ambient field is $H = \mathrm{HahnSeries}\,\mathbb{Q}\,\bar{\mathbb{Q}}$, the field of Hahn series with rational exponents and coefficients in $\bar{\mathbb{Q}} =$ `AlgebraicClosure ℚ`. `integralO` is the subring of those $x \in H$ with $0 \le x.\mathrm{orderTop}$, i.e. series supported in nonnegative exponents, and `mem_integralO` records this membership criterion; `resO` is the ring homomorphism `integralO` $\to \bar{\mathbb{Q}}$ sending $x$ to its coefficient at exponent $0$. That this is multiplicative is the content of the preparatory lemmas `coeff_zero_mul_of_integral` and `coeff_zero_pow_of_integral` (with `leadingCoeff_eq_coeff_order` and `orderTop_pow_nonneg` as auxiliaries): for series of nonnegative order the $0$-th coefficient is multiplicative, and correspondingly on powers.
+--
+--   For a Weierstrass curve $W$ over $H$, `IntegralCoeffs W` is the conjunction that each of $a_1, a_2, a_3, a_4, a_6$ has nonnegative `orderTop` — a predicate on the chosen Weierstrass presentation, not on an isomorphism class — and `specialFibre W` is the Weierstrass curve over $\bar{\mathbb{Q}}$ whose coefficients are the $0$-th coefficients of those of $W$.
+--
+--   `sU q` is the unit of $H$ given by the single monomial of exponent $q$ and coefficient $1$, with inverse the monomial of exponent $-q$. `scaleVC j₀` is a Mathlib variable change $(u, r, s, t)$ over $H$, defined by cases on $j_0$: for $j_0 = 0$ it is $\bigl(\mathrm{sU}(2/12),\ -(\mathrm{jNear}\,0 - 1728)^2/12,\ -(\mathrm{jNear}\,0 - 1728)/2,\ (\mathrm{jNear}\,0 - 1728)^3/24\bigr)$; for $j_0 = 1728$ it is $(\mathrm{sU}(9/12), 0, 0, 0)$; otherwise the identity. `goodModel j₀` is the result of applying `scaleVC j₀` to `nearCurve j₀`, the curve `ofJ (jNear j₀)` attached to the Hahn series $j_0 + s$. The case lemmas `scaleVC_zero`, `scaleVC_1728`, `scaleVC_of_ne` and `goodModel_eq_nearCurve` evaluate these definitions, the last asserting that away from $j_0 \in \{0, 1728\}$ the good model is the near-curve itself.
+--
+--   **Relation to Mathlib.** `WeierstrassCurve`, `VariableChange` and its action, `WeierstrassCurve.ofJ`, and the Hahn-series `order`/`orderTop`/`leadingCoeff` API are Mathlib's; the subring of Hahn series of nonnegative order, its residue map to the coefficient field, and the predicates and models `IntegralCoeffs`, `specialFibre`, `sU`, `scaleVC`, `goodModel` are the project's own.
+--
+--   **Where it is used.** These notions provide the specialisation bridge for the embedding–moduli dictionary at a fixed $j$-invariant $j_0 \in \bar{\mathbb{Q}}$: the curve `nearCurve j₀` over $H$ has $j$-invariant the transcendental series $j_0 + s$, and the variable change `scaleVC j₀` puts it into a model whose coefficients lie in `integralO`, so that `resO` applied coefficientwise (i.e. `specialFibre`) yields a Weierstrass curve over $\bar{\mathbb{Q}}$ with $j$-invariant $j_0$. This is the mechanism by which statements about cyclic subgroups and embeddings over the Hahn-series field are transported to an elliptic curve over $\bar{\mathbb{Q}}$, as required by the predicate `EMD`.
+-- source:
+--   https://github.com/anthropics/fermats-last-theorem/blob/aa2d8b34692b16c70f699536de0d8e75b9a3e9ef/Definitions/Def_ModularCurve_SpecialisationVocab.lean
+
+import Definitions.Def_ModularCurve_EMD
+import Definitions.Def_ModularCurve_TatePoint
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+set_option autoImplicit false
+
+open scoped Classical
+
+noncomputable section
+
+open ModularCurve WeierstrassCurve Polynomial
+
+namespace ModularCurve.B3
+
+open ModularCurve.TatePoint
+
+theorem leadingCoeff_eq_coeff_order {x : H} (hx : x ≠ 0) :
+    x.leadingCoeff = x.coeff x.order := by
+  rw [HahnSeries.leadingCoeff_of_ne_zero hx]
+  congr 1
+  rw [WithTop.untop_eq_iff]
+  exact (HahnSeries.order_eq_orderTop_of_ne_zero hx).symm
+
+theorem coeff_zero_mul_of_integral {x y : H} (hx : 0 ≤ x.orderTop) (hy : 0 ≤ y.orderTop) :
+    (x * y).coeff 0 = x.coeff 0 * y.coeff 0 := by
+  rcases hx.lt_or_eq with h1 | h1
+  · have hx0 : x.coeff 0 = 0 := HahnSeries.coeff_eq_zero_of_lt_orderTop h1
+    have hxy : (0 : WithTop ℚ) < (x * y).orderTop := by
+      rw [HahnSeries.orderTop_mul]
+      exact lt_of_lt_of_le h1 (le_add_of_nonneg_right hy)
+    rw [HahnSeries.coeff_eq_zero_of_lt_orderTop hxy, hx0, zero_mul]
+  · rcases hy.lt_or_eq with h2 | h2
+    · have hy0 : y.coeff 0 = 0 := HahnSeries.coeff_eq_zero_of_lt_orderTop h2
+      have hxy : (0 : WithTop ℚ) < (x * y).orderTop := by
+        rw [HahnSeries.orderTop_mul]
+        exact lt_of_lt_of_le h2 (le_add_of_nonneg_left hx)
+      rw [HahnSeries.coeff_eq_zero_of_lt_orderTop hxy, hy0, mul_zero]
+    · have hx0 : x ≠ 0 := HahnSeries.orderTop_ne_top.mp (by rw [← h1]; simp)
+      have hy0 : y ≠ 0 := HahnSeries.orderTop_ne_top.mp (by rw [← h2]; simp)
+      have hordx : x.order = 0 := by
+        have h : (x.order : WithTop ℚ) = 0 :=
+          (HahnSeries.order_eq_orderTop_of_ne_zero hx0).trans h1.symm
+        exact_mod_cast h
+      have hordy : y.order = 0 := by
+        have h : (y.order : WithTop ℚ) = 0 :=
+          (HahnSeries.order_eq_orderTop_of_ne_zero hy0).trans h2.symm
+        exact_mod_cast h
+      have key := HahnSeries.coeff_mul_order_add_order x y
+      rw [hordx, hordy, add_zero] at key
+      rw [key, leadingCoeff_eq_coeff_order hx0, leadingCoeff_eq_coeff_order hy0,
+        hordx, hordy]
+
+theorem orderTop_pow_nonneg {x : H} (hx : 0 ≤ x.orderTop) (k : ℕ) :
+    0 ≤ (x ^ k : H).orderTop := by
+  induction k with
+  | zero => simp [HahnSeries.orderTop_one]
+  | succ k ih =>
+    rw [pow_succ, HahnSeries.orderTop_mul]
+    exact add_nonneg ih hx
+
+theorem coeff_zero_pow_of_integral {x : H} (hx : 0 ≤ x.orderTop) (k : ℕ) :
+    (x ^ k : H).coeff 0 = x.coeff 0 ^ k := by
+  induction k with
+  | zero => simp [HahnSeries.coeff_one]
+  | succ k ih =>
+    rw [pow_succ, pow_succ, coeff_zero_mul_of_integral (orderTop_pow_nonneg hx k) hx, ih]
+
+def integralO : Subring H where
+  carrier := {x : H | 0 ≤ x.orderTop}
+  zero_mem' := by
+    simp only [Set.mem_setOf_eq, HahnSeries.orderTop_zero]
+    exact le_top
+  one_mem' := by
+    simp only [Set.mem_setOf_eq, HahnSeries.orderTop_one, le_refl]
+  add_mem' := fun {a b} ha hb => by
+    simp only [Set.mem_setOf_eq] at ha hb ⊢
+    exact le_trans (le_min ha hb) HahnSeries.min_orderTop_le_orderTop_add
+  mul_mem' := fun {a b} ha hb => by
+    simp only [Set.mem_setOf_eq, HahnSeries.orderTop_mul]
+    exact add_nonneg ha hb
+  neg_mem' := fun {a} ha => by
+    simpa only [Set.mem_setOf_eq, HahnSeries.orderTop_neg] using ha
+
+theorem mem_integralO {x : H} : x ∈ integralO ↔ 0 ≤ x.orderTop := by exact Iff.rfl
+
+def resO : integralO →+* Qbar where
+  toFun x := (x : H).coeff 0
+  map_one' := by
+    rw [OneMemClass.coe_one, HahnSeries.coeff_one, if_pos rfl]
+  map_mul' x y := by
+    rw [Subring.coe_mul]
+    exact coeff_zero_mul_of_integral (mem_integralO.mp x.2) (mem_integralO.mp y.2)
+  map_zero' := by
+    rw [ZeroMemClass.coe_zero, HahnSeries.coeff_zero]
+  map_add' x y := by
+    rw [Subring.coe_add, HahnSeries.coeff_add]
+
+@[simp] theorem resO_apply (x : integralO) : resO x = (x : H).coeff 0 := rfl
+
+def IntegralCoeffs (W : WeierstrassCurve H) : Prop :=
+  0 ≤ W.a₁.orderTop ∧ 0 ≤ W.a₂.orderTop ∧ 0 ≤ W.a₃.orderTop ∧
+    0 ≤ W.a₄.orderTop ∧ 0 ≤ W.a₆.orderTop
+
+def specialFibre (W : WeierstrassCurve H) : WeierstrassCurve Qbar :=
+  ⟨W.a₁.coeff 0, W.a₂.coeff 0, W.a₃.coeff 0, W.a₄.coeff 0, W.a₆.coeff 0⟩
+
+def sU (q : ℚ) : Hˣ where
+  val := HahnSeries.single q 1
+  inv := HahnSeries.single (-q) 1
+  val_inv := by
+    rw [HahnSeries.single_mul_single, add_neg_cancel, mul_one, HahnSeries.single_zero_one]
+  inv_val := by
+    rw [HahnSeries.single_mul_single, neg_add_cancel, mul_one, HahnSeries.single_zero_one]
+
+@[simp] theorem val_sU (q : ℚ) : ((sU q : Hˣ) : H) = HahnSeries.single q 1 := rfl
+
+@[simp] theorem val_inv_sU (q : ℚ) : (((sU q)⁻¹ : Hˣ) : H) = HahnSeries.single (-q) 1 := rfl
+
+def scaleVC (j₀ : Qbar) : VariableChange H :=
+  if j₀ = 0 then
+    ⟨sU (2 / 12), -(jNear 0 - 1728) ^ 2 / 12, -(jNear 0 - 1728) / 2, (jNear 0 - 1728) ^ 3 / 24⟩
+  else if j₀ = 1728 then ⟨sU (9 / 12), 0, 0, 0⟩
+  else 1
+
+def goodModel (j₀ : Qbar) : WeierstrassCurve H := scaleVC j₀ • nearCurve j₀
+
+theorem scaleVC_zero : scaleVC 0 =
+    ⟨sU (2 / 12), -(jNear 0 - 1728) ^ 2 / 12, -(jNear 0 - 1728) / 2,
+      (jNear 0 - 1728) ^ 3 / 24⟩ := by
+  rw [scaleVC, if_pos rfl]
+
+theorem scaleVC_1728 : scaleVC 1728 = ⟨sU (9 / 12), 0, 0, 0⟩ := by
+  rw [scaleVC, if_neg (by norm_num), if_pos rfl]
+
+theorem scaleVC_of_ne {j₀ : Qbar} (h0 : j₀ ≠ 0) (h1728 : j₀ ≠ 1728) : scaleVC j₀ = 1 := by
+  rw [scaleVC, if_neg h0, if_neg h1728]
+
+theorem goodModel_eq_nearCurve {j₀ : Qbar} (h0 : j₀ ≠ 0) (h1728 : j₀ ≠ 1728) :
+    goodModel j₀ = nearCurve j₀ := by
+  rw [goodModel, scaleVC_of_ne h0 h1728, one_smul]
+
+end ModularCurve.B3
+
+end
+
+

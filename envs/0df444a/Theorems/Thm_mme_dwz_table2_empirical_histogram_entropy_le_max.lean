@@ -1,0 +1,48 @@
+-- Prove2me | Theorems.Thm_mme_dwz_table2_empirical_histogram_entropy_le_max
+-- name    : mme_dwz_table2_empirical_histogram_entropy_le_max
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-08-26T04:15:56.718011+00:00
+-- url     : https://prove2.me/theorems/31fd784c-d781-41bb-ad7c-2221f1ac7c54
+-- title:
+--   Table-2 empirical entropy is bounded by the same-marginal supremum
+-- statement:
+--   For every positive Table-2 scale multiplier and every word with the prescribed X-, Y-, and Z-coordinate marginals, its empirical joint entropy is a literal feasible same-marginal entropy and is at most the supremum of all such entropies. The statement retains the membership witness and uses a supremum, making no maximum-attainment assumption.
+-- source:
+--   R. Duan, H. Wu, and R. Zhou, Faster Matrix Multiplication via Asymmetric Hashing, arXiv:2210.10173v5, Algorithm 2, Section 3.10, Equation (21), and the maximum-entropy term in Equation (25); https://arxiv.org/abs/2210.10173
+
+import Theorems.Thm_mme_dwz_table2_integer_counts_exact
+import Theorems.Thm_mme_dwz_table2_entropy_potential
+import Theorems.Thm_mme_modern_entropyBits_additive_certificate
+
+open scoped BigOperators
+
+set_option autoImplicit false
+
+theorem mme_dwz_table2_empirical_histogram_entropy_le_max
+    (m : ℕ) (hm : 0 < m) :
+    let sourceLength := MME.DWZTable2Counts.scale * m
+    let alphaX : Fin 5 → ℕ := fun x ↦
+      ∑ s : {s : Fin 15 // MME.DWZSquare.shapeX s = x},
+        MME.DWZTable2Counts.component s.1 * m
+    let alphaY : Fin 5 → ℕ := fun y ↦
+      ∑ s : {s : Fin 15 // MME.DWZSquare.shapeY s = y},
+        MME.DWZTable2Counts.component s.1 * m
+    let MarginalTriple :=
+      {w : Fin sourceLength → Fin 15 //
+        (∀ x, Fintype.card
+            {t // MME.DWZSquare.shapeX (w t) = x} = alphaX x) ∧
+        (∀ y, Fintype.card
+            {t // MME.DWZSquare.shapeY (w t) = y} = alphaY y) ∧
+        ∀ z, Fintype.card
+            {t // MME.DWZSquare.shapeZ (w t) = z} =
+              MME.DWZTable2Counts.alphaZ z * m}
+    ∀ w : MarginalTriple,
+      let p : Fin 15 → ℝ := fun s ↦
+        (Fintype.card {t : Fin sourceLength // w.1 t = s} : ℝ) /
+          (sourceLength : ℝ)
+      mme_modern_entropyBits p ∈
+          MME.DWZSquare.sameMarginalEntropyValues ∧
+        mme_modern_entropyBits p ≤
+          MME.DWZSquare.maxSameMarginalEntropy := by
+  sorry

@@ -1,0 +1,43 @@
+-- Prove2me | Theorems.Thm_mme_dwz_table2_022_202_rows_six_symmetric_finite_extraction_sqrt_loss
+-- name    : mme_dwz_table2_022_202_rows_six_symmetric_finite_extraction_sqrt_loss
+-- status  : Proved
+-- author  : @marwahaha
+-- created : 2026-08-26T18:46:53.265964+00:00
+-- url     : https://prove2.me/theorems/f462e49f-68da-4d23-8429-6b96eb7cf6e7
+-- title:
+--   Table 2 finite extraction: restricted 022 and 202 rows
+-- statement:
+--   For $\tau\ge2/3$, the restricted $022$ and $202$ component powers in Table 2 admit uniform finite six-symmetric matrix-multiplication extractions at the printed split-$a$ component base, with at most a square-root-exponential loss. These are Table-2 indices $9$ and $10$.
+-- source:
+--   Duan, Wu, and Zhou, Faster Matrix Multiplication via Asymmetric Hashing, Lemma 4.6 and the 022/202 restricted splitting used in Table 2, arXiv:2210.10173v5.
+
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Order.Filter.AtTopBot.Basic
+import Definitions.Def_mme_dwz_square_data
+import Definitions.Def_mme_dwz_table2_integer_counts
+import Definitions.Def_mme_dwz_component_word_projection
+import Definitions.Def_mme_six_symmetrized_tau_value
+
+open MME BigOperators Filter
+open MME.DWZSquare MME.DWZComponentRestriction
+
+universe u
+
+set_option autoImplicit false
+
+theorem mme_dwz_table2_022_202_rows_six_symmetric_finite_extraction_sqrt_loss
+    {K : Type u} [Field K]
+    (tau : ℝ) (htau : 2 ≤ 3 * tau) :
+    ∃ C : ℝ, 0 ≤ C ∧
+      ∀ᶠ m : ℕ in atTop,
+        ∀ s : Fin 15, (s = 9 ∨ s = 10) →
+          ∃ (q : ℕ) (A B Cdim : Fin q → ℕ),
+            TensorObj.Restrict
+              (TensorObj.bigAdd (fun j => MMObj K (A j) (B j) (Cdim j)))
+              (sixSymmetrization (restrictedComponentPower K s m)) ∧
+            (((componentBase tau s) ^
+                (MME.DWZTable2Counts.component s * m)) ^ (6 : ℕ)) *
+                Real.exp (-C * Real.sqrt
+                  (((MME.DWZTable2Counts.scale * m + 1 : ℕ) : ℝ))) ≤
+              ∑ j, (((A j * B j * Cdim j : ℕ) : ℝ) ^ tau) := by
+  sorry

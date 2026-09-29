@@ -1,0 +1,73 @@
+-- Prove2me | solution 1 for Bishop.exists_root
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-12T15:37:56.180204+00:00
+-- url     : https://prove2.me/submissions/d74e5aa5-8a0f-41da-aba6-ec63ece46891
+
+-- Sol generated from Logic/ConstructiveAnalysis/ConstructiveIVT.lean
+import Mathlib
+import Definitions.Def_Logic_ConstructiveAnalysis_BishopReals
+import Definitions.Def_Logic_ConstructiveAnalysis_ConstructiveIVT
+import Theorems.Thm_Bishop_HasModulusOn_continuousOn
+/-
+# The constructive intermediate value theorem, with explicit modulus
+
+In Bishop's constructive analysis the classical intermediate value theorem is not
+available: from `f a ≤ 0 ≤ f b` one cannot compute a point where `f` vanishes
+(see `Logic/ConstructiveAnalysis/BrouwerianCounterexamples.lean`).  What *is*
+constructively valid, and what Bishop proves, are:
+
+1. the **approximate intermediate value theorem**: for every `ε > 0` one can
+   *compute* a point `x ∈ [a,b]` with `|f x| ≤ ε`, provided `f` comes with a
+   modulus of uniform continuity `ω`;
+2. the **exact intermediate value theorem** for functions that are, in an explicit
+   quantitative sense, non-constant (here: with a positive lower slope bound `c`),
+   together with an explicit modulus for the root.
+
+Both are proved below.  The approximate root is produced by an entirely explicit
+finite search on the grid `a + k(b-a)/N`, `0 ≤ k ≤ N`, where `N` is any integer with
+`(b-a)/N ≤ ω ε`; the witness is the *largest* grid index at which `f` is `≤ 0`.
+
+The final theorem `exists_reg_root` presents the root of such a function as a
+Bishop real (a regular sequence of rationals) whose rational approximations are
+explicitly grid points of the above finite search.
+-/
+
+
+open Bishop
+
+open Set
+
+
+
+
+
+
+
+
+
+
+/-! ## Exact roots under an explicit non-degeneracy assumption -/
+
+
+
+
+
+
+/-! ## The root as a Bishop real
+
+Finally we present the root itself as a Bishop real: a regular sequence of
+*rationals*, each term of which is one of the explicitly searched grid points. -/
+
+
+
+
+
+open Bishop in
+theorem solution{f : ℝ → ℝ} {a b : ℝ} {ω : ℝ → ℝ} (hab : a ≤ b)
+    (hω : HasModulusOn f (Icc a b) ω) (hfa : f a ≤ 0) (hfb : 0 ≤ f b) :
+    ∃ r ∈ Icc a b, f r = 0 := by
+  have hcont : ContinuousOn f (Icc a b) := hω.continuousOn
+  have h0 : (0 : ℝ) ∈ Icc (f a) (f b) := ⟨hfa, hfb⟩
+  obtain ⟨r, hr, hfr⟩ := intermediate_value_Icc hab hcont h0
+  exact ⟨r, hr, hfr⟩

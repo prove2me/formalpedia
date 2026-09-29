@@ -1,0 +1,106 @@
+-- Prove2me | solution 1 for GeneralCK.CKFast.Band.minors_pos_u167772160_170393600_r159252480_170393600
+-- status  : ACCEPTED   (prove)
+-- author  : @tianyipeng
+-- created : 2026-09-27T23:14:33.752986+00:00
+-- url     : https://prove2.me/submissions/b8596ef4-daa5-4605-973e-0c0eb704c9c9
+
+import Theorems.Thm_GeneralCK_CKFast_tree_sound
+open GeneralCK.CKFast
+
+/-! Cover of `u ∈ [1/5, 13/64]`, `ρ ∈ [243/1280, 13/64]` by 16 cells of the computing
+correction-band checker; each cell is kernel-checked in its own declaration. -/
+
+theorem leaf_ok {U0 U1 R0 R1 : ℤ} {h : Hint} (hc : cellOK U0 U1 R0 R1 h = true) :
+    treeOK U0 U1 R0 R1 (.leaf h) = true := by
+  simpa only [treeOK] using hc
+
+theorem join_su {U0 U1 R0 R1 m : ℤ} {l r : Tree} (hm : (decide (U0 ≤ m) && decide (m ≤ U1)) = true)
+    (hl : treeOK U0 m R0 R1 l = true) (hr : treeOK m U1 R0 R1 r = true) :
+    treeOK U0 U1 R0 R1 (.su m l r) = true := by
+  simp only [treeOK, Bool.and_eq_true] at hm ⊢
+  exact ⟨⟨hm, hl⟩, hr⟩
+
+theorem join_sr {U0 U1 R0 R1 m : ℤ} {l r : Tree} (hm : (decide (R0 ≤ m) && decide (m ≤ R1)) = true)
+    (hl : treeOK U0 U1 R0 m l = true) (hr : treeOK U0 U1 m R1 r = true) :
+    treeOK U0 U1 R0 R1 (.sr m l r) = true := by
+  simp only [treeOK, Bool.and_eq_true] at hm ⊢
+  exact ⟨⟨hm, hl⟩, hr⟩
+
+set_option maxRecDepth 100000 in
+theorem cell0 : cellOK 167772160 168427520 159252480 162037760 ⟨⟨81286317994, 81286318001⟩, ⟨79016668263, 83576194352⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell1 : cellOK 168427520 169082880 159252480 162037760 ⟨⟨80945154785, 80945154788⟩, ⟨78682901834, 83227525897⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell2 : cellOK 167772160 168427520 162037760 164823040 ⟨⟨82604051153, 82604051159⟩, ⟨80329350504, 84898959584⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell3 : cellOK 168427520 169082880 162037760 164823040 ⟨⟨82258031895, 82258031897⟩, ⟨79990739005, 84545424666⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell4 : cellOK 169082880 169738240 159252480 162037760 ⟨⟨80605503496, 80605503502⟩, ⟨78350600769, 82880416853⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell5 : cellOK 169738240 170393600 159252480 162037760 ⟨⟨80267350608, 80267350616⟩, ⟨78019752008, 82534853223⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell6 : cellOK 169082880 169738240 162037760 164823040 ⟨⟨81913538735, 81913538742⟩, ⟨79653607105, 84193463272⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell7 : cellOK 169738240 170393600 162037760 164823040 ⟨⟨81570558073, 81570558079⟩, ⟨79317941656, 83843061327⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell8 : cellOK 167772160 168427520 164823040 167608320 ⟨⟨83919094064, 83919094070⟩, ⟨81639363571, 86219013347⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell9 : cellOK 168427520 169082880 164823040 167608320 ⟨⟨83568247981, 83568247985⟩, ⟨81295935924, 85860641491⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell10 : cellOK 167772160 168427520 167608320 170393600 ⟨⟨85231465705, 85231465713⟩, ⟨82946726246, 87536374809⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell11 : cellOK 168427520 169082880 167608320 170393600 ⟨⟨84875821736, 84875821741⟩, ⟨82598511091, 87173195253⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell12 : cellOK 169082880 169738240 164823040 167608320 ⟨⟨83218941876, 83218941884⟩, ⟨80954001814, 85503856973⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell13 : cellOK 169738240 170393600 164823040 167608320 ⟨⟨82871162072, 82871162078⟩, ⟨80613548015, 85148645639⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell14 : cellOK 169082880 169738240 167608320 170393600 ⟨⟨84521731332, 84521731340⟩, ⟨82251803124, 86811616548⟩⟩ = true := by
+  decide +kernel
+
+set_option maxRecDepth 100000 in
+theorem cell15 : cellOK 169738240 170393600 167608320 170393600 ⟨⟨84169180739, 84169180747⟩, ⟨81906589039, 86451624472⟩⟩ = true := by
+  decide +kernel
+
+theorem chunk_ok : ∃ t : Tree, treeOK 167772160 170393600 159252480 170393600 t = true :=
+  ⟨_, (join_sr (m := 164823040) (by decide) (join_su (m := 169082880) (by decide) (join_sr (m := 162037760) (by decide) (join_su (m := 168427520) (by decide) (leaf_ok cell0) (leaf_ok cell1)) (join_su (m := 168427520) (by decide) (leaf_ok cell2) (leaf_ok cell3))) (join_sr (m := 162037760) (by decide) (join_su (m := 169738240) (by decide) (leaf_ok cell4) (leaf_ok cell5)) (join_su (m := 169738240) (by decide) (leaf_ok cell6) (leaf_ok cell7)))) (join_su (m := 169082880) (by decide) (join_sr (m := 167608320) (by decide) (join_su (m := 168427520) (by decide) (leaf_ok cell8) (leaf_ok cell9)) (join_su (m := 168427520) (by decide) (leaf_ok cell10) (leaf_ok cell11))) (join_sr (m := 167608320) (by decide) (join_su (m := 169738240) (by decide) (leaf_ok cell12) (leaf_ok cell13)) (join_su (m := 169738240) (by decide) (leaf_ok cell14) (leaf_ok cell15)))))⟩
+
+theorem solution : ∀ u rho : ℝ, u ∈ Set.Icc (1/5 : ℝ) (13/64 : ℝ) →
+    rho ∈ Set.Icc (243/1280 : ℝ) (13/64 : ℝ) → rho < 1 →
+      0 < GeneralCK.Correction.Mleft (GeneralCK.H u) (GeneralCK.H (u + rho * (1 / 2 - u))) ∧
+      0 < GeneralCK.Correction.Mdet (GeneralCK.H u) (GeneralCK.H (u + rho * (1 / 2 - u))) := by
+  intro u rho hu hr hr1
+  have e0 : (((167772160 : ℤ) : ℝ) / (D : ℝ)) = (1/5 : ℝ) := by norm_num [D]
+  have e1 : (((170393600 : ℤ) : ℝ) / (D : ℝ)) = (13/64 : ℝ) := by norm_num [D]
+  have e2 : (((159252480 : ℤ) : ℝ) / (D : ℝ)) = (243/1280 : ℝ) := by norm_num [D]
+  have e3 : (((170393600 : ℤ) : ℝ) / (D : ℝ)) = (13/64 : ℝ) := by norm_num [D]
+  obtain ⟨t, ht⟩ := chunk_ok
+  exact tree_sound ht u rho (by rw [e0, e1]; exact hu) (by rw [e2, e3]; exact hr) hr1

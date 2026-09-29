@@ -1,0 +1,474 @@
+-- Prove2me | solution 1 for ModularCurve.nonempty_equiv_place_pos_ord_algHom_integralClosure
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:12.280726+00:00
+-- url     : https://prove2.me/submissions/410eb469-afcc-58a1-8117-0aa576b00aa6
+
+import Definitions.Def_ModularCurve_MazurStepThreeInputs
+import Definitions.Def_AlgebraicCurve_DivisorClassGroup
+import Definitions.Def_AlgebraicCurve_DivisorPushPull
+import Definitions.Def_AlgebraicCurve_PlacesOverDVR
+import Definitions.Def_AlgebraicCurve_PlaceEvaluation
+import Definitions.Def_AlgebraicCurve_RatFuncPlaces
+import Theorems.Thm_ModularCurve_relfinrank_laurentBaseChange_modularFunctionFieldFull
+import Theorems.Thm_ModularCurve_relfinrank_full_eq_dedekindPsi
+import Theorems.Thm_ModularCurve_dedekindPsi_pos
+import Theorems.Thm_ModularCurve_transcendental_coeffEmb_jq
+import Mathlib.FieldTheory.Relrank
+import Mathlib.FieldTheory.IntermediateField.Adjoin.Algebra
+import Mathlib.FieldTheory.Perfect
+import Mathlib.FieldTheory.IsAlgClosed.Basic
+import Mathlib.RingTheory.DedekindDomain.IntegralClosure
+import Mathlib.RingTheory.DedekindDomain.AdicValuation
+import Mathlib.RingTheory.Localization.Integral
+import Mathlib.RingTheory.Adjoin.Polynomial.Basic
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_ModularCurve_nonempty_equiv_place_pos_ord_algHom_integralClosure
+p2m_attr_erase "instance" "AlgebraicCurve.IsCurveOver.instNontrivialKaehler AlgebraicCurve.IsCurveOver.instFreeKaehler AlgebraicCurve.IsCurveOver.toHasPrincipalDivisors AlgebraicCurve.IsCurveOver.instFiniteResidue ModularCurve.PhiGen.instNeZeroPhiGenCosetA"
+p2m_attr_erase "simp" "ModularCurve.jqNModC_one AlgebraicCurve.IsFrobeniusEndo.frobNormRingHom_apply ModularCurve.frobeniusPushforwardGeomLevelPic0_mk ModularCurve.coe_frobeniusGeomLevelEquiv_apply ModularCurve.coe_frobeniusPushforwardGeomLevelDegZero ModularCurve.heckeFibreGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusGeomLevel_apply_coe ModularCurve.frobeniusPullbackGeomLevelPic0OfIsCurveOver_mk ModularCurve.coe_heckeFibreGeomLevelDegZero ModularCurve.coe_frobeniusPullbackGeomLevelDegZero ModularCurve.frobeniusPullbackGeomLevelPic0_mk ModularCurve.frobeniusPullbackGeomLevel_single ModularCurve.heckeFibreGeomLevelPic0_mk ModularCurve.frobeniusPushforwardGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusPushforwardGeomLevel_single ModularCurve.qExpandAlgC_apply AlgebraicCurve.coe_frobeniusPushforwardDegZero AlgebraicCurve.IsFrobeniusEndo.coe_frobeniusPullbackDegZero ModularCurve.reduceModBivar_C_X ModularCurve.laurentMap_coeff ModularCurve.reduceModBivar_X ModularCurve.laurentMap_single ModularCurve.evalAtJInt_X ModularCurve.evalAtJMod_X ModularCurve.jqNMod_one ModularCurve.evalAtJqN_X ModularCurve.qTwistFun_coeff ModularCurve.swapBivar_C_X ModularCurve.PhiGen.cosetA_succ ModularCurve.qTwist_coeff ModularCurve.PhiGen.cosetB_zero ModularCurve.PhiGen.cosetA_zero ModularCurve.qTwist_single ModularCurve.swapBivar_X ModularCurve.aeval_toRingHom_X ModularCurve.PhiGen.cosetB_succ ModularForm.val_heckeDiagMatrix ModularForm.heckeU_zero ModularForm.heckeU_zero_left ModularForm.heckeT_zero"
+p2m_attr_erase "simp" "ModularForm.val_heckeMatrix ModularForm.heckeMatrix_zero ModularForm.heckeT_zero_left ModularForm.heckeDiagMatrix_zero ModularForm.val_upperTriangularGL ModularCurve.eisensteinNumerator_nineteen ModularCurve.eisensteinNumerator_seventeen ModularCurve.eisensteinNumerator_eleven ModularCurve.eisensteinNumerator_five ModularCurve.eisensteinNumerator_seven ModularCurve.eisensteinNumerator_twentythree ModularCurve.eisensteinNumerator_thirteen ModularCurve.constantCoeff_dedekindEtaUnitQ"
+
+set_option synthInstance.maxHeartbeats 1600000
+
+noncomputable section
+
+p2m_open "AlgebraicCurve ModularCurve P2MW.S_ModularCurve_nonempty_equiv_place_pos_ord_algHom_integralClosure.ModularCurve IsDedekindDomain"
+
+namespace B2Places
+
+section General
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F]
+
+variable (K) in
+
+abbrev normalization (t : F) : Subalgebra (Algebra.adjoin K ({t} : Set F)) F :=
+  integralClosure (Algebra.adjoin K ({t} : Set F)) F
+
+scoped instance instIsPrincipalIdealRingAdjoinSingleton (t : F) :
+    IsPrincipalIdealRing (Algebra.adjoin K ({t} : Set F)) := by
+  have hmem : ∀ p : Polynomial K, Polynomial.aeval t p ∈ Algebra.adjoin K ({t} : Set F) := by
+    intro p
+    rw [Algebra.adjoin_singleton_eq_range_aeval]
+    exact ⟨p, rfl⟩
+  refine IsPrincipalIdealRing.of_surjective
+    ((Polynomial.aeval t).codRestrict (Algebra.adjoin K ({t} : Set F)) hmem) ?_
+  rintro ⟨a, ha⟩
+  obtain ⟨p, hp⟩ : ∃ p : Polynomial K, Polynomial.aeval t p = a := by
+    rw [Algebra.adjoin_singleton_eq_range_aeval] at ha
+    exact (AlgHom.mem_range _).mp ha
+  exact ⟨p, Subtype.ext hp⟩
+
+def gen (t : F) : normalization K t :=
+  ⟨t, isIntegral_algebraMap (R := Algebra.adjoin K ({t} : Set F))
+    (x := (⟨t, Algebra.self_mem_adjoin_singleton K t⟩ : Algebra.adjoin K ({t} : Set F)))⟩
+
+@[scoped simp] theorem coe_gen (t : F) : ((gen (K := K) t : normalization K t) : F) = t := rfl
+
+@[scoped simp] theorem coe_algebraMap_normalization (t : F) (c : K) :
+    ((algebraMap K (normalization K t) c : normalization K t) : F) = algebraMap K F c :=
+  (IsScalarTower.algebraMap_apply K (normalization K t) F c).symm
+
+section Dedekind
+
+open scoped IntermediateField.algebraAdjoinAdjoin
+
+variable [CharZero K] (t : F) [FiniteDimensional (IntermediateField.adjoin K ({t} : Set F)) F]
+
+scoped instance instIsDedekindDomainNormalization : IsDedekindDomain (normalization K t) := by
+  haveI : CharZero (IntermediateField.adjoin K ({t} : Set F)) :=
+    charZero_of_injective_algebraMap (algebraMap K _).injective
+  exact integralClosure.isDedekindDomain (Algebra.adjoin K ({t} : Set F))
+    (IntermediateField.adjoin K ({t} : Set F)) F
+
+scoped instance instIsFractionRingNormalization : IsFractionRing (normalization K t) F :=
+  integralClosure.isFractionRing_of_finite_extension
+    (IntermediateField.adjoin K ({t} : Set F)) F
+
+end Dedekind
+
+theorem mem_of_ord_nonneg (w : Place K F) {f : F} (hf : f ≠ 0) (h : 0 ≤ w.ord f) :
+    f ∈ w.toValuationSubring := by
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible w.toValuationSubring
+  obtain ⟨u, hu⟩ := w.exists_unit_mul_zpow hf hπ
+  rw [hu, show w.ord f = (((w.ord f).toNat : ℕ) : ℤ) from (Int.toNat_of_nonneg h).symm,
+    zpow_natCast]
+  exact mul_mem (u : w.toValuationSubring).2 (pow_mem (π : w.toValuationSubring).2 _)
+
+theorem mem_of_ord_sub_pos (w : Place K F) {t : F} {c : K}
+    (h : 0 < w.ord (t - algebraMap K F c)) : t ∈ w.toValuationSubring := by
+  have hne : t - algebraMap K F c ≠ 0 := by
+    intro h0
+    rw [h0, Place.ord_zero] at h
+    exact lt_irrefl _ h
+  have hmem := mem_of_ord_nonneg w hne h.le
+  have := add_mem hmem (w.algebraMap_mem' c)
+  rwa [sub_add_cancel] at this
+
+theorem forall_mem_of_mem (t : F) (w : Place K F) (ht : t ∈ w.toValuationSubring)
+    (a : normalization K t) : (a : F) ∈ w.toValuationSubring := by
+
+  have hadj : ∀ x : F, x ∈ Algebra.adjoin K ({t} : Set F) → x ∈ w.toValuationSubring := by
+    intro x hx
+    refine Algebra.adjoin_induction (fun y hy => ?_) (fun c => w.algebraMap_mem' c)
+      (fun _ _ _ _ hx hy => add_mem hx hy) (fun _ _ _ _ hx hy => mul_mem hx hy) hx
+    rw [Set.mem_singleton_iff.mp hy]
+    exact ht
+
+  obtain ⟨P, hPmonic, hPeval⟩ : IsIntegral (Algebra.adjoin K ({t} : Set F)) (a : F) := a.2
+  refine w.mem_of_eval_monic_eq_zero (P := P.map (algebraMap _ F)) (hPmonic.map _)
+    (fun i => ?_) ?_
+  · rw [Polynomial.coeff_map]
+    exact hadj _ (P.coeff i).2
+  · rwa [Polynomial.eval_map]
+
+def evalHom (t : F) (w : Place K F) (hrat : w.IsRational) (ht : t ∈ w.toValuationSubring) :
+    normalization K t →ₐ[K] K where
+  toFun a := w.evalAt (a : F)
+  map_one' := by
+    show w.evalAt (1 : F) = 1
+    exact w.evalAt_one
+  map_mul' a b := by
+    apply w.algebraMap_residueField_injective
+    try dsimp only
+    rw [map_mul, w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht (a * b)),
+      w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht a),
+      w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht b), ← map_mul]
+    rfl
+  map_zero' := by
+    apply w.algebraMap_residueField_injective
+    try dsimp only
+    rw [map_zero, w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht 0)]
+    rfl
+  map_add' a b := by
+    apply w.algebraMap_residueField_injective
+    try dsimp only
+    rw [map_add, w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht (a + b)),
+      w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht a),
+      w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht b), ← map_add]
+    rfl
+  commutes' c := by
+    apply w.algebraMap_residueField_injective
+    try dsimp only
+    rw [w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht _)]
+    show IsLocalRing.residue w.toValuationSubring _ =
+      IsLocalRing.residue w.toValuationSubring (algebraMap K w.toValuationSubring c)
+    congr 1
+
+theorem evalHom_apply (t : F) (w : Place K F) (hrat : w.IsRational)
+    (ht : t ∈ w.toValuationSubring) (a : normalization K t) :
+    evalHom t w hrat ht a = w.evalAt (a : F) := rfl
+
+theorem evalHom_eq_iff (t : F) (w : Place K F) (hrat : w.IsRational)
+    (ht : t ∈ w.toValuationSubring) (a : normalization K t) (c : K) :
+    evalHom t w hrat ht a = c ↔
+      (⟨(a : F), forall_mem_of_mem t w ht a⟩ : w.toValuationSubring)
+          - algebraMap K w.toValuationSubring c ∈
+        IsLocalRing.maximalIdeal w.toValuationSubring := by
+  rw [← IsLocalRing.residue_eq_zero_iff, map_sub, sub_eq_zero, evalHom_apply,
+    ← w.algebraMap_evalAt hrat (forall_mem_of_mem t w ht a)]
+  constructor
+  · intro h
+    rw [h]
+    rfl
+  · intro h
+    have h' : algebraMap K w.ResidueField (w.evalAt (a : F)) = algebraMap K w.ResidueField c := h
+    exact w.algebraMap_residueField_injective h'
+
+theorem ord_pos_of_evalHom_eq (t : F) (w : Place K F) (hrat : w.IsRational)
+    (ht : t ∈ w.toValuationSubring) {a : normalization K t} {c : K}
+    (h : evalHom t w hrat ht a = c) (hne : (a : F) ≠ algebraMap K F c) :
+    0 < w.ord ((a : F) - algebraMap K F c) := by
+  have hmem : (a : F) - algebraMap K F c ∈ w.toValuationSubring :=
+    sub_mem (forall_mem_of_mem t w ht a) (w.algebraMap_mem' c)
+  rw [← w.mem_maximalIdeal_iff_ord_pos (sub_ne_zero.mpr hne) hmem]
+  have hcoe : (⟨(a : F) - algebraMap K F c, hmem⟩ : w.toValuationSubring) =
+      ⟨(a : F), forall_mem_of_mem t w ht a⟩ - algebraMap K w.toValuationSubring c :=
+    Subtype.ext (by simp)
+  rw [hcoe]
+  exact (evalHom_eq_iff t w hrat ht a c).mp h
+
+theorem evalHom_eq_of_ord_pos (t : F) (w : Place K F) (hrat : w.IsRational)
+    (ht : t ∈ w.toValuationSubring) {a : normalization K t} {c : K}
+    (h : 0 < w.ord ((a : F) - algebraMap K F c)) : evalHom t w hrat ht a = c := by
+  have hne : (a : F) - algebraMap K F c ≠ 0 := by
+    intro h0
+    rw [h0, Place.ord_zero] at h
+    exact lt_irrefl _ h
+  have hmem : (a : F) - algebraMap K F c ∈ w.toValuationSubring :=
+    sub_mem (forall_mem_of_mem t w ht a) (w.algebraMap_mem' c)
+  rw [← w.mem_maximalIdeal_iff_ord_pos hne hmem] at h
+  have hcoe : (⟨(a : F) - algebraMap K F c, hmem⟩ : w.toValuationSubring) =
+      ⟨(a : F), forall_mem_of_mem t w ht a⟩ - algebraMap K w.toValuationSubring c :=
+    Subtype.ext (by simp)
+  rw [hcoe] at h
+  exact (evalHom_eq_iff t w hrat ht a c).mpr h
+
+section Injective
+
+variable [CharZero K] (t : F) [FiniteDimensional (IntermediateField.adjoin K ({t} : Set F)) F]
+
+omit [CharZero K] [FiniteDimensional (IntermediateField.adjoin K ({t} : Set F)) F] in
+
+theorem mem_center_iff_evalHom_eq_zero (w : Place K F) (hrat : w.IsRational)
+    (ht : t ∈ w.toValuationSubring) (r : normalization K t) :
+    r ∈ Place.center (normalization K t) w (forall_mem_of_mem t w ht) ↔
+      evalHom t w hrat ht r = 0 := by
+  rw [Place.mem_center_iff, evalHom_eq_iff, map_zero, sub_zero]
+  rfl
+
+theorem eq_of_evalHom_eq {w₁ w₂ : Place K F} (h₁ : w₁.IsRational) (h₂ : w₂.IsRational)
+    (ht₁ : t ∈ w₁.toValuationSubring) (ht₂ : t ∈ w₂.toValuationSubring)
+    (h : evalHom t w₁ h₁ ht₁ = evalHom t w₂ h₂ ht₂) : w₁ = w₂ := by
+  have hc : Place.centerHeightOneSpectrum (normalization K t) w₁ (forall_mem_of_mem t w₁ ht₁) =
+      Place.centerHeightOneSpectrum (normalization K t) w₂ (forall_mem_of_mem t w₂ ht₂) := by
+    refine HeightOneSpectrum.ext (Ideal.ext fun r => ?_)
+    show r ∈ Place.center (normalization K t) w₁ (forall_mem_of_mem t w₁ ht₁) ↔
+      r ∈ Place.center (normalization K t) w₂ (forall_mem_of_mem t w₂ ht₂)
+    rw [mem_center_iff_evalHom_eq_zero t w₁ h₁ ht₁, mem_center_iff_evalHom_eq_zero t w₂ h₂ ht₂,
+      h]
+  apply Place.ext
+  rw [Place.toValuationSubring_eq_of_forall_mem (R := normalization K t) w₁
+      (fun a => forall_mem_of_mem t w₁ ht₁ a),
+    Place.toValuationSubring_eq_of_forall_mem (R := normalization K t) w₂
+      (fun a => forall_mem_of_mem t w₂ ht₂ a)]
+  exact congrArg (HeightOneSpectrum.valuationSubringAtPrime F) hc
+
+end Injective
+
+section Surjective
+
+variable [CharZero K] (t : F) (htr : Transcendental K t)
+  [FiniteDimensional (IntermediateField.adjoin K ({t} : Set F)) F]
+
+omit [CharZero K] [FiniteDimensional (IntermediateField.adjoin K ({t} : Set F)) F] in
+include htr in
+
+theorem ker_ne_bot (ψ : normalization K t →ₐ[K] K) : RingHom.ker ψ ≠ ⊥ := by
+  intro hbot
+  have hmem : gen t - algebraMap K (normalization K t) (ψ (gen t)) ∈ RingHom.ker ψ := by
+    rw [RingHom.mem_ker, map_sub, AlgHom.commutes, Algebra.algebraMap_self, RingHom.id_apply,
+      sub_self]
+  rw [hbot, Ideal.mem_bot, sub_eq_zero] at hmem
+  apply htr
+  have h1 : ((gen t : normalization K t) : F) =
+      ((algebraMap K (normalization K t) (ψ (gen t)) : normalization K t) : F) :=
+    congrArg (fun a : normalization K t => (a : F)) hmem
+  have hval : t = algebraMap K F (ψ (gen t)) :=
+    h1.trans (coe_algebraMap_normalization t _)
+  rw [hval]
+  exact isAlgebraic_algebraMap _
+
+def kerSpectrum (ψ : normalization K t →ₐ[K] K) : HeightOneSpectrum (normalization K t) :=
+  ⟨RingHom.ker ψ, RingHom.ker_isPrime ψ, ker_ne_bot t htr ψ⟩
+
+def placeOfHom (ψ : normalization K t →ₐ[K] K) : Place K F :=
+  Place.ofHeightOneSpectrum (K := K) (kerSpectrum t htr ψ)
+
+theorem coe_mem_placeOfHom (ψ : normalization K t →ₐ[K] K) (a : normalization K t) :
+    (a : F) ∈ (placeOfHom t htr ψ).toValuationSubring := by
+  show (a : F) ∈ ((kerSpectrum t htr ψ).valuation F).valuationSubring
+  rw [Valuation.mem_valuationSubring_iff]
+  exact (kerSpectrum t htr ψ).valuation_le_one a
+
+theorem mem_placeOfHom (ψ : normalization K t →ₐ[K] K) :
+    t ∈ (placeOfHom t htr ψ).toValuationSubring :=
+  coe_mem_placeOfHom t htr ψ (gen t)
+
+theorem mem_maximalIdeal_placeOfHom (ψ : normalization K t →ₐ[K] K) {r : normalization K t}
+    (hr : r ∈ RingHom.ker ψ) :
+    (⟨(r : F), coe_mem_placeOfHom t htr ψ r⟩ : (placeOfHom t htr ψ).toValuationSubring) ∈
+      IsLocalRing.maximalIdeal (placeOfHom t htr ψ).toValuationSubring := by
+  have hlt : (kerSpectrum t htr ψ).valuation F (r : F) < 1 :=
+    ((kerSpectrum t htr ψ).valuation_lt_one_iff_mem r).mpr hr
+  have hlt' := ((kerSpectrum t htr ψ).valuation F).isEquiv_valuation_valuationSubring.lt_one_iff_lt_one.mp hlt
+  exact (ValuationSubring.valuation_lt_one_iff _ _).mpr hlt'
+
+theorem evalHom_placeOfHom (ψ : normalization K t →ₐ[K] K) (hrat : (placeOfHom t htr ψ).IsRational) :
+    evalHom t (placeOfHom t htr ψ) hrat (mem_placeOfHom t htr ψ) = ψ := by
+  ext a
+  rw [evalHom_eq_iff]
+  have hker : a - algebraMap K (normalization K t) (ψ a) ∈ RingHom.ker ψ := by
+    rw [RingHom.mem_ker, map_sub, AlgHom.commutes, Algebra.algebraMap_self, RingHom.id_apply,
+      sub_self]
+  have h := mem_maximalIdeal_placeOfHom t htr ψ hker
+  have hcoe : (⟨((a - algebraMap K (normalization K t) (ψ a) : normalization K t) : F),
+        coe_mem_placeOfHom t htr ψ _⟩ : (placeOfHom t htr ψ).toValuationSubring) =
+      ⟨(a : F), forall_mem_of_mem t _ (mem_placeOfHom t htr ψ) a⟩ -
+        algebraMap K (placeOfHom t htr ψ).toValuationSubring (ψ a) :=
+    Subtype.ext (by simp)
+  rwa [hcoe] at h
+
+end Surjective
+
+theorem isRational_of_deg_eq_one [IsAlgClosed K] (w : Place K F) (h : w.deg = 1) :
+    w.IsRational := by
+  haveI : Module.Finite K w.ResidueField := Module.finite_of_finrank_pos (by
+    show 0 < w.deg
+    omega)
+  haveI : Algebra.IsIntegral K w.ResidueField := Algebra.IsIntegral.of_finite K w.ResidueField
+  exact (IsAlgClosed.algebraMap_bijective_of_isIntegral (k := K) (K := w.ResidueField)).2
+
+section Dictionary
+
+variable [CharZero K] [IsAlgClosed K] (t : F) (htr : Transcendental K t)
+  [FiniteDimensional (IntermediateField.adjoin K ({t} : Set F)) F]
+  (hdeg : ∀ w : Place K F, w.deg = 1)
+
+def placesRegularEquiv :
+    {w : Place K F // t ∈ w.toValuationSubring} ≃ (normalization K t →ₐ[K] K) where
+  toFun w := evalHom t w.1 (isRational_of_deg_eq_one w.1 (hdeg w.1)) w.2
+  invFun ψ := ⟨placeOfHom t htr ψ, mem_placeOfHom t htr ψ⟩
+  left_inv w := Subtype.ext (eq_of_evalHom_eq t _ _ _ w.2
+    (evalHom_placeOfHom t htr _ (isRational_of_deg_eq_one _ (hdeg _))))
+  right_inv ψ := evalHom_placeOfHom t htr ψ _
+
+@[scoped simp] theorem placesRegularEquiv_apply (w : {w : Place K F // t ∈ w.toValuationSubring})
+    (a : normalization K t) :
+    placesRegularEquiv t htr hdeg w a = w.1.evalAt (a : F) := rfl
+
+def placesOverEquiv (c : K) :
+    {w : Place K F // 0 < w.ord (t - algebraMap K F c)} ≃
+      {ψ : normalization K t →ₐ[K] K // ψ (gen t) = c} :=
+  (Equiv.subtypeSubtypeEquivSubtype (p := fun w : Place K F => t ∈ w.toValuationSubring)
+      (q := fun w : Place K F => 0 < w.ord (t - algebraMap K F c))
+      (fun h => mem_of_ord_sub_pos _ h)).symm.trans
+    (Equiv.subtypeEquiv (placesRegularEquiv t htr hdeg) (fun w => by
+      constructor
+      · intro h
+        exact evalHom_eq_of_ord_pos t w.1 (isRational_of_deg_eq_one w.1 (hdeg w.1)) w.2
+          (a := gen t) h
+      · intro h
+        refine ord_pos_of_evalHom_eq t w.1 (isRational_of_deg_eq_one w.1 (hdeg w.1)) w.2
+          (a := gen t) h ?_
+        intro heq
+        exact htr (by rw [show t = algebraMap K F c from heq]; exact isAlgebraic_algebraMap _)))
+
+end Dictionary
+
+end General
+
+scoped instance finiteDimensional_adjoin_jBar (N : ℕ) [NeZero N] :
+    FiniteDimensional
+      (IntermediateField.adjoin (AlgebraicClosure ℚ)
+        ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)))
+      (modularFunctionFieldBar N) := by
+  have hcm : IntermediateField.comap (modularFunctionFieldBar N).val
+        (IntermediateField.adjoin (AlgebraicClosure ℚ)
+          ({((jBar N : modularFunctionFieldBar N) : LaurentSeries (AlgebraicClosure ℚ))} :
+            Set (LaurentSeries (AlgebraicClosure ℚ))))
+      = IntermediateField.adjoin (AlgebraicClosure ℚ)
+          ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)) := by
+    rw [← IntermediateField.lift_adjoin_simple]
+    exact IntermediateField.comap_map (modularFunctionFieldBar N).val _
+  have h1 := IntermediateField.finrank_comap
+    (IntermediateField.adjoin (AlgebraicClosure ℚ)
+      ({((jBar N : modularFunctionFieldBar N) : LaurentSeries (AlgebraicClosure ℚ))} :
+        Set (LaurentSeries (AlgebraicClosure ℚ))))
+    (modularFunctionFieldBar N).val
+  rw [hcm, IntermediateField.fieldRange_val] at h1
+  have h2 : IntermediateField.relfinrank
+      (IntermediateField.adjoin (AlgebraicClosure ℚ)
+        ({((jBar N : modularFunctionFieldBar N) : LaurentSeries (AlgebraicClosure ℚ))} :
+          Set (LaurentSeries (AlgebraicClosure ℚ))))
+      (modularFunctionFieldBar N) = dedekindPsi N := by
+    rw [← ModularCurve.relfinrank_full_eq_dedekindPsi N,
+      ← ModularCurve.relfinrank_laurentBaseChange_modularFunctionFieldFull (AlgebraicClosure ℚ) N]
+  have hpos : 0 < IntermediateField.relfinrank
+      (IntermediateField.adjoin (AlgebraicClosure ℚ)
+        ({((jBar N : modularFunctionFieldBar N) : LaurentSeries (AlgebraicClosure ℚ))} :
+          Set (LaurentSeries (AlgebraicClosure ℚ))))
+      (modularFunctionFieldBar N) := by
+    rw [h2]
+    exact ModularCurve.dedekindPsi_pos N (NeZero.ne N)
+  rw [← h1] at hpos
+  exact Module.finite_of_finrank_pos hpos
+
+end B2Places
+p2m_reactivate "P2MW.S_ModularCurve_nonempty_equiv_place_pos_ord_algHom_integralClosure.B2Places"
+
+namespace ModularCurve p2m_export "ModularCurve" "jBar modularFunctionFieldBar dedekindPsi relfinrank_laurentBaseChange_modularFunctionFieldFull relfinrank_full_eq_dedekindPsi dedekindPsi_pos transcendental_coeffEmb_jq" end ModularCurve
+p2m_open_scoped "ModularCurve" in
+open B2Places in
+
+def ModularCurve.placesOverEquivAlgHom (N : ℕ) [NeZero N] (j₀ : AlgebraicClosure ℚ)
+    (hdeg : ∀ w : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N), w.deg = 1) :
+    {v : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N) //
+        0 < v.ord (jBar N - algebraMap (AlgebraicClosure ℚ) (modularFunctionFieldBar N) j₀)} ≃
+      {ψ : normalization (AlgebraicClosure ℚ) (jBar N : modularFunctionFieldBar N)
+          →ₐ[AlgebraicClosure ℚ] AlgebraicClosure ℚ //
+        ψ (gen (jBar N : modularFunctionFieldBar N)) = j₀} :=
+  placesOverEquiv (jBar N : modularFunctionFieldBar N)
+    (ModularCurve.transcendental_coeffEmb_jq (AlgebraicClosure ℚ) N) hdeg j₀
+
+p2m_open_scoped "ModularCurve" in
+open B2Places in
+
+theorem ModularCurve.nonempty_equiv_place_pos_ord_algHom_normalization (N : ℕ) [NeZero N]
+    (j₀ : AlgebraicClosure ℚ)
+    (hdeg : ∀ w : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N), w.deg = 1) :
+    Nonempty ({v : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N) //
+        0 < v.ord (jBar N - algebraMap (AlgebraicClosure ℚ) (modularFunctionFieldBar N) j₀)} ≃
+      {ψ : normalization (AlgebraicClosure ℚ) (jBar N : modularFunctionFieldBar N)
+          →ₐ[AlgebraicClosure ℚ] AlgebraicClosure ℚ //
+        ψ (gen (jBar N : modularFunctionFieldBar N)) = j₀}) :=
+  ⟨ModularCurve.placesOverEquivAlgHom N j₀ hdeg⟩
+
+p2m_open_scoped "ModularCurve" in
+open B2Places in
+
+private theorem ModularCurve.nonempty_equiv_place_pos_ord_algHom_integralClosure (N : ℕ) [NeZero N]
+    (j₀ : AlgebraicClosure ℚ)
+    (hdeg : ∀ w : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N), w.deg = 1) :
+    Nonempty ({v : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N) //
+        0 < v.ord (jBar N - algebraMap (AlgebraicClosure ℚ) (modularFunctionFieldBar N) j₀)} ≃
+      {ψ : ↥(integralClosure
+            ↥(Algebra.adjoin (AlgebraicClosure ℚ)
+              ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)))
+            (modularFunctionFieldBar N)) →ₐ[AlgebraicClosure ℚ] AlgebraicClosure ℚ //
+        ψ (algebraMap
+            ↥(Algebra.adjoin (AlgebraicClosure ℚ)
+              ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)))
+            ↥(integralClosure
+              ↥(Algebra.adjoin (AlgebraicClosure ℚ)
+                ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)))
+              (modularFunctionFieldBar N))
+            ⟨jBar N, Algebra.self_mem_adjoin_singleton (AlgebraicClosure ℚ)
+              (jBar N : modularFunctionFieldBar N)⟩) = j₀}) :=
+  ⟨ModularCurve.placesOverEquivAlgHom N j₀ hdeg⟩
+
+end
+p2m_reactivate "P2MW.S_ModularCurve_nonempty_equiv_place_pos_ord_algHom_integralClosure.B2Places"
+
+open AlgebraicCurve _root_.ModularCurve _root_.P2MW.S_ModularCurve_nonempty_equiv_place_pos_ord_algHom_integralClosure.ModularCurve in
+
+theorem solution (N : ℕ) [NeZero N]
+    (j₀ : AlgebraicClosure ℚ)
+    (hdeg : ∀ w : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N), w.deg = 1) :
+    Nonempty ({v : Place (AlgebraicClosure ℚ) (modularFunctionFieldBar N) //
+        0 < v.ord (jBar N - algebraMap (AlgebraicClosure ℚ) (modularFunctionFieldBar N) j₀)} ≃
+      {ψ : ↥(integralClosure
+            ↥(Algebra.adjoin (AlgebraicClosure ℚ)
+              ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)))
+            (modularFunctionFieldBar N)) →ₐ[AlgebraicClosure ℚ] AlgebraicClosure ℚ //
+        ψ (algebraMap
+            ↥(Algebra.adjoin (AlgebraicClosure ℚ)
+              ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)))
+            ↥(integralClosure
+              ↥(Algebra.adjoin (AlgebraicClosure ℚ)
+                ({(jBar N : modularFunctionFieldBar N)} : Set (modularFunctionFieldBar N)))
+              (modularFunctionFieldBar N))
+            ⟨jBar N, Algebra.self_mem_adjoin_singleton (AlgebraicClosure ℚ)
+              (jBar N : modularFunctionFieldBar N)⟩) = j₀}) :=
+  ModularCurve.nonempty_equiv_place_pos_ord_algHom_integralClosure N j₀ hdeg
+
+#print axioms solution
+
+end S_ModularCurve_nonempty_equiv_place_pos_ord_algHom_integralClosure
+end P2MW
+export P2MW.S_ModularCurve_nonempty_equiv_place_pos_ord_algHom_integralClosure (solution)

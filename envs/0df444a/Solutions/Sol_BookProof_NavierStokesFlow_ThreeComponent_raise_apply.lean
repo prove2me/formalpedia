@@ -1,0 +1,83 @@
+-- Prove2me | solution 1 for BookProof.NavierStokesFlow.ThreeComponent.raise_apply
+-- status  : ACCEPTED   (prove)
+-- author  : @leonardopedro
+-- created : 2026-09-13T07:55:39.192871+00:00
+-- url     : https://prove2.me/submissions/9751e00f-3a31-47eb-b4b2-d36b6e740186
+
+-- Generated from ChapterNavierStokesThreeComponent.lean — solution of BookProof.NavierStokesFlow.ThreeComponent.raise_apply
+import Mathlib
+import Definitions.Def_ChapterNavierStokesThreeComponent
+import Definitions.Def_ChapterNavierStokesDeficiency
+import Definitions.Def_ChapterFarisLavine
+import Definitions.Def_ChapterNavierStokesIkebeKato
+import Definitions.Def_ChapterNavierStokesShiftHamiltonian
+import Definitions.Def_ChapterNavierStokesSignedShift
+open BookProof.NavierStokesFlow
+open BookProof.NavierStokesFlow.ThreeComponent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+open scoped ENNReal
+
+
+
+open BookProof.NavierStokesFlow.LpNat BookProof.FarisLavine BookProof.NavierStokesFlow.IkebeKato BookProof.NavierStokesFlow.ShiftHamiltonian BookProof.NavierStokesFlow.SignedShift
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable (A : Matrix (Fin 3) (Fin 3) ℝ) (c : Fin 3 → ℝ)
+
+set_option maxHeartbeats 1000000 in
+theorem solution (i : Fin 3) (β : Vel) (j : Fin 3) :
+    raise i β j = β j + (if j = i then 1 else 0) := by
+
+  by_cases h : j = i
+  · subst h; simp [raise]
+  · simp [raise_of_ne h, h]

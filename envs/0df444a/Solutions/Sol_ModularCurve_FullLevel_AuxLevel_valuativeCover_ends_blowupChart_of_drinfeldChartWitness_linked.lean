@@ -1,0 +1,710 @@
+-- Prove2me | solution 1 for ModularCurve.FullLevel.AuxLevel.valuativeCover_ends_blowupChart_of_drinfeldChartWitness_linked
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:09.339302+00:00
+-- url     : https://prove2.me/submissions/67fc958e-cc1c-58d8-a622-4bbe74e5fe52
+
+import Mathlib
+import Definitions.Def_AlgebraicCurve_TwoChartIntegralModel
+import Definitions.Def_ModularCurve_X1
+import Definitions.Def_ModularCurve_SupersingularModuli
+import Definitions.Def_ModularCurve_FullLevelJacobian
+import Definitions.Def_DrinfeldCurve_CoordRing
+import Definitions.Def_DrinfeldCurve_LocalChart
+import Definitions.Def_ModularCurve_FullLevelLevelAutAt
+import Definitions.Def_ModularCurve_UVCrossingModel
+import Definitions.Def_AlgebraicCurve_ConstantReduction
+import Definitions.Def_ModularCurve_JqCoeff
+import Theorems.Thm_ModularCurve_FullLevel_AuxLevel_blowupChart_primes_over_supersingular_exceptional_generic_or_end_on_unique_component_of_drinfeldChartWitness_linked
+import Theorems.Thm_ModularCurve_finiteDimensional_adjoin_of_coe_eq_coeffEmb_jq_of_eq_laurentBaseChange
+import Theorems.Thm_ModularCurve_transcendental_of_coe_eq_coeffEmb_jq
+import Theorems.Thm_AlgebraicCurve_TwoChartIntegralModel_finiteType_chartAlgFin_and_chartAlgInf
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_ModularCurve_FullLevel_AuxLevel_valuativeCover_ends_blowupChart_of_drinfeldChartWitness_linked
+p2m_attr_erase "instance" "ModularCurve.PhiGen.instNeZeroPhiGenCosetA ModularCurve.instIsDomainTensorProduct AlgebraicClosure.Rat.isGalois AlgebraicCurve.IsCurveOver.instNontrivialKaehler AlgebraicCurve.IsCurveOver.instFreeKaehler AlgebraicCurve.IsCurveOver.toHasPrincipalDivisors AlgebraicCurve.IsCurveOver.instFiniteResidue AlgebraicCurve.Place.instIsRankOneDiscreteWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.Place.instIsTrivialOnWithZeroMultiplicativeIntAdicValuation AlgebraicCurve.Place.instIsPrimeCenter AlgebraicCurve.Place.instIsFractionRingIntegralClosureAt AlgebraicCurve.Place.instIsTorsionFreeSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.Place.instIsDedekindDomainIntegralClosureAt AlgebraicCurve.Place.instFiniteSubtypeMemValuationSubringToValuationSubringIntegralClosureAt instTopologicallyFGOfFiniteType AdicCompletion.instIsLocalRingMaximalIdeal WeierstrassCurve.instIsEllipticBaseChange WeierstrassCurve.Univ.Affine.instAddGroupPointFieldBaseChangeMvPolynomialCoeffIntCurve WeierstrassCurve.Univ.instIsEllipticFieldPointedCurve WeierstrassCurve.Univ.instCommRingPoly AlgebraicCurve.RationalFunctionField.instNontrivialSubtypeUnitsWithZeroMultiplicativeIntMemSubgroupValueGroupRatFuncValuationInftyValuation_definitions"
+p2m_attr_erase "simp" "ModularForm.val_heckeDiagMatrix ModularForm.heckeU_zero ModularForm.heckeU_zero_left ModularForm.heckeT_zero ModularForm.val_heckeMatrix ModularForm.heckeMatrix_zero ModularForm.heckeT_zero_left ModularForm.heckeDiagMatrix_zero ModularForm.val_upperTriangularGL ModularCurve.qInftyPlaceBar_toValuationSubring ModularCurve.qSeriesBar_zero ModularCurve.qSeriesBar_add ModularCurve.cuspInftyFull_toValuationSubring ModularCurve.qInftyPlaceRat_toValuationSubring ModularCurve.qSeriesBar_mul ModularCurve.qSeriesBar_div ModularCurve.qSeriesBar_eq_zero_iff ModularCurve.coe_uniformizerBar ModularCurve.qSeriesBar_pow ModularCurve.cuspInfty_toValuationSubring ModularCurve.qSeriesBar_one ModularCurve.qSeriesBar_inv ModularCurve.qSeriesBar_sub ModularCurve.qSeriesBar_neg ModularCurve.evalAtJqN_X ModularCurve.qTwistFun_coeff ModularCurve.swapBivar_C_X ModularCurve.PhiGen.cosetA_succ ModularCurve.qTwist_coeff ModularCurve.PhiGen.cosetB_zero ModularCurve.PhiGen.cosetA_zero ModularCurve.qTwist_single ModularCurve.swapBivar_X ModularCurve.aeval_toRingHom_X ModularCurve.PhiGen.cosetB_succ ModularCurve.eisensteinNumerator_nineteen ModularCurve.eisensteinNumerator_seventeen ModularCurve.eisensteinNumerator_eleven ModularCurve.eisensteinNumerator_five ModularCurve.eisensteinNumerator_seven"
+p2m_attr_erase "simp" "ModularCurve.eisensteinNumerator_twentythree ModularCurve.eisensteinNumerator_thirteen ModularCurve.constantCoeff_dedekindEtaUnitQ ModularCurve.coe_cuspidalDivisor₀ ModularCurve.coe_baseChangeEquiv_apply ModularCurve.baseChangeHom_tmul AlgebraicCurve.IsFrobeniusEndo.frobNormRingHom_apply ModularCurve.frobeniusPushforwardGeomLevelPic0_mk ModularCurve.coe_frobeniusGeomLevelEquiv_apply ModularCurve.coe_frobeniusPushforwardGeomLevelDegZero ModularCurve.heckeFibreGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusGeomLevel_apply_coe ModularCurve.frobeniusPullbackGeomLevelPic0OfIsCurveOver_mk ModularCurve.coe_heckeFibreGeomLevelDegZero ModularCurve.coe_frobeniusPullbackGeomLevelDegZero ModularCurve.frobeniusPullbackGeomLevelPic0_mk ModularCurve.frobeniusPullbackGeomLevel_single ModularCurve.heckeFibreGeomLevelPic0_mk ModularCurve.frobeniusPushforwardGeomLevelPic0OfIsCurveOver_mk ModularCurve.frobeniusPushforwardGeomLevel_single ModularCurve.qExpandAlgC_apply AlgebraicCurve.Place.congrEquiv_symm_apply AlgebraicCurve.RationalFunctionField.heightOneSpectrumOfIrreducible_asIdeal AlgebraicCurve.Place.congrRingEquiv_toValuationSubring AlgebraicCurve.Place.congrEquiv_apply AlgebraicCurve.Place.coe_comapSymmRingEquiv_apply AlgebraicCurve.RationalFunctionField.deg_placeOfPoint AlgebraicCurve.coe_frobeniusPushforwardDegZero AlgebraicCurve.IsFrobeniusEndo.coe_frobeniusPullbackDegZero ModularCurve.reduceModBivar_C_X ModularCurve.laurentMap_coeff ModularCurve.reduceModBivar_X ModularCurve.laurentMap_single ModularCurve.evalAtJInt_X ModularCurve.evalAtJMod_X ModularCurve.jqNMod_one AlgebraicCurve.Place.placeOfPrime_toValuationSubring AlgebraicCurve.Place.mem_fiberOver AlgebraicCurve.Place.fiberEquiv_symm_apply AlgebraicCurve.Place.fiberEquiv_apply"
+p2m_attr_erase "simp" "AlgebraicCurve.Place.centerHeightOneSpectrum_asIdeal AdicCompletion.evalₐ_ofLevelwiseEquiv AdicCompletion.evalₐ_levelwiseHom AdicCompletion.localizationEquiv_of AdicCompletion.evalₐ_ofLevelwiseEquiv_symm Localization.AtPrime.quotientPowEquiv_mk AdicCompletion.evalₐ_mapₐ AdicCompletion.mapAlgEquivOfBijective_apply AdicCompletion.levelMapₐ_mk AdicCompletion.mapₐ_of AdicCompletion.mapAlgEquiv_symm_apply AdicCompletion.mapAlgEquiv_apply compl₂EDSAux_neg_two compl₂EDSAux_zero WeierstrassCurve.ωe_zero WeierstrassCurve.Univ.pointedCurve_a₁ WeierstrassCurve.Univ.polyToField_polynomial WeierstrassCurve.Coeff.A₁.sizeOf_spec compl₂EDS_zero compl₂EDS_one WeierstrassCurve.Univ.Affine.smulY_zero Param.C.sizeOf_spec EllSequence.redInvarDenom_zero compl₂EDSAux_two compl₂EDSAux_neg_one compl₂EDSAux_one WeierstrassCurve.Coeff.A₆.sizeOf_spec WeierstrassCurve.ψc_neg WeierstrassCurve.Univ.Affine.smulY_one WeierstrassCurve.Univ.Affine.smulX_one WeierstrassCurve.Coeff.A₂.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₄ compl₂EDS_neg WeierstrassCurve.Univ.pointedCurve_a₃ EllSequence.redInvarDenom_two WeierstrassCurve.Univ.pointedCurve_a₆ Param.D.sizeOf_spec WeierstrassCurve.ωe_one WeierstrassCurve.Univ.Affine.smulX_zero WeierstrassCurve.Coeff.A₃.sizeOf_spec"
+p2m_attr_erase "simp" "EllSequence.redInvarDenom_one WeierstrassCurve.Coeff.A₄.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₂ Param.B.sizeOf_spec compl₂EDS_two AlgebraicCurve.RationalFunctionField.placeInfty_toValuationSubring AlgebraicCurve.RationalFunctionField.placeEquivOption_placeInfty AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_some AlgebraicCurve.RationalFunctionField.placeEquivOption_placeOfPoint AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_none AlgebraicCurve.Divisor.evalFun_zero AlgebraicCurve.Place.evalAt_one"
+
+set_option autoImplicit false
+set_option maxHeartbeats 6400000
+set_option synthInstance.maxHeartbeats 1600000
+
+open CategoryTheory AlgebraicGeometry IsLocalRing AlgebraicCurve.TwoChartIntegralModel
+
+open scoped MatrixGroups
+
+namespace PenGen2K7C
+
+theorem gamma_le_gammaH (N : ℕ) [NeZero N] (H : Subgroup (ZMod N)ˣ) :
+    CongruenceSubgroup.Gamma N ≤ CohCarrier.GammaH N H := by
+  intro γ hγ
+  rw [CohCarrier.mem_GammaH_iff]
+  rw [CongruenceSubgroup.Gamma_mem] at hγ
+  have h0 : γ ∈ CongruenceSubgroup.Gamma0 N := by
+    rw [CongruenceSubgroup.Gamma0_mem]; exact hγ.2.2.1
+  refine ⟨h0, ?_⟩
+  have : CohCarrier.gamma0Units N ⟨γ, h0⟩ = 1 := by
+    ext
+    rw [CohCarrier.val_gamma0Units, Units.val_one]
+    exact hγ.2.2.2
+  rw [this]; exact one_mem H
+
+scoped instance finiteIndex_gammaH (N : ℕ) [NeZero N] (H : Subgroup (ZMod N)ˣ) :
+    (CohCarrier.GammaH N H).FiniteIndex :=
+  Subgroup.finiteIndex_of_le (gamma_le_gammaH N H)
+
+end PenGen2K7C
+p2m_reactivate "P2MW.S_ModularCurve_FullLevel_AuxLevel_valuativeCover_ends_blowupChart_of_drinfeldChartWitness_linked.PenGen2K7C"
+
+open PenGen2K7C in
+
+theorem solution
+    (q : ℕ) [Fact q.Prime] (hq : 5 ≤ q) (M' : ℕ) [NeZero M'] (hqM' : ¬ q ∣ M')
+    (ℓ : ℕ) [Fact ℓ.Prime] (hℓ3 : 3 ≤ ℓ) (hℓq : ℓ ≠ q) (hℓM' : ¬ ℓ ∣ M')
+    (L : Type) [Field L] [CharZero L]
+    (ξ : L) (hξ : IsPrimitiveRoot ξ (q * ℓ))
+
+    (hι : ∃ ι : L →+* ℂ, ι ξ = Complex.exp (2 * Real.pi * Complex.I / (q * ℓ)))
+    (K : IntermediateField L (LaurentSeries L))
+    (hK : K = ModularCurve.laurentBaseChange L
+      (ModularCurve.xHFunctionField ((q * ℓ) ^ 2 * M')
+        (ModularCurve.FullLevel.levelH (q * ℓ) M')))
+    (A : Type) [CommRing A] [IsDomain A] [IsDiscreteValuationRing A] [Algebra A L] [IsFractionRing A L]
+    [HenselianLocalRing A] [IsAlgClosed (ResidueField A)]
+    (hAq : (q : A) ∈ maximalIdeal A) (hξA : ∃ x : A, algebraMap A L x = ξ)
+    [Algebra A ↥K] [IsScalarTower A L ↥K]
+    (j : ↥K) (hj : ((j : LaurentSeries L)) = ModularCurve.coeffEmb L ModularCurve.jq) [Fact (j ≠ 0)]
+    (ϖ : A) (hϖ : maximalIdeal A = Ideal.span {ϖ})
+
+    (ϖt : A) (hϖt : ∃ u : A, IsUnit u ∧ ϖt ^ (q ^ 2 - 1) = (q : A) * u)
+
+    (y : Ideal ↥(chartAlgFin A (↥K) j)) (hy : y.IsMaximal) (hϖy : algebraMap A ↥(chartAlgFin A (↥K) j) ϖ ∈ y)
+    (hss : ∀ (Ω : Type) [Field Ω] [CharP Ω q] [IsAlgClosed Ω] [DecidableEq Ω]
+      (φ : ↥(chartAlgFin A (↥K) j) →+* Ω), RingHom.ker φ = y → φ (jChartFin A (↥K) j) ∈ ModularCurve.ssJSet q Ω)
+
+    (hArig : ∀ (z : ↥(AlgebraicCurve.TwoChartIntegralModel A (↥K) j))
+        (ϖz : (AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)
+        (hϖz : ϖz = ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.germ ⊤ z trivial).hom
+          (((AlgebraicCurve.TwoChartIntegralModel.toBase A (↥K) j).appTop).hom
+            ((Scheme.ΓSpecIso (CommRingCat.of A)).inv.hom ϖ)))
+        (hz : ϖz ∈ IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z))
+        (y' : ↥(AlgebraicCurve.TwoChartIntegralModel.XFin A (↥K) j))
+        (hy' : (AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j).base y' = z)
+        (hss' : ∀ (Ω : Type) [Field Ω] [CharP Ω q] [IsAlgClosed Ω] [DecidableEq Ω]
+          (φ : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →+* Ω),
+          RingHom.ker φ = y'.asIdeal →
+            φ (AlgebraicCurve.TwoChartIntegralModel.jChartFin A (↥K) j) ∈ ModularCurve.ssJSet q Ω),
+      ∃ (W : Type) (_ : CommRing W) (_ : IsDomain W) (_ : IsDiscreteValuationRing W)
+        (_ : IsAdicComplete (IsLocalRing.maximalIdeal W) W) (σ : A →+* W)
+        (_ : IsLocalRing.maximalIdeal W = Ideal.span {σ ϖ})
+        (f u v : MvPowerSeries (Fin 2) W) (_ : IsUnit u) (_ : IsUnit v)
+        (_ : f - DrinfeldCurve.LocalChart.drinfeldForm q W ∈
+          (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W), MvPowerSeries.X 1}) ^ (q + 2))
+        (e : AdicCompletion (IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)) ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z) ≃+*
+          MvPowerSeries (Fin 2) W ⧸ Ideal.span {MvPowerSeries.C (σ (ϖt ^ (q + 1))) * v - f * u}),
+
+        let STK := ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)
+        let CMP := (AdicCompletion (IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)) ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z))
+        let toC : STK →+* CMP := algebraMap STK CMP
+        let S := (MvPowerSeries (Fin 2) W ⧸ Ideal.span {MvPowerSeries.C (σ (ϖt ^ (q + 1))) * v - f * u})
+        let mkS : MvPowerSeries (Fin 2) W →+* S := Ideal.Quotient.mk (Ideal.span {MvPowerSeries.C (σ (ϖt ^ (q + 1))) * v - f * u})
+        let germY : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →+* STK :=
+          ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.germ
+              ((AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j) ''ᵁ ⊤) z ⟨y', trivial, hy'⟩).hom.comp
+            ((((AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j).appIso ⊤).inv.hom).comp
+              (Scheme.ΓSpecIso (CommRingCat.of ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j))).inv.hom)
+
+        (∀ a : A, e (algebraMap ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)
+              (AdicCompletion (IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)) ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z))
+            (((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.germ ⊤ z trivial).hom
+              (((AlgebraicCurve.TwoChartIntegralModel.toBase A (↥K) j).appTop).hom
+                ((Scheme.ΓSpecIso (CommRingCat.of A)).inv.hom a)))) =
+          Ideal.Quotient.mk _ (MvPowerSeries.C (σ a))) ∧
+
+        (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+          ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+            ∀ a : ↥K, a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →
+              τ a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) ∧
+
+        (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' → γ ∈ CongruenceSubgroup.Gamma ℓ →
+          ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+            ∀ hpres : (∀ a : ↥K, a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →
+                τ a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)),
+              ∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+                (((τ : ↥K →+* ↥K).restrict (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+                (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) hpres) a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) - a ∈ y'.asIdeal) ∧
+
+        (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+          ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+            ∀ hpres : (∀ a : ↥K, a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →
+                τ a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)),
+              (∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+                (((τ : ↥K →+* ↥K).restrict (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+                (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) hpres) a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) - a ∈ y'.asIdeal) →
+                ∃ (θ : S ≃+* S) (c : W) (M : Matrix (Fin 2) (Fin 2) W),
+
+                  (∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+                    θ (e (toC (germY a))) = e (toC (germY (((τ : ↥K →+* ↥K).restrict (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+                (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) hpres) a)))) ∧
+
+                  (∀ w : W, θ (mkS (MvPowerSeries.C w)) = mkS (MvPowerSeries.C w)) ∧
+
+                  (∀ jj : Fin 2, θ (mkS (MvPowerSeries.X jj)) -
+                      mkS (∑ ii : Fin 2, MvPowerSeries.C (M ii jj) * MvPowerSeries.X ii) ∈
+                    (Ideal.span {mkS (MvPowerSeries.X 0), mkS (MvPowerSeries.X 1)}) ^ 2) ∧
+                  (c ^ (q + 1) - 1 ∈ IsLocalRing.maximalIdeal W) ∧
+                  (∀ ii jj : Fin 2, M ii jj - c * ((γ ii jj : ℤ) : W) ∈ IsLocalRing.maximalIdeal W) ∧
+                  (γ ∈ CongruenceSubgroup.Gamma ℓ → c - 1 ∈ IsLocalRing.maximalIdeal W) ∧
+
+                  (γ ∈ CongruenceSubgroup.Gamma q → (¬ ∀ k : ↥K, τ k = k) → c - 1 ∉ IsLocalRing.maximalIdeal W)) ∧
+
+        (∀ (a₁ b₁ a₂ b₂ : ℤ) (P₁ P₂ : Ideal S), P₁.IsPrime → P₂.IsPrime →
+
+          (mkS (MvPowerSeries.X 0) ∉ P₁ ∨ mkS (MvPowerSeries.X 1) ∉ P₁) →
+          (mkS (MvPowerSeries.X 0) ∉ P₂ ∨ mkS (MvPowerSeries.X 1) ∉ P₂) →
+          mkS (MvPowerSeries.C (σ ϖ)) ∈ P₁ → mkS (MvPowerSeries.C (σ ϖ)) ∈ P₂ →
+          (∃ h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W), MvPowerSeries.X 1}) ^ 2,
+              mkS (MvPowerSeries.C ((a₁ : ℤ) : W) * MvPowerSeries.X 0 + MvPowerSeries.C ((b₁ : ℤ) : W) * MvPowerSeries.X 1 + h)
+                ∈ P₁) →
+          (∃ h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W), MvPowerSeries.X 1}) ^ 2,
+              mkS (MvPowerSeries.C ((a₂ : ℤ) : W) * MvPowerSeries.X 0 + MvPowerSeries.C ((b₂ : ℤ) : W) * MvPowerSeries.X 1 + h)
+                ∈ P₂) →
+          ¬ ((q : ℤ) ∣ a₁ * b₂ - a₂ * b₁) →
+            Ideal.comap ((e : CMP →+* S).comp toC) P₁ ≠ Ideal.comap ((e : CMP →+* S).comp toC) P₂) ∧
+
+        (∀ P : Ideal S, P.IsPrime → (mkS (MvPowerSeries.X 0) ∉ P ∨ mkS (MvPowerSeries.X 1) ∉ P) →
+          mkS (MvPowerSeries.C (σ ϖ)) ∈ P →
+          (∃ h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W), MvPowerSeries.X 1}) ^ 2,
+              mkS (MvPowerSeries.C (1 : W) * MvPowerSeries.X 0 + MvPowerSeries.C (0 : W) * MvPowerSeries.X 1 + h) ∈ P) →
+          ∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+            toC (germY a) ∈ Ideal.comap (e : CMP →+* S) P ↔
+              ∀ n : ℤ, ∃ m ∈ IsLocalRing.maximalIdeal A,
+                (((a : ↥K) : LaurentSeries L).coeff n) = algebraMap A L m) ∧
+
+        (∃ (hjK : ModularCurve.jqNModC L (q * ℓ) ∈ K)
+           (hjC : (⟨ModularCurve.jqNModC L (q * ℓ), hjK⟩ : ↥K) ∈ AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+           (a₀ : A) (_ : (⟨(⟨ModularCurve.jqNModC L (q * ℓ), hjK⟩ : ↥K), hjC⟩ : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) -
+              algebraMap A ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) a₀ ∈ y'.asIdeal)
+           (e₀ : ℕ) (_ : 1 ≤ e₀) (h : MvPowerSeries (Fin 2) W)
+           (_ : h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W), MvPowerSeries.X 1}) ^ e₀),
+           (∀ a b : W, (a ∉ IsLocalRing.maximalIdeal W ∨ b ∉ IsLocalRing.maximalIdeal W) →
+              a ^ q * b - a * b ^ q ∈ IsLocalRing.maximalIdeal W →
+              IsUnit (∑ i ∈ Finset.range (e₀ + 1),
+                MvPowerSeries.coeff (Finsupp.single (0 : Fin 2) i + Finsupp.single (1 : Fin 2) (e₀ - i)) h * a ^ i * b ^ (e₀ - i))) ∧
+           (e : CMP →+* S) (toC (germY ((⟨(⟨ModularCurve.jqNModC L (q * ℓ), hjK⟩ : ↥K), hjC⟩ : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) -
+              algebraMap A ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) a₀))) = mkS h))
+
+    (z : ↥(AlgebraicCurve.TwoChartIntegralModel A (↥K) j))
+        (ϖz : (AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)
+        (hϖz : ϖz = ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.germ ⊤ z trivial).hom
+          (((AlgebraicCurve.TwoChartIntegralModel.toBase A (↥K) j).appTop).hom
+            ((Scheme.ΓSpecIso (CommRingCat.of A)).inv.hom ϖ)))
+        (hz : ϖz ∈ IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z))
+        (y' : ↥(AlgebraicCurve.TwoChartIntegralModel.XFin A (↥K) j))
+        (hy' : (AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j).base y' = z)
+        (hss' : ∀ (Ω : Type) [Field Ω] [CharP Ω q] [IsAlgClosed Ω] [DecidableEq Ω]
+          (φ : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →+* Ω),
+          RingHom.ker φ = y'.asIdeal →
+            φ (AlgebraicCurve.TwoChartIntegralModel.jChartFin A (↥K) j) ∈ ModularCurve.ssJSet q Ω)
+    (hy'y : y'.asIdeal = y)
+      (W₁ : Type) [CommRing W₁] [IsDomain W₁] [IsDiscreteValuationRing W₁]
+        [IsAdicComplete (IsLocalRing.maximalIdeal W₁) W₁] (σ₁ : A →+* W₁)
+        (hσ₁ : IsLocalRing.maximalIdeal W₁ = Ideal.span {σ₁ ϖ})
+        (f₁ u₁ v₁ : MvPowerSeries (Fin 2) W₁) (hu₁ : IsUnit u₁) (hv₁ : IsUnit v₁)
+        (hf₁ : f₁ - DrinfeldCurve.LocalChart.drinfeldForm q W₁ ∈
+          (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W₁), MvPowerSeries.X 1}) ^ (q + 2))
+        (e₁ : AdicCompletion (IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)) ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z) ≃+*
+          MvPowerSeries (Fin 2) W₁ ⧸ Ideal.span {MvPowerSeries.C (σ₁ (ϖt ^ (q + 1))) * v₁ - f₁ * u₁})
+
+    (hW₁ :
+        let STK := ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)
+        let CMP := (AdicCompletion (IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)) ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z))
+        let toC : STK →+* CMP := algebraMap STK CMP
+        let S := (MvPowerSeries (Fin 2) W₁ ⧸ Ideal.span {MvPowerSeries.C (σ₁ (ϖt ^ (q + 1))) * v₁ - f₁ * u₁})
+        let mkS : MvPowerSeries (Fin 2) W₁ →+* S := Ideal.Quotient.mk (Ideal.span {MvPowerSeries.C (σ₁ (ϖt ^ (q + 1))) * v₁ - f₁ * u₁})
+        let germY : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →+* STK :=
+          ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.germ
+              ((AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j) ''ᵁ ⊤) z ⟨y', trivial, hy'⟩).hom.comp
+            ((((AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j).appIso ⊤).inv.hom).comp
+              (Scheme.ΓSpecIso (CommRingCat.of ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j))).inv.hom)
+
+        (∀ a : A, e₁ (algebraMap ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)
+              (AdicCompletion (IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)) ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z))
+            (((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.germ ⊤ z trivial).hom
+              (((AlgebraicCurve.TwoChartIntegralModel.toBase A (↥K) j).appTop).hom
+                ((Scheme.ΓSpecIso (CommRingCat.of A)).inv.hom a)))) =
+          Ideal.Quotient.mk _ (MvPowerSeries.C (σ₁ a))) ∧
+
+        (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+          ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+            ∀ a : ↥K, a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →
+              τ a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) ∧
+
+        (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' → γ ∈ CongruenceSubgroup.Gamma ℓ →
+          ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+            ∀ hpres : (∀ a : ↥K, a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →
+                τ a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)),
+              ∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+                (((τ : ↥K →+* ↥K).restrict (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+                (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) hpres) a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) - a ∈ y'.asIdeal) ∧
+
+        (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+          ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+            ∀ hpres : (∀ a : ↥K, a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →
+                τ a ∈ (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)),
+              (∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+                (((τ : ↥K →+* ↥K).restrict (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+                (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) hpres) a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) - a ∈ y'.asIdeal) →
+                ∃ (θ : S ≃+* S) (c : W₁) (M : Matrix (Fin 2) (Fin 2) W₁),
+
+                  (∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+                    θ (e₁ (toC (germY a))) = e₁ (toC (germY (((τ : ↥K →+* ↥K).restrict (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+                (AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) hpres) a)))) ∧
+
+                  (∀ w : W₁, θ (mkS (MvPowerSeries.C w)) = mkS (MvPowerSeries.C w)) ∧
+
+                  (∀ jj : Fin 2, θ (mkS (MvPowerSeries.X jj)) -
+                      mkS (∑ ii : Fin 2, MvPowerSeries.C (M ii jj) * MvPowerSeries.X ii) ∈
+                    (Ideal.span {mkS (MvPowerSeries.X 0), mkS (MvPowerSeries.X 1)}) ^ 2) ∧
+                  (c ^ (q + 1) - 1 ∈ IsLocalRing.maximalIdeal W₁) ∧
+                  (∀ ii jj : Fin 2, M ii jj - c * ((γ ii jj : ℤ) : W₁) ∈ IsLocalRing.maximalIdeal W₁) ∧
+                  (γ ∈ CongruenceSubgroup.Gamma ℓ → c - 1 ∈ IsLocalRing.maximalIdeal W₁) ∧
+
+                  (γ ∈ CongruenceSubgroup.Gamma q → (¬ ∀ k : ↥K, τ k = k) → c - 1 ∉ IsLocalRing.maximalIdeal W₁)) ∧
+
+        (∀ (a₁ b₁ a₂ b₂ : ℤ) (P₁ P₂ : Ideal S), P₁.IsPrime → P₂.IsPrime →
+
+          (mkS (MvPowerSeries.X 0) ∉ P₁ ∨ mkS (MvPowerSeries.X 1) ∉ P₁) →
+          (mkS (MvPowerSeries.X 0) ∉ P₂ ∨ mkS (MvPowerSeries.X 1) ∉ P₂) →
+          mkS (MvPowerSeries.C (σ₁ ϖ)) ∈ P₁ → mkS (MvPowerSeries.C (σ₁ ϖ)) ∈ P₂ →
+          (∃ h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W₁), MvPowerSeries.X 1}) ^ 2,
+              mkS (MvPowerSeries.C ((a₁ : ℤ) : W₁) * MvPowerSeries.X 0 + MvPowerSeries.C ((b₁ : ℤ) : W₁) * MvPowerSeries.X 1 + h)
+                ∈ P₁) →
+          (∃ h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W₁), MvPowerSeries.X 1}) ^ 2,
+              mkS (MvPowerSeries.C ((a₂ : ℤ) : W₁) * MvPowerSeries.X 0 + MvPowerSeries.C ((b₂ : ℤ) : W₁) * MvPowerSeries.X 1 + h)
+                ∈ P₂) →
+          ¬ ((q : ℤ) ∣ a₁ * b₂ - a₂ * b₁) →
+            Ideal.comap ((e₁ : CMP →+* S).comp toC) P₁ ≠ Ideal.comap ((e₁ : CMP →+* S).comp toC) P₂) ∧
+
+        (∀ P : Ideal S, P.IsPrime → (mkS (MvPowerSeries.X 0) ∉ P ∨ mkS (MvPowerSeries.X 1) ∉ P) →
+          mkS (MvPowerSeries.C (σ₁ ϖ)) ∈ P →
+          (∃ h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W₁), MvPowerSeries.X 1}) ^ 2,
+              mkS (MvPowerSeries.C (1 : W₁) * MvPowerSeries.X 0 + MvPowerSeries.C (0 : W₁) * MvPowerSeries.X 1 + h) ∈ P) →
+          ∀ a : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j),
+            toC (germY a) ∈ Ideal.comap (e₁ : CMP →+* S) P ↔
+              ∀ n : ℤ, ∃ m ∈ IsLocalRing.maximalIdeal A,
+                (((a : ↥K) : LaurentSeries L).coeff n) = algebraMap A L m) ∧
+
+        (∃ (hjK : ModularCurve.jqNModC L (q * ℓ) ∈ K)
+           (hjC : (⟨ModularCurve.jqNModC L (q * ℓ), hjK⟩ : ↥K) ∈ AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)
+           (a₀ : A) (_ : (⟨(⟨ModularCurve.jqNModC L (q * ℓ), hjK⟩ : ↥K), hjC⟩ : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) -
+              algebraMap A ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) a₀ ∈ y'.asIdeal)
+           (e₀ : ℕ) (_ : 1 ≤ e₀) (h : MvPowerSeries (Fin 2) W₁)
+           (_ : h ∈ (Ideal.span {(MvPowerSeries.X 0 : MvPowerSeries (Fin 2) W₁), MvPowerSeries.X 1}) ^ e₀),
+           (∀ a b : W₁, (a ∉ IsLocalRing.maximalIdeal W₁ ∨ b ∉ IsLocalRing.maximalIdeal W₁) →
+              a ^ q * b - a * b ^ q ∈ IsLocalRing.maximalIdeal W₁ →
+              IsUnit (∑ i ∈ Finset.range (e₀ + 1),
+                MvPowerSeries.coeff (Finsupp.single (0 : Fin 2) i + Finsupp.single (1 : Fin 2) (e₀ - i)) h * a ^ i * b ^ (e₀ - i))) ∧
+           (e₁ : CMP →+* S) (toC (germY ((⟨(⟨ModularCurve.jqNModC L (q * ℓ), hjK⟩ : ↥K), hjC⟩ : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j)) -
+              algebraMap A ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) a₀))) = mkS h))
+
+    (J : Ideal ↥(chartAlgFin A (↥K) j))
+    (hJ :
+        let STK := ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)
+        let CMP := (AdicCompletion (IsLocalRing.maximalIdeal ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z)) ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.stalk z))
+        let toC : STK →+* CMP := algebraMap STK CMP
+        let S := (MvPowerSeries (Fin 2) W₁ ⧸ Ideal.span {MvPowerSeries.C (σ₁ (ϖt ^ (q + 1))) * v₁ - f₁ * u₁})
+        let mkS : MvPowerSeries (Fin 2) W₁ →+* S := Ideal.Quotient.mk (Ideal.span {MvPowerSeries.C (σ₁ (ϖt ^ (q + 1))) * v₁ - f₁ * u₁})
+        let germY : ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j) →+* STK :=
+          ((AlgebraicCurve.TwoChartIntegralModel A (↥K) j).presheaf.germ
+              ((AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j) ''ᵁ ⊤) z ⟨y', trivial, hy'⟩).hom.comp
+            ((((AlgebraicCurve.TwoChartIntegralModel.ιFin A (↥K) j).appIso ⊤).inv.hom).comp
+              (Scheme.ΓSpecIso (CommRingCat.of ↥(AlgebraicCurve.TwoChartIntegralModel.chartAlgFin A (↥K) j))).inv.hom)
+        J = sInf {J' : Ideal ↥(chartAlgFin A (↥K) j) | ∃ (γ : SL(2, ℤ)) (_ : γ ∈ CongruenceSubgroup.Gamma q)
+          (_ : γ ∈ CongruenceSubgroup.Gamma0 M') (τ : ↥K ≃ₐ[L] ↥K)
+          (_ : ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+            (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ)
+          (hpres : ∀ a : ↥K, a ∈ chartAlgFin A (↥K) j → τ a ∈ chartAlgFin A (↥K) j),
+          J' = Ideal.comap ((τ : ↥K →+* ↥K).restrict (chartAlgFin A (↥K) j) (chartAlgFin A (↥K) j) hpres)
+            (Ideal.comap ((e₁ : CMP →+* S).comp (toC.comp germY))
+              (Ideal.span {mkS (MvPowerSeries.C (σ₁ ϖt)), mkS (MvPowerSeries.X 0), mkS (MvPowerSeries.X 1)}))})
+
+    (B : Subalgebra A ↥K)
+    (hB : B = (Algebra.adjoin ↥(chartAlgFin A (↥K) j)
+        {x : ↥K | ∃ i ∈ J, x * algebraMap A ↥K ϖt = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)}).restrictScalars A)
+
+    (W : ValuationSubring ↥K) (hBW : ∀ f : ↥K, f ∈ B → f ∈ W)
+    (hR1 :
+
+      chartAlgFin A (↥K) j ≤ B ∧
+      (∀ f : ↥K, ∃ g h : ↥B, (h : ↥K) ≠ 0 ∧ f * (h : ↥K) = (g : ↥K)))
+    (hR2 :
+
+      Algebra.FormallySmooth A ↥B ∧ Algebra.FinitePresentation A ↥B ∧
+      Ring.KrullDimLE 1 (↥B ⧸ Ideal.span {algebraMap A ↥B ϖ}))
+    (hR3 :
+
+      (∀ x : L, algebraMap L ↥K x ∈ W ↔ ∃ a : A, algebraMap A L a = x) ∧
+      maximalIdeal ↥W = Ideal.span {(⟨algebraMap A ↥K ϖ, hBW _ (B.algebraMap_mem ϖ)⟩ : ↥W)} ∧
+      IsDiscreteValuationRing ↥W ∧
+      (∀ b : ↥(chartAlgFin A (↥K) j), b ∈ y ↔
+        ∃ hb : (b : ↥K) ∈ W, (⟨(b : ↥K), hb⟩ : ↥W) ∈ maximalIdeal ↥W) ∧
+      (∀ f : ↥K, f ∈ W ↔ ∃ g h : ↥B, (⟨(h : ↥K), hBW _ h.2⟩ : ↥W) ∉ maximalIdeal ↥W ∧ f * (h : ↥K) = (g : ↥K)))
+    (hEQ :
+
+      (∀ (inst : Algebra (GaloisField q 2) (ResidueField A)),
+        ∃ (ρ : ↥B →+* DrinfeldCurve.CoordRing q (ResidueField A)),
+          Function.Surjective ρ ∧
+          (∀ b : ↥B, ρ b = 0 ↔ (⟨(b : ↥K), hBW _ b.2⟩ : ↥W) ∈ maximalIdeal ↥W) ∧
+          (∀ a : A, ρ (algebraMap A ↥B a) = algebraMap (ResidueField A) (DrinfeldCurve.CoordRing q (ResidueField A)) (residue A a)) ∧
+          (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+            ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+                (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+              (∀ f : ↥K, f ∈ W ↔ τ f ∈ W) →
+              ∃ (c : (GaloisField q 2)ˣ) (hmem : (ModularCurve.FullLevel.redQ q γ, c) ∈ DrinfeldCurve.hSubgroup q),
+                (∀ (b : ↥B) (hb : τ (b : ↥K) ∈ B), ρ ⟨τ (b : ↥K), hb⟩ = DrinfeldCurve.hAction q (ResidueField A) ⟨_, hmem⟩ (ρ b)) ∧
+                (γ ∈ CongruenceSubgroup.Gamma q → (¬ ∀ k : ↥K, τ k = k) → c ≠ 1))) ∧
+
+      (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+        ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+            (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+          ∀ f : ↥K, f ∈ B → τ f ∈ B) ∧
+      (∀ Q : Ideal ↥B, Q.IsPrime → algebraMap A ↥B ϖ ∈ Q →
+        ∃ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma q ∧ γ ∈ CongruenceSubgroup.Gamma0 M' ∧
+          ∃ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ ∧
+            ∀ b : ↥B, (⟨(b : ↥K), hBW _ b.2⟩ : ↥W) ∈ maximalIdeal ↥W → τ (b : ↥K) ∈ B ∧ ∀ hb : τ (b : ↥K) ∈ B, (⟨τ (b : ↥K), hb⟩ : ↥B) ∈ Q) ∧
+      (∀ b : ↥B, (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma q → γ ∈ CongruenceSubgroup.Gamma0 M' →
+          ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+              (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+            ∀ hb : τ (b : ↥K) ∈ B, (⟨τ (b : ↥K), hBW _ hb⟩ : ↥W) ∈ maximalIdeal ↥W) →
+        algebraMap A ↥B ϖ ∣ b) ∧
+
+      (∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+        ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M')
+            (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+          (∀ (b : ↥(chartAlgFin A (↥K) j)) (hb : τ (b : ↥K) ∈ chartAlgFin A (↥K) j),
+              b ∈ y ↔ (⟨τ (b : ↥K), hb⟩ : ↥(chartAlgFin A (↥K) j)) ∈ y) →
+          ∀ f : ↥K, f ∈ W ↔ τ f ∈ W))
+
+    (ends : Finset (Subring ↥K))
+    (hends : ∀ O : Subring ↥K, O ∈ ends ↔
+      ∃ (a : ↥(chartAlgFin A (↥K) j)) (_ : a ∈ J) (_ : ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) ≠ 0),
+      let Ba : Subalgebra A ↥K := (Algebra.adjoin ↥(chartAlgFin A (↥K) j)
+        {x : ↥K | ∃ i ∈ J, x * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)}).restrictScalars A
+      ∃ (P : Ideal ↥Ba) (_ : P.IsMaximal),
+        (∀ f : ↥K, f ∈ O ↔ ∃ g h : ↥Ba, h ∉ P ∧ f * (h : ↥K) = (g : ↥K)) ∧
+        (∀ b : ↥(chartAlgFin A (↥K) j), b ∈ y →
+          ∀ hb : ((b : ↥(chartAlgFin A (↥K) j)) : ↥K) ∈ O, ¬ IsUnit (⟨((b : ↥(chartAlgFin A (↥K) j)) : ↥K), hb⟩ : ↥O)) ∧
+        ¬ (∀ f : ↥K, f ∈ B → f ∈ O))
+
+    (hperm : ∀ γ : SL(2, ℤ), γ ∈ CongruenceSubgroup.Gamma0 M' →
+      ∀ τ : ↥K ≃ₐ[L] ↥K, ModularCurve.FullLevel.IsLevelAutAt L (q * ℓ) ξ (q * ℓ) ((q * ℓ) ^ 2 * M') (ModularCurve.FullLevel.levelH (q * ℓ) M') γ⁻¹ K τ →
+      (∀ f : ↥K, f ∈ W ↔ τ f ∈ W) → ∀ O ∈ ends, ∃ O' ∈ ends, ∀ f : ↥K, f ∈ O ↔ τ f ∈ O') :
+
+        (∀ V : ValuationSubring ↥K, (∀ x : L, algebraMap L ↥K x ∈ V ↔ ∃ a : A, algebraMap A L a = x) →
+          (∀ b : ↥(chartAlgFin A (↥K) j), (b : ↥K) ∈ V) →
+          (∀ b : ↥(chartAlgFin A (↥K) j), b ∈ y → ∀ hb : (b : ↥K) ∈ V, (⟨(b : ↥K), hb⟩ : ↥V) ∈ maximalIdeal ↥V) →
+          (∀ f : ↥K, f ∈ B → f ∈ V) ∨
+          (∃ O ∈ ends, ∀ (f : ↥K) (hfO : f ∈ O), f ∈ V ∧ (¬ IsUnit (⟨f, hfO⟩ : ↥O) → ∀ hfV : f ∈ V, (⟨f, hfV⟩ : ↥V) ∈ maximalIdeal ↥V))) := by
+  intro V hVA hCV hyV
+  classical
+
+  by_cases hBV : ∀ f : ↥K, f ∈ B → f ∈ V
+  · exact Or.inl hBV
+  right
+
+  have hK' : K = ModularCurve.laurentBaseChange L
+      (ModularCurve.qExpFunctionFieldC ℚ (CohCarrier.GammaH ((q * ℓ) ^ 2 * M') (ModularCurve.FullLevel.levelH (q * ℓ) M'))) := by
+    rw [hK]; rfl
+  have hFD : FiniteDimensional ↥(IntermediateField.adjoin L ({j} : Set ↥K)) ↥K :=
+    ModularCurve.finiteDimensional_adjoin_of_coe_eq_coeffEmb_jq_of_eq_laurentBaseChange
+      (CohCarrier.GammaH ((q * ℓ) ^ 2 * M') (ModularCurve.FullLevel.levelH (q * ℓ) M'))
+      (ModularCurve.translation_mem_GammaH _ _) L K hK' j hj
+  haveI : Algebra.IsAlgebraic ↥(IntermediateField.adjoin L ({j} : Set ↥K)) ↥K := Algebra.IsAlgebraic.of_finite _ _
+  have hsep : Algebra.IsSeparable ↥(IntermediateField.adjoin L ({j} : Set ↥K)) ↥K :=
+    Algebra.IsAlgebraic.isSeparable_of_perfectField
+  have htj : Transcendental A j := ModularCurve.transcendental_of_coe_eq_coeffEmb_jq L K A j hj
+  have hftC : Algebra.FiniteType A ↥(chartAlgFin A (↥K) j) :=
+    (AlgebraicCurve.TwoChartIntegralModel.finiteType_chartAlgFin_and_chartAlgInf A L (↥K) j htj hFD hsep).1
+  haveI : IsNoetherianRing ↥(chartAlgFin A (↥K) j) := Algebra.FiniteType.isNoetherianRing A _
+  have hJfg : J.FG := IsNoetherian.noetherian J
+  obtain ⟨s, hs⟩ := hJfg
+
+  have hCB : chartAlgFin A (↥K) j ≤ B := hR1.1
+  by_cases hs0 : ∀ i ∈ s, ((i : ↥(chartAlgFin A (↥K) j)) : ↥K) = 0
+  · exfalso
+    apply hBV
+    intro f hf
+    have hJ0 : ∀ i ∈ J, ((i : ↥(chartAlgFin A (↥K) j)) : ↥K) = 0 := by
+      intro i hi
+      rw [← hs] at hi
+      refine Submodule.span_induction (p := fun x _ => ((x : ↥(chartAlgFin A (↥K) j)) : ↥K) = 0) ?_ ?_ ?_ ?_ hi
+      · intro x hx
+        exact hs0 x hx
+      · simp
+      · intro x y _ _ hx hy
+        simp [hx, hy]
+      · intro c x _ hx
+        simp [hx]
+    rw [hB] at hf
+    rw [Subalgebra.mem_restrictScalars] at hf
+    have hS0 : {x : ↥K | ∃ i ∈ J, x * algebraMap A ↥K ϖt = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)} ⊆
+        ((⊥ : Subalgebra ↥(chartAlgFin A (↥K) j) ↥K) : Set ↥K) := by
+      rintro x ⟨i, hi, hx⟩
+      rw [hJ0 i hi] at hx
+      have ht0 : algebraMap A ↥K ϖt ≠ 0 := by
+        have hinjAL : Function.Injective (algebraMap A L) := IsFractionRing.injective A L
+        have hinjAK : Function.Injective (algebraMap A ↥K) := by
+          rw [IsScalarTower.algebraMap_eq A L ↥K, RingHom.coe_comp]
+          exact (algebraMap L ↥K).injective.comp hinjAL
+        have hϖt0 : ϖt ≠ 0 := by
+          intro h0
+          obtain ⟨u, hu, hpow⟩ := hϖt
+          have hexp : q ^ 2 - 1 ≠ 0 := by
+            have : 5 ≤ q := hq
+            have h25 : 25 ≤ q ^ 2 := by nlinarith
+            omega
+          rw [h0, zero_pow hexp] at hpow
+          have hqA : (q : A) = 0 := by
+            have := congrArg (· * (↑hu.unit⁻¹ : A)) hpow
+            simpa [mul_assoc, IsUnit.mul_val_inv] using this.symm
+          have hqL : (q : L) = 0 := by
+            have := congrArg (algebraMap A L) hqA
+            simpa using this
+          exact (Fact.out : q.Prime).ne_zero (by exact_mod_cast hqL)
+        exact fun h => hϖt0 (hinjAK (by rw [h, map_zero]))
+      have hx0 : x = 0 := by
+        rcases mul_eq_zero.1 hx with h | h
+        · exact h
+        · exact absurd h ht0
+      rw [hx0]
+      exact (⊥ : Subalgebra ↥(chartAlgFin A (↥K) j) ↥K).zero_mem
+    have hle : Algebra.adjoin ↥(chartAlgFin A (↥K) j) {x : ↥K | ∃ i ∈ J, x * algebraMap A ↥K ϖt = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)} ≤ ⊥ :=
+      Algebra.adjoin_le hS0
+    have hf' := hle hf
+    rw [Algebra.mem_bot] at hf'
+    obtain ⟨c, rfl⟩ := hf'
+    exact hCV c
+  push_neg at hs0
+
+  obtain ⟨s', hs'⟩ : ∃ s' : Finset ↥(chartAlgFin A (↥K) j), s' = s.filter (fun i => ((i : ↥(chartAlgFin A (↥K) j)) : ↥K) ≠ 0) := ⟨_, rfl⟩
+  have hs'ne : s'.Nonempty := by
+    obtain ⟨i, hi, hi0⟩ := hs0
+    exact ⟨i, by rw [hs']; exact Finset.mem_filter.2 ⟨hi, hi0⟩⟩
+  obtain ⟨a, has', hamax⟩ := Finset.exists_max_image s' (fun i => V.valuation ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)) hs'ne
+  have has : a ∈ s := by rw [hs'] at has'; exact (Finset.mem_filter.1 has').1
+  have ha0 : ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) ≠ 0 := by rw [hs'] at has'; exact (Finset.mem_filter.1 has').2
+  have haJ : a ∈ J := by rw [← hs]; exact Submodule.subset_span has
+  have hva0 : V.valuation ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) ≠ 0 := by
+    rwa [ne_eq, map_eq_zero]
+
+  have hCV' : ∀ c : ↥(chartAlgFin A (↥K) j), (c : ↥K) ∈ V := hCV
+  have hdiv : ∀ i ∈ J, ((i : ↥(chartAlgFin A (↥K) j)) : ↥K) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹ ∈ V := by
+    intro i hi
+    rw [← hs] at hi
+    refine Submodule.span_induction (p := fun x _ => ((x : ↥(chartAlgFin A (↥K) j)) : ↥K) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹ ∈ V) ?_ ?_ ?_ ?_ hi
+    · intro x hx
+      by_cases hx0 : ((x : ↥(chartAlgFin A (↥K) j)) : ↥K) = 0
+      · rw [hx0, zero_mul]; exact V.zero_mem
+      · have hx' : x ∈ s' := by rw [hs']; exact Finset.mem_filter.2 ⟨hx, hx0⟩
+        have hle := hamax x hx'
+        rw [← ValuationSubring.valuation_le_one_iff, map_mul, map_inv₀]
+        calc V.valuation ((x : ↥(chartAlgFin A (↥K) j)) : ↥K) * (V.valuation ((a : ↥(chartAlgFin A (↥K) j)) : ↥K))⁻¹
+            ≤ V.valuation ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) * (V.valuation ((a : ↥(chartAlgFin A (↥K) j)) : ↥K))⁻¹ :=
+              mul_le_mul_left hle _
+          _ = 1 := mul_inv_cancel₀ hva0
+    · simp only [ZeroMemClass.coe_zero, zero_mul]; exact V.zero_mem
+    · intro x y _ _ hx hy
+      have : (((x + y : ↥(chartAlgFin A (↥K) j)) : ↥K)) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹ =
+          ((x : ↥(chartAlgFin A (↥K) j)) : ↥K) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹ + ((y : ↥(chartAlgFin A (↥K) j)) : ↥K) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹ := by
+        push_cast; ring
+      rw [this]; exact add_mem hx hy
+    · intro c x _ hx
+      have : (((c • x : ↥(chartAlgFin A (↥K) j)) : ↥K)) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹ =
+          ((c : ↥(chartAlgFin A (↥K) j)) : ↥K) * (((x : ↥(chartAlgFin A (↥K) j)) : ↥K) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹) := by
+        rw [smul_eq_mul]; push_cast; ring
+      rw [this]; exact mul_mem (hCV' c) hx
+
+  let Ba : Subalgebra A ↥K := (Algebra.adjoin ↥(chartAlgFin A (↥K) j)
+        {x : ↥K | ∃ i ∈ J, x * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)}).restrictScalars A
+  let VC : Subalgebra ↥(chartAlgFin A (↥K) j) ↥K :=
+    { carrier := V
+      mul_mem' := fun hx hy => mul_mem hx hy
+      one_mem' := V.one_mem
+      add_mem' := fun hx hy => add_mem hx hy
+      zero_mem' := V.zero_mem
+      algebraMap_mem' := fun c => hCV' c }
+  have hBaV : ∀ f : ↥K, f ∈ Ba → f ∈ V := by
+    intro f hf
+    have hf' : f ∈ Algebra.adjoin ↥(chartAlgFin A (↥K) j) {x : ↥K | ∃ i ∈ J, x * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)} :=
+      (Subalgebra.mem_restrictScalars A).1 hf
+    have hle : Algebra.adjoin ↥(chartAlgFin A (↥K) j) {x : ↥K | ∃ i ∈ J, x * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)} ≤ VC := by
+      refine Algebra.adjoin_le ?_
+      rintro x ⟨i, hi, hx⟩
+      have : x = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K) * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K)⁻¹ := by
+        rw [← hx, mul_assoc, mul_inv_cancel₀ ha0, mul_one]
+      show x ∈ V
+      rw [this]; exact hdiv i hi
+    exact hle hf'
+  have hCBa : ∀ c : ↥(chartAlgFin A (↥K) j), (c : ↥K) ∈ Ba := by
+    intro c
+    show (c : ↥K) ∈ (Algebra.adjoin ↥(chartAlgFin A (↥K) j) {x : ↥K | ∃ i ∈ J, x * ((a : ↥(chartAlgFin A (↥K) j)) : ↥K) = ((i : ↥(chartAlgFin A (↥K) j)) : ↥K)}).restrictScalars A
+    rw [Subalgebra.mem_restrictScalars]
+    exact Subalgebra.algebraMap_mem _ c
+
+  let φ : ↥Ba →+* ↥V :=
+    { toFun := fun b => ⟨(b : ↥K), hBaV _ b.2⟩
+      map_one' := Subtype.ext rfl
+      map_mul' := fun _ _ => Subtype.ext rfl
+      map_zero' := Subtype.ext rfl
+      map_add' := fun _ _ => Subtype.ext rfl }
+  have hφ : ∀ b : ↥Ba, ((φ b : ↥V) : ↥K) = (b : ↥K) := fun b => rfl
+  let Q : Ideal ↥Ba := (maximalIdeal ↥V).comap φ
+  have hQmem : ∀ b : ↥Ba, b ∈ Q ↔ (⟨(b : ↥K), hBaV _ b.2⟩ : ↥V) ∈ maximalIdeal ↥V := fun b => Ideal.mem_comap
+  haveI : (maximalIdeal ↥V).IsPrime := (IsLocalRing.maximalIdeal.isMaximal ↥V).isPrime
+  have hQprime : Q.IsPrime := Ideal.comap_isPrime φ (maximalIdeal ↥V)
+
+  have hunitV : ∀ b : ↥Ba, b ∉ Q → IsUnit (⟨(b : ↥K), hBaV _ b.2⟩ : ↥V) := by
+    intro b hb
+    rw [hQmem] at hb
+    by_contra hu
+    exact hb ((IsLocalRing.mem_maximalIdeal _).2 hu)
+  have hne0 : ∀ b : ↥Ba, b ∉ Q → (b : ↥K) ≠ 0 := by
+    intro b hb h0
+    apply hb
+    rw [hQmem]
+    have : (⟨(b : ↥K), hBaV _ b.2⟩ : ↥V) = 0 := Subtype.ext h0
+    rw [this]; exact (maximalIdeal ↥V).zero_mem
+  have hinvV : ∀ b : ↥Ba, b ∉ Q → (b : ↥K)⁻¹ ∈ V := by
+    intro b hb
+    obtain ⟨u, hu⟩ := hunitV b hb
+    have h1 : (b : ↥K) * (((u⁻¹ : (↥V)ˣ) : ↥V) : ↥K) = 1 := by
+      have h := congrArg (fun z : ↥V => (z : ↥K)) u.mul_inv
+      simpa [hu] using h
+    have : (b : ↥K)⁻¹ = (((u⁻¹ : (↥V)ˣ) : ↥V) : ↥K) := by
+      rw [inv_eq_of_mul_eq_one_right h1]
+    rw [this]; exact ((u⁻¹ : (↥V)ˣ) : ↥V).2
+
+  have hϖV : ∀ h : algebraMap A ↥K ϖ ∈ V, (⟨algebraMap A ↥K ϖ, h⟩ : ↥V) ∈ maximalIdeal ↥V := by
+    intro h
+    have := hyV (algebraMap A ↥(chartAlgFin A (↥K) j) ϖ) hϖy (by simpa [Subalgebra.coe_algebraMap] using h)
+    simpa [Subalgebra.coe_algebraMap] using this
+  have hϖQ : algebraMap A ↥Ba ϖ ∈ Q := by
+    rw [hQmem]
+    have h1 : ((algebraMap A ↥Ba ϖ : ↥Ba) : ↥K) = algebraMap A ↥K ϖ := Subalgebra.coe_algebraMap _ _
+    have hm : algebraMap A ↥K ϖ ∈ V := h1 ▸ hBaV _ (algebraMap A ↥Ba ϖ).2
+    have := hϖV hm
+    convert this using 2
+  have hQy : ∀ (c : ↥(chartAlgFin A (↥K) j)) (hc : ((c : ↥(chartAlgFin A (↥K) j)) : ↥K) ∈ Ba), (⟨((c : ↥(chartAlgFin A (↥K) j)) : ↥K), hc⟩ : ↥Ba) ∈ Q → c ∈ y := by
+    intro c hc hcQ
+    rw [hQmem] at hcQ
+    by_contra hcy
+    obtain ⟨d, m, hm, hdm⟩ := hy.exists_inv hcy
+    have hmV := hyV m hm (hCV' m)
+    have h1 : (⟨((d : ↥(chartAlgFin A (↥K) j)) : ↥K), hCV' d⟩ : ↥V) * ⟨((c : ↥(chartAlgFin A (↥K) j)) : ↥K), hCV' c⟩ + ⟨((m : ↥(chartAlgFin A (↥K) j)) : ↥K), hCV' m⟩ = 1 := by
+      apply Subtype.ext
+      have := congrArg (fun z : ↥(chartAlgFin A (↥K) j) => (z : ↥K)) hdm
+      simpa using this
+    have hmem : (1 : ↥V) ∈ maximalIdeal ↥V := by
+      rw [← h1]
+      exact (maximalIdeal ↥V).add_mem ((maximalIdeal ↥V).mul_mem_left _ (by convert hcQ using 2)) hmV
+    exact (IsLocalRing.maximalIdeal.isMaximal ↥V).ne_top ((Ideal.eq_top_iff_one _).2 hmem)
+
+  obtain ⟨hT1, -, -, -, -⟩ := ModularCurve.FullLevel.AuxLevel.blowupChart_primes_over_supersingular_exceptional_generic_or_end_on_unique_component_of_drinfeldChartWitness_linked q hq M' hqM' ℓ hℓ3 hℓq hℓM' L ξ hξ hι K hK A hAq hξA j hj ϖ hϖ ϖt hϖt y hy hϖy hss hArig z ϖz hϖz hz y' hy' hss' hy'y W₁ σ₁ hσ₁ f₁ u₁ v₁ hu₁ hv₁ hf₁ e₁ hW₁ J hJ B hB W hBW hR1 hR2 hR3 hEQ
+  rcases hT1 a haJ ha0 Q hQprime hϖQ hQy with hmax | hBloc | ⟨b, hby, hbQ⟩
+  rotate_left
+  ·
+    exfalso
+    apply hBV
+    intro f hf
+    obtain ⟨g, h, hhQ, hfh⟩ := hBloc f hf
+    have : f = (g : ↥K) * ((h : ↥K))⁻¹ := by
+      rw [← hfh, mul_assoc, mul_inv_cancel₀ (hne0 h hhQ), mul_one]
+    rw [this]
+    exact mul_mem (hBaV _ g.2) (hinvV h hhQ)
+  ·
+    exfalso
+    apply hbQ (hCBa b)
+    rw [hQmem]
+    have := hyV b hby (hCV' b)
+    convert this using 2
+
+  let O : Subring ↥K :=
+    { carrier := {f : ↥K | ∃ g h : ↥Ba, h ∉ Q ∧ f * (h : ↥K) = (g : ↥K)}
+      mul_mem' := by
+        rintro f f' ⟨g, h, hh, hfh⟩ ⟨g', h', hh', hfh'⟩
+        refine ⟨g * g', h * h', fun hm => (hQprime.mem_or_mem hm).elim hh hh', ?_⟩
+        push_cast
+        calc f * f' * ((h : ↥K) * (h' : ↥K)) = (f * (h : ↥K)) * (f' * (h' : ↥K)) := by ring
+          _ = (g : ↥K) * (g' : ↥K) := by rw [hfh, hfh']
+      one_mem' := ⟨1, 1, fun h1 => hQprime.ne_top ((Ideal.eq_top_iff_one _).2 h1), by simp⟩
+      add_mem' := by
+        rintro f f' ⟨g, h, hh, hfh⟩ ⟨g', h', hh', hfh'⟩
+        refine ⟨g * h' + g' * h, h * h', fun hm => (hQprime.mem_or_mem hm).elim hh hh', ?_⟩
+        push_cast
+        calc (f + f') * ((h : ↥K) * (h' : ↥K)) = (f * (h : ↥K)) * (h' : ↥K) + (f' * (h' : ↥K)) * (h : ↥K) := by ring
+          _ = (g : ↥K) * (h' : ↥K) + (g' : ↥K) * (h : ↥K) := by rw [hfh, hfh']
+      zero_mem' := ⟨0, 1, fun h1 => hQprime.ne_top ((Ideal.eq_top_iff_one _).2 h1), by simp⟩
+      neg_mem' := by
+        rintro f ⟨g, h, hh, hfh⟩
+        exact ⟨-g, h, hh, by push_cast; rw [neg_mul, hfh]⟩ }
+  have hOmem : ∀ f : ↥K, f ∈ O ↔ ∃ g h : ↥Ba, h ∉ Q ∧ f * (h : ↥K) = (g : ↥K) := fun f => Iff.rfl
+  have hOV : ∀ f : ↥K, f ∈ O → f ∈ V := by
+    rintro f ⟨g, h, hh, hfh⟩
+    have : f = (g : ↥K) * ((h : ↥K))⁻¹ := by
+      rw [← hfh, mul_assoc, mul_inv_cancel₀ (hne0 h hh), mul_one]
+    rw [this]; exact mul_mem (hBaV _ g.2) (hinvV h hh)
+
+  have hOunit : ∀ (f : ↥K) (hf : f ∈ O), IsUnit (⟨f, hf⟩ : ↥O) → IsUnit (⟨f, hOV f hf⟩ : ↥V) := by
+    intro f hf hu
+    obtain ⟨u, hu⟩ := hu
+    have h1 : f * (((u⁻¹ : (↥O)ˣ) : ↥O) : ↥K) = 1 := by
+      have h := congrArg (fun z : ↥O => (z : ↥K)) u.mul_inv
+      simpa [hu] using h
+    exact IsUnit.of_mul_eq_one (a := (⟨f, hOV f hf⟩ : ↥V)) ⟨_, hOV _ ((u⁻¹ : (↥O)ˣ) : ↥O).2⟩ (Subtype.ext h1)
+  refine ⟨O, (hends O).2 ⟨a, haJ, ha0, Q, hmax, hOmem, ?_, ?_⟩, ?_⟩
+  ·
+    intro b hb hbO hu
+    have := hyV b hb (hCV' b)
+    exact (IsLocalRing.mem_maximalIdeal _).1 this (hOunit _ hbO hu)
+  ·
+    intro h
+    exact hBV (fun f hf => hOV f (h f hf))
+  ·
+    intro f hfO
+    refine ⟨hOV f hfO, ?_⟩
+    intro hnu hfV
+    obtain ⟨g, h, hh, hfh⟩ := (hOmem f).1 hfO
+    by_cases hgQ : g ∈ Q
+    · have hgm : (⟨(g : ↥K), hBaV _ g.2⟩ : ↥V) ∈ maximalIdeal ↥V := (hQmem g).1 hgQ
+      have : (⟨f, hfV⟩ : ↥V) = ⟨(g : ↥K), hBaV _ g.2⟩ * ⟨((h : ↥K))⁻¹, hinvV h hh⟩ := by
+        apply Subtype.ext
+        show f = (g : ↥K) * ((h : ↥K))⁻¹
+        rw [← hfh, mul_assoc, mul_inv_cancel₀ (hne0 h hh), mul_one]
+      rw [this]
+      exact (maximalIdeal ↥V).mul_mem_right _ hgm
+    · exfalso
+      apply hnu
+      have hinvO : ((h : ↥K) * ((g : ↥K))⁻¹) ∈ O :=
+        ⟨h, g, hgQ, by rw [mul_assoc, inv_mul_cancel₀ (hne0 g hgQ), mul_one]⟩
+      refine IsUnit.of_mul_eq_one (a := (⟨f, hfO⟩ : ↥O)) ⟨_, hinvO⟩ (Subtype.ext ?_)
+      show f * ((h : ↥K) * ((g : ↥K))⁻¹) = 1
+      rw [← mul_assoc, hfh, mul_inv_cancel₀ (hne0 g hgQ)]
+
+end S_ModularCurve_FullLevel_AuxLevel_valuativeCover_ends_blowupChart_of_drinfeldChartWitness_linked
+end P2MW
+export P2MW.S_ModularCurve_FullLevel_AuxLevel_valuativeCover_ends_blowupChart_of_drinfeldChartWitness_linked (solution)

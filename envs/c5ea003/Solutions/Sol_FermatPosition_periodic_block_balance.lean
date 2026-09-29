@@ -1,0 +1,116 @@
+-- Prove2me | solution 1 for FermatPosition.periodic_block_balance
+-- status  : ACCEPTED   (prove)
+-- author  : @raver1975
+-- created : 2026-09-11T00:33:25.545071+00:00
+-- url     : https://prove2.me/submissions/252412ad-6c2e-434c-8a40-33fcb9f8e35d
+
+-- Sol generated from NumberTheory/FermatPositionDensity.lean
+import Mathlib
+import Definitions.Def_NumberTheory_FermatPositionDensity
+import Definitions.Def_NumberTheory_FermatPositionGeometry
+import Theorems.Thm_FermatPosition_posCount_add
+import Theorems.Thm_FermatPosition_window_card_eq_zmod
+/-
+# Densities of the two position carriers of the Fermat / quadratic-sieve polynomial
+
+Companion to `Catalog/NumberTheory/FermatPositionGeometry.lean`.
+
+That file isolated two magnitude-free ("beyond-magnitude") arithmetic mechanisms that
+could bias where the smooth values of `v(j) = (b + j)^2 - N` sit:
+
+* the **gcd carrier** `g(j) = gcd (j, v(0))`, which is *positionally uniform*
+  (`FermatPosition.gcd_carrier_window_card_indep`), so it enriches smoothness without
+  favouring any position; and
+* the **self-divisibility carrier** `j ∣ v(j) ↔ j ∣ v(0)`, whose density at position
+  `j` is exactly `1/j`.
+
+This file proves the quantitative half of the story.
+
+Main results.
+
+* `dvd_window_card_eq_one`, `card_filter_dvd` : exactly one multiple of `d` in every
+  window of `d` consecutive integers, hence exactly `t` in a window of length `d * t`;
+  the self-divisibility carrier has density exactly `1/j` at position `j`.
+* `harmonic_block_decline` : `∑_{K < j ≤ 2K} 1/j < ∑_{1 ≤ j ≤ K} 1/j` for `K ≥ 1`.
+* `divisor_positions_small_j_excess` : consequently, averaged over base values `v(0)`,
+  the expected number of positions `j ≤ K` with `j ∣ v(j)` **strictly exceeds** the
+  expected number in the next block `K < j ≤ 2K`.  A proved, magnitude-free, small-`j`
+  excess — the shape of the empirically observed monotone-declining deciles.
+* `sieveVal_sandwich` and `position_le_of_value_le` : the competing *magnitude* law,
+  `2 b j ≤ v(j) ≤ 2 b j + j² + 2 b`, so a bound on the value forces a bound on the
+  position (`j ≤ X / (2b)`).  This is what a positional test has to be controlled
+  against, and by `FermatPosition.cell_collapse` bit-length cells do not control it.
+-/
+
+open FermatPosition
+
+open Finset
+
+/-! ## Exact density of the self-divisibility carrier -/
+
+
+
+/-! ## The harmonic decline of the divisor-position profile -/
+
+
+
+
+/-! ## Discrepancy of local (periodic) carriers
+
+The general principle behind `FermatPosition.gcd_carrier_window_card_indep`: a carrier
+that is *local*, i.e. determined by the position modulo some fixed `T`, has a bounded
+discrepancy in every window.  It can never produce more than `T` excess hits between two
+consecutive blocks of equal length.  Contrapositively, an observed positional excess of
+`E` hits between consecutive equal blocks forces **every** local explanation to have
+modulus `T ≥ E`. -/
+
+
+
+theorem posCount_le (P : ℤ → Prop) [DecidablePred P] (a : ℤ) (L : ℕ) : posCount P a L ≤ L := by
+  unfold posCount
+  simpa using card_filter_le (range L) _
+
+/-- A `T`-periodic position predicate has exactly `m` times the per-period count in a
+window of `m` full periods, wherever the window starts. -/
+theorem posCount_period_mul (T : ℕ) [NeZero T] (P : ℤ → Prop) [DecidablePred P]
+    (Q : ZMod T → Prop) [DecidablePred Q] (hPQ : ∀ j : ℤ, P j ↔ Q (j : ZMod T)) (a : ℤ) (m : ℕ) :
+    posCount P a (T * m) = m * (univ.filter Q).card := by
+  induction m generalizing a with
+  | zero => simp [posCount]
+  | succ m ih =>
+    have h : T * (m + 1) = T + T * m := by ring
+    rw [h, posCount_add, ih (a + T)]
+    have hw : posCount P a T = (univ.filter Q).card := window_card_eq_zmod T P Q hPQ a
+    rw [hw]; ring
+
+/-- **Discrepancy bound for local carriers.**  For a `T`-periodic position predicate the
+count in any window of length `T * m + r` (`r < T`) lies in the interval
+`[m * c, m * c + T]`, where `c` is the per-period count: the count is pinned down up to
+an additive `T`, independently of where the window sits. -/
+theorem periodic_window_bounds (T : ℕ) [NeZero T] (P : ℤ → Prop) [DecidablePred P]
+    (Q : ZMod T → Prop) [DecidablePred Q] (hPQ : ∀ j : ℤ, P j ↔ Q (j : ZMod T)) (a : ℤ)
+    (m r : ℕ) (hr : r < T) :
+    m * (univ.filter Q).card ≤ posCount P a (T * m + r) ∧
+      posCount P a (T * m + r) ≤ m * (univ.filter Q).card + T := by
+  rw [posCount_add, posCount_period_mul T P Q hPQ]
+  have hle := posCount_le P (a + ((T * m : ℕ) : ℤ)) r
+  omega
+
+
+/-! ## The competing magnitude law -/
+
+
+
+
+
+
+
+
+open FermatPosition in
+theorem solution(T : ℕ) [NeZero T] (P : ℤ → Prop) [DecidablePred P]
+    (Q : ZMod T → Prop) [DecidablePred Q] (hPQ : ∀ j : ℤ, P j ↔ Q (j : ZMod T)) (a a' : ℤ)
+    (m r : ℕ) (hr : r < T) :
+    posCount P a (T * m + r) ≤ posCount P a' (T * m + r) + T := by
+  have h₁ := periodic_window_bounds T P Q hPQ a m r hr
+  have h₂ := periodic_window_bounds T P Q hPQ a' m r hr
+  omega

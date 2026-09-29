@@ -1,0 +1,433 @@
+-- Prove2me | solution 1 for ModularCurve.PlaceSpecialization.LevelOneProlongationPair.IsModel.exists_hasValue_of_mem_smoothLocalRingFst
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:10.583295+00:00
+-- url     : https://prove2.me/submissions/30419e5c-2da5-5f95-bdf8-77eebfbf5e4f
+
+import Mathlib
+import Definitions.Def_ModularCurve_SmoothPointLocalRing
+import Theorems.Thm_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_divisorLawFst_oneSided
+import Theorems.Thm_ModularCurve_isCurveOver_modularFunctionFieldBar
+import Theorems.Thm_ModularCurve_hasPrincipalDivisors_modularFunctionFieldBar_unconditional
+import Theorems.Thm_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_residue_algebraMap_eq_red
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst
+p2m_attr_erase "instance" "ModularCurve.PhiGen.instNeZeroPhiGenCosetA AlgebraicCurve.RationalFunctionField.instNontrivialSubtypeUnitsWithZeroMultiplicativeIntMemSubgroupValueGroupRatFuncValuationInftyValuation_definitions AlgebraicCurve.Place.instIsPrimeCenter AlgebraicCurve.Place.instIsFractionRingIntegralClosureAt AlgebraicCurve.Place.instIsTorsionFreeSubtypeMemValuationSubringToValuationSubringIntegralClosureAt AlgebraicCurve.Place.instIsDedekindDomainIntegralClosureAt AlgebraicCurve.Place.instFiniteSubtypeMemValuationSubringToValuationSubringIntegralClosureAt ModularCurve.instIsElliptic_tateLaurent ModularCurve.instIsElliptic_tateBase WeierstrassCurve.instIsEllipticBaseChange WeierstrassCurve.Univ.Affine.instAddGroupPointFieldBaseChangeMvPolynomialCoeffIntCurve WeierstrassCurve.Univ.instIsEllipticFieldPointedCurve WeierstrassCurve.Univ.instCommRingPoly ModularCurve.NodeLocalized.isLocalization_nodeDenominators ModularCurve.NodeLocalized.algebraEvalRange ModularCurve.NodeLocalized.isLocalRing_modularLocalizedAtPoint"
+p2m_attr_erase "simp" "ModularCurve.eisensteinNumerator_nineteen ModularCurve.eisensteinNumerator_seventeen ModularCurve.eisensteinNumerator_eleven ModularCurve.eisensteinNumerator_five ModularCurve.eisensteinNumerator_seven ModularCurve.eisensteinNumerator_twentythree ModularCurve.eisensteinNumerator_thirteen ModularCurve.constantCoeff_dedekindEtaUnitQ ModularForm.val_heckeDiagMatrix ModularForm.heckeU_zero ModularForm.heckeU_zero_left ModularForm.heckeT_zero ModularForm.val_heckeMatrix ModularForm.heckeMatrix_zero ModularForm.heckeT_zero_left ModularForm.heckeDiagMatrix_zero ModularForm.val_upperTriangularGL ModularCurve.evalAtJqN_X ModularCurve.qTwistFun_coeff ModularCurve.swapBivar_C_X ModularCurve.PhiGen.cosetA_succ ModularCurve.qTwist_coeff ModularCurve.PhiGen.cosetB_zero ModularCurve.PhiGen.cosetA_zero ModularCurve.qTwist_single ModularCurve.swapBivar_X ModularCurve.aeval_toRingHom_X ModularCurve.PhiGen.cosetB_succ AlgebraicCurve.RationalFunctionField.placeInfty_toValuationSubring AlgebraicCurve.RationalFunctionField.placeEquivOption_placeInfty AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_some AlgebraicCurve.RationalFunctionField.placeEquivOption_placeOfPoint AlgebraicCurve.RationalFunctionField.placeEquivOption_symm_none AlgebraicCurve.Divisor.evalFun_zero AlgebraicCurve.Place.evalAt_one AlgebraicCurve.mulAdele_apply AlgebraicCurve.residuePairing_apply_coe AlgebraicCurve.mem_adeleBdd AlgebraicCurve.weilSmul_one AlgebraicCurve.diagonalHom_apply"
+p2m_attr_erase "simp" "AlgebraicCurve.weilSmul_apply AlgebraicCurve.adeleSpaceMul_coe AlgebraicCurve.mulAdele_one AlgebraicCurve.TranscendenceTower.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.injEq AlgebraicCurve.TranscendenceTower.mk.injEq AlgebraicCurve.PoleDivisorPackage.mk.sizeOf_spec AlgebraicCurve.IntegralBasisInLSpace.mk.sizeOf_spec AlgebraicCurve.PoleDivisorPackage.mk.injEq AlgebraicCurve.Place.placeOfPrime_toValuationSubring AlgebraicCurve.Place.mem_fiberOver AlgebraicCurve.Place.fiberEquiv_symm_apply AlgebraicCurve.Place.fiberEquiv_apply AlgebraicCurve.Place.centerHeightOneSpectrum_asIdeal ModularCurve.coe_towerInclBar ModularCurve.coe_towerSubstBar ModularCurve.tateLaurent_a₆ ModularCurve.tatePowerSeries_a₄ ModularCurve.tatePowerSeries_a₆ ModularCurve.tateLaurent_a₄ ModularCurve.tatePowerSeries_a₁ ModularCurve.tatePowerSeries_a₂ ModularCurve.tatePowerSeries_a₃ ModularCurve.tateUnivCurve_a₂ ModularCurve.tateUnivCurve_a₃ ModularCurve.tateUnivCurve_a₆ ModularCurve.nonToricPoint_fst ModularCurve.toricPoint_snd ModularCurve.tateUnivCurve_a₁ ModularCurve.nonToricPoint_snd ModularCurve.tateUnivCurve_a₄ ModularCurve.toricPoint_fst TateCurve.curve_a₂ TateCurve.b_one TateCurve.curve_a₁ TateCurve.term_zero TateCurve.curve_a₆ TateCurve.curve_a₄ TateCurve.curve_a₃ TateCurve.yfun_zero"
+p2m_attr_erase "simp" "TateCurve.xfun_zero TateCurve.yTerm_zero TateCurve.xTerm_zero TateCurve.xCoeffFull_succ TateCurve.a₆Coeff_zero TateCurve.a₄Coeff_succ TateCurve.a₄Coeff_zero TateCurve.cauchyMul_zero TateCurve.a₆Coeff_succ TateCurve.yCoeffFull_succ TateCurve.xCoeffFull_zero TateCurve.yCoeffFull_zero TateCurve.cauchyMulInt_zero TateCurve.cauchyMulInt3_zero TateCurve.tent_one TateCurve.Gz_zero TateCurve.cauchyMulInt_one TateCurve.tent_zero TateCurve.Fz_zero FLT.DivisorConvolution.sigma_zero_right FLT.DivisorConvolution.sigma_one_right FLT.DivisorConvolution.sigmaConv_one FLT.DivisorConvolution.sigmaConv_zero compl₂EDSAux_neg_two compl₂EDSAux_zero WeierstrassCurve.ωe_zero WeierstrassCurve.Univ.pointedCurve_a₁ WeierstrassCurve.Univ.polyToField_polynomial WeierstrassCurve.Coeff.A₁.sizeOf_spec compl₂EDS_zero compl₂EDS_one WeierstrassCurve.Univ.Affine.smulY_zero Param.C.sizeOf_spec EllSequence.redInvarDenom_zero compl₂EDSAux_two compl₂EDSAux_neg_one compl₂EDSAux_one WeierstrassCurve.Coeff.A₆.sizeOf_spec WeierstrassCurve.ψc_neg WeierstrassCurve.Univ.Affine.smulY_one"
+p2m_attr_erase "simp" "WeierstrassCurve.Univ.Affine.smulX_one WeierstrassCurve.Coeff.A₂.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₄ compl₂EDS_neg WeierstrassCurve.Univ.pointedCurve_a₃ EllSequence.redInvarDenom_two WeierstrassCurve.Univ.pointedCurve_a₆ Param.D.sizeOf_spec WeierstrassCurve.ωe_one WeierstrassCurve.Univ.Affine.smulX_zero WeierstrassCurve.Coeff.A₃.sizeOf_spec EllSequence.redInvarDenom_one WeierstrassCurve.Coeff.A₄.sizeOf_spec WeierstrassCurve.Univ.pointedCurve_a₂ Param.B.sizeOf_spec compl₂EDS_two ModularCurve.NodeLocalized.coe_modularEvalAt ModularCurve.reductionDivAlong_apply ModularCurve.coe_reductionDegZeroAlong ModularCurve.coe_frobeniusModL ModularCurve.coe_frobeniusDegZeroPullbackModL ModularCurve.coe_frobeniusDegZeroPushforwardModL"
+set_option synthInstance.maxHeartbeats 1600000
+set_option maxHeartbeats 3200000
+
+p2m_open "AlgebraicCurve P2MW.S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst.AlgebraicCurve IsLocalRing ModularCurve P2MW.S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst.ModularCurve"
+
+set_option autoImplicit false
+
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Divisor IsCurveOver IsCurveOver.finiteResidue"
+p2m_open "AlgebraicCurve"
+namespace Place
+p2m_export "AlgebraicCurve.Place" "residue_algebraMap HasValue hasValue_algebraMap exists_isUnit_of_ord_eq_zero exists_hasValue_of_surjective ext ResidueField ord ord_mul ord_inv ord_coe_unit ord_unit_smul_zpow exists_unit_mul_zpow algebraMap_mem' toValuationSubring"
+p2m_open "AlgebraicCurve.Place"
+
+variable {K F : Type*} [Field K] [Field F] [Algebra K F] (v : Place K F)
+
+private theorem _root_.AlgebraicCurve.Place.ord_nonneg_of_mem_e15 {f : F} (hf : f ∈ v.toValuationSubring) : 0 ≤ v.ord f := by
+  rcases eq_or_ne f 0 with rfl | hf0
+  · simp
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible v.toValuationSubring
+  obtain ⟨n, u, hu⟩ :=
+    IsDiscreteValuationRing.eq_unit_mul_pow_irreducible
+      (x := (⟨f, hf⟩ : v.toValuationSubring)) (by simpa [Subtype.ext_iff] using hf0) hπ
+  have hcoe : f = ((u : v.toValuationSubring) : F) * ((π : F) ^ (n : ℤ)) := by
+    have h := congrArg (Subtype.val) hu
+    push_cast at h
+    rw [zpow_natCast]
+    exact h
+  rw [hcoe, v.ord_unit_smul_zpow u hπ (n : ℤ)]
+  exact Int.natCast_nonneg n
+
+p2m_export "AlgebraicCurve.Place" "ord_nonneg_of_mem_e15"
+
+private theorem _root_.AlgebraicCurve.Place.mem_of_ord_nonneg_e15 {f : F} (hf : f ≠ 0) (h : 0 ≤ v.ord f) :
+    f ∈ v.toValuationSubring := by
+  obtain ⟨π, hπ⟩ := IsDiscreteValuationRing.exists_irreducible v.toValuationSubring
+  obtain ⟨u, hu⟩ := v.exists_unit_mul_zpow hf hπ
+  rw [hu, show v.ord f = (((v.ord f).toNat : ℕ) : ℤ) from (Int.toNat_of_nonneg h).symm,
+    zpow_natCast]
+  exact mul_mem (u : v.toValuationSubring).2 (pow_mem (π : v.toValuationSubring).2 _)
+
+p2m_export "AlgebraicCurve.Place" "mem_of_ord_nonneg_e15"
+
+private theorem _root_.AlgebraicCurve.Place.ord_algebraMap_e15 (c : K) : v.ord (algebraMap K F c) = 0 := by
+  rcases eq_or_ne c 0 with rfl | hc
+  · simp
+  · exact (v.hasValue_algebraMap c).ord_eq_zero hc
+
+p2m_export "AlgebraicCurve.Place" "ord_algebraMap_e15"
+
+private theorem _root_.AlgebraicCurve.Place.ne_zero_of_ord_pos_e15 {f : F} (h : 0 < v.ord f) : f ≠ 0 := by
+  rintro rfl
+  simp at h
+
+p2m_export "AlgebraicCurve.Place" "ne_zero_of_ord_pos_e15"
+
+private theorem _root_.AlgebraicCurve.Place.isUnit_iff_ord_eq_zero_e15 {f : F} (hf : f ∈ v.toValuationSubring) (hf0 : f ≠ 0) :
+    IsUnit (⟨f, hf⟩ : v.toValuationSubring) ↔ v.ord f = 0 := by
+  constructor
+  · intro hu
+    have := v.ord_coe_unit hu.unit
+    rwa [IsUnit.unit_spec] at this
+  · intro h0
+    obtain ⟨hm, hu⟩ := v.exists_isUnit_of_ord_eq_zero hf0 h0
+    exact hu
+
+p2m_export "AlgebraicCurve.Place" "isUnit_iff_ord_eq_zero_e15"
+
+private theorem _root_.AlgebraicCurve.Place.hasValue_iff_eq_or_ord_sub_pos_e15 {g : F} (hg : g ∈ v.toValuationSubring) (c : K) :
+    v.HasValue g c ↔ g = algebraMap K F c ∨ 0 < v.ord (g - algebraMap K F c) := by
+  have hcm : algebraMap K F c ∈ v.toValuationSubring := v.algebraMap_mem' c
+  have hsub : g - algebraMap K F c ∈ v.toValuationSubring := sub_mem hg hcm
+
+  have key : v.HasValue g c ↔
+      IsLocalRing.residue v.toValuationSubring ⟨g - algebraMap K F c, hsub⟩ = 0 := by
+    have hx : (⟨g - algebraMap K F c, hsub⟩ : v.toValuationSubring) =
+        ⟨g, hg⟩ - algebraMap K v.toValuationSubring c := Subtype.ext (by simp)
+    rw [hx, map_sub, sub_eq_zero, v.residue_algebraMap c]
+    constructor
+    · intro h; exact h.residue_eq
+    · intro h; exact ⟨hg, h⟩
+  rw [key, IsLocalRing.residue_eq_zero_iff, IsLocalRing.mem_maximalIdeal, mem_nonunits_iff]
+  rcases eq_or_ne (g - algebraMap K F c) 0 with h0 | h0
+  · have hg' : g = algebraMap K F c := sub_eq_zero.mp h0
+    have hz : (⟨g - algebraMap K F c, hsub⟩ : v.toValuationSubring) = 0 := Subtype.ext h0
+    rw [hz]
+    exact ⟨fun _ => Or.inl hg', fun _ => not_isUnit_zero⟩
+  · rw [v.isUnit_iff_ord_eq_zero_e15 hsub h0]
+    have hnn := v.ord_nonneg_of_mem_e15 hsub
+    constructor
+    · intro hne
+      exact Or.inr (lt_of_le_of_ne hnn (Ne.symm hne))
+    · rintro (hEq | hpos)
+      · exact absurd (sub_eq_zero.mpr hEq) h0
+      · exact ne_of_gt hpos
+
+p2m_export "AlgebraicCurve.Place" "hasValue_iff_eq_or_ord_sub_pos_e15"
+
+theorem div_mem_of_ord_le_e15 {r t : F} (ht : t ≠ 0) (h : v.ord t ≤ v.ord r) :
+    r / t ∈ v.toValuationSubring := by
+  rcases eq_or_ne r 0 with rfl | hr
+  · simp
+  · apply v.mem_of_ord_nonneg_e15 (div_ne_zero hr ht)
+    rw [div_eq_mul_inv, v.ord_mul hr (inv_ne_zero ht), v.ord_inv]
+    omega
+
+theorem tExpansion_coeff_unique_e15 {t : F} (ht : 0 < v.ord t) (r : F) (c c' : ℕ → K)
+    (hc : ∀ m : ℕ, (r - ∑ i ∈ Finset.range m, algebraMap K F (c i) * t ^ i) / t ^ m ∈
+      v.toValuationSubring)
+    (hc' : ∀ m : ℕ, (r - ∑ i ∈ Finset.range m, algebraMap K F (c' i) * t ^ i) / t ^ m ∈
+      v.toValuationSubring) :
+    c = c' := by
+  classical
+  have ht0 : t ≠ 0 := v.ne_zero_of_ord_pos_e15 ht
+  by_contra hne
+  have hex : ∃ m, c m ≠ c' m := by
+    by_contra hall
+    exact hne (funext fun m => not_not.mp (not_exists.mp hall m))
+  obtain ⟨m, hm, hmin⟩ : ∃ m, c m ≠ c' m ∧ ∀ i < m, c i = c' i :=
+    ⟨Nat.find hex, Nat.find_spec hex, fun i hi => not_not.mp (Nat.find_min hex hi)⟩
+  set e : K := c m - c' m with he
+  have he0 : e ≠ 0 := sub_ne_zero.mpr hm
+
+  have hdiff : (r - ∑ i ∈ Finset.range (m + 1), algebraMap K F (c' i) * t ^ i) / t ^ (m + 1) -
+      (r - ∑ i ∈ Finset.range (m + 1), algebraMap K F (c i) * t ^ i) / t ^ (m + 1) =
+      algebraMap K F e / t := by
+    rw [← sub_div]
+    have hnum : (r - ∑ i ∈ Finset.range (m + 1), algebraMap K F (c' i) * t ^ i) -
+        (r - ∑ i ∈ Finset.range (m + 1), algebraMap K F (c i) * t ^ i) =
+        algebraMap K F e * t ^ m := by
+      have hs : ∑ i ∈ Finset.range (m + 1), algebraMap K F (c i) * t ^ i -
+          ∑ i ∈ Finset.range (m + 1), algebraMap K F (c' i) * t ^ i =
+          algebraMap K F e * t ^ m := by
+        rw [← Finset.sum_sub_distrib, Finset.sum_range_succ, Finset.sum_eq_zero, zero_add,
+          ← sub_mul, ← map_sub]
+        intro i hi
+        rw [Finset.mem_range] at hi
+        rw [hmin i hi, sub_self]
+      rw [← hs]; ring
+    rw [hnum, pow_succ, mul_comm (t ^ m) t, mul_div_mul_right _ _ (pow_ne_zero m ht0)]
+  have hmem : algebraMap K F e / t ∈ v.toValuationSubring := by
+    rw [← hdiff]; exact sub_mem (hc' (m + 1)) (hc (m + 1))
+  have hord : v.ord (algebraMap K F e / t) < 0 := by
+    have hae : algebraMap K F e ≠ 0 := (_root_.map_ne_zero _).mpr he0
+    rw [div_eq_mul_inv, v.ord_mul hae (inv_ne_zero ht0), v.ord_inv, v.ord_algebraMap_e15]
+    omega
+  exact absurd (v.ord_nonneg_of_mem_e15 hmem) (not_le.mpr hord)
+
+end Place
+end AlgebraicCurve
+
+namespace Subring p2m_export "Subring" "ext" end Subring
+namespace Subring
+p2m_open_scoped "Subring" in
+
+private theorem _root_.Subring.inv_mem_of_isUnit_e15 {F : Type*} [Field F] {S : Subring F} {t : F} (h : t ∈ S)
+    (hu : IsUnit (⟨t, h⟩ : S)) : t⁻¹ ∈ S := by
+  obtain ⟨u, hu⟩ := hu
+  have h1 : ((u⁻¹ : Sˣ) : S).val * t = 1 := by
+    have : ((u⁻¹ : Sˣ) : S) * (u : S) = 1 := Units.inv_mul u
+    rw [hu] at this
+    exact congrArg Subtype.val this
+  rw [← (eq_inv_of_mul_eq_one_left h1)]
+  exact SetLike.coe_mem _
+
+end Subring
+p2m_export "" "Subring.inv_mem_of_isUnit_e15"
+namespace ValuationSubring p2m_export "ValuationSubring" "ext zero_mem mem_nonunits_iff mul_mem one_mem mem_or_inv_mem add_mem valuation" end ValuationSubring
+namespace ValuationSubring
+p2m_open_scoped "ValuationSubring" in
+
+private theorem _root_.ValuationSubring.inv_mem_of_isUnit_e15 {F : Type*} [Field F] {S : ValuationSubring F} {t : F}
+    (h : t ∈ S) (hu : IsUnit (⟨t, h⟩ : S)) : t⁻¹ ∈ S := by
+  obtain ⟨u, hu⟩ := hu
+  have h1 : ((u⁻¹ : Sˣ) : S).val * t = 1 := by
+    have : ((u⁻¹ : Sˣ) : S) * (u : S) = 1 := Units.inv_mul u
+    rw [hu] at this
+    exact congrArg Subtype.val this
+  rw [← (eq_inv_of_mul_eq_one_left h1)]
+  exact SetLike.coe_mem _
+
+end ValuationSubring
+p2m_export "" "ValuationSubring.inv_mem_of_isUnit_e15"
+namespace AlgebraicCurve
+p2m_export "AlgebraicCurve" "Place Divisor IsCurveOver IsCurveOver.finiteResidue"
+p2m_open "AlgebraicCurve"
+namespace Place
+p2m_export "AlgebraicCurve.Place" "residue_algebraMap HasValue hasValue_algebraMap exists_isUnit_of_ord_eq_zero exists_hasValue_of_surjective ext ResidueField ord ord_mul ord_inv ord_coe_unit ord_unit_smul_zpow exists_unit_mul_zpow algebraMap_mem' toValuationSubring"
+p2m_open "AlgebraicCurve.Place"
+
+private theorem _root_.AlgebraicCurve.Place.hasValue_iff_mem_and_eq_or_ord_sub_pos_e15
+    {K L : Type*} [Field K] [Field L] [Algebra K L] (v : Place K L) (g : L) (c : K) :
+    v.HasValue g c ↔
+      g ∈ v.toValuationSubring ∧ (g = algebraMap K L c ∨ 0 < v.ord (g - algebraMap K L c)) := by
+  constructor
+  · intro h
+    exact ⟨h.mem, (v.hasValue_iff_eq_or_ord_sub_pos_e15 h.mem c).mp h⟩
+  · rintro ⟨hg, h⟩
+    exact (v.hasValue_iff_eq_or_ord_sub_pos_e15 hg c).mpr h
+p2m_export "AlgebraicCurve.Place" "hasValue_iff_mem_and_eq_or_ord_sub_pos_e15"
+end Place
+end AlgebraicCurve
+
+namespace ModularCurve
+p2m_export "ModularCurve" "PlaceSpecialization.LevelOneProlongationPair modularFunctionFieldBar ModularPolynomialData modularFunctionFieldC PlaceSpecialization HeckeAlphaBarIntegral HeckeBetaBarIntegral KroneckerCongruence isCurveOver_modularFunctionFieldBar hasPrincipalDivisors_modularFunctionFieldBar_unconditional"
+p2m_open "ModularCurve"
+namespace PlaceSpecialization
+p2m_export "ModularCurve.PlaceSpecialization" "LevelOneProlongationPair redFst IsStrictTypeOne sp"
+p2m_open "ModularCurve.PlaceSpecialization"
+namespace LevelOneProlongationPair
+p2m_export "ModularCurve.PlaceSpecialization.LevelOneProlongationPair" "smoothLocalRingFst mem_smoothLocalRingFst_iff residue₁ residue₁_apply IsModel R₁ redBar_residue divisorLawFst_oneSided residue_algebraMap_eq_red"
+p2m_open "ModularCurve.PlaceSpecialization.LevelOneProlongationPair"
+
+variable {q : ℕ} [Fact q.Prime] {A : ValuationSubring (AlgebraicClosure ℚ)}
+  {k : Type*} [Field k] [CharP k q] {red : A →+* k}
+  {data : ModularPolynomialData q} {hKr : KroneckerCongruence q data}
+  {hα : HeckeAlphaBarIntegral (AlgebraicClosure ℚ) 1 q}
+  {hβ : HeckeBetaBarIntegral (AlgebraicClosure ℚ) 1 q}
+  {P : PlaceSpecialization A q 1 data hKr k red hα hβ}
+
+set_option maxHeartbeats 6400000 in
+
+theorem one_le_ord_residue_fst_of_ord_pos_e15 {R : LevelOneProlongationPair P} (hR : R.IsModel)
+    {W : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q))} (hW : P.IsStrictTypeOne W)
+    (f : ↥(modularFunctionFieldBar (1 * q))) (hf1 : f ∈ R.R₁.integers) (hres : R.R₁.residue ⟨f, hf1⟩ ≠ 0)
+    (hnn : ∀ W' : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)),
+        P.IsStrictTypeOne W' → P.redFst W' = P.redFst W → 0 ≤ W'.ord f)
+    (hpos : 0 < W.ord f) : 1 ≤ (P.redFst W).ord (R.residue₁ ⟨f, hf1⟩) := by
+  classical
+  have hf0 : f ≠ 0 := W.ne_zero_of_ord_pos_e15 hpos
+  obtain ⟨D, hD, -⟩ :=
+    (hasPrincipalDivisors_modularFunctionFieldBar_unconditional (1 * q)).exists_divisor f hf0
+  have hlaw : Finsupp.mapDomain P.redFst (D.filter P.IsStrictTypeOne) (P.redFst W) =
+      (P.redFst W).ord (R.residue₁ ⟨f, hf1⟩) :=
+    R.divisorLawFst_oneSided f hf1 hres D hD (P.redFst W) hW.2
+  set x : Divisor (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) := D.filter P.IsStrictTypeOne
+    with hx
+  have hxapp : ∀ W', x W' = if P.IsStrictTypeOne W' then D W' else 0 := fun W' => by
+    rw [hx, Finsupp.filter_apply]
+  let g : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) → ℤ :=
+    fun W' => if P.redFst W' = P.redFst W then x W' else 0
+  have hgnn : ∀ W', 0 ≤ g W' := by
+    intro W'
+    show 0 ≤ (if P.redFst W' = P.redFst W then x W' else 0)
+    split_ifs with h1
+    · rw [hxapp]
+      split_ifs with h2
+      · rw [hD]; exact hnn W' h2 h1
+      · exact le_refl _
+    · exact le_refl _
+  have hsum : ∑ W' ∈ x.support, g W' = (P.redFst W).ord (R.residue₁ ⟨f, hf1⟩) := by
+    rw [← hlaw]
+    unfold Finsupp.mapDomain
+    rw [Finsupp.sum_apply, Finsupp.sum]
+    apply Finset.sum_congr rfl
+    intro W' _
+    simp only [g, Finsupp.single_apply]
+  have hxW : x W = W.ord f := by rw [hxapp, if_pos hW, hD]
+  have hWmem : W ∈ x.support := by rw [Finsupp.mem_support_iff, hxW]; exact ne_of_gt hpos
+  have hgW : g W = W.ord f := by
+    show (if P.redFst W = P.redFst W then x W else 0) = W.ord f
+    rw [if_pos rfl, hxW]
+  have h1 := Finset.single_le_sum (f := g) (s := x.support) (fun W' _ => hgnn W') hWmem
+  rw [hsum, hgW] at h1
+  omega
+
+set_option maxHeartbeats 6400000 in
+
+theorem value_mem_of_mem_smoothLocalRingFst_e15 {R : LevelOneProlongationPair P} (hR : R.IsModel)
+    {W : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q))} (hW : P.IsStrictTypeOne W)
+    (r : ↥(modularFunctionFieldBar (1 * q))) (h₁ : r ∈ R.R₁.integers)
+    (hr : r ∈ R.smoothLocalRingFst (P.redFst W)) (c₀ : AlgebraicClosure ℚ)
+    (hc₀ : W.HasValue r c₀) : c₀ ∈ A := by
+  classical
+  have hrW' : ∀ W' : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)),
+      P.IsStrictTypeOne W' → P.redFst W' = P.redFst W → r ∈ W'.toValuationSubring :=
+    fun W' h1 h2 => ((R.mem_smoothLocalRingFst_iff _ _).mp hr).2 W' h1 h2
+  by_contra hnot
+  have hc₀0 : c₀ ≠ 0 := by
+    rintro rfl; exact hnot A.zero_mem
+  have hεA : c₀⁻¹ ∈ A := (A.mem_or_inv_mem c₀).resolve_left hnot
+  set ε : A := ⟨c₀⁻¹, hεA⟩ with hε
+  have hεm : ε ∈ IsLocalRing.maximalIdeal A := by
+    rw [IsLocalRing.mem_maximalIdeal, mem_nonunits_iff]
+    intro hu
+    apply hnot
+    have h := ValuationSubring.inv_mem_of_isUnit_e15 hεA hu
+    rwa [inv_inv] at h
+  have hredε : red ε = 0 := by
+    rw [← R.redBar_residue ε, (IsLocalRing.residue_eq_zero_iff ε).mpr hεm, map_zero]
+  have hcε : algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (ε : AlgebraicClosure ℚ) ∈
+      R.R₁.integers := (R.R₁.algebraMap_mem_iff _).mpr ε.2
+  have hg1 : algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (ε : AlgebraicClosure ℚ) * r - 1 ∈
+      R.R₁.integers := sub_mem (mul_mem hcε h₁) (one_mem _)
+  have hgsub : (⟨_, hg1⟩ : R.R₁.integers) = ⟨_, hcε⟩ * ⟨r, h₁⟩ - 1 := rfl
+  have hresg : R.residue₁ ⟨_, hg1⟩ = -1 := by
+    rw [hgsub, map_sub, map_mul, map_one, R.residue_algebraMap_eq_red ε hcε, hredε, map_zero, zero_mul,
+      zero_sub]
+  have hresg' : R.R₁.residue ⟨_, hg1⟩ ≠ 0 := by
+    intro h0
+    have : R.residue₁ ⟨_, hg1⟩ = 0 := by rw [residue₁_apply, h0, map_zero]
+    rw [hresg] at this
+    exact (neg_ne_zero.mpr one_ne_zero) this
+  have hordg : (P.redFst W).ord (R.residue₁ ⟨_, hg1⟩) = 0 := by
+    rw [hresg, show (-1 : ↥(modularFunctionFieldC k 1)) = algebraMap k ↥(modularFunctionFieldC k 1) (-1) by
+      rw [map_neg, map_one]]
+    exact (P.redFst W).ord_algebraMap_e15 (-1)
+  have hnng : ∀ W' : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)),
+      P.IsStrictTypeOne W' → P.redFst W' = P.redFst W →
+        0 ≤ W'.ord (algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (ε : AlgebraicClosure ℚ) * r - 1) :=
+    fun W' h1 h2 => W'.ord_nonneg_of_mem_e15
+      (sub_mem (mul_mem (W'.algebraMap_mem' _) (hrW' W' h1 h2)) (one_mem _))
+  have hval1 : W.HasValue (algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q))
+      (ε : AlgebraicClosure ℚ) * r) 1 := by
+    have h := (W.hasValue_algebraMap (ε : AlgebraicClosure ℚ)).mul hc₀
+    rwa [show (ε : AlgebraicClosure ℚ) * c₀ = 1 from inv_mul_cancel₀ hc₀0] at h
+  have hposg : 0 < W.ord (algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q))
+      (ε : AlgebraicClosure ℚ) * r - 1) := by
+    rcases (W.hasValue_iff_eq_or_ord_sub_pos_e15 hval1.mem 1).mp hval1 with hEq | hpos
+    · exfalso
+      apply hresg'
+      have h0 : algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (ε : AlgebraicClosure ℚ) * r - 1 = 0 := by
+        rw [map_one] at hEq; rw [hEq, sub_self]
+      have : (⟨_, hg1⟩ : R.R₁.integers) = 0 := Subtype.ext h0
+      rw [this, map_zero]
+    · rwa [map_one] at hpos
+  have h := one_le_ord_residue_fst_of_ord_pos_e15 hR hW _ hg1 hresg' hnng hposg
+  rw [hordg] at h
+  omega
+
+end LevelOneProlongationPair
+end PlaceSpecialization
+end ModularCurve
+
+set_option maxHeartbeats 6400000 in
+open _root_.ModularCurve _root_.P2MW.S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst.ModularCurve _root_.ModularCurve.PlaceSpecialization _root_.P2MW.S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst.ModularCurve.PlaceSpecialization _root_.ModularCurve.PlaceSpecialization.LevelOneProlongationPair _root_.P2MW.S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst.ModularCurve.PlaceSpecialization.LevelOneProlongationPair in
+
+theorem solution
+    {q : ℕ} [Fact q.Prime] {A : ValuationSubring (AlgebraicClosure ℚ)}
+    {k : Type*} [Field k] [CharP k q] {red : A →+* k}
+    {data : ModularPolynomialData q} {hKr : KroneckerCongruence q data}
+    {hα : HeckeAlphaBarIntegral (AlgebraicClosure ℚ) 1 q} {hβ : HeckeBetaBarIntegral (AlgebraicClosure ℚ) 1 q}
+    {P : PlaceSpecialization A q 1 data hKr k red hα hβ}
+    {R : P.LevelOneProlongationPair} (hR : R.IsModel)
+    {W : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q))} (hW : P.IsStrictTypeOne W)
+    (r : ↥(modularFunctionFieldBar (1 * q))) (h₁ : r ∈ R.R₁.integers)
+    (hr : r ∈ R.smoothLocalRingFst (P.redFst W)) :
+    ∃ c : A, W.HasValue r (c : AlgebraicClosure ℚ) ∧
+      (P.redFst W).HasValue (R.residue₁ ⟨r, h₁⟩) (red c) := by
+  classical
+  have hrW : r ∈ W.toValuationSubring := ((R.mem_smoothLocalRingFst_iff _ _).mp hr).2 W hW rfl
+  have hrW' : ∀ W' : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)),
+      P.IsStrictTypeOne W' → P.redFst W' = P.redFst W → r ∈ W'.toValuationSubring :=
+    fun W' h1 h2 => ((R.mem_smoothLocalRingFst_iff _ _).mp hr).2 W' h1 h2
+
+  haveI := isCurveOver_modularFunctionFieldBar (1 * q)
+  haveI : Module.Finite (AlgebraicClosure ℚ) W.ResidueField := IsCurveOver.finiteResidue W
+  haveI : Algebra.IsIntegral (AlgebraicClosure ℚ) W.ResidueField := Algebra.IsIntegral.of_finite _ _
+  have hrat : Function.Surjective (algebraMap (AlgebraicClosure ℚ) W.ResidueField) :=
+    (IsAlgClosed.algebraMap_bijective_of_isIntegral (k := AlgebraicClosure ℚ) (K := W.ResidueField)).2
+  obtain ⟨c₀, hc₀, -⟩ := W.exists_hasValue_of_surjective hrat hrW
+
+  have hc₀A : c₀ ∈ A := value_mem_of_mem_smoothLocalRingFst_e15 hR hW r h₁ hr c₀ hc₀
+  obtain ⟨c, hc⟩ : ∃ c : A, (c : AlgebraicClosure ℚ) = c₀ := ⟨⟨c₀, hc₀A⟩, rfl⟩
+  subst hc
+  refine ⟨c, hc₀, ?_⟩
+
+  have hcR : algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (c : AlgebraicClosure ℚ) ∈
+      R.R₁.integers := (R.R₁.algebraMap_mem_iff _).mpr c.2
+  have hs1 : r - algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (c : AlgebraicClosure ℚ) ∈
+      R.R₁.integers := sub_mem h₁ hcR
+  have hssub : (⟨_, hs1⟩ : R.R₁.integers) = ⟨r, h₁⟩ - ⟨_, hcR⟩ := rfl
+  have hress : R.residue₁ ⟨_, hs1⟩ = R.residue₁ ⟨r, h₁⟩ - algebraMap k ↥(modularFunctionFieldC k 1) (red c) := by
+    rw [hssub, map_sub, R.residue_algebraMap_eq_red c hcR]
+  by_cases hz : R.residue₁ ⟨_, hs1⟩ = 0
+  · have h : R.residue₁ ⟨r, h₁⟩ = algebraMap k ↥(modularFunctionFieldC k 1) (red c) := by
+      rw [hress] at hz; exact sub_eq_zero.mp hz
+    rw [h]
+    exact (P.redFst W).hasValue_algebraMap (red c)
+  · have hres' : R.R₁.residue ⟨_, hs1⟩ ≠ 0 := fun h0 => hz (by rw [residue₁_apply, h0, map_zero])
+    have hnn : ∀ W' : Place (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)),
+        P.IsStrictTypeOne W' → P.redFst W' = P.redFst W →
+          0 ≤ W'.ord (r - algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (c : AlgebraicClosure ℚ)) :=
+      fun W' h1 h2 => W'.ord_nonneg_of_mem_e15 (sub_mem (hrW' W' h1 h2) (W'.algebraMap_mem' _))
+    have hpos : 0 < W.ord (r - algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q))
+        (c : AlgebraicClosure ℚ)) := by
+      rcases (W.hasValue_iff_eq_or_ord_sub_pos_e15 hrW (c : AlgebraicClosure ℚ)).mp hc₀ with hEq | hpos
+      · exfalso
+        apply hz
+        have h0 : r - algebraMap (AlgebraicClosure ℚ) ↥(modularFunctionFieldBar (1 * q)) (c : AlgebraicClosure ℚ) = 0 := by
+          rw [hEq, sub_self]
+        have : (⟨_, hs1⟩ : R.R₁.integers) = 0 := Subtype.ext h0
+        rw [this, map_zero]
+      · exact hpos
+    have h1 := one_le_ord_residue_fst_of_ord_pos_e15 hR hW _ hs1 hres' hnn hpos
+    rw [hress] at h1
+    have hpos' : 0 < (P.redFst W).ord (R.residue₁ ⟨r, h₁⟩ - algebraMap k ↥(modularFunctionFieldC k 1) (red c)) := by
+      omega
+    rw [(P.redFst W).hasValue_iff_mem_and_eq_or_ord_sub_pos_e15]
+    refine ⟨?_, Or.inr hpos'⟩
+    have hm : R.residue₁ ⟨r, h₁⟩ - algebraMap k ↥(modularFunctionFieldC k 1) (red c) ∈
+        (P.redFst W).toValuationSubring :=
+      (P.redFst W).mem_of_ord_nonneg_e15 ((P.redFst W).ne_zero_of_ord_pos_e15 hpos') hpos'.le
+    have h := add_mem hm ((P.redFst W).algebraMap_mem' (red c))
+    simpa using h
+
+end S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst
+end P2MW
+export P2MW.S_ModularCurve_PlaceSpecialization_LevelOneProlongationPair_IsModel_exists_hasValue_of_mem_smoothLocalRingFst (solution)

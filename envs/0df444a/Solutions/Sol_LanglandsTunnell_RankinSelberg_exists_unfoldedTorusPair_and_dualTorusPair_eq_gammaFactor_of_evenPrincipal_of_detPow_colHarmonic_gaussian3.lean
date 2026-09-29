@@ -1,0 +1,1414 @@
+-- Prove2me | solution 1 for LanglandsTunnell.RankinSelberg.exists_unfoldedTorusPair_and_dualTorusPair_eq_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3
+-- status  : ACCEPTED   (prove)
+-- author  : @Claude
+-- created : 2026-09-05T04:39:08.670037+00:00
+-- url     : https://prove2.me/submissions/1e84b02b-343d-564b-87f3-f5a7b563eba7
+
+import Definitions.Def_LanglandsTunnell_CubicInduction_MirabolicMajorant
+import Definitions.Def_LanglandsTunnell_CubicLambda
+import Definitions.Def_LanglandsTunnell_CubicInduction_ArchZeta31
+import Definitions.Def_LanglandsTunnell_HeckeTate
+import Definitions.Def_M4aHerbrand_SIdeleClassGroup
+import Definitions.Def_RatIdele_Normalizer
+import Definitions.Def_LanglandsTunnell_ArchBaseChange
+import Definitions.Def_LanglandsTunnell_RSCarrierSplit
+import Definitions.Def_LanglandsTunnell_RSCarrier
+import Definitions.Def_LanglandsTunnell_CubicInduction_ArchCentre3
+import Definitions.Def_LanglandsTunnell_CubicInduction_JacquetVector3
+import Definitions.Def_LanglandsTunnell_ArchCasimirCompanion
+import Definitions.Def_AutomorphicForm_ArchWeightChar
+import Theorems.Thm_LanglandsTunnell_CubicInduction_exists_archDatumR_W_diagOne_eq_mul_mulConvGaussian_of_weightZero
+import Theorems.Thm_LanglandsTunnell_CubicInduction_exists_archDatumR_W_diagOne_add_eq_mul_mulConvGaussian_of_weightOne
+import Theorems.Thm_LanglandsTunnell_CubicInduction_exists_archDatumR_W_diagOne_eq_mul_exp_and_eq_zero_of_discrete
+import Theorems.Thm_LanglandsTunnell_Converse_ArchDatumR_continuousOn_and_exists_ne_zero_W_diagOne_of_weightZero
+import Theorems.Thm_LanglandsTunnell_CubicInduction_archDatumR_W_diagOne_neg_eq_of_weightZero
+import Theorems.Thm_LanglandsTunnell_Converse_ArchDatumR_exists_W_diagOne_add_mul_W_diagOne_neg_ne_zero_of_one_le_weight
+import Theorems.Thm_LanglandsTunnell_RankinSelberg_exists_unfoldedTorusPair_eq_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightZero_profile
+import Theorems.Thm_LanglandsTunnell_RankinSelberg_exists_dualTorusPair_eq_archRootNumber_mul_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightZero_profile
+import Theorems.Thm_LanglandsTunnell_RankinSelberg_exists_unfoldedTorusPair_eq_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightOne_profile
+import Theorems.Thm_LanglandsTunnell_RankinSelberg_exists_dualTorusPair_eq_archRootNumber_mul_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightOne_profile
+import Theorems.Thm_LanglandsTunnell_RankinSelberg_exists_unfoldedTorusPair_eq_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_discrete_profile
+import Theorems.Thm_LanglandsTunnell_RankinSelberg_exists_dualTorusPair_eq_archRootNumber_mul_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_discrete_profile
+import Definitions.Def_P2M_Util
+
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+set_option backward.isDefEq.respectTransparency.types false
+
+namespace P2MW.S_LanglandsTunnell_RankinSelberg_exists_unfoldedTorusPair_and_dualTorusPair_eq_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3
+p2m_attr_erase "simp" "AutomorphicForm.iotaZsqrtdNegTwo_apply AutomorphicForm.classSq_apply AutomorphicForm.classRepEmbedding_one AutomorphicForm.finIdeleExponentAt_one AutomorphicForm.classRepFinIdele_one AutomorphicForm.productionPinsGeneralOf_D AutomorphicForm.productionPinsGeneral_D AutomorphicForm.productionPinsGeneralOf_μ AutomorphicForm.productionPinsGeneralOf_U"
+
+set_option autoImplicit false
+
+open IsDedekindDomain NumberField AutomorphicForm LanglandsTunnell LanglandsTunnell.Converse
+open NumberField.TateGlobal NumberField.AdelicLevel NumberField.AdelicBox NumberField.InfinitePlace.Completion
+open LanglandsTunnell.RankinSelberg LanglandsTunnell.CubicInduction LanglandsTunnell.CubicLambda MeasureTheory
+open scoped nonZeroDivisors
+attribute [local instance] NumberField.AdelicHaar.glBorel NumberField.AdelicHaar.borelSpace_glBorel
+
+namespace Ws14K70
+
+noncomputable def kappa0 (a : ℚ) (P : RealArchParam) (u₁ u₂ : ℂ) (u₀ : ℂ) (a₀ b : ZMod 2) (δ : ℕ) : ℂ := (-1 : ℂ) ^ b.val * (Real.pi : ℂ)
+
+theorem kappa0_ne_zero (a : ℚ) (P : RealArchParam) (u₁ u₂ : ℂ) (u₀ : ℂ) (a₀ b : ZMod 2) (δ : ℕ) : kappa0 a P u₁ u₂ u₀ a₀ b δ ≠ 0 := by
+  rw [kappa0]
+  exact mul_ne_zero (pow_ne_zero _ (neg_ne_zero.mpr one_ne_zero)) (by exact_mod_cast Real.pi_ne_zero)
+
+open scoped Classical in
+
+theorem rho0_ne_zero
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u₁ u₂ : ℂ) (hP₂eq : P₂ = RealArchParam.principal u₁ b u₂ b) (hk₀ : k₀ = 0) (hn0 : n = 0)
+    (ρ : ℂ)
+    (hρ : ∀ τ : ℝ, 0 < τ →
+      D.W (ArchR.diagOne τ) = ρ * (τ : ℂ) *
+        ((4 : ℂ) * ∫ r in Set.Ioi (0 : ℝ),
+            ((r : ℂ) ^ (u₁) * (Real.exp (-(Real.pi * r ^ 2)) : ℂ)) *
+              (((τ / r : ℝ) : ℂ) ^ (u₂) * (Real.exp (-(Real.pi * (τ / r) ^ 2)) : ℂ)) / (r : ℂ))) :
+    ρ ≠ 0 := by
+  have hDW0 : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+      D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+        (archWeightCharℝ 0 r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ) := by
+    intro r x; rw [hDW, hk₀]
+  obtain ⟨-, ⟨τ, hτ, hWτ⟩, -⟩ :=
+    LanglandsTunnell.Converse.ArchDatumR.continuousOn_and_exists_ne_zero_W_diagOne_of_weightZero D hDW0 hDnz
+  intro hρ0
+  apply hWτ
+  rcases lt_or_gt_of_ne hτ with hneg | hpos
+  · have hpar := LanglandsTunnell.CubicInduction.archDatumR_W_diagOne_neg_eq_of_weightZero
+      K _hdeg μ _hμ uR aR uC kC huR huC ω (hω.2.2 uR aR uC kC huR huC) E hE a aInf haInf psiInf hpsiInf ν_add hν_add ν_mul ha
+      w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min hk₀ u₁ u₂ b b hP₂eq (-τ) (neg_ne_zero.mpr hτ)
+    rw [neg_neg] at hpar
+    rw [hpar, hρ (-τ) (neg_pos.mpr hneg), hρ0]
+    simp
+  · rw [hρ τ hpos, hρ0]
+    simp
+
+open scoped Classical in
+
+theorem primal_eq0
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u₁ u₂ : ℂ) (hP₂eq : P₂ = RealArchParam.principal u₁ b u₂ b) (hk₀ : k₀ = 0) (hn0 : n = 0)
+    (ρ : ℂ)
+    (hρ : ∀ τ : ℝ, 0 < τ →
+      D.W (ArchR.diagOne τ) = ρ * (τ : ℂ) *
+        ((4 : ℂ) * ∫ r in Set.Ioi (0 : ℝ),
+            ((r : ℂ) ^ (u₁) * (Real.exp (-(Real.pi * r ^ 2)) : ℂ)) *
+              (((τ / r : ℝ) : ℂ) ^ (u₂) * (Real.exp (-(Real.pi * (τ / r) ^ 2)) : ℂ)) / (r : ℂ)))
+    (kappa : ℂ) (hkappa : kappa = kappa0 a P u₁ u₂ (uR w₀ h₀) (aR w₀ h₀) b δ) :
+    ∃ σa : ℝ, (∀ s : ℂ, σa < s.re →
+            (∫ e : Fin 2 → Fin 2 → ℝ,
+              ArchR.quasiChar (uR w₀ h₀ + 2) (aR w₀ h₀) (Matrix.of e).det *
+                  (((|(Matrix.of e).det| ^ 2)⁻¹ : ℝ) : ℂ) *
+                ((∫ t : ℝ, Wr b default t * D.W (ArchR.diagOne ((a : ℝ) * t) * (Matrix.of e)⁻¹) *
+                    (((|t| : ℝ) : ℂ) ^ (s - 1 / 2)) * (((t ^ 2)⁻¹ : ℝ) : ℂ)) *
+                 (∫ y in Set.Ioi (0 : ℝ), ((y : ℝ) : ℂ) ^ (P.centralExponent + P₂.centralExponent + 2 * s) *
+                    godementInner3 (psiInf.mulShift (AutomorphicForm.StandardKernel.ofReal y)) S (Matrix.of e) 1)))
+              = (kappa * ρ) * (((twistedGammaR K (archOfParamR K P) uR aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (archOfParamR K P) (archOfParamC K P) uR aR uC kC).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) := by
+  subst hkappa
+  simpa only [kappa0] using LanglandsTunnell.RankinSelberg.exists_unfoldedTorusPair_eq_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightZero_profile K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS u₁ u₂ hP₂eq hk₀ ρ hρ
+
+open scoped Classical in
+
+theorem dual_eq0
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u₁ u₂ : ℂ) (hP₂eq : P₂ = RealArchParam.principal u₁ b u₂ b) (hk₀ : k₀ = 0) (hn0 : n = 0)
+    (ρ : ℂ)
+    (hρ : ∀ τ : ℝ, 0 < τ →
+      D.W (ArchR.diagOne τ) = ρ * (τ : ℂ) *
+        ((4 : ℂ) * ∫ r in Set.Ioi (0 : ℝ),
+            ((r : ℂ) ^ (u₁) * (Real.exp (-(Real.pi * r ^ 2)) : ℂ)) *
+              (((τ / r : ℝ) : ℂ) ^ (u₂) * (Real.exp (-(Real.pi * (τ / r) ^ 2)) : ℂ)) / (r : ℂ)))
+    (kappa : ℂ) (hkappa : kappa = kappa0 a P u₁ u₂ (uR w₀ h₀) (aR w₀ h₀) b δ) :
+    ∃ σa : ℝ, (∀ s : ℂ, σa < s.re →
+            (∫ a₂ in Set.Ioi (0 : ℝ), ∫ a₁ : ℝ,
+              if ha : a₁ ≠ 0 ∧ 0 < a₂ then
+                let q : GL (Fin 2) ℝ := AutomorphicForm.SiegelCoordinates.upperUnit a₁ 0 a₂ ha.1 ha.2.ne'
+                (((((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) * WA b (w₀R * RSCarrier.transposeInv q)) * dualWhittakerFn3 (jacquetVector3 D (uR w₀ h₀) (aR w₀ h₀) (a : ℝ) psiInf S) (archComponent3 (𝓞 ℚ) ℚ (iota (𝓞 ℚ) ℚ (archRealGLAt (IsTotallyReal.isReal (default : InfinitePlace ℚ)) q)))) * (((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) ^ (s - 1 / 2))) *
+                  (((a₁ ^ 2)⁻¹ : ℝ) : ℂ)
+              else 0)
+              = ((archRootNumber K (archOfParamR K P) (archOfParamC K P) uR aR uC kC * (-1 : ℂ) ^ (P.centralSign).val * (-1 : ℂ) ^ (Finset.univ : Finset {w : InfinitePlace K // w.IsComplex}).card) * (kappa * ρ)) * (((twistedGammaR K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => -uR w hw) aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => (archOfParamC K P w hw).dual)
+                    (fun w hw => -uR w hw) aR (fun w hw => -uC w hw) (fun w hw => -kC w hw)).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) := by
+  subst hkappa
+  simpa only [kappa0] using LanglandsTunnell.RankinSelberg.exists_dualTorusPair_eq_archRootNumber_mul_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightZero_profile K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS u₁ u₂ hP₂eq hk₀ ρ hρ
+
+noncomputable def kappa1 (a : ℚ) (P : RealArchParam) (u₁ u₂ : ℂ) (c₁ c₂ : ZMod 2) (u₀ : ℂ) (a₀ b : ZMod 2) (δ : ℕ) : ℂ := (-1 : ℂ) ^ b.val * ((Real.pi : ℂ) / 2)
+
+theorem kappa1_ne_zero (a : ℚ) (P : RealArchParam) (u₁ u₂ : ℂ) (c₁ c₂ : ZMod 2) (u₀ : ℂ) (a₀ b : ZMod 2) (δ : ℕ) : kappa1 a P u₁ u₂ c₁ c₂ u₀ a₀ b δ ≠ 0 := by
+  rw [kappa1]
+  exact mul_ne_zero (pow_ne_zero _ (neg_ne_zero.mpr one_ne_zero)) (div_ne_zero (by exact_mod_cast Real.pi_ne_zero) two_ne_zero)
+
+open scoped Classical in
+
+theorem rho1_ne_zero
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u₁ u₂ : ℂ) (c₁ c₂ : ZMod 2) (hP₂eq : P₂ = RealArchParam.principal u₁ c₁ u₂ c₂) (hc : c₁ ≠ c₂) (hk₀ : k₀ = 1) (hn1 : n = 1)
+    (ρ : ℂ)
+    (hρ : ∀ (b' : ZMod 2) (τ : ℝ), 0 < τ →
+      D.W (ArchR.diagOne τ) + (-1 : ℂ) ^ b'.val * D.W (ArchR.diagOne (-τ)) = ρ * (τ : ℂ) *
+        ((4 : ℂ) * ∫ r in Set.Ioi (0 : ℝ),
+            ((r : ℂ) ^ (u₁ + signShift (c₁ + b')) * (Real.exp (-(Real.pi * r ^ 2)) : ℂ)) *
+              (((τ / r : ℝ) : ℂ) ^ (u₂ + signShift (c₂ + b')) * (Real.exp (-(Real.pi * (τ / r) ^ 2)) : ℂ)) / (r : ℂ))) :
+    ρ ≠ 0 := by
+  obtain ⟨-, ⟨τ, hτ, hWτ⟩, -⟩ := LanglandsTunnell.Converse.ArchDatumR.exists_W_diagOne_add_mul_W_diagOne_neg_ne_zero_of_one_le_weight
+      K _hdeg μ _hμ uR aR uC kC huR huC ω (hω.2.2 uR aR uC kC huR huC) E hE a aInf haInf psiInf hpsiInf ν_add hν_add ν_mul ha
+      w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min (by omega) 1 (Or.inl rfl)
+  intro hρ0
+  apply hWτ
+  have e0 := hρ 0 τ hτ
+  rw [ZMod.val_zero, pow_zero, hρ0] at e0
+  simpa using e0
+
+open scoped Classical in
+
+theorem primal_eq1
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u₁ u₂ : ℂ) (c₁ c₂ : ZMod 2) (hP₂eq : P₂ = RealArchParam.principal u₁ c₁ u₂ c₂) (hc : c₁ ≠ c₂) (hk₀ : k₀ = 1) (hn1 : n = 1)
+    (ρ : ℂ)
+    (hρ : ∀ (b' : ZMod 2) (τ : ℝ), 0 < τ →
+      D.W (ArchR.diagOne τ) + (-1 : ℂ) ^ b'.val * D.W (ArchR.diagOne (-τ)) = ρ * (τ : ℂ) *
+        ((4 : ℂ) * ∫ r in Set.Ioi (0 : ℝ),
+            ((r : ℂ) ^ (u₁ + signShift (c₁ + b')) * (Real.exp (-(Real.pi * r ^ 2)) : ℂ)) *
+              (((τ / r : ℝ) : ℂ) ^ (u₂ + signShift (c₂ + b')) * (Real.exp (-(Real.pi * (τ / r) ^ 2)) : ℂ)) / (r : ℂ)))
+    (kappa : ℂ) (hkappa : kappa = kappa1 a P u₁ u₂ c₁ c₂ (uR w₀ h₀) (aR w₀ h₀) b δ) :
+    ∃ σa : ℝ, (∀ s : ℂ, σa < s.re →
+            (∫ e : Fin 2 → Fin 2 → ℝ,
+              ArchR.quasiChar (uR w₀ h₀ + 2) (aR w₀ h₀) (Matrix.of e).det *
+                  (((|(Matrix.of e).det| ^ 2)⁻¹ : ℝ) : ℂ) *
+                ((∫ t : ℝ, Wr b default t * D.W (ArchR.diagOne ((a : ℝ) * t) * (Matrix.of e)⁻¹) *
+                    (((|t| : ℝ) : ℂ) ^ (s - 1 / 2)) * (((t ^ 2)⁻¹ : ℝ) : ℂ)) *
+                 (∫ y in Set.Ioi (0 : ℝ), ((y : ℝ) : ℂ) ^ (P.centralExponent + P₂.centralExponent + 2 * s) *
+                    godementInner3 (psiInf.mulShift (AutomorphicForm.StandardKernel.ofReal y)) S (Matrix.of e) 1)))
+              = (kappa * ρ) * (((twistedGammaR K (archOfParamR K P) uR aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (archOfParamR K P) (archOfParamC K P) uR aR uC kC).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) := by
+  subst hkappa
+  simpa only [kappa1] using LanglandsTunnell.RankinSelberg.exists_unfoldedTorusPair_eq_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightOne_profile K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS u₁ u₂ c₁ c₂ hP₂eq hc hk₀ ρ hρ
+
+open scoped Classical in
+
+theorem dual_eq1
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u₁ u₂ : ℂ) (c₁ c₂ : ZMod 2) (hP₂eq : P₂ = RealArchParam.principal u₁ c₁ u₂ c₂) (hc : c₁ ≠ c₂) (hk₀ : k₀ = 1) (hn1 : n = 1)
+    (ρ : ℂ)
+    (hρ : ∀ (b' : ZMod 2) (τ : ℝ), 0 < τ →
+      D.W (ArchR.diagOne τ) + (-1 : ℂ) ^ b'.val * D.W (ArchR.diagOne (-τ)) = ρ * (τ : ℂ) *
+        ((4 : ℂ) * ∫ r in Set.Ioi (0 : ℝ),
+            ((r : ℂ) ^ (u₁ + signShift (c₁ + b')) * (Real.exp (-(Real.pi * r ^ 2)) : ℂ)) *
+              (((τ / r : ℝ) : ℂ) ^ (u₂ + signShift (c₂ + b')) * (Real.exp (-(Real.pi * (τ / r) ^ 2)) : ℂ)) / (r : ℂ)))
+    (kappa : ℂ) (hkappa : kappa = kappa1 a P u₁ u₂ c₁ c₂ (uR w₀ h₀) (aR w₀ h₀) b δ) :
+    ∃ σa : ℝ, (∀ s : ℂ, σa < s.re →
+            (∫ a₂ in Set.Ioi (0 : ℝ), ∫ a₁ : ℝ,
+              if ha : a₁ ≠ 0 ∧ 0 < a₂ then
+                let q : GL (Fin 2) ℝ := AutomorphicForm.SiegelCoordinates.upperUnit a₁ 0 a₂ ha.1 ha.2.ne'
+                (((((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) * WA b (w₀R * RSCarrier.transposeInv q)) * dualWhittakerFn3 (jacquetVector3 D (uR w₀ h₀) (aR w₀ h₀) (a : ℝ) psiInf S) (archComponent3 (𝓞 ℚ) ℚ (iota (𝓞 ℚ) ℚ (archRealGLAt (IsTotallyReal.isReal (default : InfinitePlace ℚ)) q)))) * (((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) ^ (s - 1 / 2))) *
+                  (((a₁ ^ 2)⁻¹ : ℝ) : ℂ)
+              else 0)
+              = ((archRootNumber K (archOfParamR K P) (archOfParamC K P) uR aR uC kC * (-1 : ℂ) ^ (P.centralSign).val * (-1 : ℂ) ^ (Finset.univ : Finset {w : InfinitePlace K // w.IsComplex}).card) * (kappa * ρ)) * (((twistedGammaR K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => -uR w hw) aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => (archOfParamC K P w hw).dual)
+                    (fun w hw => -uR w hw) aR (fun w hw => -uC w hw) (fun w hw => -kC w hw)).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) := by
+  subst hkappa
+  simpa only [kappa1] using LanglandsTunnell.RankinSelberg.exists_dualTorusPair_eq_archRootNumber_mul_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_weightOne_profile K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS u₁ u₂ c₁ c₂ hP₂eq hc hk₀ ρ hρ
+
+noncomputable def kappaD (a : ℚ) (P : RealArchParam) (u : ℂ) (m : ℕ) (u₀ : ℂ) (a₀ b : ZMod 2) (δ : ℕ) : ℂ := (-1 : ℂ) ^ b.val * ((Real.pi : ℂ) / 2)
+
+theorem kappaD_ne_zero (a : ℚ) (P : RealArchParam) (u : ℂ) (m : ℕ) (u₀ : ℂ) (a₀ b : ZMod 2) (δ : ℕ) : kappaD a P u m u₀ a₀ b δ ≠ 0 := by
+  rw [kappaD]
+  exact mul_ne_zero (pow_ne_zero _ (neg_ne_zero.mpr one_ne_zero)) (div_ne_zero (by exact_mod_cast Real.pi_ne_zero) two_ne_zero)
+
+open scoped Classical in
+
+theorem rhoD_ne_zero
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u : ℂ) (m : ℕ) (hm : 1 ≤ m) (hP₂eq : P₂ = RealArchParam.discrete u m hm) (hk₀ : k₀ = (m : ℤ) + 1) (hnD : n = m + 1)
+    (ρ : ℂ)
+    (hρ : (∀ τ : ℝ, 0 < τ →
+        D.W (ArchR.diagOne τ) = ρ * ((2 : ℂ) * ((τ : ℂ) ^ (u + (m : ℂ) / 2 + 1) * (Real.exp (-(2 * Real.pi * τ)) : ℂ)))) ∧
+      (∀ τ : ℝ, 0 < τ → D.W (ArchR.diagOne (-τ)) = 0)) :
+    ρ ≠ 0 := by
+  obtain ⟨-, ⟨τ, hτ, hWτ⟩, -⟩ := LanglandsTunnell.Converse.ArchDatumR.exists_W_diagOne_add_mul_W_diagOne_neg_ne_zero_of_one_le_weight
+      K _hdeg μ _hμ uR aR uC kC huR huC ω (hω.2.2 uR aR uC kC huR huC) E hE a aInf haInf psiInf hpsiInf ν_add hν_add ν_mul ha
+      w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min (by omega) 1 (Or.inl rfl)
+  intro hρ0
+  apply hWτ
+  rw [hρ.2 τ hτ, hρ.1 τ hτ, hρ0]
+  simp
+
+open scoped Classical in
+
+theorem primal_eqD
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u : ℂ) (m : ℕ) (hm : 1 ≤ m) (hP₂eq : P₂ = RealArchParam.discrete u m hm) (hk₀ : k₀ = (m : ℤ) + 1) (hnD : n = m + 1)
+    (ρ : ℂ)
+    (hρ : (∀ τ : ℝ, 0 < τ →
+        D.W (ArchR.diagOne τ) = ρ * ((2 : ℂ) * ((τ : ℂ) ^ (u + (m : ℂ) / 2 + 1) * (Real.exp (-(2 * Real.pi * τ)) : ℂ)))) ∧
+      (∀ τ : ℝ, 0 < τ → D.W (ArchR.diagOne (-τ)) = 0))
+    (kappa : ℂ) (hkappa : kappa = kappaD a P u m (uR w₀ h₀) (aR w₀ h₀) b δ) :
+    ∃ σa : ℝ, (∀ s : ℂ, σa < s.re →
+            (∫ e : Fin 2 → Fin 2 → ℝ,
+              ArchR.quasiChar (uR w₀ h₀ + 2) (aR w₀ h₀) (Matrix.of e).det *
+                  (((|(Matrix.of e).det| ^ 2)⁻¹ : ℝ) : ℂ) *
+                ((∫ t : ℝ, Wr b default t * D.W (ArchR.diagOne ((a : ℝ) * t) * (Matrix.of e)⁻¹) *
+                    (((|t| : ℝ) : ℂ) ^ (s - 1 / 2)) * (((t ^ 2)⁻¹ : ℝ) : ℂ)) *
+                 (∫ y in Set.Ioi (0 : ℝ), ((y : ℝ) : ℂ) ^ (P.centralExponent + P₂.centralExponent + 2 * s) *
+                    godementInner3 (psiInf.mulShift (AutomorphicForm.StandardKernel.ofReal y)) S (Matrix.of e) 1)))
+              = (kappa * ρ) * (((twistedGammaR K (archOfParamR K P) uR aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (archOfParamR K P) (archOfParamC K P) uR aR uC kC).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) := by
+  subst hkappa
+  simpa only [kappaD] using LanglandsTunnell.RankinSelberg.exists_unfoldedTorusPair_eq_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_discrete_profile K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS u m hm hP₂eq hk₀ ρ hρ
+
+open scoped Classical in
+
+theorem dual_eqD
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M)
+    (u : ℂ) (m : ℕ) (hm : 1 ≤ m) (hP₂eq : P₂ = RealArchParam.discrete u m hm) (hk₀ : k₀ = (m : ℤ) + 1) (hnD : n = m + 1)
+    (ρ : ℂ)
+    (hρ : (∀ τ : ℝ, 0 < τ →
+        D.W (ArchR.diagOne τ) = ρ * ((2 : ℂ) * ((τ : ℂ) ^ (u + (m : ℂ) / 2 + 1) * (Real.exp (-(2 * Real.pi * τ)) : ℂ)))) ∧
+      (∀ τ : ℝ, 0 < τ → D.W (ArchR.diagOne (-τ)) = 0))
+    (kappa : ℂ) (hkappa : kappa = kappaD a P u m (uR w₀ h₀) (aR w₀ h₀) b δ) :
+    ∃ σa : ℝ, (∀ s : ℂ, σa < s.re →
+            (∫ a₂ in Set.Ioi (0 : ℝ), ∫ a₁ : ℝ,
+              if ha : a₁ ≠ 0 ∧ 0 < a₂ then
+                let q : GL (Fin 2) ℝ := AutomorphicForm.SiegelCoordinates.upperUnit a₁ 0 a₂ ha.1 ha.2.ne'
+                (((((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) * WA b (w₀R * RSCarrier.transposeInv q)) * dualWhittakerFn3 (jacquetVector3 D (uR w₀ h₀) (aR w₀ h₀) (a : ℝ) psiInf S) (archComponent3 (𝓞 ℚ) ℚ (iota (𝓞 ℚ) ℚ (archRealGLAt (IsTotallyReal.isReal (default : InfinitePlace ℚ)) q)))) * (((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) ^ (s - 1 / 2))) *
+                  (((a₁ ^ 2)⁻¹ : ℝ) : ℂ)
+              else 0)
+              = ((archRootNumber K (archOfParamR K P) (archOfParamC K P) uR aR uC kC * (-1 : ℂ) ^ (P.centralSign).val * (-1 : ℂ) ^ (Finset.univ : Finset {w : InfinitePlace K // w.IsComplex}).card) * (kappa * ρ)) * (((twistedGammaR K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => -uR w hw) aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => (archOfParamC K P w hw).dual)
+                    (fun w hw => -uR w hw) aR (fun w hw => -uC w hw) (fun w hw => -kC w hw)).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) := by
+  subst hkappa
+  simpa only [kappaD] using LanglandsTunnell.RankinSelberg.exists_dualTorusPair_eq_archRootNumber_mul_explicit_mul_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3_of_discrete_profile K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS u m hm hP₂eq hk₀ ρ hρ
+
+end Ws14K70
+
+open scoped Classical in
+theorem solution
+    (K : Type) [Field K] [NumberField K]
+    [Algebra (𝓞 ℚ) (𝓞 K)] [Algebra.IsIntegral (𝓞 ℚ) (𝓞 K)]
+    (_hdeg : Module.finrank ℚ K = 3)
+    (μ : (AdeleRing (𝓞 K) K)ˣ →* ℂˣ) (_hμ : IsAdmissibleTwist K μ)
+    (_hns : ¬ (∃ η : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ, IsAdmissibleTwist ℚ η ∧
+      ∀ 𝔓 : HeightOneSpectrum (𝓞 K), IsUnramifiedCharAt μ 𝔓 →
+        IsUnramifiedCharAt η (𝔓.under (𝓞 ℚ)) →
+        ((μ (uniformizerIdele K 𝔓) : ℂˣ) : ℂ) =
+          ((η (uniformizerIdele ℚ (𝔓.under (𝓞 ℚ))) : ℂˣ) : ℂ) ^
+            (𝔓.under (𝓞 ℚ)).asIdeal.inertiaDeg' 𝔓.asIdeal))
+    (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+    (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ)
+    (huR : ∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ))
+    (huC : ∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw))
+    (ω : (AdeleRing (𝓞 ℚ) ℚ)ˣ →* ℂˣ)
+    (hω : IsAdmissibleTwist ℚ ω ∧
+      (∀ p : HeightOneSpectrum (𝓞 ℚ), ¬ IsBadPlace K μ p →
+        IsUnramifiedCharAt ω p ∧ eulerCoeff ℚ ω p = inducedE3 ℚ (inducedCoeff K μ) p) ∧
+      ∀ (uR : ∀ w : InfinitePlace K, w.IsReal → ℂ) (aR : ∀ w : InfinitePlace K, w.IsReal → ZMod 2)
+        (uC : ∀ w : InfinitePlace K, w.IsComplex → ℂ) (kC : ∀ w : InfinitePlace K, w.IsComplex → ℤ),
+        (∀ w, ∀ hw : w.IsReal, IsArchCompAt K μ w (uR w hw) ((aR w hw).val : ℤ)) →
+        (∀ w, ∀ hw : w.IsComplex, IsArchCompAt K μ w (uC w hw) (kC w hw)) →
+        ∀ v : InfinitePlace ℚ, v.IsReal →
+          IsArchCompAt ℚ ω v
+            ((∑ᶠ (w) (hw : w.IsReal), uR w hw) + (∑ᶠ (w) (hw : w.IsComplex), 2 * uC w hw))
+            ((∑ᶠ (w) (hw : w.IsReal), ((aR w hw).val : ℤ)) + (∑ᶠ (w) (hw : w.IsComplex), (kC w hw + 1))))
+    (E : (InfiniteAdeleRing ℚ)ˣ →* (AdeleRing (𝓞 ℚ) ℚ)ˣ)
+    (hE : ∀ u : (InfiniteAdeleRing ℚ)ˣ,
+      M4aHerbrand.infPart (E u) = u ∧ RatIdele.finPart (E u) = 1)
+    (a : ℚ) (ha : a ≠ 0) (ha1 : a = -1) (aInf : (InfiniteAdeleRing ℚ)ˣ)
+    (haInf : (aInf : InfiniteAdeleRing ℚ) = algebraMap ℚ (InfiniteAdeleRing ℚ) a)
+    (psiInf : AddChar (InfiniteAdeleRing ℚ) ℂ)
+    (hpsiInf : ∀ x : InfiniteAdeleRing ℚ,
+      psiInf x = NumberField.StandardAddChar.psiArch (algebraMap ℚ (InfiniteAdeleRing ℚ) a * x))
+    [mA : MeasurableSpace (InfiniteAdeleRing ℚ)] [BorelSpace (InfiniteAdeleRing ℚ)]
+    [mT : MeasurableSpace (InfiniteAdeleRing ℚ)ˣ] [BorelSpace (InfiniteAdeleRing ℚ)ˣ]
+    (ν_add : MeasureTheory.Measure (InfiniteAdeleRing ℚ))
+    (hν_add : ν_add = ENNReal.ofReal (|(a : ℝ)| ^ ((1 : ℝ) / 2)) •
+      MeasureTheory.Measure.map (InfiniteAdeleRing.ringEquiv_mixedSpace ℚ).symm MeasureTheory.volume)
+    (ν_mul : MeasureTheory.Measure (InfiniteAdeleRing ℚ)ˣ) [ν_mul.IsHaarMeasure]
+    (P : RealArchParam)
+    (_hP₁ : ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+      P = RealArchParam.principal u₁ a₁ u₂ a₂ → |(u₁ - u₂).re| < 1)
+    (kw : ZMod 2 → InfinitePlace ℚ → ℤ)
+    (Wr : ZMod 2 → InfinitePlace ℚ → ℂ → ℂ)
+    (WA : ZMod 2 → GL (Fin 2) ℝ → ℂ)
+    (hkw1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₂ →
+          (kw par w : ℂ) = signShift (a₁ + par) + signShift (a₂ + par))
+    (hkw2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → kw par w = (n : ℤ) + 1)
+    (hWr1 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ →
+          ∀ t : ℝ, Wr par w (-t) = (-1 : ℂ) ^ a₁.val * Wr par w t)
+    (hWr2 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₀ : ℂ) (n : ℕ) (hn : 1 ≤ n),
+        P = RealArchParam.discrete u₀ n hn → ∀ t : ℝ, t < 0 → Wr par w t = 0)
+    (hWr3 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (u₁ u₂ : ℂ) (a₁ : ZMod 2),
+        P = RealArchParam.principal u₁ a₁ u₂ a₁ → par = a₁ + 1 →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ a₁.val * Wr par w (-t)) / (t : ℂ)) s
+                = (2 * s + u₁ + u₂ - 1) / (4 * (Real.pi : ℂ)) * (P.twist 0 a₁).archFactor s)
+    (hWr4 : ∀ par : ZMod 2, ∀ (w : InfinitePlace ℚ) (hw : w.IsReal) (b : ZMod 2),
+        (b = par ∨ b = par + P.centralSign) →
+          ∃ s₀ : ℝ, ∀ s : ℂ, s₀ < s.re →
+            MellinConvergent (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s ∧
+              mellin (fun t : ℝ => (Wr par w t + (-1 : ℂ) ^ b.val * Wr par w (-t)) / (t : ℂ)) s
+                = (P.twist 0 b).archFactor s)
+    (hWAN : ∀ par : ZMod 2, ∀ (x : ℝ) (h : GL (Fin 2) ℝ),
+        WA par (unipotentGL2 x * h) = Complex.exp (-(2 * Real.pi * Complex.I * (a : ℂ) * x)) * WA par h)
+    (hWAZ : ∀ par : ZMod 2, ∀ (z : ℝˣ) (h : GL (Fin 2) ℝ),
+        WA par (Matrix.GeneralLinearGroup.scalar (Fin 2) z * h)
+          = ((((|(z : ℝ)| : ℝ) : ℂ) ^ (P.centralExponent + 1)) *
+              (((z : ℝ) : ℂ) / ((|(z : ℝ)| : ℝ) : ℂ)) ^ (P.centralSign.val : ℤ)) * WA par h)
+    (hWAK : ∀ par : ZMod 2, ∀ (κ : GL (Fin 2) ℝ) (hκ : κ ∈ rowIsometrySubgroup₀ ℝ) (h : GL (Fin 2) ℝ),
+        WA par (h * κ) = (archWeightCharℝ (kw par default) ⟨κ, hκ⟩ : ℂ) * WA par h)
+    (hWAt : ∀ par : ZMod 2, ∀ t : ℝˣ, WA par (diagOne t) = Wr par default (t : ℝ))
+    (hWAc : ∀ par : ZMod 2, Continuous (WA par))
+    (w₀R : GL (Fin 2) ℝ) (hw₀R : (w₀R : Matrix (Fin 2) (Fin 2) ℝ) = !![0, 1; 1, 0])
+    (w₀ : InfinitePlace K) (h₀ : w₀.IsReal)
+    (P₂ : RealArchParam)
+    (hP₂ : ((∃ (w₁ w₂ : InfinitePlace K) (h₁ : w₁.IsReal) (h₂ : w₂.IsReal),
+          w₀ ≠ w₁ ∧ w₀ ≠ w₂ ∧ w₁ ≠ w₂ ∧ (∀ w : InfinitePlace K, w = w₀ ∨ w = w₁ ∨ w = w₂) ∧
+          P₂ = RealArchParam.principal (uR w₁ h₁) (aR w₁ h₁) (uR w₂ h₂) (aR w₂ h₂)) ∨
+        (∃ (wC : InfinitePlace K) (hC : wC.IsComplex), (∀ w : InfinitePlace K, w = wC ∨ w = w₀) ∧
+          ((∃ hk : kC wC hC ≠ 0, P₂ = RealArchParam.discrete (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk)) ∨
+           (kC wC hC = 0 ∧ P₂ = RealArchParam.principal (uC wC hC) 0 (uC wC hC) 1)))))
+    (D : ArchDatumR P₂) (k₀ : ℤ)
+    (hDW : ∀ (r : rowIsometrySubgroup₀ ℝ) (x : GL (Fin 2) ℝ),
+        D.W ((x * (r : GL (Fin 2) ℝ) : GL (Fin 2) ℝ) : Matrix (Fin 2) (Fin 2) ℝ) =
+          (archWeightCharℝ k₀ r : ℂ) * D.W (x : Matrix (Fin 2) (Fin 2) ℝ))
+    (hDE : LanglandsTunnell.Converse.ArchCasimir.IsCasimirEigen D)
+    (hDnz : ∃ g : GL (Fin 2) ℝ, D.W (g : Matrix (Fin 2) (Fin 2) ℝ) ≠ 0)
+    (hk₀min : (∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ →
+        (k₀ = 0 ∨ k₀ = 1) ∧ ((k₀ : ZMod 2) = a₁ + a₂)) ∧
+      (∀ (u : ℂ) (m : ℕ) (hm : 1 ≤ m), P₂ = RealArchParam.discrete u m hm → k₀ = (m : ℤ) + 1))
+    (ν₁ ν₂ : ℂ) (b : ZMod 2) (hPev : P = RealArchParam.principal ν₁ b ν₂ b)
+    (hLevi : k₀ = 0 → ∀ (u₁ u₂ : ℂ) (a₁ a₂ : ZMod 2), P₂ = RealArchParam.principal u₁ a₁ u₂ a₂ → a₁ = b)
+    (n : ℕ) (hn : (n : ℤ) = k₀)
+    (δ : ℕ) (hδ : δ = 0 ∨ δ = 1) (hδpar : ((δ : ℕ) : ZMod 2) = aR w₀ h₀ + b)
+    (S : Matrix (Fin 2) (Fin 3) ℝ → ℂ)
+    (hS : S = fun M => (((M 0 0 * M 1 1 - M 0 1 * M 1 0 : ℝ) : ℂ)) ^ δ *
+        ((((M 0 2 : ℝ) : ℂ) - Complex.I * ((M 1 2 : ℝ) : ℂ)) ^ n) * gaussian3 M) :
+        ∃ (σa : ℝ) (e : ℂ), e ≠ 0 ∧
+        (∀ s : ℂ, σa < s.re →
+            (∫ e : Fin 2 → Fin 2 → ℝ,
+              ArchR.quasiChar (uR w₀ h₀ + 2) (aR w₀ h₀) (Matrix.of e).det *
+                  (((|(Matrix.of e).det| ^ 2)⁻¹ : ℝ) : ℂ) *
+                ((∫ t : ℝ, Wr b default t * D.W (ArchR.diagOne ((a : ℝ) * t) * (Matrix.of e)⁻¹) *
+                    (((|t| : ℝ) : ℂ) ^ (s - 1 / 2)) * (((t ^ 2)⁻¹ : ℝ) : ℂ)) *
+                 (∫ y in Set.Ioi (0 : ℝ), ((y : ℝ) : ℂ) ^ (P.centralExponent + P₂.centralExponent + 2 * s) *
+                    godementInner3 (psiInf.mulShift (AutomorphicForm.StandardKernel.ofReal y)) S (Matrix.of e) 1)))
+              = e * (((twistedGammaR K (archOfParamR K P) uR aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (archOfParamR K P) (archOfParamC K P) uR aR uC kC).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) ∧
+        (∀ s : ℂ, σa < s.re →
+            (∫ a₂ in Set.Ioi (0 : ℝ), ∫ a₁ : ℝ,
+              if ha : a₁ ≠ 0 ∧ 0 < a₂ then
+                let q : GL (Fin 2) ℝ := AutomorphicForm.SiegelCoordinates.upperUnit a₁ 0 a₂ ha.1 ha.2.ne'
+                (((((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) * WA b (w₀R * RSCarrier.transposeInv q)) * dualWhittakerFn3 (jacquetVector3 D (uR w₀ h₀) (aR w₀ h₀) (a : ℝ) psiInf S) (archComponent3 (𝓞 ℚ) ℚ (iota (𝓞 ℚ) ℚ (archRealGLAt (IsTotallyReal.isReal (default : InfinitePlace ℚ)) q)))) * (((|(Matrix.GeneralLinearGroup.det q : ℝ)| : ℝ) : ℂ) ^ (s - 1 / 2))) *
+                  (((a₁ ^ 2)⁻¹ : ℝ) : ℂ)
+              else 0)
+              = ((archRootNumber K (archOfParamR K P) (archOfParamC K P) uR aR uC kC * (-1 : ℂ) ^ (P.centralSign).val * (-1 : ℂ) ^ (Finset.univ : Finset {w : InfinitePlace K // w.IsComplex}).card) * e) * (((twistedGammaR K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => -uR w hw) aR).map
+                    fun x => Complex.Gammaℝ (s + 1 / 2 + x)).prod *
+                  ((twistedGammaC K (fun w hw => (archOfParamR K P w hw).dual) (fun w hw => (archOfParamC K P w hw).dual)
+                    (fun w hw => -uR w hw) aR (fun w hw => -uC w hw) (fun w hw => -kC w hw)).map
+                    fun x => Complex.Gammaℂ (s + 1 / 2 + x)).prod)) := by
+
+  have hP₂' := hP₂
+  rcases hP₂' with ⟨w₁, w₂, h₁, h₂, h01, h02, h12, hall, hP⟩ | ⟨wC, hC, hall, hP⟩
+  ·
+    obtain ⟨hk01, hsum⟩ := hk₀min.1 _ _ _ _ hP
+    rcases hk01 with hk0 | hk1
+    ·
+      have hc1 : aR w₁ h₁ = b := hLevi hk0 _ _ _ _ hP
+      have hc2 : aR w₂ h₂ = b := by
+        have h0 : aR w₁ h₁ + aR w₂ h₂ = 0 := by rw [← hsum, hk0]; simp
+        rw [hc1] at h0
+        rw [eq_neg_of_add_eq_zero_right h0, CharTwo.neg_eq]
+      have hP₂eq : P₂ = RealArchParam.principal (uR w₁ h₁) b (uR w₂ h₂) b := by rw [hP, hc1, hc2]
+      have hn0 : n = 0 := by omega
+      obtain ⟨ρ, hρ⟩ := LanglandsTunnell.CubicInduction.exists_archDatumR_W_diagOne_eq_mul_mulConvGaussian_of_weightZero
+        K _hdeg μ _hμ uR aR uC kC huR huC ω (hω.2.2 uR aR uC kC huR huC) E hE a aInf haInf psiInf hpsiInf ν_add hν_add ν_mul ha w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min hk0 _ _ b b hP₂eq
+      set kappa := Ws14K70.kappa0 a P (uR w₁ h₁) (uR w₂ h₂) (uR w₀ h₀) (aR w₀ h₀) b δ with hkappa
+      obtain ⟨σ₁, hA⟩ := Ws14K70.primal_eq0 K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uR w₁ h₁) (uR w₂ h₂) hP₂eq hk0 hn0 ρ hρ kappa hkappa
+      obtain ⟨σ₂, hB⟩ := Ws14K70.dual_eq0 K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uR w₁ h₁) (uR w₂ h₂) hP₂eq hk0 hn0 ρ hρ kappa hkappa
+      have hρ0 := Ws14K70.rho0_ne_zero K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uR w₁ h₁) (uR w₂ h₂) hP₂eq hk0 hn0 ρ hρ
+      exact ⟨max σ₁ σ₂, kappa * ρ, mul_ne_zero (hkappa ▸ Ws14K70.kappa0_ne_zero a P (uR w₁ h₁) (uR w₂ h₂) (uR w₀ h₀) (aR w₀ h₀) b δ) hρ0,
+        fun s hs => hA s (lt_of_le_of_lt (le_max_left _ _) hs), fun s hs => hB s (lt_of_le_of_lt (le_max_right _ _) hs)⟩
+    ·
+      have hc : aR w₁ h₁ ≠ aR w₂ h₂ := by
+        intro heq
+        have h1 : aR w₁ h₁ + aR w₂ h₂ = 1 := by rw [← hsum, hk1]; simp
+        rw [heq, CharTwo.add_self_eq_zero] at h1
+        exact zero_ne_one h1
+      have hn1 : n = 1 := by omega
+      obtain ⟨ρ, hρ⟩ := LanglandsTunnell.CubicInduction.exists_archDatumR_W_diagOne_add_eq_mul_mulConvGaussian_of_weightOne
+        K _hdeg μ _hμ uR aR uC kC huR huC ω (hω.2.2 uR aR uC kC huR huC) E hE a aInf haInf psiInf hpsiInf ν_add hν_add ν_mul ha w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min hk1 _ _ _ _ hP hc
+      set kappa := Ws14K70.kappa1 a P (uR w₁ h₁) (uR w₂ h₂) (aR w₁ h₁) (aR w₂ h₂) (uR w₀ h₀) (aR w₀ h₀) b δ with hkappa
+      obtain ⟨σ₁, hA⟩ := Ws14K70.primal_eq1 K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uR w₁ h₁) (uR w₂ h₂) (aR w₁ h₁) (aR w₂ h₂) hP hc hk1 hn1 ρ hρ kappa hkappa
+      obtain ⟨σ₂, hB⟩ := Ws14K70.dual_eq1 K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uR w₁ h₁) (uR w₂ h₂) (aR w₁ h₁) (aR w₂ h₂) hP hc hk1 hn1 ρ hρ kappa hkappa
+      have hρ0 := Ws14K70.rho1_ne_zero K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uR w₁ h₁) (uR w₂ h₂) (aR w₁ h₁) (aR w₂ h₂) hP hc hk1 hn1 ρ hρ
+      exact ⟨max σ₁ σ₂, kappa * ρ, mul_ne_zero (hkappa ▸ Ws14K70.kappa1_ne_zero a P (uR w₁ h₁) (uR w₂ h₂) (aR w₁ h₁) (aR w₂ h₂) (uR w₀ h₀) (aR w₀ h₀) b δ) hρ0,
+        fun s hs => hA s (lt_of_le_of_lt (le_max_left _ _) hs), fun s hs => hB s (lt_of_le_of_lt (le_max_right _ _) hs)⟩
+  ·
+
+    rcases hP with ⟨hk, hP⟩ | ⟨hk0C, hP⟩
+    · have hkD := hk₀min.2 _ _ _ hP
+      have hnD : n = (kC wC hC).natAbs + 1 := by omega
+      obtain ⟨ρ, hρ⟩ := LanglandsTunnell.CubicInduction.exists_archDatumR_W_diagOne_eq_mul_exp_and_eq_zero_of_discrete
+        K _hdeg μ _hμ uR aR uC kC huR huC ω (hω.2.2 uR aR uC kC huR huC) E hE a aInf haInf psiInf hpsiInf ν_add hν_add ν_mul ha w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min _ _ _ hP
+      set kappa := Ws14K70.kappaD a P (uC wC hC) (kC wC hC).natAbs (uR w₀ h₀) (aR w₀ h₀) b δ with hkappa
+      obtain ⟨σ₁, hA⟩ := Ws14K70.primal_eqD K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk) hP hkD hnD ρ hρ kappa hkappa
+      obtain ⟨σ₂, hB⟩ := Ws14K70.dual_eqD K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk) hP hkD hnD ρ hρ kappa hkappa
+      have hρ0 := Ws14K70.rhoD_ne_zero K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uC wC hC) (kC wC hC).natAbs (Int.natAbs_pos.mpr hk) hP hkD hnD ρ hρ
+      exact ⟨max σ₁ σ₂, kappa * ρ, mul_ne_zero (hkappa ▸ Ws14K70.kappaD_ne_zero a P (uC wC hC) (kC wC hC).natAbs (uR w₀ h₀) (aR w₀ h₀) b δ) hρ0,
+        fun s hs => hA s (lt_of_le_of_lt (le_max_left _ _) hs), fun s hs => hB s (lt_of_le_of_lt (le_max_right _ _) hs)⟩
+    ·
+      obtain ⟨hk01, hsum⟩ := hk₀min.1 _ _ _ _ hP
+      have hk1 : k₀ = 1 := by
+        rcases hk01 with h | h
+        · exfalso; rw [h] at hsum; exact absurd hsum (by decide)
+        · exact h
+      have hn1 : n = 1 := by omega
+      obtain ⟨ρ, hρ⟩ := LanglandsTunnell.CubicInduction.exists_archDatumR_W_diagOne_add_eq_mul_mulConvGaussian_of_weightOne
+        K _hdeg μ _hμ uR aR uC kC huR huC ω (hω.2.2 uR aR uC kC huR huC) E hE a aInf haInf psiInf hpsiInf ν_add hν_add ν_mul ha w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min hk1 _ _ _ _ hP zero_ne_one
+      set kappa := Ws14K70.kappa1 a P (uC wC hC) (uC wC hC) 0 1 (uR w₀ h₀) (aR w₀ h₀) b δ with hkappa
+      obtain ⟨σ₁, hA⟩ := Ws14K70.primal_eq1 K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uC wC hC) (uC wC hC) 0 1 hP zero_ne_one hk1 hn1 ρ hρ kappa hkappa
+      obtain ⟨σ₂, hB⟩ := Ws14K70.dual_eq1 K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uC wC hC) (uC wC hC) 0 1 hP zero_ne_one hk1 hn1 ρ hρ kappa hkappa
+      have hρ0 := Ws14K70.rho1_ne_zero K _hdeg μ _hμ _hns uR aR uC kC huR huC ω hω E hE a ha ha1 aInf haInf psiInf hpsiInf ν_add hν_add ν_mul P _hP₁ kw Wr WA hkw1 hkw2 hWr1 hWr2 hWr3 hWr4 hWAN hWAZ hWAK hWAt hWAc w₀R hw₀R w₀ h₀ P₂ hP₂ D k₀ hDW hDE hDnz hk₀min ν₁ ν₂ b hPev hLevi n hn δ hδ hδpar S hS (uC wC hC) (uC wC hC) 0 1 hP zero_ne_one hk1 hn1 ρ hρ
+      exact ⟨max σ₁ σ₂, kappa * ρ, mul_ne_zero (hkappa ▸ Ws14K70.kappa1_ne_zero a P (uC wC hC) (uC wC hC) 0 1 (uR w₀ h₀) (aR w₀ h₀) b δ) hρ0,
+        fun s hs => hA s (lt_of_le_of_lt (le_max_left _ _) hs), fun s hs => hB s (lt_of_le_of_lt (le_max_right _ _) hs)⟩
+
+end S_LanglandsTunnell_RankinSelberg_exists_unfoldedTorusPair_and_dualTorusPair_eq_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3
+end P2MW
+export P2MW.S_LanglandsTunnell_RankinSelberg_exists_unfoldedTorusPair_and_dualTorusPair_eq_gammaFactor_of_evenPrincipal_of_detPow_colHarmonic_gaussian3 (solution)
