@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotonicSolutions_StrongMono_shapley_unique_symmetric_marginal
 -- name    : MonotonicSolutions.StrongMono.shapley_unique_symmetric_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:12:01.839571+00:00
 -- url     : https://prove2.me/theorems/9eca5113-87cd-48c7-932f-4bbdd91a82bc

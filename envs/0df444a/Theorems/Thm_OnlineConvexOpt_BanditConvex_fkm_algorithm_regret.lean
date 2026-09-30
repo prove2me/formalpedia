@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_BanditConvex_fkm_algorithm_regret
 -- name    : OnlineConvexOpt.BanditConvex.fkm_algorithm_regret
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:40:38.812459+00:00
 -- url     : https://prove2.me/theorems/e8c8c9fb-284c-4cc9-a86f-786186c289a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_argmax_hull_subset
 -- name    : SteinitzExchange.LocalSupermod.argmax_hull_subset
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-28T15:29:18.405593+00:00
 -- url     : https://prove2.me/theorems/13297295-3a5e-43d2-91f4-c5ec1290037b

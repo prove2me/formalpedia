@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NHPPArrivals_LinearRate_linear_degree_pos
 -- name    : NHPPArrivals.LinearRate.linear_degree_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:19:11.808662+00:00
 -- url     : https://prove2.me/theorems/3999cea8-4165-477e-be2d-736b419c21e3

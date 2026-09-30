@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmI_lemma_2_5
 -- name    : ArrowDebreu.ThmI.lemma_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:39:27.409106+00:00
 -- url     : https://prove2.me/theorems/08d1cd61-7bc3-401d-8c18-2e3d62dc6533

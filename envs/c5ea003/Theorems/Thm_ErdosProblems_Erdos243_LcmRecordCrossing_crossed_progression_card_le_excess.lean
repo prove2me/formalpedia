@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_Erdos243_LcmRecordCrossing_crossed_progression_card_le_excess
 -- name    : ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_card_le_excess
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-27T22:49:58.441495+00:00
 -- url     : https://prove2.me/theorems/fa890744-8b04-4d69-b7f5-7f9925ddace7

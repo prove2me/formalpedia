@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_concaveClosure_eq_of_exc
 -- name    : SteinitzExchange.LocalSupermod.concaveClosure_eq_of_exc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T15:34:50.162954+00:00
 -- url     : https://prove2.me/theorems/2f8a2c6e-9ca4-42dd-a586-2feb9b1b853a

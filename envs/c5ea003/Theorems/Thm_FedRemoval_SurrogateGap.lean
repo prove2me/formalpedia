@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedRemoval_SurrogateGap
 -- name    : FedRemoval.SurrogateGap
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-28T21:54:34.209425+00:00
 -- url     : https://prove2.me/theorems/c889a18e-c479-43b6-a781-2740cfac669f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1041_Counterexample_erdos1041_hausdorff_negation
 -- name    : Erdos1041.Counterexample.erdos1041_hausdorff_negation
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-28T00:37:21.604893+00:00
 -- url     : https://prove2.me/theorems/769830d3-cdfe-416a-9de7-6867b9059539

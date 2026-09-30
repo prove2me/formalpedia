@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourColor_cubic_normalization
 -- name    : FourColor.cubic_normalization
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-26T19:54:49.176989+00:00
 -- url     : https://prove2.me/theorems/dd61ace6-7359-481a-96a1-a6d89f8ee325

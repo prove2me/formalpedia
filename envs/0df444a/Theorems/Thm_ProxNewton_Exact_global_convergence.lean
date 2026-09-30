@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxNewton_Exact_global_convergence
 -- name    : ProxNewton.Exact.global_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:32:59.0671+00:00
 -- url     : https://prove2.me/theorems/54fa705c-5244-4ee0-ae48-5311dbbb1c1f

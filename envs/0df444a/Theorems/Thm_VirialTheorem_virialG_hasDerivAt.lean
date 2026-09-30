@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_virialG_hasDerivAt
 -- name    : VirialTheorem.virialG_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T17:32:30.364984+00:00
 -- url     : https://prove2.me/theorems/d0e60b1d-135d-49e9-aef6-cc03a702c7ef

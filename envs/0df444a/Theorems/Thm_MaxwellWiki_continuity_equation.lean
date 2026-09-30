@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxwellWiki_continuity_equation
 -- name    : MaxwellWiki.continuity_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:05:08.014054+00:00
 -- url     : https://prove2.me/theorems/010a9ad2-52cf-4381-b628-b3b2262098ff

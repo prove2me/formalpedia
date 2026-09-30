@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_ErrorDecrease_direction_inner_5_6a
 -- name    : ConjGrad.ErrorDecrease.direction_inner_5_6a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:55:18.191263+00:00
 -- url     : https://prove2.me/theorems/65bf3a69-08c9-4ce1-b4a0-ac47fcd3f03b

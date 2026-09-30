@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_cheapest_assignment_solves_PR
 -- name    : RossSolandGAP.Bound.cheapest_assignment_solves_PR
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:08:36.942349+00:00
 -- url     : https://prove2.me/theorems/bcaa19ab-c943-49d4-acd3-908912df6fc1

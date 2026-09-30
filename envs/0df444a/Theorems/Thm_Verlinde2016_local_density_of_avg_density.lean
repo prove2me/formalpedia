@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Verlinde2016_local_density_of_avg_density
 -- name    : Verlinde2016.local_density_of_avg_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T23:24:48.13173+00:00
 -- url     : https://prove2.me/theorems/352e1fce-7b53-4c83-b4ad-dc5f7f517f40

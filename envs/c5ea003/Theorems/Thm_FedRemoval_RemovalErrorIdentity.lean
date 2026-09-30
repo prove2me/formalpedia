@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedRemoval_RemovalErrorIdentity
 -- name    : FedRemoval.RemovalErrorIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-28T21:58:51.101501+00:00
 -- url     : https://prove2.me/theorems/4af9cc32-b4dc-4728-97f4-1215493c367f

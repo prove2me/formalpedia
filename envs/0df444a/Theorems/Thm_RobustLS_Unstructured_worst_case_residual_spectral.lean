@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Unstructured_worst_case_residual_spectral
 -- name    : RobustLS.Unstructured.worst_case_residual_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:26:00.164752+00:00
 -- url     : https://prove2.me/theorems/867b8184-af3e-4e57-8c32-c8ce008006b3

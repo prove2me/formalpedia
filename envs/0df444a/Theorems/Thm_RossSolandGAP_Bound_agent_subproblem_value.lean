@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_agent_subproblem_value
 -- name    : RossSolandGAP.Bound.agent_subproblem_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:11:18.632919+00:00
 -- url     : https://prove2.me/theorems/b5d52ead-209e-4976-9a18-8b053d3721c5

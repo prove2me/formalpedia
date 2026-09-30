@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DAREx_RescaledErrorMoments
 -- name    : DAREx.RescaledErrorMoments
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-29T06:03:13.139909+00:00
 -- url     : https://prove2.me/theorems/3c5cb77c-cc9e-48cf-825a-379d6b187d53

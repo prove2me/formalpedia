@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_FullDim_lemma1_case1
 -- name    : RelaxationMethod.FullDim.lemma1_case1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:26:38.595422+00:00
 -- url     : https://prove2.me/theorems/c013f162-3182-45d4-a87f-15b68ff2169f

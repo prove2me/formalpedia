@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1041_Counterexample_erdos1041_ani_degree_seven
 -- name    : Erdos1041.Counterexample.erdos1041_ani_degree_seven
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-28T00:37:02.314843+00:00
 -- url     : https://prove2.me/theorems/4e36c2e9-0902-4415-83ca-e73136274498

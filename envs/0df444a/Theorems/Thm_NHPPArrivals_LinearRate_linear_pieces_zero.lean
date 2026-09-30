@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NHPPArrivals_LinearRate_linear_pieces_zero
 -- name    : NHPPArrivals.LinearRate.linear_pieces_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:20:48.91485+00:00
 -- url     : https://prove2.me/theorems/c7e8556b-ca2a-444b-a2c8-9839d7de8415

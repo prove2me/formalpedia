@@ -1,12 +1,16 @@
 -- Prove2me | solution 1 for lean_workbook_plus_238
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T14:25:31.482459+00:00
--- url     : https://prove2.me/submissions/7df29f09-2d1f-4a7e-b2ba-91dbd9de9e5f
+-- author  : @ryanshin
+-- created : 2026-09-05T03:22:50.656927+00:00
+-- url     : https://prove2.me/submissions/043d80f7-4931-458a-bf37-65cd615b6bb2
 
-import Mathlib.Analysis.Complex.Basic
+import Mathlib
 
-set_option autoImplicit false
-
-theorem solution (x_1 x_2 : ℝ) (hx_1 : 0 < x_1) (hx_2 : 0 < x_2) : x_1 + x_2 ≥ 2 * Real.sqrt (x_1 * x_2) := by
-  (intros; nlinarith [Real.sq_sqrt (show (0:ℝ) ≤ x_1 * x_2 by positivity), Real.sqrt_nonneg (x_1 * x_2), sq_nonneg (x_1), sq_nonneg (x_2), sq_nonneg (x_1 - x_2), sq_nonneg (x_1 + x_2), mul_pos hx_1 hx_2])
+theorem solution (x_1 x_2 : ℝ) (hx_1 : 0 < x_1) (hx_2 : 0 < x_2) :
+    x_1 + x_2 ≥ 2 * Real.sqrt (x_1 * x_2) := by
+  have h : Real.sqrt (x_1 * x_2) ≤ (x_1 + x_2) / 2 := by
+    apply Real.sqrt_le_iff.mpr
+    constructor
+    · positivity
+    · nlinarith [sq_nonneg (x_1 - x_2)]
+  linarith

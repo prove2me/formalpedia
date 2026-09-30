@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NHPPArrivals_LinearRate_linear_degree_zero
 -- name    : NHPPArrivals.LinearRate.linear_degree_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:19:52.0458+00:00
 -- url     : https://prove2.me/theorems/6ce31568-b3f4-4b43-8a54-47a9bf546e52

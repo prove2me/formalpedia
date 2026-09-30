@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for buchholz_matched_walk_contribution_sum_le_pairing_sum_row_column_energy_moments
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-07-26T17:31:45.448604+00:00
 -- url     : https://prove2.me/submissions/bf115602-2155-4fb1-99ca-c76008a73620
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_buchholz_contribution_pairing_count_row_energy_bound
 import Theorems.Thm_buchholz_contribution_pairing_count_column_energy_bound

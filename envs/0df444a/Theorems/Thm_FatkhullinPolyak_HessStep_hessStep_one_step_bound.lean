@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_HessStep_hessStep_one_step_bound
 -- name    : FatkhullinPolyak.HessStep.hessStep_one_step_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:49:53.731674+00:00
 -- url     : https://prove2.me/theorems/a9b2ed5f-fcf5-481e-b16a-13782896c726

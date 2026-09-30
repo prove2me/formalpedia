@@ -1,12 +1,16 @@
 -- Prove2me | solution 1 for lean_workbook_plus_26681
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T12:16:53.980737+00:00
--- url     : https://prove2.me/submissions/6df293b5-b24b-4f12-9faf-3087cf1444fe
+-- author  : @ryanshin
+-- created : 2026-09-05T06:01:54.082595+00:00
+-- url     : https://prove2.me/submissions/7c6a36e6-cc22-456a-929b-9f3751ab55c5
 
-import Mathlib.Analysis.Complex.Basic
+import Mathlib.Data.Real.Basic
+import Mathlib.Tactic.Ring
 
-set_option autoImplicit false
-
-theorem solution (a b c : ℝ) : 4 * b ^ 2 * c ^ 2 - (b ^ 2 + c ^ 2 - a ^ 2) ^ 2 = (a - b + c) * (a + b - c) * (b + c - a) * (b + c + a) := by
-  (intros; linarith)
+theorem solution (a b c : ℝ) :
+    4 * b ^ 2 * c ^ 2 - (b ^ 2 + c ^ 2 - a ^ 2) ^ 2 =
+    (a - b + c) * (a + b - c) * (b + c - a) * (b + c + a) := by
+  calc
+    4 * b ^ 2 * c ^ 2 - (b ^ 2 + c ^ 2 - a ^ 2) ^ 2 =
+        ((b + c) ^ 2 - a ^ 2) * (a ^ 2 - (b - c) ^ 2) := by ring
+    _ = (a - b + c) * (a + b - c) * (b + c - a) * (b + c + a) := by ring

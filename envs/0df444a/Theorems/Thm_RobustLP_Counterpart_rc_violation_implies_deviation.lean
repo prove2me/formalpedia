@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLP_Counterpart_rc_violation_implies_deviation
 -- name    : RobustLP.Counterpart.rc_violation_implies_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:27:05.109984+00:00
 -- url     : https://prove2.me/theorems/5e32a4f2-eca0-4c5f-a248-2ccba9d094cb

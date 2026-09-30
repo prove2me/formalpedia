@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_projPath_descent
 -- name    : CalamaiMore.Convergence.projPath_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:30:50.355765+00:00
 -- url     : https://prove2.me/theorems/9eed4feb-c748-422d-bca3-7efda5072b0f

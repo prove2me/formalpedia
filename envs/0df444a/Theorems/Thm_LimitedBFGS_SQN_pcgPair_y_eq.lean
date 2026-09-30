@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedBFGS_SQN_pcgPair_y_eq
 -- name    : LimitedBFGS.SQN.pcgPair_y_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T21:09:42.432408+00:00
 -- url     : https://prove2.me/theorems/b990e0b5-8cbe-4d2c-8580-6482b9d63a36

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmI_Xhat_bounded
 -- name    : ArrowDebreu.ThmI.Xhat_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:42:24.562212+00:00
 -- url     : https://prove2.me/theorems/749c3548-d086-494d-8be5-a06fb7878a9e

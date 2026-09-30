@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathFindingLP_Centering_centering_with_weights
 -- name    : PathFindingLP.Centering.centering_with_weights
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:38:24.001979+00:00
 -- url     : https://prove2.me/theorems/ac3454fd-4359-4bf2-b099-51115cb41a93

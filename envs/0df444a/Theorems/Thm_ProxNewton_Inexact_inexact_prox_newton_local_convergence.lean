@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxNewton_Inexact_inexact_prox_newton_local_convergence
 -- name    : ProxNewton.Inexact.inexact_prox_newton_local_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:40:00.585105+00:00
 -- url     : https://prove2.me/theorems/6d02a907-4323-42bd-a60c-752d9cf00873

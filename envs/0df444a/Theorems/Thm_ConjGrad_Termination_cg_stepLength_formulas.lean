@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_Termination_cg_stepLength_formulas
 -- name    : ConjGrad.Termination.cg_stepLength_formulas
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:51:57.025547+00:00
 -- url     : https://prove2.me/theorems/5772d0af-434c-4609-83d9-97b992f03611

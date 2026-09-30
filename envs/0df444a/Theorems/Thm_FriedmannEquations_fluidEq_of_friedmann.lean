@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_fluidEq_of_friedmann
 -- name    : FriedmannEquations.fluidEq_of_friedmann
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T21:41:04.031509+00:00
 -- url     : https://prove2.me/theorems/e12bfeb3-6cd7-4bd3-8f0a-b64d89a8e184

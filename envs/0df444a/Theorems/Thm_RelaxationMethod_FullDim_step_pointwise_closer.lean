@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_FullDim_step_pointwise_closer
 -- name    : RelaxationMethod.FullDim.step_pointwise_closer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:25:27.542195+00:00
 -- url     : https://prove2.me/theorems/5e5a802e-1b2c-49b1-a58f-107ad6f967b3

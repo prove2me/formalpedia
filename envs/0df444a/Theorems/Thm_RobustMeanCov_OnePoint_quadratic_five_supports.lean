@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_OnePoint_quadratic_five_supports
 -- name    : RobustMeanCov.OnePoint.quadratic_five_supports
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:46:43.194978+00:00
 -- url     : https://prove2.me/theorems/948fba5c-293b-4728-a2c9-2d5152649b2e

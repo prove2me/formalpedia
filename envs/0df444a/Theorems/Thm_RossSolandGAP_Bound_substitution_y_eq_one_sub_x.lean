@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_substitution_y_eq_one_sub_x
 -- name    : RossSolandGAP.Bound.substitution_y_eq_one_sub_x
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:10:46.52018+00:00
 -- url     : https://prove2.me/theorems/a588ecf5-138e-48c4-a441-bd271877c06f

@@ -1,12 +1,10 @@
 -- Prove2me | solution 1 for lean_workbook_plus_38227
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T10:52:31.950931+00:00
--- url     : https://prove2.me/submissions/e76d1cbf-2109-40dc-85a4-7208db745b77
+-- author  : @ryanshin
+-- created : 2026-09-05T09:12:14.392126+00:00
+-- url     : https://prove2.me/submissions/3f7f0452-9113-4c8e-8994-c8783eba16fc
 
 import Mathlib.Analysis.Complex.Basic
 
-set_option autoImplicit false
-
 theorem solution (a b : ℝ) : a^4 + b^4 ≥ 2 * a^2 * b^2 := by
-  (intros; nlinarith [sq_nonneg (a), sq_nonneg (b), sq_nonneg (a - b), sq_nonneg (a + b)])
+  nlinarith [sq_nonneg (a^2 - b^2)]

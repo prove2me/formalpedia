@@ -1,0 +1,6474 @@
+-- Prove2me | Definitions.Def_CK_GeneralCK_Certificates_E8TAxisProd0001GraphWholeB__16
+-- name    : CK_GeneralCK_Certificates_E8TAxisProd0001GraphWholeB__16
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-09-30T03:12:51.886649+00:00
+-- url     : https://prove2.me/theorems/62ccf0fe-8847-482d-9a16-9aa99a66e432
+-- title:
+--   Courtade–Kumar proof module `GeneralCK.Certificates.E8TAxisProd0001GraphWholeB (+15 modules: GeneralCK.Certificates.E8TAxisProd0002GraphWholeB, GeneralCK.Certificates.E8TAxisProd0003Graph…
+-- statement:
+--   Verbatim transplant of the Lean module `GeneralCK.Certificates.E8TAxisProd0001GraphWholeB (+15 modules: GeneralCK.Certificates.E8TAxisProd0002GraphWholeB, GeneralCK.Certificates.E8TAxisProd0003GraphWholeB, GeneralCK.Certificates.E8TAxisProd0004GraphWholeB, GeneralCK.Certificates.E8TAxisProd0005GraphWholeB, GeneralCK.Certificates.E8TAxisProd0006GraphWholeB, GeneralCK.Certificates.E8TAxisProd0007GraphWholeB, GeneralCK.Certificates.E8TAxisProd0008GraphWholeB, GeneralCK.Certificates.E8TAxisProd0009GraphWholeB, GeneralCK.Certificates.E8TAxisProd0010GraphWholeB, GeneralCK.Certificates.E8TAxisProd0011GraphWholeB, GeneralCK.Certificates.E8TAxisProd0012GraphWholeB, GeneralCK.Certificates.E8TAxisProd0013GraphWholeB, GeneralCK.Certificates.E8TAxisProd0014GraphWholeB, GeneralCK.Certificates.E8TAxisProd0015GraphWholeB, GeneralCK.Certificates.E8TAxisProd0016GraphWholeB)` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `GeneralCK.Certificates.E8TAxisProd0001GraphWholeB (+15 modules: GeneralCK.Certificates.E8TAxisProd0002GraphWholeB, GeneralCK.Certificates.E8TAxisProd0003GraphWholeB, GeneralCK.Certificates.E8TAxisProd0004GraphWholeB, GeneralCK.Certificates.E8TAxisProd0005GraphWholeB, GeneralCK.Certificates.E8TAxisProd0006GraphWholeB, GeneralCK.Certificates.E8TAxisProd0007GraphWholeB, GeneralCK.Certificates.E8TAxisProd0008GraphWholeB, GeneralCK.Certificates.E8TAxisProd0009GraphWholeB, GeneralCK.Certificates.E8TAxisProd0010GraphWholeB, GeneralCK.Certificates.E8TAxisProd0011GraphWholeB, GeneralCK.Certificates.E8TAxisProd0012GraphWholeB, GeneralCK.Certificates.E8TAxisProd0013GraphWholeB, GeneralCK.Certificates.E8TAxisProd0014GraphWholeB, GeneralCK.Certificates.E8TAxisProd0015GraphWholeB, GeneralCK.Certificates.E8TAxisProd0016GraphWholeB)` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module GeneralCK.Certificates.E8TAxisProd0001GraphWholeB (+15 modules: GeneralCK.Certificates.E8TAxisProd0002GraphWholeB, GeneralCK.Certificates.E8TAxisProd0003GraphWholeB, GeneralCK.Certificates.E8TAxisProd0004GraphWholeB, GeneralCK.Certificates.E8TAxisProd0005GraphWholeB, GeneralCK.Certificates.E8TAxisProd0006GraphWholeB, GeneralCK.Certificates.E8TAxisProd0007GraphWholeB, GeneralCK.Certificates.E8TAxisProd0008GraphWholeB, GeneralCK.Certificates.E8TAxisProd0009GraphWholeB, GeneralCK.Certificates.E8TAxisProd0010GraphWholeB, GeneralCK.Certificates.E8TAxisProd0011GraphWholeB, GeneralCK.Certificates.E8TAxisProd0012GraphWholeB, GeneralCK.Certificates.E8TAxisProd0013GraphWholeB, GeneralCK.Certificates.E8TAxisProd0014GraphWholeB, GeneralCK.Certificates.E8TAxisProd0015GraphWholeB, GeneralCK.Certificates.E8TAxisProd0016GraphWholeB) (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/GeneralCK/Certificates/E8TAxisProd0001GraphWholeB (+15 modules: GeneralCK/Certificates/E8TAxisProd0002GraphWholeB, GeneralCK/Certificates/E8TAxisProd0003GraphWholeB, GeneralCK/Certificates/E8TAxisProd0004GraphWholeB, GeneralCK/Certificates/E8TAxisProd0005GraphWholeB, GeneralCK/Certificates/E8TAxisProd0006GraphWholeB, GeneralCK/Certificates/E8TAxisProd0007GraphWholeB, GeneralCK/Certificates/E8TAxisProd0008GraphWholeB, GeneralCK/Certificates/E8TAxisProd0009GraphWholeB, GeneralCK/Certificates/E8TAxisProd0010GraphWholeB, GeneralCK/Certificates/E8TAxisProd0011GraphWholeB, GeneralCK/Certificates/E8TAxisProd0012GraphWholeB, GeneralCK/Certificates/E8TAxisProd0013GraphWholeB, GeneralCK/Certificates/E8TAxisProd0014GraphWholeB, GeneralCK/Certificates/E8TAxisProd0015GraphWholeB, GeneralCK/Certificates/E8TAxisProd0016GraphWholeB).lean)
+
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisProd0001PaddedInputs__4
+import Definitions.Def_GeneralCK_E8_Prod0001_graph_mixed_data
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisProd0005PaddedInputs__5
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisProd0010PaddedInputs__4
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisProd0014PaddedInputs__4
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0001GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0001GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0001PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+
+
+
+
+
+
+
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+
+
+
+
+
+
+
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+
+
+
+
+
+
+
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+
+
+
+
+
+
+
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+
+
+
+
+
+
+
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+
+
+
+
+
+
+
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+
+
+
+
+
+
+
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+
+
+
+
+
+
+
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+
+
+
+
+
+
+
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+
+
+
+
+
+
+
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+
+
+
+
+
+
+
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+
+
+
+
+
+
+
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+
+
+
+
+
+
+
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+
+
+
+
+
+
+
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+
+
+
+
+
+
+
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+
+
+
+
+
+
+
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+
+
+
+
+
+
+
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+
+
+
+
+
+
+
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+
+
+
+
+
+
+
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+
+
+
+
+
+
+
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+
+
+
+
+
+
+
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+
+
+
+
+
+
+
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+
+
+
+
+
+
+
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+
+
+
+
+
+
+
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+
+
+
+
+
+
+
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+
+
+
+
+
+
+
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+
+
+
+
+
+
+
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+
+
+
+
+
+
+
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+
+
+
+
+
+
+
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+
+
+
+
+
+
+
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+
+
+
+
+
+
+
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+
+
+
+
+
+
+
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+
+
+
+
+
+
+
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+
+
+
+
+
+
+
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0001StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0001GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0002GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0002GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0002PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨40533518663166560848124822041176720320630873059, 46237696723453030634713590725906446102500988239⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1371891156320640275377461634832536357649059351868, 1382641925933778624162051348417793952658857791773⟩,
+   ⟨-2765283851867557248324102696835587905317715583546, -2743782312641280550754923269665072715298118703736⟩,
+   ⟨5487564625282561101509846539330145430596237407472, 5530567703735114496648205393671175810635431167092⟩,
+   ⟨-11061135407470228993296410787342351621270862334184, -10975129250565122203019693078660290861192474814944⟩,
+   ⟨21950258501130244406039386157320581722384949629888, 22122270814940457986592821574684703242541724668368⟩,
+   ⟨-44244541629880915973185643149369406485083449336736, -43900517002260488812078772314641163444769899259776⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2833392793651543193581146467548819377304991894844, 2844143563264681542365736181134076972314790334749⟩,
+   ⟨-2765283851867557248324102696835587905317715583546, -2743782312641280550754923269665072715298118703736⟩,
+   ⟨5487564625282561101509846539330145430596237407472, 5530567703735114496648205393671175810635431167092⟩,
+   ⟨-11061135407470228993296410787342351621270862334184, -10975129250565122203019693078660290861192474814944⟩,
+   ⟨21950258501130244406039386157320581722384949629888, 22122270814940457986592821574684703242541724668368⟩,
+   ⟨-44244541629880915973185643149369406485083449336736, -43900517002260488812078772314641163444769899259776⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1382641925933778624162051348417793952658857791773, -1371891156320640275377461634832536357649059351868⟩,
+   ⟨2743782312641280550754923269665072715298118703736, 2765283851867557248324102696835587905317715583546⟩,
+   ⟨-5530567703735114496648205393671175810635431167092, -5487564625282561101509846539330145430596237407472⟩,
+   ⟨10975129250565122203019693078660290861192474814944, 11061135407470228993296410787342351621270862334184⟩,
+   ⟨-22122270814940457986592821574684703242541724668368, -21950258501130244406039386157320581722384949629888⟩,
+   ⟨43900517002260488812078772314641163444769899259776, 44244541629880915973185643149369406485083449336736⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨78859711397124294041633484298489066997074751203, 89610481010262642826223197883746662006873191108⟩,
+   ⟨2743782312641280550754923269665072715298118703736, 2765283851867557248324102696835587905317715583546⟩,
+   ⟨-5530567703735114496648205393671175810635431167092, -5487564625282561101509846539330145430596237407472⟩,
+   ⟨10975129250565122203019693078660290861192474814944, 11061135407470228993296410787342351621270862334184⟩,
+   ⟨-22122270814940457986592821574684703242541724668368, -21950258501130244406039386157320581722384949629888⟩,
+   ⟨43900517002260488812078772314641163444769899259776, 44244541629880915973185643149369406485083449336736⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨751012383309193371560118022338007815366515366233, 753861956840848241515098339853393668873726864655⟩,
+   ⟨724511420771263519497399522026442676094044771514, 735740664146564094945431344972419519839201836785⟩,
+   ⟨-73590133703103672969896562092179719752640698108, -12912901342674411946451537359898374171474188629⟩,
+   ⟨-1672922470258432813548169577946446998373025076180, -1239618088127805567968743714080339404819815325431⟩,
+   ⟨-1590444002936306215616749963163917954976005732459, 2281459010648204072652189053688039586464834311570⟩,
+   ⟨-9163088238546360886514569160713805639923051475409, 32368013644448497010793172342479417367827772055704⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨40523129287483824916551211959732611077098189491, 46222276350793564826511846990504318091521186333⟩,
+   ⟨1449022841542527038994799044052885352188089543030, 1471481328293128189890862689944839039678403673567⟩,
+   ⟨-136897414624243971290361540907135892871570899493, -36389791607333761821889628087077206618801014287⟩,
+   ⟨-3233069866283210594927837408928248208028834787066, -2595198626723176553131316609701522094180542126496⟩,
+   ⟨-2115969274044297286004078388495696354384854887579, 3495745446589140358236910944250140586873460129098⟩,
+   ⟨-7757606216459858522066130188724617487958937800267, 54319498625664520461753598855610236645672458678549⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5487564625282561101509846539330145430596237407472, 5530567703735114496648205393671175810635431167092⟩,
+   ⟨-11061135407470228993296410787342351621270862334184, -10975129250565122203019693078660290861192474814944⟩,
+   ⟨21950258501130244406039386157320581722384949629888, 22122270814940457986592821574684703242541724668368⟩,
+   ⟨-44244541629880915973185643149369406485083449336736, -43900517002260488812078772314641163444769899259776⟩,
+   ⟨87801034004520977624157544629282326889539798519552, 88489083259761831946371286298738812970166898673472⟩,
+   ⟨-176978166519523663892742572597477625940333797346944, -175602068009041955248315089258564653779079597039104⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5493059000452441624156612559097992258425789819921, 5534822816369127718823085406360598145623676737124⟩,
+   ⟨-10762717012417784705829396900906084693235545609498, -10638664827203593722301864366196691524483191700308⟩,
+   ⟨31579530058249252686187764386126475236740291986289, 31989732642200909830021176816281987151671320103803⟩,
+   ⟨-105836659753863181333491885690443245364143555746838, -104367861731866766338711671387185319224576218315276⟩,
+   ⟨373570929925206576542767913234100113453534974001335, 379102097385571809360781899612403574971490773650616⟩,
+   ⟨-1427919306282525405496756312150875486915796195928980, -1406482685696305328546914108307118126924600097485794⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨385917870686622734904799921871845649906887678986, 388852010463564517916942540465219003176304470602⟩,
+   ⟨741785421733952851520742307255916914253441361864, 761889531494992813455932475034722274926150107674⟩,
+   ⟨587076627893527942221459535919143493161067892102, 783690368475357955824386831447822086194469586098⟩,
+   ⟨-2901261469731486679689400712341587454109933459474, -352625528037349009427141750731102349447997931620⟩,
+   ⟨-26097260538774339998234727301706868246756730649675, 15191979862987575890103031693507197262966232136127⟩,
+   ⟨-386894335381720342641311449125830742124938445322064, 415897545624985404152229338476760417079469808480451⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1449022841542527038994799044052885352188089543029, 1471481328293128189890862689944839039678403673569⟩,
+   ⟨-157748233363609004255845074684648702689899753921, -14927711082363499202526490553122816670174324070⟩,
+   ⟨-3532058026901648849936951002318169000875732553116, -2289316378402058221043709962828630114217547797331⟩,
+   ⟨-7121834320920050134923817257037687828057222630090, 8455279347092081858617623413397396836768584731265⟩,
+   ⟨-104335938627506245370266409456288438405824857039468, 150911513666562688747394064111734832378204172980623⟩,
+   ⟨-2539637154319383607183573332750542570450654223929913, 2516364517046761101944085101929027968301961903773262⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨967529334281554329962408432162451897746719563587, 973064230117935785593232025639809025714311606104⟩,
+   ⟨-1426370140505894611163215886994604862100760860155, -1409929651301368059014398675198816480768521277622⟩,
+   ⟨1427776169912983842392443385742349044752336429305, 1492562795853959989929489302336480360813500571840⟩,
+   ⟨-240528301435906898719929563297204979180510344760, 67852639481773522014691456230838763933593002215⟩,
+   ⟨-3933768324553572058032217880299720585162955287512, -1891312792218904705001608703753852221222725515801⟩,
+   ⟨-8353617718834071101390101962694366105283840562891, 9720973870156570973973254925751306866148502874604⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1008062852944720890810533254203628618067350436646, 1019301926841388816227945616365715471816812594343⟩,
+   ⟨35131496825008307040468945721678157555171682821, 51571986029534859189286157517466538887411265354⟩,
+   ⟨1427776169912983842392443385742349044752336429305, 1492562795853959989929489302336480360813500571840⟩,
+   ⟨-240528301435906898719929563297204979180510344760, 67852639481773522014691456230838763933593002215⟩,
+   ⟨-3933768324553572058032217880299720585162955287512, -1891312792218904705001608703753852221222725515801⟩,
+   ⟨-8353617718834071101390101962694366105283840562891, 9720973870156570973973254925751306866148502874604⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨81067037326333121696249644082353440641261746118, 92475393446906061269427181451812892205001976478⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨76096494684891756013137564510419605409057064889, 87485605784487318541758868480871866850062456238⟩,
+   ⟨2568811101072305913671405532703328981597993791261, 2613090862497773736297827567814748694499601453768⟩,
+   ⟨-10756749428730661969243860529300673199634634074627, -10625186827427172928852657604736803393792224989994⟩,
+   ⟨32225502905419468060725008288133897648776924794932, 32574634264931552931784131845943698020540130483437⟩,
+   ⟨-87271539344803563850161085266572099283621985635241, -86401264311969180527489402733588377019938799219753⟩,
+   ⟨216703045626198849867057577781817917484647497699282, 218787620319488043673507813682513605052327420607217⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨39103213007100146163448724257311393120241380816, 45126237485814214331424829047304099781844496748⟩,
+   ⟨1357741706257157494386763292998905336842506618516, 1391908470539789224774805087451406147688917779285⟩,
+   ⟨-3006001620345688099010123444524955872193279138051, -2829634254227471161319799716603660634982676456726⟩,
+   ⟨-180657970382397846648288244536406477785250229170, 868098181232493317186074965470101584650790364068⟩,
+   ⟨7388540096793086040214134574078662979441645296905, 15866744136047323603835389442978084066546002781358⟩,
+   ⟨-49360821681932817817445512591481617980743652291453, 41308892748014020701989551636060104979772774895864⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨1006632547288654476125857156419763290866960944403, 1018190467603749999924656854687113125496156102852⟩,
+   ⟨-68628434248737116776452593995699525258254241639, -18021180761578834239593587747410333079603498337⟩,
+   ⟨-1578225450432704256617680058782606827440942708746, -1337071458373511171390310414267180274169175884886⟩,
+   ⟨-421186271818304745368217807833611456965760573930, 935950820714266839200766421700940348584383366283⟩,
+   ⟨3454771772239513982181916693778942394278690009393, 13975431343828418898833780739224231845323277265557⟩,
+   ⟨-57714439400766888918835614554175984086027492854344, 51029866618170591675962806561811411845921277770468⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨28088492813085558703955839271611943814502567113, 32038840531615197054857789450519965485753811141⟩,
+   ⟨1004386097182163010513162205760894832538068969085, 1019953133952985085874131364457366771589326423731⟩,
+   ⟨-94890056972740533522106471381617425642549525142, -25223481453787357446831557861045565377322801477⟩,
+   ⟨-2240993262367526811863834440717911019704989925515, -1798854611106211766484777258839498109319402309432⟩,
+   ⟨-1466678136455278928747470476133971365005314710028, 2423066100258529523670341075613607857726072285213⟩,
+   ⟨-5377162876833455730981764779192624276413550408568, 37651407321809186449453439790041418710606862673248⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨2013265094577308952251714312839526581733921888806, 2036380935207499999849313709374226250992312205704⟩,
+   ⟨-137256868497474233552905187991399050516508483278, -36042361523157668479187175494820666159206996674⟩,
+   ⟨-3156450900865408513235360117565213654881885417492, -2674142916747022342780620828534360548338351769772⟩,
+   ⟨-842372543636609490736435615667222913931521147860, 1871901641428533678401532843401880697168766732566⟩,
+   ⟨6909543544479027964363833387557884788557380018786, 27950862687656837797667561478448463690646554531114⟩,
+   ⟨-115428878801533777837671229108351968172054985708688, 102059733236341183351925613123622823691842555540936⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1048913294654892540482455635236561258782994698787, 1060956672657838420417405783166310557012745727546⟩,
+   ⟨18564950947424683933194889748612288960672848349, 72332049511387795949250509371867904903202792659⟩,
+   ⟨1378073354553688421572478734577473103932318571770, 1673258924261609313262431438780339021667975697319⟩,
+   ⟨-840150445970084430650513357732875932961085788905, 1126358027095733860601586367649145860733016846557⟩,
+   ⟨-4399315803875471927609008764856324811512304673835, 12609486497426606590941205456757628550070676763938⟩,
+   ⟨-92149827118877602589079812085929095302657109872437, 90371133571993590025998827779090120880494780106931⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨20158987705460350600286364260428443095008897125, 23258148179919802166133213005099329585408827430⟩,
+   ⟨721200281182802692082892175749098630598135335386, 742006365621184587514119600339067191177694939627⟩,
+   ⟨-16882278962726047946994479187885434041284238150, 119536391554086919778940213629829499765649737629⟩,
+   ⟨1181831160749702912713726587134102593880569946921, 2235903702097423040895289042121875123334898795004⟩,
+   ⟨-4601926835384807599107986725925342759509850192818, 4945563830995404852638572214836957744019098354883⟩,
+   ⟨-48025707991457857172518240210437171421913645730524, 57496572166897847950343685947187343126964574900064⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨27910951186660562977530521386534417189586762627, 32201866880747505595961241510965502827885056857⟩,
+   ⟨995867096164255346827311445465063564817758629119, 1024643386525331202461186202110306657265143103555⟩,
+   ⟨-283480855659126083487647339391874531057270627740, -97871716084209186883095164552608719446250674816⟩,
+   ⟨-7031377406715728015852210008311454856489089725574, -5715563704961876099007633646271767392541794305816⟩,
+   ⟨-2746848674705127063986187351793310316172096933313, 8141010080527707766120140148372125418886947239136⟩,
+   ⟨31941553371040100193020942349214800710349474542125, 145615332286272220730600989856118652546996780167019⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨999455671014553395077135280525271995306620986969, 1026262109414742080502728006116003502641814099606⟩,
+   ⟨-75187556455303600849001279624771714466983072148, 41627831218130861039327704821848154952485460903⟩,
+   ⟨-1058927345386509756908422190102896179926786322162, -77006673886108351112755680038683148729565992946⟩,
+   ⟨-6066394520766328742406049600841126564804653892244, 5756479899816294167536822492671017678759959524234⟩,
+   ⟨-99405405871116585746411812594057422375239175061450, 91254120726906328723255927342545132982200740005469⟩,
+   ⟨-1872325356691039930998503981596562086302187186455714, 1885698977269595044439298195172279121392394654630113⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2081326998556950710539205533469717296148099460667, 2137150348802020343961476642245515007400652199720⟩,
+   ⟨-89013386574105050137544053526339874899078294689, 160774626793511755688358850371792082692689788633⟩,
+   ⟨142781907038342485913406254305722589881412062783, 2288509150069854655518944167625300600112909268551⟩,
+   ⟨-12878046064880351974671603499232627822013166457976, 13999365605529327251421676963602917674822703337737⟩,
+   ⟨-202724000592246956176012073634855117274096333114564, 235224128283872119066023365771815601969226756738216⟩,
+   ⟨-4453143727626993620100677639968447783945796090403086, 4459280181120489861485303088591249286765825932148028⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨39748033650029398464913408517628891355841064506, 47088712922655430399546699395483015600452588229⟩,
+   ⟨1416254778048852158533923440729413642409939036367, 1501875986980592284700788145205403968066193860502⟩,
+   ⟨-536619300595488154030327184206656574138473874548, 136479175226333220179240670033437232862891326713⟩,
+   ⟨-10367393092307478458707665472964028024261339748612, -2965944863081227414533281280698688576819313211967⟩,
+   ⟨-50355399157240991400300505083143385062738804318946, 58002226591123399078822040598514165762680776741987⟩,
+   ⟨-903002948478491847544460296272128668784736688959921, 1159624828510226398882906241956596190325693230403726⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨80281552313195959313038230558805611676471937565, 93326409646108461034260290121389461702953576468⟩,
+   ⟨2877756415379755076737608273445696662065871579343, 2963377624311495202904472977921686987722126403478⟩,
+   ⟨-536619300595488154030327184206656574138473874548, 136479175226333220179240670033437232862891326713⟩,
+   ⟨-10367393092307478458707665472964028024261339748612, -2965944863081227414533281280698688576819313211967⟩,
+   ⟨-50355399157240991400300505083143385062738804318946, 58002226591123399078822040598514165762680776741987⟩,
+   ⟨-903002948478491847544460296272128668784736688959921, 1159624828510226398882906241956596190325693230403726⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨231643594794231398682889571427561801197892179601, 269283096760825190303666621321119685612235654051⟩,
+   ⟨8303449818709545028384073338423975850931517679395, 8550500405751023628832364620036447595005635709529⟩,
+   ⟨-1548356007628829456221547694106679503342920956867, 393795658567293613565383649516149582700661205368⟩,
+   ⟨-29913973202436988832123591963252643463540797482715, -8557907891034764719171084034935728422724086443424⟩,
+   ⟨-145294969292271731183372449213214998290920476926245, 167359049327063385727729225439789752384740191905144⟩,
+   ⟨-2605515751356064626136655352196935500651074012743578, 3345969978766836507514099132863055318374945575390976⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨20158987705460350600286364260428443095008897125, 23258148179919802166133213005099329585408827430⟩,
+   ⟨123271778466115830794305384522392793650837748530, 130601562235231199786798593420496735619317703732⟩,
+   ⟨-1628762355393616525078892931354933379615469555, 8099905178480560792974128948730387016822863031⟩,
+   ⟨8890866158952794767913962221101353413006364789, 28735757293388245988184009575972328549975377870⟩,
+   ⟨-22224594853452268191920489408283742852190090774, 27753098547131252846230169508079931546378390913⟩,
+   ⟨-73040830821986133549514138480666055608903890918, 99331981308732149504280833777376792618927592962⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0002StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0002GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0003GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0003GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0003PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨121252999859680607281913286376018482511954664933, 132110463846210516044711664841215322615024972690⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1219788070376012291331212345706861179026867056585, 1238046937477863287537128374947874710563698058428⟩,
+   ⟨-2476093874955726575074256749895749421127396116856, -2439576140752024582662424691413722358053734113170⟩,
+   ⟨4879152281504049165324849382827444716107468226340, 4952187749911453150148513499791498842254792233712⟩,
+   ⟨-9904375499822906300297026999582997684509584467424, -9758304563008098330649698765654889432214936452680⟩,
+   ⟨19516609126016196661299397531309778864429872905360, 19808750999645812600594053999165995369019168934848⟩,
+   ⟨-39617501999291625201188107998331990738038337869696, -39033218252032393322598795062619557728859745810720⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2681289707706915209534897178423144198682799599561, 2699548574808766205740813207664157730219630601404⟩,
+   ⟨-2476093874955726575074256749895749421127396116856, -2439576140752024582662424691413722358053734113170⟩,
+   ⟨4879152281504049165324849382827444716107468226340, 4952187749911453150148513499791498842254792233712⟩,
+   ⟨-9904375499822906300297026999582997684509584467424, -9758304563008098330649698765654889432214936452680⟩,
+   ⟨19516609126016196661299397531309778864429872905360, 19808750999645812600594053999165995369019168934848⟩,
+   ⟨-39617501999291625201188107998331990738038337869696, -39033218252032393322598795062619557728859745810720⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1238046937477863287537128374947874710563698058428, -1219788070376012291331212345706861179026867056585⟩,
+   ⟨2439576140752024582662424691413722358053734113170, 2476093874955726575074256749895749421127396116856⟩,
+   ⟨-4952187749911453150148513499791498842254792233712, -4879152281504049165324849382827444716107468226340⟩,
+   ⟨9758304563008098330649698765654889432214936452680, 9904375499822906300297026999582997684509584467424⟩,
+   ⟨-19808750999645812600594053999165995369019168934848, -19516609126016196661299397531309778864429872905360⟩,
+   ⟨39033218252032393322598795062619557728859745810720, 39617501999291625201188107998331990738038337869696⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨223454699853039630666556457768408309092234484548, 241713566954890626872472487009421840629065486391⟩,
+   ⟨2439576140752024582662424691413722358053734113170, 2476093874955726575074256749895749421127396116856⟩,
+   ⟨-4952187749911453150148513499791498842254792233712, -4879152281504049165324849382827444716107468226340⟩,
+   ⟨9758304563008098330649698765654889432214936452680, 9904375499822906300297026999582997684509584467424⟩,
+   ⟨-19808750999645812600594053999165995369019168934848, -19516609126016196661299397531309778864429872905360⟩,
+   ⟨39033218252032393322598795062619557728859745810720, 39617501999291625201188107998331990738038337869696⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨791238600354587671053541922878328619101372833976, 796626723990837493967204536066015499268760184045⟩,
+   ⟨715040592001134273168676509225906940091768541868, 735661851917782463362436567837774478228730518343⟩,
+   ⟨-178962466706322531070071981578953470135545695026, -71356089629647532170938857733218356725512549162⟩,
+   ⟨-1788476130864579022438153075977482837559567125220, -1047289457412830160518126950988430896624380103092⟩,
+   ⟨-2204759149785166289504156133914212408087450748620, 4184067425349831572171338342549400442683941521500⟩,
+   ⟨-22100329507572152181519864881242880130990310510003, 44009190641887611242800259978427688842077074934177⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨120975563378272423903399013040374218546813124977, 131751810650772069730724239415747978881587825113⟩,
+   ⟨1430081184002268546337353018451813880183537083738, 1471323703835564926724873135675548956457461036682⟩,
+   ⟨-341779175191380818930460626065551941575473196269, -159687036004175063636690752703721055677618802884⟩,
+   ⟨-3400572404572758786998146331300172980967906583160, -2280218583002821655531933039929166652942602282737⟩,
+   ⟨-2755769019691799952687538394126905865317065809738, 6713575224683962700273710163223878046034953190879⟩,
+   ⟨-28219122067489985596825113379170326943787362890108, 72410736870547413551556510316158335021370599677211⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨4879152281504049165324849382827444716107468226340, 4952187749911453150148513499791498842254792233712⟩,
+   ⟨-9904375499822906300297026999582997684509584467424, -9758304563008098330649698765654889432214936452680⟩,
+   ⟨19516609126016196661299397531309778864429872905360, 19808750999645812600594053999165995369019168934848⟩,
+   ⟨-39617501999291625201188107998331990738038337869696, -39033218252032393322598795062619557728859745810720⟩,
+   ⟨78066436504064786645197590125239115457719491621440, 79235003998583250402376215996663981476076675739392⟩,
+   ⟨-158470007997166500804752431993327962952153351478784, -156132873008129573290395180250478230915438983242880⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨4919128595561936269185599817969919907258916968770, 4986352612687523223579693422946012916288208587702⟩,
+   ⟨-9147216151515028071355520861127420744274311945190, -8951355551420084238602810558187102834304469476836⟩,
+   ⟨26047117642672238623761543467093521905002941454668, 26684489106237205985125056444926685292587663313332⟩,
+   ⟨-86929205425303011339906171780540745801331484318476, -84671861444672757833746776337064308755581892913312⟩,
+   ⟨299654227526658638012388310285637677293467825842531, 308099319701920420158436579123830992467287599404197⟩,
+   ⟨-1153162274809098430231370100498659988393073721877388, -1120550473602569765404355651017311593716151811748686⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨428366624230704942378426452514863032183922536998, 434220613351724294762957077046474889430205985550⟩,
+   ⟨768991336491929274578804449326007909238985979799, 807441751239260642365068785597067581128408263935⟩,
+   ⟨405452483788721489449037960447466772404825081332, 765256773217674310179070398193927413383928568422⟩,
+   ⟨-4137410166868147848595990752442708298673874644967, 323504280976365948668346681157253707068065295922⟩,
+   ⟨-39043734148088757238653402360075753901935574110600, 30075021887142152900691639146241379640001530913777⟩,
+   ⟨-623548327652057966360126339555740082613418691278626, 661794361015763504006267041009580373814547382335269⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1430081184002268546337353018451813880183537083737, 1471323703835564926724873135675548956457461036682⟩,
+   ⟨-375407154178387848507379955342844958714717226598, -124207068935117127235615534165002752743035134139⟩,
+   ⟨-3869913021982440244222412730545151183215816435502, -1790651506707909870917263997560663227507826523065⟩,
+   ⟨-10541096136456604259217645381561289382907994458591, 14365483273278128828365530443557729778509771634951⟩,
+   ⟨-173249366284151457421573771625643708672095364155112, 217683191710782510309033338101432076362533807121069⟩,
+   ⟨-3741832080269362366266868864778292943915858107044834, 3674081475381395240787715774507940114611467075180792⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨886888134996521783257090466047055991317612458814, 896806837320689770602186504796947362731308911748⟩,
+   ⟨-1349654698644141308700726604373351037494595476256, -1320755832057981157769943385508311677251365890576⟩,
+   ⟨1395144394285951632765526051619590266374137074868, 1505745241519761732509847379270809600858314637470⟩,
+   ⟨-505252750540240628217885996788990610791453770762, 5646141932540717309569764638572895886430098567⟩,
+   ⟨-4461400415139639314769354781603597792518312136424, -1210130761415179051143205272328229675849582320297⟩,
+   ⟨-11870958439720883192166575121125388303962264680434, 15778498415894651203871675167762809123172651456026⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1008141134856202390539003752423074473829567123747, 1028917301166900286646898169638162685346333884438⟩,
+   ⟨111846938686761609502958228342931982161337066720, 140745805272921760433741447207971342404566652400⟩,
+   ⟨1395144394285951632765526051619590266374137074868, 1505745241519761732509847379270809600858314637470⟩,
+   ⟨-505252750540240628217885996788990610791453770762, 5646141932540717309569764638572895886430098567⟩,
+   ⟨-4461400415139639314769354781603597792518312136424, -1210130761415179051143205272328229675849582320297⟩,
+   ⟨-11870958439720883192166575121125388303962264680434, 15778498415894651203871675167762809123172651456026⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨242505999719361214563826572752036965023909329866, 264220927692421032089423329682430645230049945380⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨202398627477767989451041112269030336518672467712, 223823156944639181571684417067134204135364588896⟩,
+   ⟨1991929826862746219519055857279453949783004935378, 2071296620000190596172174525357688748090051181432⟩,
+   ⟨-9094780989911834342492862550506876338434894596576, -8863011935229541604362961097386352615673478097096⟩,
+   ⟨27484328433467181539375620960427594663561892646873, 28093937479646574985282752100596750361379373660575⟩,
+   ⟨-75996625958938962571159558200359496091777916255998, -74485265992950559740050639452164968191553658199107⟩,
+   ⟨188003750237933512802700073966949494111967062208935, 191610753917169550343507224399050982921594170381691⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨109576070685536763093406200983891106703630333326, 122000211095025105113103729446224729822602628628⟩,
+   ⟨1177429404571882055643213045266780234334513836358, 1241673873358207310209561527666915389730792809079⟩,
+   ⟨-3035631333628544185093325641501526308628456066496, -2722988203932088618451801697352815130408625759153⟩,
+   ⟨111019959776297665729403133736797534277430340654, 1867779335248326044662662245048868629034926718439⟩,
+   ⟨4483021700202423240573635540006651519122546713396, 17853325243241591634139833053720699918927734571805⟩,
+   ⟨-79383831050863056414100720926253652536043154422412, 56497403972996178622254579422868104887735979924382⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨996464205682058546350496667030947098021242792140, 1018807048415714875715290234243172092553911540376⟩,
+   ⟨-172225294072259253057513559106570803160081639898, -79081958699773847560381857841396287520573081497⟩,
+   ⟨-1640486939342592552327799589881936042254318991628, -1217242962412326885941954318082005529550311121683⟩,
+   ⟨-394232790763942962488482863052193076514023430108, 1873425477180866761972232009687441524921356817006⟩,
+   ⟨21621285062783925804280758403053726604234576972, 16643194481826412582996627781392470243078152251508⟩,
+   ⟨-91254789490583939606267296047379040840005419102846, 72275902388890829826126254590630914010908631380408⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨83853870672300503168176345545401059337285973950, 91323396086250433337742011046388103668046028388⟩,
+   ⟨991256740663000807564347497542900173372714540568, 1019843877004637819263365848238800235931118134691⟩,
+   ⟨-236903271658009220952643516186387258008234031695, -110686618778268420371371231868193277168545173896⟩,
+   ⟨-2357097174519561425302180265268227709075517804574, -1580527081868799462573328343129073622076736808754⟩,
+   ⟨-1910153526273815542743248022639331683710643793117, 4653495738466790093401432582889151971329095572731⟩,
+   ⟨-19560004898957618232243267297278062751862466283419, 50191298104088017221663629577411458706322581496745⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1992928411364117092700993334061894196042485584280, 2037614096831429751430580468486344185107823080752⟩,
+   ⟨-344450588144518506115027118213141606320163279796, -158163917399547695120763715682792575041146162994⟩,
+   ⟨-3280973878685185104655599179763872084508637983256, -2434485924824653771883908636164011059100622243366⟩,
+   ⟨-788465581527885924976965726104386153028046860216, 3746850954361733523944464019374883049842713634012⟩,
+   ⟨43242570125567851608561516806107453208469153944, 33286388963652825165993255562784940486156304503016⟩,
+   ⟨-182509578981167879212534592094758081680010838205692, 144551804777781659652252509181261828021817262760816⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1048278493578570215706324662135438232492018291951, 1071783122635535315159385515339949269303909390478⟩,
+   ⟨81369594629281641312811440597466171381188821197, 185243145137604518456387953843229541900563267360⟩,
+   ⟨1265086804027071447700287465001538256197507138614, 1828518590426082997586461015937596019503578008600⟩,
+   ⟨-1428779860033407844922129690728842262915579297579, 2287036879996643925807442781003553986232947166480⟩,
+   ⟨-11436383020275131089925736752068730847770253462005, 19913866544081988263672415392258033152954135328370⟩,
+   ⟨-168042817688198255210035420675036478377488555004063, 160249420942254067758448240582808070685692375641259⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨60145132228263949988912495674756307478785208795, 66971443703447776481617387809988705043483803914⟩,
+   ⟨715658642864525030067691660274332855681184513627, 759471258779790547606593032138268610165185049563⟩,
+   ⟨9230106194847038304672710220011985873965429659, 293392965968066887888288656436970581495054020660⟩,
+   ⟨666195179417839286783464420697613959772922134325, 2818620390559646491513929921423630089113662069005⟩,
+   ⟨-9076860039119493193048052328565808978948188563945, 10113725154865629908005971714758685901572771488575⟩,
+   ⟨-99154312028345177995486496332255321975033123685726, 107884798385541678281703967460789078027599972553942⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨82482164637750708918057732616082999789090924346, 91843669486186077136529258854577354777931616242⟩,
+   ⟨959515665890622581887685884338361006616195359579, 1019107975945976387910817732180274749381124444029⟩,
+   ⟨-732905420747489200232002200881778555446168281731, -364396657036582828018231311491541196342758066515⟩,
+   ⟨-7334678670841897324566301662393885350796731532324, -4838180494357092827316556464447988117562699619139⟩,
+   ⟨-2215251244974697798563099398886180227672426343055, 17629151637228374309061015786636448093560355160162⟩,
+   ⟨-17137605497783528146514192380445157842612698745251, 181483956958197128015676115827158610606303160274439⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986467364080088040159933039886502377360333197722, 1035832171394699075422784199168938235011504492116⟩,
+   ⟨-154849442266166924125144639915638140781425328545, 56013884616352111799004599870503092205980287597⟩,
+   ⟨-1431626640771672933237783983134450329315628541850, 261665709476909292669403988828862173848919702252⟩,
+   ⟨-10208083820941256365355207585197017600801416474232, 9352370313601310419600340019016901229205031980335⟩,
+   ⟨-154450043828904466222215580103056714911894531659017, 147864590046872605625784001894159121367522038362981⟩,
+   ⟨-2837910892596923498924966915334292839424530000503362, 2874417502426414065844273112042767887484414416028459⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2062097601240657030871261905171797254734019936610, 2165289105040778948255859715728196108920856263210⟩,
+   ⟨-122950092934804569818364919935466921429855886607, 339893464770874008211476481580415516404336119660⟩,
+   ⟨-612954303959195998450977193110917747882162962970, 3249119343788231614850951888198720803290027635605⟩,
+   ⟨-21617166057905233452204339387761556701676739323624, 25416580584502300664613976131304138264915481301450⟩,
+   ⟨-356362097263081667864591541878671238649639603329570, 397336783297005796492269571622063548694096582972227⟩,
+   ⟨-7469366595110306218390388303800706737414141729384259, 7512220749123795263277323295157655283828708380325532⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨116377751143177779601947917328386951971835002672, 136071073631222100180474859714219840772055842356⟩,
+   ⟨1346096860267599627484868818660019965776652745013, 1531219947383629599916773090778285115319023630742⟩,
+   ⟨-1295822657604286572528038109317861222997621361125, 164054453633392055982242485218215411025392405969⟩,
+   ⟨-14018751874684143972890866685667562730131926200670, 1752645534158782012242115823189713939948110457864⟩,
+   ⟨-102570523417050622544464603724583191872052521789347, 126292476399167468147307571527427551351363331854335⟩,
+   ⟨-2035173002266281043313934838428356092525786348216802, 2285944997643369640674354319681208433904738949464980⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨237630751002858386883861203704405434483789667605, 268181537477432616225186524555435163387080815046⟩,
+   ⟨2807598497598502545688553651376302985432585287989, 2992721584714532518120457923494568134974956173718⟩,
+   ⟨-1295822657604286572528038109317861222997621361125, 164054453633392055982242485218215411025392405969⟩,
+   ⟨-14018751874684143972890866685667562730131926200670, 1752645534158782012242115823189713939948110457864⟩,
+   ⟨-102570523417050622544464603724583191872052521789347, 126292476399167468147307571527427551351363331854335⟩,
+   ⟨-2035173002266281043313934838428356092525786348216802, 2285944997643369640674354319681208433904738949464980⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨685657412069087725369492890453041160183893557056, 773808348353339441418523921021183446354787209107⟩,
+   ⟨8101016858585327722032039744714967916170441623138, 8635169178058031714077038160361639330386091188954⟩,
+   ⟨-3738953843994522891925800894471960951879188607834, 473361093385286207270989078890480085647163293838⟩,
+   ⟨-40449567618119347019576192600547560499946056698218, 5057066041134126254885731797171749478626636722578⟩,
+   ⟨-295955970950328453130647058957398026132189193691489, 364403058805330713138410813051537623026852380641587⟩,
+   ⟨-5872267995441333494193199730784030252702346326795009, 6595843023690045047259796206011108955398096021780878⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨60145132228263949988912495674756307478785208795, 66971443703447776481617387809988705043483803914⟩,
+   ⟨121125163473836706014182668097322229360822399166, 137015945971782414494574590046546770490817173678⟩,
+   ⟨-1143969919209102332763770731756484396343285978, 21587732091735594148655975214096523262962109285⟩,
+   ⟨190162034216478478253235042139096168939587804, 47933216787784637062658939706449035901551401649⟩,
+   ⟨-57623615884178222323571357219968795964598114647, 84829583153759401359324742028839917139848945759⟩,
+   ⟨-257350685807545679691943093480780938694002191813, 325928143608982186318669987871363684287504589465⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0003StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0003GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0004GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0004GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0004PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨111685688823663682104164597513308723070170976648, 122529524349534149185465417549696152859615239959⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1235886122017267861038260021348983644245296257024, 1254362564991884505726197553118043780144396161571⟩,
+   ⟨-2508725129983769011452395106236087560288792323142, -2471772244034535722076520042697967288490592514048⟩,
+   ⟨4943544488069071444153040085395934576981185028096, 5017450259967538022904790212472175120577584646284⟩,
+   ⟨-10034900519935076045809580424944350241155169292568, -9887088976138142888306080170791869153962370056192⟩,
+   ⟨19774177952276285776612160341583738307924740112384, 20069801039870152091619160849888700482310338585136⟩,
+   ⟨-40139602079740304183238321699777400964620677170272, -39548355904552571553224320683167476615849480224768⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2697387759348170779241944854065266663901228800000, 2715864202322787423929882385834326799800328704547⟩,
+   ⟨-2508725129983769011452395106236087560288792323142, -2471772244034535722076520042697967288490592514048⟩,
+   ⟨4943544488069071444153040085395934576981185028096, 5017450259967538022904790212472175120577584646284⟩,
+   ⟨-10034900519935076045809580424944350241155169292568, -9887088976138142888306080170791869153962370056192⟩,
+   ⟨19774177952276285776612160341583738307924740112384, 20069801039870152091619160849888700482310338585136⟩,
+   ⟨-40139602079740304183238321699777400964620677170272, -39548355904552571553224320683167476615849480224768⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1254362564991884505726197553118043780144396161571, -1235886122017267861038260021348983644245296257024⟩,
+   ⟨2471772244034535722076520042697967288490592514048, 2508725129983769011452395106236087560288792323142⟩,
+   ⟨-5017450259967538022904790212472175120577584646284, -4943544488069071444153040085395934576981185028096⟩,
+   ⟨9887088976138142888306080170791869153962370056192, 10034900519935076045809580424944350241155169292568⟩,
+   ⟨-20069801039870152091619160849888700482310338585136, -19774177952276285776612160341583738307924740112384⟩,
+   ⟨39548355904552571553224320683167476615849480224768, 40139602079740304183238321699777400964620677170272⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨207139072339018412477487279598239239511536381405, 225615515313635057165424811367299375410636285952⟩,
+   ⟨2471772244034535722076520042697967288490592514048, 2508725129983769011452395106236087560288792323142⟩,
+   ⟨-5017450259967538022904790212472175120577584646284, -4943544488069071444153040085395934576981185028096⟩,
+   ⟨9887088976138142888306080170791869153962370056192, 10034900519935076045809580424944350241155169292568⟩,
+   ⟨-20069801039870152091619160849888700482310338585136, -19774177952276285776612160341583738307924740112384⟩,
+   ⟨39548355904552571553224320683167476615849480224768, 40139602079740304183238321699777400964620677170272⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨786485213102360611511446308603034563708857353693, 791872443447684244013661135034843737830007832792⟩,
+   ⟨715798793778920716616095630409492112643642056725, 736486733037937416901500665467878763148243104102⟩,
+   ⟨-170042642610606531864306151253571654300394289465, -61647888135754965438109630222830461040736572001⟩,
+   ⟨-1799018546400649552462961168705651889814269307244, -1049242923791826914905482266908994795625045328873⟩,
+   ⟨-2327568787217742656424116037337886305974352804964, 4162573078243048264918296331266836301695329148532⟩,
+   ⟨-22661375765004417507395184766732591831620943699270, 44779472273140654014460364497598948889509159172453⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨111468788873818304819207784489786107761782164410, 122243249564465569823637437353404456004083122607⟩,
+   ⟨1431597587557841433232191260818984225287284113453, 1472973466075874833803001330935757526296486208202⟩,
+   ⟨-323613509586673847953546654839578738982956334245, -140614810922536103128593814583823703012828857608⟩,
+   ⟨-3418035594991045178896004660208374696731494000162, -2287966080265658748410585628919632983010413990755⟩,
+   ⟨-2965176458429518540279938422439771046057766019109, 6633213077567044419759361862369998753100352338696⟩,
+   ⟨-28945737462741149164393151127545177259618129732878, 73554595991298653677149766583568483987545940431561⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨4943544488069071444153040085395934576981185028096, 5017450259967538022904790212472175120577584646284⟩,
+   ⟨-10034900519935076045809580424944350241155169292568, -9887088976138142888306080170791869153962370056192⟩,
+   ⟨19774177952276285776612160341583738307924740112384, 20069801039870152091619160849888700482310338585136⟩,
+   ⟨-40139602079740304183238321699777400964620677170272, -39548355904552571553224320683167476615849480224768⟩,
+   ⟨79096711809105143106448641366334953231698960449536, 80279204159480608366476643399554801929241354340544⟩,
+   ⟨-160558408318961216732953286799109603858482708681088, -158193423618210286212897282732669906463397920899072⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨4978373296638317090912524062275898043332949949994, 5046808143799832692709215666867275082242195843617⟩,
+   ⟨-9323775765908181075117333124131793129767468556280, -9123942149160585246682316832842525517726884599976⟩,
+   ⟨26608679620504198098423187160578232916945168343716, 27260202543697648254659752071582822277914704932551⟩,
+   ⟨-88971009134920440927019847436442588629348481145064, -86660540529740506617080588300729193359855933262482⟩,
+   ⟨307093806214409454915098032519749296823574252825162, 315744434459941459524841068045992953552773247409984⟩,
+   ⟨-1182698533680285229732887628784417012281851635299386, -1149278513048532676553943488712662234062598050851118⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨423235236026366359121298710723578426942346801243, 429053208477405846689452292656971666817294693686⟩,
+   ⟨765151695678180507564249820407059455957938766003, 803554829885513753203440609588540151540398505171⟩,
+   ⟨417202895327436686975241477623191297139525646384, 778428700578438517471512985714618103953349784471⟩,
+   ⟨-4127946676864674801711995999980730116246927489358, 374053530504997544862906943218067055867813724246⟩,
+   ⟨-39668781821953380543284541976217103513513348168285, 30452687007540689527456508756398373089926328843671⟩,
+   ⟨-636776728945611619126810874244645008277556183090287, 674057053759743772409972360418729485464288984318314⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1431597587557841433232191260818984225287284113453, 1472973466075874833803001330935757526296486208204⟩,
+   ⟨-357813363848293944413816109342544877014689826166, -104528139018212658728496614560301625313360165300⟩,
+   ⟨-3897084661751890588781894967710865037191057707517, -1788233354193372965322082455533634714408975894186⟩,
+   ⟨-10932193383981980375964076345818208711047934111733, 14468220176917194050013729877299573252738316404198⟩,
+   ⟨-177962443638917190892602687762177296590011596922174, 222804073357828192643425225112048238232359532147306⟩,
+   ⟨-3852309088263955406171861522337449395384883483493590, 3789304499225764575928382874007671135461342239445347⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨895636530573733989776573437297737868724720843920, 905613327040268922296823991053019244681353657618⟩,
+   ⟨-1359280241551359023291607965278907063319732481551, -1330147206430978724180084926552175155637978980699⟩,
+   ⟨1396085924908282542187662583072785845813109163976, 1507962050926246817743318358292933513260580819160⟩,
+   ⟨-490464926117135409228912246460294906363925169361, 28130020222786228832503984285535460701824123449⟩,
+   ⟨-4506096017797439400733059347133783252319210058580, -1190426922587513534003827524095510118559419213579⟩,
+   ⟨-12356948812586742122894765563813830426532638564979, 15976616870579210216051872087103664955046303200131⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1007322219397397671880738034811046591794891820568, 1028142851389803071482289408602715397540968897577⟩,
+   ⟨102221395779543894912076867437375956336200061425, 131354430899924194023599906164107864017953562277⟩,
+   ⟨1396085924908282542187662583072785845813109163976, 1507962050926246817743318358292933513260580819160⟩,
+   ⟨-490464926117135409228912246460294906363925169361, 28130020222786228832503984285535460701824123449⟩,
+   ⟨-4506096017797439400733059347133783252319210058580, -1190426922587513534003827524095510118559419213579⟩,
+   ⟨-12356948812586742122894765563813830426532638564979, 15976616870579210216051872087103664955046303200131⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨223371377647327364208329195026617446140341953296, 245059048699068298370930835099392305719230479918⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨188889001995490836215986224889521104439768388334, 210326755064070250864366884810052448410679491694⟩,
+   ⟨2051118733906395220347786273077862391669233530660, 2130947125992787339020422656457045351409255546473⟩,
+   ⟨-9279344511953112700945635525386265823396095739230, -9045781955881861884848612631551659360319652089417⟩,
+   ⟨27978652887901866658003305433895187874601674235027, 28593589543841301447700851475716881887947360771028⟩,
+   ⟨-77256980127552754987020863801322464258205060127191, -75731483728080019092618771209374114057128088582439⟩,
+   ⟨191011323360712609738461863101915704730105657389647, 194653562334845814157280049302422329481030797424654⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨101647786901165325070642659838729107847565734605, 113959476473236671503184673025045246562157964551⟩,
+   ⟨1196290876221054606770757339167892064380557507373, 1260580984082884332706108667690669946718840547478⟩,
+   ⟨-3043065423028280836329959240323426923600062276647, -2728145957056875715423781790407396377574391467142⟩,
+   ⟨25328080394144050683051555987065449554468151376, 1806405309208028893437553121798822860321502911433⟩,
+   ⟨4415039089468297714473511827606013906865649016834, 18068966463389173162506343077250091302519278174880⟩,
+   ⟨-80424894542773167684769141169403886081653989523960, 59224419055545133538106835764503949902553839910316⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨997284317474899314847216097136466976572286578525, 1019572803513505593800008664078064491243511622169⟩,
+   ⟨-162989365330304416520850626111014998939174974178, -69566222348094391473976258861505208919138433221⟩,
+   ⟨-1646979498119998294142296657250641077786953112671, -1220183906130628897680463432114462864313810647982⟩,
+   ⟨-465136845722991358545860690473229456809457017985, 1834535329430815122270057106084358321023327034882⟩,
+   ⟨-91056928329141686259547519527769345453561041746, 16878539540801659628502515553154581183959858961301⟩,
+   ⟨-92781843355359909807663906733217716508186628088939, 75201035926124343754158707851607614857600143110447⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨77264276728318959294128597613187271157815462213, 84732563778095072131889986308419991018283640010⟩,
+   ⟨992307831512137230458090232892691470333301211831, 1020987405050102890308747643435953048393628533857⟩,
+   ⟨-224311791761111810045856136012428944969696225008, -97466759735925702142439049143866719993831745806⟩,
+   ⟨-2369201735721578089840735030937851318790554518630, -1585897237752930887053612942295078165534573046621⟩,
+   ⟨-2055303702023144654444765006094445812136676935644, 4597792942768954649639647173777612607123492325207⟩,
+   ⟨-20063656311527412533143029319993881558408076535673, 50984160828594517345520217218042968532727883772436⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1994568634949798629694432194272933953144573157050, 2039145607027011187600017328156128982487023244338⟩,
+   ⟨-325978730660608833041701252222029997878349948356, -139132444696188782947952517723010417838276866442⟩,
+   ⟨-3293958996239996588284593314501282155573906225342, -2440367812261257795360926864228925728627621295964⟩,
+   ⟨-930273691445982717091721380946458913618914035970, 3669070658861630244540114212168716642046654069764⟩,
+   ⟨-182113856658283372519095039055538690907122083492, 33757079081603319257005031106309162367919717922602⟩,
+   ⟨-185563686710719819615327813466435433016373256177878, 150402071852248687508317415703215229715200286220894⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1047491178933067775601714200465414447141528382572, 1070901747121211909342559774633162476519056981878⟩,
+   ⟨71471114186462370351940094169827233897324410759, 175020897286689388160526982673927935985596341236⟩,
+   ⟨1263348556131616025305280469810343993053222474529, 1825764508717391579675713260114162226254192020864⟩,
+   ⟨-1454757885781447286019431844765583950681378129937, 2261766183913276471889143758214938302094508310027⟩,
+   ⟨-11487969159677007802767748793973318019000766266196, 19994000679166914094894172415702931947567438918596⟩,
+   ⟨-169288545893171796182303740156030555769492916656364, 161916813333569295227035898641024873075062641833934⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨55377049366406691348957542189683728854245630364, 62086998926486156094453836215272616931323165643⟩,
+   ⟨714987816331236286215442129853517832376700517880, 758266112669320948853368451800071462876102993390⟩,
+   ⟨-521028895136756227071043396962172888572713544, 280529552375612604256638071201609756867151974482⟩,
+   ⟨672367773550990949530140494491257886291881214723, 2806552730177191655877330271507188428014294274079⟩,
+   ⟨-9053341635943357383815098515223068709860680293319, 10032610224250871005004013554884244680016925560534⟩,
+   ⟨-98941985898580898541032625463467235339930495871519, 107860365530376653504896311502401107842238850645757⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨76062915149926786005068770575591832462330536865, 85279338377384315407486483470715684626567181339⟩,
+   ⟨963245909128712914273690573067128649550973387954, 1022269962341509358968831725414004974452494090137⟩,
+   ⟨-692053743884749011289651036174557620626278380861, -325300381465050146098130163476156763690559570930⟩,
+   ⟨-7383037332351060001074254961928500918080844132853, -4885176503293579067731808641764142052248505402481⟩,
+   ⟨-2811331159752733523215482915015192727474819676687, 17147802430859641636740003217355136122085233792587⟩,
+   ⟨-17071475330216203797635728199579377580618664938604, 183859760767501868198839237982896684256607698825764⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986711216975680712574936691873135970193487559127, 1036213098056136749442451785690888389593965264538⟩,
+   ⟨-151586110421449617300812532897659750092915884235, 60340729103003198058787713161494683320145518674⟩,
+   ⟨-1438333821856890209431858437447451420067103686868, 272658519840997052096176462297286563183654778936⟩,
+   ⟨-10343268080973739236558620770173931479117218105013, 9531740263257256315568912053430284548532146588327⟩,
+   ⟨-157818733997227656453603026263544331105493161808513, 151005562887081413616737413339519578573639089768329⟩,
+   ⟨-2915585990166508868611198448797347985326970279536728, 2949816597194633859920557262356170280571239161767920⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2061339544856045798457587398217034845435018031310, 2164753981887240830551020082695211545613884085260⟩,
+   ⟨-132382029664232475516909591645226621584355846497, 332566034000726072947707291181334886546259785364⟩,
+   ⟨-638862880657626336513478030098077222098156843071, 3257755253969042428453918323946111414935309814738⟩,
+   ⟨-22088354675657379372618599609962086660684763842373, 25647975411344318205388727156231313200786231839464⟩,
+   ⟨-363304033867000252646676761582833962948942950442301, 404438450957406152285522091422318228478782058453168⟩,
+   ⟨-7646279269369404144699158856995908272737110788350958, 7688521348741723241401358844001464049302109083611978⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨107281094246269725167218299482761153529809138116, 126314458095508972297502094907120182940182645561⟩,
+   ⟨1350862278615431923662317019345660292717178929835, 1533576101209259148933591659627581004868066359895⟩,
+   ⟨-1247530758719990966354575013887463726797088867902, 196516513669980816891383675321820929367942255684⟩,
+   ⟨-14037528879743711155954407495077750153644486108585, 1630512934932574045898415450997280913892708230934⟩,
+   ⟨-103139025108910490141337291299732137257304843375488, 125247842643273110905668787969780541298910000855475⟩,
+   ⟨-2035829776409434553363172464279486245522875410370137, 2291789575361011835717706058863323222701295329147294⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨218966783069933407271382896996069876599980114764, 248843982445043121482967512456816335799797885520⟩,
+   ⟨2812363915946334841866001852061943312373111472811, 2995077738540162067137276492343864024523998902871⟩,
+   ⟨-1247530758719990966354575013887463726797088867902, 196516513669980816891383675321820929367942255684⟩,
+   ⟨-14037528879743711155954407495077750153644486108585, 1630512934932574045898415450997280913892708230934⟩,
+   ⟨-103139025108910490141337291299732137257304843375488, 125247842643273110905668787969780541298910000855475⟩,
+   ⟨-2035829776409434553363172464279486245522875410370137, 2291789575361011835717706058863323222701295329147294⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨631804584108804714754427019949208642770650957349, 718011958857047956969906978477546854253004610656⟩,
+   ⟨8114766949421685583990039704193606778191872151063, 8641967600937646333631231743535085982055099189132⟩,
+   ⟨-3599612877923553820125174985351003259387018110716, 567026799448939022037813622452881721759046004670⟩,
+   ⟨-40503746602283716119476812038810473079654889540223, 4704665850665067289664937004219671260520959689227⟩,
+   ⟨-297596320093494886246948210420825139104810181744900, 361388882926982710859244016797122991506041761396082⟩,
+   ⟨-5874163045039956828366777566460320424500388585489039, 6612706910268710109272218679164549497691415985974107⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨55377049366406691348957542189683728854245630364, 62086998926486156094453836215272616931323165643⟩,
+   ⟨120916429277792232738022936934144111580441594121, 136566727314051820433099562368381891969838804507⟩,
+   ⟨-1736681496433742767109237464538677573927434275, 20601427998685231598991823246853207976960584426⟩,
+   ⟨303016717734727649548337003065022803996528237, 47081145303040575207260600803964507135532687249⟩,
+   ⟨-57258616943031290850064691799751700354488655772, 82317818031750020258681271677455595547135318139⟩,
+   ⟨-250537060533788526174027132554418923453278389469, 316558941901809335090186175547925455707156245918⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0004StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0004GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0005GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0005GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0005PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨119976688018282527118403186318767332493118258491, 130832272587569695809414699320324921011080854900⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1221923527186106999084992706451107773922571225226, 1240211169993063747833404125148284451184524728949⟩,
+   ⟨-2480422339986127495666808250296568902369049457898, -2443847054372213998169985412902215547845142450452⟩,
+   ⟨4887694108744427996339970825804431095690284900904, 4960844679972254991333616500593137804738098915796⟩,
+   ⟨-9921689359944509982667233001186275609476197831592, -9775388217488855992679941651608862191380569801808⟩,
+   ⟨19550776434977711985359883303217724382761139603616, 19843378719889019965334466002372551218952395663184⟩,
+   ⟨-39686757439778039930668932004745102437904791326368, -39101552869955423970719766606435448765522279207232⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2683425164517009917288677539167390793578503768202, 2701712807323966666037088957864567470840457271925⟩,
+   ⟨-2480422339986127495666808250296568902369049457898, -2443847054372213998169985412902215547845142450452⟩,
+   ⟨4887694108744427996339970825804431095690284900904, 4960844679972254991333616500593137804738098915796⟩,
+   ⟨-9921689359944509982667233001186275609476197831592, -9775388217488855992679941651608862191380569801808⟩,
+   ⟨19550776434977711985359883303217724382761139603616, 19843378719889019965334466002372551218952395663184⟩,
+   ⟨-39686757439778039930668932004745102437904791326368, -39101552869955423970719766606435448765522279207232⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1240211169993063747833404125148284451184524728949, -1221923527186106999084992706451107773922571225226⟩,
+   ⟨2443847054372213998169985412902215547845142450452, 2480422339986127495666808250296568902369049457898⟩,
+   ⟨-4960844679972254991333616500593137804738098915796, -4887694108744427996339970825804431095690284900904⟩,
+   ⟨9775388217488855992679941651608862191380569801808, 9921689359944509982667233001186275609476197831592⟩,
+   ⟨-19843378719889019965334466002372551218952395663184, -19550776434977711985359883303217724382761139603616⟩,
+   ⟨39101552869955423970719766606435448765522279207232, 39686757439778039930668932004745102437904791326368⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨221290467337839170370280707567998568471407814027, 239578110144795919118692126265175245733361317750⟩,
+   ⟨2443847054372213998169985412902215547845142450452, 2480422339986127495666808250296568902369049457898⟩,
+   ⟨-4960844679972254991333616500593137804738098915796, -4887694108744427996339970825804431095690284900904⟩,
+   ⟨9775388217488855992679941651608862191380569801808, 9921689359944509982667233001186275609476197831592⟩,
+   ⟨-19843378719889019965334466002372551218952395663184, -19550776434977711985359883303217724382761139603616⟩,
+   ⟨39101552869955423970719766606435448765522279207232, 39686757439778039930668932004745102437904791326368⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨790604771214226431474192323488027242834624123255, 795992772284136605433582758441949200494352132527⟩,
+   ⟨715145272312736311024826227915023824358369902720, 735775411570471382024883991685849720726442307301⟩,
+   ⟨-177774769333958442283919546094598391913976963925, -70063479451942624184330422762361809990262736525⟩,
+   ⟨-1789907618759604985516609239790853005382973994539, -1047579615145406058507933905458587300931791967457⟩,
+   ⟨-2221065169072892011308461235785831425326276713158, 4181202422674831700410794718018781683712557423358⟩,
+   ⟨-22174087404093356514620193291254546771431020327886, 44111749386965742246074685228561004969279015224516⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨119707905097549944744699814259771466013315703534, 130483907237370292663480684167615381332771722078⟩,
+   ⟨1430290544625472622049652455830047648716739805444, 1471550823140942764049767983371699441452884614599⟩,
+   ⟨-339360631491989289121938480862890478361077473651, -157147361802425753774278502600979894991463881058⟩,
+   ⟨-3402956335346841501757433605659918290152093877987, -2281306818174467350445437955151000566965064120958⟩,
+   ⟨-2783594692809502662763267396883220621790583909334, 6702906222185395033873123111206613913917410344987⟩,
+   ⟨-28314421906161166173168236490119847590735105320389, 72563486408019464362765965105211520288472372497111⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨4887694108744427996339970825804431095690284900904, 4960844679972254991333616500593137804738098915796⟩,
+   ⟨-9921689359944509982667233001186275609476197831592, -9775388217488855992679941651608862191380569801808⟩,
+   ⟨19550776434977711985359883303217724382761139603616, 19843378719889019965334466002372551218952395663184⟩,
+   ⟨-39686757439778039930668932004745102437904791326368, -39101552869955423970719766606435448765522279207232⟩,
+   ⟨78203105739910847941439533212870897531044558414464, 79373514879556079861337864009490204875809582652736⟩,
+   ⟨-158747029759112159722675728018980409751619165305472, -156406211479821695882879066425741795062089116828928⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨4926967188838526028805821580433577383813055458699, 4994350951661440886921034269045371982028376980389⟩,
+   ⟨-9170552577349896883535781244723218044751678833856, -8974168097286064446068576165064746360938206761988⟩,
+   ⟨26121284171655401791594363008650123252372257246145, 26760520949455077551475891977706596569530517503827⟩,
+   ⟨-87198705077931290240569101908453835059169674352116, -84934360251643895181017568731382768626727889380970⟩,
+   ⟨300635888136620156753350508319095625741389278316651, 309108062871947121031607475629070237798773906082089⟩,
+   ⟨-1157058736608232404265092038506790746319286041675610, -1124340446806569779071962500063511605434512554852148⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨427680604866252748803547803225477887669671990327, 433529786997514721775525244785581134146797099350⟩,
+   ⟨768483768394758528499180762480226913922651199727, 806927984930469223784145142024891528152288519681⟩,
+   ⟨407030703289915949398650822520118826608922024044, 767025838849456405686078422266928560408369404393⟩,
+   ⟨-4136196831821634237345838229671773557714142159865, 330201991811529573382631264741866566304814380893⟩,
+   ⟨-39127127518878063383895095622872292217148286482598, 30125045442834468068645132829381019249771615391890⟩,
+   ⟨-625302999171927145471559257947799915093271124939112, 663422217299349351541590089207897008751516745349077⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1430290544625472622049652455830047648716739805445, 1471550823140942764049767983371699441452884614601⟩,
+   ⟨-373064438312377179375780538724929157002360945573, -121586962310594067995253461279955053084805460784⟩,
+   ⟨-3873583168286282895044507915111700531393952381164, -1790393169022898159082682192817894022074145108626⟩,
+   ⟨-10592964397346317203649926785581022781469382737694, 14379038562562600507834950558897766802771213968137⟩,
+   ⟨-173871252578719589464696387576314616558972159707317, 218361277952119101100841307447864439239773080339804⟩,
+   ⟨-3756403000775360526518999403505242760660861471806005, 3689280954999531747073104886007099593996285046096268⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨888051653976961835389995825692819349198360761300, 897978056156449534723239001596928882874517807089⟩,
+   ⟨-1350938106676943454381202028643290088660703172309, -1322008194826981956199901093471330749845586750303⟩,
+   ⟨1395277612046509650523035942337261510263570697053, 1506047469445341932958486147812871678933736296151⟩,
+   ⟨-503280943339261014477721570017137644574249474818, 8637018316586486777018330406445042710404927586⟩,
+   ⟨-4467379727133218930987531449957774377784232882632, -1207594740676803157061554840541106234845299041366⟩,
+   ⟨-11935236104180249009251327047056587395752292901784, 15804530601964729948122005256157522598454368595290⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1008028341995244362508399012011586681691479019791, 1028810328744019230532653700917253803885598661989⟩,
+   ⟨110563530653959463822482804072992930995229370667, 139493442503920962003783739244952269810345792673⟩,
+   ⟨1395277612046509650523035942337261510263570697053, 1506047469445341932958486147812871678933736296151⟩,
+   ⟨-503280943339261014477721570017137644574249474818, 8637018316586486777018330406445042710404927586⟩,
+   ⟨-4467379727133218930987531449957774377784232882632, -1207594740676803157061554840541106234845299041366⟩,
+   ⟨-11935236104180249009251327047056587395752292901784, 15804530601964729948122005256157522598454368595290⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨239953376036565054236806372637534664986236516982, 261664545175139391618829398640649842022161709800⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨200618780107756057880038366855671419468980847779, 222045109925447954648507524060362667046119894093⟩,
+   ⟨1999756834521318088872970364781490213752902662267, 2079184779770615379906731516585226063431087762340⟩,
+   ⟨-9119214239513485751147079533763589931600274440475, -8887207777787064174085911555367411523196090225439⟩,
+   ⟨27549803773062984340851764762343685237772750252686, 28160117838971481484961392068713455472676746712541⟩,
+   ⟨-76163614397831982935257250139799462164305889088266, -74650383981103680667063412827905094858306640108988⟩,
+   ⟨188402320832162785304846592262245638482135559425208, 192013986235442005801183432284344026766516569502899⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨108525478656346028592552391118179226656023574141, 120934727753353532661138215271460037297408406032⟩,
+   ⟨1179943164430116809276111338489951442778069726325, 1244193877472539437084337459592774458210351780923⟩,
+   ⟨-3036650275603625869643454553303228875282535444076, -2723704678706109747931330209132491118522056257175⟩,
+   ⟨99627298803527174805292737422913500802294071750, 1859609601470471887478420290483238405177145200890⟩,
+   ⟨4474440378373726092751205733091185865624533416928, 17882247665132193505993949700198237481505111347092⟩,
+   ⟨-79520594824447764087741799983608097619633547810838, 56857835097937660922266075939938343591267579741177⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨996577132633307863982548216810998575854384335441, 1018912783909803067384377216868388920171926213121⟩,
+   ⟨-170994942246826645105090690153338645882633445984, -77814317354442519115563633878556291635234969380⟩,
+   ⟨-1641372663557116219120418610965967365018964747023, -1217657209260767814972844061319619439588319961024⟩,
+   ⟨-403653644535733839672428832594224143771955403068, 1868246619787058374255438620889683447887550128476⟩,
+   ⟨7060651240507161763674283133411487840300534296, 16674652924455390348932394859657131246659812305726⟩,
+   ⟨-91455830928628013096993127030664685015385840712622, 72662365699902390870388081196095866189721948336467⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨82975196909104249068480758352853075107834752620, 90444552410028660787465047520926300182842364232⟩,
+   ⟨991401858388694985707774134598961649432517566828, 1020001304110811200429339875668163322864568640029⟩,
+   ⟨-235226864911714962149885563882459858412462996756, -108926250765785056516576513405569890827788116916⟩,
+   ⟨-2358749589414266946979247625702299413246748385689, -1581281389009811844141670482377400248241342830590⟩,
+   ⟨-1929440813142533839454231969333475830008034048590, 4646100549465520903491451222872466418341520776605⟩,
+   ⟨-19626061713440364693658424305104196917565589835414, 50297176015318604957293302137698766766959309365544⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1993154265266615727965096433621997151708768670882, 2037825567819606134768754433736777840343852426242⟩,
+   ⟨-341989884493653290210181380306677291765266891968, -155628634708885038231127267757112583270469938760⟩,
+   ⟨-3282745327114232438240837221931934730037929494046, -2435314418521535629945688122639238879176639922048⟩,
+   ⟨-807307289071467679344857665188448287543910806136, 3736493239574116748510877241779366895775100256952⟩,
+   ⟨14121302481014323527348566266822975680601068592, 33349305848910780697864789719314262493319624611452⟩,
+   ⟨-182911661857256026193986254061329370030771681425244, 145324731399804781740776162392191732379443896672934⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1048169710720791912220360311708146617765887058311, 1071661673731605629191364176268439127501915551009⟩,
+   ⟨80048667363233374970778996816000229246823392536, 183878116411988898223402446020507386810912617032⟩,
+   ⟨1264847482484856958110529749744250962646244516803, 1828138105902067956000850532408125628295910350786⟩,
+   ⟨-1432228070448968145385941014738536420456789780060, 2283641392539655087057587135247100336032713745191⟩,
+   ⟨-11443067856337587902949009813644337769112612457319, 19923750098697192463170369561650915938728524534136⟩,
+   ⟨-168205841572723758121027707675319150175763423004221, 160456325650433092638215984843585382233075835826176⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨59508717554399112626886449041003651642261552672, 66319433341621324673177476528031793713584915819⟩,
+   ⟨715565023219558017847684147068659608103264428783, 759306079694413156430754209892642975300086089186⟩,
+   ⟨7928932842865795314403291553348686460357415052, 291675193625374667978531489316636088814126766157⟩,
+   ⟨667011538684903407571621068302980455932048385544, 2816995284210437428910157055823674177268271192489⟩,
+   ⟨-9073696176247425870739362822243620415663976734298, 10102857589795604880249289059138466568505809554580⟩,
+   ⟨-99125697168602684599975703865181574663772697407399, 107878757173093154972964226416123619211807704193216⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨81627114036989485493269808822642328169609182516, 90969259139157209327268970965026171695247025452⟩,
+   ⟨960028183188080290636800610020325882081708598032, 1019545184824745789869925261228815109856199412079⟩,
+   ⟨-727475818727544339693486291429390212912772121862, -359196878170665089485768956811367482556174356274⟩,
+   ⟨-7341347202212905733793034133206917697552699563615, -4844637756318084684292063170704806531386320076670⟩,
+   ⟨-2294352116214238026409884402317678247517460768797, 17565486293928458281588222443948445020318122388013⟩,
+   ⟨-17123045200410379431954327630177933745214321533006, 181806206982381878831001097665919038692244548357383⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986501396538534321126175402910058650468823341350, 1035884358558804863839933611917726545493461252994⟩,
+   ⟨-154412810210897615650743858231987181105600811283, 56591511087370724356387476314077382917567741197⟩,
+   ⟨-1432506149305208699965942939321002350804845090746, 263134955288245736383811623258225196317379848537⟩,
+   ⟨-10226010632758179710126621851498783544155176523253, 9376119453172926720263833620782770892025619812473⟩,
+   ⟨-154896030743081737713999029704924918649963238794784, 148279481522887268163400957251703037795323687124835⟩,
+   ⟨-2848162738677275176374941725424964509403352574310657, 2884369405544095888879102459456329457449474628277090⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2061993714136822563863828110866915324362613848054, 2165214406604719910443526786112781656266590721553⟩,
+   ⟨-124209408651475239260703492842401866291070516965, 338911675549661713044587806579616344731238511276⟩,
+   ⟨-616423500153312937869169018490131157112084851403, 3250221005003979379853899602140225236796478917191⟩,
+   ⟨-21679549539724399264879592522859607644515343625381, 25447112480206808138421998382687450254594228531855⟩,
+   ⟨-357278924947773123400154005783956321894242383513571, 398275345901458051358663612966249167629675691132195⟩,
+   ⟨-7492701422376348046098580621938866533596268725374031, 7535475226339726985029778049050142235806292462826221⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨115165520002283313863549318846978796209051730218, 134770940664820598499856952481210017892427754448⟩,
+   ⟨1346746928617525415205395063521804119453865347948, 1531551117857954102867353922934011373712439509702⟩,
+   ⟨-1289421012714721968401475139547829164825552703576, 168374786197813927720718284196842724395440088211⟩,
+   ⟨-14021762099265442845924403266293501678506900257875, 1736304533297080392613652495954882279072924111472⟩,
+   ⟨-102648739588335856535318042108784151162232409981481, 126157804501998476715208518054546645167396229080421⟩,
+   ⟨-2035325254085845345088276929463852004331416408063002, 2286810701674190348849753104662320021379882960543230⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨235142208020565840981952505165746128702169988709, 265603213252390294309271651801534938903508609348⟩,
+   ⟨2808248565948428333409079896238087139109797890924, 2993052755188857021071038755650294393368372052678⟩,
+   ⟨-1289421012714721968401475139547829164825552703576, 168374786197813927720718284196842724395440088211⟩,
+   ⟨-14021762099265442845924403266293501678506900257875, 1736304533297080392613652495954882279072924111472⟩,
+   ⟨-102648739588335856535318042108784151162232409981481, 126157804501998476715208518054546645167396229080421⟩,
+   ⟨-2035325254085845345088276929463852004331416408063002, 2286810701674190348849753104662320021379882960543230⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨678476994829902750468380057994431530082515936957, 766368877206794566405432033585056934759784684234⟩,
+   ⟨8102892559354681332607765728204159364295604140758, 8636124734060025326458119848889633653985147235629⟩,
+   ⟨-3720482601323108831552417838550731349991795149847, 485826938116651272035012520395533643765524561335⟩,
+   ⟨-40458253290270150900343758655161407242628691914234, 5009915879321447846078450952875099506747256627308⟩,
+   ⟨-296181655115189510766607119020663316041997430191782, 364014477848945088399461266547775402104292639188948⟩,
+   ⟨-5872707301331436973047606059081274943281147970747749, 6598340917514330291297673956225442223414021922356363⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨59508717554399112626886449041003651642261552672, 66319433341621324673177476528031793713584915819⟩,
+   ⟨121095918048471390435929247862329598530161276684, 136954435786949782714884609262780720376350932958⟩,
+   ⟨-1223125671385839680181503257900397457194081002, 21455517940922521769194169353243973256895867962⟩,
+   ⟨204885457823260723203685216726983996483408800, 47817910621946569429358747320841724751423793287⟩,
+   ⟨-57574730843115293637344172400529436432482030625, 84490804806789906003071493172089373717586883269⟩,
+   ⟨-256434947543680441686745331447960195595417681408, 324661766567278810949930129028389592268599416296⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0005StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0005GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0006GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0006GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0006PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨110410900082256569655872652612393379359363120105, 121252999859680607281913286376018482511954796006⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1238046937477863287537128374947874708364674802875, 1256552699861900996669668890440374795766024544392⟩,
+   ⟨-2513105399723801993339337780880749591532049088784, -2476093874955726575074256749895749416729349605750⟩,
+   ⟨4952187749911453150148513499791498833458699211500, 5026210799447603986678675561761499183064098177568⟩,
+   ⟨-10052421598895207973357351123522998366128196355136, -9904375499822906300297026999582997666917398423000⟩,
+   ⟨19808750999645812600594053999165995333834796846000, 20104843197790415946714702247045996732256392710272⟩,
+   ⟨-40209686395580831893429404494091993464512785420544, -39617501999291625201188107998331990667669593692000⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2699548574808766205740813207664157728020607345851, 2718054337192803914873353723156657815421957087368⟩,
+   ⟨-2513105399723801993339337780880749591532049088784, -2476093874955726575074256749895749416729349605750⟩,
+   ⟨4952187749911453150148513499791498833458699211500, 5026210799447603986678675561761499183064098177568⟩,
+   ⟨-10052421598895207973357351123522998366128196355136, -9904375499822906300297026999582997666917398423000⟩,
+   ⟨19808750999645812600594053999165995333834796846000, 20104843197790415946714702247045996732256392710272⟩,
+   ⟨-40209686395580831893429404494091993464512785420544, -39617501999291625201188107998331990667669593692000⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1256552699861900996669668890440374795766024544392, -1238046937477863287537128374947874708364674802875⟩,
+   ⟨2476093874955726575074256749895749416729349605750, 2513105399723801993339337780880749591532049088784⟩,
+   ⟨-5026210799447603986678675561761499183064098177568, -4952187749911453150148513499791498833458699211500⟩,
+   ⟨9904375499822906300297026999582997666917398423000, 10052421598895207973357351123522998366128196355136⟩,
+   ⟨-20104843197790415946714702247045996732256392710272, -19808750999645812600594053999165995333834796846000⟩,
+   ⟨39617501999291625201188107998331990667669593692000, 40209686395580831893429404494091993464512785420544⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨204948937469001921534015942275908223889907998584, 223454699853039630666556457768408311291257740101⟩,
+   ⟨2476093874955726575074256749895749416729349605750, 2513105399723801993339337780880749591532049088784⟩,
+   ⟨-5026210799447603986678675561761499183064098177568, -4952187749911453150148513499791498833458699211500⟩,
+   ⟨9904375499822906300297026999582997666917398423000, 10052421598895207973357351123522998366128196355136⟩,
+   ⟨-20104843197790415946714702247045996732256392710272, -19808750999645812600594053999165995333834796846000⟩,
+   ⟨39617501999291625201188107998331990667669593692000, 40209686395580831893429404494091993464512785420544⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨785851484531743869868141164739887478155195512937, 791238600354587671053541922878328619745907293963⟩,
+   ⟨715895197843459634178331820910507931301764438435, 736592042675831072174426220535011209285763802063⟩,
+   ⟨-168851283586435151785419617161199794377567422946, -60351143127184143759647678265702364443725324118⟩,
+   ⟨-1800390378800482482083999220212612071158545589305, -1049464489670591421165589212049859321078644003885⟩,
+   ⟨-2344032138880916107722164764087771210204254361273, 4159707310305963082034815079080450268391118136894⟩,
+   ⟨-22737558715198984809557710422548369201702952207817, 44882368198878360434718235975278191602423566628466⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨110201331732584821532597496763491936654458482899, 120975563378272423903399013040374219835882044950⟩,
+   ⟨1431790395686919268356663641821015862603528876871, 1473184085351662144348852441070022418571527604124⟩,
+   ⟨-321186901173853451520916776650664459591332742693, -138067664632159651830572360386037540788318257186⟩,
+   ⟨-3420291315987836423302773406882896992760211917610, -2288926762044943819781814403254340058498854228015⟩,
+   ⟨-2993219731537108641155443767111954729877020710949, 6622440269591356369954724806858551667454567681512⟩,
+   ⟨-29044695016955579917646440137006248379400798952926, 73706800662748871315488526958470081836470003198034⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨4952187749911453150148513499791498833458699211500, 5026210799447603986678675561761499183064098177568⟩,
+   ⟨-10052421598895207973357351123522998366128196355136, -9904375499822906300297026999582997666917398423000⟩,
+   ⟨19808750999645812600594053999165995333834796846000, 20104843197790415946714702247045996732256392710272⟩,
+   ⟨-40209686395580831893429404494091993464512785420544, -39617501999291625201188107998331990667669593692000⟩,
+   ⟨79235003998583250402376215996663981335339187384000, 80419372791161663786858808988183986929025570841088⟩,
+   ⟨-160838745582323327573717617976367973858051141682176, -158470007997166500804752431993327962670678374768000⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨4986352612687523223579693422946012908164550093084, 5054951148344088044765729300658491745475652350238⟩,
+   ⟨-9347587244605136519569502310007335720214781051478, -9147216151515028071355520861127420720575770988934⟩,
+   ⟨26684489106237205985125056444926685215385685532740, 27337927379525338104920658116506344514730927850771⟩,
+   ⟨-89246866320310936472967930218979381326667318692806, -86929205425303011339906171780540745527707945284962⟩,
+   ⟨308099319701920420158436579123830991443162187447850, 316777778885662913998442316381825531842156489350669⟩,
+   ⟨-1186691742751489992206910456539118140439600386561586, -1153162274809098430231370100498659984437309562407406⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨422553447746101639032308177023805769530501130403, 428366624230704942378426452514863032881808233428⟩,
+   ⟨764634040700406965645176170980337762145429964847, 803030732821627585796563966696813228825859753993⟩,
+   ⟨418754497210146519913568654886973602680773064383, 780168122017936741507096321614535619181744323134⟩,
+   ⟨-4126621961568098888488267745128564313146932963356, 380848013613938152723558271079968419835925476001⟩,
+   ⟨-39752047701835176661996080517788997387564681630684, 30503477217645834776984474462476139132016354886651⟩,
+   ⟨-638552413629703556878596133211713553291289898268477, 675701462481491176455969635030320545415027588559505⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1431790395686919268356663641821015862603528876870, 1473184085351662144348852441070022418571527604126⟩,
+   ⟨-355463560813713221851102372665686571834196095708, -101899491469458293698558386983233377063160539101⟩,
+   ⟨-3900645677720868937014878971746380561045602083369, -1787826985444125888687590235580339894044064251545⟩,
+   ⟨-10984702150458333490639565329853533865217111736329, 14482108913726638230177903191150105002268985382621⟩,
+   ⟨-178599431024666345109619353643312241466477111231023, 223493037902744101195325639520813358769195975172450⟩,
+   ⟨-3867249295683838439634208064022383203918755803647129, 3804882920564221871944741735185170711799024214886745⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨896806837320689770602186504796947360532285656195, 906791440347840233037779814200164607749318561565⟩,
+   ⟨-1360563647846809209706557909766446826934879707967, -1331399156710867260079949043029151400584768227988⟩,
+   ⟨1396201415711180910003377946303201932422408665372, 1508248931952816474136646811854451069552915142788⟩,
+   ⟨-488493494665169358599466224904908280507357249919, 31136907987098824640314283517874521264237101468⟩,
+   ⟨-4512029661964399365517899560236204510797704772578, -1187680074977748440981277304288738273676674413820⟩,
+   ⟨-12422431504725124325880912971828653398964631348078, 16003541511817043579626223425268286505559419256335⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1007217737402946340258059157409340739891648776300, 1028044440207520840319693100576183090261273357571⟩,
+   ⟨100937989484093708497126922949836192721052835009, 130102480620035658123735789687131619071164314988⟩,
+   ⟨1396201415711180910003377946303201932422408665372, 1508248931952816474136646811854451069552915142788⟩,
+   ⟨-488493494665169358599466224904908280507357249919, 31136907987098824640314283517874521264237101468⟩,
+   ⟨-4512029661964399365517899560236204510797704772578, -1187680074977748440981277304288738273676674413820⟩,
+   ⟨-12422431504725124325880912971828653398964631348078, 16003541511817043579626223425268286505559419256335⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨220821800164513139311745305224786758718726240210, 242505999719361214563826572752036965023909592012⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨187059491716549947265599415622204174078627218214, 208498958124040627322891830530541001618261757301⟩,
+   ⟨2059095958707645320428473088834667413492826091148, 2138986416290702098808138949636341243374794652355⟩,
+   ⟨-9304183632029008184294953461034181669813687482278, -9070379667326743791005459677460833660444351393797⟩,
+   ⟨28045134834476393882307946354504664987806101210595, 28660788862953224341947258045591361705755571319692⟩,
+   ⟨-77426420923696864630609218338228720143767535349655, -75899020668598600365209946708175325309446999267191⟩,
+   ⟨191415543336488825931608001414682641286563592226382, 195062528242974561154647841170549433752047856119853⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨100582151607895389550946341674061291933671144490, 112878712953575567404558421767585412124003555123⟩,
+   ⟨1198807146719566206421812591958596704046504015531, 1263103129350607543204773105897753653391011156869⟩,
+   ⟨-3044020355532276396952847526193683215261302787870, -2728796008065871466122441920465748627846282304048⟩,
+   ⟨13860154594832569247343435504501548409593602726, 1798205338757242609489525809727139365790980226552⟩,
+   ⟨4405340705866606552424557930670183501966691528037, 18097496223633459601415291038091847889219361586580⟩,
+   ⟨-80566421442134042186779710279122495964212984562807, 59592175033184470243326870144359895727374590231081⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨997388988928585160153132846471008652465956800685, 1019670153301415800442338235967750019873322116688⟩,
+   ⟨-161756501127243003284745317807850122888375692436, -68296027360259716875175937131397747193757071119⟩,
+   ⟨-1647818939821095486949469579890481282838894122498, -1220547076113054991985795108611297558293367161260⟩,
+   ⟨-474633340070336789352122789400406732097763647193, 1829342246744341434129840093245013887055217328020⟩,
+   ⟨-106688956097792813093341629566021008831013244541, 16909816148655711160434013733803109615542687172760⟩,
+   ⟨-92988852946859166512660623250951149363177615910885, 75595716545001513822953093569628182232934009487416⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨76385742384392401951316481644756359530767803643, 83853870672300503168176345545401060412824258291⟩,
+   ⟨992441475923196569882617858790688541941792170927, 1021133395207286442168938560074520462720241604408⟩,
+   ⟨-222629794981442308413545500544038757410414489702, -95701212466277541169112341588379913738159618199⟩,
+   ⟨-2370765282370633810341484781222182437282801837011, -1586563131619657645946832176744903826861748264832⟩,
+   ⟨-2074741817711343268699838550440284817409650415332, 4590325801293892786062624376765126826658406778982⟩,
+   ⟨-20132248461226253143379594373295531459170917250350, 51089661067478288503770929128183620349285212714666⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1994777977857170320306265692942017304931913601370, 2039340306602831600884676471935500039746644233376⟩,
+   ⟨-323513002254486006569490635615700245776751384872, -136592054720519433750351874262795494387514142238⟩,
+   ⟨-3295637879642190973898939159780962565677788244996, -2441094152226109983971590217222595116586734322520⟩,
+   ⟨-949266680140673578704245578800813464195527294386, 3658684493488682868259680186490027774110434656040⟩,
+   ⟨-213377912195585626186683259132042017662026489082, 33819632297311422320868027467606219231085374345520⟩,
+   ⟨-185977705893718333025321246501902298726355231821770, 151191433090003027645906187139256364465868018974832⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1047391173020590308879297014021312909792423343755, 1070789360836753023259410389946223020735874054440⟩,
+   ⟨70152741038761786869417793101974358251053204191, 173660570124493320634594931805062477510853330345⟩,
+   ⟨1263126646052705477418111332376838177186480996616, 1825414619541472656296411970601961953856778875606⟩,
+   ⟨-1458242101988711690831438179496197864213148011241, 2258430693936066351584789503323008117821815204915⟩,
+   ⟨-11495101412380906111881060150378651128594989442330, 20005155554491703847829552188047412170926946519460⟩,
+   ⟨-169458688721764657065885789431908765636944396391311, 162146173121104008723250818323198846791807655322394⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨54742157158406960613800741930754942000808003370, 61436696536899481518217634900855341334014346836⟩,
+   ⟨714903825037224284898728615212867073518599059499, 758111286549526985370554503495903397329536913881⟩,
+   ⟨-1819888193130436366525692848436629602539492776, 278817813820390753448894255411013049514501262537⟩,
+   ⟨673199575098675968312812803245153600440702763569, 2804964570915249393687052834507896396321676920556⟩,
+   ⟨-9050241618678004546176364576408470524096712631934, 10021825411253744069356250513858372734945542147442⟩,
+   ⟨-98914062306156067153118185331645852199978675982963, 107857891156553157816755579225053443184844227003674⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨75205933423433120802247015490591382529963948934, 84403033226105771120065847912548816676865885012⟩,
+   ⟨963723443943682703601802840682248349256094591641, 1022671128657918038761456221318719715460681108987⟩,
+   ⟨-686584744103880008972012788375603648567403420409, -320070988487877653476185223519302198425960416881⟩,
+   ⟨-7389195622111667320082692126832229343999340023901, -4891192040149198596520122958098660846061410262908⟩,
+   ⟨-2891194698477217792826804199582897232692415077006, 17082960907445815875570792218237078899108070083590⟩,
+   ⟨-17068432944491884241945401889926138530876418230678, 184169312171309081938522730412956519165991052213114⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986741749679293969516291909177209563459397207351, 1036262067495088251780166883884207362637626365914⟩,
+   ⟨-151152956551643102204495474153716168575666324366, 60916749184368814067244748279648334978941661347⟩,
+   ⟨-1439247588285955940113589554530703851000441267500, 274119578332777585444092379580605221832826827053⟩,
+   ⟨-10361422849185906818800784578258671564169046575562, 9555874564011795335634722077041370277287400051006⟩,
+   ⟨-158272070776220922543348253422105804740129915244129, 151429502903105916386642931455915781586446634949001⟩,
+   ⟨-2926080802712095777463058118924337755321468951176389, 2960003424905982871575603764798778938883412116447095⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2061242134515393119684825962998075775479517408707, 2164686998006457370193738309707932517332303142152⟩,
+   ⟨-133637494271507199285052176183943748841130048546, 331595212084541242599520112762735835210822314112⟩,
+   ⟨-642298242729212918334130499090866280657220837332, 3258972001225069013650034193893196934276140190485⟩,
+   ⟨-22151761283434313356443957233285288385168388003008, 25679251859432690163287940383336660038840151348517⟩,
+   ⟨-364241179823084507693255072816298068092455242659146, 405396317360877705141873063314039021501226196408832⟩,
+   ⟨-7670202302698535522492127235580205845132400031090529, 7712360927246228446901362447224981070359345749045782⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨106067372610710137064002735940470697328881200421, 125012619863039631903209457974900805496652709847⟩,
+   ⟨1351478444057700799726667517494643279247960222495, 1533867961475305466350665562750204663444302029442⟩,
+   ⟨-1241043702161829683412056208631744023299794698070, 200854386130803118269853959807465642454897016073⟩,
+   ⟨-14039365578811335592540414473642054892126805276896, 1614302499006142996411578963775730390391715862573⟩,
+   ⟨-103211454082033205536686397071700281537621873742942, 125102499281896017746650799806378514641985354442225⟩,
+   ⟨-2035828789789689763314671825440602231722451843139001, 2292454185496946884672354274247741601419770473778863⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨216478272692966706719875388552864076688244320526, 246265619722720239185122744350919288008607505853⟩,
+   ⟨2812980081388603717930352350210926298903892765471, 2995369598806208384554350395466487683100234572418⟩,
+   ⟨-1241043702161829683412056208631744023299794698070, 200854386130803118269853959807465642454897016073⟩,
+   ⟨-14039365578811335592540414473642054892126805276896, 1614302499006142996411578963775730390391715862573⟩,
+   ⟨-103211454082033205536686397071700281537621873742942, 125102499281896017746650799806378514641985354442225⟩,
+   ⟨-2035828789789689763314671825440602231722451843139001, 2292454185496946884672354274247741601419770473778863⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨624624260948703547164859028538833320836660452074, 710572376630831577608606157641108508208539574780⟩,
+   ⟨8116544827077542508740979623248698219774735105933, 8642809731654561444920143023160063920201137075253⟩,
+   ⟨-3580895189270702799479398815447877894847401952886, 579543253623413298844952855715887079751746111045⟩,
+   ⟨-40509046195556650434490566073310617434661261382247, 4657892419621646560959730147244310472421733282633⟩,
+   ⟨-297805305934176529284829297316107526646568108820080, 360969510633612981259443799990132531702592359874947⟩,
+   ⟨-5874160198257130724891450909999318299069401097142281, 6614624569763186179232288537405659499617540337926647⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨54742157158406960613800741930754942000808003370, 61436696536899481518217634900855341334014346836⟩,
+   ⟨120890444573747196399805814763582983221680996574, 136508934549938605604471754912113052041240573304⟩,
+   ⟨-1817940587888113829144663688470588689641058572, 20470826639218636874273864943669110512075015790⟩,
+   ⟨318494972018228072712276610266914632802142157, 46969729665978568489984814677165843284412391980⟩,
+   ⟨-57210204722706217768892060117692317660960359510, 81987813576677629813083629518169009164390151466⟩,
+   ⟨-249637850594087407865114969162070856614072578457, 315330795143176641976091687130110733068280537869⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0006StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0006GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0007GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0007GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0007PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨102129390020906529768254950722841265361436010774, 112960673334547772762854008241628397815545303095⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1252175912003097356370097669709037543462646429681, 1270874056444511995859724187879660955784670188710⟩,
+   ⟨-2541748112889023991719448375759321911569340377420, -2504351824006194712740195339418075086925292859362⟩,
+   ⟨5008703648012389425480390678836150173850585718724, 5083496225778047983438896751518643823138680754840⟩,
+   ⟨-10166992451556095966877793503037287646277361509680, -10017407296024778850960781357672300347701171437448⟩,
+   ⟨20034814592049557701921562715344600695402342874896, 20333984903112191933755587006074575292554723019360⟩,
+   ⟨-40667969806224383867511174012149150585109446038720, -40069629184099115403843125430689201390804685749792⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2713677549334000274573782502425320563118578972657, 2732375693775414914063409020595943975440602731686⟩,
+   ⟨-2541748112889023991719448375759321911569340377420, -2504351824006194712740195339418075086925292859362⟩,
+   ⟨5008703648012389425480390678836150173850585718724, 5083496225778047983438896751518643823138680754840⟩,
+   ⟨-10166992451556095966877793503037287646277361509680, -10017407296024778850960781357672300347701171437448⟩,
+   ⟨20034814592049557701921562715344600695402342874896, 20333984903112191933755587006074575292554723019360⟩,
+   ⟨-40667969806224383867511174012149150585109446038720, -40069629184099115403843125430689201390804685749792⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1270874056444511995859724187879660955784670188710, -1252175912003097356370097669709037543462646429681⟩,
+   ⟨2504351824006194712740195339418075086925292859362, 2541748112889023991719448375759321911569340377420⟩,
+   ⟨-5083496225778047983438896751518643823138680754840, -5008703648012389425480390678836150173850585718724⟩,
+   ⟨10017407296024778850960781357672300347701171437448, 10166992451556095966877793503037287646277361509680⟩,
+   ⟨-20333984903112191933755587006074575292554723019360, -20034814592049557701921562715344600695402342874896⟩,
+   ⟨40069629184099115403843125430689201390804685749792, 40667969806224383867511174012149150585109446038720⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨190627580886390922343960644836622063871262354266, 209325725327805561833587163007245476193286113295⟩,
+   ⟨2504351824006194712740195339418075086925292859362, 2541748112889023991719448375759321911569340377420⟩,
+   ⟨-5083496225778047983438896751518643823138680754840, -5008703648012389425480390678836150173850585718724⟩,
+   ⟨10017407296024778850960781357672300347701171437448, 10166992451556095966877793503037287646277361509680⟩,
+   ⟨-20333984903112191933755587006074575292554723019360, -20034814592049557701921562715344600695402342874896⟩,
+   ⟨40069629184099115403843125430689201390804685749792, 40667969806224383867511174012149150585109446038720⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨781732556319715071998995707413047281603615726714, 787118954661776632259619895670885838710848453971⟩,
+   ⟨716494937999993003001327492403861046514655949333, 737249758403226693352035689679182257730771792706⟩,
+   ⟨-161096379046750238315648046637887914453547490854, -51909664307782688379549717940911880198251919459⟩,
+   ⟨-1809112845068755120814568797759879440099430278616, -1050680879054947470534014469540183211949451208611⟩,
+   ⟨-2451541655552740346596920353359999025679801689521, 4141096004049318467660439277096757204839376377913⟩,
+   ⟨-23240711914356285105131566001243663345478967369399, 45552309344157089774488453739612195914076108231267⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨101963475308527225794306582109811543551298910452, 112736271992650346315554958625488657765764364966⟩,
+   ⟨1432989875999986006002654984807722093029311898668, 1474499516806453386704071379358364515461543585411⟩,
+   ⟨-305389354695001345012296292721066506089804260820, -121488578258392508803758683851294131112778958606⟩,
+   ⟨-3434535180983785021454319416087040487916540526483, -2294755486259262949432904680895317415745435839911⟩,
+   ⟨-3176175085724778573883802128010531222333597740634, 6552110838361675919856543051027464585579603364058⟩,
+   ⟨-29699894591669025194339894336173650830210520608993, 74694325726360858269968289890750840858248048870974⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5008703648012389425480390678836150173850585718724, 5083496225778047983438896751518643823138680754840⟩,
+   ⟨-10166992451556095966877793503037287646277361509680, -10017407296024778850960781357672300347701171437448⟩,
+   ⟨20034814592049557701921562715344600695402342874896, 20333984903112191933755587006074575292554723019360⟩,
+   ⟨-40667969806224383867511174012149150585109446038720, -40069629184099115403843125430689201390804685749792⟩,
+   ⟨80139258368198230807686250861378402781609371499584, 81335939612448767735022348024298301170218892077440⟩,
+   ⟨-162671879224897535470044696048596602340437784154880, -160278516736396461615372501722756805563218742999168⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5038684633435049683041342009001077785012998475678, 5108360292752999939230691522865119812452274962453⟩,
+   ⟨-9503938395910340100669130009076703348046688923068, -9300028336404197633870238026303028887577678012086⟩,
+   ⟨27182706049592011684520170747539815202609540610901, 27848761132085264435798726533269525745909394182591⟩,
+   ⟨-91061059625228865809439319127003527691082853710996, -88696009606318489036159120274814660115035819568712⟩,
+   ⟨314714409241174840740793355668569439069338592525060, 323576268694691079370246102495864960179221968805254⟩,
+   ⟨-1212969135166315549745962061959161539546668983143566, -1178718378596501132155487171812899353495744998600660⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨418135549082381372356379732862547330974604117574, 423917587885378749432409146008160891075784199032⟩,
+   ⟨761236919886163661072203382796760568412907618576, 799590951469989597477354988117419589562463676496⟩,
+   ⟨428752245257071302248864735596344943342219570975, 791376832524829722866707794127714983003631584168⟩,
+   ⟨-4117655756595226108807472069740542380062434456526, 425318421766404653538087185130222948827698332272⟩,
+   ⟨-40292811357459330336790204074661823480142855017437, 30836118150520098014938259086265026075036600844294⟩,
+   ⟨-650162338037110759120269005396971419733672915440294, 686444016349532866634164124625480831764862869421422⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1432989875999986006002654984807722093029311898667, 1474499516806453386704071379358364515461543585412⟩,
+   ⟨-340168471781470852806261392572924101951082273640, -84787120982983497169652481645158327721363370346⟩,
+   ⟨-3923436727176694250982361849468300697829256980499, -1784702466548399090729412348261590654442884232358⟩,
+   ⟨-11328075135525202351367923923141995300684091786181, 14573518801096182706430920365929135699922295334699⟩,
+   ⟨-182789566443486841427151326535795205294826748265953, 228007181122278720434508979429685550998023146282639⟩,
+   ⟨-3965582792884974819464797632215439493760027645771594, 3907394268377876265525791516868978826202366421035400⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨904436138525164158684702223684340509341783287338, 914471837727390744515614782897821296632039616383⟩,
+   ⟨-1368905833923316401630404189932572010671859515674, -1339535518331443076100827769841793136342724601624⟩,
+   ⟨1396894449046094908641429286608233088780081220155, 1510063878149683908946650537758557518110071627320⟩,
+   ⟨-475682524594330579631364185658561333244905612494, 50732569106585876478261736099553747142712065078⟩,
+   ⟨-4550453532303227442263649398841551071300592995974, -1169133915944177740433517135758574232797169978542⟩,
+   ⟨-12852022317211279282729644411522363159829564612638, 16181553519802438107813322504525094857342391358672⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1006565528546070688452957174407181774703219298112, 1027432511061938517278468791139449694447584919478⟩,
+   ⟨92595803407586516573280642783711008984073027302, 121966118999459842102857062874489883313207941352⟩,
+   ⟨1396894449046094908641429286608233088780081220155, 1510063878149683908946650537758557518110071627320⟩,
+   ⟨-475682524594330579631364185658561333244905612494, 50732569106585876478261736099553747142712065078⟩,
+   ⟨-4550453532303227442263649398841551071300592995974, -1169133915944177740433517135758574232797169978542⟩,
+   ⟨-12852022317211279282729644411522363159829564612638, 16181553519802438107813322504525094857342391358672⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨204258780041813059536509901445682530722872021548, 225921346669095545525708016483256795631090606190⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨175003515323184105524067624612040830833596047468, 196453819102874636380298141677641630451339179606⟩,
+   ⟨2111444185800445439979599056062791826022614500151, 2191741082242655780671313126535240249902148282484⟩,
+   ⟨-9466978390263359544781523004589124322942977319807, -9231592019613280305439588790961733825895814719027⟩,
+   ⟨28480591335251339461839958939595767999492800875503, 29100949232082815056440839512215536292163316149294⟩,
+   ⟨-78535883367277822046637266030505647876881355317947, -76995997262552236625601480594536136694387944625902⟩,
+   ⟨194061623709203588655046086619761474779580575001596, 197739736540780027960785706073160446338872156674614⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨93606426365949050746373794524699367103517193726, 105803866914558673643120806961584492884778940057⟩,
+   ⟨1215170580990148955546210788301282066736629598079, 1279503513680774826648903643751558467232070094852⟩,
+   ⟨-3050019156603086895985744653626898442290773045393, -2732805173375345917742671802096421184528391590690⟩,
+   ⟨-60916050237097126640561452183946391571778383597, 1744819092157416213677366553490391018458591237553⟩,
+   ⟨4338637786112394703331259359588716112804259585155, 18281667526910817945644325723732825540041177451013⟩,
+   ⟨-81502453150706196130427033868868982141020615780984, 62006500747311336226484937163517916267069587210884⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨998042564891113209431076018209039876445300481064, 1020275704641949418158735589859405789516818556440⟩,
+   ⟨-153735252933167446084193401631289943935229917595, -60032004650668249451924126090234669110654506772⟩,
+   ⟨-1653124707556991987344315367018665353510691825238, -1222741295225662008796021264337863666418319963370⟩,
+   ⟨-536598574831427706271925637842507724816683996091, 1795551661264002090155628289589944765601303302631⟩,
+   ⟨-211815746190832738932390039252834958496333410819, 17112533610966640205210808587974251307244007472471⟩,
+   ⟨-94354475467917475413156678280391345300850180393622, 78188054267113774334298259668043011124411978569556⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨70675695430199246243436452341385310217849975217, 78142829078544714978120147531674090755011667681⟩,
+   ⟨993272892320335939608776629350811450944870245689, 1022045182811394858969125367419281135747938066040⟩,
+   ⟨-211679770179861279098901617842526597683882594516, -84209465490041038354005717537128755176026860758⟩,
+   ⟨-2380638377232852077967635829692396299421722235072, -1590603295375074433068234424863590156069230377640⟩,
+   ⟨-2201556805634872865751443989357998829136869765515, 4541577154326655214644897602188968286080219636345⟩,
+   ⟨-20586398199142952973596940886356467358756795974665, 51774161281053217902766851040376649306172052710729⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1996085129782226418862152036418079752890600962128, 2040551409283898836317471179718811579033637112880⟩,
+   ⟨-307470505866334892168386803262579887870459835190, -120064009301336498903848252180469338221309013544⟩,
+   ⟨-3306249415113983974688630734037330707021383650476, -2445482590451324017592042528675727332836639926740⟩,
+   ⟨-1073197149662855412543851275685015449633367992182, 3591103322528004180311256579179889531202606605262⟩,
+   ⟨-423631492381665477864780078505669916992666821638, 34225067221933280410421617175948502614488014944942⟩,
+   ⟨-188708950935834950826313356560782690601700360787244, 156376108534227548668596519336086022248823957139112⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1046769528178906778747293847241671987596692415768, 1070088146067170496930273692090536838177405106510⟩,
+   ⟨61590874797774969555534297704431743751122099681, 164832921544151591801150848483052890979714056300⟩,
+   ⟨1261740498373031440634850805242368819210386169255, 1823239287892122926345932499728703364347985198392⟩,
+   ⟨-1481009000403938740322591722426364509365849261975, 2236943029862552345288116799744261174296326523105⟩,
+   ⟨-11542933665119295088930703008862274869778237264765, 20079601977767031386443641166857415128345578154192⟩,
+   ⟨-170588135079685490566055748581421789206135511457788, 163660178346468986720101463343176790231980247692810⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨50619966799555140154792105275316634818092705776, 57214930836352602396166346950120247597413505807⟩,
+   ⟨714389055808597623163888698787572381774333721164, 757138355114774594372425783701236848363214274873⟩,
+   ⟨-10255570416092145871087709117661972801636543119, 267709970660200485938561057559857484229597875714⟩,
+   ⟨678657725459697670755195929352051369294492826540, 2794759226716575271849166358535493227659292553256⟩,
+   ⟨-9030285707731546182944229172519733018140338986492, 9951834641351893523600059875399541000619217983088⟩,
+   ⟨-98734637363015161190120266556037986919857573951805, 107842373627112514397373551317718616778374404727309⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨69629678012528657588192605848250787730815128593, 78701300366703119311146345894156312741383396303⟩,
+   ⟨966713492430117289709509329478004665633497254495, 1025161329559817310372934296204900426340708019281⟩,
+   ⟨-650915157228294774838412665015782100233257595530, -285990944682456962589226796454514829073464826342⟩,
+   ⟨-7427553816128097665848652925988873781189845912856, -4928848541020906837651175128554850194506532519333⟩,
+   ⟨-3412231039485261549125056665263942382113207300818, 16657825771173427213252415456442100568252191889084⟩,
+   ⟨-17079567954867385598859067304746281704103890357052, 186139280526827174799835306091144952071015276574786⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986928905923980538947756635349628850692128882669, 1036569992407791865165402280269958720388158080070⟩,
+   ⟨-148348310234765340542424414697904800631598501734, 64656232926224611985187064816232454520382721491⟩,
+   ⟨-1445300400585336380058777130515060034576668584915, 283589565267049272040457309199075366771436976536⟩,
+   ⟨-10480202937069609412474478763728689414564068854479, 9714000963573606584458988058887495517008573148354⟩,
+   ⟨-161243077095362578257764733179941964228620618535154, 154215043561492564103212238024944921365459653880777⟩,
+   ⟨-2995101434808237939307983117593502082656652955778729, 3026997294992308294597698405256369935065453493394238⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2060629819081818456747493322412004292457021863671, 2164276497627922568226746460930681054369972220761⟩,
+   ⟨-141787280226001570897580543267905546486111465760, 325319037041812015451126858502441571244046610944⟩,
+   ⟨-664520041932110550689141186756428740905615942860, 3267257376401282694986541532337955381787672663266⟩,
+   ⟨-22567284381185325111807948560510773279971229716665, 25885030107098673769570889894931996789145723909784⟩,
+   ⟨-370399985691662421038572362183647514767330704491271, 411686444799077656008916679225355822513108322806042⟩,
+   ⟨-7827658009119391937025261814246529699584126644790771, 7869261300501653864967922741894582830615729745214306⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨98173677771389484767124665317042852504500880042, 116545455965059677636562494777588006753558184313⟩,
+   ⟨1355372963726953487216424107742889597444995505052, 1535636735372601901470482856549929294398121025525⟩,
+   ⟨-1198608743798806120850943200179817392828623953080, 229096512855587257142464870468592452179696425967⟩,
+   ⟨-14047429224031624150185591129259974029309195479614, 1509355455491493598783474722696638469567869490071⟩,
+   ⟨-103661836469845629622963370189478248072977058295929, 124122703579281501280029252814126235065817335980798⟩,
+   ⟨-2035294814660626531186077861818982475550444699406529, 2296097380112199249214895338444733350515271965580366⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨200303067792296014535379616039884117865936890816, 229506129299607450399416503019216404569103487408⟩,
+   ⟨2816874601057856405420108940459172617100928048028, 2997138372703504819674167689266212314054053568501⟩,
+   ⟨-1198608743798806120850943200179817392828623953080, 229096512855587257142464870468592452179696425967⟩,
+   ⟨-14047429224031624150185591129259974029309195479614, 1509355455491493598783474722696638469567869490071⟩,
+   ⟨-103661836469845629622963370189478248072977058295929, 124122703579281501280029252814126235065817335980798⟩,
+   ⟨-2035294814660626531186077861818982475550444699406529, 2296097380112199249214895338444733350515271965580366⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨577952485157582616062491055581160724879890583624, 662214709188329786700901382091515118801929581584⟩,
+   ⟨8127782035504493265187681622294436211859492456357, 8647913334314728268175407318969867132392388544469⟩,
+   ⟨-3458453781289375322904164031406243645407859820423, 661032805963420777698036556805249174420687882642⟩,
+   ⟨-40532312957498247024519005528600131439871297925409, 4355079261152560691575356612658611863144186507006⟩,
+   ⟨-299104834808977957568295202742426537293443491292438, 358142417831120420330031713141361873738700972136102⟩,
+   ⟨-5872619471715815586514513590258700221021502884594941, 6625136607372022101977580405648834296977593456689297⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨50619966799555140154792105275316634818092705776, 57214930836352602396166346950120247597413505807⟩,
+   ⟨120732104311528407151476260173271901087908469529, 136145253508583454559922641106235011985688895903⟩,
+   ⟨-2343863745286551320878914536095202258753749144, 19626901350316994833162557836273007608960182291⟩,
+   ⟨421661918534741534447177680389309978703637749, 46257830188387382449683749249341149178006330376⟩,
+   ⟨-56896621810293639281166078630004498914845355905, 79869839637591826584790285228604955116729421669⟩,
+   ⟨-243843752968055580252980851187319531699813988348, 307463243834630000793693172473459490636640493345⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0007StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0007GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0008GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0008GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0008PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨92583156438057309662723508651133081399695004162, 103402961001705903159541306379016428074403702059⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1268661074025871623046630242737151198263298966636, 1287585157761878472691080512611594150905643582338⟩,
+   ⟨-2575170315523756945382161025223188301811287164676, -2537322148051743246093260485474302396526597933272⟩,
+   ⟨5074644296103486492186520970948604793053195866544, 5150340631047513890764322050446376603622574329352⟩,
+   ⟨-10300681262095027781528644100892753207245148658704, -10149288592206972984373041941897209586106391733088⟩,
+   ⟨20298577184413945968746083883794419172212783466176, 20601362524190055563057288201785506414490297317408⟩,
+   ⟨-41202725048380111126114576403571012828980594634816, -40597154368827891937492167767588838344425566932352⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2730162711356774541250315075453434217919231509612, 2749086795092781390894765345327877170561576125314⟩,
+   ⟨-2575170315523756945382161025223188301811287164676, -2537322148051743246093260485474302396526597933272⟩,
+   ⟨5074644296103486492186520970948604793053195866544, 5150340631047513890764322050446376603622574329352⟩,
+   ⟨-10300681262095027781528644100892753207245148658704, -10149288592206972984373041941897209586106391733088⟩,
+   ⟨20298577184413945968746083883794419172212783466176, 20601362524190055563057288201785506414490297317408⟩,
+   ⟨-41202725048380111126114576403571012828980594634816, -40597154368827891937492167767588838344425566932352⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1287585157761878472691080512611594150905643582338, -1268661074025871623046630242737151198263298966636⟩,
+   ⟨2537322148051743246093260485474302396526597933272, 2575170315523756945382161025223188301811287164676⟩,
+   ⟨-5150340631047513890764322050446376603622574329352, -5074644296103486492186520970948604793053195866544⟩,
+   ⟨10149288592206972984373041941897209586106391733088, 10300681262095027781528644100892753207245148658704⟩,
+   ⟨-20601362524190055563057288201785506414490297317408, -20298577184413945968746083883794419172212783466176⟩,
+   ⟨40597154368827891937492167767588838344425566932352, 41202725048380111126114576403571012828980594634816⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨173916479569024445512604320104688868750288960638, 192840563305031295157054589979131821392633576340⟩,
+   ⟨2537322148051743246093260485474302396526597933272, 2575170315523756945382161025223188301811287164676⟩,
+   ⟨-5150340631047513890764322050446376603622574329352, -5074644296103486492186520970948604793053195866544⟩,
+   ⟨10149288592206972984373041941897209586106391733088, 10300681262095027781528644100892753207245148658704⟩,
+   ⟨-20601362524190055563057288201785506414490297317408, -20298577184413945968746083883794419172212783466176⟩,
+   ⟨40597154368827891937492167767588838344425566932352, 41202725048380111126114576403571012828980594634816⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨776980573961405516134192992788110586629577229170, 782366203682935635474764851838674405658007658622⟩,
+   ⟨717129056251457342238903874610618644556659325253, 737950970911941055526765265807739488849284701818⟩,
+   ⟨-152126031447901223277013720794716076633998545182, -42143696245303919333340731750572641529774195773⟩,
+   ⟨-1818757515347159813627773187127652324444749990591, -1051600955580905363410258100074463158180507733303⟩,
+   ⟨-2576638989418787223698151795234667153128550935849, 4119689469231523949035177505413066377020289632194⟩,
+   ⟨-23838570216162361315272084064976450623142883543774, 46327768760563203707720171402175992396462214675389⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨92459510591908114064701152859938153603221915364, 103230770034968352745844870961065791660082774267⟩,
+   ⟨1434258112502914684477807749221237289113318650509, 1475901941823882111053530531615478977698569403633⟩,
+   ⟨-287111304694933025257002307528880872880282575743, -102313023875786086898677779494162569186383667113⟩,
+   ⟨-3450066663042438668913005590967469809272851012017, -2300583716180314723122926131623021839184421511304⟩,
+   ⟨-3388670275426729758658915148828818034259838685126, 6470357269176949298150680175951069647724673661198⟩,
+   ⟨-30481834679666710667937976686426227665182041205355, 75829834440905525636352803493395416764035066834979⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5074644296103486492186520970948604793053195866544, 5150340631047513890764322050446376603622574329352⟩,
+   ⟨-10300681262095027781528644100892753207245148658704, -10149288592206972984373041941897209586106391733088⟩,
+   ⟨20298577184413945968746083883794419172212783466176, 20601362524190055563057288201785506414490297317408⟩,
+   ⟨-41202725048380111126114576403571012828980594634816, -40597154368827891937492167767588838344425566932352⟩,
+   ⟨81194308737655783874984335535177676688851133864704, 82405450096760222252229152807142025657961189269632⟩,
+   ⟨-164810900193520444504458305614284051315922378539264, -162388617475311567749968671070355353377702267729408⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5100089004413027752209062088905225256682587634275, 5171036428502056596561159438997500058607214628954⟩,
+   ⟨-9687798533637100822665576374678491552182554014558, -9479705172225012843834988053807164155053424498652⟩,
+   ⟨27769532096693078390966910273331447034107306261524, 28450512872453375509133661397821213001485067399523⟩,
+   ⟨-93200688965623446473477357389499345591449972280680, -90779551202358367595121557209531368964216441579920⟩,
+   ⟨322521050440605578442994061070536637512440199387335, 331600030814113674767794853154426369536819294487903⟩,
+   ⟨-1243994673159694476818950259810563452489315988681976, -1208889893024766529896991908746968873360909663684646⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨413067489555408489657379579720038315996124042365, 418813678363784180388005406164068169289265252422⟩,
+   ⟨757248197988564987433540748755572492698613985575, 795551319910111119443370304796672697903229772293⟩,
+   ⟨440097296257978123978455398490092237013784691554, 804097844460500313909708999301258073798780972905⟩,
+   ⟨-4106555803820048666842575151837878018950418589832, 477275314945680274149510101853098853861500958516⟩,
+   ⟨-40915680623511994780171185621926959659708159777912, 31225349284002391013953947480976204988718487935655⟩,
+   ⟨-663704209860003335300176504052212382764108488592847, 698955517852943523977100213012654806182719770414401⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1434258112502914684477807749221237289113318650507, 1475901941823882111053530531615478977698569403632⟩,
+   ⟨-322477203128101502814078266325958942014420753091, -64988550210054360288285240663610399554604451075⟩,
+   ⟨-3948966903182946551731125576937388763419585281988, -1780053275654145012535042346131374768308480861800⟩,
+   ⟨-11728696993863904704610646812963674866514002082782, 14681520225186760103977387255692166835385026823523⟩,
+   ⟨-187732558907707686192786575809005220020951733347972, 233294014193836951087792768301354532553233486088509⟩,
+   ⟨-4081716345608954216432786077246169027595592251096121, 4028408439426327948707285721382940571516565893391161⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨913287671186015957064045568243077573118744489431, 923383100972513773832431775171399220618462243061⟩,
+   ⟨-1378531622634883929846425099624904848719696546512, -1348920841798460446998421911817481828592287218109⟩,
+   ⟨1397569835749444084993377026627864296292292888600, 1512050998303472486834667345526104727316774330088⟩,
+   ⟨-460911567616449187961536429244457722545110889448, 73450552777799350147415341519374772623207078438⟩,
+   ⟨-4594483604602921030511025901055243074271018085506, -1146233337253209323565036673348987890979497362266⟩,
+   ⟨-13356286996369756077160922778450597074032784924024, 16393600005394259982296553440603974696953323950998⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1005870827624073266726769076894210654518439493593, 1026786061974219676991973081550415648692865945120⟩,
+   ⟨82970014696018988357259733091378170936235996464, 112580795532442471205262920898801191063645324867⟩,
+   ⟨1397569835749444084993377026627864296292292888600, 1512050998303472486834667345526104727316774330088⟩,
+   ⟨-460911567616449187961536429244457722545110889448, 73450552777799350147415341519374772623207078438⟩,
+   ⟨-4594483604602921030511025901055243074271018085506, -1146233337253209323565036673348987890979497362266⟩,
+   ⟨-13356286996369756077160922778450597074032784924024, 16393600005394259982296553440603974696953323950998⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨185166312876114619325447017302266162799390008324, 206805922003411806319082612758032856148807404118⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨160734197873248594805919830376929966391042965319, 182196330751399923093481755799885955131675300963⟩,
+   ⟨2172929486548943399906296973874530486263247331346, 2253701919777259755770321364469328369029201234038⟩,
+   ⟨-9657744470602033402304964779385033341680976797428, -9420503269201373291999114918697665765579690529237⟩,
+   ⟨28990295130609719568371271779292541117265772791563, 29616170203299094586138573659662819890607102253559⟩,
+   ⟨-79833702930788244735334435521111146195704501824525, -78279167445633385105488627442379501406744329049302⟩,
+   ⟨197155489260094662148469422652347841157914225030957, 200870130909956600596783447445793305220389598283865⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨85451391999027028153407012077449925493192859613, 97532734807781399097903377911278581714032310962⟩,
+   ⟨1234067152027611156707801017168781846926924543705, 1298439992068246863972590506553654499681749731799⟩,
+   ⟨-3056491915072236305753744124914953186190711850818, -2736965069662555882220285186470844287968713661692⟩,
+   ⟨-147684206767351985670866794385079468874261116946, 1683054369133509004528973342669754752873136259779⟩,
+   ⟨4253725269512366043273650719857870490205794430627, 18491442311806985329669110360896410352337926077426⟩,
+   ⟨-82618306995862730341581123992959303494081829560356, 64843961320758871007700276219636571706607254808908⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨998739063185042985217452580320527498611937349044, 1020915835780295172930335153082677802332494554023⟩,
+   ⟨-144464470607272773138624082456123001792772002807, -50480849730213583025831405263827328910537486310⟩,
+   ⟨-1658922079322792220760367098287088889898418962218, -1224914071359083395385617840944739560651939331604⟩,
+   ⟨-608595774383801173632403223629537191419372006394, 1756504921911308354676388684189129525496343338217⟩,
+   ⟨-340758335090554987237375181197372584065223654879, 17345208974553776006104073687547422461358428715160⟩,
+   ⟨-95974593992232486418742046771409900568114614484380, 81237561326153130989996829660240546403560578759906⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨64088049082733509350017781230427968223001614950, 71554117196770400563637117289070758016113211221⟩,
+   ⟨994151966876624157916002095353602557968757393550, 1023017269758172311413268907538032196087409979536⟩,
+   ⟨-199010391356180215090349407031465343633606395929, -70917984034063494228593146635916891874277709225⟩,
+   ⟨-2391403980231725228827379324274705484528631270646, -1594643116512506582641969093333171008960139344392⟩,
+   ⟨-2348847247259331054723305006780295148778992364599, 4484909898345549530145447119483736056645532139522⟩,
+   ⟨-21128397766505344190668017826408970422858174064639, 52561235945041101850325980712397488920832045125685⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1997478126370085970434905160641054997223874698088, 2041831671560590345860670306165355604664989108046⟩,
+   ⟨-288928941214545546277248164912246003585544005614, -100961699460427166051662810527654657821074972620⟩,
+   ⟨-3317844158645584441520734196574177779796837924436, -2449828142718166790771235681889479121303878663208⟩,
+   ⟨-1217191548767602347264806447259074382838744012788, 3513009843822616709352777368378259050992686676434⟩,
+   ⟨-681516670181109974474750362394745168130447309758, 34690417949107552012208147375094844922716857430320⟩,
+   ⟨-191949187984464972837484093542819801136229228968760, 162475122652306261979993659320481092807121157519812⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1046113186347215362324168983877943127211079160292, 1069341890517984901886218279735846540942367554177⟩,
+   ⟨51726773853425974512432446839775934308467195254, 154676947969981469935215898517631682360857112610⟩,
+   ⟨1260261757232379467739541872573959883924152126337, 1820941611648339791021791999111703284110037860119⟩,
+   ⟨-1507540332712233844632102189246865042436141728987, 2212561967030022324033659721891942532248546209674⟩,
+   ⟨-11601330512859021734424930469172800941346696573744, 20169710682055460397631811277025561965136768201823⟩,
+   ⟨-171942693953772869684118823138957664021960214610143, 165457708365655080628174303294582584806270826056441⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨45872923793061478376133383195743429052252713012, 52354245115509057703113541209219423698352396435⟩,
+   ⟨713862046511034724186043854267435087062512361972, 756087414145156104519510497803013237811667291392⟩,
+   ⟨-19975265228662665770075188751362550800272675214, 254930955763522970606479120637323753079666427058⟩,
+   ⟨685068670410499101071072448830266637690124928428, 2783233145237476339861303695548075304565313916991⟩,
+   ⟨-9007653947438541816207073991141992591423460816200, 9871278689783175435904123302165417653902057392363⟩,
+   ⟨-98531779347289567903759037776697595416647643843500, 107825379624477325184371192167806720478585957306362⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨63183593252589859182533005349766876999581032978, 72110714881554060558473345295429158074806089264⟩,
+   ⟨969917781065254841547253626379808884706445547900, 1027781421134647769881607804954691904013077199438⟩,
+   ⟨-609509455142046361375238103777847638518979465328, -246489019563081656734980301579143938654821024443⟩,
+   ⟨-7468194103860615428264546528053103296538979237913, -4969172779760718174677684719108787032480564918393⟩,
+   ⟨-4017200407671461423786771182587612067202977937244, 16159670907501802166275915514059562683847827312473⟩,
+   ⟨-17159188874316764091456174743141531210481421972568, 188320151685616991671831557987962419315741977256759⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨987120614715539239014080706470661285612325526000, 1036903075574409040480985478484707087458253840415⟩,
+   ⟨-145134754136499852962832410635630473566283467583, 68962035606473642598480014503845555035916384794⟩,
+   ⟨-1452531920996111423594513250911165628010531760228, 294458199711354556967399574113526642260666684890⟩,
+   ⟨-10618983870350245558047772754382275123225039822666, 9899157502183050796218305522664443383851997241488⟩,
+   ⟨-164724322400172311173723430092079020914438418464991, 157494533012304898358459127928443391371566286839857⟩,
+   ⟨-3076499724395524571044365862468375427199422045276550, 3106005765392621894221465127021629444125958024230816⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2059967885366379018540450607543536919900521587103, 2163856173276699581549505892028066426279925335490⟩,
+   ⟨-151170914925931062834097673033784612201064628996, 318148288074970373622731731573104868343740523996⟩,
+   ⟨-689931392583008437385173520285355559916925519191, 3277632807008771888259193588389600153954333439173⟩,
+   ⟨-23054114321469318582137931252117445183307149503201, 26127922306756568358657262087056436091178050488131⟩,
+   ⟨-377653762965856298237376285554152776158509647284557, 419084413688086716714284136734498483851432239615588⟩,
+   ⟨-8013631064741844483854800711986419047799642129540038, 8054560796005378999761696739702561264104829017813197⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨89056467442682652920448363907326972632129725021, 106764995378871323065619436587732477078116739947⟩,
+   ⟨1359627924416571323903363996770071958223655126051, 1537400312117478247372899540986916618738836491058⟩,
+   ⟨-1149080860243596157989566016337523466207880205619, 261762812961613228856074591790896562280569026667⟩,
+   ⟨-14048281045833008520980919522388597164488295576779, 1389158506505957469443679856166141325391244723879⟩,
+   ⟨-104135600094563690590554228830536856370027899044601, 122915952602191437744381723296243249153606585914013⟩,
+   ⟨-2033506299163510328449315823961228612144477136243958, 2298801401067269890558027677147042695707260509524092⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨181639623880739962583171872558460054031824729183, 210167956380577226225160742966748905152520442006⟩,
+   ⟨2821129561747474242107048829486354977879587669027, 2998901949448381165576584373703199638394769034034⟩,
+   ⟨-1149080860243596157989566016337523466207880205619, 261762812961613228856074591790896562280569026667⟩,
+   ⟨-14048281045833008520980919522388597164488295576779, 1389158506505957469443679856166141325391244723879⟩,
+   ⟨-104135600094563690590554228830536856370027899044601, 122915952602191437744381723296243249153606585914013⟩,
+   ⟨-2033506299163510328449315823961228612144477136243958, 2298801401067269890558027677147042695707260509524092⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨524101169203360149010250781018340837217541340816, 606416536848053478467894562779342026619080700193⟩,
+   ⟨8140059256876671538860888457645924979999157992547, 8653001941162848677853421070359730342023724182840⟩,
+   ⟨-3315546517307720411497647832259550194149908885242, 755287824297729355599036081080569135172779743655⟩,
+   ⟨-40534770795675403695100932023013601107818763479999, 4008264176689727301847817075975558386803392125623⟩,
+   ⟨-300471827672846610533242179991379795402233872369667, 354660470530648928816846802520008010470296366933082⟩,
+   ⟨-5867458906839330376869726656644270382203923000081509, 6632938762616702607571876802135162179017974502228009⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨45872923793061478376133383195743429052252713012, 52354245115509057703113541209219423698352396435⟩,
+   ⟨120572092425078009873251006915689097473371421007, 135751222302825076777924334781052814915828039558⟩,
+   ⟨-2946022721750000535386474427987527719688049801, 18663424465522142740796422318714173046723779490⟩,
+   ⟨546401832992696635385060919705580789051473567, 45462313407016551091778900578619137468351574091⟩,
+   ⟨-56536371628726670849654704667886413754265302660, 77482367971122766981284735638069235058651202809⟩,
+   ⟨-237262500357118140961466331530895839201130119209, 298624999339775307216002256880908156904880548900⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0008StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0008GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0009GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0009GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0009PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨100855997974081054332202374750186544677787644712, 111685688823663682104164597513308723070171107721⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1254362564991884505726197553118043777945372906018, 1273090587334595101171992503582187426125266470464⟩,
+   ⟨-2546181174669190202343985007164374852250532940928, -2508725129983769011452395106236087555890745812036⟩,
+   ⟨5017450259967538022904790212472175111781491624072, 5092362349338380404687970014328749704501065881856⟩,
+   ⟨-10184724698676760809375940028657499409002131763712, -10034900519935076045809580424944350223562983248144⟩,
+   ⟨20069801039870152091619160849888700447125966496288, 20369449397353521618751880057314998818004263527424⟩,
+   ⟨-40738898794707043237503760114629997636008527054848, -40139602079740304183238321699777400894251932992576⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2715864202322787423929882385834326797601305448994, 2734592224665498019375677336298470445781199013440⟩,
+   ⟨-2546181174669190202343985007164374852250532940928, -2508725129983769011452395106236087555890745812036⟩,
+   ⟨5017450259967538022904790212472175111781491624072, 5092362349338380404687970014328749704501065881856⟩,
+   ⟨-10184724698676760809375940028657499409002131763712, -10034900519935076045809580424944350223562983248144⟩,
+   ⟨20069801039870152091619160849888700447125966496288, 20369449397353521618751880057314998818004263527424⟩,
+   ⟨-40738898794707043237503760114629997636008527054848, -40139602079740304183238321699777400894251932992576⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1273090587334595101171992503582187426125266470464, -1254362564991884505726197553118043777945372906018⟩,
+   ⟨2508725129983769011452395106236087555890745812036, 2546181174669190202343985007164374852250532940928⟩,
+   ⟨-5092362349338380404687970014328749704501065881856, -5017450259967538022904790212472175111781491624072⟩,
+   ⟨10034900519935076045809580424944350223562983248144, 10184724698676760809375940028657499409002131763712⟩,
+   ⟨-20369449397353521618751880057314998818004263527424, -20069801039870152091619160849888700447125966496288⟩,
+   ⟨40139602079740304183238321699777400894251932992576, 40738898794707043237503760114629997636008527054848⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨188411049996307817031692329134095593530666072512, 207139072339018412477487279598239241710559636958⟩,
+   ⟨2508725129983769011452395106236087555890745812036, 2546181174669190202343985007164374852250532940928⟩,
+   ⟨-5092362349338380404687970014328749704501065881856, -5017450259967538022904790212472175111781491624072⟩,
+   ⟨10034900519935076045809580424944350223562983248144, 10184724698676760809375940028657499409002131763712⟩,
+   ⟨-20369449397353521618751880057314998818004263527424, -20069801039870152091619160849888700447125966496288⟩,
+   ⟨40139602079740304183238321699777400894251932992576, 40738898794707043237503760114629997636008527054848⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨781098920948694359180327592232250348683518811885, 786485213102360611511446308603034564345670958837⟩,
+   ⟨716583070160266190391489262359614439523513177730, 737346823911231273356909247682957327248266124015⟩,
+   ⟨-159901672904240633332294261685720726962930487493, -50609088580462078778514427110036796363881720726⟩,
+   ⟨-1810424810664748478447125148430291869958485256958, -1050833527494279792459174919855742361042102598495⟩,
+   ⟨-2468157178606229018239108493107587211995572043991, 4138236558223163834487139360501866482234485303503⟩,
+   ⟨-23319351174409363527646074606438833525798502764756, 45655550855497147874986355271399096763152014883355⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨100696204566485800156970351748217677711105080795, 111468788873818304819207784489786109035409374698⟩,
+   ⟨1433166140320532380782978524719228879047026355464, 1474693647822462546713818495365914654496532248027⟩,
+   ⟨-302955295246420911128196600911487003108671630482, -118934585198856252064336977261520563464906353583⟩,
+   ⟨-3436662074874360253383397218584639684137471441592, -2295588181043733286785339616366543339511459870823⟩,
+   ⟨-3204423383340046848038842090276529186076566994830, 6541246057045029255931528081688052430405416068825⟩,
+   ⟨-29802542955482604729752620481249527025622908833935, 74845972633046406639378931014672523823438198352718⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5017450259967538022904790212472175111781491624072, 5092362349338380404687970014328749704501065881856⟩,
+   ⟨-10184724698676760809375940028657499409002131763712, -10034900519935076045809580424944350223562983248144⟩,
+   ⟨20069801039870152091619160849888700447125966496288, 20369449397353521618751880057314998818004263527424⟩,
+   ⟨-40738898794707043237503760114629997636008527054848, -40139602079740304183238321699777400894251932992576⟩,
+   ⟨80279204159480608366476643399554801788503865985152, 81477797589414086475007520229259995272017054109696⟩,
+   ⟨-162955595178828172950015040458519990544034108219392, -160558408318961216732953286799109603577007731970304⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5046808143799832692709215666867275074069439293390, 5116651561785341100484127472610778477620294544794⟩,
+   ⟨-9528237348479372324433800545249232127356382125414, -9323775765908181075117333124131793105872535377584⟩,
+   ⟨27260202543697648254659752071582822199927158262192, 27928224695240728488359262152339429100423396737939⟩,
+   ⟨-91343449383609392334685168552042717583689323424324, -88971009134920440927019847436442588352582666552480⟩,
+   ⟨315744434459941459524841068045992952516078733217344, 324634898739730526101236914093540872698748766642441⟩,
+   ⟨-1217061797369508017929940136144903495522978012460062, -1182698533680285229732887628784417008275811066884230⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨417457982066616470808953327499649159747049893491, 423235236026366359121298710723578427627730205757⟩,
+   ⟨760709336853792924769889863115011079014199256953, 799056684580568303749606580613675939289658956428⟩,
+   ⟨430276792178528824200236053489635735416369681098, 793086161505324505333574797586185497818230702177⟩,
+   ⟨-4116222103291406059756010219667177642803274375784, 432206545197357421262712569077859379794351961819⟩,
+   ⟨-40375930717548565300660749391535630482296848811211, 30887679843766047078056214161525653674538582132419⟩,
+   ⟨-651958913873268210394888329481544352991796551639368, 688105015540111232388408437664644834996505468118442⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1433166140320532380782978524719228879047026355465, 1474693647822462546713818495365914654496532248029⟩,
+   ⟨-337812212549332948566137849188298986052456097252, -82150537966803119343822136306391728030313455151⟩,
+   ⟨-3926888284097562679176343212478092904930272319273, -1784147305193713784046655818922158429788328911776⟩,
+   ⟨-11381218477339356480991226187097408779763658406010, 14587759738380704955538060919089259421338197803189⟩,
+   ⟨-183441897457539520363324762250785563934348651723739, 228707221546442954856736038672476782539050509137864⟩,
+   ⟨-3980900638600170591328704727402949422802846165913353, 3923359254151527343559269927868802014942227230006593⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨905613327040268922296823991053019242482330402065, 915656942067084075958202759333488411830290691733⟩,
+   ⟨-1370189257819844165513011751756598289125357707174, -1340787065805746079475374440383496187529263000294⟩,
+   ⟨1396992195956894274643064652726127451840230315729, 1510335449033833254954543263923875524244241939333⟩,
+   ⟨-473712270782497138844974286435542359969483448584, 53755034117626510421735115714308428234031728990⟩,
+   ⟨-4556342886778727805606361955239246453877901513701, -1166173789539328736206238181332822008123274197134⟩,
+   ⟨-12918724142886370270718018786652857595202078885780, 16209409158848441826653896858056762179498066779418⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1006469325014349976629026365803205787160118046777, 1027342630890747758062367356846797134900461799454⟩,
+   ⟨91312379511058752690673080959684730530574835802, 120714571525156838728310392332786832126669542682⟩,
+   ⟨1396992195956894274643064652726127451840230315729, 1510335449033833254954543263923875524244241939333⟩,
+   ⟨-473712270782497138844974286435542359969483448584, 53755034117626510421735115714308428234031728990⟩,
+   ⟨-4556342886778727805606361955239246453877901513701, -1166173789539328736206238181332822008123274197134⟩,
+   ⟨-12918724142886370270718018786652857595202078885780, 16209409158848441826653896858056762179498066779418⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨201711995948162108664404749500373089355575289424, 223371377647327364208329195026617446140342215442⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨173123293306227226721849951572684069290666709093, 194575217091178759068603701799219088971479449906⟩,
+   ⟨2119574695801411493315187702637649377947786912225, 2199934588056735748900285104019006713669199522742⟩,
+   ⟨-9492231525451851902488540222366763131839464927340, -9256599651570361009535165617747473867677065448523⟩,
+   ⟨28548099823075798064879911660439297958917114145191, 29169187749580464614353020473391025672681061618392⟩,
+   ⟨-78707824896514450847457921004097050163366386764207, -77166000686021748221378984170767296364960194786671⟩,
+   ⟨194471603451783800625996290041311993624172322565919, 198154548587735944932419602122824097962741300583262⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨92525669584290307432053658767346744496347805979, 104707738376447476237960252453254754265017148065⟩,
+   ⟨1217689178949127152993445305325009932781186693607, 1282027603509860473879266851634644739635109711995⟩,
+   ⟨-3050909993553568702518995376148645682435412382038, -2733388692088933288975108377282150718165266293696⟩,
+   ⟨-72455476623411295126813913099319491811461226417, 1736593373642678538667482541198381770294720275296⟩,
+   ⟨4327809868271833097257997811835707647708348297280, 18309806217019553489708226285499413738797817858901⟩,
+   ⟨-81648981396432511167150239536930569671735021081267, 62381622114337565709175673219854642283472838705177⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨998138996624559229728877649820365986978678208044, 1020364680443531552196163011786743166095307839798⟩,
+   ⟨-152500078870717012519566446431588356344171013567, -58759462295885605596107588748851447894153288299⟩,
+   ⟨-1653917797596674427875930723422518230595182066309, -1223053243055100034020565113358275193921024354363⟩,
+   ⟨-546167747405908433971788199534861851780944675001, 1790348407760305049089217656912690198528752004286⟩,
+   ⟨-228533018506894708348364143403538806169553216421, 17143632427480224753501988104166591730674543661767⟩,
+   ⟨-94567705539318881437868258323583427266937099967047, 78591031273186007535829570077911404462970905484595⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨69797290288347122311969350124953562711716216131, 77264276728318959294128597613187272208346164576⟩,
+   ⟨993395069437155973726488568539686848909419742364, 1022179744177800845835877084137185998282468192537⟩,
+   ⟨-209992608735762456177886161175774662214552461757, -82439172401653813453348074164561198495871614277⟩,
+   ⟨-2382112627736454472814777837374559414129966967858, -1591180475417197018736463724980547516068494065117⟩,
+   ⟨-2221137033482514296674168276021222625255741134833, 4534046261789621209152765465900332979605392722947⟩,
+   ⟨-20657548623109427144110749555878987726763253748969, 51879274906862942875863640705548063471965906985113⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1996277993249118459457755299640731973957356416088, 2040729360887063104392326023573486332190615679596⟩,
+   ⟨-305000157741434025039132892863176712688342027134, -117518924591771211192215177497702895788306576598⟩,
+   ⟨-3307835595193348855751861446845036461190364132618, -2446106486110200068041130226716550387842048708726⟩,
+   ⟨-1092335494811816867943576399069723703561889350002, 3580696815520610098178435313825380397057504008572⟩,
+   ⟨-457066037013789416696728286807077612339106432842, 34287264854960449507003976208333183461349087323534⟩,
+   ⟨-189135411078637762875736516647166854533874199934094, 157182062546372015071659140155822808925941810969190⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1046678249874564662881786367757641924946736375353, 1069984763216471087220598012977208014964004270904⟩,
+   ⟨60274774635176759108655996007594420342076117390, 163476992014923985540739847972670470635626938345⟩,
+   ⟨1261535879583688682927551145122431963462444672226, 1822919811314646416269220204924505221609531755999⟩,
+   ⟨-1484530163508046024433819215419210648340298784606, 2233666794102604326766062952746226043299448491550⟩,
+   ⟨-11550520391922499502084389633233054102767016051333, 20091354935207170086389374818690992555063422305496⟩,
+   ⟨-170765542198966702639208897888564412970690940190759, 163896694551742035200736606709024994536981832100636⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨49986468560112496418321442370543465865227942312, 56566203368217190213917642816960225324724597241⟩,
+   ⟨714314648707034863641887946663012264272530706437, 756993803379516875272741797698256256061698496815⟩,
+   ⟨-11552349610548137962951742025045984794663465288, 266003829135636224571472289007391619655289137541⟩,
+   ⟨679505446555862947859975000966436394459749753191, 2793207110636825808023193835117116983115855504048⟩,
+   ⟨-9027244478594444929882834640898907559045196649672, 9941082404244880585718322865599731697458590458569⟩,
+   ⟨-98707340989409389989399694011447830914913851577072, 107840060994422406800199483288672126447232856299580⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨68770917543034540217258600335930917982193965935, 77823255365200222229493884023699732571036788198⟩,
+   ⟨967155956651804370519505112913324294202493293337, 1025526362470683967881551256169743238331796927645⟩,
+   ⟨-645409398067145827363840252073170708767670067312, -280734691076940120233397485283874666392458608249⟩,
+   ⟨-7433197194750856445402583424813630846043217748406, -4934419024117306908424642641666965306962638848873⟩,
+   ⟨-3492671476662543175144840867593235046933247985568, 16591867803728954970035677282089358813085980673187⟩,
+   ⟨-17086045232667879555736763692398903562529566576092, 186435813804489398260106419864062968097925786074698⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986955964357391137702849008332286192054466584633, 1036615774634800030375550216249471489931804790034⟩,
+   ⟨-147918463557055736329782021285182154223510495895, 65230864540701130262276153171746562560830725021⟩,
+   ⟨-1446249177188259931226045504508946855328524919561, 285042333136124893615779168125079439245041141582⟩,
+   ⟨-10498598295796576097097866287618275943890475111386, 9738521068624092952195900724263852780969010944108⟩,
+   ⟨-161703927645687991445808526031962404378569608904887, 154648230820249042682522167654369331433191264899513⟩,
+   ⟨-3005844812049976636805545999498474964851121886237969, 3037425130604467550704248044510528700343692845579393⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2060538811184326028271697331669385977612700992956, 2164217161716688353415800117440023910911660746041⟩,
+   ⟨-143039569758839711933328888682943530198086736003, 324358622801758225211005547442153891931231445043⟩,
+   ⟨-667922298226709111359140271776023888543783120168, 3268590154113445310832831546884045955700047755853⟩,
+   ⟨-22631735050056203306076219802048469489756468906348, 25917074524386193472909230639852811767758989109298⟩,
+   ⟨-371357953023850449204366528690426215178241595273654, 412664094320706631659151929553113432583520328221204⟩,
+   ⟨-7852186121773857580580918674202716650696969308919452, 7893701792859719814160314251049979286019694868606967⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨96958594543192989282460335946260491410035220152, 115242036368579680052133139765730328045187912278⟩,
+   ⟨1355955087264666871834192577745080645744327159073, 1535889074666783361183630291050650930061002440991⟩,
+   ⟨-1192039501043010436686976029266762354751356112192, 233447728061901295758340896796266692596636084022⟩,
+   ⟨-14048069322864042971026229970074713745241119043182, 1493274112573556926568693652362096576023671831199⟩,
+   ⟨-103727907941234055788437892626861340677424363076120, 123966543414839015050979171915010139869927543044664⟩,
+   ⟨-2035130054089039645450338655163418633885272564349515, 2296552062457894851374267485952992309064469891069903⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨197814592517274043614662710696447036087822864864, 226927725192243362156297737279039051115359019999⟩,
+   ⟨2817456724595569790037877410461363665400259702049, 2997390711997686279387315123766933949716934983967⟩,
+   ⟨-1192039501043010436686976029266762354751356112192, 233447728061901295758340896796266692596636084022⟩,
+   ⟨-14048069322864042971026229970074713745241119043182, 1493274112573556926568693652362096576023671831199⟩,
+   ⟨-103727907941234055788437892626861340677424363076120, 123966543414839015050979171915010139869927543044664⟩,
+   ⟨-2035130054089039645450338655163418633885272564349515, 2296552062457894851374267485952992309064469891069903⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨570772263280284622466577116536750764530101172212, 654775007550125977734295457263186545288375037989⟩,
+   ⟨8129461688986580944094195565391391910317438476163, 8648641431611402294549175269741289673918356105282⟩,
+   ⟨-3439498953397010960462706797020850185375123433866, 673587759163400600276944664530943015776197537590⟩,
+   ⟨-40534159892320665921456110389536650405388537390656, 4308678313795476512708110927419313581957753888619⟩,
+   ⟨-299295476777210596493637306471371098191520697101277, 357691834841469260490440644469656597561589253887873⟩,
+   ⟨-5872144073196690724316285288435001283325867689442686, 6626448543302651715082451310454948819811298072934859⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨49986468560112496418321442370543465865227942312, 56566203368217190213917642816960225324724597241⟩,
+   ⟨120709366541545801856981887698044282432275648631, 136091136832262857429902592261645627170765302428⟩,
+   ⟨-2424435072202484941975534038989461035844239804, 19497815084595007577098898378041582177814116262⟩,
+   ⟨437935014915167063899277066633670546792818993, 46150175752978286093789227709149205162009001571⟩,
+   ⟨-56848515266773023344839661620441915322367070220, 79548081319868017709095508267340198975857340559⟩,
+   ⟨-242959955965155619735116025854060171057630475500, 306270244817173060876502131783275706778069356174⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0009StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0009GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0010GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0010GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0010PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨91311034991450526690257298210518105305139446742, 102129390020906529768254950722841265361436141847⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1270874056444511995859724187879660953585646933157, 1289828591772333900582106418481172348582963384926⟩,
+   ⟨-2579657183544667801164212836962344697165926769852, -2541748112889023991719448375759321907171293866314⟩,
+   ⟨5083496225778047983438896751518643814342587732628, 5159314367089335602328425673924689394331853539704⟩,
+   ⟨-10318628734178671204656851347849378788663707079408, -10166992451556095966877793503037287628685175465256⟩,
+   ⟨20333984903112191933755587006074575257370350930512, 20637257468357342409313702695698757577327414158816⟩,
+   ⟨-41274514936714684818627405391397515154654828317632, -40667969806224383867511174012149150514740701861024⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2732375693775414914063409020595943973241579476133, 2751330229103236818785791251197455368238895927902⟩,
+   ⟨-2579657183544667801164212836962344697165926769852, -2541748112889023991719448375759321907171293866314⟩,
+   ⟨5083496225778047983438896751518643814342587732628, 5159314367089335602328425673924689394331853539704⟩,
+   ⟨-10318628734178671204656851347849378788663707079408, -10166992451556095966877793503037287628685175465256⟩,
+   ⟨20333984903112191933755587006074575257370350930512, 20637257468357342409313702695698757577327414158816⟩,
+   ⟨-41274514936714684818627405391397515154654828317632, -40667969806224383867511174012149150514740701861024⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1289828591772333900582106418481172348582963384926, -1270874056444511995859724187879660953585646933157⟩,
+   ⟨2541748112889023991719448375759321907171293866314, 2579657183544667801164212836962344697165926769852⟩,
+   ⟨-5159314367089335602328425673924689394331853539704, -5083496225778047983438896751518643814342587732628⟩,
+   ⟨10166992451556095966877793503037287628685175465256, 10318628734178671204656851347849378788663707079408⟩,
+   ⟨-20637257468357342409313702695698757577327414158816, -20333984903112191933755587006074575257370350930512⟩,
+   ⟨40667969806224383867511174012149150514740701861024, 41274514936714684818627405391397515154654828317632⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨171673045558569017621578414235110671072969158050, 190627580886390922343960644836622066070285609819⟩,
+   ⟨2541748112889023991719448375759321907171293866314, 2579657183544667801164212836962344697165926769852⟩,
+   ⟨-5159314367089335602328425673924689394331853539704, -5083496225778047983438896751518643814342587732628⟩,
+   ⟨10166992451556095966877793503037287628685175465256, 10318628734178671204656851347849378788663707079408⟩,
+   ⟨-20637257468357342409313702695698757577327414158816, -20333984903112191933755587006074575257370350930512⟩,
+   ⟨40667969806224383867511174012149150514740701861024, 41274514936714684818627405391397515154654828317632⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨776347024187318113947893983842183226080979466352, 781732556319715071998995707413047282232756175770⟩,
+   ⟨717208920543969683368471554124401472509857121371, 738039797790209121204416691078405706688349593178⟩,
+   ⟨-150928291635357207271795777020992407984938253644, -40839593083032728363854487285617749178603155305⟩,
+   ⟨-1820009425326967841604833611053020267457078996342, -1051684383818843689425676226844902445767432661251⟩,
+   ⟨-2593401505364639438621926680386146771217444061948, 4116843466515621269224829028975838345696935470606⟩,
+   ⟨-23919696375988551049529284382868682903928074809458, 46431365452222893724467582132582417407981124581836⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨91192411043733309692103134968083432506026389729, 101963475308527225794306582109811544809579808563⟩,
+   ⟨1434417841087939366736943108248802945019714242743, 1476079595580418242408833382156811413376699186354⟩,
+   ⟨-284670405326221995519596142271907392312796926114, -99752808158123851137664392199485217571698984165⟩,
+   ⟨-3452064152506819703590563033386778936457166911188, -2301288041786998190977601576780183200364597949604⟩,
+   ⟨-3417110927046905713086581603694435926868261454286, 6459412351691348790220176720937613193526605749026⟩,
+   ⟨-30588204792433475507660503553523957940194145899366, 75980912249853800894131098365945629563732006667104⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5083496225778047983438896751518643814342587732628, 5159314367089335602328425673924689394331853539704⟩,
+   ⟨-10318628734178671204656851347849378788663707079408, -10166992451556095966877793503037287628685175465256⟩,
+   ⟨20333984903112191933755587006074575257370350930512, 20637257468357342409313702695698757577327414158816⟩,
+   ⟨-41274514936714684818627405391397515154654828317632, -40667969806224383867511174012149150514740701861024⟩,
+   ⟨81335939612448767735022348024298301029481403722048, 82549029873429369637254810782795030309309656635264⟩,
+   ⟨-165098059746858739274509621565590060618619313270528, -162671879224897535470044696048596602058962807444096⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5108360292752999939230691522865119804229830950014, 5179479677766084268438944261939323980346976767773⟩,
+   ⟨-9712597794651389798612612042967474448432323359482, -9503938395910340100669130009076703323953005895526⟩,
+   ⟨27848761132085264435798726533269525667126848116852, 28531762444426887989793596824020519005065586358515⟩,
+   ⟨-93489792309350209549860684600383318442934931275240, -91061059625228865809439319127003527411137041536896⟩,
+   ⟨323576268694691079370246102495864959129807464286564, 332684654300686153380815333010135758617084896783321⟩,
+   ⟨-1248189587329315243886006521257748004159029930498016, -1212969135166315549745962061959161535489748453424212⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨412394133930102381593854301217506650727962120379, 418135549082381372356379732862547331647637330760⟩,
+   ⟨756710845016177271503951453473715943698164679732, 795007043188457431795402527288746640421185352915⟩,
+   ⟨441594363998970525891583994482482105077134497809, 805776644184751342095872545668615297476598993141⟩,
+   ⟨-4105015679271074945813075161557458501996516865682, 484253900690742767633538699692186924131966084589⟩,
+   ⟨-40998634613015711610563304289228174174616335753349, 31277686594179577950025714862456417161304536770825⟩,
+   ⟨-665521545556574513019308047875054860412759370701553, 700633140477424262326470269266721789009924903614816⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1434417841087939366736943108248802945019714242742, 1476079595580418242408833382156811413376699186352⟩,
+   ⟨-320115116499219458188177499678606898794569825484, -62344635508139508605911822082565828857721413949⟩,
+   ⟨-3952308718453729349318219461788618311066770767112, -1779348604245138047026435547298269809602521932565⟩,
+   ⟨-11782469005724006531533174361151136515612228530693, 14696132247566992787328270568629264867643993504646⟩,
+   ⟨-188400477680317358540407741329938659711727264170376, 234005333419026286543552604840245243789960332708930⟩,
+   ⟨-4097420340070173956415666912583315980378779135309514, 4044767762374728713338293593963695048993144290868919⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨914471837727390744515614782897821294433016360830, 924575295181394674888129935513667209445563708692⟩,
+   ⟨-1379815084028061711064892641512972961702486721375, -1350171996576661670293341020714148245739841638989⟩,
+   ⟨1397649820611454544034574113641287971114173430351, 1512307295624016721249052454907472341765955436316⟩,
+   ⟨-458943295677268548437428066562714046755656062551, 76488167106261364890427381663201823461142369510⟩,
+   ⟨-4600330143037930819624567967021611107174299559007, -1143057475253692242436451708774234319274723756128⟩,
+   ⟨-13424222758263672691365935022019248469301272153502, 16422425979301393240941152210244343139078339053932⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1005782872718841271205872081108339399738155807572, 1026704685202301204656384886236508474806999850539⟩,
+   ⟨81686553302841207138792191203310057953445821601, 111329640754241247910343812002134773916090903987⟩,
+   ⟨1397649820611454544034574113641287971114173430351, 1512307295624016721249052454907472341765955436316⟩,
+   ⟨-458943295677268548437428066562714046755656062551, 76488167106261364890427381663201823461142369510⟩,
+   ⟨-4600330143037930819624567967021611107174299559007, -1143057475253692242436451708774234319274723756128⟩,
+   ⟨-13424222758263672691365935022019248469301272153502, 16422425979301393240941152210244343139078339053932⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨182622069982901053380514596421036210610278893484, 204258780041813059536509901445682530722872283694⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨158802183280014285271736261652274460230901384632, 180265836102389633359339012736897992863586844231⟩,
+   ⟨2181216440684244725000770350285525921444120177852, 2262052816984639230620740313657795776704124000588⟩,
+   ⟨-9683420001058614063569906301240280947740101540880, -9445929107146537433440437452089695657230828088333⟩,
+   ⟨29058850665849170833758668407216678943146831641922, 29685468736295899331796663950329940684143910161168⟩,
+   ⟨-80008194940949141072907030596358638945615234481151, -78451686234810533601272923820507933143664014214356⟩,
+   ⟨197571342275845451070057021653165016802068730289736, 201290904818612966964441466584114793045885297279933⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨84355432299782443416235568212784729499130196913, 96421152925144338844719056963478845315087406250⟩,
+   ⟨1236587896394372221063936540029809109457365860943, 1300965831177246811300045193043887594917423487263⟩,
+   ⟨-3057318578442804750681438842177346425947115251354, -2737481956978037360258481909422199215670606110199⟩,
+   ⟨-159291371528329934820400057234662736327738932635, 1674807397388126597052596333544990790883587737734⟩,
+   ⟨4241755659108545031654218534939576588499036239788, 18519192120799306104361178344631589132194786097386⟩,
+   ⟨-82770078951733690846474896747629591799709682395039, 65226491178739129829749326847148191490265570095184⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨998827270027173187931850351110606023932146557743, 1020996448106539013732848992477146054760651114942⟩,
+   ⟨-143227187633689490000956101483163852245120860432, -49206165399414858993295827670260650822418151726⟩,
+   ⟨-1659668757831350206646864728536058454832941821003, -1225174661354020639009429454514726873904650673883⟩,
+   ⟨-618234667205598483257828123797376783083394995186, 1751295564494387961943023715208192614344730107244⟩,
+   ⟨-358574483929385787970349432082034518675263319219, 17376134645545613861924726635857354812920062341258⟩,
+   ⟨-96194301709997363537840831769648840269010954548541, 81648917158040523070690479057392534629343909149116⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨63209762603427363103534620002086704434973275807, 70675695430199246243436452341385311243441418291⟩,
+   ⟨994262682294988845926282221078452962219762148670, 1023140409958631213817979414131852475242300943946⟩,
+   ⟨-197318488840727614440700958969086889309105787841, -69143377727740658536150321694261182653540781692⟩,
+   ⟨-2392788534422159138315800974498740656965182591461, -1595131317820975401357822882099253733057768992348⟩,
+   ⟨-2368560804743143658110137652798504021250340531261, 4477323459648944292258830363055497354100087440579⟩,
+   ⟨-21202127910265470682750771317730185493920238582628, 52665955102358772921596398337480592284469733219545⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1997654540054346375863700702221212047864293115486, 2041992896213078027465697984954292109521302229884⟩,
+   ⟨-286454375267378980001912202966327704490241720864, -98412330798829717986591655340521301644836303452⟩,
+   ⟨-3319337515662700413293729457072116909665883642006, -2450349322708041278018858909029453747809301347766⟩,
+   ⟨-1236469334411196966515656247594753566166789990372, 3502591128988775923886047430416385228689460214488⟩,
+   ⟨-717148967858771575940698864164069037350526638438, 34752269291091227723849453271714709625840124682516⟩,
+   ⟨-192388603419994727075681663539297680538021909097082, 163297834316081046141380958114785069258687818298232⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1046030590939932411698636239511276467056204148103, 1069247456501062670341744367552382498228707239050⟩,
+   ⟨50412667317396058625857659352937803959287220002, 153325115037114086816190146911738189027421753051⟩,
+   ⟨1260074318083251196083855378082357672549728557184, 1820652381604210652228188926344413536540942520595⟩,
+   ⟨-1511099405682379937178480143526840874863625690176, 2209344280169252869952407582929116594297799808770⟩,
+   ⟨-11609379094790212451020831220397624243496464798933, 20182068508209198330737078054295897094844659843875⟩,
+   ⟨-172127516474303285357590365899934881439291002387386, 165701533486753913314728152471893313817582568355128⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨45240691929697570550843987208404893919583882702, 51706960597865097120073173293000066950617380916⟩,
+   ⟨713797184482859427861215797453606214295905297630, 755953063550169133071520476697124242600644360303⟩,
+   ⟨-21270195909159130471478276541174816522341906682, 253229977716853163137382308131470482460277574346⟩,
+   ⟨685932805561780866518077244875448571021999080289, 2781716181917934475743283194908035393569215633649⟩,
+   ⟨-9004666331976996895624740480977993713427453387562, 9860551411816444489090178951033169306813927183676⟩,
+   ⟨-98505044058552269099906243741975854822537437274807, 107823162130614594035900721880672053559017090838133⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨62323205560244644638317812645157485311981264825, 71231084158569790318026294788401403464552225049⟩,
+   ⟨970325094587120954033189644676269524290957972422, 1028110237422162766218693024316377920569216542794⟩,
+   ⟨-603969576891860301451187595934348949545127289319, -241208665419892774318210551668177290440609362446⟩,
+   ⟨-7473318210273433189642138339293641156130048389021, -4974295230326186679526772699251880899734736072632⟩,
+   ⟨-4098138420945790772036688821082623077521486583093, 16092656597682513620143302218068597946724662406942⟩,
+   ⟨-17175222417046089252705918531469603432303430550020, 188603357090154368047378765621052453695759971529928⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨987144222105265490978059090137860593793915168513, 1036945698727811295888032719859891556060970505192⟩,
+   ⟨-144708042110368439882477135840502247194139448240, 69535498219656485748353969838022020736137276836⟩,
+   ⟨-1453516429884550223886540953470184537832406736047, 295902613272954096406382596142593973841198385338⟩,
+   ⟨-10637632676066029605617710240011260039499755075771, 9924064137533032208880014072483418361191606405592⟩,
+   ⟨-165192856796311214696636473962669571189800214177851, 157937169516121678690192225980148387648661246229811⟩,
+   ⟨-3087497422713463826654838518801597689861712104734703, 3116680860558824894714173259160539508352937635230511⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2059883211378831346425424909324999649959110613247, 2163804425016566776009712549588513500468163584779⟩,
+   ⟨-152420705479629160477861021261411553290767873896, 317197725359840013348495218931526068610778119584⟩,
+   ⟨-693301315433399497639782959582426749522722312802, 3279082563551354588575252409657045582906947811172⟩,
+   ⟨-23119630649872754780081229016739623173980251880053, 26160758729017379297888691094789346517532623212845⟩,
+   ⟨-378633066219184314766792353825779992113780218533960, 420082342349589403385954195928016266963039372463956⟩,
+   ⟨-8038781656531464341486304059617579897794619273147749, 8079618509633065228962706728680305859931606516708980⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨87840151207297767843088824171699033626999206521, 105460117980109879674344977780759747852401427288⟩,
+   ⟨1360175882834110557253606394699109430761618935366, 1537612932896168848482033861896824055820646707022⟩,
+   ⟨-1142432673457395773829485510918941312698667559285, 266123125170734098373873671349721591153883496604⟩,
+   ⟨-14047701838332031788541586811223313396361230319187, 1373203688479216843704810800221542329797623753903⟩,
+   ⟨-104194891467062832103951303891600494719948885319567, 122748825096025522439381511940596889269122932014821⟩,
+   ⟨-2033169929903057088576264366704743487425281147418921, 2299037087410691844785131788719256843395071676144107⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨179151186198748294533346122382217138932138653263, 207589508001016409442599928503601013213837569135⟩,
+   ⟨2821677520165013475457291227415392450417551478342, 2999114570227071766685718694613107075476579249998⟩,
+   ⟨-1142432673457395773829485510918941312698667559285, 266123125170734098373873671349721591153883496604⟩,
+   ⟨-14047701838332031788541586811223313396361230319187, 1373203688479216843704810800221542329797623753903⟩,
+   ⟨-104194891467062832103951303891600494719948885319567, 122748825096025522439381511940596889269122932014821⟩,
+   ⟨-2033169929903057088576264366704743487425281147418921, 2299037087410691844785131788719256843395071676144107⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨516921055796618935295058323903111110993283656426, 598976707467292330452403951608211948660020023926⟩,
+   ⟨8141640330659865970744377496613451480246850199853, 8653615435048862437866754871754311061191147622173⟩,
+   ⟨-3296363905093010752593510568731550666238336059169, 767869025899381914023814265917296852888482766147⟩,
+   ⟨-40533099556096794052462393810453746920326340967025, 3962228302998798226814173838432337842896607063963⟩,
+   ⟨-300642906410990633985562054218903247465041432086511, 354178242481965517486989380494222969971233625356124⟩,
+   ⟨-5866488350311403622308356222385857096345276117369790, 6633618809654422820622810236393436428475741881648588⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨45240691929697570550843987208404893919583882702, 51706960597865097120073173293000066950617380916⟩,
+   ⟨120552590032907688388725254001561151158717376912, 135700742756139412021305982677728037160793835340⟩,
+   ⟨-3025947603858060767261091029678069428415752358, 18535757131157541684381347324901532878079294112⟩,
+   ⟨563511074161261201071661617952254666171950863, 45358294481442031234022459802261065228620196052⟩,
+   ⟨-56488401869347097117951779747338949389133698356, 77168445747105016438696801043993315021007379716⟩,
+   ⟨-236393032172955325684010011135262513559122215396, 297465264085122692564321607987164304752778300956⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0010StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0010GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0011GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0011GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0011PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨118700586572171500710721487428242681162025238207, 129554310903328861618553401759095070205044194088⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1224062337940262835884041942228948967468729640351, 1242378828106247998826148587803258950415954659395⟩,
+   ⟨-2484757656212495997652297175606517900831909318790, -2448124675880525671768083884457897934937459280702⟩,
+   ⟨4896249351761051343536167768915795869874918561404, 4969515312424991995304594351213035801663818637580⟩,
+   ⟨-9939030624849983990609188702426071603327637275160, -9792498703522102687072335537831591739749837122808⟩,
+   ⟨19584997407044205374144671075663183479499674245616, 19878061249699967981218377404852143206655274550320⟩,
+   ⟨-39756122499399935962436754809704286413310549100640, -39169994814088410748289342151326366958999348491232⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2685563975271165754087726774945231987124662183327, 2703880465437150917029833420519541970071887202371⟩,
+   ⟨-2484757656212495997652297175606517900831909318790, -2448124675880525671768083884457897934937459280702⟩,
+   ⟨4896249351761051343536167768915795869874918561404, 4969515312424991995304594351213035801663818637580⟩,
+   ⟨-9939030624849983990609188702426071603327637275160, -9792498703522102687072335537831591739749837122808⟩,
+   ⟨19584997407044205374144671075663183479499674245616, 19878061249699967981218377404852143206655274550320⟩,
+   ⟨-39756122499399935962436754809704286413310549100640, -39169994814088410748289342151326366958999348491232⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1242378828106247998826148587803258950415954659395, -1224062337940262835884041942228948967468729640351⟩,
+   ⟨2448124675880525671768083884457897934937459280702, 2484757656212495997652297175606517900831909318790⟩,
+   ⟨-4969515312424991995304594351213035801663818637580, -4896249351761051343536167768915795869874918561404⟩,
+   ⟨9792498703522102687072335537831591739749837122808, 9939030624849983990609188702426071603327637275160⟩,
+   ⟨-19878061249699967981218377404852143206655274550320, -19584997407044205374144671075663183479499674245616⟩,
+   ⟨39169994814088410748289342151326366958999348491232, 39756122499399935962436754809704286413310549100640⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨219122809224654919377536244913024069239977883581, 237439299390640082319642890487334052187202902625⟩,
+   ⟨2448124675880525671768083884457897934937459280702, 2484757656212495997652297175606517900831909318790⟩,
+   ⟨-4969515312424991995304594351213035801663818637580, -4896249351761051343536167768915795869874918561404⟩,
+   ⟨9792498703522102687072335537831591739749837122808, 9939030624849983990609188702426071603327637275160⟩,
+   ⟨-19878061249699967981218377404852143206655274550320, -19584997407044205374144671075663183479499674245616⟩,
+   ⟨39169994814088410748289342151326366958999348491232, 39756122499399935962436754809704286413310549100640⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨789970955900069182457876282992066320854518582738, 795358835458476093092359803171779084434452343815⟩,
+   ⟨715248848863299959607594397877410330721825843931, 735887870867852150946668494463545575816839709349⟩,
+   ⟨-176586565527584659211341387293120360153879829421, -68770300360703018295693279263389612743211000953⟩,
+   ⟨-1791331165613972237898660653235584486201370122660, -1047860646933701618121068262432307067596499445257⟩,
+   ⟨-2237392463525853661430697999142761403463330444977, 4178336909760167645685420385397373393321945361585⟩,
+   ⟨-22248166811426111868409454449236765136755026382217, 44214352646688197837492234360713924667312176529142⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨118440274469235446712067733267849622053104622501, 129216033586049267981034773627275149212972144654⟩,
+   ⟨1430497697726599919215188795754820661443651687865, 1471775741735704301893336988927091151633679418696⟩,
+   ⟨-336940976945214544116788521835192751976309146862, -154606655144824936703299271562322438783390137972⟩,
+   ⟨-3405323208608408390348567532278592437669829949192, -2282378073132864669645386417717076480134533733704⟩,
+   ⟨-2811450102373768633769720608515207999680935739760, 6692222695701295994362615041463587658179239393035⟩,
+   ⟨-28410207451620632898977630148501871433571904910936, 72716164098936770867990360811130757871319888378499⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨4896249351761051343536167768915795869874918561404, 4969515312424991995304594351213035801663818637580⟩,
+   ⟨-9939030624849983990609188702426071603327637275160, -9792498703522102687072335537831591739749837122808⟩,
+   ⟨19584997407044205374144671075663183479499674245616, 19878061249699967981218377404852143206655274550320⟩,
+   ⟨-39756122499399935962436754809704286413310549100640, -39169994814088410748289342151326366958999348491232⟩,
+   ⟨78339989628176821496578684302652733917998696982464, 79512244998799871924873509619408572826621098201280⟩,
+   ⟨-159024489997599743849747019238817145653242196402560, -156679979256353642993157368605305467835997393964928⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨4934824348500759707459327132274656126400774876899, 5002368375532189418563940953606221517785194118908⟩,
+   ⟨-9193951640380154006136430132346718190853227666146, -8997041492918375813486401429317696557104450774290⟩,
+   ⟨26195667268151400566873270179439194488667965974356, 26836775936670632033936531826960801160085273389419⟩,
+   ⟨-87469042496982560154527749902991061433685819007352, -85197671665561396893348409642093594475172189651812⟩,
+   ⟨301620691848157176825104296417048010941689410116024, 310120047488530304655674244802259959321432726928767⟩,
+   ⟨-1160967944955321346697823469589631264459109809513784, -1128142777764451885803838501365539309848758943481640⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨426995150210957381097434606283929476826089593865, 432839526815141969784704002929516753302637025198⟩,
+   ⟨767974846177574845704568139957368138523263215267, 806412831855393349513507036034285930439679546285⟩,
+   ⟨408605399520029904087449725783689311959034697662, 768790978239890650049975383576629668414745283848⟩,
+   ⟨-4134968505902073405777243776443656919278797088731, 336912784896868385938038193752870279874031430110⟩,
+   ⟨-39210504997007656743612840390345159026289414772176, 30175170915599088942877416349486410328258809456482⟩,
+   ⟨-627060479170573057810953955713143429691219257563361, 665052278207762730604650508763672613635242002962881⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1430497697726599919215188795754820661443651687865, 1471775741735704301893336988927091151633679418698⟩,
+   ⟨-370720740953132001420548123001458686844415256178, -118965681849784979848724975917776197153164231751⟩,
+   ⟨-3877238784546402623260856979257169206704886291327, -1790115139454169707703784478441596044052599144725⟩,
+   ⟨-10644918402450699844807725428158000097364654916380, 14392637232927387609757611987422578108021501523213⟩,
+   ⟨-174495138396256712363868019641438427387849944829349, 219040803410496236673804999845726239833665323820850⟩,
+   ⟨-3771022682694201580532049768672869303135684040866922, 3704530525092875517739340314680399039173391333232963⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨889216072642414855396552704879363494821126166276, 899150188757459813599771432452226605253656503759⟩,
+   ⟨-1352221513381889743857096692501463811593817051746, -1323260502054446309682716072104940292630271282290⟩,
+   ⟨1395408467148517367907751020706533941997291894198, 1506347648988344228741354253850021765855666019947⟩,
+   ⟨-501309139984654625583085444118944578035581013418, 11630054858964519487857131256636842690145737508⟩,
+   ⟨-4473352873871227343073281732007531104496259819176, -1205030751224120368966176099328252003099479316662⟩,
+   ⟨-11999673648381244764129497947001450061501073141144, 15830679583301429987453640791309150496504752160462⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1007916659214586356107274192307606175983151404483, 1028704499660788675218324834211321675458700697847⟩,
+   ⟨109280123949013174346588140214819208062115491230, 138241135276456608520968760611342727025661260686⟩,
+   ⟨1395408467148517367907751020706533941997291894198, 1506347648988344228741354253850021765855666019947⟩,
+   ⟨-501309139984654625583085444118944578035581013418, 11630054858964519487857131256636842690145737508⟩,
+   ⟨-4473352873871227343073281732007531104496259819176, -1205030751224120368966176099328252003099479316662⟩,
+   ⟨-11999673648381244764129497947001450061501073141144, 15830679583301429987453640791309150496504752160462⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨237401173144343001421442974856485362324050476414, 259108621806657723237106803518190140410088388176⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨198832370492262008546199449427764116436733709540, 220260489410245935035652419788351297472498630796⟩,
+   ⟨2007603697060033801696779044881195339992462019110, 2087092915227971980559898276750989667958441899709⟩,
+   ⟨-9143701142880935956424390904715015137580702436997, -8911456745881118946929725858678186549859842599624⟩,
+   ⟨27615412195284340580931787255187964839469522322057, 28226432910611855903457970511856101878489042149153⟩,
+   ⟨-76330927070923679788134318428564346963633358848625, -74815821797612886536008245586039113158438718889731⟩,
+   ⟨188801638409314183820305833323404593275876786270695, 192417976641247295538705391666832980340577266797889⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨107472885263751392428338442393885823209299184888, 119867211832060919141272655921583516195897796641⟩,
+   ⟨1182457269704105588843864503948808278712372391532, 1246714178483832499841264520543852495712121579707⟩,
+   ⟨-3037660688252475018401370540856320303048447853194, -2724412303592591198361735365352162707755607276017⟩,
+   ⟨88224384964588353065110434792296251882196082991, 1851435577028446363154542080923532539144883792011⟩,
+   ⟨4465710846981553654754189056717508071119292327041, 17911117661653881701251895088409207581926538861467⟩,
+   ⟨-79657980066631090943595627037979037910227921574558, 57219240616275316244579078832837556423078395978111⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨996688957906166247824891147273249318030425351164, 1019017400589520732741044088373810121449554300400⟩,
+   ⟨-169764243677784155013232188552655532881444660214, -76546323570613809841451551561087796918149702583⟩,
+   ⟨-1642252221103957650493619520149786361051155958996, -1218064654604246969620381111502140941899941256070⟩,
+   ⟨-413084755020066272517975009326648326153384930427, 1863065631887410882642399212180169381835029529519⟩,
+   ⟨-7642026889673688319092675290023033376967492135, 16706086910429761332285718989080955578827059544805⟩,
+   ⟨-91657653715012335707725124984980487971728994715702, 73049920199576746232032719624146706919583148138573⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨82096542313096622779647961469431764192959428488, 89565729363309249350126362090066794215740975505⟩,
+   ⟨991545445976685620966395105392880527738345582173, 1020157205800625665270210451355867609404007854334⟩,
+   ⟨-233549688184688995340470187160243987491624941662, -107165167109439167822602688430340361681852494362⟩,
+   ⟨-2360390180942264757768365724748837581718532494230, -1582023926363885807453819146373512809946396808733⟩,
+   ⟨-1948748711745347331954723410898109636238237240043, 4638695293204630148871227943277914538114898687612⟩,
+   ⟨-19692455194213990525847038186017221228166341514703, 50403004126312338731467047009857143542492219568404⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1993377915812332495649782294546498636060850702328, 2038034801179041465482088176747620242899108600800⟩,
+   ⟨-339528487355568310026464377105311065762889320428, -153092647141227619682903103122175593836299405166⟩,
+   ⟨-3284504442207915300987239040299572722102311917992, -2436129309208493939240762223004281883799882512140⟩,
+   ⟨-826169510040132545035950018653296652306769860854, 3726131263774821765284798424360338763670059059038⟩,
+   ⟨-15284053779347376638185350580046066753934984270, 33412173820859522664571437978161911157654119089610⟩,
+   ⟨-183315307430024671415450249969960975943457989431404, 146099840399153492464065439248293413839166296277146⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1048062101140373759442301432111022197873759877685, 1071541436762863981503121565008440407962697861374⟩,
+   ⟨78728096958478413819891536710161664052013406580, 182513732231575229238766964371821413980924688367⟩,
+   ⟨1264610489724318059710437764919666471616796805464, 1827761711920612111531650977192809137846999904492⟩,
+   ⟨-1435681028025454369135619627827387672296856122904, 2280253949069112351299117434270200913633122379264⟩,
+   ⟨-11449811951559146369104828593662178270171070721310, 19934062564723145242715784119142106884979593095548⟩,
+   ⟨-168369806453945717660270805222562576161497328666718, 160672121372580105880780421745358684833713200369976⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨58872513335092870719499623722915449999246858564, 65667658437897875485129116710919317052299725618⟩,
+   ⟨715472690088354233176079436324121309180326979142, 759142285738356312517684502897463426163928869830⟩,
+   ⟨6628081637437806626016596046887810188304338400, 289958251146309857487449900214859985973062221217⟩,
+   ⟨667829929955920703021166011027888998487274420653, 2815375156872065975555841192805997116053077598967⟩,
+   ⟨-9070541114301672236735089910420962338109618336244, 10092018089475867118426418694325795529710131149573⟩,
+   ⟨-99097178106215535269900616201279039576773152057525, 107874478547881185019191004275002512536484222978212⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨80771797115773577271642668334973193736095877742, 90094587167083392273704502612934363619610106064⟩,
+   ⟨960536041536894896579420292451880809471721483513, 1019977593554623729821018038375039513460228218518⟩,
+   ⟨-722040811314504874703955386048173055875899286751, -353992991915830883445322830144610665871301227445⟩,
+   ⟨-7347947982281257023078193723656332559904002785280, -4851036326499556842318384904308517724613369674615⟩,
+   ⟨-2373600160207241013319498166580315688899051754080, 17501660690044128146863724069187202478794094342602⟩,
+   ⟨-17110800213193873343260102104759598090267343588534, 182126782669342705687450754718093761862927059908148⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986534960809150620840757395010930277335433813388, 1035936114844269273587393954330810298619574365421⟩,
+   ⟨-153976651733833371915667300681158714336889772960, 57168910841086368503663865346075839532001168372⟩,
+   ⟨-1433390181008412311855179945807235647761575500092, 264603116848612801393529117020026402972354766398⟩,
+   ⟨-10243967116891929970548882967274320065190193623763, 9399919913176460441207376952347486678376491947284⟩,
+   ⟨-155342988387970812373469378328654710709762396763440, 148695568106761239615643110894404323406364293571669⟩,
+   ⟨-2858446662399766844605247863291824297239783211906789, 2894352286414795006192518462089963363889036765126894⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2061890695105276659002432455032558099424183871170, 2165140740850162175427108600097598569967589224268⟩,
+   ⟨-125468171822865718602780437028068911557012040943, 337931381098934403998641677853717169414235490918⟩,
+   ⟨-619888144598732713449550499645206784212374041458, 3251337956599011610922208643555437368025283287755⟩,
+   ⟨-21742068251671008561250305402327523416256918377255, 25477742318730350434880865758240492018745766731733⟩,
+   ⟨-358198433068484351760084850050609805439830712675645, 399216455239287512425244735293208331593240969488017⟩,
+   ⟨-7516113720716923191662190486708149621883510311316817, 7558806820783032107858571441206104163379513804771816⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨113953082669203574796741230860227795953452739524, 133470573157738206253654541350469288855053034635⟩,
+   ⟨1347392485178128633597173268905936229654186593271, 1531877059624143175727919374824585117890191800785⟩,
+   ⟨-1283007793930749860960918336953654192523157900983, 172697698100042771215963398820053371053624796201⟩,
+   ⟨-14024617200255276729629537522942968134885233364156, 1719980987270332172629450690208353745095669669522⟩,
+   ⟨-102726268215151662047628144654504964005127436757471, 126021717967353985262559022920485286936166416417286⟩,
+   ⟨-2035458655871246194732410639809891773227375248852418, 2287650095367868788578919115831652721743699996917620⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨232653669241375075507462718288470477115477977731, 263024884061067067872207943109564359060097228723⟩,
+   ⟨2808894122509031551800858101622219249310119136247, 2993378696955046093931604207540868137546124343761⟩,
+   ⟨-1283007793930749860960918336953654192523157900983, 172697698100042771215963398820053371053624796201⟩,
+   ⟨-14024617200255276729629537522942968134885233364156, 1719980987270332172629450690208353745095669669522⟩,
+   ⟨-102726268215151662047628144654504964005127436757471, 126021717967353985262559022920485286936166416417286⟩,
+   ⟨-2035458655871246194732410639809891773227375248852418, 2287650095367868788578919115831652721743699996917620⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨671296589718305965515687273666623213800451553397, 758929391730592026163906155150376239317119552868⟩,
+   ⟨8104755241851872530090990897051464757026230712353, 8637065203199424457300537327170452971786669239514⟩,
+   ⟨-3701977963451563816102052015972292761934364619066, 498300225243742127934709553887032350642938276534⟩,
+   ⟨-40466491370348691929842985530237055951689475033870, 4962816081516423047286107990126301919622242067254⟩,
+   ⟨-296405355446057698203560235781764421346978208901437, 363621815111618344536274880454745997151884277288384⟩,
+   ⟨-5873092217519924052045756670618130108524600714828702, 6600762895752777000558185088829635571150043423423257⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨58872513335092870719499623722915449999246858564, 65667658437897875485129116710919317052299725618⟩,
+   ⟨121067108262923651464035136872151929186624202035, 136893423732833507647737017033741256427441587515⟩,
+   ⟨-1302195810797833787194782027139391358333649166, 21323524531482497275294878208415190106708602950⟩,
+   ⟨219707256593957271509331351944896067622669833, 47703130800474023336582960486513875323383823691⟩,
+   ⟨-57525918456189597352462327535142962901175498817, 84153262268870360837133194730148914020492095133⟩,
+   ⟨-255521478669082888484983254644607919399376107842, 323401042279537044536212035358341573224036397642⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0011StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0011GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0012GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0012GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0012PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨109136304863157575849981745590334233255912940325, 119976688018282527118403186318767332493118389564⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1240211169993063747833404125148284448985501473396, 1258746325388888982740306017261621820374659083311⟩,
+   ⟨-2517492650777777965480612034523243640749318166622, -2480422339986127495666808250296568897971002946792⟩,
+   ⟨4960844679972254991333616500593137795942005893584, 5034985301555555930961224069046487281498636333244⟩,
+   ⟨-10069970603111111861922448138092974562997272666488, -9921689359944509982667233001186275591884011787168⟩,
+   ⟨19843378719889019965334466002372551183768023574336, 20139941206222223723844896276185949125994545332976⟩,
+   ⟨-40279882412444447447689792552371898251989090665952, -39686757439778039930668932004745102367536047148672⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2701712807323966666037088957864567468641434016372, 2720247962719791900943990849977904840030591626287⟩,
+   ⟨-2517492650777777965480612034523243640749318166622, -2480422339986127495666808250296568897971002946792⟩,
+   ⟨4960844679972254991333616500593137795942005893584, 5034985301555555930961224069046487281498636333244⟩,
+   ⟨-10069970603111111861922448138092974562997272666488, -9921689359944509982667233001186275591884011787168⟩,
+   ⟨19843378719889019965334466002372551183768023574336, 20139941206222223723844896276185949125994545332976⟩,
+   ⟨-40279882412444447447689792552371898251989090665952, -39686757439778039930668932004745102367536047148672⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1258746325388888982740306017261621820374659083311, -1240211169993063747833404125148284448985501473396⟩,
+   ⟨2480422339986127495666808250296568897971002946792, 2517492650777777965480612034523243640749318166622⟩,
+   ⟨-5034985301555555930961224069046487281498636333244, -4960844679972254991333616500593137795942005893584⟩,
+   ⟨9921689359944509982667233001186275591884011787168, 10069970603111111861922448138092974562997272666488⟩,
+   ⟨-20139941206222223723844896276185949125994545332976, -19843378719889019965334466002372551183768023574336⟩,
+   ⟨39686757439778039930668932004745102367536047148672, 40279882412444447447689792552371898251989090665952⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨202755311942013935463378815454661199281273459665, 221290467337839170370280707567998570670431069580⟩,
+   ⟨2480422339986127495666808250296568897971002946792, 2517492650777777965480612034523243640749318166622⟩,
+   ⟨-5034985301555555930961224069046487281498636333244, -4960844679972254991333616500593137795942005893584⟩,
+   ⟨9921689359944509982667233001186275591884011787168, 10069970603111111861922448138092974562997272666488⟩,
+   ⟨-20139941206222223723844896276185949125994545332976, -19843378719889019965334466002372551183768023574336⟩,
+   ⟨39686757439778039930668932004745102367536047148672, 40279882412444447447689792552371898251989090665952⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨785217768818869421846437005128330718365637659898, 790604771214226431474192323488027243478126376026⟩,
+   ⟨715990498743004674822465337892650115145320100324, 736696252764588000946657786553450283450343259202⟩,
+   ⟨-167659460131140263986917406378795990002995405322, -59053869804086736483670729107822684359695087205⟩,
+   ⟨-1801754240674716836401511283850127377046908016494, -1049676884869294717749345039662015701476139902987⟩,
+   ⟨-2360516078653073355136700568397108022913259383708, 4156841975059166718327753460422296733890943620057⟩,
+   ⟨-22814067381929747905694627959862313875191409443650, 44985309691079056751940634195945927865540232830209⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨108933900306835925489189177540378417075342776821, 119707905097549944744699814259771467300320209076⟩,
+   ⟨1431980997486009349644930675785300230290640200650, 1473392505529176001893315573106900566900686518400⟩,
+   ⟨-318759263889868897277908948431585201675954864634, -135519569337767408337607341171334448148530800137⟩,
+   ⟨-3422529894824599306888803027336154987748875865655, -2289870402820109715956239796643910835226788062562⟩,
+   ⟨-3021291069923546784465984134581015496442214917017, 6611654514680743719155649788594876740519459556803⟩,
+   ⟨-29144142813669969920523011347941376964278273241433, 73858931676367984101586374044917606526590904530565⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨4960844679972254991333616500593137795942005893584, 5034985301555555930961224069046487281498636333244⟩,
+   ⟨-10069970603111111861922448138092974562997272666488, -9921689359944509982667233001186275591884011787168⟩,
+   ⟨19843378719889019965334466002372551183768023574336, 20139941206222223723844896276185949125994545332976⟩,
+   ⟨-40279882412444447447689792552371898251989090665952, -39686757439778039930668932004745102367536047148672⟩,
+   ⟨79373514879556079861337864009490204735072094297344, 80559764824888894895379585104743796503978181331904⟩,
+   ⟨-161119529649777789790759170209487593007956362663808, -158747029759112159722675728018980409470144188594688⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨4994350951661440886921034269045371973898205735447, 5063113711042514039654844509235182986209697747215⟩,
+   ⟨-9371462993290888554843414637029112584716424483712, -9170552577349896883535781244723218021027086876302⟩,
+   ⟨26760520949455077551475891977706596492224335718041, 27415881370052442357451210410023475775868425268356⟩,
+   ⟨-89523584273987545705959945363907953977479155740448, -87198705077931290240569101908453834785129319297836⟩,
+   ⟨309108062871947121031607475629070236772981230042683, 317814454683505735376149988903259917657927532295836⟩,
+   ⟨-1190698053909134046609220370508295874127731947851436, -1157058736608232404265092038506790742356852825873402⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨421872222869966388156169648086648058420669415470, 427680604866252748803547803225477888365881886139⟩,
+   ⟨764115052821102787826555620531215221923200262973, 802505270503474665651395103271232722100595146680⟩,
+   ⟨420302516745275787680002152625960503106314733095, 781903556776943184137498283988917328806133216118⟩,
+   ⟨-4125282579540543415123627147494242121013192298565, 387655164069875561392227977889284258622106919554⟩,
+   ⟨-39835295141192631188178719028826165308455388015876, 30554370028162591705625411712524942315433242721539⟩,
+   ⟨-640330891049850613152559162059955449446671079201182, 677348081174008215075474427113714774048690264061849⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1431980997486009349644930675785300230290640200653, 1473392505529176001893315573106900566900686518400⟩,
+   ⟨-353112860545370611558789794227065031980653741332, -99269750914672055248544611210062130924732489867⟩,
+   ⟨-3904192117129057283669539693553023091887045385584, -1787400820716208138564301035531509957084367304942⟩,
+   ⟨-11037295869096180906037222484464120238530292896902, 14496043524150105564638500316848278878868547622686⟩,
+   ⟨-179238450179434253416724462582188862694519641722488, 224183467699434637860680195629910509383453063266446⟩,
+   ⟨-3882239368894470117704861222305585440465289431248053, 3820512440151759042955598091770107420096104189687204⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨897978056156449534723239001596928880675494551536, 907970480164479711642721375997620061459539838950⟩,
+   ⟨-1361847055359146629789807667620484267538103944718, -1332651052714084690621557081933622939991423202405⟩,
+   ⟨1396314541666400637291387662885264885999969284360, 1508533769506949115279130408216878623115623931990⟩,
+   ⟨-486522173851751402840707218910366482458530289113, 34145897664968599834987303517243709884616309479⟩,
+   ⟨-4517957319136890021840249922785568625106868425288, -1184904931951133086461462724238717531939227413791⟩,
+   ⟨-12488075918049381458279844770365927529292211264175, 16030588042010431770093214961483185689165207778418⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1007114361019607110573220747187263113931407491861, 1027947168182762238761124562316387393952658228514⟩,
+   ⟨99654581971756288413877165095798752117828598258, 128850584616818227582127750782660079664509340571⟩,
+   ⟨1396314541666400637291387662885264885999969284360, 1508533769506949115279130408216878623115623931990⟩,
+   ⟨-486522173851751402840707218910366482458530289113, 34145897664968599834987303517243709884616309479⟩,
+   ⟨-4517957319136890021840249922785568625106868425288, -1184904931951133086461462724238717531939227413791⟩,
+   ⟨-12488075918049381458279844770365927529292211264175, 16030588042010431770093214961483185689165207778418⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨218272609726315151699963491180668466511825880650, 239953376036565054236806372637534664986236779128⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨185223281159295599175263880616224313880918438964, 206664448835166568306385602766923515181377083307⟩,
+   ⟨2067093442315794359054037044762721867608248780178, 2147046088459186767130084273290795012987481288693⟩,
+   ⟨-9329077478473929465221392615628077307473598910630, -9095031564603843709441690590118581531158503453940⟩,
+   ⟨28111752489152197401550614181423438654201018695048, 28728125560058970792365233369349129177944470487747⟩,
+   ⟨-77596192326340165308575363014884207481883486308470, -76066883698193414768435694365219428492170060964433⟩,
+   ⟨191820524836164869467540320735183959351876169077539, 195472267065124778064840518582140313215756063282892⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨99514504705465878298843667785236042709369476454, 111795905742422016470086821880616910297938920958⟩,
+   ⟨1201323738082041379407917009549345820971174222090, 1265625545221611042790794750624960975752129027562⟩,
+   ⟨-3044966746757690275987571480958900497730186541698, -2729437194165121018051901491508436178615324935524⟩,
+   ⟨2382477936381338077546769474688465709777897700, 1790001675749538465857181231611997744233663807310⟩,
+   ⟨4395492431442435307282728179109387014283912104350, 18125973736200977492181390665294930757106773403761⟩,
+   ⟨-80708601333362320998473843812385720726298157362083, 59960910666107928117388759303080121141251900023108⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨997492560861915413022082669382164923384864027990, 1019766385906901728112808197878236971757478759908⟩,
+   ⟨-160523317277105250381890658071138446566929722628, -67025507492473647830762331308661964239294174843⟩,
+   ⟨-1648652205091289638696183818073635611730217257338, -1220903424658171902772771083291557555499701003534⟩,
+   ⟨-484139695915370064763160449435678016748752391413, 1824147573414507065692168535129241454118280116789⟩,
+   ⟨-122464887694454714557521743676181610822956320938, 16941068804249844405719927941056213225167545989970⟩,
+   ⟨-93196677251411702456753688582751648255590368626258, 75991498708118359887481974264563306830417107801526⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨75507225865081482988858758332712310604505106486, 82975196909104249068480758352853076180034733730⟩,
+   ⟨992573591022845512876917897148778374293839996147, 1021277861065701975837591696067185393477693339845⟩,
+   ⟨-220947085042626211366314049465103426709142151861, -93935007397171493770047230725834240813529086982⟩,
+   ⟨-2372316946979797165147215560442252877292654459908, -1587217213562425288138136910795442902038967986797⟩,
+   ⟨-2094199386768447032238525402060178767695451367340, 4582849685687391042218199349713332034721303746994⟩,
+   ⟨-20201180421131731166595782706329119978681177277529, 51195110250644103173049506303095233376992625232323⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1994985121723830826044165338764329846769728055980, 2039532771813803456225616395756473943514957519816⟩,
+   ⟨-321046634554210500763781316142276893133859445256, -134051014984947295661524662617323928478588349686⟩,
+   ⟨-3297304410182579277392367636147271223460434514676, -2441806849316343805545542166583115110999402007068⟩,
+   ⟨-968279391830740129526320898871356033497504782826, 3648295146829014131384337070258482908236560233578⟩,
+   ⟨-244929775388909429115043487352363221645912641876, 33882137608499688811439855882112426450335091979940⟩,
+   ⟨-186393354502823404913507377165503296511180737252516, 151982997416236719774963948529126613660834215603052⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1047292333538395476795643229633680696303017211829, 1070678178329090511621722494470753637378545070967⟩,
+   ⟨68834687158237364240702821697072909662931324568, 172300846808406185668325320280707225970214747765⟩,
+   ⟨1262907048235048375921285417105931038246465655172, 1825068795571773061009725591104312333043451564379⟩,
+   ⟨-1461731189605566374906923854429754029129149504238, 2255103146631411814993290625141696311873398828097⟩,
+   ⟨-11502293846908509122189779844851562417694025405567, 20016389797540111324584551768967503001935319217531⟩,
+   ⟨-169629791600926679583981445032476776131792328620024, 162376478504655888816428426229914133181403818297852⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨54107458216516224542018360265075591848921815332, 60786611799753223112658460742683918127745829477⟩,
+   ⟨714821114076503579820817733956807945812926954989, 757957834770716875933904634833069492418884594248⟩,
+   ⟨-3118456679957174224479205497881680096735128429, 277106846697428957072527761901937840723442983602⟩,
+   ⟨674033471305507662322222997463295863098579349509, 2803381269333502352343440154248209807946621328563⟩,
+   ⟨-9047149734523258386717399150609774518570347973522, 10011045377962933753798537776845434838764379885911⟩,
+   ⟨-98886226087897802775271196982077888765499705504957, 107855442121214432155146720156538486440621630047356⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨74348705746362538487608272320550929073282906113, 83526487160667974785317820173371108465936644901⟩,
+   ⟨964196307594223061843005253166696165954992574435, 1023067482267942412713386276157368410240865321102⟩,
+   ⟨-681110690585840887469974196923515580939846518919, -314837854854621306863777363205451527531611164813⟩,
+   ⟨-7395285520105082787079084430113594338451308681509, -4897148421188718984520439533934838292465897442950⟩,
+   ⟨-2971139707620367233070566954320667400693798481384, 17017967064756485954821099023402422450228365014147⟩,
+   ⟨-17066657040063047271670388601084958083486174467253, 184477146071861501951678197627408247069674802183758⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986771817723811586998704973538747143178148959381, 1036310610261398646865308218259905563867152511107⟩,
+   ⟨-150720253555684335206648426941411699490356086090, 61492571510625912413101098398485694549879314774⟩,
+   ⟨-1440165979931794058293955293259740214380611178274, 275579536512566253339682016308825922795097664579⟩,
+   ⟨-10379608961265935868705923894073796920411277053374, 9580060266457035333205893596391563094483653312582⟩,
+   ⟨-158726399787735162599669428536248674347827465335299, 151854664333065308752716200422575092211532628889857⟩,
+   ⟨-2936608430358998419402206511525001996272906044118868, 2970222031888643821756908688381719783600171922207697⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2061145582000872707717993351837113450698881414715, 2164621037564687859285042403175002486285400485313⟩,
+   ⟨-134892496476938878429475307407130510864887181712, 330625810115133707683467111552076043145989573520⟩,
+   ⟨-645729147667345340822729929499249455428087361497, 3260204164556885523376838991428745543143610601901⟩,
+   ⟨-22215305875662241792495244750976727817952063738944, 25710629336977811654886521252659919611118787347085⟩,
+   ⟨-365181072648596281621378017586659622385368850331266, 406356793460021502717392843148909212025955322948139⟩,
+   ⟨-7694205027049920806605168732120548516970934153073264, 7736279703362225549119747945401525634619196618375643⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨104853461988904858754857938105970710124380597339, 123710563631015969845756570585155321061582714701⟩,
+   ⟨1352090078265800352555814297418654179231626623842, 1534154564167236266279017806934134997785629040867⟩,
+   ⟨-1234545500684042794845993841861363143796070589943, 205194281214794255131030480494838949420024220656⟩,
+   ⟨-14041044056330947408039473183409331490797581949719, 1598109384240164691911764567723901663117852320799⟩,
+   ⟨-103283059396799700674364547069329195839626735317479, 124955722185401630467793187523827545544441551018705⟩,
+   ⟨-2035806406888177816859686125721118659567739290781140, 2293091320696945859024834091898019988866682319743006⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨213989766852062434604839683696304943380293537664, 243687251649298496964159756903922653554701104265⟩,
+   ⟨2813591715596703270759499130134937198887559166818, 2995656201498139184482702639650418017441561583843⟩,
+   ⟨-1234545500684042794845993841861363143796070589943, 205194281214794255131030480494838949420024220656⟩,
+   ⟨-14041044056330947408039473183409331490797581949719, 1598109384240164691911764567723901663117852320799⟩,
+   ⟨-103283059396799700674364547069329195839626735317479, 124955722185401630467793187523827545544441551018705⟩,
+   ⟨-2035806406888177816859686125721118659567739290781140, 2293091320696945859024834091898019988866682319743006⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨617443950876911920911383714157517671457269568093, 703132778964607621211968312776470317522064991170⟩,
+   ⟨8118309630355269054986015812356212198094718440312, 8643636692219269429691029960664135889553202178065⟩,
+   ⟨-3562145343177301844202007576960110035121278847364, 592065543854718107795012620707352712295621872547⟩,
+   ⟨-40513889257944225582572362632429343972637731232323, 4611168966882801066704477561189552283075189551962⟩,
+   ⟨-298011915199206360880653872446247365755691541090623, 360546001455155914493705757834724111644388272388852⟩,
+   ⟨-5874095614855106742427954682425837129539286102677927, 6616462953350014815595788297294983238374514501335665⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨54107458216516224542018360265075591848921815332, 60786611799753223112658460742683918127745829477⟩,
+   ⟨120864893542081342896563541444698351770881491072, 136451634266715157313440725585509071142662136644⟩,
+   ⟨-1899105550595087289026362870173742578689378480, 20340432902471982362879809587467041367608669485⟩,
+   ⟨334076866714522763083250488022131024795197590, 46858822913665872283289001311429103241510217182⟩,
+   ⟨-57161842947932282422845571638693352401957190240, 81658932692066268202525129954763556328460445731⟩,
+   ⟨-248740759457580565932879836278018703794494933940, 314107445475390733930526267646129000554982768446⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0012StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0012GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0013GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0013GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0013PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨99582782619590846946456695311079788932288192911, 110410900082256569655872652612393379359363251178⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1256552699861900996669668890440374793567001288839, 1275310675710689402948086131683640041435686387951⟩,
+   ⟨-2550621351421378805896172263367280082871372775902, -2513105399723801993339337780880749587134002577678⟩,
+   ⟨5026210799447603986678675561761499174268005155356, 5101242702842757611792344526734560165742745551804⟩,
+   ⟨-10202485405685515223584689053469120331485491103608, -10052421598895207973357351123522998348536010310712⟩,
+   ⟨20104843197790415946714702247045996697072020621424, 20404970811371030447169378106938240662970982207216⟩,
+   ⟨-40809941622742060894338756213876481325941964414432, -40209686395580831893429404494091993394144041242848⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2718054337192803914873353723156657813222933831815, 2736812313041592321151770964399923061091618930927⟩,
+   ⟨-2550621351421378805896172263367280082871372775902, -2513105399723801993339337780880749587134002577678⟩,
+   ⟨5026210799447603986678675561761499174268005155356, 5101242702842757611792344526734560165742745551804⟩,
+   ⟨-10202485405685515223584689053469120331485491103608, -10052421598895207973357351123522998348536010310712⟩,
+   ⟨20104843197790415946714702247045996697072020621424, 20404970811371030447169378106938240662970982207216⟩,
+   ⟨-40809941622742060894338756213876481325941964414432, -40209686395580831893429404494091993394144041242848⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1275310675710689402948086131683640041435686387951, -1256552699861900996669668890440374793567001288839⟩,
+   ⟨2513105399723801993339337780880749587134002577678, 2550621351421378805896172263367280082871372775902⟩,
+   ⟨-5101242702842757611792344526734560165742745551804, -5026210799447603986678675561761499174268005155356⟩,
+   ⟨10052421598895207973357351123522998348536010310712, 10202485405685515223584689053469120331485491103608⟩,
+   ⟨-20404970811371030447169378106938240662970982207216, -20104843197790415946714702247045996697072020621424⟩,
+   ⟨40209686395580831893429404494091993394144041242848, 40809941622742060894338756213876481325941964414432⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨186190961620213515255598701032642978220246155025, 204948937469001921534015942275908226088931254137⟩,
+   ⟨2513105399723801993339337780880749587134002577678, 2550621351421378805896172263367280082871372775902⟩,
+   ⟨-5101242702842757611792344526734560165742745551804, -5026210799447603986678675561761499174268005155356⟩,
+   ⟨10052421598895207973357351123522998348536010310712, 10202485405685515223584689053469120331485491103608⟩,
+   ⟨-20404970811371030447169378106938240662970982207216, -20104843197790415946714702247045996697072020621424⟩,
+   ⟨40209686395580831893429404494091993394144041242848, 40809941622742060894338756213876481325941964414432⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨780465297434683354954748739711835173223356008290, 785851484531743869868141164739887478790983277094⟩,
+   ⟨716670099711853333166631473225364865716564693662, 737442790626106403289656787144271938198937459888⟩,
+   ⟨-158706544184951020978100061144513040966451521259, -49308025022559657923346650758785036777154416624⟩,
+   ⟨-1811728779266771357582128367335834452572045335770, -1050976963569915555124095435282497778843021086588⟩,
+   ⟨-2484792600276325980555416830134353556962998292907, 4135378492677838491186364067935469681511228985033⟩,
+   ⟨-23398320268310681699997349413779715765096804095413, 45758839143917530006089561637615694421773156782037⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨99428957538463791705812646707387326790779473605, 110201331732584821532597496763491937926034011211⟩,
+   ⟨1433340199423706666333262946450729731433129387327, 1474885581252212806579313574288543876397874919772⟩,
+   ⟨-300520288554037449540115375961162133079698640136, -116379726416208297907040324449983477397877074261⟩,
+   ⟨-3438771747332526246528376994975295360461839624780, -2296403780899037747893021955532347136336956554000⟩,
+   ⟨-3232698062280759695371402374041591394488398763828, 6530369906959957578746440091912165919471332708501⟩,
+   ⟨-29905685812347158436201945356017590582914464103965, 74997544280976825647548520984346661411612745210997⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5026210799447603986678675561761499174268005155356, 5101242702842757611792344526734560165742745551804⟩,
+   ⟨-10202485405685515223584689053469120331485491103608, -10052421598895207973357351123522998348536010310712⟩,
+   ⟨20104843197790415946714702247045996697072020621424, 20404970811371030447169378106938240662970982207216⟩,
+   ⟨-40809941622742060894338756213876481325941964414432, -40209686395580831893429404494091993394144041242848⟩,
+   ⟨80419372791161663786858808988183986788288082485696, 81619883245484121788677512427752962651883928828864⟩,
+   ⟨-163239766490968243577355024855505925303767857657728, -160838745582323327573717617976367973576576164971392⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5054951148344088044765729300658491737296305102622, 5124962877561392393048647322202025870437711261399⟩,
+   ⟨-9552602258079200287587505431208411237384369321886, -9347587244605136519569502310007335696293485083228⟩,
+   ⟨27337927379525338104920658116506344436637930022200, 28007923626631285926765332671364524618051986183935⟩,
+   ⟨-91626723695154113259891952578519857809236962528516, -89246866320310936472967930218979381049479699467378⟩,
+   ⟨316777778885662913998442316381825530803774756626664, 325696953157874392145229054100202949911005885699622⟩,
+   ⟨-1221167929386013446792238703973058836992139613969614, -1186691742751489992206910456539118136426810944020968⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨416780977140906695441949153409062873044528915605, 422553447746101639032308177023805770214229079175⟩,
+   ⟨760180442042574602112600223948668295008530611427, 798521073823006672369155460282336231699509772709⟩,
+   ⟨431797699435129382437532329295790830860294316225, 794791444907568910867064477761466345669115658359⟩,
+   ⟨-4114774110786012996691737578465120769173053420932, 439106914884409271104060181365278766589289326032⟩,
+   ⟨-40459029113624864283665889020308862488996175806130, 30939344729139202649510757112238118372257145099213⟩,
+   ⟨-653758265482594244357696735405066552502417741223511, 689768229400195161739078861592238526717963162760751⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1433340199423706666333262946450729731433129387328, 1474885581252212806579313574288543876397874919772⟩,
+   ⟨-335455140046109968852039882014958179932330035840, -79512942541995663505481401362867067425721462357⟩,
+   ⟨-3930325224127866087589757435900531955129515829044, -1783572249657899538781679062811964272636912769296⟩,
+   ⟨-11434445982448921617452657420221680222613040450884, 14602049059774585818261445936679545525426070541633⟩,
+   ⟨-184096292699400365237906710317527205301953632842367, 229408753969641555665159059959710981769277065645391⟩,
+   ⟨-3996269475611717360309203355634873976781808711953094, 3939376365823393114874480078368978419258356558548442⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨906791440347840233037779814200164605550295306012, 916842985962171777418736964129359079544302680148⟩,
+   ⟨-1371472685554733318458856465283591089953316979265, -1342038560327703178106879193767035317695575247808⟩,
+   ⟨1397087575670829772652835544120246871677575450258, 1510604981333584934351927118866001715568518623422⟩,
+   ⟨-471742234699655375864569773198687239326926146460, 56779543627643549877304064898141125009534737536⟩,
+   ⟨-4562226445210246740843334405452682027436694971464, -1163185040463127084569113199783982435393437873353⟩,
+   ⟨-12985589622613933118773270070419351327664732539769, 16237391885541583523028890458320641862186460680524⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1006374222967431079984236509511244394482583498923, 1027253886044428347074609616741752458903665931326⟩,
+   ⟨90028951776169599744828367432691929702615563711, 119463077003199740096805638949247701960357295168⟩,
+   ⟨1397087575670829772652835544120246871677575450258, 1510604981333584934351927118866001715568518623422⟩,
+   ⟨-471742234699655375864569773198687239326926146460, 56779543627643549877304064898141125009534737536⟩,
+   ⟨-4562226445210246740843334405452682027436694971464, -1163185040463127084569113199783982435393437873353⟩,
+   ⟨-12985589622613933118773270070419351327664732539769, 16237391885541583523028890458320641862186460680524⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨199165565239181693892913390622159577864576385822, 220821800164513139311745305224786758718726502356⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨171236228772115134751350349328987774558137637054, 192689759618582262520664526903379854753297422997⟩,
+   ⟨2127725880486637468298008727073989877627407731685, 2208148893877148536393471564709304533755097501794⟩,
+   ⟨-9517540490597054684579287656153169233252940555392, -9281662560420878923274693015909478929522820618727⟩,
+   ⟨28615746719736965819906737155341956207581651548166, 29237566386879624592743264365775458797991372214391⟩,
+   ⟨-78880103585130279632655906838489158258953726635997, -77336336637264347586528176557729909112235323717757⟩,
+   ⟨194882359670109527066485757609551811618614688678362, 198570148793002620159650569890854797843849417686426⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨91442890522033402998951705858587900948727068555, 103609554572153407365481527146382238522439516860⟩,
+   ⟨1220208073511791838185759136358866745288779884960, 1284551937832433831299819226362420077382677293846⟩,
+   ⟨-3051792278362002014532019497631662466639301878482, -2733963332138371530151375816543002029225449541462⟩,
+   ⟨-84004152118417026147426884100324005847437555170, 1728364561531035512350500317753312087711868807620⟩,
+   ⟨4316830420416347276309375694440283276661652838970, 18337892916789748455596524098475477611255817330974⟩,
+   ⟨-81796194709861837792302793452211773347386225794691, 62757728732182131637847894047444863758359418282873⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨998234330869873636036731520058752506499022374567, 1020452540534325184784218491275741318066742197008⟩,
+   ⟨-151264612042941480273097328924724344664537094305, -57486622495269346807059967404615240312897953962⟩,
+   ⟨-1654704702691172241879183953511415594961726428224, -1223358350804786595799448697677000313656930918040⟩,
+   ⟨-555746386818072402011996657299011245174363701630, 1785144105158679062227804382651453212721403545156⟩,
+   ⟨-245396024793899464533958711012398750775042132494, 17174707876326621371027410898691495175862379457621⟩,
+   ⟨-94781784332475770911076063522631124675050958334460, 78995120617723715160876784505765505620545878963397⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨68918901583800697146899367793732915642057423904, 76385742384392401951316481644756360577969330881⟩,
+   ⟨993515718013772022382566774912992142267983457374, 1022312782293487438789621197241572266858557125740⟩,
+   ⟨-208304790712292261723669650137055557013088963463, -80668279239732569904881481166069626623482348189⟩,
+   ⟨-2383574941252737200132476670256933040793196549338, -1591745806157366405308012520931037302100151847521⟩,
+   ⟨-2240735547471507067840633311150858021321207299555, 4526507489022806966789397671993464084487149985404⟩,
+   ⟨-20729041803539990546595846715016041438321616389432, 51984336367278737480894067197031892600891232637490⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1996468661739747272073463040117505012998044749134, 2040905081068650369568436982551482636133484394016⟩,
+   ⟨-302529224085882960546194657849448689329074188610, -114973244990538693614119934809230480625795907924⟩,
+   ⟨-3309409405382344483758367907022831189923452856448, -2446716701609573191598897395354000627313861836080⟩,
+   ⟨-1111492773636144804023993314598022490348727403260, 3570288210317358124455608765302906425442807090312⟩,
+   ⟨-490792049587798929067917422024797501550084264988, 34349415752653242742054821797382990351724758915242⟩,
+   ⟨-189563568664951541822152127045262249350101916668920, 157990241235447430321753569011531011241091757926794⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1046588131772631625077957518891517946175086343375, 1069882576598815624943646426985320003593225114733⟩,
+   ⟨58958956393738046166640902074925152750857538973, 162121626031131526410536469854809267024229624269⟩,
+   ⟨1261333557679331902689125215027185750673345365489, 1822604376840769371897570178970581553943017860233⟩,
+   ⟨-1488056325135333559605642232303426067395467865851, 2230398404792343284035800536610773756996736554241⟩,
+   ⟨-11558168265767773403138106098512714872911179994036, 20103188140209427262583440073222718309471343480592⟩,
+   ⟨-170943929179364127217083871506767121492037516890571, 164134176334824982393842311142156088036162810205666⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨49353146524105285162530208699301044157245338424, 55917675895920860418487619806919060293339072794⟩,
+   ⟨714241516432606899703780849145640362686963187472, 756850615912494620891044091767431087136605767396⟩,
+   ⟨-12848869005482215648928514102642279791877832705, 264298401058447785876375792408543811893986773108⟩,
+   ⟨680355327239809939735575782531403219430549267103, 2791659732754075842915952013615411910223965540357⟩,
+   ⟨-9024210699549349689274266134044371929285628101432, 9930333937476756291542149973388230167995866163585⟩,
+   ⟨-98680123294993073160710483140938840864666906943587, 107837764941341082706587435343221102628693895273870⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨67911931374063335990304328210499577160036718820, 76944990046097914218387476417442405223088985118⟩,
+   ⟨967593738568826885485802777973071318131055567970, 1025886571141544849591973043785343480747032516446⟩,
+   ⟨-639898937107901451406019696470705651564838616084, -275475064455484271928591941409766285191802993292⟩,
+   ⟨-7438771582331860460566202134327459370336688334991, -4939929934012925770889485486727694825238140858662⟩,
+   ⟨-3573182859828480844142301633131084677290383626877, 16525765510884288367601498888268961524397884901710⟩,
+   ⟨-17093794986422407206545947224127687028343681566897, 186730587716418728864029981590083902688015573158140⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨986982561358855386646998256617912624710589715330, 1036661134077947588164105931406128489690754933326⟩,
+   ⟨-147489044833945432078458268681353866849918592167, 65805327576045712272582869339437965751325721272⟩,
+   ⟨-1447202677032232989162700432332378759560172035984, 286493989911788110798445509562158069103979666889⟩,
+   ⟨-10517026699832224743786646371647702227242764990233, 9763092667194900198733258020871982900115992601220⟩,
+   ⟨-162165792746346722450119185836753707956819620768900, 155082666234091867236306602171210782147285777786226⟩,
+   ⟨-3016621762671718882141803382650338749204611831297953, 3047885569231245428934107248567512682583945560554695⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2060448651642324500865794422193023286906947451967, 2164158840841251727850351304819168771985231552677⟩,
+   ⟨-144291487026967002932669805261319308612499627437, 323399554157432656671972557688174168553772196993⟩,
+   ⟨-671320197797423635564031210742976286445503812191, 3269938474120421468624290823799840855098893940756⟩,
+   ⟨-22696326544053025194160813510086584699713688963586, 25949223140040622673668977869977780546332567556008⟩,
+   ⟨-372318735162013436778475851806715379147375197879730, 413644418698138200332763292599772787024492351427610⟩,
+   ⟨-7876796214633498835013053177212852336726215643143316, 7918223628171958170955317206459760631892451690384200⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨95743339491335187615811547255193625799134845069, 113938415266381504764502693461654328168582136032⟩,
+   ⟨1356532662227724848649402447226921679846295017301, 1536136129284086637812730074725562555851562899164⟩,
+   ⟨-1185459544766832189442950904867073829830807493286, 237800402540377333179444098122068742436476040988⟩,
+   ⟨-14048548151395279147301627322182856294604407076761, 1477209812188232059947333825060810913748492671447⟩,
+   ⟨-103793100063882438867365558799806208162541924551268, 123808929755839764901139475065127831552279442557519⟩,
+   ⟨-2034942872642380739403810983660554622990914191036011, 2296978074486076538438514007207841956817586914450001⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨195326122110926034562268242566273414731423037980, 224349315348638074420375346074047707527945387210⟩,
+   ⟨2818034299558627766853087279943204699502227560277, 2997637766614989556016414907441845575507495442140⟩,
+   ⟨-1185459544766832189442950904867073829830807493286, 237800402540377333179444098122068742436476040988⟩,
+   ⟨-14048548151395279147301627322182856294604407076761, 1477209812188232059947333825060810913748492671447⟩,
+   ⟨-103793100063882438867365558799806208162541924551268, 123808929755839764901139475065127831552279442557519⟩,
+   ⟨-2034942872642380739403810983660554622990914191036011, 2296978074486076538438514007207841956817586914450001⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨563592055451010189855964993002929880882239689750, 647335289360628705065235875851639962092890659353⟩,
+   ⟨8131128218056471682876003719297409364121443121949, 8649354280553826610315079470884607514693652587817⟩,
+   ⟨-3420513212819193824849907891261129383059079910719, 686146922932803268840533907026443019526195132961⟩,
+   ⟨-40535541499415567076703610976147331175948378726530, 4262326540792958814566732676763168287502943290723⟩,
+   ⟨-299483581481310291180580116962003270290125106905628, 357237057953040095829953792249631728910568452680148⟩,
+   ⟨-5871603981707008272752749404418154137048509832225995, 6627677754183485253583589955140174501776075436885027⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨49353146524105285162530208699301044157245338424, 55917675895920860418487619806919060293339072794⟩,
+   ⟨120687060774335894171143238781357729533756506100, 136037507306139364049543965927455822987925870889⟩,
+   ⟨-2504917843020884379243489333870842676420582354, 19368923533424654216038332077514216582959005266⟩,
+   ⟨454317181069899369788151731196725509996282630, 46043013236992345784001133833497216934104966769⟩,
+   ⟨-56800436765240398476807990301292858020831246950, 79227391269604027609587295415145181431955942115⟩,
+   ⟨-242078131446122514707261396261200998729880218812, 305081788700517244596375962521937860461010769909⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0013StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0013GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0014GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0014GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0014PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨90039073446665143782344453410578939042533183698, 100855997974081054332202374750186544677787775785⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1273090587334595101171992503582187423926243214911, 1292075651917351569123771717317878749012907852774⟩,
+   ⟨-2584151303834703138247543434635757498025815705548, -2546181174669190202343985007164374847852486429822⟩,
+   ⟨5092362349338380404687970014328749695704972859644, 5168302607669406276495086869271514996051631411096⟩,
+   ⟨-10336605215338812552990173738543029992103262822192, -10184724698676760809375940028657499391409945719288⟩,
+   ⟨20369449397353521618751880057314998782819891438576, 20673210430677625105980347477086059984206525644384⟩,
+   ⟨-41346420861355250211960694954172119968413051288768, -40738898794707043237503760114629997565639782877152⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2734592224665498019375677336298470443582175757887, 2753577289248254487327456550034161768668840395750⟩,
+   ⟨-2584151303834703138247543434635757498025815705548, -2546181174669190202343985007164374847852486429822⟩,
+   ⟨5092362349338380404687970014328749695704972859644, 5168302607669406276495086869271514996051631411096⟩,
+   ⟨-10336605215338812552990173738543029992103262822192, -10184724698676760809375940028657499391409945719288⟩,
+   ⟨20369449397353521618751880057314998782819891438576, 20673210430677625105980347477086059984206525644384⟩,
+   ⟨-41346420861355250211960694954172119968413051288768, -40738898794707043237503760114629997565639782877152⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1292075651917351569123771717317878749012907852774, -1273090587334595101171992503582187423926243214911⟩,
+   ⟨2546181174669190202343985007164374847852486429822, 2584151303834703138247543434635757498025815705548⟩,
+   ⟨-5168302607669406276495086869271514996051631411096, -5092362349338380404687970014328749695704972859644⟩,
+   ⟨10184724698676760809375940028657499391409945719288, 10336605215338812552990173738543029992103262822192⟩,
+   ⟨-20673210430677625105980347477086059984206525644384, -20369449397353521618751880057314998782819891438576⟩,
+   ⟨40738898794707043237503760114629997565639782877152, 41346420861355250211960694954172119968413051288768⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨169425985413551349079913115398404270643024690202, 188411049996307817031692329134095595729689328065⟩,
+   ⟨2546181174669190202343985007164374847852486429822, 2584151303834703138247543434635757498025815705548⟩,
+   ⟨-5168302607669406276495086869271514996051631411096, -5092362349338380404687970014328749695704972859644⟩,
+   ⟨10184724698676760809375940028657499391409945719288, 10336605215338812552990173738543029992103262822192⟩,
+   ⟨-20673210430677625105980347477086059984206525644384, -20369449397353521618751880057314998782819891438576⟩,
+   ⟨40738898794707043237503760114629997565639782877152, 41346420861355250211960694954172119968413051288768⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨775713485240157981562918008569461529804402846991, 781098920948694359180327592232250349311639771407⟩,
+   ⟨717287682741868771871897197922431132234701505882, 738127526578612050510059754089632296552427486316⟩,
+   ⟨-149730170960772355958383374952293522855007401024, -39535042469781266830428382116477172832151193595⟩,
+   ⟨-1821253314822012284575223188631802370445550106762, -1051758561041369420096662021098597712168352201329⟩,
+   ⟨-2610183228229266458763569296970687818111610635243, 4113999795923577997584457689685546744572211399763⟩,
+   ⟨-24001156397576302946695374939496339674555006129155, 46535010289982585608750910943728714365099936237601⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨89925333149413044922151184422640039952873151007, 100696204566485800156970351748217678967346999837⟩,
+   ⟨1434575365483737543743794395844862264469403011767, 1476255053157224101020119508179264593104854972629⟩,
+   ⟨-282228640009033592708627931835324524528608986303, -97191809850071732388871877902309486718551285650⟩,
+   ⟨-3454044346548547737985659290893749017267124257702, -2301975225383588554897415031108814174695878414074⟩,
+   ⟨-3445576263515743192164511862528555898365392687222, 6448457643694308935740749045996966060921260665282⟩,
+   ⟨-30695073358687960960907860768065913247343213430075, 76131913405764922365502591586453034422826570571588⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5092362349338380404687970014328749695704972859644, 5168302607669406276495086869271514996051631411096⟩,
+   ⟨-10336605215338812552990173738543029992103262822192, -10184724698676760809375940028657499391409945719288⟩,
+   ⟨20369449397353521618751880057314998782819891438576, 20673210430677625105980347477086059984206525644384⟩,
+   ⟨-41346420861355250211960694954172119968413051288768, -40738898794707043237503760114629997565639782877152⟩,
+   ⟨81477797589414086475007520229259995131279565754304, 82692841722710500423921389908344239936826102577536⟩,
+   ⟨-165385683445421000847842779816688479873652205155072, -162955595178828172950015040458519990262559131508608⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5116651561785341100484127472610778469391180402333, 5187943478264513035932078997831554071411026988151⟩,
+   ⟨-9737464756065034194418489791189569210968746369604, -9528237348479372324433800545249232103236018577784⟩,
+   ⟨27928224695240728488359262152339429021534128591852, 28613253808921324224683785426215246851771722656219⟩,
+   ⟨-93779804805007671792754794227774927422880364980484, -91343449383609392334685168552042717303316622928836⟩,
+   ⟨324634898739730526101236914093540871647626708838202, 333772798358675436959058481956927589723108408633164⟩,
+   ⟨-1252398351711991247412312537919366118955607531955116, -1217061797369508017929940136144903491459227269598510⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨411721339075854214816880585814105780116282587121, 417457982066616470808953327499649160418447846357⟩,
+   ⟨756172201294070525974506003924909018427929995517, 794461443861407342688549765613008826616651547694⟩,
+   ⟨443087736495489362120035563274023863511641483661, 807451340946591330559123430816755109497651573507⟩,
+   ⟨-4103461546165850456727112374671129509368894600001, 491244305520151167040693819530133678342265621461⟩,
+   ⟨-41081565137923794963252564833067875196827944575433, 31330127594182712377144376951636353914932177318848⟩,
+   ⟨-667341638803365802623935728211283218248030349219609, 702312981757414055643547477585036830201398605504875⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1434575365483737543743794395844862264469403011768, 1476255053157224101020119508179264593104854972627⟩,
+   ⟨-317752300282378302870545864916713606100928849335, -59699788784193990319847630956991383397885193926⟩,
+   ⟨-3955635882601808063136045542580570525808294185064, -1778623946315021100354002199341227182336864971854⟩,
+   ⟨-11836324395515836383216916459883608049834649016045, 14710795181575015404641231329581459720144333186763⟩,
+   ⟨-189070493351408850457082167094660649920629516854300, 234718172103565524830315726705196385846260944771271⟩,
+   ⟨-4113176472646823120584526625934224628464900291921698, 4061180259038763747608296968285992376413795730912493⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨915656942067084075958202759333488409631267436180, 925768442296972979924489385850065359417595805318⟩,
+   ⟨-1381098551952178691849374394246404644589787227207, -1351423099780166129328142215532722998985851553217⟩,
+   ⟨1397727435760728510709567154146172436441707329484, 1512561559222497537348589647817397729218600117006⟩,
+   ⟨-456975348888058127256679813153473281438782355867, 79527769342422075090570503137045273892366242439⟩,
+   ⟨-4606171089176736050012260626458468354660224504488, -1139852662550027359331509793002331810567580111767⟩,
+   ⟨-13492324201942455245709529134949576354184126908993, 16451384346687272922634345225455665821537853126709⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1005696015513749219740547212744067348673800619878, 1026624440271054034256691760600251904095383581103⟩,
+   ⟨80403085378724226354310438469878375066145315769, 110078537550736788875542617183560020670080989759⟩,
+   ⟨1397727435760728510709567154146172436441707329484, 1512561559222497537348589647817397729218600117006⟩,
+   ⟨-456975348888058127256679813153473281438782355867, 79527769342422075090570503137045273892366242439⟩,
+   ⟨-4606171089176736050012260626458468354660224504488, -1139852662550027359331509793002331810567580111767⟩,
+   ⟨-13492324201942455245709529134949576354184126908993, 16451384346687272922634345225455665821537853126709⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨180078146893330287564688906821157878085066367396, 201711995948162108664404749500373089355575551570⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨156863179580994793013144966551188495118964439877, 178328338475383019499354286606953270148159065744⟩,
+   ⟨2189524497718424163345276433950468307556168298335, 2270424944672713552221253501533380507787886825794⟩,
+   ⟨-9709152497014833380937593872338276011627405062684, -9471411344775228731378522882229686310817309456315⟩,
+   ⟨29127547388227218272132985793116872013044564631919, 29754910209368479314865361483219582015358072947560⟩,
+   ⟨-80183030849414583735711070443525224014922671539503, -78624544173807958163017851643548742808909020702415⟩,
+   ⟨197987987142322959563539463401727483183457824281982, 201712482560184417683382835841222567998258394367773⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨83257439219054481048824531958452482105864040618, 95307503734364740091270073963164650669043269926⟩,
+   ⟨1239108913377846435983573221148796098504912533015, 1303491888832714583451320839105711574117606273626⟩,
+   ⟨-3058136679863141198044563584433774216923546370749, -2737989953118424463127704111427208276249745644764⟩,
+   ⟨-170907283934521830137961188952010624713627315817, 1666557931806594810500083744110141910699596327379⟩,
+   ⟨4229632921150086060558897476669762461263352569617, 18546890276488122595669433445085458630493584161134⟩,
+   ⟨-82922568603413177844472800293401925337955040880209, 65610012235948997421731307787982026063508476017373⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨998914381286138557007027291291940891737131476798, 1021075946031337720015759459813230010086639075244⟩,
+   ⟨-141989638574332255865801173097608546084874694192, -47931210947451545876821376427011424868245279591⟩,
+   ⟨-1660409244102412687334996430287601780481839041265, -1225428393895926925779114463609810547031145527758⟩,
+   ⟨-627882632822579957394641002105483906152409671684, 1746085701149016885590654247247187184591962569818⟩,
+   ⟨-376538168026649989453363149788705893396871934871, 17407037613938095236337923652083126819926004049367⟩,
+   ⟨-96414892805355633090182329428351501692139167789202, 82061396582636270344365653013437691885046329144082⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨62331491133429439237798181146540592850401713204, 69797290288347122311969350124953563733987569528⟩,
+   ⟨994371869885805761214268004518608788826494835154, 1023262027883302074769005262827544053520089556743⟩,
+   ⟨-195625986095529412467516944688725327769758873987, -67368228971095542142380410426047438755417109712⟩,
+   ⟨-2394161100339144528049106514892504629624939774116, -1595607637193479054955634561834542139410383304445⟩,
+   ⟨-2388291472460208546248022835762030923132377947686, 4469730234686938631419826793697073172443236904923⟩,
+   ⟨-21276203555655250989418542641812745960110792551432, 52770621127839859489084012217111497647311212189229⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1997828762572277114014054582583881783474262953596, 2042151892062675440031518919626460020173278150488⟩,
+   ⟨-283979277148664511731602346195217092169749388384, -95862421894903091753642752854022849736490559182⟩,
+   ⟨-3320818488204825374669992860575203560963678082530, -2450856787791853851558228927219621094062291055516⟩,
+   ⟨-1255765265645159914789282004210967812304819343368, 3492171402298033771181308494494374369183925139636⟩,
+   ⟨-753076336053299978906726299577411786793743869742, 34814075227876190472675847304166253639852008098734⟩,
+   ⟨-192829785610711266180364658856703003384278335578404, 164122793165272540688731306026875383770092658288164⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1045949150120981676303535182474694730564495189287, 1069154211780768023421394943786525570166273764073⟩,
+   ⟨49098805578187415945073024160733579157327102704, 151973805718481063550628710861545655658501202654⟩,
+   ⟨1259889161569725497544580815404819145676739852071, 1820367172774144370898155479692925008933003573069⟩,
+   ⟨-1514663607270639507699367228825551207832618697686, 2206134348553851039355535665079495332547374292396⟩,
+   ⟨-11617489832902916972559034276652969177320518079173, 20194507519739804904472426659609033182581280317833⟩,
+   ⟨-172313339450692670997736961934115177009578574660622, 165946344982544970083771470122612774326140030231577⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨44608619321048974322291850826944239484882305525, 51059858556816222183032914914914128361237215154⟩,
+   ⟨713733592444585229666736411945451000548914916575, 755820067857109574612116734918090818242367503393⟩,
+   ⟨-22564897498615354662617600046163874554465631394, 251529655534735144813878559140143492859931946574⟩,
+   ⟨686799167561477855222733857998802514297904170172, 2780203839045073206875816834708023465790832414525⟩,
+   ⟨-9001685467468577420358614469974848461909186997338, 9849826880271156190374503523808755740500853405655⟩,
+   ⟨-98478378467609912553851186610769669363695313531141, 107820952174081662798550021503020481470000156955915⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨61462612309450091689405567826658984083472913685, 70351253610132058057571238891614905140208177341⟩,
+   ⟨970727715720721290671556083378438878948861091865, 1028434218943703512966375031955691234395543499463⟩,
+   ⟨-598425349000969706271598014143297371582739649390, -235925306748236156723801758456196355195747285975⟩,
+   ⟨-7478372767415982271606615147131807905633937101981, -4979357736956430164004521941756617788433518823803⟩,
+   ⟨-4179136737237271851749629685889438908516462408694, 16025506000090399855833267292017134612831463953320⟩,
+   ⟨-17192531850987604347123394270515439492674955887695, 188884762564089271922838587233703266803544724969633⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨987167370989758806482494521869543501419390328269, 1036987902670209591615315517645088413631266162080⟩,
+   ⟨-144281734924454143133751664328657963177188437552, 70108821624916799824875591294254541685661963053⟩,
+   ⟨-1454505756016965010119006372643504142376352917334, 297345910245748987895871043168026980428117564776⟩,
+   ⟨-10656316257862779066841427681168607910300976957809, 9949022369913011081942692886231195166453972080257⟩,
+   ⟨-165662428891342557104167602714752858983480978869200, 158381081362553122432223700981759339808578465198020⟩,
+   ⟨-3098529474127809610757978044726448268081938789354126, 3127389405220163373916984165311451211492606678770323⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2059799377042696476026732654692510473742520467111, 2163753684220048539873523293999349648775252161362⟩,
+   ⟨-153670213932560886925973138418987117889625209540, 316248434341421177717351796216986516238612959194⟩,
+   ⟨-696666987926550676350751307022171565971050569805, 3280547989143795296347261552213175843340751478082⟩,
+   ⟨-23185290735275722121613770680839756340181621080402, 26193702601425916857963743647360134707695221601097⟩,
+   ⟨-379615253769939679667745474157046949773937395658142, 421083013292478509516544953996986771317326467412540⟩,
+   ⟨-8064016589201170379363507217743429480363751445612644, 8104759778889597902332637672442702182051716881810759⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨86623680270128933451555650343502504501655303889, 104155055526603573119592196509679935457289880254⟩,
+   ⟨1360719277440441658304318482031085682813373856736, 1537820243657173422978363797543668352396079574946⟩,
+   ⟨-1135774206516611164099904178131699084162845240678, 270484327028169530115447059578880668075357403488⟩,
+   ⟨-14046958360822348825733970474535775418486768918985, 1357265486644699342840896787324053974421832885261⟩,
+   ⟨-104253246287291353516462427108585129763318333334719, 122580223601019193014706899559705497441054305192024⟩,
+   ⟨-2032810068636456045519859205211486086009823866522846, 2299242876200825700965804034636836427784933894211175⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨176662753716794077233900103754081443544188487587, 205011053500684627451794571259866480135077656039⟩,
+   ⟨2822220914771344576508003314747368702469306399712, 2999321880988076341182048630259951372052012117922⟩,
+   ⟨-1135774206516611164099904178131699084162845240678, 270484327028169530115447059578880668075357403488⟩,
+   ⟨-14046958360822348825733970474535775418486768918985, 1357265486644699342840896787324053974421832885261⟩,
+   ⟨-104253246287291353516462427108585129763318333334719, 122580223601019193014706899559705497441054305192024⟩,
+   ⟨-2032810068636456045519859205211486086009823866522846, 2299242876200825700965804034636836427784933894211175⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨509740957394014206848786121666401186021596409596, 591536860425719346590736576681409419019644327349⟩,
+   ⟨8143208236067465350753149931318117759178948826952, 8654213607462510871314056275569485176963711996563⟩,
+   ⟨-3277151630622224625344158507538068158324570205449, 780452794483457580738207711647355880156657749135⟩,
+   ⟨-40530954333464329879031682208103949527797980271477, 3916240373504106671815039155684647029697953430100⟩,
+   ⟨-300811282830501943601941681545836428636195909618851, 353691761400501323908847538840094389398848521932818⟩,
+   ⟨-5865450010181936930360282845958890317779918472531470, 6634212590588416128526816360977463260475484689090012⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨44608619321048974322291850826944239484882305525, 51059858556816222183032914914914128361237215154⟩,
+   ⟨120533518270954854066594440635441579297453200052, 135650745342375162903835796954730158629352892942⟩,
+   ⟨-3105789356514996746508325050209991344491851834, 18408271800319360325534165720853870699673845494⟩,
+   ⟨580734997274156606849129588765912784095589068, 45254750982121437728558511878812638521519912398⟩,
+   ⟨-56440437465318609839224432988376702082044865206, 76855537929626596264845608964852773534480301189⟩,
+   ⟨-235525394198167085978353368224321069027791527750, 296309824366447640568481229680266728153040161267⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0014StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0014GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0015GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0015GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0015PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨83046043307877945193488452689099171381513960475, 93855440023069518713240579865342542906445225415⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1285345340625894062547175233719222220891616698031, 1304499716849142180193281360330416129368699833206⟩,
+   ⟨-2608999433698284360386562720660832258737399666412, -2570690681251788125094350467438444441783233396062⟩,
+   ⟨5141381362503576250188700934876888883566466792124, 5217998867396568720773125441321664517474799332824⟩,
+   ⟨-10435997734793137441546250882643329034949598665648, -10282762725007152500377401869753777767132933584248⟩,
+   ⟨20565525450014305000754803739507555534265867168496, 20871995469586274883092501765286658069899197331296⟩,
+   ⟨-41743990939172549766185003530573316139798394662592, -41131050900028610001509607479015111068531734336992⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2746846977956796980750860066435505240547549241007, 2766001354180045098396966193046699149024632376182⟩,
+   ⟨-2608999433698284360386562720660832258737399666412, -2570690681251788125094350467438444441783233396062⟩,
+   ⟨5141381362503576250188700934876888883566466792124, 5217998867396568720773125441321664517474799332824⟩,
+   ⟨-10435997734793137441546250882643329034949598665648, -10282762725007152500377401869753777767132933584248⟩,
+   ⟨20565525450014305000754803739507555534265867168496, 20871995469586274883092501765286658069899197331296⟩,
+   ⟨-41743990939172549766185003530573316139798394662592, -41131050900028610001509607479015111068531734336992⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1304499716849142180193281360330416129368699833206, -1285345340625894062547175233719222220891616698031⟩,
+   ⟨2570690681251788125094350467438444441783233396062, 2608999433698284360386562720660832258737399666412⟩,
+   ⟨-5217998867396568720773125441321664517474799332824, -5141381362503576250188700934876888883566466792124⟩,
+   ⟨10282762725007152500377401869753777767132933584248, 10435997734793137441546250882643329034949598665648⟩,
+   ⟨-20871995469586274883092501765286658069899197331296, -20565525450014305000754803739507555534265867168496⟩,
+   ⟨41131050900028610001509607479015111068531734336992, 41743990939172549766185003530573316139798394662592⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨157001920481760738010403472385866890287232709770, 176156296705008855656509598997060798764315844945⟩,
+   ⟨2570690681251788125094350467438444441783233396062, 2608999433698284360386562720660832258737399666412⟩,
+   ⟨-5217998867396568720773125441321664517474799332824, -5141381362503576250188700934876888883566466792124⟩,
+   ⟨10282762725007152500377401869753777767132933584248, 10435997734793137441546250882643329034949598665648⟩,
+   ⟨-20871995469586274883092501765286658069899197331296, -20565525450014305000754803739507555534265867168496⟩,
+   ⟨41131050900028610001509607479015111068531734336992, 41743990939172549766185003530573316139798394662592⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨772229208309300776502787765652923845764052863849, 777614134701356254736709142458469696345463436731⟩,
+   ⟨717701177763757102309422642610738086362883687688, 738590410515226457343370872768873809089897264646⟩,
+   ⟨-143133947327708417721790499251010661902975830710, -32352256098555626718554629495061171717196270438⟩,
+   ⟨-1827951213498112968360598358636855138945614077329, -1052000956449393389146766883074832962988572136434⟩,
+   ⟨-2702821897639381791027189192450586158137255919636, 4098406982518447228601448418762881867855624856213⟩,
+   ⟨-24455177909601228032616599277359602374449703391180, 47105926340926650559381048793002842589049846074854⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨82956779287698634801890698589564671872173184723, 93726632071809591269733452200656373034994330485⟩,
+   ⟨1435402355527514204618845285221476172725767375379, 1477180821030452914686741745537747618179794529290⟩,
+   ⟨-268783934962414561749625590358210053561229516553, -83092825133666113511259096011323165159265516598⟩,
+   ⟨-3464625839481264479270959811847998882727290494990, -2305448070378227255368597612311901810597729341290⟩,
+   ⟨-3602566694934859370646555933637943883999903825009, 6388041144901435894596767832253040234936694689923⟩,
+   ⟨-31291782670104662680484829805033704891099536641820, 76961042151126764570887691564629603166402582422697⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5141381362503576250188700934876888883566466792124, 5217998867396568720773125441321664517474799332824⟩,
+   ⟨-10435997734793137441546250882643329034949598665648, -10282762725007152500377401869753777767132933584248⟩,
+   ⟨20565525450014305000754803739507555534265867168496, 20871995469586274883092501765286658069899197331296⟩,
+   ⟨-41743990939172549766185003530573316139798394662592, -41131050900028610001509607479015111068531734336992⟩,
+   ⟨82262101800057220003019214958030222137063468673984, 83487981878345099532370007061146632279596789325184⟩,
+   ⟨-166975963756690199064740014122293264559193578650368, -164524203600114440006038429916060444274126937347968⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5162613662267190735872907393336113545768625092819, 5234864810208632866434992784699712442005505228366⟩,
+   ⟨-9875453824114351072152106366612053171923491408736, -9663066737241575020488189307602433220884303407248⟩,
+   ⟨28369504223959147581575355360655955116404280044744, 29065817561664266847062174583804883652744366969296⟩,
+   ⟨-95391274777070792505156196569932876541078270545886, -92912491445822285325546617703116264931351253010480⟩,
+   ⟨330518914883260531300676863333449948656873277704932, 339821108169110620254439782749158190024514687520950⟩,
+   ⟨-1275796450798097381485389123935486127818461960758610, -1239813557732984905199688238375769572490429642145754⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨408030983294061687288557306965659519083021906721, 413741406127778966783094723034694242468510669638⟩,
+   ⟨753186713579272120725203096158146714322309708602, 791437132164695947722668228128613842736598438702⟩,
+   ⟨451234908916854860887871223232108397636150770686, 816588497138770838876207362292456550628372007541⟩,
+   ⟨-4094665393612925433940759573944380233478930077709, 529900227368874977968760457148567527333428029253⟩,
+   ⟨-41537248788391431314137740248092878561664142605714, 31620409105366628153497847958452672792532952975548⟩,
+   ⟨-677401328765301279252558247506859241538236482753087, 711591787734858658894718237369442244039218000376269⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1435402355527514204618845285221476172725767375379, 1477180821030452914686741745537747618179794529288⟩,
+   ⟨-304744267184833206493968440302233826873573420942, -45136950057542632420091132865486387798013236630⟩,
+   ⟨-3973673218365669138609880819612920337029902573490, -1774280543389915518281932157402253198270431103189⟩,
+   ⟨-12134014756356425449028685017249997138717834319770, 14792366493125814264449710346895176412173946225432⟩,
+   ⟨-192793257165460625366806428926477639974037189641080, 238666111866589162139538456389278784532919098101924⟩,
+   ⟨-4200774095383136439587100711342722695335851313629975, 4152405801208848715450155367648709470602539630249265⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨922191857872443531889266984610450932228790104357, 932347865502707798009618186313188911522430125812⟩,
+   ⟨-1388157758602821481730440773897570476419273662730, -1358303253916710396239175446716642422590964792444⟩,
+   ⟨1398111944742544487898978344948283113129235177806, 1513923685082779391727784582643988275563225698594⟩,
+   ⟨-446158095179692559040090187170542768218800308188, 96280781792450949517048136012303905404658162437⟩,
+   ⟨-4638197599692403272838074412325853552771621256431, -1121706740202609442176656071097522651096751171211⟩,
+   ⟨-13869856203291809335641649399278697145176556081400, 16613053979898902107585112369664417895474448472789⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1005237901180321477082755437299550103610304064832, 1026203305525777316722858766178531454428875351227⟩,
+   ⟨73343878728081436473244058818712543236658880246, 103198383414192521964509385999640597064967750532⟩,
+   ⟨1398111944742544487898978344948283113129235177806, 1513923685082779391727784582643988275563225698594⟩,
+   ⟨-446158095179692559040090187170542768218800308188, 96280781792450949517048136012303905404658162437⟩,
+   ⟨-4638197599692403272838074412325853552771621256431, -1121706740202609442176656071097522651096751171211⟩,
+   ⟨-13869856203291809335641649399278697145176556081400, 16613053979898902107585112369664417895474448472789⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨166092086615755890386976905378198342763027920950, 187710880046139037426481159730685085812890450830⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨146072836453523813112611452630367923791362633154, 167546025002673465045817030005701509205462146759⟩,
+   ⟨2235598631246441195002716407427041423372309102545, 2316853760791236734161339815400096411154674400103⟩,
+   ⟨-9851706388979042189095805072121857339784148133029, -9612578624996458640194133749730971730311084997215⟩,
+   ⟨29507919975000069780765669369215721227755103578678, 30139410512751221819737861026887043714517894931706⟩,
+   ⟨-81150816495088718522568223819060745498934987194708, -79581365400014444562286142477938997989776074325853⟩,
+   ⟨200293781700057499126081892434893107048083882988699, 204045623929349986811321451168694807137668369052008⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨77182062591462492495064649118782151911225453523, 89145406291192030811301651713758907963431552171⟩,
+   ⟨1252979237991895561518812210486165567625586486303, 1317388958475899212451223291428911658417012777702⟩,
+   ⟨-3062483138769722496768769833627230147810188958959, -2740624932824441782960727738481295517030650539783⟩,
+   ⟨-234948179752185293625118744098579598351798495631, 1621144870609649229742176317989799231695369339321⟩,
+   ⟨4160211365146776392093587032615659153414081310304, 18698309178647973494467546919873665443050900580126⟩,
+   ⟨-83774287267038713433910822770091909162605341159917, 67737132753382155123121471161289354415725987290915⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨999373920463906024384331633729233084140015557880, 1021493271793899828820919838026947819485861677983⟩,
+   ⟨-135178520610925920211628563411404908793687176427, -40914295440811183787952155287730764173952014742⟩,
+   ⟨-1664371194027178008869791488678947034680953781153, -1226701247741662391232943155837307241467424841189⟩,
+   ⟨-681106274931877852665208931269122366570598803819, 1717425652402100179259224454002103137100027501758⟩,
+   ⟨-477986234545626880744487379710194399357539946127, 17576602438445364052290890848776142791954149408915⟩,
+   ⟨-97644143470330522769552472169370606307781897241317, 84350186733281057230706583530953772311200435763704⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨57501257671601976849287841370153793719203837640, 64966350763954163681652855053695446122430498027⟩,
+   ⟨994945095703000699445573353557558984452548641572, 1023903721274483603834993567767852505304745906222⟩,
+   ⟨-186306826699005363096599260575866954258250396150, -57595557466161227321711774590961755928998257748⟩,
+   ⟨-2401495632331572124344108477097456598631283968165, -1598014829910034588571180492223886632380562797453⟩,
+   ⟨-2497108947373258379151750132103882215549671182829, 4427852708889355343742371115433931687055094645315⟩,
+   ⟨-21689810932477604171257838086759881963672374558598, 53345329380008625245220033276895526784759584098360⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1998747840927812048768663267458466168280031115760, 2042986543587799657641839676053895638971723355966⟩,
+   ⟨-270357041221851840423257126822809817587374352854, -81828590881622367575904310575461528347904029484⟩,
+   ⟨-3328742388054356017739582977357894069361907562306, -2453402495483324782465886311674614482934849682378⟩,
+   ⟨-1362212549863755705330417862538244733141197607638, 3434851304804200358518448908004206274200055003516⟩,
+   ⟨-955972469091253761488974759420388798715079892254, 35153204876890728104581781697552285583908298817830⟩,
+   ⟨-195288286940661045539104944338741212615563794482634, 168700373466562114461413167061907544622400871527408⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1045521833036544238695493130115818099003697787352, 1068662585736373858585653012327358231480194837373⟩,
+   ⟨41876721411539980373814534835633722621599940247, 144550727624583047537249890116940575950256785149⟩,
+   ⟨1258911522708873307081312849040318009641964944254, 1818870288327599385121713225457840718684610037854⟩,
+   ⟨-1534359178348033395506338009668732650228289188231, 2188617827444016804171584980624670147049420849811⟩,
+   ⟨-11663216139519758036527903005050147370056713329804, 20264379110725595515809194364387908944951962896042⟩,
+   ⟨-173353375127367617870910633200182098324734704662708, 167310567135690005923148158335296374814290865936287⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨41134966110960483475124949425626517378627771318, 47503955260738655162953104523343013644515619887⟩,
+   ⟨713406511321191069969641929256083082898115948841, 755112757596219868421867612007800556409299783296⟩,
+   ⟨-29681842985564128031482127197733087471840304694, 242189265576711345197872086060936298350419900997⟩,
+   ⟨691604374410902635809578912458903097560331005676, 2771967849133928647525866228778263545280949787381⟩,
+   ⟨-8985407148067672607805835945997527464294933161649, 9790884881514969759099214812509339988551586963467⟩,
+   ⟨-98332908774632631870238599662831150020797492664601, 107808876996116009127422202587185602486977687434905⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨56725794640376178471413678675762351101752558996, 65508735401833020130079028055163295435825065067⟩,
+   ⟨972858199884057973254133673945532209356457876783, 1030129637403976830678677076920600453988307909853⟩,
+   ⟨-567856444761172107460326972044846815011301607104, -206815327097471818820846130106807169904300242720⟩,
+   ⟨-7504926487160860593947184023107866799315122117952, -5006128015827926053104909526681683857825084665586⟩,
+   ⟨-4625641494650966762767093743530193967856765724671, 15653789616394878721066293095792720724213102198286⟩,
+   ⟨-17310549489470214038247152856836212262098023321580, 190400082725192374701489768696796662442754448958473⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨987286510232675170391475931134482393987023165793, 1037212550900150510884395688707105641731654038376⟩,
+   ⟨-141944143431927156839061398225737838995844049597, 73259787785667297279177109043812837567604493497⟩,
+   ⟨-1460033700916619057240284595037825508072175828685, 305264074420126969454661369712365680566229249717⟩,
+   ⟨-10759708016027212427598471283177659213376503108274, 10087215615392534341337934843128030692793908302207⟩,
+   ⟨-168263765807383451361604754078320653069046682237864, 160845557206057402772831536491282557520705573985797⟩,
+   ⟨-3159824558050516187226694467641298764846732357456390, 3186889453108726018198744356012822698737202967251466⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2059353248345464199990071770728232166292249719169, 2163492576655908200833124888019991733704433656776⟩,
+   ⟨-160538005329704307136741521188506744149141038545, 311049626863008963832368888306149114946725412794⟩,
+   ⟨-715102871273795486030273899281458969384726174470, 3288888671774818238586294813062040394030145017306⟩,
+   ⟨-23549008737253649492247883051225269825896440618486, 26376834302364206477113536066882691872708960546846⟩,
+   ⟨-385069262996841970700184030812518439572720417141644, 426636133417279335792933665302043013859224282570012⟩,
+   ⟨-8204330691233858530217773677640101836229630054718228, 8244543796596114470626256039048262742424522349910660⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨79930426674703201103049568611131732738503890531, 96974002031783459683628704232226880268672222759⟩,
+   ⟨1363626287848246942311025732468066447867541607715, 1538865392807315042664071023479279998318181577046⟩,
+   ⟨-1098971469508122694861003471853837148136291493069, 294483420186683190409047604062408006164501217019⟩,
+   ⟨-14039915243186815326823527553389849474127831780589, 1269899210671861036820561331570512229879647365476⟩,
+   ⟨-104557109636264612757103689609453762330272409524662, 121626442317551373483325594545927177103887310537852⟩,
+   ⟨-2030404325681180826430717025982113830387049605434145, 2299832843551529103931684051263812652435922130745465⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨162976469982581146296538021300230904120017851006, 190829442054852978396869284097569423175117448174⟩,
+   ⟨2825127925179149860514710565184349467523474150691, 3000367030138217960867755856195563017974114120022⟩,
+   ⟨-1098971469508122694861003471853837148136291493069, 294483420186683190409047604062408006164501217019⟩,
+   ⟨-14039915243186815326823527553389849474127831780589, 1269899210671861036820561331570512229879647365476⟩,
+   ⟨-104557109636264612757103689609453762330272409524662, 121626442317551373483325594545927177103887310537852⟩,
+   ⟨-2030404325681180826430717025982113830387049605434145, 2299832843551529103931684051263812652435922130745465⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨470250690050917648469475185872576632418946473559, 550617379416288381792131756626109236750100295186⟩,
+   ⟨8151596095065771923552392384106864894646914098225, 8657229270454308130049747070553955110659620645780⟩,
+   ⟨-3170961378275650547425375037713722381975580714182, 849699539854697394949333731102829348000675021240⟩,
+   ⟨-40510632191693966318064358124378699930572917888425, 3664154587330205829425635235401512516878211122131⟩,
+   ⟨-301688047123845210796306446015322885505975358482269, 350939730344997856114514322556532963525906012926407⟩,
+   ⟨-5858508503319478694621138179001067065072614201304352, 6635914876530708527239433948938267635623839240780363⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨41134966110960483475124949425626517378627771318, 47503955260738655162953104523343013644515619887⟩,
+   ⟨120436314183895106814600539071227371209798541512, 135384349117143548647767218727584401710473214636⟩,
+   ⟨-3543464770814902835286496783115362547574676827, 17710280852684212927703877408824186697330859570⟩,
+   ⟨677550801078058593376357568117838881519441126, 44693663646822388954933152312166593045127874033⟩,
+   ⟨-56356745752496485833538850900038433020934165932, 75152362447946192749253450983612415028455917878⟩,
+   ⟨-230785269156589593644892964519149043114142812274, 290030242375453871971425004570079472934404751957⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0015StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0015GraphWholeB
+
+end
+
+-- ===== source module GeneralCK.Certificates.E8TAxisProd0016GraphWholeB =====
+section
+
+/-! Staged exact stable/inverse interval graph for first-cell wholeB.
+Generated by scripts/e8_taxis_emit_staged_graph.py. -/
+
+namespace GeneralCK.Certificates.E8TAxisProd0016GraphWholeB
+open DyadicInterval E8TAxisStableInterval E8TAxisProd0016PaddedInputs
+set_option maxRecDepth 100000
+set_option maxHeartbeats 8000000
+
+def one : DyadicJet5Enclosure precision :=
+  ⟨⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem one_checked : DyadicJet5Enclosure.const precision 1 = one := by decide
+
+def two : DyadicJet5Enclosure precision :=
+  ⟨⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem two_checked : DyadicJet5Enclosure.const precision 2 = two := by decide
+
+def four : DyadicJet5Enclosure precision :=
+  ⟨⟨5846006549323611672814739330865132078623730171904, 5846006549323611672814739330865132078623730171904⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem four_checked : DyadicJet5Enclosure.const precision 4 = four := by decide
+
+def alphaJet : DyadicJet5Enclosure precision :=
+  ⟨⟨73517107907555267916357274697553514970858628527, 84317165343519145459876495372617231162663792433⟩,
+   ⟨1461501637330902918203684832716283019655932542976, 1461501637330902918203684832716283019655932542976⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem alphaJet_checked : DyadicJet5Enclosure.variableJet wholeBInput.alpha = alphaJet := by decide
+
+def logtwo : DyadicJet5Enclosure precision :=
+  ⟨⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwo_checked : constant wholeBInput.logTwo = logtwo := by decide
+
+def zData : DyadicJet5Enclosure precision :=
+  ⟨⟨1302232545947558403334995047843704355078721026318, 1321621686459769014250747742880888141658961980124⟩,
+   ⟨-2643243372919538028501495485761776283317923960248, -2604465091895116806669990095687408710157442052636⟩,
+   ⟨5208930183790233613339980191374817420314884105272, 5286486745839076057002990971523552566635847920496⟩,
+   ⟨-10572973491678152114005981943047105133271695840992, -10417860367580467226679960382749634840629768210544⟩,
+   ⟨20835720735160934453359920765499269681259536421088, 21145946983356304228011963886094210266543391681984⟩,
+   ⟨-42291893966712608456023927772188420533086783363968, -41671441470321868906719841530998539362519072842176⟩⟩
+
+theorem zData_checked : zBox wholeBInput = zData := by decide
+
+def onePlusZ : DyadicJet5Enclosure precision :=
+  ⟨⟨2763734183278461321538679880559987374734653569294, 2783123323790671932454432575597171161314894523100⟩,
+   ⟨-2643243372919538028501495485761776283317923960248, -2604465091895116806669990095687408710157442052636⟩,
+   ⟨5208930183790233613339980191374817420314884105272, 5286486745839076057002990971523552566635847920496⟩,
+   ⟨-10572973491678152114005981943047105133271695840992, -10417860367580467226679960382749634840629768210544⟩,
+   ⟨20835720735160934453359920765499269681259536421088, 21145946983356304228011963886094210266543391681984⟩,
+   ⟨-42291893966712608456023927772188420533086783363968, -41671441470321868906719841530998539362519072842176⟩⟩
+
+theorem onePlusZ_checked : one.add zData = onePlusZ := by decide
+
+def negativeZ : DyadicJet5Enclosure precision :=
+  ⟨⟨-1321621686459769014250747742880888141658961980124, -1302232545947558403334995047843704355078721026318⟩,
+   ⟨2604465091895116806669990095687408710157442052636, 2643243372919538028501495485761776283317923960248⟩,
+   ⟨-5286486745839076057002990971523552566635847920496, -5208930183790233613339980191374817420314884105272⟩,
+   ⟨10417860367580467226679960382749634840629768210544, 10572973491678152114005981943047105133271695840992⟩,
+   ⟨-21145946983356304228011963886094210266543391681984, -20835720735160934453359920765499269681259536421088⟩,
+   ⟨41671441470321868906719841530998539362519072842176, 42291893966712608456023927772188420533086783363968⟩⟩
+
+theorem negativeZ_checked : negative zData = negativeZ := by decide
+
+def rNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨139879950871133903952937089835394877996970562852, 159269091383344514868689784872578664577211516658⟩,
+   ⟨2604465091895116806669990095687408710157442052636, 2643243372919538028501495485761776283317923960248⟩,
+   ⟨-5286486745839076057002990971523552566635847920496, -5208930183790233613339980191374817420314884105272⟩,
+   ⟨10417860367580467226679960382749634840629768210544, 10572973491678152114005981943047105133271695840992⟩,
+   ⟨-21145946983356304228011963886094210266543391681984, -20835720735160934453359920765499269681259536421088⟩,
+   ⟨41671441470321868906719841530998539362519072842176, 42291893966712608456023927772188420533086783363968⟩⟩
+
+theorem rNumerator_checked : one.add negativeZ = rNumerator := by decide
+
+def onePlusZInv : DyadicJet5Enclosure precision :=
+  ⟨⟨767478400134871225267421190673435041107189065463, 772862690212526027258136770029382850325618755387⟩,
+   ⟨718211329281765741241799058662134778505490245030, 739168114083131994717274499272700067191075087309⟩,
+   ⟨-134122466793870818399467461109498327460054519737, -22537610685310451032997155608846782983927496084⟩,
+   ⟨-1836692761473780868067262832538224237204023896237, -1051878854439668784510170511363944915127037317004⟩,
+   ⟨-2830051375547175067734079269294374242328515644587, 4077302272064676595948372596252251125979657472244⟩,
+   ⟨-25090757154531609313736450826441287432038066822697, 47886866788642501783204171739098768974784628210552⟩⟩
+
+theorem onePlusZInv_checked : onePlusZ.inv = onePlusZInv := by decide
+
+def rData : DyadicJet5Enclosure precision :=
+  ⟨⟨73455162938839532331157548630587062558445587951, 84223743094149136312588707342482680995304967797⟩,
+   ⟨1436422658563531482483598117324269557010980490064, 1478336228166263989434548998545400134382150174616⟩,
+   ⟨-250411803037648766596815918581142666729441996853, -63832652194639586398415908868314830290098886541⟩,
+   ⟨-3478208801390344781930397408371166008271134247928, -2309346233427902181049434587718460345999197526958⟩,
+   ⟨-3817768318417130571288344377323238702392402025036, 6305251195533420263802289060837789837817933246413⟩,
+   ⟨-32129946937138625591045163111245370116066024719506, 78087880300607276914011886982535894685496117685711⟩⟩
+
+theorem rData_checked : rNumerator.mul onePlusZInv = rData := by decide
+
+def qNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨5208930183790233613339980191374817420314884105272, 5286486745839076057002990971523552566635847920496⟩,
+   ⟨-10572973491678152114005981943047105133271695840992, -10417860367580467226679960382749634840629768210544⟩,
+   ⟨20835720735160934453359920765499269681259536421088, 21145946983356304228011963886094210266543391681984⟩,
+   ⟨-42291893966712608456023927772188420533086783363968, -41671441470321868906719841530998539362519072842176⟩,
+   ⟨83342882940643737813439683061997078725038145684352, 84583787933425216912047855544376841066173566727936⟩,
+   ⟨-169167575866850433824095711088753682132347133455872, -166685765881287475626879366123994157450076291368704⟩⟩
+
+theorem qNumerator_checked : four.mul zData = qNumerator := by decide
+
+def qDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨5226286745577193013815567890991047285465766824767, 5299874620444159888215963002695195456747816737809⟩,
+   ⟨-10067005186613951823046121708392097181731688858836, -9850210249194926769107552041724239642924453021894⟩,
+   ⟨28982980629199239849750247784147323731068043877032, 29695047254777655178178504890521283593655059594352⟩,
+   ⟨-97634242035754316484702055675990924108076846695422, -95096201781636024945641070371090025243012639087044⟩,
+   ⟨338713365656222230875844439953361561609531483506004, 348245074176304657482784294931775275899220603417717⟩,
+   ⟨-1308396508771793413019089324182724262530708846942920, -1271510579684245185689938076751449167713087788339672⟩⟩
+
+theorem qDenominator_checked : onePlusZ.mul onePlusZ = qDenominator := by decide
+
+def qDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨403025956063447802620234271434205862503555352429, 408700697053890963901553586072692109581899899426⟩,
+   ⟨749053645117185471048989090763439057282547576440, 787249578392557723377365173231540680702627936609⟩,
+   ⟨462162040557865006732328425506806546842452819996, 828845635148388567364598502314237473208899668465⟩,
+   ⟨-4082003263374327166359212447428518256090714659700, 583168839168170096218325867394835100596655827614⟩,
+   ⟨-42157376233138186757958076208186831558158380213647, 32021320905330016472899123421123112712117557695414⟩,
+   ⟨-691252606164101206384732255025948197314091782599854, 724353012058115233080624943004737198458937466915772⟩⟩
+
+theorem qDenominatorInv_checked : qDenominator.inv = qDenominatorInv := by decide
+
+def qData : DyadicJet5Enclosure precision :=
+  ⟨⟨1436422658563531482483598117324269557010980490065, 1478336228166263989434548998545400134382150174617⟩,
+   ⟨-286974358385344872573994393950741552645307567824, -25236833129603627095526277793149340995886630179⟩,
+   ⟨-3997554040107200883414931280669464191875009547558, -1767379360253374232276590457464460709300422074195⟩,
+   ⟨-12543984430362413740938173185254417731261134733336, 14906200559863004466500190334710089596725458467269⟩,
+   ⟨-197973509196291584888390868026082424383523609076473, 244125053532617356050375987936907605219654136078755⟩,
+   ⟨-4322821598421339304551429657728227006876314627898199, 4279446290631598317875111723822481615828611081918799⟩⟩
+
+theorem qData_checked : qNumerator.mul qDenominatorInv = qData := by decide
+
+def l1Data : DyadicJet5Enclosure precision :=
+  ⟨⟨931149445018404426052713782177447150401369534218, 941366897326883274359109794961412015104683542713⟩,
+   ⟨-1397784396473101173526379031288353153456748277432, -1367682834475138101813432325384136719029210350028⟩,
+   ⟨1398520626072431129739795568000201385622578544179, 1515682210585549265955985659476423885108198295108⟩,
+   ⟨-431428167483424440171956114193160744684466186769, 119220112668692053751758657542559365121209805898⟩,
+   ⟨-4681607608107662126086409418122975000835928241884, -1095535623719237179068457269681363303826194184561⟩,
+   ⟨-14392848798151772963121385751950595343277349141763, 16840219231064668867911238953952471887438127704090⟩⟩
+
+theorem l1Data_checked : onePlusZ.log wholeBInput.logOnePlusExp = l1Data := by decide
+
+def ellData : DyadicJet5Enclosure precision :=
+  ⟨⟨1004666552925959693969071056875000665372228162745, 1025684062670402419818986290334029246267347335146⟩,
+   ⟨63717240857801744677305801427929866199184265544, 93818802855764816390252507332146300626722192948⟩,
+   ⟨1398520626072431129739795568000201385622578544179, 1515682210585549265955985659476423885108198295108⟩,
+   ⟨-431428167483424440171956114193160744684466186769, 119220112668692053751758657542559365121209805898⟩,
+   ⟨-4681607608107662126086409418122975000835928241884, -1095535623719237179068457269681363303826194184561⟩,
+   ⟨-14392848798151772963121385751950595343277349141763, 16840219231064668867911238953952471887438127704090⟩⟩
+
+theorem ellData_checked : alphaJet.add l1Data = ellData := by decide
+
+def twiceAlpha : DyadicJet5Enclosure precision :=
+  ⟨⟨147034215815110535832714549395107029941717257054, 168634330687038290919752990745234462325327584866⟩,
+   ⟨2923003274661805836407369665432566039311865085952, 2923003274661805836407369665432566039311865085952⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem twiceAlpha_checked : two.mul alphaJet = twiceAlpha := by decide
+
+def twiceAlphaZ : DyadicJet5Enclosure precision :=
+  ⟨⟨131010965921321262513974226784997540818391818312, 152494381685839390182787628041503935640526749471⟩,
+   ⟨2299476328523438026304414839604400838876388553694, 2381221441076895503473547032191781201681140323623⟩,
+   ⟨-10048929627992867063950085035907114969998128567742, -9807882840837109665948809870583619098067661212661⟩,
+   ⟨30033626049254686558577580123916873036765090635867, 30670832747663886241906152014861335073267952976475⟩,
+   ⟨-82487612478684076711824267915816880413079297634934, -80902972833670307570515081013333015754789717692823⟩,
+   ⟨203477387137662484047750003557664570872098508227823, 207267118924080761879672463603822181359245378633835⟩⟩
+
+theorem twiceAlphaZ_checked : twiceAlpha.mul zData = twiceAlphaZ := by decide
+
+def hCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨68797792597104280630462411393555135988810757466, 80641181002884630366144555150034757321610031751⟩,
+   ⟨1271905502030675304564936774208759643001733689105, 1336348960257258283557361211495377484624768492692⟩,
+   ⟨-3067992325864280578103839732530970003812041549250, -2743784118664782906193983011497666615874299167703⟩,
+   ⟨-322679777047627765155172447816756569734561490366, 1559124369739115711116777529024077102819999404199⟩,
+   ⟨4058008222389492292596314762330111875363358087238, 18902290973596946785754699768864834692830634785559⟩,
+   ⟨-84972256211039958300540678106445795115134186279984, 70686367806874846309226243022636270519029959218142⟩⟩
+
+theorem hCorrection_checked : twiceAlphaZ.mul onePlusZInv = hCorrection := by decide
+
+def hData : DyadicJet5Enclosure precision :=
+  ⟨⟨999947237615508706683176193571002286390180291684, 1022008078329767904725254350111446772426293574464⟩,
+   ⟨-125878894442425868961442257079593510455014588327, -31333874217879818256071113888759234404441857336⟩,
+   ⟨-1669471699791849448364044164530768618189463005071, -1228101908079233640237997352021242730766100872595⟩,
+   ⟨-754107944531052205327128562009917314419027677135, 1678344482407807764868536186566636467941209210097⟩,
+   ⟨-623599385718169833490094655792863125472570154646, 17806755349877709606686242499183471389004440600998⟩,
+   ⟨-99365105009191731263662063858396390458411535421747, 87526587037939515177137481976588742406468086922232⟩⟩
+
+theorem hData_checked : l1Data.add hCorrection = hData := by decide
+
+def xNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨50915239088628008247942384466617833813166325358, 58379450061914638221637266227243061312264528643⟩,
+   ⟨995652315875732827928005236510189280851753183406, 1024704588473069892115369986559358764937526452195⟩,
+   ⟨-173572235254478590930704376008716867017229686491, -44245422896378034612478367942174014098793491176⟩,
+   ⟨-2410910624082504268335026595504931181842027804063, -1600716830637279721338571269215586074838970569111⟩,
+   ⟨-2646275345941917581519691015372852115193307589131, 4370467088906214683245746502145309748011892923467⟩,
+   ⟨-22270782131018288676784125268533837345943767923357, 54126394066268428577085768465682945934174761942990⟩⟩
+
+theorem xNumerator_checked : logtwo.mul rData = xNumerator := by decide
+
+def xDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨1999894475231017413366352387142004572780360583368, 2044016156659535809450508700222893544852587148928⟩,
+   ⟨-251757788884851737922884514159187020910029176654, -62667748435759636512142227777518468808883714672⟩,
+   ⟨-3338943399583698896728088329061537236378926010142, -2456203816158467280475994704042485461532201745190⟩,
+   ⟨-1508215889062104410654257124019834628838055354270, 3356688964815615529737072373133272935882418420194⟩,
+   ⟨-1247198771436339666980189311585726250945140309292, 35613510699755419213372484998366942778008881201996⟩,
+   ⟨-198730210018383462527324127716792780916823070843494, 175053174075879030354274963953177484812936173844464⟩⟩
+
+theorem xDenominator_checked : two.mul hData = xDenominator := by decide
+
+def xDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨1044995182137737632966110051498754185842769500306, 1068049870818395037514311484874685347473025059366⟩,
+   ⟨32038638724760615088352405643491603312601734288, 134452030957748362359487723933556365118629143408⟩,
+   ⟨1257689047399137956085742447384837509991730685078, 1817024249854752387453645448672229880140329478861⟩,
+   ⟨-1561473006434169838586442388723361519221412105028, 2165105722110968874950884095487918324249295320326⟩,
+   ⟨-11728649521141203686721344981722926512832023628056, 20363662893993615107192897171169057886345982637840⟩,
+   ⟨-174821376712259031727931784894801437971974638158159, 169219965420269520848832582036767952035178650996665⟩⟩
+
+theorem xDenominatorInv_checked : xDenominator.inv = xDenominatorInv := by decide
+
+def xJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨36405145355961524172695979291487779630455526371, 42663081931915438023124499031504215155793634666⟩,
+   ⟨713022210517870218175955224115206905722959376703, 754213892627427991287925259501463746191655706062⟩,
+   ⟨-39377017265066782455127077698232754598718470980, 229481678456198303045930185600016576423164430429⟩,
+   ⟨698268737690603429920399636479795386098253288240, 2760956793719411909510739202155205090288065499365⟩,
+   ⟨-8963505148728974074230188565031048535305570985824, 9710594846098440489142978501467077573673445789088⟩,
+   ⟨-98137505702098205780736443440945192420864072115940, 107792342436101666603168508776499061770812256838880⟩⟩
+
+theorem xJetBox_checked : xNumerator.mul xDenominatorInv = xJetBox := by decide
+
+def logtwoInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2108501164428393954197770173035669512474567507196, 2108501164428393954197770173035669517051546299815⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem logtwoInv_checked : logtwo.inv = logtwoInv := by decide
+
+def yConstant : DyadicJet5Enclosure precision :=
+  ⟨⟨4217002328856787908395540346071339024949135014392, 4217002328856787908395540346071339034103092599630⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩,
+   ⟨0, 0⟩⟩
+
+theorem yConstant_checked : two.mul logtwoInv = yConstant := by decide
+
+def yNumerator : DyadicJet5Enclosure precision :=
+  ⟨⟨50257410182195614598515939509120308378446940464, 58896510021426949724560395701783875915311611774⟩,
+   ⟨975534232323016432951050461348271998498763146220, 1032205434673585322191383855325190432836529479966⟩,
+   ⟨-525975942521153863003502491917287047112478286635, -166990633178598342834671000589622574814740577466⟩,
+   ⟨-7537721559628365044851803796141424301879381478075, -5039695669695494905110758711187395621491482237078⟩,
+   ⟨-5236950167964271467728957713107062113637204159929, 15140635707973964781408261973330772852140833499082⟩,
+   ⟨-17533714187005573409603945098084815454878154753692, 192376854709140294738493482767435587320701252377615⟩⟩
+
+theorem yNumerator_checked : rData.mul hData = yNumerator := by decide
+
+def yDenominator : DyadicJet5Enclosure precision :=
+  ⟨⟨987426742510739686687610404588518509756137332328, 1037498604016343861963825007217706395806999592338⟩,
+   ⟨-138775169388123670373000010201934972178747732835, 77551150202452518915663119256553295605812046482⟩,
+   ⟨-1467810832062081532192371488547795772830116876838, 316007138254692671486840497259592015317286285662⟩,
+   ⟨-10902474132310343082840484959627056754511946267139, 10278181750229960766563750746188964008878272949482⟩,
+   ⟨-171862750658720669389951019264394055639526786440737, 164269667784031251440275477654537627486770553627003⟩,
+   ⟨-3245120871418181276868334619019894678296812755498201, 3269697107289129225880770616426422788386369460538495⟩⟩
+
+theorem yDenominator_checked : qData.mul ellData = yDenominator := by decide
+
+def yDenominatorInv : DyadicJet5Enclosure precision :=
+  ⟨⟨2058785455375187740589228810665231919574384789355, 2163185321971040448896709009493583380468772483846⟩,
+   ⟨-169893626126995610014134230655037794420233312537, 304018917607114444077019521081649941964478533065⟩,
+   ⟨-740040759621364409008124206073893204830425642524, 3301032127846775641782044441665603061584052198277⟩,
+   ⟨-24052137242658876439395028440120178904178064190869, 26631953079026447883720971096249839825609217964650⟩,
+   ⟨-392650473199816807035297359807035979275563187508466, 434345510586342321124697313875193017901281348656554⟩,
+   ⟨-8399893279293473160631400862890226899813087538774740, 8439338171042716600988872949768689554170451367524132⟩⟩
+
+theorem yDenominatorInv_checked : yDenominator.inv = yDenominatorInv := by decide
+
+def yCorrection : DyadicJet5Enclosure precision :=
+  ⟨⟨70796516722958977768186554382582111973300817140, 87173399426596149880079740958513855743573819385⟩,
+   ⟨1367367299514694001202765410862952190920444112516, 1540030637860029698922028365910492256647957829038⟩,
+   ⟨-1048305021261796086260524522650832178788436983515, 327226005641345278253961755810483995745381953389⟩,
+   ⟨-14022165456174010902100181817382731978430225778696, 1151546253327737723905178570693422464891231844500⟩,
+   ⟨-104923073751811701773980957760111987498960696314345, 120252980348094766317662272511124183421530319155568⟩,
+   ⟨-2025926295382643660133963942724250437106216285684156, 2299121065856303454673561147575913164195942840267316⟩⟩
+
+theorem yCorrection_checked : yNumerator.mul yDenominatorInv = yCorrection := by decide
+
+def ySum : DyadicJet5Enclosure precision :=
+  ⟨⟨144313624630514245684543829080135626944159445667, 171490564770115295339956236331131086906237611818⟩,
+   ⟨2828868936845596919406450243579235210576376655492, 3001532275190932617125713198626775276303890372014⟩,
+   ⟨-1048305021261796086260524522650832178788436983515, 327226005641345278253961755810483995745381953389⟩,
+   ⟨-14022165456174010902100181817382731978430225778696, 1151546253327737723905178570693422464891231844500⟩,
+   ⟨-104923073751811701773980957760111987498960696314345, 120252980348094766317662272511124183421530319155568⟩,
+   ⟨-2025926295382643660133963942724250437106216285684156, 2299121065856303454673561147575913164195942840267316⟩⟩
+
+theorem ySum_checked : alphaJet.add yCorrection = ySum := by decide
+
+def yJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨416401101174308532756871764383302409575724858663, 494817174706185827206419055039854811484316593163⟩,
+   ⟨8162390373023953781079749861066260266865846474477, 8660591456972251796712008139227728014481926640997⟩,
+   ⟨-3024768911026785117585750829556957436228656192528, 944174671177345593632237439546931702250557999659⟩,
+   ⟨-40459417132293549775701878472383113062156875126196, 3322660138060386379579342573573545824331977395452⟩,
+   ⟨-302743996353131412632737470992575918689940387195335, 346976756800628583943757619925719830741755591887658⟩,
+   ⟨-5845587639110178506332279336171403965440148810536899, 6633861120228473686858025588900034410815712555774713⟩⟩
+
+theorem yJetBox_checked : yConstant.mul ySum = yJetBox := by decide
+
+def qJetBox : DyadicJet5Enclosure precision :=
+  ⟨⟨36405145355961524172695979291487779630455526371, 42663081931915438023124499031504215155793634666⟩,
+   ⟨120324706840458675413545504950317587517219368503, 135044366735467945400884122994348609707511436374⟩,
+   ⟨-4136488069125610821956002166394801467241380958, 16766764463960038350044448400562569504678220780⟩,
+   ⟨815434386513895694103324733031499198189337118, 43950975070745691170240737321270947097029408066⟩,
+   ⟨-56287037624844708604250569897194089913136926235, 72876860274977507951496184992324523027067742032⟩,
+   ⟨-224404243355399893649041838498672447403003470268, 281665369840966724060491235823301449615134642374⟩⟩
+
+theorem qJetBox_checked : E8TAxisReparamInterval.eval xJetBox yJetBox = qJetBox := by decide
+
+theorem onePlusZBox_eq : onePlusZBox wholeBInput = onePlusZ := by
+  simp only [onePlusZBox, one_checked, zData_checked, onePlusZ_checked]
+
+theorem rBox_eq : rBox wholeBInput = rData := by
+  simp only [rBox, one_checked, zData_checked, onePlusZBox_eq, negativeZ_checked, rNumerator_checked, onePlusZInv_checked, rData_checked]
+
+theorem qBox_eq : qBox wholeBInput = qData := by
+  simp only [qBox, four_checked, zData_checked, onePlusZBox_eq, qNumerator_checked, qDenominator_checked, qDenominatorInv_checked, qData_checked]
+
+theorem l1Box_eq : l1Box wholeBInput = l1Data := by
+  simp only [l1Box, onePlusZBox_eq, l1Data_checked]
+
+theorem ellBox_eq : ellBox wholeBInput = ellData := by
+  simp only [ellBox, alphaJet_checked, l1Box_eq, ellData_checked]
+
+theorem hBox_eq : hBox wholeBInput = hData := by
+  simp only [hBox, l1Box_eq, two_checked, alphaJet_checked, zData_checked, onePlusZBox_eq, twiceAlpha_checked, twiceAlphaZ_checked, onePlusZInv_checked, hCorrection_checked, hData_checked]
+
+theorem xBox_eq : xBox wholeBInput = xJetBox := by
+  simp only [xBox, logtwo_checked, rBox_eq, two_checked, hBox_eq, xNumerator_checked, xDenominator_checked, xDenominatorInv_checked, xJetBox_checked]
+
+theorem yBox_eq : yBox wholeBInput = yJetBox := by
+  simp only [yBox, two_checked, logtwo_checked, alphaJet_checked, rBox_eq, hBox_eq, qBox_eq, ellBox_eq, logtwoInv_checked, yConstant_checked, yNumerator_checked, yDenominator_checked, yDenominatorInv_checked, yCorrection_checked, ySum_checked, yJetBox_checked]
+
+theorem stable_eval_eq :
+    E8TAxisReparamInterval.eval (xBox wholeBInput) (yBox wholeBInput) = qJetBox := by
+  rw [xBox_eq, yBox_eq, qJetBox_checked]
+
+theorem denominatorsPositive : DenominatorsPositive wholeBInput := by
+  simp only [DenominatorsPositive, onePlusZBox_eq, qDenominator_checked,
+    two_checked, hBox_eq, xDenominator_checked, qBox_eq, ellBox_eq, yDenominator_checked]
+  exact ⟨by decide, by decide, by decide, by decide, by decide⟩
+
+theorem yPrime_pos : 0 < (yBox wholeBInput).d1.lo := by
+  rw [yBox_eq]
+  decide
+
+theorem qJetBox_contains {a : ℝ} (ha : wholeBInput.alpha.Contains a) (hapos : 0 < a) :
+    qJetBox.Contains
+      (E8InverseJet5Bridge.e8QJet5 E8InverseJet5Bridge.e8ThetaCanonicalJet5)
+      (E8TAxisStableScalar.Y a) := by
+  rw [← stable_eval_eq]
+  exact checked_stable_contains_canonical
+    wholeB_primitive_checks.1 wholeB_primitive_checks.2
+    E8TAxisProd0016StableWitnesses.logTwo_checked denominatorsPositive yPrime_pos ha hapos
+
+#print axioms stable_eval_eq
+#print axioms qJetBox_contains
+end GeneralCK.Certificates.E8TAxisProd0016GraphWholeB
+
+end
+
+

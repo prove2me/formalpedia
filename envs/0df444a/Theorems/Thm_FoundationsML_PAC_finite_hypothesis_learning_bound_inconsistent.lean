@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_PAC_finite_hypothesis_learning_bound_inconsistent
 -- name    : FoundationsML.PAC.finite_hypothesis_learning_bound_inconsistent
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:09:43.905545+00:00
 -- url     : https://prove2.me/theorems/72dbe647-8d61-4e94-a17b-60e8e12fb6c0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Verlinde2016_milgrom_relation_point_mass
 -- name    : Verlinde2016.milgrom_relation_point_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T00:03:49.377989+00:00
 -- url     : https://prove2.me/theorems/afe6eb02-8774-4077-ba8b-00ca805745de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_ForwardSelection_cStep_eq_min
 -- name    : ScenarioReduction.ForwardSelection.cStep_eq_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:00:40.63177+00:00
 -- url     : https://prove2.me/theorems/7c45219e-ba50-48d8-ab79-a464dd546acc

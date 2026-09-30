@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_higgs_vacuum_minimizes_potential
 -- name    : ElectroweakWiki.higgs_vacuum_minimizes_potential
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:19:59.430711+00:00
 -- url     : https://prove2.me/theorems/4f35dfa2-889a-45ed-9bb9-c6056a468364

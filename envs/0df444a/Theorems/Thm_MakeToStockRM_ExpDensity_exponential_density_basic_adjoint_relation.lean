@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MakeToStockRM_ExpDensity_exponential_density_basic_adjoint_relation
 -- name    : MakeToStockRM.ExpDensity.exponential_density_basic_adjoint_relation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:39:13.463344+00:00
 -- url     : https://prove2.me/theorems/1af0eaef-1a61-4846-9948-e0755302a01c

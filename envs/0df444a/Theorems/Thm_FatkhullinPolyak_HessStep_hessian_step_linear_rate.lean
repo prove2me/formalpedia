@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_HessStep_hessian_step_linear_rate
 -- name    : FatkhullinPolyak.HessStep.hessian_step_linear_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:51:31.745252+00:00
 -- url     : https://prove2.me/theorems/da2542cc-4200-4f8c-a229-f8fd4695dc1e

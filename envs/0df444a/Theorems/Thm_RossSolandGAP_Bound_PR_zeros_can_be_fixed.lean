@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_PR_zeros_can_be_fixed
 -- name    : RossSolandGAP.Bound.PR_zeros_can_be_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:10:16.818378+00:00
 -- url     : https://prove2.me/theorems/88ed3c4a-0124-4e67-8caa-408b03fc7235

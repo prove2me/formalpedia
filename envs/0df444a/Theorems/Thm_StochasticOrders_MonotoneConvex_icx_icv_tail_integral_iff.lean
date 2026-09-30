@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MonotoneConvex_icx_icv_tail_integral_iff
 -- name    : StochasticOrders.MonotoneConvex.icx_icv_tail_integral_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T22:59:50.469201+00:00
 -- url     : https://prove2.me/theorems/f17cd646-de95-4911-b9af-1b1d044a4869

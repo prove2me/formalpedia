@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrobeniusDensity_chebotarev_natural_density
 -- name    : FrobeniusDensity.chebotarev_natural_density
--- status  : Open
+-- status  : Proved
 -- author  : @davidloeffler
 -- created : 2026-09-18T06:30:17.214666+00:00
 -- url     : https://prove2.me/theorems/4b65e18d-7194-47f0-ab43-d429b9b0410b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignmentGame_CoreCorners_core_coord_diff_le
 -- name    : AssignmentGame.CoreCorners.core_coord_diff_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:24:45.612774+00:00
 -- url     : https://prove2.me/theorems/6d6a0029-8254-4ab7-b39f-c62c92deba2f

@@ -1,12 +1,25 @@
 -- Prove2me | solution 1 for lean_workbook_plus_70131
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T05:52:52.412587+00:00
--- url     : https://prove2.me/submissions/b010a05e-09ac-4fc4-86b7-5e86ac7d915f
+-- author  : @ryanshin
+-- created : 2026-09-05T04:56:43.411281+00:00
+-- url     : https://prove2.me/submissions/f1b19891-fa4b-4f72-adca-e989e078c32c
 
-import Mathlib.Analysis.Complex.Basic
+import Mathlib.Data.Real.Basic
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
 
-set_option autoImplicit false
-
-theorem solution (a b c : ℝ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c) : (5 * a + c) / (b + c) + 6 * b / (c + a) + (5 * c + a) / (a + b) ≥ 9 := by
-  (intros; field_simp; nlinarith [sq_nonneg (a), sq_nonneg (b), sq_nonneg (c), sq_nonneg (a - b), sq_nonneg (a - c), sq_nonneg (b - c), sq_nonneg (a + b), sq_nonneg (a + c), sq_nonneg (b + c), mul_pos ha hb, mul_pos ha hc, mul_pos hb hc])
+theorem solution (a b c : ℝ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c) :
+    (5*a+c)/(b+c) + 6*b/(c+a) + (5*c+a)/(a+b) ≥ 9 := by
+  have hab : 0 < a+b := add_pos ha hb
+  have hbc : 0 < b+c := add_pos hb hc
+  have hca : 0 < c+a := add_pos hc ha
+  have hmid : 0 < c+a+2*b := by positivity
+  have hid : (5*a+c)/(b+c) + 6*b/(c+a) + (5*c+a)/(a+b) - 9 =
+      (5*(c+a)+4*b)*(a-c)^2 / ((a+b)*(b+c)*(c+a+2*b)) +
+      3*(c+a-2*b)^2 / ((c+a)*(c+a+2*b)) := by
+    field_simp [ne_of_gt hab, ne_of_gt hbc, ne_of_gt hca, ne_of_gt hmid]
+    <;> ring
+  apply sub_nonneg.mp
+  rw [hid]
+  positivity

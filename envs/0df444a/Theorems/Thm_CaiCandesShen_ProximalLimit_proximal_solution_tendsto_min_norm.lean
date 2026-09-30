@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CaiCandesShen_ProximalLimit_proximal_solution_tendsto_min_norm
 -- name    : CaiCandesShen.ProximalLimit.proximal_solution_tendsto_min_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:27:28.183218+00:00
 -- url     : https://prove2.me/theorems/e2486b5f-f111-4ec9-9060-76e65eb68e26

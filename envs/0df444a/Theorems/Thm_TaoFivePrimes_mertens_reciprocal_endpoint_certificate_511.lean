@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_mertens_reciprocal_endpoint_certificate_511
 -- name    : TaoFivePrimes.mertens_reciprocal_endpoint_certificate_511
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T22:44:45.545811+00:00
 -- url     : https://prove2.me/theorems/91d4c464-b275-4e79-a699-54ab81854cb4

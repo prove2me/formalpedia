@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottBaseStock_base_stock_policy_optimal
 -- name    : VeinottBaseStock.base_stock_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:43:26.086114+00:00
 -- url     : https://prove2.me/theorems/0baf579a-31a3-4b7d-94a5-e8023edf2c78

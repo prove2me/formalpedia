@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rosser_schoenfeld_theta_lower_finite_large_high_cert230
 -- name    : TaoFivePrimes.rosser_schoenfeld_theta_lower_finite_large_high_cert230
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-09-27T18:22:19.605607+00:00
 -- url     : https://prove2.me/theorems/9f7418ef-3a99-4271-9f78-7eb5c1b340a4

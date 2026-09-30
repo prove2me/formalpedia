@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmI_Yhat_bounded
 -- name    : ArrowDebreu.ThmI.Yhat_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:41:54.59075+00:00
 -- url     : https://prove2.me/theorems/3b88df6a-1d51-4c18-9e4b-bd832a5dc5ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DAREx_KearnsSaulMGF
 -- name    : DAREx.KearnsSaulMGF
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-29T06:08:02.745191+00:00
 -- url     : https://prove2.me/theorems/d384aa62-fd26-4739-9089-8a6a761e66f5

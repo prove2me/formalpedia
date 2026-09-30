@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_virial_theorem
 -- name    : VirialTheorem.virial_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T19:25:35.758978+00:00
 -- url     : https://prove2.me/theorems/3ae91b60-f3cd-4519-a939-1fc33b525ae8

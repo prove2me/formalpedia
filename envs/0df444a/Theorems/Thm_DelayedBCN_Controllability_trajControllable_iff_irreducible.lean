@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedBCN_Controllability_trajControllable_iff_irreducible
 -- name    : DelayedBCN.Controllability.trajControllable_iff_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:06:55.397762+00:00
 -- url     : https://prove2.me/theorems/4007406d-effd-44e8-b49c-c931788bcc08

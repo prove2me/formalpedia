@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_Erdos243_LcmRecordCrossing_finite_record_weighted_bound
 -- name    : ErdosProblems.Erdos243.LcmRecordCrossing.finite_record_weighted_bound
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-27T22:58:37.235232+00:00
 -- url     : https://prove2.me/theorems/30546b5d-00fb-41a4-aa42-68a4a4dd2b90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_LearningTheory_no_free_lunch
 -- name    : OnlineConvexOpt.LearningTheory.no_free_lunch
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:46:38.645915+00:00
 -- url     : https://prove2.me/theorems/dbbda360-96c1-497c-8193-7f88e2a1ff45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_integral_cosh_div_cosh_eq_cosine_formula
 -- name    : ErlerGross.integral_cosh_div_cosh_eq_cosine_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T12:44:15.121651+00:00
 -- url     : https://prove2.me/theorems/fd53ef21-93d1-440e-b040-539b52bfb0f9

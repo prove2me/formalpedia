@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_Erdos243_LcmRecordCrossing_not_summable_recordExcessWeight_of_progression
 -- name    : ErdosProblems.Erdos243.LcmRecordCrossing.not_summable_recordExcessWeight_of_progression
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-27T23:00:39.135745+00:00
 -- url     : https://prove2.me/theorems/f5058468-3b8b-4ec7-a3fe-053a25267275

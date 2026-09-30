@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Nonsmooth_random_search_rate
 -- name    : RandomGradFree.Nonsmooth.random_search_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:20:03.974377+00:00
 -- url     : https://prove2.me/theorems/d6ef94ca-0a6c-4691-aa64-d0168454904b

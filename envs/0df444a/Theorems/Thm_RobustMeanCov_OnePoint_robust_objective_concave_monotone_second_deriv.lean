@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_OnePoint_robust_objective_concave_monotone_second_deriv
 -- name    : RobustMeanCov.OnePoint.robust_objective_concave_monotone_second_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:48:13.027688+00:00
 -- url     : https://prove2.me/theorems/076c9d7a-74eb-4444-a732-b864d6b98371

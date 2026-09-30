@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Unstructured_worst_case_residual_upper_bound
 -- name    : RobustLS.Unstructured.worst_case_residual_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:24:54.280517+00:00
 -- url     : https://prove2.me/theorems/9ecc2f90-80a9-40b4-895a-11233582e52f

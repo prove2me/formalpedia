@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ElectroweakWiki_neutral_current_coupling
 -- name    : ElectroweakWiki.neutral_current_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:41:56.000533+00:00
 -- url     : https://prove2.me/theorems/57ecb6db-e56d-4c04-a779-bef2f9f53fdb

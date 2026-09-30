@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_ForwardSelection_zStep_eq_reductionCost
 -- name    : ScenarioReduction.ForwardSelection.zStep_eq_reductionCost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:01:13.657147+00:00
 -- url     : https://prove2.me/theorems/2aa4570e-19e3-4460-b194-d1d44f4d1df9

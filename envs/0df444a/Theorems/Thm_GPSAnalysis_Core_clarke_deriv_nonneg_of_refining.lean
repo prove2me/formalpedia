@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GPSAnalysis_Core_clarke_deriv_nonneg_of_refining
 -- name    : GPSAnalysis.Core.clarke_deriv_nonneg_of_refining
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T07:53:53.210953+00:00
 -- url     : https://prove2.me/theorems/3b72b0c3-cf51-4b09-b79c-c86182398fc5

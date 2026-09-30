@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_ErrorDecrease_cg_terminates
 -- name    : ConjGrad.ErrorDecrease.cg_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:54:50.721664+00:00
 -- url     : https://prove2.me/theorems/82746e9c-a928-44a0-a84e-ae08a7618665

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_Termination_cg_residuals_orthogonal
 -- name    : ConjGrad.Termination.cg_residuals_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:49:38.37455+00:00
 -- url     : https://prove2.me/theorems/296f487f-08b8-4ca1-998c-a965a4b781dc

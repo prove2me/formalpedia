@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for buchholz_contribution_pairing_count_energy_domination_row_case
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Shuze Chen
 -- created : 2026-07-26T15:28:50.39169+00:00
 -- url     : https://prove2.me/submissions/7d941566-9b7a-44c9-919c-543afc9d8f6d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_buchholz_contribution_pairing_count_row_energy_bound
 

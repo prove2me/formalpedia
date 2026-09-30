@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_buchholz_contribution_pairing_count_energy_domination_row_case
 -- name    : buchholz_contribution_pairing_count_energy_domination_row_case
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-07-26T14:53:32.134482+00:00
 -- url     : https://prove2.me/theorems/91daad10-14fa-4a6d-9be4-6bd80384fda4

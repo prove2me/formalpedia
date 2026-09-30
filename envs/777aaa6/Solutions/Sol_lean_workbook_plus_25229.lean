@@ -1,12 +1,19 @@
 -- Prove2me | solution 1 for lean_workbook_plus_25229
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T12:26:59.651348+00:00
--- url     : https://prove2.me/submissions/ce02ab54-f543-4368-bb4d-1a1e737b4670
+-- author  : @ryanshin
+-- created : 2026-09-05T06:12:23.712376+00:00
+-- url     : https://prove2.me/submissions/a4aeaf6b-68b5-4192-9b6c-974be23e7601
 
-import Mathlib.Analysis.Complex.Basic
+import Mathlib.Data.Real.Sqrt
+import Mathlib.Tactic.Linarith
 
-set_option autoImplicit false
-
-theorem solution (x y : ℝ) (hx : 0 ≤ x) (hy : 0 ≤ y) : x^2 + x*y + y^2 ≤ 3 * (x - Real.sqrt (x*y) + y)^2 := by
-  (intros; nlinarith [Real.sq_sqrt (show (0:ℝ) ≤ x*y by positivity), Real.sqrt_nonneg (x*y), sq_nonneg (x), sq_nonneg (y), sq_nonneg (x - y), sq_nonneg (x + y), mul_nonneg hx hy])
+theorem solution (x y : ℝ) (hx : 0 ≤ x) (hy : 0 ≤ y) :
+    x ^ 2 + x * y + y ^ 2 ≤ 3 * (x - Real.sqrt (x * y) + y) ^ 2 := by
+  have hs := Real.sq_sqrt (mul_nonneg hx hy)
+  have hu0 := Real.sqrt_nonneg (x * y)
+  have hu : Real.sqrt (x * y) ≤ (x + y) / 2 := by
+    apply Real.sqrt_le_iff.2
+    exact ⟨by linarith, by nlinarith [sq_nonneg (x - y)]⟩
+  have h1 : 0 ≤ x + y - Real.sqrt (x * y) := by linarith
+  have h2 : 0 ≤ x + y - 2 * Real.sqrt (x * y) := by linarith
+  nlinarith [mul_nonneg h1 h2]

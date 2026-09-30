@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_LowDim_step_length_pos
 -- name    : RelaxationMethod.LowDim.step_length_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:31:30.03955+00:00
 -- url     : https://prove2.me/theorems/f4c71b83-4247-406e-869e-cd9d6ec64bb0

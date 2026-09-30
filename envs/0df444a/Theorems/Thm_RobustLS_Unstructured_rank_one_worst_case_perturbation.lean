@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Unstructured_rank_one_worst_case_perturbation
 -- name    : RobustLS.Unstructured.rank_one_worst_case_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:25:23.784034+00:00
 -- url     : https://prove2.me/theorems/5f9ca8c1-18a0-4413-a81c-23a5713df012

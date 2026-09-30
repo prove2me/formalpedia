@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_FullDim_limit_mem_frontier
 -- name    : RelaxationMethod.FullDim.limit_mem_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:27:00.077846+00:00
 -- url     : https://prove2.me/theorems/53bbae1f-54b8-46a5-b7ba-f57ec18b0ff5

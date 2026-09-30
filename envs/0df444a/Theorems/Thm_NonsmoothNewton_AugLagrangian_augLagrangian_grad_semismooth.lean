@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_AugLagrangian_augLagrangian_grad_semismooth
 -- name    : NonsmoothNewton.AugLagrangian.augLagrangian_grad_semismooth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:54:11.339749+00:00
 -- url     : https://prove2.me/theorems/cc48fc7a-4a9f-4a2a-a392-438459c22b2e

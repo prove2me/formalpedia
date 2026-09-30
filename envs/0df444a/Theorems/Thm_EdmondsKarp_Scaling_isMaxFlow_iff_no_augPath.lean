@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_Scaling_isMaxFlow_iff_no_augPath
 -- name    : EdmondsKarp.Scaling.isMaxFlow_iff_no_augPath
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:24:30.660631+00:00
 -- url     : https://prove2.me/theorems/0fbb4fe3-f0cc-449c-8603-33243332d786

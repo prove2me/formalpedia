@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_lagrangean_separates_into_knapsacks
 -- name    : RossSolandGAP.Bound.lagrangean_separates_into_knapsacks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:09:48.465986+00:00
 -- url     : https://prove2.me/theorems/2a6734ec-769e-40a1-bbca-5bc3747a4e85

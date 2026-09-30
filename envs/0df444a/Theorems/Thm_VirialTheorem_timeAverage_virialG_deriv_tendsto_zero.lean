@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_timeAverage_virialG_deriv_tendsto_zero
 -- name    : VirialTheorem.timeAverage_virialG_deriv_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T19:13:46.310841+00:00
 -- url     : https://prove2.me/theorems/39957aee-5153-4bc2-95d8-23e39e0a2a3b

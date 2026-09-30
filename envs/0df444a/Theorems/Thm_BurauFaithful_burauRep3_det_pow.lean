@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_burauRep3_det_pow
 -- name    : BurauFaithful.burauRep3_det_pow
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-25T03:18:45.429672+00:00
 -- url     : https://prove2.me/theorems/3761b234-60b5-44a6-814d-f58b6543a5db

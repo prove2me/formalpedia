@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedRemoval_InversePerturbation
 -- name    : FedRemoval.InversePerturbation
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-28T21:50:56.900333+00:00
 -- url     : https://prove2.me/theorems/44785ef9-8f92-44cf-b965-8a3654c1acc3

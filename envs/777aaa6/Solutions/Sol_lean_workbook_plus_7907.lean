@@ -1,19 +1,17 @@
 -- Prove2me | solution 1 for lean_workbook_plus_7907
 -- status  : ACCEPTED   (prove)
--- author  : @wamlart
--- created : 2026-09-05T17:59:08.062285+00:00
--- url     : https://prove2.me/submissions/244fa79c-a9fc-4727-84dc-5db8f40f076a
+-- author  : @ryanshin
+-- created : 2026-09-05T17:38:01.930164+00:00
+-- url     : https://prove2.me/submissions/5886bd20-1ff2-4847-b7b6-e6e03c462d63
 
-import Mathlib.Tactic
 import Mathlib.Analysis.Complex.Basic
-
-set_option autoImplicit false
-set_option maxRecDepth 2048
-set_option maxHeartbeats 50000
-
-
 
 theorem solution : ∀ x : ℝ, x^3 ≥ x ↔ x * (x^2 - 1) ≥ 0 := by
   intro x
-  intros
-  grind
+  have hx : x * (x^2 - 1) = x^3 - x := by ring
+  rw [hx]
+  constructor
+  · intro h
+    linarith
+  · intro h
+    linarith

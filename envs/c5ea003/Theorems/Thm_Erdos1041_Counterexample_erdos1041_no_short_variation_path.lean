@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1041_Counterexample_erdos1041_no_short_variation_path
 -- name    : Erdos1041.Counterexample.erdos1041_no_short_variation_path
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-28T00:37:45.507891+00:00
 -- url     : https://prove2.me/theorems/5fd97c7f-1f1a-4219-bfd8-48a088e568a7

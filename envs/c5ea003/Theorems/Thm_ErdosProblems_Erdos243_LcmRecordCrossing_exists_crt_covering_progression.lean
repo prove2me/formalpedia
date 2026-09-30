@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_Erdos243_LcmRecordCrossing_exists_crt_covering_progression
 -- name    : ErdosProblems.Erdos243.LcmRecordCrossing.exists_crt_covering_progression
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-27T22:52:33.070981+00:00
 -- url     : https://prove2.me/theorems/b08f34ca-e432-41ca-a594-ebb8ad6fcd9f

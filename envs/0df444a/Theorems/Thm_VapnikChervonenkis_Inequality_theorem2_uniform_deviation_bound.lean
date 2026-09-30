@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Inequality_theorem2_uniform_deviation_bound
 -- name    : VapnikChervonenkis.Inequality.theorem2_uniform_deviation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:19:12.459417+00:00
 -- url     : https://prove2.me/theorems/4708fd16-1a4c-43b4-b0c8-1a9d19196355

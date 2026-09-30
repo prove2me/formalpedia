@@ -1,12 +1,14 @@
 -- Prove2me | solution 1 for lean_workbook_plus_74162
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T04:51:40.229801+00:00
--- url     : https://prove2.me/submissions/5a934d4a-54e0-4a3f-8d4c-6a78cf11239b
+-- author  : @ryanshin
+-- created : 2026-09-05T04:05:06.344378+00:00
+-- url     : https://prove2.me/submissions/7db644c4-8309-4f88-b81a-1b86b7ce2ee7
 
-import Mathlib.Analysis.Complex.Basic
+import Mathlib.Data.Real.Sqrt
+import Mathlib.Tactic.Linarith
 
-set_option autoImplicit false
-
-theorem solution (a b c : ℝ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c) (habc : a * b + b * c + c * a = 1) : Real.sqrt (1 + a ^ 2) ≤ (a + b + (a + c)) / 2 := by
-  (intros; nlinarith [Real.sq_sqrt (show (0:ℝ) ≤ 1 + a ^ 2 by positivity), Real.sqrt_nonneg (1 + a ^ 2), sq_nonneg (a), sq_nonneg (b), sq_nonneg (c), sq_nonneg (a - b), sq_nonneg (a - c), sq_nonneg (b - c), sq_nonneg (a + b), sq_nonneg (a + c), sq_nonneg (b + c), mul_pos ha hb, mul_pos ha hc, mul_pos hb hc])
+theorem solution (a b c : ℝ) (ha : 0 < a) (hb : 0 < b) (hc : 0 < c)
+    (habc : a * b + b * c + c * a = 1) :
+    Real.sqrt (1 + a ^ 2) ≤ (a + b + (a + c)) / 2 := by
+  apply (Real.sqrt_le_left (by linarith : 0 ≤ (a + b + (a + c)) / 2)).2
+  nlinarith only [habc, sq_nonneg (b - c)]

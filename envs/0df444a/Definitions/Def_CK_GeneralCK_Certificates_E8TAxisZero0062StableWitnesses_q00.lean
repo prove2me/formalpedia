@@ -1,0 +1,59 @@
+-- Prove2me | Definitions.Def_CK_GeneralCK_Certificates_E8TAxisZero0062StableWitnesses_q00
+-- name    : CK_GeneralCK_Certificates_E8TAxisZero0062StableWitnesses_q00
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-09-29T13:28:18.371318+00:00
+-- url     : https://prove2.me/theorems/220e6cb9-a5de-451e-bdcf-4c9c27e0f5e9
+-- title:
+--   Courtade–Kumar proof module `GeneralCK.Certificates.E8TAxisZero0062StableWitnesses (piece 1 of 4)` (transplant)
+-- statement:
+--   Verbatim transplant of the Lean module `GeneralCK.Certificates.E8TAxisZero0062StableWitnesses (piece 1 of 4)` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `GeneralCK.Certificates.E8TAxisZero0062StableWitnesses (piece 1 of 4)` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module GeneralCK.Certificates.E8TAxisZero0062StableWitnesses (piece 1 of 4) (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/GeneralCK/Certificates/E8TAxisZero0062StableWitnesses (piece 1 of 4).lean)
+
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisStableInterval
+
+
+
+/-! Executable primitive and denominator checks for the six positive stable
+parameter evaluations in the first historical E8 t-axis cell. -/
+
+namespace GeneralCK.Certificates.E8TAxisZero0062StableWitnesses
+
+open DyadicInterval E8TAxisStableInterval
+
+set_option maxRecDepth 100000
+
+def precision : ℕ := 160
+def logTwo : DyadicInterval precision := ⟨1013035739299659071135698605846798550487025271590, 1013035739299659071135698605846798552686048527143⟩
+def logTwoWitness : FastLogBoxWitness := ⟨0, 512, 0, 512⟩
+
+theorem logTwo_checked :
+    logBoxCheck (ofInt precision 2) logTwo logTwoWitness = true := by decide
+
+def centerDAlpha : DyadicInterval precision := ⟨756629458111635987963421694655899447515956153847, 756629458111635987963421694655899447515956153848⟩
+def centerDExp : DyadicInterval precision := ⟨518949168719742299502489786080534463489111235356, 518949168719742299502489786080534465688134490909⟩
+def centerDLog : DyadicInterval precision := ⟨444091993825822657919630218920559695762275777424, 444091993825822657919630218920559697961299032977⟩
+def centerDInput : Inputs precision := ⟨centerDAlpha, centerDExp, centerDLog, logTwo⟩
+def centerDExpWitness : ExpWitness precision :=
+  ⟨518949168719742299502489786080534464038867049244, scale precision, 518949168719742299502489786080534465138378677021, scale precision,
+    0, 512, 0, 512, ⟨-1513258916223271975926843389311798896580174863487, -1513258916223271975926843389311798896580172766334⟩, ⟨-1513258916223271975926843389311798893483651849057, -1513258916223271975926843389311798893483649751904⟩⟩
+def centerDLogWitness : FastLogBoxWitness := ⟨0, 512, 0, 512⟩
+
+theorem centerD_primitive_checks :
+    expBoxCheck ((ofInt precision (-2)).mul centerDAlpha) centerDExp centerDExpWitness = true ∧
+    logBoxCheck ((ofInt precision 1).add centerDExp) centerDLog centerDLogWitness = true := by decide
+
+def centerCAlpha : DyadicInterval precision := ⟨756832312118228062455067483025271805857498760303, 756832312118228062455067483025271805857498760304⟩
+def centerCExp : DyadicInterval precision := ⟨518805130142806436748687029750699747787005095226, 518805130142806436748687029750699749986028350779⟩
+def centerCLog : DyadicInterval precision := ⟨443985694658445917511499715890548389644151309798, 443985694658445917511499715890548391843174565351⟩
+def centerCInput : Inputs precision := ⟨centerCAlpha, centerCExp, centerCLog, logTwo⟩
+end GeneralCK.Certificates.E8TAxisZero0062StableWitnesses
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_ForwardSelection_redistribution
 -- name    : ScenarioReduction.ForwardSelection.redistribution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:58:08.864357+00:00
 -- url     : https://prove2.me/theorems/36300f21-1ac3-4d07-a30e-c945e3e771ab

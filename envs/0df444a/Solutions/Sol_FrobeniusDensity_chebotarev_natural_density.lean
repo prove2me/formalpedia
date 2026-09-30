@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FrobeniusDensity.chebotarev_natural_density
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-23T19:30:46.546146+00:00
 -- url     : https://prove2.me/submissions/81fbd535-ce82-41ea-8a4b-e18b071540b8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LanglandsTunnell_TowerCounting
 import Mathlib.Topology.Instances.Real.Lemmas

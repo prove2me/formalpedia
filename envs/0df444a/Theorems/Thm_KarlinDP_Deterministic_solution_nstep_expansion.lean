@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarlinDP_Deterministic_solution_nstep_expansion
 -- name    : KarlinDP.Deterministic.solution_nstep_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:17:28.628573+00:00
 -- url     : https://prove2.me/theorems/e0eb1022-db79-4e55-a756-fae462086c9c

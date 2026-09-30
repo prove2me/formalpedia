@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxwellWiki_timeDeriv_div_comm
 -- name    : MaxwellWiki.timeDeriv_div_comm
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:02:49.173049+00:00
 -- url     : https://prove2.me/theorems/7c0c8746-df88-4d08-8e52-81384d47095a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_ghz_born_probabilities
 -- name    : DrezetGHZ.ghz_born_probabilities
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T19:44:02.623409+00:00
 -- url     : https://prove2.me/theorems/3adefea7-a750-4fc1-8080-c3e80ee60dcb

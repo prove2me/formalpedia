@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_run_descent
 -- name    : CalamaiMore.Convergence.run_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:31:23.563574+00:00
 -- url     : https://prove2.me/theorems/f6e0ad63-c5b2-4f6f-a382-71ca3ff6a816

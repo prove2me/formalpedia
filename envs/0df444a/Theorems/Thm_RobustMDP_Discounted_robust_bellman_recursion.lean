@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Discounted_robust_bellman_recursion
 -- name    : RobustMDP.Discounted.robust_bellman_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:01:17.781648+00:00
 -- url     : https://prove2.me/theorems/83f7f179-bbc8-458c-a5c3-640962ff5aa4

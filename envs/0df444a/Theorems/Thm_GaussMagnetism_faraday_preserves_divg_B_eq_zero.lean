@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMagnetism_faraday_preserves_divg_B_eq_zero
 -- name    : GaussMagnetism.faraday_preserves_divg_B_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:09:39.003532+00:00
 -- url     : https://prove2.me/theorems/e767f8aa-1169-439a-a6e4-ae4ec516b213

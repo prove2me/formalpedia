@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_cosh_ratio_integral_evaluation
 -- name    : ErlerGross.cosh_ratio_integral_evaluation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T18:08:11.433486+00:00
 -- url     : https://prove2.me/theorems/521d5b2f-be32-40a2-ba04-d97c36836d4e

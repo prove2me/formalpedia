@@ -1,12 +1,18 @@
 -- Prove2me | solution 1 for lean_workbook_plus_75055
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T04:53:00.939074+00:00
--- url     : https://prove2.me/submissions/cac8274e-4a75-4d9e-bceb-03b87de6372b
+-- author  : @ryanshin
+-- created : 2026-09-05T04:15:39.628626+00:00
+-- url     : https://prove2.me/submissions/8cd10013-e756-4695-93a7-d303375e3380
 
 import Mathlib.Analysis.Complex.Basic
+import Mathlib.Tactic
 
-set_option autoImplicit false
+theorem solution (x y : ℝ) (hx : 0 < x) (hy : 0 < y)
+    (h : 3 * (x + y) ≥ 2 * (x * y + 1)) :
+    x ^ 2 + y ^ 2 ≥ 2 / 7 * (x ^ 2 * y ^ 2 + 1) := by
+  have hm : 0 ≤ (3 * (x + y) - 2 * (x * y + 1)) *
+      (3 * (x + y) + 2 * (x * y + 1)) :=
+    mul_nonneg (sub_nonneg.mpr h) (by positivity)
+  nlinarith [sq_nonneg (x - y)]
 
-theorem solution (x y : ℝ) (hx : 0 < x) (hy : 0 < y) (h : 3 * (x + y) ≥ 2 * (x * y + 1)) : x ^ 2 + y ^ 2 ≥ 2 / 7 * (x ^ 2 * y ^ 2 + 1) := by
-  (intros; nlinarith [sq_nonneg (x), sq_nonneg (y), sq_nonneg (x - y), sq_nonneg (x + y), mul_pos hx hy])
+#print axioms solution

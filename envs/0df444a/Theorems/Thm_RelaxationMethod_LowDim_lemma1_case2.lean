@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_LowDim_lemma1_case2
 -- name    : RelaxationMethod.LowDim.lemma1_case2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:30:16.57593+00:00
 -- url     : https://prove2.me/theorems/8c581a0a-8984-4969-8fe9-57e0beb01f9a

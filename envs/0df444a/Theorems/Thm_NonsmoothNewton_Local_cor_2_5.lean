@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_Local_cor_2_5
 -- name    : NonsmoothNewton.Local.cor_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:04:58.933211+00:00
 -- url     : https://prove2.me/theorems/33da3ab9-f217-4890-91f8-50c7554a9122

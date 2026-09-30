@@ -1,19 +1,15 @@
 -- Prove2me | solution 1 for lean_workbook_plus_11382
 -- status  : ACCEPTED   (prove)
--- author  : @wamlart
--- created : 2026-09-05T18:13:27.368654+00:00
--- url     : https://prove2.me/submissions/d18d5371-61d0-4a3f-83ec-52e1e86f265e
+-- author  : @ryanshin
+-- created : 2026-09-05T17:50:59.936742+00:00
+-- url     : https://prove2.me/submissions/b7d474c8-5983-414a-993d-4c6502276a9e
 
-import Mathlib.Tactic
-import Mathlib.Analysis.Complex.Basic
-
+import Mathlib
 set_option autoImplicit false
-set_option maxRecDepth 2048
-set_option maxHeartbeats 50000
 
-
-
-theorem solution (x y : ℝ) : Real.sqrt ((x ^ 2 + y ^ 2) / 2) ≥ (x + y) / 2 := by
-  intros
+theorem solution (x y : ℝ) : Real.sqrt ((x ^ 2 + y ^ 2) / 2) ≥ (x + y) / 2   := by
+  have h2 : 0 ≤ (x - y) ^ 2 := sq_nonneg (x - y)
   apply Real.le_sqrt_of_sq_le
-  nlinarith [sq_nonneg x, sq_nonneg y, sq_nonneg (x - y)]
+  nlinarith
+
+#print axioms solution

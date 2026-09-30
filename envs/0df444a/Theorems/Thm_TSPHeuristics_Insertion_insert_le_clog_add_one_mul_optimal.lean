@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_Insertion_insert_le_clog_add_one_mul_optimal
 -- name    : TSPHeuristics.Insertion.insert_le_clog_add_one_mul_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:35:40.528819+00:00
 -- url     : https://prove2.me/theorems/17e06697-1d83-43e4-a993-febc46977b58

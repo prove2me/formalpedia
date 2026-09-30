@@ -1,0 +1,113 @@
+-- Prove2me | Theorems.Thm_WeierstrassEllipticZeta_bounded_auxiliary_nonlattice_jet_systems
+-- name    : WeierstrassEllipticZeta.bounded_auxiliary_nonlattice_jet_systems
+-- status  : Proved
+-- author  : @tomasz
+-- created : 2026-09-07T16:18:34.005049+00:00
+-- url     : https://prove2.me/theorems/d0701caa-20f5-493f-a40a-51a71fac7847
+-- title:
+--   Uniform nonlattice derivative-matrix bounds from rational-coordinate profiles
+-- statement:
+--   Let $L$ be a complex period pair, let $\omega,u_1,u_2,\theta,\nu\in\mathbb C$, and let $g\in\mathbb Z[X,Y]$. Assume auxiliary-grid parameter data for $L,\omega,u_1,u_2$ and reduced arithmetic jet-system data for $L,\theta,\nu,g$.
+--
+--   The parameter hypotheses supply, for all sufficiently large $N$,
+--
+--   $$s\ge2,\qquad\ell s^2\le m,\qquad m\log N\le N,$$
+--
+--   with the parameters defined below. The reduced jet data give positive integers $B,H$, independent of all cutoffs and presentations. For cutoffs $L_0,M,T$, write
+--
+--   $$I_0=\{0,\ldots,L_0\}\times\{0,\ldots,M\}^2,\quad
+--   k(n)=(L_0,5M,5M,5M,L_0+5M+n,L_0+5M+n,L_0+5M+n,L_0+5M+n).$$
+--
+--   For arbitrary numerator and denominator polynomials with coordinate degree bounds $d_a$ and lengths bounded by nonnegative integers $h_a$, the supplied data give a matrix with rows $0\le n<T$, columns $I_0$, reduced $Y$-degree less than $\deg_Yg$, and
+--
+--   $$\deg_X([Y^j]R_{n,i})\le B\sum_a k_a(n)d_a,$$
+--
+--   $$\mathscr L(R_{n,i})\le n!2^{41(L_0+M+n)}
+--   \left(\prod_a h_a^{k_a(n)}\right)H^{\sum_a k_a(n)d_a+1}.$$
+--
+--   The supplied data also give the exact derivative evaluations and, at regular points with nonzero evaluated denominators, the kernel equivalence specified below.
+--
+--   Then the bounded auxiliary nonlattice jet data hold:
+--
+--   $$\operatorname{BoundedAuxiliaryNonlatticeJetData}(L,\theta,\nu,g).$$
+--
+--   Here is the full meaning of the conclusion.
+--
+--   Fix a complex period pair $L$, complex numbers $\theta,\nu$, and $g\in\mathbb Z[X,Y]$. Write $e=\deg_Yg$ and let $\mathscr L(P)$ denote the sum of the absolute values of all integer coefficients of $P$.
+--
+--   For all sufficiently large positive integers $N$, put
+--
+--   $$m=\lfloor N/\log N\rfloor,\qquad
+--   \ell=\lfloor\sqrt{N\log N}\rfloor,\qquad s=\lfloor N^{3/16}\rfloor,\qquad
+--   I=\{0,\ldots,m\}\times\{0,\ldots,\ell\}^2.$$
+--
+--   For nonnegative integers $K,C$, define the eight coordinate degree and logarithmic length bounds
+--
+--   $$d=(C,Cs^2,Cs^2,Cs^2,C,C,C,C),$$
+--
+--   $$b=(C\log N,C(s^2+\log N),C(s^2+\log N),C(s^2+\log N),C,C,C,C).$$
+--
+--   The derivative weights are
+--
+--   $$k(n)=(m,5\ell,5\ell,5\ell,J_n,J_n,J_n,J_n),\qquad J_n=m+5\ell+n.$$
+--
+--   Bounded auxiliary nonlattice jet data assert that, for every $K,C$, there is $A>0$ such that, for all sufficiently large $N$, one can choose a nonnegative integer $D$ satisfying
+--
+--   $$D\le Am,\qquad (m+1)(\ell+1)^2(e+1)(D+1)\le e^{AN}.$$
+--
+--   This degree bound is chosen before the following coordinate presentations. Choose eight numerator and denominator polynomials $P_a,Q_a\in\mathbb Z[X,Y]$ and nonnegative integer length bounds $h_a$ such that
+--
+--   $$\deg P_a,\deg Q_a\le d_a,\qquad
+--   \mathscr L(P_a),\mathscr L(Q_a)\le h_a\le e^{b_a}\qquad(0\le a<8).$$
+--
+--   There is a polynomial matrix
+--
+--   $$R=(R_{n,i})_{0\le n\le Km,\ i\in I}$$
+--
+--   with
+--
+--   $$\deg_Y R_{n,i}<e,\qquad
+--   \deg_X([Y^j]R_{n,i})\le D\quad(j\ge0),\qquad
+--   \mathscr L(R_{n,i})\le e^{AN}.$$
+--
+--   The matrix is chosen before any complex evaluation points $v,z$. Suppose $v,z,z+v$ lie outside the period lattice and
+--
+--   $$P_a(\theta,\nu)=Q_a(\theta,\nu)\mathcal J_v(z)_a,$$
+--
+--   $$\mathcal J_v(z)=(z+v,\zeta_L(v),\wp_L(v),\wp'_L(v),
+--   \zeta_L(z),\wp_L(z),\wp'_L(z),\wp''_L(z)).$$
+--
+--   Put
+--
+--   $$G_i(w)=(w+v)^{i_0}[2(\wp_L(v)-\wp_L(w))]^{3\ell}
+--   \wp_L(w+v)^{i_2}\zeta_L(w+v)^{i_3},\qquad
+--   \Delta_n=\prod_{a=0}^7Q_a(\theta,\nu)^{k_a(n)}.$$
+--
+--   Then the exact entry evaluations are
+--
+--   $$R_{n,i}(\theta,\nu)=\Delta_nG_i^{(n)}(z).$$
+--
+--   If in addition $z-v$ lies outside the lattice and every $Q_a(\theta,\nu)$ is nonzero, then, for every complex vector $c=(c_i)_{i\in I}$, writing
+--
+--   $$F_c(w)=\sum_{i\in I}c_iw^{i_0}\wp_L(w)^{i_2}\zeta_L(w)^{i_3},$$
+--
+--   the same matrix satisfies
+--
+--   $$\left[\sum_i R_{n,i}(\theta,\nu)c_i=0\quad(0\le n\le Km)\right]
+--   \quad\Longleftrightarrow\quad
+--   \left[F_c^{(n)}(z+v)=0\quad(0\le n\le Km)\right].$$
+--
+--   The constant and threshold precede all coordinate polynomials; $D$ is common to every presentation and derivative order. The matrix precedes the points and vectors. Both $K=0$ and $C=0$ are allowed. Zero denominators are permitted for the exact evaluation identity, and nonzero evaluated denominators are explicit hypotheses of the kernel equivalence. This is a conditional bound for nonlattice derivative matrices: existence of coordinate presentations satisfying the profiles, their denominator nonvanishing, and a nonzero test derivative are separate obligations.
+-- source:
+--   Supporting conditional matrix formulation of Senthil Kumar K (2026), Section 5 Lemma 7(b), equations (22)-(27) and their following degree/type estimates, as used in Lemmas 8 and 10. The eight-coordinate profiles, separate denominator padding, explicit length constants and dimension envelope are formalization choices. Construction of the coordinate presentations from Lemma 7(a) is not asserted. https://doi.org/10.1017/S001309152610145X
+
+import Definitions.Def_WeierstrassEllipticZeta_NonlatticeJetBounds
+
+open scoped Polynomial
+open WeierstrassEllipticZeta
+
+theorem WeierstrassEllipticZeta.bounded_auxiliary_nonlattice_jet_systems
+    (L : PeriodPair) (ω u₁ u₂ θ ν : ℂ) (g : ℤ[X][X])
+    (h_parameters : AuxiliaryGridParameterData L ω u₁ u₂)
+    (h_jet_systems : ReducedArithmeticJetSystemData L θ ν g) :
+    BoundedAuxiliaryNonlatticeJetData L θ ν g := by sorry

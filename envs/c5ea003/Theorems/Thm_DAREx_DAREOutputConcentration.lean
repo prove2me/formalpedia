@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DAREx_DAREOutputConcentration
 -- name    : DAREx.DAREOutputConcentration
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-29T06:14:04.22799+00:00
 -- url     : https://prove2.me/theorems/d3296345-6939-45d7-a96f-3fa2c1c27058

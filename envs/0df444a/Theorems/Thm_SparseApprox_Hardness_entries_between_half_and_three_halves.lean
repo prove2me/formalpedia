@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseApprox_Hardness_entries_between_half_and_three_halves
 -- name    : SparseApprox.Hardness.entries_between_half_and_three_halves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:27:18.808793+00:00
 -- url     : https://prove2.me/theorems/bca0ec93-e811-4937-8566-ab97bc41e1ef

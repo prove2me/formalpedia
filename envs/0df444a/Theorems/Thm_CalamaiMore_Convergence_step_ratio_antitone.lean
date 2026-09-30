@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_step_ratio_antitone
 -- name    : CalamaiMore.Convergence.step_ratio_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:31:54.750088+00:00
 -- url     : https://prove2.me/theorems/0d331c6b-d3bb-424f-a5c8-a94d4dec46fb

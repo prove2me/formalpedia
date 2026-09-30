@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HorizontalPadicL.seededFrobeniusClass_positiveDensity_v2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @davidloeffler
 -- created : 2026-09-25T15:07:49.519785+00:00
 -- url     : https://prove2.me/submissions/b9265b5d-2718-4daa-a574-62a007bbb4c9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_KN_SeededPrimeGaloisDataV2
 import Theorems.Thm_FrobeniusDensity_chebotarev_natural_density

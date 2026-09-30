@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedBFGS_SQN_pcg_direction_A_conjugacy_step
 -- name    : LimitedBFGS.SQN.pcg_direction_A_conjugacy_step
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-28T00:18:15.887519+00:00
 -- url     : https://prove2.me/theorems/a1b3ac93-8cac-4700-9386-61c8543f1127

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_local_causality_implies_nonsignaling
 -- name    : DrezetGHZ.local_causality_implies_nonsignaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T20:49:15.786118+00:00
 -- url     : https://prove2.me/theorems/b02ab3ad-06f1-4726-ae4d-bca71bc1dfce

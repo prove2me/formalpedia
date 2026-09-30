@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_mertens_product_finite_leg_5000_to_5500
 -- name    : TaoFivePrimes.mertens_product_finite_leg_5000_to_5500
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-23T17:48:47.020363+00:00
 -- url     : https://prove2.me/theorems/e0b776e9-02d1-4f25-ad86-c2a9e18fabf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLP_Counterpart_rc_extension_of_beta
 -- name    : RobustLP.Counterpart.rc_extension_of_beta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:29:32.750808+00:00
 -- url     : https://prove2.me/theorems/32e5642a-3f0f-4984-89b0-65041ebb3403

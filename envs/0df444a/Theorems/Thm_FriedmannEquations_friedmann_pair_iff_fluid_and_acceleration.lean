@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_friedmann_pair_iff_fluid_and_acceleration
 -- name    : FriedmannEquations.friedmann_pair_iff_fluid_and_acceleration
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T23:23:40.59356+00:00
 -- url     : https://prove2.me/theorems/afcd7644-2404-4a7e-abaf-f5aea963e773

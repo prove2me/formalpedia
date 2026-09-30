@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_Insertion_lemma_1_sum_le_half_clog_add_one_mul_optimal
 -- name    : TSPHeuristics.Insertion.lemma_1_sum_le_half_clog_add_one_mul_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:33:07.130723+00:00
 -- url     : https://prove2.me/theorems/e37bf475-0cdf-46a5-89f5-8a66e402293f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DAREx_DAREExponentialTail
 -- name    : DAREx.DAREExponentialTail
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-29T06:10:52.043072+00:00
 -- url     : https://prove2.me/theorems/d7ac7bac-7a7c-4084-b4a8-4584aa769192

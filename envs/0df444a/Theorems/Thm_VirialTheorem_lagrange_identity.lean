@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_lagrange_identity
 -- name    : VirialTheorem.lagrange_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T18:59:36.618978+00:00
 -- url     : https://prove2.me/theorems/b09cf087-2633-4cc5-903c-ee0234cb37c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Deterministic_astar_competitive
 -- name    : MetricalTaskSystem.Deterministic.astar_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:15:29.204981+00:00
 -- url     : https://prove2.me/theorems/f6554467-99b4-4db1-8d88-cb974eb0b717

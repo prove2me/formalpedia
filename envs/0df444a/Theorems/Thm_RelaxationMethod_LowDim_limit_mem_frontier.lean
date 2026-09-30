@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_LowDim_limit_mem_frontier
 -- name    : RelaxationMethod.LowDim.limit_mem_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:30:51.716532+00:00
 -- url     : https://prove2.me/theorems/4c923678-e283-47d5-a1ef-75472d618c77

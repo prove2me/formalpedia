@@ -1709,7 +1709,11 @@
 {"parent": "BanditAlgorithm.bandit_high_probability_lower_bound", "child": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "via": ["solution"]}
 {"parent": "BanditAlgorithm.bandit_high_probability_lower_bound", "child": "GaussianBandit", "via": ["statement"]}
 {"parent": "BanditAlgorithm.bandit_high_probability_lower_bound", "child": "banditRegret", "via": ["statement"]}
-{"parent": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "child": "GaussianBandit", "via": ["statement"]}
+{"parent": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "child": "BanditAlgorithm.bandit_divergence_decomposition", "via": ["solution"]}
+{"parent": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "child": "BanditAlgorithm.bandit_regret_decomposition", "via": ["solution"]}
+{"parent": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "child": "BanditAlgorithm.bretagnolle_huber_inequality", "via": ["solution"]}
+{"parent": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "child": "BanditAlgorithm.gaussian_relative_entropy_formula", "via": ["solution"]}
+{"parent": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "child": "GaussianBandit", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.bandit_high_probability_lower_bound_at_gap", "child": "banditRegret", "via": ["statement"]}
 {"parent": "BanditAlgorithm.bandit_kl_ucb_asymptotic_regret_bound", "child": "BanditAlgorithm.bandit_kl_ucb_finite_regret_bound", "via": ["solution"]}
 {"parent": "BanditAlgorithm.bandit_kl_ucb_asymptotic_regret_bound", "child": "BanditAlgorithm.bandit_kl_ucb_finite_to_asymptotic", "via": ["solution"]}
@@ -1959,8 +1963,9 @@
 {"parent": "BanditAlgorithm.exists_policy_tracking_chosen_allocation", "child": "BanditAlgorithm.gaussian_optimal_allocation_unique", "via": ["solution"]}
 {"parent": "BanditAlgorithm.exists_policy_tracking_chosen_allocation", "child": "GaussianBandit", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.exists_policy_tracking_chosen_allocation", "child": "TrackAndStop", "via": ["solution", "statement"]}
-{"parent": "BanditAlgorithm.exists_policy_tracking_optimal_allocation", "child": "GaussianBandit", "via": ["statement"]}
-{"parent": "BanditAlgorithm.exists_policy_tracking_optimal_allocation", "child": "TrackAndStop", "via": ["statement"]}
+{"parent": "BanditAlgorithm.exists_policy_tracking_optimal_allocation", "child": "BanditAlgorithm.exists_policy_optimal_allocation_with_integrable_settling_time", "via": ["solution"]}
+{"parent": "BanditAlgorithm.exists_policy_tracking_optimal_allocation", "child": "GaussianBandit", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.exists_policy_tracking_optimal_allocation", "child": "TrackAndStop", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.exp3_estimate_advantage_bound", "child": "AdversarialBandit", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.exp3_estimate_advantage_bound", "child": "exp3Policy", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.exp3_estimate_unbiased", "child": "AdversarialBandit", "via": ["solution", "statement"]}
@@ -1969,10 +1974,12 @@
 {"parent": "BanditAlgorithm.exp3_expected_regret_generic_bound", "child": "BanditAlgorithm.exp3_estimate_advantage_bound", "via": ["solution"]}
 {"parent": "BanditAlgorithm.exp3_expected_regret_generic_bound", "child": "BanditAlgorithm.exp3_estimate_unbiased", "via": ["solution"]}
 {"parent": "BanditAlgorithm.exp3_expected_regret_generic_bound", "child": "exp3Policy", "via": ["statement"]}
-{"parent": "BanditAlgorithm.exp3ix_estimate_concentration_variance", "child": "AdversarialBandit", "via": ["statement"]}
-{"parent": "BanditAlgorithm.exp3ix_estimate_concentration_variance", "child": "exp3Policy", "via": ["statement"]}
-{"parent": "BanditAlgorithm.exp3ix_observed_loss_estimate_bound", "child": "AdversarialBandit", "via": ["statement"]}
-{"parent": "BanditAlgorithm.exp3ix_observed_loss_estimate_bound", "child": "exp3Policy", "via": ["statement"]}
+{"parent": "BanditAlgorithm.exp3ix_estimate_concentration_variance", "child": "AdversarialBandit", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.exp3ix_estimate_concentration_variance", "child": "exp3Policy", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.exp3ix_observed_loss_estimate_bound", "child": "AdversarialBandit", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.exp3ix_observed_loss_estimate_bound", "child": "BanditPolicy", "via": ["solution"]}
+{"parent": "BanditAlgorithm.exp3ix_observed_loss_estimate_bound", "child": "StochasticBandit", "via": ["solution"]}
+{"parent": "BanditAlgorithm.exp3ix_observed_loss_estimate_bound", "child": "exp3Policy", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.exp3ix_pathwise_regret_decomposition", "child": "AdversarialBandit", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.exp3ix_pathwise_regret_decomposition", "child": "exp3Policy", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.exp4_estimate_advantage_bound", "child": "BanditAlgorithm.exp4_expected_potential_bound", "via": ["solution"]}
@@ -2289,7 +2296,7 @@
 {"parent": "BanditAlgorithm.jao_two_state_planted_plays_change_of_measure", "child": "bernoulliRelativeEntropy", "via": ["solution"]}
 {"parent": "BanditAlgorithm.jao_two_state_reference_occupancy_bounds", "child": "BanditAlgorithm.mdp_integral_trajectory_succ", "via": ["solution"]}
 {"parent": "BanditAlgorithm.jao_two_state_reference_occupancy_bounds", "child": "UCRL2ConfidenceSets", "via": ["solution", "statement"]}
-{"parent": "BanditAlgorithm.kiefer_wolfowitz_equivalence", "child": "SelfNormalizedProcess", "via": ["statement"]}
+{"parent": "BanditAlgorithm.kiefer_wolfowitz_equivalence", "child": "SelfNormalizedProcess", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.klDiv_banditStepKernel_eq_sum", "child": "BanditPolicy", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.klDiv_banditStepKernel_eq_sum_of_support", "child": "BanditPolicy", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.klDiv_stopped_le_iSup_truncations", "child": "BanditTrajectory", "via": ["solution", "statement"]}
@@ -2302,21 +2309,38 @@
 {"parent": "BanditAlgorithm.klucb_feasibility_optimal_underestimation_count_bound", "child": "BanditAlgorithm.measurable_klucbIndex", "via": ["solution"]}
 {"parent": "BanditAlgorithm.klucb_feasibility_optimal_underestimation_count_bound", "child": "klucbFeasibilityFailureCount", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.klucb_index_threshold_feasible", "child": "klucbTruncatedRelativeEntropy", "via": ["solution", "statement"]}
-{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "klucbFailureCount", "via": ["statement"]}
+{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "BanditAlgorithm.bandit_adaptive_stopped_centered_sum_tail_half", "via": ["solution"]}
+{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "BanditAlgorithm.bernoulliBandit_isSubgaussian_half", "via": ["solution"]}
+{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "BanditAlgorithm.bernoulliRelativeEntropy_antitone_fst", "via": ["solution"]}
+{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "BanditAlgorithm.bernoulli_relative_entropy_pinsker", "via": ["solution"]}
+{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "BanditAlgorithm.klucb_index_threshold_feasible", "via": ["solution"]}
+{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "klucbFailureCount", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.klucb_selected_overshoot_count_bound", "child": "klucbFeasibilityFailureCount", "via": ["solution"]}
 {"parent": "BanditAlgorithm.l1_deviation_union_bound", "child": "BanditAlgorithm.l1_dist_eq_two_max_event_excess", "via": ["solution"]}
 {"parent": "BanditAlgorithm.le_of_ae_discounted_permutation_approximations", "child": "BanditAlgorithm.discounted_list_value_le_of_perm_pairwise", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.le_of_discounted_permutation_approximations", "child": "BanditAlgorithm.discounted_list_value_le_of_perm_pairwise", "via": ["solution", "statement"]}
-{"parent": "BanditAlgorithm.least_squares_confidence_ellipsoid", "child": "SelfNormalizedProcess", "via": ["statement"]}
-{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "ConsistentBanditPolicy", "via": ["statement"]}
-{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "LinearBanditProtocol", "via": ["statement"]}
+{"parent": "BanditAlgorithm.least_squares_confidence_ellipsoid", "child": "BanditAlgorithm.self_normalized_martingale_bound", "via": ["solution"]}
+{"parent": "BanditAlgorithm.least_squares_confidence_ellipsoid", "child": "SelfNormalizedProcess", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "BanditAlgorithm.bandit_canonical_occupation_identities", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "BanditAlgorithm.bandit_divergence_decomposition", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "BanditAlgorithm.bandit_regret_decomposition", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "BanditAlgorithm.bretagnolle_huber_inequality", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "BanditAlgorithm.gaussian_relative_entropy_formula", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "ConsistentBanditPolicy", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.linear_bandit_asymptotic_lower_bound", "child": "LinearBanditProtocol", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.linear_bandit_fixed_direction_supermartingale", "child": "SelfNormalizedProcess", "via": ["solution", "statement"]}
-{"parent": "BanditAlgorithm.linear_bandit_hypercube_minimax_lower_bound", "child": "LinearBanditProtocol", "via": ["statement"]}
-{"parent": "BanditAlgorithm.linear_bandit_linucb_expected_regret", "child": "StochasticLinearBandit", "via": ["statement"]}
-{"parent": "BanditAlgorithm.linear_bandit_linucb_expected_regret", "child": "banditRegret", "via": ["statement"]}
+{"parent": "BanditAlgorithm.linear_bandit_hypercube_minimax_lower_bound", "child": "BanditAlgorithm.bretagnolle_huber_inequality", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_hypercube_minimax_lower_bound", "child": "LinearBanditProtocol", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.linear_bandit_linucb_expected_regret", "child": "BanditPolicy", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_linucb_expected_regret", "child": "SelfNormalizedProcess", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_linucb_expected_regret", "child": "StochasticLinearBandit", "via": ["solution", "statement"]}
+{"parent": "BanditAlgorithm.linear_bandit_linucb_expected_regret", "child": "banditRegret", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.linear_bandit_linucb_regret_bound", "child": "StochasticLinearBandit", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.linear_bandit_mixture_supermartingale", "child": "BanditAlgorithm.linear_bandit_fixed_direction_supermartingale", "via": ["solution"]}
 {"parent": "BanditAlgorithm.linear_bandit_mixture_supermartingale", "child": "SelfNormalizedProcess", "via": ["solution", "statement"]}
-{"parent": "BanditAlgorithm.linear_bandit_phased_elimination_regret", "child": "StochasticLinearBandit", "via": ["statement"]}
+{"parent": "BanditAlgorithm.linear_bandit_phased_elimination_regret", "child": "BanditAlgorithm.bandit_regret_decomposition", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_phased_elimination_regret", "child": "BanditPolicy", "via": ["solution"]}
+{"parent": "BanditAlgorithm.linear_bandit_phased_elimination_regret", "child": "StochasticLinearBandit", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.linear_bandit_phased_elimination_regret", "child": "banditRegret", "via": ["statement"]}
 {"parent": "BanditAlgorithm.linear_bandit_unit_ball_coordinate_flip_stopped_loss_lower_bound", "child": "LinearBanditProtocol", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.linear_bandit_unit_ball_hypercube_average_reward_upper_bound", "child": "BanditAlgorithm.gaussian_relative_entropy_formula", "via": ["solution"]}
@@ -2359,7 +2383,7 @@
 {"parent": "BanditAlgorithm.mdp_optimal_gain_le_of_bellman_ineq", "child": "FiniteMDPLearning", "via": ["statement"]}
 {"parent": "BanditAlgorithm.mdp_optimistic_bias_span_le_diameter", "child": "BanditAlgorithm.mdp_span_le_gain_mul_diameter", "via": ["solution"]}
 {"parent": "BanditAlgorithm.mdp_optimistic_bias_span_le_diameter", "child": "UCRL2Algorithm", "via": ["solution", "statement"]}
-{"parent": "BanditAlgorithm.mdp_regret_lower_bound_jao_large_diameter", "child": "FiniteMDPLearning", "via": ["statement"]}
+{"parent": "BanditAlgorithm.mdp_regret_lower_bound_jao_large_diameter", "child": "FiniteMDPLearning", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.mdp_regret_lower_bound_jao_per_initial_state_large_diameter", "child": "BanditAlgorithm.jao_composite_two_class_gadget_construction", "via": ["solution"]}
 {"parent": "BanditAlgorithm.mdp_regret_lower_bound_jao_per_initial_state_large_diameter", "child": "BanditAlgorithm.jao_planted_two_class_mdp_regret_core_per_initial_state", "via": ["solution"]}
 {"parent": "BanditAlgorithm.mdp_regret_lower_bound_jao_per_initial_state_large_diameter", "child": "FiniteMDPLearning", "via": ["statement"]}
@@ -2370,7 +2394,10 @@
 {"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "BanditAlgorithm.arena_family_exists_uniform", "via": ["solution"]}
 {"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "BanditAlgorithm.arena_family_step_two", "via": ["solution"]}
 {"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "BanditAlgorithm.arena_lower_bound_parameter_choice", "via": ["solution"]}
-{"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "FiniteMDPLearning", "via": ["statement"]}
+{"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "BanditAlgorithm.mdp_optimal_gain_ge_of_reverse_bellman_ineq", "via": ["solution"]}
+{"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "BanditAlgorithm.mdp_optimal_gain_le_of_bellman_ineq", "via": ["solution"]}
+{"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "BanditAlgorithm.mdp_travel_time_le_of_lyapunov_drift", "via": ["solution"]}
+{"parent": "BanditAlgorithm.mdp_regret_lower_bound_large_diameter", "child": "FiniteMDPLearning", "via": ["solution", "statement"]}
 {"parent": "BanditAlgorithm.mdp_span_le_gain_mul_diameter", "child": "BanditAlgorithm.mdp_value_diff_le_travel_time", "via": ["solution"]}
 {"parent": "BanditAlgorithm.mdp_span_le_gain_mul_diameter", "child": "FiniteMDPLearning", "via": ["statement"]}
 {"parent": "BanditAlgorithm.mdp_trajectory_azuma_of_centered_bounded_increments", "child": "BanditAlgorithm.mdp_integral_trajectory_succ", "via": ["solution"]}
@@ -7532,11 +7559,13 @@
 {"parent": "D10.sum_fixCount_eq_card_orbits_mul", "child": "NumberTheory_MolienBurnsideD10", "via": ["solution", "statement"]}
 {"parent": "D10.sum_gcd_prime", "child": "NumberTheory_MolienBurnsideD10", "via": ["solution", "statement"]}
 {"parent": "D10.sum_gcd_prime", "child": "NumberTheory_MolienNecklaceCongruence", "via": ["solution", "statement"]}
-{"parent": "DAREx.CoefficientEnergyIdentity", "child": "DAREx_Model", "via": ["statement"]}
-{"parent": "DAREx.DAREExponentialTail", "child": "DAREx_Model", "via": ["statement"]}
-{"parent": "DAREx.DAREOutputConcentration", "child": "DAREx_Model", "via": ["statement"]}
-{"parent": "DAREx.KearnsSaulMGF", "child": "DAREx_Model", "via": ["statement"]}
-{"parent": "DAREx.RescaledErrorMoments", "child": "DAREx_Model", "via": ["statement"]}
+{"parent": "DAREx.CoefficientEnergyIdentity", "child": "DAREx_Model", "via": ["solution", "statement"]}
+{"parent": "DAREx.DAREExponentialTail", "child": "DAREx.KearnsSaulMGF", "via": ["solution"]}
+{"parent": "DAREx.DAREExponentialTail", "child": "DAREx_Model", "via": ["solution", "statement"]}
+{"parent": "DAREx.DAREOutputConcentration", "child": "DAREx.DAREExponentialTail", "via": ["solution"]}
+{"parent": "DAREx.DAREOutputConcentration", "child": "DAREx_Model", "via": ["solution", "statement"]}
+{"parent": "DAREx.KearnsSaulMGF", "child": "DAREx_Model", "via": ["solution", "statement"]}
+{"parent": "DAREx.RescaledErrorMoments", "child": "DAREx_Model", "via": ["solution", "statement"]}
 {"parent": "DDAG.descProduct_eq_gammaSeq", "child": "Applications_DescendantScaling", "via": ["solution", "statement"]}
 {"parent": "DaisyCube.daisy_geodesic", "child": "Novelty_PartialCube", "via": ["solution", "statement"]}
 {"parent": "DataSheafCohomology.cycSection_mem_ker", "child": "Algebra_DataSheafCohomology", "via": ["solution", "statement"]}
@@ -9741,14 +9770,15 @@
 {"parent": "Erdos1041.Counterexample.cos_two_pi_div_seven_cubic", "child": "Erdos1041.Counterexample.cos_two_pi_div_seven_crude", "via": ["solution"]}
 {"parent": "Erdos1041.Counterexample.cos_two_pi_div_seven_cubic", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
 {"parent": "Erdos1041.Counterexample.cos_two_pi_div_seven_cubic", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["solution", "statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "Erdos1041.Counterexample.erdos1041_counterexample", "via": ["solution"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_ani_degree_seven", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["solution", "statement"]}
 {"parent": "Erdos1041.Counterexample.erdos1041_counterexample", "child": "Erdos1041.Counterexample.erdos1041_counterexample_of_slices", "via": ["solution"]}
 {"parent": "Erdos1041.Counterexample.erdos1041_counterexample", "child": "Erdos1041.Counterexample.s2_two_zeros_gives_critical_point", "via": ["solution"]}
 {"parent": "Erdos1041.Counterexample.erdos1041_counterexample", "child": "Erdos1041.Counterexample.s3_bottleneck_length", "via": ["solution"]}
@@ -9804,32 +9834,36 @@
 {"parent": "Erdos1041.Counterexample.erdos1041_counterexample_of_slices", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["solution", "statement"]}
 {"parent": "Erdos1041.Counterexample.erdos1041_counterexample_of_slices", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["solution", "statement"]}
 {"parent": "Erdos1041.Counterexample.erdos1041_counterexample_of_slices", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["solution", "statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_HausdorffLength", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_HausdorffLength", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["statement"]}
-{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "via": ["solution"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_HausdorffLength", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_answer_false", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "Erdos1041.Counterexample.erdos1041_counterexample", "via": ["solution"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "Erdos1041.Counterexample.erdos1041_counterexample_hausdorff", "via": ["solution"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_HausdorffLength", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_hausdorff_negation", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "Erdos1041.Counterexample.erdos1041_counterexample", "via": ["solution"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierAlgebra", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierGraphs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_BarrierSigns", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_Bottleneck", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceBarriers", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceConnectivity", "via": ["solution", "statement"]}
+{"parent": "Erdos1041.Counterexample.erdos1041_no_short_variation_path", "child": "ErdosProblems_Erdos1041_Counterexample_InstanceCritical", "via": ["solution", "statement"]}
 {"parent": "Erdos1041.Counterexample.s2_covering_injective", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
 {"parent": "Erdos1041.Counterexample.s2_isClosedEmbedding_componentIn_inclusion", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
 {"parent": "Erdos1041.Counterexample.s2_isCoveringMap_of_isProperMap_of_isLocalHomeomorph", "child": "ErdosProblems_Erdos1041_Counterexample_Defs", "via": ["solution", "statement"]}
@@ -12435,19 +12469,25 @@
 {"parent": "ErdosProblems.Erdos243.CoefficientDivisorFence.stays_below_fence", "child": "ErdosProblems.Erdos243.CoefficientDivisorFence.no_jump_through_fence", "via": ["solution"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.covering_of_crt_block", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.covering_of_crt_block", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["solution", "statement"]}
-{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_card_le_excess", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_card_le_excess", "child": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_spacing", "via": ["solution"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_card_le_excess", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_card_le_excess", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_spacing", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_spacing", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["solution", "statement"]}
-{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.exists_crt_covering_progression", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.exists_crt_covering_progression", "child": "ErdosProblems.Erdos243.LcmRecordCrossing.covering_of_crt_block", "via": ["solution"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.exists_crt_covering_progression", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.exists_crt_covering_progression", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.exists_unique_firstCrossing", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.exists_unique_firstCrossing", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["solution", "statement"]}
-{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.finite_record_weighted_bound", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.finite_record_weighted_bound", "child": "ErdosProblems.Erdos243.LcmRecordCrossing.crossed_progression_card_le_excess", "via": ["solution"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.finite_record_weighted_bound", "child": "ErdosProblems.Erdos243.LcmRecordCrossing.sum_firstCrossing_partition", "via": ["solution"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.finite_record_weighted_bound", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.finite_record_weighted_bound", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.not_summable_recordExcessWeight_of_progression", "child": "ErdosProblems.Erdos243.LcmRecordCrossing.finite_record_weighted_bound", "via": ["solution"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.not_summable_recordExcessWeight_of_progression", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["statement"]}
-{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.not_summable_recordExcessWeight_of_progression", "child": "ErdosProblems_Erdos243_LcmRecordDivergence", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.not_summable_recordExcessWeight_of_progression", "child": "ErdosProblems_Erdos243_LcmRecordDivergence", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.not_summable_recordExcessWeight_of_progression", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.sum_firstCrossing_partition", "child": "ErdosProblems.Erdos243.LcmRecordCrossing.exists_unique_firstCrossing", "via": ["solution"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.sum_firstCrossing_partition", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.sum_firstCrossing_partition", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["statement"]}
 {"parent": "ErdosProblems.Erdos243.PaperCompleteR11.LowerDensityAtLeast.mono_bound", "child": "ErdosProblems_Erdos243_PaperCompleteR11_WindowIncidence", "via": ["solution", "statement"]}
@@ -24094,12 +24134,14 @@
 {"parent": "FedAvg.PerRoundProgress", "child": "FedAvg_Model", "via": ["solution", "statement"]}
 {"parent": "FedAvg.TunedConvexFedAvgConvergence", "child": "FedAvg.ConvexFedAvgConvergence", "via": ["solution"]}
 {"parent": "FedAvg.TunedConvexFedAvgConvergence", "child": "FedAvg_Model", "via": ["solution", "statement"]}
+{"parent": "FedRemoval.CorrectedMeanSquareRemovalBound", "child": "FedRemoval.RemovalErrorIdentity", "via": ["solution"]}
+{"parent": "FedRemoval.CorrectedMeanSquareRemovalBound", "child": "FedRemoval.SurrogateGap", "via": ["solution"]}
 {"parent": "FedRemoval.CorrectedMeanSquareRemovalBound", "child": "FedRemoval_Model", "via": ["statement"]}
-{"parent": "FedRemoval.ExactNewtonRemoval", "child": "FedRemoval_Model", "via": ["statement"]}
-{"parent": "FedRemoval.InversePerturbation", "child": "FedRemoval_Model", "via": ["statement"]}
-{"parent": "FedRemoval.RemovalErrorIdentity", "child": "FedRemoval_Model", "via": ["statement"]}
-{"parent": "FedRemoval.RidgeStructure", "child": "FedRemoval_Model", "via": ["statement"]}
-{"parent": "FedRemoval.SurrogateGap", "child": "FedRemoval_Model", "via": ["statement"]}
+{"parent": "FedRemoval.ExactNewtonRemoval", "child": "FedRemoval_Model", "via": ["solution", "statement"]}
+{"parent": "FedRemoval.InversePerturbation", "child": "FedRemoval_Model", "via": ["solution", "statement"]}
+{"parent": "FedRemoval.RemovalErrorIdentity", "child": "FedRemoval_Model", "via": ["solution", "statement"]}
+{"parent": "FedRemoval.RidgeStructure", "child": "FedRemoval_Model", "via": ["solution", "statement"]}
+{"parent": "FedRemoval.SurrogateGap", "child": "FedRemoval_Model", "via": ["solution", "statement"]}
 {"parent": "FermatPosition.card_filter_dvd", "child": "FermatPosition.window_card_eq_zmod", "via": ["solution"]}
 {"parent": "FermatPosition.card_filter_dvd", "child": "NumberTheory_FermatPositionDensity", "via": ["solution", "statement"]}
 {"parent": "FermatPosition.card_filter_dvd", "child": "NumberTheory_FermatPositionGeometry", "via": ["solution", "statement"]}
@@ -24321,8 +24363,8 @@
 {"parent": "ForkPinning.which_factor_wall", "child": "Probability_ForkPinningSemiprime", "via": ["solution", "statement"]}
 {"parent": "FourColor.catalogue_embeddable", "child": "FourColor_CompactCatalogue", "via": ["statement"]}
 {"parent": "FourColor.catalogue_reducibility_certificates", "child": "FourColor_CompactCatalogue", "via": ["statement"]}
-{"parent": "FourColor.charge_conservation", "child": "FourColor_Discharging", "via": ["statement"]}
-{"parent": "FourColor.cubic_normalization", "child": "FourColor_Hypermap", "via": ["statement"]}
+{"parent": "FourColor.charge_conservation", "child": "FourColor_Discharging", "via": ["solution", "statement"]}
+{"parent": "FourColor.cubic_normalization", "child": "FourColor_Hypermap", "via": ["solution", "statement"]}
 {"parent": "FourColor.dart_rotation_face_realization", "child": "FourColor_GraphRotation", "via": ["solution", "statement"]}
 {"parent": "FourColor.degree_10_coverage", "child": "FourColor_CompactCatalogue", "via": ["statement"]}
 {"parent": "FourColor.degree_10_coverage", "child": "FourColor_DischargeRules", "via": ["statement"]}
@@ -24355,9 +24397,9 @@
 {"parent": "FourColor.graph_realization", "child": "FourColor.plane_drawing_dart_rotation", "via": ["solution"]}
 {"parent": "FourColor.graph_realization", "child": "FourColor_GraphBridge", "via": ["statement"]}
 {"parent": "FourColor.hypermap_four_color", "child": "FourColor_Hypermap", "via": ["statement"]}
-{"parent": "FourColor.minimal_counterexample_exists", "child": "FourColor_Hypermap", "via": ["statement"]}
+{"parent": "FourColor.minimal_counterexample_exists", "child": "FourColor_Hypermap", "via": ["solution", "statement"]}
 {"parent": "FourColor.minimal_counterexample_structure", "child": "FourColor_Hypermap", "via": ["statement"]}
-{"parent": "FourColor.mirror_minimal_counterexample", "child": "FourColor_Reflection", "via": ["statement"]}
+{"parent": "FourColor.mirror_minimal_counterexample", "child": "FourColor_Reflection", "via": ["solution", "statement"]}
 {"parent": "FourColor.no_minimal_counterexample", "child": "FourColor_Hypermap", "via": ["statement"]}
 {"parent": "FourColor.plane_drawing_dart_rotation", "child": "FourColor_GraphRotation", "via": ["statement"]}
 {"parent": "FourColor.reducible_configuration_exclusion", "child": "FourColor_Configuration", "via": ["statement"]}
@@ -26149,6 +26191,71 @@
 {"parent": "HilbertChess.escape_unbounded", "child": "Geometry_HilbertChessLines", "via": ["solution", "statement"]}
 {"parent": "HilbertChess.exists_safe_row", "child": "Geometry_HilbertChessLines", "via": ["solution", "statement"]}
 {"parent": "HilbertChess.mate_exists", "child": "Geometry_HilbertChessLines", "via": ["solution", "statement"]}
+{"parent": "Hirsch.additive_portal_repair_polynomial_route", "child": "Hirsch_additive_portal_repair", "via": ["solution", "statement"]}
+{"parent": "Hirsch.adj_of_synchronized_height_edges", "child": "Hirsch_scalar_fiber_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.balanced_hpoly_transfer", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.balanced_polynomial_bound", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.balanced_row_circuit_vertices_share_tight_row", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.balanced_row_circuit_vertices_share_tight_row", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.bounded_clip_diameter_le_outer_add_cut_face_add_one", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.bounded_clip_diameter_le_outer_add_cut_face_add_one", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.box_diameter_le_dimension", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.box_slice_diameter_le_dimension", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.clip_diameter_from_exterior_routes_without_strict_centre", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.clipped_diameter_le_outer_add_cut_face", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.closed_extreme_faces_shared_point_has_parent_vertex", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_checkpoint_localization", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_diamLE_of_coord_diamLE", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_eq_five", "child": "Hirsch.common_face_larman_diameter", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_eq_five", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_eq_four", "child": "Hirsch.common_face_larman_diameter", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_eq_four", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_ge_five", "child": "Hirsch.common_face_diameter_of_dim_eq_five", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_ge_five", "child": "Hirsch.common_face_diameter_of_dim_ge_six", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_ge_five", "child": "Hirsch_common_face_geometry", "via": ["statement"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_ge_four", "child": "Hirsch.common_face_diameter_of_dim_ge_five", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_ge_four", "child": "Hirsch.common_face_larman_diameter", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_ge_four", "child": "Hirsch_common_face_geometry", "via": ["statement"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_ge_six", "child": "Hirsch_common_face_geometry", "via": ["statement"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_le_three", "child": "Hirsch.dimension_three_bound", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_dim_le_three", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_diameter_of_effective_rows", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_diameter_of_effective_rows", "child": "Hirsch_model", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_subpresentation_excess_le_three", "child": "Hirsch.common_face_diamLE_of_coord_diamLE", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_subpresentation_excess_le_three", "child": "Hirsch.hpoly_diameter_le_excess_of_rows_le_dim_add_three", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_subpresentation_excess_le_three", "child": "Hirsch_common_face_geometry", "via": ["statement"]}
+{"parent": "Hirsch.common_face_diameter_of_subpresentation_excess_le_three", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.common_face_diameter_of_zero_one_coords", "child": "Hirsch.common_face_diamLE_of_coord_diamLE", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_zero_one_coords", "child": "Hirsch.zero_one_polytope_diameter_le_dimension", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_of_zero_one_coords", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_diameter_two_of_rows_le_dim_add_two", "child": "Hirsch.common_face_diamLE_of_coord_diamLE", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_two_of_rows_le_dim_add_two", "child": "Hirsch.hpoly_diameter_le_excess_of_rows_le_dim_add_three", "via": ["solution"]}
+{"parent": "Hirsch.common_face_diameter_two_of_rows_le_dim_add_two", "child": "Hirsch_common_face_geometry", "via": ["statement"]}
+{"parent": "Hirsch.common_face_diameter_two_of_rows_le_dim_add_two", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.common_face_dim_of_vertex_self_eq_zero", "child": "Hirsch_common_face_geometry", "via": ["statement"]}
+{"parent": "Hirsch.common_face_dimension_tradeoff", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_dimension_tradeoff", "child": "Hirsch_model", "via": ["solution"]}
+{"parent": "Hirsch.common_face_effective_count_le_rows_minus_common", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_effective_count_le_rows_minus_common", "child": "Hirsch_model", "via": ["solution"]}
+{"parent": "Hirsch.common_face_effective_subpresentation", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_has_full_subpresentation", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_has_subpresentation_faceDim_add_row_excess", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_larman_diameter", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.common_face_larman_diameter", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.common_face_sequence_route_bound_of_dim_le_three", "child": "Hirsch.common_face_diameter_of_dim_le_three", "via": ["solution"]}
+{"parent": "Hirsch.common_face_sequence_route_bound_of_dim_le_three", "child": "Hirsch.feasible_face_covered_sequence_route_bound", "via": ["solution"]}
+{"parent": "Hirsch.common_face_sequence_route_bound_of_dim_le_three", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.compact_extreme_face_contains_parent_vertex", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.crossing_cube_endpoint_certificate_insufficient", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.cubic_circuit_walk_bound", "child": "Hirsch_circuit_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.cubic_circuit_walk_bound", "child": "Hirsch_circuit_slack_model", "via": ["solution"]}
+{"parent": "Hirsch.cut_face_access_of_outer_diameter", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.cut_face_access_of_unbounded_outer_diameter", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.cut_face_access_of_unbounded_outer_diameter", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.diamLE_le_section_diamLE_of_n_lt_two_d", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.diamLE_of_vertex_listing", "child": "Hirsch.graph_connected_general", "via": ["solution"]}
+{"parent": "Hirsch.diamLE_of_vertex_listing", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.diamLE_prod", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.dimension_three_bound", "child": "Hirsch.dimension_two_bound", "via": ["solution"]}
 {"parent": "Hirsch.dimension_three_bound", "child": "Hirsch.klee_three_dimensional_bound", "via": ["solution"]}
 {"parent": "Hirsch.dimension_three_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
@@ -26158,19 +26265,52 @@
 {"parent": "Hirsch.dimension_two_bound", "child": "LinearOptimization.lp_basic_solutions_finite", "via": ["solution"]}
 {"parent": "Hirsch.dimension_two_bound", "child": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "via": ["solution"]}
 {"parent": "Hirsch.dimension_two_bound", "child": "Vertex", "via": ["solution"]}
+{"parent": "Hirsch.extreme_face_cut_route_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.face_connected", "child": "ActiveConstraints", "via": ["solution"]}
 {"parent": "Hirsch.face_connected", "child": "BasicSolution", "via": ["solution"]}
 {"parent": "Hirsch.face_connected", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.face_connected", "child": "LinearOptimization.lp_basic_solutions_finite", "via": ["solution"]}
 {"parent": "Hirsch.face_connected", "child": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "via": ["solution"]}
 {"parent": "Hirsch.face_connected", "child": "Vertex", "via": ["solution"]}
+{"parent": "Hirsch.face_interval_cover_route_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.face_interval_cover_route_bound_of_active_containment", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.face_interval_cover_route_bound_of_feasible_active_containment", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.face_interval_cover_route_bound_of_feasible_start_containment", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.face_interval_cover_route_bound_of_start_containment", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.face_preserving_vertex_selection", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.facet_reduction", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.feasible_face_covered_sequence_route_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.feasible_point_has_face_preserving_parent_vertex", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.five_spindle_length_six", "child": "Hirsch.q28_polar_no_length_five_walk", "via": ["solution"]}
+{"parent": "Hirsch.five_spindle_length_six", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.five_spindle_length_six", "child": "Hirsch_q28", "via": ["solution"]}
+{"parent": "Hirsch.geodesic_face_cover_diameter_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.geodesic_face_disjoint_tail_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.given_supporting_face_access_of_boundary_product_factors", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.given_supporting_face_access_of_boundary_product_factors", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.given_supporting_face_access_of_boundary_residual_rank", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.given_supporting_face_access_of_boundary_residual_rank", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.graph_connected_general", "child": "ActiveConstraints", "via": ["solution"]}
 {"parent": "Hirsch.graph_connected_general", "child": "BasicSolution", "via": ["solution"]}
 {"parent": "Hirsch.graph_connected_general", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.graph_connected_general", "child": "LinearOptimization.lp_basic_solutions_finite", "via": ["solution"]}
 {"parent": "Hirsch.graph_connected_general", "child": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "via": ["solution"]}
 {"parent": "Hirsch.graph_connected_general", "child": "Vertex", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_and_row_faces_diamLE_two_of_normal_relations", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_independent_small_row_blocks", "child": "Hirsch.hpoly_diameter_le_excess_of_rows_le_dim_add_three", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_independent_small_row_blocks", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_projectively_hidden_small_row_blocks", "child": "Hirsch.hpoly_diameter_le_excess_of_independent_small_row_blocks", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_projectively_hidden_small_row_blocks", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_recursive_projective_products", "child": "Hirsch.hpoly_diameter_le_excess_of_rows_le_dim_add_three", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_recursive_projective_products", "child": "Hirsch_recursive_projective_products", "via": ["solution", "statement"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_rows_le_dim_add_three", "child": "Hirsch.dimension_three_bound", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_rows_le_dim_add_three", "child": "Hirsch.facet_reduction", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_diameter_le_excess_of_rows_le_dim_add_three", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.hpoly_diameter_le_fixed_excess_larman", "child": "Hirsch.facet_reduction", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_diameter_le_fixed_excess_larman", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.hpoly_diameter_le_fixed_excess_larman", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.injective_affine_image_diameter_iff", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.irredundant_rows_card_le_any_equivalent_presentation", "child": "Hirsch_circuit_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.kalai_kleitman_bound", "child": "ActiveConstraints", "via": ["solution"]}
 {"parent": "Hirsch.kalai_kleitman_bound", "child": "BasicSolution", "via": ["solution"]}
 {"parent": "Hirsch.kalai_kleitman_bound", "child": "Hirsch.graph_connected_general", "via": ["solution"]}
@@ -26192,7 +26332,13 @@
 {"parent": "Hirsch.klee_three_dimensional_bound", "child": "LinearOptimization.lp_basic_solutions_finite", "via": ["solution"]}
 {"parent": "Hirsch.klee_three_dimensional_bound", "child": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "via": ["solution"]}
 {"parent": "Hirsch.klee_three_dimensional_bound", "child": "Vertex", "via": ["solution"]}
-{"parent": "Hirsch.larman_bound", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.larman_bound", "child": "Hirsch.dimension_three_bound", "via": ["solution"]}
+{"parent": "Hirsch.larman_bound", "child": "Hirsch.larman_high_dimension", "via": ["solution"]}
+{"parent": "Hirsch.larman_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.larman_high_dimension", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.maximal_row_circuit_step_common_face_bound", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.maximal_row_circuit_step_common_face_bound", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.mixed_repair_route_or_cut", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.naddef_zero_one_bound", "child": "ActiveConstraints", "via": ["solution"]}
 {"parent": "Hirsch.naddef_zero_one_bound", "child": "BasicSolution", "via": ["solution"]}
 {"parent": "Hirsch.naddef_zero_one_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
@@ -26200,6 +26346,8 @@
 {"parent": "Hirsch.naddef_zero_one_bound", "child": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "via": ["solution"]}
 {"parent": "Hirsch.naddef_zero_one_bound", "child": "Vertex", "via": ["solution"]}
 {"parent": "Hirsch.nonzero_supporting_row_of_distinct_extremes", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.normalized_two_moment_slice_diameter_two", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.ordered_damage_repair_exact", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.plane_bound_general", "child": "ActiveConstraints", "via": ["solution"]}
 {"parent": "Hirsch.plane_bound_general", "child": "BasicSolution", "via": ["solution"]}
 {"parent": "Hirsch.plane_bound_general", "child": "Hirsch.graph_connected_general", "via": ["solution"]}
@@ -26207,10 +26355,133 @@
 {"parent": "Hirsch.plane_bound_general", "child": "LinearOptimization.lp_basic_solutions_finite", "via": ["solution"]}
 {"parent": "Hirsch.plane_bound_general", "child": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "via": ["solution"]}
 {"parent": "Hirsch.plane_bound_general", "child": "Vertex", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_access_to_given_supporting_face", "child": "Hirsch.cubic_circuit_walk_bound", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_access_to_given_supporting_face", "child": "Hirsch.polynomial_edge_refinement_of_circuit_walks", "via": ["solution"]}
 {"parent": "Hirsch.polynomial_access_to_given_supporting_face", "child": "Hirsch_model", "via": ["statement"]}
-{"parent": "Hirsch.polynomial_hirsch_conjecture", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks", "child": "Hirsch.dimension_three_bound", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks", "child": "Hirsch.polynomial_edge_refinement_of_circuit_walks_dim_ge_four", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks", "child": "Hirsch_circuit_model", "via": ["statement"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_dim_ge_four", "child": "Hirsch.common_face_sequence_route_bound_of_dim_le_three", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_dim_ge_four", "child": "Hirsch.polynomial_edge_refinement_of_circuit_walks_of_high_carrier", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_dim_ge_four", "child": "Hirsch_circuit_model", "via": ["statement"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_of_high_carrier", "child": "Hirsch.common_face_diameter_of_dim_ge_four", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_of_high_carrier", "child": "Hirsch.common_face_diameter_of_dim_le_three", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_of_high_carrier", "child": "Hirsch.feasible_face_covered_sequence_route_bound", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_of_high_carrier", "child": "Hirsch_circuit_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.polynomial_edge_refinement_of_circuit_walks_of_high_carrier", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.polynomial_hirsch_conjecture", "child": "Hirsch.balanced_hpoly_transfer", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_hirsch_conjecture", "child": "Hirsch.balanced_polynomial_bound", "via": ["solution"]}
+{"parent": "Hirsch.polynomial_hirsch_conjecture", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.positive_feedback_box_diameter_le_dimension", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_adj_to_orbit", "child": "Hirsch.q28_cardAt_eq_popcount_high", "via": ["solution"]}
+{"parent": "Hirsch.q28_adj_to_orbit", "child": "Hirsch.q28_cardAt_eq_popcount_low", "via": ["solution"]}
+{"parent": "Hirsch.q28_adj_to_orbit", "child": "Hirsch.q28_extreme_classification", "via": ["solution"]}
+{"parent": "Hirsch.q28_adj_to_orbit", "child": "Hirsch.q28_finite_certificate", "via": ["solution"]}
+{"parent": "Hirsch.q28_adj_to_orbit", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_adj_to_orbit", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_adj_to_orbit", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_cardAt_eq_popcount_high", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_cardAt_eq_popcount_low", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_basis_certificate", "child": "Hirsch.q28_chamber_ranks_high", "via": ["solution"]}
+{"parent": "Hirsch.q28_chamber_basis_certificate", "child": "Hirsch.q28_chamber_ranks_low", "via": ["solution"]}
+{"parent": "Hirsch.q28_chamber_basis_certificate", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_basis_certificate", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_basis_certificate", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_0_1099", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_0_1099", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_0_1099", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_high", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_high", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_high", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_low", "child": "Hirsch.q28_chamber_ranks_0_1099", "via": ["solution"]}
+{"parent": "Hirsch.q28_chamber_ranks_low", "child": "Hirsch.q28_combinadic_unrank", "via": ["solution"]}
+{"parent": "Hirsch.q28_chamber_ranks_low", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_low", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_chamber_ranks_low", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_combinadic_unrank", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_combinadic_unrank", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_combinadic_unrank", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_extreme_classification", "child": "Hirsch.q28_finite_certificate", "via": ["solution"]}
+{"parent": "Hirsch.q28_extreme_classification", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_extreme_classification", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_extreme_classification", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_finite_certificate", "child": "Hirsch.q28_chamber_basis_certificate", "via": ["solution"]}
+{"parent": "Hirsch.q28_finite_certificate", "child": "Hirsch.q28_quotient_lipschitz", "via": ["solution"]}
+{"parent": "Hirsch.q28_finite_certificate", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_finite_certificate", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_finite_certificate", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_polar_no_length_five_walk", "child": "Hirsch.q28_polar_no_length_three_between_links", "via": ["solution"]}
+{"parent": "Hirsch.q28_polar_no_length_five_walk", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_polar_no_length_five_walk", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_polar_no_length_three_between_links", "child": "Hirsch.q28_finite_certificate", "via": ["solution"]}
+{"parent": "Hirsch.q28_polar_no_length_three_between_links", "child": "Hirsch.q28_polar_orbit_identification", "via": ["solution"]}
+{"parent": "Hirsch.q28_polar_no_length_three_between_links", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_polar_no_length_three_between_links", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_polar_no_length_three_between_links", "child": "Hirsch_q28_cert", "via": ["solution"]}
+{"parent": "Hirsch.q28_polar_orbit_identification", "child": "Hirsch.q28_adj_to_orbit", "via": ["solution"]}
+{"parent": "Hirsch.q28_polar_orbit_identification", "child": "Hirsch.q28_extreme_classification", "via": ["solution"]}
+{"parent": "Hirsch.q28_polar_orbit_identification", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_polar_orbit_identification", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_polar_orbit_identification", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_quotient_lipschitz", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_quotient_lipschitz", "child": "Hirsch_q28", "via": ["solution", "statement"]}
+{"parent": "Hirsch.q28_quotient_lipschitz", "child": "Hirsch_q28_cert", "via": ["solution", "statement"]}
+{"parent": "Hirsch.rank_selected_row_face_diameter_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.reentry_splice_through_extreme_face", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.relaxation_no_new_neighbours", "child": "Hirsch_model", "via": ["solution", "statement"]}
-{"parent": "Hirsch.santos_counterexample", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.ridge_visible_neighbor_of_n_eq_two_d_add_two", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.ridge_visible_neighbor_of_n_le_two_d_add_four", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.ridge_visible_neighbor_of_n_le_two_d_add_three", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.ridge_visible_neighbor_of_n_le_two_d_add_two", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.ridge_visible_of_n_le_two_d", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.route_of_faces_and_surviving_edges", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_checkpoint_localization", "child": "Hirsch_circuit_model", "via": ["statement"]}
+{"parent": "Hirsch.row_circuit_checkpoint_localization", "child": "Hirsch_common_face_geometry", "via": ["statement"]}
+{"parent": "Hirsch.row_circuit_common_face_dimension_bound", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_common_face_dimension_bound", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_common_face_neutral_rank", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_common_face_neutral_rank", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_common_face_selected_row_defect_budget", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_common_face_selected_row_defect_budget", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_common_face_subpresentation_excess_defect", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_common_face_subpresentation_excess_defect", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_selected_excess_defect_savings_identity", "child": "Hirsch_circuit_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_selected_excess_defect_savings_identity", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_selected_excess_defect_savings_identity", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_selected_excess_defect_savings_identity", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_step_adj_of_common_face_dim_le_one", "child": "Hirsch_circuit_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_step_adj_of_common_face_dim_le_one", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_step_swap_iff_tight_blockers", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.row_circuit_step_swap_iff_tight_blockers", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.santos_counterexample", "child": "Hirsch.five_spindle_length_six", "via": ["solution"]}
+{"parent": "Hirsch.santos_counterexample", "child": "Hirsch.strong_dstep_spindle", "via": ["solution"]}
+{"parent": "Hirsch.santos_counterexample", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.scalar_height_fiber_diameter_linear", "child": "Hirsch_scalar_fiber_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.scalar_height_fiber_monotone_path_bound", "child": "Hirsch_scalar_fiber_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.separated_common_face_split", "child": "Hirsch_common_face_geometry", "via": ["solution", "statement"]}
+{"parent": "Hirsch.separated_common_face_split", "child": "Hirsch_model", "via": ["solution"]}
+{"parent": "Hirsch.simultaneous_clip_diameter_from_finite_hpoly_far_cap", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.simultaneous_clip_diameter_from_pointed_finite_hpoly", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.simultaneous_clip_diameter_of_exterior_cap", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.simultaneous_clip_diameter_of_exterior_cap_without_strict_centre", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.simultaneous_clipping_diameter_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.simultaneous_clipping_diameter_of_compact_outer", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.spindle_n_ge_two_d", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.spindle_normalize", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.spindle_one_step", "child": "Hirsch.spindle_one_step_from_apex_facet", "via": ["solution"]}
+{"parent": "Hirsch.spindle_one_step", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.spindle_one_step_axis", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.spindle_one_step_from_apex_facet", "child": "Hirsch.spindle_normalize", "via": ["solution"]}
+{"parent": "Hirsch.spindle_one_step_from_apex_facet", "child": "Hirsch.spindle_one_step_axis", "via": ["solution"]}
+{"parent": "Hirsch.spindle_one_step_from_apex_facet", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.strong_dstep_spindle", "child": "Hirsch.spindle_n_ge_two_d", "via": ["solution"]}
+{"parent": "Hirsch.strong_dstep_spindle", "child": "Hirsch.spindle_one_step", "via": ["solution"]}
+{"parent": "Hirsch.strong_dstep_spindle", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.target_face_access_of_local_neutral_rank", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.target_face_access_of_local_neutral_rank", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.target_face_access_of_parallel_neutral_normals", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch.target_tight_outer_unique_vertex_zero_diameter", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.tight_rows_outside_subspace_cardinality_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
 {"parent": "Hirsch.todd_bound", "child": "ActiveConstraints", "via": ["solution"]}
 {"parent": "Hirsch.todd_bound", "child": "BasicSolution", "via": ["solution"]}
 {"parent": "Hirsch.todd_bound", "child": "Hirsch.graph_connected_general", "via": ["solution"]}
@@ -26219,6 +26490,24 @@
 {"parent": "Hirsch.todd_bound", "child": "LinearOptimization.lp_basic_solutions_finite", "via": ["solution"]}
 {"parent": "Hirsch.todd_bound", "child": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "via": ["solution"]}
 {"parent": "Hirsch.todd_bound", "child": "Vertex", "via": ["solution"]}
+{"parent": "Hirsch.vertex_exposing_redundant_row_extension", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.vertex_has_injective_target_tight_basis", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.vertex_strictly_slack_rows_card_le_row_excess", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.weighted_cover_improvement_requires_smaller_child", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.weighted_geodesic_face_cover_diameter_bound", "child": "Hirsch_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch.zero_one_polytope_diameter_le_dimension", "child": "Hirsch.larman_bound", "via": ["solution"]}
+{"parent": "Hirsch.zero_one_polytope_diameter_le_dimension", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "HirschCircuit.elementary_conformal_decomposition_ambient_bound", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "HirschCircuit.exists_irredundant_strict_model", "child": "Hirsch_circuit_model", "via": ["solution", "statement"]}
+{"parent": "HirschCircuit.rowCircuitWalk_mono", "child": "Hirsch_circuit_model", "via": ["solution", "statement"]}
+{"parent": "HirschCircuit.rowMap_injective_of_bounded", "child": "Hirsch_circuit_slack_model", "via": ["solution", "statement"]}
+{"parent": "Hirsch_circuit_model", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch_circuit_slack_model", "child": "Hirsch_circuit_model", "via": ["statement"]}
+{"parent": "Hirsch_common_face_geometry", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch_q28", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch_q28_cert", "child": "Hirsch_q28", "via": ["statement"]}
+{"parent": "Hirsch_recursive_projective_products", "child": "Hirsch_model", "via": ["statement"]}
+{"parent": "Hirsch_scalar_fiber_model", "child": "Hirsch_model", "via": ["statement"]}
 {"parent": "HoTT.UnivalenceData.not_inhabited", "child": "Geometry_HomotopyTypeTheory_Univalence", "via": ["solution", "statement"]}
 {"parent": "HodgeFullDecomposition.fullHodge_kernel", "child": "Speculative_AutoResearch_HodgeFullDecomposition", "via": ["solution", "statement"]}
 {"parent": "HoggattHierarchy.inv_factorial_strictLogConcave", "child": "Novelty_HoggattTrichotomy", "via": ["solution", "statement"]}
@@ -27343,6 +27632,10 @@
 {"parent": "KServer.chunk_combining_zero_floor_antitone", "child": "KServer_evader", "via": ["solution", "statement"]}
 {"parent": "KServer.chunk_combining_zero_floor_antitone", "child": "KServer_evader_bail", "via": ["solution", "statement"]}
 {"parent": "KServer.chunk_combining_zero_floor_antitone", "child": "KServer_model", "via": ["statement"]}
+{"parent": "KServer.chunk_expTotal_le_evader_cost_live", "child": "KServer_chunk_system_b", "via": ["solution", "statement"]}
+{"parent": "KServer.chunk_expTotal_le_evader_cost_live", "child": "KServer_evader", "via": ["solution", "statement"]}
+{"parent": "KServer.chunk_expTotal_le_evader_cost_live", "child": "KServer_evader_bail", "via": ["solution", "statement"]}
+{"parent": "KServer.chunk_expTotal_le_evader_cost_live", "child": "KServer_model", "via": ["solution", "statement"]}
 {"parent": "KServer.chunk_pad", "child": "KServer_absorb", "via": ["solution"]}
 {"parent": "KServer.chunk_pad", "child": "KServer_bail_append", "via": ["solution"]}
 {"parent": "KServer.chunk_pad", "child": "KServer_chunk_cond", "via": ["solution"]}
@@ -28907,7 +29200,7 @@
 {"parent": "KeplerMission.finite_container_of_annulus", "child": "Kepler_MissionContracts", "via": ["statement"]}
 {"parent": "KeplerMission.kepler_finite_container", "child": "Kepler_MissionContracts", "via": ["statement"]}
 {"parent": "KeplerMission.local_annulus_bound", "child": "Kepler_MissionContracts", "via": ["statement"]}
-{"parent": "KeplerMission.nonlinear_8055810915_valid", "child": "Kepler_NonlinearCatalogModel", "via": ["statement"]}
+{"parent": "KeplerMission.nonlinear_8055810915_valid", "child": "Kepler_NonlinearCatalogModel", "via": ["solution", "statement"]}
 {"parent": "KeplerMission.nonlinear_catalog_valid", "child": "KeplerMission.nonlinear_8055810915_valid", "via": ["solution"]}
 {"parent": "KeplerMission.nonlinear_catalog_valid", "child": "KeplerMission.nonlinear_linear_relaxation_catalog_valid", "via": ["solution"]}
 {"parent": "KeplerMission.nonlinear_catalog_valid", "child": "KeplerMission.nonlinear_ox3q1h_catalog_valid", "via": ["solution"]}
@@ -29531,8 +29824,8 @@
 {"parent": "LinearOptimization.integer_hull_is_polyhedron", "child": "LinearOptimization.integer_hull_is_finitely_generated", "via": ["solution"]}
 {"parent": "LinearOptimization.integer_hull_is_polyhedron", "child": "LinearOptimization_LagrangeanDual", "via": ["statement"]}
 {"parent": "LinearOptimization.integer_polyhedron_points_natGenerated", "child": "LinearOptimization_LagrangeanDual", "via": ["solution", "statement"]}
-{"parent": "LinearOptimization.integer_program_formulation_strength", "child": "LinearOptimization_MstRelaxations", "via": ["statement"]}
-{"parent": "LinearOptimization.integer_program_formulation_strength", "child": "Polyhedron", "via": ["statement"]}
+{"parent": "LinearOptimization.integer_program_formulation_strength", "child": "LinearOptimization_MstRelaxations", "via": ["solution", "statement"]}
+{"parent": "LinearOptimization.integer_program_formulation_strength", "child": "Polyhedron", "via": ["solution", "statement"]}
 {"parent": "LinearOptimization.integer_program_weak_lagrangean_duality", "child": "LinearOptimization_IntegerProgram", "via": ["solution", "statement"]}
 {"parent": "LinearOptimization.integer_program_weak_lagrangean_duality", "child": "LinearOptimization_LagrangeanDual", "via": ["solution", "statement"]}
 {"parent": "LinearOptimization.interior_point_kkt_sufficiency", "child": "LinearOptimization_LogBarrier_CentralPath", "via": ["solution", "statement"]}
@@ -29591,7 +29884,13 @@
 {"parent": "LinearOptimization.lp_strong_duality", "child": "LinearOptimization_DualLP", "via": ["statement"]}
 {"parent": "LinearOptimization.lp_unbounded_dual_infeasible", "child": "LinearOptimization.lp_weak_duality", "via": ["solution"]}
 {"parent": "LinearOptimization.lp_unbounded_dual_infeasible", "child": "LinearOptimization_DualLP", "via": ["solution", "statement"]}
-{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "LinearOptimization_RecessionCone", "via": ["statement"]}
+{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "ActiveConstraints", "via": ["solution"]}
+{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "BasicSolution", "via": ["solution"]}
+{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "ContainsLine", "via": ["solution"]}
+{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "FourierMotzkinStep", "via": ["solution"]}
+{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "LinearOptimization_RecessionCone", "via": ["solution", "statement"]}
+{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "Polyhedron", "via": ["solution"]}
+{"parent": "LinearOptimization.lp_unbounded_iff_extreme_ray", "child": "Vertex", "via": ["solution"]}
 {"parent": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "child": "BasicSolution", "via": ["solution", "statement"]}
 {"parent": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "child": "LinearOptimization.lp_active_constraint_equiv", "via": ["solution"]}
 {"parent": "LinearOptimization.lp_vertex_extreme_bfs_equiv", "child": "Vertex", "via": ["solution", "statement"]}
@@ -29612,7 +29911,7 @@
 {"parent": "LinearOptimization.network_flow_decomposition", "child": "LinearOptimization.positive_directed_cycle_of_circulation", "via": ["solution"]}
 {"parent": "LinearOptimization.network_flow_decomposition", "child": "LinearOptimization.traversalVector_isCirculation_of_isCycle", "via": ["solution"]}
 {"parent": "LinearOptimization.network_flow_decomposition", "child": "LinearOptimization_NetworkFlowProblem", "via": ["solution", "statement"]}
-{"parent": "LinearOptimization.network_flow_decomposition_including_zero", "child": "LinearOptimization_NetworkFlowProblem", "via": ["statement"]}
+{"parent": "LinearOptimization.network_flow_decomposition_including_zero", "child": "LinearOptimization_NetworkFlowProblem", "via": ["solution", "statement"]}
 {"parent": "LinearOptimization.network_flow_integrality", "child": "BasicSolution", "via": ["solution", "statement"]}
 {"parent": "LinearOptimization.network_flow_integrality", "child": "LinearOptimization.lp_standard_form_basic_iff", "via": ["solution"]}
 {"parent": "LinearOptimization.network_flow_integrality", "child": "LinearOptimization.network_basis_inverse_integer", "via": ["solution"]}
@@ -30330,6 +30629,7 @@
 {"parent": "MarkovAsymptoticVariance", "child": "MarkovIterKernel", "via": ["statement"]}
 {"parent": "MarkovChainCLT.abs_covariance_degenerate", "child": "MarkovChainCLT.cov_abs_le_sqrt_var", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.abs_covariance_degenerate", "child": "MixingCoefficients", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.abs_covariance_le_two_mul_sqrt_phiMixingCoef", "child": "MarkovChainCLT.indicator_cov_le_phi", "via": ["solution"]}
 {"parent": "MarkovChainCLT.abs_covariance_le_two_mul_sqrt_phiMixingCoef", "child": "MixingCoefficients", "via": ["statement"]}
 {"parent": "MarkovChainCLT.abs_exp_variance_sub_le_of_tendstoInDistribution", "child": "ProbabilityTheory.integral_cos_gaussianReal", "via": ["solution"]}
 {"parent": "MarkovChainCLT.abs_integral_mul_iterKernel_le", "child": "MarkovChainCLT.integral_mul_coord_eq", "via": ["solution"]}
@@ -30362,7 +30662,8 @@
 {"parent": "MarkovChainCLT.alphaMixingCoef_le_quarter_mul_rhoMixingCoef", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.alphaMixingCoef_map_pathMap", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.alphaMixingCoef_nonneg", "child": "MixingCoefficients", "via": ["solution", "statement"]}
-{"parent": "MarkovChainCLT.alpha_cov_bound_of_moment", "child": "MixingCoefficients", "via": ["statement"]}
+{"parent": "MarkovChainCLT.alpha_cov_bound_of_moment", "child": "MarkovChainCLT.alpha_cov_bounded", "via": ["solution"]}
+{"parent": "MarkovChainCLT.alpha_cov_bound_of_moment", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.alpha_cov_bounded", "child": "LayerCake.bounded_layercake_identity", "via": ["solution"]}
 {"parent": "MarkovChainCLT.alpha_cov_bounded", "child": "LayerCake.expectation_add_const", "via": ["solution"]}
 {"parent": "MarkovChainCLT.alpha_cov_bounded", "child": "MarkovChainCLT.alpha_indicator_cov_le", "via": ["solution"]}
@@ -30432,7 +30733,10 @@
 {"parent": "MarkovChainCLT.clt_iff_boundedInProbability", "child": "MarkovChainPathMeasure", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.clt_iff_boundedInProbability", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.clt_iff_boundedInProbability", "child": "MixingCoefficients", "via": ["solution", "statement"]}
-{"parent": "MarkovChainCLT.clt_iff_uniformlyIntegrable_of_alpha_mixing", "child": "MixingCoefficients", "via": ["statement"]}
+{"parent": "MarkovChainCLT.clt_iff_uniformlyIntegrable_of_alpha_mixing", "child": "MarkovChainCLT.alpha_cov_bounded", "via": ["solution"]}
+{"parent": "MarkovChainCLT.clt_iff_uniformlyIntegrable_of_alpha_mixing", "child": "MarkovChainCLT.alpha_indicator_cov_le", "via": ["solution"]}
+{"parent": "MarkovChainCLT.clt_iff_uniformlyIntegrable_of_alpha_mixing", "child": "MarkovChainCLT.processSigma_le_of_measurable", "via": ["solution"]}
+{"parent": "MarkovChainCLT.clt_iff_uniformlyIntegrable_of_alpha_mixing", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.clt_of_boundedInProbability", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.clt_of_boundedInProbability", "child": "MarkovErgodicity", "via": ["statement"]}
 {"parent": "MarkovChainCLT.clt_of_boundedInProbability", "child": "MixingCoefficients", "via": ["statement"]}
@@ -30568,7 +30872,10 @@
 {"parent": "MarkovChainCLT.integral_mul_coord_eq", "child": "MarkovChainPathMeasure", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.integral_mul_coord_eq", "child": "MarkovIterKernel", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.integral_pow_four_partialSum_le_of_bounded_of_exp_alpha", "child": "MixingCoefficients", "via": ["statement"]}
-{"parent": "MarkovChainCLT.integral_pow_four_scaled_sampleAvg_le", "child": "MarkovAsymptoticVariance", "via": ["statement"]}
+{"parent": "MarkovChainCLT.integral_pow_four_scaled_sampleAvg_le", "child": "MarkovAsymptoticVariance", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.integral_pow_four_scaled_sampleAvg_le", "child": "MarkovChainCLT.condExp_next_coord", "via": ["solution"]}
+{"parent": "MarkovChainCLT.integral_pow_four_scaled_sampleAvg_le", "child": "MarkovChainCLT.integral_sq_sum_mds_le", "via": ["solution"]}
+{"parent": "MarkovChainCLT.integral_pow_four_scaled_sampleAvg_le", "child": "MarkovChainCLT.poissonEquation_of_bounded_of_uniformlyErgodic", "via": ["solution"]}
 {"parent": "MarkovChainCLT.integral_pow_four_scaled_sampleAvg_le", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.integral_pow_four_scaled_sampleAvg_le", "child": "MarkovErgodicity", "via": ["statement"]}
 {"parent": "MarkovChainCLT.integral_sq_iterKernel_geom_le", "child": "MarkovChainCLT.condExp_coord_add", "via": ["solution"]}
@@ -30646,8 +30953,16 @@
 {"parent": "MarkovChainCLT.markov_chain_clt", "child": "MarkovChainCLT.clt_of_uniformly_ergodic", "via": ["solution"]}
 {"parent": "MarkovChainCLT.markov_chain_clt", "child": "MarkovChainPathMeasure", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.markov_chain_clt", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.abs_integral_sub_le_tvDist", "via": ["solution"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.chainMeasure_eq_comp_traj", "via": ["solution"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.chainMeasure_past_inter_future", "via": ["solution"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.clt_iff_uniformlyIntegrable_of_alpha_mixing", "via": ["solution"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.isStrictlyStationary_chainMeasure", "via": ["solution"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.map_coord_chainMeasure", "via": ["solution"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.processSigma_Ici_eq_comap_shift", "via": ["solution"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainCLT.processSigma_Iic_eq_comap_restrict", "via": ["solution"]}
 {"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovChainPathMeasure", "via": ["statement"]}
-{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovErgodicity", "via": ["statement"]}
+{"parent": "MarkovChainCLT.martingaleCLT_chain", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.measurable_tvDist_kernel", "child": "MarkovChainCLT.exists_countable_isSetRing_generateFrom", "via": ["solution"]}
 {"parent": "MarkovChainCLT.measurable_tvDist_kernel", "child": "MarkovChainCLT.tvDist_le_sSup_of_isSetRing", "via": ["solution"]}
 {"parent": "MarkovChainCLT.measurable_tvDist_kernel", "child": "TotalVariationDist", "via": ["statement"]}
@@ -30671,8 +30986,11 @@
 {"parent": "MarkovChainCLT.phiMixingCoef_le_of_tvDist_le", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.phiMixingCoef_le_of_tvDist_le", "child": "MarkovErgodicity", "via": ["statement"]}
 {"parent": "MarkovChainCLT.phiMixingCoef_le_of_tvDist_le", "child": "MixingCoefficients", "via": ["statement"]}
+{"parent": "MarkovChainCLT.poissonEquation_ae_of_uniformlyErgodic", "child": "MarkovChainCLT.exists_lag_tvDist_le_of_uniformlyErgodic", "via": ["solution"]}
+{"parent": "MarkovChainCLT.poissonEquation_ae_of_uniformlyErgodic", "child": "MarkovChainCLT.integral_sq_iterKernel_pow_le", "via": ["solution"]}
 {"parent": "MarkovChainCLT.poissonEquation_ae_of_uniformlyErgodic", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.poissonEquation_ae_of_uniformlyErgodic", "child": "MarkovErgodicity", "via": ["statement"]}
+{"parent": "MarkovChainCLT.poissonEquation_ae_of_uniformlyErgodic", "child": "MarkovIterKernel", "via": ["solution"]}
 {"parent": "MarkovChainCLT.poissonEquation_of_bounded_of_uniformlyErgodic", "child": "MarkovChainCLT.abs_integral_sub_le_tvDist_of_bounded", "via": ["solution"]}
 {"parent": "MarkovChainCLT.poissonEquation_of_bounded_of_uniformlyErgodic", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.poissonEquation_of_bounded_of_uniformlyErgodic", "child": "MarkovIterKernel", "via": ["solution", "statement"]}
@@ -30759,6 +31077,9 @@
 {"parent": "MarkovChainCLT.tvDist_comp_le", "child": "TotalVariationDist", "via": ["statement"]}
 {"parent": "MarkovChainCLT.tvDist_comp_le_of_forall", "child": "TotalVariationDist", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.tvDist_le_sSup_of_isSetRing", "child": "TotalVariationDist", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_bounded_of_summable_alpha", "child": "MarkovChainCLT.clt_iff_uniformlyIntegrable_of_alpha_mixing", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_bounded_of_summable_alpha", "child": "MarkovChainCLT.clt_of_bounded_of_summable_alpha", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_bounded_of_summable_alpha", "child": "MarkovChainCLT.tendsto_inv_mul_integral_sq_partialSum", "via": ["solution"]}
 {"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_bounded_of_summable_alpha", "child": "MixingCoefficients", "via": ["statement"]}
 {"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_exp_alpha_of_log_moment", "child": "MarkovChainCLT.alphaMixingCoef_comp_nonneg_le_of_finite", "via": ["solution"]}
 {"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_exp_alpha_of_log_moment", "child": "MarkovChainCLT.exists_truncation_tail_variance_le_of_exp_alpha_of_log_moment", "via": ["solution"]}
@@ -30768,13 +31089,24 @@
 {"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_exp_alpha_of_log_moment", "child": "MarkovChainCLT.tendsto_inv_mul_integral_sq_partialSum", "via": ["solution"]}
 {"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_exp_alpha_of_log_moment", "child": "MeasureTheory.uniformIntegrable_one_of_sq_bounded_approx", "via": ["solution"]}
 {"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_exp_alpha_of_log_moment", "child": "MixingCoefficients", "via": ["solution", "statement"]}
-{"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_summable_rho", "child": "MixingCoefficients", "via": ["statement"]}
+{"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_summable_rho", "child": "MarkovChainCLT.var_partialSum_div_tendsto_of_summable_cov", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_summable_rho", "child": "MeasureTheory.tendsto_integral_sq_sub_truncation", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformIntegrable_sq_partialSum_of_summable_rho", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.uniformlyErgodic_phiMixing_exp", "child": "MarkovChainCLT.phiMixingCoef_le_of_tvDist_le", "via": ["solution"]}
 {"parent": "MarkovChainCLT.uniformlyErgodic_phiMixing_exp", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.uniformlyErgodic_phiMixing_exp", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.uniformlyErgodic_phiMixing_exp", "child": "MixingCoefficients", "via": ["statement"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.abs_integral_sub_le_tvDist_of_bounded", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.condExp_coord_add", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.exists_countable_isSetRing_generateFrom", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.indicator_cov_le_phi", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.map_coord_chainMeasure", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.measurable_tvDist_kernel", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.tvDist_le_sSup_of_isSetRing", "via": ["solution"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainCLT.uniformlyErgodic_phiMixing_exp", "via": ["solution"]}
 {"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovErgodicity", "via": ["statement"]}
+{"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MarkovIterKernel", "via": ["solution"]}
 {"parent": "MarkovChainCLT.uniformly_ergodic_iff_phi_mixing_ae", "child": "MixingCoefficients", "via": ["statement"]}
 {"parent": "MarkovChainCLT.var_partialSum_div_tendsto_of_summable_cov", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainKernel", "child": "GittinsIndex", "via": ["statement"]}
@@ -30783,7 +31115,7 @@
 {"parent": "MarkovEntanglement.agentwise_marginal_independence_implies_separable", "child": "markov_entanglement_multi", "via": ["solution", "statement"]}
 {"parent": "MarkovEntanglement.agentwise_value_locality_implies_separable", "child": "MarkovEntanglement.agentwise_marginal_independence_implies_separable", "via": ["solution"]}
 {"parent": "MarkovEntanglement.agentwise_value_locality_implies_separable", "child": "markov_entanglement_multi", "via": ["solution", "statement"]}
-{"parent": "MarkovEntanglement.cooperative_decomposition_error_with_reward_entanglement", "child": "markov_entanglement_multi", "via": ["statement"]}
+{"parent": "MarkovEntanglement.cooperative_decomposition_error_with_reward_entanglement", "child": "markov_entanglement_multi", "via": ["solution", "statement"]}
 {"parent": "MarkovEntanglement.cooperative_decomposition_error_with_reward_entanglement_local_transition", "child": "markov_entanglement_multi_atv", "via": ["solution", "statement"]}
 {"parent": "MarkovEntanglement.decomposition_error_atv_sup_bound", "child": "markov_entanglement_multi_atv", "via": ["solution", "statement"]}
 {"parent": "MarkovEntanglement.decomposition_error_atv_sup_bound_local_transition", "child": "markov_entanglement_multi_atv", "via": ["solution", "statement"]}
@@ -31072,6 +31404,7 @@
 {"parent": "MarkovMixing.wilson_method_nonvanishing", "child": "mm_spectral", "via": ["solution", "statement"]}
 {"parent": "Martingale.clt_of_bounded_mds_array", "child": "Martingale.norm_charFun_sub_const_le", "via": ["solution"]}
 {"parent": "Martingale.clt_of_bounded_mds_array", "child": "Martingale.tendstoInDistribution_gaussian_of_tendsto_charFun", "via": ["solution"]}
+{"parent": "Martingale.clt_of_mds", "child": "Martingale.clt_of_mds_array", "via": ["solution"]}
 {"parent": "Martingale.norm_charFun_sub_const_le", "child": "Martingale.expectation_prod_one_add", "via": ["solution"]}
 {"parent": "Martingale.norm_charFun_sub_const_le", "child": "Martingale.norm_exp_sum_div_prod_sub_gaussian_le", "via": ["solution"]}
 {"parent": "Martingale.norm_charFun_sub_const_le", "child": "Martingale.norm_prod_one_add_I_mul_bounds", "via": ["solution"]}
@@ -31579,6 +31912,9 @@
 {"parent": "MordellDenominators.padicValNat_den_of_eq_div", "child": "MordellDenominators.num_mul_den_eq", "via": ["solution"]}
 {"parent": "MordellDenominators.prime_dvd_den_of_eq_div", "child": "Cryptography_MordellDenominators_Basic", "via": ["solution", "statement"]}
 {"parent": "MordellDenominators.prime_dvd_den_of_eq_div", "child": "MordellDenominators.num_mul_den_eq", "via": ["solution"]}
+{"parent": "MovingSofa.GerversSofa.ABphiThetaSpec.existsUnique", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
 {"parent": "MukaiTameness.mukaiOrder_tame", "child": "Novelty_MukaiTameness", "via": ["solution", "statement"]}
 {"parent": "MultiHeadPlumbing.residual_injective_of_lipschitz", "child": "MachineLearning_TransformerUniversality_MultiHeadPlumbing", "via": ["solution", "statement"]}
 {"parent": "MultiPrime.card_goodMulti", "child": "Geometry_SingularModuliMultiPrime", "via": ["solution", "statement"]}
@@ -37358,6 +37694,22 @@
 {"parent": "Round7Rho.uniform_multiples_card", "child": "Tropical_Round7RhoNoiseFloor", "via": ["solution", "statement"]}
 {"parent": "Round7ZDG.vertices_eq_wing_union", "child": "Tropical_Round7ZeroDivisorGraph", "via": ["solution", "statement"]}
 {"parent": "Round7ZDG.wing_eq_image", "child": "Tropical_Round7ZeroDivisorGraph", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.aligned_diagonal_pair_contraction", "child": "RybinAI2026.P01.diagonal_pair_G_ratio_identity", "via": ["solution"]}
+{"parent": "RybinAI2026.P01.aligned_diagonal_pair_contraction", "child": "RybinAI2026.P01.diagonal_pair_contraction_from_envelopes", "via": ["solution"]}
+{"parent": "RybinAI2026.P01.aligned_diagonal_pair_contraction", "child": "RybinAI2026.P01.diagonal_pair_high_ratio_bounds", "via": ["solution"]}
+{"parent": "RybinAI2026.P01.aligned_diagonal_pair_contraction", "child": "RybinAI2026.P01.diagonal_pair_low_ratio_bounds", "via": ["solution"]}
+{"parent": "RybinAI2026.P01.aligned_diagonal_pair_contraction", "child": "RybinAI2026.P01.psi_fractional_order_properties", "via": ["solution"]}
+{"parent": "RybinAI2026.P01.diagonal_angle_sin_integral_formula", "child": "RybinAI2026.P01.diagonal_angle_integral_formula", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.diagonal_pair_G_ratio_identity", "child": "RybinAI2026.P01.psi_integral_pos", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.diagonal_pair_contraction_from_envelopes", "child": "RybinAI2026.P01.diagonal_pair_coefficient_bound", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.diagonal_pair_high_ratio_bounds", "child": "RybinAI2026.P01.ratio_bound_of_slope_weight_antitone", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.diagonal_pair_ratio_from_envelopes", "child": "RybinAI2026.P01.diagonal_pair_coefficient_bound", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.psi_fractional_order_properties", "child": "RybinAI2026.P01.fractional_kernel_pointwise_order", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.psi_fractional_order_properties", "child": "RybinAI2026.P01.psi_fractional_kernel_representation", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.psi_fractional_order_properties", "child": "RybinAI2026.P01.psi_integral_pos", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.psi_ge_inv_sqrt_of_one_lt", "child": "RybinAI2026.P01.arctan_lower_slope", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.psi_le_inv_sqrt_of_lt_one", "child": "RybinAI2026.P01.artanh_upper_slope", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.psi_log_slope_bound_of_ode", "child": "RybinAI2026.P01.eta_envelope_of_sqrt_comparison", "via": ["solution", "statement"]}
 {"parent": "RybinAI2026.P16.base_five_partial_hadamards", "child": "RybinAI2026.P16.base_four_partial_hadamards", "via": ["solution"]}
 {"parent": "RybinAI2026.P16.base_five_partial_hadamards", "child": "RybinAI2026.P16.extend_four_to_five_partial_hadamards", "via": ["solution"]}
 {"parent": "S42Independence.S42_sound", "child": "Logic_Multiverse_InvariantFragment", "via": ["solution", "statement"]}
@@ -47358,7 +47710,22 @@
 {"parent": "linear_neumann_diagonal_base_entry_sup_norm_bound_min_dim", "child": "linear_neumann_diagonal_base_entry_sup_norm_bound_by_sign_entry_min_dim", "via": ["solution"]}
 {"parent": "linear_neumann_diagonal_base_entry_sup_norm_bound_min_dim", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "linear_neumann_diagonal_centered_as_fixed_matrix_fluctuation", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
-{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "bernoulli_moment_bound_from_symmetrization_and_auxiliary_moment_bound", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "centered_sampling_independent_copy_rademacher_symmetrization_of_sample_ratio", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "centered_sampling_jensen_pointwise_independent_copy_bound_of_sample_ratio", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "centered_sampling_log_moment_beta_scale_from_khintchine_scale", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "fixed_matrix_log_moment_scale_absorbs_markov_failure_factor", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "linear_neumann_diagonal_centered_as_fixed_matrix_fluctuation", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "linear_neumann_lambda_sample_lower_implies_fixed_matrix_sample_lower", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "matrix_completion_basic", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "matrix_completion_rademacher", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "matrix_completion_sampled_counts", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "matrix_completion_svd", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "matrix_completion_tangent", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "rademacher_sampled_difference_moment_le_single_sample_moment_of_sample_ratio", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "child": "rademacher_sampled_matrix_moment_from_row_column_energy_2pN", "via": ["solution"]}
 {"parent": "linear_neumann_diagonal_centered_contribution_under_general_sample_bound", "child": "fixed_matrix_centered_sampling_spectral_bound", "via": ["solution"]}
 {"parent": "linear_neumann_diagonal_centered_contribution_under_general_sample_bound", "child": "general_sample_bound_implies_lemma66_density_bound", "via": ["solution"]}
 {"parent": "linear_neumann_diagonal_centered_contribution_under_general_sample_bound", "child": "linear_neumann_diagonal_base_entry_sup_norm_bound_min_dim", "via": ["solution"]}
@@ -47374,7 +47741,9 @@
 {"parent": "linear_neumann_diagonal_centered_fixed_matrix_sampling_transfer_under_general_sample_bound", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "linear_neumann_diagonal_centered_fixed_matrix_sampling_transfer_under_general_sample_bound", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
 {"parent": "linear_neumann_diagonal_centered_general_sample_threshold_from_min_dim_base_bound", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
-{"parent": "linear_neumann_diagonal_centered_threshold_from_centered_sampling_bound", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "linear_neumann_diagonal_centered_threshold_from_centered_sampling_bound", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
+{"parent": "linear_neumann_diagonal_centered_threshold_from_centered_sampling_bound", "child": "matrix_completion_svd", "via": ["solution"]}
+{"parent": "linear_neumann_diagonal_centered_threshold_from_centered_sampling_bound", "child": "matrix_completion_tangent", "via": ["solution"]}
 {"parent": "linear_neumann_diagonal_contribution_bound_from_centered_and_mean_bounds", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "linear_neumann_diagonal_contribution_small_with_lambda", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
 {"parent": "linear_neumann_diagonal_contribution_small_with_lambda", "child": "linear_neumann_diagonal_centered_contribution_small_with_lambda", "via": ["solution"]}
@@ -47426,7 +47795,16 @@
 {"parent": "linear_neumann_off_diagonal_coefficient_bound_from_lemma66_min_dim_base_bounds", "child": "linear_neumann_off_diagonal_two_term_min_dim_bernstein_threshold_absorbed_under_general_sample_bound", "via": ["solution"]}
 {"parent": "linear_neumann_off_diagonal_coefficient_bound_from_lemma66_min_dim_base_bounds", "child": "linear_neumann_offdiag_bernstein", "via": ["solution", "statement"]}
 {"parent": "linear_neumann_off_diagonal_coefficient_bound_from_lemma66_min_dim_base_bounds", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "bernoulli_uniform_bound_over_matrix_indices_from_shifted_pointwise_tails", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "linear_neumann_off_diagonal_coefficient_base_entry_sup_norm_bound_min_dim", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "linear_neumann_off_diagonal_coefficient_base_frobenius_norm_bound_min", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "linear_neumann_off_diagonal_coefficient_entry_as_centered_scalar_fluctuation", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "linear_neumann_off_diagonal_coefficient_pointwise_two_term_tail_from_min_dim_base_bounds", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "linear_neumann_offdiag_bernstein", "via": ["solution"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "matrix_completion_basic", "via": ["solution"]}
 {"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "child": "matrix_completion_svd", "via": ["solution"]}
 {"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda_fix", "child": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda", "via": ["solution"]}
 {"parent": "linear_neumann_off_diagonal_coefficient_bound_small_with_lambda_fix", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "linear_neumann_off_diagonal_coefficient_bound_under_general_sample_bound", "child": "linear_neumann_off_diagonal_coefficient_base_entry_sup_norm_bound_min_dim", "via": ["solution"]}
@@ -48030,9 +48408,11 @@
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_as_centered_scalar_fluctuation", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_base_bounds", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_base_bounds", "child": "scalar_centered_sampling_bernstein_lambda_half_tail_from_quadratic_base_bounds", "via": ["solution"]}
-{"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_base_bounds_min_dim", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_base_bounds_min_dim", "child": "linear_neumann_offdiag_bernstein", "via": ["solution"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_base_bounds_min_dim", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_structural_a0_min_dim", "child": "a0_implies_default_a1_parameter", "via": ["solution"]}
-{"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_structural_a0_min_dim", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_structural_a0_min_dim", "child": "linear_neumann_offdiag_bernstein", "via": ["solution"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_structural_a0_min_dim", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_structural_a0_min_dim", "child": "quadratic_neumann_all_distinct_inner_base_entry_sup_norm_bound_min_dim", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_structural_a0_min_dim", "child": "quadratic_neumann_all_distinct_inner_base_frobenius_norm_bound_min_dim", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_structural_a0_min_dim", "child": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_base_bounds_min_dim", "via": ["solution"]}
@@ -48043,13 +48423,15 @@
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_uniform_two_term_event_honest_min_dim", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_uniform_two_term_event_honest_min_dim", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficient_uniform_two_term_event_honest_min_dim", "child": "scalar_centered_sampling_bernstein_tail_from_entry_frobenius_scales", "via": ["solution"]}
-{"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds", "child": "linear_neumann_offdiag_bernstein", "via": ["solution"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_mu1_scaled", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_mu1_scaled", "child": "bernoulli_uniform_coordinate_pair_bound_from_pointwise_tails_with_cardinality_factor", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_mu1_scaled", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_mu1_scaled", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_mu1_scaled", "child": "scalar_centered_sampling_bernstein_tail_from_entry_frobenius_scales", "via": ["solution"]}
-{"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_shifted", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_shifted", "child": "linear_neumann_offdiag_bernstein", "via": ["solution"]}
+{"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_shifted", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_shifted", "child": "quadratic_neumann_all_distinct_inner_coefficient_pointwise_tail_from_base_bounds_min_dim", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_min_dim_shifted", "child": "quadratic_neumann_all_distinct_inner_coefficients_uniform_from_shifted_pointwise_tails", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_inner_coefficients_from_base_bounds_shifted", "child": "matrix_completion_neumann", "via": ["statement"]}
@@ -48084,13 +48466,13 @@
 {"parent": "quadratic_neumann_all_distinct_middle_coefficient_entry_sup_pair_event_honest_min_dim", "child": "scalar_centered_sampling_bernstein_tail_from_entry_frobenius_scales", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficient_pointwise_tail_from_base_bounds", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficient_pointwise_tail_from_base_bounds", "child": "scalar_centered_sampling_bernstein_tail_with_inner_scale_from_entry_frobenius_bounds", "via": ["solution"]}
-{"parent": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds_min_dim_shifted", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds_min_dim_shifted", "child": "bernoulli_uniform_coordinate_bound_from_pointwise_tails_with_cardinality_factor", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds_min_dim_shifted", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds_min_dim_shifted", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds_min_dim_shifted", "child": "scalar_centered_sampling_bernstein_tail_from_entry_frobenius_scales", "via": ["solution"]}
-{"parent": "quadratic_neumann_all_distinct_middle_coefficients_from_inner_base_bounds", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_all_distinct_middle_coefficients_from_inner_base_bounds", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_from_inner_base_bounds", "child": "quadratic_neumann_all_distinct_middle_coefficients_conditional_from_base_bounds", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_from_inner_base_bounds", "child": "quadratic_neumann_all_distinct_middle_pair_probability_from_inner_and_conditional_bound", "via": ["solution"]}
 {"parent": "quadratic_neumann_all_distinct_middle_coefficients_small_with_lambda", "child": "matrix_completion_neumann", "via": ["statement"]}
@@ -48364,7 +48746,10 @@
 {"parent": "quadratic_neumann_middle_index_distinct_centered_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_centered_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "child": "scalar_centered_sampling_bernstein_tail_from_entry_frobenius_scales", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_centered_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "child": "signed_kernel_square_bernstein_scale_compatibility_from_a0_sample_bound", "via": ["solution"]}
-{"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds", "child": "bernoulli_uniform_bound_over_matrix_indices_from_shifted_pointwise_tails", "via": ["solution"]}
+{"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
+{"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds", "child": "matrix_completion_svd", "via": ["solution"]}
+{"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds", "child": "scalar_centered_sampling_bernstein_tail_from_entry_frobenius_scales", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds_min_dim_shifted", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds_min_dim_shifted", "child": "quadratic_neumann_middle_index_distinct_centered_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_centered_coefficients_from_kernel_square_base_bounds_min_dim_shifted", "child": "quadratic_neumann_middle_index_distinct_centered_coefficients_uniform_from_shifted_pointwise_tails", "via": ["solution"]}
@@ -48423,7 +48808,7 @@
 {"parent": "quadratic_neumann_middle_index_distinct_mean_as_coefficient_sum", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_as_off_diagonal_response", "child": "matrix_completion_neumann_middle_response", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_as_centered_scalar_fluctuation", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
-{"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_bound_small_with_lambda", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_bound_small_with_lambda", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_bound_small_with_lambda_min_dim_shifted", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_bound_small_with_lambda_min_dim_shifted", "child": "quadratic_neumann_middle_index_distinct_kernel_square_base_entry_sup_norm_bound_min_dim", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_bound_small_with_lambda_min_dim_shifted", "child": "quadratic_neumann_middle_index_distinct_kernel_square_base_frobenius_norm_bound_min_dim", "via": ["solution"]}
@@ -48434,18 +48819,18 @@
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "child": "scalar_centered_sampling_bernstein_tail_from_entry_frobenius_scales", "via": ["solution"]}
-{"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_from_kernel_square_base_bounds", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_from_kernel_square_base_bounds", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_from_kernel_square_base_bounds_min_dim_shifted", "child": "matrix_completion_neumann", "via": ["statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_from_kernel_square_base_bounds_min_dim_shifted", "child": "quadratic_neumann_middle_index_distinct_mean_coefficient_pointwise_tail_from_kernel_square_base_bounds_min_dim", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_from_kernel_square_base_bounds_min_dim_shifted", "child": "quadratic_neumann_middle_index_distinct_mean_coefficients_uniform_from_shifted_pointwise_tails", "via": ["solution"]}
-{"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_section63_bound_under_general_sample_bound", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_section63_bound_under_general_sample_bound", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_uniform_from_shifted_pointwise_tails", "child": "bernoulli_uniform_bound_over_matrix_indices_from_shifted_pointwise_tails", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_uniform_from_shifted_pointwise_tails", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_coefficients_uniform_from_shifted_pointwise_tails", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_prefactor_bound_from_coefficient_bound", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_prefactor_bound_from_coefficient_bound", "child": "matrix_completion_svd", "via": ["solution"]}
 {"parent": "quadratic_neumann_middle_index_distinct_mean_prefactor_bound_from_coefficient_bound", "child": "matrix_completion_tangent", "via": ["solution"]}
-{"parent": "quadratic_neumann_middle_index_distinct_mean_response_sampling_section63_bound_under_general_sample_bound", "child": "matrix_completion_neumann_middle_response", "via": ["statement"]}
+{"parent": "quadratic_neumann_middle_index_distinct_mean_response_sampling_section63_bound_under_general_sample_bound", "child": "matrix_completion_neumann_middle_response", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_sample_lower_implies_fixed_matrix_sample_lower", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_section63_all_distinct_case_bound_under_general_sample_bound", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
 {"parent": "quadratic_neumann_section63_all_distinct_case_bound_under_general_sample_bound", "child": "matrix_completion_neumann", "via": ["statement"]}
@@ -48539,7 +48924,7 @@
 {"parent": "quadratic_neumann_section63_middle_index_distinct_centered_case_bound_under_general_sample_bound", "child": "quadratic_neumann_middle_index_distinct_centered_from_decoupled_section63_bound", "via": ["solution"]}
 {"parent": "quadratic_neumann_section63_middle_index_distinct_centered_case_bound_under_general_sample_bound", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
 {"parent": "quadratic_neumann_section63_middle_index_distinct_mean_case_bound_under_general_sample_bound", "child": "bernoulli_event_probability_mono", "via": ["solution"]}
-{"parent": "quadratic_neumann_section63_middle_index_distinct_mean_case_bound_under_general_sample_bound", "child": "matrix_completion_neumann", "via": ["statement"]}
+{"parent": "quadratic_neumann_section63_middle_index_distinct_mean_case_bound_under_general_sample_bound", "child": "matrix_completion_neumann", "via": ["solution", "statement"]}
 {"parent": "quadratic_neumann_section63_middle_index_distinct_mean_case_bound_under_general_sample_bound", "child": "quadratic_neumann_middle_index_distinct_mean_as_off_diagonal_response", "via": ["solution"]}
 {"parent": "quadratic_neumann_section63_middle_index_distinct_mean_case_bound_under_general_sample_bound", "child": "quadratic_neumann_middle_index_distinct_mean_response_sampling_section63_bound_under_general_sample_bound", "via": ["solution"]}
 {"parent": "quadratic_neumann_section63_middle_index_distinct_mean_case_bound_under_general_sample_bound", "child": "sample_ratio_between_zero_and_one", "via": ["solution"]}
@@ -48596,9 +48981,10 @@
 {"parent": "rademacher_sampled_matrix_moment_from_row_column_energy_2pN", "child": "conditional_khintchine_scale_moment_from_row_column_energy_moment_2pN", "via": ["solution"]}
 {"parent": "rademacher_sampled_matrix_moment_from_row_column_energy_2pN", "child": "matrix_completion_rademacher", "via": ["statement"]}
 {"parent": "rademacher_sampled_matrix_moment_from_row_column_energy_2pN", "child": "rademacher_sampled_matrix_conditional_khintchine_bound", "via": ["solution"]}
-{"parent": "rademacher_sampled_matrix_noncommutative_khintchine_diagonal_gram_bound_q2", "child": "matrix_completion_gram_schatten", "via": ["statement"]}
+{"parent": "rademacher_sampled_matrix_noncommutative_khintchine_diagonal_gram_bound_q2", "child": "matrix_completion_gram_schatten", "via": ["solution", "statement"]}
 {"parent": "rademacher_sampled_matrix_noncommutative_khintchine_diagonal_gram_bound_q2", "child": "rademacher_sampled_matrix_even_schatten_moment_trace_pairbound", "via": ["solution"]}
 {"parent": "rademacher_sampled_matrix_noncommutative_khintchine_diagonal_gram_bound_q2", "child": "rademacher_sampled_matrix_noncommutative_khintchine_q2_from_even_trace_pairbound", "via": ["solution"]}
+{"parent": "rademacher_sampled_matrix_noncommutative_khintchine_diagonal_gram_bound_q2", "child": "rademacher_sampled_matrix_schatten_moment_khintchine_q_ge_two_variance_scale", "via": ["solution"]}
 {"parent": "rademacher_sampled_matrix_noncommutative_khintchine_q2_from_even_trace_pairbound", "child": "buchholz_double_factorial_constant_bound", "via": ["solution"]}
 {"parent": "rademacher_sampled_matrix_noncommutative_khintchine_q2_from_even_trace_pairbound", "child": "matrix_completion_gram_schatten", "via": ["statement"]}
 {"parent": "rademacher_sampled_matrix_noncommutative_khintchine_q2_from_even_trace_pairbound", "child": "rademacher_expectation_monotone", "via": ["solution"]}
@@ -48870,7 +49256,7 @@
 {"parent": "second_order_prefactored_centered_sampling_quadratic_threshold_from_base_entry_scale", "child": "second_order_prefactored_centered_sampling_quadratic_prefactor_bound_from_base_entry_scale", "via": ["solution"]}
 {"parent": "second_order_prefactored_centered_sampling_quadratic_threshold_from_base_entry_scale", "child": "second_order_quadratic_base_entry_prefactor_absorbed_by_sample_lower", "via": ["solution"]}
 {"parent": "second_order_prefactored_centered_sampling_quadratic_threshold_from_base_entry_scale_geom_dim", "child": "matrix_completion_tangent", "via": ["solution", "statement"]}
-{"parent": "second_order_prefactored_centered_sampling_quadratic_threshold_from_base_entry_scale_min_dim", "child": "matrix_completion_tangent", "via": ["statement"]}
+{"parent": "second_order_prefactored_centered_sampling_quadratic_threshold_from_base_entry_scale_min_dim", "child": "matrix_completion_tangent", "via": ["solution", "statement"]}
 {"parent": "second_order_quadratic_base_entry_prefactor_absorbed_by_sample_lower", "child": "matrix_completion_tangent", "via": ["solution", "statement"]}
 {"parent": "semicube_helly2", "child": "Bridges_SemicubeHelly", "via": ["solution", "statement"]}
 {"parent": "sepLevelBounded_symm", "child": "Bridges_UltrametricProofCodeDuality", "via": ["solution", "statement"]}

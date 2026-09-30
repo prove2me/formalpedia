@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PsiPhi_complex_lift_is_homeomorph
 -- name    : PsiPhi.complex_lift_is_homeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T20:48:38.836474+00:00
 -- url     : https://prove2.me/theorems/faf0cde4-9ec1-4df4-b517-4917df70c3ce

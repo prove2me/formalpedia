@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_virial_power_law
 -- name    : VirialTheorem.virial_power_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T18:43:50.873994+00:00
 -- url     : https://prove2.me/theorems/971bf27f-86e9-4635-bd0e-9c53ef84069e

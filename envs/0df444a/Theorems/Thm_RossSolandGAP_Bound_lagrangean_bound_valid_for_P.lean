@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_lagrangean_bound_valid_for_P
 -- name    : RossSolandGAP.Bound.lagrangean_bound_valid_for_P
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:09:12.658995+00:00
 -- url     : https://prove2.me/theorems/d68566d1-7941-4d7b-aa84-fdd241762acb

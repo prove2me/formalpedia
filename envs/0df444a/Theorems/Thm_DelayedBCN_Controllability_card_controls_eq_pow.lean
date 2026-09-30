@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedBCN_Controllability_card_controls_eq_pow
 -- name    : DelayedBCN.Controllability.card_controls_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:06:15.786693+00:00
 -- url     : https://prove2.me/theorems/944ed32a-2404-4bf7-9124-292724970bfd

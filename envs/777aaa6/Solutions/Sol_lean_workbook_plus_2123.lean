@@ -1,18 +1,16 @@
 -- Prove2me | solution 1 for lean_workbook_plus_2123
 -- status  : ACCEPTED   (prove)
--- author  : @wamlart
--- created : 2026-09-05T18:18:39.125338+00:00
--- url     : https://prove2.me/submissions/c35fb0a4-844e-4b04-a5b8-c6478a1d1260
+-- author  : @ryanshin
+-- created : 2026-09-05T18:00:04.761627+00:00
+-- url     : https://prove2.me/submissions/a20b62a9-63b4-4ad1-b891-4d1f5e27d1d3
 
-import Mathlib.Tactic
-import Mathlib.Analysis.Complex.Basic
-
+import Mathlib
 set_option autoImplicit false
-set_option maxRecDepth 2048
-set_option maxHeartbeats 50000
 
+theorem solution (x : ℝ) (hx : 0 < x ∧ x < 1) : x^3 < 1 ∧ 1 < x^4 + 1   := by
+  constructor
+  · exact pow_lt_one₀ (le_of_lt hx.1) hx.2 (by decide)
+  · have hp : 0 < x ^ 4 := pow_pos hx.1 4
+    linarith
 
-
-theorem solution (x : ℝ) (hx : 0 < x ∧ x < 1) : x^3 < 1 ∧ 1 < x^4 + 1 := by
-  intros
-  simp_all <;> nlinarith [sq_nonneg x]
+#print axioms solution

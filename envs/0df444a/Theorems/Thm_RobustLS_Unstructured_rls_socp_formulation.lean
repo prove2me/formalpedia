@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Unstructured_rls_socp_formulation
 -- name    : RobustLS.Unstructured.rls_socp_formulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:27:03.002297+00:00
 -- url     : https://prove2.me/theorems/f754ba8c-e160-4dd6-94dc-c342e22b0c7b

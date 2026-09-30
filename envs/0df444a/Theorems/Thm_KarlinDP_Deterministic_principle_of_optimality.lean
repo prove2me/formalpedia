@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarlinDP_Deterministic_principle_of_optimality
 -- name    : KarlinDP.Deterministic.principle_of_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:16:55.356155+00:00
 -- url     : https://prove2.me/theorems/6d0c66a4-f9a5-4417-b16d-75402251d8fa

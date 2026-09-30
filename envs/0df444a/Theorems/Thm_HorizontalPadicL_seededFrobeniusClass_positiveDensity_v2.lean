@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HorizontalPadicL_seededFrobeniusClass_positiveDensity_v2
 -- name    : HorizontalPadicL.seededFrobeniusClass_positiveDensity_v2
--- status  : Open
+-- status  : Proved
 -- author  : @davidloeffler
 -- created : 2026-09-25T15:04:40.608427+00:00
 -- url     : https://prove2.me/theorems/1e0efce4-1fe8-4c9b-802d-94a3674fd74d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Verlinde2016_avg_apparent_dm_density
 -- name    : Verlinde2016.avg_apparent_dm_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T22:53:42.821019+00:00
 -- url     : https://prove2.me/theorems/3f569721-d170-4c20-aa50-064c467205db

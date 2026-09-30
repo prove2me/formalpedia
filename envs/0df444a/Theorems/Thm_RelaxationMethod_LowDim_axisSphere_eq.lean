@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_LowDim_axisSphere_eq
 -- name    : RelaxationMethod.LowDim.axisSphere_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:29:11.902537+00:00
 -- url     : https://prove2.me/theorems/2851493a-e954-418e-98e0-272f27d6616a

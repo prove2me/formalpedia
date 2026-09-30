@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_RademacherVC_vc_dimension_generalization_bound
 -- name    : FoundationsML.RademacherVC.vc_dimension_generalization_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:16:10.879355+00:00
 -- url     : https://prove2.me/theorems/4056680d-1fbe-4f07-be75-eab9d8d35843

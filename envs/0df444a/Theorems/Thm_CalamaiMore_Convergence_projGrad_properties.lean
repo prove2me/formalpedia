@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_projGrad_properties
 -- name    : CalamaiMore.Convergence.projGrad_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:33:08.34826+00:00
 -- url     : https://prove2.me/theorems/d03d43ae-583a-4bd9-a57f-834398104614

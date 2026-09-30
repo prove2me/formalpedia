@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Smooth_random_gradient_method_rate
 -- name    : RandomGradFree.Smooth.random_gradient_method_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:03:37.068981+00:00
 -- url     : https://prove2.me/theorems/33492145-969b-47ab-8bd6-64cb853496ff

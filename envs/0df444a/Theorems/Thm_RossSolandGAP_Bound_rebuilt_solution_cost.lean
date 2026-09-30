@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_rebuilt_solution_cost
 -- name    : RossSolandGAP.Bound.rebuilt_solution_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:12:49.380978+00:00
 -- url     : https://prove2.me/theorems/c0ee42b0-0f25-47c4-b33e-2a9656ff7ee3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KeplerMission_nonlinear_8055810915_valid
 -- name    : KeplerMission.nonlinear_8055810915_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-28T00:52:08.099986+00:00
 -- url     : https://prove2.me/theorems/3fd2ae4f-bb97-4271-aa36-277c857abe47

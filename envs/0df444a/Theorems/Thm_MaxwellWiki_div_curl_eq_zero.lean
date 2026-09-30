@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxwellWiki_div_curl_eq_zero
 -- name    : MaxwellWiki.div_curl_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T19:55:44.116858+00:00
 -- url     : https://prove2.me/theorems/bfb20ca7-878d-4b15-b79d-b8bd99386288

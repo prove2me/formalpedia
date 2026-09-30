@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DAREx_CoefficientEnergyIdentity
 -- name    : DAREx.CoefficientEnergyIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-29T05:59:10.068472+00:00
 -- url     : https://prove2.me/theorems/19fbf6ac-3926-4a48-abe1-6c3f27baf80a

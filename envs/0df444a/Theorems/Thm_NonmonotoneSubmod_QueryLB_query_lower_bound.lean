@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneSubmod_QueryLB_query_lower_bound
 -- name    : NonmonotoneSubmod.QueryLB.query_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:18:06.793418+00:00
 -- url     : https://prove2.me/theorems/b47ac9e1-f74a-47c6-8a18-57207a643cca

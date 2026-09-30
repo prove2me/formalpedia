@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedBFGS_SQN_sqnIter_pairs_eq
 -- name    : LimitedBFGS.SQN.sqnIter_pairs_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T21:10:13.256109+00:00
 -- url     : https://prove2.me/theorems/fd1881e3-01a3-4835-b267-f14f8447a23a

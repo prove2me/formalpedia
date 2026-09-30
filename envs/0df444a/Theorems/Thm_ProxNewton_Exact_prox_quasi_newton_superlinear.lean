@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxNewton_Exact_prox_quasi_newton_superlinear
 -- name    : ProxNewton.Exact.prox_quasi_newton_superlinear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:35:29.976415+00:00
 -- url     : https://prove2.me/theorems/184f209b-c6e9-4d0c-b765-3e0e154048e1

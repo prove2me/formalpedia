@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChanPangGQVI_ProjExistence_theorem_5_2
 -- name    : ChanPangGQVI.ProjExistence.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:43:47.302838+00:00
 -- url     : https://prove2.me/theorems/153eefa4-c43b-4a10-8c04-3530889b3d7a

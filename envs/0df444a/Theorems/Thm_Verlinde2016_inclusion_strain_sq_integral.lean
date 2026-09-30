@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Verlinde2016_inclusion_strain_sq_integral
 -- name    : Verlinde2016.inclusion_strain_sq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T22:26:08.423988+00:00
 -- url     : https://prove2.me/theorems/139ce68e-ce41-48a2-995a-f4bcd3ab0d1a

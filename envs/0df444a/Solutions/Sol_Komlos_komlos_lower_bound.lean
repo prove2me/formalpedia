@@ -1,8 +1,8 @@
 -- Prove2me | solution 1 for Komlos.komlos_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @wamlart
--- created : 2026-09-05T05:45:49.481047+00:00
--- url     : https://prove2.me/submissions/32b270d7-6f8b-4ba0-9049-fea94a9f68b5
+-- author  : @ryanshin
+-- created : 2026-09-05T05:29:31.380552+00:00
+-- url     : https://prove2.me/submissions/20f70d0c-8199-4af3-8cd5-b4f20158ce6c
 
 import Mathlib
 import Definitions.Def_Komlos_model

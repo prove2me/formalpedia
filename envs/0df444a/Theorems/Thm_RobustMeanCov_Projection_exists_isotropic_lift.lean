@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_Projection_exists_isotropic_lift
 -- name    : RobustMeanCov.Projection.exists_isotropic_lift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:45:41.593541+00:00
 -- url     : https://prove2.me/theorems/11d66f4c-875c-47c1-8287-c18324f62df2

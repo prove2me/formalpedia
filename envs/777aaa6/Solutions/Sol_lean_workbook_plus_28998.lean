@@ -1,30 +1,20 @@
 -- Prove2me | solution 1 for lean_workbook_plus_28998
 -- status  : ACCEPTED   (prove)
--- author  : @wamlart
--- created : 2026-09-05T18:09:13.784056+00:00
--- url     : https://prove2.me/submissions/0d357626-4298-4cf9-8793-54af7076b506
+-- author  : @ryanshin
+-- created : 2026-09-05T17:42:12.359381+00:00
+-- url     : https://prove2.me/submissions/648617a8-0e0b-423d-a0b9-c4c0aecefbd5
 
-import Mathlib.Tactic
-import Mathlib.Analysis.Complex.Basic
-
+import Mathlib
 set_option autoImplicit false
-set_option maxRecDepth 2048
-set_option maxHeartbeats 300000
 
-
-
-theorem solution (x y z : ℝ) (hx : 0 < x) (hy : 0 < y) (hz : 0 < z) : (z^2 / x^2 + (x^2 + y^2) / (2 * z^2)) ≥ 1 + y / x := by
-  intros
-  
-  have h_identity : ((x ^ 4) + (2 * (z ^ 4)) + ((x ^ 2) * (y ^ 2)) + ((-2) * (x ^ 2) * (z ^ 2)) + ((-2) * x * y * (z ^ 2))) = (1 : ℝ) * 1 * (((x ^ 2) + ((-1) * (z ^ 2))))^2 + (1 : ℝ) * 1 * ((((-1) * (z ^ 2)) + (x * y)))^2 := by
-    ring
-  have h_nonnegative : (0 : ℝ) ≤ ((x ^ 4) + (2 * (z ^ 4)) + ((x ^ 2) * (y ^ 2)) + ((-2) * (x ^ 2) * (z ^ 2)) + ((-2) * x * y * (z ^ 2))) := by
-    rw [h_identity]
-    positivity
-  have h_denominator : (0 : ℝ) < (2 * (x ^ 2) * (z ^ 2)) := by positivity
-  have h_rational : ((z^2 / x^2 + (x^2 + y^2) / (2 * z^2))) - (1 + y / x) = (((x ^ 4) + (2 * (z ^ 4)) + ((x ^ 2) * (y ^ 2)) + ((-2) * (x ^ 2) * (z ^ 2)) + ((-2) * x * y * (z ^ 2)))) / ((2 * (x ^ 2) * (z ^ 2))) := by
-    field_simp (disch := positivity)
+theorem solution (x y z : ℝ) (hx : 0 < x) (hy : 0 < y) (hz : 0 < z) : (z^2 / x^2 + (x^2 + y^2) / (2 * z^2)) ≥ 1 + y / x   := by
+  have hd : 0 < 2 * x ^ 2 * z ^ 2 := by positivity
+  have he : 2 * x ^ 2 * z ^ 2 *
+      (z ^ 2 / x ^ 2 + (x ^ 2 + y ^ 2) / (2 * z ^ 2) - (1 + y / x)) =
+      (x ^ 2 - z ^ 2) ^ 2 + (x * y - z ^ 2) ^ 2 := by
+    field_simp [ne_of_gt hx, ne_of_gt hz]
     <;> ring
-  apply sub_nonneg.mp
-  rw [h_rational]
-  exact div_nonneg h_nonnegative (le_of_lt h_denominator)
+  apply (mul_le_mul_iff_right₀ hd).mp
+  nlinarith only [he, sq_nonneg (x ^ 2 - z ^ 2), sq_nonneg (x * y - z ^ 2)]
+
+#print axioms solution

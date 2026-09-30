@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_ErrorDecrease_error_vector_decreases
 -- name    : ConjGrad.ErrorDecrease.error_vector_decreases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:57:36.622857+00:00
 -- url     : https://prove2.me/theorems/dbe3301a-b10e-4579-afa8-935b43b3240c

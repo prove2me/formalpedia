@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_julia_set_nonempty
 -- name    : MilnorDynamics.julia_set_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T12:44:00.416689+00:00
 -- url     : https://prove2.me/theorems/0b70fa47-177f-4095-a051-474c7e9f0262

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Rat_fractionalIdeal_isPrincipal
 -- name    : Rat.fractionalIdeal_isPrincipal
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T23:10:33.934838+00:00
 -- url     : https://prove2.me/theorems/cc5f9636-e226-4bc6-87d4-d015d29e7069

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_appendix_superdeterministic_model_reproduces_ghz
 -- name    : DrezetGHZ.appendix_superdeterministic_model_reproduces_ghz
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T21:10:53.818496+00:00
 -- url     : https://prove2.me/theorems/88c34ec6-6a31-4f12-9d84-a45832dd3e66

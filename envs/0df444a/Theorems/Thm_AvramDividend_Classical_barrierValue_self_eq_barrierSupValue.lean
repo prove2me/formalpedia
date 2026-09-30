@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_barrierValue_self_eq_barrierSupValue
 -- name    : AvramDividend.Classical.barrierValue_self_eq_barrierSupValue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T08:37:39.620406+00:00
 -- url     : https://prove2.me/theorems/11b589b7-37f0-4756-acd5-e1ea2d41f67a

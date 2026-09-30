@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedRemoval_ExactNewtonRemoval
 -- name    : FedRemoval.ExactNewtonRemoval
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-28T21:48:27.75621+00:00
 -- url     : https://prove2.me/theorems/86e63a71-6665-465f-8164-5a51f1c05557

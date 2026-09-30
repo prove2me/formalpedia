@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_Termination_cg_direction_residual
 -- name    : ConjGrad.Termination.cg_direction_residual
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:51:00.782252+00:00
 -- url     : https://prove2.me/theorems/fde5fd9f-8c69-41ba-8397-401a1aa981df

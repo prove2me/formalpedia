@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneLS_RLinear_eventual_sufficient_decrease
 -- name    : NonmonotoneLS.RLinear.eventual_sufficient_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:51:08.629999+00:00
 -- url     : https://prove2.me/theorems/6d503eed-5e79-4498-bf18-dd5ab661dd39

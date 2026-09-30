@@ -1,0 +1,283 @@
+-- Prove2me | Definitions.Def_CK_CKLaneP_SeamWBCheck
+-- name    : CK_CKLaneP_SeamWBCheck
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-09-30T10:49:07.597155+00:00
+-- url     : https://prove2.me/theorems/ce5cb3ee-ddc2-476f-bc54-a2c551437e7b
+-- title:
+--   Courtade–Kumar proof module `CKLaneP.SeamWBCheck` (transplant)
+-- statement:
+--   Verbatim transplant of the Lean module `CKLaneP.SeamWBCheck` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `CKLaneP.SeamWBCheck` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module CKLaneP.SeamWBCheck (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/CKLaneP/SeamWBCheck.lean)
+
+import Definitions.Def_CK_CKLaneP_SeamWBCheck_h04
+
+set_option autoImplicit false
+namespace CKLaneP
+open GeneralCK GeneralCK.Certificates.Mixed Set
+set_option maxHeartbeats 4000000 in
+theorem wcheckB_sound (hdouble : CanonicalDoubleCapEntropyEndpoints) (c : WCell)
+    (hc : wcheckB c = true) {p q ys : ℝ}
+    (hp0 : ((c.p0 : ℚ) : ℝ) ≤ p) (hp1 : p ≤ ((c.p1 : ℚ) : ℝ))
+    (ht0 : ((c.t0 : ℚ) : ℝ) * (1 / 10000 / 2 - p) ≤ q - p)
+    (ht1 : q - p ≤ ((c.t1 : ℚ) : ℝ) * (1 / 10000 / 2 - p))
+    (hys0B : 2 * q - 1 / 10000 < ys) (hysS : ys < 1 / 10000 - 2 * p)
+    (hstat : seamD (1 / 10000) (H p) (H q) ys = 0) :
+    0 ≤ seamCurve (1 / 10000) (H p) (H q) ys := by
+  unfold wcheckB at hc
+  obtain ⟨ok0, ok1, okql, okq, okvb, okva, okxb, okx2, hnp0, hnp1, hp0pos, hp01, hp1S,
+    ht0pos, ht01, ht1le, hql, hqhi, hqd, ha12, heL, hfL, hJq, hkh1, hvb, hvba1, hXmin, hbrX,
+    hVmin, hbrV, hbrW, hvab1, hxb, hxbv, hbrxb, hbrx2, hdhk, hM0, hPmin0, hPminmax, hfl1, hfl2,
+    hflA, hflC, hneed, hden, hfinal⟩ := of_decide_eq_true hc
+  have d0 := dy_sound ok0
+  have d1 := dy_sound ok1
+  have dql := dy_sound okql
+  have dq := dy_sound okq
+  have dvb := dy_sound okvb
+  have dva := dy_sound okva
+  have dxb := dy_sound okxb
+  have dx2 := dy_sound okx2
+  have dh := dy_sound dh_ok
+  -- domain
+  have hp0R : (0 : ℝ) < ((c.p0 : ℚ) : ℝ) := by exact_mod_cast hp0pos
+  have hp : 0 < p := lt_of_lt_of_le hp0R hp0
+  have hp1SR : ((c.p1 : ℚ) : ℝ) ≤ 1 / 10000 / 2 := by
+    have := (Rat.cast_le (K := ℝ)).mpr hp1S
+    rw [show ((Sq / 2 : ℚ) : ℝ) = 1 / 10000 / 2 by unfold Sq; norm_num] at this
+    exact this
+  have ht0one : (1 : ℝ) ≤ ((c.t0 : ℚ) : ℝ) := by exact_mod_cast ht0pos
+  have ht0R : (0 : ℝ) < ((c.t0 : ℚ) : ℝ) := by linarith
+  have ht1R : ((c.t1 : ℚ) : ℝ) ≤ 2 := by exact_mod_cast ht1le
+  have ht1nn : (0 : ℝ) ≤ ((c.t1 : ℚ) : ℝ) := by
+    have : (0 : ℚ) ≤ c.t1 := le_trans (le_trans zero_le_one ht0pos) ht01.le
+    exact_mod_cast this
+  have hpqS : p + q < 1 / 10000 := by linarith
+  have hε : 0 < 1 / 10000 / 2 - p := by
+    by_contra hcon
+    push Not at hcon
+    have hpe : p = 1 / 10000 / 2 := le_antisymm (le_trans hp1 hp1SR) (by linarith)
+    have h0 : ((c.t0 : ℚ) : ℝ) * (1 / 10000 / 2 - p) = 0 := by rw [hpe, sub_self, mul_zero]
+    linarith
+  have hβlo : ((c.blo : ℚ) : ℝ) ≤ q - p := by
+    have e : ((c.blo : ℚ) : ℝ) = ((c.t0 : ℚ) : ℝ) * (1 / 10000 / 2 - ((c.p1 : ℚ) : ℝ)) := by
+      unfold WCell.blo; push_cast; rw [Sq_cast]
+    rw [e]
+    exact le_trans (mul_le_mul_of_nonneg_left (by linarith) ht0R.le) ht0
+  have hblo0 : (0 : ℝ) ≤ ((c.blo : ℚ) : ℝ) := by
+    have e : ((c.blo : ℚ) : ℝ) = ((c.t0 : ℚ) : ℝ) * (1 / 10000 / 2 - ((c.p1 : ℚ) : ℝ)) := by
+      unfold WCell.blo; push_cast; rw [Sq_cast]
+    rw [e]; exact mul_nonneg ht0R.le (by linarith)
+  have hβ0 : 0 < q - p := by
+    have := mul_pos ht0R hε
+    linarith
+  have hbhi : q - p ≤ ((c.bhi : ℚ) : ℝ) := by
+    have e : ((c.bhi : ℚ) : ℝ) = ((c.t1 : ℚ) : ℝ) * (1 / 10000 / 2 - ((c.p0 : ℚ) : ℝ)) := by
+      unfold WCell.bhi; push_cast; rw [Sq_cast]
+    rw [e]
+    exact le_trans ht1 (mul_le_mul_of_nonneg_left (by linarith) ht1nn)
+  have hpq : p < q := by linarith
+  have hqSB : 1 / 10000 / 2 ≤ q := by
+    have h1 := mul_le_mul_of_nonneg_right ht0one hε.le
+    rw [one_mul] at h1
+    linarith
+  have hys0 : 0 < ys := by linarith
+  have hqhiR : ((c.p1 : ℚ) : ℝ) + ((c.bhi : ℚ) : ℝ) ≤ ((c.qd : ℚ) : ℝ) := by exact_mod_cast hqhi
+  have hqqd : q ≤ ((c.qd : ℚ) : ℝ) := by linarith
+  have hqdR : ((c.qd : ℚ) : ℝ) ≤ 1 / 10000 := by
+    have := (Rat.cast_le (K := ℝ)).mpr hqd
+    rw [show ((1 / 10000 : ℚ) : ℝ) = 1 / 10000 by norm_num] at this
+    exact this
+  have hqlR : ((dy c.nql).v : ℝ) ≤ q := by
+    rw [dy_v]
+    have h := (Rat.cast_le (K := ℝ)).mpr hql
+    push_cast at h
+    have e : ((c.blo : ℚ) : ℝ) = ((c.t0 : ℚ) : ℝ) * (1 / 10000 / 2 - ((c.p1 : ℚ) : ℝ)) := by
+      unfold WCell.blo; push_cast; rw [Sq_cast]
+    have h2 : ((dyq c.nql : ℚ) : ℝ) ≤ ((c.p0 : ℚ) : ℝ) + ((c.blo : ℚ) : ℝ) := by
+      have := (Rat.cast_le (K := ℝ)).mpr hql
+      exact_mod_cast this
+    linarith
+  have hq0 : 0 < q := by linarith
+  -- entropy data
+  have hv0 : ((dy c.np0).v : ℝ) ≤ (c.p0 : ℝ) := by rw [dy_v]; exact_mod_cast hnp0
+  have hv1 : (c.p1 : ℝ) ≤ ((dy c.np1).v : ℝ) := by rw [dy_v]; exact_mod_cast hnp1
+  have hvq : ((dy c.nq).v : ℝ) = (c.qd : ℝ) := by rw [dy_v]; rfl
+  have hv00 : (0 : ℝ) < ((dy c.np0).v : ℝ) := by exact_mod_cast d0.1
+  have hvl0 : (0 : ℝ) < ((dy c.nql).v : ℝ) := by exact_mod_cast dql.1
+  have hv1h : ((dy c.np1).v : ℝ) ≤ 1 / 2 := VD.cast_le_half d1.2.1
+  have hHmono : ∀ {a b : ℝ}, 0 ≤ a → a ≤ b → b ≤ 1 / 2 → H a ≤ H b :=
+    fun ha hab hb => H_strictMonoOn.monotoneOn ⟨ha, by linarith⟩ ⟨ha.trans hab, hb⟩ hab
+  have heLR : ((c.eL : ℚ) : ℝ) ≤ H p :=
+    le_trans (VD.Hlo_le d0) (hHmono hv00.le (hv0.trans hp0) (by linarith))
+  have heHR : H p ≤ ((c.eH : ℚ) : ℝ) :=
+    le_trans (hHmono hp.le (hp1.trans hv1) hv1h) (VD.le_Hhi d1)
+  have hfLR : ((c.fL : ℚ) : ℝ) ≤ H q :=
+    le_trans (VD.Hlo_le dql) (hHmono hvl0.le hqlR (by linarith))
+  have hfHR : H q ≤ ((c.fH : ℚ) : ℝ) := by
+    have h := VD.le_Hhi dq
+    rw [hvq] at h
+    exact le_trans (hHmono hq0.le hqqd (by linarith)) h
+  have hHpq : H p ≤ H q := hHmono hp.le hpq.le (by linarith)
+  have hJqR : ((c.Jq : ℚ) : ℝ) ≤ J q := by
+    have h := VD.Jlo_le dq
+    rw [hvq] at h
+    exact le_trans h (J_antitone hq0 (by linarith) hqqd)
+  have hrsR : radialSlope p ≤ ((c.rs0 : ℚ) : ℝ) :=
+    le_trans (ZeroCapLeftStationaryThetaBracket.radialSlope_antitone ⟨hv00, by linarith⟩
+      ⟨hp, by linarith⟩ (hv0.trans hp0)) (VD.le_Shi d0 ha12)
+  have heL0 : (0 : ℝ) < ((c.eL : ℚ) : ℝ) := by exact_mod_cast heL
+  have hfL0 : (0 : ℝ) < ((c.fL : ℚ) : ℝ) := by exact_mod_cast hfL
+  have hJq0 : (0 : ℝ) < ((c.Jq : ℚ) : ℝ) := by exact_mod_cast hJq
+  have hHp : 0 < H p := lt_of_lt_of_le heL0 heLR
+  have hHq : 0 < H q := lt_of_lt_of_le hHp hHpq
+  have hE : 0 < H p + H q := by linarith
+  have eEL : ((c.EL : ℚ) : ℝ) = ((c.eL : ℚ) : ℝ) + ((c.fL : ℚ) : ℝ) := by
+    unfold WCell.EL; push_cast; ring
+  have eEH : ((c.EH : ℚ) : ℝ) = ((c.eH : ℚ) : ℝ) + ((c.fH : ℚ) : ℝ) := by
+    unfold WCell.EH; push_cast; ring
+  have hELR : ((c.EL : ℚ) : ℝ) ≤ H p + H q := by rw [eEL]; linarith
+  have hEHR : H p + H q ≤ ((c.EH : ℚ) : ℝ) := by rw [eEH]; linarith
+  have hEL0 : (0 : ℝ) < ((c.EL : ℚ) : ℝ) := by rw [eEL]; linarith
+  have hEH0 : (0 : ℝ) < ((c.EH : ℚ) : ℝ) := lt_of_lt_of_le hE hEHR
+  -- profile brackets
+  have hvbv : (dy c.nvb).v ≤ 1 / 1000 := by rw [dy_v]; exact le_trans hvb (by norm_num)
+  have hPmaxAll : ∀ x : ℝ, ((c.Xmin : ℚ) : ℝ) ≤ x →
+      profile (radialContact (2 * x) 1) ≤ ((c.Pmax : ℚ) : ℝ) := by
+    intro x hx
+    have hx0 : 0 < x := lt_of_lt_of_le (by exact_mod_cast hXmin) hx
+    exact PmaxQ_sound dvb hvbv hvba1 (radialContact_pos (by linarith) one_pos)
+      (contact_le_of_bracket dvb hXmin hbrX hx)
+  have hPminAll : ∀ x : ℝ, ((c.Vmin : ℚ) : ℝ) ≤ x → x ≤ ((c.Wmax : ℚ) : ℝ) →
+      ((c.Pmin : ℚ) : ℝ) ≤ profile (radialContact (2 * x) 1) := by
+    intro x hx1 hx2
+    have hx0 : 0 < x := lt_of_lt_of_le (by exact_mod_cast hVmin) hx1
+    exact PminQ_sound dva dvb hvbv hvba1 hvab1 (contact_ge_of_bracket dva hbrW hx0 hx2)
+      (contact_le_of_bracket dvb hVmin hbrV hx1)
+  have hPminAllX : ∀ x : ℝ, ((c.Xmin : ℚ) : ℝ) ≤ x → x ≤ ((c.Wmax : ℚ) : ℝ) →
+      ((c.Pmin : ℚ) : ℝ) ≤ profile (radialContact (2 * x) 1) := by
+    intro x hx1 hx2
+    have hx0 : 0 < x := lt_of_lt_of_le (by exact_mod_cast hXmin) hx1
+    exact PminQ_sound dva dvb hvbv hvba1 hvab1 (contact_ge_of_bracket dva hbrW hx0 hx2)
+      (contact_le_of_bracket dvb hXmin hbrX hx1)
+  have hPmin0R : (0 : ℝ) ≤ ((c.Pmin : ℚ) : ℝ) := by exact_mod_cast hPmin0
+  have hPminmaxR : ((c.Pmin : ℚ) : ℝ) ≤ ((c.Pmax : ℚ) : ℝ) := by exact_mod_cast hPminmax
+  have hPmax0R : (0 : ℝ) ≤ ((c.Pmax : ℚ) : ℝ) := le_trans hPmin0R hPminmaxR
+  have eXmin : ((c.Xmin : ℚ) : ℝ) = (1 - 2 * (1 / 10000) + 2 * ((c.p0 : ℚ) : ℝ)) /
+      (2 * ((c.fH : ℚ) : ℝ)) := by
+    unfold WCell.Xmin; push_cast; rw [Sq_cast]
+  have eVmin : ((c.Vmin : ℚ) : ℝ) = (1 - 2 * ((c.qd : ℚ) : ℝ)) / ((c.EH : ℚ) : ℝ) := by
+    unfold WCell.Vmin; push_cast; ring
+  have eWmax : ((c.Wmax : ℚ) : ℝ) = 1 / (2 * ((c.eL : ℚ) : ℝ)) := by
+    unfold WCell.Wmax; push_cast; ring
+  have hA0 : (0 : ℝ) ≤ 1 - 2 * (1 / 10000) + 2 * ((c.p0 : ℚ) : ℝ) := by linarith
+  -- (DC)
+  have hDC : ((c.DC0 : ℚ) : ℝ) ≤ canonicalPureGap p q (H p) (H q) := wcheckB_sound_hDC hdouble c hc hp0 hp1 ht0 ht1 hys0B hysS hstat
+  -- (DC, sharp defect form)
+  have hDC2 : ((c.DC2 : ℚ) : ℝ) ≤ canonicalPureGap p q (H p) (H q) := wcheckB_sound_hDC2 hdouble c hc hp0 hp1 ht0 ht1 hys0B hysS hstat
+  have hDCb : ((c.DCb : ℚ) : ℝ) ≤ canonicalPureGap p q (H p) (H q) := by
+    unfold WCell.DCb; push_cast; exact max_le hDC hDC2
+  -- (R)
+  have hc1v : ∀ t ∈ Ioo p q, ((c.c1v : ℚ) : ℝ) - 12 / ((c.EL : ℚ) : ℝ) * (q - t) ≤
+      rightD q (H p) (H q) t := wcheckB_sound_hc1v hdouble c hc hp0 hp1 ht0 ht1 hys0B hysS hstat
+  -- (R, case B): right fiber from p to S − q
+  have hSq_le : 1 / 10000 - q ≤ q := by linarith
+  have hp_le : p ≤ 1 / 10000 - q := by linarith
+  have hRB : ((c.RB : ℚ) : ℝ) ≤ canonicalPureGap (1 / 10000 - q) q (H p) (H q) -
+      canonicalPureGap p q (H p) (H q) := wcheckB_sound_hRB hdouble c hc hp0 hp1 ht0 ht1 hys0B hysS hstat
+  -- (dip)
+  have hden0 : (0 : ℝ) < 1 - 2 * (1 / 10000) + 2 * ((c.p0 : ℚ) : ℝ) := by linarith
+  have hlamR : ((c.lam : ℚ) : ℝ) = ((c.Pmax : ℚ) : ℝ) / (1 - 2 * (1 / 10000) + 2 * ((c.p0 : ℚ) : ℝ)) := by
+    unfold WCell.lam; push_cast; rw [Sq_cast]
+  have hlam0 : (0 : ℝ) ≤ ((c.lam : ℚ) : ℝ) := by rw [hlamR]; positivity
+  have hfeH : (0 : ℚ) < c.fH / c.eL := by
+    have hfH0 : (0 : ℝ) < ((c.fH : ℚ) : ℝ) := lt_of_lt_of_le hHq hfHR
+    have : (0 : ℚ) < c.fH := by exact_mod_cast hfH0
+    positivity
+  have eA : ((c.A0v : ℚ) : ℝ) = ((c.Pmax : ℚ) : ℝ) / 2 * ((logUpQ (c.fH / c.eL) : ℚ) : ℝ) := by
+    unfold WCell.A0v; push_cast; ring
+  have hlogfe : Real.log (H q / H p) ≤ ((logUpQ (c.fH / c.eL) : ℚ) : ℝ) := by
+    refine le_trans (Real.log_le_log (div_pos hHq hHp) ?_) (by
+      have := logUpQ_sound hfeH
+      push_cast at this
+      exact this)
+    push_cast
+    rw [div_le_div_iff₀ hHp heL0]
+    exact mul_le_mul hfHR heLR heL0.le (le_trans hHq.le hfHR)
+  have hA0v0 : (0 : ℝ) ≤ ((c.A0v : ℚ) : ℝ) := by
+    rw [eA]
+    have : 0 ≤ Real.log (H q / H p) := Real.log_nonneg (by rw [le_div_iff₀ hHp]; linarith)
+    have := le_trans this hlogfe
+    positivity
+  have hΔ : seamDelta (1 / 10000) (H p) (H q) ys ≤ ((c.A0v : ℚ) : ℝ) + ((c.lam : ℚ) : ℝ) * ys := wcheckB_sound_hΔ hdouble c hc hp0 hp1 ht0 ht1 hys0B hysS hstat
+  have hxbR : (0 : ℝ) < ((c.xb : ℚ) : ℝ) := by exact_mod_cast hxb
+  have hθb : ((c.thb : ℚ) : ℝ) ≤ e8Theta ((c.xb : ℚ) : ℝ) := theta_ge_Slo dxb hxbv hxb le_rfl hbrxb
+  have hneedR : ((c.A0v : ℚ) : ℝ) + ((c.lam : ℚ) : ℝ) * (1 / 10000 - 2 * ((c.p0 : ℚ) : ℝ)) <
+      ((c.thb : ℚ) : ℝ) := by
+    have h := (Rat.cast_lt (K := ℝ)).mpr hneed
+    push_cast at h
+    rw [Sq_cast] at h
+    exact h
+  have hdenR' : ((c.lam : ℚ) : ℝ) * ((c.EH : ℚ) : ℝ) < ((c.thb : ℚ) : ℝ) / ((c.xb : ℚ) : ℝ) := by
+    have h := (Rat.cast_lt (K := ℝ)).mpr hden
+    push_cast at h
+    exact h
+  have hdenR : ((c.lam : ℚ) : ℝ) * (H p + H q) < ((c.thb : ℚ) : ℝ) / ((c.xb : ℚ) : ℝ) := by
+    have := mul_le_mul_of_nonneg_left hEHR hlam0
+    linarith
+  have hyhi : ys ≤ 1 / 10000 - 2 * ((c.p0 : ℚ) : ℝ) := by linarith
+  have hTD : e8Theta (ys / (H p + H q)) = seamDelta (1 / 10000) (H p) (H q) ys := by
+    have h := seamD_eq_sub (1 / 10000) (H p) (H q) ys
+    rw [hstat] at h
+    linarith
+  have hyslt : ys / (H p + H q) < ((c.xb : ℚ) : ℝ) := by
+    by_contra hcon
+    push Not at hcon
+    have h1 := e8Theta_mono hxbR hcon
+    have h2 : ((c.lam : ℚ) : ℝ) * ys ≤ ((c.lam : ℚ) : ℝ) * (1 / 10000 - 2 * ((c.p0 : ℚ) : ℝ)) :=
+      mul_le_mul_of_nonneg_left hyhi hlam0
+    linarith
+  have hxst := xstar_le (S := 1 / 10000) hHp hHq hstat hΔ hys0 hyhi hlam0 hxbR hθb hneedR hdenR
+  have hdpos : 0 < ((c.thb : ℚ) : ℝ) / ((c.xb : ℚ) : ℝ) - ((c.lam : ℚ) : ℝ) * ((c.EH : ℚ) : ℝ) := by
+    linarith
+  have hYv : ys ≤ ((c.Yv : ℚ) : ℝ) := by
+    have eY : ((c.Yv : ℚ) : ℝ) = ((c.A0v : ℚ) : ℝ) * ((c.EH : ℚ) : ℝ) /
+        (((c.thb : ℚ) : ℝ) / ((c.xb : ℚ) : ℝ) - ((c.lam : ℚ) : ℝ) * ((c.EH : ℚ) : ℝ)) := by
+      unfold WCell.Yv; push_cast; ring
+    rw [eY]
+    exact le_trans hxst (ystar_mono_of (th := ((c.thb : ℚ) : ℝ) / ((c.xb : ℚ) : ℝ))
+      (lam := ((c.lam : ℚ) : ℝ)) hA0v0 hE hEHR hlam0 hdpos)
+  have hM : ∀ t ∈ Ioo 0 ys, e8Theta (ys / (H p + H q)) - e8Theta (t / (H p + H q)) ≤
+      ((c.M : ℚ) : ℝ) * ((ys - t) / (H p + H q)) := by
+    intro t ht
+    have h := slope_Mof okx2 hdhk hbrx2 (div_pos ht.1 hE)
+      (div_le_div_of_nonneg_right ht.2.le hE.le) hyslt.le
+    have e : ys / (H p + H q) - t / (H p + H q) = (ys - t) / (H p + H q) := by ring
+    rw [e] at h
+    exact h
+  have hM0R : (0 : ℝ) ≤ ((c.M : ℚ) : ℝ) := by exact_mod_cast hM0
+  -- (master, case B)
+  have hylo0 : 0 ≤ 2 * q - 1 / 10000 := by linarith
+  have hMB : ∀ t ∈ Ioo (2 * q - 1 / 10000) ys, e8Theta (ys / (H p + H q)) - e8Theta (t / (H p + H q)) ≤
+      ((c.M : ℚ) : ℝ) * ((ys - t) / (H p + H q)) := fun t ht => hM t ⟨by linarith [ht.1], ht.2⟩
+  have hdip := seam_dip_M (S := 1 / 10000) (by norm_num) hHp hHq hylo0 hys0B (by linarith) hstat hMB
+  rw [seamCurve_ylo] at hdip
+  have hY2 : (ys - (2 * q - 1 / 10000)) ^ 2 ≤ ((c.Yv : ℚ) : ℝ) ^ 2 :=
+    pow_le_pow_left₀ (by linarith) (by linarith) 2
+  have hd1 : ((c.M : ℚ) : ℝ) * (ys - (2 * q - 1 / 10000)) ^ 2 / (2 * (H p + H q)) ≤
+      ((c.M : ℚ) : ℝ) * ((c.Yv : ℚ) : ℝ) ^ 2 / (2 * (H p + H q)) := by
+    apply div_le_div_of_nonneg_right _ (by positivity)
+    exact mul_le_mul_of_nonneg_left hY2 hM0R
+  have hd2 := dip_mono_of (Y := ((c.Yv : ℚ) : ℝ)) hM0R hEL0 hELR
+  have hfinR := (Rat.cast_le (K := ℝ)).mpr hfinal
+  push_cast at hfinR
+  linarith
+end CKLaneP
+
+

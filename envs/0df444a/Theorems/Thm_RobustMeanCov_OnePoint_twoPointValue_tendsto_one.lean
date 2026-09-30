@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_OnePoint_twoPointValue_tendsto_one
 -- name    : RobustMeanCov.OnePoint.twoPointValue_tendsto_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:43:26.094057+00:00
 -- url     : https://prove2.me/theorems/bc6acac5-da1c-4fab-905c-e395cc020204

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_virial_central_potential
 -- name    : VirialTheorem.virial_central_potential
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T18:25:22.158182+00:00
 -- url     : https://prove2.me/theorems/d913f272-e489-46ea-9413-a2aadd02b40c

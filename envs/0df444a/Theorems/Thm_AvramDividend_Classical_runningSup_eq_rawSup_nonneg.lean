@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_runningSup_eq_rawSup_nonneg
 -- name    : AvramDividend.Classical.runningSup_eq_rawSup_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T08:18:35.53361+00:00
 -- url     : https://prove2.me/theorems/992246e6-0bba-4d6f-bd75-5b29c32037f9

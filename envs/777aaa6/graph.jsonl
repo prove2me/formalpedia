@@ -88,6 +88,18 @@
 {"parent": "MME.StothersFourth.mme_stothers_fixed_target_joint_table_marginal", "child": "mme_stothers_fixed_outer_profile", "via": ["solution", "statement"]}
 {"parent": "MME.StothersFourth.mme_stothers_fixed_target_joint_table_marginal", "child": "mme_stothers_fixed_outer_profile_arithmetic", "via": ["solution"]}
 {"parent": "Mobius", "child": "BoolFunc", "via": ["statement"]}
+{"parent": "WeakGoldbach.even_goldbach_above_4e18", "child": "WeakGoldbach.symmetric_prime_pair_above_2e18", "via": ["solution"]}
+{"parent": "WeakGoldbach.prime_power_part_le_above_2e18", "child": "WeakGoldbach.singular_series_factor_ge_one", "via": ["solution"]}
+{"parent": "WeakGoldbach.symmetric_pair_count_pos_above_2e18", "child": "WeakGoldbach.singular_series_factor_ge_one", "via": ["solution"]}
+{"parent": "WeakGoldbach.symmetric_pair_count_pos_above_2e18", "child": "WeakGoldbach.symmetric_pair_main_term_above_2e18", "via": ["solution"]}
+{"parent": "WeakGoldbach.symmetric_pair_main_term_above_2e18", "child": "WeakGoldbach.prime_power_part_le_above_2e18", "via": ["solution"]}
+{"parent": "WeakGoldbach.symmetric_pair_main_term_above_2e18", "child": "WeakGoldbach.singular_series_factor_ge_one", "via": ["solution"]}
+{"parent": "WeakGoldbach.symmetric_pair_main_term_above_2e18", "child": "WeakGoldbach.weighted_symmetric_main_term_above_2e18", "via": ["solution"]}
+{"parent": "WeakGoldbach.symmetric_prime_pair_above_2e18", "child": "WeakGoldbach.symmetric_pair_count_pos_above_2e18", "via": ["solution"]}
+{"parent": "WeakGoldbach.three_odd_primes_ge_10pow27", "child": "WeakGoldbach.three_odd_primes_10pow27_to_exp3100", "via": ["solution"]}
+{"parent": "WeakGoldbach.three_odd_primes_ge_10pow27", "child": "WeakGoldbach.three_odd_primes_ge_exp3100", "via": ["solution"]}
+{"parent": "WeakGoldbach.verified_three_odd_primes_to_8875e30", "child": "WeakGoldbach.prime_in_4e18_window_to_8875e30", "via": ["solution"]}
+{"parent": "WeakGoldbach.verified_three_odd_primes_to_8875e30", "child": "WeakGoldbach.verified_two_odd_primes_to_4e18", "via": ["solution"]}
 {"parent": "YogeshwaranDM.hall_iff", "child": "YogeshwaranDM_CompleteMatching", "via": ["statement"]}
 {"parent": "bernstein_unit", "child": "cheb_compare_outer", "via": ["solution"]}
 {"parent": "bernstein_unit", "child": "cheb_deriv_abs_le", "via": ["solution"]}
@@ -230,6 +242,8 @@
 {"parent": "fundamental_theorem_of_algebra", "child": "poly_eventually_const_degree_le", "via": ["solution"]}
 {"parent": "fundamental_theorem_of_algebra", "child": "poly_norm_has_global_min", "via": ["solution"]}
 {"parent": "fundamental_theorem_of_algebra", "child": "polynomial_eval_norm_tendsto_cobounded", "via": ["solution"]}
+{"parent": "goldbach_odd_variant", "child": "WeakGoldbach.three_odd_primes_ge_10pow27", "via": ["solution"]}
+{"parent": "goldbach_odd_variant", "child": "WeakGoldbach.verified_three_odd_primes_to_8875e30", "via": ["solution"]}
 {"parent": "goldbach_odd_variant", "child": "strong_goldbach_conjecture", "via": ["solution"]}
 {"parent": "gotsman_linial_with_zero", "child": "BoolFunc", "via": ["solution", "statement"]}
 {"parent": "gotsman_linial_with_zero", "child": "Hypercube", "via": ["solution", "statement"]}
@@ -255,6 +269,7 @@
 {"parent": "markov_from_bernstein", "child": "cheb_compare_outer", "via": ["solution"]}
 {"parent": "markov_from_bernstein", "child": "cheb_deriv_abs_le", "via": ["solution"]}
 {"parent": "markov_from_bernstein", "child": "cheb_pythag", "via": ["solution"]}
+{"parent": "markov_inequality", "child": "markov_unit", "via": ["solution"]}
 {"parent": "markov_polya_grid", "child": "markov_inequality_interval", "via": ["solution"]}
 {"parent": "markov_polya_grid", "child": "polynomial_grid_continuous_extension", "via": ["solution"]}
 {"parent": "markov_unit", "child": "bernstein_unit", "via": ["solution"]}
@@ -410,7 +425,7 @@
 {"parent": "mme_CW_2376_profile_multinomial_rate_absorption", "child": "mme_CW_2376_profile_induced_family", "via": ["solution", "statement"]}
 {"parent": "mme_CW_2376_profile_multiplicity_sum", "child": "mme_CW_2376_integer_profile", "via": ["solution", "statement"]}
 {"parent": "mme_CW_2376_profile_multiplicity_sum", "child": "mme_CW_2376_joint_profile_table", "via": ["solution", "statement"]}
-{"parent": "mme_CW_2376_profile_product_split", "child": "mme_CW_2376_address_block", "via": ["statement"]}
+{"parent": "mme_CW_2376_profile_product_split", "child": "mme_CW_2376_address_block", "via": ["solution", "statement"]}
 {"parent": "mme_CW_2376_profile_product_split_univ", "child": "mme_CW_2376_address_block", "via": ["solution", "statement"]}
 {"parent": "mme_CW_2376_profile_product_split_univ", "child": "mme_rank_bridge", "via": ["solution"]}
 {"parent": "mme_CW_2376_profile_rate_tendsto", "child": "mme_CW_2376_profile_data", "via": ["solution", "statement"]}
@@ -516,8 +531,8 @@
 {"parent": "mme_CW_border_rank_le_charNonZero", "child": "mme_CW_Phi_coeff_two", "via": ["solution"]}
 {"parent": "mme_CW_border_rank_le_charNonZero", "child": "mme_CW_tensor", "via": ["statement"]}
 {"parent": "mme_CW_border_rank_le_charNonZero", "child": "mme_degeneration", "via": ["statement"]}
-{"parent": "mme_CW_border_rank_le_isSquare", "child": "mme_CW_tensor", "via": ["statement"]}
-{"parent": "mme_CW_border_rank_le_isSquare", "child": "mme_degeneration", "via": ["statement"]}
+{"parent": "mme_CW_border_rank_le_isSquare", "child": "mme_CW_tensor", "via": ["solution", "statement"]}
+{"parent": "mme_CW_border_rank_le_isSquare", "child": "mme_degeneration", "via": ["solution", "statement"]}
 {"parent": "mme_CW_boundary_literal_codes", "child": "mme_CW_fourth_literal_support_words", "via": ["statement"]}
 {"parent": "mme_CW_canonical_aligned_witness", "child": "mme_CW_support_pattern", "via": ["solution", "statement"]}
 {"parent": "mme_CW_canonical_aligned_witness", "child": "mme_CW_tensor", "via": ["solution", "statement"]}
@@ -630,7 +645,7 @@
 {"parent": "mme_CW_fourth_component_profile_projection_normalization", "child": "mme_kronPow_position_permutation_linear_data", "via": ["solution", "statement"]}
 {"parent": "mme_CW_fourth_component_profile_projection_normalization", "child": "mme_kron_pow_word_reindex", "via": ["solution", "statement"]}
 {"parent": "mme_CW_fourth_fine_block_restrict_coarse", "child": "mme_stothers_phi116_fine_blocks", "via": ["solution", "statement"]}
-{"parent": "mme_CW_fourth_fine_block_restrict_coarse_block", "child": "mme_stothers_phi116_fine_blocks", "via": ["statement"]}
+{"parent": "mme_CW_fourth_fine_block_restrict_coarse_block", "child": "mme_stothers_phi116_fine_blocks", "via": ["solution", "statement"]}
 {"parent": "mme_CW_fourth_fine_block_restrict_of_factors", "child": "mme_TypeGrading_kron_blockSubtensor_iso", "via": ["solution"]}
 {"parent": "mme_CW_fourth_fine_block_restrict_of_factors", "child": "mme_stothers_phi116_fine_blocks", "via": ["solution", "statement"]}
 {"parent": "mme_CW_fourth_left_grade_fiber_nonempty_iff", "child": "mme_stothers_fourth_data", "via": ["solution", "statement"]}
@@ -734,7 +749,7 @@
 {"parent": "mme_CW_q6_common_halving_fiber_half_pattern_product_bound", "child": "mme_CW_q6_common_paired_halving", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_common_halving_fiber_paired_induced_iff", "child": "mme_CW_q6_paired_cyclic_induced", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_common_halving_fiber_paired_support_iff", "child": "mme_CW_q6_paired_cyclic_induced", "via": ["solution", "statement"]}
-{"parent": "mme_CW_q6_common_halving_paired_cyclic_induced_counterexample", "child": "mme_CW_q6_paired_cyclic_induced", "via": ["statement"]}
+{"parent": "mme_CW_q6_common_halving_paired_cyclic_induced_counterexample", "child": "mme_CW_q6_paired_cyclic_induced", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_common_halving_paired_oriented_component_certificate", "child": "mme_CW_q6_common_halving_paired_oriented_component_data", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_common_halving_paired_oriented_component_certificate", "child": "mme_MMObj_permObj_cyclic_sq", "via": ["solution"]}
 {"parent": "mme_CW_q6_common_halving_paired_oriented_component_certificate", "child": "mme_dwz_q6_explicit_coupled_four_block_isomorphisms", "via": ["solution"]}
@@ -858,9 +873,14 @@
 {"parent": "mme_CW_q6_coupled_survivors_assemble_MM", "child": "mme_restrict_kronPow", "via": ["solution"]}
 {"parent": "mme_CW_q6_coupled_survivors_assemble_MM", "child": "mme_tensor_quotient", "via": ["solution"]}
 {"parent": "mme_CW_q6_coupled_survivors_assemble_MM", "child": "mme_tensor_rank", "via": ["statement"]}
-{"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_CW_coupled_value", "via": ["statement"]}
+{"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_CW_coupled_value", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_CW_q6_coupled_hash_survivors_below_raw", "via": ["solution"]}
 {"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_CW_q6_coupled_survivors_assemble_MM", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_CW_q6_primary_hash_Ctensor_outer_middle_certificates", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_CW_q6_primary_profile_capacity_quarter_root", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_Ctensor_one_H_one_outer_family_direct_finite_extraction", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_MM_induced_matching_quarter_root_absorption", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_cyclicSymmetrization_kronPow_isomorphic", "via": ["solution"]}
 {"parent": "mme_CW_q6_coupled_tensor_extraction_below_raw_of_pruning", "child": "mme_tensor_quotient", "via": ["solution"]}
 {"parent": "mme_CW_q6_difference_code_has_unit_coefficient", "child": "mme_CW_q6_doubled_hash_arithmetic", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_doubled_hash_AP_identity", "child": "mme_CW_q6_doubled_hash_arithmetic", "via": ["solution", "statement"]}
@@ -1031,7 +1051,8 @@
 {"parent": "mme_CW_q6_primary_hash_sqrt_capacity_bounded", "child": "mme_CW_q6_coupled_exact_floor_pruning", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_primary_hash_sqrt_capacity_bounded", "child": "mme_CW_q6_primary_hash_uniform_stars_sqrt_loss", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_primary_hash_sqrt_capacity_bounded", "child": "mme_CW_q6_primary_profile_capacity_sqrt_loss", "via": ["solution", "statement"]}
-{"parent": "mme_CW_q6_primary_hash_sqrt_capacity_common_halving", "child": "mme_CW_q6_common_paired_halving", "via": ["statement"]}
+{"parent": "mme_CW_q6_primary_hash_sqrt_capacity_common_halving", "child": "mme_CW_q6_common_paired_halving", "via": ["solution", "statement"]}
+{"parent": "mme_CW_q6_primary_hash_sqrt_capacity_common_halving", "child": "mme_CW_q6_primary_hash_sqrt_capacity_common_halving_bounded", "via": ["solution"]}
 {"parent": "mme_CW_q6_primary_hash_sqrt_capacity_common_halving_bounded", "child": "mme_CW_q6_common_halving_polynomial_loss_le_exp_sqrt", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_primary_hash_sqrt_capacity_common_halving_bounded", "child": "mme_CW_q6_primaryHashFamily_common_halving_uniform_extraction", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_primary_hash_sqrt_capacity_common_halving_bounded", "child": "mme_CW_q6_primary_hash_sqrt_capacity_bounded", "via": ["solution", "statement"]}
@@ -1597,7 +1618,9 @@
 {"parent": "mme_ZMod_two_linear_hash_finset_fiber_card_le", "child": "mme_ZMod_two_linear_hash_fiber_card", "via": ["solution", "statement"]}
 {"parent": "mme_ZMod_unit_affine_collision_parameter_card_le", "child": "mme_ZMod_unit_linear_hash_fiber_card", "via": ["solution", "statement"]}
 {"parent": "mme_ZMod_unit_linear_hash_finset_preimage_card", "child": "mme_ZMod_unit_linear_hash_fiber_card", "via": ["solution", "statement"]}
-{"parent": "mme_alphaevolve_level4_global_graded_surplus", "child": "mme_global_CW_graded_start_data", "via": ["statement"]}
+{"parent": "mme_alphaevolve_level4_global_graded_log_margin_certificate", "child": "mme_global_CW_graded_start_data", "via": ["statement"]}
+{"parent": "mme_alphaevolve_level4_global_graded_surplus", "child": "mme_alphaevolve_level4_global_graded_log_margin_certificate", "via": ["solution"]}
+{"parent": "mme_alphaevolve_level4_global_graded_surplus", "child": "mme_global_CW_graded_start_data", "via": ["solution", "statement"]}
 {"parent": "mme_asymptoticRank_le_of_pow_rank_bound", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
 {"parent": "mme_asymptotic_closure", "child": "mme_strassen_preorder", "via": ["statement"]}
 {"parent": "mme_asymptotic_sum_inequality", "child": "mme_omega_strassen", "via": ["solution", "statement"]}
@@ -6286,6 +6309,7 @@
 {"parent": "mme_fintype_constrained_prescribed_fiber_function_card", "child": "mme_fintype_prescribed_fiber_function_card", "via": ["solution", "statement"]}
 {"parent": "mme_fintype_constrained_prescribed_fiber_function_nonempty", "child": "mme_fintype_constrained_prescribed_fiber_function_card", "via": ["solution", "statement"]}
 {"parent": "mme_fintype_prescribed_fiber_function_card", "child": "mme_fintype_fixed_fiber_function_card", "via": ["solution", "statement"]}
+{"parent": "mme_fixed_scale_log_interval_sound", "child": "mme_dyadic_log_interval", "via": ["solution", "statement"]}
 {"parent": "mme_flattening", "child": "mme_tensor", "via": ["statement"]}
 {"parent": "mme_flattening", "child": "mme_tensor_rank", "via": ["statement"]}
 {"parent": "mme_flatteningRank_MMObj_ab", "child": "mme_flattening", "via": ["solution", "statement"]}
@@ -6358,6 +6382,7 @@
 {"parent": "mme_global_CW_finite_count_budget", "child": "mme_dwz_asymmetric_hash_AP_free_membership_iff_common_label", "via": ["solution"]}
 {"parent": "mme_global_CW_finite_count_budget", "child": "mme_global_CW_counting_data", "via": ["solution", "statement"]}
 {"parent": "mme_global_CW_finite_count_budget", "child": "mme_global_CW_simultaneous_usable_incidence", "via": ["solution"]}
+{"parent": "mme_global_CW_graded_assembly_eventual_log_margin", "child": "mme_global_CW_graded_start_data", "via": ["solution", "statement"]}
 {"parent": "mme_global_CW_graded_start_data", "child": "mme_global_CW_joint_start_data", "via": ["statement"]}
 {"parent": "mme_global_CW_graded_start_data", "child": "mme_graded_integer_regional_step_data", "via": ["statement"]}
 {"parent": "mme_global_CW_graded_start_omega_bound", "child": "mme_CW_copied_finite_surplus_omega_bound", "via": ["solution"]}
@@ -6560,8 +6585,9 @@
 {"parent": "mme_induced_mode_choice_certificate_basisZAllowed_descent", "child": "mme_basis_z_allowed_projection", "via": ["solution", "statement"]}
 {"parent": "mme_induced_mode_choice_certificate_basisZAllowed_descent", "child": "mme_induced_mode_choice_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_induced_mode_choice_certificate_descent", "child": "mme_induced_mode_choice_certificate", "via": ["solution", "statement"]}
-{"parent": "mme_induced_mode_choice_certificate_precompose_restrict", "child": "mme_induced_mode_choice_certificate", "via": ["statement"]}
+{"parent": "mme_induced_mode_choice_certificate_precompose_restrict", "child": "mme_induced_mode_choice_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_induced_mode_choice_certificate_precompose_restrict", "child": "mme_tensor_quotient", "via": ["statement"]}
+{"parent": "mme_induced_mode_choice_certificate_precompose_restrict", "child": "mme_tensor_rank", "via": ["solution"]}
 {"parent": "mme_induced_mode_choice_certificate_precompose_router_vanishing", "child": "mme_induced_mode_choice_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_induced_mode_choice_certificate_restrict", "child": "mme_induced_mode_choice_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_induced_mode_choice_certificate_restrict", "child": "mme_tensor_quotient", "via": ["solution", "statement"]}
@@ -6842,6 +6868,9 @@
 {"parent": "mme_modern_CW_power_nonzero_coefficient_fine_support", "child": "mme_kronPow_position_permutation_linear_data", "via": ["solution", "statement"]}
 {"parent": "mme_modern_entropyBits_additive_certificate", "child": "mme_modern_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_modern_entropyBits_additive_certificate_of_log_intervals", "child": "mme_modern_entropyBits_additive_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_modern_entropyBits_fixed_scale_bounds", "child": "mme_dyadic_log_interval", "via": ["statement"]}
+{"parent": "mme_modern_entropyBits_fixed_scale_bounds", "child": "mme_fixed_scale_log_interval_sound", "via": ["solution"]}
+{"parent": "mme_modern_entropyBits_fixed_scale_bounds", "child": "mme_modern_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_modern_entropyNat_upper_from_positive_reference", "child": "mme_modern_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_modern_grouped_fine_y_then_z_direct_sum_restrict", "child": "mme_TypeGrading_kron", "via": ["solution"]}
 {"parent": "mme_modern_grouped_fine_y_then_z_direct_sum_restrict", "child": "mme_complete_split_profile_projection", "via": ["solution", "statement"]}
@@ -7174,6 +7203,7 @@
 {"parent": "mme_omega_lt_CW", "child": "mme_omega_eq_strassen", "via": ["solution"]}
 {"parent": "mme_omega_lt_CW", "child": "mme_omega_le_of_subrank_capacity", "via": ["solution"]}
 {"parent": "mme_omega_lt_CW", "child": "mme_omega_le_of_subrank_capacity_poly", "via": ["solution"]}
+{"parent": "mme_omega_lt_CW", "child": "mme_omega_lt_2376", "via": ["solution"]}
 {"parent": "mme_omega_lt_of_sum_le", "child": "mme_omega_strassen", "via": ["solution", "statement"]}
 {"parent": "mme_omega_normalize", "child": "mme_mmobj_mul", "via": ["statement"]}
 {"parent": "mme_omega_normalize", "child": "mme_omega", "via": ["statement"]}
@@ -22890,6 +22920,8 @@
 {"parent": "moebius_summatory_rpow_bound", "child": "summatory_isBigO_rpow_of_dirichlet_partialSum_tendsto", "via": ["solution"]}
 {"parent": "ns_lemma2_nonneg", "child": "ns_markov_grid_lemma", "via": ["solution"]}
 {"parent": "ns_markov_grid_lemma", "child": "classical_markov_range", "via": ["solution"]}
+{"parent": "odd_goldbach_variant", "child": "WeakGoldbach.three_odd_primes_ge_10pow27", "via": ["solution"]}
+{"parent": "odd_goldbach_variant", "child": "WeakGoldbach.verified_three_odd_primes_to_8875e30", "via": ["solution"]}
 {"parent": "pg_bellman_step", "child": "pg_mdp_core", "via": ["solution", "statement"]}
 {"parent": "pg_bellman_step", "child": "pg_value_differentiable", "via": ["solution"]}
 {"parent": "pg_rho_forward_recursion", "child": "pg_mdp_core", "via": ["solution", "statement"]}
@@ -22918,6 +22950,7 @@
 {"parent": "polyDegree_distinguishing_units_bound", "child": "minsky_papert_symmetrization", "via": ["solution"]}
 {"parent": "polyDegree_distinguishing_units_bound", "child": "ns_lemma2_nonneg", "via": ["solution"]}
 {"parent": "polyDegree_distinguishing_units_bound", "child": "polyDegree", "via": ["solution", "statement"]}
+{"parent": "probe_flt5_basic_v1", "child": "flt_five", "via": ["solution"]}
 {"parent": "r_eq_t_theorem", "child": "taylor_wiles_patching", "via": ["solution"]}
 {"parent": "ribet_level_lowering", "child": "modularity_semistable_elliptic", "via": ["solution"]}
 {"parent": "riemann_hypothesis", "child": "zeta_ne_zero_of_half_lt_re", "via": ["solution"]}

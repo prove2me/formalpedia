@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedBFGS_SQN_bfgsStep_action
 -- name    : LimitedBFGS.SQN.bfgsStep_action
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T19:02:11.785628+00:00
 -- url     : https://prove2.me/theorems/f77d1cba-b0ae-405b-98bb-40f36b12896c

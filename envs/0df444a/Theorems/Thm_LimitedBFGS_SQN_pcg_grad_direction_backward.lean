@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedBFGS_SQN_pcg_grad_direction_backward
 -- name    : LimitedBFGS.SQN.pcg_grad_direction_backward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T07:19:11.206263+00:00
 -- url     : https://prove2.me/theorems/028353c0-b13d-42a3-b941-9375a6e41d7d

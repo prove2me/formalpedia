@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_ForwardSelection_backward_optimality
 -- name    : ScenarioReduction.ForwardSelection.backward_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:59:50.572227+00:00
 -- url     : https://prove2.me/theorems/0e18eb1b-ff88-4a32-926b-89da1537ec61

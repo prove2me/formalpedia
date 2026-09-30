@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_ghz_nonsignaling
 -- name    : DrezetGHZ.ghz_nonsignaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T21:01:25.26064+00:00
 -- url     : https://prove2.me/theorems/881c1fc1-89e7-4de0-a0e7-14f1cbbd22df

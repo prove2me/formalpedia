@@ -1,0 +1,165 @@
+-- Prove2me | solution 1 for ChanPangGQVI.Contraction.lipschitz_estimate
+-- status  : ACCEPTED   (prove)
+-- author  : @ryanshin
+-- created : 2026-09-30T07:59:51.89907+00:00
+-- url     : https://prove2.me/submissions/10d6994c-f5ce-4b6e-bdd3-416067f84bb4
+
+import Mathlib.Analysis.SpecialFunctions.Sqrt
+import Mathlib.Analysis.InnerProductSpace.Projection.Minimal
+import Mathlib.Tactic
+import Definitions.Def_ChanPangGQVI_Contraction_ProjectionMap
+set_option autoImplicit false
+open ChanPangGQVI.Shared ChanPangGQVI.Contraction
+open scoped InnerProductSpace
+
+private theorem nearest_exists {n : ℕ} (S : Set (EuclideanSpace ℝ (Fin n)))
+    (hne : S.Nonempty) (hc : IsClosed S) (hcv : Convex ℝ S) (z : EuclideanSpace ℝ (Fin n)) :
+    ∃ p, IsProj S z p := by
+  letI : Nonempty S := hne.to_subtype
+  have hb : BddBelow (Set.range (fun y : S => ‖z - y‖)) := ⟨0, by
+    rintro _ ⟨y, rfl⟩
+    exact norm_nonneg _⟩
+  obtain ⟨p, hp, hmin⟩ := exists_norm_eq_iInf_of_complete_convex hne hc.isComplete hcv z
+  refine ⟨p, hp, ?_⟩
+  intro y hy
+  rw [norm_sub_rev p z, norm_sub_rev y z, hmin]
+  exact ciInf_le hb ⟨y, hy⟩
+
+private theorem proj_spec {n : ℕ} (S : Set (EuclideanSpace ℝ (Fin n)))
+    (z : EuclideanSpace ℝ (Fin n)) (he : ∃ p, IsProj S z p) : IsProj S z (proj S z) := by
+  classical
+  simpa only [proj, dif_pos he] using he.choose_spec
+
+private theorem nearest_inner {n : ℕ} (S : Set (EuclideanSpace ℝ (Fin n)))
+    (hcv : Convex ℝ S) (z p : EuclideanSpace ℝ (Fin n)) (hp : IsProj S z p) :
+    ∀ q ∈ S, inner ℝ (z-p) (q-p) ≤ 0 := by
+  letI : Nonempty S := ⟨⟨p,hp.1⟩⟩
+  have hb : BddBelow (Set.range (fun y : S => ‖z-y‖)) := ⟨0, by
+    rintro _ ⟨y,rfl⟩
+    exact norm_nonneg _⟩
+  apply (norm_eq_iInf_iff_real_inner_le_zero hcv hp.1).mp
+  apply le_antisymm
+  · apply le_ciInf
+    intro q
+    simpa only [norm_sub_rev z p, norm_sub_rev z q] using hp.2 q q.2
+  · exact ciInf_le hb ⟨p,hp.1⟩
+
+private theorem nearest_unique {n : ℕ} (S : Set (EuclideanSpace ℝ (Fin n)))
+    (hcv : Convex ℝ S) (z p q : EuclideanSpace ℝ (Fin n))
+    (hp : IsProj S z p) (hq : IsProj S z q) : p=q := by
+  have h1 := nearest_inner S hcv z p hp q hq.1
+  have h2 := nearest_inner S hcv z q hq p hp.1
+  have hh : inner ℝ (p-q) (p-q) ≤ 0 := by
+    simp only [inner_sub_left, inner_sub_right, real_inner_comm q p] at *
+    linarith
+  have hn : ‖p-q‖=0 := by
+    rw [real_inner_self_eq_norm_sq] at hh
+    nlinarith [norm_nonneg (p-q)]
+  exact sub_eq_zero.mp (norm_eq_zero.mp hn)
+
+private theorem proj_translate {n : ℕ}
+    (m : EuclideanSpace ℝ (Fin n) → EuclideanSpace ℝ (Fin n))
+    (Ktil : Set (EuclideanSpace ℝ (Fin n)))
+    (hK_ne : Ktil.Nonempty) (hK_closed : IsClosed Ktil) (hK_convex : Convex ℝ Ktil)
+    (x y : EuclideanSpace ℝ (Fin n)) :
+    ChanPangGQVI.Shared.proj (Kmap m Ktil x) y =
+      m x + ChanPangGQVI.Shared.proj Ktil (y - m x) := by
+  have hp := proj_spec Ktil (y-m x) (nearest_exists Ktil hK_ne hK_closed hK_convex (y-m x))
+  have he : ∃ q, IsProj (Kmap m Ktil x) y q := by
+    refine ⟨m x + proj Ktil (y-m x), ⟨_, hp.1, rfl⟩, ?_⟩
+    rintro q ⟨k,hk,rfl⟩
+    have hid (a : EuclideanSpace ℝ (Fin n)) : m x + a - y = a - (y-m x) := by abel
+    rw [hid, hid]
+    exact hp.2 k hk
+  have hq := proj_spec (Kmap m Ktil x) y he
+  have hback : IsProj Ktil (y-m x) (proj (Kmap m Ktil x) y - m x) := by
+    constructor
+    · obtain ⟨k,hk,hkeq⟩ := hq.1
+      rw [hkeq]
+      simpa using hk
+    · intro k hk
+      have h := hq.2 (m x+k) ⟨k,hk,rfl⟩
+      have hleft : proj (Kmap m Ktil x) y - m x - (y-m x) = proj (Kmap m Ktil x) y - y := by abel
+      have hright : k - (y-m x) = m x+k-y := by abel
+      simpa only [hleft, hright] using h
+  have hh := nearest_unique Ktil hK_convex (y-m x) _ _ hback hp
+  rw [← hh]
+  abel
+
+private theorem proj_nonexpansive {n : ℕ} (S : Set (EuclideanSpace ℝ (Fin n)))
+    (hne : S.Nonempty) (hc : IsClosed S) (hcv : Convex ℝ S) (z w : EuclideanSpace ℝ (Fin n)) :
+    ‖proj S z - proj S w‖ ≤ ‖z-w‖ := by
+  have hp := proj_spec S z (nearest_exists S hne hc hcv z)
+  have hq := proj_spec S w (nearest_exists S hne hc hcv w)
+  have h1 := nearest_inner S hcv z _ hp _ hq.1
+  have h2 := nearest_inner S hcv w _ hq _ hp.1
+  have hh : inner ℝ (proj S z-proj S w) (proj S z-proj S w) ≤
+      inner ℝ (z-w) (proj S z-proj S w) := by
+    simp only [inner_sub_left, inner_sub_right, real_inner_comm (proj S w) (proj S z)] at *
+    linarith
+  have hb := real_inner_le_norm (z-w) (proj S z-proj S w)
+  rw [real_inner_self_eq_norm_sq] at hh
+  nlinarith [norm_nonneg (proj S z-proj S w), norm_nonneg (z-w)]
+
+theorem solution {n : ℕ}
+    (m f : EuclideanSpace ℝ (Fin n) → EuclideanSpace ℝ (Fin n))
+    (Ktil : Set (EuclideanSpace ℝ (Fin n)))
+    (hK_ne : Ktil.Nonempty) (hK_closed : IsClosed Ktil) (hK_convex : Convex ℝ Ktil)
+    (α β γ δ : ℝ)
+    (hm_lip : ∀ x y, ‖m x - m y‖ ≤ α * ‖x - y‖)
+    (hf_lip : ∀ x y, ‖f x - f y‖ ≤ β * ‖x - y‖)
+    (hf_mono : ∀ x y, δ * ‖x - y‖ ^ 2 ≤ inner ℝ (x - y) (f x - f y))
+    (hm_mono : ∀ x y, γ * ‖x - y‖ ^ 2 ≤ inner ℝ (x - y) (m x - m y))
+    (lam : ℝ) (hlam : 0 < lam) (y₁ y₂ : EuclideanSpace ℝ (Fin n)) :
+    ‖Flam m f Ktil lam y₁ - Flam m f Ktil lam y₂‖ ≤
+      (α + Real.sqrt (lam ^ 2 * β ^ 2 + 2 * lam * (α * β - δ) + (1 + α ^ 2 - 2 * γ))) *
+        ‖y₁ - y₂‖ := by
+  by_cases hxy : y₁=y₂
+  · subst y₂
+    simp
+  have hd : 0 < ‖y₁-y₂‖ := norm_pos_iff.mpr (sub_ne_zero.mpr hxy)
+  have hm := hm_lip y₁ y₂
+  have hf := hf_lip y₁ y₂
+  have ham : 0 ≤ α * ‖y₁-y₂‖ := (norm_nonneg _).trans hm
+  have hbf : 0 ≤ β * ‖y₁-y₂‖ := (norm_nonneg _).trans hf
+  have hm2 : ‖m y₁-m y₂‖^2 ≤ (α*‖y₁-y₂‖)^2 := pow_le_pow_left₀ (norm_nonneg _) hm 2
+  have hf2 : ‖f y₁-f y₂‖^2 ≤ (β*‖y₁-y₂‖)^2 := pow_le_pow_left₀ (norm_nonneg _) hf 2
+  have hmf : inner ℝ (m y₁-m y₂) (f y₁-f y₂) ≤ (α*‖y₁-y₂‖)*(β*‖y₁-y₂‖) :=
+    (real_inner_le_norm _ _).trans (mul_le_mul hm hf (norm_nonneg _) ham)
+  let Q := lam ^ 2 * β ^ 2 + 2 * lam * (α * β - δ) + (1 + α ^ 2 - 2 * γ)
+  let Z := (y₁-y₂)-(m y₁-m y₂)-lam • (f y₁-f y₂)
+  have hzsq : ‖Z‖^2 ≤ Q * ‖y₁-y₂‖^2 := by
+    have hex : ‖Z‖^2 = ‖y₁-y₂‖^2 + ‖m y₁-m y₂‖^2 + lam^2*‖f y₁-f y₂‖^2
+        - 2*inner ℝ (y₁-y₂) (m y₁-m y₂) - 2*lam*inner ℝ (y₁-y₂) (f y₁-f y₂)
+        + 2*lam*inner ℝ (m y₁-m y₂) (f y₁-f y₂) := by
+      simp only [Z, norm_sub_sq_real, inner_sub_left, real_inner_smul_right, norm_smul,
+        Real.norm_eq_abs, mul_pow, sq_abs]
+      ring
+    have hwf := mul_le_mul_of_nonneg_left hf2 (sq_nonneg lam)
+    have hwfm := mul_le_mul_of_nonneg_left (hf_mono y₁ y₂) (by positivity : 0 ≤ 2*lam)
+    have hwmm := hm_mono y₁ y₂
+    have hwmf := mul_le_mul_of_nonneg_left hmf (by positivity : 0 ≤ 2*lam)
+    dsimp [Q]
+    nlinarith
+  have hQ : 0 ≤ Q := nonneg_of_mul_nonneg_left ((sq_nonneg ‖Z‖).trans hzsq) (sq_pos_of_pos hd)
+  have hz : ‖Z‖ ≤ Real.sqrt Q * ‖y₁-y₂‖ := by
+    have hs : (Real.sqrt Q * ‖y₁-y₂‖)^2 = Q * ‖y₁-y₂‖^2 := by rw [mul_pow, Real.sq_sqrt hQ]
+    have hs0 : 0 ≤ Real.sqrt Q * ‖y₁-y₂‖ := mul_nonneg (Real.sqrt_nonneg _) hd.le
+    nlinarith [norm_nonneg Z]
+  unfold Flam
+  rw [proj_translate m Ktil hK_ne hK_closed hK_convex y₁,
+    proj_translate m Ktil hK_ne hK_closed hK_convex y₂]
+  have he : m y₁ + proj Ktil (y₁-lam • f y₁-m y₁) - (m y₂ + proj Ktil (y₂-lam • f y₂-m y₂)) =
+      (m y₁-m y₂) + (proj Ktil (y₁-lam • f y₁-m y₁) - proj Ktil (y₂-lam • f y₂-m y₂)) := by abel
+  rw [he]
+  have hzid : (y₁-lam • f y₁-m y₁)-(y₂-lam • f y₂-m y₂) = Z := by
+    dsimp [Z]
+    simp only [smul_sub]
+    abel
+  have hp := proj_nonexpansive Ktil hK_ne hK_closed hK_convex
+    (y₁-lam • f y₁-m y₁) (y₂-lam • f y₂-m y₂)
+  rw [hzid] at hp
+  calc
+    _ ≤ ‖m y₁-m y₂‖ + ‖proj Ktil (y₁-lam • f y₁-m y₁) - proj Ktil (y₂-lam • f y₂-m y₂)‖ := norm_add_le _ _
+    _ ≤ α*‖y₁-y₂‖ + Real.sqrt Q * ‖y₁-y₂‖ := add_le_add hm (hp.trans hz)
+    _ = _ := by dsimp [Q]; ring

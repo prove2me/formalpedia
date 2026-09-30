@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_cosmological_constant_as_vacuum_energy
 -- name    : FriedmannEquations.cosmological_constant_as_vacuum_energy
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T22:27:37.695494+00:00
 -- url     : https://prove2.me/theorems/2690df86-87cf-4861-ab8e-3d49bd427d71

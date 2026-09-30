@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErdosProblems_Erdos243_LcmRecordCrossing_sum_firstCrossing_partition
 -- name    : ErdosProblems.Erdos243.LcmRecordCrossing.sum_firstCrossing_partition
--- status  : Open
+-- status  : Proved
 -- author  : @willcook
 -- created : 2026-09-27T23:01:00.043154+00:00
 -- url     : https://prove2.me/theorems/793049d1-7ef5-4b72-adbc-ce5fd518e45d

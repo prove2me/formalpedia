@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxNewton_Exact_prox_newton_quadratic
 -- name    : ProxNewton.Exact.prox_newton_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:34:09.435981+00:00
 -- url     : https://prove2.me/theorems/2cddbec7-6d25-4454-90d2-6a22a2b0e55a

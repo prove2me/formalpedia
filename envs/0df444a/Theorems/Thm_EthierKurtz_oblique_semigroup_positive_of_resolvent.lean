@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EthierKurtz_oblique_semigroup_positive_of_resolvent
 -- name    : EthierKurtz.oblique_semigroup_positive_of_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @caleb
 -- created : 2026-09-27T13:48:43.109607+00:00
 -- url     : https://prove2.me/theorems/376cf2cd-c47c-4779-9521-f24f92268392

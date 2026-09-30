@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_prime_mul_coprime_nonsquares_not_square
 -- name    : OddPerfectNumber.Kernel.prime_mul_coprime_nonsquares_not_square
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T06:55:55.847119+00:00
 -- url     : https://prove2.me/theorems/0a9fa825-491c-44a2-9f99-eaf3e4677c74

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_LowDim_run_isFejerMonotone
 -- name    : RelaxationMethod.LowDim.run_isFejerMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:29:41.121196+00:00
 -- url     : https://prove2.me/theorems/981c3125-81ba-41a7-98d2-708b4ab8acad

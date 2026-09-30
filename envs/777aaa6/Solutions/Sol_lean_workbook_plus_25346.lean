@@ -1,22 +1,17 @@
 -- Prove2me | solution 1 for lean_workbook_plus_25346
 -- status  : ACCEPTED   (disprove)
--- author  : @wamlart
--- created : 2026-09-05T18:20:48.197052+00:00
--- url     : https://prove2.me/submissions/a9fa257f-5456-4980-87e6-19297ae5d9d9
+-- author  : @ryanshin
+-- created : 2026-09-05T17:44:52.450443+00:00
+-- url     : https://prove2.me/submissions/84b71026-8f33-4ea8-ad41-9d2ee0c61ce2
 
-import Mathlib.Analysis.Complex.Basic
-import Mathlib.Data.Real.Sqrt
-import Mathlib.Tactic.Push
-import Mathlib.Tactic.NormNum
-import Mathlib.Tactic.NormNum.Prime
-import Mathlib.Tactic.NormNum.GCD
-import Mathlib.Tactic.Linarith
-import Mathlib.Tactic.Positivity
-import Lean
-import Mathlib.Analysis.Complex.Basic
+import Mathlib
 set_option autoImplicit false
+
 theorem solution : ¬ (∀ a b : ℝ, a * b * (a ^ 4 + b ^ 4) + 2 * a * b ≥ 2 * a * b * (a ^ 2 + b ^ 2)) := by
-  push_neg
-  refine ⟨(-3), ?_⟩
-  refine ⟨(5/2), ?_⟩
-  norm_num [Real.sqrt_eq_zero_of_nonpos, Real.sqrt_le_iff, Real.sqrt_lt', Real.lt_sqrt]
+  intro h
+  have bad := h 1 (-2)
+  norm_num at bad
+  have hb : (4 : ℝ) + 2 * (1 + 16) ≤ 4 * (1 + 4) := bad
+  exact (by norm_num : ¬ ((4 : ℝ) + 2 * (1 + 16) ≤ 4 * (1 + 4))) hb
+
+#print axioms solution

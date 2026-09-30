@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedRemoval_CorrectedMeanSquareRemovalBound
 -- name    : FedRemoval.CorrectedMeanSquareRemovalBound
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-28T22:08:56.557339+00:00
 -- url     : https://prove2.me/theorems/1a437096-42b6-49a2-8fa2-baf79a75c87b

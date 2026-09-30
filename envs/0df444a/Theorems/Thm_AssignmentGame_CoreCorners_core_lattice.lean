@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignmentGame_CoreCorners_core_lattice
 -- name    : AssignmentGame.CoreCorners.core_lattice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:24:07.545528+00:00
 -- url     : https://prove2.me/theorems/f6bc491c-cc89-45ca-b51e-a7a7e90b5e6b

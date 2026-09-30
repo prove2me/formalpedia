@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_buchholz_contribution_pairing_count_row_energy_bound
 -- name    : buchholz_contribution_pairing_count_row_energy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-07-26T15:28:10.009566+00:00
 -- url     : https://prove2.me/theorems/24869b94-d717-46e8-a212-a58764cb3288

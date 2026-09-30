@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedBCN_Controllability_stateControllable_of_trajControllable
 -- name    : DelayedBCN.Controllability.stateControllable_of_trajControllable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:08:45.465903+00:00
 -- url     : https://prove2.me/theorems/3c340b0d-2786-4938-9be9-8464603feb58

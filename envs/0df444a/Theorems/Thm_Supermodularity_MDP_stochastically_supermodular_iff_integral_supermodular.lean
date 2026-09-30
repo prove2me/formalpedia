@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Supermodularity_MDP_stochastically_supermodular_iff_integral_supermodular
 -- name    : Supermodularity.MDP.stochastically_supermodular_iff_integral_supermodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:28:59.371459+00:00
 -- url     : https://prove2.me/theorems/5e60d092-1f97-48aa-b322-5d88efe355a2

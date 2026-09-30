@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmI_theorem_I
 -- name    : ArrowDebreu.ThmI.theorem_I
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:44:23.434999+00:00
 -- url     : https://prove2.me/theorems/6f936c65-a456-4a85-b2ae-c676464d53c7

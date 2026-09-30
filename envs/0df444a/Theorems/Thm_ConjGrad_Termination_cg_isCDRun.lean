@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_Termination_cg_isCDRun
 -- name    : ConjGrad.Termination.cg_isCDRun
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:52:33.201029+00:00
 -- url     : https://prove2.me/theorems/25565eb8-0348-43cb-b77d-b967363c7852

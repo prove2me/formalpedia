@@ -1,12 +1,14 @@
 -- Prove2me | solution 1 for lean_workbook_plus_66911
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T06:14:45.452337+00:00
--- url     : https://prove2.me/submissions/3764df77-8c46-4c5a-8389-d1968e7b56c0
+-- author  : @ryanshin
+-- created : 2026-09-05T03:16:57.190076+00:00
+-- url     : https://prove2.me/submissions/1a83ae95-383c-407f-a0ee-afc6a4336d1a
 
-import Mathlib.Analysis.Complex.Basic
+import Mathlib.Data.Real.Basic
+import Mathlib.Tactic.Linarith
 
-set_option autoImplicit false
+theorem solution (a b c : ℝ) (habc : a * b * c = 1)
+    (ha : a > 0) (hb : b > 0) (hc : c > 0) : a * b ^ 2 + a * c ^ 2 ≥ 1 := by
+  nlinarith [mul_nonneg ha.le (sq_nonneg (b - c))]
 
-theorem solution (a b c : ℝ) (habc : a * b * c = 1) (ha : a > 0) (hb : b > 0) (hc : c > 0) : a * b^2 + a * c^2 ≥ 1 := by
-  (intros; nlinarith [sq_nonneg (a), sq_nonneg (b), sq_nonneg (c), sq_nonneg (a - b), sq_nonneg (a - c), sq_nonneg (b - c), sq_nonneg (a + b), sq_nonneg (a + c), sq_nonneg (b + c)])
+#print axioms solution

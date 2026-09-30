@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedRemoval_RidgeStructure
 -- name    : FedRemoval.RidgeStructure
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-28T21:44:44.225417+00:00
 -- url     : https://prove2.me/theorems/a35d7307-9a93-4209-816d-112bc2f7d264

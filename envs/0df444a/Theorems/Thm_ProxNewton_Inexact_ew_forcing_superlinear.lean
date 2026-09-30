@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxNewton_Inexact_ew_forcing_superlinear
 -- name    : ProxNewton.Inexact.ew_forcing_superlinear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:40:36.138615+00:00
 -- url     : https://prove2.me/theorems/396a3775-2ad9-426f-bf30-f1a103b46659

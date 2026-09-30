@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Tikhonov_strong_duality_eq18
 -- name    : RobustLS.Tikhonov.strong_duality_eq18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:30:25.840795+00:00
 -- url     : https://prove2.me/theorems/a0eb2bc1-6b2f-47f4-b5c6-bf1bfbea6b62

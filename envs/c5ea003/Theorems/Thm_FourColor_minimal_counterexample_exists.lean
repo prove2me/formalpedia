@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourColor_minimal_counterexample_exists
 -- name    : FourColor.minimal_counterexample_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-26T19:55:05.06299+00:00
 -- url     : https://prove2.me/theorems/f8b4071f-9222-4dc0-aa0a-54246641c5cf

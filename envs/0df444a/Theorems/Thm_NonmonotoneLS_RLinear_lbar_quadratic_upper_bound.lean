@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneLS_RLinear_lbar_quadratic_upper_bound
 -- name    : NonmonotoneLS.RLinear.lbar_quadratic_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T22:31:22.624509+00:00
 -- url     : https://prove2.me/theorems/32b240fa-61e4-4832-9e7e-84e69a9fadb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_white_point_cancellation
 -- name    : syracuse_white_point_cancellation
--- status  : Open
+-- status  : Proved
 -- author  : @mysticflounder
 -- created : 2026-09-09T09:01:19.321983+00:00
 -- url     : https://prove2.me/theorems/7a73f14d-d576-4565-acfb-c53e02e4be01

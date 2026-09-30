@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_momentOfInertia_hasDerivAt
 -- name    : VirialTheorem.momentOfInertia_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T17:08:55.2351+00:00
 -- url     : https://prove2.me/theorems/962345c6-809e-4e86-becc-34c4f3e2f888

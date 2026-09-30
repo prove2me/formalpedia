@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotonicSolutions_StrongMono_shapley_unique_symmetric_strongly_monotonic
 -- name    : MonotonicSolutions.StrongMono.shapley_unique_symmetric_strongly_monotonic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:11:27.214947+00:00
 -- url     : https://prove2.me/theorems/78460855-0b23-4775-8847-17a76f8d828a

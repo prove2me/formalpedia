@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_curvature_sign_iff_critical_density
 -- name    : FriedmannEquations.curvature_sign_iff_critical_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T21:57:44.154877+00:00
 -- url     : https://prove2.me/theorems/ea01d50c-55f6-4310-ad4b-c02355691a75

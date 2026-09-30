@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLP_Counterpart_alpha_beta_ratio
 -- name    : RobustLP.Counterpart.alpha_beta_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:29:58.136252+00:00
 -- url     : https://prove2.me/theorems/0b4c0485-ddec-4242-9f61-a2de121f3774

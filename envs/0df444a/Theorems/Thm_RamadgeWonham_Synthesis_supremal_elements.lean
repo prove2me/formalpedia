@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamadgeWonham_Synthesis_supremal_elements
 -- name    : RamadgeWonham.Synthesis.supremal_elements
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:42:00.677765+00:00
 -- url     : https://prove2.me/theorems/6cfcff24-f051-4342-a74a-106d484fe0ed

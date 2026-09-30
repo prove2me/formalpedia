@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_PAC_single_hypothesis_generalization_bound
 -- name    : FoundationsML.PAC.single_hypothesis_generalization_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:09:15.781966+00:00
 -- url     : https://prove2.me/theorems/f6cd0d1d-8bb2-4d7d-a93d-d67f152e70fa

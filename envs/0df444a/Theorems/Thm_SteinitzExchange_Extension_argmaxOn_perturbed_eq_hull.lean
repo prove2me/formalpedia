@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Extension_argmaxOn_perturbed_eq_hull
 -- name    : SteinitzExchange.Extension.argmaxOn_perturbed_eq_hull
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T16:44:11.369814+00:00
 -- url     : https://prove2.me/theorems/17853cd0-8571-4d05-9f61-95d1c63055b0

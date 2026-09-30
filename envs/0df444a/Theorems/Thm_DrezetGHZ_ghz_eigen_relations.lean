@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DrezetGHZ_ghz_eigen_relations
 -- name    : DrezetGHZ.ghz_eigen_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T19:25:17.900224+00:00
 -- url     : https://prove2.me/theorems/e7a6fed1-c25e-4799-b856-82fdb78fd98a

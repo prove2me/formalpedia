@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourColor_mirror_minimal_counterexample
 -- name    : FourColor.mirror_minimal_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @Minghui
 -- created : 2026-09-27T01:40:19.083994+00:00
 -- url     : https://prove2.me/theorems/0441c6f3-2bf0-4712-83bc-47efe2d7b198

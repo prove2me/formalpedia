@@ -1,30 +1,23 @@
 -- Prove2me | solution 1 for lean_workbook_plus_1355
 -- status  : ACCEPTED   (prove)
--- author  : @wamlart
--- created : 2026-09-05T18:05:02.947848+00:00
--- url     : https://prove2.me/submissions/c1b9e18e-3652-4d08-885e-a633a5e67d7e
+-- author  : @ryanshin
+-- created : 2026-09-05T18:00:10.609493+00:00
+-- url     : https://prove2.me/submissions/fecb075e-ad4c-41f3-ad6f-1d8f223e0fc8
 
-import Mathlib.Tactic
-import Mathlib.Analysis.Complex.Basic
-
+import Mathlib
 set_option autoImplicit false
-set_option maxRecDepth 2048
-set_option maxHeartbeats 300000
 
-
-
-theorem solution (x y z : ℝ) (hx : 0 < x) (hy : 0 < y) (hz : 0 < z) : (y / (x * y + y + 1) + z / (y * z + z + 1) + x / (z * x + x + 1)) ≤ 1 := by
-  intros
-  
-  have h_identity : (1 + ((x ^ 2) * (y ^ 2) * (z ^ 2)) + ((-2) * x * y * z)) = (1 : ℝ) * 1 * ((1 + ((-1) * x * y * z)))^2 := by
+theorem solution (x y z : ℝ) (hx : 0 < x) (hy : 0 < y) (hz : 0 < z) : (y / (x * y + y + 1) + z / (y * z + z + 1) + x / (z * x + x + 1)) ≤ 1   := by
+  have h1 : 0 < x * y + y + 1 := by positivity
+  have h2 : 0 < y * z + z + 1 := by positivity
+  have h3 : 0 < z * x + x + 1 := by positivity
+  have hd : 0 < (x * y + y + 1) * (y * z + z + 1) * (z * x + x + 1) :=
+    mul_pos (mul_pos h1 h2) h3
+  apply (mul_le_mul_iff_right₀ hd).mp
+  have he : (1 - (y / (x * y + y + 1) + z / (y * z + z + 1) + x / (z * x + x + 1))) *
+      ((x * y + y + 1) * (y * z + z + 1) * (z * x + x + 1)) = (x * y * z - 1) ^ 2 := by
+    field_simp [ne_of_gt h1, ne_of_gt h2, ne_of_gt h3]
     ring
-  have h_nonnegative : (0 : ℝ) ≤ (1 + ((x ^ 2) * (y ^ 2) * (z ^ 2)) + ((-2) * x * y * z)) := by
-    rw [h_identity]
-    positivity
-  have h_denominator : (0 : ℝ) < ((1 + x + (x * z)) * (1 + y + (x * y)) * (1 + z + (y * z))) := by positivity
-  have h_rational : (1) - ((y / (x * y + y + 1) + z / (y * z + z + 1) + x / (z * x + x + 1))) = ((1 + ((x ^ 2) * (y ^ 2) * (z ^ 2)) + ((-2) * x * y * z))) / (((1 + x + (x * z)) * (1 + y + (x * y)) * (1 + z + (y * z)))) := by
-    field_simp (disch := positivity)
-    <;> ring
-  apply sub_nonneg.mp
-  rw [h_rational]
-  exact div_nonneg h_nonnegative (le_of_lt h_denominator)
+  nlinarith only [he, sq_nonneg (x * y * z - 1)]
+
+#print axioms solution

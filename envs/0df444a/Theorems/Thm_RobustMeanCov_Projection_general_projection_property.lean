@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_Projection_general_projection_property
 -- name    : RobustMeanCov.Projection.general_projection_property
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:47:25.956591+00:00
 -- url     : https://prove2.me/theorems/0038d53a-d141-4d60-bf98-a26920908c4a

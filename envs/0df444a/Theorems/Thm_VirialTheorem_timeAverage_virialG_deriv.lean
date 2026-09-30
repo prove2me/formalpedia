@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_timeAverage_virialG_deriv
 -- name    : VirialTheorem.timeAverage_virialG_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T19:03:24.763228+00:00
 -- url     : https://prove2.me/theorems/6ecde9db-059d-4c8e-a11a-e4983e1c3a62

@@ -1,12 +1,24 @@
 -- Prove2me | solution 1 for lean_workbook_plus_13220
 -- status  : ACCEPTED   (prove)
--- author  : @evgeth
--- created : 2026-09-05T13:32:28.371254+00:00
--- url     : https://prove2.me/submissions/fc730ad9-974c-46ac-8f93-3dfd83269874
+-- author  : @ryanshin
+-- created : 2026-09-05T03:19:36.574825+00:00
+-- url     : https://prove2.me/submissions/db8df1a6-2344-4eb1-8660-d8220d429621
 
-import Mathlib.Analysis.Complex.Basic
+import Mathlib
 
-set_option autoImplicit false
+theorem solution (x y z : ℝ) (hx : 0 < x) (hy : 0 < y) (hz : 0 < z) :
+    (z + x) / y + (x + y) / z ≥
+      4 * x / (y + z) + 8 * y * z / (y + z) ^ 2 := by
+  have hsum : 0 < y + z := add_pos hy hz
+  have hid : (z + x) / y + (x + y) / z -
+      (4 * x / (y + z) + 8 * y * z / (y + z) ^ 2) =
+      (y - z) ^ 2 * (x * (y + z) + y ^ 2 + 4 * y * z + z ^ 2) /
+        (y * z * (y + z) ^ 2) := by
+    field_simp
+    <;> ring
+  have hnonneg : 0 ≤
+      (y - z) ^ 2 * (x * (y + z) + y ^ 2 + 4 * y * z + z ^ 2) /
+        (y * z * (y + z) ^ 2) := by positivity
+  linarith only [hid, hnonneg]
 
-theorem solution (x y z : ℝ) (hx : 0 < x) (hy : 0 < y) (hz : 0 < z) : (z + x) / y + (x + y) / z ≥ 4 * x / (y + z) + 8 * y * z / (y + z) ^ 2 := by
-  (intros; field_simp; nlinarith [sq_nonneg (x), sq_nonneg (y), sq_nonneg (z), sq_nonneg (x - y), sq_nonneg (x - z), sq_nonneg (y - z), sq_nonneg (x + y), sq_nonneg (x + z), sq_nonneg (y + z), mul_pos hx hy, mul_pos hx hz, mul_pos hy hz])
+#print axioms solution

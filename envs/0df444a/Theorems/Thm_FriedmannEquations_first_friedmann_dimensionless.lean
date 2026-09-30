@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriedmannEquations_first_friedmann_dimensionless
 -- name    : FriedmannEquations.first_friedmann_dimensionless
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T22:19:25.169517+00:00
 -- url     : https://prove2.me/theorems/bb8f9d10-bb7d-479c-9f8a-8fa3b0b34696

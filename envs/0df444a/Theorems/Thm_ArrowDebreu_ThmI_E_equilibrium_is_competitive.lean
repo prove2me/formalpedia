@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmI_E_equilibrium_is_competitive
 -- name    : ArrowDebreu.ThmI.E_equilibrium_is_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:41:11.147418+00:00
 -- url     : https://prove2.me/theorems/c1950e26-b88b-4f66-a561-b5028d6fc6f7

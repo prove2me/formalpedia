@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossSolandGAP_Bound_PRL_optimal_duals
 -- name    : RossSolandGAP.Bound.PRL_optimal_duals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:13:16.345275+00:00
 -- url     : https://prove2.me/theorems/4cbf37e7-b57f-46a1-a468-d1b94ce0d7fc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamadgeWonham_Synthesis_prop_4_1_i
 -- name    : RamadgeWonham.Synthesis.prop_4_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:38:33.474372+00:00
 -- url     : https://prove2.me/theorems/48aa3811-ec3f-4044-9c9e-7af3537dfec6

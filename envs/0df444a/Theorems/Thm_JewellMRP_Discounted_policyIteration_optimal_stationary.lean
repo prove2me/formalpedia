@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_Discounted_policyIteration_optimal_stationary
 -- name    : JewellMRP.Discounted.policyIteration_optimal_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:04:10.673403+00:00
 -- url     : https://prove2.me/theorems/f475a952-5fb7-482c-9c7f-0044dfc4dd1b

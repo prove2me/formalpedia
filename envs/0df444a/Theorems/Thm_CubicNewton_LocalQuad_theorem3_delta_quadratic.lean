@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CubicNewton_LocalQuad_theorem3_delta_quadratic
 -- name    : CubicNewton.LocalQuad.theorem3_delta_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:37:06.663985+00:00
 -- url     : https://prove2.me/theorems/7353f2a0-3ef3-489a-8a24-c1b5712ffac6

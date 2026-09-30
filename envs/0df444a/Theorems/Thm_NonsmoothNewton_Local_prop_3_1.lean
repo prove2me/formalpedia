@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_Local_prop_3_1
 -- name    : NonsmoothNewton.Local.prop_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:03:37.315187+00:00
 -- url     : https://prove2.me/theorems/a2f39e9f-7289-48b1-b7e6-3c890db1f5c1

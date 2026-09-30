@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NHPPArrivals_LinearRate_mixture_degree
 -- name    : NHPPArrivals.LinearRate.mixture_degree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:21:29.369993+00:00
 -- url     : https://prove2.me/theorems/21546d22-c21f-437e-a50b-0319b445ec46

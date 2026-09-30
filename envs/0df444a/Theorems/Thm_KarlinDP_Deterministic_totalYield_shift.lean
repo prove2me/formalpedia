@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarlinDP_Deterministic_totalYield_shift
 -- name    : KarlinDP.Deterministic.totalYield_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:16:22.596235+00:00
 -- url     : https://prove2.me/theorems/16d7a01e-db56-46cb-89d1-d667b4a5eb4d

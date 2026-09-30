@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLP_Counterpart_star_iff_exists_irc
 -- name    : RobustLP.Counterpart.star_iff_exists_irc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:28:25.293976+00:00
 -- url     : https://prove2.me/theorems/dc2e12d7-fdb9-4b77-9c3c-5a3fce245c94

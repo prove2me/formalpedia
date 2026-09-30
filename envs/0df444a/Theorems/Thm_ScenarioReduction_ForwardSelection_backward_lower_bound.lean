@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_ForwardSelection_backward_lower_bound
 -- name    : ScenarioReduction.ForwardSelection.backward_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:59:11.853402+00:00
 -- url     : https://prove2.me/theorems/0fceaecb-33e8-4430-b9c4-37a9ac8e8955

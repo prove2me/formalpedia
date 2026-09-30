@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedBCN_Controllability_numToStateAvoiding_eq_sum
 -- name    : DelayedBCN.Controllability.numToStateAvoiding_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:08:19.873399+00:00
 -- url     : https://prove2.me/theorems/df4cd495-a311-439d-92ca-d5fcebde33b5

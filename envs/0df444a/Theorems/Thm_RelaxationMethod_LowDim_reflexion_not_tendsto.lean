@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_LowDim_reflexion_not_tendsto
 -- name    : RelaxationMethod.LowDim.reflexion_not_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:31:51.966347+00:00
 -- url     : https://prove2.me/theorems/64ad3357-f417-4bc2-8b32-51a03a927a57

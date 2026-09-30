@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseApprox_Hardness_nnz_ge_third
 -- name    : SparseApprox.Hardness.nnz_ge_third
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:27:49.237863+00:00
 -- url     : https://prove2.me/theorems/b4b37036-d449-4132-8c99-65c85db56f14

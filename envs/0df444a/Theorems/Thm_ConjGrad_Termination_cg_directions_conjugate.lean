@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConjGrad_Termination_cg_directions_conjugate
 -- name    : ConjGrad.Termination.cg_directions_conjugate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:50:18.004022+00:00
 -- url     : https://prove2.me/theorems/03ef5f1d-8a70-496c-a2a2-11921066d0dc

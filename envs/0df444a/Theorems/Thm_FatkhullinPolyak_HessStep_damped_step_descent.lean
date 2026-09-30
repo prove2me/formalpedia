@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FatkhullinPolyak_HessStep_damped_step_descent
 -- name    : FatkhullinPolyak.HessStep.damped_step_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:50:57.928307+00:00
 -- url     : https://prove2.me/theorems/7de8ddbf-460f-42b0-9021-b908c20f943f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_OnlineBoosting_online_boosting_regret
 -- name    : OnlineConvexOpt.OnlineBoosting.online_boosting_regret
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:51:40.479497+00:00
 -- url     : https://prove2.me/theorems/2ca89b16-86bc-430d-93db-97417d322366

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_ForwardSelection_forward_first_step
 -- name    : ScenarioReduction.ForwardSelection.forward_first_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:58:33.732482+00:00
 -- url     : https://prove2.me/theorems/04fd0904-3e81-4599-84a5-2f8a019cf03d

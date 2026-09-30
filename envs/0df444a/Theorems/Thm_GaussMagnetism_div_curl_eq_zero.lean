@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMagnetism_div_curl_eq_zero
 -- name    : GaussMagnetism.div_curl_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T19:56:09.669654+00:00
 -- url     : https://prove2.me/theorems/f4318d5a-a512-4d5f-86f2-d5226f57822c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MegiddoLP_FixedDim_log_queries_all
 -- name    : MegiddoLP.FixedDim.log_queries_all
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:11:02.53599+00:00
 -- url     : https://prove2.me/theorems/b2025eea-e972-4bdc-a978-49e75c9e88b1

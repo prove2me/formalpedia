@@ -1,17 +1,12 @@
 -- Prove2me | solution 1 for lean_workbook_plus_10412
 -- status  : ACCEPTED   (prove)
--- author  : @wamlart
--- created : 2026-09-05T17:19:25.045852+00:00
--- url     : https://prove2.me/submissions/61b1089f-8d7f-4cf0-acb7-54d6604e128d
+-- author  : @ryanshin
+-- created : 2026-09-05T17:11:28.74914+00:00
+-- url     : https://prove2.me/submissions/6162d93a-f299-4172-a7a3-33fcecc517eb
 
-import Mathlib
-
-set_option autoImplicit false
-set_option maxRecDepth 2048
-set_option maxHeartbeats 200000
-
-
+import Mathlib.Analysis.Complex.Basic
 
 theorem solution (k : ℕ) (h : 1 ≤ k) : 2 ^ (k - 1) ≥ k := by
-  have hp : k-1 < 2^(k-1) := Nat.lt_two_pow_self
-  omega
+  obtain ⟨m, rfl⟩ : ∃ m, k = m + 1 := ⟨k - 1, by omega⟩
+  simp only [Nat.add_sub_cancel, ge_iff_le]
+  exact Nat.lt_two_pow_self

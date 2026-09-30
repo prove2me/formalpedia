@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeasonalPricing_Announced_case_i_threshold_p1
 -- name    : SeasonalPricing.Announced.case_i_threshold_p1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:12:33.501293+00:00
 -- url     : https://prove2.me/theorems/797e9c63-b571-4e46-90c6-557585fa7af3

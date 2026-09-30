@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_projGrad_norm_lsc
 -- name    : CalamaiMore.Convergence.projGrad_norm_lsc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:34:23.26251+00:00
 -- url     : https://prove2.me/theorems/80b69adc-c7e7-4818-b4c1-b53dcbfdd07a

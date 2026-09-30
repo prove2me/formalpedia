@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MeanResidualLife_dmrl_mrl_order_add_indep
 -- name    : StochasticOrders.MeanResidualLife.dmrl_mrl_order_add_indep
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:28:27.159992+00:00
 -- url     : https://prove2.me/theorems/9d53c85c-d566-4f4b-8433-d4c38cc84bba

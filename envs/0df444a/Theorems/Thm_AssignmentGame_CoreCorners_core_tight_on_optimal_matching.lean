@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignmentGame_CoreCorners_core_tight_on_optimal_matching
 -- name    : AssignmentGame.CoreCorners.core_tight_on_optimal_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:23:31.814542+00:00
 -- url     : https://prove2.me/theorems/712d86fb-7f9f-4cfb-a0fe-66ee1a6650ee

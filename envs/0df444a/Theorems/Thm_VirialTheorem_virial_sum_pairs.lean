@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VirialTheorem_virial_sum_pairs
 -- name    : VirialTheorem.virial_sum_pairs
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T17:43:41.8047+00:00
 -- url     : https://prove2.me/theorems/95fc5e9a-7ea1-4667-96c9-2b5b31011c47

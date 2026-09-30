@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Deterministic_cruel_taskmaster_lower_bound
 -- name    : MetricalTaskSystem.Deterministic.cruel_taskmaster_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:12:37.162993+00:00
 -- url     : https://prove2.me/theorems/7363b13e-7b66-4132-afcb-cc5ad442d9a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseApprox_Hardness_exactCover_gives_exact_solution
 -- name    : SparseApprox.Hardness.exactCover_gives_exact_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:26:53.017412+00:00
 -- url     : https://prove2.me/theorems/f95dbcc5-e275-4700-99c1-839805b146f4

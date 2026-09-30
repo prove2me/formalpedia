@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarlinDP_Deterministic_exists_optimal_strategy
 -- name    : KarlinDP.Deterministic.exists_optimal_strategy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:15:46.913974+00:00
 -- url     : https://prove2.me/theorems/e95e33fc-6797-4729-a85a-42fe57905505

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedBFGS_SQN_pcg_dir_precond_grad_gap2
 -- name    : LimitedBFGS.SQN.pcg_dir_precond_grad_gap2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T07:10:56.752114+00:00
 -- url     : https://prove2.me/theorems/ac9a61b9-1bdf-4174-b65c-406d358c6fc7

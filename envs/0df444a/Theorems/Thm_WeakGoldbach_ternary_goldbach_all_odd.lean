@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakGoldbach_ternary_goldbach_all_odd
 -- name    : WeakGoldbach.ternary_goldbach_all_odd
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-25T12:33:27.711778+00:00
 -- url     : https://prove2.me/theorems/4e160e92-64f7-4655-94d2-59765f804d0c

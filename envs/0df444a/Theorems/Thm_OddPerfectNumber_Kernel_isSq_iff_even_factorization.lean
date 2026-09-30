@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_isSq_iff_even_factorization
 -- name    : OddPerfectNumber.Kernel.isSq_iff_even_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T06:47:26.896223+00:00
 -- url     : https://prove2.me/theorems/28b00e2d-2e78-4683-8075-7135bec4a50b

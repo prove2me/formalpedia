@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_FirstFit_weight_sum_le_seventeen_tenths
 -- name    : BinPacking.FirstFit.weight_sum_le_seventeen_tenths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:05:40.919844+00:00
 -- url     : https://prove2.me/theorems/449287ba-4666-452d-9323-ea89fc5c3e2d

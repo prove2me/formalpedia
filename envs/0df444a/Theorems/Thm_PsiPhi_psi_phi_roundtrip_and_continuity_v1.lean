@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PsiPhi_psi_phi_roundtrip_and_continuity_v1
 -- name    : PsiPhi.psi_phi_roundtrip_and_continuity_v1
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-28T20:05:06.364133+00:00
 -- url     : https://prove2.me/theorems/e53c27a6-3166-474c-b710-2e4974c43acd

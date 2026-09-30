@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FrobeniusDensity_chebotarev_natural_density_core
 -- name    : FrobeniusDensity.chebotarev_natural_density_core
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-23T19:29:28.726845+00:00
 -- url     : https://prove2.me/theorems/eada4220-79de-4d3b-b51b-db8bd0c3c4a9

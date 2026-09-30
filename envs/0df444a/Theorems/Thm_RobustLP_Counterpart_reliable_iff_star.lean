@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLP_Counterpart_reliable_iff_star
 -- name    : RobustLP.Counterpart.reliable_iff_star
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:28:02.211302+00:00
 -- url     : https://prove2.me/theorems/a5d69ebc-1bc7-40a8-90ff-9d623330c2fd

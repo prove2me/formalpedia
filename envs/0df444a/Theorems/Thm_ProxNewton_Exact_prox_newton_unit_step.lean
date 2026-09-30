@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxNewton_Exact_prox_newton_unit_step
 -- name    : ProxNewton.Exact.prox_newton_unit_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:33:38.476315+00:00
 -- url     : https://prove2.me/theorems/7ee66b8f-4abc-4d54-8fb0-6d78dfb4b01f

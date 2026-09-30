@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelaxationMethod_FullDim_run_fejerMonotone
 -- name    : RelaxationMethod.FullDim.run_fejerMonotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:26:03.260642+00:00
 -- url     : https://prove2.me/theorems/d7ea2196-dbb1-4087-ad12-f81f86abf90e

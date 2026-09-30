@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Unstructured_worst_case_residual_strictConvex
 -- name    : RobustLS.Unstructured.worst_case_residual_strictConvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:26:36.605764+00:00
 -- url     : https://prove2.me/theorems/b9a587db-b1b1-4e04-a724-2d0c6d1b10bf

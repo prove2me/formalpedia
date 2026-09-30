@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_InfiniteSample_theorem_5_5_representer_theorem
 -- name    : SupportVectorMachines.InfiniteSample.theorem_5_5_representer_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:06:57.470755+00:00
 -- url     : https://prove2.me/theorems/ae73c7eb-449e-40fc-9c30-1f8829c6931e

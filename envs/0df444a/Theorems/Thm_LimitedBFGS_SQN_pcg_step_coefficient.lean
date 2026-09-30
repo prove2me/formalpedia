@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LimitedBFGS_SQN_pcg_step_coefficient
 -- name    : LimitedBFGS.SQN.pcg_step_coefficient
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-27T23:30:33.843203+00:00
 -- url     : https://prove2.me/theorems/d7ff0fcb-7b49-4eb8-8ed5-f96f02d15968

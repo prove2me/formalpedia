@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKR2008_hybrid_noninteracting_mode_solution
 -- name    : AKR2008.hybrid_noninteracting_mode_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T00:31:25.750985+00:00
 -- url     : https://prove2.me/theorems/588c2d81-f3ba-4bce-a2b6-7804c6ad4b96

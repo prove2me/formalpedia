@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKR2008_hybrid_Nc_solves_eq46
 -- name    : AKR2008.hybrid_Nc_solves_eq46
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T23:24:28.43167+00:00
 -- url     : https://prove2.me/theorems/2da4c3ab-0930-480b-97d7-2cdb5e515302

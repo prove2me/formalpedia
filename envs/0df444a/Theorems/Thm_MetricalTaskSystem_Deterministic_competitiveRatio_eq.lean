@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetricalTaskSystem_Deterministic_competitiveRatio_eq
 -- name    : MetricalTaskSystem.Deterministic.competitiveRatio_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:16:03.322342+00:00
 -- url     : https://prove2.me/theorems/dc8b5fae-89f4-4bfa-b188-2a48f8966160

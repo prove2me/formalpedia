@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustLS_Tikhonov_rls_solution_tikhonov
 -- name    : RobustLS.Tikhonov.rls_solution_tikhonov
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:32:35.024303+00:00
 -- url     : https://prove2.me/theorems/0fb2f78a-d7f8-490b-bd5e-99799a93a945
