@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_GainRate_value_determination
 -- name    : JewellMRP.GainRate.value_determination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:25:25.805725+00:00
 -- url     : https://prove2.me/theorems/8325dbac-b7ff-4931-a213-a0366964dabb

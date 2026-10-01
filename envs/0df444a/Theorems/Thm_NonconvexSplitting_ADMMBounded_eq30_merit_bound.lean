@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMBounded_eq30_merit_bound
 -- name    : NonconvexSplitting.ADMMBounded.eq30_merit_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:57:28.221484+00:00
 -- url     : https://prove2.me/theorems/c1b8d587-dc43-499e-a23b-aed430a3dc05

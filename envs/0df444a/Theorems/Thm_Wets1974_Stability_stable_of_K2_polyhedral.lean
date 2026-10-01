@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Stability_stable_of_K2_polyhedral
 -- name    : Wets1974.Stability.stable_of_K2_polyhedral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:38:35.011997+00:00
 -- url     : https://prove2.me/theorems/3fe6bca0-84cc-43f1-9183-cf1362679cb2

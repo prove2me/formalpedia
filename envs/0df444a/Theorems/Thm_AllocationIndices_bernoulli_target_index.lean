@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_bernoulli_target_index
 -- name    : AllocationIndices.bernoulli_target_index
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T03:03:16.005972+00:00
 -- url     : https://prove2.me/theorems/a5f7cb9f-46e7-4670-9830-321ddb0ad8dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_Redistribution_primal_dual_representation
 -- name    : ScenarioReduction.Redistribution.primal_dual_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:48:05.80253+00:00
 -- url     : https://prove2.me/theorems/1cfbb1a5-6166-4cad-89a7-6806b344f685

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyhedralSOC_UpperBound_lorentz_cone_polyhedral_approximation
 -- name    : PolyhedralSOC.UpperBound.lorentz_cone_polyhedral_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:50:38.953599+00:00
 -- url     : https://prove2.me/theorems/96b11d0c-e777-4a5d-8889-180e01006950

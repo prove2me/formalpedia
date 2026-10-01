@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_LPRelax_corollary_2_6
 -- name    : SingleMachineSched.LPRelax.corollary_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T04:29:09.499414+00:00
 -- url     : https://prove2.me/theorems/05f297b3-ee62-48de-bea7-b5bb854544fc

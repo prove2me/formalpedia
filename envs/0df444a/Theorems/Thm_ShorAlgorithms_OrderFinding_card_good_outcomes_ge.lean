@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_OrderFinding_card_good_outcomes_ge
 -- name    : ShorAlgorithms.OrderFinding.card_good_outcomes_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T09:35:11.529068+00:00
 -- url     : https://prove2.me/theorems/64051adc-efa3-42b9-9fe3-38cab85b03c1

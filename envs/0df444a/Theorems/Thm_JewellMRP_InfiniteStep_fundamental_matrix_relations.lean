@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_InfiniteStep_fundamental_matrix_relations
 -- name    : JewellMRP.InfiniteStep.fundamental_matrix_relations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:31:28.253464+00:00
 -- url     : https://prove2.me/theorems/3fbf567b-8a98-4ab8-b248-2b67e89920eb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MurtyKabadi_Reduction_subsetSum_tfae
 -- name    : MurtyKabadi.Reduction.subsetSum_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:19:01.460382+00:00
 -- url     : https://prove2.me/theorems/3e53a115-453b-4f03-ab0b-8dada15b3c0a

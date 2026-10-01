@@ -1,0 +1,167 @@
+-- Prove2me | Definitions.Def_Yukon_b695517d2595cd94ce373ad8
+-- name    : Yukon_b695517d2595cd94ce373ad8
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T18:17:55.79719+00:00
+-- url     : https://prove2.me/theorems/5c99ccb9-6381-43d3-9010-b6045069900d
+-- title:
+--   YukonModule.VCVio.OracleComp.SimSemantics.WriterT.PreservesInv.part0
+-- statement:
+--   Source module VCVio.OracleComp.SimSemantics.WriterT.PreservesInv.
+-- source:
+--   https://github.com/Verified-zkEVM/VCV-io/blob/446baa72bb7d4296d6f6b7015fd6c15ca9c678b7/VCVio/OracleComp/SimSemantics/WriterT/PreservesInv.lean
+--
+--   yukon-proof-operation:d89d4c5192b748463b308940a4197683dc91d62a75c7981853655a57e1264ffc
+--   [yukon-proof-receipt:eyJ2IjoxLCJtYXJrZXIiOiJ5dWtvbi1wcm9vZi1vcGVyYXRpb246ZDg5ZDRjNTE5MmI3NDg0NjNiMzA4OTQwYTQxOTc2ODNkYzkxZDYyYTc1Yzc5ODE4NTM2NTVhNTdlMTI2NGZmYyIsImhhc2giOiI3NWQ5MDhiMTVlYTc5ZmYwNDUwMjI1YmFmMjQ3NzQwMjdhZjZkNTcxNzg4Njg4ZTA5MWNkYjExMjgxZmZmNjc0Iiwia2luZCI6ImRlZmluaXRpb24iLCJ0YXJnZXQiOiJZdWtvbl9iNjk1NTE3ZDI1OTVjZDk0Y2UzNzNhZDgiLCJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJ0YWciOiJiZXR0ZXItY29kZXMifQ]
+
+/-
+Copyright (c) 2026 VCVio Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Quang Dao
+-/
+
+module
+public import Definitions.Def_Yukon_168b3f56a3214d856e63e24f
+
+
+
+public import Batteries.Control.AlternativeMonad
+public import Mathlib.Order.Basic
+public import Mathlib.Control.Monad.Writer
+public import Mathlib.Algebra.Group.TypeTags.Basic
+public import Init
+public import Mathlib.Probability.Distributions.Uniform
+public import Mathlib.Data.Vector.Defs
+public import Mathlib.Data.Finset.Card
+public import Mathlib.CategoryTheory.Monad.Types
+public import Mathlib.Order.CompleteLattice.Basic
+public import Mathlib.Probability.ProbabilityMassFunction.Monad
+public import Batteries.Control.OptionT
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+public import Mathlib.Data.PFunctor.Univariate.Basic
+public import Mathlib.Tactic.Common
+public import Mathlib.Init
+public import Lean.Message
+public import Batteries.Tactic.Lint.Basic
+public import Batteries.Tactic.Lint
+public import Mathlib.Algebra.Polynomial.Eval.Defs
+public import Mathlib.Algebra.MvPolynomial.Eval
+meta import Definitions.Def_Yukon_168b3f56a3214d856e63e24f
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# `WriterT ω` Invariant Theory
+
+Support-based invariant reasoning for query-implementations that accumulate a writer
+log in a monoid `ω` (as opposed to threading state through `StateT`). Typical
+use-cases include `countingOracle` (with `ω = QueryCount ι`) and `costOracle`
+(with an arbitrary `Monoid ω`).
+
+These statements mirror `QueryImpl.PreservesInv` /
+`OracleComp.simulateQ_run_preservesInv` from
+`SimSemantics/StateT/PreservesInv.lean`, with the writer log playing the role of
+the threaded state.
+
+## Main definitions
+
+- `QueryImpl.WriterPreservesInv` — every oracle query implementation step preserves
+  an invariant `Inv : ω → Prop` on the accumulated writer output (for `WriterT ω`
+  handlers with `[Monoid ω]`)
+- `OracleComp.simulateQ_run_writerPreservesInv` — simulating any oracle computation
+  with a writer-invariant-preserving implementation preserves `Inv` on the final
+  accumulated writer value
+-/
+
+@[expose] public section
+
+noncomputable section
+
+open OracleComp OracleSpec
+
+open scoped OracleSpec.PrimitiveQuery
+
+namespace QueryImpl
+
+/-- `WriterPreservesInv impl Inv` means every oracle query implementation step preserves
+`Inv` on the accumulated writer: starting from any `s₀` satisfying `Inv`, every reachable
+post-writer `s₀ * w` (for `(a, w)` in the support of `(impl t).run`) also satisfies `Inv`. -/
+def WriterPreservesInv {ι : Type} {spec : OracleSpec ι} [IsUniformSpec spec] {ω : Type} [Monoid ω]
+    (impl : QueryImpl spec (WriterT ω (OracleComp spec))) (Inv : ω → Prop) : Prop :=
+  ∀ t s₀, Inv s₀ → ∀ z ∈ support (impl t).run, Inv (s₀ * z.2)
+
+lemma WriterPreservesInv.trivial {ι : Type} {spec : OracleSpec ι} [IsUniformSpec spec] {ω : Type}
+    [Monoid ω] (impl : QueryImpl spec (WriterT ω (OracleComp spec))) :
+    WriterPreservesInv impl (fun _ => True) :=
+  fun _ _ _ _ _ => True.intro
+
+lemma WriterPreservesInv.and
+    {ι : Type} {spec : OracleSpec ι} [IsUniformSpec spec] {ω : Type} [Monoid ω]
+    {impl : QueryImpl spec (WriterT ω (OracleComp spec))} {P Q : ω → Prop}
+    (hP : WriterPreservesInv impl P) (hQ : WriterPreservesInv impl Q) :
+    WriterPreservesInv impl (fun s => P s ∧ Q s) :=
+  fun t s₀ ⟨hp, hq⟩ z hz => ⟨hP t s₀ hp z hz, hQ t s₀ hq z hz⟩
+
+/-- `WriterPreservesInv` from an unconditional per-query witness. Analogous
+to `PreservesInv.of_forall`: if every reachable increment `z.2` satisfies
+`Inv (s₀ * z.2)` for *any* starting `s₀` regardless of whether `Inv s₀`
+holds, then `Inv` is preserved. -/
+lemma WriterPreservesInv.of_forall
+    {ι : Type} {spec : OracleSpec ι} [IsUniformSpec spec] {ω : Type} [Monoid ω]
+    {impl : QueryImpl spec (WriterT ω (OracleComp spec))} {Inv : ω → Prop}
+    (h : ∀ t s₀ z, z ∈ support (impl t).run → Inv (s₀ * z.2)) :
+    WriterPreservesInv impl Inv :=
+  fun t s₀ _ z hz => h t s₀ z hz
+
+/-- `WriterPreservesInv` from a multiplicatively-closed predicate.
+
+If `Inv` holds on every writer increment `w` produced by a single query
+(`hPerQuery`) and is closed under `*` (`hClosed`), then `Inv` is
+preserved across the whole simulation. This is the canonical builder for
+writer invariants: pick a submonoid-like predicate, show every per-query
+increment lands in it, and you're done. -/
+lemma WriterPreservesInv.of_mul_closed {ι : Type} {spec : OracleSpec ι} [IsUniformSpec spec]
+    {ω : Type} [Monoid ω] {impl : QueryImpl spec (WriterT ω (OracleComp spec))} {Inv : ω → Prop}
+    (hClosed : ∀ a b, Inv a → Inv b → Inv (a * b))
+    (hPerQuery : ∀ t z, z ∈ support (impl t).run → Inv z.2) :
+    WriterPreservesInv impl Inv :=
+  fun t s₀ hs₀ z hz => hClosed s₀ z.2 hs₀ (hPerQuery t z hz)
+
+/-! Note on composition. Unlike `PreservesInv.compose`, we do not provide a
+compose analogue for `WriterPreservesInv`: the definition is keyed to a
+single `spec` appearing both as the source of queries and as the inner
+`OracleComp spec` monad of the writer. Composition via `∘ₛ` changes the
+query spec but not the inner writer monad, so the composite signature no
+longer matches `WriterPreservesInv`'s. The intended idiom is to compose
+on the underlying `OracleComp` layer (e.g. via `simulateQ_compose`) and
+then apply `simulateQ_run_writerPreservesInv` to the composite computation. -/
+
+end QueryImpl
+
+namespace OracleComp
+
+open QueryImpl
+
+/-- If `impl` preserves the writer invariant `Inv`, then simulating *any* oracle computation
+with `simulateQ impl` preserves `Inv` on the final accumulated writer (support-wise). -/
+theorem simulateQ_run_writerPreservesInv
+    {ι : Type} {spec : OracleSpec ι} [IsUniformSpec spec] {ω α : Type} [Monoid ω]
+    (impl : QueryImpl spec (WriterT ω (OracleComp spec))) (Inv : ω → Prop)
+    (himpl : QueryImpl.WriterPreservesInv impl Inv) :
+    ∀ oa : OracleComp spec α,
+    ∀ s₀, Inv s₀ →
+      ∀ z ∈ support (simulateQ impl oa).run, Inv (s₀ * z.2) := by
+  intro oa
+  induction oa using OracleComp.inductionOn with
+  | pure a =>
+      intro s₀ hs₀ z hz
+      obtain rfl : z = (a, (1 : ω)) := by simpa [simulateQ_pure, WriterT.run_pure] using hz
+      simpa only [mul_one] using hs₀
+  | query_bind t oa ih =>
+      intro s₀ hs₀ z hz
+      simp only [simulateQ_bind, simulateQ_spec_query, WriterT.run_bind, support_bind,
+        support_map, Set.mem_iUnion, Set.mem_image, Prod.exists, exists_prop] at hz
+      obtain ⟨u, w, hus, v, w', hvs, rfl⟩ := hz
+      simpa only [mul_assoc] using ih u (s₀ * w) (himpl t s₀ hs₀ (u, w) hus) (v, w') hvs
+
+end OracleComp
+
+

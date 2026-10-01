@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldenRatioVI_Explicit_step_estimates
 -- name    : GoldenRatioVI.Explicit.step_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:29:41.763398+00:00
 -- url     : https://prove2.me/theorems/95115e0b-03ae-4c13-ad2c-82ea6a3e14a9

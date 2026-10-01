@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_Reduction_twoAdic_eq_of_fail
 -- name    : ShorAlgorithms.Reduction.twoAdic_eq_of_fail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:36:56.294484+00:00
 -- url     : https://prove2.me/theorems/3a33217d-48db-4fbe-a50e-2adb519f60e3

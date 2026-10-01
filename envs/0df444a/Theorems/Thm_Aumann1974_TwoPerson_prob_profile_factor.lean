@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Aumann1974_TwoPerson_prob_profile_factor
 -- name    : Aumann1974.TwoPerson.prob_profile_factor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:45:56.362099+00:00
 -- url     : https://prove2.me/theorems/cbc18ddc-0206-480c-b759-d588f5d53a31

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_EntropyInner_whole_simplex
 -- name    : RobustMDP.EntropyInner.whole_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:29:38.592619+00:00
 -- url     : https://prove2.me/theorems/6293ac09-a603-4327-8332-53abe4d910b4

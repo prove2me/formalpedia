@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_ThreeStage_same_ordering_dominant
 -- name    : JohnsonFlowShop.ThreeStage.same_ordering_dominant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T16:45:54.203924+00:00
 -- url     : https://prove2.me/theorems/6c9f6151-dd8e-4638-be78-757625812487

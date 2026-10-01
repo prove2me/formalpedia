@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_InfiniteStep_machine_example
 -- name    : JewellMRP.InfiniteStep.machine_example
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:34:16.341571+00:00
 -- url     : https://prove2.me/theorems/7492e6e3-ea71-4927-af0f-d7a1da198af0

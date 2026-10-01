@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_EntropyInner_tilted_optimal
 -- name    : RobustMDP.EntropyInner.tilted_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:30:55.093094+00:00
 -- url     : https://prove2.me/theorems/ef61bbf2-5da5-4c13-8c40-b39616d51f08

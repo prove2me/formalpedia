@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_first_law
 -- name    : KerrBlackHoleThermo.first_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T19:46:25.05301+00:00
 -- url     : https://prove2.me/theorems/e484a472-bcbd-4a94-bed6-721d6aac1597

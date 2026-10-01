@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_FiniteHorizon_lemma_one
 -- name    : RobustMDP.FiniteHorizon.lemma_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:18:44.314901+00:00
 -- url     : https://prove2.me/theorems/dcaf885b-7d88-4533-838d-cbe8b9e810fc

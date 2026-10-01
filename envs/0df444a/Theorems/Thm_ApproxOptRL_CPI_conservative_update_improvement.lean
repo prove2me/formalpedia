@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxOptRL_CPI_conservative_update_improvement
 -- name    : ApproxOptRL.CPI.conservative_update_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:45:16.095986+00:00
 -- url     : https://prove2.me/theorems/d6629ffd-4585-4edb-a1bd-64c4f6be109c

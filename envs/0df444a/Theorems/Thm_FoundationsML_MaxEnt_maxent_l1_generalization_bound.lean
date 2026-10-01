@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_MaxEnt_maxent_l1_generalization_bound
 -- name    : FoundationsML.MaxEnt.maxent_l1_generalization_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-20T04:17:59.011983+00:00
 -- url     : https://prove2.me/theorems/ed7f0525-400f-429b-a5ab-fbea99f750bd

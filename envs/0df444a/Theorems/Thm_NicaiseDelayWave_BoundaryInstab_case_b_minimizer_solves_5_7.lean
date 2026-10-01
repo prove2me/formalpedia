@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicaiseDelayWave_BoundaryInstab_case_b_minimizer_solves_5_7
 -- name    : NicaiseDelayWave.BoundaryInstab.case_b_minimizer_solves_5_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T21:09:16.273378+00:00
 -- url     : https://prove2.me/theorems/6646b1ec-eab1-421a-b46d-e5fb8988354a

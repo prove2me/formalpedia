@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Ranking_rankboost_empirical_error_bound
 -- name    : FoundationsML.Ranking.rankboost_empirical_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-20T04:04:12.101983+00:00
 -- url     : https://prove2.me/theorems/707d7279-3521-4c59-abd4-7da0c5890d21

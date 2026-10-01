@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_EntropyInner_lambda_zero_optimal
 -- name    : RobustMDP.EntropyInner.lambda_zero_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:32:53.532544+00:00
 -- url     : https://prove2.me/theorems/7ff7934f-b033-4fd1-8ed7-fa4fc92392a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeasonalPricing_MyopicDet_optimal_prices_and_discount_time
 -- name    : SeasonalPricing.MyopicDet.optimal_prices_and_discount_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:03:04.355545+00:00
 -- url     : https://prove2.me/theorems/028005d5-8ebe-4c0f-9a9c-40f81a41843a

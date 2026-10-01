@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Smooth_gaussian_moment_bound
 -- name    : RandomGradFree.Smooth.gaussian_moment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:48:31.826306+00:00
 -- url     : https://prove2.me/theorems/b3bc93f1-5fdc-4332-80bd-9d50a2296bf6

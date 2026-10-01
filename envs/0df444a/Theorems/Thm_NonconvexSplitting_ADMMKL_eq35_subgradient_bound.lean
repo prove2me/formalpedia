@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMKL_eq35_subgradient_bound
 -- name    : NonconvexSplitting.ADMMKL.eq35_subgradient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:14:31.162554+00:00
 -- url     : https://prove2.me/theorems/95e5b686-89c1-449c-9634-2fb1ef3a76b7

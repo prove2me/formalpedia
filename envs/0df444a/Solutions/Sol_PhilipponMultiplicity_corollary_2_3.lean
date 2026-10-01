@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.corollary_2_3
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-09-30T09:32:13.555973+00:00
 -- url     : https://prove2.me/submissions/a6292df8-70df-4868-af42-dc97fe5d256c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PhilipponMultiplicity_SectionThree
 import Definitions.Def_PhilipponMultiplicity_SectionThreeSupport

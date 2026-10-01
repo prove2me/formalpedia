@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProximalBanach_Hybrid_prop2_sub_tendsto_zero
 -- name    : ProximalBanach.Hybrid.prop2_sub_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:06:27.362935+00:00
 -- url     : https://prove2.me/theorems/c2c0fda5-1232-4dd8-bb02-744c6d26b1f2

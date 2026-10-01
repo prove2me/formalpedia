@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Stationarity_nominal_stationarity
 -- name    : RobustMDP.Stationarity.nominal_stationarity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:27:01.687039+00:00
 -- url     : https://prove2.me/theorems/672501df-45b1-436f-90c8-ef218056fa30

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_vigour_bandit_indexable
 -- name    : AllocationIndices.vigour_bandit_indexable
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:59:51.548206+00:00
 -- url     : https://prove2.me/theorems/94ef01d6-b22d-4cd8-9b59-4d0212d0084c

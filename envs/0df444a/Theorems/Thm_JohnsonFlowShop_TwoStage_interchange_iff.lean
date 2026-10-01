@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_TwoStage_interchange_iff
 -- name    : JohnsonFlowShop.TwoStage.interchange_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:40:02.011058+00:00
 -- url     : https://prove2.me/theorems/df00d6a9-91b9-495a-8096-7e6c20111da5

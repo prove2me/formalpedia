@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_QFT_path_amplitude
 -- name    : ShorAlgorithms.QFT.path_amplitude
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:05:14.749255+00:00
 -- url     : https://prove2.me/theorems/ef9a088c-c0ea-4ec1-b1c0-2b0f12363edf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_AlphaSched_eq_3_1
 -- name    : SingleMachineSched.AlphaSched.eq_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:11:54.99848+00:00
 -- url     : https://prove2.me/theorems/48c54cd2-a820-4d17-9142-e4f97cc9046b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Nonsmooth_smoothing_hasGradient
 -- name    : RandomGradFree.Nonsmooth.smoothing_hasGradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:56:34.874688+00:00
 -- url     : https://prove2.me/theorems/58633292-e96f-46c9-9649-089f1d71d9ee

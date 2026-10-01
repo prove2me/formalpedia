@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_InfiniteStep_stationary_cesaro_limit
 -- name    : JewellMRP.InfiniteStep.stationary_cesaro_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:28:33.039994+00:00
 -- url     : https://prove2.me/theorems/6d3dad52-f399-4624-8795-84d6a8e77845

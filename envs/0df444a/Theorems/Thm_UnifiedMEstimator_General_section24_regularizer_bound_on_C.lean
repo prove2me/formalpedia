@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnifiedMEstimator_General_section24_regularizer_bound_on_C
 -- name    : UnifiedMEstimator.General.section24_regularizer_bound_on_C
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:13:18.544983+00:00
 -- url     : https://prove2.me/theorems/c1309bc5-a27b-460a-a2f9-52e6517251df

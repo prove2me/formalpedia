@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_Redistribution_qbar_upper_bound
 -- name    : ScenarioReduction.Redistribution.qbar_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:49:19.621393+00:00
 -- url     : https://prove2.me/theorems/ccc7e0cb-7345-4106-beb4-a29e15afdecc

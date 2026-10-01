@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_ActiveSet_activeSet_eventually_eq
 -- name    : CalamaiMore.ActiveSet.activeSet_eventually_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:56:00.759785+00:00
 -- url     : https://prove2.me/theorems/07bf9ba6-04e1-4100-8e7a-01e15f66e995

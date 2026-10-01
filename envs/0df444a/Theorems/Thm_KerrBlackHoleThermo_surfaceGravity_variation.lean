@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_surfaceGravity_variation
 -- name    : KerrBlackHoleThermo.surfaceGravity_variation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T19:46:01.774991+00:00
 -- url     : https://prove2.me/theorems/88015e27-7727-4ed0-9577-44db583509f8

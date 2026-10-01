@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Feasibility_K2_eq_feasibility_sets
 -- name    : Wets1974.Feasibility.K2_eq_feasibility_sets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:32:10.3211+00:00
 -- url     : https://prove2.me/theorems/b9377002-1b1d-4984-896f-6455f17b27a3

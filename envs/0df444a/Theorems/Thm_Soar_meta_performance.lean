@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_meta_performance
 -- name    : Soar.meta_performance
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T19:02:15.550662+00:00
 -- url     : https://prove2.me/theorems/9cdd21a4-737f-48e9-9f29-b91e87ed95d0

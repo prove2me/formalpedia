@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_AugLagrangian_eta_C1_grad_locLip
 -- name    : NonsmoothNewton.AugLagrangian.eta_C1_grad_locLip
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:49:51.72999+00:00
 -- url     : https://prove2.me/theorems/dd55bf70-a646-471c-98f9-108ed4585394

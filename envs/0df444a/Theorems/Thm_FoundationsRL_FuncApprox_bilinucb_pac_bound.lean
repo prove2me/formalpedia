@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_FuncApprox_bilinucb_pac_bound
 -- name    : FoundationsRL.FuncApprox.bilinucb_pac_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:29:41.194315+00:00
 -- url     : https://prove2.me/theorems/f3d1ef81-cc71-46e7-aac9-062b76e59c04

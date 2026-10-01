@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Smooth_oracle_second_moment
 -- name    : RandomGradFree.Smooth.oracle_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T09:12:18.583034+00:00
 -- url     : https://prove2.me/theorems/2500b1c5-f52f-4485-bd6d-1ece23ce0672

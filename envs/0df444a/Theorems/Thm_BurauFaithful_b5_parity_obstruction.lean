@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_b5_parity_obstruction
 -- name    : BurauFaithful.b5_parity_obstruction
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-09-24T12:53:07.832493+00:00
 -- url     : https://prove2.me/theorems/d2b5ab27-f9ff-4e06-9b5d-29088118ed95

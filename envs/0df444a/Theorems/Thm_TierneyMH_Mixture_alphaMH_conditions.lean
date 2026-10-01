@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Mixture_alphaMH_conditions
 -- name    : TierneyMH.Mixture.alphaMH_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T02:45:27.344482+00:00
 -- url     : https://prove2.me/theorems/d7a1b269-9d63-4a3b-9448-ed0b430bf427

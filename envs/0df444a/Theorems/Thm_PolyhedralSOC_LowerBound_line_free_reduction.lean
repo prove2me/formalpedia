@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyhedralSOC_LowerBound_line_free_reduction
 -- name    : PolyhedralSOC.LowerBound.line_free_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:46:31.556689+00:00
 -- url     : https://prove2.me/theorems/7894c956-fc16-49d0-882e-9a5147d25758

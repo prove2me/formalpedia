@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Stationarity_timeVarying_value_converges
 -- name    : RobustMDP.Stationarity.timeVarying_value_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:24:48.171973+00:00
 -- url     : https://prove2.me/theorems/f70e06e3-4c97-4e81-b536-0b874058a7ff

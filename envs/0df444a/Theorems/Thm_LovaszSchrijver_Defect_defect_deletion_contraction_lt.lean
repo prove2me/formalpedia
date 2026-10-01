@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_Defect_defect_deletion_contraction_lt
 -- name    : LovaszSchrijver.Defect.defect_deletion_contraction_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:54:52.303323+00:00
 -- url     : https://prove2.me/theorems/8815d5b5-edb8-41fb-8b5d-d46e2606be5b

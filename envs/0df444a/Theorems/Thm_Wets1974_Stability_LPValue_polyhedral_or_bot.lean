@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Stability_LPValue_polyhedral_or_bot
 -- name    : Wets1974.Stability.LPValue_polyhedral_or_bot
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:34:47.521875+00:00
 -- url     : https://prove2.me/theorems/5827cfcb-e86a-4bf9-a328-44c13eee771f

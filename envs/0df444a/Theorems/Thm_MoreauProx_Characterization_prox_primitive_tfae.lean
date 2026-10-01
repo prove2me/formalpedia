@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoreauProx_Characterization_prox_primitive_tfae
 -- name    : MoreauProx.Characterization.prox_primitive_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:21:25.571842+00:00
 -- url     : https://prove2.me/theorems/ae599d11-adc6-4563-af33-dbeeb00c26e3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Stationarity_truncation_bound
 -- name    : RobustMDP.Stationarity.truncation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:24:03.551453+00:00
 -- url     : https://prove2.me/theorems/e2779824-4f61-4515-a463-d2dc0714ccc2

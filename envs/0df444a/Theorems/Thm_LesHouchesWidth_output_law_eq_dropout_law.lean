@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_output_law_eq_dropout_law
 -- name    : LesHouchesWidth.output_law_eq_dropout_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-23T22:01:33.902107+00:00
 -- url     : https://prove2.me/theorems/54dae77a-c612-4072-911b-6905799ee77e

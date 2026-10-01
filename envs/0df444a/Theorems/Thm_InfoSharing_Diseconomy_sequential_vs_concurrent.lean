@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoSharing_Diseconomy_sequential_vs_concurrent
 -- name    : InfoSharing.Diseconomy.sequential_vs_concurrent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:34:51.265987+00:00
 -- url     : https://prove2.me/theorems/42744aa9-514e-4643-aa89-3afe8307bb6e

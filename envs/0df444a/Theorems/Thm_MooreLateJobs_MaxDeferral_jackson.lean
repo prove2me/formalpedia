@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MooreLateJobs_MaxDeferral_jackson
 -- name    : MooreLateJobs.MaxDeferral.jackson
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:35:16.488375+00:00
 -- url     : https://prove2.me/theorems/d12146aa-79d1-4127-8bb0-5d432711b13c

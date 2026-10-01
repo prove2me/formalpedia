@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Maximality_subdiff_add_halfSqNorm
 -- name    : RockafellarMaxMono.Maximality.subdiff_add_halfSqNorm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:04:23.271634+00:00
 -- url     : https://prove2.me/theorems/2dfe329b-f350-4a85-bbf9-1e3ce9eb38c9

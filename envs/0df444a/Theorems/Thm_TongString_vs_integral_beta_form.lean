@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_vs_integral_beta_form
 -- name    : TongString.vs_integral_beta_form
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T20:56:19.382168+00:00
 -- url     : https://prove2.me/theorems/f8959ea6-33a5-44da-abdf-7a86220c9d22

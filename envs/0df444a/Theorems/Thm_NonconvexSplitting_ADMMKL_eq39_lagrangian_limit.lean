@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMKL_eq39_lagrangian_limit
 -- name    : NonconvexSplitting.ADMMKL.eq39_lagrangian_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:24:05.351885+00:00
 -- url     : https://prove2.me/theorems/44240113-5bc5-4481-b06e-6792288194c4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Stationarity_stationaryUncertainty_value_converges
 -- name    : RobustMDP.Stationarity.stationaryUncertainty_value_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:25:26.333087+00:00
 -- url     : https://prove2.me/theorems/82fee87c-44b6-4cb4-83eb-2a5b6b8e0c9a

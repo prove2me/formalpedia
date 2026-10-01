@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_FiniteSum_finite_sum_variance_reduced_rate
 -- name    : FirstOrderOpt.FiniteSum.finite_sum_variance_reduced_rate
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:02:20.644983+00:00
 -- url     : https://prove2.me/theorems/f7d473d8-2e11-4151-984e-966d1ed96276

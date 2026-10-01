@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LesHouchesWidth_jacobianEntry_eq_sum_over_paths_ae
 -- name    : LesHouchesWidth.jacobianEntry_eq_sum_over_paths_ae
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-23T22:08:42.659641+00:00
 -- url     : https://prove2.me/theorems/5d4a74b5-9154-4d5a-aefb-cf04266d788c

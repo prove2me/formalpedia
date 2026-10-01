@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_AlphaSched_corollary_3_2
 -- name    : SingleMachineSched.AlphaSched.corollary_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:12:30.428991+00:00
 -- url     : https://prove2.me/theorems/fbafc96b-db11-4a85-9499-a1ae60d2cb43

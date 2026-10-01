@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Accelerated_oracle_second_moment_smoothing
 -- name    : RandomGradFree.Accelerated.oracle_second_moment_smoothing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:08:41.839661+00:00
 -- url     : https://prove2.me/theorems/6f738a12-af74-4d83-9ec7-918a14163002

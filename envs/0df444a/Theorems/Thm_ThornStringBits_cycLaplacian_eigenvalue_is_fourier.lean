@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThornStringBits_cycLaplacian_eigenvalue_is_fourier
 -- name    : ThornStringBits.cycLaplacian_eigenvalue_is_fourier
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:42:16.022862+00:00
 -- url     : https://prove2.me/theorems/f10d1548-ec7e-4e7c-8da7-1b2d4dbe172d

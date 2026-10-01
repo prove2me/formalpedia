@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_QFT_qft_circuit_eq
 -- name    : ShorAlgorithms.QFT.qft_circuit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:15:54.679575+00:00
 -- url     : https://prove2.me/theorems/9d8b48d1-89d5-4a28-ad44-8fcb5209adcf

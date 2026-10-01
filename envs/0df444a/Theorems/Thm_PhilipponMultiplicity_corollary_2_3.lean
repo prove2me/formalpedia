@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_corollary_2_3
 -- name    : PhilipponMultiplicity.corollary_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-09-23T20:35:07.11898+00:00
 -- url     : https://prove2.me/theorems/9c674b68-2096-4fb9-88a2-959e0bf46abb

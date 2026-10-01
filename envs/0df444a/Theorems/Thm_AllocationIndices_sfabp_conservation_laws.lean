@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_sfabp_conservation_laws
 -- name    : AllocationIndices.sfabp_conservation_laws
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:53:28.513661+00:00
 -- url     : https://prove2.me/theorems/fc310f44-720a-4664-994c-9a5f792fd998

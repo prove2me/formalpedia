@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_spt_minimizes_flow_time
 -- name    : AllocationIndices.spt_minimizes_flow_time
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:39:46.965339+00:00
 -- url     : https://prove2.me/theorems/2c4feb22-09b3-4593-83f5-53b6b94f0c12

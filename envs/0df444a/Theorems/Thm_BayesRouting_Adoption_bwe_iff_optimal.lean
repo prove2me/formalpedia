@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_Adoption_bwe_iff_optimal
 -- name    : BayesRouting.Adoption.bwe_iff_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T15:20:29.783564+00:00
 -- url     : https://prove2.me/theorems/e0df4500-1482-4af1-a0cd-0103596a6beb

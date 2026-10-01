@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_QP_algorithm61_terminates
 -- name    : CalamaiMore.QP.algorithm61_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:01:00.168187+00:00
 -- url     : https://prove2.me/theorems/ca2a55ce-f855-440f-8238-027017db8b35

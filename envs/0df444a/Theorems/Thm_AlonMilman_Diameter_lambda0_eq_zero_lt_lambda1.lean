@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonMilman_Diameter_lambda0_eq_zero_lt_lambda1
 -- name    : AlonMilman.Diameter.lambda0_eq_zero_lt_lambda1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:25:41.703808+00:00
 -- url     : https://prove2.me/theorems/be40781d-abb7-47d9-91d1-ce835b00c356

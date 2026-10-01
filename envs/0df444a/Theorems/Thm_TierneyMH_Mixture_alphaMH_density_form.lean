@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Mixture_alphaMH_density_form
 -- name    : TierneyMH.Mixture.alphaMH_density_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T03:07:54.691612+00:00
 -- url     : https://prove2.me/theorems/e7cc2ddc-7fd4-4b06-bf4d-e46caedef624

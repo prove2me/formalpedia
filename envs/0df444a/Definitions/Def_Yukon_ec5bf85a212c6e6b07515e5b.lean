@@ -1,0 +1,1018 @@
+-- Prove2me | Definitions.Def_Yukon_ec5bf85a212c6e6b07515e5b
+-- name    : Yukon_ec5bf85a212c6e6b07515e5b
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T18:39:22.930422+00:00
+-- url     : https://prove2.me/theorems/8e1c43a3-be4b-4caf-b46f-d6aec053fa88
+-- title:
+--   YukonModule.PolyFun.Interaction.UC.OpenProcessModel.part0
+-- statement:
+--   Source module PolyFun.Interaction.UC.OpenProcessModel.
+-- source:
+--   https://github.com/Verified-zkEVM/PolyFun/blob/dd77aa91dd425ebaec4388270f3a8e3dc7ace571/PolyFun/Interaction/UC/OpenProcessModel.lean
+--
+--   yukon-proof-operation:38b8cd071fcf8c9306df2992844e0bd6bdb748cb2c51b18552cbfd75e2c7d64c
+--   [yukon-proof-receipt:eyJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJoYXNoIjoiNmJlYmY2NjI0ZjM2MjU5NDY0ZmZiYjMzOTVlNjRiNDczZTljZDBkYTYwMzcyZGQyYjkwZDNmYmE0ZDIxYzFiZCIsImtpbmQiOiJkZWZpbml0aW9uIiwibWFya2VyIjoieXVrb24tcHJvb2Ytb3BlcmF0aW9uOjM4YjhjZDA3MWZjZjhjOTMwNmRmMjk5Mjg0NGUwYmQ2YmRiNzQ4Y2IyYzUxYjE4NTUyY2JmZDc1ZTJjN2Q2NGMiLCJ0YWciOiJiZXR0ZXItY29kZXMiLCJ0YXJnZXQiOiJZdWtvbl9lYzViZjg1YTIxMmM2ZTZiMDc1MTVlNWIiLCJ2IjoyfQ]
+
+/-
+Copyright (c) 2026 PolyFun Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Quang Dao
+-/
+
+module
+
+import all Definitions.Def_Yukon_091170b864dab5ff2db032d2
+
+public import Definitions.Def_Yukon_091170b864dab5ff2db032d2
+
+public import Definitions.Def_Yukon_d78c3b8dcf2e093889a6f4e9
+
+
+
+public import Batteries.Tactic.Lint
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+public import Init
+public import Mathlib.Data.PFunctor.Univariate.M
+public import Mathlib.Data.FunLike.Basic
+public import Mathlib.Logic.Equiv.Prod
+public import Mathlib.CategoryTheory.Category.Basic
+public import Mathlib.Data.PFunctor.Univariate.Basic
+public import Mathlib.Tactic.Common
+public import Mathlib.Init
+public import Lean.Message
+public import Batteries.Tactic.Lint.Basic
+public import Mathlib.CategoryTheory.Monad.Types
+public import Mathlib.Order.CompleteLattice.Basic
+public import Mathlib.Probability.ProbabilityMassFunction.Monad
+public import Mathlib.Order.Lattice
+public import Mathlib.Order.BoundedOrder.Basic
+public import Mathlib.Logic.Equiv.Defs
+public import Mathlib.Logic.Relation
+public import Mathlib.Algebra.Group.Hom.Defs
+public import Mathlib.Algebra.Group.Pi.Basic
+public import Mathlib.Algebra.FreeMonoid.Basic
+meta import Definitions.Def_Yukon_091170b864dab5ff2db032d2
+meta import Definitions.Def_Yukon_d78c3b8dcf2e093889a6f4e9
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# Concrete `OpenTheory` model backed by `OpenProcess m`
+
+This file provides the first concrete realization of `UC.OpenTheory`
+using actual open processes (`OpenProcess m Party Δ`), i.e., processes
+that carry a per-step nodewise-monadic sampler in the intermediate monad
+`m`.
+
+## Implemented operations
+
+* `map` adapts boundary actions along a `PortBoundary.Hom`, with a proven
+  `IsLawfulMap` instance (functoriality). The per-step sampler is left
+  unchanged; only the boundary-action decoration is pushed forward.
+
+* `par` places two open processes side by side using binary-choice
+  interleaving: a scheduling node chooses left or right, then runs the
+  selected subprocess's step protocol. Emitted packets are injected into
+  the appropriate summand of the tensor output interface. The scheduler
+  move is resolved by the theory's shared `schedulerSampler : m (ULift
+  Bool)`; per-branch samplers are assembled via
+  `TypeTree.Sampler.interleave`.
+
+* `wire` connects a shared internal boundary between two processes.
+  Packets on the shared boundary are filtered out (deferred to runtime
+  routing), while packets on the remaining external boundaries are
+  preserved. Samplers are threaded the same way as for `par`.
+
+* `plug` closes an open system against a matching context by
+  internalizing all boundary traffic. Samplers are again threaded via
+  the scheduler-interleaving pattern.
+-/
+
+public section
+
+universe u v w w'
+
+namespace Interaction
+open PFunctor.FreeM.Displayed (Decoration)
+namespace UC
+
+open Concurrent
+
+section Model
+
+variable (Party : Type u)
+variable (m : Type w → Type w')
+variable (schedulerSampler : m (ULift.{w, 0} Bool))
+
+/-- The canonical internal scheduler node shared by `par`, `wire`, and `plug`. -/
+@[expose]
+def schedulerNode (Δ : PortBoundary) :
+    OpenNodeProfile.{u, w} Party Δ (ULift.{w, 0} Bool) where
+  controllers := fun _ => []
+  views := fun _ => .hidden
+  boundary := .internal Δ _
+
+/--
+The concrete open-composition theory backed by `OpenProcess m`.
+
+* `Obj Δ` is `OpenProcess m Party Δ`, the boundary-indexed family of
+  open concurrent processes carrying per-step `m`-samplers.
+* `map` adapts boundary actions along a `PortBoundary.Hom`, preserving
+  samplers verbatim.
+* `par`, `wire`, and `plug` all use `OpenProcess.interleave` with the
+  appropriate context morphisms and thread the shared `schedulerSampler`
+  through `TypeTree.Sampler.interleave`.
+-/
+@[expose]
+def openTheory : OpenTheory where
+  Obj Δ := OpenProcess.{u, v, w, w'} m Party Δ
+  map φ p := p.mapBoundary φ
+  par {Δ₁} {Δ₂} p₁ p₂ :=
+    p₁.interleave p₂
+      (OpenNodeContext.inlTensor Party Δ₁ Δ₂)
+      (OpenNodeContext.inrTensor Party Δ₁ Δ₂)
+      (schedulerNode Party (PortBoundary.tensor Δ₁ Δ₂))
+      schedulerSampler
+  wire {Δ₁} {Γ} {Δ₂} p₁ p₂ :=
+    p₁.interleave p₂
+      (OpenNodeContext.wireLeft Party Δ₁ Γ Δ₂)
+      (OpenNodeContext.wireRight Party Δ₁ Γ Δ₂)
+      (schedulerNode Party (PortBoundary.tensor Δ₁ Δ₂))
+      schedulerSampler
+  plug {Δ} p k :=
+    p.interleave k
+      (OpenNodeContext.close Party Δ)
+      (OpenNodeContext.close Party (PortBoundary.swap Δ))
+      (schedulerNode Party PortBoundary.empty)
+      schedulerSampler
+
+instance lawfulMap_openTheory :
+    OpenTheory.IsLawfulMap (openTheory.{u, v, w, w'} Party m schedulerSampler) where
+  map_id {Δ} W := by
+    change W.mapBoundary (PortBoundary.Hom.id Δ) = W
+    simp only [OpenProcess.mapBoundary]
+    rw [OpenNodeContext.map_id]
+    cases W with | mk Proc step stepSampler =>
+    congr 1
+    funext s
+    simp only [StepOver.mapContext]
+    exact congrArg₂ (StepOver.mk _)
+      (PFunctor.FreeM.Displayed.Decoration.map_id _ _) rfl
+  map_comp {Δ₁} {Δ₂} {Δ₃} g f W := by
+    change W.mapBoundary (PortBoundary.Hom.comp g f) =
+      (W.mapBoundary f).mapBoundary g
+    simp only [OpenProcess.mapBoundary]
+    rw [← OpenNodeContext.map_comp]
+    cases W with | mk Proc step stepSampler =>
+    congr 1
+    funext s
+    simp only [StepOver.mapContext]
+    exact congrArg₂ (StepOver.mk _)
+      (PFunctor.FreeM.Displayed.Decoration.map_comp _ _ _ _).symm rfl
+
+/-- Extensionality for `OpenProcess` when both sides share the same
+residual state type `Proc` definitionally, the `step` fields are equal
+as functions, and the `stepSampler` fields are HEq (which reduces to
+literal equality once `step` agrees). -/
+private theorem OpenProcess.ext_of_step_eq
+    {m : Type w → Type w'} {Party : Type u} {Δ : PortBoundary}
+    {Proc : Type v}
+    {step₁ step₂ : Proc → StepOver (OpenNodeContext.{u, w} Party Δ) Proc}
+    {stepSampler₁ : ∀ s, TypeTree.Sampler.{w, w'} m (step₁ s).tree}
+    {stepSampler₂ : ∀ s, TypeTree.Sampler.{w, w'} m (step₂ s).tree}
+    (hstep : step₁ = step₂)
+    (hsampler : HEq stepSampler₁ stepSampler₂) :
+    (OpenProcess.mk Proc step₁ stepSampler₁ :
+      OpenProcess.{u, v, w, w'} m Party Δ) =
+      OpenProcess.mk Proc step₂ stepSampler₂ := by
+  subst hstep
+  cases hsampler
+  rfl
+
+/-- Derive step equality (as a function) from a `ProcessOver` equality
+between two processes on the same residual state space. -/
+private theorem heq_step_of_processOver_eq.{v₀, w₀, w₂}
+    {Proc : Type v₀} {Γ : Interaction.TypeTree.Node.Context.{w₀, w₂}}
+    {P₁ P₂ : Concurrent.ProcessOver.{v₀, w₀, w₂} Proc Γ}
+    (h : P₁ = P₂) :
+    HEq P₁.step P₂.step :=
+  h ▸ HEq.rfl
+
+instance lawfulPar_openTheory :
+    OpenTheory.IsLawfulPar (openTheory.{u, v, w, w'} Party m schedulerSampler) where
+  __ := lawfulMap_openTheory Party m schedulerSampler
+  map_par {Δ₁} {Δ₁'} {Δ₂} {Δ₂'} f₁ f₂ W₁ W₂ := by
+    change OpenProcess.mapBoundary (PortBoundary.Hom.tensor f₁ f₂)
+        (W₁.interleave W₂ _ _ _ schedulerSampler) =
+      (OpenProcess.mapBoundary f₁ W₁).interleave
+        (OpenProcess.mapBoundary f₂ W₂) _ _ _ schedulerSampler
+    -- The structural content lives at the `ProcessOver` layer: pushing a
+    -- tensor-boundary map across `interleave` matches mapping each side
+    -- first, using `map_tensor_comp_inlTensor`/`inrTensor` on the
+    -- injections. The scheduler argument closes definitionally because
+    -- boundary-mapping a purely internal node preserves the `.internal`
+    -- tag (the trace-monoid unit `1` is fixed by `PFunctor.Trace.mapChart`).
+    have hproc :
+        (W₁.toProcess.interleave W₂.toProcess
+            (OpenNodeContext.inlTensor Party Δ₁ Δ₂)
+            (OpenNodeContext.inrTensor Party Δ₁ Δ₂)
+            (schedulerNode Party (PortBoundary.tensor Δ₁ Δ₂))).mapContext
+              (OpenNodeContext.map Party (PortBoundary.Hom.tensor f₁ f₂)) =
+          (W₁.toProcess.mapContext (OpenNodeContext.map Party f₁)).interleave
+            (W₂.toProcess.mapContext (OpenNodeContext.map Party f₂))
+            (OpenNodeContext.inlTensor Party Δ₁' Δ₂')
+            (OpenNodeContext.inrTensor Party Δ₁' Δ₂')
+            (schedulerNode Party (PortBoundary.tensor Δ₁' Δ₂')) := by
+      rw [ProcessOver.mapContext_interleave, ProcessOver.interleave_mapContext,
+        OpenNodeContext.map_tensor_comp_inlTensor,
+        OpenNodeContext.map_tensor_comp_inrTensor]
+      congr 1
+    -- Lift to the `OpenProcess` equality: `Proc` is `Proc₁ × Proc₂` on
+    -- both sides; `step` is the `.step` of each side of `hproc` (defeq);
+    -- `stepSampler` is `Sampler.interleave schedulerSampler ...`, same
+    -- term on both sides (since `mapBoundary` preserves `stepSampler`).
+    cases W₁ with | mk Proc₁ step₁ stepSampler₁ =>
+    cases W₂ with | mk Proc₂ step₂ stepSampler₂ =>
+    simp only [OpenProcess.mapBoundary, OpenProcess.interleave]
+    exact OpenProcess.ext_of_step_eq
+      (eq_of_heq (heq_step_of_processOver_eq hproc)) HEq.rfl
+
+instance lawfulWire_openTheory :
+    OpenTheory.IsLawfulWire (openTheory.{u, v, w, w'} Party m schedulerSampler) where
+  __ := lawfulMap_openTheory Party m schedulerSampler
+  map_wire {Δ₁} {Δ₁'} {Γ} {Δ₂} {Δ₂'} f₁ f₂ W₁ W₂ := by
+    change OpenProcess.mapBoundary (PortBoundary.Hom.tensor f₁ f₂)
+        (W₁.interleave W₂ _ _ _ schedulerSampler) =
+      (OpenProcess.mapBoundary
+        (PortBoundary.Hom.tensor f₁ (PortBoundary.Hom.id Γ)) W₁).interleave
+        (OpenProcess.mapBoundary (PortBoundary.Hom.tensor
+          (PortBoundary.Hom.id (PortBoundary.swap Γ)) f₂) W₂) _ _ _
+        schedulerSampler
+    -- Same pattern as `map_par`, with the wire injections carrying the
+    -- shared boundary `Γ` as a fixed axis: `map_tensor_comp_wireLeft`
+    -- transports `f₁` past the left injection, and `map_tensor_comp_wireRight`
+    -- transports `f₂` past the right injection.
+    have hproc :
+        (W₁.toProcess.interleave W₂.toProcess
+            (OpenNodeContext.wireLeft Party Δ₁ Γ Δ₂)
+            (OpenNodeContext.wireRight Party Δ₁ Γ Δ₂)
+            (schedulerNode Party (PortBoundary.tensor Δ₁ Δ₂))).mapContext
+              (OpenNodeContext.map Party (PortBoundary.Hom.tensor f₁ f₂)) =
+          (W₁.toProcess.mapContext
+              (OpenNodeContext.map Party
+                (PortBoundary.Hom.tensor f₁ (PortBoundary.Hom.id Γ)))).interleave
+            (W₂.toProcess.mapContext
+              (OpenNodeContext.map Party
+                (PortBoundary.Hom.tensor
+                  (PortBoundary.Hom.id (PortBoundary.swap Γ)) f₂)))
+            (OpenNodeContext.wireLeft Party Δ₁' Γ Δ₂')
+            (OpenNodeContext.wireRight Party Δ₁' Γ Δ₂')
+            (schedulerNode Party (PortBoundary.tensor Δ₁' Δ₂')) := by
+      rw [ProcessOver.mapContext_interleave, ProcessOver.interleave_mapContext,
+        OpenNodeContext.map_tensor_comp_wireLeft,
+        OpenNodeContext.map_tensor_comp_wireRight]
+      congr 1
+    cases W₁ with | mk Proc₁ step₁ stepSampler₁ =>
+    cases W₂ with | mk Proc₂ step₂ stepSampler₂ =>
+    simp only [OpenProcess.mapBoundary, OpenProcess.interleave]
+    exact OpenProcess.ext_of_step_eq
+      (eq_of_heq (heq_step_of_processOver_eq hproc)) HEq.rfl
+
+instance lawfulPlug_openTheory :
+    OpenTheory.IsLawfulPlug (openTheory.{u, v, w, w'} Party m schedulerSampler) where
+  __ := lawfulMap_openTheory Party m schedulerSampler
+  map_plug {Δ₁} {Δ₂} f W K := by
+    change (OpenProcess.mapBoundary f W).interleave K _ _ _ schedulerSampler =
+      W.interleave (OpenProcess.mapBoundary (PortBoundary.Hom.swap f) K) _ _ _
+        schedulerSampler
+    -- Only one side is boundary-mapped on each inequation: on the LHS, `W`
+    -- carries `map Party f`, absorbed by `close Party Δ₂` via `close_comp_map`;
+    -- on the RHS, `K` carries `map Party (swap f)`, absorbed by
+    -- `close Party (swap Δ₁)` via the same lemma applied to `swap f`.
+    have hproc :
+        (W.toProcess.mapContext (OpenNodeContext.map Party f)).interleave K.toProcess
+            (OpenNodeContext.close Party Δ₂)
+            (OpenNodeContext.close Party (PortBoundary.swap Δ₂))
+            (schedulerNode Party PortBoundary.empty) =
+          W.toProcess.interleave
+            (K.toProcess.mapContext
+              (OpenNodeContext.map Party (PortBoundary.Hom.swap f)))
+            (OpenNodeContext.close Party Δ₁)
+            (OpenNodeContext.close Party (PortBoundary.swap Δ₁))
+            (schedulerNode Party PortBoundary.empty) := by
+      rw [ProcessOver.interleave_mapContext_left,
+        ProcessOver.interleave_mapContext_right,
+        OpenNodeContext.close_comp_map, OpenNodeContext.close_comp_map]
+    cases W with | mk ProcW stepW stepSamplerW =>
+    cases K with | mk ProcK stepK stepSamplerK =>
+    simp only [OpenProcess.mapBoundary, OpenProcess.interleave]
+    exact OpenProcess.ext_of_step_eq
+      (eq_of_heq (heq_step_of_processOver_eq hproc)) HEq.rfl
+
+instance  _root_.Interaction.UC.instIsLawfulOpenTheory : OpenTheory.IsLawful (openTheory.{u, v, w, w'} Party m schedulerSampler) where
+
+/-! ## Monoidal and compact closed laws up to activation equivalence -/
+
+/-- Parallel composition of open processes is associative up to activation
+equivalence: reassociating the internal scheduler nesting preserves the same
+coarse scheduler/activation structure. -/
+theorem openTheory_par_assoc_activation_equiv
+    {Δ₁ Δ₂ Δ₃ : PortBoundary}
+    (W₁ : OpenProcess.{u, v, w, w'} m Party Δ₁)
+    (W₂ : OpenProcess.{u, v, w, w'} m Party Δ₂)
+    (W₃ : OpenProcess.{u, v, w, w'} m Party Δ₃) :
+    OpenProcessActivationEquiv
+      (OpenProcess.mapBoundary
+        (PortBoundary.Equiv.tensorAssoc Δ₁ Δ₂ Δ₃).toHom
+        ((openTheory Party m schedulerSampler).par
+          ((openTheory Party m schedulerSampler).par W₁ W₂) W₃))
+      ((openTheory Party m schedulerSampler).par W₁
+        ((openTheory Party m schedulerSampler).par W₂ W₃)) := by
+  simp only [openTheory, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match
+    (fun ⟨⟨s₁, s₂⟩, s₃⟩ ⟨s₁', ⟨s₂', s₃'⟩⟩ => s₁ = s₁' ∧ s₂ = s₂' ∧ s₃ = s₃')
+    (fun ⟨⟨s₁, s₂⟩, s₃⟩ => ⟨⟨s₁, ⟨s₂, s₃⟩⟩, rfl, rfl, rfl⟩)
+    (fun ⟨s₁, ⟨s₂, s₃⟩⟩ => ⟨⟨⟨s₁, s₂⟩, s₃⟩, rfl, rfl, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro ⟨⟨s₁, s₂⟩, s₃⟩ ⟨s₁', ⟨s₂', s₃'⟩⟩ ⟨h1, h2, h3⟩
+  all_goals subst h1; subst h2; subst h3
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      obtain ⟨⟨b'⟩, rest'⟩ := rest
+      match b' with
+      | true =>
+        refine .inl ⟨⟨⟨true⟩, rest'⟩, ?_, rfl, rfl, rfl⟩
+        rw [isSilentStep_mapBoundary_iff] at hsilent
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent ⊢
+        refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2.2))⟩
+        all_goals intro X ons
+        all_goals simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+      | false =>
+        refine .inl ⟨⟨⟨false⟩, ⟨⟨true⟩, rest'⟩⟩, ?_, rfl, rfl, rfl⟩
+        rw [isSilentStep_mapBoundary_iff] at hsilent
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent ⊢
+        refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp
+              ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2.2)))⟩
+        all_goals intro X ons
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+    | false =>
+      refine .inl ⟨⟨⟨false⟩, ⟨⟨false⟩, rest⟩⟩, ?_, rfl, rfl, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at hsilent
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent ⊢
+      refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2))⟩
+      all_goals intro X ons
+      all_goals simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    rw [isSilentStep_mapBoundary_iff] at hvisible
+    match b with
+    | true =>
+      obtain ⟨⟨b'⟩, rest'⟩ := rest
+      match b' with
+      | true =>
+        refine ⟨⟨⟨true⟩, rest'⟩, fun h => hvisible ?_, rfl, rfl, rfl⟩
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h ⊢
+        refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2))⟩
+        all_goals intro X ons
+        all_goals simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+      | false =>
+        refine ⟨⟨⟨false⟩, ⟨⟨true⟩, rest'⟩⟩, fun h => hvisible ?_, rfl, rfl, rfl⟩
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h ⊢
+        refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp
+              ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2.2)))⟩
+        all_goals intro X ons
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+    | false =>
+      refine ⟨⟨⟨false⟩, ⟨⟨false⟩, rest⟩⟩, fun h => hvisible ?_, rfl, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h ⊢
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mp
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2.2))⟩
+      all_goals intro X ons
+      all_goals simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      refine .inl ⟨⟨⟨true⟩, ⟨⟨true⟩, rest⟩⟩, ?_, rfl, rfl, rfl⟩
+      rw [isSilentStep_mapBoundary_iff]
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent ⊢
+      refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2))⟩
+      all_goals intro X ons
+      all_goals simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+    | false =>
+      obtain ⟨⟨b'⟩, rest'⟩ := rest
+      match b' with
+      | true =>
+        refine .inl ⟨⟨⟨true⟩, ⟨⟨false⟩, rest'⟩⟩, ?_, rfl, rfl, rfl⟩
+        rw [isSilentStep_mapBoundary_iff]
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent ⊢
+        refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp
+              ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2.2)))⟩
+        all_goals intro X ons
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+      | false =>
+        refine .inl ⟨⟨⟨false⟩, rest'⟩, ?_, rfl, rfl, rfl⟩
+        rw [isSilentStep_mapBoundary_iff]
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent ⊢
+        refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2.2))⟩
+        all_goals intro X ons
+        all_goals simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    match b with
+    | true =>
+      refine ⟨⟨⟨true⟩, ⟨⟨true⟩, rest⟩⟩, fun h => hvisible ?_, rfl, rfl, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at h
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h ⊢
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mp
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2.2))⟩
+      all_goals intro X ons
+      all_goals simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+    | false =>
+      obtain ⟨⟨b'⟩, rest'⟩ := rest
+      match b' with
+      | true =>
+        refine ⟨⟨⟨true⟩, ⟨⟨false⟩, rest'⟩⟩, fun h => hvisible ?_, rfl, rfl, rfl⟩
+        rw [isSilentStep_mapBoundary_iff] at h
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h ⊢
+        refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp
+              ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2.2)))⟩
+        all_goals intro X ons
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+        · simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+        · simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+      | false =>
+        refine ⟨⟨⟨false⟩, rest'⟩, fun h => hvisible ?_, rfl, rfl, rfl⟩
+        rw [isSilentStep_mapBoundary_iff] at h
+        simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h ⊢
+        refine ⟨rfl, rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+            ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2))⟩
+        all_goals intro X ons
+        all_goals simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+
+/-- Parallel composition of open processes is commutative up to activation equivalence. -/
+theorem openTheory_par_comm_activation_equiv
+    {Δ₁ Δ₂ : PortBoundary}
+    (W₁ : OpenProcess.{u, v, w, w'} m Party Δ₁)
+    (W₂ : OpenProcess.{u, v, w, w'} m Party Δ₂) :
+    OpenProcessActivationEquiv
+      (OpenProcess.mapBoundary
+        (PortBoundary.Equiv.tensorComm Δ₁ Δ₂).toHom
+        ((openTheory Party m schedulerSampler).par W₁ W₂))
+      ((openTheory Party m schedulerSampler).par W₂ W₁) := by
+  simp only [openTheory, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match
+    (fun ⟨s₁, s₂⟩ ⟨s₂', s₁'⟩ => s₁ = s₁' ∧ s₂ = s₂')
+    (fun ⟨s₁, s₂⟩ => ⟨⟨s₂, s₁⟩, rfl, rfl⟩)
+    (fun ⟨s₂, s₁⟩ => ⟨⟨s₁, s₂⟩, rfl, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro ⟨s₁, s₂⟩ ⟨s₂', s₁'⟩ ⟨h1, h2⟩
+  all_goals subst h1; subst h2
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    rw [isSilentStep_mapBoundary_iff] at hsilent
+    match b with
+    | true =>
+      refine .inl ⟨⟨⟨false⟩, rest⟩, ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mp hsilent.2)⟩
+    | false =>
+      refine .inl ⟨⟨⟨true⟩, rest⟩, ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mp hsilent.2)⟩
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    rw [isSilentStep_mapBoundary_iff] at hvisible
+    match b with
+    | true =>
+      refine ⟨⟨⟨false⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mp h.2)⟩
+    | false =>
+      refine ⟨⟨⟨true⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mp h.2)⟩
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      refine .inl ⟨⟨⟨false⟩, rest⟩, ?_, rfl, rfl⟩
+      rw [isSilentStep_mapBoundary_iff]
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mp hsilent.2)⟩
+    | false =>
+      refine .inl ⟨⟨⟨true⟩, rest⟩, ?_, rfl, rfl⟩
+      rw [isSilentStep_mapBoundary_iff]
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mp hsilent.2)⟩
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    match b with
+    | true =>
+      refine ⟨⟨⟨false⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at h
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mp h.2)⟩
+    | false =>
+      refine ⟨⟨⟨true⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at h
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]) _ _).mp h.2)⟩
+
+/-- `plug` is commutative up to activation equivalence: closing a protocol `W`
+against an environment `K` has the same coarse scheduler/activation structure
+as closing `K` against `W`.
+Both sides are already closed (`Obj empty`), so — unlike `par_comm` — no boundary
+reshaping is needed; the witness swaps the two components of the product state
+and flips the internal scheduler branch. This structural coherence can support
+`Emulates.plug_compose_of_observes_plug_comm` only through an observation known to contain
+it. `OpenProcessActivationEquiv` is not itself promoted to a UC security observation: it
+does not retain packet/action identity or `stepSampler` semantics. -/
+theorem openTheory_plug_comm_activation_equiv
+    {Δ : PortBoundary}
+    (W : OpenProcess.{u, v, w, w'} m Party Δ)
+    (K : OpenProcess.{u, v, w, w'} m Party (PortBoundary.swap Δ)) :
+    OpenProcessActivationEquiv
+      ((openTheory Party m schedulerSampler).plug W K)
+      ((openTheory Party m schedulerSampler).plug K W) := by
+  simp only [openTheory, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match
+    (fun ⟨s₁, s₂⟩ ⟨s₂', s₁'⟩ => s₁ = s₁' ∧ s₂ = s₂')
+    (fun ⟨s₁, s₂⟩ => ⟨⟨s₂, s₁⟩, rfl, rfl⟩)
+    (fun ⟨s₂, s₁⟩ => ⟨⟨s₁, s₂⟩, rfl, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro ⟨s₁, s₂⟩ ⟨s₂', s₁'⟩ ⟨h1, h2⟩
+  all_goals subst h1; subst h2
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      refine .inl ⟨⟨⟨false⟩, rest⟩, ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp hsilent.2)⟩
+    | false =>
+      refine .inl ⟨⟨⟨true⟩, rest⟩, ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp hsilent.2)⟩
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    match b with
+    | true =>
+      refine ⟨⟨⟨false⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp h.2)⟩
+    | false =>
+      refine ⟨⟨⟨true⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp h.2)⟩
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      refine .inl ⟨⟨⟨false⟩, rest⟩, ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp hsilent.2)⟩
+    | false =>
+      refine .inl ⟨⟨⟨true⟩, rest⟩, ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at hsilent ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp hsilent.2)⟩
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    match b with
+    | true =>
+      refine ⟨⟨⟨false⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp h.2)⟩
+    | false =>
+      refine ⟨⟨⟨true⟩, rest⟩, fun h => hvisible ?_, rfl, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave] at h ⊢
+      exact ⟨rfl, (isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mpr
+        ((isSilentDecoration_iff_map _ (fun X ons => by
+          simp [OpenNodeContext.close, BoundaryAction.closed]) _ _).mp h.2)⟩
+
+/-- The unit for parallel composition is the trivial process with no boundary
+and `PUnit` state. The sampler is the trivial `Decoration.done` sampler. -/
+def openTheoryUnit : OpenProcess.{u, v, w, w'} m Party PortBoundary.empty where
+  Proc := PUnit
+  step := fun _ =>
+    { tree := .done
+      semantics := ⟨⟩
+      next := fun _ => PUnit.unit }
+  stepSampler := fun _ => ⟨⟩
+
+/-- The monoidal unit is a left identity for parallel composition up to
+activation equivalence. -/
+theorem openTheory_par_left_unit_activation_equiv
+    {Δ : PortBoundary}
+    (W : OpenProcess.{u, v, w, w'} m Party Δ) :
+    OpenProcessActivationEquiv
+      (OpenProcess.mapBoundary
+        (PortBoundary.Equiv.tensorEmptyLeft Δ).toHom
+        ((openTheory Party m schedulerSampler).par
+          (openTheoryUnit Party m) W))
+      W := by
+  simp only [openTheory, openTheoryUnit, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match (fun s₁ s₂ => s₁.2 = s₂)
+    (fun ⟨_, s⟩ => ⟨s, rfl⟩) (fun s => ⟨⟨⟨⟩, s⟩, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro ⟨_, s⟩ s₂ heq
+  all_goals subst heq
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true => exact .inr rfl
+    | false =>
+      refine .inl ⟨rest, ?_, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at hsilent
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent
+      refine (isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2
+      intro X ons
+      simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    rw [isSilentStep_mapBoundary_iff] at hvisible
+    match b with
+    | true =>
+      exact absurd (by simp [IsSilentStep, ProcessOver.interleave,
+        IsSilentDecoration, schedulerNode,
+        BoundaryAction.internal, -PFunctor.FreeM.liftBind_eq]) hvisible
+    | false =>
+      refine ⟨rest, fun h => hvisible ?_, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr h⟩
+      intro X ons
+      simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+  · intro tr₂ hsilent
+    refine .inl ⟨⟨⟨false⟩, tr₂⟩, ?_, rfl⟩
+    rw [isSilentStep_mapBoundary_iff]
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+    refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr hsilent⟩
+    intro X ons
+    simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+  · intro tr₂ hvisible
+    refine ⟨⟨⟨false⟩, tr₂⟩, fun h => hvisible ?_, rfl⟩
+    rw [isSilentStep_mapBoundary_iff] at h
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h
+    refine (isSilentDecoration_iff_map _ ?_ _ _).mp h.2
+    intro X ons
+    simp [OpenNodeContext.inrTensor, BoundaryAction.embedInrTensor]
+
+/-- The monoidal unit is a right identity for parallel composition up to
+activation equivalence. -/
+theorem openTheory_par_right_unit_activation_equiv
+    {Δ : PortBoundary}
+    (W : OpenProcess.{u, v, w, w'} m Party Δ) :
+    OpenProcessActivationEquiv
+      (OpenProcess.mapBoundary
+        (PortBoundary.Equiv.tensorEmptyRight Δ).toHom
+        ((openTheory Party m schedulerSampler).par W
+          (openTheoryUnit Party m)))
+      W := by
+  simp only [openTheory, openTheoryUnit, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match (fun s₁ s₂ => s₁.1 = s₂)
+    (fun ⟨s, _⟩ => ⟨s, rfl⟩) (fun s => ⟨⟨s, ⟨⟩⟩, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro ⟨s, _⟩ s₂ heq
+  all_goals subst heq
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      refine .inl ⟨rest, ?_, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at hsilent
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent
+      refine (isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2
+      intro X ons
+      simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+    | false => exact .inr rfl
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    rw [isSilentStep_mapBoundary_iff] at hvisible
+    match b with
+    | true =>
+      refine ⟨rest, fun h => hvisible ?_, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr h⟩
+      intro X ons
+      simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+    | false =>
+      exact absurd (by simp [IsSilentStep, ProcessOver.interleave,
+        IsSilentDecoration, schedulerNode,
+        BoundaryAction.internal, -PFunctor.FreeM.liftBind_eq]) hvisible
+  · intro tr₂ hsilent
+    refine .inl ⟨⟨⟨true⟩, tr₂⟩, ?_, rfl⟩
+    rw [isSilentStep_mapBoundary_iff]
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+    refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr hsilent⟩
+    intro X ons
+    simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+  · intro tr₂ hvisible
+    refine ⟨⟨⟨true⟩, tr₂⟩, fun h => hvisible ?_, rfl⟩
+    rw [isSilentStep_mapBoundary_iff] at h
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h
+    refine (isSilentDecoration_iff_map _ ?_ _ _).mp h.2
+    intro X ons
+    simp [OpenNodeContext.inlTensor, BoundaryAction.embedInlTensor]
+
+/-- The identity wire (coevaluation) on boundary `Γ`: relays messages
+bidirectionally between `swap Γ` and `Γ`. -/
+def openTheoryIdWire (Γ : PortBoundary) :
+    OpenProcess.{u, v, w, w'} m Party
+      (PortBoundary.tensor (PortBoundary.swap Γ) Γ) where
+  Proc := PUnit
+  step := fun _ =>
+    { tree := .done
+      semantics := ⟨⟩
+      next := fun _ => PUnit.unit }
+  stepSampler := fun _ => ⟨⟩
+
+/-- Left zig-zag: wiring the identity wire on the left is a no-op up to
+activation equivalence. -/
+theorem openTheory_wire_id_wire_activation_equiv
+    (Γ : PortBoundary)
+    {Δ₂ : PortBoundary}
+    (W₂ : OpenProcess.{u, v, w, w'} m Party
+      (PortBoundary.tensor (PortBoundary.swap Γ) Δ₂)) :
+    OpenProcessActivationEquiv
+      ((openTheory Party m schedulerSampler).wire
+        (openTheoryIdWire Party m Γ) W₂)
+      W₂ := by
+  simp only [openTheory, openTheoryIdWire, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match (fun s₁ s₂ => s₁.2 = s₂)
+    (fun ⟨_, s⟩ => ⟨s, rfl⟩) (fun s => ⟨⟨⟨⟩, s⟩, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro ⟨_, s⟩ s₂ heq
+  all_goals subst heq
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true => exact .inr rfl
+    | false =>
+      refine .inl ⟨rest, ?_, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent
+      refine (isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2
+      intro X ons
+      simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    match b with
+    | true =>
+      exact absurd (by simp [IsSilentStep, ProcessOver.interleave,
+        IsSilentDecoration, schedulerNode,
+        BoundaryAction.internal, -PFunctor.FreeM.liftBind_eq]) hvisible
+    | false =>
+      refine ⟨rest, fun h => hvisible ?_, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr h⟩
+      intro X ons
+      simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+  · intro tr₂ hsilent
+    refine .inl ⟨⟨⟨false⟩, tr₂⟩, ?_, rfl⟩
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+    refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr hsilent⟩
+    intro X ons
+    simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+  · intro tr₂ hvisible
+    refine ⟨⟨⟨false⟩, tr₂⟩, fun h => hvisible ?_, rfl⟩
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h
+    refine (isSilentDecoration_iff_map _ ?_ _ _).mp h.2
+    intro X ons
+    simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+
+/-- Right zig-zag: wiring the identity wire on the right is a no-op up to
+activation equivalence. -/
+theorem openTheory_wire_id_wire_right_activation_equiv
+    (Γ : PortBoundary)
+    {Δ₁ : PortBoundary}
+    (W₁ : OpenProcess.{u, v, w, w'} m Party
+      (PortBoundary.tensor Δ₁ Γ)) :
+    OpenProcessActivationEquiv
+      ((openTheory Party m schedulerSampler).wire W₁
+        (openTheoryIdWire Party m Γ))
+      W₁ := by
+  simp only [openTheory, openTheoryIdWire, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match (fun s₁ s₂ => s₁.1 = s₂)
+    (fun ⟨s, _⟩ => ⟨s, rfl⟩) (fun s => ⟨⟨s, ⟨⟩⟩, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro ⟨s, _⟩ s₂ heq
+  all_goals subst heq
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      refine .inl ⟨rest, ?_, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at hsilent
+      refine (isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2
+      intro X ons
+      simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+    | false => exact .inr rfl
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    match b with
+    | true =>
+      refine ⟨rest, fun h => hvisible ?_, rfl⟩
+      simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr h⟩
+      intro X ons
+      simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+    | false =>
+      exact absurd (by simp [IsSilentStep, ProcessOver.interleave,
+        IsSilentDecoration, schedulerNode,
+        BoundaryAction.internal, -PFunctor.FreeM.liftBind_eq]) hvisible
+  · intro tr₂ hsilent
+    refine .inl ⟨⟨⟨true⟩, tr₂⟩, ?_, rfl⟩
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map]
+    refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr hsilent⟩
+    intro X ons
+    simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+  · intro tr₂ hvisible
+    refine ⟨⟨⟨true⟩, tr₂⟩, fun h => hvisible ?_, rfl⟩
+    simp only [IsSilentStep, ProcessOver.interleave, Decoration.map] at h
+    refine (isSilentDecoration_iff_map _ ?_ _ _).mp h.2
+    intro X ons
+    simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+
+/-- `plug` is derivable from `wire` plus boundary reshaping, up to
+activation equivalence. -/
+theorem openTheory_plug_eq_wire_activation_equiv
+    {Δ : PortBoundary}
+    (W : OpenProcess.{u, v, w, w'} m Party Δ)
+    (K : OpenProcess.{u, v, w, w'} m Party (PortBoundary.swap Δ)) :
+    OpenProcessActivationEquiv
+      ((openTheory Party m schedulerSampler).plug W K)
+      (OpenProcess.mapBoundary
+        (PortBoundary.Equiv.tensorEmptyLeft PortBoundary.empty).toHom
+        ((openTheory Party m schedulerSampler).wire
+          (OpenProcess.mapBoundary
+            (PortBoundary.Equiv.tensorEmptyLeft Δ).symm.toHom W)
+          (OpenProcess.mapBoundary
+              (PortBoundary.Equiv.tensorEmptyRight
+              (PortBoundary.swap Δ)).symm.toHom K))) := by
+  simp only [openTheory, OpenProcess.interleave]
+  refine OpenProcessActivationEquiv.of_step_match (fun s₁ s₂ => s₁ = s₂)
+    (fun s => ⟨s, rfl⟩) (fun s => ⟨s, rfl⟩) ?_ ?_ ?_ ?_
+  all_goals intro s₁ s₂ heq
+  all_goals subst heq
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    match b with
+    | true =>
+      refine .inl ⟨⟨⟨true⟩, rest⟩, ?_, rfl⟩
+      rw [isSilentStep_mapBoundary_iff]
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2))⟩
+      · intro X ons; simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+    | false =>
+      refine .inl ⟨⟨⟨false⟩, rest⟩, ?_, rfl⟩
+      rw [isSilentStep_mapBoundary_iff]
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2))⟩
+      · intro X ons; simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    match b with
+    | true =>
+      refine ⟨⟨⟨true⟩, rest⟩, fun h => hvisible ?_, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at h
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mp
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2))⟩
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+    | false =>
+      refine ⟨⟨⟨false⟩, rest⟩, fun h => hvisible ?_, rfl⟩
+      rw [isSilentStep_mapBoundary_iff] at h
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mp
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2))⟩
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+  · intro ⟨⟨b⟩, rest⟩ hsilent
+    rw [isSilentStep_mapBoundary_iff] at hsilent
+    match b with
+    | true =>
+      refine .inl ⟨⟨⟨true⟩, rest⟩, ?_, rfl⟩
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mp
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2))⟩
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+    | false =>
+      refine .inl ⟨⟨⟨false⟩, rest⟩, ?_, rfl⟩
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mp
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp hsilent.2))⟩
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+  · intro ⟨⟨b⟩, rest⟩ hvisible
+    rw [isSilentStep_mapBoundary_iff] at hvisible
+    match b with
+    | true =>
+      refine ⟨⟨⟨true⟩, rest⟩, fun h => hvisible ?_, rfl⟩
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2))⟩
+      · intro X ons; simp [OpenNodeContext.wireLeft, BoundaryAction.wireLeft]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+    | false =>
+      refine ⟨⟨⟨false⟩, rest⟩, fun h => hvisible ?_, rfl⟩
+      refine ⟨rfl, (isSilentDecoration_iff_map _ ?_ _ _).mpr
+        ((isSilentDecoration_iff_map _ ?_ _ _).mpr
+          ((isSilentDecoration_iff_map _ ?_ _ _).mp h.2))⟩
+      · intro X ons; simp [OpenNodeContext.wireRight, BoundaryAction.wireRight]
+      · intro X ons
+        simp [OpenNodeContext.map, OpenNodeProfile.mapBoundary, BoundaryAction.mapBoundary]
+      · intro X ons; simp [OpenNodeContext.close, BoundaryAction.closed]
+
+/-- The monoidal unit equals the coevaluation at the trivial boundary,
+up to activation equivalence. -/
+theorem openTheory_unit_eq_activation_equiv :
+    OpenProcessActivationEquiv
+      (openTheoryUnit.{u, v, w, w'} Party m)
+      (OpenProcess.mapBoundary
+        (PortBoundary.Equiv.tensorEmptyLeft PortBoundary.empty).toHom
+        (openTheoryIdWire Party m PortBoundary.empty)) := by
+  refine OpenProcessActivationEquiv.of_step_match (fun _ _ => True)
+    (fun _ => ⟨PUnit.unit, trivial⟩) (fun _ => ⟨PUnit.unit, trivial⟩) ?_ ?_ ?_ ?_
+  · intro _ _ _ _ _
+    exact .inl ⟨PUnit.unit, trivial, trivial⟩
+  · intro _ _ _ _ hvisible
+    exact absurd trivial hvisible
+  · intro _ _ _ _ _
+    exact .inl ⟨PUnit.unit, trivial, trivial⟩
+  · intro _ _ _ _ hvisible
+    exact absurd trivial hvisible
+
+end Model
+
+end UC
+end Interaction
+
+

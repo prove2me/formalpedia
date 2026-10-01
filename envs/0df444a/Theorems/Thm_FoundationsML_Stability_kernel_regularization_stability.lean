@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Stability_kernel_regularization_stability
 -- name    : FoundationsML.Stability.kernel_regularization_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-20T04:24:51.660793+00:00
 -- url     : https://prove2.me/theorems/e983014c-e918-4a8e-af4e-99945621e41a

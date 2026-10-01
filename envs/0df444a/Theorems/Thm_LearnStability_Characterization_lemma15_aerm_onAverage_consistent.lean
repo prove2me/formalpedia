@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_lemma15_aerm_onAverage_consistent
 -- name    : LearnStability.Characterization.lemma15_aerm_onAverage_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:10:29.134157+00:00
 -- url     : https://prove2.me/theorems/74dc297b-1117-42cf-9c2c-4273446c5040

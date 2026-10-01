@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_LPRelax_eq_2_6
 -- name    : SingleMachineSched.LPRelax.eq_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T04:20:41.141689+00:00
 -- url     : https://prove2.me/theorems/e8e34e62-d844-4220-b2cc-7fc577f8b61d

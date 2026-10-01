@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMKL_eq36_sufficient_decrease
 -- name    : NonconvexSplitting.ADMMKL.eq36_sufficient_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:19:38.584259+00:00
 -- url     : https://prove2.me/theorems/0100520e-3b93-4838-ab57-b694471b5d4e

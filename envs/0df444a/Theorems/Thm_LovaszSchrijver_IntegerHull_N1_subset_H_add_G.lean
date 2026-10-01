@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_IntegerHull_N1_subset_H_add_G
 -- name    : LovaszSchrijver.IntegerHull.N1_subset_H_add_G
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:42:07.639456+00:00
 -- url     : https://prove2.me/theorems/99ed522f-fbd3-4ed5-b366-bb2b72511709

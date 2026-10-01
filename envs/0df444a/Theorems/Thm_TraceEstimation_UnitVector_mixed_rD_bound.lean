@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_UnitVector_mixed_rD_bound
 -- name    : TraceEstimation.UnitVector.mixed_rD_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:43:13.955127+00:00
 -- url     : https://prove2.me/theorems/bfd58d30-4bc1-4441-b30d-d072a40a4d20

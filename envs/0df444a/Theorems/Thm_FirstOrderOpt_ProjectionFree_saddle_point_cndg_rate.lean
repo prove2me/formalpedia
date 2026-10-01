@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_ProjectionFree_saddle_point_cndg_rate
 -- name    : FirstOrderOpt.ProjectionFree.saddle_point_cndg_rate
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:04:56.816368+00:00
 -- url     : https://prove2.me/theorems/2a38f50b-5af2-408e-ab6d-d41c1c0228ce

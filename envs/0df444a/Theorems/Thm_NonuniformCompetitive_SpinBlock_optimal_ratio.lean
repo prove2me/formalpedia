@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_SpinBlock_optimal_ratio
 -- name    : NonuniformCompetitive.SpinBlock.optimal_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:53:48.812683+00:00
 -- url     : https://prove2.me/theorems/1e13f22e-d9bf-419f-aacc-884ce76ebec5

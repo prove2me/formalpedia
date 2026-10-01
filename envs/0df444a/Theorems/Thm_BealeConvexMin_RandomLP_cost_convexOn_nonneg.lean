@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BealeConvexMin_RandomLP_cost_convexOn_nonneg
 -- name    : BealeConvexMin.RandomLP.cost_convexOn_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:42:05.818608+00:00
 -- url     : https://prove2.me/theorems/2ac012f7-34eb-40ae-a196-ce5f0dc5dcb1

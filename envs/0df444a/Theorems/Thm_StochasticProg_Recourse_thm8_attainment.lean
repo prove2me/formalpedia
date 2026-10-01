@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_Recourse_thm8_attainment
 -- name    : StochasticProg.Recourse.thm8_attainment
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-18T04:48:07.030919+00:00
 -- url     : https://prove2.me/theorems/d74bda2c-b7dd-457c-8135-17eaff83cd2e

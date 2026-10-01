@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_Reduction_card_all_agree_le
 -- name    : ShorAlgorithms.Reduction.card_all_agree_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:47:14.318949+00:00
 -- url     : https://prove2.me/theorems/f95c0755-a05b-4334-8941-9066639dfedd

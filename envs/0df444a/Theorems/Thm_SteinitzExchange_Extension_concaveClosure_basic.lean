@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Extension_concaveClosure_basic
 -- name    : SteinitzExchange.Extension.concaveClosure_basic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:44:13.938823+00:00
 -- url     : https://prove2.me/theorems/6d5356b7-898f-40d5-9129-26e70f1ec746

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_Convex_convex_order_convolution
 -- name    : StochasticOrders.Convex.convex_order_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:31:34.39667+00:00
 -- url     : https://prove2.me/theorems/7506be42-d0de-4d56-9e07-9a5c50bc5852

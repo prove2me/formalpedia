@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Ranking_margin_bound_ranking
 -- name    : FoundationsML.Ranking.margin_bound_ranking
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:45:03.646779+00:00
 -- url     : https://prove2.me/theorems/642331be-18d9-4604-a40d-78b20edaa565

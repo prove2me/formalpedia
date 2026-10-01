@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_gcl2_index_policy_optimal
 -- name    : AllocationIndices.gcl2_index_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:55:55.011986+00:00
 -- url     : https://prove2.me/theorems/a481cd67-e41f-4d8a-aab1-9c56a0b6cc3c

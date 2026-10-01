@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XuMannorRobust_Quantile_theorem5_quantile_truncated_mean_bounds
 -- name    : XuMannorRobust.Quantile.theorem5_quantile_truncated_mean_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T16:18:43.400507+00:00
 -- url     : https://prove2.me/theorems/7eb3bd84-0c1d-441c-85b0-57a1e7f6a3de

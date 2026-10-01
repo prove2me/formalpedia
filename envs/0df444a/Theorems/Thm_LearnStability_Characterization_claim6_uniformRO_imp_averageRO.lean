@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_claim6_uniformRO_imp_averageRO
 -- name    : LearnStability.Characterization.claim6_uniformRO_imp_averageRO
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:09:42.263675+00:00
 -- url     : https://prove2.me/theorems/0e81f4c4-c2fe-4ec9-8912-a907933e5252

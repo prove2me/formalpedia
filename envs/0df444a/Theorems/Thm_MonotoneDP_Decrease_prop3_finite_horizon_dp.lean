@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Decrease_prop3_finite_horizon_dp
 -- name    : MonotoneDP.Decrease.prop3_finite_horizon_dp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:03:40.162948+00:00
 -- url     : https://prove2.me/theorems/d521f7bd-87da-4151-a27e-4e674ae58282

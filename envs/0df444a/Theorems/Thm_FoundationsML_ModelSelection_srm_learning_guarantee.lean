@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_ModelSelection_srm_learning_guarantee
 -- name    : FoundationsML.ModelSelection.srm_learning_guarantee
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:23:05.467898+00:00
 -- url     : https://prove2.me/theorems/efc3b68e-517e-4e8d-be2f-d62a7ec4eedb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyhedralSOC_UpperBound_tower_composition
 -- name    : PolyhedralSOC.UpperBound.tower_composition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:47:45.133648+00:00
 -- url     : https://prove2.me/theorems/d6c03dc1-18cb-40a6-bc80-3501c22bf843

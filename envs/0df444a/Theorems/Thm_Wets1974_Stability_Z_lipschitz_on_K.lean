@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Stability_Z_lipschitz_on_K
 -- name    : Wets1974.Stability.Z_lipschitz_on_K
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:36:27.806985+00:00
 -- url     : https://prove2.me/theorems/3d62fb12-dd66-435f-915b-bdcab483c0bc

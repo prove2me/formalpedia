@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Reversibility_mhKernel_reversible_iff_offDiagonal
 -- name    : TierneyMH.Reversibility.mhKernel_reversible_iff_offDiagonal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T11:51:28.610172+00:00
 -- url     : https://prove2.me/theorems/02172cae-4ba9-4eaf-86e0-70195dde848e

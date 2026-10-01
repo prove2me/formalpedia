@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_Stochastic_martingale_difference_deviation_bound
 -- name    : FirstOrderOpt.Stochastic.martingale_difference_deviation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:00:06.202715+00:00
 -- url     : https://prove2.me/theorems/87af245d-5973-4fb4-a5c7-f68c8db80ab3

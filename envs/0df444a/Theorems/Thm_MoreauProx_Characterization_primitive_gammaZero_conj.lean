@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoreauProx_Characterization_primitive_gammaZero_conj
 -- name    : MoreauProx.Characterization.primitive_gammaZero_conj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:20:12.234822+00:00
 -- url     : https://prove2.me/theorems/84a6f1be-c251-4077-9b19-9b0e44bd7adf

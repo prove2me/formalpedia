@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_InfiniteStep_return_increment_cesaro
 -- name    : JewellMRP.InfiniteStep.return_increment_cesaro
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:29:27.882988+00:00
 -- url     : https://prove2.me/theorems/ddd77041-4902-4afb-8a5b-42f73a0402c1

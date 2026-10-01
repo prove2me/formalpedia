@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingRM_DetHeuristic_det_price_heuristic_ratio_bound
 -- name    : PricingRM.DetHeuristic.det_price_heuristic_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:36:19.32526+00:00
 -- url     : https://prove2.me/theorems/21cce9be-ce6a-42db-bc78-c0a6b66c0579

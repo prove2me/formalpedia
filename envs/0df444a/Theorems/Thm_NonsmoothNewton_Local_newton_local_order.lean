@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_Local_newton_local_order
 -- name    : NonsmoothNewton.Local.newton_local_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:04:27.375704+00:00
 -- url     : https://prove2.me/theorems/4b986089-b174-4a61-8257-71b56f1c4fe5

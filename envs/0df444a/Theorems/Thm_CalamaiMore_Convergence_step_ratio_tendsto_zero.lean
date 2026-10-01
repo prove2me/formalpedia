@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_step_ratio_tendsto_zero
 -- name    : CalamaiMore.Convergence.step_ratio_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:32:34.589793+00:00
 -- url     : https://prove2.me/theorems/dfb0529a-4c83-4f61-9678-80fe2b9326bb

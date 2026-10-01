@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SYZ_bigTheta_is_constant
 -- name    : SYZ.bigTheta_is_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-15T04:12:41.445493+00:00
 -- url     : https://prove2.me/theorems/48a00b13-d744-4aea-ac79-eae59ce604c5

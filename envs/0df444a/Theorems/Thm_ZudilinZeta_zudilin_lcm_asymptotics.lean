@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_zudilin_lcm_asymptotics
 -- name    : ZudilinZeta.zudilin_lcm_asymptotics
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-22T18:22:31.699582+00:00
 -- url     : https://prove2.me/theorems/184bd709-31c9-4dee-9979-715c43c00a36

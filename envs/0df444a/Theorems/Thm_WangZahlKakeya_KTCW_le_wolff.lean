@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_KTCW_le_wolff
 -- name    : WangZahlKakeya.KTCW_le_wolff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-20T15:03:49.017724+00:00
 -- url     : https://prove2.me/theorems/d4fe49d1-326a-40ea-9b88-62dde6af307e

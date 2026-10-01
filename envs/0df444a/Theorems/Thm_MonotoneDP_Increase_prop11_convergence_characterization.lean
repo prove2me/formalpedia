@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Increase_prop11_convergence_characterization
 -- name    : MonotoneDP.Increase.prop11_convergence_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:00:35.653918+00:00
 -- url     : https://prove2.me/theorems/2cba8eaa-9924-4c9f-817a-5e045ae250f5

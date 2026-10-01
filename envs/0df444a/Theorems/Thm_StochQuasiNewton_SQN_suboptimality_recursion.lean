@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochQuasiNewton_SQN_suboptimality_recursion
 -- name    : StochQuasiNewton.SQN.suboptimality_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:39:13.230802+00:00
 -- url     : https://prove2.me/theorems/0716fcee-de26-4394-98a8-da5d8ba797e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxOptRL_CPI_cpi_guarantee
 -- name    : ApproxOptRL.CPI.cpi_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:46:22.800326+00:00
 -- url     : https://prove2.me/theorems/a6a9eacc-5f0f-4879-a8a9-c835a254f789

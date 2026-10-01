@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalConjugacy_lemma_1_2
 -- name    : LocalConjugacy.lemma_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-09-30T04:01:48.73662+00:00
 -- url     : https://prove2.me/theorems/30bd1fa6-280e-4576-9eaf-460e7e5cb998

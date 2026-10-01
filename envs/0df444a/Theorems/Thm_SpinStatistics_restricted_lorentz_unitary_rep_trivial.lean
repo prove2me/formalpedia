@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SpinStatistics_restricted_lorentz_unitary_rep_trivial
 -- name    : SpinStatistics.restricted_lorentz_unitary_rep_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-24T13:51:45.142977+00:00
 -- url     : https://prove2.me/theorems/5e3e8fe0-b7d4-467b-86d8-ba59cae8f717

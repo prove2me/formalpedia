@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Maximality_biconj_restrict_eq
 -- name    : RockafellarMaxMono.Maximality.biconj_restrict_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:02:59.589931+00:00
 -- url     : https://prove2.me/theorems/79c2c37a-3703-42df-852d-458c885c1d11

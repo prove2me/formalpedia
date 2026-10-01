@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_ProjectionFree_smoothed_objective_monotone
 -- name    : FirstOrderOpt.ProjectionFree.smoothed_objective_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:04:35.079818+00:00
 -- url     : https://prove2.me/theorems/d8cc9c6e-3d6f-4fa1-80d4-df48ca459cd1

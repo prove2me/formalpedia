@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MathematicalRelativity_penrose_singularity_theorem
 -- name    : MathematicalRelativity.penrose_singularity_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-09-15T15:36:33.77365+00:00
 -- url     : https://prove2.me/theorems/237091ec-150d-455a-88a5-643d199bca33

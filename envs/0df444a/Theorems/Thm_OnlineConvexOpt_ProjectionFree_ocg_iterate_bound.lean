@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_ProjectionFree_ocg_iterate_bound
 -- name    : OnlineConvexOpt.ProjectionFree.ocg_iterate_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:44:20.700986+00:00
 -- url     : https://prove2.me/theorems/4aa8a100-279d-427e-b018-21ba09e16f26

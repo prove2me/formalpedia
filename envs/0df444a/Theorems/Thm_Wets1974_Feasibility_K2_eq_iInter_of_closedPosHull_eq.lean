@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Feasibility_K2_eq_iInter_of_closedPosHull_eq
 -- name    : Wets1974.Feasibility.K2_eq_iInter_of_closedPosHull_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:32:34.241496+00:00
 -- url     : https://prove2.me/theorems/87198184-7f8e-41bc-b686-4ba66fae51f2

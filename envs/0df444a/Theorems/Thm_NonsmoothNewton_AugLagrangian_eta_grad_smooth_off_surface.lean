@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_AugLagrangian_eta_grad_smooth_off_surface
 -- name    : NonsmoothNewton.AugLagrangian.eta_grad_smooth_off_surface
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:51:18.690808+00:00
 -- url     : https://prove2.me/theorems/de391d5d-5c94-42ce-890c-a796a50ff00c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KKBinPacking_GeometricGrouping_opt_le_two_size_add_one
 -- name    : KKBinPacking.GeometricGrouping.opt_le_two_size_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:11:57.453186+00:00
 -- url     : https://prove2.me/theorems/ef448251-2129-4ff7-b50e-20e806fa3363

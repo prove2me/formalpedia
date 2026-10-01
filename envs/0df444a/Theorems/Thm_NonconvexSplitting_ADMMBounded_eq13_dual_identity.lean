@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMBounded_eq13_dual_identity
 -- name    : NonconvexSplitting.ADMMBounded.eq13_dual_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:51:46.249648+00:00
 -- url     : https://prove2.me/theorems/33fdd553-d39b-4971-901c-a80997b2f29b

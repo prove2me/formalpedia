@@ -1,0 +1,283 @@
+-- Prove2me | Definitions.Def_Yukon_7273a9c19f6473b89f551716
+-- name    : Yukon_7273a9c19f6473b89f551716
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T18:28:20.953012+00:00
+-- url     : https://prove2.me/theorems/f8c72852-9b5e-430b-93ea-5a1dc17172c8
+-- title:
+--   YukonModule.VCVio.CryptoFoundations.SigmaProtocol.part0
+-- statement:
+--   Source module VCVio.CryptoFoundations.SigmaProtocol.
+-- source:
+--   https://github.com/Verified-zkEVM/VCV-io/blob/446baa72bb7d4296d6f6b7015fd6c15ca9c678b7/VCVio/CryptoFoundations/SigmaProtocol.lean
+--
+--   yukon-proof-operation:1d1a4ad995ff7cafa7c29dc8f4ebeec5af1272cb473c650ba7dc4b4da2bf74b4
+--   [yukon-proof-receipt:eyJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJoYXNoIjoiMDZiNDQ4MmZlMjk2YTFhMjMzYTY2M2MxMmM3NTBhZjZiNDcyMWIzNzJiZDNiNzdkNjE0ZWVkNDBiNjQ4ZDRhZiIsImtpbmQiOiJkZWZpbml0aW9uIiwibWFya2VyIjoieXVrb24tcHJvb2Ytb3BlcmF0aW9uOjFkMWE0YWQ5OTVmZjdjYWZhN2MyOWRjOGY0ZWJlZWM1YWYxMjcyY2I0NzNjNjUwYmE3ZGM0YjRkYTJiZjc0YjQiLCJ0YWciOiJiZXR0ZXItY29kZXMiLCJ0YXJnZXQiOiJZdWtvbl83MjczYTljMTlmNjQ3M2I4OWY1NTE3MTYiLCJ2IjoyfQ]
+
+/-
+Copyright (c) 2024 Devon Tuma. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Devon Tuma
+-/
+
+module
+public import Definitions.Def_Yukon_19e49f429e40ab4a8ab6f6e7
+
+public import Definitions.Def_Yukon_97cb7c7d84a051f4f06c406f
+
+public import Definitions.Def_Yukon_f6ffada621076861526b623c
+
+
+
+public import Mathlib.Data.Fintype.Vector
+public import Mathlib.Data.Fintype.Pi
+public import Mathlib.Data.Fintype.Perm
+public import Mathlib.Data.FinEnum
+public import Init.Data.UInt.Lemmas
+public import Mathlib.Logic.Embedding.Basic
+public import Mathlib.Data.List.Sym
+public import Init
+public import Mathlib.Probability.Distributions.Uniform
+public import Mathlib.Data.Finset.Card
+public import Mathlib.Data.Vector.Defs
+public import Mathlib.CategoryTheory.Monad.Types
+public import Mathlib.Order.CompleteLattice.Basic
+public import Mathlib.Probability.ProbabilityMassFunction.Monad
+public import Batteries.Control.AlternativeMonad
+public import Mathlib.Topology.Algebra.InfiniteSum.ENNReal
+public import Batteries.Control.OptionT
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+public import Mathlib.Data.PFunctor.Univariate.Basic
+public import Mathlib.Tactic.Common
+public import Mathlib.Init
+public import Lean.Message
+public import Batteries.Tactic.Lint.Basic
+public import Batteries.Tactic.Lint
+public import Mathlib.Algebra.Polynomial.Eval.Defs
+public import Mathlib.Algebra.MvPolynomial.Eval
+meta import Definitions.Def_Yukon_f6ffada621076861526b623c
+meta import Definitions.Def_Yukon_97cb7c7d84a051f4f06c406f
+meta import Definitions.Def_Yukon_19e49f429e40ab4a8ab6f6e7
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# Sigma Protocol
+
+This file defines a structure type for Σ-protocols, along with standard
+security properties: completeness, special soundness, and honest-verifier
+zero-knowledge (HVZK).
+
+## Type Parameters
+
+- `Stmt`: statement (public key)
+- `Wit`: witness (secret key)
+- `Commit`: public commitment
+- `PrvState`: private prover state (retained between commit and respond)
+- `Chal`: verifier challenge (drawn uniformly)
+- `Resp`: prover response
+- `rel`: the relation proven by the protocol
+
+## Coercion to `IdenSchemeWithAbort`
+
+Every `SigmaProtocol` can be viewed as a non-aborting `IdenSchemeWithAbort` via
+`SigmaProtocol.toIdenSchemeWithAbort`, which wraps `respond` with `some`.
+-/
+
+@[expose] public section
+
+universe u v
+
+open OracleSpec OracleComp
+
+/-- A sigma protocol for statements in `Stmt` and witnesses in `Wit`,
+where `rel : Stmt → Wit → Bool` is the proposition proven by the Σ-protocol.
+Commitments are split into a public part `Commit` (revealed to the verifier) and a
+private part `PrvState` (retained by the prover). Verifier challenges are drawn uniformly
+from `Chal`. Prover responses are in `Resp`.
+
+We leave properties like special soundness as separate definitions for better modularity. -/
+structure SigmaProtocol
+    (Stmt Wit Commit PrvState Chal Resp : Type) (rel : Stmt → Wit → Bool) where
+  /-- Generate a commitment to prove knowledge of a valid witness. -/
+  commit (stmt : Stmt) (wit : Wit) : ProbComp (Commit × PrvState)
+  /-- Given a previous private state, respond to the challenge. -/
+  respond (stmt : Stmt) (wit : Wit) (prvState : PrvState) (chal : Chal) : ProbComp Resp
+  /-- Deterministic verification: check that the response satisfies the challenge. -/
+  verify (stmt : Stmt) (commit : Commit) (chal : Chal) (resp : Resp) : Bool
+  /-- Simulate public commitment generation while only knowing the statement. -/
+  sim (stmt : Stmt) : ProbComp Commit
+  /-- Extract a witness to the statement from two accepting transcripts. -/
+  extract (chal₁ : Chal) (resp₁ : Resp) (chal₂ : Chal) (resp₂ : Resp) : ProbComp Wit
+
+namespace SigmaProtocol
+
+variable {Stmt Wit Commit PrvState Chal Resp : Type} {rel : Stmt → Wit → Bool}
+
+section complete
+
+variable [SampleableType Chal] [IsUniformSpec unifSpec]
+
+/-- A Σ-protocol is perfectly complete if the honest prover always convinces the verifier
+on valid statement-witness pairs. -/
+def PerfectlyComplete (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel) : Prop :=
+  ∀ x w, rel x w = true →
+    Pr[= true | do
+      let (pc, sc) ← σ.commit x w
+      let ω ← $ᵗ Chal
+      let π ← σ.respond x w sc ω
+      return σ.verify x pc ω π] = 1
+
+end complete
+
+section speciallySound
+
+/-- Special soundness at a particular statement: given two accepting transcripts with the same
+commitment but different challenges, the extracted witness is valid. -/
+def SpeciallySoundAt (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (x : Stmt) : Prop :=
+  ∀ pc ω₁ ω₂ p₁ p₂, ω₁ ≠ ω₂ →
+    σ.verify x pc ω₁ p₁ = true → σ.verify x pc ω₂ p₂ = true →
+    ∀ w ∈ support (σ.extract ω₁ p₁ ω₂ p₂), rel x w = true
+
+/-- A Σ-protocol is specially sound if `SpeciallySoundAt` holds for all statements. -/
+def SpeciallySound (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel) : Prop :=
+  ∀ x, SpeciallySoundAt σ x
+
+/-- Special soundness immediately validates any witness returned by the Σ-protocol extractor from
+two accepting transcripts with the same statement and commitment and with distinct challenges. -/
+theorem extract_sound_of_speciallySoundAt
+    (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel) {x : Stmt}
+    (hss : σ.SpeciallySoundAt x)
+    {pc : Commit} {ω₁ ω₂ : Chal} {p₁ p₂ : Resp} (hω : ω₁ ≠ ω₂)
+    (hv₁ : σ.verify x pc ω₁ p₁ = true) (hv₂ : σ.verify x pc ω₂ p₂ = true)
+    {w : Wit} (hw : w ∈ support (σ.extract ω₁ p₁ ω₂ p₂)) :
+    rel x w = true :=
+  hss pc ω₁ ω₂ p₁ p₂ hω hv₁ hv₂ w hw
+
+end speciallySound
+
+section hvzk
+
+variable [SampleableType Chal] [IsUniformSpec unifSpec]
+
+/-- The honest prover's transcript distribution for a Σ-protocol. -/
+def realTranscript (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (x : Stmt) (w : Wit) :
+    ProbComp (Commit × Chal × Resp) := do
+  let (pc, sc) ← σ.commit x w
+  let ω ← $ᵗ Chal
+  let π ← σ.respond x w sc ω
+  return (pc, ω, π)
+
+/-- Honest-verifier zero-knowledge: the real transcript distribution is within total variation
+distance `ζ_zk` of the simulated one.
+
+The real transcript is `σ.realTranscript x w`.
+The simulated transcript is produced by `simTranscript` given only the statement `x`.
+
+Note: the `sim` field of `SigmaProtocol` only produces a public commitment. For HVZK we need
+a full transcript simulator `Stmt → ProbComp (Commit × Chal × Resp)`. We parameterize by this
+simulator. -/
+def HVZK (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (simTranscript : Stmt → ProbComp (Commit × Chal × Resp)) (ζ_zk : ℝ) : Prop :=
+  ∀ x w, rel x w = true →
+    tvDist (σ.realTranscript x w) (simTranscript x) ≤ ζ_zk
+
+/-- Exact honest-verifier zero-knowledge: the real transcript distribution equals the
+simulated one. -/
+def PerfectHVZK (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (simTranscript : Stmt → ProbComp (Commit × Chal × Resp)) : Prop :=
+  ∀ x w, rel x w = true →
+    𝒟[σ.realTranscript x w] = 𝒟[simTranscript x]
+
+/-- The perfect HVZK property is equivalent to the approximate HVZK property with `ζ_zk = 0`. -/
+@[grind =]
+lemma perfectHVZK_iff_hvzk_zero
+    (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (simTranscript : Stmt → ProbComp (Commit × Chal × Resp)) :
+    σ.PerfectHVZK simTranscript ↔ σ.HVZK simTranscript 0 := by
+  refine ⟨fun h x w hx => ?_, fun h x w hx => ?_⟩
+  · exact le_of_eq ((tvDist_eq_zero_iff _ _).2 (h x w hx))
+  · exact (tvDist_eq_zero_iff _ _).1 (le_antisymm (h x w hx) (tvDist_nonneg _ _))
+
+open scoped ENNReal in
+/-- The simulator's commitment marginal has predictability at most `β`: no single
+commitment value is output with probability exceeding `β`. Equivalently, the commitment
+has min-entropy at least `-log₂ β`.
+
+This is a companion assumption to `HVZK` that bounds the collision probability of
+programmed cache entries in the Fiat-Shamir CMA-to-NMA reduction. For Schnorr,
+`β = 1/|G|` because the commitment `g^r` is uniform over the group.
+
+The `_σ : SigmaProtocol …` argument is dummy (the predicate only depends on
+`simTranscript` and `β`); it is present to enable field-notation usage like
+`σ.simCommitPredictability simTranscript β`. -/
+def simCommitPredictability
+    (_σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (simTranscript : Stmt → ProbComp (Commit × Chal × Resp)) (β : ℝ≥0∞) : Prop :=
+  ∀ x : Stmt, ∀ c₀ : Commit, probOutput (Prod.fst <$> simTranscript x) c₀ ≤ β
+
+open scoped ENNReal in
+/-- Conditional uniformity of the simulator's challenge given its commitment, expressed
+in product form: for any statement `x` admitting a witness, any commit value `c₀`, and
+any challenge value `ch₀`, the joint marginal `Pr[(commit, chal) = (c₀, ch₀)]` factors as
+`Pr[commit = c₀] * (1 / |Chal|)`.
+
+This is a strengthening of `simCommitPredictability` (which only bounds the commit
+marginal). Where the latter says "no commit value is too likely", `simChalUniformGivenCommit`
+says "the challenge is uniform conditional on any commit value", which is exactly the
+hypothesis required by `identical_until_bad_with_flag` when bridging the Fiat-Shamir
+programming-oracle and no-programming-oracle worlds: cache misses on programmed points
+return the simulator's challenge, and the bridge needs that challenge to be marginally
+uniform conditional on the simulator's commit (which is what gets compared against the
+random oracle's would-be answer).
+
+The product form `P[(c₀, ch₀)] = P[c₀] * 1/|Chal|` avoids conditional-probability
+ambiguities when `P[c₀] = 0` and is the most directly-usable shape inside the `tvDist`
+calculation.
+
+The `rel pk sk = true` hypothesis is needed because typical Schnorr-style simulators only
+satisfy this when `pk` admits a witness (the proof uses a witness-indexed bijection on the
+response variable); for statements outside the relation's image, the simulator's joint may
+have any structure. -/
+def simChalUniformGivenCommit [Fintype Chal]
+    (_σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (simTranscript : Stmt → ProbComp (Commit × Chal × Resp)) : Prop :=
+  ∀ (pk : Stmt) (sk : Wit), rel pk sk = true →
+    ∀ (c₀ : Commit) (ch₀ : Chal),
+      Pr[fun t : Commit × Chal × Resp => t.1 = c₀ ∧ t.2.1 = ch₀ | simTranscript pk] =
+        Pr[fun t : Commit × Chal × Resp => t.1 = c₀ | simTranscript pk] *
+          (Fintype.card Chal : ℝ≥0∞)⁻¹
+
+end hvzk
+
+section uniqueResponses
+
+/-- A Σ-protocol has unique responses if for any statement, commitment, and challenge,
+there is at most one valid response. This property is required by the Fischlin transform
+and holds for most common Σ-protocols (Schnorr, Guillou-Quisquater, etc.). -/
+def UniqueResponses (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel) : Prop :=
+  ∀ x pc ω p₁ p₂,
+    σ.verify x pc ω p₁ = true → σ.verify x pc ω p₂ = true → p₁ = p₂
+
+end uniqueResponses
+
+section toIdenSchemeWithAbort
+
+/-- Every `SigmaProtocol` can be viewed as a non-aborting `IdenSchemeWithAbort` by wrapping
+the response in `some`. The `sim` and `extract` fields are not part of
+`IdenSchemeWithAbort` and are dropped. -/
+def toIdenSchemeWithAbort (σ : SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel) :
+    IdenSchemeWithAbort Stmt Wit Commit PrvState Chal Resp rel where
+  commit := σ.commit
+  respond := fun stmt wit prvState chal => some <$> σ.respond stmt wit prvState chal
+  verify := σ.verify
+
+instance  _root_.SigmaProtocol.instCoeIdenSchemeWithAbort : Coe (SigmaProtocol Stmt Wit Commit PrvState Chal Resp rel)
+    (IdenSchemeWithAbort Stmt Wit Commit PrvState Chal Resp rel) :=
+  ⟨toIdenSchemeWithAbort⟩
+
+end toIdenSchemeWithAbort
+
+end SigmaProtocol
+
+

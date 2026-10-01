@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_Redistribution_dual_lower_bound
 -- name    : ScenarioReduction.Redistribution.dual_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:48:38.186848+00:00
 -- url     : https://prove2.me/theorems/513604f8-0093-48eb-adf7-7c17f98294f3

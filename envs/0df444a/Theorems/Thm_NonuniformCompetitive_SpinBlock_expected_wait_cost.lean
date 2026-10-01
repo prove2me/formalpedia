@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_SpinBlock_expected_wait_cost
 -- name    : NonuniformCompetitive.SpinBlock.expected_wait_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:51:45.218984+00:00
 -- url     : https://prove2.me/theorems/2a46b01c-4e23-4fe5-93ae-0a0f79212f9f

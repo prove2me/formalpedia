@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Boosting_ensemble_rademacher_margin_bound
 -- name    : FoundationsML.Boosting.ensemble_rademacher_margin_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:11:45.444999+00:00
 -- url     : https://prove2.me/theorems/c45a1ceb-24b5-4fcf-bba0-a6cf14d0fd7e

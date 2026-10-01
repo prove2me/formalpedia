@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WangZahlKakeya_tubeSystem_card_le
 -- name    : WangZahlKakeya.tubeSystem_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-20T14:46:41.470337+00:00
 -- url     : https://prove2.me/theorems/d9085aac-8991-4ba1-ad9e-6cc229c3d838

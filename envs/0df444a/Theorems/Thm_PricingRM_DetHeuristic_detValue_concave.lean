@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingRM_DetHeuristic_detValue_concave
 -- name    : PricingRM.DetHeuristic.detValue_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:34:49.510735+00:00
 -- url     : https://prove2.me/theorems/e85edfd2-5466-478f-9b49-ca1dcfb98a96

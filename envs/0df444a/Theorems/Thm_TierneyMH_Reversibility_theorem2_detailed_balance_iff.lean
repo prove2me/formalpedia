@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Reversibility_theorem2_detailed_balance_iff
 -- name    : TierneyMH.Reversibility.theorem2_detailed_balance_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:00:05.981818+00:00
 -- url     : https://prove2.me/theorems/d644627b-84e3-4754-a268-bc0a04e631fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_RenewalCost_f_above_s
 -- name    : VeinottWagnerSS.RenewalCost.f_above_s
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:19:43.234669+00:00
 -- url     : https://prove2.me/theorems/b52884a6-c05d-4f1d-8f87-e8842b0f868e

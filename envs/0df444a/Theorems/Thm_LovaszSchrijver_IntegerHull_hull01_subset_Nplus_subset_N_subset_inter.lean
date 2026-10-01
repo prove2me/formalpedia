@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_IntegerHull_hull01_subset_Nplus_subset_N_subset_inter
 -- name    : LovaszSchrijver.IntegerHull.hull01_subset_Nplus_subset_N_subset_inter
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:41:45.663644+00:00
 -- url     : https://prove2.me/theorems/a64d5ba0-0cd9-464c-a99b-a6136d414886

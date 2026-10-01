@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_RenewalCost_eq11_aCost_closed_form
 -- name    : VeinottWagnerSS.RenewalCost.eq11_aCost_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:27:59.044978+00:00
 -- url     : https://prove2.me/theorems/c3f8f052-b2a8-4689-b3df-29e2e145f339

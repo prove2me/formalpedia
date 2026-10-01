@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_SparseRecovery_rip_implies_exact_recovery
 -- name    : HighDimProb.SparseRecovery.rip_implies_exact_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:11:49.248988+00:00
 -- url     : https://prove2.me/theorems/f2c302b2-31bc-46d8-9a9c-7f5de826d428

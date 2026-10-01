@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_Local_newton_local_superlinear
 -- name    : NonsmoothNewton.Local.newton_local_superlinear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:05:30.986207+00:00
 -- url     : https://prove2.me/theorems/f6ea5f6f-1904-4040-a874-eda2cb7a2f1d

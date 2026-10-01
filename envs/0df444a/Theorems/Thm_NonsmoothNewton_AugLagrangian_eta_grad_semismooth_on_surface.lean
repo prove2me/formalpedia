@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_AugLagrangian_eta_grad_semismooth_on_surface
 -- name    : NonsmoothNewton.AugLagrangian.eta_grad_semismooth_on_surface
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:52:44.272342+00:00
 -- url     : https://prove2.me/theorems/9ae14863-b5dc-48b9-b966-b7abb3085adc

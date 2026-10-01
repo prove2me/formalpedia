@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_projGrad_tendsto_zero_of_subseq_bounded
 -- name    : CalamaiMore.Convergence.projGrad_tendsto_zero_of_subseq_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:34:58.595685+00:00
 -- url     : https://prove2.me/theorems/98a66da6-2785-4bbe-86a1-d6d61a71fb44

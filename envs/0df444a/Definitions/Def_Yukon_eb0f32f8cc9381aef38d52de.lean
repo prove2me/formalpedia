@@ -1,0 +1,408 @@
+-- Prove2me | Definitions.Def_Yukon_eb0f32f8cc9381aef38d52de
+-- name    : Yukon_eb0f32f8cc9381aef38d52de
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T18:32:31.694296+00:00
+-- url     : https://prove2.me/theorems/7c2a9c27-21c4-40c3-a7d1-2d8b99e614ef
+-- title:
+--   YukonModule.CompPoly.Univariate.ToPoly.Impl.part0
+-- statement:
+--   Source module CompPoly.Univariate.ToPoly.Impl.
+-- source:
+--   https://github.com/zksecurity/CompPoly/blob/641694629e4557520a1539b272ec338c9f3044c7/CompPoly/Univariate/ToPoly/Impl.lean
+--
+--   yukon-proof-operation:502914d3de2e7568845adfdb8869344508127255c1af6c742611076a2876d46a
+--   [yukon-proof-receipt:eyJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJoYXNoIjoiNTc5MTk5NzU0NTg0MWVhZGYzNjI1MTRlMDI2YzJlZDExYTI5MjQyZTZjMTJkNTYxYzNjOWRjNjM5MjFkYjkzOCIsImtpbmQiOiJkZWZpbml0aW9uIiwibWFya2VyIjoieXVrb24tcHJvb2Ytb3BlcmF0aW9uOjUwMjkxNGQzZGUyZTc1Njg4NDVhZGZkYjg4NjkzNDQ1MDgxMjcyNTVjMWFmNmM3NDI2MTEwNzZhMjg3NmQ0NmEiLCJ0YWciOiJiZXR0ZXItY29kZXMiLCJ0YXJnZXQiOiJZdWtvbl9lYjBmMzJmOGNjOTM4MWFlZjM4ZDUyZGUiLCJ2IjoyfQ]
+
+/-
+Copyright (c) 2025 CompPoly. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Quang Dao, Gregor Mitscha-Baude, Derek Sorensen
+-/
+module
+
+import all Definitions.Def_Yukon_1ce8d7bea4b01b2c56682fd7
+
+public import Definitions.Def_Yukon_1ce8d7bea4b01b2c56682fd7
+
+public import Mathlib.Algebra.Polynomial.Roots
+
+
+public import Mathlib.Data.Nat.Log
+public import Mathlib.Algebra.Order.Star.Basic
+public import Mathlib.Algebra.Order.Ring.Nat
+public import Mathlib.Tactic.Cases
+public import Mathlib.Order.Lattice.Nat
+public import Mathlib.Data.List.GetD
+public import Mathlib.Algebra.GroupWithZero.Nat
+public import Init
+public import Mathlib.RingTheory.Polynomial.Basic
+public import Mathlib.Algebra.Tropical.Basic
+public import Mathlib.Algebra.Ring.TransferInstance
+public import Mathlib.Algebra.Polynomial.Inductions
+meta import Definitions.Def_Yukon_1ce8d7bea4b01b2c56682fd7
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# Proofs of Correctness for CPolynomial Operations, wrt Mathlib Specs
+
+Proofs that operations defined on CPolynomial and CPolynomial.Raw are correct
+wrt the mathlib specs, using the ring equivalence
+-/
+
+public section
+
+open Polynomial
+
+namespace CompPoly
+
+namespace CPolynomial
+
+open Raw
+
+section ImplementationCorrectness
+
+variable {R : Type*} [Semiring R]
+
+/-- CPolynomial.monomial is correct wrt the Mathlib spec. -/
+theorem monomial_toPoly [DecidableEq R] [LawfulBEq R] (n : ℕ) (c : R) :
+    (monomial n c).toPoly = Polynomial.monomial n c := by
+  ext i
+  simp only [CPolynomial.toPoly, monomial]
+  rw [Polynomial.coeff_monomial, coeff_toPoly, CPolynomial.Raw.coeff_monomial]
+
+/-- CPolynomial.C is correct wrt the Mathlib spec. -/
+theorem C_toPoly [BEq R] [LawfulBEq R] (r : R) : (C r).toPoly = Polynomial.C r := by
+  change ((Raw.C r).trim : Raw R).toPoly = Polynomial.C r
+  rw [Raw.toPoly_trim]
+  exact Raw.toPoly_C r
+
+/-- CPolynomial.X is correct wrt the Mathlib spec. -/
+theorem X_toPoly [BEq R] [LawfulBEq R] [Nontrivial R] :
+    (X : CPolynomial R).toPoly = Polynomial.X := by
+  change (CPolynomial.Raw.X : CPolynomial.Raw R).toPoly = Polynomial.X
+  exact CPolynomial.Raw.toPoly_X (R := R)
+
+/-- CPolynomial.eval is correct wrt the Mathlib spec. -/
+theorem eval_toPoly [BEq R] [LawfulBEq R] (x : R) (p : CPolynomial R) :
+    eval x p = p.toPoly.eval x := by
+  change Raw.eval x p.val = p.val.toPoly.eval x
+  exact (Raw.eval_toPoly_eq_eval x p.val).symm
+
+/-- Evaluation of a constant computable polynomial. -/
+theorem eval_C [BEq R] [LawfulBEq R] (a c : R) :
+    CPolynomial.eval a (CPolynomial.C c) = c := by
+  rw [CPolynomial.eval_toPoly, CPolynomial.C_toPoly, Polynomial.eval_C]
+
+/-- Raw.eval₂ is correct wrt the Mathlib spec. -/
+theorem Raw.eval₂_toPoly {S : Type*} [Semiring S]
+    (f : R →+* S) (x : S) (p : CPolynomial.Raw R) :
+    p.eval₂ f x = p.toPoly.eval₂ f x := by
+  unfold CompPoly.CPolynomial.Raw.toPoly CompPoly.CPolynomial.Raw.eval₂
+  rw [← Array.foldl_hom (fun q : R[X] => q.eval₂ f x)
+    (g₁ := fun acc (t : R × ℕ) => acc + Polynomial.C t.1 * Polynomial.X ^ t.2)
+    (g₂ := fun acc (a, i) => acc + f a * x ^ i)]
+  · simp
+  · intro acc t
+    rcases t with ⟨a, i⟩
+    simp [Polynomial.eval₂_add, Polynomial.C_mul_X_pow_eq_monomial]
+
+/-- CPolynomial.eval₂ is correct wrt the Mathlib spec. -/
+theorem eval₂_toPoly {S : Type*} [Semiring S]
+    (f : R →+* S) (x : S) (p : CPolynomial R) :
+    eval₂ f x p = p.toPoly.eval₂ f x := by
+  simpa [CompPoly.CPolynomial.eval₂, CompPoly.CPolynomial.toPoly, CompPoly.CPolynomial.Raw.eval₂]
+    using
+    (Raw.eval₂_toPoly (f := f) (x := x) (p := p.val))
+
+/-- CPolynomial.coeff is correct wrt the Mathlib spec. -/
+theorem coeff_toPoly [BEq R] [LawfulBEq R] (p : CPolynomial R) (i : ℕ) :
+    p.coeff i = p.toPoly.coeff i := by
+  unfold toPoly coeff
+  simp [Raw.coeff_toPoly]
+
+/-- Evaluation at zero returns the constant coefficient. -/
+theorem eval_zero_eq_coeff_zero [BEq R] [LawfulBEq R]
+    (p : CPolynomial R) : CPolynomial.eval 0 p = p.coeff 0 := by
+  rw [CPolynomial.eval_toPoly]
+  rw [← Polynomial.coeff_zero_eq_eval_zero p.toPoly]
+  exact (CPolynomial.coeff_toPoly p 0).symm
+
+/-- CPolynomial.divX is correct wrt the Mathlib spec. -/
+theorem divX_toPoly [BEq R] [LawfulBEq R] (p : CPolynomial R) :
+    (divX p).toPoly = p.toPoly.divX := by
+  ext n
+  simp only [CPolynomial.toPoly, CompPoly.CPolynomial.Raw.coeff_toPoly, CPolynomial.coeff,
+    CompPoly.CPolynomial.coeff_divX, Polynomial.coeff_divX]
+
+/-- CPolynomial.support is correct wrt the Mathlib spec. -/
+theorem support_toPoly [BEq R] [LawfulBEq R] (p : CPolynomial R) :
+    p.support = p.toPoly.support := by
+  ext i
+  rw [CPolynomial.mem_support_iff, Polynomial.mem_support_iff, coeff_toPoly]
+
+/-- lemma: toImpl is natDegree's succ -/
+private lemma size_toImpl_eq_natDegree_succ {q : R[X]} (hq : q ≠ 0) :
+    q.toImpl.size = q.natDegree + 1 := by
+  rcases Raw.toImpl_elim q with ⟨hzero, _⟩ | ⟨_, himpl⟩
+  · exact (hq hzero).elim
+  · simp [himpl]
+
+/-- lemma: size = natDegree's succ -/
+private lemma size_eq_toPoly_natDegree_succ [BEq R] [LawfulBEq R]
+    (p : CPolynomial R) (hp : p ≠ 0) :
+    p.val.size = p.toPoly.natDegree + 1 := by
+  have htoPoly : p.toPoly ≠ 0 := (toPoly_eq_zero_iff p).not.mpr hp
+  have hsize : p.toPoly.toImpl.size = p.val.size := by
+    simpa using congrArg Array.size (toImpl_toPoly_of_canonical p)
+  rw [← hsize]
+  exact size_toImpl_eq_natDegree_succ htoPoly
+
+/-- CPolynomial.degree is correct wrt the Mathlib spec. -/
+theorem degree_toPoly [BEq R] [LawfulBEq R] (p : CPolynomial R) :
+    p.degree = p.toPoly.degree := by
+  by_cases hp : p = 0
+  · subst hp
+    rw [toPoly_zero, CPolynomial.degree]
+    rfl
+  · have hsize := size_eq_toPoly_natDegree_succ p hp
+    have htoPoly : p.toPoly ≠ 0 := (toPoly_eq_zero_iff p).not.mpr hp
+    cases hs : p.val.size with
+    | zero =>
+        simp [hs] at hsize
+    | succ n =>
+        have hnat : p.toPoly.natDegree = n := by omega
+        simp [CPolynomial.degree, hs, hnat,
+          Polynomial.degree_eq_natDegree htoPoly]
+
+/-- CPolynomial.natDegree is correct wrt the Mathlib spec. -/
+theorem natDegree_toPoly [BEq R] [LawfulBEq R] (p : CPolynomial R) :
+    p.natDegree = p.toPoly.natDegree := by
+  by_cases hp : p = 0
+  · subst hp
+    rw [
+      toPoly_zero,
+      CPolynomial.natDegree
+    ]
+    rfl
+  · have hsize := size_eq_toPoly_natDegree_succ p hp
+    cases hs : p.val.size with
+    | zero =>
+        simp [hs] at hsize
+    | succ n =>
+        have hnat : p.toPoly.natDegree = n := by omega
+        rw [
+          hnat,
+          CPolynomial.natDegree,
+          hs
+        ]
+
+/-- CPolynomial.leadingCoeff is correct wrt the Mathlib spec. -/
+theorem leadingCoeff_toPoly [BEq R] [LawfulBEq R] (p : CPolynomial R) :
+    p.leadingCoeff = p.toPoly.leadingCoeff := by
+  by_cases hp : p = 0
+  · subst hp
+    rw [toPoly_zero, CPolynomial.leadingCoeff]
+    rfl
+  · have htoPoly : p.toPoly ≠ 0 := (toPoly_eq_zero_iff p).not.mpr hp
+    have hpos : p.val.size > 0 := by
+      have hsize := size_eq_toPoly_natDegree_succ p hp
+      omega
+    have hlastImpl :
+        p.toPoly.toImpl.getLast (Raw.toImpl_nonzero htoPoly) = p.toPoly.leadingCoeff := by
+      simpa [Array.getLast] using Raw.getLast_toImpl htoPoly
+    have hround : p.toPoly.toImpl = (p : CPolynomial.Raw R) := by
+      simpa using toImpl_toPoly_of_canonical p
+    have hlast : p.val.getLast hpos = p.toPoly.leadingCoeff := by
+      simpa [hround, Array.getLast] using hlastImpl
+    simpa [CPolynomial.leadingCoeff, Array.getLastD, Array.getLast, hpos] using hlast
+
+/-- CPolynomial.monic is correct wrt the Mathlib spec -/
+theorem monic_toPoly_iff [BEq R] [LawfulBEq R] (p : CPolynomial R) :
+    p.monic ↔ p.toPoly.Monic := by
+  rw [monic, Polynomial.Monic.def, beq_iff_eq, leadingCoeff_toPoly]
+
+/-- CPolynomial.erase is correct wrt the Mathlib spec. -/
+theorem erase_toPoly {R : Type*} [Ring R] [BEq R] [LawfulBEq R] [DecidableEq R]
+    (n : ℕ) (p : CPolynomial R) :
+    (erase n p).toPoly = p.toPoly.erase n := by
+  ext i
+  rw [← coeff_toPoly, Polynomial.coeff_erase, coeff_erase, ← coeff_toPoly]
+
+/-- CPolynomial.C r mul CPolynomial.X ^ n is correct wrt the Mathlib spec. -/
+theorem C_mul_X_pow_toPoly [BEq R] [LawfulBEq R] [DecidableEq R] [Nontrivial R] (r : R) (n : ℕ) :
+    (C r * X ^ n).toPoly = Polynomial.monomial n r := by
+  rw [C_mul_X_pow_eq_monomial r n]
+  exact monomial_toPoly n r
+
+/-- CPolynomial.lcoeff is correct wrt the Mathlib spec. -/
+theorem lcoeff_toPoly [BEq R] [LawfulBEq R] (n : ℕ) (p : CPolynomial R) :
+    lcoeff (R := R) n p = Polynomial.lcoeff R n (toPoly p) := by
+    simp [Polynomial.lcoeff_apply, ← coeff_toPoly]
+
+/-- CPolynomial.degreeLE is correct wrt the Mathlib spec. -/
+theorem degreeLE_toPoly {n : WithBot ℕ} [BEq R] [LawfulBEq R] {p : CPolynomial R} :
+    p ∈ degreeLE (R := R) n ↔ p.toPoly ∈ Polynomial.degreeLE R n := by
+  rw [Polynomial.mem_degreeLE]
+  rw [mem_degreeLE]
+  rw [degree_toPoly]
+
+/-- CPolynomial.degreeLT is correct wrt the Mathlib spec. -/
+theorem degreeLT_toPoly {n : ℕ} [BEq R] [LawfulBEq R] {p : CPolynomial R} :
+    p ∈ degreeLT (R := R) n ↔ p.toPoly ∈ Polynomial.degreeLT R n := by
+  rw [Polynomial.mem_degreeLT]
+  rw [mem_degreeLT]
+  rw [degree_toPoly]
+
+end ImplementationCorrectness
+
+section EvaluationDivision
+
+variable {R : Type*}
+
+/-- Evaluation preserves multiplication. -/
+theorem eval_mul [CommSemiring R] [BEq R] [LawfulBEq R]
+    (p q : CPolynomial R) (x : R) :
+    (p * q).eval x = p.eval x * q.eval x := by
+  rw [eval_toPoly, toPoly_mul, Polynomial.eval_mul, ← eval_toPoly, ← eval_toPoly]
+
+/-- **Univariate eval-extensionality (degree-bounded).** Two `CPolynomial`s
+over an integral domain that agree on more than $d$ points of a `Finset S` are
+equal, when $d$ bounds the natural degree of their difference.
+
+The degree bound is needed over finite fields, where two distinct polynomials
+may agree on every field element. -/
+theorem eval_ext
+    [CommRing R] [DecidableEq R] [BEq R] [LawfulBEq R] [IsDomain R]
+    {p q : CPolynomial R} {d : ℕ} {S : Finset R}
+    (hdeg : (p - q).natDegree ≤ d)
+    (hagree :
+      d < (S.filter
+              (fun r ↦ p.eval r = q.eval r)).card) :
+    p = q := by
+  by_contra hne
+  let r : CPolynomial R := p - q
+  have hrne : r ≠ 0 := sub_ne_zero.mpr hne
+  have hrPolyNe : r.toPoly ≠ 0 := by
+    intro h
+    exact hrne ((toPoly_eq_zero_iff r).mp h)
+  have hrPolyDeg : r.toPoly.natDegree ≤ d := by
+    rwa [← natDegree_toPoly]
+  let T : Finset R :=
+    S.filter (fun x ↦ p.eval x = q.eval x)
+  have hTcard : d < T.card := hagree
+  have heval_zero : ∀ x ∈ T, r.toPoly.eval x = 0 := by
+    intro x hx
+    have hxeq : p.eval x = q.eval x := (Finset.mem_filter.mp hx).2
+    rw [← eval_toPoly]
+    show r.eval x = 0
+    rw [show r = p - q from rfl, eval_toPoly, toPoly_sub, Polynomial.eval_sub,
+      ← eval_toPoly, ← eval_toPoly, hxeq, sub_self]
+  exact hrPolyNe <|
+    Polynomial.eq_zero_of_natDegree_lt_card_of_eval_eq_zero' r.toPoly T
+      heval_zero (lt_of_le_of_lt hrPolyDeg hTcard)
+
+/-- Evaluation preserves subtraction. -/
+theorem eval_sub [Ring R] [BEq R] [LawfulBEq R]
+    (a : R) (p q : CPolynomial R) :
+    CPolynomial.eval a (p - q) = CPolynomial.eval a p - CPolynomial.eval a q := by
+  rw [CPolynomial.eval_toPoly, CPolynomial.toPoly_sub, Polynomial.eval_sub,
+    ← CPolynomial.eval_toPoly, ← CPolynomial.eval_toPoly]
+
+/-- Evaluation of the constant one computable polynomial. -/
+theorem eval_one [Semiring R] [BEq R] [LawfulBEq R] [Nontrivial R]
+    (a : R) : CPolynomial.eval a (1 : CPolynomial R) = 1 := by
+  rw [CPolynomial.eval_toPoly, CPolynomial.toPoly_one, Polynomial.eval_one]
+
+/-- Dividing by `X` preserves a nonzero root when the constant coefficient vanishes. -/
+theorem eval_divX_eq_zero_of_ne_zero_root [Field R] [BEq R] [LawfulBEq R]
+    {p : CPolynomial R} {a : R} (ha : a ≠ 0)
+    (hcoeff : p.coeff 0 = 0) (hroot : CPolynomial.eval a p = 0) :
+    CPolynomial.eval a (CPolynomial.divX p) = 0 := by
+  have hdecomp := CPolynomial.X_mul_divX_add (p := p)
+  have hroot' :
+      CPolynomial.eval a (CPolynomial.X * CPolynomial.divX p + CPolynomial.C (p.coeff 0)) =
+        0 := by
+    rw [← hdecomp]
+    exact hroot
+  rw [CPolynomial.eval_toPoly, CPolynomial.toPoly_add, CPolynomial.toPoly_mul,
+    CPolynomial.X_toPoly, CPolynomial.C_toPoly, Polynomial.eval_add, Polynomial.eval_mul,
+    Polynomial.eval_X, Polynomial.eval_C, ← CPolynomial.eval_toPoly] at hroot'
+  rw [hcoeff] at hroot'
+  simp at hroot'
+  rcases hroot' with hzero | hdivRoot
+  · exact (ha hzero).elim
+  · exact hdivRoot
+
+/-- If a nonzero polynomial has zero constant coefficient, its quotient by `X` is nonzero. -/
+theorem divX_ne_zero_of_ne_zero_coeff_zero [Field R] [BEq R] [LawfulBEq R]
+    {p : CPolynomial R} (hp : p ≠ 0) (hcoeff : p.coeff 0 = 0) :
+    CPolynomial.divX p ≠ 0 := by
+  intro hdiv
+  apply hp
+  have hC0 : CPolynomial.C (0 : R) = 0 := by
+    apply (CPolynomial.eq_iff_coeff).2
+    intro i
+    simp
+  rw [CPolynomial.X_mul_divX_add (p := p), hdiv, hcoeff]
+  rw [hC0]
+  simp
+
+namespace Raw
+
+theorem eval_sub_C_mul_X_pow_trim_eq_self_of_eval_eq_zero
+    [Field R] [BEq R] [LawfulBEq R] (p q : CPolynomial.Raw R) (scale : R)
+    (shift : ℕ) {x : R} (hq : q.eval x = 0) :
+    ((p - C scale * (q * X ^ shift)).trim).eval x = p.eval x := by
+  rw [eval_trim_eq_eval]
+  rw [← eval_toPoly_eq_eval x]
+  rw [toPoly_sub, toPoly_mul, toPoly_C, toPoly_mul, toPoly_pow, toPoly_X]
+  rw [Polynomial.eval_sub, Polynomial.eval_mul, Polynomial.eval_C, Polynomial.eval_mul,
+    Polynomial.eval_pow, Polynomial.eval_X]
+  simp [eval_toPoly_eq_eval, hq]
+
+theorem eval_divModByMonicAux_go_snd_eq_self_of_eval_eq_zero
+    [Field R] [BEq R] [LawfulBEq R] :
+    ∀ (fuel : ℕ) (p q : CPolynomial.Raw R) {x : R}, q.eval x = 0 →
+      (divModByMonicAux.go fuel p q).2.eval x = p.eval x := by
+  intro fuel
+  induction fuel with
+  | zero =>
+      intro p q x hq
+      rfl
+  | succ fuel ih =>
+      intro p q x hq
+      unfold divModByMonicAux.go
+      by_cases hsize : p.size < q.size
+      · simp [hsize]
+      · simp [hsize]
+        trans ((p - C p.leadingCoeff * (q * X ^ (p.size - q.size))).trim).eval x
+        · exact ih _ _ hq
+        · exact eval_sub_C_mul_X_pow_trim_eq_self_of_eval_eq_zero p q p.leadingCoeff
+            (p.size - q.size) hq
+
+/-- Reducing by a polynomial that vanishes at `x` preserves evaluation at `x`. -/
+theorem eval_modByMonic_eq_self_of_eval_eq_zero
+    [Field R] [BEq R] [LawfulBEq R] (p q : CPolynomial.Raw R) {x : R}
+    (hq : q.eval x = 0) :
+    (modByMonic p q).eval x = p.eval x :=
+  eval_divModByMonicAux_go_snd_eq_self_of_eval_eq_zero p.size p q hq
+
+end Raw
+
+/-- Reducing by a polynomial that vanishes at `x` preserves evaluation at `x`. -/
+theorem eval_modByMonic_eq_self_of_eval_eq_zero
+    [Field R] [BEq R] [LawfulBEq R] (p q : CPolynomial R) {x : R}
+    (hq : q.eval x = 0) :
+    (CPolynomial.modByMonic p q).eval x = p.eval x := by
+  have hq_raw : q.val.eval x = 0 := by
+    simpa [CPolynomial.eval, Raw.eval, Raw.eval₂] using hq
+  change (Raw.modByMonic p.val q.val).eval x = p.val.eval x
+  exact Raw.eval_modByMonic_eq_self_of_eval_eq_zero p.val q.val hq_raw
+
+end EvaluationDivision
+
+end CPolynomial
+
+end CompPoly
+
+

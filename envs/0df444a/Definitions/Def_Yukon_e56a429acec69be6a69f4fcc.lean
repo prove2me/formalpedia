@@ -1,0 +1,513 @@
+-- Prove2me | Definitions.Def_Yukon_e56a429acec69be6a69f4fcc
+-- name    : Yukon_e56a429acec69be6a69f4fcc
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T14:38:02.80761+00:00
+-- url     : https://prove2.me/theorems/6f906b36-8c43-4d2e-aa85-0af372f45aa5
+-- title:
+--   YukonModule.PolyFun.PFunctor.Basic.part0
+-- statement:
+--   Source module PolyFun.PFunctor.Basic.
+-- source:
+--   https://github.com/Verified-zkEVM/PolyFun/blob/dd77aa91dd425ebaec4388270f3a8e3dc7ace571/PolyFun/PFunctor/Basic.lean
+--
+--   provider-v8:6783c738916f567e284fe569ba76340a99cebf11768f59eb1fe4695c60e8c68b
+--   [yukon-proof-receipt:eyJ2IjoxLCJtYXJrZXIiOiJwcm92aWRlci12ODo2NzgzYzczODkxNmY1NjdlMjg0ZmU1NjliYTc2MzQwYTk5Y2ViZjExNzY4ZjU5ZWIxZmU0Njk1YzYwZThjNjhiIiwiaGFzaCI6IjMwN2FlOTFjOTA5NzBkZjhlMWVjMDliMmJhYTk5YzE4NWRiMzhmYjRkODhlZDE2YThlYjFmYjVkNDIxNDkwNDAiLCJraW5kIjoiZGVmaW5pdGlvbiIsInRhcmdldCI6Ill1a29uX2U1NmE0MjlhY2VjNjliZTZhNjlmNGZjYyIsImVudmlyb25tZW50Ijp7Im1hdGhsaWJSZXYiOiIwZGY0NDRhMzYwZWFhNjBhYjhjMTFkY2E1MWE4NmFmNjkyOTU1NDc0IiwidG9vbGNoYWluIjoibGVhbnByb3Zlci9sZWFuNDp2NC4zMy4xIn0sInRhZyI6ImJldHRlci1jb2RlcyJ9]
+
+/-
+Copyright (c) 2026 PolyFun Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Quang Dao
+-/
+module
+
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+
+
+public import Init
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+  # Polynomial Functors, Lens, and Charts
+
+  This file defines polynomial functors, lenses, and charts. The goal is to provide basic
+  definitions, with their properties and categories defined in later files.
+
+dt: this file is getting long and should maybe be split up more.
+-/
+
+@[expose] public section
+
+universe u v uA uB uA₁ uB₁ uA₂ uB₂ uA₃ uB₃ uA₄ uB₄ uA₅ uB₅ uA₆ uB₆ vA vB
+
+namespace PFunctor
+
+section Basic
+
+/-- The zero polynomial functor, defined as `A = PEmpty` and `B _ = PEmpty`, is the identity with
+  respect to sum (up to equivalence) -/
+instance instZeroPFunctor : Zero PFunctor.{uA, uB} where
+  zero := ⟨PEmpty, fun _ => PEmpty⟩
+
+/-- The unit polynomial functor, defined as `A = PUnit` and `B _ = PEmpty`, is the identity with
+  respect to product (up to equivalence) -/
+instance instOnePFunctor : One PFunctor.{uA, uB} where
+  one := ⟨PUnit, fun _ => PEmpty⟩
+
+/-- The variable `y` polynomial functor. This is the unit for composition. -/
+def y : PFunctor.{uA, uB} :=
+  ⟨PUnit, fun _ => PUnit⟩
+
+instance  _root_.PFunctor.instIsEmptyAOfNat_polyFun : IsEmpty (A 0) := inferInstanceAs (IsEmpty PEmpty)
+instance instUniqueAOfNatOne : Unique (A 1) := inferInstanceAs (Unique PUnit)
+instance  _root_.PFunctor.instUniqueAY : Unique y.A := inferInstanceAs (Unique PUnit)
+
+/-- The monomial functor, also written `P(X) = A X^ B`, has `A` as its head type and the constant
+  family `B_a = B` as the child type for each each shape `a : A` . -/
+def monomial (A : Type uA) (B : Type uB) : PFunctor.{uA, uB} :=
+  ⟨A, fun _ => B⟩
+
+@[inherit_doc] scoped[PFunctor] infixr:80 " X^ " => monomial
+
+/-- The constant polynomial functor `P(X) = A X^ PEmpty` -/
+def C (A : Type uA) : PFunctor.{uA, uB} :=
+  A X^ PEmpty
+
+/-- The variable (or indeterminate) polynomial functor `X`, defined as `P(X) = PUnit X^ PUnit`.
+
+This is the identity with respect to tensor product and composition (up to equivalence). -/
+def X : PFunctor.{uA, uB} :=
+  PUnit X^ PUnit
+
+/-- The linear polynomial functor `P(X) = A X` -/
+def linear (A : Type uA) : PFunctor.{uA, uB} :=
+  A X^ PUnit
+
+/-- The self monomial polynomial functor `P(X) = S X^ S` -/
+def selfMonomial (S : Type uA) : PFunctor.{uA, uA} :=
+  S X^ S
+
+/-- The pure power polynomial functor `P(X) = X^ B` -/
+def purePower (B : Type uB) : PFunctor.{uA, uB} :=
+  PUnit X^ B
+
+/-- A polynomial functor is representable if it is equivalent to `X^A` for some type `A`. -/
+alias representable := purePower
+
+/-- The **universe polynomial functor** `P(X) = Σ (T : Type u), X^ T`: positions are types,
+and the directions at a position `T` are its elements. Its extension `univ.Obj S` is
+`Σ (T : Type u), T → S`, so a dynamical system over `univ` is a transition system that
+exposes at each state the type of its currently enabled events; see `PFunctor.DynSystem`.
+
+Reducible so that a direction type `univ.B T` unfolds to `T` during elaboration and
+instance search, keeping transitions over `univ` as ergonomic as bare functions. -/
+@[reducible]
+def univ : PFunctor.{u + 1, u} :=
+  ⟨Type u, fun T => T⟩
+
+section Coprod
+instance  _root_.PFunctor.instIsEmptyBOfNat_polyFun {a} : IsEmpty (B 1 a) := inferInstanceAs (IsEmpty PEmpty)
+instance  _root_.PFunctor.instIsEmptyBC {α} (a : α) : IsEmpty (B (C α) a) := inferInstanceAs (IsEmpty PEmpty)
+instance  _root_.PFunctor.instUniqueAX : Unique (A X) := inferInstanceAs (Unique PUnit)
+instance  _root_.PFunctor.instUniqueBX {a} : Unique (B X a) := inferInstanceAs (Unique PUnit)
+instance  _root_.PFunctor.instUniqueBLinear {α} (a : α) : Unique (B (linear α) a) := inferInstanceAs (Unique PUnit)
+instance  _root_.PFunctor.instUniqueAPurePower {β} : Unique (A (purePower β)) := inferInstanceAs (Unique PUnit)
+
+@[simp] lemma C_empty : C PEmpty = 0 := rfl
+@[simp] lemma C_unit : C PUnit = 1 := rfl
+
+@[simp] lemma C_A (A : Type u) : (C A).A = A := rfl
+@[simp] lemma C_B (A : Type u) (a : (C A).A) : (C A).B a = PEmpty := rfl
+
+@[simp] lemma X_A : X.A = PUnit := rfl
+@[simp] lemma X_B (a : X.A) : X.B a = PUnit := rfl
+
+@[simp] lemma linear_A (A : Type u) : (linear A).A = A := rfl
+@[simp] lemma linear_B (A : Type u) (a : (linear A).A) : (linear A).B a = PUnit := rfl
+
+@[simp] lemma selfMonomial_A (S : Type u) : (selfMonomial S).A = S := rfl
+@[simp] lemma selfMonomial_B (S : Type u) (a : (selfMonomial S).A) : (selfMonomial S).B a = S := rfl
+@[simp] lemma selfMonomial_unit : selfMonomial PUnit = X := rfl
+
+@[simp] lemma purePower_A (B : Type u) : (purePower B).A = PUnit := rfl
+@[simp] lemma purePower_B (B : Type u) (a : (purePower B).A) : (purePower B).B a = B := rfl
+@[simp] lemma purePower_unit : purePower PUnit = X := rfl
+
+@[simp] lemma univ_A : univ.{u}.A = Type u := rfl
+lemma univ_B (T : Type u) : univ.{u}.B T = T := rfl
+
+section Sum
+
+/-- The sum (coproduct) of two polynomial functors `P` and `Q`, written as `P + Q`.
+
+Defined as the sum of the head types and the sum case analysis for the child types.
+
+Note: requires the `B` universe levels to be the same. -/
+def sum (P : PFunctor.{uA₁, uB}) (Q : PFunctor.{uA₂, uB}) : PFunctor.{max uA₁ uA₂, uB} :=
+  ⟨P.A ⊕ Q.A, Sum.elim P.B Q.B⟩
+
+/-- Addition of polynomial functors, defined as the sum construction. -/
+instance instHAddPFunctor :
+    HAdd PFunctor.{uA₁, uB} PFunctor.{uA₂, uB} PFunctor.{max uA₁ uA₂, uB} where
+  hAdd := sum
+
+instance instAddPFunctor : Add PFunctor.{uA, uB} where
+  add := sum
+
+lemma add_def (P : PFunctor.{uA₁, uB}) (Q : PFunctor.{uA₂, uB}) :
+    P + Q = ⟨P.A ⊕ Q.A, Sum.elim P.B Q.B⟩ := rfl
+
+-- alias coprodUnit := zero
+alias coprod := sum
+
+/-- The generalized sum (sigma type) of an indexed family of polynomial functors. -/
+def sigma {I : Type v} (F : I → PFunctor.{uA, uB}) : PFunctor.{max uA v, uB} :=
+  ⟨Σ i, (F i).A, fun ⟨i, a⟩ => (F i).B a⟩
+
+-- macro "Σₚ" xs:Lean.explicitBinders ", " b:term : term => Lean.expandExplicitBinders ``sigma xs b
+
+end Sum
+
+section Prod
+
+/-- The product of two polynomial functors `P` and `Q`, written as `P * Q`.
+
+Defined as the product of the head types and the sum of the child types. -/
+def prod (P : PFunctor.{uA₁, uB₁}) (Q : PFunctor.{uA₂, uB₂}) :
+    PFunctor.{max uA₁ uA₂, max uB₁ uB₂} :=
+  ⟨P.A × Q.A, fun ab => P.B ab.1 ⊕ Q.B ab.2⟩
+
+/-- Multiplication of polynomial functors, defined as the product construction. -/
+instance instHMulPFunctor :
+    HMul PFunctor.{uA₁, uB₁} PFunctor.{uA₂, uB₂} PFunctor.{max uA₁ uA₂, max uB₁ uB₂} where
+  hMul := prod
+
+instance instMulPFunctor : Mul PFunctor.{uA, uB} where
+  mul := prod
+
+/-- The generalized product (pi type) of an indexed family of polynomial functors. -/
+def pi {I : Type v} (F : I → PFunctor.{uA, uB}) : PFunctor.{max uA v, max uB v} :=
+  ⟨(i : I) → (F i).A, fun f => Σ i, (F i).B (f i)⟩
+
+end Prod
+
+section Tensor
+
+/-- The tensor (also called parallel or Dirichlet) product of two polynomial functors `P` and `Q`.
+
+Defined as the product of the head types and the product of the child types. -/
+def tensor (P : PFunctor.{uA₁, uB₁}) (Q : PFunctor.{uA₂, uB₂}) :
+    PFunctor.{max uA₁ uA₂, max uB₁ uB₂} :=
+  ⟨P.A × Q.A, fun ab => P.B ab.1 × Q.B ab.2⟩
+
+/-- Infix notation for tensor product `P ⊗ Q` -/
+scoped[PFunctor] infixl:70 " ⊗ " => tensor
+
+/-- The unit for the tensor product `Y` -/
+alias tensorUnit := X
+
+end Tensor
+
+section Comp
+
+/-- Infix notation for `PFunctor.comp P Q` -/
+scoped[PFunctor] infixl:80 " ◃ " => PFunctor.comp
+
+/-- The unit for composition `Y` -/
+alias compUnit := X
+
+/-- Repeated composition `P ◃ P ◃ ... ◃ P` (n times). -/
+@[simp]
+def compNth (P : PFunctor.{uA, uB}) : Nat → PFunctor.{max uA uB, uB}
+  | 0 => X
+  | Nat.succ n => P ◃ compNth P n
+
+instance instNatPowPFunctor : NatPow PFunctor.{max uA uB, uB} where
+  pow := compNth
+
+end Comp
+
+section ULift
+
+/-- Lift a polynomial functor `P` to a pair of larger universes. -/
+protected def ulift (P : PFunctor.{uA, uB}) : PFunctor.{max uA vA, max uB vB} :=
+  ⟨ULift P.A, fun a => ULift (P.B (ULift.down a))⟩
+
+end ULift
+
+/-- Exponential of polynomial functors `P ^ Q` -/
+def exp (P Q : PFunctor.{uA, uB}) : PFunctor.{max uA uB, max uA uB} :=
+  pi (fun a => P ◃ (X + C (Q.B a)))
+
+instance instHPowPFunctor :
+    HPow PFunctor.{uA, uB} PFunctor.{uA, uB} PFunctor.{max uA uB, max uA uB} where
+  hPow := exp
+
+section Fintype
+
+/-- A polynomial functor is finitely branching if each of its branches is a finite type. -/
+protected class Fintype (P : PFunctor.{uA, uB}) where
+  /-- The direction type over each position `a` is a finite type. -/
+  fintypeB : ∀ a, Fintype (P.B a)
+
+instance  _root_.PFunctor.instFintypeUlift {P : PFunctor.{uA, uB}} [inst : P.Fintype] : PFunctor.Fintype (PFunctor.ulift P) where
+  fintypeB := fun a => by
+    unfold PFunctor.ulift
+    have : Fintype (P.B (ULift.down a)) := inst.fintypeB (ULift.down a)
+    infer_instance
+
+@[simp]
+instance  _root_.PFunctor.instFintypeBOfFintype {P : PFunctor.{uA, uB}} [inst : P.Fintype] : ∀ a, Fintype (P.B a) :=
+  fun a => inst.fintypeB a
+
+instance  _root_.PFunctor.instFintypeOfNat : PFunctor.Fintype 0 where
+  fintypeB _ := Fintype.instPEmpty
+
+instance  _root_.PFunctor.instFintypeOfNat_1 : PFunctor.Fintype 1 where
+  fintypeB _ := Fintype.instPEmpty
+
+end Fintype
+
+section Inhabited
+
+/-- A polynomial functor is pointwise inhabited if each of its branches is an inhabited type. -/
+protected class Inhabited (P : PFunctor.{uA, uB}) where
+  /-- The direction type over each position `a` is inhabited. -/
+  inhabitedB : ∀ a, Inhabited (P.B a)
+
+instance  _root_.PFunctor.instInhabitedUlift {P : PFunctor.{uA, uB}} [inst : P.Inhabited] :
+    PFunctor.Inhabited (PFunctor.ulift P) where
+  inhabitedB := fun a => by
+    unfold PFunctor.ulift
+    have : Inhabited (P.B (ULift.down a)) := inst.inhabitedB (ULift.down a)
+    infer_instance
+
+@[simp]
+instance  _root_.PFunctor.instInhabitedBOfInhabited {P : PFunctor.{uA, uB}} [inst : P.Inhabited] : ∀ a, Inhabited (P.B a) :=
+  fun a => inst.inhabitedB a
+
+end Inhabited
+
+section DecidableEq
+
+/-- A polynomial functor has decidable equality if its position type and each of its
+direction types have decidable equality. -/
+protected class DecidableEq (P : PFunctor.{uA, uB}) where
+  /-- The position type `P.A` has decidable equality. -/
+  decidableEqA : DecidableEq P.A
+  /-- The direction type over each position `a` has decidable equality. -/
+  decidableEqB : ∀ a, DecidableEq (P.B a)
+
+instance  _root_.PFunctor.instDecidableEqAOfDecidableEq {P : PFunctor.{uA, uB}} [inst : P.DecidableEq] : DecidableEq P.A :=
+  inst.decidableEqA
+
+instance  _root_.PFunctor.instDecidableEqBOfDecidableEq {P : PFunctor.{uA, uB}} [inst : P.DecidableEq] (a : P.A) :
+    DecidableEq (P.B a) := inst.decidableEqB a
+
+@[simp]
+instance  _root_.PFunctor.instDecidableEqUlift {P : PFunctor.{uA, uB}} [inst : P.DecidableEq] :
+    PFunctor.DecidableEq (PFunctor.ulift P) where
+  decidableEqA := by
+    unfold PFunctor.ulift
+    infer_instance
+  decidableEqB := fun a => by
+    unfold PFunctor.ulift
+    infer_instance
+
+instance  _root_.PFunctor.instDecidableEqOfNat : PFunctor.DecidableEq 0 where
+  decidableEqA := inferInstanceAs (DecidableEq PEmpty)
+  decidableEqB _ := inferInstanceAs (DecidableEq PEmpty)
+
+instance  _root_.PFunctor.instDecidableEqOfNat_1 : PFunctor.DecidableEq 1 where
+  decidableEqA := inferInstanceAs (DecidableEq PUnit)
+  decidableEqB _ := inferInstanceAs (DecidableEq PEmpty)
+
+end DecidableEq
+
+section ofConst
+
+/-- PFunctor where the output type is constant over an arbitrary input type. -/
+def ofConst (A : Type uA) (B : Type uB) : PFunctor.{uA, uB} where
+  A := A
+  B _ := B
+
+variable (A : Type uA) (B : Type uB)
+
+instance  _root_.PFunctor.instFintypeOfConstOfFintype [hB : Fintype B] : (ofConst A B).Fintype where
+  fintypeB _ := inferInstanceAs (Fintype B)
+
+instance  _root_.PFunctor.instDecidableEqOfConstOfDecidableEq [DecidableEq A] [DecidableEq B] : (ofConst A B).DecidableEq where
+  decidableEqA := inferInstanceAs (DecidableEq A)
+  decidableEqB _ := inferInstanceAs (DecidableEq B)
+
+instance  _root_.PFunctor.instInhabitedOfConstOfInhabited [Inhabited B] : (ofConst A B).Inhabited where
+  inhabitedB _ := inferInstanceAs (Inhabited B)
+
+end ofConst
+/-- An equivalence between two polynomial functors `P` and `Q`, written `P ≃ₚ Q`, is given by an
+equivalence of the `A` types and an equivalence between the `B` types for each `a : A`. -/
+@[ext]
+protected structure Equiv (P : PFunctor.{uA₁, uB₁}) (Q : PFunctor.{uA₂, uB₂}) where
+  /-- An equivalence between the `A` types -/
+  equivA : P.A ≃ Q.A
+  /-- An equivalence between the `B` types for each `a : A` -/
+  equivB : ∀ a, P.B a ≃ Q.B (equivA a)
+
+@[inherit_doc] scoped[PFunctor] infixl:25 " ≃ₚ " => PFunctor.Equiv
+
+namespace Equiv
+
+variable {P : PFunctor.{uA₁, uB₁}} {Q : PFunctor.{uA₂, uB₂}}
+
+/-- The identity equivalence between a polynomial functor `P` and itself. -/
+def refl (P : PFunctor.{uA, uB}) : P ≃ₚ P where
+  equivA := _root_.Equiv.refl P.A
+  equivB := fun a => _root_.Equiv.refl (P.B a)
+
+/-- The inverse of an equivalence between polynomial functors. -/
+def symm {P : PFunctor.{uA₁, uB₁}} {Q : PFunctor.{uA₂, uB₂}} (E : P ≃ₚ Q) : Q ≃ₚ P where
+  equivA := E.equivA.symm
+  equivB := fun a =>
+    (Equiv.cast (congrArg Q.B ((Equiv.symm_apply_eq E.equivA).mp rfl))).trans
+      (E.equivB (E.equivA.symm a)).symm
+
+/-- The composition of two equivalences between polynomial functors. -/
+def trans {P : PFunctor.{uA₁, uB₁}} {Q : PFunctor.{uA₂, uB₂}} {R : PFunctor.{uA₃, uB₃}}
+    (E : P ≃ₚ Q) (F : Q ≃ₚ R) : P ≃ₚ R where
+  equivA := E.equivA.trans F.equivA
+  equivB := fun a => (E.equivB a).trans (F.equivB (E.equivA a))
+
+/-- Equivalence between two polynomial functors `P` and `Q` that are equal. -/
+def cast {P Q : PFunctor.{uA, uB}} (hA : P.A = Q.A) (hB : ∀ a, P.B a = Q.B (cast hA a)) :
+    P ≃ₚ Q where
+  equivA := _root_.Equiv.cast hA
+  equivB := fun a => _root_.Equiv.cast (hB a)
+
+@[simp]
+theorem symm_comp_self {P : PFunctor.{uA₁, uB₁}} {Q : PFunctor.{uA₂, uB₂}} (e : P ≃ₚ Q) :
+    e.symm.equivA ∘ e.equivA = id := by
+  simp [Equiv.symm]
+
+/-- Rewrite a dependent `Eq.rec` with identity to a cast on the argument. -/
+lemma eqRec_id_apply {α : Sort u} {β : α → Sort v}
+    {a1 a0 : α} (h : a1 = a0) (x : β a0) :
+    Eq.rec (motive := fun y _ => β y → β a1) id h x = _root_.cast (congrArg β h).symm x := by
+  cases h
+  rfl
+
+/-- Cast-normalization helper for `equivB` under equal `equivA` images. -/
+lemma equivB_symm_apply_of_eq (e : P ≃ₚ Q) {a a' : P.A} (ha : e.equivA a = e.equivA a')
+    (b : P.B a') :
+    (e.equivB a).symm ((_root_.Equiv.cast (congrArg Q.B ha)).symm ((e.equivB a') b)) =
+      _root_.cast (congrArg P.B (e.equivA.injective ha).symm) b := by
+  have ha' : a = a' := e.equivA.injective ha
+  cases ha'
+  simp
+
+/-- Cast-normalization helper for `symm.equivB` under equal `symm.equivA` images. -/
+lemma symm_equivB_symm_apply_of_eq (e : P ≃ₚ Q) {a a' : Q.A}
+    (ha : e.symm.equivA a = e.symm.equivA a') (b : Q.B a') :
+    (e.symm.equivB a).symm ((_root_.Equiv.cast (congrArg P.B ha)).symm ((e.symm.equivB a') b)) =
+      _root_.cast (congrArg Q.B (e.symm.equivA.injective ha).symm) b := by
+  simpa using equivB_symm_apply_of_eq (e := e.symm) (a := a) (a' := a') (ha := ha) (b := b)
+
+/-- Specialized cast-normalization for `e` followed by `e.symm`. -/
+lemma equivB_symm_apply (e : P ≃ₚ Q) (a : P.A) (b : P.B (e.equivA.symm (e.equivA a))) :
+    (e.equivB a).symm ((e.symm.equivB (e.equivA a)).symm b) =
+      _root_.cast (congrArg P.B (e.equivA.symm_apply_apply a)) b := by
+  have hEqA : e.equivA a = e.equivA (e.equivA.symm (e.equivA a)) := by
+    simp
+  simp only [PFunctor.Equiv.symm]
+  exact equivB_symm_apply_of_eq (e := e)
+    (a := a) (a' := e.equivA.symm (e.equivA a))
+    (ha := hEqA) (b := b)
+
+/-- Specialized cast-normalization for `e.symm` followed by `e`. -/
+lemma symm_equivB_symm_apply (e : P ≃ₚ Q) (a : Q.A) (b : Q.B (e.equivA (e.equivA.symm a))) :
+    (e.symm.equivB a).symm ((e.equivB (e.equivA.symm a)).symm b) =
+      _root_.cast (congrArg Q.B (e.equivA.apply_symm_apply a)) b := by
+  change ((_root_.Equiv.cast (congrArg Q.B ((_root_.Equiv.symm_apply_eq e.equivA).mp rfl))).symm
+      ((e.equivB (e.equivA.symm a)) ((e.equivB (e.equivA.symm a)).symm b))) = _
+  rw [_root_.Equiv.apply_symm_apply (e.equivB (e.equivA.symm a)) b]
+  change _root_.cast (congrArg Q.B ((_root_.Equiv.symm_apply_eq e.equivA).mp rfl)).symm b =
+    _root_.cast (congrArg Q.B (e.equivA.apply_symm_apply a)) b
+  simp
+
+/-- Forward roundtrip: applying `equivB` then `symm.equivB` gives a cast. -/
+lemma forward_equivB_roundtrip (e : P ≃ₚ Q) (a : P.A) (b : P.B a) :
+    e.symm.equivB (e.equivA a) (e.equivB a b) =
+      _root_.cast (congrArg P.B (e.equivA.symm_apply_apply a).symm) b := by
+  change (((_root_.Equiv.cast _).trans
+    (e.equivB (e.equivA.symm (e.equivA a))).symm) (e.equivB a b)) = _
+  simp only [_root_.Equiv.trans_apply]
+  exact equivB_symm_apply_of_eq e
+    (a := e.equivA.symm (e.equivA a)) (a' := a)
+    (ha := e.equivA.apply_symm_apply _) (b := b)
+
+/-- Reverse roundtrip: applying `symm.equivB` then `equivB` gives a cast. -/
+lemma reverse_equivB_roundtrip (e : P ≃ₚ Q) (a : Q.A)
+    (b : Q.B a) :
+    e.equivB (e.equivA.symm a) (e.symm.equivB a b) =
+      _root_.cast
+        (congrArg Q.B (e.equivA.apply_symm_apply a).symm) b := by
+  change ((e.equivB (e.equivA.symm a)))
+    (((_root_.Equiv.cast _).trans
+      (e.equivB (e.equivA.symm a)).symm) b) = _
+  simp [_root_.Equiv.trans_apply]
+
+end Equiv
+
+/-- A **lens** between two polynomial functors `P` and `Q` is a pair of a function:
+- `toFunA : P.A → Q.A`
+- `toFunB : ∀ a, Q.B (toFunA a) → P.B a` -/
+structure Lens (P : PFunctor.{uA₁, uB₁}) (Q : PFunctor.{uA₂, uB₂}) where
+  /-- The forward map on positions, sending each position of `P` to a position of `Q`. -/
+  toFunA : P.A → Q.A
+  /-- The backward map on directions, pulling a direction of `Q` at `toFunA a` back to a
+  direction of `P` at `a`. -/
+  toFunB : ∀ a, Q.B (toFunA a) → P.B a
+
+/-- Infix notation for constructing a lens `toFunA ⇆ toFunB` -/
+infixr:25 " ⇆ " => Lens.mk
+
+/-- A chart between two polynomial functors `P` and `Q` is a pair of a function:
+- `toFunA : P.A → Q.A`
+- `toFunB : ∀ a, P.B a → Q.B (toFunA a)` -/
+structure Chart (P : PFunctor.{uA₁, uB₁}) (Q : PFunctor.{uA₂, uB₂}) where
+  /-- The forward map on positions, sending each position of `P` to a position of `Q`. -/
+  toFunA : P.A → Q.A
+  /-- The forward map on directions, pushing a direction of `P` at `a` to a direction of `Q`
+  at `toFunA a`. -/
+  toFunB : ∀ a, P.B a → Q.B (toFunA a)
+
+/-- Infix notation for constructing a chart `toFunA ⇉ toFunB` -/
+infixr:25 " ⇉ " => Chart.mk
+
+section Lemmas
+
+@[ext (iff := false)]
+theorem ext {P Q : PFunctor.{uA, uB}} (h : P.A = Q.A) (h' : ∀ a, P.B a = Q.B (h ▸ a)) : P = Q := by
+  cases P; cases Q; simp only [mk.injEq] at h h' ⊢; subst h;
+  simp_all only [heq_eq_eq, true_and]; funext; exact h' _
+
+lemma X_eq_linear_pUnit : X = linear PUnit := rfl
+lemma X_eq_purePower_pUnit : X = purePower PUnit := rfl
+
+section ULift
+
+variable {P : PFunctor.{uA, uB}}
+
+@[simp]
+theorem ulift_A : (P.ulift).A = ULift P.A := rfl
+
+@[simp]
+theorem ulift_B {a : P.A} : (P.ulift).B (ULift.up a) = ULift (P.B a) := rfl
+
+end ULift
+
+end Lemmas
+
+end Coprod
+end Basic
+end PFunctor
+
+

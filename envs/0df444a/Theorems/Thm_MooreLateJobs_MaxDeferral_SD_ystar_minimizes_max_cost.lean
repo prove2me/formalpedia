@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MooreLateJobs_MaxDeferral_SD_ystar_minimizes_max_cost
 -- name    : MooreLateJobs.MaxDeferral.SD_ystar_minimizes_max_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:38:15.035974+00:00
 -- url     : https://prove2.me/theorems/905b689d-ec25-4228-ba71-453d3cbe5065

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_IntegerHull_mem_M_Q_iff_columns
 -- name    : LovaszSchrijver.IntegerHull.mem_M_Q_iff_columns
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:41:07.147738+00:00
 -- url     : https://prove2.me/theorems/a716e4f7-58d0-4bb2-bd5f-7d061155cf3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_abs_pow_gamma_representation
 -- name    : TongString.abs_pow_gamma_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T20:52:16.954074+00:00
 -- url     : https://prove2.me/theorems/5a7fe579-c1f1-4e45-b5f8-4d6a347905fa

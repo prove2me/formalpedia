@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeleparallelGravity_weitzenbock_eq_christoffel_add_contortion
 -- name    : TeleparallelGravity.weitzenbock_eq_christoffel_add_contortion
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T22:41:16.24525+00:00
 -- url     : https://prove2.me/theorems/53e5a44b-4128-4d15-ba2a-22887a59588c

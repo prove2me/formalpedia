@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ConvexSCO_erm_replace_one_stability
 -- name    : LearnStability.ConvexSCO.erm_replace_one_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:15:42.850871+00:00
 -- url     : https://prove2.me/theorems/0b2be463-3dcc-453f-992d-cdd959b07b51

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicaiseDelayWave_InternalInstab_separated_solution_energy
 -- name    : NicaiseDelayWave.InternalInstab.separated_solution_energy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T22:20:55.174078+00:00
 -- url     : https://prove2.me/theorems/be4a7e14-6730-4a2c-a54a-60fbe0e5551b

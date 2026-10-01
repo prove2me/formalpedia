@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_QuadraticForms_contraction_principle
 -- name    : HighDimProb.QuadraticForms.contraction_principle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:29:16.685404+00:00
 -- url     : https://prove2.me/theorems/d51afd1c-0244-4876-8bcb-bed174b52e44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Peskun_theorem4_peskun_ordering
 -- name    : TierneyMH.Peskun.theorem4_peskun_ordering
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:52:29.814981+00:00
 -- url     : https://prove2.me/theorems/f52bbcec-a35a-4135-9f5b-caf2bcbd222b

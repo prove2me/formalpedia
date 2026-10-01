@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_RenewalCost_appendix1_MAlpha_summable
 -- name    : VeinottWagnerSS.RenewalCost.appendix1_MAlpha_summable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:02:43.997443+00:00
 -- url     : https://prove2.me/theorems/adfd5aea-545f-499a-bbf3-31d2146bb9e7

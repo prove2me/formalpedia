@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_DiscreteLog_card_good_pairs_ge
 -- name    : ShorAlgorithms.DiscreteLog.card_good_pairs_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T01:19:44.620923+00:00
 -- url     : https://prove2.me/theorems/2e06fded-6b23-4064-b9df-ab684c6ea0b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Peskun_reversible_selfAdjoint_contraction
 -- name    : TierneyMH.Peskun.reversible_selfAdjoint_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:32:21.73715+00:00
 -- url     : https://prove2.me/theorems/c0cb1eb9-a057-4954-9c05-748a075abb82

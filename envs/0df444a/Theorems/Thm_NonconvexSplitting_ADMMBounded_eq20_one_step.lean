@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMBounded_eq20_one_step
 -- name    : NonconvexSplitting.ADMMBounded.eq20_one_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:54:16.48206+00:00
 -- url     : https://prove2.me/theorems/243d1f4a-0208-4e15-9bf1-d3e09c586eb2

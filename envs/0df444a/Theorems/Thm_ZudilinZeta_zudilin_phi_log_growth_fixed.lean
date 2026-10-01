@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_zudilin_phi_log_growth_fixed
 -- name    : ZudilinZeta.zudilin_phi_log_growth_fixed
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-27T00:36:06.574307+00:00
 -- url     : https://prove2.me/theorems/aa49db0d-ec4b-4d6d-9d7f-80777e662711

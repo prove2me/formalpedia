@@ -1,0 +1,270 @@
+-- Prove2me | Definitions.Def_Yukon_0df56066df60ffd6419b291a
+-- name    : Yukon_0df56066df60ffd6419b291a
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T18:09:38.438984+00:00
+-- url     : https://prove2.me/theorems/f043ae8a-8271-45a5-824d-723c8d5ab905
+-- title:
+--   YukonModule.PolyFun.Interaction.Basic.TypeTree.part0
+-- statement:
+--   Source module PolyFun.Interaction.Basic.TypeTree.
+-- source:
+--   https://github.com/Verified-zkEVM/PolyFun/blob/dd77aa91dd425ebaec4388270f3a8e3dc7ace571/PolyFun/Interaction/Basic/TypeTree.lean
+--
+--   yukon-proof-operation:075f7701a21e9b128b36f2b3491384878e05ff099f5fa5cd10c68295f8815f8b
+--   [yukon-proof-receipt:eyJ2IjoxLCJtYXJrZXIiOiJ5dWtvbi1wcm9vZi1vcGVyYXRpb246MDc1Zjc3MDFhMjFlOWIxMjhiMzZmMmIzNDkxMzg0ODc4ZTA1ZmYwOTlmNWZhNWNkMTBjNjgyOTVmODgxNWY4YiIsImhhc2giOiI3ODBjZTJiMmY4YzgwYmE0NTRjNzhhMGQxYWI2MDM4NDE3ZmJmNjEyMDhmMWY3ZThhNjFiZGM1MWM4NzdiYjMwIiwia2luZCI6ImRlZmluaXRpb24iLCJ0YXJnZXQiOiJZdWtvbl8wZGY1NjA2NmRmNjBmZmQ2NDE5YjI5MWEiLCJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJ0YWciOiJiZXR0ZXItY29kZXMifQ]
+
+/-
+Copyright (c) 2026 PolyFun Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Quang Dao
+-/
+
+module
+
+public import Definitions.Def_Yukon_679ad2330a4d57d4a58d22b9
+
+
+
+public import Batteries.Tactic.Lint
+public import Mathlib.CategoryTheory.Category.Basic
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+public import Init
+public import Mathlib.Data.PFunctor.Univariate.Basic
+public import Mathlib.Tactic.Common
+public import Mathlib.Init
+public import Lean.Message
+public import Batteries.Tactic.Lint.Basic
+public import Mathlib.CategoryTheory.Monad.Types
+public import Mathlib.Order.CompleteLattice.Basic
+public import Mathlib.Probability.ProbabilityMassFunction.Monad
+meta import Definitions.Def_Yukon_679ad2330a4d57d4a58d22b9
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# Interaction type trees and paths
+
+A `TypeTree` is a tree that describes the *shape* of a sequential interaction:
+what types of moves can be exchanged at each round, and how later rounds
+may depend on earlier moves. A `Path` records one complete play
+through a `TypeTree` — a concrete move at every node from root to leaf.
+
+On its own, a `TypeTree` says nothing about *who* makes each move or *how*
+moves are computed. Those concerns are separated into companion modules:
+
+* `Node` — realized node contexts and telescope-style node schemas
+* `Decoration` — concrete per-node metadata on a fixed protocol tree
+* `SyntaxOver` / `InteractionOver` — generic local syntax and local execution
+  laws over realized node contexts
+* `ShapeOver` — the functorial refinement of syntax, used when recursive
+  continuations admit a generic map
+* `Strategy` — one-player strategies with monadic effects
+* `Append`, `Replicate`, `Chain` — sequential composition and iteration
+
+This is the foundation of the `Interaction` layer: a dependent tree of moves
+whose later rounds may depend on earlier choices. That dependence is part of
+the protocol shape itself, matching examples such as sumcheck and FRI where
+later messages and checks are indexed by the preceding path.
+
+## Polynomial substrate
+
+`TypeTree` is built directly on top of the polynomial-functor library in
+`PolyFun/PFunctor`:
+
+```
+TypeTree := PFunctor.FreeM TypeTree.basePFunctor PUnit
+```
+
+where `TypeTree.basePFunctor : PFunctor.{u+1, u}` has positions `Type u`
+(every node carries a move type) and a child family given by the identity
+(continuations are indexed by moves). This is the polynomial that
+generates the *unindexed shape* of an interaction tree; payload-bearing
+shapes are obtained by replacing `PFunctor.FreeM` with the corresponding
+`PFunctor.FreeM ... α` for nontrivial `α` (see `Strategy` / `StepOver`).
+
+The `TypeTree` notation, `TypeTree.done`, and `TypeTree.node` are tagged with
+`@[match_pattern]`, so downstream definitions can pattern-match on the
+interaction constructors while the polynomial substrate remains the canonical
+representation.
+
+## Module map
+
+- `Basic/` — type trees, node contexts, decoration, generic shapes, strategy,
+  composition (this layer)
+- `Concurrent/` — structural concurrent source syntax, frontiers and residuals,
+  typed interfaces and directed open boundaries,
+  operations-first open-composition theory and its first final-tagless free
+  lawful model,
+  structural frontier traces and true-concurrency refinements, dynamic
+  `Process` / `Machine` / `Tree` frontends, generic process executions and
+  policies, finite prefixes and infinite runs, observation extraction,
+  refinement, bisimulation, packaged equivalence notions, fairness, liveness,
+  per-party observation profiles,
+  scheduler/control ownership, and current local frontier views
+- `TwoParty/` — sender/receiver roles and paired focal/counterpart strategies
+- `Reduction.lean` — prover, verifier, reduction
+- `Oracle/` — oracle decoration, path-dependent oracle access
+- `Security.lean` / `OracleSecurity.lean` — security definitions
+- `Boundary/` — same-path interface adaptation
+- `Multiparty/` — native multiparty local views and per-party profiles,
+  including broadcast and directed communication models
+
+## References
+
+* Hancock–Setzer (2000), recursion over interaction interfaces; the
+  free interaction structure on a polynomial container
+* Altenkirch–Ghani–Hancock–McBride–Morris (2015), *Indexed Containers*,
+  Journal of Functional Programming 25, e5
+* Spivak–Niu (2025), *Polynomial Functors: A Mathematical Theory of
+  Interaction*, Cambridge University Press; the pattern-runs-on-matter
+  module structure of `FreeM` over `Cofree`
+* Escardó–Oliva (2023, TCS 974), games as type trees
+* McBride (2010); Dagand–McBride (2014), displayed algebras / ornaments
+-/
+
+public section
+
+universe u
+
+namespace Interaction
+
+namespace TypeTree
+
+/-- The polynomial functor that generates the shape of an interaction
+type tree: positions are move types `Type u`, and the child family at a
+position `M : Type u` is `M` itself (one continuation per move).
+
+This is the canonical representation of "an interactive node where the
+participant chooses a value of some move type, and the continuation is
+selected by that value". It is independent of payload data, controller
+attribution, and execution semantics; those layers refine the same
+polynomial via `Decoration`, `NodeProfile`, and `StepOver`. -/
+@[expose, reducible]
+def basePFunctor : PFunctor.{u+1, u} where
+  A := Type u
+  B := id
+
+end TypeTree
+
+/-- A `TypeTree` describes the shape of a sequential interaction as a tree.
+Each internal node specifies a move space `Moves`, and the rest of the
+protocol may depend on the chosen move `x : Moves`.
+
+On its own, a `TypeTree` is intentionally minimal:
+it records only the branching structure of the interaction.
+It does **not** say
+* who controls a node,
+* what local data is attached to that node,
+* what kind of participant object lives there, or
+* how a collection of participants executes the node.
+
+Those additional layers are supplied separately by:
+* `TypeTree.Node.Context` / `TypeTree.Node.Schema`, for node-local semantic contexts
+  and their telescope-style descriptions;
+* `PFunctor.FreeM.Displayed.Decoration`, for concrete nodewise metadata;
+* `SyntaxOver`, for the most general local participant syntax over
+  realized node contexts;
+* `ShapeOver`, for the functorial refinement of such syntax;
+* `InteractionOver`, for local execution laws over such syntax.
+
+`TypeTree` is **definitionally** the free monad on `TypeTree.basePFunctor` at the
+unit payload, exposing the polynomial substrate that the rest of the
+`Interaction` library builds on. The `TypeTree.done` / `TypeTree.node` aliases
+are tagged with `@[match_pattern]`, so definitions can use constructor-style
+patterns without exposing the underlying `FreeM` representation. -/
+abbrev TypeTree : Type (u+1) :=
+  PFunctor.FreeM TypeTree.basePFunctor.{u} PUnit.{u+1}
+
+namespace TypeTree
+
+/-- Terminal node: the interaction is over.
+
+This is `PFunctor.FreeM.pure ()` at the polynomial substrate; the
+`@[match_pattern]` attribute makes it usable both as a constructor
+term and as a `match` pattern. -/
+@[expose, match_pattern, reducible]
+def done : TypeTree := PFunctor.FreeM.pure PUnit.unit
+
+/-- A round of interaction: a value of type `Moves` is exchanged, then
+the protocol continues with `rest x` depending on the chosen move `x`.
+
+This is `PFunctor.FreeM.liftBind Moves rest` at the polynomial substrate;
+the `@[match_pattern]` attribute makes it usable both as a constructor
+term and as a `match` pattern. -/
+@[expose, match_pattern, reducible]
+def node (Moves : Type u) (rest : Moves → TypeTree) : TypeTree :=
+  PFunctor.FreeM.liftBind Moves rest
+
+/-- Cases eliminator on `TypeTree` exposing the high-level `done` / `node`
+alternatives. Registered as the default `cases` eliminator so that
+`cases s with | done => ... | node X rest => ...` works transparently
+on top of the polynomial substrate. -/
+@[elab_as_elim, cases_eliminator]
+def casesOn {motive : TypeTree → Sort*} (s : TypeTree) (done : motive TypeTree.done)
+    (node : (X : Type u) → (rest : X → TypeTree) → motive (TypeTree.node X rest)) : motive s :=
+  match s with
+  | .done => done
+  | .node X rest => node X rest
+
+/-- Structural recursion eliminator on `TypeTree` exposing the high-level
+`done` / `node` alternatives, with an induction hypothesis on every
+continuation in the `node` case. Registered as the default `induction`
+eliminator so that `induction s with | done => ... | node X rest ih => ...`
+works transparently on top of the polynomial substrate. -/
+@[elab_as_elim, induction_eliminator]
+def recOn {motive : TypeTree → Sort*} (s : TypeTree) (done : motive TypeTree.done)
+    (node : (X : Type u) → (rest : X → TypeTree) →
+        ((x : X) → motive (rest x)) → motive (TypeTree.node X rest)) : motive s :=
+  match s with
+  | .done => done
+  | .node X rest => node X rest (fun x => recOn (rest x) done node)
+
+/-- A complete play through a `TypeTree`: at each node, a concrete move is
+recorded, producing a root-to-leaf path through the interaction tree.
+For `.done`, the path is trivial (`PUnit`); for `.node X rest`,
+it is a chosen move `x : X` paired with a path for `rest x`. -/
+abbrev Path (s : TypeTree.{u}) : Type u :=
+  PFunctor.FreeM.Path s
+
+/-- The **undecorated step polynomial** of sequential interaction: positions are
+interaction shapes, and the directions at a shape are its complete paths.
+
+This is definitionally the free polynomial on `TypeTree.basePFunctor`. Consequently
+its substitution-monoid multiplication is dependent protocol append, and its
+backward direction map splits a path at the append boundary. A coalgebra
+of `stepPoly` is a system that at each state plays one whole `TypeTree` episode and
+continues from the resulting path. -/
+abbrev stepPoly : PFunctor.{u + 1, u} :=
+  PFunctor.FreeP TypeTree.basePFunctor
+
+/-- The canonical substitution-monoid structure on interaction type trees.
+
+Its unit is `TypeTree.done`; its multiplication grafts a continuation tree at every
+complete path of an outer tree. -/
+abbrev substMonoid : PFunctor.SubstMonoid.{u + 1, u} :=
+  PFunctor.FreeP.substMonoid TypeTree.basePFunctor
+
+theorem substMonoid_unit_toFunA (x : PUnit) : TypeTree.substMonoid.unit.toFunA x = TypeTree.done :=
+  rfl
+
+@[simp]
+theorem substMonoid_mult_toFunA (spec : TypeTree) (next : Path spec → TypeTree) :
+    TypeTree.substMonoid.mult.toFunA ⟨spec, next⟩ = spec.append next :=
+  rfl
+
+@[simp]
+theorem substMonoid_mult_toFunB (spec : TypeTree) (next : Path spec → TypeTree)
+    (tr : Path (spec.append next)) :
+    TypeTree.substMonoid.mult.toFunB ⟨spec, next⟩ tr =
+      PFunctor.FreeM.Path.split spec next tr :=
+  rfl
+
+/-- A straight-line `TypeTree` with no branching: each move type in the list
+becomes one round, and later rounds do not depend on earlier moves. -/
+def ofList : List (Type u) → TypeTree
+  | [] => .done
+  | T :: tl => .node T (fun _ => ofList tl)
+
+end TypeTree
+end Interaction
+
+

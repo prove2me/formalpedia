@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Decrease_prop9_dp_convergence
 -- name    : MonotoneDP.Decrease.prop9_dp_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:05:54.978514+00:00
 -- url     : https://prove2.me/theorems/24a88cac-5902-47a6-bccc-5462d0e5a812

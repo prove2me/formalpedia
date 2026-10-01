@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_FiniteHorizon_bellman_maps_monotone
 -- name    : RobustMDP.FiniteHorizon.bellman_maps_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:19:47.81965+00:00
 -- url     : https://prove2.me/theorems/55bad95f-accf-482b-90bf-4305c34bfd62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_UnitVector_mixing_matrix_entry_bound
 -- name    : TraceEstimation.UnitVector.mixing_matrix_entry_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:41:27.70493+00:00
 -- url     : https://prove2.me/theorems/71f2224a-7ae8-44ae-bc9d-211aa4c34344

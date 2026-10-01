@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochQuasiNewton_SQN_expected_descent
 -- name    : StochQuasiNewton.SQN.expected_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:37:54.919984+00:00
 -- url     : https://prove2.me/theorems/c90baeb1-3878-49ca-9a8a-3e9da198f2f6

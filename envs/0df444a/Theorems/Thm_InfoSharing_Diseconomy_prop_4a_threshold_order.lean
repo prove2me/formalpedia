@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoSharing_Diseconomy_prop_4a_threshold_order
 -- name    : InfoSharing.Diseconomy.prop_4a_threshold_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:30:00.887959+00:00
 -- url     : https://prove2.me/theorems/04e9cc8f-ad34-49d3-898f-48cdc607fa54

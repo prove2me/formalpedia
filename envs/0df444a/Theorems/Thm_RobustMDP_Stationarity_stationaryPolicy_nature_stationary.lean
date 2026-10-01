@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Stationarity_stationaryPolicy_nature_stationary
 -- name    : RobustMDP.Stationarity.stationaryPolicy_nature_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:26:29.177865+00:00
 -- url     : https://prove2.me/theorems/09599aca-5fe8-47e1-9347-aa5b1e28b939

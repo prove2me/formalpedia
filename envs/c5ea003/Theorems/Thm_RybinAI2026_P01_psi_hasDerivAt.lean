@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RybinAI2026_P01_psi_hasDerivAt
 -- name    : RybinAI2026.P01.psi_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T23:45:28.507988+00:00
 -- url     : https://prove2.me/theorems/46ce7bcb-a686-4590-b2b0-2cc4d76483d1

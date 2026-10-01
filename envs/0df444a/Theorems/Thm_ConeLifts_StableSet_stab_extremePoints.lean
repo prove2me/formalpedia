@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_StableSet_stab_extremePoints
 -- name    : ConeLifts.StableSet.stab_extremePoints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:18:58.67922+00:00
 -- url     : https://prove2.me/theorems/c57c32d3-8050-45e0-bfc0-7bfe1a5ac1c8

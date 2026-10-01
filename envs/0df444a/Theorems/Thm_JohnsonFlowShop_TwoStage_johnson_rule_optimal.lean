@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_TwoStage_johnson_rule_optimal
 -- name    : JohnsonFlowShop.TwoStage.johnson_rule_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:42:15.109777+00:00
 -- url     : https://prove2.me/theorems/16a6263f-ec09-40a1-9af3-d23ff70dbc9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_braid_three_garside_sixth_central
 -- name    : BurauFaithful.braid_three_garside_sixth_central
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-09-30T11:29:28.517898+00:00
 -- url     : https://prove2.me/theorems/ab77e0f7-db88-4aac-9254-3de0b553da69

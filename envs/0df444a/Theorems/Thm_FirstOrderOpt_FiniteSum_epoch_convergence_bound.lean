@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_FiniteSum_epoch_convergence_bound
 -- name    : FirstOrderOpt.FiniteSum.epoch_convergence_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:01:59.587059+00:00
 -- url     : https://prove2.me/theorems/3f4f8ef5-2fd1-4c10-8b95-fe1eb2db9f8b

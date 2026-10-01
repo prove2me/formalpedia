@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Rayleigh_hoeffding_tail
 -- name    : TraceEstimation.Rayleigh.hoeffding_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:22:52.374967+00:00
 -- url     : https://prove2.me/theorems/fd97b6ba-43bc-45a3-87e1-9500bbe44022

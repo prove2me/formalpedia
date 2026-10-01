@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_GainRate_two_state_gain_rate
 -- name    : JewellMRP.GainRate.two_state_gain_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:27:09.709486+00:00
 -- url     : https://prove2.me/theorems/3c9155b3-285c-431c-a682-21b90d75fa81

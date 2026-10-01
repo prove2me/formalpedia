@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_loadPotential_strictConvex
 -- name    : BayesRouting.VOI.loadPotential_strictConvex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:52:27.68898+00:00
 -- url     : https://prove2.me/theorems/2bcbfb87-6c85-4753-81bd-cb9e2cd40840

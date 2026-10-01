@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMBounded_theorem2
 -- name    : NonconvexSplitting.ADMMBounded.theorem2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:04:33.37244+00:00
 -- url     : https://prove2.me/theorems/2cb80511-471d-4403-9c88-5adce431e507

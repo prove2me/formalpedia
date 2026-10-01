@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MurtyKabadi_Reduction_problems8_9_equiv
 -- name    : MurtyKabadi.Reduction.problems8_9_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:16:32.178732+00:00
 -- url     : https://prove2.me/theorems/f3de5268-1e12-437c-8252-c04e94be65f5

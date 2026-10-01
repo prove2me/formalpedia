@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMKL_eq41_kl_step
 -- name    : NonconvexSplitting.ADMMKL.eq41_kl_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:35:21.928422+00:00
 -- url     : https://prove2.me/theorems/c146921c-a484-4411-8f93-5b979d66288c

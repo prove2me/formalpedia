@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_index_eq_reward_of_index_nonincreasing
 -- name    : AllocationIndices.index_eq_reward_of_index_nonincreasing
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:32:39.595601+00:00
 -- url     : https://prove2.me/theorems/82ebfe6b-347f-41f9-9805-4177bc97a5f7

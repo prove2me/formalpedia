@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1210_erdos_1210_of_window_count_bound
 -- name    : Erdos1210.erdos_1210_of_window_count_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:10:30.897926+00:00
 -- url     : https://prove2.me/theorems/49540549-c8ad-4ffe-922e-fb375f839733

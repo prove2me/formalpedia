@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Rayleigh_relative_tail
 -- name    : TraceEstimation.Rayleigh.relative_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:24:17.961307+00:00
 -- url     : https://prove2.me/theorems/3ed9aad9-f47e-4b0f-b16c-fdc430be674d

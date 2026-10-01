@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_index_attained_at_infinity_of_index_increasing
 -- name    : AllocationIndices.index_attained_at_infinity_of_index_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:34:33.854986+00:00
 -- url     : https://prove2.me/theorems/cf731a59-1378-40f0-9028-b152d379fc05

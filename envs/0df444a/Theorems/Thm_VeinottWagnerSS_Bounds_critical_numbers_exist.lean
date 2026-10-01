@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Bounds_critical_numbers_exist
 -- name    : VeinottWagnerSS.Bounds.critical_numbers_exist
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:38:07.016743+00:00
 -- url     : https://prove2.me/theorems/67c098fe-a269-4744-8cd3-8c71c849aea2

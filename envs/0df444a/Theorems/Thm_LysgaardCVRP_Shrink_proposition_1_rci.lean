@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LysgaardCVRP_Shrink_proposition_1_rci
 -- name    : LysgaardCVRP.Shrink.proposition_1_rci
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T17:07:47.200852+00:00
 -- url     : https://prove2.me/theorems/b347a5b7-9dd7-4bdf-a27c-b85b84e4510b

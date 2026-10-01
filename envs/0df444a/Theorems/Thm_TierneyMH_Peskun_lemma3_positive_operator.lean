@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Peskun_lemma3_positive_operator
 -- name    : TierneyMH.Peskun.lemma3_positive_operator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:28:07.418576+00:00
 -- url     : https://prove2.me/theorems/f2298aac-f1a9-41e5-9157-f68cff81097a

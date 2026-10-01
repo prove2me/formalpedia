@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Stability_stable_of_lipschitz_on_polyhedron
 -- name    : Wets1974.Stability.stable_of_lipschitz_on_polyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:36:57.062417+00:00
 -- url     : https://prove2.me/theorems/42673c31-95d5-4158-ac35-9ba892e9aaac

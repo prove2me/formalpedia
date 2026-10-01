@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_utility_lemma12
 -- name    : LearnStability.Characterization.utility_lemma12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:08:30.429335+00:00
 -- url     : https://prove2.me/theorems/1f0a04d0-4ae6-4689-b376-71726d4e7bb1

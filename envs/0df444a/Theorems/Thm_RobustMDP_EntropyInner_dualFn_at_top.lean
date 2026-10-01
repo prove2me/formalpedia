@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_EntropyInner_dualFn_at_top
 -- name    : RobustMDP.EntropyInner.dualFn_at_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:32:29.436837+00:00
 -- url     : https://prove2.me/theorems/777d8b58-da01-47b9-8b6e-934041e51a7f

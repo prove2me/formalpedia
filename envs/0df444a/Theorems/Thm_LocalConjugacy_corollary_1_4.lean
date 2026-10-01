@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalConjugacy_corollary_1_4
 -- name    : LocalConjugacy.corollary_1_4
--- status  : Open
+-- status  : Proved
 -- author  : @burkh4rt
 -- created : 2026-09-30T04:10:32.303986+00:00
 -- url     : https://prove2.me/theorems/350c647a-9aa6-4d63-aa8b-dec1e99da3b5

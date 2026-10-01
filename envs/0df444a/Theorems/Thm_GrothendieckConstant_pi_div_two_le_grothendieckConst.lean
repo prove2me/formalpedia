@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_pi_div_two_le_grothendieckConst
 -- name    : GrothendieckConstant.pi_div_two_le_grothendieckConst
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-23T18:29:23.256443+00:00
 -- url     : https://prove2.me/theorems/dd80d9eb-6a63-437a-8aa8-5676503f4783

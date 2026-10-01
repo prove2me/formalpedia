@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicaiseDelayWave_InternalInstab_eq5_21_separated_solution
 -- name    : NicaiseDelayWave.InternalInstab.eq5_21_separated_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T21:49:14.518577+00:00
 -- url     : https://prove2.me/theorems/cc9ca7da-0676-4229-aeca-d47c10a14c25

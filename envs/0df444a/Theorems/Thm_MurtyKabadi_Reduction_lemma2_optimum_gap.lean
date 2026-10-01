@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MurtyKabadi_Reduction_lemma2_optimum_gap
 -- name    : MurtyKabadi.Reduction.lemma2_optimum_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:15:47.070869+00:00
 -- url     : https://prove2.me/theorems/d014e4fb-c295-41cf-ac93-5aa760a026e8

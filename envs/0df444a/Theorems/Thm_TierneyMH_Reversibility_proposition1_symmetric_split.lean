@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Reversibility_proposition1_symmetric_split
 -- name    : TierneyMH.Reversibility.proposition1_symmetric_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T11:43:00.866163+00:00
 -- url     : https://prove2.me/theorems/01b58ff8-3580-43a7-9550-7e562ab1b6cd

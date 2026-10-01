@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_SpinBlock_blockCDF_ratio
 -- name    : NonuniformCompetitive.SpinBlock.blockCDF_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:52:29.694224+00:00
 -- url     : https://prove2.me/theorems/9e07bdd9-42af-40a9-8fdd-59f6153f30f1

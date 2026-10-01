@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XuMannorRobust_Quantile_property1_monotone_in_level
 -- name    : XuMannorRobust.Quantile.property1_monotone_in_level
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T16:11:12.378527+00:00
 -- url     : https://prove2.me/theorems/b4b4de49-c8e9-4a77-b4f8-6e9618a34b67

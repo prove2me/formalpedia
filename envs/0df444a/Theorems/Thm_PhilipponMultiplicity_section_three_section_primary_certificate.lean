@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_section_three_section_primary_certificate
 -- name    : PhilipponMultiplicity.section_three_section_primary_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-09-30T10:34:49.903237+00:00
 -- url     : https://prove2.me/theorems/b26f02f7-930c-4639-8113-00af2b88aeab

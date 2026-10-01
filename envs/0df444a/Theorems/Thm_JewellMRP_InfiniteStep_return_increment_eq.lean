@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_InfiniteStep_return_increment_eq
 -- name    : JewellMRP.InfiniteStep.return_increment_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:29:03.298433+00:00
 -- url     : https://prove2.me/theorems/8fd6b935-e009-49b5-ba12-d004e4a88a60

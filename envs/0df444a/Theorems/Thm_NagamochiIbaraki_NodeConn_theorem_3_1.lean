@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagamochiIbaraki_NodeConn_theorem_3_1
 -- name    : NagamochiIbaraki.NodeConn.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:11:24.674992+00:00
 -- url     : https://prove2.me/theorems/b1f97168-3daa-4d5e-9398-319c63142c80

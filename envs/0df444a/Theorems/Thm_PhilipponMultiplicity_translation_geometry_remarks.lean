@@ -7,7 +7,7 @@
 -- title:
 --   Section 4 — translated ideals and embedding remarks
 -- statement:
---   **Compiled open theorem statement; proof not yet supplied.** Checked locally with Lean 4.33.1 and the proposal’s pinned Mathlib. An independent blind readback is attached.
+--   **A verified proof-sketch proves the defining-ideal transport clause and reduces the remaining assertions to two explicit Open dependencies: degree invariance under extendable translations and Lange’s quadratic reembedding theorem.** Checked locally with Lean 4.33.1 and the proposal’s pinned Mathlib. An independent blind readback is attached.
 --
 --   Translate the defining ideal of V to that of V−g. In the connected setting, require Hilbert-form invariance when all translations extend to the projective closure, and a regular reembedding with quadratic translation families as in Lange. Connectedness is explicit; it is necessary for the invariance remark and matches the cited Lange scope.
 -- source:

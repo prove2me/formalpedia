@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_weak_duality
 -- name    : SteinitzExchange.Duality.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:56:01.350367+00:00
 -- url     : https://prove2.me/theorems/be74cf38-77f7-485d-a427-d577810f3279

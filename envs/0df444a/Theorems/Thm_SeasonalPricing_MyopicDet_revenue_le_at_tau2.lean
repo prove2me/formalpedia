@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeasonalPricing_MyopicDet_revenue_le_at_tau2
 -- name    : SeasonalPricing.MyopicDet.revenue_le_at_tau2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:00:35.450545+00:00
 -- url     : https://prove2.me/theorems/a2ddd461-f7e0-496a-bd17-a4f7c7a27068

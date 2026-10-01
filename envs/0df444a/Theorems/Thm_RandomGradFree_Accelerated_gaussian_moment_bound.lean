@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Accelerated_gaussian_moment_bound
 -- name    : RandomGradFree.Accelerated.gaussian_moment_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:06:51.812933+00:00
 -- url     : https://prove2.me/theorems/31b1f0a9-c3c1-4bd7-9042-eb7f1cd3d454

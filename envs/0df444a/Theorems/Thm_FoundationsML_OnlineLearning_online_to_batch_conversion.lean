@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_OnlineLearning_online_to_batch_conversion
 -- name    : FoundationsML.OnlineLearning.online_to_batch_conversion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:20:51.915981+00:00
 -- url     : https://prove2.me/theorems/42602aaa-4764-4317-abbc-790b813542d6

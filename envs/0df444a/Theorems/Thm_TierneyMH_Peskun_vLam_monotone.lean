@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Peskun_vLam_monotone
 -- name    : TierneyMH.Peskun.vLam_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:49:23.934418+00:00
 -- url     : https://prove2.me/theorems/0412a7d0-0693-4d33-bf5c-79e1423f1dee

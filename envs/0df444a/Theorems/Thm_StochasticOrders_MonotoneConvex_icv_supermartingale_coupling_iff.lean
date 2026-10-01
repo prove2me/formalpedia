@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MonotoneConvex_icv_supermartingale_coupling_iff
 -- name    : StochasticOrders.MonotoneConvex.icv_supermartingale_coupling_iff
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:01:51.425971+00:00
 -- url     : https://prove2.me/theorems/db259d3f-30e0-4d3c-8a37-827a3470653a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Rayleigh_rayleigh_estimator_approximator
 -- name    : TraceEstimation.Rayleigh.rayleigh_estimator_approximator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:25:32.256989+00:00
 -- url     : https://prove2.me/theorems/4b3ee497-487b-40e0-b4ce-c6833ce8534f

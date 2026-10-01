@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_concaveClosure_eq_of_exc
 -- name    : SteinitzExchange.Duality.concaveClosure_eq_of_exc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:57:24.077527+00:00
 -- url     : https://prove2.me/theorems/cabccef4-33be-49ed-b27b-5730a3a8791a

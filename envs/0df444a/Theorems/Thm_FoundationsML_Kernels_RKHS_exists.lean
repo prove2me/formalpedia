@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Kernels_RKHS_exists
 -- name    : FoundationsML.Kernels.RKHS_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:00:12.163869+00:00
 -- url     : https://prove2.me/theorems/55340e55-cc8e-46fb-8e83-7418e34756bd

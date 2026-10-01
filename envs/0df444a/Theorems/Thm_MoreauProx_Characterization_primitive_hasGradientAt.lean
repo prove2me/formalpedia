@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoreauProx_Characterization_primitive_hasGradientAt
 -- name    : MoreauProx.Characterization.primitive_hasGradientAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:20:43.075904+00:00
 -- url     : https://prove2.me/theorems/2c2146e1-8ba9-485d-9d33-b36a9ec55116

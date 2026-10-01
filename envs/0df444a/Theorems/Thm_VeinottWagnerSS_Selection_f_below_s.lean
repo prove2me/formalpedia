@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Selection_f_below_s
 -- name    : VeinottWagnerSS.Selection.f_below_s
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:05:03.478967+00:00
 -- url     : https://prove2.me/theorems/e804b5c8-b56b-4d6a-9a1c-47a62fd5fddf

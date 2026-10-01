@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Mixture_mixture_measure_domination
 -- name    : TierneyMH.Mixture.mixture_measure_domination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T03:14:49.956353+00:00
 -- url     : https://prove2.me/theorems/651f49a1-b95c-4123-a3c1-1792f10830dd

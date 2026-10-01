@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_Reduction_card_twoAdic_le_half
 -- name    : ShorAlgorithms.Reduction.card_twoAdic_le_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:40:23.069107+00:00
 -- url     : https://prove2.me/theorems/7a5176bc-93aa-422a-a350-471a5ff7661a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KKBinPacking_GeometricGrouping_anyFit_card_le
 -- name    : KKBinPacking.GeometricGrouping.anyFit_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:18:48.081409+00:00
 -- url     : https://prove2.me/theorems/2ff92ced-97ae-493b-98aa-8a7700b97db2

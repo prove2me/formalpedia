@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Stability_recourse_polyhedral
 -- name    : Wets1974.Stability.recourse_polyhedral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:35:21.590513+00:00
 -- url     : https://prove2.me/theorems/ea8bff75-77d3-4b41-89fd-7f63343405de

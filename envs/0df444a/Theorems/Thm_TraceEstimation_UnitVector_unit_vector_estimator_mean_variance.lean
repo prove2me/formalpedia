@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_UnitVector_unit_vector_estimator_mean_variance
 -- name    : TraceEstimation.UnitVector.unit_vector_estimator_mean_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:37:36.884291+00:00
 -- url     : https://prove2.me/theorems/86412bc4-6cc3-4ad7-b057-4992f04f6fc8

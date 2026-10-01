@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Stability_Z_convex_finite_or_bot
 -- name    : Wets1974.Stability.Z_convex_finite_or_bot
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:35:44.04831+00:00
 -- url     : https://prove2.me/theorems/6968cb50-2c26-466c-9555-b151aa6c7fcd

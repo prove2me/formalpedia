@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_ratio_bound_numeric
 -- name    : OptimalPAC.SampleComplexity.ratio_bound_numeric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:28:47.785744+00:00
 -- url     : https://prove2.me/theorems/70b97ce2-51c0-4546-aa8e-bec84a326c8a

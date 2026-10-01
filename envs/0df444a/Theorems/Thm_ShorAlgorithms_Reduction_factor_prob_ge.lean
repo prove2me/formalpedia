@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_Reduction_factor_prob_ge
 -- name    : ShorAlgorithms.Reduction.factor_prob_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:51:40.446044+00:00
 -- url     : https://prove2.me/theorems/10d88a2b-4f48-4e69-b9c6-bbb60b855ba6

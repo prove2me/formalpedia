@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonMilman_Diameter_rayleigh_eq_2_1
 -- name    : AlonMilman.Diameter.rayleigh_eq_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:26:20.345852+00:00
 -- url     : https://prove2.me/theorems/9e778c92-e74f-49fb-b802-3e7423c24b7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BealeConvexMin_RandomLP_discrete_expected_cost_lp
 -- name    : BealeConvexMin.RandomLP.discrete_expected_cost_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:43:14.199837+00:00
 -- url     : https://prove2.me/theorems/3512ed2e-ad71-40b4-a294-43711649f48e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_stringPartitionIntegrand_modular_invariant
 -- name    : TongString.stringPartitionIntegrand_modular_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T22:29:58.492975+00:00
 -- url     : https://prove2.me/theorems/38e8ce82-a59c-4a1f-98dc-66a256d5661c

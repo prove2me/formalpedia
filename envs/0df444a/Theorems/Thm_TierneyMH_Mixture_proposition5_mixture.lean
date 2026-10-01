@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Mixture_proposition5_mixture
 -- name    : TierneyMH.Mixture.proposition5_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T03:39:35.759798+00:00
 -- url     : https://prove2.me/theorems/c2d370bf-6b4a-4534-b223-e78963393db5

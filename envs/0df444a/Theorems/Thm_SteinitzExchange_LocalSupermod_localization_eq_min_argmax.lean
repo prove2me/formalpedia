@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_localization_eq_min_argmax
 -- name    : SteinitzExchange.LocalSupermod.localization_eq_min_argmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:51:27.204559+00:00
 -- url     : https://prove2.me/theorems/3e6deba3-0c27-4745-941e-7a4c7b01bf5f

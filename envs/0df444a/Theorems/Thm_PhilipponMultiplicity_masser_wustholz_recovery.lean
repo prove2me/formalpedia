@@ -1,15 +1,15 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_masser_wustholz_recovery
 -- name    : PhilipponMultiplicity.masser_wustholz_recovery
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-09-23T21:12:45.61299+00:00
 -- url     : https://prove2.me/theorems/715fe247-b8a7-436f-8d19-ec88d5d45df7
 -- title:
 --   Section 2 — recovery of Masser–Wüstholz Theorem I
 -- statement:
---   **Compiled open theorem statement; proof not yet supplied.** Checked locally with Lean 4.33.1 and the proposal’s pinned Mathlib. An independent blind readback is attached.
+--   **Accepted proof-sketch; one geometric input remains Open.** The Lean reduction proves the entire lattice deduction: coordinate-quotient pigeonhole counting, short independent integer relations with the exact exponents, the strict rank inequality, and the original constant and equation bounds. It explicitly handles torsion in the sampled quotient. Its single Open child is the [geometric grid-coset estimate with bounded equations](p2m:theorem/fc6e5be7-d9df-4b08-8506-40dd083383df).
 --
---   The cited zero estimate with c=a^(−n)b^(−(N−n)): preserve the θ≥n/m sampling threshold, the k,r and subgroup rank conditions, every short independent integer-vector bound, and the bounded equations for the containing algebraic subset. The actual translation and closure-equation conditions defining a and b are hypotheses. Source: https://gdz.sub.uni-goettingen.de/id/PPN356556735_0072 (printed pp.411–412).
+--   The target statement is unchanged. With c=a^(−n)b^(−(N−n)), it retains θ≥n/m, the sampling threshold, every k,r and subgroup rank condition, all short-vector bounds, and the bounded equations for a containing algebraic set. The original translation and closure-equation conditions defining a and b remain hypotheses. Source: https://gdz.sub.uni-goettingen.de/id/PPN356556735_0072 (printed pp.411–417); Philippon 1986, p.361.
 -- source:
 --   Philippon 1986, p.361; Masser–Wüstholz 1983, pp.411–412. https://numdam.org/articles/10.24033/bsmf.2060/
 

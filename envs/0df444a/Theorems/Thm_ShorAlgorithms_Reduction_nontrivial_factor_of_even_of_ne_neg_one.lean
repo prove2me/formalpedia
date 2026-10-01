@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_Reduction_nontrivial_factor_of_even_of_ne_neg_one
 -- name    : ShorAlgorithms.Reduction.nontrivial_factor_of_even_of_ne_neg_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:27:31.960214+00:00
 -- url     : https://prove2.me/theorems/d7e735cd-8880-4af7-a821-e4118ad3fcd9

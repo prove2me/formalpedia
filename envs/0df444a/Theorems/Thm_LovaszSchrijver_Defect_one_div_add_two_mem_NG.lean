@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_Defect_one_div_add_two_mem_NG
 -- name    : LovaszSchrijver.Defect.one_div_add_two_mem_NG
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:56:02.439512+00:00
 -- url     : https://prove2.me/theorems/187baa97-81b0-4bdf-bf53-3c6f332ba556

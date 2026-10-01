@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckConstant_grothendieckConst_le_krivine
 -- name    : GrothendieckConstant.grothendieckConst_le_krivine
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-23T18:30:15.302372+00:00
 -- url     : https://prove2.me/theorems/ef187354-ca34-4d61-9021-66cf818dd869

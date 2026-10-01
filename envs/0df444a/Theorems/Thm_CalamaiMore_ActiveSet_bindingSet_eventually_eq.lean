@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_ActiveSet_bindingSet_eventually_eq
 -- name    : CalamaiMore.ActiveSet.bindingSet_eventually_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:56:47.949677+00:00
 -- url     : https://prove2.me/theorems/cea0413f-7964-44fb-b2ec-6c9bdd55eff5

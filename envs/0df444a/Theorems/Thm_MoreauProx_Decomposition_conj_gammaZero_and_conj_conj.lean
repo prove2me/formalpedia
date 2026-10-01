@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoreauProx_Decomposition_conj_gammaZero_and_conj_conj
 -- name    : MoreauProx.Decomposition.conj_gammaZero_and_conj_conj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:11:40.475905+00:00
 -- url     : https://prove2.me/theorems/fdbace58-de5d-40b3-bcb5-67087aa1385e

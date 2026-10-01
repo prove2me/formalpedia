@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMBounded_eq31_dual_bound
 -- name    : NonconvexSplitting.ADMMBounded.eq31_dual_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:00:16.179541+00:00
 -- url     : https://prove2.me/theorems/c56ac6af-8d19-4f33-b9a3-0688c735f087

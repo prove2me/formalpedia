@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LysgaardCVRP_Shrink_binPackingNumber_union_ge
 -- name    : LysgaardCVRP.Shrink.binPackingNumber_union_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:47:34.101353+00:00
 -- url     : https://prove2.me/theorems/bbdf7ec5-096d-4a5d-bc51-6b2aaa236ba0

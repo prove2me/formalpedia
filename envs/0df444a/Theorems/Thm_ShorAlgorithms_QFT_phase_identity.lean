@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_QFT_phase_identity
 -- name    : ShorAlgorithms.QFT.phase_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:08:21.840668+00:00
 -- url     : https://prove2.me/theorems/f9fb1dee-a6a7-4e82-a4f0-29955991731f

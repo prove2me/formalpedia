@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Hutchinson_single_sample_mean_variance
 -- name    : TraceEstimation.Hutchinson.single_sample_mean_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:31:29.454725+00:00
 -- url     : https://prove2.me/theorems/642d9dd5-ebac-41d6-9d52-4191cfceb528

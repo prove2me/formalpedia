@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_AlphaJSched_theorem_2_5
 -- name    : SingleMachineSched.AlphaJSched.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:17:49.250985+00:00
 -- url     : https://prove2.me/theorems/ef544564-b1ea-4f7c-bf61-ea1808b25eb2

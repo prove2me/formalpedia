@@ -1,0 +1,593 @@
+-- Prove2me | Definitions.Def_Yukon_412e5b809148ac542f47bc32
+-- name    : Yukon_412e5b809148ac542f47bc32
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T18:16:06.048646+00:00
+-- url     : https://prove2.me/theorems/fbf039fe-4f27-4f42-89a3-8b8fc5f72235
+-- title:
+--   YukonModule.PolyFun.Interaction.Basic.Decoration.part0
+-- statement:
+--   Source module PolyFun.Interaction.Basic.Decoration.
+-- source:
+--   https://github.com/Verified-zkEVM/PolyFun/blob/dd77aa91dd425ebaec4388270f3a8e3dc7ace571/PolyFun/Interaction/Basic/Decoration.lean
+--
+--   yukon-proof-operation:f2b4531dacb197a01a9490e95fc3e3388e84efe0b29012c7bf51634d8e97d81a
+--   [yukon-proof-receipt:eyJ2IjoxLCJtYXJrZXIiOiJ5dWtvbi1wcm9vZi1vcGVyYXRpb246ZjJiNDUzMWRhY2IxOTdhMDFhOTQ5MGU5NWZjM2UzMzg4ZTg0ZWZlMGIyOTAxMmM3YmY1MTYzNGQ4ZTk3ZDgxYSIsImhhc2giOiJhMmMwNWJhN2ZlODAyZTViNzc3ZGJmNDA4ZWM4MWFmYmFmMWU4ZjkxMzhiZTkxYzY4YjRmNzBkZWUyY2E5YjJiIiwia2luZCI6ImRlZmluaXRpb24iLCJ0YXJnZXQiOiJZdWtvbl80MTJlNWI4MDkxNDhhYzU0MmY0N2JjMzIiLCJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJ0YWciOiJiZXR0ZXItY29kZXMifQ]
+
+/-
+Copyright (c) 2026 PolyFun Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Quang Dao
+-/
+
+module
+
+public import Definitions.Def_Yukon_7e83e3578ee9b9bb2d29903a
+
+public import Definitions.Def_Yukon_0df56066df60ffd6419b291a
+
+public import Definitions.Def_Yukon_47eb1a0091431b4ae60573a8
+
+
+
+public import Mathlib.Logic.Equiv.Defs
+public import Init
+public import Mathlib.Data.PFunctor.Univariate.Basic
+public import Mathlib.Tactic.Common
+public import Mathlib.Init
+public import Lean.Message
+public import Batteries.Tactic.Lint.Basic
+public import Batteries.Tactic.Lint
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+public import Mathlib.CategoryTheory.Monad.Types
+public import Mathlib.Order.CompleteLattice.Basic
+public import Mathlib.Probability.ProbabilityMassFunction.Monad
+public import Mathlib.CategoryTheory.Category.Basic
+meta import Definitions.Def_Yukon_7e83e3578ee9b9bb2d29903a
+meta import Definitions.Def_Yukon_0df56066df60ffd6419b291a
+meta import Definitions.Def_Yukon_47eb1a0091431b4ae60573a8
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# Decorations and dependent decorations (`Over`)
+
+`PFunctor.FreeM.Displayed.Decoration Γ tree` is concrete nodewise metadata attached to a fixed
+type tree `tree`, where `Γ : TypeTree.Node.Context` is the realized family of
+node-local information. If a node of `tree` has move space `X`, then a
+decoration provides one value of type `Γ X` at that node, and recursively
+decorates every continuation subtree.
+
+This is the basic way to say "the same protocol tree, but with extra data at
+each node". Typical examples include:
+* `RoleDecoration`, recording who controls a node;
+* monad decorations, recording which monad a local action uses at a node;
+* oracle decorations, recording what oracle interface is available there.
+
+A context may be written directly, or obtained from a telescope
+`TypeTree.Node.Schema` via `TypeTree.Node.Schema.toContext`.
+
+`Decoration.Over` is the dependent (displayed) variant:
+its fibers may depend on the context value drawn from an existing decoration.
+
+Naming note:
+`Decoration.Over` is nested because it is literally a decoration over a fixed
+base decoration value. By contrast, `ShapeOver` and `InteractionOver` keep the
+suffix form because they are the primary generalized syntax and semantics
+layers, not dependent objects over a fixed base `Shape` or `Interaction`.
+
+Functorial `map` / `map_id` / `map_comp` for both layers are in this file.
+Composition along `PFunctor.FreeM.append` is in `PolyFun.Interaction.Basic.Append`.
+
+Because decorations are concrete tree data, they are covariant in node-local
+contexts: a context morphism `Γ → Δ` induces a map from decorations by `Γ`
+to decorations by `Δ`. The schema-facing API in `Decoration.Schema` packages
+that same idea for realized contexts presented by schemas via
+`TypeTree.Node.Schema.SchemaMap`.
+
+This file also contains the bridge between the semantic and staged views of
+node metadata: decorating a tree by an extended context `Γ.extend A` is
+equivalent to giving a base decoration by `Γ` together with one dependent
+`Decoration.Over A` layer on top of it.
+
+In particular, if a schema is built as `(TypeTree.Node.Schema.singleton Γ).extend A`,
+then `Decoration.equivOver A spec` is exactly the statement that a decoration
+of that schema's realized context is the same as a base decoration by `Γ`
+plus one displayed layer over it.
+
+The file concludes by lifting this one-step bridge recursively to arbitrary
+schemas: `Decoration.Schema.View` is the staged telescope view of a decoration
+by `S.toContext`, and `Decoration.Schema.equivView` identifies that staged view
+with an ordinary decoration of the realized context.
+
+## Polynomial substrate (`Decorated`)
+
+Just as `TypeTree` is `PFunctor.FreeM TypeTree.basePFunctor PUnit`, the bundle
+`(tree, Decoration Γ tree)` is `PFunctor.FreeM (Γ.toPFunctor) PUnit`:
+
+```
+Decorated Γ := PFunctor.FreeM (Γ.toPFunctor) PUnit
+```
+
+`Γ.toPFunctor` is the polynomial whose positions are `Σ X : Type u, Γ X`
+and whose child family is `Sigma.fst`. A free term over this polynomial is
+literally a tree where every internal node carries both a move space `X`
+and a `Γ`-value, with continuations indexed by the move type.
+
+Forgetting the `Γ`-component on positions yields a polynomial lens
+`Γ.toPFunctor → TypeTree.basePFunctor`, whose lift to free monads is the
+shape-forgetful map `Decorated.shape : Decorated Γ → TypeTree`. The
+fiber of `shape` over a fixed `tree : TypeTree` is exactly `Decoration Γ tree`,
+formalized as `decoratedEquiv : Decorated Γ ≃ Σ tree, Decoration Γ tree`.
+
+This makes precise the slogan "a `Γ`-decorated type tree is the same data as a
+type tree together with a `Γ`-decoration on it". Downstream code can use either
+view: the `TypeTree`-indexed `Decoration` family is convenient for talking
+about decorations *over a fixed protocol*, while `Decorated` is the
+right object when shape and metadata vary together (e.g. for the polynomial
+coalgebraic semantics of `ProcessOver`).
+-/
+
+public section
+
+universe u v w w₂ w₃ w₄ w₅
+
+namespace Interaction
+
+namespace TypeTree
+
+/-- Nodewise metadata on a plain `TypeTree`, specialized from the generic decoration API. -/
+abbrev Decoration (Γ : Node.Context.{u, v}) (spec : TypeTree) : Type (max u v) :=
+  PFunctor.FreeM.Displayed.Decoration (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) Γ spec
+
+/-- The unique decoration by the empty node context. -/
+@[expose]
+def Decoration.empty : (spec : TypeTree) → Decoration Node.Context.empty spec
+  | .done => PUnit.unit
+  | .node _ rest => ⟨PUnit.unit, fun x => Decoration.empty (rest x)⟩
+
+/-- Natural transformation between per-node decorations, applied recursively. -/
+abbrev Decoration.map {Γ : Node.Context.{u, v}} {Δ : Node.Context.{u, w}}
+    (f : Interaction.TypeTree.Node.ContextHom Γ Δ) :
+    (spec : TypeTree) → Decoration Γ spec → Decoration Δ spec :=
+  PFunctor.FreeM.Displayed.Decoration.map (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) f
+
+@[simp, grind =]
+theorem Decoration.map_id {Γ : Node.Context.{u, v}} :
+    (spec : TypeTree) → (d : Decoration Γ spec) →
+    Decoration.map (Node.ContextHom.id Γ) spec d = d :=
+  PFunctor.FreeM.Displayed.Decoration.map_id (P := TypeTree.basePFunctor) (α := PUnit.{u+1})
+
+theorem Decoration.map_comp
+    {Γ : Node.Context.{u, v}} {Δ : Node.Context.{u, w}} {Λ : Node.Context.{u, w₂}}
+    (g : Node.ContextHom Δ Λ) (f : Node.ContextHom Γ Δ) :
+    (spec : TypeTree) → (d : Decoration Γ spec) →
+    Decoration.map g spec (Decoration.map f spec d) =
+      Decoration.map (Node.ContextHom.comp g f) spec d :=
+  PFunctor.FreeM.Displayed.Decoration.map_comp (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) g f
+
+/-- Dependent decoration over `d : Decoration Γ spec`: at each node, data in
+`F X γ` where `γ` is the context value from `d`, plus recursive decorations on
+subtrees. -/
+abbrev Decoration.Over {Γ : Node.Context.{u, v}} (F : ∀ X, Γ X → Type w)
+    (spec : TypeTree) (d : Decoration Γ spec) : Type (max u w) :=
+  PFunctor.FreeM.Displayed.Decoration.Over
+    (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) Γ F spec d
+
+/-- Fiberwise map between dependent decoration families over the same base
+decoration. -/
+abbrev Decoration.Over.map {Γ : Node.Context.{u, v}}
+    {F : ∀ X, Γ X → Type w} {G : ∀ X, Γ X → Type w}
+    (f : ∀ X γ, F X γ → G X γ) :
+    (spec : TypeTree) → (d : Decoration Γ spec) →
+    Decoration.Over F spec d → Decoration.Over G spec d :=
+  PFunctor.FreeM.Displayed.Decoration.Over.map (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) f
+
+@[grind =]
+theorem Decoration.Over.map_id {Γ : Node.Context.{u, v}} {F : ∀ X, Γ X → Type w} :
+    (spec : TypeTree) → (d : Decoration Γ spec) → (r : Decoration.Over F spec d) →
+    Decoration.Over.map (fun _ _ x => x) spec d r = r :=
+  PFunctor.FreeM.Displayed.Decoration.Over.map_id (P := TypeTree.basePFunctor) (α := PUnit.{u+1})
+
+theorem Decoration.Over.map_comp {Γ : Node.Context.{u, v}}
+    {F G H : ∀ X, Γ X → Type w}
+    (g : ∀ X γ, G X γ → H X γ) (f : ∀ X γ, F X γ → G X γ) :
+    (spec : TypeTree) → (d : Decoration Γ spec) → (r : Decoration.Over F spec d) →
+    Decoration.Over.map g spec d (Decoration.Over.map f spec d r) =
+      Decoration.Over.map (fun X γ => g X γ ∘ f X γ) spec d r :=
+  PFunctor.FreeM.Displayed.Decoration.Over.map_comp
+    (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) g f
+
+/--
+Transport a dependent decoration across a map of base contexts.
+
+Given:
+* a base-context morphism `f : Γ → Δ`, and
+* a fiberwise map `g` from `A X γ` to `B X (f X γ)`,
+
+this sends a displayed decoration over `d : Decoration Γ spec` to a displayed
+decoration over `Decoration.map f spec d`.
+-/
+abbrev Decoration.Over.mapBase
+    {Γ : Node.Context.{u, v}} {Δ : Node.Context.{u, w}}
+    {A : ∀ X, Γ X → Type w₂} {B : ∀ X, Δ X → Type w₂}
+    (f : Node.ContextHom Γ Δ)
+    (g : ∀ X γ, A X γ → B X (f X γ)) :
+    (spec : TypeTree) → (d : Decoration Γ spec) →
+    Decoration.Over A spec d →
+    Decoration.Over B spec (Decoration.map f spec d) :=
+  PFunctor.FreeM.Displayed.Decoration.Over.mapBase
+    (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) f g
+
+theorem Decoration.Over.mapBase_id
+    {Γ : Node.Context.{u, v}} {A : ∀ X, Γ X → Type w} :
+    (spec : TypeTree) → (d : Decoration Γ spec) → (r : Decoration.Over A spec d) →
+    HEq (Decoration.Over.mapBase (Node.ContextHom.id Γ) (fun _ _ x => x) spec d r) r :=
+  PFunctor.FreeM.Displayed.Decoration.Over.mapBase_id
+    (P := TypeTree.basePFunctor) (α := PUnit.{u+1})
+
+theorem Decoration.Over.mapBase_comp
+    {Γ : Node.Context.{u, v}} {Δ : Node.Context.{u, w}} {Λ : Node.Context.{u, w₂}}
+    {A : ∀ X, Γ X → Type w₂}
+    {B : ∀ X, Δ X → Type w₂}
+    {C : ∀ X, Λ X → Type w₂}
+    (f : Node.ContextHom Γ Δ)
+    (g : Node.ContextHom Δ Λ)
+    (fOver : ∀ X γ, A X γ → B X (f X γ))
+    (gOver : ∀ X δ, B X δ → C X (g X δ)) :
+    (spec : TypeTree) → (d : Decoration Γ spec) → (r : Decoration.Over A spec d) →
+    HEq
+      (Decoration.Over.mapBase g gOver spec (Decoration.map f spec d)
+        (Decoration.Over.mapBase f fOver spec d r))
+      (Decoration.Over.mapBase (Node.ContextHom.comp g f)
+        (fun X γ => gOver X (f X γ) ∘ fOver X γ) spec d r) :=
+  PFunctor.FreeM.Displayed.Decoration.Over.mapBase_comp
+    (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) f g fOver gOver
+
+/--
+Pack a base decoration and one dependent `Over` layer into a decoration of the
+extended context `Γ.extend A`.
+
+This is the tree-level realization of a single schema extension step.
+-/
+abbrev Decoration.ofOver {Γ : Node.Context.{u, v}} (A : ∀ X, Γ X → Type w) :
+    (spec : TypeTree) → (d : Decoration Γ spec) → Decoration.Over A spec d →
+    Decoration (Node.Context.extend Γ A) spec :=
+  PFunctor.FreeM.Displayed.Decoration.ofOver (P := TypeTree.basePFunctor) (α := PUnit.{u+1})
+
+theorem Decoration.map_ofOver
+    {Γ : Node.Context.{u, v}} {Δ : Node.Context.{u, w}}
+    {A : ∀ X, Γ X → Type w₂} {B : ∀ X, Δ X → Type w₂}
+    (f : Node.ContextHom Γ Δ)
+    (g : ∀ X γ, A X γ → B X (f X γ)) :
+    (spec : TypeTree) → (d : Decoration Γ spec) → (r : Decoration.Over A spec d) →
+    Decoration.map (Node.Context.extendMap f g) spec (Decoration.ofOver A spec d r) =
+      Decoration.ofOver B spec
+        (Decoration.map f spec d)
+        (Decoration.Over.mapBase f g spec d r) :=
+  PFunctor.FreeM.Displayed.Decoration.map_ofOver
+    (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) f g
+
+/--
+Unpack a decoration of the extended context `Γ.extend A` into:
+* its base decoration by `Γ`, and
+* its displayed `Decoration.Over A` layer above that base.
+
+This is the inverse structural view to `Decoration.ofOver`.
+-/
+abbrev Decoration.toOver {Γ : Node.Context.{u, v}} (A : ∀ X, Γ X → Type w) :
+    (spec : TypeTree) → Decoration (Node.Context.extend Γ A) spec →
+    Σ d : Decoration Γ spec, Decoration.Over A spec d :=
+  PFunctor.FreeM.Displayed.Decoration.toOver (P := TypeTree.basePFunctor) (α := PUnit.{u+1})
+
+theorem Decoration.toOver_ofOver {Γ : Node.Context.{u, v}} (A : ∀ X, Γ X → Type w) :
+    (spec : TypeTree) → (d : Decoration Γ spec) → (r : Decoration.Over A spec d) →
+    Decoration.toOver A spec (Decoration.ofOver A spec d r) = ⟨d, r⟩ :=
+  PFunctor.FreeM.Displayed.Decoration.toOver_ofOver (P := TypeTree.basePFunctor) (α := PUnit.{u+1})
+
+theorem Decoration.ofOver_toOver {Γ : Node.Context.{u, v}} (A : ∀ X, Γ X → Type w) :
+    (spec : TypeTree) → (d : Decoration (Node.Context.extend Γ A) spec) →
+    Decoration.ofOver A spec (Decoration.toOver A spec d).1 (Decoration.toOver A spec d).2 = d :=
+  PFunctor.FreeM.Displayed.Decoration.ofOver_toOver (P := TypeTree.basePFunctor) (α := PUnit.{u+1})
+
+/--
+Equivalence between:
+* decorating a tree by the extended context `Γ.extend A`, and
+* decorating it by `Γ` together with one `Decoration.Over A` layer.
+
+This is the main bridge from the semantic "single realized context" view to the
+staged schema/dependent-decoration view.
+
+Concrete example:
+if a schema is built as `(TypeTree.Node.Schema.singleton Tag).extend Data`, then
+decorations of its realized context `Node.Context.extend Tag Data` are
+equivalent to pairs consisting of:
+* `tags : Decoration Tag spec`, and
+* `datas : Decoration.Over Data spec tags`.
+-/
+def Decoration.equivOver {Γ : Node.Context.{u, v}} (A : ∀ X, Γ X → Type w)
+    (spec : TypeTree) :
+    Equiv (Decoration (Node.Context.extend Γ A) spec)
+      (Sigma fun d : Decoration Γ spec => Decoration.Over A spec d) :=
+  PFunctor.FreeM.Displayed.Decoration.equivOver
+    (P := TypeTree.basePFunctor) (α := PUnit.{u+1}) A spec
+
+/-! ## Polynomial substrate `Decorated`
+
+A `Decorated Γ` is the free term of the polynomial `Γ.toPFunctor` at the
+unit payload: a tree where every internal node carries both its move space
+`X` and a `Γ`-value of type `Γ X`, with continuations indexed by `X`.
+
+This is the polynomial substrate that justifies the `TypeTree`-indexed family
+`Decoration Γ tree`: forgetting the `Γ`-component on positions yields a
+polynomial lens `Γ.toPFunctor → TypeTree.basePFunctor` whose lift to free
+monads gives `Decorated.shape`. The fiber of `shape` over a fixed
+`tree` is exactly `Decoration Γ tree`, witnessed by `decoratedEquiv`. -/
+
+/-- A `Γ`-decorated interaction type tree, viewed polynomially.
+
+This is the free monad on `Γ.toPFunctor` at the unit payload. Equivalently
+(by `decoratedEquiv`), it bundles a tree shape `spec : TypeTree` together
+with a `Decoration Γ spec` on it. -/
+@[expose]
+def Decorated (Γ : Node.Context.{u, v}) : Type (max (u+1) v) :=
+  PFunctor.FreeM Γ.toPFunctor PUnit.{u+1}
+
+namespace Decorated
+
+variable {Γ : Node.Context.{u, v}}
+
+/-- Forget the `Γ`-component on every position, leaving only the underlying
+tree shape. This is the lift to free monads of the polynomial lens
+`Γ.toPFunctor → TypeTree.basePFunctor` whose position map is `Sigma.fst` and
+whose child map is the identity. -/
+@[expose]
+def shape : Decorated Γ → TypeTree.{u}
+  | .pure _ => TypeTree.done
+  | .liftBind ⟨X, _⟩ rest => TypeTree.node X (fun x => Decorated.shape (rest x))
+
+/-- Read off the per-node `Γ`-decoration of a decorated type tree, indexed by
+the tree's underlying `shape`. Together with `shape`, this exhibits the
+fiberwise structure of `Decorated Γ` over `TypeTree`. -/
+@[expose]
+def decoration : (ds : Decorated Γ) → Decoration Γ (Decorated.shape ds)
+  | .pure _ => PUnit.unit
+  | .liftBind ⟨_, γ⟩ rest => ⟨γ, fun x => Decorated.decoration (rest x)⟩
+
+/-- Pack a tree shape together with a `Γ`-decoration on it into a single
+decorated type tree. Inverse to the pair `(shape, decoration)`. -/
+@[expose]
+def mk : (spec : TypeTree.{u}) → Decoration Γ spec → Decorated Γ
+  | .done, _ => PFunctor.FreeM.pure PUnit.unit
+  | .node X rest, ⟨γ, dRest⟩ =>
+      PFunctor.FreeM.liftBind ⟨X, γ⟩ (fun x => Decorated.mk (rest x) (dRest x))
+
+@[simp]
+theorem shape_mk : (spec : TypeTree.{u}) → (d : Decoration Γ spec) →
+    Decorated.shape (Decorated.mk spec d) = spec
+  | .done, _ => rfl
+  | .node X rest, ⟨_, dRest⟩ => by
+    change TypeTree.node X (fun x => Decorated.shape (Decorated.mk (rest x) (dRest x))) =
+      TypeTree.node X rest
+    exact congr_arg (TypeTree.node X) (funext fun x => shape_mk (rest x) (dRest x))
+
+theorem decoration_mk : (spec : TypeTree.{u}) → (d : Decoration Γ spec) →
+    Decorated.decoration (Decorated.mk spec d) ≍ d
+  | .done, ⟨⟩ => HEq.rfl
+  | .node X rest, ⟨γ, dRest⟩ => by
+    change ((γ, fun x => Decorated.decoration (Decorated.mk (rest x) (dRest x))) :
+        Γ X × (∀ x, Decoration Γ
+          (Decorated.shape (Decorated.mk (rest x) (dRest x))))) ≍
+      ((γ, dRest) : Γ X × (∀ x, Decoration Γ (rest x)))
+    refine Prod.mk_heq ?_
+    refine Function.hfunext rfl ?_
+    intro x y hxy
+    cases hxy
+    exact decoration_mk (rest x) (dRest x)
+
+@[simp]
+theorem mk_shape_decoration : (ds : Decorated Γ) →
+    Decorated.mk (Decorated.shape ds) (Decorated.decoration ds) = ds
+  | .pure _ => rfl
+  | .liftBind ⟨X, γ⟩ rest => by
+    refine congr_arg (PFunctor.FreeM.liftBind (P := Γ.toPFunctor) ⟨X, γ⟩) ?_
+    funext x
+    exact mk_shape_decoration (rest x)
+
+end Decorated
+
+/-- The polynomial substrate equivalence: a `Γ`-decorated type tree is the same
+data as a tree shape together with a `Γ`-decoration on it.
+
+This is the `TypeTree`-indexed fiberwise view of `Decorated Γ`. The forward
+direction takes `(shape, decoration)`; the backward direction is `mk`. -/
+def decoratedEquiv {Γ : Node.Context.{u, v}} :
+    Decorated Γ ≃ Σ spec : TypeTree.{u}, Decoration Γ spec where
+  toFun ds := ⟨Decorated.shape ds, Decorated.decoration ds⟩
+  invFun p := Decorated.mk p.1 p.2
+  left_inv ds := Decorated.mk_shape_decoration ds
+  right_inv p :=
+    Sigma.ext (Decorated.shape_mk p.1 p.2) (Decorated.decoration_mk p.1 p.2)
+
+namespace Decoration
+namespace Schema
+
+/--
+Map decorations along a schema morphism.
+
+This is just `PFunctor.FreeM.Displayed.Decoration.map` viewed through
+schema-level sources and targets.
+-/
+abbrev map
+    {Γ Δ : Node.Context.{u, v}} {S : Node.Schema Γ} {T : Node.Schema Δ}
+    (f : Node.Schema.SchemaMap S T) :
+    (spec : TypeTree) → Decoration S.toContext spec → Decoration T.toContext spec :=
+  PFunctor.FreeM.Displayed.Decoration.map (P := TypeTree.basePFunctor)
+    (α := PUnit.{u+1}) f
+
+@[simp]
+theorem map_id
+    {Γ : Node.Context.{u, v}} {S : Node.Schema Γ} :
+    (spec : TypeTree) → (d : Decoration S.toContext spec) →
+    Decoration.Schema.map (Node.Schema.SchemaMap.id S) spec d = d :=
+  PFunctor.FreeM.Displayed.Decoration.map_id (P := TypeTree.basePFunctor)
+    (α := PUnit.{u+1})
+
+theorem map_comp
+    {Γ Δ Λ : Node.Context.{u, v}}
+    {S : Node.Schema Γ} {T : Node.Schema Δ} {U : Node.Schema Λ}
+    (g : Node.Schema.SchemaMap T U) (f : Node.Schema.SchemaMap S T) :
+    (spec : TypeTree) → (d : Decoration S.toContext spec) →
+    Decoration.Schema.map g spec (Decoration.Schema.map f spec d) =
+      Decoration.Schema.map (Node.Schema.SchemaMap.comp g f) spec d :=
+  PFunctor.FreeM.Displayed.Decoration.map_comp (P := TypeTree.basePFunctor)
+    (α := PUnit.{u+1}) g f
+
+theorem map_ofOver
+    {Γ Δ : Node.Context.{u, v}}
+    {S : Node.Schema Γ} {T : Node.Schema Δ}
+    {A : ∀ X, Γ X → Type v} {B : ∀ X, Δ X → Type v}
+    (f : Node.Schema.SchemaMap S T)
+    (g : ∀ X γ, A X γ → B X (f X γ)) :
+    (spec : TypeTree) → (d : Decoration Γ spec) → (r : Decoration.Over A spec d) →
+    Decoration.Schema.map (Node.Schema.SchemaMap.extend (S := S) (T := T) f g) spec
+        (PFunctor.FreeM.Displayed.Decoration.ofOver (P := TypeTree.basePFunctor)
+          (α := PUnit.{u+1}) (A := A) spec d r) =
+      PFunctor.FreeM.Displayed.Decoration.ofOver (P := TypeTree.basePFunctor)
+        (α := PUnit.{u+1}) (A := B) spec
+        (Decoration.Schema.map f spec d)
+        (PFunctor.FreeM.Displayed.Decoration.Over.mapBase (P := TypeTree.basePFunctor)
+          (α := PUnit.{u+1}) f g spec d r)
+  | spec, d, r =>
+      PFunctor.FreeM.Displayed.Decoration.map_ofOver (P := TypeTree.basePFunctor)
+        (α := PUnit.{u+1}) f g spec d r
+
+/--
+`Decoration.Schema.telescope S spec` packages the staged telescope view of
+decorations for schema `S`, together with an equivalence from ordinary
+decorations by the realized context `S.toContext`.
+
+The resulting type is the recursively decomposed form of a decoration:
+each `snoc` in the schema contributes one more displayed `Decoration.Over`
+layer.
+-/
+def telescope :
+    {Γ : Node.Context.{u, v}} → (S : Node.Schema Γ) → (spec : TypeTree) →
+    Sigma fun T : Type (max u v) => Decoration Γ spec ≃ T
+  | _, .nil, spec => ⟨Decoration Node.Context.empty spec, Equiv.refl _⟩
+  | _, .singleton A, spec => ⟨Decoration A spec, Equiv.refl _⟩
+  | _, .snoc S A, spec =>
+      let recView := telescope S spec
+      ⟨Sigma fun t : recView.1 => Decoration.Over A spec (recView.2.symm t),
+        (PFunctor.FreeM.Displayed.Decoration.equivOver (P := TypeTree.basePFunctor)
+          (α := PUnit.{u+1}) A spec).trans recView.2.symm.sigmaCongrLeft.symm⟩
+
+/--
+`Decoration.Schema.View S spec` is the staged telescope view carried by the
+recursive schema decomposition theorem `Decoration.Schema.telescope`.
+-/
+abbrev View {Γ : Node.Context.{u, v}} (S : Node.Schema Γ) (spec : TypeTree) :
+    Type (max u v) :=
+  (telescope S spec).1
+
+/--
+Unpack an ordinary decoration into the staged telescope view determined by a
+schema.
+-/
+abbrev unpack {Γ : Node.Context.{u, v}} (S : Node.Schema Γ) (spec : TypeTree) :
+    Decoration Γ spec → View S spec :=
+  (telescope S spec).2.toFun
+
+/--
+Pack a staged schema-decoration view back into an ordinary decoration of the
+realized context.
+-/
+abbrev pack {Γ : Node.Context.{u, v}} (S : Node.Schema Γ) (spec : TypeTree) :
+    View S spec → Decoration Γ spec :=
+  (telescope S spec).2.invFun
+
+theorem pack_unpack {Γ : Node.Context.{u, v}} (S : Node.Schema Γ) (spec : TypeTree)
+    (d : Decoration Γ spec) :
+    pack S spec (unpack S spec d) = d :=
+  (telescope S spec).2.left_inv d
+
+theorem unpack_pack {Γ : Node.Context.{u, v}} (S : Node.Schema Γ) (spec : TypeTree)
+    (d : View S spec) :
+    unpack S spec (pack S spec d) = d :=
+  (telescope S spec).2.right_inv d
+
+/--
+Map the staged telescope view of decorations along a schema morphism.
+
+This is the schema-view analogue of `Decoration.Schema.map`: pack the staged
+view into an ordinary decoration, map that decoration along the schema
+morphism, then unpack it into the staged view for the target schema.
+-/
+abbrev mapView
+    {Γ Δ : Node.Context.{u, v}} {S : Node.Schema Γ} {T : Node.Schema Δ}
+    (f : Node.Schema.SchemaMap S T) (spec : TypeTree) :
+    View S spec → View T spec :=
+  unpack T spec ∘ Decoration.Schema.map f spec ∘ pack S spec
+
+theorem unpack_map
+    {Γ Δ : Node.Context.{u, v}} {S : Node.Schema Γ} {T : Node.Schema Δ}
+    (f : Node.Schema.SchemaMap S T) (spec : TypeTree) (d : Decoration S.toContext spec) :
+    unpack T spec (Decoration.Schema.map f spec d) =
+      mapView f spec (unpack S spec d) := by
+  simp [mapView]
+
+theorem pack_mapView
+    {Γ Δ : Node.Context.{u, v}} {S : Node.Schema Γ} {T : Node.Schema Δ}
+    (f : Node.Schema.SchemaMap S T) (spec : TypeTree) (d : View S spec) :
+    pack T spec (mapView f spec d) =
+      Decoration.Schema.map f spec (pack S spec d) := by
+  simp [mapView]
+
+theorem mapView_id
+    {Γ : Node.Context.{u, v}} {S : Node.Schema Γ} :
+    (spec : TypeTree) → (d : View S spec) →
+    mapView (Node.Schema.SchemaMap.id S) spec d = d := by
+  intro spec d
+  simp [mapView]
+
+theorem mapView_comp
+    {Γ Δ Λ : Node.Context.{u, v}}
+    {S : Node.Schema Γ} {T : Node.Schema Δ} {U : Node.Schema Λ}
+    (g : Node.Schema.SchemaMap T U) (f : Node.Schema.SchemaMap S T) :
+    (spec : TypeTree) → (d : View S spec) →
+    mapView g spec (mapView f spec d) =
+      mapView (Node.Schema.SchemaMap.comp g f) spec d := by
+  intro spec d
+  simp [mapView, Decoration.Schema.map_comp]
+
+namespace Prefix
+
+/--
+Project decorations along a syntactic schema prefix.
+
+This is the tree-level forgetting map induced by the schema morphism
+`Node.Schema.Prefix.toSchemaMap`.
+-/
+abbrev map
+    {Γ Δ : Node.Context.{u, v}} {S : Node.Schema Γ} {T : Node.Schema Δ}
+    (p : Node.Schema.Prefix S T) :
+    (spec : TypeTree) → Decoration T.toContext spec → Decoration S.toContext spec :=
+  Decoration.Schema.map p.toSchemaMap
+
+end Prefix
+
+/--
+Equivalence between an ordinary decoration by the realized context of `S` and
+its staged telescope view.
+
+This is the recursive schema-level form of `Decoration.equivOver`.
+-/
+abbrev equivView {Γ : Node.Context.{u, v}} (S : Node.Schema Γ) (spec : TypeTree) :
+    Decoration Γ spec ≃ View S spec :=
+  (telescope S spec).2
+
+end Schema
+end Decoration
+
+end TypeTree
+end Interaction
+
+

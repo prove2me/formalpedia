@@ -7,6 +7,21 @@
 {"parent": "CTensorThreeCyclicBalancedGradingCertificate", "child": "CTensorOneHOneCertificate", "via": ["statement"]}
 {"parent": "CTensorThreeCyclicBalancedGradingCertificate", "child": "mme_induced_word_zeroing", "via": ["statement"]}
 {"parent": "CTensorThreeCyclicBalancedGradingCertificate", "child": "threeStarCyclicProduct", "via": ["statement"]}
+{"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
+{"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
+{"parent": "ExtendedSmale9.lemma_11_1", "child": "ExtendedSmale9_LinearProgram", "via": ["solution", "statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
+{"parent": "ExtendedSmale9.proposition_10_5_ii_strong", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
+{"parent": "ExtendedSmale9.proposition_9_32_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
+{"parent": "ExtendedSmale9.sec_9_6_i_imp_ii", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
+{"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
 {"parent": "MME.StothersFourth.Phi233.mme_stothers_phi233_doubled_hash_AP", "child": "mme_stothers_phi233_cyclic_affine_hash", "via": ["solution", "statement"]}
 {"parent": "MME.StothersFourth.fixedHash_budget_of_degree", "child": "MME.StothersFourth.fixedHash_incidence_sums", "via": ["solution"]}
 {"parent": "MME.StothersFourth.fixedHash_budget_of_degree", "child": "MME.StothersFourth.fixedHash_retained_vertex_closed", "via": ["solution"]}
@@ -2227,6 +2242,15 @@
 {"parent": "mme_degenerates_asymptoticRank_le", "child": "mme_degeneration", "via": ["statement"]}
 {"parent": "mme_degenerates_asymptoticRank_le", "child": "mme_tensor_rank", "via": ["statement"]}
 {"parent": "mme_degeneration", "child": "mme_tensor", "via": ["statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler", "child": "mme_graded_integer_step_low_level_log_recipe", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler", "child": "mme_regional_fixed_parent_window_square_stage", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler", "child": "mme_regional_profile_layer_compiler_data", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler", "child": "mme_regional_supported_histograms_of_joint_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler_exact_volume", "child": "mme_graded_integer_step_low_level_log_recipe", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler_exact_volume", "child": "mme_low_level_boundary_profile_dimension", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler_exact_volume", "child": "mme_regional_fixed_parent_window_square_stage", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler_exact_volume", "child": "mme_regional_profile_layer_compiler_data", "via": ["solution", "statement"]}
+{"parent": "mme_depth_four_regional_profile_compiler_exact_volume", "child": "mme_regional_supported_histograms_of_joint_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_diagObj_kron_canonical_grading_certificate", "child": "mme_block_subtensor", "via": ["solution", "statement"]}
 {"parent": "mme_diagObj_kron_canonical_grading_certificate", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
 {"parent": "mme_diagObj_kron_isomorphic_bigAdd_const", "child": "mme_rank_bridge", "via": ["solution", "statement"]}
@@ -6179,6 +6203,8 @@
 {"parent": "mme_dwz_useful_block_nonhole_to_completed_fine_address_nonhole", "child": "mme_dwz_retained_fine_compatibility", "via": ["solution", "statement"]}
 {"parent": "mme_dwz_useful_block_nonhole_to_completed_fine_address_nonhole", "child": "mme_dwz_step2_broken_copy", "via": ["solution", "statement"]}
 {"parent": "mme_dyadic_log_series_bounds", "child": "mme_log_series_bounds", "via": ["solution", "statement"]}
+{"parent": "mme_elementary_supported_stage_exact_volume", "child": "mme_graded_integer_step_low_level_log_recipe", "via": ["solution", "statement"]}
+{"parent": "mme_elementary_supported_stage_exact_volume", "child": "mme_low_level_boundary_profile_dimension", "via": ["solution", "statement"]}
 {"parent": "mme_empirical_word_probability_and_marginal", "child": "mme_modern_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_empty_bigAdd_mode_choice_certificate", "child": "mme_induced_mode_choice_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_entropy_dyadic_bounds", "child": "mme_dyadic_neg_log_bounds", "via": ["solution", "statement"]}
@@ -6295,6 +6321,7 @@
 {"parent": "mme_finite_kronFin_cyclic_value_product_below", "child": "mme_finite_kronFin_HasTauValueAtLeast_product_below", "via": ["solution"]}
 {"parent": "mme_finite_kronFin_cyclic_value_product_below", "child": "mme_tau_value", "via": ["statement"]}
 {"parent": "mme_finite_kronFin_cyclic_value_product_below", "child": "mme_toQ_kronFin", "via": ["solution"]}
+{"parent": "mme_finite_rational_certificate_common_square_scale", "child": "mme_recursive_region_parent_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_finite_repaired_MM_product_from_copy_budgets", "child": "mme_CW_2376_address_block", "via": ["statement"]}
 {"parent": "mme_finite_repaired_MM_product_from_copy_budgets", "child": "mme_bigAdd_prefix_restrict", "via": ["solution"]}
 {"parent": "mme_finite_repaired_MM_product_from_copy_budgets", "child": "mme_kronFin_MMObj_iso", "via": ["solution"]}
@@ -6560,6 +6587,15 @@
 {"parent": "mme_graded_integer_regional_step_data", "child": "mme_recursive_profiled_CW_data", "via": ["statement"]}
 {"parent": "mme_graded_integer_regional_step_realization", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
 {"parent": "mme_graded_integer_regional_step_realization", "child": "mme_recursive_region_exact_step_realization_graded", "via": ["solution"]}
+{"parent": "mme_graded_integer_step_low_level_log_recipe", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_graded_integer_step_low_level_log_recipe", "child": "mme_integer_step_low_level_boundary_end", "via": ["solution"]}
+{"parent": "mme_graded_integer_step_low_level_log_recipe", "child": "mme_regional_tolerance_window_data", "via": ["solution"]}
+{"parent": "mme_graded_regional_tolerance_window_stage", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_graded_regional_tolerance_window_stage", "child": "mme_prescribed_histogram_polynomial_type_cover", "via": ["solution"]}
+{"parent": "mme_graded_regional_tolerance_window_stage", "child": "mme_regional_parent_mixture_lipschitz", "via": ["solution"]}
+{"parent": "mme_graded_regional_tolerance_window_stage", "child": "mme_regional_supported_histogram_admissibility", "via": ["solution"]}
+{"parent": "mme_graded_regional_tolerance_window_stage", "child": "mme_regional_target_marginals", "via": ["solution"]}
+{"parent": "mme_graded_regional_tolerance_window_stage", "child": "mme_regional_tolerance_window_data", "via": ["solution", "statement"]}
 {"parent": "mme_graded_tensor_pow_block_decomp", "child": "mme_block_tensor", "via": ["solution", "statement"]}
 {"parent": "mme_graded_tensor_pow_block_decomp", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
 {"parent": "mme_hash_extraction_certificate", "child": "mme_recursive_x_hash_families", "via": ["statement"]}
@@ -6849,6 +6885,13 @@
 {"parent": "mme_matrix_extraction_six_volume_weight", "child": "mme_MMObj_cyclicSymmetrization_iso", "via": ["solution", "statement"]}
 {"parent": "mme_matrix_extraction_six_volume_weight", "child": "mme_MMObj_permObj_swapFirstTwo", "via": ["solution", "statement"]}
 {"parent": "mme_matrix_extraction_six_volume_weight", "child": "mme_sixSymmetrization_restrict", "via": ["solution", "statement"]}
+{"parent": "mme_mixed_depth_profile_certificate", "child": "mme_modern_entropy_data", "via": ["statement"]}
+{"parent": "mme_mixed_depth_profile_certificate", "child": "mme_regional_profile_layer_compiler_data", "via": ["statement"]}
+{"parent": "mme_mixed_depth_regional_boundary_profile_compiler", "child": "mme_boundary_scaled_volume_rate", "via": ["solution", "statement"]}
+{"parent": "mme_mixed_depth_regional_boundary_profile_compiler", "child": "mme_elementary_supported_stage_exact_volume", "via": ["solution", "statement"]}
+{"parent": "mme_mixed_depth_regional_boundary_profile_compiler", "child": "mme_mixed_depth_profile_certificate", "via": ["solution", "statement"]}
+{"parent": "mme_mixed_depth_regional_boundary_profile_compiler", "child": "mme_regional_fixed_parent_window_square_stage", "via": ["solution", "statement"]}
+{"parent": "mme_mixed_depth_regional_boundary_profile_compiler", "child": "mme_regional_supported_histograms_of_joint_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_mm_spectral", "child": "mme_duality", "via": ["statement"]}
 {"parent": "mme_mm_spectral", "child": "mme_jensen", "via": ["statement"]}
 {"parent": "mme_mm_spectral_sum_inequality", "child": "mme_tensor_bridge", "via": ["solution", "statement"]}
@@ -7451,6 +7494,7 @@
 {"parent": "mme_rational_parent_compatibility_certificate", "child": "mme_rational_entropy_difference_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_rational_parent_compatibility_certificate", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
 {"parent": "mme_rational_product_dual_penalty_certificate", "child": "mme_entropy_penalty_le_product_dual", "via": ["solution", "statement"]}
+{"parent": "mme_rational_regional_profiles_common_integer_scale", "child": "mme_recursive_region_parent_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_rational_scaled_mass_entropy_sum_certificate", "child": "mme_rational_mass_entropy_log_bounds", "via": ["solution", "statement"]}
 {"parent": "mme_rational_scaled_mass_entropy_sum_upper_certificate", "child": "mme_rational_mass_entropy_log_bounds", "via": ["solution", "statement"]}
 {"parent": "mme_rational_scaled_weighted_entropy_difference_certificate", "child": "mme_rational_weighted_entropy_difference_log_certificate", "via": ["solution", "statement"]}
@@ -7829,6 +7873,9 @@
 {"parent": "mme_regional_entropy_uniform_modulus", "child": "mme_region_count_entropy_data", "via": ["statement"]}
 {"parent": "mme_regional_entropy_uniform_modulus", "child": "mme_regional_entropy_rate_data", "via": ["solution", "statement"]}
 {"parent": "mme_regional_entropy_uniform_rate_margin", "child": "mme_regional_entropy_uniform_modulus", "via": ["solution", "statement"]}
+{"parent": "mme_regional_fixed_parent_window_square_stage", "child": "mme_graded_band_part_stage", "via": ["solution", "statement"]}
+{"parent": "mme_regional_fixed_parent_window_square_stage", "child": "mme_parent_mixture_scale", "via": ["solution", "statement"]}
+{"parent": "mme_regional_fixed_parent_window_square_stage", "child": "mme_regional_parent_mixture_lipschitz", "via": ["solution", "statement"]}
 {"parent": "mme_regional_hash_log_scale_le_repair_log", "child": "mme_recursive_region_hash_loads", "via": ["solution", "statement"]}
 {"parent": "mme_regional_hash_scale_le_repair_mul", "child": "mme_recursive_region_hash_loads", "via": ["solution", "statement"]}
 {"parent": "mme_regional_histogram_entropy_bounds", "child": "mme_prescribed_cell_histogram_entropy_bounds", "via": ["solution"]}
@@ -7891,6 +7938,10 @@
 {"parent": "mme_regional_prescribed_profile_card", "child": "mme_recursive_thin_split_data", "via": ["solution", "statement"]}
 {"parent": "mme_regional_prescribed_profile_card", "child": "mme_region_count_entropy_data", "via": ["statement"]}
 {"parent": "mme_regional_prescribed_profile_card", "child": "mme_regional_entropy_rate_data", "via": ["statement"]}
+{"parent": "mme_regional_profile_layer_compiler_data", "child": "mme_dwz_profiled_regional_positions_data", "via": ["statement"]}
+{"parent": "mme_regional_profile_layer_compiler_data", "child": "mme_graded_integer_regional_step_data", "via": ["statement"]}
+{"parent": "mme_regional_profile_layer_compiler_data", "child": "mme_recursive_region_parent_profiles", "via": ["statement"]}
+{"parent": "mme_regional_profile_layer_compiler_data", "child": "mme_regional_entropy_rate_data", "via": ["statement"]}
 {"parent": "mme_regional_rate_homogeneous", "child": "mme_recursive_region_parent_profiles", "via": ["solution", "statement"]}
 {"parent": "mme_regional_rate_homogeneous", "child": "mme_recursive_yz_compatibility", "via": ["solution"]}
 {"parent": "mme_regional_rate_homogeneous", "child": "mme_region_count_entropy_data", "via": ["solution"]}
@@ -7914,7 +7965,11 @@
 {"parent": "mme_regional_split_entropy_data", "child": "mme_recursive_yz_hash_filter", "via": ["statement"]}
 {"parent": "mme_regional_split_entropy_data", "child": "mme_region_count_entropy_data", "via": ["statement"]}
 {"parent": "mme_regional_split_entropy_data", "child": "mme_regional_entropy_rate_data", "via": ["statement"]}
+{"parent": "mme_regional_square_scale_uniform_window_log_budget", "child": "mme_regional_tolerance_window_data", "via": ["statement"]}
 {"parent": "mme_regional_supported_histogram_admissibility", "child": "mme_integer_regional_CW_recipe", "via": ["solution", "statement"]}
+{"parent": "mme_regional_supported_histograms_of_joint_certificate", "child": "mme_dwz_profiled_regional_positions_data", "via": ["solution", "statement"]}
+{"parent": "mme_regional_supported_histograms_of_joint_certificate", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_regional_supported_histograms_of_joint_certificate", "child": "mme_recursive_yz_compatibility", "via": ["solution", "statement"]}
 {"parent": "mme_regional_target_entropy_bounds", "child": "mme_regional_dependent_profile_entropy_bounds", "via": ["solution"]}
 {"parent": "mme_regional_target_entropy_bounds", "child": "mme_regional_entropy_copy_bound", "via": ["statement"]}
 {"parent": "mme_regional_target_entropy_bounds", "child": "mme_regional_prescribed_profile_card", "via": ["solution"]}
@@ -8843,8 +8898,32 @@
 {"parent": "mme_released_global_graded_hashed_construction_some_reference_hashed_dims", "child": "mme_log_joint_recipe_g_stage_compose", "via": ["solution"]}
 {"parent": "mme_released_global_graded_hashed_construction_some_reference_hashed_dims", "child": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "via": ["solution"]}
 {"parent": "mme_released_global_graded_hashed_construction_some_reference_hashed_dims", "child": "mme_released_global_two_part_split_data", "via": ["solution", "statement"]}
-{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_graded_integer_regional_step_data", "via": ["statement"]}
-{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_global_two_part_split_data", "via": ["statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_dwz_profiled_regional_positions_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_regional_tolerance_window_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_released_global_supported_frame", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_released_global_two_part_split_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_released_level2_level3_positive_cell_correspondence", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_released_positive_integer_frame", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level2_child_window_layout", "child": "mme_released_positive_integer_frame_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "child": "mme_regional_tolerance_window_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "child": "mme_released_global_graded_hashed_level2_child_window_layout", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "child": "mme_released_global_two_part_split_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "child": "mme_released_level2_pooled_positive_recipe", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "child": "mme_released_level2_zero_half_boundary_recipe", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "child": "mme_released_positive_integer_frame_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_global_graded_hashed_level2_continuation_from_child_windows", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_global_two_part_split_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_joint_positive_source_inclusion", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_recursive_stage_region0_rate_margin", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_recursive_stage_region1_rate_margin", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_recursive_stage_region2_rate_margin", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_recursive_stage_region3_rate_margin", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_recursive_stage_region4_rate_margin", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_recursive_stage_region5_rate_margin", "via": ["solution"]}
+{"parent": "mme_released_global_graded_hashed_level3_stage_level2_continuation", "child": "mme_released_square_scale_graded_tolerance_stages", "via": ["solution"]}
 {"parent": "mme_released_global_graded_hashed_recursive_construction", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_global_graded_hashed_recursive_construction", "child": "mme_released_global_graded_hashed_recursive_construction_caps_one", "via": ["solution"]}
 {"parent": "mme_released_global_graded_hashed_recursive_construction", "child": "mme_released_global_two_part_split_data", "via": ["solution", "statement"]}
@@ -10329,8 +10408,8 @@
 {"parent": "mme_released_global_rate_floor", "child": "mme_released_global_x_rate_floor", "via": ["solution"]}
 {"parent": "mme_released_global_rate_floor", "child": "mme_released_global_yz_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_global_rate_floor", "child": "mme_released_global_yz_rate_floor", "via": ["solution"]}
-{"parent": "mme_released_global_reference_exists", "child": "mme_regional_reference_exists_iff_mass", "via": ["statement"]}
-{"parent": "mme_released_global_reference_exists", "child": "mme_released_global_frame_data", "via": ["statement"]}
+{"parent": "mme_released_global_reference_exists", "child": "mme_regional_reference_exists_iff_mass", "via": ["solution", "statement"]}
+{"parent": "mme_released_global_reference_exists", "child": "mme_released_global_frame_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_global_scale_of_multiple", "child": "mme_released_global_frame_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_global_simultaneous_uniform_window_extraction", "child": "mme_released_global_uniform_tolerance_window_extraction", "via": ["solution", "statement"]}
 {"parent": "mme_released_global_six_region_numerical_extraction", "child": "mme_released_global_joint_interface", "via": ["statement"]}
@@ -14700,6 +14779,11 @@
 {"parent": "mme_released_interior_scaled_integer_profile_constraints_exact", "child": "mme_recursive_x_hash_families", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_integer_profile_constraints_exact", "child": "mme_released_global_profile_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_integer_profile_constraints_exact", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_parent_graded_fine_word_window", "child": "mme_complete_split_concatenation", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_parent_graded_fine_word_window", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_parent_graded_fine_word_window", "child": "mme_recursive_profiled_CW_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_parent_graded_fine_word_window", "child": "mme_released_interior_integer_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_interior_scaled_parent_graded_fine_word_window", "child": "mme_released_interior_scaled_partition_parent_window", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_partition_parent_window", "child": "mme_regional_parent_windows_imply_global_histogram_window_allow_empty", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_partition_parent_window", "child": "mme_released_interior_scaled_integer_profile_constraints_exact", "via": ["solution", "statement"]}
 {"parent": "mme_released_interior_scaled_partition_parent_window", "child": "mme_released_interior_weighted_parent_center", "via": ["solution", "statement"]}
@@ -16968,6 +17052,16 @@
 {"parent": "mme_released_joint_owner5_cell40_region1_mode2_parent_entropy_bound", "child": "mme_rational_entropy_log_bounds", "via": ["statement"]}
 {"parent": "mme_released_joint_owner5_cell40_region1_mode2_parent_entropy_bound", "child": "mme_rational_log_series_certificate", "via": ["statement"]}
 {"parent": "mme_released_joint_owner5_cell40_region1_mode2_parent_entropy_bound", "child": "mme_released_joint_interior_profiles", "via": ["statement"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_graded_integer_regional_step_data", "via": ["statement"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_global_two_part_split_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_global_word_counts_row_marginal", "via": ["solution"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_interior_boundary_classification", "via": ["solution"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_interior_scaled_parent_graded_fine_word_window", "via": ["solution"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_joint_interior_fine_selection", "via": ["solution"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_joint_interior_owner_fine_partition", "via": ["solution"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_joint_interior_owner_mass", "via": ["solution"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_joint_interior_owner_parent_typical", "via": ["solution"]}
+{"parent": "mme_released_joint_positive_source_inclusion", "child": "mme_released_joint_interior_position_data", "via": ["statement"]}
 {"parent": "mme_released_joint_region0_coarse_entropy_bound", "child": "mme_rational_log_series_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_joint_region0_coarse_entropy_bound", "child": "mme_rational_scaled_mass_entropy_sum_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_released_joint_region0_coarse_entropy_bound", "child": "mme_regional_split_entropy_data", "via": ["solution", "statement"]}
@@ -17629,6 +17723,13 @@
 {"parent": "mme_released_level2_pooled_positive_recipe", "child": "mme_rational_log_series_certificate", "via": ["solution"]}
 {"parent": "mme_released_level2_pooled_positive_recipe", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_level2_pooled_positive_recipe", "child": "mme_released_recursive_stage_level2_rate_margin", "via": ["solution"]}
+{"parent": "mme_released_level2_zero_half_boundary_recipe", "child": "mme_exact_profile_boundary_end", "via": ["solution"]}
+{"parent": "mme_released_level2_zero_half_boundary_recipe", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_level2_zero_half_boundary_recipe", "child": "mme_nat_multinomial_log_lower_mass_entropy", "via": ["solution"]}
+{"parent": "mme_released_level2_zero_half_boundary_recipe", "child": "mme_released_level2_zero_half_mass_entropy_certificate", "via": ["solution"]}
+{"parent": "mme_released_level2_zero_half_boundary_recipe", "child": "mme_released_positive_integer_frame", "via": ["solution"]}
+{"parent": "mme_released_level2_zero_half_boundary_recipe", "child": "mme_released_positive_integer_frame_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_level2_zero_half_boundary_recipe", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_level2_zero_half_mass_entropy_certificate", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_level2_zero_half_mass_entropy_certificate", "child": "mme_regional_entropy_rate_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_level2_zero_half_mass_entropy_certificate", "child": "mme_released_level2_zero_half_region0_mass_entropy_certificate", "via": ["solution"]}
@@ -17668,6 +17769,48 @@
 {"parent": "mme_released_level2_zero_half_region5_mass_entropy_certificate", "child": "mme_rational_log_series_certificate", "via": ["solution"]}
 {"parent": "mme_released_level2_zero_half_region5_mass_entropy_certificate", "child": "mme_regional_entropy_rate_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_level2_zero_half_region5_mass_entropy_certificate", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_recursive_CW_supported_words_of_joint_histogram", "via": ["solution"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_released_positive_integer_frame_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_released_positive_region0_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_released_positive_region1_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_released_positive_region2_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_released_positive_region3_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_released_positive_region4_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_frame_supported_child_words", "child": "mme_released_positive_region5_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_regional_reference_exists_iff_mass", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_joint_interior_integer_constraints", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_integer_frame_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_region0_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_region1_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_region2_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_region3_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_region4_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_region5_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame", "child": "mme_released_positive_region_position_transport", "via": ["solution"]}
+{"parent": "mme_released_positive_integer_frame_data", "child": "mme_graded_integer_regional_step_data", "via": ["statement"]}
+{"parent": "mme_released_positive_integer_frame_data", "child": "mme_released_joint_interior_frame", "via": ["statement"]}
+{"parent": "mme_released_positive_integer_frame_data", "child": "mme_released_recursive_stage_data", "via": ["statement"]}
+{"parent": "mme_released_positive_region0_profile_reindex", "child": "mme_released_joint_interior_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region0_profile_reindex", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region1_profile_reindex", "child": "mme_released_joint_interior_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region1_profile_reindex", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region2_profile_reindex", "child": "mme_released_joint_interior_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region2_profile_reindex", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region3_profile_reindex", "child": "mme_released_joint_interior_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region3_profile_reindex", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region4_profile_reindex", "child": "mme_released_joint_interior_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region4_profile_reindex", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region5_profile_reindex", "child": "mme_released_joint_interior_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region5_profile_reindex", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_graded_integer_regional_step_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_joint_interior_frame", "via": ["solution", "statement"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_positive_region0_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_positive_region1_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_positive_region2_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_positive_region3_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_positive_region4_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_positive_region5_profile_reindex", "via": ["solution"]}
+{"parent": "mme_released_positive_region_position_transport", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_data_structure_valid", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_data_structure_valid", "child": "mme_released_recursive_level_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_global_window_center", "child": "mme_released_global_joint_interface", "via": ["statement"]}
@@ -19889,6 +20032,10 @@
 {"parent": "mme_released_recursive_level3_region1_counts", "child": "mme_released_recursive_level_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_level_data", "child": "mme_recursive_yz_physical_words", "via": ["statement"]}
 {"parent": "mme_released_recursive_level_data", "child": "mme_released_global_joint_counts", "via": ["statement"]}
+{"parent": "mme_released_recursive_positive_child_reindex", "child": "mme_released_joint_interior_profiles", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_positive_child_reindex", "child": "mme_released_recursive_level2_marginals", "via": ["solution"]}
+{"parent": "mme_released_recursive_positive_child_reindex", "child": "mme_released_recursive_level2_split_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_recursive_positive_child_reindex", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_profile_counts_0", "child": "mme_released_recursive_profile_counts_0_mode_0", "via": ["solution"]}
 {"parent": "mme_released_recursive_profile_counts_0", "child": "mme_released_recursive_profile_counts_0_mode_1", "via": ["solution"]}
 {"parent": "mme_released_recursive_profile_counts_0", "child": "mme_released_recursive_profile_counts_0_mode_2", "via": ["solution"]}
@@ -21565,6 +21712,13 @@
 {"parent": "mme_released_recursive_stage_region5_rate_margin", "child": "mme_released_recursive_stage_region5_penalty_ceil", "via": ["solution"]}
 {"parent": "mme_released_recursive_stage_structure_valid", "child": "mme_recursive_yz_owned_filters", "via": ["solution", "statement"]}
 {"parent": "mme_released_recursive_stage_structure_valid", "child": "mme_released_recursive_stage_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_square_scale_graded_tolerance_stages", "child": "mme_graded_regional_tolerance_window_stage", "via": ["solution"]}
+{"parent": "mme_released_square_scale_graded_tolerance_stages", "child": "mme_regional_square_scale_uniform_window_log_budget", "via": ["solution"]}
+{"parent": "mme_released_square_scale_graded_tolerance_stages", "child": "mme_regional_target_marginals", "via": ["solution"]}
+{"parent": "mme_released_square_scale_graded_tolerance_stages", "child": "mme_regional_tolerance_window_data", "via": ["solution", "statement"]}
+{"parent": "mme_released_square_scale_graded_tolerance_stages", "child": "mme_released_positive_frame_supported_child_words", "via": ["solution"]}
+{"parent": "mme_released_square_scale_graded_tolerance_stages", "child": "mme_released_positive_integer_frame", "via": ["solution"]}
+{"parent": "mme_released_square_scale_graded_tolerance_stages", "child": "mme_released_positive_integer_frame_data", "via": ["solution", "statement"]}
 {"parent": "mme_repeated_extraction_six_matrix_weight_rate", "child": "mme_six_repeated_matrix_family_weight", "via": ["solution", "statement"]}
 {"parent": "mme_repeated_restriction_asymptoticRank_le", "child": "mme_duality", "via": ["solution", "statement"]}
 {"parent": "mme_repeated_restriction_asymptoticRank_le", "child": "mme_rank_bridge", "via": ["solution", "statement"]}

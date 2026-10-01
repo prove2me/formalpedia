@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Increase_prop7_optimal_stationary_criterion
 -- name    : MonotoneDP.Increase.prop7_optimal_stationary_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:58:55.778747+00:00
 -- url     : https://prove2.me/theorems/27e956fb-4bee-4ed9-b8bc-d64b78a2dbc6

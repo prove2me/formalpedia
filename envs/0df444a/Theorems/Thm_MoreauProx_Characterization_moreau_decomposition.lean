@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoreauProx_Characterization_moreau_decomposition
 -- name    : MoreauProx.Characterization.moreau_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:18:36.356161+00:00
 -- url     : https://prove2.me/theorems/8d6be128-11c6-4cdd-b687-bcae5b618cad

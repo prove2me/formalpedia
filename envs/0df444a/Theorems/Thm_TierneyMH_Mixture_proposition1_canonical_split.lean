@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Mixture_proposition1_canonical_split
 -- name    : TierneyMH.Mixture.proposition1_canonical_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T02:36:41.51637+00:00
 -- url     : https://prove2.me/theorems/20bb8939-07a0-4701-b82e-b0dea202c870

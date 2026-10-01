@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Peskun_asymptotic_variance_exists
 -- name    : TierneyMH.Peskun.asymptotic_variance_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:42:39.138674+00:00
 -- url     : https://prove2.me/theorems/0aca3722-347d-4d0e-9deb-20c67d4d4d86

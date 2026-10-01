@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_lemma18_consistent_generalizing_aerm
 -- name    : LearnStability.Characterization.lemma18_consistent_generalizing_aerm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:12:42.611412+00:00
 -- url     : https://prove2.me/theorems/19132377-8ed1-4446-a61b-de4186f5fda3

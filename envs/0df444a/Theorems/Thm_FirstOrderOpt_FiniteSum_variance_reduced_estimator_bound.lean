@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstOrderOpt_FiniteSum_variance_reduced_estimator_bound
 -- name    : FirstOrderOpt.FiniteSum.variance_reduced_estimator_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:01:18.361981+00:00
 -- url     : https://prove2.me/theorems/d64513f6-1d80-4d2b-97a9-8a68865e8906

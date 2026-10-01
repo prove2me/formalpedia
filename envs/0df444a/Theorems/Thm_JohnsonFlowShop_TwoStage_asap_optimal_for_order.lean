@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_TwoStage_asap_optimal_for_order
 -- name    : JohnsonFlowShop.TwoStage.asap_optimal_for_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:38:58.801985+00:00
 -- url     : https://prove2.me/theorems/0e9377a9-9d73-43cd-a080-d677b45dc18e

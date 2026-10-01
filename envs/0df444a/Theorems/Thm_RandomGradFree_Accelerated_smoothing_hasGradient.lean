@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Accelerated_smoothing_hasGradient
 -- name    : RandomGradFree.Accelerated.smoothing_hasGradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:09:13.709827+00:00
 -- url     : https://prove2.me/theorems/f4f0c33d-027c-4b3b-a010-eff23b1d8b4d

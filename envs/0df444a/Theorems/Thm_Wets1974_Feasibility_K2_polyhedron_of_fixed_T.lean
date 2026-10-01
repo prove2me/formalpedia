@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Feasibility_K2_polyhedron_of_fixed_T
 -- name    : Wets1974.Feasibility.K2_polyhedron_of_fixed_T
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:33:22.384478+00:00
 -- url     : https://prove2.me/theorems/7ef65f02-75a7-44b5-a2b6-0722f5be6bf4

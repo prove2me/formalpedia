@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_multipliers_unique
 -- name    : BayesRouting.VOI.multipliers_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:58:53.576762+00:00
 -- url     : https://prove2.me/theorems/6222b0cd-9223-4acb-be92-a12855408010

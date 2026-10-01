@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_Defect_tightGraph_not_colorable_two
 -- name    : LovaszSchrijver.Defect.tightGraph_not_colorable_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:53:53.021503+00:00
 -- url     : https://prove2.me/theorems/e4cfffd4-6216-4608-8924-3c54dc232201

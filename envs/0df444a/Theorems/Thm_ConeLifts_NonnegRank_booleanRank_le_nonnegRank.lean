@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_NonnegRank_booleanRank_le_nonnegRank
 -- name    : ConeLifts.NonnegRank.booleanRank_le_nonnegRank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:11:59.130996+00:00
 -- url     : https://prove2.me/theorems/d8cb4dcd-dfc4-44f3-b117-94901979efee

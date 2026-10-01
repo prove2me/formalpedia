@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Increase_prop12_compactness_convergence
 -- name    : MonotoneDP.Increase.prop12_compactness_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:01:34.921062+00:00
 -- url     : https://prove2.me/theorems/600b20ce-1e4a-4308-97de-510d6ced5d18

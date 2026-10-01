@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxOptRL_CPI_conservative_update_step_size
 -- name    : ApproxOptRL.CPI.conservative_update_step_size
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:45:45.500995+00:00
 -- url     : https://prove2.me/theorems/b8e70880-d5be-4e3d-bc70-0dd187c2a700

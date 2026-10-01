@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_adaptive_greedy_indices_eq_gittins
 -- name    : AllocationIndices.adaptive_greedy_indices_eq_gittins
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:54:00.257637+00:00
 -- url     : https://prove2.me/theorems/965ab2d9-398d-4dca-9a6c-d737d8ee9fa7

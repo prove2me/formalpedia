@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Kernels_pds_closure_properties
 -- name    : FoundationsML.Kernels.pds_closure_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:00:58.803268+00:00
 -- url     : https://prove2.me/theorems/6510ec44-2bd9-4bf5-9393-54ee323e75b7

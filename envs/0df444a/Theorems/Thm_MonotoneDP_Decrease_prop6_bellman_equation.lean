@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Decrease_prop6_bellman_equation
 -- name    : MonotoneDP.Decrease.prop6_bellman_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:04:22.534434+00:00
 -- url     : https://prove2.me/theorems/4c265d6e-1987-4fda-93c8-38570ee7ce4e

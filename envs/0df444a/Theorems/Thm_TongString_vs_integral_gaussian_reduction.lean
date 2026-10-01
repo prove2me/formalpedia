@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_vs_integral_gaussian_reduction
 -- name    : TongString.vs_integral_gaussian_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T20:54:59.329818+00:00
 -- url     : https://prove2.me/theorems/bd711784-997d-42ea-92aa-84664fda8ab7

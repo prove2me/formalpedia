@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Selection_theorem1_aCost_eq_of_eq_below
 -- name    : VeinottWagnerSS.Selection.theorem1_aCost_eq_of_eq_below
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:07:41.944897+00:00
 -- url     : https://prove2.me/theorems/f8ea52fd-ffc9-49d4-b5bb-cb341cdd0d47

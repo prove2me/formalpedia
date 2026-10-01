@@ -3358,8 +3358,8 @@
 {"parent": "BooleanValuedRealization.sat_fls", "child": "Logic_Multiverse_ButtonsSwitches", "via": ["solution", "statement"]}
 {"parent": "BooleanValuedRealization.sat_imp", "child": "Logic_Multiverse_BooleanValuedRealization", "via": ["solution", "statement"]}
 {"parent": "BooleanValuedRealization.sat_imp", "child": "Logic_Multiverse_ButtonsSwitches", "via": ["solution", "statement"]}
-{"parent": "BooleanValuedRealization.sat_quot_iff", "child": "Logic_Multiverse_BooleanValuedRealization", "via": ["statement"]}
-{"parent": "BooleanValuedRealization.sat_quot_iff", "child": "Logic_Multiverse_ButtonsSwitches", "via": ["statement"]}
+{"parent": "BooleanValuedRealization.sat_quot_iff", "child": "Logic_Multiverse_BooleanValuedRealization", "via": ["solution", "statement"]}
+{"parent": "BooleanValuedRealization.sat_quot_iff", "child": "Logic_Multiverse_ButtonsSwitches", "via": ["solution", "statement"]}
 {"parent": "BorsukUlamArrow.borsuk_ulam_1d", "child": "Novelty_BorsukUlamArrow", "via": ["solution", "statement"]}
 {"parent": "BoundaryEntropySemimodule.separated", "child": "Bridges_UltrametricHolographicRenormalization", "via": ["solution", "statement"]}
 {"parent": "BourgainSlicingConnector.exists_width_le_one", "child": "Shared_BourgainSlicingConnector_BourgainSlicingConnector", "via": ["solution", "statement"]}
@@ -10919,6 +10919,84 @@
 {"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.PrintedContour.zudilinJ_enclosure", "child": "ErdosProblems_Erdos1049_RationalBaseContour", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.PrintedContour.zudilinJ_enclosure", "child": "ErdosProblems_Erdos1049_ZudilinConeArithmetic", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.PrintedContour.zudilinJ_enclosure", "child": "ErdosProblems_Erdos1049_ZudilinHeightRegion", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_ActualAGrowthR14", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_ActualSourceAnalyticIdentityR14", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_ActualSourceResiduesR14", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_BezoutPluckerJets", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_FiniteResidueInterpolationR14", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_G02ArithmeticR16", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_G02CyclotomicR16", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_G02SourceRatesR16", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_G02WeightedBlocksR16", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_GaussianDegreeR12", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_IrrationalityExponentR11", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_LambertSourceSummationR14", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_MeasureConstantsR10", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_PaperAsymptoticsR9", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_PaperCompleteR21_RationalBaseThreshold", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_PaperLinearFormsR7", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_PaperOmegaIndicatorR7", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_PaperR17_SourceConsumers", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_PaperShortCapR9", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_QBinomialUnitIdentity", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_QProductBoundsR10", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_QuadraticMeasureR10", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_RationalBaseContour", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_ReciprocalPochhammerR14", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_RootUnityLocalCancellationR13", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceBClearingR12", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceBMonomialR12", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceBTopDegreeR13", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceFiniteTransformR12", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceHeightRateR14", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceHomogeneousR12", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceOmegaCancellationR13", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourcePolynomialR11", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourcePositiveHBoundsR10", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceRootBlocksR13", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_SourceRootCarriesR13", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_WeightedFloorBlocksR12", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_ZudilinConeArithmetic", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rational_base_measure_uniform", "child": "ErdosProblems_Erdos1049_ZudilinHeightRegion", "via": ["statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_ActualAGrowthR14", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_ActualSourceAnalyticIdentityR14", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_ActualSourceResiduesR14", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_BezoutPluckerJets", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_FiniteResidueInterpolationR14", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_G02ArithmeticR16", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_G02CyclotomicR16", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_G02SourceRatesR16", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_G02WeightedBlocksR16", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_GaussianDegreeR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_IrrationalityExponentR11", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_LambertSourceSummationR14", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_MeasureConstantsR10", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_PaperAsymptoticsR9", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_PaperCompleteR21_RationalBaseThreshold", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_PaperLinearFormsR7", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_PaperOmegaIndicatorR7", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_PaperR17_SourceConsumers", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_PaperShortCapR9", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_QBinomialUnitIdentity", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_QProductBoundsR10", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_QuadraticMeasureR10", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_RationalBaseContour", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_ReciprocalPochhammerR14", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_RootUnityLocalCancellationR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceBClearingR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceBMonomialR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceBTopDegreeR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceFiniteTransformR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceHeightRateR14", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceHomogeneousR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceOmegaCancellationR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourcePolynomialR11", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourcePositiveHBoundsR10", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceRootBlocksR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_SourceRootCarriesR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_WeightedFloorBlocksR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_ZudilinConeArithmetic", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperCompleteR21.rpow_lt_iff_log_ratio", "child": "ErdosProblems_Erdos1049_ZudilinHeightRegion", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR10.abs_log_one_sub_le", "child": "ErdosProblems_Erdos1049_QProductBoundsR10", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR10.approximationExponentUpper_of_quadratic_forms", "child": "ErdosProblems.Erdos1049.PaperR10.separation_of_exponential_envelope", "via": ["solution"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR10.approximationExponentUpper_of_quadratic_forms", "child": "ErdosProblems.Erdos1049.PaperR9.QuadLogRate.exp_lower", "via": ["solution"]}
@@ -11775,6 +11853,19 @@
 {"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_carry", "child": "ErdosProblems_Erdos1049_SourceRootBlocksR13", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_carry", "child": "ErdosProblems_Erdos1049_SourceRootCarriesR13", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_carry", "child": "ErdosProblems_Erdos1049_ZudilinConeArithmetic", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_GaussianDegreeR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_PaperOmegaIndicatorR7", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_QBinomialUnitIdentity", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_RootUnityLocalCancellationR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourceBClearingR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourceBMonomialR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourceBTopDegreeR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourceFiniteTransformR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourceHomogeneousR12", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourcePolynomialR11", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourceRootBlocksR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_SourceRootCarriesR13", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.PaperR13.root_block_digits_no_carry", "child": "ErdosProblems_Erdos1049_ZudilinConeArithmetic", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR13.root_power_reduce", "child": "ErdosProblems_Erdos1049_GaussianDegreeR12", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR13.root_power_reduce", "child": "ErdosProblems_Erdos1049_PaperOmegaIndicatorR7", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.PaperR13.root_power_reduce", "child": "ErdosProblems_Erdos1049_QBinomialUnitIdentity", "via": ["solution", "statement"]}
@@ -12466,6 +12557,8 @@
 {"parent": "ErdosProblems.Erdos1049.summable_trigammaTerm", "child": "ErdosProblems_Erdos1049_ZudilinHeightRegion", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.zudilinC1_pos", "child": "ErdosProblems_Erdos1049_RationalBaseContour", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos1049.zudilinC1_pos", "child": "ErdosProblems_Erdos1049_ZudilinHeightRegion", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.zudilinContourRegion_pow", "child": "ErdosProblems_Erdos1049_RationalBaseContour", "via": ["solution", "statement"]}
+{"parent": "ErdosProblems.Erdos1049.zudilinContourRegion_pow", "child": "ErdosProblems_Erdos1049_ZudilinHeightRegion", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.CoefficientDivisorFence.stays_below_fence", "child": "ErdosProblems.Erdos243.CoefficientDivisorFence.no_jump_through_fence", "via": ["solution"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.covering_of_crt_block", "child": "ErdosProblems_Erdos243_LcmRecordCrossing", "via": ["solution", "statement"]}
 {"parent": "ErdosProblems.Erdos243.LcmRecordCrossing.covering_of_crt_block", "child": "ErdosProblems_Erdos243_ReciprocalTailRigidity", "via": ["solution", "statement"]}
@@ -23581,6 +23674,9 @@
 {"parent": "EtaHead.Jet.zpow", "child": "Tropical_EtaQuotientHeadCoeff", "via": ["solution", "statement"]}
 {"parent": "EtaHead.jet_etaQuotientProd", "child": "Tropical_EtaQuotientHeadCoeff", "via": ["solution", "statement"]}
 {"parent": "EtaHead.jet_oneSubXPow_ge_three", "child": "Tropical_EtaQuotientHeadCoeff", "via": ["solution", "statement"]}
+{"parent": "EuclideanSpace.volume_preserving_finTwoCoordinatesSwap", "child": "EuclideanSpace.volume_preserving_finTwoCoordinates", "via": ["solution"]}
+{"parent": "EuclideanSpace.volume_preserving_finTwoCoordinatesSwap", "child": "MovingSofa_ForMathlib_EuclideanSpace", "via": ["solution", "statement"]}
+{"parent": "EuclideanSpace.volume_setOf_apply_mem_Icc", "child": "EuclideanSpace.volume_preserving_finTwoCoordinates", "via": ["solution"]}
 {"parent": "EulerMascheroni.hasSum_gterm", "child": "MachineLearning_EulerMascheroni_SeriesRepresentation", "via": ["solution", "statement"]}
 {"parent": "EulerMascheroniInformationBridge.exponentialKL_eq_zero_iff", "child": "Shared_EulerMascheroniInformationBridge", "via": ["solution", "statement"]}
 {"parent": "EulerMascheroniInformationBridge.gammaTerm_le_rational", "child": "Shared_EulerMascheroniInformationBridge", "via": ["solution", "statement"]}
@@ -30654,6 +30750,11 @@
 {"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic", "child": "MarkovChainPathMeasure", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic", "child": "MixingCoefficients", "via": ["statement"]}
+{"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MarkovChainCLT.alphaMixingCoef_le_quarter", "via": ["solution"]}
+{"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MarkovChainCLT.alpha_mixing_le_tv_rate", "via": ["solution"]}
+{"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MarkovChainCLT.ergodicWithRate_of_geoDriftCondition", "via": ["solution"]}
+{"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic", "via": ["solution"]}
+{"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MarkovChainCLT.integrable_of_geoDriftCondition", "via": ["solution"]}
 {"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MarkovErgodicity", "via": ["statement"]}
 {"parent": "MarkovChainCLT.alphaMixingCoef_exp_of_geometricallyErgodic_of_countablyGenerated", "child": "MixingCoefficients", "via": ["statement"]}
@@ -30852,17 +30953,30 @@
 {"parent": "MarkovChainCLT.delta_method_of_uniformly_ergodic_of_measurable", "child": "MarkovChainCLT.integral_sq_scaled_sampleAvg_le", "via": ["solution"]}
 {"parent": "MarkovChainCLT.delta_method_of_uniformly_ergodic_of_measurable", "child": "MarkovChainPathMeasure", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.delta_method_of_uniformly_ergodic_of_measurable", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.ergodicWithRate_of_geoDriftCondition", "child": "MarkovChainCLT.abs_integral_sub_le_tvDist", "via": ["solution"]}
+{"parent": "MarkovChainCLT.ergodicWithRate_of_geoDriftCondition", "child": "MarkovChainCLT.integrable_of_geoDriftCondition", "via": ["solution"]}
+{"parent": "MarkovChainCLT.ergodicWithRate_of_geoDriftCondition", "child": "MarkovDriftMinorization", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.ergodicWithRate_of_geoDriftCondition", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.exists_countable_alpha_witnesses", "child": "MarkovChainPathMeasure", "via": ["solution"]}
 {"parent": "MarkovChainCLT.exists_countable_alpha_witnesses", "child": "MarkovErgodicity", "via": ["solution"]}
 {"parent": "MarkovChainCLT.exists_countable_alpha_witnesses", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.exists_isSmallSet_measure_pos", "child": "MarkovDriftMinorization", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.exists_isSmallSet_measure_pos", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.exists_iterKernel_pos_of_harrisErgodic", "child": "MarkovChainCLT.tendsto_iterKernel_apply_toReal_of_harrisErgodic", "via": ["solution"]}
+{"parent": "MarkovChainCLT.exists_iterKernel_pos_of_harrisErgodic", "child": "MarkovErgodicity", "via": ["statement"]}
 {"parent": "MarkovChainCLT.exists_lag_tvDist_le_of_uniformlyErgodic", "child": "MarkovChainPathMeasure", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.exists_lag_tvDist_le_of_uniformlyErgodic", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.exists_truncation_tail_variance_le_of_exp_alpha_of_log_moment", "child": "MixingCoefficients", "via": ["statement"]}
+{"parent": "MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic", "child": "MarkovChainCLT.exists_isSmallSet_measure_pos", "via": ["solution"]}
+{"parent": "MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic", "child": "MarkovChainCLT.kendall_summable_geometric_of_renewal_tendsto_geometric", "via": ["solution"]}
+{"parent": "MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic", "child": "MarkovChainCLT.measurable_tvDist_kernel", "via": ["solution"]}
+{"parent": "MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic", "child": "MarkovDriftMinorization", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.geoDriftCondition_of_geometricallyErgodic", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.indicator_cov_le_phi", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.indicator_cov_le_phi_general", "child": "MarkovChainCLT.indicator_cov_le_phi", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.indicator_cov_le_phi_general", "child": "MixingCoefficients", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.integrable_of_geoDriftCondition", "child": "MarkovDriftMinorization", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.integrable_of_geoDriftCondition", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.integrable_sq_scaled_sampleAvg", "child": "MarkovChainCLT.map_coord_chainMeasure", "via": ["solution"]}
 {"parent": "MarkovChainCLT.integrable_sq_scaled_sampleAvg", "child": "MarkovChainPathMeasure", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.integrable_sq_scaled_sampleAvg", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
@@ -31057,6 +31171,7 @@
 {"parent": "MarkovChainCLT.tendstoInMeasure_inv_sqrt_coord_sub", "child": "MarkovChainPathMeasure", "via": ["statement"]}
 {"parent": "MarkovChainCLT.tendstoInMeasure_inv_sqrt_coord_sub", "child": "MarkovErgodicity", "via": ["statement"]}
 {"parent": "MarkovChainCLT.tendsto_inv_mul_integral_sq_partialSum", "child": "MixingCoefficients", "via": ["solution", "statement"]}
+{"parent": "MarkovChainCLT.tendsto_iterKernel_apply_toReal_of_harrisErgodic", "child": "MarkovErgodicity", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.tendsto_nat_mul_alphaMixingCoef_of_summable", "child": "MarkovChainCLT.alphaMixingCoef_antitone", "via": ["solution"]}
 {"parent": "MarkovChainCLT.tendsto_nat_mul_alphaMixingCoef_of_summable", "child": "MixingCoefficients", "via": ["solution", "statement"]}
 {"parent": "MarkovChainCLT.traj_map_shift_add_eq_comp_iter", "child": "MarkovChainCLT.markovChainKernel_map_shift_iter", "via": ["solution"]}
@@ -31912,6 +32027,8 @@
 {"parent": "MordellDenominators.padicValNat_den_of_eq_div", "child": "MordellDenominators.num_mul_den_eq", "via": ["solution"]}
 {"parent": "MordellDenominators.prime_dvd_den_of_eq_div", "child": "Cryptography_MordellDenominators_Basic", "via": ["solution", "statement"]}
 {"parent": "MordellDenominators.prime_dvd_den_of_eq_div", "child": "MordellDenominators.num_mul_den_eq", "via": ["solution"]}
+{"parent": "MovingSofa.ForMathlib.hasDerivWithinAt_Ici_nonneg", "child": "MovingSofa.ForMathlib.one_mem_posTangentConeAt_Ici", "via": ["solution"]}
+{"parent": "MovingSofa.ForMathlib.hasDerivWithinAt_Iic_nonpos", "child": "MovingSofa.ForMathlib.neg_one_mem_posTangentConeAt_Iic", "via": ["solution"]}
 {"parent": "MovingSofa.GerversSofa.ABphiThetaSpec.existsUnique", "child": "MovingSofa_Basic", "via": ["statement"]}
 {"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
 {"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
@@ -37704,6 +37821,7 @@
 {"parent": "RybinAI2026.P01.diagonal_pair_contraction_from_envelopes", "child": "RybinAI2026.P01.diagonal_pair_coefficient_bound", "via": ["solution", "statement"]}
 {"parent": "RybinAI2026.P01.diagonal_pair_high_ratio_bounds", "child": "RybinAI2026.P01.ratio_bound_of_slope_weight_antitone", "via": ["solution", "statement"]}
 {"parent": "RybinAI2026.P01.diagonal_pair_ratio_from_envelopes", "child": "RybinAI2026.P01.diagonal_pair_coefficient_bound", "via": ["solution", "statement"]}
+{"parent": "RybinAI2026.P01.offdiag_pair_angle_integral", "child": "RybinAI2026.P01.offdiag_denominator_pairing", "via": ["solution"]}
 {"parent": "RybinAI2026.P01.psi_fractional_order_properties", "child": "RybinAI2026.P01.fractional_kernel_pointwise_order", "via": ["solution", "statement"]}
 {"parent": "RybinAI2026.P01.psi_fractional_order_properties", "child": "RybinAI2026.P01.psi_fractional_kernel_representation", "via": ["solution", "statement"]}
 {"parent": "RybinAI2026.P01.psi_fractional_order_properties", "child": "RybinAI2026.P01.psi_integral_pos", "via": ["solution", "statement"]}
@@ -38499,7 +38617,7 @@
 {"parent": "SignedSperner.signed_count", "child": "Novelty_SignedSperner", "via": ["solution", "statement"]}
 {"parent": "SignlessLaplacian.slQuad_le", "child": "Geometry_SignlessLaplacian_Core", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.card_add_card_le_indepNum_succ", "child": "Novelty_IndependenceRatioChromatic", "via": ["statement"]}
-{"parent": "SimpleGraph.IsOneSum.card_add_card_le_indepNum_succ", "child": "Novelty_OneSumEqualityAnalysis", "via": ["statement"]}
+{"parent": "SimpleGraph.IsOneSum.card_add_card_le_indepNum_succ", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.card_add_indicator_eq", "child": "Novelty_IndependenceRatioChromatic", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.card_add_indicator_eq", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.chromaticNumber_eq_max", "child": "Novelty_IndependenceRatioChromatic", "via": ["solution", "statement"]}
@@ -38507,13 +38625,13 @@
 {"parent": "SimpleGraph.IsOneSum.colorable", "child": "Novelty_IndependenceRatioChromatic", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.colorable", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.indepRatio_ge_of_sides", "child": "Novelty_IndependenceRatioChromatic", "via": ["statement"]}
-{"parent": "SimpleGraph.IsOneSum.indepRatio_ge_of_sides", "child": "Novelty_OneSumEqualityAnalysis", "via": ["statement"]}
+{"parent": "SimpleGraph.IsOneSum.indepRatio_ge_of_sides", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.indepRatio_ge_quarter", "child": "Novelty_IndependenceRatioChromatic", "via": ["statement"]}
-{"parent": "SimpleGraph.IsOneSum.indepRatio_ge_quarter", "child": "Novelty_OneSumEqualityAnalysis", "via": ["statement"]}
+{"parent": "SimpleGraph.IsOneSum.indepRatio_ge_quarter", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.isClique_left_or_right", "child": "Novelty_IndependenceRatioChromatic", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.isClique_left_or_right", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsOneSum.isIndepSet_union", "child": "Novelty_IndependenceRatioChromatic", "via": ["statement"]}
-{"parent": "SimpleGraph.IsOneSum.isIndepSet_union", "child": "Novelty_OneSumEqualityAnalysis", "via": ["statement"]}
+{"parent": "SimpleGraph.IsOneSum.isIndepSet_union", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsStarSum.card_le_seven_mul_indepNum", "child": "Novelty_IndependenceRatioChromatic", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsStarSum.card_le_seven_mul_indepNum", "child": "Novelty_OneSumEqualityAnalysis", "via": ["solution", "statement"]}
 {"parent": "SimpleGraph.IsStarSum.card_le_seven_mul_indepNum", "child": "Novelty_OneSumStarAmalgam", "via": ["solution", "statement"]}

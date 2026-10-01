@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XuMannorRobust_Quantile_property2_stochastic_dominance
 -- name    : XuMannorRobust.Quantile.property2_stochastic_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T16:13:27.250415+00:00
 -- url     : https://prove2.me/theorems/8cedd0b2-d20d-456f-9a97-25f9993b3819

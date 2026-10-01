@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_ActiveSet_stationary_iff_kuhnTucker
 -- name    : CalamaiMore.ActiveSet.stationary_iff_kuhnTucker
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:55:13.535035+00:00
 -- url     : https://prove2.me/theorems/67c21a13-d5c0-48a3-aed3-e0dbb73e30c8

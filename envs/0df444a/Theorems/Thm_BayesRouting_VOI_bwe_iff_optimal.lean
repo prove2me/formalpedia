@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_bwe_iff_optimal
 -- name    : BayesRouting.VOI.bwe_iff_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:54:05.922423+00:00
 -- url     : https://prove2.me/theorems/c7028e06-4ec9-4acf-b31f-2028b44484db

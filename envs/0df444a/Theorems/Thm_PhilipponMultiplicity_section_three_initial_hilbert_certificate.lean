@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_section_three_initial_hilbert_certificate
 -- name    : PhilipponMultiplicity.section_three_initial_hilbert_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-09-30T10:34:30.87399+00:00
 -- url     : https://prove2.me/theorems/11c07ecc-1959-4db9-8120-5e015bcd9caf
@@ -21,7 +21,7 @@
 --
 --   This is the initial-ideal computation needed for the degree-four versus degree-six counterexample to an unconditional component-sum inequality. The ideal here is the exact three-generator ideal, without radicalization or an additional generator. The printed assertion that it is prime is not an assumption: in fact it is nonradical, as witnessed by $AC^2-BDE$.
 --
---   **Formalization Note** The Hilbert polynomial and component sum are the mission's existing canonical constructions. The component sum is evaluated at degree one on the full maximal spectrum, so every relevant minimal prime is included. These two equalities are open computational obligations; the dimension and ordinary degree follow separately from the displayed Hilbert polynomial.
+--   **Formalization Note** The Hilbert polynomial and component sum are the mission's existing canonical constructions. The component sum is evaluated at degree one on the full maximal spectrum, so every relevant minimal prime is included. The dimension and ordinary degree follow separately from the displayed Hilbert polynomial.
 -- source:
 --   P. Philippon, Lemmes de zéros dans les groupes algébriques commutatifs, Bulletin de la SMF 114 (1986), pp. 370–371, explicit Section 3 counterexample. The printed ideal is retained; its printed primality assertion is corrected. https://numdam.org/articles/10.24033/bsmf.2060/
 

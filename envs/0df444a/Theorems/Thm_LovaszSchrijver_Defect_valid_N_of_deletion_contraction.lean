@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_Defect_valid_N_of_deletion_contraction
 -- name    : LovaszSchrijver.Defect.valid_N_of_deletion_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:55:33.432707+00:00
 -- url     : https://prove2.me/theorems/bb9488d8-a52d-4e66-8b25-a98e46c40eb2

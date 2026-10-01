@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Lasso_theorem_7_2
 -- name    : LassoDantzig.Lasso.theorem_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:22:05.479259+00:00
 -- url     : https://prove2.me/theorems/efe91fce-8cbe-4016-b697-1328b6423950

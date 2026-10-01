@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_closed_convex_line_free_extremePoint_exists
 -- name    : Grunbaum2003.closed_convex_line_free_extremePoint_exists
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T06:46:46.086747+00:00
 -- url     : https://prove2.me/theorems/76a536d4-ef0e-4d90-87cb-886fe4cfafde

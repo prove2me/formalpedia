@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonMilman_Diameter_theorem_2_6
 -- name    : AlonMilman.Diameter.theorem_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:28:35.045671+00:00
 -- url     : https://prove2.me/theorems/7449faee-b56c-4a99-862d-b7d80bf85599

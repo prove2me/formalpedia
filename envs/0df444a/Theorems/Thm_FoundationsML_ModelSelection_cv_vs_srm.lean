@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_ModelSelection_cv_vs_srm
 -- name    : FoundationsML.ModelSelection.cv_vs_srm
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:23:55.128362+00:00
 -- url     : https://prove2.me/theorems/1931ec0f-25e9-491b-8ac0-662ca6d33518

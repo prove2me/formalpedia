@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_SmallItems_basic_weight_ge
 -- name    : BinPacking.SmallItems.basic_weight_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:21:03.778511+00:00
 -- url     : https://prove2.me/theorems/ffb69a58-60f4-441e-8c86-1d371858d0f5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMKL_finite_termination
 -- name    : NonconvexSplitting.ADMMKL.finite_termination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:29:16.041829+00:00
 -- url     : https://prove2.me/theorems/a1baa2d4-d818-436e-8ea5-3d095b3619fd

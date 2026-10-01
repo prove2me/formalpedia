@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_dedekindEta_neg_inv
 -- name    : TongString.dedekindEta_neg_inv
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T21:48:29.123727+00:00
 -- url     : https://prove2.me/theorems/89d4a164-97dc-40b7-9f99-78906dafdc3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_EntropyInner_mu_elimination
 -- name    : RobustMDP.EntropyInner.mu_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:31:24.53681+00:00
 -- url     : https://prove2.me/theorems/3c0afbb4-b0d6-4cd6-a88a-cd2c509c4bf4

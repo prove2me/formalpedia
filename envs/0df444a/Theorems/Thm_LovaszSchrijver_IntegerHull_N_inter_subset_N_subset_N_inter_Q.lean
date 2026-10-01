@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_IntegerHull_N_inter_subset_N_subset_N_inter_Q
 -- name    : LovaszSchrijver.IntegerHull.N_inter_subset_N_subset_N_inter_Q
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:43:20.673678+00:00
 -- url     : https://prove2.me/theorems/75e5009f-d06a-4ff4-a209-99da2e343826

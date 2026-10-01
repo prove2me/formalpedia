@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_DiscreteLog_good_c_prob_ge
 -- name    : ShorAlgorithms.DiscreteLog.good_c_prob_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T01:25:43.034478+00:00
 -- url     : https://prove2.me/theorems/689269cf-29e3-408d-bf01-a6cbe69c490e

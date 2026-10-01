@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_TwoStage_makespan_asap_eq
 -- name    : JohnsonFlowShop.TwoStage.makespan_asap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:39:33.328521+00:00
 -- url     : https://prove2.me/theorems/97b9174d-4b09-4a45-a1a5-61af889a127f

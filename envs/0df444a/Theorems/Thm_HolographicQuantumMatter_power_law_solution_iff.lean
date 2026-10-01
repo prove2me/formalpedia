@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicQuantumMatter_power_law_solution_iff
 -- name    : HolographicQuantumMatter.power_law_solution_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:44:30.125849+00:00
 -- url     : https://prove2.me/theorems/448639e3-b196-45b4-8e02-72bcaa2fdcd4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicaiseDelayWave_InternalInstab_case_b_intermediate_value
 -- name    : NicaiseDelayWave.InternalInstab.case_b_intermediate_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T22:11:18.906872+00:00
 -- url     : https://prove2.me/theorems/5fd4d4ba-bbc1-4983-907d-47e3f0a888c4

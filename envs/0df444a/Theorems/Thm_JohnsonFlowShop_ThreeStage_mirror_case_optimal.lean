@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_ThreeStage_mirror_case_optimal
 -- name    : JohnsonFlowShop.ThreeStage.mirror_case_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T16:52:21.267436+00:00
 -- url     : https://prove2.me/theorems/56e044fc-1b40-47a9-9104-fe40d837d1b7

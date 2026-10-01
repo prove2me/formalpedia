@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomVectors_concentration_of_the_norm
 -- name    : HighDimProb.RandomVectors.concentration_of_the_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-18T06:41:43.571673+00:00
 -- url     : https://prove2.me/theorems/a0785418-5e14-40c2-9ddc-cadaffdf0bd0

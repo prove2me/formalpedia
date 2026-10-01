@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_GainRate_gain_rate_improvement_identity
 -- name    : JewellMRP.GainRate.gain_rate_improvement_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:25:56.694081+00:00
 -- url     : https://prove2.me/theorems/1ad7eef5-8eae-410c-9805-64b865374a7e

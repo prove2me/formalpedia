@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedCE_Forecast_regret_sandwich_fractional_calibration
 -- name    : CalibratedCE.Forecast.regret_sandwich_fractional_calibration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:37:46.785266+00:00
 -- url     : https://prove2.me/theorems/433c55ec-e349-4094-b433-c351ab0313b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Bounds_SLow_characterization
 -- name    : VeinottWagnerSS.Bounds.SLow_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:36:05.088466+00:00
 -- url     : https://prove2.me/theorems/39d520aa-baf0-4a44-a113-678aa5a0ed56

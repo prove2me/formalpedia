@@ -1,0 +1,455 @@
+-- Prove2me | Definitions.Def_Yukon_13e8bc1bb87885041af4460c
+-- name    : Yukon_13e8bc1bb87885041af4460c
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T18:03:19.242762+00:00
+-- url     : https://prove2.me/theorems/92ff13d6-deb7-4838-bae9-74df128531da
+-- title:
+--   YukonModule.PolyFun.PFunctor.Dynamical.Run.part0
+-- statement:
+--   Source module PolyFun.PFunctor.Dynamical.Run.
+-- source:
+--   https://github.com/Verified-zkEVM/PolyFun/blob/dd77aa91dd425ebaec4388270f3a8e3dc7ace571/PolyFun/PFunctor/Dynamical/Run.lean
+--
+--   yukon-proof-operation:d6bff48b4f7f51b35bd852663e48a912a4e1abd7c6b3c9853fe69caa94b87c0e
+--   [yukon-proof-receipt:eyJ2IjoxLCJtYXJrZXIiOiJ5dWtvbi1wcm9vZi1vcGVyYXRpb246ZDZiZmY0OGI0ZjdmNTFiMzViZDg1MjY2M2U0OGE5MTJhNGUxYWJkN2M2YjNjOTg1M2ZlNjljYWE5NGI4N2MwZSIsImhhc2giOiI1MjZkNWRmMTlmZjk4NjIzY2I5NzE0YjI0ZDI5YWVkY2IwNmE4YzJlMWIwM2YxMmNlZmZjNjgxMmQyZWVhZTQ0Iiwia2luZCI6ImRlZmluaXRpb24iLCJ0YXJnZXQiOiJZdWtvbl8xM2U4YmMxYmI4Nzg4NTA0MWFmNDQ2MGMiLCJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJ0YWciOiJiZXR0ZXItY29kZXMifQ]
+
+/-
+Copyright (c) 2026 PolyFun Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Devon Tuma
+-/
+module
+
+public import Definitions.Def_Yukon_639fdbc365c0d9346f33b12e
+
+
+
+public import Batteries.Tactic.Lint
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+public import Init
+public import Mathlib.Data.FunLike.Basic
+meta import Definitions.Def_Yukon_639fdbc365c0d9346f33b12e
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# Running dynamical systems
+
+The run semantics of dynamical systems: finite and infinite orbits of a general
+`p`-system, and the classical input-driven semantics of Moore machines
+(Niu–Spivak §4.1: a Moore machine consumes a sequence of inputs, threading the
+state through its transition function and observing an output at each visited
+state).
+
+For a general `p`-system:
+
+* `DynSystem.Prefix` — a finite orbit: a chosen direction at each visited
+  state, with `Prefix.last` reading off the final state visited.
+* `DynSystem.ReachableIn` — `n`-step reachability: some length-`n` finite
+  orbit connects the two states.
+* `DynSystem.Run` — an infinite orbit: the state at each time, the direction
+  chosen there, and the proof that states follow the transition; with
+  `Run.take` truncating to a `Prefix` and `Run.eventsUpTo` / `Run.ticketsUpTo`
+  reading off labels along the way.
+* `DynSystem.Run.RelUpTo` / `DynSystem.Run.Rel` — step-by-step matching of two
+  runs by a `StepRel`.
+
+For Moore machines and closed systems:
+
+* `MooreMachine.stepInput` — a single input step.
+* `MooreMachine.run` — the final state after folding a list of inputs.
+* `MooreMachine.trace` — the list of outputs observed along the way (classical
+  Moore semantics: one more output than inputs, including the initial output).
+* `MooreMachine.outputOn` — the final output after consuming a word.
+* `DeterministicAutomaton.accepts` — language membership for a Boolean automaton.
+* `MooreMachine.streamRun` / `Closed.iterateRun` — the input-stream and
+  closed-system orbits as generic `Run`s, with `state_eq_stateStream` /
+  `state_eq_iterate` identifying every generic run with them.
+-/
+
+@[expose] public section
+
+universe u u₁ u₂ uA uB uA₂ uB₂ uO uI w
+
+namespace PFunctor
+
+namespace DynSystem
+
+variable {S : Type u} {p : PFunctor.{uA, uB}} {q : PFunctor.{uA₂, uB₂}}
+
+/-! ## Finite and infinite orbits -/
+
+/-- A length-`n` finite orbit of a `p`-system from `st`: at each step, a chosen
+direction at the exposed position, then a shorter orbit from the successor
+state. Unlike a run to quiescence, a `Prefix` may stop at any state, making it
+the finite-truncation object for infinite runs (see `Run.take`). -/
+inductive Prefix (s : DynSystem S p) : S → ℕ → Sort _ where
+  | /-- The empty orbit. -/
+    nil {st : S} : Prefix s st 0
+  | /-- Extend an orbit by one chosen direction at the current state. -/
+    step {st : S} {n : ℕ} (d : p.B (s.expose st)) :
+      Prefix s (s.update st d) n → Prefix s st n.succ
+
+namespace Prefix
+
+/-- The stable event labels attached to the steps of a finite orbit. -/
+def events {s : DynSystem S p} {Event : Type w} (eventMap : s.EventMap Event) :
+    {st : S} → {n : ℕ} → Prefix s st n → List Event
+  | _, _, .nil => []
+  | st, _, .step d tail => eventMap st d :: tail.events eventMap
+
+/-- The stable tickets attached to the steps of a finite orbit. -/
+def tickets {s : DynSystem S p} {Ticket : Type w} (ticketMap : s.Tickets Ticket) :
+    {st : S} → {n : ℕ} → Prefix s st n → List Ticket
+  | _, _, .nil => []
+  | st, _, .step d tail => ticketMap st d :: tail.tickets ticketMap
+
+/-- The final state visited by a finite orbit. -/
+def last {s : DynSystem S p} : {st : S} → {n : ℕ} → Prefix s st n → S
+  | st, _, .nil => st
+  | _, _, .step _ tail => tail.last
+
+@[simp] theorem events_nil {s : DynSystem S p} {Event : Type w}
+    (eventMap : s.EventMap Event) {st : S} :
+    events eventMap (.nil : Prefix s st 0) = [] := rfl
+
+@[simp] theorem tickets_nil {s : DynSystem S p} {Ticket : Type w}
+    (ticketMap : s.Tickets Ticket) {st : S} :
+    tickets ticketMap (.nil : Prefix s st 0) = [] := rfl
+
+@[simp] theorem events_step {s : DynSystem S p} {Event : Type w}
+    (eventMap : s.EventMap Event) {st : S} {n : ℕ}
+    (d : p.B (s.expose st)) (tail : Prefix s (s.update st d) n) :
+    events eventMap (.step d tail) = eventMap st d :: tail.events eventMap := rfl
+
+@[simp] theorem tickets_step {s : DynSystem S p} {Ticket : Type w}
+    (ticketMap : s.Tickets Ticket) {st : S} {n : ℕ}
+    (d : p.B (s.expose st)) (tail : Prefix s (s.update st d) n) :
+    tickets ticketMap (.step d tail) = ticketMap st d :: tail.tickets ticketMap := rfl
+
+@[simp] theorem last_nil {s : DynSystem S p} {st : S} :
+    (.nil : Prefix s st 0).last = st := rfl
+
+@[simp] theorem last_step {s : DynSystem S p} {st : S} {n : ℕ}
+    (d : p.B (s.expose st)) (tail : Prefix s (s.update st d) n) :
+    (Prefix.step d tail).last = tail.last := rfl
+
+end Prefix
+
+/-! ## Reachability -/
+
+/-- `ReachableIn s n st st'`: the state `st'` is reachable from `st` in exactly
+`n` steps of the system `s` under some choice of directions — some length-`n`
+finite orbit from `st` ends at `st'`. -/
+def ReachableIn (s : DynSystem S p) (n : ℕ) (st st' : S) : Prop :=
+  ∃ pre : Prefix s st n, pre.last = st'
+
+/-- Every state is reachable from itself in zero steps. -/
+theorem ReachableIn.refl (s : DynSystem S p) (st : S) :
+    s.ReachableIn 0 st st :=
+  ⟨.nil, rfl⟩
+
+/-- Reachability extends by one leading step along any direction at the
+current state. -/
+theorem ReachableIn.step {s : DynSystem S p} {n : ℕ} {st st' : S}
+    (d : p.B (s.expose st)) (h : s.ReachableIn n (s.update st d) st') :
+    s.ReachableIn (n + 1) st st' := by
+  obtain ⟨pre, hpre⟩ := h
+  exact ⟨.step d pre, hpre⟩
+
+@[simp] theorem reachableIn_zero_iff {s : DynSystem S p} {st st' : S} :
+    s.ReachableIn 0 st st' ↔ st' = st := by
+  constructor
+  · rintro ⟨pre, hpre⟩
+    cases pre
+    exact hpre.symm
+  · rintro rfl
+    exact .refl s _
+
+/-- An infinite orbit of a `p`-system: the state at each time, the direction
+chosen there, and the proof that the state stream follows the transition
+function. The run does not introduce an operational state space of its own; it
+records how a state evolves when one direction is chosen at each time. -/
+structure Run (s : DynSystem S p) where
+  /-- The state at time `n`. -/
+  state : ℕ → S
+  /-- The direction chosen at the state visited at time `n`. -/
+  dir : (n : ℕ) → p.B (s.expose (state n))
+  /-- The state stream follows the transition function. -/
+  next_state : ∀ n, state (n + 1) = s.update (state n) (dir n)
+
+namespace Run
+
+variable {s : DynSystem S p}
+
+/-- The initial state of a run. -/
+def initial (r : Run s) : S := r.state 0
+
+/-- The first direction chosen by a run. -/
+def head (r : Run s) : p.B (s.expose r.initial) := r.dir 0
+
+/-- The tail of a run after its first step. -/
+def tail (r : Run s) : Run s where
+  state n := r.state n.succ
+  dir n := r.dir n.succ
+  next_state n := r.next_state n.succ
+
+/-- The initial state of `r.tail` is the successor of `r.initial` along the
+first chosen direction. -/
+theorem tail_initial (r : Run s) : r.tail.initial = s.update r.initial r.head :=
+  r.next_state 0
+
+/-- The length-`n` finite orbit truncating an infinite run. -/
+def take (r : Run s) : (n : ℕ) → Prefix s r.initial n
+  | 0 => .nil
+  | n + 1 => .step r.head (r.tail_initial ▸ r.tail.take n)
+
+@[simp] theorem take_zero (r : Run s) : r.take 0 = Prefix.nil := rfl
+
+@[simp] theorem take_succ (r : Run s) (n : ℕ) :
+    r.take (n + 1) = Prefix.step r.head (r.tail_initial ▸ r.tail.take n) := rfl
+
+/-- The stable event label attached to step `n` of a run. -/
+def event {Event : Type w} (eventMap : s.EventMap Event) (r : Run s) (n : ℕ) : Event :=
+  eventMap (r.state n) (r.dir n)
+
+/-- The stable event labels attached to the first `n` steps of a run. -/
+def eventsUpTo {Event : Type w} (eventMap : s.EventMap Event) (r : Run s) : ℕ → List Event
+  | 0 => []
+  | n + 1 => r.event eventMap 0 :: r.tail.eventsUpTo eventMap n
+
+/-- The stable ticket attached to step `n` of a run. -/
+def ticket {Ticket : Type w} (ticketMap : s.Tickets Ticket) (r : Run s) (n : ℕ) : Ticket :=
+  ticketMap (r.state n) (r.dir n)
+
+/-- The stable tickets attached to the first `n` steps of a run. -/
+def ticketsUpTo {Ticket : Type w} (ticketMap : s.Tickets Ticket) (r : Run s) : ℕ → List Ticket
+  | 0 => []
+  | n + 1 => r.ticket ticketMap 0 :: r.tail.ticketsUpTo ticketMap n
+
+@[simp] theorem eventsUpTo_zero {Event : Type w} (eventMap : s.EventMap Event) (r : Run s) :
+    r.eventsUpTo eventMap 0 = [] := rfl
+
+@[simp] theorem eventsUpTo_succ {Event : Type w} (eventMap : s.EventMap Event)
+    (r : Run s) (n : ℕ) :
+    r.eventsUpTo eventMap (n + 1) = r.event eventMap 0 :: r.tail.eventsUpTo eventMap n := rfl
+
+@[simp] theorem ticketsUpTo_zero {Ticket : Type w} (ticketMap : s.Tickets Ticket) (r : Run s) :
+    r.ticketsUpTo ticketMap 0 = [] := rfl
+
+@[simp] theorem ticketsUpTo_succ {Ticket : Type w} (ticketMap : s.Tickets Ticket)
+    (r : Run s) (n : ℕ) :
+    r.ticketsUpTo ticketMap (n + 1) = r.ticket ticketMap 0 :: r.tail.ticketsUpTo ticketMap n := rfl
+
+/-! ## Matching two runs step-by-step -/
+
+variable {S₁ : Type u₁} {S₂ : Type u₂} {s₁ : DynSystem S₁ p} {s₂ : DynSystem S₂ q}
+
+/-- `RelUpTo rel r₁ r₂ n` states that the first `n` steps of the runs `r₁` and
+`r₂` match step-by-step according to `rel`. -/
+def RelUpTo (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂) : ℕ → Prop
+  | 0 => True
+  | n + 1 => rel ⟨r₁.state 0, r₁.dir 0⟩ ⟨r₂.state 0, r₂.dir 0⟩ ∧
+      RelUpTo rel r₁.tail r₂.tail n
+
+/-- Every pair of runs matches for zero steps. -/
+@[simp] theorem relUpTo_zero (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂) :
+    RelUpTo rel r₁ r₂ 0 :=
+  trivial
+
+/-- Matching one more step consists of matching the heads and then matching
+the tails for the remaining number of steps. -/
+@[simp] theorem relUpTo_succ (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂)
+    (n : ℕ) :
+    RelUpTo rel r₁ r₂ (n + 1) ↔
+      rel ⟨r₁.state 0, r₁.dir 0⟩ ⟨r₂.state 0, r₂.dir 0⟩ ∧
+        RelUpTo rel r₁.tail r₂.tail n :=
+  Iff.rfl
+
+/-- `Rel rel r₁ r₂` states that every finite prefix of the runs `r₁` and `r₂`
+matches according to `rel`. -/
+def Rel (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂) : Prop :=
+  ∀ n, RelUpTo rel r₁ r₂ n
+
+/-- Pointwise step matching implies prefix matching of the first `n` steps. -/
+theorem relUpTo_of_pointwise (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂)
+    (hrel : ∀ n, rel ⟨r₁.state n, r₁.dir n⟩ ⟨r₂.state n, r₂.dir n⟩) :
+    ∀ n, RelUpTo rel r₁ r₂ n := by
+  intro n
+  induction n generalizing r₁ r₂ with
+  | zero => trivial
+  | succ n ih => exact ⟨hrel 0, ih r₁.tail r₂.tail (fun k => hrel k.succ)⟩
+
+/-- Prefix matching is equivalent to pointwise matching at every index in the
+prefix. This is the elimination form of `RelUpTo`; unlike
+`relUpTo_of_pointwise`, it requires no hypothesis about later steps. -/
+theorem relUpTo_iff_pointwise (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂)
+    (n : ℕ) :
+    RelUpTo rel r₁ r₂ n ↔
+      ∀ k, k < n → rel ⟨r₁.state k, r₁.dir k⟩ ⟨r₂.state k, r₂.dir k⟩ := by
+  induction n generalizing r₁ r₂ with
+  | zero => simp
+  | succ n ih =>
+      constructor
+      · rintro ⟨hhead, htail⟩ k hk
+        cases k with
+        | zero => exact hhead
+        | succ k =>
+            exact (ih r₁.tail r₂.tail).mp htail k (Nat.lt_of_succ_lt_succ hk)
+      · intro h
+        exact ⟨h 0 (Nat.zero_lt_succ n),
+          (ih r₁.tail r₂.tail).mpr fun k hk =>
+            h k.succ (Nat.succ_lt_succ hk)⟩
+
+/-- Pointwise step matching implies full run matching. -/
+theorem rel_of_pointwise (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂)
+    (hrel : ∀ n, rel ⟨r₁.state n, r₁.dir n⟩ ⟨r₂.state n, r₂.dir n⟩) : Rel rel r₁ r₂ :=
+  relUpTo_of_pointwise rel r₁ r₂ hrel
+
+/-- Full run matching is equivalent to matching the two concrete steps at
+every time index. -/
+theorem rel_iff_pointwise (rel : StepRel s₁ s₂) (r₁ : Run s₁) (r₂ : Run s₂) :
+    Rel rel r₁ r₂ ↔
+      ∀ n, rel ⟨r₁.state n, r₁.dir n⟩ ⟨r₂.state n, r₂.dir n⟩ := by
+  constructor
+  · intro h n
+    exact (relUpTo_iff_pointwise rel r₁ r₂ (n + 1)).mp (h (n + 1)) n
+      (Nat.lt_succ_self n)
+  · exact rel_of_pointwise rel r₁ r₂
+
+end Run
+
+end DynSystem
+
+namespace MooreMachine
+
+variable {S : Type u} {O : Type uO} {I : Type uI}
+
+/-- A single input step of a Moore machine. -/
+def stepInput (m : MooreMachine S O I) (st : S) (i : I) : S := m.transition st i
+
+/-- The state reached after consuming a list of inputs from `st`. -/
+def run (m : MooreMachine S O I) (st : S) : List I → S := List.foldl m.stepInput st
+
+/-- The list of outputs observed while consuming a word, including the initial
+output. Its length is `inputs.length + 1`. -/
+def trace (m : MooreMachine S O I) (st : S) : List I → List O
+  | [] => [m.output st]
+  | i :: is => m.output st :: m.trace (m.stepInput st i) is
+
+/-- The final output after consuming a word from `st`. -/
+def outputOn (m : MooreMachine S O I) (st : S) (is : List I) : O := m.output (m.run st is)
+
+@[simp] theorem run_nil (m : MooreMachine S O I) (st : S) : m.run st [] = st := rfl
+
+@[simp] theorem run_cons (m : MooreMachine S O I) (st : S) (i : I) (is : List I) :
+    m.run st (i :: is) = m.run (m.stepInput st i) is := rfl
+
+theorem run_append (m : MooreMachine S O I) (st : S) (is js : List I) :
+    m.run st (is ++ js) = m.run (m.run st is) js := List.foldl_append
+
+@[simp] theorem trace_length (m : MooreMachine S O I) (st : S) (is : List I) :
+    (m.trace st is).length = is.length + 1 := by
+  induction is generalizing st <;> simp [trace, *]
+
+/-! ## Streams
+
+The behaviour of a Moore machine driven by an infinite stream of inputs
+`ins : ℕ → I`: the state visited at each time, the output observed there, and the
+identification with the finite `run` on every prefix. -/
+
+/-- The state of the machine at time `n`, started from `st` and driven by the input
+stream `ins`. -/
+def stateStream (m : MooreMachine S O I) (st : S) (ins : ℕ → I) : ℕ → S
+  | 0 => st
+  | n + 1 => m.stepInput (m.stateStream st ins n) (ins n)
+
+/-- The output observed at time `n` along the stream-driven run. -/
+def outputStream (m : MooreMachine S O I) (st : S) (ins : ℕ → I) (n : ℕ) : O :=
+  m.output (m.stateStream st ins n)
+
+@[simp] theorem stateStream_zero (m : MooreMachine S O I) (st : S) (ins : ℕ → I) :
+    m.stateStream st ins 0 = st := rfl
+
+@[simp] theorem stateStream_succ (m : MooreMachine S O I) (st : S) (ins : ℕ → I) (n : ℕ) :
+    m.stateStream st ins (n + 1) = m.stepInput (m.stateStream st ins n) (ins n) := rfl
+
+/-- The stream-driven state at time `n` is the finite `run` on the first `n` inputs:
+streams and finite runs agree on every prefix. -/
+theorem stateStream_eq_run (m : MooreMachine S O I) (st : S) (ins : ℕ → I) (n : ℕ) :
+    m.stateStream st ins n = m.run st ((List.range n).map ins) := by
+  induction n <;> simp_all [List.range_succ, run_append]
+
+end MooreMachine
+
+namespace DeterministicAutomaton
+
+variable {I : Type uI}
+
+/-- Whether a Boolean deterministic automaton accepts a word: its final output is `true`. -/
+def accepts (a : DeterministicAutomaton Bool I) (w : List I) : Prop :=
+  a.toMooreMachine.outputOn a.start w = true
+
+instance  _root_.PFunctor.DeterministicAutomaton.instDecidableAccepts (a : DeterministicAutomaton Bool I) (w : List I) : Decidable (a.accepts w) :=
+  inferInstanceAs (Decidable (_ = true))
+
+end DeterministicAutomaton
+
+/-! ## Input streams and iterates as generic runs
+
+A Moore machine's directions are the constant input set, so an input stream *is*
+a choice of direction at each time; a closed system's directions are trivial, so
+it has exactly one run from each state. The identifications below express the
+`stateStream` / `iterate` semantics as the generic `DynSystem.Run` orbits. -/
+
+namespace MooreMachine
+
+variable {S : Type u} {O : Type uO} {I : Type uI}
+
+/-- The generic run of a Moore machine driven by an input stream: the states are
+`stateStream` and the chosen directions are the inputs themselves. -/
+def streamRun (m : MooreMachine S O I) (st : S) (ins : ℕ → I) : DynSystem.Run m :=
+  ⟨m.stateStream st ins, ins, fun _ => rfl⟩
+
+@[simp] theorem streamRun_state (m : MooreMachine S O I) (st : S) (ins : ℕ → I) :
+    (m.streamRun st ins).state = m.stateStream st ins := rfl
+
+@[simp] theorem streamRun_dir (m : MooreMachine S O I) (st : S) (ins : ℕ → I) :
+    (m.streamRun st ins).dir = ins := rfl
+
+/-- Every generic run of a Moore machine is the input-stream-driven state stream
+from its initial state: runs of Moore machines are exactly `streamRun`s. -/
+theorem state_eq_stateStream (m : MooreMachine S O I) (run : DynSystem.Run m) (n : ℕ) :
+    run.state n = m.stateStream run.initial run.dir n := by
+  induction n with
+  | zero => rfl
+  | succ n ih => rw [run.next_state n, ih]; rfl
+
+end MooreMachine
+
+namespace Closed
+
+variable {S : Type u}
+
+/-- The unique generic run of a closed system from a state: its spine is the
+`iterate` of states, and every direction is the trivial one. -/
+def iterateRun (s : Closed S) (st : S) : DynSystem.Run s :=
+  ⟨s.iterate st, fun _ => PUnit.unit, fun n => Function.iterate_succ_apply' s.step n st⟩
+
+@[simp] theorem iterateRun_state (s : Closed S) (st : S) :
+    (s.iterateRun st).state = s.iterate st := rfl
+
+/-- Every generic run of a closed system is the `iterate` of its initial state:
+closed systems run autonomously, so their runs are unique. -/
+theorem state_eq_iterate (s : Closed S) (run : DynSystem.Run s) (n : ℕ) :
+    run.state n = s.iterate run.initial n := by
+  induction n with
+  | zero => rfl
+  | succ n ih =>
+    rw [run.next_state n, ih]
+    exact (Function.iterate_succ_apply' s.step n run.initial).symm
+
+end Closed
+
+end PFunctor
+
+

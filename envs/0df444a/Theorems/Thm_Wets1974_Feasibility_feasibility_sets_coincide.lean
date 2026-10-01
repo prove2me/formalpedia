@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Feasibility_feasibility_sets_coincide
 -- name    : Wets1974.Feasibility.feasibility_sets_coincide
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:31:25.616516+00:00
 -- url     : https://prove2.me/theorems/05966e2f-f662-4b3e-8607-dc893e697264

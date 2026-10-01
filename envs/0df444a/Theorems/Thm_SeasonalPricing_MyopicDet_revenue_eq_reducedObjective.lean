@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeasonalPricing_MyopicDet_revenue_eq_reducedObjective
 -- name    : SeasonalPricing.MyopicDet.revenue_eq_reducedObjective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:01:58.908734+00:00
 -- url     : https://prove2.me/theorems/01dc4c10-f2ec-4921-8066-75af28e22b43

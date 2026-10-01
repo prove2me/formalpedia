@@ -7,9 +7,19 @@
 -- title:
 --   1987 addendum — sampled translates (positive dimension)
 -- statement:
---   **Compiled open theorem statement; proof not yet supplied.** Checked locally with Lean 4.33.1 and the proposal’s pinned Mathlib. An independent blind readback is attached.
+--   Let $K$ be a Philippon base field. There are integers $c(E)\ge1$, depending only on the individual embedded commutative group factors, with the following property. Let $G=\prod_i E_i$ have positive dimension $n$, let $A$ be an analytic subgroup, let $\Sigma$ be a finite subset containing $0$, and let $P\ne0$ be multihomogeneous of degree $D$. If $P$ has contact at least $nT+1$ along $A$ at every point of $\Sigma(n)$, there is a connected algebraic subgroup $H$ incompletely defined in degrees at most $(c(E_i)D_i)_i$, such that
+--   $$
+--   \Sigma+H\subseteq Z(P)\cap G
+--   $$
+--   and, for $s=\operatorname{codim}_A(A\cap H)$,
+--   $$
+--   \binom{T+s}{s}\,| (\Sigma+H)/H |\,\mathcal H(H;D)
+--   \le \mathcal H(G;(c(E_i)D_i)_i).
+--   $$
 --
---   For an ambient group of positive dimension, strengthen the forward zero estimate so that the polynomial vanishes on every translate of the obstruction subgroup by a sampled point, while retaining the subgroup degree conclusion and Hilbert inequality. The n=0 obstruction is explicitly recorded as a separate required counterexample; this positive-dimension correction is not presented as a verbatim hypothesis from the printed statement.
+--   This is the sampled-translates strengthening in [Philippon's 1987 addendum, p.398](https://numdam.org/articles/10.24033/bsmf.2084/). The formal statement retains the recorded $n>0$ correction; it is not presented as a verbatim hypothesis from the printed statement. Zero entries in $D$ and $T=0$ remain allowed.
+--
+--   **Formalization Note.** An accepted proof-sketch derives the three conclusions from [pointed Section 5 selection with isolated sampled cosets](p2m:theorem/9522f00d-d75f-453b-8300-4c36fdf42090), which remains Open. All other theorem inputs are Proved. The new geometric lemma states actual isolated-component conditions at orders zero and $T$ for a translating variety containing the identity. It does not assume the Hilbert inequality or the sampled vanishing conclusion. The original globally maximal-component definition is unchanged. The full addendum remains Open until this geometric selection is proved.
 -- source:
 --   1987, p. 398. https://numdam.org/articles/10.24033/bsmf.2084/
 

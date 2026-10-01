@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_FiniteHorizon_expectedCost_lp
 -- name    : RobustMDP.FiniteHorizon.expectedCost_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:20:25.927837+00:00
 -- url     : https://prove2.me/theorems/118b8d93-8b64-4c16-8477-ac3793bb6089

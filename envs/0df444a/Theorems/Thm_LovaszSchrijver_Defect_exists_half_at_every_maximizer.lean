@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_Defect_exists_half_at_every_maximizer
 -- name    : LovaszSchrijver.Defect.exists_half_at_every_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:54:20.164456+00:00
 -- url     : https://prove2.me/theorems/4840d9c7-66d1-4139-956c-19304831fcc3

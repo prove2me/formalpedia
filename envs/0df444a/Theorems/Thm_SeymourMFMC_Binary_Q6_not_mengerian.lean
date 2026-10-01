@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeymourMFMC_Binary_Q6_not_mengerian
 -- name    : SeymourMFMC.Binary.Q6_not_mengerian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T03:50:08.620649+00:00
 -- url     : https://prove2.me/theorems/302d389e-fa90-43b6-be8b-7a842e015905

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_casimir_cutoff_sum
 -- name    : TongString.casimir_cutoff_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T20:16:27.195358+00:00
 -- url     : https://prove2.me/theorems/dc97380a-0673-4ee1-b134-8c4b909018db

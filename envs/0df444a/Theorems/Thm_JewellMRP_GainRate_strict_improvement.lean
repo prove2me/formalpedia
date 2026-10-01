@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_GainRate_strict_improvement
 -- name    : JewellMRP.GainRate.strict_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:26:28.342985+00:00
 -- url     : https://prove2.me/theorems/e1cc23c5-f26d-486d-a8c1-9af5fcf976ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Birge1985_Degeneracy_optimality_cuts_force_degeneracy
 -- name    : Birge1985.Degeneracy.optimality_cuts_force_degeneracy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:32:29.643508+00:00
 -- url     : https://prove2.me/theorems/3ccc7b77-4e2a-4538-8991-3b5e1541bb4e

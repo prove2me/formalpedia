@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Stationarity_finiteHorizon_converges_to_stationary
 -- name    : RobustMDP.Stationarity.finiteHorizon_converges_to_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:25:58.914569+00:00
 -- url     : https://prove2.me/theorems/6a52f756-782d-4e45-93e8-7534478e8939

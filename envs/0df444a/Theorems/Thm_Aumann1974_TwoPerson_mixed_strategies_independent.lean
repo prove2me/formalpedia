@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Aumann1974_TwoPerson_mixed_strategies_independent
 -- name    : Aumann1974.TwoPerson.mixed_strategies_independent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:48:34.509219+00:00
 -- url     : https://prove2.me/theorems/832b3596-241b-403f-bed7-657795dc4d66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComputationalLearning_vc_eps_net_failure_bound
 -- name    : ComputationalLearning.vc_eps_net_failure_bound
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-28T23:15:58.146382+00:00
 -- url     : https://prove2.me/theorems/d2a1658f-3ba9-4939-85dc-541eb098e2a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_bounded_closed_convex_extreme_representation
 -- name    : Grunbaum2003.bounded_closed_convex_extreme_representation
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T08:38:32.004123+00:00
 -- url     : https://prove2.me/theorems/37421203-d462-49d1-ba51-f669e79b3029

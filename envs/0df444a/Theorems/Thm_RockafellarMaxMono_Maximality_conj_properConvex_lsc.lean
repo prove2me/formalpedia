@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Maximality_conj_properConvex_lsc
 -- name    : RockafellarMaxMono.Maximality.conj_properConvex_lsc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:02:25.491155+00:00
 -- url     : https://prove2.me/theorems/6a06d827-a26b-4aba-bc1a-0db4754a3926

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_ThreeStage_johnson_three_stage_optimal
 -- name    : JohnsonFlowShop.ThreeStage.johnson_three_stage_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T16:53:55.705118+00:00
 -- url     : https://prove2.me/theorems/ad5ef8cf-3615-4a0d-bb09-4f6ab7c9e8a9

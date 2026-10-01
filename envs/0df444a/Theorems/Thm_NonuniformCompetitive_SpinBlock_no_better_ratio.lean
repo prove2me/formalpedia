@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_SpinBlock_no_better_ratio
 -- name    : NonuniformCompetitive.SpinBlock.no_better_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:53:03.733422+00:00
 -- url     : https://prove2.me/theorems/b3759951-1360-47cc-b883-b4e153a7fce7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiverseInvariantFragment_background_branches_iff
 -- name    : MultiverseInvariantFragment.background_branches_iff
--- status  : Open
+-- status  : Proved
 -- author  : @raver1975
 -- created : 2026-09-12T14:38:43.59484+00:00
 -- url     : https://prove2.me/theorems/6c8c6b74-1c07-46cd-a8e8-2f0ec1064cf3

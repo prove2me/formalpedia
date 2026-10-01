@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_Reduction_orderOf_eq_lcm
 -- name    : ShorAlgorithms.Reduction.orderOf_eq_lcm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:32:23.580525+00:00
 -- url     : https://prove2.me/theorems/d09188c1-f5f8-4ab4-934d-c1f57558ddd4

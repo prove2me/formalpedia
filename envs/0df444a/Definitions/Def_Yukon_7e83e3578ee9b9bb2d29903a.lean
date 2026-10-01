@@ -1,0 +1,472 @@
+-- Prove2me | Definitions.Def_Yukon_7e83e3578ee9b9bb2d29903a
+-- name    : Yukon_7e83e3578ee9b9bb2d29903a
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T17:55:08.357841+00:00
+-- url     : https://prove2.me/theorems/586c2a4f-65b7-486b-9c58-2185cd2ec969
+-- title:
+--   YukonModule.PolyFun.Interaction.Basic.Node.part0
+-- statement:
+--   Source module PolyFun.Interaction.Basic.Node.
+-- source:
+--   https://github.com/Verified-zkEVM/PolyFun/blob/dd77aa91dd425ebaec4388270f3a8e3dc7ace571/PolyFun/Interaction/Basic/Node.lean
+--
+--   yukon-proof-operation:fe77bde3dd1c89d7b06dd1bf0b74c5c39a883598781f8449473f9a3284e3258c
+--   [yukon-proof-receipt:eyJ2IjoxLCJtYXJrZXIiOiJ5dWtvbi1wcm9vZi1vcGVyYXRpb246ZmU3N2JkZTNkZDFjODlkN2IwNmRkMWJmMGI3NGM1YzM5YTg4MzU5ODc4MWY4NDQ5NDczZjlhMzI4NGUzMjU4YyIsImhhc2giOiJiZWQ2ZjMxYzc2ZWViY2Q5MWIwZDQ4NmVmYTIzOTZiNDIyODU5NjhjNTEyZjI2YmVmNTU5NWVmNzlhMjI2NTZkIiwia2luZCI6ImRlZmluaXRpb24iLCJ0YXJnZXQiOiJZdWtvbl83ZTgzZTM1NzhlZTliOWJiMmQyOTkwM2EiLCJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJ0YWciOiJiZXR0ZXItY29kZXMifQ]
+
+/-
+Copyright (c) 2026 PolyFun Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Quang Dao
+-/
+
+module
+
+public import Definitions.Def_Yukon_724dee21e2f24de1aadc0f0e
+
+public import Batteries.Tactic.Lint
+
+
+public import Mathlib.Data.PFunctor.Univariate.Basic
+public import Mathlib.Tactic.Common
+public import Mathlib.Init
+public import Lean.Message
+public import Batteries.Tactic.Lint.Basic
+public import Init
+public import Mathlib.Data.PFunctor.Multivariate.Basic
+public import Mathlib.CategoryTheory.Monad.Types
+public import Mathlib.Order.CompleteLattice.Basic
+public import Mathlib.Probability.ProbabilityMassFunction.Monad
+meta import Definitions.Def_Yukon_724dee21e2f24de1aadc0f0e
+set_option backward.isDefEq.respectTransparency.types false
+/-!
+# Node-local contexts and schemas
+
+This file isolates the node-local metadata layer of the `Interaction`
+framework.
+
+`TypeTree.Node.Context` is the semantic notion:
+for each move space `X`, it gives the type of node-local information available
+at a node whose next move lives in `X`.
+
+`TypeTree.Node.Schema` is the structured, telescope-style front-end for building
+such contexts in stages. This follows the use of **contexts** and
+**telescopes** in dependent type theory, where later entries may depend on
+earlier ones, and it also echoes the **schema / instance** split common in
+database theory.
+
+References informing this terminology:
+* de Bruijn (1991), telescopes in dependent type theory;
+* Castellan–Clairambault–Dybjer (2020), contexts and types in context via
+  categories with families;
+* Spivak (2012), schemas as structured descriptions whose instances carry data.
+
+The rest of the interaction core consumes realized node contexts, not schemas:
+* `PFunctor.FreeM.Displayed.Decoration Γ spec` decorates a protocol tree by concrete values in
+  context `Γ`;
+* `SyntaxOver` and `InteractionOver` define syntax and execution over
+  those realized contexts.
+* `ShapeOver` is the functorial refinement of `SyntaxOver`, used
+  when node objects support generic continuation reindexing.
+* `TypeTree.Node.ContextHom` records structure-preserving maps between realized
+  contexts, so forgetting or repackaging metadata can be expressed explicitly.
+* `TypeTree.Node.Schema.SchemaMap` is the corresponding notion at the schema level: a
+  semantic map between realized contexts presented with their schema sources
+  and targets.
+* `TypeTree.Node.Schema.Prefix` records syntactic schema-prefix inclusions, which
+  induce canonical forgetful maps on realized contexts.
+
+Worked example:
+node metadata with a tag `Tag X` followed by dependent data `Data X tag`
+is represented by the schema
+`(TypeTree.Node.Schema.singleton Tag).extend Data`.
+Its realized context is `TypeTree.Node.Context.extend Tag Data`,
+so a decoration by that context provides both pieces of node-local data as one
+semantic object.
+-/
+
+public section
+
+universe u v w w₂ w₃
+
+namespace Interaction
+namespace TypeTree
+namespace Node
+
+set_option linter.checkUnivs false in
+/--
+`Context` is the realized family of node-local information.
+
+If `Γ : Node.Context`, then for every move space `X`, the type `Γ X` describes
+what metadata is available at a node whose next move lies in `X`.
+
+This is the semantic object consumed by the rest of the interaction core.
+Contexts may be written directly, or assembled in stages via `Node.Schema`.
+-/
+-- `u` (the move-space universe) and `v` (the metadata universe) are independent
+-- components of a node context and are deliberately kept separate.
+abbrev Context := Type u → Type v
+
+/--
+`ContextHom Γ Δ` is a nodewise map from context `Γ` to context `Δ`.
+
+At each move space `X`, it turns a `Γ X`-value into a `Δ X`-value. This is the
+right notion of morphism for realized node contexts, and it is what
+`PFunctor.FreeM.Displayed.Decoration.map` consumes.
+-/
+abbrev ContextHom (Γ : Type u → Type v) (Δ : Type u → Type w) := ∀ X, Γ X → Δ X
+
+/-- Identity morphism on a realized node context. -/
+@[expose]
+def ContextHom.id (Γ : Context) : ContextHom Γ Γ := fun _ x => x
+
+/-- Composition of realized node-context morphisms. -/
+@[expose]
+def ContextHom.comp {Γ : Type u → Type v} {Δ : Type u → Type w} {Λ : Type u → Type w₂}
+    (g : ContextHom Δ Λ) (f : ContextHom Γ Δ) : ContextHom Γ Λ :=
+  fun X => g X ∘ f X
+
+/--
+The empty node context, carrying no information at any node.
+
+This is the neutral context used by the plain `Shape` / `Interaction`
+specializations.
+-/
+@[expose]
+def Context.empty : Context := fun _ => PUnit
+
+/--
+The polynomial functor whose free monad realizes `Γ`-decorated type trees.
+
+Positions are `Σ X : Type u, Γ X`: each node records both its move space
+`X` and a `Γ`-value at that node. The child family is `Sigma.fst`, so a
+continuation at position `⟨X, _⟩` is indexed by `X` itself, exactly as in
+`TypeTree.basePFunctor`. The forgetful projection `Sigma.fst : Σ X, Γ X → Type u`
+on positions (combined with the identity on children) is a `PFunctor.Lens`
+from `Γ.toPFunctor` to `TypeTree.basePFunctor`; its lift to free monads is the
+shape-forgetful map `Decorated.shape` in `Basic/Decoration.lean`.
+
+This is the polynomial substrate that justifies the `TypeTree`-indexed
+recursion of `PFunctor.FreeM.Displayed.Decoration`: a decorated type tree is a free term
+of this polynomial, and the existing `Decoration Γ tree` is exactly its fiber
+over the underlying `tree : TypeTree`.
+-/
+@[expose, reducible]
+def Context.toPFunctor (Γ : Context.{u, v}) : PFunctor.{max (u+1) v, u} where
+  A := Σ X : Type u, Γ X
+  B := Sigma.fst
+
+/--
+Extend a realized node context by one dependent field.
+
+If `Γ` is the current context and `A X γ` is a new field whose type may depend
+on the existing context value `γ : Γ X`, then `Γ.extend A` is the enlarged
+context containing both pieces of data.
+
+The new field is allowed to live in a different universe from the existing
+context. This keeps `Context.extend` flexible even though `Schema` itself uses
+one fixed universe parameter for its staged fields.
+-/
+@[expose]
+def Context.extend (Γ : Type u → Type v) (A : ∀ X, Γ X → Type w) : Type u → Type (max v w) :=
+  fun X => Σ γ : Γ X, A X γ
+
+/--
+Forget the most recently added field of an extended node context.
+
+This is the canonical projection from `Context.extend Γ A` back to its base
+context `Γ`.
+-/
+@[expose]
+def Context.extendFst (Γ : Type u → Type v) (A : ∀ X, Γ X → Type w) :
+    ContextHom (Context.extend Γ A) Γ :=
+  fun _ => Sigma.fst
+
+/--
+Map one extended node context to another by:
+* mapping the base context with `f`, and
+* mapping the new dependent field with `g`.
+-/
+@[expose]
+def Context.extendMap
+    {Γ : Type u → Type v} {Δ : Type u → Type w}
+    {A : ∀ X, Γ X → Type w₂} {B : ∀ X, Δ X → Type w₃}
+    (f : ContextHom Γ Δ)
+    (g : ∀ X γ, A X γ → B X (f X γ)) :
+    ContextHom (Context.extend Γ A) (Context.extend Δ B) :=
+  fun X ⟨γ, a⟩ => ⟨f X γ, g X γ a⟩
+
+/-! ## Non-dependent context product
+
+`Context.prod Γ Δ` is the non-dependent product of two realized node
+contexts: at each move space `X`, the value type is `Γ X × Δ X`. This is
+the polynomial product of `Γ` and `Δ` viewed as `(Type u → Type _)`-valued
+functors, and is the special case of `Context.extend` whose extension is
+constant in the base value.
+
+Use `Context.prod` when the two contexts carry independent per-node data
+(for example the closed-world `StepContext Party` and a boundary action
+context `BoundaryAction Δ`); use `Context.extend` when the second field
+genuinely depends on the first. -/
+
+/--
+The non-dependent product of two realized node contexts. At each move space
+`X`, the value type is `Γ X × Δ X`. -/
+@[expose]
+def Context.prod (Γ : Type u → Type v) (Δ : Type u → Type w) :
+    Type u → Type (max v w) :=
+  fun X => Γ X × Δ X
+
+/-- First projection out of the non-dependent context product. -/
+@[expose]
+def Context.prodFst (Γ : Type u → Type v) (Δ : Type u → Type w) :
+    ContextHom (Context.prod Γ Δ) Γ :=
+  fun _ p => p.1
+
+/-- Second projection out of the non-dependent context product. -/
+@[expose]
+def Context.prodSnd (Γ : Type u → Type v) (Δ : Type u → Type w) :
+    ContextHom (Context.prod Γ Δ) Δ :=
+  fun _ p => p.2
+
+/--
+Pair two context morphisms into a single morphism into the product context.
+This is the universal property of the non-dependent context product. -/
+@[expose]
+def Context.prodPair
+    {Γ : Type u → Type v} {Δ₁ : Type u → Type w} {Δ₂ : Type u → Type w₂}
+    (f : ContextHom Γ Δ₁) (g : ContextHom Γ Δ₂) :
+    ContextHom Γ (Context.prod Δ₁ Δ₂) :=
+  fun X x => (f X x, g X x)
+
+/--
+Map both factors of a non-dependent context product. -/
+@[expose]
+def Context.prodMap
+    {Γ₁ : Type u → Type v} {Γ₂ : Type u → Type w}
+    {Δ₁ : Type u → Type w₂} {Δ₂ : Type u → Type w₃}
+    (f : ContextHom Γ₁ Δ₁) (g : ContextHom Γ₂ Δ₂) :
+    ContextHom (Context.prod Γ₁ Γ₂) (Context.prod Δ₁ Δ₂) :=
+  fun X p => (f X p.1, g X p.2)
+
+@[simp]
+theorem Context.prodMap_id {Γ : Context.{u, v}} {Δ : Context.{u, w}} :
+    Context.prodMap (ContextHom.id Γ) (ContextHom.id Δ) =
+      ContextHom.id (Context.prod Γ Δ) := by
+  funext X p
+  rfl
+
+theorem Context.prodMap_comp
+    {Γ₁ : Context.{u, v}} {Γ₂ : Context.{u, w}}
+    {Δ₁ : Context.{u, w₂}} {Δ₂ : Context.{u, w₃}}
+    {Λ₁ : Type u → Type _} {Λ₂ : Type u → Type _}
+    (g₁ : ContextHom Δ₁ Λ₁) (g₂ : ContextHom Δ₂ Λ₂)
+    (f₁ : ContextHom Γ₁ Δ₁) (f₂ : ContextHom Γ₂ Δ₂) :
+    ContextHom.comp (Context.prodMap g₁ g₂) (Context.prodMap f₁ f₂) =
+      Context.prodMap (ContextHom.comp g₁ f₁) (ContextHom.comp g₂ f₂) := by
+  funext X p
+  rfl
+
+/-
+Conceptually `Context.prod Γ Δ` is the constant-family case of
+`Context.extend`. The two are not definitionally equal as types because
+`Prod` and `Sigma` are distinct inductive types in Lean, so we keep
+`Context.prod` as its own primitive with `Prod`-shaped values to support
+the standard `(a, b)` pair syntax at construction sites. -/
+
+/--
+`Schema Γ` is a telescope whose realized node context is `Γ`.
+
+Schemas are the structured front-end for building node-local contexts:
+* `nil` is the empty telescope;
+* `singleton A` is a one-field schema with no prior dependencies;
+* `snoc S A` appends a new field whose type may depend on the earlier realized
+  context carried by `S`.
+
+The semantic object used elsewhere in the interaction core is still the
+realized context `Γ`; a schema is simply a readable way to assemble such
+contexts stage by stage, while keeping the dependency structure visible.
+
+For example, a two-stage schema consisting of:
+* a first field `Tag X`, and then
+* a second field `Data X tag` depending on that tag
+
+is written as `(Schema.singleton Tag).extend Data`,
+and realizes to the context `Context.extend Tag Data`.
+-/
+inductive Schema : Context → Type (max (u + 1) (v + 1)) where
+  /-- The empty schema. -/
+  | nil : Schema Context.empty
+  /-- A one-field schema whose realized context is exactly `A`. -/
+  | singleton (A : Type u → Type v) : Schema A
+/-- Extend an existing schema by one further dependent field. -/
+  | snoc {Γ : Context} (S : Schema Γ) (A : ∀ X, Γ X → Type v) :
+      Schema (Context.extend Γ A)
+
+/--
+Extend a node schema by one further dependent field.
+
+This is the functional wrapper around the `snoc` constructor, useful when a
+schema is being built incrementally.
+-/
+abbrev Schema.extend {Γ : Context} (S : Schema Γ) (A : ∀ X, Γ X → Type v) :
+    Schema (Context.extend Γ A) :=
+  .snoc S A
+
+/--
+Interpret a node schema as its realized node context.
+
+This uses the active name `toContext` rather than a noun like `context`
+because a schema is a descriptive telescope, while a context is the semantic
+family it determines.
+-/
+-- The schema argument is ignored in the body (the context `Γ` is recovered from its
+-- type), but it is intentional: it lets callers write `S.toContext` in schema-level terms.
+@[nolint unusedArguments]
+abbrev Schema.toContext {Γ : Context} (_ : Schema Γ) : Context := Γ
+
+namespace Schema
+
+/--
+`SchemaMap S T` is a semantic morphism from schema `S` to schema `T`.
+
+Unlike `Schema.Prefix`, this is not a syntactic extension relation. It is
+simply a map between the realized node contexts of `S` and `T`, presented with
+the schema source and target so that later constructions can speak directly in
+schema-level terms.
+
+So:
+* `Schema.Prefix` expresses a particular syntactic way one schema sits inside
+  another;
+* `SchemaMap` expresses an arbitrary semantic transformation between their
+  realized contexts.
+-/
+abbrev SchemaMap {Γ Δ : Context} (S : Schema Γ) (T : Schema Δ) :=
+  ContextHom S.toContext T.toContext
+
+/-- Identity schema morphism. -/
+@[expose]
+def SchemaMap.id {Γ : Context} (S : Schema Γ) : SchemaMap S S :=
+  ContextHom.id _
+
+/--
+Treat a realized context morphism as a schema morphism between any schemas
+presenting those contexts.
+-/
+abbrev SchemaMap.ofContextHom
+    {Γ Δ : Context} {S : Schema Γ} {T : Schema Δ}
+    (f : ContextHom Γ Δ) : SchemaMap S T := f
+
+/-- Composition of schema morphisms. -/
+@[expose]
+def SchemaMap.comp {Γ Δ Λ : Context}
+    {S : Schema Γ} {T : Schema Δ} {U : Schema Λ}
+    (g : SchemaMap T U) (f : SchemaMap S T) : SchemaMap S U :=
+  ContextHom.comp g f
+
+/--
+Forget that a schema morphism was presented at the schema level and view it as
+the underlying realized context morphism.
+-/
+abbrev SchemaMap.toContextHom {Γ Δ : Context} {S : Schema Γ} {T : Schema Δ}
+    (f : SchemaMap S T) : ContextHom S.toContext T.toContext := f
+
+/--
+Extend a schema morphism by one further dependent field.
+
+If `f : SchemaMap S T` maps the base contexts and `g` maps the newly added
+field over each base value, then `SchemaMap.extend f g` is the induced schema
+morphism between the corresponding one-step schema extensions.
+-/
+@[expose]
+def SchemaMap.extend
+    {Γ Δ : Context}
+    {S : Schema Γ} {T : Schema Δ}
+    {A : ∀ X, Γ X → Type v} {B : ∀ X, Δ X → Type v}
+    (f : SchemaMap S T)
+    (g : ∀ X γ, A X γ → B X (f X γ)) :
+    SchemaMap (S.extend A) (T.extend B) :=
+  Context.extendMap f g
+
+@[simp]
+theorem SchemaMap.extend_id
+    {Γ : Context} {S : Schema Γ} {A : ∀ X, Γ X → Type v} :
+    SchemaMap.extend (SchemaMap.id S) (fun _ _ x => x) = SchemaMap.id (S.extend A) := by
+  funext X x
+  rfl
+
+theorem SchemaMap.extend_comp
+    {Γ Δ Λ : Context}
+    {S : Schema Γ} {T : Schema Δ} {U : Schema Λ}
+    {A : ∀ X, Γ X → Type v}
+    {B : ∀ X, Δ X → Type v}
+    {C : ∀ X, Λ X → Type v}
+    (g : SchemaMap T U) (f : SchemaMap S T)
+    (fOver : ∀ X γ, A X γ → B X (f X γ))
+    (gOver : ∀ X δ, B X δ → C X (g X δ)) :
+    SchemaMap.comp (SchemaMap.extend g gOver) (SchemaMap.extend f fOver) =
+      SchemaMap.extend (SchemaMap.comp g f)
+        (fun X γ => gOver X (f X γ) ∘ fOver X γ) := by
+  funext X x
+  rfl
+
+/--
+Forget the most recently added field of a schema extension.
+-/
+abbrev SchemaMap.fst
+    {Γ : Context} {S : Schema Γ}
+    (A : ∀ X, Γ X → Type v) :
+    SchemaMap (S.extend A) S :=
+  Context.extendFst _ A
+
+/--
+`Prefix S T` means that `S` is a syntactic prefix of the schema `T`.
+
+Each `snoc` step adds one new field on the right, so a prefix determines a
+canonical forgetful map from the realized context of `T` back to the realized
+context of `S`.
+
+This is intentionally a syntactic notion, not merely a semantic one: two
+schemas may realize equivalent node contexts without one being a prefix of the
+other.
+-/
+inductive Prefix :
+    {Γ Δ : Context.{u, v}} →
+    Schema Γ → Schema Δ → Type (max (u + 1) (v + 1)) where
+  /-- Every schema is a prefix of itself. -/
+  | refl {Γ : Context.{u, v}} (S : Schema Γ) : Schema.Prefix S S
+  /-- If `S` is a prefix of `T`, then it is also a prefix of any one-field
+  extension of `T`. -/
+  | snoc {Γ Δ : Context.{u, v}} {S : Schema Γ} {T : Schema Δ}
+      (p : Schema.Prefix S T) (A : ∀ X, Δ X → Type v) :
+      Schema.Prefix S (T.extend A)
+
+/--
+The realized context morphism induced by a schema prefix.
+
+This forgets exactly the fields appended after the prefix `S`.
+-/
+@[expose]
+def Prefix.toContextHom :
+    {Γ Δ : Context.{u, v}} → {S : Schema Γ} → {T : Schema Δ} →
+    Schema.Prefix S T → ContextHom T.toContext S.toContext
+  | _, _, _, _, .refl _ => ContextHom.id _
+  | _, _, _, _, .snoc p A =>
+      ContextHom.comp (Prefix.toContextHom p) (Context.extendFst _ A)
+
+/--
+View a schema prefix as the corresponding schema morphism that forgets the
+fields added after the prefix.
+-/
+abbrev Prefix.toSchemaMap
+    {Γ Δ : Context.{u, v}} {S : Schema Γ} {T : Schema Δ}
+    (p : Schema.Prefix S T) : SchemaMap T S :=
+  p.toContextHom
+
+end Schema
+
+end Node
+end TypeTree
+end Interaction
+
+

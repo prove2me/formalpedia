@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_modularMeasure_map_modularAction
 -- name    : TongString.modularMeasure_map_modularAction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T21:14:16.524847+00:00
 -- url     : https://prove2.me/theorems/2ad85169-ae4b-4517-8b02-c28629e2321b

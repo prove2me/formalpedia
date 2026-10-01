@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_weighted_potential
 -- name    : BayesRouting.VOI.weighted_potential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:50:07.454377+00:00
 -- url     : https://prove2.me/theorems/1d3243d3-aa4c-429c-9915-2a7f373e7c4d

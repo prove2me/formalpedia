@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMBounded_eq32_lower_bound
 -- name    : NonconvexSplitting.ADMMBounded.eq32_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:02:52.007604+00:00
 -- url     : https://prove2.me/theorems/76f5517f-9eeb-412e-b117-3d21ef65fdef

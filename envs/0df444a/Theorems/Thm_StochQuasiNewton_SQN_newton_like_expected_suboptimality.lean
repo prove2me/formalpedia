@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochQuasiNewton_SQN_newton_like_expected_suboptimality
 -- name    : StochQuasiNewton.SQN.newton_like_expected_suboptimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:40:06.428204+00:00
 -- url     : https://prove2.me/theorems/9326a796-bd12-4fcb-a359-dbaeef41e7e0

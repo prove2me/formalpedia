@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RybinAI2026_P01_psi_sqrt_trigonometric_integral
 -- name    : RybinAI2026.P01.psi_sqrt_trigonometric_integral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T01:11:28.621759+00:00
 -- url     : https://prove2.me/theorems/fcadec43-10aa-4bf1-bfb1-6cabb6151e48

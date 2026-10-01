@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PadbergRao_UpperBound_lemma_3_1
 -- name    : PadbergRao.UpperBound.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T23:36:20.469259+00:00
 -- url     : https://prove2.me/theorems/0788fed3-c8df-4fa6-b2cc-f12fe8983f34

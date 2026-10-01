@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProximalBanach_Hybrid_duality_uniformContinuousOn
 -- name    : ProximalBanach.Hybrid.duality_uniformContinuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:09:37.87224+00:00
 -- url     : https://prove2.me/theorems/c918eb45-0e33-45fd-94c7-7252cc0cc7cf

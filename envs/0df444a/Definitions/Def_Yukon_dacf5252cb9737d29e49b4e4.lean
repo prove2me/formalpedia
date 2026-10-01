@@ -1,0 +1,502 @@
+-- Prove2me | Definitions.Def_Yukon_dacf5252cb9737d29e49b4e4
+-- name    : Yukon_dacf5252cb9737d29e49b4e4
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-09-30T14:36:56.08419+00:00
+-- url     : https://prove2.me/theorems/b24eab33-1826-422f-a048-da383d3811a7
+-- title:
+--   YukonModule.ArkLib.Data.CodingTheory.Prelims.part0
+-- statement:
+--   Source module ArkLib.Data.CodingTheory.Prelims.
+-- source:
+--   https://github.com/Verified-zkEVM/ArkLib/blob/e65197892890b8fd9b0dc05b8980273cf1d595cc/ArkLib/Data/CodingTheory/Prelims.lean
+--
+--   provider-v8:e3d5b37253d29ffe9702fbbfaaa83e2ea523d6f9e39d102937731443a4e87939
+--   [yukon-proof-receipt:eyJ2IjoxLCJtYXJrZXIiOiJwcm92aWRlci12ODplM2Q1YjM3MjUzZDI5ZmZlOTcwMmZiYmZhYWE4M2UyZWE1MjNkNmY5ZTM5ZDEwMjkzNzczMTQ0M2E0ZTg3OTM5IiwiaGFzaCI6IjUwOTc1YzhmMzFmZDk0ZjhhYTM2NTA1MjdlMzk3ZmNhODU5NzZhNDdkZDA2MDk4ZDcwYjFmNjQxNDA2ODM5MmMiLCJraW5kIjoiZGVmaW5pdGlvbiIsInRhcmdldCI6Ill1a29uX2RhY2Y1MjUyY2I5NzM3ZDI5ZTQ5YjRlNCIsImVudmlyb25tZW50Ijp7Im1hdGhsaWJSZXYiOiIwZGY0NDRhMzYwZWFhNjBhYjhjMTFkY2E1MWE4NmFmNjkyOTU1NDc0IiwidG9vbGNoYWluIjoibGVhbnByb3Zlci9sZWFuNDp2NC4zMy4xIn0sInRhZyI6ImJldHRlci1jb2RlcyJ9]
+
+/-
+Copyright (c) 2024-2025 ArkLib Contributors. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Katerina Hristova, František Silváši, Julian Sutherland, Chung Thai Nguyen
+-/
+
+import Mathlib.Algebra.Lie.OfAssociative
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.AffineSpace.Pointwise
+import Mathlib.LinearAlgebra.AffineSpace.Combination
+import Mathlib.RingTheory.Henselian
+
+
+
+import Init
+set_option backward.isDefEq.respectTransparency.types false
+/-! # Coding-Theory Preliminaries -/
+
+section TensorCombination
+variable {F : Type*} [CommRing F] [Fintype F] [DecidableEq F]
+         {A : Type*} [AddCommMonoid A] [Module F A]
+
+/--
+The tensor product weight `⊗_{i=0}^{ϑ-1}(1 - rᵢ, rᵢ)` for a specific index `i` given randomness `r`.
+Corresponds to `eq(i, r)` in multilinear polynomial literature.
+-/
+def multilinearWeight {ϑ : ℕ} (r : Fin ϑ → F) (i : Fin (2 ^ ϑ)) : F :=
+  ∏ j : Fin ϑ,
+    if i.val.testBit j.val then (r j) else (1 - r j)
+
+/-- Linear combination of the rows of `u` according to the tensor product of `r`:
+`[tensor_product r i] ·|u₀|`
+                      `|u₁|`
+                      `|⋮|`
+                      `|u_{2^ϑ-1}|`
+= `∑_{i=0}^{2^ϑ-1} (multilinearWeight r i) • u_i` -/
+def multilinearCombine {ϑ : ℕ} {ι : Type*}
+    (u : (Fin (2 ^ ϑ)) → ι → A) (r : Fin ϑ → F) : (ι → A) :=
+  fun colIdx => ∑ rowIdx : Fin (2^ϑ), ((multilinearWeight r rowIdx) : F) • ((u rowIdx colIdx) : A)
+notation:20 r " |⨂| " u => multilinearCombine (u := u) (r := r)
+
+end TensorCombination
+noncomputable section
+
+variable {F : Type*}
+         {ι : Type*} [Fintype ι]
+         {ι' : Type*} [Fintype ι']
+         {m n k : ℕ}
+
+namespace Matrix
+
+/-- The set of column indices where two matrices differ.
+
+This is the matrix-shaped form of `Code.disagreementCols`: reading a matrix as a word over
+the alphabet of its columns, `neqCols U V = Code.disagreementCols Uᵀ Vᵀ`. The bridge is
+`Matrix.neqCols_eq_disagreementCols_transpose`, stated downstream in `Basic/Distance.lean`.
+Prefer `Code.disagreementCols` for plain pointwise disagreement. -/
+def neqCols [DecidableEq F] (U V : Matrix ι ι' F) : Finset ι' := {j | ∃ i : ι, V i j ≠ U i j}
+
+section
+
+variable [Semiring F] (U : Matrix ι ι' F)
+
+/-- The submodule spanned by the rows of a matrix. -/
+def rowSpan : Submodule F (ι' → F) :=
+  Submodule.span F {U i | i : ι}
+
+/-- The row rank of a matrix (dimension of the row span). -/
+def rowRank : ℕ :=
+  Module.finrank F (rowSpan U)
+
+/-- The submodule spanned by the columns of a matrix. -/
+def colSpan : Submodule F (ι → F) :=
+  Submodule.span F {Matrix.transpose U i | i : ι'}
+
+/-- The column rank of a matrix (dimension of the column span). -/
+def colRank : ℕ := Module.finrank F (colSpan U)
+
+end
+
+section
+
+/-- Extract an n×n submatrix from an m×n matrix by selecting n rows. -/
+def subUpFull (U : Matrix (Fin m) (Fin n) F) (r_reindex : Fin n → Fin m) :
+    Matrix (Fin n) (Fin n) F := Matrix.submatrix U r_reindex id
+
+/-- Extract an m×m submatrix from an m×n matrix by selecting m columns. -/
+def subLeftFull (U : Matrix (Fin m) (Fin n) F) (c_reindex : Fin m → Fin n) :
+    Matrix (Fin m) (Fin m) F := Matrix.submatrix U id c_reindex
+
+variable [CommRing F] [Nontrivial F]
+         {U : Matrix (Fin m) (Fin n) F}
+
+/-- An m×n matrix has full rank if the submatrix consisting of rows 1 through n has rank n. -/
+lemma rank_eq_if_subUpFull_eq (h : n ≤ m) :
+    (subUpFull U (Fin.castLE h)).rank = n → U.rank = n  := by
+   intro h_sub_mat_rank
+   apply le_antisymm
+   ·  exact Matrix.rank_le_width U
+   ·  calc n = (subUpFull U (Fin.castLE h)).rank := by rw[h_sub_mat_rank]
+           _ ≤ U.rank := by exact Matrix.rank_submatrix_le U (Fin.castLE h) (Equiv.refl (Fin n))
+
+/-- cRank and Rank agree for a finite matirx -/
+lemma cRank_rank_conversion :
+    ↑(U.rank) = U.cRank := by
+  rw[
+    Matrix.rank_eq_finrank_span_cols,
+    ← Matrix.cRank_toNat_eq_finrank,
+    Cardinal.cast_toNat_of_lt_aleph0
+  ]
+  calc U.cRank ≤ ↑(Fintype.card (Fin n)) := by exact Matrix.cRank_le_card_width U
+         _ = ↑n := by rw[Fintype.card_fin]
+  exact Cardinal.natCast_lt_aleph0
+
+/-- An m×n matrix has full rank if the submatrix consisting of columns 1 through m has rank m. -/
+lemma full_row_rank_via_rank_subLeftFull (h : m ≤ n) :
+    (subLeftFull U (Fin.castLE h)).rank = m → U.rank = m := by
+   intro h_sub_mat_rank
+   rw[
+    Matrix.rank_eq_finrank_span_cols,
+    ← Matrix.cRank_toNat_eq_finrank
+   ]
+   have h_cRank : U.cRank = ↑m := by
+    apply le_antisymm
+    · calc U.cRank ≤ ↑(Fintype.card (Fin m)) := Matrix.cRank_le_card_height U
+           _ = ↑m := by rw[Fintype.card_fin]
+    · calc ↑m = ↑((subLeftFull U (Fin.castLE h)).rank) := by rw[h_sub_mat_rank]
+           _ = (subLeftFull U (Fin.castLE h)).cRank := by exact cRank_rank_conversion
+           _ ≤ U.cRank := by exact Matrix.cRank_submatrix_le U id (Fin.castLE h)
+   simp [h_cRank]
+
+omit [Nontrivial F] in
+/-- A square matrix over an integral domain has full rank if its determinant is nonzero. -/
+lemma rank_eq_if_det_ne_zero {U : Matrix (Fin n) (Fin n) F} [IsDomain F] :
+    Matrix.det U ≠ 0 → U.rank = n  := by
+    intro h_det
+    have h_ind : (LinearIndependent F U.col) := Matrix.linearIndependent_cols_of_det_ne_zero h_det
+    rw[
+      Matrix.rank_eq_finrank_span_cols,
+      finrank_span_eq_card h_ind,
+      Fintype.card_fin
+    ]
+
+end
+
+section
+
+variable [Field F]
+         {U : Matrix (Fin m) (Fin n) F}
+
+/-- A square matrix has full rank iff the determinant is nonzero. -/
+lemma rank_eq_iff_det_ne_zero {U : Matrix (Fin n) (Fin n) F} :
+    U.rank = n ↔ U.det ≠ 0 := by
+  rw[
+    ← isUnit_iff_ne_zero,
+    ← Matrix.isUnit_iff_isUnit_det,
+    ←  Matrix.linearIndependent_cols_iff_isUnit,
+    Matrix.rank_eq_finrank_span_cols,
+    linearIndependent_iff_card_eq_finrank_span,
+    Set.finrank
+    ]
+  simp[eq_comm]
+
+/-- The rank of a matrix equals the column rank. -/
+lemma rank_eq_colRank : U.rank = colRank U :=
+  Matrix.rank_eq_finrank_span_cols U
+
+/-- The row rank of a matrix equals the column rank. -/
+lemma rowRank_eq_colRank : rowRank U = colRank U := by
+  rw [← rank_eq_colRank, ← rank_transpose, rank_eq_colRank]
+  rfl
+
+/-- The rank of a matrix equals the row rank. -/
+lemma rank_eq_rowRank : U.rank = rowRank U := by
+  rw [rank_eq_colRank, rowRank_eq_colRank]
+
+/-- The rank of a matrix equals the minimum of its row rank and column rank. -/
+lemma rank_eq_min_row_col_rank : U.rank = min (rowRank U) (colRank U) := by
+  rw [rowRank_eq_colRank, rank_eq_colRank]
+  simp_all only [min_self]
+
+end
+
+end Matrix
+
+namespace LinearCombination
+
+/-- A nonzero linear combination of linearly independent vectors is nonzero. -/
+theorem linearCombination_ne_zero
+    {F : Type*} [Field F] {ℓ : Type*} [Fintype ℓ]
+    {M : Type*} [AddCommMonoid M] [Module F M]
+    {P : ℓ → M} (hP : LinearIndependent F P)
+    {v : ℓ → F} (hv : v ≠ 0) :
+    ∑ j : ℓ, v j • P j ≠ 0 := by
+  have := @Fintype.linearIndependent_iff (ℓ) F M
+  contrapose! hv
+  contrapose! this
+  refine ⟨?_,? _, ?_, ?_⟩
+  · all_goals try infer_instance
+  · exact Module.addCommMonoidToAddCommGroup F
+  · exact inferInstance
+  · refine ⟨P, inferInstance, Or.inl ⟨hP, v, hv, Function.ne_iff.mp this⟩⟩
+
+end LinearCombination
+
+end
+
+namespace Affine
+section
+variable {ι : Type*} [Fintype ι]
+         {F A : Type*}
+         {k : ℕ}
+
+/-- Affine line at origin `u`: `{u + α • v : α ∈ F}`, the line through `u` with direction `v`.
+This definition is used in **Theorems 1.4, 4.1, 5.1, [BCIKS20]** and **Lemma 4.4, [AHIV22]**. -/
+@[reducible]
+def affineLineAtOrigin [Ring F] [AddCommGroup A] [Module F A] (origin direction : ι → A) :
+    AffineSubspace F (ι → A) :=
+    AffineSubspace.mk' (p := origin) (direction := Submodule.span F {direction})
+
+omit [Fintype ι] in
+lemma mem_affineLineAtOrigin_iff [Ring F] [AddCommGroup A] [Module F A] (origin direction : ι → A)
+    (x : ι → A) : x ∈ affineLineAtOrigin (F := F) (origin := origin) (direction := direction)
+    ↔ ∃ α : F, x = origin + α • direction := by
+  rw [affineLineAtOrigin, AffineSubspace.mem_mk', vsub_eq_sub, Submodule.mem_span_singleton]
+  simp only [eq_sub_iff_add_eq, add_comm, eq_comm]
+
+variable [DecidableEq F] [Ring F] [Fintype F]
+
+/-- **Affine subspace from base origin and direction generators**.
+Constructs the affine subspace `{origin + span{directions}}`.
+Used in **Theorem 1.6, [BCIKS20]**. -/
+@[reducible]
+def affineSubspaceAtOrigin [AddCommGroup A] [DecidableEq A] [Module F A]
+    (origin : ι → A) (directions : Fin k → ι → A) : AffineSubspace F (ι → A) :=
+  AffineSubspace.mk' (p := origin) (direction := Submodule.span F (Finset.univ.image directions))
+
+omit [DecidableEq F] [Ring F] [Fintype F] in
+lemma mem_affineSubspaceFrom_iff [Ring F] [AddCommGroup A] [DecidableEq A] [Module F A]
+    (origin : ι → A) (directions : Fin k → ι → A) (x : ι → A) :
+    x ∈ affineSubspaceAtOrigin (F := F) (A := A) origin directions ↔
+    ∃ β : Fin k → F, x = origin + ∑ i : Fin k, β i • directions i := by
+  rw [affineSubspaceAtOrigin, AffineSubspace.mem_mk']
+  rw [Finset.coe_image, Finset.coe_univ, Set.image_univ]
+  rw [Submodule.mem_span_range_iff_exists_fun]
+  conv_lhs => rw [vsub_eq_sub]; simp only [eq_sub_iff_add_eq]; simp only [add_comm, eq_comm]
+
+/-- Vector addition action on affine subspaces. -/
+instance  _root_.Affine.instVAddForallAffineSubspace_arkLib : VAdd (ι → F) (AffineSubspace F (ι → F)) := AffineSubspace.pointwiseVAdd
+
+/-- A translate of a finite affine subspace is finite. -/
+noncomputable instance  _root_.Affine.instFintypeSubtypeForallMemAffineSubspaceHVAdd_arkLib {v : ι → F} {s : AffineSubspace F (ι → F)} [Fintype s] :
+    Fintype (v +ᵥ s) := Fintype.ofFinite ↥(v +ᵥ s)
+
+/-- The affine span of a set is finite over a finite field. -/
+noncomputable instance  _root_.Affine.instFintypeSubtypeForallMemAffineSubspaceAffineSpan_arkLib {s : Set (ι → F)} : Fintype (affineSpan F s) :=
+  Fintype.ofFinite ↥(affineSpan F s)
+
+/-- The image of a function `Fin k → α` over `Finset.univ` is nonempty when `k ≠ 0`. -/
+instance  _root_.Affine.instNonemptySubtypeForallMemFinsetImageFinUniv_arkLib [NeZero k] {f : Fin k → ι → F} : Nonempty (Finset.univ.image f) := by
+  simp only [Finset.mem_image, Finset.mem_univ, true_and, nonempty_subtype]
+  exact ⟨f 0, 0, by simp⟩
+
+/-- A translate of a nonempty affine subspace is nonempty. -/
+noncomputable instance  _root_.Affine.instNonemptySubtypeForallMemAffineSubspaceHVAdd_arkLib {v : ι → F} {s : AffineSubspace F (ι → F)} [inst : Nonempty s] :
+    Nonempty (v +ᵥ s) := by
+  apply nonempty_subtype.mpr
+  rcases inst with ⟨p, h⟩
+  exists (v +ᵥ p)
+  rw [AffineSubspace.vadd_mem_pointwise_vadd_iff]
+  exact h
+
+/-- The carrier set of the affine span of the image of a function `U : Fin k → ι → F`.
+  This is the set of all affine combinations of `U 0, U 1, ..., U (k-1)`. -/
+abbrev AffSpanSet [NeZero k] (U : Fin k → ι → F) : Set (ι → F) :=
+  (affineSpan F (Finset.univ.image U : Set (ι → F))).carrier
+
+omit [Fintype F] in
+/-- The affine span of a finite set of vectors is finite over a finite field. -/
+lemma AffSpanSet.instFinite [Finite F] [NeZero k] (u : Fin k → ι → F) :
+    (AffSpanSet u).Finite := by
+  letI : Fintype F := Fintype.ofFinite F
+  unfold AffSpanSet
+  exact Set.toFinite _
+
+/-- The affine span as a `Finset`, using `AffSpanFinite` to convert from the set. -/
+noncomputable def AffSpanFinset [NeZero k] (U : Fin k → ι → F) : Finset (ι → F) :=
+  (AffSpanSet.instFinite U).toFinset
+
+/-- A collection of affine subspaces in `F^ι`. -/
+noncomputable def AffSpanFinsetCollection {t : ℕ} [NeZero k] [NeZero t]
+  (C : Fin t → (Fin k → (ι → F))) : Set (Finset (ι → F)) :=
+  Set.range (fun i => AffSpanFinset (C i))
+
+/-- The carrier set of a nonempty finset is nonempty. -/
+instance  _root_.Affine.instNonemptyElemCoeFinsetOfSubtypeMem_arkLib {α : Type*} {s : Finset α} [inst : Nonempty s] : Nonempty ((s : Set α)) := by
+  rcases inst with ⟨w, h⟩
+  refine nonempty_subtype.mpr ?_
+  exact ⟨w, h⟩
+
+/-- Affine subspace carriers are Fintype when the ambient space is Fintype -/
+noncomputable instance instFintypeAffineSubspace {V : Type*} [AddCommGroup V]
+    [Module F V] [Fintype V] (S : AffineSubspace F V) : Fintype S := Fintype.ofFinite S
+
+/-- Affine subspaces constructed with mk' are always nonempty -/
+instance instNonemptyAffineSubspace_mk' {V : Type*} [AddCommGroup V] [Module F V]
+    (p : V) (direction : Submodule F V) : Nonempty (AffineSubspace.mk' p direction) :=
+  nonempty_subtype.mpr ⟨p, AffineSubspace.self_mem_mk' p direction⟩
+
+/-- The affine-space combination of module-valued codewords `U` at seed `x`:
+`U 0 + ∑ i, x i • U (i+1)`. -/
+abbrev affineComb [AddCommMonoid A] [Module F A] {s : ℕ}
+    (U : Fin (s + 1) → (ι → A)) (x : Fin s → F) : ι → A :=
+  fun k => U 0 k + ∑ i, x i • U i.succ k
+
+/-- The linear combination `∑ i, l i • U (i+1)` of the module-valued direction codewords. -/
+abbrev linComb [AddCommMonoid A] [Module F A] {s : ℕ}
+    (U : Fin (s + 1) → (ι → A)) (l : Fin s → F) : ι → A :=
+  fun k => ∑ i, l i • U i.succ k
+
+omit [Fintype ι] [DecidableEq F] [Fintype F] in
+/-- The affine combination along the line `x ↦ v + t • lam` in seed space. -/
+lemma affineComb_line [AddCommMonoid A] [Module F A] {s : ℕ}
+    (U : Fin (s + 1) → (ι → A)) (v lam : Fin s → F) (t : F) :
+    affineComb U (v + t • lam) = affineComb U v + t • (linComb U lam) := by
+  ext k
+  simp only [affineComb, linComb, Pi.add_apply, Pi.smul_apply, smul_eq_mul, add_smul, mul_smul,
+    Finset.smul_sum]
+  rw [Finset.sum_add_distrib]
+  abel
+
+end
+end Affine
+
+namespace Curve
+
+section
+
+variable {ι : Type*}
+         {F A : Type*} [Semiring F]
+         [AddCommMonoid A] [Module F A]
+
+/-- Evaluate the polynomial curve generated by `u` at parameter `r`. -/
+@[reducible]
+def polynomialCurveEval {k : ℕ} (u : Fin k → ι → A) (r : F) : ι → A :=
+  ∑ i : Fin k, (r ^ (i : ℕ)) • u i
+
+end
+
+section
+
+open Finset
+variable {ι : Type*} [Fintype ι] [Nonempty ι] [DecidableEq ι]
+         -- For usage with linear code, we set A = F
+         {F A : Type*} [Semiring F] [Fintype F]
+         [AddCommMonoid A] [Module F A] [Fintype A] [DecidableEq A]
+
+/-- **(Parameterised) polynomial curve, Thm 1.5, [BCIKS20]**:
+Let `u := {u₀, ..., u_{k-1}}` be a collection of vectors with coefficients in a semiring.
+The polynomial curve of degree `k-1` generated by `u` is the set of linear
+combinations of the form `{∑ i ∈ k, r ^ i • u_i | r ∈ F}`. -/
+@[reducible]
+def polynomialCurve {k : ℕ} (u : Fin k → ι → A) : Set (ι → A) :=
+  {v | ∃ r : F, v = polynomialCurveEval u r}
+
+/-- A polynomial curve over a finite field, as a `Finset`. Requires `DecidableEq ι` and
+  `DecidableEq F` to be able to construct the `Finset`. -/
+def polynomialCurveFinite
+    {k : ℕ} (u : Fin k → ι → A) : Finset (ι → A) :=
+  {v | ∃ r : F, v = polynomialCurveEval u r}
+
+/-- A polynomial curve over a nonempty finite field contains at least one point. -/
+instance  _root_.Curve.instNonemptySubtypeForallMemFinsetPolynomialCurveFinite [Nonempty F] {k : ℕ} :
+  ∀ u : Fin k → ι → A, Nonempty {x // x ∈ polynomialCurveFinite (F := F) u } := by
+  intro u
+  unfold polynomialCurveFinite
+  simp only [mem_filter, mem_univ, true_and, nonempty_subtype]
+  have ⟨r⟩ := ‹Nonempty F›
+  use ∑ i : Fin k, r ^ (i : ℕ) • u i, r
+
+open Finset
+instance  _root_.Curve.instNonemptySubtypeForallMemFinsetPolynomialCurveFinite_1 {k : ℕ} {u : Fin k → ι → A} : Nonempty {x // x ∈ polynomialCurveFinite (F := F) u} := by
+  simp [polynomialCurveFinite]
+
+end
+end Curve
+
+namespace sInf
+
+/-- If every element of a set is bounded above by `i`, then the infimum is also bounded by `i`. -/
+lemma sInf_UB_of_le_UB {S : Set ℕ} {i : ℕ} : (∀ s ∈ S, s ≤ i) → sInf S ≤ i := fun h ↦ by
+  by_cases S_empty : S.Nonempty
+  · classical
+    rw [Nat.sInf_def S_empty, Nat.find_le_iff]
+    choose s hs using S_empty
+    aesop
+  · aesop (add simp (show S = ∅ by aesop (add simp Set.Nonempty)))
+
+/-- If `i` is a lower bound for all elements in a nonempty set, then `i` is at most the infimum. -/
+lemma le_sInf_of_LB {S : Set ℕ} (hne : S.Nonempty) {i : ℕ}
+    (hLB : ∀ s ∈ S, i ≤ s) : i ≤ sInf S := by
+  exact hLB (sInf S) (Nat.sInf_mem hne)
+
+end sInf
+
+/-- A nonempty fintype has positive cardinality. -/
+@[simp]
+lemma Fintype.zero_lt_card {ι : Type*} [Fintype ι] [Nonempty ι] : 0 < Fintype.card ι := by
+  have := Fintype.card_ne_zero (α := ι); omega
+
+namespace Finset
+
+section
+
+variable {α : Type*} [DecidableEq α] {s : Finset α}
+
+/-- The diagonal of `s × s` has the same cardinality as `s`. -/
+@[simp]
+theorem card_filter_prod_self_eq :
+    #({x ∈ s ×ˢ s | x.1 = x.2}) = #s := by
+  rw [Finset.card_eq_of_equiv]
+  exact
+    { toFun := fun ⟨⟨x, y⟩, hxy⟩ ↦
+        ⟨x, by
+          have hxy' : (x ∈ s ∧ y ∈ s) ∧ x = y := by
+            simpa only [Finset.mem_filter, Finset.mem_product] using hxy
+          exact hxy'.1.1⟩
+      invFun := fun ⟨x, hx⟩ ↦
+        ⟨⟨x, x⟩, by
+          simpa only [Finset.mem_filter, Finset.mem_product] using
+            (show (x ∈ s ∧ x ∈ s) ∧ x = x from ⟨⟨hx, hx⟩, rfl⟩)⟩
+      left_inv := by
+        intro ⟨⟨x, y⟩, hxy⟩
+        have hxy' : (x ∈ s ∧ y ∈ s) ∧ x = y := by
+          simpa only [Finset.mem_filter, Finset.mem_product] using hxy
+        rcases hxy' with ⟨_, rfl⟩
+        rfl
+      right_inv := by
+        intro ⟨x, hx⟩
+        rfl }
+
+variable [Fintype α]
+
+/-- The number of elements different from a fixed element `e` is one less than the total. -/
+@[simp]
+theorem card_univ_filter_eq {e : α} :
+    #{x : α | x ≠ e} = #(Finset.univ (α := α)) - 1 := by
+  rw [
+    Finset.filter_congr (q := (· ∉ ({e} : Finset _))) (by simp),
+    ←Finset.sdiff_eq_filter, Finset.card_univ_sdiff
+  ]
+  simp
+
+/-- The diagonal of `s × s` (intersection form) has the same cardinality as `s`. -/
+@[simp]
+theorem card_prod_self_eq :
+    #(((s ×ˢ s : Finset _) ∩ ({x : α × α | x.1 = x.2} : Finset _)) : Finset _) = #s := by
+  rw [Finset.card_eq_of_equiv]
+  exact
+    { toFun := fun ⟨⟨x, y⟩, hxy⟩ ↦
+        ⟨x, by
+          have hxy' : (x ∈ s ∧ y ∈ s) ∧ x = y := by
+            simpa only [Finset.mem_inter, Finset.mem_product, Finset.mem_filter,
+              Finset.mem_univ, true_and] using hxy
+          exact hxy'.1.1⟩
+      invFun := fun ⟨x, hx⟩ ↦
+        ⟨⟨x, x⟩, by
+          simpa only [Finset.mem_inter, Finset.mem_product, Finset.mem_filter,
+            Finset.mem_univ, true_and] using
+            (show (x ∈ s ∧ x ∈ s) ∧ x = x from ⟨⟨hx, hx⟩, rfl⟩)⟩
+      left_inv := by
+        intro ⟨⟨x, y⟩, hxy⟩
+        have hxy' : (x ∈ s ∧ y ∈ s) ∧ x = y := by
+          simpa only [Finset.mem_inter, Finset.mem_product, Finset.mem_filter,
+            Finset.mem_univ, true_and] using hxy
+        rcases hxy' with ⟨_, rfl⟩
+        rfl
+      right_inv := by
+        intro ⟨x, hx⟩
+        rfl }
+
+end
+
+end Finset
+
+

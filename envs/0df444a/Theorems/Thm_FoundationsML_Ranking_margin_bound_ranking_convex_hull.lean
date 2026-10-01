@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Ranking_margin_bound_ranking_convex_hull
 -- name    : FoundationsML.Ranking.margin_bound_ranking_convex_hull
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-20T04:04:59.982355+00:00
 -- url     : https://prove2.me/theorems/a9f66796-39d0-432b-804e-517c919c1b2b

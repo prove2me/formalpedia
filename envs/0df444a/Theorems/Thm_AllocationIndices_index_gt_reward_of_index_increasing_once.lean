@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_index_gt_reward_of_index_increasing_once
 -- name    : AllocationIndices.index_gt_reward_of_index_increasing_once
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:33:18.380985+00:00
 -- url     : https://prove2.me/theorems/389f65d5-ad71-4fe4-952e-e0b1b46892c6

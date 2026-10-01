@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_stoppable_conditionD
 -- name    : AllocationIndices.stoppable_conditionD
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:48:33.520301+00:00
 -- url     : https://prove2.me/theorems/48e60a0d-4630-4794-bb2f-2a396b648979

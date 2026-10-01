@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_OrderFinding_order_recovered_prob_ge
 -- name    : ShorAlgorithms.OrderFinding.order_recovered_prob_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T09:41:24.998302+00:00
 -- url     : https://prove2.me/theorems/699bec31-38a5-45ee-b6c4-31b00a8fc9ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Wets1974_Feasibility_K2_closed_convex_polyhedral
 -- name    : Wets1974.Feasibility.K2_closed_convex_polyhedral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T14:32:56.059984+00:00
 -- url     : https://prove2.me/theorems/90574ca9-1a1d-49c7-b0ba-ad9381feacac

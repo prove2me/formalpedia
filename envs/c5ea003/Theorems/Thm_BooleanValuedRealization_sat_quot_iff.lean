@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BooleanValuedRealization_sat_quot_iff
 -- name    : BooleanValuedRealization.sat_quot_iff
--- status  : Open
+-- status  : Proved
 -- author  : @raver1975
 -- created : 2026-09-12T14:19:22.962434+00:00
 -- url     : https://prove2.me/theorems/389eb202-f6dc-4f4b-8980-97806acf26f2

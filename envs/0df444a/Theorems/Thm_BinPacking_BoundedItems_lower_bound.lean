@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_BoundedItems_lower_bound
 -- name    : BinPacking.BoundedItems.lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:10:29.006736+00:00
 -- url     : https://prove2.me/theorems/a7ec3e1f-596d-405a-986b-61294b2e30a0

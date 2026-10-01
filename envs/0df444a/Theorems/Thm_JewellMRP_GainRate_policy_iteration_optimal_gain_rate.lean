@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_GainRate_policy_iteration_optimal_gain_rate
 -- name    : JewellMRP.GainRate.policy_iteration_optimal_gain_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:27:42.061096+00:00
 -- url     : https://prove2.me/theorems/c94e9c38-05ba-49af-b158-1184e5ea8670

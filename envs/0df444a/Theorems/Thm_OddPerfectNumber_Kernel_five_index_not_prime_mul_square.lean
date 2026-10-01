@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_index_not_prime_mul_square
 -- name    : OddPerfectNumber.Kernel.five_index_not_prime_mul_square
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T14:17:10.532933+00:00
 -- url     : https://prove2.me/theorems/2ec27119-2f77-425b-ab15-a95e11c2f9bc

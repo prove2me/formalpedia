@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_BoundedItems_ff_upper_bound
 -- name    : BinPacking.BoundedItems.ff_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:12:11.433212+00:00
 -- url     : https://prove2.me/theorems/114c8e6c-de23-480d-8b76-5d4d75ca183f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Maximality_conj_add_halfSqNorm_finite_continuous
 -- name    : RockafellarMaxMono.Maximality.conj_add_halfSqNorm_finite_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:05:02.803473+00:00
 -- url     : https://prove2.me/theorems/7417c42e-cc54-43aa-8340-596ae9acbfa8

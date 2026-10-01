@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_FiniteHorizon_maxmin_recursion
 -- name    : RobustMDP.FiniteHorizon.maxmin_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:21:53.661647+00:00
 -- url     : https://prove2.me/theorems/9b1c32fe-802f-433c-bc29-5590ada95cf5

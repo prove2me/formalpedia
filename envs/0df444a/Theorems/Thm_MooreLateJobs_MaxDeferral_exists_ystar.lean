@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MooreLateJobs_MaxDeferral_exists_ystar
 -- name    : MooreLateJobs.MaxDeferral.exists_ystar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:37:33.818984+00:00
 -- url     : https://prove2.me/theorems/091613c2-b2e7-48d7-b379-2e8f22f045a6

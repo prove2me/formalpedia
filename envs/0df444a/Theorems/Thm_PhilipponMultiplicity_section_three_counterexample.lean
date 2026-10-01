@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_section_three_counterexample
 -- name    : PhilipponMultiplicity.section_three_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-09-23T21:11:15.840906+00:00
 -- url     : https://prove2.me/theorems/91a0b745-b6f0-4f40-ac3a-8b974a062f7e

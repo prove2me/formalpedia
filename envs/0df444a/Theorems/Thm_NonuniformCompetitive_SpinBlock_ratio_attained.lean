@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_SpinBlock_ratio_attained
 -- name    : NonuniformCompetitive.SpinBlock.ratio_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:53:28.01411+00:00
 -- url     : https://prove2.me/theorems/ea58ec71-b206-4a66-b08e-96bb516c111e

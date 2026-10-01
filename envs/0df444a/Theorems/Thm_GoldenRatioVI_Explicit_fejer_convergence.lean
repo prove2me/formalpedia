@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldenRatioVI_Explicit_fejer_convergence
 -- name    : GoldenRatioVI.Explicit.fejer_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:31:57.546518+00:00
 -- url     : https://prove2.me/theorems/5c25a46e-6ddc-4081-a704-4262a6798f76

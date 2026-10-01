@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NicaiseDelayWave_BoundaryInstab_eq5_1_5_2_separated_solution
 -- name    : NicaiseDelayWave.BoundaryInstab.eq5_1_5_2_separated_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T20:45:43.570217+00:00
 -- url     : https://prove2.me/theorems/94103f38-c6f2-4d76-89df-22456af070b3

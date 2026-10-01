@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_StochasticConvexity_random_sum_closure
 -- name    : StochasticOrders.StochasticConvexity.random_sum_closure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:15:00.927908+00:00
 -- url     : https://prove2.me/theorems/58884109-84fc-406b-b3bf-1274b46391f4

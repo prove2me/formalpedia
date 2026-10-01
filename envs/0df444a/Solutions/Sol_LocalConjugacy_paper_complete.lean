@@ -1,0 +1,96 @@
+-- Prove2me | solution 1 for LocalConjugacy.paper_complete
+-- status  : ACCEPTED   (prove)
+-- author  : @burkh4rt
+-- created : 2026-09-30T18:27:18.021557+00:00
+-- url     : https://prove2.me/submissions/92894243-69a0-4ac2-9a20-b9752f0df16b
+
+import Definitions.Def_LocalConjugacy_Groups
+import Definitions.Def_LocalConjugacy_Cohomology
+import Definitions.Def_LocalConjugacy_Examples
+import Definitions.Def_LocalConjugacy_Proof_Definitions
+import Definitions.Def_LocalConjugacy_Proof_Bridges
+import Definitions.Def_LocalConjugacy_Proof_Counterexamples_Heisenberg
+import Definitions.Def_LocalConjugacy_Proof_Counterexamples_HeisenbergStructure
+import Definitions.Def_LocalConjugacy_Proof_Counterexamples_HeisenbergSupersolvable
+import Definitions.Def_LocalConjugacy_Proof_ConcreteGroups
+import Definitions.Def_LocalConjugacy_Targets
+import Definitions.Def_LocalConjugacy_Proof_Compactness
+import Definitions.Def_LocalConjugacy_Proof_ProfiniteSylow
+import Definitions.Def_LocalConjugacy_Proof_StructuralImages
+import Definitions.Def_LocalConjugacy_Proof_FiniteAbelianCohomology
+import Definitions.Def_LocalConjugacy_Proof_AbelianComplement
+import Definitions.Def_LocalConjugacy_Proof_QuotientReduction
+import Definitions.Def_LocalConjugacy_Proof_Cohomology
+import Definitions.Def_LocalConjugacy_Proof_InvariantRestriction
+import Definitions.Def_LocalConjugacy_Proof_CocycleActions
+import Definitions.Def_LocalConjugacy_Proof_CoprimeCohomology
+import Definitions.Def_LocalConjugacy_Proof_CocycleDescent
+import Definitions.Def_LocalConjugacy_Proof_CocycleZorn
+import Definitions.Def_LocalConjugacy_Proof_CocycleProducts
+import Definitions.Def_LocalConjugacy_Proof_FiniteCoefficientSubgroup
+import Definitions.Def_LocalConjugacy_Proof_CocycleInvarianceSubgroup
+import Definitions.Def_LocalConjugacy_Proof_CocycleInjectivity
+import Definitions.Def_LocalConjugacy_Proof_CocycleRebase
+import Definitions.Def_LocalConjugacy_Proof_FiniteHall
+import Definitions.Def_LocalConjugacy_Proof_SupersolvableStructure
+import Definitions.Def_LocalConjugacy_Proof_ProfiniteHall
+import Definitions.Def_LocalConjugacy_Proof_ActionProductTopology
+import Definitions.Def_LocalConjugacy_Proof_HallCohomology
+import Definitions.Def_LocalConjugacy_Proof_SupersolvableRestriction
+import Definitions.Def_LocalConjugacy_Proof_NilpotentCoefficients
+import Definitions.Def_LocalConjugacy_Proof_NonabelianComplement
+import Definitions.Def_LocalConjugacy_Proof_ComplementSupersolvable
+import Definitions.Def_LocalConjugacy_Proof_Counterexamples_Quaternion
+import Definitions.Def_LocalConjugacy_Proof_QuaternionCohomology
+import Definitions.Def_LocalConjugacy_Proof_QuaternionMatrices
+import Definitions.Def_LocalConjugacy_Proof_QuaternionAction
+import Definitions.Def_LocalConjugacy_Proof_QuaternionComplements
+import Theorems.Thm_LocalConjugacy_corollary_1_3
+import Theorems.Thm_LocalConjugacy_corollary_1_4
+import Theorems.Thm_LocalConjugacy_counterexample_heisenberg
+import Theorems.Thm_LocalConjugacy_counterexample_quaternion
+import Theorems.Thm_LocalConjugacy_lemma_1_2
+import Theorems.Thm_LocalConjugacy_proposition_2_1
+import Theorems.Thm_LocalConjugacy_proposition_2_2
+import Theorems.Thm_LocalConjugacy_proposition_2_3
+import Theorems.Thm_LocalConjugacy_proposition_3_1
+import Theorems.Thm_LocalConjugacy_proposition_3_2
+import Theorems.Thm_LocalConjugacy_proposition_4_1
+import Theorems.Thm_LocalConjugacy_proposition_4_2
+import Theorems.Thm_LocalConjugacy_theorem_1_1
+
+/-! Kernel-checked proof and its local helpers, retaining their original scopes. -/
+
+section
+
+
+/-!
+The complete ResearchPaper goal. Every field is one independently quantified
+statement from the draft. The combined proof has no additional hypotheses and
+uses the thirteen separately proved milestones, including both counterexamples.
+-/
+universe u v
+
+/-- All numbered results and both counterexamples, exactly as submitted in the draft. -/
+private theorem LocalConjugacy.paper_complete_preparedProof : LocalConjugacy.PaperResults.{u, v} where
+  theorem_1_1 := @LocalConjugacy.theorem_1_1
+  lemma_1_2 := @LocalConjugacy.lemma_1_2
+  corollary_1_3 := @LocalConjugacy.corollary_1_3
+  corollary_1_4 := @LocalConjugacy.corollary_1_4
+  proposition_2_1 := @LocalConjugacy.proposition_2_1
+  proposition_2_2 := @LocalConjugacy.proposition_2_2
+  proposition_2_3 := @LocalConjugacy.proposition_2_3
+  proposition_3_1 := @LocalConjugacy.proposition_3_1
+  proposition_3_2 := @LocalConjugacy.proposition_3_2
+  proposition_4_1 := @LocalConjugacy.proposition_4_1
+  proposition_4_2 := @LocalConjugacy.proposition_4_2
+  counterexample_quaternion := @LocalConjugacy.counterexample_quaternion
+  counterexample_heisenberg := @LocalConjugacy.counterexample_heisenberg
+
+end
+
+universe u v
+
+theorem solution :
+LocalConjugacy.PaperResults.{u, v} :=
+  @LocalConjugacy.paper_complete_preparedProof

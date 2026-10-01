@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Maximality_fenchel_young_eq_iff
 -- name    : RockafellarMaxMono.Maximality.fenchel_young_eq_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:01:51.839412+00:00
 -- url     : https://prove2.me/theorems/68ee3da5-75ca-4f51-9649-2adc82518ee0

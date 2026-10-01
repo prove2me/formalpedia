@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_UnitVector_unit_vector_estimator_approximator
 -- name    : TraceEstimation.UnitVector.unit_vector_estimator_approximator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:38:52.387722+00:00
 -- url     : https://prove2.me/theorems/407fa5dd-cb35-4d7b-88b2-cb31ff89acf2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorAlgorithms_DiscreteLog_outcome_prob_eq
 -- name    : ShorAlgorithms.DiscreteLog.outcome_prob_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T01:05:18.951186+00:00
 -- url     : https://prove2.me/theorems/cc8714b7-6fcf-49da-aa44-c6ad71b2a59c

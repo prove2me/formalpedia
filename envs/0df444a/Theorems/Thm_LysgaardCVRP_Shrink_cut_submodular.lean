@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LysgaardCVRP_Shrink_cut_submodular
 -- name    : LysgaardCVRP.Shrink.cut_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:51:28.292669+00:00
 -- url     : https://prove2.me/theorems/845cfa05-7261-405c-9c8d-2bc3385d6d3a

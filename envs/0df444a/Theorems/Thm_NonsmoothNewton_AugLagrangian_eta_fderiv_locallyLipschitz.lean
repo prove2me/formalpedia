@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_AugLagrangian_eta_fderiv_locallyLipschitz
 -- name    : NonsmoothNewton.AugLagrangian.eta_fderiv_locallyLipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T23:04:41.452142+00:00
 -- url     : https://prove2.me/theorems/e527b759-84b3-49d0-bb3a-a934132e239b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Peskun_variance_identity
 -- name    : TierneyMH.Peskun.variance_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:38:13.400703+00:00
 -- url     : https://prove2.me/theorems/2496ebce-a2da-4b17-b726-609a01efe810

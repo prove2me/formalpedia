@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Discounted_worstCase_policy_eval
 -- name    : RobustMDP.Discounted.worstCase_policy_eval
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:59:42.175558+00:00
 -- url     : https://prove2.me/theorems/de1d81aa-f218-4de6-beb8-72f504a1981a

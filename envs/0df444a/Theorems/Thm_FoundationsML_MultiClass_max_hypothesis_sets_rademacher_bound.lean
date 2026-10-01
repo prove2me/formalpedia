@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_MultiClass_max_hypothesis_sets_rademacher_bound
 -- name    : FoundationsML.MultiClass.max_hypothesis_sets_rademacher_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:32:46.457823+00:00
 -- url     : https://prove2.me/theorems/f69c7659-cc88-4f8d-bb58-32acb0f8ca63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyhedralSOC_UpperBound_system10_quality
 -- name    : PolyhedralSOC.UpperBound.system10_quality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:49:41.591399+00:00
 -- url     : https://prove2.me/theorems/48ab68f6-d17e-46bb-9c2d-3a83a14f2717

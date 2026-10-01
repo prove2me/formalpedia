@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_FiniteHorizon_worstCase_policy_recursion
 -- name    : RobustMDP.FiniteHorizon.worstCase_policy_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:21:10.03726+00:00
 -- url     : https://prove2.me/theorems/f84e3753-68cc-4512-b79f-19cdedbd4b8f

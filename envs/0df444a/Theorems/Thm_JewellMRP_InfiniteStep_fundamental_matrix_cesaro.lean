@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_InfiniteStep_fundamental_matrix_cesaro
 -- name    : JewellMRP.InfiniteStep.fundamental_matrix_cesaro
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:31:52.650444+00:00
 -- url     : https://prove2.me/theorems/1494507c-2282-4393-a0c5-e1586012000d

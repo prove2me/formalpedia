@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BealeConvexMin_RandomLP_cost_convexOn_data
 -- name    : BealeConvexMin.RandomLP.cost_convexOn_data
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:42:33.687886+00:00
 -- url     : https://prove2.me/theorems/ef5aef7b-69e2-4e1e-9377-8a646ca962b8

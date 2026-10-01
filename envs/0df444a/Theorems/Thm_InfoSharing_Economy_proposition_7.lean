@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoSharing_Economy_proposition_7
 -- name    : InfoSharing.Economy.proposition_7
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-30T00:06:31.670528+00:00
 -- url     : https://prove2.me/theorems/f42c8126-8a6d-4937-91f5-c8be9aaa9ddb

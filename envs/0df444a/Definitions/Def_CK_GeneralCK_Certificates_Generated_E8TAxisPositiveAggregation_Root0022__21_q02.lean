@@ -1,0 +1,51 @@
+-- Prove2me | Definitions.Def_CK_GeneralCK_Certificates_Generated_E8TAxisPositiveAggregation_Root0022__21_q02
+-- name    : CK_GeneralCK_Certificates_Generated_E8TAxisPositiveAggregation_Root0022__21_q02
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-10-01T02:52:32.544891+00:00
+-- url     : https://prove2.me/theorems/f136dee5-8609-40e3-ae32-1fcc9db0ee52
+-- title:
+--   Courtade–Kumar proof module `GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0022 (+20 modules: GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0023, Gener…
+-- statement:
+--   Verbatim transplant of the Lean module `GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0022 (+20 modules: GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0023, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0024, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0025, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0026, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0027, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0028, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0029, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0030, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0031, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0032, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0033, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0034, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0035, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0036, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0037, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0038, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0039, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0040, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0041, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0042) (piece 3 of 21)` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0022 (+20 modules: GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0023, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0024, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0025, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0026, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0027, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0028, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0029, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0030, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0031, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0032, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0033, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0034, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0035, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0036, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0037, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0038, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0039, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0040, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0041, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0042) (piece 3 of 21)` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0022 (+20 modules: GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0023, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0024, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0025, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0026, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0027, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0028, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0029, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0030, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0031, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0032, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0033, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0034, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0035, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0036, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0037, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0038, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0039, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0040, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0041, GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0042) (piece 3 of 21) (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0022 (+20 modules: GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0023, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0024, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0025, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0026, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0027, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0028, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0029, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0030, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0031, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0032, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0033, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0034, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0035, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0036, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0037, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0038, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0039, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0040, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0041, GeneralCK/Certificates/Generated/E8TAxisPositiveAggregation/Root0042) (piece 3 of 21).lean)
+
+import Definitions.Def_CK_GeneralCK_Certificates_Generated_E8TAxisPositiveAggregation_Root0022__21_q01
+
+-- ===== source module GeneralCK.Certificates.Generated.E8TAxisPositiveAggregation.Root0024 =====
+section
+
+/-! Generated local positive-t aggregation. No full-domain assertion. -/
+namespace GeneralCK.Certificates.E8TAxisPositiveAggregation.Root0024
+open GeneralCK.Certificates E8TAxisPartitionKernel E8TAxisPositiveAggregationKernel
+set_option maxRecDepth 10000
+set_option maxHeartbeats 2000000
+
+noncomputable def rectangle : Rect := ⟨(1 / 10 : ℝ), (2968750000000000000000000000000000000000000000000000000000398272977783 / 25000000000000000000000000000000000000000000000000000000000000000000000 : ℝ), (24999999999999999999999999999999999999999999999999999999997261873277741 / 2500000000000000000000000000000000000000000000000000000000000000000000000 : ℝ), (3124999999999999999999999999999999999999999999999999999999502158777771 / 250000000000000000000000000000000000000000000000000000000000000000000000 : ℝ)⟩
+def tree : Tree := (.splitS (5468750000000000000000000000000000000000000000000000000000398272977783 / 50000000000000000000000000000000000000000000000000000000000000000000000 : ℚ) .leaf .leaf)
+
+theorem allLeaves : AllLeaves CellPositive tree rectangle := by
+  simp only [tree, AllLeaves, rectangle, Rect.leftS, Rect.rightS, Rect.lowerT, Rect.upperT]
+  refine ⟨by norm_num, by norm_num, ?_, ?_⟩
+  ·
+    convert E8TAxisProd0024LCertified.cellPositive using 1 <;>
+      norm_num [E8TAxisProd0024LGeometry.rectangle, E8TAxisProd0024LGeometry.sLower, E8TAxisProd0024LGeometry.sUpper, E8TAxisProd0024LGeometry.tLower, E8TAxisProd0024LGeometry.tUpper]
+  ·
+    convert E8TAxisProd0024RCertified.cellPositive using 1 <;>
+      norm_num [E8TAxisProd0024RGeometry.rectangle, E8TAxisProd0024RGeometry.sLower, E8TAxisProd0024RGeometry.sUpper, E8TAxisProd0024RGeometry.tLower, E8TAxisProd0024RGeometry.tUpper]
+
+theorem cellPositive : CellPositive rectangle := cellPositive_of_allLeaves allLeaves
+
+#print axioms cellPositive
+end GeneralCK.Certificates.E8TAxisPositiveAggregation.Root0024
+
+end
+
+

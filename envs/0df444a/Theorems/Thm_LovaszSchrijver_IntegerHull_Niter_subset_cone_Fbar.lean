@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_IntegerHull_Niter_subset_cone_Fbar
 -- name    : LovaszSchrijver.IntegerHull.Niter_subset_cone_Fbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:42:59.536969+00:00
 -- url     : https://prove2.me/theorems/d2c0f690-9c51-4ac0-9951-b0d0bc59efdd

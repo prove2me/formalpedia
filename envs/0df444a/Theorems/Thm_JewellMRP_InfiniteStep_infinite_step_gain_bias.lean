@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JewellMRP_InfiniteStep_infinite_step_gain_bias
 -- name    : JewellMRP.InfiniteStep.infinite_step_gain_bias
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:34:41.670702+00:00
 -- url     : https://prove2.me/theorems/263ed794-6a3a-4740-8bd7-28c58348c62e

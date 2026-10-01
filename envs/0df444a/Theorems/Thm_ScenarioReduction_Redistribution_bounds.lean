@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_Redistribution_bounds
 -- name    : ScenarioReduction.Redistribution.bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:50:48.983446+00:00
 -- url     : https://prove2.me/theorems/cce936b0-709c-47a0-826b-c4c5d65b1497

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneDP_Decrease_lemma1_optimal_value_limit
 -- name    : MonotoneDP.Decrease.lemma1_optimal_value_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:03:12.022785+00:00
 -- url     : https://prove2.me/theorems/0be89bd9-7a9a-46b0-8ed9-3b73794a4f5a

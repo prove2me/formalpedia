@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_TwoStage_example_p65
 -- name    : JohnsonFlowShop.TwoStage.example_p65
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:41:39.164455+00:00
 -- url     : https://prove2.me/theorems/ddb968ec-d6f0-4869-97ef-7bc84e72f4bb

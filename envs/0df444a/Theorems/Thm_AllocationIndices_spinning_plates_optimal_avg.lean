@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_spinning_plates_optimal_avg
 -- name    : AllocationIndices.spinning_plates_optimal_avg
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:59:30.509897+00:00
 -- url     : https://prove2.me/theorems/4c1d8a32-17f4-4781-93be-00e91d5b768f

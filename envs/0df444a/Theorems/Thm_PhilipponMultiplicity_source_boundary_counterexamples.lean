@@ -1,14 +1,12 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_source_boundary_counterexamples
 -- name    : PhilipponMultiplicity.source_boundary_counterexamples
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-09-23T21:11:59.714126+00:00
 -- url     : https://prove2.me/theorems/c3ab172d-0f05-450f-a8af-88e7d02613b0
 -- title:
 --   Source corrections — dimension-zero and zero-degree obstructions
 -- statement:
---   **Compiled open theorem statement; proof not yet supplied.** Checked locally with Lean 4.33.1 and the proposal’s pinned Mathlib. An independent blind readback is attached.
---
 --   Require actual complex embedded groups witnessing three failures: the converse at the trivial group, the strengthened forward statement at a two-point group, and Corollary 2.2 with degree (1,0) on two additive factors. These are explicit correction targets, not assumptions supplied to the source theorems.
 -- source:
 --   1986, p.359; 1987, p.398; boundary audit. https://numdam.org/articles/10.24033/bsmf.2060/

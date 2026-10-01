@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_Multistage_thm1_finite_convergence
 -- name    : StochasticProg.Multistage.thm1_finite_convergence
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:10:30.690719+00:00
 -- url     : https://prove2.me/theorems/7cf4cf2b-be09-45b8-aeb7-f08fd8c8cf89

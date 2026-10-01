@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_fair_charge_characterization
 -- name    : AllocationIndices.fair_charge_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:26:49.668093+00:00
 -- url     : https://prove2.me/theorems/e14bb2c9-fb55-4b8a-b07b-6c0f1dc7549d

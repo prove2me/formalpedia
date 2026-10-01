@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Nonsmooth_gradient_smoothing_mem_epsSubdiff
 -- name    : RandomGradFree.Nonsmooth.gradient_smoothing_mem_epsSubdiff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:12:30.373679+00:00
 -- url     : https://prove2.me/theorems/aed6b119-e1b9-4a2c-8005-daf0528bbce1

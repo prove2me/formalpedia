@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoSharing_Economy_proposition_8a
 -- name    : InfoSharing.Economy.proposition_8a
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-30T00:19:14.706976+00:00
 -- url     : https://prove2.me/theorems/5a909a8d-fc4b-4877-b985-d73198414baa

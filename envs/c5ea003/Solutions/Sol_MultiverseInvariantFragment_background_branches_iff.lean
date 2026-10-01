@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for MultiverseInvariantFragment.background_branches_iff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @raver1975
 -- created : 2026-09-13T18:35:36.529153+00:00
 -- url     : https://prove2.me/submissions/46a64571-28a5-40c7-9b21-87c8cc3fcdca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Sol generated from Logic/Multiverse/InvariantFragment.lean
 import Mathlib

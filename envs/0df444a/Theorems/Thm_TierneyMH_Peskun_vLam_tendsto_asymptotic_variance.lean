@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Peskun_vLam_tendsto_asymptotic_variance
 -- name    : TierneyMH.Peskun.vLam_tendsto_asymptotic_variance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T12:45:44.209147+00:00
 -- url     : https://prove2.me/theorems/b09bfdcc-a8e2-4040-9818-6de7a4570cc1

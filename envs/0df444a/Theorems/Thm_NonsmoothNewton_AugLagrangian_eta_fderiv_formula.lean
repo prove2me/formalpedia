@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothNewton_AugLagrangian_eta_fderiv_formula
 -- name    : NonsmoothNewton.AugLagrangian.eta_fderiv_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-29T23:04:57.077883+00:00
 -- url     : https://prove2.me/theorems/a6869330-b691-4c37-b6a2-3f79ab48c007

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioReduction_Redistribution_prescribed_redistribution
 -- name    : ScenarioReduction.Redistribution.prescribed_redistribution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:50:17.377793+00:00
 -- url     : https://prove2.me/theorems/0c24b31c-de6e-433c-af73-fb21924236f5

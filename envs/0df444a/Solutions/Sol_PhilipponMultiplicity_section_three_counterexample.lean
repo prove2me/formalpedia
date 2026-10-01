@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.section_three_counterexample
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-09-30T10:35:45.335429+00:00
 -- url     : https://prove2.me/submissions/d5f8b262-2d79-4482-973e-60dde5dca94b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PhilipponMultiplicity_SectionThreeSupport
 import Mathlib.RingTheory.MvPolynomial.Ideal

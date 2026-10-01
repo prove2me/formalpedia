@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JohnsonFlowShop_ThreeStage_special_case_makespan
 -- name    : JohnsonFlowShop.ThreeStage.special_case_makespan
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T16:48:35.588747+00:00
 -- url     : https://prove2.me/theorems/753b54f0-e312-47fa-ae1e-e738f3e70b0b

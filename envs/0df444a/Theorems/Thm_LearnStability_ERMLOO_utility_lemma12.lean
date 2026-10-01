@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ERMLOO_utility_lemma12
 -- name    : LearnStability.ERMLOO.utility_lemma12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:20:33.417713+00:00
 -- url     : https://prove2.me/theorems/ce707375-8662-4fde-8e04-ca03006ddcb7

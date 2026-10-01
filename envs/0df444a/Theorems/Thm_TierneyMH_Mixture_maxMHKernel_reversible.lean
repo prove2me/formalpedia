@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TierneyMH_Mixture_maxMHKernel_reversible
 -- name    : TierneyMH.Mixture.maxMHKernel_reversible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T03:02:13.289271+00:00
 -- url     : https://prove2.me/theorems/ef76a00c-24a9-47c9-a6a0-4875b1908306

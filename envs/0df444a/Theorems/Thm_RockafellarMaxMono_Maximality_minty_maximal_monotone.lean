@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Maximality_minty_maximal_monotone
 -- name    : RockafellarMaxMono.Maximality.minty_maximal_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:05:51.503275+00:00
 -- url     : https://prove2.me/theorems/740f2cc4-d59c-4a16-88db-a087bbc003f7

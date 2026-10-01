@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMDP_Discounted_maxmin_value
 -- name    : RobustMDP.Discounted.maxmin_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:00:45.758998+00:00
 -- url     : https://prove2.me/theorems/e80f2f2b-5a39-40a7-99ea-bf55dbfaea4b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalamaiMore_Convergence_subseq_bounded_stationary
 -- name    : CalamaiMore.Convergence.subseq_bounded_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:33:37.683484+00:00
 -- url     : https://prove2.me/theorems/4a875d2b-1fb2-4d79-8850-b8f1349903cf

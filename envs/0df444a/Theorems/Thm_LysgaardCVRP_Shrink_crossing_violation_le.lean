@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LysgaardCVRP_Shrink_crossing_violation_le
 -- name    : LysgaardCVRP.Shrink.crossing_violation_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:55:00.745691+00:00
 -- url     : https://prove2.me/theorems/5a3114c8-4ded-4ca1-8aea-d94d38b79541

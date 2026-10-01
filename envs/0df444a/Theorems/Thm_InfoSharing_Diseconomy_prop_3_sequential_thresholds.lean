@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InfoSharing_Diseconomy_prop_3_sequential_thresholds
 -- name    : InfoSharing.Diseconomy.prop_3_sequential_thresholds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:26:15.888063+00:00
 -- url     : https://prove2.me/theorems/0d68904b-485f-41a0-b6cd-0cdb533f8717

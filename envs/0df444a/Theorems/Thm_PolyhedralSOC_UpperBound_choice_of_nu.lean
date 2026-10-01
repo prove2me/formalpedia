@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyhedralSOC_UpperBound_choice_of_nu
 -- name    : PolyhedralSOC.UpperBound.choice_of_nu
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:49:55.628908+00:00
 -- url     : https://prove2.me/theorems/a4f8107e-47f2-4241-ae3b-82ea5bf4fa6c

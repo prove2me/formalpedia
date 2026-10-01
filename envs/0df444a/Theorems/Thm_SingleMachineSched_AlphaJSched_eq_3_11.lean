@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachineSched_AlphaJSched_eq_3_11
 -- name    : SingleMachineSched.AlphaJSched.eq_3_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:20:15.801799+00:00
 -- url     : https://prove2.me/theorems/495e1fd4-7a5b-44e8-9ba5-26f23ebf85d8

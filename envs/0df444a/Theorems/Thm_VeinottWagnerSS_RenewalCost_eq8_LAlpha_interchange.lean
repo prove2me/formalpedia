@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_RenewalCost_eq8_LAlpha_interchange
 -- name    : VeinottWagnerSS.RenewalCost.eq8_LAlpha_interchange
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:07:05.496824+00:00
 -- url     : https://prove2.me/theorems/5e82805b-4c39-4e8b-8396-0a11e7a6b104

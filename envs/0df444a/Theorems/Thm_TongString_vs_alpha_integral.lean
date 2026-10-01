@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TongString_vs_alpha_integral
 -- name    : TongString.vs_alpha_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T20:55:45.694659+00:00
 -- url     : https://prove2.me/theorems/51ec8c82-c0fd-45e8-ba07-034d5c31f245

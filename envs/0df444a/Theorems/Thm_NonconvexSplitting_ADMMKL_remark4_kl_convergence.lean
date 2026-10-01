@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexSplitting_ADMMKL_remark4_kl_convergence
 -- name    : NonconvexSplitting.ADMMKL.remark4_kl_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T18:40:52.827177+00:00
 -- url     : https://prove2.me/theorems/f96a0ba8-3018-4d53-87da-261c10b7565b
