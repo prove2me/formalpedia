@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_cyc5_pid_descent_core
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T07:34:14.429692+00:00
 -- url     : https://prove2.me/submissions/f8091bce-bc9d-4853-aa65-2b5586da2dbf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

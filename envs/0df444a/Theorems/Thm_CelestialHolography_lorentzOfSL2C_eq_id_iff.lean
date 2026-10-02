@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_lorentzOfSL2C_eq_id_iff
 -- name    : CelestialHolography.lorentzOfSL2C_eq_id_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T02:05:18.848839+00:00
 -- url     : https://prove2.me/theorems/0b6854e9-a3fe-4666-9bd7-f5808a57d573

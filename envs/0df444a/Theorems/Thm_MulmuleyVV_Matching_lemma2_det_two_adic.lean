@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulmuleyVV_Matching_lemma2_det_two_adic
 -- name    : MulmuleyVV.Matching.lemma2_det_two_adic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:36:52.62269+00:00
 -- url     : https://prove2.me/theorems/53d9df84-77be-45e3-bf2b-f7db7736a9d1

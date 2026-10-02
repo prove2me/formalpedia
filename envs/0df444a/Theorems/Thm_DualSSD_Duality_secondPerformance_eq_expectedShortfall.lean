@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_Duality_secondPerformance_eq_expectedShortfall
 -- name    : DualSSD.Duality.secondPerformance_eq_expectedShortfall
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:35:46.964463+00:00
 -- url     : https://prove2.me/theorems/58859ace-7c1a-463f-bbea-6765822f8d22

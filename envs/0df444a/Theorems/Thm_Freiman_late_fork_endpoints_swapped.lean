@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Freiman_late_fork_endpoints_swapped
 -- name    : Freiman.late_fork_endpoints_swapped
--- status  : Open
+-- status  : Proved
 -- author  : @Koki Yamada
 -- created : 2026-09-16T10:54:43.311338+00:00
 -- url     : https://prove2.me/theorems/d340d40e-9a5c-40a1-a32e-72749ef92e02

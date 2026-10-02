@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_alternating_exp_hasSum_cosh_integral
 -- name    : ErlerGross.alternating_exp_hasSum_cosh_integral
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-26T18:08:08.654988+00:00
 -- url     : https://prove2.me/theorems/e9e5bae4-7b37-4a91-b9ed-232fc37aef33

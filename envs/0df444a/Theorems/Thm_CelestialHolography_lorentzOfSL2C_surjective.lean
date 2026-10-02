@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_lorentzOfSL2C_surjective
 -- name    : CelestialHolography.lorentzOfSL2C_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T02:05:46.368457+00:00
 -- url     : https://prove2.me/theorems/32eca090-f0ca-4719-ac03-2eaeadfc07ca

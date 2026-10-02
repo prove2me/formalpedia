@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_not_locally_bounded_diverges
 -- name    : MilnorDynamics.not_locally_bounded_diverges
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-30T17:35:53.043348+00:00
 -- url     : https://prove2.me/theorems/3c632077-6f90-4a04-80b6-89b663e0f2f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleFieldTheory_conformalDimension_reflection
 -- name    : LiouvilleFieldTheory.conformalDimension_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T09:43:31.785456+00:00
 -- url     : https://prove2.me/theorems/7c86b8ee-0a8d-45f5-a307-0d23f1500ede

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_lemma17_inner_product_lower_tail
 -- name    : RobustGeneralization.GaussUpper.lemma17_inner_product_lower_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:26:37.959784+00:00
 -- url     : https://prove2.me/theorems/b1be64a1-3e2d-4f7f-b757-6e73537183d7

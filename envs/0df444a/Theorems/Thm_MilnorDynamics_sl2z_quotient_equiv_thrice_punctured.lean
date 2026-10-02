@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_sl2z_quotient_equiv_thrice_punctured
 -- name    : MilnorDynamics.sl2z_quotient_equiv_thrice_punctured
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-30T21:32:19.901986+00:00
 -- url     : https://prove2.me/theorems/f2a173f9-47fd-475b-be2f-62accc5c8684

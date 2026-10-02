@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_exists_holomorphic_disc_cover_modular_lambda
 -- name    : MilnorDynamics.exists_holomorphic_disc_cover_modular_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T09:55:13.454977+00:00
 -- url     : https://prove2.me/theorems/a2a36e09-ad82-4343-96ae-91049b4b776c

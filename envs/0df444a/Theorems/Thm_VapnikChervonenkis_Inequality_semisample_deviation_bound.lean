@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Inequality_semisample_deviation_bound
 -- name    : VapnikChervonenkis.Inequality.semisample_deviation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:18:49.742756+00:00
 -- url     : https://prove2.me/theorems/cfb584e3-74bc-4311-a778-bb057ee1214a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Inequality_lemma2_symmetrization
 -- name    : VapnikChervonenkis.Inequality.lemma2_symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:16:28.90836+00:00
 -- url     : https://prove2.me/theorems/9d2e6c2e-e023-4c1b-b40b-4880f6809b33

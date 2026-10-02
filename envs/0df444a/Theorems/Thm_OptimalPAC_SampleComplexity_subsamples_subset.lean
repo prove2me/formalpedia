@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_subsamples_subset
 -- name    : OptimalPAC.SampleComplexity.subsamples_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:28:04.565001+00:00
 -- url     : https://prove2.me/theorems/c125dfcc-7b3b-4d78-8784-d633e22eb080

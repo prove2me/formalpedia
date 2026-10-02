@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialFB_IFB_proposition6_minimizing
 -- name    : InertialFB.IFB.proposition6_minimizing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:51:31.802171+00:00
 -- url     : https://prove2.me/theorems/3b13a5d1-e547-4aaf-ac3b-abc40ee15c2a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_Reformulation_feasible7_convex
 -- name    : DRLogReg.Reformulation.feasible7_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:33:51.622615+00:00
 -- url     : https://prove2.me/theorems/a27d2417-8d13-4ea2-b5ea-25791448e815

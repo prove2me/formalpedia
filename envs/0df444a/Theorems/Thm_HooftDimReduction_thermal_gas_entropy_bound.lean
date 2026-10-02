@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftDimReduction_thermal_gas_entropy_bound
 -- name    : HooftDimReduction.thermal_gas_entropy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:18:10.589111+00:00
 -- url     : https://prove2.me/theorems/dfb7f82e-c56f-4744-9817-2473fe001c22

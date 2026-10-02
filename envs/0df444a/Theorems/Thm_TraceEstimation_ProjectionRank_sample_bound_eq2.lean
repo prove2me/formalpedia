@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_ProjectionRank_sample_bound_eq2
 -- name    : TraceEstimation.ProjectionRank.sample_bound_eq2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:16:03.91639+00:00
 -- url     : https://prove2.me/theorems/82d323fc-2f3c-4405-9aa4-2b376f7cad57

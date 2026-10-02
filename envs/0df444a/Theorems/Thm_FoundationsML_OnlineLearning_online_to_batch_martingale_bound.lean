@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_OnlineLearning_online_to_batch_martingale_bound
 -- name    : FoundationsML.OnlineLearning.online_to_batch_martingale_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:20:13.799967+00:00
 -- url     : https://prove2.me/theorems/763bf45d-07f4-4186-aaec-d07492000bd3

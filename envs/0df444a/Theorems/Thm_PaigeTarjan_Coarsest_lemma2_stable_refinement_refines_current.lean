@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_Coarsest_lemma2_stable_refinement_refines_current
 -- name    : PaigeTarjan.Coarsest.lemma2_stable_refinement_refines_current
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:49:28.455972+00:00
 -- url     : https://prove2.me/theorems/97bc30d3-6d54-4091-82f9-039b1b0da9cd

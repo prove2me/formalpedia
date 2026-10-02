@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_RLBasics_ucbvi_regret_bound
 -- name    : FoundationsRL.RLBasics.ucbvi_regret_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-18T05:04:14.690695+00:00
 -- url     : https://prove2.me/theorems/f32d2329-cfe5-4581-b2cb-638eabf069e1

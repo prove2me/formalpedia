@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindgrenPriceDynamics_hamiltonian_minimizer_iff
 -- name    : LindgrenPriceDynamics.hamiltonian_minimizer_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T18:06:10.28085+00:00
 -- url     : https://prove2.me/theorems/c4084ad6-e22c-4f4a-b312-d302cc9aa0e3

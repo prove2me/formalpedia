@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_locally_bounded_subseq_locally_uniform
 -- name    : MilnorDynamics.locally_bounded_subseq_locally_uniform
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-30T17:28:45.458649+00:00
 -- url     : https://prove2.me/theorems/5b631010-6dca-453f-8c87-809e48d9ae3f

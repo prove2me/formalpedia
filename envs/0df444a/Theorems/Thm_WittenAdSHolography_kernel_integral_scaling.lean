@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WittenAdSHolography_kernel_integral_scaling
 -- name    : WittenAdSHolography.kernel_integral_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:31:42.129355+00:00
 -- url     : https://prove2.me/theorems/9442a986-9009-4fd4-abbb-b68287e887d2

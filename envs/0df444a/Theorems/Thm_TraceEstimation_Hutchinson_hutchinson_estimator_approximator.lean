@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Hutchinson_hutchinson_estimator_approximator
 -- name    : TraceEstimation.Hutchinson.hutchinson_estimator_approximator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:32:52.116466+00:00
 -- url     : https://prove2.me/theorems/98e52f68-4c39-4dca-a273-2f4331e260e2

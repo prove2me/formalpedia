@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OPG1808_minimal_counterexample_strongly_connected
 -- name    : OPG1808.minimal_counterexample_strongly_connected
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-09-24T06:07:13.5392+00:00
 -- url     : https://prove2.me/theorems/13654e1a-0f26-4641-a61a-9414fdc8b96c

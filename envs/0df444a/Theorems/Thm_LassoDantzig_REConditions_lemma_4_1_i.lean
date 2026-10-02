@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_REConditions_lemma_4_1_i
 -- name    : LassoDantzig.REConditions.lemma_4_1_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:26:38.472887+00:00
 -- url     : https://prove2.me/theorems/6cd6cd38-deba-4e69-9c30-a135edd3fb9a

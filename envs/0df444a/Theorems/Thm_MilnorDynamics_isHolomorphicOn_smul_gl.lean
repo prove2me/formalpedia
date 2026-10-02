@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_isHolomorphicOn_smul_gl
 -- name    : MilnorDynamics.isHolomorphicOn_smul_gl
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-01T03:13:49.806139+00:00
 -- url     : https://prove2.me/theorems/c0cfcaeb-2d13-42ff-9349-c377288a82ea

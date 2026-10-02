@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Lasso_lemma_B1
 -- name    : LassoDantzig.Lasso.lemma_B1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:19:08.27371+00:00
 -- url     : https://prove2.me/theorems/28b29a80-d24f-49c9-a04b-366a7e9f2d8b

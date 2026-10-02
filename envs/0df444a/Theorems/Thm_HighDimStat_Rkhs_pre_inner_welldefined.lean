@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Rkhs_pre_inner_welldefined
 -- name    : HighDimStat.Rkhs.pre_inner_welldefined
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T14:39:52.163817+00:00
 -- url     : https://prove2.me/theorems/151a740b-0f4d-4eb2-a7bf-7ad082d892c8

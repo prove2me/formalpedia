@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_inv_X_antideriv_logExtension
 -- name    : LiouvilleDiffAlg.inv_X_antideriv_logExtension
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:43:23.30899+00:00
 -- url     : https://prove2.me/theorems/f2d2d65d-2c49-438a-b1ea-5222cc508cfd

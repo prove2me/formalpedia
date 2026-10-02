@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonAmenability_isAmenable_F_of_isExtensivelyAmenableOn
 -- name    : ThompsonAmenability.isAmenable_F_of_isExtensivelyAmenableOn
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-30T19:07:49.207345+00:00
 -- url     : https://prove2.me/theorems/3fdc6fc2-d996-4ab9-8c39-9eac5878771f

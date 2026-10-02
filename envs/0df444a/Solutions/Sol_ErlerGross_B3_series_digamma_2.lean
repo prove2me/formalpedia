@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for ErlerGross.B3_series_digamma
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T12:42:36.56783+00:00
 -- url     : https://prove2.me/submissions/d13a5e79-4e67-4e67-8b6a-3e9afabd1a3d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ErlerGross_defs

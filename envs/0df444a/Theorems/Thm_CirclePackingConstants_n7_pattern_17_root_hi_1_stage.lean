@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_n7_pattern_17_root_hi_1_stage
 -- name    : CirclePackingConstants.n7_pattern_17_root_hi_1_stage
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T01:26:25.421935+00:00
 -- url     : https://prove2.me/theorems/04d203fd-11cd-4766-b428-bd8a1ab33c4e

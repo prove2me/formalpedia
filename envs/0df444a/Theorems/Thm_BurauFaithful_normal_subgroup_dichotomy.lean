@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurauFaithful_normal_subgroup_dichotomy
 -- name    : BurauFaithful.normal_subgroup_dichotomy
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-09-24T13:57:01.040988+00:00
 -- url     : https://prove2.me/theorems/cda1a80c-9872-4b26-ae23-6c3464ce1319

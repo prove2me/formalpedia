@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_odd_order_dvd_pow_card_sub_one
 -- name    : OddPerfectNumber.Kernel.odd_order_dvd_pow_card_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T01:13:18.652568+00:00
 -- url     : https://prove2.me/theorems/254ae6b2-eaa6-4234-b55b-1a93f9d57a7b

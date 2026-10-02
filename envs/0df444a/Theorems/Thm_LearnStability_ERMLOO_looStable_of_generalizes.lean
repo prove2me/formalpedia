@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ERMLOO_looStable_of_generalizes
 -- name    : LearnStability.ERMLOO.looStable_of_generalizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:54:42.083551+00:00
 -- url     : https://prove2.me/theorems/877e6e8c-51f1-46ef-8754-9f0687c4826e

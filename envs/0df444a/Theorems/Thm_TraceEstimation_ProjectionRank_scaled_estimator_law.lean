@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_ProjectionRank_scaled_estimator_law
 -- name    : TraceEstimation.ProjectionRank.scaled_estimator_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:13:18.659979+00:00
 -- url     : https://prove2.me/theorems/071a4190-49d1-4aa2-aabb-01d06d4218a6

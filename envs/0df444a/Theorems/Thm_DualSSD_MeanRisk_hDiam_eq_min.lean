@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_MeanRisk_hDiam_eq_min
 -- name    : DualSSD.MeanRisk.hDiam_eq_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:05:20.30532+00:00
 -- url     : https://prove2.me/theorems/a9bc3d1a-adaa-40b4-a29d-0f1b83940357

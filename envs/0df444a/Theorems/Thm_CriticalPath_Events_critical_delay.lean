@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CriticalPath_Events_critical_delay
 -- name    : CriticalPath.Events.critical_delay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:27:49.876201+00:00
 -- url     : https://prove2.me/theorems/e7c3c85c-c736-4561-a975-bd8f9ae68b47

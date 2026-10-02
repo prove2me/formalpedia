@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedCE_Convergence_matching_pennies_nonstationary
 -- name    : CalibratedCE.Convergence.matching_pennies_nonstationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:34:10.124306+00:00
 -- url     : https://prove2.me/theorems/366f2d22-c86d-45a1-8902-aafab601f105

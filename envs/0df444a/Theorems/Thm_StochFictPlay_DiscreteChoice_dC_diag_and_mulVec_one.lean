@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_DiscreteChoice_dC_diag_and_mulVec_one
 -- name    : StochFictPlay.DiscreteChoice.dC_diag_and_mulVec_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:57:30.467975+00:00
 -- url     : https://prove2.me/theorems/ed44ac17-72e3-4634-987f-102ede364fb9

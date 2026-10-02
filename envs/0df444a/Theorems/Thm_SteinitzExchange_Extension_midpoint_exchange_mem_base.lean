@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Extension_midpoint_exchange_mem_base
 -- name    : SteinitzExchange.Extension.midpoint_exchange_mem_base
--- status  : Open
+-- status  : Proved
 -- author  : @choi
 -- created : 2026-10-01T03:34:19.912165+00:00
 -- url     : https://prove2.me/theorems/3ac8d0ff-c3a8-4428-b097-3c19f40868c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_flt5_zz5_kummer_pid_root
 -- name    : flt5_zz5_kummer_pid_root
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-05-13T08:56:33.999226+00:00
 -- url     : https://prove2.me/theorems/4202b33d-b565-47d5-bd18-67e62f3cc135

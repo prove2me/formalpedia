@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindgrenPriceDynamics_price_normalization_orthogonal
 -- name    : LindgrenPriceDynamics.price_normalization_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T17:56:00.528344+00:00
 -- url     : https://prove2.me/theorems/1fd9e21e-18d2-4c93-a0c2-3592c6c586f8

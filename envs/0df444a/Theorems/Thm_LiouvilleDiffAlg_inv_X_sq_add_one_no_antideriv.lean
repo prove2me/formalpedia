@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_inv_X_sq_add_one_no_antideriv
 -- name    : LiouvilleDiffAlg.inv_X_sq_add_one_no_antideriv
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:46:55.505708+00:00
 -- url     : https://prove2.me/theorems/c8fcd101-d447-46ca-8c1d-ea1ba4b25799

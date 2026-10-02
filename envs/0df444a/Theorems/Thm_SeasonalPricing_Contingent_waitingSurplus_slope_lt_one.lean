@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeasonalPricing_Contingent_waitingSurplus_slope_lt_one
 -- name    : SeasonalPricing.Contingent.waitingSurplus_slope_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:09:58.111798+00:00
 -- url     : https://prove2.me/theorems/eaccb225-eee6-409f-9fbd-b9eca8ed4ac7

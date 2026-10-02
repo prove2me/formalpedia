@@ -7,9 +7,17 @@
 -- title:
 --   1987 addendum — converse construction (positive dimension)
 -- statement:
---   **Compiled open theorem statement; proof not yet supplied.** Checked locally with Lean 4.33.1 and the proposal’s pinned Mathlib. An independent blind readback is attached.
+--   For an embedded commutative group of positive dimension $n$, suppose $D_i\ge\mathcal H(G;1,\ldots,1)$ and an algebraic subgroup $H$ satisfies
+--   $$
+--   \binom{T+s}{s}|(\Sigma+H)/H|\mathcal H(H;D)
+--   \le\frac{\mathcal H(G;D)}{4^n n!},
+--   \qquad s=\operatorname{codim}_A(A\cap H).
+--   $$
+--   Then there is a polynomial of exact multidegree $D$, nonzero on $G$, with contact at least $T+1$ at every point of $\Sigma+H$.
 --
---   For an ambient group of positive dimension, given the source degree lower bounds and a subgroup satisfying the Hilbert inequality with reciprocal constant 4^n n!, construct a polynomial of the specified multidegree with contact at least T+1 on every sampled subgroup translate, but not identically zero on G. The n=0 obstruction is explicitly recorded as a separate required counterexample; this positive-dimension correction is not presented as a verbatim hypothesis from the printed statement.
+--   An accepted proof-sketch proves the interpolation step using the actual finite-dimensional homogeneous spaces and the ideal of all sampled analytic jets. The remaining input is the [strict contact Hilbert-function gap](p2m:theorem/05d2413e-b689-4aac-913c-d368f113c785); this quantitative estimate is Open, so the converse is not yet proved. The subgroup need not be connected, and the original constant is retained.
+--
+--   Source: [Philippon's 1987 addendum, p. 398](https://numdam.org/articles/10.24033/bsmf.2084/). The explicit restriction $n>0$ is the mission's recorded correction for the zero-dimensional obstruction. The formal statement has not changed.
 -- source:
 --   1987, p. 398. https://numdam.org/articles/10.24033/bsmf.2084/
 

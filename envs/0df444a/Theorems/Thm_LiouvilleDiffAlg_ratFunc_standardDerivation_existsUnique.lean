@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_ratFunc_standardDerivation_existsUnique
 -- name    : LiouvilleDiffAlg.ratFunc_standardDerivation_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:29:16.029008+00:00
 -- url     : https://prove2.me/theorems/c1ae3ec2-d54f-4383-94e4-cdab560a8d25

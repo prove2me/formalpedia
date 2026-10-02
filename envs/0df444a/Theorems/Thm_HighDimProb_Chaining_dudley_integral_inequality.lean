@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_Chaining_dudley_integral_inequality
 -- name    : HighDimProb.Chaining.dudley_integral_inequality
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:05:23.241471+00:00
 -- url     : https://prove2.me/theorems/32e66e6f-bb7d-4094-8136-25578f7619a4

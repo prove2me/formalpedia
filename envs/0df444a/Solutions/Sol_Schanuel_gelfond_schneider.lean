@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Schanuel.gelfond_schneider
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Lucas
 -- created : 2026-09-15T18:56:30.783825+00:00
 -- url     : https://prove2.me/submissions/5dca33ff-6134-44e2-b303-8dce187f6a47
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Schanuel_baker_linear_forms_in_logarithms
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_BoundedItems_ff_light_bins_le_two
 -- name    : BinPacking.BoundedItems.ff_light_bins_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:11:42.806674+00:00
 -- url     : https://prove2.me/theorems/49c4899d-3a83-46b6-bad1-ba25296e010a

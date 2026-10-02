@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Birge1985_Degeneracy_feasibility_cut_forces_degeneracy
 -- name    : Birge1985.Degeneracy.feasibility_cut_forces_degeneracy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:31:53.916961+00:00
 -- url     : https://prove2.me/theorems/1432c1fb-f962-41d5-94f1-70e397f21cf6

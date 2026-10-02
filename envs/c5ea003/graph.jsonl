@@ -1036,6 +1036,74 @@
 {"parent": "Applications_ZeroKnowledgeTheoremProving_OrComposition", "child": "Applications_ZeroKnowledgeTheoremProving_AffineDuality", "via": ["statement"]}
 {"parent": "Applications_ZeroKnowledgeTheoremProving_OrComposition", "child": "Applications_ZeroKnowledgeTheoremProving_LargeChallengeSpace", "via": ["statement"]}
 {"parent": "Applications_ZeroKnowledgeTheoremProving_ProvabilityAmplification", "child": "Applications_ZeroKnowledgeTheoremProving_AffineDuality", "via": ["statement"]}
+{"parent": "Arexychen.Erdos180.deleteIsolated_isStar_of_embeds_into_star", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_deleteIsolated_le_of_embeds", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_induce_compl_singleton", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_card_mul_degree_bound_of_edges_meet_finset", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_of_isHFree_of_deleteIsolated_isAcyclic", "child": "Arexychen.Erdos180.edgeCount_induce_compl_singleton", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_of_isHFree_of_deleteIsolated_isAcyclic", "child": "Arexychen.Erdos180.embedsAsSubgraph_of_isAcyclic_of_card_le_minDegree", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_of_isHFree_of_deleteIsolated_isAcyclic", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_of_star_free_of_matching_free", "child": "Arexychen.Erdos180.edgeCount_le_card_mul_degree_bound_of_edges_meet_finset", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_of_star_free_of_matching_free", "child": "Arexychen.Erdos180.exists_maximalMatching_edgeCover", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_of_star_free_of_matching_free", "child": "Arexychen.Erdos180.matching_embedding_of_edgeFinset_card_ge", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.edgeCount_le_of_star_free_of_matching_free", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_matchingHost", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_matchingHost", "child": "arexychen_erdos180_families_matching", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_oneEdgeHost", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_oneEdgeHost", "child": "arexychen_erdos180_families_oneedge", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.edgeCount_starGraph_fin", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.embedsAsSubgraph_of_isAcyclic_of_card_le_minDegree", "child": "Arexychen.Erdos180.exists_degree_one_of_isAcyclic_of_edge", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.embedsAsSubgraph_of_isAcyclic_of_card_le_minDegree", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.embeds_into_large_matchingGraph_of_isMatching_deleteIsolated", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.embeds_of_deleteIsolated_isStar_of_degree_ge_card", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "Arexychen.Erdos180.familyFree_edgeCount_le_const_of_star_matching_pair", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "Arexychen.Erdos180.isOLinear_extremalNumber_of_deleteIsolated_isAcyclic", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "Arexychen.Erdos180.oneEdgeConstruction_extremalFamily_eventually_one_le", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "Arexychen.Erdos180.starConstruction_extremalFamily_eventually_pred_le", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "arexychen_erdos180_families_bounds", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familiesTheoremStructural", "child": "arexychen_erdos180_finite", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familyFree_edgeCount_le_const_of_star_matching_pair", "child": "Arexychen.Erdos180.edgeCount_le_card_mul_degree_bound_of_edges_meet_finset", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familyFree_edgeCount_le_const_of_star_matching_pair", "child": "Arexychen.Erdos180.embeds_of_deleteIsolated_isStar_of_degree_ge_card", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familyFree_edgeCount_le_const_of_star_matching_pair", "child": "Arexychen.Erdos180.familyFree_exists_edgeCover_card_le_two_mul_pred_card_of_matching", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familyFree_edgeCount_le_const_of_star_matching_pair", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familyFree_edgeCount_le_const_of_star_matching_pair", "child": "arexychen_erdos180_families_bounds", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familyFree_edgeCount_le_const_of_star_matching_pair", "child": "arexychen_erdos180_finite", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familyFree_exists_edgeCover_card_le_two_mul_pred_card_of_matching", "child": "Arexychen.Erdos180.embeds_into_large_matchingGraph_of_isMatching_deleteIsolated", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familyFree_exists_edgeCover_card_le_two_mul_pred_card_of_matching", "child": "Arexychen.Erdos180.exists_maximalMatching_edgeCover", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familyFree_exists_edgeCover_card_le_two_mul_pred_card_of_matching", "child": "Arexychen.Erdos180.matching_embedding_of_edgeFinset_card_ge", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familyFree_exists_edgeCover_card_le_two_mul_pred_card_of_matching", "child": "arexychen_erdos180_core", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.familyFree_exists_edgeCover_card_le_two_mul_pred_card_of_matching", "child": "arexychen_erdos180_families_bounds", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.familyFree_exists_edgeCover_card_le_two_mul_pred_card_of_matching", "child": "arexychen_erdos180_finite", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.isOLinear_extremalNumber_of_deleteIsolated_isAcyclic", "child": "Arexychen.Erdos180.edgeCount_le_of_isHFree_of_deleteIsolated_isAcyclic", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.isOLinear_extremalNumber_of_deleteIsolated_isAcyclic", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.isThetaLinear_extremal_of_reduced_isAcyclic_of_atLeastTwo", "child": "Arexychen.Erdos180.isOLinear_extremalNumber_of_deleteIsolated_isAcyclic", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.isThetaLinear_extremal_of_reduced_isAcyclic_of_atLeastTwo", "child": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.isThetaLinear_extremal_of_reduced_isAcyclic_of_atLeastTwo", "child": "Arexychen.Erdos180.starConstruction_extremalFamily_eventually_pred_le", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.isThetaLinear_extremal_of_reduced_isAcyclic_of_atLeastTwo", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.isThetaLinear_extremal_of_reduced_isAcyclic_of_atLeastTwo", "child": "arexychen_erdos180_families_bounds", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.isThetaLinear_extremal_of_reduced_isAcyclic_of_atLeastTwo", "child": "arexychen_erdos180_finite", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "child": "Arexychen.Erdos180.edgeCount_matchingHost", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "child": "Arexychen.Erdos180.matchingHost_isMatchingGraph", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "child": "arexychen_erdos180_core", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "child": "arexychen_erdos180_families_bounds", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "child": "arexychen_erdos180_families_matching", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.matchingConstruction_extremalFamily_eventually_half_le", "child": "arexychen_erdos180_finite", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.matchingHost_isMatchingGraph", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.matchingHost_isMatchingGraph", "child": "arexychen_erdos180_families_matching", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.matching_embedding_of_edgeFinset_card_ge", "child": "arexychen_erdos180_core", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.oneEdgeConstruction_extremalFamily_eventually_one_le", "child": "Arexychen.Erdos180.edgeCount_deleteIsolated_le_of_embeds", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.oneEdgeConstruction_extremalFamily_eventually_one_le", "child": "Arexychen.Erdos180.edgeCount_oneEdgeHost", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.oneEdgeConstruction_extremalFamily_eventually_one_le", "child": "arexychen_erdos180_core", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.oneEdgeConstruction_extremalFamily_eventually_one_le", "child": "arexychen_erdos180_families_bounds", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.oneEdgeConstruction_extremalFamily_eventually_one_le", "child": "arexychen_erdos180_families_oneedge", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.oneEdgeConstruction_extremalFamily_eventually_one_le", "child": "arexychen_erdos180_finite", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.starConstruction_extremalFamily_eventually_pred_le", "child": "Arexychen.Erdos180.deleteIsolated_isStar_of_embeds_into_star", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.starConstruction_extremalFamily_eventually_pred_le", "child": "Arexychen.Erdos180.edgeCount_starGraph_fin", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.starConstruction_extremalFamily_eventually_pred_le", "child": "arexychen_erdos180_core", "via": ["solution"]}
+{"parent": "Arexychen.Erdos180.starConstruction_extremalFamily_eventually_pred_le", "child": "arexychen_erdos180_families_bounds", "via": ["solution", "statement"]}
+{"parent": "Arexychen.Erdos180.starConstruction_extremalFamily_eventually_pred_le", "child": "arexychen_erdos180_finite", "via": ["solution", "statement"]}
 {"parent": "ArgKernelGame.exists_unique_kernel", "child": "Novelty_ArgumentationKernelGame", "via": ["solution", "statement"]}
 {"parent": "ArgMeet.exists_complete", "child": "ArgMeet.fundamental_lemma", "via": ["solution"]}
 {"parent": "ArgMeet.exists_complete", "child": "Novelty_ArgumentationMeetSemilattice", "via": ["solution", "statement"]}
@@ -3344,6 +3412,296 @@
 {"parent": "BonferroniMarginals.sum_offDiag_eq", "child": "BonferroniMarginals.sum_prod_eq_sum_card_add_offDiag", "via": ["solution"]}
 {"parent": "BonferroniMarginals.sum_offDiag_eq", "child": "MachineLearning_BonferroniMarginals_Core", "via": ["solution", "statement"]}
 {"parent": "BonferroniMarginals.sum_prod_eq_sum_card_add_offDiag", "child": "MachineLearning_BonferroniMarginals_Core", "via": ["solution", "statement"]}
+{"parent": "BookSixth.affine_and_translate_families", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.arc_has_segment_chain_in_open_neighborhood", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.arc_last_exit_ball", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.arc_small_radius_last_exit", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.arc_small_radius_last_exit", "child": "BookSixth.arc_last_exit_ball", "via": ["solution"]}
+{"parent": "BookSixth.borromean_fox_odd", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bregman_minc", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.bregman_prod_le_row_prod", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_perturbation_is_homeomorph", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_perturbation_is_homeomorph_v2", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_perturbation_is_homeomorph_v2", "child": "BookSixth.small_displacement_is_homeomorph", "via": ["solution"]}
+{"parent": "BookSixth.bump_perturbation_is_homeomorph_v3", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_perturbation_is_homeomorph_v3", "child": "BookSixth.small_displacement_is_homeomorph", "via": ["solution"]}
+{"parent": "BookSixth.bump_perturbation_is_homeomorph_v4", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_perturbation_is_homeomorph_v4", "child": "BookSixth.small_displacement_is_homeomorph", "via": ["solution"]}
+{"parent": "BookSixth.bump_perturbation_lipschitz", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_perturbation_lipschitz_v2", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_perturbation_lipschitz_v3", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_restriction_is_positive_similarity", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.bump_restriction_is_positive_similarity", "child": "BookSixth.patch_agrees_with_its_own_similarity", "via": ["solution"]}
+{"parent": "BookSixth.canonical_shrunk_circle_is_round", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.canonical_shrunk_circle_is_round_nonneg_height", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.canonical_shrunk_circle_is_round_v2", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.composition_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_bounded_face_isOpen", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_bounded_face_isOpen", "child": "BookSixth.crossing_free_support_compact", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_bounded_face_isOpen", "child": "BookSixthCrossingFreeFaceData", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_edge_subset", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_face_certificate_exists", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.crossing_free_face_certificate_exists", "child": "BookSixthCrossingFreeFaceData", "via": ["statement"]}
+{"parent": "BookSixth.crossing_free_meeting_shared_endpoint", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_subset_edge_bound", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_subset_edge_bound", "child": "BookSixth.crossing_free_face_certificate_exists", "via": ["solution"]}
+{"parent": "BookSixth.crossing_free_subset_edge_bound", "child": "BookSixthCrossingFreeFaceData", "via": ["solution"]}
+{"parent": "BookSixth.crossing_free_support_compact", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_free_support_compact", "child": "BookSixthCrossingFreeFaceData", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_lemma", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.crossing_lemma", "child": "BookSixth.drawing_sampling_bound", "via": ["solution"]}
+{"parent": "BookSixth.determinant_lower", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.determinant_mean_square", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.disk_cut_difference_affine", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.doubly_stochastic_of_regular_smul", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.drawing_sampling_bound", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.drawing_sampling_bound", "child": "BookSixth.crossing_free_subset_edge_bound", "via": ["solution"]}
+{"parent": "BookSixth.drawing_sampling_bound", "child": "BookSixth.sampling_averaging_bound", "via": ["solution"]}
+{"parent": "BookSixth.entropy_chain_rule_upper", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.entropy_fiber_le_log_card", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.euclidean_isometry_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.factorial_le_self_pow", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.factorial_mono_cast", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.factorial_root_le_self", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.fiber_entropy_le_log_support", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.finite_klDiv_nonneg", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.frame_rotation_aligns_u", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.frame_rotation_aligns_u", "child": "BookSixthRotTriple", "via": ["solution", "statement"]}
+{"parent": "BookSixth.frame_rotation_aligns_u", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.frame_rotation_aligns_v", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.frame_rotation_aligns_v", "child": "BookSixth.threefold_rotation_preserves_inner_product", "via": ["solution", "statement"]}
+{"parent": "BookSixth.frame_rotation_aligns_v", "child": "BookSixthRotTriple", "via": ["solution", "statement"]}
+{"parent": "BookSixth.frame_rotation_aligns_v", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.hadamard_bound", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.hadamard_equality", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.hadamard_order", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.high_girth_chromatic", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.hypergraph_two_color", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.image_comp_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.isUnlink_pair_of_isUnlink_v1", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.isUnlink_pair_of_isUnlink_v1", "child": "BookSixth.isUnlink_pair_swap", "via": ["solution"]}
+{"parent": "BookSixth.isUnlink_pair_of_isUnlink_v1", "child": "BookSixth.standard_pair_relabel_lt", "via": ["solution"]}
+{"parent": "BookSixth.isUnlink_pair_second_moves", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.isUnlink_pair_second_moves", "child": "BookSixth.isUnlink_path_image", "via": ["solution"]}
+{"parent": "BookSixth.isUnlink_pair_swap", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.isUnlink_path_image", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.isUnlink_snoc_of_standardized_prefix", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.isometry_preserves_roundness", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.jacobi_reduction", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.kakeya_bound", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_asymptotic", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_asymptotic", "child": "BookSixth.latin_asymptotic_of_bounds", "via": ["solution"]}
+{"parent": "BookSixth.latin_asymptotic", "child": "BookSixth.latin_bounds", "via": ["solution"]}
+{"parent": "BookSixth.latin_asymptotic_of_bounds", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_bounds", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_bounds", "child": "BookSixth.bregman_minc", "via": ["solution"]}
+{"parent": "BookSixth.latin_bounds", "child": "ProofsInTheBook.Chapter22Gurvits.chapter22_unconditional", "via": ["solution"]}
+{"parent": "BookSixth.latin_lower_frac_pos", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_lower_telescope", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_rect_full", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_rect_zero", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_rectangle_extend", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_upper_factor_ge_one", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_upper_prod_ge_one", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_upper_prod_pos", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.latin_upper_telescope", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.lipschitz_cutoff_infred", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.lipschitz_cutoff_infred_nonempty", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.localized_similarity_isotopy_keeps_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.localized_similarity_isotopy_keeps_roundness", "child": "BookSixth.euclidean_isometry_preserves_roundness", "via": ["solution"]}
+{"parent": "BookSixth.log_factorial_eq_sum_Icc", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.log_factorial_le_mul_log", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.log_factorial_mean_eq", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.log_sum_inequality", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.mean_log_le_log_card", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.not_colorable_of_independent_bound", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.orthonormal_frame_cross_unit_euclidean", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.orthonormal_frame_cross_unit_euclidean_v2", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.orthonormal_frame_has_unit_cross_normal", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.orthonormal_pair_maps_to_std_basis", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.pairwise_disjoint_cutoffs_lipschitz", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.pairwise_disjoint_cutoffs_lipschitz", "child": "BookSixth.lipschitz_cutoff_infred", "via": ["solution"]}
+{"parent": "BookSixth.pairwise_disjoint_open_neighbourhoods", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.patch_agrees_with_its_own_similarity", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.perfect_circles_pairwise_unlinked_motion", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.perm_fiber_card", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_bm_upper_one", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_bm_upper_two", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_bm_upper_zero", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_bregman_minc_upper", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.permanent_doubly_stochastic_lower", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_doubly_stochastic_lower", "child": "ProofsInTheBook.Chapter22Gurvits.chapter22_unconditional", "via": ["solution"]}
+{"parent": "BookSixth.permanent_ds_lower_one", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_ds_lower_two", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_ds_lower_zero", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_eq_card_matchings", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_mono_nonneg", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_nonneg", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_ones_eq_factorial", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_regular_lower_of_vdW", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_uniform", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_zero_one_le_factorial", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.pointwise_isotopy_wrappers", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.polynomial_zero_bound", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.prod_Icc_pow_factorial", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.ramsey_real_bound", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rectangle_extension_lower", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rectangle_extension_upper", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_is_continuous_linear_equiv", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_is_continuous_linear_equiv", "child": "BookSixthRotTriple", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_is_continuous_linear_equiv", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_isotopy", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_isotopy", "child": "BookSixth.rotTriple_is_continuous_linear_equiv", "via": ["solution"]}
+{"parent": "BookSixth.rotTriple_isotopy", "child": "BookSixthRotTriple", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_isotopy", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_legs_are_jointly_continuous", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_legs_are_jointly_continuous", "child": "BookSixthRotTriple", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_legs_are_jointly_continuous", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_mul_eq_one", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_mul_inverse", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_transpose_mul_one", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotTriple_transpose_mul_one", "child": "BookSixthRotTriple", "via": ["solution"]}
+{"parent": "BookSixth.rotTriple_transpose_mul_one", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotation_01_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotation_02_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotation_12_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotation_path_keeps_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.rotation_path_keeps_roundness", "child": "BookSixth.rotation_01_preserves_roundness", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_family_contraction_budget", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_is_compact", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_prefix_standardize_preserves_appended_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_prefix_standardize_preserves_appended_roundness", "child": "BookSixth.isUnlink_pair_of_isUnlink_v1", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_prefix_standardize_preserves_appended_roundness", "child": "BookSixth.isUnlink_pair_swap", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_prefix_standardize_preserves_appended_roundness", "child": "BookSixth.perfect_circles_pairwise_unlinked_motion", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_prefix_supported_v2", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_single_standardize", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_single_standardize_keeps_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_single_standardize_keeps_roundness", "child": "BookSixth.round_circle_single_standardize", "via": ["statement"]}
+{"parent": "BookSixth.round_circle_single_standardize_keeps_roundness", "child": "BookSixth.roundness_of_similarity_isotopy", "via": ["statement"]}
+{"parent": "BookSixth.round_circle_single_standardize_keeps_roundness", "child": "BookSixth.standardizing_time_maps_are_similarities", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_single_standardize_link_preserving_v2", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_single_standardize_link_preserving_v3", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_single_standardize_link_preserving_v3", "child": "BookSixth.round_circle_single_standardize_link_preserving_v2", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_snoc_of_transport", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_snoc_transport", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_snoc_transport", "child": "BookSixth.isUnlink_path_image", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_snoc_transport", "child": "BookSixth.round_circle_prefix_standardize_preserves_appended_roundness", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_snoc_transport", "child": "BookSixth.round_circle_single_standardize_link_preserving_v3", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_snoc_transport", "child": "BookSixth.round_circle_snoc_transport_compose_v4", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_snoc_transport_compose_supported", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_snoc_transport_compose_v3", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_snoc_transport_compose_v4", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_unit_rescale", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_unlink", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_unlink", "child": "BookSixth.round_circle_unlink_empty", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_unlink", "child": "BookSixth.round_circle_unlink_snoc", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_unlink_empty", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_unlink_snoc", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_unlink_snoc", "child": "BookSixth.round_circle_snoc_of_transport", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_unlink_snoc", "child": "BookSixth.round_circle_snoc_transport", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_unlink_snoc_base_cases", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_circle_unlink_snoc_base_cases", "child": "BookSixth.single_round_circle_motion_to_standard", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_frame_angles", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_frame_angles", "child": "BookSixth.pointwise_isotopy_wrappers", "via": ["solution"]}
+{"parent": "BookSixth.round_frame_v_unit", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.round_frame_v_unit", "child": "BookSixth.pointwise_isotopy_wrappers", "via": ["solution"]}
+{"parent": "BookSixth.roundness_compose_on_intermediate", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_compose_two", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_compose_two", "child": "BookSixth.roundness_of_similarity_isotopy", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_compose_two_general", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_glue_on_ground", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_rigid_isotopy", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_rigid_isotopy", "child": "BookSixth.euclidean_isometry_preserves_roundness", "via": ["solution"]}
+{"parent": "BookSixth.roundness_of_rigid_similarity_isotopy", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_rigid_similarity_isotopy", "child": "BookSixth.euclidean_isometry_preserves_roundness", "via": ["solution"]}
+{"parent": "BookSixth.roundness_of_rigid_translate_compose", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_rigid_translate_compose", "child": "BookSixth.roundness_of_rigid_isotopy", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_scaled_orthogonal_compose", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_scaled_orthogonal_compose", "child": "BookSixth.roundness_of_rigid_similarity_isotopy", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_similarity_isotopy", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.roundness_of_similarity_isotopy", "child": "BookSixth.similarity_preserves_roundness", "via": ["solution"]}
+{"parent": "BookSixth.sampling_averaging_bound", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.sampling_averaging_bound", "child": "BookSixth.vertex_subset_sampling_identity", "via": ["solution", "statement"]}
+{"parent": "BookSixth.shannon_entropy_le_log_card", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.shrinking_similarity_scale_positive", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.similarity_path_keeps_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.similarity_path_keeps_roundness", "child": "BookSixth.similarity_preserves_roundness", "via": ["solution"]}
+{"parent": "BookSixth.similarity_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_motion_to_standard", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_motion_to_standard", "child": "BookSixth.roundness_of_rigid_similarity_isotopy", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_motion_to_standard", "child": "BookSixth.standardizing_time_maps_are_similarities", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks", "child": "BookSixth.similarity_preserves_roundness", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks", "child": "BookSixth.single_round_circle_shrinks_v9", "via": ["solution"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v2", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v2", "child": "BookSixth.similarity_preserves_roundness", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v2", "child": "BookSixth.single_round_circle_shrinks_v9", "via": ["solution"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v4", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v4", "child": "BookSixth.similarity_preserves_roundness", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v4", "child": "BookSixth.single_round_circle_shrinks_v9", "via": ["solution"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v5", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v5", "child": "BookSixth.similarity_preserves_roundness", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v9", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_round_circle_shrinks_v9", "child": "BookSixth.similarity_preserves_roundness", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_standardize_is_rigid", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_standardize_is_rigid", "child": "BookSixth.round_circle_single_standardize", "via": ["statement"]}
+{"parent": "BookSixth.single_standardize_pointwise", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.single_standardize_pointwise", "child": "BookSixth.round_circle_single_standardize", "via": ["statement"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.borromean_fox_odd", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.bregman_minc", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.crossing_lemma", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.determinant_lower", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.determinant_mean_square", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.hadamard_bound", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.hadamard_equality", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.hadamard_order", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.high_girth_chromatic", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.hypergraph_two_color", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.jacobi_reduction", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.kakeya_bound", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.latin_asymptotic", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.latin_bounds", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.polynomial_zero_bound", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.ramsey_real_bound", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.round_circle_unlink", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.spectral", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.sylvester", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.tait_fox_five", "via": ["solution"]}
+{"parent": "BookSixth.sixthEditionExtension", "child": "BookSixth.vanishing_polynomial", "via": ["solution"]}
+{"parent": "BookSixth.small_displacement_is_homeomorph", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.small_displacement_is_homeomorph_div", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.smul_lipschitz_bound", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.spectral", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.standard_circle_is_round", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.standard_family_isometry_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.standard_family_isometry_preserves_roundness", "child": "BookSixth.euclidean_isometry_preserves_roundness", "via": ["solution"]}
+{"parent": "BookSixth.standard_family_isometry_preserves_roundness", "child": "BookSixth.standard_circle_is_round", "via": ["solution"]}
+{"parent": "BookSixth.standard_pair_axis_homeo", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.standard_pair_relabel_lt", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.standard_pair_relabel_lt", "child": "BookSixth.standard_pair_axis_homeo", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth.affine_and_translate_families", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth.frame_rotation_aligns_u", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth.frame_rotation_aligns_v", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth.pointwise_isotopy_wrappers", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth.rotTriple_isotopy", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth.round_frame_angles", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixth.threefold_rotation_preserves_inner_product", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixthRotTriple", "via": ["solution"]}
+{"parent": "BookSixth.standardizing_time_maps_are_similarities", "child": "BookSixthRotations3", "via": ["solution"]}
+{"parent": "BookSixth.sylvester", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.tait_fox_five", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.threefold_rotation_preserves_inner_product", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.threefold_rotation_preserves_inner_product", "child": "BookSixthRotations3", "via": ["solution", "statement"]}
+{"parent": "BookSixth.translation_preserves_roundness", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.uniform_nonincident_clearance", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.vanishing_polynomial", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixthCrossingFreeFaceData", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixthRotTriple", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixthRotTriple", "child": "BookSixthRotations3", "via": ["statement"]}
+{"parent": "BookSixthRotations", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixthRotations3", "child": "BookSixth", "via": ["statement"]}
 {"parent": "BooleanCubicFormOrbits.card_le_numOrbits_mul_card_group", "child": "Novelty_BooleanCubicFormOrbits", "via": ["solution", "statement"]}
 {"parent": "BooleanCubicFormOrbits.card_pred_le", "child": "Novelty_BooleanCubicFormOrbits", "via": ["solution", "statement"]}
 {"parent": "BooleanValuedRealization.Generic.compl_mem_iff", "child": "Logic_Multiverse_BooleanValuedRealization", "via": ["solution", "statement"]}
@@ -3921,6 +4279,8 @@
 {"parent": "BrunTitchmarsh_defs", "child": "Sieve_Basic_defs", "via": ["statement"]}
 {"parent": "BrunTitchmarsh_defs", "child": "Sieve_SelbergBounds_defs", "via": ["statement"]}
 {"parent": "BrunTitchmarsh_defs", "child": "Sieve_Selberg_defs", "via": ["statement"]}
+{"parent": "BuffonsNeedle.buffon_integral", "child": "P2MAssembly_Chapter25", "via": ["solution", "statement"]}
+{"parent": "BuffonsNeedle.buffon_short", "child": "P2MAssembly_Chapter25", "via": ["solution", "statement"]}
 {"parent": "C4FreeDiam2.colorable_large_indep", "child": "Novelty_C4FreeDiameter2", "via": ["solution", "statement"]}
 {"parent": "C4FreeDiam2.kovari_sos_turan_cherry_bound", "child": "Novelty_C4FreeDiameter2", "via": ["solution", "statement"]}
 {"parent": "C4FreeDiam2.maxDegree_add_two_le_card", "child": "Novelty_C4FreeDiameter2", "via": ["solution", "statement"]}
@@ -32993,6 +33353,33 @@
 {"parent": "OrderlyFriedman.reachable2_of", "child": "Probability_OrderlyFriedman", "via": ["solution", "statement"]}
 {"parent": "OrderlyFriedman.single_leaf", "child": "Probability_OrderlyFriedman", "via": ["solution", "statement"]}
 {"parent": "OrthogonalIdempotentSystem.rank_additivity", "child": "Geometry_NeuralCoding_StandardConjectures", "via": ["solution", "statement"]}
+{"parent": "P2MAssembly_Chapter13V2", "child": "P2MAssembly_Chapter13V2_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2", "child": "P2MAssembly_Chapter13V2_Part2", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2", "child": "P2MAssembly_Chapter13V2_Part3", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2", "child": "P2MAssembly_Chapter13V2_Part4", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2", "child": "P2MAssembly_Chapter13V2_Part5", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2", "child": "P2MAssembly_Chapter13V2_Part6", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part2", "child": "P2MAssembly_Chapter13V2_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part3", "child": "P2MAssembly_Chapter13V2_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part3", "child": "P2MAssembly_Chapter13V2_Part2", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part4", "child": "P2MAssembly_Chapter13V2_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part4", "child": "P2MAssembly_Chapter13V2_Part2", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part4", "child": "P2MAssembly_Chapter13V2_Part3", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part5", "child": "P2MAssembly_Chapter13V2_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part5", "child": "P2MAssembly_Chapter13V2_Part2", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part5", "child": "P2MAssembly_Chapter13V2_Part3", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part5", "child": "P2MAssembly_Chapter13V2_Part4", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part6", "child": "P2MAssembly_Chapter13V2_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part6", "child": "P2MAssembly_Chapter13V2_Part2", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part6", "child": "P2MAssembly_Chapter13V2_Part3", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part6", "child": "P2MAssembly_Chapter13V2_Part4", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter13V2_Part6", "child": "P2MAssembly_Chapter13V2_Part5", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter35Canonical", "child": "P2MAssembly_Chapter35Canonical_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter35Canonical", "child": "P2MAssembly_Chapter35Canonical_Part2", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter35Canonical_Part2", "child": "P2MAssembly_Chapter35Canonical_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter35Plane", "child": "P2MAssembly_Chapter35Plane_Part1", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter35Plane", "child": "P2MAssembly_Chapter35Plane_Part2", "via": ["statement"]}
+{"parent": "P2MAssembly_Chapter35Plane_Part2", "child": "P2MAssembly_Chapter35Plane_Part1", "via": ["statement"]}
 {"parent": "PACBayesInformation.generalization_from_max_description", "child": "MachineLearning_PACBayes_InformationGeneralization", "via": ["solution", "statement"]}
 {"parent": "PGLQuotient.Gpoly_mul_Jfac_zero", "child": "Algebra_PGLQuotient_VolumeAlgebra", "via": ["solution", "statement"]}
 {"parent": "PGLQuotient.Jfac_zero_right", "child": "Algebra_PGLQuotient_VolumeAlgebra", "via": ["solution", "statement"]}
@@ -34944,6 +35331,183 @@
 {"parent": "ProofThermodynamics.ProofTree.proof_energy_ge_two_hamiltonian", "child": "Bridges_ProofThermodynamicsCore", "via": ["solution", "statement"]}
 {"parent": "ProofThermodynamics.ProofTree.proof_energy_pos", "child": "Bridges_ProofThermodynamicsCore", "via": ["solution", "statement"]}
 {"parent": "ProofThermodynamics.ProofTree.proof_energy_pos", "child": "ProofThermodynamics.Formula.hamiltonian_pos", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Ch13Cauchy3D.chapter13_cauchy_rigidity_v2", "child": "P2MAssembly_Chapter13V2", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.below_square_B_core_large", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.below_square_far_theta_gap_of_120_le", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.chapter03_erdos_l2", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_sq", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_of_9_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_pow_gap", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_sq_le_and_primeCounting_gap", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.pow_gap_small_k_tail", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.pow_l_dvd_one_factor_of_descFactorial", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.primeCounting_gap_of_120_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.primeCounting_gap_of_19_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.prod_lPowerFreeParts_dvd_factorial", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook.Chapter03.self_eq_lPowerFreePart_mul_lPowerRoot_pow", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_sq", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_of_9_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_pow_gap", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_sq_le_and_primeCounting_gap", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.pow_gap_small_k_tail", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.pow_l_dvd_one_factor_of_descFactorial", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.primeCounting_gap_of_120_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.primeCounting_gap_of_19_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.prod_lPowerFreeParts_dvd_factorial", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook.Chapter03.self_eq_lPowerFreePart_mul_lPowerRoot_pow", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_ge3", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.chapter03_erdos_l2", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.choose_factorization_le_min_third_of_noLargePrimeFactor", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.choose_le_pow_primeCounting_of_noLargePrimeFactor", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.choose_le_primeCounting_sqrt_mul_primeIntervalProduct_of_noLargePrimeFactor", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.entropyRatio_lower_log_add", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.entropy_lower_le_log_choose", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_of_9_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_pow_gap", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_sq_le_and_primeCounting_gap", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook.Chapter03.pow_gap_small_k_tail", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook.Chapter03.pow_l_dvd_one_factor_of_descFactorial", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook.Chapter03.primeCounting_gap_of_120_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook.Chapter03.primeCounting_gap_of_19_le", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_pow", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_sq", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_interval_prime_of_34_le_lt_36", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_interval_prime_or_exception_of_9_le_lt_20", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_close_of_sqrt33", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_far_of_120_le", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_of_9_le", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_of_sqrt_lt_33", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_pow_gap", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_sq_le_and_primeCounting_gap", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_prime_within_of_primeGapCover", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.exists_prime_within_of_primeGapCoverWith", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.interval_prime_below_sq_k_lt_120_sqrt33_cert", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.log_choose_le_primeCounting_sqrt_log_add_log_primeIntervalProduct_of_noLargePrimeFactor", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.log_choose_le_sqrt_third_log_add_min_log4_sub_theta_of_noLargePrimeFactor", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.log_factorial_le_stirling_upper", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.log_primeIntervalProduct_eq_theta_sub", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.mul_log_sub_mul_log_le_log_choose", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.nextPrimeWithin_spec", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.pow_gap_small_k_tail", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.pow_l_dvd_one_factor_of_descFactorial", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.pow_mul_self_descFactorial_le_pow_mul_descFactorial", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.primeCounting_gap_of_120_le", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.primeCounting_gap_of_19_le", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.primorial_eq_mul_primeIntervalProduct", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.prod_lPowerFreeParts_dvd_factorial", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.prod_lPowerFreeParts_dvd_factorial_l2", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.self_eq_lPowerFreePart_mul_lPowerRoot_pow", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.three_mul_primeCounting_le_30_150_cert", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter03.three_mul_primeCounting_le_of_33_le", "child": "ProofsInTheBook_Chapter03", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter04.ZagierTriple.exists_sq_add_sq_of_prime_mod_four_eq_one", "child": "ProofsInTheBook_Chapter04", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter09.arccos_one_third_irrational_over_pi", "child": "ProofsInTheBook_Chapter09", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter09.hilbert_third_problem", "child": "ProofsInTheBook_Chapter09", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter09.tensor_tmul_ne_zero_of_ne_zero", "child": "ProofsInTheBook_Chapter09", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter10.euclidean_sylvester_gallai", "child": "ProofsInTheBook_Chapter10", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter11.ungar_directions_lower_bound", "child": "ProofsInTheBook_Chapter11", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter12.chapter12", "child": "P2MAssembly_Chapter12", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter14.chapter14_unconditional", "child": "ProofsInTheBook_Chapter14", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter15.NoObtuseAngles.hasAntipodalStrips", "child": "ProofsInTheBook_Chapter15", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter15.antipodal_card_bound", "child": "ProofsInTheBook_Chapter15", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter15.chapter15", "child": "ProofsInTheBook_Chapter15", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter16.not_borsukConjecture_1325", "child": "ProofsInTheBook_Chapter16", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter19.chapter19", "child": "ProofsInTheBook_Chapter19", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.Chapter20E2Frontier.frontier_unitSquare", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.atomicBoundary_mem_squareBoundaryEdgeList_of_square_corners", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.atomicMult_eq_one_of_boundary", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.atomicMult_even_of_interior", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.endpoints_mem_of_mem_consecutiveEdges_local", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.isAtomic_of_mem_squareSideAtomicEdges", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.mem_segment_unit_left", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.mem_segment_unit_top", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.Chapter20E2Frontier.frontier_unitSquare", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.atomicBoundary_mem_squareBoundaryEdgeList_of_square_corners", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.atomicMult_eq_one_of_boundary", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.atomicMult_even_of_interior", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.endpoints_mem_of_mem_consecutiveEdges_local", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.isAtomic_of_mem_squareSideAtomicEdges", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.mem_segment_unit_left", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.mem_segment_unit_top", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.monsky_false_of_odd_corner_parity", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.squareBoundaryEdgeList_nodup_of_square_corners", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.squareBoundaryVertexChainRGCount_odd_of_side_colors", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_dissection", "child": "ProofsInTheBook.Chapter20.sum_triangleLocalRGCount_mod_two_eq_oddAtomic", "via": ["solution"]}
+{"parent": "ProofsInTheBook.Chapter20.monsky_false_of_odd_corner_parity", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.squareBoundaryEdgeList_nodup_of_square_corners", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.squareBoundaryVertexChainRGCount_odd_of_side_colors", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter20.sum_triangleLocalRGCount_mod_two_eq_oddAtomic", "child": "P2MAssembly_Chapter20", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter21.chapter21", "child": "ProofsInTheBook_Chapter21", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22.rowLinearCapacityAtLeastOne_of_doublyStochastic", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22.rowLinearMixedCoefficient_eq_permanent", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22Gurvits.chapter22_unconditional", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22Gurvits.firstReduction_realStable_of_allDegree", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22Gurvits.gurvits_product_telescopes", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22Gurvits.prod_one_add_mul_le", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22Gurvits.univariate_gurvits_factored", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22Stable.derivative_roots_im_nonpos", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter22Stable.linearForm_stable", "child": "P2MAssembly_Chapter22", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter23.chapter23", "child": "ProofsInTheBook_Chapter23", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter24.chapter24", "child": "ProofsInTheBook_Chapter24", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter25.chapter25_measure_theoretic_short", "child": "P2MAssembly_Chapter25", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter26.chapter26", "child": "ProofsInTheBook_Chapter26", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter27.chapter27", "child": "ProofsInTheBook_Chapter27", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter28.chapter28_dilworth_lower_bound", "child": "ProofsInTheBook_Chapter28", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter28.chapter28_erdos_ko_rado", "child": "ProofsInTheBook_Chapter28", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter28.chapter28_sperner", "child": "ProofsInTheBook_Chapter28", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter29.chapter29", "child": "ProofsInTheBook_Chapter29", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter30.PathCountSystem.det_matrix_eq_total", "child": "ProofsInTheBook_Chapter30", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter30.chapter30", "child": "ProofsInTheBook_Chapter30", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter30.sum_eq_neg_self_of_sign_reversing_equiv", "child": "ProofsInTheBook_Chapter30", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter30.total_sum_eq_good_sum_of_bad_sign_reversing", "child": "ProofsInTheBook_Chapter30", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter31.chapter31", "child": "ProofsInTheBook_Chapter31", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.SmetBackDiagonalCompletableCore", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.chapter33_unconditional", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.exists_perm_singleton_diagonal_strictly_above", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.exists_relabel_singleton_smetaniukTriangularNormalized", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.exists_symbol_occursExactlyOnce_of_many_used", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.extend_partialLatin_to_exact", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.filledCells_relabelPartial", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.filledCells_rowSymbolConjugate_card", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.hall_condition_of_regular_family", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.isLatinSquare_relabelSquare", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.isPartialLatin_relabelPartial", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.isPartialLatin_setCell", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.latin_rectangle_complete", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.latin_rectangle_extend_one", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.lemma2_few_elements_completes", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.rowSymbolConjugate_eq_some_iff", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.ryser_hypothesis_holds", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.smetMainKeepLastShrink_eq_some_iff", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.smetMainPartial_extends_of_keepLastShrink_completion", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter33.smetRectStep_invariant", "child": "P2MAssembly_Chapter33", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter34.chapter34", "child": "ProofsInTheBook_Chapter34", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter36.TriangulatedPolygon.exists_3coloring", "child": "ProofsInTheBook_Chapter36", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter36.chapter36", "child": "ProofsInTheBook_Chapter36", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter36.chapter36_artgallery_combinatorial", "child": "ProofsInTheBook_Chapter36", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter38.chapter38", "child": "ProofsInTheBook_Chapter38", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.bipartite_odd_degree_card_eq_mod_two", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.chapter39_unconditional", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.labelSeq_deletionParity_of_not_injective_of_noOpposite", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.minColorInSupport_ne_of_disjoint", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.sigmaDeletionHasAlternatingLabelSetOf_retained_image_eq", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.sigmaDeletionHasAlternatingLabelSet_duplicate_of_door", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.sigmaDeletionHasAlternatingLabelSet_retained_image_eq", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.sigmaDoorSetOf_card_duplicate_of_door", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.sigmaDoorSet_card_duplicate_of_door", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.sigmaDoorSet_card_opposite_of_door", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.signSeqDeletionParity", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.signSeqDoorSet_card_le_two", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.signSeqDoor_iff_bad_cut", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.signSeqDoor_iff_remove_altPos", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter39.sortedLabelSeq_isAltPos_iff_signSeqAltPos", "child": "P2MAssembly_Chapter39", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.Chapter40.chapter40", "child": "P2MAssembly_Chapter40", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.PlanarMap.CombMap.alpha_class_card", "child": "P2MAssembly_Chapter12", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.PlanarMap.CombMap.platonic_constraint", "child": "P2MAssembly_Chapter12", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.PlanarMap.PlaneSimpleGraph.fiveColor_planeSimpleGraph", "child": "P2MAssembly_Chapter35Plane", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.PolygonGeometryDischarge.artGallery_strict_of_residue", "child": "P2MAssembly_Chapter36Geometry", "via": ["solution", "statement"]}
+{"parent": "ProofsInTheBook.ZinanCh35Final.fiveColor_planar_canonical", "child": "P2MAssembly_Chapter35Canonical", "via": ["solution", "statement"]}
 {"parent": "ProvabilitySpectral.depth_bounded_stabilization", "child": "Bridges_ProvabilitySpectralTheory", "via": ["solution", "statement"]}
 {"parent": "PythHydra.IsPPT.even_b", "child": "Geometry_PythagoreanHydra_BerggrenDescent", "via": ["solution", "statement"]}
 {"parent": "PythHydra.IsPPT.odd_c", "child": "Geometry_PythagoreanHydra_BerggrenDescent", "via": ["solution", "statement"]}
@@ -40286,6 +40850,10 @@
 {"parent": "Tendsto_nhdsWithin_punctured_map_add", "child": "ResidueCalcOnRectangles_defs", "via": ["solution", "statement"]}
 {"parent": "Tendsto_nhdsWithin_punctured_map_add", "child": "ZetaBounds_defs", "via": ["solution", "statement"]}
 {"parent": "TheoremNetworks.euler_char_top", "child": "Applications_TheoremNetworks_FlagComplex", "via": ["solution", "statement"]}
+{"parent": "Theorems100.Friendship.card_of_regular", "child": "P2MAssembly_Chapter40", "via": ["solution", "statement"]}
+{"parent": "Theorems100.Friendship.false_of_three_le_degree", "child": "P2MAssembly_Chapter40", "via": ["solution", "statement"]}
+{"parent": "Theorems100.Friendship.isRegularOf_not_existsPolitician", "child": "P2MAssembly_Chapter40", "via": ["solution", "statement"]}
+{"parent": "Theorems100.Friendship.neighborFinset_eq_of_degree_eq_two", "child": "P2MAssembly_Chapter40", "via": ["solution", "statement"]}
 {"parent": "ThermoProof.erasedBits_bennett", "child": "Novelty_ThermodynamicsOfProof", "via": ["solution", "statement"]}
 {"parent": "ThermoProof.erasedBits_bennett", "child": "ThermoProof.erasedBits_eq_zero_iff_injective", "via": ["solution"]}
 {"parent": "ThermoProof.erasedBits_eq_zero_iff_injective", "child": "Novelty_ThermodynamicsOfProof", "via": ["solution", "statement"]}
@@ -40304,6 +40872,7 @@
 {"parent": "ThermoProofLedger.clausius", "child": "ThermoProof.imageCard_pos", "via": ["solution"]}
 {"parent": "ThermodynamicClosure.monotone_extensive_convergence", "child": "Speculative_AutoResearch_ThermodynamicClosureCore", "via": ["solution", "statement"]}
 {"parent": "ThermodynamicClosure.orbit_period_le_card", "child": "Speculative_AutoResearch_ThermodynamicClosureCore", "via": ["solution", "statement"]}
+{"parent": "Thm_BookSixth_continuous_cutoff", "child": "BookSixth", "via": ["statement"]}
 {"parent": "ThompsonSampling", "child": "BanditPolicy", "via": ["statement"]}
 {"parent": "ThreeCubes.card_admissible_block", "child": "Probability_Density", "via": ["solution", "statement"]}
 {"parent": "ThreeCubes.card_cubeTripleValues", "child": "Probability_LowerBounds", "via": ["solution", "statement"]}
@@ -42461,6 +43030,7 @@
 {"parent": "ZKThreeColoring.acceptProb_le_one_sub_inv", "child": "Shared_ZeroKnowledge_ThreeColoringZK", "via": ["solution", "statement"]}
 {"parent": "ZKThreeColoring.simProb_sum", "child": "Shared_ZeroKnowledge_ThreeColoringZK", "via": ["solution", "statement"]}
 {"parent": "ZKThreeColoring.soundness_amplified", "child": "Shared_ZeroKnowledge_ThreeColoringZK", "via": ["solution", "statement"]}
+{"parent": "ZZ_CutoffComplete2", "child": "BookSixth", "via": ["statement"]}
 {"parent": "ZeroFactorization", "child": "Zeta23_FromPNTPlus_StrongPNTPrefix", "via": ["solution", "statement"]}
 {"parent": "ZeroKnowledgeTheoremProving.AffineDuality.accepting_eq_range_simulator", "child": "Applications_ZeroKnowledgeTheoremProving_AffineDuality", "via": ["solution", "statement"]}
 {"parent": "ZeroKnowledgeTheoremProving.AffineDuality.accepting_eq_range_simulator", "child": "Applications_ZeroKnowledgeTheoremProving_EntropyAndBoundaries", "via": ["solution", "statement"]}
@@ -46894,6 +47464,9 @@
 {"parent": "analytic_deriv_bounded_near_point", "child": "ZetaBounds_defs", "via": ["solution", "statement"]}
 {"parent": "approx_simplex_interior", "child": "Bridges_HilbertSpace_VectorStoneWeierstrass", "via": ["solution", "statement"]}
 {"parent": "approx_simplex_interior", "child": "closure_vecClass_eq_univ_of_scalar", "via": ["solution"]}
+{"parent": "arexychen_erdos180_families_bounds", "child": "arexychen_erdos180_core", "via": ["statement"]}
+{"parent": "arexychen_erdos180_families_bounds", "child": "arexychen_erdos180_finite", "via": ["statement"]}
+{"parent": "arexychen_erdos180_finite", "child": "arexychen_erdos180_core", "via": ["statement"]}
 {"parent": "asymptoticUcbFailureCount", "child": "asymptoticUcbPolicy", "via": ["statement"]}
 {"parent": "asymptoticUcbFailureCount", "child": "banditHistoryPrefix", "via": ["statement"]}
 {"parent": "asymptoticUcbPolicy", "child": "BanditPolicy", "via": ["statement"]}

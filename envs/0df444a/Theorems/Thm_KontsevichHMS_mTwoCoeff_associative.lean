@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KontsevichHMS_mTwoCoeff_associative
 -- name    : KontsevichHMS.mTwoCoeff_associative
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-09-15T03:15:00.112146+00:00
 -- url     : https://prove2.me/theorems/0e3a03a6-ae59-4bee-b9cf-6b2f62f34445

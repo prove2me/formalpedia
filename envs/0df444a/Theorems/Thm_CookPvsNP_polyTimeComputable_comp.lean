@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_polyTimeComputable_comp
 -- name    : CookPvsNP.polyTimeComputable_comp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T06:26:41.254192+00:00
 -- url     : https://prove2.me/theorems/028ccdb8-1f42-4651-94d3-63758b6500fd

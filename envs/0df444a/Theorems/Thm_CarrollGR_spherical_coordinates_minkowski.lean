@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarrollGR_spherical_coordinates_minkowski
 -- name    : CarrollGR.spherical_coordinates_minkowski
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T23:49:28.42891+00:00
 -- url     : https://prove2.me/theorems/7249f9fa-4811-411e-8d7c-984f08d90c60

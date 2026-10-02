@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingRM_DetHeuristic_ce_upper_bound
 -- name    : PricingRM.DetHeuristic.ce_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:33:47.478481+00:00
 -- url     : https://prove2.me/theorems/f452cb5f-320d-40c6-8acb-e500f431176b

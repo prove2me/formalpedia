@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageStochastic_distortion_isRiskFunctional
 -- name    : MultistageStochastic.distortion_isRiskFunctional
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-23T20:23:06.788835+00:00
 -- url     : https://prove2.me/theorems/5dac002a-919b-4556-be8f-78d95e4c934f

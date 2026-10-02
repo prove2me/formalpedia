@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingRM_DetHeuristic_heuristicRevenue_lower_bound
 -- name    : PricingRM.DetHeuristic.heuristicRevenue_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:35:46.665495+00:00
 -- url     : https://prove2.me/theorems/712cc73b-59bc-4e37-b94b-c82c824070f7

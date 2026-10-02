@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_digamma_multiplication_formula
 -- name    : ErlerGross.digamma_multiplication_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T16:28:32.638422+00:00
 -- url     : https://prove2.me/theorems/fe5ae410-9ebd-475d-9901-b4336ab7a551

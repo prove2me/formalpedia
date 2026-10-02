@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_Reformulation_worstCase_radius_zero
 -- name    : DRLogReg.Reformulation.worstCase_radius_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:34:29.858005+00:00
 -- url     : https://prove2.me/theorems/7199ebad-0126-4e61-b98a-76e32c0635f0

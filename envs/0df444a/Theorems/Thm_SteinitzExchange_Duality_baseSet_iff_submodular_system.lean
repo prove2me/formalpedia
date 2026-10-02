@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_baseSet_iff_submodular_system
 -- name    : SteinitzExchange.Duality.baseSet_iff_submodular_system
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:58:00.238863+00:00
 -- url     : https://prove2.me/theorems/264a5199-bff3-4999-b030-3a09c361e89e

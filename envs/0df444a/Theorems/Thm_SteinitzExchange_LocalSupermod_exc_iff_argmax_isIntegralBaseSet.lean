@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_exc_iff_argmax_isIntegralBaseSet
 -- name    : SteinitzExchange.LocalSupermod.exc_iff_argmax_isIntegralBaseSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:50:49.540992+00:00
 -- url     : https://prove2.me/theorems/6af23d2a-2fda-4271-b3fc-e5b61bf9415e

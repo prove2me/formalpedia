@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_integral_cosh_div_cosh_eq_alternating_exp_tsum
 -- name    : ErlerGross.integral_cosh_div_cosh_eq_alternating_exp_tsum
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:10:21.746829+00:00
 -- url     : https://prove2.me/theorems/93fe3796-4c0f-47ac-832f-9df633c369c2

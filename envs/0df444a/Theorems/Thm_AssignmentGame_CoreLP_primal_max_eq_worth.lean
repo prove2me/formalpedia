@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignmentGame_CoreLP_primal_max_eq_worth
 -- name    : AssignmentGame.CoreLP.primal_max_eq_worth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:14:08.829946+00:00
 -- url     : https://prove2.me/theorems/22b9aefd-0cf9-4240-b468-1e6636026e88

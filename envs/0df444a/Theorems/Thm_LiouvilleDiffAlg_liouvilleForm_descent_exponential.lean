@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_liouvilleForm_descent_exponential
 -- name    : LiouvilleDiffAlg.liouvilleForm_descent_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @vebis
 -- created : 2026-10-01T10:25:58.406171+00:00
 -- url     : https://prove2.me/theorems/7fe7f50a-c569-4abe-be56-58b1ae32441f

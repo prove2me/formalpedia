@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RovelliLQG_area_gap_physical
 -- name    : RovelliLQG.area_gap_physical
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T19:30:33.021363+00:00
 -- url     : https://prove2.me/theorems/e21ba9bb-9d35-4580-a67b-a53a6654192f

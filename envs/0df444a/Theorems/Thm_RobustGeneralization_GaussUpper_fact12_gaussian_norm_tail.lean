@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_fact12_gaussian_norm_tail
 -- name    : RobustGeneralization.GaussUpper.fact12_gaussian_norm_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:23:41.444438+00:00
 -- url     : https://prove2.me/theorems/b50e0621-ae20-4f1d-9a09-4314d60cc4ec

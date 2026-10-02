@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignmentGame_CoreLP_lp_duality
 -- name    : AssignmentGame.CoreLP.lp_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:15:33.497135+00:00
 -- url     : https://prove2.me/theorems/fc16dda3-58ab-4fe2-9154-3886e465c821

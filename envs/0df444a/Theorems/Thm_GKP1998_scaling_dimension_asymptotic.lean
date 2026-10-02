@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GKP1998_scaling_dimension_asymptotic
 -- name    : GKP1998.scaling_dimension_asymptotic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:54:06.942266+00:00
 -- url     : https://prove2.me/theorems/91641efd-5612-477e-a55f-2469d7b3d9f5

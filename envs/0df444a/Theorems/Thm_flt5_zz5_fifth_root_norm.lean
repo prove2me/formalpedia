@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_flt5_zz5_fifth_root_norm
 -- name    : flt5_zz5_fifth_root_norm
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-05-13T08:17:44.589674+00:00
 -- url     : https://prove2.me/theorems/eafb1e44-10f7-4d8b-8f80-f4c085354e38

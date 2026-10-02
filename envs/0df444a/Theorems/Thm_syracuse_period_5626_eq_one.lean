@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_period_5626_eq_one
 -- name    : syracuse_period_5626_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @FakeMink
 -- created : 2026-10-01T09:01:11.02828+00:00
 -- url     : https://prove2.me/theorems/a5ccbe4c-fa79-4080-8bd2-8c80dc8a25e9

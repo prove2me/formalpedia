@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_lemma14_sample_mean_norm_tail_sqrt_d
 -- name    : RobustGeneralization.GaussUpper.lemma14_sample_mean_norm_tail_sqrt_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:24:53.281627+00:00
 -- url     : https://prove2.me/theorems/ff059819-72cb-450a-a181-3e1081352fbe

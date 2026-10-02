@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_ratFunc_descent_exp
 -- name    : LiouvilleDiffAlg.ratFunc_descent_exp
--- status  : Open
+-- status  : Proved
 -- author  : @vebis
 -- created : 2026-10-01T11:41:28.984765+00:00
 -- url     : https://prove2.me/theorems/33d467a1-49c1-4a63-8630-c407da989906

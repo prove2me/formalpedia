@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_dual_bounded_iff
 -- name    : SteinitzExchange.Duality.dual_bounded_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:58:57.494672+00:00
 -- url     : https://prove2.me/theorems/950befe6-a25f-4f1f-8ee7-350e530aa1d7

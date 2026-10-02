@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Gaussian_upper_tail
 -- name    : TraceEstimation.Gaussian.upper_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:29:09.978655+00:00
 -- url     : https://prove2.me/theorems/c4ee4bb1-35e1-4713-bb00-31676fd88868

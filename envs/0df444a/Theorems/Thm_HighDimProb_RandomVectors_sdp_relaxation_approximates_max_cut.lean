@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomVectors_sdp_relaxation_approximates_max_cut
 -- name    : HighDimProb.RandomVectors.sdp_relaxation_approximates_max_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-18T06:45:36.694786+00:00
 -- url     : https://prove2.me/theorems/abc21244-c86c-48b2-8f84-cbd327740657

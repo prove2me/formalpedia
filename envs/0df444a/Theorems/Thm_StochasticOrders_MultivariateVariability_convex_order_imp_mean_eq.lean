@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MultivariateVariability_convex_order_imp_mean_eq
 -- name    : StochasticOrders.MultivariateVariability.convex_order_imp_mean_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:11:51.998853+00:00
 -- url     : https://prove2.me/theorems/a636f939-003b-40da-90e1-84c610340385

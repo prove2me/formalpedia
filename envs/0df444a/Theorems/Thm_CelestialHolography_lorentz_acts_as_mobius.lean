@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_lorentz_acts_as_mobius
 -- name    : CelestialHolography.lorentz_acts_as_mobius
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T02:31:18.956865+00:00
 -- url     : https://prove2.me/theorems/199673ff-a212-48f0-86aa-34a53624a0a6

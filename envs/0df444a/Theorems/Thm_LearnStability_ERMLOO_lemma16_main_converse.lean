@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ERMLOO_lemma16_main_converse
 -- name    : LearnStability.ERMLOO.lemma16_main_converse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:41:42.579524+00:00
 -- url     : https://prove2.me/theorems/f4fdbe56-1487-4e97-b7f5-4b8883843068

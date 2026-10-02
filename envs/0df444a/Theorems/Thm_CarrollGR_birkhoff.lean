@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarrollGR_birkhoff
 -- name    : CarrollGR.birkhoff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:15:30.956132+00:00
 -- url     : https://prove2.me/theorems/65f97e0f-2dd4-405f-9ec6-dbf93e8c8655

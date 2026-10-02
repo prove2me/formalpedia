@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_baseSet_iff_support_matroidal
 -- name    : SteinitzExchange.LocalSupermod.baseSet_iff_support_matroidal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:49:43.283125+00:00
 -- url     : https://prove2.me/theorems/cd68ec80-bd51-4b25-aebf-af154ec33344

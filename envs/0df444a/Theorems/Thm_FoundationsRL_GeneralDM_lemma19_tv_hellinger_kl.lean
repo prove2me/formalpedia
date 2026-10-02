@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_GeneralDM_lemma19_tv_hellinger_kl
 -- name    : FoundationsRL.GeneralDM.lemma19_tv_hellinger_kl
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:23:38.858575+00:00
 -- url     : https://prove2.me/theorems/eaa46158-ccc2-4109-8aac-52b988b45dfb

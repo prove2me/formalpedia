@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleFieldTheory_conformalDimension_momentum
 -- name    : LiouvilleFieldTheory.conformalDimension_momentum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T10:08:50.715363+00:00
 -- url     : https://prove2.me/theorems/02efdcd0-e79a-484b-bd22-50e6977ac88b

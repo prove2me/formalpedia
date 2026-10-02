@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_Duality_secondPerformance_eq_conj
 -- name    : DualSSD.Duality.secondPerformance_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:38:56.631977+00:00
 -- url     : https://prove2.me/theorems/84d97046-5611-4dc2-96a3-f9ff071a20ac

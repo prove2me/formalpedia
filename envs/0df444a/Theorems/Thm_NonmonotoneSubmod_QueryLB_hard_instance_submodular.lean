@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneSubmod_QueryLB_hard_instance_submodular
 -- name    : NonmonotoneSubmod.QueryLB.hard_instance_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:15:10.177991+00:00
 -- url     : https://prove2.me/theorems/aa9bff90-4b24-47a7-ac18-21a0801a8a9f

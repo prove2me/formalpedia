@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_Representation_convex_normalized_superhomogeneous
 -- name    : StarShapedRisk.Representation.convex_normalized_superhomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T11:38:48.296323+00:00
 -- url     : https://prove2.me/theorems/bd79ccf9-5c4b-4f27-9b65-30c251d7689b

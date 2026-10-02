@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_digamma_sum_thirds
 -- name    : ErlerGross.digamma_sum_thirds
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T12:50:30.809132+00:00
 -- url     : https://prove2.me/theorems/aa462eda-60ed-45b3-b1d5-090449756c91

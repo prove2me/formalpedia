@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiconvexProg_Boundary_four_point_inequality
 -- name    : BiconvexProg.Boundary.four_point_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T17:49:28.500975+00:00
 -- url     : https://prove2.me/theorems/2e20b59c-eb37-4c59-909e-772fe303d43a

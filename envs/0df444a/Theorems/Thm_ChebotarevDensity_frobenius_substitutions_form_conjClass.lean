@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_frobenius_substitutions_form_conjClass
 -- name    : ChebotarevDensity.frobenius_substitutions_form_conjClass
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:15:28.076964+00:00
 -- url     : https://prove2.me/theorems/9b935efb-deb1-4470-b675-b12e7eb630bb

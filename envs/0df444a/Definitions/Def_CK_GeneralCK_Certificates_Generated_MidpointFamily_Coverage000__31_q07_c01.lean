@@ -1,0 +1,36 @@
+-- Prove2me | Definitions.Def_CK_GeneralCK_Certificates_Generated_MidpointFamily_Coverage000__31_q07_c01
+-- name    : CK_GeneralCK_Certificates_Generated_MidpointFamily_Coverage000__31_q07_c01
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-10-02T00:39:28.679129+00:00
+-- url     : https://prove2.me/theorems/3e86a95f-937f-4e01-b7f5-4bf4e0c191d2
+-- title:
+--   Courtade–Kumar proof module `GeneralCK.Certificates.Generated.MidpointFamily.Coverage000 (proof part of coverage007)` (transplant)
+-- statement:
+--   Verbatim transplant of the Lean module `GeneralCK.Certificates.Generated.MidpointFamily.Coverage000 (proof part of coverage007)` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `GeneralCK.Certificates.Generated.MidpointFamily.Coverage000 (proof part of coverage007)` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module GeneralCK.Certificates.Generated.MidpointFamily.Coverage000 (proof part of coverage007) (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/GeneralCK/Certificates/Generated/MidpointFamily/Coverage000 (proof part of coverage007).lean)
+
+import Definitions.Def_CK_GeneralCK_Certificates_Generated_MidpointFamily_Cell0112__3
+import Definitions.Def_CK_GeneralCK_Certificates_Generated_MidpointFamily_Cell0115__3
+
+namespace GeneralCK.Certificates.ReflectionMidpointFamily
+open GeneralCK.Reflection GeneralCK.Certificates.Reflection
+set_option maxRecDepth 10000
+
+theorem coverage007_part_01 {a z : ℝ} (ha : Bounds (431/2500) (439/2500) a)
+    (hz : Bounds (1/1000) (1/100) z) (h0 : a≤(87/500:ℝ)) (h1 : a≤(433/2500:ℝ)) (h2 : ¬ (a≤(108/625:ℝ))) :
+    0<curvature a (a*z) := by
+  by_cases h4 : a≤(173/1000:ℝ)
+  · exact Cell0114.curvature_pos ⟨(le_of_lt (lt_of_not_ge h2)),h4⟩ hz
+  · exact Cell0115.curvature_pos ⟨(le_of_lt (lt_of_not_ge h4)),h1⟩ hz
+
+end GeneralCK.Certificates.ReflectionMidpointFamily
+
+

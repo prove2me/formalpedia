@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_sl2z_orbit_quotient_covering
 -- name    : MilnorDynamics.sl2z_orbit_quotient_covering
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-30T21:32:15.285592+00:00
 -- url     : https://prove2.me/theorems/40c2943b-1af5-4c98-9d85-5c377b7eaf0b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarrollGR_einstein_eq_iff_trace_reversed
 -- name    : CarrollGR.einstein_eq_iff_trace_reversed
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:13:44.374704+00:00
 -- url     : https://prove2.me/theorems/43a3df9d-f70e-4926-a6a9-b1dd4a0412b6

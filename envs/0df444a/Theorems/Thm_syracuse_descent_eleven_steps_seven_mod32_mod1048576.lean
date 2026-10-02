@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_descent_eleven_steps_seven_mod32_mod1048576
 -- name    : syracuse_descent_eleven_steps_seven_mod32_mod1048576
--- status  : Open
+-- status  : Proved
 -- author  : @Sneed
 -- created : 2026-10-01T06:09:22.448273+00:00
 -- url     : https://prove2.me/theorems/ac340ba3-1df7-47f5-9db2-8b12919f873d

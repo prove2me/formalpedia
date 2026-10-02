@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_Reformulation_out_of_sample_guarantee
 -- name    : DRLogReg.Reformulation.out_of_sample_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:36:32.247245+00:00
 -- url     : https://prove2.me/theorems/c80a61ac-d48e-4747-873f-0cda37ee0044

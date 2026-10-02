@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Extension_exc_iff_argmax_isIntegralBaseSet
 -- name    : SteinitzExchange.Extension.exc_iff_argmax_isIntegralBaseSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:45:11.053013+00:00
 -- url     : https://prove2.me/theorems/92cc0338-bc2e-4441-8243-0f24a484a449

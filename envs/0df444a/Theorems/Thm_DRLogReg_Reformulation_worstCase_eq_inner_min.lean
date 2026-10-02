@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_Reformulation_worstCase_eq_inner_min
 -- name    : DRLogReg.Reformulation.worstCase_eq_inner_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:35:00.528415+00:00
 -- url     : https://prove2.me/theorems/832100c2-d8cc-42ac-befa-70b62678aa17

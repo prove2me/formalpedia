@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Lasso_corollary_B2
 -- name    : LassoDantzig.Lasso.corollary_B2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:19:38.512102+00:00
 -- url     : https://prove2.me/theorems/c6a1d138-9a01-471d-9c9c-cfbe5e000bbd

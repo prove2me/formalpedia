@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_Coarsest_split_comm_coarsest
 -- name    : PaigeTarjan.Coarsest.split_comm_coarsest
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:50:13.487987+00:00
 -- url     : https://prove2.me/theorems/40021ced-fc57-47f4-8b99-2585e66d3183

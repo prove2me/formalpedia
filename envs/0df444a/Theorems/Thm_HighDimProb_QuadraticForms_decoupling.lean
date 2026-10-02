@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_QuadraticForms_decoupling
 -- name    : HighDimProb.QuadraticForms.decoupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:28:41.607354+00:00
 -- url     : https://prove2.me/theorems/91915416-6ee2-4c59-84bc-d581e1b1d28e

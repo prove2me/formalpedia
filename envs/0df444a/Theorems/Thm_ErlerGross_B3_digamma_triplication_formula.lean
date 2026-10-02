@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_B3_digamma_triplication_formula
 -- name    : ErlerGross.B3_digamma_triplication_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T12:51:54.290802+00:00
 -- url     : https://prove2.me/theorems/61b9f6dc-e403-4563-a79a-fdd389db5fab

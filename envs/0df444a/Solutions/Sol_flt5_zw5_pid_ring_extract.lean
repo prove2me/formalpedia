@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for flt5_zw5_pid_ring_extract
--- status  : SKETCH_ACCEPTED   (sketch)
+-- status  : ACCEPTED   (sketch)
 -- author  : @tianyipeng
 -- created : 2026-05-13T08:17:30.296293+00:00
 -- url     : https://prove2.me/submissions/0695a516-890e-45e7-bcc0-53cb4f50103d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.NumberTheory.NumberField.Cyclotomic.PID
 import Mathlib.NumberTheory.Cyclotomic.Basic

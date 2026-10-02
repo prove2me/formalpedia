@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_LexSort_lemma1_invariant
 -- name    : PaigeTarjan.LexSort.lemma1_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:42:28.956245+00:00
 -- url     : https://prove2.me/theorems/207644cd-c23c-4198-b881-e87c251a327a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_tm_compose_poly_witness
 -- name    : CookPvsNP.tm_compose_poly_witness
--- status  : Open
+-- status  : Proved
 -- author  : @Sneed
 -- created : 2026-09-30T17:00:21.445495+00:00
 -- url     : https://prove2.me/theorems/97e6135e-d545-48d5-b618-98b654c5096a

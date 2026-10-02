@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleDeriv_continuous_of_ac_levy
 -- name    : AvramDividend.Classical.scaleDeriv_continuous_of_ac_levy
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-29T22:13:31.639124+00:00
 -- url     : https://prove2.me/theorems/156517ba-b0cc-4337-a0c0-db8df13acd36

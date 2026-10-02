@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_frobenius_density
 -- name    : ChebotarevDensity.frobenius_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:16:46.844406+00:00
 -- url     : https://prove2.me/theorems/b9756187-4ae8-4978-8fec-0fab17438db6

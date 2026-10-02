@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeasonalPricing_Contingent_unique_root
 -- name    : SeasonalPricing.Contingent.unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:10:42.157402+00:00
 -- url     : https://prove2.me/theorems/4bc7a278-af43-4114-974c-13964d995d67

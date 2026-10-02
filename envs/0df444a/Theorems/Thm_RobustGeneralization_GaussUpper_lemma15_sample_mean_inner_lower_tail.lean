@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_lemma15_sample_mean_inner_lower_tail
 -- name    : RobustGeneralization.GaussUpper.lemma15_sample_mean_inner_lower_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:25:40.104128+00:00
 -- url     : https://prove2.me/theorems/f41b66fa-8327-4ddf-9c20-3401a79e9d4d

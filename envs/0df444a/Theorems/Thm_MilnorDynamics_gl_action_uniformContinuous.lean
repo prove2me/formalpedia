@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_gl_action_uniformContinuous
 -- name    : MilnorDynamics.gl_action_uniformContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T03:12:26.254946+00:00
 -- url     : https://prove2.me/theorems/4d0c4cda-c00f-4885-9182-a5bdabace744

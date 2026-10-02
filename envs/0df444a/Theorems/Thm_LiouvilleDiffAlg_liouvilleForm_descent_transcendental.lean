@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_liouvilleForm_descent_transcendental
 -- name    : LiouvilleDiffAlg.liouvilleForm_descent_transcendental
--- status  : Open
+-- status  : Proved
 -- author  : @vebis
 -- created : 2026-10-01T11:41:50.056433+00:00
 -- url     : https://prove2.me/theorems/ab36d69f-694f-4e9b-a9cc-31bc9744a289

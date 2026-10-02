@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Potential_lemmaA5_exists_player
 -- name    : StochFictPlay.Potential.lemmaA5_exists_player
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:13:04.35004+00:00
 -- url     : https://prove2.me/theorems/e17744f2-5469-49ee-804a-8eb4c279d52a

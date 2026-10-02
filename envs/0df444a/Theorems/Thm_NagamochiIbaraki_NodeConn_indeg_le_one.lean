@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagamochiIbaraki_NodeConn_indeg_le_one
 -- name    : NagamochiIbaraki.NodeConn.indeg_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:09:19.056792+00:00
 -- url     : https://prove2.me/theorems/604e6b78-d5ae-4860-a54d-8905109a0a17

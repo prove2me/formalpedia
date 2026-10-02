@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroBandits_repeatedHE_bic_of_gaps
 -- name    : IntroBandits.repeatedHE_bic_of_gaps
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:36:21.344073+00:00
 -- url     : https://prove2.me/theorems/8e7429b0-b729-4cbc-bf5c-d4c2845ca9fc

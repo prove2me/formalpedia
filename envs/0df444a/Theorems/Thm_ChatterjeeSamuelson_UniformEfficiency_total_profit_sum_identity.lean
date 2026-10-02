@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChatterjeeSamuelson_UniformEfficiency_total_profit_sum_identity
 -- name    : ChatterjeeSamuelson.UniformEfficiency.total_profit_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T10:36:09.577766+00:00
 -- url     : https://prove2.me/theorems/41b130fc-5f24-4ada-bb0d-874857a89416

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ConnesRZ.weil_positivity_of_RH
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Lucas
 -- created : 2026-09-20T02:34:51.67358+00:00
 -- url     : https://prove2.me/submissions/adc12c06-e8fa-41b9-af18-d8e71e465c07
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ConnesRZ_weil_defs

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_BailOut_dStar_le_of_admissible
 -- name    : AvramDividend.BailOut.dStar_le_of_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T01:45:49.328814+00:00
 -- url     : https://prove2.me/theorems/7d1143f0-41d0-4204-bda7-53f9e82fdef2

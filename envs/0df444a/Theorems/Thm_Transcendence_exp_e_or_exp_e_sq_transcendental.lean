@@ -19,7 +19,7 @@
 --
 --   **Novelty.** None: this is the case $r = 1$ of the *Solution du problème de Schneider* in Waldschmidt (1973), p. 192, which the paper deduces from its Corollaire 1 (for rational $r$, one of $e^{e^r}$, $e^{e^{2r}}$ is transcendental). The substitution used here is Corollaire 1's, with $x_1$ and $x_2$ exchanged. By the note added in proof (p. 202), Brownawell solved the problem independently. The contribution of this node is the formal proof.
 -- source:
---   The problem: T. Schneider, Einführung in die transzendenten Zahlen, Springer, Berlin, 1957, as quoted in M. Waldschmidt, Solution du huitième problème de Schneider, J. Number Theory 5 (1973), 191–202, p. 191. The solution: the same paper, p. 192 (Solution du problème de Schneider, r = 1, deduced from Corollaire 1); found independently by W. D. Brownawell, The algebraic independence of certain numbers related to the exponential function, J. Number Theory 6 (1974), 22–31. Formal proof: Diaz modulus mission, 30 September 2026 (C. Perassi).
+--   The problem: T. Schneider, Einführung in die transzendenten Zahlen, Springer, Berlin, 1957, as quoted in M. Waldschmidt, Solution du huitième problème de Schneider, J. Number Theory 5 (1973), 191–202, p. 191. The solution: the same paper, p. 192 (Solution du problème de Schneider, r = 1, deduced from Corollaire 1); found independently by W. D. Brownawell, The algebraic independence of certain numbers related by the exponential function, J. Number Theory 6 (1974), 22–31. Formal proof: Diaz modulus mission, 30 September 2026 (C. Perassi).
 
 import Mathlib
 

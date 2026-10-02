@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeasonalPricing_MyopicExp_reduced_problem_solution
 -- name    : SeasonalPricing.MyopicExp.reduced_problem_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:16:18.01615+00:00
 -- url     : https://prove2.me/theorems/a22a8542-7add-47d5-afd7-8c626f9649c0

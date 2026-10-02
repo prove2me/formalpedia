@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_cancel_square_factor_of_coprime
 -- name    : OddPerfectNumber.Kernel.cancel_square_factor_of_coprime
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T22:34:00.028977+00:00
 -- url     : https://prove2.me/theorems/c52ea1ab-1cf3-466a-8b25-bc355193498c

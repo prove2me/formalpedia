@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSDP_Unstructured_sdp_20
 -- name    : RobustSDP.Unstructured.sdp_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:09:31.951955+00:00
 -- url     : https://prove2.me/theorems/640a3b7b-94e5-4c43-993c-308da51da64f

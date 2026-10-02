@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_Deviations_matrix_deviation_inequality
 -- name    : HighDimProb.Deviations.matrix_deviation_inequality
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:08:45.902692+00:00
 -- url     : https://prove2.me/theorems/8b697fbc-a6e9-49f2-925f-f614a571bc05

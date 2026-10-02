@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ThompsonAmenability.mapsTo_dyadic_and_isAmenable_F_iff_isExtensivelyAmenableOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-09-30T19:16:59.284464+00:00
 -- url     : https://prove2.me/submissions/666719da-8f0a-4c56-aa09-ac8fa41b2b02
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CannonFloydParry_bijOn_dyadic
 import Theorems.Thm_ThompsonAmenability_isAmenable_F_of_isExtensivelyAmenableOn

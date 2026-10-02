@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarrollGR_kruskal_coordinates
 -- name    : CarrollGR.kruskal_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:23:25.312402+00:00
 -- url     : https://prove2.me/theorems/879c20b2-6d7b-4a5d-98a6-c4f5e3fd72a3

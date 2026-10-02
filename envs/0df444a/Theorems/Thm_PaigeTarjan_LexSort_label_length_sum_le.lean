@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_LexSort_label_length_sum_le
 -- name    : PaigeTarjan.LexSort.label_length_sum_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:43:04.95679+00:00
 -- url     : https://prove2.me/theorems/b46801e1-0d36-4d41-ad10-a10362bf6ac8

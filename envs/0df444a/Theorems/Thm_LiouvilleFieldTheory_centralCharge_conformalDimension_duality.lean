@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleFieldTheory_centralCharge_conformalDimension_duality
 -- name    : LiouvilleFieldTheory.centralCharge_conformalDimension_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T09:51:57.871111+00:00
 -- url     : https://prove2.me/theorems/707e9191-97ff-4831-9c62-33ab1e1b0235

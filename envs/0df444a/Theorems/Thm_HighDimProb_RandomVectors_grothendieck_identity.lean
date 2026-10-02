@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomVectors_grothendieck_identity
 -- name    : HighDimProb.RandomVectors.grothendieck_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-18T06:43:57.008431+00:00
 -- url     : https://prove2.me/theorems/2e2d6d44-44a2-4d38-9a40-b187964450b5

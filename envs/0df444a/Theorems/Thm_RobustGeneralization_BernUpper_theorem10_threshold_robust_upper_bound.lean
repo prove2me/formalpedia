@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_BernUpper_theorem10_threshold_robust_upper_bound
 -- name    : RobustGeneralization.BernUpper.theorem10_threshold_robust_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:32:26.652071+00:00
 -- url     : https://prove2.me/theorems/c6dfef9f-4902-4e09-8dce-e9582e71d7c3

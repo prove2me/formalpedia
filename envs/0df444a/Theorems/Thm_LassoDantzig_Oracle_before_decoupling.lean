@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Oracle_before_decoupling
 -- name    : LassoDantzig.Oracle.before_decoupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:10:16.156808+00:00
 -- url     : https://prove2.me/theorems/8e530a9c-6f53-45e1-abd7-5359bc88d149

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Equivalence_theorem_5_1
 -- name    : LassoDantzig.Equivalence.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:06:45.171784+00:00
 -- url     : https://prove2.me/theorems/df790842-7a44-4862-9b98-3e3583bb0d04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChatterjeeSamuelson_UniformEfficiency_buyer_ex_ante_profit
 -- name    : ChatterjeeSamuelson.UniformEfficiency.buyer_ex_ante_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:58:13.915003+00:00
 -- url     : https://prove2.me/theorems/a1792fec-e182-4cf3-accb-785ad72a4329

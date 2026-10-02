@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_GeneralDM_dec_lower_bound
 -- name    : FoundationsRL.GeneralDM.dec_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:25:39.575981+00:00
 -- url     : https://prove2.me/theorems/d1769626-b381-4603-82dd-2561a3d15337

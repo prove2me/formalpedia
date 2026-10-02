@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Classification_theorem_5_31_instance_restricted_bayes_risk
 -- name    : SupportVectorMachines.Classification.theorem_5_31_instance_restricted_bayes_risk
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:11:44.941222+00:00
 -- url     : https://prove2.me/theorems/35ae0c73-8bef-406f-aee2-c71f0d5f95de

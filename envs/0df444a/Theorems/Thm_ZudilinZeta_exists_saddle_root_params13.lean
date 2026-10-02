@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_exists_saddle_root_params13
 -- name    : ZudilinZeta.exists_saddle_root_params13
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-09-25T14:51:17.346154+00:00
 -- url     : https://prove2.me/theorems/45d2ed84-894d-4be3-ac8e-4cda432e2396

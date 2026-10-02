@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_MeanRisk_tailGini_convex_posHomogeneous
 -- name    : DualSSD.MeanRisk.tailGini_convex_posHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:06:31.097171+00:00
 -- url     : https://prove2.me/theorems/018c108d-ddf3-4ba2-8948-6561733a520f

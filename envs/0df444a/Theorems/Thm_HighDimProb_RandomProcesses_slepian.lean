@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomProcesses_slepian
 -- name    : HighDimProb.RandomProcesses.slepian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:00:55.044365+00:00
 -- url     : https://prove2.me/theorems/45dcf9d6-c3eb-48d8-ad5d-5ab5e00a1f80

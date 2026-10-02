@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_frank_discrete_separation
 -- name    : SteinitzExchange.Duality.frank_discrete_separation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:58:33.916229+00:00
 -- url     : https://prove2.me/theorems/f6a72521-28fb-44ad-8ba3-a458fc272560

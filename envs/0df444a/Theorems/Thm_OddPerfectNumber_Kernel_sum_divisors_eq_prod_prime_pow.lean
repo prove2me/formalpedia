@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_sum_divisors_eq_prod_prime_pow
 -- name    : OddPerfectNumber.Kernel.sum_divisors_eq_prod_prime_pow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T07:01:32.517985+00:00
 -- url     : https://prove2.me/theorems/39086529-e011-424a-a470-218ae935c6a1

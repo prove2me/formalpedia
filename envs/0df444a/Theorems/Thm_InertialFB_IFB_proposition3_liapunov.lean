@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialFB_IFB_proposition3_liapunov
 -- name    : InertialFB.IFB.proposition3_liapunov
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:47:55.49111+00:00
 -- url     : https://prove2.me/theorems/0a5906ed-8a3c-4311-8327-9eec22bba81f

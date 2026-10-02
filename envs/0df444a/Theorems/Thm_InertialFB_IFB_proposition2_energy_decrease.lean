@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialFB_IFB_proposition2_energy_decrease
 -- name    : InertialFB.IFB.proposition2_energy_decrease
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:47:25.97224+00:00
 -- url     : https://prove2.me/theorems/d9e837a8-c0d2-4ec1-b0d2-081ecf1d7350

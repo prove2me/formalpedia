@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Calibration_lemma_3_4_bayes_risk_via_inner_risk
 -- name    : SupportVectorMachines.Calibration.lemma_3_4_bayes_risk_via_inner_risk
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:29:21.63139+00:00
 -- url     : https://prove2.me/theorems/c907d52c-f629-4dfc-a85c-9cc90bd85198

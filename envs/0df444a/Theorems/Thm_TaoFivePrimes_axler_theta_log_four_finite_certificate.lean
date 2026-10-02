@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_axler_theta_log_four_finite_certificate
 -- name    : TaoFivePrimes.axler_theta_log_four_finite_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-09-28T14:01:01.332841+00:00
 -- url     : https://prove2.me/theorems/d06c489c-ac2e-433f-b5da-7de0cd4ae978

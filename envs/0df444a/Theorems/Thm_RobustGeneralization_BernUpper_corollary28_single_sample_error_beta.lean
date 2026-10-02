@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_BernUpper_corollary28_single_sample_error_beta
 -- name    : RobustGeneralization.BernUpper.corollary28_single_sample_error_beta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:31:35.215305+00:00
 -- url     : https://prove2.me/theorems/ccfc7c7b-314f-435e-9aed-597be0d12638

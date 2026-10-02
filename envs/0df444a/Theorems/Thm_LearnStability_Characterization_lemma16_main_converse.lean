@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_lemma16_main_converse
 -- name    : LearnStability.Characterization.lemma16_main_converse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:12:13.28162+00:00
 -- url     : https://prove2.me/theorems/36f6a5d4-37fb-4bbb-b3f8-ab1194813274

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_lemma20_subsample_rule
 -- name    : LearnStability.Characterization.lemma20_subsample_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:11:42.595977+00:00
 -- url     : https://prove2.me/theorems/89381a81-0785-4e78-ae60-12bd8c72db5d

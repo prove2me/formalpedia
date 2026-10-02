@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ErlerGross.digamma_multiplication_formula
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T18:28:50.84966+00:00
 -- url     : https://prove2.me/submissions/8bcd3705-bd88-422e-96b3-f3b299a0623a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ErlerGross_gamma_multiplication_formula

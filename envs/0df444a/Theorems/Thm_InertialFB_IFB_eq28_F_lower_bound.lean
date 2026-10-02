@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialFB_IFB_eq28_F_lower_bound
 -- name    : InertialFB.IFB.eq28_F_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:50:44.048988+00:00
 -- url     : https://prove2.me/theorems/70c20aec-a5f4-47a0-86a1-820777131c3d

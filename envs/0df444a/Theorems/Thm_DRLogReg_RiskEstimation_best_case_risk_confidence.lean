@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_RiskEstimation_best_case_risk_confidence
 -- name    : DRLogReg.RiskEstimation.best_case_risk_confidence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:41:06.710227+00:00
 -- url     : https://prove2.me/theorems/2f76ba39-8725-4260-91db-a87faf6e6be5

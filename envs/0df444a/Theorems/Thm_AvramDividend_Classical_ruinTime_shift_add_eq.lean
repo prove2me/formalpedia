@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_ruinTime_shift_add_eq
 -- name    : AvramDividend.Classical.ruinTime_shift_add_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T09:39:55.740165+00:00
 -- url     : https://prove2.me/theorems/55eb16d3-5043-4502-8140-8da040854c59

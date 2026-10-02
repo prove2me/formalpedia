@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomMatrices_covering_numbers_of_euclidean_ball_and_sphere
 -- name    : HighDimProb.RandomMatrices.covering_numbers_of_euclidean_ball_and_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:22:18.675775+00:00
 -- url     : https://prove2.me/theorems/792e373d-6167-4cee-be2b-849bba257578

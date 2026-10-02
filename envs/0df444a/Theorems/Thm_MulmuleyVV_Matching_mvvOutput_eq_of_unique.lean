@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulmuleyVV_Matching_mvvOutput_eq_of_unique
 -- name    : MulmuleyVV.Matching.mvvOutput_eq_of_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:38:08.892414+00:00
 -- url     : https://prove2.me/theorems/44f1044a-4d20-4789-b9ef-84fb4e7c9dc5

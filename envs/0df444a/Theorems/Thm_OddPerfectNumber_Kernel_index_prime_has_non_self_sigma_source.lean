@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_index_prime_has_non_self_sigma_source
 -- name    : OddPerfectNumber.Kernel.index_prime_has_non_self_sigma_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T00:49:50.016683+00:00
 -- url     : https://prove2.me/theorems/c2bd62fe-d345-42f6-8bd3-fa472875a888

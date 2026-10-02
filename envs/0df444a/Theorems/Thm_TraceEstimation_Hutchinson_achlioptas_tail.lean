@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Hutchinson_achlioptas_tail
 -- name    : TraceEstimation.Hutchinson.achlioptas_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:27:48.038093+00:00
 -- url     : https://prove2.me/theorems/e1fa513d-ce71-4cb0-b668-5299da53f49c

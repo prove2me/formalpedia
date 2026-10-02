@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_OnlineLearning_rwm_loss_bound
 -- name    : FoundationsML.OnlineLearning.rwm_loss_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:22:32.629752+00:00
 -- url     : https://prove2.me/theorems/1b5d3ce6-002c-4353-be40-3a14133fa23e

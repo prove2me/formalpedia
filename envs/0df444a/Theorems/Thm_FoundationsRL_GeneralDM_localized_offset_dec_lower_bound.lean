@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_GeneralDM_localized_offset_dec_lower_bound
 -- name    : FoundationsRL.GeneralDM.localized_offset_dec_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:26:20.460008+00:00
 -- url     : https://prove2.me/theorems/3687dea9-a8c8-4e5c-b495-7ad9e97ce03a

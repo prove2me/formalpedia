@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_Duality_secondPerformance_properties
 -- name    : DualSSD.Duality.secondPerformance_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:36:19.522317+00:00
 -- url     : https://prove2.me/theorems/d438fe1b-6c1a-481e-84e6-b197f52b26e0

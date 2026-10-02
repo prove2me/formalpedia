@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftDimReduction_exists_consistent_linear_rules
 -- name    : HooftDimReduction.exists_consistent_linear_rules
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:20:59.614321+00:00
 -- url     : https://prove2.me/theorems/d2449bbe-d5d8-4278-95ec-aa83632d5bed

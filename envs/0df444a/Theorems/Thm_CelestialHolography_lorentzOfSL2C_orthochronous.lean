@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialHolography_lorentzOfSL2C_orthochronous
 -- name    : CelestialHolography.lorentzOfSL2C_orthochronous
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T02:04:30.492801+00:00
 -- url     : https://prove2.me/theorems/64cc6349-5dbc-4d24-ae2f-a0d417feee1a

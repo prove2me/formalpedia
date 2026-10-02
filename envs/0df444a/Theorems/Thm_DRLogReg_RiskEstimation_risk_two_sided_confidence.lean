@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_RiskEstimation_risk_two_sided_confidence
 -- name    : DRLogReg.RiskEstimation.risk_two_sided_confidence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:41:54.28346+00:00
 -- url     : https://prove2.me/theorems/f135b553-b1bd-4c93-810b-1c84d4e50110

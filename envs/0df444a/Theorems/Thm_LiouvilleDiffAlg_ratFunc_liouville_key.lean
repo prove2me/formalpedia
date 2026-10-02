@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_ratFunc_liouville_key
 -- name    : LiouvilleDiffAlg.ratFunc_liouville_key
--- status  : Open
+-- status  : Proved
 -- author  : @vebis
 -- created : 2026-10-01T11:41:26.253986+00:00
 -- url     : https://prove2.me/theorems/8d0175b1-bbfd-4b1b-bcd2-64b8f4b3a22a

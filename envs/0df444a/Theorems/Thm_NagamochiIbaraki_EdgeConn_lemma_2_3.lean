@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagamochiIbaraki_EdgeConn_lemma_2_3
 -- name    : NagamochiIbaraki.EdgeConn.lemma_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:02:26.119624+00:00
 -- url     : https://prove2.me/theorems/54e2ce87-4557-419e-a039-a21cf3d97567

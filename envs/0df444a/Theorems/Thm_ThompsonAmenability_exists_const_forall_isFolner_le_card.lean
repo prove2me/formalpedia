@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonAmenability_exists_const_forall_isFolner_le_card
 -- name    : ThompsonAmenability.exists_const_forall_isFolner_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-30T18:44:40.346987+00:00
 -- url     : https://prove2.me/theorems/914ccf9f-b840-4b55-b03b-f9c02f09b843

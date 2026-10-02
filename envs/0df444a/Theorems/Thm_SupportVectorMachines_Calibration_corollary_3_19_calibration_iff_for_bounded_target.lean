@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Calibration_corollary_3_19_calibration_iff_for_bounded_target
 -- name    : SupportVectorMachines.Calibration.corollary_3_19_calibration_iff_for_bounded_target
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:32:11.256698+00:00
 -- url     : https://prove2.me/theorems/89589f2d-9272-4e8a-8881-ac070944f5d9

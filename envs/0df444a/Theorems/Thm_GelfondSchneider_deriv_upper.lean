@@ -11,7 +11,7 @@
 --
 --   $$|E^{(r)}(l_0)| \le C^{r}\, r^{\,r(3-m)/2 + 3/2}.$$
 --
---   The proof is Cauchy's estimate with zeros (`FourExp.cauchy_estimate_with_zeros`) on a circle of radius about $2m(1 + r/q)$ around $l_0$. The zeros at all of $1, \dots, m$, including $l_0$ itself, give the factor $r^{-rm/2}$.
+--   The proof applies the grid estimate `Transcendence.expPoly_grid_estimate` to $F(z) = E(z + 1)$ on the one-dimensional grid $\{0, \dots, m - 1\}$, with vanishing order $r$, at the point $l_0 - 1$ and with $u = 2 + r/q$. The zeros at all of $1, \dots, m$, including $l_0$ itself, give the factor $(u - 1)^{-mr}$, and $1/(u - 1) \le q/r \le \sqrt{2m}\, r^{-1/2}$ turns it into $r^{-rm/2}$ up to a factor $C^{r}$.
 -- source:
 --   Known: A. O. Gelfond (1934), T. Schneider (1934); this step of Gelfond's proof. Formal proof: Diaz modulus mission, 24 September 2026 (C. Perassi), restructuring the formalization by M. Karatarakis and F. Wiedijk, A formalization of the Gelfond-Schneider theorem, arXiv:2603.24823 (2026), mathlib4 fork at commit cb781672 (Apache 2.0).
 

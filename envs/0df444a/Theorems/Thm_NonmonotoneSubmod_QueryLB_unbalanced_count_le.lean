@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneSubmod_QueryLB_unbalanced_count_le
 -- name    : NonmonotoneSubmod.QueryLB.unbalanced_count_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:16:19.804976+00:00
 -- url     : https://prove2.me/theorems/a5cc0e84-9dc0-4174-91ca-84f9bf2caa6d

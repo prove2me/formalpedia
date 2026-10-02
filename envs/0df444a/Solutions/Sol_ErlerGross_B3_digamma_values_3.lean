@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for ErlerGross.B3_digamma_values
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T12:54:22.781466+00:00
 -- url     : https://prove2.me/submissions/b35e85ab-25c4-47d3-8407-84ca14852a00
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ErlerGross_digamma_sum_thirds

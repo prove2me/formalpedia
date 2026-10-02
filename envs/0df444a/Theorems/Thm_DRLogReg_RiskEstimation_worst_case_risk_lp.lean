@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_RiskEstimation_worst_case_risk_lp
 -- name    : DRLogReg.RiskEstimation.worst_case_risk_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:39:45.788841+00:00
 -- url     : https://prove2.me/theorems/72b61195-8546-490e-8e4b-bee5f548d897

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_Coarsest_splitter_iff_unstable
 -- name    : PaigeTarjan.Coarsest.splitter_iff_unstable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:46:59.63855+00:00
 -- url     : https://prove2.me/theorems/9ec264d4-8572-4475-9425-1b1bcc0a97ed

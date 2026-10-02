@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_theorem8_stable_aerm
 -- name    : LearnStability.Characterization.theorem8_stable_aerm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:11:04.540027+00:00
 -- url     : https://prove2.me/theorems/57bd7f28-5d66-486d-8584-c98a88e64543

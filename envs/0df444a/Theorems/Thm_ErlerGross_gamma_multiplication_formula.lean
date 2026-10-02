@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_gamma_multiplication_formula
 -- name    : ErlerGross.gamma_multiplication_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T18:28:13.883189+00:00
 -- url     : https://prove2.me/theorems/625fc10a-f4d7-475f-9256-1d7e52b63a28

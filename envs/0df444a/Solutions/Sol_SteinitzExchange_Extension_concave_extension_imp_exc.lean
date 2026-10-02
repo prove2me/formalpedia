@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SteinitzExchange.Extension.concave_extension_imp_exc
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @choi
 -- created : 2026-10-01T03:14:45.028993+00:00
 -- url     : https://prove2.me/submissions/94c33fbc-b429-4da8-953b-fe2b9f956fed
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SteinitzExchange_Extension_IntegralBaseSet

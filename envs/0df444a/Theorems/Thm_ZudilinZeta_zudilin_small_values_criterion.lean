@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_zudilin_small_values_criterion
 -- name    : ZudilinZeta.zudilin_small_values_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-22T18:37:08.889631+00:00
 -- url     : https://prove2.me/theorems/45d09a3f-caed-4907-af7a-8f25a6ede4ac

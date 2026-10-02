@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSDP_Unstructured_theorem_5_3
 -- name    : RobustSDP.Unstructured.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:11:52.38499+00:00
 -- url     : https://prove2.me/theorems/2117f267-b783-4f56-983d-3d8faadb3379

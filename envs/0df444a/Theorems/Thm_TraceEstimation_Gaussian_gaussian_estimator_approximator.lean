@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Gaussian_gaussian_estimator_approximator
 -- name    : TraceEstimation.Gaussian.gaussian_estimator_approximator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:30:12.775909+00:00
 -- url     : https://prove2.me/theorems/c96a45f3-593a-4785-ae2d-ed3ca0c600a4

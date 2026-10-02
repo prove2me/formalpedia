@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_GeneralDM_e2d_general_regret_bound
 -- name    : FoundationsRL.GeneralDM.e2d_general_regret_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:24:51.813021+00:00
 -- url     : https://prove2.me/theorems/7f4cebdb-9a55-4f4e-b56b-26c03e358db0

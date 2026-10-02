@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Inequality_permutation_bound
 -- name    : VapnikChervonenkis.Inequality.permutation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:18:18.978977+00:00
 -- url     : https://prove2.me/theorems/cde1ec04-0657-40ec-8f39-134fc9ed4399

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_favourable_index_eq_cps
 -- name    : AllocationIndices.favourable_index_eq_cps
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T03:02:41.194986+00:00
 -- url     : https://prove2.me/theorems/71ab1879-9567-4981-b60f-ea4a087a3a7e

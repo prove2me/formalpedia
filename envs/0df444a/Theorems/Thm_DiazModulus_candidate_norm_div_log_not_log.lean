@@ -21,7 +21,7 @@
 --
 --   **Novelty.** None claimed: it is a short consequence of the four exponentials theorem in transcendence degree one.
 -- source:
---   Carlo Perassi, unpublished apart from this node. Novelty is not asserted. Formal proof: Diaz modulus mission, 24 September 2026 (C. Perassi). It generalises DiazModulus.candidate_harmonic_not_log. Background: W. D. Brownawell, The algebraic independence of certain numbers related to the exponential function, J. Number Theory 6 (1974); M. Waldschmidt, Solution du huitième problème de Schneider, J. Number Theory 5 (1973).
+--   Carlo Perassi, unpublished apart from this node. Novelty is not asserted. Formal proof: Diaz modulus mission, 24 September 2026 (C. Perassi). It generalises DiazModulus.candidate_harmonic_not_log. Background: W. D. Brownawell, The algebraic independence of certain numbers related by the exponential function, J. Number Theory 6 (1974); M. Waldschmidt, Solution du huitième problème de Schneider, J. Number Theory 5 (1973).
 
 import Definitions.Def_DiazModulus
 

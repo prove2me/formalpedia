@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ConvexSCO_theorem2_strongly_convex_erm
 -- name    : LearnStability.ConvexSCO.theorem2_strongly_convex_erm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:17:19.478904+00:00
 -- url     : https://prove2.me/theorems/1699f3f3-9496-4d5b-ba00-08ef0e461fa5

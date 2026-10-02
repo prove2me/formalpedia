@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_factorization_p_of_mul_prime_pow_ne
 -- name    : OddPerfectNumber.Kernel.factorization_p_of_mul_prime_pow_ne
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T00:37:32.205567+00:00
 -- url     : https://prove2.me/theorems/925fa028-2aa8-47e5-bdae-80eb7b7f3f59

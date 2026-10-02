@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_alternating_exp_tsum_eq_cosine_formula
 -- name    : ErlerGross.alternating_exp_tsum_eq_cosine_formula
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:10:18.726968+00:00
 -- url     : https://prove2.me/theorems/1ff8f8d6-eacf-4cd0-952d-796f969e86f1

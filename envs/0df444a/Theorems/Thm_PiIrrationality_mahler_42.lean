@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiIrrationality_mahler_42
 -- name    : PiIrrationality.mahler_42
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-10-01T05:24:42.373651+00:00
 -- url     : https://prove2.me/theorems/dbde8564-c515-4238-b392-47e7babb6a74

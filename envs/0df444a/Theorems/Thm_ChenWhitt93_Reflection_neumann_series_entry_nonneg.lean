@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_Reflection_neumann_series_entry_nonneg
 -- name    : ChenWhitt93.Reflection.neumann_series_entry_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T09:39:01.885573+00:00
 -- url     : https://prove2.me/theorems/00bc7dbe-e304-43c0-b5b5-01325fb693f4

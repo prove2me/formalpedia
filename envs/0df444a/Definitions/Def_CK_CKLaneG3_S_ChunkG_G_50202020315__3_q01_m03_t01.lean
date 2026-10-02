@@ -1,0 +1,33 @@
+-- Prove2me | Definitions.Def_CK_CKLaneG3_S_ChunkG_G_50202020315__3_q01_m03_t01
+-- name    : CK_CKLaneG3_S_ChunkG_G_50202020315__3_q01_m03_t01
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-10-01T20:02:28.635978+00:00
+-- url     : https://prove2.me/theorems/28792ef5-b82a-4aa0-8bb2-aa2021b18b98
+-- title:
+--   Courtade–Kumar proof module `CKLaneG3.S.ChunkG.G_50202020315 (module block 4 of 6) (subtrees 2 of 2)` (transplant)
+-- statement:
+--   Verbatim transplant of the Lean module `CKLaneG3.S.ChunkG.G_50202020315 (module block 4 of 6) (subtrees 2 of 2)` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `CKLaneG3.S.ChunkG.G_50202020315 (module block 4 of 6) (subtrees 2 of 2)` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module CKLaneG3.S.ChunkG.G_50202020315 (module block 4 of 6) (subtrees 2 of 2) (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/CKLaneG3/S/ChunkG/G_50202020315 (module block 4 of 6) (subtrees 2 of 2).lean)
+
+import Definitions.Def_CK_CKLaneG3_S_ChunkG_G_50202020315__3_q01_m03_t00
+
+namespace CKLaneG3.S.Chunk.C_50300105304314
+open CKLaneD
+local notation "L" => PTree.leaf
+local notation "N" => PTree.node
+
+set_option maxRecDepth 100000 in
+def t_sub_007 : PTree :=
+  (N 2 (N 0 (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))) (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))))) (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (N 2 (L 2) (L 2)) (L 2)) (N 1 (N 2 (L 2) (L 2)) (N 2 (L 2) (L 2))))) (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))))) (N 0 (N 1 (N 2 (N 0 (N 1 (N 2 (L 2) (N 0 (L 2) (L 2))) (N 2 (L 2) (N 0 (L 2) (L 2)))) (N 1 (N 2 (L 2) (N 0 (L 2) (N 1 (L 2) (L 2)))) (N 2 (L 2) (N 0 (L 2) (L 2))))) (N 0 (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))) (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))))) (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (N 2 (L 2) (L 2)) (L 2)) (N 1 (N 2 (L 2) (L 2)) (N 2 (L 2) (L 2))))) (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))))))) (N 2 (N 0 (N 1 (N 2 (L 2) (L 2)) (N 2 (L 2) (L 2))) (N 1 (N 2 (L 2) (L 2)) (N 2 (L 2) (L 2)))) (N 0 (N 1 (N 2 (N 0 (L 2) (L 2)) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))) (N 2 (N 0 (L 2) (L 2)) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))))) (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))) (N 2 (N 0 (L 2) (L 2)) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))))))) (N 1 (N 2 (N 0 (N 1 (N 2 (N 0 (L 2) (L 2)) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))) (N 2 (L 2) (N 0 (L 2) (N 1 (L 2) (L 2))))) (N 1 (N 2 (N 0 (L 2) (L 2)) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))) (N 2 (N 0 (L 2) (L 2)) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))))) (N 0 (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (N 2 (L 2) (L 2)) (N 2 (L 2) (L 2))) (N 1 (N 2 (L 2) (N 0 (L 2) (L 2))) (N 2 (L 2) (L 2))))) (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (N 2 (L 2) (L 2)) (L 2))))) (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (N 2 (L 2) (N 0 (L 2) (L 2))) (N 2 (L 2) (N 0 (L 2) (L 2)))) (N 1 (N 2 (L 2) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 1) (L 2)))) (N 2 (L 2) (N 0 (L 2) (L 2)))))) (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (N 2 (L 2) (L 2)) (N 2 (L 2) (L 2))) (N 1 (N 2 (L 2) (N 0 (L 2) (L 2))) (N 2 (L 2) (L 2)))))))) (N 2 (N 0 (N 1 (N 2 (L 2) (N 0 (L 2) (L 2))) (N 2 (L 2) (L 2))) (N 1 (N 2 (L 2) (N 0 (L 2) (L 2))) (N 2 (L 2) (N 0 (L 2) (L 2))))) (N 0 (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2)))) (N 2 (N 0 (L 2) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))))) (N 1 (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (N 2 (L 2) (L 2)) (L 2)))) (N 2 (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))) (N 0 (N 1 (L 2) (L 2)) (N 1 (L 2) (L 2))))))))))
+
+end CKLaneG3.S.Chunk.C_50300105304314
+
+

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_Representation_infimum_superhomogeneous_superhomogeneous
 -- name    : StarShapedRisk.Representation.infimum_superhomogeneous_superhomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T11:37:40.46545+00:00
 -- url     : https://prove2.me/theorems/da887b8d-b55e-475a-8521-54f911d73f45

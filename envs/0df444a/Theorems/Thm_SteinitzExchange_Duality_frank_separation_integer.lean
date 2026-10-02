@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_frank_separation_integer
 -- name    : SteinitzExchange.Duality.frank_separation_integer
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T07:37:19.83199+00:00
 -- url     : https://prove2.me/theorems/1a78521e-45ca-462c-a62b-ab492ea02637

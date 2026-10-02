@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Extension_toReal_mem_hull_iff
 -- name    : SteinitzExchange.Extension.toReal_mem_hull_iff
--- status  : Open
+-- status  : Proved
 -- author  : @choi
 -- created : 2026-10-01T03:14:11.704125+00:00
 -- url     : https://prove2.me/theorems/2477be5f-3d96-4f21-a520-32a1e295449a

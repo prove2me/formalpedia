@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CookPvsNP.polyTimeComputable_comp
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Sneed
 -- created : 2026-09-30T17:10:00.965578+00:00
 -- url     : https://prove2.me/submissions/de1dedae-ce6d-4be8-bd57-d7739fe76441
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CookPvsNP_defs
 import Theorems.Thm_CookPvsNP_tm_compose_poly_witness

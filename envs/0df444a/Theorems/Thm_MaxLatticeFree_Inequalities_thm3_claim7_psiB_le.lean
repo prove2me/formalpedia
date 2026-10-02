@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Inequalities_thm3_claim7_psiB_le
 -- name    : MaxLatticeFree.Inequalities.thm3_claim7_psiB_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:22:18.544162+00:00
 -- url     : https://prove2.me/theorems/2fe33b69-645c-4bb5-8177-4cd64c3e0644

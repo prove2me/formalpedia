@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_polyReducible_trans
 -- name    : CookPvsNP.polyReducible_trans
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T06:26:32.050686+00:00
 -- url     : https://prove2.me/theorems/ba6139c4-bd0f-4309-b801-c0616888efa6

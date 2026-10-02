@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NHPPArrivals_LinearRate_combine_subintervals
 -- name    : NHPPArrivals.LinearRate.combine_subintervals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:18:44.492025+00:00
 -- url     : https://prove2.me/theorems/a3caeb1d-ff41-4335-bbe1-5b38464a5519

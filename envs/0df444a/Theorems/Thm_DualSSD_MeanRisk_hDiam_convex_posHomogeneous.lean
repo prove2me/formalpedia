@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_MeanRisk_hDiam_convex_posHomogeneous
 -- name    : DualSSD.MeanRisk.hDiam_convex_posHomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:06:04.722986+00:00
 -- url     : https://prove2.me/theorems/8cdf3904-9c98-4e4c-a989-9ba689419b43

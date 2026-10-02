@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_flt5_cyc5_pid_core_zz5_part
 -- name    : flt5_cyc5_pid_core_zz5_part
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-05-13T07:34:22.164918+00:00
 -- url     : https://prove2.me/theorems/f39e8be9-5e69-436d-bc18-54dc95e624e1

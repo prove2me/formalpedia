@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ConvexSCO_theorem3_first_display
 -- name    : LearnStability.ConvexSCO.theorem3_first_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:18:23.968629+00:00
 -- url     : https://prove2.me/theorems/77160f94-8528-466b-819c-7336576977a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_lemma20_lp_robust_error_linear
 -- name    : RobustGeneralization.GaussUpper.lemma20_lp_robust_error_linear
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:27:38.133441+00:00
 -- url     : https://prove2.me/theorems/7a13677e-6293-4339-afcb-2bc3f10c59c6

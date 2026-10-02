@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_lemma16_normalized_mean_inner_lower_tail
 -- name    : RobustGeneralization.GaussUpper.lemma16_normalized_mean_inner_lower_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:26:06.358876+00:00
 -- url     : https://prove2.me/theorems/1872b9e7-b733-450f-a3f9-bbeea73732db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_k_one_q2_five_q3_eleven_source_dispatch_v2
 -- name    : OddPerfectNumber.k_one_q2_five_q3_eleven_source_dispatch_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-14T22:45:47.029474+00:00
 -- url     : https://prove2.me/theorems/578d7e7e-60c9-4d56-9592-138fca7175ed

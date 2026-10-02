@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonAmenability_mapsTo_dyadic_and_isAmenable_F_iff_isExtensivelyAmenableOn
 -- name    : ThompsonAmenability.mapsTo_dyadic_and_isAmenable_F_iff_isExtensivelyAmenableOn
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-30T18:50:52.033991+00:00
 -- url     : https://prove2.me/theorems/c7bf7b0c-d905-4721-a2c6-b010d814b0ea

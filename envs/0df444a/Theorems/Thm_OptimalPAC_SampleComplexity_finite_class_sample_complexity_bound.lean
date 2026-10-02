@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_finite_class_sample_complexity_bound
 -- name    : OptimalPAC.SampleComplexity.finite_class_sample_complexity_bound
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T22:35:44.996581+00:00
 -- url     : https://prove2.me/theorems/10879087-a3d1-49b8-ba24-f5e4565b9b40

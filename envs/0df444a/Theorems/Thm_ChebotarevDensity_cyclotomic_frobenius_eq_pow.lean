@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChebotarevDensity_cyclotomic_frobenius_eq_pow
 -- name    : ChebotarevDensity.cyclotomic_frobenius_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T17:16:23.847087+00:00
 -- url     : https://prove2.me/theorems/4bbbda02-b545-4149-ae22-bfe1eeb1b1b6

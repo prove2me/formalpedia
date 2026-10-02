@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChatterjeeSamuelson_UniformEfficiency_trade_probability
 -- name    : ChatterjeeSamuelson.UniformEfficiency.trade_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:37:57.686261+00:00
 -- url     : https://prove2.me/theorems/337bf25d-d734-4224-a2da-4bb365ad753b

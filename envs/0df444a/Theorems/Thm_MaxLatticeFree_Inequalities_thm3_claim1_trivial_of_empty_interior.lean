@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Inequalities_thm3_claim1_trivial_of_empty_interior
 -- name    : MaxLatticeFree.Inequalities.thm3_claim1_trivial_of_empty_interior
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:12:11.664165+00:00
 -- url     : https://prove2.me/theorems/b9646048-79ef-4d92-9f3f-a38a94aee4e4

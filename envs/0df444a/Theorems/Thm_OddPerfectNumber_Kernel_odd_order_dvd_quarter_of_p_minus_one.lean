@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_odd_order_dvd_quarter_of_p_minus_one
 -- name    : OddPerfectNumber.Kernel.odd_order_dvd_quarter_of_p_minus_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T06:55:51.572334+00:00
 -- url     : https://prove2.me/theorems/08fe6da2-1ba0-4692-b142-e9c52d0cdc9a

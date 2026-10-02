@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_B3_digamma_values
 -- name    : ErlerGross.B3_digamma_values
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T12:31:37.654297+00:00
 -- url     : https://prove2.me/theorems/914407f2-901f-4cfb-b8c0-3f546e192f62

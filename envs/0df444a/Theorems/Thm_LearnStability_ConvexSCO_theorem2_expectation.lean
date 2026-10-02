@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ConvexSCO_theorem2_expectation
 -- name    : LearnStability.ConvexSCO.theorem2_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:16:48.345023+00:00
 -- url     : https://prove2.me/theorems/67509d22-7201-483e-b467-204c62ba480a

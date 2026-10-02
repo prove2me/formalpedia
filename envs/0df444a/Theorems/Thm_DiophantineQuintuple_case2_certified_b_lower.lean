@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiophantineQuintuple_case2_certified_b_lower
 -- name    : DiophantineQuintuple.case2_certified_b_lower
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-09-23T15:33:22.559981+00:00
 -- url     : https://prove2.me/theorems/558cc6a4-55b9-4313-8f8a-1922accc6b7e

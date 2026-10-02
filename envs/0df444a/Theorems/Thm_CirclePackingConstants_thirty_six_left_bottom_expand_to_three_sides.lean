@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_thirty_six_left_bottom_expand_to_three_sides
 -- name    : CirclePackingConstants.thirty_six_left_bottom_expand_to_three_sides
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-22T09:49:00.383834+00:00
 -- url     : https://prove2.me/theorems/a9877114-199e-4ea0-a49b-095fdc4ef341

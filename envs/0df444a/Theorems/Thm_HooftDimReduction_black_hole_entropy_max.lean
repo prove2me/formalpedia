@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftDimReduction_black_hole_entropy_max
 -- name    : HooftDimReduction.black_hole_entropy_max
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:18:26.850063+00:00
 -- url     : https://prove2.me/theorems/65d1d2f4-f942-4036-9183-3db267c8d913

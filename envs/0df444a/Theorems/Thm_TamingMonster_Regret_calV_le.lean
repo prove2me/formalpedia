@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TamingMonster_Regret_calV_le
 -- name    : TamingMonster.Regret.calV_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T08:46:13.056515+00:00
 -- url     : https://prove2.me/theorems/1282970b-0562-444e-ad7e-94b6e37320df

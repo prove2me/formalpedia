@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_theorem21_robust_error_upper_bound
 -- name    : RobustGeneralization.GaussUpper.theorem21_robust_error_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:27:58.963671+00:00
 -- url     : https://prove2.me/theorems/6fa5ae9e-10cc-4d33-9d60-9b7c9f271db0

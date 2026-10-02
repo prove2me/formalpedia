@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulmuleyVV_Matching_det_eq_sum_even_cycle_perms
 -- name    : MulmuleyVV.Matching.det_eq_sum_even_cycle_perms
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:36:28.999453+00:00
 -- url     : https://prove2.me/theorems/14f564b0-273d-45a9-a9e5-b99cb2095656

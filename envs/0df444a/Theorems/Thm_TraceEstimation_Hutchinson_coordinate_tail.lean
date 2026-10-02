@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Hutchinson_coordinate_tail
 -- name    : TraceEstimation.Hutchinson.coordinate_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:28:39.228515+00:00
 -- url     : https://prove2.me/theorems/9cb43448-82dc-4e18-873d-b8f67a3407aa

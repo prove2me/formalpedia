@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_index_unique_up_to_increasing
 -- name    : AllocationIndices.index_unique_up_to_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:49:38.314972+00:00
 -- url     : https://prove2.me/theorems/2a63ce98-fb61-4f3c-9693-0b38aff8eab2

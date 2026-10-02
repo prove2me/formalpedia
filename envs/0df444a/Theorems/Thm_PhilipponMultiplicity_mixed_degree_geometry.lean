@@ -7,9 +7,11 @@
 -- title:
 --   Sections 2–3 — geometric meaning of mixed degree
 -- statement:
---   **Compiled open theorem statement; proof not yet supplied.** Checked locally with Lean 4.33.1 and the proposal’s pinned Mathlib. An independent blind readback is attached.
+--   For an irreducible locally closed subvariety $V$ of a product of projective spaces and an admissible mixed index $\alpha$ of total degree $\dim V$, the normalized mixed Hilbert coefficient is the maximum cardinality of a finite intersection with linear subspaces of codimensions $\alpha_i$.
 --
---   For an irreducible locally closed subvariety and an admissible mixed index, the actual mixed Hilbert coefficient is the maximum number of points in a finite intersection with linear subspaces of the specified codimensions.
+--   An accepted proof-sketch establishes the finite-set Hilbert polynomial by homogeneous interpolation and reduces the locally closed case to two geometric inputs: the [isolated-section degree bound](p2m:theorem/e89193b3-ac48-4227-b11f-598b761ffed3) and a [general section avoiding the closed boundary](p2m:theorem/db460d95-700e-4a5c-8c39-f5a6261c5849). Both inputs remain Open. The reduction permits positive-dimensional components of a special section on the boundary and proves the finite-point cardinality conversion, including the empty set.
+--
+--   Source: [Philippon (1986), pp. 359 and 364](https://numdam.org/articles/10.24033/bsmf.2060/). The formal statement and mixed-coefficient normalization are unchanged.
 -- source:
 --   1986, pp.359,364. https://numdam.org/articles/10.24033/bsmf.2060/
 

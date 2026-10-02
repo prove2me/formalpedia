@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Calibration_theorem_3_17_asymptotic_calibration_of_risks
 -- name    : SupportVectorMachines.Calibration.theorem_3_17_asymptotic_calibration_of_risks
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:31:46.769222+00:00
 -- url     : https://prove2.me/theorems/1c5daa33-6ae7-44d7-b20e-c7f9db5e7f51

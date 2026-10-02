@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleDiffAlg_liouvilleForm_descent_logarithmic
 -- name    : LiouvilleDiffAlg.liouvilleForm_descent_logarithmic
--- status  : Open
+-- status  : Proved
 -- author  : @vebis
 -- created : 2026-10-01T10:25:48.432995+00:00
 -- url     : https://prove2.me/theorems/2895dcc6-6edb-4676-bf30-06dc4bf0375e

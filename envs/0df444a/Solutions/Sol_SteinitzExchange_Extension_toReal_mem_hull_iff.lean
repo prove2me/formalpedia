@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SteinitzExchange.Extension.toReal_mem_hull_iff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @choi
 -- created : 2026-10-01T03:47:03.157996+00:00
 -- url     : https://prove2.me/submissions/65a455ec-9867-48e5-b5dc-449d6eb1d9fc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SteinitzExchange_Extension_IntegralBaseSet

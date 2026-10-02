@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for LiouvilleDiffAlg.liouville_basic_theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @vebis
 -- created : 2026-10-01T10:26:23.016816+00:00
 -- url     : https://prove2.me/submissions/809ae3c0-2c20-40c6-b81e-9cbae47042fe
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_LiouvilleDiffAlg_Basic

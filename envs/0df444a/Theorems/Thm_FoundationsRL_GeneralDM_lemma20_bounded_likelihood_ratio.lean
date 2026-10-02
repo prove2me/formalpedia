@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_GeneralDM_lemma20_bounded_likelihood_ratio
 -- name    : FoundationsRL.GeneralDM.lemma20_bounded_likelihood_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:24:14.897863+00:00
 -- url     : https://prove2.me/theorems/14807859-79bf-43a1-8552-83dc35a167d4

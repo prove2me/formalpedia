@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_LexSort_refine_increases_sum
 -- name    : PaigeTarjan.LexSort.refine_increases_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:43:40.665059+00:00
 -- url     : https://prove2.me/theorems/01b2be6c-50b4-4c5c-aa67-c2468c2bc70d

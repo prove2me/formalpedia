@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_SVM_rademacher_complexity_bounded_linear_hypotheses
 -- name    : FoundationsML.SVM.rademacher_complexity_bounded_linear_hypotheses
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:31:10.632229+00:00
 -- url     : https://prove2.me/theorems/2860fc2b-a753-42de-94cc-05d70dd7edd5

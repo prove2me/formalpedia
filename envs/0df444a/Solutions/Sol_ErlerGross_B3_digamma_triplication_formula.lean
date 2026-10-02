@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ErlerGross.B3_digamma_triplication_formula
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T16:30:21.71787+00:00
 -- url     : https://prove2.me/submissions/0d8a84b8-1391-4aa9-a50f-b3cb666ebd66
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ErlerGross_digamma_multiplication_formula

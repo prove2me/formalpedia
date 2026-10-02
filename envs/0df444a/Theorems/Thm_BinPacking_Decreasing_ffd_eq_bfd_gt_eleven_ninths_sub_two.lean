@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_Decreasing_ffd_eq_bfd_gt_eleven_ninths_sub_two
 -- name    : BinPacking.Decreasing.ffd_eq_bfd_gt_eleven_ninths_sub_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:17:57.904813+00:00
 -- url     : https://prove2.me/theorems/db2494d8-2a57-4f1c-8c0b-5a127b96092a

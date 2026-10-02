@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_disc_cover_proper_and_local_exists
 -- name    : MilnorDynamics.disc_cover_proper_and_local_exists
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-30T22:56:47.287636+00:00
 -- url     : https://prove2.me/theorems/3efd79e3-513f-47b9-802e-7c041c78a7b6

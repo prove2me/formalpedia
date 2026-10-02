@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_ModelSelection_convex_surrogate_bound
 -- name    : FoundationsML.ModelSelection.convex_surrogate_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:24:56.423991+00:00
 -- url     : https://prove2.me/theorems/40f4a36e-6332-4973-88e4-252d8c9b4832

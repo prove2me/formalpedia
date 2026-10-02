@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiconvexProg_Boundary_nonvertex_solution_example
 -- name    : BiconvexProg.Boundary.nonvertex_solution_example
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T17:49:43.364981+00:00
 -- url     : https://prove2.me/theorems/4fb79572-fa95-4fbc-bbb1-4794711c22ac

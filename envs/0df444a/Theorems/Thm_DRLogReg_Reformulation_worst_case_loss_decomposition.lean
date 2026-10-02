@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_Reformulation_worst_case_loss_decomposition
 -- name    : DRLogReg.Reformulation.worst_case_loss_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:35:31.285217+00:00
 -- url     : https://prove2.me/theorems/2c25eb76-3cf9-4f8b-9297-abc868133fa7

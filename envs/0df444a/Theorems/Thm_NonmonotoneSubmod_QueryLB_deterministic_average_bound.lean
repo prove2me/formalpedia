@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneSubmod_QueryLB_deterministic_average_bound
 -- name    : NonmonotoneSubmod.QueryLB.deterministic_average_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:17:34.511384+00:00
 -- url     : https://prove2.me/theorems/dcc79144-11b8-4296-b26f-46316956bf91

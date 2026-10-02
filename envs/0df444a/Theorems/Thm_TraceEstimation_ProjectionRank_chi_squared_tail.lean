@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_ProjectionRank_chi_squared_tail
 -- name    : TraceEstimation.ProjectionRank.chi_squared_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:14:18.376487+00:00
 -- url     : https://prove2.me/theorems/6f826c38-20d6-4255-8825-fe5eb772cea4

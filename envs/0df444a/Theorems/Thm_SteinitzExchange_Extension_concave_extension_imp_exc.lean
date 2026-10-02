@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Extension_concave_extension_imp_exc
 -- name    : SteinitzExchange.Extension.concave_extension_imp_exc
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T16:53:46.416707+00:00
 -- url     : https://prove2.me/theorems/ea5e435e-c0a1-4cca-88c5-fa9fe404e51a

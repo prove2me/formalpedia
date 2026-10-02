@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_translation_invariance
 -- name    : PolyakovAction.translation_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T03:36:40.393988+00:00
 -- url     : https://prove2.me/theorems/ea45dff1-5dde-4fd0-be81-34ba330b2237

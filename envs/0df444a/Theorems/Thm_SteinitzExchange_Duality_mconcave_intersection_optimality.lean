@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_mconcave_intersection_optimality
 -- name    : SteinitzExchange.Duality.mconcave_intersection_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:59:19.504976+00:00
 -- url     : https://prove2.me/theorems/93c38767-157e-4348-81c8-107fd1831ed8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulmuleyVV_Matching_lemma3_edge_criterion
 -- name    : MulmuleyVV.Matching.lemma3_edge_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:37:33.704371+00:00
 -- url     : https://prove2.me/theorems/45952cca-3bf9-41a8-ba1d-b7c578a410fc

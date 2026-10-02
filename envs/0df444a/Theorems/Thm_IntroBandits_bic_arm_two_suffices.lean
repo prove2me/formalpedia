@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroBandits_bic_arm_two_suffices
 -- name    : IntroBandits.bic_arm_two_suffices
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:35:24.896319+00:00
 -- url     : https://prove2.me/theorems/23624dae-00ca-44b6-a5d1-56a27a6337e4

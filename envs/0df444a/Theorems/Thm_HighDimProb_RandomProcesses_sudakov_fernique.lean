@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomProcesses_sudakov_fernique
 -- name    : HighDimProb.RandomProcesses.sudakov_fernique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T22:58:29.350789+00:00
 -- url     : https://prove2.me/theorems/59a8ebbc-11e7-4316-a3bb-2b11fdd76e05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupportVectorMachines_Classification_theorem_6_24_instance_hinge_loss
 -- name    : SupportVectorMachines.Classification.theorem_6_24_instance_hinge_loss
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:10:53.114118+00:00
 -- url     : https://prove2.me/theorems/7afdd7a9-3ea9-428d-82ff-1a43b1ede7e4

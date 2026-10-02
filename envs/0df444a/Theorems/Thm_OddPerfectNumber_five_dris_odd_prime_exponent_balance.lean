@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_five_dris_odd_prime_exponent_balance
 -- name    : OddPerfectNumber.five_dris_odd_prime_exponent_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T09:40:54.575986+00:00
 -- url     : https://prove2.me/theorems/2a40075c-5781-4a52-9a78-d8ae34d6d55b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_QuadraticForms_hanson_wright
 -- name    : HighDimProb.QuadraticForms.hanson_wright
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:30:45.579251+00:00
 -- url     : https://prove2.me/theorems/03b09435-ba2e-4535-a470-309ed8ec161e

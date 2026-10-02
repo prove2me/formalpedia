@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_Characterization_lemma11_onAverage_iff_averageRO
 -- name    : LearnStability.Characterization.lemma11_onAverage_iff_averageRO
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:09:08.886924+00:00
 -- url     : https://prove2.me/theorems/69c34d17-0490-40a2-9c23-462e08b2aad8

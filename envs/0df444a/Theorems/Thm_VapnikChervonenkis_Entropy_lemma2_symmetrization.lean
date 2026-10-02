@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_lemma2_symmetrization
 -- name    : VapnikChervonenkis.Entropy.lemma2_symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:07:22.13199+00:00
 -- url     : https://prove2.me/theorems/da50bf12-7a7c-441d-b1e5-85e28f8cb83c

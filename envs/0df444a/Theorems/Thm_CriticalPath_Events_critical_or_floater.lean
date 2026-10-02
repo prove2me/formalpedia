@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CriticalPath_Events_critical_or_floater
 -- name    : CriticalPath.Events.critical_or_floater
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:27:08.050523+00:00
 -- url     : https://prove2.me/theorems/7df84836-0081-4880-b9d5-4b68643653d0

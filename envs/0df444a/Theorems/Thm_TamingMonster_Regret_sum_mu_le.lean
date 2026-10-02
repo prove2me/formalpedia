@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TamingMonster_Regret_sum_mu_le
 -- name    : TamingMonster.Regret.sum_mu_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T08:56:39.965308+00:00
 -- url     : https://prove2.me/theorems/d3b81ef5-f2e9-44e1-8e84-52764d20a564

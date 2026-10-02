@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignmentGame_CoreLP_dualObj_eq_worth_of_dual_optimal
 -- name    : AssignmentGame.CoreLP.dualObj_eq_worth_of_dual_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:16:27.725278+00:00
 -- url     : https://prove2.me/theorems/baf3d538-d61e-4e8b-95df-fd3efdc579c6

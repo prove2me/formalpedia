@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KerrBlackHoleThermo_surfaceGravity_eq_zero_iff
 -- name    : KerrBlackHoleThermo.surfaceGravity_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T19:48:02.103384+00:00
 -- url     : https://prove2.me/theorems/0e895136-a451-4b51-a3c9-39b9f2ac9d70

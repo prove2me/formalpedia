@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_Duality_pQuantile_set_eq_Icc
 -- name    : DualSSD.Duality.pQuantile_set_eq_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:36:53.231948+00:00
 -- url     : https://prove2.me/theorems/1b953710-b0fd-428e-b6bb-a554a4ade743

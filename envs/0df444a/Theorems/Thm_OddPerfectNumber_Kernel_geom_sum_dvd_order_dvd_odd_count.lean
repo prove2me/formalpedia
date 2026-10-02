@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_geom_sum_dvd_order_dvd_odd_count
 -- name    : OddPerfectNumber.Kernel.geom_sum_dvd_order_dvd_odd_count
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T17:14:58.718871+00:00
 -- url     : https://prove2.me/theorems/e5d78741-2c45-4973-895e-0ffeaeb7169e

@@ -19,7 +19,7 @@
 --
 --   **Novelty.** None: this is the Théorème of Waldschmidt (1973), p. 192, restated as Theorem 7.4.1 of *Nombres transcendants* (1974), Corollary 15.28(c) of *Diophantine Approximation on Linear Algebraic Groups* (2000) and Corollary 1.2(c) of Roy–Waldschmidt (1997). The paper's note added in proof (p. 202) records that W. D. Brownawell found these results independently. The contribution of this node is the formal proof.
 -- source:
---   M. Waldschmidt, Solution du huitième problème de Schneider, J. Number Theory 5 (1973), 191–202, Théorème (p. 192). Found independently by W. D. Brownawell, The algebraic independence of certain numbers related to the exponential function, J. Number Theory 6 (1974), 22–31 (see the paper's note added in proof, p. 202). Formal proof: Diaz modulus mission, 30 September 2026 (C. Perassi).
+--   M. Waldschmidt, Solution du huitième problème de Schneider, J. Number Theory 5 (1973), 191–202, Théorème (p. 192). Found independently by W. D. Brownawell, The algebraic independence of certain numbers related by the exponential function, J. Number Theory 6 (1974), 22–31 (see the paper's note added in proof, p. 202). Formal proof: Diaz modulus mission, 30 September 2026 (C. Perassi).
 
 import Mathlib
 

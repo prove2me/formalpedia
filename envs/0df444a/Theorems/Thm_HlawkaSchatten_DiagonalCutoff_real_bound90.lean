@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff_real_bound90
 -- name    : HlawkaSchatten.DiagonalCutoff.real_bound90
--- status  : Open
+-- status  : Proved
 -- author  : @savarin
 -- created : 2026-09-29T17:25:56.406488+00:00
 -- url     : https://prove2.me/theorems/defde478-09b3-42e1-9ade-97d85dac3c5d

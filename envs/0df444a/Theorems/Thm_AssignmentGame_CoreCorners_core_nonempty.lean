@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssignmentGame_CoreCorners_core_nonempty
 -- name    : AssignmentGame.CoreCorners.core_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:22:24.731646+00:00
 -- url     : https://prove2.me/theorems/20861a62-09ba-46b1-8ae6-02092deafbc3

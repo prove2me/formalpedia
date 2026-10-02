@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_flt5_zw5_pid_ring_extract
 -- name    : flt5_zw5_pid_ring_extract
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-05-13T08:09:23.706307+00:00
 -- url     : https://prove2.me/theorems/88152c36-66d2-4cfa-a3ac-cdf5e0195a38

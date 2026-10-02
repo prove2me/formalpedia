@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_ZeroSumESS_thm21_representation
 -- name    : StochFictPlay.ZeroSumESS.thm21_representation
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-28T09:40:57.690716+00:00
 -- url     : https://prove2.me/theorems/0752bd73-0e4c-4938-a047-78eee89a8a73

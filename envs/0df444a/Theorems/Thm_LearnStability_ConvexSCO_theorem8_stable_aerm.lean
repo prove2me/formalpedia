@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LearnStability_ConvexSCO_theorem8_stable_aerm
 -- name    : LearnStability.ConvexSCO.theorem8_stable_aerm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:16:21.235049+00:00
 -- url     : https://prove2.me/theorems/d5d217db-7554-48fc-8cc9-5d7e690918e4

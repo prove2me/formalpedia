@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_MeanRisk_meanGini_ssd_consistent
 -- name    : DualSSD.MeanRisk.meanGini_ssd_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:07:48.622011+00:00
 -- url     : https://prove2.me/theorems/7ed332a6-0514-4888-af64-ad8844f81ec9

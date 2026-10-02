@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Gaussian_two_tails
 -- name    : TraceEstimation.Gaussian.two_tails
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:29:29.62784+00:00
 -- url     : https://prove2.me/theorems/bc380fdc-498e-44d8-9422-3e056a90eb1e

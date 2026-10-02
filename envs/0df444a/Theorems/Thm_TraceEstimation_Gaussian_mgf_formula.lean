@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_Gaussian_mgf_formula
 -- name    : TraceEstimation.Gaussian.mgf_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:28:14.611927+00:00
 -- url     : https://prove2.me/theorems/32d5ac6e-0148-4907-9f8d-c66794011fa7

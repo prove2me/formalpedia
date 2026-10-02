@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineConvexOpt_FirstOrder_online_gradient_descent_lower_bound
 -- name    : OnlineConvexOpt.FirstOrder.online_gradient_descent_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-18T05:18:41.696382+00:00
 -- url     : https://prove2.me/theorems/438cd41e-0ec3-4f5f-9afc-92a8c82d0426

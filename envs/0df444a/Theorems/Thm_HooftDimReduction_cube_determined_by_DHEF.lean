@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftDimReduction_cube_determined_by_DHEF
 -- name    : HooftDimReduction.cube_determined_by_DHEF
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:18:53.993072+00:00
 -- url     : https://prove2.me/theorems/3cc1d3e1-7416-4373-bbd6-4982c0a1d0a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_alternating_exp_hasSum_cosine_formula
 -- name    : ErlerGross.alternating_exp_hasSum_cosine_formula
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-26T12:45:35.171766+00:00
 -- url     : https://prove2.me/theorems/cc1e5374-9298-472e-bc7d-916cced46892

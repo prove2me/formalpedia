@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChatterjeeSamuelson_UniformEfficiency_total_profit_max_calculus
 -- name    : ChatterjeeSamuelson.UniformEfficiency.total_profit_max_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T10:41:42.062277+00:00
 -- url     : https://prove2.me/theorems/b8aabda7-44cd-4b2f-8506-58252c5fb252

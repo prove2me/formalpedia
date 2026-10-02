@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingRM_DetHeuristic_gallego_bound
 -- name    : PricingRM.DetHeuristic.gallego_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:33:10.151563+00:00
 -- url     : https://prove2.me/theorems/e7a4e382-1e0e-4245-8022-6186080d4a05

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Cyclic_subdiff_cyclically_monotone
 -- name    : RockafellarMaxMono.Cyclic.subdiff_cyclically_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T20:35:57.438934+00:00
 -- url     : https://prove2.me/theorems/b3bc958f-395f-4aa2-aeea-3cbcccd7d63b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_Duality_fenchel_min_max
 -- name    : SteinitzExchange.Duality.fenchel_min_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:59:50.523846+00:00
 -- url     : https://prove2.me/theorems/b77b388e-012b-4c6b-b770-08c37f44fc24

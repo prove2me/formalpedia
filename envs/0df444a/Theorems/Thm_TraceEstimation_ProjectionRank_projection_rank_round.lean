@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_ProjectionRank_projection_rank_round
 -- name    : TraceEstimation.ProjectionRank.projection_rank_round
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:17:51.060999+00:00
 -- url     : https://prove2.me/theorems/65a6da47-ac1c-4663-883b-29e94e487191

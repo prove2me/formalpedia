@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleFieldTheory_marginality_iff
 -- name    : LiouvilleFieldTheory.marginality_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T10:01:59.643666+00:00
 -- url     : https://prove2.me/theorems/24e37c1e-76f5-4335-bc05-39e83322d83f

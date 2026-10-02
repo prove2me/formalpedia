@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TraceEstimation_ProjectionRank_estimator_tail
 -- name    : TraceEstimation.ProjectionRank.estimator_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:14:45.105992+00:00
 -- url     : https://prove2.me/theorems/3d390dba-3346-49f4-8b3a-b2ba31fa5691

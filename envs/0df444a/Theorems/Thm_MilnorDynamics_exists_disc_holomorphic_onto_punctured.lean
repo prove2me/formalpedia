@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_exists_disc_holomorphic_onto_punctured
 -- name    : MilnorDynamics.exists_disc_holomorphic_onto_punctured
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T21:40:45.560686+00:00
 -- url     : https://prove2.me/theorems/92d7514b-f00e-4db1-bfc3-1668dff66370

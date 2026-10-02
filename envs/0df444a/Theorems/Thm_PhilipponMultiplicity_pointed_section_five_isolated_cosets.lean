@@ -7,6 +7,17 @@
 -- title:
 --   Pointed Section 5 selection with isolated sampled cosets
 -- statement:
+--   **Statement under review — 1 October 2026.** A candidate counterexample suggests that this auxiliary isolation assertion may be stronger than the source addendum requires. Consider $G=\mathbf G_a^2$, $a=(1,0)$, $\Sigma=\{0,a\}$, $T=0$, and the multihomogenization of $P(x,y)=(y-x)(x-1)(x-2)$. With the standard translation charts, the first two chain zero sets should be
+--   $$
+--   Z_1=\{y=x\}\cup\{x=1\}\cup\{x=2\},\qquad
+--   Z_2=\{x=1\}\cup\{(0,0),(2,3)\}.
+--   $$
+--   The claimed sampled-coset containment and transporter identity would force an irreducible $V$ through $0$ into $Z_2$, hence $V=\{0\}$ and $H=\{0\}$. But $a+H$ lies on the line $x=1$ in both chain loci, obstructing the required isolated-component assertion.
+--
+--   Only the affine two-polynomial zero-set calculation has been checked in Lean. Construction of the exact `SectionFiveInput`, verification of its chart-dependent ideal-chain loci, and the minimal-prime contradiction still need formalization. This is a review warning, not a verified disproof and not a counterexample to Philippon's addendum. The proposed auxiliary statement should be reviewed before further proofs are built on it.
+--
+--   ---
+--
 --   Let $K$ be a Philippon base field, let $G$ be an embedded product of commutative algebraic groups with $n=\dim G>0$, and let $A$ be an analytic subgroup. Fix Section 5 input: a finite set $\Sigma$ containing $0$, a multihomogeneous nonzero polynomial $P$ of multidegree $D$, contact at least $nT+1$ on $\Sigma(n)$, and the bounded translation atlases. Write $I_r$ for the resulting polynomial-operator ideal chain.
 --
 --   There exist an integer $1\le r\le n$, a closed irreducible subset $V\subseteq G$ containing $0$, and a connected algebraic subgroup $H$ whose carrier is the identity component of the translation stabilizer of $V$, such that, with

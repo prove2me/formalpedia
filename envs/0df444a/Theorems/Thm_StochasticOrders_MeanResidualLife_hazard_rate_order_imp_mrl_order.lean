@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MeanResidualLife_hazard_rate_order_imp_mrl_order
 -- name    : StochasticOrders.MeanResidualLife.hazard_rate_order_imp_mrl_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:27:49.985977+00:00
 -- url     : https://prove2.me/theorems/44b90365-fcd9-4343-8267-7e6b938683e5
