@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Horseshoe_horseshoe_topEquiv_shiftZ
 -- name    : TeschlODE.Horseshoe.horseshoe_topEquiv_shiftZ
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:23:26.188378+00:00
 -- url     : https://prove2.me/theorems/4f200058-b3bb-4eab-bed0-22c1568c49e6

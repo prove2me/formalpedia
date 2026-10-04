@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Graph_p3_res11_stronglyNPHard
 -- name    : ResourceScheduling.Graph.p3_res11_stronglyNPHard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:33:26.782978+00:00
 -- url     : https://prove2.me/theorems/1d9b5c26-288b-4388-879d-e134442c5510

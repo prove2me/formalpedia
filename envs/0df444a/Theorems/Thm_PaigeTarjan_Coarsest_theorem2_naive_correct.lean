@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_Coarsest_theorem2_naive_correct
 -- name    : PaigeTarjan.Coarsest.theorem2_naive_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:49:49.126479+00:00
 -- url     : https://prove2.me/theorems/06cc28f0-b020-4f4a-8555-205243723964

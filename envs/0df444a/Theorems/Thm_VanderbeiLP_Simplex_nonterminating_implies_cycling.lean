@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_Simplex_nonterminating_implies_cycling
 -- name    : VanderbeiLP.Simplex.nonterminating_implies_cycling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:55:07.124791+00:00
 -- url     : https://prove2.me/theorems/84b1dd0d-aaa7-4ea1-947b-e195e551e723

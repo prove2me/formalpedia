@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_back_pressure_fluid_equation
 -- name    : ProcessingNetworks.PacketNetworks.back_pressure_fluid_equation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:57:12.262175+00:00
 -- url     : https://prove2.me/theorems/189815b3-ec23-4b2b-aa52-335a9d4fed4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Recurrence_principal
 -- name    : AppliedComb.Recurrence.principal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:17:09.763189+00:00
 -- url     : https://prove2.me/theorems/e4caca93-ef7b-482a-b6df-681ac292d97a

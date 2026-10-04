@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_MetricEntropy_dudley_entropy_integral_bound
 -- name    : HighDimStat.MetricEntropy.dudley_entropy_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:02:55.020976+00:00
 -- url     : https://prove2.me/theorems/be8a535f-72c9-4dc8-a8cb-4021fa0ba17c

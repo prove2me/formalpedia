@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GraphAlg_spanning_forest_edges
 -- name    : AppliedComb.GraphAlg.spanning_forest_edges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:33:46.218283+00:00
 -- url     : https://prove2.me/theorems/2f634336-bf87-4e51-8447-e2e81649f04e

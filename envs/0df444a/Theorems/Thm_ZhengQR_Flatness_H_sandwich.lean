@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_Flatness_H_sandwich
 -- name    : ZhengQR.Flatness.H_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:07:42.521399+00:00
 -- url     : https://prove2.me/theorems/dcb9f88f-aaed-44b2-b208-c78e179838bc

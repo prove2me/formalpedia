@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_three_loop_components
 -- name    : NaculichRegge.three_loop_components
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:03:03.447807+00:00
 -- url     : https://prove2.me/theorems/a756fd14-2b02-4791-b48e-0ec3390cfa6d

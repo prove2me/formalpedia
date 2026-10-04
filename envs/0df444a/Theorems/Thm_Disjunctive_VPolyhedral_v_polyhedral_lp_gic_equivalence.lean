@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_VPolyhedral_v_polyhedral_lp_gic_equivalence
 -- name    : Disjunctive.VPolyhedral.v_polyhedral_lp_gic_equivalence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:07:53.537269+00:00
 -- url     : https://prove2.me/theorems/bb6ba5fa-a20e-48c1-b7e7-1f2f2397e868

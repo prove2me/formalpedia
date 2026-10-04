@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_qexcw_iff_one_sided
 -- name    : DiscreteConvex.MConvexFunctionsE.qexcw_iff_one_sided
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:08:27.499987+00:00
 -- url     : https://prove2.me/theorems/c9b8693a-f340-4e44-8466-9d01c83b4456

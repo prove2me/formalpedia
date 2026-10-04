@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Allocation_allocOpt_correct
 -- name    : ServiceParts.Allocation.allocOpt_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:04:57.131275+00:00
 -- url     : https://prove2.me/theorems/1f01df81-9361-4d6a-8e60-2734aa95138d

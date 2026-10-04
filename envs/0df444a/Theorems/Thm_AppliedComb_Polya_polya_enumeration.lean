@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Polya_polya_enumeration
 -- name    : AppliedComb.Polya.polya_enumeration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:44:39.868757+00:00
 -- url     : https://prove2.me/theorems/fdc92c4b-e5ca-436c-810b-4c792662e4d5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_nonsmooth_penalty_exact
 -- name    : ShorNonsmooth.Decomposition.nonsmooth_penalty_exact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:31:28.899978+00:00
 -- url     : https://prove2.me/theorems/f7db871e-fe22-4ea5-89ff-ba910b0e18fa

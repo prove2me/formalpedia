@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_sum_divisors_sq_eq_prod
 -- name    : OddPerfectNumber.Kernel.sum_divisors_sq_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T02:32:44.033432+00:00
 -- url     : https://prove2.me/theorems/d3e5b799-a846-4e2a-9c5a-fa7e02a66c54

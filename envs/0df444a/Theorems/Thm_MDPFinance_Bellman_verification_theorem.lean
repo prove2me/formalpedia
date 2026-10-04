@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Bellman_verification_theorem
 -- name    : MDPFinance.Bellman.verification_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:15:23.2725+00:00
 -- url     : https://prove2.me/theorems/5283c8f3-d155-4caa-b4a6-b406728ffcf2

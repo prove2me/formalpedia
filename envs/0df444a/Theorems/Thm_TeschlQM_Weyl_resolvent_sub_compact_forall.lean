@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Weyl_resolvent_sub_compact_forall
 -- name    : TeschlQM.Weyl.resolvent_sub_compact_forall
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T23:25:25.144311+00:00
 -- url     : https://prove2.me/theorems/25d849ea-a6e3-46a5-aa6c-02c5ba3d94e1

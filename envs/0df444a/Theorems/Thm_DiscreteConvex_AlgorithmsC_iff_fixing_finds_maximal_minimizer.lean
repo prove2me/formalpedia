@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsC_iff_fixing_finds_maximal_minimizer
 -- name    : DiscreteConvex.AlgorithmsC.iff_fixing_finds_maximal_minimizer
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:42:26.458264+00:00
 -- url     : https://prove2.me/theorems/0d776e3a-bf39-41be-9268-69e6c8624aee

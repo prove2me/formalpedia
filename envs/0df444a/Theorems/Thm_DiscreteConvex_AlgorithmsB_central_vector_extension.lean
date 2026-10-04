@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsB_central_vector_extension
 -- name    : DiscreteConvex.AlgorithmsB.central_vector_extension
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:12:12.802984+00:00
 -- url     : https://prove2.me/theorems/d1d38d0d-886d-4f4b-939b-8b7d3fab8994

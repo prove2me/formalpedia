@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SubgradMethod_dist_sq_step_le
 -- name    : ShorNonsmooth.SubgradMethod.dist_sq_step_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:00:06.632765+00:00
 -- url     : https://prove2.me/theorems/397a7474-fb21-474f-bcf3-3038cebaf9ba

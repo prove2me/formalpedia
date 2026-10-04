@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_CanonicalVector_canH_not_bounded
 -- name    : BookProof.NavierStokesFlow.CanonicalVector.canH_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T06:37:32.838951+00:00
 -- url     : https://prove2.me/theorems/4987d74a-84ac-4982-b897-cbf1fcb0ab6f

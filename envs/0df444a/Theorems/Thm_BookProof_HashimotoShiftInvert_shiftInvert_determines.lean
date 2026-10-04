@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_shiftInvert_determines
 -- name    : BookProof.HashimotoShiftInvert.shiftInvert_determines
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:42:36.079189+00:00
 -- url     : https://prove2.me/theorems/8eaa5e35-9b08-4575-ae41-8f77aaa843f1

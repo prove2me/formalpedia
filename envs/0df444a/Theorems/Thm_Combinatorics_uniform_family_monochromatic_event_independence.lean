@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Combinatorics_uniform_family_monochromatic_event_independence
 -- name    : Combinatorics.uniform_family_monochromatic_event_independence
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-26T20:16:16.513087+00:00
 -- url     : https://prove2.me/theorems/7dc4b8e2-ed2e-4353-805d-61441b290b0c

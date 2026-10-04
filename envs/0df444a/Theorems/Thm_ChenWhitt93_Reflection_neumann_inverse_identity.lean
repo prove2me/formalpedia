@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_Reflection_neumann_inverse_identity
 -- name    : ChenWhitt93.Reflection.neumann_inverse_identity
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T09:38:25.243267+00:00
 -- url     : https://prove2.me/theorems/d30a636c-e784-4efc-8e14-d557aa0b57eb

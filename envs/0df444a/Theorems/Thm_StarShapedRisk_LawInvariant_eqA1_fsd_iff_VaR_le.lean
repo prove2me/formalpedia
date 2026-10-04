@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_LawInvariant_eqA1_fsd_iff_VaR_le
 -- name    : StarShapedRisk.LawInvariant.eqA1_fsd_iff_VaR_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:10:12.224289+00:00
 -- url     : https://prove2.me/theorems/ac241b73-c164-4a2e-ac51-a85e9154e89b

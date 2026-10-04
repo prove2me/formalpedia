@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleFieldTheory_reflectionCoefficient_mul_neg
 -- name    : LiouvilleFieldTheory.reflectionCoefficient_mul_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T10:55:19.033108+00:00
 -- url     : https://prove2.me/theorems/aadd88e7-935f-4017-81c7-bb6c89ea73ca

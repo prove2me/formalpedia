@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Roberts1997_RWM_expect_min_one_exp_gaussian
 -- name    : Roberts1997.RWM.expect_min_one_exp_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:47:55.428906+00:00
 -- url     : https://prove2.me/theorems/99f9eb4b-e81a-4206-bf00-5cdaf96f5918

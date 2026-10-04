@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_KatoRellich_relativelyBounded_tfae
 -- name    : TeschlQM.KatoRellich.relativelyBounded_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T22:17:07.881899+00:00
 -- url     : https://prove2.me/theorems/08bce218-f613-412e-8c02-c13c8b59c66c

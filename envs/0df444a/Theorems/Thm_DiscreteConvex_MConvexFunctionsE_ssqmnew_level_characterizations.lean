@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_ssqmnew_level_characterizations
 -- name    : DiscreteConvex.MConvexFunctionsE.ssqmnew_level_characterizations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:11:43.113981+00:00
 -- url     : https://prove2.me/theorems/e7224bcd-f7bf-46f8-b2c7-deac83bbadd9

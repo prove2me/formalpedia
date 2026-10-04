@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_coP_eq_P
 -- name    : CookPvsNP.coP_eq_P
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T13:48:14.247753+00:00
 -- url     : https://prove2.me/theorems/829f0972-1c0c-4443-8f42-28a837892038

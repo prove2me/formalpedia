@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_MonoidalStrengthening_monoidal_strengthening_disjunctive_cut
 -- name    : Disjunctive.MonoidalStrengthening.monoidal_strengthening_disjunctive_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:02:41.471731+00:00
 -- url     : https://prove2.me/theorems/5d2a8aed-f928-4e75-9480-0d515aecc5ca

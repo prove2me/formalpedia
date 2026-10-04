@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_two_prime_index_not_three_mod_twelve
 -- name    : OddPerfectNumber.Kernel.five_two_prime_index_not_three_mod_twelve
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T20:05:09.731256+00:00
 -- url     : https://prove2.me/theorems/9a31814b-dd61-4d29-a9b8-1f45c09ac24e

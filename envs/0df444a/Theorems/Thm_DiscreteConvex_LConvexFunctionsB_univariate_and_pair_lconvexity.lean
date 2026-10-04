@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsB_univariate_and_pair_lconvexity
 -- name    : DiscreteConvex.LConvexFunctionsB.univariate_and_pair_lconvexity
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:25:29.510468+00:00
 -- url     : https://prove2.me/theorems/17fb8682-6e02-4060-9c09-44a988d313a6

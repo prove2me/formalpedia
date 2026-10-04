@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_StrictComp_separation_polyhedra
 -- name    : VanderbeiLP.StrictComp.separation_polyhedra
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T17:50:10.079113+00:00
 -- url     : https://prove2.me/theorems/58230981-1380-4452-bd28-60f85366e690

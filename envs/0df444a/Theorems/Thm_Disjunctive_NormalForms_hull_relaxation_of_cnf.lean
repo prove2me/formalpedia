@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_NormalForms_hull_relaxation_of_cnf
 -- name    : Disjunctive.NormalForms.hull_relaxation_of_cnf
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:28:41.511187+00:00
 -- url     : https://prove2.me/theorems/c86b2bdd-052a-432c-9b01-f4b35e79e06d

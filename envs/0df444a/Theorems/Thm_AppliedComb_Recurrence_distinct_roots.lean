@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Recurrence_distinct_roots
 -- name    : AppliedComb.Recurrence.distinct_roots
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:16:02.879823+00:00
 -- url     : https://prove2.me/theorems/49b3ef04-94fd-4481-9d76-a30be214ffcf

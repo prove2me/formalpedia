@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_krasovskii_lasalle
 -- name    : TeschlODE.Stability.krasovskii_lasalle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T14:15:46.286217+00:00
 -- url     : https://prove2.me/theorems/2f49f6dd-a5d9-429f-b41a-148c78da7475

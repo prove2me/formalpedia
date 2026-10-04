@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_step_value
 -- name    : Soar.step_value
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T19:01:40.131984+00:00
 -- url     : https://prove2.me/theorems/bebcc985-6069-443f-ab1a-c1123804f860

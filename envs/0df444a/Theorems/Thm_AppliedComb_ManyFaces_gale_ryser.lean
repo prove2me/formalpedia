@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_ManyFaces_gale_ryser
 -- name    : AppliedComb.ManyFaces.gale_ryser
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:52:47.464969+00:00
 -- url     : https://prove2.me/theorems/703ad6b8-fae7-4e5d-b7a3-b9a326e5c18d

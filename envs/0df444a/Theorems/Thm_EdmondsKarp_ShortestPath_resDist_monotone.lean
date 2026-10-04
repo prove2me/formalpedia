@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_resDist_monotone
 -- name    : EdmondsKarp.ShortestPath.resDist_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:14:24.794123+00:00
 -- url     : https://prove2.me/theorems/8d9dee16-f285-439b-8312-c0732709db6b

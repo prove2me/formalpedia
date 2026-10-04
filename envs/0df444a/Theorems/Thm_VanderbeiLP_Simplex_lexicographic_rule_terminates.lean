@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_Simplex_lexicographic_rule_terminates
 -- name    : VanderbeiLP.Simplex.lexicographic_rule_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T17:01:03.81053+00:00
 -- url     : https://prove2.me/theorems/5c5fe0c4-8428-4fef-a054-627a5071f988

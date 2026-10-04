@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_shared_convex_combination
 -- name    : DiscreteConvex.MConvexFunctionsC.shared_convex_combination
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:39:12.491305+00:00
 -- url     : https://prove2.me/theorems/b2fed403-32d0-4815-a1b0-f5f3d0ac0b1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_CombinatorialC_prop_2_25_series_circuit_merge
 -- name    : DiscreteConvex.CombinatorialC.prop_2_25_series_circuit_merge
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:12.605688+00:00
 -- url     : https://prove2.me/theorems/880cc83c-1360-4ece-bd26-2f6c6b87a625

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polymatroids_pi_projection_characterization
 -- name    : Disjunctive.Polymatroids.pi_projection_characterization
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:13:26.538183+00:00
 -- url     : https://prove2.me/theorems/74c25c7f-72d1-4a55-8ad6-9eb8c3378c9b

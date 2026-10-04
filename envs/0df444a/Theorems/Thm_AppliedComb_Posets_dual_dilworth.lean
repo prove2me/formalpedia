@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Posets_dual_dilworth
 -- name    : AppliedComb.Posets.dual_dilworth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:06:06.06345+00:00
 -- url     : https://prove2.me/theorems/193f7294-2b0d-4af6-baf5-6809f0c9d71a

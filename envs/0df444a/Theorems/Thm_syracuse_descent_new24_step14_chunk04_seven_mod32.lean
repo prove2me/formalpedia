@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_descent_new24_step14_chunk04_seven_mod32
 -- name    : syracuse_descent_new24_step14_chunk04_seven_mod32
--- status  : Open
+-- status  : Proved
 -- author  : @Sneed
 -- created : 2026-10-01T08:03:18.451812+00:00
 -- url     : https://prove2.me/theorems/f70a410a-b4f5-4057-b2b5-d4e42b0c49c3

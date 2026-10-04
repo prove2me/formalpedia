@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_eq_2_55_2_56_simple_recourse_sandwich
 -- name    : NumStochOpt.Bounds.eq_2_55_2_56_simple_recourse_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:24:14.092838+00:00
 -- url     : https://prove2.me/theorems/31bcde07-8363-4f59-8ba0-d4f7861dd5af

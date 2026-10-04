@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_natDegree_F
 -- name    : Apery.natDegree_F
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T10:52:42.361616+00:00
 -- url     : https://prove2.me/theorems/7fa90752-fa30-462c-b684-00d97de6c115

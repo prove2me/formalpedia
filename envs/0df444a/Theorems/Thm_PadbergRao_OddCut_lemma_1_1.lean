@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PadbergRao_OddCut_lemma_1_1
 -- name    : PadbergRao.OddCut.lemma_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T22:59:48.855192+00:00
 -- url     : https://prove2.me/theorems/81c0bd64-517e-4f1a-b462-2d77dfc9e805

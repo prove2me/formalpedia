@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RaritaSchwinger_massless_gauge_invariance
 -- name    : RaritaSchwinger.massless_gauge_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T11:15:20.12443+00:00
 -- url     : https://prove2.me/theorems/26e8bf97-41e4-4ec1-8a22-a6dc86470bc8

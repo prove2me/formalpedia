@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_SturmLiouville_compact_symmetric_exists_eigenvalue
 -- name    : TeschlODE.SturmLiouville.compact_symmetric_exists_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T11:25:28.317989+00:00
 -- url     : https://prove2.me/theorems/3c3ab26d-bd76-45ea-adc0-4b9d5017291b

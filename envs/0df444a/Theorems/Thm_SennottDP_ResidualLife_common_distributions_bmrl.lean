@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ResidualLife_common_distributions_bmrl
 -- name    : SennottDP.ResidualLife.common_distributions_bmrl
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:36:03.91481+00:00
 -- url     : https://prove2.me/theorems/7d6160bc-b466-42b4-a22a-40085d8e68ee

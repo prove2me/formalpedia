@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GenFun_newton_binomial
 -- name    : AppliedComb.GenFun.newton_binomial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:12:45.669784+00:00
 -- url     : https://prove2.me/theorems/f510a99d-9ff6-4c3b-9f0a-43deb2c98186

@@ -1,12 +1,14 @@
 -- Prove2me | Theorems.Thm_BrinSquier_metabelian_or_freeAbelian_infinite
 -- name    : BrinSquier.metabelian_or_freeAbelian_infinite
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-13T08:43:47.673381+00:00
 -- url     : https://prove2.me/theorems/2d63b2ec-a3dd-4532-8770-b7998f55a338
 -- title:
---   (3.3) A subgroup of PLF(ℝ) is metabelian or contains a free abelian subgroup of infinite rank
+--   Superseded: (3.3) without the commutation clause — see BrinSquier.metabelian_or_freeAbelianBasis_infinite
 -- statement:
+--   **Superseded** by [`BrinSquier.metabelian_or_freeAbelianBasis_infinite`](https://prove2.me/theorems/c95db421-65f7-4961-9f49-4c951d781c88), the Brin–Squier mission's (3.3) milestone. This earlier statement omits the clause that the elements $x_m$ commute pairwise. Its second alternative therefore gives only an integer-indexed family in $G$ such that no product $x_{m_1}^{n_1} x_{m_2}^{n_2} \cdots x_{m_k}^{n_k}$ over distinct indices, in the order listed, equals the identity unless every $n_i$ is $0$; free generators of a non-abelian free group also satisfy this. It does not by itself give a free abelian subgroup, and it follows at once from the milestone by dropping the commutation clause. The text below was written for the full statement.
+--
 --   Brin-Squier's Corollary (3.3) with its **full** conclusion. For any subgroup $G$ of $\mathrm{PLF}(\mathbb{R})$ — no condition on the slopes at the ends — either the derived subgroup $\lbrack G, G \rbrack$ is abelian, so $G$ is metabelian, or $G$ contains a free abelian subgroup of **infinite rank**.
 --
 --   The proof is the source's one line, *apply (3.2) to the commutator subgroup*, with the infinite-rank form of (3.2). The step that makes it work is that the derived subgroup satisfies the slope-one hypothesis even though $G$ need not: a commutator has slope one at both ends by (2.14a), and the slope-one maps form a subgroup, so every element of $\lbrack G, G \rbrack$ qualifies.

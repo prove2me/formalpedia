@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_constant_on_omegaLimitSet
 -- name    : TeschlODE.Stability.constant_on_omegaLimitSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T13:45:27.77012+00:00
 -- url     : https://prove2.me/theorems/087d9e7e-c188-4fe2-9889-dc4877637d29

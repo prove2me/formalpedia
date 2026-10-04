@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Inequalities_thm3_claim2_empty_interior
 -- name    : MaxLatticeFree.Inequalities.thm3_claim2_empty_interior
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:14:15.380603+00:00
 -- url     : https://prove2.me/theorems/608d75c1-f9c2-4f98-9b4e-e07e8539e459

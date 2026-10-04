@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_half_integral_bound
 -- name    : HunterPDE.Sobolev.half_integral_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T06:38:25.555515+00:00
 -- url     : https://prove2.me/theorems/bdd14d6e-3685-447d-93d1-1cfdd900c8e7

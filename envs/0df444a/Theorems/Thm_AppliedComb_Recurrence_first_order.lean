@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Recurrence_first_order
 -- name    : AppliedComb.Recurrence.first_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:14:47.784438+00:00
 -- url     : https://prove2.me/theorems/c3608f60-aaf3-4492-928b-418ab2f949e6

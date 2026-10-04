@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_ListScheduling_lemma_8_1_i_max_over_sqrt_ae
 -- name    : NumStochOpt.ListScheduling.lemma_8_1_i_max_over_sqrt_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:03:02.574041+00:00
 -- url     : https://prove2.me/theorems/e5297738-a819-45a7-85b8-85b0b65fb32e

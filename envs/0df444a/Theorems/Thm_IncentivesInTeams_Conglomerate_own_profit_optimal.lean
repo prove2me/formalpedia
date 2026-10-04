@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentivesInTeams_Conglomerate_own_profit_optimal
 -- name    : IncentivesInTeams.Conglomerate.own_profit_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:25:17.042985+00:00
 -- url     : https://prove2.me/theorems/54d9b228-21c0-4350-8646-234ff0f9023a

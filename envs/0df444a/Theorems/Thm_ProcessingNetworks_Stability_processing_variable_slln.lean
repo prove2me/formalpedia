@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_Stability_processing_variable_slln
 -- name    : ProcessingNetworks.Stability.processing_variable_slln
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:19:27.654634+00:00
 -- url     : https://prove2.me/theorems/d49936a0-2a32-4528-828d-0e54ca8c9559

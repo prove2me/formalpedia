@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_mconvex_operations
 -- name    : DiscreteConvex.MConvexFunctionsB.mconvex_operations
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:10:29.673746+00:00
 -- url     : https://prove2.me/theorems/1dfb71d5-68ad-44eb-b074-afd632b5d6bf

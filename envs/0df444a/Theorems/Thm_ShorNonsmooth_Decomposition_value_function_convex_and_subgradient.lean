@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_value_function_convex_and_subgradient
 -- name    : ShorNonsmooth.Decomposition.value_function_convex_and_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:38:09.375492+00:00
 -- url     : https://prove2.me/theorems/6b0ef914-dd72-4384-8b37-6644c5a35645

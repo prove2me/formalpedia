@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_undominated_iff_mem_uPlus
 -- name    : TheoryOfGames.SimpleGames.undominated_iff_mem_uPlus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:06:16.111727+00:00
 -- url     : https://prove2.me/theorems/f5acaa1c-1380-4c49-a41c-98b2f58e63bf

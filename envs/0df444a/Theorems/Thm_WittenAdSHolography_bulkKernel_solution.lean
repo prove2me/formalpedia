@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WittenAdSHolography_bulkKernel_solution
 -- name    : WittenAdSHolography.bulkKernel_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:27:49.664304+00:00
 -- url     : https://prove2.me/theorems/5c96f61e-2adc-4f63-b5ca-b9635712a6d6

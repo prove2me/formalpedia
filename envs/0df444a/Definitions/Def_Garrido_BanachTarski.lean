@@ -11,30 +11,36 @@
 --
 --   **Sphere $n$.** The unit sphere $S^n = \{x \in \mathbb{R}^{n+1} : \|x\| = 1\}$, where
 --   $\mathbb{R}^{n+1}$ is Euclidean space on the coordinates $0, \dots, n$. So `Sphere 2` is the
---   $2$-sphere $S^2 \subseteq \mathbb{R}^3$.
+--   $2$-sphere $S^2 \subseteq \mathbb{R}^3$. The source names “the $n$-sphere $\mathbb{S}^n$” (p. 3,
+--   Corollary 1.9) without a defining sentence.
 --
 --   **The action of $SO(n+1,\mathbb{R})$ on $S^n$.** The rotation group is Mathlib's
 --   `Matrix.specialOrthogonalGroup (Fin (n + 1)) ℝ`: the real $(n+1) \times (n+1)$ matrices $A$
 --   with $A^{\mathsf T} A = 1$ and $\det A = 1$. It acts on $S^n$ by matrix-vector multiplication,
 --   $A \cdot x = Ax$; the definition includes the proof that an orthogonal matrix preserves the
---   Euclidean norm, so $Ax$ stays on the sphere.
+--   Euclidean norm, so $Ax$ stays on the sphere. The source names $SO(3,\mathbb{R})$ (p. 2,
+--   Proposition 1.6) and $SO(n+1,\mathbb{R})$ (p. 3, Corollary 1.9) without defining them or their
+--   action.
 --
---   **EuclideanGroup $n$.** The group $E(n)$ of all isometries of $\mathbb{R}^n$ (bijections
---   preserving Euclidean distance), with composition as multiplication, acting on $\mathbb{R}^n$ by
---   evaluation, $f \cdot x = f(x)$. It contains the translations and the orthogonal maps, as the
---   source's "the group of isometries of $\mathbb{R}^3$" (p. 3) does.
+--   **EuclideanGroup $n$.** p. 3, Corollary 1.10: “Let $E(3)$ denote the group of isometries of
+--   $\mathbb{R}^3$.” `EuclideanGroup n` is the group $E(n)$ of all isometries of $\mathbb{R}^n$
+--   (bijections preserving Euclidean distance), with composition as multiplication, acting on
+--   $\mathbb{R}^n$ by evaluation, $f \cdot x = f(x)$. It contains the translations and the orthogonal
+--   maps, as the source's $E(3)$ does.
 --
---   **ActsFreely $G$ $X$.** A group $G$ acts freely on $X$ when the only element of $G$ fixing
---   some point of $X$ is the identity: $g \cdot x = x$ implies $g = 1$. The source uses the phrase
+--   **ActsFreely $G$ $X$.** $G$ acts freely on $X$ when the only element of $G$ fixing
+--   some point of $X$ is the identity: $g \cdot x = x$ implies $g = 1$ (stated for any monoid $G$ with a scalar operation on $X$; every use supplies a group action). The source uses the phrase
 --   (Proposition 1.5) without defining it; this is its standard meaning.
 --
---   **rho, sigma.** The two rotations of Proposition 1.6, with $\tfrac{2\sqrt{2}}{3}$ written out:
+--   **rho, sigma.** p. 2, proof of Proposition 1.6: “The rotations $\rho$ and $\sigma$ given by the
+--   matrices below generate a copy of $F_2$ (for more details, see Theorem 2.1 of [14]):”
 --
 --   $$\rho = \begin{pmatrix} 1/3 & -2\sqrt{2}/3 & 0 \\ 2\sqrt{2}/3 & 1/3 & 0 \\ 0 & 0 & 1 \end{pmatrix}, \qquad
 --   \sigma = \begin{pmatrix} 1 & 0 & 0 \\ 0 & 1/3 & -2\sqrt{2}/3 \\ 0 & 2\sqrt{2}/3 & 1/3 \end{pmatrix},$$
 --
 --   rotations by $\arccos(1/3)$ about the third and first coordinate axes. Each is given as an
---   element of $SO(3,\mathbb{R})$, with the proof that it is orthogonal of determinant one.
+--   element of $SO(3,\mathbb{R})$, with $\tfrac{2\sqrt{2}}{3}$ written out and with the proof that it
+--   is orthogonal of determinant one.
 -- source:
 --   A. Garrido, "An introduction to amenable groups", lecture notes, Oxford Advanced Class in Algebra, Michaelmas 2013 (PDF, Feb 2015), p. 2-3, Propositions 1.5 and 1.6, Theorem 1.7, Corollaries 1.9 and 1.10; https://web.archive.org/web/20260805000803/https://www.math.uni-duesseldorf.de/~garrido/amenable.pdf
 

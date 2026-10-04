@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_exists_cConcave_support_subset_cSubdifferential
 -- name    : MongeKantorovichYao.exists_cConcave_support_subset_cSubdifferential
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T20:15:57.055626+00:00
 -- url     : https://prove2.me/theorems/8d447573-af0f-4d7b-8494-8bc7c4a3fdbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_CR_eqOn_of_eqOn_diagonal
 -- name    : LeblSCV.CR.eqOn_of_eqOn_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:42:58.420562+00:00
 -- url     : https://prove2.me/theorems/abf5a8e6-7c5c-4a42-9d72-1fb99c0d7691

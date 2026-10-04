@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_schedule_hull
 -- name    : ProcessingNetworks.PacketNetworks.schedule_hull
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:48:46.767354+00:00
 -- url     : https://prove2.me/theorems/6d45173d-2291-47e2-9fc0-41c079216474

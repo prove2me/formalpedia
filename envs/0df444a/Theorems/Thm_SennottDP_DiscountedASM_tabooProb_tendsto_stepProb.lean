@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_tabooProb_tendsto_stepProb
 -- name    : SennottDP.DiscountedASM.tabooProb_tendsto_stepProb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:39:48.253217+00:00
 -- url     : https://prove2.me/theorems/3db2a627-8692-4b6a-ab0c-815ff02607ab

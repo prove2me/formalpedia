@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_Flatness_H_strictMono_convex_slope
 -- name    : ZhengQR.Flatness.H_strictMono_convex_slope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:05:36.118808+00:00
 -- url     : https://prove2.me/theorems/ffd5c008-1542-4a48-a455-8973c7c38236

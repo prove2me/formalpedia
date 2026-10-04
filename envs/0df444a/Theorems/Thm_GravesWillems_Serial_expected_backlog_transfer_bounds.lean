@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesWillems_Serial_expected_backlog_transfer_bounds
 -- name    : GravesWillems.Serial.expected_backlog_transfer_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:19:42.267988+00:00
 -- url     : https://prove2.me/theorems/ff79220d-729a-478d-9a7c-ba11ad1d91ae

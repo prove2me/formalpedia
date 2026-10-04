@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Minimax_good_iff_support
 -- name    : TheoryOfGames.Minimax.good_iff_support
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:30:50.199987+00:00
 -- url     : https://prove2.me/theorems/1f5f4bed-0e45-4fa7-becc-7ecfba0f1c35

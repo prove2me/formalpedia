@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsC_conjugate_scaling_preserves_mconvex
 -- name    : DiscreteConvex.AlgorithmsC.conjugate_scaling_preserves_mconvex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:45:40.762661+00:00
 -- url     : https://prove2.me/theorems/e4b7fc91-5169-49ab-b97e-7d78ec37f548

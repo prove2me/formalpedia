@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_RayCGLP_cglpy_finite_min_iff_on_ray
 -- name    : Disjunctive.RayCGLP.cglpy_finite_min_iff_on_ray
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:56:13.32238+00:00
 -- url     : https://prove2.me/theorems/05466a13-4dae-4bb2-af5d-d313adaf510f

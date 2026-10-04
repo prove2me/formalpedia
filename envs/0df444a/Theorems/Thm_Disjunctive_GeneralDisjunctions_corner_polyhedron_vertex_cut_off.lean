@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_GeneralDisjunctions_corner_polyhedron_vertex_cut_off
 -- name    : Disjunctive.GeneralDisjunctions.corner_polyhedron_vertex_cut_off
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:00:02.793108+00:00
 -- url     : https://prove2.me/theorems/3b1d52b3-e2ce-4807-93b1-856a56570338

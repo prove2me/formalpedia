@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_dc_iff_tendsto_and_limit_point_optimal
 -- name    : SennottDP.DiscountedASM.dc_iff_tendsto_and_limit_point_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:00:11.452347+00:00
 -- url     : https://prove2.me/theorems/0c0874f1-9abb-45b4-bb61-8e0e28865059

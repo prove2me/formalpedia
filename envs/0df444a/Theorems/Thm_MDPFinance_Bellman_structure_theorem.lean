@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Bellman_structure_theorem
 -- name    : MDPFinance.Bellman.structure_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:16:42.641004+00:00
 -- url     : https://prove2.me/theorems/51d43a09-ba69-435e-939c-c11b042fa7d8

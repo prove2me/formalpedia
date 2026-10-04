@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_repair_count_geometric
 -- name    : ServiceParts.Shortfall.repair_count_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:44:16.795108+00:00
 -- url     : https://prove2.me/theorems/293b4f79-0c1e-4164-97e3-f103c6c5b823

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_weights_wstar_iff
 -- name    : TheoryOfGames.SimpleGames.weights_wstar_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:02:17.22765+00:00
 -- url     : https://prove2.me/theorems/cb7b9bca-bcfa-4080-b6d2-bbff980f1f9c

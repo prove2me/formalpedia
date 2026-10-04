@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_selfAdjoint_of_range_eq_top
 -- name    : TeschlQM.SelfAdjoint.selfAdjoint_of_range_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:21:04.921482+00:00
 -- url     : https://prove2.me/theorems/f6abd976-7f20-4b27-92e2-8f3f6818209c

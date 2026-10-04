@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_Subcriticality_unitary_network_subcritical_iff_standard_load_condition
 -- name    : ProcessingNetworks.Subcriticality.unitary_network_subcritical_iff_standard_load_condition
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:28:05.25711+00:00
 -- url     : https://prove2.me/theorems/867712ff-930b-4983-9bdf-2f59464e461a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_stack_column_laws
 -- name    : CookPvsNP.stack_column_laws
--- status  : Open
+-- status  : Proved
 -- author  : @arexychen
 -- created : 2026-10-02T11:01:33.243985+00:00
 -- url     : https://prove2.me/theorems/616dcab4-566f-4102-8c67-d7506c1ca37d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_isClosed_tfae_cayley
 -- name    : TeschlQM.SelfAdjoint.isClosed_tfae_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:23:18.128524+00:00
 -- url     : https://prove2.me/theorems/69a965ed-793d-4731-90b8-d5892b7ee338

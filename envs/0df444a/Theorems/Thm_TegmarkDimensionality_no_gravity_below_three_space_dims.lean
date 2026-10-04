@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_no_gravity_below_three_space_dims
 -- name    : TegmarkDimensionality.no_gravity_below_three_space_dims
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T03:30:24.363502+00:00
 -- url     : https://prove2.me/theorems/1a10b307-5959-4b93-a4b1-8461c8616484

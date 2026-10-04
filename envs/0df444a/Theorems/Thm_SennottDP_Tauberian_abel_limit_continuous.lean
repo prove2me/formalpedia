@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_abel_limit_continuous
 -- name    : SennottDP.Tauberian.abel_limit_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:22:19.378999+00:00
 -- url     : https://prove2.me/theorems/bcb9e90d-83e0-4dda-bb61-73d0933fe7e9

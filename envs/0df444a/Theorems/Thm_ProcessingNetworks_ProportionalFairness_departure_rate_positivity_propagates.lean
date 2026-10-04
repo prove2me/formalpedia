@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_departure_rate_positivity_propagates
 -- name    : ProcessingNetworks.ProportionalFairness.departure_rate_positivity_propagates
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:35:03.1902+00:00
 -- url     : https://prove2.me/theorems/fd6f809a-156f-4d0e-bb10-822e1ca98489

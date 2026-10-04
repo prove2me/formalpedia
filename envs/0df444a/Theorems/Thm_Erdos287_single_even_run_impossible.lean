@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos287_single_even_run_impossible
 -- name    : Erdos287.single_even_run_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T16:34:45.699867+00:00
 -- url     : https://prove2.me/theorems/ecba8028-304b-4109-920b-4e57ae3d421f

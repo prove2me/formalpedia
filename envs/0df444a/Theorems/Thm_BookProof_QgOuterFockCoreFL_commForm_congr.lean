@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockCoreFL_commForm_congr
 -- name    : BookProof.QgOuterFockCoreFL.commForm_congr
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T10:15:48.457916+00:00
 -- url     : https://prove2.me/theorems/dce8ea84-f488-42b5-a4ad-9861fd61b2d9

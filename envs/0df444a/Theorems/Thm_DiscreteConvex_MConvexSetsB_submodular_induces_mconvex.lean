@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_submodular_induces_mconvex
 -- name    : DiscreteConvex.MConvexSetsB.submodular_induces_mconvex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:31:25.234997+00:00
 -- url     : https://prove2.me/theorems/9252665b-9a51-4eb0-9dbc-e5260ba2275e

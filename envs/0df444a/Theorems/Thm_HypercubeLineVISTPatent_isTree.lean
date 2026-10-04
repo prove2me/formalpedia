@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercubeLineVISTPatent_isTree
 -- name    : HypercubeLineVISTPatent_isTree
--- status  : Open
+-- status  : Proved
 -- author  : @undercat
 -- created : 2026-09-27T15:35:29.410901+00:00
 -- url     : https://prove2.me/theorems/a50909e0-7f67-4bfd-b65f-51bc19e9e59b

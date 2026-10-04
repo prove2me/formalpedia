@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_dividendValue_add_initial_lump
 -- name    : AvramDividend.Classical.dividendValue_add_initial_lump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T08:37:41.879301+00:00
 -- url     : https://prove2.me/theorems/a0df7aaf-ff51-4f95-a128-a030e600e3b5

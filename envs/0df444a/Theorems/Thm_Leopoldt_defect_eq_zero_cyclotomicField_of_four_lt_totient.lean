@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Leopoldt_defect_eq_zero_cyclotomicField_of_four_lt_totient
 -- name    : Leopoldt.defect_eq_zero_cyclotomicField_of_four_lt_totient
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T02:17:15.771439+00:00
 -- url     : https://prove2.me/theorems/f79d3e92-42f5-4ce2-897b-9c2e770d93c0

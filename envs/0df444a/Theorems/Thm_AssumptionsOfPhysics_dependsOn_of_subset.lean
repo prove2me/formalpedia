@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_dependsOn_of_subset
 -- name    : AssumptionsOfPhysics.dependsOn_of_subset
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T10:05:14.364767+00:00
 -- url     : https://prove2.me/theorems/d9a8f165-7996-4aed-bc97-521e58a4f9ce

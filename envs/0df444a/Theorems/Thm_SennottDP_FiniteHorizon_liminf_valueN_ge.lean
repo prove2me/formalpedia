@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_liminf_valueN_ge
 -- name    : SennottDP.FiniteHorizon.liminf_valueN_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:33:04.606471+00:00
 -- url     : https://prove2.me/theorems/92029d6c-342b-40dc-8551-1fef1069db27

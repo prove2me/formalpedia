@@ -9,31 +9,69 @@
 -- statement:
 --   The rest of section 2's vocabulary: standard dyadic intervals and
 --   partitions, tree diagrams and the element of $F$ a diagram represents, reducedness, the
---   generators $X_n$, the words they form, and the positive elements. Everything in section 2 that
---   mentions $F$ is here; the two standard-dyadic predicates do not mention it, but they belong
---   with the diagrams they qualify. The tree type and the partition its leaves cut out are imported
---   from the companion definition, as is $F$ itself; neither is redefined here.
+--   generators $X_n$, the words they form, the positive elements and the normal-form data. The two
+--   standard-dyadic predicates do not mention $F$, but they belong with the diagrams they qualify;
+--   “negative” elements (p. 224) are not defined here. The tree type and the partition its leaves
+--   cut out are imported from the companion trees definition, and $F$ from the Cannon–Floyd–Parry
+--   definition of section 1; neither is redefined here.
 --
---   **Standard dyadic intervals and partitions.** A *standard dyadic interval* is one of the form
---   $[a/2^n, (a+1)/2^n]$ with $a$ and $n$ nonnegative integers and $a+1 \le 2^n$ (p. 219), stated as
---   a relation between the two endpoints. A *standard dyadic partition* of $[0,1]$ is given by its
+--   **Standard dyadic intervals and partitions.** p. 219: “Define a *standard dyadic interval* in
+--   $[0, 1]$ to be an interval of the form $\bigl[\frac{a}{2^n}, \frac{a+1}{2^n}\bigr]$, where $a$,
+--   $n$ are nonnegative integers with $a \le 2^n - 1$.” It is stated as a relation between the two
+--   endpoints, with the bound written $a + 1 \le 2^n$.
+--
+--   p. 220: “A partition $0 = x_0 < x_1 < x_2 < \cdots < x_n = 1$ of $[0, 1]$ determines intervals
+--   $[x_{i-1}, x_i]$ for $i = 1, \dots, n$ which are called the *intervals of the partition*. A
+--   partition of $[0,1]$ is called a *standard dyadic partition* if and only if the intervals of the
+--   partition are standard dyadic intervals.” A standard dyadic partition is given here by its
 --   increasing list of breakpoints, starting at $0$, ending at $1$, and with every consecutive pair
---   a standard dyadic interval (p. 220). Since a standard dyadic interval has distinct endpoints,
---   that consecutive-pair condition already forces the list to increase.
+--   a standard dyadic interval. Since a standard dyadic interval has distinct endpoints, that
+--   consecutive-pair condition already forces the list to increase.
 --
---   **Tree diagrams.** A *tree diagram* is an ordered pair of trees with the same number of leaves
---   (p. 221); the first is the domain tree, the second the range tree. An element $f$ of $F$ is *the
---   function of* a tree diagram when $f$ is affine on every interval of the partition cut out by the
---   domain tree and carries that partition's breakpoints, in order, to those of the partition cut
---   out by the range tree. Note that membership in $F$ does not by itself make $f$ affine on the
---   intervals of that partition: it provides only *some* finite set of breakpoints off which $f$ is
---   affine, and that set need not sit inside the domain tree's marks. Nothing here asks the slopes
---   to be powers of two; for these maps that is a consequence rather than a hypothesis.
+--   **Tree diagrams.** p. 221: “Formally, a *tree diagram* is an ordered pair $(R, S)$ of
+--   $\mathcal{T}$-trees such that $R$ and $S$ have the same number of leaves.” And p. 221: “The tree
+--   $R$ is called the *domain tree* of the diagram, and $S$ is called the *range tree* of the
+--   diagram.” The $\mathcal{T}$-trees are those of the imported tree type.
 --
---   **Generators.** The source's $X_0 = A$ and $X_n = A^{-(n-1)} B A^{n-1}$ for $n \ge 1$ (p. 217),
---   so that $X_1 = B$; $A$ and $B$ are the two generators already constructed in the imported
---   definition of $F$. An element of $F$ is *positive* when it is a product
---   $X_0^{b_0} X_1^{b_1} \cdots X_n^{b_n}$ with every exponent a nonnegative integer (p. 224).
+--   The element of $F$ a diagram represents has no single defining sentence; it is pieced together
+--   from two passages of p. 221: “Suppose given $f \in F$. Lemma 2.2 shows that there exist standard
+--   dyadic partitions $P$ and $Q$ such that $f$ is linear on the intervals of $P$ and maps them to
+--   the intervals of $Q$. To $f$ is associated the tree diagram $(R, S)$, where $R$ is the
+--   $\mathcal{T}$-tree corresponding to $P$ and $S$ is the $\mathcal{T}$-tree corresponding to $Q$.”
+--   and “Furthermore, if $(R, S)$ is a tree diagram, then it is clear that there exists $f \in F$
+--   such that $f$ is linear on every leaf of $R$ and $f$ maps the leaves of $R$ to the leaves of
+--   $S$.” An element $f$ of $F$ is *the function of* a tree diagram when $f$ is affine on every
+--   interval of the partition cut out by the domain tree and carries that partition's breakpoints,
+--   in order, to those of the partition cut out by the range tree. Note that membership in $F$ does
+--   not by itself make $f$ affine on the intervals of that partition: it provides only *some* finite
+--   set of breakpoints off which $f$ is affine, and that set need not sit inside the domain tree's
+--   marks. Nothing here asks the slopes to be powers of two; for these maps that is a consequence
+--   rather than a hypothesis.
+--
+--   p. 221: “In the other direction, if there exists a positive integer $n$ such that the
+--   $n^{\text{th}}$ and $(n + 1)^{\text{th}}$ leaves of $R$, respectively $S$, are the vertices of a
+--   caret $C$, respectively $D$, then deleting all of $C$ and $D$ but the roots from $R$ and $S$
+--   leads to a new tree diagram for $f$. If there do not exist such carets $C$, $D$ in $R$, $S$, then
+--   the tree diagram $(R, S)$ is said to be *reduced*.” Here a tree diagram is reduced when there is
+--   no position $k$ such that the $k$th and $(k+1)$th leaves are the two children of one vertex both
+--   in the domain tree and in the range tree, leaves being counted from $0$, so that $k$ is the
+--   source's $n - 1$.
+--
+--   **Generators.** p. 217: “Now define functions $X_0, X_1, X_2, \dots$ in $F$ so that $X_0 = A$
+--   and $X_n = A^{-(n-1)} B A^{n-1}$ for $n \ge 1$.” In particular $X_1 = B$; $A$ and $B$ are the two
+--   generators already constructed in the imported definition of $F$.
+--
+--   p. 224: “The functions in $F$ of the form $X_0^{b_0} X_1^{b_1} X_2^{b_2} \cdots X_n^{b_n}$ with
+--   $b_k \ge 0$ for $k = 0, \dots, n$ will be called *positive*.”
+--
+--   p. 224, Corollary-Definition 2.7: “Every nontrivial element of $F$ can be expressed in unique
+--   normal form
+--   $X_0^{b_0} X_1^{b_1} X_2^{b_2} \cdots X_n^{b_n} X_n^{-a_n} \cdots X_2^{-a_2} X_1^{-a_1} X_0^{-a_0}$,
+--   where $n, a_0, \dots, a_n, b_0, \dots, b_n$ are nonnegative integers such that i) exactly one
+--   of $a_n$ and $b_n$ is nonzero and ii) if $a_k > 0$ and $b_k > 0$ for some integer $k$ with
+--   $0 \le k < n$, then $a_{k+1} > 0$ or $b_{k+1} > 0$.” The bundle defines only the conditions on
+--   this exponent data: two nonempty lists $a_0, \dots, a_n$ and $b_0, \dots, b_n$ of nonnegative
+--   integers, of the same length, satisfying i) and ii).
 -- source:
 --   Cannon, J. W., Floyd, W. J., Parry, W. R., Introductory notes on Richard Thompson's groups, L'Enseignement Mathematique (2) 42 (1996) 215-256, https://doi.org/10.5169/seals-87877, section 2 pp. 219-224 (standard dyadic partitions, tree diagrams, positive elements) and section 1 p. 217 (the generators X_n)
 

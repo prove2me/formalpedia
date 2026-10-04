@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CannonFloydParry.closure_mapA_mapB_eq_F
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-09-16T12:34:41.112557+00:00
 -- url     : https://prove2.me/submissions/0b5f7b5e-b333-459f-9a62-b27680c945a8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CannonFloydParry_mem_F_iff_isThompson
 import Theorems.Thm_CannonFloydParry_exists_standardDyadicPartition_of_isThompson

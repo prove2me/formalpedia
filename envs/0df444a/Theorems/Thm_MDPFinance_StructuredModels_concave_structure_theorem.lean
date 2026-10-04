@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_StructuredModels_concave_structure_theorem
 -- name    : MDPFinance.StructuredModels.concave_structure_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:38:30.969799+00:00
 -- url     : https://prove2.me/theorems/59f8fb1b-6c71-4352-89bf-0bd73e414842

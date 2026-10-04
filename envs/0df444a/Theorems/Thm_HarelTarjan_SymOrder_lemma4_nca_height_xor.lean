@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarelTarjan_SymOrder_lemma4_nca_height_xor
 -- name    : HarelTarjan.SymOrder.lemma4_nca_height_xor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:47:59.830088+00:00
 -- url     : https://prove2.me/theorems/05ed0bf0-9ffd-4ee0-b4e9-a46290d642c2

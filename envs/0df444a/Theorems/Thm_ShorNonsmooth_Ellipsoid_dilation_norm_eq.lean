@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Ellipsoid_dilation_norm_eq
 -- name    : ShorNonsmooth.Ellipsoid.dilation_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:17:17.656985+00:00
 -- url     : https://prove2.me/theorems/459fdf5f-821a-410f-a001-58f3f804bdd7

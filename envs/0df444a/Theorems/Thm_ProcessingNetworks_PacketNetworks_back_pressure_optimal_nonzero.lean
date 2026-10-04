@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_back_pressure_optimal_nonzero
 -- name    : ProcessingNetworks.PacketNetworks.back_pressure_optimal_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:55:51.728137+00:00
 -- url     : https://prove2.me/theorems/d6bcf422-a34c-421f-afc7-5a3f4866c29c

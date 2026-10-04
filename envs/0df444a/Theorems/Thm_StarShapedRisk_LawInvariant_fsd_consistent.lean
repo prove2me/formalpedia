@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_LawInvariant_fsd_consistent
 -- name    : StarShapedRisk.LawInvariant.fsd_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:11:09.035831+00:00
 -- url     : https://prove2.me/theorems/58e91a63-d528-4548-9c3a-5c109c053074

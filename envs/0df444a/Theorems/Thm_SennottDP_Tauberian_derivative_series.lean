@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_derivative_series
 -- name    : SennottDP.Tauberian.derivative_series
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:04:02.30857+00:00
 -- url     : https://prove2.me/theorems/63ac2000-5c5f-4e7c-b167-7b6c04139400

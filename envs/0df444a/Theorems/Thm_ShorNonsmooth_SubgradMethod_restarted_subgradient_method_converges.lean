@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SubgradMethod_restarted_subgradient_method_converges
 -- name    : ShorNonsmooth.SubgradMethod.restarted_subgradient_method_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:03:49.556988+00:00
 -- url     : https://prove2.me/theorems/d6e53755-2608-4046-8ea4-f0a3bca650ac

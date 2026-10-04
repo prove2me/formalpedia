@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_OptProportions_g_strictMono_bijective
 -- name    : OptimalBAI.OptProportions.g_strictMono_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:59:40.644249+00:00
 -- url     : https://prove2.me/theorems/0140433a-03a6-42b0-b608-6b7aad391de0

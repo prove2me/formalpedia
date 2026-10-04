@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Dominants_general_dominant_facet_characterization
 -- name    : Disjunctive.Dominants.general_dominant_facet_characterization
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:10:43.591187+00:00
 -- url     : https://prove2.me/theorems/32e1104e-5adb-4078-822d-4ad8890f6ee3

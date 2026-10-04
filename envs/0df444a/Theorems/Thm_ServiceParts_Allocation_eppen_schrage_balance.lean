@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Allocation_eppen_schrage_balance
 -- name    : ServiceParts.Allocation.eppen_schrage_balance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:08:26.242389+00:00
 -- url     : https://prove2.me/theorems/65c8637e-b461-453f-ac5a-804f04e15c8b

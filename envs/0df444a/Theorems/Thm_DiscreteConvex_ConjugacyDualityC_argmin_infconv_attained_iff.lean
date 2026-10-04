@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityC_argmin_infconv_attained_iff
 -- name    : DiscreteConvex.ConjugacyDualityC.argmin_infconv_attained_iff
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:43:57.039182+00:00
 -- url     : https://prove2.me/theorems/169349d3-dbed-4ad3-9251-506fd98f8ff2

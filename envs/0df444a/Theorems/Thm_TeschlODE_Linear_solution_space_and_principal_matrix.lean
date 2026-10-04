@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Linear_solution_space_and_principal_matrix
 -- name    : TeschlODE.Linear.solution_space_and_principal_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:55:38.127415+00:00
 -- url     : https://prove2.me/theorems/696f4281-167b-4fce-9673-f48ee39fe31b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulmuleyVV_Matching_lemma1_isolating
 -- name    : MulmuleyVV.Matching.lemma1_isolating
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:34:51.532754+00:00
 -- url     : https://prove2.me/theorems/97a5be5f-b298-4122-b786-b589a8dbaac2

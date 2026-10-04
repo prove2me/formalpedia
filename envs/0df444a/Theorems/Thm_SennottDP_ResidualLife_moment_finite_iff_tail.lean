@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ResidualLife_moment_finite_iff_tail
 -- name    : SennottDP.ResidualLife.moment_finite_iff_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:26:12.67287+00:00
 -- url     : https://prove2.me/theorems/23a4b894-f13e-46f5-855e-34abbf7afa42

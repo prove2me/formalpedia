@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_selfAdjoint_extension_iff
 -- name    : TeschlQM.SelfAdjoint.selfAdjoint_extension_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:24:51.810614+00:00
 -- url     : https://prove2.me/theorems/f7ffc21b-59b7-4c03-ac3c-7cdd8040a805

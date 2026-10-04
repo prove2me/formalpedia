@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_AlmostDiff_convex_dirDeriv_bounded_on_bounded
 -- name    : ShorNonsmooth.AlmostDiff.convex_dirDeriv_bounded_on_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:56:16.64616+00:00
 -- url     : https://prove2.me/theorems/8d714c5a-ede6-4a25-a0b3-de13ede02c22

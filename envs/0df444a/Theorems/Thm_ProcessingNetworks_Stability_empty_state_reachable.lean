@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_Stability_empty_state_reachable
 -- name    : ProcessingNetworks.Stability.empty_state_reachable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:20:45.331809+00:00
 -- url     : https://prove2.me/theorems/98c81c6b-efc3-4d26-ab2e-de303486def5

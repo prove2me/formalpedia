@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_EconomicEquilibrium_exchange_economy_equilibrium_exists
 -- name    : DiscreteConvex.EconomicEquilibrium.exchange_economy_equilibrium_exists
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T05:19:36.00208+00:00
 -- url     : https://prove2.me/theorems/bb13dcd8-5b8a-4807-88a1-86787dacc52a

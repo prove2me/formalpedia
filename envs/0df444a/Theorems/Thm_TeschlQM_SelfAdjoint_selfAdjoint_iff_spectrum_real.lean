@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_selfAdjoint_iff_spectrum_real
 -- name    : TeschlQM.SelfAdjoint.selfAdjoint_iff_spectrum_real
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:22:13.405101+00:00
 -- url     : https://prove2.me/theorems/700e3944-83df-411b-9ad7-9c08f42106a3

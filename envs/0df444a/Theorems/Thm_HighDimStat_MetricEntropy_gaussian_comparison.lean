@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_MetricEntropy_gaussian_comparison
 -- name    : HighDimStat.MetricEntropy.gaussian_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:02:07.884978+00:00
 -- url     : https://prove2.me/theorems/ba22b5c2-0f07-47ed-bc6f-38f7c14481d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_quasi_mconvex_hierarchy
 -- name    : DiscreteConvex.MConvexFunctionsE.quasi_mconvex_hierarchy
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:10:08.581224+00:00
 -- url     : https://prove2.me/theorems/1c3860ea-601b-4913-8dd1-20966b0bff9f

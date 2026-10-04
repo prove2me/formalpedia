@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_transaction_cost_solution
 -- name    : MDPFinance.MeanVariance.transaction_cost_solution
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:08:26.234252+00:00
 -- url     : https://prove2.me/theorems/94a28fc5-1913-454e-a175-06c84e30a9b2

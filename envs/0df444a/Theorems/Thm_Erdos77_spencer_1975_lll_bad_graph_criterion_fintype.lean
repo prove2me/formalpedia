@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_1975_lll_bad_graph_criterion_fintype
 -- name    : Erdos77.spencer_1975_lll_bad_graph_criterion_fintype
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:46:09.659986+00:00
 -- url     : https://prove2.me/theorems/e262c3a8-bf91-4336-9203-119bb1623cda

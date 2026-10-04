@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CannonFloydParry_mem_closure_commutator_supp_Icc
 -- name    : CannonFloydParry.mem_closure_commutator_supp_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-09-16T12:15:10.589742+00:00
 -- url     : https://prove2.me/theorems/2ddeb136-f8f1-42b8-b1d7-18581029b6da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DurrettProbability_brownian_limsup_sqrt
 -- name    : DurrettProbability.brownian_limsup_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-18T18:27:31.961962+00:00
 -- url     : https://prove2.me/theorems/09f66952-464e-42b8-bbe4-19800d4d5e6a

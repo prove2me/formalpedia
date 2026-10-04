@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_tendsto_infDist_omegaLimitSet
 -- name    : TeschlODE.Stability.tendsto_infDist_omegaLimitSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T13:37:03.333991+00:00
 -- url     : https://prove2.me/theorems/dea7652b-739e-4426-8037-a8ad4a416cd1

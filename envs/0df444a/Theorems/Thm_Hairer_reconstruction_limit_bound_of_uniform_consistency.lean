@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Hairer_reconstruction_limit_bound_of_uniform_consistency
 -- name    : Hairer.reconstruction_limit_bound_of_uniform_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-27T05:46:15.48966+00:00
 -- url     : https://prove2.me/theorems/cf381da7-2e17-44b2-8ed4-609165e25a86

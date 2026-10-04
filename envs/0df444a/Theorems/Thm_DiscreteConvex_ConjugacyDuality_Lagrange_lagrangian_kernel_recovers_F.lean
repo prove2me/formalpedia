@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDuality_Lagrange_lagrangian_kernel_recovers_F
 -- name    : DiscreteConvex.ConjugacyDuality.Lagrange.lagrangian_kernel_recovers_F
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:13:29.39204+00:00
 -- url     : https://prove2.me/theorems/a5d5a1d6-1160-4c7f-a953-4eed25c6e056

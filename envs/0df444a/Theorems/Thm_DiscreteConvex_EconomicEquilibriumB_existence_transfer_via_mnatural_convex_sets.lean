@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_EconomicEquilibriumB_existence_transfer_via_mnatural_convex_sets
 -- name    : DiscreteConvex.EconomicEquilibriumB.existence_transfer_via_mnatural_convex_sets
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:24:34.540839+00:00
 -- url     : https://prove2.me/theorems/42e97fcc-77f9-439f-a580-6429d5cd157a

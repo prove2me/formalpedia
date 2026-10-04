@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_MonoidalStrengthening_gmi_strictly_dominating_cuts
 -- name    : Disjunctive.MonoidalStrengthening.gmi_strictly_dominating_cuts
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:04:16.601719+00:00
 -- url     : https://prove2.me/theorems/6e5b168b-754d-45e3-b4d9-225a9239ca70

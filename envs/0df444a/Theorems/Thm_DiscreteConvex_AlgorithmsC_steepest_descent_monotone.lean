@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsC_steepest_descent_monotone
 -- name    : DiscreteConvex.AlgorithmsC.steepest_descent_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:35:59.50382+00:00
 -- url     : https://prove2.me/theorems/a05a6bd3-98cc-4147-82ec-316520a32486

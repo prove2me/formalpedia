@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_powerMonomial_isUnitInvariant
 -- name    : VaryingConstants.powerMonomial_isUnitInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T01:32:25.177162+00:00
 -- url     : https://prove2.me/theorems/46f0ac01-e00a-4967-b53a-3e69847caee5

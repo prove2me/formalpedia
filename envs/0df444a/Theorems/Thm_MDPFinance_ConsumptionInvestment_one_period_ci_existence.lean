@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_one_period_ci_existence
 -- name    : MDPFinance.ConsumptionInvestment.one_period_ci_existence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:59:46.006396+00:00
 -- url     : https://prove2.me/theorems/145605e8-420c-4f90-a3f0-ea4564d2964a

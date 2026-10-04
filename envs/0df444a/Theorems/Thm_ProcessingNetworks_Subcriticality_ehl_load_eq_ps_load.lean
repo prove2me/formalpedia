@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_Subcriticality_ehl_load_eq_ps_load
 -- name    : ProcessingNetworks.Subcriticality.ehl_load_eq_ps_load
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:26:39.399024+00:00
 -- url     : https://prove2.me/theorems/abd27eee-ca4b-4067-b9dc-23f76de31033

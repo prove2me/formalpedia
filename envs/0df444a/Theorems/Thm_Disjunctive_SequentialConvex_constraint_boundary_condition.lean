@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_SequentialConvex_constraint_boundary_condition
 -- name    : Disjunctive.SequentialConvex.constraint_boundary_condition
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:26:24.952527+00:00
 -- url     : https://prove2.me/theorems/1a7272c9-cd51-4642-8f11-45f00c6effc8

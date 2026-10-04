@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityB_m2_convex_domain_is_m2_convex_set
 -- name    : DiscreteConvex.ConjugacyDualityB.m2_convex_domain_is_m2_convex_set
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:36:20.287182+00:00
 -- url     : https://prove2.me/theorems/dadbaa0a-9868-4164-ab11-ac7a980f795e

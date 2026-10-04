@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_valueFn_convexOn
 -- name    : ShorNonsmooth.Decomposition.valueFn_convexOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:22:06.45068+00:00
 -- url     : https://prove2.me/theorems/80effeb9-cbda-45b4-a52c-566e4db4387f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_simple_systems_characterization
 -- name    : TheoryOfGames.SimpleGames.simple_systems_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:58:36.614487+00:00
 -- url     : https://prove2.me/theorems/44c2af83-46c2-4251-9674-f2b6bb996f7c

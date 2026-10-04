@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Ramsey_ramsey_theorem
 -- name    : AppliedComb.Ramsey.ramsey_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:19:10.40515+00:00
 -- url     : https://prove2.me/theorems/bbe513a4-b0a7-4002-9a7d-32bf5c0cf65f

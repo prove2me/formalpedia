@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ContinuousTime_exp_race
 -- name    : SennottDP.ContinuousTime.exp_race
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T11:01:58.423636+00:00
 -- url     : https://prove2.me/theorems/e150656c-015b-4f7b-858c-f1e301e6bb94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_generalized_fatou
 -- name    : SennottDP.Fatou.generalized_fatou
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T12:29:42.828988+00:00
 -- url     : https://prove2.me/theorems/b928c60a-47f6-4e5e-9a76-281f59e9dbd1

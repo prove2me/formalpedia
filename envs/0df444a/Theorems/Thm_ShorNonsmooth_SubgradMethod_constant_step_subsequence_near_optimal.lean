@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SubgradMethod_constant_step_subsequence_near_optimal
 -- name    : ShorNonsmooth.SubgradMethod.constant_step_subsequence_near_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:01:35.510989+00:00
 -- url     : https://prove2.me/theorems/f57b5c8f-a050-4c9f-9768-7090ffbc0563

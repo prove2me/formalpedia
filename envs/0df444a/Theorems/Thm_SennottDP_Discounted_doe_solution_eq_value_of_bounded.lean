@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_doe_solution_eq_value_of_bounded
 -- name    : SennottDP.Discounted.doe_solution_eq_value_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:15:57.753456+00:00
 -- url     : https://prove2.me/theorems/b6483d01-7204-44ff-a658-717473d25510

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_dris_five_index_dvd_three_of_euler
 -- name    : OddPerfectNumber.Kernel.dris_five_index_dvd_three_of_euler
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-01T22:17:58.563671+00:00
 -- url     : https://prove2.me/theorems/5364ee2f-1bb7-4f2b-89cc-a435b4d91cfe

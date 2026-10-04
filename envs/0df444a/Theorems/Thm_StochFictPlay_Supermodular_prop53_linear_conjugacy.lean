@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Supermodular_prop53_linear_conjugacy
 -- name    : StochFictPlay.Supermodular.prop53_linear_conjugacy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:21:15.830181+00:00
 -- url     : https://prove2.me/theorems/8ecb2396-86d6-4e02-8555-296354a2c7ee

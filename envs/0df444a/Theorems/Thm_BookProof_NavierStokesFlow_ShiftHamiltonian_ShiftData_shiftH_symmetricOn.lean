@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_ShiftHamiltonian_ShiftData_shiftH_symmetricOn
 -- name    : BookProof.NavierStokesFlow.ShiftHamiltonian.ShiftData.shiftH_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T08:25:43.841528+00:00
 -- url     : https://prove2.me/theorems/f4a591c6-b1da-499d-ab2e-1e467c354a65

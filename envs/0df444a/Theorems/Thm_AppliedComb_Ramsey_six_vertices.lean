@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Ramsey_six_vertices
 -- name    : AppliedComb.Ramsey.six_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:18:14.299654+00:00
 -- url     : https://prove2.me/theorems/0b0c4dc0-e9bb-4ca8-ba4f-b0ae0d82a91a

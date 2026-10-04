@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PorteusSS_CK_sS_structure
 -- name    : PorteusSS.CK_sS_structure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:53:54.429641+00:00
 -- url     : https://prove2.me/theorems/ac70455c-3d20-4ff7-8c4a-4dfdc54aba57

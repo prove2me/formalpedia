@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MetodosNumericos_picard_error_bound_classical
 -- name    : MetodosNumericos.picard_error_bound_classical
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-24T14:14:54.15102+00:00
 -- url     : https://prove2.me/theorems/9f69c9ce-7ddc-4936-8bcb-e7d8702ed7b6

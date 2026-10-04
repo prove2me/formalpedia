@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_proof_6_2_one_step_inequality
 -- name    : NumStochOpt.QuasiFejer.proof_6_2_one_step_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:40:05.368697+00:00
 -- url     : https://prove2.me/theorems/3a0469d9-ddfd-43c5-b14d-0e1339b3ba7d

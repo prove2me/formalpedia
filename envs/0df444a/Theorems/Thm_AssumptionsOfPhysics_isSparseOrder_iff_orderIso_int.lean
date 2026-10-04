@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_isSparseOrder_iff_orderIso_int
 -- name    : AssumptionsOfPhysics.isSparseOrder_iff_orderIso_int
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T11:15:14.038254+00:00
 -- url     : https://prove2.me/theorems/2270294e-feb7-4eb0-a68c-6588545f5d97

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_HigherDim_unstableSet_subset_omegaPlusSet
 -- name    : TeschlODE.HigherDim.unstableSet_subset_omegaPlusSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:43:23.897722+00:00
 -- url     : https://prove2.me/theorems/bc163830-4a72-4c7d-9236-8555a2fc4a75

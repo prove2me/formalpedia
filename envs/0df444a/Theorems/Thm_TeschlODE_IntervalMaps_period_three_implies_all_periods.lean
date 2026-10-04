@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_period_three_implies_all_periods
 -- name    : TeschlODE.IntervalMaps.period_three_implies_all_periods
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T18:43:15.399337+00:00
 -- url     : https://prove2.me/theorems/85c7c521-647e-4655-8b40-e8b0a61a9cff

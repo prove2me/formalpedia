@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_CharFun_reduced_bounds
 -- name    : TheoryOfGames.CharFun.reduced_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:58:50.172057+00:00
 -- url     : https://prove2.me/theorems/2b297c1a-d2d9-42a3-a81f-afab574697c2

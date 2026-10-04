@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Graphs_gen_pigeonhole
 -- name    : AppliedComb.Graphs.gen_pigeonhole
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:03:29.581394+00:00
 -- url     : https://prove2.me/theorems/aa64c45b-2d87-42cc-a248-e4a34925ee04

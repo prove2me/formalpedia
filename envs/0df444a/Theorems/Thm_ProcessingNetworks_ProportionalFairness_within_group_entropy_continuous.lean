@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_within_group_entropy_continuous
 -- name    : ProcessingNetworks.ProportionalFairness.within_group_entropy_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:32:44.174107+00:00
 -- url     : https://prove2.me/theorems/705f07ee-bdcb-4e12-83ae-277077a15bcb

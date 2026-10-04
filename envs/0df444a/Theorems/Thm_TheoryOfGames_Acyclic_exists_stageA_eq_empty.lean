@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Acyclic_exists_stageA_eq_empty
 -- name    : TheoryOfGames.Acyclic.exists_stageA_eq_empty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:00:04.969539+00:00
 -- url     : https://prove2.me/theorems/d23b3ffd-cc14-434c-9c22-6d03ee79e3ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussUpper_lemma13_sample_mean_norm_tail
 -- name    : RobustGeneralization.GaussUpper.lemma13_sample_mean_norm_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:24:19.638986+00:00
 -- url     : https://prove2.me/theorems/06ac9a03-baec-438c-977b-17ad18cbad41

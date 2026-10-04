@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_ListScheduling_eq_8_10_makespan_sandwich
 -- name    : NumStochOpt.ListScheduling.eq_8_10_makespan_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:58:34.392547+00:00
 -- url     : https://prove2.me/theorems/de116494-dfb7-43d6-aa77-6979f543db7a

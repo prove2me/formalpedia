@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_EOQHeuristic_eoq_model_solution
 -- name    : ZhengQR.EOQHeuristic.eoq_model_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:45:53.284658+00:00
 -- url     : https://prove2.me/theorems/dfce1737-6d40-401e-a5a7-ab6a6800bc6f

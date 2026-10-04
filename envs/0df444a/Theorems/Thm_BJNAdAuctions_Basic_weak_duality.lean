@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_weak_duality
 -- name    : BJNAdAuctions.Basic.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T16:50:22.912541+00:00
 -- url     : https://prove2.me/theorems/736a1cb9-0287-48a8-a8af-810b06247db3

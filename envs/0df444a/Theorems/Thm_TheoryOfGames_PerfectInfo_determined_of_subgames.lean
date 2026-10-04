@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_PerfectInfo_determined_of_subgames
 -- name    : TheoryOfGames.PerfectInfo.determined_of_subgames
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T02:53:37.934916+00:00
 -- url     : https://prove2.me/theorems/7c9b5e65-33db-4cbf-a691-06809ea83ffa

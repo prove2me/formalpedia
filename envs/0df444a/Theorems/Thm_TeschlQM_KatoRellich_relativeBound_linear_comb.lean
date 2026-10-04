@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_KatoRellich_relativeBound_linear_comb
 -- name    : TeschlQM.KatoRellich.relativeBound_linear_comb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T22:13:35.612369+00:00
 -- url     : https://prove2.me/theorems/470d9745-e627-45b4-b2f7-1fc73e00acd3

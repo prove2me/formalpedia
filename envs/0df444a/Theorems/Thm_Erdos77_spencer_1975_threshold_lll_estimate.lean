@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_1975_threshold_lll_estimate
 -- name    : Erdos77.spencer_1975_threshold_lll_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T14:04:36.857868+00:00
 -- url     : https://prove2.me/theorems/a4a7823b-9c35-4551-a17b-0395615d1ffa

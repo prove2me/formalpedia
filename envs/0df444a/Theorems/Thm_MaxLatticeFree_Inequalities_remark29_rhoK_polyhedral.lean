@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Inequalities_remark29_rhoK_polyhedral
 -- name    : MaxLatticeFree.Inequalities.remark29_rhoK_polyhedral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:19:09.589985+00:00
 -- url     : https://prove2.me/theorems/113f0655-d0c5-4345-93f0-aaa1d53254c6

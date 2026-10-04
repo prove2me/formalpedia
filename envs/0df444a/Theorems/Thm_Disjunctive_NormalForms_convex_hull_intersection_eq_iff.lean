@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_NormalForms_convex_hull_intersection_eq_iff
 -- name    : Disjunctive.NormalForms.convex_hull_intersection_eq_iff
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:29:50.306983+00:00
 -- url     : https://prove2.me/theorems/b7ab7537-298d-4d56-9872-54e68df8d9ba

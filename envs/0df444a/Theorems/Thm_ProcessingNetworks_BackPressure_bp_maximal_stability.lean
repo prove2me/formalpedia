@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_bp_maximal_stability
 -- name    : ProcessingNetworks.BackPressure.bp_maximal_stability
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:59:13.357271+00:00
 -- url     : https://prove2.me/theorems/e1b91bf2-2833-49b1-b0a5-9294259e9aa9

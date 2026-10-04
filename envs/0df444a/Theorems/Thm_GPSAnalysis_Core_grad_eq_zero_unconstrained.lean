@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GPSAnalysis_Core_grad_eq_zero_unconstrained
 -- name    : GPSAnalysis.Core.grad_eq_zero_unconstrained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T07:57:58.071223+00:00
 -- url     : https://prove2.me/theorems/a6bd8bb1-c7ee-4ddb-9089-60aa1fb8c86a

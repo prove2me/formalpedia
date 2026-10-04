@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_eq_2_51_simple_recourse_expected_cost
 -- name    : NumStochOpt.Bounds.eq_2_51_simple_recourse_expected_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:18:57.656227+00:00
 -- url     : https://prove2.me/theorems/8a6feb52-e544-485b-8b3e-02dc3e499298

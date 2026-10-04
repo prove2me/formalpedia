@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjectiveMeasurementEquilibration_lindblad_block_solution
 -- name    : ProjectiveMeasurementEquilibration.lindblad_block_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T11:13:35.014023+00:00
 -- url     : https://prove2.me/theorems/66e50776-b8b4-42cd-b892-3a82559a635f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Holomorphic_maximum_principle
 -- name    : LeblSCV.Holomorphic.maximum_principle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:14:15.49503+00:00
 -- url     : https://prove2.me/theorems/36a8f8db-b59a-4444-be82-26bf9b184b85

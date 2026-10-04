@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_InclExcl_surjections_count
 -- name    : AppliedComb.InclExcl.surjections_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:10:38.456374+00:00
 -- url     : https://prove2.me/theorems/0f9e8b3c-b985-49b2-a87b-2fb81c828b56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondConvexRisk_Entropic_entropic_representation
 -- name    : CondConvexRisk.Entropic.entropic_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:04:47.707285+00:00
 -- url     : https://prove2.me/theorems/f78aaacc-b239-4b56-9b37-79fe2f2992f7

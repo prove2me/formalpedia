@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GenFun_binomReal_neg_half
 -- name    : AppliedComb.GenFun.binomReal_neg_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:12:09.661801+00:00
 -- url     : https://prove2.me/theorems/7098b73c-9bbf-4352-bc45-9161a31becbb

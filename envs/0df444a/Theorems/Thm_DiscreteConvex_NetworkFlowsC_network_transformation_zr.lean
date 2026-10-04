@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlowsC_network_transformation_zr
 -- name    : DiscreteConvex.NetworkFlowsC.network_transformation_zr
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T03:16:56.627857+00:00
 -- url     : https://prove2.me/theorems/cba72845-5929-411a-bc35-1eacccb765ed

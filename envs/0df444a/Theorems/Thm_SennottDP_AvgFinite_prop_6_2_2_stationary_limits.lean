@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_prop_6_2_2_stationary_limits
 -- name    : SennottDP.AvgFinite.prop_6_2_2_stationary_limits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:44:01.512723+00:00
 -- url     : https://prove2.me/theorems/2429c728-8c19-4abd-9b9a-51deed19b982

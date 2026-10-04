@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsB_scaling_phase_fixing
 -- name    : DiscreteConvex.AlgorithmsB.scaling_phase_fixing
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:11:26.978377+00:00
 -- url     : https://prove2.me/theorems/8f2983a5-eac1-4137-a061-3c2e49035ba0

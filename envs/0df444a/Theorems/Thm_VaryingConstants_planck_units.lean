@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_planck_units
 -- name    : VaryingConstants.planck_units
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T02:40:47.042373+00:00
 -- url     : https://prove2.me/theorems/f6904621-50f4-4a62-8379-1d02798f38bd

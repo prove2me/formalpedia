@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Herglotz_borelTransform_isHerglotz
 -- name    : TeschlQM.Herglotz.borelTransform_isHerglotz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:36:23.7409+00:00
 -- url     : https://prove2.me/theorems/a8b5f9fc-8d46-4a3c-aee1-96b44d8f1caa

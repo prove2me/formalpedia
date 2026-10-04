@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_dir_deriv_subdifferential_correspondence
 -- name    : DiscreteConvex.MConvexFunctionsD.dir_deriv_subdifferential_correspondence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:53:26.502982+00:00
 -- url     : https://prove2.me/theorems/7cb47821-4f94-4b07-99db-4aacfe70d229

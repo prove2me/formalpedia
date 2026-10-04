@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlowsC_unique_min_weight_perfect_matching_iff
 -- name    : DiscreteConvex.NetworkFlowsC.unique_min_weight_perfect_matching_iff
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T03:03:48.729837+00:00
 -- url     : https://prove2.me/theorems/7fbdc7e3-3f9d-440d-8fbd-393943433ebf

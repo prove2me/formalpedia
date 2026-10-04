@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_MatrixRank_prop10_6_nuclear_norm_oracle_inequality
 -- name    : HighDimStat.MatrixRank.prop10_6_nuclear_norm_oracle_inequality
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:19:13.373977+00:00
 -- url     : https://prove2.me/theorems/b41ae2fe-3141-4985-9a17-10cafd88f267

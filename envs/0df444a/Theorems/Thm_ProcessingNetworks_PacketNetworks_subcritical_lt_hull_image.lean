@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_subcritical_lt_hull_image
 -- name    : ProcessingNetworks.PacketNetworks.subcritical_lt_hull_image
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:49:51.809977+00:00
 -- url     : https://prove2.me/theorems/14750acb-b17b-44cb-94a7-fcea7bf23359

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_shiftRange_isClosed
 -- name    : BookProof.HashimotoShiftInvert.shiftRange_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:41:54.326318+00:00
 -- url     : https://prove2.me/theorems/4d0030b0-22c4-4d22-b5ac-4c73c120c485

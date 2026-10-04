@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_LyapunovCriteria_dini_extinction_criterion
 -- name    : ProcessingNetworks.LyapunovCriteria.dini_extinction_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:00:49.742019+00:00
 -- url     : https://prove2.me/theorems/97d8b441-3b1a-4ac7-9e24-9bfe10e7b886

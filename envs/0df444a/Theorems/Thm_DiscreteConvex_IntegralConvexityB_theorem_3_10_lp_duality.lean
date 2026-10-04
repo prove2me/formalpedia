@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityB_theorem_3_10_lp_duality
 -- name    : DiscreteConvex.IntegralConvexityB.theorem_3_10_lp_duality
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:02:30.237468+00:00
 -- url     : https://prove2.me/theorems/5921cfc4-3a53-428b-be77-5996469607b0

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos77.spencer_1975_lll_asymptotic_threshold
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T14:06:46.059292+00:00
 -- url     : https://prove2.me/submissions/c9bc4b4a-0ad7-401e-862c-a90ee9b94e04
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Erdos77_spencer_1975_threshold_eventual_size
 import Theorems.Thm_Erdos77_spencer_1975_threshold_lll_estimate

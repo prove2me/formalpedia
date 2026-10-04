@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Horseshoe_shift_exists_dense_orbit
 -- name    : TeschlODE.Horseshoe.shift_exists_dense_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:11:53.934591+00:00
 -- url     : https://prove2.me/theorems/bdf71321-b847-41e5-ae7a-ae8ab3355214

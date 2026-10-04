@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_doe_solution_eq_value_of_liminf
 -- name    : SennottDP.Discounted.doe_solution_eq_value_of_liminf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:11:20.905015+00:00
 -- url     : https://prove2.me/theorems/2c683c9d-2eee-4797-8fed-528b1ead3ee2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Duality_convex_loss_p1
 -- name    : WassersteinDRO.Duality.convex_loss_p1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:20:32.537903+00:00
 -- url     : https://prove2.me/theorems/6d62cac5-1c2d-4abe-ad5b-fff5f906d43d

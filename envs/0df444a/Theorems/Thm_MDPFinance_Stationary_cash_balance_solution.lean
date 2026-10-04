@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Stationary_cash_balance_solution
 -- name    : MDPFinance.Stationary.cash_balance_solution
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:48.950443+00:00
 -- url     : https://prove2.me/theorems/e2ce0b2b-8bf4-4b94-9b32-9236088f8a44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarelTarjan_SymOrder_lemma3_ancestor_number
 -- name    : HarelTarjan.SymOrder.lemma3_ancestor_number
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:47:31.108234+00:00
 -- url     : https://prove2.me/theorems/2002f0f4-b2b1-4e95-a4fe-e4e2a286b9c5

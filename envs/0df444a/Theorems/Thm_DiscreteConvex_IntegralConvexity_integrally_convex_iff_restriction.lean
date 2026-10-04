@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexity_integrally_convex_iff_restriction
 -- name    : DiscreteConvex.IntegralConvexity.integrally_convex_iff_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:52:29.541498+00:00
 -- url     : https://prove2.me/theorems/69c4c2f3-0761-498b-948f-bba5fdc41c45

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_InclExcl_inclusion_exclusion
 -- name    : AppliedComb.InclExcl.inclusion_exclusion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:08:58.109759+00:00
 -- url     : https://prove2.me/theorems/5af4e5e0-8314-4e50-acbc-7190f0b0ee3d

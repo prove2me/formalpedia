@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Regularization_convex_loss_p1
 -- name    : WassersteinDRO.Regularization.convex_loss_p1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:41:28.261734+00:00
 -- url     : https://prove2.me/theorems/302960e5-c4aa-4db2-8f3c-040204d01d67

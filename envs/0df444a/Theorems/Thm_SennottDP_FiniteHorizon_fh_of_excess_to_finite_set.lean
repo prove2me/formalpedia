@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_fh_of_excess_to_finite_set
 -- name    : SennottDP.FiniteHorizon.fh_of_excess_to_finite_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:42:45.734756+00:00
 -- url     : https://prove2.me/theorems/16dc57be-16c5-4725-9d4a-e5901dafb5f2

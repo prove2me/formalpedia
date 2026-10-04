@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Graphs_tree_two_leaves
 -- name    : AppliedComb.Graphs.tree_two_leaves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:01:14.756445+00:00
 -- url     : https://prove2.me/theorems/4cf7622b-fc25-411c-8e5c-ce87cdcf90c0

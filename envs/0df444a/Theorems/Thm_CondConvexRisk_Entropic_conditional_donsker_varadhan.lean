@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondConvexRisk_Entropic_conditional_donsker_varadhan
 -- name    : CondConvexRisk.Entropic.conditional_donsker_varadhan
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:04:14.204505+00:00
 -- url     : https://prove2.me/theorems/8de65162-ffde-437d-9478-ae452329a5a5

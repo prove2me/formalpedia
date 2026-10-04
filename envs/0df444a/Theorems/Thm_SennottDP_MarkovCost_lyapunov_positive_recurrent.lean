@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_lyapunov_positive_recurrent
 -- name    : SennottDP.MarkovCost.lyapunov_positive_recurrent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:55:09.206586+00:00
 -- url     : https://prove2.me/theorems/65e4af32-f1e2-4cd5-a3dd-8908b6a39732

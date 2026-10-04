@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_minimal_cover
 -- name    : TheoryOfGames.Decomposition.minimal_cover
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:29:05.538165+00:00
 -- url     : https://prove2.me/theorems/12a6a60a-d8ae-4d63-99ac-939971e3b0f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroBandits_bic_never_explores_without_property
 -- name    : IntroBandits.bic_never_explores_without_property
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:36:44.89938+00:00
 -- url     : https://prove2.me/theorems/6bf06dc6-541a-49ca-861f-ecae1118e57d

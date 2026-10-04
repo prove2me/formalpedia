@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_intervalMap_properties
 -- name    : TheoryOfGames.Utility.intervalMap_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:13:49.447836+00:00
 -- url     : https://prove2.me/theorems/688fdc5a-0485-44b4-b905-9de3a9b6a68f

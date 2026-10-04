@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_norm_shiftMap_ge
 -- name    : BookProof.HashimotoShiftInvert.norm_shiftMap_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:28:41.310643+00:00
 -- url     : https://prove2.me/theorems/091781e0-12be-4623-affe-d3e2996dec6f

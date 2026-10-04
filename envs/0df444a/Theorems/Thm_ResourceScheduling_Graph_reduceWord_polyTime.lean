@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Graph_reduceWord_polyTime
 -- name    : ResourceScheduling.Graph.reduceWord_polyTime
--- status  : Open
+-- status  : Proved
 -- author  : @arexychen
 -- created : 2026-10-02T06:52:43.891593+00:00
 -- url     : https://prove2.me/theorems/0a6f9f42-2c1d-4f23-bc5e-dd18f743b73d

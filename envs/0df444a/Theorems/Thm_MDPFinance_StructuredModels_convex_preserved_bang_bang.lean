@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_StructuredModels_convex_preserved_bang_bang
 -- name    : MDPFinance.StructuredModels.convex_preserved_bang_bang
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:36:55.555038+00:00
 -- url     : https://prove2.me/theorems/72ca787a-48c8-41bd-ba5a-114363509eeb

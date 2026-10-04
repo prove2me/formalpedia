@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_three_person_is_direct_majority
 -- name    : TheoryOfGames.SimpleGames.three_person_is_direct_majority
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:00:48.161+00:00
 -- url     : https://prove2.me/theorems/8d4f531b-6f10-4539-af7b-39af43fd915b

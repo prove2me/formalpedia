@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockManyMode_fock_commForm_ne_zero
 -- name    : BookProof.NavierStokesFlow.FockManyMode.fock_commForm_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-29T18:10:31.011013+00:00
 -- url     : https://prove2.me/theorems/84b81576-a495-4ace-bcfe-1ebb0bc64930

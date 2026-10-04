@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_stationary_limit_point
 -- name    : SennottDP.FiniteHorizon.stationary_limit_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:35:00.316069+00:00
 -- url     : https://prove2.me/theorems/e3db978e-0b94-443b-9170-229d86570095

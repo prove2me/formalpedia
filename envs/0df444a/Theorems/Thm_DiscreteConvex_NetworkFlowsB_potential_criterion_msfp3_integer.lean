@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlowsB_potential_criterion_msfp3_integer
 -- name    : DiscreteConvex.NetworkFlowsB.potential_criterion_msfp3_integer
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:37:21.876094+00:00
 -- url     : https://prove2.me/theorems/9e271f47-9634-4d1a-916a-847a83eda35a

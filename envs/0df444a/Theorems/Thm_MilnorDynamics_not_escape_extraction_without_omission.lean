@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_not_escape_extraction_without_omission
 -- name    : MilnorDynamics.not_escape_extraction_without_omission
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T09:42:51.145392+00:00
 -- url     : https://prove2.me/theorems/bef258d3-c52d-4aa5-a364-c8ee96bf1bb9

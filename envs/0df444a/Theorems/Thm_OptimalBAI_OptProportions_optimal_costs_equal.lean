@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_OptProportions_optimal_costs_equal
 -- name    : OptimalBAI.OptProportions.optimal_costs_equal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:00:33.660921+00:00
 -- url     : https://prove2.me/theorems/ca2f1b5e-3cae-4593-b231-0c574cc5d00f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_Reflection_colNorm_geometric_series_bound
 -- name    : ChenWhitt93.Reflection.colNorm_geometric_series_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-10-01T07:36:53.765394+00:00
 -- url     : https://prove2.me/theorems/2c2c9671-679d-487d-873b-22edcdbc65e6

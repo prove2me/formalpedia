@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_ShiftHamiltonian_ShiftData_hasSum_commForm
 -- name    : BookProof.NavierStokesFlow.ShiftHamiltonian.ShiftData.hasSum_commForm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T08:11:11.473218+00:00
 -- url     : https://prove2.me/theorems/a87314aa-7bb9-4c13-b3ab-876445e68682

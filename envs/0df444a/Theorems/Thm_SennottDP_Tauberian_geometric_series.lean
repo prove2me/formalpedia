@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_geometric_series
 -- name    : SennottDP.Tauberian.geometric_series
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:01:33.944349+00:00
 -- url     : https://prove2.me/theorems/8e1d1a5a-7e03-498c-9961-e5562143f7b9

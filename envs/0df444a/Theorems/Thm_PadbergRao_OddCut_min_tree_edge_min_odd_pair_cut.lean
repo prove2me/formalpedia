@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PadbergRao_OddCut_min_tree_edge_min_odd_pair_cut
 -- name    : PadbergRao.OddCut.min_tree_edge_min_odd_pair_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T23:03:59.172833+00:00
 -- url     : https://prove2.me/theorems/08702b4a-0612-4010-b450-4e11eb31ee6e

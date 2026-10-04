@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_add_initial_excess_admissible_value
 -- name    : AvramDividend.Classical.add_initial_excess_admissible_value
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T22:36:04.998991+00:00
 -- url     : https://prove2.me/theorems/9edc31be-a8c7-46fb-9cd8-bcb9f5c6c8ff

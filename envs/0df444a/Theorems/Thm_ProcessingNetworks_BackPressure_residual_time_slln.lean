@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_residual_time_slln
 -- name    : ProcessingNetworks.BackPressure.residual_time_slln
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:02:42.360986+00:00
 -- url     : https://prove2.me/theorems/5c15bedb-5916-42b2-af74-ace405d6ef4c

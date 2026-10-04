@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesWillems_Serial_last_stage_reduction_improves
 -- name    : GravesWillems.Serial.last_stage_reduction_improves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:20:46.09671+00:00
 -- url     : https://prove2.me/theorems/771b6157-f0f5-46af-9a00-f34d8bd2f742

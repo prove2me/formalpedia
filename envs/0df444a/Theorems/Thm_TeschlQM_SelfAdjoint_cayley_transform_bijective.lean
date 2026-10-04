@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_cayley_transform_bijective
 -- name    : TeschlQM.SelfAdjoint.cayley_transform_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:22:51.160422+00:00
 -- url     : https://prove2.me/theorems/ffb7a784-f66b-4bf7-829e-e527d1ec9305

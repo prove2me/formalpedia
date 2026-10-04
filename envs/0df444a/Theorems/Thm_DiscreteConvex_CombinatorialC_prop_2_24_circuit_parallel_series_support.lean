@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_CombinatorialC_prop_2_24_circuit_parallel_series_support
 -- name    : DiscreteConvex.CombinatorialC.prop_2_24_circuit_parallel_series_support
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:24.149708+00:00
 -- url     : https://prove2.me/theorems/69f6f2b9-cda5-4679-a9fe-1363fc0e80c8

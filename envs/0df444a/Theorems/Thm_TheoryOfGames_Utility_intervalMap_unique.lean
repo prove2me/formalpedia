@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_intervalMap_unique
 -- name    : TheoryOfGames.Utility.intervalMap_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:16:43.156404+00:00
 -- url     : https://prove2.me/theorems/88bed82e-7f0a-44e3-87af-2f6cec87d720

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_cauchy_product_partial_sums
 -- name    : SennottDP.Tauberian.cauchy_product_partial_sums
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:05:57.134071+00:00
 -- url     : https://prove2.me/theorems/5b724600-d3e8-471b-a3ab-cf30924e117c

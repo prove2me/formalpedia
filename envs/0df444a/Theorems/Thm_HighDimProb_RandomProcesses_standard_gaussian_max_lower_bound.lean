@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomProcesses_standard_gaussian_max_lower_bound
 -- name    : HighDimProb.RandomProcesses.standard_gaussian_max_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-02T11:05:46.042523+00:00
 -- url     : https://prove2.me/theorems/2a25469d-dbd4-451d-9947-e0724237eed6

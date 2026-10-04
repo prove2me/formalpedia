@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_continuous_sandwich_r
 -- name    : SennottDP.Tauberian.continuous_sandwich_r
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:13:49.374271+00:00
 -- url     : https://prove2.me/theorems/ca28769c-b296-4ea4-8909-9eab45354871

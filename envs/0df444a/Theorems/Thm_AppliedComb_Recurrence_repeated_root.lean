@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Recurrence_repeated_root
 -- name    : AppliedComb.Recurrence.repeated_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:16:37.938998+00:00
 -- url     : https://prove2.me/theorems/6c476322-86bf-46e9-9ead-a5ef825673c1

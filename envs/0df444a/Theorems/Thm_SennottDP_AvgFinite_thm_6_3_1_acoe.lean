@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_thm_6_3_1_acoe
 -- name    : SennottDP.AvgFinite.thm_6_3_1_acoe
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:54:56.41024+00:00
 -- url     : https://prove2.me/theorems/fefe0d81-f4e8-4b61-a5de-6bb9f532afcd

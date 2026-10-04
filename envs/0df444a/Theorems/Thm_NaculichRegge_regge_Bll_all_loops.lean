@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_regge_Bll_all_loops
 -- name    : NaculichRegge.regge_Bll_all_loops
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:24:21.520091+00:00
 -- url     : https://prove2.me/theorems/b76cddb9-a18e-4aa0-bf33-1281c4be7358

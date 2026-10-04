@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_shortest_augmenting_path_bound
 -- name    : EdmondsKarp.ShortestPath.shortest_augmenting_path_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:16:02.875536+00:00
 -- url     : https://prove2.me/theorems/665083e4-ed43-4a4b-a0e0-1daab066c320

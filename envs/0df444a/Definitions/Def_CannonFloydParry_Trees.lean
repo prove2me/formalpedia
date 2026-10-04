@@ -10,34 +10,59 @@
 --   The tree combinatorics of section 2 of Cannon-Floyd-Parry, on its own. Nothing
 --   here mentions Thompson's group $F$, and nothing is imported beyond Mathlib.
 --
---   **Trees.** An *ordered rooted binary tree* is defined here as an inductive type: a leaf, or a
---   root carrying a left and a right subtree. The source instead defines it graph-theoretically, as
---   a tree with a root of valence $2$ in which every vertex of valence greater than $1$ has exactly
---   two edges off the geodesic from the root, distinguished as a left and a right edge (p. 218).
---   Those conditions say exactly that every non-leaf vertex has two distinguished children, so the
---   two descriptions pick out the same objects; **the inductive type is a reformulation, not the
---   source's definition.** The source's trivial tree is the leaf.
+--   **Trees.** p. 218: “Define an *ordered rooted binary tree* to be a tree $S$ such that i) $S$ has
+--   a root $v_0$, ii) if $S$ consists of more than $v_0$, then $v_0$ has valence 2, and iii) if $v$ is
+--   a vertex in $S$ with valence greater than 1, then there are exactly two edges $e_{v,L}$, $e_{v,R}$
+--   which contain $v$ and are not contained in the geodesic from $v_0$ to $v$.” Here an ordered rooted
+--   binary tree is instead an inductive type: a leaf, or a root carrying a left and a right subtree.
+--   The source's graph-theoretic conditions say exactly that every non-leaf vertex has two
+--   distinguished children, so for finite ordered rooted binary trees the two descriptions pick out
+--   the same objects. The source's definition also admits infinite ones, such as the tree
+--   $\mathcal{T}$ below, which the source calls an ordered rooted binary tree (p. 219); the inductive
+--   type does not. **The inductive type is a reformulation, not the source's definition.** The
+--   source's trivial tree, named in its definition of leaves but given no defining sentence of its
+--   own, is the leaf.
 --
---   The type also serves as the source's *$\mathcal{T}$-tree* (p. 219), which is a finite subtree
---   of the infinite tree $\mathcal{T}$ of standard dyadic intervals rooted at $[0,1]$. Here the
---   halving is not carried by the type: it is supplied by a function sending a tree to the list of
---   breakpoints of the partition of $[0,1]$ its leaves cut out, splitting each interval in half at
---   each node. So $\mathcal{T}$ is never built as a graph, and the source's observation that the
---   leaves of a $\mathcal{T}$-tree are the intervals of a standard dyadic partition becomes
---   something to prove rather than something given.
+--   p. 219: “There is a *tree of standard dyadic intervals*, $\mathcal{T}$, which is defined as
+--   follows. The vertices of $\mathcal{T}$ are the standard dyadic intervals in $[0,1]$. An edge of
+--   $\mathcal{T}$ is a pair $(I,J)$ of standard dyadic intervals $I$ and $J$ such that either $I$ is
+--   the left half of $J$, in which case $(I,J)$ is a left edge, or $I$ is the right half of $J$, in
+--   which case $(I,J)$ is a right edge.” And p. 219: “Define a *$\mathcal{T}$-tree* to be a finite
+--   ordered rooted binary subtree of $\mathcal{T}$ with root $[0,1]$.” The type also serves as the
+--   source's $\mathcal{T}$-tree. Here the halving is not carried by the type: it is supplied by a
+--   function sending a $\mathcal{T}$-tree to the list of breakpoints of the partition of $[0,1]$ its
+--   leaves cut out, splitting each interval in half at each node. So $\mathcal{T}$ is never built as
+--   a graph.
 --
---   Also defined for a tree: its number of leaves; the **length of its right side**, the maximal
---   arc of right edges from the root, counted in edges; the tree $\mathcal{T}_n$ with $n+1$ leaves
---   whose right side has length $n$; and whether its last two leaves lie in a common caret.
+--   p. 220: “It is easy to see that the leaves of a $\mathcal{T}$-tree are the intervals of a standard
+--   dyadic partition. Conversely, the intervals of a standard dyadic partition determine finitely
+--   many vertices of $\mathcal{T}$, and it is easy to see that these vertices are the leaves of their
+--   convex hull, which is a $\mathcal{T}$-tree. Thus there is a canonical bijection between standard
+--   dyadic partitions and $\mathcal{T}$-trees.” Since $\mathcal{T}$ is never built as a graph, the
+--   first of these sentences becomes something to prove rather than something given.
 --
---   **Exponents.** The source defines the $k$th *exponent* of a tree to be the length of the
---   maximal arc of left edges beginning at the $k$th leaf which does not reach the right side of
---   the tree (p. 222). Read structurally that counts the upward run of "is a left child" steps from
---   the $k$th leaf, stopped before the first vertex lying on the right side, and it is given here by
---   a recursion on the tree. The clause about the right side is not decoration: a leaf may be a left
+--   Also defined on the type:
+--
+--   - p. 218: “Vertices with valence 0 (in case of the trivial tree) or 1 in $S$ will be called
+--     *leaves* of $S$.” Defined here: the number of leaves.
+--   - p. 218: “The *right side* of $S$ is the maximal arc of right edges in $S$ which begins at the
+--     root of $S$.” Defined here: the **length of the right side**, counted in edges.
+--   - p. 219: “For every nonnegative integer $n$, let $\mathcal{T}_n$ be the $\mathcal{T}$-tree with
+--     $n + 1$ leaves whose right side has length $n$.” Defined here: $\mathcal{T}_n$ itself.
+--   - p. 220: “Define a *caret* to be an ordered rooted binary subtree of $\mathcal{T}$ with exactly
+--     two edges.” Defined here: whether the last two leaves of a $\mathcal{T}$-tree lie in a common
+--     caret.
+--
+--   **Exponents.** p. 222: “Define the *exponents* of a $\mathcal{T}$-tree $S$ as follows. Let
+--   $I_0, \dots, I_n$ be the leaves of $S$ in order. For every integer $k$ with $0 \le k \le n$ let
+--   $a_k$ be the length of the maximal arc of left edges in $S$ which begins at $I_k$ and which does
+--   not reach the right side of $S$. Then $a_k$ is the $k^{\text{th}}$ *exponent* of $S$.” Read
+--   structurally that counts the upward run of "is a left child" steps from the $k$th leaf $I_k$,
+--   stopped before the first vertex lying on the right side, and it is given here by a recursion on
+--   the $\mathcal{T}$-tree. The clause about the right side is not decoration: a leaf may be a left
 --   child and still have exponent $0$, when the single left edge above it ends on the right side.
---   The recursion is checked against the source's worked Example 2.4, whose tree has exponents
---   $2,1,0,0,1,2,0,0,0,0$; that check is part of this file.
+--   The recursion is checked against the source's worked Example 2.4, whose $\mathcal{T}$-tree has
+--   exponents $2,1,0,0,1,2,0,0,0,0$; that check is part of this file.
 -- source:
 --   Cannon, J. W., Floyd, W. J., Parry, W. R., Introductory notes on Richard Thompson's groups, L'Enseignement Mathematique (2) 42 (1996) 215-256, https://doi.org/10.5169/seals-87877, section 2 pp. 218-222 (trees, T-trees, carets, exponents)
 

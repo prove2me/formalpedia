@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_LawInvariant_theorem5_star_shaped_law_invariant_iff
 -- name    : StarShapedRisk.LawInvariant.theorem5_star_shaped_law_invariant_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:11:57.103+00:00
 -- url     : https://prove2.me/theorems/99ae38ab-bba1-4e64-ae96-dc0de7bde804

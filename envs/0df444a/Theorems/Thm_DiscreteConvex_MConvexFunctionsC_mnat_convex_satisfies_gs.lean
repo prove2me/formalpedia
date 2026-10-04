@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_mnat_convex_satisfies_gs
 -- name    : DiscreteConvex.MConvexFunctionsC.mnat_convex_satisfies_gs
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:39:08.164838+00:00
 -- url     : https://prove2.me/theorems/f6a00a06-7d5e-4d9c-b109-c362732d88ea

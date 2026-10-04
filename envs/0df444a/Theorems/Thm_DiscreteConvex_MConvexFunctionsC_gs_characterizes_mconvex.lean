@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_gs_characterizes_mconvex
 -- name    : DiscreteConvex.MConvexFunctionsC.gs_characterizes_mconvex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:43:20.212451+00:00
 -- url     : https://prove2.me/theorems/876d9683-71a7-482b-ab50-de2116c85dac

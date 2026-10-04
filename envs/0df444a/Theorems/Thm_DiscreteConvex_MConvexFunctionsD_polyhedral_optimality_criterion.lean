@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_polyhedral_optimality_criterion
 -- name    : DiscreteConvex.MConvexFunctionsD.polyhedral_optimality_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:56:28.986007+00:00
 -- url     : https://prove2.me/theorems/9944985e-3bd9-4dae-8417-5f11b670db3b

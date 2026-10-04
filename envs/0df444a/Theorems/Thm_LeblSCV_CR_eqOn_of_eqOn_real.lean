@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_CR_eqOn_of_eqOn_real
 -- name    : LeblSCV.CR.eqOn_of_eqOn_real
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:26:36.487975+00:00
 -- url     : https://prove2.me/theorems/646a66fa-c5b3-4f52-991a-e30cae20d694

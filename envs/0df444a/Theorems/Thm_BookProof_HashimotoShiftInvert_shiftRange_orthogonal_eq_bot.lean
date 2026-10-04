@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_shiftRange_orthogonal_eq_bot
 -- name    : BookProof.HashimotoShiftInvert.shiftRange_orthogonal_eq_bot
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:43:05.620325+00:00
 -- url     : https://prove2.me/theorems/7120b4f1-0e9f-4a86-a5e4-98ed4a6c7971

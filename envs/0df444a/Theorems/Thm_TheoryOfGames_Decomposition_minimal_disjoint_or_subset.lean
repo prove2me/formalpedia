@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_minimal_disjoint_or_subset
 -- name    : TheoryOfGames.Decomposition.minimal_disjoint_or_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:31:20.261616+00:00
 -- url     : https://prove2.me/theorems/274eda32-f472-4472-bec5-971fb335f160

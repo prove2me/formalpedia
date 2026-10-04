@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FeedforwardStability_hlsps_fluid_model_stable
 -- name    : ProcessingNetworks.FeedforwardStability.hlsps_fluid_model_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:06:40.22842+00:00
 -- url     : https://prove2.me/theorems/8a396c0d-96a7-476e-a822-adce7ebff97b

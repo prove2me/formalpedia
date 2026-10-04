@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_ListScheduling_eq_8_12_machines_times_max_ae
 -- name    : NumStochOpt.ListScheduling.eq_8_12_machines_times_max_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:03:55.487591+00:00
 -- url     : https://prove2.me/theorems/e0e3cac9-5963-4371-98d2-a1fd35250911

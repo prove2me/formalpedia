@@ -9,21 +9,40 @@
 -- statement:
 --   Wolf's definitions, which Milnor's addendum also uses, on top of the published `Chou.wordBall`.
 --
---   - `growthFunction S m`: Wolf's $g_S(m)$, the number of elements expressible as words of length
---     $\le m$ based on the finite set $S$, taken as the size of the ball of radius $m$ (products of at
---     most $m$ factors from $S \cup S^{-1}$).
---   - `HasPolynomialGrowthOfDegreeLE G E`: for some finite generating set $S$ there is $c > 0$ with
---     $g_S(m) \le c\, m^E$ for every integer $m \ge 1$.
---   - `IsPolycyclic G`: there is a chain $G = A_0 \supseteq A_1 \supseteq \cdots \supseteq A_t = 1$ of
---     subgroups, each $A_{i+1}$ normal in $A_i$, with every quotient $A_i/A_{i+1}$ cyclic (finite or
---     infinite).
---   - `lcs G k`, `lcsFactor G k`, `lcsRank G k`: the lower central series $\Gamma_k$
---     ($\Gamma_0 = G$, $\Gamma_{k+1} = [\Gamma, \Gamma_k]$), the abelian group $\Gamma_k/\Gamma_{k+1}$
---     (presented as a quotient of the abelianization of $\Gamma_k$), and its $\mathbb Z$-rank $n_k$,
---     the rank of its free abelian part.
---   - `growthExponentOne G`, `growthExponentTwo G`: Wolf's $E_1 = \sum_{k=0}^{s} (k+1) n_k$ and
---     $E_2 = \sum_{k=0}^{s} 2^k n_k$, the sum running over $k < s + 1$ where $s + 1$ is the nilpotency
---     class (so both are $0$ for a group that is not nilpotent).
+--   - `growthFunction S m`, Wolf's $g_S(m)$. pp. 425–426: “Let $S$ be a finite subset of a group
+--     $\Gamma$. As usual an expression $s_1^{a_1} \cdots s_r^{a_r}$, $s_i \in S$, $a_i \in \boldsymbol{Z}$
+--     is called a *word of length $|a_1| + \cdots + |a_r|$ based on $S$*. Following Milnor [9] we define
+--     the *growth function* $g_S$ to be the function on positive integers given by (3.1) $g_S(m)$ is
+--     the number of distinct elements of $\Gamma$ expressible as words of length $\le m$ based on $S$.”
+--     Here $g_S(m)$ is taken as the size of the ball of radius $m$ (products of at most $m$ factors
+--     from $S \cup S^{-1}$).
+--   - `HasPolynomialGrowthOfDegreeLE G E`. p. 431: “Let $\Gamma$ be a finitely generated group, $S$ a
+--     finite generating set, and $E \ge 0$ an integer. If there is a constant $c > 0$ such that
+--     $g_S(m) \le cm^E$ for every integer $m \ge 1$, then we say that $\Gamma$ has *polynomial growth of
+--     degree $\le E$*. Lemma 3.5 says that this condition is independent of choice of $S$.” Here: for
+--     some finite generating set $S$ there is such a $c$.
+--   - `IsPolycyclic G`. p. 432: “A solvable group is called *polycyclic* if it satisfies the
+--     (equivalent) conditions of the following proposition.” The first condition of Proposition 4.1,
+--     p. 433: “(1) There is a normal series $\Gamma = A_0 \supset A_1 \supset \cdots \supset A_t = \{1\}$
+--     with every quotient $A_i/A_{i+1}$ finite or infinite cyclic.” Here: there is a chain
+--     $G = A_0 \supseteq A_1 \supseteq \cdots \supseteq A_t = 1$ of subgroups, each $A_{i+1}$ normal in
+--     $A_i$, with every quotient $A_i/A_{i+1}$ cyclic (finite or infinite). No solvability hypothesis is
+--     needed: such a series already makes $G$ solvable.
+--   - `lcs G k`, `lcsFactor G k`, `lcsRank G k`. p. 426, Theorem 3.2: “Let $\Gamma$ be a finitely
+--     generated nilpotent group with lower central series
+--     $\Gamma = \Gamma_0 \supsetneqq \Gamma_1 \supsetneqq \cdots \supsetneqq \Gamma_s \supsetneqq \Gamma_{s+1} = \{1\}$,
+--     $\Gamma_{k+1} = [\Gamma, \Gamma_k]$. Then each $\Gamma_k/\Gamma_{k+1}$ is a finitely generated
+--     abelian group, say $\Gamma_k/\Gamma_{k+1} = A_k \times B_k$ with $A_k$ finite abelian and $B_k$
+--     free abelian of finite rank $n_k$, and we define ‘growth exponents’ by (3.3)
+--     $E_1(\Gamma) = \sum_{k=0}^{s} (k + 1)n_k$, $E_2(\Gamma) = \sum_{k=0}^{s} 2^k n_k$.” These are the
+--     lower central series $\Gamma_k$, the abelian group $\Gamma_k/\Gamma_{k+1}$ (presented as a
+--     quotient of the abelianization of $\Gamma_k$), and its $\mathbb Z$-rank $n_k$, the rank of its
+--     free abelian part.
+--   - `growthExponentOne G`, `growthExponentTwo G`: Wolf's $E_1$ and $E_2$, defined by (3.3) at the
+--     end of the second sentence quoted in full in the previous item, whose $\Gamma$ is “a finitely
+--     generated nilpotent group” (p. 426): “$E_1(\Gamma) = \sum_{k=0}^{s} (k + 1)n_k$,
+--     $E_2(\Gamma) = \sum_{k=0}^{s} 2^k n_k$.” The sum runs over $k < s + 1$ where $s + 1$ is the
+--     nilpotency class (so both are $0$ for a group that is not nilpotent).
 --
 --   No theorem is stated here.
 -- source:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_HeatFourier_heatKernel_heat_equation
 -- name    : HunterPDE.HeatFourier.heatKernel_heat_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:58:45.627563+00:00
 -- url     : https://prove2.me/theorems/3c7f27fe-5e0f-4c2f-bb34-fff12000880a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_pick_law
 -- name    : Soar.pick_law
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T19:00:18.589954+00:00
 -- url     : https://prove2.me/theorems/aa279a95-7b0c-4359-b420-9ef7af5c827f

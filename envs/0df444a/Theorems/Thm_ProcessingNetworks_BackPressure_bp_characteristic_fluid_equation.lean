@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_bp_characteristic_fluid_equation
 -- name    : ProcessingNetworks.BackPressure.bp_characteristic_fluid_equation
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:41:07.092674+00:00
 -- url     : https://prove2.me/theorems/3f7a02af-c8c3-423a-b14e-dce63e3398e2

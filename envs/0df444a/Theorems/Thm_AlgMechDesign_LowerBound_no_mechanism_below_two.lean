@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgMechDesign_LowerBound_no_mechanism_below_two
 -- name    : AlgMechDesign.LowerBound.no_mechanism_below_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T19:00:47.367993+00:00
 -- url     : https://prove2.me/theorems/f9572473-3d06-48b6-9e44-a1da153fb1c0

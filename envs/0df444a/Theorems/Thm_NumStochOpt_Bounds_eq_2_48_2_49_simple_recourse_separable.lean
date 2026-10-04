@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_eq_2_48_2_49_simple_recourse_separable
 -- name    : NumStochOpt.Bounds.eq_2_48_2_49_simple_recourse_separable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:16:09.36942+00:00
 -- url     : https://prove2.me/theorems/2c67119f-df1c-42b4-bcc7-df79543a4d41

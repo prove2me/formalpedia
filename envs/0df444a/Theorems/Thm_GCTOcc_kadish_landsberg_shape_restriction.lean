@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GCTOcc_kadish_landsberg_shape_restriction
 -- name    : GCTOcc.kadish_landsberg_shape_restriction
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-09-14T17:35:30.715638+00:00
 -- url     : https://prove2.me/theorems/27d1ee9d-5510-4322-bd58-35d725683228

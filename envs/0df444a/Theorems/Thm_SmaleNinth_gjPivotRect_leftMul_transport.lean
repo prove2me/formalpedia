@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmaleNinth_gjPivotRect_leftMul_transport
 -- name    : SmaleNinth.gjPivotRect_leftMul_transport
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-25T10:22:58.95874+00:00
 -- url     : https://prove2.me/theorems/a71cdbcb-d54f-453c-ae9c-7ef1ca8baa0a

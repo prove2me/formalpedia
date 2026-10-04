@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_MaxCapacity_maxAug_gap_contract
 -- name    : EdmondsKarp.MaxCapacity.maxAug_gap_contract
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:20:56.915487+00:00
 -- url     : https://prove2.me/theorems/b845ed56-45ff-4a49-9543-c206600a9ed6

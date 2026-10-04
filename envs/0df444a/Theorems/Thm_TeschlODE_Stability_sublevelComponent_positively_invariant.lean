@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_sublevelComponent_positively_invariant
 -- name    : TeschlODE.Stability.sublevelComponent_positively_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T13:53:24.074258+00:00
 -- url     : https://prove2.me/theorems/af2439ca-5f8b-4839-9867-a53f0bd7326a

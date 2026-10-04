@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Subdiff_subdifferential_nonneg_combination
 -- name    : ShorNonsmooth.Subdiff.subdifferential_nonneg_combination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:42:56.245637+00:00
 -- url     : https://prove2.me/theorems/109614b1-87aa-4e8f-a8a1-13f353028069

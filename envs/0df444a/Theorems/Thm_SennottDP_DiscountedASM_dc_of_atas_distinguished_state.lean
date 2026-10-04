@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_dc_of_atas_distinguished_state
 -- name    : SennottDP.DiscountedASM.dc_of_atas_distinguished_state
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:56:35.860691+00:00
 -- url     : https://prove2.me/theorems/391c268c-5600-4459-94d0-340f7edb7634

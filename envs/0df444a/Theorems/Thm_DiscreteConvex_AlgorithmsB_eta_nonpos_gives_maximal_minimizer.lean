@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsB_eta_nonpos_gives_maximal_minimizer
 -- name    : DiscreteConvex.AlgorithmsB.eta_nonpos_gives_maximal_minimizer
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:11:46.921265+00:00
 -- url     : https://prove2.me/theorems/8f39e2de-7e51-4c3f-94ab-cd66d4025d3c

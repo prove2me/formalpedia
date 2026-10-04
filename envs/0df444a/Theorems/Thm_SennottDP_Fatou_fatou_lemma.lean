@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_fatou_lemma
 -- name    : SennottDP.Fatou.fatou_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T12:10:12.642642+00:00
 -- url     : https://prove2.me/theorems/ea312497-e67d-4193-b882-3f584ffd5961

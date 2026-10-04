@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FeedforwardStability_departure_rate_extinction
 -- name    : ProcessingNetworks.FeedforwardStability.departure_rate_extinction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:07:22.851846+00:00
 -- url     : https://prove2.me/theorems/68dc4858-d3be-4a4b-8f23-e5b08def9c3f

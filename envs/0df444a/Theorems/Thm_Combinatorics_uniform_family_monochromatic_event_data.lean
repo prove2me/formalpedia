@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Combinatorics_uniform_family_monochromatic_event_data
 -- name    : Combinatorics.uniform_family_monochromatic_event_data
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-26T19:58:00.175989+00:00
 -- url     : https://prove2.me/theorems/bad8193e-ae91-4c4f-82ed-c71382f4ea97

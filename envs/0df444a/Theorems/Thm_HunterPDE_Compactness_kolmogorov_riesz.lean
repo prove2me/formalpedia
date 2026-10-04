@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_kolmogorov_riesz
 -- name    : HunterPDE.Compactness.kolmogorov_riesz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:55:37.623966+00:00
 -- url     : https://prove2.me/theorems/f84c9343-8b0e-4a85-ab97-df3235a89ad4

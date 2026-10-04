@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_majority_error_le_twelve
 -- name    : OptimalPAC.SampleComplexity.majority_error_le_twelve
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:29:19.294921+00:00
 -- url     : https://prove2.me/theorems/6edfc126-b691-4955-b3d5-63c1a6cbb96a

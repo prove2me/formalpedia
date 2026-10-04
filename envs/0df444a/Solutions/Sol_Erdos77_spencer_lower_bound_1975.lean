@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos77.spencer_lower_bound_1975
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:29:24.547981+00:00
 -- url     : https://prove2.me/submissions/cc3f2664-fd46-4d72-b7e0-00dd57a824a0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_Erdos77_diagonal_ramsey
 import Theorems.Thm_Erdos77_spencer_1975_lll_bad_graph_criterion

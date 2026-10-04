@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Feynman1948_fresnel_first_moment
 -- name    : Feynman1948.fresnel_first_moment
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T16:09:51.94198+00:00
 -- url     : https://prove2.me/theorems/d5ea0cc1-81b1-41f3-98e3-5667e7e64606

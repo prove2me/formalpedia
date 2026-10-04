@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_completeness_relation
 -- name    : ReflectionlessPotential.completeness_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-19T20:00:06.715799+00:00
 -- url     : https://prove2.me/theorems/9169aece-4ca0-4718-87d8-d8d42d646b97

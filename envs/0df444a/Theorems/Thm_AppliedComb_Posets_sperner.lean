@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Posets_sperner
 -- name    : AppliedComb.Posets.sperner
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:06:29.304008+00:00
 -- url     : https://prove2.me/theorems/36a4f69e-73f2-4398-b0e5-f5ae49778471

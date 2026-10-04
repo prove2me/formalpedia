@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_log_one_add_div_antitone
 -- name    : BJNAdAuctions.Basic.log_one_add_div_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T16:28:03.872348+00:00
 -- url     : https://prove2.me/theorems/be5d4a2b-f172-4310-bdcd-659dbb12a828

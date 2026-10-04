@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_mconvex_satisfies_gs
 -- name    : DiscreteConvex.MConvexFunctionsC.mconvex_satisfies_gs
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:30:24.550045+00:00
 -- url     : https://prove2.me/theorems/6bd1b0b2-bbf5-409d-b4fa-e21f1f054884

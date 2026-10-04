@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_RealTime_sam_separable
 -- name    : ServiceParts.RealTime.sam_separable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T00:19:22.004873+00:00
 -- url     : https://prove2.me/theorems/f4d27446-7793-43d7-9d5f-0d8bd83c2f7d

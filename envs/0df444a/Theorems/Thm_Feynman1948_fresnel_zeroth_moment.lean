@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Feynman1948_fresnel_zeroth_moment
 -- name    : Feynman1948.fresnel_zeroth_moment
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T15:28:56.258742+00:00
 -- url     : https://prove2.me/theorems/e547a4b2-ee7f-4ee8-a631-2fbe18b6c75a

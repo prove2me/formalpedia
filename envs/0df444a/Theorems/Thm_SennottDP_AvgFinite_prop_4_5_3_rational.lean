@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_prop_4_5_3_rational
 -- name    : SennottDP.AvgFinite.prop_4_5_3_rational
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:23:29.899568+00:00
 -- url     : https://prove2.me/theorems/cd91a395-fbc9-407c-9ec7-322d6ebc9220

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_peano_existence
 -- name    : TeschlODE.IVP.peano_existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:53:37.69955+00:00
 -- url     : https://prove2.me/theorems/c1d8cde9-7340-40fc-bf86-dfaf20fc14ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_only_dimensionless_variations_measurable
 -- name    : VaryingConstants.only_dimensionless_variations_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T03:06:36.031202+00:00
 -- url     : https://prove2.me/theorems/cc54b262-45f7-4ac0-afa2-2ccbfc843dab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_dc_of_augmentation_condition
 -- name    : SennottDP.DiscountedASM.dc_of_augmentation_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:58:17.011393+00:00
 -- url     : https://prove2.me/theorems/f9cd0f74-f314-43aa-9a15-e70e7fa43055

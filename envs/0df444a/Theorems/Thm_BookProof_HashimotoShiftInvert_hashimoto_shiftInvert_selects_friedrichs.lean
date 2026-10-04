@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_hashimoto_shiftInvert_selects_friedrichs
 -- name    : BookProof.HashimotoShiftInvert.hashimoto_shiftInvert_selects_friedrichs
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T10:02:40.510039+00:00
 -- url     : https://prove2.me/theorems/2e4f603a-eed4-493b-8e68-c0189f1e5aa6

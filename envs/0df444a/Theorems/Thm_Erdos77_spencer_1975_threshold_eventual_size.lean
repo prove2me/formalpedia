@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_1975_threshold_eventual_size
 -- name    : Erdos77.spencer_1975_threshold_eventual_size
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T14:04:35.642844+00:00
 -- url     : https://prove2.me/theorems/90a1033a-f6ea-41d0-b9b8-37d4c1ce63e1

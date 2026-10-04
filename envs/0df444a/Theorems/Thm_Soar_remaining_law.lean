@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_remaining_law
 -- name    : Soar.remaining_law
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T19:01:15.316498+00:00
 -- url     : https://prove2.me/theorems/2390008d-d17f-4ed6-afc2-47c1298a0f0c

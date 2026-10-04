@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_relaxed_bp_extended_fluid_equations
 -- name    : ProcessingNetworks.BackPressure.relaxed_bp_extended_fluid_equations
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:54:59.376022+00:00
 -- url     : https://prove2.me/theorems/b9070dd2-a5fb-432e-96b1-1051f5c6b17b

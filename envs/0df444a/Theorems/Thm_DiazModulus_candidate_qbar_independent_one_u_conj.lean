@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_candidate_qbar_independent_one_u_conj
 -- name    : DiazModulus.candidate_qbar_independent_one_u_conj
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-02T11:28:57.936882+00:00
 -- url     : https://prove2.me/theorems/3752afd3-faa1-4ba9-a355-bd1b0ed1754c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Bellman_reward_iteration
 -- name    : MDPFinance.Bellman.reward_iteration
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:13:17.029473+00:00
 -- url     : https://prove2.me/theorems/cde05f0a-e72f-4c66-aa79-5a33d4b786ca

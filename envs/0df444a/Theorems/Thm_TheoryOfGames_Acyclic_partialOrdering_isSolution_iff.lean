@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Acyclic_partialOrdering_isSolution_iff
 -- name    : TheoryOfGames.Acyclic.partialOrdering_isSolution_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:53:29.244697+00:00
 -- url     : https://prove2.me/theorems/49762c65-af68-46ec-8004-de498c3918c7

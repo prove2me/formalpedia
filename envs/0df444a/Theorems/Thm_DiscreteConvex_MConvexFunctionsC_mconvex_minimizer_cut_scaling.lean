@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_mconvex_minimizer_cut_scaling
 -- name    : DiscreteConvex.MConvexFunctionsC.mconvex_minimizer_cut_scaling
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:30:38.8721+00:00
 -- url     : https://prove2.me/theorems/82c69de2-db54-425f-9d3f-13cd9bfa8826

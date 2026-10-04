@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_InclExcl_surj_N_eq
 -- name    : AppliedComb.InclExcl.surj_N_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:09:32.125468+00:00
 -- url     : https://prove2.me/theorems/30819acb-6340-4023-b7e5-9e88db8fa29a

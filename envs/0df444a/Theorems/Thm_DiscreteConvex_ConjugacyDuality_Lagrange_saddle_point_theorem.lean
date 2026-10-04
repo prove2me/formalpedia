@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDuality_Lagrange_saddle_point_theorem
 -- name    : DiscreteConvex.ConjugacyDuality.Lagrange.saddle_point_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:16:38.023999+00:00
 -- url     : https://prove2.me/theorems/fab4ec3e-ed2b-4081-90bf-51f86080fe15

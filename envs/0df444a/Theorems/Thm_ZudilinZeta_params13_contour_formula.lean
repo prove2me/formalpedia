@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZudilinZeta_params13_contour_formula
 -- name    : ZudilinZeta.params13_contour_formula
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-02T09:05:15.889562+00:00
 -- url     : https://prove2.me/theorems/46c0629d-60fd-42f8-945c-253c58f85a7a

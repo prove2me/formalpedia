@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Lubbecke2005_Discretization_discretization
 -- name    : Lubbecke2005.Discretization.discretization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:01:14.674084+00:00
 -- url     : https://prove2.me/theorems/a666d4b5-172d-4022-b600-2060b7dcf753

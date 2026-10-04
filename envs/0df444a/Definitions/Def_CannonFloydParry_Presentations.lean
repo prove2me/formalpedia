@@ -10,19 +10,27 @@
 --   The formal side of §3, on top of the published bundles for $F$ (§1) and for tree
 --   diagrams and words (§2).
 --
---   Throughout, $[x, y] = x y x^{-1} y^{-1}$ is the source's convention; relators are written out in
---   that form rather than with a bracket.
+--   p. 225: “Given elements $x$, $y$ in a group, $[x, y] = xyx^{-1}y^{-1}$.” Relators are written out
+--   in that form throughout, rather than with a bracket.
 --
---   - `FormalAB`: a two-element type, the formal symbols $A$ and $B$.
---   - `relsF1`: the two relators $[AB^{-1}, A^{-1}BA]$ and $[AB^{-1}, A^{-2}BA^{2}]$ in the free group on
---     `FormalAB`; `F1` is the presented group $F_1 = \langle A, B : [AB^{-1}, A^{-1}BA],\ [AB^{-1},
---     A^{-2}BA^{2}]\rangle$, i.e. the free group modulo the normal closure of `relsF1`.
---   - `relsF2`: the words $X_k^{-1} X_n X_k X_{n+1}^{-1}$ for all $k < n$ in the free group on
---     $\mathbb{N}$; `F2` is $F_2 = \langle X_0, X_1, \dots : X_k^{-1} X_n X_k = X_{n+1} \text{ for } k < n \rangle$.
+--   - p. 225: “The generators $A, B, X_0, X_1, X_2, \ldots$ will be referred to as *formal symbols*, as
+--     opposed to the functions defined above.” `FormalAB`: a two-element type, the formal symbols $A$
+--     and $B$.
+--   - p. 225: “Now two groups $F_1$ and $F_2$ will be defined by generators and relations.” The first
+--     of the two displays that follow: “$F_1 = \langle A, B : [AB^{-1}, A^{-1}BA], [AB^{-1},
+--     A^{-2}BA^2]\rangle$”. `relsF1`: the two relators $[AB^{-1}, A^{-1}BA]$ and
+--     $[AB^{-1}, A^{-2}BA^{2}]$ in the free group on `FormalAB`; `F1` is the presented group $F_1$,
+--     i.e. the free group modulo the normal closure of `relsF1`.
+--   - p. 225, the second display: “$F_2 = \langle X_0, X_1, X_2, \ldots : X_k^{-1}X_nX_k = X_{n+1}
+--     \text{ for } k < n\rangle$”. `relsF2`: the words $X_k^{-1} X_n X_k X_{n+1}^{-1}$ for all $k < n$
+--     in the free group on $\mathbb{N}$; `F2` is this presented group $F_2$.
 --   - `symF2 : FormalAB → F2` sends $A \mapsto X_0$, $B \mapsto X_1$; `symF` sends $A$, $B$ to the
---     functions `mapA`, `mapB` of the §1 bundle.
---   - `Y : ℕ → F1`: $Y_0 = A$ and $Y_{n} = A^{-(n-1)} B A^{n-1}$ for $n \ge 1$, the source's elements of
---     $F_1$ intended as images of the $X_n$.
+--     functions `mapA`, `mapB` of the §1 bundle. Neither map has a defining sentence on p. 225.
+--   - p. 225, in the proof of Theorem 3.1: “To prove this it in turn suffices, after setting $Y_0 = A$
+--     and $Y_n = A^{-(n-1)}BA^{n-1}$ for $n \ge 1$, to prove that (3.2) $Y_k^{-1}Y_nY_k = Y_{n+1}$ for
+--     $k < n$.” Here “this” is the existence of a group homomorphism from $F_2$ to $F_1$ mapping $X_0$
+--     to $A$ and $X_1$ to $B$. `Y : ℕ → F1`: $n \mapsto Y_n$, the source's elements of $F_1$ intended
+--     as images of the $X_n$.
 --   - `wordFromF2`, `wordF2`: the positive word $X_0^{c_0} X_1^{c_1} \cdots X_n^{c_n}$ in $F_2$
 --     determined by a list of exponents, mirroring `wordFrom` and `word` of the §2 bundle.
 --

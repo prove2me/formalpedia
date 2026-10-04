@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Combining_punish_count_le_cost
 -- name    : CompetitivePaging.Combining.punish_count_le_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:23:09.326845+00:00
 -- url     : https://prove2.me/theorems/9b077633-729b-43f6-962a-bd73b170a5a7

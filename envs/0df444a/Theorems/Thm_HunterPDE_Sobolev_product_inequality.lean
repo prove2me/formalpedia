@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_product_inequality
 -- name    : HunterPDE.Sobolev.product_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T06:48:25.304989+00:00
 -- url     : https://prove2.me/theorems/bd8463b4-b847-4de4-99b7-e60118871c8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SmaleNinth_paired_pivot_ratio
 -- name    : SmaleNinth.paired_pivot_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-24T12:47:14.46995+00:00
 -- url     : https://prove2.me/theorems/054fce44-2d1e-4d65-9c3f-9d4b463c23a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_GeneralDisjunctions_standard_intersection_cuts_complete
 -- name    : Disjunctive.GeneralDisjunctions.standard_intersection_cuts_complete
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:59:22.115429+00:00
 -- url     : https://prove2.me/theorems/c6404557-45cc-439a-b666-991ebb7e5a44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Subdiff_dirDeriv_eq_max_subgradient
 -- name    : ShorNonsmooth.Subdiff.dirDeriv_eq_max_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:18:08.393241+00:00
 -- url     : https://prove2.me/theorems/1ad7b3c1-fe86-4cba-946c-1841cac85d36

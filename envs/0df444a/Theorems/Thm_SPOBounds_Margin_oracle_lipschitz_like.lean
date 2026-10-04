@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPOBounds_Margin_oracle_lipschitz_like
 -- name    : SPOBounds.Margin.oracle_lipschitz_like
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:32:44.958658+00:00
 -- url     : https://prove2.me/theorems/a7c692ce-63e0-4688-810f-b14ddd20a936

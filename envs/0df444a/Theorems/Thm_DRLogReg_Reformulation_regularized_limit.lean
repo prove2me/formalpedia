@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRLogReg_Reformulation_regularized_limit
 -- name    : DRLogReg.Reformulation.regularized_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:36:00.853235+00:00
 -- url     : https://prove2.me/theorems/4259914d-7500-41f4-824d-e0b0a35896af

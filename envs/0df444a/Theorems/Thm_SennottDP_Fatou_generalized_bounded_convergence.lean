@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_generalized_bounded_convergence
 -- name    : SennottDP.Fatou.generalized_bounded_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T12:34:21.672864+00:00
 -- url     : https://prove2.me/theorems/0eb28a6a-ac57-467b-9d4f-021fc1444927

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestConnection_Principles_distinct_lengths_links_in_every_sss
 -- name    : ShortestConnection.Principles.distinct_lengths_links_in_every_sss
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:57:28.569831+00:00
 -- url     : https://prove2.me/theorems/474f555f-8bc5-46fe-b0a3-80393f233e52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolygonalArcEndpointDiskCappedTaperModel
 -- name    : PolygonalArcEndpointDiskCappedTaperModel
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-28T06:34:09.909025+00:00
 -- url     : https://prove2.me/theorems/cb37e7ed-42ff-43c3-93af-4482f658f58b

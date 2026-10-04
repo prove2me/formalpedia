@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_quasi_submodular_hierarchy
 -- name    : DiscreteConvex.LConvexFunctionsD.quasi_submodular_hierarchy
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:04:08.139608+00:00
 -- url     : https://prove2.me/theorems/85d7a9bc-add2-432f-8607-6eb65fcab27a

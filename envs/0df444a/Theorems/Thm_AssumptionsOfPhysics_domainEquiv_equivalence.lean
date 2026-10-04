@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_domainEquiv_equivalence
 -- name    : AssumptionsOfPhysics.domainEquiv_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T11:15:10.935291+00:00
 -- url     : https://prove2.me/theorems/310b12b4-e419-45c8-8b94-2ea521ce418b

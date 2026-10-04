@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_index_p_source_not_p
 -- name    : OddPerfectNumber.Kernel.five_index_p_source_not_p
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T17:01:03.434368+00:00
 -- url     : https://prove2.me/theorems/3fd810e5-23b1-47af-b963-df29ae5cd128

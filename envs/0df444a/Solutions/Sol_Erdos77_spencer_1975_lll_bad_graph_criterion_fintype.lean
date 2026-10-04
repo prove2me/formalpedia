@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos77.spencer_1975_lll_bad_graph_criterion_fintype
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T13:20:20.127364+00:00
 -- url     : https://prove2.me/submissions/acc86d6d-443c-44ae-bf5a-3a801e4ceef3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Erdos77_spencer_1975_lll_bad_graph_criterion_fin_core
 

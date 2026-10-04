@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Graphs_eulerian_iff
 -- name    : AppliedComb.Graphs.eulerian_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:01:47.364925+00:00
 -- url     : https://prove2.me/theorems/ff6b9d2c-810a-4a77-92bb-3b905412b933

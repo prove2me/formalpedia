@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonMilman_PropertyT_rayleigh_cayley
 -- name    : AlonMilman.PropertyT.rayleigh_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:33:53.597911+00:00
 -- url     : https://prove2.me/theorems/6fd7d0c5-d6eb-4e20-91a2-1da2b49b764b

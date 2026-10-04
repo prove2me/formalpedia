@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Free_fourier_gaussian
 -- name    : TeschlQM.Free.fourier_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T00:18:56.725135+00:00
 -- url     : https://prove2.me/theorems/a3cdb05c-fc59-49ad-9610-c14e5245ba16

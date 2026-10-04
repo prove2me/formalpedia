@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_hydrogen_energy_unbounded_below
 -- name    : TegmarkDimensionality.hydrogen_energy_unbounded_below
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T03:06:28.916563+00:00
 -- url     : https://prove2.me/theorems/ef30a3d1-f5db-4057-9997-9b3f6f5c1f59

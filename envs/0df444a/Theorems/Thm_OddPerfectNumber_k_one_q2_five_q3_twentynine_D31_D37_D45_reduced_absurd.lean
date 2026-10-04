@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_k_one_q2_five_q3_twentynine_D31_D37_D45_reduced_absurd
 -- name    : OddPerfectNumber.k_one_q2_five_q3_twentynine_D31_D37_D45_reduced_absurd
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-15T23:06:50.475767+00:00
 -- url     : https://prove2.me/theorems/5bef92e0-b298-4ab2-bde6-7f98533f8f45

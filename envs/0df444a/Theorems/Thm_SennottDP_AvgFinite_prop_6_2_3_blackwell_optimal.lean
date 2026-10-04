@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_prop_6_2_3_blackwell_optimal
 -- name    : SennottDP.AvgFinite.prop_6_2_3_blackwell_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:47:17.918354+00:00
 -- url     : https://prove2.me/theorems/aa960856-403d-4aa2-b17c-71c35096baaf

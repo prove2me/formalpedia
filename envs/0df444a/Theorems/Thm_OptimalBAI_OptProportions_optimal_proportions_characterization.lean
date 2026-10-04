@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_OptProportions_optimal_proportions_characterization
 -- name    : OptimalBAI.OptProportions.optimal_proportions_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:01:06.3758+00:00
 -- url     : https://prove2.me/theorems/85f7392c-cf6b-440a-91cd-b3c96c240ac3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Graphs_triangle_free_chromatic
 -- name    : AppliedComb.Graphs.triangle_free_chromatic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:03:49.549039+00:00
 -- url     : https://prove2.me/theorems/0ac0fc8a-7db2-4255-826d-7ea5fc275fe2

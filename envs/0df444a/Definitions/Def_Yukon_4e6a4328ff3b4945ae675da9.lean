@@ -1,0 +1,873 @@
+-- Prove2me | Definitions.Def_Yukon_4e6a4328ff3b4945ae675da9
+-- name    : Yukon_4e6a4328ff3b4945ae675da9
+-- status  : Definition
+-- author  : @yukon
+-- created : 2026-10-02T20:38:23.239011+00:00
+-- url     : https://prove2.me/theorems/35ac4cda-76db-46b4-bce8-7fbf622563fe
+-- title:
+--   YukonModule.ProximityPrize.SubmissionLower.RelativeCertR12B50T3814To3896Fast.part0
+-- statement:
+--   Source module ProximityPrize.SubmissionLower.RelativeCertR12B50T3814To3896Fast. Reviewed historical port from Lean 4.32.2 to 4.33.1: compatible proof bodies, equivalent notation expansion, and omission of unused tooling/declarations. Retained statements and mathematical definitions preserve the original meaning. Original source: https://github.com/proximity-prize/proximity-prize/blob/9008f0e2b2edb0647da15baac454a68072f0ba29/ProximityPrize/SubmissionLower/RelativeCertR12B50T3814To3896Fast.lean
+-- source:
+--   https://github.com/proximity-prize/proximity-prize/blob/9008f0e2b2edb0647da15baac454a68072f0ba29/ProximityPrize/SubmissionLower/RelativeCertR12B50T3814To3896Fast.lean
+--
+--   yukon-proof-operation:certificate-split-d29f85676674439285086db2c074038332db099790a11ad23e1ed4e513769ded
+--   [yukon-proof-receipt:eyJlbnZpcm9ubWVudCI6eyJtYXRobGliUmV2IjoiMGRmNDQ0YTM2MGVhYTYwYWI4YzExZGNhNTFhODZhZjY5Mjk1NTQ3NCIsInRvb2xjaGFpbiI6ImxlYW5wcm92ZXIvbGVhbjQ6djQuMzMuMSJ9LCJoYXNoIjoiZDE3YTI2MzliODU5ZGEzY2Q5NzY1OWNhMjY2NWVlYzUxMzIxOTA5Y2ZkYzFjYjM1NGZjZjMyZjI1MzY3M2MwZSIsImtpbmQiOiJkZWZpbml0aW9uIiwibWFya2VyIjoieXVrb24tcHJvb2Ytb3BlcmF0aW9uOmNlcnRpZmljYXRlLXNwbGl0LWQyOWY4NTY3NjY3NDQzOTI4NTA4NmRiMmMwNzQwMzgzMzJkYjA5OTc5MGExMWFkMjNlMWVkNGU1MTM3NjlkZWQiLCJ0YWciOiJiZXR0ZXItY29kZXMiLCJ0YXJnZXQiOiJZdWtvbl80ZTZhNDMyOGZmM2I0OTQ1YWU2NzVkYTkiLCJ2IjoyfQ]
+
+import Definitions.Def_Yukon_e757298719adf05c20287f89
+
+import Definitions.Def_Yukon_cbec7e77278d6cd55c45cb0f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set_option backward.isDefEq.respectTransparency.types false
+/-! Saved witness SHA256: c0bcc88858b8ca7cebabc3de30108287a88f3d13abff33df35c014d9625eee74.
+Each row and both total endpoints are kernel checked; the generic
+proof covers every intermediate total and the infinite weight tail. -/
+namespace ProximityPrize.SubmissionLower.RelativeCertR12B50T3814To3896Fast
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+set_option maxRecDepth 50000
+set_option Elab.async false
+open RelativeCertificate6814
+
+def band : Band := ⟨12,50,3814,3896,11887928042267056⟩
+
+def p1 (l h x y u:Nat):Rectangle:=⟨l,h,4134,1,1270,x,y,u⟩
+def p2 (l h x y u:Nat):Rectangle:=⟨l,h,8268,2,2540,x,y,u⟩
+def p4 (l h x y u:Nat):Rectangle:=⟨l,h,16536,4,5080,x,y,u⟩
+def p8 (l h x y u:Nat):Rectangle:=⟨l,h,33072,8,10160,x,y,u⟩
+def p206 (l h x y u:Nat):Rectangle:=⟨l,h,41518,250,10158,x,y,u⟩
+def r0:=p1 6553538 6698353 10163 10315 5667
+def r1:=p1 6698354 6843168 10162 10332 5666
+def r2:=p1 6843169 6987983 10160 10332 5665
+def r3:=p1 6987984 7132798 10157 10330 5664
+def r4:=p1 7132799 7277614 10154 10326 5663
+def r5:=p4 7277615 7422429 29020 29425 22649
+def r6:=p1 7422430 7494837 10160 10335 5661
+def r7:=p1 7494838 7567244 10157 10333 5660
+def r8:=p1 7567245 7639652 10155 10330 5660
+def r9:=p2 7639653 7712059 16445 16714 11319
+def r10:=p4 7712060 7784467 29021 29438 22635
+def r11:=p1 7784468 7820671 10157 10332 5658
+def r12:=p2 7820672 7856875 16448 16721 11316
+def r13:=p2 7856876 7893079 16446 16718 11315
+def r14:=p4 7893080 7929283 29025 29431 22630
+def r15:=p8 7929284 7965487 54179 54839 45258
+def r16:=p2 7965488 7983589 16446 16719 11314
+def r17:=p2 7983590 8001690 16446 16717 11313
+def r18:=p4 8001691 8019792 29025 29434 22627
+def r19:=p4 8019793 8037894 29024 29441 22626
+def r20:=p8 8037895 8055996 54180 54845 45251
+def r21:=p4 8055997 8065047 29025 29436 22625
+def r22:=p4 8065048 8074098 29024 29439 22625
+def r23:=p4 8074099 8083149 29024 29442 22624
+def r24:=p8 8083150 8092200 54181 54842 45249
+def r25:=p8 8092201 8101251 54181 54848 45248
+def r26:=p4 8101252 8105777 29024 29443 22624
+def r27:=p8 8105778 8110302 54182 54840 45247
+def r28:=p8 8110303 8114828 54182 54843 45247
+def r29:=p8 8114829 8119353 54181 54847 45247
+def r30:=p8 8119354 8123879 54181 54850 45246
+def r31:=p206 8123880 8128404 2985277 2982910 42169
+def r32:=p206 8128405 8132930 2977571 2983312 42160
+def r33:=p206 8132931 8137455 2971857 2983669 42151
+def r34:=p206 8137456 8141980 2968192 2984119 42143
+def r35:=p206 8141981 8146505 2965669 2984614 42134
+def r36:=p206 8146506 8151031 2964037 2985169 42125
+def r37:=p206 8151032 8155556 2962692 2985700 42117
+def r38:=p206 8155557 8160082 2962115 2986339 42108
+def r39:=p206 8160083 8164607 2961484 2986918 42100
+def r40:=p206 8164608 8169133 2961523 2987629 42091
+def r41:=p206 8169134 8173658 2961418 2988275 42082
+def r42:=p206 8173659 8178184 2961754 2989022 42074
+def r43:=p206 8178185 8182709 2962063 2989747 42065
+def r44:=p206 8182710 8187235 2962623 2990536 42056
+def r45:=p206 8187236 8191760 2963106 2992390 42048
+def r46:=p206 8191761 8196286 2963944 2994942 42039
+def r47:=p206 8196287 8200811 2964544 2997093 42031
+def r48:=p206 8200812 8205337 2965466 2999431 42022
+def r49:=p206 8205338 8209862 2966284 3001542 42013
+def r50:=p206 8209863 8214388 2967254 3003703 42005
+def r51:=p206 8214389 8218913 2968161 3005708 41996
+def r52:=p206 8218914 8223439 2969256 3007820 41987
+def r53:=p206 8223440 8227964 2970198 3009704 41979
+def r54:=p206 8227965 8232490 2971373 3011759 41970
+def r55:=p206 8232491 8237015 2972397 3013601 41961
+def r56:=p206 8237016 8241541 2973580 3015553 41953
+def r57:=p206 8241542 8246066 2974686 3017379 41944
+def r58:=p206 8246067 8250592 2975913 3019285 41936
+def r59:=p206 8250593 8255117 2977040 3021049 41927
+def r60:=p206 8255118 8259643 2978316 3022930 41918
+def r61:=p206 8259644 8264168 2979484 3024667 41910
+def r62:=p206 8264169 8268694 2980788 3026513 41901
+def r63:=p206 8268695 8273219 2981982 3028219 41892
+def r64:=p206 8273220 8277745 2983313 3030039 41884
+def r65:=p206 8277746 8282270 2984552 3031742 41875
+def r66:=p206 8282271 8286795 2985830 3033462 41867
+def r67:=p206 8286796 8291320 2987149 3035205 41858
+def r68:=p206 8291321 8295846 2988511 3036973 41849
+def r69:=p206 8295847 8300371 2989779 3038627 41841
+def r70:=p206 8300372 8304897 2991179 3040399 41832
+def r71:=p206 8304898 8309422 2992463 3042039 41823
+def r72:=p206 8309423 8313948 2993857 3043776 41815
+def r73:=p206 8313949 8318473 2995196 3045444 41806
+def r74:=p206 8318474 8322999 2996584 3047149 41797
+def r75:=p206 8323000 8327524 2997919 3048789 41789
+def r76:=p206 8327525 8332050 2999360 3050526 41780
+def r77:=p206 8332051 8336575 3000685 3052134 41772
+def r78:=p206 8336576 8341101 3002127 3053851 41763
+def r79:=p206 8341102 8345626 3003497 3055486 41754
+def r80:=p206 8345627 8350152 3004925 3057172 41746
+def r81:=p206 8350153 8354677 3006312 3058807 41737
+def r82:=p206 8354678 8359203 3007766 3060503 41728
+def r83:=p206 8359204 8363728 3009142 3062112 41720
+def r84:=p206 8363729 8368254 3010621 3063819 41711
+def r85:=p206 8368255 8372779 3012010 3065428 41703
+def r86:=p206 8372780 8377305 3013477 3067110 41694
+def r87:=p206 8377306 8381830 3014893 3068734 41685
+def r88:=p206 8381831 8386356 3016369 3070413 41677
+def r89:=p206 8386357 8390881 3017786 3072027 41668
+def r90:=p206 8390882 8395407 3019274 3073708 41659
+def r91:=p206 8395408 8399932 3020702 3075323 41651
+def r92:=p206 8399933 8404458 3022201 3077005 41642
+def r93:=p206 8404459 8408983 3023629 3078612 41633
+def r94:=p206 8408984 8413509 3025137 3080294 41625
+def r95:=p206 8413510 8418034 3026583 3081910 41616
+def r96:=p206 8418035 8422560 3028084 3083577 41608
+def r97:=p206 8422561 8427085 3029545 3085201 41599
+def r98:=p206 8427086 8431611 3031055 3086871 41590
+def r99:=p206 8431612 8436136 3032512 3088483 41582
+def r100:=p206 8436137 8440662 3034046 3090170 41573
+def r101:=p206 8440663 8445187 3035503 3091775 41564
+def r102:=p206 8445188 8449713 3037031 3093450 41556
+def r103:=p206 8449714 8454238 3038521 3095083 41547
+def r104:=p206 8454239 8458764 3040038 3096741 41539
+def r105:=p206 8458765 8463289 3041525 3098365 41530
+def r106:=p206 8463290 8467815 3043073 3100050 41521
+def r107:=p206 8467816 8472340 3044549 3101658 41513
+def r108:=p206 8472341 8476866 3046101 3103342 41504
+def r109:=p206 8476867 8481391 3047600 3104969 41495
+def r110:=p206 8481392 8485917 3049141 3106636 41487
+def r111:=p206 8485918 8490442 3050655 3108273 41478
+def r112:=p206 8490443 8494968 3052207 3109948 41469
+def r113:=p206 8494969 8499493 3053711 3111571 41461
+def r114:=p206 8499494 8504019 3056246 3113261 41452
+def r115:=p206 8504020 8508544 3058966 3114887 41444
+def r116:=p206 8508545 8513070 3061735 3116566 41435
+def r117:=p206 8513071 8517595 3064392 3118204 41426
+def r118:=p206 8517596 8522121 3067086 3119924 41418
+def r119:=p206 8522122 8526646 3069668 3122797 41409
+def r120:=p206 8526647 8531172 3072295 3125706 41400
+def r121:=p206 8531173 8535697 3074817 3128501 41392
+def r122:=p206 8535698 8540223 3077391 3131341 41383
+def r123:=p206 8540224 8544748 3079845 3134052 41375
+def r124:=p206 8544749 8549274 3082368 3136825 41366
+def r125:=p206 8549275 8553799 3084782 3139482 41357
+def r126:=p206 8553800 8558325 3087242 3142178 41349
+def r127:=p206 8558326 8562850 3089627 3144793 41340
+def r128:=p206 8562851 8567376 3092040 3147430 41331
+def r129:=p206 8567377 8571901 3094371 3149979 41323
+def r130:=p206 8571902 8576426 3096738 3152558 41314
+def r131:=p206 8576427 8580951 3099051 3155079 41305
+def r132:=p206 8580952 8585477 3101403 3157634 41297
+def r133:=p206 8585478 8590002 3103685 3160113 41288
+def r134:=p206 8590003 8599053 3347393 3394011 41280
+def r135:=p206 8599054 8608104 3342836 3390988 41262
+def r136:=p206 8608105 8617155 3339346 3388854 41245
+def r137:=p206 8617156 8626206 3336671 3387388 41228
+def r138:=p206 8626207 8635257 3334646 3386447 41211
+def r139:=p206 8635258 8644308 3333262 3386045 41193
+def r140:=p206 8644309 8653359 3332375 3386051 41176
+def r141:=p206 8653360 8662410 3331920 3386412 41159
+def r142:=p206 8662411 8671461 3331845 3387089 41141
+def r143:=p206 8671462 8680512 3332095 3388032 41124
+def r144:=p206 8680513 8689563 3332644 3389225 41107
+def r145:=p206 8689564 8698614 3333470 3390650 41090
+def r146:=p206 8698615 8707665 3334493 3392233 41072
+def r147:=p206 8707666 8716716 3335730 3393994 41055
+def r148:=p206 8716717 8725766 3337143 3395901 41038
+def r149:=p206 8725767 8734817 3338778 3398003 41021
+def r150:=p206 8734818 8743868 3340513 3400178 41003
+def r151:=p206 8743869 8752919 3342419 3402503 40986
+def r152:=p206 8752920 8761970 3344446 3404928 40969
+def r153:=p206 8761971 8771021 3346562 3407423 40952
+def r154:=p206 8771022 8780072 3348811 3410034 40934
+def r155:=p206 8780073 8789123 3351153 3412722 40917
+def r156:=p206 8789124 8798174 3354672 3415490 40900
+def r157:=p206 8798175 8807225 3359927 3418327 40883
+def r158:=p206 8807226 8816276 3365057 3421226 40865
+def r159:=p206 8816277 8825327 3370099 3424192 40848
+def r160:=p206 8825328 8834378 3375097 3429501 40831
+def r161:=p206 8834379 8843429 3379974 3435285 40813
+def r162:=p206 8843430 8852480 3384800 3440949 40796
+def r163:=p206 8852481 8861531 3389624 3446550 40779
+def r164:=p206 8861532 8870581 3394321 3451968 40762
+def r165:=p206 8870582 8879632 3399065 3457386 40744
+def r166:=p206 8879633 8888683 3403770 3462723 40727
+def r167:=p206 8888684 8897734 3408442 3467988 40710
+def r168:=p206 8897735 8906785 3413066 3473170 40693
+def r169:=p206 8906786 8915836 3417696 3478328 40675
+def r170:=p206 8915837 8924887 3422304 3483437 40658
+def r171:=p206 8924888 8933938 3426902 3488510 40641
+def r172:=p206 8933939 8942989 3431491 3493551 40624
+def r173:=p206 8942990 8952040 3436061 3498552 40606
+def r174:=p206 8952041 8961091 3440626 3503530 40589
+def r175:=p206 8961092 8970142 3445218 3508517 40572
+def r176:=p206 8970143 8979193 3449767 3513445 40555
+def r177:=p206 8979194 8988244 3454316 3518358 40537
+def r178:=p206 8988245 8997295 3458896 3523289 40520
+def r179:=p206 8997296 9006346 3463461 3528192 40503
+def r180:=p206 9006347 9015397 3468005 3533063 40485
+def r181:=p206 9015398 9024448 3472581 3537955 40468
+def r182:=p206 9024449 9033499 3477156 3542835 40451
+def r183:=p206 9033500 9042550 3481719 3547695 40434
+def r184:=p206 9042551 9051601 3486300 3552564 40416
+def r185:=p206 9051602 9060652 3490882 3557425 40399
+def r186:=p206 9060653 9069703 3495469 3562285 40382
+def r187:=p206 9069704 9078754 3500070 3567151 40365
+def r188:=p206 9078755 9087805 3504664 3572004 40347
+def r189:=p206 9087806 9096856 3509266 3576858 40330
+def r190:=p206 9096857 9105907 3513902 3581740 40313
+def r191:=p206 9105908 9114958 3518517 3586597 40296
+def r192:=p206 9114959 9124009 3523138 3591453 40278
+def r193:=p206 9124010 9133060 3527792 3596339 40261
+def r194:=p206 9133061 9142111 3533386 3601223 40244
+def r195:=p206 9142112 9151162 3540587 3606088 40227
+def r196:=p206 9151163 9160212 3547674 3613168 40209
+def r197:=p206 9160213 9169263 3554732 3620644 40192
+def r198:=p206 9169264 9178314 3561647 3627961 40175
+def r199:=p206 9178315 9187365 3568487 3635188 40157
+def r200:=p206 9187366 9196416 3575243 3642320 40140
+def r201:=p206 9196417 9205467 3581928 3649367 40123
+def r202:=p206 9205468 9214518 3588564 3656354 40106
+def r203:=p206 9214519 9223569 3595118 3663249 40088
+def r204:=p206 9223570 9232620 3601616 3670078 40071
+def r205:=p206 9232621 9241671 3608097 3676881 40054
+def r206:=p206 9241672 9250722 3614503 3683601 40037
+def r207:=p206 9250723 9259773 3620858 3690261 40019
+def r208:=p206 9259774 9268824 3627204 3696905 40002
+def r209:=p206 9268825 9286926 4232757 4281790 39985
+def r210:=p206 9286927 9305027 4196997 4251757 39950
+def r211:=p206 9305028 9323129 4174328 4233339 39916
+def r212:=p206 9323130 9341231 4159814 4222123 39881
+def r213:=p206 9341232 9359333 4151025 4215987 39847
+def r214:=p206 9359334 9377435 4146294 4213451 39812
+def r215:=p206 9377436 9395537 4144525 4213537 39778
+def r216:=p206 9395538 9413639 4145166 4215780 39743
+def r217:=p206 9413640 9431741 4147536 4219552 39709
+def r218:=p206 9431742 9449842 4151336 4224598 39674
+def r219:=p206 9449843 9467944 4156443 4230826 39640
+def r220:=p206 9467945 9486046 4162497 4237900 39605
+def r221:=p206 9486047 9504148 4169330 4245667 39571
+def r222:=p206 9504149 9522250 4176950 4254153 39536
+def r223:=p206 9522251 9540352 4185135 4263143 39501
+def r224:=p206 9540353 9558454 4193882 4272645 39467
+def r225:=p206 9558455 9576556 4203117 4282594 39432
+def r226:=p206 9576557 9594658 4212778 4292931 39398
+def r227:=p206 9594659 9612760 4222813 4303611 39363
+def r228:=p206 9612761 9630862 4233230 4314645 39329
+def r229:=p206 9630863 9648964 4248993 4325963 39294
+def r230:=p206 9648965 9667066 4266306 4343633 39260
+def r231:=p206 9667067 9685168 4283456 4361921 39225
+def r232:=p206 9685169 9703270 4300405 4379924 39191
+def r233:=p206 9703271 9721372 4317256 4397759 39156
+def r234:=p206 9721373 9739473 4333975 4415400 39122
+def r235:=p206 9739474 9757575 4350754 4433050 39087
+def r236:=p206 9757576 9775677 4367412 4450535 39053
+def r237:=p206 9775678 9793779 4384124 4468034 39018
+def r238:=p206 9793780 9811881 4400782 4485445 38984
+def r239:=p206 9811882 9829983 4417497 4502885 38949
+def r240:=p206 9829984 9848085 4434235 4520320 38914
+def r241:=p206 9848086 9866187 4451029 4537789 38880
+def r242:=p206 9866188 9884288 4467814 4555227 38845
+def r243:=p206 9884289 9902390 4484781 4572831 38811
+def r244:=p206 9902391 9920492 4501750 4590421 38776
+def r245:=p206 9920493 9938594 4518809 4608086 38742
+def r246:=p206 9938595 9956696 4535964 4625835 38707
+def r247:=p206 9956697 9974798 4553445 4643652 38673
+def r248:=p206 9974799 9992900 4577777 4665878 38638
+def r249:=p206 9992901 10011002 4601807 4690788 38604
+def r250:=p206 10011003 10029103 4625518 4715347 38569
+def r251:=p206 10029104 10047205 4649088 4739739 38535
+def r252:=p206 10047206 10065307 4672473 4763921 38500
+def r253:=p206 10065308 10083409 4695673 4787894 38466
+def r254:=p206 10083410 10101511 4718791 4811767 38431
+def r255:=p206 10101512 10119613 4741810 4835523 38397
+def r256:=p206 10119614 10137715 4764786 4859220 38362
+def r257:=p206 10137716 10155817 4787691 4882833 38328
+def r258:=p206 10155818 10173919 4810626 4906464 38293
+def r259:=p206 10173920 10192021 4833517 4930039 38258
+def r260:=p206 10192022 10210123 4856453 4953650 38224
+def r261:=p206 10210124 10246327 6574860 6675467 38189
+def r262:=p206 10246328 10282531 6478024 6584334 38120
+def r263:=p206 10282532 10318734 6432356 6542925 38051
+def r264:=p206 10318735 10354938 6417351 6531363 37982
+def r265:=p206 10354939 10391142 6421922 6538870 37913
+def r266:=p206 10391143 10427346 6440099 6559653 37844
+def r267:=p206 10427347 10463549 6468212 6590147 37775
+def r268:=p206 10463550 10499753 6504423 6628592 37706
+def r269:=p206 10499754 10535957 6546756 6673050 37637
+def r270:=p206 10535958 10572161 6594314 6722659 37568
+def r271:=p206 10572162 10608364 6646382 6776730 37499
+def r272:=p206 10608365 10644568 6722501 6849332 37430
+def r273:=p206 10644569 10680772 6806860 6936894 37361
+def r274:=p206 10680773 10716976 6892887 7025942 37292
+def r275:=p206 10716977 10753180 6980652 7116596 37223
+def r276:=p206 10753181 10789384 7070348 7209086 37154
+def r277:=p206 10789385 10825588 7162244 7303712 37085
+def r278:=p206 10825589 10861792 7256371 7400527 37016
+def r279:=p206 10861793 10897995 7352804 7499622 36946
+def r280:=p206 10897996 10934199 7452058 7601535 36877
+def r281:=p206 10934200 10970403 7553909 7706046 36808
+def r282:=p206 10970404 11006607 7680504 7832295 36739
+def r283:=p206 11006608 11042810 7820520 7975968 36670
+def r284:=p206 11042811 11079014 7962411 8121485 36601
+def r285:=p206 11079015 11115218 8106387 8269071 36532
+def r286:=p206 11115219 11151422 8253151 8419453 36463
+def r287:=p206 11151423 11187625 8402924 8572864 36394
+
+def b0 : List (Rectangle × FastWitness) := [(r0,⟨62,33,51⟩),(r1,⟨62,49,52⟩),(r2,⟨62,46,52⟩),(r3,⟨62,43,50⟩),(r4,⟨62,40,46⟩),(r5,⟨62,33,42⟩),(r6,⟨62,46,55⟩),(r7,⟨62,43,53⟩)]
+theorem checked0 : fastCheckList band b0=true := by decide +kernel
+
+def b1 : List (Rectangle × FastWitness) := [(r8,⟨62,41,50⟩),(r9,⟨62,43,59⟩),(r10,⟨62,41,43⟩),(r11,⟨62,43,52⟩),(r12,⟨62,46,62⟩),(r13,⟨62,44,62⟩),(r14,⟨62,37,46⟩),(r15,⟨62,1,44⟩)]
+theorem checked1 : fastCheckList band b1=true := by decide +kernel
+
+def b2 : List (Rectangle × FastWitness) := [(r16,⟨62,44,62⟩),(r17,⟨62,44,61⟩),(r18,⟨62,39,46⟩),(r19,⟨62,43,45⟩),(r20,⟨62,3,45⟩),(r21,⟨62,40,46⟩),(r22,⟨62,42,45⟩),(r23,⟨62,44,45⟩)]
+theorem checked2 : fastCheckList band b2=true := by decide +kernel
+
+def b3 : List (Rectangle × FastWitness) := [(r24,⟨62,1,45⟩),(r25,⟨62,5,45⟩),(r26,⟨62,44,45⟩),(r27,⟨62,1,46⟩),(r28,⟨62,2,46⟩),(r29,⟨62,4,45⟩),(r30,⟨62,6,45⟩),(r31,⟨62,44,45⟩)]
+theorem checked3 : fastCheckList band b3=true := by decide +kernel
+
+def b4 : List (Rectangle × FastWitness) := [(r32,⟨62,44,45⟩),(r33,⟨62,44,45⟩),(r34,⟨62,44,45⟩),(r35,⟨62,44,45⟩),(r36,⟨62,44,45⟩),(r37,⟨62,44,45⟩),(r38,⟨62,44,45⟩),(r39,⟨62,44,45⟩)]
+theorem checked4 : fastCheckList band b4=true := by decide +kernel
+
+def b5 : List (Rectangle × FastWitness) := [(r40,⟨62,44,45⟩),(r41,⟨62,44,45⟩),(r42,⟨62,44,45⟩),(r43,⟨62,44,45⟩),(r44,⟨62,44,45⟩),(r45,⟨62,45,45⟩),(r46,⟨62,45,45⟩),(r47,⟨62,45,45⟩)]
+theorem checked5 : fastCheckList band b5=true := by decide +kernel
+
+def b6 : List (Rectangle × FastWitness) := [(r48,⟨62,45,45⟩),(r49,⟨62,45,45⟩),(r50,⟨62,45,45⟩),(r51,⟨62,45,45⟩),(r52,⟨62,45,45⟩),(r53,⟨62,45,45⟩),(r54,⟨62,45,45⟩),(r55,⟨62,45,45⟩)]
+theorem checked6 : fastCheckList band b6=true := by decide +kernel
+
+def b7 : List (Rectangle × FastWitness) := [(r56,⟨62,45,45⟩),(r57,⟨62,45,45⟩),(r58,⟨62,45,45⟩),(r59,⟨62,45,45⟩),(r60,⟨62,45,45⟩),(r61,⟨62,45,45⟩),(r62,⟨62,45,45⟩),(r63,⟨62,45,45⟩)]
+theorem checked7 : fastCheckList band b7=true := by decide +kernel
+
+def b8 : List (Rectangle × FastWitness) := [(r64,⟨62,45,45⟩),(r65,⟨62,45,45⟩),(r66,⟨62,45,45⟩),(r67,⟨62,45,45⟩),(r68,⟨62,45,45⟩),(r69,⟨62,45,45⟩),(r70,⟨62,45,45⟩),(r71,⟨62,45,45⟩)]
+theorem checked8 : fastCheckList band b8=true := by decide +kernel
+
+def b9 : List (Rectangle × FastWitness) := [(r72,⟨62,45,45⟩),(r73,⟨62,45,45⟩),(r74,⟨62,45,45⟩),(r75,⟨62,45,45⟩),(r76,⟨62,45,45⟩),(r77,⟨62,45,45⟩),(r78,⟨62,45,45⟩),(r79,⟨62,45,45⟩)]
+theorem checked9 : fastCheckList band b9=true := by decide +kernel
+
+def b10 : List (Rectangle × FastWitness) := [(r80,⟨62,45,45⟩),(r81,⟨62,45,45⟩),(r82,⟨62,45,45⟩),(r83,⟨62,45,45⟩),(r84,⟨62,45,45⟩),(r85,⟨62,45,45⟩),(r86,⟨62,45,45⟩),(r87,⟨62,45,45⟩)]
+theorem checked10 : fastCheckList band b10=true := by decide +kernel
+
+def b11 : List (Rectangle × FastWitness) := [(r88,⟨62,45,45⟩),(r89,⟨62,45,45⟩),(r90,⟨62,45,45⟩),(r91,⟨62,45,45⟩),(r92,⟨62,45,45⟩),(r93,⟨62,45,45⟩),(r94,⟨62,45,45⟩),(r95,⟨62,45,45⟩)]
+theorem checked11 : fastCheckList band b11=true := by decide +kernel
+
+def b12 : List (Rectangle × FastWitness) := [(r96,⟨62,45,45⟩),(r97,⟨62,45,45⟩),(r98,⟨62,45,45⟩),(r99,⟨62,45,45⟩),(r100,⟨62,45,45⟩),(r101,⟨62,45,45⟩),(r102,⟨62,45,45⟩),(r103,⟨62,45,45⟩)]
+theorem checked12 : fastCheckList band b12=true := by decide +kernel
+
+def b13 : List (Rectangle × FastWitness) := [(r104,⟨62,45,45⟩),(r105,⟨62,45,45⟩),(r106,⟨62,45,45⟩),(r107,⟨62,45,45⟩),(r108,⟨62,45,45⟩),(r109,⟨62,45,45⟩),(r110,⟨62,45,45⟩),(r111,⟨62,45,45⟩)]
+theorem checked13 : fastCheckList band b13=true := by decide +kernel
+
+def b14 : List (Rectangle × FastWitness) := [(r112,⟨62,45,45⟩),(r113,⟨62,45,45⟩),(r114,⟨62,45,46⟩),(r115,⟨62,45,46⟩),(r116,⟨62,45,46⟩),(r117,⟨62,45,46⟩),(r118,⟨62,46,46⟩),(r119,⟨62,46,46⟩)]
+theorem checked14 : fastCheckList band b14=true := by decide +kernel
+
+def b15 : List (Rectangle × FastWitness) := [(r120,⟨62,46,46⟩),(r121,⟨62,46,46⟩),(r122,⟨62,46,46⟩),(r123,⟨62,46,46⟩),(r124,⟨62,46,46⟩),(r125,⟨62,46,46⟩),(r126,⟨62,46,46⟩),(r127,⟨62,46,46⟩)]
+theorem checked15 : fastCheckList band b15=true := by decide +kernel
+
+def b16 : List (Rectangle × FastWitness) := [(r128,⟨62,46,46⟩),(r129,⟨62,46,46⟩),(r130,⟨62,46,46⟩),(r131,⟨62,46,46⟩),(r132,⟨62,46,46⟩),(r133,⟨62,46,46⟩),(r134,⟨62,47,47⟩),(r135,⟨62,47,47⟩)]
+theorem checked16 : fastCheckList band b16=true := by decide +kernel
+
+def b17 : List (Rectangle × FastWitness) := [(r136,⟨62,47,47⟩),(r137,⟨62,47,47⟩),(r138,⟨62,47,47⟩),(r139,⟨62,47,47⟩),(r140,⟨62,47,47⟩),(r141,⟨62,47,47⟩),(r142,⟨62,47,47⟩),(r143,⟨62,47,47⟩)]
+theorem checked17 : fastCheckList band b17=true := by decide +kernel
+
+def b18 : List (Rectangle × FastWitness) := [(r144,⟨62,47,47⟩),(r145,⟨62,47,47⟩),(r146,⟨62,47,47⟩),(r147,⟨62,47,47⟩),(r148,⟨62,47,47⟩),(r149,⟨62,47,47⟩),(r150,⟨62,47,47⟩),(r151,⟨62,47,47⟩)]
+theorem checked18 : fastCheckList band b18=true := by decide +kernel
+
+def b19 : List (Rectangle × FastWitness) := [(r152,⟨62,47,47⟩),(r153,⟨62,47,47⟩),(r154,⟨62,47,47⟩),(r155,⟨62,47,47⟩),(r156,⟨62,47,48⟩),(r157,⟨62,47,48⟩),(r158,⟨62,47,48⟩),(r159,⟨62,47,48⟩)]
+theorem checked19 : fastCheckList band b19=true := by decide +kernel
+
+def b20 : List (Rectangle × FastWitness) := [(r160,⟨62,48,48⟩),(r161,⟨62,48,48⟩),(r162,⟨62,48,48⟩),(r163,⟨62,48,48⟩),(r164,⟨62,48,48⟩),(r165,⟨62,48,48⟩),(r166,⟨62,48,48⟩),(r167,⟨62,48,48⟩)]
+theorem checked20 : fastCheckList band b20=true := by decide +kernel
+
+def b21 : List (Rectangle × FastWitness) := [(r168,⟨62,48,48⟩),(r169,⟨62,48,48⟩),(r170,⟨62,48,48⟩),(r171,⟨62,48,48⟩),(r172,⟨62,48,48⟩),(r173,⟨62,48,48⟩),(r174,⟨62,48,48⟩),(r175,⟨62,48,48⟩)]
+theorem checked21 : fastCheckList band b21=true := by decide +kernel
+
+def b22 : List (Rectangle × FastWitness) := [(r176,⟨62,48,48⟩),(r177,⟨62,48,48⟩),(r178,⟨62,48,48⟩),(r179,⟨62,48,48⟩),(r180,⟨62,48,48⟩),(r181,⟨62,48,48⟩),(r182,⟨62,48,48⟩),(r183,⟨62,48,48⟩)]
+theorem checked22 : fastCheckList band b22=true := by decide +kernel
+
+def b23 : List (Rectangle × FastWitness) := [(r184,⟨62,48,48⟩),(r185,⟨62,48,48⟩),(r186,⟨62,48,48⟩),(r187,⟨62,48,48⟩),(r188,⟨62,48,48⟩),(r189,⟨62,48,48⟩),(r190,⟨62,48,48⟩),(r191,⟨62,48,48⟩)]
+theorem checked23 : fastCheckList band b23=true := by decide +kernel
+
+def b24 : List (Rectangle × FastWitness) := [(r192,⟨62,48,48⟩),(r193,⟨62,48,48⟩),(r194,⟨62,48,49⟩),(r195,⟨62,48,49⟩),(r196,⟨62,49,49⟩),(r197,⟨62,49,49⟩),(r198,⟨62,49,49⟩),(r199,⟨62,49,49⟩)]
+theorem checked24 : fastCheckList band b24=true := by decide +kernel
+
+def b25 : List (Rectangle × FastWitness) := [(r200,⟨62,49,49⟩),(r201,⟨62,49,49⟩),(r202,⟨62,49,49⟩),(r203,⟨62,49,49⟩),(r204,⟨62,49,49⟩),(r205,⟨62,49,49⟩),(r206,⟨62,49,49⟩),(r207,⟨62,49,49⟩)]
+theorem checked25 : fastCheckList band b25=true := by decide +kernel
+
+def b26 : List (Rectangle × FastWitness) := [(r208,⟨62,49,49⟩),(r209,⟨62,51,51⟩),(r210,⟨62,51,51⟩),(r211,⟨62,51,51⟩),(r212,⟨62,51,51⟩),(r213,⟨62,51,51⟩),(r214,⟨62,51,51⟩),(r215,⟨62,51,51⟩)]
+theorem checked26 : fastCheckList band b26=true := by decide +kernel
+
+def b27 : List (Rectangle × FastWitness) := [(r216,⟨62,51,51⟩),(r217,⟨62,51,51⟩),(r218,⟨62,51,51⟩),(r219,⟨62,51,51⟩),(r220,⟨62,51,51⟩),(r221,⟨62,51,51⟩),(r222,⟨62,51,51⟩),(r223,⟨62,51,51⟩)]
+theorem checked27 : fastCheckList band b27=true := by decide +kernel
+
+def b28 : List (Rectangle × FastWitness) := [(r224,⟨62,51,51⟩),(r225,⟨62,51,51⟩),(r226,⟨62,51,51⟩),(r227,⟨62,51,51⟩),(r228,⟨62,51,51⟩),(r229,⟨62,51,52⟩),(r230,⟨62,52,52⟩),(r231,⟨62,52,52⟩)]
+theorem checked28 : fastCheckList band b28=true := by decide +kernel
+
+def b29 : List (Rectangle × FastWitness) := [(r232,⟨62,52,52⟩),(r233,⟨62,52,52⟩),(r234,⟨62,52,52⟩),(r235,⟨62,52,52⟩),(r236,⟨62,52,52⟩),(r237,⟨62,52,52⟩),(r238,⟨62,52,52⟩),(r239,⟨62,52,52⟩)]
+theorem checked29 : fastCheckList band b29=true := by decide +kernel
+
+def b30 : List (Rectangle × FastWitness) := [(r240,⟨62,52,52⟩),(r241,⟨62,52,52⟩),(r242,⟨62,52,52⟩),(r243,⟨62,52,52⟩),(r244,⟨62,52,52⟩),(r245,⟨62,52,52⟩),(r246,⟨62,52,52⟩),(r247,⟨62,52,53⟩)]
+theorem checked30 : fastCheckList band b30=true := by decide +kernel
+
+def b31 : List (Rectangle × FastWitness) := [(r248,⟨62,53,53⟩),(r249,⟨62,53,53⟩),(r250,⟨62,53,53⟩),(r251,⟨62,53,53⟩),(r252,⟨62,53,53⟩),(r253,⟨62,53,53⟩),(r254,⟨62,53,53⟩),(r255,⟨62,53,53⟩)]
+theorem checked31 : fastCheckList band b31=true := by decide +kernel
+
+def b32 : List (Rectangle × FastWitness) := [(r256,⟨62,53,53⟩),(r257,⟨62,53,53⟩),(r258,⟨62,53,53⟩),(r259,⟨62,53,53⟩),(r260,⟨62,53,53⟩),(r261,⟨62,56,56⟩),(r262,⟨62,56,56⟩),(r263,⟨62,56,56⟩)]
+theorem checked32 : fastCheckList band b32=true := by decide +kernel
+
+def b33 : List (Rectangle × FastWitness) := [(r264,⟨62,56,56⟩),(r265,⟨62,56,56⟩),(r266,⟨62,56,56⟩),(r267,⟨62,56,56⟩),(r268,⟨62,56,56⟩),(r269,⟨62,56,56⟩),(r270,⟨62,56,56⟩),(r271,⟨62,56,56⟩)]
+theorem checked33 : fastCheckList band b33=true := by decide +kernel
+
+def b34 : List (Rectangle × FastWitness) := [(r272,⟨62,57,57⟩),(r273,⟨62,57,57⟩),(r274,⟨62,57,57⟩),(r275,⟨62,57,57⟩),(r276,⟨62,57,57⟩),(r277,⟨62,57,57⟩),(r278,⟨62,57,57⟩),(r279,⟨62,57,57⟩)]
+theorem checked34 : fastCheckList band b34=true := by decide +kernel
+
+def b35 : List (Rectangle × FastWitness) := [(r280,⟨62,57,57⟩),(r281,⟨62,57,57⟩),(r282,⟨62,58,58⟩),(r283,⟨62,58,58⟩),(r284,⟨62,58,58⟩),(r285,⟨62,58,58⟩),(r286,⟨62,58,58⟩),(r287,⟨62,58,58⟩)]
+theorem checked35 : fastCheckList band b35=true := by decide +kernel
+
+def witnessedRows : List (Rectangle × FastWitness) := b0++b1++b2++b3++b4++b5++b6++b7++b8++b9++b10++b11++b12++b13++b14++b15++b16++b17++b18++b19++b20++b21++b22++b23++b24++b25++b26++b27++b28++b29++b30++b31++b32++b33++b34++b35
+def rows : List Rectangle := witnessedRows.map Prod.fst
+theorem all_fast_checked : fastCheckList band witnessedRows=true := by
+  have joinChecked (xs ys : List (Rectangle × FastWitness)) (hx : fastCheckList band xs = true) (hy : fastCheckList band ys = true) : fastCheckList band (xs ++ ys) = true := by
+    rw [fastCheckList_append, hx, hy]
+    rfl
+  have joined1 := joinChecked _ _ checked0 checked1
+  have joined2 := joinChecked _ _ joined1 checked2
+  have joined3 := joinChecked _ _ joined2 checked3
+  have joined4 := joinChecked _ _ joined3 checked4
+  have joined5 := joinChecked _ _ joined4 checked5
+  have joined6 := joinChecked _ _ joined5 checked6
+  have joined7 := joinChecked _ _ joined6 checked7
+  have joined8 := joinChecked _ _ joined7 checked8
+  have joined9 := joinChecked _ _ joined8 checked9
+  have joined10 := joinChecked _ _ joined9 checked10
+  have joined11 := joinChecked _ _ joined10 checked11
+  have joined12 := joinChecked _ _ joined11 checked12
+  have joined13 := joinChecked _ _ joined12 checked13
+  have joined14 := joinChecked _ _ joined13 checked14
+  have joined15 := joinChecked _ _ joined14 checked15
+  have joined16 := joinChecked _ _ joined15 checked16
+  have joined17 := joinChecked _ _ joined16 checked17
+  have joined18 := joinChecked _ _ joined17 checked18
+  have joined19 := joinChecked _ _ joined18 checked19
+  have joined20 := joinChecked _ _ joined19 checked20
+  have joined21 := joinChecked _ _ joined20 checked21
+  have joined22 := joinChecked _ _ joined21 checked22
+  have joined23 := joinChecked _ _ joined22 checked23
+  have joined24 := joinChecked _ _ joined23 checked24
+  have joined25 := joinChecked _ _ joined24 checked25
+  have joined26 := joinChecked _ _ joined25 checked26
+  have joined27 := joinChecked _ _ joined26 checked27
+  have joined28 := joinChecked _ _ joined27 checked28
+  have joined29 := joinChecked _ _ joined28 checked29
+  have joined30 := joinChecked _ _ joined29 checked30
+  have joined31 := joinChecked _ _ joined30 checked31
+  have joined32 := joinChecked _ _ joined31 checked32
+  have joined33 := joinChecked _ _ joined32 checked33
+  have joined34 := joinChecked _ _ joined33 checked34
+  have joined35 := joinChecked _ _ joined34 checked35
+  exact joined35
+theorem all_checked : checkList band rows=true := fastCheckList_sound band witnessedRows all_fast_checked
+theorem tiled : covers (minimumWeight band) (tail band) rows=true := by decide +kernel
+theorem verified : VerifiedCover band rows :=
+  ⟨all_checked,tiled,by decide +kernel⟩
+
+open MvPolynomial RCN100 RCN119 ContactOrderBridge
+open RCN234 (wt)
+variable (K I : Type) [Field K] [CharP K 2130706433] [Fintype I] [DecidableEq I]
+local instance  _root_.ProximityPrize.SubmissionLower.RelativeCertR12B50T3814To3896Fast.instDecidableEq_proximityPrize : DecidableEq K := Classical.decEq K
+
+theorem regular_count {DF T nu : ℕ} {H : Poly4 K} (F : RCN266.RegularIndex H)
+    (hbox : F.val∈globalCoefficientBox K DF 1 T 12)
+    (hcode : wt (RCN081.contactWeights 131071) F.val=nu)
+    (htotal : T≤wt RCN156.residualTotalWeights F.val)
+    (hslope : 12≤wt RCN156.residualSWeights F.val)
+    (hB : wt RCN156.residualYSWeights F.val≤50)
+    (hT0 : 3814≤T) (hT1 : T≤3896) (hnu : 6553538≤nu)
+    (nodes : I ↪ K) (u0 u1 : I → K) (hcard : Fintype.card I=262144)
+    (selected : K → Polynomial K) (Gamma : Finset K)
+    (hdegree : ∀ gamma∈Gamma, (selected gamma).natDegree≤131071)
+    (hagreement : ∀ gamma∈Gamma, 181255≤
+      ((Finset.univ : Finset I).filter (fun i => (selected gamma).eval (nodes i)=u0 i+gamma*u1 i)).card)
+    (hno : RCN238.NoLargeSelectedPencil selected Gamma 131071 80889) :
+    (RCN140.regularSeeds H selected Gamma F).card≤11887928042267056 :=
+  regular_count_of_cover K I band rows verified F hbox hcode htotal hslope hB hT0 hT1 hnu
+    nodes u0 u1 hcard selected Gamma hdegree hagreement hno
+
+
+
+end
+end ProximityPrize.SubmissionLower.RelativeCertR12B50T3814To3896Fast
+
+

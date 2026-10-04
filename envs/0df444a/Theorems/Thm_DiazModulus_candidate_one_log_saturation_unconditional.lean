@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_candidate_one_log_saturation_unconditional
 -- name    : DiazModulus.candidate_one_log_saturation_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-02T11:28:44.59998+00:00
 -- url     : https://prove2.me/theorems/b6fa5e39-dced-4c6f-94af-c88e74976fe1

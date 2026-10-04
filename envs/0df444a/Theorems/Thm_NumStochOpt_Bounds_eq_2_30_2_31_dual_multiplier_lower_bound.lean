@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_eq_2_30_2_31_dual_multiplier_lower_bound
 -- name    : NumStochOpt.Bounds.eq_2_30_2_31_dual_multiplier_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:07:29.458983+00:00
 -- url     : https://prove2.me/theorems/17e15f46-88f3-431b-ba67-2a6c73cc95e5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_two_prime_cyclotomic_split_second
 -- name    : OddPerfectNumber.Kernel.five_two_prime_cyclotomic_split_second
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-02T07:27:06.629366+00:00
 -- url     : https://prove2.me/theorems/793eb5c3-69c0-425d-b3b1-7f4719cfa0f1

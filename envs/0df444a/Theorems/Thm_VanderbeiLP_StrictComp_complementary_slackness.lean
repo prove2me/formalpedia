@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_StrictComp_complementary_slackness
 -- name    : VanderbeiLP.StrictComp.complementary_slackness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T17:26:23.900487+00:00
 -- url     : https://prove2.me/theorems/9dc13e47-5646-403b-aa9a-e487391bea33

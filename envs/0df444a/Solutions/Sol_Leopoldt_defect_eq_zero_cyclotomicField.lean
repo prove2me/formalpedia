@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Leopoldt.defect_eq_zero_cyclotomicField
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-09-27T02:18:29.351238+00:00
 -- url     : https://prove2.me/submissions/a11387b2-fd56-44b9-aa55-d36109d247cc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_LeopoldtDefect
 import Theorems.Thm_Leopoldt_defect_le_units_rank_sub_one

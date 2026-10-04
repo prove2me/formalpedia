@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_no_algebraic_generalized_line_unconditional
 -- name    : DiazModulus.no_algebraic_generalized_line_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-02T11:28:55.317293+00:00
 -- url     : https://prove2.me/theorems/13fcac6a-e039-453b-a9d8-9991dee320aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_H_strictMono_convex_slope
 -- name    : ZhengQR.OrderQty.H_strictMono_convex_slope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:50:35.013469+00:00
 -- url     : https://prove2.me/theorems/7e438c33-2bf5-4bb5-8311-f5af20808633

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_pool_law
 -- name    : Soar.pool_law
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T18:59:45.508872+00:00
 -- url     : https://prove2.me/theorems/b04880d2-eb18-4bf7-9eb2-e96c1e613234

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_adjacentRadialProfileFormulas_child_v1
 -- name    : BraidsLinksMCG.adjacentRadialProfileFormulas_child_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-23T22:44:43.426166+00:00
 -- url     : https://prove2.me/theorems/21c8da0f-b82a-40ce-8dd5-5b99d9898d5a

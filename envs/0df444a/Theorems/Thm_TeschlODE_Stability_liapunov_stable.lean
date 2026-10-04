@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_liapunov_stable
 -- name    : TeschlODE.Stability.liapunov_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T14:08:42.050425+00:00
 -- url     : https://prove2.me/theorems/09e66f7c-3738-4c1a-b315-82b040f6b0e8

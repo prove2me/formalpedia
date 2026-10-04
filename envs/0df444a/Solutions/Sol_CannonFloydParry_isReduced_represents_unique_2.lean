@@ -1,346 +1,15 @@
 -- Prove2me | solution 2 for CannonFloydParry.isReduced_represents_unique
 -- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
--- created : 2026-09-17T02:37:18.437733+00:00
--- url     : https://prove2.me/submissions/f7987629-3dc3-469d-8260-83c3616651ab
+-- created : 2026-09-22T14:04:52.413559+00:00
+-- url     : https://prove2.me/submissions/7b54c295-2730-43be-a0e8-fe40ac128dc6
 
 import Definitions.Def_CannonFloydParry
 import Definitions.Def_CannonFloydParry_Trees
 import Definitions.Def_CannonFloydParry_TreeDiagrams
 import Mathlib
+import Theorems.Thm_CannonFloydParry_isStandardDyadicPartition_marks
 
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
--- padding line to test the verifier size limit; this comment carries no content whatsoever
 namespace CannonFloydParry
 
 /-! ### `extend` of the two generators is the underlying function on the line -/
@@ -1998,15 +1667,6 @@ lemma isChain_marksAux (t : TTree) :
         (by simpa using Hl) (by simpa using Hr) (by simp)
       simpa using this
 
-lemma isSDP_marks' (t : TTree) : IsStandardDyadicPartition t.marks := by
-  refine ⟨rfl, ?_, ?_⟩
-  · show ((0 : ℝ) :: (t.marksAux 0 1 ++ [1])).getLast? = some 1
-    rw [← List.cons_append,
-      List.getLast?_append_of_ne_nil _ (by simp : ([(1 : ℝ)] : List ℝ) ≠ [])]
-    rfl
-  · have h := isChain_marksAux t 0 0 (by norm_num)
-    norm_num at h
-    simpa [TTree.marks] using h
 
 end CannonFloydParry
 
@@ -2807,11 +2467,11 @@ theorem exists_standardDyadicPartition_of_isThompson' {f : UI ≃o UI} (hf : IsT
     have := marks_getD_last S
     rwa [hlenS, Nat.add_sub_cancel] at this
   · intro i
-    have h := chain_getD _ (isSDP_marks' R).2.2 i (by simp only [hlenR]; omega)
+    have h := chain_getD _ (isStandardDyadicPartition_marks R).2.2 i (by simp only [hlenR]; omega)
     obtain ⟨a, k, -, h1, h2⟩ := h
     exact ⟨a, k, h1, h2⟩
   · intro i
-    have h := chain_getD _ (isSDP_marks' S).2.2 i (by simp only [hlenS]; omega)
+    have h := chain_getD _ (isStandardDyadicPartition_marks S).2.2 i (by simp only [hlenS]; omega)
     obtain ⟨a, k, -, h1, h2⟩ := h
     exact ⟨a, k, h1, h2⟩
   · intro i z hz1 hz2
@@ -3355,7 +3015,7 @@ lemma endpoints_mem_of_mark_inside (t : TTree) {u v : ℝ} (huv : IsStandardDyad
     · rw [heq]; exact getD_mem (by omega)
     exfalso
     have hleaf : IsStandardDyadicInterval (t.marks.getD j 0) (t.marks.getD (j + 1) 0) :=
-      chain_getD _ (isSDP_marks' t).2.2 j hj
+      chain_getD _ (isStandardDyadicPartition_marks t).2.2 j hj
     -- a common interior point, just to the right of `u`
     have hmin : u < min v (t.marks.getD (j + 1) 0) := lt_min (by linarith) hlt2
     have hz : (u < (u + min v (t.marks.getD (j + 1) 0)) / 2 ∧
@@ -3376,7 +3036,7 @@ lemma endpoints_mem_of_mark_inside (t : TTree) {u v : ℝ} (huv : IsStandardDyad
     · rw [heq]; exact getD_mem (by omega)
     exfalso
     have hleaf : IsStandardDyadicInterval (t.marks.getD j 0) (t.marks.getD (j + 1) 0) :=
-      chain_getD _ (isSDP_marks' t).2.2 j hj
+      chain_getD _ (isStandardDyadicPartition_marks t).2.2 j hj
     -- a common interior point, just to the left of `v`
     have hmax : max u (t.marks.getD j 0) < v := max_lt (by linarith) hlt1
     have hz : (u < (max u (t.marks.getD j 0) + v) / 2 ∧
@@ -3767,7 +3427,7 @@ lemma marks_subset_of_reduced {f : UI ≃o UI} {R S R' S' : TTree}
     · exact absurd (heq ▸ getD_mem (xs := R'.marks) (j := j + 1) hj) hxn
     · exact hlt
   have hleaf : IsStandardDyadicInterval (R'.marks.getD j 0) (R'.marks.getD (j + 1) 0) :=
-    chain_getD _ (isSDP_marks' R').2.2 j hj
+    chain_getD _ (isStandardDyadicPartition_marks R').2.2 j hj
   -- its endpoints are marks of `R`, and it contains a caret of `R`
   obtain ⟨hu, hv⟩ := endpoints_mem_of_mark_inside R hleaf hx hlt1 hlt2
   obtain ⟨k, hcR, hk1, hk2⟩ := exists_caret_in_marks R hleaf hu hv ⟨x, hx, hlt1, hlt2⟩
@@ -3781,7 +3441,7 @@ lemma marks_subset_of_reduced {f : UI ≃o UI} {R S R' S' : TTree}
   have E2 : p * R'.marks.getD (j + 1) 0 + q = S'.marks.getD (j + 1) 0 := by
     rw [← hpq _ ⟨le_of_lt hltR', le_refl _⟩]; exact hmap' (j + 1) hj
   have hleafS' : IsStandardDyadicInterval (S'.marks.getD j 0) (S'.marks.getD (j + 1) 0) :=
-    chain_getD _ (isSDP_marks' S').2.2 j (by rw [← hlenRS']; exact hj)
+    chain_getD _ (isStandardDyadicPartition_marks S').2.2 j (by rw [← hlenRS']; exact hj)
   -- so the caret's parent, a standard dyadic interval inside that leaf, has standard dyadic image
   have hP := sdi_of_caret_marks hcR
   have hPimg := sdi_image_affine hleaf hleafS' E1 E2 hP hk1 hk2

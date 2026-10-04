@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_critical_edge_count_le
 -- name    : EdmondsKarp.ShortestPath.critical_edge_count_le
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T22:36:37.662682+00:00
 -- url     : https://prove2.me/theorems/d27ff656-c127-4694-9f05-38ac81139ddd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctions_Quasi_quasi_m_minimizer_cut
 -- name    : DiscreteConvex.MConvexFunctions.Quasi.quasi_m_minimizer_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:03:30.32299+00:00
 -- url     : https://prove2.me/theorems/a5961c64-a0db-4575-b0a7-db8f0acca06f

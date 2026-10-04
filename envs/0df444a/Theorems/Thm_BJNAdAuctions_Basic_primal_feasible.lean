@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_primal_feasible
 -- name    : BJNAdAuctions.Basic.primal_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T16:32:28.499947+00:00
 -- url     : https://prove2.me/theorems/8fead732-e8c1-4e5a-8e82-d7dc724f61fa

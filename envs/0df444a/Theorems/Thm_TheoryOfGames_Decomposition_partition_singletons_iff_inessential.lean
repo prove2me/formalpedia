@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_partition_singletons_iff_inessential
 -- name    : TheoryOfGames.Decomposition.partition_singletons_iff_inessential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:36:35.330381+00:00
 -- url     : https://prove2.me/theorems/a85bab99-bbbb-4cea-897a-a8c6dc4344fe

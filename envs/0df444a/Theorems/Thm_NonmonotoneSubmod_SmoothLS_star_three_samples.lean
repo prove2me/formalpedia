@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonmonotoneSubmod_SmoothLS_star_three_samples
 -- name    : NonmonotoneSubmod.SmoothLS.star_three_samples
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:09:02.07726+00:00
 -- url     : https://prove2.me/theorems/4ee9dc16-b838-4bbd-a5a4-43f20351adbb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsC_khat1_lift_bound
 -- name    : DiscreteConvex.AlgorithmsC.khat1_lift_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:36:15.193791+00:00
 -- url     : https://prove2.me/theorems/919fbae8-64f3-47ed-a9b8-f478ae2e7b52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_qmw_level_characterizations
 -- name    : DiscreteConvex.MConvexFunctionsE.qmw_level_characterizations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:09:48.607711+00:00
 -- url     : https://prove2.me/theorems/96b0688f-d21b-402a-baf3-c1da5ebacff0

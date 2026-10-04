@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HighDimProb.RandomProcesses.sudakov_minoration_finite_separated
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @raresbuhai
 -- created : 2026-10-02T11:13:53.980984+00:00
 -- url     : https://prove2.me/submissions/e0ccd006-e927-4b7f-921b-69adfe25f0f5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_HighDimProb_RandomProcesses_standard_gaussian_max_lower_bound

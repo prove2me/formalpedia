@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottBaseStock_expected_W_eq_expected_G
 -- name    : VeinottBaseStock.expected_W_eq_expected_G
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:42:56.923204+00:00
 -- url     : https://prove2.me/theorems/fa014e59-b5d3-4c46-a6ec-bd1904be295e

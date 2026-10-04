@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexity_convex_extensible_iff_argmin_hole_free
 -- name    : DiscreteConvex.IntegralConvexity.convex_extensible_iff_argmin_hole_free
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:51:16.775816+00:00
 -- url     : https://prove2.me/theorems/6eac6065-09d7-4c37-8308-7ed315b0c526

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_integral_r
 -- name    : SennottDP.Tauberian.integral_r
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:11:27.104974+00:00
 -- url     : https://prove2.me/theorems/d6f037b7-e63b-433d-9f02-83914f080fed

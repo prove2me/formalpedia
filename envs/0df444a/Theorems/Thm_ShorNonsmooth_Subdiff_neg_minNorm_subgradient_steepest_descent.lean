@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Subdiff_neg_minNorm_subgradient_steepest_descent
 -- name    : ShorNonsmooth.Subdiff.neg_minNorm_subgradient_steepest_descent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:24:46.797824+00:00
 -- url     : https://prove2.me/theorems/f93bd79d-5c15-474e-b037-89196a407689

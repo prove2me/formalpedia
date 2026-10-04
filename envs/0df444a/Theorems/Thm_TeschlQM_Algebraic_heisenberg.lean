@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Algebraic_heisenberg
 -- name    : TeschlQM.Algebraic.heisenberg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T03:10:11.878176+00:00
 -- url     : https://prove2.me/theorems/08e81200-d3ab-4f8d-b766-f6c822a8ab40

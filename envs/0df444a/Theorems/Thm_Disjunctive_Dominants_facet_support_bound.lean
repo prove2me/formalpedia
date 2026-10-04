@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Dominants_facet_support_bound
 -- name    : Disjunctive.Dominants.facet_support_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:11:12.687861+00:00
 -- url     : https://prove2.me/theorems/b0fb957e-902d-437b-b8ba-7ec154df911d

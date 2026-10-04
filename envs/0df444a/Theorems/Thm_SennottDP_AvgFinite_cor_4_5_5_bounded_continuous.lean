@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_cor_4_5_5_bounded_continuous
 -- name    : SennottDP.AvgFinite.cor_4_5_5_bounded_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:35:23.350779+00:00
 -- url     : https://prove2.me/theorems/4477e26a-e96a-4c3b-8915-b11a214e658c

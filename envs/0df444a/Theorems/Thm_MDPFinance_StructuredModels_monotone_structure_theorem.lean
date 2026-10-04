@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_StructuredModels_monotone_structure_theorem
 -- name    : MDPFinance.StructuredModels.monotone_structure_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:38:23.804268+00:00
 -- url     : https://prove2.me/theorems/db359729-38ff-41e9-b315-1d98b7f8d613

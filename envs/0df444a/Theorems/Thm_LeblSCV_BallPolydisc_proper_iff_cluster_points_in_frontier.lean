@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_BallPolydisc_proper_iff_cluster_points_in_frontier
 -- name    : LeblSCV.BallPolydisc.proper_iff_cluster_points_in_frontier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:20:19.73783+00:00
 -- url     : https://prove2.me/theorems/3dbc85de-04d5-466b-9216-bbefbae6b6d0

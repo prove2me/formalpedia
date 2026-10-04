@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Palm_integral_tail_tendsto_mean
 -- name    : ServiceParts.Palm.integral_tail_tendsto_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:34:34.981978+00:00
 -- url     : https://prove2.me/theorems/278b4671-e581-48d0-b886-8a3ef379ca65

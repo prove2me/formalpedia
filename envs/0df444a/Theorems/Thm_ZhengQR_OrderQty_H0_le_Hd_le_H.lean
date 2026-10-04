@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_H0_le_Hd_le_H
 -- name    : ZhengQR.OrderQty.H0_le_Hd_le_H
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:52:46.917509+00:00
 -- url     : https://prove2.me/theorems/25e96b3b-0da4-4210-bc89-e7efe1501499

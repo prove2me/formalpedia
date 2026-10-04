@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiuVanRyzin_focLHS_unique_root
 -- name    : LiuVanRyzin.focLHS_unique_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:37:56.83399+00:00
 -- url     : https://prove2.me/theorems/2f297eb1-e631-415e-8a01-a4c123536dcb

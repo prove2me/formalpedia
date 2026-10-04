@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Graphs_dirac
 -- name    : AppliedComb.Graphs.dirac
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:02:18.515856+00:00
 -- url     : https://prove2.me/theorems/d897c927-803d-4bd7-bc09-74e099f02e77

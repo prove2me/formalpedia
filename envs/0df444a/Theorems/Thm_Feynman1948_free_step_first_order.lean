@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Feynman1948_free_step_first_order
 -- name    : Feynman1948.free_step_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T17:44:04.527509+00:00
 -- url     : https://prove2.me/theorems/76fa396b-8c92-4af3-8ce7-e684e189beb0

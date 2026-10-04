@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Leopoldt_finiteIndex_closure_pow
 -- name    : Leopoldt.finiteIndex_closure_pow
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T23:07:55.326984+00:00
 -- url     : https://prove2.me/theorems/5a759878-192a-4baa-b256-49a8741aca44

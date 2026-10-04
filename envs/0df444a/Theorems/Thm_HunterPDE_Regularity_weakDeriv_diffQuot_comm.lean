@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Regularity_weakDeriv_diffQuot_comm
 -- name    : HunterPDE.Regularity.weakDeriv_diffQuot_comm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T19:23:14.713729+00:00
 -- url     : https://prove2.me/theorems/1bc35783-ac21-40f7-b109-1259107e9ae5

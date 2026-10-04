@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_tentRepellor_isCantorSet
 -- name    : TeschlODE.IntervalMaps.tentRepellor_isCantorSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T18:58:47.563583+00:00
 -- url     : https://prove2.me/theorems/3ce94903-1734-4f9f-85cd-3236e56b187f

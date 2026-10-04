@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_dominated_convergence
 -- name    : SennottDP.Fatou.dominated_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T12:16:03.741987+00:00
 -- url     : https://prove2.me/theorems/6a4cbebe-8087-45c9-bdd7-3e2509a3ac90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_adjustment_coefficient_unique
 -- name    : ServiceParts.Shortfall.adjustment_coefficient_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:30:05.011553+00:00
 -- url     : https://prove2.me/theorems/d3cfd26d-2e9b-440a-b546-640f7311c031

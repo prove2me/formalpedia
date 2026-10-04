@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_MaxCapacity_maxAug_gap_geometric
 -- name    : EdmondsKarp.MaxCapacity.maxAug_gap_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:21:20.134334+00:00
 -- url     : https://prove2.me/theorems/b2e5050e-4c5d-48a8-b9be-328c2490be9a

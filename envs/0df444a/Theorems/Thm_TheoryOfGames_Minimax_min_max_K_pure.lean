@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Minimax_min_max_K_pure
 -- name    : TheoryOfGames.Minimax.min_max_K_pure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:18:26.914842+00:00
 -- url     : https://prove2.me/theorems/8e176742-3bff-46e5-93b3-673cb5cf4b6e

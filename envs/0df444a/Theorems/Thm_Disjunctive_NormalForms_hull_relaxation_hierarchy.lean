@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_NormalForms_hull_relaxation_hierarchy
 -- name    : Disjunctive.NormalForms.hull_relaxation_hierarchy
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:29:28.283996+00:00
 -- url     : https://prove2.me/theorems/bc90479b-334e-43b7-b7f4-eed2038bbb1c

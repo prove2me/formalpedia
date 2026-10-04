@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_value_function_min_solution_doe
 -- name    : SennottDP.Discounted.value_function_min_solution_doe
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:05:44.901984+00:00
 -- url     : https://prove2.me/theorems/fb320c74-3219-4f94-9ce2-a7b8babfa337

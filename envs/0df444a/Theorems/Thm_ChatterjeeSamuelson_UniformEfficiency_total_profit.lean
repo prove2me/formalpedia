@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChatterjeeSamuelson_UniformEfficiency_total_profit
 -- name    : ChatterjeeSamuelson.UniformEfficiency.total_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T09:12:01.289084+00:00
 -- url     : https://prove2.me/theorems/44b8dbaa-a1fe-4ac8-a8d1-308316ba0cda

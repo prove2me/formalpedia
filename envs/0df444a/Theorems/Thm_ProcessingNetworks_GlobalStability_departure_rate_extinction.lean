@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_GlobalStability_departure_rate_extinction
 -- name    : ProcessingNetworks.GlobalStability.departure_rate_extinction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:12:08.453626+00:00
 -- url     : https://prove2.me/theorems/00464930-247d-495e-b2d8-66d64b7795c0

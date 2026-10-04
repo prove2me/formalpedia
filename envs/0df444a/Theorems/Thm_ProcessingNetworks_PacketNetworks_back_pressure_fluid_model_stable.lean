@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_back_pressure_fluid_model_stable
 -- name    : ProcessingNetworks.PacketNetworks.back_pressure_fluid_model_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:58:00.244798+00:00
 -- url     : https://prove2.me/theorems/b9ef17f4-44dd-4227-b9db-732511c12aa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_sbf_iff_perturbed_level_sets_qdl
 -- name    : DiscreteConvex.LConvexFunctionsD.sbf_iff_perturbed_level_sets_qdl
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:02:53.254997+00:00
 -- url     : https://prove2.me/theorems/6a9912a2-9226-4df0-8c62-9225fe364293

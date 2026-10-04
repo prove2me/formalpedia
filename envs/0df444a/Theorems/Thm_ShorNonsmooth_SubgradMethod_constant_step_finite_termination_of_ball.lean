@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SubgradMethod_constant_step_finite_termination_of_ball
 -- name    : ShorNonsmooth.SubgradMethod.constant_step_finite_termination_of_ball
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:02:14.227976+00:00
 -- url     : https://prove2.me/theorems/63b7a17c-ff65-44e6-a83a-9784f5fe899f

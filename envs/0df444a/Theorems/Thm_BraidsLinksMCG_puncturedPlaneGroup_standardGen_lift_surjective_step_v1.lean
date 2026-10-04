@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_puncturedPlaneGroup_standardGen_lift_surjective_step_v1
 -- name    : BraidsLinksMCG.puncturedPlaneGroup_standardGen_lift_surjective_step_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-23T22:44:58.552099+00:00
 -- url     : https://prove2.me/theorems/5cbb403f-e1aa-401c-b774-4154a1ce2ad6

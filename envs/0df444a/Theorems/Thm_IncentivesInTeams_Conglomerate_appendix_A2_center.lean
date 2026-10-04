@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentivesInTeams_Conglomerate_appendix_A2_center
 -- name    : IncentivesInTeams.Conglomerate.appendix_A2_center
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:24:11.276031+00:00
 -- url     : https://prove2.me/theorems/fbe45b86-05da-4c9b-bea6-5762137d1cba

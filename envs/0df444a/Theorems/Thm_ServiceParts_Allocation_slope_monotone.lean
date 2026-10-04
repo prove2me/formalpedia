@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Allocation_slope_monotone
 -- name    : ServiceParts.Allocation.slope_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:58:28.268955+00:00
 -- url     : https://prove2.me/theorems/1ac250fd-27ee-4c3e-a967-4e9ce1207c67

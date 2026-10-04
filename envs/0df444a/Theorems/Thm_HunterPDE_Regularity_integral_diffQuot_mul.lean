@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Regularity_integral_diffQuot_mul
 -- name    : HunterPDE.Regularity.integral_diffQuot_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T19:26:34.81385+00:00
 -- url     : https://prove2.me/theorems/613f85b8-a8ce-4173-9431-35520a6a4fec

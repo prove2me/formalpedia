@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Horseshoe_tentSet_isCantorSet
 -- name    : TeschlODE.Horseshoe.tentSet_isCantorSet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:14:53.004914+00:00
 -- url     : https://prove2.me/theorems/95d02e90-bb8b-4c82-a005-ef61bacb7bb6

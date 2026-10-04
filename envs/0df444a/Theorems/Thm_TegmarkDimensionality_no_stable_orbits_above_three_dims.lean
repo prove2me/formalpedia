@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_no_stable_orbits_above_three_dims
 -- name    : TegmarkDimensionality.no_stable_orbits_above_three_dims
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T02:40:40.571473+00:00
 -- url     : https://prove2.me/theorems/ae495a1b-cc9d-4d1a-8ac3-2873d906b6c4

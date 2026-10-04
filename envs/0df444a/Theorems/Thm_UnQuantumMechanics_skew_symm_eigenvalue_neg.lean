@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_skew_symm_eigenvalue_neg
 -- name    : UnQuantumMechanics.skew_symm_eigenvalue_neg
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T09:02:15.639182+00:00
 -- url     : https://prove2.me/theorems/3603389e-69b2-4a0b-8dfd-8fe1942e628f

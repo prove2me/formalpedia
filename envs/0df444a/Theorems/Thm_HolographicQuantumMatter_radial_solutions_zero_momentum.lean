@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HolographicQuantumMatter_radial_solutions_zero_momentum
 -- name    : HolographicQuantumMatter.radial_solutions_zero_momentum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T18:56:56.102985+00:00
 -- url     : https://prove2.me/theorems/f9998ed1-8380-417d-9827-b593947e4a3f

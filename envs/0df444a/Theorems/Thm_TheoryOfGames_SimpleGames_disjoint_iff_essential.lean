@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_disjoint_iff_essential
 -- name    : TheoryOfGames.SimpleGames.disjoint_iff_essential
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:55:42.23146+00:00
 -- url     : https://prove2.me/theorems/a8168d22-8641-46c2-98fd-a4cdb0155b4d

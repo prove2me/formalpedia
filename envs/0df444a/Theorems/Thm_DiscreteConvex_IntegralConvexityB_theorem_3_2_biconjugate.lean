@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityB_theorem_3_2_biconjugate
 -- name    : DiscreteConvex.IntegralConvexityB.theorem_3_2_biconjugate
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:05:27.944612+00:00
 -- url     : https://prove2.me/theorems/5defcf37-45e6-4975-aee9-0bbf090938a1

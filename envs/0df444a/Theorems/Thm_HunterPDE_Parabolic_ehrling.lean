@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Parabolic_ehrling
 -- name    : HunterPDE.Parabolic.ehrling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:17:57.080668+00:00
 -- url     : https://prove2.me/theorems/df2ea38a-4b77-449b-9cfe-a133022ea063

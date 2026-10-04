@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Linear_liouville_formula
 -- name    : TeschlODE.Linear.liouville_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:56:40.39419+00:00
 -- url     : https://prove2.me/theorems/4fd12211-328f-4a7e-b1d8-f03a4925e73e

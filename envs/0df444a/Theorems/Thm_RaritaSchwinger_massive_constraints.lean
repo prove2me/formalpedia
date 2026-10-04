@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RaritaSchwinger_massive_constraints
 -- name    : RaritaSchwinger.massive_constraints
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T11:40:02.304539+00:00
 -- url     : https://prove2.me/theorems/69def83a-573d-48ad-9a70-76ceca32b51f

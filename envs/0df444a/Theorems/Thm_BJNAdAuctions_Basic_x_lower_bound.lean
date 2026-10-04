@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_x_lower_bound
 -- name    : BJNAdAuctions.Basic.x_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T16:41:24.170987+00:00
 -- url     : https://prove2.me/theorems/ec205554-caac-4aad-a9ea-b98f6d3d5c19

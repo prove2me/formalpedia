@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_OptProportions_transport_cost_eq_min
 -- name    : OptimalBAI.OptProportions.transport_cost_eq_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:59:12.507843+00:00
 -- url     : https://prove2.me/theorems/ba9a0537-4495-4e83-bfe0-c7d068ce4bf4

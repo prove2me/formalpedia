@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_weissinger
 -- name    : TeschlODE.IVP.weissinger
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:51:33.810817+00:00
 -- url     : https://prove2.me/theorems/de83b9d5-9e06-4c4e-b8dc-9d8f1d3fe71d

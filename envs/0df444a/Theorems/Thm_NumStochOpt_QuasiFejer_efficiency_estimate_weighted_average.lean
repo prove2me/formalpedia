@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_efficiency_estimate_weighted_average
 -- name    : NumStochOpt.QuasiFejer.efficiency_estimate_weighted_average
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:43:38.73186+00:00
 -- url     : https://prove2.me/theorems/08856594-b5df-41f3-a93e-bedb73dfa09b

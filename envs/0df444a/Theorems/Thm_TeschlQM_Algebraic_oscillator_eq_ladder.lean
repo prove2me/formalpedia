@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Algebraic_oscillator_eq_ladder
 -- name    : TeschlQM.Algebraic.oscillator_eq_ladder
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T02:38:59.66239+00:00
 -- url     : https://prove2.me/theorems/b753eb34-d60a-411b-ae9b-56030e338b38

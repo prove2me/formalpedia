@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_base_polyhedron_nonempty
 -- name    : DiscreteConvex.MConvexSetsB.base_polyhedron_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:28:56.989996+00:00
 -- url     : https://prove2.me/theorems/68ff8989-58d9-46ef-96f4-613a6273f95d

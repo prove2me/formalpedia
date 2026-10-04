@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_prop_4_5_1_power_series
 -- name    : SennottDP.AvgFinite.prop_4_5_1_power_series
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:17:40.963846+00:00
 -- url     : https://prove2.me/theorems/1207829d-8ed9-4f3d-824a-1f78604354b2

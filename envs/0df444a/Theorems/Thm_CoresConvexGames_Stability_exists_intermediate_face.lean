@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoresConvexGames_Stability_exists_intermediate_face
 -- name    : CoresConvexGames.Stability.exists_intermediate_face
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:51:01.318992+00:00
 -- url     : https://prove2.me/theorems/61541166-dbfc-418b-83bc-39a4f723e09f

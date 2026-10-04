@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GraphAlg_cut_lemma
 -- name    : AppliedComb.GraphAlg.cut_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:35:34.762811+00:00
 -- url     : https://prove2.me/theorems/3fd01111-9bb9-44a3-8be5-6f4360d10c9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Ramsey_hypergraph_ramsey
 -- name    : AppliedComb.Ramsey.hypergraph_ramsey
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:29:01.604122+00:00
 -- url     : https://prove2.me/theorems/6a832b42-1a0c-4b35-a0ec-d39212aa1084

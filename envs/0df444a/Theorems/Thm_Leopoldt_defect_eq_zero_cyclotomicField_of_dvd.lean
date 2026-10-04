@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Leopoldt_defect_eq_zero_cyclotomicField_of_dvd
 -- name    : Leopoldt.defect_eq_zero_cyclotomicField_of_dvd
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T02:40:53.465448+00:00
 -- url     : https://prove2.me/theorems/a8d9f9f4-cf2d-4409-94ba-91e785c692bf

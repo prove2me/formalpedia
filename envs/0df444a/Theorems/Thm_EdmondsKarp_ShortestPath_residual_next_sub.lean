@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_residual_next_sub
 -- name    : EdmondsKarp.ShortestPath.residual_next_sub
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:13:20.273859+00:00
 -- url     : https://prove2.me/theorems/f3aaa9c0-c627-4586-a55e-5703b9c828b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_transaction_cost_structure_assumption
 -- name    : MDPFinance.MeanVariance.transaction_cost_structure_assumption
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:08:28.387338+00:00
 -- url     : https://prove2.me/theorems/b7229f7a-aad7-4a3d-81ee-9e2c3ed7e049

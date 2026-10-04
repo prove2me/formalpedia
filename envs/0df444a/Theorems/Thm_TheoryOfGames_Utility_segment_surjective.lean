@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_segment_surjective
 -- name    : TheoryOfGames.Utility.segment_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:11:32.936265+00:00
 -- url     : https://prove2.me/theorems/97ad6402-d4e1-4d13-8a0d-247aa19ef0e0

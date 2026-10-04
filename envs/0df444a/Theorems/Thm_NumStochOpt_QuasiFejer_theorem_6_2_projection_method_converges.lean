@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_theorem_6_2_projection_method_converges
 -- name    : NumStochOpt.QuasiFejer.theorem_6_2_projection_method_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:46:04.01959+00:00
 -- url     : https://prove2.me/theorems/72b847fe-14ae-4cb1-959e-dc68db9a46f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarelTarjan_SymOrder_depthAlg_correct
 -- name    : HarelTarjan.SymOrder.depthAlg_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:49:11.308391+00:00
 -- url     : https://prove2.me/theorems/2d5e9f33-bf92-4d67-bb8e-e0941b2474e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_complete_of_semiOrbit_subset_compact
 -- name    : TeschlODE.Stability.complete_of_semiOrbit_subset_compact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T13:20:27.202406+00:00
 -- url     : https://prove2.me/theorems/b2723952-7cc4-4753-9ad1-a0a994dc9735

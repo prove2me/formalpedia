@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_DiscreteChoice_choiceProb_shift_injOn
 -- name    : StochFictPlay.DiscreteChoice.choiceProb_shift_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:12:49.751257+00:00
 -- url     : https://prove2.me/theorems/e02f5b75-1748-4c34-8edd-d282f716376b

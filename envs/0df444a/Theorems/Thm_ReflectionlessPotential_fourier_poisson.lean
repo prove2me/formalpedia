@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflectionlessPotential_fourier_poisson
 -- name    : ReflectionlessPotential.fourier_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-19T19:51:42.062976+00:00
 -- url     : https://prove2.me/theorems/a1570de9-2f85-4724-a160-585a2a4931e4

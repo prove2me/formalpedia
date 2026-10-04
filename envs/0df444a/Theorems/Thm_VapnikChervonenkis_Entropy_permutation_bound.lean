@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_permutation_bound
 -- name    : VapnikChervonenkis.Entropy.permutation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:07:51.040699+00:00
 -- url     : https://prove2.me/theorems/6521c8e3-9d69-4752-be14-37e917c72d6e

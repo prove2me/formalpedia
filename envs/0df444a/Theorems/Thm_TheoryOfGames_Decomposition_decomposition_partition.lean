@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_decomposition_partition
 -- name    : TheoryOfGames.Decomposition.decomposition_partition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:32:34.341981+00:00
 -- url     : https://prove2.me/theorems/a4cb9a36-70ec-414a-b954-982c60dffdff

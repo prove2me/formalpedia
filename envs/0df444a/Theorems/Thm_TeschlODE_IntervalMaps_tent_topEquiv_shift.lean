@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_tent_topEquiv_shift
 -- name    : TeschlODE.IntervalMaps.tent_topEquiv_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T19:01:38.132802+00:00
 -- url     : https://prove2.me/theorems/632ff132-bec2-41fd-9d35-f37ace7d47b3

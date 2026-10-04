@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_Representation_theorem2_pos_homogeneous_iff_min_coherent
 -- name    : StarShapedRisk.Representation.theorem2_pos_homogeneous_iff_min_coherent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:03:19.023992+00:00
 -- url     : https://prove2.me/theorems/7b0dd9b7-0475-4a49-be23-dcfd163214aa

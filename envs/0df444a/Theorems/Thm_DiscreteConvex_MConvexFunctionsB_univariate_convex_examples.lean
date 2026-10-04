@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_univariate_convex_examples
 -- name    : DiscreteConvex.MConvexFunctionsB.univariate_convex_examples
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:11:40.824506+00:00
 -- url     : https://prove2.me/theorems/39dd7ba1-4e18-4477-b338-d0f1079ae085

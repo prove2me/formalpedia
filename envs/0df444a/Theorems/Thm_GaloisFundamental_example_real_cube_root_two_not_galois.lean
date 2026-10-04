@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_example_real_cube_root_two_not_galois
 -- name    : GaloisFundamental.example_real_cube_root_two_not_galois
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T01:09:33.349979+00:00
 -- url     : https://prove2.me/theorems/db51ea49-7829-428a-9884-368e3c644649

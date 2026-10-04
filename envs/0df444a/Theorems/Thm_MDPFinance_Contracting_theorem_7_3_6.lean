@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Contracting_theorem_7_3_6
 -- name    : MDPFinance.Contracting.theorem_7_3_6
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:46:34.239729+00:00
 -- url     : https://prove2.me/theorems/c7fb6fb0-6597-4dfb-91e6-fa86846c4874

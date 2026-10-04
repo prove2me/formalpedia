@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Linear_floquet
 -- name    : TeschlODE.Linear.floquet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:58:20.142906+00:00
 -- url     : https://prove2.me/theorems/c3eec27a-e1d9-4b19-96b3-4408704cfe8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_augmentation_is_approximating
 -- name    : SennottDP.FiniteHorizon.augmentation_is_approximating
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:30:27.161632+00:00
 -- url     : https://prove2.me/theorems/694e1ca0-333d-4d2a-93e4-13b6f6d369c4

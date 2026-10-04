@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_splitting_iff_blocks
 -- name    : TheoryOfGames.Decomposition.splitting_iff_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:34:35.64322+00:00
 -- url     : https://prove2.me/theorems/8607813d-b5e0-471e-9bb0-1746f026c87c

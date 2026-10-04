@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_property_d_recourse_piecewise_linear_convex_in_x
 -- name    : NumStochOpt.Bounds.property_d_recourse_piecewise_linear_convex_in_x
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:01:23.091627+00:00
 -- url     : https://prove2.me/theorems/cfae6293-e5cf-408d-8528-5e9af8b39e93

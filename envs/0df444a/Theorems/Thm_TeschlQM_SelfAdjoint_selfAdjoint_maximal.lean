@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_selfAdjoint_maximal
 -- name    : TeschlQM.SelfAdjoint.selfAdjoint_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:20:31.495445+00:00
 -- url     : https://prove2.me/theorems/0a0092a1-9a02-43ca-b845-5ba1a9f864ba

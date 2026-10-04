@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_strip_initial_excess_admissible_value
 -- name    : AvramDividend.Classical.strip_initial_excess_admissible_value
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T22:38:17.587892+00:00
 -- url     : https://prove2.me/theorems/2c817d06-09cc-4ace-84ce-8f9c54a64cd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgASM_ac_limit_optimal
 -- name    : SennottDP.AvgASM.ac_limit_optimal
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:06:38.758839+00:00
 -- url     : https://prove2.me/theorems/e29ef934-313e-4c8a-ada0-66874bbca3cb

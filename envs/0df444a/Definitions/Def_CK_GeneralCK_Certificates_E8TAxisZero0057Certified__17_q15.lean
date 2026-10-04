@@ -1,0 +1,125 @@
+-- Prove2me | Definitions.Def_CK_GeneralCK_Certificates_E8TAxisZero0057Certified__17_q15
+-- name    : CK_GeneralCK_Certificates_E8TAxisZero0057Certified__17_q15
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-10-04T07:51:40.075979+00:00
+-- url     : https://prove2.me/theorems/0accf45a-e0c9-483d-b3b4-34823b609b92
+-- title:
+--   Courtade–Kumar proof module `GeneralCK.Certificates.E8TAxisZero0057Certified (+16 modules: GeneralCK.Certificates.E8TAxisZero0058Certified, GeneralCK.Certificates.E8TAxisZero0059Certified…
+-- statement:
+--   Verbatim transplant of the Lean module `GeneralCK.Certificates.E8TAxisZero0057Certified (+16 modules: GeneralCK.Certificates.E8TAxisZero0058Certified, GeneralCK.Certificates.E8TAxisZero0059Certified, GeneralCK.Certificates.E8TAxisZero0060Certified, GeneralCK.Certificates.E8TAxisZero0061Certified, GeneralCK.Certificates.E8TAxisZero0062Certified, GeneralCK.Certificates.E8TAxisZero0063Certified, GeneralCK.Certificates.E8TAxisZero0064Certified, GeneralCK.Certificates.E8TAxisZero0065Certified, GeneralCK.Certificates.E8TAxisZero0066Certified, GeneralCK.Certificates.E8TAxisZero0067Certified, GeneralCK.Certificates.E8TAxisZero0068Certified, GeneralCK.Certificates.E8TAxisZero0069Certified, GeneralCK.Certificates.E8TAxisZero0070Certified, GeneralCK.Certificates.E8TAxisZero0071Certified, GeneralCK.Certificates.E8TAxisZero0072Certified, GeneralCK.Certificates.E8TAxisZero0073Certified) (piece 16 of 17)` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `GeneralCK.Certificates.E8TAxisZero0057Certified (+16 modules: GeneralCK.Certificates.E8TAxisZero0058Certified, GeneralCK.Certificates.E8TAxisZero0059Certified, GeneralCK.Certificates.E8TAxisZero0060Certified, GeneralCK.Certificates.E8TAxisZero0061Certified, GeneralCK.Certificates.E8TAxisZero0062Certified, GeneralCK.Certificates.E8TAxisZero0063Certified, GeneralCK.Certificates.E8TAxisZero0064Certified, GeneralCK.Certificates.E8TAxisZero0065Certified, GeneralCK.Certificates.E8TAxisZero0066Certified, GeneralCK.Certificates.E8TAxisZero0067Certified, GeneralCK.Certificates.E8TAxisZero0068Certified, GeneralCK.Certificates.E8TAxisZero0069Certified, GeneralCK.Certificates.E8TAxisZero0070Certified, GeneralCK.Certificates.E8TAxisZero0071Certified, GeneralCK.Certificates.E8TAxisZero0072Certified, GeneralCK.Certificates.E8TAxisZero0073Certified) (piece 16 of 17)` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module GeneralCK.Certificates.E8TAxisZero0057Certified (+16 modules: GeneralCK.Certificates.E8TAxisZero0058Certified, GeneralCK.Certificates.E8TAxisZero0059Certified, GeneralCK.Certificates.E8TAxisZero0060Certified, GeneralCK.Certificates.E8TAxisZero0061Certified, GeneralCK.Certificates.E8TAxisZero0062Certified, GeneralCK.Certificates.E8TAxisZero0063Certified, GeneralCK.Certificates.E8TAxisZero0064Certified, GeneralCK.Certificates.E8TAxisZero0065Certified, GeneralCK.Certificates.E8TAxisZero0066Certified, GeneralCK.Certificates.E8TAxisZero0067Certified, GeneralCK.Certificates.E8TAxisZero0068Certified, GeneralCK.Certificates.E8TAxisZero0069Certified, GeneralCK.Certificates.E8TAxisZero0070Certified, GeneralCK.Certificates.E8TAxisZero0071Certified, GeneralCK.Certificates.E8TAxisZero0072Certified, GeneralCK.Certificates.E8TAxisZero0073Certified) (piece 16 of 17) (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/GeneralCK/Certificates/E8TAxisZero0057Certified (+16 modules: GeneralCK/Certificates/E8TAxisZero0058Certified, GeneralCK/Certificates/E8TAxisZero0059Certified, GeneralCK/Certificates/E8TAxisZero0060Certified, GeneralCK/Certificates/E8TAxisZero0061Certified, GeneralCK/Certificates/E8TAxisZero0062Certified, GeneralCK/Certificates/E8TAxisZero0063Certified, GeneralCK/Certificates/E8TAxisZero0064Certified, GeneralCK/Certificates/E8TAxisZero0065Certified, GeneralCK/Certificates/E8TAxisZero0066Certified, GeneralCK/Certificates/E8TAxisZero0067Certified, GeneralCK/Certificates/E8TAxisZero0068Certified, GeneralCK/Certificates/E8TAxisZero0069Certified, GeneralCK/Certificates/E8TAxisZero0070Certified, GeneralCK/Certificates/E8TAxisZero0071Certified, GeneralCK/Certificates/E8TAxisZero0072Certified, GeneralCK/Certificates/E8TAxisZero0073Certified) (piece 16 of 17).lean)
+
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisZero0057Certified__17_q14
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisZero0062CertifiedArithmetic__17
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisZero0072EndpointWitnesses
+import Definitions.Def_CK_GeneralCK_Certificates_E8TAxisRegularCellCertificateSchema
+
+-- ===== source module GeneralCK.Certificates.E8TAxisZero0072Certified =====
+section
+
+namespace GeneralCK.Certificates.E8TAxisZero0072Certified
+open GeneralCK Set DyadicInterval E8TAxisMixedCoefficients E8TAxisPartitionKernel
+open E8TAxisRegularGermJet E8TAxisRegularDirectionalJet
+open E8TAxisZero0072Geometry E8TAxisZero0072CertifiedArithmetic
+
+theorem centerBoxes_contains : centerBoxes.ContainsRegularAt centerS centerT := by
+  refine ⟨?_, ?_, ?_, ?_⟩
+  · apply E8TAxisZero0072GraphCenterA.regular_contains
+    norm_num [centerT]
+  · obtain ⟨a, ha, hpos, hy⟩ := E8TAxisZero0072EndpointWitnesses.centerB_covers
+    have hh := E8TAxisZero0072GraphCenterB.qJetBox_contains ha hpos
+    have hp : 0 < E8TAxisStableScalar.Y a := E8TAxisStableScalar.Y_pos hpos
+    have hr := E8TAxisRegularGermJet.DyadicJet5Enclosure.Contains.regular_of_pos hh hp
+    rw [hy] at hr
+    exact hr
+  · obtain ⟨a, ha, hpos, hy⟩ := E8TAxisZero0072EndpointWitnesses.centerC_covers
+    have hh := E8TAxisZero0072GraphCenterC.qJetBox_contains ha hpos
+    have hp : 0 < E8TAxisStableScalar.Y a := E8TAxisStableScalar.Y_pos hpos
+    have hr := E8TAxisRegularGermJet.DyadicJet5Enclosure.Contains.regular_of_pos hh hp
+    rw [hy] at hr
+    exact hr
+  · obtain ⟨a, ha, hpos, hy⟩ := E8TAxisZero0072EndpointWitnesses.centerD_covers
+    have hh := E8TAxisZero0072GraphCenterD.qJetBox_contains ha hpos
+    have hp : 0 < E8TAxisStableScalar.Y a := E8TAxisStableScalar.Y_pos hpos
+    have hr := E8TAxisRegularGermJet.DyadicJet5Enclosure.Contains.regular_of_pos hh hp
+    rw [hy] at hr
+    exact hr
+
+theorem wholeBoxes_contains {s t : ℝ} (h : InCell s t) :
+    wholeBoxes.ContainsRegularAt s t := by
+  rcases h with ⟨hsl, hsu, htl, htu⟩
+  refine ⟨?_, ?_, ?_, ?_⟩
+  · apply E8TAxisZero0072GraphWholeA.regular_contains
+    simpa [tLower, tUpper] using (show t ∈ Icc tLower tUpper from ⟨htl, htu⟩)
+  · obtain ⟨a, ha, hpos, hy⟩ := E8TAxisZero0072EndpointWitnesses.wholeB_covers_slope
+      (s := 2*s+t) ⟨by linarith, by linarith⟩
+    have hh := E8TAxisZero0072GraphWholeB.qJetBox_contains ha hpos
+    have hp : 0 < E8TAxisStableScalar.Y a := E8TAxisStableScalar.Y_pos hpos
+    have hr := E8TAxisRegularGermJet.DyadicJet5Enclosure.Contains.regular_of_pos hh hp
+    rwa [hy] at hr
+  · obtain ⟨a, ha, hpos, hy⟩ := E8TAxisZero0072EndpointWitnesses.wholeC_covers_slope
+      (s := s+t) ⟨by linarith, by linarith⟩
+    have hh := E8TAxisZero0072GraphWholeC.qJetBox_contains ha hpos
+    have hp : 0 < E8TAxisStableScalar.Y a := E8TAxisStableScalar.Y_pos hpos
+    have hr := E8TAxisRegularGermJet.DyadicJet5Enclosure.Contains.regular_of_pos hh hp
+    rwa [hy] at hr
+  · obtain ⟨a, ha, hpos, hy⟩ := E8TAxisZero0072EndpointWitnesses.wholeD_covers_slope
+      (s := s) ⟨by linarith, by linarith⟩
+    have hh := E8TAxisZero0072GraphWholeD.qJetBox_contains ha hpos
+    have hp : 0 < E8TAxisStableScalar.Y a := E8TAxisStableScalar.Y_pos hpos
+    have hr := E8TAxisRegularGermJet.DyadicJet5Enclosure.Contains.regular_of_pos hh hp
+    rwa [hy] at hr
+
+theorem upperSlope_mem : 2 * sUpper + tUpper ∈ e8SlopeRange := by
+  obtain ⟨a, _, ha, hy⟩ := E8TAxisZero0072EndpointWitnesses.wholeB_covers_slope
+    (s := 2*sUpper+tUpper) ⟨by
+      norm_num [sLower, sUpper, tLower, tUpper], le_rfl⟩
+  rw [← hy]
+  exact ⟨E8TAxisStableScalar.X a, E8TAxisStableScalar.X_pos ha,
+    E8TAxisStableScalar.e8Theta_X ha⟩
+
+noncomputable def certificate : E8TAxisRegularCellCertificateSchema.Certificate precision :=
+  ⟨rectangle, centerS, centerT, data⟩
+
+theorem inputs_range {s t : ℝ} (h : rectangle.Covers s t) : InputsInRange s t :=
+  E8TAxisRegularCellCertificateSchema.inputsInRange_of_rectangle
+    (by norm_num [rectangle, sLower]) (by norm_num [rectangle, tLower]) upperSlope_mem h
+
+theorem positiveAt {s t : ℝ} (h : rectangle.Covers s t) : 0 < e8RegularDeltaT s t := by
+  apply E8TAxisRegularCellCertificateSchema.Certificate.positiveAt certificate
+  · simpa [certificate, rectangle, Rect.Covers, InCell] using center_mem
+  · intro s t h
+    exact inputs_range h
+  · intro s t h
+    exact (displacement_mem (by simpa [certificate, rectangle, Rect.Covers, InCell] using h)).1
+  · intro s t h
+    exact (displacement_mem (by simpa [certificate, rectangle, Rect.Covers, InCell] using h)).2
+  · exact centerEnclosed_of_contains centerBoxes_contains
+  · intro s t h
+    apply wholeEnclosed_of_contains
+    apply wholeBoxes_contains
+    simpa [certificate, rectangle, Rect.Covers, InCell] using h
+  · exact replay_positive
+  · exact h
+
+theorem cellPositive : CellPositive rectangle := by
+  intro s t _ h
+  exact positiveAt h
+
+#print axioms centerBoxes_contains
+#print axioms wholeBoxes_contains
+#print axioms positiveAt
+#print axioms cellPositive
+end GeneralCK.Certificates.E8TAxisZero0072Certified
+
+end
+
+

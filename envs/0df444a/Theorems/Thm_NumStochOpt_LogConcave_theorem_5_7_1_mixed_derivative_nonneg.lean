@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_LogConcave_theorem_5_7_1_mixed_derivative_nonneg
 -- name    : NumStochOpt.LogConcave.theorem_5_7_1_mixed_derivative_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:10:28.367654+00:00
 -- url     : https://prove2.me/theorems/2fe705a5-528a-47ec-a4a9-4486640c637e

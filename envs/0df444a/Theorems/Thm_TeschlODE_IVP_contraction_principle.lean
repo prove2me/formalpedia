@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_contraction_principle
 -- name    : TeschlODE.IVP.contraction_principle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:50:34.736831+00:00
 -- url     : https://prove2.me/theorems/9eb1faa2-b3cf-4b57-a512-30bae1e722ed

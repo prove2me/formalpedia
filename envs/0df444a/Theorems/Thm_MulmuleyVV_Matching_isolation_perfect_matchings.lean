@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulmuleyVV_Matching_isolation_perfect_matchings
 -- name    : MulmuleyVV.Matching.isolation_perfect_matchings
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:36:10.943975+00:00
 -- url     : https://prove2.me/theorems/5c05fc80-d206-4dcf-b12e-11f4979491ee

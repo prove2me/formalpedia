@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_SmallItems_ffd_filter_preserves_excess
 -- name    : BinPacking.SmallItems.ffd_filter_preserves_excess
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:20:21.944379+00:00
 -- url     : https://prove2.me/theorems/e3877310-fc32-4812-afbe-11a01bd5398f

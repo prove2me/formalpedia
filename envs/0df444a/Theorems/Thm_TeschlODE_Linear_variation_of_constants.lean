@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Linear_variation_of_constants
 -- name    : TeschlODE.Linear.variation_of_constants
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:57:30.147337+00:00
 -- url     : https://prove2.me/theorems/4d98bf04-d32d-4b0b-a64a-09cd1823c568

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_Stability_arrival_process_slln
 -- name    : ProcessingNetworks.Stability.arrival_process_slln
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:18:23.399429+00:00
 -- url     : https://prove2.me/theorems/091a03f3-dfb6-4137-a80f-a3f808e66901

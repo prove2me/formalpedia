@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiouvilleFieldTheory_spectrum_momentum_bijOn
 -- name    : LiouvilleFieldTheory.spectrum_momentum_bijOn
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T11:13:44.18933+00:00
 -- url     : https://prove2.me/theorems/2e3d83ec-4e4e-4817-9c81-d6320aa139aa

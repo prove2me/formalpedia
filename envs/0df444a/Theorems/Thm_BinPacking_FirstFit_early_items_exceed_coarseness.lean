@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_FirstFit_early_items_exceed_coarseness
 -- name    : BinPacking.FirstFit.early_items_exceed_coarseness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:06:16.043826+00:00
 -- url     : https://prove2.me/theorems/da7e5fd9-be1f-4575-93cf-f346b67b4142

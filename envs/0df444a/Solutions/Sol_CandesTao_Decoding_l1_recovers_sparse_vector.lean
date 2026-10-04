@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CandesTao.Decoding.l1_recovers_sparse_vector
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @radokirov
 -- created : 2026-10-01T05:11:14.917922+00:00
 -- url     : https://prove2.me/submissions/6f443d98-9c64-49a5-bf00-43ab4ba13e6e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CandesTao_Decoding_RestrictedIsometry
 import Definitions.Def_CandesTao_Decoding_L1Minimization

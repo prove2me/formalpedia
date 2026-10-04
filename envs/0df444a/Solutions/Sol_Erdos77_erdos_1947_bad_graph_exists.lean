@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos77.erdos_1947_bad_graph_exists
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:56:34.525979+00:00
 -- url     : https://prove2.me/submissions/fc5d5a9e-a063-49f5-ad26-ef330ebe74b9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Erdos77_erdos_1947_lll_bad_graph

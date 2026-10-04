@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_ManyFaces_covers_structure
 -- name    : AppliedComb.ManyFaces.covers_structure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:46:52.053381+00:00
 -- url     : https://prove2.me/theorems/ab572b99-d731-466e-9e52-6b66d71204e3

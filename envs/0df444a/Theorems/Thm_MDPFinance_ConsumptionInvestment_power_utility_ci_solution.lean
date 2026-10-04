@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_power_utility_ci_solution
 -- name    : MDPFinance.ConsumptionInvestment.power_utility_ci_solution
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:01:55.271634+00:00
 -- url     : https://prove2.me/theorems/09dafc4b-9853-4b9c-8946-671f2dc93c91

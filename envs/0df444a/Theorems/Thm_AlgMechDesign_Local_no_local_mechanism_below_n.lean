@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgMechDesign_Local_no_local_mechanism_below_n
 -- name    : AlgMechDesign.Local.no_local_mechanism_below_n
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T20:05:12.477798+00:00
 -- url     : https://prove2.me/theorems/fbdc7eb5-1ad2-4877-9012-6147103ff855

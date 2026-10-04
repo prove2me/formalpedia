@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_two_prime_odd_mult_unique_of_non_square
 -- name    : OddPerfectNumber.Kernel.two_prime_odd_mult_unique_of_non_square
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-30T15:21:21.468685+00:00
 -- url     : https://prove2.me/theorems/2618ea86-c216-44ab-b47c-3d248a4aeeed

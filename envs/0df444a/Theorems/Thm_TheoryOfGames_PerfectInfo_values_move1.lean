@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_PerfectInfo_values_move1
 -- name    : TheoryOfGames.PerfectInfo.values_move1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T02:33:33.75827+00:00
 -- url     : https://prove2.me/theorems/eb46f94a-ccfe-44f0-a749-36f466a10ece

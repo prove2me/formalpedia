@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_isShiftInvert_unique
 -- name    : BookProof.HashimotoShiftInvert.isShiftInvert_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:29:28.850997+00:00
 -- url     : https://prove2.me/theorems/656cf6a0-58e9-4cb3-b6ab-f0b1a205e5fa

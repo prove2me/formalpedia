@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomProcesses_sudakov_minoration_finite_separated
 -- name    : HighDimProb.RandomProcesses.sudakov_minoration_finite_separated
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-02T11:01:47.243124+00:00
 -- url     : https://prove2.me/theorems/68afc7e0-eec6-47fc-877b-ce31c007f190

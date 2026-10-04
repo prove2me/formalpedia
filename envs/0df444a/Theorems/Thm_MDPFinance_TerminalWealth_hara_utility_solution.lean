@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_hara_utility_solution
 -- name    : MDPFinance.TerminalWealth.hara_utility_solution
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:57:31.390365+00:00
 -- url     : https://prove2.me/theorems/ec84c814-1ff6-4fd5-acdc-5bf51fb42ad7

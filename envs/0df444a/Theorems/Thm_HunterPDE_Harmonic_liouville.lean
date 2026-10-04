@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Harmonic_liouville
 -- name    : HunterPDE.Harmonic.liouville
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:06:01.967005+00:00
 -- url     : https://prove2.me/theorems/0d1743dd-e59c-4988-a5a4-4709149588a9

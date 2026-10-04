@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_pf_allocation_properties
 -- name    : ProcessingNetworks.ProportionalFairness.pf_allocation_properties
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:17:13.469342+00:00
 -- url     : https://prove2.me/theorems/e6ede016-783f-49d8-aadc-1cc6a9a7f37d

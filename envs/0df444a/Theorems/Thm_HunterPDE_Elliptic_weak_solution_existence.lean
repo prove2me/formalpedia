@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Elliptic_weak_solution_existence
 -- name    : HunterPDE.Elliptic.weak_solution_existence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:49:59.592982+00:00
 -- url     : https://prove2.me/theorems/71fd687c-89c7-4679-998f-30c61e33810e

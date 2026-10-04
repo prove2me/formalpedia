@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_eoq_H_and_optQty
 -- name    : ZhengQR.OrderQty.eoq_H_and_optQty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:51:36.586715+00:00
 -- url     : https://prove2.me/theorems/7fefa2a3-6a17-435d-94e8-4a7b53b58552

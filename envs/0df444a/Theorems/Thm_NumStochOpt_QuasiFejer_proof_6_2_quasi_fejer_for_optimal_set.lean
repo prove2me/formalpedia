@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_proof_6_2_quasi_fejer_for_optimal_set
 -- name    : NumStochOpt.QuasiFejer.proof_6_2_quasi_fejer_for_optimal_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:43:01.62026+00:00
 -- url     : https://prove2.me/theorems/3f839fe5-2e95-429e-995b-73849e3b617e

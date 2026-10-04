@@ -1,33 +1,34 @@
 -- Prove2me | solution 8 for WeakGoldbach.three_primes
 -- status  : SKETCH_ACCEPTED   (prove)
 -- author  : @WillR
--- created : 2026-09-30T23:29:16.579982+00:00
--- url     : https://prove2.me/submissions/dc838453-15b6-4fc2-953e-f6471d85b3e7
+-- created : 2026-09-30T18:34:06.141395+00:00
+-- url     : https://prove2.me/submissions/4141cd96-205a-4dbd-8ba9-6a9839e45149
 -- note    : a sketch -- it imports a theorem that is still Open,
 --           so it depends on `sorryAx` until that child is proved.
 
+import Mathlib
 import Theorems.Thm_WeakGoldbach_three_primes_of_prime
 import Theorems.Thm_WeakGoldbach_three_primes_three
 import Theorems.Thm_WeakGoldbach_three_primes_five
-import Theorems.Thm_strong_goldbach_conjecture
+import Theorems.Thm_WeakGoldbach_verified_three_primes_to_8875e30
+import Theorems.Thm_WeakGoldbach_ternary_goldbach_helfgott_above_10pow27
 
 theorem solution (n : ℕ) (hodd : Odd n) (hn : 1 < n) :
     ∃ s : Multiset ℕ, s.card ≤ 3 ∧ (∀ p ∈ s, Nat.Prime p) ∧ s.sum = n := by
-  -- `key` repacks a two-prime equation into the target's multiset form. It is
-  -- stated with the sum already oriented as `p + q + 3 = n` so the multiset sum
-  -- closes by `simpa` alone, with no arithmetic obligation left to discharge.
-  have key : ∀ p q : ℕ, Nat.Prime p → Nat.Prime q → (p + q + 3 = n) →
+  have key : ∀ p q r : ℕ, Nat.Prime p → Nat.Prime q → Nat.Prime r → n = p + q + r →
       ∃ s : Multiset ℕ, s.card ≤ 3 ∧ (∀ t ∈ s, Nat.Prime t) ∧ s.sum = n := by
-    intro p q hp hq hsum
-    refine ⟨{p, q, 3}, by simp, ?_, ?_⟩
+    intro p q r hp hq hr hsum
+    refine ⟨{p, q, r}, by simp, ?_, ?_⟩
     · intro t ht
       simp only [Multiset.insert_eq_cons, Multiset.cons_zero, Multiset.mem_cons,
         Multiset.notMem_zero, Multiset.mem_singleton, or_false] at ht
       rcases ht with ht | ht | ht
       · simpa [ht] using hp
       · simpa [ht] using hq
-      · simpa [ht] using Nat.prime_three
-    · simpa [Multiset.sum_cons, Multiset.sum_zero, add_assoc] using hsum
+      · simpa [ht] using hr
+    · have hval : p + q + r = n := hsum.symm
+      simpa [Multiset.sum_cons, Multiset.sum_zero, add_assoc] using hval
+  have hnot2 : ¬ 2 ∣ n := hodd.not_two_dvd_nat
   by_cases hprime : Nat.Prime n
   · exact WeakGoldbach.three_primes_of_prime n hprime
   · by_cases h3 : n = 3
@@ -36,18 +37,25 @@ theorem solution (n : ℕ) (hodd : Odd n) (hn : 1 < n) :
     · by_cases h5 : n = 5
       · subst n
         exact WeakGoldbach.three_primes_five
-      · -- `Odd n` is opaque to `omega`, so expose it as the linear equation
-        -- `n = 2 * k + 1`. Combined with `1 < n`, `n != 3` and `n != 5` this gives
-        -- `n >= 7`, hence `n - 3 >= 4`, and `n - 3 = 2 * (k - 1)` is even --
-        -- exactly the two hypotheses `strong_goldbach_conjecture` requires.
-        obtain ⟨k, hk⟩ := hodd
-        have hk1 : 1 ≤ k := by omega
-        have h3le : 3 ≤ n := by omega
-        have hsub : 4 ≤ n - 3 := by omega
-        have heven : 2 ∣ n - 3 := by omega
-        obtain ⟨p, q, hp, hq, hpq⟩ :=
-          strong_goldbach_conjecture (n - 3) hsub heven
-        have hsum : p + q + 3 = n := calc
-          p + q + 3 = (n - 3) + 3 := by rw [hpq]
-          _ = n := Nat.sub_add_cancel h3le
-        exact key p q hp hq hsum
+      · by_cases h7 : n = 7
+        · subst n
+          refine ⟨({2, 2, 3} : Multiset ℕ), by simp, ?_, by norm_num⟩
+          intro t ht
+          simp only [Multiset.insert_eq_cons, Multiset.cons_zero, Multiset.mem_cons,
+            Multiset.notMem_zero, Multiset.mem_singleton, or_false] at ht
+          rcases ht with ht | ht | ht
+          · simpa [ht] using Nat.prime_two
+          · simpa [ht] using Nat.prime_two
+          · simpa [ht] using Nat.prime_three
+        · have hge7 : 7 ≤ n := by omega
+          by_cases hbig : n ≤ 8875694145621773516800000000000
+          · obtain ⟨p, q, r, hp, hq, hr, hsum⟩ :=
+              WeakGoldbach.verified_three_primes_to_8875e30 n hge7 hbig hodd
+            exact key p q r hp hq hr hsum
+          · have hlo : 10 ^ 27 ≤ n := by
+              have h1 : (10 : ℕ) ^ 27 = 1000000000000000000000000000 := by norm_num
+              have h2 : 1000000000000000000000000000 < 8875694145621773516800000000000 := by norm_num
+              omega
+            obtain ⟨p, q, r, hp, hq, hr, hop, hoq, hor, hsum⟩ :=
+              WeakGoldbach.ternary_goldbach_helfgott_above_10pow27 n hodd hlo
+            exact key p q r hp hq hr hsum

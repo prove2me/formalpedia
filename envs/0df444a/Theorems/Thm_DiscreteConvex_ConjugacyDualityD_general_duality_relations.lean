@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityD_general_duality_relations
 -- name    : DiscreteConvex.ConjugacyDualityD.general_duality_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:00:53.095514+00:00
 -- url     : https://prove2.me/theorems/2f7fafd3-6de6-44e6-9208-3cd8c5fdea73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KKBinPacking_GeometricGrouping_alg2_step3_card_le
 -- name    : KKBinPacking.GeometricGrouping.alg2_step3_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:39:03.907315+00:00
 -- url     : https://prove2.me/theorems/641936bb-5a63-4aa2-9352-d96c0186cb3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomProcesses_sudakov_minoration
 -- name    : HighDimProb.RandomProcesses.sudakov_minoration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T22:59:55.485968+00:00
 -- url     : https://prove2.me/theorems/3cbe87f3-71cb-4d22-8595-f4db098ede91

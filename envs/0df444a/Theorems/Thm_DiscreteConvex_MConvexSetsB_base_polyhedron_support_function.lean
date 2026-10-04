@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_base_polyhedron_support_function
 -- name    : DiscreteConvex.MConvexSetsB.base_polyhedron_support_function
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:33:11.361131+00:00
 -- url     : https://prove2.me/theorems/f41de2ae-9cf5-4797-b5b7-e6130fc1fbde

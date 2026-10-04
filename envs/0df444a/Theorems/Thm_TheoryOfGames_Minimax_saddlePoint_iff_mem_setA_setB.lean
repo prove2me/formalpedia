@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Minimax_saddlePoint_iff_mem_setA_setB
 -- name    : TheoryOfGames.Minimax.saddlePoint_iff_mem_setA_setB
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:15:48.969986+00:00
 -- url     : https://prove2.me/theorems/7e6d026c-d2cc-4b8c-a3cf-d0bca2c9b87e

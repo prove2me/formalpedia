@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_StrictComp_farkas_lemma
 -- name    : VanderbeiLP.StrictComp.farkas_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T17:42:02.043993+00:00
 -- url     : https://prove2.me/theorems/e59835f0-584f-42b7-aa03-f4360b24204b

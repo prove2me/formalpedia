@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_cesaro_liminf_limsup
 -- name    : SennottDP.Fatou.cesaro_liminf_limsup
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T12:01:39.226986+00:00
 -- url     : https://prove2.me/theorems/970b61c3-d645-4d03-b6ef-5be769a79b73

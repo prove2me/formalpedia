@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_eq_of_mix_eq_right
 -- name    : AssumptionsOfPhysics.eq_of_mix_eq_right
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T11:14:46.887805+00:00
 -- url     : https://prove2.me/theorems/ba017ca6-6176-4faa-9d6d-7fd7a8ac01bf

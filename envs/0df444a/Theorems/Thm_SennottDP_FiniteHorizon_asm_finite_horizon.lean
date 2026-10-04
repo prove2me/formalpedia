@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_asm_finite_horizon
 -- name    : SennottDP.FiniteHorizon.asm_finite_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:38:03.241604+00:00
 -- url     : https://prove2.me/theorems/8a9929dc-a6a6-47b6-bb09-f34f8d3b437c

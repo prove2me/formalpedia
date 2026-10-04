@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_tendsto_pow_mul_exp_neg_sq_of_pos
 -- name    : Apery.tendsto_pow_mul_exp_neg_sq_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T10:49:34.903986+00:00
 -- url     : https://prove2.me/theorems/71065187-91ca-4019-97b0-3bfa261d68e3

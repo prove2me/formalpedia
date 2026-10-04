@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_GeneralGames_restrictedCharFun_properties
 -- name    : TheoryOfGames.GeneralGames.restrictedCharFun_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:26:04.933013+00:00
 -- url     : https://prove2.me/theorems/57dc936f-8d85-4abf-92fb-8cbf9130973a

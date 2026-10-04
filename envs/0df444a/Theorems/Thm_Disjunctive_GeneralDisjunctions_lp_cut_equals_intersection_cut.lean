@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_GeneralDisjunctions_lp_cut_equals_intersection_cut
 -- name    : Disjunctive.GeneralDisjunctions.lp_cut_equals_intersection_cut
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:00:48.756994+00:00
 -- url     : https://prove2.me/theorems/b779bb09-32b4-4ebb-9a1f-20795d4fc1d0

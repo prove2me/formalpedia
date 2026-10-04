@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_value_le_liminf_VN
 -- name    : SennottDP.DiscountedASM.value_le_liminf_VN
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:37:28.174415+00:00
 -- url     : https://prove2.me/theorems/fc27cf90-843f-45cc-a062-5d743835b3ba

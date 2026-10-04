@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Free_fourier_convolution
 -- name    : TeschlQM.Free.fourier_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T00:49:05.557996+00:00
 -- url     : https://prove2.me/theorems/d8ae44c8-b7a3-46c1-9069-36d8e3524ade

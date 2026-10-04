@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_PerfectInfo_chess_trichotomy
 -- name    : TheoryOfGames.PerfectInfo.chess_trichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:03:13.754016+00:00
 -- url     : https://prove2.me/theorems/158f1ba6-1cb7-4058-bbc0-bdd9f7c133f7

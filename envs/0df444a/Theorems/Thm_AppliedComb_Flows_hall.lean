@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Flows_hall
 -- name    : AppliedComb.Flows.hall
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:41:49.628259+00:00
 -- url     : https://prove2.me/theorems/02e11c4d-8db2-4e5a-ae9b-6d93fc2ca73f

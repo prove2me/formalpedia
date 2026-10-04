@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_two_prime_index_dvd
 -- name    : OddPerfectNumber.Kernel.five_two_prime_index_dvd
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-01T12:04:33.168806+00:00
 -- url     : https://prove2.me/theorems/004189f2-03ac-423a-9205-fd8eb711b622

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH6_krylov_rayleigh_transfer
 -- name    : BookProof.ChapterH6.krylov_rayleigh_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T10:14:34.65144+00:00
 -- url     : https://prove2.me/theorems/052b4c1a-cdbf-49b8-b772-5995077d8ab6

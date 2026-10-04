@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiuVanRyzin_criticalU_bounds
 -- name    : LiuVanRyzin.criticalU_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:38:53.81239+00:00
 -- url     : https://prove2.me/theorems/0facadee-6871-4f8b-be3e-48f300e4b3c0

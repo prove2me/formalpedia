@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_essentiallySelfAdjoint_iff
 -- name    : TeschlQM.SelfAdjoint.essentiallySelfAdjoint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:21:41.711989+00:00
 -- url     : https://prove2.me/theorems/19931eef-c8f7-49fa-8150-c1063b3be225

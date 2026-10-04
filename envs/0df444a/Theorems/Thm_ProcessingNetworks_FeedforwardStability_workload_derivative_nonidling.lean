@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FeedforwardStability_workload_derivative_nonidling
 -- name    : ProcessingNetworks.FeedforwardStability.workload_derivative_nonidling
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:06:06.533483+00:00
 -- url     : https://prove2.me/theorems/279f47fa-4fe3-4cc6-b0c6-4723c134e65c

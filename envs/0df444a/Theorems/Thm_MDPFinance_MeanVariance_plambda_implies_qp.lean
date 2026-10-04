@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_plambda_implies_qp
 -- name    : MDPFinance.MeanVariance.plambda_implies_qp
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:07:27.174269+00:00
 -- url     : https://prove2.me/theorems/4d6bcc32-7cae-4c74-81fb-8cec411e9515

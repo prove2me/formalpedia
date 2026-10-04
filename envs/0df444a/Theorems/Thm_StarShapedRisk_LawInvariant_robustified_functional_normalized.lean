@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_LawInvariant_robustified_functional_normalized
 -- name    : StarShapedRisk.LawInvariant.robustified_functional_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T12:47:21.837262+00:00
 -- url     : https://prove2.me/theorems/b8c865eb-3704-4c1f-bfe4-2a31222eb352

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_Representation_theorem2_star_shaped_iff_min_convex
 -- name    : StarShapedRisk.Representation.theorem2_star_shaped_iff_min_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:04:34.246517+00:00
 -- url     : https://prove2.me/theorems/82be217d-e20c-4aa2-8f04-683d6fa59d46

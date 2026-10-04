@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_HigherDim_trapping_region_attracting
 -- name    : TeschlODE.HigherDim.trapping_region_attracting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:38:32.405013+00:00
 -- url     : https://prove2.me/theorems/a28910e6-9774-4c6c-a046-ff87cb87875c

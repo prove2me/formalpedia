@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_PerfectInfo_values_chance_move
 -- name    : TheoryOfGames.PerfectInfo.values_chance_move
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T02:31:07.529827+00:00
 -- url     : https://prove2.me/theorems/5c768d32-2bf5-4c89-8312-2f40b263c3cc

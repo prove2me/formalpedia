@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Ramsey_high_girth_chromatic
 -- name    : AppliedComb.Ramsey.high_girth_chromatic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:31:15.997239+00:00
 -- url     : https://prove2.me/theorems/7f05b90c-7118-43ba-9847-9e30e6a74a10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_mconvex_descent_direction
 -- name    : DiscreteConvex.MConvexFunctionsB.mconvex_descent_direction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:10:14.095403+00:00
 -- url     : https://prove2.me/theorems/d4bc5dd3-0447-4d95-9ac1-0d85d4c24865

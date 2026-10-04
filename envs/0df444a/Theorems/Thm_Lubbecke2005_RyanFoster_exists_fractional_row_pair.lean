@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Lubbecke2005_RyanFoster_exists_fractional_row_pair
 -- name    : Lubbecke2005.RyanFoster.exists_fractional_row_pair
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:41:12.985151+00:00
 -- url     : https://prove2.me/theorems/906b47dc-8f6f-42f7-8f3b-95b4d748b51c

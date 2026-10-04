@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgASM_wac_limit_optimal
 -- name    : SennottDP.AvgASM.wac_limit_optimal
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:00:21.249103+00:00
 -- url     : https://prove2.me/theorems/0ff4ab01-6c48-425e-8253-79b7278ac96a

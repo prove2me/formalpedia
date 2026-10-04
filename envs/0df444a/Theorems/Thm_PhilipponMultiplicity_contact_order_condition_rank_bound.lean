@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_contact_order_condition_rank_bound
 -- name    : PhilipponMultiplicity.contact_order_condition_rank_bound
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-02T04:01:36.081458+00:00
 -- url     : https://prove2.me/theorems/56cdd0f6-e4d9-4cbf-8553-42cf82261f5a

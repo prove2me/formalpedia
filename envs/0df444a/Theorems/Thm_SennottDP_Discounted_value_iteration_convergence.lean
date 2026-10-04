@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_value_iteration_convergence
 -- name    : SennottDP.Discounted.value_iteration_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:18:55.004072+00:00
 -- url     : https://prove2.me/theorems/198b84fd-4ca2-42bd-a31a-f6b4e26cf249

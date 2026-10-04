@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CookPvsNP_stack_sweep_algebra
 -- name    : CookPvsNP.stack_sweep_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @arexychen
 -- created : 2026-10-02T11:01:45.144978+00:00
 -- url     : https://prove2.me/theorems/aa2c5649-3341-45aa-8232-fc178385bc30

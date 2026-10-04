@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_probe_mod_binder
 -- name    : OddPerfectNumber.Kernel.probe_mod_binder
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T00:27:36.128363+00:00
 -- url     : https://prove2.me/theorems/decfc4de-b32f-479b-b554-fc9711c36bb9

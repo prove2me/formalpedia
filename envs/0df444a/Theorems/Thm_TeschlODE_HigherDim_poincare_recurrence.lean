@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_HigherDim_poincare_recurrence
 -- name    : TeschlODE.HigherDim.poincare_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:31:54.899878+00:00
 -- url     : https://prove2.me/theorems/61d4c832-96e2-48d9-afb5-b3b079d75316

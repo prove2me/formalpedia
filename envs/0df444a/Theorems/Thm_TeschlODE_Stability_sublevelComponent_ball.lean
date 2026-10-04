@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_sublevelComponent_ball
 -- name    : TeschlODE.Stability.sublevelComponent_ball
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T14:01:39.0564+00:00
 -- url     : https://prove2.me/theorems/cc586f62-055d-402d-8d0c-5787758a35de

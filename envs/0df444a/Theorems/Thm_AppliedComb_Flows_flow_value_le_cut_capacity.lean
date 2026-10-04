@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Flows_flow_value_le_cut_capacity
 -- name    : AppliedComb.Flows.flow_value_le_cut_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:39:22.383526+00:00
 -- url     : https://prove2.me/theorems/e81308d1-cc5f-4bef-9ce3-70cd45ce4a5e

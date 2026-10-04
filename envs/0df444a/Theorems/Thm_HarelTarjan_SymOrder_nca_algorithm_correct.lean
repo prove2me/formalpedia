@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarelTarjan_SymOrder_nca_algorithm_correct
 -- name    : HarelTarjan.SymOrder.nca_algorithm_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:49:52.127062+00:00
 -- url     : https://prove2.me/theorems/bbd6532e-de66-4773-8da2-e6cf7b3db392

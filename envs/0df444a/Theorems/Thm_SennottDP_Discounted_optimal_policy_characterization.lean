@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_optimal_policy_characterization
 -- name    : SennottDP.Discounted.optimal_policy_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:21:43.443145+00:00
 -- url     : https://prove2.me/theorems/b5116933-8e50-4ce3-8417-c8d6cd3a08b6

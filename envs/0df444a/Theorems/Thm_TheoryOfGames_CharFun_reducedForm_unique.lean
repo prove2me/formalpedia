@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_CharFun_reducedForm_unique
 -- name    : TheoryOfGames.CharFun.reducedForm_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:55:59.018988+00:00
 -- url     : https://prove2.me/theorems/89e420f8-24be-4fcc-b361-f284080087c7

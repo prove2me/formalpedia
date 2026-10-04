@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_eq_2_32_2_34_edmundson_madansky_one_dim
 -- name    : NumStochOpt.Bounds.eq_2_32_2_34_edmundson_madansky_one_dim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:08:46.083953+00:00
 -- url     : https://prove2.me/theorems/da547d52-9b5d-4d2f-94d5-fbf92c15fdb7

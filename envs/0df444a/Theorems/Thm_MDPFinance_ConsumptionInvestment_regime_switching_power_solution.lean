@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_regime_switching_power_solution
 -- name    : MDPFinance.ConsumptionInvestment.regime_switching_power_solution
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:02:27.364807+00:00
 -- url     : https://prove2.me/theorems/6ffd09eb-d745-46e7-9524-776f0ffe9cd1

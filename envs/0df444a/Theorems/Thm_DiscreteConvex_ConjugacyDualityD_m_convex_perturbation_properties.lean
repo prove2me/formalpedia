@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityD_m_convex_perturbation_properties
 -- name    : DiscreteConvex.ConjugacyDualityD.m_convex_perturbation_properties
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:02:35.223139+00:00
 -- url     : https://prove2.me/theorems/c0d46a13-2382-4230-bbf8-1df37ba98f13

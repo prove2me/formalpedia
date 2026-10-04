@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_buckingham_pi
 -- name    : VaryingConstants.buckingham_pi
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T03:30:37.374014+00:00
 -- url     : https://prove2.me/theorems/e8b2d770-c31f-4b8a-8da2-ddedf24b3bc5

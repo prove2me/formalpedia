@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SubgradMethod_normalized_subgradient_method_converges
 -- name    : ShorNonsmooth.SubgradMethod.normalized_subgradient_method_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:02:40.790989+00:00
 -- url     : https://prove2.me/theorems/82ad8d98-c252-4d7a-9267-67bb6f60d8af

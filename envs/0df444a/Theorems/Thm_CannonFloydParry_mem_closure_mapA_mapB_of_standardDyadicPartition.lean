@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CannonFloydParry_mem_closure_mapA_mapB_of_standardDyadicPartition
 -- name    : CannonFloydParry.mem_closure_mapA_mapB_of_standardDyadicPartition
--- status  : Open
+-- status  : Proved
 -- author  : @shivm
 -- created : 2026-09-16T12:33:59.100666+00:00
 -- url     : https://prove2.me/theorems/dcbd1cac-b163-4db2-83bd-8c58d5576fb6

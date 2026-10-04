@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_kernel_card_ge_two
 -- name    : OddPerfectNumber.Kernel.five_kernel_card_ge_two
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-09-30T12:12:34.255603+00:00
 -- url     : https://prove2.me/theorems/5ef998ce-3d09-4f41-8acc-0a6c651ef59f

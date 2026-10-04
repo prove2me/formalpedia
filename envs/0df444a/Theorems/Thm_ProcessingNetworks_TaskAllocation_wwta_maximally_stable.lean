@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_TaskAllocation_wwta_maximally_stable
 -- name    : ProcessingNetworks.TaskAllocation.wwta_maximally_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:44:16.56152+00:00
 -- url     : https://prove2.me/theorems/aa9fc55c-54c2-4c40-85a3-87dff3d7565e

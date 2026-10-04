@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_k_one_q2_five_q3_twentynine_D27_abundance_absurd_v2
 -- name    : OddPerfectNumber.k_one_q2_five_q3_twentynine_D27_abundance_absurd_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-16T10:55:26.097247+00:00
 -- url     : https://prove2.me/theorems/0f35bae9-0b5a-483c-b7bb-c1e19207a856

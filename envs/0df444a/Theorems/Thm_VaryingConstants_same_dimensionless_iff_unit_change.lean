@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_same_dimensionless_iff_unit_change
 -- name    : VaryingConstants.same_dimensionless_iff_unit_change
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T02:50:41.817149+00:00
 -- url     : https://prove2.me/theorems/21f0b9d7-4aaa-4428-8ca8-2d3677c262f5

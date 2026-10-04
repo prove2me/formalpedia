@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_plambda_binomial_value
 -- name    : MDPFinance.MeanVariance.plambda_binomial_value
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:09:07.905982+00:00
 -- url     : https://prove2.me/theorems/4b8b4565-4030-44c3-a375-533486d6fc74

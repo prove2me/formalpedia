@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Allocation_netInv_normal
 -- name    : ServiceParts.Allocation.netInv_normal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:11:31.9942+00:00
 -- url     : https://prove2.me/theorems/29070623-36a9-4dbf-8da7-10416bd7b22c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_DiscreteChoice_choiceProb_tendsto_zero_of_bounded
 -- name    : StochFictPlay.DiscreteChoice.choiceProb_tendsto_zero_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:21:20.670466+00:00
 -- url     : https://prove2.me/theorems/e1eff8ab-6202-480b-8a88-fb51803d8bb4

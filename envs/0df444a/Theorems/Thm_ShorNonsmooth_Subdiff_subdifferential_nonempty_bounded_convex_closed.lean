@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Subdiff_subdifferential_nonempty_bounded_convex_closed
 -- name    : ShorNonsmooth.Subdiff.subdifferential_nonempty_bounded_convex_closed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:14:32.517864+00:00
 -- url     : https://prove2.me/theorems/1003eeca-db2d-46cc-9d66-96d55a82f43d

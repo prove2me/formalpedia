@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LassoDantzig_Oracle_decoupled_bound
 -- name    : LassoDantzig.Oracle.decoupled_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:10:39.424676+00:00
 -- url     : https://prove2.me/theorems/507407a5-1a8b-4de7-8a2d-9de67a76728f

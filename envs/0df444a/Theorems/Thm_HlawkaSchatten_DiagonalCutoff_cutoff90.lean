@@ -46,7 +46,7 @@
 --   $$
 --   This includes admissibility and uniform optimality, with all unequal-norm and
 --   zero triples allowed. Dimension zero is included. The supplied analytic proof
---   has this scope; the Lean goal remains open.
+--   has this scope; the goal is now proved in Lean.
 -- source:
 --   https://gist.github.com/savarin/4621846808053fe597d1a59f1b7acbbd/59d328b191c87c3b4963bb6b9aa491f98f695075#file-proof-md
 

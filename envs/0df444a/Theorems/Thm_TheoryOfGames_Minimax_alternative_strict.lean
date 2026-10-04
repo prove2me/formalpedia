@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Minimax_alternative_strict
 -- name    : TheoryOfGames.Minimax.alternative_strict
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:21:55.446864+00:00
 -- url     : https://prove2.me/theorems/b73a4fda-dd75-4379-a09a-f5d93c2a87f4

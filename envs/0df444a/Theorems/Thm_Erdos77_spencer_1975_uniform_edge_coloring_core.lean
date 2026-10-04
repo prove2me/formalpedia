@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_1975_uniform_edge_coloring_core
 -- name    : Erdos77.spencer_1975_uniform_edge_coloring_core
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T14:21:54.760041+00:00
 -- url     : https://prove2.me/theorems/b039e13b-90a7-4c48-9afa-475eea344fa8

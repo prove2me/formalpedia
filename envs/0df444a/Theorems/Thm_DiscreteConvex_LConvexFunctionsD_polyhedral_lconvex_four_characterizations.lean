@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_polyhedral_lconvex_four_characterizations
 -- name    : DiscreteConvex.LConvexFunctionsD.polyhedral_lconvex_four_characterizations
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:06:16.616202+00:00
 -- url     : https://prove2.me/theorems/379b7bf3-1a98-4bae-b4b0-fbe8b966513a

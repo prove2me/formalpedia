@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KServer_chunk_price_raise
 -- name    : KServer.chunk_price_raise
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T11:22:29.426987+00:00
 -- url     : https://prove2.me/theorems/a08dc452-d32c-4b65-89e8-6613f13bec73

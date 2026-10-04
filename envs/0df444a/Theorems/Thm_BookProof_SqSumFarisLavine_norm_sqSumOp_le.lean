@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SqSumFarisLavine_norm_sqSumOp_le
 -- name    : BookProof.SqSumFarisLavine.norm_sqSumOp_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:13:23.900023+00:00
 -- url     : https://prove2.me/theorems/4c254878-ced3-474a-a90f-105fa3dd414a

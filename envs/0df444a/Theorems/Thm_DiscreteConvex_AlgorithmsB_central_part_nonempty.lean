@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsB_central_part_nonempty
 -- name    : DiscreteConvex.AlgorithmsB.central_part_nonempty
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:10:38.12599+00:00
 -- url     : https://prove2.me/theorems/6545db76-f1c1-4987-8ba0-a24a6dd6ad09

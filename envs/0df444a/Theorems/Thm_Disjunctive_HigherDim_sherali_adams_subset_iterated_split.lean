@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_HigherDim_sherali_adams_subset_iterated_split
 -- name    : Disjunctive.HigherDim.sherali_adams_subset_iterated_split
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:41:49.109265+00:00
 -- url     : https://prove2.me/theorems/57229d57-d02b-4471-a0c2-dfffbee30aa5

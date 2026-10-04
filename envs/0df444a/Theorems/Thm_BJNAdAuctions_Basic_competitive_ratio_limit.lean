@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_competitive_ratio_limit
 -- name    : BJNAdAuctions.Basic.competitive_ratio_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T16:56:39.227979+00:00
 -- url     : https://prove2.me/theorems/52175dfa-e52d-4a9c-af24-e7a768f5b352

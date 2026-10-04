@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_StructuredModels_convex_structure_theorem
 -- name    : MDPFinance.StructuredModels.convex_structure_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:38:41.653631+00:00
 -- url     : https://prove2.me/theorems/012ec783-3ab7-4283-a9bf-c7a36563596a

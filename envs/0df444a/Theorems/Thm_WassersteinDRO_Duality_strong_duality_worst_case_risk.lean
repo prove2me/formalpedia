@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Duality_strong_duality_worst_case_risk
 -- name    : WassersteinDRO.Duality.strong_duality_worst_case_risk
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:21:10.368698+00:00
 -- url     : https://prove2.me/theorems/48a9c57e-491d-49de-b0ab-ac17ab5e743e

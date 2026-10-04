@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_bottleneck_twice_reversed_between
 -- name    : EdmondsKarp.ShortestPath.bottleneck_twice_reversed_between
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:13:52.145726+00:00
 -- url     : https://prove2.me/theorems/42a7c5c4-cdda-4a43-8993-cd580fc5ebfa

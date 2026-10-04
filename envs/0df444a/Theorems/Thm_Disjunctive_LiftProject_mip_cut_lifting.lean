@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_LiftProject_mip_cut_lifting
 -- name    : Disjunctive.LiftProject.mip_cut_lifting
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:36:53.827166+00:00
 -- url     : https://prove2.me/theorems/c99fe48d-9a53-440c-ae50-1b6d8dde82c6

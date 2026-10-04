@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_fluid_limit_existence
 -- name    : ProcessingNetworks.PacketNetworks.fluid_limit_existence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:52:54.052044+00:00
 -- url     : https://prove2.me/theorems/22975e6c-85e7-447d-9b01-0dd839ebef26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos20_erdos_rado_bound
 -- name    : Erdos20.erdos_rado_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:27:20.454152+00:00
 -- url     : https://prove2.me/theorems/584b1456-6903-4b5a-8226-8001260a0079

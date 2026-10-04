@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_optimality_equation
 -- name    : SennottDP.FiniteHorizon.optimality_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:25:24.488307+00:00
 -- url     : https://prove2.me/theorems/aa6b89e6-eb3b-4e62-ac63-512264175583

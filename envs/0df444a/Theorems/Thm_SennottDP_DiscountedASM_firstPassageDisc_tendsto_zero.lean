@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_firstPassageDisc_tendsto_zero
 -- name    : SennottDP.DiscountedASM.firstPassageDisc_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:44:59.024691+00:00
 -- url     : https://prove2.me/theorems/f189c009-5f9f-4e78-9ab6-f5aae8557726

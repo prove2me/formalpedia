@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_conformal_gauge_action
 -- name    : PolyakovAction.conformal_gauge_action
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T11:39:22.493473+00:00
 -- url     : https://prove2.me/theorems/61052a09-0b1e-49fc-950b-6a99325d445a

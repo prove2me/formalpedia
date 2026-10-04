@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Combinatorics_finite_symmetric_local_lemma_avoidance_positive
 -- name    : Combinatorics.finite_symmetric_local_lemma_avoidance_positive
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T20:25:51.568496+00:00
 -- url     : https://prove2.me/theorems/43069702-0c76-40eb-9328-5b3e8420163e

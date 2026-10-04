@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Recurrence_nonhomogeneous
 -- name    : AppliedComb.Recurrence.nonhomogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:15:19.239215+00:00
 -- url     : https://prove2.me/theorems/f7fddcbd-5d6d-4dc9-aa12-2bf1425370c3

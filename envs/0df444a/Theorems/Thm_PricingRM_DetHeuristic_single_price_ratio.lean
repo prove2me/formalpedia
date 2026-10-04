@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PricingRM_DetHeuristic_single_price_ratio
 -- name    : PricingRM.DetHeuristic.single_price_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:34:12.706075+00:00
 -- url     : https://prove2.me/theorems/cfe9ed03-ab50-4a85-93f1-7c954a9db51e

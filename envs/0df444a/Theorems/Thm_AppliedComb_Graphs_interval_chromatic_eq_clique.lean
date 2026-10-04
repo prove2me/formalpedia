@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Graphs_interval_chromatic_eq_clique
 -- name    : AppliedComb.Graphs.interval_chromatic_eq_clique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:04:26.412132+00:00
 -- url     : https://prove2.me/theorems/e08a8fee-7806-4eb6-bae4-d7a29f7962d8

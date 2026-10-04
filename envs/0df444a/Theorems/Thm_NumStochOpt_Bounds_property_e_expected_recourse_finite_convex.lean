@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_property_e_expected_recourse_finite_convex
 -- name    : NumStochOpt.Bounds.property_e_expected_recourse_finite_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:05:12.46105+00:00
 -- url     : https://prove2.me/theorems/55b68a53-2605-4e63-8b60-6a9eb6488314

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_1975_lll_asymptotic_threshold
 -- name    : Erdos77.spencer_1975_lll_asymptotic_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:27:37.978987+00:00
 -- url     : https://prove2.me/theorems/c85d336d-94cd-4d63-892f-6f6985974bee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_stochastic_transport_convex
 -- name    : ShorNonsmooth.Decomposition.stochastic_transport_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:27:43.703519+00:00
 -- url     : https://prove2.me/theorems/43fbc0c5-8611-4d2a-ac5a-711babf4ef8f

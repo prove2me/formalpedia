@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_Simplex_bland_rule_terminates
 -- name    : VanderbeiLP.Simplex.bland_rule_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T17:03:40.192574+00:00
 -- url     : https://prove2.me/theorems/b18400d9-0f36-4a8e-8b07-c55d8a5406ad

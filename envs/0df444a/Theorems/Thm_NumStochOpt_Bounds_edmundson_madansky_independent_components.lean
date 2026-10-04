@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_Bounds_edmundson_madansky_independent_components
 -- name    : NumStochOpt.Bounds.edmundson_madansky_independent_components
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:31:36.460391+00:00
 -- url     : https://prove2.me/theorems/3a4d3643-63f5-46dc-8e18-8e762206d9a5

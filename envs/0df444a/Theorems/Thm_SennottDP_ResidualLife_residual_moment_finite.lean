@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ResidualLife_residual_moment_finite
 -- name    : SennottDP.ResidualLife.residual_moment_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:28:33.615987+00:00
 -- url     : https://prove2.me/theorems/87cf2813-1163-4c60-8bad-37da9994da95

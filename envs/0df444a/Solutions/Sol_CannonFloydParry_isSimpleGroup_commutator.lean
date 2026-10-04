@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CannonFloydParry.isSimpleGroup_commutator
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-09-16T12:16:02.622618+00:00
 -- url     : https://prove2.me/submissions/31a51774-6d0e-48e9-9a43-e4a34d392b7c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CannonFloydParry_mem_commutator_iff
 import Theorems.Thm_CannonFloydParry_center_eq_bot

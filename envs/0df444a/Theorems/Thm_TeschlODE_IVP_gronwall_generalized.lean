@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_gronwall_generalized
 -- name    : TeschlODE.IVP.gronwall_generalized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:51:54.172899+00:00
 -- url     : https://prove2.me/theorems/9e0ab9c6-1ad0-4139-b3cb-9c4eb0920f13

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_RealTime_G_convex
 -- name    : ServiceParts.RealTime.G_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T00:07:22.125573+00:00
 -- url     : https://prove2.me/theorems/868ae311-ef77-45c6-bbe4-6f7e91abe7c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_standard_pure_word_eval_v2
 -- name    : BraidsLinksMCG.standard_pure_word_eval_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-09-23T20:05:00.632162+00:00
 -- url     : https://prove2.me/theorems/a747a16f-98e3-4585-be39-1564dc3ea5ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ResidualLife_batch_arrival_moments
 -- name    : SennottDP.ResidualLife.batch_arrival_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:40:28.965257+00:00
 -- url     : https://prove2.me/theorems/083c84dc-6966-4ed4-aa7e-316d4ae3291c

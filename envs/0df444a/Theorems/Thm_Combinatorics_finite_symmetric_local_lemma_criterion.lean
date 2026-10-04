@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Combinatorics_finite_symmetric_local_lemma_criterion
 -- name    : Combinatorics.finite_symmetric_local_lemma_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T20:11:46.21615+00:00
 -- url     : https://prove2.me/theorems/7ce7e904-1f60-41ac-b7e8-96af2db751bc

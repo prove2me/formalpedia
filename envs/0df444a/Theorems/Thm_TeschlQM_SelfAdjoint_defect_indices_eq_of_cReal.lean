@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_defect_indices_eq_of_cReal
 -- name    : TeschlQM.SelfAdjoint.defect_indices_eq_of_cReal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:23:45.439507+00:00
 -- url     : https://prove2.me/theorems/80d38789-7ff1-4a17-8ad0-a7277f405530

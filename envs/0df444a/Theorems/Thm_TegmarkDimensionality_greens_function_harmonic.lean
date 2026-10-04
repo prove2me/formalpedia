@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_greens_function_harmonic
 -- name    : TegmarkDimensionality.greens_function_harmonic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T02:27:09.953579+00:00
 -- url     : https://prove2.me/theorems/4c9b7af1-1e09-4203-bae4-d11e79f26445

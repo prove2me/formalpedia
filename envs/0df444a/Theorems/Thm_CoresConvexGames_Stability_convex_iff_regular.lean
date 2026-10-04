@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoresConvexGames_Stability_convex_iff_regular
 -- name    : CoresConvexGames.Stability.convex_iff_regular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:53:49.948986+00:00
 -- url     : https://prove2.me/theorems/d24c41e4-626d-4903-8b2a-882b86e784b2

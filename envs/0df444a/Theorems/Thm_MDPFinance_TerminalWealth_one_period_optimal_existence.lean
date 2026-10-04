@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_one_period_optimal_existence
 -- name    : MDPFinance.TerminalWealth.one_period_optimal_existence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:54:02.553022+00:00
 -- url     : https://prove2.me/theorems/fdaa1b65-c565-40cd-8ed7-5e18cbbe36f2

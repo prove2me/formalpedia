@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_shift_exists_dense_orbit
 -- name    : TeschlODE.IntervalMaps.shift_exists_dense_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T18:56:00.496905+00:00
 -- url     : https://prove2.me/theorems/f892f823-c2f4-4d25-a86a-db46506d7c62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_dominated_convergence_fixed_bound
 -- name    : SennottDP.Fatou.dominated_convergence_fixed_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T12:23:19.071972+00:00
 -- url     : https://prove2.me/theorems/6f8b9e13-c34e-4758-a0e4-b921e5edb133

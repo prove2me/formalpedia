@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_exists_kuhnTucker_multiplier
 -- name    : ShorNonsmooth.Decomposition.exists_kuhnTucker_multiplier
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:22:47.246282+00:00
 -- url     : https://prove2.me/theorems/d06bf132-8af5-4c72-a63e-b376e9f5c96e

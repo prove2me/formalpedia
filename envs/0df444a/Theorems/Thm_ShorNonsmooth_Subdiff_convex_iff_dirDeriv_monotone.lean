@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Subdiff_convex_iff_dirDeriv_monotone
 -- name    : ShorNonsmooth.Subdiff.convex_iff_dirDeriv_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:27:43.152967+00:00
 -- url     : https://prove2.me/theorems/ada6d038-17fd-4f83-8c82-9a2bebc3c805

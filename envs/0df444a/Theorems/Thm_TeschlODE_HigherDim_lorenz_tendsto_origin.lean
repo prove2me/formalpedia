@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_HigherDim_lorenz_tendsto_origin
 -- name    : TeschlODE.HigherDim.lorenz_tendsto_origin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:48:16.252766+00:00
 -- url     : https://prove2.me/theorems/b6a2e939-1ef3-490f-aa08-02f0e965aba3

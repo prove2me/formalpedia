@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_prop_4_5_4_monotone_left_continuous
 -- name    : SennottDP.AvgFinite.prop_4_5_4_monotone_left_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:29:15.682201+00:00
 -- url     : https://prove2.me/theorems/a7f0f167-ae97-4504-8bda-8557045b61b3

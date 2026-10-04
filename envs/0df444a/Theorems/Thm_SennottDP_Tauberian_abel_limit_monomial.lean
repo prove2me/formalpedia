@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_abel_limit_monomial
 -- name    : SennottDP.Tauberian.abel_limit_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:16:58.711844+00:00
 -- url     : https://prove2.me/theorems/fa8368f5-4d8b-459a-8298-726d8b8e6516

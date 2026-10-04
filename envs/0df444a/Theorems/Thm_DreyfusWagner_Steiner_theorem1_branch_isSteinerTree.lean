@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DreyfusWagner_Steiner_theorem1_branch_isSteinerTree
 -- name    : DreyfusWagner.Steiner.theorem1_branch_isSteinerTree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:05:38.398242+00:00
 -- url     : https://prove2.me/theorems/efabead1-8006-4c72-80cd-c71629bd15e1

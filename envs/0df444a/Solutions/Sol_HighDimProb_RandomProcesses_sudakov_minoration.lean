@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HighDimProb.RandomProcesses.sudakov_minoration
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @raresbuhai
 -- created : 2026-10-02T11:06:53.283227+00:00
 -- url     : https://prove2.me/submissions/684de715-ed09-4f78-a037-667ba4b7a472
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HighDimProb_RandomProcesses_CoveringNumber

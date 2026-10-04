@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Stationary_reward_iteration_stationary
 -- name    : MDPFinance.Stationary.reward_iteration_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:20.652571+00:00
 -- url     : https://prove2.me/theorems/763a8db8-d277-4731-a096-5837cb0431e1

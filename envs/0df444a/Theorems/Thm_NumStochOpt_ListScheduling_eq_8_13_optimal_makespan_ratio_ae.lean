@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_ListScheduling_eq_8_13_optimal_makespan_ratio_ae
 -- name    : NumStochOpt.ListScheduling.eq_8_13_optimal_makespan_ratio_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:18:44.748185+00:00
 -- url     : https://prove2.me/theorems/895fce75-1356-405d-9b1b-43e3cea0502b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_DividendProblems_corollary_9_2_4
 -- name    : MDPFinance.DividendProblems.corollary_9_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:13:14.322304+00:00
 -- url     : https://prove2.me/theorems/9682bf36-795b-4e5d-8452-4beaf59720d0

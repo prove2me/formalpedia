@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_Duality_secondQuantile_eq_conj
 -- name    : DualSSD.Duality.secondQuantile_eq_conj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:38:12.157466+00:00
 -- url     : https://prove2.me/theorems/2b5b6033-5587-4721-903a-48d954562b57

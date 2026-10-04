@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Acyclic_acyclic_iff_strictlyAcyclic_of_finite
 -- name    : TheoryOfGames.Acyclic.acyclic_iff_strictlyAcyclic_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:55:49.988449+00:00
 -- url     : https://prove2.me/theorems/1dd549ee-2111-4c24-8da6-6276c4a45ad7

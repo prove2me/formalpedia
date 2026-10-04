@@ -1,8 +1,8 @@
 -- Prove2me | solution 12 for WeakGoldbach.three_primes
 -- status  : SKETCH_ACCEPTED   (prove)
 -- author  : @WillR
--- created : 2026-10-01T10:35:13.464445+00:00
--- url     : https://prove2.me/submissions/96765ff9-9f5e-4c32-8f84-30883afbd2d8
+-- created : 2026-10-01T10:34:35.836244+00:00
+-- url     : https://prove2.me/submissions/2dc1347e-25eb-4ada-86ff-a9e66e79628a
 -- note    : a sketch -- it imports a theorem that is still Open,
 --           so it depends on `sorryAx` until that child is proved.
 
@@ -10,23 +10,21 @@ import Mathlib
 import Theorems.Thm_WeakGoldbach_three_primes_three
 import Theorems.Thm_WeakGoldbach_three_primes_five
 import Theorems.Thm_WeakGoldbach_three_primes_of_prime
-import Theorems.Thm_WeakGoldbach_verified_three_odd_primes_to_8875e30
-import Theorems.Thm_WeakGoldbach_ternary_goldbach_intermediate_range
-import Theorems.Thm_WeakGoldbach_ternary_goldbach_large_range
+import Theorems.Thm_WeakGoldbach_verified_three_primes_to_8875e30
+import Theorems.Thm_WeakGoldbach_three_odd_primes_ge_10pow27
 
 set_option maxRecDepth 10000 in
 theorem solution (n : ℕ) (hodd : Odd n) (hn : 1 < n) :
     ∃ s : Multiset ℕ, s.card ≤ 3 ∧ (∀ p ∈ s, Nat.Prime p) ∧ s.sum = n := by
-  -- Variant W. Differs from V in the cause-linked part along two axes:
+  -- Variant V. Builds on 5568 (SKETCH_ACCEPTED) but reaches the upper band
+  -- through `three_odd_primes_ge_10pow27` at this mathlib revision, which is
+  -- the same statement as the Helfgott child but without the `exp 3100`
+  -- comparison anywhere in the dependency chain.
   --
-  --  * The lower band uses `verified_three_odd_primes_to_8875e30`, which
-  --    additionally returns `Odd p / Odd q / Odd r`, so the destructured oddness
-  --    `hk` is consumed there and no `omega` conversion of `n = p+q+r` is needed
-  --    in that branch.
-  --  * The two upper bands use `ternary_goldbach_intermediate_range` /
-  --    `ternary_goldbach_large_range`, which are the same-revision `all-odd`
-  --    formulations, so the split at `exp 3100` is exercised again but now
-  --    with the `simpa [add_assoc]` discharge that 5560 was missing.
+  -- `sum` is closed with `add_assoc` in the simp set (fault 3), `hodd` is
+  -- copied before being destructed (fault 2), and parity enters `omega` as the
+  -- equation `hk : n = 2*k + 1` rather than as the structure `Odd n`
+  -- (fault 4, the blocker in 5557 / 5561).
   have key : ∀ p q r : ℕ, Nat.Prime p → Nat.Prime q → Nat.Prime r → p + (q + r) = n →
       ∃ s : Multiset ℕ, s.card ≤ 3 ∧ (∀ t ∈ s, Nat.Prime t) ∧ s.sum = n := by
     intro p q r hp hq hr hsum
@@ -43,23 +41,20 @@ theorem solution (n : ℕ) (hodd : Odd n) (hn : 1 < n) :
   have hodd' : Odd n := hodd
   obtain ⟨k, hk⟩ := hodd'
   rcases Nat.lt_or_ge n 9 with hsmall | hbig
-  · have hcases : n = 3 ∨ n = 5 ∨ n = 7 := by omega
+  · -- `hk : n = 2*k+1`, `hsmall : n < 9`, `hn : 1 < n` ⇒ `n ∈ {3,5,7}`.
+    have hcases : n = 3 ∨ n = 5 ∨ n = 7 := by omega
     rcases hcases with rfl | rfl | rfl
     · exact WeakGoldbach.three_primes_three
     · exact WeakGoldbach.three_primes_five
     · exact WeakGoldbach.three_primes_of_prime 7 (by norm_num)
   rcases Nat.lt_or_ge n (10 ^ 27) with hlt27 | hge27
-  · have hlo : 9 ≤ n := hbig
+  · have hlo : 7 ≤ n := by omega
     have hhi : n ≤ 8875694145621773516800000000000 := by
       have : (10 ^ 27 : ℕ) ≤ 8875694145621773516800000000000 := by norm_num
       omega
-    obtain ⟨p, q, r, hp, hq, hr, _, _, _, hsum⟩ :=
-      WeakGoldbach.verified_three_odd_primes_to_8875e30 n hlo hhi hodd
+    obtain ⟨p, q, r, hp, hq, hr, hsum⟩ :=
+      WeakGoldbach.verified_three_primes_to_8875e30 n hlo hhi hodd
     exact key p q r hp hq hr (by omega)
-  rcases le_or_gt (Real.exp 3100) (n : ℝ) with hle | hgt
-  · obtain ⟨p, q, r, hp, hq, hr, _, _, _, hsum⟩ :=
-      WeakGoldbach.ternary_goldbach_large_range n hodd hle
-    exact key p q r hp hq hr (by omega)
-  · obtain ⟨p, q, r, hp, hq, hr, _, _, _, hsum⟩ :=
-      WeakGoldbach.ternary_goldbach_intermediate_range n hodd hge27 hgt
-    exact key p q r hp hq hr (by omega)
+  obtain ⟨p, q, r, hp, hq, hr, _, _, _, hsum⟩ :=
+    WeakGoldbach.three_odd_primes_ge_10pow27 n hge27 hodd
+  exact key p q r hp hq hr (by omega)

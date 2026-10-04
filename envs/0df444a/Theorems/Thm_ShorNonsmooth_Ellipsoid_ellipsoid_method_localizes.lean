@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Ellipsoid_ellipsoid_method_localizes
 -- name    : ShorNonsmooth.Ellipsoid.ellipsoid_method_localizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:20:13.51678+00:00
 -- url     : https://prove2.me/theorems/1a26cdbe-ecf9-4e2d-a69a-3d44fd46e335

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoresConvexGames_Stability_chain_faces_inter_nonempty
 -- name    : CoresConvexGames.Stability.chain_faces_inter_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:52:54.168077+00:00
 -- url     : https://prove2.me/theorems/de3da809-d3f7-4c5e-a35e-34d3b9516293

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Stationary_stochastic_lq_solution
 -- name    : MDPFinance.Stationary.stochastic_lq_solution
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:43:11.977792+00:00
 -- url     : https://prove2.me/theorems/9a00abe7-2a6e-4292-a9b7-92ced1984131

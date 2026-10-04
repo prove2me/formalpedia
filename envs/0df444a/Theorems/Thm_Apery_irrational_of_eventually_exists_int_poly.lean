@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_irrational_of_eventually_exists_int_poly
 -- name    : Apery.irrational_of_eventually_exists_int_poly
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T10:41:28.728071+00:00
 -- url     : https://prove2.me/theorems/fdc353f4-de22-4613-b159-3f01ffd08476

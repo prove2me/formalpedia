@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_det_inducedMetric_of_eom
 -- name    : PolyakovAction.det_inducedMetric_of_eom
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T11:14:06.70614+00:00
 -- url     : https://prove2.me/theorems/4a007aa3-36d9-4ade-b63e-70b29e5db4bb

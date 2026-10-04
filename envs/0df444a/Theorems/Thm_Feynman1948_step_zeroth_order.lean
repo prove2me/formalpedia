@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Feynman1948_step_zeroth_order
 -- name    : Feynman1948.step_zeroth_order
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T17:32:50.239892+00:00
 -- url     : https://prove2.me/theorems/f3af6ac0-fef1-498a-9089-25d314eaa274

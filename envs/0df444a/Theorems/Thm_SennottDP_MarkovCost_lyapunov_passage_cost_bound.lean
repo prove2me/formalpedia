@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_lyapunov_passage_cost_bound
 -- name    : SennottDP.MarkovCost.lyapunov_passage_cost_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:04:11.840222+00:00
 -- url     : https://prove2.me/theorems/bec8c4a2-9419-4c70-80c5-4b8ba34c34c9

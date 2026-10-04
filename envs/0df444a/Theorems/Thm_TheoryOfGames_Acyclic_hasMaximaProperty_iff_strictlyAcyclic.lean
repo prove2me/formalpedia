@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Acyclic_hasMaximaProperty_iff_strictlyAcyclic
 -- name    : TheoryOfGames.Acyclic.hasMaximaProperty_iff_strictlyAcyclic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:57:26.256183+00:00
 -- url     : https://prove2.me/theorems/23bda98a-8f57-4213-834f-7eafc7d96d28

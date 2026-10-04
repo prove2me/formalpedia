@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_extreme_point_optimal_solution_exists
 -- name    : ProcessingNetworks.BackPressure.extreme_point_optimal_solution_exists
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:30:54.154213+00:00
 -- url     : https://prove2.me/theorems/3791473c-5d30-49c1-ad0b-111aec856161

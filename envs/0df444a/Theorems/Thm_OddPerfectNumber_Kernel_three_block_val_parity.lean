@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_three_block_val_parity
 -- name    : OddPerfectNumber.Kernel.three_block_val_parity
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-02T02:06:29.083425+00:00
 -- url     : https://prove2.me/theorems/e9b72026-58b9-4365-93ab-24f940716b33

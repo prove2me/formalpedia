@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_regime_monotone_value_consumption
 -- name    : MDPFinance.ConsumptionInvestment.regime_monotone_value_consumption
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:02:19.608903+00:00
 -- url     : https://prove2.me/theorems/c161f880-be62-4751-ac64-2aa969280cfb

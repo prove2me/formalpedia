@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_continuous_dependence
 -- name    : TeschlODE.IVP.continuous_dependence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:52:13.667958+00:00
 -- url     : https://prove2.me/theorems/bc546cf1-e7a9-4bb1-9704-c83f5018fc73

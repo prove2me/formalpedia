@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_dvd_three_term_sum_mod_p_gives_one_mod_three
 -- name    : OddPerfectNumber.Kernel.dvd_three_term_sum_mod_p_gives_one_mod_three
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T21:48:43.838659+00:00
 -- url     : https://prove2.me/theorems/6618ee35-d712-458e-83a2-47cf2f93be29

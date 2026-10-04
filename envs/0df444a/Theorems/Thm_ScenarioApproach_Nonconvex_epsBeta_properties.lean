@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Nonconvex_epsBeta_properties
 -- name    : ScenarioApproach.Nonconvex.epsBeta_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T18:44:17.168252+00:00
 -- url     : https://prove2.me/theorems/a7c8e590-f4ff-4ce5-af44-3c2b10ebd52a

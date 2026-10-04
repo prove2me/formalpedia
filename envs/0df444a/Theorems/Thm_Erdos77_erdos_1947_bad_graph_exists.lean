@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_erdos_1947_bad_graph_exists
 -- name    : Erdos77.erdos_1947_bad_graph_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T09:59:55.063665+00:00
 -- url     : https://prove2.me/theorems/6c7fe293-2474-40ab-9099-b5aa94c2bc5c

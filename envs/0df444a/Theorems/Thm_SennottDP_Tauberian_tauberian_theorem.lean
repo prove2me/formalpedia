@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_tauberian_theorem
 -- name    : SennottDP.Tauberian.tauberian_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:31:40.142126+00:00
 -- url     : https://prove2.me/theorems/58484811-f9ff-463b-87e3-09e8dc238c99

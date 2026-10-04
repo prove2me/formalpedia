@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_binomial_power_utility_monotone
 -- name    : MDPFinance.TerminalWealth.binomial_power_utility_monotone
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:54:17.931633+00:00
 -- url     : https://prove2.me/theorems/309b05a1-f2f6-4c59-90d2-a2a33d823324

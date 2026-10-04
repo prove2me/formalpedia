@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Ramsey_erdos_lower_bound
 -- name    : AppliedComb.Ramsey.erdos_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:31:55.930658+00:00
 -- url     : https://prove2.me/theorems/a0cd840b-43ba-4aa1-aa3a-6e169777c1c8

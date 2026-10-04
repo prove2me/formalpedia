@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Leopoldt_defect_eq_zero_of_abelian
 -- name    : Leopoldt.defect_eq_zero_of_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @kbuzzard
 -- created : 2026-09-09T09:32:45.486812+00:00
 -- url     : https://prove2.me/theorems/50e8389c-a535-4e83-9d3a-9c719d73d99e

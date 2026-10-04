@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HadwigerConj_wagner_colorable_two_pow
 -- name    : HadwigerConj.wagner_colorable_two_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T23:34:29.312664+00:00
 -- url     : https://prove2.me/theorems/16f7395b-eb6d-458f-8c4f-6dd868f50281

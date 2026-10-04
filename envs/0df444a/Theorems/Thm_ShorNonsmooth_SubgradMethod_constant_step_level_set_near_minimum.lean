@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SubgradMethod_constant_step_level_set_near_minimum
 -- name    : ShorNonsmooth.SubgradMethod.constant_step_level_set_near_minimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:00:49.835608+00:00
 -- url     : https://prove2.me/theorems/a73cb9f1-700d-4211-9211-d50273c5e887

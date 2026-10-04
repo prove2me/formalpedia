@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_InclExcl_perm_N_eq
 -- name    : AppliedComb.InclExcl.perm_N_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:09:56.207194+00:00
 -- url     : https://prove2.me/theorems/50f485fa-a64c-493d-829b-053e0704121b

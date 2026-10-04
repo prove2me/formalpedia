@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_weighted_sum_ge_min
 -- name    : SennottDP.FiniteHorizon.weighted_sum_ge_min
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:22:35.097116+00:00
 -- url     : https://prove2.me/theorems/b5246f2d-f4a9-47ae-8606-d68b5c118907

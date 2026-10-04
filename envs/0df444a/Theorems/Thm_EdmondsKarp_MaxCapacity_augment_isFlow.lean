@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_MaxCapacity_augment_isFlow
 -- name    : EdmondsKarp.MaxCapacity.augment_isFlow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:18:11.482706+00:00
 -- url     : https://prove2.me/theorems/bad08da6-2796-46a1-a4c5-b87ee93e741c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_AlmostDiff_convex_ae_continuously_differentiable
 -- name    : ShorNonsmooth.AlmostDiff.convex_ae_continuously_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:56:47.646834+00:00
 -- url     : https://prove2.me/theorems/760a48c4-7a98-492a-9910-419c5de64f48

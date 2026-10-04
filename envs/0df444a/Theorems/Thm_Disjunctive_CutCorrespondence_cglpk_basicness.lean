@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_CutCorrespondence_cglpk_basicness
 -- name    : Disjunctive.CutCorrespondence.cglpk_basicness
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:46:11.943469+00:00
 -- url     : https://prove2.me/theorems/5da6ccd6-ac00-4fca-ae83-d30d973f8f05

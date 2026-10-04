@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_regge_color_extended_basis
 -- name    : NaculichRegge.regge_color_extended_basis
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T23:55:14.269574+00:00
 -- url     : https://prove2.me/theorems/0c29cee9-1afb-478d-bf67-2e1f25f9edac

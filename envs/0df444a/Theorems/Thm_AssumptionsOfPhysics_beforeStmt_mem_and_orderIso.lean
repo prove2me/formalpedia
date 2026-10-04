@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_beforeStmt_mem_and_orderIso
 -- name    : AssumptionsOfPhysics.beforeStmt_mem_and_orderIso
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T10:06:05.994419+00:00
 -- url     : https://prove2.me/theorems/aa0dcf2b-561d-478c-a04c-14ad7ae1835f

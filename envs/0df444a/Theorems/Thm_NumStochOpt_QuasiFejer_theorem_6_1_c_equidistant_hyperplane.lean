@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_theorem_6_1_c_equidistant_hyperplane
 -- name    : NumStochOpt.QuasiFejer.theorem_6_1_c_equidistant_hyperplane
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:32:55.647442+00:00
 -- url     : https://prove2.me/theorems/2e52fc2c-fc00-411b-8a01-017ec7033ad9

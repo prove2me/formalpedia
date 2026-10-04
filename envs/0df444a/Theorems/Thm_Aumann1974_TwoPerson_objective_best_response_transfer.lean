@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Aumann1974_TwoPerson_objective_best_response_transfer
 -- name    : Aumann1974.TwoPerson.objective_best_response_transfer
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-10-01T01:43:05.97083+00:00
 -- url     : https://prove2.me/theorems/e29c7205-7ffa-4650-aacb-5a984846efcc

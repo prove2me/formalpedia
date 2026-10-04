@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_subgradient_formula
 -- name    : ShorNonsmooth.Decomposition.subgradient_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:23:58.790121+00:00
 -- url     : https://prove2.me/theorems/f9c887b8-417f-410b-929d-8b7923caa517

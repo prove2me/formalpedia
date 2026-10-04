@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Leopoldt.defect_eq_zero_cyclotomicField_of_four_lt_totient
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-09-27T02:43:33.491438+00:00
 -- url     : https://prove2.me/submissions/fb050a5b-85c0-4451-b692-f8f1ee9fed43
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Leopoldt_defect_pos_of_defect_pos
 import Theorems.Thm_Leopoldt_defect_eq_zero_cyclotomicField_of_dvd

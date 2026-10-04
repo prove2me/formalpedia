@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_liminf_min_comm
 -- name    : SennottDP.Fatou.liminf_min_comm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T11:32:23.076703+00:00
 -- url     : https://prove2.me/theorems/8f8e1c79-7d6c-4c4e-91e0-eecb9d1ef933

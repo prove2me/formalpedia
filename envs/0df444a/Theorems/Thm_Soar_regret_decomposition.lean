@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_regret_decomposition
 -- name    : Soar.regret_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T19:02:48.992416+00:00
 -- url     : https://prove2.me/theorems/5decee1e-9232-4a5f-8d86-e712305f40be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_dc_of_atas_finite_set
 -- name    : SennottDP.DiscountedASM.dc_of_atas_finite_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:53:36.470091+00:00
 -- url     : https://prove2.me/theorems/ff06af27-b03d-4f09-94e4-c332cfb322ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_LawInvariant_proposition2_star_shaped_tfae
 -- name    : StarShapedRisk.LawInvariant.proposition2_star_shaped_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:07:46.118843+00:00
 -- url     : https://prove2.me/theorems/a2ceac8c-97ae-40d3-bbd9-7c06eacb5fb4

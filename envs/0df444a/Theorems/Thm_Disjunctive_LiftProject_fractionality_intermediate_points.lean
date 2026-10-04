@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_LiftProject_fractionality_intermediate_points
 -- name    : Disjunctive.LiftProject.fractionality_intermediate_points
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:35:38.507123+00:00
 -- url     : https://prove2.me/theorems/9a1e1133-814c-4b09-a200-24915f097309

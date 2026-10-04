@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiIrrationality_mahler_numerical_estimates
 -- name    : PiIrrationality.mahler_numerical_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T23:52:58.241737+00:00
 -- url     : https://prove2.me/theorems/104f7872-60e7-452d-9617-ef6be8e68236

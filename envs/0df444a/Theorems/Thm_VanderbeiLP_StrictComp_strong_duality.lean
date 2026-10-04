@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_StrictComp_strong_duality
 -- name    : VanderbeiLP.StrictComp.strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T17:22:49.904976+00:00
 -- url     : https://prove2.me/theorems/9bc7de99-93cc-455c-9e39-6e87b28707a5

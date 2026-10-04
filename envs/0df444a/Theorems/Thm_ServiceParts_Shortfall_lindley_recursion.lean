@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_lindley_recursion
 -- name    : ServiceParts.Shortfall.lindley_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:24:20.277588+00:00
 -- url     : https://prove2.me/theorems/ce0fcb8a-6d98-4df3-b45e-8579b396eea5

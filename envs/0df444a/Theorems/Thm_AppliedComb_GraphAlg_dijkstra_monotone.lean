@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GraphAlg_dijkstra_monotone
 -- name    : AppliedComb.GraphAlg.dijkstra_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:36:52.624188+00:00
 -- url     : https://prove2.me/theorems/b214e491-2770-4e2c-b1f9-0797d41a34cc

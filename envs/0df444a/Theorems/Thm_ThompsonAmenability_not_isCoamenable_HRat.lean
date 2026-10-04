@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonAmenability_not_isCoamenable_HRat
 -- name    : ThompsonAmenability.not_isCoamenable_HRat
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-30T18:55:21.4455+00:00
 -- url     : https://prove2.me/theorems/f6f3086e-c263-4840-ae45-8d3768319c6b

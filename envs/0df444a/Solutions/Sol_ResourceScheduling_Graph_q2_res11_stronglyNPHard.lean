@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ResourceScheduling.Graph.q2_res11_stronglyNPHard
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @arexychen
 -- created : 2026-10-02T06:53:44.101327+00:00
 -- url     : https://prove2.me/submissions/99851489-d054-4c27-8eeb-ffa2c2d6c11a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ResourceScheduling_Graph_reduceWord_correct
 import Theorems.Thm_ResourceScheduling_Graph_reduceWord_polyTime

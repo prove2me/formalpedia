@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GraphAlg_dijkstra_correct
 -- name    : AppliedComb.GraphAlg.dijkstra_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:37:15.96981+00:00
 -- url     : https://prove2.me/theorems/9f648ac6-3d59-4b3f-82cb-a8eda3d58f29

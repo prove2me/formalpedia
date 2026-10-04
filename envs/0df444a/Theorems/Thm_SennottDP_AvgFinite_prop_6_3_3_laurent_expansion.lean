@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_prop_6_3_3_laurent_expansion
 -- name    : SennottDP.AvgFinite.prop_6_3_3_laurent_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:58:37.047757+00:00
 -- url     : https://prove2.me/theorems/62f83bfd-06b8-4f0e-8b52-8bc8059b0c76

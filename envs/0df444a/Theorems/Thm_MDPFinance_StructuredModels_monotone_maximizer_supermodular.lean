@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_StructuredModels_monotone_maximizer_supermodular
 -- name    : MDPFinance.StructuredModels.monotone_maximizer_supermodular
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:36:55.518831+00:00
 -- url     : https://prove2.me/theorems/76fc3a2b-e73a-4dc8-a5cd-b818852c3247

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_no_p_source_when_quarter_power_of_two
 -- name    : OddPerfectNumber.Kernel.no_p_source_when_quarter_power_of_two
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-02T03:15:48.311885+00:00
 -- url     : https://prove2.me/theorems/0f8e92a1-0c4a-4d87-98eb-c316f01008d4

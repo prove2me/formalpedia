@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_eq_6_13_bias_gamma
 -- name    : NumStochOpt.QuasiFejer.eq_6_13_bias_gamma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:34:38.461474+00:00
 -- url     : https://prove2.me/theorems/867203fe-2b67-4af8-a1ef-36c840fd83cd

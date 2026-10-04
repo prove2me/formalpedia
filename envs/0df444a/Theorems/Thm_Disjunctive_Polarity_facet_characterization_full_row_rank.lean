@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_facet_characterization_full_row_rank
 -- name    : Disjunctive.Polarity.facet_characterization_full_row_rank
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:19:45.158984+00:00
 -- url     : https://prove2.me/theorems/36d8fe36-f3e9-4c3c-8774-391462aa041a

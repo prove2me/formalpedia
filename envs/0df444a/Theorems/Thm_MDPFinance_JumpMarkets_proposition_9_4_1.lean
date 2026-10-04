@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_JumpMarkets_proposition_9_4_1
 -- name    : MDPFinance.JumpMarkets.proposition_9_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:28:52.516792+00:00
 -- url     : https://prove2.me/theorems/b5e0006f-b8eb-4aa7-8dea-209d5527a1de

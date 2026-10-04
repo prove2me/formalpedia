@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HashimotoShiftInvert_shiftMap_injective
 -- name    : BookProof.HashimotoShiftInvert.shiftMap_injective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:29:34.798035+00:00
 -- url     : https://prove2.me/theorems/5e593736-9000-4fea-96b9-67e76396494a

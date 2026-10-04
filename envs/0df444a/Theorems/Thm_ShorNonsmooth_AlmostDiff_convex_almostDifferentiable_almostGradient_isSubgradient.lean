@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_AlmostDiff_convex_almostDifferentiable_almostGradient_isSubgradient
 -- name    : ShorNonsmooth.AlmostDiff.convex_almostDifferentiable_almostGradient_isSubgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:58:52.597387+00:00
 -- url     : https://prove2.me/theorems/01b1746b-7f29-4822-aa26-83171e8c470c

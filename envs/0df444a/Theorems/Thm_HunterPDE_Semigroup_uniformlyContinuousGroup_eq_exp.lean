@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Semigroup_uniformlyContinuousGroup_eq_exp
 -- name    : HunterPDE.Semigroup.uniformlyContinuousGroup_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:07:00.987412+00:00
 -- url     : https://prove2.me/theorems/405dfe16-3d79-4431-b991-13d2a92e061c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityB_prop_3_16_holefree_family_minkowski
 -- name    : DiscreteConvex.IntegralConvexityB.prop_3_16_holefree_family_minkowski
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:07:05.381996+00:00
 -- url     : https://prove2.me/theorems/0805a1ec-a4d4-4c7b-9930-d4a2291d8ecd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiconvexProg_BranchBound_stage_fun_mono
 -- name    : BiconvexProg.BranchBound.stage_fun_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T17:56:25.800287+00:00
 -- url     : https://prove2.me/theorems/633ff535-6f18-41f9-9207-1016fd4ce662

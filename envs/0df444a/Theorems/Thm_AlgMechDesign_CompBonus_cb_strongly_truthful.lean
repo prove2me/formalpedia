@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgMechDesign_CompBonus_cb_strongly_truthful
 -- name    : AlgMechDesign.CompBonus.cb_strongly_truthful
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T21:24:25.33607+00:00
 -- url     : https://prove2.me/theorems/6438cb41-8805-448c-8f93-383cfddead77

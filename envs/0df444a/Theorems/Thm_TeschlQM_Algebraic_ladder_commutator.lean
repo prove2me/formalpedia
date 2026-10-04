@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Algebraic_ladder_commutator
 -- name    : TeschlQM.Algebraic.ladder_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T02:27:20.265577+00:00
 -- url     : https://prove2.me/theorems/62fc348e-4558-4115-9960-d7b08061c6a7

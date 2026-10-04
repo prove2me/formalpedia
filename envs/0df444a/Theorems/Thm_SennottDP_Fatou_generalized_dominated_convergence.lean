@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_generalized_dominated_convergence
 -- name    : SennottDP.Fatou.generalized_dominated_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T12:38:43.71284+00:00
 -- url     : https://prove2.me/theorems/5f6d4091-b6b0-4fe9-aedb-9a30f105ca8c

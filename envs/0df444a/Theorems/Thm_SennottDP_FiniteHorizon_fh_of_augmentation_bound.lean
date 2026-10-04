@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_fh_of_augmentation_bound
 -- name    : SennottDP.FiniteHorizon.fh_of_augmentation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:46:17.359167+00:00
 -- url     : https://prove2.me/theorems/844f47a9-262e-4b81-aff2-2cfa669dec7b

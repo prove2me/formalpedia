@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_zero_l_induces_submodular
 -- name    : DiscreteConvex.LConvexFunctionsD.zero_l_induces_submodular
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:08:18.763412+00:00
 -- url     : https://prove2.me/theorems/6ac2aed9-c4db-42f7-acf5-4117428ef735

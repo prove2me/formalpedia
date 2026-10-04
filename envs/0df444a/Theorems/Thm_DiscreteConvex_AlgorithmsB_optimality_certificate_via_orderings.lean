@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsB_optimality_certificate_via_orderings
 -- name    : DiscreteConvex.AlgorithmsB.optimality_certificate_via_orderings
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:10:27.659989+00:00
 -- url     : https://prove2.me/theorems/c7faa69f-4d4f-424a-8a45-6bb2b55a59f0

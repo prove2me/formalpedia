@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_global_existence_linear_growth
 -- name    : TeschlODE.IVP.global_existence_linear_growth
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:52:44.496632+00:00
 -- url     : https://prove2.me/theorems/659c6e01-0782-4419-8dd7-fc1deb42b820

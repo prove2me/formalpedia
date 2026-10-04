@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Linear_principal_matrix_solution_periodic
 -- name    : TeschlODE.Linear.principal_matrix_solution_periodic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:56:09.686024+00:00
 -- url     : https://prove2.me/theorems/bde45006-73da-4ee1-8f38-5f397db8e4f6

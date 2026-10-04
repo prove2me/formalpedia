@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GenFun_central_binom_genfun
 -- name    : AppliedComb.GenFun.central_binom_genfun
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:13:00.846987+00:00
 -- url     : https://prove2.me/theorems/6e0a59cb-9809-4402-9a6b-088ae97a4592

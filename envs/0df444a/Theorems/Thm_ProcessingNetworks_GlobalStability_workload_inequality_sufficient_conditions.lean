@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_GlobalStability_workload_inequality_sufficient_conditions
 -- name    : ProcessingNetworks.GlobalStability.workload_inequality_sufficient_conditions
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:14:51.910873+00:00
 -- url     : https://prove2.me/theorems/f1c0cabf-be0b-49bb-bf8c-747685fd263c

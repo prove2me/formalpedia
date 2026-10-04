@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_cyclotomic_coprime_first_mod_three
 -- name    : OddPerfectNumber.Kernel.five_cyclotomic_coprime_first_mod_three
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T07:47:41.08008+00:00
 -- url     : https://prove2.me/theorems/9af6f99a-b577-4d37-8d0d-a4c975e28d6d

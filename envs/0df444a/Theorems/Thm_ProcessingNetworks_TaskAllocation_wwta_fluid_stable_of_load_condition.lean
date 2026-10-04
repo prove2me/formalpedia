@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_TaskAllocation_wwta_fluid_stable_of_load_condition
 -- name    : ProcessingNetworks.TaskAllocation.wwta_fluid_stable_of_load_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:43:47.109577+00:00
 -- url     : https://prove2.me/theorems/c77a34a2-2986-4539-82d0-7452bbd1e44a

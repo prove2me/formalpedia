@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_natural_units_exists_unique
 -- name    : VaryingConstants.natural_units_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T02:07:16.970974+00:00
 -- url     : https://prove2.me/theorems/432e134c-7a40-4331-a980-cb7c4561a141

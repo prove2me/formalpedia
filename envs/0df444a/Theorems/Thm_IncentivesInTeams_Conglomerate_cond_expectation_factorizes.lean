@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IncentivesInTeams_Conglomerate_cond_expectation_factorizes
 -- name    : IncentivesInTeams.Conglomerate.cond_expectation_factorizes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:23:06.363715+00:00
 -- url     : https://prove2.me/theorems/f393ee08-d245-4623-8e47-5daf57f14d4d

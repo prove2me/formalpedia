@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Horseshoe_symDistZ_agree
 -- name    : TeschlODE.Horseshoe.symDistZ_agree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:03:28.926153+00:00
 -- url     : https://prove2.me/theorems/c5a32a60-6b3f-4a62-a2de-560688b5942e

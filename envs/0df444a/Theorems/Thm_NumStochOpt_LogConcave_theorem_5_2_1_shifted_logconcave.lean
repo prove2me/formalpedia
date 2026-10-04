@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_LogConcave_theorem_5_2_1_shifted_logconcave
 -- name    : NumStochOpt.LogConcave.theorem_5_2_1_shifted_logconcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:56:03.38332+00:00
 -- url     : https://prove2.me/theorems/d7fdd6ea-88ae-4105-a29f-b58b9ad963d2

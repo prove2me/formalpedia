@@ -22,6 +22,8 @@
 {"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_Delta1", "via": ["statement"]}
 {"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_GeneralAlgorithm", "via": ["statement"]}
 {"parent": "ExtendedSmale9.theorem_3_4_i_LP", "child": "ExtendedSmale9_LinearProgram", "via": ["statement"]}
+{"parent": "Goldbach.chen_theorem", "child": "Goldbach.chen_theorem_even_below_threshold", "via": ["solution"]}
+{"parent": "Goldbach.chen_theorem", "child": "Goldbach.chen_theorem_sieve", "via": ["solution"]}
 {"parent": "MME.StothersFourth.Phi233.mme_stothers_phi233_doubled_hash_AP", "child": "mme_stothers_phi233_cyclic_affine_hash", "via": ["solution", "statement"]}
 {"parent": "MME.StothersFourth.fixedHash_budget_of_degree", "child": "MME.StothersFourth.fixedHash_incidence_sums", "via": ["solution"]}
 {"parent": "MME.StothersFourth.fixedHash_budget_of_degree", "child": "MME.StothersFourth.fixedHash_retained_vertex_closed", "via": ["solution"]}
@@ -23107,6 +23109,10 @@
 {"parent": "probe_flt5_basic_v1", "child": "flt_five", "via": ["solution"]}
 {"parent": "r_eq_t_theorem", "child": "taylor_wiles_patching", "via": ["solution"]}
 {"parent": "ribet_level_lowering", "child": "modularity_semistable_elliptic", "via": ["solution"]}
+{"parent": "riemann_hypothesis", "child": "moebius_dirichlet_partialSum_tendsto_of_half_lt", "via": ["solution"]}
+{"parent": "riemann_hypothesis", "child": "moebius_summatory_rpow_bound", "via": ["solution"]}
+{"parent": "riemann_hypothesis", "child": "nontrivial_zero_strip_of_moebius_summatory_power_bound", "via": ["solution"]}
+{"parent": "riemann_hypothesis", "child": "summatory_isBigO_rpow_of_dirichlet_partialSum_tendsto", "via": ["solution"]}
 {"parent": "riemann_hypothesis", "child": "zeta_ne_zero_of_half_lt_re", "via": ["solution"]}
 {"parent": "riemann_hypothesis", "child": "zeta_nontrivial_zero_mem_critical_strip", "via": ["solution"]}
 {"parent": "riemann_hypothesis", "child": "zeta_zero_one_sub_of_mem_critical_strip", "via": ["solution"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Aumann1974_TwoPerson_active_support_transfer
 -- name    : Aumann1974.TwoPerson.active_support_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T00:39:04.649523+00:00
 -- url     : https://prove2.me/theorems/460e5ad8-afdf-4d51-9cab-92cf41edbefe

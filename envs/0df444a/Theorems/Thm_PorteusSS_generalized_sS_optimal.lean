@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PorteusSS_generalized_sS_optimal
 -- name    : PorteusSS.generalized_sS_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:59:06.12778+00:00
 -- url     : https://prove2.me/theorems/3872a132-3fb3-4702-b8f1-f23750ca8b79

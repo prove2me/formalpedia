@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Combinatorics_finite_symmetric_local_lemma
 -- name    : Combinatorics.finite_symmetric_local_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T19:55:29.863775+00:00
 -- url     : https://prove2.me/theorems/0505c8e9-e188-4165-9489-dcf39634d331

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityC_prop_3_24_sum_integrally_convex_separable
 -- name    : DiscreteConvex.IntegralConvexityC.prop_3_24_sum_integrally_convex_separable
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:12:39.300562+00:00
 -- url     : https://prove2.me/theorems/af453dca-504e-4bc6-b069-2770e6d6bc5b

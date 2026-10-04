@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Acyclic_V0_isSolution
 -- name    : TheoryOfGames.Acyclic.V0_isSolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:04:17.837114+00:00
 -- url     : https://prove2.me/theorems/96d6b2bf-de6f-44ad-aaec-2033693acfb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_DiscountedASM_dc_of_bounded_cost
 -- name    : SennottDP.DiscountedASM.dc_of_bounded_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:49:16.550271+00:00
 -- url     : https://prove2.me/theorems/6e77ec2d-7fab-4794-a11c-001dbdb446d1

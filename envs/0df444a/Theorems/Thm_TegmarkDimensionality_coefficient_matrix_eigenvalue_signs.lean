@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TegmarkDimensionality_coefficient_matrix_eigenvalue_signs
 -- name    : TegmarkDimensionality.coefficient_matrix_eigenvalue_signs
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T05:05:52.132824+00:00
 -- url     : https://prove2.me/theorems/1fb02dd3-b37d-4b2f-a37a-72242afc1c60

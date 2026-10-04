@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_LawInvariant_inf_envelope_star_shaped
 -- name    : StarShapedRisk.LawInvariant.inf_envelope_star_shaped
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T13:37:25.533613+00:00
 -- url     : https://prove2.me/theorems/0b13a551-04b0-4a81-a806-1afd0bd7c783

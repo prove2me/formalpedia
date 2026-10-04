@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StarShapedRisk_Representation_theorem1_inf_convolution
 -- name    : StarShapedRisk.Representation.theorem1_inf_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:00:49.675371+00:00
 -- url     : https://prove2.me/theorems/abb4d9c9-56a7-4ded-8979-b020717d6059

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_finite_horizon_cost_tendsto
 -- name    : SennottDP.Discounted.finite_horizon_cost_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:57:51.92122+00:00
 -- url     : https://prove2.me/theorems/5eea75ec-f961-41bd-9cf7-b6388bf24276

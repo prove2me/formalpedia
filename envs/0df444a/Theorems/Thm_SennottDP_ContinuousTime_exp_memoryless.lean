@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ContinuousTime_exp_memoryless
 -- name    : SennottDP.ContinuousTime.exp_memoryless
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:58:38.513676+00:00
 -- url     : https://prove2.me/theorems/ce904f8a-b833-47c8-a7b6-f7bf72fbdbda

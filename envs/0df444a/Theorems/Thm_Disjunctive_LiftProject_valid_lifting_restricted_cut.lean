@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_LiftProject_valid_lifting_restricted_cut
 -- name    : Disjunctive.LiftProject.valid_lifting_restricted_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:36:30.894404+00:00
 -- url     : https://prove2.me/theorems/ca061ab0-c698-483b-9283-4d8de0087ff9

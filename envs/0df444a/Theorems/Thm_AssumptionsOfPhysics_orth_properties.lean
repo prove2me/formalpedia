@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssumptionsOfPhysics_orth_properties
 -- name    : AssumptionsOfPhysics.orth_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T10:06:12.681078+00:00
 -- url     : https://prove2.me/theorems/68a94d70-54aa-4f75-a14d-9f60fac4a4df

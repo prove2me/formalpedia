@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsB_lconvex_iff_argmin_polyhedra_lconvex
 -- name    : DiscreteConvex.LConvexFunctionsB.lconvex_iff_argmin_polyhedra_lconvex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:25:24.460439+00:00
 -- url     : https://prove2.me/theorems/3e0c7a18-c752-423e-a267-9563f26aba79

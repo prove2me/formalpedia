@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_facet_characterization_polarity
 -- name    : Disjunctive.Polarity.facet_characterization_polarity
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:23:28.349843+00:00
 -- url     : https://prove2.me/theorems/306a616c-905b-48e7-b93d-71884dc50a1c

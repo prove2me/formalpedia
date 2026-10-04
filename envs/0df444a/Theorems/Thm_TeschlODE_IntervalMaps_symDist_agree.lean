@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_symDist_agree
 -- name    : TeschlODE.IntervalMaps.symDist_agree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T18:48:51.142634+00:00
 -- url     : https://prove2.me/theorems/a10058ab-eb25-4614-84ee-4662beb147c2

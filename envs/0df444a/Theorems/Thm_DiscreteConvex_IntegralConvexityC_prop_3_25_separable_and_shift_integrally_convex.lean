@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityC_prop_3_25_separable_and_shift_integrally_convex
 -- name    : DiscreteConvex.IntegralConvexityC.prop_3_25_separable_and_shift_integrally_convex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:12:40.664664+00:00
 -- url     : https://prove2.me/theorems/a85f6316-9d97-41de-b806-3236b99c42c3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_zero_mean_invest_in_bond
 -- name    : MDPFinance.TerminalWealth.zero_mean_invest_in_bond
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:55:29.698519+00:00
 -- url     : https://prove2.me/theorems/c2cd92e5-1fe1-49fb-93ac-a8c0398336a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Holomorphic_identity_theorem
 -- name    : LeblSCV.Holomorphic.identity_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:13:45.763324+00:00
 -- url     : https://prove2.me/theorems/49bf71a5-1e7a-4b3e-a7de-f24abb9e1072

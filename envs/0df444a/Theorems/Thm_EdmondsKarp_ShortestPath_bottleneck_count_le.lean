@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_bottleneck_count_le
 -- name    : EdmondsKarp.ShortestPath.bottleneck_count_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:15:29.921994+00:00
 -- url     : https://prove2.me/theorems/6cfa8606-cb21-44cf-b9fa-d12d25b7d8e1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DreyfusWagner_Steiner_optimal_decomposition
 -- name    : DreyfusWagner.Steiner.optimal_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:06:11.658349+00:00
 -- url     : https://prove2.me/theorems/4f9db6ad-e323-46bb-8613-3e8cd26e957f

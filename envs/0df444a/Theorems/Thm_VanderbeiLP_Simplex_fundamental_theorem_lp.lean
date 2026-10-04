@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_Simplex_fundamental_theorem_lp
 -- name    : VanderbeiLP.Simplex.fundamental_theorem_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T17:08:25.707822+00:00
 -- url     : https://prove2.me/theorems/0fda3a07-8159-48e0-ac66-a3f8b99941b2

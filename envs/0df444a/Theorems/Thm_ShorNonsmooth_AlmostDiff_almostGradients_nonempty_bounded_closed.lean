@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_AlmostDiff_almostGradients_nonempty_bounded_closed
 -- name    : ShorNonsmooth.AlmostDiff.almostGradients_nonempty_bounded_closed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:57:37.381006+00:00
 -- url     : https://prove2.me/theorems/e6c2d262-70da-434a-a959-b886ff47e97e

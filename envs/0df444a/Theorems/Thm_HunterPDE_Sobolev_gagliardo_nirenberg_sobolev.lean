@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_gagliardo_nirenberg_sobolev
 -- name    : HunterPDE.Sobolev.gagliardo_nirenberg_sobolev
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T06:57:54.832607+00:00
 -- url     : https://prove2.me/theorems/05bda57e-bddd-4545-85a9-86539e325223

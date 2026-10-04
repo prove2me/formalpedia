@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_CharFun_inessential_iff_additive
 -- name    : TheoryOfGames.CharFun.inessential_iff_additive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:06:34.851847+00:00
 -- url     : https://prove2.me/theorems/3639b84e-aa68-48b8-b590-ce2a085fdb15

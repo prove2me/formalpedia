@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDuality_Lagrange_weak_duality
 -- name    : DiscreteConvex.ConjugacyDuality.Lagrange.weak_duality
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:15:18.759621+00:00
 -- url     : https://prove2.me/theorems/1177b483-70bf-4280-8909-ce68f2d663e3

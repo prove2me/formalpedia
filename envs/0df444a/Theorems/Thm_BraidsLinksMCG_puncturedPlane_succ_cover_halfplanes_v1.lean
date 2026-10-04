@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_puncturedPlane_succ_cover_halfplanes_v1
 -- name    : BraidsLinksMCG.puncturedPlane_succ_cover_halfplanes_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-24T07:38:27.543991+00:00
 -- url     : https://prove2.me/theorems/9979d6ba-89ff-44a8-b998-1ef0a1312830

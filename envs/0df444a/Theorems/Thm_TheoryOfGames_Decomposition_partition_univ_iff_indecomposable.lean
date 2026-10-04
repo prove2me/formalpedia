@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_partition_univ_iff_indecomposable
 -- name    : TheoryOfGames.Decomposition.partition_univ_iff_indecomposable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:38:20.694983+00:00
 -- url     : https://prove2.me/theorems/fec73891-d478-4b62-9075-5933a8f8cec5

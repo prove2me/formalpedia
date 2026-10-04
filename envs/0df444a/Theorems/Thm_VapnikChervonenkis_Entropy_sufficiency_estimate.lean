@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_sufficiency_estimate
 -- name    : VapnikChervonenkis.Entropy.sufficiency_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:08:14.32069+00:00
 -- url     : https://prove2.me/theorems/072d5e93-f5ac-4506-9f82-e408a83b7047

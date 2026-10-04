@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_lorentz_invariance_first_order
 -- name    : PolyakovAction.lorentz_invariance_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T09:40:28.0441+00:00
 -- url     : https://prove2.me/theorems/e48f28f8-6ca5-4f12-bafe-60d57c6bfffe

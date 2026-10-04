@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_markov_policy_optimal
 -- name    : SennottDP.FiniteHorizon.markov_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:28:35.604821+00:00
 -- url     : https://prove2.me/theorems/8e20cfd8-f27d-49d5-8c15-318e5690213e

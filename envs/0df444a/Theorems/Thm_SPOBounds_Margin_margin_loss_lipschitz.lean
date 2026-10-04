@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPOBounds_Margin_margin_loss_lipschitz
 -- name    : SPOBounds.Margin.margin_loss_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:33:49.531248+00:00
 -- url     : https://prove2.me/theorems/71dfcbfc-d0c3-44e7-bf1e-b6728cd89510

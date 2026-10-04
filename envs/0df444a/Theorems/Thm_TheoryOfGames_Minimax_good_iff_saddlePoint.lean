@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Minimax_good_iff_saddlePoint
 -- name    : TheoryOfGames.Minimax.good_iff_saddlePoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:27:40.764974+00:00
 -- url     : https://prove2.me/theorems/a3c01445-cb28-43b4-9e1e-9499aedf7866

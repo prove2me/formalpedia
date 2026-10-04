@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ContinuousTime_avgCost_le_of_ineq
 -- name    : SennottDP.ContinuousTime.avgCost_le_of_ineq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T11:06:14.316351+00:00
 -- url     : https://prove2.me/theorems/b8041415-4233-4cc9-ac1b-395017bb49ed

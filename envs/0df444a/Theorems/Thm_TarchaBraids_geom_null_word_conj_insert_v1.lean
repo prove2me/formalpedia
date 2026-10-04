@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_geom_null_word_conj_insert_v1
 -- name    : TarchaBraids.geom_null_word_conj_insert_v1
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-27T21:04:01.415971+00:00
 -- url     : https://prove2.me/theorems/9365cc39-2620-4396-8801-8e2954f59a3a

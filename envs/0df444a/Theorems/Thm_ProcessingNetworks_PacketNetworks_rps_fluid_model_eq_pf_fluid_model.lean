@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_rps_fluid_model_eq_pf_fluid_model
 -- name    : ProcessingNetworks.PacketNetworks.rps_fluid_model_eq_pf_fluid_model
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:04:10.370643+00:00
 -- url     : https://prove2.me/theorems/de69915c-9760-4e2c-9db1-599e5cef3690

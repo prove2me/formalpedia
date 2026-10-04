@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_isMaxFlow_iff_no_augPath
 -- name    : EdmondsKarp.ShortestPath.isMaxFlow_iff_no_augPath
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:11:40.325194+00:00
 -- url     : https://prove2.me/theorems/7fa70f3c-7a2b-4423-b9c8-962d7428ca6f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_TwoPoint_prop5_exists_root
 -- name    : RobustMeanCov.TwoPoint.prop5_exists_root
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:51:55.829217+00:00
 -- url     : https://prove2.me/theorems/2be12cfd-6c8b-46fb-bdc4-8b9dec89e640

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_wave_equation_lightcone_solution
 -- name    : PolyakovAction.wave_equation_lightcone_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T12:59:55.981891+00:00
 -- url     : https://prove2.me/theorems/8ba9213d-c5da-457d-9a8b-30794a4cadd4

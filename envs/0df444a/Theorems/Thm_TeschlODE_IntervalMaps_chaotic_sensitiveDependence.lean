@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_chaotic_sensitiveDependence
 -- name    : TeschlODE.IntervalMaps.chaotic_sensitiveDependence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T18:46:10.730989+00:00
 -- url     : https://prove2.me/theorems/8e51848b-8363-432f-ad77-d5ea53865374

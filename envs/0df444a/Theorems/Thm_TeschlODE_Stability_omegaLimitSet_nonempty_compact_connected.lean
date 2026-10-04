@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Stability_omegaLimitSet_nonempty_compact_connected
 -- name    : TeschlODE.Stability.omegaLimitSet_nonempty_compact_connected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T13:29:41.448252+00:00
 -- url     : https://prove2.me/theorems/5c2ffb6f-94fd-424c-8a57-7ac0b4fc857c

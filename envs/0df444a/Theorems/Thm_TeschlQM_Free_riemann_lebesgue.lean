@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Free_riemann_lebesgue
 -- name    : TeschlQM.Free.riemann_lebesgue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T00:39:10.687336+00:00
 -- url     : https://prove2.me/theorems/8792bc2e-31db-4e47-a022-f4acbdb7c8a5

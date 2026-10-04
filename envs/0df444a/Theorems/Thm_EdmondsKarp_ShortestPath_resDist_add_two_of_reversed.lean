@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_resDist_add_two_of_reversed
 -- name    : EdmondsKarp.ShortestPath.resDist_add_two_of_reversed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:14:56.536184+00:00
 -- url     : https://prove2.me/theorems/eb1fa8eb-0cd9-44a8-b90f-009f74ee53e8

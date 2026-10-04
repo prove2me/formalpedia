@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_pf_aggregation_property
 -- name    : ProcessingNetworks.ProportionalFairness.pf_aggregation_property
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:19:00.956819+00:00
 -- url     : https://prove2.me/theorems/fb9750ea-29d4-477c-b8d3-815d8e2d54cf

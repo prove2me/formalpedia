@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_pf_maximally_stable_for_bws
 -- name    : ProcessingNetworks.ProportionalFairness.pf_maximally_stable_for_bws
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:36:08.890329+00:00
 -- url     : https://prove2.me/theorems/9d9c50e8-2cbd-42f0-9e2e-7665ae91529a

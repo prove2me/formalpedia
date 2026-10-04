@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Concentration_separately_convex_lipschitz_concentration
 -- name    : HighDimStat.Concentration.separately_convex_lipschitz_concentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-20T04:16:27.595754+00:00
 -- url     : https://prove2.me/theorems/0d3a7882-091f-4276-8792-0a12912d9539

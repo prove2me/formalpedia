@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_entropy_lyapunov_nonneg
 -- name    : ProcessingNetworks.ProportionalFairness.entropy_lyapunov_nonneg
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:23:59.06272+00:00
 -- url     : https://prove2.me/theorems/ad9fc3b6-b8de-4812-80e1-fcf1a5960cd6

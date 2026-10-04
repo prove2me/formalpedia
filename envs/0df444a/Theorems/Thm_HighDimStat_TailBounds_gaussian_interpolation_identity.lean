@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_TailBounds_gaussian_interpolation_identity
 -- name    : HighDimStat.TailBounds.gaussian_interpolation_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:20:26.789309+00:00
 -- url     : https://prove2.me/theorems/5201c8dd-5b85-4b01-bcc8-084ee5cc6e61

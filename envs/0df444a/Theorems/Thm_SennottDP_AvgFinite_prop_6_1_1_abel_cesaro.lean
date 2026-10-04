@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgFinite_prop_6_1_1_abel_cesaro
 -- name    : SennottDP.AvgFinite.prop_6_1_1_abel_cesaro
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T08:40:09.811981+00:00
 -- url     : https://prove2.me/theorems/24afbe09-8b8b-41b1-add6-3e3409f7338d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_PDMDP_theorem_8_3_1
 -- name    : MDPFinance.PDMDP.theorem_8_3_1
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:07:35.344566+00:00
 -- url     : https://prove2.me/theorems/ff9f63ee-5171-42d3-a3c3-22c20dc6fdfd

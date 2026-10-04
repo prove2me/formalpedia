@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonAmenability_not_isLiouville_F
 -- name    : ThompsonAmenability.not_isLiouville_F
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-30T18:48:14.2378+00:00
 -- url     : https://prove2.me/theorems/09b74940-979f-432e-8c2c-2813f086569e

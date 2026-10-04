@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Ellipsoid_ellipsoid_volume_ratio
 -- name    : ShorNonsmooth.Ellipsoid.ellipsoid_volume_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:18:24.278114+00:00
 -- url     : https://prove2.me/theorems/b210f303-890d-4896-ab9b-6e2bb60ba34f

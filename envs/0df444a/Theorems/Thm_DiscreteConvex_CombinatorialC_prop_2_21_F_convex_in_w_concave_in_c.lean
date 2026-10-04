@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_CombinatorialC_prop_2_21_F_convex_in_w_concave_in_c
 -- name    : DiscreteConvex.CombinatorialC.prop_2_21_F_convex_in_w_concave_in_c
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:45:52.410222+00:00
 -- url     : https://prove2.me/theorems/d51a1bfc-9d89-493c-b476-5d4f554bfb07

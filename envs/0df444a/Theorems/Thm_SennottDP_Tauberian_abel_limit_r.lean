@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_abel_limit_r
 -- name    : SennottDP.Tauberian.abel_limit_r
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:25:26.495468+00:00
 -- url     : https://prove2.me/theorems/0c2360b8-037a-4ac9-9d2a-c383f7c9dab5

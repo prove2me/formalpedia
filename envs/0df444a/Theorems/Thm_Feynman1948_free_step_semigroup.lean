@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Feynman1948_free_step_semigroup
 -- name    : Feynman1948.free_step_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T17:51:14.202698+00:00
 -- url     : https://prove2.me/theorems/cdd3ff07-daaa-4954-8a6e-10d6a10d4660

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BealeConvexMin_QuadSimplex_free_count_decreases
 -- name    : BealeConvexMin.QuadSimplex.free_count_decreases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:36:30.42422+00:00
 -- url     : https://prove2.me/theorems/492dc0af-05c9-44f3-9895-3d4ffb8ebab8

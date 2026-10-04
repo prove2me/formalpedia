@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_KatoRellich_second_resolvent_formula
 -- name    : TeschlQM.KatoRellich.second_resolvent_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T22:38:32.699009+00:00
 -- url     : https://prove2.me/theorems/f7954fbb-961a-4bea-81c3-885d6758e4c9

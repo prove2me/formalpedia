@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_supersolution_ge_stationary_cost
 -- name    : SennottDP.Discounted.supersolution_ge_stationary_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:00:02.088674+00:00
 -- url     : https://prove2.me/theorems/94cc13fb-9c9d-4790-a3f5-98d34e711307

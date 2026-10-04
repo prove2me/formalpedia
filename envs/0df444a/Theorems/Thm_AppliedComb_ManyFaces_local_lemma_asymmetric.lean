@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_ManyFaces_local_lemma_asymmetric
 -- name    : AppliedComb.ManyFaces.local_lemma_asymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:58:35.546792+00:00
 -- url     : https://prove2.me/theorems/823daabd-fa2b-432e-a501-c77ba1d85ebb

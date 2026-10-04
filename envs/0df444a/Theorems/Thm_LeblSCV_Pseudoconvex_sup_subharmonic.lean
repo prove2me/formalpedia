@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Pseudoconvex_sup_subharmonic
 -- name    : LeblSCV.Pseudoconvex.sup_subharmonic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T05:13:27.402316+00:00
 -- url     : https://prove2.me/theorems/0ed6bfcc-6703-40ab-b2a3-3d7f52c2dad7

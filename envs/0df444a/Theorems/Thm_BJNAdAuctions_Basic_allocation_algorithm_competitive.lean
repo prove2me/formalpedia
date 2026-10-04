@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_allocation_algorithm_competitive
 -- name    : BJNAdAuctions.Basic.allocation_algorithm_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T17:01:25.433489+00:00
 -- url     : https://prove2.me/theorems/c5c2e6ca-e494-4cc1-85aa-bfce8a68a43c

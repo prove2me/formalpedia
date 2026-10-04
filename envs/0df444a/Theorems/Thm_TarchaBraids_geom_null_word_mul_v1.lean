@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_geom_null_word_mul_v1
 -- name    : TarchaBraids.geom_null_word_mul_v1
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-27T21:03:55.777909+00:00
 -- url     : https://prove2.me/theorems/005f326f-bba8-4bbb-9908-da94d4c2bac0

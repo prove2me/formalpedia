@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_AlmostDiff_generalizedAlmostGradients_convex_bounded_closed
 -- name    : ShorNonsmooth.AlmostDiff.generalizedAlmostGradients_convex_bounded_closed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:58:18.725983+00:00
 -- url     : https://prove2.me/theorems/cd784f8c-816b-4993-9d98-3b2647d17d60

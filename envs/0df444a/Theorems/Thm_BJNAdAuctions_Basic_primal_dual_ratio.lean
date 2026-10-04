@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_primal_dual_ratio
 -- name    : BJNAdAuctions.Basic.primal_dual_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T16:36:58.964805+00:00
 -- url     : https://prove2.me/theorems/e11860d9-6f83-4834-900c-c88deabf7181

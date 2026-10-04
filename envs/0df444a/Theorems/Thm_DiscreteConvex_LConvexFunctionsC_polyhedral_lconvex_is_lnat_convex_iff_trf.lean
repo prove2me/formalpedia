@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsC_polyhedral_lconvex_is_lnat_convex_iff_trf
 -- name    : DiscreteConvex.LConvexFunctionsC.polyhedral_lconvex_is_lnat_convex_iff_trf
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:38:33.618822+00:00
 -- url     : https://prove2.me/theorems/71fc9957-4b82-49ec-95c9-7a3e59f90263

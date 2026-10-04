@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Acyclic_partialOrdering_conditionG_of_finite
 -- name    : TheoryOfGames.Acyclic.partialOrdering_conditionG_of_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:50:52.21915+00:00
 -- url     : https://prove2.me/theorems/96141268-8fd4-4722-a0d9-e6966d5a8f19

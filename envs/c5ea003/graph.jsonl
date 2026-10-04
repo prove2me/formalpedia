@@ -3528,7 +3528,8 @@
 {"parent": "BookSixth.permanent_bm_upper_one", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.permanent_bm_upper_two", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.permanent_bm_upper_zero", "child": "BookSixth", "via": ["solution", "statement"]}
-{"parent": "BookSixth.permanent_bregman_minc_upper", "child": "BookSixth", "via": ["statement"]}
+{"parent": "BookSixth.permanent_bregman_minc_upper", "child": "BookSixth", "via": ["solution", "statement"]}
+{"parent": "BookSixth.permanent_bregman_minc_upper", "child": "BookSixth.bregman_minc", "via": ["solution"]}
 {"parent": "BookSixth.permanent_doubly_stochastic_lower", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.permanent_doubly_stochastic_lower", "child": "ProofsInTheBook.Chapter22Gurvits.chapter22_unconditional", "via": ["solution"]}
 {"parent": "BookSixth.permanent_ds_lower_one", "child": "BookSixth", "via": ["solution", "statement"]}
@@ -3582,6 +3583,7 @@
 {"parent": "BookSixth.round_circle_single_standardize_link_preserving_v2", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.round_circle_single_standardize_link_preserving_v3", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.round_circle_single_standardize_link_preserving_v3", "child": "BookSixth.round_circle_single_standardize_link_preserving_v2", "via": ["solution"]}
+{"parent": "BookSixth.round_circle_snoc_motion_extension", "child": "BookSixth", "via": ["statement"]}
 {"parent": "BookSixth.round_circle_snoc_of_transport", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.round_circle_snoc_transport", "child": "BookSixth", "via": ["solution", "statement"]}
 {"parent": "BookSixth.round_circle_snoc_transport", "child": "BookSixth.isUnlink_path_image", "via": ["solution"]}
@@ -26499,8 +26501,16 @@
 {"parent": "Heisenberg125.smallDavenport_multiplicative_zmod_sq", "child": "Algebra_Heisenberg125_Basic", "via": ["statement"]}
 {"parent": "Heisenberg125.smallDavenport_multiplicative_zmod_sq", "child": "Algebra_Heisenberg125_LowerBound", "via": ["statement"]}
 {"parent": "Heisenberg125.smallDavenport_multiplicative_zmod_sq", "child": "Algebra_Heisenberg125_ZeroSumTwoDim", "via": ["statement"]}
+{"parent": "Heisenberg125.smallDavenport_multiplicative_zmod_sq", "child": "Heisenberg125.Heis.eq_zero_of_cast_eq_zero", "via": ["solution"]}
+{"parent": "Heisenberg125.smallDavenport_multiplicative_zmod_sq", "child": "Heisenberg125.ProductOneFree.length_le_smallDavenport", "via": ["solution"]}
+{"parent": "Heisenberg125.smallDavenport_multiplicative_zmod_sq", "child": "Heisenberg125.exists_nonempty_zeroSum_sublist", "via": ["solution"]}
+{"parent": "Heisenberg125.smallDavenport_multiplicative_zmod_sq", "child": "Heisenberg125.isProductOne_iff_sum_eq_zero", "via": ["solution"]}
 {"parent": "Heisenberg125.smallDavenport_pi", "child": "Algebra_Heisenberg125_Basic", "via": ["statement"]}
 {"parent": "Heisenberg125.smallDavenport_pi", "child": "Algebra_Heisenberg125_ElementaryAbelian", "via": ["statement"]}
+{"parent": "Heisenberg125.smallDavenport_pi", "child": "Heisenberg125.ProductOneFree.length_le_smallDavenport", "via": ["solution"]}
+{"parent": "Heisenberg125.smallDavenport_pi", "child": "Heisenberg125.exists_nonempty_zeroSum_sublist_family", "via": ["solution"]}
+{"parent": "Heisenberg125.smallDavenport_pi", "child": "Heisenberg125.isProductOne_iff_sum_eq_zero", "via": ["solution"]}
+{"parent": "Heisenberg125.smallDavenport_pi", "child": "Heisenberg125.productOneFree_piBasisSeq", "via": ["solution"]}
 {"parent": "Heisenberg125.three_p_sub_three_le_smallDavenport", "child": "Algebra_Heisenberg125_Basic", "via": ["solution", "statement"]}
 {"parent": "Heisenberg125.three_p_sub_three_le_smallDavenport", "child": "Algebra_Heisenberg125_LowerBound", "via": ["solution", "statement"]}
 {"parent": "HenonCanonicalHeight.backward_region_invariant", "child": "Bridges_HenonCanonicalHeight", "via": ["solution", "statement"]}
@@ -27345,10 +27355,11 @@
 {"parent": "IITTensorNetwork.entanglementEntropy_le_log_schmidtRank", "child": "IITTensorNetwork.vnEntropy_le_log_rank", "via": ["solution"]}
 {"parent": "IITTensorNetwork.entanglementEntropy_le_log_schmidtRank", "child": "Novelty_IITTensorNetworkEntropy", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.entanglementEntropy_le_log_schmidtRank", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["solution", "statement"]}
-{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IITTensorNetworkMPS", "via": ["statement"]}
-{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IITTensorNetworkPhi", "via": ["statement"]}
-{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["statement"]}
-{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IntegratedInformation", "via": ["statement"]}
+{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "IntegratedInformation.exists_minimum_information_cut", "via": ["solution"]}
+{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IITTensorNetworkMPS", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IITTensorNetworkPhi", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.exists_minimal_cut", "child": "Novelty_IntegratedInformation", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.exists_qubitPair_phi_eq", "child": "IITTensorNetwork.phi_qubitPair", "via": ["solution"]}
 {"parent": "IITTensorNetwork.exists_qubitPair_phi_eq", "child": "IITTensorNetwork.qubitPairState_normalized", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.exists_qubitPair_phi_eq", "child": "Novelty_IITTensorNetworkPhi", "via": ["solution", "statement"]}
@@ -27366,10 +27377,11 @@
 {"parent": "IITTensorNetwork.isoMatrix_conjTranspose_mul", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.isoMatrix_mul_conjTranspose", "child": "Novelty_IITTensorNetworkEntropy", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.isoMatrix_mul_conjTranspose", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["solution", "statement"]}
-{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IITTensorNetworkMPS", "via": ["statement"]}
-{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IITTensorNetworkPhi", "via": ["statement"]}
-{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["statement"]}
-{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IntegratedInformation", "via": ["statement"]}
+{"parent": "IITTensorNetwork.le_phi", "child": "IntegratedInformation.le_phi", "via": ["solution"]}
+{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IITTensorNetworkMPS", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IITTensorNetworkPhi", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.le_phi", "child": "Novelty_IntegratedInformation", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.mem_support", "child": "Novelty_IITTensorNetworkEntropy", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.mutualInformation_eq_two_mul_entanglementEntropy", "child": "IITTensorNetwork.vnEntropy_eq_multiset_sum", "via": ["solution"]}
 {"parent": "IITTensorNetwork.mutualInformation_eq_two_mul_entanglementEntropy", "child": "Novelty_IITTensorNetworkEntropy", "via": ["solution", "statement"]}
@@ -27430,20 +27442,32 @@
 {"parent": "IITTensorNetwork.phi_bellPair", "child": "Novelty_IITTensorNetworkPhi", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.phi_bellPair", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["solution"]}
 {"parent": "IITTensorNetwork.phi_bellPair", "child": "Novelty_IITTensorNetworkSchmidtSpectrum", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "IITTensorNetwork.entanglementEntropy_eq_log_schmidtRank_iff", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "IITTensorNetwork.exists_minimal_cut", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "IITTensorNetwork.le_phi", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "IITTensorNetwork.mutualInformation_eq_two_mul_entanglementEntropy_general", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "IITTensorNetwork.mutualInformation_le_two_log_schmidtRank", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "IITTensorNetwork.phi_le_mutualInformation", "via": ["solution"]}
 {"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "Novelty_IITTensorNetworkEquality", "via": ["statement"]}
 {"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "Novelty_IITTensorNetworkPhi", "via": ["statement"]}
 {"parent": "IITTensorNetwork.phi_eq_two_log_schmidtRank_iff", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["statement"]}
+{"parent": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "child": "IITTensorNetwork.mutualInformation_eq_zero_iff_schmidtRank_eq_one", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "child": "IntegratedInformation.phi_eq_zero_iff", "via": ["solution"]}
 {"parent": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "child": "Novelty_IITTensorNetworkMPS", "via": ["statement"]}
-{"parent": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "child": "Novelty_IITTensorNetworkPhi", "via": ["statement"]}
+{"parent": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "child": "Novelty_IITTensorNetworkPhi", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["statement"]}
 {"parent": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "child": "Novelty_IntegratedInformation", "via": ["statement"]}
-{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IITTensorNetworkMPS", "via": ["statement"]}
-{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IITTensorNetworkPhi", "via": ["statement"]}
-{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["statement"]}
-{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IntegratedInformation", "via": ["statement"]}
+{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "IntegratedInformation.phi_le_loss", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IITTensorNetworkMPS", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IITTensorNetworkPhi", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.phi_le_mutualInformation", "child": "Novelty_IntegratedInformation", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.phi_nonneg", "child": "Novelty_IITTensorNetworkMPS", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.phi_nonneg", "child": "Novelty_IITTensorNetworkPhi", "via": ["solution", "statement"]}
 {"parent": "IITTensorNetwork.phi_nonneg", "child": "Novelty_IntegratedInformation", "via": ["solution", "statement"]}
+{"parent": "IITTensorNetwork.phi_pos_iff_all_cuts_entangled", "child": "IITTensorNetwork.phi_eq_zero_iff_exists_product_cut", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_pos_iff_all_cuts_entangled", "child": "IITTensorNetwork.schmidtRank_pos", "via": ["solution"]}
+{"parent": "IITTensorNetwork.phi_pos_iff_all_cuts_entangled", "child": "IntegratedInformation.phi_nonneg", "via": ["solution"]}
 {"parent": "IITTensorNetwork.phi_pos_iff_all_cuts_entangled", "child": "Novelty_IITTensorNetworkMPS", "via": ["statement"]}
 {"parent": "IITTensorNetwork.phi_pos_iff_all_cuts_entangled", "child": "Novelty_IITTensorNetworkPhi", "via": ["statement"]}
 {"parent": "IITTensorNetwork.phi_pos_iff_all_cuts_entangled", "child": "Novelty_IITTensorNetworkSchmidt", "via": ["statement"]}
@@ -28602,6 +28626,13 @@
 {"parent": "KServer.slow_decrement_of_doob_jump", "child": "KServer_chunk_cond", "via": ["solution", "statement"]}
 {"parent": "KServer.slow_decrement_of_doob_jump", "child": "KServer_chunk_slow_decrement_cond", "via": ["solution", "statement"]}
 {"parent": "KServer.slow_decrement_of_doob_jump", "child": "KServer_chunk_system_b", "via": ["solution", "statement"]}
+{"parent": "KServer.sturdyL1_full_slow_decrementC", "child": "KServer_chunk_slow_decrement_cond", "via": ["solution", "statement"]}
+{"parent": "KServer.sturdyL1_full_slow_decrementC", "child": "KServer_chunk_stopping", "via": ["solution"]}
+{"parent": "KServer.sturdyL1_full_slow_decrementC", "child": "KServer_sturdy", "via": ["solution", "statement"]}
+{"parent": "KServer.sturdyL1_zero_bounded_surpriseC", "child": "KServer_chunk_slow_decrement_cond", "via": ["statement"]}
+{"parent": "KServer.sturdyL1_zero_bounded_surpriseC", "child": "KServer_sturdy", "via": ["statement"]}
+{"parent": "KServer.sturdyL1_zero_slow_decrementC", "child": "KServer_chunk_slow_decrement_cond", "via": ["statement"]}
+{"parent": "KServer.sturdyL1_zero_slow_decrementC", "child": "KServer_sturdy", "via": ["statement"]}
 {"parent": "KServer.three_server_of_semiLazy_le_lazy", "child": "KServer.lazyPot_le_semiLazyPot", "via": ["solution"]}
 {"parent": "KServer.three_server_of_semiLazy_le_lazy", "child": "KServer.lazyPot_offset", "via": ["solution"]}
 {"parent": "KServer.three_server_of_semiLazy_le_lazy", "child": "KServer.potential_criterion", "via": ["solution"]}
@@ -32387,11 +32418,49 @@
 {"parent": "MordellDenominators.padicValNat_den_of_eq_div", "child": "MordellDenominators.num_mul_den_eq", "via": ["solution"]}
 {"parent": "MordellDenominators.prime_dvd_den_of_eq_div", "child": "Cryptography_MordellDenominators_Basic", "via": ["solution", "statement"]}
 {"parent": "MordellDenominators.prime_dvd_den_of_eq_div", "child": "MordellDenominators.num_mul_den_eq", "via": ["solution"]}
+{"parent": "MovingSofa.ClassicalResults.area_image_add", "child": "MovingSofa_Classical_Area", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.ForMathlib.hasDerivWithinAt_Ici_nonneg", "child": "MovingSofa.ForMathlib.one_mem_posTangentConeAt_Ici", "via": ["solution"]}
 {"parent": "MovingSofa.ForMathlib.hasDerivWithinAt_Iic_nonpos", "child": "MovingSofa.ForMathlib.neg_one_mem_posTangentConeAt_Iic", "via": ["solution"]}
 {"parent": "MovingSofa.GerversSofa.ABphiThetaSpec.existsUnique", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.IsMovingSofa.isBounded", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.IsMovingSofa.isBounded", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.IsMovingSofa.isBounded", "child": "MovingSofa_Motion_Paper", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.IsMovingSofa.isPaperMotion", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.IsMovingSofa.isPaperMotion", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
+{"parent": "MovingSofa.IsMovingSofa.isPaperMotion", "child": "MovingSofa_Motion_Paper", "via": ["statement"]}
+{"parent": "MovingSofa.area_image_rotationMap", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.area_image_rotationMap", "child": "MovingSofa_Classical_Area", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.area_image_rotationMap", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.canonical_motion_compactness", "child": "MovingSofa.IsMovingSofa.isBounded", "via": ["solution"]}
+{"parent": "MovingSofa.canonical_motion_compactness", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.canonical_motion_compactness", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
+{"parent": "MovingSofa.canonical_paper_motion_bridge", "child": "MovingSofa_Motion_Paper", "via": ["statement"]}
+{"parent": "MovingSofa.continuous_motion_linear_apply", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.continuous_motion_linear_apply", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
+{"parent": "MovingSofa.continuous_rotation_trans_vaddConst", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.continuous_rotation_trans_vaddConst", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
+{"parent": "MovingSofa.continuous_vaddConst_trans_rotation", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.continuous_vaddConst_trans_rotation", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
+{"parent": "MovingSofa.exists_motion_rotation", "child": "MovingSofa.motion_linear_det_pos", "via": ["solution"]}
+{"parent": "MovingSofa.exists_motion_rotation", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.exists_motion_rotation", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
 {"parent": "MovingSofa.isMovingSofa_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
-{"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa.continuous_motion_linear_apply", "via": ["solution"]}
+{"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.motion_linear_det_pos", "child": "MovingSofa_Geometry_Rotation", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.real_area_le_iff_volume_le", "child": "MovingSofa_Classical_Area", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa.isMovingSofa_gerversSofaWith", "via": ["solution"]}
+{"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa.volume_gerversSofaWith_le_sofaConstant", "via": ["solution"]}
+{"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa.volume_le_volume_gerversSofaWith", "via": ["solution"]}
+{"parent": "MovingSofa.sofaConstant_eq_volume_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.volume_gerversSofaWith_le_sofaConstant", "child": "MovingSofa.isMovingSofa_gerversSofaWith", "via": ["solution"]}
+{"parent": "MovingSofa.volume_gerversSofaWith_le_sofaConstant", "child": "MovingSofa_Basic", "via": ["solution", "statement"]}
+{"parent": "MovingSofa.volume_le_volume_gerversSofaWith", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa_Geometry_Rotation", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa_Motion_Paper", "child": "MovingSofa_Basic", "via": ["statement"]}
+{"parent": "MovingSofa_Motion_Paper", "child": "MovingSofa_Geometry_Rotation", "via": ["statement"]}
 {"parent": "MukaiTameness.mukaiOrder_tame", "child": "Novelty_MukaiTameness", "via": ["solution", "statement"]}
 {"parent": "MultiHeadPlumbing.residual_injective_of_lipschitz", "child": "MachineLearning_TransformerUniversality_MultiHeadPlumbing", "via": ["solution", "statement"]}
 {"parent": "MultiPrime.card_goodMulti", "child": "Geometry_SingularModuliMultiPrime", "via": ["solution", "statement"]}

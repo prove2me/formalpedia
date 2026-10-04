@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_LyapunovCriteria_fluid_model_solution_globally_lipschitz
 -- name    : ProcessingNetworks.LyapunovCriteria.fluid_model_solution_globally_lipschitz
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:57:19.132158+00:00
 -- url     : https://prove2.me/theorems/092da691-102b-43db-8cdc-5dc608459047

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_splitting_inter_union
 -- name    : TheoryOfGames.Decomposition.splitting_inter_union
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:19:28.326184+00:00
 -- url     : https://prove2.me/theorems/0f6f5dad-26ad-49c5-9318-127605ff14d2

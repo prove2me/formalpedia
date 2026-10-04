@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ContinuousTime_ineq_aux_iff
 -- name    : SennottDP.ContinuousTime.ineq_aux_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T11:11:47.171895+00:00
 -- url     : https://prove2.me/theorems/b7dc0710-090a-44ad-916c-5cdaa01e25f9

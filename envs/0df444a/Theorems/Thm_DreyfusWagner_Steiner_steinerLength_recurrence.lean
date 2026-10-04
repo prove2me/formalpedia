@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DreyfusWagner_Steiner_steinerLength_recurrence
 -- name    : DreyfusWagner.Steiner.steinerLength_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:06:33.356905+00:00
 -- url     : https://prove2.me/theorems/137029f2-1858-4816-a11d-97f93e9517e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_mean_variance_solution
 -- name    : MDPFinance.MeanVariance.mean_variance_solution
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:08:46.447264+00:00
 -- url     : https://prove2.me/theorems/7aa05260-f37d-46db-8894-1827e6ddf655

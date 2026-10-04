@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Flows_integral_max_flow
 -- name    : AppliedComb.Flows.integral_max_flow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:41:14.045155+00:00
 -- url     : https://prove2.me/theorems/a7e32414-c770-4cba-8085-8f5b60781838

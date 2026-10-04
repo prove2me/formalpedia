@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Subdiff_convex_iff_hessian_posSemidef
 -- name    : ShorNonsmooth.Subdiff.convex_iff_hessian_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:32:47.574448+00:00
 -- url     : https://prove2.me/theorems/537b1429-e38c-42c3-bb2f-a1d9780e0ba1

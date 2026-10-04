@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Leopoldt_defect_eq_zero_cyclotomicField
 -- name    : Leopoldt.defect_eq_zero_cyclotomicField
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-09T15:35:31.695637+00:00
 -- url     : https://prove2.me/theorems/1da49dbf-2534-4729-99f2-397e126c2f6a

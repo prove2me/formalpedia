@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_PerfectInfo_strictly_determined_value
 -- name    : TheoryOfGames.PerfectInfo.strictly_determined_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T02:58:06.297405+00:00
 -- url     : https://prove2.me/theorems/0488898f-c577-4db2-94c8-f0d0dfad876c

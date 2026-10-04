@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_swgs_characterizes_mnat_convex
 -- name    : DiscreteConvex.MConvexFunctionsC.swgs_characterizes_mnat_convex
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:43:37.045741+00:00
 -- url     : https://prove2.me/theorems/38c4d4c0-918d-4088-8b4d-e31c16a7d6e9

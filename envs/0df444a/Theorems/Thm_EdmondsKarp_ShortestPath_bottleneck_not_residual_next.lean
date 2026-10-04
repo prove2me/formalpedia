@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_bottleneck_not_residual_next
 -- name    : EdmondsKarp.ShortestPath.bottleneck_not_residual_next
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:12:24.412077+00:00
 -- url     : https://prove2.me/theorems/608f92be-47ba-4d93-883c-1363b2ee16a9

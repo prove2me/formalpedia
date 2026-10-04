@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Graphs_two_colorable_iff
 -- name    : AppliedComb.Graphs.two_colorable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:03:05.042107+00:00
 -- url     : https://prove2.me/theorems/5a27eacf-0adb-4e33-b6e6-a28a15aa2eed

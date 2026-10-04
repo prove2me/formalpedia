@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_interval_restrict_iff_mconvex
 -- name    : DiscreteConvex.MConvexFunctionsB.interval_restrict_iff_mconvex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:10:14.050031+00:00
 -- url     : https://prove2.me/theorems/10e978f6-dfcd-422d-aaff-b1802cc58fe1

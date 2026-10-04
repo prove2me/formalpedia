@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctions_Quasi_quasi_m_optimality_criterion
 -- name    : DiscreteConvex.MConvexFunctions.Quasi.quasi_m_optimality_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:03:33.922292+00:00
 -- url     : https://prove2.me/theorems/55974ae7-f440-45bd-8081-642bfdbae700

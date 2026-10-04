@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_puncturedPlane_right_piece_homeomorph
 -- name    : BraidsLinksMCG.puncturedPlane_right_piece_homeomorph
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T07:56:02.349494+00:00
 -- url     : https://prove2.me/theorems/067d089f-67f2-4a6f-8d7b-b92fc11983c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_shift_periodicPts_countable_dense
 -- name    : TeschlODE.IntervalMaps.shift_periodicPts_countable_dense
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T18:50:57.630583+00:00
 -- url     : https://prove2.me/theorems/1926e541-953f-4779-86d8-6c27a3ad7ca1

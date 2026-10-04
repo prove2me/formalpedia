@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Newtonian_fundamentalSolution_partial
 -- name    : HunterPDE.Newtonian.fundamentalSolution_partial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:13:55.466411+00:00
 -- url     : https://prove2.me/theorems/42aa9de9-b85e-45d8-9cba-37b68bee2250

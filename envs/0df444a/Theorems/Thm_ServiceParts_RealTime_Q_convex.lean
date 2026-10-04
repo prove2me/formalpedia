@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_RealTime_Q_convex
 -- name    : ServiceParts.RealTime.Q_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T00:01:14.756208+00:00
 -- url     : https://prove2.me/theorems/35b4d7ba-13b8-418b-86ec-505d973c1699

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SelfAdjoint_selfAdjoint_extension_domain
 -- name    : TeschlQM.SelfAdjoint.selfAdjoint_extension_domain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:24:15.188913+00:00
 -- url     : https://prove2.me/theorems/63bd84ce-810c-4886-b18e-5778067ae028

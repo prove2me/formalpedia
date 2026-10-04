@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_LConvexFunctionsD_zero_l_submodular_bijection
 -- name    : DiscreteConvex.LConvexFunctionsD.zero_l_submodular_bijection
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:08:28.737898+00:00
 -- url     : https://prove2.me/theorems/14e9c25e-b5e5-4216-a93a-46eced6a8245

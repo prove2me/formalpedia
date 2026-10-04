@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_geom_null_word_free_cancel_v1
 -- name    : TarchaBraids.geom_null_word_free_cancel_v1
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-27T21:04:10.319122+00:00
 -- url     : https://prove2.me/theorems/8563ccac-30e1-44e2-95cd-b3a2eec5f1e6

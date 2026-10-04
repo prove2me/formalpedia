@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Ellipsoid_ellipsoid_volume_formula
 -- name    : ShorNonsmooth.Ellipsoid.ellipsoid_volume_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:17:48.880984+00:00
 -- url     : https://prove2.me/theorems/ab376ee8-169e-4687-bb22-cee5fad47cc8

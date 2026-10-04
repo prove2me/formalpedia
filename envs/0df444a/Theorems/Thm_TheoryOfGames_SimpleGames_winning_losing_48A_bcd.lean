@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_winning_losing_48A_bcd
 -- name    : TheoryOfGames.SimpleGames.winning_losing_48A_bcd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:50:49.24176+00:00
 -- url     : https://prove2.me/theorems/6e83dca5-17cf-4a68-8abc-617f8326dcc1

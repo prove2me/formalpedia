@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Horseshoe_tent_topEquiv_shift
 -- name    : TeschlODE.Horseshoe.tent_topEquiv_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:18:09.707292+00:00
 -- url     : https://prove2.me/theorems/205e4a13-2b17-4d3c-92ad-68ab4a7d891f

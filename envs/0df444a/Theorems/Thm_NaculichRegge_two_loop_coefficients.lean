@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NaculichRegge_two_loop_coefficients
 -- name    : NaculichRegge.two_loop_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:04:25.794646+00:00
 -- url     : https://prove2.me/theorems/c50f6af9-bbae-4ede-a8c0-00c910c4e414

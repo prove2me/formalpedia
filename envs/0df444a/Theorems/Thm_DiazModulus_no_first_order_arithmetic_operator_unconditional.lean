@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_no_first_order_arithmetic_operator_unconditional
 -- name    : DiazModulus.no_first_order_arithmetic_operator_unconditional
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-02T11:29:06.420935+00:00
 -- url     : https://prove2.me/theorems/269d8402-b48a-4e0d-a58e-5aabc60e7293

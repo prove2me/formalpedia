@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GraphAlg_exchange_principle
 -- name    : AppliedComb.GraphAlg.exchange_principle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:34:59.258798+00:00
 -- url     : https://prove2.me/theorems/8147cfe8-0123-4faa-9350-8deb3b0297c2

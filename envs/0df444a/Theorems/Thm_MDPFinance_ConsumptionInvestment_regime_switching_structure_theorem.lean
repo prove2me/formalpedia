@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_regime_switching_structure_theorem
 -- name    : MDPFinance.ConsumptionInvestment.regime_switching_structure_theorem
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:00:56.924844+00:00
 -- url     : https://prove2.me/theorems/38ab5ab4-255b-439c-a4e6-4ef531b79ca3

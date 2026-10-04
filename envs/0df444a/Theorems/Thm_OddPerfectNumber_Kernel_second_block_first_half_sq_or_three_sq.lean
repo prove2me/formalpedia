@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_second_block_first_half_sq_or_three_sq
 -- name    : OddPerfectNumber.Kernel.second_block_first_half_sq_or_three_sq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T18:56:32.246368+00:00
 -- url     : https://prove2.me/theorems/a8a4da03-234a-4c76-9155-c5c7d8a787d5

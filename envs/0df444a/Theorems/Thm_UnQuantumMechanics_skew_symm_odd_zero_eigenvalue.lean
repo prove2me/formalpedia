@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnQuantumMechanics_skew_symm_odd_zero_eigenvalue
 -- name    : UnQuantumMechanics.skew_symm_odd_zero_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T10:07:06.927649+00:00
 -- url     : https://prove2.me/theorems/bd785b45-cdf1-4900-a5fa-09375869a7d2

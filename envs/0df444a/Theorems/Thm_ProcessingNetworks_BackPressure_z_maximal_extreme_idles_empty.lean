@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_z_maximal_extreme_idles_empty
 -- name    : ProcessingNetworks.BackPressure.z_maximal_extreme_idles_empty
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:44:25.04586+00:00
 -- url     : https://prove2.me/theorems/6321262d-d960-485e-aa41-c79473a18a16

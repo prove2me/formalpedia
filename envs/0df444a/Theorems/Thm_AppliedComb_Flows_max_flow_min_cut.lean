@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Flows_max_flow_min_cut
 -- name    : AppliedComb.Flows.max_flow_min_cut
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:40:35.340623+00:00
 -- url     : https://prove2.me/theorems/e42ad658-77f8-4935-92e3-ba6618710855

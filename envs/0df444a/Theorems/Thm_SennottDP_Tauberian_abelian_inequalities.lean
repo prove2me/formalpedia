@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Tauberian_abelian_inequalities
 -- name    : SennottDP.Tauberian.abelian_inequalities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:08:22.14786+00:00
 -- url     : https://prove2.me/theorems/ef290cc2-19d1-4012-b6ae-ada9730cd04d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_GlobalStability_assembly_side_business_stable
 -- name    : ProcessingNetworks.GlobalStability.assembly_side_business_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:13:18.886761+00:00
 -- url     : https://prove2.me/theorems/dcbc4688-8670-438b-9cbc-98dfd4af6b51

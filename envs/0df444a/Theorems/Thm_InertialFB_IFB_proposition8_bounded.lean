@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialFB_IFB_proposition8_bounded
 -- name    : InertialFB.IFB.proposition8_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:53:15.64802+00:00
 -- url     : https://prove2.me/theorems/15c5fc86-a488-436f-b4a4-6c27f860fc0e

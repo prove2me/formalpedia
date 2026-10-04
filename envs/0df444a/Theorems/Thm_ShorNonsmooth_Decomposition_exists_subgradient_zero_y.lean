@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_exists_subgradient_zero_y
 -- name    : ShorNonsmooth.Decomposition.exists_subgradient_zero_y
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:23:23.784659+00:00
 -- url     : https://prove2.me/theorems/6d6d9d79-6314-45f1-9bbb-5caddff39392

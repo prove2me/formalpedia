@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_segment_mono_injective
 -- name    : TheoryOfGames.Utility.segment_mono_injective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:07:41.686626+00:00
 -- url     : https://prove2.me/theorems/ce0b9850-6a16-4ad1-b763-01694776bd49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_erdos_1947_lll_bad_graph
 -- name    : Erdos77.erdos_1947_lll_bad_graph
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:45:07.597981+00:00
 -- url     : https://prove2.me/theorems/5de41d7d-4fb9-4e2d-bc84-bbdc1d3709c9

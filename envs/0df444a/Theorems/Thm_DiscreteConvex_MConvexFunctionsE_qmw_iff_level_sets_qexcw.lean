@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsE_qmw_iff_level_sets_qexcw
 -- name    : DiscreteConvex.MConvexFunctionsE.qmw_iff_level_sets_qexcw
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T00:10:38.666986+00:00
 -- url     : https://prove2.me/theorems/e44aeb65-6ca4-43e0-971f-f8d5284b2d9f

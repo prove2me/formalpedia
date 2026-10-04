@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_BackPressure_exists_basis_representation
 -- name    : ProcessingNetworks.BackPressure.exists_basis_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:21:44.1582+00:00
 -- url     : https://prove2.me/theorems/7cca03e5-2e57-4664-87c3-d4b0d0f6dbd4

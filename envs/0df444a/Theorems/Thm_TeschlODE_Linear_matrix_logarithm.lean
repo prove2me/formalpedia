@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Linear_matrix_logarithm
 -- name    : TeschlODE.Linear.matrix_logarithm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:57:02.32333+00:00
 -- url     : https://prove2.me/theorems/07009f0c-3b32-4928-a95f-06cb5f4dfff0

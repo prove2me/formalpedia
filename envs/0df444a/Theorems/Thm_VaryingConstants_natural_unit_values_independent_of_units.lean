@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VaryingConstants_natural_unit_values_independent_of_units
 -- name    : VaryingConstants.natural_unit_values_independent_of_units
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-02T02:26:34.053986+00:00
 -- url     : https://prove2.me/theorems/d10f0a37-4bac-4ac0-96d9-b77149d44abd

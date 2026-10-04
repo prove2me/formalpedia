@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Generalization_binomial_sum_le_two_pow_mul_exp
 -- name    : ScenarioApproach.Generalization.binomial_sum_le_two_pow_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T17:32:55.799253+00:00
 -- url     : https://prove2.me/theorems/07107728-58e2-47a2-855a-308540de4afd

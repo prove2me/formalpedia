@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VanderbeiLP_StrictComp_strictly_complementary_feasible
 -- name    : VanderbeiLP.StrictComp.strictly_complementary_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T18:00:55.947471+00:00
 -- url     : https://prove2.me/theorems/b5ca56a3-2d8e-4872-8139-6dd7b40db97c

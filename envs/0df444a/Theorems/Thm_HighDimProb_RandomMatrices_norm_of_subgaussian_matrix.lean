@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomMatrices_norm_of_subgaussian_matrix
 -- name    : HighDimProb.RandomMatrices.norm_of_subgaussian_matrix
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T21:25:22.116892+00:00
 -- url     : https://prove2.me/theorems/18e7bb70-96d1-49bb-b0ad-ad1263b5f48a

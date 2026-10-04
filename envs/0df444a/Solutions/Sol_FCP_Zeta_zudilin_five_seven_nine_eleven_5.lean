@@ -1,10 +1,8 @@
 -- Prove2me | solution 5 for FCP.Zeta.zudilin_five_seven_nine_eleven
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-02T10:02:24.415373+00:00
 -- url     : https://prove2.me/submissions/1c8ce147-2d1a-4348-a657-8c7539e50a60
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_ZudilinZeta_params13_contour_formula
 import Mathlib

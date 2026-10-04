@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CandesTao_Decoding_dual_reconstruction_linf
 -- name    : CandesTao.Decoding.dual_reconstruction_linf
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-30T22:22:29.791498+00:00
 -- url     : https://prove2.me/theorems/c71dfaee-bc6a-4b24-a88a-6e5faf910ec7

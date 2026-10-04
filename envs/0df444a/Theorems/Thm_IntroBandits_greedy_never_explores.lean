@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroBandits_greedy_never_explores
 -- name    : IntroBandits.greedy_never_explores
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:34:14.06599+00:00
 -- url     : https://prove2.me/theorems/f9a5640f-6dc4-4ec5-b580-1e53e891b87d

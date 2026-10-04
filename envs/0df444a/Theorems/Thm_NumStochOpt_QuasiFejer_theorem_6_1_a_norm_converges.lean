@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_theorem_6_1_a_norm_converges
 -- name    : NumStochOpt.QuasiFejer.theorem_6_1_a_norm_converges
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:27:55.350065+00:00
 -- url     : https://prove2.me/theorems/7b05b9da-2e8f-4a0d-a30c-d166e00bf748

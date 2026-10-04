@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PorteusSS_conv_polya_mem_CK
 -- name    : PorteusSS.conv_polya_mem_CK
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:56:37.042602+00:00
 -- url     : https://prove2.me/theorems/c5ad1bae-ba68-4076-8dc9-051297ae8696

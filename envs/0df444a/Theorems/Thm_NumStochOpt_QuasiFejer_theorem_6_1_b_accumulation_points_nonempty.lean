@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_QuasiFejer_theorem_6_1_b_accumulation_points_nonempty
 -- name    : NumStochOpt.QuasiFejer.theorem_6_1_b_accumulation_points_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T20:30:04.232664+00:00
 -- url     : https://prove2.me/theorems/5fb0c22e-9c45-42cb-b215-7857bb6d221a

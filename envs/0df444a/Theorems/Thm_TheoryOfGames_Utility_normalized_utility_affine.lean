@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_normalized_utility_affine
 -- name    : TheoryOfGames.Utility.normalized_utility_affine
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:27:11.12288+00:00
 -- url     : https://prove2.me/theorems/20e72de8-8a90-4be7-8441-89dd2950c1ad

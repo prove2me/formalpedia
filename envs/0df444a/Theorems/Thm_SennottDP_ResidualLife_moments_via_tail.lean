@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ResidualLife_moments_via_tail
 -- name    : SennottDP.ResidualLife.moments_via_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:20:15.831208+00:00
 -- url     : https://prove2.me/theorems/7fb1c9a0-38ed-4d43-af92-d0978cb5a504

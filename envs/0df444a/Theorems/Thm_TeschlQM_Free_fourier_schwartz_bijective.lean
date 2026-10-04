@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Free_fourier_schwartz_bijective
 -- name    : TeschlQM.Free.fourier_schwartz_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T00:25:26.367049+00:00
 -- url     : https://prove2.me/theorems/00c811b5-0d46-4198-9800-6b0b8683afd7

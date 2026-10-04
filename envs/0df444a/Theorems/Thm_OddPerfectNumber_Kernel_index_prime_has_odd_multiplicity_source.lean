@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_index_prime_has_odd_multiplicity_source
 -- name    : OddPerfectNumber.Kernel.index_prime_has_odd_multiplicity_source
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T01:43:12.493596+00:00
 -- url     : https://prove2.me/theorems/48e8fb88-535b-4892-98a3-54be43587354

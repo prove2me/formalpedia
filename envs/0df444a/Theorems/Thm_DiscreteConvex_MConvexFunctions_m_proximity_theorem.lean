@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctions_m_proximity_theorem
 -- name    : DiscreteConvex.MConvexFunctions.m_proximity_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:59:39.821658+00:00
 -- url     : https://prove2.me/theorems/667759a7-dc41-4fc0-9470-37976e23b287

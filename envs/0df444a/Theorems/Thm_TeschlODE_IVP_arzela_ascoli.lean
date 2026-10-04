@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_arzela_ascoli
 -- name    : TeschlODE.IVP.arzela_ascoli
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:53:10.356393+00:00
 -- url     : https://prove2.me/theorems/c4ef8f2b-c596-4db3-ab67-e8dfa7f400e6

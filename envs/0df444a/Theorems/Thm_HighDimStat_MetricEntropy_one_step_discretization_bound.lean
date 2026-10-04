@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_MetricEntropy_one_step_discretization_bound
 -- name    : HighDimStat.MetricEntropy.one_step_discretization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-19T23:01:39.876985+00:00
 -- url     : https://prove2.me/theorems/c7c5bc88-20ce-4e1f-b0c6-92d462ebe082

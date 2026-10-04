@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DreyfusWagner_Steiner_algorithmA_eq_steinerLength
 -- name    : DreyfusWagner.Steiner.algorithmA_eq_steinerLength
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:08:42.566319+00:00
 -- url     : https://prove2.me/theorems/beeff2e1-47fd-4fed-8cb9-15b76b4e2909

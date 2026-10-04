@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Flows_augment_isFlow
 -- name    : AppliedComb.Flows.augment_isFlow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:40:00.732239+00:00
 -- url     : https://prove2.me/theorems/1e4726f6-fd32-499c-98a6-0bd71c0f55ef

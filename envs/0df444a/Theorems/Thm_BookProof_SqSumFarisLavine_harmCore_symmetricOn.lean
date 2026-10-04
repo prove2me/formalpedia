@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SqSumFarisLavine_harmCore_symmetricOn
 -- name    : BookProof.SqSumFarisLavine.harmCore_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T09:13:09.124691+00:00
 -- url     : https://prove2.me/theorems/c58c2bc2-d435-4efc-b83c-ee1e1990f057

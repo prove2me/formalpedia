@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BJNAdAuctions_Basic_almost_dual_feasible
 -- name    : BJNAdAuctions.Basic.almost_dual_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T16:45:52.411408+00:00
 -- url     : https://prove2.me/theorems/3bc97140-aee5-4a95-bbc6-0e80c4c6ec41

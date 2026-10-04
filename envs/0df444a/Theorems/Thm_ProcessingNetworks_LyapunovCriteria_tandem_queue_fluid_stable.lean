@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_LyapunovCriteria_tandem_queue_fluid_stable
 -- name    : ProcessingNetworks.LyapunovCriteria.tandem_queue_fluid_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:00:13.048458+00:00
 -- url     : https://prove2.me/theorems/8acfcecb-1654-4aed-aa9a-1d4f0c58dac0

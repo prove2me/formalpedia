@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsB_approx_optimality_from_no_augmenting_path
 -- name    : DiscreteConvex.AlgorithmsB.approx_optimality_from_no_augmenting_path
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:11:03.144774+00:00
 -- url     : https://prove2.me/theorems/65b3c3e0-81d2-4218-8208-b6e39d5c7af9

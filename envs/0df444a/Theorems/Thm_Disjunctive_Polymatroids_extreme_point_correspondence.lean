@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polymatroids_extreme_point_correspondence
 -- name    : Disjunctive.Polymatroids.extreme_point_correspondence
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:13:56.854407+00:00
 -- url     : https://prove2.me/theorems/93475ed1-1a07-4b0e-9899-b631e7b26393

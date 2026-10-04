@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_syracuse_descent_new23_step12_seven_mod32
 -- name    : syracuse_descent_new23_step12_seven_mod32
--- status  : Open
+-- status  : Proved
 -- author  : @Sneed
 -- created : 2026-10-01T09:24:20.552133+00:00
 -- url     : https://prove2.me/theorems/b33802fc-a53e-431a-856a-08e2865ec850

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_BaseStock_L_convex
 -- name    : ServiceParts.BaseStock.L_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:25:20.34892+00:00
 -- url     : https://prove2.me/theorems/3b238a4d-5033-42c3-bdd8-3b6750fd1477

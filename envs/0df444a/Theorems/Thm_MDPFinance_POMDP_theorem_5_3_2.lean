@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_POMDP_theorem_5_3_2
 -- name    : MDPFinance.POMDP.theorem_5_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:15:43.864647+00:00
 -- url     : https://prove2.me/theorems/60dee151-906c-493b-b923-ab0962c41e39

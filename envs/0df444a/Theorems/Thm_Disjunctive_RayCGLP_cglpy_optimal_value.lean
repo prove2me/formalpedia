@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_RayCGLP_cglpy_optimal_value
 -- name    : Disjunctive.RayCGLP.cglpy_optimal_value
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:57:15.096931+00:00
 -- url     : https://prove2.me/theorems/d060a1ee-326d-4632-b729-8d279e4c6282

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_ShiftHamiltonian_ShiftData_shiftH_relative_bound
 -- name    : BookProof.NavierStokesFlow.ShiftHamiltonian.ShiftData.shiftH_relative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T08:11:43.446977+00:00
 -- url     : https://prove2.me/theorems/9fa566a8-a8bc-4f68-9e97-7c9d67dc6f3f

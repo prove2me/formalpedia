@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_supersolution_ge_value
 -- name    : SennottDP.Discounted.supersolution_ge_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:02:37.972331+00:00
 -- url     : https://prove2.me/theorems/9bc3a4eb-9522-4936-8a33-0fd5ff7d1882

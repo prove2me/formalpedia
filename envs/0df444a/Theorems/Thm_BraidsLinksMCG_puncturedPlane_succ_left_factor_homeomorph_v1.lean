@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_puncturedPlane_succ_left_factor_homeomorph_v1
 -- name    : BraidsLinksMCG.puncturedPlane_succ_left_factor_homeomorph_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-24T16:31:58.528721+00:00
 -- url     : https://prove2.me/theorems/30b39e5f-7f2e-4a1b-bcb3-19951e191127

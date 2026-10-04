@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IVP_picard_lindelof
 -- name    : TeschlODE.IVP.picard_lindelof
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:51:07.443964+00:00
 -- url     : https://prove2.me/theorems/d1c5c517-32f1-438d-8766-6482cc5eb3d5

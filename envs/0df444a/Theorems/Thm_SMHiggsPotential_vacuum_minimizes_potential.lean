@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SMHiggsPotential_vacuum_minimizes_potential
 -- name    : SMHiggsPotential.vacuum_minimizes_potential
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T00:08:06.364357+00:00
 -- url     : https://prove2.me/theorems/e90189e7-eae8-464f-8e6e-8b8c04e152d0

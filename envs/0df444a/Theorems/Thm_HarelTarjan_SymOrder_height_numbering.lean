@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarelTarjan_SymOrder_height_numbering
 -- name    : HarelTarjan.SymOrder.height_numbering
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:45:58.262119+00:00
 -- url     : https://prove2.me/theorems/ab7db3e4-e325-4223-aa08-d85abeb34ea5

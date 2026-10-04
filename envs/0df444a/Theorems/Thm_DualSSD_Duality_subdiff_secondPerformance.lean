@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_Duality_subdiff_secondPerformance
 -- name    : DualSSD.Duality.subdiff_secondPerformance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:37:31.671986+00:00
 -- url     : https://prove2.me/theorems/4b09c415-695d-4330-99c4-2a79acc3a1b8

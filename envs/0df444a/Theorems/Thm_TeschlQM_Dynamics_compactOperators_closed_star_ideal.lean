@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Dynamics_compactOperators_closed_star_ideal
 -- name    : TeschlQM.Dynamics.compactOperators_closed_star_ideal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T06:59:45.927072+00:00
 -- url     : https://prove2.me/theorems/30d1ca58-52a1-469b-aac3-040c0a7acabe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsC_extreme_base_bounded_by_eta
 -- name    : DiscreteConvex.AlgorithmsC.extreme_base_bounded_by_eta
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T04:42:19.325957+00:00
 -- url     : https://prove2.me/theorems/2438012f-a9ea-483c-9bf5-9f127aa3161a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ResidualLife_bmrl_finite_moments
 -- name    : SennottDP.ResidualLife.bmrl_finite_moments
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T10:32:32.575298+00:00
 -- url     : https://prove2.me/theorems/cbb2199d-ab51-42a7-a8c4-5055203cd624

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockManyMode_modeShift_shift_ne_prime
 -- name    : BookProof.NavierStokesFlow.FockManyMode.modeShift_shift_ne_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T08:47:40.488972+00:00
 -- url     : https://prove2.me/theorems/ded0fe3f-bdc3-46d0-9ef2-210dbea1499e

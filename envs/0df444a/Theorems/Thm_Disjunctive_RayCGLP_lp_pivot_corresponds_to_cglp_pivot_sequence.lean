@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_RayCGLP_lp_pivot_corresponds_to_cglp_pivot_sequence
 -- name    : Disjunctive.RayCGLP.lp_pivot_corresponds_to_cglp_pivot_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:55:39.801661+00:00
 -- url     : https://prove2.me/theorems/8fe69a89-fae5-40e9-97d8-49cf1f325f0c

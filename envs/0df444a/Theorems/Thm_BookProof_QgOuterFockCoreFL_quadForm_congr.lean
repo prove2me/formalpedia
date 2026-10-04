@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockCoreFL_quadForm_congr
 -- name    : BookProof.QgOuterFockCoreFL.quadForm_congr
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-02T10:16:41.524121+00:00
 -- url     : https://prove2.me/theorems/87983392-4e99-4ea8-ab21-fe4d341c1331

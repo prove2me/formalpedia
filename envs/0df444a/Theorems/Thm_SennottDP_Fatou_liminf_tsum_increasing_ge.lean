@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_liminf_tsum_increasing_ge
 -- name    : SennottDP.Fatou.liminf_tsum_increasing_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T11:53:31.378873+00:00
 -- url     : https://prove2.me/theorems/c6d41b61-e121-49c4-ad6c-0d365ad53420

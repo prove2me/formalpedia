@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomVectors_grothendieck_inequality
 -- name    : HighDimProb.RandomVectors.grothendieck_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-18T06:44:36.745533+00:00
 -- url     : https://prove2.me/theorems/b14acc86-2194-4cd3-a200-5e1829f89715

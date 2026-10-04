@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Minimax_speciallyStrictlyDetermined_iff_pure_good
 -- name    : TheoryOfGames.Minimax.speciallyStrictlyDetermined_iff_pure_good
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:32:49.972151+00:00
 -- url     : https://prove2.me/theorems/5991d2b4-f0fe-41dc-a2a8-32817b6d8e65

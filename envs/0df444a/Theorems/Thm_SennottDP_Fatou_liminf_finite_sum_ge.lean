@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Fatou_liminf_finite_sum_ge
 -- name    : SennottDP.Fatou.liminf_finite_sum_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T11:38:55.107144+00:00
 -- url     : https://prove2.me/theorems/dd8dd4c4-5ac7-4766-9f3b-533a22c4f686

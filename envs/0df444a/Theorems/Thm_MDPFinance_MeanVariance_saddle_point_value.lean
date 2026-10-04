@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_saddle_point_value
 -- name    : MDPFinance.MeanVariance.saddle_point_value
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:07:09.589255+00:00
 -- url     : https://prove2.me/theorems/28f9c3aa-f8a2-4a47-9a1f-d64d2ea288e0

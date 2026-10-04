@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MilnorDynamics_milnorLambdaHalfShift_ne_one
 -- name    : MilnorDynamics.milnorLambdaHalfShift_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-01T12:23:45.809343+00:00
 -- url     : https://prove2.me/theorems/e3e8c8e6-e669-4dc3-ad2d-db0b29cd96c1

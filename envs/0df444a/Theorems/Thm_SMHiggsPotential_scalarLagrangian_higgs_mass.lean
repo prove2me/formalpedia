@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SMHiggsPotential_scalarLagrangian_higgs_mass
 -- name    : SMHiggsPotential.scalarLagrangian_higgs_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T00:02:24.138367+00:00
 -- url     : https://prove2.me/theorems/17435e54-c2ff-45e9-88a5-84cb2024d678

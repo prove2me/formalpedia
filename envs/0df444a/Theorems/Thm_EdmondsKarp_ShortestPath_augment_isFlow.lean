@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_ShortestPath_augment_isFlow
 -- name    : EdmondsKarp.ShortestPath.augment_isFlow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:11:10.720287+00:00
 -- url     : https://prove2.me/theorems/09ab5c8d-29b3-4559-bbdb-71b0c3d12ccc

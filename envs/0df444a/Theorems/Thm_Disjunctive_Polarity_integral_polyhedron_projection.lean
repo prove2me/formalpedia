@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_integral_polyhedron_projection
 -- name    : Disjunctive.Polarity.integral_polyhedron_projection
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:16:37.492551+00:00
 -- url     : https://prove2.me/theorems/9eec0b79-97ba-4e95-85a2-fc617378c3e4

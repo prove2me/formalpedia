@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_regime_monotone_fraction
 -- name    : MDPFinance.ConsumptionInvestment.regime_monotone_fraction
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:59:57.610014+00:00
 -- url     : https://prove2.me/theorems/e15a103d-907c-4789-8d79-dd44168ee706

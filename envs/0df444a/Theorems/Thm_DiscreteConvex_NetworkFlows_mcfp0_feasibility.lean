@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlows_mcfp0_feasibility
 -- name    : DiscreteConvex.NetworkFlows.mcfp0_feasibility
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:17:13.024718+00:00
 -- url     : https://prove2.me/theorems/2956d03e-0294-4dd9-a34f-763a9386fe99

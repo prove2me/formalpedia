@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_lyapunov_return_cost_finite
 -- name    : SennottDP.MarkovCost.lyapunov_return_cost_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:06:29.485104+00:00
 -- url     : https://prove2.me/theorems/e8e755c9-e9d5-46b7-b982-75e080320d44

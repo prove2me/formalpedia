@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_GeneralGames_univ_removable_iff
 -- name    : TheoryOfGames.GeneralGames.univ_removable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:41:02.274543+00:00
 -- url     : https://prove2.me/theorems/14d678fa-9f55-41d1-8e45-f4dad7a6777f

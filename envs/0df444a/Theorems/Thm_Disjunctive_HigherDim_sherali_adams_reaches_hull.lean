@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_HigherDim_sherali_adams_reaches_hull
 -- name    : Disjunctive.HigherDim.sherali_adams_reaches_hull
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:42:23.990125+00:00
 -- url     : https://prove2.me/theorems/f3c0bd6d-47e7-4c74-a62c-31a72ec67afc

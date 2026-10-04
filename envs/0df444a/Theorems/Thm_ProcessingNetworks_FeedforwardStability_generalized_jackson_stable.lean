@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FeedforwardStability_generalized_jackson_stable
 -- name    : ProcessingNetworks.FeedforwardStability.generalized_jackson_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:07:03.273723+00:00
 -- url     : https://prove2.me/theorems/1e983193-a61d-4deb-a537-18435078bb33

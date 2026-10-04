@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_FinancialMarkets_no_arbitrage_iff_local
 -- name    : MDPFinance.FinancialMarkets.no_arbitrage_iff_local
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:50:04.556972+00:00
 -- url     : https://prove2.me/theorems/6c429be8-4a64-4150-a7aa-f5ea0f34470a

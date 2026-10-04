@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Linear_exists_unique_solution
 -- name    : TeschlODE.Linear.exists_unique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:54:59.583782+00:00
 -- url     : https://prove2.me/theorems/bcfe15d6-30da-42e7-8ed5-67128f45005e

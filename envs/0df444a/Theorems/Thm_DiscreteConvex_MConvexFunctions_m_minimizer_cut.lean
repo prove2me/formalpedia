@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctions_m_minimizer_cut
 -- name    : DiscreteConvex.MConvexFunctions.m_minimizer_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:57:19.935374+00:00
 -- url     : https://prove2.me/theorems/0d04c4a7-68cb-42c2-b504-a2e4cfe1b6f3

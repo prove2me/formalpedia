@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_Discounted_discounted_tail_tendsto_zero
 -- name    : SennottDP.Discounted.discounted_tail_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T07:08:47.791057+00:00
 -- url     : https://prove2.me/theorems/e5ce1898-2cb2-40ea-a187-3c61aeb7af99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_within_group_entropy_dini_bound
 -- name    : ProcessingNetworks.ProportionalFairness.within_group_entropy_dini_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:33:19.618697+00:00
 -- url     : https://prove2.me/theorems/6b729144-dd01-44f0-9330-6ec5bd0e1c53

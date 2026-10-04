@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_constituent_indecomposable_iff
 -- name    : TheoryOfGames.Decomposition.constituent_indecomposable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:23:55.701286+00:00
 -- url     : https://prove2.me/theorems/2d853489-4174-4b1e-9d72-2e3bad024b17

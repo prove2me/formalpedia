@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_GraphAlg_shortest_path_subpaths
 -- name    : AppliedComb.GraphAlg.shortest_path_subpaths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:36:15.669989+00:00
 -- url     : https://prove2.me/theorems/e369709e-2376-4ea6-a8e3-853cb5f155cf

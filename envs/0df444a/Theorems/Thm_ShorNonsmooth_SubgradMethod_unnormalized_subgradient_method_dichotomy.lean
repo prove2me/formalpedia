@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SubgradMethod_unnormalized_subgradient_method_dichotomy
 -- name    : ShorNonsmooth.SubgradMethod.unnormalized_subgradient_method_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:03:13.810415+00:00
 -- url     : https://prove2.me/theorems/34879f80-274e-4830-8be7-5e075a13b1dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_cyclotomic_primes_one_mod_six_of_D
 -- name    : OddPerfectNumber.Kernel.five_cyclotomic_primes_one_mod_six_of_D
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T00:47:02.093853+00:00
 -- url     : https://prove2.me/theorems/79b33655-fa31-4875-8191-2ba4e4fdf53d

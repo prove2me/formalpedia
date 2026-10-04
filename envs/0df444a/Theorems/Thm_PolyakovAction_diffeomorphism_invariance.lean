@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_diffeomorphism_invariance
 -- name    : PolyakovAction.diffeomorphism_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T10:05:27.278201+00:00
 -- url     : https://prove2.me/theorems/50a0258b-86c8-4a5a-a7fd-2d88a7d08a61

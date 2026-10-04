@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PaigeTarjan_Coarsest_lemma3_three_way_split
 -- name    : PaigeTarjan.Coarsest.lemma3_three_way_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:50:44.8648+00:00
 -- url     : https://prove2.me/theorems/c7dfddc1-e47a-4396-91ca-00ed9f08acd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_MeanVariance_transaction_cost_upper_bounding_function
 -- name    : MDPFinance.MeanVariance.transaction_cost_upper_bounding_function
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:07:03.08875+00:00
 -- url     : https://prove2.me/theorems/4f29c0ca-fe6c-4b90-814e-eebc10916ce5

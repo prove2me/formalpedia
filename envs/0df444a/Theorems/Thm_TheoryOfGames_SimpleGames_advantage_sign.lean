@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_advantage_sign
 -- name    : TheoryOfGames.SimpleGames.advantage_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:05:03.323462+00:00
 -- url     : https://prove2.me/theorems/c5e261a5-8075-4f9d-a953-7ea8e7a03dd5

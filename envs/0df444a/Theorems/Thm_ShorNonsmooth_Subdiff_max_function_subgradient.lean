@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Subdiff_max_function_subgradient
 -- name    : ShorNonsmooth.Subdiff.max_function_subgradient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:37:23.969545+00:00
 -- url     : https://prove2.me/theorems/614c03fd-585c-4fed-b3a9-a8a5cc6d3fc9

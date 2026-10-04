@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexity_integral_local_to_global_optimality
 -- name    : DiscreteConvex.IntegralConvexity.integral_local_to_global_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:52:04.532802+00:00
 -- url     : https://prove2.me/theorems/0e3b6bdb-510b-4db6-9ef7-bf176e05d67b

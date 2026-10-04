@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_AlgorithmsB_base_polyhedron_min_max
 -- name    : DiscreteConvex.AlgorithmsB.base_polyhedron_min_max
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T03:58:55.638594+00:00
 -- url     : https://prove2.me/theorems/5747d496-770b-4913-9d28-97be7909bf2d

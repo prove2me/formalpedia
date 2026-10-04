@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_cmb_lt_cmb_of_lt
 -- name    : TheoryOfGames.Utility.cmb_lt_cmb_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:03:43.884581+00:00
 -- url     : https://prove2.me/theorems/b89c7571-61db-4bb3-9dd8-26505b861c9a

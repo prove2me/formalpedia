@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarelTarjan_SymOrder_lemma2_descendants_range
 -- name    : HarelTarjan.SymOrder.lemma2_descendants_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:46:55.005769+00:00
 -- url     : https://prove2.me/theorems/e53f2e30-cc7c-4b36-81cb-154975573581

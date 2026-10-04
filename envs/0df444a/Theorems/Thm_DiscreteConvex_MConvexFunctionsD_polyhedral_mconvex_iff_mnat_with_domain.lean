@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsD_polyhedral_mconvex_iff_mnat_with_domain
 -- name    : DiscreteConvex.MConvexFunctionsD.polyhedral_mconvex_iff_mnat_with_domain
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:55:45.709411+00:00
 -- url     : https://prove2.me/theorems/6b865213-9fab-4c56-a2b0-adb4e9d7539d

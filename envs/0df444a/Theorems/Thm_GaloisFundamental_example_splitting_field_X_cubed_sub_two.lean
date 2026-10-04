@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_example_splitting_field_X_cubed_sub_two
 -- name    : GaloisFundamental.example_splitting_field_X_cubed_sub_two
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T01:08:23.447977+00:00
 -- url     : https://prove2.me/theorems/964bb9ea-5644-4264-939f-9b7422a314f2

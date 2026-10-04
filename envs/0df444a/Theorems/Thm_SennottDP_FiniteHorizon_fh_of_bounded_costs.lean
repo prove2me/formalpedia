@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_FiniteHorizon_fh_of_bounded_costs
 -- name    : SennottDP.FiniteHorizon.fh_of_bounded_costs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:40:42.409692+00:00
 -- url     : https://prove2.me/theorems/76dceb64-a654-4bf4-8f3e-46e10e36ebad

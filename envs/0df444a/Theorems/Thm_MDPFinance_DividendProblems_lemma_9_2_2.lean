@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_DividendProblems_lemma_9_2_2
 -- name    : MDPFinance.DividendProblems.lemma_9_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:13:19.46098+00:00
 -- url     : https://prove2.me/theorems/98f89a2d-f008-470f-ab6f-ef6e45145dd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Acyclic_unique_solution
 -- name    : TheoryOfGames.Acyclic.unique_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T06:11:22.215123+00:00
 -- url     : https://prove2.me/theorems/9c57955d-7d38-43c6-9805-66d639b02aa2

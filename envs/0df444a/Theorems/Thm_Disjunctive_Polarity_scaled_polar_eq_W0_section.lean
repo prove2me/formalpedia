@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_scaled_polar_eq_W0_section
 -- name    : Disjunctive.Polarity.scaled_polar_eq_W0_section
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:22:59.296257+00:00
 -- url     : https://prove2.me/theorems/eb69b2dd-afd1-4360-b174-63ce83b0e2de

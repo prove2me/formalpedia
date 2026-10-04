@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_Decomposition_dual_bound_le_optimum
 -- name    : ShorNonsmooth.Decomposition.dual_bound_le_optimum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:36:01.757196+00:00
 -- url     : https://prove2.me/theorems/da5db52f-1cfc-4b4e-9255-f1cf7b0357e8

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Combinatorics.finite_symmetric_local_lemma_criterion
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T20:26:53.548162+00:00
 -- url     : https://prove2.me/submissions/b51434dc-0259-4251-9e08-83d5ad432efb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Combinatorics_finite_symmetric_local_lemma_avoidance_positive
 import Mathlib

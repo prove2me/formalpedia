@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoulombGauss_tendsto_ball_average_of_continuousOn
 -- name    : CoulombGauss.tendsto_ball_average_of_continuousOn
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T19:46:21.919659+00:00
 -- url     : https://prove2.me/theorems/c40255ce-e5c8-4902-8ea5-163bcb06b30f

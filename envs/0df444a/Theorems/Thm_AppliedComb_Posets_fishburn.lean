@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_Posets_fishburn
 -- name    : AppliedComb.Posets.fishburn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:07:07.666992+00:00
 -- url     : https://prove2.me/theorems/720bcc53-de29-47e2-b17a-f339db188123

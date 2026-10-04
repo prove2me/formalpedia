@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos77.erdos_lower_bound_1947
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T10:01:38.727485+00:00
 -- url     : https://prove2.me/submissions/e03f02ae-39cd-4dbc-a89f-dd0645285e83
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_Erdos77_diagonal_ramsey

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_StoppingFinance_theorem_11_1_3
 -- name    : MDPFinance.StoppingFinance.theorem_11_1_3
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:49:48.204985+00:00
 -- url     : https://prove2.me/theorems/476f5f90-4fbd-4af7-8ada-2f85844554b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AppliedComb_InclExcl_derangements_count
 -- name    : AppliedComb.InclExcl.derangements_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:10:23.320996+00:00
 -- url     : https://prove2.me/theorems/08caa73f-6e62-496e-ae7e-dffab999506e

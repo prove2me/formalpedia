@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctions_m_optimality_criterion
 -- name    : DiscreteConvex.MConvexFunctions.m_optimality_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:59:28.074221+00:00
 -- url     : https://prove2.me/theorems/e748ee86-77fb-42c7-acb7-c6b28ccb5828

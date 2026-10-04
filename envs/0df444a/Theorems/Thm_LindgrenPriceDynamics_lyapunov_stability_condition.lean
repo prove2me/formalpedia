@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LindgrenPriceDynamics_lyapunov_stability_condition
 -- name    : LindgrenPriceDynamics.lyapunov_stability_condition
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T18:41:15.910666+00:00
 -- url     : https://prove2.me/theorems/1cdf8515-d5a4-4629-b3dc-ba19cd558d6e

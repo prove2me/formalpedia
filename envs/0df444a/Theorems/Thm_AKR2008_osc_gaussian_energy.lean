@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKR2008_osc_gaussian_energy
 -- name    : AKR2008.osc_gaussian_energy
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T00:07:35.199143+00:00
 -- url     : https://prove2.me/theorems/0573af0e-465f-4019-8ea2-15f1d01d6bf7

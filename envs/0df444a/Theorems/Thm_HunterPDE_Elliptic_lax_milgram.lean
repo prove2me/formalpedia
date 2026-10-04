@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Elliptic_lax_milgram
 -- name    : HunterPDE.Elliptic.lax_milgram
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:47:07.9948+00:00
 -- url     : https://prove2.me/theorems/dc0e6979-444e-4022-96cc-d0c06fc89dae

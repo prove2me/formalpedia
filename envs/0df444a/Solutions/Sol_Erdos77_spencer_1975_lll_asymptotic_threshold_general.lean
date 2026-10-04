@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos77.spencer_1975_lll_asymptotic_threshold_general
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T11:56:33.305987+00:00
 -- url     : https://prove2.me/submissions/f84d0b0b-f32a-4408-92b6-f8ae4944f326
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_Erdos77_spencer_1975_lll_asymptotic_threshold
 import Mathlib

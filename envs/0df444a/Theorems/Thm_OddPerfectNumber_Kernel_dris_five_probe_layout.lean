@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_dris_five_probe_layout
 -- name    : OddPerfectNumber.Kernel.dris_five_probe_layout
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-02T00:02:09.704467+00:00
 -- url     : https://prove2.me/theorems/04793c2c-4787-49fb-a341-24dea96bdfd7

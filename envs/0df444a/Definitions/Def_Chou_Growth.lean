@@ -7,22 +7,38 @@
 -- title:
 --   Growth of finitely generated groups: balls, exponential growth, exponentially bounded, free subsemigroups
 -- statement:
---   The growth notions of §3, after Milnor and Wolf.
+--   The growth notions of §1 and §3, after Milnor and Wolf.
 --
---   - `wordBall S n`: the elements of $G$ that are products of at most $n$ factors, each in $S$ or
---     with inverse in $S$.
---   - `HasExponentialGrowth G`: for some finite generating set $S$ of $G$ there is $c > 1$ with
+--   - `wordBall S n`: p. 396: “A finitely generated group $G$ with a finite generating set $F$ is
+--     said to be exponentially bounded if $(\text{card}\, F^n)^{1/n} \to 1$ as $n \to \infty$ where
+--     $F^n = \{x_1 \cdots x_n \colon x_i \in F\}$.” `wordBall S n` stands in for this $F^n$ (see the
+--     paragraph after the list): the elements of $G$ that are products of at most $n$ factors, each
+--     in $S$ or with inverse in $S$.
+--   - `HasExponentialGrowth G`: p. 399: “Let $G$ be a group with a finite generating set $F$. …
+--     Milnor [16] showed that $\lim |F^n|^{1/n} = v$ always exists. If $v > 1$ then $G$ is said to
+--     have exponential growth and if $v = 1$ then $G$ is said to be exponentially bounded.” Here:
+--     for some finite generating set $S$ of $G$ there is $c > 1$ with
 --     $|\text{wordBall}(S, n)| \ge c^n$ for every $n$.
---   - `IsExponentiallyBounded G`: for some finite generating set $S$ and every $c > 1$,
+--   - `IsExponentiallyBounded G`: p. 396: “A finitely generated group $G$ with a finite generating
+--     set $F$ is said to be exponentially bounded if $(\text{card}\, F^n)^{1/n} \to 1$ as
+--     $n \to \infty$ where $F^n = \{x_1 \cdots x_n \colon x_i \in F\}$. This property is independent
+--     of the choice of $F$.” On p. 399 it is the case $v = 1$ of the sentence quoted under
+--     `HasExponentialGrowth`. Here: for some finite generating set $S$ and every $c > 1$,
 --     $|\text{wordBall}(S, n)| \le c^n$ for all large $n$.
---   - `HasFreeSubsemigroupOfRankTwo G`: there are $a, b \in G$ such that distinct words in $a, b$
---     (including the empty word, which is $1$) give distinct elements of $G$: the homomorphism from
---     the free monoid on two letters is injective. This is the same as $a, b$ generating a free
---     subsemigroup, since a nonempty word $w$ equal to $1$ would give $u w = u$ for every word $u$.
+--   - `HasFreeSubsemigroupOfRankTwo G`: Chou only names “a free subsemigroup on two generators”
+--     (p. 401) and does not define it. Here: there are $a, b \in G$ such that distinct words in
+--     $a, b$ (including the empty word, which is $1$) give distinct elements of $G$: the
+--     homomorphism from the free monoid on two letters is injective. This is the same as $a, b$
+--     generating a free subsemigroup, since a nonempty word $w$ equal to $1$ would give $u w = u$
+--     for every word $u$.
 --
 --   Chou's $|F^n|$ counts products of exactly $n$ elements of a finite generating set $F$; for $F$
---   symmetric and containing $1$ the two notions coincide. "Almost nilpotent" is Mathlib's
---   `Group.IsVirtuallyNilpotent`. No theorem is stated here.
+--   symmetric and containing $1$ the two notions coincide.
+--
+--   p. 399: “Milnor [17] and Wolf [22] proved that a finitely generated solvable group $G$ is
+--   exponentially bounded if and only if it has polynomial growth and if and only if it is almost
+--   nilpotent, i.e., $G$ contains a nilpotent subgroup of finite index.” “Almost nilpotent” is
+--   Mathlib's `Group.IsVirtuallyNilpotent`. No theorem is stated here.
 -- source:
 --   Chou, C., Elementary amenable groups, Illinois Journal of Mathematics 24 (1980) 396–407, https://doi.org/10.1215/ijm/1256047608, §3 p. 399 (growth, Milnor–Wolf), p. 401 (free subsemigroup on two generators)
 
