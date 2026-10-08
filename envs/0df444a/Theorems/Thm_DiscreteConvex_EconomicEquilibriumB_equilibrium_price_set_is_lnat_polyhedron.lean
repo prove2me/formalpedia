@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_EconomicEquilibriumB_equilibrium_price_set_is_lnat_polyhedron
 -- name    : DiscreteConvex.EconomicEquilibriumB.equilibrium_price_set_is_lnat_polyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:14:21.67767+00:00
 -- url     : https://prove2.me/theorems/c11099d3-d16b-492d-99ba-95d3d2d10241

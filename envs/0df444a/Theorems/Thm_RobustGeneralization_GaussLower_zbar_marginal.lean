@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussLower_zbar_marginal
 -- name    : RobustGeneralization.GaussLower.zbar_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:16:31.002592+00:00
 -- url     : https://prove2.me/theorems/0ac7836c-41c5-4c48-ac1c-8e565637e107

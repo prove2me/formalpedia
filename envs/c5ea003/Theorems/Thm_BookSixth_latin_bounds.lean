@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_latin_bounds
 -- name    : BookSixth.latin_bounds
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:54.41203+00:00
 -- url     : https://prove2.me/theorems/c6076667-303d-403a-a2bc-f424ec04ff08
 -- title:

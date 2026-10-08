@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.minColorInSupport_ne_of_disjoint
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:22.458242+00:00
 -- url     : https://prove2.me/submissions/c7b2783d-2122-4481-b194-034443505af8
 

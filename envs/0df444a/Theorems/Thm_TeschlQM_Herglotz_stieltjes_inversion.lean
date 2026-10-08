@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Herglotz_stieltjes_inversion
 -- name    : TeschlQM.Herglotz.stieltjes_inversion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:37:26.382514+00:00
 -- url     : https://prove2.me/theorems/341b695e-fcbb-4509-a964-43cad8647efb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_PacketNetworks_back_pressure_irreducible_aperiodic
 -- name    : ProcessingNetworks.PacketNetworks.back_pressure_irreducible_aperiodic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:56:38.430398+00:00
 -- url     : https://prove2.me/theorems/51d531d5-53a2-4f29-b6a9-e429dcc6c134

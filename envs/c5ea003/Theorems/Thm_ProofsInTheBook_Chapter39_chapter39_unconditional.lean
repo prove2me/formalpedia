@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_chapter39_unconditional
 -- name    : ProofsInTheBook.Chapter39.chapter39_unconditional
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:06.345876+00:00
 -- url     : https://prove2.me/theorems/f9c12f1b-aa72-4d29-a88e-0f654e2d3d4e
 -- title:

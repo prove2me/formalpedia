@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.exists_interval_prime_or_exception_of_9_le_lt_20
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:46.65103+00:00
 -- url     : https://prove2.me/submissions/e0962e9d-bcf4-40ed-b013-e5ef46d2dde4
 

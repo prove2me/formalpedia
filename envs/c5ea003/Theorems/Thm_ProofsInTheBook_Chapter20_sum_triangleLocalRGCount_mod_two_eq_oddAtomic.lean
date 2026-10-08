@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_sum_triangleLocalRGCount_mod_two_eq_oddAtomic
 -- name    : ProofsInTheBook.Chapter20.sum_triangleLocalRGCount_mod_two_eq_oddAtomic
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:38.237371+00:00
 -- url     : https://prove2.me/theorems/941bfb58-6e07-4995-98bd-8bdc857538ca
 -- title:

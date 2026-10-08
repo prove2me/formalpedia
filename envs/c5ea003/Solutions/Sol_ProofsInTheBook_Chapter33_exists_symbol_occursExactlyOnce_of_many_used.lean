@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.exists_symbol_occursExactlyOnce_of_many_used
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:44.175142+00:00
 -- url     : https://prove2.me/submissions/df8f5318-b20d-4f87-8444-77700c0af4a9
 

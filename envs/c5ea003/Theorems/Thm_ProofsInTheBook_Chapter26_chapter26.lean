@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter26_chapter26
 -- name    : ProofsInTheBook.Chapter26.chapter26
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:11:13.805165+00:00
 -- url     : https://prove2.me/theorems/998e25c7-7ca3-4479-951f-75cb295aff99
 -- title:

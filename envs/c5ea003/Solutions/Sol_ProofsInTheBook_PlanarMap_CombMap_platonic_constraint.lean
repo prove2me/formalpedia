@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.PlanarMap.CombMap.platonic_constraint
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:20.385718+00:00
 -- url     : https://prove2.me/submissions/abdf638a-738e-4ea7-b3ff-26c89d8378d6
 

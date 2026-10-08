@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_pow_mul_self_descFactorial_le_pow_mul_descFactorial
 -- name    : ProofsInTheBook.Chapter03.pow_mul_self_descFactorial_le_pow_mul_descFactorial
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:44.238665+00:00
 -- url     : https://prove2.me/theorems/a9ccf512-ef83-44ff-8e50-21e26d545735
 -- title:

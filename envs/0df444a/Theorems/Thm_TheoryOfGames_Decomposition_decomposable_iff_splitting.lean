@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Decomposition_decomposable_iff_splitting
 -- name    : TheoryOfGames.Decomposition.decomposable_iff_splitting
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T04:13:19.092138+00:00
 -- url     : https://prove2.me/theorems/f2a66268-6ec1-4901-b072-ac2a1595914b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_ChernoffPAC_pairwise_crossing_prob
 -- name    : OptimalBAI.ChernoffPAC.pairwise_crossing_prob
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:03:07.593023+00:00
 -- url     : https://prove2.me/theorems/fa198363-5743-4db8-bcbd-0d8542905c22

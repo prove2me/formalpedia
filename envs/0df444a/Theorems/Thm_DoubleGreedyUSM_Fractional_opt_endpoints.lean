@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleGreedyUSM_Fractional_opt_endpoints
 -- name    : DoubleGreedyUSM.Fractional.opt_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:05:23.914727+00:00
 -- url     : https://prove2.me/theorems/a7c08d19-be38-48fa-9f78-67643073d115

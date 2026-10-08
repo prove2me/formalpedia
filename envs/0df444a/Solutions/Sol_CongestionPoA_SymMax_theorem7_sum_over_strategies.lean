@@ -1,0 +1,70 @@
+-- Prove2me | solution 1 for CongestionPoA.SymMax.theorem7_sum_over_strategies
+-- status  : ACCEPTED   (prove)
+-- author  : @Nickrobbins95
+-- created : 2026-10-05T02:18:52.273395+00:00
+-- url     : https://prove2.me/submissions/f5cd600a-ce58-4310-ab10-420350d42e48
+
+import Mathlib
+import Definitions.Def_CongestionPoA_SymMax_Model
+
+set_option autoImplicit false
+
+open CongestionPoA.SymMax in
+theorem p2m_efbc8184_load_update_le {ι E : Type*} [Fintype ι] [DecidableEq ι] [Fintype E]
+    [DecidableEq E] (A : ι → Finset E) (i : ι) (S : Finset E) (e : E) :
+    load (Function.update A i S) e ≤ load A e + 1 := by
+  unfold load
+  calc (Finset.univ.filter (fun k => e ∈ Function.update A i S k)).card
+      ≤ (insert i (Finset.univ.filter (fun k => e ∈ A k))).card := by
+        apply Finset.card_le_card
+        intro k hk
+        simp only [Finset.mem_filter, Finset.mem_univ, true_and] at hk
+        by_cases hki : k = i
+        · subst hki; exact Finset.mem_insert_self _ _
+        · rw [Function.update_of_ne hki] at hk
+          exact Finset.mem_insert_of_mem (by simpa using hk)
+    _ ≤ _ := Finset.card_insert_le _ _
+
+
+open CongestionPoA.SymMax in
+theorem p2m_efbc8184_per_strategy {ι E : Type*} [Fintype ι] [DecidableEq ι] [Fintype E]
+    [DecidableEq E] (G : CongestionGame ι E) (A P : ι → Finset E)
+    (hlin : IsLinear G) (hsym : IsSymmetric G) (hA : IsPureNash G A) (hP : IsProfile G P)
+    (i j : ι) :
+    cost G A i ≤ ∑ e ∈ P j, G.latency e (load A e + 1) := by
+  have hS : P j ∈ G.strategies i := by rw [hsym i j]; exact hP j
+  refine le_trans (hA.2 i (P j) hS) ?_
+  unfold cost
+  rw [Function.update_self]
+  apply Finset.sum_le_sum
+  intro e _
+  obtain ⟨a, b, ha, _, hl⟩ := hlin
+  rw [hl, hl]
+  have h1 : ((load (Function.update A i (P j)) e : ℕ) : ℝ) ≤ ((load A e + 1 : ℕ) : ℝ) := by
+    exact_mod_cast p2m_efbc8184_load_update_le A i (P j) e
+  have := mul_le_mul_of_nonneg_left h1 (ha e)
+  linarith
+
+open CongestionPoA.SymMax in
+theorem p2m_efbc8184_double_count {ι E : Type*} [Fintype ι] [DecidableEq ι] [Fintype E]
+    [DecidableEq E] (P : ι → Finset E) (g : E → ℝ) :
+    ∑ j, ∑ e ∈ P j, g e = ∑ e, (load P e : ℝ) * g e := by
+  unfold load
+  have h1 : ∀ j, ∑ e ∈ P j, g e = ∑ e, if e ∈ P j then g e else 0 := by
+    intro j
+    rw [Finset.sum_ite_mem, Finset.univ_inter]
+  simp_rw [h1]
+  rw [Finset.sum_comm]
+  refine Finset.sum_congr rfl (fun e _ => ?_)
+  rw [Finset.sum_ite, Finset.sum_const_zero, add_zero, Finset.sum_const, nsmul_eq_mul]
+
+open CongestionPoA.SymMax in
+theorem solution {ι E : Type*} [Fintype ι] [DecidableEq ι] [Fintype E]
+    [DecidableEq E] (G : CongestionGame ι E) (A P : ι → Finset E)
+    (hlin : IsLinear G) (hsym : IsSymmetric G) (hA : IsPureNash G A) (hP : IsProfile G P)
+    (i : ι) :
+    (Fintype.card ι : ℝ) * cost G A i ≤ ∑ e, (load P e : ℝ) * G.latency e (load A e + 1) := by
+  rw [← p2m_efbc8184_double_count P (fun e => G.latency e (load A e + 1))]
+  have h := Finset.sum_le_sum (s := Finset.univ) (fun j _ =>
+    p2m_efbc8184_per_strategy G A P hlin hsym hA hP i j)
+  simpa [Finset.sum_const, Finset.card_univ, nsmul_eq_mul] using h

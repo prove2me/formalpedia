@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConnesRZ_weil_positivity_implies_RH
 -- name    : ConnesRZ.weil_positivity_implies_RH
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-15T13:07:06.496871+00:00
 -- url     : https://prove2.me/theorems/9af28805-41b4-4416-9b42-bdf30c63dca3

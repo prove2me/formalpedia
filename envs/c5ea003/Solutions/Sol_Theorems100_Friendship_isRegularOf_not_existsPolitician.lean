@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Theorems100.Friendship.isRegularOf_not_existsPolitician
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:45:02.221855+00:00
 -- url     : https://prove2.me/submissions/600a2c4b-1dea-4dc7-9def-d1b80efc0752
 

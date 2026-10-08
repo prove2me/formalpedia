@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_two_prime_local_sigma_supplier_allowed
 -- name    : OddPerfectNumber.Kernel.five_two_prime_local_sigma_supplier_allowed
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T08:48:06.959864+00:00
 -- url     : https://prove2.me/theorems/45582f57-0c46-4a5e-ac4e-c3f64f858428

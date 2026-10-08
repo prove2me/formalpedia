@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_ZeroSetup_V_convex_coercive
 -- name    : GallegoOzerADI.ZeroSetup.V_convex_coercive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:54:13.048144+00:00
 -- url     : https://prove2.me/theorems/3bf234be-c810-43b7-aad9-743c682a68cc

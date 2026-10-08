@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_primeCounting_gap_of_120_le
 -- name    : ProofsInTheBook.Chapter03.primeCounting_gap_of_120_le
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:30.97683+00:00
 -- url     : https://prove2.me/theorems/01e9b1c9-6dbd-4812-b13f-def4d37dab8e
 -- title:

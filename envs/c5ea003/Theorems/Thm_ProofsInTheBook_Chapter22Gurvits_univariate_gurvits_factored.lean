@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22Gurvits_univariate_gurvits_factored
 -- name    : ProofsInTheBook.Chapter22Gurvits.univariate_gurvits_factored
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:24.676846+00:00
 -- url     : https://prove2.me/theorems/97c6e62d-16aa-481e-9ee6-5e19fd492142
 -- title:

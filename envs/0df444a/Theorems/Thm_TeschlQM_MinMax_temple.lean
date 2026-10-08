@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_MinMax_temple
 -- name    : TeschlQM.MinMax.temple
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T21:49:16.272747+00:00
 -- url     : https://prove2.me/theorems/1327ebf8-2c58-4b38-a3e4-3767fe53bcf6

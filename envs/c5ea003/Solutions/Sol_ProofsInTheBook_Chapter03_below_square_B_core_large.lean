@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.below_square_B_core_large
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:22.057119+00:00
 -- url     : https://prove2.me/submissions/413e0a79-6c95-47d4-a5d2-3be3b594ec21
 

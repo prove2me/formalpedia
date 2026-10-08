@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochLinOpt_UpperBound_martingale_sum_le_half_beta
 -- name    : StochLinOpt.UpperBound.martingale_sum_le_half_beta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:32:41.405295+00:00
 -- url     : https://prove2.me/theorems/a44ac43d-937f-4604-b413-98bd53d3ca47

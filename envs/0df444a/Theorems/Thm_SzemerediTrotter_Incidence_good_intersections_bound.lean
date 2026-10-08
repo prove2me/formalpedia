@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SzemerediTrotter_Incidence_good_intersections_bound
 -- name    : SzemerediTrotter.Incidence.good_intersections_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T10:51:45.307411+00:00
 -- url     : https://prove2.me/theorems/91071057-a47e-4f6a-8249-12fc85e8ab97

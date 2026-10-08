@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BealeConvexMin_QuadSimplex_iteration_terminates
 -- name    : BealeConvexMin.QuadSimplex.iteration_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:36:52.172459+00:00
 -- url     : https://prove2.me/theorems/1415b1ee-0c60-46e5-aee6-2f9f5eb40935

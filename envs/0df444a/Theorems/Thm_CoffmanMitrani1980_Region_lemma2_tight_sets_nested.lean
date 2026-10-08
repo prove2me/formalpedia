@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani1980_Region_lemma2_tight_sets_nested
 -- name    : CoffmanMitrani1980.Region.lemma2_tight_sets_nested
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:16:27.961299+00:00
 -- url     : https://prove2.me/theorems/8903e4f0-b463-45b4-a55a-4b2ed4baff86

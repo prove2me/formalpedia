@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_GeneralGames_extCharFun_isExtended
 -- name    : TheoryOfGames.GeneralGames.extCharFun_isExtended
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:23:46.213833+00:00
 -- url     : https://prove2.me/theorems/4ea2e32a-d2c9-4262-abd3-da7c11bfad38

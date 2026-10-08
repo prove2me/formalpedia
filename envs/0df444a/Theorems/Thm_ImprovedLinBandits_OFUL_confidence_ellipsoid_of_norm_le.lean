@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedLinBandits_OFUL_confidence_ellipsoid_of_norm_le
 -- name    : ImprovedLinBandits.OFUL.confidence_ellipsoid_of_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:21:36.209406+00:00
 -- url     : https://prove2.me/theorems/65c8110c-968a-4dc7-927b-09ef8be285fe

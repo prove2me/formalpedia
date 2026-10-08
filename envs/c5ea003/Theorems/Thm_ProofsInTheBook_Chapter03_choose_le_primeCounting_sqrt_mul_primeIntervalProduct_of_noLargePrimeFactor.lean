@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_choose_le_primeCounting_sqrt_mul_primeIntervalProduct_of_noLargePrimeFactor
 -- name    : ProofsInTheBook.Chapter03.choose_le_primeCounting_sqrt_mul_primeIntervalProduct_of_noLargePrimeFactor
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:32.770249+00:00
 -- url     : https://prove2.me/theorems/aea26e12-24e2-422c-ab58-c38874dc8dd9
 -- title:

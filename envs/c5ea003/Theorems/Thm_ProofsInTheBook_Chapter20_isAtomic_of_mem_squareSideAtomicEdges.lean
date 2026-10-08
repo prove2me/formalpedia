@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_isAtomic_of_mem_squareSideAtomicEdges
 -- name    : ProofsInTheBook.Chapter20.isAtomic_of_mem_squareSideAtomicEdges
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:21.757677+00:00
 -- url     : https://prove2.me/theorems/053ed4e8-6e69-471c-8d51-dedf4b9eb3f5
 -- title:

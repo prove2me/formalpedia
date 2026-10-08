@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_interval_prime_or_exception_of_9_le_lt_20
 -- name    : ProofsInTheBook.Chapter03.exists_interval_prime_or_exception_of_9_le_lt_20
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:35:56.02998+00:00
 -- url     : https://prove2.me/theorems/9a827397-2a21-4bf4-b5ab-f6e13cd0e403
 -- title:

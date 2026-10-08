@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproachRegret_ToOLO_lemma13_dist_cone
 -- name    : ApproachRegret.ToOLO.lemma13_dist_cone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:00:38.614844+00:00
 -- url     : https://prove2.me/theorems/e7dbeeb8-5992-4ff0-bb55-b2c05f28ca3e

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter30.sum_eq_neg_self_of_sign_reversing_equiv
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:31:46.40488+00:00
 -- url     : https://prove2.me/submissions/1bfa721c-12bd-4504-a5ff-878ab7a058d3
 

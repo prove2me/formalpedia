@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChatterjeeSamuelson_LinkedODE_seller_first_order_condition
 -- name    : ChatterjeeSamuelson.LinkedODE.seller_first_order_condition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:48:17.067264+00:00
 -- url     : https://prove2.me/theorems/42f5f242-f761-402a-a4d3-e8fb18df5e70

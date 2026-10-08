@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Distinct_emsr_optimality_conditions
 -- name    : SeatInventory.Distinct.emsr_optimality_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:05:38.525807+00:00
 -- url     : https://prove2.me/theorems/9fd16df0-34a2-4a5e-981a-c71b1876354e

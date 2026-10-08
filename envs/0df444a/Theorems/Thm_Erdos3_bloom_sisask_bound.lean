@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos3_bloom_sisask_bound
 -- name    : Erdos3.bloom_sisask_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:22:48.694403+00:00
 -- url     : https://prove2.me/theorems/3a73c56f-e244-428c-a81a-ba4c0ad8d572

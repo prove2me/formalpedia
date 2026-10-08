@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_k_one_q2_five_q3_twentynine_D45_canonical_absurd
 -- name    : OddPerfectNumber.k_one_q2_five_q3_twentynine_D45_canonical_absurd
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-15T20:11:40.683774+00:00
 -- url     : https://prove2.me/theorems/c7680fae-cb85-4924-8045-925094307454

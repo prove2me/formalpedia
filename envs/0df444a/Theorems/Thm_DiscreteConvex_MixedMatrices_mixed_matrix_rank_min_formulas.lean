@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MixedMatrices_mixed_matrix_rank_min_formulas
 -- name    : DiscreteConvex.MixedMatrices.mixed_matrix_rank_min_formulas
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:47:57.408465+00:00
 -- url     : https://prove2.me/theorems/95b711f1-45da-4f94-b0bc-4581c7007d3c

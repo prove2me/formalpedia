@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.chapter39_unconditional
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:18.466005+00:00
 -- url     : https://prove2.me/submissions/2d8ef2c5-6c43-4b4b-bc83-aaf5d359c6b9
 

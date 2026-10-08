@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos592_specker_omega_sq
 -- name    : Erdos592.specker_omega_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T18:07:35.06999+00:00
 -- url     : https://prove2.me/theorems/636ffb31-f940-4d5e-8262-ba55cf7c866d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_CombinatorialC_theorem_2_22_submodular_supermodular_in_parallel_series
 -- name    : DiscreteConvex.CombinatorialC.theorem_2_22_submodular_supermodular_in_parallel_series
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:46:13.01916+00:00
 -- url     : https://prove2.me/theorems/96b57b99-56a5-427e-b238-bbe28e089570

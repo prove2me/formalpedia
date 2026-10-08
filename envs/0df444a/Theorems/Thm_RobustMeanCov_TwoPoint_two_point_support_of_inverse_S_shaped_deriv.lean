@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMeanCov_TwoPoint_two_point_support_of_inverse_S_shaped_deriv
 -- name    : RobustMeanCov.TwoPoint.two_point_support_of_inverse_S_shaped_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:52:30.423514+00:00
 -- url     : https://prove2.me/theorems/9226d877-aa88-4880-a3e5-6ef85b64b7f9

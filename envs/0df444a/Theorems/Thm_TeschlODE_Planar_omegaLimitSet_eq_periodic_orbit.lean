@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Planar_omegaLimitSet_eq_periodic_orbit
 -- name    : TeschlODE.Planar.omegaLimitSet_eq_periodic_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:45:01.362988+00:00
 -- url     : https://prove2.me/theorems/aeb20c4c-43bf-47a2-b73a-b7acd7b24582

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoulombGauss_divergence_coulombKernel_eq_zero
 -- name    : CoulombGauss.divergence_coulombKernel_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T18:18:27.613765+00:00
 -- url     : https://prove2.me/theorems/8bfe4c15-4c4b-4cce-9810-d0d8e9817bd9

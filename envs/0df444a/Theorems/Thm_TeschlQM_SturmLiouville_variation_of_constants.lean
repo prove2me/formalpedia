@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SturmLiouville_variation_of_constants
 -- name    : TeschlQM.SturmLiouville.variation_of_constants
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:46:36.159326+00:00
 -- url     : https://prove2.me/theorems/95cdc896-dcfa-49a2-b6a6-c4810de9703d

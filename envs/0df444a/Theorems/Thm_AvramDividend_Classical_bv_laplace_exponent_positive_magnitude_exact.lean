@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_laplace_exponent_positive_magnitude_exact
 -- name    : AvramDividend.Classical.bv_laplace_exponent_positive_magnitude_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T10:17:33.376575+00:00
 -- url     : https://prove2.me/theorems/fb813471-516d-4fba-a228-50c9846cd59e

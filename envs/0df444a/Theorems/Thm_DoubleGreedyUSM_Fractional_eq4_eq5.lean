@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleGreedyUSM_Fractional_eq4_eq5
 -- name    : DoubleGreedyUSM.Fractional.eq4_eq5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:05:19.151978+00:00
 -- url     : https://prove2.me/theorems/e09b7c13-8fd5-4022-9e9d-0d9901dda0d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CandesTao_CompletionII_coefficient_bound
 -- name    : CandesTao.CompletionII.coefficient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:54:38.455907+00:00
 -- url     : https://prove2.me/theorems/1b52fed6-ec23-425b-aa61-96f9e94e7db5

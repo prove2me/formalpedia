@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_latin_rectangle_complete
 -- name    : ProofsInTheBook.Chapter33.latin_rectangle_complete
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:30.505755+00:00
 -- url     : https://prove2.me/theorems/a5c39977-300c-40d5-9d99-1fba807631ac
 -- title:

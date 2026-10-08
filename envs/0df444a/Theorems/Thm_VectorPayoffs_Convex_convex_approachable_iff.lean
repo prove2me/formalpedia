@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorPayoffs_Convex_convex_approachable_iff
 -- name    : VectorPayoffs.Convex.convex_approachable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:11:02.303806+00:00
 -- url     : https://prove2.me/theorems/c10437d6-2b7f-41d6-9569-086e16817bfa

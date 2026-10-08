@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Semicontinuous_usc_maximizer_existence
 -- name    : MDPFinance.Semicontinuous.usc_maximizer_existence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:27:22.460984+00:00
 -- url     : https://prove2.me/theorems/9be9b1eb-cbf1-42d3-956e-02411d20d965

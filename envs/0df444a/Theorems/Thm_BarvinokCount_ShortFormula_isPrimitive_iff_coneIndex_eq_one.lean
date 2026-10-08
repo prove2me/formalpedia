@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarvinokCount_ShortFormula_isPrimitive_iff_coneIndex_eq_one
 -- name    : BarvinokCount.ShortFormula.isPrimitive_iff_coneIndex_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:11:25.147436+00:00
 -- url     : https://prove2.me/theorems/aba483dd-3e85-4957-8f89-a0f4e554b2e4

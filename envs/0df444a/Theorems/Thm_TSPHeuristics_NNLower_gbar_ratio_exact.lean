@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_NNLower_gbar_ratio_exact
 -- name    : TSPHeuristics.NNLower.gbar_ratio_exact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:28:08.722677+00:00
 -- url     : https://prove2.me/theorems/7493e497-cb53-4512-96ff-4cd57fc63847

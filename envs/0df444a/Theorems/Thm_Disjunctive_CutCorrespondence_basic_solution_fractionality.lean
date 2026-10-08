@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_CutCorrespondence_basic_solution_fractionality
 -- name    : Disjunctive.CutCorrespondence.basic_solution_fractionality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:47:27.249392+00:00
 -- url     : https://prove2.me/theorems/af5b7c19-db37-48c3-929c-1bd28522b6a5

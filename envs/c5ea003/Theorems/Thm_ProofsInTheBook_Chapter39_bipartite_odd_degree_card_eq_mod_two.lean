@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_bipartite_odd_degree_card_eq_mod_two
 -- name    : ProofsInTheBook.Chapter39.bipartite_odd_degree_card_eq_mod_two
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:58.530776+00:00
 -- url     : https://prove2.me/theorems/4669111a-4021-4f28-a0fc-317f260ef6f4
 -- title:

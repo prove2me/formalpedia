@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChvatalPolytopes_SeriesParallel_odd_cycle_lp_zero_one_optima
 -- name    : ChvatalPolytopes.SeriesParallel.odd_cycle_lp_zero_one_optima
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:27:24.263684+00:00
 -- url     : https://prove2.me/theorems/a53a0ef4-bcf1-4788-b498-a342daeb5921

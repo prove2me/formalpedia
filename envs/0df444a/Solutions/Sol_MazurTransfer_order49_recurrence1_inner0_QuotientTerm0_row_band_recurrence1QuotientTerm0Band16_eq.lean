@@ -1,0 +1,106 @@
+-- Prove2me | solution 1 for MazurTransfer.order49_recurrence1_inner0_QuotientTerm0_row_band_recurrence1QuotientTerm0Band16_eq
+-- status  : ACCEPTED   (prove)
+-- author  : @Vas
+-- created : 2026-10-07T09:48:12.392151+00:00
+-- url     : https://prove2.me/submissions/eb1b20b8-1284-49fa-80bb-e893398aa49e
+
+import Definitions.Def_MazurTransfer_Order49Recurrence1Inner0ExactHelperDataPart1
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart10
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart11
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart2
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart3
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart4
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart5
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart6
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart7
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart8
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm0ExactRowBandDataPart9
+import Definitions.Def_MazurTransfer_Order49ResultantRecurrenceData0
+open Polynomial
+open _root_.MazurTorsion
+open _root_.MazurTorsion.Kubert
+namespace RB0QuotientTerm0
+/-
+Copyright (c) 2026 Vasily Ilin. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Vasily Ilin
+-/
+
+
+
+
+
+open Polynomial
+
+namespace MazurTorsion.Kubert.OrderSevenBacktrackingCertificate
+namespace Internal.ResultantCertificate
+
+noncomputable section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem recurrence1QuotientTerm0Band16_eq :
+    MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Band16 = MazurTransfer.Order49Recurrence1Inner0ExactHelperData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Block16 := by
+  unfold MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Band16 MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row2Band16
+  unfold MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row3Band16 MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row4Band16
+  unfold MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row5Band16 MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row6Band16
+  unfold MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row7Band16 MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row8Band16
+  unfold MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row9Band16 MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Row10Band16
+  unfold MazurTransfer.Order49Recurrence1Inner0ExactHelperData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Block16
+  ring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Internal.ResultantCertificate
+end MazurTorsion.Kubert.OrderSevenBacktrackingCertificate
+
+end RB0QuotientTerm0
+
+theorem solution :
+    MazurTransfer.Order49Recurrence1QuotientTerm0ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Band16 = MazurTransfer.Order49Recurrence1Inner0ExactHelperData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Block16 := by
+  exact RB0QuotientTerm0.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm0Band16_eq
+#print axioms solution

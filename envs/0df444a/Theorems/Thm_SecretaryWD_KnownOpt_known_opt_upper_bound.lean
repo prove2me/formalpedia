@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_KnownOpt_known_opt_upper_bound
 -- name    : SecretaryWD.KnownOpt.known_opt_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:59:12.598771+00:00
 -- url     : https://prove2.me/theorems/ba8d9909-7403-4b00-999d-c94e8f51ced2

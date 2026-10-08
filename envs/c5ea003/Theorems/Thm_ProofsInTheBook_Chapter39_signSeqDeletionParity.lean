@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_signSeqDeletionParity
 -- name    : ProofsInTheBook.Chapter39.signSeqDeletionParity
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:52.544504+00:00
 -- url     : https://prove2.me/theorems/35baadbb-2127-49eb-909e-7ced56aa7506
 -- title:

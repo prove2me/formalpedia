@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter15.NoObtuseAngles.hasAntipodalStrips
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:41:28.723543+00:00
 -- url     : https://prove2.me/submissions/a1c55c07-a126-48fe-ab8d-2654c4c4b9d9
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_RKHS_rkhs_regularization_uniform_stability
 -- name    : StabGen.RKHS.rkhs_regularization_uniform_stability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:56:38.962997+00:00
 -- url     : https://prove2.me/theorems/9c282807-9dc7-43c2-8d65-73345bf145c4

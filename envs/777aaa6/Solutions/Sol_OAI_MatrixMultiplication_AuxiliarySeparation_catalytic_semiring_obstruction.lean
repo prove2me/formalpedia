@@ -1,0 +1,846 @@
+-- Prove2me | solution 1 for OAI.MatrixMultiplication.AuxiliarySeparation.catalytic_semiring_obstruction
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-07T07:36:57.378989+00:00
+-- url     : https://prove2.me/submissions/9e2f9b63-788c-4cd4-bbaf-026d168c1ae8
+
+/-
+Port of OpenAI math at adc7f1241b42e322a6451854ab7e4b4c146bf78a, with an all-fields extension and comparison to the MME tensor-rank model.
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
+Copyright (c) 2026 harfe
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+-/
+
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.AddTorsor.Basic
+import Mathlib.Algebra.Algebra.Rat
+import Mathlib.Algebra.BigOperators.Field
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.GroupWithZero.Finset
+import Mathlib.Algebra.BigOperators.Ring.Nat
+import Mathlib.Algebra.Group.Equiv.Basic
+import Mathlib.Algebra.Order.AbsoluteValue.Basic
+import Mathlib.Algebra.Order.Archimedean.Basic
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.Ring.Finset
+import Mathlib.Algebra.Order.Floor.Ring
+import Mathlib.Algebra.Order.Floor.Semiring
+import Mathlib.Algebra.Order.Group.Unbundled.Int
+import Mathlib.Algebra.Order.Ring.Defs
+import Mathlib.Algebra.Order.Ring.Rat
+import Mathlib.Algebra.Polynomial.BigOperators
+import Mathlib.Algebra.Polynomial.Degree.Lemmas
+import Mathlib.Algebra.Polynomial.Div
+import Mathlib.Algebra.Polynomial.Eval.Defs
+import Mathlib.Algebra.Polynomial.Expand
+import Mathlib.Algebra.Ring.GeomSum
+import Mathlib.Analysis.Asymptotics.SpecificAsymptotics
+import Mathlib.Analysis.Convex.Caratheodory
+import Mathlib.Analysis.Convex.Cone.Dual
+import Mathlib.Analysis.Convex.GaugeRescale
+import Mathlib.Analysis.Convex.Jensen
+import Mathlib.Analysis.Convex.PartitionOfUnity
+import Mathlib.Analysis.Convex.Topology
+import Mathlib.Analysis.Normed.Affine.AddTorsorBases
+import Mathlib.Analysis.SpecialFunctions.BinaryEntropy
+import Mathlib.Analysis.SpecialFunctions.Log.Base
+import Mathlib.Analysis.SpecialFunctions.Log.Basic
+import Mathlib.Analysis.SpecialFunctions.Log.NegMulLog
+import Mathlib.Analysis.SpecialFunctions.Pow.Continuity
+import Mathlib.Analysis.SpecialFunctions.Pow.NNReal
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Stirling
+import Mathlib.Analysis.SpecificLimits.Basic
+import Mathlib.Analysis.SpecificLimits.Normed
+import Mathlib.Combinatorics.Additive.AP.Three.Defs
+import Mathlib.Combinatorics.Enumerative.DoubleCounting
+import Mathlib.Data.Complex.Basic
+import Mathlib.Data.Fin.Rev
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Option
+import Mathlib.Data.Fintype.Perm
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.Matrix.Mul
+import Mathlib.Data.Nat.Choose.Multinomial
+import Mathlib.Data.Nat.Lattice
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Rat.BigOperators
+import Mathlib.Data.Rat.Floor
+import Mathlib.Data.Rat.Lemmas
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Set.Finite.Basic
+import Mathlib.FieldTheory.IntermediateField.Adjoin.Basic
+import Mathlib.FieldTheory.IsAlgClosed.AlgebraicClosure
+import Mathlib.Geometry.Convex.Cone.Pointed
+import Mathlib.GroupTheory.GroupAction.Quotient
+import Mathlib.GroupTheory.MonoidLocalization.GrothendieckGroup
+import Mathlib.GroupTheory.Perm.DomMulAct
+import Mathlib.LinearAlgebra.Basis.Defs
+import Mathlib.LinearAlgebra.Dual.Lemmas
+import Mathlib.LinearAlgebra.FiniteDimensional.Basic
+import Mathlib.LinearAlgebra.FiniteDimensional.Lemmas
+import Mathlib.LinearAlgebra.Finsupp.LinearCombination
+import Mathlib.LinearAlgebra.Lagrange
+import Mathlib.LinearAlgebra.Matrix.Rank
+import Mathlib.LinearAlgebra.PiTensorProduct
+import Mathlib.LinearAlgebra.PiTensorProduct.Basis
+import Mathlib.LinearAlgebra.StdBasis
+import Mathlib.LinearAlgebra.TensorProduct.Pi
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Logic.Equiv.Prod
+import Mathlib.Logic.Equiv.Sum
+import Mathlib.Order.Antisymmetrization
+import Mathlib.Order.ConditionallyCompleteLattice.Basic
+import Mathlib.RingTheory.Polynomial.DegreeLT
+import Mathlib.RingTheory.RootsOfUnity.AlgebraicallyClosed
+import Mathlib.Tactic
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.FunProp
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.LinearCombination
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.SplitIfs
+import Mathlib.Topology.Algebra.Module.FiniteDimension
+import Mathlib.Topology.Algebra.Order.Field
+import Mathlib.Topology.Order.MonotoneConvergence
+import Definitions.Def_OAI429_GenericRank
+import Theorems.Thm_OAI_MatrixMultiplication_AuxiliarySeparation_catalytic_power_comparison
+import Theorems.Thm_OAI_MatrixMultiplication_AuxiliarySeparation_catalytic_rank_bound_at_slack
+import Theorems.Thm_OAI_MatrixMultiplication_AuxiliarySeparation_coefficient_le_of_nat_mul_bound
+import Theorems.Thm_OAI_MatrixMultiplication_AuxiliarySeparation_spectral_bound_of_positive_slack
+import Theorems.Thm_OAI_MatrixMultiplication_Foundation_Tensor_RankAtMost_card_le_of_identity
+import Definitions.Def_mme_omega
+
+set_option autoImplicit false
+set_option linter.all false
+open scoped Classical
+
+namespace OAI.MatrixMultiplication.AuxiliarySeparation
+end OAI.MatrixMultiplication.AuxiliarySeparation
+open OAI.MatrixMultiplication.AuxiliarySeparation
+
+-- Restore access to imported root namespaces around the extracted proof wrapper.
+namespace OAI.MatrixMultiplication.Foundation
+end OAI.MatrixMultiplication.Foundation
+namespace OAI.MatrixMultiplication.AuxiliarySeparation
+end OAI.MatrixMultiplication.AuxiliarySeparation
+open _root_.OAI.MatrixMultiplication.Foundation
+open _root_.OAI.MatrixMultiplication.AuxiliarySeparation
+
+namespace OAIExtractedProof_568a28718ca1
+
+-- Preserve the relative Foundation namespace used by the original open commands.
+namespace OAI.MatrixMultiplication.Foundation
+end OAI.MatrixMultiplication.Foundation
+
+
+set_option linter.all false
+
+set_option autoImplicit false
+
+section AllFieldsModule0/- BEGIN OAI.LinearAlgebra.MatrixMultiplication.AuxiliarySeparation.Growth.SpectralLimit -/
+section AbstractModule17
+
+
+
+namespace OAI
+
+/-!
+# Removing positive slack from the spectral inequality
+
+The positive slack in the exponent can be sent to zero with the matrix size
+fixed. A bound at all positive natural sizes then removes a fixed additive
+error term.
+-/
+
+namespace MatrixMultiplication.AuxiliarySeparation
+
+open Filter Topology
+
+
+
+
+
+/-- Uniform spectral inequalities for all positive sizes and all positive
+slacks force the desired coefficient bound. -/
+theorem spectral_coefficient_le_of_all_nat {ν k D : ℝ} {d : ℕ}
+    (hν : 0 < ν)
+    (hbound : ∀ n : ℕ, 1 ≤ n → ∀ δ : ℝ, 0 < δ →
+      (d : ℝ) ^ ν * (n : ℝ) ^ (ν / (ν + δ)) ≤ (n : ℝ) * k + D) :
+    (d : ℝ) ^ ν ≤ k := by
+  apply coefficient_le_of_nat_mul_bound
+  intro n hn
+  exact spectral_bound_of_positive_slack hν hn (hbound n hn)
+
+end MatrixMultiplication.AuxiliarySeparation
+
+end OAI
+
+end AbstractModule17
+
+
+end AllFieldsModule0/- BEGIN all-fields module GenericRank -/
+section AllFieldsModule1
+
+set_option autoImplicit false
+
+section RankModule0
+namespace OAI
+
+/-! Finite coefficient tensors and their algebraic transformations. -/
+
+open scoped BigOperators
+
+namespace MatrixMultiplication.Foundation
+
+
+
+namespace Tensor
+
+section Algebra
+
+variable {K X Y Z X' Y' Z' : Type*} [CommSemiring K]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable [Fintype X] [Fintype Y] [Fintype Z]
+
+
+
+
+
+
+
+end Algebra
+
+section Pullback
+variable {K X Y Z X' Y' Z' : Type*} [CommSemiring K]
+
+
+
+
+
+
+
+end Pullback
+
+end Tensor
+end MatrixMultiplication.Foundation
+end OAI
+
+end RankModule0
+
+
+section RankModule1
+namespace OAI.MatrixMultiplication.Foundation.Tensor
+variable {K : Type*} [CommSemiring K]
+
+
+end OAI.MatrixMultiplication.Foundation.Tensor
+
+end RankModule1
+
+
+section RankModule2
+namespace OAI
+
+/-! Finite coefficient tensors and their algebraic transformations. -/
+
+open scoped BigOperators
+
+namespace MatrixMultiplication.Foundation
+namespace Tensor
+
+variable {K A B C D E F : Type*} [CommSemiring K]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Tensor
+end MatrixMultiplication.Foundation
+
+end OAI
+
+end RankModule2
+
+
+section RankModule3
+namespace OAI
+
+/-! Finite coefficient tensors and their algebraic transformations. -/
+
+noncomputable section
+
+open scoped BigOperators
+
+namespace MatrixMultiplication.Foundation
+namespace Tensor
+
+variable {K X Y Z : Type*} [Field K]
+
+
+
+
+
+
+
+end Tensor
+end MatrixMultiplication.Foundation
+
+end
+
+end OAI
+
+end RankModule3
+
+
+section RankModule4
+namespace OAI
+
+/-!
+# Exact tensor rank and its matrix multiplication exponent
+
+The rank is the least size of an exact decomposition into simple tensors. The
+exponent is the infimum of the finite matrix multiplication rank ratios from
+Section 3; no attainment of this real infimum is assumed.
+-/
+
+noncomputable section
+
+open MatrixMultiplication.Foundation
+open scoped BigOperators
+
+namespace MatrixMultiplication.AuxiliarySeparation
+
+variable {K : Type*} [Field K]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem exactMatrixRank_spec (n : ℕ) :
+    Tensor.RankAtMost (Tensor.matrixMultiplication (K := K) n n n) ((exactMatrixRank K) n) :=
+  exactRank_spec _
+
+
+
+
+
+/-- An identity minor of the output flattening forces the quadratic lower bound. -/
+theorem matrixMultiplication_rank_lower {n R : ℕ} (hn : 0 < n)
+    (hRank : Tensor.RankAtMost (Tensor.matrixMultiplication (K := K) n n n) R) : n ^ 2 ≤ R := by
+  let j : Fin n := ⟨0, hn⟩
+  have hminor : ∀ i k : Fin n × Fin n,
+      Tensor.matrixMultiplication (K := K) n n n (i.2, j) (j, i.1) k =
+        if i = k then 1 else 0 := by
+    intro i k
+    simp [Tensor.matrixMultiplication, Prod.ext_iff, eq_comm]
+  have h := hRank.card_le_of_identity
+    (fun i : Fin n × Fin n => (i.2, j))
+    (fun i : Fin n × Fin n => (j, i.1)) id hminor
+  simpa [Fintype.card_prod, pow_two] using h
+
+theorem exactMatrixRank_lower {n : ℕ} (hn : 0 < n) : n ^ 2 ≤ (exactMatrixRank K) n :=
+  (matrixMultiplication_rank_lower (K := K)) hn ((exactMatrixRank_spec (K := K)) n)
+
+theorem exactMatrixRank_pos {n : ℕ} (hn : 0 < n) : 0 < (exactMatrixRank K) n :=
+  lt_of_lt_of_le (pow_pos hn 2) ((exactMatrixRank_lower (K := K)) hn)
+
+
+
+
+
+
+
+
+
+theorem exactRankExponentSet_nonempty : (exactRankExponentSet K).Nonempty :=
+  ⟨Real.logb 2 ((exactMatrixRank K) 2), 2, le_rfl, rfl⟩
+
+theorem exactMatrixRank_logb_lower {n : ℕ} (hn : 2 ≤ n) :
+    2 ≤ Real.logb n ((exactMatrixRank K) n) := by
+  have hn1 : 1 < (n : ℝ) := by exact_mod_cast (show 1 < n by omega)
+  have hr : 0 < ((exactMatrixRank K) n : ℝ) := by
+    exact_mod_cast (exactMatrixRank_pos (K := K)) (show 0 < n by omega)
+  apply (Real.le_logb_iff_rpow_le hn1 hr).mpr
+  rw [Real.rpow_two]
+  exact_mod_cast (exactMatrixRank_lower (K := K)) (show 0 < n by omega)
+
+
+
+
+
+theorem exactRankExponent_lower : 2 ≤ (exactRankExponent K) :=
+  le_csInf (exactRankExponentSet_nonempty (K := K)) (by
+    rintro τ ⟨n, hn, rfl⟩
+    exact (exactMatrixRank_logb_lower (K := K)) hn)
+
+
+
+
+
+
+
+
+
+
+
+
+
+end MatrixMultiplication.AuxiliarySeparation
+
+end
+
+end OAI
+
+end RankModule4
+
+
+
+end AllFieldsModule1
+/- END all-fields module GenericRank -/
+
+/- BEGIN all-fields module GenericSpectrum -/
+section AllFieldsModule5
+
+
+
+section SpectrumModule0
+
+namespace OAI
+
+/-!
+# The rank obstruction behind the preliminary spectral state
+
+The finite catalyst is kept fixed while first tensor powers, then exponent
+slack, then the number of copies are varied.  The hypotheses below isolate the
+rank inequalities supplied by the catalytic comparison; they do not assert
+the existence of a tensor spectrum or the separation argument producing that
+comparison.
+-/
+
+noncomputable section
+
+open MatrixMultiplication.Foundation
+
+namespace MatrixMultiplication.AuxiliarySeparation
+
+variable {𝕜 : Type*} [Field 𝕜]
+
+
+
+
+
+
+
+/-- The numerical rank consequence of a single fixed finite catalyst is
+incompatible with `k < d^ν`.  The same `D` and `R` occur for every `n` and
+every tensor power.  No uniform bound on the approximation block selected
+after an exponent slack is assumed. -/
+theorem catalytic_rank_obstruction {d k D R : ℕ} (hd : 0 < d)
+    (hbound : ∀ n : ℕ, 1 ≤ n → ∀ j : ℕ, 1 ≤ j → ∀ g : ℕ,
+      (exactMatrixRank 𝕜) g ≤ n ^ j →
+      (exactMatrixRank 𝕜) (d ^ j * g) ≤ R * (n * k + D) ^ j) :
+    (d : ℝ) ^ (exactRankExponent 𝕜) ≤ k := by
+  apply spectral_coefficient_le_of_all_nat
+    (hν := lt_of_lt_of_le (by norm_num : (0 : ℝ) < 2) (exactRankExponent_lower (K := 𝕜)))
+    (D := (D : ℝ))
+  intro n hn δ hδ
+  have h := catalytic_rank_bound_at_slack hd hn (hbound n hn) hδ
+  simpa only [Nat.cast_add, Nat.cast_mul] using h
+
+
+
+
+
+/-- A rank-compatible ordered tensor semiring converts a single finite
+catalytic inequality into the actual exact-rank obstruction.  The hypotheses
+name the required tensor interpretation and scalar rank domination explicitly;
+no additive rank formula or cancellation property is assumed. -/
+theorem catalytic_semiring_obstruction {S : Type*} [CommSemiring S] [Preorder S]
+    (hadd : ∀ {a b c e : S}, a ≤ b → c ≤ e → a + c ≤ b + e)
+    (hmul : ∀ {a b c e : S}, a ≤ b → c ≤ e → a * c ≤ b * e)
+    (hzero : ∀ a : S, 0 ≤ a)
+    (ρ : S → ℕ) (hρmono : Monotone ρ)
+    (hρcopies : ∀ (m : ℕ) (s : S), ρ ((m : S) * s) ≤ m * ρ s)
+    (M : ℕ → S)
+    (hMmul : ∀ a b : ℕ, M (a * b) = M a * M b)
+    (hMpow : ∀ a j : ℕ, M (a ^ j) = M a ^ j)
+    (hρM : ∀ a : ℕ, ρ (M a) = (exactMatrixRank 𝕜) a)
+    (hbudget : ∀ n j g : ℕ, (exactMatrixRank 𝕜) g ≤ n ^ j → M g ≤ (n : S) ^ j)
+    (D s : S) (d k C : ℕ) (hd : 0 < d) (hs : 1 ≤ s)
+    (hcat : D + M d * s ≤ D + (k : S) * s)
+    (hD : D ≤ (C : S) * s) :
+    (d : ℝ) ^ (exactRankExponent 𝕜) ≤ k := by
+  apply catalytic_rank_obstruction (D := C) (R := ρ s) hd
+  intro n _hn j _hj g hg
+  have hcompare : M (d ^ j * g) ≤ ((n * k + C : ℕ) : S) ^ j * s := by
+    calc
+      M (d ^ j * g) = M d ^ j * M g := by rw [hMmul, hMpow]
+      _ ≤ M d ^ j * (n : S) ^ j := hmul le_rfl (hbudget n j g hg)
+      _ = ((n : S) ^ j * M d ^ j) * 1 := by ring
+      _ ≤ ((n : S) ^ j * M d ^ j) * s := hmul le_rfl hs
+      _ ≤ ((n * k + C : ℕ) : S) ^ j * s :=
+        catalytic_power_comparison hadd hmul hzero D (M d) s k C hcat hD n j
+  calc
+    (exactMatrixRank 𝕜) (d ^ j * g) = ρ (M (d ^ j * g)) := (hρM _).symm
+    _ ≤ ρ (((n * k + C : ℕ) : S) ^ j * s) := hρmono hcompare
+    _ = ρ ((((n * k + C) ^ j : ℕ) : S) * s) := by rw [Nat.cast_pow]
+    _ ≤ (n * k + C) ^ j * ρ s := hρcopies _ s
+    _ = ρ s * (n * k + C) ^ j := Nat.mul_comm _ _
+
+
+
+
+
+
+
+
+
+
+
+end MatrixMultiplication.AuxiliarySeparation
+
+end
+
+end OAI
+
+end SpectrumModule0
+
+
+section SpectrumModule1
+
+namespace OAI
+
+/-!
+# Detecting characters for complex matrix multiplication
+
+This proves Lemma 3.1, including Appendix A. Finite inconsistency would
+produce a positive scalar-gain catalyst, ruled out by the exact-rank exponent.
+A compact normalized state space then yields a multiplicative state, which
+transfers to the concrete coefficient-level character interface.
+-/
+
+noncomputable section
+
+namespace MatrixMultiplication.AuxiliarySeparation
+
+variable {𝕜 : Type*} [Field 𝕜]
+
+open MatrixMultiplication.Foundation
+
+
+
+end MatrixMultiplication.AuxiliarySeparation
+
+end
+
+end OAI
+
+end SpectrumModule1
+
+
+
+
+end AllFieldsModule5
+/- END all-fields module GenericSpectrum -/
+
+end OAIExtractedProof_568a28718ca1
+
+theorem solution.{u_1, u_2} :
+    ∀ {𝕜 : Type u_1} [inst : Field 𝕜] {S : Type u_2} [inst_1 : CommSemiring S] [inst_2 : Preorder S],
+  (∀ {a b c e : S}, a ≤ b → c ≤ e → a + c ≤ b + e) →
+    (∀ {a b c e : S}, a ≤ b → c ≤ e → a * c ≤ b * e) →
+      (∀ (a : S), 0 ≤ a) →
+        ∀ (ρ : S → ℕ),
+          Monotone ρ →
+            (∀ (m : ℕ) (s : S), ρ (↑m * s) ≤ m * ρ s) →
+              ∀ (M : ℕ → S),
+                (∀ (a b : ℕ), M (a * b) = M a * M b) →
+                  (∀ (a j : ℕ), M (a ^ j) = M a ^ j) →
+                    (∀ (a : ℕ), ρ (M a) = OAI.MatrixMultiplication.AuxiliarySeparation.exactMatrixRank 𝕜 a) →
+                      (∀ (n j g : ℕ),
+                          OAI.MatrixMultiplication.AuxiliarySeparation.exactMatrixRank 𝕜 g ≤ n ^ j →
+                            M g ≤ HPow.hPow (α := S) (↑n) j) →
+                        ∀ (D s : S) (d k C : ℕ),
+                          0 < d →
+                            1 ≤ s →
+                              D + M d * s ≤ D + ↑k * s →
+                                D ≤ ↑C * s →
+                                  HPow.hPow (α := ℝ) (↑d)
+                                      (OAI.MatrixMultiplication.AuxiliarySeparation.exactRankExponent 𝕜) ≤
+                                    ↑k
+:= @OAIExtractedProof_568a28718ca1.OAI.MatrixMultiplication.AuxiliarySeparation.catalytic_semiring_obstruction

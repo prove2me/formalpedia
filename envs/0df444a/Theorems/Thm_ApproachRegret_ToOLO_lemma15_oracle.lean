@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproachRegret_ToOLO_lemma15_oracle
 -- name    : ApproachRegret.ToOLO.lemma15_oracle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:22:38.477599+00:00
 -- url     : https://prove2.me/theorems/01b91b5b-002d-4a84-b24f-e970b504d9b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MixedMatrices_mixed_poly_matrix_deg_det_max_formula
 -- name    : DiscreteConvex.MixedMatrices.mixed_poly_matrix_deg_det_max_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:48:17.061708+00:00
 -- url     : https://prove2.me/theorems/166f6385-480e-4a7e-abc9-95cacec57bed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_DelayList_completion_bound
 -- name    : AvgCompletionSched.DelayList.completion_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:05:04.347959+00:00
 -- url     : https://prove2.me/theorems/35373930-c7e8-4736-ae69-d2809b7ea828

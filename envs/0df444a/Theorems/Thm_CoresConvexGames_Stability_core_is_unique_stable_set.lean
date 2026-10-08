@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoresConvexGames_Stability_core_is_unique_stable_set
 -- name    : CoresConvexGames.Stability.core_is_unique_stable_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:56:38.295849+00:00
 -- url     : https://prove2.me/theorems/1fdc7c19-f93b-4e4c-92e0-dafd8eac2353

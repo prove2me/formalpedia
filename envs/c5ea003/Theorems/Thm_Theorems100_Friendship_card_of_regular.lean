@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Theorems100_Friendship_card_of_regular
 -- name    : Theorems100.Friendship.card_of_regular
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:41:47.984481+00:00
 -- url     : https://prove2.me/theorems/9a2af2bc-86ba-41bb-86be-869a55f516e9
 -- title:

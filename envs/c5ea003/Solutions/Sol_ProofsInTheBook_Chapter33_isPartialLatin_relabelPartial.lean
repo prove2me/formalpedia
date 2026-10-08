@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.isPartialLatin_relabelPartial
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:55.211356+00:00
 -- url     : https://prove2.me/submissions/81719af4-4102-42c1-a762-e90300e7a641
 

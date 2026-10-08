@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgMechDesign_Randomized_rbmw_approx
 -- name    : AlgMechDesign.Randomized.rbmw_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T20:48:33.378983+00:00
 -- url     : https://prove2.me/theorems/0655a2b6-8a3f-4a54-a181-3aba3a425f09

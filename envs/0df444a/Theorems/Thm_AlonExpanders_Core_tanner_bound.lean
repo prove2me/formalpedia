@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonExpanders_Core_tanner_bound
 -- name    : AlonExpanders.Core.tanner_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:08:52.294163+00:00
 -- url     : https://prove2.me/theorems/30ec00ae-69df-40ab-90a4-bd6466575e52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_FirstFit_weight_deficit_bound
 -- name    : BinPacking.FirstFit.weight_deficit_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:07:17.302852+00:00
 -- url     : https://prove2.me/theorems/c2cb84c4-7ee3-4f02-9d8b-8535db4af9b0

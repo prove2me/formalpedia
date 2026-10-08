@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_entropy_lower_le_log_choose
 -- name    : ProofsInTheBook.Chapter03.entropy_lower_le_log_choose
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:35.750882+00:00
 -- url     : https://prove2.me/theorems/c0f41868-c896-4465-8bcd-acc239a8293b
 -- title:

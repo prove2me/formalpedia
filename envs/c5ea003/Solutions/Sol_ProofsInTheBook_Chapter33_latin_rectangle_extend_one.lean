@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.latin_rectangle_extend_one
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:00.960961+00:00
 -- url     : https://prove2.me/submissions/e804f3c4-9c6b-4bdd-8392-6cb60caa30ba
 

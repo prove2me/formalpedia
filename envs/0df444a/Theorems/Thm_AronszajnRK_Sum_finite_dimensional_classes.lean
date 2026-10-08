@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AronszajnRK_Sum_finite_dimensional_classes
 -- name    : AronszajnRK.Sum.finite_dimensional_classes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:48:57.553896+00:00
 -- url     : https://prove2.me/theorems/6e1eeaa6-b511-4b67-a5a6-ddcf110c63c9

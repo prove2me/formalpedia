@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter35Canonical_Part2
 -- name    : P2MAssembly_Chapter35Canonical_Part2
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T19:23:57.457935+00:00
 -- url     : https://prove2.me/theorems/52c3f909-0d9f-4c1b-b27f-1ecd67e5b6bf
 -- title:

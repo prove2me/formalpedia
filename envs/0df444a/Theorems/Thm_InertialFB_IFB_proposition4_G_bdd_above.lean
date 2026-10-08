@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InertialFB_IFB_proposition4_G_bdd_above
 -- name    : InertialFB.IFB.proposition4_G_bdd_above
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:49:58.613348+00:00
 -- url     : https://prove2.me/theorems/a57cf157-0c38-44a7-9a98-a346f75ba80c

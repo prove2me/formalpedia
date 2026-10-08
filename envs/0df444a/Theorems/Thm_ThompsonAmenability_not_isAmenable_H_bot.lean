@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonAmenability_not_isAmenable_H_bot
 -- name    : ThompsonAmenability.not_isAmenable_H_bot
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-30T18:57:36.207706+00:00
 -- url     : https://prove2.me/theorems/2c37d11c-772a-46f1-856a-3f0a903b2a38

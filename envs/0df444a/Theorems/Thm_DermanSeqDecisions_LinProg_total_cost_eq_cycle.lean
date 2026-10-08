@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_LinProg_total_cost_eq_cycle
 -- name    : DermanSeqDecisions.LinProg.total_cost_eq_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:45:16.878723+00:00
 -- url     : https://prove2.me/theorems/12e861ba-8998-4c94-b533-8b615d6569f9

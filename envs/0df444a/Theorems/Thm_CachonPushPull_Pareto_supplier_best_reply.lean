@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_supplier_best_reply
 -- name    : CachonPushPull.Pareto.supplier_best_reply
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:29:33.356737+00:00
 -- url     : https://prove2.me/theorems/79a3853a-7c2d-4594-9ed2-c8de03f68918

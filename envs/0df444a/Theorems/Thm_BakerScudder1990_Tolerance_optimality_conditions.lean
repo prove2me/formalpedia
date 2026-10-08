@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BakerScudder1990_Tolerance_optimality_conditions
 -- name    : BakerScudder1990.Tolerance.optimality_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:10:48.274076+00:00
 -- url     : https://prove2.me/theorems/f63dd21d-68a5-403e-83e4-46792b5b6254

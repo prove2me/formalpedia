@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoresConvexGames_Stability_dominated_by_core_of_not_mem_core
 -- name    : CoresConvexGames.Stability.dominated_by_core_of_not_mem_core
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:55:54.463787+00:00
 -- url     : https://prove2.me/theorems/50123951-38a7-4612-9eb3-de2020e52146

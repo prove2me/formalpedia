@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter17.chapter17_cantor
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:18:16.856552+00:00
 -- url     : https://prove2.me/submissions/080947ca-2282-4960-877b-98db2574e970
 

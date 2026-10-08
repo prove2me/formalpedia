@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Tightness_offline_forces_ratio
 -- name    : OnlineRandomization.Tightness.offline_forces_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:34:46.39198+00:00
 -- url     : https://prove2.me/theorems/233c958a-de1a-4d17-a8f9-a55786c0d936

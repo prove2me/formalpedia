@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.exists_perm_singleton_diagonal_strictly_above
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:39.786148+00:00
 -- url     : https://prove2.me/submissions/d6794dc6-21c9-4d50-b178-85b84e2ce734
 

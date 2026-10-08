@@ -1,0 +1,133 @@
+-- Prove2me | Definitions.Def_PalmQueueing_Recurrence_Saturation
+-- name    : PalmQueueing_Recurrence_Saturation
+-- status  : Definition
+-- author  : @mikedeng1
+-- created : 2026-10-02T00:09:55.568159+00:00
+-- url     : https://prove2.me/theorems/b30c58fb-7d50-4a3a-8666-6da0945588ed
+-- title:
+--   The Monotone–Homogeneous–Separable framework and the saturated growth rate
+-- statement:
+--   Let $N$ be a marked point process with points $\{T_n\}_{n \in \mathbb{Z}}$ and marks
+--   $\{\xi_n\}$, neither assumed simple nor stationary at this stage, with
+--   $-\infty < T_n \le T_{n+1} < +\infty$. For $m \le n$, $N_{[m,n]}$ is the $[m,n]$ restriction of
+--   $N$, $c + N$ has points $\{T_n + c\}$ and $cN$ has points $\{cT_n\}$ for $c \in \mathbb{R}_+$.
+--
+--   $X(N)$ is the **time of last activity** in a network which starts empty and is then fed by $N$.
+--   Given a family $\{f_l\}$, $f_l : \mathbb{R}^l \times E^l \to \mathbb{R}$, with
+--   $$ X(N_{[m,n]}) = f_{n-m+1}\{(T_l, \xi_l),\ m \le l \le n\} , \tag{2.11.16} $$
+--   the **Monotone–Homogeneous–Separable framework** assumes:
+--
+--   1. **causality**: for all $m \le n$, $X(N_{[m,n]}) \ge T_n$;
+--   2. **external monotonicity**: for all $m \le n$, $X(N'_{[m,n]}) \ge X(N_{[m,n]})$ whenever
+--      $T'_n \ge T_n$ for all $n$;
+--   3. **homogeneity**: for all $c \in \mathbb{R}$ and $m \le n$,
+--      $X(N_{[m,n]} + c) = X(N_{[m,n]}) + c$;
+--   4. **separability**: for all $m \le l < n$, if $X(N_{[m,l]}) \le T_{l+1}$ then
+--      $X(N_{[m,n]}) = X(N_{[l+1,n]})$.
+--
+--   In words, (4) says that if customer $l+1$ arrives later than the last activity for the $[m,l]$
+--   restriction of the arrival process, then the evolution of the network after $T_{l+1}$ is the same
+--   as in the network which starts empty at this time.
+--
+--   Setting $Z_{[m,n]} = X(N_{[m,n]}) - T_n$ (2.11.19), these assumptions give internal monotonicity
+--   $Z_{[m-1,n]} \ge Z_{[m,n]}$ (2.11.20) and the sub-additive property
+--   $Z_{[m,n]} \le Z_{[m,l]} + Z_{[l+1,n]} \le Z_{[m,l]} + Z_{[l,n]}$ (2.11.21), which is what
+--   Kingman's sub-additive ergodic theorem then acts on. Property 2.11.9 supplies, for each $c \ge 0$,
+--   a non-negative constant $\gamma(c)$ with $\lim_n Z_{[-n,-1]}(cN)/n = \gamma(c)$ a.s.;
+--   $\gamma(c)$ is decreasing in $c$ while $\gamma(c) + c\lambda^{-1}$ is increasing.
+--
+--   Taking $c = 0$ puts every arrival at the origin: that is the **saturated** system of the
+--   saturation rule, and $\gamma(0)$ is its growth rate.
+--
+--   **Formalization Note.** `X T ξ m n` is $X(N_{[m,n]})$ for the point process with points $T$ and
+--   marks $\xi$; (2.11.16) is the field saying that it depends only on $(T_l, \xi_l)$,
+--   $m \le l \le n$. Assumptions (1)–(4) are required for every non-decreasing point sequence $T$
+--   and every mark sequence, "for all $n$, $m$ and $N$".
+-- source:
+--   Baccelli & Bremaud, Elements of Queueing Theory: Palm Martingale Calculus and Stochastic Recurrences, 2nd ed., Springer 2003, §§2.11.3-2.11.4, pp. 161-166
+
+import Mathlib
+
+/-!
+# The Monotone-Homogeneous-Separable framework and the saturation rule (§§2.11.3-2.11.4, pp.161-166)
+
+`N` is a marked point process with points `{T_n}_{n ∈ ℤ}`, `−∞ < T_n ≤ T_{n+1} < +∞`, and marks
+`{ξ_n}_{n ∈ ℤ}` in a measurable space `E` (p.161). `X(N)` is the **time of last activity** in a
+network which starts empty and is then fed by `N` (p.162). The book assumes it is given by a family
+of functions `{f_l}`, `f_l : ℝ^l × E^l → ℝ`, through
+
+`(2.11.16)  X(N_{[m,n]}) = f_{n-m+1}{(T_l, ξ_l), m ≤ l ≤ n}`
+
+subject to four properties, and derives from them the internal monotonicity (2.11.20) and the
+sub-additivity (2.11.21) that Kingman's theorem then acts on.
+
+`X T ξ m n` is `X(N_{[m,n]})` for the point process with points `T` and marks `ξ`. (2.11.16) is
+carried as the locality field: the value depends only on `(T_l, ξ_l)` for `m ≤ l ≤ n`. That is
+(2.11.16) without the dependent arities.
+-/
+
+namespace PalmQueueing.Recurrence
+
+open MeasureTheory Filter Topology
+
+variable {Ω : Type*} [MeasurableSpace Ω]
+
+/-- The **Monotone-Homogeneous-Separable framework** (p.162), on the map `X` sending a marked point
+sequence `(T, ξ)` and an index range `[m, n]` to the time of last activity of the `[m,n]`
+restriction:
+
+0. **(2.11.16)**: `X(N_{[m,n]})` is a function of `{(T_l, ξ_l), m ≤ l ≤ n}` only;
+1. **causality**: for all `m ≤ n`, `X(N_{[m,n]}) ≥ T_n`;
+2. **external monotonicity**: for all `m ≤ n`, `X(N'_{[m,n]}) ≥ X(N_{[m,n]})` whenever
+   `T'_n ≥ T_n` for all `n`;
+3. **homogeneity**: for all `c ∈ ℝ` and `m ≤ n`, `X(N_{[m,n]} + c) = X(N_{[m,n]}) + c`;
+4. **separability**: for all `m ≤ l < n`, if `X(N_{[m,l]}) ≤ T_{l+1}` then
+   `X(N_{[m,n]}) = X(N_{[l+1,n]})`.
+
+Properties 1-4 are required for every point process, i.e. every non-decreasing `T` (p.161:
+`T_n ≤ T_{n+1}`), and every mark sequence, "for all `n, m` and `N`".
+
+Assumption 4 says that if customer `l+1` arrives after the last activity generated by the `[m,l]`
+restriction, the network's evolution after `T_{l+1}` is the same as if it had started empty then. -/
+structure IsMHS {E : Type*} (X : (ℤ → ℝ) → (ℤ → E) → ℤ → ℤ → ℝ) : Prop where
+  /-- (2.11.16) `X(N_{[m,n]})` depends only on the points and marks with index in `[m, n]`. -/
+  local_ : ∀ (T T' : ℤ → ℝ) (ξ ξ' : ℤ → E) (m n : ℤ), m ≤ n →
+    (∀ l, m ≤ l → l ≤ n → T l = T' l ∧ ξ l = ξ' l) → X T ξ m n = X T' ξ' m n
+  /-- (1) causality. -/
+  causality : ∀ (T : ℤ → ℝ) (ξ : ℤ → E) (m n : ℤ), Monotone T → m ≤ n → T n ≤ X T ξ m n
+  /-- (2) external monotonicity. -/
+  externalMonotone : ∀ (T T' : ℤ → ℝ) (ξ : ℤ → E) (m n : ℤ), Monotone T → Monotone T' →
+    m ≤ n → (∀ j, T j ≤ T' j) → X T ξ m n ≤ X T' ξ m n
+  /-- (3) homogeneity. -/
+  homogeneous : ∀ (T : ℤ → ℝ) (ξ : ℤ → E) (m n : ℤ) (c : ℝ), Monotone T → m ≤ n →
+    X (fun j => T j + c) ξ m n = X T ξ m n + c
+  /-- (4) separability. -/
+  separable : ∀ (T : ℤ → ℝ) (ξ : ℤ → E) (m l n : ℤ), Monotone T → m ≤ l → l < n →
+    X T ξ m l ≤ T (l + 1) → X T ξ m n = X T ξ (l + 1) n
+
+/-- `(2.11.19)`: `Z_{[m,n]}(N) = X(N_{[m,n]}) − T_n`, the duration of the activity generated by
+the `[m,n]` restriction measured from the last arrival in it. -/
+noncomputable def mhsZ {E : Type*} (X : (ℤ → ℝ) → (ℤ → E) → ℤ → ℤ → ℝ) (T : ℤ → ℝ)
+    (ξ : ℤ → E) (m n : ℤ) : ℝ :=
+  X T ξ m n - T n
+
+/-- `cN`, the point process with points `{cT_n}` (and the same marks) for `c ∈ ℝ₊` (p.162).
+Taking `c = 0` saturates the system: every customer arrives at the origin, which is the
+"saturated system" of the saturation rule. -/
+def scalePoints (c : ℝ) (T : ℤ → ℝ) : ℤ → ℝ := fun j => c * T j
+
+/-- `γ(c)` is the asymptotic rate of `Z_{[-n,-1]}(cN)`, supplied by Kingman's sub-additive ergodic
+theorem through Property 2.11.9 (p.166):
+
+`lim_n Z_{[-n,-1]}(cN) / n = γ(c)` a.s.,
+
+`γ(c)` non-negative, decreasing in `c`, with `γ(c) + cλ^{-1}` increasing in `c`. -/
+def IsGrowthRate {E : Type*} (P0 : Measure Ω) (X : (ℤ → ℝ) → (ℤ → E) → ℤ → ℤ → ℝ)
+    (T : Ω → ℤ → ℝ) (ξ : Ω → ℤ → E) (c : ℝ) (gam : ℝ) : Prop :=
+  0 ≤ gam ∧
+  ∀ᵐ ω ∂P0, Tendsto
+    (fun n : ℕ => mhsZ X (scalePoints c (T ω)) (ξ ω) (-(n : ℤ)) (-1) / (n : ℝ)) atTop (𝓝 gam)
+
+end PalmQueueing.Recurrence
+
+

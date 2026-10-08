@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlgMechDesign_Randomized_randomly_biased_min_work
 -- name    : AlgMechDesign.Randomized.randomly_biased_min_work
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T20:51:57.42828+00:00
 -- url     : https://prove2.me/theorems/7036a0d1-cd24-46b9-ab22-8e4b53a67353

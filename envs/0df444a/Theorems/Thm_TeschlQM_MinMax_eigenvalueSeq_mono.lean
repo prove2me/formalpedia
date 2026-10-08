@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_MinMax_eigenvalueSeq_mono
 -- name    : TeschlQM.MinMax.eigenvalueSeq_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T21:45:53.329867+00:00
 -- url     : https://prove2.me/theorems/c88d08aa-b944-456e-9a88-7cb3a583400d

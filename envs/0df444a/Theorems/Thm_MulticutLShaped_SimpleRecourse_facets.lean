@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_SimpleRecourse_facets
 -- name    : MulticutLShaped.SimpleRecourse.facets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:03:31.831791+00:00
 -- url     : https://prove2.me/theorems/06d6f144-686d-4eeb-ab61-b56995cc8472

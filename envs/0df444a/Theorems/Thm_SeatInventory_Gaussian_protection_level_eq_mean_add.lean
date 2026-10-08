@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_protection_level_eq_mean_add
 -- name    : SeatInventory.Gaussian.protection_level_eq_mean_add
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:01:46.175724+00:00
 -- url     : https://prove2.me/theorems/f1ffc8c2-9a68-428e-b1a8-952ed407839c

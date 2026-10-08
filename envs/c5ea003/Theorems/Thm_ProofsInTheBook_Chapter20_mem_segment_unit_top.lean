@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_mem_segment_unit_top
 -- name    : ProofsInTheBook.Chapter20.mem_segment_unit_top
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:42.271862+00:00
 -- url     : https://prove2.me/theorems/6753d43a-8a29-40b2-8ad6-e5f73bb8e87c
 -- title:

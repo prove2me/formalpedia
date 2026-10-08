@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_close_of_sqrt33
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:48.528417+00:00
 -- url     : https://prove2.me/submissions/24f35eda-729e-4437-818a-3b34882cd53a
 

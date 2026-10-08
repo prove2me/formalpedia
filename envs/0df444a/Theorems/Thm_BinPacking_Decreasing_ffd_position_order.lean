@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_Decreasing_ffd_position_order
 -- name    : BinPacking.Decreasing.ffd_position_order
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:15:57.537487+00:00
 -- url     : https://prove2.me/theorems/454ce251-dffc-4f1a-8a6c-88760c4cb293

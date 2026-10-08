@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_primorial_eq_mul_primeIntervalProduct
 -- name    : ProofsInTheBook.Chapter03.primorial_eq_mul_primeIntervalProduct
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:28:12.135257+00:00
 -- url     : https://prove2.me/theorems/9da44bd9-da64-40e7-975b-d7d09cb91d8d
 -- title:

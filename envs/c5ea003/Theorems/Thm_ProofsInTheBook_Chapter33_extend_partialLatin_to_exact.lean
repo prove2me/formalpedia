@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_extend_partialLatin_to_exact
 -- name    : ProofsInTheBook.Chapter33.extend_partialLatin_to_exact
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:18.372199+00:00
 -- url     : https://prove2.me/theorems/efc44669-fe0f-4d97-aa24-07d88a988f57
 -- title:

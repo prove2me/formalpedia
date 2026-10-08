@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Tightness_params_tendsto
 -- name    : OnlineRandomization.Tightness.params_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:33:55.212368+00:00
 -- url     : https://prove2.me/theorems/cbd12063-d95d-43d1-b1c0-7b6e92ff9b05

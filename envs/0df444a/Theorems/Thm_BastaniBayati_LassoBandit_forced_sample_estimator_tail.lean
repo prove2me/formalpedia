@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BastaniBayati_LassoBandit_forced_sample_estimator_tail
 -- name    : BastaniBayati.LassoBandit.forced_sample_estimator_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T09:18:25.226723+00:00
 -- url     : https://prove2.me/theorems/ffc0cf37-d599-46c6-ad80-b6a66c4bd150

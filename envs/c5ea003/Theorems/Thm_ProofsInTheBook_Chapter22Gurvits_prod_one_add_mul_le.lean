@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22Gurvits_prod_one_add_mul_le
 -- name    : ProofsInTheBook.Chapter22Gurvits.prod_one_add_mul_le
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:17.832361+00:00
 -- url     : https://prove2.me/theorems/35b9be10-2901-491d-8f7c-94d57c290660
 -- title:

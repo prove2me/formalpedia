@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_Flatness_optQty_exists_iff
 -- name    : ZhengQR.Flatness.optQty_exists_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:06:21.805375+00:00
 -- url     : https://prove2.me/theorems/a147108e-9dad-4ad1-81de-29547d3eef7d

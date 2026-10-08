@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Supermodular_sfp_tendsto_unique_rest_point_ae
 -- name    : StochFictPlay.Supermodular.sfp_tendsto_unique_rest_point_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:23:47.349865+00:00
 -- url     : https://prove2.me/theorems/d78d826d-42d1-439c-968e-ff9de259c8ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Model_dswpt_start_ge_p
 -- name    : DelayedSWPT.Model.dswpt_start_ge_p
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:47:10.433224+00:00
 -- url     : https://prove2.me/theorems/09bd5831-84e7-42fa-b64a-b964d4a14bc1

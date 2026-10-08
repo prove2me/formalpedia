@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_ros_chain_c30
 -- name    : TaoFivePrimes.ros_chain_c30
--- status  : Open
+-- status  : Proved
 -- author  : @andreaskapfer
 -- created : 2026-10-04T11:14:08.896993+00:00
 -- url     : https://prove2.me/theorems/98fca656-e76c-420c-8218-0323fa56a497

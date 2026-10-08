@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_NNLower_exists_nearest_neighbor_ratio_gt
 -- name    : TSPHeuristics.NNLower.exists_nearest_neighbor_ratio_gt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:29:17.800601+00:00
 -- url     : https://prove2.me/theorems/d2a0381c-80bd-474a-99ad-fb1a56819f45

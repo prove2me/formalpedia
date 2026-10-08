@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.prime_nsmul_range_closure_has_nonempty_interior
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-02T22:04:38.929977+00:00
 -- url     : https://prove2.me/submissions/3a4d6cec-3041-4cb3-be97-89d94eafb83d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_local_analytic_addition_model
 import Definitions.Def_PhilipponMultiplicity_Geometry

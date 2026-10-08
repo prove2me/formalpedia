@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.entropyRatio_lower_log_add
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:35.173286+00:00
 -- url     : https://prove2.me/submissions/0610bc75-efdc-4683-acb6-f06628827645
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiDivRobust_Barrier_perspective_barrier_self_concordant
 -- name    : PhiDivRobust.Barrier.perspective_barrier_self_concordant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:57:24.341991+00:00
 -- url     : https://prove2.me/theorems/1ee97aff-9eb8-4c8f-9489-4c28da6e0c14

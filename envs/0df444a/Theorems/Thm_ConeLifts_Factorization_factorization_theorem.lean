@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_Factorization_factorization_theorem
 -- name    : ConeLifts.Factorization.factorization_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:47:50.283949+00:00
 -- url     : https://prove2.me/theorems/1ab92087-157a-4873-a422-18f34474e144

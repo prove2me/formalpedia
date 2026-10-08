@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.smetMainPartial_extends_of_keepLastShrink_completion
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:11.42801+00:00
 -- url     : https://prove2.me/submissions/3c6bc8c3-0eaf-45e4-827a-68df5c0936ec
 

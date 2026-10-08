@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_NonnegRank_faceEmbeddingDim_le_nonnegRank
 -- name    : ConeLifts.NonnegRank.faceEmbeddingDim_le_nonnegRank
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:13:42.967981+00:00
 -- url     : https://prove2.me/theorems/cf0720a9-6625-421a-943f-aafa03706578

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_StableSet_polytope_slackMatrix_coneFactorization
 -- name    : ConeLifts.StableSet.polytope_slackMatrix_coneFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:18:22.181142+00:00
 -- url     : https://prove2.me/theorems/8e5d574e-c4eb-459c-9f0f-accfff40105d

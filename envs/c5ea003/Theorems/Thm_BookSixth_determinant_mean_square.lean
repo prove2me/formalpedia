@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_determinant_mean_square
 -- name    : BookSixth.determinant_mean_square
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:32.850653+00:00
 -- url     : https://prove2.me/theorems/bc06ffbb-4912-44a3-bb56-f16a732a49cb
 -- title:

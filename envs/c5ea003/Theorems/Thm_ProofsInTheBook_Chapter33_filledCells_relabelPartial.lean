@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_filledCells_relabelPartial
 -- name    : ProofsInTheBook.Chapter33.filledCells_relabelPartial
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:10.22495+00:00
 -- url     : https://prove2.me/theorems/030a0cfd-c701-45ef-ab21-7e4a9a91756c
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_Flatness_cost_flatter_than_eoq
 -- name    : ZhengQR.Flatness.cost_flatter_than_eoq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:09:10.468693+00:00
 -- url     : https://prove2.me/theorems/210f5244-78cc-42a6-b777-24518bfd8549

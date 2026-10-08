@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RandomGradFree_Accelerated_accelerated_random_method_rate
 -- name    : RandomGradFree.Accelerated.accelerated_random_method_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:10:24.404436+00:00
 -- url     : https://prove2.me/theorems/9ba4fdc1-ad80-4ed9-a3f6-0cf6b947d047

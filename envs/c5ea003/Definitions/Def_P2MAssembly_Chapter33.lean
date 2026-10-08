@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter33
 -- name    : P2MAssembly_Chapter33
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:02:35.603395+00:00
 -- url     : https://prove2.me/theorems/9ced26e2-a009-4bdb-9ace-d4036c41da7a
 -- title:

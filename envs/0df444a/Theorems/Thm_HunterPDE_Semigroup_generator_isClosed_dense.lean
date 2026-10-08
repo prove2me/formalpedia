@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Semigroup_generator_isClosed_dense
 -- name    : HunterPDE.Semigroup.generator_isClosed_dense
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:07:45.793311+00:00
 -- url     : https://prove2.me/theorems/0f298bca-908c-4357-a4f8-1e1d35f4f713

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_jacobi_reduction
 -- name    : BookSixth.jacobi_reduction
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:05.871709+00:00
 -- url     : https://prove2.me/theorems/6c109bb7-ebc3-46c4-84d6-70e4aab50cfb
 -- title:

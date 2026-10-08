@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_LowerBound_transportation_inequality
 -- name    : OptimalBAI.LowerBound.transportation_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:46:53.967769+00:00
 -- url     : https://prove2.me/theorems/1866f3e6-0dcc-4ce6-ae7f-b69f6246c83d

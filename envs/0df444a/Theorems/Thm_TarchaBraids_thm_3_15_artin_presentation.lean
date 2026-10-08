@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_thm_3_15_artin_presentation
 -- name    : TarchaBraids.thm_3_15_artin_presentation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-19T01:23:17.49241+00:00
 -- url     : https://prove2.me/theorems/50a464a5-d412-4514-b0a4-0d093e50ff0d

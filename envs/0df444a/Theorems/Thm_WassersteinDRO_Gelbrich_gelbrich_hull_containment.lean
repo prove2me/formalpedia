@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Gelbrich_gelbrich_hull_containment
 -- name    : WassersteinDRO.Gelbrich.gelbrich_hull_containment
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:28:55.331433+00:00
 -- url     : https://prove2.me/theorems/d5fc0224-5cf3-46a9-97c7-165e027e6032

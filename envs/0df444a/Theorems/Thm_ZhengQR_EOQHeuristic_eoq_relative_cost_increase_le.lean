@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_EOQHeuristic_eoq_relative_cost_increase_le
 -- name    : ZhengQR.EOQHeuristic.eoq_relative_cost_increase_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:48:10.077989+00:00
 -- url     : https://prove2.me/theorems/43834915-688e-4d10-a636-ea49ad3f96b6

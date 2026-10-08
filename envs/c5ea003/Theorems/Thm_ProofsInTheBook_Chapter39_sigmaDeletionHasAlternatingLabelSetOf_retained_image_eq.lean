@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_sigmaDeletionHasAlternatingLabelSetOf_retained_image_eq
 -- name    : ProofsInTheBook.Chapter39.sigmaDeletionHasAlternatingLabelSetOf_retained_image_eq
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:14.27458+00:00
 -- url     : https://prove2.me/theorems/0b1544ea-6deb-4d1a-9a02-a3be9509e8aa
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.labelSeq_deletionParity_of_not_injective_of_noOpposite
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:20.569772+00:00
 -- url     : https://prove2.me/submissions/4eca6c61-2446-4908-9a68-4f5ec921e07b
 

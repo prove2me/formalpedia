@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_nextPrimeWithin_spec
 -- name    : ProofsInTheBook.Chapter03.nextPrimeWithin_spec
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:11.028567+00:00
 -- url     : https://prove2.me/theorems/1a30cb12-508d-43ba-b550-a4b36b130308
 -- title:

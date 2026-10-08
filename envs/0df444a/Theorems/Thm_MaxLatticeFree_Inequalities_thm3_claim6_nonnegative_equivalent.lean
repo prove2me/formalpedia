@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Inequalities_thm3_claim6_nonnegative_equivalent
 -- name    : MaxLatticeFree.Inequalities.thm3_claim6_nonnegative_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:21:34.568418+00:00
 -- url     : https://prove2.me/theorems/7a46607e-7e87-4df8-88dc-9f9bd6ccc020

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Marginal_rvrp_marginal_iff_deterministic
 -- name    : DRCVRP.Marginal.rvrp_marginal_iff_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:41:31.796244+00:00
 -- url     : https://prove2.me/theorems/6fd7c5a4-1475-4211-98a8-c6118c28ab99

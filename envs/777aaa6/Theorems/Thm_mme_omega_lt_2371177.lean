@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_mme_omega_lt_2371177
 -- name    : mme_omega_lt_2371177
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T22:07:41.889599+00:00
 -- url     : https://prove2.me/theorems/0f6f3856-1b27-46de-91a4-d4ea012b4cd3

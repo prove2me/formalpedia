@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_hadamard_equality
 -- name    : BookSixth.hadamard_equality
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:23.117537+00:00
 -- url     : https://prove2.me/theorems/8c27bc02-17a6-4248-8e51-9e14b56882d1
 -- title:

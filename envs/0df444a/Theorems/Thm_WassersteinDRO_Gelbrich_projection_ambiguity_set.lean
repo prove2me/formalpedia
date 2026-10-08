@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Gelbrich_projection_ambiguity_set
 -- name    : WassersteinDRO.Gelbrich.projection_ambiguity_set
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:28:12.621293+00:00
 -- url     : https://prove2.me/theorems/a0c00f9b-e37e-4cc7-8078-068f45341b24

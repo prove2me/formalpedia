@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_exists_perm_singleton_diagonal_strictly_above
 -- name    : ProofsInTheBook.Chapter33.exists_perm_singleton_diagonal_strictly_above
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:54.625915+00:00
 -- url     : https://prove2.me/theorems/6f5f9c55-994c-47d4-b5df-08b9ece01015
 -- title:

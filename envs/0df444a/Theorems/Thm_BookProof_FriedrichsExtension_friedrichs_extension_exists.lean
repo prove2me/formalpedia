@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsExtension_friedrichs_extension_exists
 -- name    : BookProof.FriedrichsExtension.friedrichs_extension_exists
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:32:46.390989+00:00
 -- url     : https://prove2.me/theorems/433b26f4-2123-434b-b25e-96609c8a81ac

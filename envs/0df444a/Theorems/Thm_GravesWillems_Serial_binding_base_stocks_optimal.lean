@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravesWillems_Serial_binding_base_stocks_optimal
 -- name    : GravesWillems.Serial.binding_base_stocks_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:21:20.399543+00:00
 -- url     : https://prove2.me/theorems/80431763-f0ad-4945-b904-a7c4e2f4056a

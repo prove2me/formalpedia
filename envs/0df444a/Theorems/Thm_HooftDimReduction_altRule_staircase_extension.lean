@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftDimReduction_altRule_staircase_extension
 -- name    : HooftDimReduction.altRule_staircase_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:23:27.256534+00:00
 -- url     : https://prove2.me/theorems/ed33f9d2-d1c0-4355-b9b6-b22f2a5a295b

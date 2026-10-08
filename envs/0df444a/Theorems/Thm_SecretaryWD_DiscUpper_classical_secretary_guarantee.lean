@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscUpper_classical_secretary_guarantee
 -- name    : SecretaryWD.DiscUpper.classical_secretary_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:36:59.519009+00:00
 -- url     : https://prove2.me/theorems/eabfc581-d01d-43b0-8911-89b2774d06c4

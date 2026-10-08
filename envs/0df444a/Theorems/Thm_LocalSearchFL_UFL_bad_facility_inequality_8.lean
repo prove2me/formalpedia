@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_UFL_bad_facility_inequality_8
 -- name    : LocalSearchFL.UFL.bad_facility_inequality_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:17:49.590989+00:00
 -- url     : https://prove2.me/theorems/0a30f0f6-1e3d-400f-8ede-f4359cb48116

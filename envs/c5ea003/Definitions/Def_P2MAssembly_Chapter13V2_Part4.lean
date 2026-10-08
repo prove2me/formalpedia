@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter13V2_Part4
 -- name    : P2MAssembly_Chapter13V2_Part4
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T20:42:32.595533+00:00
 -- url     : https://prove2.me/theorems/2337a020-b563-465a-bbbf-27b56a085925
 -- title:

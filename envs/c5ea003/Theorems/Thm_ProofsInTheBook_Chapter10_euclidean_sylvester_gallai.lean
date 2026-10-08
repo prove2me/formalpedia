@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter10_euclidean_sylvester_gallai
 -- name    : ProofsInTheBook.Chapter10.euclidean_sylvester_gallai
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:25.339257+00:00
 -- url     : https://prove2.me/theorems/0a34fd09-2478-4379-878a-2c98d608a9c3
 -- title:

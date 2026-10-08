@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalcanDDA_Piecewise_theorem3_3_pdim_bound
 -- name    : BalcanDDA.Piecewise.theorem3_3_pdim_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:17:30.641611+00:00
 -- url     : https://prove2.me/theorems/3552a196-b05b-46d2-9c0b-29796a359092

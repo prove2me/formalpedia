@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_General_ekeland_variational_principle
 -- name    : EkelandVP.General.ekeland_variational_principle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:26:08.559063+00:00
 -- url     : https://prove2.me/theorems/75865e65-db9d-48e0-8401-385743f99e68

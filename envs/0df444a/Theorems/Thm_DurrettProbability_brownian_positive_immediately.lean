@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DurrettProbability_brownian_positive_immediately
 -- name    : DurrettProbability.brownian_positive_immediately
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-18T18:26:29.793906+00:00
 -- url     : https://prove2.me/theorems/63d58763-2917-4b5b-8268-867e3af67060

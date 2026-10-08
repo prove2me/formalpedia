@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkmanSecant_expS_isEvenPureSpinor_annih
 -- name    : MarkmanSecant.expS_isEvenPureSpinor_annih
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T14:59:55.136305+00:00
 -- url     : https://prove2.me/theorems/e77dfab1-35c7-4bc2-aaf1-5af629005d45

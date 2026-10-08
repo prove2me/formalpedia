@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_Bayes_jensen_pointmass_priors
 -- name    : SatiaLave.Bayes.jensen_pointmass_priors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:44:24.127667+00:00
 -- url     : https://prove2.me/theorems/c6c69455-74dd-4a52-a0a3-24faa70b5bf3

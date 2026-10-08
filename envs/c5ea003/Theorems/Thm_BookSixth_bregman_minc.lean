@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_bregman_minc
 -- name    : BookSixth.bregman_minc
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:03.056953+00:00
 -- url     : https://prove2.me/theorems/27f69488-3b06-47c0-81b4-d3eaeb21d9f0
 -- title:

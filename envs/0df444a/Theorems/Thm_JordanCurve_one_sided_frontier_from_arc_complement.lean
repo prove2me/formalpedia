@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_one_sided_frontier_from_arc_complement
 -- name    : JordanCurve.one_sided_frontier_from_arc_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:39:52.229833+00:00
 -- url     : https://prove2.me/theorems/cce7e5e9-120c-4e24-85bd-bbf860db4324

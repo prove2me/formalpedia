@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_valueFunctionLe_above_cap
 -- name    : AvramDividend.Classical.valueFunctionLe_above_cap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T22:03:06.562438+00:00
 -- url     : https://prove2.me/theorems/8bd7e873-81b3-409e-a448-bb17eabc4faa

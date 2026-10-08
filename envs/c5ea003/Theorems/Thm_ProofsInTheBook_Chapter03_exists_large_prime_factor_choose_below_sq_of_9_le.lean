@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_large_prime_factor_choose_below_sq_of_9_le
 -- name    : ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_of_9_le
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:03.923718+00:00
 -- url     : https://prove2.me/theorems/8df511eb-211e-4ae4-9f73-67c5f9370bfb
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Stationary_theorem_1
 -- name    : DermanSeqDecisions.Stationary.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:12:37.917756+00:00
 -- url     : https://prove2.me/theorems/78b28e9e-3ad7-4c03-aa0c-545adefced86

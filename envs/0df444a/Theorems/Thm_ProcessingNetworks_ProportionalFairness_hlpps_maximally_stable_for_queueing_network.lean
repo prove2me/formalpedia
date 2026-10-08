@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_hlpps_maximally_stable_for_queueing_network
 -- name    : ProcessingNetworks.ProportionalFairness.hlpps_maximally_stable_for_queueing_network
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:36:57.561827+00:00
 -- url     : https://prove2.me/theorems/71d6b832-4437-4b21-9c29-7056d9340cea

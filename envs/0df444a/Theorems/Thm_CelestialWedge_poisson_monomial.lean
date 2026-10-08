@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_poisson_monomial
 -- name    : CelestialWedge.poisson_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T03:11:01.716144+00:00
 -- url     : https://prove2.me/theorems/b35848c2-1693-4f3e-8319-34ecb96f3154

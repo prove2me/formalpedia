@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_ChernoffPAC_chernoff_informational_threshold_pac
 -- name    : OptimalBAI.ChernoffPAC.chernoff_informational_threshold_pac
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:03:39.596687+00:00
 -- url     : https://prove2.me/theorems/8eeff8ca-5eea-41af-b82d-76d36c183681

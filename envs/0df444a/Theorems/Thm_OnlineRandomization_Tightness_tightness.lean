@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Tightness_tightness
 -- name    : OnlineRandomization.Tightness.tightness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:15:21.075251+00:00
 -- url     : https://prove2.me/theorems/ff6b628e-568c-4108-9ac1-2376b70a763a

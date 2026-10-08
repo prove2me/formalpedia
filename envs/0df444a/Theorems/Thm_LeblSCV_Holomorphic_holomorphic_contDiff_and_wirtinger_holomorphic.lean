@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Holomorphic_holomorphic_contDiff_and_wirtinger_holomorphic
 -- name    : LeblSCV.Holomorphic.holomorphic_contDiff_and_wirtinger_holomorphic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:02:33.218395+00:00
 -- url     : https://prove2.me/theorems/b2e44fb4-df48-44c1-b511-5618e515a852

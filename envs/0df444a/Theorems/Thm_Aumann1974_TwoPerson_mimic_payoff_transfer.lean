@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Aumann1974_TwoPerson_mimic_payoff_transfer
 -- name    : Aumann1974.TwoPerson.mimic_payoff_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-01T01:48:30.437603+00:00
 -- url     : https://prove2.me/theorems/e25e92e4-c438-4df5-8118-18082bd347d7

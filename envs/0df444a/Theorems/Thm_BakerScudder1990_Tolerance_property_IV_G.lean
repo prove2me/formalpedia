@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BakerScudder1990_Tolerance_property_IV_G
 -- name    : BakerScudder1990.Tolerance.property_IV_G
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:11:03.172711+00:00
 -- url     : https://prove2.me/theorems/1c516958-d350-4124-9aa4-be5f010432cd

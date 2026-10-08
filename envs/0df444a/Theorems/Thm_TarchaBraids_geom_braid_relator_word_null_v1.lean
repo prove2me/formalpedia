@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_geom_braid_relator_word_null_v1
 -- name    : TarchaBraids.geom_braid_relator_word_null_v1
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-27T21:03:42.855979+00:00
 -- url     : https://prove2.me/theorems/1e2d1635-cd71-47a4-8241-68898a9072fe

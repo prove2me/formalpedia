@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_XinGoldbergTBS_Asymptotic_lemma9
 -- name    : XinGoldbergTBS.Asymptotic.lemma9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:29:21.548183+00:00
 -- url     : https://prove2.me/theorems/406742cf-c173-4645-86eb-6b19d83b4afd

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_PlanarMap_CombMap_alpha_class_card
 -- name    : ProofsInTheBook.PlanarMap.CombMap.alpha_class_card
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:24:21.846057+00:00
 -- url     : https://prove2.me/theorems/583d07cd-8548-4b2a-9f89-2f058ea4a847
 -- title:

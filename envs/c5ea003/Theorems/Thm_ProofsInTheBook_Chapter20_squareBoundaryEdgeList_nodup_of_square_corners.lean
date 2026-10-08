@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_squareBoundaryEdgeList_nodup_of_square_corners
 -- name    : ProofsInTheBook.Chapter20.squareBoundaryEdgeList_nodup_of_square_corners
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:38.141623+00:00
 -- url     : https://prove2.me/theorems/cfb0df9f-9b70-4f87-9932-82849576817a
 -- title:

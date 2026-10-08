@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter38.chapter38
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:13:12.884263+00:00
 -- url     : https://prove2.me/submissions/709c036f-0753-4e58-8b46-8adbbbd5e1ab
 

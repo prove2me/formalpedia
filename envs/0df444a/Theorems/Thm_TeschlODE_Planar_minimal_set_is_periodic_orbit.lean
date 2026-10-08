@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Planar_minimal_set_is_periodic_orbit
 -- name    : TeschlODE.Planar.minimal_set_is_periodic_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:37:19.404799+00:00
 -- url     : https://prove2.me/theorems/ff11de5f-6795-42bd-85c2-ea5f23a83edc

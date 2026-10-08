@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_c_n_sixteen
 -- name    : CirclePackingConstants.c_n_sixteen
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-12T13:29:50.679234+00:00
 -- url     : https://prove2.me/theorems/49fa18d8-9f35-4385-abb7-859b6574135b

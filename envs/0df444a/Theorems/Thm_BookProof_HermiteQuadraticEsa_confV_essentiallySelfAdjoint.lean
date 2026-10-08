@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteQuadraticEsa_confV_essentiallySelfAdjoint
 -- name    : BookProof.HermiteQuadraticEsa.confV_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T10:40:12.412931+00:00
 -- url     : https://prove2.me/theorems/72065010-7328-4222-a02f-0ced9e7b253f

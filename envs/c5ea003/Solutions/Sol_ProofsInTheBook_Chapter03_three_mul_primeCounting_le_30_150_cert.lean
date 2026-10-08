@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.three_mul_primeCounting_le_30_150_cert
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:37:00.194018+00:00
 -- url     : https://prove2.me/submissions/95507109-ba21-4dcb-97eb-a2339f700a10
 

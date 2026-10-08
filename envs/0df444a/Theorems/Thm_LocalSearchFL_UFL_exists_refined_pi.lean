@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_UFL_exists_refined_pi
 -- name    : LocalSearchFL.UFL.exists_refined_pi
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:15:55.972547+00:00
 -- url     : https://prove2.me/theorems/b3122c22-6ee8-46a4-b89d-800c76daa00d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_BoundedItems_ratio_limit_eq
 -- name    : BinPacking.BoundedItems.ratio_limit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:13:16.627162+00:00
 -- url     : https://prove2.me/theorems/e34ef833-4420-4a49-b664-f3004c0617b1

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_prime_within_of_primeGapCover
 -- name    : ProofsInTheBook.Chapter03.exists_prime_within_of_primeGapCover
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:45.146614+00:00
 -- url     : https://prove2.me/theorems/c619b9aa-772a-48fa-9b60-cfc9e0ee333c
 -- title:

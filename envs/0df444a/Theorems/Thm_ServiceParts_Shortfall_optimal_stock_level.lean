@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_optimal_stock_level
 -- name    : ServiceParts.Shortfall.optimal_stock_level
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:46:41.617233+00:00
 -- url     : https://prove2.me/theorems/83233cc7-6d3c-40ee-80d7-63a747f1e123

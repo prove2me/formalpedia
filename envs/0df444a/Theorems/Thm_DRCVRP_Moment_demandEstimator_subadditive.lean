@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Moment_demandEstimator_subadditive
 -- name    : DRCVRP.Moment.demandEstimator_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:32:22.058934+00:00
 -- url     : https://prove2.me/theorems/5849f34e-cb61-4dbe-baf9-03cb95379314

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Holomorphic_cauchy_derivative_formula_and_estimates
 -- name    : LeblSCV.Holomorphic.cauchy_derivative_formula_and_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:04:41.613178+00:00
 -- url     : https://prove2.me/theorems/65893fdd-f3d3-46a2-a2b6-7cdab8c94c83

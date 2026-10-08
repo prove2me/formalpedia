@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_pf_dilate_pos
 -- name    : DeBruijnNewman.pf_dilate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-23T18:03:44.141584+00:00
 -- url     : https://prove2.me/theorems/c0bc943c-42bd-409b-9e7c-57f403c6cb4a

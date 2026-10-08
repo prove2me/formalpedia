@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Simulation_corollary_2_1
 -- name    : OnlineRandomization.Simulation.corollary_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:17:26.158115+00:00
 -- url     : https://prove2.me/theorems/faed7b42-4e54-4d76-9952-5d5b1098acc6

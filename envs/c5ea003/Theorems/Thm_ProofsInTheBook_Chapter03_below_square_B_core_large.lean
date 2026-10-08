@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_below_square_B_core_large
 -- name    : ProofsInTheBook.Chapter03.below_square_B_core_large
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:25:31.977196+00:00
 -- url     : https://prove2.me/theorems/6601a242-5165-48ed-8899-89c1e0249647
 -- title:

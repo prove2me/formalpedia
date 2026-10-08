@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Tightness_online_competitive
 -- name    : OnlineRandomization.Tightness.online_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:34:19.572192+00:00
 -- url     : https://prove2.me/theorems/178172cb-864a-4383-9c1b-c173c90c359a

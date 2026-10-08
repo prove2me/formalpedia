@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteQuadraticEsa_sectorQuad_essentiallySelfAdjoint
 -- name    : BookProof.HermiteQuadraticEsa.sectorQuad_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T10:40:54.163508+00:00
 -- url     : https://prove2.me/theorems/737919ec-6475-4f26-95e8-d02f42cec56d

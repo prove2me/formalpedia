@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_wedge_bracket_lie
 -- name    : CelestialWedge.wedge_bracket_lie
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T03:37:13.154577+00:00
 -- url     : https://prove2.me/theorems/74b47e0d-df69-43a6-a77f-544f5bedeef4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_LinProg_freq_solution_correspondence
 -- name    : DermanSeqDecisions.LinProg.freq_solution_correspondence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:45:25.464671+00:00
 -- url     : https://prove2.me/theorems/d3757d19-5919-4261-92a4-5d02bb9a388c

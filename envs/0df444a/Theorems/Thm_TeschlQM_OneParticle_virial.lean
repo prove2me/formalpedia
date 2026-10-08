@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_OneParticle_virial
 -- name    : TeschlQM.OneParticle.virial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:10:40.547962+00:00
 -- url     : https://prove2.me/theorems/907579bd-37f4-4eab-88bc-3ea77590d4ee

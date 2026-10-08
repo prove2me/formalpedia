@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter14_chapter14_unconditional
 -- name    : ProofsInTheBook.Chapter14.chapter14_unconditional
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:08:51.295337+00:00
 -- url     : https://prove2.me/theorems/133c5c6c-b8a7-45c4-b004-f40acc0b9328
 -- title:

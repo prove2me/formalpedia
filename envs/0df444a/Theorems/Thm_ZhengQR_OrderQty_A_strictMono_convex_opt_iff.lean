@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_A_strictMono_convex_opt_iff
 -- name    : ZhengQR.OrderQty.A_strictMono_convex_opt_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:51:04.852354+00:00
 -- url     : https://prove2.me/theorems/6fd1f9e0-890f-4c77-92bb-6ebfa5f29eb9

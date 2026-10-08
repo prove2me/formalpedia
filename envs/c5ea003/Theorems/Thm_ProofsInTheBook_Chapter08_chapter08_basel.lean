@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter08_chapter08_basel
 -- name    : ProofsInTheBook.Chapter08.chapter08_basel
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:42:59.171673+00:00
 -- url     : https://prove2.me/theorems/e3996df6-ac4b-46de-ae6f-d6ff9a3e187c
 -- title:

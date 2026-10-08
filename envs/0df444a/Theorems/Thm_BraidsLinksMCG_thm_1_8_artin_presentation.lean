@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_thm_1_8_artin_presentation
 -- name    : BraidsLinksMCG.thm_1_8_artin_presentation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-13T18:58:09.814638+00:00
 -- url     : https://prove2.me/theorems/75ea0df7-a7ac-46e0-9110-b672782e1166

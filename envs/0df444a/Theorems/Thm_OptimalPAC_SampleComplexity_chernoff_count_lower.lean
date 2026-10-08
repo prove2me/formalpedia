@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_chernoff_count_lower
 -- name    : OptimalPAC.SampleComplexity.chernoff_count_lower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:28:18.05207+00:00
 -- url     : https://prove2.me/theorems/5ec3b2ae-4d78-4788-adbf-08c7dcbfe53e

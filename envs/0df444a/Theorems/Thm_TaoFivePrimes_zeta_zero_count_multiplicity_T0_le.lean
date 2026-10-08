@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_zeta_zero_count_multiplicity_T0_le
 -- name    : TaoFivePrimes.zeta_zero_count_multiplicity_T0_le
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-02T15:56:09.07684+00:00
 -- url     : https://prove2.me/theorems/744bde09-66be-4acc-918e-2addd310f8f6

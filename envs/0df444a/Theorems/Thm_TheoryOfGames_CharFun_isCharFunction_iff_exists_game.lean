@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_CharFun_isCharFunction_iff_exists_game
 -- name    : TheoryOfGames.CharFun.isCharFunction_iff_exists_game
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T03:54:15.389845+00:00
 -- url     : https://prove2.me/theorems/4391c820-4d15-48c5-8165-6f450dde24b4

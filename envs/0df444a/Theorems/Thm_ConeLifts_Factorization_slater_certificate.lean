@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_Factorization_slater_certificate
 -- name    : ConeLifts.Factorization.slater_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:45:26.928927+00:00
 -- url     : https://prove2.me/theorems/588f0663-0b85-442e-969e-29459d794748

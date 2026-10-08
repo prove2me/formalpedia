@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_optimal_quantity_prices
 -- name    : CachonPushPull.Pareto.optimal_quantity_prices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:24:37.744763+00:00
 -- url     : https://prove2.me/theorems/04889b81-b811-4f60-9e16-cf6d030982c3

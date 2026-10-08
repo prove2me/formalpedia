@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Combinatorics_finite_symmetric_local_lemma_avoidance_card_bound
 -- name    : Combinatorics.finite_symmetric_local_lemma_avoidance_card_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T20:42:05.873768+00:00
 -- url     : https://prove2.me/theorems/2d6343df-273a-476e-8dab-188cbe424ac7

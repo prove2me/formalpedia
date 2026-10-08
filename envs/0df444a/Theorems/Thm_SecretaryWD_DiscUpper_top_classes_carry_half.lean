@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscUpper_top_classes_carry_half
 -- name    : SecretaryWD.DiscUpper.top_classes_carry_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:59:50.388664+00:00
 -- url     : https://prove2.me/theorems/62e12681-c5df-4396-bd61-85f3ad3f656a

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_far_of_120_le
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:50.074233+00:00
 -- url     : https://prove2.me/submissions/ecc75f05-2ed7-4568-b882-7d7ab3e49c3c
 

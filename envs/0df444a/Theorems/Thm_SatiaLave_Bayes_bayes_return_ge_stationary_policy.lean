@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_Bayes_bayes_return_ge_stationary_policy
 -- name    : SatiaLave.Bayes.bayes_return_ge_stationary_policy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:44:56.257989+00:00
 -- url     : https://prove2.me/theorems/f47f2036-5c43-4d56-90bd-a3f4d9c9f9b7

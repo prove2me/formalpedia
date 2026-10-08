@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_prod_lPowerFreeParts_dvd_factorial_l2
 -- name    : ProofsInTheBook.Chapter03.prod_lPowerFreeParts_dvd_factorial_l2
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:26.588214+00:00
 -- url     : https://prove2.me/theorems/aec41160-6821-45d0-ad94-051910294e43
 -- title:

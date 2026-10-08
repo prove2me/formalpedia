@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter35Plane_Part1
 -- name    : P2MAssembly_Chapter35Plane_Part1
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T19:20:24.193533+00:00
 -- url     : https://prove2.me/theorems/4951ec20-a70f-433c-9bc1-11e5dc6e29d4
 -- title:

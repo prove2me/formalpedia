@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_isLatinSquare_relabelSquare
 -- name    : ProofsInTheBook.Chapter33.isLatinSquare_relabelSquare
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:21.570591+00:00
 -- url     : https://prove2.me/theorems/00f9395d-633e-4496-ba25-eee915dc29ff
 -- title:

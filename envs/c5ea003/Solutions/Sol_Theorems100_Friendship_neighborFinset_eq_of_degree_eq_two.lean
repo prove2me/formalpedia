@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Theorems100.Friendship.neighborFinset_eq_of_degree_eq_two
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:45:04.872222+00:00
 -- url     : https://prove2.me/submissions/4b1aa76a-5470-4306-8489-fc44e375cd5f
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter29_chapter29
 -- name    : ProofsInTheBook.Chapter29.chapter29
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:11:39.558799+00:00
 -- url     : https://prove2.me/theorems/5ec5d6a0-a81e-4668-881f-8ba4486f33e2
 -- title:

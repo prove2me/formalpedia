@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Guarantees_concentration_inequalities_ii
 -- name    : WassersteinDRO.Guarantees.concentration_inequalities_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:35:08.591781+00:00
 -- url     : https://prove2.me/theorems/908f116c-19fb-4c8d-bf93-7fbacf618521

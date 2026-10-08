@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.mul_log_sub_mul_log_le_log_choose
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:25.719513+00:00
 -- url     : https://prove2.me/submissions/2b9311f6-6c7e-4214-85ef-2b318ae0fadd
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_thresholds_admissible
 -- name    : BayesRouting.VOI.thresholds_admissible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T15:05:38.799702+00:00
 -- url     : https://prove2.me/theorems/5185fc6b-bf6d-4044-bbe3-399cf0cbb77e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Stationary_discount_optimal_stationary
 -- name    : DermanSeqDecisions.Stationary.discount_optimal_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:44:38.289227+00:00
 -- url     : https://prove2.me/theorems/568cb85d-b825-461a-acdf-3267eb47f754

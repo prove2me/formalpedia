@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_pow_gap
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:55.108727+00:00
 -- url     : https://prove2.me/submissions/04bf3e3b-f951-4612-8295-adcdf36a73e9
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22Gurvits_chapter22_unconditional
 -- name    : ProofsInTheBook.Chapter22Gurvits.chapter22_unconditional
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:06.412574+00:00
 -- url     : https://prove2.me/theorems/14ff3de4-8156-4b54-9152-a35ea99f6cbf
 -- title:

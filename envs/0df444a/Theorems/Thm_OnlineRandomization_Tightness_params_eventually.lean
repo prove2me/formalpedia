@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Tightness_params_eventually
 -- name    : OnlineRandomization.Tightness.params_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:33:46.573027+00:00
 -- url     : https://prove2.me/theorems/6ab08a0c-2144-45cd-8e56-74a1a40368b8

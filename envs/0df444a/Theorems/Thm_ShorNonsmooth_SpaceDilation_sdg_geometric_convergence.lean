@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SpaceDilation_sdg_geometric_convergence
 -- name    : ShorNonsmooth.SpaceDilation.sdg_geometric_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:11:05.477053+00:00
 -- url     : https://prove2.me/theorems/e5e93ff2-74e3-405b-b3cc-5a0d3d6cb6ab

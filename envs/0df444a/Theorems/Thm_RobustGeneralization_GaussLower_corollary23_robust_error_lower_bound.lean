@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_GaussLower_corollary23_robust_error_lower_bound
 -- name    : RobustGeneralization.GaussLower.corollary23_robust_error_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:18:37.024799+00:00
 -- url     : https://prove2.me/theorems/153582e4-800e-4ab6-a2b3-583d5bb4fc85

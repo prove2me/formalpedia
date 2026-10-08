@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookSixth_pair_relabel_line_alltime_interpolation
 -- name    : BookSixth.pair_relabel_line_alltime_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T16:24:18.564223+00:00
 -- url     : https://prove2.me/theorems/afecf75a-b9fb-4d1e-922d-26c9c2e70dc9

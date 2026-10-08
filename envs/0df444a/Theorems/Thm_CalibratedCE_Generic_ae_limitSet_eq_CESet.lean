@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedCE_Generic_ae_limitSet_eq_CESet
 -- name    : CalibratedCE.Generic.ae_limitSet_eq_CESet
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:12:30.222828+00:00
 -- url     : https://prove2.me/theorems/ae2540c9-10da-4d9d-8562-bb184f911628

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter11.ungar_directions_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:12:57.967985+00:00
 -- url     : https://prove2.me/submissions/b975fad9-9814-4404-b02d-e3fcaaac4052
 

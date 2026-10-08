@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookSixth_alltime_line_relabel_exists
 -- name    : BookSixth.alltime_line_relabel_exists
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-30T17:45:18.094984+00:00
 -- url     : https://prove2.me/theorems/8ea0b3ac-f4f3-4905-a316-bcc07801217c

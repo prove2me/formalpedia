@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Simulation_initial_position_iff
 -- name    : OnlineRandomization.Simulation.initial_position_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:35:18.78499+00:00
 -- url     : https://prove2.me/theorems/3c5e5087-cc0e-45e7-9033-0dc7511df627

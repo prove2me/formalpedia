@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani1980_Region_lemma2_ineq_numerators
 -- name    : CoffmanMitrani1980.Region.lemma2_ineq_numerators
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:16:13.729022+00:00
 -- url     : https://prove2.me/theorems/c1de4ab2-4d0d-48d9-818c-257314e09d03

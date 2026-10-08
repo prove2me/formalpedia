@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeneralCK_mostInformativeBooleanFunction
 -- name    : GeneralCK.mostInformativeBooleanFunction
--- status  : Open
+-- status  : Proved
 -- author  : @marwahaha
 -- created : 2026-09-24T15:49:44.461609+00:00
 -- url     : https://prove2.me/theorems/bde405e1-4a4d-49b9-8e4e-f741842d6f8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RybinAI2026_P01_psi_le_one
 -- name    : RybinAI2026.P01.psi_le_one
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-02T20:26:00.413125+00:00
 -- url     : https://prove2.me/theorems/05757aab-6d0c-445e-9179-cb46b4916870

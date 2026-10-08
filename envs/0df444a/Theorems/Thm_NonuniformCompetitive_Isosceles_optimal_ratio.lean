@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_Isosceles_optimal_ratio
 -- name    : NonuniformCompetitive.Isosceles.optimal_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:57:15.536268+00:00
 -- url     : https://prove2.me/theorems/641c4ddf-0ccd-4376-807a-0496274431c1

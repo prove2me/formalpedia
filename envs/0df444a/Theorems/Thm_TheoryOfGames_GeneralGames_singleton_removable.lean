@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_GeneralGames_singleton_removable
 -- name    : TheoryOfGames.GeneralGames.singleton_removable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:38:37.961162+00:00
 -- url     : https://prove2.me/theorems/fab62c74-5cea-4758-9f62-7f689155df19

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for JordanCurve.simple_closed_curve_two_sided_accessibility
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-09-25T00:27:07.070885+00:00
 -- url     : https://prove2.me/submissions/6f4957c6-4237-42b6-b5d4-746e38d6dfa0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_JordanCurve_simple_arc_complement_connected
 import Theorems.Thm_JordanCurve_accessibility_from_arc_complement

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Nonlinear_smoothed_loss_approx
 -- name    : RegretBandits.Nonlinear.smoothed_loss_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:41:41.71539+00:00
 -- url     : https://prove2.me/theorems/3b846a89-1f2b-47f6-9569-ce89d18a7915

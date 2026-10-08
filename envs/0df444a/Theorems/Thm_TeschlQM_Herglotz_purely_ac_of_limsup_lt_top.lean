@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Herglotz_purely_ac_of_limsup_lt_top
 -- name    : TeschlQM.Herglotz.purely_ac_of_limsup_lt_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:39:24.87546+00:00
 -- url     : https://prove2.me/theorems/f61f2d77-915e-402f-8f51-da530ba9d313

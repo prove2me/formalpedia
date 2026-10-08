@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.hall_condition_of_regular_family
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:51.680116+00:00
 -- url     : https://prove2.me/submissions/b5be01a7-3eaf-471e-b6cb-2c325c366a1f
 

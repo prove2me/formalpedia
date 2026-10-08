@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_theorem_8_4_projection_eq
 -- name    : MulticlassQNet.SingleStation.theorem_8_4_projection_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:13:32.875521+00:00
 -- url     : https://prove2.me/theorems/fa2756ed-e919-4c77-904f-9f2c02971f8f

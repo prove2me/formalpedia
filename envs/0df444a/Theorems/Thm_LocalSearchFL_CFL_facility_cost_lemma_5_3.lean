@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_CFL_facility_cost_lemma_5_3
 -- name    : LocalSearchFL.CFL.facility_cost_lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:24:43.333125+00:00
 -- url     : https://prove2.me/theorems/7ffbedf6-f444-48f5-abb2-6ad04bb1666a

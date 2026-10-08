@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandResponse_FirstBest_prop2_1_best_response
 -- name    : DemandResponse.FirstBest.prop2_1_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:01:18.779784+00:00
 -- url     : https://prove2.me/theorems/b81c1b4a-93ff-4b81-8795-01c4768683e4

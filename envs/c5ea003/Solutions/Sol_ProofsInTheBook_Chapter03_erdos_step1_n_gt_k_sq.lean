@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_sq
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:43.210543+00:00
 -- url     : https://prove2.me/submissions/212ae1b4-1e34-45f8-a636-bd90fb7ddaa1
 

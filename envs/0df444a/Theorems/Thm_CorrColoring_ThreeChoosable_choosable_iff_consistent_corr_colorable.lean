@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorrColoring_ThreeChoosable_choosable_iff_consistent_corr_colorable
 -- name    : CorrColoring.ThreeChoosable.choosable_iff_consistent_corr_colorable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:03:45.334405+00:00
 -- url     : https://prove2.me/theorems/6c5a9611-86e9-4758-aed8-57523d1187e0

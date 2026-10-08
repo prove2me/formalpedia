@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Nested_emsr_antitone
 -- name    : SeatInventory.Nested.emsr_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:45:41.965213+00:00
 -- url     : https://prove2.me/theorems/0b7e0b5c-08bb-4e8d-b062-d82a0fcf9986

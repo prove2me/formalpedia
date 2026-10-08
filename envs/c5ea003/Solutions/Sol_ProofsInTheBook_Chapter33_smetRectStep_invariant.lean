@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.smetRectStep_invariant
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:13.915783+00:00
 -- url     : https://prove2.me/submissions/d0394516-bba2-4317-8627-8045b1ce1a5b
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaussMagnetism_exists_vector_potential
 -- name    : GaussMagnetism.exists_vector_potential
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:05:07.124247+00:00
 -- url     : https://prove2.me/theorems/04d469cd-be88-46a5-b554-f66c49a2c65c

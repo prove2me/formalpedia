@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_OddHole_valid_N_of_deletion_contraction
 -- name    : LovaszSchrijver.OddHole.valid_N_of_deletion_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:47:39.57484+00:00
 -- url     : https://prove2.me/theorems/d8015190-5569-482b-bbed-859de50a9981

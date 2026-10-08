@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_ramsey_real_bound
 -- name    : BookSixth.ramsey_real_bound
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:09.16138+00:00
 -- url     : https://prove2.me/theorems/2bfb9361-ae39-4aa2-8638-e42677d27f2f
 -- title:

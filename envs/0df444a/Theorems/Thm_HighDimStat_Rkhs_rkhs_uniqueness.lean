@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Rkhs_rkhs_uniqueness
 -- name    : HighDimStat.Rkhs.rkhs_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T14:55:43.021607+00:00
 -- url     : https://prove2.me/theorems/35d26be8-d877-4cdf-a3fe-7667796f67aa

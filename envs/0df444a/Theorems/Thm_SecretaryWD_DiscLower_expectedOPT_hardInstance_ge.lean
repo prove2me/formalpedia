@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscLower_expectedOPT_hardInstance_ge
 -- name    : SecretaryWD.DiscLower.expectedOPT_hardInstance_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:35:31.395459+00:00
 -- url     : https://prove2.me/theorems/30fbb73d-b887-4d5b-afd1-6b05a84e62f3

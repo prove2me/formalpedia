@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaloisFundamental_example_sqrt2_sqrt3
 -- name    : GaloisFundamental.example_sqrt2_sqrt3
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T01:02:55.561353+00:00
 -- url     : https://prove2.me/theorems/db388c04-66f1-457f-bcbd-f18aaabfca9e

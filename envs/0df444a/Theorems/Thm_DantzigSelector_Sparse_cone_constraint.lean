@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DantzigSelector_Sparse_cone_constraint
 -- name    : DantzigSelector.Sparse.cone_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:39:56.56232+00:00
 -- url     : https://prove2.me/theorems/fa7e369b-d6e6-4f89-ac84-8f34cbe616a5

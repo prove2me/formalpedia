@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_gluon_soft_rescaling
 -- name    : CelestialWedge.gluon_soft_rescaling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T03:17:42.989926+00:00
 -- url     : https://prove2.me/theorems/b7ed0e64-b8d3-41bc-b69c-3083c995ec01

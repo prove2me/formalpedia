@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.ryser_hypothesis_holds
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:06.76507+00:00
 -- url     : https://prove2.me/submissions/3098388e-c62f-4cf1-94dc-182092146a16
 

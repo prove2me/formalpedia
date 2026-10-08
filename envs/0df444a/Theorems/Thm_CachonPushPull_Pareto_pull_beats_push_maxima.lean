@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_pull_beats_push_maxima
 -- name    : CachonPushPull.Pareto.pull_beats_push_maxima
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:28:25.971907+00:00
 -- url     : https://prove2.me/theorems/404e83c7-d8bc-4548-9bca-82f05ff7989a

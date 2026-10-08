@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_LinProg_avg_minimizer_minimizes_each
 -- name    : DermanSeqDecisions.LinProg.avg_minimizer_minimizes_each
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:45:24.959212+00:00
 -- url     : https://prove2.me/theorems/6efe5414-6dc6-40ee-9084-a80b1d1d296f

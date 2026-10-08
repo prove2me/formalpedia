@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_hypergraph_two_color
 -- name    : BookSixth.hypergraph_two_color
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:13.788961+00:00
 -- url     : https://prove2.me/theorems/866e5f5a-f411-4f50-b671-d7cad1cb42da
 -- title:

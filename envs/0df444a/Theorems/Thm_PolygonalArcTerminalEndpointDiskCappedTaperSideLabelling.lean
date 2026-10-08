@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolygonalArcTerminalEndpointDiskCappedTaperSideLabelling
 -- name    : PolygonalArcTerminalEndpointDiskCappedTaperSideLabelling
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-28T06:34:25.090675+00:00
 -- url     : https://prove2.me/theorems/e353d491-308c-42cf-a32c-42f022c85180

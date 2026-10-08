@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter06.chapter06_wedderburn
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:43:31.928986+00:00
 -- url     : https://prove2.me/submissions/40856416-c8b0-4fb7-9bf4-7f1365ca9a69
 

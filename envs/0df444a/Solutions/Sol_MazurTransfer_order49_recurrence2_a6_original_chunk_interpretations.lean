@@ -1,0 +1,89 @@
+-- Prove2me | solution 1 for MazurTransfer.order49_recurrence2_a6_original_chunk_interpretations
+-- status  : ACCEPTED   (prove)
+-- author  : @Vas
+-- created : 2026-10-07T12:51:56.136359+00:00
+-- url     : https://prove2.me/submissions/01d27825-0c40-4ad0-bd35-3d9c89ae0e8b
+
+import Definitions.Def_MazurTransfer_Order49Recurrence2ReusedDenseIntegerData
+import Definitions.Def_MazurTransfer_Order49ResultantRecurrenceData1
+import Definitions.Def_MazurTransfer_Order49Recurrence3StandaloneDenseData3
+import Definitions.Def_MazurTransfer_ExactEqualityCertificate
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Ring
+open Polynomial
+namespace MazurTransfer.Recurrence2ChunkBundleA6
+private theorem chunk_checked_0 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk11 = X ^ 0 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk11 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk11 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk11
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_1 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk10 = X ^ 8 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk10 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk10 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk10
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_2 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk9 = X ^ 16 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk9 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk9 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk9
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_3 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk8 = X ^ 24 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk8 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk8 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk8
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_4 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk7 = X ^ 32 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk7 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk7 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk7
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_5 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk6 = X ^ 40 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk6 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk6 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk6
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_6 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk5 = X ^ 48 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk5 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk5 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk5
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_7 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk4 = X ^ 56 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk4 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk4 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk4
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_8 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk3 = X ^ 64 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk3 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk3 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk3
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_9 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk2 = X ^ 72 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk2 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk2 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk2
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_10 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk1 = X ^ 80 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk1 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk1 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk1
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+private theorem chunk_checked_11 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk0 = X ^ 88 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk0 := by
+  unfold MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk0 MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.coefficientTerm MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk0
+  simp only [← Polynomial.C_mul_X_pow_eq_monomial]
+  norm_num [MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial] <;> ring
+
+theorem _root_.solution : MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk11) (X ^ 0 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk11) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk10) (X ^ 8 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk10) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk9) (X ^ 16 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk9) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk8) (X ^ 24 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk8) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk7) (X ^ 32 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk7) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk6) (X ^ 40 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk6) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk5) (X ^ 48 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk5) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk4) (X ^ 56 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk4) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk3) (X ^ 64 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk3) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk2) (X ^ 72 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk2) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk1) (X ^ 80 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk1) ∧
+    MazurTransfer.ExactEqualityCertificate (α := Polynomial ℚ) (MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.remainder2Coefficient6Chunk0) (X ^ 88 * MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.toPolynomial MazurTransfer.Order49Recurrence2DenseCandidate.chunk_remainder2Coefficient6Chunk0) := by
+  exact ⟨⟨chunk_checked_0⟩, ⟨⟨chunk_checked_1⟩, ⟨⟨chunk_checked_2⟩, ⟨⟨chunk_checked_3⟩, ⟨⟨chunk_checked_4⟩, ⟨⟨chunk_checked_5⟩, ⟨⟨chunk_checked_6⟩, ⟨⟨chunk_checked_7⟩, ⟨⟨chunk_checked_8⟩, ⟨⟨chunk_checked_9⟩, ⟨⟨chunk_checked_10⟩, ⟨chunk_checked_11⟩⟩⟩⟩⟩⟩⟩⟩⟩⟩⟩⟩
+#print axioms _root_.solution
+end MazurTransfer.Recurrence2ChunkBundleA6

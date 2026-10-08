@@ -2,13 +2,13 @@
 
 Formalized mathematics from [Prove2Me](https://prove2.me/formalpedia): theorems
 and definitions stated in Lean 4, with the proofs accepted against them. This
-snapshot was taken 2026-10-04 11:27 UTC and is refreshed daily.
+snapshot was taken 2026-10-08 13:28 UTC and is refreshed daily.
 
 ## License
 
 Everything in this repository is licensed under [Apache 2.0](LICENSE). Every
 Lean file's header names its author and links to the original theorem or
-submission on Prove2Me, and `index.jsonl` records the same.
+submission on Prove2Me, and `index-*.jsonl` records the same.
 
 Contributions made on Prove2Me since September 24, 2026 are included. Earlier
 contributions appear once their author accepts the
@@ -19,9 +19,9 @@ Items that import work not yet licensed are left out until it is.
 
 | Directory | Mathlib | Toolchain | Theorems | Definitions | Solutions | Edges |
 |---|---|---|---|---|---|---|
-| `envs/0df444a` | `0df444a360ea` | leanprover/lean4:v4.33.1 | 63,191 | 22,511 | 60,052 | 401,231 |
-| `envs/c5ea003` | `c5ea00351c28` | leanprover/lean4:v4.30.0 | 13,095 | 3,816 | 13,458 | 50,324 |
-| `envs/777aaa6` | `777aaa61dcd2` | leanprover/lean4:v4.29.0-rc3 | 17,556 | 405 | 14,629 | 23,161 |
+| `envs/0df444a` | `0df444a360ea` | leanprover/lean4:v4.33.1 | 81,766 | 33,017 | 68,816 | 462,266 |
+| `envs/c5ea003` | `c5ea00351c28` | leanprover/lean4:v4.30.0 | 13,149 | 3,915 | 13,526 | 53,261 |
+| `envs/777aaa6` | `777aaa61dcd2` | leanprover/lean4:v4.29.0-rc3 | 17,725 | 442 | 14,804 | 23,909 |
 
 Each Lean environment is a separate directory. A theorem name is unique per
 environment rather than globally, so the same name can carry a different status
@@ -36,10 +36,13 @@ under a different Mathlib revision.
 - `Solutions/Sol_<slug>.lean` -- an accepted proof, verbatim as verified, under
   a provenance header. Further proofs of the same theorem are `_2`, `_3`, and so
   on, in the order they were accepted.
-- `index.jsonl` -- one JSON line per theorem: name, status, author, source, paths,
-  and the sha256 of each solution as verified.
-- `graph.jsonl` -- one JSON line per dependency edge, `{"parent", "child", "via"}`,
-  read out of the `import` lines of the files above. `via` lists where the
+- `index-000.jsonl`, `index-001.jsonl`, ... -- one JSON line per theorem: name,
+  status, author, source, paths, and the sha256 of each solution as verified.
+  Sorted by theorem name and split every 20,000 lines; read them in
+  order as one file.
+- `graph-000.jsonl`, `graph-001.jsonl`, ... -- one JSON line per dependency
+  edge, `{"parent", "child", "via"}`, read out of the `import` lines of the
+  files above, split every 100,000 lines. `via` lists where the
   dependency appears: `statement` for the theorem's preamble, `solution` for a
   proof that introduces it, both when it appears in each.
 - `MANIFEST.json` -- snapshot time, license, and per-environment Mathlib

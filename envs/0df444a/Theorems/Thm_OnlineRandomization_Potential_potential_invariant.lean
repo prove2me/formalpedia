@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Potential_potential_invariant
 -- name    : OnlineRandomization.Potential.potential_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:29:18.837994+00:00
 -- url     : https://prove2.me/theorems/02052ca9-3eeb-47fe-8e32-f485a6ad9cf6

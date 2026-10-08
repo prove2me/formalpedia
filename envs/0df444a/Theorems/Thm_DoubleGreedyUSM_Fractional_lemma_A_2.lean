@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleGreedyUSM_Fractional_lemma_A_2
 -- name    : DoubleGreedyUSM.Fractional.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:05:35.212868+00:00
 -- url     : https://prove2.me/theorems/3250b768-32c5-424c-abe2-eeb5df66ae54

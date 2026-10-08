@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VapnikChervonenkis_Entropy_theorem4_entropy_criterion
 -- name    : VapnikChervonenkis.Entropy.theorem4_entropy_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:10:44.976984+00:00
 -- url     : https://prove2.me/theorems/99227a43-d269-47de-9aa3-8adadd7e3e00

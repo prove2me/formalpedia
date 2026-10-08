@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_isPartialLatin_setCell
 -- name    : ProofsInTheBook.Chapter33.isPartialLatin_setCell
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:39.849632+00:00
 -- url     : https://prove2.me/theorems/9f7a7d1a-9308-481d-b0c2-4998f2fb1165
 -- title:

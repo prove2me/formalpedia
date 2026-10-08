@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Ratio_ratio_le_of_avg_nonpos
 -- name    : DermanSeqDecisions.Ratio.ratio_le_of_avg_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:46:06.469205+00:00
 -- url     : https://prove2.me/theorems/7658546f-63d7-4a3a-b7f0-2ea8e96f4c39

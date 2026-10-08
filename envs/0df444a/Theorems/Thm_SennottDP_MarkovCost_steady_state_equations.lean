@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_steady_state_equations
 -- name    : SennottDP.MarkovCost.steady_state_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:46:19.015533+00:00
 -- url     : https://prove2.me/theorems/daf5f28e-7b63-4863-8461-bc41e8c4be74

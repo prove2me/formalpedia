@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_three_mul_primeCounting_le_of_33_le
 -- name    : ProofsInTheBook.Chapter03.three_mul_primeCounting_le_of_33_le
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:46.849518+00:00
 -- url     : https://prove2.me/theorems/9ac00767-cf7f-4d7f-9c1c-553d8805cce5
 -- title:

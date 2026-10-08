@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GKP1998_swave_radial_solution
 -- name    : GKP1998.swave_radial_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:43:29.895668+00:00
 -- url     : https://prove2.me/theorems/9880cd4c-fa24-4e35-95d9-4987ff5f8ccb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Coordination_retailer_prebook_argmax
 -- name    : CachonPushPull.Coordination.retailer_prebook_argmax
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:33:38.478998+00:00
 -- url     : https://prove2.me/theorems/d7d78e25-53a8-4867-8b6e-c9bdbef1c7fd

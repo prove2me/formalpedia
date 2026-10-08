@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani1980_Region_lemma1_priority_vector_mem
 -- name    : CoffmanMitrani1980.Region.lemma1_priority_vector_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:16:20.883671+00:00
 -- url     : https://prove2.me/theorems/383f4512-aa41-4457-ab91-dbaef64b79aa

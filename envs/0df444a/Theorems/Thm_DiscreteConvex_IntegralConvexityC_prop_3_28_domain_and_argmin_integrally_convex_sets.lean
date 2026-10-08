@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityC_prop_3_28_domain_and_argmin_integrally_convex_sets
 -- name    : DiscreteConvex.IntegralConvexityC.prop_3_28_domain_and_argmin_integrally_convex_sets
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:14:47.389122+00:00
 -- url     : https://prove2.me/theorems/5ce5f34d-647e-4217-9661-f6759c1dac4c

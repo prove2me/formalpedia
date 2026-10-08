@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyakovAction_conformal_gauge_wave_equation
 -- name    : PolyakovAction.conformal_gauge_wave_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T12:31:47.218707+00:00
 -- url     : https://prove2.me/theorems/e86bf5ba-8145-4e63-a1fb-c51e822d0ba0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_artinTits_hom_halfTwist_injective
 -- name    : TarchaBraids.artinTits_hom_halfTwist_injective
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-21T05:59:30.31204+00:00
 -- url     : https://prove2.me/theorems/fa0fbe02-50ee-4189-9e72-ab8d8ada6800

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_order_quantity_bounds
 -- name    : ZhengQR.OrderQty.order_quantity_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:54:24.411975+00:00
 -- url     : https://prove2.me/theorems/6a3bb331-e8a8-4474-8aa6-180a0c9e2492

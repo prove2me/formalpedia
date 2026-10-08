@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_KnownMoments_worst_case_var_equivalences
 -- name    : WorstCaseVaR.KnownMoments.worst_case_var_equivalences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:16:30.643795+00:00
 -- url     : https://prove2.me/theorems/32b72d98-602c-41ec-b7bf-28cdf624c5af

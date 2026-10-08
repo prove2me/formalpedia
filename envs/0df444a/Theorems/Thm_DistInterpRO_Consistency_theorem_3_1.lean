@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistInterpRO_Consistency_theorem_3_1
 -- name    : DistInterpRO.Consistency.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:50:56.901918+00:00
 -- url     : https://prove2.me/theorems/8fa0c6cb-a774-4343-ac34-d68f610f2f5e

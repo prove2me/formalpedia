@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos20_rao_bound
 -- name    : Erdos20.rao_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:30:29.619145+00:00
 -- url     : https://prove2.me/theorems/debf533f-3f74-4d21-827c-0de164d4548b

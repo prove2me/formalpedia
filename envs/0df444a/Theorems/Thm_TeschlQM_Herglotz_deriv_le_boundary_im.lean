@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Herglotz_deriv_le_boundary_im
 -- name    : TeschlQM.Herglotz.deriv_le_boundary_im
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:38:07.755714+00:00
 -- url     : https://prove2.me/theorems/4b24d71c-a137-4079-86d3-c250d7117ebc

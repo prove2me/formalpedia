@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnitDistanceArcSelectionDrawing
 -- name    : UnitDistanceArcSelectionDrawing
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-26T20:22:17.89132+00:00
 -- url     : https://prove2.me/theorems/f9e5bf37-dafa-4990-8283-9ea4fb728f78

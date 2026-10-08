@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AhlforsComplexAnalysis_riemann_mapping_theorem
 -- name    : AhlforsComplexAnalysis.riemann_mapping_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T05:15:42.002991+00:00
 -- url     : https://prove2.me/theorems/4c8c47ca-218e-4fdf-84c9-d9049c029259

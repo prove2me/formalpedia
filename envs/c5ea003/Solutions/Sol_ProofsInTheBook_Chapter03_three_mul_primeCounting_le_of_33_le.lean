@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.three_mul_primeCounting_le_of_33_le
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:37:01.874396+00:00
 -- url     : https://prove2.me/submissions/703a2cd4-a082-4f8b-b500-fb5556ad0a15
 

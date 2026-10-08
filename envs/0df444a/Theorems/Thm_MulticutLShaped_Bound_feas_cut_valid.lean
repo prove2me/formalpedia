@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_Bound_feas_cut_valid
 -- name    : MulticutLShaped.Bound.feas_cut_valid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:15:29.043243+00:00
 -- url     : https://prove2.me/theorems/c7e147b0-aa33-4a1a-8117-e6df5a1f8be2

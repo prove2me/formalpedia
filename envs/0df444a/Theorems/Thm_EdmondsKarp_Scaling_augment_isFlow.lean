@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_Scaling_augment_isFlow
 -- name    : EdmondsKarp.Scaling.augment_isFlow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:24:02.436922+00:00
 -- url     : https://prove2.me/theorems/1fcc45f1-7a77-47dc-a8b6-03e1bc8b64ea

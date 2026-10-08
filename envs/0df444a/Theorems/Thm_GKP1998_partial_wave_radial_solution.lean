@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GKP1998_partial_wave_radial_solution
 -- name    : GKP1998.partial_wave_radial_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:45:58.768343+00:00
 -- url     : https://prove2.me/theorems/ea1cddd2-3c57-46c5-94d4-1e86cd60550a

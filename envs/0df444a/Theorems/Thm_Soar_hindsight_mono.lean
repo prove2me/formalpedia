@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Soar_hindsight_mono
 -- name    : Soar.hindsight_mono
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-22T18:58:47.485247+00:00
 -- url     : https://prove2.me/theorems/677d3aba-7032-4b6a-8f3d-2f88bbfe1d71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymSum_nash_deviation_bound
 -- name    : CongestionPoA.AsymSum.nash_deviation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:48:44.639455+00:00
 -- url     : https://prove2.me/theorems/f7a3ca0e-9282-41e0-957f-d3151135d2c1

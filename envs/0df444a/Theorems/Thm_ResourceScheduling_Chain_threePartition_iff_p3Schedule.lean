@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Chain_threePartition_iff_p3Schedule
 -- name    : ResourceScheduling.Chain.threePartition_iff_p3Schedule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:25:44.990561+00:00
 -- url     : https://prove2.me/theorems/5d594357-75a5-426a-b3d3-7db7f8f428f0

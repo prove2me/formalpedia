@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_OddHole_mem_NG_iff_matrix_system
 -- name    : LovaszSchrijver.OddHole.mem_NG_iff_matrix_system
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:49:20.240912+00:00
 -- url     : https://prove2.me/theorems/69127d82-1697-4a44-b170-37a96aa2ac97

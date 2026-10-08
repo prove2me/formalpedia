@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustSDP_Uniqueness_theorem_4_2
 -- name    : RobustSDP.Uniqueness.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:08:34.314854+00:00
 -- url     : https://prove2.me/theorems/1eb153b4-4bd7-4bd7-bebd-33c9fa638a4f

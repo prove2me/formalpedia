@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_Triangle345_optimal_ratio
 -- name    : NonuniformCompetitive.Triangle345.optimal_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T11:15:49.232307+00:00
 -- url     : https://prove2.me/theorems/19c8cfdb-385d-4f40-9740-3604490c6d34

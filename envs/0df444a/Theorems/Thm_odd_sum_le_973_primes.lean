@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_odd_sum_le_973_primes
 -- name    : odd_sum_le_973_primes
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-03T19:38:24.818806+00:00
 -- url     : https://prove2.me/theorems/d43e3662-4e95-4e46-b1be-e1d78d3f688f

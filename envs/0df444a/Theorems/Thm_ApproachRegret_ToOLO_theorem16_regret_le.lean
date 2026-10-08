@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproachRegret_ToOLO_theorem16_regret_le
 -- name    : ApproachRegret.ToOLO.theorem16_regret_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:22:30.902992+00:00
 -- url     : https://prove2.me/theorems/ef6eff68-eeb1-4ba5-8c72-80a800c2d84b

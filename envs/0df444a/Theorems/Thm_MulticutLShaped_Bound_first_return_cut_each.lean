@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_Bound_first_return_cut_each
 -- name    : MulticutLShaped.Bound.first_return_cut_each
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:38:52.097457+00:00
 -- url     : https://prove2.me/theorems/d9dd8cb3-3d4c-4314-9ac4-9d042f7d6a2a

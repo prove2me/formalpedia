@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter17_chapter17_cantor
 -- name    : ProofsInTheBook.Chapter17.chapter17_cantor
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:17:24.613833+00:00
 -- url     : https://prove2.me/theorems/cafb7121-8358-4054-a0ff-d2ea47d40d60
 -- title:

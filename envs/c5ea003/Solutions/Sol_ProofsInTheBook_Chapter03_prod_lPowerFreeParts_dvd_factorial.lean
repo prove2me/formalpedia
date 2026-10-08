@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.prod_lPowerFreeParts_dvd_factorial
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:38.511768+00:00
 -- url     : https://prove2.me/submissions/789cf699-fef9-4692-9ea7-b5f1b5ae2446
 

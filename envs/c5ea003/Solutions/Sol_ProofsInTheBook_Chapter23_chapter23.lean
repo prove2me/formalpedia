@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter23.chapter23
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:13:00.962916+00:00
 -- url     : https://prove2.me/submissions/ce88e301-f56c-4685-8c94-165530ace68c
 

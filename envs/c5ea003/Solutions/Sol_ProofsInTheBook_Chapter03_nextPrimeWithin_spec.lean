@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.nextPrimeWithin_spec
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:27.28998+00:00
 -- url     : https://prove2.me/submissions/16e0d926-0254-4e91-9a62-5a8f52b4ef15
 

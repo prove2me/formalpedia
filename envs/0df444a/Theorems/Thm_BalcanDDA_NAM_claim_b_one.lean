@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalcanDDA_NAM_claim_b_one
 -- name    : BalcanDDA.NAM.claim_b_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:37:56.890294+00:00
 -- url     : https://prove2.me/theorems/38816788-b2ca-4c7f-93d3-e1a4dfed9ded

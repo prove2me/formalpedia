@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter30_total_sum_eq_good_sum_of_bad_sign_reversing
 -- name    : ProofsInTheBook.Chapter30.total_sum_eq_good_sum_of_bad_sign_reversing
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:27:34.33468+00:00
 -- url     : https://prove2.me/theorems/edf5796a-76b2-4131-a674-8cb84ed8662f
 -- title:

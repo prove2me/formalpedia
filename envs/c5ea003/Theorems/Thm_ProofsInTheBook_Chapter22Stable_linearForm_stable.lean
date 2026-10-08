@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22Stable_linearForm_stable
 -- name    : ProofsInTheBook.Chapter22Stable.linearForm_stable
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:38.169336+00:00
 -- url     : https://prove2.me/theorems/b727007a-763b-47f4-b563-2bc95319189d
 -- title:

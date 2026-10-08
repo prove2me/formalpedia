@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymSum_sum_cost_bound
 -- name    : CongestionPoA.AsymSum.sum_cost_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:48:31.976503+00:00
 -- url     : https://prove2.me/theorems/a79c1a1a-d649-44fc-a673-bf99a5e18a77

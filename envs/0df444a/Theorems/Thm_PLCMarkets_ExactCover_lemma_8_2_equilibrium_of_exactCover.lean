@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLCMarkets_ExactCover_lemma_8_2_equilibrium_of_exactCover
 -- name    : PLCMarkets.ExactCover.lemma_8_2_equilibrium_of_exactCover
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:05:00.697333+00:00
 -- url     : https://prove2.me/theorems/3ab7e81b-2b87-4efc-a1ea-a1172e1e3c1b

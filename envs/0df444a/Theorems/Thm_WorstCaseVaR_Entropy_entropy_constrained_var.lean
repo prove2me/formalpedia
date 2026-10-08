@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_Entropy_entropy_constrained_var
 -- name    : WorstCaseVaR.Entropy.entropy_constrained_var
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:21:08.157794+00:00
 -- url     : https://prove2.me/theorems/cfc09bd9-2016-460b-bc25-f50d4d92e76f

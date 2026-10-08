@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Potential_competitive_against_H
 -- name    : OnlineRandomization.Potential.competitive_against_H
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:29:15.95001+00:00
 -- url     : https://prove2.me/theorems/b2a1dae9-e608-409f-bd33-4c03fb62f9ac

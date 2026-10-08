@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_burau_coxeter_relation
 -- name    : burau_coxeter_relation
--- status  : Open
+-- status  : Proved
 -- author  : @lt9
 -- created : 2026-09-30T21:16:21.842605+00:00
 -- url     : https://prove2.me/theorems/7d89c248-e8ea-460e-afc5-b03f14c523ec

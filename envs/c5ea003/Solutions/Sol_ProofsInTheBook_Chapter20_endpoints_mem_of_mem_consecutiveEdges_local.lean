@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.endpoints_mem_of_mem_consecutiveEdges_local
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:51:00.817329+00:00
 -- url     : https://prove2.me/submissions/8dba81a8-0a85-4c07-9379-41543ee0d850
 

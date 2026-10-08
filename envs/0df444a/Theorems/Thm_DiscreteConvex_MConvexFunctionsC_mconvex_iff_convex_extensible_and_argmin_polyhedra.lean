@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsC_mconvex_iff_convex_extensible_and_argmin_polyhedra
 -- name    : DiscreteConvex.MConvexFunctionsC.mconvex_iff_convex_extensible_and_argmin_polyhedra
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:43:54.041714+00:00
 -- url     : https://prove2.me/theorems/948369b5-09dd-46f5-ad17-3c2726dc37b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustGeneralization_BernUpper_theorem27_single_sample_generalization
 -- name    : RobustGeneralization.BernUpper.theorem27_single_sample_generalization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:31:06.620145+00:00
 -- url     : https://prove2.me/theorems/d15b9967-48a6-4f7b-98be-e577d48b5d41

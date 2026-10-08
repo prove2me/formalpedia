@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_ShippingCost_apd_pareto_improves_pull
 -- name    : CachonPushPull.ShippingCost.apd_pareto_improves_pull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:40:29.554447+00:00
 -- url     : https://prove2.me/theorems/02eaa906-0c0a-400b-9a56-97f827f7f42c

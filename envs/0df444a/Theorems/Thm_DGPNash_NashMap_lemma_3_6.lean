@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DGPNash_NashMap_lemma_3_6
 -- name    : DGPNash.NashMap.lemma_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:37:03.586449+00:00
 -- url     : https://prove2.me/theorems/79187767-6cc8-4da5-ab8a-df349f549c86

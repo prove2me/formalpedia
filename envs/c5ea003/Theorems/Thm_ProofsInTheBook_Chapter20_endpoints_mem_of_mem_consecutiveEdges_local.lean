@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_endpoints_mem_of_mem_consecutiveEdges_local
 -- name    : ProofsInTheBook.Chapter20.endpoints_mem_of_mem_consecutiveEdges_local
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:14.523825+00:00
 -- url     : https://prove2.me/theorems/8a93e9ef-c5e4-4adf-9887-850b948d6f82
 -- title:

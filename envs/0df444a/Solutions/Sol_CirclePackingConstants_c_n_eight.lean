@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CirclePackingConstants.c_n_eight
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @cm_beta
 -- created : 2026-09-21T03:00:08.595342+00:00
 -- url     : https://prove2.me/submissions/90437c1e-1ddb-48d3-b8bd-8e52257e602f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CirclePackingConstants_r_n_eight_lower
 import Theorems.Thm_CirclePackingConstants_r_n_eight_upper

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_PlanarMap_PlaneSimpleGraph_fiveColor_planeSimpleGraph
 -- name    : ProofsInTheBook.PlanarMap.PlaneSimpleGraph.fiveColor_planeSimpleGraph
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T19:49:26.668231+00:00
 -- url     : https://prove2.me/theorems/5c795937-177f-4cc3-b78e-9f6cf98cfaad
 -- title:

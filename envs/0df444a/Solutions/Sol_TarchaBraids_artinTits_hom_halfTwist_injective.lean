@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TarchaBraids.artinTits_hom_halfTwist_injective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @cm_beta
 -- created : 2026-09-21T17:38:08.910328+00:00
 -- url     : https://prove2.me/submissions/8daa2722-63c0-4c93-8a42-d8efa98bca19
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_BraidsLinksMCG_artinBraidGroup_equiv_artinTits_generatorMatched
 import Theorems.Thm_TarchaBraids_thm_3_15_half_twist_hom_injective

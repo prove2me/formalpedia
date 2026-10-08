@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_protection_level_std_dev_sensitivity
 -- name    : SeatInventory.Gaussian.protection_level_std_dev_sensitivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:02:12.208613+00:00
 -- url     : https://prove2.me/theorems/068e5501-1342-4afe-9d10-de08cc0f3f94

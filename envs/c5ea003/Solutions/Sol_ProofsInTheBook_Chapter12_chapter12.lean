@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter12.chapter12
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:16.963016+00:00
 -- url     : https://prove2.me/submissions/e057f085-ae32-4f08-af58-a29c9c80edee
 

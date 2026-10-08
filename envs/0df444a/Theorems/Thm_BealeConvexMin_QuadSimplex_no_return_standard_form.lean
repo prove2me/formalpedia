@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BealeConvexMin_QuadSimplex_no_return_standard_form
 -- name    : BealeConvexMin.QuadSimplex.no_return_standard_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:36:04.341284+00:00
 -- url     : https://prove2.me/theorems/e13bc6ad-fe34-45bc-b4e3-1d995d07f3c3

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TarchaBraids.halfTwist_hom_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-09-21T18:13:40.762567+00:00
 -- url     : https://prove2.me/submissions/b67b85da-aa5b-48b0-ac4f-12f41c401ef4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BraidsLinksMCG_ArtinBraidGroup

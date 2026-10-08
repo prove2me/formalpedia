@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter07.chapter07_sqrt_prime
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:43:35.933103+00:00
 -- url     : https://prove2.me/submissions/00d49b85-20a2-4b14-9f91-a82f184f6119
 

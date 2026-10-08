@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter07_chapter07_pi_irrational
 -- name    : ProofsInTheBook.Chapter07.chapter07_pi_irrational
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:42:49.745985+00:00
 -- url     : https://prove2.me/theorems/3943d66a-e68a-4453-8bc3-9ea4b511d7e1
 -- title:

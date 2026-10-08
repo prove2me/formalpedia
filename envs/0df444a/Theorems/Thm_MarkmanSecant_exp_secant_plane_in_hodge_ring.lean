@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarkmanSecant_exp_secant_plane_in_hodge_ring
 -- name    : MarkmanSecant.exp_secant_plane_in_hodge_ring
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T15:04:02.217747+00:00
 -- url     : https://prove2.me/theorems/a39a0282-0c88-48b3-ba7c-dd303bc164dc

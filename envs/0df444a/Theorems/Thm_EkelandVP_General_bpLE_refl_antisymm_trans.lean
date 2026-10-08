@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_General_bpLE_refl_antisymm_trans
 -- name    : EkelandVP.General.bpLE_refl_antisymm_trans
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:48:24.776217+00:00
 -- url     : https://prove2.me/theorems/592ddec2-6b74-4763-8e5b-f1a468aaa927

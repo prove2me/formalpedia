@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.squareBoundaryVertexChainRGCount_odd_of_side_colors
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:51:12.546005+00:00
 -- url     : https://prove2.me/submissions/f9e501f4-3596-4cbb-bb48-c679fccb91c3
 

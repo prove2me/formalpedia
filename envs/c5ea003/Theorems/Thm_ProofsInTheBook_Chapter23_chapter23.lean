@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter23_chapter23
 -- name    : ProofsInTheBook.Chapter23.chapter23
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:43.524177+00:00
 -- url     : https://prove2.me/theorems/7cce131c-93ff-4234-8670-7216301aa83b
 -- title:

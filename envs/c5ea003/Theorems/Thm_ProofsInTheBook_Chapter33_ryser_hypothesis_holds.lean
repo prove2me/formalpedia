@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_ryser_hypothesis_holds
 -- name    : ProofsInTheBook.Chapter33.ryser_hypothesis_holds
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:51.19187+00:00
 -- url     : https://prove2.me/theorems/a565033e-efed-4de3-80c2-dc4d0d259dea
 -- title:

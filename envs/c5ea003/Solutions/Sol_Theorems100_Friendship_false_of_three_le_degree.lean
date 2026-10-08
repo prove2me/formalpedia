@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Theorems100.Friendship.false_of_three_le_degree
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:44:59.362514+00:00
 -- url     : https://prove2.me/submissions/d1bc9fcc-accf-4e2f-9467-a724023e85f0
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_RKHS_lemma20
 -- name    : StabGen.RKHS.lemma20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:56:34.175181+00:00
 -- url     : https://prove2.me/theorems/a29c1a63-a669-4de9-8f4c-9d9e9242ac42

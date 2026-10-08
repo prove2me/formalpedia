@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_KnownMoments_phi_closed_form_and_maximum
 -- name    : WorstCaseVaR.KnownMoments.phi_closed_form_and_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:15:37.304876+00:00
 -- url     : https://prove2.me/theorems/7398ea44-208b-4150-8268-7e16325bef1d

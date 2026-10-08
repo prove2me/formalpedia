@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_lk_algebra_of_exponent_and_pushforward
 -- name    : AvramDividend.Classical.bv_lk_algebra_of_exponent_and_pushforward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T10:02:21.48357+00:00
 -- url     : https://prove2.me/theorems/197bbf59-a5e1-4567-8f43-0fad5bf8421d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KannanLattice_Core_exists_reduced_basis
 -- name    : KannanLattice.Core.exists_reduced_basis
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:13:18.545854+00:00
 -- url     : https://prove2.me/theorems/4bc1cce6-1665-4676-ac31-907a0aa4a8b3

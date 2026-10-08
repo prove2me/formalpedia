@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter04_ZagierTriple_exists_sq_add_sq_of_prime_mod_four_eq_one
 -- name    : ProofsInTheBook.Chapter04.ZagierTriple.exists_sq_add_sq_of_prime_mod_four_eq_one
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:40:35.37607+00:00
 -- url     : https://prove2.me/theorems/d6c95d70-0266-46ea-b066-11feb9ab2fd7
 -- title:

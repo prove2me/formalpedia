@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Bounds_lemma4_SLow_rule
 -- name    : VeinottWagnerSS.Bounds.lemma4_SLow_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:48:46.235062+00:00
 -- url     : https://prove2.me/theorems/2a54e548-3e3b-4ca4-9f3a-c3d10c34f91b

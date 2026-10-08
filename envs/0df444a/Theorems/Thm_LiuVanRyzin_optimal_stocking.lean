@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiuVanRyzin_optimal_stocking
 -- name    : LiuVanRyzin.optimal_stocking
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:39:26.190136+00:00
 -- url     : https://prove2.me/theorems/5a2bf6f9-c5d0-4a1f-a6aa-4463bfeb5ccc

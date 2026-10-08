@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AKR2008_osc_gaussian_delta_limit
 -- name    : AKR2008.osc_gaussian_delta_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-28T00:06:04.742201+00:00
 -- url     : https://prove2.me/theorems/243426f1-c8d4-4c86-93fd-35748e53f3a9

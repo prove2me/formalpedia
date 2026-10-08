@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsExtension_weyl_friedrichs_extension_unconditional
 -- name    : BookProof.FriedrichsExtension.weyl_friedrichs_extension_unconditional
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:33:17.175222+00:00
 -- url     : https://prove2.me/theorems/31b729d5-5d48-4a87-b03c-b88f1ef5c4c3

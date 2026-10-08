@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_limit_expenditure_minimization
 -- name    : ArrowDebreu.ThmII.limit_expenditure_minimization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:31:55.397949+00:00
 -- url     : https://prove2.me/theorems/8d48d23f-3172-45ae-ae54-c6fa51bef590

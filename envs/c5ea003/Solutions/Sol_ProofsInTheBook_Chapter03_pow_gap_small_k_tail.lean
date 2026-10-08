@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.pow_gap_small_k_tail
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:29.069724+00:00
 -- url     : https://prove2.me/submissions/cc97c64f-e511-4b63-a81c-999853bae71c
 

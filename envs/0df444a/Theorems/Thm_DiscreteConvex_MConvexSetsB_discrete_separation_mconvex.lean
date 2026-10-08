@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_discrete_separation_mconvex
 -- name    : DiscreteConvex.MConvexSetsB.discrete_separation_mconvex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:31:22.102215+00:00
 -- url     : https://prove2.me/theorems/b0e1201f-4e04-4b41-838a-32651c8c90aa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Simulation_winning_defeats_randomized
 -- name    : OnlineRandomization.Simulation.winning_defeats_randomized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:35:43.55498+00:00
 -- url     : https://prove2.me/theorems/d2e27a6e-6264-4099-b02e-aa8d8241f780

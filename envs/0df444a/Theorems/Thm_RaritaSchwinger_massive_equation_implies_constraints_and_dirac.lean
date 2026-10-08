@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RaritaSchwinger_massive_equation_implies_constraints_and_dirac
 -- name    : RaritaSchwinger.massive_equation_implies_constraints_and_dirac
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T11:40:42.65527+00:00
 -- url     : https://prove2.me/theorems/b677aeac-cd37-4a01-b93a-abe0fe77cb2e

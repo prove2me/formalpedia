@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CalibratedCE_Forecast_exists_calibrated_randomized_forecast
 -- name    : CalibratedCE.Forecast.exists_calibrated_randomized_forecast
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:38:46.370773+00:00
 -- url     : https://prove2.me/theorems/3472903c-8fea-42dd-bdc2-cc8400ff0e91

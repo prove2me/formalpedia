@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LiuVanRyzin_segProfit_strictConcave_maximizer
 -- name    : LiuVanRyzin.segProfit_strictConcave_maximizer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:38:26.087651+00:00
 -- url     : https://prove2.me/theorems/1c173bb5-f5a2-4fa5-8c21-2451fab5914b

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_hadamard_order
 -- name    : BookSixth.hadamard_order
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:38.890325+00:00
 -- url     : https://prove2.me/theorems/9f3d1609-d6cf-4e6f-96ee-d1578525e991
 -- title:

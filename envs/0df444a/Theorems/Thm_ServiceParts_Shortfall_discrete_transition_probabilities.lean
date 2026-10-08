@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_discrete_transition_probabilities
 -- name    : ServiceParts.Shortfall.discrete_transition_probabilities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:35:44.745644+00:00
 -- url     : https://prove2.me/theorems/7f64b6d0-b39c-4aa8-86f6-a2f69dd0ea46

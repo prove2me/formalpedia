@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_theorem7_deviation_bound
 -- name    : CongestionPoA.SymMax.theorem7_deviation_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:10:55.56387+00:00
 -- url     : https://prove2.me/theorems/4a7a6876-28d9-484b-a930-6e408e6699fa

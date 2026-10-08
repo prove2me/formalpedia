@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_KnownMoments_conditions_C1_C2_iff_tau_certificate
 -- name    : WorstCaseVaR.KnownMoments.conditions_C1_C2_iff_tau_certificate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:13:59.816134+00:00
 -- url     : https://prove2.me/theorems/969718ea-8a03-4ccf-895b-9324e68f4d82

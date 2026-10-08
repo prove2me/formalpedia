@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22Gurvits.gurvits_product_telescopes
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:23.80991+00:00
 -- url     : https://prove2.me/submissions/f472cf6a-3042-437d-b768-ab14e0b5f7bf
 

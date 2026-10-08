@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialEquilibrium_Existence_pi_isPolyhedron_isContractible
 -- name    : SocialEquilibrium.Existence.pi_isPolyhedron_isContractible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:41:24.920364+00:00
 -- url     : https://prove2.me/theorems/f0701a6c-6049-4358-a9ee-68b3b068ea6d

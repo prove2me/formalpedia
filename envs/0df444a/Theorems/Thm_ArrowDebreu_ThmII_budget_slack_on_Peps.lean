@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_budget_slack_on_Peps
 -- name    : ArrowDebreu.ThmII.budget_slack_on_Peps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:16:45.90122+00:00
 -- url     : https://prove2.me/theorems/619c2491-8b9b-4c90-ab9b-d83af286c880

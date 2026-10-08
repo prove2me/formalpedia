@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProximalBanach_Hybrid_hybrid_proximal_strong_convergence
 -- name    : ProximalBanach.Hybrid.hybrid_proximal_strong_convergence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:10:40.767893+00:00
 -- url     : https://prove2.me/theorems/5d035c51-8e08-4c56-904d-62502ccc0240

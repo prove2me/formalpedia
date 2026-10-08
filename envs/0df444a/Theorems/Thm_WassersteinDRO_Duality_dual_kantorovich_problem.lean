@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Duality_dual_kantorovich_problem
 -- name    : WassersteinDRO.Duality.dual_kantorovich_problem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:17:55.479833+00:00
 -- url     : https://prove2.me/theorems/1f01a6be-774e-40f3-b1a5-c5b5265150c9

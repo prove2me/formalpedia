@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscLower_competitive_stopByProb_ge
 -- name    : SecretaryWD.DiscLower.competitive_stopByProb_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:35:51.014927+00:00
 -- url     : https://prove2.me/theorems/47c30083-5f29-4358-a932-e177586d855d

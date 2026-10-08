@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_ZeroSetup_V_decreasingDifferences
 -- name    : GallegoOzerADI.ZeroSetup.V_decreasingDifferences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:56:01.343629+00:00
 -- url     : https://prove2.me/theorems/e41420ca-b62e-41aa-b582-688ef8b25540

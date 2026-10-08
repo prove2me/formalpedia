@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Marginal_firstOrder_worstCaseVaR_eq
 -- name    : DRCVRP.Marginal.firstOrder_worstCaseVaR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:39:09.04982+00:00
 -- url     : https://prove2.me/theorems/d42ee8f6-a477-405a-8427-3bca199c1082

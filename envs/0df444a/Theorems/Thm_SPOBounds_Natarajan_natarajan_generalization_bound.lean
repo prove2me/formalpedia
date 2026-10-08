@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPOBounds_Natarajan_natarajan_generalization_bound
 -- name    : SPOBounds.Natarajan.natarajan_generalization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:30:30.954443+00:00
 -- url     : https://prove2.me/theorems/0d0183c1-3817-4431-b0a5-0f446bcee82a

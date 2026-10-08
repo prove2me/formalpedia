@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Palm_lost_sales_truncated_poisson
 -- name    : ServiceParts.Palm.lost_sales_truncated_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:42:11.281985+00:00
 -- url     : https://prove2.me/theorems/8cd3f377-c435-4383-8988-43a4e9a1da2c

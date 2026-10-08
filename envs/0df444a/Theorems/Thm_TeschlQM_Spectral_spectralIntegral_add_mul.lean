@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Spectral_spectralIntegral_add_mul
 -- name    : TeschlQM.Spectral.spectralIntegral_add_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:29:38.727756+00:00
 -- url     : https://prove2.me/theorems/07e91749-e945-4056-af6b-b739c5afa002

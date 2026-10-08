@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for JordanCurve.accessibility_from_arc_complement
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-09-25T00:37:34.633276+00:00
 -- url     : https://prove2.me/submissions/9c9b6466-98db-46e5-9bab-c59699f08110
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_JordanCurve_jordan_frontier_intersection_dense_from_arc_complement
 import Mathlib.Topology.Closure

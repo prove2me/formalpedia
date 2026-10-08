@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter28_chapter28_dilworth_lower_bound
 -- name    : ProofsInTheBook.Chapter28.chapter28_dilworth_lower_bound
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:09:00.618012+00:00
 -- url     : https://prove2.me/theorems/27d733f4-675a-4efb-8e33-d264c0961405
 -- title:

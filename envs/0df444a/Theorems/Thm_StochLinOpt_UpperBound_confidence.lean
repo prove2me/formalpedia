@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochLinOpt_UpperBound_confidence
 -- name    : StochLinOpt.UpperBound.confidence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:33:16.50499+00:00
 -- url     : https://prove2.me/theorems/867a0888-26a6-41d3-84fd-3c2450f55542

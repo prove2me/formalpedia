@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FCP_Transcendence_irrational_catalanConstant
 -- name    : FCP.Transcendence.irrational_catalanConstant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-15T20:55:40.749887+00:00
 -- url     : https://prove2.me/theorems/b4eb2968-6f82-4e40-829e-b93139bf1bae

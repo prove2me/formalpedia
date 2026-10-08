@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityC_prop_3_22_periodic_local_optimality
 -- name    : DiscreteConvex.IntegralConvexityC.prop_3_22_periodic_local_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:12:41.545846+00:00
 -- url     : https://prove2.me/theorems/42c76207-fda8-461b-8b08-9d35af5af87e

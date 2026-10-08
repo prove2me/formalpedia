@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_Entropy_dual_function_closed_form
 -- name    : WorstCaseVaR.Entropy.dual_function_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:18:36.569479+00:00
 -- url     : https://prove2.me/theorems/974b572e-7599-4392-b281-efe1995bc1e1

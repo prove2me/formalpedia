@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_circle_loop_classification
 -- name    : BraidsLinksMCG.circle_loop_classification
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-28T21:07:52.349589+00:00
 -- url     : https://prove2.me/theorems/26be8809-8d60-4f45-9b4f-c3e551d6b781

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter28.chapter28_dilworth_lower_bound
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:14.147607+00:00
 -- url     : https://prove2.me/submissions/3600adeb-f5d8-458f-beb7-ed4ae3d8bd52
 

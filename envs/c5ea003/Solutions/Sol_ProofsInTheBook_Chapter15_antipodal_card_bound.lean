@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter15.antipodal_card_bound
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:41:30.214756+00:00
 -- url     : https://prove2.me/submissions/77e91fac-25b2-4b01-aede-0d7b2ed3759c
 

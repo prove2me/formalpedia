@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter21_chapter21
 -- name    : ProofsInTheBook.Chapter21.chapter21
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:17:55.074897+00:00
 -- url     : https://prove2.me/theorems/47e2e051-093a-476f-a753-0b7fd7f5c152
 -- title:

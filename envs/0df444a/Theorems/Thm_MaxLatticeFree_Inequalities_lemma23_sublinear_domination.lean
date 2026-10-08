@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Inequalities_lemma23_sublinear_domination
 -- name    : MaxLatticeFree.Inequalities.lemma23_sublinear_domination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:00:43.04198+00:00
 -- url     : https://prove2.me/theorems/33c3d26d-d046-4c10-af2f-650aa6313eaa

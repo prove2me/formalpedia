@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter28_chapter28_sperner
 -- name    : ProofsInTheBook.Chapter28.chapter28_sperner
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:08:55.502967+00:00
 -- url     : https://prove2.me/theorems/77e2097c-7100-42f9-b742-6ca7c5a26d3f
 -- title:

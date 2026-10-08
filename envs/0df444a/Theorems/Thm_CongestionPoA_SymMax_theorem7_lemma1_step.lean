@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_theorem7_lemma1_step
 -- name    : CongestionPoA.SymMax.theorem7_lemma1_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:11:40.021988+00:00
 -- url     : https://prove2.me/theorems/2680dea1-729e-4c7e-b503-305b9d0df8c3

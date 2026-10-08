@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter30.total_sum_eq_good_sum_of_bad_sign_reversing
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:27:43.7968+00:00
 -- url     : https://prove2.me/submissions/350c531a-b39a-4346-8d7b-0bec75ad686e
 

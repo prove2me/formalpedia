@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Marking_marking_competitive
 -- name    : CompetitivePaging.Marking.marking_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:12:49.009247+00:00
 -- url     : https://prove2.me/theorems/8bb522ba-3abc-46ab-b5be-46e9e677babf

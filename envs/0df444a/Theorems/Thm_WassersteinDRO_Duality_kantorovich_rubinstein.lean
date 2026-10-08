@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Duality_kantorovich_rubinstein
 -- name    : WassersteinDRO.Duality.kantorovich_rubinstein
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:18:28.681975+00:00
 -- url     : https://prove2.me/theorems/c94176b8-0f5c-4c1a-87ab-8484330e406a

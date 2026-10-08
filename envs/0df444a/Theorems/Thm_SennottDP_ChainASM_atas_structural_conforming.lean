@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_atas_structural_conforming
 -- name    : SennottDP.ChainASM.atas_structural_conforming
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:00:54.091987+00:00
 -- url     : https://prove2.me/theorems/9bc82674-81e7-4edc-9c21-18b31e5f8468

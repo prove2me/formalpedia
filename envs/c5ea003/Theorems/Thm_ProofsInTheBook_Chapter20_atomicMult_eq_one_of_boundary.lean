@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_atomicMult_eq_one_of_boundary
 -- name    : ProofsInTheBook.Chapter20.atomicMult_eq_one_of_boundary
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:04.138183+00:00
 -- url     : https://prove2.me/theorems/4bd7d68a-47c0-4b39-94c7-6a6c512da86c
 -- title:

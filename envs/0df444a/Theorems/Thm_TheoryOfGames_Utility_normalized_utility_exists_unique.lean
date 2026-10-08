@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_normalized_utility_exists_unique
 -- name    : TheoryOfGames.Utility.normalized_utility_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:18:30.227206+00:00
 -- url     : https://prove2.me/theorems/9fa653bf-e881-41c0-bdd2-6745db0c3be0

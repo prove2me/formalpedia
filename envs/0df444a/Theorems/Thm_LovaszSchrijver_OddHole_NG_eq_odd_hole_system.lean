@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LovaszSchrijver_OddHole_NG_eq_odd_hole_system
 -- name    : LovaszSchrijver.OddHole.NG_eq_odd_hole_system
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:50:32.751666+00:00
 -- url     : https://prove2.me/theorems/0c4881d3-1140-4b56-8498-218f6e100a7d

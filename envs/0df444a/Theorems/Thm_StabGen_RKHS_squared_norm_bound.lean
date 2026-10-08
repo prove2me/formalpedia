@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_RKHS_squared_norm_bound
 -- name    : StabGen.RKHS.squared_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:56:33.318809+00:00
 -- url     : https://prove2.me/theorems/4df83bad-ca41-4367-9f2f-d9218a43838b

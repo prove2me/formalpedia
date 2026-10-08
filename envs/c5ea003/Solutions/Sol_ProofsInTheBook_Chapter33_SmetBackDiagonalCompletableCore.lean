@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.SmetBackDiagonalCompletableCore
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:34.789038+00:00
 -- url     : https://prove2.me/submissions/ae4d336a-4b21-4e86-9d15-76cb5d35ff0d
 

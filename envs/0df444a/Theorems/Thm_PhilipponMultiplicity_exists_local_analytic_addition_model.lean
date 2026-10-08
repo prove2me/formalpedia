@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_local_analytic_addition_model
 -- name    : PhilipponMultiplicity.exists_local_analytic_addition_model
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-02T22:04:26.19134+00:00
 -- url     : https://prove2.me/theorems/1c4c4b85-a17a-49d8-91cc-7e289621e4ed

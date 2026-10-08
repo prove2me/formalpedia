@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani1980_Region_conservation_polytope_eq_priority_hull
 -- name    : CoffmanMitrani1980.Region.conservation_polytope_eq_priority_hull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:16:44.882841+00:00
 -- url     : https://prove2.me/theorems/d63f0fef-c628-43e5-a3f7-7638b2d95216

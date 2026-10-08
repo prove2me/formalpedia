@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.sigmaDoorSet_card_duplicate_of_door
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:31.058956+00:00
 -- url     : https://prove2.me/submissions/17ab78f8-b2be-4908-8745-692ce5c3f13d
 

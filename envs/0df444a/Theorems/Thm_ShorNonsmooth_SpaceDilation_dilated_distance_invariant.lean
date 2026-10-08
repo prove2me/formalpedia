@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SpaceDilation_dilated_distance_invariant
 -- name    : ShorNonsmooth.SpaceDilation.dilated_distance_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T16:07:36.277973+00:00
 -- url     : https://prove2.me/theorems/bbf3deb6-44b6-4433-b347-574e6da21222

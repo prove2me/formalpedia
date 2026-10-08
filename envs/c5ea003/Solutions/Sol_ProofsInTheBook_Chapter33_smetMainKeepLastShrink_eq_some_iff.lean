@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.smetMainKeepLastShrink_eq_some_iff
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:09.190498+00:00
 -- url     : https://prove2.me/submissions/98e4d4b5-b603-4707-89c8-6e1ab0fe963b
 

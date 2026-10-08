@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_c_n_eight
 -- name    : CirclePackingConstants.c_n_eight
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-12T13:29:36.804021+00:00
 -- url     : https://prove2.me/theorems/846ab6ac-40a6-44f5-af6b-8a14e94f0fa1

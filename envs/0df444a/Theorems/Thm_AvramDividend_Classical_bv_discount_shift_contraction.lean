@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_discount_shift_contraction
 -- name    : AvramDividend.Classical.bv_discount_shift_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T10:12:06.441233+00:00
 -- url     : https://prove2.me/theorems/0577b9b0-670a-495d-b5fe-7dadf92162b4

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_sigmaDoorSetOf_card_duplicate_of_door
 -- name    : ProofsInTheBook.Chapter39.sigmaDoorSetOf_card_duplicate_of_door
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:35.23124+00:00
 -- url     : https://prove2.me/theorems/621ee1e7-159e-4b1c-9be9-000e4d367126
 -- title:

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TarchaBraids.halfTwist_free_lift_surjective_acyclic_v1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @junyihjy
 -- created : 2026-09-27T21:35:55.364839+00:00
 -- url     : https://prove2.me/submissions/dcda2bde-a9f0-4fb4-97d1-771171119074
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BraidsLinksMCG_ConfigSpace

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_crossing_lemma
 -- name    : BookSixth.crossing_lemma
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:16.619744+00:00
 -- url     : https://prove2.me/theorems/634d53d7-5229-4fc2-9b69-d155a2613bce
 -- title:

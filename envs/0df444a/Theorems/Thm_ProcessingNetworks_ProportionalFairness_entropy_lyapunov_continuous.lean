@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_entropy_lyapunov_continuous
 -- name    : ProcessingNetworks.ProportionalFairness.entropy_lyapunov_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:25:08.710754+00:00
 -- url     : https://prove2.me/theorems/f76eabf7-c6f7-436a-a5a1-f2b54e9860e5

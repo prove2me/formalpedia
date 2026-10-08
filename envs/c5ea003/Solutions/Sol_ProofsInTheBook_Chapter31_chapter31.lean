@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter31.chapter31
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:15.22363+00:00
 -- url     : https://prove2.me/submissions/614dddd6-6c8b-46f2-81b4-3ab83f1d5613
 

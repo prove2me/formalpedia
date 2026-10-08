@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_odd_sum_le_485_primes
 -- name    : odd_sum_le_485_primes
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-03T22:25:43.19217+00:00
 -- url     : https://prove2.me/theorems/9503ab35-eb8f-4296-9574-a4d9be946a50

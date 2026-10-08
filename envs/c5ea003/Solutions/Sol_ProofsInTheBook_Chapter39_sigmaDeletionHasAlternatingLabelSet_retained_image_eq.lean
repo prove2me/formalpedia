@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.sigmaDeletionHasAlternatingLabelSet_retained_image_eq
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:27.640839+00:00
 -- url     : https://prove2.me/submissions/5a3ed9ac-e476-4ad8-98ad-e33324ea49a4
 

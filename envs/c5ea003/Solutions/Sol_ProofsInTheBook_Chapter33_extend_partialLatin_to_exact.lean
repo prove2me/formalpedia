@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.extend_partialLatin_to_exact
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:46.302006+00:00
 -- url     : https://prove2.me/submissions/a9800895-72d0-44ca-95d8-9d29de6ba34e
 

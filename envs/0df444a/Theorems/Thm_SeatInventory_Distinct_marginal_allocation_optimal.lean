@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Distinct_marginal_allocation_optimal
 -- name    : SeatInventory.Distinct.marginal_allocation_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:23:49.519112+00:00
 -- url     : https://prove2.me/theorems/d78f1374-1f13-493a-bce0-e391ccf4bc31

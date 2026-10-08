@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Ch13Cauchy3D_chapter13_cauchy_rigidity_v2
 -- name    : ProofsInTheBook.Ch13Cauchy3D.chapter13_cauchy_rigidity_v2
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T21:08:29.902742+00:00
 -- url     : https://prove2.me/theorems/b6d37a4e-dbc4-4c15-b8f3-2dd42ee7f1af
 -- title:

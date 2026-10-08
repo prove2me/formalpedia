@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_pareto_set_push_pull
 -- name    : CachonPushPull.Pareto.pareto_set_push_pull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:30:47.527984+00:00
 -- url     : https://prove2.me/theorems/6f672bc6-1820-4c2d-a094-2b92eaf55bbb

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_PolygonGeometryDischarge_artGallery_strict_of_residue
 -- name    : ProofsInTheBook.PolygonGeometryDischarge.artGallery_strict_of_residue
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T18:32:04.485326+00:00
 -- url     : https://prove2.me/theorems/5c7565f2-6ed2-4100-a4b8-c71001e15cd2
 -- title:

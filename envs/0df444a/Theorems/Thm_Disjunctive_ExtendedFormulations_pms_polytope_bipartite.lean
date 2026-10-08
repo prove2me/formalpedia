@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_ExtendedFormulations_pms_polytope_bipartite
 -- name    : Disjunctive.ExtendedFormulations.pms_polytope_bipartite
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:32:51.733349+00:00
 -- url     : https://prove2.me/theorems/b8c36ff3-865e-4ea6-bee6-de2e3b5d6996

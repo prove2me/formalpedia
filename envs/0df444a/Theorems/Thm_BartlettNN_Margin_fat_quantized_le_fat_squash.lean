@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettNN_Margin_fat_quantized_le_fat_squash
 -- name    : BartlettNN.Margin.fat_quantized_le_fat_squash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:05:45.838593+00:00
 -- url     : https://prove2.me/theorems/dab8916b-b49b-499c-89eb-26a7c032783a

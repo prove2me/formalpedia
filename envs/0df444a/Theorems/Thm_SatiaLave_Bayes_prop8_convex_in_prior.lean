@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_Bayes_prop8_convex_in_prior
 -- name    : SatiaLave.Bayes.prop8_convex_in_prior
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:43:51.981089+00:00
 -- url     : https://prove2.me/theorems/1df841b1-5fad-4d0f-b14b-b6b48ecce6c4

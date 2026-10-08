@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_KatoRellich_kato_rellich
 -- name    : TeschlQM.KatoRellich.kato_rellich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T22:28:46.354986+00:00
 -- url     : https://prove2.me/theorems/5b1db298-0240-4422-954a-5217bff8ea8f

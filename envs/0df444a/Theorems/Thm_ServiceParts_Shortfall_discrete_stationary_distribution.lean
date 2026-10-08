@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_discrete_stationary_distribution
 -- name    : ServiceParts.Shortfall.discrete_stationary_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:41:17.212988+00:00
 -- url     : https://prove2.me/theorems/dfc842a8-4eb4-4bd5-9672-f8d48a3ac2ba

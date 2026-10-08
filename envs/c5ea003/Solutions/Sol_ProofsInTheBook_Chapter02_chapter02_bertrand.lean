@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter02.chapter02_bertrand
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:52:46.955096+00:00
 -- url     : https://prove2.me/submissions/62866dc0-cea9-4fb9-bea4-a2d956697b24
 

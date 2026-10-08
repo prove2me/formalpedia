@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos52_solymosi_four_thirds
 -- name    : Erdos52.solymosi_four_thirds
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T16:36:12.965279+00:00
 -- url     : https://prove2.me/theorems/98bc26ef-fbdf-44fb-8263-000027efa721

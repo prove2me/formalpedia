@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_OrderQty_integral_A_chain
 -- name    : ZhengQR.OrderQty.integral_A_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:53:57.276976+00:00
 -- url     : https://prove2.me/theorems/6864e312-791e-4df5-b2ab-7c7cbd52c583

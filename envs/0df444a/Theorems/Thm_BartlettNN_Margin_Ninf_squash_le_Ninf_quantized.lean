@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BartlettNN_Margin_Ninf_squash_le_Ninf_quantized
 -- name    : BartlettNN.Margin.Ninf_squash_le_Ninf_quantized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:05:51.265806+00:00
 -- url     : https://prove2.me/theorems/db5e8b21-80b6-4d26-bb7a-c7b3ce286704

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_CutCorrespondence_simple_disj_cut_eq_lp_cut
 -- name    : Disjunctive.CutCorrespondence.simple_disj_cut_eq_lp_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:48:21.579988+00:00
 -- url     : https://prove2.me/theorems/6dc6be1c-5025-438c-9708-1f791a33e321

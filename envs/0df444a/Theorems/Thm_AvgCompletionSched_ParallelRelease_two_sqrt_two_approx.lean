@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_ParallelRelease_two_sqrt_two_approx
 -- name    : AvgCompletionSched.ParallelRelease.two_sqrt_two_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:59:02.408114+00:00
 -- url     : https://prove2.me/theorems/24146161-0637-46dd-8d19-10056d48f66a

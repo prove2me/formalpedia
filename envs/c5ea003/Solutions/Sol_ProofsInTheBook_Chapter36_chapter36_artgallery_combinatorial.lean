@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter36.chapter36_artgallery_combinatorial
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:44:47.848889+00:00
 -- url     : https://prove2.me/submissions/64ab9c53-b103-47cb-bd26-d4e69255dc82
 

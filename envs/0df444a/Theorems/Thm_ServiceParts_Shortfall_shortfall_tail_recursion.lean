@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_shortfall_tail_recursion
 -- name    : ServiceParts.Shortfall.shortfall_tail_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:28:28.841854+00:00
 -- url     : https://prove2.me/theorems/74997d72-dd1a-41b9-a07e-5f8ced0a2ff2

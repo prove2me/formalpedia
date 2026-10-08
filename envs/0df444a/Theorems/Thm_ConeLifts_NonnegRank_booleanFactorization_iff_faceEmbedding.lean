@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_NonnegRank_booleanFactorization_iff_faceEmbedding
 -- name    : ConeLifts.NonnegRank.booleanFactorization_iff_faceEmbedding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:13:02.461464+00:00
 -- url     : https://prove2.me/theorems/b03e2be1-a349-4689-8dce-b48b3f0b9f64

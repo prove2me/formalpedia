@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_BookSixth
 -- name    : BookSixth
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:19:47.067229+00:00
 -- url     : https://prove2.me/theorems/b1fcef2b-61fb-4326-bde6-cb6070d37c77
 -- title:

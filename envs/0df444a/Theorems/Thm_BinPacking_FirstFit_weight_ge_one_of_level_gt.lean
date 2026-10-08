@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_FirstFit_weight_ge_one_of_level_gt
 -- name    : BinPacking.FirstFit.weight_ge_one_of_level_gt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:06:46.057522+00:00
 -- url     : https://prove2.me/theorems/e47e202f-48fd-4028-9c5c-dd0256df93c6

@@ -1,0 +1,20 @@
+-- Prove2me | solution 1 for MazurTransfer.order49_recurrence5_exact_integer_field_3
+-- status  : ACCEPTED   (prove)
+-- author  : @Vas
+-- created : 2026-10-07T11:56:59.935684+00:00
+-- url     : https://prove2.me/submissions/7dbe096d-4e31-4827-9cfb-be955e252af4
+
+import Definitions.Def_MazurTransfer_Order49Recurrence5DenseIntegerChunkDataPart1
+import Definitions.Def_MazurTransfer_Order49Recurrence3IntegerArithmetic
+import Definitions.Def_MazurTransfer_Order49Recurrence3StandaloneDenseData3
+import Definitions.Def_MazurTransfer_Order49ResultantRecurrenceData5
+import Definitions.Def_MazurTransfer_ExactEqualityCertificate
+open Polynomial
+theorem solution : @MazurTransfer.ExactEqualityCertificate (List Int)
+  (MazurTransfer.Order49Recurrence3Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.IntegerDenseCertificate.mul
+    MazurTransfer.Order49Recurrence5DenseCandidate.a3Square
+    MazurTransfer.Order49Recurrence5DenseCandidate.exceptionalNumerator)
+  MazurTransfer.Order49Recurrence5DenseCandidate.exceptionalProductNumerator := by
+  constructor
+  rfl
+#print axioms solution

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiophantinePreprocessing_FrankTardos_preprocessing_output_criteria
 -- name    : DiophantinePreprocessing.FrankTardos.preprocessing_output_criteria
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:41:54.430827+00:00
 -- url     : https://prove2.me/theorems/d5356ef4-6bf1-4281-b8a1-249123e7c59a

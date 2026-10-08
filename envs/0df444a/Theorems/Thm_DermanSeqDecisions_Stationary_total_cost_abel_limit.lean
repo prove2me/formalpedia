@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Stationary_total_cost_abel_limit
 -- name    : DermanSeqDecisions.Stationary.total_cost_abel_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:12:24.054095+00:00
 -- url     : https://prove2.me/theorems/9d53c608-1da7-43d2-ba66-65601cf0d07b

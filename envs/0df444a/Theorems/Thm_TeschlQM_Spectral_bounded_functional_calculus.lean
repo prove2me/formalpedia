@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Spectral_bounded_functional_calculus
 -- name    : TeschlQM.Spectral.bounded_functional_calculus
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:28:32.014765+00:00
 -- url     : https://prove2.me/theorems/f3e5b3aa-2c72-4f5a-a971-b6db8497150c

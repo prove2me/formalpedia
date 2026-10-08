@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Theorems100_Friendship_neighborFinset_eq_of_degree_eq_two
 -- name    : Theorems100.Friendship.neighborFinset_eq_of_degree_eq_two
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:42:13.710526+00:00
 -- url     : https://prove2.me/theorems/6056feb3-2cac-41fb-b9b4-b3c404511959
 -- title:

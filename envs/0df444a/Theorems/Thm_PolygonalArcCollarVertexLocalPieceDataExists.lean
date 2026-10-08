@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolygonalArcCollarVertexLocalPieceDataExists
 -- name    : PolygonalArcCollarVertexLocalPieceDataExists
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-28T04:12:30.764996+00:00
 -- url     : https://prove2.me/theorems/2f646d30-5ea9-4967-8b39-d65a9b0e2557

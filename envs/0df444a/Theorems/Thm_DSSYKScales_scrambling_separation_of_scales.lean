@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DSSYKScales_scrambling_separation_of_scales
 -- name    : DSSYKScales.scrambling_separation_of_scales
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:48:38.063774+00:00
 -- url     : https://prove2.me/theorems/023fb7e9-4825-43ce-bba2-0b7b61388d1c

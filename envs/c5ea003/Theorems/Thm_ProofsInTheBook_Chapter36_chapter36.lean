@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter36_chapter36
 -- name    : ProofsInTheBook.Chapter36.chapter36
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:40:59.821856+00:00
 -- url     : https://prove2.me/theorems/9cfc3924-b24f-4e50-b98f-b3ec9df262a2
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter18_chapter18_cauchy_schwarz
 -- name    : ProofsInTheBook.Chapter18.chapter18_cauchy_schwarz
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:17:21.416349+00:00
 -- url     : https://prove2.me/theorems/35465b85-75b1-4482-9cf6-03aacc27c78b
 -- title:

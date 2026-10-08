@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Distinct_lp_top_n_optimal
 -- name    : SeatInventory.Distinct.lp_top_n_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:23:42.692027+00:00
 -- url     : https://prove2.me/theorems/4e5b978b-79d0-4846-b471-eb5a4d952b78

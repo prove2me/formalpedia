@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Shrinkage_distributionally_robust_mmse_estimator
 -- name    : WassersteinDRO.Shrinkage.distributionally_robust_mmse_estimator
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:52:33.23903+00:00
 -- url     : https://prove2.me/theorems/0045abcc-74c8-4c06-ae4c-d81420ef788b

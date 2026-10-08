@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscLower_stopByProb_coupling
 -- name    : SecretaryWD.DiscLower.stopByProb_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:35:55.561536+00:00
 -- url     : https://prove2.me/theorems/ed5547ac-cab9-4a83-83bd-84a843b280f0

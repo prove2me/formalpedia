@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_sixthEditionExtension
 -- name    : BookSixth.sixthEditionExtension
--- status  : Open
--- author  : @xiangyazi24
+-- status  : Proved
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:44:03.634363+00:00
 -- url     : https://prove2.me/theorems/0c1b4f17-fcc0-404b-a44d-c5400d283151
 -- title:

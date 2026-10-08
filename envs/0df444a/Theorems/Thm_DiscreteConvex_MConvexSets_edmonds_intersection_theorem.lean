@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSets_edmonds_intersection_theorem
 -- name    : DiscreteConvex.MConvexSets.edmonds_intersection_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:19:08.999757+00:00
 -- url     : https://prove2.me/theorems/2b1ab7e1-be3d-453f-b7e2-b863e229a8f0

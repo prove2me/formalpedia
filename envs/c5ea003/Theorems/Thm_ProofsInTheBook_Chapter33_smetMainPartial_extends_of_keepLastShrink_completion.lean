@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_smetMainPartial_extends_of_keepLastShrink_completion
 -- name    : ProofsInTheBook.Chapter33.smetMainPartial_extends_of_keepLastShrink_completion
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:12.173738+00:00
 -- url     : https://prove2.me/theorems/592e8ff9-5aa5-4f7f-84ea-0010b62f70fa
 -- title:

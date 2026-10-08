@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_large_prime_factor_choose_of_pow_gap
 -- name    : ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_pow_gap
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:31.985009+00:00
 -- url     : https://prove2.me/theorems/e39678d3-1b4a-49b6-aca5-3d52f1c13bb8
 -- title:

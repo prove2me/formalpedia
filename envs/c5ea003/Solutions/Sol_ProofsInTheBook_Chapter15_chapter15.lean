@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter15.chapter15
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:41:31.763416+00:00
 -- url     : https://prove2.me/submissions/58114a83-c87e-47eb-a143-6e5848b07c15
 

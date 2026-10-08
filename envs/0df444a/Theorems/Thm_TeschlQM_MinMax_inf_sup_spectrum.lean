@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_MinMax_inf_sup_spectrum
 -- name    : TeschlQM.MinMax.inf_sup_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T21:28:15.541012+00:00
 -- url     : https://prove2.me/theorems/ba9e50e9-6fd7-45a1-8e67-71d1c5003509

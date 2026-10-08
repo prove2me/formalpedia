@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Allocation_pwl_convex
 -- name    : ServiceParts.Allocation.pwl_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:02:01.497982+00:00
 -- url     : https://prove2.me/theorems/9f9d8c9d-02d2-4a68-9066-ba9de720f079

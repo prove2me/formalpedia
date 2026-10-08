@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Cohen2019_Robust_likelihood_ratio
 -- name    : Cohen2019.Robust.likelihood_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:33:11.518064+00:00
 -- url     : https://prove2.me/theorems/bf3da223-653d-469e-ac29-f29b406f5b10

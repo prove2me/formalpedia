@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityB_theorem_3_13_tu_integral_optimal
 -- name    : DiscreteConvex.IntegralConvexityB.theorem_3_13_tu_integral_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:02:47.20799+00:00
 -- url     : https://prove2.me/theorems/a8e207ca-2b9e-4536-8af5-d7c619889e89

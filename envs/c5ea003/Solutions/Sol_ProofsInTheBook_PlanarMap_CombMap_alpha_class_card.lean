@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.PlanarMap.CombMap.alpha_class_card
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:18.742849+00:00
 -- url     : https://prove2.me/submissions/3d44b130-5102-4e9f-833b-b62dd948b1f6
 

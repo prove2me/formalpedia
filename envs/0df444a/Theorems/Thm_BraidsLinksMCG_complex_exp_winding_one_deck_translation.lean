@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_complex_exp_winding_one_deck_translation
 -- name    : BraidsLinksMCG.complex_exp_winding_one_deck_translation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-28T09:42:12.686746+00:00
 -- url     : https://prove2.me/theorems/d59fee3d-7ef8-4ccb-8be0-a11b0c4cf353

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_DelayList_delay_list_approximation
 -- name    : AvgCompletionSched.DelayList.delay_list_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:07:16.243125+00:00
 -- url     : https://prove2.me/theorems/2a552207-59e1-4c7b-a09d-ebc91e54aff7

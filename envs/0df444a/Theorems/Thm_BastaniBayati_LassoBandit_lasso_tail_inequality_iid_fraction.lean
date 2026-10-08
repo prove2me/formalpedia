@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BastaniBayati_LassoBandit_lasso_tail_inequality_iid_fraction
 -- name    : BastaniBayati.LassoBandit.lasso_tail_inequality_iid_fraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T09:14:46.818768+00:00
 -- url     : https://prove2.me/theorems/fd45d5b9-3afd-475a-be48-29a0e1c912fd

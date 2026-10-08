@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_interval_prime_below_sq_k_lt_120_sqrt33_cert
 -- name    : ProofsInTheBook.Chapter03.interval_prime_below_sq_k_lt_120_sqrt33_cert
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:57.478546+00:00
 -- url     : https://prove2.me/theorems/b6e2210b-2058-40bd-8b8e-9a7d0dedf093
 -- title:

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter15_NoObtuseAngles_hasAntipodalStrips
 -- name    : ProofsInTheBook.Chapter15.NoObtuseAngles.hasAntipodalStrips
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:38:35.287092+00:00
 -- url     : https://prove2.me/theorems/1b2efd9c-b6bd-4bea-a730-408aff3a9713
 -- title:

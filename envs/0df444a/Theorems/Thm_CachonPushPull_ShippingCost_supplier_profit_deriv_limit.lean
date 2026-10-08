@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_ShippingCost_supplier_profit_deriv_limit
 -- name    : CachonPushPull.ShippingCost.supplier_profit_deriv_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:39:56.307973+00:00
 -- url     : https://prove2.me/theorems/82a1e333-ae86-4abf-a6c7-950a1d8f4638

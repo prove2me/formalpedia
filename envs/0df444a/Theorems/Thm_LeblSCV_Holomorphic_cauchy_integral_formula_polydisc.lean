@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Holomorphic_cauchy_integral_formula_polydisc
 -- name    : LeblSCV.Holomorphic.cauchy_integral_formula_polydisc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:03:19.303624+00:00
 -- url     : https://prove2.me/theorems/036af5db-f669-4f15-a53a-c5d0e4a16f84

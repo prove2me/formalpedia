@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_theorem8_instance
 -- name    : CongestionPoA.SymMax.theorem8_instance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:12:07.841348+00:00
 -- url     : https://prove2.me/theorems/8a70100d-8a6e-4671-87cd-947b74f519d6

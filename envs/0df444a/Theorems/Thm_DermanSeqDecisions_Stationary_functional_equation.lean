@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Stationary_functional_equation
 -- name    : DermanSeqDecisions.Stationary.functional_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:44:34.248968+00:00
 -- url     : https://prove2.me/theorems/65b08095-61fc-449b-919a-f0e2807bf186

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSPHeuristics_NNLower_shortest_paths_F_succ
 -- name    : TSPHeuristics.NNLower.shortest_paths_F_succ
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:26:12.877659+00:00
 -- url     : https://prove2.me/theorems/7cc6a908-23f7-4986-8406-e3255b9c89b4

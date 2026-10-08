@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_isSurjunctive_of_fg_subgroups
 -- name    : GottschalkSurjunctivity.isSurjunctive_of_fg_subgroups
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T15:59:15.426605+00:00
 -- url     : https://prove2.me/theorems/1290e1b0-de40-46d4-be96-b025d51c5199

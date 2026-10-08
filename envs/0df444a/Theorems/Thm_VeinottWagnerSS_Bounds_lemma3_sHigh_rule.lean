@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Bounds_lemma3_sHigh_rule
 -- name    : VeinottWagnerSS.Bounds.lemma3_sHigh_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:43:49.291477+00:00
 -- url     : https://prove2.me/theorems/33bab586-802b-44bb-bb5d-ee158615e0d2

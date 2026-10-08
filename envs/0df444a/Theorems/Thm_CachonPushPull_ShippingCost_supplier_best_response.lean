@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_ShippingCost_supplier_best_response
 -- name    : CachonPushPull.ShippingCost.supplier_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:37:33.529887+00:00
 -- url     : https://prove2.me/theorems/18e3b68d-ecd3-4591-a81a-75ce110e45fc

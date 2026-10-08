@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_large_prime_factor_choose_below_sq_far_of_120_le
 -- name    : ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_far_of_120_le
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:08.017351+00:00
 -- url     : https://prove2.me/theorems/426a8de9-4895-4993-bedf-6e79bd5417c3
 -- title:

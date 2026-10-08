@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter25
 -- name    : P2MAssembly_Chapter25
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:34:32.948301+00:00
 -- url     : https://prove2.me/theorems/44d1ff30-060a-48e2-bf05-fb5818b21f37
 -- title:

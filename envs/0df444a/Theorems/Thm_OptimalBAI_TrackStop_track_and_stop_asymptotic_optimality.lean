@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_TrackStop_track_and_stop_asymptotic_optimality
 -- name    : OptimalBAI.TrackStop.track_and_stop_asymptotic_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:18:15.411178+00:00
 -- url     : https://prove2.me/theorems/78d178b3-62bb-480b-a8ce-04137f6015d1

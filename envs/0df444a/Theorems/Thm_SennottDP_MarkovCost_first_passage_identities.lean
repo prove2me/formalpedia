@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_first_passage_identities
 -- name    : SennottDP.MarkovCost.first_passage_identities
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:49:19.969651+00:00
 -- url     : https://prove2.me/theorems/f79e156c-b33b-4ce1-811f-afff5cc53ea7

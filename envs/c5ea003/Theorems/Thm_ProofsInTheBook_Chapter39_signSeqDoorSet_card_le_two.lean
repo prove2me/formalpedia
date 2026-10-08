@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_signSeqDoorSet_card_le_two
 -- name    : ProofsInTheBook.Chapter39.signSeqDoorSet_card_le_two
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:29.55881+00:00
 -- url     : https://prove2.me/theorems/4a9fd42a-c221-4be2-9d2a-20acb63787da
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_BestAlpha_alpha_schedule_completion_bound
 -- name    : AvgCompletionSched.BestAlpha.alpha_schedule_completion_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:48:20.475984+00:00
 -- url     : https://prove2.me/theorems/a581378e-b90b-4209-9196-c59b04f88847

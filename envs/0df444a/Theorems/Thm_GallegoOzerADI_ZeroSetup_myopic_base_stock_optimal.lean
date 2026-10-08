@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_ZeroSetup_myopic_base_stock_optimal
 -- name    : GallegoOzerADI.ZeroSetup.myopic_base_stock_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:57:39.408898+00:00
 -- url     : https://prove2.me/theorems/26183372-078d-469c-b0f9-4c8fc70d7d5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThompsonAmenability_not_isAmenable_F
 -- name    : ThompsonAmenability.not_isAmenable_F
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-09-30T19:06:32.134986+00:00
 -- url     : https://prove2.me/theorems/85b38802-678f-475b-ba85-0569977cefd9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialEquilibrium_Existence_bestValue_continuousAt
 -- name    : SocialEquilibrium.Existence.bestValue_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:46:26.725129+00:00
 -- url     : https://prove2.me/theorems/d3b902ac-da8b-42f1-b585-b45869acf3af

@@ -19,7 +19,7 @@
 --
 --   **Formalization Note.** The colouring is a function on all of $\mathbb{N}$, and `SchurColoring (2 * m + 1) c` constrains only its values on $[1, 2m+1]$; the case $x = y$ is included, so $c(2x) \ne c(x)$ for $1 \le x \le m$. In `TriangleRamsey k (u + 1)` the colours are natural numbers from any `Finset` of at most $k$ elements, and the pair colouring is a function $\mathbb{N} \to \mathbb{N} \to \mathbb{N}$ that is constrained only on the pairs $x < y$ of the vertex set; for $k \ge 1$ the statement is $R_k(3) \le u + 1$. For $k = 0$ the hypotheses force $u \ge 2$ and $m \ge 2$, and $[1, 2m+1] \supseteq [1, 5]$ has no Schur colouring with two colours, so the statement is vacuous there; the case $k = 1$ is not vacuous. The conclusion is Mathlib's `Even u`. Colours are `Fin (k + 2)`, so there are at least two colours and a colour other than $c(m+1)$ exists. The statement is vacuous for $u = 0$, since $\mathrm{TR}(k, 1)$ is false; the hypotheses are met for $k = 1$, $u = 2$, $t = 2$, $m = 6$ by the Schur colourings of $[1, 13]$ with three colours.
 -- source:
---   Note "The frontier of the centred Schur bound: balance, saturation and reflection" (schur-numbers project, 2026-10-02, unpublished), section "Paired endpoint neighbourhoods" (u = |P_i| is even). Lean proof not yet in a public repository.
+--   A. McKenna, "S(6) ≤ 1801 if R₄(3) ≤ 61: a centred Schur bound and the structure at the frontier", Zenodo (2026), https://doi.org/10.5281/zenodo.23156099, Corollary 4.10 (§4.5, u is even). Lean source: https://github.com/mysticflounder/schur-centred-bound/blob/v1.0.1/ClassicalSchur/Frontier.lean#L504-L540 (release v1.0.1, doi:10.5281/zenodo.23156444).
 
 import Definitions.Def_ClassicalSchurColoring
 import Definitions.Def_ClassicalSchurRamsey

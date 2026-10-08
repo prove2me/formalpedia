@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.monsky_false_of_odd_corner_parity
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:51:08.377885+00:00
 -- url     : https://prove2.me/submissions/24ef46f6-0cc4-4ec9-b5b3-444489ac42c8
 

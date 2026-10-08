@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_class_average_cost
 -- name    : SennottDP.MarkovCost.class_average_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T13:58:14.108781+00:00
 -- url     : https://prove2.me/theorems/c361bd97-849e-43dd-bb42-d2042b4a02f9

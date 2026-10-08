@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BraidsLinksMCG_artin_centralizer_abelianization_pm_v1
 -- name    : BraidsLinksMCG.artin_centralizer_abelianization_pm_v1
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-29T12:42:15.815822+00:00
 -- url     : https://prove2.me/theorems/e7419006-c24c-41cf-86a0-96d20406f95c

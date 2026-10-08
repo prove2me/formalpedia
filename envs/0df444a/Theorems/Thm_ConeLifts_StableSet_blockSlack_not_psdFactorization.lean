@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_StableSet_blockSlack_not_psdFactorization
 -- name    : ConeLifts.StableSet.blockSlack_not_psdFactorization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:20:11.367838+00:00
 -- url     : https://prove2.me/theorems/a899b231-d8b6-4ead-ad37-3675b9b204a0

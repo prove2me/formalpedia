@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_Snoopy_no_better_ratio
 -- name    : NonuniformCompetitive.Snoopy.no_better_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:49:13.321971+00:00
 -- url     : https://prove2.me/theorems/ba3ed5c9-fb66-4a60-937b-4ff345a39805

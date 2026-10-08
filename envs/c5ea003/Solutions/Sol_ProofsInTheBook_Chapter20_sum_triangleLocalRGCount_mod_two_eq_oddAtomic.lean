@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.sum_triangleLocalRGCount_mod_two_eq_oddAtomic
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:51:14.717654+00:00
 -- url     : https://prove2.me/submissions/44b13c9e-26a4-43f1-940d-66bc536e8daa
 

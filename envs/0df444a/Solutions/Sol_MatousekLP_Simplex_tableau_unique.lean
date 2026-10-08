@@ -1,0 +1,141 @@
+-- Prove2me | solution 1 for MatousekLP.Simplex.tableau_unique
+-- status  : ACCEPTED   (prove)
+-- author  : @moona3k
+-- created : 2026-10-05T05:33:03.206759+00:00
+-- url     : https://prove2.me/submissions/5abf4c1b-3727-4bc6-8fdf-380f705871b6
+
+import Definitions.Def_MatousekLP_Simplex_Tableau
+import Mathlib
+
+namespace TabCore
+
+open Matrix MatousekLP.Simplex Finset
+
+variable {m n : ℕ}
+
+lemma sum_split (B : Finset (Fin n)) (hB : B.card = m) (f : Fin n → ℝ) :
+    ∑ j, f j = ∑ i, f (kIdx B hB i) + ∑ j, f (lIdx B hB j) := by
+  rw [← Finset.sum_add_sum_compl B f]
+  congr 1
+  · conv_lhs => rw [← image_orderEmbOfFin_univ B hB]
+    rw [Finset.sum_image (fun a _ b _ h => (B.orderEmbOfFin hB).injective h)]; rfl
+  · conv_lhs => rw [← image_orderEmbOfFin_univ Bᶜ (card_compl_eq hB)]
+    rw [Finset.sum_image (fun a _ b _ h => (Bᶜ.orderEmbOfFin (card_compl_eq hB)).injective h)]; rfl
+
+lemma kIdx_mem (B : Finset (Fin n)) (hB : B.card = m) (i : Fin m) : kIdx B hB i ∈ B :=
+  orderEmbOfFin_mem _ _ _
+
+lemma lIdx_notMem (B : Finset (Fin n)) (hB : B.card = m) (j : Fin (n - m)) : lIdx B hB j ∉ B :=
+  Finset.mem_compl.mp (orderEmbOfFin_mem _ _ _)
+
+lemma mulVec_split (A : Matrix (Fin m) (Fin n) ℝ) (B : Finset (Fin n)) (hB : B.card = m)
+    (x : Fin n → ℝ) :
+    A *ᵥ x = basisMatrix A B hB *ᵥ (fun i => x (kIdx B hB i)) +
+      nonbasisMatrix A B hB *ᵥ (fun j => x (lIdx B hB j)) := by
+  funext r
+  simp only [mulVec, dotProduct, Pi.add_apply, basisMatrix, nonbasisMatrix, submatrix_apply, id]
+  exact sum_split B hB (fun j => A r j * x j)
+
+lemma dot_split (c x : Fin n → ℝ) (B : Finset (Fin n)) (hB : B.card = m) :
+    c ⬝ᵥ x = (fun i => c (kIdx B hB i)) ⬝ᵥ (fun i => x (kIdx B hB i)) +
+      (fun j => c (lIdx B hB j)) ⬝ᵥ (fun j => x (lIdx B hB j)) :=
+  sum_split B hB (fun j => c j * x j)
+
+lemma exists_of_parts (B : Finset (Fin n)) (hB : B.card = m) (u : Fin m → ℝ)
+    (w : Fin (n - m) → ℝ) :
+    ∃ x : Fin n → ℝ, (fun i => x (kIdx B hB i)) = u ∧ (fun j => x (lIdx B hB j)) = w := by
+  classical
+  refine ⟨fun j => if h : j ∈ B then u ((B.orderIsoOfFin hB).symm ⟨j, h⟩)
+    else w ((Bᶜ.orderIsoOfFin (card_compl_eq hB)).symm ⟨j, Finset.mem_compl.mpr h⟩), ?_, ?_⟩
+  · funext i
+    simp only [dif_pos (kIdx_mem B hB i)]
+    congr 1
+    exact (B.orderIsoOfFin hB).symm_apply_eq.mpr (Subtype.ext rfl)
+  · funext j
+    simp only [dif_neg (lIdx_notMem B hB j)]
+    congr 1
+    exact (Bᶜ.orderIsoOfFin (card_compl_eq hB)).symm_apply_eq.mpr (Subtype.ext rfl)
+
+/-- The standard tableau of a basis with invertible basis matrix. -/
+theorem tableau_std (A : Matrix (Fin m) (Fin n) ℝ) (b : Fin m → ℝ) (c : Fin n → ℝ)
+    (B : Finset (Fin n)) (hB : B.card = m) (hdet : IsUnit (basisMatrix A B hB).det) :
+    IsSimplexTableau A b c B hB (tableauP A b B hB) (tableauQ A B hB) (tableauZ0 A b c B hB)
+      (tableauR A c B hB) := by
+  intro x z
+  set AB := basisMatrix A B hB
+  set AN := nonbasisMatrix A B hB
+  set xB : Fin m → ℝ := fun i => x (kIdx B hB i)
+  set xN : Fin (n - m) → ℝ := fun j => x (lIdx B hB j)
+  set cB : Fin m → ℝ := fun i => c (kIdx B hB i)
+  set cN : Fin (n - m) → ℝ := fun j => c (lIdx B hB j)
+  have hAx : A *ᵥ x = b ↔ xB = tableauP A b B hB + tableauQ A B hB *ᵥ xN := by
+    rw [mulVec_split A B hB x]
+    unfold tableauP tableauQ
+    constructor
+    · intro h
+      have : xB = AB⁻¹ *ᵥ (b - AN *ᵥ xN) := by
+        rw [← h, add_sub_cancel_right, mulVec_mulVec, nonsing_inv_mul _ hdet, one_mulVec]
+      rw [this, mulVec_sub, neg_mulVec, mulVec_mulVec, sub_eq_add_neg]
+    · intro h
+      show AB *ᵥ xB + AN *ᵥ xN = b
+      rw [h, mulVec_add, mulVec_mulVec, mul_nonsing_inv _ hdet, one_mulVec, neg_mulVec,
+        mulVec_neg, mulVec_mulVec, ← Matrix.mul_assoc, mul_nonsing_inv _ hdet, Matrix.one_mul,
+        neg_add_cancel_right]
+  have hobj : ∀ v : Fin (n - m) → ℝ,
+      cB ⬝ᵥ (tableauP A b B hB + tableauQ A B hB *ᵥ v) + cN ⬝ᵥ v =
+        tableauZ0 A b c B hB + tableauR A c B hB ⬝ᵥ v := by
+    intro v
+    unfold tableauP tableauQ tableauZ0 tableauR
+    simp only [dotProduct_add, neg_mulVec, dotProduct_neg, dotProduct_mulVec, sub_dotProduct, cB, cN]
+    ring
+  constructor
+  · rintro ⟨h1, h2⟩
+    have hxB := hAx.mp h1
+    refine ⟨hxB, ?_⟩
+    rw [h2, dot_split c x B hB, ← hobj]
+    show cB ⬝ᵥ xB + cN ⬝ᵥ xN = _
+    rw [hxB]
+  · rintro ⟨h1, h2⟩
+    refine ⟨hAx.mpr h1, ?_⟩
+    rw [h2, dot_split c x B hB, ← hobj]
+    show _ = cB ⬝ᵥ xB + cN ⬝ᵥ xN
+    rw [h1]
+
+end TabCore
+
+open Matrix MatousekLP.Simplex TabCore in
+theorem solution {m n : ℕ} (A : Matrix (Fin m) (Fin n) ℝ) (b : Fin m → ℝ)
+    (c : Fin n → ℝ) (hmn : m ≤ n) (hrank : A.rank = m) (B : Finset (Fin n)) (hB : B.card = m)
+    (hfeas : IsFeasibleBasisOf A b B hB) (p : Fin m → ℝ) (Q : Matrix (Fin m) (Fin (n - m)) ℝ)
+    (z₀ : ℝ) (r : Fin (n - m) → ℝ) :
+    IsSimplexTableau A b c B hB p Q z₀ r ↔
+      (Q = tableauQ A B hB ∧ p = tableauP A b B hB ∧ z₀ = tableauZ0 A b c B hB ∧
+        r = tableauR A c B hB) := by
+  have hstd := tableau_std A b c B hB hfeas.1
+  constructor
+  · intro ht
+    have key : ∀ v : Fin (n - m) → ℝ,
+        tableauP A b B hB + tableauQ A B hB *ᵥ v = p + Q *ᵥ v ∧
+          tableauZ0 A b c B hB + tableauR A c B hB ⬝ᵥ v = z₀ + r ⬝ᵥ v := by
+      intro v
+      obtain ⟨x, hu, hw⟩ := exists_of_parts B hB (tableauP A b B hB + tableauQ A B hB *ᵥ v) v
+      have h1 := (hstd x (tableauZ0 A b c B hB + tableauR A c B hB ⬝ᵥ v)).mpr
+        ⟨by rw [hu, hw], by rw [hw]⟩
+      have h2 := (ht x _).mp h1
+      rw [hu, hw] at h2
+      exact h2
+    have hp : tableauP A b B hB = p := by simpa using (key 0).1
+    have hz : tableauZ0 A b c B hB = z₀ := by simpa using (key 0).2
+    refine ⟨?_, hp.symm, hz.symm, ?_⟩
+    · ext i j
+      have := congrFun (key (Pi.single j 1)).1 i
+      rw [hp] at this
+      have h' := add_left_cancel this
+      simpa [mulVec, dotProduct, Pi.single_apply] using h'.symm
+    · funext j
+      have := (key (Pi.single j 1)).2
+      rw [hz] at this
+      have h' := add_left_cancel this
+      simpa [dotProduct, Pi.single_apply] using h'.symm
+  · rintro ⟨rfl, rfl, rfl, rfl⟩
+    exact hstd

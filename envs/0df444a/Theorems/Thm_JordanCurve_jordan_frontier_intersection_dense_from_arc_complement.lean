@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_jordan_frontier_intersection_dense_from_arc_complement
 -- name    : JordanCurve.jordan_frontier_intersection_dense_from_arc_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:36:38.775743+00:00
 -- url     : https://prove2.me/theorems/491479e2-51ae-441e-918a-156d0dbd0df5

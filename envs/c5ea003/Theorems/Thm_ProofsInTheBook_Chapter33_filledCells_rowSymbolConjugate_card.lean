@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_filledCells_rowSymbolConjugate_card
 -- name    : ProofsInTheBook.Chapter33.filledCells_rowSymbolConjugate_card
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:11.570395+00:00
 -- url     : https://prove2.me/theorems/a5363a61-8d9b-4ef9-be6e-052b9fe01b14
 -- title:

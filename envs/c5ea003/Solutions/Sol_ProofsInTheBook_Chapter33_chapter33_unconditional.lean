@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.chapter33_unconditional
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:37.664691+00:00
 -- url     : https://prove2.me/submissions/f5a1a259-c004-4515-aec5-49880ba5bec2
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BuffonsNeedle.buffon_short
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:44:51.405852+00:00
 -- url     : https://prove2.me/submissions/0992c75a-f5fb-4d62-9165-5e3c14f974f7
 

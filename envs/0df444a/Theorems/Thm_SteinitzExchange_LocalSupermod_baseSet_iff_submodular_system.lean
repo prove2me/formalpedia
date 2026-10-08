@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_baseSet_iff_submodular_system
 -- name    : SteinitzExchange.LocalSupermod.baseSet_iff_submodular_system
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:49:07.297977+00:00
 -- url     : https://prove2.me/theorems/edb77a52-144b-43f9-8c25-a478f5203d07

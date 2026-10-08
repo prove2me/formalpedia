@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonExpanders_Core_lemma_2_4
 -- name    : AlonExpanders.Core.lemma_2_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:09:33.12998+00:00
 -- url     : https://prove2.me/theorems/ddffa837-177d-4dfa-a0ce-8b3b7dcd2060

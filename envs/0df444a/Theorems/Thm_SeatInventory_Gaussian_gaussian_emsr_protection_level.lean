@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_gaussian_emsr_protection_level
 -- name    : SeatInventory.Gaussian.gaussian_emsr_protection_level
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:02:01.023086+00:00
 -- url     : https://prove2.me/theorems/4440a291-c109-4d85-88a8-693ce487491a

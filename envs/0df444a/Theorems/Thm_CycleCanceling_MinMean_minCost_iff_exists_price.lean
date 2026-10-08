@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleCanceling_MinMean_minCost_iff_exists_price
 -- name    : CycleCanceling.MinMean.minCost_iff_exists_price
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:12:19.917428+00:00
 -- url     : https://prove2.me/theorems/86d315c5-5ca5-405a-a5c0-03937fc05a3b

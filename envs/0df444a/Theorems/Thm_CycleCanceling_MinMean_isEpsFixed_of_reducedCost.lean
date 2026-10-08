@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleCanceling_MinMean_isEpsFixed_of_reducedCost
 -- name    : CycleCanceling.MinMean.isEpsFixed_of_reducedCost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:14:54.766634+00:00
 -- url     : https://prove2.me/theorems/932da085-7f39-4881-b10e-29cf0307a0cc

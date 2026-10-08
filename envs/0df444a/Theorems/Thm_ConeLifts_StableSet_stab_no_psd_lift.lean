@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_StableSet_stab_no_psd_lift
 -- name    : ConeLifts.StableSet.stab_no_psd_lift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:20:55.812921+00:00
 -- url     : https://prove2.me/theorems/71b010c6-65f2-4bb1-83d5-28913d6e7259

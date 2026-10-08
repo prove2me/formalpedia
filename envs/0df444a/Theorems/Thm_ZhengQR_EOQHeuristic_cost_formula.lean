@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_EOQHeuristic_cost_formula
 -- name    : ZhengQR.EOQHeuristic.cost_formula
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:42:41.75818+00:00
 -- url     : https://prove2.me/theorems/59e38162-3fd1-46af-93aa-8395f82292eb

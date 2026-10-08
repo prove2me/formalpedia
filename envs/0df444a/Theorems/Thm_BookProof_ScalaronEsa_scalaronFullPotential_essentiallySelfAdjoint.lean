@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronEsa_scalaronFullPotential_essentiallySelfAdjoint
 -- name    : BookProof.ScalaronEsa.scalaronFullPotential_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T11:33:32.096983+00:00
 -- url     : https://prove2.me/theorems/95147bec-0c03-482d-8a6a-0485ba706c24

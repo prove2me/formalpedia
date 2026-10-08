@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedLinBandits_UCBDelta_confidence_intervals
 -- name    : ImprovedLinBandits.UCBDelta.confidence_intervals
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:23:42.06509+00:00
 -- url     : https://prove2.me/theorems/33903298-5bce-4d7a-9700-c4a9f16fc427

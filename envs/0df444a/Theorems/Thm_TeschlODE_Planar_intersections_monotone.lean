@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Planar_intersections_monotone
 -- name    : TeschlODE.Planar.intersections_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:19:16.717454+00:00
 -- url     : https://prove2.me/theorems/8f926862-33f6-4cb9-b12e-3a7660a06664

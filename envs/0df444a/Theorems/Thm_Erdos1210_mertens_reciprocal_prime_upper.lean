@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos1210_mertens_reciprocal_prime_upper
 -- name    : Erdos1210.mertens_reciprocal_prime_upper
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-30T16:34:55.888347+00:00
 -- url     : https://prove2.me/theorems/0c9fc18f-bfc8-4a62-8984-30f9328300aa

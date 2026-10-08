@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolygonalArcTerminalEndpointDiskCappedTaperAttachmentStrengthening
 -- name    : PolygonalArcTerminalEndpointDiskCappedTaperAttachmentStrengthening
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-28T06:34:31.362531+00:00
 -- url     : https://prove2.me/theorems/5151dc37-ede5-47e5-8408-12af8cedebc8

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.rowSymbolConjugate_eq_some_iff
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:04.722662+00:00
 -- url     : https://prove2.me/submissions/1dab9f90-7d42-4776-b80c-59abb93ea04c
 

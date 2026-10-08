@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_z_standard_average_cost
 -- name    : SennottDP.MarkovCost.z_standard_average_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:11:19.008558+00:00
 -- url     : https://prove2.me/theorems/56be0296-385d-4569-bf00-c1ff131baa89

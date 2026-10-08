@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HooftDimReduction_staircase_determines_all
 -- name    : HooftDimReduction.staircase_determines_all
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T01:23:58.263893+00:00
 -- url     : https://prove2.me/theorems/b0c68f5a-65a1-41c2-8f2e-55adf8f8c463

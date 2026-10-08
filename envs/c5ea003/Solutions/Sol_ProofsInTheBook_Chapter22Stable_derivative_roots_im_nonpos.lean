@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22Stable.derivative_roots_im_nonpos
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:29.622091+00:00
 -- url     : https://prove2.me/submissions/9b2301c9-2567-47c6-aca8-a589ef8094c5
 

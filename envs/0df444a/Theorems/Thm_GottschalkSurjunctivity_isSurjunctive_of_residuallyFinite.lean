@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_isSurjunctive_of_residuallyFinite
 -- name    : GottschalkSurjunctivity.isSurjunctive_of_residuallyFinite
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T16:13:06.603261+00:00
 -- url     : https://prove2.me/theorems/b692986a-2322-4460-8016-d91e771d8c81

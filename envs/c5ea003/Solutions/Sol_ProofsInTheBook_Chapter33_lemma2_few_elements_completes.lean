@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.lemma2_few_elements_completes
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:02.750796+00:00
 -- url     : https://prove2.me/submissions/a90964d7-fbed-40b3-bb1f-b399a7ee5de3
 

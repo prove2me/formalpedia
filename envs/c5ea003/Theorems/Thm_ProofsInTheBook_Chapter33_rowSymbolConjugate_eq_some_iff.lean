@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_rowSymbolConjugate_eq_some_iff
 -- name    : ProofsInTheBook.Chapter33.rowSymbolConjugate_eq_some_iff
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:32.911183+00:00
 -- url     : https://prove2.me/theorems/7af97d15-b66a-4a19-a244-5bef9fab8d30
 -- title:

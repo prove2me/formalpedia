@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter38_chapter38
 -- name    : ProofsInTheBook.Chapter38.chapter38
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:11:28.608218+00:00
 -- url     : https://prove2.me/theorems/e289f44b-022c-4560-864d-3f7a19728796
 -- title:

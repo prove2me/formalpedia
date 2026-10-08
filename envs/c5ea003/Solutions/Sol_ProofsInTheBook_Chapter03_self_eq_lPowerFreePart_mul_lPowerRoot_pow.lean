@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.self_eq_lPowerFreePart_mul_lPowerRoot_pow
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:44:40.645635+00:00
 -- url     : https://prove2.me/submissions/a680d615-677e-4f75-9159-83c4d7c1f4f5
 

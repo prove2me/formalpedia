@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_ProofsInTheBook_Chapter28
 -- name    : ProofsInTheBook_Chapter28
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:57:24.286175+00:00
 -- url     : https://prove2.me/theorems/66855c1d-7df6-4845-81d8-39a8c1e2621d
 -- title:

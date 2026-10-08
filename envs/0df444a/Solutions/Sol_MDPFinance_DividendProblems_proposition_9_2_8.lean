@@ -1,0 +1,424 @@
+-- Prove2me | solution 1 for MDPFinance.DividendProblems.proposition_9_2_8
+-- status  : ACCEPTED   (prove)
+-- author  : @mrfancypants
+-- created : 2026-10-06T02:43:24.894688+00:00
+-- url     : https://prove2.me/submissions/c34d95a1-f809-4ca9-bd3b-3370c8abc63c
+
+import Mathlib
+import Definitions.Def_MDPFinance_DividendProblems_MDM
+import Definitions.Def_MDPFinance_DividendProblems_Dividend
+import Definitions.Def_MDPFinance_DividendProblems_BandPolicy
+
+open scoped ENNReal NNReal
+open MeasureTheory ProbabilityTheory
+
+
+namespace MDPFinance.DividendProblems
+
+lemma dv_mlm {b c : ℝ≥0∞} (h : b ≤ c) (a : ℝ≥0∞) : a * b ≤ a * c := by gcongr
+
+lemma dv_lint_step (M : DividendModel) (v : ℤ → ℝ≥0∞) (x : ℤ) (a : ℕ) :
+    ∫⁻ y, v y ∂(M.toMDM.step (x, a)) = ∑' k, M.Zpmf k * v (DividendModel.Tnext x a k) := by
+  show ∫⁻ y, v y ∂((M.Zpmf.map (DividendModel.Tnext x a)).toMeasure) = _
+  rw [← PMF.toMeasure_map (p := M.Zpmf) (hf := Measurable.of_discrete),
+    lintegral_map (Measurable.of_discrete) (Measurable.of_discrete), lintegral_countable']
+  congr 1; funext k
+  rw [PMF.toMeasure_apply_singleton _ _ (measurableSet_singleton _), mul_comm]
+
+lemma dv_r (M : DividendModel) (x : ℤ) (a : ℕ) : M.toMDM.r (x, a) = (a : ℝ≥0∞) := rfl
+lemma dv_beta (M : DividendModel) : M.toMDM.β = M.β := rfl
+
+lemma dv_memD (M : DividendModel) (x : ℤ) (a : ℕ) :
+    a ∈ M.toMDM.Dx x ↔ (0 ≤ x → (a : ℤ) ≤ x) ∧ (x < 0 → a = 0) := by
+  show a ∈ DividendModel.D x ↔ _
+  unfold DividendModel.D
+  split_ifs with h
+  · simp only [Set.mem_setOf_eq]; constructor
+    · intro h1; exact ⟨fun _ => h1, fun h2 => absurd h h2.not_ge⟩
+    · intro h1; exact h1.1 h
+  · simp only [Set.mem_singleton_iff]; constructor
+    · intro h1; exact ⟨fun h2 => absurd h2 h, fun _ => h1⟩
+    · intro h1; exact h1.2 (lt_of_not_ge h)
+
+lemma dv_policy (M : DividendModel) (π : ℕ → ℤ → ℕ) :
+    M.toMDM.IsPolicyOf π ↔ ∀ n x, π n x ∈ M.toMDM.Dx x :=
+  ⟨fun h n x => (h n).2 x, fun h n => ⟨Measurable.of_discrete, h n⟩⟩
+
+lemma Jnpi_succ' {E A : Type*} [MeasurableSpace E] [MeasurableSpace A] (M : StationaryMDM E A)
+    (π : ℕ → E → A) (n : ℕ) (x : E) :
+    Jnpi M π (n + 1) x = M.r (x, π 0 x) +
+      ENNReal.ofReal M.β * ∫⁻ y, Jnpi M (fun k => π (k + 1)) n y ∂(M.step (x, π 0 x)) := rfl
+
+lemma dv_EZ_nonneg (M : DividendModel) : 0 ≤ M.EZplus :=
+  tsum_nonneg fun k => mul_nonneg ENNReal.toReal_nonneg (le_max_right _ _)
+
+lemma dv_tsum_E (M : DividendModel) :
+    ∑' k, M.Zpmf k * ENNReal.ofReal (max (k : ℝ) 0) = ENNReal.ofReal M.EZplus := by
+  unfold DividendModel.EZplus DividendModel.q
+  rw [ENNReal.ofReal_tsum_of_nonneg (fun k => mul_nonneg ENNReal.toReal_nonneg (le_max_right _ _))
+    M.hEZplus]
+  congr 1; funext k
+  rw [ENNReal.ofReal_mul ENNReal.toReal_nonneg, ENNReal.ofReal_toReal (PMF.apply_ne_top _ _)]
+
+lemma dv_tsum_const (M : DividendModel) (c : ℝ≥0∞) : ∑' k, M.Zpmf k * c = c := by
+  rw [ENNReal.tsum_mul_right, PMF.tsum_coe, one_mul]
+
+lemma dv_tsum_bound (M : DividendModel) (y : ℤ) (hy : 0 ≤ y) (c : ℝ) (hc : 0 ≤ c) :
+    ∑' k, M.Zpmf k * ENNReal.ofReal (max ((y + k : ℤ) : ℝ) 0 + c) ≤
+      ENNReal.ofReal (y + M.EZplus + c) := by
+  have hy' : (0 : ℝ) ≤ y := by exact_mod_cast hy
+  calc ∑' k, M.Zpmf k * ENNReal.ofReal (max ((y + k : ℤ) : ℝ) 0 + c)
+      ≤ ∑' k, (M.Zpmf k * ENNReal.ofReal (y + c) + M.Zpmf k * ENNReal.ofReal (max (k : ℝ) 0)) := by
+        refine ENNReal.tsum_le_tsum fun k => ?_
+        rw [← mul_add]
+        refine dv_mlm ?_ _
+        rw [← ENNReal.ofReal_add (by positivity) (le_max_right _ _)]
+        refine ENNReal.ofReal_le_ofReal ?_
+        push_cast
+        rcases le_total (k : ℝ) 0 with h | h
+        · rw [max_eq_right h]; have := max_le (by linarith : (y:ℝ) + k ≤ y) hy'; linarith
+        · rw [max_eq_left h, max_eq_left (by linarith)]; linarith
+    _ = ENNReal.ofReal (y + M.EZplus + c) := by
+        rw [ENNReal.tsum_add, dv_tsum_const, dv_tsum_E, ← ENNReal.ofReal_add (by positivity)
+          (dv_EZ_nonneg M)]
+        congr 1; ring
+
+/-- the constant `β EZ⁺/(1-β)` -/
+noncomputable def dvC (M : DividendModel) : ℝ := M.β * M.EZplus / (1 - M.β)
+
+lemma dvC_nonneg (M : DividendModel) : 0 ≤ dvC M := by
+  have := M.hβ; have := dv_EZ_nonneg M
+  unfold dvC; apply div_nonneg (mul_nonneg (le_of_lt M.hβ.1) this) (by linarith [M.hβ.2])
+
+lemma dvC_eq (M : DividendModel) : dvC M = M.β * M.EZplus + M.β * dvC M := by
+  have h := M.hβ
+  unfold dvC
+  have : (1 - M.β) ≠ 0 := by linarith [h.2]
+  field_simp; ring
+
+lemma dv_Jnpi_le (M : DividendModel) (π : ℕ → ℤ → ℕ) (hπ : M.toMDM.IsPolicyOf π) (n : ℕ)
+    (x : ℤ) : Jnpi M.toMDM π n x ≤ ENNReal.ofReal (max (x : ℝ) 0 + dvC M) := by
+  induction n generalizing π x with
+  | zero => exact bot_le
+  | succ n ih =>
+    have hπ' : M.toMDM.IsPolicyOf (fun k => π (k + 1)) := fun k => hπ (k + 1)
+    rw [Jnpi_succ', dv_lint_step, dv_r, dv_beta]
+    have hmem := (dv_memD M x (π 0 x)).1 ((hπ 0).2 x)
+    have hc := dvC_nonneg M
+    have hb := M.hβ
+    by_cases hx : 0 ≤ x
+    · have ha := hmem.1 hx
+      have h1 : ∑' k, M.Zpmf k * Jnpi M.toMDM (fun k => π (k + 1)) n
+          (DividendModel.Tnext x (π 0 x) k) ≤ ENNReal.ofReal ((x - π 0 x : ℤ) + M.EZplus + dvC M) := by
+        refine le_trans (ENNReal.tsum_le_tsum fun k => dv_mlm ?_ _)
+          (dv_tsum_bound M (x - π 0 x) (by omega) _ hc)
+        unfold DividendModel.Tnext; rw [if_pos hx]; exact ih _ hπ' _
+      refine le_trans (add_le_add le_rfl (dv_mlm h1 _)) ?_
+      rw [← ENNReal.ofReal_mul hb.1.le, ← ENNReal.ofReal_natCast,
+        ← ENNReal.ofReal_add (by positivity) (by
+          have := dv_EZ_nonneg M
+          have : (0:ℝ) ≤ ((x - π 0 x : ℤ) : ℝ) := by exact_mod_cast (by omega : (0:ℤ) ≤ x - π 0 x)
+          exact mul_nonneg hb.1.le (by linarith))]
+      refine ENNReal.ofReal_le_ofReal ?_
+      have hx' : (0:ℝ) ≤ x := by exact_mod_cast hx
+      rw [max_eq_left hx']
+      have ha' : ((π 0 x : ℕ) : ℝ) ≤ x := by exact_mod_cast ha
+      have hE := dvC_eq M
+      push_cast
+      nlinarith [mul_nonneg (sub_nonneg.2 hb.2.le) (sub_nonneg.2 ha')]
+    · have ha := hmem.2 (lt_of_not_ge hx)
+      rw [ha]
+      have : ∀ k, DividendModel.Tnext x 0 k = x := fun k => by
+        unfold DividendModel.Tnext; rw [if_neg hx]
+      simp only [this, dv_tsum_const, Nat.cast_zero, zero_add]
+      refine le_trans (dv_mlm (ih _ hπ' x) _) ?_
+      have hx' : (x:ℝ) ≤ 0 := by exact_mod_cast (le_of_lt (lt_of_not_ge hx))
+      rw [max_eq_right hx', zero_add, ← ENNReal.ofReal_mul hb.1.le]
+      refine ENNReal.ofReal_le_ofReal ?_
+      nlinarith [mul_nonneg (sub_nonneg.2 hb.2.le) hc]
+
+lemma dv_Jinf_le (M : DividendModel) (x : ℤ) :
+    M.Jinf x ≤ ENNReal.ofReal (max (x : ℝ) 0 + dvC M) := by
+  unfold DividendModel.Jinf Jinf Jinfpi
+  exact iSup₂_le fun π hπ => iSup_le fun n => dv_Jnpi_le M π hπ n x
+
+
+lemma dv_Jnpi_mono_n {E A : Type*} [MeasurableSpace E] [MeasurableSpace A] (M : StationaryMDM E A)
+    (π : ℕ → E → A) (n : ℕ) (x : E) : Jnpi M π n x ≤ Jnpi M π (n + 1) x := by
+  induction n generalizing π x with
+  | zero => exact bot_le
+  | succ n ih =>
+    rw [Jnpi_succ', Jnpi_succ' M π (n + 1)]
+    exact add_le_add le_rfl (dv_mlm (lintegral_mono fun y => ih _ _) _)
+
+lemma dv_TL_mono (M : DividendModel) {v w : ℤ → ℝ≥0∞} (h : ∀ y, v y ≤ w y) (x : ℤ) :
+    TL M.toMDM v x ≤ TL M.toMDM w x :=
+  iSup₂_mono fun _ _ => add_le_add le_rfl (dv_mlm (lintegral_mono h) _)
+
+lemma dv_zero_mem (M : DividendModel) (x : ℤ) : (0 : ℕ) ∈ M.toMDM.Dx x :=
+  (dv_memD M x 0).2 ⟨fun h => by simpa using h, fun _ => rfl⟩
+
+lemma dv_Dfin (M : DividendModel) (x : ℤ) : (M.toMDM.Dx x).Finite := by
+  refine (Set.finite_Iic x.toNat).subset fun a ha => ?_
+  have := (dv_memD M x a).1 ha
+  simp only [Set.mem_Iic]
+  by_cases hx : 0 ≤ x
+  · have := this.1 hx; omega
+  · have := this.2 (lt_of_not_ge hx); omega
+
+lemma dv_exists_max (M : DividendModel) (v : ℤ → ℝ≥0∞) : ∃ f : ℤ → ℕ, ∀ x,
+    f x ∈ M.toMDM.Dx x ∧ TL M.toMDM v x =
+      M.toMDM.r (x, f x) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, v y ∂(M.toMDM.step (x, f x)) := by
+  have : ∀ x, ∃ a ∈ M.toMDM.Dx x, ∀ b ∈ M.toMDM.Dx x,
+      M.toMDM.r (x, b) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, v y ∂(M.toMDM.step (x, b)) ≤
+      M.toMDM.r (x, a) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, v y ∂(M.toMDM.step (x, a)) :=
+    fun x => Set.exists_max_image _ _ (dv_Dfin M x) ⟨0, dv_zero_mem M x⟩
+  choose f hf hmax using this
+  exact ⟨f, fun x => ⟨hf x, le_antisymm (iSup₂_le (hmax x))
+    (le_iSup₂ (f := fun (a : ℕ) (_ : a ∈ M.toMDM.Dx x) =>
+      M.toMDM.r (x, a) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, v y ∂(M.toMDM.step (x, a))) (f x) (hf x))⟩⟩
+
+noncomputable def dvW (M : DividendModel) (n : ℕ) : ℤ → ℝ≥0∞ := (TL M.toMDM)^[n] 0
+
+lemma dvW_succ (M : DividendModel) (n : ℕ) : dvW M (n + 1) = TL M.toMDM (dvW M n) := by
+  unfold dvW; rw [Function.iterate_succ_apply']
+
+lemma dv_le_W (M : DividendModel) (n : ℕ) : ∀ π : ℕ → ℤ → ℕ, M.toMDM.IsPolicyOf π → ∀ x,
+    Jnpi M.toMDM π n x ≤ dvW M n x := by
+  induction n with
+  | zero => intro π _ x; exact bot_le
+  | succ n ih =>
+    intro π hπ x
+    rw [Jnpi_succ', dvW_succ]
+    refine le_trans (add_le_add le_rfl (dv_mlm (lintegral_mono fun y =>
+      ih _ (fun k => hπ (k + 1)) y) _)) ?_
+    exact le_iSup₂ (f := fun (a : ℕ) (_ : a ∈ M.toMDM.Dx x) =>
+      M.toMDM.r (x, a) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, dvW M n y ∂(M.toMDM.step (x, a)))
+      (π 0 x) ((hπ 0).2 x)
+
+lemma dv_opt (M : DividendModel) (n : ℕ) : ∃ π : ℕ → ℤ → ℕ, M.toMDM.IsPolicyOf π ∧ ∀ x,
+    Jnpi M.toMDM π n x = dvW M n x := by
+  induction n with
+  | zero => exact ⟨fun _ _ => 0, fun _ => ⟨Measurable.of_discrete, fun x => dv_zero_mem M x⟩,
+      fun x => rfl⟩
+  | succ n ih =>
+    obtain ⟨π, hπ, h⟩ := ih
+    obtain ⟨f, hf⟩ := dv_exists_max M (dvW M n)
+    refine ⟨fun k => if k = 0 then f else π (k - 1), ?_, ?_⟩
+    · refine (dv_policy M _).2 fun k x => ?_
+      by_cases hk : k = 0
+      · simp only [hk, if_true]; exact (hf x).1
+      · simp only [hk, if_false]; exact (hπ (k - 1)).2 x
+    · intro x
+      rw [Jnpi_succ', dvW_succ, (hf x).2]
+      have : (fun k => (fun k => if k = 0 then f else π (k - 1)) (k + 1)) = π := by
+        funext k; simp
+      simp only [this, if_true]
+      congr 2
+      exact lintegral_congr fun y => h y
+
+lemma dv_Jinf_eq (M : DividendModel) (x : ℤ) : M.Jinf x = ⨆ n, dvW M n x := by
+  apply le_antisymm
+  · unfold DividendModel.Jinf Jinf Jinfpi
+    exact iSup₂_le fun π hπ => iSup_le fun n => le_iSup_of_le n (dv_le_W M n π hπ x)
+  · refine iSup_le fun n => ?_
+    obtain ⟨π, hπ, h⟩ := dv_opt M n
+    rw [← h x]
+    unfold DividendModel.Jinf Jinf Jinfpi
+    exact le_iSup₂_of_le π hπ (le_iSup (fun n => Jnpi M.toMDM π n x) n)
+
+lemma dvW_mono (M : DividendModel) : Monotone (dvW M) := by
+  refine monotone_nat_of_le_succ fun n x => ?_
+  obtain ⟨π, hπ, h⟩ := dv_opt M n
+  rw [← h x]
+  exact le_trans (dv_Jnpi_mono_n _ π n x) (dv_le_W M (n + 1) π hπ x)
+
+lemma dv_bellman (M : DividendModel) (x : ℤ) : TL M.toMDM M.Jinf x = M.Jinf x := by
+  have hJ : M.Jinf = fun y => ⨆ n, dvW M n y := funext (dv_Jinf_eq M)
+  apply le_antisymm
+  · refine iSup₂_le fun a ha => ?_
+    rw [hJ, lintegral_iSup (fun n => Measurable.of_discrete) (dvW_mono M), ENNReal.mul_iSup,
+      ENNReal.add_iSup]
+    refine iSup_le fun n => le_iSup_of_le (n + 1) ?_
+    rw [dvW_succ]
+    exact le_iSup₂ (f := fun (a : ℕ) (_ : a ∈ M.toMDM.Dx x) =>
+      M.toMDM.r (x, a) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, dvW M n y ∂(M.toMDM.step (x, a))) a ha
+  · rw [dv_Jinf_eq M x]
+    refine iSup_le fun n => ?_
+    cases n with
+    | zero => exact bot_le
+    | succ n =>
+      rw [dvW_succ]
+      exact dv_TL_mono M (fun y => by rw [dv_Jinf_eq M y]; exact le_iSup (fun n => dvW M n y) n) x
+
+/-- `G(y) = β Σ q_k J(y+k)` -/
+noncomputable def dvG (M : DividendModel) (y : ℤ) : ℝ≥0∞ :=
+  ENNReal.ofReal M.β * ∑' k, M.Zpmf k * M.Jinf (y + k)
+
+lemma dv_Phi (M : DividendModel) (x : ℤ) (hx : 0 ≤ x) (a : ℕ) :
+    M.toMDM.r (x, a) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, M.Jinf y ∂(M.toMDM.step (x, a)) =
+      (a : ℝ≥0∞) + dvG M (x - a) := by
+  rw [dv_lint_step, dv_r, dv_beta]
+  unfold dvG DividendModel.Tnext
+  simp only [if_pos hx]
+
+lemma dvG_le (M : DividendModel) (y : ℤ) (hy : 0 ≤ y) :
+    dvG M y ≤ ENNReal.ofReal (M.β * (y + M.EZplus + dvC M)) := by
+  unfold dvG
+  rw [ENNReal.ofReal_mul M.hβ.1.le]
+  refine dv_mlm (le_trans (ENNReal.tsum_le_tsum fun k => dv_mlm (dv_Jinf_le M _) _)
+    (dv_tsum_bound M y hy _ (dvC_nonneg M))) _
+
+lemma dvG_ne_top (M : DividendModel) (y : ℤ) (hy : 0 ≤ y) : dvG M y ≠ ⊤ :=
+  ne_top_of_le_ne_top ENNReal.ofReal_ne_top (dvG_le M y hy)
+
+noncomputable def dvV (M : DividendModel) (y : ℤ) : ℝ := (dvG M y).toReal - y
+
+lemma dv_Phi_real (M : DividendModel) (x : ℤ) (hx : 0 ≤ x) (a : ℕ) (ha : (a : ℤ) ≤ x) :
+    M.toMDM.r (x, a) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, M.Jinf y ∂(M.toMDM.step (x, a)) =
+      ENNReal.ofReal (x + dvV M (x - a)) := by
+  rw [dv_Phi M x hx a, ← ENNReal.ofReal_natCast, ← ENNReal.ofReal_toReal
+    (dvG_ne_top M (x - a) (by omega)), ← ENNReal.ofReal_add (by positivity) ENNReal.toReal_nonneg]
+  unfold dvV; congr 1; push_cast; ring
+
+lemma dv_Phi_nonneg (M : DividendModel) (x : ℤ) (a : ℕ) (ha : (a : ℤ) ≤ x) :
+    0 ≤ (x : ℝ) + dvV M (x - a) := by
+  unfold dvV; push_cast
+  have : (0:ℝ) ≤ (dvG M (x - a)).toReal := ENNReal.toReal_nonneg
+  have : ((a:ℕ):ℝ) ≥ 0 := by positivity
+  linarith
+
+lemma dv_key (M : DividendModel) (f : ℤ → ℕ) (hf : M.IsLargestMaximizer f) (x : ℤ) (hx : 0 ≤ x) :
+    (f x : ℤ) ≤ x ∧ (∀ y, 0 ≤ y → y ≤ x → dvV M y ≤ dvV M (x - f x)) ∧
+      (∀ y, 0 ≤ y → y < x - f x → dvV M y < dvV M (x - f x)) := by
+  obtain ⟨⟨⟨_, hD⟩, heq⟩, hlarg⟩ := hf
+  have hfx : (f x : ℤ) ≤ x := ((dv_memD M x (f x)).1 (hD x)).1 hx
+  have hle : ∀ a : ℕ, (a : ℤ) ≤ x → dvV M (x - a) ≤ dvV M (x - f x) := by
+    intro a ha
+    have hmem : a ∈ M.toMDM.Dx x := (dv_memD M x a).2 ⟨fun _ => ha, fun h => absurd hx (not_le.2 h)⟩
+    have h1 : _ ≤ TL M.toMDM M.Jinf x := le_iSup₂ (f := fun (a : ℕ) (_ : a ∈ M.toMDM.Dx x) =>
+      M.toMDM.r (x, a) + ENNReal.ofReal M.toMDM.β * ∫⁻ y, M.Jinf y ∂(M.toMDM.step (x, a))) a hmem
+    rw [← heq x] at h1
+    rw [dv_Phi_real M x hx a ha, dv_Phi_real M x hx (f x) hfx,
+      ENNReal.ofReal_le_ofReal_iff (dv_Phi_nonneg M x _ hfx)] at h1
+    linarith
+  have hle' : ∀ y, 0 ≤ y → y ≤ x → dvV M y ≤ dvV M (x - f x) := by
+    intro y hy0 hyx
+    have := hle (x - y).toNat (by omega)
+    rwa [show x - ((x - y).toNat : ℕ) = y by omega] at this
+  refine ⟨hfx, hle', ?_⟩
+  intro y hy0 hy
+  by_contra hcon
+  have heqV : dvV M y = dvV M (x - f x) := le_antisymm (hle' y hy0 (by omega)) (not_lt.1 hcon)
+  set a := (x - y).toNat with ha_def
+  have hax : (a : ℤ) ≤ x := by omega
+  have hamem : a ∈ M.toMDM.Dx x := (dv_memD M x a).2 ⟨fun _ => hax, fun h => absurd hx (not_le.2 h)⟩
+  have hg : M.toMDM.IsMaximizerOf M.Jinf (Function.update f x a) := by
+    refine ⟨⟨Measurable.of_discrete, fun z => ?_⟩, fun z => ?_⟩
+    · by_cases hz : z = x
+      · subst hz; rw [Function.update_self]; exact hamem
+      · rw [Function.update_of_ne hz]; exact hD z
+    · by_cases hz : z = x
+      · subst hz
+        rw [Function.update_self, ← heq z, dv_Phi_real M z hx a hax, dv_Phi_real M z hx (f z) hfx,
+          show z - (a : ℤ) = y by omega, heqV]
+      · rw [Function.update_of_ne hz]; exact heq z
+  have := hlarg _ hg x
+  rw [Function.update_self] at this
+  omega
+
+
+theorem p928_core (M : DividendModel) (fstar : ℤ → ℕ) (hfstar : M.IsLargestMaximizer fstar)
+    (x0 : ℤ) (hx0 : 0 ≤ x0) (a0 : ℕ) (ha0 : fstar x0 = a0) (hpos : 0 < fstar (x0 + 1)) :
+    fstar (x0 + 1) = a0 + 1 := by
+  obtain ⟨h0a, h0b, h0c⟩ := dv_key M fstar hfstar x0 hx0
+  obtain ⟨h1a, h1b, h1c⟩ := dv_key M fstar hfstar (x0 + 1) (by omega)
+  have e1 := h1b (x0 - fstar x0) (by omega) (by omega)
+  have e2 := h0b (x0 + 1 - fstar (x0 + 1)) (by omega) (by omega)
+  rcases lt_trichotomy (x0 - (fstar x0 : ℤ)) (x0 + 1 - fstar (x0 + 1)) with h | h | h
+  · have := h1c _ (by omega) h; linarith
+  · omega
+  · have := h0c _ (by omega) h; linarith
+
+lemma dvV_le (M : DividendModel) (y : ℤ) (hy : 0 ≤ y) :
+    dvV M y ≤ M.β * (y + M.EZplus + dvC M) - y := by
+  unfold dvV
+  have := ENNReal.toReal_le_of_le_ofReal (by
+    have := dv_EZ_nonneg M; have := dvC_nonneg M
+    have : (0:ℝ) ≤ y := by exact_mod_cast hy
+    exact mul_nonneg M.hβ.1.le (by linarith)) (dvG_le M y hy)
+  linarith
+
+lemma dvV_zero (M : DividendModel) : 0 ≤ dvV M 0 := by
+  unfold dvV; simp
+
+lemma dv_xi (M : DividendModel) (f : ℤ → ℕ) (hf : M.IsLargestMaximizer f) :
+    ∃ n : ℕ, ∀ x : ℤ, (n : ℤ) ≤ x → x - f x = n := by
+  obtain ⟨hb1, hb2⟩ := M.hβ
+  set K := M.β * (M.EZplus + dvC M) / (1 - M.β) with hK
+  have hK' : K * (1 - M.β) = M.β * (M.EZplus + dvC M) := by
+    rw [hK]; field_simp [(by linarith : (1 - M.β) ≠ 0)]
+  set N := ⌈K⌉₊ with hN
+  have hneg : ∀ y : ℤ, (N : ℤ) < y → dvV M y < 0 := by
+    intro y hy
+    have h1 := dvV_le M y (by omega)
+    have h2 : K < (y : ℝ) := by
+      have : (N : ℝ) + 1 ≤ y := by exact_mod_cast hy
+      have := Nat.le_ceil K
+      linarith
+    nlinarith
+  have hex : ∃ n : ℕ, n ≤ N ∧ ∀ y : ℕ, y ≤ N → dvV M y ≤ dvV M n := by
+    obtain ⟨m, hm, hmax⟩ := Finset.exists_max_image (Finset.range (N + 1)) (fun y : ℕ => dvV M y)
+      ⟨0, by simp⟩
+    exact ⟨m, by simpa [Nat.lt_succ_iff] using hm, fun y hy => hmax y (by simpa [Nat.lt_succ_iff] using hy)⟩
+  classical
+  set n := Nat.find hex with hn
+  have hP := Nat.find_spec hex
+  have G1 : ∀ y : ℤ, 0 ≤ y → dvV M y ≤ dvV M n := by
+    intro y hy
+    by_cases hyN : y ≤ N
+    · have := hP.2 y.toNat (by omega)
+      rwa [show ((y.toNat : ℕ) : ℤ) = y by omega] at this
+    · have := hneg y (by omega)
+      have := hP.2 0 (by omega)
+      have := dvV_zero M
+      push_cast at *
+      linarith
+  have G2 : ∀ y : ℤ, 0 ≤ y → y < n → dvV M y < dvV M n := by
+    intro y hy hyn
+    by_contra hcon
+    have hmin := Nat.find_min' hex (m := y.toNat) ⟨by have := hP.1; omega, fun z hz => by
+      have := hP.2 z hz
+      rw [show ((y.toNat : ℕ) : ℤ) = y by omega]
+      linarith [not_lt.1 hcon]⟩
+    omega
+  refine ⟨n, fun x hx => ?_⟩
+  obtain ⟨ka, kb, kc⟩ := dv_key M f hf x (by omega)
+  have e1 := kb n (by omega) hx
+  have e2 := G1 (x - f x) (by omega)
+  rcases lt_trichotomy (x - (f x : ℤ)) n with h | h | h
+  · have := G2 _ (by omega) h; linarith
+  · exact h
+  · have := kc n (by omega) h; linarith
+
+theorem p926_core (M : DividendModel) (fstar : ℤ → ℕ) (hfstar : M.IsLargestMaximizer fstar) :
+    ∃ n : ℕ, fstar (n : ℤ) = 0 ∧ (∀ x : ℕ, fstar (x : ℤ) = 0 → x ≤ n) ∧
+      ∀ x : ℤ, (n : ℤ) ≤ x → fstar x = (x - n).toNat := by
+  obtain ⟨n, hn⟩ := dv_xi M fstar hfstar
+  refine ⟨n, ?_, ?_, ?_⟩
+  · have := hn n le_rfl; omega
+  · intro x hx
+    by_contra h
+    have := hn x (by omega)
+    rw [hx] at this; omega
+  · intro x hx; have := hn x hx; omega
+
+end MDPFinance.DividendProblems
+
+open MDPFinance.DividendProblems
+
+
+theorem solution (M : DividendModel) (fstar : ℤ → ℕ) (hfstar : M.IsLargestMaximizer fstar)
+    (x0 : ℤ) (hx0 : 0 ≤ x0) (a0 : ℕ) (ha0 : fstar x0 = a0) (hpos : 0 < fstar (x0 + 1)) :
+    fstar (x0 + 1) = a0 + 1 := by
+  exact p928_core M fstar hfstar x0 hx0 a0 ha0 hpos

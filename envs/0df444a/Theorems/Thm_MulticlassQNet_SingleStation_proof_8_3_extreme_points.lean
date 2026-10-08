@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_proof_8_3_extreme_points
 -- name    : MulticlassQNet.SingleStation.proof_8_3_extreme_points
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:12:55.626018+00:00
 -- url     : https://prove2.me/theorems/08ff25d8-f255-4fbf-8f98-d60e42d9dcb0

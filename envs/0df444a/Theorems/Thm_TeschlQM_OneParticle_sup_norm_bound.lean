@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_OneParticle_sup_norm_bound
 -- name    : TeschlQM.OneParticle.sup_norm_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:02:56.68945+00:00
 -- url     : https://prove2.me/theorems/d1063955-7475-4d4e-9fe5-94582cc32971

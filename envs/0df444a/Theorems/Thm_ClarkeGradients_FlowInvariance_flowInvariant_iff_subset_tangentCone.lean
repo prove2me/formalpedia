@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClarkeGradients_FlowInvariance_flowInvariant_iff_subset_tangentCone
 -- name    : ClarkeGradients.FlowInvariance.flowInvariant_iff_subset_tangentCone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:53:55.69926+00:00
 -- url     : https://prove2.me/theorems/03e3414d-7683-4107-856f-3101b58ff74e

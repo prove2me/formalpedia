@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter06_chapter06_wedderburn
 -- name    : ProofsInTheBook.Chapter06.chapter06_wedderburn
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:42:46.166687+00:00
 -- url     : https://prove2.me/theorems/28ed9c2d-4461-4d69-b0ec-b3aaae5cf350
 -- title:

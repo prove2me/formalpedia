@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_ShippingCost_retailer_never_worse
 -- name    : CachonPushPull.ShippingCost.retailer_never_worse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:38:10.293269+00:00
 -- url     : https://prove2.me/theorems/e49cacd9-5794-4231-a4cc-f76c18eb28c9

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_erdos_step1_n_gt_k_sq
 -- name    : ProofsInTheBook.Chapter03.erdos_step1_n_gt_k_sq
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:35:41.240748+00:00
 -- url     : https://prove2.me/theorems/2928940c-741e-4a3b-bbeb-feebaf683c61
 -- title:

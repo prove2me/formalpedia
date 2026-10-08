@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for TarchaBraids.thm_3_15_artin_presentation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-09-20T14:12:40.745979+00:00
 -- url     : https://prove2.me/submissions/55809408-998f-4ebd-bc82-dd1d2edae39f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BraidsLinksMCG_ArtinBraidGroup

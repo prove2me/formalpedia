@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Ch13Cauchy3D.chapter13_cauchy_rigidity_v2
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T21:08:54.551462+00:00
 -- url     : https://prove2.me/submissions/e13cab19-e6d0-4eff-97ae-ccf2b604029b
 

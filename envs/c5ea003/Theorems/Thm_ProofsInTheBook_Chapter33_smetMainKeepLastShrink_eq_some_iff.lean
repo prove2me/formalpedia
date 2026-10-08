@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_smetMainKeepLastShrink_eq_some_iff
 -- name    : ProofsInTheBook.Chapter33.smetMainKeepLastShrink_eq_some_iff
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:02.96402+00:00
 -- url     : https://prove2.me/theorems/ebf8e293-69a8-48ba-a8b6-e2d54993b417
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_GlobalStability_ring_globally_stable
 -- name    : ProcessingNetworks.GlobalStability.ring_globally_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T18:14:08.515363+00:00
 -- url     : https://prove2.me/theorems/cb042132-9982-49a7-9a5b-2882e4391e7c

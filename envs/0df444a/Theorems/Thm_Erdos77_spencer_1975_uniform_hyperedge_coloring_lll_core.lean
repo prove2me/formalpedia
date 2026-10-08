@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_1975_uniform_hyperedge_coloring_lll_core
 -- name    : Erdos77.spencer_1975_uniform_hyperedge_coloring_lll_core
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T17:57:45.318726+00:00
 -- url     : https://prove2.me/theorems/2d302b33-a1d0-4575-8534-691148a2fbb8

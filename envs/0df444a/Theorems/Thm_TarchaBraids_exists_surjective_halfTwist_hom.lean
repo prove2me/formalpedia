@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_exists_surjective_halfTwist_hom
 -- name    : TarchaBraids.exists_surjective_halfTwist_hom
--- status  : Open
+-- status  : Proved
 -- author  : @cm_beta
 -- created : 2026-09-21T08:08:43.759143+00:00
 -- url     : https://prove2.me/theorems/e75457ec-9f85-484b-8171-38a1e15f7e78

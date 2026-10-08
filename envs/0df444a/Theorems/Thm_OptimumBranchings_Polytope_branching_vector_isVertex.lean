@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimumBranchings_Polytope_branching_vector_isVertex
 -- name    : OptimumBranchings.Polytope.branching_vector_isVertex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:53:59.601985+00:00
 -- url     : https://prove2.me/theorems/a3767ad2-2346-44b7-99ca-1f0cdff26e57

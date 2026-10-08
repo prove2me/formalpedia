@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_PlanarMap_CombMap_platonic_constraint
 -- name    : ProofsInTheBook.PlanarMap.CombMap.platonic_constraint
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:24:29.907232+00:00
 -- url     : https://prove2.me/theorems/dd93f61a-3655-4c46-8045-762d9893e721
 -- title:

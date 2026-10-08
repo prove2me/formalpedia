@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_protection_level_exists_unique
 -- name    : SeatInventory.Gaussian.protection_level_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:01:02.111984+00:00
 -- url     : https://prove2.me/theorems/a7ed1035-4d61-4cfb-8c40-698296aa4b9a

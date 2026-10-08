@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Semicontinuous_san_upper_semicontinuous
 -- name    : MDPFinance.Semicontinuous.san_upper_semicontinuous
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:28:19.700995+00:00
 -- url     : https://prove2.me/theorems/51610df7-ee07-46d7-9e69-1f4684e34710

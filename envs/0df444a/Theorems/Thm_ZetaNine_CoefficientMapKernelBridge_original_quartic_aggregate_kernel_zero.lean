@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaNine_CoefficientMapKernelBridge_original_quartic_aggregate_kernel_zero
 -- name    : ZetaNine.CoefficientMapKernelBridge.original_quartic_aggregate_kernel_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-04T10:48:53.523191+00:00
 -- url     : https://prove2.me/theorems/940b61e1-e00a-4909-928d-1d640e6c909c

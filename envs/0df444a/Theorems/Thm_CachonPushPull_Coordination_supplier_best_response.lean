@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Coordination_supplier_best_response
 -- name    : CachonPushPull.Coordination.supplier_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:33:08.201985+00:00
 -- url     : https://prove2.me/theorems/b404eecc-e201-438f-be4b-d03f560d8a1c

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter05_chapter05_quadratic_reciprocity
 -- name    : ProofsInTheBook.Chapter05.chapter05_quadratic_reciprocity
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:42:40.524458+00:00
 -- url     : https://prove2.me/theorems/cd151382-ff47-4d0b-b1e6-23c97aed030c
 -- title:

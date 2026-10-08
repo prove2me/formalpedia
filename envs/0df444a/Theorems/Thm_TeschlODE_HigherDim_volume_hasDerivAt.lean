@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_HigherDim_volume_hasDerivAt
 -- name    : TeschlODE.HigherDim.volume_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:28:44.242596+00:00
 -- url     : https://prove2.me/theorems/b78c4c68-3160-4ec0-ad33-11b0097c60b1

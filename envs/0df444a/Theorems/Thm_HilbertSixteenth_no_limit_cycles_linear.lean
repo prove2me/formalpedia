@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HilbertSixteenth_no_limit_cycles_linear
 -- name    : HilbertSixteenth.no_limit_cycles_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T20:27:18.599745+00:00
 -- url     : https://prove2.me/theorems/142b280c-11ad-4923-b068-66434c1009c0

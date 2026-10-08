@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.atomicBoundary_mem_squareBoundaryEdgeList_of_square_corners
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:50:53.902974+00:00
 -- url     : https://prove2.me/submissions/b3554dfd-5f4f-4a18-9859-f178a7fa5c81
 

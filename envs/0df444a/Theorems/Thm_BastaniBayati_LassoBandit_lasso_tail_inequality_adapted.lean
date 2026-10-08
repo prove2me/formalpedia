@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BastaniBayati_LassoBandit_lasso_tail_inequality_adapted
 -- name    : BastaniBayati.LassoBandit.lasso_tail_inequality_adapted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T09:11:29.996186+00:00
 -- url     : https://prove2.me/theorems/43cc2cf8-b3c2-449f-86c1-542cab33e319

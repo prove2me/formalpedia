@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter37_chapter37
 -- name    : ProofsInTheBook.Chapter37.chapter37
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:11:10.34862+00:00
 -- url     : https://prove2.me/theorems/b8397150-2af8-4b95-bf0b-5a343010fb13
 -- title:

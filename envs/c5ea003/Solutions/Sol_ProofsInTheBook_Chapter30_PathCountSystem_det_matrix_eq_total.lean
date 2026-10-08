@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter30.PathCountSystem.det_matrix_eq_total
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:27:39.377924+00:00
 -- url     : https://prove2.me/submissions/53edd407-c82d-487c-b1ac-37ff6fa9c3c0
 

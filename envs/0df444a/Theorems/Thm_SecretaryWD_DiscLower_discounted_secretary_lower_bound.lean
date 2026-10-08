@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscLower_discounted_secretary_lower_bound
 -- name    : SecretaryWD.DiscLower.discounted_secretary_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:36:00.30823+00:00
 -- url     : https://prove2.me/theorems/edd0183a-f51a-41e5-9b55-0c6bc3a0e286

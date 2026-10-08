@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_chowla_conjecture
 -- name    : chowla_conjecture
--- status  : Open
+-- status  : Proved
 -- author  : @tianyipeng
 -- created : 2026-05-31T19:07:37.002759+00:00
 -- url     : https://prove2.me/theorems/bcec3639-382d-43db-9f69-02aa81e168a6

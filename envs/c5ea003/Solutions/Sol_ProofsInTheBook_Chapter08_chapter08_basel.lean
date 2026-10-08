@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter08.chapter08_basel
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:43:37.290489+00:00
 -- url     : https://prove2.me/submissions/12492051-2135-4c33-9096-1b3e3d3d43e4
 

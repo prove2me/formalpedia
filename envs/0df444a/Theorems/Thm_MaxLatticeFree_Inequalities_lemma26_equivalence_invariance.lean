@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Inequalities_lemma26_equivalence_invariance
 -- name    : MaxLatticeFree.Inequalities.lemma26_equivalence_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:02:57.701694+00:00
 -- url     : https://prove2.me/theorems/5a6b00e5-5673-4321-b2f7-f7b72a43c598

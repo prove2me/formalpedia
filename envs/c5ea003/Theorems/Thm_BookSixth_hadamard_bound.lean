@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_hadamard_bound
 -- name    : BookSixth.hadamard_bound
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:31.651222+00:00
 -- url     : https://prove2.me/theorems/41cc7bd7-ed60-4cfc-8092-61691bd1a85a
 -- title:

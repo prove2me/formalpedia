@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Cyclic_subdiff_subset_eq_add_const
 -- name    : RockafellarMaxMono.Cyclic.subdiff_subset_eq_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:14:34.376958+00:00
 -- url     : https://prove2.me/theorems/ecae5a0a-8327-4561-8696-1a4f84d09169

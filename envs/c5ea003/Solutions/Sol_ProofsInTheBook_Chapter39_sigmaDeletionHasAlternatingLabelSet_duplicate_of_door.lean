@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.sigmaDeletionHasAlternatingLabelSet_duplicate_of_door
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:25.97689+00:00
 -- url     : https://prove2.me/submissions/7513197b-70a2-42d7-8dba-4bafa3780efe
 

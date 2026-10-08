@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.isLatinSquare_relabelSquare
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:53.543975+00:00
 -- url     : https://prove2.me/submissions/00048c52-954b-4def-b659-20fd2ff4a9b3
 

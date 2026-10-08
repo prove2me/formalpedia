@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Nested_emsr_protection_level_optimal
 -- name    : SeatInventory.Nested.emsr_protection_level_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:46:15.735232+00:00
 -- url     : https://prove2.me/theorems/e6005eb5-e706-4220-b85d-f5f0e3e7b413

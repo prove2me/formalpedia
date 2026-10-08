@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22Gurvits.univariate_gurvits_factored
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:27.770068+00:00
 -- url     : https://prove2.me/submissions/6e427634-657a-4036-a715-5c14b29c86b6
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_BaseStock_order_up_to_optimal
 -- name    : ServiceParts.BaseStock.order_up_to_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:35:29.82417+00:00
 -- url     : https://prove2.me/theorems/da8af656-d153-4992-8c8f-810a3607487b

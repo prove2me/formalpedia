@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_Rationalized_eq_13_14
 -- name    : DimCallCenters.Rationalized.eq_13_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:57:02.340137+00:00
 -- url     : https://prove2.me/theorems/16f466fc-99fe-46fe-9623-09ba3630fe15

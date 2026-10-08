@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos52_not_exponent_two
 -- name    : Erdos52.not_exponent_two
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T16:41:32.761975+00:00
 -- url     : https://prove2.me/theorems/1bfaf241-2e72-43fb-8bb9-8a9d4cfacf35

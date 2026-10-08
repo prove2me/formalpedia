@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_General_lemma_1_2
 -- name    : EkelandVP.General.lemma_1_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:48:44.906304+00:00
 -- url     : https://prove2.me/theorems/38175098-5424-417b-a3e0-12154117a5d7

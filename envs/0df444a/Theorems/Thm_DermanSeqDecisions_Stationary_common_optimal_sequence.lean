@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Stationary_common_optimal_sequence
 -- name    : DermanSeqDecisions.Stationary.common_optimal_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:45:38.921502+00:00
 -- url     : https://prove2.me/theorems/0e7b7e6c-de9b-4539-9a19-27dd9e937fef

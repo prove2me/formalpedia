@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroBandits_greedy_linear_bayesian_regret
 -- name    : IntroBandits.greedy_linear_bayesian_regret
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:34:39.501833+00:00
 -- url     : https://prove2.me/theorems/f7e8329c-b290-4f6f-b50e-894fa8c30162

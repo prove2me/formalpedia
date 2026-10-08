@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SturmLiouville_wronskian_bc_symmetric
 -- name    : TeschlQM.SturmLiouville.wronskian_bc_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:47:41.420088+00:00
 -- url     : https://prove2.me/theorems/87d940e1-8057-491a-8c80-95ae34eb98fc

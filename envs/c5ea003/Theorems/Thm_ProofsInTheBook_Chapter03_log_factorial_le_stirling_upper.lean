@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_log_factorial_le_stirling_upper
 -- name    : ProofsInTheBook.Chapter03.log_factorial_le_stirling_upper
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:50.566296+00:00
 -- url     : https://prove2.me/theorems/59f31e95-419f-4137-86e9-c6d5a1269b14
 -- title:

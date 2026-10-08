@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_k_one_q2_five_q3_nineteen_absurd_v2
 -- name    : OddPerfectNumber.k_one_q2_five_q3_nineteen_absurd_v2
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-15T04:50:19.946982+00:00
 -- url     : https://prove2.me/theorems/4afaa3ed-158e-4f5b-a673-aa8e2bc643f5

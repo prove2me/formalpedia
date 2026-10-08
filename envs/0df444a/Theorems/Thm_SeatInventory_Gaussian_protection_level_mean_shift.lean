@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_protection_level_mean_shift
 -- name    : SeatInventory.Gaussian.protection_level_mean_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:01:27.369325+00:00
 -- url     : https://prove2.me/theorems/4fea4254-b5f3-43c4-86d3-c5fbca8170bb

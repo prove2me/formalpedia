@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxCliqueWidth_Certificate_rank_submatrix_submodular
 -- name    : ApproxCliqueWidth.Certificate.rank_submatrix_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:33:27.963157+00:00
 -- url     : https://prove2.me/theorems/a747554a-5718-4d27-b3dd-9396cba5d1dc

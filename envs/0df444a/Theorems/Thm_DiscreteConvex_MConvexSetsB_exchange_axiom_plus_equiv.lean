@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_exchange_axiom_plus_equiv
 -- name    : DiscreteConvex.MConvexSetsB.exchange_axiom_plus_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:31:27.676632+00:00
 -- url     : https://prove2.me/theorems/12d73324-db41-488f-bb8c-07abe75dce3a

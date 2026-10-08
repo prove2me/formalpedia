@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_LinProg_theorem_2
 -- name    : DermanSeqDecisions.LinProg.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:45:47.650092+00:00
 -- url     : https://prove2.me/theorems/4147240b-d793-405d-bc7d-1e8c98294d4d

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_hall_condition_of_regular_family
 -- name    : ProofsInTheBook.Chapter33.hall_condition_of_regular_family
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:29.869319+00:00
 -- url     : https://prove2.me/theorems/40bc0481-2411-404a-bfbf-6e3b6060c463
 -- title:

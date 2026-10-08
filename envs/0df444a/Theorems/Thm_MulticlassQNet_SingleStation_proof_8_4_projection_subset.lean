@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticlassQNet_SingleStation_proof_8_4_projection_subset
 -- name    : MulticlassQNet.SingleStation.proof_8_4_projection_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:13:04.917292+00:00
 -- url     : https://prove2.me/theorems/997f2f1b-582e-44f1-83f6-90ac508ee1ea

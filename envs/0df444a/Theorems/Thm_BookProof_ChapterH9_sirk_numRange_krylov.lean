@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH9_sirk_numRange_krylov
 -- name    : BookProof.ChapterH9.sirk_numRange_krylov
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T11:32:31.311042+00:00
 -- url     : https://prove2.me/theorems/faeefb3e-f8f5-4acf-af02-3be1d25a7ad9

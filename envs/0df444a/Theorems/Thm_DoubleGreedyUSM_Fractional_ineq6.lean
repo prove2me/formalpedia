@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleGreedyUSM_Fractional_ineq6
 -- name    : DoubleGreedyUSM.Fractional.ineq6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:05:14.354168+00:00
 -- url     : https://prove2.me/theorems/8232d263-6f3d-4fba-8743-c145db8e58f5

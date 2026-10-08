@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseVaR_Entropy_dual_constraint_iff
 -- name    : WorstCaseVaR.Entropy.dual_constraint_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:20:06.093673+00:00
 -- url     : https://prove2.me/theorems/6d9630ac-42ab-4dcb-a39a-744e19643a7f

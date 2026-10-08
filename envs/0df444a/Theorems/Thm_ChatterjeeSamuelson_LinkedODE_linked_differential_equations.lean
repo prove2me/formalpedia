@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChatterjeeSamuelson_LinkedODE_linked_differential_equations
 -- name    : ChatterjeeSamuelson.LinkedODE.linked_differential_equations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:48:52.894425+00:00
 -- url     : https://prove2.me/theorems/d20a3fd7-0506-4ad6-8732-164bd8538443

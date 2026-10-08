@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_TrackStop_tracking_converges_as
 -- name    : OptimalBAI.TrackStop.tracking_converges_as
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:16:33.128168+00:00
 -- url     : https://prove2.me/theorems/33b0251c-44bf-4a4c-9265-d2281f452e95

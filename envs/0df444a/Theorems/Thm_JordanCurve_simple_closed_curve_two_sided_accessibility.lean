@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_simple_closed_curve_two_sided_accessibility
 -- name    : JordanCurve.simple_closed_curve_two_sided_accessibility
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:15:57.794541+00:00
 -- url     : https://prove2.me/theorems/3b7b653c-5e3a-46b6-a894-b65f85223077

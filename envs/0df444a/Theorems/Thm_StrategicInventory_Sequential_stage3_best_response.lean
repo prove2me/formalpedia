@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategicInventory_Sequential_stage3_best_response
 -- name    : StrategicInventory.Sequential.stage3_best_response
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T04:50:50.880225+00:00
 -- url     : https://prove2.me/theorems/20e71cf2-9c88-4be8-81a5-04df89f30ef8

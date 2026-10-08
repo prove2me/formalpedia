@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22Gurvits.prod_one_add_mul_le
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:25.928188+00:00
 -- url     : https://prove2.me/submissions/ad9b3e76-d9d6-4e57-bc8d-c2393620d38b
 

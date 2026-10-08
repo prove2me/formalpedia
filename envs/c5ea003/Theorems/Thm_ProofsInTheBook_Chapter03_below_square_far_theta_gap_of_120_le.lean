@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_below_square_far_theta_gap_of_120_le
 -- name    : ProofsInTheBook.Chapter03.below_square_far_theta_gap_of_120_le
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:25:47.669891+00:00
 -- url     : https://prove2.me/theorems/847619b1-6614-4774-a219-ceb684b7757c
 -- title:

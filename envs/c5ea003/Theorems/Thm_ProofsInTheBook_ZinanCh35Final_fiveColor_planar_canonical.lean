@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_ZinanCh35Final_fiveColor_planar_canonical
 -- name    : ProofsInTheBook.ZinanCh35Final.fiveColor_planar_canonical
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T19:42:53.264786+00:00
 -- url     : https://prove2.me/theorems/73fbc010-5f71-461e-887c-9c4ceb8c6406
 -- title:

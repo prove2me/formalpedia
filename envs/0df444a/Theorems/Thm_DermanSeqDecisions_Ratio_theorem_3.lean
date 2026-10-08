@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Ratio_theorem_3
 -- name    : DermanSeqDecisions.Ratio.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:46:20.849489+00:00
 -- url     : https://prove2.me/theorems/d7239ccd-8810-4e1d-b44c-d9445ab6167d

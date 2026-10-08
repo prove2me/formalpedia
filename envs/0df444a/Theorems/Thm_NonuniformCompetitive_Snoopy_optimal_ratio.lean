@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_Snoopy_optimal_ratio
 -- name    : NonuniformCompetitive.Snoopy.optimal_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:50:11.828286+00:00
 -- url     : https://prove2.me/theorems/2afa65c1-e344-4d36-8bac-6124ef76bfa4

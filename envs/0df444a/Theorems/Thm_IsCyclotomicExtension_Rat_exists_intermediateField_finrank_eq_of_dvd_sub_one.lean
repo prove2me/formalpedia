@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IsCyclotomicExtension_Rat_exists_intermediateField_finrank_eq_of_dvd_sub_one
 -- name    : IsCyclotomicExtension.Rat.exists_intermediateField_finrank_eq_of_dvd_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @ebayuser
 -- created : 2026-10-04T10:10:32.013613+00:00
 -- url     : https://prove2.me/theorems/1f02aa4f-acb4-4255-985d-cff2ef090cf4

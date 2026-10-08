@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter24.chapter24
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:13:02.512475+00:00
 -- url     : https://prove2.me/submissions/0514dbd4-d924-4c31-8f2c-1f868427a5f6
 

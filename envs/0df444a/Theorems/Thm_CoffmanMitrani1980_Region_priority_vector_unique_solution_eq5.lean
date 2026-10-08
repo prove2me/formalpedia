@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani1980_Region_priority_vector_unique_solution_eq5
 -- name    : CoffmanMitrani1980.Region.priority_vector_unique_solution_eq5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:15:53.739169+00:00
 -- url     : https://prove2.me/theorems/7867911d-8515-4d41-8e78-df0175653c71

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_CostBounds_area_lemma
 -- name    : ZhengQR.CostBounds.area_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:00:07.422358+00:00
 -- url     : https://prove2.me/theorems/aa2fa7f6-a662-4a9a-abc7-719fa23cf68e

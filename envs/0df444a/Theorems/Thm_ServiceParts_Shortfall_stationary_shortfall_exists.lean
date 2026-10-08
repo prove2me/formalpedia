@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Shortfall_stationary_shortfall_exists
 -- name    : ServiceParts.Shortfall.stationary_shortfall_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T23:26:24.356423+00:00
 -- url     : https://prove2.me/theorems/e89ab7c2-4aa0-446d-a973-3b4c08b24dae

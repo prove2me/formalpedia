@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EkelandVP_General_bpLE_upper_closed
 -- name    : EkelandVP.General.bpLE_upper_closed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:48:31.427462+00:00
 -- url     : https://prove2.me/theorems/eb16007e-a2a3-4d71-9eda-c5f899a4dcfd

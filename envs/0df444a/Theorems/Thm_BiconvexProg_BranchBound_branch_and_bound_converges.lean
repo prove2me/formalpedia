@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BiconvexProg_BranchBound_branch_and_bound_converges
 -- name    : BiconvexProg.BranchBound.branch_and_bound_converges
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:00:51.005984+00:00
 -- url     : https://prove2.me/theorems/3308dcae-b226-42b1-8b47-e7fc659dd4b1

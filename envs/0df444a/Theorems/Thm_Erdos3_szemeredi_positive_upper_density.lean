@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos3_szemeredi_positive_upper_density
 -- name    : Erdos3.szemeredi_positive_upper_density
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:18:50.50531+00:00
 -- url     : https://prove2.me/theorems/f47e9f0c-25a2-44af-9fe2-47daf099e52c

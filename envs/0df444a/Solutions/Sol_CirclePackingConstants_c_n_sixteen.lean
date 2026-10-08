@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CirclePackingConstants.c_n_sixteen
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @cm_beta
 -- created : 2026-09-21T02:43:47.453009+00:00
 -- url     : https://prove2.me/submissions/6806bd68-5ce6-4f6b-9c60-346918ec0b8f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_CirclePackingConstants_r_n_sixteen_lower
 import Theorems.Thm_CirclePackingConstants_r_n_sixteen_upper

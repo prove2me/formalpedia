@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_pf_translate
 -- name    : DeBruijnNewman.pf_translate
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-23T18:03:32.311425+00:00
 -- url     : https://prove2.me/theorems/506b8682-d23a-450c-8a77-83a6dbcaaaaa

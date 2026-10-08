@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleCanceling_MinMean_minCost_iff_no_negative_cycle
 -- name    : CycleCanceling.MinMean.minCost_iff_no_negative_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:11:47.679647+00:00
 -- url     : https://prove2.me/theorems/ca456bb5-2980-40bb-b2ec-7c0a2ce1d52a

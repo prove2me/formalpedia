@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_sigmaDeletionHasAlternatingLabelSet_duplicate_of_door
 -- name    : ProofsInTheBook.Chapter39.sigmaDeletionHasAlternatingLabelSet_duplicate_of_door
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:26.320183+00:00
 -- url     : https://prove2.me/theorems/f1d52c2b-ea81-402e-8ab9-48f58cb9f803
 -- title:

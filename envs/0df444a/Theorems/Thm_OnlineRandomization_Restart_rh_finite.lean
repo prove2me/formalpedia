@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Restart_rh_finite
 -- name    : OnlineRandomization.Restart.rh_finite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:36:27.669016+00:00
 -- url     : https://prove2.me/theorems/b0a657e7-babd-40f3-89eb-858db03efce7

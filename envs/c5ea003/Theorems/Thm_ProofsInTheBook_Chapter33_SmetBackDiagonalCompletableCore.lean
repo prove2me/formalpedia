@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_SmetBackDiagonalCompletableCore
 -- name    : ProofsInTheBook.Chapter33.SmetBackDiagonalCompletableCore
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:42.276371+00:00
 -- url     : https://prove2.me/theorems/bc16b731-c1b5-4164-a888-020e63309a75
 -- title:

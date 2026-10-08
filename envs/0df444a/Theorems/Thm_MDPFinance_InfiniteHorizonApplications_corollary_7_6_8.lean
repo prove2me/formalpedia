@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_InfiniteHorizonApplications_corollary_7_6_8
 -- name    : MDPFinance.InfiniteHorizonApplications.corollary_7_6_8
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:01:40.575647+00:00
 -- url     : https://prove2.me/theorems/09293798-d277-4935-9381-cb2833e76747

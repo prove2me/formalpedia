@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Potential_lemma_3_1_if
 -- name    : OnlineRandomization.Potential.lemma_3_1_if
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:28:54.490983+00:00
 -- url     : https://prove2.me/theorems/b0aba1db-aaad-4159-b9c2-c98576261578

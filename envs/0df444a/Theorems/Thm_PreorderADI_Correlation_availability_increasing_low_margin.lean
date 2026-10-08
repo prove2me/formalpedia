@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PreorderADI_Correlation_availability_increasing_low_margin
 -- name    : PreorderADI.Correlation.availability_increasing_low_margin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:51:22.148408+00:00
 -- url     : https://prove2.me/theorems/fc610a6e-085e-43ad-94c6-ab050cf40e66

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_pf_reflect
 -- name    : DeBruijnNewman.pf_reflect
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-23T18:03:51.588017+00:00
 -- url     : https://prove2.me/theorems/e207376c-65e8-432d-8cf1-3fa3a304b8c5

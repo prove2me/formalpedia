@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_tail_antitone
 -- name    : SeatInventory.Gaussian.tail_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:00:36.852657+00:00
 -- url     : https://prove2.me/theorems/010bc4d4-b6e0-4dad-a753-c81a0d1006ed

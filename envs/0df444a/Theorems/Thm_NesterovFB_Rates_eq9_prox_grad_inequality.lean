@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovFB_Rates_eq9_prox_grad_inequality
 -- name    : NesterovFB.Rates.eq9_prox_grad_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:43:16.84432+00:00
 -- url     : https://prove2.me/theorems/0ee55b13-51e4-4fa0-a5bc-999e78497cf3

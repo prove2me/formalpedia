@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22_rowLinearCapacityAtLeastOne_of_doublyStochastic
 -- name    : ProofsInTheBook.Chapter22.rowLinearCapacityAtLeastOne_of_doublyStochastic
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:04:45.023348+00:00
 -- url     : https://prove2.me/theorems/45ec936f-ae31-4a27-8916-7a2e945fed63
 -- title:

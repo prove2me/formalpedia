@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for TarchaBraids.thm_3_15_artin_presentation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @cm_beta
 -- created : 2026-09-21T17:29:01.553293+00:00
 -- url     : https://prove2.me/submissions/424aceb3-e907-48b9-b1ae-4e42733f0b0b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_TarchaBraids_thm_3_15_half_twists_satisfy_relations
 import Theorems.Thm_TarchaBraids_halfTwist_hom_surjective

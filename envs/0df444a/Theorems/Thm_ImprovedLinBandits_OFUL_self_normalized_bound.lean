@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedLinBandits_OFUL_self_normalized_bound
 -- name    : ImprovedLinBandits.OFUL.self_normalized_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:20:44.556576+00:00
 -- url     : https://prove2.me/theorems/51f76917-1c07-4ba0-b263-fb2911e6a88d

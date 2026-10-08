@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polymatroids_polymatroid_union_closed_form
 -- name    : Disjunctive.Polymatroids.polymatroid_union_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:14:21.920039+00:00
 -- url     : https://prove2.me/theorems/c0dccfc0-0053-41ce-8bf8-80b51ea91174

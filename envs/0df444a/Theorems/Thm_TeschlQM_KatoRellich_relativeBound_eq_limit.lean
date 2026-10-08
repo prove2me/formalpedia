@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_KatoRellich_relativeBound_eq_limit
 -- name    : TeschlQM.KatoRellich.relativeBound_eq_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T22:22:58.890534+00:00
 -- url     : https://prove2.me/theorems/7e46b2f9-ed32-41d7-955f-034b6940f26b

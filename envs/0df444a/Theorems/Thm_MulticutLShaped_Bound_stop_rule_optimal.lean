@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_Bound_stop_rule_optimal
 -- name    : MulticutLShaped.Bound.stop_rule_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:38:34.230337+00:00
 -- url     : https://prove2.me/theorems/4e64bfb4-c049-421b-842d-77e2d77ae8a9

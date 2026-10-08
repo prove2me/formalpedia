@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_local_analytic_addition_model
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-03T08:25:44.912403+00:00
 -- url     : https://prove2.me/submissions/a997ee55-d170-417e-ba8b-03dafbf44818
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_normalized_analytic_group_chart
 import Definitions.Def_PhilipponMultiplicity_Geometry

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter40
 -- name    : P2MAssembly_Chapter40
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:34:45.558555+00:00
 -- url     : https://prove2.me/theorems/19c3ad82-43dd-40ef-81de-b55b2b7d5a19
 -- title:

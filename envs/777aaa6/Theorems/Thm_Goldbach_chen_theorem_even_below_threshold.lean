@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Goldbach_chen_theorem_even_below_threshold
 -- name    : Goldbach.chen_theorem_even_below_threshold
--- status  : Open
+-- status  : Disproved
 -- author  : @moona3k
 -- created : 2026-10-04T07:13:21.293542+00:00
 -- url     : https://prove2.me/theorems/09fcaa0e-3074-4011-9819-19ae870e0ce5

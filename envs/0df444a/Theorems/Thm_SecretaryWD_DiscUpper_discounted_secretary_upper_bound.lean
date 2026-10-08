@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscUpper_discounted_secretary_upper_bound
 -- name    : SecretaryWD.DiscUpper.discounted_secretary_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:18:12.253133+00:00
 -- url     : https://prove2.me/theorems/19765a92-0a6a-4608-862f-17d7605647dd

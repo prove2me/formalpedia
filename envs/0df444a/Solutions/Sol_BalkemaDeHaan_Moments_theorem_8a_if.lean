@@ -1,0 +1,514 @@
+-- Prove2me | solution 1 for BalkemaDeHaan.Moments.theorem_8a_if
+-- status  : ACCEPTED   (prove)
+-- author  : @mrfancypants
+-- created : 2026-10-07T16:50:29.304641+00:00
+-- url     : https://prove2.me/submissions/5dc64443-02bb-4436-a88b-d04c970a58d1
+
+import Mathlib
+import Definitions.Def_BalkemaDeHaan_ParetoBounds_GammaLaw
+import Definitions.Def_BalkemaDeHaan_Moments_ResidualLife
+
+open MeasureTheory Filter Topology
+open MeasureTheory Filter Topology Set
+
+namespace BalkemaDeHaan.Moments
+
+/-- Layer-cake identity: `∫_{(x,∞)} y^ξ dμ = x^ξ μ(x,∞) + ∫_x^∞ ξ t^{ξ-1} μ(t,∞) dt` in `ℝ≥0∞`. -/
+theorem tail_lintegral_identity (μ : Measure ℝ) (ξ : ℝ) (hξ : 0 < ξ) (x : ℝ) (hx : 0 < x) :
+    ∫⁻ y in Ioi x, ENNReal.ofReal (y ^ ξ) ∂μ =
+      ENNReal.ofReal (x ^ ξ) * μ (Ioi x) +
+        ∫⁻ t in Ioi x, μ (Ioi t) * ENNReal.ofReal (ξ * t ^ (ξ - 1)) := by
+  set g : ℝ → ℝ := fun t => if x < t then ξ * t ^ (ξ - 1) else 0 with hg
+  have hgind : g = (Ioi x).indicator (fun t => ξ * t ^ (ξ - 1)) := by
+    ext t; simp [hg, Set.indicator, Set.mem_Ioi]
+  have g_intble : ∀ T > 0, IntervalIntegrable g volume 0 T := by
+    intro T hT
+    rw [intervalIntegrable_iff_integrableOn_Ioc_of_le hT.le, hgind, IntegrableOn,
+      integrable_indicator_iff measurableSet_Ioi, IntegrableOn, Measure.restrict_restrict measurableSet_Ioi]
+    have hcont : ContinuousOn (fun t : ℝ => ξ * t ^ (ξ - 1)) (Icc x T) := by
+      apply ContinuousOn.mul continuousOn_const
+      apply ContinuousOn.rpow_const continuousOn_id
+      intro t ht; left; exact (hx.trans_le ht.1).ne'
+    exact (hcont.integrableOn_Icc).mono_set (fun t ht => ⟨ht.1.le, ht.2.2⟩)
+  have g_nn : ∀ t, 0 ≤ g t := by
+    intro t; simp only [hg]
+    split_ifs with h
+    · exact mul_nonneg hξ.le (Real.rpow_nonneg (hx.trans h).le _)
+    · exact le_rfl
+  have key := lintegral_comp_eq_lintegral_meas_lt_mul (μ.restrict (Ioi x)) (f := id)
+    (ae_restrict_of_forall_mem measurableSet_Ioi (fun y hy => (hx.trans hy).le))
+    measurable_id.aemeasurable g_intble (Eventually.of_forall g_nn)
+  -- evaluate the inner interval integral
+  have hinner : ∀ y, x < y → ∫ t in (0:ℝ)..y, g t = y ^ ξ - x ^ ξ := by
+    intro y hy
+    have h1 : IntervalIntegrable g volume 0 x := g_intble x hx
+    have h2 : IntervalIntegrable g volume x y :=
+      (g_intble y (hx.trans hy)).mono_set (uIcc_subset_uIcc (by rw [uIcc_of_le (hx.trans hy).le]; exact ⟨hx.le, hy.le⟩) right_mem_uIcc)
+    rw [← intervalIntegral.integral_add_adjacent_intervals h1 h2]
+    have h3 : ∫ t in (0:ℝ)..x, g t = 0 := by
+      apply intervalIntegral.integral_zero_ae
+      refine Eventually.of_forall (fun t ht => ?_)
+      rw [uIoc_of_le hx.le] at ht
+      simp [hg, not_lt.mpr ht.2]
+    have h4 : ∫ t in x..y, g t = ∫ t in x..y, ξ * t ^ (ξ - 1) := by
+      apply intervalIntegral.integral_congr_ae
+      refine Eventually.of_forall (fun t ht => ?_)
+      rw [uIoc_of_le hy.le] at ht
+      simp [hg, ht.1]
+    rw [h3, h4, intervalIntegral.integral_const_mul, integral_rpow (Or.inr ⟨by intro h; linarith,
+      notMem_uIcc_of_lt hx (hx.trans hy)⟩)]
+    rw [sub_add_cancel]; field_simp; ring
+  have hL : ∫⁻ y, ENNReal.ofReal (∫ t in (0:ℝ)..id y, g t) ∂(μ.restrict (Ioi x)) =
+      ∫⁻ y in Ioi x, ENNReal.ofReal (y ^ ξ - x ^ ξ) ∂μ := by
+    apply setLIntegral_congr_fun measurableSet_Ioi
+    intro y hy; simp only [id]; rw [hinner y hy]
+  have hR : ∫⁻ t in Ioi 0, (μ.restrict (Ioi x)) {a : ℝ | t < id a} * ENNReal.ofReal (g t) =
+      ∫⁻ t in Ioi x, μ (Ioi t) * ENNReal.ofReal (ξ * t ^ (ξ - 1)) := by
+    have : ∀ t ∈ Ioi (0:ℝ), (μ.restrict (Ioi x)) {a : ℝ | t < id a} * ENNReal.ofReal (g t) =
+        (Ioi x).indicator (fun t => μ (Ioi t) * ENNReal.ofReal (ξ * t ^ (ξ - 1))) t := by
+      intro t ht
+      simp only [id, hg, Set.indicator, mem_Ioi]
+      split_ifs with h
+      · congr 1
+        rw [Measure.restrict_apply' measurableSet_Ioi]
+        have : ({a : ℝ | t < a} ∩ Ioi x) = Ioi t :=
+          inter_eq_left.mpr (fun a (ha : t < a) => h.trans ha)
+        rw [this]
+      · simp
+    rw [setLIntegral_congr_fun measurableSet_Ioi this, lintegral_indicator measurableSet_Ioi,
+      Measure.restrict_restrict measurableSet_Ioi, inter_eq_left.mpr (Ioi_subset_Ioi hx.le)]
+  rw [hL, hR] at key
+  rw [← key, ← setLIntegral_const, ← lintegral_add_left measurable_const]
+  apply setLIntegral_congr_fun measurableSet_Ioi
+  intro y hy
+  show ENNReal.ofReal (y ^ ξ) = ENNReal.ofReal (x ^ ξ) + ENNReal.ofReal (y ^ ξ - x ^ ξ)
+  rw [← ENNReal.ofReal_add (Real.rpow_nonneg hx.le _)
+    (sub_nonneg.mpr (Real.rpow_le_rpow hx.le (le_of_lt hy) hξ.le))]
+  congr 1; ring
+
+
+theorem tail_antitone (μ : Measure ℝ) [IsFiniteMeasure μ] : Antitone (BalkemaDeHaan.LimitTypes.tail μ) := by
+  intro a b hab
+  unfold BalkemaDeHaan.LimitTypes.tail
+  exact ENNReal.toReal_mono (measure_ne_top _ _) (measure_mono (Ioi_subset_Ioi hab))
+
+theorem tail_measurable (μ : Measure ℝ) [IsFiniteMeasure μ] : Measurable (BalkemaDeHaan.LimitTypes.tail μ) :=
+  (tail_antitone μ).measurable
+
+theorem tail_nonneg (μ : Measure ℝ) (y : ℝ) : 0 ≤ BalkemaDeHaan.LimitTypes.tail μ y :=
+  ENNReal.toReal_nonneg
+
+theorem ofReal_tail (μ : Measure ℝ) [IsFiniteMeasure μ] (y : ℝ) :
+    ENNReal.ofReal (BalkemaDeHaan.LimitTypes.tail μ y) = μ (Ioi y) :=
+  ENNReal.ofReal_toReal (measure_ne_top _ _)
+
+/-- Real-valued form of the layer cake identity, given a finite `ξ`-th moment. -/
+theorem tail_integral_identity (μ : Measure ℝ) [IsFiniteMeasure μ]
+    (ξ : ℝ) (hξ : 0 < ξ)
+    (hmom : IntegrableOn (fun y : ℝ => y ^ ξ) (Set.Ioi 0) μ)
+    (x : ℝ) (hx : 0 < x) :
+    IntegrableOn (fun y : ℝ => y ^ (ξ - 1) * BalkemaDeHaan.LimitTypes.tail μ y) (Set.Ioi x) ∧
+    (∫ y in Set.Ioi x, y ^ ξ ∂μ) =
+      x ^ ξ * BalkemaDeHaan.LimitTypes.tail μ x +
+        ξ * (∫ y in Set.Ioi x, y ^ (ξ - 1) * BalkemaDeHaan.LimitTypes.tail μ y) := by
+  have key := tail_lintegral_identity μ ξ hξ x hx
+  have hmom' : IntegrableOn (fun y : ℝ => y ^ ξ) (Set.Ioi x) μ := hmom.mono_set (Ioi_subset_Ioi hx.le)
+  have hnn : 0 ≤ᵐ[μ.restrict (Ioi x)] (fun y : ℝ => y ^ ξ) :=
+    ae_restrict_of_forall_mem measurableSet_Ioi (fun y hy => Real.rpow_nonneg (hx.trans hy).le _)
+  rw [← ofReal_integral_eq_lintegral_ofReal hmom' hnn] at key
+  set F : ℝ → ℝ := fun t => t ^ (ξ - 1) * BalkemaDeHaan.LimitTypes.tail μ t with hF
+  have hFmeas : Measurable F := (measurable_id.pow_const _).mul (tail_measurable μ)
+  have hFnn : ∀ t ∈ Ioi x, 0 ≤ F t := fun t ht =>
+    mul_nonneg (Real.rpow_nonneg (hx.trans ht).le _) (tail_nonneg μ t)
+  have hR : ∫⁻ t in Ioi x, μ (Ioi t) * ENNReal.ofReal (ξ * t ^ (ξ - 1)) =
+      ∫⁻ t in Ioi x, ENNReal.ofReal (ξ * F t) := by
+    apply setLIntegral_congr_fun measurableSet_Ioi
+    intro t ht
+    show μ (Ioi t) * ENNReal.ofReal (ξ * t ^ (ξ - 1)) = ENNReal.ofReal (ξ * F t)
+    rw [← ofReal_tail, ← ENNReal.ofReal_mul (tail_nonneg μ t)]
+    congr 1; simp only [hF]; ring
+  rw [hR] at key
+  have hfin : ∫⁻ t in Ioi x, ENNReal.ofReal (ξ * F t) < ⊤ := by
+    have : ENNReal.ofReal (∫ y in Set.Ioi x, y ^ ξ ∂μ) < ⊤ := ENNReal.ofReal_lt_top
+    rw [key] at this
+    exact (ENNReal.add_lt_top.mp this).2
+  have hint : IntegrableOn (fun t => ξ * F t) (Ioi x) := by
+    refine ⟨(hFmeas.const_mul ξ).aestronglyMeasurable, ?_⟩
+    rw [hasFiniteIntegral_iff_ofReal (ae_restrict_of_forall_mem measurableSet_Ioi
+      (fun t ht => mul_nonneg hξ.le (hFnn t ht)))]
+    exact hfin
+  have hintF : IntegrableOn F (Ioi x) := by
+    have := hint.const_mul ξ⁻¹
+    refine (IntegrableOn.congr_fun this (fun t _ => ?_) measurableSet_Ioi)
+    field_simp
+  refine ⟨hintF, ?_⟩
+  rw [← ofReal_integral_eq_lintegral_ofReal hint (ae_restrict_of_forall_mem measurableSet_Ioi
+      (fun t ht => mul_nonneg hξ.le (hFnn t ht))), ← ofReal_tail,
+    ← ENNReal.ofReal_mul (Real.rpow_nonneg hx.le _), ← ENNReal.ofReal_add
+      (mul_nonneg (Real.rpow_nonneg hx.le _) (tail_nonneg μ x))
+      (integral_nonneg_of_ae (ae_restrict_of_forall_mem measurableSet_Ioi
+        (fun t ht => mul_nonneg hξ.le (hFnn t ht))))] at key
+  rw [ENNReal.ofReal_eq_ofReal_iff (integral_nonneg_of_ae hnn)
+    (add_nonneg (mul_nonneg (Real.rpow_nonneg hx.le _) (tail_nonneg μ x))
+      (integral_nonneg_of_ae (ae_restrict_of_forall_mem measurableSet_Ioi
+        (fun t ht => mul_nonneg hξ.le (hFnn t ht)))))] at key
+  rw [key, integral_const_mul]
+
+theorem tail_pos (μ : Measure ℝ) [IsFiniteMeasure μ] (hD₀ : ∀ x : ℝ, 0 < μ (Set.Ioi x)) (x : ℝ) :
+    0 < BalkemaDeHaan.LimitTypes.tail μ x :=
+  ENNReal.toReal_pos (hD₀ x).ne' (measure_ne_top _ _)
+
+theorem condMoment_eq (μ : Measure ℝ) (ξ : ℝ) (x : ℝ) (hx : 0 < x) :
+    condMoment μ ξ x = (∫ y in Set.Ioi x, y ^ ξ ∂μ) / (x ^ ξ * BalkemaDeHaan.LimitTypes.tail μ x) := by
+  unfold condMoment BalkemaDeHaan.LimitTypes.tail
+  have : (∫ y in Ioi x, (y / x) ^ ξ ∂μ) = (∫ y in Ioi x, y ^ ξ ∂μ) / x ^ ξ := by
+    rw [← integral_div]
+    apply setIntegral_congr_fun measurableSet_Ioi
+    intro y hy
+    exact Real.div_rpow (hx.trans hy).le hx.le ξ
+  rw [this, div_div]
+
+theorem tail_moment_identity_core (μ : Measure ℝ) [IsProbabilityMeasure μ]
+    (hD₀ : ∀ x : ℝ, 0 < μ (Set.Ioi x))
+    (ξ : ℝ) (hξ : 0 < ξ)
+    (hmom : IntegrableOn (fun y : ℝ => y ^ ξ) (Set.Ioi 0) μ)
+    (x : ℝ) (hx : 0 < x) :
+    IntegrableOn (fun y : ℝ => y ^ (ξ - 1) * BalkemaDeHaan.LimitTypes.tail μ y) (Set.Ioi x) ∧
+    condMoment μ ξ x = (∫ y in Set.Ioi x, y ^ ξ ∂μ) / (x ^ ξ * BalkemaDeHaan.LimitTypes.tail μ x) ∧
+    (∫ y in Set.Ioi x, y ^ ξ ∂μ) / (x ^ ξ * BalkemaDeHaan.LimitTypes.tail μ x) =
+      ξ * (∫ y in Set.Ioi x, y ^ (ξ - 1) * BalkemaDeHaan.LimitTypes.tail μ y) / (x ^ ξ * BalkemaDeHaan.LimitTypes.tail μ x) + 1 := by
+  obtain ⟨h1, h2⟩ := tail_integral_identity μ ξ hξ hmom x hx
+  refine ⟨h1, condMoment_eq μ ξ x hx, ?_⟩
+  have hpos : 0 < x ^ ξ * BalkemaDeHaan.LimitTypes.tail μ x :=
+    mul_pos (Real.rpow_pos_of_pos hx _) (tail_pos μ hD₀ x)
+  have ht : BalkemaDeHaan.LimitTypes.tail μ x ≠ 0 := (tail_pos μ hD₀ x).ne'
+  have hx' : x ^ ξ ≠ 0 := (Real.rpow_pos_of_pos hx _).ne'
+  rw [h2]; field_simp; ring
+
+
+theorem gammaLaw_shift_eq (α x : ℝ) :
+    BalkemaDeHaan.ParetoBounds.GammaLaw α (x - 1) = 1 - (max x 1) ^ (-α) := by
+  unfold BalkemaDeHaan.ParetoBounds.GammaLaw
+  split_ifs with h
+  · rw [max_eq_left (by linarith)]; ring_nf
+  · rw [max_eq_right (by linarith)]; simp
+
+/-- `P{X/t ≤ x | X > t} = 1 - R(xt)/R(t)` for `x ≥ 1`, `t > 0`. -/
+theorem scaledResidualCDF_eq (μ : Measure ℝ) [IsFiniteMeasure μ] (t x : ℝ) (ht : 0 < t) (hx : 1 ≤ x)
+    (h0 : (μ (Ioi t)).toReal ≠ 0) :
+    scaledResidualCDF μ t x =
+      1 - BalkemaDeHaan.LimitTypes.tail μ (x * t) / BalkemaDeHaan.LimitTypes.tail μ t := by
+  unfold scaledResidualCDF BalkemaDeHaan.LimitTypes.tail
+  have hsub : Ioi (x * t) ⊆ Ioi t := Ioi_subset_Ioi (by nlinarith)
+  have h1 : μ (Ioc t (x * t)) = μ (Ioi t) - μ (Ioi (x * t)) := by
+    rw [← Ioi_sdiff_Ioi, measure_sdiff hsub measurableSet_Ioi.nullMeasurableSet (measure_ne_top _ _)]
+  rw [h1, ENNReal.toReal_sub_of_le (measure_mono hsub) (measure_ne_top _ _)]
+  field_simp
+
+
+/-- `F(y) = y^{ξ-1} R(y)` and its primitive `g(t) = ∫_t^∞ F`. -/
+noncomputable def Fm (μ : Measure ℝ) (ξ : ℝ) (y : ℝ) : ℝ := y ^ (ξ - 1) * BalkemaDeHaan.LimitTypes.tail μ y
+
+noncomputable def gm (μ : Measure ℝ) (ξ : ℝ) (t : ℝ) : ℝ := ∫ y in Ioi t, Fm μ ξ y
+
+section IfPart
+
+variable (μ : Measure ℝ) [IsProbabilityMeasure μ] (hD₀ : ∀ x : ℝ, 0 < μ (Set.Ioi x))
+  (ξ : ℝ) (hξ : 0 < ξ) (hmom : IntegrableOn (fun y : ℝ => y ^ ξ) (Set.Ioi 0) μ)
+
+include hξ hmom in
+theorem Fm_integrableOn (x : ℝ) (hx : 0 < x) : IntegrableOn (Fm μ ξ) (Ioi x) :=
+  (tail_integral_identity μ ξ hξ hmom x hx).1
+
+theorem Fm_measurable : Measurable (Fm μ ξ) :=
+  (measurable_id.pow_const _).mul (tail_measurable μ)
+
+include hξ hmom in
+theorem gm_eq (a t : ℝ) (ha : 0 < a) (ht : 0 < t) :
+    gm μ ξ t = gm μ ξ a - ∫ y in a..t, Fm μ ξ y := by
+  have key : ∀ a t : ℝ, 0 < a → a ≤ t → gm μ ξ t = gm μ ξ a - ∫ y in a..t, Fm μ ξ y := by
+    intro a t ha hat
+    unfold gm
+    rw [intervalIntegral.integral_of_le hat, ← Ioc_union_Ioi_eq_Ioi hat,
+      setIntegral_union (Ioc_disjoint_Ioi le_rfl) measurableSet_Ioi
+        ((Fm_integrableOn μ ξ hξ hmom a ha).mono_set Ioc_subset_Ioi_self)
+        (Fm_integrableOn μ ξ hξ hmom t (ha.trans_le hat))]
+    ring
+  rcases le_total a t with h | h
+  · exact key a t ha h
+  · rw [key t a ht h, intervalIntegral.integral_symm]; ring
+
+include hξ hmom in
+theorem gm_hasDerivAt (t : ℝ) (ht : 0 < t) (hc : ContinuousAt (BalkemaDeHaan.LimitTypes.tail μ) t) :
+    HasDerivAt (gm μ ξ) (-(Fm μ ξ t)) t := by
+  have hcF : ContinuousAt (Fm μ ξ) t := by
+    unfold Fm
+    exact ((continuousAt_id.rpow_const (Or.inl ht.ne'))).mul hc
+  have hii : IntervalIntegrable (Fm μ ξ) volume t t := IntervalIntegrable.refl
+  have hd := intervalIntegral.integral_hasDerivAt_right hii
+    (Fm_measurable μ ξ).aestronglyMeasurable.stronglyMeasurableAtFilter hcF
+  have hd' := hd.const_sub (gm μ ξ t)
+  apply hd'.congr_of_eventuallyEq
+  filter_upwards [Ioi_mem_nhds ht] with u hu
+  exact gm_eq μ ξ hξ hmom t u ht hu
+
+include hξ hmom in
+theorem gm_continuousOn (a b : ℝ) (ha : 0 < a) : ContinuousOn (gm μ ξ) (Icc a b) := by
+  by_cases hab : a ≤ b
+  · have h1 : IntegrableOn (Fm μ ξ) (uIcc a b) := by
+      rw [uIcc_of_le hab]
+      exact (Fm_integrableOn μ ξ hξ hmom (a / 2) (by linarith)).mono_set
+        (fun y hy => by simp only [mem_Ioi]; linarith [hy.1])
+    have h2 := ContinuousOn.sub continuousOn_const (intervalIntegral.continuousOn_primitive_interval h1)
+      (f := fun _ => gm μ ξ a)
+    rw [uIcc_of_le hab] at h2
+    refine h2.congr (fun t ht => ?_)
+    exact gm_eq μ ξ hξ hmom a t ha (ha.trans_le ht.1)
+  · rw [Icc_eq_empty hab]; exact continuousOn_empty _
+
+omit [IsProbabilityMeasure μ] in
+theorem gm_nonneg (t : ℝ) (ht : 0 < t) : 0 ≤ gm μ ξ t := by
+  unfold gm
+  apply setIntegral_nonneg measurableSet_Ioi
+  intro y hy
+  exact mul_nonneg (Real.rpow_nonneg (ht.trans hy).le _) (tail_nonneg μ y)
+
+include hξ hmom in
+/-- The derivative formula for `φ_p(s) = g(s) s^p` off the countable discontinuity set. -/
+theorem phi_hasDerivAt (p t : ℝ) (ht : 0 < t) (hc : ContinuousAt (BalkemaDeHaan.LimitTypes.tail μ) t) :
+    HasDerivAt (fun s => gm μ ξ s * s ^ p)
+      (t ^ (p - 1) * (p * gm μ ξ t - t ^ ξ * BalkemaDeHaan.LimitTypes.tail μ t)) t := by
+  have h := (gm_hasDerivAt μ ξ hξ hmom t ht hc).mul (Real.hasDerivAt_rpow_const (p := p) (Or.inl ht.ne'))
+  refine h.congr_deriv ?_
+  unfold Fm
+  have e1 : t ^ ξ = t ^ (ξ - 1) * t := by rw [Real.rpow_sub_one ht.ne']; field_simp
+  have e2 : t ^ p = t ^ (p - 1) * t := by rw [Real.rpow_sub_one ht.ne']; field_simp
+  rw [e1, e2]; ring
+
+include hξ hmom in
+theorem phi_integral (p a b : ℝ) (ha : 0 < a) (hab : a ≤ b) :
+    ∫ s in a..b, s ^ (p - 1) * (p * gm μ ξ s - s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s) =
+      gm μ ξ b * b ^ p - gm μ ξ a * a ^ p := by
+  have hS : Set.Countable {y | ¬ ContinuousAt (BalkemaDeHaan.LimitTypes.tail μ) y} :=
+    (tail_antitone μ).countable_not_continuousAt
+  apply integral_eq_of_hasDerivAt_off_countable_of_le _ _ hab hS
+  · apply (gm_continuousOn μ ξ hξ hmom a b ha).mul
+    exact ContinuousOn.rpow_const continuousOn_id (fun s hs => Or.inl (ha.trans_le hs.1).ne')
+  · intro s hs
+    exact phi_hasDerivAt μ ξ hξ hmom p s (ha.trans hs.1.1) (by simpa using hs.2)
+  · have hcont : ContinuousOn (fun s : ℝ => s ^ (p - 1) * (p * gm μ ξ s)) (Icc a b) := by
+      apply ContinuousOn.mul
+      · exact ContinuousOn.rpow_const continuousOn_id (fun s hs => Or.inl (ha.trans_le hs.1).ne')
+      · exact (gm_continuousOn μ ξ hξ hmom a b ha).const_smul p
+    have hint : IntegrableOn (fun s : ℝ => s ^ (p - 1) * (s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s)) (Icc a b) := by
+      have h1 : IntegrableOn (Fm μ ξ) (Icc a b) :=
+        (Fm_integrableOn μ ξ hξ hmom (a / 2) (by linarith)).mono_set
+          (fun y hy => by simp only [mem_Ioi]; linarith [hy.1])
+      have h2 : ContinuousOn (fun s : ℝ => s ^ p) (Icc a b) :=
+        ContinuousOn.rpow_const continuousOn_id (fun s hs => Or.inl (ha.trans_le hs.1).ne')
+      refine (h1.mul_continuousOn h2 isCompact_Icc).congr_fun (fun s hs => ?_) measurableSet_Icc
+      show Fm μ ξ s * s ^ p = s ^ (p - 1) * (s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s)
+      unfold Fm
+      have hs0 : 0 < s := ha.trans_le hs.1
+      have e1 : s ^ ξ = s ^ (ξ - 1) * s := by rw [Real.rpow_sub_one hs0.ne']; field_simp
+      have e2 : s ^ p = s ^ (p - 1) * s := by rw [Real.rpow_sub_one hs0.ne']; field_simp
+      rw [e1, e2]; ring
+    have := (hcont.integrableOn_Icc).sub hint
+    have h3 : IntegrableOn (fun s : ℝ => s ^ (p - 1) * (p * gm μ ξ s - s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s))
+        (uIcc a b) := by
+      rw [uIcc_of_le hab]
+      exact this.congr_fun (fun s _ => by simp only [Pi.sub_apply]; ring) measurableSet_Icc
+    exact h3.intervalIntegrable
+
+include hD₀ hξ hmom in
+theorem psi_tendsto (α : ℝ) (hξα : ξ < α)
+    (hc : Tendsto (fun t : ℝ => condMoment μ ξ t) atTop (𝓝 (1 - ξ / α)⁻¹)) :
+    Tendsto (fun t : ℝ => t ^ ξ * BalkemaDeHaan.LimitTypes.tail μ t / gm μ ξ t) atTop (𝓝 (α - ξ)) := by
+  have hα : 0 < α := hξ.trans hξα
+  set L : ℝ := ξ / (α - ξ) with hL
+  have hLpos : 0 < L := div_pos hξ (by linarith)
+  have hL' : (1 - ξ / α)⁻¹ - 1 = L := by
+    rw [hL, one_sub_div hα.ne', inv_div]
+    have : α - ξ ≠ 0 := by intro h; linarith
+    field_simp
+    ring
+  have hH : Tendsto (fun t : ℝ => ξ * gm μ ξ t / (t ^ ξ * BalkemaDeHaan.LimitTypes.tail μ t)) atTop (𝓝 L) := by
+    rw [← hL']
+    apply (hc.sub_const 1).congr'
+    filter_upwards [eventually_gt_atTop (0:ℝ)] with t ht
+    obtain ⟨_, h2, h3⟩ := tail_moment_identity_core μ hD₀ ξ hξ hmom t ht
+    rw [h2, h3]; unfold gm Fm; ring
+  have h2 := (hH.inv₀ hLpos.ne').const_mul ξ
+  have hlim : ξ * L⁻¹ = α - ξ := by
+    rw [hL, inv_div]; field_simp
+  rw [hlim] at h2
+  apply h2.congr'
+  refine Eventually.of_forall (fun t => ?_)
+  simp only
+  rw [inv_div, ← mul_div_assoc, mul_div_mul_left _ _ hξ.ne']
+
+include hD₀ hξ hmom in
+theorem gm_ratio_bounds (α : ℝ) (hξα : ξ < α)
+    (hc : Tendsto (fun t : ℝ => condMoment μ ξ t) atTop (𝓝 (1 - ξ / α)⁻¹)) (ε : ℝ) (hε : 0 < ε) :
+    ∃ T : ℝ, 0 < T ∧ ∀ t, T ≤ t → 0 < gm μ ξ t ∧ ∀ x, 1 ≤ x →
+      x ^ (-(α - ξ + ε)) ≤ gm μ ξ (x * t) / gm μ ξ t ∧
+      gm μ ξ (x * t) / gm μ ξ t ≤ x ^ (-(α - ξ - ε)) := by
+  have hψ := psi_tendsto μ hD₀ ξ hξ hmom α hξα hc
+  have hev := ((Metric.tendsto_nhds.mp hψ) ε hε).and
+    ((hψ.eventually_const_lt (by linarith : (0:ℝ) < α - ξ)).and (eventually_ge_atTop (1:ℝ)))
+  obtain ⟨T, hT⟩ := eventually_atTop.mp hev
+  -- facts for s ≥ max T 1
+  have hpos : ∀ s, max T 1 ≤ s → 0 < gm μ ξ s := by
+    intro s hs
+    obtain ⟨_, h2, h3⟩ := hT s ((le_max_left _ _).trans hs)
+    have hs0 : 0 < s := by linarith [le_max_right T 1]
+    rcases (gm_nonneg μ ξ s hs0).lt_or_eq with h | h
+    · exact h
+    · exfalso; rw [← h, div_zero] at h2; exact lt_irrefl _ h2
+  have hlow : ∀ s, max T 1 ≤ s → (α - ξ - ε) * gm μ ξ s ≤ s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s := by
+    intro s hs
+    obtain ⟨h1, _, _⟩ := hT s ((le_max_left _ _).trans hs)
+    rw [Real.dist_eq, abs_sub_lt_iff] at h1
+    have := hpos s hs
+    rw [← le_div_iff₀ this]; linarith [h1.2]
+  have hup : ∀ s, max T 1 ≤ s → s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s ≤ (α - ξ + ε) * gm μ ξ s := by
+    intro s hs
+    obtain ⟨h1, _, _⟩ := hT s ((le_max_left _ _).trans hs)
+    rw [Real.dist_eq, abs_sub_lt_iff] at h1
+    have := hpos s hs
+    rw [← div_le_iff₀ this]; linarith [h1.1]
+  refine ⟨max T 1, by positivity, fun t ht => ⟨hpos t ht, fun x hx => ?_⟩⟩
+  have ht0 : 0 < t := by linarith [le_max_right T 1]
+  have hxt : t ≤ x * t := by nlinarith
+  have hxt' : max T 1 ≤ x * t := ht.trans hxt
+  have hgt := hpos t ht
+  have hgxt := hpos (x * t) hxt'
+  have hx0 : 0 < x := by linarith
+  constructor
+  · -- lower bound, p = α - ξ + ε
+    set p := α - ξ + ε with hp
+    have hI := phi_integral μ ξ hξ hmom p t (x * t) ht0 hxt
+    have hnn : 0 ≤ ∫ s in t..(x * t), s ^ (p - 1) * (p * gm μ ξ s - s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s) := by
+      apply intervalIntegral.integral_nonneg hxt
+      intro s hs
+      have hs0 : 0 < s := ht0.trans_le hs.1
+      apply mul_nonneg (Real.rpow_nonneg hs0.le _)
+      linarith [hup s (ht.trans hs.1)]
+    rw [hI] at hnn
+    rw [Real.mul_rpow hx0.le ht0.le] at hnn
+    have htp : 0 < t ^ p := Real.rpow_pos_of_pos ht0 _
+    have hxp : 0 < x ^ p := Real.rpow_pos_of_pos hx0 _
+    rw [Real.rpow_neg hx0.le, le_div_iff₀ hgt, inv_mul_le_iff₀ hxp]
+    nlinarith
+  · -- upper bound, p = α - ξ - ε
+    set p := α - ξ - ε with hp
+    have hI := phi_integral μ ξ hξ hmom p t (x * t) ht0 hxt
+    have hnn : 0 ≤ ∫ s in t..(x * t), -(s ^ (p - 1) * (p * gm μ ξ s - s ^ ξ * BalkemaDeHaan.LimitTypes.tail μ s)) := by
+      apply intervalIntegral.integral_nonneg hxt
+      intro s hs
+      have hs0 : 0 < s := ht0.trans_le hs.1
+      rw [neg_nonneg]
+      apply mul_nonpos_of_nonneg_of_nonpos (Real.rpow_nonneg hs0.le _)
+      linarith [hlow s (ht.trans hs.1)]
+    rw [intervalIntegral.integral_neg, hI, neg_nonneg] at hnn
+    rw [Real.mul_rpow hx0.le ht0.le] at hnn
+    have htp : 0 < t ^ p := Real.rpow_pos_of_pos ht0 _
+    have hxp : 0 < x ^ p := Real.rpow_pos_of_pos hx0 _
+    rw [Real.rpow_neg hx0.le, div_le_iff₀ hgt, ← div_eq_inv_mul, le_div_iff₀ hxp]
+    nlinarith
+
+include hD₀ hξ hmom in
+theorem gm_ratio_tendsto (α : ℝ) (hξα : ξ < α)
+    (hc : Tendsto (fun t : ℝ => condMoment μ ξ t) atTop (𝓝 (1 - ξ / α)⁻¹)) (x : ℝ) (hx : 1 ≤ x) :
+    Tendsto (fun t : ℝ => gm μ ξ (x * t) / gm μ ξ t) atTop (𝓝 (x ^ (-(α - ξ)))) := by
+  have hx0 : 0 < x := by linarith
+  have hcont : ∀ c : ℝ, Tendsto (fun ε : ℝ => x ^ (-(α - ξ + c * ε))) (𝓝[>] 0) (𝓝 (x ^ (-(α - ξ)))) := by
+    intro c
+    have h1 : ContinuousAt (fun ε : ℝ => x ^ (-(α - ξ + c * ε))) 0 := by
+      apply ContinuousAt.comp (g := fun q : ℝ => x ^ q)
+      · exact Real.continuousAt_const_rpow hx0.ne'
+      · fun_prop
+    have h2 := h1.tendsto
+    simp only [mul_zero, add_zero] at h2
+    exact tendsto_nhdsWithin_of_tendsto_nhds h2
+  rw [tendsto_order]
+  constructor
+  · intro a' ha'
+    obtain ⟨ε, hε1, hε2⟩ := (((hcont 1).eventually_const_lt ha').and self_mem_nhdsWithin).exists
+    obtain ⟨T, hT, hb⟩ := gm_ratio_bounds μ hD₀ ξ hξ hmom α hξα hc ε hε2
+    filter_upwards [eventually_ge_atTop T] with t ht
+    have := (hb t ht).2 x hx
+    rw [one_mul] at hε1
+    exact hε1.trans_le this.1
+  · intro a' ha'
+    obtain ⟨ε, hε1, hε2⟩ := (((hcont (-1)).eventually_lt_const ha').and self_mem_nhdsWithin).exists
+    obtain ⟨T, hT, hb⟩ := gm_ratio_bounds μ hD₀ ξ hξ hmom α hξα hc ε hε2
+    filter_upwards [eventually_ge_atTop T] with t ht
+    have := (hb t ht).2 x hx
+    rw [neg_one_mul, ← sub_eq_add_neg] at hε1
+    exact this.2.trans_lt hε1
+
+include hD₀ hξ hmom in
+theorem tail_ratio_tendsto_of_moment (α : ℝ) (hξα : ξ < α)
+    (hc : Tendsto (fun t : ℝ => condMoment μ ξ t) atTop (𝓝 (1 - ξ / α)⁻¹)) (x : ℝ) (hx : 1 ≤ x) :
+    Tendsto (fun t : ℝ => BalkemaDeHaan.LimitTypes.tail μ (x * t) / BalkemaDeHaan.LimitTypes.tail μ t)
+      atTop (𝓝 (x ^ (-α))) := by
+  have hx0 : 0 < x := by linarith
+  have hψ := psi_tendsto μ hD₀ ξ hξ hmom α hξα hc
+  have hψx : Tendsto (fun t : ℝ => (x * t) ^ ξ * BalkemaDeHaan.LimitTypes.tail μ (x * t) / gm μ ξ (x * t))
+      atTop (𝓝 (α - ξ)) :=
+    hψ.comp (tendsto_id.const_mul_atTop hx0)
+  have hne : α - ξ ≠ 0 := by intro h; linarith
+  have h1 := ((hψx.div hψ hne).mul (gm_ratio_tendsto μ hD₀ ξ hξ hmom α hξα hc x hx)).mul_const (x ^ (-ξ))
+  have hval : (α - ξ) / (α - ξ) * x ^ (-(α - ξ)) * x ^ (-ξ) = x ^ (-α) := by
+    rw [div_self hne, one_mul, ← Real.rpow_add hx0]; ring_nf
+  rw [hval] at h1
+  obtain ⟨T, hT, hb⟩ := gm_ratio_bounds μ hD₀ ξ hξ hmom α hξα hc 1 one_pos
+  apply h1.congr'
+  filter_upwards [eventually_ge_atTop T] with t ht
+  have ht0 : 0 < t := hT.trans_le ht
+  have hgt := (hb t ht).1
+  have hgxt := (hb (x * t) (ht.trans (by nlinarith))).1
+  have htail := tail_pos μ hD₀ t
+  have htξ : 0 < t ^ ξ := Real.rpow_pos_of_pos ht0 _
+  have hxξ : 0 < x ^ ξ := Real.rpow_pos_of_pos hx0 _
+  show (x * t) ^ ξ * BalkemaDeHaan.LimitTypes.tail μ (x * t) / gm μ ξ (x * t) /
+      (t ^ ξ * BalkemaDeHaan.LimitTypes.tail μ t / gm μ ξ t) * (gm μ ξ (x * t) / gm μ ξ t) * x ^ (-ξ) = _
+  rw [Real.mul_rpow hx0.le ht0.le, Real.rpow_neg hx0.le]
+  field_simp
+
+include hD₀ hξ hmom in
+theorem theorem_8a_if_core (α : ℝ) (hξα : ξ < α)
+    (hc : Tendsto (fun t : ℝ => condMoment μ ξ t) atTop (𝓝 (1 - ξ / α)⁻¹)) :
+    ∀ x : ℝ, 0 < x →
+      Tendsto (fun t : ℝ => scaledResidualCDF μ t x) atTop (𝓝 (BalkemaDeHaan.ParetoBounds.GammaLaw α (x - 1))) := by
+  intro x hx
+  rw [gammaLaw_shift_eq]
+  rcases le_or_gt 1 x with h1 | h1
+  · rw [max_eq_left h1]
+    have h := (tail_ratio_tendsto_of_moment μ hD₀ ξ hξ hmom α hξα hc x h1).const_sub 1
+    apply h.congr'
+    filter_upwards [eventually_gt_atTop (0:ℝ)] with t ht
+    rw [scaledResidualCDF_eq μ t x ht h1 (tail_pos μ hD₀ t).ne']
+  · rw [max_eq_right h1.le, Real.one_rpow, sub_self]
+    apply tendsto_const_nhds.congr'
+    filter_upwards [eventually_gt_atTop (0:ℝ)] with t ht
+    unfold scaledResidualCDF
+    have : Ioc t (x * t) = ∅ := Ioc_eq_empty (by nlinarith)
+    rw [this, measure_empty, ENNReal.toReal_zero, zero_div]
+
+end IfPart
+
+end BalkemaDeHaan.Moments
+
+open BalkemaDeHaan.Moments
+
+
+theorem solution (μ : Measure ℝ) [IsProbabilityMeasure μ]
+    (hD₀ : ∀ x : ℝ, 0 < μ (Set.Ioi x))
+    (α ξ : ℝ) (hξ : 0 < ξ) (hξα : ξ < α)
+    (hmom : IntegrableOn (fun y : ℝ => y ^ ξ) (Set.Ioi 0) μ)
+    (hc : Tendsto (fun t : ℝ => condMoment μ ξ t) atTop (𝓝 (1 - ξ / α)⁻¹)) :
+    ∀ x : ℝ, 0 < x →
+      Tendsto (fun t : ℝ => scaledResidualCDF μ t x) atTop (𝓝 (BalkemaDeHaan.ParetoBounds.GammaLaw α (x - 1))) := by
+  exact theorem_8a_if_core μ hD₀ ξ hξ hmom α hξα hc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Simulation_theorem_2_1
 -- name    : OnlineRandomization.Simulation.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:16:42.013863+00:00
 -- url     : https://prove2.me/theorems/ecba8c0f-3e11-4546-b8cd-8d9e08b01b88

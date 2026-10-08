@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_CostBounds_area_chain
 -- name    : ZhengQR.CostBounds.area_chain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:01:18.142234+00:00
 -- url     : https://prove2.me/theorems/cdc2870e-2a33-44c2-84c8-f29faa69db76

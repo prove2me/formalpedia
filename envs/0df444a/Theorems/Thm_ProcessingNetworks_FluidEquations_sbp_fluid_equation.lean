@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FluidEquations_sbp_fluid_equation
 -- name    : ProcessingNetworks.FluidEquations.sbp_fluid_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:48:43.437525+00:00
 -- url     : https://prove2.me/theorems/3a26d45b-2d9c-4006-bcfb-71c1d0c05917

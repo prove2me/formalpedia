@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_chapter03_erdos
 -- name    : ProofsInTheBook.Chapter03.chapter03_erdos
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:25:42.748782+00:00
 -- url     : https://prove2.me/theorems/72a264be-2e67-415b-a874-86e96147066f
 -- title:

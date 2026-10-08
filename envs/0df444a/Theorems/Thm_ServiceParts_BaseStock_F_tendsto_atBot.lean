@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_BaseStock_F_tendsto_atBot
 -- name    : ServiceParts.BaseStock.F_tendsto_atBot
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:32:17.21525+00:00
 -- url     : https://prove2.me/theorems/a3cf359a-351b-4c63-9eaa-24b9917feb6a

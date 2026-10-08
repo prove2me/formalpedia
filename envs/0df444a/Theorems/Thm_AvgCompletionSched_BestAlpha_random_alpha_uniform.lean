@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_BestAlpha_random_alpha_uniform
 -- name    : AvgCompletionSched.BestAlpha.random_alpha_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:49:57.864983+00:00
 -- url     : https://prove2.me/theorems/d651ea8e-cb61-4313-8a1a-a2b4d18a7ddf

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.log_factorial_le_stirling_upper
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:22.484281+00:00
 -- url     : https://prove2.me/submissions/7851f731-7196-4eed-8b4f-60fa12623a0b
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.isAtomic_of_mem_squareSideAtomicEdges
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:51:02.845704+00:00
 -- url     : https://prove2.me/submissions/5db21135-7027-474a-9d46-05c4a3437d96
 

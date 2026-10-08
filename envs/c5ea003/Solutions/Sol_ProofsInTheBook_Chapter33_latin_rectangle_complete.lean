@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.latin_rectangle_complete
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:59.066196+00:00
 -- url     : https://prove2.me/submissions/99a33cdd-8577-4217-ae5e-4d353acc6cb4
 

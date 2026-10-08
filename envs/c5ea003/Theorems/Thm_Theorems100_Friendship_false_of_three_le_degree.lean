@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Theorems100_Friendship_false_of_three_le_degree
 -- name    : Theorems100.Friendship.false_of_three_le_degree
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:41:50.292298+00:00
 -- url     : https://prove2.me/theorems/d5e18bd1-11e4-491b-9763-83d12245dcb5
 -- title:

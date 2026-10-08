@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MixedMatrices_konig_egervary_mixed_matrix
 -- name    : DiscreteConvex.MixedMatrices.konig_egervary_mixed_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:48:08.84132+00:00
 -- url     : https://prove2.me/theorems/57127834-fa4f-4b6b-95cc-23022065db8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GKP1998_besselK_decay_besselI_growth
 -- name    : GKP1998.besselK_decay_besselI_growth
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-26T00:45:34.465429+00:00
 -- url     : https://prove2.me/theorems/df2165ba-ec2d-414d-b450-f2a9610b81e5

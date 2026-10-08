@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_signSeqDoor_iff_remove_altPos
 -- name    : ProofsInTheBook.Chapter39.signSeqDoor_iff_remove_altPos
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:45.97973+00:00
 -- url     : https://prove2.me/theorems/00ca8597-7d77-48fb-a9e9-a6dfae20e1a0
 -- title:

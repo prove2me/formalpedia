@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter40_chapter40
 -- name    : ProofsInTheBook.Chapter40.chapter40
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:41:35.758932+00:00
 -- url     : https://prove2.me/theorems/451ec463-d71a-4917-a998-0dbe03a8b32c
 -- title:

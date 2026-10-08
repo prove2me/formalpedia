@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.signSeqDeletionParity
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:34.775142+00:00
 -- url     : https://prove2.me/submissions/e8dfe423-1609-49ba-b983-a7b6fa07c7b4
 

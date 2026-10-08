@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.atomicMult_even_of_interior
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:50:58.674733+00:00
 -- url     : https://prove2.me/submissions/b3c3bb1d-c608-4ba4-a969-97d41b530755
 

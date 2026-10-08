@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_FirstOrder_worstCaseVaR_singletons
 -- name    : DRCVRP.FirstOrder.worstCaseVaR_singletons
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:08:00.972089+00:00
 -- url     : https://prove2.me/theorems/a2d9c0f7-d76b-4a05-9a87-6a5379bf793a

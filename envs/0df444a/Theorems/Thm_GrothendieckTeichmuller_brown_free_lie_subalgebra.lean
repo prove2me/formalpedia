@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_brown_free_lie_subalgebra
 -- name    : GrothendieckTeichmuller.brown_free_lie_subalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-13T21:56:27.290509+00:00
 -- url     : https://prove2.me/theorems/f3b4a391-7e64-4ad9-8954-7e085b00000e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_std_normal_level_sign
 -- name    : SeatInventory.Gaussian.std_normal_level_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:01:58.842624+00:00
 -- url     : https://prove2.me/theorems/a9ecbfaa-64eb-4750-a25c-31d961753fa2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Covariance_no_deterministic_reformulation
 -- name    : DRCVRP.Covariance.no_deterministic_reformulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:38:06.686702+00:00
 -- url     : https://prove2.me/theorems/048ce775-a101-46e9-afa4-23bd59fb87f4

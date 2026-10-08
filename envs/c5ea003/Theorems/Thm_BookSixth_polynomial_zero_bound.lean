@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_polynomial_zero_bound
 -- name    : BookSixth.polynomial_zero_bound
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:46.520465+00:00
 -- url     : https://prove2.me/theorems/af8fc9c2-e763-4ed9-87c6-a53db712d6a8
 -- title:

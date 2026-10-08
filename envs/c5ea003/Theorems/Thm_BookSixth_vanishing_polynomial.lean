@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_vanishing_polynomial
 -- name    : BookSixth.vanishing_polynomial
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:44.857685+00:00
 -- url     : https://prove2.me/theorems/fa2f5046-dc33-4fa8-9ead-3082981a4c26
 -- title:

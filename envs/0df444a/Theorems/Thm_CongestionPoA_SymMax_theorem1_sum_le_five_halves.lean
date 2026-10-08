@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_theorem1_sum_le_five_halves
 -- name    : CongestionPoA.SymMax.theorem1_sum_le_five_halves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:11:54.993207+00:00
 -- url     : https://prove2.me/theorems/74f3a792-cda7-4521-93e4-80a75fa21c20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiDivRobust_Barrier_perspective_compatibility
 -- name    : PhiDivRobust.Barrier.perspective_compatibility
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:55:49.405985+00:00
 -- url     : https://prove2.me/theorems/6def4350-a586-41e7-9696-cbc0bde74b2f

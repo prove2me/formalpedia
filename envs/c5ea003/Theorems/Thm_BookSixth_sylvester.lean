@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_sylvester
 -- name    : BookSixth.sylvester
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:53.132178+00:00
 -- url     : https://prove2.me/theorems/66beac61-578b-42f2-a83e-abce0fed05fa
 -- title:

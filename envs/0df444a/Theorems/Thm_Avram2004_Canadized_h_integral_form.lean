@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Avram2004_Canadized_h_integral_form
 -- name    : Avram2004.Canadized.h_integral_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:50:41.073985+00:00
 -- url     : https://prove2.me/theorems/48e1652e-00a1-4da5-9c33-f73e4bdbcc05

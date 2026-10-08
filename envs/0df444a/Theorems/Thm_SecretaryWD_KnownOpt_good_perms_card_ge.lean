@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_KnownOpt_good_perms_card_ge
 -- name    : SecretaryWD.KnownOpt.good_perms_card_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:58:55.960754+00:00
 -- url     : https://prove2.me/theorems/e0478c29-368c-4d03-9e51-c051a1dcd720

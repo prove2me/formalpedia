@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JordanCurve_accessibility_from_arc_complement
 -- name    : JordanCurve.accessibility_from_arc_complement
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-09-25T00:26:52.140283+00:00
 -- url     : https://prove2.me/theorems/0ca6aac0-bde3-4fa8-9d75-39858e86ffe0

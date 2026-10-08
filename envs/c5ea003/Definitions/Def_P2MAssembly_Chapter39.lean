@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter39
 -- name    : P2MAssembly_Chapter39
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:02:59.609811+00:00
 -- url     : https://prove2.me/theorems/f6f2a642-3906-4812-93cb-97c4a5542f48
 -- title:

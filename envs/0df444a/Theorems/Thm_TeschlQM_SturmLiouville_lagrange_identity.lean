@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SturmLiouville_lagrange_identity
 -- name    : TeschlQM.SturmLiouville.lagrange_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:47:08.121661+00:00
 -- url     : https://prove2.me/theorems/e1320840-5c9f-4a1a-ba28-c54db5cd649d

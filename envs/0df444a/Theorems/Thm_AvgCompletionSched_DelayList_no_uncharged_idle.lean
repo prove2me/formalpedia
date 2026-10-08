@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_DelayList_no_uncharged_idle
 -- name    : AvgCompletionSched.DelayList.no_uncharged_idle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:03:51.290564+00:00
 -- url     : https://prove2.me/theorems/ea1f261a-a8d9-413b-86b8-8eca5719da70

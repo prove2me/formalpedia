@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_normalized_analytic_group_chart
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-03T09:32:07.104123+00:00
 -- url     : https://prove2.me/submissions/f82b3114-c841-46ff-9051-f24a6ddee002
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_nonsingular_normalized_polynomial_presentation
 import Theorems.Thm_PhilipponMultiplicity_normalized_group_neighborhood_zariski_interior

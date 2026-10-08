@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter12_chapter12
 -- name    : ProofsInTheBook.Chapter12.chapter12
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:24:19.793652+00:00
 -- url     : https://prove2.me/theorems/4b85f42a-582d-4091-a6f3-e5ca58a303ac
 -- title:

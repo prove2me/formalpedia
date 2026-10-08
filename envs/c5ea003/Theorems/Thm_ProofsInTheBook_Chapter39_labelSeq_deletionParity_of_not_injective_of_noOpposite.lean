@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_labelSeq_deletionParity_of_not_injective_of_noOpposite
 -- name    : ProofsInTheBook.Chapter39.labelSeq_deletionParity_of_not_injective_of_noOpposite
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:16.464807+00:00
 -- url     : https://prove2.me/theorems/f9831e02-4b35-4042-a196-0af3d6844df3
 -- title:

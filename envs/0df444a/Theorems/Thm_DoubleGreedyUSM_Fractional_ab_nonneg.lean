@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleGreedyUSM_Fractional_ab_nonneg
 -- name    : DoubleGreedyUSM.Fractional.ab_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:05:12.640982+00:00
 -- url     : https://prove2.me/theorems/cd6ce5e5-40f1-4917-a88e-59fb2117d47a

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookSixth.sixthEditionExtension
--- status  : SKETCH_ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- status  : ACCEPTED   (prove)
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:44:27.273819+00:00
 -- url     : https://prove2.me/submissions/90b8ddae-dd25-4638-807c-b261ab64d340
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BookSixth

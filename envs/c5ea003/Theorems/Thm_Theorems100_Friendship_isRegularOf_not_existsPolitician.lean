@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_Theorems100_Friendship_isRegularOf_not_existsPolitician
 -- name    : Theorems100.Friendship.isRegularOf_not_existsPolitician
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:42:00.97465+00:00
 -- url     : https://prove2.me/theorems/d478936d-8a28-4b23-9db1-667f542ee008
 -- title:

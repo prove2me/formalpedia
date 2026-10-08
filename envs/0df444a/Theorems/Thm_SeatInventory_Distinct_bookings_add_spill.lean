@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Distinct_bookings_add_spill
 -- name    : SeatInventory.Distinct.bookings_add_spill
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:05:06.57033+00:00
 -- url     : https://prove2.me/theorems/b6384442-bfd7-4536-9582-7fe35c3659a1

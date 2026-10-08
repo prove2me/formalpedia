@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_EOQHeuristic_reorderPt_props
 -- name    : ZhengQR.EOQHeuristic.reorderPt_props
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:41:30.772124+00:00
 -- url     : https://prove2.me/theorems/247a58c8-9c3b-4e84-94b9-5cc94519db67

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_FirstOrder_worstCaseVaR_disjoint_blocks
 -- name    : DRCVRP.FirstOrder.worstCaseVaR_disjoint_blocks
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:05:09.889363+00:00
 -- url     : https://prove2.me/theorems/7416442a-1dc2-4414-852f-6e2af4b79ca3

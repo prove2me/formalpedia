@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DurrettProbability_brownian_zeros_accumulate
 -- name    : DurrettProbability.brownian_zeros_accumulate
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-18T18:27:00.771543+00:00
 -- url     : https://prove2.me/theorems/b730c894-0b11-4d98-b71f-7d8b837d165e

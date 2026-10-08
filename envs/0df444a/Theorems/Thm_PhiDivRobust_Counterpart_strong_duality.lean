@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiDivRobust_Counterpart_strong_duality
 -- name    : PhiDivRobust.Counterpart.strong_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:51:20.325872+00:00
 -- url     : https://prove2.me/theorems/0c5d62d4-38bd-45cd-82a5-e4d5ba809667

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter30_sum_eq_neg_self_of_sign_reversing_equiv
 -- name    : ProofsInTheBook.Chapter30.sum_eq_neg_self_of_sign_reversing_equiv
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:29:21.051167+00:00
 -- url     : https://prove2.me/theorems/15bc2c95-dc3a-4b94-a998-de20cc26e4f2
 -- title:

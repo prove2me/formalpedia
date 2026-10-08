@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorCalculus_conservative_iff_closed_line_integrals_vanish
 -- name    : VectorCalculus.conservative_iff_closed_line_integrals_vanish
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-09-23T00:07:15.926863+00:00
 -- url     : https://prove2.me/theorems/66928f3a-ea07-45a7-8382-8238757ba27f

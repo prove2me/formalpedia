@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Restart_restart_cost_le
 -- name    : OnlineRandomization.Restart.restart_cost_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:36:43.29399+00:00
 -- url     : https://prove2.me/theorems/fcc20d9b-3375-4b43-a053-b3d15ca2b359

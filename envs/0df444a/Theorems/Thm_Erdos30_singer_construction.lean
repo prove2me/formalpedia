@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos30_singer_construction
 -- name    : Erdos30.singer_construction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:42:10.680993+00:00
 -- url     : https://prove2.me/theorems/1155a2d1-fd96-4912-b588-b1205ed0aa67

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter18_chapter18
 -- name    : ProofsInTheBook.Chapter18.chapter18
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:17:17.63446+00:00
 -- url     : https://prove2.me/theorems/67bd1ce2-4cb7-44f1-8ce4-e3719c7657e1
 -- title:

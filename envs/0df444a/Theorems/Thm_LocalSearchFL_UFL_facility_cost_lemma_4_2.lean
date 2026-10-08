@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_UFL_facility_cost_lemma_4_2
 -- name    : LocalSearchFL.UFL.facility_cost_lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:18:22.254369+00:00
 -- url     : https://prove2.me/theorems/30b46755-ca27-41dd-9149-8b8a1307399e

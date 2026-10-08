@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumberField_exists_injective_inertia_monoidHom_zmod_units
 -- name    : NumberField.exists_injective_inertia_monoidHom_zmod_units
--- status  : Open
+-- status  : Proved
 -- author  : @ebayuser
 -- created : 2026-10-04T10:10:25.256718+00:00
 -- url     : https://prove2.me/theorems/4ced357f-1584-41af-ad93-1b86464964e7

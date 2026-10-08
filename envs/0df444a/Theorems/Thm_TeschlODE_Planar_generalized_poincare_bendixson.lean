@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Planar_generalized_poincare_bendixson
 -- name    : TeschlODE.Planar.generalized_poincare_bendixson
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:56:03.390048+00:00
 -- url     : https://prove2.me/theorems/ae33e1e9-60b3-4e46-a184-1ef83e4dd039

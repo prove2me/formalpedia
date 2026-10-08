@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CirclePackingConstants_eight_unit_square_close_pair
 -- name    : CirclePackingConstants.eight_unit_square_close_pair
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-22T06:48:31.865992+00:00
 -- url     : https://prove2.me/theorems/10e20652-2f2d-42dd-ab31-cd6bdeb016b5

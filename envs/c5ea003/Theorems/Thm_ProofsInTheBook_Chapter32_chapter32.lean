@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter32_chapter32
 -- name    : ProofsInTheBook.Chapter32.chapter32
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:58.545588+00:00
 -- url     : https://prove2.me/theorems/9f9f3a48-7ca5-4852-997b-0a38e43fecca
 -- title:

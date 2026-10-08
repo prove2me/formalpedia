@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShorNonsmooth_SpaceDilation_sdg_A_comp_B
 -- name    : ShorNonsmooth.SpaceDilation.sdg_A_comp_B
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-04T08:36:06.230183+00:00
 -- url     : https://prove2.me/theorems/9e0883d2-40ca-4bcb-a5be-8bf0137da645

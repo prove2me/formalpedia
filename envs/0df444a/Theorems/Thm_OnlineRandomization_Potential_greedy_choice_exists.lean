@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Potential_greedy_choice_exists
 -- name    : OnlineRandomization.Potential.greedy_choice_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:29:02.523553+00:00
 -- url     : https://prove2.me/theorems/aa3a847b-c0d6-4cde-9e53-d458e4d91a0d

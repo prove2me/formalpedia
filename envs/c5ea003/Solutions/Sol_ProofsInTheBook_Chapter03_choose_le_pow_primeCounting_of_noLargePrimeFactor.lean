@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.choose_le_pow_primeCounting_of_noLargePrimeFactor
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:33.208515+00:00
 -- url     : https://prove2.me/submissions/1b52d19a-ddff-47b3-bef7-a86486632aba
 

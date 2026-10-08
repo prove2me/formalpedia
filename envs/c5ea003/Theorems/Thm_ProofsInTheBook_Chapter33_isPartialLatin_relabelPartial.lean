@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_isPartialLatin_relabelPartial
 -- name    : ProofsInTheBook.Chapter33.isPartialLatin_relabelPartial
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:17.667521+00:00
 -- url     : https://prove2.me/theorems/f254d806-8893-4fb7-bcd6-db22bfce17b2
 -- title:

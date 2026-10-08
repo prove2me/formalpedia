@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_UFL_ufl_locality_gap
 -- name    : LocalSearchFL.UFL.ufl_locality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:18:52.325694+00:00
 -- url     : https://prove2.me/theorems/8d641d7d-687f-4311-a82f-27350ecf6b87

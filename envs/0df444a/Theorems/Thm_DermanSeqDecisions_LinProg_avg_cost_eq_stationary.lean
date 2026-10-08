@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_LinProg_avg_cost_eq_stationary
 -- name    : DermanSeqDecisions.LinProg.avg_cost_eq_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:45:17.653167+00:00
 -- url     : https://prove2.me/theorems/b3c300bc-7997-406c-a992-998d4c7b2535

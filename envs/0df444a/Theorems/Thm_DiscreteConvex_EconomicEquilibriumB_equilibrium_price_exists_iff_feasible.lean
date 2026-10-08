@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_EconomicEquilibriumB_equilibrium_price_exists_iff_feasible
 -- name    : DiscreteConvex.EconomicEquilibriumB.equilibrium_price_exists_iff_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:14:45.176058+00:00
 -- url     : https://prove2.me/theorems/4722b93d-e412-4db6-9189-aa057dcd67b9

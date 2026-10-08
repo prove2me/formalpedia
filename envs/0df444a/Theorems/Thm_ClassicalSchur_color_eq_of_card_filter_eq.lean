@@ -31,7 +31,7 @@
 --
 --   **Formalization Note.** The colour function takes ordered pairs and need not be symmetric; the degrees of $v$ and $J(v)$ are counted with $v$ and $J(v)$ as first argument, and the pair of a point with itself is not counted. The types $\alpha$ and $\gamma$ are arbitrary (Lean `Type*` with `DecidableEq`), and $W$ is a `Finset`. The conditions on $J$ are required only on $W$. The case $J(v) = v$ is allowed, and the conclusion is then immediate.
 -- source:
---   Note "The frontier of the centred Schur bound: balance, saturation and reflection" (schur-numbers project, 2026-10-02, unpublished), section "Automorphism extension". Lean proof not yet in a public repository.
+--   A. McKenna, "S(6) ≤ 1801 if R₄(3) ≤ 61: a centred Schur bound and the structure at the frontier", Zenodo (2026), https://doi.org/10.5281/zenodo.23156099, Lemma 4.5 (§4.3, automorphism extension). Lean source: https://github.com/mysticflounder/schur-centred-bound/blob/v1.0.1/ClassicalSchur/Frontier.lean#L368-L411 (release v1.0.1, doi:10.5281/zenodo.23156444).
 
 import Mathlib
 

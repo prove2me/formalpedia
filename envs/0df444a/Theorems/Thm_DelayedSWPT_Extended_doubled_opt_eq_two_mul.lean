@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Extended_doubled_opt_eq_two_mul
 -- name    : DelayedSWPT.Extended.doubled_opt_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:08:58.732813+00:00
 -- url     : https://prove2.me/theorems/6adb0f3f-d9e7-4131-8d0d-de254aeb409c

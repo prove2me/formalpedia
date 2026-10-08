@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_PositiveSetup_myopic_order_up_to_optimal
 -- name    : GallegoOzerADI.PositiveSetup.myopic_order_up_to_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:52:34.581923+00:00
 -- url     : https://prove2.me/theorems/b8c3e401-66b7-46da-9c67-633cc2cffbfd

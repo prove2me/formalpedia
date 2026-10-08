@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.pow_l_dvd_one_factor_of_descFactorial
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:30.857481+00:00
 -- url     : https://prove2.me/submissions/10562a6e-685b-49c0-94f5-cc96ab67e4c0
 

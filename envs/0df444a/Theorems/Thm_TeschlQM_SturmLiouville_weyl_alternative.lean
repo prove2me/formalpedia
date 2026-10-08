@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SturmLiouville_weyl_alternative
 -- name    : TeschlQM.SturmLiouville.weyl_alternative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:49:24.005911+00:00
 -- url     : https://prove2.me/theorems/0bcf995e-7880-441e-919c-ae0f7aeb78b2

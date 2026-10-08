@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter34.chapter34
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:13:09.844391+00:00
 -- url     : https://prove2.me/submissions/c3d101bf-c78b-462d-868f-e04ae88d955e
 

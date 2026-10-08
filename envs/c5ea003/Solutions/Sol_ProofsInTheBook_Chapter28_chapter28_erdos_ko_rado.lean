@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter28.chapter28_erdos_ko_rado
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:15.728526+00:00
 -- url     : https://prove2.me/submissions/d82c4841-e836-4e28-bf1a-4a3918b3c4dd
 

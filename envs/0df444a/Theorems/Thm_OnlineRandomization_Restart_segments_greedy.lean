@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Restart_segments_greedy
 -- name    : OnlineRandomization.Restart.segments_greedy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:36:34.880728+00:00
 -- url     : https://prove2.me/theorems/9dc09889-c7b8-431a-b296-16f88df0f54a

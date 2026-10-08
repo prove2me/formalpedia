@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassersteinDRO_Gelbrich_gelbrich_bound
 -- name    : WassersteinDRO.Gelbrich.gelbrich_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-21T02:27:34.057043+00:00
 -- url     : https://prove2.me/theorems/08f2bad6-f179-4c4b-a3db-f647a27e1b28

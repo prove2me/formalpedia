@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for Theorems100.Friendship.card_of_regular
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:44:57.093205+00:00
 -- url     : https://prove2.me/submissions/275daa52-e00d-441d-b465-cf3f06aa2921
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Cohen2019_Robust_neyman_pearson_ge
 -- name    : Cohen2019.Robust.neyman_pearson_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:06:56.39242+00:00
 -- url     : https://prove2.me/theorems/dad4344a-86f9-49a9-90dd-6eab29bc7852

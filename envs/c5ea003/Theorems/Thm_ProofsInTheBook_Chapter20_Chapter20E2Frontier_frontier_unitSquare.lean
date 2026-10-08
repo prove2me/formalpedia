@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_Chapter20E2Frontier_frontier_unitSquare
 -- name    : ProofsInTheBook.Chapter20.Chapter20E2Frontier.frontier_unitSquare
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:21.960393+00:00
 -- url     : https://prove2.me/theorems/133fd440-dc1f-4881-a7da-f01ba0fba300
 -- title:

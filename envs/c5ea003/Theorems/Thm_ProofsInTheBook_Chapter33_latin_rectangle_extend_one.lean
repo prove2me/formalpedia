@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_latin_rectangle_extend_one
 -- name    : ProofsInTheBook.Chapter33.latin_rectangle_extend_one
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:25.411494+00:00
 -- url     : https://prove2.me/theorems/41b12d4d-3ea4-4f69-9fc2-28f10e6121ce
 -- title:

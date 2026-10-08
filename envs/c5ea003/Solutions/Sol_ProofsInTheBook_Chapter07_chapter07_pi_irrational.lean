@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter07.chapter07_pi_irrational
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:43:34.599131+00:00
 -- url     : https://prove2.me/submissions/ec6fdae1-54e3-49ab-990f-a6d24212203f
 

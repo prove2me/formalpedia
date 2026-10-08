@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PorteusSS_inductive_step
 -- name    : PorteusSS.inductive_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:58:37.964368+00:00
 -- url     : https://prove2.me/theorems/982cd66c-f4bd-4c32-803d-9ebc9091428f

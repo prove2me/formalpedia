@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_sq_le_and_primeCounting_gap
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:56.673056+00:00
 -- url     : https://prove2.me/submissions/631536a8-5edd-4c4f-bcfb-98451d3ba274
 

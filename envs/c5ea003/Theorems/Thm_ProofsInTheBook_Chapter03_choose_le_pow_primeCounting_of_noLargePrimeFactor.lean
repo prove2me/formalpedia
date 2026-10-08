@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_choose_le_pow_primeCounting_of_noLargePrimeFactor
 -- name    : ProofsInTheBook.Chapter03.choose_le_pow_primeCounting_of_noLargePrimeFactor
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:20.085464+00:00
 -- url     : https://prove2.me/theorems/cb776e6d-94e4-409d-8149-5317a940b3c6
 -- title:

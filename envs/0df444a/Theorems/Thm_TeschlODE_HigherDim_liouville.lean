@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_HigherDim_liouville
 -- name    : TeschlODE.HigherDim.liouville
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T16:52:08.279213+00:00
 -- url     : https://prove2.me/theorems/83b5bd1d-e107-46bb-96bb-49f16bab3981

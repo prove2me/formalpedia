@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.sortedLabelSeq_isAltPos_iff_signSeqAltPos
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:41.779002+00:00
 -- url     : https://prove2.me/submissions/e35647e3-4b4e-4ca9-916b-e3a159c70f76
 

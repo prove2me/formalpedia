@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter10.euclidean_sylvester_gallai
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:12:56.421143+00:00
 -- url     : https://prove2.me/submissions/7c56f349-85ef-4c95-802b-49c54678c96f
 

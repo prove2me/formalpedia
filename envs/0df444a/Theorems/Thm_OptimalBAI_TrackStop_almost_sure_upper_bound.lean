@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_TrackStop_almost_sure_upper_bound
 -- name    : OptimalBAI.TrackStop.almost_sure_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:17:27.281468+00:00
 -- url     : https://prove2.me/theorems/2db931e9-0b61-4292-b80f-5e206288d5b4

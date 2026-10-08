@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TarchaBraids.every_loop_homotopic_braidWord_v1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @cm_beta
 -- created : 2026-09-21T20:18:20.498947+00:00
 -- url     : https://prove2.me/submissions/fba6856d-ae60-4294-b098-c801dfbce212
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_TarchaBraids_thm_3_11_half_twists_generate
 import Mathlib

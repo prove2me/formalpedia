@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SturmLiouville_resolvent_green
 -- name    : TeschlQM.SturmLiouville.resolvent_green
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:48:59.925027+00:00
 -- url     : https://prove2.me/theorems/81cea16c-7c55-439a-9b33-cac5943b3473

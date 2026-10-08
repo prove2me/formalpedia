@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter25_chapter25_measure_theoretic_short
 -- name    : ProofsInTheBook.Chapter25.chapter25_measure_theoretic_short
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:41:32.049491+00:00
 -- url     : https://prove2.me/theorems/21da2a39-c3fb-4c5f-9fec-2b561e069320
 -- title:

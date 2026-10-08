@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiIrrationality_rhin_viola_bound
 -- name    : PiIrrationality.rhin_viola_bound
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-03T19:36:29.13438+00:00
 -- url     : https://prove2.me/theorems/bda7f199-9603-4c9e-8825-e30a14d70f09

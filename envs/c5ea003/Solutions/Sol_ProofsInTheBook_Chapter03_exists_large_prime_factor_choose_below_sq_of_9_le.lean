@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_of_9_le
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:51.869667+00:00
 -- url     : https://prove2.me/submissions/dd8a6b48-c71c-47cd-9c26-df7f5401bc20
 

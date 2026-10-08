@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Potential_theorem_3_1
 -- name    : OnlineRandomization.Potential.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:29:35.727639+00:00
 -- url     : https://prove2.me/theorems/9acbd3cc-9709-4e17-ab87-77825244d0dc

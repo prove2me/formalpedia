@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZhengQR_CostBounds_optimal_cost_bounds
 -- name    : ZhengQR.CostBounds.optimal_cost_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T02:02:26.294985+00:00
 -- url     : https://prove2.me/theorems/a673c51e-8e51-47ce-b634-48c15679b6d1

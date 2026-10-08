@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Bounds_lemma2_SLow_le_Sn
 -- name    : VeinottWagnerSS.Bounds.lemma2_SLow_le_Sn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:41:01.525566+00:00
 -- url     : https://prove2.me/theorems/6cda7e1d-ee5e-4f3e-916e-60529f3d325c

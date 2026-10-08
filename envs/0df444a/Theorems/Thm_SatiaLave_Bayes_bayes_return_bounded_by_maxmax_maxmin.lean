@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_Bayes_bayes_return_bounded_by_maxmax_maxmin
 -- name    : SatiaLave.Bayes.bayes_return_bounded_by_maxmax_maxmin
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:45:35.998993+00:00
 -- url     : https://prove2.me/theorems/6bbe8781-4c3f-4a1d-9c2c-b4c1088855a4

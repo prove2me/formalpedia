@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.isPartialLatin_setCell
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:56.950235+00:00
 -- url     : https://prove2.me/submissions/75f08dd4-6f2f-4284-95dd-bdd61fedb7fc
 

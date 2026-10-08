@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_large_prime_factor_choose_of_sq_le_and_primeCounting_gap
 -- name    : ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_of_sq_le_and_primeCounting_gap
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:19.754328+00:00
 -- url     : https://prove2.me/theorems/be8faec8-c294-462c-a8d0-5c32afc2ed2b
 -- title:

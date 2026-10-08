@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SteinitzExchange_LocalSupermod_exc_iff_localization_matroidal
 -- name    : SteinitzExchange.LocalSupermod.exc_iff_localization_matroidal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T16:52:48.191985+00:00
 -- url     : https://prove2.me/theorems/ea5a1cbc-c4c8-455d-851b-843197538908

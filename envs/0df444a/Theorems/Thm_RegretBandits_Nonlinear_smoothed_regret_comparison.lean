@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Nonlinear_smoothed_regret_comparison
 -- name    : RegretBandits.Nonlinear.smoothed_regret_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:42:07.530776+00:00
 -- url     : https://prove2.me/theorems/8a20223e-6da1-4985-a82f-f63533a36a82

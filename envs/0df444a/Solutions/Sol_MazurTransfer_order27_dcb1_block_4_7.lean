@@ -1,0 +1,3599 @@
+-- Prove2me | solution 1 for MazurTransfer.order27_dcb1_block_4_7
+-- status  : ACCEPTED   (prove)
+-- author  : @Vas
+-- created : 2026-10-06T19:02:03.190062+00:00
+-- url     : https://prove2.me/submissions/d98094c6-30cf-4f67-8666-af7e2e4b50e9
+
+/-
+Copyright (c) 2026 Vasily Ilin. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Vasily Ilin, OpenAI
+-/
+import Theorems.Thm_MazurTransfer_order27_dcb1_coefficients
+namespace MazurTransfer.Order27DCb1Polynomial
+open Polynomial
+
+lemma bridge_coeff_table_p_tlDSqP0c3 (f : ℚ) (n : ℕ) :
+ (p_tlDSqP0c3 f).coeff n = c_tlDSqP0c3 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).1
+
+lemma bridge_coeff_table_p_tlDSqP0c4 (f : ℚ) (n : ℕ) :
+ (p_tlDSqP0c4 f).coeff n = c_tlDSqP0c4 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.1
+
+lemma bridge_coeff_table_p_tlDSqP0c5 (f : ℚ) (n : ℕ) :
+ (p_tlDSqP0c5 f).coeff n = c_tlDSqP0c5 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.1
+
+lemma bridge_coeff_table_p_tlD0 (f : ℚ) (n : ℕ) :
+ (p_tlD0 f).coeff n = c_tlD0 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.1
+
+lemma bridge_coeff_table_p_tlD1 (f : ℚ) (n : ℕ) :
+ (p_tlD1 f).coeff n = c_tlD1 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlT0 (f : ℚ) (n : ℕ) :
+ (p_tlT0 f).coeff n = c_tlT0 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlT1 (f : ℚ) (n : ℕ) :
+ (p_tlT1 f).coeff n = c_tlT1 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlT2 (f : ℚ) (n : ℕ) :
+ (p_tlT2 f).coeff n = c_tlT2 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlT3 (f : ℚ) (n : ℕ) :
+ (p_tlT3 f).coeff n = c_tlT3 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c0 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c0 f).coeff n = c_tlDCbP1c0 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c1 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c1 f).coeff n = c_tlDCbP1c1 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c2 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c2 f).coeff n = c_tlDCbP1c2 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c3 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c3 f).coeff n = c_tlDCbP1c3 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c4 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c4 f).coeff n = c_tlDCbP1c4 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c5 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c5 f).coeff n = c_tlDCbP1c5 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c6 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c6 f).coeff n = c_tlDCbP1c6 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c7 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c7 f).coeff n = c_tlDCbP1c7 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c8 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c8 f).coeff n = c_tlDCbP1c8 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c9 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c9 f).coeff n = c_tlDCbP1c9 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c10 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c10 f).coeff n = c_tlDCbP1c10 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c11 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c11 f).coeff n = c_tlDCbP1c11 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbP1c12 (f : ℚ) (n : ℕ) :
+ (p_tlDCbP1c12 f).coeff n = c_tlDCbP1c12 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbQ1c0 (f : ℚ) (n : ℕ) :
+ (p_tlDCbQ1c0 f).coeff n = c_tlDCbQ1c0 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbQ1c1 (f : ℚ) (n : ℕ) :
+ (p_tlDCbQ1c1 f).coeff n = c_tlDCbQ1c1 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbQ1c2 (f : ℚ) (n : ℕ) :
+ (p_tlDCbQ1c2 f).coeff n = c_tlDCbQ1c2 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbQ1c3 (f : ℚ) (n : ℕ) :
+ (p_tlDCbQ1c3 f).coeff n = c_tlDCbQ1c3 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbQ1c4 (f : ℚ) (n : ℕ) :
+ (p_tlDCbQ1c4 f).coeff n = c_tlDCbQ1c4 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.1
+
+lemma bridge_coeff_table_p_tlDCbQ1c5 (f : ℚ) (n : ℕ) :
+ (p_tlDCbQ1c5 f).coeff n = c_tlDCbQ1c5 f n := by
+ exact (MazurTransfer.order27_dcb1_coefficients f n).2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2
+
+lemma fixed_tlDSqP0c3_0 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 0 = (((957127416609 * f ^ 42) + ((-881922821913) * f ^ 41)) + ((754756429448 * f ^ 40) + (((-598142970822) * f ^ 39) + (437565038071 * f ^ 38)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 0
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_1 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 1 = (((2717531727804 * f ^ 42) + ((-2910521653497) * f ^ 41)) + ((2913492413286 * f ^ 40) + (((-2721429426519) * f ^ 39) + (2366809702926 * f ^ 38)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 1
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_2 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 2 = (((2472293684342 * f ^ 42) + ((-3018212691803) * f ^ 41)) + ((3450414906243 * f ^ 40) + (((-3693642518847) * f ^ 39) + (3700286000490 * f ^ 38)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 2
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_3 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 3 = (((1038497093905 * f ^ 42) + ((-1480185056252) * f ^ 41)) + ((1966971540270 * f ^ 40) + (((-2440457659404) * f ^ 39) + (2829306841371 * f ^ 38)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 3
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_4 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 4 = (((59850472631 * f ^ 42) + ((-115191863816) * f ^ 41)) + ((202658669434 * f ^ 40) + (((-327252727789) * f ^ 39) + (486858516088 * f ^ 38)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 4
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_5 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 5 = (((397688493 * f ^ 42) + ((-1199913046) * f ^ 41)) + ((3193281979 * f ^ 40) + (((-7556507973) * f ^ 39) + (16009172757 * f ^ 38)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 5
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_6 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 6 = ((((-4519006) * f ^ 41) + (16849788 * f ^ 40)) + (((-54984957) * f ^ 39) + (160266258 * f ^ 38))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 6
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_7 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 7 = ((((-875) * f ^ 41) + (5252 * f ^ 40)) + (((-32640) * f ^ 39) + (202374 * f ^ 38))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 7
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_8 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 8 = ((2 * f ^ 38) + ((-122) * f ^ 37)) := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 8
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_9 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 9
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_10 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 10
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_11 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 11
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_12 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 12
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_13 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 13
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_14 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 14
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_15 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 15
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c3_16 (f : ℚ) :
+ (p_tlDSqP0c3 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c3 f 16
+ unfold c_tlDSqP0c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_0 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 0 = ((((-294553188988) * f ^ 37) + (181969583393 * f ^ 36)) + (((-102989753910) * f ^ 35) + (53397885555 * f ^ 34))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 0
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_1 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 1 = ((((-1911393181104) * f ^ 37) + (1429048813198 * f ^ 36)) + (((-985996834412) * f ^ 35) + (625896574596 * f ^ 34))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 1
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_2 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 2 = ((((-3465129996375) * f ^ 37) + (3028424168529 * f ^ 36)) + (((-2465271792336) * f ^ 35) + (1864886632122 * f ^ 34))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 2
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_3 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 3 = ((((-3065229696819) * f ^ 37) + (3101343672437 * f ^ 36)) + (((-2926793254968) * f ^ 35) + (2571731794694 * f ^ 34))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 3
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_4 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 4 = ((((-669538561834) * f ^ 37) + (853494593230 * f ^ 36)) + (((-1010436394733) * f ^ 35) + ((1111845146539 * f ^ 34) + ((-1136536476610) * f ^ 33)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 4
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_5 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 5 = ((((-30540191331) * f ^ 37) + (52727358489 * f ^ 36)) + (((-82784734119) * f ^ 35) + ((118760853639 * f ^ 34) + ((-156392652318) * f ^ 33)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 5
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_6 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 6 = ((((-420790241) * f ^ 37) + (998307517 * f ^ 36)) + (((-2142652816) * f ^ 35) + ((4162954826 * f ^ 34) + ((-7326126603) * f ^ 33)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 6
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_7 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 7 = ((((-1023005) * f ^ 37) + (4123794 * f ^ 36)) + (((-13785121) * f ^ 35) + ((39552115 * f ^ 34) + ((-99589319) * f ^ 33)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 7
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_8 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 8 = (((1601 * f ^ 36) + ((-10174) * f ^ 35)) + ((46082 * f ^ 34) + ((-184312) * f ^ 33))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 8
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_9 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 9
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_10 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 10
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_11 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 11
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_12 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 12
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_13 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 13
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_14 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 14
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_15 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 15
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c4_16 (f : ℚ) :
+ (p_tlDSqP0c4 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c4 f 16
+ unfold c_tlDSqP0c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_0 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 0 = ((((-25423502684) * f ^ 33) + (11173476519 * f ^ 32)) + (((-4563307647) * f ^ 31) + ((1738381577 * f ^ 30) + ((-613902978) * f ^ 29)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 0
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_1 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 1 = ((((-364601322451) * f ^ 33) + (194626715913 * f ^ 32)) + (((-95254151842) * f ^ 31) + ((42882636806 * f ^ 30) + ((-17863179677) * f ^ 29)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 1
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_2 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 2 = ((((-1307498023867) * f ^ 33) + (847232021215 * f ^ 32)) + (((-505937443269) * f ^ 31) + ((277734755634 * f ^ 30) + ((-139935977137) * f ^ 29)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 2
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_3 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 3 = ((((-2099710199700) * f ^ 33) + (1589549462571 * f ^ 32)) + (((-1113581157257) * f ^ 31) + ((720790378224 * f ^ 30) + ((-430571946438) * f ^ 29)))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 3
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_4 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 4 = (((1077272360327 * f ^ 32) + ((-943992975526) * f ^ 31)) + ((761843810557 * f ^ 30) + ((-563956259776) * f ^ 29))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 4
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_5 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 5 = (((189847536048 * f ^ 32) + ((-213122540283) * f ^ 31)) + ((221583005763 * f ^ 30) + ((-213189695310) * f ^ 29))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 5
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_6 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 6 = (((11688420338 * f ^ 32) + ((-16930966102) * f ^ 31)) + ((22317831447 * f ^ 30) + ((-26859157046) * f ^ 29))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 6
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_7 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 7 = (((222976800 * f ^ 32) + ((-447287859) * f ^ 31)) + ((807379596 * f ^ 30) + ((-1314443829) * f ^ 29))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 7
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_8 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 8 = (((668491 * f ^ 32) + ((-2122479) * f ^ 31)) + ((5816773 * f ^ 30) + ((-13816855) * f ^ 29))) := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 8
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_9 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 9
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_10 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 10
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_11 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 11
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_12 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 12
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_13 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 13
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_14 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 14
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_15 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 15
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDSqP0c5_16 (f : ℚ) :
+ (p_tlDSqP0c5 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDSqP0c5 f 16
+ unfold c_tlDSqP0c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_0 (f : ℚ) :
+ (p_tlD0 f).coeff 0 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 0
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_1 (f : ℚ) :
+ (p_tlD0 f).coeff 1 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 1
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_2 (f : ℚ) :
+ (p_tlD0 f).coeff 2 = ((((1 * f ^ 24) + (((-10) * f ^ 23) + (49 * f ^ 22))) + ((((-156) * f ^ 21) + (360 * f ^ 20)) + (((-636) * f ^ 19) + (886 * f ^ 18)))) + ((((-988) * f ^ 17) + ((886 * f ^ 16) + ((-636) * f ^ 15))) + (((360 * f ^ 14) + ((-156) * f ^ 13)) + ((49 * f ^ 12) + ((-10) * f ^ 11))))) := by
+ have h := bridge_coeff_table_p_tlD0 f 2
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_3 (f : ℚ) :
+ (p_tlD0 f).coeff 3 = (((((-2) * f ^ 21) + (16 * f ^ 20)) + (((-66) * f ^ 19) + ((186 * f ^ 18) + ((-396) * f ^ 17)))) + (((666 * f ^ 16) + (((-902) * f ^ 15) + (988 * f ^ 14))) + (((-870) * f ^ 13) + ((606 * f ^ 12) + ((-324) * f ^ 11))))) := by
+ have h := bridge_coeff_table_p_tlD0 f 3
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_4 (f : ℚ) :
+ (p_tlD0 f).coeff 4 = ((((1 * f ^ 18) + ((-4) * f ^ 17)) + ((9 * f ^ 16) + ((-18) * f ^ 15))) + (((38 * f ^ 14) + ((-80) * f ^ 13)) + ((143 * f ^ 12) + (((-200) * f ^ 11) + (213 * f ^ 10))))) := by
+ have h := bridge_coeff_table_p_tlD0 f 4
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_5 (f : ℚ) :
+ (p_tlD0 f).coeff 5 = ((((-2) * f ^ 14) + (8 * f ^ 13)) + (((-22) * f ^ 12) + ((46 * f ^ 11) + ((-70) * f ^ 10)))) := by
+ have h := bridge_coeff_table_p_tlD0 f 5
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_6 (f : ℚ) :
+ (p_tlD0 f).coeff 6 = (1 * f ^ 10) := by
+ have h := bridge_coeff_table_p_tlD0 f 6
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_7 (f : ℚ) :
+ (p_tlD0 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 7
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_8 (f : ℚ) :
+ (p_tlD0 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 8
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_9 (f : ℚ) :
+ (p_tlD0 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 9
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_10 (f : ℚ) :
+ (p_tlD0 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 10
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_11 (f : ℚ) :
+ (p_tlD0 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 11
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_12 (f : ℚ) :
+ (p_tlD0 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 12
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_13 (f : ℚ) :
+ (p_tlD0 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 13
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_14 (f : ℚ) :
+ (p_tlD0 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 14
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_15 (f : ℚ) :
+ (p_tlD0 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 15
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD0_16 (f : ℚ) :
+ (p_tlD0 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlD0 f 16
+ unfold c_tlD0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_0 (f : ℚ) :
+ (p_tlD1 f).coeff 0 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 0
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_1 (f : ℚ) :
+ (p_tlD1 f).coeff 1 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 1
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_2 (f : ℚ) :
+ (p_tlD1 f).coeff 2 = (1 * f ^ 10) := by
+ have h := bridge_coeff_table_p_tlD1 f 2
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_3 (f : ℚ) :
+ (p_tlD1 f).coeff 3 = ((126 * f ^ 10) + (((-32) * f ^ 9) + (4 * f ^ 8))) := by
+ have h := bridge_coeff_table_p_tlD1 f 3
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_4 (f : ℚ) :
+ (p_tlD1 f).coeff 4 = ((((-168) * f ^ 9) + (94 * f ^ 8)) + (((-34) * f ^ 7) + (6 * f ^ 6))) := by
+ have h := bridge_coeff_table_p_tlD1 f 4
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_5 (f : ℚ) :
+ (p_tlD1 f).coeff 5 = (((78 * f ^ 9) + (((-58) * f ^ 8) + (22 * f ^ 7))) + ((4 * f ^ 6) + (((-10) * f ^ 5) + (4 * f ^ 4)))) := by
+ have h := bridge_coeff_table_p_tlD1 f 5
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_6 (f : ℚ) :
+ (p_tlD1 f).coeff 6 = ((((-3) * f ^ 8) + ((10 * f ^ 7) + ((-19) * f ^ 6))) + (((20 * f ^ 5) + ((-14) * f ^ 4)) + ((4 * f ^ 3) + (1 * f ^ 2)))) := by
+ have h := bridge_coeff_table_p_tlD1 f 6
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_7 (f : ℚ) :
+ (p_tlD1 f).coeff 7 = ((((-2) * f ^ 5) + (2 * f ^ 4)) + (((-2) * f ^ 3) + (2 * f))) := by
+ have h := bridge_coeff_table_p_tlD1 f 7
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_8 (f : ℚ) :
+ (p_tlD1 f).coeff 8 = 1 := by
+ have h := bridge_coeff_table_p_tlD1 f 8
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_9 (f : ℚ) :
+ (p_tlD1 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 9
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_10 (f : ℚ) :
+ (p_tlD1 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 10
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_11 (f : ℚ) :
+ (p_tlD1 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 11
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_12 (f : ℚ) :
+ (p_tlD1 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 12
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_13 (f : ℚ) :
+ (p_tlD1 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 13
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_14 (f : ℚ) :
+ (p_tlD1 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 14
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_15 (f : ℚ) :
+ (p_tlD1 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 15
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlD1_16 (f : ℚ) :
+ (p_tlD1 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlD1 f 16
+ unfold c_tlD1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_0 (f : ℚ) :
+ (p_tlT0 f).coeff 0 = ((((1 * f ^ 33) + (((-13) * f ^ 32) + (84 * f ^ 31))) + (((-358) * f ^ 30) + ((1126 * f ^ 29) + ((-2772) * f ^ 28)))) + (((5531 * f ^ 27) + (((-9143) * f ^ 26) + (12696 * f ^ 25))) + (((-14932) * f ^ 24) + ((14932 * f ^ 23) + ((-12696) * f ^ 22))))) := by
+ have h := bridge_coeff_table_p_tlT0 f 0
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_1 (f : ℚ) :
+ (p_tlT0 f).coeff 1 = ((((3 * f ^ 31) + ((-39) * f ^ 30)) + ((249 * f ^ 29) + (((-1044) * f ^ 28) + (3231 * f ^ 27)))) + ((((-7851) * f ^ 26) + ((15543 * f ^ 25) + ((-25668) * f ^ 24))) + ((35898 * f ^ 23) + (((-42912) * f ^ 22) + (44046 * f ^ 21))))) := by
+ have h := bridge_coeff_table_p_tlT0 f 1
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_2 (f : ℚ) :
+ (p_tlT0 f).coeff 2 = ((((3 * f ^ 29) + ((-45) * f ^ 28)) + ((309 * f ^ 27) + ((-1341) * f ^ 26))) + (((4200 * f ^ 25) + ((-10182) * f ^ 24)) + ((19929 * f ^ 23) + (((-32373) * f ^ 22) + (44478 * f ^ 21))))) := by
+ have h := bridge_coeff_table_p_tlT0 f 2
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_3 (f : ℚ) :
+ (p_tlT0 f).coeff 3 = (((1 * f ^ 27) + (((-18) * f ^ 26) + (144 * f ^ 25))) + ((((-702) * f ^ 24) + (2426 * f ^ 23)) + (((-6435) * f ^ 22) + (13688 * f ^ 21)))) := by
+ have h := bridge_coeff_table_p_tlT0 f 3
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_4 (f : ℚ) :
+ (p_tlT0 f).coeff 4 = (12 * f ^ 21) := by
+ have h := bridge_coeff_table_p_tlT0 f 4
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_5 (f : ℚ) :
+ (p_tlT0 f).coeff 5 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 5
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_6 (f : ℚ) :
+ (p_tlT0 f).coeff 6 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 6
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_7 (f : ℚ) :
+ (p_tlT0 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 7
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_8 (f : ℚ) :
+ (p_tlT0 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 8
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_9 (f : ℚ) :
+ (p_tlT0 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 9
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_10 (f : ℚ) :
+ (p_tlT0 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 10
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_11 (f : ℚ) :
+ (p_tlT0 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 11
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_12 (f : ℚ) :
+ (p_tlT0 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 12
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_13 (f : ℚ) :
+ (p_tlT0 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 13
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_14 (f : ℚ) :
+ (p_tlT0 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 14
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_15 (f : ℚ) :
+ (p_tlT0 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 15
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT0_16 (f : ℚ) :
+ (p_tlT0 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlT0 f 16
+ unfold c_tlT0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_0 (f : ℚ) :
+ (p_tlT1 f).coeff 0 = ((((9143 * f ^ 21) + ((-5531) * f ^ 20)) + ((2772 * f ^ 19) + ((-1126) * f ^ 18))) + (((358 * f ^ 17) + ((-84) * f ^ 16)) + ((13 * f ^ 15) + ((-1) * f ^ 14)))) := by
+ have h := bridge_coeff_table_p_tlT1 f 0
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_1 (f : ℚ) :
+ (p_tlT1 f).coeff 1 = ((((-38838) * f ^ 20) + ((29313 * f ^ 19) + ((-18783) * f ^ 18))) + (((10077 * f ^ 17) + ((-4428) * f ^ 16)) + ((1539 * f ^ 15) + ((-399) * f ^ 14)))) := by
+ have h := bridge_coeff_table_p_tlT1 f 1
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_2 (f : ℚ) :
+ (p_tlT1 f).coeff 2 = ((((-52374) * f ^ 20) + ((53328 * f ^ 19) + ((-47184) * f ^ 18))) + (((36297 * f ^ 17) + ((-24159) * f ^ 16)) + ((13749 * f ^ 15) + ((-6549) * f ^ 14)))) := by
+ have h := bridge_coeff_table_p_tlT1 f 2
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_3 (f : ℚ) :
+ (p_tlT1 f).coeff 3 = ((((-23955) * f ^ 20) + ((35022 * f ^ 19) + ((-43163) * f ^ 18))) + (((45091 * f ^ 17) + ((-40068) * f ^ 16)) + ((30372 * f ^ 15) + ((-19699) * f ^ 14)))) := by
+ have h := bridge_coeff_table_p_tlT1 f 3
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_4 (f : ℚ) :
+ (p_tlT1 f).coeff 4 = ((((-144) * f ^ 20) + ((756 * f ^ 19) + ((-2487) * f ^ 18))) + (((5853 * f ^ 17) + ((-10476) * f ^ 16)) + ((14730 * f ^ 15) + ((-16539) * f ^ 14)))) := by
+ have h := bridge_coeff_table_p_tlT1 f 4
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_5 (f : ℚ) :
+ (p_tlT1 f).coeff 5 = (((-6) * f ^ 16) + ((90 * f ^ 15) + ((-426) * f ^ 14))) := by
+ have h := bridge_coeff_table_p_tlT1 f 5
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_6 (f : ℚ) :
+ (p_tlT1 f).coeff 6 = ((-1) * f ^ 14) := by
+ have h := bridge_coeff_table_p_tlT1 f 6
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_7 (f : ℚ) :
+ (p_tlT1 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 7
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_8 (f : ℚ) :
+ (p_tlT1 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 8
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_9 (f : ℚ) :
+ (p_tlT1 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 9
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_10 (f : ℚ) :
+ (p_tlT1 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 10
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_11 (f : ℚ) :
+ (p_tlT1 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 11
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_12 (f : ℚ) :
+ (p_tlT1 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 12
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_13 (f : ℚ) :
+ (p_tlT1 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 13
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_14 (f : ℚ) :
+ (p_tlT1 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 14
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_15 (f : ℚ) :
+ (p_tlT1 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 15
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT1_16 (f : ℚ) :
+ (p_tlT1 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlT1 f 16
+ unfold c_tlT1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_0 (f : ℚ) :
+ (p_tlT2 f).coeff 0 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 0
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_1 (f : ℚ) :
+ (p_tlT2 f).coeff 1 = ((69 * f ^ 13) + ((-6) * f ^ 12)) := by
+ have h := bridge_coeff_table_p_tlT2 f 1
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_2 (f : ℚ) :
+ (p_tlT2 f).coeff 2 = (((2520 * f ^ 13) + ((-738) * f ^ 12)) + ((147 * f ^ 11) + ((-15) * f ^ 10))) := by
+ have h := bridge_coeff_table_p_tlT2 f 2
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_3 (f : ℚ) :
+ (p_tlT2 f).coeff 3 = (((10962 * f ^ 13) + (((-5227) * f ^ 12) + (2103 * f ^ 11))) + (((-681) * f ^ 10) + ((159 * f ^ 9) + ((-20) * f ^ 8)))) := by
+ have h := bridge_coeff_table_p_tlT2 f 3
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_4 (f : ℚ) :
+ (p_tlT2 f).coeff 4 = ((((14922 * f ^ 13) + ((-10818) * f ^ 12)) + ((6279 * f ^ 11) + ((-2916) * f ^ 10))) + (((1098 * f ^ 9) + ((-345) * f ^ 8)) + ((90 * f ^ 7) + ((-15) * f ^ 6)))) := by
+ have h := bridge_coeff_table_p_tlT2 f 4
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_5 (f : ℚ) :
+ (p_tlT2 f).coeff 5 = ((((1164 * f ^ 13) + ((-2166) * f ^ 12)) + ((2916 * f ^ 11) + ((-2916) * f ^ 10))) + (((2166 * f ^ 9) + ((-1170) * f ^ 8)) + ((444 * f ^ 7) + ((-114) * f ^ 6)))) := by
+ have h := bridge_coeff_table_p_tlT2 f 5
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_6 (f : ℚ) :
+ (p_tlT2 f).coeff 6 = ((((9 * f ^ 13) + ((-31) * f ^ 12)) + ((65 * f ^ 11) + ((-123) * f ^ 10))) + (((210 * f ^ 9) + ((-297) * f ^ 8)) + ((321 * f ^ 7) + ((-243) * f ^ 6)))) := by
+ have h := bridge_coeff_table_p_tlT2 f 6
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_7 (f : ℚ) :
+ (p_tlT2 f).coeff 7 = ((((-6) * f ^ 8) + (18 * f ^ 7)) + (((-24) * f ^ 6) + (24 * f ^ 5))) := by
+ have h := bridge_coeff_table_p_tlT2 f 7
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_8 (f : ℚ) :
+ (p_tlT2 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 8
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_9 (f : ℚ) :
+ (p_tlT2 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 9
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_10 (f : ℚ) :
+ (p_tlT2 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 10
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_11 (f : ℚ) :
+ (p_tlT2 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 11
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_12 (f : ℚ) :
+ (p_tlT2 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 12
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_13 (f : ℚ) :
+ (p_tlT2 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 13
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_14 (f : ℚ) :
+ (p_tlT2 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 14
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_15 (f : ℚ) :
+ (p_tlT2 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 15
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT2_16 (f : ℚ) :
+ (p_tlT2 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlT2 f 16
+ unfold c_tlT2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_0 (f : ℚ) :
+ (p_tlT3 f).coeff 0 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 0
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_1 (f : ℚ) :
+ (p_tlT3 f).coeff 1 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 1
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_2 (f : ℚ) :
+ (p_tlT3 f).coeff 2 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 2
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_3 (f : ℚ) :
+ (p_tlT3 f).coeff 3 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 3
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_4 (f : ℚ) :
+ (p_tlT3 f).coeff 4 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 4
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_5 (f : ℚ) :
+ (p_tlT3 f).coeff 5 = ((24 * f ^ 5) + ((-6) * f ^ 4)) := by
+ have h := bridge_coeff_table_p_tlT3 f 5
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_6 (f : ℚ) :
+ (p_tlT3 f).coeff 6 = (((122 * f ^ 5) + ((-33) * f ^ 4)) + ((2 * f ^ 3) + ((-1) * f ^ 2))) := by
+ have h := bridge_coeff_table_p_tlT3 f 6
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_7 (f : ℚ) :
+ (p_tlT3 f).coeff 7 = (((-18) * f ^ 4) + ((12 * f ^ 3) + ((-6) * f ^ 2))) := by
+ have h := bridge_coeff_table_p_tlT3 f 7
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_8 (f : ℚ) :
+ (p_tlT3 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 8
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_9 (f : ℚ) :
+ (p_tlT3 f).coeff 9 = 1 := by
+ have h := bridge_coeff_table_p_tlT3 f 9
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_10 (f : ℚ) :
+ (p_tlT3 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 10
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_11 (f : ℚ) :
+ (p_tlT3 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 11
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_12 (f : ℚ) :
+ (p_tlT3 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 12
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_13 (f : ℚ) :
+ (p_tlT3 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 13
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_14 (f : ℚ) :
+ (p_tlT3 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 14
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_15 (f : ℚ) :
+ (p_tlT3 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 15
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlT3_16 (f : ℚ) :
+ (p_tlT3 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlT3 f 16
+ unfold c_tlT3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_0 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 0 = ((((4 * f ^ 104) + (((-402) * f ^ 103) + (14741 * f ^ 102))) + (((-344529) * f ^ 101) + ((5638600 * f ^ 100) + ((-68382926) * f ^ 99)))) + (((656553388 * f ^ 98) + (((-5266782248) * f ^ 97) + (36557825688 * f ^ 96))) + (((-224968658026) * f ^ 95) + ((1251014406976 * f ^ 94) + ((-6377044938235) * f ^ 93))))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 0
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_1 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 1 = ((((12 * f ^ 102) + ((-1206) * f ^ 101)) + ((44211 * f ^ 100) + (((-1032415) * f ^ 99) + (16875908 * f ^ 98)))) + ((((-204267513) * f ^ 97) + (1956098394 * f ^ 96)) + (((-15647598009) * f ^ 95) + ((108316065227 * f ^ 94) + ((-664805925575) * f ^ 93))))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 1
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_2 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 2 = ((((12 * f ^ 100) + ((-1230) * f ^ 99)) + ((46551 * f ^ 98) + ((-1113729) * f ^ 97))) + (((18690048 * f ^ 96) + ((-232337192) * f ^ 95)) + ((2274783292 * f ^ 94) + (((-18513121249) * f ^ 93) + (129961244138 * f ^ 92))))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 2
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_3 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 3 = (((4 * f ^ 98) + (((-422) * f ^ 97) + (16731 * f ^ 96))) + ((((-416174) * f ^ 95) + (7285681 * f ^ 94)) + (((-94797605) * f ^ 93) + (968892280 * f ^ 92)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 3
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_4 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 4 = ((2 * f ^ 93) + (799 * f ^ 92)) := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 4
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_5 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 5 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 5
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_6 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 6 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 6
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_7 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 7
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_8 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 8
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_9 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 9
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_10 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 10
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_11 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 11
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_12 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 12
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_13 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 13
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_14 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 14
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_15 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 15
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c0_16 (f : ℚ) :
+ (p_tlDCbP1c0 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c0 f 16
+ unfold c_tlDCbP1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_0 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 0 = (((30038294333812 * f ^ 92) + (((-131054282504014) * f ^ 91) + (529418554667779 * f ^ 90))) + ((((-1979662637704631) * f ^ 89) + (6859119469713969 * f ^ 88)) + (((-22072025379008552) * f ^ 87) + (66163248388592029 * f ^ 86)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 0
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_1 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 1 = (((3687957827667 * f ^ 92) + (((-18758917922344) * f ^ 91) + (88184653412702 * f ^ 90))) + ((((-383942989786325) * f ^ 89) + (1547468880694236 * f ^ 88)) + (((-5772259314778771) * f ^ 87) + (19949826122134128 * f ^ 86)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 1
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_2 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 2 = ((((-806895249232) * f ^ 91) + ((4518223142373 * f ^ 90) + ((-23163020113983) * f ^ 89))) + ((109675391003146 * f ^ 88) + (((-480860963583814) * f ^ 87) + (1950980790843942 * f ^ 86)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 2
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_3 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 3 = ((((-8186985073) * f ^ 91) + ((59414359862 * f ^ 90) + ((-380128349928) * f ^ 89))) + (((2186856253447 * f ^ 88) + ((-11490160691074) * f ^ 87)) + ((55695109061452 * f ^ 86) + ((-250037506787172) * f ^ 85)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 3
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_4 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 4 = ((((-33038) * f ^ 91) + ((717171 * f ^ 90) + ((-11598666) * f ^ 89))) + (((150065787 * f ^ 88) + ((-1569830265) * f ^ 87)) + ((13649535795 * f ^ 86) + ((-101752575659) * f ^ 85)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 4
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_5 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 5 = ((((-2) * f ^ 89) + (176 * f ^ 88)) + (((-7313) * f ^ 87) + ((176782 * f ^ 86) + ((-2760258) * f ^ 85)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 5
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_6 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 6 = ((-4) * f ^ 85) := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 6
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_7 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 7
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_8 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 8
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_9 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 9
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_10 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 10
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_11 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 11
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_12 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 12
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_13 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 13
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_14 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 14
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_15 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 15
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c1_16 (f : ℚ) :
+ (p_tlDCbP1c1 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c1 f 16
+ unfold c_tlDCbP1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_0 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 0 = ((((-185302243640313145) * f ^ 85) + ((486089201593717386 * f ^ 84) + ((-1196629144672669772) * f ^ 83))) + ((2768642024848526638 * f ^ 82) + (((-6028408512157884276) * f ^ 81) + (12368155566333708685 * f ^ 80)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 0
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_1 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 1 = ((((-64043964669678217) * f ^ 85) + ((191563148805613375 * f ^ 84) + ((-535483966271187665) * f ^ 83))) + ((1402382411778620179 * f ^ 82) + (((-3447575172141576500) * f ^ 81) + (7968217089866892856 * f ^ 80)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 1
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_2 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 2 = ((((-7320758963364684) * f ^ 85) + ((25429080116675852 * f ^ 84) + ((-81964987581298949) * f ^ 83))) + ((245942655633307964 * f ^ 82) + (((-689139282079617106) * f ^ 81) + (1807888889881570975 * f ^ 80)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 2
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_3 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 3 = (((1039687744437833 * f ^ 84) + ((-4001485940427294) * f ^ 83)) + ((14261766791574982 * f ^ 82) + (((-47162397504804462) * f ^ 81) + (145119571044992160 * f ^ 80)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 3
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_4 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 4 = (((662898556697 * f ^ 84) + ((-3824780884511) * f ^ 83)) + ((19825254794347 * f ^ 82) + (((-93606202147490) * f ^ 81) + (406349131729649 * f ^ 80)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 4
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_5 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 5 = (((31957144 * f ^ 84) + ((-306976096) * f ^ 83)) + ((2570393190 * f ^ 82) + (((-19097247337) * f ^ 81) + (127959653013 * f ^ 80)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 5
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_6 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 6 = (((390 * f ^ 84) + ((-13523) * f ^ 83)) + ((299112 * f ^ 82) + (((-4581225) * f ^ 81) + (51096281 * f ^ 80)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 6
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_7 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 7 = (((-2) * f ^ 80) + ((-791) * f ^ 79)) := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 7
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_8 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 8
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_9 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 9
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_10 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 10
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_11 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 11
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_12 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 12
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_13 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 13
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_14 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 14
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_15 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 15
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c2_16 (f : ℚ) :
+ (p_tlDCbP1c2 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c2 f 16
+ unfold c_tlDCbP1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_0 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 0 = ((((-23938745359878542452) * f ^ 79) + (43761584257157672454 * f ^ 78)) + (((-75635493190669337866) * f ^ 77) + (123699363921466784531 * f ^ 76))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 0
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_1 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 1 = ((((-17338132949670032676) * f ^ 79) + (35563647861503142697 * f ^ 78)) + (((-68853624681383372778) * f ^ 77) + ((125974494313113062933 * f ^ 76) + ((-218037576350686187390) * f ^ 75)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 1
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_2 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 2 = ((((-4449269870701494830) * f ^ 79) + (10288263481654538876 * f ^ 78)) + (((-22384307985207782518) * f ^ 77) + ((45887401622838648075 * f ^ 76) + ((-88753254180261944477) * f ^ 75)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 2
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_3 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 3 = ((((-416747959192823629) * f ^ 79) + (1119906455711474189 * f ^ 78)) + (((-2821980681687040495) * f ^ 77) + ((6678796435535890641 * f ^ 76) + ((-14866646209138103185) * f ^ 75)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 3
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_4 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 4 = ((((-1627598244543060) * f ^ 79) + (6019196385629803 * f ^ 78)) + (((-20567506102974993) * f ^ 77) + ((65057518759817910 * f ^ 76) + ((-191073002482705778) * f ^ 75)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 4
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_5 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 5 = ((((-777023126840) * f ^ 79) + (4255910231633 * f ^ 78)) + (((-21015908399733) * f ^ 77) + ((94186736046889 * f ^ 76) + ((-386403857896024) * f ^ 75)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 5
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_6 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 6 = ((((-447557025) * f ^ 79) + (3287964883 * f ^ 78)) + (((-21040678022) * f ^ 77) + ((120119171405 * f ^ 76) + ((-625202372334) * f ^ 75)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 6
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_7 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 7 = (((24374 * f ^ 78) + ((-417707) * f ^ 77)) + ((5684291 * f ^ 76) + ((-62373577) * f ^ 75))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 7
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_8 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 8 = ((2 * f ^ 76) + ((-160) * f ^ 75)) := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 8
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_9 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 9
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_10 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 10
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_11 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 11
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_12 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 12
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_13 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 13
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_14 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 14
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_15 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 15
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c3_16 (f : ℚ) :
+ (p_tlDCbP1c3 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c3 f 16
+ unfold c_tlDCbP1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_0 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 0 = ((((-191558339357762770455) * f ^ 75) + (281013958952425328488 * f ^ 74)) + (((-390643178549185805592) * f ^ 73) + ((514677044484288087020 * f ^ 72) + ((-642722832808541947503) * f ^ 71)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 0
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_1 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 1 = (((357315417916958692482 * f ^ 74) + ((-554803831601695777901) * f ^ 73)) + ((816606923803996321363 * f ^ 72) + ((-1139792082403897928853) * f ^ 71))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 1
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_2 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 2 = (((162171483169557268706 * f ^ 74) + ((-280257276736802167016) * f ^ 73)) + ((458502221956264086303 * f ^ 72) + ((-710648134054544090464) * f ^ 71))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 2
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_3 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 3 = (((31164143152251982144 * f ^ 74) + ((-61597557384822082030) * f ^ 73)) + ((114933951384888602320 * f ^ 72) + ((-202659775262508275652) * f ^ 71))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 3
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_4 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 4 = (((522799468479518027 * f ^ 74) + ((-1336358604483929801) * f ^ 73)) + ((3197615988831401989 * f ^ 72) + ((-7171840020438975889) * f ^ 71))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 4
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_5 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 5 = (((1458492056891371 * f ^ 74) + ((-5075371580531637) * f ^ 73)) + ((16308125690795623 * f ^ 72) + ((-48482288706121378) * f ^ 71))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 5
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_6 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 6 = (((3008394465564 * f ^ 74) + ((-13388030958886) * f ^ 73)) + ((54775259590983 * f ^ 72) + (((-205478980348395) * f ^ 71) + (708627102769391 * f ^ 70)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 6
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_7 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 7 = (((550699876 * f ^ 74) + ((-4110339954) * f ^ 73)) + ((26614801143 * f ^ 72) + (((-149916394594) * f ^ 71) + (745679933584 * f ^ 70)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 7
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_8 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 8 = (((5973 * f ^ 74) + ((-118042) * f ^ 73)) + ((1430961 * f ^ 72) + (((-12877851) * f ^ 71) + (98925721 * f ^ 70)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 8
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_9 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 9
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_10 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 10
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_11 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 11
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_12 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 12
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_13 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 13
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_14 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 14
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_15 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 15
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c4_16 (f : ℚ) :
+ (p_tlDCbP1c4 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c4 f 16
+ unfold c_tlDCbP1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_0 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 0 = (((760747677100514687283 * f ^ 70) + ((-853373413749698509336) * f ^ 69)) + ((907030958795952336322 * f ^ 68) + ((-913106934843149922049) * f ^ 67))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 0
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_1 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 1 = (((1508955470224148146953 * f ^ 70) + ((-1895045372972703954494) * f ^ 69)) + ((2257709613072199440546 * f ^ 68) + ((-2551471305880853543148) * f ^ 67))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 1
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_2 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 2 = (((1044118957027203039393 * f ^ 70) + ((-1454863165279646242393) * f ^ 69)) + ((1923175248201437345758 * f ^ 68) + (((-2412394477187258049415) * f ^ 67) + (2871974468357939729621 * f ^ 66)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 2
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_3 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 3 = (((337991482947761518043 * f ^ 70) + ((-533539344189564248305) * f ^ 69)) + ((797584678276563290980 * f ^ 68) + (((-1129535083843052655381) * f ^ 67) + (1515817975659883584916 * f ^ 66)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 3
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_4 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 4 = (((15093774279393615733 * f ^ 70) + ((-29838699132728085385) * f ^ 69)) + ((55468306394146563280 * f ^ 68) + (((-97061377412187611787) * f ^ 67) + (160022064246480421990 * f ^ 66)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 4
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_5 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 5 = (((133740567632925088 * f ^ 70) + ((-343421671692271180) * f ^ 69)) + ((822996613216725686 * f ^ 68) + (((-1843929474447629680) * f ^ 67) + (3867012313084110387 * f ^ 66)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 5
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_6 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 6 = ((((-2256873272798044) * f ^ 69) + (6667117447616541 * f ^ 68)) + (((-18329507194505225) * f ^ 67) + (46977974400031345 * f ^ 66))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 6
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_7 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 7 = ((((-3348377926694) * f ^ 69) + (13772132699037 * f ^ 68)) + (((-51930938129271) * f ^ 67) + (179053873624668 * f ^ 66))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 7
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_8 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 8 = ((((-671802880) * f ^ 69) + (4146494210 * f ^ 68)) + (((-23775597941) * f ^ 67) + (123331929920 * f ^ 66))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 8
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_9 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 9
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_10 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 10
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_11 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 11
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_12 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 12
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_13 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 13
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_14 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 14
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_15 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 15
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c5_16 (f : ℚ) :
+ (p_tlDCbP1c5 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c5 f 16
+ unfold c_tlDCbP1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_0 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 0 = (((870103641974273972522 * f ^ 66) + ((-784107305346931249683) * f ^ 65)) + ((667406739298688589628 * f ^ 64) + (((-535692006644979949055) * f ^ 63) + (404672853003427045538 * f ^ 62)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 0
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_1 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 1 = (((2734653475671156867128 * f ^ 66) + ((-2778733335366626166531) * f ^ 65)) + ((2675318491897295756103 * f ^ 64) + (((-2438503318245690589255) * f ^ 63) + (2101796696078412355568 * f ^ 62)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 1
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_2 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 2 = ((((-3245204309454755271709) * f ^ 65) + (3480192742264853209921 * f ^ 64)) + (((-3541288807013938699739) * f ^ 63) + (3417590035640362472584 * f ^ 62))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 2
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_3 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 3 = ((((-1927922211558351210952) * f ^ 65) + (2324137186082223919804 * f ^ 64)) + (((-2655596438831097249165) * f ^ 63) + (2875714071826837482932 * f ^ 62))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 3
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_4 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 4 = ((((-248745882396606386218) * f ^ 65) + (364751038413164042920 * f ^ 64)) + (((-504711153226746096797) * f ^ 63) + (659121686304398543379 * f ^ 62))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 4
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_5 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 5 = ((((-7597828013467288163) * f ^ 65) + (13997920057792718019 * f ^ 64)) + (((-24202318902056777948) * f ^ 63) + (39299735902671980306 * f ^ 62))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 5
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_6 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 6 = ((((-112388302182965408) * f ^ 65) + (251328321583349663 * f ^ 64)) + (((-526115884836157879) * f ^ 63) + (1032450499279911262 * f ^ 62))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 6
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_7 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 7 = ((((-565503826143632) * f ^ 65) + (1641710888451082 * f ^ 64)) + (((-4405031833542562) * f ^ 63) + ((10981038031376171 * f ^ 62) + ((-25481355892196805) * f ^ 61)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 7
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_8 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 8 = ((((-566720523030) * f ^ 65) + (2311468485284 * f ^ 64)) + (((-8522891460530) * f ^ 63) + ((28725440064791 * f ^ 62) + ((-88606690291397) * f ^ 61)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 8
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_9 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 9
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_10 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 10
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_11 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 11
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_12 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 12
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_13 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 13
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_14 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 14
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_15 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 15
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c6_16 (f : ℚ) :
+ (p_tlDCbP1c6 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c6 f 16
+ unfold c_tlDCbP1c6 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_0 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 0 = ((((-287074278980185674613) * f ^ 61) + (190778668590812396853 * f ^ 60)) + (((-118457396159663122588) * f ^ 59) + (68517498370284169167 * f ^ 58))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 0
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_1 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 1 = ((((-1710538425253390197252) * f ^ 61) + (1312084186834849778526 * f ^ 60)) + (((-946580914931468390736) * f ^ 59) + (640743911359796010121 * f ^ 58))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 1
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_2 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 2 = ((((-3125881425871041684389) * f ^ 61) + (2707016681810738173438 * f ^ 60)) + (((-2216777476190680840932) * f ^ 59) + (1713911874289474029901 * f ^ 58))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 2
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_3 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 3 = ((((-2950602642086507757910) * f ^ 61) + (2867322699520799715545 * f ^ 60)) + (((-2637296558077915239732) * f ^ 59) + ((2293769384019658340800 * f ^ 58) + ((-1884132520561441199826) * f ^ 57)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 3
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_4 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 4 = ((((-812407924334713777656) * f ^ 61) + (944987302274391030025 * f ^ 60)) + (((-1037129716783147734588) * f ^ 59) + ((1073639152213641579649 * f ^ 58) + ((-1047831282538607218278) * f ^ 57)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 4
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_5 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 5 = ((((-59969366152610002319) * f ^ 61) + (86037932178264374953 * f ^ 60)) + (((-116096622868916744514) * f ^ 59) + ((147358472551162639722 * f ^ 58) + ((-175913933931177473394) * f ^ 57)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 5
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_6 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 6 = ((((-1901593193633033793) * f ^ 61) + (3289812331809975282 * f ^ 60)) + (((-5348073252178772886) * f ^ 59) + ((8169770881439773518 * f ^ 58) + ((-11726614493698117672) * f ^ 57)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 6
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_7 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 7 = (((55071318641078823 * f ^ 60) + ((-110875526435507859) * f ^ 59)) + ((208063255431685443 * f ^ 58) + ((-364433024249874185) * f ^ 57))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 7
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_8 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 8 = (((250939494908954 * f ^ 60) + ((-652409255463546) * f ^ 59)) + ((1561079620537720 * f ^ 58) + ((-3459570215578747) * f ^ 57))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 8
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_9 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 9
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_10 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 10
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_11 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 11
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_12 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 12
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_13 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 13
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_14 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 14
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_15 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 15
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c7_16 (f : ℚ) :
+ (p_tlDCbP1c7 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c7 f 16
+ unfold c_tlDCbP1c7 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_0 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 0 = ((((-36787625374428249965) * f ^ 57) + (18251000407430834212 * f ^ 56)) + (((-8316851652264425714) * f ^ 55) + ((3454439201116437036 * f ^ 54) + ((-1295749348704906895) * f ^ 53)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 0
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_1 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 1 = ((((-405875055882571921042) * f ^ 57) + (239879344394537328411 * f ^ 56)) + (((-131820451615266827938) * f ^ 55) + ((67066529687964008836 * f ^ 54) + ((-31416654954598697188) * f ^ 53)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 1
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_2 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 2 = ((((-1248787408556699029859) * f ^ 57) + (855640092045541688911 * f ^ 56)) + (((-549947344452440490873) * f ^ 55) + ((330622229384976431603 * f ^ 54) + ((-185293714578862125667) * f ^ 53)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 2
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_3 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 3 = (((1459459199725126073452 * f ^ 56) + ((-1064274635315899374249) * f ^ 55)) + ((729286723737980557817 * f ^ 54) + ((-468662793911927146557) * f ^ 53))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 3
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_4 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 4 = (((963387716321667250857 * f ^ 56) + ((-833447444880090579158) * f ^ 55)) + ((677323142014268500952 * f ^ 54) + ((-515965578454650951238) * f ^ 53))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 4
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_5 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 5 = (((197438280831063201872 * f ^ 56) + ((-208223927526725901514) * f ^ 55)) + ((206212455026549180777 * f ^ 54) + ((-191616170921956889181) * f ^ 53))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 5
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_6 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 6 = (((15815652537191713601 * f ^ 56) + ((-20044853182973131336) * f ^ 55)) + ((23874258748002182495 * f ^ 54) + ((-26711872865281116690) * f ^ 53))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 6
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_7 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 7 = (((596634700981509828 * f ^ 56) + ((-913891751829257737) * f ^ 55)) + ((1310171886588874740 * f ^ 54) + ((-1757537355208676166) * f ^ 53))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 7
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_8 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 8 = (((7124278658380949 * f ^ 56) + ((-13657819080725775) * f ^ 55)) + ((24356775509960334 * f ^ 54) + (((-40337775795945583) * f ^ 53) + (62064295577729649 * f ^ 52)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 8
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_9 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 9
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_10 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 10
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_11 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 11
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_12 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 12
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_13 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 13
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_14 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 14
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_15 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 15
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c8_16 (f : ℚ) :
+ (p_tlDCbP1c8 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c8 f 16
+ unfold c_tlDCbP1c8 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_0 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 0 = (((434577589455544128 * f ^ 52) + ((-129173813643835392) * f ^ 51)) + ((33840306156976773 * f ^ 50) + ((-7791480746639758) * f ^ 49))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 0
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_1 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 1 = (((13452385014386929223 * f ^ 52) + ((-5217146546293780733) * f ^ 51)) + ((1812944066434033368 * f ^ 50) + ((-558369202277281659) * f ^ 49))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 1
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_2 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 2 = (((96415739249322064518 * f ^ 52) + ((-46345124460901939017) * f ^ 51)) + ((20445707858823612757 * f ^ 50) + ((-8207811927056048954) * f ^ 49))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 2
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_3 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 3 = (((281807048029167050263 * f ^ 52) + ((-158109946522995120035) * f ^ 51)) + ((82476998385043332996 * f ^ 50) + ((-39821079720400113009) * f ^ 49))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 3
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_4 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 4 = (((367523201872971656799 * f ^ 52) + ((-244169467994494684699) * f ^ 51)) + ((150932506561519578545 * f ^ 50) + (((-86592530653040541052) * f ^ 49) + (45967355525966291729 * f ^ 48)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 4
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_5 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 5 = (((166864326281089979947 * f ^ 52) + ((-135919955243222729912) * f ^ 51)) + ((103268031075953129959 * f ^ 50) + (((-72918613692804508428) * f ^ 49) + (47664994091402238120 * f ^ 48)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 5
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_6 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 6 = (((28049831707002230259 * f ^ 52) + ((-27608139046713493050) * f ^ 51)) + ((25433038061826484043 * f ^ 50) + (((-21896458769245307981) * f ^ 49) + (17585461888539046440 * f ^ 48)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 6
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_7 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 7 = (((2205453566067902423 * f ^ 52) + ((-2588624513841850570) * f ^ 51)) + ((2842151911950621240 * f ^ 50) + (((-2918283388924553371) * f ^ 49) + (2798971211871780379 * f ^ 48)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 7
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_8 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 8 = ((((-88835432555352468) * f ^ 51) + (118479037798125202 * f ^ 50)) + (((-147302058377130697) * f ^ 49) + (170544890626255814 * f ^ 48))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 8
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_9 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 9
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_10 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 10
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_11 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 11
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_12 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 12
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_13 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 13
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_14 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 14
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_15 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 15
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c9_16 (f : ℚ) :
+ (p_tlDCbP1c9 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c9 f 16
+ unfold c_tlDCbP1c9 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_0 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 0 = (((1557972531352073 * f ^ 48) + ((-256328352493867) * f ^ 47)) + ((29667228312360 * f ^ 46) + (((-1537390491200) * f ^ 45) + ((-4767981667) * f ^ 44)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 0
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_1 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 1 = (((151175057210409310 * f ^ 48) + ((-35873375522397655) * f ^ 47)) + ((7433416510034446 * f ^ 46) + (((-1296905790916321) * f ^ 45) + (165184629621802 * f ^ 44)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 1
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_2 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 2 = (((2965583352268458145 * f ^ 48) + ((-951998607977200571) * f ^ 47)) + ((268176056345032882 * f ^ 46) + (((-65850360547110839) * f ^ 45) + (14124829619428686 * f ^ 44)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 2
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_3 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 3 = (((17697088003716807767 * f ^ 48) + ((-7191051393349388645) * f ^ 47)) + ((2649042827361366305 * f ^ 46) + (((-874499770119035650) * f ^ 45) + (254748335728283141 * f ^ 44)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 3
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_4 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 4 = ((((-22478486376159994367) * f ^ 47) + (10063434150359762363 * f ^ 46)) + (((-4094714683717448095) * f ^ 45) + (1504322212601790014 * f ^ 44))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 4
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_5 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 5 = ((((-28740556922341052329) * f ^ 47) + (15936613301808071948 * f ^ 46)) + (((-8097937898466059132) * f ^ 45) + (3747434872449065822 * f ^ 44))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 5
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_6 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 6 = ((((-13135586508679597432) * f ^ 47) + (9083645563319593431 * f ^ 46)) + (((-5780973299162428631) * f ^ 45) + (3366016464349795411 * f ^ 44))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 6
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_7 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 7 = ((((-2502215178543517760) * f ^ 47) + (2079405053368788524 * f ^ 46)) + (((-1602178423823446349) * f ^ 45) + (1141699983105679488 * f ^ 44))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 7
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_8 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 8 = ((((-183695216609684738) * f ^ 47) + (183918543894825927 * f ^ 46)) + (((-170999715258410465) * f ^ 45) + (147288703041815128 * f ^ 44))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 8
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_9 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 9
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_10 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 10
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_11 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 11
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_12 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 12
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_13 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 13
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_14 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 14
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_15 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 15
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c10_16 (f : ℚ) :
+ (p_tlDCbP1c10 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c10 f 16
+ unfold c_tlDCbP1c10 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_0 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 0 = ((-17863179677) * f ^ 43) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 0
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_1 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 1 = (((-9621548915464) * f ^ 43) + (((-189376507095) * f ^ 42) + ((-107179078062) * f ^ 41))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 1
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_2 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 2 = ((((-2617238825788142) * f ^ 43) + (374547932818109 * f ^ 42)) + (((-26003409047231) * f ^ 41) + (((-921074938144) * f ^ 40) + ((-268561598133) * f ^ 39)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 2
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_3 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 3 = ((((-64453134430206533) * f ^ 43) + (14098076500053148 * f ^ 42)) + (((-2705817766775535) * f ^ 41) + ((437520224112566 * f ^ 40) + ((-39106550443957) * f ^ 39)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 3
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_4 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 4 = ((((-496672667155568574) * f ^ 43) + (146456595584083292 * f ^ 42)) + (((-37905430555350977) * f ^ 41) + ((8345542523945238 * f ^ 40) + ((-1555906674449039) * f ^ 39)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 4
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_5 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 5 = ((((-1562033835900882622) * f ^ 43) + (577908700801211857 * f ^ 42)) + (((-187809338662768479) * f ^ 41) + ((53956228026593859 * f ^ 40) + ((-13963990166915104) * f ^ 39)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 5
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_6 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 6 = ((((-1785536539877309532) * f ^ 43) + (860354670514940234 * f ^ 42)) + (((-374154159973313892) * f ^ 41) + ((144109269440797299 * f ^ 40) + ((-47513543728476562) * f ^ 39)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 6
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_7 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 7 = ((((-749544793051423514) * f ^ 43) + (450239000192981405 * f ^ 42)) + (((-244963757871057552) * f ^ 41) + ((119518117739578807 * f ^ 40) + ((-52169697873930778) * f ^ 39)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 7
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_8 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 8 = ((((-116966863742090887) * f ^ 43) + ((85178689246661948 * f ^ 42) + ((-56659525781943940) * f ^ 41))) + ((34348989208026357 * f ^ 40) + (((-18893188313427366) * f ^ 39) + (9245005214803858 * f ^ 38)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 8
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_9 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 9
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_10 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 10
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_11 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 11
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_12 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 12
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_13 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 13
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_14 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 14
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_15 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 15
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c11_16 (f : ℚ) :
+ (p_tlDCbP1c11 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c11 f 16
+ unfold c_tlDCbP1c11 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_0 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 0 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 0
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_1 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 1 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 1
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_2 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 2 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 2
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_3 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 3 = (((-1872942359113) * f ^ 38) + ((-359719205452) * f ^ 37)) := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 3
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_4 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 4 = (((269992498224281 * f ^ 38) + ((-34614290258565) * f ^ 37)) + (((-1915850600376) * f ^ 36) + ((-271631113023) * f ^ 35))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 4
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_5 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 5 = (((3162699692294797 * f ^ 38) + (((-540256979093648) * f ^ 37) + (76423660601500 * f ^ 36))) + (((-17299437409829) * f ^ 35) + (((-980127036472) * f ^ 34) + ((-109634689974) * f ^ 33)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 5
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_6 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 6 = ((((13031131048235949 * f ^ 38) + ((-3094075569517813) * f ^ 37)) + ((737953954644131 * f ^ 36) + ((-137696926449574) * f ^ 35))) + (((3407259136003 * f ^ 34) + ((-4133334540998) * f ^ 33)) + (((-201980188449) * f ^ 32) + ((-18477082655) * f ^ 31)))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 6
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_7 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 7 = ((((20443443938249591 * f ^ 38) + ((-7064106167199189) * f ^ 37)) + ((1997895674673474 * f ^ 36) + ((-391700444260668) * f ^ 35))) + (((70319818464520 * f ^ 34) + ((-25659614041054) * f ^ 33)) + (((-1547583822892) * f ^ 32) + (((-261501471722) * f ^ 31) + ((-1227805956) * f ^ 30))))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 7
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_8 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 8 = (((((-3882114696537398) * f ^ 37) + (1371310044309613 * f ^ 36)) + (((-424363224734445) * f ^ 35) + (135389778894117 * f ^ 34))) + ((((-31672671444144) * f ^ 33) + ((-1792818966985) * f ^ 32)) + (((-1328921820432) * f ^ 31) + (((-33987977777) * f ^ 30) + ((-613902978) * f ^ 29))))) := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 8
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_9 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 9
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_10 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 10
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_11 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 11
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_12 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 12
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_13 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 13
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_14 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 14
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_15 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 15
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbP1c12_16 (f : ℚ) :
+ (p_tlDCbP1c12 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbP1c12 f 16
+ unfold c_tlDCbP1c12 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_0 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 0 = ((((((-4) * f ^ 71) + (350 * f ^ 70)) + (((-9855) * f ^ 69) + (185582 * f ^ 68))) + ((((-2268410) * f ^ 67) + (19371430 * f ^ 66)) + (((-135650948) * f ^ 65) + (825773210 * f ^ 64)))) + (((((-4366700583) * f ^ 63) + (21052237088 * f ^ 62)) + (((-94091338328) * f ^ 61) + (385953720673 * f ^ 60))) + ((((-1415453616735) * f ^ 59) + (4648941584187 * f ^ 58)) + (((-13859065990844) * f ^ 57) + ((37652183058959 * f ^ 56) + ((-94530827396174) * f ^ 55)))))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 0
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_1 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 1 = (((((-2) * f ^ 66) + (((-787) * f ^ 65) + (14378 * f ^ 64))) + (((-174249) * f ^ 63) + ((1903045 * f ^ 62) + ((-16004224) * f ^ 61)))) + (((113548254 * f ^ 60) + (((-725027317) * f ^ 59) + (3761649079 * f ^ 58))) + (((-16517030761) * f ^ 57) + ((63917732174 * f ^ 56) + ((-228716928697) * f ^ 55))))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 1
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_2 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 2 = ((((2 * f ^ 62) + ((-140) * f ^ 61)) + ((4505 * f ^ 60) + ((-62500) * f ^ 59))) + (((505646 * f ^ 58) + ((-3402747) * f ^ 57)) + ((20901854 * f ^ 56) + ((-108862989) * f ^ 55)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 2
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_3 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 3 = (((-4) * f ^ 57) + ((298 * f ^ 56) + ((-5829) * f ^ 55))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 3
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_4 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 4 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 4
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_5 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 5 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 5
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_6 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 6 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 6
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_7 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 7
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_8 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 8
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_9 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 9
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_10 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 10
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_11 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 11
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_12 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 12
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_13 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 13
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_14 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 14
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_15 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 15
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c0_16 (f : ℚ) :
+ (p_tlDCbQ1c0 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c0 f 16
+ unfold c_tlDCbQ1c0 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_0 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 0 = ((((218737206026331 * f ^ 54) + ((-463793348590448) * f ^ 53)) + ((905302638306765 * f ^ 52) + ((-1629574368938346) * f ^ 51))) + (((2720782996797453 * f ^ 50) + ((-4216371769563584) * f ^ 49)) + ((6048449514619346 * f ^ 48) + ((-8040561914815028) * f ^ 47)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 0
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_1 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 1 = ((((738329193598 * f ^ 54) + ((-2122345013980) * f ^ 53)) + ((5557386144465 * f ^ 52) + ((-13095125263309) * f ^ 51))) + (((28578467555274 * f ^ 50) + ((-57678095901807) * f ^ 49)) + ((106505875800833 * f ^ 48) + ((-182243057491498) * f ^ 47)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 1
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_2 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 2 = ((((575888328 * f ^ 54) + ((-2630157017) * f ^ 53)) + ((10566128749 * f ^ 52) + ((-35769236852) * f ^ 51))) + (((110551919330 * f ^ 50) + ((-308683445043) * f ^ 49)) + ((766831281450 * f ^ 48) + ((-1827274725682) * f ^ 47)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 2
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_3 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 3 = ((((82920 * f ^ 54) + ((-652791) * f ^ 53)) + ((3805088 * f ^ 52) + ((-23837656) * f ^ 51))) + (((105854450 * f ^ 50) + ((-436525545) * f ^ 49)) + ((1600038827 * f ^ 48) + ((-5918599261) * f ^ 47)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 3
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_4 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 4 = ((((-2) * f ^ 52) + (((-779) * f ^ 51) + (5351 * f ^ 50))) + (((-53088) * f ^ 49) + ((416967 * f ^ 48) + ((-2369177) * f ^ 47)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 4
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_5 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 5 = ((2 * f ^ 48) + ((-122) * f ^ 47)) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 5
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_6 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 6 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 6
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_7 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 7
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_8 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 8
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_9 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 9
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_10 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 10
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_11 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 11
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_12 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 12
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_13 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 13
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_14 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 14
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_15 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 15
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c1_16 (f : ℚ) :
+ (p_tlDCbQ1c1 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c1 f 16
+ unfold c_tlDCbQ1c1 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_0 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 0 = (((9897065086373663 * f ^ 46) + (((-11276134531621450) * f ^ 45) + (11875554017751775 * f ^ 44))) + (((-11544102495771816) * f ^ 43) + ((10374531221107525 * f ^ 42) + ((-8604138092697140) * f ^ 41)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 0
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_1 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 1 = (((284018026023348 * f ^ 46) + (((-405260746793550) * f ^ 45) + (530730322294077 * f ^ 44))) + (((-640735056015170) * f ^ 43) + ((720885648851379 * f ^ 42) + ((-743988231194259) * f ^ 41)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 1
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_2 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 2 = (((3769769061536 * f ^ 46) + (((-6999201033925) * f ^ 45) + (11843218187101 * f ^ 44))) + (((-18389890874951) * f ^ 43) + ((27417403533276 * f ^ 42) + ((-35652941902476) * f ^ 41)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 2
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_3 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 3 = (((17422387834 * f ^ 46) + (((-45044098643) * f ^ 45) + (105268595256 * f ^ 44))) + (((-223034754341) * f ^ 43) + ((492349413540 * f ^ 42) + ((-853226675992) * f ^ 41)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 3
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_4 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 4 = (((19911608 * f ^ 46) + (((-86095772) * f ^ 45) + (306687603 * f ^ 44))) + (((-953319731) * f ^ 43) + ((3081850737 * f ^ 42) + ((-7571153370) * f ^ 41)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 4
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_5 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 5 = (((3357 * f ^ 46) + (((-22810) * f ^ 45) + (129405 * f ^ 44))) + (((-708792) * f ^ 43) + ((3410918 * f ^ 42) + ((-18308697) * f ^ 41)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 5
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_6 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 6 = ((((-4) * f ^ 43) + (248 * f ^ 42)) + (((-4325) * f ^ 41) + (29046 * f ^ 40))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 6
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_7 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 7 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 7
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_8 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 8
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_9 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 9
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_10 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 10
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_11 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 11
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_12 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 12
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_13 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 13
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_14 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 14
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_15 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 15
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c2_16 (f : ℚ) :
+ (p_tlDCbQ1c2 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c2 f 16
+ unfold c_tlDCbQ1c2 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_0 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 0 = (((6536140822098198 * f ^ 40) + ((-4486896505928063) * f ^ 39)) + ((2734487462401517 * f ^ 38) + (((-1477021288368331) * f ^ 37) + (722863318972483 * f ^ 36)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 0
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_1 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 1 = (((696798796777809 * f ^ 40) + ((-589115595216057) * f ^ 39)) + ((450218319237524 * f ^ 38) + (((-317023872541306) * f ^ 37) + (204312610780928 * f ^ 36)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 1
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_2 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 2 = (((41430694656391 * f ^ 40) + ((-43591650629548) * f ^ 39)) + ((41910972780859 * f ^ 38) + (((-37685141052430) * f ^ 37) + (30502307848515 * f ^ 36)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 2
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_3 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 3 = (((1304491772061 * f ^ 40) + ((-1819330014251) * f ^ 39)) + ((2315641372852 * f ^ 38) + (((-2784830267566) * f ^ 37) + (3007048057215 * f ^ 36)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 3
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_4 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 4 = (((16238121826 * f ^ 40) + ((-31981739590) * f ^ 39)) + ((56396024275 * f ^ 38) + (((-95989349211) * f ^ 37) + (144706072445 * f ^ 36)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 4
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_5 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 5 = (((64223590 * f ^ 40) + (((-196194735) * f ^ 39) + (502860139 * f ^ 38))) + (((-1239227351) * f ^ 37) + ((2663024886 * f ^ 36) + ((-5126316491) * f ^ 35)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 5
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_6 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 6 = ((((-148350) * f ^ 39) + (683266 * f ^ 38)) + (((-2817573) * f ^ 37) + ((10054010 * f ^ 36) + ((-30908443) * f ^ 35)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 6
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_7 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 7 = (((2 * f ^ 38) + ((-122) * f ^ 37)) + ((1601 * f ^ 36) + ((-10174) * f ^ 35))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 7
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_8 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 8
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_9 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 9
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_10 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 10
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_11 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 11
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_12 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 12
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_13 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 13
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_14 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 14
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_15 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 15
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c3_16 (f : ℚ) :
+ (p_tlDCbQ1c3 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c3 f 16
+ unfold c_tlDCbQ1c3 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_0 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 0 = ((((-316512484838921) * f ^ 35) + (115128483723654 * f ^ 34)) + (((-24733807972491) * f ^ 33) + ((2648633824898 * f ^ 32) + ((-3117744525416) * f ^ 31)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 0
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_1 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 1 = ((((-111892842258449) * f ^ 35) + (49934533754621 * f ^ 34)) + (((-17312677455736) * f ^ 33) + ((7361738090255 * f ^ 32) + ((-3225240200563) * f ^ 31)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 1
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_2 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 2 = ((((-20784642424552) * f ^ 35) + (12799657877514 * f ^ 34)) + (((-6913368310666) * f ^ 33) + ((3837172007221 * f ^ 32) + ((-1109080560359) * f ^ 31)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 2
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_3 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 3 = ((((-2860273688313) * f ^ 35) + (2658553759973 * f ^ 34)) + (((-2040940418884) * f ^ 33) + ((1436140054474 * f ^ 32) + ((-690155507151) * f ^ 31)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 3
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_4 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 4 = ((((-194301352877) * f ^ 35) + (251498225885 * f ^ 34)) + (((-246341189589) * f ^ 33) + ((225738773963 * f ^ 32) + ((-177701801047) * f ^ 31)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 4
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_5 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 5 = (((9202192537 * f ^ 34) + ((-11240478810) * f ^ 33)) + ((13573984529 * f ^ 32) + (((-15412924895) * f ^ 31) + (19688943789 * f ^ 30)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 5
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_6 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 6 = (((82695705 * f ^ 34) + ((-137519593) * f ^ 33)) + ((246365552 * f ^ 32) + (((-435654313) * f ^ 31) + (779745886 * f ^ 30)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 6
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_7 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 7 = (((46082 * f ^ 34) + ((-184312) * f ^ 33)) + ((668491 * f ^ 32) + (((-2122479) * f ^ 31) + (5816773 * f ^ 30)))) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 7
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_8 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 8
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_9 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 9
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_10 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 10
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_11 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 11
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_12 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 12
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_13 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 13
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_14 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 14
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_15 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 15
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c4_16 (f : ℚ) :
+ (p_tlDCbQ1c4 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c4 f 16
+ unfold c_tlDCbQ1c4 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_0 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 0 = (((-236989317468) * f ^ 30) + ((-17863179677) * f ^ 29)) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 0
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_1 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 1 = (((-583409137242) * f ^ 30) + ((-139935977137) * f ^ 29)) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 1
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_2 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 2 = (((-407122141328) * f ^ 30) + ((-430571946438) * f ^ 29)) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 2
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_3 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 3 = ((335464419937 * f ^ 30) + ((-563956259776) * f ^ 29)) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 3
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_4 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 4 = ((167864691671 * f ^ 30) + ((-213189695310) * f ^ 29)) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 4
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_5 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 5 = ((-26859157046) * f ^ 29) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 5
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_6 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 6 = ((-1314443829) * f ^ 29) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 6
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_7 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 7 = ((-13816855) * f ^ 29) := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 7
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_8 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 8 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 8
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_9 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 9 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 9
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_10 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 10 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 10
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_11 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 11 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 11
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_12 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 12 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 12
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_13 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 13 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 13
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_14 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 14 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 14
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_15 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 15 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 15
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+lemma fixed_tlDCbQ1c5_16 (f : ℚ) :
+ (p_tlDCbQ1c5 f).coeff 16 = 0 := by
+ have h := bridge_coeff_table_p_tlDCbQ1c5 f 16
+ unfold c_tlDCbQ1c5 at h
+ norm_num only [ite_true, ite_false, add_zero, zero_add] at h
+ exact h
+
+end MazurTransfer.Order27DCb1Polynomial
+open Polynomial MazurTransfer.Order27DCb1Polynomial
+
+lemma coefficient_4 (f : ℚ) : (leftSide f).coeff 4 = (rightSide f).coeff 4 := by
+ norm_num only [leftSide, rightSide, Polynomial.coeff_mul, Polynomial.coeff_add, Finset.Nat.sum_antidiagonal_eq_sum_range_succ_mk, Finset.sum_range_succ, Finset.sum_range_zero, ite_true, ite_false, add_zero, zero_add]
+ try simp only [fixed_tlDSqP0c3_0, fixed_tlDSqP0c3_1, fixed_tlDSqP0c3_2, fixed_tlDSqP0c3_3, fixed_tlDSqP0c3_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c4_0, fixed_tlDSqP0c4_1, fixed_tlDSqP0c4_2, fixed_tlDSqP0c4_3, fixed_tlDSqP0c4_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c5_0, fixed_tlDSqP0c5_1, fixed_tlDSqP0c5_2, fixed_tlDSqP0c5_3, fixed_tlDSqP0c5_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD0_0, fixed_tlD0_1, fixed_tlD0_2, fixed_tlD0_3, fixed_tlD0_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD1_0, fixed_tlD1_1, fixed_tlD1_2, fixed_tlD1_3, fixed_tlD1_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT0_0, fixed_tlT0_1, fixed_tlT0_2, fixed_tlT0_3, fixed_tlT0_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT1_0, fixed_tlT1_1, fixed_tlT1_2, fixed_tlT1_3, fixed_tlT1_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT2_0, fixed_tlT2_1, fixed_tlT2_2, fixed_tlT2_3, fixed_tlT2_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT3_0, fixed_tlT3_1, fixed_tlT3_2, fixed_tlT3_3, fixed_tlT3_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c0_0, fixed_tlDCbP1c0_1, fixed_tlDCbP1c0_2, fixed_tlDCbP1c0_3, fixed_tlDCbP1c0_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c1_0, fixed_tlDCbP1c1_1, fixed_tlDCbP1c1_2, fixed_tlDCbP1c1_3, fixed_tlDCbP1c1_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c2_0, fixed_tlDCbP1c2_1, fixed_tlDCbP1c2_2, fixed_tlDCbP1c2_3, fixed_tlDCbP1c2_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c3_0, fixed_tlDCbP1c3_1, fixed_tlDCbP1c3_2, fixed_tlDCbP1c3_3, fixed_tlDCbP1c3_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c4_0, fixed_tlDCbP1c4_1, fixed_tlDCbP1c4_2, fixed_tlDCbP1c4_3, fixed_tlDCbP1c4_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c5_0, fixed_tlDCbP1c5_1, fixed_tlDCbP1c5_2, fixed_tlDCbP1c5_3, fixed_tlDCbP1c5_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c6_0, fixed_tlDCbP1c6_1, fixed_tlDCbP1c6_2, fixed_tlDCbP1c6_3, fixed_tlDCbP1c6_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c7_0, fixed_tlDCbP1c7_1, fixed_tlDCbP1c7_2, fixed_tlDCbP1c7_3, fixed_tlDCbP1c7_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c8_0, fixed_tlDCbP1c8_1, fixed_tlDCbP1c8_2, fixed_tlDCbP1c8_3, fixed_tlDCbP1c8_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c9_0, fixed_tlDCbP1c9_1, fixed_tlDCbP1c9_2, fixed_tlDCbP1c9_3, fixed_tlDCbP1c9_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c10_0, fixed_tlDCbP1c10_1, fixed_tlDCbP1c10_2, fixed_tlDCbP1c10_3, fixed_tlDCbP1c10_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c11_0, fixed_tlDCbP1c11_1, fixed_tlDCbP1c11_2, fixed_tlDCbP1c11_3, fixed_tlDCbP1c11_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c12_0, fixed_tlDCbP1c12_1, fixed_tlDCbP1c12_2, fixed_tlDCbP1c12_3, fixed_tlDCbP1c12_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c0_0, fixed_tlDCbQ1c0_1, fixed_tlDCbQ1c0_2, fixed_tlDCbQ1c0_3, fixed_tlDCbQ1c0_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c1_0, fixed_tlDCbQ1c1_1, fixed_tlDCbQ1c1_2, fixed_tlDCbQ1c1_3, fixed_tlDCbQ1c1_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c2_0, fixed_tlDCbQ1c2_1, fixed_tlDCbQ1c2_2, fixed_tlDCbQ1c2_3, fixed_tlDCbQ1c2_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c3_0, fixed_tlDCbQ1c3_1, fixed_tlDCbQ1c3_2, fixed_tlDCbQ1c3_3, fixed_tlDCbQ1c3_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c4_0, fixed_tlDCbQ1c4_1, fixed_tlDCbQ1c4_2, fixed_tlDCbQ1c4_3, fixed_tlDCbQ1c4_4, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c5_0, fixed_tlDCbQ1c5_1, fixed_tlDCbQ1c5_2, fixed_tlDCbQ1c5_3, fixed_tlDCbQ1c5_4, add_zero, zero_add, mul_zero, zero_mul]
+ try ring
+
+lemma coefficient_5 (f : ℚ) : (leftSide f).coeff 5 = (rightSide f).coeff 5 := by
+ norm_num only [leftSide, rightSide, Polynomial.coeff_mul, Polynomial.coeff_add, Finset.Nat.sum_antidiagonal_eq_sum_range_succ_mk, Finset.sum_range_succ, Finset.sum_range_zero, ite_true, ite_false, add_zero, zero_add]
+ try simp only [fixed_tlDSqP0c3_0, fixed_tlDSqP0c3_1, fixed_tlDSqP0c3_2, fixed_tlDSqP0c3_3, fixed_tlDSqP0c3_4, fixed_tlDSqP0c3_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c4_0, fixed_tlDSqP0c4_1, fixed_tlDSqP0c4_2, fixed_tlDSqP0c4_3, fixed_tlDSqP0c4_4, fixed_tlDSqP0c4_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c5_0, fixed_tlDSqP0c5_1, fixed_tlDSqP0c5_2, fixed_tlDSqP0c5_3, fixed_tlDSqP0c5_4, fixed_tlDSqP0c5_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD0_0, fixed_tlD0_1, fixed_tlD0_2, fixed_tlD0_3, fixed_tlD0_4, fixed_tlD0_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD1_0, fixed_tlD1_1, fixed_tlD1_2, fixed_tlD1_3, fixed_tlD1_4, fixed_tlD1_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT0_0, fixed_tlT0_1, fixed_tlT0_2, fixed_tlT0_3, fixed_tlT0_4, fixed_tlT0_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT1_0, fixed_tlT1_1, fixed_tlT1_2, fixed_tlT1_3, fixed_tlT1_4, fixed_tlT1_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT2_0, fixed_tlT2_1, fixed_tlT2_2, fixed_tlT2_3, fixed_tlT2_4, fixed_tlT2_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT3_0, fixed_tlT3_1, fixed_tlT3_2, fixed_tlT3_3, fixed_tlT3_4, fixed_tlT3_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c0_0, fixed_tlDCbP1c0_1, fixed_tlDCbP1c0_2, fixed_tlDCbP1c0_3, fixed_tlDCbP1c0_4, fixed_tlDCbP1c0_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c1_0, fixed_tlDCbP1c1_1, fixed_tlDCbP1c1_2, fixed_tlDCbP1c1_3, fixed_tlDCbP1c1_4, fixed_tlDCbP1c1_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c2_0, fixed_tlDCbP1c2_1, fixed_tlDCbP1c2_2, fixed_tlDCbP1c2_3, fixed_tlDCbP1c2_4, fixed_tlDCbP1c2_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c3_0, fixed_tlDCbP1c3_1, fixed_tlDCbP1c3_2, fixed_tlDCbP1c3_3, fixed_tlDCbP1c3_4, fixed_tlDCbP1c3_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c4_0, fixed_tlDCbP1c4_1, fixed_tlDCbP1c4_2, fixed_tlDCbP1c4_3, fixed_tlDCbP1c4_4, fixed_tlDCbP1c4_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c5_0, fixed_tlDCbP1c5_1, fixed_tlDCbP1c5_2, fixed_tlDCbP1c5_3, fixed_tlDCbP1c5_4, fixed_tlDCbP1c5_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c6_0, fixed_tlDCbP1c6_1, fixed_tlDCbP1c6_2, fixed_tlDCbP1c6_3, fixed_tlDCbP1c6_4, fixed_tlDCbP1c6_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c7_0, fixed_tlDCbP1c7_1, fixed_tlDCbP1c7_2, fixed_tlDCbP1c7_3, fixed_tlDCbP1c7_4, fixed_tlDCbP1c7_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c8_0, fixed_tlDCbP1c8_1, fixed_tlDCbP1c8_2, fixed_tlDCbP1c8_3, fixed_tlDCbP1c8_4, fixed_tlDCbP1c8_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c9_0, fixed_tlDCbP1c9_1, fixed_tlDCbP1c9_2, fixed_tlDCbP1c9_3, fixed_tlDCbP1c9_4, fixed_tlDCbP1c9_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c10_0, fixed_tlDCbP1c10_1, fixed_tlDCbP1c10_2, fixed_tlDCbP1c10_3, fixed_tlDCbP1c10_4, fixed_tlDCbP1c10_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c11_0, fixed_tlDCbP1c11_1, fixed_tlDCbP1c11_2, fixed_tlDCbP1c11_3, fixed_tlDCbP1c11_4, fixed_tlDCbP1c11_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c12_0, fixed_tlDCbP1c12_1, fixed_tlDCbP1c12_2, fixed_tlDCbP1c12_3, fixed_tlDCbP1c12_4, fixed_tlDCbP1c12_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c0_0, fixed_tlDCbQ1c0_1, fixed_tlDCbQ1c0_2, fixed_tlDCbQ1c0_3, fixed_tlDCbQ1c0_4, fixed_tlDCbQ1c0_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c1_0, fixed_tlDCbQ1c1_1, fixed_tlDCbQ1c1_2, fixed_tlDCbQ1c1_3, fixed_tlDCbQ1c1_4, fixed_tlDCbQ1c1_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c2_0, fixed_tlDCbQ1c2_1, fixed_tlDCbQ1c2_2, fixed_tlDCbQ1c2_3, fixed_tlDCbQ1c2_4, fixed_tlDCbQ1c2_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c3_0, fixed_tlDCbQ1c3_1, fixed_tlDCbQ1c3_2, fixed_tlDCbQ1c3_3, fixed_tlDCbQ1c3_4, fixed_tlDCbQ1c3_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c4_0, fixed_tlDCbQ1c4_1, fixed_tlDCbQ1c4_2, fixed_tlDCbQ1c4_3, fixed_tlDCbQ1c4_4, fixed_tlDCbQ1c4_5, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c5_0, fixed_tlDCbQ1c5_1, fixed_tlDCbQ1c5_2, fixed_tlDCbQ1c5_3, fixed_tlDCbQ1c5_4, fixed_tlDCbQ1c5_5, add_zero, zero_add, mul_zero, zero_mul]
+ try ring
+
+lemma coefficient_6 (f : ℚ) : (leftSide f).coeff 6 = (rightSide f).coeff 6 := by
+ norm_num only [leftSide, rightSide, Polynomial.coeff_mul, Polynomial.coeff_add, Finset.Nat.sum_antidiagonal_eq_sum_range_succ_mk, Finset.sum_range_succ, Finset.sum_range_zero, ite_true, ite_false, add_zero, zero_add]
+ try simp only [fixed_tlDSqP0c3_0, fixed_tlDSqP0c3_1, fixed_tlDSqP0c3_2, fixed_tlDSqP0c3_3, fixed_tlDSqP0c3_4, fixed_tlDSqP0c3_5, fixed_tlDSqP0c3_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c4_0, fixed_tlDSqP0c4_1, fixed_tlDSqP0c4_2, fixed_tlDSqP0c4_3, fixed_tlDSqP0c4_4, fixed_tlDSqP0c4_5, fixed_tlDSqP0c4_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c5_0, fixed_tlDSqP0c5_1, fixed_tlDSqP0c5_2, fixed_tlDSqP0c5_3, fixed_tlDSqP0c5_4, fixed_tlDSqP0c5_5, fixed_tlDSqP0c5_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD0_0, fixed_tlD0_1, fixed_tlD0_2, fixed_tlD0_3, fixed_tlD0_4, fixed_tlD0_5, fixed_tlD0_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD1_0, fixed_tlD1_1, fixed_tlD1_2, fixed_tlD1_3, fixed_tlD1_4, fixed_tlD1_5, fixed_tlD1_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT0_0, fixed_tlT0_1, fixed_tlT0_2, fixed_tlT0_3, fixed_tlT0_4, fixed_tlT0_5, fixed_tlT0_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT1_0, fixed_tlT1_1, fixed_tlT1_2, fixed_tlT1_3, fixed_tlT1_4, fixed_tlT1_5, fixed_tlT1_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT2_0, fixed_tlT2_1, fixed_tlT2_2, fixed_tlT2_3, fixed_tlT2_4, fixed_tlT2_5, fixed_tlT2_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT3_0, fixed_tlT3_1, fixed_tlT3_2, fixed_tlT3_3, fixed_tlT3_4, fixed_tlT3_5, fixed_tlT3_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c0_0, fixed_tlDCbP1c0_1, fixed_tlDCbP1c0_2, fixed_tlDCbP1c0_3, fixed_tlDCbP1c0_4, fixed_tlDCbP1c0_5, fixed_tlDCbP1c0_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c1_0, fixed_tlDCbP1c1_1, fixed_tlDCbP1c1_2, fixed_tlDCbP1c1_3, fixed_tlDCbP1c1_4, fixed_tlDCbP1c1_5, fixed_tlDCbP1c1_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c2_0, fixed_tlDCbP1c2_1, fixed_tlDCbP1c2_2, fixed_tlDCbP1c2_3, fixed_tlDCbP1c2_4, fixed_tlDCbP1c2_5, fixed_tlDCbP1c2_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c3_0, fixed_tlDCbP1c3_1, fixed_tlDCbP1c3_2, fixed_tlDCbP1c3_3, fixed_tlDCbP1c3_4, fixed_tlDCbP1c3_5, fixed_tlDCbP1c3_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c4_0, fixed_tlDCbP1c4_1, fixed_tlDCbP1c4_2, fixed_tlDCbP1c4_3, fixed_tlDCbP1c4_4, fixed_tlDCbP1c4_5, fixed_tlDCbP1c4_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c5_0, fixed_tlDCbP1c5_1, fixed_tlDCbP1c5_2, fixed_tlDCbP1c5_3, fixed_tlDCbP1c5_4, fixed_tlDCbP1c5_5, fixed_tlDCbP1c5_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c6_0, fixed_tlDCbP1c6_1, fixed_tlDCbP1c6_2, fixed_tlDCbP1c6_3, fixed_tlDCbP1c6_4, fixed_tlDCbP1c6_5, fixed_tlDCbP1c6_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c7_0, fixed_tlDCbP1c7_1, fixed_tlDCbP1c7_2, fixed_tlDCbP1c7_3, fixed_tlDCbP1c7_4, fixed_tlDCbP1c7_5, fixed_tlDCbP1c7_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c8_0, fixed_tlDCbP1c8_1, fixed_tlDCbP1c8_2, fixed_tlDCbP1c8_3, fixed_tlDCbP1c8_4, fixed_tlDCbP1c8_5, fixed_tlDCbP1c8_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c9_0, fixed_tlDCbP1c9_1, fixed_tlDCbP1c9_2, fixed_tlDCbP1c9_3, fixed_tlDCbP1c9_4, fixed_tlDCbP1c9_5, fixed_tlDCbP1c9_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c10_0, fixed_tlDCbP1c10_1, fixed_tlDCbP1c10_2, fixed_tlDCbP1c10_3, fixed_tlDCbP1c10_4, fixed_tlDCbP1c10_5, fixed_tlDCbP1c10_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c11_0, fixed_tlDCbP1c11_1, fixed_tlDCbP1c11_2, fixed_tlDCbP1c11_3, fixed_tlDCbP1c11_4, fixed_tlDCbP1c11_5, fixed_tlDCbP1c11_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c12_0, fixed_tlDCbP1c12_1, fixed_tlDCbP1c12_2, fixed_tlDCbP1c12_3, fixed_tlDCbP1c12_4, fixed_tlDCbP1c12_5, fixed_tlDCbP1c12_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c0_0, fixed_tlDCbQ1c0_1, fixed_tlDCbQ1c0_2, fixed_tlDCbQ1c0_3, fixed_tlDCbQ1c0_4, fixed_tlDCbQ1c0_5, fixed_tlDCbQ1c0_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c1_0, fixed_tlDCbQ1c1_1, fixed_tlDCbQ1c1_2, fixed_tlDCbQ1c1_3, fixed_tlDCbQ1c1_4, fixed_tlDCbQ1c1_5, fixed_tlDCbQ1c1_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c2_0, fixed_tlDCbQ1c2_1, fixed_tlDCbQ1c2_2, fixed_tlDCbQ1c2_3, fixed_tlDCbQ1c2_4, fixed_tlDCbQ1c2_5, fixed_tlDCbQ1c2_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c3_0, fixed_tlDCbQ1c3_1, fixed_tlDCbQ1c3_2, fixed_tlDCbQ1c3_3, fixed_tlDCbQ1c3_4, fixed_tlDCbQ1c3_5, fixed_tlDCbQ1c3_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c4_0, fixed_tlDCbQ1c4_1, fixed_tlDCbQ1c4_2, fixed_tlDCbQ1c4_3, fixed_tlDCbQ1c4_4, fixed_tlDCbQ1c4_5, fixed_tlDCbQ1c4_6, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c5_0, fixed_tlDCbQ1c5_1, fixed_tlDCbQ1c5_2, fixed_tlDCbQ1c5_3, fixed_tlDCbQ1c5_4, fixed_tlDCbQ1c5_5, fixed_tlDCbQ1c5_6, add_zero, zero_add, mul_zero, zero_mul]
+ try ring
+
+lemma coefficient_7 (f : ℚ) : (leftSide f).coeff 7 = (rightSide f).coeff 7 := by
+ norm_num only [leftSide, rightSide, Polynomial.coeff_mul, Polynomial.coeff_add, Finset.Nat.sum_antidiagonal_eq_sum_range_succ_mk, Finset.sum_range_succ, Finset.sum_range_zero, ite_true, ite_false, add_zero, zero_add]
+ try simp only [fixed_tlDSqP0c3_0, fixed_tlDSqP0c3_1, fixed_tlDSqP0c3_2, fixed_tlDSqP0c3_3, fixed_tlDSqP0c3_4, fixed_tlDSqP0c3_5, fixed_tlDSqP0c3_6, fixed_tlDSqP0c3_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c4_0, fixed_tlDSqP0c4_1, fixed_tlDSqP0c4_2, fixed_tlDSqP0c4_3, fixed_tlDSqP0c4_4, fixed_tlDSqP0c4_5, fixed_tlDSqP0c4_6, fixed_tlDSqP0c4_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDSqP0c5_0, fixed_tlDSqP0c5_1, fixed_tlDSqP0c5_2, fixed_tlDSqP0c5_3, fixed_tlDSqP0c5_4, fixed_tlDSqP0c5_5, fixed_tlDSqP0c5_6, fixed_tlDSqP0c5_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD0_0, fixed_tlD0_1, fixed_tlD0_2, fixed_tlD0_3, fixed_tlD0_4, fixed_tlD0_5, fixed_tlD0_6, fixed_tlD0_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlD1_0, fixed_tlD1_1, fixed_tlD1_2, fixed_tlD1_3, fixed_tlD1_4, fixed_tlD1_5, fixed_tlD1_6, fixed_tlD1_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT0_0, fixed_tlT0_1, fixed_tlT0_2, fixed_tlT0_3, fixed_tlT0_4, fixed_tlT0_5, fixed_tlT0_6, fixed_tlT0_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT1_0, fixed_tlT1_1, fixed_tlT1_2, fixed_tlT1_3, fixed_tlT1_4, fixed_tlT1_5, fixed_tlT1_6, fixed_tlT1_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT2_0, fixed_tlT2_1, fixed_tlT2_2, fixed_tlT2_3, fixed_tlT2_4, fixed_tlT2_5, fixed_tlT2_6, fixed_tlT2_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlT3_0, fixed_tlT3_1, fixed_tlT3_2, fixed_tlT3_3, fixed_tlT3_4, fixed_tlT3_5, fixed_tlT3_6, fixed_tlT3_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c0_0, fixed_tlDCbP1c0_1, fixed_tlDCbP1c0_2, fixed_tlDCbP1c0_3, fixed_tlDCbP1c0_4, fixed_tlDCbP1c0_5, fixed_tlDCbP1c0_6, fixed_tlDCbP1c0_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c1_0, fixed_tlDCbP1c1_1, fixed_tlDCbP1c1_2, fixed_tlDCbP1c1_3, fixed_tlDCbP1c1_4, fixed_tlDCbP1c1_5, fixed_tlDCbP1c1_6, fixed_tlDCbP1c1_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c2_0, fixed_tlDCbP1c2_1, fixed_tlDCbP1c2_2, fixed_tlDCbP1c2_3, fixed_tlDCbP1c2_4, fixed_tlDCbP1c2_5, fixed_tlDCbP1c2_6, fixed_tlDCbP1c2_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c3_0, fixed_tlDCbP1c3_1, fixed_tlDCbP1c3_2, fixed_tlDCbP1c3_3, fixed_tlDCbP1c3_4, fixed_tlDCbP1c3_5, fixed_tlDCbP1c3_6, fixed_tlDCbP1c3_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c4_0, fixed_tlDCbP1c4_1, fixed_tlDCbP1c4_2, fixed_tlDCbP1c4_3, fixed_tlDCbP1c4_4, fixed_tlDCbP1c4_5, fixed_tlDCbP1c4_6, fixed_tlDCbP1c4_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c5_0, fixed_tlDCbP1c5_1, fixed_tlDCbP1c5_2, fixed_tlDCbP1c5_3, fixed_tlDCbP1c5_4, fixed_tlDCbP1c5_5, fixed_tlDCbP1c5_6, fixed_tlDCbP1c5_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c6_0, fixed_tlDCbP1c6_1, fixed_tlDCbP1c6_2, fixed_tlDCbP1c6_3, fixed_tlDCbP1c6_4, fixed_tlDCbP1c6_5, fixed_tlDCbP1c6_6, fixed_tlDCbP1c6_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c7_0, fixed_tlDCbP1c7_1, fixed_tlDCbP1c7_2, fixed_tlDCbP1c7_3, fixed_tlDCbP1c7_4, fixed_tlDCbP1c7_5, fixed_tlDCbP1c7_6, fixed_tlDCbP1c7_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c8_0, fixed_tlDCbP1c8_1, fixed_tlDCbP1c8_2, fixed_tlDCbP1c8_3, fixed_tlDCbP1c8_4, fixed_tlDCbP1c8_5, fixed_tlDCbP1c8_6, fixed_tlDCbP1c8_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c9_0, fixed_tlDCbP1c9_1, fixed_tlDCbP1c9_2, fixed_tlDCbP1c9_3, fixed_tlDCbP1c9_4, fixed_tlDCbP1c9_5, fixed_tlDCbP1c9_6, fixed_tlDCbP1c9_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c10_0, fixed_tlDCbP1c10_1, fixed_tlDCbP1c10_2, fixed_tlDCbP1c10_3, fixed_tlDCbP1c10_4, fixed_tlDCbP1c10_5, fixed_tlDCbP1c10_6, fixed_tlDCbP1c10_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c11_0, fixed_tlDCbP1c11_1, fixed_tlDCbP1c11_2, fixed_tlDCbP1c11_3, fixed_tlDCbP1c11_4, fixed_tlDCbP1c11_5, fixed_tlDCbP1c11_6, fixed_tlDCbP1c11_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbP1c12_0, fixed_tlDCbP1c12_1, fixed_tlDCbP1c12_2, fixed_tlDCbP1c12_3, fixed_tlDCbP1c12_4, fixed_tlDCbP1c12_5, fixed_tlDCbP1c12_6, fixed_tlDCbP1c12_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c0_0, fixed_tlDCbQ1c0_1, fixed_tlDCbQ1c0_2, fixed_tlDCbQ1c0_3, fixed_tlDCbQ1c0_4, fixed_tlDCbQ1c0_5, fixed_tlDCbQ1c0_6, fixed_tlDCbQ1c0_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c1_0, fixed_tlDCbQ1c1_1, fixed_tlDCbQ1c1_2, fixed_tlDCbQ1c1_3, fixed_tlDCbQ1c1_4, fixed_tlDCbQ1c1_5, fixed_tlDCbQ1c1_6, fixed_tlDCbQ1c1_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c2_0, fixed_tlDCbQ1c2_1, fixed_tlDCbQ1c2_2, fixed_tlDCbQ1c2_3, fixed_tlDCbQ1c2_4, fixed_tlDCbQ1c2_5, fixed_tlDCbQ1c2_6, fixed_tlDCbQ1c2_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c3_0, fixed_tlDCbQ1c3_1, fixed_tlDCbQ1c3_2, fixed_tlDCbQ1c3_3, fixed_tlDCbQ1c3_4, fixed_tlDCbQ1c3_5, fixed_tlDCbQ1c3_6, fixed_tlDCbQ1c3_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c4_0, fixed_tlDCbQ1c4_1, fixed_tlDCbQ1c4_2, fixed_tlDCbQ1c4_3, fixed_tlDCbQ1c4_4, fixed_tlDCbQ1c4_5, fixed_tlDCbQ1c4_6, fixed_tlDCbQ1c4_7, add_zero, zero_add, mul_zero, zero_mul]
+ try simp only [fixed_tlDCbQ1c5_0, fixed_tlDCbQ1c5_1, fixed_tlDCbQ1c5_2, fixed_tlDCbQ1c5_3, fixed_tlDCbQ1c5_4, fixed_tlDCbQ1c5_5, fixed_tlDCbQ1c5_6, fixed_tlDCbQ1c5_7, add_zero, zero_add, mul_zero, zero_mul]
+ try ring
+
+theorem solution :
+∀ (f : ℚ),
+((leftSide f).coeff 4 = (rightSide f).coeff 4) ∧
+((leftSide f).coeff 5 = (rightSide f).coeff 5) ∧
+((leftSide f).coeff 6 = (rightSide f).coeff 6) ∧
+((leftSide f).coeff 7 = (rightSide f).coeff 7) := by
+ intro f
+ exact ⟨coefficient_4 f, coefficient_5 f, coefficient_6 f, coefficient_7 f⟩
+#print axioms solution

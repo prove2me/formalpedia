@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_SimpleRecourse_relaxation_stop
 -- name    : MulticutLShaped.SimpleRecourse.relaxation_stop
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:23:39.887152+00:00
 -- url     : https://prove2.me/theorems/47bf2be4-5e09-426f-b75e-9508aae99830

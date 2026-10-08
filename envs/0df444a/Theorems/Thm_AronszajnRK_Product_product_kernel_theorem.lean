@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AronszajnRK_Product_product_kernel_theorem
 -- name    : AronszajnRK.Product.product_kernel_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:50:44.579101+00:00
 -- url     : https://prove2.me/theorems/944700a5-ce24-4157-bbf8-6f4d6bf355fa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLCMarkets_ExactCover_lemma_7_2_prices_within_factor_two
 -- name    : PLCMarkets.ExactCover.lemma_7_2_prices_within_factor_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:05:42.584546+00:00
 -- url     : https://prove2.me/theorems/c9e55ab3-0736-4ec6-a509-474fcdf8087d

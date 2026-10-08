@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CelestialWedge_poisson_realization
 -- name    : CelestialWedge.poisson_realization
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T03:14:06.494357+00:00
 -- url     : https://prove2.me/theorems/34631ce9-1667-466a-bf1c-c5b48737b40e

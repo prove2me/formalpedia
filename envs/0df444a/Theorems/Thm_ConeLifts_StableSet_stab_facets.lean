@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_StableSet_stab_facets
 -- name    : ConeLifts.StableSet.stab_facets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:19:36.282608+00:00
 -- url     : https://prove2.me/theorems/bf6bcab4-8c1e-4a8f-8a8b-329651fde00b

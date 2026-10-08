@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiophantinePreprocessing_FrankTardos_same_optimal_solutions_and_dual_bases
 -- name    : DiophantinePreprocessing.FrankTardos.same_optimal_solutions_and_dual_bases
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:43:56.686293+00:00
 -- url     : https://prove2.me/theorems/1fa0af47-d4ca-4584-9d9e-0d1429dbe8cd

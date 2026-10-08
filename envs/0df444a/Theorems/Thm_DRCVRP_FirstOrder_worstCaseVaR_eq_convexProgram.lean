@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_FirstOrder_worstCaseVaR_eq_convexProgram
 -- name    : DRCVRP.FirstOrder.worstCaseVaR_eq_convexProgram
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:18:00.047312+00:00
 -- url     : https://prove2.me/theorems/07699d8b-ea3d-4c82-aabb-144f309e339b

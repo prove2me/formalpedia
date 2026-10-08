@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Nonconvex_violation_tail_le_sum
 -- name    : ScenarioApproach.Nonconvex.violation_tail_le_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T18:48:26.035253+00:00
 -- url     : https://prove2.me/theorems/aa4799e3-6f26-432c-96a9-8c6b53017a2a

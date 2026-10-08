@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSets_discrete_separation_submodular
 -- name    : DiscreteConvex.MConvexSets.discrete_separation_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:18:46.055748+00:00
 -- url     : https://prove2.me/theorems/7562e306-9469-4c09-b3ce-489782b71a1e

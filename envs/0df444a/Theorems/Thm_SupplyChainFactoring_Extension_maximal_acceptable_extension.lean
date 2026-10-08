@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Extension_maximal_acceptable_extension
 -- name    : SupplyChainFactoring.Extension.maximal_acceptable_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:28:44.168214+00:00
 -- url     : https://prove2.me/theorems/da6eb6f3-5d1e-4b6a-a96d-ed6ff907b9f5

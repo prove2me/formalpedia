@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rosser_schoenfeld_product_bound_lower
 -- name    : TaoFivePrimes.rosser_schoenfeld_product_bound_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-09-27T14:17:16.966719+00:00
 -- url     : https://prove2.me/theorems/537dc0ba-c00a-474d-ba93-8e76a6ea85f0

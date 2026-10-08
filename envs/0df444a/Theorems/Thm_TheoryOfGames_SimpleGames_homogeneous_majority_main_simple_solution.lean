@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_homogeneous_majority_main_simple_solution
 -- name    : TheoryOfGames.SimpleGames.homogeneous_majority_main_simple_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:09:39.757248+00:00
 -- url     : https://prove2.me/theorems/4c16f796-5b0d-4d6c-8657-e981f6e43889

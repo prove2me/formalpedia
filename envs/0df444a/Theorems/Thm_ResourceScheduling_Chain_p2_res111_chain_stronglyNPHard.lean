@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ResourceScheduling_Chain_p2_res111_chain_stronglyNPHard
 -- name    : ResourceScheduling.Chain.p2_res111_chain_stronglyNPHard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T11:28:21.224774+00:00
 -- url     : https://prove2.me/theorems/de74f080-99c7-4b59-a91e-4685fde86d0d

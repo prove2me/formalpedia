@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter18.chapter18_cauchy_schwarz
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:18:20.093233+00:00
 -- url     : https://prove2.me/submissions/90636646-35e9-4eb4-9a2f-fdfed8eb05a7
 

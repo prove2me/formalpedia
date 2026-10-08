@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22Gurvits_firstReduction_realStable_of_allDegree
 -- name    : ProofsInTheBook.Chapter22Gurvits.firstReduction_realStable_of_allDegree
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:18.062455+00:00
 -- url     : https://prove2.me/theorems/e2763739-ada7-4ee3-8bb9-13fe7178ea84
 -- title:

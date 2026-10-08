@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Marginal_worstCaseVaR_additive
 -- name    : DRCVRP.Marginal.worstCaseVaR_additive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:38:39.691975+00:00
 -- url     : https://prove2.me/theorems/a7130eb0-4de5-44e4-948d-5ed430e899ba

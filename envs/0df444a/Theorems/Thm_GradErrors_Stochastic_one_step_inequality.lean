@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradErrors_Stochastic_one_step_inequality
 -- name    : GradErrors.Stochastic.one_step_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:18:02.371718+00:00
 -- url     : https://prove2.me/theorems/c4c1705a-6c69-4a5b-be55-9b06f0cd1dc3

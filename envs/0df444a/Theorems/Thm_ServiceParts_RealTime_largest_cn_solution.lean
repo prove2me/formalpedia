@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_RealTime_largest_cn_solution
 -- name    : ServiceParts.RealTime.largest_cn_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T00:10:56.272083+00:00
 -- url     : https://prove2.me/theorems/a3c75622-2835-4603-8c5d-72c037a6e6cf

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter09.arccos_one_third_irrational_over_pi
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:41:23.924381+00:00
 -- url     : https://prove2.me/submissions/2712d5e1-6720-485f-94bc-8cee368c006c
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Nested_emsr_marginal_value
 -- name    : SeatInventory.Nested.emsr_marginal_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:45:28.42873+00:00
 -- url     : https://prove2.me/theorems/867468ea-1ed9-4f9b-9388-4b4fefe77ad3

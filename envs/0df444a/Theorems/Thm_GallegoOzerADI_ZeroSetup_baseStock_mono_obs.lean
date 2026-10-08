@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GallegoOzerADI_ZeroSetup_baseStock_mono_obs
 -- name    : GallegoOzerADI.ZeroSetup.baseStock_mono_obs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:57:11.826399+00:00
 -- url     : https://prove2.me/theorems/8c691053-4a3a-436d-9078-6cf06342affb

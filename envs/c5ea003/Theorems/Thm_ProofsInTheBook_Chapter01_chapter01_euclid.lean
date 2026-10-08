@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter01_chapter01_euclid
 -- name    : ProofsInTheBook.Chapter01.chapter01_euclid
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T13:33:48.236869+00:00
 -- url     : https://prove2.me/theorems/eff43ab9-5299-468c-a882-84f6acabcecf
 -- title:

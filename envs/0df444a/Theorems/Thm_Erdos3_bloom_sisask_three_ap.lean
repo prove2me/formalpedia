@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos3_bloom_sisask_three_ap
 -- name    : Erdos3.bloom_sisask_three_ap
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T17:24:33.359375+00:00
 -- url     : https://prove2.me/theorems/2b80ee26-28b0-4f3a-9749-1f55cb0d15d4

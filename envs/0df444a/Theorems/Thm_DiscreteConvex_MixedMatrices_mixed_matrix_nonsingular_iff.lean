@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MixedMatrices_mixed_matrix_nonsingular_iff
 -- name    : DiscreteConvex.MixedMatrices.mixed_matrix_nonsingular_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:57:30.995971+00:00
 -- url     : https://prove2.me/theorems/810dfa18-a888-4115-a4ee-2264b34c64e7

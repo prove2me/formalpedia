@@ -1,0 +1,50 @@
+-- Prove2me | Theorems.Thm_SchedComplexity_Tardiness_ineq_7
+-- name    : SchedComplexity.Tardiness.ineq_7
+-- status  : Proved
+-- author  : @mikedeng1
+-- created : 2026-10-06T05:06:34.542605+00:00
+-- url     : https://prove2.me/theorems/fc173afd-fdc0-4e69-b98f-9b0ba26d8887
+-- title:
+--   Theorem 4(d), inequality (7) — upper bound on the weighted tail sum for some order
+-- statement:
+--   Let $a_1,\dots,a_t$ be positive integers and $b$ an integer with $0<b<A$, where $A=\sum_{j=1}^t a_j$ and $a_*=\max_j a_j$ (the paper's standing assumption "we may assume that $0<b<A$", p. 16). Put
+--
+--   $$t'=\Big\lceil \tfrac12(t+1)(A-b)+\tfrac12\,t(t+1)a_*^2\Big\rceil ,$$
+--
+--   let $\tau$ be any integer with $\tau>2t'+A$, and consider the single-machine instance of Theorem 4(d) with $n=t+t'$ jobs: for $j\in T=\{1,\dots,t\}$, $p_j=\tau+a_j$, $w_j=\tau+a_j+1$, $d_j=t\tau+b$; for the $t'$ dummy jobs $j\notin T$, $p_j=\tau$, $w_j=\tau+1$, $d_j=t\tau+b$. Setting $a_j=0$ for $j\notin T$, every job has $p_j=\tau+a_j$ and $w_j=p_j+1$. The threshold is
+--
+--   $$y=\tfrac12\,t'(t'+1)\tau(\tau+1)+(t'+1)\tau(A-b)+t'.$$
+--
+--   For a processing order $\pi=(\pi(1),\dots,\pi(n))$ the jobs are processed without idle time from time $0$, so the job in position $j$ completes at $C_{\pi(j)}=\sum_{i\le j}p_{\pi(i)}$, and
+--
+--   $$c_\pi=C_{\pi(t)}-(t\tau+b).$$
+--
+--   Then for every processing order $\pi$ there is a processing order $\pi'$ with $\pi'(j)=\pi(j)$ for $j\le t$ (so $c_{\pi'}=c_\pi$) such that
+--
+--   $$\sum_{j>t}w_{\pi'(j)}\big(C_{\pi'(j)}-C_{\pi'(t)}\big)\;\le\;y-(t'+1)\tau c_\pi-\tfrac12(t+1)c_\pi.\qquad(7)$$
+--
+--   The paper writes "for some $\pi$"; the proof of claim (A) applies (7) to a given order with $c_\pi=0$ and reorders the late jobs, so the statement keeps the first $t$ positions fixed. With $w_j=p_j+1$ the left side splits as in (1).
+--
+--   **Formalization Note** The paper prints $t'=\tfrac12(t+1)(A-b)+\tfrac12t(t+1)a_*^2$, which is a half-integer when $(t+1)(A-b)$ is odd although $t'$ counts jobs; the Lean takes its ceiling (`tPrime`), and $y$ (`yThr`, an exact natural-number division since $t'(t'+1)$ is even) is computed from the same $t'$. Jobs are `Fin (t + t')`, the items of $T$ being the indices $0,\dots,t-1$ (`aExt` is the convention $a_j=0$ for $j\notin T$). Positions are 0-based in Lean: `π i` is the paper's $\pi(i+1)$, and `posCompletion p π k` is the paper's $C_{\pi(k)}$ for the 1-based position $k$ (the total processing time of the first $k$ positions). Sums $\sum_{j>t}$ run over the 0-based positions $i\ge t$ (`tailWeighted`). $\tau$ is quantified over all naturals with $\tau>2t'+A$, as in the paper. With the ceiling, $t'\ge\tfrac12(t+1)(A-b)+\tfrac12t(t+1)a_*^2$, which is the inequality the paper's derivation of (7) from (2), (3), (5) needs.
+-- source:
+--   Brucker, Lenstra & Rinnooy Kan, Complexity of Machine Scheduling Problems, Mathematisch Centrum Report BW 43/75 (1975), p. 21, proof of Theorem 4(d), (7)
+
+import Mathlib
+import Definitions.Def_SchedComplexity_Tardiness_Construction
+
+namespace SchedComplexity.Tardiness
+
+/-- Inequality (7) of the proof of Theorem 4(d), p. 21: for every processing order `π` there is an
+order `π'` with the same jobs in the first `t` positions (hence `c_π' = c_π`) such that
+`Σ_{j>t} w_π'(j)(C_π'(j) − C_π'(t)) ≤ y − (t'+1)τc_π − ½(t+1)c_π`. -/
+theorem ineq_7 {t : ℕ} (a : Fin t → ℕ) (b τ : ℕ)
+    (ha : ∀ j, 0 < a j) (hb : 0 < b) (hbA : b < bigA a)
+    (hτ : 2 * tPrime a b + bigA a < τ)
+    (π : Equiv.Perm (Fin (t + tPrime a b))) :
+    ∃ π' : Equiv.Perm (Fin (t + tPrime a b)),
+      (∀ i : Fin (t + tPrime a b), i.val < t → π' i = π i) ∧
+      (tailWeighted (wtP a b τ) (wtW a b τ) π' t : ℝ) ≤
+        (yThr a b τ : ℝ) - (tPrime a b + 1) * (τ : ℝ) * cPi a b τ π
+          - (1 / 2 : ℝ) * (t + 1) * cPi a b τ π := by sorry
+
+end SchedComplexity.Tardiness

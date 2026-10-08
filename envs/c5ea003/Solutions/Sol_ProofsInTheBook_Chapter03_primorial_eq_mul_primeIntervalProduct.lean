@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.primorial_eq_mul_primeIntervalProduct
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:37.024675+00:00
 -- url     : https://prove2.me/submissions/2710da82-9233-4d2b-9792-1bd1f00c1295
 

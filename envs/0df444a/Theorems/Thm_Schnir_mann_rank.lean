@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Schnir_mann_rank
 -- name    : Schnir.mann_rank
--- status  : Open
+-- status  : Proved
 -- author  : @moona3k
 -- created : 2026-10-04T10:13:58.535141+00:00
 -- url     : https://prove2.me/theorems/f94f4b3a-560f-4743-9b7d-a03ef663b6c5

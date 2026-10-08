@@ -19,7 +19,7 @@
 --
 --   Entirely standard; recorded because the plane argument of that theorem depends on it.
 --
---   **Source.** Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.9, 25 September 2026 (GitHub release note-v1.9), proof of Proposition 3.8, where it is stated with this argument. The fact is standard; this node only records it in Lean, and claims no novelty of its own.
+--   **Source.** Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10), proof of Proposition 3.8, where it is stated with this argument. The fact is standard; this node only records it in Lean, and claims no novelty of its own.
 -- source:
 --   Stated with this argument in the proof of Proposition 3.8 of Carlo Perassi, companion note to https://github.com/carlok/diaz-modulus-lean, version 1.10, 27 September 2026 (GitHub release note-v1.10); the fact is standard. Formal proof: Diaz modulus mission, 8 September 2026 (C. Perassi).
 

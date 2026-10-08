@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_Bound_multicut_iteration_bound
 -- name    : MulticutLShaped.Bound.multicut_iteration_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:39:14.531247+00:00
 -- url     : https://prove2.me/theorems/9e51889e-ba43-4d4f-b992-823d54c61b16

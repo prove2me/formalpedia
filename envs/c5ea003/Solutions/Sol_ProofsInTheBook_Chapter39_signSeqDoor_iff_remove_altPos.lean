@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.signSeqDoor_iff_remove_altPos
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:40.001072+00:00
 -- url     : https://prove2.me/submissions/e64f6403-7f63-48c9-98f6-1249f0b1370d
 

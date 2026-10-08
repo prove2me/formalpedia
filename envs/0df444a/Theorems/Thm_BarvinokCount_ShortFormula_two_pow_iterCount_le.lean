@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarvinokCount_ShortFormula_two_pow_iterCount_le
 -- name    : BarvinokCount.ShortFormula.two_pow_iterCount_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:51:43.836579+00:00
 -- url     : https://prove2.me/theorems/d841c7f8-88bf-4ddb-9359-4d5b6bfd3d12

@@ -1,7 +1,7 @@
 -- Prove2me | Definitions.Def_P2MAssembly_Chapter36Geometry
 -- name    : P2MAssembly_Chapter36Geometry
 -- status  : Definition
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T18:26:04.956926+00:00
 -- url     : https://prove2.me/theorems/373099a7-9a0f-43f6-a790-1cf2bc993d68
 -- title:

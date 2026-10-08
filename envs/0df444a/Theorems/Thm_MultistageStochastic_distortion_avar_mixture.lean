@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageStochastic_distortion_avar_mixture
 -- name    : MultistageStochastic.distortion_avar_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-23T20:23:41.001603+00:00
 -- url     : https://prove2.me/theorems/033d90eb-87cd-40cb-8cc7-05365341049b

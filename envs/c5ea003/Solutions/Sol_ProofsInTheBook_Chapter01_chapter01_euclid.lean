@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter01.chapter01_euclid
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T13:34:00.25706+00:00
 -- url     : https://prove2.me/submissions/3af71e59-a38d-4668-8969-988b75d9e352
 

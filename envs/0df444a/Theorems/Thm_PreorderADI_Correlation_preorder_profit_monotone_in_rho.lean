@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PreorderADI_Correlation_preorder_profit_monotone_in_rho
 -- name    : PreorderADI.Correlation.preorder_profit_monotone_in_rho
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:54:29.21328+00:00
 -- url     : https://prove2.me/theorems/10857697-c333-48ed-a688-7a7be6c6f6cb

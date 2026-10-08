@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_connected_group_points_nsmul_surjective
 -- name    : PhilipponMultiplicity.connected_group_points_nsmul_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T22:40:44.598115+00:00
 -- url     : https://prove2.me/theorems/b05cd44a-b01a-425f-8782-58dae0f9502a

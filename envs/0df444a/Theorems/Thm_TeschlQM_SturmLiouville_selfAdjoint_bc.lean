@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SturmLiouville_selfAdjoint_bc
 -- name    : TeschlQM.SturmLiouville.selfAdjoint_bc
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:48:20.452844+00:00
 -- url     : https://prove2.me/theorems/3ef4b8af-7494-4066-a1aa-7d03f12c273d

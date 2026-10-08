@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_UnitDecomp_critical_distance_policy_optimal
 -- name    : ServiceParts.UnitDecomp.critical_distance_policy_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:57:43.910067+00:00
 -- url     : https://prove2.me/theorems/b5ef24d1-bffc-47a1-a464-0c5d1b59ab15

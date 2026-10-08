@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproachRegret_ToOLO_display8_distance
 -- name    : ApproachRegret.ToOLO.display8_distance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:22:36.356274+00:00
 -- url     : https://prove2.me/theorems/11eb8769-0a8e-4824-8d3c-34b6a43f01a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_closed_convex_extreme_recession_representation
 -- name    : Grunbaum2003.closed_convex_extreme_recession_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-21T19:02:26.447693+00:00
 -- url     : https://prove2.me/theorems/2900d8cc-a420-46c3-8f3e-113579312143

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter11_ungar_directions_lower_bound
 -- name    : ProofsInTheBook.Chapter11.ungar_directions_lower_bound
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:11:13.518689+00:00
 -- url     : https://prove2.me/theorems/097f1f04-a478-46e3-9477-08d9f2ac3c69
 -- title:

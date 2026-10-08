@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Restart_segment_opt_ge
 -- name    : OnlineRandomization.Restart.segment_opt_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:36:39.047981+00:00
 -- url     : https://prove2.me/theorems/c1d771bd-4669-433e-966b-dcaac1cba25d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Distinct_emsr_marginal_revenue
 -- name    : SeatInventory.Distinct.emsr_marginal_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:05:13.131479+00:00
 -- url     : https://prove2.me/theorems/c4134946-9a48-4a19-bed4-ef175418b33e

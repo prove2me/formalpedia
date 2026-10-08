@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Extended_rPrime_le
 -- name    : DelayedSWPT.Extended.rPrime_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:08:36.850611+00:00
 -- url     : https://prove2.me/theorems/a691aabe-7f5c-453b-a73e-da1bd1912291

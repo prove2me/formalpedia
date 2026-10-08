@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_Utility_utility_existence_uniqueness
 -- name    : TheoryOfGames.Utility.utility_existence_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T01:35:33.415328+00:00
 -- url     : https://prove2.me/theorems/25ec0115-3057-4016-b9cc-e88105b23a81

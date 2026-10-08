@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClarkeGradients_FlowInvariance_hasDerivAt_infDist_trajectory_le
 -- name    : ClarkeGradients.FlowInvariance.hasDerivAt_infDist_trajectory_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:49:10.713994+00:00
 -- url     : https://prove2.me/theorems/62eeecfb-4459-4d82-b790-e74e549c4d41

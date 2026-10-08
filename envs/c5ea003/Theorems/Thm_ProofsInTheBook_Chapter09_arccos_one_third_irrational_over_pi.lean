@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter09_arccos_one_third_irrational_over_pi
 -- name    : ProofsInTheBook.Chapter09.arccos_one_third_irrational_over_pi
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:38:39.319334+00:00
 -- url     : https://prove2.me/theorems/55e441ab-b086-4fa6-bde1-ca28abc2a9a5
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarvinokCount_ShortFormula_exists_moment_vector_not_orthogonal
 -- name    : BarvinokCount.ShortFormula.exists_moment_vector_not_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:32:04.590899+00:00
 -- url     : https://prove2.me/theorems/ccc7278e-9902-437f-9047-ac663e5d3662

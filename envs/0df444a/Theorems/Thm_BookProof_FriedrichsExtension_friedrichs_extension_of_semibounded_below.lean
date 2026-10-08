@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsExtension_friedrichs_extension_of_semibounded_below
 -- name    : BookProof.FriedrichsExtension.friedrichs_extension_of_semibounded_below
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:32:55.072549+00:00
 -- url     : https://prove2.me/theorems/00ac6431-b3e9-4090-ae7e-c1845684c96d

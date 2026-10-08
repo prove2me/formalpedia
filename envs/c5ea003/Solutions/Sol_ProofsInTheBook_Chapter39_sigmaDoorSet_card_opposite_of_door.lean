@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.sigmaDoorSet_card_opposite_of_door
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:32.824858+00:00
 -- url     : https://prove2.me/submissions/6d85c353-ff9c-4858-85e2-9e8dec3c68a4
 

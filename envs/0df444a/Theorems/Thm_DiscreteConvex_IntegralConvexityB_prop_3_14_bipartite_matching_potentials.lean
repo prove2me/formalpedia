@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityB_prop_3_14_bipartite_matching_potentials
 -- name    : DiscreteConvex.IntegralConvexityB.prop_3_14_bipartite_matching_potentials
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:04:35.403718+00:00
 -- url     : https://prove2.me/theorems/10806ccf-3b1b-4fb7-a226-641d661217d0

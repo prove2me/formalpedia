@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22Stable_derivative_roots_im_nonpos
 -- name    : ProofsInTheBook.Chapter22Stable.derivative_roots_im_nonpos
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:29.661424+00:00
 -- url     : https://prove2.me/theorems/1099e1fd-2f8f-4724-9d61-8e85618a9b80
 -- title:

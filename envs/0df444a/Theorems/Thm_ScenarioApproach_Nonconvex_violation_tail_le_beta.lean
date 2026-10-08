@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Nonconvex_violation_tail_le_beta
 -- name    : ScenarioApproach.Nonconvex.violation_tail_le_beta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T18:46:56.11881+00:00
 -- url     : https://prove2.me/theorems/07f2f276-28ca-4a04-b7d8-5a78bd6a85a7

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter07.chapter07_e_irrational
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:43:33.17327+00:00
 -- url     : https://prove2.me/submissions/feebf07a-3b05-42e6-a756-eaa511772e43
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaNine_CoefficientMapKernelBridge_inverseMultiplier_actual_HasSum_and_absolute
 -- name    : ZetaNine.CoefficientMapKernelBridge.inverseMultiplier_actual_HasSum_and_absolute
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-04T10:49:05.9231+00:00
 -- url     : https://prove2.me/theorems/bbc02826-16b1-4012-ac43-0462f90498df

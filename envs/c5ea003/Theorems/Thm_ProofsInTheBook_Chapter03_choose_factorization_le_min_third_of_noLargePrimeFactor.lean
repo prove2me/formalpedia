@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_choose_factorization_le_min_third_of_noLargePrimeFactor
 -- name    : ProofsInTheBook.Chapter03.choose_factorization_le_min_third_of_noLargePrimeFactor
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:09.132687+00:00
 -- url     : https://prove2.me/theorems/b258189e-43fd-4972-8426-bffd02c5357f
 -- title:

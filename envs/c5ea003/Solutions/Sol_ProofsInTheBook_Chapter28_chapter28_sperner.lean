@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter28.chapter28_sperner
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:17.169441+00:00
 -- url     : https://prove2.me/submissions/c1a3c53f-11d6-4395-ad63-af34545a8ea9
 

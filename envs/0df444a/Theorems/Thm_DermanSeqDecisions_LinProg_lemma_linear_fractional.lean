@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_LinProg_lemma_linear_fractional
 -- name    : DermanSeqDecisions.LinProg.lemma_linear_fractional
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:43:34.381289+00:00
 -- url     : https://prove2.me/theorems/4ee9ab11-6aba-458f-b2c1-4158ae7ca951

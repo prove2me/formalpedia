@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_latin_asymptotic
 -- name    : BookSixth.latin_asymptotic
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:01.620149+00:00
 -- url     : https://prove2.me/theorems/c924e4c1-5598-481f-b6f0-137b209f5a7b
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_Bound_aggregation
 -- name    : MulticutLShaped.Bound.aggregation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:15:25.342311+00:00
 -- url     : https://prove2.me/theorems/06cfb7ba-11cf-4813-aa34-e1c0d95d9bfe

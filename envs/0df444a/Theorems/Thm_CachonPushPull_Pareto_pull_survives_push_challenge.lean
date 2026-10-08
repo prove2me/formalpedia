@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_pull_survives_push_challenge
 -- name    : CachonPushPull.Pareto.pull_survives_push_challenge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:30:00.854988+00:00
 -- url     : https://prove2.me/theorems/e2d403db-1c96-463b-b7b6-5b5424586a42

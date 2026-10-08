@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochLinOpt_UpperBound_confidenceBall2_regret_bound
 -- name    : StochLinOpt.UpperBound.confidenceBall2_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:33:49.442987+00:00
 -- url     : https://prove2.me/theorems/e3e170dc-fa2b-465a-82e8-34cb849ec358

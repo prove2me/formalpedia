@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_monsky_dissection
 -- name    : ProofsInTheBook.Chapter20.monsky_dissection
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:17:44.361992+00:00
 -- url     : https://prove2.me/theorems/64184e1c-8f5a-47bf-acab-cac73746a29a
 -- title:

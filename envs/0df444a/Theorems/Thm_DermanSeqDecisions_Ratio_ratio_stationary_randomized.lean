@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Ratio_ratio_stationary_randomized
 -- name    : DermanSeqDecisions.Ratio.ratio_stationary_randomized
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:46:10.766916+00:00
 -- url     : https://prove2.me/theorems/bf3cb1aa-335a-4047-9e60-23095b69710f

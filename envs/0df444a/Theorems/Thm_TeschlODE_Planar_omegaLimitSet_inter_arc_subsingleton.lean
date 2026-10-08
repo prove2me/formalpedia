@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Planar_omegaLimitSet_inter_arc_subsingleton
 -- name    : TeschlODE.Planar.omegaLimitSet_inter_arc_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:27:03.409011+00:00
 -- url     : https://prove2.me/theorems/ebf06dfc-d1d1-4f70-9498-75de97e84f97

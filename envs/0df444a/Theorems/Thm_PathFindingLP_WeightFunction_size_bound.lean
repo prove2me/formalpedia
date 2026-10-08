@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathFindingLP_WeightFunction_size_bound
 -- name    : PathFindingLP.WeightFunction.size_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:47:13.425988+00:00
 -- url     : https://prove2.me/theorems/b664835c-1d6e-4d5d-8e92-410d2d2cca39

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_Reflection_gamma_lt_one
 -- name    : ChenWhitt93.Reflection.gamma_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:25:14.774959+00:00
 -- url     : https://prove2.me/theorems/c568f359-7d0c-4a56-8a9c-0d0e5c8ae399

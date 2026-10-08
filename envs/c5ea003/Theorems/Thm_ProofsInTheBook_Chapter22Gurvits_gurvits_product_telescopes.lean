@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22Gurvits_gurvits_product_telescopes
 -- name    : ProofsInTheBook.Chapter22Gurvits.gurvits_product_telescopes
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:05:59.928358+00:00
 -- url     : https://prove2.me/theorems/52717d8b-d5a4-4be2-bf56-5c7f68085838
 -- title:

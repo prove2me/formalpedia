@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter26.chapter26
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:13:04.006221+00:00
 -- url     : https://prove2.me/submissions/87391b40-cbc8-4559-9bda-61d26880bb52
 

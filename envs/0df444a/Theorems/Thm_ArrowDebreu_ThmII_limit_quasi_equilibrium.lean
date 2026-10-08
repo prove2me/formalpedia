@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_limit_quasi_equilibrium
 -- name    : ArrowDebreu.ThmII.limit_quasi_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:27:49.809554+00:00
 -- url     : https://prove2.me/theorems/e958708d-037e-44b3-a4b4-6421f59b53cb

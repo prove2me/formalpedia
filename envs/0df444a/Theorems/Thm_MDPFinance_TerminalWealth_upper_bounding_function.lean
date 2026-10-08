@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_upper_bounding_function
 -- name    : MDPFinance.TerminalWealth.upper_bounding_function
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:55:21.46461+00:00
 -- url     : https://prove2.me/theorems/24cb58e1-595a-4ca9-9832-399b2f056e71

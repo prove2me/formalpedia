@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiDivRobust_Barrier_den_hertog_lemma_A2
 -- name    : PhiDivRobust.Barrier.den_hertog_lemma_A2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:56:30.092336+00:00
 -- url     : https://prove2.me/theorems/54772baa-97fc-45a1-ac6f-e10c36569d94

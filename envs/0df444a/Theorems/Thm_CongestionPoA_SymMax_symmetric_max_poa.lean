@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_symmetric_max_poa
 -- name    : CongestionPoA.SymMax.symmetric_max_poa
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:12:16.336216+00:00
 -- url     : https://prove2.me/theorems/49f15c59-dd01-4b2d-aff8-4bc3a1114dff

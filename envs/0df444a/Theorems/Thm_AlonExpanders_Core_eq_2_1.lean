@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonExpanders_Core_eq_2_1
 -- name    : AlonExpanders.Core.eq_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:46:16.853534+00:00
 -- url     : https://prove2.me/theorems/42317673-6ddb-4a63-abbd-589f1f69cecd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Planar_unique_connecting_orbit
 -- name    : TeschlODE.Planar.unique_connecting_orbit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:52:21.399387+00:00
 -- url     : https://prove2.me/theorems/0c4f6a35-bb3f-487d-afbd-e018620d081b

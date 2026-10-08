@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_Bayes_prop6_exists_unique_bounded
 -- name    : SatiaLave.Bayes.prop6_exists_unique_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:42:55.278074+00:00
 -- url     : https://prove2.me/theorems/12a2e604-1dae-4bdc-974e-0c7556d6c7be

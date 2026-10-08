@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_mconvex_hole_free
 -- name    : DiscreteConvex.MConvexSetsB.mconvex_hole_free
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:31:09.93786+00:00
 -- url     : https://prove2.me/theorems/126d0316-a9e9-478b-bd5c-a34682ba3769

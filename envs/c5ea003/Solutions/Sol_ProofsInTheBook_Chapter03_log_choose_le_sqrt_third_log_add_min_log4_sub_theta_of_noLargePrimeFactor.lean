@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.log_choose_le_sqrt_third_log_add_min_log4_sub_theta_of_noLargePrimeFactor
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:20.594149+00:00
 -- url     : https://prove2.me/submissions/794633d7-287b-44bd-a097-3b0337b3cb37
 

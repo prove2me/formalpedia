@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_pf_tendsto_limit
 -- name    : DeBruijnNewman.pf_tendsto_limit
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-23T18:03:56.071892+00:00
 -- url     : https://prove2.me/theorems/9bef10d2-1387-4895-b53f-09b950d612c1

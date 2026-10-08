@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiIrrationality_hata_bound
 -- name    : PiIrrationality.hata_bound
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-03T19:36:31.839605+00:00
 -- url     : https://prove2.me/theorems/424d91d3-a841-416e-b8e0-68b8d0182394

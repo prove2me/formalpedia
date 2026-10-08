@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter40.chapter40
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:44:55.075694+00:00
 -- url     : https://prove2.me/submissions/b3799f0b-0d71-4df6-8094-6638f4ee40e1
 

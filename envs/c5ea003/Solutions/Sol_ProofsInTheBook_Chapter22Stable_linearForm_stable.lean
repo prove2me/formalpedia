@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22Stable.linearForm_stable
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:32.143261+00:00
 -- url     : https://prove2.me/submissions/a3bcd498-0f46-4c76-a13b-cd3d2846e5ce
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_ConsumptionInvestment_zero_mean_invest_in_bond_ci
 -- name    : MDPFinance.ConsumptionInvestment.zero_mean_invest_in_bond_ci
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:00:58.33259+00:00
 -- url     : https://prove2.me/theorems/d43aee2c-89fc-4327-b147-2177e6b17ade

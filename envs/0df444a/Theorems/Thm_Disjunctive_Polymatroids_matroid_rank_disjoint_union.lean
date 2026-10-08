@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polymatroids_matroid_rank_disjoint_union
 -- name    : Disjunctive.Polymatroids.matroid_rank_disjoint_union
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:12:30.037412+00:00
 -- url     : https://prove2.me/theorems/15c9c9c4-0944-40dc-bbaf-88c52f21c58b

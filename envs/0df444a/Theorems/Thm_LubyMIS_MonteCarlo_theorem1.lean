@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LubyMIS_MonteCarlo_theorem1
 -- name    : LubyMIS.MonteCarlo.theorem1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:53:15.811983+00:00
 -- url     : https://prove2.me/theorems/9652f5b8-008a-4851-a33b-0b89a964313e

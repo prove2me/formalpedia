@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_MarkovCost_lyapunov_criteria_z_standard
 -- name    : SennottDP.MarkovCost.lyapunov_criteria_z_standard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:18:35.478986+00:00
 -- url     : https://prove2.me/theorems/f2de6c41-467b-438f-88c7-93939fb576ab

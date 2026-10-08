@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_GeneralGames_characterization
 -- name    : TheoryOfGames.GeneralGames.characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:31:52.507816+00:00
 -- url     : https://prove2.me/theorems/86a53d43-76df-476f-aade-ccd733ce1deb

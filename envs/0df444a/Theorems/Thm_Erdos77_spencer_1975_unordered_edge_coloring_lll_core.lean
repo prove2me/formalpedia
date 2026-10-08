@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos77_spencer_1975_unordered_edge_coloring_lll_core
 -- name    : Erdos77.spencer_1975_unordered_edge_coloring_lll_core
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T17:45:29.136006+00:00
 -- url     : https://prove2.me/theorems/c405300a-8355-4435-bd14-412a8686197a

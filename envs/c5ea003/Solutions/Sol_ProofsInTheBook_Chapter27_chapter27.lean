@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter27.chapter27
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:13:05.551225+00:00
 -- url     : https://prove2.me/submissions/8f7560b8-4d9f-4a78-8f34-3af4236ac54a
 

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter09.tensor_tmul_ne_zero_of_ne_zero
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:41:27.0142+00:00
 -- url     : https://prove2.me/submissions/e826809c-e91f-4d78-acf4-412663073c7b
 

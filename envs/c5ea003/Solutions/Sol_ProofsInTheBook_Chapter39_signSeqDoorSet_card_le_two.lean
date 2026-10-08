@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.signSeqDoorSet_card_le_two
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:36.403551+00:00
 -- url     : https://prove2.me/submissions/99f747a2-5adf-4e50-af40-21a15215a4d1
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_monsky_false_of_odd_corner_parity
 -- name    : ProofsInTheBook.Chapter20.monsky_false_of_odd_corner_parity
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:30.744255+00:00
 -- url     : https://prove2.me/theorems/be3088a1-3dd6-4dfe-824e-7ad5def76327
 -- title:

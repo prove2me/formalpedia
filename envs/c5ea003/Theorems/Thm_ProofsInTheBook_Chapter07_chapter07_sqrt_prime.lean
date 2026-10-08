@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter07_chapter07_sqrt_prime
 -- name    : ProofsInTheBook.Chapter07.chapter07_sqrt_prime
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:42:52.765908+00:00
 -- url     : https://prove2.me/theorems/42444c3c-4790-4212-8467-718831357ed3
 -- title:

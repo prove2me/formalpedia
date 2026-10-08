@@ -19,7 +19,7 @@
 --
 --   **Formalization Note.** Colours are the elements of `Fin (k + 1)`. The colouring is a function on all of $\mathbb{N}$, constrained only on $[1, 2m + 1]$, and $x = y$ is allowed in a Schur triple. In `TriangleRamsey k (2 * t + 2)` the colours are natural numbers from any `Finset` of at most $k$ elements, and the pair colouring is a function $\mathbb{N} \to \mathbb{N} \to \mathbb{N}$ that is constrained only on the pairs $x < y$ of the vertex set; for $k \ge 1$ the statement is $R_k(3) \le 2t + 2$. Edge cases: for $t = 0$, $\mathrm{TR}(k, 2)$ holds only for $k = 0$, and then $m = 0$ and both sides are $0$; for $k = 0$ and $t \ge 1$ no Schur colouring of $[1, 2t + 1]$ with one colour exists, since $1 + 1 = 2$. The hypotheses are met for $k = 2$, $t = 2$ ($R_2(3) = 6$, $m = 6$) by the Schur colouring of $[1, 13]$ with classes $\{1, 4, 7, 10, 13\}$, $\{2, 3, 11, 12\}$, $\{5, 6, 8, 9\}$, in which each colour occurs twice in $[1, 6]$.
 -- source:
---   Note "The frontier of the centred Schur bound: balance, saturation and reflection" (schur-numbers project, 2026-10-02, unpublished), section "Balanced colour classes". Lean proof not yet in a public repository.
+--   A. McKenna, "S(6) ≤ 1801 if R₄(3) ≤ 61: a centred Schur bound and the structure at the frontier", Zenodo (2026), https://doi.org/10.5281/zenodo.23156099, Theorem 4.1 (§4.1, balanced colour classes). Lean source: https://github.com/mysticflounder/schur-centred-bound/blob/v1.0.1/ClassicalSchur/Frontier.lean#L250-L276 (release v1.0.1, doi:10.5281/zenodo.23156444).
 
 import Definitions.Def_ClassicalSchurColoring
 import Definitions.Def_ClassicalSchurRamsey

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_SimpleRecourse_two_cuts
 -- name    : MulticutLShaped.SimpleRecourse.two_cuts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:03:08.111871+00:00
 -- url     : https://prove2.me/theorems/c122b7dc-495e-442d-bd45-277a336eb62c

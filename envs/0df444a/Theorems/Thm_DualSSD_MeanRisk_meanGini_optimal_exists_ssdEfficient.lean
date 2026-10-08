@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DualSSD_MeanRisk_meanGini_optimal_exists_ssdEfficient
 -- name    : DualSSD.MeanRisk.meanGini_optimal_exists_ssdEfficient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:08:35.087953+00:00
 -- url     : https://prove2.me/theorems/2ef72def-4629-453d-838f-37bd00b85444

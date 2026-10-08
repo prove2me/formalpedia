@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorPayoffs_Convex_theorem1
 -- name    : VectorPayoffs.Convex.theorem1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:08:34.826837+00:00
 -- url     : https://prove2.me/theorems/ef899460-4503-4d22-857c-1671543ba194

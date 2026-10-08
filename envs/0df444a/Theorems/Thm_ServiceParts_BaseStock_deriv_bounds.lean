@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_BaseStock_deriv_bounds
 -- name    : ServiceParts.BaseStock.deriv_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:28:12.467031+00:00
 -- url     : https://prove2.me/theorems/61915fdc-357d-440b-a313-876424bc52d7

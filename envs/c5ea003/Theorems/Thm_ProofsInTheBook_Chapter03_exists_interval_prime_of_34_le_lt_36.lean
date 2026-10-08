@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_interval_prime_of_34_le_lt_36
 -- name    : ProofsInTheBook.Chapter03.exists_interval_prime_of_34_le_lt_36
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:35:55.139631+00:00
 -- url     : https://prove2.me/theorems/8afaa5e0-e505-420b-81bf-c67140c1cd05
 -- title:

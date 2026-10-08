@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_SturmLiouville_ivp_exists_unique
 -- name    : TeschlQM.SturmLiouville.ivp_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:46:05.700864+00:00
 -- url     : https://prove2.me/theorems/02f8416e-6dda-46be-9182-9c8304a1b02e

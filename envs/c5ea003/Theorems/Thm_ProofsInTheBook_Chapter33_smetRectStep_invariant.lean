@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_smetRectStep_invariant
 -- name    : ProofsInTheBook.Chapter33.smetRectStep_invariant
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:50.018068+00:00
 -- url     : https://prove2.me/theorems/b0612e7f-5ce0-4cd3-a700-1a9b372d177b
 -- title:

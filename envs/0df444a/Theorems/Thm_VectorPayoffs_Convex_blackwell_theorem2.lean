@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorPayoffs_Convex_blackwell_theorem2
 -- name    : VectorPayoffs.Convex.blackwell_theorem2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:07:08.206611+00:00
 -- url     : https://prove2.me/theorems/164c80e4-fda3-453a-abda-cc188665b8ef

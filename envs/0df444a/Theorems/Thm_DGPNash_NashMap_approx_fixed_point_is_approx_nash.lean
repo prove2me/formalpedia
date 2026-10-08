@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DGPNash_NashMap_approx_fixed_point_is_approx_nash
 -- name    : DGPNash.NashMap.approx_fixed_point_is_approx_nash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:05:25.365664+00:00
 -- url     : https://prove2.me/theorems/deab3dfc-4f50-4eb1-8814-2460816cb7a5

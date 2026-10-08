@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_signSeqDoor_iff_bad_cut
 -- name    : ProofsInTheBook.Chapter39.signSeqDoor_iff_bad_cut
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:02.801812+00:00
 -- url     : https://prove2.me/theorems/cc8d1cb6-04b7-4275-ab0e-9d7a251b1a00
 -- title:

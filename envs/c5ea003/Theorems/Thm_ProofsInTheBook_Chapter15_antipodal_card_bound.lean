@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter15_antipodal_card_bound
 -- name    : ProofsInTheBook.Chapter15.antipodal_card_bound
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:38:52.033782+00:00
 -- url     : https://prove2.me/theorems/2e183938-a043-4fc2-8c20-01bb57b62f51
 -- title:

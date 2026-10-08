@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_BestAlpha_random_alpha_two_point
 -- name    : AvgCompletionSched.BestAlpha.random_alpha_two_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:50:29.434446+00:00
 -- url     : https://prove2.me/theorems/19117091-114f-4787-b8a6-32838eed4dd0

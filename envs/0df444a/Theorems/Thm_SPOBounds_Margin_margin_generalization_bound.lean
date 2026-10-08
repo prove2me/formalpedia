@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SPOBounds_Margin_margin_generalization_bound
 -- name    : SPOBounds.Margin.margin_generalization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:35:49.037992+00:00
 -- url     : https://prove2.me/theorems/149f2a0a-5027-4822-bd48-fae4061ebf39

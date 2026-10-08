@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.signSeqDoor_iff_bad_cut
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:38.210035+00:00
 -- url     : https://prove2.me/submissions/7285f087-26fa-4da4-bbb5-ca43bd1a6841
 

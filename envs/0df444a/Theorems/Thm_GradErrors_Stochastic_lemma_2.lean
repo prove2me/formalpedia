@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradErrors_Stochastic_lemma_2
 -- name    : GradErrors.Stochastic.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:18:06.953288+00:00
 -- url     : https://prove2.me/theorems/f509d3d7-44d5-43e7-99c0-30575a76c20b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_MaxMin_maxMin_policyIteration_terminates_optimal
 -- name    : SatiaLave.MaxMin.maxMin_policyIteration_terminates_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:41:59.109989+00:00
 -- url     : https://prove2.me/theorems/67f59507-8247-47e2-ab9e-7e08700d0a65

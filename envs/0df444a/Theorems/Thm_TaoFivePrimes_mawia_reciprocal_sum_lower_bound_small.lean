@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_mawia_reciprocal_sum_lower_bound_small
 -- name    : TaoFivePrimes.mawia_reciprocal_sum_lower_bound_small
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-25T14:25:27.367978+00:00
 -- url     : https://prove2.me/theorems/5cb6180b-3a9f-47fa-ae12-241767b2ba05

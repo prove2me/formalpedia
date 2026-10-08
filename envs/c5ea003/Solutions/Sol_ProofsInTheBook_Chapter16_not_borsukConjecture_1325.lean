@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter16.not_borsukConjecture_1325
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:18:15.41977+00:00
 -- url     : https://prove2.me/submissions/b6ae1f0f-4955-4589-ac28-ced369019a72
 

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter16_not_borsukConjecture_1325
 -- name    : ProofsInTheBook.Chapter16.not_borsukConjecture_1325
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:18:03.407323+00:00
 -- url     : https://prove2.me/theorems/90bcee74-f95e-47db-97d2-e5d1a5018041
 -- title:

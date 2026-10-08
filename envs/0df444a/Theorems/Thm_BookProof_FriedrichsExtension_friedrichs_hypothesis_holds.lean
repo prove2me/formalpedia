@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FriedrichsExtension_friedrichs_hypothesis_holds
 -- name    : BookProof.FriedrichsExtension.friedrichs_hypothesis_holds
--- status  : Open
+-- status  : Disproved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:32:58.292444+00:00
 -- url     : https://prove2.me/theorems/3138d997-87a8-49ee-aa6c-26ba6b306faa

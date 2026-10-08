@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompetitivePaging_Combining_realizable_iff
 -- name    : CompetitivePaging.Combining.realizable_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T13:25:46.996521+00:00
 -- url     : https://prove2.me/theorems/6eff46ef-c260-43c5-8eb4-0e072dcc5aca

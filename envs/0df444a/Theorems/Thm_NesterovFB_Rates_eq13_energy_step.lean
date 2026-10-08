@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovFB_Rates_eq13_energy_step
 -- name    : NesterovFB.Rates.eq13_energy_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:43:24.361805+00:00
 -- url     : https://prove2.me/theorems/918d54f3-fc8e-48aa-8dfd-e3ab60b2f8b0

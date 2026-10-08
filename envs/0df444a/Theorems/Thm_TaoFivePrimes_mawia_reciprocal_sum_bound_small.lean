@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_mawia_reciprocal_sum_bound_small
 -- name    : TaoFivePrimes.mawia_reciprocal_sum_bound_small
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-25T12:38:39.11406+00:00
 -- url     : https://prove2.me/theorems/70923020-40bf-4804-b3e7-0741decba521

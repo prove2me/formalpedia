@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ContinuousTime_mm1_serve_avg_cost
 -- name    : SennottDP.ContinuousTime.mm1_serve_avg_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T11:17:33.49026+00:00
 -- url     : https://prove2.me/theorems/3b0747a0-a83c-41a9-997d-13a8ee690616

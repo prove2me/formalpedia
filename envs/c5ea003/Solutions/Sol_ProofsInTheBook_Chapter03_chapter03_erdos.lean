@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.chapter03_erdos
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:17:02.848749+00:00
 -- url     : https://prove2.me/submissions/f70eab69-264f-41fe-801a-575fa7b8b594
 

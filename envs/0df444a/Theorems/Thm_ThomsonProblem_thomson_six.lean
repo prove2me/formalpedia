@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThomsonProblem_thomson_six
 -- name    : ThomsonProblem.thomson_six
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T21:33:44.199981+00:00
 -- url     : https://prove2.me/theorems/6078810e-c200-47e7-9653-555ba1572299

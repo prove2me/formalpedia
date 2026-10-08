@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_duality_of_bounded
 -- name    : MongeKantorovichYao.duality_of_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T20:52:48.355994+00:00
 -- url     : https://prove2.me/theorems/77776d9e-7847-457e-b2d9-2ada821c3502

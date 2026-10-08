@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_KatoRellich_kato_rellich_essentiallySelfAdjoint
 -- name    : TeschlQM.KatoRellich.kato_rellich_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T22:34:05.779562+00:00
 -- url     : https://prove2.me/theorems/907e97e9-0c66-4078-abd9-dd9f877b4664

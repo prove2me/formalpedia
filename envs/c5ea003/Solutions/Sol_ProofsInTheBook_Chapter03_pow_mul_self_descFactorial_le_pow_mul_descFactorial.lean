@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.pow_mul_self_descFactorial_le_pow_mul_descFactorial
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:32.352631+00:00
 -- url     : https://prove2.me/submissions/0cbc7af4-f8e6-4152-8778-b475bb08d3fd
 

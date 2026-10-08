@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MongeKantorovichYao_monge_kantorovich_duality
 -- name    : MongeKantorovichYao.monge_kantorovich_duality
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T21:31:45.441748+00:00
 -- url     : https://prove2.me/theorems/a36283f0-e2ef-4556-aa95-2e391068f5ea

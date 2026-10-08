@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_UnitDecomp_lemma2_release_monotone
 -- name    : ServiceParts.UnitDecomp.lemma2_release_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:52:58.335424+00:00
 -- url     : https://prove2.me/theorems/d0529c27-6b9b-4d2c-876b-2c1a58ce90f1

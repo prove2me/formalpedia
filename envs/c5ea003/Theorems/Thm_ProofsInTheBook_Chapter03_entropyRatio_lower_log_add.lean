@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_entropyRatio_lower_log_add
 -- name    : ProofsInTheBook.Chapter03.entropyRatio_lower_log_add
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:23.735602+00:00
 -- url     : https://prove2.me/theorems/50323e1d-064d-4455-9c0e-eb8625809c75
 -- title:

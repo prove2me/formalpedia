@@ -1,0 +1,39 @@
+-- Prove2me | Theorems.Thm_MFGPlanning_Penalized_proposition_2
+-- name    : MFGPlanning.Penalized.proposition_2
+-- status  : Open
+-- author  : @mikedeng1
+-- created : 2026-10-04T19:59:16.835898+00:00
+-- url     : https://prove2.me/theorems/111464e7-42f2-4e5e-9a23-fd2a0cc02c1e
+-- title:
+--   Proposition 2 — $\max_{i,j}|M^{\varepsilon,0}_{i,j} - (m_0)_{i,j}| \le C\varepsilon^{1/2}$
+-- statement:
+--   Assume the hypotheses of Theorem 1 ((G1), (G3), (G4), (G5), (24), $m_0, m_T \in \mathcal K$, $m_0 > 0$, and $\nu > 0$ or $\nu = 0$ with $m_T > 0$). There is a constant $C$, which may depend on $h$, $\Delta t$ and the other data but not on $\varepsilon$, such that for every $\varepsilon > 0$ and every solution $(U^\varepsilon, M^\varepsilon)$ of the penalized scheme (20)–(23),
+--   $$
+--   \max_{i,j}\big|M^{\varepsilon,0}_{i,j} - (m_0)_{i,j}\big| \le C\varepsilon^{1/2}. \tag{51}
+--   $$
+--
+--   The estimate shows that the penalized initial density approaches $m_0$ as $\varepsilon \to 0$; it is the first step towards the convergence of the penalized scheme.
+--
+--   **Formalization Note** The constant is chosen once for the data, before $\varepsilon$ and the solution. The paper speaks of "the" solution, quoting uniqueness of solutions of (20)–(23) from its reference [1]; the statement is asserted for every solution.
+-- source:
+--   Achdou, Camilli, Capuzzo-Dolcetta, Mean field games: numerical methods for the planning problem, hal-00465404v1 (2010), §3.2, Proposition 2, eq. (51), p. 14
+
+import Mathlib
+import Definitions.Def_MFGPlanning_Penalized_Grid
+import Definitions.Def_MFGPlanning_Penalized_Hyp
+import Definitions.Def_MFGPlanning_Penalized_Scheme
+
+namespace MFGPlanning.Penalized
+
+/-- Proposition 2, hal-00465404v1, §3.2, p. 14 (PDF 15), estimate (51): under the assumptions of
+Theorem 1, max_{i,j} |M^{ε,0}_{i,j} − (m_0)_{i,j}| ≤ C ε^{1/2} for a constant C which may depend on
+h and Δt but not on ε.
+Formalization Note: C is chosen after the data `d` and before ε and the solution of (20)–(23);
+the bound is asserted for every solution (the paper quotes uniqueness from its reference [1]). -/
+theorem proposition_2 (d : Data) (hG1 : G1 d) (hG3 : G3 d) (hG4 : G4 d) (hG5 : G5 d) (hW : HypW d)
+    (hm0 : InK d d.m0) (hmT : InK d d.mT) (hm0pos : ∀ p, 0 < d.m0 p)
+    (hνmT : 0 < d.ν ∨ (d.ν = 0 ∧ ∀ p, 0 < d.mT p)) :
+    ∃ C : ℝ, ∀ ε : ℝ, 0 < ε → ∀ U M : Fin (d.NT + 1) → Pt d → ℝ, IsPenalizedSol d ε U M →
+      ∀ p : Pt d, |M 0 p - d.m0 p| ≤ C * Real.sqrt ε := by sorry
+
+end MFGPlanning.Penalized

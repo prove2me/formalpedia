@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BuffonsNeedle_buffon_integral
 -- name    : BuffonsNeedle.buffon_integral
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:41:28.587311+00:00
 -- url     : https://prove2.me/theorems/d72892c8-d89e-4523-b791-91a04075b2cf
 -- title:

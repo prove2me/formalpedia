@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_self_eq_lPowerFreePart_mul_lPowerRoot_pow
 -- name    : ProofsInTheBook.Chapter03.self_eq_lPowerFreePart_mul_lPowerRoot_pow
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:37:04.716216+00:00
 -- url     : https://prove2.me/theorems/13b2b6b1-29ff-4163-9361-ae672a77a4ae
 -- title:

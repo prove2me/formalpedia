@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_prime_nsmul_range_closure_has_nonempty_interior
 -- name    : PhilipponMultiplicity.prime_nsmul_range_closure_has_nonempty_interior
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-02T11:04:29.559353+00:00
 -- url     : https://prove2.me/theorems/cfcdf389-87a6-4f85-828f-cacaed39100a

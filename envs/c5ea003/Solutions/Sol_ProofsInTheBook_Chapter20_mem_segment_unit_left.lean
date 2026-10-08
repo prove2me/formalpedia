@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.mem_segment_unit_left
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:51:04.739404+00:00
 -- url     : https://prove2.me/submissions/6ae7257b-965e-4bda-93c9-f386adb424b5
 

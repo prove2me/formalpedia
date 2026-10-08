@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22Gurvits.chapter22_unconditional
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:18.417397+00:00
 -- url     : https://prove2.me/submissions/b2399c62-4cd3-456c-baa3-3ffdb9c5bd06
 

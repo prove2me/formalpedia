@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MulticutLShaped_SimpleRecourse_eq25_equivalent
 -- name    : MulticutLShaped.SimpleRecourse.eq25_equivalent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:03:28.282378+00:00
 -- url     : https://prove2.me/theorems/fa04f0b0-2f7b-4e01-9744-b8c51e929b7f

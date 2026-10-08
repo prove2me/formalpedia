@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Simulation_not_winning_deterministic
 -- name    : OnlineRandomization.Simulation.not_winning_deterministic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:36:09.040918+00:00
 -- url     : https://prove2.me/theorems/69fc7a7d-27d7-4649-a9a3-11ee75a62353

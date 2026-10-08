@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter28_chapter28_erdos_ko_rado
 -- name    : ProofsInTheBook.Chapter28.chapter28_erdos_ko_rado
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:08:44.706189+00:00
 -- url     : https://prove2.me/theorems/be48fa37-999b-4d3b-af68-8a3cf17fcbc5
 -- title:

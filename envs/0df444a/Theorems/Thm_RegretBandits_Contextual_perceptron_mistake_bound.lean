@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Contextual_perceptron_mistake_bound
 -- name    : RegretBandits.Contextual.perceptron_mistake_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:10:44.455014+00:00
 -- url     : https://prove2.me/theorems/ab726537-b55f-4bcf-83fe-0cd2bf5f0d22

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonuniformCompetitive_Isosceles_ratio_increases_to_e_ratio
 -- name    : NonuniformCompetitive.Isosceles.ratio_increases_to_e_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:55:57.321907+00:00
 -- url     : https://prove2.me/theorems/a6ada6b9-2506-43e7-8352-6c1c82c82789

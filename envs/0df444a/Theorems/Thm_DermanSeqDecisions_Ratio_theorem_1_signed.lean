@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_Ratio_theorem_1_signed
 -- name    : DermanSeqDecisions.Ratio.theorem_1_signed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:45:57.338168+00:00
 -- url     : https://prove2.me/theorems/a990ba94-75ab-414e-ac0f-efbb90ef4e4d

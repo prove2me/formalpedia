@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GPSAnalysis_Core_kkt_of_conforming
 -- name    : GPSAnalysis.Core.kkt_of_conforming
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T08:01:18.95418+00:00
 -- url     : https://prove2.me/theorems/b3a67880-b69a-45a7-817b-797f3c8e8f9d

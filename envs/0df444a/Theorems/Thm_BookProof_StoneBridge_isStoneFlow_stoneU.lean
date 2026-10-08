@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StoneBridge_isStoneFlow_stoneU
 -- name    : BookProof.StoneBridge.isStoneFlow_stoneU
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-18T01:09:13.359972+00:00
 -- url     : https://prove2.me/theorems/09674018-05cf-451b-be88-e7a449bccf4c

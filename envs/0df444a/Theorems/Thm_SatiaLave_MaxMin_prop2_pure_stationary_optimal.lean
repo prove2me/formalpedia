@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SatiaLave_MaxMin_prop2_pure_stationary_optimal
 -- name    : SatiaLave.MaxMin.prop2_pure_stationary_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:38:57.872677+00:00
 -- url     : https://prove2.me/theorems/d2703525-4971-47e3-a0ac-3f79412eeb92

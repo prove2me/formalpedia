@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_mul_log_sub_mul_log_le_log_choose
 -- name    : ProofsInTheBook.Chapter03.mul_log_sub_mul_log_le_log_choose
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:20.484357+00:00
 -- url     : https://prove2.me/theorems/f7589a6b-9b8b-4119-b82e-040c338775f3
 -- title:

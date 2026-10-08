@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_entropy_lyapunov_dini_bounded
 -- name    : ProcessingNetworks.ProportionalFairness.entropy_lyapunov_dini_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:25:37.843501+00:00
 -- url     : https://prove2.me/theorems/5f891d9d-261b-4683-89fd-a1c1efd27245

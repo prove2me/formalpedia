@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AronszajnRK_SubspaceSum_projection_sum_series
 -- name    : AronszajnRK.SubspaceSum.projection_sum_series
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:13:20.038863+00:00
 -- url     : https://prove2.me/theorems/5a66dac1-b435-4ac6-86f0-2a4fb152e9bf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_odd_sum_le_351_primes
 -- name    : odd_sum_le_351_primes
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-03T22:25:51.471986+00:00
 -- url     : https://prove2.me/theorems/fd5b2548-746a-4183-ac89-977fa8baf419

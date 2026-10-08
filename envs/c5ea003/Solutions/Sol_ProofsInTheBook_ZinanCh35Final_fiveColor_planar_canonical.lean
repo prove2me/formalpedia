@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.ZinanCh35Final.fiveColor_planar_canonical
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T19:43:07.843628+00:00
 -- url     : https://prove2.me/submissions/78cd2cd8-61e8-4f71-87f5-5c6e0fed4c97
 

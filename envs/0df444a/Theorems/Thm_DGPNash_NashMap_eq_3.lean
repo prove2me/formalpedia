@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DGPNash_NashMap_eq_3
 -- name    : DGPNash.NashMap.eq_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:05:08.854175+00:00
 -- url     : https://prove2.me/theorems/fc7480ba-1039-4513-971a-f5016730c087

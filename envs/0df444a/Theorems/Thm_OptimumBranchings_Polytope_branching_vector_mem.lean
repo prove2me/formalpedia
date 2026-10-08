@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimumBranchings_Polytope_branching_vector_mem
 -- name    : OptimumBranchings.Polytope.branching_vector_mem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:53:18.205999+00:00
 -- url     : https://prove2.me/theorems/da249abc-806c-400a-98c0-660fd5f309b5

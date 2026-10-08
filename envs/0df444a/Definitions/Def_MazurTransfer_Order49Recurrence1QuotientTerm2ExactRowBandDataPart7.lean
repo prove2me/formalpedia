@@ -1,0 +1,775 @@
+-- Prove2me | Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm2ExactRowBandDataPart7
+-- name    : MazurTransfer_Order49Recurrence1QuotientTerm2ExactRowBandDataPart7
+-- status  : Definition
+-- author  : @Vas
+-- created : 2026-10-07T09:53:16.71222+00:00
+-- url     : https://prove2.me/theorems/68460c37-0822-48ff-822f-5d66350cb3ca
+-- title:
+--   Exact first-recurrence QuotientTerm2 data: part 7
+-- statement:
+--   This part contains original polynomial data for one row, or the final aggregation of rows and bands, in the original arithmetic product identity of the first order-49 pseudo-division recurrence. Its values and public names are unchanged from the independently audited full data package. It supplies the original row and band equality proofs for QuotientTerm2 and asserts no polynomial identity itself.
+-- source:
+--   User MazurTheorem WIP 54d43d8dda8a6fcf069cc02a815f850d762c5c0c. The package is selected by the kernel dependency closure of one original row definition; the final part assembles the remaining original data. Complete original AST declarations and resolved-reference ranges preserve every mathematical command. Private visibility changes only at exact private-token ranges. All original values are independently kernel-compared with the pinned originals, and the combined part bodies receive a fresh audit before publication. No theorem proof or assumed equality is included. Apache-2.0 attribution retained. Named downstream consumers: original row and band product row and band identities, normalized coefficient 2 and full every-curve order49 exclusion.
+
+/-
+Copyright (c) 2026 Vasily Ilin. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Vasily Ilin
+-/
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm2ExactRowBandDataPart1
+import Definitions.Def_MazurTransfer_Order49Recurrence1QuotientTerm2ExactRowBandDataPart2
+import Definitions.Def_MazurTransfer_Order49ResultantRecurrenceData0
+
+namespace MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData
+/-
+Copyright (c) 2026 Vasily Ilin. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Vasily Ilin
+-/
+
+
+
+
+
+open Polynomial
+
+namespace MazurTorsion.Kubert.OrderSevenBacktrackingCertificate
+namespace Internal.ResultantCertificate
+
+noncomputable section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ def recurrence1QuotientTerm2Row7Band7 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 63 * (
+    (27480373286284794694939152462262692177564805027920377726) * X ^ 2 +
+    (-117949759669918977241131501067969279062542785216582533385966) * X ^ 3 +
+    (7613042925533250193584513879289681239476707479349314021643866) * X ^ 4 +
+    (4620158342935253906604576863335831580239866039561179062547790526) * X ^ 5 +
+    (-414474216272989155567818218507729715853283109390631985260714085925) * X ^ 6 +
+    (10761207783090778806824741888237037735612199921336531701906752453590) * X ^ 7 +
+    (329503780592885369393620098851081303660341728547939521823483874284272) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band8 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 72 * (
+    (-28500743436623409962368356544797430984675823488750078534244986004410140) +
+    (-262322899630036810911669972005404228540370543247527529761132544971504344) * X ^ 1 +
+    (21292513527459091939156143660282398641112911954367799980942947477082973394) * X ^ 2 +
+    (264986723956950202356486616923744662718226918727088357221963726932694782361) * X ^ 3 +
+    (-6845162740474585766239385333993820423480773803289191797865741272171399357247) * X ^ 4 +
+    (-96300319287607256121808492093694857207444610072293285135422760413184707646300) * X ^ 5 +
+    ((7 * 10 ^ 77 +
+      23864894606876371195738044294905997046733287372922912566569253419679150672796)) * X ^ 6 +
+    ((238 * 10 ^ 77 +
+      85505767300371640197984252300327773763385571488445074611963844981808039260630)) * X ^ 7 +
+    -((878 * 10 ^ 77 +
+      57046714625446359606954587515967155426017355753472134559454693525350505952113)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band9 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 81 * (
+    -((22156 * 10 ^ 77 +
+      61765894857703473046411048827939156130209667121201126732102009077404166084143)) +
+    -((40265 * 10 ^ 77 +
+      17388463665742255223635098121584091415978693958349579401402688411141038492175)) * X ^ 1 +
+    ((2527313 * 10 ^ 77 +
+      72725696262015223674728523242742625237718191073416607071124494069727137668241)) * X ^ 2 +
+    ((708966 * 10 ^ 77 +
+      27301484766873678865111821760326981324509837470910412822623964824171894212253)) * X ^ 3 +
+    -((128854409 * 10 ^ 77 +
+      25778386266628138760747654338524664209004590002171935233834676143014511378186)) * X ^ 4 +
+    -((348929432 * 10 ^ 77 +
+      46849295657408341086148600551526760842629500808999055686796634351159342020273)) * X ^ 5 +
+    ((7999195544 * 10 ^ 77 +
+      60381692358391071800215752761120065440731140780783665409073922881123973709047)) * X ^ 6 +
+    ((10758369223 * 10 ^ 77 +
+      09136657709686318334374657112267992690720834000976972705265008587268390363604)) * X ^ 7 +
+    -((318442750406 * 10 ^ 77 +
+      41882163655871214824627664729482320870544668041187800660601266022040272345097)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band10 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 90 * (
+    -((436227175612 * 10 ^ 77 +
+      68660858574022610016102133981429667098278239876814037448812749922236221116092)) +
+    ((12136215633782 * 10 ^ 77 +
+      11939728941533938274079505595959684603109580222027372396471033011769740603657)) * X ^ 1 +
+    ((4353974779339 * 10 ^ 77 +
+      06790263699312414270972505109086316499012587087702775243064337866703884204874)) * X ^ 2 +
+    -((364620798296018 * 10 ^ 77 +
+      09364304103536756702418940404875374685983383146581716211653624219888534325213)) * X ^ 3 +
+    ((223204184658704 * 10 ^ 77 +
+      05163749434108228508764072794406444921064124749219682243736187845748529941360)) * X ^ 4 +
+    ((9121055333324095 * 10 ^ 77 +
+      13712958908372736166991905222885860307588093978409720886583799116544008770967)) * X ^ 5 +
+    -((16764618058396606 * 10 ^ 77 +
+      50415223980724788403098928413177177276709264329594296946524954936207784092520)) * X ^ 6 +
+    -((176297835265475933 * 10 ^ 77 +
+      57162846663142388544607641227813230546502706888752688613414567585963505420778)) * X ^ 7 +
+    ((600067430634630590 * 10 ^ 77 +
+      68025253439496693967664450388570673131079352589583825712348299158420216217377)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band11 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 99 * (
+    ((2369381408749258459 * 10 ^ 77 +
+      88081825091326911718619961596288079744168900100164231603163170346150357225842)) +
+    -((14500579085005208897 * 10 ^ 77 +
+      89187712665074670471145614757794267293762531050142739172574730224894603216436)) * X ^ 1 +
+    -((12831749656483356955 * 10 ^ 77 +
+      01655511445507960772940640535612363958020780749875143837355115378516569194934)) * X ^ 2 +
+    ((244384190409324917170 * 10 ^ 77 +
+      76387771914036893517871795670049983663759376359017645186146562900892897390126)) * X ^ 3 +
+    -((294814728744571090514 * 10 ^ 77 +
+      66728630599015764216918299528229666930759375023775391120651738237764270523656)) * X ^ 4 +
+    -((2640616446852288877917 * 10 ^ 77 +
+      90346009592977007636057906275223465249854215325690954951898774293999805453925)) * X ^ 5 +
+    ((9209677523898580189313 * 10 ^ 77 +
+      69401881502475662560972922832554100838212294039291380704571342459780372154600)) * X ^ 6 +
+    ((10593725232771519316941 * 10 ^ 77 +
+      35973330319115445870208623299541812425936068671371673934164418128862977120223)) * X ^ 7 +
+    -((123659215985090052965972 * 10 ^ 77 +
+      79409262965637707439378953960148050078278935544776443071841729892811114320016)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band12 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 108 * (
+    ((176761745827988606901418 * 10 ^ 77 +
+      44821219777775021562791735278898314550943396147247770471680073822225236422509)) +
+    ((760256612178819036613702 * 10 ^ 77 +
+      20441014311892401228751032741749914967378342170933237408453650898340780966850)) * X ^ 1 +
+    -((3407426691391860014717221 * 10 ^ 77 +
+      44374176524024004529932974328955399425869736272217443085127740511392293078438)) * X ^ 2 +
+    ((2029528252174517179838392 * 10 ^ 77 +
+      99175764550935277925082770303454247517050489938579279496525583291596263343672)) * X ^ 3 +
+    ((21550740348351335627124189 * 10 ^ 77 +
+      18949708324587357791877026664701798565913979915870283006144574670793301121212)) * X ^ 4 +
+    -((69647972118828495571170894 * 10 ^ 77 +
+      03706682490885114155330205869158674007741673863620145050841790003435830599214)) * X ^ 5 +
+    ((32282978519183317536343589 * 10 ^ 77 +
+      69011264908288859863105276512103486151314489098082088620120853994849127387316)) * X ^ 6 +
+    ((360507576988358198441490986 * 10 ^ 77 +
+      62785536387054727898039865188784121126147816718519098365398836542093311335942)) * X ^ 7 +
+    -((1143144123752755230399714181 * 10 ^ 77 +
+      50433497761778954204411107373607860112971475066189469346048960390098191307584)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band13 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 117 * (
+    ((1040448309552584585228763895 * 10 ^ 77 +
+      37318100996098410974728386191219613887416762910429743008435525419342858822252)) +
+    ((3105444954287018684049105827 * 10 ^ 77 +
+      80469296398555713237664001164490001920233609319579000457413900597348075482960)) * X ^ 1 +
+    -((13297130444030089991522581240 * 10 ^ 77 +
+      40965693668726108785830021376212555231035133041370234061620773881014074761021)) * X ^ 2 +
+    ((22033062962281991617884757453 * 10 ^ 77 +
+      31745141297653657472888166319888360951793033344159505077748654206524926267844)) * X ^ 3 +
+    -((5248074158651595489279897632 * 10 ^ 77 +
+      39846015502426718581822640419773741647986360911080806320286290965511255052495)) * X ^ 4 +
+    -((67264576952710218271448881538 * 10 ^ 77 +
+      97828958378372655135294773959377466344871103748305518189732674881376816502238)) * X ^ 5 +
+    ((193918392672337319667318222543 * 10 ^ 77 +
+      26851487713248983758627565012096478981018411442691489079467760524425602715303)) * X ^ 6 +
+    -((297788301761734395169930189875 * 10 ^ 77 +
+      91996104869893440333224193570568171578483312176520970943281648571211085745578)) * X ^ 7 +
+    ((232895280990331181424969296875 * 10 ^ 77 +
+      49438525478439663313540568875783591794448327082514070068671381198182561166579)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band14 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 126 * (
+    ((120418809647406964537253182719 * 10 ^ 77 +
+      13133231046667059124983124275298950598476646836040920737892167793151641513775)) +
+    -((715607727615640840064091511608 * 10 ^ 77 +
+      22809368350180228759042860028550292656665516922061822968113086366322620838631)) * X ^ 1 +
+    ((1283065101416568367960314266618 * 10 ^ 77 +
+      34188978842155124188232449427639519403217048549198199073452996785085267573188)) * X ^ 2 +
+    -((1457051317842156423013542378955 * 10 ^ 77 +
+      52889742333904468022969372256555938513735082775772717532827911352612229568973)) * X ^ 3 +
+    ((1032625337306744548343606289751 * 10 ^ 77 +
+      43352901258851262277828475983309109032070180668605936671882183602017252206608)) * X ^ 4 +
+    -((151447394984152990413449026082 * 10 ^ 77 +
+      16578129588809436618843105848709900280410635406144247631399588848985466347550)) * X ^ 5 +
+    -((758460209663875266794092679338 * 10 ^ 77 +
+      98246345347321655695346105061587375195871698408799332715200565873882710446723)) * X ^ 6 +
+    ((1260726888460753238138588194492 * 10 ^ 77 +
+      62296012202250963714812943851016305343501259394447350854014998321455661406187)) * X ^ 7 +
+    -((1187424393268892816590515395318 * 10 ^ 77 +
+      21403598501292596202606268521778259189996831753011915778423313561197004934587)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band15 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 135 * (
+    ((704172900147607934642036907500 * 10 ^ 77 +
+      68058847667437878586545875961848772929504077970220640828652174806761480326540)) +
+    -((144413035512973854824990482189 * 10 ^ 77 +
+      66751252554916863325502609161791443283497244702101409430574118652752824889683)) * X ^ 1 +
+    -((224772780241540282284031891131 * 10 ^ 77 +
+      12080883577020357546125934845336761540416274750402947851908823751750956373794)) * X ^ 2 +
+    ((328107821195607053382838022917 * 10 ^ 77 +
+      60073921645664165094209550308119861223006533547083548861559815510493438750559)) * X ^ 3 +
+    -((249436153029501748091336497994 * 10 ^ 77 +
+      89290723801934851210578763554157873447277849083207014146870080679016124990892)) * X ^ 4 +
+    ((118715829879385423145882168300 * 10 ^ 77 +
+      93673506979839351210784012268885371864095163599669623344208197387792839228548)) * X ^ 5 +
+    -((22294396441457784536065170284 * 10 ^ 77 +
+      36335938630102157044701900720100846956584348549567652132530284247642011859469)) * X ^ 6 +
+    -((18761074034753212146642249948 * 10 ^ 77 +
+      01926202516640835645704047507439950038905514173004082725621190050440219982484)) * X ^ 7 +
+    ((22546574878017181777195976558 * 10 ^ 77 +
+      64625819962924565255569730838834996589978877642287473801051693796004513084662)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band16 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 144 * (
+    -((13312141464398711617167033420 * 10 ^ 77 +
+      52706801949719495356905921790968128446956739942058481223685959499420277620166)) +
+    ((4984561747159524019296240795 * 10 ^ 77 +
+      93213078362826366554097292198770040226878285213027641774004984901735756089327)) * X ^ 1 +
+    -((941414496720674060308261791 * 10 ^ 77 +
+      01732958995506446777236200651643349395979129656427484515631482868175263350908)) * X ^ 2 +
+    -((204378483267190498074227703 * 10 ^ 77 +
+      99303213151600990782655221066084637751742894405654385047809129368571573255550)) * X ^ 3 +
+    ((264881702378378909854241578 * 10 ^ 77 +
+      08282312192490836486482292655089615823610634654431143672150910527711146670940)) * X ^ 4 +
+    -((139558132935047583471303786 * 10 ^ 77 +
+      27290988582004179899105472432540278243743453223954259745244436372168474007322)) * X ^ 5 +
+    ((56991663500987192596852912 * 10 ^ 77 +
+      48276960588457156792135977437873355433270126423088065089684746706680652173556)) * X ^ 6 +
+    -((19205453660404964649842280 * 10 ^ 77 +
+      11023346689847927311653546070592885020093210255058785325476453315898418864451)) * X ^ 7 +
+    ((3759059813498090022666102 * 10 ^ 77 +
+      09585573318038113671659941838045845592099304804113777339266101086080766164775)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band17 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 153 * (
+    ((1001701238397695565997920 * 10 ^ 77 +
+      07676647925822950694202003794155155289800482163031438826117007387150263535202)) +
+    -((1256183598634983077455179 * 10 ^ 77 +
+      74811798208590543936205151672377748461029504740386285944225016664271467062927)) * X ^ 1 +
+    ((528166526067527668470766 * 10 ^ 77 +
+      19948737620568988411909283972139298871563203971266773961443550780507988865024)) * X ^ 2 +
+    -((92993396375408988091236 * 10 ^ 77 +
+      04299579503888984210187062741797015068796125137128242620426328857120780751026)) * X ^ 3 +
+    -((16147277631941090508579 * 10 ^ 77 +
+      85342391999983875915303813424384944983236597170127115952866004921496056471928)) * X ^ 4 +
+    ((13550813485833378039873 * 10 ^ 77 +
+      96479826973836392911908177781463597305143376279700004550801790692583608646015)) * X ^ 5 +
+    -((2930159220359646751223 * 10 ^ 77 +
+      13108426584915151714855825548815462107098755551692951367514831523868425361628)) * X ^ 6 +
+    -((54380644897868687734 * 10 ^ 77 +
+      44237163843652733464208564495096230006831297864414730372515585292881277414121)) * X ^ 7 +
+    ((158017649796474310938 * 10 ^ 77 +
+      66255141987363494532877166915939592188371536555283193385883031819183979186890)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band18 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 162 * (
+    -((26172781779526554347 * 10 ^ 77 +
+      41800825492487386174180807776234669769855691570124395147432244628078721076616)) +
+    -((1677401148422055418 * 10 ^ 77 +
+      70285510754997163602204946082818448140777295608118406350714049480278946557135)) * X ^ 1 +
+    ((946409777449209605 * 10 ^ 77 +
+      51222964755616688495214922967901424005416867501622607283075587395381314363637)) * X ^ 2 +
+    -((40153780408791447 * 10 ^ 77 +
+      52954652000456206312916146534198546423714208791603609085675034047281823078766)) * X ^ 3 +
+    -((16044739090634120 * 10 ^ 77 +
+      95905742736239566984763546601392081576422189933030007231468378385391146471265)) * X ^ 4 +
+    ((1107009746961125 * 10 ^ 77 +
+      40614194280611618105570721209473370005934309341130987533754715994914564688718)) * X ^ 5 +
+    ((191907143511991 * 10 ^ 77 +
+      17110637098498067030201605473377294472378872808890567367037102944852733287601)) * X ^ 6 +
+    -((6489877477244 * 10 ^ 77 +
+      89798143487445574380078856490664153197768889456943562799100393560564948734619)) * X ^ 7 +
+    -((1667716433333 * 10 ^ 77 +
+      72140662143493168794002928932268213983537570457662151676502519052207688758641)) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band19 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 171 * (
+    -((84154943973 * 10 ^ 77 +
+      84088851149155597300342409496922682852897155416939936958847909181868367124230)) +
+    -((1910935415 * 10 ^ 77 +
+      90619779513353268300355934827315029526439753851819965814229672590378707235931)) * X ^ 1 +
+    -((21499253 * 10 ^ 77 +
+      70867452320158458797468126361337609048135998715415885606698125039056935295769)) * X ^ 2 +
+    -((115892 * 10 ^ 77 +
+      82433945962952409621805450599241735972326749359618714773144081440537357236229)) * X ^ 3 +
+    -((234 * 10 ^ 77 +
+      92000078824547489224658382075013840130751609538631711488234667777627347591707)) * X ^ 4 +
+    (17139744310510287095144802386401409197089492674374902054932488023894021119642) * X ^ 5 +
+    (107265140476306429040180378672812517641100928084286243027157025998983402063) * X ^ 6 +
+    (80316228214809675751453785754182849792535688084798715920637786699477753) * X ^ 7 +
+    (10392599056190584269523284308819500888487831225200999220646861484005) * X ^ 8
+  )
+
+ def recurrence1QuotientTerm2Row7Band20 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  X ^ 180 * (
+    (104369680970565796333182270361997795233093075407718803093335490) +
+    (8254967164292470087889056566740800381581778655259491292) * X ^ 1
+  )
+
+ def recurrence1QuotientTerm2Row7 : MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.Coefficient :=
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band7 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band8 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band9 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band10 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band11 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band12 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band13 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band14 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band15 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band16 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band17 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band18 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band19 +
+  MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Internal.ResultantCertificate
+end MazurTorsion.Kubert.OrderSevenBacktrackingCertificate
+
+end MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData
+
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band10
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band11
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band12
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band13
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band14
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band15
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band16
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band17
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band18
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band19
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band20
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band7
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band8
+#print axioms MazurTransfer.Order49Recurrence1QuotientTerm2ExactRowBandData.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence1QuotientTerm2Row7Band9
+
+

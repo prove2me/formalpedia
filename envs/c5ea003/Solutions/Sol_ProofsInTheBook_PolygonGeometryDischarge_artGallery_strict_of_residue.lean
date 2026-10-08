@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.PolygonGeometryDischarge.artGallery_strict_of_residue
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T18:33:04.532881+00:00
 -- url     : https://prove2.me/submissions/a4fc9785-d104-40be-a82e-f7ac8ebcd874
 

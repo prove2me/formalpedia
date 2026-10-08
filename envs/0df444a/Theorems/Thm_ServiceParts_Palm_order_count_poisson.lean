@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Palm_order_count_poisson
 -- name    : ServiceParts.Palm.order_count_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:18:09.771562+00:00
 -- url     : https://prove2.me/theorems/eb0f8fab-3be0-45c0-8198-58b6d4046ab6

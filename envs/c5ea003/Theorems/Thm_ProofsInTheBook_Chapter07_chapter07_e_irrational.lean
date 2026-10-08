@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter07_chapter07_e_irrational
 -- name    : ProofsInTheBook.Chapter07.chapter07_e_irrational
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:42:50.255212+00:00
 -- url     : https://prove2.me/theorems/3ff3ad5f-cb7c-42e5-9277-317ece6b0a43
 -- title:

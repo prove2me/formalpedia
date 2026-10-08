@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleGreedyUSM_Fractional_multilinear_usm_half
 -- name    : DoubleGreedyUSM.Fractional.multilinear_usm_half
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:05:48.050985+00:00
 -- url     : https://prove2.me/theorems/34686905-3dca-4050-bd46-2d5e83ad2f20

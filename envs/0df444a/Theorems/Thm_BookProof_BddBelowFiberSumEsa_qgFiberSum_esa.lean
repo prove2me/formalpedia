@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BddBelowFiberSumEsa_qgFiberSum_esa
 -- name    : BookProof.BddBelowFiberSumEsa.qgFiberSum_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T13:16:06.31663+00:00
 -- url     : https://prove2.me/theorems/1fb7c5da-6dde-4b25-9819-5dd2c7e34853

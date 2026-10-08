@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.normalized_group_neighborhood_zariski_interior
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-04T08:17:20.566092+00:00
 -- url     : https://prove2.me/submissions/3bc4a44f-1779-4370-ae03-b4a294923b1b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_AffineAnalytic_local_mem_of_norm_vanishing_at_regular_point
 import Definitions.Def_P2M_Util

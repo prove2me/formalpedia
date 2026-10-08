@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_ChernoffPAC_kt_ratio_bound
 -- name    : OptimalBAI.ChernoffPAC.kt_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:02:37.447592+00:00
 -- url     : https://prove2.me/theorems/81997beb-7652-4f11-8ac2-3197dc55b531

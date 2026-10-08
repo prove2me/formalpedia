@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter15_chapter15
 -- name    : ProofsInTheBook.Chapter15.chapter15
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:39:07.754076+00:00
 -- url     : https://prove2.me/theorems/1f0b98da-4843-4764-95c0-587f8dace556
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoffmanMitrani1980_Region_lemma2_vertices_are_priority_vectors
 -- name    : CoffmanMitrani1980.Region.lemma2_vertices_are_priority_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:16:34.110393+00:00
 -- url     : https://prove2.me/theorems/a72404e5-9387-4128-8363-8d6ec7eee95a

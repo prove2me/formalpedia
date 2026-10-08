@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KKBinPacking_GeometricGrouping_algorithm2_log_squared_bound
 -- name    : KKBinPacking.GeometricGrouping.algorithm2_log_squared_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T17:49:20.89798+00:00
 -- url     : https://prove2.me/theorems/481bbaf2-8553-4e36-9fed-66bb54f00da2

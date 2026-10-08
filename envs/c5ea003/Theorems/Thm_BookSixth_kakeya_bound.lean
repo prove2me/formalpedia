@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_kakeya_bound
 -- name    : BookSixth.kakeya_bound
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:36:53.802748+00:00
 -- url     : https://prove2.me/theorems/bb0d49eb-72d5-4cfc-a0dd-72e610963b59
 -- title:

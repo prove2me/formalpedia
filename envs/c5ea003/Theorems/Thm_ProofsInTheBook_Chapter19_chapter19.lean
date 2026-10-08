@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter19_chapter19
 -- name    : ProofsInTheBook.Chapter19.chapter19
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:52.424589+00:00
 -- url     : https://prove2.me/theorems/a337a994-84eb-48d9-b820-29c83f0746a7
 -- title:

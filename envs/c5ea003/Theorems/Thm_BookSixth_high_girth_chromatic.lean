@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_high_girth_chromatic
 -- name    : BookSixth.high_girth_chromatic
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:21.957241+00:00
 -- url     : https://prove2.me/theorems/492eed0e-887f-4c2f-b442-46dfedbca013
 -- title:

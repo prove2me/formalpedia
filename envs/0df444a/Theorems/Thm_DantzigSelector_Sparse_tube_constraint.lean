@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DantzigSelector_Sparse_tube_constraint
 -- name    : DantzigSelector.Sparse.tube_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:40:19.178475+00:00
 -- url     : https://prove2.me/theorems/3b1ece2f-cd27-49b6-8f3b-84339f6fe945

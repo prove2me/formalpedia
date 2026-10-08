@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EntropicBarrier_Universal_lemma5_nConcave_iff
 -- name    : EntropicBarrier.Universal.lemma5_nConcave_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:03:31.959976+00:00
 -- url     : https://prove2.me/theorems/4c441f4f-a97d-4c12-9a09-1e220ecf2548

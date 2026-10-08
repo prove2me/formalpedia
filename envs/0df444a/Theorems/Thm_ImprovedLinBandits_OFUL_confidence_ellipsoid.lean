@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImprovedLinBandits_OFUL_confidence_ellipsoid
 -- name    : ImprovedLinBandits.OFUL.confidence_ellipsoid
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T17:21:18.505345+00:00
 -- url     : https://prove2.me/theorems/250b9d39-47c2-4b01-9d3e-66ad5c74ec17

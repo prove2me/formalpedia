@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymSum_lemma1
 -- name    : CongestionPoA.AsymSum.lemma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:28:16.444917+00:00
 -- url     : https://prove2.me/theorems/90a48d13-74bf-414b-965b-32d1ac73a978

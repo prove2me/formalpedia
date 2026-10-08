@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_tilted_positive_monotone_of_bv
 -- name    : AvramDividend.Classical.scaleFunction_tilted_positive_monotone_of_bv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-03T20:31:28.997232+00:00
 -- url     : https://prove2.me/theorems/1c7b629b-b0e0-42c9-a71f-f01447c9a4a3

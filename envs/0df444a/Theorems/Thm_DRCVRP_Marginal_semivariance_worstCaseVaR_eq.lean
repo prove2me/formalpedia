@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Marginal_semivariance_worstCaseVaR_eq
 -- name    : DRCVRP.Marginal.semivariance_worstCaseVaR_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:40:31.223241+00:00
 -- url     : https://prove2.me/theorems/b41b8576-f54e-4e55-ad09-21841f00535c

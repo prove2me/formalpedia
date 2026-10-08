@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_squareBoundaryVertexChainRGCount_odd_of_side_colors
 -- name    : ProofsInTheBook.Chapter20.squareBoundaryVertexChainRGCount_odd_of_side_colors
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:49.679413+00:00
 -- url     : https://prove2.me/theorems/fa43b483-2878-4a15-b02e-18af14a5dd64
 -- title:

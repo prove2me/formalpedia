@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_AsymSum_theorem2_instance
 -- name    : CongestionPoA.AsymSum.theorem2_instance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:48:50.197866+00:00
 -- url     : https://prove2.me/theorems/008f55c2-304e-4e26-9f7b-ba11516bbf98

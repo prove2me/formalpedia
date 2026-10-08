@@ -33,7 +33,7 @@
 --
 --   **Formalization Note.** $R_4(3) \le 61$ is a hypothesis, not a proved fact of the mission; if $R_4(3) > 61$, or if no Schur colouring of $[1, 1801]$ with six colours exists, the statement holds vacuously, and whether such a colouring exists is open. $\mathrm{TR}(4, 61)$ quantifies over colourings, with colours in any `Finset` of at most four naturals, of the pairs $x < y$ of any finite set of at least $61$ naturals. The colouring $c$ is a function on all of $\mathbb{N}$, constrained only on $[1, 1801]$, and $x = y$ is allowed in a Schur triple. $V$ lies in `range 1802` $= [0, 1801]$, so the point $0$ is a candidate member. The subtractions $901 - d$ (with $d \le 900$) and $1800 - x$ (with $x \in P_i$, so $x \le 1800$) are truncated subtractions on $\mathbb{N}$ that never truncate here, and distances are `Nat.dist`.
 -- source:
---   Note "The frontier of the centred Schur bound: balance, saturation and reflection" (schur-numbers project, 2026-10-02, unpublished), section "Six colours under R_4(3) ≤ 61". Lean proof not yet in a public repository.
+--   A. McKenna, "S(6) ≤ 1801 if R₄(3) ≤ 61: a centred Schur bound and the structure at the frontier", Zenodo (2026), https://doi.org/10.5281/zenodo.23156099, Theorem 4.11 (§4.6, six colours under R_4(3) ≤ 61; informal form in Theorem 1.3). Lean source: https://github.com/mysticflounder/schur-centred-bound/blob/v1.0.1/ClassicalSchur/Frontier.lean#L549-L576 (release v1.0.1, doi:10.5281/zenodo.23156444).
 
 import Definitions.Def_ClassicalSchurColoring
 import Definitions.Def_ClassicalSchurRamsey

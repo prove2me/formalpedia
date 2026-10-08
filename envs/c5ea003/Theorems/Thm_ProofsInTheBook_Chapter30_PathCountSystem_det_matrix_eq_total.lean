@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter30_PathCountSystem_det_matrix_eq_total
 -- name    : ProofsInTheBook.Chapter30.PathCountSystem.det_matrix_eq_total
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:27:10.610195+00:00
 -- url     : https://prove2.me/theorems/612c2f87-8be1-48ee-be34-5d2569f08bf6
 -- title:

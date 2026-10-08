@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_RCI_rvrp_equiv_twoIndexFlow
 -- name    : DRCVRP.RCI.rvrp_equiv_twoIndexFlow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:25:46.59385+00:00
 -- url     : https://prove2.me/theorems/15f112e4-c7da-43f3-a4e1-5ebff85ed01e

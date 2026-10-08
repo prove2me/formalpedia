@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_as_taboo_visits_passage_limits
 -- name    : SennottDP.ChainASM.as_taboo_visits_passage_limits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:30:23.896837+00:00
 -- url     : https://prove2.me/theorems/e8274a16-6aee-4b9c-ac0f-81dfcc5f8967

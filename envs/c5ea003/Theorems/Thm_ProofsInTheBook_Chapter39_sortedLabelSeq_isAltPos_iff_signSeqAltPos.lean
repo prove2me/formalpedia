@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_sortedLabelSeq_isAltPos_iff_signSeqAltPos
 -- name    : ProofsInTheBook.Chapter39.sortedLabelSeq_isAltPos_iff_signSeqAltPos
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:37.175816+00:00
 -- url     : https://prove2.me/theorems/2fbfdf02-f629-4551-b9ee-f160e7b9f47c
 -- title:

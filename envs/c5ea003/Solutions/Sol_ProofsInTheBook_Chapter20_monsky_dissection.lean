@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.monsky_dissection
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T18:30:42.556426+00:00
 -- url     : https://prove2.me/submissions/87401a7a-5d4b-4796-ba7b-e0c9cd1df717
 

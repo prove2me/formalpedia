@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.exists_prime_within_of_primeGapCoverWith
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:37.770886+00:00
 -- url     : https://prove2.me/submissions/93c99fbc-76fc-4639-acef-295ca47df299
 

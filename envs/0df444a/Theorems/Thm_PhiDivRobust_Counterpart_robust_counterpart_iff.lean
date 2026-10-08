@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhiDivRobust_Counterpart_robust_counterpart_iff
 -- name    : PhiDivRobust.Counterpart.robust_counterpart_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:52:01.345314+00:00
 -- url     : https://prove2.me/theorems/258c197c-ed0f-42a1-98a0-6ce817db9f34

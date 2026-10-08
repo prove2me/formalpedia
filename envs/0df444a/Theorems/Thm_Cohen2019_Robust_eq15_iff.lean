@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Cohen2019_Robust_eq15_iff
 -- name    : Cohen2019.Robust.eq15_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:33:11.077126+00:00
 -- url     : https://prove2.me/theorems/727ef38b-184f-4606-93b4-3ac840d67d27

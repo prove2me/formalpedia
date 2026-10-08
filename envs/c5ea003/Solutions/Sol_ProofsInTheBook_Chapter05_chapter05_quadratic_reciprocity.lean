@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter05.chapter05_quadratic_reciprocity
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:43:30.549879+00:00
 -- url     : https://prove2.me/submissions/613fd80b-7c55-46cd-bba7-6592b5f95525
 

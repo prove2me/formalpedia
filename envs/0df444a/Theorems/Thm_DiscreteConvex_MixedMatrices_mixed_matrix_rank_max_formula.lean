@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MixedMatrices_mixed_matrix_rank_max_formula
 -- name    : DiscreteConvex.MixedMatrices.mixed_matrix_rank_max_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T06:47:58.637443+00:00
 -- url     : https://prove2.me/theorems/7cac430a-7b84-4dfd-8fdb-d514718fdde4

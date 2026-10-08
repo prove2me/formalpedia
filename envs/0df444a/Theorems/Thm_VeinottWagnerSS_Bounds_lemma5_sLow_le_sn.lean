@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VeinottWagnerSS_Bounds_lemma5_sLow_le_sn
 -- name    : VeinottWagnerSS.Bounds.lemma5_sLow_le_sn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T13:52:05.242869+00:00
 -- url     : https://prove2.me/theorems/c32209f4-0088-49f9-a0dc-d0dbfbda53c0

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_primeCounting_gap_of_19_le
 -- name    : ProofsInTheBook.Chapter03.primeCounting_gap_of_19_le
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:59.8267+00:00
 -- url     : https://prove2.me/theorems/a5afa133-a3a9-483d-85c9-7fc866106835
 -- title:

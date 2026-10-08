@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter39.bipartite_odd_degree_card_eq_mod_two
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:09:16.318902+00:00
 -- url     : https://prove2.me/submissions/3e07eb7b-f56c-4550-b818-c50d72ac91a7
 

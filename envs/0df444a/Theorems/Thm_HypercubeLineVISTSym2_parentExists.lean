@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HypercubeLineVISTSym2_parentExists
 -- name    : HypercubeLineVISTSym2_parentExists
--- status  : Open
+-- status  : Proved
 -- author  : @undercat
 -- created : 2026-09-27T15:58:10.661261+00:00
 -- url     : https://prove2.me/theorems/9c68e90f-5dcf-423d-994b-51e002b5cff5

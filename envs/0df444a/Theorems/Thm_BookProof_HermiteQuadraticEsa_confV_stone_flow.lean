@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteQuadraticEsa_confV_stone_flow
 -- name    : BookProof.HermiteQuadraticEsa.confV_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T10:40:56.165199+00:00
 -- url     : https://prove2.me/theorems/961ed032-3be3-4958-8ba2-e29ac151aa31

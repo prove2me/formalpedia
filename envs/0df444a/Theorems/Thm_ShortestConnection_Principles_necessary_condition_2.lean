@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestConnection_Principles_necessary_condition_2
 -- name    : ShortestConnection.Principles.necessary_condition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:57:03.092047+00:00
 -- url     : https://prove2.me/theorems/a0ed45e3-a465-4301-86a8-d53552f5288c

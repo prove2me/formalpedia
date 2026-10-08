@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter09_hilbert_third_problem
 -- name    : ProofsInTheBook.Chapter09.hilbert_third_problem
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:38:53.422456+00:00
 -- url     : https://prove2.me/theorems/ac058859-8eaf-441c-9a1a-68718b4ef0a7
 -- title:

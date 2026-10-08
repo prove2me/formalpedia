@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiperiodRisk_Bellman_stable_tfae
 -- name    : MultiperiodRisk.Bellman.stable_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:08:05.012626+00:00
 -- url     : https://prove2.me/theorems/0f54f789-b916-446e-b23c-a2cb75053924

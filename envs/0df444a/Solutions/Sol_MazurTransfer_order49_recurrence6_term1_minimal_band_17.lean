@@ -1,0 +1,71 @@
+-- Prove2me | solution 1 for MazurTransfer.order49_recurrence6_term1_minimal_band_17
+-- status  : ACCEPTED   (prove)
+-- author  : @Vas
+-- created : 2026-10-07T00:51:21.715976+00:00
+-- url     : https://prove2.me/submissions/02c49a05-2eb8-486a-8397-1e68a6642e40
+
+import Definitions.Def_MazurTransfer_Order49Term1MinimalBand17Data
+import Definitions.Def_MazurTransfer_Order49Recurrence6StandaloneArithmeticData4
+import Mathlib.Tactic.Ring
+namespace MazurTransfer.Order49Term1MinimalBands
+/-
+Copyright (c) 2026 Vasily Ilin. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: Vasily Ilin
+-/
+
+
+
+
+
+open Polynomial
+
+namespace MazurTorsion.Kubert.OrderSevenBacktrackingCertificate
+namespace Internal.ResultantCertificate
+
+noncomputable section
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem recurrence6Term1Band17_eq :
+    MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Band17 = MazurTransfer.Order49Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.normalizedResidual6Term1Block17 := by
+  unfold MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row0Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row1Band17
+  unfold MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row2Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row3Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row4Band17
+  unfold MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row5Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row6Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row7Band17
+  unfold MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row8Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row9Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row10Band17
+  unfold MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row11Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row12Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row13Band17
+  unfold MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row14Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row15Band17 MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row16Band17
+  unfold MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Row17Band17 MazurTransfer.Order49Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.normalizedResidual6Term1Block17
+  ring
+
+end
+
+end Internal.ResultantCertificate
+end MazurTorsion.Kubert.OrderSevenBacktrackingCertificate
+
+end MazurTransfer.Order49Term1MinimalBands
+
+theorem solution :
+    MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Band17 = MazurTransfer.Order49Standalone.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.normalizedResidual6Term1Block17 := by
+  exact MazurTransfer.Order49Term1MinimalBands.MazurTorsion.Kubert.OrderSevenBacktrackingCertificate.Internal.ResultantCertificate.recurrence6Term1Band17_eq
+#print axioms solution

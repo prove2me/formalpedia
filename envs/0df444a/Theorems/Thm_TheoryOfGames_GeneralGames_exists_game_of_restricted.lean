@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_GeneralGames_exists_game_of_restricted
 -- name    : TheoryOfGames.GeneralGames.exists_game_of_restricted
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:27:54.954201+00:00
 -- url     : https://prove2.me/theorems/651ed171-bd61-4aed-a6f4-8f89afe0e312

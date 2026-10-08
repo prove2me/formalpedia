@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_Planar_periodic_of_omegaLimitSet_inter_halfOrbit
 -- name    : TeschlODE.Planar.periodic_of_omegaLimitSet_inter_halfOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T15:33:17.685684+00:00
 -- url     : https://prove2.me/theorems/05646eae-488d-4365-921f-c6629df5b98c

@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.choose_factorization_le_min_third_of_noLargePrimeFactor
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:31.090935+00:00
 -- url     : https://prove2.me/submissions/e36d8348-14f3-41ed-bf93-6719471ce779
 

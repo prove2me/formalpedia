@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.primeCounting_gap_of_19_le
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:35.416691+00:00
 -- url     : https://prove2.me/submissions/03ea5ab6-b7d4-4bb1-812c-da7d8d1c95d9
 

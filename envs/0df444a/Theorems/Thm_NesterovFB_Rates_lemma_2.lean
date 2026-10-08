@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovFB_Rates_lemma_2
 -- name    : NesterovFB.Rates.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:44:02.318992+00:00
 -- url     : https://prove2.me/theorems/491b3bf5-c87c-45fa-9dfe-d23985c07a17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Potential_potential_nonneg_on_play
 -- name    : OnlineRandomization.Potential.potential_nonneg_on_play
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:28:55.817152+00:00
 -- url     : https://prove2.me/theorems/383066d7-cc18-4621-89e1-b1a861e4fdce

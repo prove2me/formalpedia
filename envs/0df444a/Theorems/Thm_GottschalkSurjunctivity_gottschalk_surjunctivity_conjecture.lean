@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_gottschalk_surjunctivity_conjecture
 -- name    : GottschalkSurjunctivity.gottschalk_surjunctivity_conjecture
--- status  : Open
+-- status  : Disproved
 -- author  : @Lucas
 -- created : 2026-09-30T17:08:37.249891+00:00
 -- url     : https://prove2.me/theorems/50eb0c03-3637-4ab8-bc6d-10164c47ce09

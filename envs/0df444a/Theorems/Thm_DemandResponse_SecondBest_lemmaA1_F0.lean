@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandResponse_SecondBest_lemmaA1_F0
 -- name    : DemandResponse.SecondBest.lemmaA1_F0
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:42:08.965893+00:00
 -- url     : https://prove2.me/theorems/0e955e56-0ce7-4d43-89c2-8247aca72a65

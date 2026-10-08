@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter02_chapter02_bertrand
 -- name    : ProofsInTheBook.Chapter02.chapter02_bertrand
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:31:46.979693+00:00
 -- url     : https://prove2.me/theorems/e154d7ed-02f7-4ae6-9b9d-1d6e3dcc9807
 -- title:

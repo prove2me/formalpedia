@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DemandResponse_SecondBest_propA4_ii_minimiser
 -- name    : DemandResponse.SecondBest.propA4_ii_minimiser
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T03:42:28.714564+00:00
 -- url     : https://prove2.me/theorems/5db39fb3-6e68-4605-b71e-52773cdfbbde

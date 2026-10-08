@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasurableEmbedding_exists_vectorMeasure_image_integral
 -- name    : MeasurableEmbedding.exists_vectorMeasure_image_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Tamas Fulop
 -- created : 2026-10-03T20:02:33.460799+00:00
 -- url     : https://prove2.me/theorems/809f00a1-dc17-4689-a89b-e0c02365b1eb

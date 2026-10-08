@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DeBruijnNewman_pf_smul_nonneg
 -- name    : DeBruijnNewman.pf_smul_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-09-23T18:03:14.394012+00:00
 -- url     : https://prove2.me/theorems/b4804b17-fe78-40d7-b821-84be3f784fb0

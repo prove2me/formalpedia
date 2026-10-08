@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_sigmaDoorSet_card_opposite_of_door
 -- name    : ProofsInTheBook.Chapter39.sigmaDoorSet_card_opposite_of_door
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:22.108309+00:00
 -- url     : https://prove2.me/theorems/40025d35-08f7-4ee8-b325-4d5782e1b5fe
 -- title:

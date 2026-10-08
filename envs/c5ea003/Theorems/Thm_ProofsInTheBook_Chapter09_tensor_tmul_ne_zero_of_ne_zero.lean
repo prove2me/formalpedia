@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter09_tensor_tmul_ne_zero_of_ne_zero
 -- name    : ProofsInTheBook.Chapter09.tensor_tmul_ne_zero_of_ne_zero
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T15:38:37.688749+00:00
 -- url     : https://prove2.me/theorems/8de53496-cc97-4551-beb7-5bd7d1f15723
 -- title:

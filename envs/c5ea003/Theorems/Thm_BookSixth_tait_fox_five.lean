@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_tait_fox_five
 -- name    : BookSixth.tait_fox_five
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:31.684142+00:00
 -- url     : https://prove2.me/theorems/9de91e75-6365-431b-a2d3-c4695cc4a1e2
 -- title:

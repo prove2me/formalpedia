@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_mconvex_subgradient_inequality
 -- name    : DiscreteConvex.MConvexFunctionsB.mconvex_subgradient_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:10:42.803703+00:00
 -- url     : https://prove2.me/theorems/49db9f24-1e42-4043-b379-ba0ed4e8b27b

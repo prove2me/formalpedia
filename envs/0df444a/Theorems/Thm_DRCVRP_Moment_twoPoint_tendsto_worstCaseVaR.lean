@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Moment_twoPoint_tendsto_worstCaseVaR
 -- name    : DRCVRP.Moment.twoPoint_tendsto_worstCaseVaR
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:27:00.421999+00:00
 -- url     : https://prove2.me/theorems/ffa9c67b-e050-4b08-8afb-89b81f851c47

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolygonalArcEndpointDiskCappedTaperChartTransport
 -- name    : PolygonalArcEndpointDiskCappedTaperChartTransport
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-28T06:34:17.974979+00:00
 -- url     : https://prove2.me/theorems/1fd11df1-6571-454f-8468-90a40939ca7e

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Erdos77.spencer_1975_uniform_hyperedge_coloring_lll_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T18:45:34.738976+00:00
 -- url     : https://prove2.me/submissions/95b2680d-b168-4786-9297-d1222e53eb1c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_Combinatorics_uniform_family_propertyB_of_bounded_incidence

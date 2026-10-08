@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_BestAlpha_random_alpha_bound
 -- name    : AvgCompletionSched.BestAlpha.random_alpha_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:49:20.294145+00:00
 -- url     : https://prove2.me/theorems/84ca325b-1379-491e-b2d5-2c7a0127ca35

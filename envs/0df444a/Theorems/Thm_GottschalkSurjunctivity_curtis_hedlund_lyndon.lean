@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GottschalkSurjunctivity_curtis_hedlund_lyndon
 -- name    : GottschalkSurjunctivity.curtis_hedlund_lyndon
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T14:09:51.637867+00:00
 -- url     : https://prove2.me/theorems/c6a858d9-f856-4c42-b49b-aac905b32929

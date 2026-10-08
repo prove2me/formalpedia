@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter04.ZagierTriple.exists_sq_add_sq_of_prime_mod_four_eq_one
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T14:43:29.147329+00:00
 -- url     : https://prove2.me/submissions/eae7de3b-232d-416a-a0b6-a7bb467d108e
 

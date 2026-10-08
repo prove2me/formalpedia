@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Spectral_spectralIntegral_normal
 -- name    : TeschlQM.Spectral.spectralIntegral_normal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:29:15.962346+00:00
 -- url     : https://prove2.me/theorems/2e541c6a-01b9-4a2d-862d-3b0d330672ac

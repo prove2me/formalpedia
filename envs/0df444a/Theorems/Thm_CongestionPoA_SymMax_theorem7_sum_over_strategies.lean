@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_theorem7_sum_over_strategies
 -- name    : CongestionPoA.SymMax.theorem7_sum_over_strategies
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:11:23.704347+00:00
 -- url     : https://prove2.me/theorems/efbc8184-b895-4076-b99f-b0bcc58cd0ba

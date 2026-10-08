@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PermLimits_Cauchy_eventually_const_of_convergent
 -- name    : PermLimits.Cauchy.eventually_const_of_convergent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:26:08.058619+00:00
 -- url     : https://prove2.me/theorems/18ac3c75-f3d0-45d3-b776-c1048a1bfc22

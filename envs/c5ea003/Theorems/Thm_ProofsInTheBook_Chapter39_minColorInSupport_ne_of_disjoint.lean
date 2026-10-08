@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter39_minColorInSupport_ne_of_disjoint
 -- name    : ProofsInTheBook.Chapter39.minColorInSupport_ne_of_disjoint
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:07:19.389338+00:00
 -- url     : https://prove2.me/theorems/efa8a54e-6f21-4594-8e94-fe3f4a9f4470
 -- title:

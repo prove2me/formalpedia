@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_Decreasing_delete_small_items
 -- name    : BinPacking.Decreasing.delete_small_items
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:14:48.806063+00:00
 -- url     : https://prove2.me/theorems/7337ec4c-a5b4-4eac-b996-7e194d3d1db6

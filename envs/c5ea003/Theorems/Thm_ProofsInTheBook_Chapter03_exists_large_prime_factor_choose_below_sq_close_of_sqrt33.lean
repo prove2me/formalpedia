@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_exists_large_prime_factor_choose_below_sq_close_of_sqrt33
 -- name    : ProofsInTheBook.Chapter03.exists_large_prime_factor_choose_below_sq_close_of_sqrt33
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:04.040869+00:00
 -- url     : https://prove2.me/theorems/7ae3ee31-7de7-4f4c-81fa-ab0db8470b40
 -- title:

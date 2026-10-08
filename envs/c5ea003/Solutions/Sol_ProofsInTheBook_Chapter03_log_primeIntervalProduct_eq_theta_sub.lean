@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.log_primeIntervalProduct_eq_theta_sub
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:24.204366+00:00
 -- url     : https://prove2.me/submissions/f10a8c53-9b92-4525-b1a6-e8288c937062
 

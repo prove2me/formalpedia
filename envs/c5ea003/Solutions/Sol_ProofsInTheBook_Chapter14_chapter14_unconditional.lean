@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter14.chapter14_unconditional
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:10:12.512004+00:00
 -- url     : https://prove2.me/submissions/2531d5b8-91cb-4069-9092-a8266239253b
 

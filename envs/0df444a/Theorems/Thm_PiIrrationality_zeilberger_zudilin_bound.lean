@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiIrrationality_zeilberger_zudilin_bound
 -- name    : PiIrrationality.zeilberger_zudilin_bound
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-03T19:36:44.871194+00:00
 -- url     : https://prove2.me/theorems/220720d6-45c3-4bc4-8f43-294836e7fbe7

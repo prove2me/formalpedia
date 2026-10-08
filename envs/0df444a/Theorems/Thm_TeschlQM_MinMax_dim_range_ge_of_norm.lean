@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_MinMax_dim_range_ge_of_norm
 -- name    : TeschlQM.MinMax.dim_range_ge_of_norm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T21:37:06.465143+00:00
 -- url     : https://prove2.me/theorems/545004d3-08f8-4fbe-be88-25c8fc07a905

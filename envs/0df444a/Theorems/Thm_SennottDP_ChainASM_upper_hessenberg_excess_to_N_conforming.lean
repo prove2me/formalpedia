@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_upper_hessenberg_excess_to_N_conforming
 -- name    : SennottDP.ChainASM.upper_hessenberg_excess_to_N_conforming
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T15:04:59.40111+00:00
 -- url     : https://prove2.me/theorems/44b52338-faf5-4644-9249-68a36a89b570

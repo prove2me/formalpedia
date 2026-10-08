@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BuffonsNeedle_buffon_short
 -- name    : BuffonsNeedle.buffon_short
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:41:22.271567+00:00
 -- url     : https://prove2.me/theorems/bed7551f-6782-4609-968a-b867e05f83df
 -- title:

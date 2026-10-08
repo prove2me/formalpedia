@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_normalized_analytic_group_chart
 -- name    : PhilipponMultiplicity.exists_normalized_analytic_group_chart
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-03T08:25:37.247273+00:00
 -- url     : https://prove2.me/theorems/79454bba-6628-4044-91b5-de684812a342

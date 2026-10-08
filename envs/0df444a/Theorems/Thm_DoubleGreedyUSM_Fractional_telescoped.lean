@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DoubleGreedyUSM_Fractional_telescoped
 -- name    : DoubleGreedyUSM.Fractional.telescoped
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:05:39.064513+00:00
 -- url     : https://prove2.me/theorems/c07e6001-38dd-40da-ad34-59268da9dab1

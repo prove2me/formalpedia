@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_SequentialConvex_sequential_convexification_facial
 -- name    : Disjunctive.SequentialConvex.sequential_convexification_facial
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:25:49.260632+00:00
 -- url     : https://prove2.me/theorems/3f9c9c8e-d0bd-428e-ad1f-d03daca56cce

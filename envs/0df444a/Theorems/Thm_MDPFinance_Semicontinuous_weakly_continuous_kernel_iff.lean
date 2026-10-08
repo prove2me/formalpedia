@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Semicontinuous_weakly_continuous_kernel_iff
 -- name    : MDPFinance.Semicontinuous.weakly_continuous_kernel_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:26:46.465583+00:00
 -- url     : https://prove2.me/theorems/1ec1e930-f6a5-439b-91ec-4663fbe01e55

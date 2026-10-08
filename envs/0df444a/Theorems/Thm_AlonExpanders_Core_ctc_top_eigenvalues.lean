@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonExpanders_Core_ctc_top_eigenvalues
 -- name    : AlonExpanders.Core.ctc_top_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:09:33.006995+00:00
 -- url     : https://prove2.me/theorems/ef3757d5-6f73-43a2-8297-e6fa33ada349

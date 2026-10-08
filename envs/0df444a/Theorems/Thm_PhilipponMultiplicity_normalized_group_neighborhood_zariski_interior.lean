@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_normalized_group_neighborhood_zariski_interior
 -- name    : PhilipponMultiplicity.normalized_group_neighborhood_zariski_interior
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-03T09:32:03.294111+00:00
 -- url     : https://prove2.me/theorems/05d37ae0-cbaa-4573-9337-209e9e3c296f

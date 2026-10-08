@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_pf_control_maximally_stable
 -- name    : ProcessingNetworks.ProportionalFairness.pf_control_maximally_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:35:33.677247+00:00
 -- url     : https://prove2.me/theorems/b1a2e851-ae1d-464b-a270-db03d0175853

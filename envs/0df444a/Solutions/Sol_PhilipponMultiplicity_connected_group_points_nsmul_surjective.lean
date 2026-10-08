@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.connected_group_points_nsmul_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-02T08:19:34.658993+00:00
 -- url     : https://prove2.me/submissions/b02019cc-ec42-4d15-b9bc-ab937faf4ac2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_prime_nsmul_range_has_nonempty_interior
 import Definitions.Def_PhilipponMultiplicity_Geometry

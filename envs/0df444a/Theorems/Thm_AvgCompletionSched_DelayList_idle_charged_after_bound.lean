@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_DelayList_idle_charged_after_bound
 -- name    : AvgCompletionSched.DelayList.idle_charged_after_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:04:34.926765+00:00
 -- url     : https://prove2.me/theorems/fcae5c05-07cb-48ff-8b1b-9f02240d13dd

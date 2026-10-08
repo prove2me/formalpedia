@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22.rowLinearCapacityAtLeastOne_of_doublyStochastic
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:14.236943+00:00
 -- url     : https://prove2.me/submissions/bc817bf8-649b-44cc-ab5b-310d1da57e26
 

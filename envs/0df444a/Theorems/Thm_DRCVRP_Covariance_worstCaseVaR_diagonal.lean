@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Covariance_worstCaseVaR_diagonal
 -- name    : DRCVRP.Covariance.worstCaseVaR_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:33:32.771787+00:00
 -- url     : https://prove2.me/theorems/80157ee8-2f3b-4c1f-a77f-b3aaa50c81a5

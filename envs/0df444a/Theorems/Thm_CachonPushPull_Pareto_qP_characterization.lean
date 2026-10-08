@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Pareto_qP_characterization
 -- name    : CachonPushPull.Pareto.qP_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:29:02.145369+00:00
 -- url     : https://prove2.me/theorems/b18f5006-0e4a-4a4b-83b6-4f1e4c98eed3

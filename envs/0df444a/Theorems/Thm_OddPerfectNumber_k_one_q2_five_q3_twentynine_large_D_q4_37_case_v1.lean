@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_k_one_q2_five_q3_twentynine_large_D_q4_37_case_v1
 -- name    : OddPerfectNumber.k_one_q2_five_q3_twentynine_large_D_q4_37_case_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-16T10:20:24.459734+00:00
 -- url     : https://prove2.me/theorems/365efcc2-ab72-428d-ac27-04d8520a6d9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_lovasz_convex_iff_submodular
 -- name    : DiscreteConvex.MConvexSetsB.lovasz_convex_iff_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:33:27.3862+00:00
 -- url     : https://prove2.me/theorems/a9735a4c-c06e-4dbc-85c4-a058a12f9623

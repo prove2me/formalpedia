@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PiIrrationality_salikhov_bound
 -- name    : PiIrrationality.salikhov_bound
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-03T22:25:32.735989+00:00
 -- url     : https://prove2.me/theorems/ef16c5c5-33b1-442e-ae7c-e456b1925894

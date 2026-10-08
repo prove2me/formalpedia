@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22.rowLinearMixedCoefficient_eq_permanent
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:16.269698+00:00
 -- url     : https://prove2.me/submissions/b9fbb5c7-32a9-4704-bfdf-97d15f4254f8
 

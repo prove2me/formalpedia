@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_lemma1
 -- name    : CongestionPoA.SymMax.lemma1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:46:26.952645+00:00
 -- url     : https://prove2.me/theorems/06764d57-2fea-4961-8be0-de6f11e3aec4

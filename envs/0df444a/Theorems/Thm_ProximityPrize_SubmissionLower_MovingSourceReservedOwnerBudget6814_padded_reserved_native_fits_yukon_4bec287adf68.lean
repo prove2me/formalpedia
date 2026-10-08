@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProximityPrize_SubmissionLower_MovingSourceReservedOwnerBudget6814_padded_reserved_native_fits_yukon_4bec287adf68
 -- name    : ProximityPrize.SubmissionLower.MovingSourceReservedOwnerBudget6814.padded_reserved_native_fits_yukon_4bec287adf68
--- status  : Open
+-- status  : Proved
 -- author  : @yukon
 -- created : 2026-10-03T08:31:32.96555+00:00
 -- url     : https://prove2.me/theorems/79cad61c-8783-4af0-8c1d-734dab710d83

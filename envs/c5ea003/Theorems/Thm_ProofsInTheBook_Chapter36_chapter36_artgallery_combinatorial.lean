@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter36_chapter36_artgallery_combinatorial
 -- name    : ProofsInTheBook.Chapter36.chapter36_artgallery_combinatorial
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:41:15.038016+00:00
 -- url     : https://prove2.me/theorems/7f73cac4-732a-4713-84be-28a3b2c49b4e
 -- title:

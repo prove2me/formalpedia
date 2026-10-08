@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter37.chapter37
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:13:11.300155+00:00
 -- url     : https://prove2.me/submissions/5cb5497c-c258-4f9b-88d8-ccf303c6ecbd
 

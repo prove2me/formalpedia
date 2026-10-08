@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Coordination_apd_pareto_coordinates
 -- name    : CachonPushPull.Coordination.apd_pareto_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:35:22.795603+00:00
 -- url     : https://prove2.me/theorems/95b881fd-337b-404f-86e7-b4f52891b550

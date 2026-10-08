@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CachonPushPull_Coordination_chain_newsvendor
 -- name    : CachonPushPull.Coordination.chain_newsvendor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:32:34.616805+00:00
 -- url     : https://prove2.me/theorems/bfff040b-1bc2-4e37-b141-421f026d04d0

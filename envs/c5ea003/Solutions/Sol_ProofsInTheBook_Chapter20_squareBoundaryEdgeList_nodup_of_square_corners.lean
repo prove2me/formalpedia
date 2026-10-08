@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.squareBoundaryEdgeList_nodup_of_square_corners
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:51:10.490863+00:00
 -- url     : https://prove2.me/submissions/8425ca5f-b9e3-459d-bdf3-d57472e88ebd
 

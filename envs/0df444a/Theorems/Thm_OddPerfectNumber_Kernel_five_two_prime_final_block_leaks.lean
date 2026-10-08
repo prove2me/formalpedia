@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_two_prime_final_block_leaks
 -- name    : OddPerfectNumber.Kernel.five_two_prime_final_block_leaks
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-04T10:37:33.814795+00:00
 -- url     : https://prove2.me/theorems/becbcd13-dad8-4c45-92ee-5972d332a985

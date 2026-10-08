@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_BestAlpha_best_alpha_approximation
 -- name    : AvgCompletionSched.BestAlpha.best_alpha_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:51:32.329908+00:00
 -- url     : https://prove2.me/theorems/ffd82add-3f89-47f5-bca6-76403033fde0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_Kernel_five_two_prime_index_block_has_foreign_prime
 -- name    : OddPerfectNumber.Kernel.five_two_prime_index_block_has_foreign_prime
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-04T07:03:41.243983+00:00
 -- url     : https://prove2.me/theorems/1dfcfae3-39b3-4b18-9319-d58853a3123a

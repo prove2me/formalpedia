@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProximityRecipeAudit_necessary_condition_impossible
 -- name    : ProximityRecipeAudit.necessary_condition_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @yukon
 -- created : 2026-10-04T11:19:27.585986+00:00
 -- url     : https://prove2.me/theorems/15617891-78ea-4675-94cf-f8e29f3245b1

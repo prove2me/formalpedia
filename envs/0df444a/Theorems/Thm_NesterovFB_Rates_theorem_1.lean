@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovFB_Rates_theorem_1
 -- name    : NesterovFB.Rates.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:44:21.936705+00:00
 -- url     : https://prove2.me/theorems/e6c591df-4a96-4e5e-9893-b30e0e9fe369

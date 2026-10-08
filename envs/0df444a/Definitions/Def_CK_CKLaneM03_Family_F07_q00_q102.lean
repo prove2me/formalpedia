@@ -1,0 +1,36 @@
+-- Prove2me | Definitions.Def_CK_CKLaneM03_Family_F07_q00_q102
+-- name    : CK_CKLaneM03_Family_F07_q00_q102
+-- status  : Definition
+-- author  : @tianyipeng
+-- created : 2026-10-07T02:16:28.436331+00:00
+-- url     : https://prove2.me/theorems/de933510-765f-4b2b-b4e0-47e7bed709cc
+-- title:
+--   Courtade–Kumar proof module `CKLaneM03.Family.F07 (piece 1 of 4) (piece 3 of 5)` (transplant)
+-- statement:
+--   Verbatim transplant of the Lean module `CKLaneM03.Family.F07 (piece 1 of 4) (piece 3 of 5)` of the machine-checked proof of the general Courtade–Kumar theorem (the most informative Boolean function conjecture), so that the complete proof can be verified on this platform.
+--
+--   It is the original source with only two mechanical changes. Imports of project modules are redirected to their transplanted bundles `Definitions.Def_CK_*`. Declarations that already exist in earlier platform definition bundles of this mission are removed, and those bundles are imported instead, so every constant keeps a single platform identity.
+--
+--   The module contains both definitions and the lemmas proved alongside them in the source. They are kept together so the transplant stays faithful and every proof is re-checked by the server.
+--
+--   Source: Z. Chen, A. Gohari, A. Javanmard, H. Lin, V. Mirrokni, C. Nair, D. P. Woodruff, *A Proof of the Most Informative Boolean Function Conjecture*, arXiv:2609.24931 (2026). Lean development: https://github.com/dpwoodru/general-courtade-kumar-lean (Apache-2.0), module `CKLaneM03.Family.F07 (piece 1 of 4) (piece 3 of 5)` from release v1.0 (`sources_v3.tar.zst`).
+-- source:
+--   arXiv:2609.24931; https://github.com/dpwoodru/general-courtade-kumar-lean release v1.0, module CKLaneM03.Family.F07 (piece 1 of 4) (piece 3 of 5) (browse copy where available: https://github.com/dpwoodru/general-courtade-kumar-lean/blob/04b6fc3f75b10c3c43702a883ddf888b0608a9a0/browse/CKLaneM03/Family/F07 (piece 1 of 4) (piece 3 of 5).lean)
+
+import Definitions.Def_CK_CKLaneM03_Family_F07_q00_q101
+
+namespace CKLaneM03.EP
+open CKLaneM03
+namespace P0181
+set_option maxRecDepth 200000 in
+theorem leaves_sem : ∀ p ∈ leaves, Sem (ssBox p) :=
+  sem_forall_cons l_503001042052135134125124 (sem_forall_cons l_503001042052135134125134 (sem_forall_cons l_5030010420521351341340 (sem_forall_cons l_50300104205213513413412 (sem_forall_cons l_50300104205213513413413 (sem_forall_cons l_50300104205213513413502 (sem_forall_cons l_50300104205213513413503 (sem_forall_cons l_503001042052135134135124 (sem_forall_cons l_503001042052135134135125 (sem_forall_cons l_50300104205213513413513 (sem_forall_cons l_503001042052135135034024 (sem_forall_cons l_503001042052135135034034 (sem_forall_cons l_503001042052135135034134 (sem_forall_cons l_503001042053042042 (sem_forall_cons l_503001042053042043 (sem_forall_cons l_5030010420530420520 (sem_forall_cons l_50300104205304205214 (sem_forall_cons l_50300104205304205215 (sem_forall_cons l_5030010420530420530 (sem_forall_cons l_5030010420530420531 (sem_forall_cons l_503001042053042142 (sem_forall_cons l_503001042053042143 (sem_forall_cons l_50300104205304215204 (sem_forall_cons l_50300104205304215205 (sem_forall_cons l_50300104205304215214 (sem_forall_cons l_50300104205304215215 (sem_forall_cons l_5030010420530421530 (sem_forall_cons l_50300104205304215314 (sem_forall_cons l_50300104205304215315 (sem_forall_cons l_503001042053043042 (sem_forall_cons l_503001042053043043 (sem_forall_cons l_5030010420530430520 (sem_forall_cons l_5030010420530430521 (sem_forall_cons l_503001042053043053 (sem_forall_cons l_503001042053043142 (sem_forall_cons l_503001042053043143 (sem_forall_cons l_5030010420530431520 (sem_forall_cons l_5030010420530431521 (sem_forall_cons l_5030010420530431530 (sem_forall_cons l_5030010420530431531 (sem_forall_cons l_503001042053052042042 (sem_forall_cons l_503001042053052042043 (sem_forall_cons l_503001042053052042052 (sem_forall_cons l_503001042053052042053 (sem_forall_cons l_503001042053052042142 (sem_forall_cons l_503001042053052042143 (sem_forall_cons l_503001042053052042152 (sem_forall_cons l_503001042053052042153 (sem_forall_cons l_50300104205305204304 (sem_forall_cons l_503001042053052043052 (sem_forall_cons l_503001042053052043053 (sem_forall_cons l_50300104205305204314 (sem_forall_cons l_503001042053052043152 (sem_forall_cons l_503001042053052043153 (sem_forall_cons l_5030010420530520520240 (sem_forall_cons l_5030010420530520520241 (sem_forall_cons l_50300104205305205202502 (sem_forall_cons l_50300104205305205202503 (sem_forall_cons l_50300104205305205202512 (sem_forall_cons l_50300104205305205202513 (sem_forall_cons l_5030010420530520520340 (sem_forall_cons l_5030010420530520520341 (sem_forall_cons l_50300104205305205203502 (sem_forall_cons l_50300104205305205203503 (sem_forall_cons l_50300104205305205203512 (sem_forall_cons l_50300104205305205203513 (sem_forall_cons l_5030010420530520521240 (sem_forall_cons l_50300104205305205212412 (sem_forall_cons l_50300104205305205212413 (sem_forall_cons l_503001042053052052125024 (sem_forall_cons l_503001042053052052125025 (sem_forall_cons l_50300104205305205212503 (sem_forall_cons l_503001042053052052125124 (sem_forall_cons l_503001042053052052125125 (sem_forall_cons l_503001042053052052125134 (sem_forall_cons l_503001042053052052125135 (sem_forall_cons l_5030010420530520521340 (sem_forall_cons l_5030010420530520521341 (sem_forall_cons l_50300104205305205213502 (sem_forall_cons l_50300104205305205213503 (sem_forall_cons l_50300104205305205213512 (sem_forall_cons l_50300104205305205213513 (sem_forall_cons l_503001042053052053042 (sem_forall_cons l_503001042053052053043 (sem_forall_cons l_50300104205305205305202 (sem_forall_cons l_50300104205305205305203 (sem_forall_cons l_50300104205305205305212 (sem_forall_cons l_50300104205305205305213 (sem_forall_cons l_5030010420530520530530 (sem_forall_cons l_50300104205305205305314 (sem_forall_cons l_50300104205305205305315 (sem_forall_cons l_5030010420530520531420 (sem_forall_cons l_5030010420530520531421 (sem_forall_cons l_503001042053052053143 (sem_forall_cons l_50300104205305205315202 (sem_forall_cons l_50300104205305205315203 (sem_forall_cons l_50300104205305205315212 (sem_forall_cons l_50300104205305205315213 (sem_forall_cons l_50300104205305205315304 (sem_forall_cons l_50300104205305205315305 (sem_forall_cons l_50300104205305205315314 (sem_forall_cons l_503001042053052053153152 (sem_forall_cons l_503001042053052053153153 (sem_forall_cons l_503001042053052142042 (sem_forall_cons l_503001042053052142043 (sem_forall_cons l_503001042053052142052 (sem_forall_cons l_503001042053052142053 (sem_forall_cons l_503001042053052142142 (sem_forall_cons l_503001042053052142143 (sem_forall_cons l_5030010420530521421520 (sem_forall_cons l_5030010420530521421521 (sem_forall_cons l_503001042053052142153 (sem_forall_cons l_503001042053052143042 (sem_forall_cons l_503001042053052143043 (sem_forall_cons l_503001042053052143052 (sem_forall_cons l_503001042053052143053 (sem_forall_cons l_503001042053052143142 (sem_forall_cons l_503001042053052143143 (sem_forall_cons l_503001042053052143152 (sem_forall_cons l_503001042053052143153 sem_forall_nil)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))
+
+end P0181
+
+namespace P0182
+
+end P0182
+end CKLaneM03.EP
+
+

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_round_circle_unlink
 -- name    : BookSixth.round_circle_unlink
--- status  : Open
--- author  : @xiangyazi24
+-- status  : Proved
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:54.443889+00:00
 -- url     : https://prove2.me/theorems/2468ff3e-d023-401f-9c43-3f1e9c88283d
 -- title:

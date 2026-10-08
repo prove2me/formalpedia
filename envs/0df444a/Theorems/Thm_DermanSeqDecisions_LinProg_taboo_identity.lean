@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DermanSeqDecisions_LinProg_taboo_identity
 -- name    : DermanSeqDecisions.LinProg.taboo_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:45:11.671854+00:00
 -- url     : https://prove2.me/theorems/8569d1d1-d40c-473b-bef5-a55128d312d9

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_pow_gap_small_k_tail
 -- name    : ProofsInTheBook.Chapter03.pow_gap_small_k_tail
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:32.313164+00:00
 -- url     : https://prove2.me/theorems/4407331e-956b-4fc6-8711-325956da6e68
 -- title:

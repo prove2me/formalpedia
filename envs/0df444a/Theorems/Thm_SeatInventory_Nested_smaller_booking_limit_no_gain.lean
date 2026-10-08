@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Nested_smaller_booking_limit_no_gain
 -- name    : SeatInventory.Nested.smaller_booking_limit_no_gain
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:45:54.098854+00:00
 -- url     : https://prove2.me/theorems/d3ca871c-c636-45ec-92ba-d114fb3a5e3e

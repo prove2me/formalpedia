@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_log_choose_le_sqrt_third_log_add_min_log4_sub_theta_of_noLargePrimeFactor
 -- name    : ProofsInTheBook.Chapter03.log_choose_le_sqrt_third_log_add_min_log4_sub_theta_of_noLargePrimeFactor
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:09.209812+00:00
 -- url     : https://prove2.me/theorems/d56d4990-c3c2-4c7a-9666-28fc09f29f20
 -- title:

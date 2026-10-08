@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter22Gurvits.firstReduction_realStable_of_allDegree
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:21.165288+00:00
 -- url     : https://prove2.me/submissions/21679f07-0af0-4ad9-9f14-56b47d252f35
 

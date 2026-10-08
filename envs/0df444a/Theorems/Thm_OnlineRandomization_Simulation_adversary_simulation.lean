@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Simulation_adversary_simulation
 -- name    : OnlineRandomization.Simulation.adversary_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:16:51.490308+00:00
 -- url     : https://prove2.me/theorems/c1121132-0ee0-4aff-965e-12ff7fd67190

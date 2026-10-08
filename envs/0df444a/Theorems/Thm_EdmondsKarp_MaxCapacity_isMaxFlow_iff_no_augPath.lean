@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EdmondsKarp_MaxCapacity_isMaxFlow_iff_no_augPath
 -- name    : EdmondsKarp.MaxCapacity.isMaxFlow_iff_no_augPath
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:18:58.97419+00:00
 -- url     : https://prove2.me/theorems/5cd9da8d-58e4-4a7e-af0c-9d5be6eff566

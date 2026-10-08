@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgCompletionSched_ParallelRelease_delay_list_relax_bound
 -- name    : AvgCompletionSched.ParallelRelease.delay_list_relax_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T19:57:37.36899+00:00
 -- url     : https://prove2.me/theorems/d6a9d834-fb23-4922-bd94-79d79eeb1035

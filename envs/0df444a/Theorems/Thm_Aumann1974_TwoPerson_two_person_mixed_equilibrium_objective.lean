@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Aumann1974_TwoPerson_two_person_mixed_equilibrium_objective
 -- name    : Aumann1974.TwoPerson.two_person_mixed_equilibrium_objective
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T10:57:05.695357+00:00
 -- url     : https://prove2.me/theorems/a2e36b73-bf42-4394-a441-ee96d30ca67a

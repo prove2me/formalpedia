@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_FirstOrder_no_deterministic_reformulation
 -- name    : DRCVRP.FirstOrder.no_deterministic_reformulation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:15:06.385868+00:00
 -- url     : https://prove2.me/theorems/ebf40c4c-e21c-4489-b1c0-60a669a63391

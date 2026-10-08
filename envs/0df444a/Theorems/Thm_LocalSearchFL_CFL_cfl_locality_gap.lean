@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_CFL_cfl_locality_gap
 -- name    : LocalSearchFL.CFL.cfl_locality_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:25:16.957418+00:00
 -- url     : https://prove2.me/theorems/06783027-e123-426c-81c5-ab86ccf1f5d7

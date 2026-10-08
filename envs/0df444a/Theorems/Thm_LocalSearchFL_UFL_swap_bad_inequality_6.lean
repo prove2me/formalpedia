@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalSearchFL_UFL_swap_bad_inequality_6
 -- name    : LocalSearchFL.UFL.swap_bad_inequality_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:17:23.229251+00:00
 -- url     : https://prove2.me/theorems/c3524761-45ff-45bd-af52-d6df29b38ce9

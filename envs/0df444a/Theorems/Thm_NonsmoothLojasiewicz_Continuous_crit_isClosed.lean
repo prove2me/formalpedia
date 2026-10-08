@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonsmoothLojasiewicz_Continuous_crit_isClosed
 -- name    : NonsmoothLojasiewicz.Continuous.crit_isClosed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:14:06.910983+00:00
 -- url     : https://prove2.me/theorems/e2ae0d71-bcf5-4c78-977f-80c0c9769905

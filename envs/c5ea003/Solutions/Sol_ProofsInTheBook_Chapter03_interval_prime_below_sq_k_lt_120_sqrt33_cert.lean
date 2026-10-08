@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.interval_prime_below_sq_k_lt_120_sqrt33_cert
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:16.990033+00:00
 -- url     : https://prove2.me/submissions/30ab1fa2-5e59-4ca3-a64b-27815386d7f1
 

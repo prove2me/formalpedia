@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineRandomization_Simulation_one_step_winning
 -- name    : OnlineRandomization.Simulation.one_step_winning
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:36:03.280072+00:00
 -- url     : https://prove2.me/theorems/c03822b8-85d0-465c-a9cc-5d67acc636e3

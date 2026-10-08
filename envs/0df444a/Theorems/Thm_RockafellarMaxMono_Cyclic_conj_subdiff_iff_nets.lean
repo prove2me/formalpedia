@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RockafellarMaxMono_Cyclic_conj_subdiff_iff_nets
 -- name    : RockafellarMaxMono.Cyclic.conj_subdiff_iff_nets
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:12:56.314977+00:00
 -- url     : https://prove2.me/theorems/e82465ca-1a87-4c79-810d-d8962fe54bd1

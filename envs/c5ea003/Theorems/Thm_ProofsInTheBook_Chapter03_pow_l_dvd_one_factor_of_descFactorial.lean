@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_pow_l_dvd_one_factor_of_descFactorial
 -- name    : ProofsInTheBook.Chapter03.pow_l_dvd_one_factor_of_descFactorial
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:27:20.964776+00:00
 -- url     : https://prove2.me/theorems/3c8279ba-8bfb-4a6a-ab3e-297f9ea182ae
 -- title:

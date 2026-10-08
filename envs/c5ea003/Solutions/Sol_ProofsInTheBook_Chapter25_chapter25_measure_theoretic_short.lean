@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter25.chapter25_measure_theoretic_short
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:44:53.12309+00:00
 -- url     : https://prove2.me/submissions/ea1928c3-f0e7-4e6c-aa6d-34f725f39826
 

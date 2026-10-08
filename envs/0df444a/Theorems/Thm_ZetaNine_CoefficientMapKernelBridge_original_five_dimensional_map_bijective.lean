@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZetaNine_CoefficientMapKernelBridge_original_five_dimensional_map_bijective
 -- name    : ZetaNine.CoefficientMapKernelBridge.original_five_dimensional_map_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-04T10:48:58.17684+00:00
 -- url     : https://prove2.me/theorems/ce238b53-8b97-42f6-ac2e-191364bf4a42

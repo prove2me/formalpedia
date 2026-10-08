@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.PlanarMap.PlaneSimpleGraph.fiveColor_planeSimpleGraph
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T19:50:05.009608+00:00
 -- url     : https://prove2.me/submissions/37c6dca3-7f15-45e8-8b8e-3877b49e3e7c
 

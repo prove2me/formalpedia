@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Nested_nested_ge_distinct
 -- name    : SeatInventory.Nested.nested_ge_distinct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:46:04.047877+00:00
 -- url     : https://prove2.me/theorems/18f2638c-7fd8-4b91-a35f-88bb12278236

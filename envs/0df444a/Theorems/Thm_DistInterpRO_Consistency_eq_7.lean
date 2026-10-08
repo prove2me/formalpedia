@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistInterpRO_Consistency_eq_7
 -- name    : DistInterpRO.Consistency.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T19:49:37.1813+00:00
 -- url     : https://prove2.me/theorems/5152900e-22aa-4342-8fe8-e09ab21b3fcf

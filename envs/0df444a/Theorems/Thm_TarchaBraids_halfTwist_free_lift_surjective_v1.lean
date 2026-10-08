@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_halfTwist_free_lift_surjective_v1
 -- name    : TarchaBraids.halfTwist_free_lift_surjective_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-21T18:13:14.70081+00:00
 -- url     : https://prove2.me/theorems/39530bb2-1531-44c0-bd02-e2da5b5e200e

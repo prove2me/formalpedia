@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoulombGauss_divergence_electricField_eq_zero_of_not_mem_closure
 -- name    : CoulombGauss.divergence_electricField_eq_zero_of_not_mem_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-30T18:27:43.900403+00:00
 -- url     : https://prove2.me/theorems/533fb33e-13e6-478d-bb8c-2bd9e0d209a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSets_mconvex_set_iff_base_polyhedron
 -- name    : DiscreteConvex.MConvexSets.mconvex_set_iff_base_polyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:21:05.960219+00:00
 -- url     : https://prove2.me/theorems/8fd74a63-12f0-465f-bcce-8829996b58ec

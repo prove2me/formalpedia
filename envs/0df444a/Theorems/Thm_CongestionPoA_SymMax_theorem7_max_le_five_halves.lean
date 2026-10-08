@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CongestionPoA_SymMax_theorem7_max_le_five_halves
 -- name    : CongestionPoA.SymMax.theorem7_max_le_five_halves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T09:12:05.923585+00:00
 -- url     : https://prove2.me/theorems/af6dbffb-7d37-467f-ab48-7820709b5a52

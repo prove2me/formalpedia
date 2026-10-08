@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_SimpleGames_mainSet_isSolution_iff
 -- name    : TheoryOfGames.SimpleGames.mainSet_isSolution_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:07:52.96419+00:00
 -- url     : https://prove2.me/theorems/afe1d7bf-afb3-40ec-a89f-edd18bc135b7

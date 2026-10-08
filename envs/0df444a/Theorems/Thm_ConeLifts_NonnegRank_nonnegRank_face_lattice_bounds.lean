@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConeLifts_NonnegRank_nonnegRank_face_lattice_bounds
 -- name    : ConeLifts.NonnegRank.nonnegRank_face_lattice_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T21:14:22.237988+00:00
 -- url     : https://prove2.me/theorems/58773c7f-60b9-4599-976a-c95e73081da8

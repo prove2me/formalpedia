@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.below_square_far_theta_gap_of_120_le
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:26:23.660364+00:00
 -- url     : https://prove2.me/submissions/40540c4f-a91e-46d1-a4d2-d9376bad34e4
 

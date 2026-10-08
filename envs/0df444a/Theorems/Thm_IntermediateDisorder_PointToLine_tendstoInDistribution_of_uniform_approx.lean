@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntermediateDisorder_PointToLine_tendstoInDistribution_of_uniform_approx
 -- name    : IntermediateDisorder.PointToLine.tendstoInDistribution_of_uniform_approx
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:04:22.706075+00:00
 -- url     : https://prove2.me/theorems/022ed0de-3fff-492a-991a-c7666a8fa51f

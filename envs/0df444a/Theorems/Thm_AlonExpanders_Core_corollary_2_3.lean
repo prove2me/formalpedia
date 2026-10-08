@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AlonExpanders_Core_corollary_2_3
 -- name    : AlonExpanders.Core.corollary_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:09:37.242258+00:00
 -- url     : https://prove2.me/theorems/df08b885-76ad-426d-9d9d-bc384b479fd5

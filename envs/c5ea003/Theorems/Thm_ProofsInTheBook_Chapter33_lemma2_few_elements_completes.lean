@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_lemma2_few_elements_completes
 -- name    : ProofsInTheBook.Chapter33.lemma2_few_elements_completes
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:40.255232+00:00
 -- url     : https://prove2.me/theorems/0d5375be-254e-432f-9fe8-6d74f5abcc14
 -- title:

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalBAI_LowerBound_sample_complexity_lower_bound
 -- name    : OptimalBAI.LowerBound.sample_complexity_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T01:52:50.99164+00:00
 -- url     : https://prove2.me/theorems/9795f814-627f-4fe1-bcca-a7f285bf3d13

@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_exists_relabel_singleton_smetaniukTriangularNormalized
 -- name    : ProofsInTheBook.Chapter33.exists_relabel_singleton_smetaniukTriangularNormalized
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:01.505469+00:00
 -- url     : https://prove2.me/theorems/19d7f1c9-0067-488a-9390-fe4d14810852
 -- title:

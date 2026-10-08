@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter20_atomicBoundary_mem_squareBoundaryEdgeList_of_square_corners
 -- name    : ProofsInTheBook.Chapter20.atomicBoundary_mem_squareBoundaryEdgeList_of_square_corners
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:46:02.257932+00:00
 -- url     : https://prove2.me/theorems/3a10f6b4-201c-4436-b68d-593bb60d8832
 -- title:

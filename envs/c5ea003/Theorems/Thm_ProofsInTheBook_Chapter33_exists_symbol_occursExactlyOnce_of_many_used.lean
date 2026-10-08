@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter33_exists_symbol_occursExactlyOnce_of_many_used
 -- name    : ProofsInTheBook.Chapter33.exists_symbol_occursExactlyOnce_of_many_used
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:06:01.444371+00:00
 -- url     : https://prove2.me/theorems/034ca7f2-0079-4866-92af-1b8421c7468d
 -- title:

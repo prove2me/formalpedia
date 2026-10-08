@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_Decreasing_bfd_follows_ffd_large_items
 -- name    : BinPacking.Decreasing.bfd_follows_ffd_large_items
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:15:27.622146+00:00
 -- url     : https://prove2.me/theorems/8150f951-cae8-4857-8211-ecb0d781086c

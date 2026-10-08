@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.entropy_lower_le_log_choose
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:08.482823+00:00
 -- url     : https://prove2.me/submissions/323849b3-d4c6-444e-80e9-91f4ac4741a3
 

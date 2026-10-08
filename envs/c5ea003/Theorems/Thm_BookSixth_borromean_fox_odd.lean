@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_BookSixth_borromean_fox_odd
 -- name    : BookSixth.borromean_fox_odd
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:37:23.834842+00:00
 -- url     : https://prove2.me/theorems/b9619dc5-51be-4349-87a8-2d8b071a4e61
 -- title:

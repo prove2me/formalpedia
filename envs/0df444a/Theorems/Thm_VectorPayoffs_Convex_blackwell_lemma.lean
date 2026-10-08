@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VectorPayoffs_Convex_blackwell_lemma
 -- name    : VectorPayoffs.Convex.blackwell_lemma
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T12:07:37.679027+00:00
 -- url     : https://prove2.me/theorems/32ad12ae-0199-4dc8-8ec6-a95dab1cd4fb

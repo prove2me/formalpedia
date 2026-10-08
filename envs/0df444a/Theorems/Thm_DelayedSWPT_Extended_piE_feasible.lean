@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Extended_piE_feasible
 -- name    : DelayedSWPT.Extended.piE_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:08:51.276193+00:00
 -- url     : https://prove2.me/theorems/bcef6b18-18da-4822-bdbf-9e25fbd68da5

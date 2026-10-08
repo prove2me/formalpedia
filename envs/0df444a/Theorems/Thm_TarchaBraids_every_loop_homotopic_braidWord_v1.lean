@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_every_loop_homotopic_braidWord_v1
 -- name    : TarchaBraids.every_loop_homotopic_braidWord_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-21T19:56:59.064876+00:00
 -- url     : https://prove2.me/theorems/0fa0a598-6b37-4d0f-a8f0-f491f0b924bb

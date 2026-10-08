@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_BaseStock_property_b
 -- name    : ServiceParts.BaseStock.property_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T21:30:24.150428+00:00
 -- url     : https://prove2.me/theorems/a107cddb-809e-48ab-ac85-396ad574e544

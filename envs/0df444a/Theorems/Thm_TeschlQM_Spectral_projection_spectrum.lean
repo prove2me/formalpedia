@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Spectral_projection_spectrum
 -- name    : TeschlQM.Spectral.projection_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:32:10.937963+00:00
 -- url     : https://prove2.me/theorems/21fabd95-48ae-4288-898a-75f00603f462

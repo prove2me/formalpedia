@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.filledCells_relabelPartial
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:48.050858+00:00
 -- url     : https://prove2.me/submissions/06d363d3-dff4-4abf-890a-e62df8d6f249
 

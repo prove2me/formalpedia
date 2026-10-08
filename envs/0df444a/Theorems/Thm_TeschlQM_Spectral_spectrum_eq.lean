@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Spectral_spectrum_eq
 -- name    : TeschlQM.Spectral.spectrum_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:31:40.252361+00:00
 -- url     : https://prove2.me/theorems/14e56ddd-d8d9-4849-9262-e4d9c9a8b2e5

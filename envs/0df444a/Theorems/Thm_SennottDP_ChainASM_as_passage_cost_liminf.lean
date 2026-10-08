@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_as_passage_cost_liminf
 -- name    : SennottDP.ChainASM.as_passage_cost_liminf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:42:25.456986+00:00
 -- url     : https://prove2.me/theorems/351c29fc-318a-441f-98b1-e93b74985209

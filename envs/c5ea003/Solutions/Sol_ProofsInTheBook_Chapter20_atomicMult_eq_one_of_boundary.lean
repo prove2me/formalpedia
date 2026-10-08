@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.atomicMult_eq_one_of_boundary
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:50:56.284595+00:00
 -- url     : https://prove2.me/submissions/c68e03d8-cca2-4bea-b7cf-6da6fb2b2bf9
 

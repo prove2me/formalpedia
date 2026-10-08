@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_Semicontinuous_san_continuous
 -- name    : MDPFinance.Semicontinuous.san_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T20:29:12.388694+00:00
 -- url     : https://prove2.me/theorems/5a1ec6f2-5509-4a40-bee8-5af3acf25a37

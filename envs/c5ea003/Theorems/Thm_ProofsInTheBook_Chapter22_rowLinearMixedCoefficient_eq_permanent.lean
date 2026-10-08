@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter22_rowLinearMixedCoefficient_eq_permanent
 -- name    : ProofsInTheBook.Chapter22.rowLinearMixedCoefficient_eq_permanent
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:04:55.081756+00:00
 -- url     : https://prove2.me/theorems/256ed68a-0980-4ebd-b7be-98dc36ead6a3
 -- title:

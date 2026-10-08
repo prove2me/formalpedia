@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Combinatorics_uniform_family_propertyB_of_bounded_incidence
 -- name    : Combinatorics.uniform_family_propertyB_of_bounded_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T18:45:10.029986+00:00
 -- url     : https://prove2.me/theorems/f0aaa057-7267-40e9-bf5d-704d5a895e5d

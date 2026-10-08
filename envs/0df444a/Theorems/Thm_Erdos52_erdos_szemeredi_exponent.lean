@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Erdos52_erdos_szemeredi_exponent
 -- name    : Erdos52.erdos_szemeredi_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-25T16:31:25.226846+00:00
 -- url     : https://prove2.me/theorems/9496eea4-b202-40f0-9c81-c8da6a6ff35b

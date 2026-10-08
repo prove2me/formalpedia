@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalcanDDA_NAM_theorem5_2_pdim_lower_bound
 -- name    : BalcanDDA.NAM.theorem5_2_pdim_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:37:28.174006+00:00
 -- url     : https://prove2.me/theorems/d05b3da6-f862-42f4-b5cd-e05ac1a61582

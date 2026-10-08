@@ -1,0 +1,891 @@
+-- Prove2me | solution 1 for ThreeSumApsp.Spec.chunkTab_cover
+-- status  : ACCEPTED   (prove)
+-- author  : @wurtle
+-- created : 2026-10-06T08:04:27.027369+00:00
+-- url     : https://prove2.me/submissions/ec8fb3e7-0b4b-41ac-883c-e2c5fed98154
+
+/-
+Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+SPDX-License-Identifier: Apache-2.0
+-/
+
+import Definitions.Def_APSPSource_ThreeSumApsp_Spec_Sec3_Theorem17_Chunks
+import Definitions.Def_APSPSource_ThreeSumApsp_Util_List
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.Group.Multiset
+import Mathlib.Algebra.Order.Floor.Div
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Data.List.GetD
+import Mathlib.Data.Nat.Count
+import Mathlib.Data.Nat.Log
+
+set_option autoImplicit false
+set_option relaxedAutoImplicit false
+set_option Elab.async false
+
+
+
+/-!
+# Ceilings of quotients and logarithms, floors and ceilings of roots
+
+General facts about natural and real numbers. The quotient of two natural numbers, rounded up, is
+Mathlib's `a ⌈/⌉ b`. It is computed by `Nat.ceilDiv_eq_add_pred_div : a ⌈/⌉ b = (a + b - 1) / b`.
+It is the ceiling of the real quotient (`Nat.ceil_div_eq_ceilDiv`) and the least `k` with
+`a ≤ k * b` (`Nat.ceilDiv_le_iff`, `Nat.lt_ceilDiv_iff`), so `a ≤ a ⌈/⌉ b * b < a + b`
+(`Nat.le_ceilDiv_mul`, `Nat.ceilDiv_mul_lt`). The power of `b` with exponent `⌈log_b n⌉` is at most
+`b * n` (`Nat.pow_clog_le_mul`). A natural number is compared with an `e`-th root by its `e`-th
+power (`Real.natCast_le_rpow_inv_iff`, `Real.rpow_inv_le_natCast_iff`). `cbrtCeil n` is the cube
+root of `n`, rounded up.
+-/
+
+public section
+
+namespace Nat
+
+/-! ## The ceiling of a quotient of natural numbers -/
+
+/-- `a ⌈/⌉ b ≤ k` says that `k` pieces of size `b` cover `a`. Mathlib's `ceilDiv_le_iff_le_mul` has
+`b * k` on the right. -/
+theorem ceilDiv_le_iff {a b k : ℕ} (hb : 0 < b) : a ⌈/⌉ b ≤ k ↔ a ≤ k * b := by
+  rw [ceilDiv_le_iff_le_mul hb, Nat.mul_comm]
+
+/-- `i < a ⌈/⌉ b` says that `i` pieces of size `b` do not cover `a`. -/
+theorem lt_ceilDiv_iff {a b i : ℕ} (hb : 0 < b) : i < a ⌈/⌉ b ↔ i * b < a := by
+  rw [← Nat.not_le, ceilDiv_le_iff hb, Nat.not_le]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The ceiling of a logarithm
+
+`Real.natCeil_logb_natCast : ⌈Real.logb b n⌉₊ = Nat.clog b n` passes from real to natural numbers,
+and `Nat.le_pow_clog : 1 < b → x ≤ b ^ Nat.clog b x` is the lower bound. -/
+
+
+
+
+
+
+
+
+
+
+
+end Nat
+
+namespace Real
+
+/-! ## Roots
+
+The `e`-th root of `t` is written `(t : ℝ) ^ ((e : ℝ)⁻¹)`. With these two lemmas,
+`Nat.le_floor_iff` and `Nat.ceil_le`, its floor and its ceiling are described by powers of natural
+numbers. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Real
+
+namespace ThreeSumApsp
+
+
+
+
+end ThreeSumApsp
+
+end
+
+
+
+/-!
+# Lists: entries with a default, blocks, sums, counting, sorted lists
+
+General facts about lists. Arrays are lists here, and entry `i` of a list is `l.getD i d`. The
+sections:
+
+* Entries with a default: `getD` of a list that was appended to, cut, tabulated, mapped or changed
+  in one place.
+* Blocks: `(List.range n).flatMap f` puts the blocks `f 0, …, f (n - 1)` one after the other. Where
+  an entry of a block stands, for blocks of any lengths and for blocks of one length.
+* Sums: partial sums, the triangle inequality, and the sum over a list that enumerates the image of
+  a finite set.
+* A running minimum.
+* Counting: how often a value occurs among the first entries of a list, or among the values of a
+  function on `Fin n`; the list of the `j < n` with a property.
+* Sorted lists: what `dropWhile` and `takeWhile` leave of a strictly increasing list; first
+  occurrences in a weakly increasing list.
+* Two notions of this project: `AbsLe l U` says that all members of `l` have absolute value at most
+  `U`, and `sumLists` is the entrywise sum of lists of one length.
+-/
+
+@[expose] public section
+
+namespace List
+
+variable {α β : Type*}
+
+/-! ## Entries with a default -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Blocks one after the other -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Sums -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section
+
+variable {R : Type*} [AddCommGroup R] [LinearOrder R] [IsOrderedAddMonoid R]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## A running minimum -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Counting -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- The members with `t a < z + 1` are those with `t a < z` and those with `t a = z`. -/
+theorem length_filter_lt_succ (t : α → ℕ) (z : ℕ) (l : List α) :
+    (l.filter fun a => decide (t a < z + 1)).length =
+      (l.filter fun a => decide (t a < z)).length +
+        (l.filter fun a => decide (t a = z)).length := by
+  simp only [← List.countP_eq_length_filter]
+  induction l with
+  | nil => rfl
+  | cons a l ih =>
+    simp only [List.countP_cons, ih, decide_eq_true_eq]
+    split_ifs <;> omega
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Sorted lists -/
+
+section Sorted
+
+variable [LinearOrder α]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Sorted
+
+end List
+
+namespace ThreeSumApsp
+
+variable {α β : Type*}
+
+/-! ## Lists of integers that are bounded in absolute value -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The entrywise sum of lists -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSumApsp
+
+end
+
+
+
+/-!
+# The table of the chunks (proof of Theorem 17)
+
+"For ϱ ∈ ℤ_p let W_ϱ be the set of edges (a,b) ∈ A × B with w(a,b) ≡ ϱ (mod p), and cut it into
+chunks of at most n²/√D query pairs."  The routine lists the pairs class after class (`sortedIdx`).
+Then a class is a segment of the list, from `classStart ϱ` to `classStart (ϱ + 1)`, and a chunk is a
+segment of a class.  The table `chunkTab` has one entry for each chunk: its residue, the place where
+it starts, and its number of pairs.
+
+* The list has every pair once (`sortedIdx_nodup`, `classStart_eq_sq`), and the places of a class
+  hold pairs of that class (`getD_sortedIdx_class`).
+* An entry of the table is a nonempty segment of at most `cap` places (`chunkTab_entry`) whose pairs
+  have the residue of the entry (`chunkTab_class`).
+* The chunks follow each other (`chunkTab_pairwise`), so every place lies in exactly one chunk
+  (`chunkTab_cover`, `chunkTab_unique`).
+* "There are at most p + √D ≤ 2√D chunks in all" (`length_chunkTab_le`).
+-/
+
+@[expose] public section
+
+namespace ThreeSumApsp.Spec
+
+variable {n p cap : ℕ} {RAB : List ℕ}
+
+/-! ## The classes and the list of all the pairs -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The starts of the classes -/
+
+
+
+
+
+
+
+
+/-- The next class starts where the class ends. -/
+theorem classStart_succ (n : ℕ) (RAB : List ℕ) (rho : ℕ) :
+    classStart n RAB (rho + 1) = classStart n RAB rho + (classIdx n RAB rho).length :=
+  List.sum_range_succ _ _
+
+
+
+
+
+
+/-- The list `classStarts` holds the starts of the classes. -/
+theorem getD_classStarts_eq (n p : ℕ) (RAB : List ℕ) {rho : ℕ} (h : rho ≤ p) :
+    (classStarts n p RAB).getD rho 0 = classStart n RAB rho :=
+  List.getD_map_range _ (Nat.lt_succ_of_le h) 0
+
+
+
+
+
+
+/-- The class `p` starts after the pairs with a residue below `p`. -/
+theorem classStart_eq_length_filter (n : ℕ) (RAB : List ℕ) (p : ℕ) :
+    classStart n RAB p =
+      ((List.range (n * n)).filter fun i => decide (RAB.getD i 0 < p)).length := by
+  induction p with
+  | zero => simp [classStart]
+  | succ p ih =>
+    rw [classStart_succ, ih, List.length_filter_lt_succ fun i => RAB.getD i 0]
+    rfl
+
+/-- All the pairs are listed if all the residues are below `p`. -/
+theorem classStart_eq_sq (hlt : ∀ i < n * n, RAB.getD i 0 < p) : classStart n RAB p = n * n := by
+  rw [classStart_eq_length_filter, List.filter_eq_self.2, List.length_range]
+  exact fun i hi => decide_eq_true (hlt i (List.mem_range.1 hi))
+
+/-- A place below the start of the class `p` lies in one of the classes before. -/
+theorem exists_class {j : ℕ} (hj : j < classStart n RAB p) :
+    ∃ rho < p, classStart n RAB rho ≤ j ∧ j < classStart n RAB (rho + 1) := by
+  induction p with
+  | zero => exact absurd hj (Nat.not_lt_zero j)
+  | succ p ih =>
+    by_cases h : j < classStart n RAB p
+    · obtain ⟨rho, hrho, hseg⟩ := ih h
+      exact ⟨rho, by omega, hseg⟩
+    · exact ⟨p, by omega, by omega, hj⟩
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The chunks -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- The table, in terms of the starts of the classes. -/
+theorem chunkTab_eq (n p cap : ℕ) (RAB : List ℕ) :
+    chunkTab n p cap RAB = (List.range p).flatMap fun rho =>
+      (List.range ((classIdx n RAB rho).length ⌈/⌉ cap)).map (chunkAt n cap RAB rho) := by
+  unfold chunkTab chunkTabOf
+  refine List.flatMap_congr fun rho hrho => ?_
+  have h := List.mem_range.1 hrho
+  rw [getD_classStarts_eq n p RAB (by omega), getD_classStarts_eq n p RAB (by omega), chunksOf,
+    classStart_succ, Nat.add_sub_cancel_left]
+  rfl
+
+/-- The entries of the table: chunk number `i` of the class `rho`. -/
+theorem mem_chunkTab (x : Chunk) :
+    x ∈ chunkTab n p cap RAB ↔
+      ∃ rho < p, ∃ i < (classIdx n RAB rho).length ⌈/⌉ cap, x = chunkAt n cap RAB rho i := by
+  simp only [chunkTab_eq, List.mem_flatMap, List.mem_range, List.mem_map, eq_comm (a := x)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- Every place lies in a chunk. -/
+theorem chunkTab_cover_sourceProof (hcap : 1 ≤ cap) (hlt : ∀ i < n * n, RAB.getD i 0 < p) {j : ℕ}
+    (hj : j < n * n) : ∃ x ∈ chunkTab n p cap RAB, x.Contains j := by
+  -- The place `j` lies in a class `rho`, and there in chunk number `i = (j - start) / cap`.
+  rw [← classStart_eq_sq hlt] at hj
+  obtain ⟨rho, hrho, hlo, hhi⟩ := exists_class hj
+  rw [classStart_succ] at hhi
+  have hdiv := Nat.div_add_mod' (j - classStart n RAB rho) cap
+  have hmod := Nat.mod_lt (j - classStart n RAB rho) hcap
+  generalize (j - classStart n RAB rho) / cap = i at hdiv
+  have hi : i < (classIdx n RAB rho).length ⌈/⌉ cap := (Nat.lt_ceilDiv_iff hcap).2 (by omega)
+  refine ⟨_, (mem_chunkTab _).2 ⟨rho, hrho, i, hi, rfl⟩, ?_⟩
+  -- `start + i cap ≤ j < start + i cap + min cap (len - i cap)`, from `hdiv`, `hmod` and `hhi`.
+  simp only [Chunk.Contains, chunkAt]
+  omega
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSumApsp.Spec
+
+end
+
+
+theorem solution : ∀ {n p cap : Nat} {RAB : List.{0} Nat},
+  @LE.le.{0} Nat instLENat (@OfNat.ofNat.{0} Nat (nat_lit 1) (instOfNatNat (nat_lit 1))) cap →
+    (∀ (i : Nat),
+        @LT.lt.{0} Nat instLTNat i (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) n n) →
+          @LT.lt.{0} Nat instLTNat
+            (@List.getD.{0} Nat RAB i (@OfNat.ofNat.{0} Nat (nat_lit 0) (instOfNatNat (nat_lit 0)))) p) →
+      ∀ {j : Nat},
+        @LT.lt.{0} Nat instLTNat j (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) n n) →
+          ∃ (x : ThreeSumApsp.Spec.Chunk),
+            And
+              (@Membership.mem.{0, 0} ThreeSumApsp.Spec.Chunk (List.{0} ThreeSumApsp.Spec.Chunk)
+                (@List.instMembership.{0} ThreeSumApsp.Spec.Chunk) (ThreeSumApsp.Spec.chunkTab n p cap RAB) x)
+              (x.Contains j) := by
+  exact @ThreeSumApsp.Spec.chunkTab_cover_sourceProof
+
+#print axioms solution

@@ -1,0 +1,244 @@
+-- Prove2me | Definitions.Def_PalmQueueing_Formulas_OnOffSources
+-- name    : PalmQueueing_Formulas_OnOffSources
+-- status  : Definition
+-- author  : @mikedeng1
+-- created : 2026-10-02T00:56:38.770391+00:00
+-- url     : https://prove2.me/theorems/5cf71a57-6ea2-4ccd-9f17-2cacde0d78e1
+-- title:
+--   The superposition of on-off fluid sources
+-- statement:
+--   The model Property 3.5.1 and Lemmas 3.5.1-3.5.2 are about.
+--
+--   $k$ independent sources feed a single server fluid queue of rate $c$. Source $i$ alternates on
+--   periods $X^i_n$ and off periods $Y^i_n$; $T^i_n$ is the start of its $n$-th on period, $N^i$ the
+--   point process of those starts with intensity $\lambda_i$, and the fluid it brings on
+--   $(T^i_n, T^i_n + t]$, $0 \le t \le X^i_n$, is $F^i_n(t)$ for increasing continuous random
+--   functions $F^i_n$, no fluid at all being brought during the off periods:
+--   $$ A^i_{s,t} = \sum_{n \in \mathbb{Z}} \mathbf{1}_{s < T^i_n \le t}\,
+--   F^i_n\big((t - T^i_n) \wedge X^i_n\big), \qquad (s \le t) . $$
+--   The sources are independent $\theta_t$-compatible on-off processes (Exercise 1.4.2):
+--   $T^i_{n+1} = T^i_n + X^i_n + Y^i_n$, with $X^i_n$, $Y^i_n$, $F^i_n$ marks of $N^i$. For each $i$
+--   the on periods, the off periods and the $\{F^i_n\}$ are each i.i.d. and the three sequences are
+--   independent. $A = \sum_i A^i$ is the arrival measure, $C_{s,t} = c(t-s)$ the service
+--   measure, $\alpha_i$ the intensity of $A^i$ and $\alpha = \sum_i \alpha_i$ that of $A$. By Theorem
+--   2.7.1, whenever $\alpha < c$ there is a stationary workload process $\{W(t)\}$.
+--
+--   $\xi^i(t)$ is the indicator of the activity of source $i$ (value $1$ if $T^i_n < t \le T^i_n + X^i_n$
+--   for some $n$, and $0$ otherwise), and $p_i = \lambda_i E^0_{N^i}[X^i_0]$ is the probability that
+--   source $i$ is on.
+--
+--   **Property 3.5.1** assumes in addition that $\alpha < c$, that the off periods $Y^i_n$ are
+--   exponentially distributed, and that $F^i_n(t) > ct$ for all $t$ — the last so that the buffer is
+--   non-empty as soon as at least one source has been on for a positive time. Then
+--   $$ E[W(0)] = \frac{\sum_{i=1}^{k}(C_i - \alpha_i D_i)}{c - \alpha} , \tag{3.5.26} $$
+--   with
+--   $$ C_i = \lambda_i E^0_{N^i}\Big[\int_0^{X^i_0}(A_{0,t} - ct)A^i(dt)\Big], \qquad
+--   D_i = \lambda_i E^0_{N^i}\Big[\int_0^{X^i_0}(A_{0,t} - ct)dt\Big] . \tag{3.5.27-28} $$
+--   **Formalization Note.** $P$ is a $\theta_t$-invariant probability. $P^0_{N^i}$ is the Palm
+--   probability of $N^i$ and $P^0_{A^i}$ that of the random measure $A^i$, both by the Matthes
+--   definition: $\alpha_i t\,P^0_{A^i}(B) = E[\int_{(0,t]} \mathbf{1}_B(\theta_s)A^i(ds)]$. The i.i.d.
+--   and independence assumptions on the marks are stated under $P^0_{N^i}$ (where the marks of a
+--   stationary marked point process are i.i.d.), the independence of the sources under $P$. $A^i$ is
+--   pinned down by $A^i((T^i_n, T^i_n + t]) = F^i_n(t)$ for $0 \le t \le X^i_n$ and zero mass on the
+--   off periods. $\{W(t)\}$ is a measurable, $\theta_t$-compatible solution of the fluid-queue equation
+--   (2.7.6) for $A = \sum_i A^i$ and $C_{s,t} = c(t-s)$, $P$-a.s. Exponentiality of the off periods is
+--   written as the tail $P^0_{N^i}(Y^i_0 > t) = e^{-\nu_i t}$, and $F^i_n(t) > ct$ is required for
+--   $t > 0$ (both sides vanish at $t = 0$).
+-- source:
+--   Baccelli & Bremaud, Elements of Queueing Theory: Palm Martingale Calculus and Stochastic Recurrences, 2nd ed., Springer 2003, §3.5.3, pp. 244-246
+
+import Mathlib
+import Definitions.Def_PalmQueueing_Palm_PointProcess
+
+/-!
+# The superposition of on-off fluid sources (§3.5.3, pp.244-246)
+
+The model Property 3.5.1 and Lemmas 3.5.1-3.5.2 are about. `k` independent on-off point processes
+`N^i` (Exercise 1.4.2, p.35) feed a single server fluid queue of rate `c`. Source `i` has points
+`T^i_n`, the instants it switches on, and marks `(X^i_n, Y^i_n)`, the on period starting at `T^i_n`
+and the off period after it, so that `T^i_{n+1} = T^i_n + X^i_n + Y^i_n`. The fluid it brings on
+`(T^i_n, T^i_n + t]`, `0 ≤ t ≤ X^i_n`, is `F^i_n(t)` for an increasing continuous random function
+`F^i_n`, and no fluid at all is brought during the off periods, so that
+
+`A^i_{s,t} = Σ_n 1_{s < T^i_n ≤ t} F^i_n( (t − T^i_n) ∧ X^i_n )`.
+
+`α_i`, the intensity of `A^i`, is positive and finite. The on periods, the off periods and the
+`{F^i_n}` are each i.i.d. (under the Palm probability of `N^i`, where the marks of a stationary
+marked point process are i.i.d.) and the three sequences are independent. `A = Σ_i A^i` is the
+arrival measure, `C_{s,t} = c(t − s)` the service measure, `α = Σ_i α_i`, and `{W(t)}` is the
+stationary workload that Theorem 2.7.1 supplies when `α < c`.
+
+Property 3.5.1 assumes in addition exponential off periods and `F^i_n(t) > ct` for all `t > 0`.
+-/
+
+namespace PalmQueueing.Formulas
+
+open MeasureTheory Filter Topology
+open PalmQueueing.Palm
+
+variable {Ω : Type*} [MeasurableSpace Ω]
+
+/-- The σ-field generated by one on-off source: its points `T_n`, on periods `X_n`, off periods
+`Y_n` and fluid functions `F_n`, over all `n ∈ ℤ`. Independence of the sources is independence of
+these σ-fields. -/
+def sourceSigma (T X Y : ℤ → Ω → ℝ) (F : ℤ → Ω → ℝ → ℝ) : MeasurableSpace Ω :=
+  ⨆ n : ℤ, (MeasurableSpace.comap (T n) inferInstance ⊔ MeasurableSpace.comap (X n) inferInstance ⊔
+    MeasurableSpace.comap (Y n) inferInstance ⊔ MeasurableSpace.comap (F n) inferInstance)
+
+/-- A superposition of `k` independent on-off fluid sources feeding a single server fluid queue of
+rate `c` (§3.5.3, pp.244-245; Exercise 1.4.2, p.35). -/
+structure OnOffModel (Ω : Type*) [MeasurableSpace Ω] (k : ℕ) where
+  /-- The flow. -/
+  θ : Flow Ω
+  /-- The stationary probability. -/
+  P : Measure Ω
+  /-- It is a probability. -/
+  isProb : IsProbabilityMeasure P
+  /-- It is `θ_t`-invariant. -/
+  invariant : θ.Invariant P
+  /-- `N^i`, the point process of the starts of source `i`'s on periods. -/
+  N : Fin k → PointProcess Ω
+  /-- Each `N^i` is `θ_t`-compatible. -/
+  compatible : ∀ i, (N i).Compatible θ
+  /-- `λ_i`, the intensity of `N^i`. -/
+  lam : Fin k → ℝ
+  /-- `λ_i` is the (finite, positive) intensity of `N^i`. -/
+  intensity : ∀ i, IsIntensity (N i) P (lam i)
+  /-- `P⁰_{N^i}`, the Palm probability of `N^i`. -/
+  P0N : Fin k → Measure Ω
+  /-- Each is the Palm probability of `N^i`. -/
+  palmN : ∀ i, IsPalmProbability θ (N i) P (P0N i) (lam i)
+  /-- `X^i_n`, the on period starting at `T^i_n`. -/
+  onPeriod : Fin k → ℤ → Ω → ℝ
+  /-- On periods are positive. -/
+  onPeriod_pos : ∀ i n ω, 0 < onPeriod i n ω
+  /-- `Y^i_n`, the off period following it. -/
+  offPeriod : Fin k → ℤ → Ω → ℝ
+  /-- Off periods are positive. -/
+  offPeriod_pos : ∀ i n ω, 0 < offPeriod i n ω
+  /-- `{X^i_n}` is a sequence of marks of `N^i`. -/
+  onPeriod_marks : ∀ i, IsMarkSequence θ (N i) (onPeriod i)
+  /-- `{Y^i_n}` is a sequence of marks of `N^i`. -/
+  offPeriod_marks : ∀ i, IsMarkSequence θ (N i) (offPeriod i)
+  /-- `T^i_{n+1} = T^i_n + X^i_n + Y^i_n` (Exercise 1.4.2). -/
+  cycle : ∀ i n ω, (N i).T (n + 1) ω = (N i).T n ω + onPeriod i n ω + offPeriod i n ω
+  /-- `F^i_n`, the fluid brought by source `i` during the first `t` time units of its `n`-th on
+  period. -/
+  Fn : Fin k → ℤ → Ω → ℝ → ℝ
+  /-- `F^i_n` is increasing. -/
+  Fn_mono : ∀ i n ω, Monotone (Fn i n ω)
+  /-- `F^i_n` is continuous. -/
+  Fn_cont : ∀ i n ω, Continuous (Fn i n ω)
+  /-- No fluid on an empty interval. -/
+  Fn_zero : ∀ i n ω, Fn i n ω 0 = 0
+  /-- `{F^i_n}` is a sequence of marks of `N^i`. -/
+  Fn_marks : ∀ i, IsMarkSequence θ (N i) (Fn i)
+  /-- `A^i(ω, dt)`, the random measure of the fluid brought by source `i`. -/
+  AImeas : Fin k → Ω → Measure ℝ
+  /-- `ω ↦ A^i(ω, B)` is a random variable. -/
+  AImeas_measurable : ∀ (i : Fin k) (B : Set ℝ), MeasurableSet B →
+    Measurable fun ω => AImeas i ω B
+  /-- The fluid brought on `(T^i_n, T^i_n + t]`, `0 ≤ t ≤ X^i_n`, is `F^i_n(t)`. -/
+  AImeas_on : ∀ (i : Fin k) (n : ℤ) (ω : Ω) (t : ℝ), 0 ≤ t → t ≤ onPeriod i n ω →
+    AImeas i ω (Set.Ioc ((N i).T n ω) ((N i).T n ω + t)) = ENNReal.ofReal (Fn i n ω t)
+  /-- No fluid at all is brought during the off periods. -/
+  AImeas_off : ∀ (i : Fin k) (n : ℤ) (ω : Ω),
+    AImeas i ω (Set.Ioc ((N i).T n ω + onPeriod i n ω) ((N i).T (n + 1) ω)) = 0
+  /-- `α_i`, the intensity of `A^i`. -/
+  alphaI : Fin k → ℝ
+  /-- `α_i` is positive and finite and is the intensity of `A^i`: `α_i = E[A^i((0,1])]`. -/
+  alphaI_intensity : ∀ i, 0 < alphaI i ∧
+    ENNReal.ofReal (alphaI i) = ∫⁻ ω, AImeas i ω (Set.Ioc (0 : ℝ) 1) ∂P
+  /-- `P⁰_{A^i}`, the Palm probability with respect to the random measure `A^i`. -/
+  P0A : Fin k → Measure Ω
+  /-- `P⁰_{A^i}` is the Palm probability of `A^i` (the Matthes definition for a random measure):
+  for every `t > 0` and measurable `B`, `α_i t P⁰_{A^i}(B) = E[ ∫_{(0,t]} 1_B(θ_s) A^i(ds) ]`. -/
+  palmA : ∀ i, IsProbabilityMeasure (P0A i) ∧
+    ∀ B : Set Ω, MeasurableSet B → ∀ t : ℝ, 0 < t →
+      ENNReal.ofReal (alphaI i * t) * P0A i B =
+        ∫⁻ ω, ∫⁻ s in Set.Ioc (0 : ℝ) t,
+          Set.indicator B (fun _ => (1 : ENNReal)) (θ s ω) ∂(AImeas i ω) ∂P
+  /-- The sources are independent under `P`. -/
+  indep_sources : ProbabilityTheory.iIndep
+    (fun i : Fin k => sourceSigma (N i).T (onPeriod i) (offPeriod i) (Fn i)) P
+  /-- The on periods `{X^i_n}` are i.i.d. -/
+  on_iid : ∀ i, ProbabilityTheory.iIndepFun (fun n => onPeriod i n) (P0N i) ∧
+    ∀ n, ProbabilityTheory.IdentDistrib (onPeriod i n) (onPeriod i 0) (P0N i) (P0N i)
+  /-- The off periods `{Y^i_n}` are i.i.d. -/
+  off_iid : ∀ i, ProbabilityTheory.iIndepFun (fun n => offPeriod i n) (P0N i) ∧
+    ∀ n, ProbabilityTheory.IdentDistrib (offPeriod i n) (offPeriod i 0) (P0N i) (P0N i)
+  /-- The sequence `{F^i_n}` is i.i.d. -/
+  Fn_iid : ∀ i, ProbabilityTheory.iIndepFun (fun n => Fn i n) (P0N i) ∧
+    ∀ n, ProbabilityTheory.IdentDistrib (Fn i n) (Fn i 0) (P0N i) (P0N i)
+  /-- The last three sequences are independent. -/
+  three_indep : ∀ i, ProbabilityTheory.iIndep
+    (![⨆ n : ℤ, MeasurableSpace.comap (onPeriod i n) inferInstance,
+       ⨆ n : ℤ, MeasurableSpace.comap (offPeriod i n) inferInstance,
+       ⨆ n : ℤ, MeasurableSpace.comap (Fn i n) inferInstance] : Fin 3 → MeasurableSpace Ω) (P0N i)
+  /-- `c`, the server's rate. -/
+  c : ℝ
+  /-- The stability condition `α < c`, with `α = Σ_i α_i`. -/
+  stable : ∑ i, alphaI i < c
+  /-- `ξ^i(t)`, the indicator of the activity of source `i`: `1` if `T^i_n < t ≤ T^i_n + X^i_n`
+  for some `n`, and `0` otherwise (p.245). -/
+  xi : Fin k → ℝ → Ω → ℝ
+  /-- `ξ^i` is the indicator the page describes. -/
+  xi_def : ∀ (i : Fin k) (t : ℝ) (ω : Ω),
+    ((∃ n : ℤ, (N i).T n ω < t ∧ t ≤ (N i).T n ω + onPeriod i n ω) → xi i t ω = 1) ∧
+    ((¬ ∃ n : ℤ, (N i).T n ω < t ∧ t ≤ (N i).T n ω + onPeriod i n ω) → xi i t ω = 0)
+  /-- `p_i = λ_i E⁰_{N^i}[X^i_0]` (p.245). -/
+  p : Fin k → ℝ
+  /-- Its definition. -/
+  p_def : ∀ i, p i = lam i * ∫ ω, onPeriod i 0 ω ∂(P0N i)
+  /-- `{W(t)}`, the stationary workload of the fluid queue with arrival measure `A = Σ_i A^i` and
+  service measure `C_{s,t} = c(t − s)`. -/
+  W : ℝ → Ω → ℝ
+  /-- Each `W(t)` is a random variable. -/
+  W_measurable : ∀ t, Measurable (W t)
+  /-- `{W(t)}` is `θ_t`-compatible: it is the stationary workload. -/
+  W_stationary : IsCompatible θ W
+  /-- `{W(t)}` solves the fluid-queue equation `(2.7.6)` with `A_{s,t} = Σ_i A^i([s,t))` and
+  `C_{s,t} = c(t − s)`, `P`-almost surely. -/
+  W_workload : ∀ᵐ ω ∂P, ∀ s t : ℝ, s ≤ t →
+    W t ω = max (W s ω + (∑ i, (AImeas i ω (Set.Ico s t)).toReal) - c * (t - s))
+      (sSup {x | ∃ u : ℝ, s ≤ u ∧ u ≤ t ∧
+        x = (∑ i, (AImeas i ω (Set.Ico u t)).toReal) - c * (t - u)})
+
+/-- `A^i_{s,t}`, the fluid brought by source `i` on `[s, t)`. -/
+noncomputable def OnOffModel.AI {k : ℕ} (M : OnOffModel Ω k) (i : Fin k) (s t : ℝ) (ω : Ω) : ℝ :=
+  (M.AImeas i ω (Set.Ico s t)).toReal
+
+/-- `A_{s,t} = Σ_i A^i_{s,t}`, the total fluid arriving on `[s, t)`. -/
+noncomputable def OnOffModel.Atot {k : ℕ} (M : OnOffModel Ω k) (s t : ℝ) (ω : Ω) : ℝ :=
+  ∑ i, M.AI i s t ω
+
+/-- The integrand of `C_i` in `(3.5.27)`: `∫_0^{X^i_0} (A_{0,t} − ct) A^i(dt)`, against source
+`i`'s own arrival measure. -/
+noncomputable def OnOffModel.Cintegrand {k : ℕ} (M : OnOffModel Ω k) (i : Fin k) (ω : Ω) : ℝ :=
+  ∫ t in Set.Ioc (0 : ℝ) (M.onPeriod i 0 ω), (M.Atot 0 t ω - M.c * t) ∂(M.AImeas i ω)
+
+/-- `C_i` of `(3.5.27)`: `C_i = λ_i E⁰_{N^i}[ ∫_0^{X^i_0} (A_{0,t} − ct) A^i(dt) ]`. -/
+noncomputable def OnOffModel.Cconst {k : ℕ} (M : OnOffModel Ω k) (i : Fin k) : ℝ :=
+  M.lam i * ∫ ω, M.Cintegrand i ω ∂(M.P0N i)
+
+/-- `D_i` of `(3.5.28)`: `D_i = λ_i E⁰_{N^i}[ ∫_0^{X^i_0} (A_{0,t} − ct) dt ]`, the same integrand
+against Lebesgue measure. -/
+noncomputable def OnOffModel.Dconst {k : ℕ} (M : OnOffModel Ω k) (i : Fin k) : ℝ :=
+  M.lam i * ∫ ω, (∫ t in Set.Ioc (0 : ℝ) (M.onPeriod i 0 ω),
+      (M.Atot 0 t ω - M.c * t) ∂(volume : Measure ℝ)) ∂(M.P0N i)
+
+/-- The hypotheses of **Property 3.5.1** (p.245) beyond `α < c`: for all `i`, the off periods
+`Y^i_n` are exponentially distributed (with some rate `ν_i > 0`; being i.i.d., it suffices to say it
+of `Y^i_0` under `P⁰_{N^i}`), and `F^i_n(t) > ct` for all `t > 0`.
+
+Exponentiality is written as the tail `P⁰_{N^i}(Y^i_0 > t) = e^{−ν_i t}`, which needs no density or
+integrability side conditions. -/
+def OnOffModel.Property351 {k : ℕ} (M : OnOffModel Ω k) (nu : Fin k → ℝ) : Prop :=
+  (∀ i, 0 < nu i) ∧
+  (∀ (i : Fin k) (t : ℝ), 0 ≤ t →
+    (M.P0N i) {ω | t < M.offPeriod i 0 ω} = ENNReal.ofReal (Real.exp (-(nu i) * t))) ∧
+  (∀ (i : Fin k) (n : ℤ) (ω : Ω) (t : ℝ), 0 < t → M.c * t < M.Fn i n ω t)
+
+end PalmQueueing.Formulas
+
+

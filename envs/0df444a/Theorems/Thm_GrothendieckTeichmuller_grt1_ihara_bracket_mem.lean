@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_grt1_ihara_bracket_mem
 -- name    : GrothendieckTeichmuller.grt1_ihara_bracket_mem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-13T21:42:59.231669+00:00
 -- url     : https://prove2.me/theorems/495b1c2b-7cba-4502-acaa-3e2bbec66ce1

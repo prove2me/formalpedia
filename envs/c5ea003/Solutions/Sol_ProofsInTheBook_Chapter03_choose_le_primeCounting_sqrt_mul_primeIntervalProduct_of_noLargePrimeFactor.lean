@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.choose_le_primeCounting_sqrt_mul_primeIntervalProduct_of_noLargePrimeFactor
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:02.044341+00:00
 -- url     : https://prove2.me/submissions/9fc56d7d-7894-424d-a0bf-a6b85e84b8d4
 

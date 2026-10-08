@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_Potential_restPoints_eq_criticalPoints
 -- name    : StochFictPlay.Potential.restPoints_eq_criticalPoints
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:11:03.415252+00:00
 -- url     : https://prove2.me/theorems/a6a6615f-2c5d-47f5-8262-81a65efdbb08

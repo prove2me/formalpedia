@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_OneParticle_positivityImproving_eigenvalue
 -- name    : TeschlQM.OneParticle.positivityImproving_eigenvalue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T08:29:18.554831+00:00
 -- url     : https://prove2.me/theorems/476824d2-0f81-411a-b2af-9fd0bbc836de

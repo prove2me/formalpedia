@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_IntegralConvexityC_theorem_3_29_integrally_convex_iff_argmin_sets
 -- name    : DiscreteConvex.IntegralConvexityC.theorem_3_29_integrally_convex_iff_argmin_sets
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:14:59.245167+00:00
 -- url     : https://prove2.me/theorems/de521353-d346-48ee-8023-a27d0cf205cd

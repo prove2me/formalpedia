@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TheoryOfGames_GeneralGames_exists_game_of_extended
 -- name    : TheoryOfGames.GeneralGames.exists_game_of_extended
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T05:29:25.714035+00:00
 -- url     : https://prove2.me/theorems/a0e1159b-0eaa-4c76-9ab9-c5dbbddf5648

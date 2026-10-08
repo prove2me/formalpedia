@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MinimaxRegretRL_Hoeffding_lemma18_optimism
 -- name    : MinimaxRegretRL.Hoeffding.lemma18_optimism
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:23:15.375146+00:00
 -- url     : https://prove2.me/theorems/e46e5e41-5797-48f6-94bc-a9998ed937f5

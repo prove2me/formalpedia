@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoFivePrimes.mawia_reciprocal_sum_lower_bound_small
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Yuxuan Xu
 -- created : 2026-09-27T14:32:55.177584+00:00
 -- url     : https://prove2.me/submissions/81e02074-f436-4b7e-9b17-7eeb4cf35ed5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 `TaoFivePrimes.mawia_reciprocal_sum_lower_bound_small`

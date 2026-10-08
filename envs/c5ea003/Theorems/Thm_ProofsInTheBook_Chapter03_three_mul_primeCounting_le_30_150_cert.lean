@@ -1,7 +1,7 @@
 -- Prove2me | Theorems.Thm_ProofsInTheBook_Chapter03_three_mul_primeCounting_le_30_150_cert
 -- name    : ProofsInTheBook.Chapter03.three_mul_primeCounting_le_30_150_cert
 -- status  : Proved
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:35.803517+00:00
 -- url     : https://prove2.me/theorems/d2259190-ba82-4de7-8528-562283ea0625
 -- title:

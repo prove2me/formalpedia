@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_ihara_deriv_injOn_grt1
 -- name    : GrothendieckTeichmuller.ihara_deriv_injOn_grt1
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-13T21:44:12.95593+00:00
 -- url     : https://prove2.me/theorems/78752348-6d61-4b3a-a3ea-92a247ade4dc

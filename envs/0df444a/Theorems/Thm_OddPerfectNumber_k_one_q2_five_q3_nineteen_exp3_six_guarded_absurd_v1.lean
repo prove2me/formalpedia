@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OddPerfectNumber_k_one_q2_five_q3_nineteen_exp3_six_guarded_absurd_v1
 -- name    : OddPerfectNumber.k_one_q2_five_q3_nineteen_exp3_six_guarded_absurd_v1
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-09-18T09:56:35.3867+00:00
 -- url     : https://prove2.me/theorems/fa41426f-b1e2-4ad7-9bdd-8aa79f74ce62

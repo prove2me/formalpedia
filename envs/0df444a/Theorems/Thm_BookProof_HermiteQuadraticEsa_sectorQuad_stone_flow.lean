@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteQuadraticEsa_sectorQuad_stone_flow
 -- name    : BookProof.HermiteQuadraticEsa.sectorQuad_stone_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-03T11:31:54.845988+00:00
 -- url     : https://prove2.me/theorems/30ca9a7e-232d-46aa-ad9d-f85274ba4e4b

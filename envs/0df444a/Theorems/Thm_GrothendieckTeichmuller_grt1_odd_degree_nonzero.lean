@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GrothendieckTeichmuller_grt1_odd_degree_nonzero
 -- name    : GrothendieckTeichmuller.grt1_odd_degree_nonzero
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-13T21:47:53.846194+00:00
 -- url     : https://prove2.me/theorems/9691ce44-b96b-49bf-97c9-195907c40cf4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_thm_3_11_half_twists_generate
 -- name    : TarchaBraids.thm_3_11_half_twists_generate
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-18T23:37:14.70343+00:00
 -- url     : https://prove2.me/theorems/aec3d1f1-8500-46bf-a503-ee381fd60ebb

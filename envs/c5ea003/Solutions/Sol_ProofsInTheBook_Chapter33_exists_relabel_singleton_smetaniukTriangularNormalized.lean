@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter33.exists_relabel_singleton_smetaniukTriangularNormalized
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:08:42.048974+00:00
 -- url     : https://prove2.me/submissions/a5ad23c3-285e-4da0-9d30-b3a4c6e6a487
 

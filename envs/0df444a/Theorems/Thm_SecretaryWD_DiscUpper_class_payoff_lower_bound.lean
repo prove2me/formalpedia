@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryWD_DiscUpper_class_payoff_lower_bound
 -- name    : SecretaryWD.DiscUpper.class_payoff_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:18:48.688453+00:00
 -- url     : https://prove2.me/theorems/c24b0fb8-1e99-4626-a55a-f69b88e5b762

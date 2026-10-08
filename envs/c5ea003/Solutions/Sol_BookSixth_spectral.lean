@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for BookSixth.spectral
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-13T01:38:03.335444+00:00
 -- url     : https://prove2.me/submissions/c28e8577-cea4-4f96-b5de-a66a4d814cc4
 

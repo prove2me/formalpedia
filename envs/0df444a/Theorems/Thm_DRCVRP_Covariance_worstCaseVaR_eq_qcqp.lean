@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRCVRP_Covariance_worstCaseVaR_eq_qcqp
 -- name    : DRCVRP.Covariance.worstCaseVaR_eq_qcqp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T03:41:31.968762+00:00
 -- url     : https://prove2.me/theorems/6890994a-a02f-4bf2-b637-9fb450bf954e

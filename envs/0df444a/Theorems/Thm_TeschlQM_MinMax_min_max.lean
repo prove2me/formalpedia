@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_MinMax_min_max
 -- name    : TeschlQM.MinMax.min_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T21:42:13.397978+00:00
 -- url     : https://prove2.me/theorems/c2646231-faa8-4de2-8de6-1bbaabefe7ae

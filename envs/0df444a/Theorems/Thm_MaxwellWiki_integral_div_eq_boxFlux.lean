@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxwellWiki_integral_div_eq_boxFlux
 -- name    : MaxwellWiki.integral_div_eq_boxFlux
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-27T20:04:11.943933+00:00
 -- url     : https://prove2.me/theorems/66ce9b9b-86b3-4fa3-963e-dd22685b280e

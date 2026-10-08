@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter20.Chapter20E2Frontier.frontier_unitSquare
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T17:50:51.626308+00:00
 -- url     : https://prove2.me/submissions/a3d0ad41-29ca-4e18-bfad-06ad9aa9516d
 

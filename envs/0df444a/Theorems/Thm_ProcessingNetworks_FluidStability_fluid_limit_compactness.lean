@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FluidStability_fluid_limit_compactness
 -- name    : ProcessingNetworks.FluidStability.fluid_limit_compactness
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:35:56.858669+00:00
 -- url     : https://prove2.me/theorems/b123bba6-d07f-4537-8f7a-81a3186524bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Extended_piE_optimal
 -- name    : DelayedSWPT.Extended.piE_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T05:09:17.808086+00:00
 -- url     : https://prove2.me/theorems/aa8b71ae-126e-4bb5-bf4e-bf33fc92c378

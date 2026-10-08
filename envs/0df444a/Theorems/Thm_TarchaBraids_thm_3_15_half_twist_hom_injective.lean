@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TarchaBraids_thm_3_15_half_twist_hom_injective
 -- name    : TarchaBraids.thm_3_15_half_twist_hom_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-19T05:34:23.584973+00:00
 -- url     : https://prove2.me/theorems/83ad2cb9-3224-4609-b337-f56cfd0b082b

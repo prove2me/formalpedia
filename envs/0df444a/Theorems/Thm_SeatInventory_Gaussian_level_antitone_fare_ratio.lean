@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SeatInventory_Gaussian_level_antitone_fare_ratio
 -- name    : SeatInventory.Gaussian.level_antitone_fare_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:01:53.52633+00:00
 -- url     : https://prove2.me/theorems/17021870-4b16-4c1a-8d46-4de98b481cbe

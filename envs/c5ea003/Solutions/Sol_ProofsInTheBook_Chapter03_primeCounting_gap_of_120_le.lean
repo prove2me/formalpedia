@@ -1,6 +1,6 @@
 -- Prove2me | solution 1 for ProofsInTheBook.Chapter03.primeCounting_gap_of_120_le
 -- status  : ACCEPTED   (prove)
--- author  : @xiangyazi24
+-- author  : @Xiang Huang
 -- created : 2026-09-12T16:36:33.891158+00:00
 -- url     : https://prove2.me/submissions/4ae5ac46-faaa-4dbd-91bf-73a00af885e6
 

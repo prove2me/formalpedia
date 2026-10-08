@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_FluidEquations_nonidling_fluid_equation
 -- name    : ProcessingNetworks.FluidEquations.nonidling_fluid_equation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T17:48:12.374636+00:00
 -- url     : https://prove2.me/theorems/1cba1dd8-e57f-435d-bd2f-17f39d16ec4b
