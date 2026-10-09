@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Nonadaptive_eq_4
 -- name    : CorreaThreshold.Nonadaptive.eq_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:36:41.364843+00:00
 -- url     : https://prove2.me/theorems/203f3cbd-a501-48cf-9010-bc2490447e78

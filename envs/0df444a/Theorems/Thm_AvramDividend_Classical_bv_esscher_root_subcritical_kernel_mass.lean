@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_bv_esscher_root_subcritical_kernel_mass
 -- name    : AvramDividend.Classical.bv_esscher_root_subcritical_kernel_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T13:00:16.711476+00:00
 -- url     : https://prove2.me/theorems/3e5e114d-05a5-40a2-9e82-e0d3f81e2687

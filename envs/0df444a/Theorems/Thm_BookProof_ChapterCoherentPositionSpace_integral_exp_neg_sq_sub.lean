@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_integral_exp_neg_sq_sub
 -- name    : BookProof.ChapterCoherentPositionSpace.integral_exp_neg_sq_sub
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:03:54.365982+00:00
 -- url     : https://prove2.me/theorems/ee255d15-1db3-4680-977b-3361ec975fc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_bornProb_sum_eq_one
 -- name    : BookProof.ChapterE2.bornProb_sum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:12:02.650288+00:00
 -- url     : https://prove2.me/theorems/8348899a-b7ca-4937-b8e0-cdfb3c4badd2

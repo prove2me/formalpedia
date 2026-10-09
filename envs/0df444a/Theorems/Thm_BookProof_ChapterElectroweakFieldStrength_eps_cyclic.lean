@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_eps_cyclic
 -- name    : BookProof.ChapterElectroweakFieldStrength.eps_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:14:42.776856+00:00
 -- url     : https://prove2.me/theorems/f25ca3bf-7dcc-4819-baa9-9e3fec05c273

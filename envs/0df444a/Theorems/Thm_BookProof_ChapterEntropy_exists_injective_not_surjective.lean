@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropy_exists_injective_not_surjective
 -- name    : BookProof.ChapterEntropy.exists_injective_not_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:50:43.197979+00:00
 -- url     : https://prove2.me/theorems/2f7aa661-e519-4d50-8b39-c35c3fef081b

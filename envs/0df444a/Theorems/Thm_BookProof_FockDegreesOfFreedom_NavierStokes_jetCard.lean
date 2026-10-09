@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockDegreesOfFreedom_NavierStokes_jetCard
 -- name    : BookProof.FockDegreesOfFreedom.NavierStokes.jetCard
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:20:25.939685+00:00
 -- url     : https://prove2.me/theorems/16a5ee08-9b41-47e2-89ff-4d8ab845dbdb

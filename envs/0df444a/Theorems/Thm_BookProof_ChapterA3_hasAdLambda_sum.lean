@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_hasAdLambda_sum
 -- name    : BookProof.ChapterA3.hasAdLambda_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:45:50.288437+00:00
 -- url     : https://prove2.me/theorems/c506a719-fe84-45ee-beaf-5066ea4079c4

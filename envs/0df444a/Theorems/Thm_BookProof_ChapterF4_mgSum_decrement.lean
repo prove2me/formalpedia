@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_mgSum_decrement
 -- name    : BookProof.ChapterF4.mgSum_decrement
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:52:16.75255+00:00
 -- url     : https://prove2.me/theorems/a4cd6c68-f354-4ca5-a21f-43aa326204cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_Multivariate_multivariate_order_coupling_iff_v2
 -- name    : StochasticOrders.Multivariate.multivariate_order_coupling_iff_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:50.926801+00:00
 -- url     : https://prove2.me/theorems/174aec04-af3e-4977-9fd5-da43160f8088

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_shift_gaugeFixing_classification
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.shift_gaugeFixing_classification
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:21.476629+00:00
 -- url     : https://prove2.me/theorems/cc5bbfff-f19a-4fb1-b2e7-3003c59f44f5

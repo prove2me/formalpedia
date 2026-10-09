@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_renyi2_nonneg
 -- name    : BookProof.ChapterAttentionCollision.renyi2_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:22:33.456987+00:00
 -- url     : https://prove2.me/theorems/4528a34c-3169-42df-9d3e-6a982f4c41c1

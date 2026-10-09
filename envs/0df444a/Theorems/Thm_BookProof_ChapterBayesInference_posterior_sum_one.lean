@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_posterior_sum_one
 -- name    : BookProof.ChapterBayesInference.posterior_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:53:38.962195+00:00
 -- url     : https://prove2.me/theorems/5008e975-1f46-488b-8654-6537d38e6009

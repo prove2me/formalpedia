@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_KinZ_MassAZ_anticomm
 -- name    : BookProof.ChapterCPTHamiltonian.KinZ_MassAZ_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:21:21.411125+00:00
 -- url     : https://prove2.me/theorems/22dd752c-2a42-44ac-831b-b1a9144e47c1

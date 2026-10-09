@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_variance_additivity
 -- name    : TroppMatrixConcentration.variance_additivity
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:50:54.087172+00:00
 -- url     : https://prove2.me/theorems/ad8373a1-8ea4-4950-8dcd-7f2df5380a15

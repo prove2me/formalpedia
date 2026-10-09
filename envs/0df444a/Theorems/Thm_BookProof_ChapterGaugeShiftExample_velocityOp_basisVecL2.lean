@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_velocityOp_basisVecL2
 -- name    : BookProof.ChapterGaugeShiftExample.velocityOp_basisVecL2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:18:09.120852+00:00
 -- url     : https://prove2.me/theorems/c618f4e1-a721-4972-a694-b5d73d6f3ae9

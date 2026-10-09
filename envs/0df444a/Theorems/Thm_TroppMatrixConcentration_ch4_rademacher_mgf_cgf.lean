@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch4_rademacher_mgf_cgf
 -- name    : TroppMatrixConcentration.ch4_rademacher_mgf_cgf
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:46:03.641575+00:00
 -- url     : https://prove2.me/theorems/12ecf74d-4316-4986-95c4-c48f6f2d1415

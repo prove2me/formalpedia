@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3l_swap_kronecker
 -- name    : BookProof.ChapterA3l.swap_kronecker
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:56:44.175479+00:00
 -- url     : https://prove2.me/theorems/85ea1113-cb58-4753-8d9d-837f1d622158

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEdge_inner_dsCore_eq_sum
 -- name    : BookProof.DirectSumEdge.inner_dsCore_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:57:29.112651+00:00
 -- url     : https://prove2.me/theorems/06eb3219-36f8-4f9d-92cc-0e90127dc2e3

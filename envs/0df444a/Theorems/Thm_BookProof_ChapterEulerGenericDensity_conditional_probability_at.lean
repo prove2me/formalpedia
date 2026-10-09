@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_conditional_probability_at
 -- name    : BookProof.ChapterEulerGenericDensity.conditional_probability_at
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:31:39.240992+00:00
 -- url     : https://prove2.me/theorems/f33d9c7c-ebc5-4b1c-93ca-dc6246000534

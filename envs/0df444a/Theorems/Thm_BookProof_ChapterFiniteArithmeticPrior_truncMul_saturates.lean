@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterFiniteArithmeticPrior_truncMul_saturates
 -- name    : BookProof.ChapterFiniteArithmeticPrior.truncMul_saturates
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:19:16.997125+00:00
 -- url     : https://prove2.me/theorems/baa0b157-c8d0-4427-aa7c-8e5fe62e839a

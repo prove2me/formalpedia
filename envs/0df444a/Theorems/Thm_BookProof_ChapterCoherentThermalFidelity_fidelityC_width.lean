@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_fidelityC_width
 -- name    : BookProof.ChapterCoherentThermalFidelity.fidelityC_width
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:12:59.58124+00:00
 -- url     : https://prove2.me/theorems/b36cce68-fdad-4381-8e10-e41bb41ba87a

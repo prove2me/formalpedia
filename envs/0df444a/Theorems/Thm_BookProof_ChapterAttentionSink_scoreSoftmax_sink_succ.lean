@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSink_scoreSoftmax_sink_succ
 -- name    : BookProof.ChapterAttentionSink.scoreSoftmax_sink_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:45:28.499557+00:00
 -- url     : https://prove2.me/theorems/c2c6f57e-887e-4db1-807d-49ad5b0f34c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEdge_norm_sq_dsCore_eq_sum
 -- name    : BookProof.DirectSumEdge.norm_sq_dsCore_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:57:31.929823+00:00
 -- url     : https://prove2.me/theorems/e529ad5f-d8c4-466f-8d23-c97e2d6a7a00

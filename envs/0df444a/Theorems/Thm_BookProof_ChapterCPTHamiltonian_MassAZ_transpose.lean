@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_MassAZ_transpose
 -- name    : BookProof.ChapterCPTHamiltonian.MassAZ_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:22:15.25798+00:00
 -- url     : https://prove2.me/theorems/81f712b2-f262-47be-a9e2-be824d0f8b24

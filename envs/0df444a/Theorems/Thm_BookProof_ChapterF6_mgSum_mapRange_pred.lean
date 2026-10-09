@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_mgSum_mapRange_pred
 -- name    : BookProof.ChapterF6.mgSum_mapRange_pred
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:04:42.602974+00:00
 -- url     : https://prove2.me/theorems/5d435855-80c9-4afa-b796-2c5604418449

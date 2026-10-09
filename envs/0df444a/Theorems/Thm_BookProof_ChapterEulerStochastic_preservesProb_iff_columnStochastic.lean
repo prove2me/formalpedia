@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerStochastic_preservesProb_iff_columnStochastic
 -- name    : BookProof.ChapterEulerStochastic.preservesProb_iff_columnStochastic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:44:56.922523+00:00
 -- url     : https://prove2.me/theorems/6f61f24d-ca3a-4bd9-9932-3c124bbcd1d4

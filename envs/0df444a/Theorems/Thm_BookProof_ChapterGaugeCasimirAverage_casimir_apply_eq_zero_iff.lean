@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeCasimirAverage_casimir_apply_eq_zero_iff
 -- name    : BookProof.ChapterGaugeCasimirAverage.casimir_apply_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:53:33.713094+00:00
 -- url     : https://prove2.me/theorems/e4253249-14d0-45dc-aec9-5c3d8b33e1d2

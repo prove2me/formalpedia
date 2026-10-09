@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_commuting_normal_operators_simultaneously_diagonalizable
 -- name    : BookProof.ChapterG2.commuting_normal_operators_simultaneously_diagonalizable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:50:51.543992+00:00
 -- url     : https://prove2.me/theorems/826fdb02-925a-47c7-bc68-fcdd96985ccb

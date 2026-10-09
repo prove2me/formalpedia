@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockDegreesOfFreedom_Gravity_jetCard
 -- name    : BookProof.FockDegreesOfFreedom.Gravity.jetCard
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:22:06.579976+00:00
 -- url     : https://prove2.me/theorems/aec22fd8-f75c-4e2b-aec0-e2d5f369bc4f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_diagGen_vacuum
 -- name    : BookProof.ChapterF3.diagGen_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:04.027085+00:00
 -- url     : https://prove2.me/theorems/63c707de-dc43-4762-8f03-60731212c6d9

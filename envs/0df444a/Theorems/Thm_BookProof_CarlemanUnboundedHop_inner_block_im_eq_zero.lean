@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_inner_block_im_eq_zero
 -- name    : BookProof.CarlemanUnboundedHop.inner_block_im_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:32:17.174981+00:00
 -- url     : https://prove2.me/theorems/4f8bd477-d861-4d98-a826-4b454b3485e6

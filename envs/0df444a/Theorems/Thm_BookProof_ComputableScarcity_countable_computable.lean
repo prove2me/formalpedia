@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ComputableScarcity_countable_computable
 -- name    : BookProof.ComputableScarcity.countable_computable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:17:07.284814+00:00
 -- url     : https://prove2.me/theorems/44c2c08e-e44a-408f-bedd-7c566e1a0ac8

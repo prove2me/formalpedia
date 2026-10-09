@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_adj2_mul_T
 -- name    : BookProof.ChapterA3.adj2_mul_T
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:55:08.788486+00:00
 -- url     : https://prove2.me/theorems/394bae5b-3ab9-4368-806c-467759cfba6b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_gaussInt_leibniz_prime
 -- name    : BookProof.GaussCoordCombo.gaussInt_leibniz_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:18:58.773576+00:00
 -- url     : https://prove2.me/theorems/860b6290-d339-43ff-8d39-4366789b73a3

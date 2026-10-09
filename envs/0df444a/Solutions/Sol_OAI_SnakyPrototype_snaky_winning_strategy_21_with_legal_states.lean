@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Yuxuan Xu
 -- created : 2026-10-08T13:06:34.555414+00:00
 -- url     : https://prove2.me/submissions/4539ec7f-785b-4d34-80bd-bf1424b36a8c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_SnakyTwentyOne
 import Theorems.Thm_OAI_Snaky21_empty_position_force21

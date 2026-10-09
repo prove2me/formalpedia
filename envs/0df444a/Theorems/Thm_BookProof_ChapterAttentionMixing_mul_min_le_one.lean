@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixing_mul_min_le_one
 -- name    : BookProof.ChapterAttentionMixing.mul_min_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:09:23.177479+00:00
 -- url     : https://prove2.me/theorems/a6d977d1-dd91-4674-979a-cb7d6037bdec

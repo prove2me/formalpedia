@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_density_euler_generic
 -- name    : BookProof.ChapterEulerGenericDensity.density_euler_generic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:29:54.517859+00:00
 -- url     : https://prove2.me/theorems/fe7fac49-e3f6-4a9c-8568-e220357b9c61

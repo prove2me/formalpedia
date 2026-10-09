@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityMetric_spatialMetric_mulVec_self
 -- name    : BookProof.ChapterGravityMetric.spatialMetric_mulVec_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:00:43.632911+00:00
 -- url     : https://prove2.me/theorems/3fe990fc-2586-4f0b-9996-cf7ea3ceb1c1

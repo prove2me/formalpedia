@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_deficiencyTrivialAt_of_bounded_dense
 -- name    : BookProof.GraphCore.deficiencyTrivialAt_of_bounded_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:01:05.203701+00:00
 -- url     : https://prove2.me/theorems/36dd067a-b113-4e73-8abb-7294bba4fd83

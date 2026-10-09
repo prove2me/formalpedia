@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerStochastic_isProbVec_e1
 -- name    : BookProof.ChapterEulerStochastic.isProbVec_e1
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:34:15.426995+00:00
 -- url     : https://prove2.me/theorems/4f39b0cd-0ce7-446e-8f24-cf0f4795f151

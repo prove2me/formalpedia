@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_det_exp_eq_exp_trace
 -- name    : BookProof.ChapterA3.det_exp_eq_exp_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:48:07.433975+00:00
 -- url     : https://prove2.me/theorems/c8d29638-90ff-49f9-a185-2b10a548edfb

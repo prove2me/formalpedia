@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_exists_sin_sq
 -- name    : BookProof.ChapterEulerNState.exists_sin_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:31:15.428208+00:00
 -- url     : https://prove2.me/theorems/853d806f-0e63-411a-b431-fbd920475bcb

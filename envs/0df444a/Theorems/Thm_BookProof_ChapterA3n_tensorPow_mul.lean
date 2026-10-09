@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_tensorPow_mul
 -- name    : BookProof.ChapterA3n.tensorPow_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:07:19.078337+00:00
 -- url     : https://prove2.me/theorems/64b18afb-22d1-46de-b984-267a32474078

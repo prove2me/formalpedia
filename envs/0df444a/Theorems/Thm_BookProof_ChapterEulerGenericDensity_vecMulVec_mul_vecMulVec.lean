@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_vecMulVec_mul_vecMulVec
 -- name    : BookProof.ChapterEulerGenericDensity.vecMulVec_mul_vecMulVec
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:29:20.881894+00:00
 -- url     : https://prove2.me/theorems/b10cf79a-3c45-4353-bb8c-e1eaf9895d2a

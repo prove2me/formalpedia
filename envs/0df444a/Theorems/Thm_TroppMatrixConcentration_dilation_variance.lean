@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_dilation_variance
 -- name    : TroppMatrixConcentration.dilation_variance
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:51:18.726529+00:00
 -- url     : https://prove2.me/theorems/144b523a-3c74-4b0d-928d-94e111427f1f

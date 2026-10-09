@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_collisionProb_uniform
 -- name    : BookProof.ChapterAttentionCollision.collisionProb_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:22:06.155554+00:00
 -- url     : https://prove2.me/theorems/0b33fca2-bdc1-4c26-83ab-d4206237588d

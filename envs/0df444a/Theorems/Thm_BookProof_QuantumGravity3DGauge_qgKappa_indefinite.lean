@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qgKappa_indefinite
 -- name    : BookProof.QuantumGravity3DGauge.qgKappa_indefinite
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:32:46.222209+00:00
 -- url     : https://prove2.me/theorems/243cc791-11e0-40bd-850d-8c444ee6abf2

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_principal_open_preserving_isolated_section_points
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-05T15:06:39.157981+00:00
 -- url     : https://prove2.me/submissions/b80cf344-7f56-43b2-ab86-9b1bd48737af
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_isolated_equation_points
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_Coherent_univ
 -- name    : BookProof.ChapterDutchBook.Coherent.univ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:08:24.278817+00:00
 -- url     : https://prove2.me/theorems/0ee3bb91-e52f-4796-90be-5ded9e40571d

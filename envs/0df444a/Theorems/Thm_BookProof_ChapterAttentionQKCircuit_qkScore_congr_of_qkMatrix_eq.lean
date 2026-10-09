@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionQKCircuit_qkScore_congr_of_qkMatrix_eq
 -- name    : BookProof.ChapterAttentionQKCircuit.qkScore_congr_of_qkMatrix_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:40:43.487556+00:00
 -- url     : https://prove2.me/theorems/d2a09a59-3fc7-43f8-8711-c359ca4acdc8

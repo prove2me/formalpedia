@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_iUnion_band
 -- name    : BookProof.EnergyBandDecomposition.iUnion_band
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:38.034807+00:00
 -- url     : https://prove2.me/theorems/88c8ae12-e571-424d-92cb-36d13e3ba026

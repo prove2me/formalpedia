@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_spinorInv_mul_spinor
 -- name    : BookProof.ChapterA3.spinorInv_mul_spinor
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:55:59.138835+00:00
 -- url     : https://prove2.me/theorems/5bae4446-8372-447e-8230-d8c8b0a979a8

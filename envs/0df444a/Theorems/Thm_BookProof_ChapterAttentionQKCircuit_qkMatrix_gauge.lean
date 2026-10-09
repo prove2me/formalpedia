@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionQKCircuit_qkMatrix_gauge
 -- name    : BookProof.ChapterAttentionQKCircuit.qkMatrix_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:40:53.738513+00:00
 -- url     : https://prove2.me/theorems/45ba5118-b1f3-434d-b38c-c8a67932158e

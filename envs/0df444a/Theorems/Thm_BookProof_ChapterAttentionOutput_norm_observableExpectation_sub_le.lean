@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutput_norm_observableExpectation_sub_le
 -- name    : BookProof.ChapterAttentionOutput.norm_observableExpectation_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:34:06.711131+00:00
 -- url     : https://prove2.me/theorems/ac59f968-9c05-4916-a2cd-763584c2e383

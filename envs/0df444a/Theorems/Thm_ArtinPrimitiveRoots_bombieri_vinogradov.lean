@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_bombieri_vinogradov
 -- name    : ArtinPrimitiveRoots.bombieri_vinogradov
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:27:18.611261+00:00
 -- url     : https://prove2.me/theorems/dbd3ab85-7d0a-428f-82a1-40ed9790e616

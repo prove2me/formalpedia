@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_existsUnique_physical_extension_of_complete
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.existsUnique_physical_extension_of_complete
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:56:25.004388+00:00
 -- url     : https://prove2.me/theorems/dfc94f67-03ef-4915-bb21-94cf57ec4c39

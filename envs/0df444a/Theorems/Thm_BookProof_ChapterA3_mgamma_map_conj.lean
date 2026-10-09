@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma_map_conj
 -- name    : BookProof.ChapterA3.mgamma_map_conj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:38:49.075242+00:00
 -- url     : https://prove2.me/theorems/e0efd64f-5c34-44a6-90c1-a2533c989bc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_expectation_gauge_invariant
 -- name    : BookProof.ChapterG.expectation_gauge_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:25:21.211647+00:00
 -- url     : https://prove2.me/theorems/3bef5684-ddd0-47ad-a94d-9eb6f893fd66

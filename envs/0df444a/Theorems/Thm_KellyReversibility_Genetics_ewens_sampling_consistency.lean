@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyReversibility_Genetics_ewens_sampling_consistency
 -- name    : KellyReversibility.Genetics.ewens_sampling_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:09:20.545672+00:00
 -- url     : https://prove2.me/theorems/8fb826f7-56e3-48b7-9749-5efff8a0e456

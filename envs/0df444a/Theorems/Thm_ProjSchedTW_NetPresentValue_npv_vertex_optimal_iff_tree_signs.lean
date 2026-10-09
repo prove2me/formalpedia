@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_NetPresentValue_npv_vertex_optimal_iff_tree_signs
 -- name    : ProjSchedTW.NetPresentValue.npv_vertex_optimal_iff_tree_signs
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T11:44:51.982412+00:00
 -- url     : https://prove2.me/theorems/488bf43b-ea50-465f-9ca7-55c964a28507

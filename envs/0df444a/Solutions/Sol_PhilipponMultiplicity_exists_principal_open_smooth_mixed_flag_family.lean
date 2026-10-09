@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_principal_open_smooth_mixed_flag_family
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-05T00:00:49.851251+00:00
 -- url     : https://prove2.me/submissions/81cfcc5a-5c4c-46d6-8f97-c52b81846780
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_principal_open_smooth_mixed_zero_locus
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

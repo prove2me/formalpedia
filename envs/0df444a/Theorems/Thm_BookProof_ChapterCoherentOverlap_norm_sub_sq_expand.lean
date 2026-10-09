@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlap_norm_sub_sq_expand
 -- name    : BookProof.ChapterCoherentOverlap.norm_sub_sq_expand
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:59:08.928254+00:00
 -- url     : https://prove2.me/theorems/bc4db9e8-c819-4b70-8020-a9c95d4785cd

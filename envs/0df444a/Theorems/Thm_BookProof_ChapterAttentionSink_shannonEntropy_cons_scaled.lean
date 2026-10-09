@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSink_shannonEntropy_cons_scaled
 -- name    : BookProof.ChapterAttentionSink.shannonEntropy_cons_scaled
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:48:40.751551+00:00
 -- url     : https://prove2.me/theorems/4f00cf5b-4f65-4e43-84b4-89ecbeecd0c1

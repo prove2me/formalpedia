@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_qgOuterN_symmetricOn
 -- name    : BookProof.QgOuterFock.qgOuterN_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-09-22T03:46:10.706771+00:00
 -- url     : https://prove2.me/theorems/34b1a67a-ab78-4a1a-b16a-030eb45d066e

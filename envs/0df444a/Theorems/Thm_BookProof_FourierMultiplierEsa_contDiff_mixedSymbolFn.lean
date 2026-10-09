@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_contDiff_mixedSymbolFn
 -- name    : BookProof.FourierMultiplierEsa.contDiff_mixedSymbolFn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:20.472992+00:00
 -- url     : https://prove2.me/theorems/ed1b23a3-dea1-4495-baf5-ab9fa5f5ff34

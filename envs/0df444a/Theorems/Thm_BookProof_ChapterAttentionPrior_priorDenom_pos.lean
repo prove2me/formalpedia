@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionPrior_priorDenom_pos
 -- name    : BookProof.ChapterAttentionPrior.priorDenom_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:39:31.555151+00:00
 -- url     : https://prove2.me/theorems/51237a90-8069-423b-91a5-3649e1a621f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_proof_thm_4_8_noise_image
 -- name    : PersistClust.Count.proof_thm_4_8_noise_image
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:39:48.025223+00:00
 -- url     : https://prove2.me/theorems/aad360ae-7311-4baa-ad37-4abb174b809b

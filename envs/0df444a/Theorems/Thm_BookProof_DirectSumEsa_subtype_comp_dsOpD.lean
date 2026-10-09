@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_subtype_comp_dsOpD
 -- name    : BookProof.DirectSumEsa.subtype_comp_dsOpD
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:59:39.408503+00:00
 -- url     : https://prove2.me/theorems/59fedcfb-6887-4266-8c55-4eff3880e889

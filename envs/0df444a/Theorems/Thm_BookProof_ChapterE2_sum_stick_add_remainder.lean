@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_sum_stick_add_remainder
 -- name    : BookProof.ChapterE2.sum_stick_add_remainder
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:11:22.453432+00:00
 -- url     : https://prove2.me/theorems/310fec8c-19ba-45c9-806f-f431270a94de

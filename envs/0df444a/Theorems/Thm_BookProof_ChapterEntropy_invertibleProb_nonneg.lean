@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropy_invertibleProb_nonneg
 -- name    : BookProof.ChapterEntropy.invertibleProb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:48:25.648982+00:00
 -- url     : https://prove2.me/theorems/1bc7af1f-1143-495b-b904-c9c7bdbf9f6c

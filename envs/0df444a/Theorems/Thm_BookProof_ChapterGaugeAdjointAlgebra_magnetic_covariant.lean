@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_magnetic_covariant
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.magnetic_covariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:52:37.467052+00:00
 -- url     : https://prove2.me/theorems/9ce8592c-def9-4526-b105-077adda3ec1b

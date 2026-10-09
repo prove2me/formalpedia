@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_effectiveSupport_le_card
 -- name    : BookProof.ChapterAttentionCollision.effectiveSupport_le_card
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:21:38.091893+00:00
 -- url     : https://prove2.me/theorems/5fb617cb-15ef-4550-9fb6-06631d9d23c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_hasAdLambda_smul
 -- name    : BookProof.ChapterA3.hasAdLambda_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:45:19.524665+00:00
 -- url     : https://prove2.me/theorems/c3ffcc58-5cda-4c71-9b6f-d076041d802b

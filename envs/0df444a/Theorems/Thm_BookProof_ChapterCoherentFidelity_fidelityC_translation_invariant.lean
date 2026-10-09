@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_fidelityC_translation_invariant
 -- name    : BookProof.ChapterCoherentFidelity.fidelityC_translation_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:50:37.469086+00:00
 -- url     : https://prove2.me/theorems/f5ff936d-8e63-47f2-a45c-b2accaeb17bc

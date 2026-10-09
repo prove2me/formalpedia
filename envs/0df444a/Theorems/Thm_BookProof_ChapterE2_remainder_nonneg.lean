@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_remainder_nonneg
 -- name    : BookProof.ChapterE2.remainder_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:12:54.151916+00:00
 -- url     : https://prove2.me/theorems/9b8ccbf0-b93b-4b7c-867b-3ead93a56e0b

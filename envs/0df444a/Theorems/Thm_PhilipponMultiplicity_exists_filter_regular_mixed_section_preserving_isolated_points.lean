@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_filter_regular_mixed_section_preserving_isolated_points
 -- name    : PhilipponMultiplicity.exists_filter_regular_mixed_section_preserving_isolated_points
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T15:31:17.481409+00:00
 -- url     : https://prove2.me/theorems/f2bb6eb4-f901-41b5-8932-79d7d68d38b3

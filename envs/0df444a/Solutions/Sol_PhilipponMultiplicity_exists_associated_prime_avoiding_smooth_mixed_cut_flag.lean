@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_associated_prime_avoiding_smooth_mixed_cut_flag
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-04T20:09:57.425211+00:00
 -- url     : https://prove2.me/submissions/28830202-07d8-4254-a1d1-1efa00c60167
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_principal_open_smooth_mixed_flag_family
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionStreaming_norm_headOutput_snoc_sub_le
 -- name    : BookProof.ChapterAttentionStreaming.norm_headOutput_snoc_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:29:48.225154+00:00
 -- url     : https://prove2.me/theorems/33bbd2fb-80c1-4015-9028-8168448df161

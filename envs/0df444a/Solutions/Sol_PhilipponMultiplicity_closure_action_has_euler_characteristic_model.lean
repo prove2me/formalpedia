@@ -1,0 +1,329 @@
+-- Prove2me | solution 1 for PhilipponMultiplicity.closure_action_has_euler_characteristic_model
+-- status  : SKETCH_ACCEPTED   (prove)
+-- author  : @tomasz
+-- created : 2026-10-09T00:31:19.754785+00:00
+-- url     : https://prove2.me/submissions/fc10019c-7c10-4cf2-a023-319ed6401cfb
+-- note    : a sketch -- it imports a theorem that is still Open,
+--           so it depends on `sorryAx` until that child is proved.
+
+import Theorems.Thm_PhilipponMultiplicity_closure_action_has_filtered_twist_model
+import Definitions.Def_PhilipponMultiplicity_SectionThree
+import Definitions.Def_PhilipponMultiplicity_Support
+import Mathlib.Algebra.Group.ForwardDiff
+import Mathlib.LinearAlgebra.GeneralLinearGroup.Basic
+import Mathlib.LinearAlgebra.Quotient.Basic
+import Mathlib.RingTheory.Finiteness.Cardinality
+
+
+section
+
+set_option autoImplicit false
+set_option backward.isDefEq.respectTransparency false
+set_option backward.isDefEq.respectTransparency.types false
+noncomputable section
+
+namespace PhilipponMultiplicity.FilteredEuler
+
+section Descent
+variable {R L A C : Type*} [Ring R] [AddCommGroup L] [Module R L]
+  [AddCommGroup A] [Module R A] [AddCommGroup C] [Module R C]
+
+/-- Descent of a function through a surjection. -/
+def descend (q : L →ₗ[R] A) (hq : Function.Surjective q) (f : L → C) : A → C :=
+  fun a => f (hq a).choose
+
+omit [AddCommGroup C] [Module R C] in
+theorem descend_apply (q : L →ₗ[R] A) (hq : Function.Surjective q) (f : L → C)
+    (hf : ∀ x y, q x = q y → f x = f y) (x : L) :
+    descend q hq f (q x) = f x :=
+  hf _ x (hq (q x)).choose_spec
+
+theorem constant_on_fibers (q : L →ₗ[R] A) (f : L →ₗ[R] C)
+    (hf : ∀ x, q x = 0 → f x = 0) :
+    ∀ x y, q x = q y → f x = f y := by
+  intro x y h
+  apply sub_eq_zero.mp
+  rw [← map_sub]
+  exact hf _ (by simpa using sub_eq_zero.mpr h)
+
+def linearDescend (q : L →ₗ[R] A) (hq : Function.Surjective q) (f : L →ₗ[R] C)
+    (hf : ∀ x, q x = 0 → f x = 0) : A →ₗ[R] C where
+  toFun := descend q hq f
+  map_add' a b := by
+    obtain ⟨x, rfl⟩ := hq a
+    obtain ⟨y, rfl⟩ := hq b
+    rw [← map_add, descend_apply q hq f (constant_on_fibers q f hf),
+      descend_apply q hq f (constant_on_fibers q f hf),
+      descend_apply q hq f (constant_on_fibers q f hf), map_add]
+  map_smul' r a := by
+    obtain ⟨x, rfl⟩ := hq a
+    change descend q hq f (r • q x) = r • descend q hq f (q x)
+    rw [← q.map_smul, descend_apply q hq f (constant_on_fibers q f hf),
+      descend_apply q hq f (constant_on_fibers q f hf), f.map_smul]
+
+@[simp] theorem linearDescend_apply (q : L →ₗ[R] A) (hq : Function.Surjective q)
+    (f : L →ₗ[R] C) (hf : ∀ x, q x = 0 → f x = 0) (x : L) :
+    linearDescend q hq f hf (q x) = f x :=
+  descend_apply q hq f (constant_on_fibers q f hf) x
+
+end Descent
+
+section Action
+variable {T L A : Type*} [Group T] [AddCommGroup L] [Module ℤ L]
+  [AddCommGroup A] [Module ℤ A]
+  (q : L →ₗ[ℤ] A) (hq : Function.Surjective q)
+  (ρ : T →* (L ≃ₗ[ℤ] L))
+  (hker : ∀ g x, q x = 0 → q (ρ g x) = 0)
+
+def actionMap (g : T) : A →ₗ[ℤ] A :=
+  linearDescend q hq (q.comp (ρ g).toLinearMap) (hker g)
+
+@[simp] theorem actionMap_apply (g : T) (x : L) :
+    actionMap q hq ρ hker g (q x) = q (ρ g x) :=
+  linearDescend_apply _ _ _ _ _
+
+theorem actionMap_one (a : A) : actionMap q hq ρ hker 1 a = a := by
+  obtain ⟨x, rfl⟩ := hq a
+  simp
+
+theorem actionMap_mul (g h : T) (a : A) :
+    actionMap q hq ρ hker (g * h) a =
+      actionMap q hq ρ hker g (actionMap q hq ρ hker h a) := by
+  obtain ⟨x, rfl⟩ := hq a
+  simp
+
+/-- A kernel-invariant action descends to genuine automorphisms of the quotient. -/
+def actionEquiv (g : T) : A ≃ₗ[ℤ] A :=
+  { actionMap q hq ρ hker g with
+    invFun := actionMap q hq ρ hker g⁻¹
+    left_inv := fun a => by
+      change actionMap q hq ρ hker g⁻¹ (actionMap q hq ρ hker g a) = a
+      rw [← actionMap_mul, inv_mul_cancel, actionMap_one]
+    right_inv := fun a => by
+      change actionMap q hq ρ hker g (actionMap q hq ρ hker g⁻¹ a) = a
+      rw [← actionMap_mul, mul_inv_cancel, actionMap_one] }
+
+def quotientAction : T →* (A ≃ₗ[ℤ] A) where
+  toFun := actionEquiv q hq ρ hker
+  map_one' := by ext a; exact actionMap_one q hq ρ hker a
+  map_mul' g h := by ext a; exact actionMap_mul q hq ρ hker g h a
+
+@[simp] theorem quotientAction_apply (g : T) (x : L) :
+    quotientAction q hq ρ hker g (q x) = q (ρ g x) :=
+  actionMap_apply q hq ρ hker g x
+
+end Action
+
+section Twists
+variable {L B : Type*} [AddCommGroup L] [AddCommGroup B] [Module ℤ B]
+  (β : Multiplicative L →* (B ≃ₗ[ℤ] B))
+
+def twist (x : L) : B →ₗ[ℤ] B := (β (Multiplicative.ofAdd x)).toLinearMap
+
+@[simp] theorem twist_zero (b : B) : twist β 0 b = b := by simp [twist]
+
+theorem twist_add (x y : L) (b : B) :
+    twist β (x + y) b = twist β x (twist β y b) := by
+  change β (Multiplicative.ofAdd x * Multiplicative.ofAdd y) b = _
+  rw [map_mul]
+  rfl
+
+def difference (y : L) : B →ₗ[ℤ] B := twist β y - LinearMap.id
+
+theorem difference_nilpotent (F : ℕ → Submodule ℤ B) (hzero : F 0 = ⊥)
+    (hdrop : ∀ n y b, b ∈ F (n + 1) → difference β y b ∈ F n)
+    (n : ℕ) (y : L) (b : B) (hb : b ∈ F n) :
+    (difference β y)^[n] b = 0 := by
+  induction n generalizing b with
+  | zero => simpa [hzero] using hb
+  | succ n ih =>
+    rw [Function.iterate_succ_apply]
+    exact ih (difference β y b) (hdrop n y b hb)
+
+/-- Forward differences of Euler functions are induced by the twist-minus-identity operator. -/
+theorem iterate_euler (χ : B →ₗ[ℤ] ℚ) (n : ℕ) (y x : L) (b : B) :
+    (fwdDiff y)^[n] (fun z => χ (twist β z b)) x =
+      χ (twist β x ((difference β y)^[n] b)) := by
+  induction n generalizing x with
+  | zero => rfl
+  | succ n ih =>
+    rw [Function.iterate_succ_apply', fwdDiff]
+    rw [ih, ih, twist_add]
+    rw [Function.iterate_succ_apply', difference, LinearMap.sub_apply,
+      LinearMap.id_apply, map_sub, map_sub]
+
+theorem euler_bound (χ : B →ₗ[ℤ] ℚ) (F : ℕ → Submodule ℤ B) (hzero : F 0 = ⊥)
+    (hdrop : ∀ n y b, b ∈ F (n + 1) → difference β y b ∈ F n)
+    (n : ℕ) (b : B) (hb : b ∈ F n) (y : L) :
+    (fwdDiff y)^[n] (fun x => χ (twist β x b)) = 0 := by
+  ext x
+  rw [iterate_euler, difference_nilpotent β F hzero hdrop n y b hb, map_zero, map_zero]
+  rfl
+
+end Twists
+
+section EulerDescent
+variable {L A B : Type*} [AddCommGroup L] [Module ℤ L]
+  [AddCommGroup A] [Module ℤ A] [AddCommGroup B] [Module ℤ B]
+  (q : L →ₗ[ℤ] A) (hq : Function.Surjective q)
+  (β : Multiplicative L →* (B ≃ₗ[ℤ] B)) (χ : B →ₗ[ℤ] ℚ)
+  (hχ : ∀ l, q l = 0 → ∀ b, χ (twist β l b) = χ b)
+
+include hχ in
+theorem euler_constant_on_fibers (b : B) (x y : L) (h : q x = q y) :
+    χ (twist β x b) = χ (twist β y b) := by
+  have hk : q (x - y) = 0 := by rw [map_sub, h, sub_self]
+  calc
+    χ (twist β x b) = χ (twist β (x - y) (twist β y b)) := by
+      rw [← twist_add, sub_add_cancel]
+    _ = χ (twist β y b) := hχ _ hk _
+
+def eulerFunction (b : B) : A → ℚ := descend q hq (fun x => χ (twist β x b))
+
+include hχ in
+@[simp] theorem eulerFunction_apply (b : B) (x : L) :
+    eulerFunction q hq β χ b (q x) = χ (twist β x b) :=
+  descend_apply q hq _ (euler_constant_on_fibers q β χ hχ b) x
+
+theorem iterate_pullback (f : A → ℚ) (n : ℕ) (y x : L) :
+    (fwdDiff y)^[n] (fun z => f (q z)) x = (fwdDiff (q y))^[n] f (q x) := by
+  induction n generalizing x with
+  | zero => rfl
+  | succ n ih =>
+    rw [Function.iterate_succ_apply', Function.iterate_succ_apply', fwdDiff, fwdDiff,
+      ih, ih, map_add]
+
+include hχ in
+theorem quotient_euler_bound (F : ℕ → Submodule ℤ B) (hzero : F 0 = ⊥)
+    (hdrop : ∀ n y b, b ∈ F (n + 1) → difference β y b ∈ F n)
+    (n : ℕ) (b : B) (hb : b ∈ F n) (a : A) :
+    (fwdDiff a)^[n] (eulerFunction q hq β χ b) = 0 := by
+  obtain ⟨y, rfl⟩ := hq a
+  ext z
+  obtain ⟨x, rfl⟩ := hq z
+  rw [← iterate_pullback q]
+  have he : (fun z => eulerFunction q hq β χ b (q z)) =
+      (fun z => χ (twist β z b)) := by
+    funext z
+    exact eulerFunction_apply q hq β χ hχ b z
+  rw [he, euler_bound β χ F hzero hdrop n b hb y]
+  rfl
+
+end EulerDescent
+end PhilipponMultiplicity.FilteredEuler
+end
+
+end
+
+
+section
+set_option autoImplicit false
+open scoped BigOperators Topology
+universe u
+noncomputable section
+namespace PhilipponMultiplicity
+
+theorem euler_model_of_filtered_twists
+    (K : Type u) [NontriviallyNormedField K] (hK : IsPhilipponBaseField K)
+    (G : EmbeddedGroupProduct K)
+    (τ : G.Point → (groupProjectiveClosure G ≃ groupProjectiveClosure G))
+    (hzero : τ 0 = Equiv.refl _)
+    (hadd : ∀ g h, τ (g+h) = (τ h).trans (τ g))
+    (hregular : ∀ g, G.ambient.IsRegularAlong G.ambient
+      (fun x : groupProjectiveClosure G => x.val) (fun x => (τ g x).val))
+    (hgeometry : ∃ (L : Type u) (_ : AddCommGroup L) (_ : Module ℤ L)
+      (A : Type) (_ : AddCommGroup A) (_ : Module ℤ A) (_ : Module.Finite ℤ A)
+      (q : L →ₗ[ℤ] A), Function.Surjective q ∧
+      ∃ (ρ : Multiplicative G.Point →* (L ≃ₗ[ℤ] L)) (c : G.FactorIndex → L),
+        (∀ g x, q x = 0 → q (ρ g x) = 0) ∧
+        ∃ (B : Type u) (_ : AddCommGroup B) (_ : Module ℤ B)
+          (β : Multiplicative L →* (B ≃ₗ[ℤ] B)) (χ : B →ₗ[ℤ] ℚ)
+          (F : ℕ → Submodule ℤ B),
+          F 0 = ⊥ ∧
+          (∀ n y b, b ∈ F (n + 1) → β (Multiplicative.ofAdd y) b - b ∈ F n) ∧
+          (∀ l, q l = 0 → ∀ b, χ (β (Multiplicative.ofAdd l) b) = χ b) ∧
+          ∀ (V : Set (groupProjectiveClosure G)),
+            @IsClosed _ (TopologicalSpace.induced Subtype.val G.ambient.zariskiTopology) V →
+            ∃ b : B,
+              b ∈ F (SectionThree.locusDimension G.ambient (Subtype.val '' V) + 1) ∧
+              ∀ (g : G.Point) (D : G.FactorIndex → ℕ), (∀ i, 1 ≤ D i) →
+                ∃ N : ℕ, ∀ n ≥ N,
+                  χ (β (Multiplicative.ofAdd
+                    (n • ρ (Multiplicative.ofAdd (-g)) (∑ i, (D i : ℤ) • c i))) b) =
+                    (Hilbert.hilbertFunction K G.ambient.factorCount G.ambient.ambientDimension
+                      (G.ambient.vanishingIdeal (Subtype.val '' (τ g '' V)))
+                      (fun i => D i * n) : ℚ)) :
+    ∃ (A : Type) (_ : AddCommGroup A) (_ : Module ℤ A)
+      (_ : Module.Finite ℤ A)
+      (α : Multiplicative G.Point →* (A ≃ₗ[ℤ] A))
+      (c : G.FactorIndex → A),
+      ∀ (V : Set (groupProjectiveClosure G)),
+        @IsClosed _ (TopologicalSpace.induced Subtype.val G.ambient.zariskiTopology) V →
+        ∃ f : A → ℚ,
+          (∀ y : A,
+            (fwdDiff y)^[SectionThree.locusDimension G.ambient (Subtype.val '' V) + 1] f = 0) ∧
+          ∀ (g : G.Point) (D : G.FactorIndex → ℕ), (∀ i, 1 ≤ D i) →
+            ∃ N : ℕ, ∀ n ≥ N,
+              f (n • α (Multiplicative.ofAdd (-g)) (∑ i, (D i : ℤ) • c i)) =
+                (Hilbert.hilbertFunction K G.ambient.factorCount G.ambient.ambientDimension
+                  (G.ambient.vanishingIdeal (Subtype.val '' (τ g '' V)))
+                  (fun i => D i * n) : ℚ) := by
+  classical
+  obtain ⟨L, hL, hmodL, A, hA, hmodA, hfinite, q, hq, ρ, c, hker,
+    B, hB, hmodB, β, χ, F, hFzero, hdrop, hχ, hmodel⟩ := hgeometry
+  letI := hL
+  letI := hmodL
+  letI := hA
+  letI := hmodA
+  letI := hfinite
+  letI := hB
+  letI := hmodB
+  refine ⟨A, hA, hmodA, hfinite, FilteredEuler.quotientAction q hq ρ hker,
+    (fun i => q (c i)), ?_⟩
+  intro V hV
+  obtain ⟨b, hb, hHilbert⟩ := hmodel V hV
+  refine ⟨FilteredEuler.eulerFunction q hq β χ b, ?_, ?_⟩
+  · exact FilteredEuler.quotient_euler_bound q hq β χ hχ F hFzero hdrop _ b hb
+  · intro g D hD
+    obtain ⟨N, hN⟩ := hHilbert g D hD
+    refine ⟨N, fun n hn => ?_⟩
+    have hsum : (∑ i, (D i : ℤ) • q (c i)) = q (∑ i, (D i : ℤ) • c i) := by
+      simp only [map_sum, map_zsmul]
+    rw [hsum, FilteredEuler.quotientAction_apply, ← map_nsmul,
+      FilteredEuler.eulerFunction_apply q hq β χ hχ]
+    exact hN n hn
+
+end PhilipponMultiplicity
+end
+
+end
+
+set_option autoImplicit false
+open PhilipponMultiplicity
+open scoped BigOperators Topology
+
+theorem solution
+    (K : Type*) [NontriviallyNormedField K] (hK : IsPhilipponBaseField K)
+    (G : EmbeddedGroupProduct K)
+    (τ : G.Point → (groupProjectiveClosure G ≃ groupProjectiveClosure G))
+    (hzero : τ 0 = Equiv.refl _)
+    (hadd : ∀ g h, τ (g+h) = (τ h).trans (τ g))
+    (hregular : ∀ g, G.ambient.IsRegularAlong G.ambient
+      (fun x : groupProjectiveClosure G => x.val) (fun x => (τ g x).val)) :
+    ∃ (A : Type) (_ : AddCommGroup A) (_ : Module ℤ A)
+      (_ : Module.Finite ℤ A)
+      (α : Multiplicative G.Point →* (A ≃ₗ[ℤ] A))
+      (c : G.FactorIndex → A),
+      ∀ (V : Set (groupProjectiveClosure G)),
+        @IsClosed _ (TopologicalSpace.induced Subtype.val G.ambient.zariskiTopology) V →
+        ∃ f : A → ℚ,
+          (∀ y : A,
+            (fwdDiff y)^[SectionThree.locusDimension G.ambient (Subtype.val '' V) + 1] f = 0) ∧
+          ∀ (g : G.Point) (D : G.FactorIndex → ℕ), (∀ i, 1 ≤ D i) →
+            ∃ N : ℕ, ∀ n ≥ N,
+              f (n • α (Multiplicative.ofAdd (-g)) (∑ i, (D i : ℤ) • c i)) =
+                (Hilbert.hilbertFunction K G.ambient.factorCount G.ambient.ambientDimension
+                  (G.ambient.vanishingIdeal (Subtype.val '' (τ g '' V)))
+                  (fun i => D i * n) : ℚ) := by
+  exact euler_model_of_filtered_twists K hK G τ hzero hadd hregular
+    (closure_action_has_filtered_twist_model K hK G τ hzero hadd hregular)

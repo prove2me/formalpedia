@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyInverse_oneSubU_cayley_injective
 -- name    : BookProof.ChapterCayleyInverse.oneSubU_cayley_injective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:11:55.929342+00:00
 -- url     : https://prove2.me/theorems/a440a638-c209-431c-9f59-6587c2811628

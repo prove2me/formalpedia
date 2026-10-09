@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_dgamma_clifford
 -- name    : BookProof.ChapterA3.dgamma_clifford
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:42:05.982984+00:00
 -- url     : https://prove2.me/theorems/4842847c-83c0-487a-9a2f-d1bb604d687d

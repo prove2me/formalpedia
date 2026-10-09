@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_gaussInt_coordCombo_sq
 -- name    : BookProof.GaussCoordCombo.gaussInt_coordCombo_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:20:07.269646+00:00
 -- url     : https://prove2.me/theorems/555f5ea7-0682-4a23-8ca9-7859db8899ac

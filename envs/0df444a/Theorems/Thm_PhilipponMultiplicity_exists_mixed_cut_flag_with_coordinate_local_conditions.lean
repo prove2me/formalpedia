@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_with_coordinate_local_conditions
 -- name    : PhilipponMultiplicity.exists_mixed_cut_flag_with_coordinate_local_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T17:02:54.254122+00:00
 -- url     : https://prove2.me/theorems/a774d51e-7dc7-439a-8661-2093dab4a755

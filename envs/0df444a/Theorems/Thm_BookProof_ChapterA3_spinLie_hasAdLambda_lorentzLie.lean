@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_spinLie_hasAdLambda_lorentzLie
 -- name    : BookProof.ChapterA3.spinLie_hasAdLambda_lorentzLie
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:46:26.881926+00:00
 -- url     : https://prove2.me/theorems/320e3c43-ee4a-4939-a353-07d389856905

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_gauss_field_identity
 -- name    : BookProof.BookBrstYangMills.gauss_field_identity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:10:48.890978+00:00
 -- url     : https://prove2.me/theorems/73c4ac20-cb4b-47eb-8a30-a73bd5b5c775

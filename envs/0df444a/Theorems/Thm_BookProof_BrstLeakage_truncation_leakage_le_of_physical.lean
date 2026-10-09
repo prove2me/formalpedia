@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_truncation_leakage_le_of_physical
 -- name    : BookProof.BrstLeakage.truncation_leakage_le_of_physical
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:17:04.679269+00:00
 -- url     : https://prove2.me/theorems/d1324cad-0320-4773-8ef7-d2fcb3c152f9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_polynomial_submodule_mul_finrank_ge
 -- name    : DiazModulus.polynomial_submodule_mul_finrank_ge
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:03.345645+00:00
 -- url     : https://prove2.me/theorems/493fa5ef-b99c-411b-8f1e-80c5901c9183

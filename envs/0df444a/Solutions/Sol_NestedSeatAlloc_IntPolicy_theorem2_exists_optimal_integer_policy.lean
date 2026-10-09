@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NestedSeatAlloc.IntPolicy.theorem2_exists_optimal_integer_policy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @WillR
 -- created : 2026-10-05T23:01:51.148983+00:00
 -- url     : https://prove2.me/submissions/5526649b-edef-4e75-b22b-07e807e6c5c4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NestedSeatAlloc_IntPolicy_Model

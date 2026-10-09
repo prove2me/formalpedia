@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pCond_nonneg
 -- name    : BookProof.ChapterConditional.pCond_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:22:20.152129+00:00
 -- url     : https://prove2.me/theorems/bf536cb5-8f91-4938-9836-fb7b7d1bb1f2

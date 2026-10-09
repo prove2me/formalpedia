@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeCasimirAverage_gaugeAverage_const
 -- name    : BookProof.ChapterGaugeCasimirAverage.gaugeAverage_const
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:54:17.352794+00:00
 -- url     : https://prove2.me/theorems/42863874-0824-48a9-9853-1c12f0801336

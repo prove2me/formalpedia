@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_push_compose
 -- name    : BookProof.ChapterAttentionMarkov.push_compose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:28:03.94374+00:00
 -- url     : https://prove2.me/theorems/54fb74e0-c4a9-4908-b8de-6e885aeb08f9

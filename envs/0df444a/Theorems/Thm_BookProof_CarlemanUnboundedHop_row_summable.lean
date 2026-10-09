@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_row_summable
 -- name    : BookProof.CarlemanUnboundedHop.row_summable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:34:34.339091+00:00
 -- url     : https://prove2.me/theorems/2b55584b-31c3-4641-aa4d-89635b410b36

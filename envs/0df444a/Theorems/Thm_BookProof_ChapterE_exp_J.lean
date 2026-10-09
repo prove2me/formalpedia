@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE_exp_J
 -- name    : BookProof.ChapterE.exp_J
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:09:36.955882+00:00
 -- url     : https://prove2.me/theorems/fbd616e1-715a-4c41-9ae4-251252e0c0ac

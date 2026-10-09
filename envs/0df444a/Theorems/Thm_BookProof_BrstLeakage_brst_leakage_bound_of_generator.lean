@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_brst_leakage_bound_of_generator
 -- name    : BookProof.BrstLeakage.brst_leakage_bound_of_generator
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:17:17.527234+00:00
 -- url     : https://prove2.me/theorems/48a9431a-4288-4be0-8ce8-ae614cb25dac

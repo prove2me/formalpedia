@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalProb_second_moment
 -- name    : BookProof.ChapterCoherentTemperature.thermalProb_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:10:34.622157+00:00
 -- url     : https://prove2.me/theorems/8e50330b-107a-44d1-8e6a-537e5060e848

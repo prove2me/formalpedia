@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_half_lt_thermalTemperature
 -- name    : BookProof.ChapterCoherentTemperature.half_lt_thermalTemperature
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:11:16.924982+00:00
 -- url     : https://prove2.me/theorems/f3a04155-68fc-4262-8eeb-b1ed8270db71

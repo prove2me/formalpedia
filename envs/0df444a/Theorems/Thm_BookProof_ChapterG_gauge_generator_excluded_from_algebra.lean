@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_gauge_generator_excluded_from_algebra
 -- name    : BookProof.ChapterG.gauge_generator_excluded_from_algebra
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:48:57.60734+00:00
 -- url     : https://prove2.me/theorems/b58dfaf2-a8d8-4791-aabe-e497b4abea95

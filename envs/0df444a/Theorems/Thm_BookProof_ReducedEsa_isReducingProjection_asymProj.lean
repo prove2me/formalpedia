@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ReducedEsa_isReducingProjection_asymProj
 -- name    : BookProof.ReducedEsa.isReducingProjection_asymProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:31:52.507887+00:00
 -- url     : https://prove2.me/theorems/b1326f24-c0d0-47d8-bc90-44f18009b693

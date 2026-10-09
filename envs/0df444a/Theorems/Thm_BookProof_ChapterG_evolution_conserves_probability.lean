@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_evolution_conserves_probability
 -- name    : BookProof.ChapterG.evolution_conserves_probability
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:27:10.982446+00:00
 -- url     : https://prove2.me/theorems/c88bc741-395f-4650-b8d6-3ee5bb603b09

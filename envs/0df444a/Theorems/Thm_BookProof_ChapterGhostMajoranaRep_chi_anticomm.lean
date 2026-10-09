@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGhostMajoranaRep_chi_anticomm
 -- name    : BookProof.ChapterGhostMajoranaRep.chi_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:22:31.651975+00:00
 -- url     : https://prove2.me/theorems/ee379464-f127-4d9c-aac7-fde24343dce7

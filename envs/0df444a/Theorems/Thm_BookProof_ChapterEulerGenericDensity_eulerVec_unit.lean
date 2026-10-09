@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_eulerVec_unit
 -- name    : BookProof.ChapterEulerGenericDensity.eulerVec_unit
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:29:12.63735+00:00
 -- url     : https://prove2.me/theorems/95b5a12c-449b-4307-96fd-f724cf125666

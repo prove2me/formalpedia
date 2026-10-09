@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_hermitian_flow_unitary
 -- name    : BookProof.ChapterF4.hermitian_flow_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:51:09.261979+00:00
 -- url     : https://prove2.me/theorems/761ee82e-c417-4f52-a6d6-8c6be1427a14

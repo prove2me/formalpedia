@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_pauli_triple_trace
 -- name    : BookProof.ChapterElectroweakFieldStrength.pauli_triple_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:43:00.754561+00:00
 -- url     : https://prove2.me/theorems/1b6dba37-5c02-44ea-9b3b-b660a669a6ed

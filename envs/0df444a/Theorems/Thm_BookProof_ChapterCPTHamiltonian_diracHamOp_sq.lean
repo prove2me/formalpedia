@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_diracHamOp_sq
 -- name    : BookProof.ChapterCPTHamiltonian.diracHamOp_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:31:45.686978+00:00
 -- url     : https://prove2.me/theorems/897f4a2c-2fc5-4638-af05-6997e6a45748

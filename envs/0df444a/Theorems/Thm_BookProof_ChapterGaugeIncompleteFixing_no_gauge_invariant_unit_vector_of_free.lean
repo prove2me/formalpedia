@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_no_gauge_invariant_unit_vector_of_free
 -- name    : BookProof.ChapterGaugeIncompleteFixing.no_gauge_invariant_unit_vector_of_free
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:13:24.812165+00:00
 -- url     : https://prove2.me/theorems/3589448b-5bf5-46eb-921e-e469336a2c88

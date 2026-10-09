@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilon_massless_lorentz
 -- name    : BookProof.ChapterA3.upsilon_massless_lorentz
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:11:40.489058+00:00
 -- url     : https://prove2.me/theorems/c935729e-42e7-455e-9e14-271293c043e7

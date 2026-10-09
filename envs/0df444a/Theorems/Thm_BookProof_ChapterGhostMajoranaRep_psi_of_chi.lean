@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGhostMajoranaRep_psi_of_chi
 -- name    : BookProof.ChapterGhostMajoranaRep.psi_of_chi
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:22:35.01255+00:00
 -- url     : https://prove2.me/theorems/007f3525-9262-4170-bb3d-1161f89de8df

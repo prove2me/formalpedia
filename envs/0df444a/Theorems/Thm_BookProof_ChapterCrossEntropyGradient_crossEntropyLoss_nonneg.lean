@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCrossEntropyGradient_crossEntropyLoss_nonneg
 -- name    : BookProof.ChapterCrossEntropyGradient.crossEntropyLoss_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:27:34.915579+00:00
 -- url     : https://prove2.me/theorems/b845866c-41f4-424c-a488-88e3f3661b8c

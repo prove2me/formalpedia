@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropyTemperature_heatCapacity_nonneg
 -- name    : BookProof.ChapterEntropyTemperature.heatCapacity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:51:56.807272+00:00
 -- url     : https://prove2.me/theorems/abb65c9b-9108-4992-a136-4032bcc9c9fd

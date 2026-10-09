@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEnergyBoundedEvolution_eLpNorm_evol
 -- name    : BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:47:25.647309+00:00
 -- url     : https://prove2.me/theorems/9f3dfbad-95c2-457e-bdcb-7666e6b4b430

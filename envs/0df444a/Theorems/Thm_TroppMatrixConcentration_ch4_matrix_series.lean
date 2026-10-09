@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch4_matrix_series
 -- name    : TroppMatrixConcentration.ch4_matrix_series
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:47:01.472557+00:00
 -- url     : https://prove2.me/theorems/ba040093-f86b-4552-b6c5-db4320f287cb

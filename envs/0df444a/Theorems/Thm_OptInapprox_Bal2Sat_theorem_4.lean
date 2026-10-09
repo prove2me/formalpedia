@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptInapprox_Bal2Sat_theorem_4
 -- name    : OptInapprox.Bal2Sat.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:22:10.080159+00:00
 -- url     : https://prove2.me/theorems/ed56ed14-164f-4571-9d7d-fdf8ed97b6ce

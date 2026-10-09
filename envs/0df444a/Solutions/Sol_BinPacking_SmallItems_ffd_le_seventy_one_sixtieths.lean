@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BinPacking.SmallItems.ffd_le_seventy_one_sixtieths
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @moona3k
 -- created : 2026-10-04T18:51:12.710131+00:00
 -- url     : https://prove2.me/submissions/cf55a4a7-9375-4521-97d4-1c6a82b973b9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BinPacking_SmallItems_Model

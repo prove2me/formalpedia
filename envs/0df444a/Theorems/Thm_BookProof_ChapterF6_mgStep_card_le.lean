@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_mgStep_card_le
 -- name    : BookProof.ChapterF6.mgStep_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:02:03.388986+00:00
 -- url     : https://prove2.me/theorems/cbe55295-e8d6-4431-a74d-04545d6d8f4b

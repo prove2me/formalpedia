@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_exists_isClosureOf
 -- name    : BookProof.ClosureUniqueness.exists_isClosureOf
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:38:10.975997+00:00
 -- url     : https://prove2.me/theorems/018990c6-6c7d-4466-b5c9-b85b26297630

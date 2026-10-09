@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeWeylResidual_weyl_surface_preserved_by_remnant
 -- name    : BookProof.ChapterGaugeWeylResidual.weyl_surface_preserved_by_remnant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:17:50.6155+00:00
 -- url     : https://prove2.me/theorems/6a43e84d-2a53-4d3e-8242-fcb4a61a20ee

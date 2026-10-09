@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_packetNorm_sq
 -- name    : BookProof.ChapterCoherentPositionSpace.packetNorm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:03:44.595977+00:00
 -- url     : https://prove2.me/theorems/05607d12-0536-44ca-a8d0-7c5acf1d3451

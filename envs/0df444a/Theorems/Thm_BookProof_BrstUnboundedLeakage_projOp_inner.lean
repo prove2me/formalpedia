@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_projOp_inner
 -- name    : BookProof.BrstUnboundedLeakage.projOp_inner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:22:07.936099+00:00
 -- url     : https://prove2.me/theorems/fba9e6b2-fa05-4f04-b77b-2ae3dac19cbd

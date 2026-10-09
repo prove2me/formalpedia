@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_gaussLaw_covariant
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.gaussLaw_covariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:52:07.551152+00:00
 -- url     : https://prove2.me/theorems/e429df47-bde7-4f48-bae1-b6cbe99ac105

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_field_gauge_invariant_iff
 -- name    : BookProof.ChapterF1.field_gauge_invariant_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:46:11.216658+00:00
 -- url     : https://prove2.me/theorems/16dd7437-92cf-4326-996a-942b6a98ee9f

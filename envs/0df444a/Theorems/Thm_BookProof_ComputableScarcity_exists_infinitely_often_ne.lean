@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ComputableScarcity_exists_infinitely_often_ne
 -- name    : BookProof.ComputableScarcity.exists_infinitely_often_ne
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:17:12.079397+00:00
 -- url     : https://prove2.me/theorems/0818e609-0b90-4922-b447-95503b08c595

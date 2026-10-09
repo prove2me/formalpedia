@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SnakyConditional_snaky_winning_strategy_with_legal_states
 -- name    : OAI.SnakyConditional.snaky_winning_strategy_with_legal_states
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:23.613985+00:00
 -- url     : https://prove2.me/theorems/ba8a045d-4e6e-478a-8e05-4c1527165825

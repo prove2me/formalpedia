@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_exists_affineCube_plateau_site_approximation
 -- name    : OAI.Erdos3.exists_affineCube_plateau_site_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T13:21:02.627625+00:00
 -- url     : https://prove2.me/theorems/33e25706-adda-4d9c-9b7c-6b23ad6934b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_four_pow_hull_no_two_by_three
 -- name    : DiazModulus.four_pow_hull_no_two_by_three
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:09:56.047126+00:00
 -- url     : https://prove2.me/theorems/6c47ce09-6fa5-4025-90d3-ec6ef78e2208

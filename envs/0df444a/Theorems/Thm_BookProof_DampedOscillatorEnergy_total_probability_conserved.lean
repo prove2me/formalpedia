@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_total_probability_conserved
 -- name    : BookProof.DampedOscillatorEnergy.total_probability_conserved
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:27:38.814984+00:00
 -- url     : https://prove2.me/theorems/233c7df5-81fb-42bc-96e6-d888032a20fa

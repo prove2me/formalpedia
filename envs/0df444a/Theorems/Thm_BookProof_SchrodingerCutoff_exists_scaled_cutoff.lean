@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_exists_scaled_cutoff
 -- name    : BookProof.SchrodingerCutoff.exists_scaled_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:34:43.353827+00:00
 -- url     : https://prove2.me/theorems/33284aa9-03ef-47d7-b384-4d2bd1917af9

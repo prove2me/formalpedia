@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_Theta_antitone
 -- name    : BookProof.CarlemanUnboundedHop.Theta_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:33:27.917037+00:00
 -- url     : https://prove2.me/theorems/65d7d361-eae8-4c1c-b2d4-a25c9ecd27e2

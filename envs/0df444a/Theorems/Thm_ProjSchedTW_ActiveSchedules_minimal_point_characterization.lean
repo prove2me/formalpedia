@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_ActiveSchedules_minimal_point_characterization
 -- name    : ProjSchedTW.ActiveSchedules.minimal_point_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T16:05:39.300258+00:00
 -- url     : https://prove2.me/theorems/8a11fa8f-98a7-4def-80e3-215f93a954b1

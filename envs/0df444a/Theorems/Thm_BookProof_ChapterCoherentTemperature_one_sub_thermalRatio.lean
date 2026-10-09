@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_one_sub_thermalRatio
 -- name    : BookProof.ChapterCoherentTemperature.one_sub_thermalRatio
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:09:22.612839+00:00
 -- url     : https://prove2.me/theorems/6765483d-88d3-4daa-925d-71feec069a72

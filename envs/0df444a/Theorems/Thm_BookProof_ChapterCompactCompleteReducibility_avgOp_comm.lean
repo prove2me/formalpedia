@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCompactCompleteReducibility_avgOp_comm
 -- name    : BookProof.ChapterCompactCompleteReducibility.avgOp_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:16:15.52599+00:00
 -- url     : https://prove2.me/theorems/5a8a3dc5-9ecc-4e8d-b7f5-04da059d9d96

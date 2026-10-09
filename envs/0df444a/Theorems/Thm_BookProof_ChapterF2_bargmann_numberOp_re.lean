@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_bargmann_numberOp_re
 -- name    : BookProof.ChapterF2.bargmann_numberOp_re
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:47:12.664921+00:00
 -- url     : https://prove2.me/theorems/59dda357-abcb-4759-83e2-29b076b35610

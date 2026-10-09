@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_hasSum_expSeries
 -- name    : BookProof.ChapterCoherentOccupation.hasSum_expSeries
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:52:48.72516+00:00
 -- url     : https://prove2.me/theorems/89dcacdb-ad23-4107-90ea-019881c4b037

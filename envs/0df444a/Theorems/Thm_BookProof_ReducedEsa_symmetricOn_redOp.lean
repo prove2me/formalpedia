@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ReducedEsa_symmetricOn_redOp
 -- name    : BookProof.ReducedEsa.symmetricOn_redOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:30:58.811143+00:00
 -- url     : https://prove2.me/theorems/f5f41a06-3ded-4c33-89fa-2a67d0fb5bd6

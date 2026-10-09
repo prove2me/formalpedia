@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_hasDerivAt_coupledEnergy
 -- name    : BookProof.DampedOscillatorEnergy.hasDerivAt_coupledEnergy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:25:56.402221+00:00
 -- url     : https://prove2.me/theorems/60d2dd46-6741-4237-8316-0b15276e393b

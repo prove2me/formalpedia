@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_mean
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_mean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:54:26.295079+00:00
 -- url     : https://prove2.me/theorems/50453ee2-70b1-46ce-bc30-81de77f31aef

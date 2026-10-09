@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FreeEMField_emFieldStrength_antisymm
 -- name    : BookProof.FreeEMField.emFieldStrength_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:25:21.422839+00:00
 -- url     : https://prove2.me/theorems/1af88392-e42a-415a-aefd-15d7189a97b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_packetBorn_eq_scoreSoftmax
 -- name    : BookProof.ChapterCoherentPositionSpace.packetBorn_eq_scoreSoftmax
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:04:58.353395+00:00
 -- url     : https://prove2.me/theorems/a6864f47-f884-4fdf-afa0-bfe365c686f5

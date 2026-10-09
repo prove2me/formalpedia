@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_pderiv_prod_eq_zero
 -- name    : BookProof.GaussCoordCombo.pderiv_prod_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:20:29.894077+00:00
 -- url     : https://prove2.me/theorems/31b3a612-a107-45ed-ac43-28aeee35af13

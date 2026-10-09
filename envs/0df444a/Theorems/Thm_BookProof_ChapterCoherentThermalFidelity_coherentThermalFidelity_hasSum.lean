@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_coherentThermalFidelity_hasSum
 -- name    : BookProof.ChapterCoherentThermalFidelity.coherentThermalFidelity_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:11:51.120059+00:00
 -- url     : https://prove2.me/theorems/c8cf6274-bde7-4595-9ed0-f9e081923bfa

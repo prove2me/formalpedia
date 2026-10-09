@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_lie_adj_leibniz
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.lie_adj_leibniz
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:55:23.450959+00:00
 -- url     : https://prove2.me/theorems/c6dd60bd-0ab8-4398-9c47-35bb393fc43a

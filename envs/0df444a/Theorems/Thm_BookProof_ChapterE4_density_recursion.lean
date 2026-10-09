@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE4_density_recursion
 -- name    : BookProof.ChapterE4.density_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:14:01.710133+00:00
 -- url     : https://prove2.me/theorems/0c5a02e0-54c4-4152-be3b-523867d5c467

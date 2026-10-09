@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HryniewiczCriterion_linksNontrivially_of_isDiskLikeGlobalSectionMap
 -- name    : HryniewiczCriterion.linksNontrivially_of_isDiskLikeGlobalSectionMap
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-08T09:48:30.936133+00:00
 -- url     : https://prove2.me/theorems/1f8b271a-b6b6-4b0f-96e1-e0512ca284f6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_tailProd_nonneg
 -- name    : BookProof.ChapterEulerNState.tailProd_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:32:10.620902+00:00
 -- url     : https://prove2.me/theorems/66adf9f2-fcf5-44de-8f2b-b0838068e15c

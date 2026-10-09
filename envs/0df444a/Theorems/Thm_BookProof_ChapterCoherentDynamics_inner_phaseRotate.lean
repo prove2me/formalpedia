@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_inner_phaseRotate
 -- name    : BookProof.ChapterCoherentDynamics.inner_phaseRotate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:49:19.542228+00:00
 -- url     : https://prove2.me/theorems/18118ec3-0665-48d5-9913-3b889bd6a7c8

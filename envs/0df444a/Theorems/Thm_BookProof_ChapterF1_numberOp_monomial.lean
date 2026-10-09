@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_numberOp_monomial
 -- name    : BookProof.ChapterF1.numberOp_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:44:49.642566+00:00
 -- url     : https://prove2.me/theorems/80ef0381-0150-478b-a8c1-378117953d5a

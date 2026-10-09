@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_cutoff_box_image_comparison_sqrt
 -- name    : OAI.Erdos3.cutoff_box_image_comparison_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T10:47:40.742007+00:00
 -- url     : https://prove2.me/theorems/b0608720-d186-4521-9029-183b49baf25d

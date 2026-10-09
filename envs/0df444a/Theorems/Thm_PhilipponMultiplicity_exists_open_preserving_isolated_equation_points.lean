@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_isolated_equation_points
 -- name    : PhilipponMultiplicity.exists_open_preserving_isolated_equation_points
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-05T15:06:30.017762+00:00
 -- url     : https://prove2.me/theorems/e3f679bb-787a-4101-af01-b03541b77c95

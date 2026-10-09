@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_eq_zero_of_flux_small
 -- name    : BookProof.CarlemanUnboundedHop.eq_zero_of_flux_small
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:33:38.480986+00:00
 -- url     : https://prove2.me/theorems/00f3dea7-79cc-489b-af78-732279f0cc0b

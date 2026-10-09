@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilon_apply_comb
 -- name    : BookProof.ChapterA3.upsilon_apply_comb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:49:29.256131+00:00
 -- url     : https://prove2.me/theorems/fb29b057-87e0-49f5-80cf-5f95527915f0

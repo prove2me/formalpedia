@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_observableExpectation_minimizes
 -- name    : BookProof.ChapterAttentionOutputVariance.observableExpectation_minimizes
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:37:40.509991+00:00
 -- url     : https://prove2.me/theorems/71a219b9-c529-4c96-b34a-7da5b64cc103

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_hasAdLambda_of_intModel
 -- name    : BookProof.ChapterA3.hasAdLambda_of_intModel
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:43:35.969984+00:00
 -- url     : https://prove2.me/theorems/dfb40f65-a0ad-4342-9a43-fe6cd8377cf7

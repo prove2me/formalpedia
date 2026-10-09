@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_gaussInt_zero_prime
 -- name    : BookProof.GaussCoordCombo.gaussInt_zero_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:19:02.139009+00:00
 -- url     : https://prove2.me/theorems/8c108892-b086-41c9-bfc6-236864b10173

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE4_cross_diag_zero
 -- name    : BookProof.ChapterE4.cross_diag_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:14:19.694214+00:00
 -- url     : https://prove2.me/theorems/a686a024-a8a1-4a80-8d41-2288fa2e0f25

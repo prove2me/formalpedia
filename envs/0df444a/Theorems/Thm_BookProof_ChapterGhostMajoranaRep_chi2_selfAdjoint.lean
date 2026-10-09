@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGhostMajoranaRep_chi2_selfAdjoint
 -- name    : BookProof.ChapterGhostMajoranaRep.chi2_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:21:59.545568+00:00
 -- url     : https://prove2.me/theorems/b93f1c5a-48cb-4a31-9de3-cba16c0a1b4d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_chargeQ_ne_zero
 -- name    : BookProof.ChapterGaugeMechanicsCharge.chargeQ_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:15:44.122448+00:00
 -- url     : https://prove2.me/theorems/fd116e37-3100-41f2-99d7-ab4567141612

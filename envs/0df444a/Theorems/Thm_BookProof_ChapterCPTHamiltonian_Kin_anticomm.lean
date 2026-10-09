@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_Kin_anticomm
 -- name    : BookProof.ChapterCPTHamiltonian.Kin_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:23:15.445476+00:00
 -- url     : https://prove2.me/theorems/c76401dd-b564-4efa-8b24-0ec22243533e

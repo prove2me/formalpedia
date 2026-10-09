@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_bornWeightC_isometry
 -- name    : BookProof.ChapterCoherentDynamics.bornWeightC_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:48:17.200989+00:00
 -- url     : https://prove2.me/theorems/652b602a-07af-430a-b11c-d80b5b9c5b1c

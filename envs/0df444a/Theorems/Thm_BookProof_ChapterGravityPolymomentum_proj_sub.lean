@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_proj_sub
 -- name    : BookProof.ChapterGravityPolymomentum.proj_sub
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:02:42.247827+00:00
 -- url     : https://prove2.me/theorems/e6898609-c905-4ac7-885a-4ad260b2f4de

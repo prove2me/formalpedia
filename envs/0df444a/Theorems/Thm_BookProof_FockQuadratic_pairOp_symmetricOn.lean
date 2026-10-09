@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockQuadratic_pairOp_symmetricOn
 -- name    : BookProof.FockQuadratic.pairOp_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T21:01:41.804635+00:00
 -- url     : https://prove2.me/theorems/9ec2e6d6-73b4-40ea-8ef6-8d9055875e8b

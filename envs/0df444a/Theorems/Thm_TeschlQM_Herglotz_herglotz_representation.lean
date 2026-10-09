@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Herglotz_herglotz_representation
 -- name    : TeschlQM.Herglotz.herglotz_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:36:55.578919+00:00
 -- url     : https://prove2.me/theorems/1b262760-cc34-416e-b57a-3661ef49cfda

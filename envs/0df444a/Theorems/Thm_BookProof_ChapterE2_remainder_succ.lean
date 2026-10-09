@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_remainder_succ
 -- name    : BookProof.ChapterE2.remainder_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:10:30.976103+00:00
 -- url     : https://prove2.me/theorems/40757239-f741-4e70-9e9a-a2e0b480ebdd

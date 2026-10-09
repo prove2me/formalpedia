@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_chargeQ_eq_euler
 -- name    : BookProof.ChapterGaugeMechanicsCharge.chargeQ_eq_euler
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:14:49.196285+00:00
 -- url     : https://prove2.me/theorems/eafaddee-b582-49d3-8fd2-d9f4c528061c

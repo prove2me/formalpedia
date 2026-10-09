@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_IsGraphCore_trans
 -- name    : BookProof.GraphCore.IsGraphCore.trans
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:56:18.091295+00:00
 -- url     : https://prove2.me/theorems/1e696dbb-bea2-4700-92e1-8e8a4f204d48

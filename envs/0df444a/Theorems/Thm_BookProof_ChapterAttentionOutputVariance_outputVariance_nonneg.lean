@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_outputVariance_nonneg
 -- name    : BookProof.ChapterAttentionOutputVariance.outputVariance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:34:29.205056+00:00
 -- url     : https://prove2.me/theorems/fa76be94-affc-473d-953a-19359bcca671

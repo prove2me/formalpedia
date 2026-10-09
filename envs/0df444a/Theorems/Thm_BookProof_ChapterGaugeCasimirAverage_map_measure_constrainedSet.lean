@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeCasimirAverage_map_measure_constrainedSet
 -- name    : BookProof.ChapterGaugeCasimirAverage.map_measure_constrainedSet
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:56:27.110264+00:00
 -- url     : https://prove2.me/theorems/e0384593-e83e-425d-aef1-60af8c3ddccc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF8_fockEmbed_mem_singleExcitation
 -- name    : BookProof.ChapterF8.fockEmbed_mem_singleExcitation
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:07:55.682451+00:00
 -- url     : https://prove2.me/theorems/ebc992ca-3b7e-4bc5-aeb1-4f58cdb19553

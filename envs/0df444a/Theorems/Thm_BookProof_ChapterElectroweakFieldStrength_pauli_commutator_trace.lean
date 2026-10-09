@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_pauli_commutator_trace
 -- name    : BookProof.ChapterElectroweakFieldStrength.pauli_commutator_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:30.023807+00:00
 -- url     : https://prove2.me/theorems/bebcb531-ed1e-4d55-bc5b-151016031134

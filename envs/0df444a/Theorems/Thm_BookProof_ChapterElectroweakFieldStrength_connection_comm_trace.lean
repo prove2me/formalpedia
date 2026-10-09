@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_connection_comm_trace
 -- name    : BookProof.ChapterElectroweakFieldStrength.connection_comm_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:43:07.329797+00:00
 -- url     : https://prove2.me/theorems/ce40801f-9854-4f31-9198-d07d594e77a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionStreaming_scoreSoftmax_snoc_castSucc
 -- name    : BookProof.ChapterAttentionStreaming.scoreSoftmax_snoc_castSucc
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:50:49.982988+00:00
 -- url     : https://prove2.me/theorems/5f05db84-84cf-4219-a2f9-f6d43a2a59b0

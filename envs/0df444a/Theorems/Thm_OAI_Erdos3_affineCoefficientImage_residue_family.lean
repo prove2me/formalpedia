@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_affineCoefficientImage_residue_family
 -- name    : OAI.Erdos3.affineCoefficientImage_residue_family
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:25:46.765699+00:00
 -- url     : https://prove2.me/theorems/bd523c89-fb82-48af-a94a-03d5c83a0588

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_chi_eq_zero
 -- name    : BookProof.SchrodingerCutoff.chi_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:30:38.349404+00:00
 -- url     : https://prove2.me/theorems/fe40592c-3463-48dc-9b71-9df5fd43aa6b

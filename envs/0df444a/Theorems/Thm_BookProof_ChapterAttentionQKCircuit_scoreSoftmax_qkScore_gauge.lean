@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionQKCircuit_scoreSoftmax_qkScore_gauge
 -- name    : BookProof.ChapterAttentionQKCircuit.scoreSoftmax_qkScore_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:41:16.535687+00:00
 -- url     : https://prove2.me/theorems/e14c075f-f13c-4a2e-a652-6380f57419c7

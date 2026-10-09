@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_density_iff_exists_unitary_diagonal
 -- name    : BookProof.DensitySpectral.density_iff_exists_unitary_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:56:11.322466+00:00
 -- url     : https://prove2.me/theorems/54a8a89c-ab05-4db2-930f-8baa83df448a

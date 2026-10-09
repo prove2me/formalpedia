@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_chi_continuous
 -- name    : BookProof.SchrodingerCutoff.chi_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:32:25.290258+00:00
 -- url     : https://prove2.me/theorems/76ade372-61c7-4302-9c6c-a11f30116dcf

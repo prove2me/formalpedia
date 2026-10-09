@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_permMat_diagGen_comm
 -- name    : BookProof.ChapterA3n.permMat_diagGen_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:07:57.853112+00:00
 -- url     : https://prove2.me/theorems/35d8aaf0-9a3e-4a0d-bef3-77f26e34188e

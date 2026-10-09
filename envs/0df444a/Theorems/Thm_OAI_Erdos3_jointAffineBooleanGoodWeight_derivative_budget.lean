@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_jointAffineBooleanGoodWeight_derivative_budget
 -- name    : OAI.Erdos3.jointAffineBooleanGoodWeight_derivative_budget
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:09:41.685263+00:00
 -- url     : https://prove2.me/theorems/6763c40c-912f-4f12-b02e-907ef2783baa

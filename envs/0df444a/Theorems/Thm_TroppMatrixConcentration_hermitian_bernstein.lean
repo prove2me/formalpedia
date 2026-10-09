@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_hermitian_bernstein
 -- name    : TroppMatrixConcentration.hermitian_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:51:51.913272+00:00
 -- url     : https://prove2.me/theorems/559bf86a-9927-4dfd-8a82-d48006fe0db9

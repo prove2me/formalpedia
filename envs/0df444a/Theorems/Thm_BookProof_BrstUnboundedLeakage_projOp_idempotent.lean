@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_projOp_idempotent
 -- name    : BookProof.BrstUnboundedLeakage.projOp_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:19:07.452974+00:00
 -- url     : https://prove2.me/theorems/770af339-c8b1-4954-9617-351866c0ef50

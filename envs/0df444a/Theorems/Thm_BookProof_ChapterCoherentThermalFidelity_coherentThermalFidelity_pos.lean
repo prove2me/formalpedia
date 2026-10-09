@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_coherentThermalFidelity_pos
 -- name    : BookProof.ChapterCoherentThermalFidelity.coherentThermalFidelity_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:12:28.435294+00:00
 -- url     : https://prove2.me/theorems/88982b71-3a84-455a-9250-365d38a0962d

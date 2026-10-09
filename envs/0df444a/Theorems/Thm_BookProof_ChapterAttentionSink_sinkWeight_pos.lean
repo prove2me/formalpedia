@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSink_sinkWeight_pos
 -- name    : BookProof.ChapterAttentionSink.sinkWeight_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:44:56.77157+00:00
 -- url     : https://prove2.me/theorems/db7d36bb-c747-4bc7-84de-14e9d780a8ae

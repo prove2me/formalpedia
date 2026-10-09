@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_SecondOrder_jensen_bound
 -- name    : PoissonDepTrials.SecondOrder.jensen_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:52:35.936851+00:00
 -- url     : https://prove2.me/theorems/600c00ae-e449-4def-afc8-a5d1a97ea3a0

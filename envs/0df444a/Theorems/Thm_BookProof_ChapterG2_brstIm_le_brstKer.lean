@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_brstIm_le_brstKer
 -- name    : BookProof.ChapterG2.brstIm_le_brstKer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:50:32.975311+00:00
 -- url     : https://prove2.me/theorems/079fdc77-4324-4474-91aa-ae4f6b75d090

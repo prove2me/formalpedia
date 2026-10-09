@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_eq30_revenue_measurable_comp
 -- name    : eq30_revenue_measurable_comp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T01:08:15.212078+00:00
 -- url     : https://prove2.me/theorems/5fa05d66-306d-416b-9aed-e106469eb545

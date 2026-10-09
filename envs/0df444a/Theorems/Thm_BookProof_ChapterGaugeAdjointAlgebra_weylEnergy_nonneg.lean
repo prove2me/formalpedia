@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_weylEnergy_nonneg
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.weylEnergy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:53:15.068108+00:00
 -- url     : https://prove2.me/theorems/bd8a20b9-3b27-4d7a-8122-a45580f87f83

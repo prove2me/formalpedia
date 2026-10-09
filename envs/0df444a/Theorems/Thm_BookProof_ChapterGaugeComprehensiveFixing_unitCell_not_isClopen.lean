@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_unitCell_not_isClopen
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.unitCell_not_isClopen
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:09.647604+00:00
 -- url     : https://prove2.me/theorems/56366f0e-2d51-4f51-97c1-874d78b7f081

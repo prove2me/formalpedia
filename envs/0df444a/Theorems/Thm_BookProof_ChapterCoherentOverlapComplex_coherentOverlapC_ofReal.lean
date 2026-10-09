@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_coherentOverlapC_ofReal
 -- name    : BookProof.ChapterCoherentOverlapComplex.coherentOverlapC_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:01:39.413978+00:00
 -- url     : https://prove2.me/theorems/645c50d1-e530-4d08-ae4a-6378cb939c2d

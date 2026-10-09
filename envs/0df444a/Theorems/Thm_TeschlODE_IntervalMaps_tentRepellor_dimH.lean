@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_IntervalMaps_tentRepellor_dimH
 -- name    : TeschlODE.IntervalMaps.tentRepellor_dimH
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T19:05:33.753447+00:00
 -- url     : https://prove2.me/theorems/5e20b439-2caf-40c5-bb90-b54c7857b5e3

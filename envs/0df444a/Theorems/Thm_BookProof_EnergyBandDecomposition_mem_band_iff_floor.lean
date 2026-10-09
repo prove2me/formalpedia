@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_mem_band_iff_floor
 -- name    : BookProof.EnergyBandDecomposition.mem_band_iff_floor
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:17.558984+00:00
 -- url     : https://prove2.me/theorems/37c83c80-bd8e-4a44-a73c-98ebe09c4af4

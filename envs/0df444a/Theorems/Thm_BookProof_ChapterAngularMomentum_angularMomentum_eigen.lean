@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAngularMomentum_angularMomentum_eigen
 -- name    : BookProof.ChapterAngularMomentum.angularMomentum_eigen
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:19:10.655832+00:00
 -- url     : https://prove2.me/theorems/aea33119-e2ee-4fe8-ae7c-7fa349a325c8

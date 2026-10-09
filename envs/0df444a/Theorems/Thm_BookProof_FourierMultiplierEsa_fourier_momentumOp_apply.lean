@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_fourier_momentumOp_apply
 -- name    : BookProof.FourierMultiplierEsa.fourier_momentumOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:34.638561+00:00
 -- url     : https://prove2.me/theorems/bf3b3648-54f4-4c17-bc59-95c7f439d77e

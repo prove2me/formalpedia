@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_chargeQ_homogeneous
 -- name    : BookProof.ChapterGaugeMechanicsCharge.chargeQ_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:14:28.774476+00:00
 -- url     : https://prove2.me/theorems/57b3ab30-6c38-4308-8c80-3f26e62cccb1

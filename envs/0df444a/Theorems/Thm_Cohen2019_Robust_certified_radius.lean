@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Cohen2019_Robust_certified_radius
 -- name    : Cohen2019.Robust.certified_radius
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:03:59.046769+00:00
 -- url     : https://prove2.me/theorems/3a132ce5-baa9-421a-af79-3757e0a985ec

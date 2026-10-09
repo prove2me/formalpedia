@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_BRST_nilpotent
 -- name    : BookProof.ChapterG.BRST_nilpotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:26:45.623985+00:00
 -- url     : https://prove2.me/theorems/5e3b98f6-721a-45dc-bf30-7742a9c7c2d5

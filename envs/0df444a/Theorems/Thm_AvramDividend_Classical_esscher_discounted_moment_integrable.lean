@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_esscher_discounted_moment_integrable
 -- name    : AvramDividend.Classical.esscher_discounted_moment_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T12:49:30.060406+00:00
 -- url     : https://prove2.me/theorems/7a0e7450-5e9f-4d4b-a7ba-f22eec20d2af

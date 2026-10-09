@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityIrrep_antisymPart_antisymm
 -- name    : BookProof.ChapterGravityIrrep.antisymPart_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:58:22.01709+00:00
 -- url     : https://prove2.me/theorems/db133065-241a-4b2d-83c4-ddf846aa50b3

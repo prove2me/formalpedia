@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_dilation_identities
 -- name    : TroppMatrixConcentration.dilation_identities
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:50:37.865108+00:00
 -- url     : https://prove2.me/theorems/0d005fd8-b32e-43ea-bbc1-b212cd2b89a3

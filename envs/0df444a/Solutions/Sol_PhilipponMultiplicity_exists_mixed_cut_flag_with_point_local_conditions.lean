@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_mixed_cut_flag_with_point_local_conditions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-02T10:13:12.780964+00:00
 -- url     : https://prove2.me/submissions/95eb6b99-6237-4118-9690-eae323ec072f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_with_completed_local_conditions
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

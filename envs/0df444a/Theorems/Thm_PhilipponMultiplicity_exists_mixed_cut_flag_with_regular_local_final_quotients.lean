@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_with_regular_local_final_quotients
 -- name    : PhilipponMultiplicity.exists_mixed_cut_flag_with_regular_local_final_quotients
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-04T16:20:34.876984+00:00
 -- url     : https://prove2.me/theorems/2e1804de-ff01-4104-a3e5-216cabbd0bb3

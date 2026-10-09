@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_norm_observableExpectation_sq_le
 -- name    : BookProof.ChapterAttentionOutputVariance.norm_observableExpectation_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:38:10.474989+00:00
 -- url     : https://prove2.me/theorems/46f4f3ef-a25c-45ec-990f-30e0e82cc6dc

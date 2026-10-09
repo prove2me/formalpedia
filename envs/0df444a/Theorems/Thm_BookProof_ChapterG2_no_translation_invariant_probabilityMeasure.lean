@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_no_translation_invariant_probabilityMeasure
 -- name    : BookProof.ChapterG2.no_translation_invariant_probabilityMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:49:55.567322+00:00
 -- url     : https://prove2.me/theorems/7a540855-5225-4447-9d6b-024df2cdebf8

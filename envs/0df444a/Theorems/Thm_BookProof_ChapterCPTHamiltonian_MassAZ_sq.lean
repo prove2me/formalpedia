@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_MassAZ_sq
 -- name    : BookProof.ChapterCPTHamiltonian.MassAZ_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:20:52.358985+00:00
 -- url     : https://prove2.me/theorems/58cd09bc-ea4e-49d9-8cdb-893673cf2f73

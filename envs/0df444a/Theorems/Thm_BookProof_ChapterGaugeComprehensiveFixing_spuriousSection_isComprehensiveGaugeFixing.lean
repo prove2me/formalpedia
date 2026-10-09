@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_spuriousSection_isComprehensiveGaugeFixing
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.spuriousSection_isComprehensiveGaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:10:02.52449+00:00
 -- url     : https://prove2.me/theorems/59c35a61-dd25-4e36-9eb9-e2a3d78bef3f

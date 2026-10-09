@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_mixture_sum_one
 -- name    : BookProof.ChapterAttentionMixture.mixture_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:16.550476+00:00
 -- url     : https://prove2.me/theorems/d0190ecc-8cfa-40d9-b5e0-08be82da6180

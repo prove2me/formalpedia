@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_disjoint_support_mul
 -- name    : BookProof.ChapterF3.disjoint_support_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:48:05.873244+00:00
 -- url     : https://prove2.me/theorems/83fd0c93-9785-48cc-a0ce-926f6fe950cc

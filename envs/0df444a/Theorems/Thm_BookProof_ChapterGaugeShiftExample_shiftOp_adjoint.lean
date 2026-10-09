@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_shiftOp_adjoint
 -- name    : BookProof.ChapterGaugeShiftExample.shiftOp_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:16:51.61999+00:00
 -- url     : https://prove2.me/theorems/0e7942ca-c6b9-43bd-9746-38a54a51e42f

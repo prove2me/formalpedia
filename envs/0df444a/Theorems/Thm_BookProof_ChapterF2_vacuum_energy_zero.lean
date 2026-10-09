@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_vacuum_energy_zero
 -- name    : BookProof.ChapterF2.vacuum_energy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:47:45.109445+00:00
 -- url     : https://prove2.me/theorems/07fed6c3-46cb-4659-b84a-51b9f729b52a

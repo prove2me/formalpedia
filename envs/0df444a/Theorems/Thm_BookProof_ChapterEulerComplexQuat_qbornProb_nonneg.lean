@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerComplexQuat_qbornProb_nonneg
 -- name    : BookProof.ChapterEulerComplexQuat.qbornProb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:51:08.674321+00:00
 -- url     : https://prove2.me/theorems/613386d1-01d8-4ac2-92d0-c30b59cd51e8

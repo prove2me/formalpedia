@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_W7_not_causallySeparable
 -- name    : OCB2012.W7_not_causallySeparable
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:10:43.185598+00:00
 -- url     : https://prove2.me/theorems/5590a4b9-7f9f-42c0-a9d9-ea55c62c5e88

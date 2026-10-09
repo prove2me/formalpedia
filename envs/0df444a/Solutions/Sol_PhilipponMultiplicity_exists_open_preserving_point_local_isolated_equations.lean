@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_open_preserving_point_local_isolated_equations
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-07T13:01:05.672925+00:00
 -- url     : https://prove2.me/submissions/a68ca74e-aa4a-4916-a028-a285e6c10ab8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_finite_local_mixed_slices
 import Definitions.Def_P2M_Util

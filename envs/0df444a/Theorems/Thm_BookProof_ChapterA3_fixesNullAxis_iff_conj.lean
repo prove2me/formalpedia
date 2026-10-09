@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_fixesNullAxis_iff_conj
 -- name    : BookProof.ChapterA3.fixesNullAxis_iff_conj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:10:56.259119+00:00
 -- url     : https://prove2.me/theorems/dfe266e2-ac42-41f2-989f-f5f01b3e1a74

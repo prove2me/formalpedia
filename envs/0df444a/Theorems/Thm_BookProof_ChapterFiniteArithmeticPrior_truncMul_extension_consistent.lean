@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterFiniteArithmeticPrior_truncMul_extension_consistent
 -- name    : BookProof.ChapterFiniteArithmeticPrior.truncMul_extension_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:23:01.540328+00:00
 -- url     : https://prove2.me/theorems/0536cbb0-7cd1-446b-9901-df045471feca

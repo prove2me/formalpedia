@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_positionOp_eq_creat_add_annih
 -- name    : BookProof.ChapterF1.positionOp_eq_creat_add_annih
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:48:18.064387+00:00
 -- url     : https://prove2.me/theorems/83854fca-93aa-4671-b03b-bf3f04f386bc

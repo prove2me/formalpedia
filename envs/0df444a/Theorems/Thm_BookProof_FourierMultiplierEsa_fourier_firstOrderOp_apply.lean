@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_fourier_firstOrderOp_apply
 -- name    : BookProof.FourierMultiplierEsa.fourier_firstOrderOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:23:03.417988+00:00
 -- url     : https://prove2.me/theorems/f7f8c5a3-cb6b-41f0-a543-c4dbab479bcd

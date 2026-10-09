@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_density_eigenvalues_sum_one
 -- name    : BookProof.DensitySpectral.density_eigenvalues_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:56:00.195173+00:00
 -- url     : https://prove2.me/theorems/ec3350f0-2e39-40be-bacd-0fa03bd86110

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_finite_local_mixed_slices
 -- name    : PhilipponMultiplicity.exists_open_preserving_finite_local_mixed_slices
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-07T13:00:56.314027+00:00
 -- url     : https://prove2.me/theorems/15ace125-00ef-4ed1-8f91-53698fcbcc31

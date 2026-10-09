@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Snaky21_empty_position_force21
 -- name    : OAI.Snaky21.empty_position_force21
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-08T13:06:33.296154+00:00
 -- url     : https://prove2.me/theorems/edd099bd-3465-472e-8b29-a0b415b92cec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_bilC_conj
 -- name    : BookProof.ChapterA3.bilC_conj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:53:19.50044+00:00
 -- url     : https://prove2.me/theorems/13e202c7-eba0-4666-aa60-e45abce6098c

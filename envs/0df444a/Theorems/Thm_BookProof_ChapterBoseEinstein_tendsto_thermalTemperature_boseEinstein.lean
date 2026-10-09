@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBoseEinstein_tendsto_thermalTemperature_boseEinstein
 -- name    : BookProof.ChapterBoseEinstein.tendsto_thermalTemperature_boseEinstein
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:08:21.772073+00:00
 -- url     : https://prove2.me/theorems/a8f8ef62-d1df-41f2-8f83-b749568cc48b

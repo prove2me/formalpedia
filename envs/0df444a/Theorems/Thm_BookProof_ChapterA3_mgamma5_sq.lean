@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma5_sq
 -- name    : BookProof.ChapterA3.mgamma5_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:41:44.966079+00:00
 -- url     : https://prove2.me/theorems/39857c1d-804a-45a2-be9f-9d3dee709962

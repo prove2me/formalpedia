@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_tauNN_ne_zero
 -- name    : BookProof.ChapterDisplacedThermalOverlap.tauNN_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:02.45046+00:00
 -- url     : https://prove2.me/theorems/cbec3aaa-afc6-465b-8cd5-6f28528c9fe8

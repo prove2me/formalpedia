@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3l_swap_sq
 -- name    : BookProof.ChapterA3l.swap_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:56:47.821989+00:00
 -- url     : https://prove2.me/theorems/f323d536-f5b3-471d-9d85-3352c220edf5

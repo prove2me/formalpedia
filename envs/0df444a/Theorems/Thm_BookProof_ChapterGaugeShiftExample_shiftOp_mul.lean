@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_shiftOp_mul
 -- name    : BookProof.ChapterGaugeShiftExample.shiftOp_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:16:29.204512+00:00
 -- url     : https://prove2.me/theorems/7abee8b0-d352-4de4-b420-7a9a647151df

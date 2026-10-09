@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_mul_vecMulVec
 -- name    : BookProof.ChapterGravityPolymomentum.mul_vecMulVec
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:00:48.521603+00:00
 -- url     : https://prove2.me/theorems/4fd7c37d-c3e9-44da-8daf-40727350ed95

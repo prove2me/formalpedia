@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_basisVecL2_ne_zero
 -- name    : BookProof.ChapterGaugeShiftExample.basisVecL2_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:17:44.720445+00:00
 -- url     : https://prove2.me/theorems/3efe558f-e65f-407b-aa90-3f5292929291

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FreeEMField_emFieldStrength_isSelfAdjoint
 -- name    : BookProof.FreeEMField.emFieldStrength_isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:28:01.212558+00:00
 -- url     : https://prove2.me/theorems/f6aae672-a8eb-4e21-9049-2c88ec0a9e12

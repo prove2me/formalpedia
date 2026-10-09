@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_sqSumPoly_eq_fqPoly
 -- name    : BookProof.QgOuterFock.sqSumPoly_eq_fqPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:29:32.332043+00:00
 -- url     : https://prove2.me/theorems/ea89948d-ed75-49a7-9f78-2fdfde05f39c

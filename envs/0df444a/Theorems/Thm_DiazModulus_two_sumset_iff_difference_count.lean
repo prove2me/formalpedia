@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_two_sumset_iff_difference_count
 -- name    : DiazModulus.two_sumset_iff_difference_count
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:30.415984+00:00
 -- url     : https://prove2.me/theorems/353f44e5-54a3-4e7c-928f-2a60c3e964ca

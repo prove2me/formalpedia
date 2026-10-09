@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionTopK_sum_le_sum_of_isTop
 -- name    : BookProof.ChapterAttentionTopK.sum_le_sum_of_isTop
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:51:54.180569+00:00
 -- url     : https://prove2.me/theorems/4f5cefba-8f1c-48ba-908e-02205b6044f9

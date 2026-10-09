@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_gauge_constraint_pushforward_full_measure
 -- name    : BookProof.ChapterG.gauge_constraint_pushforward_full_measure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:26:09.790725+00:00
 -- url     : https://prove2.me/theorems/4cb912c8-4f9d-4468-8008-827f2a1a6130

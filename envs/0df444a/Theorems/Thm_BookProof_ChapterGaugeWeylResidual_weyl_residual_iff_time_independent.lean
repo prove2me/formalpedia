@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeWeylResidual_weyl_residual_iff_time_independent
 -- name    : BookProof.ChapterGaugeWeylResidual.weyl_residual_iff_time_independent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:17:34.869279+00:00
 -- url     : https://prove2.me/theorems/ca91a304-7075-4c33-944e-d235e0302345

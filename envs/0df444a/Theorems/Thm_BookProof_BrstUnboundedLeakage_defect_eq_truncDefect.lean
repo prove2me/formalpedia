@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_defect_eq_truncDefect
 -- name    : BookProof.BrstUnboundedLeakage.defect_eq_truncDefect
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:19:57.363126+00:00
 -- url     : https://prove2.me/theorems/1ed599b5-d18b-4f6b-a1e1-e4e4db13b7a0

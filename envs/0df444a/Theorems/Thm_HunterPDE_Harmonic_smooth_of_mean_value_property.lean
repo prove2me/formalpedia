@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Harmonic_smooth_of_mean_value_property
 -- name    : HunterPDE.Harmonic.smooth_of_mean_value_property
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:03:01.498246+00:00
 -- url     : https://prove2.me/theorems/d21e4fb9-80b5-4505-9a39-f0831b33961c

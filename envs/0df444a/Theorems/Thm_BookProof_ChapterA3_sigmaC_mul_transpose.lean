@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_sigmaC_mul_transpose
 -- name    : BookProof.ChapterA3.sigmaC_mul_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:54:03.658111+00:00
 -- url     : https://prove2.me/theorems/6c51ba6c-7df0-4d2f-9f7b-f471a2e2d323

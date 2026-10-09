@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_reduced_on_relevant_locus
 -- name    : PhilipponMultiplicity.exists_mixed_cut_flag_reduced_on_relevant_locus
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T16:39:54.1433+00:00
 -- url     : https://prove2.me/theorems/b6f41518-ee71-44f1-ab50-6b0f11374892

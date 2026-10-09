@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerDensityMatrix_Jdens_sq
 -- name    : BookProof.ChapterEulerDensityMatrix.Jdens_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:30:59.156301+00:00
 -- url     : https://prove2.me/theorems/53546137-3cf1-49ff-a05e-3aa5215f7248

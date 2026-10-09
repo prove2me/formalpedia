@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionPrior_priorSoftmax_eq_scoreSoftmax_bias
 -- name    : BookProof.ChapterAttentionPrior.priorSoftmax_eq_scoreSoftmax_bias
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:39:32.443981+00:00
 -- url     : https://prove2.me/theorems/0129ab3d-f8ff-4e3a-836b-d0b4060507ad

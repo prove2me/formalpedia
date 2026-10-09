@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_gaussianPacket_inner_sq_eq_coherentOverlap
 -- name    : BookProof.ChapterCoherentPositionSpace.gaussianPacket_inner_sq_eq_coherentOverlap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:04:47.728643+00:00
 -- url     : https://prove2.me/theorems/6c029271-0303-4cb0-8080-f7d18f8903ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGleasonPureMixed_P0_Q_not_commute
 -- name    : BookProof.ChapterGleasonPureMixed.P0_Q_not_commute
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:22:47.132271+00:00
 -- url     : https://prove2.me/theorems/cc30c1b7-f7f2-48a7-8371-d7683336b61a

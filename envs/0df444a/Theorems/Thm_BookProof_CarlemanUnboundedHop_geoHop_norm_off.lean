@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_geoHop_norm_off
 -- name    : BookProof.CarlemanUnboundedHop.geoHop_norm_off
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:34:54.364469+00:00
 -- url     : https://prove2.me/theorems/3e63f8cc-45e7-4def-90b8-d8ccffcaaca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_FastRates_fast_rate_theorem5
 -- name    : VarianceRegularization.FastRates.fast_rate_theorem5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T20:04:38.39142+00:00
 -- url     : https://prove2.me/theorems/f19817f8-d6ae-402d-bdd7-1389f63bd289

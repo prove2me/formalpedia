@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_no_shift_invariant_unit_vector
 -- name    : BookProof.ChapterG.no_shift_invariant_unit_vector
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:25:39.654978+00:00
 -- url     : https://prove2.me/theorems/84237825-9199-41c3-80cd-c33ff5cccb74

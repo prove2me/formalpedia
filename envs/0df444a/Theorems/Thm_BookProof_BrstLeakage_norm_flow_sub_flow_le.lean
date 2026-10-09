@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_norm_flow_sub_flow_le
 -- name    : BookProof.BrstLeakage.norm_flow_sub_flow_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:13:03.577991+00:00
 -- url     : https://prove2.me/theorems/9e42c22f-e876-41d0-bca4-f68b38966fe4

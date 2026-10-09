@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_sqrt_pi_pos
 -- name    : BookProof.ChapterCoherentPositionSpace.sqrt_pi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:03:15.712133+00:00
 -- url     : https://prove2.me/theorems/03f45a2e-0087-4b5c-b425-c0d1a5dbb90d

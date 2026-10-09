@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBell_chsh_local
 -- name    : BookProof.ChapterBell.chsh_local
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:54:10.325994+00:00
 -- url     : https://prove2.me/theorems/18621986-0008-45ae-8235-1d5253a0a2f7

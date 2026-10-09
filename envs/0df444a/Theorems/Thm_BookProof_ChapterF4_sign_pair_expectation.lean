@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_sign_pair_expectation
 -- name    : BookProof.ChapterF4.sign_pair_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:53.488971+00:00
 -- url     : https://prove2.me/theorems/72e60fff-5144-4c29-a692-9c3a8484037d

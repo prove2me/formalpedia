@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_exists_mul_lt_of_not_summable_inv
 -- name    : BookProof.CarlemanUnboundedHop.exists_mul_lt_of_not_summable_inv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:34:08.469399+00:00
 -- url     : https://prove2.me/theorems/967559d9-54ee-4354-a434-66a090068ba0

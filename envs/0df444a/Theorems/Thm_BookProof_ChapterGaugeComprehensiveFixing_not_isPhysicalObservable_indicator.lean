@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_not_isPhysicalObservable_indicator
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.not_isPhysicalObservable_indicator
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:57:26.18637+00:00
 -- url     : https://prove2.me/theorems/87bd2327-9e13-4a7c-a849-89185dcc5126

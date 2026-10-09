@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_spinRot_traceless
 -- name    : BookProof.ChapterA3.spinRot_traceless
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:44:04.365987+00:00
 -- url     : https://prove2.me/theorems/ca98bf06-9243-4a9c-af9c-6f6029a0aba4

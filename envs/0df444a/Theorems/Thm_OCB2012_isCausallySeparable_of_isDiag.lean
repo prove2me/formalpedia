@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_isCausallySeparable_of_isDiag
 -- name    : OCB2012.isCausallySeparable_of_isDiag
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:11:25.356877+00:00
 -- url     : https://prove2.me/theorems/5eefb2f1-2b88-4845-adf5-d4a626bf11a3

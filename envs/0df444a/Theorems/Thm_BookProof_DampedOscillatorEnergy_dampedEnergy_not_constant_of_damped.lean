@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_dampedEnergy_not_constant_of_damped
 -- name    : BookProof.DampedOscillatorEnergy.dampedEnergy_not_constant_of_damped
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:26:05.718993+00:00
 -- url     : https://prove2.me/theorems/99640f36-515e-472f-947b-c90ab9777dc1

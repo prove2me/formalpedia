@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilon_little_group_lorentz
 -- name    : BookProof.ChapterA3.upsilon_little_group_lorentz
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:10:27.22526+00:00
 -- url     : https://prove2.me/theorems/503528b4-c620-41c0-b105-6100e1e94ea5

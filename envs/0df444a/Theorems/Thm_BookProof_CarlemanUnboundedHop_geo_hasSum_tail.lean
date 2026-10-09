@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_geo_hasSum_tail
 -- name    : BookProof.CarlemanUnboundedHop.geo_hasSum_tail
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:35:45.045847+00:00
 -- url     : https://prove2.me/theorems/29cb3372-c164-413f-a50b-058b8fa3a1c2

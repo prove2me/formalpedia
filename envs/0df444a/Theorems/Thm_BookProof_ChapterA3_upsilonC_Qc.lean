@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilonC_Qc
 -- name    : BookProof.ChapterA3.upsilonC_Qc
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:49:42.075593+00:00
 -- url     : https://prove2.me/theorems/a6d12583-7e76-423e-963e-209c72072424

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_density_collapse_generic
 -- name    : BookProof.ChapterEulerGenericDensity.density_collapse_generic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:34:02.336023+00:00
 -- url     : https://prove2.me/theorems/c9bcf5cb-1007-4cad-ac75-479537b678b3

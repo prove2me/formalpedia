@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBijectionProbability_bijProb_eq_card_ratio
 -- name    : BookProof.ChapterBijectionProbability.bijProb_eq_card_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:55:40.721366+00:00
 -- url     : https://prove2.me/theorems/35164a77-7794-4241-962e-8fc6345c54d0

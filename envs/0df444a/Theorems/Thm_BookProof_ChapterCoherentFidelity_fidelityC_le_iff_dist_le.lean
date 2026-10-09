@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_fidelityC_le_iff_dist_le
 -- name    : BookProof.ChapterCoherentFidelity.fidelityC_le_iff_dist_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:50:54.076765+00:00
 -- url     : https://prove2.me/theorems/0dbe011a-8ae4-41bb-95f7-def902475937

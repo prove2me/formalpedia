@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterFiniteArithmeticPrior_prior_is_probability
 -- name    : BookProof.ChapterFiniteArithmeticPrior.prior_is_probability
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:09:41.61198+00:00
 -- url     : https://prove2.me/theorems/02b0d631-1a93-43f2-99f0-f47e8d9be36e

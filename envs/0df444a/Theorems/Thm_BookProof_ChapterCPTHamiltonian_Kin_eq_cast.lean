@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_Kin_eq_cast
 -- name    : BookProof.ChapterCPTHamiltonian.Kin_eq_cast
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:22:26.637647+00:00
 -- url     : https://prove2.me/theorems/2accf340-2a00-462e-b07b-87e8de1d9453

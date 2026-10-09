@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeCasimirAverage_physical_invariant_along_gaugeProjection
 -- name    : BookProof.ChapterGaugeCasimirAverage.physical_invariant_along_gaugeProjection
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:55:22.722833+00:00
 -- url     : https://prove2.me/theorems/2dd39d6e-1daf-413f-9165-3a0b0c411e95

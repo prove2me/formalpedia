@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_band_pairwise_disjoint
 -- name    : BookProof.EnergyBandDecomposition.band_pairwise_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:16.046144+00:00
 -- url     : https://prove2.me/theorems/43e11138-c836-4018-8b4d-ce0a721016e5

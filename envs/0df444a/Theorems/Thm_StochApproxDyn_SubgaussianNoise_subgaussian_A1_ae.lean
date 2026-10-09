@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_SubgaussianNoise_subgaussian_A1_ae
 -- name    : StochApproxDyn.SubgaussianNoise.subgaussian_A1_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:09:49.405986+00:00
 -- url     : https://prove2.me/theorems/eee949e0-9681-439e-8d1d-f495e02eb6e1

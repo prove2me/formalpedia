@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_shift_unconstrained_gauge_fixing_headline
 -- name    : BookProof.ChapterGaugeShiftExample.shift_unconstrained_gauge_fixing_headline
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:14:52.777518+00:00
 -- url     : https://prove2.me/theorems/4df687db-a9ce-45ed-807d-0e4717acb0bb

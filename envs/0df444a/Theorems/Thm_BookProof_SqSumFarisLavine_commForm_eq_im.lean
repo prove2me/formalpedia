@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SqSumFarisLavine_commForm_eq_im
 -- name    : BookProof.SqSumFarisLavine.commForm_eq_im
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-01T18:31:01.063989+00:00
 -- url     : https://prove2.me/theorems/5ee479e2-2454-4f8a-a226-74df327a07b6

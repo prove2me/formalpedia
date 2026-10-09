@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_principal_open_reduced_point_mixed_zero_locus
 -- name    : PhilipponMultiplicity.exists_principal_open_reduced_point_mixed_zero_locus
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-07T09:13:27.18899+00:00
 -- url     : https://prove2.me/theorems/c926e10d-9300-4586-a988-3e3cb97677b0
@@ -24,6 +24,8 @@
 --   Thus the actual mixed-section scheme is reduced at all of its nonzero-block point representatives. The statement retains the affine scaling directions and permits empty sections and zero-length lists.
 --
 --   **Formalization Note.** This is an auxiliary coefficient-space formulation of generic proper and reduced mixed intersection, not a verbatim source theorem. The ideal is the actual sum of the vanishing ideal and cutting equations. Radicality of its localization is an assertion about this ideal, not merely its set of zeros. Rows contain coefficients in every block, although each equation uses only its selected block. Generic finiteness, boundary avoidance, passage to a principal open coefficient condition, and comparison with the concrete multiprojective point model remain Open. The parent reduction proves that finiteness and this local radicality imply regularity of the required point-local quotients.
+--
+--   **Verified algebraic reduction (8 October 2026).** It suffices to prove [generic radicality of the normalized affine chart ideals](https://prove2.me/theorems/a3a12c71-04e6-47df-b863-6383d307a7c9). The new proof restores block-scaling variables in a reduced polynomial algebra, constructs a radical kernel, and factors every homomorphism killing the homogeneous ideal whose pivot images are units. This proves radicality after any pivot-inverting localization, including the localizations at all nonzero-block representatives in this statement. Homogeneity of the actual mixed-flag ideal and the full assembly are proved. Generic finite boundary-avoiding reduced normalized sections remain Open; the original formal statement is unchanged.
 -- source:
 --   P. Philippon, Lemmes de zeros dans les groupes algebriques commutatifs, Bull. SMF 114 (1986), pp.363–364, Lemma 3.1 and the mixed-section paragraph, https://numdam.org/articles/10.24033/bsmf.2060/ . S. L. Kleiman, The transversality of a general translate, Compositio Mathematica 28 (1974), Theorem 2(i),(ii), p.290, Corollary 4(i),(ii), p.291, and Remark 7 (the reduced variant), p.292, https://numdam.org/item/CM_1974__28_3_287_0.pdf . Auxiliary synthesis: generic proper mixed intersection and boundary avoidance, generic reducedness, and transfer to the actual coefficient and multicone ideals remain Open. The parent proves the local regularity consequence by projective Nullstellensatz, separation of finitely many points, and explicit linear equations for a point cone with an identity Jacobian minor.
 

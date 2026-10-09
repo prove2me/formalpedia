@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_circle_point_two_by_two_normal_form
 -- name    : DiazModulus.circle_point_two_by_two_normal_form
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:12.767719+00:00
 -- url     : https://prove2.me/theorems/098df255-2e44-445e-a9ed-7b42a829b29d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_posterior_nonneg
 -- name    : BookProof.ChapterBayesInference.posterior_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:53:17.693811+00:00
 -- url     : https://prove2.me/theorems/83d229ad-ed41-4509-bf1f-d704f805d300

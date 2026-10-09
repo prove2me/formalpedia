@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeCasimirAverage_gaugeAverage_of_isPhysicalObservable
 -- name    : BookProof.ChapterGaugeCasimirAverage.gaugeAverage_of_isPhysicalObservable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:54:34.030789+00:00
 -- url     : https://prove2.me/theorems/4c3bef7a-1f95-4ed7-9f84-51c34d8a248f

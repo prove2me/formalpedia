@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_expectation_physical_gauge_invariant
 -- name    : BookProof.ChapterGaugeIncompleteFixing.expectation_physical_gauge_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:12:56.094983+00:00
 -- url     : https://prove2.me/theorems/db189fe6-c888-49bf-ba49-51b7d43fdc48

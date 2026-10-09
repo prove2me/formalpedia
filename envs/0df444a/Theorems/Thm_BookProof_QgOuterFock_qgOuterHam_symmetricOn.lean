@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_qgOuterHam_symmetricOn
 -- name    : BookProof.QgOuterFock.qgOuterHam_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:38:27.292512+00:00
 -- url     : https://prove2.me/theorems/0e987554-8255-4431-9139-292c3caeff53

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCompactCompleteReducibility_avgOp_apply_eq_self
 -- name    : BookProof.ChapterCompactCompleteReducibility.avgOp_apply_eq_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:16:05.016928+00:00
 -- url     : https://prove2.me/theorems/75406080-b331-4064-8e58-857ed14cfa6f

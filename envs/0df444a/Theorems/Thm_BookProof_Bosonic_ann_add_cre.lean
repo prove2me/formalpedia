@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_ann_add_cre
 -- name    : BookProof.Bosonic.ann_add_cre
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:09:22.524984+00:00
 -- url     : https://prove2.me/theorems/45bea439-9471-4bee-be56-eaeb29b14218

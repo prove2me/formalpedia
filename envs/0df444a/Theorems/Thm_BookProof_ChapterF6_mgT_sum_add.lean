@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_mgT_sum_add
 -- name    : BookProof.ChapterF6.mgT_sum_add
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:04:09.6279+00:00
 -- url     : https://prove2.me/theorems/5c9bf36e-9c51-4ef1-a1d4-29a31c52bc1e

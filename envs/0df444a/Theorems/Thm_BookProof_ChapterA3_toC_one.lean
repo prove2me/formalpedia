@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_toC_one
 -- name    : BookProof.ChapterA3.toC_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:43:10.647984+00:00
 -- url     : https://prove2.me/theorems/db03aaa5-7e17-4346-b042-fbba974946d6

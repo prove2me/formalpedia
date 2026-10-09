@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_fidelityC_phaseRotate
 -- name    : BookProof.ChapterCoherentDynamics.fidelityC_phaseRotate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:48:59.882447+00:00
 -- url     : https://prove2.me/theorems/3649b3d4-2c84-42de-ad15-5b0ba87989c7

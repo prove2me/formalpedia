@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_mehler_arc_integral
 -- name    : BookProof.ChapterF3.mehler_arc_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:48:59.787377+00:00
 -- url     : https://prove2.me/theorems/a66e3139-bbc0-4e96-8929-18d0d7c38f00

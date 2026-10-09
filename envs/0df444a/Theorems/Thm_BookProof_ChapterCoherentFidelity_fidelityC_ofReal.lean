@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_fidelityC_ofReal
 -- name    : BookProof.ChapterCoherentFidelity.fidelityC_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:51:55.895986+00:00
 -- url     : https://prove2.me/theorems/43a77ef5-e89e-4222-b647-4c44e3a85d3e

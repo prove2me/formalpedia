@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_commutator_cre_ann
 -- name    : BookProof.Bosonic.commutator_cre_ann
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:09:42.204416+00:00
 -- url     : https://prove2.me/theorems/2557b539-5310-43c1-946d-1d65367e37b8

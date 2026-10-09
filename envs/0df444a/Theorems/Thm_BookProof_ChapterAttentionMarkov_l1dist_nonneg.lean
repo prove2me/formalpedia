@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_l1dist_nonneg
 -- name    : BookProof.ChapterAttentionMarkov.l1dist_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:28:06.038728+00:00
 -- url     : https://prove2.me/theorems/a1b022e4-0024-4583-bd98-4fa94286a56f

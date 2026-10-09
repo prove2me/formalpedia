@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_reduced_mixed_section_with_primary_avoidance
 -- name    : PhilipponMultiplicity.exists_reduced_mixed_section_with_primary_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T14:34:52.300066+00:00
 -- url     : https://prove2.me/theorems/59f8cca7-05a4-4593-a731-c93ebd29ca5f

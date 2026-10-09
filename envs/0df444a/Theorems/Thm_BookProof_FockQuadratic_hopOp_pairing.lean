@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockQuadratic_hopOp_pairing
 -- name    : BookProof.FockQuadratic.hopOp_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T20:59:17.685402+00:00
 -- url     : https://prove2.me/theorems/612e5f58-51ab-4009-9514-300588b372ed

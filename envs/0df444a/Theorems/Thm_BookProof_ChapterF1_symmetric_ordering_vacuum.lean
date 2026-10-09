@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_symmetric_ordering_vacuum
 -- name    : BookProof.ChapterF1.symmetric_ordering_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:45:48.538416+00:00
 -- url     : https://prove2.me/theorems/81a37714-fccf-4c9d-a599-0a3ac8f6d522

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_NetworkFlows_submodular_max_flow_min_cut
 -- name    : DiscreteConvex.NetworkFlows.submodular_max_flow_min_cut
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:16:13.241646+00:00
 -- url     : https://prove2.me/theorems/8c535099-f90d-4865-9a7d-36eed288dcc1

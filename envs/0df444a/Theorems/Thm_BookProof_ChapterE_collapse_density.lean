@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE_collapse_density
 -- name    : BookProof.ChapterE.collapse_density
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:09:59.377494+00:00
 -- url     : https://prove2.me/theorems/759d2687-c63b-4fac-b031-d826f7e0edd4

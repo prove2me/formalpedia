@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch4_hermitian_series
 -- name    : TroppMatrixConcentration.ch4_hermitian_series
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:46:30.553523+00:00
 -- url     : https://prove2.me/theorems/bc880742-d1ff-4985-9328-b3d47a47080c

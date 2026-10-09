@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyInverse_cayley_ofUnitary
 -- name    : BookProof.ChapterCayleyInverse.cayley_ofUnitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:35:59.577453+00:00
 -- url     : https://prove2.me/theorems/a9d0c4b5-8ac9-45a0-a8db-151b669e333b

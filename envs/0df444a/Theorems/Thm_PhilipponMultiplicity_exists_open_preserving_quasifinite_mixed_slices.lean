@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_quasifinite_mixed_slices
 -- name    : PhilipponMultiplicity.exists_open_preserving_quasifinite_mixed_slices
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-07T16:28:29.047154+00:00
 -- url     : https://prove2.me/theorems/21d579ca-f415-4857-ab2e-230dd9e2c4a2

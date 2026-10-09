@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_bornNumerC_ofReal
 -- name    : BookProof.ChapterCoherentOverlapComplex.bornNumerC_ofReal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:02:13.403344+00:00
 -- url     : https://prove2.me/theorems/d0ed1409-82f4-4aad-9be3-0fa35e164e1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_pseudoinverse_left_inverse
 -- name    : BookProof.ChapterF4.pseudoinverse_left_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:50:22.785649+00:00
 -- url     : https://prove2.me/theorems/6ea5ec4d-75dc-4734-8ff2-e4e12475f6ff

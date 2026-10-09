@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerComplexQuat_complex_born_split
 -- name    : BookProof.ChapterEulerComplexQuat.complex_born_split
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:49:55.216568+00:00
 -- url     : https://prove2.me/theorems/799b3fc1-fb2c-45c7-b460-0eeff933687f

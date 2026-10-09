@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgMultiHalfDensity_exists_field_halfDensity_unitary
 -- name    : BookProof.QgMultiHalfDensity.exists_field_halfDensity_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:38:45.060331+00:00
 -- url     : https://prove2.me/theorems/3b2240d5-cb08-48f6-881c-9b932fd2452e

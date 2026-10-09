@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_principal_open_preserving_isolated_section_points
 -- name    : PhilipponMultiplicity.exists_principal_open_preserving_isolated_section_points
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-04T21:42:54.743312+00:00
 -- url     : https://prove2.me/theorems/2a246e47-34c6-4f2c-a0fb-a5aa936f6df2

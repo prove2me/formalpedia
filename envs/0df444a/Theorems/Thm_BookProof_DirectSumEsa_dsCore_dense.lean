@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_dsCore_dense
 -- name    : BookProof.DirectSumEsa.dsCore_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:00:23.525974+00:00
 -- url     : https://prove2.me/theorems/687e72b4-db4e-4887-a6a7-65c0bec2300e

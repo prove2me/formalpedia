@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityIrrep_symTracelessPart_symm
 -- name    : BookProof.ChapterGravityIrrep.symTracelessPart_symm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:58:40.630413+00:00
 -- url     : https://prove2.me/theorems/601584a2-6115-4d75-9f8b-64956a877fab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_electroweak_fieldStrength
 -- name    : BookProof.ChapterElectroweakFieldStrength.electroweak_fieldStrength
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:43:10.508804+00:00
 -- url     : https://prove2.me/theorems/5e1b12f8-62ad-4343-af68-e3b1d009ed4d

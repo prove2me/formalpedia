@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_weighted_representative_scale_exists
 -- name    : OAI.PiExponent.FormalInterpolation.weighted_representative_scale_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:29:18.716528+00:00
 -- url     : https://prove2.me/theorems/a4ac5f9f-d4eb-4911-b163-47b9569c9156

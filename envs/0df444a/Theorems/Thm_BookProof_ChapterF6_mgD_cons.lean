@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_mgD_cons
 -- name    : BookProof.ChapterF6.mgD_cons
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:01:56.147544+00:00
 -- url     : https://prove2.me/theorems/042ad495-d912-47b1-b2cd-0d3cab5d51c6

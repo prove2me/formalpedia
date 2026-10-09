@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_hasSum_fallingTwo_expSeries
 -- name    : BookProof.ChapterCoherentOccupation.hasSum_fallingTwo_expSeries
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:54:03.672289+00:00
 -- url     : https://prove2.me/theorems/b2db69f9-5b7c-4b8b-a624-71c11123e89d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SevenEighths_HeckeFamily_LFunction_ne_zero_of_seven_eighths_lt_re
 -- name    : OAI.SevenEighths.HeckeFamily.LFunction_ne_zero_of_seven_eighths_lt_re
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:19.59534+00:00
 -- url     : https://prove2.me/theorems/8df76996-14de-44bf-a6cd-adef42b6891d

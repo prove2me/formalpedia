@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalRatio_nonneg
 -- name    : BookProof.ChapterCoherentTemperature.thermalRatio_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:05:36.039441+00:00
 -- url     : https://prove2.me/theorems/2b8bb5c4-dfbb-439b-b087-d95d1177c200

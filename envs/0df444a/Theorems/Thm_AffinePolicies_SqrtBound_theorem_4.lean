@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_SqrtBound_theorem_4
 -- name    : AffinePolicies.SqrtBound.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:40:44.575737+00:00
 -- url     : https://prove2.me/theorems/8c660a2b-3870-4668-940f-8a6f5e3bd0fd

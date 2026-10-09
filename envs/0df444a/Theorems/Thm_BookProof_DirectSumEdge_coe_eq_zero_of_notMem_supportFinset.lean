@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEdge_coe_eq_zero_of_notMem_supportFinset
 -- name    : BookProof.DirectSumEdge.coe_eq_zero_of_notMem_supportFinset
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:57:05.4844+00:00
 -- url     : https://prove2.me/theorems/856a9929-852c-4972-8c1e-42f448a22071

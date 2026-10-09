@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_euler_comm_bilinear
 -- name    : BookProof.ChapterGaugeMechanicsCharge.euler_comm_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:15:06.563133+00:00
 -- url     : https://prove2.me/theorems/491ca896-3d87-46c2-9f08-b1b6b3de999c

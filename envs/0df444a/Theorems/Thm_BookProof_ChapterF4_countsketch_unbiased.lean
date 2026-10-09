@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_countsketch_unbiased
 -- name    : BookProof.ChapterF4.countsketch_unbiased
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:50:32.600475+00:00
 -- url     : https://prove2.me/theorems/b8d7b582-5afb-47ff-a88e-ad78a5a3d851

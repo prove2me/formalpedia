@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalProb_nonneg
 -- name    : BookProof.ChapterCoherentTemperature.thermalProb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:05:59.284985+00:00
 -- url     : https://prove2.me/theorems/8e3ba532-a693-483f-87e0-1beb8f4d7aff

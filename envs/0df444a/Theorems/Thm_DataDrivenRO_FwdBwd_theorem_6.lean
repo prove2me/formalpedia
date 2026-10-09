@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenRO_FwdBwd_theorem_6
 -- name    : DataDrivenRO.FwdBwd.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:02:49.40258+00:00
 -- url     : https://prove2.me/theorems/2a39d195-233b-407d-ab71-cf3458fa5df7

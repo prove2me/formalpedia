@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_l2pair_integrable
 -- name    : BookProof.ChapterF7.l2pair_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:04:28.388991+00:00
 -- url     : https://prove2.me/theorems/4d22eff6-5b56-433c-b326-fb145851210f

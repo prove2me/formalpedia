@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_neg_log_fidelityC
 -- name    : BookProof.ChapterCoherentFidelity.neg_log_fidelityC
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:51:49.190039+00:00
 -- url     : https://prove2.me/theorems/792cbb9c-1dc1-4ba9-a342-34c5db42f9b7

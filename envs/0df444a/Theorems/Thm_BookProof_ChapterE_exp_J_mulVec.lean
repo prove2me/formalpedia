@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE_exp_J_mulVec
 -- name    : BookProof.ChapterE.exp_J_mulVec
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:09:44.439815+00:00
 -- url     : https://prove2.me/theorems/5d1c3138-d2a3-42f1-91e8-1c1319430004

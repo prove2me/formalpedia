@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_chargeQ_not_commute_field
 -- name    : BookProof.ChapterGaugeMechanicsCharge.chargeQ_not_commute_field
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:14:28.703315+00:00
 -- url     : https://prove2.me/theorems/6eb72853-b713-4bd9-9d7c-0304f126117f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3l_swap_chir2
 -- name    : BookProof.ChapterA3l.swap_chir2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:57:23.348734+00:00
 -- url     : https://prove2.me/theorems/2a7f6c61-4537-4ac7-8ee9-56a21b73051f

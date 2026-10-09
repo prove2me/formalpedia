@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_generic_circle_point_config_is_two_by_two
 -- name    : DiazModulus.generic_circle_point_config_is_two_by_two
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:26.33698+00:00
 -- url     : https://prove2.me/theorems/4c3f8499-e9a2-4f38-b083-0ea578528eb4

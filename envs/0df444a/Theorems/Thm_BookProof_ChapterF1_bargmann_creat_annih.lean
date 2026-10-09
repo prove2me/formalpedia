@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_bargmann_creat_annih
 -- name    : BookProof.ChapterF1.bargmann_creat_annih
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:46:07.892311+00:00
 -- url     : https://prove2.me/theorems/a4fb9a2a-fda5-4c38-aa0a-63092ec0a5e6

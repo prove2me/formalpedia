@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_misraGries_bound
 -- name    : BookProof.ChapterF4.misraGries_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:01:48.315311+00:00
 -- url     : https://prove2.me/theorems/e041aae9-d914-4d72-b748-fec6d1813e0c

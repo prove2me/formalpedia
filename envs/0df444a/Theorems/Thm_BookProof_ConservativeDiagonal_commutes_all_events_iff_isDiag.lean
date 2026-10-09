@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConservativeDiagonal_commutes_all_events_iff_isDiag
 -- name    : BookProof.ConservativeDiagonal.commutes_all_events_iff_isDiag
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:23:45.879981+00:00
 -- url     : https://prove2.me/theorems/a6a319c2-9e20-4fb2-b782-aaa55e51637b

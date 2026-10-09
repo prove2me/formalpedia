@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropy_invertibleProb_isEquivalent_stirling
 -- name    : BookProof.ChapterEntropy.invertibleProb_isEquivalent_stirling
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:48:12.888903+00:00
 -- url     : https://prove2.me/theorems/a2bd4d86-9083-4d8e-b723-2fb20d3376dd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_isPhysicalOperator_iff_mem_centralizer
 -- name    : BookProof.ChapterGaugeIncompleteFixing.isPhysicalOperator_iff_mem_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:12:55.635663+00:00
 -- url     : https://prove2.me/theorems/6d51ee20-b066-4ef5-a7bb-978530cca5c8

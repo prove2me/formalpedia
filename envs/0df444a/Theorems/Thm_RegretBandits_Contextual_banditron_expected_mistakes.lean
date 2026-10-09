@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegretBandits_Contextual_banditron_expected_mistakes
 -- name    : RegretBandits.Contextual.banditron_expected_mistakes
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:28:49.773421+00:00
 -- url     : https://prove2.me/theorems/acfb5301-9fca-4a95-8513-03a766acd4cb

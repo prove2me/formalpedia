@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_permMat_mul
 -- name    : BookProof.ChapterA3n.permMat_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:07:20.838056+00:00
 -- url     : https://prove2.me/theorems/b4ec9c3d-b481-45b0-bacc-2665c92443a3

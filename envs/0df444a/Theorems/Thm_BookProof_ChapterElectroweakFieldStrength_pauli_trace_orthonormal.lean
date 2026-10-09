@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_pauli_trace_orthonormal
 -- name    : BookProof.ChapterElectroweakFieldStrength.pauli_trace_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:15:28.103774+00:00
 -- url     : https://prove2.me/theorems/3a180aa8-65c0-47f7-892f-d59c4f463ce2

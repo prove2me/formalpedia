@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalTemperature_eq_mean_add_half
 -- name    : BookProof.ChapterCoherentTemperature.thermalTemperature_eq_mean_add_half
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:11:02.368419+00:00
 -- url     : https://prove2.me/theorems/83adbf45-7291-4c24-b612-750c69dab429

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_coordinate_local_mixed_section_preserving_isolated_points
 -- name    : PhilipponMultiplicity.exists_coordinate_local_mixed_section_preserving_isolated_points
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T17:40:50.447015+00:00
 -- url     : https://prove2.me/theorems/33592a31-6a4e-4aa2-bc8f-26dbfd4c2c94

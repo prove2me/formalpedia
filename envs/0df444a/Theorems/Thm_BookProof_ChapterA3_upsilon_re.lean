@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilon_re
 -- name    : BookProof.ChapterA3.upsilon_re
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:09:54.339974+00:00
 -- url     : https://prove2.me/theorems/213bdb60-54ec-4ad2-b9b3-c4c00a87ac0c

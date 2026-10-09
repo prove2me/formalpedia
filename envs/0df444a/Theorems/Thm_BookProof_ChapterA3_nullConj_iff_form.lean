@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_nullConj_iff_form
 -- name    : BookProof.ChapterA3.nullConj_iff_form
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:11:24.417706+00:00
 -- url     : https://prove2.me/theorems/7b6f1207-5cc1-45ea-98cb-c18637248604

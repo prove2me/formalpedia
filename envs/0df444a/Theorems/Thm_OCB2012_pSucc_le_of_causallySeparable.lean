@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_pSucc_le_of_causallySeparable
 -- name    : OCB2012.pSucc_le_of_causallySeparable
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:08:12.626994+00:00
 -- url     : https://prove2.me/theorems/dc7acc29-ee0a-47d9-9837-11662566c62f

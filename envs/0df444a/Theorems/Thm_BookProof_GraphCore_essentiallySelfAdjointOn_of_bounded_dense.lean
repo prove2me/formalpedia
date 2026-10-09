@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_essentiallySelfAdjointOn_of_bounded_dense
 -- name    : BookProof.GraphCore.essentiallySelfAdjointOn_of_bounded_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:57:02.915318+00:00
 -- url     : https://prove2.me/theorems/020db525-0cdc-4775-8642-d3eb30d0661d

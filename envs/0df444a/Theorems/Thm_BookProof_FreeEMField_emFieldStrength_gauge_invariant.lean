@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FreeEMField_emFieldStrength_gauge_invariant
 -- name    : BookProof.FreeEMField.emFieldStrength_gauge_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:53.488412+00:00
 -- url     : https://prove2.me/theorems/551bd4a6-bd53-4c16-9639-2b7bb0366fbd

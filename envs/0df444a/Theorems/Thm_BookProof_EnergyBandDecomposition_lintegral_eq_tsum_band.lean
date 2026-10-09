@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_lintegral_eq_tsum_band
 -- name    : BookProof.EnergyBandDecomposition.lintegral_eq_tsum_band
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:45:47.505976+00:00
 -- url     : https://prove2.me/theorems/a0690bd9-57b3-4a8d-83c2-f6923c771380

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA5_coeffMass_anticomm
 -- name    : BookProof.ChapterA5.coeffMass_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:12:32.955406+00:00
 -- url     : https://prove2.me/theorems/e5fec3ef-8b82-4dad-bf53-76567f2b5453

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalTemperature_vacuum
 -- name    : BookProof.ChapterCoherentTemperature.thermalTemperature_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:10:57.876981+00:00
 -- url     : https://prove2.me/theorems/7792a11c-8ce8-4936-ba06-9082d2d7a3b3

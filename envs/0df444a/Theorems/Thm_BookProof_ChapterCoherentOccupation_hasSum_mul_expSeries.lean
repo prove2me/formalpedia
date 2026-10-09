@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_hasSum_mul_expSeries
 -- name    : BookProof.ChapterCoherentOccupation.hasSum_mul_expSeries
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:53:42.511357+00:00
 -- url     : https://prove2.me/theorems/9fd474c3-d194-4fc7-aea0-960ae9d611bd

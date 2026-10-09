@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixing_pushIter_succ
 -- name    : BookProof.ChapterAttentionMixing.pushIter_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:08:42.943743+00:00
 -- url     : https://prove2.me/theorems/ccc54925-e2a4-4802-9ee4-18d6395d49b4

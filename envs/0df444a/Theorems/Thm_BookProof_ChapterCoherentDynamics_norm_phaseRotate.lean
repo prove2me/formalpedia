@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_norm_phaseRotate
 -- name    : BookProof.ChapterCoherentDynamics.norm_phaseRotate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:48:14.878102+00:00
 -- url     : https://prove2.me/theorems/1cc39be1-2456-4c13-aa8a-12a5b88594e7

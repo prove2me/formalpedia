@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_dtBorn_temperature_coth
 -- name    : BookProof.ChapterDisplacedThermalOverlap.dtBorn_temperature_coth
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:06:44.641983+00:00
 -- url     : https://prove2.me/theorems/04d1bf33-0f11-4a7d-a84f-300869175d2a

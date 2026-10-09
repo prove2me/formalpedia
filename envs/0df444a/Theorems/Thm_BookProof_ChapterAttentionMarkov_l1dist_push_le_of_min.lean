@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_l1dist_push_le_of_min
 -- name    : BookProof.ChapterAttentionMarkov.l1dist_push_le_of_min
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:28:20.230581+00:00
 -- url     : https://prove2.me/theorems/c70afb54-12e3-405c-9fdb-e92bd6a1cd11

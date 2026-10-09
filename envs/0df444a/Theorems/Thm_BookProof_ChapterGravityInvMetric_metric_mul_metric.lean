@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityInvMetric_metric_mul_metric
 -- name    : BookProof.ChapterGravityInvMetric.metric_mul_metric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:58:29.473542+00:00
 -- url     : https://prove2.me/theorems/dd9eb43b-1893-412d-80cb-dac0c653d5be

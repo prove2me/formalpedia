@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3l_projSym_add_projAsym
 -- name    : BookProof.ChapterA3l.projSym_add_projAsym
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:58:32.656243+00:00
 -- url     : https://prove2.me/theorems/3c748c53-7bcc-4ce5-9e78-101a8edeeb26

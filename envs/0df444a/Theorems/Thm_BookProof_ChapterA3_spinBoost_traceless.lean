@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_spinBoost_traceless
 -- name    : BookProof.ChapterA3.spinBoost_traceless
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:43:52.364985+00:00
 -- url     : https://prove2.me/theorems/8a3c283c-fb9c-49d0-a2ba-3728933fbc6c

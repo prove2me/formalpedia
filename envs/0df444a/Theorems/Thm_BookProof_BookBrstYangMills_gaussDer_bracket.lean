@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_gaussDer_bracket
 -- name    : BookProof.BookBrstYangMills.gaussDer_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:15:36.28604+00:00
 -- url     : https://prove2.me/theorems/52423fda-aa06-4b60-9d9a-b9f231dc89e0

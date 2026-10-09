@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueingFundamentals_Transient_mm1_transient_bessel
 -- name    : QueueingFundamentals.Transient.mm1_transient_bessel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T08:05:04.368991+00:00
 -- url     : https://prove2.me/theorems/12395959-0cb8-4b10-bc7f-7647247fe482

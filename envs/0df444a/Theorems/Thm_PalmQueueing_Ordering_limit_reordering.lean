@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Ordering_limit_reordering
 -- name    : PalmQueueing.Ordering.limit_reordering
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T02:49:54.152758+00:00
 -- url     : https://prove2.me/theorems/badbb832-79da-41fa-9013-0557dbf7b266

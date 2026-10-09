@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockInteractionStability_fock_gap_of_bounded_interaction
 -- name    : BookProof.FockInteractionStability.fock_gap_of_bounded_interaction
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-06T11:42:14.553574+00:00
 -- url     : https://prove2.me/theorems/f71a1445-79c7-4a6e-992f-a53c8ab389ac

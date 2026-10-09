@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_no_translation_invariant_unit_vector
 -- name    : BookProof.ChapterG2.no_translation_invariant_unit_vector
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:49:55.612064+00:00
 -- url     : https://prove2.me/theorems/bd8c4701-00ef-422c-b3e5-fd8fdb5f2818

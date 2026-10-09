@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_shiftedPairLocationKernel_cap
 -- name    : OAI.Erdos3.shiftedPairLocationKernel_cap
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:26:47.571443+00:00
 -- url     : https://prove2.me/theorems/d87156a6-e6b3-4bc8-83f7-fd02af08c9cc

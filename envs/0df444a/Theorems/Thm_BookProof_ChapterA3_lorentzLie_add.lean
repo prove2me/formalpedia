@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_lorentzLie_add
 -- name    : BookProof.ChapterA3.lorentzLie_add
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:45:42.922494+00:00
 -- url     : https://prove2.me/theorems/2f57e7ad-d0c1-4ac9-8de9-d72b54a40f39

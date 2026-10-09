@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GVRPricing_StoppingTime_st_heuristic_asymptotically_optimal
 -- name    : GVRPricing.StoppingTime.st_heuristic_asymptotically_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:47:41.925091+00:00
 -- url     : https://prove2.me/theorems/7f2f7f2c-4e15-4884-bb6e-ed7d7ea58b09

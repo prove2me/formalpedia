@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_filter_regular_mixed_section
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-01T14:34:59.408177+00:00
 -- url     : https://prove2.me/submissions/4b070039-43c0-4fd0-a6fc-284193fb0b19
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_reduced_mixed_section_with_primary_avoidance
 import Theorems.Thm_PhilipponMultiplicity_multigraded_hilbert_polynomial_exists

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentGeometry_neg_two_mul_log_coherentOverlap
 -- name    : BookProof.ChapterCoherentGeometry.neg_two_mul_log_coherentOverlap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:51:57.746278+00:00
 -- url     : https://prove2.me/theorems/6ab99028-657b-443f-8428-15a1e51e8e46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_thermalTemperature_eq_fidelity_width_sub_coherent_half
 -- name    : BookProof.ChapterCoherentThermalFidelity.thermalTemperature_eq_fidelity_width_sub_coherent_half
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:13:48.073985+00:00
 -- url     : https://prove2.me/theorems/aefa0bfb-959b-4c01-901f-f47b818a618f

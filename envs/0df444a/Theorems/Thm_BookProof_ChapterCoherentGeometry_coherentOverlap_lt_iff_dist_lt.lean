@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentGeometry_coherentOverlap_lt_iff_dist_lt
 -- name    : BookProof.ChapterCoherentGeometry.coherentOverlap_lt_iff_dist_lt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:52:12.337508+00:00
 -- url     : https://prove2.me/theorems/5b71f7e4-ac3a-41d1-9f8e-f066990a0dae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalMulti_dtOverlapMulti_eq_integral
 -- name    : BookProof.ChapterDisplacedThermalMulti.dtOverlapMulti_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:01:04.455489+00:00
 -- url     : https://prove2.me/theorems/5d5b8c7d-f467-4266-9a60-482859a2f553

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_finite_polynomial_mixed_slices
 -- name    : PhilipponMultiplicity.exists_open_preserving_finite_polynomial_mixed_slices
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-07T14:49:22.139977+00:00
 -- url     : https://prove2.me/theorems/61b420da-3068-4f26-b812-8bf0a9c76edf

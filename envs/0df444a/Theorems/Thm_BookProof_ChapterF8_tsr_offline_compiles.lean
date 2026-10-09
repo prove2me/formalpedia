@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF8_tsr_offline_compiles
 -- name    : BookProof.ChapterF8.tsr_offline_compiles
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:09:17.641843+00:00
 -- url     : https://prove2.me/theorems/4bf8360f-0aae-4af8-897d-850ade581354

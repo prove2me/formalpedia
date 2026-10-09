@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEnergyBoundedEvolution_phase_split
 -- name    : BookProof.ChapterEnergyBoundedEvolution.phase_split
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:46:34.352318+00:00
 -- url     : https://prove2.me/theorems/20e1bf8b-9e63-432c-a90b-8eaf774a169b

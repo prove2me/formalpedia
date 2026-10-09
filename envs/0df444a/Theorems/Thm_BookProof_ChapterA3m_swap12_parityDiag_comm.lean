@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3m_swap12_parityDiag_comm
 -- name    : BookProof.ChapterA3m.swap12_parityDiag_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:05:55.891977+00:00
 -- url     : https://prove2.me/theorems/0efa802d-d7ad-41b1-8cf3-9e76640741f0

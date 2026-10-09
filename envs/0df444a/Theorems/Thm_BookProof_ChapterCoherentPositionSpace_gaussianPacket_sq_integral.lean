@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_gaussianPacket_sq_integral
 -- name    : BookProof.ChapterCoherentPositionSpace.gaussianPacket_sq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:04:02.449507+00:00
 -- url     : https://prove2.me/theorems/1769c261-8d87-45c6-9205-d574c30e5a93

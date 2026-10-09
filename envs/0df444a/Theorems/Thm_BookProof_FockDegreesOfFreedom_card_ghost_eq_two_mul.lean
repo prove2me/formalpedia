@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockDegreesOfFreedom_card_ghost_eq_two_mul
 -- name    : BookProof.FockDegreesOfFreedom.card_ghost_eq_two_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:20:06.710784+00:00
 -- url     : https://prove2.me/theorems/eed5de27-2d54-435e-8168-0199b10f65a4

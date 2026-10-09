@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerDensityMatrix_clockPsi_normSq
 -- name    : BookProof.ChapterEulerDensityMatrix.clockPsi_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:27:59.095976+00:00
 -- url     : https://prove2.me/theorems/c81f2295-55a9-49bd-964c-641a9e32e29e

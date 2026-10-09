@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlap_norm_sq_eq_sum
 -- name    : BookProof.ChapterCoherentOverlap.norm_sq_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:58:40.645642+00:00
 -- url     : https://prove2.me/theorems/ab4eeabe-5b76-4435-a438-76198dc53182

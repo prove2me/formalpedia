@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityC_lnat2_convex_is_integrally_convex
 -- name    : DiscreteConvex.ConjugacyDualityC.lnat2_convex_is_integrally_convex
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:46:49.008786+00:00
 -- url     : https://prove2.me/theorems/7d18bedc-02fa-4401-8dad-d7831892ffb2

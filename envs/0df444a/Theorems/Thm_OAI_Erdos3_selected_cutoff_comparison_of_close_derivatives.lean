@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_selected_cutoff_comparison_of_close_derivatives
 -- name    : OAI.Erdos3.selected_cutoff_comparison_of_close_derivatives
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T10:43:49.829837+00:00
 -- url     : https://prove2.me/theorems/d7c837b2-0ed2-4c77-bedc-f5cb3363534b

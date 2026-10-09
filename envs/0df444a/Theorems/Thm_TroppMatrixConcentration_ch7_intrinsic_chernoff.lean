@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch7_intrinsic_chernoff
 -- name    : TroppMatrixConcentration.ch7_intrinsic_chernoff
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:52:28.424484+00:00
 -- url     : https://prove2.me/theorems/be5e3da7-d499-4cda-8a25-bf9df7c9c1a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_projSym_diagGen_comm
 -- name    : BookProof.ChapterA3n.projSym_diagGen_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:08:44.707509+00:00
 -- url     : https://prove2.me/theorems/3da36b21-fbde-4c80-b32e-72a8eaa92715

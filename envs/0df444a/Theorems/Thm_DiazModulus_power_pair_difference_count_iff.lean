@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_power_pair_difference_count_iff
 -- name    : DiazModulus.power_pair_difference_count_iff
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:11:08.272497+00:00
 -- url     : https://prove2.me/theorems/c3c5d970-67d0-41e7-a528-b46b89849269

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_hasSum_one
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_hasSum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:53:20.862984+00:00
 -- url     : https://prove2.me/theorems/7f6ca55a-4760-466b-94e0-364beb7d9e08

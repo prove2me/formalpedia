@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgammaZ_clifford
 -- name    : BookProof.ChapterA3.mgammaZ_clifford
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:37:28.252666+00:00
 -- url     : https://prove2.me/theorems/d43c47d3-c59c-4639-aa08-02630f0cc696

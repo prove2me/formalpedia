@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_integral_deriv_eq_zero_of_hasCompactSupport
 -- name    : BookProof.SchrodingerCutoff.integral_deriv_eq_zero_of_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:31:19.913328+00:00
 -- url     : https://prove2.me/theorems/0ac053c1-8727-417e-a056-1ac8dce9d6bb

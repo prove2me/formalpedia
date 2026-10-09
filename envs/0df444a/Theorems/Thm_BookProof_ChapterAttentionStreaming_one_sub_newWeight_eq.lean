@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionStreaming_one_sub_newWeight_eq
 -- name    : BookProof.ChapterAttentionStreaming.one_sub_newWeight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:50:40.811548+00:00
 -- url     : https://prove2.me/theorems/d6f75bb9-83de-4ad9-9ddb-94341f0f30bb

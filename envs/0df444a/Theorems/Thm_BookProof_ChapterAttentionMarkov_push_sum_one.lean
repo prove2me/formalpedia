@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_push_sum_one
 -- name    : BookProof.ChapterAttentionMarkov.push_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:27:36.704288+00:00
 -- url     : https://prove2.me/theorems/58e00879-5893-4803-8367-04840cc62a2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_no_shift_invariant_probabilityMeasure
 -- name    : BookProof.ChapterG.no_shift_invariant_probabilityMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:25:36.669322+00:00
 -- url     : https://prove2.me/theorems/6dc787e0-576a-49d5-a7c7-61baa215bc9f

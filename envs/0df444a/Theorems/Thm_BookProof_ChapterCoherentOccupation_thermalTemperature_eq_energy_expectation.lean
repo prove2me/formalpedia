@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_thermalTemperature_eq_energy_expectation
 -- name    : BookProof.ChapterCoherentOccupation.thermalTemperature_eq_energy_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:55:42.544044+00:00
 -- url     : https://prove2.me/theorems/1c7a1a17-a186-4a14-bcd3-dbfe8d9bd006

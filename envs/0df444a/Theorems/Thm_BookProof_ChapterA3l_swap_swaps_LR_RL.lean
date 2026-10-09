@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3l_swap_swaps_LR_RL
 -- name    : BookProof.ChapterA3l.swap_swaps_LR_RL
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:58:05.221024+00:00
 -- url     : https://prove2.me/theorems/00ca3c27-d84b-47ef-959d-ffeddfb178b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_scalarCubeFamily_localize
 -- name    : OAI.Erdos3.scalarCubeFamily_localize
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:29:41.199206+00:00
 -- url     : https://prove2.me/theorems/24d77406-90a6-4e33-a69a-ad7f13ba0144

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_eq_poissonPMFReal
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_eq_poissonPMFReal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:53:12.024986+00:00
 -- url     : https://prove2.me/theorems/6d8ea54e-9f16-4560-9eac-367397108888

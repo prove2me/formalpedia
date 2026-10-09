@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGammaCommutant_gamma_commutant_eq_scalars
 -- name    : BookProof.ChapterGammaCommutant.gamma_commutant_eq_scalars
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:51:30.407976+00:00
 -- url     : https://prove2.me/theorems/5020cb8b-9426-4a47-b60b-b6fa5d4ce4e0

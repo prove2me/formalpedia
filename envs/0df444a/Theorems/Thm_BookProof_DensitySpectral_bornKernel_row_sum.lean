@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_bornKernel_row_sum
 -- name    : BookProof.DensitySpectral.bornKernel_row_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:55:23.051582+00:00
 -- url     : https://prove2.me/theorems/89ec652c-de6d-478c-aae0-19bf750e5e5c

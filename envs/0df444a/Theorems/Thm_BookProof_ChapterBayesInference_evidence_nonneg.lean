@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_evidence_nonneg
 -- name    : BookProof.ChapterBayesInference.evidence_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:53:00.574281+00:00
 -- url     : https://prove2.me/theorems/67103778-a75c-47b4-92d7-cf709f351e72

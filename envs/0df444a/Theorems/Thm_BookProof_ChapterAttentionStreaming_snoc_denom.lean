@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionStreaming_snoc_denom
 -- name    : BookProof.ChapterAttentionStreaming.snoc_denom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:49:44.205796+00:00
 -- url     : https://prove2.me/theorems/6d32411a-61eb-4e5b-9b60-038917060513

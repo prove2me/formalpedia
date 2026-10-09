@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_not_summable_inv_one_add_nat
 -- name    : BookProof.CarlemanUnboundedHop.not_summable_inv_one_add_nat
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:35:44.012984+00:00
 -- url     : https://prove2.me/theorems/a386c3fd-c181-4b99-aa55-2e7d18b05986

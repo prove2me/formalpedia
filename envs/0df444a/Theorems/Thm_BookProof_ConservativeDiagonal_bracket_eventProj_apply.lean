@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConservativeDiagonal_bracket_eventProj_apply
 -- name    : BookProof.ConservativeDiagonal.bracket_eventProj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:23:14.103253+00:00
 -- url     : https://prove2.me/theorems/85825a9c-2f52-4fe6-ba88-89a9127f9887

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CorreaThreshold_Nonadaptive_eq_5
 -- name    : CorreaThreshold.Nonadaptive.eq_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T12:39:48.93818+00:00
 -- url     : https://prove2.me/theorems/f26685ad-3676-4de2-9a88-50b92863f1ca

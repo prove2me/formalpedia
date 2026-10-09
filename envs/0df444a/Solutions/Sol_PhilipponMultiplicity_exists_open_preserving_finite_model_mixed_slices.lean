@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_open_preserving_finite_model_mixed_slices
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-08T03:58:02.27303+00:00
 -- url     : https://prove2.me/submissions/f27e15f4-b426-46b6-b442-d3b8d47e86ad
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_mixed_finite_model_domain_and_dominance
 import Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_open_mixed_slices

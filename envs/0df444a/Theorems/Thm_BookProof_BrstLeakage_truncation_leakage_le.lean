@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_truncation_leakage_le
 -- name    : BookProof.BrstLeakage.truncation_leakage_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:16:57.652748+00:00
 -- url     : https://prove2.me/theorems/7bc5c3aa-07b9-4768-895e-50a65dcbbd04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_Treal_mul
 -- name    : BookProof.ChapterA3.Treal_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:54:14.553614+00:00
 -- url     : https://prove2.me/theorems/e81b62cd-d60a-4320-bcc9-ee58c65dd6ae

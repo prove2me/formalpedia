@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenWhitt93_Reflection_proposition_2_3_lipschitz
 -- name    : ChenWhitt93.Reflection.proposition_2_3_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:40:14.224044+00:00
 -- url     : https://prove2.me/theorems/109e56b9-e515-46c6-8725-c1f1c7be892a

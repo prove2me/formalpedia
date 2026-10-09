@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyChainFactoring_Extension_optimal_payment_extension
 -- name    : SupplyChainFactoring.Extension.optimal_payment_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T14:29:46.307619+00:00
 -- url     : https://prove2.me/theorems/874ca1bf-95bf-4f0d-a1bc-a6435b326b12

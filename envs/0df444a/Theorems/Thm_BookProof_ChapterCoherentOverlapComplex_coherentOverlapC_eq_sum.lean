@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_coherentOverlapC_eq_sum
 -- name    : BookProof.ChapterCoherentOverlapComplex.coherentOverlapC_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:00:26.025622+00:00
 -- url     : https://prove2.me/theorems/827330df-e4b7-4912-9ada-1f54c9a01861

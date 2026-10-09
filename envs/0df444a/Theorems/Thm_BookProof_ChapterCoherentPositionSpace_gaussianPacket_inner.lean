@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_gaussianPacket_inner
 -- name    : BookProof.ChapterCoherentPositionSpace.gaussianPacket_inner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:04:01.243242+00:00
 -- url     : https://prove2.me/theorems/5f1efa0c-b286-45b2-813b-62ba0922de69

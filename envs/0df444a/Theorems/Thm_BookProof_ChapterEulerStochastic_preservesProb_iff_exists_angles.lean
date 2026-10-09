@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerStochastic_preservesProb_iff_exists_angles
 -- name    : BookProof.ChapterEulerStochastic.preservesProb_iff_exists_angles
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:43:10.95+00:00
 -- url     : https://prove2.me/theorems/381cdad9-f03d-4612-a9f1-0d5b62c84fc1

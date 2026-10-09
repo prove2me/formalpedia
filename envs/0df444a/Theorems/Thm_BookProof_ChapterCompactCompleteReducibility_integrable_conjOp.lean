@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCompactCompleteReducibility_integrable_conjOp
 -- name    : BookProof.ChapterCompactCompleteReducibility.integrable_conjOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:15:24.392237+00:00
 -- url     : https://prove2.me/theorems/93441356-8617-46f2-bc45-c672582793f0

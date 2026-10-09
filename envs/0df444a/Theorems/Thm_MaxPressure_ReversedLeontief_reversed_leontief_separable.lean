@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_ReversedLeontief_reversed_leontief_separable
 -- name    : MaxPressure.ReversedLeontief.reversed_leontief_separable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:07:18.15845+00:00
 -- url     : https://prove2.me/theorems/712cc8f8-0513-4e81-a1ba-0396e7cb5229

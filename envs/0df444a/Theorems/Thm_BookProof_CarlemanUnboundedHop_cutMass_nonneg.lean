@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_cutMass_nonneg
 -- name    : BookProof.CarlemanUnboundedHop.cutMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:33:47.810095+00:00
 -- url     : https://prove2.me/theorems/ee6ddee1-0cdf-4cfa-80af-69617775ee4f

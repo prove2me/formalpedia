@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstReducedTransfer_mem_physicalStates
 -- name    : BookProof.BrstReducedTransfer.mem_physicalStates
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:10:03.174414+00:00
 -- url     : https://prove2.me/theorems/1e395b39-78d6-4506-a383-8686de1c5cad

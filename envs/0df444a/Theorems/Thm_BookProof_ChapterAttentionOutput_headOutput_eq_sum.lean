@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutput_headOutput_eq_sum
 -- name    : BookProof.ChapterAttentionOutput.headOutput_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:33:12.144993+00:00
 -- url     : https://prove2.me/theorems/96dee9d3-b01f-4a89-95ad-53887b933ef5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_principal_open_smooth_mixed_zero_locus
 -- name    : PhilipponMultiplicity.exists_principal_open_smooth_mixed_zero_locus
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-05T00:00:41.575476+00:00
 -- url     : https://prove2.me/theorems/56195750-704c-425e-bd66-ab81b390fe02

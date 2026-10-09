@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pMarg_eq_diagBHB
 -- name    : BookProof.ChapterConditional.pMarg_eq_diagBHB
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:18:48.892409+00:00
 -- url     : https://prove2.me/theorems/162c9d56-b471-4779-b7a5-4d0a86deaaa6

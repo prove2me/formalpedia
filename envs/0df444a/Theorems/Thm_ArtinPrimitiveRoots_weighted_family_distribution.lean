@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_weighted_family_distribution
 -- name    : ArtinPrimitiveRoots.weighted_family_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:27:58.74254+00:00
 -- url     : https://prove2.me/theorems/b87cd752-7469-4446-b2ec-63407911a5d6

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_filter_regular_mixed_section_preserving_isolated_points
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-01T17:41:05.108955+00:00
 -- url     : https://prove2.me/submissions/6bb3707b-4eef-4258-a888-57e5cf8ea4e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_coordinate_local_mixed_section_preserving_isolated_points
 import Theorems.Thm_PhilipponMultiplicity_multigraded_hilbert_polynomial_exists

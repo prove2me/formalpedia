@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_payoff_triple
 -- name    : BookProof.ChapterDutchBook.payoff_triple
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:07:44.210857+00:00
 -- url     : https://prove2.me/theorems/fcb0c231-4322-4820-a665-c4ff879c0ae2

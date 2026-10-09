@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConservative_timeEvo_conj_trace
 -- name    : BookProof.ChapterConservative.timeEvo_conj_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:22:18.258757+00:00
 -- url     : https://prove2.me/theorems/dea009e7-3300-4a4e-b656-4c0e79435a7a

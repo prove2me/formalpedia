@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_thermal_plus_zeroPoint_conv
 -- name    : BookProof.ChapterDisplacedThermalOverlap.thermal_plus_zeroPoint_conv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:06.583583+00:00
 -- url     : https://prove2.me/theorems/3fc88e43-0c29-4055-b1dc-b3b63d41c4ab

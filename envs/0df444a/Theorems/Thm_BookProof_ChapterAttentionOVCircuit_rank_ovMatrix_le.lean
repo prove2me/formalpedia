@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOVCircuit_rank_ovMatrix_le
 -- name    : BookProof.ChapterAttentionOVCircuit.rank_ovMatrix_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:33:07.595106+00:00
 -- url     : https://prove2.me/theorems/a3993f73-104a-41f9-a60b-653afc26de2e

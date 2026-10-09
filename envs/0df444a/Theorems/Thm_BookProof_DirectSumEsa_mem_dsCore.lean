@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_mem_dsCore
 -- name    : BookProof.DirectSumEsa.mem_dsCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:58:33.51582+00:00
 -- url     : https://prove2.me/theorems/da4d68b4-2905-447d-ae45-774df5d64f9d

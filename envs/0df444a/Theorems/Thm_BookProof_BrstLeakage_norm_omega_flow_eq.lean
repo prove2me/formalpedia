@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_norm_omega_flow_eq
 -- name    : BookProof.BrstLeakage.norm_omega_flow_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:30:28.269976+00:00
 -- url     : https://prove2.me/theorems/1c4b9bdf-2adb-42ac-ad6d-582d61a95892

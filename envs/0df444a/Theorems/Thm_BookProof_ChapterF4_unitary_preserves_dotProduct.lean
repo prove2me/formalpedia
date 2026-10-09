@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_unitary_preserves_dotProduct
 -- name    : BookProof.ChapterF4.unitary_preserves_dotProduct
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:50:51.967046+00:00
 -- url     : https://prove2.me/theorems/739b13a2-e55d-4029-985a-f8090e09364f

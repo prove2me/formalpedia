@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianDiagonalCountable_norm_diagOp_le
 -- name    : BookProof.ChapterAbelianDiagonalCountable.norm_diagOp_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:29:43.102019+00:00
 -- url     : https://prove2.me/theorems/f2c1d37a-837c-4718-9611-2560fbcb865a

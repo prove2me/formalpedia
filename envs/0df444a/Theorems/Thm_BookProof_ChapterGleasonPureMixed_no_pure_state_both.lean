@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGleasonPureMixed_no_pure_state_both
 -- name    : BookProof.ChapterGleasonPureMixed.no_pure_state_both
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:55:18.499074+00:00
 -- url     : https://prove2.me/theorems/d2a22644-bfe5-4a2a-880b-10ddc8c1061c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_flow_mem_unitary
 -- name    : BookProof.BrstLeakage.flow_mem_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:12:22.750306+00:00
 -- url     : https://prove2.me/theorems/4bb09c64-08b8-43be-8822-ad8ca9ed6f3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE4_wave_eq_zero_of_lt
 -- name    : BookProof.ChapterE4.wave_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:13:49.017976+00:00
 -- url     : https://prove2.me/theorems/76490f87-8f26-44a4-86ee-7703c940ece6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_coherentBornC_eq_softmax
 -- name    : BookProof.ChapterCoherentOverlapComplex.coherentBornC_eq_softmax
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:02:50.517314+00:00
 -- url     : https://prove2.me/theorems/49bfc609-61cb-4267-97bb-84626c534827

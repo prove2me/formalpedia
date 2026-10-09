@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_circle_point_config_card_le_four
 -- name    : DiazModulus.circle_point_config_card_le_four
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:52.020898+00:00
 -- url     : https://prove2.me/theorems/b4cc3f07-7c37-4d0b-8723-2024abea4bac

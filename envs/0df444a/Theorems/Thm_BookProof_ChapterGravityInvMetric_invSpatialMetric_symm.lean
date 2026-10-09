@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityInvMetric_invSpatialMetric_symm
 -- name    : BookProof.ChapterGravityInvMetric.invSpatialMetric_symm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:58:17.765364+00:00
 -- url     : https://prove2.me/theorems/2e521a54-718e-4d87-9fd6-0b91fe1dac5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_geoHop_isL2Kernel
 -- name    : BookProof.CarlemanUnboundedHop.geoHop_isL2Kernel
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:11:45.310207+00:00
 -- url     : https://prove2.me/theorems/eaa6457b-a12a-4759-8f45-7c79237a1ac7

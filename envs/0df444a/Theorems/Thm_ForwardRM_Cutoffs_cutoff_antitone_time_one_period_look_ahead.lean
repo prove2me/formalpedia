@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ForwardRM_Cutoffs_cutoff_antitone_time_one_period_look_ahead
 -- name    : ForwardRM.Cutoffs.cutoff_antitone_time_one_period_look_ahead
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T18:59:45.305982+00:00
 -- url     : https://prove2.me/theorems/18a2631b-035f-4c38-b6cb-56672a8d18a2

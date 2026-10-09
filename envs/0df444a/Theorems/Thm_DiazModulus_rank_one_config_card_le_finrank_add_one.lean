@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_rank_one_config_card_le_finrank_add_one
 -- name    : DiazModulus.rank_one_config_card_le_finrank_add_one
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:45.719259+00:00
 -- url     : https://prove2.me/theorems/13e9574b-ef87-4cc0-8354-7049fc6d19c6

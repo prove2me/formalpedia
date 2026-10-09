@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE_exists_uniformizer
 -- name    : BookProof.ChapterE.exists_uniformizer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:10:31.739483+00:00
 -- url     : https://prove2.me/theorems/c2c3cd39-487c-435a-b315-8ad1b80a3311

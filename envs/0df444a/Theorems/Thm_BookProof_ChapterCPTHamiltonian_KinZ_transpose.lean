@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_KinZ_transpose
 -- name    : BookProof.ChapterCPTHamiltonian.KinZ_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:21:42.212973+00:00
 -- url     : https://prove2.me/theorems/22b9e261-dbb9-472d-9de8-f00bca0e2d66

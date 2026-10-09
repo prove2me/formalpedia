@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_hasDerivAt_isometry_apply
 -- name    : BookProof.BrstUnboundedLeakage.hasDerivAt_isometry_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:17:44.364+00:00
 -- url     : https://prove2.me/theorems/3784ecab-ca01-49f9-9237-6e8405b6202c

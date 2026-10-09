@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InputSparsity_Regress_fact_34
 -- name    : InputSparsity.Regress.fact_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T11:03:01.61962+00:00
 -- url     : https://prove2.me/theorems/82b46f42-6bb0-4ce4-8e5e-737dd42dfcd2

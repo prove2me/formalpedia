@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_misra_gries_bound
 -- name    : BookProof.ChapterF6.misra_gries_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:04:28.210015+00:00
 -- url     : https://prove2.me/theorems/e4350392-29a9-4f99-9fa7-80cd63a33a81

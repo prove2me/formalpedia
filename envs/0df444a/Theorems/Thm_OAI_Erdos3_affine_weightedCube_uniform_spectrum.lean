@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_affine_weightedCube_uniform_spectrum
 -- name    : OAI.Erdos3.affine_weightedCube_uniform_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T13:28:13.382151+00:00
 -- url     : https://prove2.me/theorems/a7057b96-53e8-456c-a307-5a6f8d01965c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9_left_derivative_nonneg_of_eventual_max
 -- name    : d9_left_derivative_nonneg_of_eventual_max
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T10:43:14.853871+00:00
 -- url     : https://prove2.me/theorems/20425ae3-283d-4fd9-ba31-eeafd2fa12ef

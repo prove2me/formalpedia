@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_QualityDriven_theorem_7_1
 -- name    : DimCallCenters.QualityDriven.theorem_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:35:19.714248+00:00
 -- url     : https://prove2.me/theorems/8b610958-e26f-464c-a4ea-dec2ec7605c9

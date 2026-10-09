@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLorentzRealRep_b10R_linearIndependent
 -- name    : BookProof.ChapterLorentzRealRep.b10R_linearIndependent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:25:45.304839+00:00
 -- url     : https://prove2.me/theorems/4c2fa452-f244-4a88-af63-a0724a213d2e

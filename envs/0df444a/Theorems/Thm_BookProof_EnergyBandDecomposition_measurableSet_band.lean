@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_measurableSet_band
 -- name    : BookProof.EnergyBandDecomposition.measurableSet_band
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:07.804087+00:00
 -- url     : https://prove2.me/theorems/5992cbda-ffb4-459d-8b32-2e447a0b70e7

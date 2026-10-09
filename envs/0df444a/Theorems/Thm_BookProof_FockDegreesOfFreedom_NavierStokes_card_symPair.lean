@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockDegreesOfFreedom_NavierStokes_card_symPair
 -- name    : BookProof.FockDegreesOfFreedom.NavierStokes.card_symPair
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:20:59.031702+00:00
 -- url     : https://prove2.me/theorems/32679d18-e80c-41bd-ba28-6b98a4301f43

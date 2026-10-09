@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_ghost_creat_conjTranspose
 -- name    : BookProof.ChapterG.ghost_creat_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:26:38.435548+00:00
 -- url     : https://prove2.me/theorems/e82a8b80-1fb2-413a-a7ae-86f379a15f58

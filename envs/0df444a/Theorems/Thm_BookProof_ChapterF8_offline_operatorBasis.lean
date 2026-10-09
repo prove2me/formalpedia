@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF8_offline_operatorBasis
 -- name    : BookProof.ChapterF8.offline_operatorBasis
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:08:39.196587+00:00
 -- url     : https://prove2.me/theorems/c377b6ce-cb03-429c-af9f-847f7da9c024

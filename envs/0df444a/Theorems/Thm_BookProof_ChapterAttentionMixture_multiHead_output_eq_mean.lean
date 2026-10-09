@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_multiHead_output_eq_mean
 -- name    : BookProof.ChapterAttentionMixture.multiHead_output_eq_mean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:57.593832+00:00
 -- url     : https://prove2.me/theorems/746115a5-309c-4d6f-b82c-b16ae0b8a253

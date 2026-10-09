@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_finite_model_mixed_slices
 -- name    : PhilipponMultiplicity.exists_open_preserving_finite_model_mixed_slices
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-07T16:49:26.044868+00:00
 -- url     : https://prove2.me/theorems/5c4ce097-36ba-439a-866d-bebb597278df

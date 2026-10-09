@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_nbar_add_one_pos
 -- name    : BookProof.ChapterCoherentTemperature.nbar_add_one_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:05:24.932139+00:00
 -- url     : https://prove2.me/theorems/e55898a4-6948-4d2b-ac18-0f76f248b4cb

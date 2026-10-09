@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerCountableChain_condCos_mem
 -- name    : BookProof.ChapterEulerCountableChain.condCos_mem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:26:50.733996+00:00
 -- url     : https://prove2.me/theorems/d9818b35-5790-48ad-98fd-7d1f59fafbab

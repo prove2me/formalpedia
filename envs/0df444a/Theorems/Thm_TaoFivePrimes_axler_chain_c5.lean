@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_axler_chain_c5
 -- name    : TaoFivePrimes.axler_chain_c5
--- status  : Open
+-- status  : Proved
 -- author  : @andreaskapfer
 -- created : 2026-10-01T15:25:19.690419+00:00
 -- url     : https://prove2.me/theorems/2b1358f4-3525-431c-ac07-eacdd6d3f73a

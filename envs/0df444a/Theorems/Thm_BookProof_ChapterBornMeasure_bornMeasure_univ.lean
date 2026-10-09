@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBornMeasure_bornMeasure_univ
 -- name    : BookProof.ChapterBornMeasure.bornMeasure_univ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:07:59.953415+00:00
 -- url     : https://prove2.me/theorems/3dfc1b87-73ac-493c-af89-b1ad9d2e73e3

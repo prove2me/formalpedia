@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproachRegret_ToApproach_corollary18_lifted_rate
 -- name    : ApproachRegret.ToApproach.corollary18_lifted_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T15:28:02.85099+00:00
 -- url     : https://prove2.me/theorems/64aa9eb2-12aa-4c60-8dc3-a9190aff45fc

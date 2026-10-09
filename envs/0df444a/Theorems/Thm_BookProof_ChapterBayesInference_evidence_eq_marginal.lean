@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_evidence_eq_marginal
 -- name    : BookProof.ChapterBayesInference.evidence_eq_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:52:55.640221+00:00
 -- url     : https://prove2.me/theorems/4109e411-b723-49f0-9ae5-5d687e4787fe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch7_intrinsic_dimension
 -- name    : TroppMatrixConcentration.ch7_intrinsic_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:51:46.808236+00:00
 -- url     : https://prove2.me/theorems/6c5757aa-9d24-4c77-bfe9-b3af20de5f9e

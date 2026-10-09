@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGhostMajoranaRep_psi_not_selfAdjoint
 -- name    : BookProof.ChapterGhostMajoranaRep.psi_not_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:21:38.316311+00:00
 -- url     : https://prove2.me/theorems/796f2ccc-29d8-4fd8-a303-74ca6a4e2335

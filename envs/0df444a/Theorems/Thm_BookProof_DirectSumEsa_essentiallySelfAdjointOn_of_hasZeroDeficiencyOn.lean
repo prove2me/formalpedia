@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_essentiallySelfAdjointOn_of_hasZeroDeficiencyOn
 -- name    : BookProof.DirectSumEsa.essentiallySelfAdjointOn_of_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:59:26.356448+00:00
 -- url     : https://prove2.me/theorems/9cb613fd-82ae-433f-ab14-33be1cf28dd5

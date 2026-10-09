@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_Coherent_nonneg
 -- name    : BookProof.ChapterDutchBook.Coherent.nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:08:14.423573+00:00
 -- url     : https://prove2.me/theorems/8332d740-abec-4387-add4-ff4e83634f3c

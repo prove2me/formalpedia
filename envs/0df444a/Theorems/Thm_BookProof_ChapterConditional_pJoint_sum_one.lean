@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pJoint_sum_one
 -- name    : BookProof.ChapterConditional.pJoint_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:21:26.989824+00:00
 -- url     : https://prove2.me/theorems/f146d35f-0480-4218-ac93-a0abec9711a1

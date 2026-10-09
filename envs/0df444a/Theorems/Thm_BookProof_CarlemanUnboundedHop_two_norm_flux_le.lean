@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_two_norm_flux_le
 -- name    : BookProof.CarlemanUnboundedHop.two_norm_flux_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:33:42.535858+00:00
 -- url     : https://prove2.me/theorems/a2e4dddc-592b-471c-8ced-ce671f24b1eb

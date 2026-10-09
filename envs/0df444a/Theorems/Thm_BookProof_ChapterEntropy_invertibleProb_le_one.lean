@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropy_invertibleProb_le_one
 -- name    : BookProof.ChapterEntropy.invertibleProb_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:47:37.592137+00:00
 -- url     : https://prove2.me/theorems/1bcaca50-c520-4cdf-95c9-7f1ce4e634f1

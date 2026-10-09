@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_expRevenue_eq_integral_condRevenue
 -- name    : NestedSeatAlloc.IntPolicy.expRevenue_eq_integral_condRevenue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T12:52:45.290995+00:00
 -- url     : https://prove2.me/theorems/a5666e8a-fe70-4ded-920b-585f3a37445a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConservativeDiagonal_eventProj_commute
 -- name    : BookProof.ConservativeDiagonal.eventProj_commute
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:23:01.933988+00:00
 -- url     : https://prove2.me/theorems/399e2416-6613-42ff-a4ce-108ed4c2b2a2

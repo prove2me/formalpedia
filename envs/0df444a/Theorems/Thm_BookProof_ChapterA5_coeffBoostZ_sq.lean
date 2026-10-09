@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA5_coeffBoostZ_sq
 -- name    : BookProof.ChapterA5.coeffBoostZ_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:11:40.680748+00:00
 -- url     : https://prove2.me/theorems/57618240-3f41-407a-ba91-cb9df23d91b5

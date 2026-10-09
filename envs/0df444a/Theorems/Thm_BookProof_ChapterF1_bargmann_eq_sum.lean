@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_bargmann_eq_sum
 -- name    : BookProof.ChapterF1.bargmann_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:45:30.409805+00:00
 -- url     : https://prove2.me/theorems/864a9231-5b23-4558-b307-0c6c5b289c8e

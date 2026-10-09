@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeCasimirAverage_integral_map_of_invariant
 -- name    : BookProof.ChapterGaugeCasimirAverage.integral_map_of_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:55:25.879364+00:00
 -- url     : https://prove2.me/theorems/275e3ce7-2c02-44af-99c4-cf83fa97b349

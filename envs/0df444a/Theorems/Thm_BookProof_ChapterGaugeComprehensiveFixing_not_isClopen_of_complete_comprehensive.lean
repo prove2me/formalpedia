@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_not_isClopen_of_complete_comprehensive
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.not_isClopen_of_complete_comprehensive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:56:31.620338+00:00
 -- url     : https://prove2.me/theorems/a74c3776-872d-4ef7-8d17-f7ca1b70dff5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerDensityMatrix_density_euler
 -- name    : BookProof.ChapterEulerDensityMatrix.density_euler
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:28:25.17372+00:00
 -- url     : https://prove2.me/theorems/fa24e685-fed1-4273-a7f9-8a3a6bfab1c0

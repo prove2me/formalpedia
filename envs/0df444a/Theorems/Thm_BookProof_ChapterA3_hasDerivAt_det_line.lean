@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_hasDerivAt_det_line
 -- name    : BookProof.ChapterA3.hasDerivAt_det_line
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:47:25.614061+00:00
 -- url     : https://prove2.me/theorems/9d051383-2759-414f-8ec8-5fbaafb7ba16

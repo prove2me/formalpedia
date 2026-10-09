@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOVCircuit_ovOutput_gauge
 -- name    : BookProof.ChapterAttentionOVCircuit.ovOutput_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:32:52.911335+00:00
 -- url     : https://prove2.me/theorems/edaf5b14-075e-444d-b1d9-d6590fd061cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEnergyBoundedEvolution_norm_evol_sub_evol_le_ae
 -- name    : BookProof.ChapterEnergyBoundedEvolution.norm_evol_sub_evol_le_ae
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:46:34.350281+00:00
 -- url     : https://prove2.me/theorems/3d3368a1-6849-4504-a16c-78def7f5ecf6

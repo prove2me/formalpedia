@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_ghost_annih_sq
 -- name    : BookProof.ChapterG.ghost_annih_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:26:37.232457+00:00
 -- url     : https://prove2.me/theorems/033dc34d-1da2-4cf5-ab40-fb92effcd579

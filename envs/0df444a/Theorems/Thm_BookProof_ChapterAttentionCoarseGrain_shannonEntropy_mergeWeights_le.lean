@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCoarseGrain_shannonEntropy_mergeWeights_le
 -- name    : BookProof.ChapterAttentionCoarseGrain.shannonEntropy_mergeWeights_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:20:39.338978+00:00
 -- url     : https://prove2.me/theorems/15f51842-fcf4-4677-aabd-6fb21f75e812

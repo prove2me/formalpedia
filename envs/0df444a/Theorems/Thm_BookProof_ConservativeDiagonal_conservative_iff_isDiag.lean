@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConservativeDiagonal_conservative_iff_isDiag
 -- name    : BookProof.ConservativeDiagonal.conservative_iff_isDiag
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:23:40.671977+00:00
 -- url     : https://prove2.me/theorems/0d3427fc-a1e1-433a-9c5a-3fd7b857e457

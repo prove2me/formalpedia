@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningMAP_exp_logObjective
 -- name    : BookProof.ChapterDeepLearningMAP.exp_logObjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:28:33.678367+00:00
 -- url     : https://prove2.me/theorems/146c5864-9392-4c70-a2db-2ad0d419e94d

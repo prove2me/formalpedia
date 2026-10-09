@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_chargeQ_comm_mul
 -- name    : BookProof.ChapterGaugeMechanicsCharge.chargeQ_comm_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:15:45.369625+00:00
 -- url     : https://prove2.me/theorems/4b1f8b49-9917-458f-a216-5f9be0e013fa

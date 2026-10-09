@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_Theta_succ_le
 -- name    : BookProof.CarlemanUnboundedHop.Theta_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:33:18.683232+00:00
 -- url     : https://prove2.me/theorems/54f4a269-714e-4a8f-b6cf-46c71e6d9eef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_le_shannonEntropy_mixture
 -- name    : BookProof.ChapterAttentionMixture.le_shannonEntropy_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:41.689724+00:00
 -- url     : https://prove2.me/theorems/babafb4a-2343-4d03-a769-ae53bb20a89b

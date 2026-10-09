@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_affineCoefficientImage_tolerance
 -- name    : OAI.Erdos3.affineCoefficientImage_tolerance
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:23:17.856306+00:00
 -- url     : https://prove2.me/theorems/f9d21848-3812-498b-b09d-069e9f40b023

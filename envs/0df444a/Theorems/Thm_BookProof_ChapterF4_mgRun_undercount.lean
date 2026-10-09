@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_mgRun_undercount
 -- name    : BookProof.ChapterF4.mgRun_undercount
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:01:33.768976+00:00
 -- url     : https://prove2.me/theorems/72f614bc-8318-48e7-a5ef-d07801af0a70

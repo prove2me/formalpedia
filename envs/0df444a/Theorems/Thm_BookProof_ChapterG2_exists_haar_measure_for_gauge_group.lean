@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_exists_haar_measure_for_gauge_group
 -- name    : BookProof.ChapterG2.exists_haar_measure_for_gauge_group
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:51:15.354146+00:00
 -- url     : https://prove2.me/theorems/2f929dc6-a754-441b-bd91-76482bf5e4eb

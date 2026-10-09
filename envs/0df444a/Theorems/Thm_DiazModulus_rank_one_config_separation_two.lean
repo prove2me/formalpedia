@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_rank_one_config_separation_two
 -- name    : DiazModulus.rank_one_config_separation_two
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:23.473979+00:00
 -- url     : https://prove2.me/theorems/fccd2c36-8b8a-4d53-b05f-e6d7a9c0803f

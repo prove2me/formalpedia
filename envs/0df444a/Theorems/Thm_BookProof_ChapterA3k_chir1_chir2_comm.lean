@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3k_chir1_chir2_comm
 -- name    : BookProof.ChapterA3k.chir1_chir2_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:56:15.747847+00:00
 -- url     : https://prove2.me/theorems/18014342-1e9c-4c82-a43b-34ae538d0b61

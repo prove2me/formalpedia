@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE4_cond_prob_sum
 -- name    : BookProof.ChapterE4.cond_prob_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:15:39.333987+00:00
 -- url     : https://prove2.me/theorems/bf8a1ea2-02c0-41d9-90c8-1283402084d3

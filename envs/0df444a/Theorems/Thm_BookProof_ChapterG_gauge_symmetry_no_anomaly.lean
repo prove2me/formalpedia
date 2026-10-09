@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_gauge_symmetry_no_anomaly
 -- name    : BookProof.ChapterG.gauge_symmetry_no_anomaly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:49:12.71473+00:00
 -- url     : https://prove2.me/theorems/dfec2bdf-9006-4fd8-8f80-4dd097538530

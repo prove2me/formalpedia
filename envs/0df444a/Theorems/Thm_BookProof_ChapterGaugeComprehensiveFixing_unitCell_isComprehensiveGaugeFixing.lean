@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_unitCell_isComprehensiveGaugeFixing
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.unitCell_isComprehensiveGaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:10:25.323453+00:00
 -- url     : https://prove2.me/theorems/2fcfa88e-ab88-4f7a-bd6a-ecc372984ca5

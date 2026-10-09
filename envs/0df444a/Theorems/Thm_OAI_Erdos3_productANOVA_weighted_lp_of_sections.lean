@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_productANOVA_weighted_lp_of_sections
 -- name    : OAI.Erdos3.productANOVA_weighted_lp_of_sections
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:39:04.808716+00:00
 -- url     : https://prove2.me/theorems/2f9bea45-eea3-4af3-86fe-93e1ccf714d0

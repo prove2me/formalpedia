@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_bornWeightC_phaseRotate
 -- name    : BookProof.ChapterCoherentDynamics.bornWeightC_phaseRotate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:50:40.402099+00:00
 -- url     : https://prove2.me/theorems/e6dcb01b-b18e-4e71-8a7e-93298a4517c8

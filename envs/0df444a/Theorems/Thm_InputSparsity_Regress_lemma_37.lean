@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InputSparsity_Regress_lemma_37
 -- name    : InputSparsity.Regress.lemma_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T11:03:00.539586+00:00
 -- url     : https://prove2.me/theorems/6e905035-402b-44d1-ac12-8b026d0ec6bb

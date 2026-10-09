@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_velocityOp_commute
 -- name    : BookProof.ChapterGaugeShiftExample.velocityOp_commute
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:18:02.857128+00:00
 -- url     : https://prove2.me/theorems/803ee672-c607-41ec-9e52-3228885c7eb0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_gaussianPDFReal_mul_gaussianPDFReal
 -- name    : BookProof.ChapterDisplacedThermalOverlap.gaussianPDFReal_mul_gaussianPDFReal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:30.674998+00:00
 -- url     : https://prove2.me/theorems/69af7b2b-1abe-46aa-a6ec-a2a903793cb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_unitCell_indicator_not_isPhysicalObservable
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.unitCell_indicator_not_isPhysicalObservable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:28.225391+00:00
 -- url     : https://prove2.me/theorems/98a41d80-92fc-4a07-87aa-5cfa4bd32a11

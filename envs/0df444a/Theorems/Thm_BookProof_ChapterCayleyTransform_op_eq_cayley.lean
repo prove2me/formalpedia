@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyTransform_op_eq_cayley
 -- name    : BookProof.ChapterCayleyTransform.op_eq_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:37:19.044424+00:00
 -- url     : https://prove2.me/theorems/4787f238-d695-4d8b-b874-c67cd9df379b

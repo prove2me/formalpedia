@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_MassA_conjTranspose
 -- name    : BookProof.ChapterCPTHamiltonian.MassA_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:24:42.58234+00:00
 -- url     : https://prove2.me/theorems/e34639b7-f3ee-4a5e-9d65-0c133f9d20fe

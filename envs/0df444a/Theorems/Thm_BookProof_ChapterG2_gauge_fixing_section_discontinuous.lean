@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_gauge_fixing_section_discontinuous
 -- name    : BookProof.ChapterG2.gauge_fixing_section_discontinuous
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:50:23.891977+00:00
 -- url     : https://prove2.me/theorems/3d3f9a08-c496-4304-bd06-85a3b93d9c47

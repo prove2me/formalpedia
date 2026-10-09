@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_eq
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:53:46.880347+00:00
 -- url     : https://prove2.me/theorems/3424648d-70f4-4c1e-9f24-4410cbab7ab1

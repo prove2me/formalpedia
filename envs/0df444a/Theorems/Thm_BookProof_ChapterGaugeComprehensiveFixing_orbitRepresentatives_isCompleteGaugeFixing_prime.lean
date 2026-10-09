@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_orbitRepresentatives_isCompleteGaugeFixing_prime
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.orbitRepresentatives_isCompleteGaugeFixing_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:55:44.201737+00:00
 -- url     : https://prove2.me/theorems/3ad38c0e-1471-4996-a755-9ba429ca3ea7

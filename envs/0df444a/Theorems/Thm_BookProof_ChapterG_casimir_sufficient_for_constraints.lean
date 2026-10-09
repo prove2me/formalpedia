@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_casimir_sufficient_for_constraints
 -- name    : BookProof.ChapterG.casimir_sufficient_for_constraints
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:49:23.868673+00:00
 -- url     : https://prove2.me/theorems/aadf3625-46d8-4778-9aba-ae87de8a2ddc

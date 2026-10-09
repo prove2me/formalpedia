@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_card_erase_cast
 -- name    : BookProof.ChapterAttentionRetrieval.card_erase_cast
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:42:46.036983+00:00
 -- url     : https://prove2.me/theorems/2d56d0aa-15ab-4255-a33c-685a280a0013

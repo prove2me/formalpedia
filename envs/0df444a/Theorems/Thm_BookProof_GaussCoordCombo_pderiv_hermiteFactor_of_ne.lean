@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_pderiv_hermiteFactor_of_ne
 -- name    : BookProof.GaussCoordCombo.pderiv_hermiteFactor_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:21:20.044002+00:00
 -- url     : https://prove2.me/theorems/eb3aecf2-e5cb-42f9-9b6a-7c4c1333cb7a

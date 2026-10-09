@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_Kin_sq
 -- name    : BookProof.ChapterCPTHamiltonian.Kin_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:23:04.954321+00:00
 -- url     : https://prove2.me/theorems/852776f8-99eb-4e43-b673-b9cf41aa7ddf

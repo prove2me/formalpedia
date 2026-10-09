@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch5_chernoff_mgf_cgf
 -- name    : TroppMatrixConcentration.ch5_chernoff_mgf_cgf
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:48:23.42538+00:00
 -- url     : https://prove2.me/theorems/8774be6e-1c07-4c23-b8e1-d6c4b6946afb

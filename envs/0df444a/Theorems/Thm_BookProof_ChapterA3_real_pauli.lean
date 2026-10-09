@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_real_pauli
 -- name    : BookProof.ChapterA3.real_pauli
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-06T12:18:42.024538+00:00
 -- url     : https://prove2.me/theorems/3ddd568a-8b2e-4558-bb85-7e2369be91fc

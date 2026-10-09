@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_SmallItems_ffd_le_seventy_one_sixtieths
 -- name    : BinPacking.SmallItems.ffd_le_seventy_one_sixtieths
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:23:50.141631+00:00
 -- url     : https://prove2.me/theorems/4c187921-2eaf-4ae2-9104-ffbc77963d91

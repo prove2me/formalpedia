@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_projSym_uniform_comm
 -- name    : BookProof.ChapterA3n.projSym_uniform_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:08:32.421976+00:00
 -- url     : https://prove2.me/theorems/369e395e-8c7f-441b-a03e-174ff23ac2e6

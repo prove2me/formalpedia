@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBijectionProbability_bijProb_tendsto_zero
 -- name    : BookProof.ChapterBijectionProbability.bijProb_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:56:17.628973+00:00
 -- url     : https://prove2.me/theorems/e435305f-74f7-44a3-9315-a9101150a5fd

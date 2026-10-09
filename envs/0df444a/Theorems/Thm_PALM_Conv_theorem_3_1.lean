@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PALM_Conv_theorem_3_1
 -- name    : PALM.Conv.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:55.469923+00:00
 -- url     : https://prove2.me/theorems/0a57cd23-09e6-4858-8bea-4614b4c3e2b3

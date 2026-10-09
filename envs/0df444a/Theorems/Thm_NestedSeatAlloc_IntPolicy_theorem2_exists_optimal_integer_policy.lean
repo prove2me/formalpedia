@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_theorem2_exists_optimal_integer_policy
 -- name    : NestedSeatAlloc.IntPolicy.theorem2_exists_optimal_integer_policy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:39:23.437468+00:00
 -- url     : https://prove2.me/theorems/3e992204-8735-4d70-bcdb-3ba848cbcf0e

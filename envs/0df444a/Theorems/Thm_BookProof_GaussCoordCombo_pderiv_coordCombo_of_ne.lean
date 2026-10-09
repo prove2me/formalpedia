@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_pderiv_coordCombo_of_ne
 -- name    : BookProof.GaussCoordCombo.pderiv_coordCombo_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:19:50.063983+00:00
 -- url     : https://prove2.me/theorems/aa3d99b4-1c64-40d5-b1ef-3c75162b7477

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_axler_chain_c4a
 -- name    : TaoFivePrimes.axler_chain_c4a
--- status  : Open
+-- status  : Proved
 -- author  : @andreaskapfer
 -- created : 2026-10-01T18:32:07.904359+00:00
 -- url     : https://prove2.me/theorems/026b45ae-9b1a-4149-8ed0-2451c13c5393

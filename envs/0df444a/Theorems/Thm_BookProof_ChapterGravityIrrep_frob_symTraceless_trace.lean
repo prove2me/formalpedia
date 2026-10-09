@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityIrrep_frob_symTraceless_trace
 -- name    : BookProof.ChapterGravityIrrep.frob_symTraceless_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:59:31.20569+00:00
 -- url     : https://prove2.me/theorems/e30995ae-469f-4c75-a86e-7b5411f7d5b5

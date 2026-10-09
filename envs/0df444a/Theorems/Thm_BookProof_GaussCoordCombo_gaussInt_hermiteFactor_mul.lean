@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_gaussInt_hermiteFactor_mul
 -- name    : BookProof.GaussCoordCombo.gaussInt_hermiteFactor_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:19:39.904878+00:00
 -- url     : https://prove2.me/theorems/567c062d-ea6b-4473-9bfa-99112973ef76

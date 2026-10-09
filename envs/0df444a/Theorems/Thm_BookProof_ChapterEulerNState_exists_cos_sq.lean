@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_exists_cos_sq
 -- name    : BookProof.ChapterEulerNState.exists_cos_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:31:07.022976+00:00
 -- url     : https://prove2.me/theorems/9f836596-1c97-4d8a-89f1-f71d3914ae8b

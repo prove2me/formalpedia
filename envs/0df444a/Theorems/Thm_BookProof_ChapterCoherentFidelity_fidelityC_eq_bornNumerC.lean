@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_fidelityC_eq_bornNumerC
 -- name    : BookProof.ChapterCoherentFidelity.fidelityC_eq_bornNumerC
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:49:27.820218+00:00
 -- url     : https://prove2.me/theorems/fc63a61e-da93-4fce-888f-969dba099162

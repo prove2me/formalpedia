@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixSqrt_theorem_4_1
 -- name    : PoissonDepTrials.MixSqrt.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:38:35.277975+00:00
 -- url     : https://prove2.me/theorems/50ef7d44-7eee-4cae-bf9f-7834575382c7

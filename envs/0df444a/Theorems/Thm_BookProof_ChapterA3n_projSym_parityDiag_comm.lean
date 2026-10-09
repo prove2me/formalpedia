@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_projSym_parityDiag_comm
 -- name    : BookProof.ChapterA3n.projSym_parityDiag_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:08:59.087798+00:00
 -- url     : https://prove2.me/theorems/2faf3d7c-0c74-49ec-9237-941d21432e86

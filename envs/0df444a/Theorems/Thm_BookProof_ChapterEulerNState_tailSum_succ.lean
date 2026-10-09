@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_tailSum_succ
 -- name    : BookProof.ChapterEulerNState.tailSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:32:39.611023+00:00
 -- url     : https://prove2.me/theorems/003f8533-1b6e-4d00-9120-90ba6f10c8be

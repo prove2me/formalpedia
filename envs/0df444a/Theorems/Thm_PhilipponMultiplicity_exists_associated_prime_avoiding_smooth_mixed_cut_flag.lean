@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_associated_prime_avoiding_smooth_mixed_cut_flag
 -- name    : PhilipponMultiplicity.exists_associated_prime_avoiding_smooth_mixed_cut_flag
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-04T18:08:05.508698+00:00
 -- url     : https://prove2.me/theorems/d9adee76-69d2-422b-85da-e1b8e22720f9

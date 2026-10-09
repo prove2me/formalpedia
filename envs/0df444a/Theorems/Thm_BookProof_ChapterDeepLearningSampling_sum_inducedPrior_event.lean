@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningSampling_sum_inducedPrior_event
 -- name    : BookProof.ChapterDeepLearningSampling.sum_inducedPrior_event
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:28:44.656114+00:00
 -- url     : https://prove2.me/theorems/16ab8d74-02e0-4fe1-bbfa-9e0e5a349da8

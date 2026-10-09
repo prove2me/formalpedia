@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_mixed_degree_geometry
 -- name    : PhilipponMultiplicity.mixed_degree_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-09-23T21:11:10.42923+00:00
 -- url     : https://prove2.me/theorems/717d6098-89fa-4e68-a661-6911c16fbc91

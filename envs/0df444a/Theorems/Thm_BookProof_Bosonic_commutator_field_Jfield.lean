@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_commutator_field_Jfield
 -- name    : BookProof.Bosonic.commutator_field_Jfield
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:09:35.903198+00:00
 -- url     : https://prove2.me/theorems/99377bdb-3dfc-485c-baef-70f869622c65

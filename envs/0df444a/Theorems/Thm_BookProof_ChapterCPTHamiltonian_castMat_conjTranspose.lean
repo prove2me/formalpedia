@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_castMat_conjTranspose
 -- name    : BookProof.ChapterCPTHamiltonian.castMat_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:22:21.451999+00:00
 -- url     : https://prove2.me/theorems/efd6888b-c0d3-4503-b578-d42c6fd404e5

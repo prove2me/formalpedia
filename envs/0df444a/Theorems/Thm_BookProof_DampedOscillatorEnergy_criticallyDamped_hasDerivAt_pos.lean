@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_criticallyDamped_hasDerivAt_pos
 -- name    : BookProof.DampedOscillatorEnergy.criticallyDamped_hasDerivAt_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:26:33.998982+00:00
 -- url     : https://prove2.me/theorems/ea8e0e1b-4be4-498b-a86f-20d96dcf501d

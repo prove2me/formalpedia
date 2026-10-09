@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.mixed_degree_geometry
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-01T13:24:50.796468+00:00
 -- url     : https://prove2.me/submissions/dee01410-e996-4ae0-a36f-559883fe4b37
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_isolated_mixed_linear_section_bound
 import Theorems.Thm_PhilipponMultiplicity_generic_mixed_linear_section_avoiding_boundary

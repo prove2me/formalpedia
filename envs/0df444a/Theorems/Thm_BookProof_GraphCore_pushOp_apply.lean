@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_pushOp_apply
 -- name    : BookProof.GraphCore.pushOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:57:13.342596+00:00
 -- url     : https://prove2.me/theorems/a5de89a7-90de-4e3f-885f-985bef85c2b9

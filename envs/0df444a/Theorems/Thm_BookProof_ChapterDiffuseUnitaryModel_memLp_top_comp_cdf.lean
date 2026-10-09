@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDiffuseUnitaryModel_memLp_top_comp_cdf
 -- name    : BookProof.ChapterDiffuseUnitaryModel.memLp_top_comp_cdf
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:56:34.552058+00:00
 -- url     : https://prove2.me/theorems/2d4dc7af-957d-42f6-b8da-8189fe78d197

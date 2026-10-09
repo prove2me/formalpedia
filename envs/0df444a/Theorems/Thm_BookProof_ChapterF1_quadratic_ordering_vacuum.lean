@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_quadratic_ordering_vacuum
 -- name    : BookProof.ChapterF1.quadratic_ordering_vacuum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:46:19.251207+00:00
 -- url     : https://prove2.me/theorems/588980f6-9e1c-423c-8257-405fff96f674

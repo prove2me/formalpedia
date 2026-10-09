@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_gaussDer_vecComb
 -- name    : BookProof.BookBrstYangMills.gaussDer_vecComb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:14:59.964792+00:00
 -- url     : https://prove2.me/theorems/d10e0591-0651-4148-840e-2b139aa581cd

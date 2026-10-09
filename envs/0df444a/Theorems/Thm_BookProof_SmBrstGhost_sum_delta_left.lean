@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_sum_delta_left
 -- name    : BookProof.SmBrstGhost.sum_delta_left
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:00:19.394436+00:00
 -- url     : https://prove2.me/theorems/207cdcc0-687c-4ab6-a784-b2640e45c4ee

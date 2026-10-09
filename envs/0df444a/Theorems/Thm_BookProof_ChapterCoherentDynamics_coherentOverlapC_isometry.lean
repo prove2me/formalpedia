@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_coherentOverlapC_isometry
 -- name    : BookProof.ChapterCoherentDynamics.coherentOverlapC_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:47:51.104985+00:00
 -- url     : https://prove2.me/theorems/ebfaa2b8-4507-4e22-ab07-27bcf23b76a7

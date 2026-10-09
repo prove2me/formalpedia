@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_polynomial_submodule_trailing_degrees_card
 -- name    : DiazModulus.polynomial_submodule_trailing_degrees_card
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:00.054272+00:00
 -- url     : https://prove2.me/theorems/f604634b-5bd4-409c-ae3b-680a1e0bf0d4

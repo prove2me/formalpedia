@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_coordFactor_coordCombo
 -- name    : BookProof.GaussCoordCombo.coordFactor_coordCombo
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:20:12.136459+00:00
 -- url     : https://prove2.me/theorems/7717c691-0156-4baf-8a28-db2061f6e781

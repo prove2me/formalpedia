@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_productANOVATensor_uniform_of_normalized
 -- name    : OAI.Erdos3.productANOVATensor_uniform_of_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:26:57.069981+00:00
 -- url     : https://prove2.me/theorems/2512366f-5829-4e83-841c-11bbc2ee7122

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockCoreFL_CoreData_gcSeq_ext_tendsto
 -- name    : BookProof.QgOuterFockCoreFL.CoreData.gcSeq_ext_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:28:25.419411+00:00
 -- url     : https://prove2.me/theorems/f8042d91-f08f-47c5-a2de-d8ac9c006d25

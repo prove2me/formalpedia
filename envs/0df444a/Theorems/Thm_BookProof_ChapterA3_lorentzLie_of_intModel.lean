@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_lorentzLie_of_intModel
 -- name    : BookProof.ChapterA3.lorentzLie_of_intModel
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:43:43.696982+00:00
 -- url     : https://prove2.me/theorems/38b053c7-5b44-4b79-906b-9db81bd9ea8a

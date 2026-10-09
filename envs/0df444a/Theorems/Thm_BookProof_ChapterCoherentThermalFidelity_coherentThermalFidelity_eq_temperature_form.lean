@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_coherentThermalFidelity_eq_temperature_form
 -- name    : BookProof.ChapterCoherentThermalFidelity.coherentThermalFidelity_eq_temperature_form
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:13:23.045097+00:00
 -- url     : https://prove2.me/theorems/a222d5f4-323d-43ff-a082-e64ebb1ddf02

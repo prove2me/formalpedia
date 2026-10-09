@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_sum_permMat_sq
 -- name    : BookProof.ChapterA3n.sum_permMat_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:09:17.185031+00:00
 -- url     : https://prove2.me/theorems/65c5a112-c88b-47b1-930d-9f96f1a3a400

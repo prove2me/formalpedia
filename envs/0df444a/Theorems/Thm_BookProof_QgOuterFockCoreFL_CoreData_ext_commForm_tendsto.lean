@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockCoreFL_CoreData_ext_commForm_tendsto
 -- name    : BookProof.QgOuterFockCoreFL.CoreData.ext_commForm_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:55:10.897165+00:00
 -- url     : https://prove2.me/theorems/010a2124-6875-4b87-8223-2549f57f6bb4

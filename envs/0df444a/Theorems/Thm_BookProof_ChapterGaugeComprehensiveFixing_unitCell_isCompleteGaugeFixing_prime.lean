@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_unitCell_isCompleteGaugeFixing_prime
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.unitCell_isCompleteGaugeFixing_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:02.854002+00:00
 -- url     : https://prove2.me/theorems/0ea484d5-452e-47ee-b268-0f7901455ad4

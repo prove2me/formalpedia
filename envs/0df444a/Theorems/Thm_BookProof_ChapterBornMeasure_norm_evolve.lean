@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBornMeasure_norm_evolve
 -- name    : BookProof.ChapterBornMeasure.norm_evolve
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:29:50.010733+00:00
 -- url     : https://prove2.me/theorems/e0b9900e-37c3-43f2-b56b-3b659e981d82

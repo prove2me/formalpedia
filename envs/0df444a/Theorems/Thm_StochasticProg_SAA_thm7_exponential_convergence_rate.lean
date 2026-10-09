@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticProg_SAA_thm7_exponential_convergence_rate
 -- name    : StochasticProg.SAA.thm7_exponential_convergence_rate
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-09-19T20:14:38.882975+00:00
 -- url     : https://prove2.me/theorems/9577aeb9-c00e-4b87-99ad-5d3e6fb07f27

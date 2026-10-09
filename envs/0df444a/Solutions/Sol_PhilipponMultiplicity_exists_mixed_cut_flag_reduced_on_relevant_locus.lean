@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_mixed_cut_flag_reduced_on_relevant_locus
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-01T17:03:03.5707+00:00
 -- url     : https://prove2.me/submissions/d870f94b-a39d-42c0-a663-e2e4b3e9c4f3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_with_coordinate_local_conditions
 import Theorems.Thm_PhilipponMultiplicity_SectionThreeSupport_PrimaryDecomposition_associatedPrimes_eq

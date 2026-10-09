@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_diagGen_eigenstate
 -- name    : BookProof.ChapterF3.diagGen_eigenstate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:16.907769+00:00
 -- url     : https://prove2.me/theorems/24bd50fb-df7b-4a52-96e3-67c7ef9dacb1

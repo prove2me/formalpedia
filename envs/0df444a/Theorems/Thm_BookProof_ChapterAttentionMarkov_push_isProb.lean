@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_push_isProb
 -- name    : BookProof.ChapterAttentionMarkov.push_isProb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:27:52.031976+00:00
 -- url     : https://prove2.me/theorems/f12e8376-80ef-499a-abc5-a85777cab241

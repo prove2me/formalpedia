@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_mixed_cut_flag_with_regular_local_final_quotients
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-04T18:08:15.238913+00:00
 -- url     : https://prove2.me/submissions/1252746a-f450-457c-95d2-c0345c9a507c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_associated_prime_avoiding_smooth_mixed_cut_flag
 import Definitions.Def_P2M_Util

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonlinSSD_Discrete_theorem_6_finite_optimality
 -- name    : NonlinSSD.Discrete.theorem_6_finite_optimality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:03:30.788306+00:00
 -- url     : https://prove2.me/theorems/6ef84f0e-805a-47de-b5da-6da83cc5d26b

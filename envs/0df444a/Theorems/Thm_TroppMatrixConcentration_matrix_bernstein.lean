@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_matrix_bernstein
 -- name    : TroppMatrixConcentration.matrix_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:52:16.236065+00:00
 -- url     : https://prove2.me/theorems/25e4ce67-33ae-48fd-9e24-bce932a53511

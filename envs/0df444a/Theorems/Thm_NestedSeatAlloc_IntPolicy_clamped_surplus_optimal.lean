@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_clamped_surplus_optimal
 -- name    : NestedSeatAlloc.IntPolicy.clamped_surplus_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T12:07:16.468348+00:00
 -- url     : https://prove2.me/theorems/0523c9b6-35ef-4852-84f7-6b53882da0fc

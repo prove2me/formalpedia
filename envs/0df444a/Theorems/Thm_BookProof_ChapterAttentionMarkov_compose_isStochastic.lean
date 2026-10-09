@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_compose_isStochastic
 -- name    : BookProof.ChapterAttentionMarkov.compose_isStochastic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:29:29.356354+00:00
 -- url     : https://prove2.me/theorems/56866057-f9cd-4a49-a1dd-db961f0b20af

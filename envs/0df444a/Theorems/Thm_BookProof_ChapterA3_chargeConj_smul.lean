@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_chargeConj_smul
 -- name    : BookProof.ChapterA3.chargeConj_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:42:32.239493+00:00
 -- url     : https://prove2.me/theorems/8650a3a7-515f-42c1-bbc2-2def52e1a3a5

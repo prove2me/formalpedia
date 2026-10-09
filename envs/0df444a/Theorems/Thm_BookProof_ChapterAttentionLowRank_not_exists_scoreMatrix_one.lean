@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionLowRank_not_exists_scoreMatrix_one
 -- name    : BookProof.ChapterAttentionLowRank.not_exists_scoreMatrix_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:27:00.832323+00:00
 -- url     : https://prove2.me/theorems/6c26706c-caa9-49ea-9cda-54e1f4a4c9a2

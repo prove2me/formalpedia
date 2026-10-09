@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_norm_flow_apply
 -- name    : BookProof.BrstLeakage.norm_flow_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:30:08.103348+00:00
 -- url     : https://prove2.me/theorems/e8eb3025-0f47-4581-8eeb-0a19918ea4ea

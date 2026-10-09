@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_Kin_conjTranspose
 -- name    : BookProof.ChapterCPTHamiltonian.Kin_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:24:09.065977+00:00
 -- url     : https://prove2.me/theorems/92a85d6d-f9b7-46a8-a7b9-e1dfe5fa3ba1

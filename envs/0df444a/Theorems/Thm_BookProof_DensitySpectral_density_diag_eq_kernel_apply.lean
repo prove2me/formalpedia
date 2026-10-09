@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_density_diag_eq_kernel_apply
 -- name    : BookProof.DensitySpectral.density_diag_eq_kernel_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:56:26.826983+00:00
 -- url     : https://prove2.me/theorems/5f6477d9-08d4-47ee-b3b1-6140e8a381c1

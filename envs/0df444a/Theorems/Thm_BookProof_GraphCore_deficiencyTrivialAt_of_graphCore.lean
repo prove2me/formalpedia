@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_deficiencyTrivialAt_of_graphCore
 -- name    : BookProof.GraphCore.deficiencyTrivialAt_of_graphCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:56:26.400763+00:00
 -- url     : https://prove2.me/theorems/7ef8a854-d66b-4320-bb9d-4ef75edd7740

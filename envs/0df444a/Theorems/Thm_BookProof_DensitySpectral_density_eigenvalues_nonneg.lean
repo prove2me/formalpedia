@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_density_eigenvalues_nonneg
 -- name    : BookProof.DensitySpectral.density_eigenvalues_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:55:37.876996+00:00
 -- url     : https://prove2.me/theorems/fd657a1e-47e9-4832-93d0-558dadad55db

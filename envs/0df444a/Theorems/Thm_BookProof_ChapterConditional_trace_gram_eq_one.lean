@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_trace_gram_eq_one
 -- name    : BookProof.ChapterConditional.trace_gram_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:21:22.168901+00:00
 -- url     : https://prove2.me/theorems/6644611c-aa89-4971-8ad4-b9abc65dab5d

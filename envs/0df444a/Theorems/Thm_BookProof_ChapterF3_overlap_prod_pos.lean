@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_overlap_prod_pos
 -- name    : BookProof.ChapterF3.overlap_prod_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:12.164595+00:00
 -- url     : https://prove2.me/theorems/f0b7ffc1-87ec-49f2-93e2-84484d96fd08

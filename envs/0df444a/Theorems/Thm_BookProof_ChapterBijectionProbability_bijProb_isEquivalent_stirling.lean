@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBijectionProbability_bijProb_isEquivalent_stirling
 -- name    : BookProof.ChapterBijectionProbability.bijProb_isEquivalent_stirling
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:56:36.567056+00:00
 -- url     : https://prove2.me/theorems/cf5956b4-b573-4bc3-b99f-db088889f732

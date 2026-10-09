@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBoseEinstein_boseEinstein_mean
 -- name    : BookProof.ChapterBoseEinstein.boseEinstein_mean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:06:38.889987+00:00
 -- url     : https://prove2.me/theorems/a32d91e3-bf35-4f3a-8a27-39ebc30d2a47

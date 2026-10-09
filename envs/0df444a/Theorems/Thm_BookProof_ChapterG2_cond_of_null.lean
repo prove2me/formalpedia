@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_cond_of_null
 -- name    : BookProof.ChapterG2.cond_of_null
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:49:23.869206+00:00
 -- url     : https://prove2.me/theorems/8bb165fe-3408-45c2-924e-f5eddf82c9ee

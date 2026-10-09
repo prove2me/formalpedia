@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCompactCompleteReducibility_continuous_conjOp
 -- name    : BookProof.ChapterCompactCompleteReducibility.continuous_conjOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:15:25.073208+00:00
 -- url     : https://prove2.me/theorems/e0cf069d-8341-49a1-bc97-6a876cb183cf

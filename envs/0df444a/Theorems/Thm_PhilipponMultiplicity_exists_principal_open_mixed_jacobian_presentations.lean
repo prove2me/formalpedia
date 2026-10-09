@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_principal_open_mixed_jacobian_presentations
 -- name    : PhilipponMultiplicity.exists_principal_open_mixed_jacobian_presentations
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-05T21:30:17.98126+00:00
 -- url     : https://prove2.me/theorems/f4809fcb-0a9b-4823-b61a-1b63c83afec1

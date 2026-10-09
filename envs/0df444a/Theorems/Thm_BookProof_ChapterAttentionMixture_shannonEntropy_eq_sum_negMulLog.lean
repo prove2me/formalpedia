@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_shannonEntropy_eq_sum_negMulLog
 -- name    : BookProof.ChapterAttentionMixture.shannonEntropy_eq_sum_negMulLog
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:24.171388+00:00
 -- url     : https://prove2.me/theorems/ce265010-70d7-4099-bde4-a5bce4516e44

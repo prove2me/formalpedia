@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_symplectic_self
 -- name    : BookProof.Bosonic.symplectic_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:07:58.723982+00:00
 -- url     : https://prove2.me/theorems/aed507f6-0224-41bd-85e9-fa0e64d2cc13

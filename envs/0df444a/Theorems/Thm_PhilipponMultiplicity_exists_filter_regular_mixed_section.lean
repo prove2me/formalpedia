@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_filter_regular_mixed_section
 -- name    : PhilipponMultiplicity.exists_filter_regular_mixed_section
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T14:00:30.21014+00:00
 -- url     : https://prove2.me/theorems/9cb97862-bbc3-49d4-bd20-d0aa77d62e44

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_reduced_mixed_section_with_primary_avoidance
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-01T16:40:05.099643+00:00
 -- url     : https://prove2.me/submissions/46303691-1f7e-4d9c-b3ed-123107064f21
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_reduced_on_relevant_locus
 import Mathlib.RingTheory.Nullstellensatz

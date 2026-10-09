@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_mixture_isProb
 -- name    : BookProof.ChapterAttentionMixture.mixture_isProb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:18.433013+00:00
 -- url     : https://prove2.me/theorems/4bcceb1b-39a3-4482-9115-dc9f48f8b857

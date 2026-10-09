@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_Rationalized_theorem_5_1
 -- name    : DimCallCenters.Rationalized.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:35:00.136965+00:00
 -- url     : https://prove2.me/theorems/2c3a1a7c-8625-4293-84f4-ef5947288842

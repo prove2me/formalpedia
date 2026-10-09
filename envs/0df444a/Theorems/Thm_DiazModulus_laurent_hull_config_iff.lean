@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_laurent_hull_config_iff
 -- name    : DiazModulus.laurent_hull_config_iff
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:09:55.929995+00:00
 -- url     : https://prove2.me/theorems/183b9e0a-8947-48a2-bff4-40106fca6b4b

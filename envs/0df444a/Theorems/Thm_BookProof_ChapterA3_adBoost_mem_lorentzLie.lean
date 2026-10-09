@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_adBoost_mem_lorentzLie
 -- name    : BookProof.ChapterA3.adBoost_mem_lorentzLie
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:44:38.873987+00:00
 -- url     : https://prove2.me/theorems/a955e6c7-63c4-414a-adac-e9bee207a7d1

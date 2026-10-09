@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_causal_inequality_violation
 -- name    : OCB2012.causal_inequality_violation
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:12:59.705313+00:00
 -- url     : https://prove2.me/theorems/88ae417e-6638-4765-88b5-ee8b734292a4

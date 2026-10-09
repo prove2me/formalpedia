@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_bandPart_of_mem
 -- name    : BookProof.EnergyBandDecomposition.bandPart_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:42.229783+00:00
 -- url     : https://prove2.me/theorems/0d686d93-0e9f-4a33-9c32-85e8b146eb04

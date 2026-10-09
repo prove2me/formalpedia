@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pJoint_eq_cond_mul_marg
 -- name    : BookProof.ChapterConditional.pJoint_eq_cond_mul_marg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:23:10.134173+00:00
 -- url     : https://prove2.me/theorems/ffaa60ff-7309-41c8-8fb8-33664bd92111

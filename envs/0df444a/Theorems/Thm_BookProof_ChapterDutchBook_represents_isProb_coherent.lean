@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_represents_isProb_coherent
 -- name    : BookProof.ChapterDutchBook.represents_isProb_coherent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:08:03.563896+00:00
 -- url     : https://prove2.me/theorems/114b262c-2374-4ccb-a89a-b45f251c47ae

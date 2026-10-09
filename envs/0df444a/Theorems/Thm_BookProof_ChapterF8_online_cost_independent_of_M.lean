@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF8_online_cost_independent_of_M
 -- name    : BookProof.ChapterF8.online_cost_independent_of_M
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:09:01.193579+00:00
 -- url     : https://prove2.me/theorems/caa5a00e-da6f-47c9-8c38-ef697451e60b

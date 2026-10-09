@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_flow_mem_of_proj
 -- name    : BookProof.BrstUnboundedLeakage.flow_mem_of_proj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:19:45.812282+00:00
 -- url     : https://prove2.me/theorems/0991533b-d661-417d-8262-6f692963e2e5

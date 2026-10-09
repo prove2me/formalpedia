@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_opGraph_clExt
 -- name    : BookProof.ClosureUniqueness.opGraph_clExt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:37:45.504442+00:00
 -- url     : https://prove2.me/theorems/fe88c402-fa6d-4595-a256-55fcc5b20d25

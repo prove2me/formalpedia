@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_nonneg
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:53:28.514359+00:00
 -- url     : https://prove2.me/theorems/b1dc539d-2ddf-4278-887c-b6d35c8a7fbc

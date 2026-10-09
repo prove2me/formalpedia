@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_finite_affine_mixed_neighborhoods
 -- name    : PhilipponMultiplicity.exists_open_preserving_finite_affine_mixed_neighborhoods
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-07T13:34:15.332499+00:00
 -- url     : https://prove2.me/theorems/2eac4ece-8a33-49bc-afda-520b38f3f704

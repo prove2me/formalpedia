@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_no_gauge_invariant_point
 -- name    : BookProof.ChapterGaugeIncompleteFixing.no_gauge_invariant_point
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:12:03.263883+00:00
 -- url     : https://prove2.me/theorems/955282f7-7b63-463c-ac7f-8a92d1c04a24

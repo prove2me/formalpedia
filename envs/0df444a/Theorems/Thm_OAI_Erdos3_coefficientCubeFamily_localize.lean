@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_coefficientCubeFamily_localize
 -- name    : OAI.Erdos3.coefficientCubeFamily_localize
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:06:00.961978+00:00
 -- url     : https://prove2.me/theorems/2a30fac1-71bc-49a1-aeb0-ed23cf7ce7b0

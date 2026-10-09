@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_permMat_uniform_comm
 -- name    : BookProof.ChapterA3n.permMat_uniform_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:07:59.068054+00:00
 -- url     : https://prove2.me/theorems/eda80b72-d6b6-416e-af4a-05958a52ff8c

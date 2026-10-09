@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_ccr_symplectic_invariant
 -- name    : BookProof.Bosonic.ccr_symplectic_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:12:14.19698+00:00
 -- url     : https://prove2.me/theorems/1af3f11f-76bc-4c4d-a624-1df29c0c125a

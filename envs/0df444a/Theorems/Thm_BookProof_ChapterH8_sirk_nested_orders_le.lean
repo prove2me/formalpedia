@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_sirk_nested_orders_le
 -- name    : BookProof.ChapterH8.sirk_nested_orders_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:07:13.204718+00:00
 -- url     : https://prove2.me/theorems/4a129f5d-b043-46e9-a5f7-31ab9f541183

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_spuriousSection_isCompleteGaugeFixing_prime
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.spuriousSection_isCompleteGaugeFixing_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:10:12.575056+00:00
 -- url     : https://prove2.me/theorems/feb0e6e4-192f-4140-8298-3a31100d088f

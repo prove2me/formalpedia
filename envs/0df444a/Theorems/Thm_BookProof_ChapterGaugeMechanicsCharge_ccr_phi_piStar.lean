@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_ccr_phi_piStar
 -- name    : BookProof.ChapterGaugeMechanicsCharge.ccr_phi_piStar
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:13:58.197934+00:00
 -- url     : https://prove2.me/theorems/a46fab0a-e312-4a19-82fc-8a02abec6577

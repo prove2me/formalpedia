@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_mass_conditioned_on_divisor
 -- name    : ArtinPrimitiveRoots.mass_conditioned_on_divisor
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:27:23.222458+00:00
 -- url     : https://prove2.me/theorems/7dc37e74-ae42-4da6-a549-d5acffae454e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_displacedThermal_mean
 -- name    : BookProof.ChapterDisplacedThermalOverlap.displacedThermal_mean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:09.688132+00:00
 -- url     : https://prove2.me/theorems/cc1db5e7-9124-4957-8e97-6408686b94b2

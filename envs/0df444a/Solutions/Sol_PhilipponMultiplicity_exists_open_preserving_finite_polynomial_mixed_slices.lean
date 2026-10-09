@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_open_preserving_finite_polynomial_mixed_slices
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-07T16:28:43.018731+00:00
 -- url     : https://prove2.me/submissions/090e405b-a3a7-4703-8e48-78ebe810d5f6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_quasifinite_mixed_slices
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

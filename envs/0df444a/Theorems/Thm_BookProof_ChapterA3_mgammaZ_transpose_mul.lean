@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgammaZ_transpose_mul
 -- name    : BookProof.ChapterA3.mgammaZ_transpose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:37:31.810121+00:00
 -- url     : https://prove2.me/theorems/f80cbf0e-fa9b-4d28-a15b-01f3f66453b4

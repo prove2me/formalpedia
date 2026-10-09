@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_csketch_add
 -- name    : BookProof.ChapterF4.csketch_add
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:27.071781+00:00
 -- url     : https://prove2.me/theorems/7a36d1be-dde6-4dde-ab74-bc237886c4e2

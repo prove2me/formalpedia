@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma5_anticomm
 -- name    : BookProof.ChapterA3.mgamma5_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:46:38.460083+00:00
 -- url     : https://prove2.me/theorems/a25da6b0-9f2c-4af8-b28a-9040b3cba494

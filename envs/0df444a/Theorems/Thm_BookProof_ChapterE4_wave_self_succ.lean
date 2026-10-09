@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE4_wave_self_succ
 -- name    : BookProof.ChapterE4.wave_self_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:13:54.389203+00:00
 -- url     : https://prove2.me/theorems/19b9682f-d216-4dd5-9b12-ac3a2bf5ffd7

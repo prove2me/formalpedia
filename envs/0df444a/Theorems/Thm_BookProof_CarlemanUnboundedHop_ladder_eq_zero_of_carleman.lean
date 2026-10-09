@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_ladder_eq_zero_of_carleman
 -- name    : BookProof.CarlemanUnboundedHop.ladder_eq_zero_of_carleman
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:34:31.46325+00:00
 -- url     : https://prove2.me/theorems/e517cd01-858a-4c47-9217-d161dbce7bde

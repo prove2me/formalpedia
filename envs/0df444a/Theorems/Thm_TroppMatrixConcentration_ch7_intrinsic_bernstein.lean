@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch7_intrinsic_bernstein
 -- name    : TroppMatrixConcentration.ch7_intrinsic_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:53:31.23006+00:00
 -- url     : https://prove2.me/theorems/af77a148-c124-49e3-b3cf-5df6024f4602

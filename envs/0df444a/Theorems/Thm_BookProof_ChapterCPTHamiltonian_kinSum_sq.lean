@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_kinSum_sq
 -- name    : BookProof.ChapterCPTHamiltonian.kinSum_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:31:12.034676+00:00
 -- url     : https://prove2.me/theorems/83fb9db3-dad4-4bca-93f0-d2e43f552f4e

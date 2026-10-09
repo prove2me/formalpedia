@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_summable_cutMass
 -- name    : BookProof.CarlemanUnboundedHop.summable_cutMass
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:34:22.066064+00:00
 -- url     : https://prove2.me/theorems/226c6bda-4c72-4903-a73b-4b83515e10fe

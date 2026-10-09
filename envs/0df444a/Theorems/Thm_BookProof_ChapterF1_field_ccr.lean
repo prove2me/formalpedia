@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_field_ccr
 -- name    : BookProof.ChapterF1.field_ccr
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:44:31.49075+00:00
 -- url     : https://prove2.me/theorems/f4b9e340-2cc3-4ed7-b4f6-1c1f5077c057

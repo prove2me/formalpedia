@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_bilC_minkowski
 -- name    : BookProof.ChapterA3.bilC_minkowski
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:53:03.48+00:00
 -- url     : https://prove2.me/theorems/a2cae159-9061-4421-a92e-94d4e45d3cb9

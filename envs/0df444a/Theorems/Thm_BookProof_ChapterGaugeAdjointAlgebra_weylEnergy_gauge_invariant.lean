@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_weylEnergy_gauge_invariant
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.weylEnergy_gauge_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:52:56.810153+00:00
 -- url     : https://prove2.me/theorems/e8772a5b-057f-4fba-ac5f-0d07d4540888

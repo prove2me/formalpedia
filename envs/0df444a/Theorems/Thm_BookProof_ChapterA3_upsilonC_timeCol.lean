@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilonC_timeCol
 -- name    : BookProof.ChapterA3.upsilonC_timeCol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:09:51.705367+00:00
 -- url     : https://prove2.me/theorems/15f73f4a-ca69-466e-a74b-8660669f3ca9

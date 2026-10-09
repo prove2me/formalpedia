@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_sqSumOp_eq_fqOp
 -- name    : BookProof.QgOuterFock.sqSumOp_eq_fqOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:55:52.482132+00:00
 -- url     : https://prove2.me/theorems/0a46c5c8-9550-4014-8e9e-b4db4cd6edf0

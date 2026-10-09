@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_joint_sum_one
 -- name    : BookProof.ChapterBayesInference.joint_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:52:47.703873+00:00
 -- url     : https://prove2.me/theorems/50977112-2490-4ea2-9602-273543890a27

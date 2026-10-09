@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_bornWeightC_evolution_const
 -- name    : BookProof.ChapterCoherentDynamics.bornWeightC_evolution_const
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:49:22.389757+00:00
 -- url     : https://prove2.me/theorems/3f0f4774-0dec-42bc-b983-e134917aded8

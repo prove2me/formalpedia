@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentGeometry_bornNumer_eq_exp_neg_dist_sq
 -- name    : BookProof.ChapterCoherentGeometry.bornNumer_eq_exp_neg_dist_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:52:23.025576+00:00
 -- url     : https://prove2.me/theorems/f2edecbb-4ec0-4b52-a039-4054fcec7502

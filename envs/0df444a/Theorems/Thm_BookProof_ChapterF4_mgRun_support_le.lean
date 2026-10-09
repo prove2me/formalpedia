@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_mgRun_support_le
 -- name    : BookProof.ChapterF4.mgRun_support_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:51:34.651577+00:00
 -- url     : https://prove2.me/theorems/8c5a24f1-8a24-4644-90f4-df66f3cacbe2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_symmetricOn_restrictOp
 -- name    : BookProof.GraphCore.symmetricOn_restrictOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:56:29.921079+00:00
 -- url     : https://prove2.me/theorems/5dbaa9bf-f7e9-4775-a1fd-31b8e64cd2d3

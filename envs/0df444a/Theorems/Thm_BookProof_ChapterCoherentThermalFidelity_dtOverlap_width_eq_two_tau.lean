@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_dtOverlap_width_eq_two_tau
 -- name    : BookProof.ChapterCoherentThermalFidelity.dtOverlap_width_eq_two_tau
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:14:13.63291+00:00
 -- url     : https://prove2.me/theorems/c079c44c-19ea-4752-b404-27cf729926fb

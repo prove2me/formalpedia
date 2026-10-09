@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_ghost_car
 -- name    : BookProof.ChapterG.ghost_car
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:26:26.271763+00:00
 -- url     : https://prove2.me/theorems/6b3f1f10-1f39-4dbb-a20d-2aeae71b69a6

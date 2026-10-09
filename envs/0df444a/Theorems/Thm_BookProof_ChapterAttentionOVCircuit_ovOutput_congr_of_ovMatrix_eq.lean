@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOVCircuit_ovOutput_congr_of_ovMatrix_eq
 -- name    : BookProof.ChapterAttentionOVCircuit.ovOutput_congr_of_ovMatrix_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:33:35.747987+00:00
 -- url     : https://prove2.me/theorems/a23e7cf7-45b9-4b77-be86-d0f8546ff2c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstReducedTransfer_exactStates_le_physicalStates
 -- name    : BookProof.BrstReducedTransfer.exactStates_le_physicalStates
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:10:05.260094+00:00
 -- url     : https://prove2.me/theorems/af2027b0-349d-48cc-b5db-e98aecb3a11c

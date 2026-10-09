@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_isolated_mixed_linear_section_bound
 -- name    : PhilipponMultiplicity.isolated_mixed_linear_section_bound
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T13:19:58.044992+00:00
 -- url     : https://prove2.me/theorems/e89193b3-ac48-4227-b11f-598b761ffed3

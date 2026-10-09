@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDoubleSlit_slit_open_state
 -- name    : BookProof.ChapterDoubleSlit.slit_open_state
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:07:39.934373+00:00
 -- url     : https://prove2.me/theorems/3926f2c5-4287-4c29-a030-dcf2fac7a476

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_circle_point_config_constant_matrix_det_ne_zero
 -- name    : DiazModulus.circle_point_config_constant_matrix_det_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:53.554559+00:00
 -- url     : https://prove2.me/theorems/51102291-6ce5-46ee-babb-35310b185431

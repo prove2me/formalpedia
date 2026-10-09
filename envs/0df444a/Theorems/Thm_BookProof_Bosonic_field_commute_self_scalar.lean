@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_field_commute_self_scalar
 -- name    : BookProof.Bosonic.field_commute_self_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:08:25.175993+00:00
 -- url     : https://prove2.me/theorems/7483a969-0b7e-426c-9b27-982ec154e55a

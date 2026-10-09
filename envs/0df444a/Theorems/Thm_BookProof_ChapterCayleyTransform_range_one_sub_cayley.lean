@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyTransform_range_one_sub_cayley
 -- name    : BookProof.ChapterCayleyTransform.range_one_sub_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:36:51.769983+00:00
 -- url     : https://prove2.me/theorems/5560fcc1-8a1f-4c3d-8253-eaffb1d8a5a1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_observable_matrix_entry
 -- name    : BookProof.ChapterF4.observable_matrix_entry
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:50:52.42615+00:00
 -- url     : https://prove2.me/theorems/8a3bffa0-4ae3-41bc-aa85-33852250ad4c

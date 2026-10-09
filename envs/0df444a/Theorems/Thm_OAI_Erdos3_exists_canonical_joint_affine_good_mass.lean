@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_exists_canonical_joint_affine_good_mass
 -- name    : OAI.Erdos3.exists_canonical_joint_affine_good_mass
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:09:56.414148+00:00
 -- url     : https://prove2.me/theorems/6d6820cf-31c2-4fb9-930c-c86655398402

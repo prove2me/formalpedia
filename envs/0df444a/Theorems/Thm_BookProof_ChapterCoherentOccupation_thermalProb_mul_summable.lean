@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_thermalProb_mul_summable
 -- name    : BookProof.ChapterCoherentOccupation.thermalProb_mul_summable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:55:35.364151+00:00
 -- url     : https://prove2.me/theorems/0d350dea-6bd7-4c94-b5ee-25b89b98b679

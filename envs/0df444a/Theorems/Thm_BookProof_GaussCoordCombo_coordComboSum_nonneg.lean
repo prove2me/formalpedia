@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_coordComboSum_nonneg
 -- name    : BookProof.GaussCoordCombo.coordComboSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:19:42.917563+00:00
 -- url     : https://prove2.me/theorems/f7b8d14b-a2b8-40f6-a62d-c22f985e34a2

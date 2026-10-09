@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_signRep_isNotUnconstrained
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.signRep_isNotUnconstrained
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:16:38.624486+00:00
 -- url     : https://prove2.me/theorems/8d52c6a6-9836-4ebc-b8d4-0afc7b515ad4

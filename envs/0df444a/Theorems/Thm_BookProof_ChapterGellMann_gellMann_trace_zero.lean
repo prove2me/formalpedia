@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGellMann_gellMann_trace_zero
 -- name    : BookProof.ChapterGellMann.gellMann_trace_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:21:00.604162+00:00
 -- url     : https://prove2.me/theorems/1bf48fae-08e0-47dd-86cb-4308ed634ce1

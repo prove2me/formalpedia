@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_smul_l2Symmetric
 -- name    : BookProof.ChapterF7.smul_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:06:51.329597+00:00
 -- url     : https://prove2.me/theorems/eb4867e4-b02c-4852-a051-1c8690f9716a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_inner_adjVar_self_eq_zero
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.inner_adjVar_self_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:52:49.350667+00:00
 -- url     : https://prove2.me/theorems/12a8d09d-2bdf-4dda-a0a2-2ab399034b69

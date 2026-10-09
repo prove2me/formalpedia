@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_deformedHamiltonian_monomial
 -- name    : BookProof.ChapterF2.deformedHamiltonian_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:47:08.242503+00:00
 -- url     : https://prove2.me/theorems/bbf775e3-ddc1-416d-b666-b420168526c5

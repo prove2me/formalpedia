@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_flow_mem_ker_omega
 -- name    : BookProof.BrstLeakage.flow_mem_ker_omega
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:12:43.052013+00:00
 -- url     : https://prove2.me/theorems/42f90646-2a02-4682-9388-9f10cbd150f1

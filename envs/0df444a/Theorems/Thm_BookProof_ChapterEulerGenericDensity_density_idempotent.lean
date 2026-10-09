@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_density_idempotent
 -- name    : BookProof.ChapterEulerGenericDensity.density_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:30:47.920076+00:00
 -- url     : https://prove2.me/theorems/bae0fbe2-50e9-48d4-89e1-a75424082eb9

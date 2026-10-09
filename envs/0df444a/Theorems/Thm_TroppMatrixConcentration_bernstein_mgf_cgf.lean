@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_bernstein_mgf_cgf
 -- name    : TroppMatrixConcentration.bernstein_mgf_cgf
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:51:38.988154+00:00
 -- url     : https://prove2.me/theorems/1b02a905-fe3f-4f08-a6e4-56825b46fa2c

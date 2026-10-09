@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBoseEinstein_boseEinstein_strictAntiOn
 -- name    : BookProof.ChapterBoseEinstein.boseEinstein_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:06:46.537402+00:00
 -- url     : https://prove2.me/theorems/1aa96462-ce79-4489-9e55-948839139e7a

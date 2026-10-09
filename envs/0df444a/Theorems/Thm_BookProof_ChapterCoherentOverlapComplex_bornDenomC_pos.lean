@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_bornDenomC_pos
 -- name    : BookProof.ChapterCoherentOverlapComplex.bornDenomC_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:02:15.888781+00:00
 -- url     : https://prove2.me/theorems/ca8a69f1-763c-4184-b248-071bc6ebb685

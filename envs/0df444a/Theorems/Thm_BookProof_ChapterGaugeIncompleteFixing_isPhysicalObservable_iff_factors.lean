@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_isPhysicalObservable_iff_factors
 -- name    : BookProof.ChapterGaugeIncompleteFixing.isPhysicalObservable_iff_factors
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:12:32.994877+00:00
 -- url     : https://prove2.me/theorems/c0047367-492a-4c95-9655-b4afaf3d83ec

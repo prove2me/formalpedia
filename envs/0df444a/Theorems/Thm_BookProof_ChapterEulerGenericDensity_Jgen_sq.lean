@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_Jgen_sq
 -- name    : BookProof.ChapterEulerGenericDensity.Jgen_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:29:38.22217+00:00
 -- url     : https://prove2.me/theorems/cf7ade28-ca25-4ffc-b58d-d9f256a9b9ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilonC_nullCol
 -- name    : BookProof.ChapterA3.upsilonC_nullCol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:10:49.398096+00:00
 -- url     : https://prove2.me/theorems/a5e72c55-cb14-4c0b-ae30-1418d8d2edcd

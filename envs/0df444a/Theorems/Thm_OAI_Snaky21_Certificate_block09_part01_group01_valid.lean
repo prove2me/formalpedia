@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Snaky21_Certificate_block09_part01_group01_valid
 -- name    : OAI.Snaky21.Certificate.block09_part01_group01_valid
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-08T13:26:04.546765+00:00
 -- url     : https://prove2.me/theorems/b4db447a-a826-4c39-9409-9dbf01de6a57

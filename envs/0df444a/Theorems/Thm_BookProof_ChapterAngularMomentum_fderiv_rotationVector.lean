@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAngularMomentum_fderiv_rotationVector
 -- name    : BookProof.ChapterAngularMomentum.fderiv_rotationVector
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:19:00.66166+00:00
 -- url     : https://prove2.me/theorems/586ded9f-4b93-4016-86b1-fd365b38ccf6

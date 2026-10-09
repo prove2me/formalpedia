@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOVCircuit_ovOutput_eq_headOutput
 -- name    : BookProof.ChapterAttentionOVCircuit.ovOutput_eq_headOutput
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:32:56.534635+00:00
 -- url     : https://prove2.me/theorems/169b91d0-96c7-436e-83c5-c18e823726b6

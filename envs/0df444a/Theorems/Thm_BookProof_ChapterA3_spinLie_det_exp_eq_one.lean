@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_spinLie_det_exp_eq_one
 -- name    : BookProof.ChapterA3.spinLie_det_exp_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:48:12.631983+00:00
 -- url     : https://prove2.me/theorems/e1b32870-4a30-4267-a0b6-f3d2addb89e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_bornWeightC_sum_one
 -- name    : BookProof.ChapterCoherentOverlapComplex.bornWeightC_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:02:26.928576+00:00
 -- url     : https://prove2.me/theorems/333e4b55-ceea-444e-8666-69ddec34af03

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGellMann_gellMann_trace_orthonormal
 -- name    : BookProof.ChapterGellMann.gellMann_trace_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:21:01.495456+00:00
 -- url     : https://prove2.me/theorems/21d6cf19-c9e2-4ceb-af24-5749ea6ce4f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBijectionProbability_factorial_succ_le
 -- name    : BookProof.ChapterBijectionProbability.factorial_succ_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:55:45.675384+00:00
 -- url     : https://prove2.me/theorems/dec41892-e6d5-45a4-8046-b8224a73270d

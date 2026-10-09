@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionQKCircuit_headOutput_qkScore_congr
 -- name    : BookProof.ChapterAttentionQKCircuit.headOutput_qkScore_congr
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:43:05.950958+00:00
 -- url     : https://prove2.me/theorems/e4d7585d-c53d-492d-a697-12c7d381e942

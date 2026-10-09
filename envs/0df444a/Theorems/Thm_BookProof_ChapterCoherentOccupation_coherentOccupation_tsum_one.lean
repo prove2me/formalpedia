@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_tsum_one
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_tsum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:53:31.102205+00:00
 -- url     : https://prove2.me/theorems/a5208f5c-2563-4060-bb06-084ec2b36d57

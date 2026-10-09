@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityMetric_reverse_cauchy_schwarz
 -- name    : BookProof.ChapterGravityMetric.reverse_cauchy_schwarz
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:59:58.352854+00:00
 -- url     : https://prove2.me/theorems/c621e199-a15f-48b4-b8d7-f472a0142ec2

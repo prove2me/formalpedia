@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGammaCommutant_gamma_intertwiner_unique
 -- name    : BookProof.ChapterGammaCommutant.gamma_intertwiner_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:51:55.21054+00:00
 -- url     : https://prove2.me/theorems/357f4869-a64d-4ee6-81d1-5c6eada252ba

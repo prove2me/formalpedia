@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBoseEinstein_thermalTemperature_boseEinstein_eq_coth
 -- name    : BookProof.ChapterBoseEinstein.thermalTemperature_boseEinstein_eq_coth
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:07:28.084988+00:00
 -- url     : https://prove2.me/theorems/a05fb40c-b1e7-4b55-8834-f54aaa3b2cd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerStochastic_uniform_to_vertex_singular
 -- name    : BookProof.ChapterEulerStochastic.uniform_to_vertex_singular
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:44:22.343791+00:00
 -- url     : https://prove2.me/theorems/911f1c81-2e31-4edc-a0c1-c97a2ba4b3c3

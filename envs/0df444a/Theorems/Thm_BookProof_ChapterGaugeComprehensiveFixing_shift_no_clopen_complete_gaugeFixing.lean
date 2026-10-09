@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_shift_no_clopen_complete_gaugeFixing
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.shift_no_clopen_complete_gaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:17.783109+00:00
 -- url     : https://prove2.me/theorems/66e7e3c9-0336-4a2d-a7e7-10e51cee9310

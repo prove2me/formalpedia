@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxPressure_FluidStab_maximum_pressure_fluid_model_stable
 -- name    : MaxPressure.FluidStab.maximum_pressure_fluid_model_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:55:13.109529+00:00
 -- url     : https://prove2.me/theorems/9819ec35-783c-4424-9eee-da5566c9d311

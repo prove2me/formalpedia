@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_remnant_faithful
 -- name    : BookProof.ChapterGaugeIncompleteFixing.remnant_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:56.27298+00:00
 -- url     : https://prove2.me/theorems/0a43f84b-9da3-431c-8055-0031fb9e748c

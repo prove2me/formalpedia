@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_fidelityC_eq_exp_neg_dist_sq
 -- name    : BookProof.ChapterCoherentFidelity.fidelityC_eq_exp_neg_dist_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:49:57.570205+00:00
 -- url     : https://prove2.me/theorems/f2923088-3992-4bad-bdc1-6532b7b3ace3

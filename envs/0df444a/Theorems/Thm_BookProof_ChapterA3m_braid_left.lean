@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3m_braid_left
 -- name    : BookProof.ChapterA3m.braid_left
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:06:07.696659+00:00
 -- url     : https://prove2.me/theorems/4609de97-038f-417e-85a2-0e38219208d2

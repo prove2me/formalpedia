@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_diagOp_injective
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.diagOp_injective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:16:35.161755+00:00
 -- url     : https://prove2.me/theorems/c4329a4a-1480-4f4c-8dfe-21e68b9ae2b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_bornWeightC_eq_scoreSoftmax_neg_dist_sq
 -- name    : BookProof.ChapterCoherentFidelity.bornWeightC_eq_scoreSoftmax_neg_dist_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:51:22.056746+00:00
 -- url     : https://prove2.me/theorems/97c23525-55a6-4b49-a748-5b3a18c98dee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Algebraic_harmonic_oscillator
 -- name    : TeschlQM.Algebraic.harmonic_oscillator
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T03:01:01.460486+00:00
 -- url     : https://prove2.me/theorems/6703d2e6-918a-402c-a50f-8c3fdc7827b9

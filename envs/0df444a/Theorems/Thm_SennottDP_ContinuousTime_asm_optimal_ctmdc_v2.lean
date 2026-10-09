@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ContinuousTime_asm_optimal_ctmdc_v2
 -- name    : SennottDP.ContinuousTime.asm_optimal_ctmdc_v2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:09:07.978639+00:00
 -- url     : https://prove2.me/theorems/1ebebaa0-ef17-4c24-967c-8ce96e142fa0

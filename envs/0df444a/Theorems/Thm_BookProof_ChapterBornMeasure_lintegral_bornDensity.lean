@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBornMeasure_lintegral_bornDensity
 -- name    : BookProof.ChapterBornMeasure.lintegral_bornDensity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:57:01.275451+00:00
 -- url     : https://prove2.me/theorems/2591c5e7-f9a8-4efc-8d02-8a945e807e51

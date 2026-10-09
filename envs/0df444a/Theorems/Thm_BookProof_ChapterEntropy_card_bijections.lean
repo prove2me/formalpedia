@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropy_card_bijections
 -- name    : BookProof.ChapterEntropy.card_bijections
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:47:22.573858+00:00
 -- url     : https://prove2.me/theorems/ca755e95-0760-4e64-af17-e6e1d05007ef

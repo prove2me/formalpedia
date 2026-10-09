@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_toC_minkowski_symm
 -- name    : BookProof.ChapterA3.toC_minkowski_symm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:53:23.337982+00:00
 -- url     : https://prove2.me/theorems/a5ee4a34-a0b7-4d1f-9209-8ea9b099351c

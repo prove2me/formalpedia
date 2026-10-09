@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SethiChengSS_Finite_theorem_4_1
 -- name    : SethiChengSS.Finite.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:29:02.786124+00:00
 -- url     : https://prove2.me/theorems/b98d97c8-d258-48bd-8456-d98ce164e69b

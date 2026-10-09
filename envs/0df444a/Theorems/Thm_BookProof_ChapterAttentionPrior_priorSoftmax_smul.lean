@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionPrior_priorSoftmax_smul
 -- name    : BookProof.ChapterAttentionPrior.priorSoftmax_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:40:06.418157+00:00
 -- url     : https://prove2.me/theorems/bbc79d8b-a532-4744-aaff-8c65c85f3b84

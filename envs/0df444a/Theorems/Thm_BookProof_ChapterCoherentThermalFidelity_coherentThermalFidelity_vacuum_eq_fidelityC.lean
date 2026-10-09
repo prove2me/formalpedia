@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_coherentThermalFidelity_vacuum_eq_fidelityC
 -- name    : BookProof.ChapterCoherentThermalFidelity.coherentThermalFidelity_vacuum_eq_fidelityC
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:13:58.884437+00:00
 -- url     : https://prove2.me/theorems/2afa6117-b253-4903-8dea-f577d5454cf8

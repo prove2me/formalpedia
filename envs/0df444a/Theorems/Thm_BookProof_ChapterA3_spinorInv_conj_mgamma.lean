@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_spinorInv_conj_mgamma
 -- name    : BookProof.ChapterA3.spinorInv_conj_mgamma
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:55:45.916269+00:00
 -- url     : https://prove2.me/theorems/6a19855f-de88-48da-9b4c-6954ed6258fd

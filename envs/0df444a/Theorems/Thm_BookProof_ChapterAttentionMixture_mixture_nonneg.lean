@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_mixture_nonneg
 -- name    : BookProof.ChapterAttentionMixture.mixture_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:17.247496+00:00
 -- url     : https://prove2.me/theorems/ca028495-10f0-491c-abad-672718ae932d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_algebraic_mem_span_logAlg_eq_zero
 -- name    : DiazModulus.algebraic_mem_span_logAlg_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:09:35.175459+00:00
 -- url     : https://prove2.me/theorems/1feadbfa-c58a-4f8a-b3ce-6917220d9668

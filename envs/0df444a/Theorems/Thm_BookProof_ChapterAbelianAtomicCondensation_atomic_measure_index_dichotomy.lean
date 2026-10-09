@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianAtomicCondensation_atomic_measure_index_dichotomy
 -- name    : BookProof.ChapterAbelianAtomicCondensation.atomic_measure_index_dichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:17:52.061069+00:00
 -- url     : https://prove2.me/theorems/5edbf674-d604-401c-8de0-a79766ef8bbc

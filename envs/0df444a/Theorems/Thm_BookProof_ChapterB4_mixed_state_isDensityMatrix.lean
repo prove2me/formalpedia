@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterB4_mixed_state_isDensityMatrix
 -- name    : BookProof.ChapterB4.mixed_state_isDensityMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:52:31.580186+00:00
 -- url     : https://prove2.me/theorems/c809e8c1-81af-4062-af27-be99ce82b50e

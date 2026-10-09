@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_isDensityMatrix_of_unitary_diagonal
 -- name    : BookProof.DensitySpectral.isDensityMatrix_of_unitary_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:57:01.849925+00:00
 -- url     : https://prove2.me/theorems/fd0eb837-fb19-439a-a221-bd210b049f57

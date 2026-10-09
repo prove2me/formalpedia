@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_linear_trace
 -- name    : BookProof.ChapterElectroweakFieldStrength.linear_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:43:02.439361+00:00
 -- url     : https://prove2.me/theorems/08274a63-659f-4047-9408-27589ff4fdb9

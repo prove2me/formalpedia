@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockDegreesOfFreedom_YangMills3D_ghostRawCard
 -- name    : BookProof.FockDegreesOfFreedom.YangMills3D.ghostRawCard
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:21:41.178486+00:00
 -- url     : https://prove2.me/theorems/96e21397-e10d-4dfc-85dd-1dfc77027fee

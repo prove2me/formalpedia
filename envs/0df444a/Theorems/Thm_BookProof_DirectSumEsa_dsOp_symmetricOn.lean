@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_dsOp_symmetricOn
 -- name    : BookProof.DirectSumEsa.dsOp_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:59:32.046976+00:00
 -- url     : https://prove2.me/theorems/87ea27b9-9d61-43d0-a1ed-feb3b32d9d82

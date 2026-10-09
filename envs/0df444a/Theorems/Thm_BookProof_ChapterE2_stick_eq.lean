@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_stick_eq
 -- name    : BookProof.ChapterE2.stick_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:11:02.932404+00:00
 -- url     : https://prove2.me/theorems/dcbb9ffc-57db-4864-a373-4ec9656a1cf3

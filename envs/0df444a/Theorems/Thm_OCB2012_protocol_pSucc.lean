@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_protocol_pSucc
 -- name    : OCB2012.protocol_pSucc
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:10:10.916984+00:00
 -- url     : https://prove2.me/theorems/81ed8666-7b00-438a-83fb-11c5033a0163

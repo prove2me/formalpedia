@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeCasimirAverage_inner_casimir
 -- name    : BookProof.ChapterGaugeCasimirAverage.inner_casimir
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:53:37.841982+00:00
 -- url     : https://prove2.me/theorems/86b01bf1-8f5f-464c-b1b9-8c8f086fa307

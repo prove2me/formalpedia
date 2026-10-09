@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SidorenkoCounterexample_main
 -- name    : OAI.SidorenkoCounterexample.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:21.25389+00:00
 -- url     : https://prove2.me/theorems/0ce79ce5-9403-45c0-9a5a-6c2607be713f

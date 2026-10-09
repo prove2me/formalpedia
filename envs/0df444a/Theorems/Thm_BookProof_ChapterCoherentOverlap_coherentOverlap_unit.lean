@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlap_coherentOverlap_unit
 -- name    : BookProof.ChapterCoherentOverlap.coherentOverlap_unit
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:00:03.829994+00:00
 -- url     : https://prove2.me/theorems/d493b150-d3d8-43b8-99dc-691c7bc29d96

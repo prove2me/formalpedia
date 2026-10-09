@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConservative_timeEvo_inv
 -- name    : BookProof.ChapterConservative.timeEvo_inv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:22:01.085513+00:00
 -- url     : https://prove2.me/theorems/26ace031-ead0-4c65-983f-a9baba55b33d

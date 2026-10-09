@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_isPhysicalFunction_iff_factors
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.isPhysicalFunction_iff_factors
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:16:49.923982+00:00
 -- url     : https://prove2.me/theorems/c0788a03-70fd-4479-98ea-8cf7350be3be

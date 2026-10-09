@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_norm_mul_energy_sub_scalar_le
 -- name    : BookProof.EnergyBandDecomposition.norm_mul_energy_sub_scalar_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:45:19.522159+00:00
 -- url     : https://prove2.me/theorems/6594e882-40aa-48c6-aaeb-cb4e6dff0e05

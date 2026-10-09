@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_adjVar_eq_zero_of_central
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.adjVar_eq_zero_of_central
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:52:02.05619+00:00
 -- url     : https://prove2.me/theorems/d78f7300-a2bf-49e3-9bba-e5e5476052e6

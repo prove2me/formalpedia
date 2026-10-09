@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_gaussInt_prod_coordFactor
 -- name    : BookProof.GaussCoordCombo.gaussInt_prod_coordFactor
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:20:37.819767+00:00
 -- url     : https://prove2.me/theorems/b1cf2e29-4833-4d0b-94cf-5d634bddd6fa

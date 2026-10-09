@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Harmonic_mean_value_property
 -- name    : HunterPDE.Harmonic.mean_value_property
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:01:51.494089+00:00
 -- url     : https://prove2.me/theorems/d9b9b356-8b65-4965-bc2e-cbdd195e4a9b

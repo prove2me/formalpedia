@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA5_energySymbolR_sq
 -- name    : BookProof.ChapterA5.energySymbolR_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:15:52.083405+00:00
 -- url     : https://prove2.me/theorems/26de2a1e-3edc-47cd-9f73-be2131d867bf

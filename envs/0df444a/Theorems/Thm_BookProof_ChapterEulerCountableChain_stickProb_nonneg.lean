@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerCountableChain_stickProb_nonneg
 -- name    : BookProof.ChapterEulerCountableChain.stickProb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:25:56.678986+00:00
 -- url     : https://prove2.me/theorems/3c4ee836-0318-47ad-82d7-54f42b0ee3fe

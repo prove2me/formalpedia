@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_with_point_local_conditions
 -- name    : PhilipponMultiplicity.exists_mixed_cut_flag_with_point_local_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T20:01:51.004981+00:00
 -- url     : https://prove2.me/theorems/2f19ff63-31f1-4714-a5cb-c46ac7c7fc78

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_coordinate_local_mixed_section_preserving_isolated_points
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-01T20:42:18.744513+00:00
 -- url     : https://prove2.me/submissions/2ed2f525-ca07-492f-9912-148dc5fd2265
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_point_local_mixed_section_preserving_isolated_points
 import Mathlib.RingTheory.Jacobson.Ring

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_exists_angles_realize
 -- name    : BookProof.ChapterE2.exists_angles_realize
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:13:32.948724+00:00
 -- url     : https://prove2.me/theorems/a8242ee0-b38a-4690-81a5-b111e57e42ab

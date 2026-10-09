@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_csketch_smul
 -- name    : BookProof.ChapterF4.csketch_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:48.335515+00:00
 -- url     : https://prove2.me/theorems/43023489-dc43-4301-9b87-c5e50a7a5fb6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE3_euler_density_isIdempotent
 -- name    : BookProof.ChapterE3.euler_density_isIdempotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:13:14.563726+00:00
 -- url     : https://prove2.me/theorems/7ee156a3-fae1-4e95-a664-5418297d2e45

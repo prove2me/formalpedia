@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGellMann_gellMann_isHermitian
 -- name    : BookProof.ChapterGellMann.gellMann_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:21:03.076434+00:00
 -- url     : https://prove2.me/theorems/b95fb69c-90dc-43d3-86b3-573146be6b17

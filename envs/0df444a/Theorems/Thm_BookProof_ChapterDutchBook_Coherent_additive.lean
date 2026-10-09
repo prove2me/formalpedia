@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_Coherent_additive
 -- name    : BookProof.ChapterDutchBook.Coherent.additive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:08:30.81198+00:00
 -- url     : https://prove2.me/theorems/26698ad2-d136-4b24-a601-97e0609af918

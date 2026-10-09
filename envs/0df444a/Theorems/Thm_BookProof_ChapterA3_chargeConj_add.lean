@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_chargeConj_add
 -- name    : BookProof.ChapterA3.chargeConj_add
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:42:22.61298+00:00
 -- url     : https://prove2.me/theorems/0c74a8ce-429e-43ae-b321-e5d58765c949

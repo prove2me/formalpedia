@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_tensorPow_one
 -- name    : BookProof.ChapterA3n.tensorPow_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:07:32.579799+00:00
 -- url     : https://prove2.me/theorems/ebdb8d09-46ac-464e-84a3-eff17f81a1c8

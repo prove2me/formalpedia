@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_adRot_mem_lorentzLie
 -- name    : BookProof.ChapterA3.adRot_mem_lorentzLie
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:45:11.48952+00:00
 -- url     : https://prove2.me/theorems/66098df6-cbd8-4fdf-ab0d-b919ba1cba8d

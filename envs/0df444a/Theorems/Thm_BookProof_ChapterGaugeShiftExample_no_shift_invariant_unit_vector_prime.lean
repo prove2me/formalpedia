@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_no_shift_invariant_unit_vector_prime
 -- name    : BookProof.ChapterGaugeShiftExample.no_shift_invariant_unit_vector_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:17:36.23521+00:00
 -- url     : https://prove2.me/theorems/6abe0229-ba1c-4a56-b27d-1473895df2b0

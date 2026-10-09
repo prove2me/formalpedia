@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAngularMomentum_circHarm_abs
 -- name    : BookProof.ChapterAngularMomentum.circHarm_abs
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:20:14.389964+00:00
 -- url     : https://prove2.me/theorems/f74e3f1d-3680-4379-8d03-8c11e8f35883

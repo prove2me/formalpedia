@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_second_moment
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:54:31.706425+00:00
 -- url     : https://prove2.me/theorems/e8e34aef-c88b-4f70-8c3d-72a9dbc98b83

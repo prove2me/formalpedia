@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueingFundamentals_BirthDeath_halfin_whitt
 -- name    : QueueingFundamentals.BirthDeath.halfin_whitt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-03T07:17:50.379081+00:00
 -- url     : https://prove2.me/theorems/6eee4590-2c3b-4571-b30c-2657f1e008c4

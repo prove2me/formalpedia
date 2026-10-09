@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionLocality_mem_window
 -- name    : BookProof.ChapterAttentionLocality.mem_window
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:26:46.144416+00:00
 -- url     : https://prove2.me/theorems/ade707f8-69ca-4486-b579-1913505ebd10

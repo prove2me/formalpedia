@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_criticallyDamped_energy_not_constant
 -- name    : BookProof.DampedOscillatorEnergy.criticallyDamped_energy_not_constant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:27:24.47598+00:00
 -- url     : https://prove2.me/theorems/4f0a5afa-7f9d-4adf-a587-0a9cb7ce19f4

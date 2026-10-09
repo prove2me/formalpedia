@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DantzigSelector_Sparse_dantzig_sparse_l2_bound
 -- name    : DantzigSelector.Sparse.dantzig_sparse_l2_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T08:40:59.589345+00:00
 -- url     : https://prove2.me/theorems/6283cb11-a2ec-4abb-8cf1-60daf44bf507

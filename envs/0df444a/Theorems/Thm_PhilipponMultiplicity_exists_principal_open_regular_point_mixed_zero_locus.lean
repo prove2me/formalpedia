@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_principal_open_regular_point_mixed_zero_locus
 -- name    : PhilipponMultiplicity.exists_principal_open_regular_point_mixed_zero_locus
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-06T01:37:08.877328+00:00
 -- url     : https://prove2.me/theorems/648687d4-3710-4e11-b973-e9ec865463a2

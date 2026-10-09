@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE_stochastic_uniform_to_vertex_singular
 -- name    : BookProof.ChapterE.stochastic_uniform_to_vertex_singular
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:10:20.253526+00:00
 -- url     : https://prove2.me/theorems/b92a2446-6473-49ed-8713-909b3c680043

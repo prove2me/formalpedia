@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FreeEMField_fieldStrengthMul_eq_emFieldStrength_of_commute
 -- name    : BookProof.FreeEMField.fieldStrengthMul_eq_emFieldStrength_of_commute
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:49.19103+00:00
 -- url     : https://prove2.me/theorems/98356df2-239a-4e71-805f-a5ccdc1d533b

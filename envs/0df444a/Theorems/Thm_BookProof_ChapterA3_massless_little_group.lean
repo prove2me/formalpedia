@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_massless_little_group
 -- name    : BookProof.ChapterA3.massless_little_group
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:12:01.501122+00:00
 -- url     : https://prove2.me/theorems/30dbf543-e745-4b72-a826-f6a7e04b2457

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_pauliCoeff_comb
 -- name    : BookProof.ChapterA3.pauliCoeff_comb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:48:31.203132+00:00
 -- url     : https://prove2.me/theorems/087af638-6654-4fd2-9de5-f13b96e66cc1

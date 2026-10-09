@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityMetric_spatialMetric_quadForm_nonneg
 -- name    : BookProof.ChapterGravityMetric.spatialMetric_quadForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:00:07.675974+00:00
 -- url     : https://prove2.me/theorems/16a6476f-be19-4820-914f-81c78892097b

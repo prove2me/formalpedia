@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SnakyPrototype_snaky_winning_strategy_21_with_legal_states
 -- name    : OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:23.838799+00:00
 -- url     : https://prove2.me/theorems/29b16242-e6c3-4ee3-b459-3e4a883b9dcc

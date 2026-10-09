@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalProb_tsum_one
 -- name    : BookProof.ChapterCoherentTemperature.thermalProb_tsum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:10:15.647985+00:00
 -- url     : https://prove2.me/theorems/502cf37d-ee9f-4948-aa3d-747ff9ac95c5

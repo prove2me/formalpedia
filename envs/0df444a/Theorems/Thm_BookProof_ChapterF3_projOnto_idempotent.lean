@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_projOnto_idempotent
 -- name    : BookProof.ChapterF3.projOnto_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:48:16.552987+00:00
 -- url     : https://prove2.me/theorems/6c580c2e-0bf7-4e61-9026-2a711c8c5b64

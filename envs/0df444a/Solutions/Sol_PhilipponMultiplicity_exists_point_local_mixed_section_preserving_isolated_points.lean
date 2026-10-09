@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_point_local_mixed_section_preserving_isolated_points
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-04T21:43:03.569088+00:00
 -- url     : https://prove2.me/submissions/4f9ae62c-a8bd-46af-84b3-c02102f16644
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_principal_open_preserving_isolated_section_points
 import Theorems.Thm_PhilipponMultiplicity_exists_principal_open_smooth_mixed_flag_family

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterFiniteArithmeticPrior_truncMul_eq_mul
 -- name    : BookProof.ChapterFiniteArithmeticPrior.truncMul_eq_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:19:16.053963+00:00
 -- url     : https://prove2.me/theorems/409092b9-c1c9-4eb4-8143-841c473cb2f8

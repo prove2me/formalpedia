@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_hasDerivAt_detExpPath
 -- name    : BookProof.ChapterA3.hasDerivAt_detExpPath
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:47:56.258522+00:00
 -- url     : https://prove2.me/theorems/14b4efb2-dc52-4e07-8f84-345c1f4d5c3c

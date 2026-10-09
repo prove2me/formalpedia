@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_fidelityC_self
 -- name    : BookProof.ChapterCoherentFidelity.fidelityC_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:50:15.124845+00:00
 -- url     : https://prove2.me/theorems/d3659dc8-6cd6-4ae5-a52d-384526d8a59b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_massGap_smallest_excited
 -- name    : BookProof.ChapterF2.massGap_smallest_excited
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:48:05.29184+00:00
 -- url     : https://prove2.me/theorems/598592b0-c478-47d8-bda4-554e7ada0b92

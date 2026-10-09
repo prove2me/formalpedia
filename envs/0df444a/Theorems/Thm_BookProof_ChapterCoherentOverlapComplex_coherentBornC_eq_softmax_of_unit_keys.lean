@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_coherentBornC_eq_softmax_of_unit_keys
 -- name    : BookProof.ChapterCoherentOverlapComplex.coherentBornC_eq_softmax_of_unit_keys
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:02:42.594802+00:00
 -- url     : https://prove2.me/theorems/f6be9fb3-04a3-47c8-b6b0-d54fb6f91b63

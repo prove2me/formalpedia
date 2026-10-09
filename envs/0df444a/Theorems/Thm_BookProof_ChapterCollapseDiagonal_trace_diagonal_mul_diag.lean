@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCollapseDiagonal_trace_diagonal_mul_diag
 -- name    : BookProof.ChapterCollapseDiagonal.trace_diagonal_mul_diag
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:14:47.473517+00:00
 -- url     : https://prove2.me/theorems/2c7fb83c-cd9f-4512-8f3a-d91d17cb5c01

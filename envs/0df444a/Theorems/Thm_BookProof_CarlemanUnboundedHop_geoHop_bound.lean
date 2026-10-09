@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_geoHop_bound
 -- name    : BookProof.CarlemanUnboundedHop.geoHop_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:35:17.487091+00:00
 -- url     : https://prove2.me/theorems/dd639486-e189-4c2f-8ebe-0f2e8fe048fb

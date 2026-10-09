@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3m_projSym3_spinGenDiag_comm
 -- name    : BookProof.ChapterA3m.projSym3_spinGenDiag_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:07:11.925981+00:00
 -- url     : https://prove2.me/theorems/dda5bb9d-e896-4470-b511-acd4361248c9

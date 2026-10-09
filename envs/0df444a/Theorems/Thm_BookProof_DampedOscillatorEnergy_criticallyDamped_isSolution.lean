@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_criticallyDamped_isSolution
 -- name    : BookProof.DampedOscillatorEnergy.criticallyDamped_isSolution
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:27:02.482381+00:00
 -- url     : https://prove2.me/theorems/ddc70241-ad70-4713-9b09-9b9eeb0bbee5

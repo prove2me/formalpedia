@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Qg3DGaugeEsa_pgLp_qgSignedPoly
 -- name    : BookProof.Qg3DGaugeEsa.pgLp_qgSignedPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T17:32:42.968211+00:00
 -- url     : https://prove2.me/theorems/939344c0-157c-42cc-b7f3-47fc80f8d9b6

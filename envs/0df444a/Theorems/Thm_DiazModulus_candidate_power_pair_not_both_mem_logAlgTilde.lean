@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_candidate_power_pair_not_both_mem_logAlgTilde
 -- name    : DiazModulus.candidate_power_pair_not_both_mem_logAlgTilde
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:09:36.923076+00:00
 -- url     : https://prove2.me/theorems/3706795a-5cd8-46fe-a412-48bb68de49e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_mem_pushDom
 -- name    : BookProof.GraphCore.mem_pushDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:57:04.606414+00:00
 -- url     : https://prove2.me/theorems/e7e22e61-b55d-4bc7-acf0-af35517cc0fd

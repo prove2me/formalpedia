@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_dampedEnergy_antitone
 -- name    : BookProof.DampedOscillatorEnergy.dampedEnergy_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:25:35.363978+00:00
 -- url     : https://prove2.me/theorems/e1115ee3-edeb-48f4-958e-b934af02e471

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_essentiallySelfAdjointOn_of_graphCore
 -- name    : BookProof.GraphCore.essentiallySelfAdjointOn_of_graphCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:56:29.216094+00:00
 -- url     : https://prove2.me/theorems/0b3e6a8c-fb91-4cc7-b4ea-b236f91a3fa2

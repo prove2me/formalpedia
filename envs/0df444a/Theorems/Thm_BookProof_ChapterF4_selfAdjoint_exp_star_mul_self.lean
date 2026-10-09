@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_selfAdjoint_exp_star_mul_self
 -- name    : BookProof.ChapterF4.selfAdjoint_exp_star_mul_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:50:33.613872+00:00
 -- url     : https://prove2.me/theorems/e69aa8a1-4a69-4b43-91c1-6228c893fbba

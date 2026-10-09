@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_density_spectral
 -- name    : BookProof.DensitySpectral.density_spectral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:56:44.441816+00:00
 -- url     : https://prove2.me/theorems/2fa9f786-dc2a-43c0-93bc-56cd51b44179

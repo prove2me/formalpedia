@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ComputableScarcity_exists_not_eventually_eq_computable
 -- name    : BookProof.ComputableScarcity.exists_not_eventually_eq_computable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:18:12.933032+00:00
 -- url     : https://prove2.me/theorems/07bddd4c-a068-4837-a545-9e8b981a7dc6

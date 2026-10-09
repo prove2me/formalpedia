@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_mgRun_decrement_le
 -- name    : BookProof.ChapterF4.mgRun_decrement_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:01:48.932147+00:00
 -- url     : https://prove2.me/theorems/a72c4f71-93b4-420c-add9-9f1eb7338140

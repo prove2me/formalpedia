@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_two_by_two_config_critical_progression
 -- name    : DiazModulus.two_by_two_config_critical_progression
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:13.119198+00:00
 -- url     : https://prove2.me/theorems/f27b3462-2ab3-4f63-9294-ba165ea51ef5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_anticomm_l2Symmetric
 -- name    : BookProof.ChapterF7.anticomm_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:06:50.155369+00:00
 -- url     : https://prove2.me/theorems/54bf9366-3a55-43dd-8c56-5b81241e73e3

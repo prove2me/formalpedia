@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSink_headOutput_sink
 -- name    : BookProof.ChapterAttentionSink.headOutput_sink
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:48:44.246984+00:00
 -- url     : https://prove2.me/theorems/e4c303d6-f264-4971-9ff7-6f1ff92a8b8b

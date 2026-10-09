@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_log_le_div_add_log_sub_one
 -- name    : BookProof.ChapterAttentionCollision.log_le_div_add_log_sub_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:22:41.192974+00:00
 -- url     : https://prove2.me/theorems/38e563e3-fde9-4c4c-abc6-d8f41ce8a254

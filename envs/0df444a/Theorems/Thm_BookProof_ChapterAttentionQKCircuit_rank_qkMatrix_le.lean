@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionQKCircuit_rank_qkMatrix_le
 -- name    : BookProof.ChapterAttentionQKCircuit.rank_qkMatrix_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:41:35.497289+00:00
 -- url     : https://prove2.me/theorems/d50aa555-437a-4cec-ac7e-7fd4ce9eaab2

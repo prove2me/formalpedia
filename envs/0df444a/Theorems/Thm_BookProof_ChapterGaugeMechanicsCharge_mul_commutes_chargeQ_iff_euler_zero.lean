@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_mul_commutes_chargeQ_iff_euler_zero
 -- name    : BookProof.ChapterGaugeMechanicsCharge.mul_commutes_chargeQ_iff_euler_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:14:58.628563+00:00
 -- url     : https://prove2.me/theorems/32896ca6-d08b-45b4-8f0b-9a321761c468

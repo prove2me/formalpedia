@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HalfinWhitt81_Stationary_theorem_1
 -- name    : HalfinWhitt81.Stationary.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:47:32.785252+00:00
 -- url     : https://prove2.me/theorems/c81ff5c2-9b99-435f-a21d-6973ef6f46a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_deformedHamiltonian_commutes_numberOp
 -- name    : BookProof.ChapterF2.deformedHamiltonian_commutes_numberOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:47:26.471319+00:00
 -- url     : https://prove2.me/theorems/4745d807-16ed-4d9f-b3d5-d7d83d3d0114

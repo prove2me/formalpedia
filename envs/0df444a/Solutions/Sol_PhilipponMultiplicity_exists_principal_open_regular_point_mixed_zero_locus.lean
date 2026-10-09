@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_principal_open_regular_point_mixed_zero_locus
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-07T09:13:41.183444+00:00
 -- url     : https://prove2.me/submissions/4a96d6dc-07c3-4aeb-9aae-4bd312afd138
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_principal_open_reduced_point_mixed_zero_locus
 import Definitions.Def_P2M_Util

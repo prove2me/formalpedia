@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_mgStep_support_le
 -- name    : BookProof.ChapterF4.mgStep_support_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:51:24.24102+00:00
 -- url     : https://prove2.me/theorems/082877eb-4940-4bc3-a24e-21f5951f93c7

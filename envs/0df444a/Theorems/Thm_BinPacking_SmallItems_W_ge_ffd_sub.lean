@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_SmallItems_W_ge_ffd_sub
 -- name    : BinPacking.SmallItems.W_ge_ffd_sub
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:22:17.272954+00:00
 -- url     : https://prove2.me/theorems/9ce81529-11e1-4b95-ae78-9681e6aadb55

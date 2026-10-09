@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ComputableScarcity_uncountable_natFun
 -- name    : BookProof.ComputableScarcity.uncountable_natFun
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:17:38.297004+00:00
 -- url     : https://prove2.me/theorems/bf9e8fda-ced1-4c28-bb96-f80c104eeb54

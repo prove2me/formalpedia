@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pMarg_nonneg
 -- name    : BookProof.ChapterConditional.pMarg_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:18:44.048516+00:00
 -- url     : https://prove2.me/theorems/397b1174-188c-432e-9bf0-cba44a619df9

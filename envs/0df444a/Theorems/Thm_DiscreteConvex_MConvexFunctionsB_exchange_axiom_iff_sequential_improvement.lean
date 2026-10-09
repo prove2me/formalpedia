@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_exchange_axiom_iff_sequential_improvement
 -- name    : DiscreteConvex.MConvexFunctionsB.exchange_axiom_iff_sequential_improvement
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:12:10.38482+00:00
 -- url     : https://prove2.me/theorems/19bd334e-87ff-42b9-b050-d7a4f986f924

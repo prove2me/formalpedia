@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicies_TwoGap_theorem_2
 -- name    : AffinePolicies.TwoGap.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:39:32.942963+00:00
 -- url     : https://prove2.me/theorems/b100bbd9-434f-4511-99a8-5af5fe646f77

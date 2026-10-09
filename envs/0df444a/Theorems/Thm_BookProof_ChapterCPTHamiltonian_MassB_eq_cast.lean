@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_MassB_eq_cast
 -- name    : BookProof.ChapterCPTHamiltonian.MassB_eq_cast
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:23:31.715864+00:00
 -- url     : https://prove2.me/theorems/df171ba0-26db-4532-9cf8-32b72706d744

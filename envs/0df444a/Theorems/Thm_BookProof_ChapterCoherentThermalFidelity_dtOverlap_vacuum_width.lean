@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_dtOverlap_vacuum_width
 -- name    : BookProof.ChapterCoherentThermalFidelity.dtOverlap_vacuum_width
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:16:17.362963+00:00
 -- url     : https://prove2.me/theorems/a4ad61ab-594f-4585-b47c-1c1782a9ee1e

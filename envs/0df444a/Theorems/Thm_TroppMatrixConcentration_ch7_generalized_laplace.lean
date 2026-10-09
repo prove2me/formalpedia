@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch7_generalized_laplace
 -- name    : TroppMatrixConcentration.ch7_generalized_laplace
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:51:24.920821+00:00
 -- url     : https://prove2.me/theorems/0885d39d-0b38-4886-95ec-24a23a6d8b7a

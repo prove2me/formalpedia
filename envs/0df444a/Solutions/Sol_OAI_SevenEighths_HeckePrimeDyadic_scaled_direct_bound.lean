@@ -1,0 +1,2007 @@
+-- Prove2me | solution 1 for OAI.SevenEighths.HeckePrimeDyadic.scaled_direct_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @dbenbenn
+-- created : 2026-10-09T02:07:16.561504+00:00
+-- url     : https://prove2.me/submissions/2de6d76d-2583-4205-87e0-cd78c9d43414
+
+import Mathlib
+import Definitions.Def_HeckeSevenEighths
+import Definitions.Def_OAIHecke78B017
+import Theorems.Thm_OAI_SevenEighths_HeckeDyadic_polynomial_bound_of_rectangle
+import Theorems.Thm_OAI_SevenEighths_HeckeLogarithmic_disk_control_of_euler_log
+import Theorems.Thm_OAI_SevenEighths_HeckePrimeDyadic_polynomial_bound_of_rectangle
+import Theorems.Thm_OAI_SmoothMobiusCorrection_prime_norm_two_le
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.ConductorPresentation
+namespace OAI
+
+namespace SevenEighths
+
+namespace FiniteConductor
+
+variable {R : Type*} [CommRing R] [Finite R]
+
+theorem FactorsThroughIdeal.bot (χ : MulChar R ℂ) : FactorsThroughIdeal χ ⊥ := by
+  rw [factorsThroughIdeal_iff]
+  intro u hu
+  have hu1 : (u : R) = 1 := sub_eq_zero.mp hu
+  rw [hu1, map_one]
+
+end FiniteConductor
+
+namespace ConductorPresentation
+
+open SevenEighths.FiniteFourier SevenEighths.FiniteConductor
+open scoped Classical
+
+noncomputable section
+
+variable {A : Type*} [CommRing A] [IsDedekindDomain A] [Infinite A]
+  [Module.Free ℤ A] [Module.Finite ℤ A]
+
+theorem exists_primitive_presentation (M : Ideal A) [Finite (A ⧸ M)]
+    (χ : MulChar (A ⧸ M) ℂ) :
+    ∃ (K : Ideal A) (φ : MulChar (A ⧸ K) ℂ),
+      M ≤ K ∧ K ≠ ⊥ ∧ IsPrimitiveOnIdeals φ ∧ K.absNorm ≤ M.absNorm ∧
+      ∀ a : A, χ (Ideal.Quotient.mk M a) =
+        if IsUnit (Ideal.Quotient.mk M a) then φ (Ideal.Quotient.mk K a) else 0 := by
+  obtain ⟨K, φ, hMK, hbotK, hK, hprimitive, hnorm, hmask⟩ :=
+    exists_primitive_presentation_above_quotient M χ ⊥ (FactorsThroughIdeal.bot χ)
+  refine ⟨K, φ, hMK, hK, hprimitive, ?_, hmask⟩
+  simpa only [← RingHom.ker_eq_comap_bot, Ideal.mk_ker] using hnorm
+
+end
+
+end ConductorPresentation
+
+end SevenEighths
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Continuation
+namespace OAI
+
+noncomputable section
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+namespace SevenEighths.Continuation
+
+theorem product_identity_on_halfPlane (a b : ℝ) (L M W : ℂ → ℂ)
+    (hL : AnalyticOnNhd ℂ L {s : ℂ | a < s.re})
+    (hM : AnalyticOnNhd ℂ M {s : ℂ | a < s.re})
+    (hW : AnalyticOnNhd ℂ W {s : ℂ | a < s.re})
+    (heq : ∀ s : ℂ, max a b < s.re → L s * M s = W s) :
+    Set.EqOn (fun s => L s * M s) W {s : ℂ | a < s.re} := by
+  let z : ℂ := (max a b + 1 : ℝ)
+  have hz : a < z.re := by dsimp [z]; linarith [le_max_left a b]
+  have hz' : max a b < z.re := by dsimp [z]; simp
+  have hev : (fun s => L s * M s) =ᶠ[𝓝 z] W := by
+    filter_upwards [(Complex.isOpen_re_gt (max a b)).mem_nhds hz'] with s hs
+    exact heq s hs
+  exact (hL.mul hM).eqOn_of_preconnected_of_eventuallyEq hW
+    (convex_halfSpace_re_gt a).isPreconnected hz hev
+
+end SevenEighths.Continuation
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.EulerFactors
+namespace OAI
+
+namespace SevenEighths.EulerFactors
+
+noncomputable section
+
+theorem norm_term_lt_one {N : ℝ} (hN : 1 < N) {a s : ℂ}
+    (ha : ‖a‖ ≤ 1) (hs : 0 < s.re) : ‖a * (N : ℂ) ^ (-s)‖ < 1 := by
+  rw [norm_mul, Complex.norm_cpow_eq_rpow_re_of_pos (by linarith : 0 < N),
+    Complex.neg_re]
+  calc
+    ‖a‖ * N ^ (-s.re) ≤ 1 * N ^ (-s.re) :=
+      mul_le_mul_of_nonneg_right ha (Real.rpow_nonneg (by linarith) _)
+    _ < 1 := by simpa using Real.rpow_lt_one_of_one_lt_of_neg hN (neg_neg_of_pos hs)
+
+theorem factor_ne_zero {N : ℝ} (hN : 1 < N) {a s : ℂ}
+    (ha : ‖a‖ ≤ 1) (hs : 0 < s.re) : factor N a s ≠ 0 := by
+  intro h
+  have heq : a * (N : ℂ) ^ (-s) = 1 := (sub_eq_zero.mp h).symm
+  have hlt := norm_term_lt_one hN ha hs
+  rw [heq, norm_one] at hlt
+  exact (lt_irrefl _ hlt)
+
+theorem differentiable_factor {N : ℝ} (hN : 0 < N) (a : ℂ) :
+    Differentiable ℂ (factor N a) := by
+  exact (differentiable_const (1 : ℂ)).sub ((differentiable_const a).mul
+    (differentiable_id.neg.const_cpow (Or.inl (Complex.ofReal_ne_zero.mpr hN.ne'))))
+
+theorem deletedProduct_ne_zero {ι : Type*} (S : Finset ι) (N : ι → ℝ)
+    (a : ι → ℂ) (hN : ∀ p ∈ S, 1 < N p) (ha : ∀ p ∈ S, ‖a p‖ ≤ 1)
+    {s : ℂ} (hs : 0 < s.re) : deletedProduct S N a s ≠ 0 := by
+  apply Finset.prod_ne_zero_iff.mpr
+  intro p hp
+  exact factor_ne_zero (hN p hp) (ha p hp) hs
+
+theorem differentiable_deletedProduct {ι : Type*} (S : Finset ι) (N : ι → ℝ)
+    (a : ι → ℂ) (hN : ∀ p ∈ S, 0 < N p) :
+    Differentiable ℂ (deletedProduct S N a) := by
+  classical
+  induction S using Finset.induction_on with
+  | empty =>
+    change Differentiable ℂ (fun _ : ℂ => (1 : ℂ))
+    exact differentiable_const _
+  | @insert p S hp ih =>
+    have hpN := hN p (Finset.mem_insert_self p S)
+    have hSN : ∀ q ∈ S, 0 < N q := fun q hq => hN q (Finset.mem_insert_of_mem hq)
+    have heq : deletedProduct (insert p S) N a =
+        fun s => factor (N p) (a p) s * deletedProduct S N a s := by
+      funext s
+      simp only [deletedProduct, Finset.prod_insert hp]
+    rw [heq]
+    exact (differentiable_factor hpN (a p)).mul (ih hSN)
+
+end
+
+end SevenEighths.EulerFactors
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.MobiusEulerCorrection
+namespace OAI
+
+noncomputable section
+
+namespace SmoothMobiusCorrection
+
+open scoped BigOperators
+open MulChar AddChar
+open scoped BigOperators
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped FourierTransform SchwartzMap
+open Finset Complex
+open scoped Classical
+open scoped Classical
+open Filter Real Asymptotics
+open ActualEisensteinCubic
+open Filter
+open ActualEisensteinCubic ShortDraftLatticeCount
+open ActualEisensteinCubic ShortDraftLatticeCount
+open Filter
+open scoped Topology
+open EisensteinEmbedding ConcreteTraceCRT ActualEisensteinCubic
+open MulChar AddChar
+open Filter Asymptotics
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter
+open MulChar AddChar
+open MulChar AddChar
+open scoped LSeries.notation ArithmeticFunction.Moebius
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Ideal NumberField RingOfIntegers UniqueFactorizationMonoid
+open Filter Asymptotics
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics Ideal NumberField
+open Filter
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open Filter Asymptotics MeasureTheory
+open scoped Topology
+open MeasureTheory Real
+open scoped ContDiff FourierTransform SchwartzMap
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical SchwartzMap ContDiff
+open scoped BigOperators Classical
+open scoped BigOperators Classical SchwartzMap ContDiff
+open MeasureTheory Set
+open scoped BigOperators
+open scoped BigOperators Classical
+open scoped BigOperators Classical
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open scoped BigOperators
+open scoped BigOperators
+open scoped BigOperators Classical SchwartzMap
+open scoped BigOperators Classical
+
+open scoped BigOperators Classical
+
+section
+open ActualEisensteinCubic
+open IdealMobiusDivisorSum hiding O
+open UniqueFactorizationMonoid
+open CanonicalRowCompletion (primeValueHom primeValueHom_prime)
+
+theorem primeProduct_ne_zero (s : Finset PrimeIdeal) : primeProduct s ≠ 0 :=
+  Finset.prod_ne_zero_iff.mpr (fun P _ => P.property.ne_zero)
+
+theorem factors_primeProduct (s : Finset PrimeIdeal) :
+    normalizedFactors (primeProduct s) = s.val.map Subtype.val := by
+  have h := normalizedFactors_prod_of_prime
+    (m := s.val.map (fun P : PrimeIdeal => P.val)) (by
+      intro P hP
+      obtain ⟨Q,hQ,rfl⟩ := Multiset.mem_map.mp hP
+      exact Q.property)
+  simpa only [primeProduct, Finset.prod_eq_multiset_prod] using h
+
+theorem primeSet_primeProduct (s : Finset PrimeIdeal) : primeSet (primeProduct s) = s := by
+  ext P
+  rw [mem_primeSet]
+  simp only [primeSupport, factors_primeProduct, Multiset.mem_toFinset,
+    Multiset.mem_map, Finset.mem_val]
+  constructor
+  · rintro ⟨Q,hQ,he⟩
+    have : Q=P := Subtype.ext he
+    simpa [this] using hQ
+  · intro h
+    exact ⟨P,h,rfl⟩
+
+theorem primeProduct_injective : Function.Injective primeProduct := by
+  intro s t h
+  simpa only [primeSet_primeProduct] using congrArg primeSet h
+
+theorem primeProduct_squarefree (s : Finset PrimeIdeal) : Squarefree (primeProduct s) := by
+  rw [squarefree_iff_nodup_normalizedFactors (primeProduct_ne_zero s),factors_primeProduct]
+  exact s.nodup.map Subtype.val_injective
+
+theorem primeProduct_primeSet (I : Ideal ActualEisensteinCubic.O) (hI : Squarefree I) :
+    primeProduct (primeSet I) = I := by
+  unfold primeProduct primeSet
+  rw [Finset.prod_image]
+  · change (∏ P ∈ (primeSupport I).attach, (fun Q : Ideal ActualEisensteinCubic.O => Q) P.val) = I
+    exact (Finset.prod_attach (primeSupport I) (fun Q : Ideal ActualEisensteinCubic.O => Q)).trans
+      (squarefree_support_product_self hI)
+  · intro P hP Q hQ he
+    exact Subtype.ext (congrArg (fun R : PrimeIdeal => R.val) he)
+
+theorem mobiusPrimeCoeff_nonsquarefree (w : Ideal ActualEisensteinCubic.O → ℂ) (I : Ideal ActualEisensteinCubic.O)
+    (hI : ¬Squarefree I) : mobiusPrimeCoeff w I=0 := by
+  simp [mobiusPrimeCoeff,moebius_of_not_squarefree hI]
+
+theorem mobiusPrimeCoeff_primeProduct (w : Ideal ActualEisensteinCubic.O → ℂ) (s : Finset PrimeIdeal) :
+    mobiusPrimeCoeff w (primeProduct s) = ∏ P ∈ s, -w P.val := by
+  have hm : (moebius (primeProduct s) : ℂ)=(-1:ℂ)^s.card := by
+    rw [(primeProduct_squarefree s).moebius_eq,factors_eq_normalizedFactors,
+      factors_primeProduct]
+    simp
+  rw [mobiusPrimeCoeff,hm]
+  simp only [primeProduct,map_prod,primeValueHom_prime _ _ (Subtype.property _)]
+  rw [Finset.prod_neg]
+
+theorem mobiusPrimeCoeff_tsum (w : Ideal ActualEisensteinCubic.O → ℂ) :
+    (∑' I : Ideal ActualEisensteinCubic.O, mobiusPrimeCoeff w I) =
+      ∑' s : Finset PrimeIdeal, ∏ P ∈ s, -w P.val := by
+  apply tsum_eq_tsum_of_ne_zero_bij (fun s => primeProduct s.val)
+  · exact primeProduct_injective.comp Subtype.val_injective
+  · intro I hI
+    have hs : Squarefree I := by
+      by_contra hs
+      exact hI (mobiusPrimeCoeff_nonsquarefree w I hs)
+    have hp : (∏ P ∈ primeSet I, -w P.val) ≠ 0 := by
+      rw [←mobiusPrimeCoeff_primeProduct,primeProduct_primeSet I hs]
+      exact hI
+    exact ⟨⟨primeSet I,hp⟩,primeProduct_primeSet I hs⟩
+  · intro s
+    exact mobiusPrimeCoeff_primeProduct w s.val
+
+theorem mobiusPrimeCoeff_euler (w : Ideal ActualEisensteinCubic.O → ℂ)
+    (hw : Summable (fun P : PrimeIdeal => ‖w P.val‖)) :
+    (∑' I : Ideal ActualEisensteinCubic.O, mobiusPrimeCoeff w I) =
+      ∏' P : PrimeIdeal, (1-w P.val) := by
+  rw [mobiusPrimeCoeff_tsum]
+  have hs : Summable (fun P : PrimeIdeal => ‖-w P.val‖) := by simpa using hw
+  simpa only [sub_eq_add_neg] using
+    (tprod_one_add (summable_finsetProd_of_summable_norm hs)).symm
+
+end
+
+section
+open ActualEisensteinCubic
+open Filter
+
+lemma prime_norm_pos (P : PrimeIdeal) : (0 : ℝ) < Ideal.absNorm P.val := by
+  have h := prime_norm_two_le P
+  exact_mod_cast (by omega : 0 < Ideal.absNorm P.val)
+
+lemma norm_primeNormPower (P : PrimeIdeal) (s : ℂ) :
+    ‖primeNormPower P s‖=(Ideal.absNorm P.val : ℝ)^(-s.re) := by
+  exact Complex.norm_cpow_eq_rpow_re_of_pos (prime_norm_pos P) (-s)
+
+lemma one_sub_ne_zero {x : ℂ} (hx : ‖x‖<1) : 1-x≠0 := by
+  intro h
+  have he : x=1 := (sub_eq_zero.mp h).symm
+  simp [he] at hx
+
+lemma prime_norm_series_summable (σ : ℝ) (hσ : 0<σ) :
+    Summable (fun P : PrimeIdeal => (Ideal.absNorm P.val:ℝ)^(-(1+σ))) := by
+  have ht := (CubicEisenstein.fullIdealWeight_summable_norm (1+(σ:ℂ)) (by simp;linarith)).comp_injective
+    (i := fun P : PrimeIdeal => P.val) Subtype.val_injective
+  apply ht.congr
+  intro P
+  simp only [Function.comp_def,CubicEisenstein.fullIdealWeight,if_neg P.property.ne_zero]
+  simpa only [Complex.neg_re, Complex.add_re, Complex.one_re, Complex.ofReal_re,
+    Complex.ofReal_natCast] using
+    (Complex.norm_cpow_eq_rpow_re_of_pos (prime_norm_pos P) (-(1+(σ:ℂ))))
+
+end
+
+section
+open ActualEisensteinCubic
+open ShortDraftHeckeBridge hiding O
+open IdealMobiusDivisorSum hiding O
+open UniqueFactorizationMonoid
+open CanonicalRowCompletion (primeValueHom primeValueHom_prime)
+
+lemma prod_primeSet {M : Type*} [CommMonoid M] (I : Ideal ActualEisensteinCubic.O) (f : Ideal ActualEisensteinCubic.O→M) :
+    (∏P∈primeSet I,f P.val)=∏P∈primeSupport I,f P := by
+  unfold primeSet
+  rw [Finset.prod_image]
+  · exact Finset.prod_attach (primeSupport I) f
+  · intro P hP Q hQ he
+    exact Subtype.ext (congrArg (fun R : PrimeIdeal => R.val) he)
+
+end
+
+open ActualEisensteinCubic
+
+open scoped BigOperators Classical
+open ActualEisensteinCubic
+open ShortDraftHeckeBridge hiding O
+
+end SmoothMobiusCorrection
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.IdealCharacter
+namespace OAI
+
+namespace SevenEighths.IdealCharacter
+
+open SevenEighths.FiniteFourier SevenEighths.FiniteConductor
+open SevenEighths.ConductorPresentation
+open Submodule.IsPrincipal
+open scoped Classical
+
+noncomputable section
+
+variable {A : Type*} [CommRing A]
+
+section Principal
+
+variable [IsDomain A] [IsPrincipalIdealRing A]
+
+theorem ofResidue_finite_deletion (M K : Ideal A)
+    (χ : MulChar (A ⧸ M) ℂ) (φ : MulChar (A ⧸ K) ℂ)
+    (hχ : UnitInvariant M χ) (hφ : UnitInvariant K φ)
+    (hmask : ∀ a : A, χ (Ideal.Quotient.mk M a) =
+      if IsUnit (Ideal.Quotient.mk M a) then φ (Ideal.Quotient.mk K a) else 0)
+    (I : Ideal A) :
+    ofResidue M χ hχ I =
+      ofResidue M 1 (one_unitInvariant M) I * ofResidue K φ hφ I := by
+  rw [ofResidue_source_mask M K χ φ hχ hφ hmask, ofResidue_one]
+  by_cases hI : I = ⊥
+  · simp only [hI, ofResidue_bot, ite_true, ite_self, mul_zero]
+  · simp only [hI, ite_false]
+    split_ifs <;> simp only [one_mul, zero_mul]
+
+section Primitive
+
+variable [Infinite A] [Module.Free ℤ A] [Module.Finite ℤ A]
+
+theorem exists_primitive_associate (M : Ideal A) [Finite (A ⧸ M)]
+    (χ : MulChar (A ⧸ M) ℂ) (hχ : UnitInvariant M χ) :
+    ∃ (K : Ideal A) (φ : MulChar (A ⧸ K) ℂ) (hφ : UnitInvariant K φ),
+      M ≤ K ∧ K ≠ ⊥ ∧ IsPrimitiveOnIdeals φ ∧ K.absNorm ≤ M.absNorm ∧
+      (∀ I : Ideal A, ofResidue M χ hχ I =
+        if IsCoprime I M then ofResidue K φ hφ I else 0) ∧
+      ∀ I : Ideal A, ofResidue M χ hχ I =
+        ofResidue M 1 (one_unitInvariant M) I * ofResidue K φ hφ I := by
+  obtain ⟨K, φ, hMK, hK, hprimitive, hnorm, hmask⟩ := exists_primitive_presentation M χ
+  have hφ : UnitInvariant K φ := by
+    intro u
+    have h := hmask (u : A)
+    simpa only [hχ u, u.isUnit.map (Ideal.Quotient.mk M), ite_true] using h.symm
+  exact ⟨K, φ, hφ, hMK, hK, hprimitive, hnorm,
+    ofResidue_source_mask M K χ φ hχ hφ hmask,
+    ofResidue_finite_deletion M K χ φ hχ hφ hmask⟩
+
+end Primitive
+
+end Principal
+
+end
+
+end SevenEighths.IdealCharacter
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.IdealEuler
+namespace OAI
+
+namespace SevenEighths.IdealEuler
+
+open ActualEisensteinCubic UniqueFactorizationMonoid
+open CompletedGauss (MulFiber mulFiber_moebius_sum)
+open SmoothMobiusCorrection (PrimeIdeal)
+open scoped BigOperators Classical
+
+noncomputable section
+
+theorem inverseSeries_eq_inv (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) : inverseSeries a s = (series a s)⁻¹ := by
+  calc
+    _ = (inverseSeries a s * series a s) * (series a s)⁻¹ := by
+      rw [mul_assoc, mul_inv_cancel₀ (series_ne_zero a ha s hs), mul_one]
+    _ = _ := by rw [inverseSeries_mul_series a ha s hs, one_mul]
+
+theorem prime_summable_norm (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) : Summable (fun P : PrimeIdeal => ‖weighted a s P.val‖) :=
+  (weighted_summable_norm a ha s hs).comp_injective Subtype.val_injective
+
+theorem prime_norm_lt_one (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 0 < s.re) (P : PrimeIdeal) : ‖weighted a s P.val‖ < 1 := by
+  change ‖a P.val * CubicEisenstein.fullIdealWeight s P.val‖ < 1
+  simp only [CubicEisenstein.fullIdealWeight, P.property.ne_zero, ite_false, norm_mul]
+  change ‖a P.val‖ * ‖SmoothMobiusCorrection.primeNormPower P s‖ < 1
+  rw [SmoothMobiusCorrection.norm_primeNormPower]
+  apply (mul_le_of_le_one_left (Real.rpow_nonneg (by positivity) _) (ha P.val)).trans_lt
+  exact Real.rpow_lt_one_of_one_lt_of_neg
+    (by have h := SmoothMobiusCorrection.prime_norm_two_le P
+        exact_mod_cast (by omega : 1 < Ideal.absNorm P.val)) (by simpa using neg_neg_of_pos hs)
+
+theorem local_factor_ne_zero (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 0 < s.re) (P : PrimeIdeal) : 1 - weighted a s P.val ≠ 0 :=
+  SmoothMobiusCorrection.one_sub_ne_zero (prime_norm_lt_one a ha s hs P)
+
+theorem inverseSeries_euler (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) :
+    inverseSeries a s = ∏' P : PrimeIdeal, (1 - weighted a s P.val) := by
+  have h := SmoothMobiusCorrection.mobiusPrimeCoeff_euler (weighted a s)
+    (prime_summable_norm a ha s hs)
+  simpa only [SmoothMobiusCorrection.mobiusPrimeCoeff, primeValueHom_eq, inverseSeries] using h
+
+theorem euler_hasProd (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) :
+    HasProd (fun P : PrimeIdeal => (1 - weighted a s P.val)⁻¹) (series a s) := by
+  have hm : Multipliable (fun P : PrimeIdeal => 1 - weighted a s P.val) := by
+    simpa only [sub_eq_add_neg] using multipliable_one_add_of_summable
+      (show Summable (fun P : PrimeIdeal => ‖-weighted a s P.val‖) by
+        simpa only [norm_neg] using prime_summable_norm a ha s hs)
+  have heq : (∏' P : PrimeIdeal, (1 - weighted a s P.val)) = (series a s)⁻¹ :=
+    (inverseSeries_euler a ha s hs).symm.trans (inverseSeries_eq_inv a ha s hs)
+  have hne : (∏' P : PrimeIdeal, (1 - weighted a s P.val)) ≠ 0 := by
+    rw [heq]
+    exact inv_ne_zero (series_ne_zero a ha s hs)
+  simpa only [heq, inv_inv] using hm.hasProd.inv₀ hne
+
+theorem series_euler (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) :
+    series a s = ∏' P : PrimeIdeal, (1 - weighted a s P.val)⁻¹ :=
+  (euler_hasProd a ha s hs).tprod_eq.symm
+
+theorem deletePrimes_prime (S : Finset PrimeIdeal) (a : Ideal O →*₀ ℂ) (P : PrimeIdeal) :
+    deletePrimes S a P.val = if P ∈ S then 0 else a P.val := by
+  have hmem : P.val ∈ S.image Subtype.val ↔ P ∈ S := by
+    constructor
+    · intro hP
+      obtain ⟨Q, hQ, hQP⟩ := Finset.mem_image.mp hP
+      exact (Subtype.ext hQP : Q = P) ▸ hQ
+    · intro hP
+      exact Finset.mem_image.mpr ⟨P, hP, rfl⟩
+  change CanonicalRowCompletion.primeValueHom _ P.val = _
+  rw [CanonicalRowCompletion.primeValueHom_prime _ _ P.property]
+  simp only [hmem]
+
+theorem deletePrimes_norm_le_one (S : Finset PrimeIdeal) (a : Ideal O →*₀ ℂ)
+    (ha : ∀ I, ‖a I‖ ≤ 1) : ∀ I, ‖deletePrimes S a I‖ ≤ 1 := by
+  apply CanonicalRowCompletion.primeValueHom_norm_le_one
+  intro I
+  split_ifs
+  · simp only [norm_zero, zero_le_one]
+  · exact ha I
+
+theorem deletePrimes_apply (S : Finset PrimeIdeal) (a : Ideal O →*₀ ℂ) (I : Ideal O) :
+    deletePrimes S a I = if ∀ P ∈ S, ¬P.val ∣ I then a I else 0 := by
+  by_cases ho : ∀ P ∈ S, ¬P.val ∣ I
+  · rw [if_pos ho]
+    by_cases hI : I = 0
+    · subst I
+      rw [map_zero, map_zero]
+    · change (if I = 0 then 0 else
+        ((normalizedFactors I).map (fun J => if J ∈ S.image Subtype.val then 0 else a J)).prod) = a I
+      simp only [hI, ite_false]
+      have hmap : (normalizedFactors I).map (fun J => if J ∈ S.image Subtype.val then 0 else a J) =
+          (normalizedFactors I).map a := by
+        apply Multiset.map_congr rfl
+        intro J hJ
+        have hnot : J ∉ S.image Subtype.val := by
+          intro hmem
+          obtain ⟨P, hP, rfl⟩ := Finset.mem_image.mp hmem
+          exact ho P hP (dvd_of_mem_normalizedFactors hJ)
+        simp only [hnot, ite_false]
+      rw [hmap, ← map_multiset_prod, prod_normalizedFactors_eq hI, normalize_eq]
+  · simp only [ho, ite_false]
+    push Not at ho
+    obtain ⟨P, hPS, J, hJ⟩ := ho
+    rw [hJ, map_mul, deletePrimes_prime]
+    simp only [hPS, ite_true, zero_mul]
+
+theorem deletePrimes_primeSet_apply (M : Ideal O) (hM : M ≠ 0)
+    (a : Ideal O →*₀ ℂ) (I : Ideal O) :
+    deletePrimes (SmoothMobiusCorrection.primeSet M) a I =
+      if IsCoprime I M then a I else 0 := by
+  by_cases hI : I = 0
+  · subst I
+    rw [map_zero, map_zero]
+    exact (ite_self _).symm
+  have heq : (∀ P ∈ SmoothMobiusCorrection.primeSet M, ¬P.val ∣ I) ↔ IsCoprime I M := by
+    rw [← IdealCoprimeSieveOperator.primeSupport_disjoint_iff hI hM]
+    constructor
+    · intro h
+      apply Finset.disjoint_left.mpr
+      intro P hPI hPM
+      have hp : Prime P := IdealMobiusDivisorSum.support_prime hPM
+      exact h ⟨P, hp⟩ (SmoothMobiusCorrection.mem_primeSet M ⟨P, hp⟩ |>.mpr hPM)
+        (dvd_of_mem_normalizedFactors (Multiset.mem_toFinset.mp hPI))
+    · intro h P hPM hPI
+      exact Finset.disjoint_left.mp h
+        (Multiset.mem_toFinset.mpr ((mem_normalizedFactors_iff hI).mpr ⟨P.property, hPI⟩))
+        ((SmoothMobiusCorrection.mem_primeSet M P).mp hPM)
+  simpa only [heq] using deletePrimes_apply (SmoothMobiusCorrection.primeSet M) a I
+
+theorem series_deletePrimes (S : Finset PrimeIdeal) (a : Ideal O →*₀ ℂ)
+    (ha : ∀ I, ‖a I‖ ≤ 1) (s : ℂ) (hs : 1 < s.re) :
+    series (deletePrimes S a) s =
+      series a s * ∏ P ∈ S, (1 - weighted a s P.val) := by
+  have hlocal (P : PrimeIdeal) :
+      (1 - weighted (deletePrimes S a) s P.val)⁻¹ =
+        (1 - weighted a s P.val)⁻¹ * (if P ∈ S then 1 - weighted a s P.val else 1) := by
+    change (1 - deletePrimes S a P.val * normWeight s P.val)⁻¹ = _
+    rw [deletePrimes_prime]
+    by_cases hP : P ∈ S
+    · simp only [hP, ite_true, zero_mul, sub_zero, inv_one]
+      exact (inv_mul_cancel₀ (local_factor_ne_zero a ha s (by linarith) P)).symm
+    · simp only [hP, ite_false, mul_one]
+      rfl
+  have hfinite : Multipliable (fun P : PrimeIdeal => if P ∈ S then 1 - weighted a s P.val else 1) := by
+    apply multipliable_of_hasFiniteMulSupport
+    apply S.finite_toSet.subset
+    intro P hP
+    by_contra hPS
+    change P ∉ S at hPS
+    exact hP (by simp only [hPS, ite_false])
+  rw [series_euler _ (deletePrimes_norm_le_one S a ha) s hs,
+    series_euler a ha s hs]
+  simp_rw [hlocal]
+  rw [(euler_hasProd a ha s hs).multipliable.tprod_mul hfinite]
+  congr 1
+  rw [tprod_eq_prod (s := S) (fun P hP => by simp only [hP, ite_false])]
+  exact Finset.prod_congr rfl (fun P hP => by simp only [hP, ite_true])
+
+theorem series_of_coprime_mask (M : Ideal O) (hM : M ≠ 0)
+    (a b : Ideal O →*₀ ℂ) (hb : ∀ I, ‖b I‖ ≤ 1)
+    (hmask : ∀ I, a I = if IsCoprime I M then b I else 0)
+    (s : ℂ) (hs : 1 < s.re) :
+    series a s = series b s *
+      ∏ P ∈ SmoothMobiusCorrection.primeSet M, (1 - weighted b s P.val) := by
+  have heq : a = deletePrimes (SmoothMobiusCorrection.primeSet M) b := by
+    ext I
+    rw [deletePrimes_primeSet_apply M hM, hmask]
+  rw [heq]
+  exact series_deletePrimes _ b hb s hs
+
+end
+
+end SevenEighths.IdealEuler
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.Boundary
+namespace OAI
+
+namespace SevenEighths.HeckeBoundary
+
+open ActualEisensteinCubic Complex
+open SevenEighths.IdealEuler SevenEighths.IdealCharacter
+open SmoothMobiusCorrection (PrimeIdeal)
+open Asymptotics Filter
+open scoped BigOperators Classical Topology
+
+noncomputable section
+
+theorem summable_neg_log_euler (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) :
+    Summable (fun P : PrimeIdeal => -log (1 - weighted a s P.val)) :=
+  (prime_summable_norm a ha s hs).of_norm.clog_one_sub.neg
+
+theorem exp_log_euler_eq_series (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) :
+    exp (∑' P : PrimeIdeal, -log (1 - weighted a s P.val)) = series a s := by
+  have hp : HasProd (fun P : PrimeIdeal => (1 - weighted a s P.val)⁻¹)
+      (exp (∑' P : PrimeIdeal, -log (1 - weighted a s P.val))) :=
+    (summable_neg_log_euler a ha s hs).hasSum.cexp.congr
+      (fun S => Finset.prod_congr rfl (fun P _ => by
+        simp only [Function.comp_apply]
+        rw [exp_neg, exp_log (local_factor_ne_zero a ha s (by linarith) P)]))
+  exact hp.unique (euler_hasProd a ha s hs)
+
+end
+
+end SevenEighths.HeckeBoundary
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.Theta
+namespace OAI
+
+noncomputable section
+open Filter Asymptotics Set MeasureTheory
+open scoped Topology BigOperators
+namespace SevenEighths.HeckeTheta
+open EisensteinTheta
+
+theorem completed_differentiableAt {N : ℕ} [NeZero N] (w : Fin N × Fin N → ℂ)
+    {s : ℂ} (hs₀ : s ≠ 0) (hs₁ : s ≠ 1) : DifferentiableAt ℂ (completed w) s :=
+  (pair w).differentiableAt_Λ (Or.inl hs₀) (Or.inl (by simpa using hs₁))
+
+theorem completed_differentiableAt_of_mean_zero {N : ℕ} [NeZero N]
+    (w : Fin N × Fin N → ℂ) (hw : ∑ a, w a = 0) {s : ℂ} (hs₀ : s ≠ 0) :
+    DifferentiableAt ℂ (completed w) s :=
+  (pair w).differentiableAt_Λ (Or.inl hs₀) (Or.inr (pair_g₀_eq_zero w hw))
+
+theorem latticeL_differentiableAt {N : ℕ} [NeZero N] (w : Fin N × Fin N → ℂ)
+    {s : ℂ} (hs₀ : s ≠ 0) (hs₁ : s ≠ 1 ∨ ∑ a, w a = 0) :
+    DifferentiableAt ℂ (latticeL w) s := by
+  have hΛ : DifferentiableAt ℂ (completed w) s := by
+    rcases hs₁ with hs₁ | hw
+    · exact completed_differentiableAt w hs₀ hs₁
+    · exact completed_differentiableAt_of_mean_zero w hw hs₀
+  exact (((differentiable_id.const_cpow (Or.inl
+    (Complex.ofReal_ne_zero.mpr Real.pi_ne_zero))).differentiableAt).mul
+      (Complex.differentiable_one_div_Gamma s)).mul hΛ
+
+theorem regularizedCompleted_differentiableAt {N : ℕ} [NeZero N]
+    (w : Fin N × Fin N → ℂ) {s : ℂ} (hs₀ : s ≠ 0) :
+    DifferentiableAt ℂ (regularizedCompleted w) s := by
+  exact (((differentiableAt_id.sub_const 1).mul
+    (((pair w).differentiable_Λ₀ s).sub
+      ((differentiableAt_id.inv hs₀).mul_const (pair w).f₀))).add_const (pair w).g₀)
+
+theorem regularizedCompleted_eq {N : ℕ} [NeZero N] (w : Fin N × Fin N → ℂ)
+    {s : ℂ} (hs₀ : s ≠ 0) (hs₁ : s ≠ 1) :
+    regularizedCompleted w s = (s - 1) * completed w s := by
+  unfold regularizedCompleted completed WeakFEPair.Λ
+  simp only [pair_k, Complex.ofReal_one, show (pair w).ε = 1 from rfl,
+    smul_eq_mul, one_div]
+  have hsub : (1 : ℂ) - s ≠ 0 := sub_ne_zero.mpr hs₁.symm
+  field_simp
+  ring
+
+theorem regularizedLatticeL_differentiableAt {N : ℕ} [NeZero N]
+    (w : Fin N × Fin N → ℂ) {s : ℂ} (hs₀ : s ≠ 0) :
+    DifferentiableAt ℂ (regularizedLatticeL w) s := by
+  exact (((differentiable_id.const_cpow (Or.inl
+    (Complex.ofReal_ne_zero.mpr Real.pi_ne_zero))).differentiableAt).mul
+      (Complex.differentiable_one_div_Gamma s)).mul
+        (regularizedCompleted_differentiableAt w hs₀)
+
+theorem regularizedLatticeL_eq {N : ℕ} [NeZero N] (w : Fin N × Fin N → ℂ)
+    {s : ℂ} (hs₀ : s ≠ 0) (hs₁ : s ≠ 1) :
+    regularizedLatticeL w s = (s - 1) * latticeL w s := by
+  unfold regularizedLatticeL latticeL
+  rw [regularizedCompleted_eq w hs₀ hs₁]
+  ring
+
+end SevenEighths.HeckeTheta
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.Family
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+namespace SevenEighths.HeckeFamily
+
+theorem continuedLattice_differentiableAt (χ : Character) {s : ℂ}
+    (hs₀ : s ≠ 0) (hs₁ : s ≠ 1 ∨ ∑ a, (coefficients χ) a = 0) :
+    DifferentiableAt ℂ (continuedLattice χ) s :=
+  HeckeTheta.latticeL_differentiableAt (coefficients χ) hs₀ hs₁
+
+end SevenEighths.HeckeFamily
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.CharacterAnalytic
+namespace OAI
+
+noncomputable section
+open scoped BigOperators
+namespace SevenEighths.HeckeCharacterAnalytic
+
+theorem continuedLattice_differentiableAt_nonprincipal (χ : HeckeFamily.Character)
+    (hχ : χ.residue ≠ 1) {s : ℂ} (hs₀ : s ≠ 0) :
+    DifferentiableAt ℂ (HeckeFamily.continuedLattice χ) s :=
+  HeckeFamily.continuedLattice_differentiableAt χ hs₀
+    (Or.inr (coefficients_sum_eq_zero χ hχ))
+
+end SevenEighths.HeckeCharacterAnalytic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.IdealBridge
+namespace OAI
+
+noncomputable section
+open scoped BigOperators Classical
+namespace SevenEighths.HeckeFamily
+
+theorem LFunction_differentiableAt (χ : Character) {s : ℂ}
+    (hs₀ : s ≠ 0) (hs₁ : s ≠ 1 ∨ χ.residue ≠ 1) :
+    DifferentiableAt ℂ (LFunction χ) s := by
+  apply DifferentiableAt.div_const
+  rcases hs₁ with hs₁ | hχ
+  · exact continuedLattice_differentiableAt χ hs₀ (Or.inl hs₁)
+  · exact HeckeCharacterAnalytic.continuedLattice_differentiableAt_nonprincipal χ hχ hs₀
+
+end SevenEighths.HeckeFamily
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.IdealOperations
+namespace OAI
+
+noncomputable section
+open scoped Classical
+namespace SevenEighths.HeckeFamily
+
+theorem exists_primitive_character (χ : Character) :
+    ∃ ψ : Character,
+      χ.modulus ≤ ψ.modulus ∧
+      FiniteFourier.IsPrimitiveOnIdeals ψ.residue ∧
+      ψ.modulus.absNorm ≤ χ.modulus.absNorm ∧
+      ∀ I : Ideal O, idealCoeff χ I =
+        if IsCoprime I χ.modulus then idealCoeff ψ I else 0 := by
+  let : Finite (O ⧸ χ.modulus) :=
+    Ring.HasFiniteQuotients.finiteQuotient χ.modulus_ne_bot
+  obtain ⟨M, φ, hφ, hM, hM₀, hprim, hnorm, hmask, _⟩ :=
+    IdealCharacter.exists_primitive_associate χ.modulus χ.residue χ.unit_trivial
+  exact ⟨Character.ofResidue M hM₀ φ hφ, hM, hprim, hnorm, hmask⟩
+
+end SevenEighths.HeckeFamily
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.Reciprocal
+namespace OAI
+
+noncomputable section
+open scoped Classical BigOperators
+namespace SevenEighths.HeckeReciprocal
+open HeckeFamily HeckeCharacterAnalytic HeckeCoordinates
+
+theorem regularizedL_eq (χ : Character) {s : ℂ} (h0 : s ≠ 0) (h1 : s ≠ 1) :
+    regularizedL χ s = (s - 1) * LFunction χ s := by
+  unfold regularizedL LFunction continuedLattice
+  rw [HeckeTheta.regularizedLatticeL_eq _ h0 h1]
+  ring
+
+theorem regularizedL_differentiableAt (χ : Character) {s : ℂ} (h0 : s ≠ 0) :
+    DifferentiableAt ℂ (regularizedL χ) s :=
+  (HeckeTheta.regularizedLatticeL_differentiableAt _ h0).div_const 6
+
+end SevenEighths.HeckeReciprocal
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.FiniteDeletion
+namespace OAI
+
+noncomputable section
+open scoped Classical BigOperators
+namespace SevenEighths.HeckeFiniteDeletion
+open HeckeFamily HeckeReciprocal
+
+theorem factors_eq (M : Ideal O) (ψ : Character) (s : ℂ) :
+    factors M ψ s = ∏ P ∈ SmoothMobiusCorrection.primeSet M,
+      (1 - IdealEuler.weighted (idealCoeff ψ) s P.val) := by
+  apply Finset.prod_congr rfl
+  intro P _
+  simp only [EulerFactors.factor, IdealEuler.weighted, MonoidWithZeroHom.coe_mk,
+    ZeroHom.coe_mk, IdealEuler.normWeight, CubicEisenstein.fullIdealWeight,
+    P.property.ne_zero, ite_false, Complex.ofReal_natCast]
+
+theorem factors_differentiable (M : Ideal O) (ψ : Character) :
+    Differentiable ℂ (factors M ψ) := by
+  apply EulerFactors.differentiable_deletedProduct
+  intro P _
+  have h := SmoothMobiusCorrection.prime_norm_two_le P
+  exact_mod_cast (by omega : 0 < Ideal.absNorm P.val)
+
+theorem factors_ne_zero (M : Ideal O) (ψ : Character) {s : ℂ} (hs : 0 < s.re) :
+    factors M ψ s ≠ 0 := by
+  apply EulerFactors.deletedProduct_ne_zero _ _ _ _ _ hs
+  · intro P _
+    have h := SmoothMobiusCorrection.prime_norm_two_le P
+    exact_mod_cast (by omega : 1 < Ideal.absNorm P.val)
+  · intro P _
+    exact idealCoeff_norm_le_one ψ P.val
+
+theorem LFunction_eq_of_mask_right (χ ψ : Character)
+    (hmask : ∀ I : Ideal O, idealCoeff χ I =
+      if IsCoprime I χ.modulus then idealCoeff ψ I else 0)
+    {s : ℂ} (hs : 1 < s.re) :
+    LFunction χ s = LFunction ψ s * factors χ.modulus ψ s := by
+  rw [LFunction_eq_series χ hs, LFunction_eq_series ψ hs, factors_eq]
+  exact IdealEuler.series_of_coprime_mask χ.modulus χ.modulus_ne_bot
+    _ _ (idealCoeff_norm_le_one ψ) hmask s hs
+
+theorem regularizedL_analytic (χ : Character) :
+    AnalyticOnNhd ℂ (regularizedL χ) {s : ℂ | 0 < s.re} := by
+  apply (Complex.analyticOnNhd_iff_differentiableOn (Complex.isOpen_re_gt 0)).2
+  intro s hs
+  exact (regularizedL_differentiableAt χ (by intro h; simp [h] at hs)).differentiableWithinAt
+
+theorem regularizedL_eq_of_mask (χ ψ : Character)
+    (hmask : ∀ I : Ideal O, idealCoeff χ I =
+      if IsCoprime I χ.modulus then idealCoeff ψ I else 0)
+    {s : ℂ} (hs : 0 < s.re) :
+    regularizedL χ s = regularizedL ψ s * factors χ.modulus ψ s := by
+  have hf : AnalyticOnNhd ℂ (factors χ.modulus ψ) {z : ℂ | 0 < z.re} := by
+    apply (Complex.analyticOnNhd_iff_differentiableOn (Complex.isOpen_re_gt 0)).2
+    exact (factors_differentiable _ _).differentiableOn
+  apply Eq.symm
+  apply Continuation.product_identity_on_halfPlane 0 1
+    (regularizedL ψ) (factors χ.modulus ψ) (regularizedL χ)
+    (regularizedL_analytic ψ) hf (regularizedL_analytic χ) _ hs
+  intro z hz
+  have hz' : 1 < z.re := by simpa using hz
+  have h0 : z ≠ 0 := by intro h; norm_num [h] at hz'
+  have h1 : z ≠ 1 := by intro h; norm_num [h] at hz'
+  rw [regularizedL_eq χ h0 h1, regularizedL_eq ψ h0 h1,
+    LFunction_eq_of_mask_right χ ψ hmask hz']
+  ring
+
+theorem regularizedL_one_ne_zero_iff (χ : Character) :
+    regularizedL χ 1 ≠ 0 ↔ χ.residue = 1 := by
+  constructor
+  · intro h
+    by_contra hχ
+    rw [regularizedL_at_one,
+      HeckeTheta.pair_g₀_eq_zero _ (HeckeCharacterAnalytic.coefficients_sum_eq_zero χ hχ),
+      mul_zero, zero_div] at h
+    exact h rfl
+  · exact regularizedL_ne_zero_at_one χ
+
+theorem principal_iff_of_mask (χ ψ : Character)
+    (hmask : ∀ I : Ideal O, idealCoeff χ I =
+      if IsCoprime I χ.modulus then idealCoeff ψ I else 0) :
+    χ.residue = 1 ↔ ψ.residue = 1 := by
+  rw [← regularizedL_one_ne_zero_iff χ, ← regularizedL_one_ne_zero_iff ψ,
+    regularizedL_eq_of_mask χ ψ hmask (by norm_num : 0 < (1 : ℂ).re),
+    mul_ne_zero_iff, and_iff_left (factors_ne_zero χ.modulus ψ (by norm_num))]
+
+theorem LFunction_eq_of_mask_nonprincipal (χ ψ : Character)
+    (hmask : ∀ I : Ideal O, idealCoeff χ I =
+      if IsCoprime I χ.modulus then idealCoeff ψ I else 0)
+    (hχ : χ.residue ≠ 1) {s : ℂ} (hs : 0 < s.re) :
+    LFunction χ s = LFunction ψ s * factors χ.modulus ψ s := by
+  have hψ : ψ.residue ≠ 1 := fun h => hχ ((principal_iff_of_mask χ ψ hmask).mpr h)
+  have ha (η : Character) (hη : η.residue ≠ 1) :
+      AnalyticOnNhd ℂ (LFunction η) {z : ℂ | 0 < z.re} := by
+    apply (Complex.analyticOnNhd_iff_differentiableOn (Complex.isOpen_re_gt 0)).2
+    intro z hz
+    exact (LFunction_differentiableAt η (by intro h; simp [h] at hz)
+      (Or.inr hη)).differentiableWithinAt
+  have hf : AnalyticOnNhd ℂ (factors χ.modulus ψ) {z : ℂ | 0 < z.re} := by
+    apply (Complex.analyticOnNhd_iff_differentiableOn (Complex.isOpen_re_gt 0)).2
+    exact (factors_differentiable _ _).differentiableOn
+  apply Eq.symm
+  apply Continuation.product_identity_on_halfPlane 0 1
+    (LFunction ψ) (factors χ.modulus ψ) (LFunction χ) (ha ψ hψ) hf (ha χ hχ) _ hs
+  intro z hz
+  exact (LFunction_eq_of_mask_right χ ψ hmask (by simpa using hz)).symm
+
+end SevenEighths.HeckeFiniteDeletion
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.DeletionBounds
+namespace OAI
+
+noncomputable section
+open scoped Classical BigOperators
+namespace SevenEighths.HeckeDeletionBounds
+open HeckeFamily
+
+theorem localBound_pos {σ : ℝ} (hσ : 0 < σ) : 0 < localBound σ := by
+  unfold localBound
+  exact inv_pos.mpr (sub_pos.mpr (Real.rpow_lt_one_of_one_lt_of_neg (by norm_num) (by linarith)))
+
+theorem term_bound {σ N : ℝ} (hσ : 0 < σ) (hN : 2 ≤ N)
+    {a s : ℂ} (ha : ‖a‖ ≤ 1) (hs : σ ≤ s.re) :
+    ‖a*(N : ℂ)^(-s)‖ ≤ (2 : ℝ)^(-σ) := by
+  rw [norm_mul, Complex.norm_cpow_eq_rpow_re_of_pos (by linarith : 0 < N), Complex.neg_re]
+  apply (mul_le_of_le_one_left (Real.rpow_nonneg (by linarith) _) ha).trans
+  apply (Real.rpow_le_rpow_of_exponent_le (by linarith : 1 ≤ N) (by linarith : -s.re ≤ -σ)).trans
+  exact Real.rpow_le_rpow_of_nonpos (by norm_num) hN (by linarith)
+
+theorem factor_bounds {σ N : ℝ} (hσ : 0 < σ) (hN : 2 ≤ N)
+    {a s : ℂ} (ha : ‖a‖ ≤ 1) (hs : σ ≤ s.re) :
+    ‖EulerFactors.factor N a s‖ ≤ localBound σ ∧
+      ‖(EulerFactors.factor N a s)⁻¹‖ ≤ localBound σ := by
+  have hδ : (2 : ℝ)^(-σ) < 1 := Real.rpow_lt_one_of_one_lt_of_neg (by norm_num) (by linarith)
+  have hδ0 : 0 ≤ (2 : ℝ)^(-σ) := Real.rpow_nonneg (by norm_num) _
+  have ht := term_bound hσ hN ha hs
+  have hl : 1-(2 : ℝ)^(-σ) ≤ ‖EulerFactors.factor N a s‖ := by
+    have hh := norm_sub_le (1-a*(N : ℂ)^(-s)) (-a*(N : ℂ)^(-s))
+    have he : (1-a*(N : ℂ)^(-s))-(-a*(N : ℂ)^(-s)) = 1 := by ring
+    rw [he, norm_one, neg_mul, norm_neg] at hh
+    change 1-(2 : ℝ)^(-σ) ≤ ‖1-a*(N : ℂ)^(-s)‖
+    linarith
+  constructor
+  · apply (norm_sub_le _ _).trans
+    rw [norm_one]
+    apply (add_le_add (le_refl 1) ht).trans
+    unfold localBound
+    rw [inv_eq_one_div]
+    apply (le_div_iff₀ (by linarith : 0 < 1-(2 : ℝ)^(-σ))).mpr
+    nlinarith [sq_nonneg ((2 : ℝ)^(-σ))]
+  · rw [norm_inv]
+    exact (inv_le_inv₀ (by linarith : 0 < ‖EulerFactors.factor N a s‖)
+      (by linarith : 0 < 1-(2 : ℝ)^(-σ))).mpr hl
+
+theorem radical_ne_zero (M : Ideal O) : radical M ≠ 0 :=
+  SmoothMobiusCorrection.primeProduct_ne_zero _
+
+end SevenEighths.HeckeDeletionBounds
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.DeletionDerivative
+namespace OAI
+
+noncomputable section
+open scoped Classical BigOperators
+namespace SevenEighths.HeckeDeletionDerivative
+open HeckeFamily HeckeDeletionBounds
+
+theorem factor_deriv {N : ℝ} (hN : 0 < N) (a s : ℂ) :
+    deriv (EulerFactors.factor N a) s = a*(N : ℂ)^(-s)*Complex.log (N : ℂ) := by
+  have h := (hasDerivAt_const s (1 : ℂ)).sub
+    (((hasDerivAt_id s).neg.const_cpow (Or.inl (Complex.ofReal_ne_zero.mpr hN.ne'))).const_mul a)
+  have h' : HasDerivAt (EulerFactors.factor N a)
+      (a*(N : ℂ)^(-s)*Complex.log (N : ℂ)) s := by
+    convert (preTransparency := .instances) h using 1
+    · funext z
+      rfl
+    · dsimp
+      ring
+  exact h'.deriv
+
+theorem factor_logDeriv_norm {σ N : ℝ} (hσ : 0 < σ) (hN : 2 ≤ N)
+    {a s : ℂ} (ha : ‖a‖ ≤ 1) (hs : σ ≤ s.re) :
+    ‖logDeriv (EulerFactors.factor N a) s‖ ≤ localBound σ * Real.log N := by
+  have hn0 : 0 < N := by linarith
+  have hl : 0 ≤ Real.log N := Real.log_nonneg (by linarith)
+  have ht := term_bound hσ hN ha hs
+  have hδ : (2 : ℝ)^(-σ) ≤ 1 :=
+    (Real.rpow_lt_one_of_one_lt_of_neg (by norm_num) (by linarith)).le
+  have hf := (factor_bounds hσ hN ha hs).2
+  rw [logDeriv_apply, factor_deriv hn0, div_eq_mul_inv, norm_mul, norm_mul,
+    ← Complex.ofReal_log hn0.le, Complex.norm_real, Real.norm_eq_abs, abs_of_nonneg hl]
+  have hterm : ‖a*(N : ℂ)^(-s)‖ ≤ 1 := ht.trans hδ
+  calc
+    _ ≤ (1*Real.log N)*localBound σ := by gcongr
+    _ = _ := by ring
+
+theorem factors_logDeriv_norm (σ : ℝ) (hσ : 0 < σ) (M : Ideal O)
+    (ψ : Character) {s : ℂ} (hs : σ ≤ s.re) :
+    ‖logDeriv (HeckeFiniteDeletion.factors M ψ) s‖ ≤
+      localBound σ * Real.log ((radical M).absNorm : ℝ) := by
+  have hp0 (P : SmoothMobiusCorrection.PrimeIdeal) : 0 < (P.val.absNorm : ℝ) := by
+    have h := SmoothMobiusCorrection.prime_norm_two_le P
+    exact_mod_cast (by omega : 0 < P.val.absNorm)
+  have hp2 (P : SmoothMobiusCorrection.PrimeIdeal) : 2 ≤ (P.val.absNorm : ℝ) := by
+    exact_mod_cast SmoothMobiusCorrection.prime_norm_two_le P
+  have he : logDeriv (HeckeFiniteDeletion.factors M ψ) s =
+      ∑ P ∈ SmoothMobiusCorrection.primeSet M,
+        logDeriv (EulerFactors.factor (P.val.absNorm : ℝ) (idealCoeff ψ P.val)) s := by
+    apply logDeriv_prod
+    · intro P _
+      exact EulerFactors.factor_ne_zero (by linarith [hp2 P]) (idealCoeff_norm_le_one ψ P.val)
+        (hσ.trans_le hs)
+    · intro P _
+      exact EulerFactors.differentiable_factor (hp0 P) _ s
+  rw [he]
+  apply (norm_sum_le _ _).trans
+  calc
+    _ ≤ ∑ P ∈ SmoothMobiusCorrection.primeSet M, localBound σ*Real.log (P.val.absNorm : ℝ) := by
+      apply Finset.sum_le_sum
+      intro P _
+      exact factor_logDeriv_norm hσ (hp2 P) (idealCoeff_norm_le_one ψ P.val) hs
+    _ = localBound σ * Real.log ((radical M).absNorm : ℝ) := by
+      rw [← Finset.mul_sum, ← Real.log_prod (fun P _ => (hp0 P).ne')]
+      simp only [radical, SmoothMobiusCorrection.primeProduct, map_prod, Nat.cast_prod]
+
+end SevenEighths.HeckeDeletionDerivative
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.DetectorZeros
+namespace OAI
+
+noncomputable section
+open Set Filter
+open scoped Classical Topology
+namespace SevenEighths.HeckeDetectorZeros
+open HeckeFamily
+
+variable {ι : Type*} [Fintype ι]
+
+theorem zero_re_le_maximum (χ : ι → Character) (hχ : ∀ i, (χ i).residue ≠ 1)
+    (T : ℝ) (i : ι) {s : ℂ} (hs : (51/100 : ℝ) ≤ s.re)
+    (ht : |s.im| ≤ T) (hz : LFunction (χ i) s = 0) : s.re ≤ zeroMaximum χ hχ T := by
+  have hle : s.re ≤ 1 := by
+    by_contra hn
+    exact LFunction_ne_zero_of_one_lt_re (χ i) (lt_of_not_ge hn) hz
+  apply Finset.le_max'
+  exact Finset.mem_insert_of_mem (Finset.mem_image.mpr
+    ⟨(i,s), (mem_familyZeros χ hχ T i s).mpr ⟨hs, hle, ht, hz⟩, rfl⟩)
+
+theorem nonzero_on_buffered_disk (χ : ι → Character) (hχ : ∀ j, (χ j).residue ≠ 1)
+    (T a e : ℝ) (i : ℕ) (hT : 2 < T) (ha : (51/100 : ℝ) ≤ a) (he : 0 < e)
+    (hmax : zeroMaximum χ hχ (3*(i+1 : ℕ)*T) < a+2*e)
+    (j : ι) (t : ℝ) (ht : |t| ≤ (3*i+2 : ℕ)*T)
+    {s : ℂ} (hs : s ∈ Metric.closedBall ((2 : ℂ)+t*Complex.I) (2-a-2*e)) :
+    LFunction (χ j) s ≠ 0 := by
+  have hn : ‖s-((2 : ℂ)+t*Complex.I)‖ ≤ 2-a-2*e := by
+    simpa only [Metric.mem_closedBall, dist_eq_norm] using hs
+  have hr := Complex.abs_re_le_norm (s-((2 : ℂ)+t*Complex.I))
+  have hi := Complex.abs_im_le_norm (s-((2 : ℂ)+t*Complex.I))
+  norm_num at hr hi
+  have hre : a+2*e ≤ s.re := by linarith [(abs_le.mp (hr.trans hn)).1]
+  have him : |s.im| ≤ 3*(i+1 : ℕ)*T := by
+    have ht' := abs_add_le (s.im-t) t
+    rw [sub_add_cancel] at ht'
+    push_cast at ht ⊢
+    nlinarith [hi.trans hn]
+  intro hz
+  have hle := zero_re_le_maximum χ hχ (3*(i+1 : ℕ)*T) j (by linarith) him hz
+  linarith
+
+end SevenEighths.HeckeDetectorZeros
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.Dyadic
+namespace OAI
+
+noncomputable section
+open scoped Classical BigOperators Topology
+open MeasureTheory Set
+namespace SevenEighths.HeckeDyadic
+open HeckeFamily
+
+theorem norm_pos (I : NonzeroIdeal) : 0 < norm I := by
+  unfold norm
+  exact_mod_cast Nat.pos_iff_ne_zero.mpr (Ideal.absNorm_eq_zero_iff.not.mpr I.property)
+
+end SevenEighths.HeckeDyadic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.LogarithmicControl
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology
+open Set Filter Metric Complex
+
+namespace SevenEighths.LogarithmicControl
+
+theorem conductor_height_scale_ge_exp (Q t : ℝ) (hQ : 1 ≤ Q) :
+    Real.exp 1 ≤ 2 * Q * (3 + |t|) ^ 2 := by
+  have hs : 9 ≤ (3 + |t|) ^ 2 := by nlinarith [abs_nonneg t]
+  have hq := mul_le_mul_of_nonneg_right hQ (sq_nonneg (3 + |t|))
+  nlinarith [Real.exp_one_lt_three]
+
+theorem disk_re_gt {a e t : ℝ} {z : ℂ}
+    (hz : z ∈ ball (2 + (t : ℂ) * Complex.I) (2 - a - 2 * e)) :
+    a + 2 * e < z.re := by
+  have hn : ‖z - (2 + (t : ℂ) * Complex.I)‖ < 2 - a - 2 * e := by
+    simpa [mem_ball, dist_eq_norm] using hz
+  have hr := Complex.abs_re_le_norm (z - (2 + (t : ℂ) * Complex.I))
+  simp only [Complex.sub_re, Complex.add_re, Complex.mul_re,
+    Complex.ofReal_re, Complex.I_re, mul_zero, Complex.ofReal_im,
+    Complex.I_im, zero_mul, sub_zero, add_zero] at hr
+  norm_num at hr
+  linarith [neg_le_abs (z.re - 2)]
+
+end SevenEighths.LogarithmicControl
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.EulerLog
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology BigOperators
+open Set Metric Filter Complex ActualEisensteinCubic
+open SevenEighths.IdealEuler SevenEighths.IdealCharacter
+open SmoothMobiusCorrection (PrimeIdeal)
+
+namespace SevenEighths.HeckeEulerLog
+
+theorem majorant_summable {σ : ℝ} (hσ : 1 < σ) : Summable (majorant σ) := by
+  have h := (SmoothMobiusCorrection.prime_norm_series_summable (σ - 1)
+    (by linarith)).mul_left (3 / 2)
+  convert (preTransparency := .instances) h using 1
+  ext P
+  unfold majorant
+  congr 2
+  ring
+
+theorem weighted_norm_le (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (P : PrimeIdeal) {s : ℂ} {σ : ℝ} (hs : σ ≤ s.re) :
+    ‖weighted a s P.val‖ ≤ (Ideal.absNorm P.val : ℝ) ^ (-σ) := by
+  change ‖a P.val * CubicEisenstein.fullIdealWeight s P.val‖ ≤ _
+  simp only [CubicEisenstein.fullIdealWeight, P.property.ne_zero, ite_false, norm_mul]
+  change ‖a P.val‖ * ‖SmoothMobiusCorrection.primeNormPower P s‖ ≤ _
+  rw [SmoothMobiusCorrection.norm_primeNormPower]
+  have hn : (1 : ℝ) ≤ Ideal.absNorm P.val := by
+    exact_mod_cast (show 1 ≤ Ideal.absNorm P.val from
+      (by have := SmoothMobiusCorrection.prime_norm_two_le P; omega))
+  exact (mul_le_of_le_one_left (by positivity) (ha _)).trans
+    (Real.rpow_le_rpow_of_exponent_le hn (neg_le_neg hs))
+
+theorem weighted_norm_le_half (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (P : PrimeIdeal) {s : ℂ} (hs : 1 ≤ s.re) : ‖weighted a s P.val‖ ≤ 1 / 2 := by
+  refine (weighted_norm_le a ha P hs).trans ?_
+  rw [Real.rpow_neg_one]
+  have hn : (2 : ℝ) ≤ Ideal.absNorm P.val := by
+    exact_mod_cast SmoothMobiusCorrection.prime_norm_two_le P
+  exact inv_le_of_inv_le₀ (by norm_num) (by norm_num at *; exact hn)
+
+theorem log_factor_norm_le (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (P : PrimeIdeal) {s : ℂ} {σ : ℝ} (hσ : 1 ≤ σ) (hs : σ ≤ s.re) :
+    ‖-Complex.log (1 - weighted a s P.val)‖ ≤ majorant σ P := by
+  have hhalf := weighted_norm_le_half a ha P (hσ.trans hs)
+  have h := Complex.norm_log_one_add_half_le_self
+    (z := -weighted a s P.val) (by simpa using hhalf)
+  simp only [norm_neg, ← sub_eq_add_neg] at h ⊢
+  exact h.trans (mul_le_mul_of_nonneg_left (weighted_norm_le a ha P hs) (by norm_num))
+
+theorem weighted_differentiable (a : Ideal O →*₀ ℂ) (P : PrimeIdeal) :
+    Differentiable ℂ (fun s ↦ weighted a s P.val) := by
+  have hn : (Ideal.absNorm P.val : ℂ) ≠ 0 := by
+    exact_mod_cast (SmoothMobiusCorrection.prime_norm_pos P).ne'
+  change Differentiable ℂ (fun s ↦ a P.val * CubicEisenstein.fullIdealWeight s P.val)
+  simp only [CubicEisenstein.fullIdealWeight, P.property.ne_zero, ite_false]
+  exact (differentiable_id.neg.const_cpow (Or.inl hn)).const_mul _
+
+theorem log_factor_differentiableOn (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (P : PrimeIdeal) :
+    DifferentiableOn ℂ (fun s ↦ -Complex.log (1 - weighted a s P.val)) {s : ℂ | 1 < s.re} := by
+  intro s hs
+  change 1 < s.re at hs
+  have hn := prime_norm_lt_one a ha s (by linarith : 0 < s.re) P
+  have hslit : 1 - weighted a s P.val ∈ Complex.slitPlane := by
+    simpa only [sub_eq_add_neg] using Complex.mem_slitPlane_of_norm_lt_one
+      (z := -weighted a s P.val) (by simpa using hn)
+  exact ((Complex.differentiableAt_log hslit).comp s
+    ((differentiableAt_const (1 : ℂ)).sub (weighted_differentiable a P s))).neg.differentiableWithinAt
+
+theorem eulerLog_differentiableOn_halfplane (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    {σ : ℝ} (hσ : 1 < σ) : DifferentiableOn ℂ (eulerLog a) {s : ℂ | σ < s.re} := by
+  apply Complex.differentiableOn_tsum_of_summable_norm (majorant_summable hσ)
+  · intro P
+    exact (log_factor_differentiableOn a ha P).mono (fun s hs ↦ hσ.trans hs)
+  · exact isOpen_lt continuous_const Complex.continuous_re
+  · intro P s hs
+    exact log_factor_norm_le a ha P hσ.le hs.le
+
+theorem eulerLog_differentiableOn (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1) :
+    DifferentiableOn ℂ (eulerLog a) {s : ℂ | 1 < s.re} := by
+  intro s hs
+  change 1 < s.re at hs
+  have hσ : 1 < (1 + s.re) / 2 := by linarith
+  have hmem : s ∈ {w : ℂ | (1 + s.re) / 2 < w.re} := by dsimp; linarith
+  exact ((eulerLog_differentiableOn_halfplane a ha hσ s hmem).differentiableAt
+    ((isOpen_lt continuous_const Complex.continuous_re).mem_nhds hmem)).differentiableWithinAt
+
+theorem exp_eulerLog_eq_series (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (s : ℂ) (hs : 1 < s.re) : Complex.exp (eulerLog a s) = series a s :=
+  SevenEighths.HeckeBoundary.exp_log_euler_eq_series a ha s hs
+
+theorem eulerLogBound_ge_one : 1 ≤ eulerLogBound := by
+  unfold eulerLogBound
+  have h : 0 ≤ ∑' P : PrimeIdeal, majorant (3 / 2) P :=
+    tsum_nonneg (fun P ↦ by unfold majorant; positivity)
+  linarith
+
+theorem eulerLog_norm_le (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    {s : ℂ} (hs : 3 / 2 ≤ s.re) : ‖eulerLog a s‖ ≤ eulerLogBound := by
+  have hb : ∀ P : PrimeIdeal, ‖-Complex.log (1 - weighted a s P.val)‖ ≤ majorant (3 / 2) P :=
+    fun P ↦ log_factor_norm_le a ha P (by norm_num) hs
+  have hsum := majorant_summable (by norm_num : (1 : ℝ) < 3 / 2)
+  have hnorm : Summable (fun P : PrimeIdeal ↦ ‖-Complex.log (1 - weighted a s P.val)‖) :=
+    hsum.of_nonneg_of_le (fun _ ↦ norm_nonneg _) hb
+  calc
+    ‖eulerLog a s‖ ≤ ∑' P : PrimeIdeal, ‖-Complex.log (1 - weighted a s P.val)‖ :=
+      norm_tsum_le_tsum_norm hnorm
+    _ ≤ ∑' P : PrimeIdeal, majorant (3 / 2) P := hnorm.tsum_le_tsum hb hsum
+    _ ≤ eulerLogBound := by unfold eulerLogBound; linarith
+
+theorem inner_disk_re {t : ℝ} {s : ℂ}
+    (hs : s ∈ closedBall (2 + (t : ℂ) * Complex.I) (1 / 2)) : 3 / 2 ≤ s.re := by
+  have hn : ‖(2 + (t : ℂ) * Complex.I) - s‖ ≤ 1 / 2 := by
+    simpa only [mem_closedBall, dist_eq_norm, norm_sub_rev] using hs
+  have hr := Complex.re_le_norm ((2 + (t : ℂ) * Complex.I) - s)
+  norm_num at hr
+  linarith
+
+theorem eulerLog_inner_disk (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1) (t : ℝ) :
+    DifferentiableOn ℂ (eulerLog a) (ball (2 + (t : ℂ) * Complex.I) (1 / 2)) ∧
+      EqOn (Complex.exp ∘ eulerLog a) (series a)
+        (ball (2 + (t : ℂ) * Complex.I) (1 / 2)) ∧
+      ∀ s ∈ closedBall (2 + (t : ℂ) * Complex.I) (49 / 100),
+        ‖eulerLog a s‖ ≤ eulerLogBound := by
+  have hsub : ball (2 + (t : ℂ) * Complex.I) (1 / 2) ⊆ {s : ℂ | 1 < s.re} := by
+    intro s hs
+    have := inner_disk_re (ball_subset_closedBall hs)
+    change 1 < s.re
+    linarith
+  refine ⟨(eulerLog_differentiableOn a ha).mono hsub, ?_, ?_⟩
+  · intro s hs
+    exact exp_eulerLog_eq_series a ha s (hsub hs)
+  · intro s hs
+    exact eulerLog_norm_le a ha (inner_disk_re (closedBall_subset_closedBall (by norm_num) hs))
+
+theorem continued_inner_disk (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (L : ℂ → ℂ) (hL : ∀ s : ℂ, 1 < s.re → L s = series a s) (t : ℝ) :
+    DifferentiableOn ℂ (eulerLog a) (ball (2 + (t : ℂ) * Complex.I) (1 / 2)) ∧
+      EqOn (Complex.exp ∘ eulerLog a) L (ball (2 + (t : ℂ) * Complex.I) (1 / 2)) ∧
+      ∀ s ∈ closedBall (2 + (t : ℂ) * Complex.I) (49 / 100),
+        ‖eulerLog a s‖ ≤ eulerLogBound := by
+  obtain ⟨hd, he, hb⟩ := eulerLog_inner_disk a ha t
+  refine ⟨hd, ?_, hb⟩
+  intro s hs
+  have hr := inner_disk_re (ball_subset_closedBall hs)
+  exact (he hs).trans (hL s (by linarith)).symm
+
+theorem norm_two_div_add_one_lt_one {s : ℂ} (hs : 1 < s.re) :
+    ‖(2 : ℂ) / (s + 1)‖ < 1 := by
+  have hr := Complex.re_le_norm (s + 1)
+  norm_num at hr
+  have hn : 0 < ‖s + 1‖ := by linarith
+  rw [norm_div]
+  norm_num only [Complex.norm_ofNat]
+  exact (div_lt_one hn).mpr (by linarith)
+
+theorem norm_two_div_add_one_le {s : ℂ} (hs : 3 / 2 ≤ s.re) :
+    ‖(2 : ℂ) / (s + 1)‖ ≤ 4 / 5 := by
+  have hr := Complex.re_le_norm (s + 1)
+  norm_num at hr
+  have hn : 0 < ‖s + 1‖ := by linarith
+  rw [norm_div]
+  norm_num only [Complex.norm_ofNat]
+  exact (div_le_iff₀ hn).mpr (by linarith)
+
+theorem principalLog_differentiableOn :
+    DifferentiableOn ℂ principalLog {s : ℂ | 1 < s.re} := by
+  intro s hs
+  change 1 < s.re at hs
+  have hnorm := norm_two_div_add_one_lt_one hs
+  have hslit : 1 - (2 : ℂ) / (s + 1) ∈ Complex.slitPlane := by
+    simpa only [sub_eq_add_neg, neg_div] using Complex.mem_slitPlane_of_norm_lt_one
+      (z := -(2 : ℂ) / (s + 1)) (by simpa using hnorm)
+  have hs1 : s + 1 ≠ 0 := by
+    intro h
+    have hre := congrArg Complex.re h
+    norm_num at hre
+    linarith
+  exact ((Complex.differentiableAt_log hslit).comp s
+    ((differentiableAt_const (1 : ℂ)).sub ((differentiableAt_const (2 : ℂ)).div
+      (differentiableAt_id.add_const 1) hs1))).differentiableWithinAt
+
+theorem exp_principalLog {s : ℂ} (hs : 1 < s.re) :
+    Complex.exp (principalLog s) = (s - 1) / (s + 1) := by
+  have hs1 : s + 1 ≠ 0 := by
+    intro h
+    have hre := congrArg Complex.re h
+    norm_num at hre
+    linarith
+  rw [principalLog, Complex.exp_log (SmoothMobiusCorrection.one_sub_ne_zero
+    (norm_two_div_add_one_lt_one hs))]
+  field_simp
+  ring
+
+theorem principalLog_norm_le {s : ℂ} (hs : 3 / 2 ≤ s.re) : ‖principalLog s‖ ≤ 3 := by
+  have hb := norm_two_div_add_one_le hs
+  have hlt : ‖-(2 : ℂ) / (s + 1)‖ < 1 := by simpa using hb.trans_lt (by norm_num : (4 : ℝ) / 5 < 1)
+  have h := Complex.norm_log_one_add_le hlt
+  have hn : ‖-(2 : ℂ) / (s + 1)‖ = ‖(2 : ℂ) / (s + 1)‖ := by simp
+  rw [hn] at h
+  have heq : 1 + -(2 : ℂ) / (s + 1) = 1 - 2 / (s + 1) := by ring
+  rw [heq] at h
+  change ‖principalLog s‖ ≤ _ at h
+  have hden : 0 < 1 - ‖(2 : ℂ) / (s + 1)‖ := by linarith
+  have hinv : (1 - ‖(2 : ℂ) / (s + 1)‖)⁻¹ ≤ 5 := by
+    rw [inv_eq_one_div, div_le_iff₀ hden]
+    linarith
+  have hnorm := norm_nonneg ((2 : ℂ) / (s + 1))
+  have hsq : ‖(2 : ℂ) / (s + 1)‖ ^ 2 ≤ 16 / 25 := by nlinarith
+  have hmul := mul_le_mul hsq hinv (inv_nonneg.mpr hden.le) (by norm_num : (0 : ℝ) ≤ 16 / 25)
+  nlinarith
+
+theorem principalEulerLog_differentiableOn (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1) :
+    DifferentiableOn ℂ (principalEulerLog a) {s : ℂ | 1 < s.re} :=
+  principalLog_differentiableOn.add (eulerLog_differentiableOn a ha)
+
+theorem exp_principalEulerLog (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    {s : ℂ} (hs : 1 < s.re) :
+    Complex.exp (principalEulerLog a s) = ((s - 1) / (s + 1)) * series a s := by
+  rw [principalEulerLog, Complex.exp_add, exp_principalLog hs, exp_eulerLog_eq_series a ha s hs]
+
+theorem principalEulerLog_norm_le (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    {s : ℂ} (hs : 3 / 2 ≤ s.re) : ‖principalEulerLog a s‖ ≤ 3 + eulerLogBound :=
+  (norm_add_le _ _).trans (add_le_add (principalLog_norm_le hs) (eulerLog_norm_le a ha hs))
+
+theorem principal_continued_inner_disk (a : Ideal O →*₀ ℂ) (ha : ∀ I, ‖a I‖ ≤ 1)
+    (L : ℂ → ℂ)
+    (hL : ∀ s : ℂ, 1 < s.re → L s = ((s - 1) / (s + 1)) * series a s) (t : ℝ) :
+    DifferentiableOn ℂ (principalEulerLog a) (ball (2 + (t : ℂ) * Complex.I) (1 / 2)) ∧
+      EqOn (Complex.exp ∘ principalEulerLog a) L
+        (ball (2 + (t : ℂ) * Complex.I) (1 / 2)) ∧
+      ∀ s ∈ closedBall (2 + (t : ℂ) * Complex.I) (49 / 100),
+        ‖principalEulerLog a s‖ ≤ 3 + eulerLogBound := by
+  have hsub : ball (2 + (t : ℂ) * Complex.I) (1 / 2) ⊆ {s : ℂ | 1 < s.re} := by
+    intro s hs
+    have := inner_disk_re (ball_subset_closedBall hs)
+    change 1 < s.re
+    linarith
+  refine ⟨(principalEulerLog_differentiableOn a ha).mono hsub, ?_, ?_⟩
+  · intro s hs
+    exact (exp_principalEulerLog a ha (hsub hs)).trans (hL s (hsub hs)).symm
+  · intro s hs
+    exact principalEulerLog_norm_le a ha
+      (inner_disk_re (closedBall_subset_closedBall (by norm_num) hs))
+
+end SevenEighths.HeckeEulerLog
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.LogarithmicInput
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology
+open Set
+namespace SevenEighths.HeckeLogarithmicInput
+open HeckeFamily
+
+theorem regular_eq_nonprincipal (η : Character) (hη : η.residue ≠ 1) :
+    regular η = LFunction η := by funext s; simp [regular, hη]
+
+theorem modulus_norm_ge_one (η : Character) : 1 ≤ (η.modulus.absNorm : ℝ) := by
+  exact_mod_cast Nat.one_le_iff_ne_zero.mpr
+    (Ideal.absNorm_eq_zero_iff.not.mpr η.modulus_ne_bot)
+
+end SevenEighths.HeckeLogarithmicInput
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.Logarithmic
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology
+open Set Metric
+namespace SevenEighths.HeckeLogarithmic
+open HeckeFamily HeckeLogarithmicInput
+
+theorem complexity_ge_exp (η : Character) (t : ℝ) : Real.exp 1 ≤ complexity η t :=
+  LogarithmicControl.conductor_height_scale_ge_exp _ t (modulus_norm_ge_one η)
+
+end SevenEighths.HeckeLogarithmic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.LogarithmicActual
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology
+open Set Metric
+namespace SevenEighths.HeckeLogarithmicActual
+open HeckeFamily HeckeLogarithmicInput HeckeLogarithmic
+
+theorem innerBound_ge_one : 1 ≤ innerBound := by
+  unfold innerBound
+  linarith [HeckeEulerLog.eulerLogBound_ge_one]
+
+theorem actual_inner_log (η : Character) (t : ℝ) :
+    DifferentiableOn ℂ (eulerLog η) (ball ((2 : ℂ)+t*Complex.I) (1/2)) ∧
+    EqOn (Complex.exp ∘ eulerLog η) (regular η) (ball ((2 : ℂ)+t*Complex.I) (1/2)) ∧
+    ∀ z ∈ closedBall ((2 : ℂ)+t*Complex.I) (49/100), ‖eulerLog η z‖ ≤ innerBound := by
+  by_cases hη : η.residue = 1
+  · have hright (s : ℂ) (hs : 1<s.re) : regular η s =
+        ((s-1)/(s+1))*IdealEuler.series (idealCoeff η) s := by
+      have h0 : s ≠ 0 := by intro h; norm_num [h] at hs
+      have h1 : s ≠ 1 := by intro h; norm_num [h] at hs
+      simp only [regular, if_pos hη, HeckePrincipalStrip.sourceNormalized]
+      rw [HeckeOrigin.poleRemoved_eq η h0 h1, LFunction_eq_series η hs]
+      ring
+    simpa only [eulerLog, if_pos hη, innerBound] using
+      HeckeEulerLog.principal_continued_inner_disk (idealCoeff η) (idealCoeff_norm_le_one η)
+        (regular η) hright t
+  · have hright (s : ℂ) (hs : 1<s.re) : regular η s = IdealEuler.series (idealCoeff η) s := by
+      rw [regular_eq_nonprincipal η hη]
+      exact LFunction_eq_series η hs
+    obtain ⟨hd,he,hb⟩ := HeckeEulerLog.continued_inner_disk (idealCoeff η)
+      (idealCoeff_norm_le_one η) (regular η) hright t
+    simp only [eulerLog, if_neg hη]
+    refine ⟨hd,he,?_⟩
+    intro z hz
+    have h := hb z hz
+    unfold innerBound
+    linarith
+
+theorem disk_control (e ε : ℝ) (he : 0<e) (he' : e<1/1000) (hε : 0<ε) :
+    ∃ D B : ℝ, 0<D ∧ 0≤B ∧ ∀ (η : Character),
+      FiniteFourier.IsPrimitiveOnIdeals η.residue → ∀ a t : ℝ,
+      1/2≤a → a≤1 →
+      (∀ z ∈ ball ((2 : ℂ)+t*Complex.I) (2-a-2*e), regular η z ≠ 0) →
+      (∀ z ∈ closedBall ((2 : ℂ)+t*Complex.I) (2-a-6*e),
+        ‖regular η z‖ + ‖(regular η z)⁻¹‖ ≤ D*(complexity η t)^ε) ∧
+      (∀ z ∈ closedBall ((2 : ℂ)+t*Complex.I) (2-a-8*e),
+        ‖deriv (regular η) z / regular η z‖ ≤ B*Real.log (complexity η t)) := by
+  obtain ⟨D,B,hD,hB,hb⟩ := disk_control_of_euler_log e innerBound ε he he' innerBound_ge_one hε
+  refine ⟨D,B,hD,hB,?_⟩
+  intro η hp a t ha ha' hzero
+  obtain ⟨hE,hEL,hEb⟩ := actual_inner_log η t
+  exact hb η hp a t (eulerLog η) ha ha' hzero hE hEL hEb
+
+end SevenEighths.HeckeLogarithmicActual
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.DyadicBuffered
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology
+open Set Metric Complex
+namespace SevenEighths.HeckeDyadic
+open HeckeFamily HeckeLogarithmic HeckeReciprocalGrowth
+
+theorem translated_rectangle_mem {a e σ freq l r H T : ℝ}
+    (hl : a+6*e≤l+σ) (hr : r+σ≤2) (hlr : l≤ r) (hT : 0≤T)
+    (hfreq : |freq|+T≤H) {s : ℂ} (hs : s ∈ (uIcc l r ×ℂ uIcc (-T) T)) :
+    a+6*e≤(s+shift σ freq).re ∧ (s+shift σ freq).re≤2 ∧
+      |(s+shift σ freq).im|≤H := by
+  have hs' : s.re ∈ Icc l r ∧ s.im ∈ Icc (-T) T := by
+    change s.re ∈ uIcc l r ∧ s.im ∈ uIcc (-T) T at hs
+    simpa [uIcc_of_le hlr,uIcc_of_le (by linarith : -T≤T)] using hs
+  have hsi : |s.im|≤T := abs_le.mpr hs'.2
+  constructor
+  · simp only [add_re,shift_re]
+    linarith [hs'.1.1]
+  constructor
+  · simp only [add_re,shift_re]
+    linarith [hs'.1.2]
+  · have hi : (s+shift σ freq).im=s.im-freq := by simp [shift,sub_eq_add_neg]
+    rw [hi]
+    exact (abs_sub _ _).trans (by linarith)
+
+end SevenEighths.HeckeDyadic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.DyadicScale
+namespace OAI
+
+noncomputable section
+open scoped Classical
+namespace SevenEighths.HeckeDyadic
+open HeckeFamily HeckeDeletionBounds HeckeReciprocalGrowth HeckeLogarithmic
+
+theorem radical_dvd (M : Ideal O) (hM : M≠0) : radical M∣M := by
+  unfold radical SmoothMobiusCorrection.primeProduct
+  rw [SmoothMobiusCorrection.prod_primeSet M (fun J : Ideal O => J)]
+  exact IdealMobiusDivisorSum.support_product_dvd hM (Finset.Subset.refl _)
+
+theorem radical_norm_le_modulus (χ : Character) :
+    ((radical χ.modulus).absNorm : ℝ)≤χ.modulus.absNorm := by
+  exact_mod_cast Nat.le_of_dvd (Nat.pos_iff_ne_zero.mpr
+    (Ideal.absNorm_eq_zero_iff.not.mpr χ.modulus_ne_bot))
+    (map_dvd Ideal.absNorm (radical_dvd χ.modulus χ.modulus_ne_bot))
+
+end SevenEighths.HeckeDyadic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.PrimeDyadicControl
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology
+open Set Metric Complex
+namespace SevenEighths.HeckePrimeDyadicControl
+open HeckeFamily HeckeLogarithmicInput HeckeLogarithmic HeckeFiniteDeletion
+open HeckeDeletionBounds HeckeReciprocalGrowth
+
+theorem logDeriv_eq_of_mask (χ ψ : Character)
+    (hmask : ∀ I : Ideal O, idealCoeff χ I =
+      if IsCoprime I χ.modulus then idealCoeff ψ I else 0)
+    (hχ : χ.residue ≠ 1) {s : ℂ} (hs : 0 < s.re)
+    (hψs : LFunction ψ s ≠ 0) :
+    logDeriv (LFunction χ) s = logDeriv (LFunction ψ) s +
+      logDeriv (factors χ.modulus ψ) s := by
+  have hψ : ψ.residue ≠ 1 := fun h => hχ ((principal_iff_of_mask χ ψ hmask).mpr h)
+  have heq : LFunction χ =ᶠ[nhds s] (fun z => LFunction ψ z * factors χ.modulus ψ z) := by
+    filter_upwards [(Complex.isOpen_re_gt 0).mem_nhds hs] with z hz
+    exact LFunction_eq_of_mask_nonprincipal χ ψ hmask hχ hz
+  rw [(logDeriv_congr_nhds heq).self_of_nhds]
+  exact logDeriv_mul s hψs (factors_ne_zero _ _ hs)
+    (LFunction_entire_nonprincipal ψ hψ s) (factors_differentiable _ _ s)
+
+theorem original_disk_control (e : ℝ) (he : 0<e) (he' : e<1/1000) :
+    ∃ B : ℝ, 0≤B ∧ ∀ (χ : Character), χ.residue ≠ 1 → ∀ a t : ℝ,
+      1/2≤a → a≤1 →
+      (∀ z ∈ ball ((2 : ℂ)+t*Complex.I) (2-a-2*e), LFunction χ z ≠ 0) →
+      ∀ z ∈ closedBall ((2 : ℂ)+t*Complex.I) (2-a-8*e),
+        ‖logDeriv (LFunction χ) z‖ ≤ B*Real.log (complexity χ t) +
+          localBound (1/2)*Real.log ((radical χ.modulus).absNorm : ℝ) := by
+  obtain ⟨Dp,B,_,hB,hprimitive⟩ := HeckeLogarithmicActual.disk_control e 1 he he' (by norm_num)
+  refine ⟨B,hB,?_⟩
+  intro χ hχ a t ha ha' hzero z hz
+  obtain ⟨ψ,_,hp,hn,hmask⟩ := exists_primitive_character χ
+  have hψ : ψ.residue ≠ 1 := fun h => hχ ((principal_iff_of_mask χ ψ hmask).mpr h)
+  have hregular : regular ψ = LFunction ψ := regular_eq_nonprincipal ψ hψ
+  have hzeroψ : ∀ w ∈ ball ((2 : ℂ)+t*Complex.I) (2-a-2*e), regular ψ w ≠ 0 := by
+    intro w hw
+    rw [hregular]
+    have hwp : 0 < w.re := by
+      have hr := LogarithmicControl.disk_re_gt hw
+      linarith
+    intro hh
+    apply hzero w hw
+    rw [LFunction_eq_of_mask_nonprincipal χ ψ hmask hχ hwp, hh, zero_mul]
+  have hbound := (hprimitive ψ hp a t ha ha' hzeroψ).2 z hz
+  rw [hregular] at hbound
+  have hz2 : z ∈ ball ((2 : ℂ)+t*Complex.I) (2-a-2*e) :=
+    closedBall_subset_ball (by linarith) hz
+  have hzre : (1/2 : ℝ) ≤ z.re := by
+    have hr := LogarithmicControl.disk_re_gt hz2
+    linarith
+  have hzpos : 0 < z.re := by linarith
+  have hdel := HeckeDeletionDerivative.factors_logDeriv_norm (1/2) (by norm_num)
+    χ.modulus ψ hzre
+  have hQ : complexity ψ t ≤ complexity χ t := by
+    unfold complexity
+    have hn' : (ψ.modulus.absNorm : ℝ) ≤ χ.modulus.absNorm := by exact_mod_cast hn
+    gcongr
+  have hc0 : 0 < complexity ψ t := (Real.exp_pos 1).trans_le (complexity_ge_exp ψ t)
+  rw [logDeriv_eq_of_mask χ ψ hmask hχ hzpos (by simpa [hregular] using hzeroψ z hz2)]
+  apply (norm_add_le _ _).trans
+  exact add_le_add (hbound.trans (mul_le_mul_of_nonneg_left (Real.log_le_log hc0 hQ) hB)) hdel
+
+theorem buffered_original_control (e : ℝ) (he : 0<e) (he' : e<1/1000) :
+    ∃ B : ℝ, 0≤B ∧ ∀ {ι : Type*} [Fintype ι] (χ : ι → Character)
+      (hχ : ∀ j, (χ j).residue ≠ 1) (T a : ℝ) (i : ℕ),
+      2<T → 51/100≤a → a≤1 →
+      HeckeDetectorZeros.zeroMaximum χ hχ (3*(i+1 : ℕ)*T) < a+2*e →
+      ∀ (j : ι) (t : ℝ), |t| ≤ (3*i+2 : ℕ)*T →
+      ∀ z ∈ closedBall ((2 : ℂ)+t*Complex.I) (2-a-8*e),
+        ‖logDeriv (LFunction (χ j)) z‖ ≤ B*Real.log (complexity (χ j) t) +
+          localBound (1/2)*Real.log ((radical (χ j).modulus).absNorm : ℝ) := by
+  obtain ⟨B,hB,hbound⟩ := original_disk_control e he he'
+  refine ⟨B,hB,?_⟩
+  intro ι _ χ hχ T a i hT ha ha' hmax j t ht z hz
+  exact hbound (χ j) (hχ j) a t (by linarith) ha'
+    (fun w hw => HeckeDetectorZeros.nonzero_on_buffered_disk χ hχ T a e i hT ha he
+      hmax j t ht (ball_subset_closedBall hw)) z hz
+
+theorem buffered_rectangle_control (e : ℝ)
+    (he : 0<e) (he' : e<1/1000) :
+    ∃ B : ℝ, 0≤B ∧ ∀ {ι : Type*} [Fintype ι] (χ : ι → Character)
+      (hχ : ∀ j, (χ j).residue≠1) (T a : ℝ) (i : ℕ),
+      2<T → 51/100≤a → a≤1 →
+      HeckeDetectorZeros.zeroMaximum χ hχ (3*(i+1 : ℕ)*T)<a+2*e →
+      ∀ (j : ι) (z : ℂ), a+8*e≤z.re → z.re≤2 →
+      |z.im|≤(3*i+2 : ℕ)*T →
+      LFunction (χ j) z≠0 ∧
+      ‖logDeriv (LFunction (χ j)) z‖≤
+        B*Real.log (complexity (χ j) ((3*i+2 : ℕ)*T)) +
+          localBound (1/2)*Real.log ((radical (χ j).modulus).absNorm : ℝ) := by
+  obtain ⟨B,hB,hbound⟩ := buffered_original_control e he he'
+  refine ⟨B,hB,?_⟩
+  intro ι _ χ hχ T a i hT ha ha' hmax j z hzl hzr hzi
+  have hz6 : z ∈ closedBall ((2 : ℂ)+z.im*I) (2-a-8*e) := by
+    rw [mem_closedBall,dist_eq_norm]
+    have heq : z-((2 : ℂ)+z.im*I)=((z.re-2 : ℝ) : ℂ) := by
+      apply Complex.ext <;> simp
+    rw [heq,Complex.norm_real,Real.norm_eq_abs,abs_of_nonpos (by linarith : z.re-2≤0)]
+    linarith
+  have hz2 : z ∈ closedBall ((2 : ℂ)+z.im*I) (2-a-2*e) :=
+    closedBall_subset_closedBall (by linarith) hz6
+  refine ⟨HeckeDetectorZeros.nonzero_on_buffered_disk χ hχ T a e i hT ha he
+    hmax j z.im hzi hz2, ?_⟩
+  apply (hbound χ hχ T a i hT ha ha' hmax j z.im hzi z hz6).trans
+  apply add_le_add _ le_rfl
+  apply mul_le_mul_of_nonneg_left _ hB
+  apply Real.log_le_log ((Real.exp_pos 1).trans_le (complexity_ge_exp _ _))
+  unfold complexity
+  have hH : 0 ≤ (3*i+2 : ℕ)*T := (abs_nonneg z.im).trans hzi
+  rw [abs_of_nonneg hH]
+  gcongr
+
+end SevenEighths.HeckePrimeDyadicControl
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.IdealMangoldt
+namespace OAI
+
+namespace SevenEighths.IdealMangoldt
+
+open ActualEisensteinCubic UniqueFactorizationMonoid ArithmeticFunction
+open scoped BigOperators Classical
+
+noncomputable section
+
+theorem primeBase_spec {I : Ideal O} (hI : IsPrimePow I) :
+    Prime (primeBase I) ∧ ∃ k : ℕ, 0 < k ∧ primeBase I ^ k = I := by
+  obtain ⟨k, hp, hk, heq⟩ := hI.choose_spec
+  simp only [primeBase, hI, dite_true]
+  exact ⟨hp, k, hk, heq⟩
+
+theorem value_nonneg (I : Ideal O) : 0 ≤ value I := by
+  by_cases hI : IsPrimePow I
+  · rw [value, if_pos hI]
+    apply Real.log_nonneg
+    exact_mod_cast (SmoothMobiusCorrection.prime_norm_two_le ⟨_, (primeBase_spec hI).1⟩).trans' (by decide : 1 ≤ 2)
+  · simp only [value, hI, ite_false, le_refl]
+
+end
+
+end SevenEighths.IdealMangoldt
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.PrimeDyadicBuffered
+namespace OAI
+
+noncomputable section
+open scoped Classical Topology ContDiff
+open Set Metric MeasureTheory Complex
+namespace SevenEighths.HeckePrimeDyadic
+open HeckeFamily HeckeDyadic HeckeLogarithmic HeckeDeletionBounds
+
+theorem binCost_nonneg {B : ℝ} (hB : 0≤B) (χ : Character) (H : ℝ) : 0≤binCost B χ H := by
+  have hc : 1≤ complexity χ H :=
+    (Real.one_le_exp (by norm_num : (0 : ℝ)≤1)).trans (complexity_ge_exp χ H)
+  have hr : (1 : ℝ)≤(radical χ.modulus).absNorm := by
+    exact_mod_cast Nat.one_le_iff_ne_zero.mpr
+      (Ideal.absNorm_eq_zero_iff.not.mpr (radical_ne_zero χ.modulus))
+  exact add_nonneg (mul_nonneg hB (Real.log_nonneg hc))
+    (mul_nonneg (localBound_pos (by norm_num : (0 : ℝ)<1/2)).le (Real.log_nonneg hr))
+
+theorem polynomial_bound_in_bin (e : ℝ) (he : 0<e) (he' : e<1/1000) :
+    ∃ B : ℝ, 0≤B ∧ ∀ {ι : Type*} [Fintype ι] (χ : ι→Character)
+      (hχ : ∀ j, (χ j).residue≠1) (T a : ℝ) (i : ℕ),
+      2<T → 51/100≤a → a≤1 →
+      HeckeDetectorZeros.zeroMaximum χ hχ (3*(i+1 : ℕ)*T)<a+2*e →
+      ∀ (j : ι) (W : ℝ→ℂ) (α β : ℝ), 0<α → Function.support W⊆Icc α β →
+      ContDiff ℝ ∞ W → ∀ D σ freq L C₂ Cn : ℝ, ∀ n : ℕ,
+      1≤D → 0≤L → 0≤C₂ → 0≤Cn → |freq|+L≤(3*i+2 : ℕ)*T →
+      (∀ t : ℝ, (1+|t|)^2*‖mellin W (((a+8*e-σ : ℝ) : ℂ)+t*I)‖≤C₂) →
+      (∀ x∈Icc (a+8*e-σ) (2-σ), ∀ t : ℝ,
+        (1+|t|)^(n+2)*‖mellin W ((x : ℂ)+t*I)‖≤Cn) →
+      ‖polynomial (χ j) W D σ freq‖ ≤ (1/(2*Real.pi))*
+        (C₂*D^(a+8*e-1/2)*binCost B (χ j) ((3*i+2 : ℕ)*T)*Real.pi +
+          2*(Cn*D^(3/2 : ℝ)*binCost B (χ j) ((3*i+2 : ℕ)*T)/(1+L)^n)*|2-a-8*e| +
+          (Cn*D^(3/2 : ℝ)*eulerBound 2)/(1+L)^n*Real.pi) := by
+  obtain ⟨B,hB,hbound⟩ := HeckePrimeDyadicControl.buffered_rectangle_control e he he'
+  refine ⟨B,hB,?_⟩
+  intro ι _ χ hχ T a i hT ha ha' hmax j W α β hα hWs hW D σ freq L C₂ Cn n
+    hD hL hC₂ hCn hfreq hm₂ hmn
+  have hlr : a+8*e-σ≤2-σ := by linarith
+  have hmem (s : ℂ) (hs : s ∈ (uIcc (a+8*e-σ) (2-σ) ×ℂ uIcc (-L) L)) :
+      a+8*e≤(s+HeckeDyadic.shift σ freq).re ∧ (s+HeckeDyadic.shift σ freq).re≤2 ∧
+        |(s+HeckeDyadic.shift σ freq).im|≤(3*i+2 : ℕ)*T := by
+    convert (preTransparency := .instances) HeckeDyadic.translated_rectangle_mem (a := a+2*e) (e := e)
+      (by linarith) (by linarith) hlr hL hfreq hs using 1 ; ring_nf
+  have hs (s : ℂ) (hs : s ∈ (uIcc (a+8*e-σ) (2-σ) ×ℂ uIcc (-L) L)) :=
+    hbound χ hχ T a i hT ha ha' hmax j (s+HeckeDyadic.shift σ freq)
+      (hmem s hs).1 (hmem s hs).2.1 (hmem s hs).2.2
+  have hh := polynomial_bound_of_rectangle (χ j) (hχ j) W α β hα hWs hW
+    D σ freq (a+8*e-σ) (2-σ) L C₂ Cn (binCost B (χ j) ((3*i+2 : ℕ)*T)) n
+    hD hlr (by linarith) hL hC₂ hCn (binCost_nonneg hB _ _)
+    hm₂ hmn (fun s h => (hs s h).1) (fun s h => by
+      simpa only [series, neg_div, norm_neg, logDeriv_apply, binCost] using (hs s h).2)
+  convert (preTransparency := .instances) hh using 1 ; congr 1 ; ring_nf
+
+end SevenEighths.HeckePrimeDyadic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.PrimeDyadicScale
+namespace OAI
+
+noncomputable section
+namespace SevenEighths.HeckePrimeDyadic
+open HeckeFamily HeckeDyadic HeckeDeletionBounds HeckeLogarithmic
+
+theorem binCost_le_log (χ : Character) (B U H η : ℝ)
+    (hB : 0≤B) (hU : 2≤U) (hQ : (χ.modulus.absNorm : ℝ)≤U)
+    (hheight : (3+|H|)^2≤U^η) :
+    binCost B χ H ≤ (B*(2+η)+localBound (1/2))*Real.log U := by
+  have hUp : 0<U := by linarith
+  have hcp : 0<complexity χ H := (Real.exp_pos 1).trans_le (complexity_ge_exp χ H)
+  have hcomplex : complexity χ H ≤ 2*U^(1+η) := by
+    unfold complexity
+    calc
+      2*(χ.modulus.absNorm : ℝ)*(3+|H|)^2 ≤ 2*U*U^η := by gcongr
+      _ = _ := by rw [Real.rpow_add hUp, Real.rpow_one]; ring
+  have hlog : Real.log (complexity χ H) ≤ (2+η)*Real.log U := by
+    apply (Real.log_le_log hcp hcomplex).trans
+    rw [Real.log_mul (by norm_num) (Real.rpow_pos_of_pos hUp _).ne', Real.log_rpow hUp]
+    have h2 := Real.log_le_log (by norm_num : (0 : ℝ)<2) hU
+    nlinarith
+  have hrad : 0<((radical χ.modulus).absNorm : ℝ) := by
+    exact_mod_cast Nat.pos_iff_ne_zero.mpr
+      (Ideal.absNorm_eq_zero_iff.not.mpr (radical_ne_zero χ.modulus))
+  have hrlog := Real.log_le_log hrad ((radical_norm_le_modulus χ).trans hQ)
+  unfold binCost
+  calc
+    _ ≤ B*((2+η)*Real.log U)+localBound (1/2)*Real.log U :=
+      add_le_add (mul_le_mul_of_nonneg_left hlog hB)
+        (mul_le_mul_of_nonneg_left hrlog (localBound_pos (by norm_num : (0 : ℝ)<1/2)).le)
+    _ = _ := by ring
+
+theorem binCost_le_power (χ : Character) (B U H η ε : ℝ)
+    (hB : 0≤B) (hU : 2≤U) (hQ : (χ.modulus.absNorm : ℝ)≤U)
+    (hη : 0≤η) (hε : 0<ε) (hheight : (3+|H|)^2≤U^η) :
+    binCost B χ H ≤ ((B*(2+η)+localBound (1/2))/ε)*U^ε := by
+  apply (binCost_le_log χ B U H η hB hU hQ hheight).trans
+  have hc : 0≤B*(2+η)+localBound (1/2) := by
+    exact add_nonneg (mul_nonneg hB (by linarith))
+      (localBound_pos (by norm_num : (0 : ℝ)<1/2)).le
+  have hh := mul_le_mul_of_nonneg_left
+    (Real.log_le_rpow_div (by linarith : 0≤U) hε) hc
+  convert (preTransparency := .instances) hh using 1 ; ring
+
+end SevenEighths.HeckePrimeDyadic
+
+end
+
+end OAI
+end
+
+section
+-- module Solutions.OAIHecke.OAI.NumberTheory.DirichletL.Hecke.PrimeDyadicScaled
+namespace OAI
+
+noncomputable section
+
+open scoped Classical Topology ContDiff
+open Set Complex
+namespace SevenEighths.HeckePrimeDyadic
+open HeckeFamily HeckeDyadic HeckeDeletionBounds
+
+theorem scaled_direct_bound_oai (e κ η : ℝ) (he : 0<e) (he' : e<1/1000)
+    (hκ : 0<κ) (hη : 0≤η) :
+    ∃ C : ℝ, 0<C ∧ ∀ {ι : Type*} [Fintype ι] (χ : ι → Character)
+      (hχ : ∀ j, (χ j).residue≠1) (T a : ℝ) (i : ℕ),
+      2<T → 51/100≤a → a≤1 →
+      HeckeDetectorZeros.zeroMaximum χ hχ (3*(i+1 : ℕ)*T)<a+2*e →
+      ∀ (j : ι) (W : ℝ → ℂ) (A B : ℝ),
+      0<A → Function.support W⊆Icc A B → ContDiff ℝ ∞ W →
+      ∀ (U r R σ freq V C₂ Cn : ℝ) (n : ℕ),
+      2≤U → (χ j).modulus.absNorm≤U → 0≤ r → r≤R → 0≤V →
+      |freq|+V≤(3*i+2 : ℕ)*T → (3+(3*i+2 : ℕ)*T)^2≤U^η → 0≤C₂ → 0≤Cn →
+      (∀ t : ℝ, (1+|t|)^2*‖mellin W (((a+8*e-σ : ℝ) : ℂ)+t*I)‖≤C₂) →
+      (∀ x ∈ Icc (a+8*e-σ) (2-σ), ∀ t : ℝ,
+        (1+|t|)^(n+2)*‖mellin W ((x : ℂ)+t*I)‖≤Cn) →
+      ‖polynomial (χ j) W (U^r) σ freq‖≤
+        C*C₂*U^((a-1/2+8*e)*r+κ)+C*Cn*U^(2*R+κ)/(1+V)^n := by
+  obtain ⟨B,hB,hbound⟩ := polynomial_bound_in_bin e he he'
+  let Cb := (B*(2+η)+localBound (1/2))/κ
+  have hCb : 0<Cb := div_pos
+    (add_pos_of_nonneg_of_pos (mul_nonneg hB (by linarith))
+      (localBound_pos (by norm_num : (0 : ℝ)<1/2))) hκ
+  let E := eulerBound 2
+  have hE : 0≤E := tsum_nonneg (fun I => mul_nonneg (IdealMangoldt.value_nonneg _) (Real.rpow_nonneg (norm_pos I).le _))
+  let C := 1+Cb*Real.pi+4*Cb+E*Real.pi
+  have hC : 0<C := by dsimp [C]; positivity
+  refine ⟨C,hC,?_⟩
+  intro ι _ χ hχ T a i hT ha ha' hmax j W A B' hA hWs hW
+    U r R σ freq V C₂ Cn n hU2 hQ hr hrR hV hfreq hheight hC₂ hCn hm₂ hmn
+  let H : ℝ := (3*i+2 : ℕ)*T
+  have hH : 0≤H := by dsimp [H]; positivity
+  have hU : 1≤U := (HeckeLogarithmicInput.modulus_norm_ge_one (χ j)).trans hQ
+  have hUp : 0<U := lt_of_lt_of_le zero_lt_one hU
+  have hD : 1≤U^r := Real.one_le_rpow hU hr
+  have hb := hbound χ hχ T a i hT ha ha' hmax j W A B' hA hWs hW
+    (U^r) σ freq V C₂ Cn n hD hV hC₂ hCn hfreq hm₂ hmn
+  have hcost : binCost B (χ j) H ≤ Cb*U^κ :=
+    binCost_le_power (χ j) B U H η κ hB hU2 hQ hη hκ (by rw [abs_of_nonneg hH]; exact hheight)
+  have hcentral : (U^r)^(a+8*e-1/2)*binCost B (χ j) H ≤
+      Cb*U^((a-1/2+8*e)*r+κ) := by
+    calc
+      _ ≤ (U^r)^(a+8*e-1/2)*(Cb*U^κ) :=
+        mul_le_mul_of_nonneg_left hcost (Real.rpow_nonneg (Real.rpow_nonneg hUp.le _) _)
+      _ = _ := by rw [←Real.rpow_mul hUp.le, mul_left_comm, ←Real.rpow_add hUp]; congr 2; ring
+  have hexternal : (U^r)^(3/2 : ℝ)*binCost B (χ j) H ≤ Cb*U^(2*R+κ) := by
+    calc
+      _ ≤ (U^r)^(3/2 : ℝ)*(Cb*U^κ) :=
+        mul_le_mul_of_nonneg_left hcost (Real.rpow_nonneg (Real.rpow_nonneg hUp.le _) _)
+      _ = Cb*U^(r*(3/2)+κ) := by rw [←Real.rpow_mul hUp.le, mul_left_comm, ←Real.rpow_add hUp]
+      _ ≤ _ := mul_le_mul_of_nonneg_left (Real.rpow_le_rpow_of_exponent_le hU (by nlinarith)) hCb.le
+  have hpow : (U^r)^(3/2 : ℝ)≤U^(2*R+κ) := by
+    rw [←Real.rpow_mul hUp.le]
+    exact Real.rpow_le_rpow_of_exponent_le hU (by nlinarith)
+  have hwidth : |2-a-8*e|≤2 := abs_le.mpr ⟨by linarith,by linarith⟩
+  have hc : C₂*(U^r)^(a+8*e-1/2)*binCost B (χ j) H*Real.pi≤
+      (Cb*Real.pi)*C₂*U^((a-1/2+8*e)*r+κ) := by
+    calc
+      _ = (C₂*Real.pi)*((U^r)^(a+8*e-1/2)*binCost B (χ j) H) := by ring
+      _ ≤ (C₂*Real.pi)*(Cb*U^((a-1/2+8*e)*r+κ)) :=
+        mul_le_mul_of_nonneg_left hcentral (by positivity)
+      _ = _ := by ring
+  have hj : 2*(Cn*(U^r)^(3/2 : ℝ)*binCost B (χ j) H/(1+V)^n)*|2-a-8*e|≤
+      (4*Cb)*Cn*U^(2*R+κ)/(1+V)^n := by
+    calc
+      _ = 2*Cn*((U^r)^(3/2 : ℝ)*binCost B (χ j) H)/(1+V)^n*|2-a-8*e| := by ring
+      _ ≤ 2*Cn*(Cb*U^(2*R+κ))/(1+V)^n*2 := by gcongr
+      _ = _ := by ring
+  have ht : (Cn*(U^r)^(3/2 : ℝ)*E)/(1+V)^n*Real.pi≤
+      (E*Real.pi)*Cn*U^(2*R+κ)/(1+V)^n := by
+    calc
+      _ ≤ (Cn*U^(2*R+κ)*E)/(1+V)^n*Real.pi := by gcongr
+      _ = _ := by ring
+  have hfac : 1/(2*Real.pi)≤(1 : ℝ) := by
+    apply (div_le_one (by positivity)).mpr
+    linarith [Real.pi_gt_three]
+  have hcomp : 0≤binCost B (χ j) H := binCost_nonneg hB _ _
+  apply (hb.trans (mul_le_of_le_one_left (by positivity) hfac)).trans
+  change _ ≤ _ at hc hj ht
+  have hcC : Cb*Real.pi≤C := by dsimp [C]; nlinarith only [hCb, mul_nonneg hE Real.pi_pos.le]
+  have heC : 4*Cb+E*Real.pi≤C := by dsimp [C]; nlinarith only [mul_nonneg hCb.le Real.pi_pos.le]
+  calc
+    _ ≤ (Cb*Real.pi)*C₂*U^((a-1/2+8*e)*r+κ)+
+        (4*Cb)*Cn*U^(2*R+κ)/(1+V)^n+(E*Real.pi)*Cn*U^(2*R+κ)/(1+V)^n := by
+      exact add_le_add (add_le_add hc hj) ht
+    _ = (Cb*Real.pi)*C₂*U^((a-1/2+8*e)*r+κ)+
+        (4*Cb+E*Real.pi)*Cn*U^(2*R+κ)/(1+V)^n := by ring
+    _ ≤ _ := by gcongr
+
+end SevenEighths.HeckePrimeDyadic
+
+end
+
+end OAI
+end
+
+theorem solution.{u_1} : type_of% @OAI.SevenEighths.HeckePrimeDyadic.scaled_direct_bound_oai.{u_1} := @OAI.SevenEighths.HeckePrimeDyadic.scaled_direct_bound_oai.{u_1}

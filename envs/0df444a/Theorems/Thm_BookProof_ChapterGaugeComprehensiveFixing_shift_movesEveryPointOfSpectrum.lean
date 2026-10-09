@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_shift_movesEveryPointOfSpectrum
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.shift_movesEveryPointOfSpectrum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:10:46.943747+00:00
 -- url     : https://prove2.me/theorems/a5c5c1b4-7bcb-482d-9f3a-b169d4ff1be9

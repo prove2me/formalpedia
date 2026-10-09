@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_tailSum_zero_eq
 -- name    : BookProof.ChapterEulerNState.tailSum_zero_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:32:44.681803+00:00
 -- url     : https://prove2.me/theorems/a1679a45-2540-40c7-8b36-adcb68a7bfb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma5Z_eq_prod
 -- name    : BookProof.ChapterA3.mgamma5Z_eq_prod
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:38:06.309495+00:00
 -- url     : https://prove2.me/theorems/e753f058-9d13-484a-ad35-82fe771cea2b

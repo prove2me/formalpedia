@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalProb_variance
 -- name    : BookProof.ChapterCoherentTemperature.thermalProb_variance
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:11:10.847875+00:00
 -- url     : https://prove2.me/theorems/7aa3df29-69bc-4df0-93ab-e1ba9445adcc

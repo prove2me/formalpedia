@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_det_pauli_comb
 -- name    : BookProof.ChapterA3.det_pauli_comb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:49:22.349402+00:00
 -- url     : https://prove2.me/theorems/ef428ec1-621d-41db-a4ee-fa3f6a72d512

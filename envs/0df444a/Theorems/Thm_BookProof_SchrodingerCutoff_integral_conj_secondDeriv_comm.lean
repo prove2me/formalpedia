@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_integral_conj_secondDeriv_comm
 -- name    : BookProof.SchrodingerCutoff.integral_conj_secondDeriv_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:32:45.568713+00:00
 -- url     : https://prove2.me/theorems/f72879ed-b641-4e55-b0ea-17c86be90c61

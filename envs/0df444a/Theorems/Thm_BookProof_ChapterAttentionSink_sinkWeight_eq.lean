@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSink_sinkWeight_eq
 -- name    : BookProof.ChapterAttentionSink.sinkWeight_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:44:31.841263+00:00
 -- url     : https://prove2.me/theorems/c0b95e81-2802-446a-b93e-aebd59a3683f

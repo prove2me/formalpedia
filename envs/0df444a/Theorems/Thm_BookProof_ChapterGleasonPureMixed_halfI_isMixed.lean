@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGleasonPureMixed_halfI_isMixed
 -- name    : BookProof.ChapterGleasonPureMixed.halfI_isMixed
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:55:23.186117+00:00
 -- url     : https://prove2.me/theorems/d1da9ac1-cee4-4c45-980c-cc7afa8811ce

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_covariantDeriv_covariant
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.covariantDeriv_covariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:52:15.271338+00:00
 -- url     : https://prove2.me/theorems/afe6345b-f35a-4e40-baca-069f79cebb6d

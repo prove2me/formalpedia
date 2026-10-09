@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_mixed_cut_flag_with_completed_local_conditions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-04T16:20:57.239318+00:00
 -- url     : https://prove2.me/submissions/14c0026c-e32a-4a6a-ac98-d55dc3dc541e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_with_regular_local_final_quotients
 import Theorems.Thm_AdicCompletion_isNoetherianRing_of_noetherian_local

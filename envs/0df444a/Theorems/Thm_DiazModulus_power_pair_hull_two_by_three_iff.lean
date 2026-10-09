@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_power_pair_hull_two_by_three_iff
 -- name    : DiazModulus.power_pair_hull_two_by_three_iff
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:10:04.01121+00:00
 -- url     : https://prove2.me/theorems/41b0da9a-8258-4cd0-9035-a24bd38c09d3

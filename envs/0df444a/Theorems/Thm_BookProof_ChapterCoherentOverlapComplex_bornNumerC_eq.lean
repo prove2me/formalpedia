@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_bornNumerC_eq
 -- name    : BookProof.ChapterCoherentOverlapComplex.bornNumerC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:01:34.930016+00:00
 -- url     : https://prove2.me/theorems/e986c11b-1cc4-4cb0-a987-93818cab8328

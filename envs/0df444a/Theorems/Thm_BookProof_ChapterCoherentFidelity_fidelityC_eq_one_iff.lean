@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_fidelityC_eq_one_iff
 -- name    : BookProof.ChapterCoherentFidelity.fidelityC_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:51:20.163248+00:00
 -- url     : https://prove2.me/theorems/d36a8e73-f5dd-42a9-af23-312db6868916

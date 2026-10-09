@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_mg_lower
 -- name    : BookProof.ChapterF6.mg_lower
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:03:23.800764+00:00
 -- url     : https://prove2.me/theorems/5e16b40e-3688-4e95-80ad-efa923999ed5

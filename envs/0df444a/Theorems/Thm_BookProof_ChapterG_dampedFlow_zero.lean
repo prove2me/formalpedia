@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_dampedFlow_zero
 -- name    : BookProof.ChapterG.dampedFlow_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:27:01.565159+00:00
 -- url     : https://prove2.me/theorems/c7fe8ce0-0f15-4cd9-bae7-e979a85705cc

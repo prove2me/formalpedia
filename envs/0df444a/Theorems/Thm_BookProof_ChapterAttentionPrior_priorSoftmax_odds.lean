@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionPrior_priorSoftmax_odds
 -- name    : BookProof.ChapterAttentionPrior.priorSoftmax_odds
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:39:32.685524+00:00
 -- url     : https://prove2.me/theorems/baa68434-2442-457f-bf6c-7322f200c0ed

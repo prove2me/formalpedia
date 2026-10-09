@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_generic_mixed_linear_section_avoiding_boundary
 -- name    : PhilipponMultiplicity.generic_mixed_linear_section_avoiding_boundary
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T13:24:36.422284+00:00
 -- url     : https://prove2.me/theorems/db460d95-700e-4a5c-8c39-f5a6261c5849

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_hermitian_flow_preserves_normSq
 -- name    : BookProof.ChapterF4.hermitian_flow_preserves_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:52:12.058175+00:00
 -- url     : https://prove2.me/theorems/8663f0ad-1a7f-43ad-988b-79b898254d4c

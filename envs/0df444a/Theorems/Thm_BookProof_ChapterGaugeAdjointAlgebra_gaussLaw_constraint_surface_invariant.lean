@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_gaussLaw_constraint_surface_invariant
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.gaussLaw_constraint_surface_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:53:13.309998+00:00
 -- url     : https://prove2.me/theorems/ed57f3f5-0c3f-4c32-a122-63615cd29446

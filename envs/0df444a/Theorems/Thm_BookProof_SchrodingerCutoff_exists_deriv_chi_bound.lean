@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_exists_deriv_chi_bound
 -- name    : BookProof.SchrodingerCutoff.exists_deriv_chi_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:33:42.890006+00:00
 -- url     : https://prove2.me/theorems/02f9dbab-9cc2-42f2-9262-1e27a74f07ac

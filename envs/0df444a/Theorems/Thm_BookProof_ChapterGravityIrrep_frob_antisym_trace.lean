@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityIrrep_frob_antisym_trace
 -- name    : BookProof.ChapterGravityIrrep.frob_antisym_trace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:59:30.212356+00:00
 -- url     : https://prove2.me/theorems/9823c789-b06a-41e2-9670-a2f4be0c7496

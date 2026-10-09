@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_shiftOp_ne_velocityOp
 -- name    : BookProof.ChapterGaugeShiftExample.shiftOp_ne_velocityOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:18:22.118788+00:00
 -- url     : https://prove2.me/theorems/7f921fbe-ef21-4bb0-9439-1d8197e72654

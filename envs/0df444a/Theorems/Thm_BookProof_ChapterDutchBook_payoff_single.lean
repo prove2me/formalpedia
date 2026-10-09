@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_payoff_single
 -- name    : BookProof.ChapterDutchBook.payoff_single
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:07:37.544882+00:00
 -- url     : https://prove2.me/theorems/9dd0710a-2dd7-42e1-acd4-95e9e7dcfcac

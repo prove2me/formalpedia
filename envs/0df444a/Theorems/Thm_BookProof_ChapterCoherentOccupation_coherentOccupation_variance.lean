@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_variance
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_variance
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:54:46.802881+00:00
 -- url     : https://prove2.me/theorems/f3468d43-7d1c-49c9-ad8b-455543e5f5e4

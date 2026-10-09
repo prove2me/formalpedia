@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Free_free_selfAdjoint_spectrum
 -- name    : TeschlQM.Free.free_selfAdjoint_spectrum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T00:58:55.983397+00:00
 -- url     : https://prove2.me/theorems/2a4df184-d244-4ef4-870e-4fb07d202c4e

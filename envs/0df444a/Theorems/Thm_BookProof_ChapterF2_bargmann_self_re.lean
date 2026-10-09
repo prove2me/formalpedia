@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_bargmann_self_re
 -- name    : BookProof.ChapterF2.bargmann_self_re
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:47:02.462456+00:00
 -- url     : https://prove2.me/theorems/91ec4316-486b-44ef-908e-ae36e7a026b4

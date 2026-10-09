@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_torsionOps_symmetricOn
 -- name    : BookProof.QuantumGravity3DGauge.torsionOps_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T08:25:19.594067+00:00
 -- url     : https://prove2.me/theorems/78d6aafa-3572-4f90-a698-54f5218f87a7

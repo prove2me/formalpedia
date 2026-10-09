@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_projOnto_eq_starProjection
 -- name    : BookProof.ChapterF3.projOnto_eq_starProjection
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:48:37.862276+00:00
 -- url     : https://prove2.me/theorems/8bee4f61-af92-4294-ae21-71101fd78279

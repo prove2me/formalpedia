@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_inverseTemperature_pos
 -- name    : BookProof.ChapterDisplacedThermalOverlap.inverseTemperature_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:03:15.981568+00:00
 -- url     : https://prove2.me/theorems/faaf8bf1-ad30-49bb-8203-4379fe7b6cb7

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_open_preserving_finite_local_mixed_slices
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-07T13:34:25.3028+00:00
 -- url     : https://prove2.me/submissions/f939e50f-9fb1-4024-91dd-d47263f2a5c6
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_finite_affine_mixed_neighborhoods
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

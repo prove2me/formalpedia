@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_chargeConj_involutive
 -- name    : BookProof.ChapterA3.chargeConj_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:42:15.705402+00:00
 -- url     : https://prove2.me/theorems/92146b82-6529-4412-a2f4-8b0a7942a691

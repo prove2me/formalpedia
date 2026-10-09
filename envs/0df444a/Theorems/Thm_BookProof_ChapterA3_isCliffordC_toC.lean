@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_isCliffordC_toC
 -- name    : BookProof.ChapterA3.isCliffordC_toC
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:42:53.037458+00:00
 -- url     : https://prove2.me/theorems/19f2b21a-f010-411f-bf47-d3e0d60af1ff

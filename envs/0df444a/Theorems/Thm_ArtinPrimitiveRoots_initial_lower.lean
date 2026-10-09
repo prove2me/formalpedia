@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_initial_lower
 -- name    : ArtinPrimitiveRoots.initial_lower
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:19:56.448989+00:00
 -- url     : https://prove2.me/theorems/1c5b3c5d-e37f-4d0d-b6dc-5b7cdebb8bb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_fourier_mixedOp_apply
 -- name    : BookProof.FourierMultiplierEsa.fourier_mixedOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:02.725744+00:00
 -- url     : https://prove2.me/theorems/91598c27-e60b-4781-a4ee-4d461e49c47d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF8_featureHash_decodes
 -- name    : BookProof.ChapterF8.featureHash_decodes
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:08:20.099985+00:00
 -- url     : https://prove2.me/theorems/42eda7f5-46ff-4a83-a253-08fbaf1f7526

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterB4_mixed_state_satisfies_both
 -- name    : BookProof.ChapterB4.mixed_state_satisfies_both
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:52:18.110718+00:00
 -- url     : https://prove2.me/theorems/3ef09ca5-778c-4b56-b514-4a86c6dc1d73

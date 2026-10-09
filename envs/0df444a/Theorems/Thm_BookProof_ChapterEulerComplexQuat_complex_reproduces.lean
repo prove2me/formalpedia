@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerComplexQuat_complex_reproduces
 -- name    : BookProof.ChapterEulerComplexQuat.complex_reproduces
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:50:27.156968+00:00
 -- url     : https://prove2.me/theorems/e380457f-1533-4591-86d5-31c54b1fb32a

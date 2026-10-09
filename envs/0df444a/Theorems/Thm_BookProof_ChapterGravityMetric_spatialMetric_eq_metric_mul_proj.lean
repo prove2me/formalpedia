@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityMetric_spatialMetric_eq_metric_mul_proj
 -- name    : BookProof.ChapterGravityMetric.spatialMetric_eq_metric_mul_proj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:00:13.110074+00:00
 -- url     : https://prove2.me/theorems/0e81d575-de64-4ad4-8c77-a5f3a87416d3

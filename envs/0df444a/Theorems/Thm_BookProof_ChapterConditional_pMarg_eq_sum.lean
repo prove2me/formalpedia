@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pMarg_eq_sum
 -- name    : BookProof.ChapterConditional.pMarg_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:18:48.861436+00:00
 -- url     : https://prove2.me/theorems/0065e332-e8d0-4698-b1c1-c3b52fc137a5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE_stickBreaking_surjective
 -- name    : BookProof.ChapterE.stickBreaking_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:10:16.109828+00:00
 -- url     : https://prove2.me/theorems/cc1da5cb-3580-45b4-bb43-c038a5419640

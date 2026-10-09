@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiazModulus_candidate_two_by_two_config_entry_not_mem_span_logAlg
 -- name    : DiazModulus.candidate_two_by_two_config_entry_not_mem_span_logAlg
--- status  : Open
+-- status  : Proved
 -- author  : @carlok
 -- created : 2026-10-08T13:09:42.965557+00:00
 -- url     : https://prove2.me/theorems/b75876be-a526-429b-b5a6-8efe1b704206

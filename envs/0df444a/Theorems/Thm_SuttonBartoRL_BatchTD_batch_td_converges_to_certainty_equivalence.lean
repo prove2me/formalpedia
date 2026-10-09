@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonBartoRL_BatchTD_batch_td_converges_to_certainty_equivalence
 -- name    : SuttonBartoRL.BatchTD.batch_td_converges_to_certainty_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:00:35.658867+00:00
 -- url     : https://prove2.me/theorems/0403bfa3-9271-418e-9a55-0d3191e73f3e

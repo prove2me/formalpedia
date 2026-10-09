@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma_unitary
 -- name    : BookProof.ChapterA3.mgamma_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:41:34.625984+00:00
 -- url     : https://prove2.me/theorems/71aa8cda-0355-4bde-bfee-fa20e6a7eff3

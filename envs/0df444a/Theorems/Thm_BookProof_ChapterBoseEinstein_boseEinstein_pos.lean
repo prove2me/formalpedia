@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBoseEinstein_boseEinstein_pos
 -- name    : BookProof.ChapterBoseEinstein.boseEinstein_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:06:32.772386+00:00
 -- url     : https://prove2.me/theorems/412a68cf-1867-4151-92ed-1fcd91f2b1a7

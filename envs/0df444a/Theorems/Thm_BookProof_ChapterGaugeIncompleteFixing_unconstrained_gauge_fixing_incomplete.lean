@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_unconstrained_gauge_fixing_incomplete
 -- name    : BookProof.ChapterGaugeIncompleteFixing.unconstrained_gauge_fixing_incomplete
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:59.761229+00:00
 -- url     : https://prove2.me/theorems/eb4419b7-1cd5-4f5c-84fa-ed65dd26965e

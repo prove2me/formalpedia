@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_ghost_creat_sq
 -- name    : BookProof.ChapterG.ghost_creat_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:26:26.097258+00:00
 -- url     : https://prove2.me/theorems/7cb95069-4af1-4e15-ab49-49f01064015c

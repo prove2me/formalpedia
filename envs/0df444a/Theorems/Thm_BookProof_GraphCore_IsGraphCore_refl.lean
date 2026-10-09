@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_IsGraphCore_refl
 -- name    : BookProof.GraphCore.IsGraphCore.refl
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:56:48.896457+00:00
 -- url     : https://prove2.me/theorems/7a18f84e-b7ca-46a5-9df7-40afa5200136

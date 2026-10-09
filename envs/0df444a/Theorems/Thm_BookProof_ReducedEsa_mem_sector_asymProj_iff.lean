@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ReducedEsa_mem_sector_asymProj_iff
 -- name    : BookProof.ReducedEsa.mem_sector_asymProj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:32:44.649243+00:00
 -- url     : https://prove2.me/theorems/a92b125d-c6b5-40a8-96ad-bd7ea8a637c8

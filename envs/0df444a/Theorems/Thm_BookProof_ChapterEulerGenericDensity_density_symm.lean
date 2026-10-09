@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_density_symm
 -- name    : BookProof.ChapterEulerGenericDensity.density_symm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:30:42.227981+00:00
 -- url     : https://prove2.me/theorems/fb030d17-f53a-4de7-ab3a-d5ed2e8849dd

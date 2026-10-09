@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEll2Separable_sum_single_rat_mem_range
 -- name    : BookProof.ChapterEll2Separable.sum_single_rat_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:09.3135+00:00
 -- url     : https://prove2.me/theorems/c5310d74-58e0-463f-b0c1-d35abbaab50b

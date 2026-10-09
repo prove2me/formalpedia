@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF8_operatorBasis_card
 -- name    : BookProof.ChapterF8.operatorBasis_card
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:08:46.199337+00:00
 -- url     : https://prove2.me/theorems/b0fad4cd-fc0d-404c-ba99-3a0c3c5ffdad

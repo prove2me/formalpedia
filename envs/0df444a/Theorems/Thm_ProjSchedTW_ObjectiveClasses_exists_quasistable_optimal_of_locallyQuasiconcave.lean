@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjSchedTW_ObjectiveClasses_exists_quasistable_optimal_of_locallyQuasiconcave
 -- name    : ProjSchedTW.ObjectiveClasses.exists_quasistable_optimal_of_locallyQuasiconcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T10:44:57.394329+00:00
 -- url     : https://prove2.me/theorems/5884ced4-108c-4799-834d-18ef71cdfd71

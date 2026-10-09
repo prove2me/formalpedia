@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBoseEinstein_thermalRatio_boseEinstein
 -- name    : BookProof.ChapterBoseEinstein.thermalRatio_boseEinstein
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:06:31.853981+00:00
 -- url     : https://prove2.me/theorems/09efda99-6b0d-445f-a8ff-e4fd843280f6

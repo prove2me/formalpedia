@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_mul_spatialProj_transpose
 -- name    : BookProof.ChapterGravityPolymomentum.mul_spatialProj_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:04:43.150735+00:00
 -- url     : https://prove2.me/theorems/25d13402-c389-414f-9d2f-0b187aa13506

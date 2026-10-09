@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_principal_open_mixed_jacobian_presentations
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-06T01:37:16.001789+00:00
 -- url     : https://prove2.me/submissions/c231cf46-f88f-436b-a2c5-eab621936f60
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_principal_open_regular_point_mixed_zero_locus
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustUncLP_WorstCase_proposition_2_1
 -- name    : RobustUncLP.WorstCase.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T05:52:35.012588+00:00
 -- url     : https://prove2.me/theorems/41c83196-2b8d-4cf0-87d1-dbc8a1ef2617

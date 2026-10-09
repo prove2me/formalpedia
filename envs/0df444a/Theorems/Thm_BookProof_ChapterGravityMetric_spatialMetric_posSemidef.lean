@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityMetric_spatialMetric_posSemidef
 -- name    : BookProof.ChapterGravityMetric.spatialMetric_posSemidef
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:00:41.296286+00:00
 -- url     : https://prove2.me/theorems/a68ccd54-a2fa-4e6b-977a-262428ca6052

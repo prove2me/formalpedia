@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE_cos_sq_surjective
 -- name    : BookProof.ChapterE.cos_sq_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:09:28.534357+00:00
 -- url     : https://prove2.me/theorems/66a51da0-22b1-4f4e-9c70-dc6d808bcd8d

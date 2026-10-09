@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstLeakage_norm_unitary_apply
 -- name    : BookProof.BrstLeakage.norm_unitary_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:29:57.767568+00:00
 -- url     : https://prove2.me/theorems/bb198a60-e288-49c6-bfca-91321520909d

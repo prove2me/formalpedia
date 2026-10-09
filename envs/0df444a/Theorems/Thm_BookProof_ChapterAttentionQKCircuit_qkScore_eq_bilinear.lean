@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionQKCircuit_qkScore_eq_bilinear
 -- name    : BookProof.ChapterAttentionQKCircuit.qkScore_eq_bilinear
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:40:39.797228+00:00
 -- url     : https://prove2.me/theorems/de8e1298-9f3f-40fb-88f0-8aee3adcc26b

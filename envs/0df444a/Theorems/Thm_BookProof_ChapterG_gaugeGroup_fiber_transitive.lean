@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_gaugeGroup_fiber_transitive
 -- name    : BookProof.ChapterG.gaugeGroup_fiber_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:48:35.600968+00:00
 -- url     : https://prove2.me/theorems/8ed62236-9e2c-459b-884c-49a611cc28c8

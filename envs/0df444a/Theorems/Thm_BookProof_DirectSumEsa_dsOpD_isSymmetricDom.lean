@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_dsOpD_isSymmetricDom
 -- name    : BookProof.DirectSumEsa.dsOpD_isSymmetricDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:59:59.58599+00:00
 -- url     : https://prove2.me/theorems/1325e995-26a1-4151-92f8-ee65eb6e66ae

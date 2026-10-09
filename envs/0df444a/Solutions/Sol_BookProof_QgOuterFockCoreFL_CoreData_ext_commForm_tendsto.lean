@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFockCoreFL.CoreData.ext_commForm_tendsto
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-05T23:31:34.532674+00:00
 -- url     : https://prove2.me/submissions/17030e58-b0b1-4fd2-a72f-75709e401fa5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgOuterFockCoreFL.lean — solution of BookProof.QgOuterFockCoreFL.CoreData.ext_commForm_tendsto
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_W7_isProcessMatrix
 -- name    : OCB2012.W7_isProcessMatrix
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:08:59.606273+00:00
 -- url     : https://prove2.me/theorems/43b06d20-3a5d-4dbd-9fca-ad43db40c2b1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBijectionProbability_bijProb_nonneg
 -- name    : BookProof.ChapterBijectionProbability.bijProb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:55:53.71398+00:00
 -- url     : https://prove2.me/theorems/db404ba4-0073-438a-8e21-b7cbabcb7235

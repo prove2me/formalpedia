@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_integral_exp_mul_exp
 -- name    : BookProof.ChapterCoherentPositionSpace.integral_exp_mul_exp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:03:54.189984+00:00
 -- url     : https://prove2.me/theorems/9f733ec6-6c15-4abf-b14d-f65f0a4605d5

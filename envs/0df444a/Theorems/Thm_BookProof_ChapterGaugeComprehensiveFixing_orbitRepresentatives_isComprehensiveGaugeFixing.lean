@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_orbitRepresentatives_isComprehensiveGaugeFixing
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.orbitRepresentatives_isComprehensiveGaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:55:48.592828+00:00
 -- url     : https://prove2.me/theorems/be4802c4-d6ba-4d2e-9dbe-06250ba80c70

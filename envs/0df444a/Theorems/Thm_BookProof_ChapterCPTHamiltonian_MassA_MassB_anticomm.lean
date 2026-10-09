@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_MassA_MassB_anticomm
 -- name    : BookProof.ChapterCPTHamiltonian.MassA_MassB_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:23:47.601585+00:00
 -- url     : https://prove2.me/theorems/4315252f-5c77-4bc0-be6e-1c887db77f1f

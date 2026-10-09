@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3l_swap_spinGenDiag_comm
 -- name    : BookProof.ChapterA3l.swap_spinGenDiag_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:57:14.247215+00:00
 -- url     : https://prove2.me/theorems/18c42c35-33fc-4fa1-bef3-55696eabc91c

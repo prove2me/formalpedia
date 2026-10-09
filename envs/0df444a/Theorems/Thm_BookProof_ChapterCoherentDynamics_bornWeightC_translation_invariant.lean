@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_bornWeightC_translation_invariant
 -- name    : BookProof.ChapterCoherentDynamics.bornWeightC_translation_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:49:19.958348+00:00
 -- url     : https://prove2.me/theorems/71a2dea7-5c46-41e8-925b-1b7998778108

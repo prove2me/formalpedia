@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_hermiteFactor_succ_eq
 -- name    : BookProof.GaussCoordCombo.hermiteFactor_succ_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:18:52.969988+00:00
 -- url     : https://prove2.me/theorems/86762c04-5161-4576-afde-262d8b9d4310

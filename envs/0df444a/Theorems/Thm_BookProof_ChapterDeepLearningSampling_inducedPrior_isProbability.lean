@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningSampling_inducedPrior_isProbability
 -- name    : BookProof.ChapterDeepLearningSampling.inducedPrior_isProbability
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:29:17.248544+00:00
 -- url     : https://prove2.me/theorems/f250a9a2-768a-4ca6-a55f-05652be66592

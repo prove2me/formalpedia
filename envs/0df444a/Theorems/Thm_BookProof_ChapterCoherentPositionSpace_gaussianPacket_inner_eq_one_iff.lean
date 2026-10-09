@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentPositionSpace_gaussianPacket_inner_eq_one_iff
 -- name    : BookProof.ChapterCoherentPositionSpace.gaussianPacket_inner_eq_one_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:04:40.724781+00:00
 -- url     : https://prove2.me/theorems/03b226cf-513f-4a29-a78b-47fdc5eaa3cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_tsum_bandPart
 -- name    : BookProof.EnergyBandDecomposition.tsum_bandPart
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:45:21.736885+00:00
 -- url     : https://prove2.me/theorems/790c2060-29e6-43f9-ac8b-52ff5d5409e8

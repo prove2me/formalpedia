@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_exp_le_denom
 -- name    : BookProof.ChapterAttentionRetrieval.exp_le_denom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:42:33.006231+00:00
 -- url     : https://prove2.me/theorems/2024ff45-44d9-4797-81a6-6fbd37a515e6

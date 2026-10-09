@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GraphCore_symmetricOn_pushOp
 -- name    : BookProof.GraphCore.symmetricOn_pushOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:57:21.803987+00:00
 -- url     : https://prove2.me/theorems/46e8a82f-6444-4586-9606-7e1266eaef6f

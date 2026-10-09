@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningMAP_posterior_le_iff_weight
 -- name    : BookProof.ChapterDeepLearningMAP.posterior_le_iff_weight
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:28:08.687549+00:00
 -- url     : https://prove2.me/theorems/ce10c899-7a79-4f23-a9ed-11542ca82070

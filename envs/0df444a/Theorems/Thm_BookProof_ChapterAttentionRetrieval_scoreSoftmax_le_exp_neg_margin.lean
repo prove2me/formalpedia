@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_scoreSoftmax_le_exp_neg_margin
 -- name    : BookProof.ChapterAttentionRetrieval.scoreSoftmax_le_exp_neg_margin
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:42:48.293278+00:00
 -- url     : https://prove2.me/theorems/a32989e8-268a-45db-a3f6-187401273645

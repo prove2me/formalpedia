@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE4_basisVec_sq
 -- name    : BookProof.ChapterE4.basisVec_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:13:35.283981+00:00
 -- url     : https://prove2.me/theorems/380d42ee-c53d-473a-a42a-f5d2b5c0e9fb

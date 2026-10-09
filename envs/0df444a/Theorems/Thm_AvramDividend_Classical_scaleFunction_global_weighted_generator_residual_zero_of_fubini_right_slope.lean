@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_scaleFunction_global_weighted_generator_residual_zero_of_fubini_right_slope
 -- name    : AvramDividend.Classical.scaleFunction_global_weighted_generator_residual_zero_of_fubini_right_slope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T11:46:25.454452+00:00
 -- url     : https://prove2.me/theorems/f4b9a18c-42ed-4881-87ce-e1bcc9a9deaa

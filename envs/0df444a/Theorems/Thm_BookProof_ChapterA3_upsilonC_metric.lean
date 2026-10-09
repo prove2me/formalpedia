@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_upsilonC_metric
 -- name    : BookProof.ChapterA3.upsilonC_metric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:54:06.444598+00:00
 -- url     : https://prove2.me/theorems/53bf2320-c593-489d-8235-c9f9e89de31d

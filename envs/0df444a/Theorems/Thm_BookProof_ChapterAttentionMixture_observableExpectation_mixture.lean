@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_observableExpectation_mixture
 -- name    : BookProof.ChapterAttentionMixture.observableExpectation_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:24.836903+00:00
 -- url     : https://prove2.me/theorems/7170b94b-f87f-4fa0-9208-e78239698a45

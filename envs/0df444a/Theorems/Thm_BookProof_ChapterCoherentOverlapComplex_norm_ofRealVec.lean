@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_norm_ofRealVec
 -- name    : BookProof.ChapterCoherentOverlapComplex.norm_ofRealVec
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:01:18.54673+00:00
 -- url     : https://prove2.me/theorems/8570ec0b-be75-45e6-8e18-c7bf2ae11070

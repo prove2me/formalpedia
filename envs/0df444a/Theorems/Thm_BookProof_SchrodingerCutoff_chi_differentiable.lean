@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_chi_differentiable
 -- name    : BookProof.SchrodingerCutoff.chi_differentiable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:32:34.236116+00:00
 -- url     : https://prove2.me/theorems/794469d3-1be1-415e-9c04-33f0f4b34392

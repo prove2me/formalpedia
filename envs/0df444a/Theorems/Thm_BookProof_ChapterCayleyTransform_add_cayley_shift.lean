@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyTransform_add_cayley_shift
 -- name    : BookProof.ChapterCayleyTransform.add_cayley_shift
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:36:43.100976+00:00
 -- url     : https://prove2.me/theorems/b8d60778-c841-4a58-878b-711f0cfbd6e9

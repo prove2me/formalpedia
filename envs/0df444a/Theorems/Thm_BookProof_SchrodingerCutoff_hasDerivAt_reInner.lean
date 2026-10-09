@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_hasDerivAt_reInner
 -- name    : BookProof.SchrodingerCutoff.hasDerivAt_reInner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:30:52.733988+00:00
 -- url     : https://prove2.me/theorems/6ea8c9cd-961d-4fa0-8339-1dcc276fab5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEdge_mem_supportFinset
 -- name    : BookProof.DirectSumEdge.mem_supportFinset
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:57:00.430071+00:00
 -- url     : https://prove2.me/theorems/61c71275-575d-4b09-a118-fed689a36c2f

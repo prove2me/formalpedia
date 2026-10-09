@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_farisLavine_closure_isSelfAdjoint_unique
 -- name    : BookProof.ClosureUniqueness.farisLavine_closure_isSelfAdjoint_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:47:28.225728+00:00
 -- url     : https://prove2.me/theorems/e1a0d1b5-db7e-4882-9564-9f5f2340b35b

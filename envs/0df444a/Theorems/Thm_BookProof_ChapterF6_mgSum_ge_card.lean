@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_mgSum_ge_card
 -- name    : BookProof.ChapterF6.mgSum_ge_card
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:04:36.822596+00:00
 -- url     : https://prove2.me/theorems/4d0d6f82-c4a6-489f-8d57-a39696a0acb2

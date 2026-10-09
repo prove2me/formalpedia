@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningSampling_posterior_eq_zero_of_not_mem_range
 -- name    : BookProof.ChapterDeepLearningSampling.posterior_eq_zero_of_not_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:29:10.487142+00:00
 -- url     : https://prove2.me/theorems/8d5146bd-bf05-40ba-90af-b7d4fd5ef340

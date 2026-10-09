@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE3_eulerJ_sq
 -- name    : BookProof.ChapterE3.eulerJ_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:12:50.99726+00:00
 -- url     : https://prove2.me/theorems/f8a8f602-956e-4cb6-8d20-e9be2da12a27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF8_totalCost_sub_offline
 -- name    : BookProof.ChapterF8.totalCost_sub_offline
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:09:04.660992+00:00
 -- url     : https://prove2.me/theorems/7cb01bb6-2fa9-47fa-b0fb-796ea6ac5691

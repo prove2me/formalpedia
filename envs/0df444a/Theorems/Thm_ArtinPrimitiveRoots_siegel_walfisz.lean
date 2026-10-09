@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_siegel_walfisz
 -- name    : ArtinPrimitiveRoots.siegel_walfisz
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:27:17.043993+00:00
 -- url     : https://prove2.me/theorems/821f2b17-0a65-4c7b-a7da-9a5ebf37c3fb

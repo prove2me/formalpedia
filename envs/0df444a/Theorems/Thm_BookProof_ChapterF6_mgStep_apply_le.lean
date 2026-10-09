@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF6_mgStep_apply_le
 -- name    : BookProof.ChapterF6.mgStep_apply_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:02:25.142453+00:00
 -- url     : https://prove2.me/theorems/64d22a6e-584c-43b2-ae78-529e684d8a6f

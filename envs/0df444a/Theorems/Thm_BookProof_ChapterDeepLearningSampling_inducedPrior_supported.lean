@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningSampling_inducedPrior_supported
 -- name    : BookProof.ChapterDeepLearningSampling.inducedPrior_supported
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:28:58.895288+00:00
 -- url     : https://prove2.me/theorems/86553c5e-f3a8-41de-bf59-bde60f701064

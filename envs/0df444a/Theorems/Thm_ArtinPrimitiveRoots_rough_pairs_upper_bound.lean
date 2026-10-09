@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_rough_pairs_upper_bound
 -- name    : ArtinPrimitiveRoots.rough_pairs_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:27:29.0924+00:00
 -- url     : https://prove2.me/theorems/1821f5f2-4140-44db-932f-438663f70b38

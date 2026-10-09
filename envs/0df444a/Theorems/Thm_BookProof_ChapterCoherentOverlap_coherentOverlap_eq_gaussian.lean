@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlap_coherentOverlap_eq_gaussian
 -- name    : BookProof.ChapterCoherentOverlap.coherentOverlap_eq_gaussian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:01:41.69097+00:00
 -- url     : https://prove2.me/theorems/40050767-efda-452d-a415-42b2e6b3f5d1

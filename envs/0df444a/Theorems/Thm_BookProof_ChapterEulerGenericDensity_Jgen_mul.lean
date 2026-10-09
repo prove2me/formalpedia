@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerGenericDensity_Jgen_mul
 -- name    : BookProof.ChapterEulerGenericDensity.Jgen_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:29:57.002979+00:00
 -- url     : https://prove2.me/theorems/9da12a39-60ed-4d42-839f-2c9a9f0e03d9

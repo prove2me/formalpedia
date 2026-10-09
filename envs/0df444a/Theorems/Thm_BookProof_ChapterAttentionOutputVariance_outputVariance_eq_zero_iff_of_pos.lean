@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_outputVariance_eq_zero_iff_of_pos
 -- name    : BookProof.ChapterAttentionOutputVariance.outputVariance_eq_zero_iff_of_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:38:12.877893+00:00
 -- url     : https://prove2.me/theorems/872ef2bb-0ea3-4c0f-98a5-75b05eb2fffe

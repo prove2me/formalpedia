@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BigDataNV_Reg_theorem2_generalization_bound
 -- name    : BigDataNV.Reg.theorem2_generalization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T05:53:28.662199+00:00
 -- url     : https://prove2.me/theorems/82cd3bd1-cc5f-4d46-82c0-d7b863c472f4

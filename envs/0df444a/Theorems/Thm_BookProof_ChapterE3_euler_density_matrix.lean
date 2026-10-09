@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE3_euler_density_matrix
 -- name    : BookProof.ChapterE3.euler_density_matrix
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:12:32.463328+00:00
 -- url     : https://prove2.me/theorems/e0bc628c-ac23-4dc2-a90f-1063c5cc67bd

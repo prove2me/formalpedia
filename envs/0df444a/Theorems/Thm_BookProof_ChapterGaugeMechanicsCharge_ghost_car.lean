@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_ghost_car
 -- name    : BookProof.ChapterGaugeMechanicsCharge.ghost_car
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:16:00.68031+00:00
 -- url     : https://prove2.me/theorems/b04aef3a-cf0d-4c15-bafc-76ee44b3881f

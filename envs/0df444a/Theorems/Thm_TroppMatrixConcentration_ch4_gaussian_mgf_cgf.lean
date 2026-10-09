@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TroppMatrixConcentration_ch4_gaussian_mgf_cgf
 -- name    : TroppMatrixConcentration.ch4_gaussian_mgf_cgf
--- status  : Open
+-- status  : Proved
 -- author  : @tc
 -- created : 2026-10-07T13:45:36.306983+00:00
 -- url     : https://prove2.me/theorems/c95024e1-53b2-4e90-9454-e60ee128bf7f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_tsum_choose_two
 -- name    : BookProof.ChapterCoherentTemperature.tsum_choose_two
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:10:29.277019+00:00
 -- url     : https://prove2.me/theorems/e8d65851-9d08-47b6-99da-2b95576e6073

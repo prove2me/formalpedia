@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_bargmann_monomial
 -- name    : BookProof.ChapterF1.bargmann_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:44:52.383465+00:00
 -- url     : https://prove2.me/theorems/33aefd5e-4925-4369-84f2-075034f93f6e

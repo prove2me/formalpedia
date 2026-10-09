@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_brst_ne_zero
 -- name    : BookProof.ChapterGaugeMechanicsCharge.brst_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:15:54.066133+00:00
 -- url     : https://prove2.me/theorems/f5311ba1-3032-42e9-b179-24bb75e17a25

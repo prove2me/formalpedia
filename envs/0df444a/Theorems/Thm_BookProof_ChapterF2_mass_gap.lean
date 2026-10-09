@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_mass_gap
 -- name    : BookProof.ChapterF2.mass_gap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:47:33.22788+00:00
 -- url     : https://prove2.me/theorems/52820db8-4e9b-4df5-88cd-58ef66095591

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_i_comm_l2Symmetric
 -- name    : BookProof.ChapterF7.i_comm_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:07:07.291618+00:00
 -- url     : https://prove2.me/theorems/ed316a85-5d27-4ae1-9eb8-c9fd43da6492

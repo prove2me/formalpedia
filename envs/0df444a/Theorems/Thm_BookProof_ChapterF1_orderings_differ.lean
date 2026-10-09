@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF1_orderings_differ
 -- name    : BookProof.ChapterF1.orderings_differ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:46:07.803665+00:00
 -- url     : https://prove2.me/theorems/7771422d-cd3a-46bc-9420-ef7f9fcb6441

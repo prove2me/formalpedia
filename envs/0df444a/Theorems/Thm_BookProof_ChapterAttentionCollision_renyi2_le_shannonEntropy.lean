@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_renyi2_le_shannonEntropy
 -- name    : BookProof.ChapterAttentionCollision.renyi2_le_shannonEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:22:28.827722+00:00
 -- url     : https://prove2.me/theorems/516495a5-67f9-47e1-a5a3-254e9d41ca68

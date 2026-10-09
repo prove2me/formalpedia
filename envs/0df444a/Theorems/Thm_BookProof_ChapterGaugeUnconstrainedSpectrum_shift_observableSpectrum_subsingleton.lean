@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_shift_observableSpectrum_subsingleton
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.shift_observableSpectrum_subsingleton
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:17:11.267514+00:00
 -- url     : https://prove2.me/theorems/5f6bab6b-3688-4e1c-8e8f-cc61cf65a58c

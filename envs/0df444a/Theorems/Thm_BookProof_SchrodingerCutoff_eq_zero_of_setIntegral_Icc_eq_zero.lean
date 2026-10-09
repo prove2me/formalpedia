@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_eq_zero_of_setIntegral_Icc_eq_zero
 -- name    : BookProof.SchrodingerCutoff.eq_zero_of_setIntegral_Icc_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:31:32.767971+00:00
 -- url     : https://prove2.me/theorems/2d8f167b-3c06-4138-b7c4-74b21161b4f9

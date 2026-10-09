@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DimCallCenters_Constraint_theorem_8_2
 -- name    : DimCallCenters.Constraint.theorem_8_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:01:33.742054+00:00
 -- url     : https://prove2.me/theorems/1e717be1-c0b0-481f-809a-7f7766cede26

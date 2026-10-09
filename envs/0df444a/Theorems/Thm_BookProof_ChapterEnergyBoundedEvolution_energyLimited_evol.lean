@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEnergyBoundedEvolution_energyLimited_evol
 -- name    : BookProof.ChapterEnergyBoundedEvolution.energyLimited_evol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:47:32.814501+00:00
 -- url     : https://prove2.me/theorems/f603d9b4-b983-439f-ab88-c275eb2d7125

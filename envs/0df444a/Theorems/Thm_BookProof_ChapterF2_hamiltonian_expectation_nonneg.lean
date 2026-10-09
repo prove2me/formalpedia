@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_hamiltonian_expectation_nonneg
 -- name    : BookProof.ChapterF2.hamiltonian_expectation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:46:49.917993+00:00
 -- url     : https://prove2.me/theorems/c1987fb5-112f-4e07-907e-a180e15efe18

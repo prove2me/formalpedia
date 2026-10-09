@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pCond_sum_one
 -- name    : BookProof.ChapterConditional.pCond_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:22:23.403983+00:00
 -- url     : https://prove2.me/theorems/6267b572-16c7-413d-a661-ca3d76f7f123

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_l2pair_sub_left
 -- name    : BookProof.ChapterF7.l2pair_sub_left
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:05:58.964982+00:00
 -- url     : https://prove2.me/theorems/4f7c2e6b-16ef-4dce-9d38-642ccdebaf81

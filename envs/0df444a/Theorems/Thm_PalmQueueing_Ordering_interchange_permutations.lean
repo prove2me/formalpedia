@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PalmQueueing_Ordering_interchange_permutations
 -- name    : PalmQueueing.Ordering.interchange_permutations
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T02:39:58.187984+00:00
 -- url     : https://prove2.me/theorems/9df599ff-daa6-403c-8fb6-f7862eaa96bf

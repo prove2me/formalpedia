@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rosser_schoenfeld_theta_lower_mid_e10_seg0003
 -- name    : TaoFivePrimes.rosser_schoenfeld_theta_lower_mid_e10_seg0003
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T13:27:37.826525+00:00
 -- url     : https://prove2.me/theorems/ba6f5d76-9d27-4abe-bfa6-fa40f1c6226f

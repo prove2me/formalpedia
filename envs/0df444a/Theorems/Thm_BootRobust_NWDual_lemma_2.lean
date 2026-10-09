@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BootRobust_NWDual_lemma_2
 -- name    : BootRobust.NWDual.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:23.514604+00:00
 -- url     : https://prove2.me/theorems/0566e2d1-10c4-47fe-bfa5-20617d75dfee

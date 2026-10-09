@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOVCircuit_mulVec_headOutput
 -- name    : BookProof.ChapterAttentionOVCircuit.mulVec_headOutput
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:32:35.914976+00:00
 -- url     : https://prove2.me/theorems/c0b5222d-d1c8-4b75-9423-3e9a7635c8f3

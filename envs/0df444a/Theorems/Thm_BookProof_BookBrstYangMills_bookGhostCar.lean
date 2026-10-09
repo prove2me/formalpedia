@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_bookGhostCar
 -- name    : BookProof.BookBrstYangMills.bookGhostCar
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:14:15.359816+00:00
 -- url     : https://prove2.me/theorems/04168e73-6359-4f18-9932-8eca2ff6e9ca

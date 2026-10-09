@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_lemma48_bridge
 -- name    : BookProof.ChapterA3.lemma48_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:55:48.26498+00:00
 -- url     : https://prove2.me/theorems/ee3c52b7-2168-4353-8372-91c735553b8b

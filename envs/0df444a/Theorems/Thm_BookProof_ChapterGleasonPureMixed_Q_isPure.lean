@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGleasonPureMixed_Q_isPure
 -- name    : BookProof.ChapterGleasonPureMixed.Q_isPure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:54:33.523817+00:00
 -- url     : https://prove2.me/theorems/7a9efc30-6ec1-4659-a004-b930273bd4ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_le_negMulLog_mixture
 -- name    : BookProof.ChapterAttentionMixture.le_negMulLog_mixture
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:54.019275+00:00
 -- url     : https://prove2.me/theorems/1ee181ce-e25a-460f-9ed2-06a13572b752

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_rational_weight_vector_scale_exists
 -- name    : OAI.PiExponent.FormalInterpolation.rational_weight_vector_scale_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T07:00:31.851499+00:00
 -- url     : https://prove2.me/theorems/03fd0224-0a41-43b7-8e09-840fb4a83219

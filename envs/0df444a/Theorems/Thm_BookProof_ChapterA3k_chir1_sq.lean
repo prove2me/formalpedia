@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3k_chir1_sq
 -- name    : BookProof.ChapterA3k.chir1_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:55:53.147312+00:00
 -- url     : https://prove2.me/theorems/9d1110dc-fe00-4a04-bfdd-3c3f137fc33e

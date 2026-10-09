@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockInteractionStability_fock_gap_of_one_particle_form_gap_interaction
 -- name    : BookProof.FockInteractionStability.fock_gap_of_one_particle_form_gap_interaction
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-06T10:12:20.963275+00:00
 -- url     : https://prove2.me/theorems/301f4a0d-8577-44c4-b469-08cac376e754

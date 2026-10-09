@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_principal_open_smooth_mixed_flag_family
 -- name    : PhilipponMultiplicity.exists_principal_open_smooth_mixed_flag_family
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-04T20:09:46.180982+00:00
 -- url     : https://prove2.me/theorems/cb087b60-bd87-46f8-8672-81234ffb113d

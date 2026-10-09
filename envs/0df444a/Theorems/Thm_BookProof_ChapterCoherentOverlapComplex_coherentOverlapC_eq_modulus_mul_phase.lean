@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_coherentOverlapC_eq_modulus_mul_phase
 -- name    : BookProof.ChapterCoherentOverlapComplex.coherentOverlapC_eq_modulus_mul_phase
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:00:55.855786+00:00
 -- url     : https://prove2.me/theorems/d853cea6-d3b2-4785-89ff-1808e3670723

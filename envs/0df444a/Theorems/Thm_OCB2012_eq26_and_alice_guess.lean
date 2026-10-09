@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_eq26_and_alice_guess
 -- name    : OCB2012.eq26_and_alice_guess
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:12:28.270089+00:00
 -- url     : https://prove2.me/theorems/93148970-2162-4c2c-b459-58df03a4cb16

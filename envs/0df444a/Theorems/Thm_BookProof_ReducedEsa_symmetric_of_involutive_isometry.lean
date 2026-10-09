@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ReducedEsa_symmetric_of_involutive_isometry
 -- name    : BookProof.ReducedEsa.symmetric_of_involutive_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:31:34.530661+00:00
 -- url     : https://prove2.me/theorems/d6774d17-6725-4984-a193-3b2392b808e5

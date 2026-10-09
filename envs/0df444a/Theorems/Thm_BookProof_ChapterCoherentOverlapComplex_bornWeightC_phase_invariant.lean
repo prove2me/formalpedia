@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_bornWeightC_phase_invariant
 -- name    : BookProof.ChapterCoherentOverlapComplex.bornWeightC_phase_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:03:22.139733+00:00
 -- url     : https://prove2.me/theorems/94174f71-b537-452c-9e98-db119a571a07

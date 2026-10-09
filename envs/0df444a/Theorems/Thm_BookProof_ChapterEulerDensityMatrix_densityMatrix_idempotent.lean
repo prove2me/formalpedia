@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerDensityMatrix_densityMatrix_idempotent
 -- name    : BookProof.ChapterEulerDensityMatrix.densityMatrix_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:29:06.135105+00:00
 -- url     : https://prove2.me/theorems/972d0132-0092-4907-9afe-094370d3fabf

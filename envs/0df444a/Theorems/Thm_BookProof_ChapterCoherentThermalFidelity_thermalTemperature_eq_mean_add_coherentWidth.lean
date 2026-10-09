@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_thermalTemperature_eq_mean_add_coherentWidth
 -- name    : BookProof.ChapterCoherentThermalFidelity.thermalTemperature_eq_mean_add_coherentWidth
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:16:07.161163+00:00
 -- url     : https://prove2.me/theorems/b2390154-e3ee-4101-8ede-9eea6754ecc4

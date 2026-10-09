@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_principal_open_pointwise_smooth_mixed_zero_locus
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-05T21:30:33.161383+00:00
 -- url     : https://prove2.me/submissions/b135d5c9-a739-4829-84c3-240f3514e876
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_principal_open_mixed_jacobian_presentations
 import Definitions.Def_PhilipponMultiplicity_GeometricSupport

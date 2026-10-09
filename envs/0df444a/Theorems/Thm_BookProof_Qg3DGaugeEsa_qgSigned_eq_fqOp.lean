@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Qg3DGaugeEsa_qgSigned_eq_fqOp
 -- name    : BookProof.Qg3DGaugeEsa.qgSigned_eq_fqOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T19:11:26.531991+00:00
 -- url     : https://prove2.me/theorems/b08c7525-811b-4a16-96b6-efea343d9931

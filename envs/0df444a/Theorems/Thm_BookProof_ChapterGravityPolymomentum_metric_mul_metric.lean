@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_metric_mul_metric
 -- name    : BookProof.ChapterGravityPolymomentum.metric_mul_metric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T13:01:17.323944+00:00
 -- url     : https://prove2.me/theorems/1eb849f8-4593-4c12-a2db-ca40890501b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_l2pair_smul_left
 -- name    : BookProof.ChapterF7.l2pair_smul_left
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:05:32.475782+00:00
 -- url     : https://prove2.me/theorems/fc9c505c-eb61-493d-acdf-b0cf6bb6a93d

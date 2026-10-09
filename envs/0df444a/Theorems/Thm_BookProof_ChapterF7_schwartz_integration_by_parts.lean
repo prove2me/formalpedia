@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_schwartz_integration_by_parts
 -- name    : BookProof.ChapterF7.schwartz_integration_by_parts
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:06:48.508229+00:00
 -- url     : https://prove2.me/theorems/650db25a-f57c-4587-b729-829636aad077

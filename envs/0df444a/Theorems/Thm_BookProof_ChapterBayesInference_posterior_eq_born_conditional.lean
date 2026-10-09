@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_posterior_eq_born_conditional
 -- name    : BookProof.ChapterBayesInference.posterior_eq_born_conditional
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:53:33.41577+00:00
 -- url     : https://prove2.me/theorems/b7204b75-3542-4bef-89e8-bfdcc75cd0fa

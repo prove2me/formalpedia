@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_EnergyBandDecomposition_evolution_preserves_band
 -- name    : BookProof.EnergyBandDecomposition.evolution_preserves_band
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:46:00.684309+00:00
 -- url     : https://prove2.me/theorems/02e9a13f-5f2a-499a-912b-86e9cad9b053

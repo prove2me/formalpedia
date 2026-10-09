@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixing_eq_of_stationary
 -- name    : BookProof.ChapterAttentionMixing.eq_of_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:10:14.156204+00:00
 -- url     : https://prove2.me/theorems/cc5e7706-e7c1-46bd-bcca-3919d30d1edd

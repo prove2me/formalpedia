@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_joint_nonneg
 -- name    : BookProof.ChapterBayesInference.joint_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:52:38.272671+00:00
 -- url     : https://prove2.me/theorems/6d75c03c-eb35-43ae-97b0-b2cd3106268c

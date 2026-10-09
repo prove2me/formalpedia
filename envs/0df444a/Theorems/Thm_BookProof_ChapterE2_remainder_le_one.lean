@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_remainder_le_one
 -- name    : BookProof.ChapterE2.remainder_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:11:22.757597+00:00
 -- url     : https://prove2.me/theorems/ebba3f93-fb02-4cc9-8a2b-0703f57740ba

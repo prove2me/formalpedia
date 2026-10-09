@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF3_disjoint_support_inner_zero
 -- name    : BookProof.ChapterF3.disjoint_support_inner_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:49:21.343317+00:00
 -- url     : https://prove2.me/theorems/79102d2c-8e46-46c3-8cae-a26cd94142bc

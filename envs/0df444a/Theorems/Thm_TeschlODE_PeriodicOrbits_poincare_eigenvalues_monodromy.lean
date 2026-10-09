@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_PeriodicOrbits_poincare_eigenvalues_monodromy
 -- name    : TeschlODE.PeriodicOrbits.poincare_eigenvalues_monodromy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T05:29:52.654825+00:00
 -- url     : https://prove2.me/theorems/fa7570c8-ad4c-4052-92be-0a2daa881948

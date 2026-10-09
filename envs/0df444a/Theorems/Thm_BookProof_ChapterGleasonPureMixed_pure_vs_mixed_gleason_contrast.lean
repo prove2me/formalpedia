@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGleasonPureMixed_pure_vs_mixed_gleason_contrast
 -- name    : BookProof.ChapterGleasonPureMixed.pure_vs_mixed_gleason_contrast
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:55:53.126024+00:00
 -- url     : https://prove2.me/theorems/19e5a91d-ae08-4113-be52-59551bd1fb72

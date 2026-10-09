@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOverlapComplex_coherentBornC_cancel_q
 -- name    : BookProof.ChapterCoherentOverlapComplex.coherentBornC_cancel_q
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:02:36.045724+00:00
 -- url     : https://prove2.me/theorems/11b41131-cecd-479e-adb6-3ec897bf1edc

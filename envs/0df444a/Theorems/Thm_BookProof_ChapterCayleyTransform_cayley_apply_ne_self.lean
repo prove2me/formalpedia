@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyTransform_cayley_apply_ne_self
 -- name    : BookProof.ChapterCayleyTransform.cayley_apply_ne_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:36:42.928811+00:00
 -- url     : https://prove2.me/theorems/907232f3-bfc9-462c-873c-0d5238e91908

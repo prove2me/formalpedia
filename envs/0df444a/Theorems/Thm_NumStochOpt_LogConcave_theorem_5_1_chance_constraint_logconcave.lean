@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NumStochOpt_LogConcave_theorem_5_1_chance_constraint_logconcave
 -- name    : NumStochOpt.LogConcave.theorem_5_1_chance_constraint_logconcave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T19:47:34.420333+00:00
 -- url     : https://prove2.me/theorems/8a1dca99-fc18-48d1-8997-7982bf1c67dd

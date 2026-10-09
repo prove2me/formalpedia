@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_shift_smul_def
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.shift_smul_def
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:10:19.669736+00:00
 -- url     : https://prove2.me/theorems/46190a7a-8de9-4ed3-9cbd-57474f347c52

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBornMeasure_bornMeasure_absolutelyContinuous
 -- name    : BookProof.ChapterBornMeasure.bornMeasure_absolutelyContinuous
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:56:39.990976+00:00
 -- url     : https://prove2.me/theorems/74dc7ace-8ef6-4fc6-9fc4-4dece9683af7

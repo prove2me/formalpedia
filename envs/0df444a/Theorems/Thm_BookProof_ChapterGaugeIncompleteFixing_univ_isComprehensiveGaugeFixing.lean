@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeIncompleteFixing_univ_isComprehensiveGaugeFixing
 -- name    : BookProof.ChapterGaugeIncompleteFixing.univ_isComprehensiveGaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:11:38.337986+00:00
 -- url     : https://prove2.me/theorems/f452eddb-01d1-44d1-b087-2f4741170499

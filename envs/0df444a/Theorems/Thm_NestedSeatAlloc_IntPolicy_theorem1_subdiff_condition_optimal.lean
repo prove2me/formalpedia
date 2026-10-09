@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_theorem1_subdiff_condition_optimal
 -- name    : NestedSeatAlloc.IntPolicy.theorem1_subdiff_condition_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:18:49.357197+00:00
 -- url     : https://prove2.me/theorems/143e0912-6e16-4a92-9b63-63f65216560c

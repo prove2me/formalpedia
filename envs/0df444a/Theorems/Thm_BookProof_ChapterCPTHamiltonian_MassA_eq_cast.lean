@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_MassA_eq_cast
 -- name    : BookProof.ChapterCPTHamiltonian.MassA_eq_cast
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:22:55.020676+00:00
 -- url     : https://prove2.me/theorems/68008bd5-67af-4f91-ae29-471c29e005cc

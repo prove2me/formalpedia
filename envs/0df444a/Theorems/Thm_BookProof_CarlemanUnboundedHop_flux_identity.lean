@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_flux_identity
 -- name    : BookProof.CarlemanUnboundedHop.flux_identity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:32:29.802275+00:00
 -- url     : https://prove2.me/theorems/319e91f6-0395-4c36-88a2-4ef934691b93

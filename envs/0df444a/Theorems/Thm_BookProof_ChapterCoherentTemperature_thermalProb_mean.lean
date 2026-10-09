@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentTemperature_thermalProb_mean
 -- name    : BookProof.ChapterCoherentTemperature.thermalProb_mean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:10:21.374235+00:00
 -- url     : https://prove2.me/theorems/0f0d00ec-b47b-4c7a-8236-0ee5d6662ee5

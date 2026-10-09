@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBoseEinstein_exp_sub_one_pos
 -- name    : BookProof.ChapterBoseEinstein.exp_sub_one_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:06:08.999004+00:00
 -- url     : https://prove2.me/theorems/bd045c19-6fdb-40f8-a563-4fd43f88408e

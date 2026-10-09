@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBell_chsh_pointwise
 -- name    : BookProof.ChapterBell.chsh_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:53:58.468223+00:00
 -- url     : https://prove2.me/theorems/49cb3ffc-7bba-4483-8e0f-ba83debd05c7

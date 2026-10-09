@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjLikeRetr_Stiefel_projection_stiefel
 -- name    : ProjLikeRetr.Stiefel.projection_stiefel
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T15:29:55.354984+00:00
 -- url     : https://prove2.me/theorems/be1a43d2-2b3e-4a1b-a5ee-ac8743eefbb7

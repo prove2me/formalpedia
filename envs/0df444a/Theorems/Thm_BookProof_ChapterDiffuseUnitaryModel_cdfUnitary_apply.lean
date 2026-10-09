@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDiffuseUnitaryModel_cdfUnitary_apply
 -- name    : BookProof.ChapterDiffuseUnitaryModel.cdfUnitary_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:56:40.233754+00:00
 -- url     : https://prove2.me/theorems/f8448ad7-d65f-4b30-9ef3-4e135cd2d38b

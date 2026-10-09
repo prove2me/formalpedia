@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_hasAdLambda_zero
 -- name    : BookProof.ChapterA3.hasAdLambda_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:45:46.54098+00:00
 -- url     : https://prove2.me/theorems/5e32faa0-3146-4584-9a39-92fde169c259

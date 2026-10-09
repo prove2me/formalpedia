@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCoarseGrain_headOutput_merge
 -- name    : BookProof.ChapterAttentionCoarseGrain.headOutput_merge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:22:20.461991+00:00
 -- url     : https://prove2.me/theorems/cf6b2239-3077-4431-9d78-53b8afea1e40

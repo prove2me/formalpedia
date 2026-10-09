@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixing_tendsto_l1dist_pushIter
 -- name    : BookProof.ChapterAttentionMixing.tendsto_l1dist_pushIter
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:09:06.718004+00:00
 -- url     : https://prove2.me/theorems/b025c31c-d495-474a-9f7c-c92c5e59a276

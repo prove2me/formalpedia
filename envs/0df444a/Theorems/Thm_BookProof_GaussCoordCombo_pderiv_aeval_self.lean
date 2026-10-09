@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GaussCoordCombo_pderiv_aeval_self
 -- name    : BookProof.GaussCoordCombo.pderiv_aeval_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:18:09.452142+00:00
 -- url     : https://prove2.me/theorems/dfc4d892-8a8d-45f6-bc0b-a19a8c3c44b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGleasonPureMixed_exists_pure_expP0
 -- name    : BookProof.ChapterGleasonPureMixed.exists_pure_expP0
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:54:53.408246+00:00
 -- url     : https://prove2.me/theorems/d6d38aed-2c42-4981-9dcb-b8647f4f4186

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_flow_apply_flow
 -- name    : BookProof.BrstUnboundedLeakage.flow_apply_flow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:17:54.223222+00:00
 -- url     : https://prove2.me/theorems/27445640-4293-454a-a3d8-a32712250f92

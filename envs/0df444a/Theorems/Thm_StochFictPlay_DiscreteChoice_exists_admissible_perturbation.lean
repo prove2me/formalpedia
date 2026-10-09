@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_DiscreteChoice_exists_admissible_perturbation
 -- name    : StochFictPlay.DiscreteChoice.exists_admissible_perturbation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:46:58.191265+00:00
 -- url     : https://prove2.me/theorems/d555a301-b998-4898-b444-2506e08c2a67

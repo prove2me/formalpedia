@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxAlg_NormProx_prox_norm_eq
 -- name    : ProxAlg.NormProx.prox_norm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:06:21.782815+00:00
 -- url     : https://prove2.me/theorems/ba1ede94-ac59-4c69-8f2c-b84bd70bc433

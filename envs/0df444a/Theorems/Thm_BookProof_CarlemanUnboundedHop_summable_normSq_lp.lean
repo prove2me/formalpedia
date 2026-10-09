@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_summable_normSq_lp
 -- name    : BookProof.CarlemanUnboundedHop.summable_normSq_lp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:34:52.531407+00:00
 -- url     : https://prove2.me/theorems/a3cc97c9-28e8-49fc-820d-f1c4a20cd390

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFock_linForm_qgTorsionVecN
 -- name    : BookProof.QgOuterFock.linForm_qgTorsionVecN
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T17:49:12.952533+00:00
 -- url     : https://prove2.me/theorems/e36f5f33-ae04-435d-9170-a57e2823d54a

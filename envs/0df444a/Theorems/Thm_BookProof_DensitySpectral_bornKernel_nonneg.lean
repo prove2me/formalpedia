@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DensitySpectral_bornKernel_nonneg
 -- name    : BookProof.DensitySpectral.bornKernel_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:29:42.905976+00:00
 -- url     : https://prove2.me/theorems/3c32d934-60e4-4a4a-a1dd-e87fffe9dd84

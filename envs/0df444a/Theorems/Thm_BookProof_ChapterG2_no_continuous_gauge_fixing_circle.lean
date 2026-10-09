@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG2_no_continuous_gauge_fixing_circle
 -- name    : BookProof.ChapterG2.no_continuous_gauge_fixing_circle
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:50:17.562932+00:00
 -- url     : https://prove2.me/theorems/144b8a25-250e-4b71-8d13-75d70965bf9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyTransform_denseRange_one_sub_cayley
 -- name    : BookProof.ChapterCayleyTransform.denseRange_one_sub_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:37:20.244995+00:00
 -- url     : https://prove2.me/theorems/ab391b22-1437-49cf-8474-83413733108e

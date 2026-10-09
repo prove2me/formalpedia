@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeComprehensiveFixing_existsUnique_mem_of_complete_comprehensive
 -- name    : BookProof.ChapterGaugeComprehensiveFixing.existsUnique_mem_of_complete_comprehensive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:56:13.22282+00:00
 -- url     : https://prove2.me/theorems/cf92c565-183c-4ed0-b1cb-40aac99b634f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_thermalOccupation_energy
 -- name    : BookProof.ChapterCoherentOccupation.thermalOccupation_energy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:55:27.095721+00:00
 -- url     : https://prove2.me/theorems/4f2797bb-6cfb-4b66-a93a-e88afd260b96

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherentOccupation_hasSum_mean
 -- name    : BookProof.ChapterCoherentOccupation.coherentOccupation_hasSum_mean
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:54:22.330178+00:00
 -- url     : https://prove2.me/theorems/33e5f4e9-66e0-4d66-9935-6c5c0351d80b

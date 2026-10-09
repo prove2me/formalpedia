@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rosser_schoenfeld_theta_lower_analytic_mid_lower
 -- name    : TaoFivePrimes.rosser_schoenfeld_theta_lower_analytic_mid_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-09-24T12:42:47.923054+00:00
 -- url     : https://prove2.me/theorems/fa58620e-0727-4e9a-9ea0-8e7318b6aef5

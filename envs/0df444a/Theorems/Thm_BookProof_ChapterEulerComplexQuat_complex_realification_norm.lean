@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerComplexQuat_complex_realification_norm
 -- name    : BookProof.ChapterEulerComplexQuat.complex_realification_norm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:50:42.526855+00:00
 -- url     : https://prove2.me/theorems/9beae164-82cf-43db-a47f-3b4ae15fc6e5

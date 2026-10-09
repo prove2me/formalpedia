@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOVCircuit_ovMatrix_gauge
 -- name    : BookProof.ChapterAttentionOVCircuit.ovMatrix_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:32:45.603297+00:00
 -- url     : https://prove2.me/theorems/7e2f973a-5329-4b88-9f4c-47c23d069f14

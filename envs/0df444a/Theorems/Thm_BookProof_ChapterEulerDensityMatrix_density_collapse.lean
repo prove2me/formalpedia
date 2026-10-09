@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerDensityMatrix_density_collapse
 -- name    : BookProof.ChapterEulerDensityMatrix.density_collapse
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:28:38.137803+00:00
 -- url     : https://prove2.me/theorems/2a8c37af-f0d8-4b1f-8585-6bcdeab110c7

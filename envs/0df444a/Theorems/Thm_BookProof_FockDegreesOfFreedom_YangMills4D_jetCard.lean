@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockDegreesOfFreedom_YangMills4D_jetCard
 -- name    : BookProof.FockDegreesOfFreedom.YangMills4D.jetCard
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:21:47.010315+00:00
 -- url     : https://prove2.me/theorems/7502ad20-3205-4dc3-acfc-2fb702cc1070

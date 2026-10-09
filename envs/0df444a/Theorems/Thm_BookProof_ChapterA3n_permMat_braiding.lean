@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_permMat_braiding
 -- name    : BookProof.ChapterA3n.permMat_braiding
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:07:47.103984+00:00
 -- url     : https://prove2.me/theorems/da73447e-ba01-44d7-a727-9e61af94ecdb

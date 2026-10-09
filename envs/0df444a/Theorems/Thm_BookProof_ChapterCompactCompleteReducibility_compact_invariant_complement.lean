@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCompactCompleteReducibility_compact_invariant_complement
 -- name    : BookProof.ChapterCompactCompleteReducibility.compact_invariant_complement
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:16:11.565772+00:00
 -- url     : https://prove2.me/theorems/55a24396-1e54-44e9-bd8a-6804b72f9a02

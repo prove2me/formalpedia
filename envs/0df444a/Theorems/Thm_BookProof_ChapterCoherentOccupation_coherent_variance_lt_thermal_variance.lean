@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentOccupation_coherent_variance_lt_thermal_variance
 -- name    : BookProof.ChapterCoherentOccupation.coherent_variance_lt_thermal_variance
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:55:47.212424+00:00
 -- url     : https://prove2.me/theorems/48392a18-29f9-43a2-a97a-ac6c81caa283

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE2_bornProb_nonneg
 -- name    : BookProof.ChapterE2.bornProb_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:12:19.143232+00:00
 -- url     : https://prove2.me/theorems/21a74a71-fae8-45fe-9ac2-296916fbec35

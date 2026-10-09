@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_physicalBox_pair_kernel_grid_error
 -- name    : OAI.Erdos3.physicalBox_pair_kernel_grid_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:26:57.727509+00:00
 -- url     : https://prove2.me/theorems/2390dacd-8004-4630-95c3-bbbf3a594a85

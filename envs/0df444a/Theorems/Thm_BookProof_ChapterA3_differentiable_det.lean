@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_differentiable_det
 -- name    : BookProof.ChapterA3.differentiable_det
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:47:19.109491+00:00
 -- url     : https://prove2.me/theorems/f9f95d76-4136-4578-900a-e137ee0cc49f

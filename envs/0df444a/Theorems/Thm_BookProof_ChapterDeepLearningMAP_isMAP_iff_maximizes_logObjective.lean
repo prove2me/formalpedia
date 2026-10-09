@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningMAP_isMAP_iff_maximizes_logObjective
 -- name    : BookProof.ChapterDeepLearningMAP.isMAP_iff_maximizes_logObjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:28:39.324024+00:00
 -- url     : https://prove2.me/theorems/78173cbc-7206-451d-935d-1a7d88f640b2

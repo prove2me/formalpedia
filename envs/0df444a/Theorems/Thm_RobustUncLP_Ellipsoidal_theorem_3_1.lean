@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustUncLP_Ellipsoidal_theorem_3_1
 -- name    : RobustUncLP.Ellipsoidal.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T12:29:39.035037+00:00
 -- url     : https://prove2.me/theorems/2737d1fc-b2e4-4ce6-b702-95245a0b4946

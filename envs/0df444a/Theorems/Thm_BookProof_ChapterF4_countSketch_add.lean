@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_countSketch_add
 -- name    : BookProof.ChapterF4.countSketch_add
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:50:35.825118+00:00
 -- url     : https://prove2.me/theorems/9df566c0-b333-445c-b6ed-81c99e1ad19e

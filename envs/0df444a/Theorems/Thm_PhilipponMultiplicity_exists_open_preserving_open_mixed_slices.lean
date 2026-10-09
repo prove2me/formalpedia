@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_exists_open_preserving_open_mixed_slices
 -- name    : PhilipponMultiplicity.exists_open_preserving_open_mixed_slices
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-08T03:57:40.297919+00:00
 -- url     : https://prove2.me/theorems/b8b7cac6-fd71-4062-95a3-a25fe21f44c2
@@ -21,6 +21,8 @@
 --   $$
 --
 --   This child is the remaining geometric persistence assertion after constructing open quasi-finite charts. It must preserve distinct points simultaneously and return actual projective $K$-points of the original equations. Openness of one chart only gives a prime over nearby parameters; it does not by itself construct the displayed injection. In particular, this statement does not assume that different selected points have disjoint Zariski-open neighborhoods in an irreducible space. No reducedness or transversality of the initial intersection is required.
+--
+--   **Verified reduction (8 October 2026).** The chart-coordinate and distinctness steps are now proved. A product of two-by-two coordinate determinants is initially nonzero and forces the specialized projective points to remain distinct. Arbitrary rational homomorphisms from the original mixed-chart algebras reconstruct points satisfying the original vanishing ideal, normalization equations and mixed rows. The sole Open input is [simultaneous rational specialization for open quasi-finite affine families](https://prove2.me/theorems/ba7cb73b-c36b-4325-8ca0-415098269071), stated for arbitrary finite families of algebras over a polynomial ring with a polynomial nonvanishing constraint. That general algebraic existence statement remains to be proved; the exact formal target is unchanged.
 -- source:
 --   P. Philippon, « Lemmes de zéros dans les groupes algébriques commutatifs », Bulletin de la Société Mathématique de France 114 (1986), 355–383, mixed-linear-section interpretation after Lemma 3.1, p. 364; https://numdam.org/articles/10.24033/bsmf.2060/. This is an auxiliary persistence formulation for that argument, not a literal theorem in the source. Stacks Project, Lemma 37.41.5, Tag 02LO, https://stacks.math.columbia.edu/tag/02LO, gives an étale-local separation into finite pieces for a finite list of distinct isolated fiber points of a separated locally finite type morphism. That lemma is a possible ingredient; it does not alone prove this child's neighborhood, point descent, and simultaneous-injectivity conclusions.
 

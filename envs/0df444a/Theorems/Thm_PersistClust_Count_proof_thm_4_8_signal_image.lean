@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_proof_thm_4_8_signal_image
 -- name    : PersistClust.Count.proof_thm_4_8_signal_image
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:41:15.739226+00:00
 -- url     : https://prove2.me/theorems/5338d132-0af6-438e-8d48-607298e522d7

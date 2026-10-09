@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentFidelity_bornWeightC_eq_fidelity_normalized
 -- name    : BookProof.ChapterCoherentFidelity.bornWeightC_eq_fidelity_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:51:41.168209+00:00
 -- url     : https://prove2.me/theorems/5bdb3f5e-60b6-4bae-a3e8-391124ab798a

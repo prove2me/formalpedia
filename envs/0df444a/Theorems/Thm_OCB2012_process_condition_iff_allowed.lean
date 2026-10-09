@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OCB2012_process_condition_iff_allowed
 -- name    : OCB2012.process_condition_iff_allowed
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-07T23:12:02.280625+00:00
 -- url     : https://prove2.me/theorems/823d9101-861d-4fb3-8f40-a5319bb5db95

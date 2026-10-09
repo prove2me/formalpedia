@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF4_mgRun_sum
 -- name    : BookProof.ChapterF4.mgRun_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:02:33.628227+00:00
 -- url     : https://prove2.me/theorems/6a88e590-423c-49eb-8934-e92f14816d3f

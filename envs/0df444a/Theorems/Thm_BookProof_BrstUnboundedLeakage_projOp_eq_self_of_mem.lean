@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BrstUnboundedLeakage_projOp_eq_self_of_mem
 -- name    : BookProof.BrstUnboundedLeakage.projOp_eq_self_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:18:43.826978+00:00
 -- url     : https://prove2.me/theorems/2d71b0dc-b98b-45f5-bea6-bf48edc9657c

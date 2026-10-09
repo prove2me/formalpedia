@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_fixesTimeAxis_iff_unitary
 -- name    : BookProof.ChapterA3.fixesTimeAxis_iff_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:10:11.264829+00:00
 -- url     : https://prove2.me/theorems/4e217a26-af44-420c-b467-7fae48c80179

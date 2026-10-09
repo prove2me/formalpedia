@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_coherentOverlapC_phaseRotate
 -- name    : BookProof.ChapterCoherentDynamics.coherentOverlapC_phaseRotate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:48:20.100144+00:00
 -- url     : https://prove2.me/theorems/3a527607-0c20-4b19-b5e3-f250891ae598

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA5_coeffMass1Z_sq
 -- name    : BookProof.ChapterA5.coeffMass1Z_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:12:11.926983+00:00
 -- url     : https://prove2.me/theorems/2f570266-eeb3-4cdf-aa29-20838eceafa8

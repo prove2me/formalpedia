@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DampedOscillatorEnergy_criticallyDamped_hasDerivAt_vel
 -- name    : BookProof.DampedOscillatorEnergy.criticallyDamped_hasDerivAt_vel
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:27:17.705431+00:00
 -- url     : https://prove2.me/theorems/78026876-ebf4-4018-9eb4-acb0ca8d4b87

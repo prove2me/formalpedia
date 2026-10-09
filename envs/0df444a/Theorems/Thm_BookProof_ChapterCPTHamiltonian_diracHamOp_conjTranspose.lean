@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCPTHamiltonian_diracHamOp_conjTranspose
 -- name    : BookProof.ChapterCPTHamiltonian.diracHamOp_conjTranspose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:31:40.249972+00:00
 -- url     : https://prove2.me/theorems/efc16d81-d98e-4b13-a7de-42aed116e8ff

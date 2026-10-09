@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentDynamics_bornNumerC_isometry
 -- name    : BookProof.ChapterCoherentDynamics.bornNumerC_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:48:11.061988+00:00
 -- url     : https://prove2.me/theorems/d52fe2ea-4e5b-4b0a-8884-1e89977b7742

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionQKCircuit_qkScore_gauge
 -- name    : BookProof.ChapterAttentionQKCircuit.qkScore_gauge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:40:53.080602+00:00
 -- url     : https://prove2.me/theorems/39b6b4fe-b8a0-411b-98a0-9007e2ce9c41

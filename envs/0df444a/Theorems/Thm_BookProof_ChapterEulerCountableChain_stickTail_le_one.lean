@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerCountableChain_stickTail_le_one
 -- name    : BookProof.ChapterEulerCountableChain.stickTail_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:26:33.395016+00:00
 -- url     : https://prove2.me/theorems/765f65ed-440d-4d87-b8c5-9a4fd1139d19

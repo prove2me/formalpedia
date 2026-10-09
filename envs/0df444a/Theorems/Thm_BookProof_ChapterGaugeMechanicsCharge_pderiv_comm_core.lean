@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeMechanicsCharge_pderiv_comm_core
 -- name    : BookProof.ChapterGaugeMechanicsCharge.pderiv_comm_core
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:13:34.501946+00:00
 -- url     : https://prove2.me/theorems/4352b18a-ebfc-417c-beb0-7831a7a9d60f

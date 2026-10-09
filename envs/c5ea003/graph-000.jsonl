@@ -34829,6 +34829,1636 @@
 {"parent": "NonArchInfoTheory.totalVariation_eq_zero_iff", "child": "Bridges_MinEntropy", "via": ["solution", "statement"]}
 {"parent": "NonDesarguesianWorlds.unique_intersection", "child": "Geometry_NonDesarguesianWorlds", "via": ["solution", "statement"]}
 {"parent": "NonDesarguesianWorlds.unique_line_through", "child": "Geometry_NonDesarguesianWorlds", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "via": ["solution"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ActualConsequences", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_AdjointPurity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Asymptotics", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_BellOutput", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_BlockBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_BlockConstruction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_BlockScalars", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_CanonicalBlockBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ChannelEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ChannelExtensions", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ChannelReindex", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ChannelTensorControl", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Channels", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_CollinsYoun", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_CollinsYounProduct", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_CollinsYounTensor", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ConditionalStates", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ConjugateChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Conversion", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_DampedBellStability", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_DampedChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_DampedPositivity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_DampedRealization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_DampingNet", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_DeterministicConsequences", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_DeterministicQualitative", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Entropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_EntropyContinuity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_EntropyMixtures", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_EntropyProducts", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_EntropyStability", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FiniteBlockModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FiniteFreeModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FiniteMomentMatching", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FiniteRealization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FiniteRegularMatrix", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FiniteSetFactorization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FreeBridge", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FreeCreation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FreeEmbedding", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_FreeModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_GeneralBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_HaarModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_HaarMomentTail", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_HolevoBits", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_HolevoRateLimit", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_HolevoTensorSuperadditivity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_InitialNetReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Linearization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Net", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_NetPolynomial", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_NetPolynomialSupport", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ObservableDimension", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_PolynomialDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_PolynomialReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_PositiveHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_PureChannelEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Qualitative", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_QuantumHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_RegularDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_RegularFactorization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_RegularFubini", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_RegularRestriction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_RegularShiftedDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_RegularizedHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Scalar", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_SpectralDamping", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_StateEnsembles", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_StrictEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_StructuredFiniteChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_StructuredHaarModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_StructuredLinearization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_SwitchChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_TensorPartitionReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_TensorPowers", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_Weyl", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_WeylTensor", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_unbounded_gap", "child": "Nonadditivity_WordBallReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ActualConsequences", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_AdjointPurity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Asymptotics", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_BellOutput", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_BlockBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_BlockConstruction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_BlockScalars", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_CanonicalBlockBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ChannelEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ChannelExtensions", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ChannelReindex", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ChannelTensorControl", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Channels", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_CollinsYoun", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_CollinsYounProduct", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_CollinsYounTensor", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ConditionalStates", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ConjugateChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Conversion", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_DampedBellStability", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_DampedChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_DampedPositivity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_DampedRealization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_DampingNet", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_DeterministicConsequences", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_DeterministicQualitative", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Entropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_EntropyContinuity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_EntropyMixtures", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_EntropyProducts", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_EntropyStability", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FiniteBlockModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FiniteFreeModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FiniteMomentMatching", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FiniteRealization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FiniteRegularMatrix", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FiniteSetFactorization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FreeBridge", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FreeCreation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FreeEmbedding", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_FreeModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_GeneralBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_HaarModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_HaarMomentTail", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_HolevoBits", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_HolevoRateLimit", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_HolevoTensorSuperadditivity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_InitialNetReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Linearization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Net", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_NetPolynomial", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_NetPolynomialSupport", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ObservableDimension", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_PolynomialDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_PolynomialReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_PositiveHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_PureChannelEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Qualitative", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_QuantumHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_RegularDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_RegularFactorization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_RegularFubini", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_RegularRestriction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_RegularShiftedDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_RegularizedHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Scalar", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_SpectralDamping", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_StateEnsembles", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_StrictEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_StructuredFiniteChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_StructuredHaarModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_StructuredLinearization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_SwitchChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_TensorPartitionReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_TensorPowers", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_Weyl", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_WeylTensor", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "child": "Nonadditivity_WordBallReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity.DeterministicConsequences.actual_vanishing_diverging", "via": ["solution"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ActualConsequences", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_AdjointPurity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Asymptotics", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_BellOutput", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_BlockBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_BlockConstruction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_BlockScalars", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_CanonicalBlockBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ChannelEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ChannelExtensions", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ChannelReindex", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ChannelTensorControl", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Channels", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_CollinsYoun", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_CollinsYounProduct", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_CollinsYounTensor", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ConditionalStates", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ConjugateChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Conversion", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_DampedBellStability", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_DampedChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_DampedPositivity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_DampedRealization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_DampingNet", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_DeterministicConsequences", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_DeterministicQualitative", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Entropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_EntropyContinuity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_EntropyMixtures", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_EntropyProducts", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_EntropyStability", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FiniteBlockModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FiniteFreeModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FiniteMomentMatching", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FiniteRealization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FiniteRegularMatrix", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FiniteSetFactorization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FreeBridge", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FreeCreation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FreeEmbedding", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_FreeModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_GeneralBell", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_HaarModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_HaarMomentTail", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_HolevoBits", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_HolevoRateLimit", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_HolevoTensorSuperadditivity", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_InitialNetReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Linearization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Net", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_NetPolynomial", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_NetPolynomialSupport", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ObservableDimension", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_PolynomialDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_PolynomialReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_PositiveHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_PureChannelEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Qualitative", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_QuantumHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_RegularDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_RegularFactorization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_RegularFubini", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_RegularRestriction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_RegularShiftedDilation", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_RegularizedHolevo", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Scalar", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_SpectralDamping", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_StateEnsembles", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_StrictEntropy", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_StructuredFiniteChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_StructuredHaarModel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_StructuredLinearization", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_SwitchChannel", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_TensorPartitionReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_TensorPowers", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_Weyl", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_WeylTensor", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity.DeterministicConsequences.exists_small_chi_large_gap_and_ratio", "child": "Nonadditivity_WordBallReduction", "via": ["solution", "statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Asymptotics", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_PositiveHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_ActualConsequences", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_AdjointPurity", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BellOutput", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_BellOutput", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_BellOutput", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BellOutput", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_BellOutput", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_BellOutput", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BellOutput", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockBell", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockConstruction", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_BlockScalars", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_CanonicalBlockBell", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelEntropy", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelExtensions", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelExtensions", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelExtensions", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelReindex", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelReindex", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelReindex", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelTensorControl", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelTensorControl", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelTensorControl", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelTensorControl", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_ChannelTensorControl", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_Channels", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYoun", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYoun", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYoun", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYoun", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounProduct", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_CollinsYounTensor", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_ComplementaryAdjoint", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_ConditionalStates", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ConditionalStates", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_ConjugateChannel", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ConjugateChannel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ConjugateChannel", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_Conversion", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_DampedChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_GeneralBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedBellStability", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedChannel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedChannel", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedChannel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_DampedChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_PositiveHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_StrictEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedPositivity", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_DampedChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_DampingNet", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_SpectralDamping", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_DampedRealization", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_DampedChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DampingNet", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ActualConsequences", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Asymptotics", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_CanonicalBlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_DampedBellStability", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_DampedChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_DampedPositivity", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_DampedRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_DampingNet", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_DeterministicQualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_EntropyContinuity", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_EntropyStability", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FiniteBlockModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FiniteFreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FiniteMomentMatching", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FiniteRegularMatrix", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FreeEmbedding", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_GeneralBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_HolevoRateLimit", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_HolevoTensorSuperadditivity", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_InitialNetReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_NetPolynomialSupport", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_PositiveHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_RegularizedHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_SpectralDamping", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_StrictEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_StructuredFiniteChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_StructuredHaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_StructuredLinearization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_TensorPartitionReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicConsequences", "child": "Nonadditivity_WordBallReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ActualConsequences", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Asymptotics", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_CanonicalBlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_DampedBellStability", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_DampedChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_DampedPositivity", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_DampedRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_DampingNet", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_EntropyContinuity", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_EntropyStability", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FiniteBlockModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FiniteFreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FiniteMomentMatching", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FiniteRegularMatrix", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FreeEmbedding", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_GeneralBell", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_InitialNetReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_NetPolynomialSupport", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_PositiveHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_SpectralDamping", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_StrictEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_StructuredFiniteChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_StructuredHaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_StructuredLinearization", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_TensorPartitionReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_DeterministicQualitative", "child": "Nonadditivity_WordBallReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyContinuity", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyMixtures", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyMixtures", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyMixtures", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyProducts", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_DampedBellStability", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_DampedChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_EntropyContinuity", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_GeneralBell", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_EntropyStability", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FiniteFreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FiniteMomentMatching", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FiniteRegularMatrix", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FreeEmbedding", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_InitialNetReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_NetPolynomialSupport", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_StructuredFiniteChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_StructuredHaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_StructuredLinearization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_TensorPartitionReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteBlockModel", "child": "Nonadditivity_WordBallReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteFreeModel", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteMomentMatching", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteRealization", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteRealization", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteRealization", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteRealization", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteRealization", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteRealization", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_FiniteSetFactorization", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeBridge", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeCreation", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeCreation", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeCreation", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeModel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_FreeModel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_GeneralBell", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarModel", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_HaarMomentTail", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoBits", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ActualConsequences", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Asymptotics", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_HolevoTensorSuperadditivity", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_PositiveHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_RegularizedHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoRateLimit", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_HolevoTensorSuperadditivity", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_FreeEmbedding", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_NetPolynomialSupport", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_InitialNetReduction", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_MatrixRegularRestriction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_MatrixRegularRestriction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_MatrixRegularRestriction", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_MatrixRegularRestriction", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_MatrixRegularRestriction", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_MatrixRegularRestriction", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomial", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_NetPolynomialSupport", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_ObservableDimension", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_ObservableDimension", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_ObservableDimension", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ObservableDimension", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_ObservableDimension", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_ObservableDimension", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_ObservableDimension", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialDilation", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_PolynomialReduction", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_PositiveHolevo", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_ProductPolynomialReduction", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_PureChannelEntropy", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_PureChannelEntropy", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_PureChannelEntropy", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_Qualitative", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_QuantumHolevo", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_QuantumHolevo", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_QuantumHolevo", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_QuantumHolevo", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularCoefficientEnergy", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularCoefficientEnergy", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularCoefficientEnergy", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularCoefficientEnergy", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularDilation", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularDilation", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularDilation", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularDilation", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularDilation", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularDilation", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularDilation", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFactorization", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularFubini", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularRestriction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularRestriction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularRestriction", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularShiftedDilation", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ActualConsequences", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Asymptotics", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_HolevoBits", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_PositiveHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Scalar", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_RegularizedHolevo", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_SpectralDamping", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_StateEnsembles", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StrictEntropy", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StrictEntropy", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_FreeEmbedding", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_InitialNetReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_NetPolynomialSupport", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredFiniteChannel", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_FreeEmbedding", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_InitialNetReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_NetPolynomialSupport", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_StructuredLinearization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_TensorPartitionReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredHaarModel", "child": "Nonadditivity_WordBallReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_BellOutput", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_BlockBell", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_BlockConstruction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_BlockScalars", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ChannelReindex", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ChannelTensorControl", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_CollinsYoun", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_CollinsYounProduct", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_CollinsYounTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ComplementaryAdjoint", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_Conversion", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_FiniteRealization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_FreeBridge", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_FreeCreation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_FreeEmbedding", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_HaarModel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_HaarMomentTail", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_InitialNetReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_Net", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_NetPolynomial", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_NetPolynomialSupport", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ObservableDimension", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_PolynomialDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_Qualitative", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_RegularFubini", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_SwitchChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_TensorPartitionReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_TensorPowers", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_WeylTensor", "via": ["statement"]}
+{"parent": "Nonadditivity_StructuredLinearization", "child": "Nonadditivity_WordBallReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_ChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_ChannelExtensions", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_ConditionalStates", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_ConjugateChannel", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_EntropyMixtures", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_QuantumHolevo", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_SwitchChannel", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPartitionReduction", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPowers", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPowers", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPowers", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_TensorPowers", "child": "Nonadditivity_PureChannelEntropy", "via": ["statement"]}
+{"parent": "Nonadditivity_Weyl", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_Weyl", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_Weyl", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_WeylTensor", "child": "Nonadditivity_Channels", "via": ["statement"]}
+{"parent": "Nonadditivity_WeylTensor", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_WeylTensor", "child": "Nonadditivity_EntropyProducts", "via": ["statement"]}
+{"parent": "Nonadditivity_WeylTensor", "child": "Nonadditivity_StateEnsembles", "via": ["statement"]}
+{"parent": "Nonadditivity_WeylTensor", "child": "Nonadditivity_Weyl", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_AdjointPurity", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_Entropy", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_FiniteSetFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_FreeModel", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_Linearization", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_MatrixRegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_PolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_ProductPolynomialReduction", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_RegularCoefficientEnergy", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_RegularDilation", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_RegularFactorization", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_RegularRestriction", "via": ["statement"]}
+{"parent": "Nonadditivity_WordBallReduction", "child": "Nonadditivity_RegularShiftedDilation", "via": ["statement"]}
 {"parent": "NormalityConnector.baseNormal_of_intervalEquidistributed", "child": "Probability_NormalityConnector", "via": ["solution", "statement"]}
 {"parent": "NormalityConverse.hasBAdicIntervalFrequencies_of_cylinder_frequencies", "child": "NumberTheory_NormalityConverse", "via": ["solution", "statement"]}
 {"parent": "NormalityConverse.intervalEquidistributed_of_bAdic_sandwich", "child": "NumberTheory_NormalityConverse", "via": ["solution", "statement"]}

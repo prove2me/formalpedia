@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3n_projSym_idem
 -- name    : BookProof.ChapterA3n.projSym_idem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:08:22.057554+00:00
 -- url     : https://prove2.me/theorems/ed2fc3d2-62e6-4ec5-8ab8-1e5d1455093b

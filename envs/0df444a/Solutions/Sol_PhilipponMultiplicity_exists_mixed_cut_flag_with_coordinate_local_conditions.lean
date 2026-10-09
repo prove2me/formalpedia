@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PhilipponMultiplicity.exists_mixed_cut_flag_with_coordinate_local_conditions
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @tomasz
 -- created : 2026-10-01T20:07:06.639979+00:00
 -- url     : https://prove2.me/submissions/6e15f90f-e37f-4425-b871-574b7c8c7287
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_PhilipponMultiplicity_exists_mixed_cut_flag_with_point_local_conditions
 import Mathlib.RingTheory.Jacobson.Ring

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalMulti_norm_sq_eq_sum
 -- name    : BookProof.ChapterDisplacedThermalMulti.norm_sq_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:00:56.312415+00:00
 -- url     : https://prove2.me/theorems/b4181256-80fa-4e98-a31f-9895c874f67c

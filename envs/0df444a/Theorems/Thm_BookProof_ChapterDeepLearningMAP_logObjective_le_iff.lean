@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeepLearningMAP_logObjective_le_iff
 -- name    : BookProof.ChapterDeepLearningMAP.logObjective_le_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:27:58.054705+00:00
 -- url     : https://prove2.me/theorems/3275bee8-2387-42aa-8455-900ab69a7566

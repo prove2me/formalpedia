@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproachRegret_Calibration_theorem22_calibration_rate
 -- name    : ApproachRegret.Calibration.theorem22_calibration_rate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T15:45:08.152978+00:00
 -- url     : https://prove2.me/theorems/5da30420-aae7-4edc-a38d-513b98622158

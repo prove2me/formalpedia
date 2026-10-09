@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InputSparsity_Regress_theorem_39
 -- name    : InputSparsity.Regress.theorem_39
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T11:02:59.79438+00:00
 -- url     : https://prove2.me/theorems/6a67a1c1-ad95-4238-946b-bdd9c2ecf7da

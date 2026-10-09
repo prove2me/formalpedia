@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_SEtwo_lower_triangular
 -- name    : BookProof.ChapterA3.SEtwo_lower_triangular
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:11:25.618357+00:00
 -- url     : https://prove2.me/theorems/9ef1011c-86fc-4874-9767-088018c7f31c

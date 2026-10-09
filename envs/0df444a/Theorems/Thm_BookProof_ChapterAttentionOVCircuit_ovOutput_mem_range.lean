@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOVCircuit_ovOutput_mem_range
 -- name    : BookProof.ChapterAttentionOVCircuit.ovOutput_mem_range
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:33:33.410489+00:00
 -- url     : https://prove2.me/theorems/66cc0105-5b2c-4397-9742-80e040b65ee6

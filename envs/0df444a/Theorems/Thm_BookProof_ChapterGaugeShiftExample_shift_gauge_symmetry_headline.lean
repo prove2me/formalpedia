@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_shift_gauge_symmetry_headline
 -- name    : BookProof.ChapterGaugeShiftExample.shift_gauge_symmetry_headline
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:17:52.22099+00:00
 -- url     : https://prove2.me/theorems/f90529af-c30a-4885-9cfa-415b65dfe8c6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF2_numberOp_coeff
 -- name    : BookProof.ChapterF2.numberOp_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:46:03.883811+00:00
 -- url     : https://prove2.me/theorems/6d814f07-b768-431a-b23e-c5c6d4204761

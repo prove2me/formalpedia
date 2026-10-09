@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_CarlemanUnboundedHop_Theta_nonneg
 -- name    : BookProof.CarlemanUnboundedHop.Theta_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:33:07.705998+00:00
 -- url     : https://prove2.me/theorems/9ca4b6da-c7bc-402c-ad4c-fa75199378a9

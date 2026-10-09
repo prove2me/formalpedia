@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGhostMajoranaRep_chi2_sq
 -- name    : BookProof.ChapterGhostMajoranaRep.chi2_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:23:17.480107+00:00
 -- url     : https://prove2.me/theorems/d6d9338a-dcad-4f7f-bb4d-5df20ae59cdf

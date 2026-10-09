@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterConditional_pMarg_sum_one
 -- name    : BookProof.ChapterConditional.pMarg_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:21:30.637158+00:00
 -- url     : https://prove2.me/theorems/479c96de-ab0e-46cc-963f-f3a6a19cc577

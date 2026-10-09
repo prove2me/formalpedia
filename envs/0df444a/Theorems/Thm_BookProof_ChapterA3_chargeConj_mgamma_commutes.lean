@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_chargeConj_mgamma_commutes
 -- name    : BookProof.ChapterA3.chargeConj_mgamma_commutes
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:42:59.559854+00:00
 -- url     : https://prove2.me/theorems/2b4eec15-d63a-4ff4-841f-38886ef20259

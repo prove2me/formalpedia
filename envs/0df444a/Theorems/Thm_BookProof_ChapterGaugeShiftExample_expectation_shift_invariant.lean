@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_expectation_shift_invariant
 -- name    : BookProof.ChapterGaugeShiftExample.expectation_shift_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:17:43.185661+00:00
 -- url     : https://prove2.me/theorems/9062b932-22b6-40c9-b8a5-7cb6ccfb6033

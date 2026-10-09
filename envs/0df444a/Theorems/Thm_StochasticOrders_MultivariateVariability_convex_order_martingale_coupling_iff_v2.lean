@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochasticOrders_MultivariateVariability_convex_order_martingale_coupling_iff_v2
 -- name    : StochasticOrders.MultivariateVariability.convex_order_martingale_coupling_iff_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:42:30.130486+00:00
 -- url     : https://prove2.me/theorems/840b66f4-8c62-44ef-a797-84896c5db709

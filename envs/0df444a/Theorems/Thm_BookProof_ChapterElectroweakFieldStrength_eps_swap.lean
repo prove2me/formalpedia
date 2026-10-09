@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterElectroweakFieldStrength_eps_swap
 -- name    : BookProof.ChapterElectroweakFieldStrength.eps_swap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:15:15.230416+00:00
 -- url     : https://prove2.me/theorems/06b04b03-4d27-4469-872f-8e71b2747000

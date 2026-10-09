@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBornMeasure_isProbabilityMeasure_bornMeasure
 -- name    : BookProof.ChapterBornMeasure.isProbabilityMeasure_bornMeasure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:07:26.35479+00:00
 -- url     : https://prove2.me/theorems/ad6d4571-47bd-4fd9-8c19-07c4f9482943

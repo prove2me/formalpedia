@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA5_coeffBoostZ_anticomm
 -- name    : BookProof.ChapterA5.coeffBoostZ_anticomm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:12:12.608976+00:00
 -- url     : https://prove2.me/theorems/cf4f45cb-a416-4fac-b364-e535b4969ffc

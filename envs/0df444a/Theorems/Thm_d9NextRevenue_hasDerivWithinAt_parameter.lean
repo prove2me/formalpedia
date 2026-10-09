@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_d9NextRevenue_hasDerivWithinAt_parameter
 -- name    : d9NextRevenue_hasDerivWithinAt_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T12:39:44.52276+00:00
 -- url     : https://prove2.me/theorems/a79ed6ee-c2c1-4f58-bcf8-2835d7b8a84d

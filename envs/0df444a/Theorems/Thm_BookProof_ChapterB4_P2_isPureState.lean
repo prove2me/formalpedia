@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterB4_P2_isPureState
 -- name    : BookProof.ChapterB4.P2_isPureState
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:51:36.70598+00:00
 -- url     : https://prove2.me/theorems/13960798-b526-453d-8f31-91255e344bc6

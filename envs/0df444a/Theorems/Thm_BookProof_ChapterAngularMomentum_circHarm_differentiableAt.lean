@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAngularMomentum_circHarm_differentiableAt
 -- name    : BookProof.ChapterAngularMomentum.circHarm_differentiableAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:19:48.824206+00:00
 -- url     : https://prove2.me/theorems/ac60c09d-bfce-4522-9f17-5cfffdea0463

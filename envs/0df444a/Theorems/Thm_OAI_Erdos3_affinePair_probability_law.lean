@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_affinePair_probability_law
 -- name    : OAI.Erdos3.affinePair_probability_law
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:38:25.770625+00:00
 -- url     : https://prove2.me/theorems/22d86eb9-cdfd-41cb-a325-f98bc2eb313b

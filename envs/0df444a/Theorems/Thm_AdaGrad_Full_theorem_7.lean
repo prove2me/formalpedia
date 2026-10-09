@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaGrad_Full_theorem_7
 -- name    : AdaGrad.Full.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:46:12.84298+00:00
 -- url     : https://prove2.me/theorems/7a29ba53-3455-4bb5-ba78-2eb18727e707

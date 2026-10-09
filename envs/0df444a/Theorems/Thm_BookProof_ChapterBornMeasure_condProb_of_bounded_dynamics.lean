@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBornMeasure_condProb_of_bounded_dynamics
 -- name    : BookProof.ChapterBornMeasure.condProb_of_bounded_dynamics
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:07:27.755015+00:00
 -- url     : https://prove2.me/theorems/16ef55be-aa22-4d65-b7ac-87531dbd0f9b

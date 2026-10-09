@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_sum_dist_sq_expand
 -- name    : BookProof.ChapterAttentionOutputVariance.sum_dist_sq_expand
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:34:38.156701+00:00
 -- url     : https://prove2.me/theorems/a1dc63e4-5410-4652-a757-57ec4f43ec2e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_inverseTemperature_zero
 -- name    : BookProof.ChapterDisplacedThermalOverlap.inverseTemperature_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:03:37.41455+00:00
 -- url     : https://prove2.me/theorems/7eae3a17-4b08-4ba4-8ab4-64b274e24c62

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_halfDensityUnitary_mem_densConfCore
 -- name    : BookProof.ScalaronDensitized.halfDensityUnitary_mem_densConfCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:14:58.858628+00:00
 -- url     : https://prove2.me/theorems/9abada96-0861-4bf9-8e2e-14efa574f216
