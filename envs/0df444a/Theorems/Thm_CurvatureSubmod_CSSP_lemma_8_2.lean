@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CurvatureSubmod_CSSP_lemma_8_2
 -- name    : CurvatureSubmod.CSSP.lemma_8_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:58:00.362118+00:00
 -- url     : https://prove2.me/theorems/3573da30-c8f7-4a63-a8f5-9fd8900dbfd5

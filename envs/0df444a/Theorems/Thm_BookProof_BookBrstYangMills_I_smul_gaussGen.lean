@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_I_smul_gaussGen
 -- name    : BookProof.BookBrstYangMills.I_smul_gaussGen
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:20:22.072228+00:00
 -- url     : https://prove2.me/theorems/c97765cb-6427-4df5-8bf0-5237c28debca

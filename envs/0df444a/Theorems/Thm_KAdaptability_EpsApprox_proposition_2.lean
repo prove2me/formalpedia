@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_EpsApprox_proposition_2
 -- name    : KAdaptability.EpsApprox.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:03:14.6866+00:00
 -- url     : https://prove2.me/theorems/df099d34-e194-41de-9c4d-3ba4caf0fe47

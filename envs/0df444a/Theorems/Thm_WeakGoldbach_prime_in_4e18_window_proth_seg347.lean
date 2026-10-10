@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeakGoldbach_prime_in_4e18_window_proth_seg347
 -- name    : WeakGoldbach.prime_in_4e18_window_proth_seg347
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-09T12:00:36.204992+00:00
 -- url     : https://prove2.me/theorems/89886bc8-3cb1-4e9c-89ad-1e349a150596

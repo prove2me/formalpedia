@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_memLp_psi
 -- name    : BookProof.HermiteExpWall.memLp_psi
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:10:52.971692+00:00
 -- url     : https://prove2.me/theorems/e1658931-6d85-4c49-a07a-4437d93e0cb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WheelerDeWittSuperspace_wdw_commutator
 -- name    : WheelerDeWittSuperspace.wdw_commutator
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-05T22:47:32.44773+00:00
 -- url     : https://prove2.me/theorems/be93b718-7398-4a66-8065-1d48cb161664

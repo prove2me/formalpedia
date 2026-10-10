@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.BookBrstYangMills.I_smul_gaussGen
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T19:30:21.407935+00:00
 -- url     : https://prove2.me/submissions/f34065bb-7458-49e2-b97e-6e9a611e04a8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBookBrstYangMills.lean — solution of BookProof.BookBrstYangMills.I_smul_gaussGen
 import Mathlib

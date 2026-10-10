@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_ConvexIQC_lemma_10
 -- name    : IQCAlg.ConvexIQC.lemma_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:23:40.852639+00:00
 -- url     : https://prove2.me/theorems/1d341b24-3163-4b6e-ac10-46987c40361c

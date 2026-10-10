@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArtinPrimitiveRoots.controlled_predecessors
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:20:17.103982+00:00
 -- url     : https://prove2.me/submissions/67edb21d-3764-4d1d-be56-ff59d9e06758
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ArtinSieve

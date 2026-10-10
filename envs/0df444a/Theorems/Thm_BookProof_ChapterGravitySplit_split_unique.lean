@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravitySplit_split_unique
 -- name    : BookProof.ChapterGravitySplit.split_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:51:40.560975+00:00
 -- url     : https://prove2.me/theorems/a4724561-1bfd-4e69-8a34-58b4b45b45dd

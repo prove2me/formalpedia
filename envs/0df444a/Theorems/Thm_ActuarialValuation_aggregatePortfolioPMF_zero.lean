@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_aggregatePortfolioPMF_zero
 -- name    : ActuarialValuation.aggregatePortfolioPMF_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:34:26.38499+00:00
 -- url     : https://prove2.me/theorems/89bdf4e6-1162-499d-b642-5f0e7c3e1223

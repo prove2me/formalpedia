@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementRiskPremium_zero_at_risk
 -- name    : ActuarialValuation.decrementRiskPremium_zero_at_risk
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:29:27.625869+00:00
 -- url     : https://prove2.me/theorems/4d102abe-3b92-4789-8afa-6a3316a96094

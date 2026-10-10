@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_isBandR1_annPoly
 -- name    : BookProof.HermiteBandHigher.isBandR1_annPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:04:39.909219+00:00
 -- url     : https://prove2.me/theorems/1b661afc-22ba-4edc-afff-4fa2ee6c74fe

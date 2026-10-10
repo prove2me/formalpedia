@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_SturmLiouville_spectral_theorem_compact_symmetric
 -- name    : TeschlODE.SturmLiouville.spectral_theorem_compact_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T11:26:00.995527+00:00
 -- url     : https://prove2.me/theorems/70c66cf6-e3cc-4852-8f46-3c6b22e0a890

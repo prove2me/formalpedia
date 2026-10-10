@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Assignment_birkhoff_extreme_points
 -- name    : CompOT.Assignment.birkhoff_extreme_points
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:23.372664+00:00
 -- url     : https://prove2.me/theorems/38d9cb6e-c607-4118-9763-0088040603de

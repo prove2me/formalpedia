@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_multipleDecrementReserve_fundamental
 -- name    : ActuarialValuation.multipleDecrementReserve_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:15:41.260346+00:00
 -- url     : https://prove2.me/theorems/bc9fe8a5-ca9c-4fdd-8bd8-da51585355fb

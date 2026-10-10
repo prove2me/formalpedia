@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterHierarchicalBayes_outerPosterior_eq_sum_flat
 -- name    : BookProof.ChapterHierarchicalBayes.outerPosterior_eq_sum_flat
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:13:11.62385+00:00
 -- url     : https://prove2.me/theorems/1e4b8902-46ca-4711-858a-1c11321585f4

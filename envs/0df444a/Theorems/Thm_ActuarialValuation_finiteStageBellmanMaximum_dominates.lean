@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteStageBellmanMaximum_dominates
 -- name    : ActuarialValuation.finiteStageBellmanMaximum_dominates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:09:47.720297+00:00
 -- url     : https://prove2.me/theorems/1e51c270-72c9-4962-87d0-53898b37ce35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_integral_psi_sq
 -- name    : BookProof.HermiteExpWall.integral_psi_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:09:54.781594+00:00
 -- url     : https://prove2.me/theorems/116945ff-cc6c-4118-ad7b-7eaecc3e7076

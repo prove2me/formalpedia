@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonCountWeight_ratio
 -- name    : ActuarialValuation.compoundPoissonCountWeight_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:29:43.477689+00:00
 -- url     : https://prove2.me/theorems/7213b9aa-b2af-482a-a11b-b1626500bfa0

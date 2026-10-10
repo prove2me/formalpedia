@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicRetainedClaim_monotone
 -- name    : ActuarialValuation.finiteEntropicRetainedClaim_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:15:03.109982+00:00
 -- url     : https://prove2.me/theorems/776e1f2a-82bd-4244-8799-e228396ffde5

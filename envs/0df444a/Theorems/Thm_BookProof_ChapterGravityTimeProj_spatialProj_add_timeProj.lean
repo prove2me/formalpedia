@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityTimeProj_spatialProj_add_timeProj
 -- name    : BookProof.ChapterGravityTimeProj.spatialProj_add_timeProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:51:26.941699+00:00
 -- url     : https://prove2.me/theorems/d6d692a2-fd3d-426e-aecb-8b1b3d70cbfd

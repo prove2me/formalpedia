@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityMass_partition
 -- name    : ActuarialValuation.finiteMortalityMass_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:08:59.989736+00:00
 -- url     : https://prove2.me/theorems/d056f818-10c1-4ba4-8f93-58a643b227f2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_swap_mem_gaugeGroup
 -- name    : BookProof.ChapterG.swap_mem_gaugeGroup
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:45:23.554023+00:00
 -- url     : https://prove2.me/theorems/fc2d77e0-34ee-44ee-a57f-7b9170772a03

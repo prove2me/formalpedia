@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_l2_classical_solution_eq_zero_of_nonneg
 -- name    : BookProof.SchrodingerCutoff.l2_classical_solution_eq_zero_of_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:35:09.090861+00:00
 -- url     : https://prove2.me/theorems/9002d3e8-ef11-451f-b1af-7ed72f1c27e8

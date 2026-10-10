@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_type_ii_progression
 -- name    : ArtinPrimitiveRoots.type_ii_progression
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:27:20.981141+00:00
 -- url     : https://prove2.me/theorems/c4244419-aae3-42ab-a7ee-7e5f6252457c

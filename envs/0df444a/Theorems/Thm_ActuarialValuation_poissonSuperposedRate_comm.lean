@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonSuperposedRate_comm
 -- name    : ActuarialValuation.poissonSuperposedRate_comm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:57:59.717953+00:00
 -- url     : https://prove2.me/theorems/a09e4d9e-adc5-4217-a6ad-84ecdb991a1a

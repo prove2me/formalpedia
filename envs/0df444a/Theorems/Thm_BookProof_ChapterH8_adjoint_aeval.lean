@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_adjoint_aeval
 -- name    : BookProof.ChapterH8.adjoint_aeval
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:30:13.074466+00:00
 -- url     : https://prove2.me/theorems/565e7618-1416-4288-80b5-b1fa1bba4f72

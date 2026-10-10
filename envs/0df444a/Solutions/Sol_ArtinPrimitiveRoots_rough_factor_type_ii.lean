@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArtinPrimitiveRoots.rough_factor_type_ii
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-08T14:41:24.602952+00:00
 -- url     : https://prove2.me/submissions/957f678d-4ecd-427e-9613-44a70c2979c9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ArtinSieve

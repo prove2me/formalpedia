@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH5_generator_bounded_of_rankOneProjector
 -- name    : BookProof.ChapterH5.generator_bounded_of_rankOneProjector
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:54:09.532976+00:00
 -- url     : https://prove2.me/theorems/f1daf002-83f8-4efa-9d1e-027bdd3e3b69

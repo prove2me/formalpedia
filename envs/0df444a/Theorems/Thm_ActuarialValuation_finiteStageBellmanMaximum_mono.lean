@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteStageBellmanMaximum_mono
 -- name    : ActuarialValuation.finiteStageBellmanMaximum_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:13:00.068482+00:00
 -- url     : https://prove2.me/theorems/18d17008-b3b0-474e-aa1b-6db59ee8a3ec

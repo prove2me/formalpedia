@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_sirk_approx_projection
 -- name    : BookProof.ChapterH8.sirk_approx_projection
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:34:23.825329+00:00
 -- url     : https://prove2.me/theorems/8026137e-1dfe-408b-bf09-5e91e5ecf0d6

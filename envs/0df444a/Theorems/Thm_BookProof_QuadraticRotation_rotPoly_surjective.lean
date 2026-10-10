@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_rotPoly_surjective
 -- name    : BookProof.QuadraticRotation.rotPoly_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:22:14.987645+00:00
 -- url     : https://prove2.me/theorems/d1f40291-9f29-4ebb-9ee9-229e2177d1f0

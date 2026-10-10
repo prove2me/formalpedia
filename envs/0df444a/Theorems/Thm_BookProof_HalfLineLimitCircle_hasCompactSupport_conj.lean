@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hasCompactSupport_conj
 -- name    : BookProof.HalfLineLimitCircle.hasCompactSupport_conj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:54:59.172821+00:00
 -- url     : https://prove2.me/theorems/42c4dac5-98c7-431f-83a5-2d4dbc1c01ef

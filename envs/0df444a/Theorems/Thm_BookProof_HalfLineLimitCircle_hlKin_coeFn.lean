@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hlKin_coeFn
 -- name    : BookProof.HalfLineLimitCircle.hlKin_coeFn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:55:01.081058+00:00
 -- url     : https://prove2.me/theorems/47a0b7fb-937a-42da-beb6-4a34902d0407

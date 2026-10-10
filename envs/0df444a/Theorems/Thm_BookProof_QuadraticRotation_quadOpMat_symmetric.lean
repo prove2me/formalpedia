@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_quadOpMat_symmetric
 -- name    : BookProof.QuadraticRotation.quadOpMat_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:58:11.033972+00:00
 -- url     : https://prove2.me/theorems/8442e69f-c116-41c2-a34e-453a44156e29

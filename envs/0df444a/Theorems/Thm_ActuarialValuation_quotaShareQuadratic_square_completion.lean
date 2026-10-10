@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareQuadratic_square_completion
 -- name    : ActuarialValuation.quotaShareQuadratic_square_completion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:12:01.856751+00:00
 -- url     : https://prove2.me/theorems/0b818a90-aafc-4d14-be1d-407ac554c434

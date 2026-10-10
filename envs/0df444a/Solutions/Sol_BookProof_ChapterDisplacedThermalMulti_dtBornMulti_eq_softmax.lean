@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterDisplacedThermalMulti.dtBornMulti_eq_softmax
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:56:48.338089+00:00
 -- url     : https://prove2.me/submissions/5fd9342d-56a5-4142-a1a5-c11cf288ad70
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterDisplacedThermalMulti.lean — solution of BookProof.ChapterDisplacedThermalMulti.dtBornMulti_eq_softmax
 import Mathlib

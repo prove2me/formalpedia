@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_alg_diagram_eq_barcode
 -- name    : PersistClust.Count.alg_diagram_eq_barcode
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-09T08:59:20.355632+00:00
 -- url     : https://prove2.me/theorems/4e6a21bf-8f47-4006-a11b-0718ada58f9b

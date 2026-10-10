@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_shift_isPhysicalFunction_const
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.shift_isPhysicalFunction_const
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:17:13.64398+00:00
 -- url     : https://prove2.me/theorems/e9f59f98-be3e-41fe-9ec8-56dd7abae511

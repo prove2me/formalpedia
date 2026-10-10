@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicBellmanValue_policy_attains
 -- name    : ActuarialValuation.finiteEntropicBellmanValue_policy_attains
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:53:10.071079+00:00
 -- url     : https://prove2.me/theorems/37b6b511-52ba-43f2-8829-4d10222e6f1b

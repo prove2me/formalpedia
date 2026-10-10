@@ -1,12 +1,16 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_theorem_4_5_lemma_4_6_corrected
 -- name    : PersistClust.Count.theorem_4_5_lemma_4_6_corrected
--- status  : Open
+-- status  : Disproved
 -- author  : @fabianroll
 -- created : 2026-10-09T11:27:34.782897+00:00
 -- url     : https://prove2.me/theorems/c9d424dd-4b56-4237-abaf-c19e48f0a586
 -- title:
 --   Lemma 4.6 (corrected): box-expansion interleaving above α of filtration rank functions yields the multi-bijection (i)–(iv)
 -- statement:
+--   **⚠️ REFUTED — machine-checked counterexample. Do not attempt to prove this statement as published.** The rank-interleaving hypothesis (with the $\alpha$ guard) is strictly weaker than the paper's strong module interleaving, and the gap is fatal. At the explicit instance — X with barcode $\{(10, 0.5),\ (20, -\infty)\}$, Y with barcode $\{(10, -1),\ (20, -\infty)\}$, $\alpha = 0$, $\varepsilon = 1$ — the rank-window inequalities HOLD (both directions: X's thin bar contributes only at windows with $t + 2\varepsilon \le s \le 10$, forcing $t \le 8$, where Y's $(10,-1)$ bar covers the shifted comparison; the essential-bar corners are excluded by $t \le s - 2\varepsilon \le 18$), and all diagram-like / finite-support hypotheses hold; yet the conclusion fails — X's north-east point $(10, 0.5)$ has no 1-close partner among Y's copies (deaths/births too far, diagonal window empty). The window $t + 2\varepsilon \le s$ with $t \ge \alpha$ never probes deaths below $\alpha$, so a Y-bar dying far below $\alpha$ is invisible to the hypothesis while remaining unmatched in the conclusion. A complete Lean counterexample artifact is attached to the refutation submission on the qtame surgery child of this theorem.
+--
+--   ---
+--
 --   This is the corrected form of Lemma 4.6 of the paper (p. 21; proof in Appendix A), the algebraic-stability ingredient of Theorem 4.5.
 --
 --   Let $r_X$ and $r_Y$ be the rank functions of two tame 0-dimensional persistence modules, given in the Lean encoding as $r_X = \operatorname{rankFn}(\mathrm{stage}_X, J_X)$ and $r_Y = \operatorname{rankFn}(\mathrm{stage}_Y, J_Y)$, where the stage families decrease with the threshold parameter and each $J_t$ is the "same component of $\mathrm{stage}(t)$" equivalence, compatible with the inclusions (the hypothesis `FiltrationLaw` — exactly the structural law of a genuine filtration). Assume the diagrams $\operatorname{mult} r_X$, $\operatorname{mult} r_Y$ are diagram-like with finite off-diagonal support, and that the modules are strongly $\varepsilon$-interleaved above the level $\alpha$, expressed in rank form: for all $s \ge t + 2\varepsilon$ with $t \ge \alpha$,

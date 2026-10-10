@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_aggregatePortfolio_fundamental
 -- name    : ActuarialValuation.aggregatePortfolio_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:38:43.026987+00:00
 -- url     : https://prove2.me/theorems/78e3ac2b-c527-4733-8f1b-3e00695945ae

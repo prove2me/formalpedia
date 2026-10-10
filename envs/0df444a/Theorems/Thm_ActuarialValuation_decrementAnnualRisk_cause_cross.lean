@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementAnnualRisk_cause_cross
 -- name    : ActuarialValuation.decrementAnnualRisk_cause_cross
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:14:22.280652+00:00
 -- url     : https://prove2.me/theorems/5e0b576c-a249-4caa-8b89-7426b1d02215

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskTVaR_at_max
 -- name    : ActuarialValuation.tailRiskTVaR_at_max
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:27:35.362391+00:00
 -- url     : https://prove2.me/theorems/b28015e9-abaa-4c85-b35e-29b2697cbea5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TorsionFreeZeroDivisors_main
 -- name    : OAI.TorsionFreeZeroDivisors.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:32.797667+00:00
 -- url     : https://prove2.me/theorems/1176303a-4023-4bb7-91dd-bb08698d0409

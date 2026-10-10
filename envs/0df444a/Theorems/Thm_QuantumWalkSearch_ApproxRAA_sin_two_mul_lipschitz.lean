@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_ApproxRAA_sin_two_mul_lipschitz
 -- name    : QuantumWalkSearch.ApproxRAA.sin_two_mul_lipschitz
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:40:46.322563+00:00
 -- url     : https://prove2.me/theorems/d4deba80-4ffb-4496-b6d6-befd9c976b72

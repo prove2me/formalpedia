@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_rough_factor_coefficient_bound
 -- name    : ArtinPrimitiveRoots.rough_factor_coefficient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T14:19:33.567922+00:00
 -- url     : https://prove2.me/theorems/be9c17c9-90c2-407c-9cdb-7777b2d0b845

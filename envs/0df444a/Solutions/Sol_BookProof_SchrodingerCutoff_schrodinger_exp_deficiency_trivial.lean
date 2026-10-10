@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SchrodingerCutoff.schrodinger_exp_deficiency_trivial
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T14:54:16.000099+00:00
 -- url     : https://prove2.me/submissions/499dd377-a13c-4d8e-b62d-1047c3c96379
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSchrodingerCutoffEsa.lean — solution of BookProof.SchrodingerCutoff.schrodinger_exp_deficiency_trivial
 import Mathlib

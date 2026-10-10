@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionMasking.maskedSoftmax_pos_of_mem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T17:06:20.573657+00:00
 -- url     : https://prove2.me/submissions/859d3194-fdac-4688-a779-13005448b9af
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionMasking.lean — solution of BookProof.ChapterAttentionMasking.maskedSoftmax_pos_of_mem
 import Mathlib

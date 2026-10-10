@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_outputVariance_const
 -- name    : BookProof.ChapterAttentionOutputVariance.outputVariance_const
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:38:04.448982+00:00
 -- url     : https://prove2.me/theorems/6b031503-3092-427a-b82c-8600c5767377

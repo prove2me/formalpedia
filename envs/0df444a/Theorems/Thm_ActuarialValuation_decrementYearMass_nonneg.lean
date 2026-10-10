@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementYearMass_nonneg
 -- name    : ActuarialValuation.decrementYearMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:02:51.848352+00:00
 -- url     : https://prove2.me/theorems/e76bb1fe-fd5a-4bfb-b08a-f89331ef58c0

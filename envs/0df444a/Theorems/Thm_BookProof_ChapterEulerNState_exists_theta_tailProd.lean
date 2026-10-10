@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_exists_theta_tailProd
 -- name    : BookProof.ChapterEulerNState.exists_theta_tailProd
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:34:02.860206+00:00
 -- url     : https://prove2.me/theorems/b70e9f1b-cb5d-4235-848e-fd28a15b68fb

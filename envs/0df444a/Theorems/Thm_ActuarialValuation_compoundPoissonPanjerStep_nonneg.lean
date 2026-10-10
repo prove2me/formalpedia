@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonPanjerStep_nonneg
 -- name    : ActuarialValuation.compoundPoissonPanjerStep_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:32:50.98009+00:00
 -- url     : https://prove2.me/theorems/e6fcb50d-32f1-42c2-a1e6-9e11192c3c28

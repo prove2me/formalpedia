@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_maskedSoftmax_pos_of_mem
 -- name    : BookProof.ChapterAttentionMasking.maskedSoftmax_pos_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:29:09.005302+00:00
 -- url     : https://prove2.me/theorems/73e0b0e4-e0c4-4b67-ab79-e98952a3151c

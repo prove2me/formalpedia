@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPremium_above_bound
 -- name    : ActuarialValuation.discreteStopLossPremium_above_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:35:19.041993+00:00
 -- url     : https://prove2.me/theorems/0ef22546-caee-44df-b5ce-e349fed0969d

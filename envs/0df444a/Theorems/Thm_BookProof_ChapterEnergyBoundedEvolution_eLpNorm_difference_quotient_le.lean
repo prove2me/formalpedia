@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEnergyBoundedEvolution_eLpNorm_difference_quotient_le
 -- name    : BookProof.ChapterEnergyBoundedEvolution.eLpNorm_difference_quotient_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:47:34.170634+00:00
 -- url     : https://prove2.me/theorems/7e54e74a-a78b-4031-90e9-82ea8e99118b

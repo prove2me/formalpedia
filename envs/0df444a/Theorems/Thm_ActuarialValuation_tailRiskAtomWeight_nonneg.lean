@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskAtomWeight_nonneg
 -- name    : ActuarialValuation.tailRiskAtomWeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:59:14.040586+00:00
 -- url     : https://prove2.me/theorems/048a3a48-b2c4-4d26-94c4-ce064744148a

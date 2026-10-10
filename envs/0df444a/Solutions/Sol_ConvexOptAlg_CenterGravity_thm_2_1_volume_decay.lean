@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ConvexOptAlg.CenterGravity.thm_2_1_volume_decay
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @vebis
 -- created : 2026-10-05T20:01:02.236988+00:00
 -- url     : https://prove2.me/submissions/5c7f9990-48ce-4e91-9966-5c7bd6c395c5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ConvexOptAlg_CenterGravity_Defs

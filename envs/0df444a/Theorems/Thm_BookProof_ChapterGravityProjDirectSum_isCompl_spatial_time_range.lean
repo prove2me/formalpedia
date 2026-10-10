@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityProjDirectSum_isCompl_spatial_time_range
 -- name    : BookProof.ChapterGravityProjDirectSum.isCompl_spatial_time_range
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:49:26.296973+00:00
 -- url     : https://prove2.me/theorems/d252bf84-03c6-4fea-bb1f-8631131f8252

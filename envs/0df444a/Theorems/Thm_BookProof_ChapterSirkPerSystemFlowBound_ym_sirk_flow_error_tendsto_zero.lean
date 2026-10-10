@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSirkPerSystemFlowBound_ym_sirk_flow_error_tendsto_zero
 -- name    : BookProof.ChapterSirkPerSystemFlowBound.ym_sirk_flow_error_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:41:38.415298+00:00
 -- url     : https://prove2.me/theorems/e89f4c44-ccd0-418e-ac08-c877eed3732f

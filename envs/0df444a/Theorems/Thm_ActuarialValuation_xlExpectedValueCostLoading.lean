@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlExpectedValueCostLoading
 -- name    : ActuarialValuation.xlExpectedValueCostLoading
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:04:25.303255+00:00
 -- url     : https://prove2.me/theorems/5ca5894f-d85f-4e7a-b9ba-e0f35413d40c

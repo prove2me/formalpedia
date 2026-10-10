@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityOptimalWeight_zero_heterogeneity
 -- name    : ActuarialValuation.credibilityOptimalWeight_zero_heterogeneity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:57:46.439967+00:00
 -- url     : https://prove2.me/theorems/8c683821-6790-40c7-b72e-8759f7777962

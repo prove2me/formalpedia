@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterHierarchicalBayes_outerPosterior_sum_one
 -- name    : BookProof.ChapterHierarchicalBayes.outerPosterior_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:13:35.104632+00:00
 -- url     : https://prove2.me/theorems/daaa8088-b32b-4465-9122-9b6a1179bb63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonSuperposedRate_nonneg
 -- name    : ActuarialValuation.poissonSuperposedRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:58:37.807679+00:00
 -- url     : https://prove2.me/theorems/2897af55-9d76-4e94-adac-2bfae5f50ddb

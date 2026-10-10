@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_deficiencyFun_hasDerivAt
 -- name    : BookProof.HalfLineLimitCircle.deficiencyFun_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:56:16.101004+00:00
 -- url     : https://prove2.me/theorems/ad7944cc-014a-4c5e-ad5f-156f6dc1d8b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteLifeDeathIndicator_after_death
 -- name    : ActuarialValuation.finiteLifeDeathIndicator_after_death
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T08:58:00.122223+00:00
 -- url     : https://prove2.me/theorems/64a30a48-679a-476a-a0b3-034adb8ca15d

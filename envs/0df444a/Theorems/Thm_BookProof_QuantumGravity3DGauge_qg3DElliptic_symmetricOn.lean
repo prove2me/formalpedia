@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qg3DElliptic_symmetricOn
 -- name    : BookProof.QuantumGravity3DGauge.qg3DElliptic_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T22:45:51.29986+00:00
 -- url     : https://prove2.me/theorems/7298b6a6-78c4-4d4f-b4b1-28a5be5acba1

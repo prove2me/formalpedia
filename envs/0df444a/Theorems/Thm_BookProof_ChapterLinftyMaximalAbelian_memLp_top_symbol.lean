@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLinftyMaximalAbelian_memLp_top_symbol
 -- name    : BookProof.ChapterLinftyMaximalAbelian.memLp_top_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:11:55.480978+00:00
 -- url     : https://prove2.me/theorems/fa59dff9-37ac-45fa-868f-cd23be344dd8

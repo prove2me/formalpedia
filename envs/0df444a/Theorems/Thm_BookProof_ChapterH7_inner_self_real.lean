@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH7_inner_self_real
 -- name    : BookProof.ChapterH7.inner_self_real
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:21.718194+00:00
 -- url     : https://prove2.me/theorems/b9fc02b3-22ae-4582-96d9-543e617faf24

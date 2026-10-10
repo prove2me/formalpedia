@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_alg_diagram_immortal_pair
 -- name    : PersistClust.Count.alg_diagram_immortal_pair
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-09T11:09:35.524377+00:00
 -- url     : https://prove2.me/theorems/294b82cc-98d7-4f85-a9cd-98cdd8027ccb

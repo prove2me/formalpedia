@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEdge_dsOp_edge_of_fibre_edges
 -- name    : BookProof.DirectSumEdge.dsOp_edge_of_fibre_edges
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:58:42.545528+00:00
 -- url     : https://prove2.me/theorems/e39a401a-527a-4271-9cb8-0a89e0778842

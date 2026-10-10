@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexOptAlg_CenterGravity_lemma_2_2
 -- name    : ConvexOptAlg.CenterGravity.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:24:00.773992+00:00
 -- url     : https://prove2.me/theorems/2eb4da1f-7114-43af-b616-7ae1a657c252

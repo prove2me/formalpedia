@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPremium_convex
 -- name    : ActuarialValuation.discreteStopLossPremium_convex
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:42:36.809641+00:00
 -- url     : https://prove2.me/theorems/6aea65a9-63ae-47b8-9a88-a62fbb6a36bc

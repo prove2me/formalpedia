@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PersistClust.Count.alg_numclust_eq_barcode
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fabianroll
 -- created : 2026-10-09T11:24:41.024976+00:00
 -- url     : https://prove2.me/submissions/3ecbf33a-c534-4ef8-bb4c-6e25b1589eb4
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PersistClust_Count_Algorithm

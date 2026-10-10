@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_alg_numclust_eq_barcode_reverse
 -- name    : PersistClust.Count.alg_numclust_eq_barcode_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-09T11:21:01.254571+00:00
 -- url     : https://prove2.me/theorems/47765617-055e-4204-9238-7de8255e5529

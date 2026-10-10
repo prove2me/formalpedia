@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteReserveInnovationValue_zero
 -- name    : ActuarialValuation.finiteReserveInnovationValue_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:00:33.309812+00:00
 -- url     : https://prove2.me/theorems/b34d8f2b-332e-4f63-a061-34a31cdfef87

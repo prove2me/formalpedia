@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityProjector_spatialProj_mulVec_of_orthogonal
 -- name    : BookProof.ChapterGravityProjector.spatialProj_mulVec_of_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:50:21.069135+00:00
 -- url     : https://prove2.me/theorems/01dfc12b-3e9b-4b88-8a9d-cacfc7d84a1b

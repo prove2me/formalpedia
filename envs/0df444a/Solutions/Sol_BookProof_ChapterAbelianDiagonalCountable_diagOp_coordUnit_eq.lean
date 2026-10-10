@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAbelianDiagonalCountable.diagOp_coordUnit_eq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T16:35:59.184994+00:00
 -- url     : https://prove2.me/submissions/023f4129-cb6e-4d18-ab76-d2ec5ff607d5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAbelianDiagonalCountable.lean — solution of BookProof.ChapterAbelianDiagonalCountable.diagOp_coordUnit_eq
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicOptimalCost_le_action
 -- name    : ActuarialValuation.finiteEntropicOptimalCost_le_action
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:16:18.230621+00:00
 -- url     : https://prove2.me/theorems/c15b0315-7427-49ea-b9e7-8efffde47936

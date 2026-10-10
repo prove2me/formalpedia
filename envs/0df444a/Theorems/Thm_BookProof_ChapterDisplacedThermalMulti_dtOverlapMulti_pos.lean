@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalMulti_dtOverlapMulti_pos
 -- name    : BookProof.ChapterDisplacedThermalMulti.dtOverlapMulti_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:01:19.013008+00:00
 -- url     : https://prove2.me/theorems/d8522281-5f5c-4798-a3f6-4be6d7049b75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BMV2017_witness_le_one_of_separable
 -- name    : BMV2017.witness_le_one_of_separable
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-08T23:56:08.244428+00:00
 -- url     : https://prove2.me/theorems/b2ef101d-0637-40f6-8a17-1726d15d9efd

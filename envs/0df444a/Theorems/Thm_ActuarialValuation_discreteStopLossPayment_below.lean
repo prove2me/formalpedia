@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPayment_below
 -- name    : ActuarialValuation.discreteStopLossPayment_below
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:26:59.091453+00:00
 -- url     : https://prove2.me/theorems/9d627c2d-990b-4ab0-af37-03402977b77e

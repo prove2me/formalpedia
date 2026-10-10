@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEdge_quadForm_dsOp_eq_sum
 -- name    : BookProof.DirectSumEdge.quadForm_dsOp_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:58:03.784856+00:00
 -- url     : https://prove2.me/theorems/12b9c179-ccf0-431c-9947-6986e9e45cc1

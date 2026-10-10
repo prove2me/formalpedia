@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLinSys_Chebyshev_eq_89
 -- name    : QuantumLinSys.Chebyshev.eq_89
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:08.085602+00:00
 -- url     : https://prove2.me/theorems/ece736ff-260c-428d-88d2-b71da5ddbbf1

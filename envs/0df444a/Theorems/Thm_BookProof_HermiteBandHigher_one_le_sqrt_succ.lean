@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_one_le_sqrt_succ
 -- name    : BookProof.HermiteBandHigher.one_le_sqrt_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:00:24.692526+00:00
 -- url     : https://prove2.me/theorems/a8e5b625-6f68-4c27-9aa3-1207eb41b451

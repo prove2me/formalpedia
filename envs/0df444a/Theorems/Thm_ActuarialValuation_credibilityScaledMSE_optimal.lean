@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityScaledMSE_optimal
 -- name    : ActuarialValuation.credibilityScaledMSE_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:24:40.00599+00:00
 -- url     : https://prove2.me/theorems/3130ee95-8b4f-4cfb-93fe-b5923d3192e9

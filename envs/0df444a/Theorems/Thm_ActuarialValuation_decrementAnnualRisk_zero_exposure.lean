@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementAnnualRisk_zero_exposure
 -- name    : ActuarialValuation.decrementAnnualRisk_zero_exposure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:11:51.731485+00:00
 -- url     : https://prove2.me/theorems/95dd5cec-1c03-49ab-b3af-73bb9ca910ef

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ErlerGross.gamma_multiplication_formula_of_digamma
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-26T20:32:18.055814+00:00
 -- url     : https://prove2.me/submissions/f4e6a10f-c968-423b-a8a2-6d5e163c3720
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_ErlerGross_gamma_product_right_half_plane_of_digamma

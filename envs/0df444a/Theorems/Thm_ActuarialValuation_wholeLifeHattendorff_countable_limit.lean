@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_wholeLifeHattendorff_countable_limit
 -- name    : ActuarialValuation.wholeLifeHattendorff_countable_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:11:16.588152+00:00
 -- url     : https://prove2.me/theorems/bdd89403-8048-40bf-a9d9-d8cca7909c10

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravitySplit_spatialPart_add_timePart
 -- name    : BookProof.ChapterGravitySplit.spatialPart_add_timePart
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:50:50.385982+00:00
 -- url     : https://prove2.me/theorems/33468c00-4d05-4014-9fd5-b9e4e3a31f3b

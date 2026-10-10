@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_mulOp_add_prime
 -- name    : BookProof.HermiteBandHigher.mulOp_add_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:07:01.237276+00:00
 -- url     : https://prove2.me/theorems/fac8b80b-88b8-4a2e-957c-99f199a4cabc

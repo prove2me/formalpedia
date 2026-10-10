@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonSplittingSuperposition_fundamental
 -- name    : ActuarialValuation.poissonSplittingSuperposition_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:25:59.570347+00:00
 -- url     : https://prove2.me/theorems/404f11af-532a-40ad-beea-394a2783ac4a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlCededNonnegative
 -- name    : ActuarialValuation.xlCededNonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:01:13.217487+00:00
 -- url     : https://prove2.me/theorems/7b9c9fbf-02ee-405f-9198-0f7ddff88743

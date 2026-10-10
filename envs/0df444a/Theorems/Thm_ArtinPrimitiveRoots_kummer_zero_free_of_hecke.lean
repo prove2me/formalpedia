@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_kummer_zero_free_of_hecke
 -- name    : ArtinPrimitiveRoots.kummer_zero_free_of_hecke
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:12:29.449282+00:00
 -- url     : https://prove2.me/theorems/c1f4ed70-78b7-4c71-82d2-af9d82962dd5

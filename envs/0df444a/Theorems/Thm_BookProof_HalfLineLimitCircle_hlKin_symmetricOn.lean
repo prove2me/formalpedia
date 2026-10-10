@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hlKin_symmetricOn
 -- name    : BookProof.HalfLineLimitCircle.hlKin_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:56:36.295615+00:00
 -- url     : https://prove2.me/theorems/af040fec-db34-4c99-b1fc-6d689c6f7049

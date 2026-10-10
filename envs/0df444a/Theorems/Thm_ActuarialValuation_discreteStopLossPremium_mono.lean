@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPremium_mono
 -- name    : ActuarialValuation.discreteStopLossPremium_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:39:03.393434+00:00
 -- url     : https://prove2.me/theorems/6105cb1a-330c-4a4e-bbdf-e987441382e3

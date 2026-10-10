@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_aggregateConvolution_nonneg
 -- name    : ActuarialValuation.aggregateConvolution_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:31:14.953191+00:00
 -- url     : https://prove2.me/theorems/06fae888-e4bc-4677-aae8-493cdb405bc7

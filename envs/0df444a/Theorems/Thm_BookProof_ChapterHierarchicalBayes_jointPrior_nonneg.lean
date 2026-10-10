@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterHierarchicalBayes_jointPrior_nonneg
 -- name    : BookProof.ChapterHierarchicalBayes.jointPrior_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:13:04.57401+00:00
 -- url     : https://prove2.me/theorems/41d333b8-f0bc-4a37-8394-effa84fbb36b

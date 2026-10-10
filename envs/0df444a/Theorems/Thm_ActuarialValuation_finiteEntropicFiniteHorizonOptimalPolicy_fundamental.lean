@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicFiniteHorizonOptimalPolicy_fundamental
 -- name    : ActuarialValuation.finiteEntropicFiniteHorizonOptimalPolicy_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:53:42.676049+00:00
 -- url     : https://prove2.me/theorems/5b8a9a15-950f-4e57-b4fc-4817528317b9

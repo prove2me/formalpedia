@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_Pseudoconvex_hartogs_pseudoconvex_tfae
 -- name    : LeblSCV.Pseudoconvex.hartogs_pseudoconvex_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T05:48:47.85879+00:00
 -- url     : https://prove2.me/theorems/0f0c8f07-0d1b-4916-887d-8f903e477214

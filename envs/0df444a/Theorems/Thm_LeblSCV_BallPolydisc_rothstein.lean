@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeblSCV_BallPolydisc_rothstein
 -- name    : LeblSCV.BallPolydisc.rothstein
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T02:22:00.747832+00:00
 -- url     : https://prove2.me/theorems/ea6249f4-7a50-47a9-816f-453fc7574eea

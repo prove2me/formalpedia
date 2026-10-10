@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_euler_reproduces
 -- name    : BookProof.ChapterEulerNState.euler_reproduces
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:33:51.267645+00:00
 -- url     : https://prove2.me/theorems/24634f47-ee6d-4af4-b27c-53a2af5ce2af

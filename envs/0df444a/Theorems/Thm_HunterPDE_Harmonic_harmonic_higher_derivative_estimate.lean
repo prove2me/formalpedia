@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Harmonic_harmonic_higher_derivative_estimate
 -- name    : HunterPDE.Harmonic.harmonic_higher_derivative_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:07:04.806378+00:00
 -- url     : https://prove2.me/theorems/046b05ca-056c-4abb-a289-372b5af6365c

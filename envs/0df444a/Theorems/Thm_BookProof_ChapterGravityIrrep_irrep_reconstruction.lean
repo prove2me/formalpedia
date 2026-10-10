@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityIrrep_irrep_reconstruction
 -- name    : BookProof.ChapterGravityIrrep.irrep_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:45:14.441182+00:00
 -- url     : https://prove2.me/theorems/ef7d1c9c-25b8-429a-a4e7-f67d4392f45b

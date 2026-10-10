@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_gpow_one
 -- name    : BookProof.HermiteBandHigher.gpow_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:59:51.52934+00:00
 -- url     : https://prove2.me/theorems/a3b355b4-81c2-4989-985e-538e04c4fbbe

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_eqPotential_convex_dirDeriv
 -- name    : BayesRouting.VOI.eqPotential_convex_dirDeriv
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T15:09:55.735813+00:00
 -- url     : https://prove2.me/theorems/cf954c64-84b8-4fcf-9b45-1eb6855767f2

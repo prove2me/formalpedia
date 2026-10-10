@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_TailBounds_martingale_bernstein_bound_v2
 -- name    : HighDimStat.TailBounds.martingale_bernstein_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:40.096371+00:00
 -- url     : https://prove2.me/theorems/593fe499-600f-48fb-9622-8f0db8fbc889

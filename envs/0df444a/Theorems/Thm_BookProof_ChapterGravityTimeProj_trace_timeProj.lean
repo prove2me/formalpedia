@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityTimeProj_trace_timeProj
 -- name    : BookProof.ChapterGravityTimeProj.trace_timeProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:52:04.104286+00:00
 -- url     : https://prove2.me/theorems/53aa99fd-fea8-4c9f-a452-1d3ea89b66e3

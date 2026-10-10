@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_dtOverlap_eq
 -- name    : BookProof.ChapterDisplacedThermalOverlap.dtOverlap_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:50.988964+00:00
 -- url     : https://prove2.me/theorems/26d7a32f-e617-4e22-8a52-3d97ef42e00a

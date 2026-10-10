@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityProjDirectSum_range_spatial_eq_ker_time
 -- name    : BookProof.ChapterGravityProjDirectSum.range_spatial_eq_ker_time
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:49:26.982302+00:00
 -- url     : https://prove2.me/theorems/302da943-dee3-4ded-9b9a-ba8b3c21beb8

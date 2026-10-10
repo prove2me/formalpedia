@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_exists_linearIsometry_of_inner_eq
 -- name    : BookProof.ClosureUniqueness.exists_linearIsometry_of_inner_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:43:29.231906+00:00
 -- url     : https://prove2.me/theorems/d3bd1f28-8802-4f05-970b-0d16b98c975c

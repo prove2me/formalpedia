@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DelayedSWPT_Main_competitive_ratio_two
 -- name    : DelayedSWPT.Main.competitive_ratio_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T04:47:20.562101+00:00
 -- url     : https://prove2.me/theorems/36bbe2cf-b0ee-42f5-ad6b-6aa160e82a18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_gaugeOrbit_eq_fiber
 -- name    : BookProof.ChapterG.gaugeOrbit_eq_fiber
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:44:44.778746+00:00
 -- url     : https://prove2.me/theorems/f3bdddac-d5a4-4066-a90f-7702442efce9

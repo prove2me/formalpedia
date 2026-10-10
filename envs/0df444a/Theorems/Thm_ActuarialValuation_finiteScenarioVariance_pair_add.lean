@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteScenarioVariance_pair_add
 -- name    : ActuarialValuation.finiteScenarioVariance_pair_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:17:53.552098+00:00
 -- url     : https://prove2.me/theorems/18d2a775-279a-403a-96f0-84ee73aa7697

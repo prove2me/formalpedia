@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityOptimalWeight_nonneg
 -- name    : ActuarialValuation.credibilityOptimalWeight_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:56:09.845078+00:00
 -- url     : https://prove2.me/theorems/4cce2cc4-d516-41e6-82c6-459737ce02a1

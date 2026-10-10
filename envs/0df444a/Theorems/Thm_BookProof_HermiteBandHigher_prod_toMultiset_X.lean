@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_prod_toMultiset_X
 -- name    : BookProof.HermiteBandHigher.prod_toMultiset_X
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:07:49.473977+00:00
 -- url     : https://prove2.me/theorems/af3bf40e-a03d-468b-b7b0-36bfd67f1dee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OneEdgeEndpointSectorComplementPackage
 -- name    : OneEdgeEndpointSectorComplementPackage
--- status  : Open
+-- status  : Proved
 -- author  : @moona3k
 -- created : 2026-10-04T20:26:42.790972+00:00
 -- url     : https://prove2.me/theorems/f7995c0e-9deb-4e39-ac3a-9f596d5ab7bb

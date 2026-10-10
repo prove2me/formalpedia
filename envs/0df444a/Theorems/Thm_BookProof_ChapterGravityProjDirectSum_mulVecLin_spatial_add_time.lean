@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityProjDirectSum_mulVecLin_spatial_add_time
 -- name    : BookProof.ChapterGravityProjDirectSum.mulVecLin_spatial_add_time
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:48:46.610185+00:00
 -- url     : https://prove2.me/theorems/1cae5333-54f4-4e76-a98a-e7d88c7e4970

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThompsonNonamenability_thompson_F_nonamenable_composition
 -- name    : OAI.ThompsonNonamenability.thompson_F_nonamenable_composition
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:29.77584+00:00
 -- url     : https://prove2.me/theorems/884d1e77-0487-41bb-83a5-3ccc22e72403

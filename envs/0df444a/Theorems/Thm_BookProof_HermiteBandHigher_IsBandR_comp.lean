@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_IsBandR_comp
 -- name    : BookProof.HermiteBandHigher.IsBandR.comp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:06:58.887018+00:00
 -- url     : https://prove2.me/theorems/a8e5f0b2-7b5e-40f3-a21e-5985fde1c283

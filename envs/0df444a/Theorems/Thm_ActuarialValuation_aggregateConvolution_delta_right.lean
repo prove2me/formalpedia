@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_aggregateConvolution_delta_right
 -- name    : ActuarialValuation.aggregateConvolution_delta_right
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:27:22.219742+00:00
 -- url     : https://prove2.me/theorems/49ce2513-f816-45fa-8fb9-edf8452efd27

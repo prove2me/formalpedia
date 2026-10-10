@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_RationalFilteredNilmanifold_exists_controlled_lower_refiltered_reconstruction
 -- name    : OAI.Erdos3.RationalFilteredNilmanifold.exists_controlled_lower_refiltered_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T06:59:57.127407+00:00
 -- url     : https://prove2.me/theorems/977c227e-c37f-4fa0-bb2b-2179a0b117ec

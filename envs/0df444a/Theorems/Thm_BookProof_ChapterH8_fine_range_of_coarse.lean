@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_fine_range_of_coarse
 -- name    : BookProof.ChapterH8.fine_range_of_coarse
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:30:26.419158+00:00
 -- url     : https://prove2.me/theorems/5a1073af-1549-454b-9c35-25bbb7621921

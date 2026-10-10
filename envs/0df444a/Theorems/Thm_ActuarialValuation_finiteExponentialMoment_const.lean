@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteExponentialMoment_const
 -- name    : ActuarialValuation.finiteExponentialMoment_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:01:26.455343+00:00
 -- url     : https://prove2.me/theorems/30b19339-4e00-49d6-947d-79bee513b4f1

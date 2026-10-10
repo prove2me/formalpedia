@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_positive_sqrt_unique
 -- name    : BookProof.ClosureUniqueness.positive_sqrt_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:43:54.143603+00:00
 -- url     : https://prove2.me/theorems/67bde467-4eee-4f93-8090-cf33be5bdb1f

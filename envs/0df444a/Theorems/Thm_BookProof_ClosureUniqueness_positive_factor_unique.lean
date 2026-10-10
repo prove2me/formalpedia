@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_positive_factor_unique
 -- name    : BookProof.ClosureUniqueness.positive_factor_unique
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:43:47.032237+00:00
 -- url     : https://prove2.me/theorems/56cc8ba2-f017-4547-92eb-dfbb2d82ebda

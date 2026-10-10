@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_eqOn_topologicalClosure_range_of_eqOn_range
 -- name    : BookProof.ClosureUniqueness.eqOn_topologicalClosure_range_of_eqOn_range
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:43:34.855056+00:00
 -- url     : https://prove2.me/theorems/9758ad1c-0316-4256-823f-08d0e74821b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Newtonian_newtonianPotential_laplacian
 -- name    : HunterPDE.Newtonian.newtonianPotential_laplacian
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:14:40.102828+00:00
 -- url     : https://prove2.me/theorems/58d7d6fd-6837-40c1-9c2c-66b8eb1301ee

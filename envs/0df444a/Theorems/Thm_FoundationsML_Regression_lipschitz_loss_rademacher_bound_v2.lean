@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsML_Regression_lipschitz_loss_rademacher_bound_v2
 -- name    : FoundationsML.Regression.lipschitz_loss_rademacher_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:18:56.975001+00:00
 -- url     : https://prove2.me/theorems/e7d9c627-f012-459c-86e0-7399e6f4c902

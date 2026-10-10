@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_l2_nonneg
 -- name    : BookProof.HermiteExpWall.l2_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:08:03.235674+00:00
 -- url     : https://prove2.me/theorems/af63d864-d023-4bc7-93cd-c040aeab4bb5

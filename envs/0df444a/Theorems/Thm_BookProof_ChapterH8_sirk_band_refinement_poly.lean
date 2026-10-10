@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_sirk_band_refinement_poly
 -- name    : BookProof.ChapterH8.sirk_band_refinement_poly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:33:21.537523+00:00
 -- url     : https://prove2.me/theorems/2beadea3-ae03-4a37-8ade-39dbfd857dab

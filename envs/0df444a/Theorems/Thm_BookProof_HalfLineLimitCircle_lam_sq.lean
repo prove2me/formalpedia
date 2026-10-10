@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_lam_sq
 -- name    : BookProof.HalfLineLimitCircle.lam_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:55:43.630837+00:00
 -- url     : https://prove2.me/theorems/8965c328-145d-4da4-b211-21d205b854cf

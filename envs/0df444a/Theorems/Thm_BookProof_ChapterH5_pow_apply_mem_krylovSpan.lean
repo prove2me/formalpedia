@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH5_pow_apply_mem_krylovSpan
 -- name    : BookProof.ChapterH5.pow_apply_mem_krylovSpan
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:29.076851+00:00
 -- url     : https://prove2.me/theorems/bac85604-b355-49df-9005-7ba38d44c30e

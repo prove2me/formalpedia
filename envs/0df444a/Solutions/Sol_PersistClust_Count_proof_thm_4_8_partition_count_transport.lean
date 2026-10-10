@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PersistClust.Count.proof_thm_4_8_partition_count_transport
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fabianroll
 -- created : 2026-10-09T12:07:00.977863+00:00
 -- url     : https://prove2.me/submissions/70dad6ea-e367-4a1e-8b4a-f932c57ac6d7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PersistClust_Count_Setting

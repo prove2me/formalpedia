@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH3_sirk_krylov_mem_adjoin
 -- name    : BookProof.ChapterH3.sirk_krylov_mem_adjoin
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:17.62933+00:00
 -- url     : https://prove2.me/theorems/3d441d3f-715c-4ce6-8906-19f21ce252e7

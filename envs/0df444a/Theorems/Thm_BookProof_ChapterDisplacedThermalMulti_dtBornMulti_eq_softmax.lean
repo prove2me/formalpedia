@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalMulti_dtBornMulti_eq_softmax
 -- name    : BookProof.ChapterDisplacedThermalMulti.dtBornMulti_eq_softmax
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:02:07.332417+00:00
 -- url     : https://prove2.me/theorems/3a077dc3-4cc0-4ec7-b2ba-d51b0b3e1aad

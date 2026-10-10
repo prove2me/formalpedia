@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gaussMoment_shift_eight
 -- name    : BookProof.HermiteExpWall.gaussMoment_shift_eight
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:11:54.07973+00:00
 -- url     : https://prove2.me/theorems/badd0a99-3c4a-46b1-b7c0-9ce7624b0e09

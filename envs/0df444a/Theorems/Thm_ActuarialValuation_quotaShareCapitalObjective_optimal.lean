@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareCapitalObjective_optimal
 -- name    : ActuarialValuation.quotaShareCapitalObjective_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:13:10.04299+00:00
 -- url     : https://prove2.me/theorems/631234b8-17fd-42ed-a366-9a5cf144a3a4

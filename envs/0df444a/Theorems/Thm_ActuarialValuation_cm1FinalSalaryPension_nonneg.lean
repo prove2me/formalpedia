@@ -1,0 +1,28 @@
+-- Prove2me | Theorems.Thm_ActuarialValuation_cm1FinalSalaryPension_nonneg
+-- name    : ActuarialValuation.cm1FinalSalaryPension_nonneg
+-- status  : Proved
+-- author  : @WillR
+-- created : 2026-10-09T22:49:37.615989+00:00
+-- url     : https://prove2.me/theorems/606d3f39-23f6-4d09-818b-1fe5fd2ed824
+-- title:
+--   Salary scales and cumulative service: cm1FinalSalaryPension_nonneg
+-- statement:
+--   Nonnegative service, salary and accrual rate produce a nonnegative final-salary pension. The full Lean declaration specifies the finite boundaries, exact units and any positivity, independence or regularity assumptions. This is an original derived CM1 mathematical statement, not a claim of a numbered previously published theorem.
+--
+--   Mathematical relation:
+--
+--   $$
+--   B_{\rm FS}\ge0
+--   $$
+-- source:
+--   Original derived result. Dickson, Hardy and Waters (2009), Pension Mathematics, Chapter 9, printed page 291, salary scale and benefit accrual. Dickson, Hardy and Waters, Actuarial Mathematics for Life Contingent Risks (2009), Chapter 9, salary scale and pension mathematics, https://doi.org/10.1017/CBO9780511800146; pension accrual formula and CARE benefits, https://api.pageplace.de/preview/DT0400.9781108787406_A49239377/preview-9781108787406_A49239377.pdf; IFoA CM1 2026 syllabus, https://actuaries.org.uk/media/yfnkmkbq/cm1_syllabus-2026-_final-proof.pdf. Parent topic: CM1 pension funding, salary scale projected unit credit, final salary, CARE and terminal value of defined contributions. The particular Lean formula is a new finite/real-algebraic formalisation and remains an unproved theorem target if labelled theorem.
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Definitions.Def_actuarial_cm1FinalSalaryPension
+
+namespace ActuarialValuation
+
+theorem cm1FinalSalaryPension_nonneg (salary : ℕ → ℝ) (n : ℕ) (accrual : ℝ) (ha : 0 ≤ accrual) (hs : 0 ≤ salary n) : 0 ≤ cm1FinalSalaryPension salary n accrual := by sorry
+
+end ActuarialValuation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteStageActionReturn_zero_discount
 -- name    : ActuarialValuation.finiteStageActionReturn_zero_discount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:09:07.101008+00:00
 -- url     : https://prove2.me/theorems/120e58ad-8ecd-4beb-948a-4501bf3e87ca

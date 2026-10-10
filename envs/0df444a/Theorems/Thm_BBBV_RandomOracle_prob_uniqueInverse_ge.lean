@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BBBV_RandomOracle_prob_uniqueInverse_ge
 -- name    : BBBV.RandomOracle.prob_uniqueInverse_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:55:51.299209+00:00
 -- url     : https://prove2.me/theorems/f8b37809-aa4b-457d-af15-4942cc8b3991

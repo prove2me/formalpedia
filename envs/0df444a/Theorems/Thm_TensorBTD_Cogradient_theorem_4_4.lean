@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorBTD_Cogradient_theorem_4_4
 -- name    : TensorBTD.Cogradient.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:23:57.636737+00:00
 -- url     : https://prove2.me/theorems/cee330e3-c6b6-446c-9982-b3f2621ddc7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_Reduction_algorithm_terminates
 -- name    : LLLFactor.Reduction.algorithm_terminates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:28:36.168984+00:00
 -- url     : https://prove2.me/theorems/2b0c8753-ad27-4b02-9324-8641deb11521

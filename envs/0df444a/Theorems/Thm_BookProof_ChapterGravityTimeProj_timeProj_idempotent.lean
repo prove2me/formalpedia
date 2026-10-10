@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityTimeProj_timeProj_idempotent
 -- name    : BookProof.ChapterGravityTimeProj.timeProj_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:52:02.917991+00:00
 -- url     : https://prove2.me/theorems/291ace6f-3816-4553-9eca-0e034d2bdfb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_clDom_eq_of_clGraph_eq
 -- name    : BookProof.ClosureUniqueness.clDom_eq_of_clGraph_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:42:18.163888+00:00
 -- url     : https://prove2.me/theorems/b73cbcd2-67f7-4242-b66d-2201f95319da

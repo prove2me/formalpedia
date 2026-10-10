@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WheelerDeWittSuperspace_constraints_not_first_class
 -- name    : WheelerDeWittSuperspace.constraints_not_first_class
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-05T23:14:55.804024+00:00
 -- url     : https://prove2.me/theorems/637c762a-5644-4499-9230-892bf96e5223

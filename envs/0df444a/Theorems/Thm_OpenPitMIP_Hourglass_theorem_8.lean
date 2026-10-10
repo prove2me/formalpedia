@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_Hourglass_theorem_8
 -- name    : OpenPitMIP.Hourglass.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:44.850727+00:00
 -- url     : https://prove2.me/theorems/4da5a3e0-cdbd-409f-b403-8369f251c96f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH5_krylovSpan_map_le
 -- name    : BookProof.ChapterH5.krylovSpan_map_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:07.842641+00:00
 -- url     : https://prove2.me/theorems/0ce88097-ee37-45ff-bcf0-b81f9afabc0c

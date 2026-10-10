@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GagieRIndex_Kmers_sampled_card
 -- name    : GagieRIndex.Kmers.sampled_card
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:24:01.887461+00:00
 -- url     : https://prove2.me/theorems/db871a41-6875-4c22-b2d5-335ccb63a47f

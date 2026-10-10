@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicPremium_const
 -- name    : ActuarialValuation.finiteEntropicPremium_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:01:49.793794+00:00
 -- url     : https://prove2.me/theorems/9235b28d-75a3-49bf-b1ee-c05f0cf6bd4b

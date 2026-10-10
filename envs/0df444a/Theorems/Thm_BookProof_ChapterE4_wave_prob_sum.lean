@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterE4_wave_prob_sum
 -- name    : BookProof.ChapterE4.wave_prob_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:15:35.474345+00:00
 -- url     : https://prove2.me/theorems/857eea56-5810-424e-8f42-0157b994a822

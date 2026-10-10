@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_sirk_band_refinement_proj
 -- name    : BookProof.ChapterH8.sirk_band_refinement_proj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:33:27.576977+00:00
 -- url     : https://prove2.me/theorems/25eab136-a3de-4c6d-b2c8-38ef0fe01fd1

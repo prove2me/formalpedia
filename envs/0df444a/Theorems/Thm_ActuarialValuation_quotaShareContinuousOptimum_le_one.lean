@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareContinuousOptimum_le_one
 -- name    : ActuarialValuation.quotaShareContinuousOptimum_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:10:27.385231+00:00
 -- url     : https://prove2.me/theorems/b2b92b2b-7bc7-4837-890c-169fc4a8e808

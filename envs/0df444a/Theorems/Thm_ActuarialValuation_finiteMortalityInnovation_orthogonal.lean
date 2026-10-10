@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityInnovation_orthogonal
 -- name    : ActuarialValuation.finiteMortalityInnovation_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:22:32.587086+00:00
 -- url     : https://prove2.me/theorems/4c6e6852-00dc-407e-a35b-877f4587b6fb

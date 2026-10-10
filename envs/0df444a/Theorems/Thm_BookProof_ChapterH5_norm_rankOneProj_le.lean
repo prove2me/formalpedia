@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH5_norm_rankOneProj_le
 -- name    : BookProof.ChapterH5.norm_rankOneProj_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:18.102251+00:00
 -- url     : https://prove2.me/theorems/0a5fa013-904f-47ea-8a86-03951471dd1b

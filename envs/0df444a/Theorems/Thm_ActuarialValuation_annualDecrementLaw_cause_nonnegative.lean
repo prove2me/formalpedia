@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_annualDecrementLaw_cause_nonnegative
 -- name    : ActuarialValuation.annualDecrementLaw_cause_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:24:21.885997+00:00
 -- url     : https://prove2.me/theorems/d3f72358-afca-48cd-aab3-a5ba5e842210

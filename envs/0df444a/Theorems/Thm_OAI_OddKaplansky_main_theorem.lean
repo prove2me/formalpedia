@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_OddKaplansky_main_theorem
 -- name    : OAI.OddKaplansky.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:58.277757+00:00
 -- url     : https://prove2.me/theorems/4d62bd08-ecb0-4f88-a15c-5f908ad62bd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityScaledMSE_unique
 -- name    : ActuarialValuation.credibilityScaledMSE_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:25:43.033789+00:00
 -- url     : https://prove2.me/theorems/669865e3-a743-44b7-af10-f9615bee8975

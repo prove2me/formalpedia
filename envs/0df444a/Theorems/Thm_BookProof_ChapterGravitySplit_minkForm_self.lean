@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravitySplit_minkForm_self
 -- name    : BookProof.ChapterGravitySplit.minkForm_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:52:27.720503+00:00
 -- url     : https://prove2.me/theorems/cd69163c-23a9-4f8a-990f-a65e5a14ca70

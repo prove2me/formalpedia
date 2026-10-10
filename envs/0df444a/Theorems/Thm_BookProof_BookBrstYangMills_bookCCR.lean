@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_bookCCR
 -- name    : BookProof.BookBrstYangMills.bookCCR
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:14:17.095674+00:00
 -- url     : https://prove2.me/theorems/6a7ea1c8-a5dc-479e-a8cd-7d4f784646dd

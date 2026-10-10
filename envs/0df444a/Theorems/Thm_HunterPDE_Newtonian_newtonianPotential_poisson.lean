@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Newtonian_newtonianPotential_poisson
 -- name    : HunterPDE.Newtonian.newtonianPotential_poisson
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:19:35.450443+00:00
 -- url     : https://prove2.me/theorems/64ac2128-a26d-48fb-80f3-df5723589c0e

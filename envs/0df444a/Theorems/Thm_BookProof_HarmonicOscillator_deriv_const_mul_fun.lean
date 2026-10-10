@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HarmonicOscillator_deriv_const_mul_fun
 -- name    : BookProof.HarmonicOscillator.deriv_const_mul_fun
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:58:41.700244+00:00
 -- url     : https://prove2.me/theorems/b50d99a2-4ab0-4d88-9866-86da7430229a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_annualReserveGain_expected_zero
 -- name    : ActuarialValuation.annualReserveGain_expected_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:31:53.513523+00:00
 -- url     : https://prove2.me/theorems/985ce25b-e1bb-4011-b17a-11878a4ac39d

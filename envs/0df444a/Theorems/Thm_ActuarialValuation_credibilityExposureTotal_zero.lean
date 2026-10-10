@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityExposureTotal_zero
 -- name    : ActuarialValuation.credibilityExposureTotal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:54:13.461668+00:00
 -- url     : https://prove2.me/theorems/425c7906-0fe5-4f90-84ca-9f3cb0207f80

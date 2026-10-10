@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Assignment_relaxation_lower_bound
 -- name    : CompOT.Assignment.relaxation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:18.329676+00:00
 -- url     : https://prove2.me/theorems/3e3bdad1-cc9d-4f80-a22a-822a4714506d

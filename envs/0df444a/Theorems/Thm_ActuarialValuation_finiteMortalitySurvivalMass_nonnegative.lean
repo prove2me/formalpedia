@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalitySurvivalMass_nonnegative
 -- name    : ActuarialValuation.finiteMortalitySurvivalMass_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:07:42.057979+00:00
 -- url     : https://prove2.me/theorems/2d296f7f-f21c-4a40-b486-24ea2562887e

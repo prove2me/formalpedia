@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonAggregatePMF_nonneg
 -- name    : ActuarialValuation.compoundPoissonAggregatePMF_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:32:19.287382+00:00
 -- url     : https://prove2.me/theorems/f950cd65-8b6f-428f-adfb-43f9122497bb

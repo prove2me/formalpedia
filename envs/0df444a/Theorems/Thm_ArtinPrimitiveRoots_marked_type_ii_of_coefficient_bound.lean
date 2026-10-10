@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_marked_type_ii_of_coefficient_bound
 -- name    : ArtinPrimitiveRoots.marked_type_ii_of_coefficient_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:27:37.89285+00:00
 -- url     : https://prove2.me/theorems/de7be65d-7342-4e1a-8a0a-21a355c5dbd3

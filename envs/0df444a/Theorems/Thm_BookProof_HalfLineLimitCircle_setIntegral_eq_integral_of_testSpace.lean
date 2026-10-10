@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_setIntegral_eq_integral_of_testSpace
 -- name    : BookProof.HalfLineLimitCircle.setIntegral_eq_integral_of_testSpace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:55:23.931985+00:00
 -- url     : https://prove2.me/theorems/5d05ab9c-2a98-4c1b-bd38-8f7a575cd8c0

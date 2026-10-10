@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cededExcessLoss_full_retention
 -- name    : ActuarialValuation.cededExcessLoss_full_retention
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:16:43.833153+00:00
 -- url     : https://prove2.me/theorems/c8a4cb13-1fed-4505-afaa-ee2c17c956c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementAnnualPremium_zero_causes
 -- name    : ActuarialValuation.decrementAnnualPremium_zero_causes
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:32:45.86873+00:00
 -- url     : https://prove2.me/theorems/a62f28bd-30eb-4a9a-80dd-59081c62ce28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteScenarioCovariance_symm
 -- name    : ActuarialValuation.finiteScenarioCovariance_symm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:08:32.458185+00:00
 -- url     : https://prove2.me/theorems/885be616-107d-41c8-8185-f49723b2dbd5

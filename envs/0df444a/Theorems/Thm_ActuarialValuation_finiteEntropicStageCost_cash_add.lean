@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicStageCost_cash_add
 -- name    : ActuarialValuation.finiteEntropicStageCost_cash_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:42:19.359213+00:00
 -- url     : https://prove2.me/theorems/497c346b-f5bf-4794-a231-58f26b79820c

@@ -1,0 +1,29 @@
+-- Prove2me | Definitions.Def_actuarial_mackReserve
+-- name    : actuarial_mackReserve
+-- status  : Definition
+-- author  : @WillR
+-- created : 2026-10-10T10:20:43.895464+00:00
+-- url     : https://prove2.me/theorems/0c4982a3-01ab-4e3d-8e73-85e37f5253f5
+-- title:
+--   Process error, estimation error and reserve variance: mackReserve
+-- statement:
+--   Outstanding future reserve equals the difference between projected ultimate and already paid claims. The full Lean declaration specifies the finite boundaries, exact units and any positivity, independence or regularity assumptions. This is an original derived Actuarial mathematical statement, not a claim of a numbered previously published theorem.
+--
+--   Mathematical relation:
+--
+--   $$
+--   R=\widehat C-C
+--   $$
+-- source:
+--   Original derived actuarial mathematics, published source page 213. Thomas Mack (1993), Distribution-free Calculation of the Standard Error of Chain Ladder Reserve Estimates, ASTIN Bulletin 23(2), pp. 213-225, https://www.casact.org/sites/default/files/database/astin_vol23no2_213.pdf; Thomas Mack (1999), The Standard Error of Chain Ladder Reserve Estimates: Recursive Calculation and Inclusion of a Tail Factor, https://www.casact.org/sites/default/files/database/astin_vol29no2_361.pdf. Parent topic: Mack claims reserving uncertainty, finite conditional development factor moments, process variance and estimation uncertainty. The particular Lean formula is a new finite/real-algebraic formalisation and remains an unproved theorem target if labelled theorem. Relevant published actuarial derivation: https://www.casact.org/sites/default/files/database/astin_vol23no2_213.pdf
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+
+namespace ActuarialValuation
+
+noncomputable def mackReserve (projected current : ℝ) : ℝ := projected - current
+
+end ActuarialValuation
+
+

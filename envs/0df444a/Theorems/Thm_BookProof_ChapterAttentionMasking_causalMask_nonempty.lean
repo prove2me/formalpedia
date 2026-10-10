@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_causalMask_nonempty
 -- name    : BookProof.ChapterAttentionMasking.causalMask_nonempty
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:30:31.810832+00:00
 -- url     : https://prove2.me/theorems/c5914efb-b007-4d61-82fe-54c3b79d7713

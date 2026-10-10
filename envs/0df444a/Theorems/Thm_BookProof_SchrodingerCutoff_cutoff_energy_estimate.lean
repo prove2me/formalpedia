@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_cutoff_energy_estimate
 -- name    : BookProof.SchrodingerCutoff.cutoff_energy_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:34:57.892988+00:00
 -- url     : https://prove2.me/theorems/07e1c5c1-34e1-421a-bc0d-453ad5b7511a

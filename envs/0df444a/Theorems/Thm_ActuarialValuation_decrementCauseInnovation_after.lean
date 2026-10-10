@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementCauseInnovation_after
 -- name    : ActuarialValuation.decrementCauseInnovation_after
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:03:47.786925+00:00
 -- url     : https://prove2.me/theorems/d7ba85dc-3299-4f4b-be47-3d0f71783cf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gaussMoment_tilt_ge
 -- name    : BookProof.HermiteExpWall.gaussMoment_tilt_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:09:39.740011+00:00
 -- url     : https://prove2.me/theorems/81f9f2df-0303-49ce-b423-5bda8e852b59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathFindingLP_WeightFunction_step_consistency
 -- name    : PathFindingLP.WeightFunction.step_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:48:43.829779+00:00
 -- url     : https://prove2.me/theorems/b6f40cf0-30eb-4b89-ae72-8eb820938bc7

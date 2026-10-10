@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityProjector_spatialProj_idempotent
 -- name    : BookProof.ChapterGravityProjector.spatialProj_idempotent
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:49:47.886644+00:00
 -- url     : https://prove2.me/theorems/b736cfa6-accb-40f7-9b25-4114c19ce5db

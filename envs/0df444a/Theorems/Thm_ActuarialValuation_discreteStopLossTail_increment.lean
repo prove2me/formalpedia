@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossTail_increment
 -- name    : ActuarialValuation.discreteStopLossTail_increment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:38:19.629828+00:00
 -- url     : https://prove2.me/theorems/a5d5c34e-e8a2-4995-9c2b-fe07c1b84afa

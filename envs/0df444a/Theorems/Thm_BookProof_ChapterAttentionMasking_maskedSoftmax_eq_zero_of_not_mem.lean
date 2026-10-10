@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_maskedSoftmax_eq_zero_of_not_mem
 -- name    : BookProof.ChapterAttentionMasking.maskedSoftmax_eq_zero_of_not_mem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:29:11.499981+00:00
 -- url     : https://prove2.me/theorems/696f4038-d181-4f04-8917-319e621cb021

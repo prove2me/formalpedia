@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterHierarchicalBayes_evidence_eq_marginal
 -- name    : BookProof.ChapterHierarchicalBayes.evidence_eq_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:13:03.139992+00:00
 -- url     : https://prove2.me/theorems/1d5cf4e6-9415-4708-89e4-61cb81fc9a5f

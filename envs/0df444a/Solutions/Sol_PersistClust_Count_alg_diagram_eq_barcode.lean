@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PersistClust.Count.alg_diagram_eq_barcode
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fabianroll
 -- created : 2026-10-09T11:11:29.481163+00:00
 -- url     : https://prove2.me/submissions/a75ab452-0b52-4d78-bcd9-17fe2988e4c1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PersistClust_Count_Rips

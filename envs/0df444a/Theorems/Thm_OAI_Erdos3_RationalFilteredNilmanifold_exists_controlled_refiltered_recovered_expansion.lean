@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_RationalFilteredNilmanifold_exists_controlled_refiltered_recovered_expansion
 -- name    : OAI.Erdos3.RationalFilteredNilmanifold.exists_controlled_refiltered_recovered_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T08:36:22.222125+00:00
 -- url     : https://prove2.me/theorems/ac4461cb-f204-4681-9be4-8069a76393a3

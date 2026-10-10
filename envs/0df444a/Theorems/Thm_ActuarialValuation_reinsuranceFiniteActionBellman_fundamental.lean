@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_reinsuranceFiniteActionBellman_fundamental
 -- name    : ActuarialValuation.reinsuranceFiniteActionBellman_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:23:23.358197+00:00
 -- url     : https://prove2.me/theorems/5e81bc66-93a3-4f33-bbf7-00302a4aa45f

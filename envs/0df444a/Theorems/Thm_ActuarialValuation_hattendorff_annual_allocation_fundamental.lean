@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_hattendorff_annual_allocation_fundamental
 -- name    : ActuarialValuation.hattendorff_annual_allocation_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:19:34.162968+00:00
 -- url     : https://prove2.me/theorems/ecc02b8e-0437-4d22-aaa9-40a75d72a9dd

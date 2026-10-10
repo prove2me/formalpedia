@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteScenarioExpectation_linear
 -- name    : ActuarialValuation.finiteScenarioExpectation_linear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:26:03.96997+00:00
 -- url     : https://prove2.me/theorems/5d3fc50b-e246-4552-a56b-7458d3b7c716

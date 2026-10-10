@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mortalityInnovation_Hattendorff_fundamental
 -- name    : ActuarialValuation.mortalityInnovation_Hattendorff_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:28:49.064279+00:00
 -- url     : https://prove2.me/theorems/7a61e024-f7ac-4ae1-9b9f-84192550049d

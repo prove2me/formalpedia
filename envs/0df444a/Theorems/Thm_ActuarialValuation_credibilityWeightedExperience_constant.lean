@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityWeightedExperience_constant
 -- name    : ActuarialValuation.credibilityWeightedExperience_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:55:18.010424+00:00
 -- url     : https://prove2.me/theorems/6ec1f548-f991-489e-b367-53dd8e08a5da

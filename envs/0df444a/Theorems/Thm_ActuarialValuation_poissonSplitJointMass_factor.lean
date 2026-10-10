@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonSplitJointMass_factor
 -- name    : ActuarialValuation.poissonSplitJointMass_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:14:52.730124+00:00
 -- url     : https://prove2.me/theorems/48b768cf-b52f-47ef-b8a7-a1ec09fbbc90

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HarmonicOscillator_memLp_harmonicDifferential
 -- name    : BookProof.HarmonicOscillator.memLp_harmonicDifferential
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:59:15.371983+00:00
 -- url     : https://prove2.me/theorems/f2633558-0b35-4844-99f9-6db7f253050b

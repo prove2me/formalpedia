@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareMeanVariance_fundamental
 -- name    : ActuarialValuation.quotaShareMeanVariance_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:19:41.228366+00:00
 -- url     : https://prove2.me/theorems/31a422e9-0a9c-47d2-bac0-94c9cacdb8a6

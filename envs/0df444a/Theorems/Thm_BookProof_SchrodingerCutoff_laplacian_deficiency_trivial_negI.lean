@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_laplacian_deficiency_trivial_negI
 -- name    : BookProof.SchrodingerCutoff.laplacian_deficiency_trivial_negI
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:35:58.750813+00:00
 -- url     : https://prove2.me/theorems/5453760d-df12-4751-bfe2-61e5f180b936

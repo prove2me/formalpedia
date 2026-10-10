@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Elliptic_energy_estimates
 -- name    : HunterPDE.Elliptic.energy_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:48:41.917352+00:00
 -- url     : https://prove2.me/theorems/96a8ec24-f4b3-49b1-a6c3-b5c77cb8f2fd

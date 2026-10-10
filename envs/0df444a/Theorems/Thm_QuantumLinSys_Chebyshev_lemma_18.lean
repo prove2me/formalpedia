@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLinSys_Chebyshev_lemma_18
 -- name    : QuantumLinSys.Chebyshev.lemma_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:27:59.439347+00:00
 -- url     : https://prove2.me/theorems/c48456f7-dffb-46cc-b0b5-dc7627f1e102

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hlBumpFun_two
 -- name    : BookProof.HalfLineLimitCircle.hlBumpFun_two
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:57:24.817984+00:00
 -- url     : https://prove2.me/theorems/167ed340-d34c-4114-96a4-7c29af5018ab

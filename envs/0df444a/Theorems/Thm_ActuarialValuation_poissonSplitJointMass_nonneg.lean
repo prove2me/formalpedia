@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonSplitJointMass_nonneg
 -- name    : ActuarialValuation.poissonSplitJointMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:24:07.51501+00:00
 -- url     : https://prove2.me/theorems/dd72bcef-7a8e-421e-be39-5199e42775ad

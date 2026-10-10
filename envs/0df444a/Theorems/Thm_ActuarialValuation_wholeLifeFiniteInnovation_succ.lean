@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_wholeLifeFiniteInnovation_succ
 -- name    : ActuarialValuation.wholeLifeFiniteInnovation_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:08:35.130248+00:00
 -- url     : https://prove2.me/theorems/f4701a07-64d9-4788-86a4-87619b7a710a

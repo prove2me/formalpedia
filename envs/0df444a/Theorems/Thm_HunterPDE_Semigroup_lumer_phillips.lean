@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Semigroup_lumer_phillips
 -- name    : HunterPDE.Semigroup.lumer_phillips
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:10:18.860976+00:00
 -- url     : https://prove2.me/theorems/773ca588-f7c0-4e9b-af29-73e09e1876a7

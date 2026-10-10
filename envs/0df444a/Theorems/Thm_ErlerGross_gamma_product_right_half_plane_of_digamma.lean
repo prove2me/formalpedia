@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlerGross_gamma_product_right_half_plane_of_digamma
 -- name    : ErlerGross.gamma_product_right_half_plane_of_digamma
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-26T20:30:38.525415+00:00
 -- url     : https://prove2.me/theorems/2b436ef7-0abe-48a6-928e-45bafec7bfbf

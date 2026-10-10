@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonCountConvolution_zero
 -- name    : ActuarialValuation.poissonCountConvolution_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:01:17.828986+00:00
 -- url     : https://prove2.me/theorems/788003fc-7bb6-4ee8-beff-dc8132fa44bb

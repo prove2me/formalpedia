@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH7_reduceGenerator_isHermitian
 -- name    : BookProof.ChapterH7.reduceGenerator_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:47.719849+00:00
 -- url     : https://prove2.me/theorems/24ed4912-3255-43d1-852d-db19abf734be

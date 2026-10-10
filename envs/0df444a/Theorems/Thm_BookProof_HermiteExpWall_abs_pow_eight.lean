@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_abs_pow_eight
 -- name    : BookProof.HermiteExpWall.abs_pow_eight
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:09:20.980665+00:00
 -- url     : https://prove2.me/theorems/16a1f60e-56e7-4a2b-9c0a-7479324c20b5

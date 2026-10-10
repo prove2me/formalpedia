@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_Band_monoR
 -- name    : BookProof.HermiteBandHigher.Band.monoR
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:00:33.160482+00:00
 -- url     : https://prove2.me/theorems/2fb3ad51-bd4c-47ea-a344-adbde11811b6

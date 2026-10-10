@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_proof_thm_4_8_partition_count_transport
 -- name    : PersistClust.Count.proof_thm_4_8_partition_count_transport
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-09T10:10:11.37216+00:00
 -- url     : https://prove2.me/theorems/fa8eac3e-0648-48e8-958f-e6166266b0fc

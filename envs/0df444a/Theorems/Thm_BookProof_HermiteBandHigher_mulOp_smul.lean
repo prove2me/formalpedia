@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_mulOp_smul
 -- name    : BookProof.HermiteBandHigher.mulOp_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:07:15.216639+00:00
 -- url     : https://prove2.me/theorems/a979d3c0-a03d-432e-b7a4-a5a1e06062c8

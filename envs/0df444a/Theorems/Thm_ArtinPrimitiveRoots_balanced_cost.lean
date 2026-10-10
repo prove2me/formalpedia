@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_balanced_cost
 -- name    : ArtinPrimitiveRoots.balanced_cost
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:19:55.493425+00:00
 -- url     : https://prove2.me/theorems/0445a9c5-107a-40b5-9197-84ad646ca39c

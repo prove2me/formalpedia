@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonAggregatePMF_rate_zero
 -- name    : ActuarialValuation.compoundPoissonAggregatePMF_rate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:31:29.556109+00:00
 -- url     : https://prove2.me/theorems/f2fd1224-1be0-4b59-9204-78871ab14240

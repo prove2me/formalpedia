@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_compress_aeval_transfer
 -- name    : BookProof.ChapterH8.compress_aeval_transfer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:32:19.915753+00:00
 -- url     : https://prove2.me/theorems/d76a4250-4fcd-4da3-8970-9e56249be99c

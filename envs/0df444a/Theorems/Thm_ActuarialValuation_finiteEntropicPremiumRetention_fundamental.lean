@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicPremiumRetention_fundamental
 -- name    : ActuarialValuation.finiteEntropicPremiumRetention_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:18:46.757315+00:00
 -- url     : https://prove2.me/theorems/36771602-e7c7-4946-965e-2e0793432c82

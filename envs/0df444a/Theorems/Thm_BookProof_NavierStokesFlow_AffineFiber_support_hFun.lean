@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_AffineFiber_support_hFun
 -- name    : BookProof.NavierStokesFlow.AffineFiber.support_hFun
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T10:18:47.380449+00:00
 -- url     : https://prove2.me/theorems/11e73d09-6f77-4f96-8231-b18209d80595

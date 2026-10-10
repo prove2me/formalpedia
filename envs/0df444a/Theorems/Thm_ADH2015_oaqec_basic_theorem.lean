@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ADH2015_oaqec_basic_theorem
 -- name    : ADH2015.oaqec_basic_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T10:06:20.447069+00:00
 -- url     : https://prove2.me/theorems/c731c032-2f49-4e68-ae2e-83a551bd6721

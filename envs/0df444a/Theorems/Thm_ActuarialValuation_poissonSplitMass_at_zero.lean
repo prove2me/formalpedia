@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonSplitMass_at_zero
 -- name    : ActuarialValuation.poissonSplitMass_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:24:34.950312+00:00
 -- url     : https://prove2.me/theorems/ac72ff05-0652-4a1b-9b98-0fc09e2854bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteReserveLoss_oneYearRiskIdentity
 -- name    : ActuarialValuation.finiteReserveLoss_oneYearRiskIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:15:39.354789+00:00
 -- url     : https://prove2.me/theorems/f5840567-f04a-42e8-98a4-eb9faddeacc4

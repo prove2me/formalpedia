@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_not_isSelfAdjointExtension_clExt_of_deficiency
 -- name    : BookProof.ClosureUniqueness.not_isSelfAdjointExtension_clExt_of_deficiency
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:47:18.706986+00:00
 -- url     : https://prove2.me/theorems/46dcde4f-2461-4c70-a2b9-bd25276de1a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HarmonicOscillator_hasDerivAt_polyGaussC
 -- name    : BookProof.HarmonicOscillator.hasDerivAt_polyGaussC
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:58:22.902837+00:00
 -- url     : https://prove2.me/theorems/54d2e299-85d6-4674-a5c3-a7ed3a7f36c0

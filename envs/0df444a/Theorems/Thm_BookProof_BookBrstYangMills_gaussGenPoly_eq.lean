@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_BookBrstYangMills_gaussGenPoly_eq
 -- name    : BookProof.BookBrstYangMills.gaussGenPoly_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:19:34.638456+00:00
 -- url     : https://prove2.me/theorems/6db0a4ef-8b4a-4a1b-a5b2-13ea4a095276

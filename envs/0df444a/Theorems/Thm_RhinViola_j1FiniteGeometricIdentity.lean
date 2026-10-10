@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RhinViola_j1FiniteGeometricIdentity
 -- name    : RhinViola.j1FiniteGeometricIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-06T00:19:11.54933+00:00
 -- url     : https://prove2.me/theorems/0ad68354-c632-43b6-9c6c-533aff6e34a7

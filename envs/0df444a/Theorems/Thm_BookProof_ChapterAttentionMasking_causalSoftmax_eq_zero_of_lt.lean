@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_causalSoftmax_eq_zero_of_lt
 -- name    : BookProof.ChapterAttentionMasking.causalSoftmax_eq_zero_of_lt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:30:28.881976+00:00
 -- url     : https://prove2.me/theorems/f8c2d5b2-5523-436f-8914-2d27e649b506

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareCapitalObjective_unique
 -- name    : ActuarialValuation.quotaShareCapitalObjective_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:13:59.191393+00:00
 -- url     : https://prove2.me/theorems/1374f861-0d12-46ea-9ff2-e1946df7b0cd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discountedAnnualGain_variance_orthogonal
 -- name    : ActuarialValuation.discountedAnnualGain_variance_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:18:51.787151+00:00
 -- url     : https://prove2.me/theorems/0e3e8fb2-818e-469f-8b98-d4d70678d2e7

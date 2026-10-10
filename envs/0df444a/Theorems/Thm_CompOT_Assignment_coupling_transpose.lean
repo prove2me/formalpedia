@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Assignment_coupling_transpose
 -- name    : CompOT.Assignment.coupling_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:59.182968+00:00
 -- url     : https://prove2.me/theorems/25a135f5-4b87-42f7-996a-1f65b4b8dba3

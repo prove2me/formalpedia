@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_wholeLifeYearInnovation_mean_zero
 -- name    : ActuarialValuation.wholeLifeYearInnovation_mean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:09:30.522557+00:00
 -- url     : https://prove2.me/theorems/c6c9fa40-f348-4227-a78d-e96442b4c1bf

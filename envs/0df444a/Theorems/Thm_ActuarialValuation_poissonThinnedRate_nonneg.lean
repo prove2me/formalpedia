@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonThinnedRate_nonneg
 -- name    : ActuarialValuation.poissonThinnedRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:56:51.324984+00:00
 -- url     : https://prove2.me/theorems/3f0fc229-fd8b-4ce5-a842-f34f0aa32752

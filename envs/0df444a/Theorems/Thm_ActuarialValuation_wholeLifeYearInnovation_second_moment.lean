@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_wholeLifeYearInnovation_second_moment
 -- name    : ActuarialValuation.wholeLifeYearInnovation_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:10:12.436731+00:00
 -- url     : https://prove2.me/theorems/001fdbd9-f670-46da-a968-0d007f03bdba

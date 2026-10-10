@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_Main_theorem_4
 -- name    : IQCAlg.Main.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:21.507152+00:00
 -- url     : https://prove2.me/theorems/89806db8-0b97-4dee-82a8-7de5b17b13e8

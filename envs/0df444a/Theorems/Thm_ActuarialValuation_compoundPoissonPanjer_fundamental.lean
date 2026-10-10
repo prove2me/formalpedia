@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonPanjer_fundamental
 -- name    : ActuarialValuation.compoundPoissonPanjer_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:36:17.33073+00:00
 -- url     : https://prove2.me/theorems/f47aa19e-1c78-48a1-bf2d-b2e23e6a2170

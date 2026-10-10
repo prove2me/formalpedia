@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_wholeLifeFiniteVariance_allocation
 -- name    : ActuarialValuation.wholeLifeFiniteVariance_allocation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:10:46.378652+00:00
 -- url     : https://prove2.me/theorems/047675df-576e-46dc-b184-c9ec7867008b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_maskedSoftmax_odds
 -- name    : BookProof.ChapterAttentionMasking.maskedSoftmax_odds
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:30:08.298959+00:00
 -- url     : https://prove2.me/theorems/bf27dc32-1c9d-4bc2-ab2f-9d3bbf016022

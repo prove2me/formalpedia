@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_goodScalarKernelTuple_anisotropic_error
 -- name    : OAI.Erdos3.goodScalarKernelTuple_anisotropic_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T19:15:07.003715+00:00
 -- url     : https://prove2.me/theorems/0df80782-27fe-4837-b6a8-8e6c3948f90c

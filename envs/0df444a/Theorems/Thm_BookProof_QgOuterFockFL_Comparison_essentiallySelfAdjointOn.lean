@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_Comparison_essentiallySelfAdjointOn
 -- name    : BookProof.QgOuterFockFL.Comparison.essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T20:15:11.746539+00:00
 -- url     : https://prove2.me/theorems/a175a245-568f-4c96-9567-18c3ead74594

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteHorizonMarkovOptimalPolicy_fundamental
 -- name    : ActuarialValuation.finiteHorizonMarkovOptimalPolicy_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:20:27.589406+00:00
 -- url     : https://prove2.me/theorems/89417c52-e95b-48c8-9daa-6e413ed9c0f8

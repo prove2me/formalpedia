@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WheelerDeWittSuperspace_poisson_eq_zero_of_sitewise
 -- name    : WheelerDeWittSuperspace.poisson_eq_zero_of_sitewise
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-05T23:01:46.412986+00:00
 -- url     : https://prove2.me/theorems/e385a6bd-f408-4da8-8b99-4415fa7d0477

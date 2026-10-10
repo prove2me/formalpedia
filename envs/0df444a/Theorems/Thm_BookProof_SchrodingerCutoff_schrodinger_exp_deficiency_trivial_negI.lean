@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_schrodinger_exp_deficiency_trivial_negI
 -- name    : BookProof.SchrodingerCutoff.schrodinger_exp_deficiency_trivial_negI
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:36:07.917986+00:00
 -- url     : https://prove2.me/theorems/74f44863-6986-4999-b971-a92130219534

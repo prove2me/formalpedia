@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageRUC_WitPolicy_proposition_6
 -- name    : MultistageRUC.WitPolicy.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T09:15:04.135287+00:00
 -- url     : https://prove2.me/theorems/6ee10c77-db09-4fce-8b86-f74142b3cfa1

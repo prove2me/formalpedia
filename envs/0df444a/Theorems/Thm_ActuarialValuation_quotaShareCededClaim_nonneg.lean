@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareCededClaim_nonneg
 -- name    : ActuarialValuation.quotaShareCededClaim_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:02:10.577555+00:00
 -- url     : https://prove2.me/theorems/83dee686-9205-4c7e-a727-8e6a65fb0294

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLinSys_Fourier_bound_p13
 -- name    : QuantumLinSys.Fourier.bound_p13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:19:08.745405+00:00
 -- url     : https://prove2.me/theorems/abee1125-51ba-4502-a1ab-d38146aea6f8

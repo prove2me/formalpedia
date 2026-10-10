@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlRetainedPlusCeded
 -- name    : ActuarialValuation.xlRetainedPlusCeded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T08:59:46.774781+00:00
 -- url     : https://prove2.me/theorems/cb669a04-ab6e-4981-b072-8e72fdfaf4c5

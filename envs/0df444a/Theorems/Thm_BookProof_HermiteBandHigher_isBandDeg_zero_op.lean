@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_isBandDeg_zero_op
 -- name    : BookProof.HermiteBandHigher.isBandDeg_zero_op
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:02:55.816929+00:00
 -- url     : https://prove2.me/theorems/ae8d09e0-9702-440f-b085-0ab607372b21

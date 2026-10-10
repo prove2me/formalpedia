@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Assignment_assignment_cost
 -- name    : CompOT.Assignment.assignment_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:12.780411+00:00
 -- url     : https://prove2.me/theorems/b7e05ef1-2565-485b-be06-9961d030d966

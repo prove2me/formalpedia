@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityScaledMSE_square_completion
 -- name    : ActuarialValuation.credibilityScaledMSE_square_completion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:24:10.427377+00:00
 -- url     : https://prove2.me/theorems/ea1e9c7c-197f-4255-8df9-9e0abd4c54fa

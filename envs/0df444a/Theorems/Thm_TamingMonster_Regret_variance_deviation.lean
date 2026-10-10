@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TamingMonster_Regret_variance_deviation
 -- name    : TamingMonster.Regret.variance_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T08:34:40.158768+00:00
 -- url     : https://prove2.me/theorems/bccedbbb-9b52-430e-8ae8-08a83e414a8c

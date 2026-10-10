@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimProb_RandomMatrices_error_correcting_code_guarantee_v2
 -- name    : HighDimProb.RandomMatrices.error_correcting_code_guarantee_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:19:44.204414+00:00
 -- url     : https://prove2.me/theorems/29c6fce3-6975-4fe6-a7fb-316617d384e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicStageCost_mono
 -- name    : ActuarialValuation.finiteEntropicStageCost_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:41:23.166398+00:00
 -- url     : https://prove2.me/theorems/79732eef-716b-4c79-8fc7-b4ab95b16ba6

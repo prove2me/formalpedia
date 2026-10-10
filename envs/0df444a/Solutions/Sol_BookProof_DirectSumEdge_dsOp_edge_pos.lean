@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.DirectSumEdge.dsOp_edge_pos
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:49:33.983986+00:00
 -- url     : https://prove2.me/submissions/0c728b6f-456e-4414-8d3e-c7fc7646afa3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterDirectSumEdge.lean — solution of BookProof.DirectSumEdge.dsOp_edge_pos
 import Mathlib

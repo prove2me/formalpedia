@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicPremium_cash_additive
 -- name    : ActuarialValuation.finiteEntropicPremium_cash_additive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:04:39.624309+00:00
 -- url     : https://prove2.me/theorems/36a4d101-ada0-4f90-b768-d10e32c1d227

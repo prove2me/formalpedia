@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlRiskAdjustedCostZeroCharge
 -- name    : ActuarialValuation.xlRiskAdjustedCostZeroCharge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:17:19.51325+00:00
 -- url     : https://prove2.me/theorems/01d4756f-3bdf-4f05-b5cd-6f85bc62764d

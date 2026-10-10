@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Harmonic_mean_value_inequality
 -- name    : HunterPDE.Harmonic.mean_value_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:04:04.869989+00:00
 -- url     : https://prove2.me/theorems/fcdf3f31-9180-4402-88d6-f73dcbb6a833

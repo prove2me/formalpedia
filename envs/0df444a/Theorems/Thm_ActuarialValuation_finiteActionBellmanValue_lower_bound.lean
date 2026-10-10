@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteActionBellmanValue_lower_bound
 -- name    : ActuarialValuation.finiteActionBellmanValue_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:22:50.729295+00:00
 -- url     : https://prove2.me/theorems/6df02d6c-e303-47c1-b48c-d8620e75ae48

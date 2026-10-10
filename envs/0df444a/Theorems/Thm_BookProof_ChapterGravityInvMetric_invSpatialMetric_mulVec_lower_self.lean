@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityInvMetric_invSpatialMetric_mulVec_lower_self
 -- name    : BookProof.ChapterGravityInvMetric.invSpatialMetric_mulVec_lower_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:59:52.130742+00:00
 -- url     : https://prove2.me/theorems/172e6260-58ba-45c9-bc74-fe8c5aaaaece

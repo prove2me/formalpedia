@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolicyGradTheory_ChainLB_chain_vanishing_gradients
 -- name    : PolicyGradTheory.ChainLB.chain_vanishing_gradients
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:32:28.971974+00:00
 -- url     : https://prove2.me/theorems/02262943-0f05-4164-a644-0e2f2a096754

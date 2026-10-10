@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_retainedExcessLoss_le_claim
 -- name    : ActuarialValuation.retainedExcessLoss_le_claim
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:08:57.09815+00:00
 -- url     : https://prove2.me/theorems/65f48764-ac1b-4af3-bcc6-eee299f2b5d9

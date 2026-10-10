@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohenLeeSongLP_StochCentralPath_success_probability
 -- name    : CohenLeeSongLP.StochCentralPath.success_probability
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:27:05.206994+00:00
 -- url     : https://prove2.me/theorems/4ce13875-dba5-4460-95c0-7a5d1ba0e038

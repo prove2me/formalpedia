@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discountedAnnualGainSum_succ
 -- name    : ActuarialValuation.discountedAnnualGainSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:29:23.257531+00:00
 -- url     : https://prove2.me/theorems/f059519a-21bf-4fa2-a36d-c830e4d8607a

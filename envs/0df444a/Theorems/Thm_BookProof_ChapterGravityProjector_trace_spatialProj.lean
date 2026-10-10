@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityProjector_trace_spatialProj
 -- name    : BookProof.ChapterGravityProjector.trace_spatialProj
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:50:00.232327+00:00
 -- url     : https://prove2.me/theorems/98a6c0da-4dc8-4049-9f1a-1564da07ddad

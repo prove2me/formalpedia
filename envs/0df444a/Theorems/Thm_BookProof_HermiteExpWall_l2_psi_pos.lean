@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_l2_psi_pos
 -- name    : BookProof.HermiteExpWall.l2_psi_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:10:29.320603+00:00
 -- url     : https://prove2.me/theorems/c3955a2a-84e3-473f-97bc-e9beebeb9bcf

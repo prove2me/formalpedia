@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_isBandDeg1_crePoly
 -- name    : BookProof.HermiteBandHigher.isBandDeg1_crePoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:05:15.980502+00:00
 -- url     : https://prove2.me/theorems/bac5a854-615c-48ab-a255-29a1e6ed12c7

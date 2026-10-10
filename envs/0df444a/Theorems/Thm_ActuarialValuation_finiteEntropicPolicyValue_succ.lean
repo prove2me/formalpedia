@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicPolicyValue_succ
 -- name    : ActuarialValuation.finiteEntropicPolicyValue_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:46:16.028311+00:00
 -- url     : https://prove2.me/theorems/2fc76604-7f91-4cfc-a924-3aab61d46bfa

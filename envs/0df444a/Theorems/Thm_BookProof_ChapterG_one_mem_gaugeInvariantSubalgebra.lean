@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_one_mem_gaugeInvariantSubalgebra
 -- name    : BookProof.ChapterG.one_mem_gaugeInvariantSubalgebra
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:45:23.306348+00:00
 -- url     : https://prove2.me/theorems/56c66f30-b962-481a-bafb-fae3f998b10e

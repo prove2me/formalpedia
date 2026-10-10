@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityDiscountedShock_zero_term
 -- name    : ActuarialValuation.finiteMortalityDiscountedShock_zero_term
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:24:17.974301+00:00
 -- url     : https://prove2.me/theorems/0526a70e-22ff-477a-a244-13b799e5d7b8

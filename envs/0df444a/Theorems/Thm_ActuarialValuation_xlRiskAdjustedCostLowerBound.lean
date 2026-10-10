@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlRiskAdjustedCostLowerBound
 -- name    : ActuarialValuation.xlRiskAdjustedCostLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:16:25.839134+00:00
 -- url     : https://prove2.me/theorems/8354aa56-019d-4794-b925-dd0beece36d5

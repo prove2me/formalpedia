@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementAnnualRisk_scale
 -- name    : ActuarialValuation.decrementAnnualRisk_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:13:26.229007+00:00
 -- url     : https://prove2.me/theorems/fb4802e7-c27b-4984-8450-67d9f106ac1b

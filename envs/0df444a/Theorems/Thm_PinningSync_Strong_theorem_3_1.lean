@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PinningSync_Strong_theorem_3_1
 -- name    : PinningSync.Strong.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:26:56.467997+00:00
 -- url     : https://prove2.me/theorems/b8fb877d-1285-473a-9f81-e51e0f4403c2

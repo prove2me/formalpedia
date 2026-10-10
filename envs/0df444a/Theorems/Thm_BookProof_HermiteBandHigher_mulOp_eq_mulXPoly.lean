@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_mulOp_eq_mulXPoly
 -- name    : BookProof.HermiteBandHigher.mulOp_eq_mulXPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:06:01.772997+00:00
 -- url     : https://prove2.me/theorems/b1702aa8-ce95-48b9-be05-80194ef0a799

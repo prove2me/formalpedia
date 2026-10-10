@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_ConstrGap_theorem_4
 -- name    : KAdaptability.ConstrGap.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:01:46.336018+00:00
 -- url     : https://prove2.me/theorems/8a032c70-d571-42fe-be14-22f877d0233f

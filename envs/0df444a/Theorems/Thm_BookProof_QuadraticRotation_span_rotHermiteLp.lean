@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_span_rotHermiteLp
 -- name    : BookProof.QuadraticRotation.span_rotHermiteLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-04T14:10:00.437956+00:00
 -- url     : https://prove2.me/theorems/d9bcb916-4c3c-4b56-97f3-3ea6f779b474

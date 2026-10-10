@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_contract_smul_right
 -- name    : BookProof.ChapterGravityPolymomentum.contract_smul_right
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:48:14.186609+00:00
 -- url     : https://prove2.me/theorems/eb30244d-080b-4ef8-ab95-fbcd4818d5ff

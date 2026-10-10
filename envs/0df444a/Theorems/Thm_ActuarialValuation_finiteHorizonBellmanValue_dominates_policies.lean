@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteHorizonBellmanValue_dominates_policies
 -- name    : ActuarialValuation.finiteHorizonBellmanValue_dominates_policies
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:17:59.251831+00:00
 -- url     : https://prove2.me/theorems/5ab8a148-a6f8-4504-ba7d-3c1186fd1db5

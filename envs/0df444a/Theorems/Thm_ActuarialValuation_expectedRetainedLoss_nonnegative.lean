@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_expectedRetainedLoss_nonnegative
 -- name    : ActuarialValuation.expectedRetainedLoss_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:19:15.552287+00:00
 -- url     : https://prove2.me/theorems/d7645d66-2aa2-4409-a201-4dbcdab34ee5

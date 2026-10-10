@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Assignment_proposition_2_1
 -- name    : CompOT.Assignment.proposition_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:20.162477+00:00
 -- url     : https://prove2.me/theorems/61c2f0a6-8e84-4079-bd9f-062eb4a8c1d4

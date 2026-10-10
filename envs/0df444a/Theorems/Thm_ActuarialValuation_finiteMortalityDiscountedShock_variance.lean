@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityDiscountedShock_variance
 -- name    : ActuarialValuation.finiteMortalityDiscountedShock_variance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:26:46.514082+00:00
 -- url     : https://prove2.me/theorems/8a6f65dc-20a9-402b-8767-c170d81a5769

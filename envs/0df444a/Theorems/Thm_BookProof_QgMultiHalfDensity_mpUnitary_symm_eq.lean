@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgMultiHalfDensity_mpUnitary_symm_eq
 -- name    : BookProof.QgMultiHalfDensity.mpUnitary_symm_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:41:33.474532+00:00
 -- url     : https://prove2.me/theorems/abb8cd22-1057-4d94-9757-d69ff5ed26fb

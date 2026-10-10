@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qg3D_apply
 -- name    : BookProof.QuantumGravity3DGauge.qg3D_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T17:52:37.128989+00:00
 -- url     : https://prove2.me/theorems/3ae3abe8-c4fa-49a9-8fdd-2c289351e970

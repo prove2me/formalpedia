@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_exists_preparedRelative_structural_input_power
 -- name    : OAI.Erdos3.exists_preparedRelative_structural_input_power
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T09:25:23.995384+00:00
 -- url     : https://prove2.me/theorems/81c6d4fd-25e7-45b8-b787-9eae2b24fe94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareVariancePremium_at_full
 -- name    : ActuarialValuation.quotaShareVariancePremium_at_full
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:03:10.677774+00:00
 -- url     : https://prove2.me/theorems/90e43970-0605-422f-81ce-3cc87e073704

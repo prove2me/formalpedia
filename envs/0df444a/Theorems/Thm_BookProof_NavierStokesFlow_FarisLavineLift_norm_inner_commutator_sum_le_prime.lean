@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FarisLavineLift_norm_inner_commutator_sum_le_prime
 -- name    : BookProof.NavierStokesFlow.FarisLavineLift.norm_inner_commutator_sum_le_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T09:58:07.270716+00:00
 -- url     : https://prove2.me/theorems/b7c02d0f-3b60-4cbb-ac51-2912ceea8db4

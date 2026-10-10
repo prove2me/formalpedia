@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gaussMoment_eq_integral
 -- name    : BookProof.HermiteExpWall.gaussMoment_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:08:09.663247+00:00
 -- url     : https://prove2.me/theorems/1cc813dd-2453-4518-b8e3-cb92f2a0be3b

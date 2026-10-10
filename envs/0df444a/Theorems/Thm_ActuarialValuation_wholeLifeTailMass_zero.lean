@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_wholeLifeTailMass_zero
 -- name    : ActuarialValuation.wholeLifeTailMass_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:03:20.446116+00:00
 -- url     : https://prove2.me/theorems/b581b8d4-4800-42ed-bdc4-f0f36074c57c

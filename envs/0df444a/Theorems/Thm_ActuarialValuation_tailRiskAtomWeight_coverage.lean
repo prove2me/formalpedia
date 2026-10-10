@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskAtomWeight_coverage
 -- name    : ActuarialValuation.tailRiskAtomWeight_coverage
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:14:06.466043+00:00
 -- url     : https://prove2.me/theorems/015f618c-ad06-46e9-b48f-7817348c54ba

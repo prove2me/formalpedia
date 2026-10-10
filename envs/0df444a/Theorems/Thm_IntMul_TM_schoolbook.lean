@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_TM_schoolbook
 -- name    : IntMul.TM.schoolbook
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T02:06:28.184987+00:00
 -- url     : https://prove2.me/theorems/86109c88-e1e4-410a-a312-0a5f005a04cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_rough_factor_type_ii
 -- name    : ArtinPrimitiveRoots.rough_factor_type_ii
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:28:29.699429+00:00
 -- url     : https://prove2.me/theorems/07399099-389b-4ac0-a0f2-e48593789e84

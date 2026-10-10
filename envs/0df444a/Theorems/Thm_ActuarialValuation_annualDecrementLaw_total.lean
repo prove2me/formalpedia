@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_annualDecrementLaw_total
 -- name    : ActuarialValuation.annualDecrementLaw_total
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:27:16.252808+00:00
 -- url     : https://prove2.me/theorems/a22fa445-7d6f-4441-a643-d2b1860294d5

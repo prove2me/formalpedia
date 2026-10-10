@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementAnnualPremium_zero_survival
 -- name    : ActuarialValuation.decrementAnnualPremium_zero_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:32:05.717125+00:00
 -- url     : https://prove2.me/theorems/133f793b-f5ef-42fc-87f9-8bb3aa111a62

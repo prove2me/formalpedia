@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_TM_add_sub_linear
 -- name    : IntMul.TM.add_sub_linear
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T02:08:38.626064+00:00
 -- url     : https://prove2.me/theorems/02ee99a6-3049-4d13-a20d-ec092f55e29c

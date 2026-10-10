@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_aggregateConvolution_zero
 -- name    : ActuarialValuation.aggregateConvolution_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:25:55.06955+00:00
 -- url     : https://prove2.me/theorems/dca22c4e-6c39-4e13-992a-ec9c022fb527

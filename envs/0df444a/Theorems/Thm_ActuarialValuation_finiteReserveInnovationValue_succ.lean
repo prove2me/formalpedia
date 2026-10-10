@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteReserveInnovationValue_succ
 -- name    : ActuarialValuation.finiteReserveInnovationValue_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:08:52.242149+00:00
 -- url     : https://prove2.me/theorems/05504e5e-90a6-4bf5-8e85-2456b6bb0ae4

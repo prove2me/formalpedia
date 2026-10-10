@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_maskedSoftmax_univ
 -- name    : BookProof.ChapterAttentionMasking.maskedSoftmax_univ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:29:34.601569+00:00
 -- url     : https://prove2.me/theorems/7f1448f6-5153-4410-ab96-3b82decca88d

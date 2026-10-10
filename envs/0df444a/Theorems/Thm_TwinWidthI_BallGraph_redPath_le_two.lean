@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BallGraph_redPath_le_two
 -- name    : TwinWidthI.BallGraph.redPath_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:45:28.773526+00:00
 -- url     : https://prove2.me/theorems/8dc5bce4-2285-4cf9-bcac-b05b4733810a

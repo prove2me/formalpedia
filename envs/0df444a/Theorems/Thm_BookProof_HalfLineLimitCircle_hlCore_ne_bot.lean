@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hlCore_ne_bot
 -- name    : BookProof.HalfLineLimitCircle.hlCore_ne_bot
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:59:22.205405+00:00
 -- url     : https://prove2.me/theorems/2f7ca565-9b96-4e71-a759-8471bb95071f

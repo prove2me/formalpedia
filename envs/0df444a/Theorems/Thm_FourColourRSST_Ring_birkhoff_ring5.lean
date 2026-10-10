@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FourColourRSST_Ring_birkhoff_ring5
 -- name    : FourColourRSST.Ring.birkhoff_ring5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:38:03.576505+00:00
 -- url     : https://prove2.me/theorems/73f76857-b29e-41f8-83b6-1fa6348a2de8

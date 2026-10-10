@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hlKin_deficiency_identity
 -- name    : BookProof.HalfLineLimitCircle.hlKin_deficiency_identity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:56:45.338057+00:00
 -- url     : https://prove2.me/theorems/0f805f43-b3bb-4a81-989b-2c6dcb02a1f2

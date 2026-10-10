@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlRiskAdjustedRetention_fundamental
 -- name    : ActuarialValuation.xlRiskAdjustedRetention_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:20:23.466989+00:00
 -- url     : https://prove2.me/theorems/7414fa0e-d495-4b19-b24a-fd76fb15db5f

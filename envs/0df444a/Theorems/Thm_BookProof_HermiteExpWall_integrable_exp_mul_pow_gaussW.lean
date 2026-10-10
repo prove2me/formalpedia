@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_integrable_exp_mul_pow_gaussW
 -- name    : BookProof.HermiteExpWall.integrable_exp_mul_pow_gaussW
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:09:13.62984+00:00
 -- url     : https://prove2.me/theorems/75df71e2-2290-4065-b5b1-de6b491f7b3a

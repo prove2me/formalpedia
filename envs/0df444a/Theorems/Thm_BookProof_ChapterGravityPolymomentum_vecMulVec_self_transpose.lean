@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_vecMulVec_self_transpose
 -- name    : BookProof.ChapterGravityPolymomentum.vecMulVec_self_transpose
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:46:06.330985+00:00
 -- url     : https://prove2.me/theorems/b528ff6a-2423-4a2d-9d52-de58127adcee

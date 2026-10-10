@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlFiniteOptimalRetentionLowerBound
 -- name    : ActuarialValuation.xlFiniteOptimalRetentionLowerBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:18:04.005495+00:00
 -- url     : https://prove2.me/theorems/d272b065-0c57-4fea-bd11-24afabd07585

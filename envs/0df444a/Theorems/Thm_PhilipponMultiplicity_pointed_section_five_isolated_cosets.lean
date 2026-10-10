@@ -1,12 +1,14 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_pointed_section_five_isolated_cosets
 -- name    : PhilipponMultiplicity.pointed_section_five_isolated_cosets
--- status  : Open
+-- status  : Disproved
 -- author  : @tomasz
 -- created : 2026-10-01T11:40:34.227884+00:00
 -- url     : https://prove2.me/theorems/9522f00d-d75f-453b-8300-4c36fdf42090
 -- title:
 --   Pointed Section 5 selection with isolated sampled cosets
 -- statement:
+--   **Disproved auxiliary (10 October 2026).** The additive-plane example $\Sigma=\{(0,0),(1,0)\}$, $T=0$, $P=(y-x)(x-1)(x-2)$ contradicts the simultaneous-isolation conclusion. The disproof constructs the actual SectionFiveInput and contradicts its required minimal-prime condition. This does not disprove the sampled-translates addendum. The earlier parent sketch depending on this auxiliary has been retired; a different geometric argument is required.
+--
 --   **Statement under review — 1 October 2026.** A candidate counterexample suggests that this auxiliary isolation assertion may be stronger than the source addendum requires. Consider $G=\mathbf G_a^2$, $a=(1,0)$, $\Sigma=\{0,a\}$, $T=0$, and the multihomogenization of $P(x,y)=(y-x)(x-1)(x-2)$. With the standard translation charts, the first two chain zero sets should be
 --   $$
 --   Z_1=\{y=x\}\cup\{x=1\}\cup\{x=2\},\qquad

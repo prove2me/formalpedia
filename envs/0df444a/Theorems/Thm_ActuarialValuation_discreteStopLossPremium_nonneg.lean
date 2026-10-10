@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPremium_nonneg
 -- name    : ActuarialValuation.discreteStopLossPremium_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:36:35.255442+00:00
 -- url     : https://prove2.me/theorems/b1b0b8b2-f301-4d97-8133-d444428c08ef

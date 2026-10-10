@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityInnovation_expected_zero
 -- name    : ActuarialValuation.finiteMortalityInnovation_expected_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:13:57.191139+00:00
 -- url     : https://prove2.me/theorems/09844d47-656e-48b8-ac56-c490a83d3a89

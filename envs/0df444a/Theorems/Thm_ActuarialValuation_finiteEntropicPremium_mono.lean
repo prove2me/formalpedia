@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicPremium_mono
 -- name    : ActuarialValuation.finiteEntropicPremium_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:08:48.254454+00:00
 -- url     : https://prove2.me/theorems/adfa89b1-90cc-4176-8c8b-19eb899e2bd8

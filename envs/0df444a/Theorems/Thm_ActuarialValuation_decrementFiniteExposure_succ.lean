@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementFiniteExposure_succ
 -- name    : ActuarialValuation.decrementFiniteExposure_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:11:11.547207+00:00
 -- url     : https://prove2.me/theorems/b8df1b0d-ef0c-4b93-ac54-37ee10e86e1c

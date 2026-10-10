@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravitySplit_spatialPart_orthogonal
 -- name    : BookProof.ChapterGravitySplit.spatialPart_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:51:27.970922+00:00
 -- url     : https://prove2.me/theorems/9e34942e-9dcf-4f7c-a2dc-feeba6537266

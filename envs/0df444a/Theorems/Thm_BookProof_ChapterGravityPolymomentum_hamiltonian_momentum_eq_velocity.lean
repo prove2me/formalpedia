@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_hamiltonian_momentum_eq_velocity
 -- name    : BookProof.ChapterGravityPolymomentum.hamiltonian_momentum_eq_velocity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:48:17.59481+00:00
 -- url     : https://prove2.me/theorems/7743f84f-c5f3-459d-8f8f-5283677c33d3

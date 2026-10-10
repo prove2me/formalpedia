@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumUB_theorem_6_7
 -- name    : SymPolyOpt.PowerSumUB.theorem_6_7
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:22:47.876564+00:00
 -- url     : https://prove2.me/theorems/4606d7a2-19ba-4a59-bc00-e915f4f80a8d

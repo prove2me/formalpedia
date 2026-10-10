@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_isBandR1_momPoly
 -- name    : BookProof.HermiteBandHigher.isBandR1_momPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:09:21.719978+00:00
 -- url     : https://prove2.me/theorems/d8bd6ea9-0dc1-4dd7-b0b1-4d6add3edd91

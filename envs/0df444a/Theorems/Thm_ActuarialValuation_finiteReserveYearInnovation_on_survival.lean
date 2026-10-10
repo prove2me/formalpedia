@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteReserveYearInnovation_on_survival
 -- name    : ActuarialValuation.finiteReserveYearInnovation_on_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:01:14.330495+00:00
 -- url     : https://prove2.me/theorems/3dd4ef63-c61a-4038-b2e6-67b1313def40

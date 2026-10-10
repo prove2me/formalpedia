@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterHierarchicalBayes_flatPosterior_sum_one
 -- name    : BookProof.ChapterHierarchicalBayes.flatPosterior_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:13:22.005985+00:00
 -- url     : https://prove2.me/theorems/ac79f386-ae8d-4027-add4-74024930fa0e

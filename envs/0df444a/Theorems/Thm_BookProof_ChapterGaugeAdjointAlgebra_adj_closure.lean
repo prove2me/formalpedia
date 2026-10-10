@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeAdjointAlgebra_adj_closure
 -- name    : BookProof.ChapterGaugeAdjointAlgebra.adj_closure
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:51:55.207411+00:00
 -- url     : https://prove2.me/theorems/825e2899-4378-46da-aff1-eccac6cc67c6

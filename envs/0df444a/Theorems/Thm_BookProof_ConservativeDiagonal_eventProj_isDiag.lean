@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ConservativeDiagonal_eventProj_isDiag
 -- name    : BookProof.ConservativeDiagonal.eventProj_isDiag
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:22:35.836836+00:00
 -- url     : https://prove2.me/theorems/8f1071c0-21ab-4865-9db4-78b4d588a2ef

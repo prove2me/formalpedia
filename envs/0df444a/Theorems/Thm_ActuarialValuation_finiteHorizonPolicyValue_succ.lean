@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteHorizonPolicyValue_succ
 -- name    : ActuarialValuation.finiteHorizonPolicyValue_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:14:15.959668+00:00
 -- url     : https://prove2.me/theorems/49dda38d-921b-4a7d-996e-7c3eea364a58

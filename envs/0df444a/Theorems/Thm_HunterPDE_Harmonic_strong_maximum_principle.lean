@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Harmonic_strong_maximum_principle
 -- name    : HunterPDE.Harmonic.strong_maximum_principle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:08:42.911067+00:00
 -- url     : https://prove2.me/theorems/6c90159c-4613-4cb7-876f-da9292d31551

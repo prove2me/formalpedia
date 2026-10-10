@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_canonicalVectorSpatialSiteApprox_shift_error
 -- name    : OAI.Erdos3.canonicalVectorSpatialSiteApprox_shift_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T19:13:59.350352+00:00
 -- url     : https://prove2.me/theorems/9faefc1a-98e9-4ac4-b257-be8151604334

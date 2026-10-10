@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeUnconstrainedSpectrum_shiftPerm_movesEveryPoint
 -- name    : BookProof.ChapterGaugeUnconstrainedSpectrum.shiftPerm_movesEveryPoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T12:18:01.14624+00:00
 -- url     : https://prove2.me/theorems/e133ce66-b20e-4bf1-94df-a816ee07cdb7

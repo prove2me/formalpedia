@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_integral_deriv2_mul
 -- name    : BookProof.HalfLineLimitCircle.integral_deriv2_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:55:45.830599+00:00
 -- url     : https://prove2.me/theorems/08125d02-b6ce-4ad8-883d-692b5203d092

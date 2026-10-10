@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLoss_fundamental
 -- name    : ActuarialValuation.discreteStopLoss_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:52:00.258813+00:00
 -- url     : https://prove2.me/theorems/b73d48d9-00cc-4e75-93c4-7582a9a56a50

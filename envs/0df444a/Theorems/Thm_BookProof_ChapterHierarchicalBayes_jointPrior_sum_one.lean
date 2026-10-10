@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterHierarchicalBayes_jointPrior_sum_one
 -- name    : BookProof.ChapterHierarchicalBayes.jointPrior_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:13:10.4362+00:00
 -- url     : https://prove2.me/theorems/1ee20b2b-61b6-4636-9d8d-752062018417

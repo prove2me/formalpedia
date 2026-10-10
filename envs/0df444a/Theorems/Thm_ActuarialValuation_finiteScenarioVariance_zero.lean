@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteScenarioVariance_zero
 -- name    : ActuarialValuation.finiteScenarioVariance_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:11:22.647714+00:00
 -- url     : https://prove2.me/theorems/778cd726-88d2-4e3c-9e00-0d287f63c5ae

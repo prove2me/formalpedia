@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteReserveLossAtIssue_succ
 -- name    : ActuarialValuation.finiteReserveLossAtIssue_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:08:12.162681+00:00
 -- url     : https://prove2.me/theorems/d466be4f-1925-4111-93b0-da0306aee559

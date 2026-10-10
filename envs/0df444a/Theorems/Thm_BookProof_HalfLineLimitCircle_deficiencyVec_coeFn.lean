@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_deficiencyVec_coeFn
 -- name    : BookProof.HalfLineLimitCircle.deficiencyVec_coeFn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:56:02.387956+00:00
 -- url     : https://prove2.me/theorems/02dc074e-5b20-4262-b57d-ad998215c278

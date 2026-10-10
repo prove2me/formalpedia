@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteHorizonBellmanValue_policy_attains
 -- name    : ActuarialValuation.finiteHorizonBellmanValue_policy_attains
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:18:51.277982+00:00
 -- url     : https://prove2.me/theorems/d9cde55e-adbb-4375-92be-8ff191f8cd29

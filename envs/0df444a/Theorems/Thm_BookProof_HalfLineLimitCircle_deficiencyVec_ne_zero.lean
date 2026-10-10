@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_deficiencyVec_ne_zero
 -- name    : BookProof.HalfLineLimitCircle.deficiencyVec_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:57:00.038775+00:00
 -- url     : https://prove2.me/theorems/6b6522dd-9dbc-4809-b949-1e5503daac00

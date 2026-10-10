@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.BrstReducedTransfer.transfer_bijective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T19:44:23.669169+00:00
 -- url     : https://prove2.me/submissions/86451d9d-46d6-4da1-9fc1-8de1550c2fa0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBrstReducedTransfer.lean — solution of BookProof.BrstReducedTransfer.transfer_bijective
 import Mathlib

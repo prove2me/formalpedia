@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskSelectedLoss_stoploss
 -- name    : ActuarialValuation.tailRiskSelectedLoss_stoploss
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:24:23.103854+00:00
 -- url     : https://prove2.me/theorems/4656091a-5dbc-47ed-aa5b-f5f21130c18c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPayment_partition
 -- name    : ActuarialValuation.discreteStopLossPayment_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:32:17.760351+00:00
 -- url     : https://prove2.me/theorems/04fd813d-4e52-4a02-b036-07480038c7a6

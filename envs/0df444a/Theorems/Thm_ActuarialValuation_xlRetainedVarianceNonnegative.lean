@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlRetainedVarianceNonnegative
 -- name    : ActuarialValuation.xlRetainedVarianceNonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:14:25.321245+00:00
 -- url     : https://prove2.me/theorems/5887b7cb-fcb3-4832-90a6-c8d733550630

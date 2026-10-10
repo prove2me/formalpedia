@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityTimeProj_timeProj_mulVec_self
 -- name    : BookProof.ChapterGravityTimeProj.timeProj_mulVec_self
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:52:22.250974+00:00
 -- url     : https://prove2.me/theorems/8afa1e84-4fe4-4ff7-957c-6f00eb5b9833

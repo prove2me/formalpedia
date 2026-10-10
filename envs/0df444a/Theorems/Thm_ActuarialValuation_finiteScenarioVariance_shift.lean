@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteScenarioVariance_shift
 -- name    : ActuarialValuation.finiteScenarioVariance_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:14:56.250631+00:00
 -- url     : https://prove2.me/theorems/ee96f137-fc02-4bed-97d1-d9d2f6ee90e4

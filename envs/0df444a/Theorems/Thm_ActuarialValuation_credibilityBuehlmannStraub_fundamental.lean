@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityBuehlmannStraub_fundamental
 -- name    : ActuarialValuation.credibilityBuehlmannStraub_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:26:41.863162+00:00
 -- url     : https://prove2.me/theorems/cd58725e-6e20-4053-a629-f7f4f8ab841a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossLimitedMean_bridge
 -- name    : ActuarialValuation.discreteStopLossLimitedMean_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:48:15.805559+00:00
 -- url     : https://prove2.me/theorems/e3e47b0b-5439-4118-be0d-b4a35b087538

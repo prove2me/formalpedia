@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_bCoef_nonneg
 -- name    : BookProof.HermiteExpWall.bCoef_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:12:02.661703+00:00
 -- url     : https://prove2.me/theorems/37908d75-7659-41d1-95f4-d148590fdbaf

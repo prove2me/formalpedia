@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArtinPrimitiveRoots.type_ii_progression
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-08T14:41:24.973988+00:00
 -- url     : https://prove2.me/submissions/4a6716cd-f9df-4a4c-8e4f-2a81a21e722a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ArtinSieve

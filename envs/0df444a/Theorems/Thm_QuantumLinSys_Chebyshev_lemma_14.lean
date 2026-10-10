@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumLinSys_Chebyshev_lemma_14
 -- name    : QuantumLinSys.Chebyshev.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T09:28:07.593977+00:00
 -- url     : https://prove2.me/theorems/2beab768-4307-471a-91ec-a0ea8542a079

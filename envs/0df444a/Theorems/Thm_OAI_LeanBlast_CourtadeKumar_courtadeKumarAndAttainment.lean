@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LeanBlast_CourtadeKumar_courtadeKumarAndAttainment
 -- name    : OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:52.604014+00:00
 -- url     : https://prove2.me/theorems/3b1746b9-3c9b-45b7-9639-57514357ae1e

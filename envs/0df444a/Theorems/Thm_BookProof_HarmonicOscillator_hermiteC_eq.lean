@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HarmonicOscillator_hermiteC_eq
 -- name    : BookProof.HarmonicOscillator.hermiteC_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:58:40.088434+00:00
 -- url     : https://prove2.me/theorems/494eb19f-c4da-470e-8872-e3efe2970156

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gaussMoment_even_pos
 -- name    : BookProof.HermiteExpWall.gaussMoment_even_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:08:49.20398+00:00
 -- url     : https://prove2.me/theorems/feb08796-c294-4036-b64a-b6fbe7f8442a

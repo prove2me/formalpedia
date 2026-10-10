@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonCountWeight_zero
 -- name    : ActuarialValuation.compoundPoissonCountWeight_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:29:17.473747+00:00
 -- url     : https://prove2.me/theorems/1cd51cbb-35e1-45f7-b40e-822250dd41c0

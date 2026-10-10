@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WheelerDeWittSuperspace_kinetic_volume_sector
 -- name    : WheelerDeWittSuperspace.kinetic_volume_sector
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-05T22:17:41.032718+00:00
 -- url     : https://prove2.me/theorems/3e7a2303-e265-4f18-9392-6a3bad36f19c

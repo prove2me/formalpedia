@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_hlKin_not_deficiencyTrivialAt_I
 -- name    : BookProof.HalfLineLimitCircle.hlKin_not_deficiencyTrivialAt_I
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:56:55.153225+00:00
 -- url     : https://prove2.me/theorems/676281b6-4fa2-4891-a51c-91bb179ae36e

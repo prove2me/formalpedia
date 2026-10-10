@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicBellmanMinimum_le
 -- name    : ActuarialValuation.finiteEntropicBellmanMinimum_le
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:42:52.425504+00:00
 -- url     : https://prove2.me/theorems/852cd367-605b-4e8b-91c3-df977bd56b07

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_eqPotential_regime_monotone
 -- name    : BayesRouting.VOI.eqPotential_regime_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T15:07:38.58756+00:00
 -- url     : https://prove2.me/theorems/98c462d6-bcea-4d25-b1eb-9df5c5238c8c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityRates_sum
 -- name    : ActuarialValuation.finiteMortalityRates_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:11:47.397992+00:00
 -- url     : https://prove2.me/theorems/7c14e7ef-f0d2-4100-8cd6-ce75a9c1e2ab

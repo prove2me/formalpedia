@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_expectedRetainedLoss_mono_limit
 -- name    : ActuarialValuation.expectedRetainedLoss_mono_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:19:49.536264+00:00
 -- url     : https://prove2.me/theorems/bc7046d0-d48d-4831-9452-2684bafa806c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityOptimalWeight_le_one
 -- name    : ActuarialValuation.credibilityOptimalWeight_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:56:54.58352+00:00
 -- url     : https://prove2.me/theorems/4e5ee75b-a856-42ee-8c9f-48ab6b485a57

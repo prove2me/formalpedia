@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementPremium_savings_risk
 -- name    : ActuarialValuation.decrementPremium_savings_risk
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:11:48.737007+00:00
 -- url     : https://prove2.me/theorems/553108bf-ccb7-4d72-9cd1-17cf5b24c233

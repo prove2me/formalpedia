@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_preparedRelativeInitializer_scalarInputs
 -- name    : OAI.Erdos3.preparedRelativeInitializer_scalarInputs
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T09:31:26.842416+00:00
 -- url     : https://prove2.me/theorems/b752a77e-2e4c-4580-bbac-8f36742a4ef8

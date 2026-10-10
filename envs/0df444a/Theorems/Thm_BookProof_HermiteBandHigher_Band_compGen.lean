@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_Band_compGen
 -- name    : BookProof.HermiteBandHigher.Band.compGen
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:01:42.739004+00:00
 -- url     : https://prove2.me/theorems/fc2b07a9-6136-458b-a087-544bb770d998

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AllocationIndices_superprocess_index_theorem
 -- name    : AllocationIndices.superprocess_index_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @naimengye
 -- created : 2026-09-24T02:50:34.473426+00:00
 -- url     : https://prove2.me/theorems/b7d734d1-87ab-467d-988b-1948329ad570

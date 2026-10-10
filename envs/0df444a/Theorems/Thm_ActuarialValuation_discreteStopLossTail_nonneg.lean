@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossTail_nonneg
 -- name    : ActuarialValuation.discreteStopLossTail_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:37:13.152478+00:00
 -- url     : https://prove2.me/theorems/471f2011-ffb4-444d-9db4-5884fce6d7d6

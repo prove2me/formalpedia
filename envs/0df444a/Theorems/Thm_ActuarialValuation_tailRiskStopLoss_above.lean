@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskStopLoss_above
 -- name    : ActuarialValuation.tailRiskStopLoss_above
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:56:04.012252+00:00
 -- url     : https://prove2.me/theorems/102d89a5-b84f-4484-bf3d-918cfe86e615

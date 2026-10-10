@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConvexOptAlg_CenterGravity_thm_2_1_volume_decay
 -- name    : ConvexOptAlg.CenterGravity.thm_2_1_volume_decay
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T16:23:55.797441+00:00
 -- url     : https://prove2.me/theorems/669431d5-59f4-4583-bc9f-1721cf457a84

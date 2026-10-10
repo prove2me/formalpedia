@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterStoneResolvent_UnboundedSelfAdjoint_approxU_zero_param
 -- name    : BookProof.ChapterStoneResolvent.UnboundedSelfAdjoint.approxU_zero_param
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:04:36.328129+00:00
 -- url     : https://prove2.me/theorems/fc7d1041-5b33-4cfd-ab4e-c5bb2863a26d

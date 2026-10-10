@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteExponentialMoment_mono
 -- name    : ActuarialValuation.finiteExponentialMoment_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:08:05.331983+00:00
 -- url     : https://prove2.me/theorems/83cc7842-73ad-4326-80ce-99a126774bec

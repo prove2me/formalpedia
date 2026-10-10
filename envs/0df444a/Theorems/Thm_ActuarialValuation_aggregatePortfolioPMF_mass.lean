@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_aggregatePortfolioPMF_mass
 -- name    : ActuarialValuation.aggregatePortfolioPMF_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:36:22.578879+00:00
 -- url     : https://prove2.me/theorems/029d10e5-d10c-48c5-82a4-18c0e17dd6fe

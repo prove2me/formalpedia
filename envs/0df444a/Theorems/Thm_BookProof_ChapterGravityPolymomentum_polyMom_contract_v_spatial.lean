@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_polyMom_contract_v_spatial
 -- name    : BookProof.ChapterGravityPolymomentum.polyMom_contract_v_spatial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:47:38.693883+00:00
 -- url     : https://prove2.me/theorems/682fd5bf-c488-4306-b0ab-9f096bdb8119

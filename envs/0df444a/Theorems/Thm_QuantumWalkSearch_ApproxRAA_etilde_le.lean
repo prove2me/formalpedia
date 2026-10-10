@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_ApproxRAA_etilde_le
 -- name    : QuantumWalkSearch.ApproxRAA.etilde_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:43:23.63399+00:00
 -- url     : https://prove2.me/theorems/7d9a21cd-c859-4c03-9b1f-9fad81ececc8

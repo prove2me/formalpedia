@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlFiniteOptimalRetentionAttained
 -- name    : ActuarialValuation.xlFiniteOptimalRetentionAttained
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:18:59.95963+00:00
 -- url     : https://prove2.me/theorems/8da6e191-7e68-4d70-b137-f2bbf7fd113d

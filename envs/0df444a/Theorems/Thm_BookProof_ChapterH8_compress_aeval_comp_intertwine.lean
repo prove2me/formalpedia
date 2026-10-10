@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_compress_aeval_comp_intertwine
 -- name    : BookProof.ChapterH8.compress_aeval_comp_intertwine
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:34:39.667993+00:00
 -- url     : https://prove2.me/theorems/8afe17e6-01c0-4e4f-b5d3-710ea53e2372

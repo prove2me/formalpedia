@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discountedAnnualGainSum_zero_term
 -- name    : ActuarialValuation.discountedAnnualGainSum_zero_term
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:27:44.644972+00:00
 -- url     : https://prove2.me/theorems/649c359f-a1ee-439d-b817-6889f3425ca3

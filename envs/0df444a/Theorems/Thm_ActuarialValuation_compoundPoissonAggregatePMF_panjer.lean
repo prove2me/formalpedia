@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonAggregatePMF_panjer
 -- name    : ActuarialValuation.compoundPoissonAggregatePMF_panjer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:34:13.395273+00:00
 -- url     : https://prove2.me/theorems/8ea23245-911b-4ff2-89d9-68cd09b2dc33

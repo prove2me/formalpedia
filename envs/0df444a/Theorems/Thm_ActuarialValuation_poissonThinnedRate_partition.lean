@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonThinnedRate_partition
 -- name    : ActuarialValuation.poissonThinnedRate_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:57:27.350527+00:00
 -- url     : https://prove2.me/theorems/7b460b5d-90da-4b74-ab69-a28390eebb34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementExpectedBenefit_zero
 -- name    : ActuarialValuation.decrementExpectedBenefit_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:28:02.516692+00:00
 -- url     : https://prove2.me/theorems/7f399a19-3dc9-4c72-bd74-53cfff9ab5be

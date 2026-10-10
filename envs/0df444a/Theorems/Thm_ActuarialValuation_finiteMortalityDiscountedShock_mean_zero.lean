@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityDiscountedShock_mean_zero
 -- name    : ActuarialValuation.finiteMortalityDiscountedShock_mean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:24:49.850484+00:00
 -- url     : https://prove2.me/theorems/2f609b41-11e8-4b0f-afbc-a794ffec1be8

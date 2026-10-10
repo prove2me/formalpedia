@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementAnnualPremium_balance
 -- name    : ActuarialValuation.decrementAnnualPremium_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:31:14.100782+00:00
 -- url     : https://prove2.me/theorems/90fb0b3f-e640-4853-b85d-ebb548d0fff7

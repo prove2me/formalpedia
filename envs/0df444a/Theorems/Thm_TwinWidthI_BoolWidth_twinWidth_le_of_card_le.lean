@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwinWidthI_BoolWidth_twinWidth_le_of_card_le
 -- name    : TwinWidthI.BoolWidth.twinWidth_le_of_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:48.303762+00:00
 -- url     : https://prove2.me/theorems/c6b0ac69-34c5-48cf-a875-bad621755aa4

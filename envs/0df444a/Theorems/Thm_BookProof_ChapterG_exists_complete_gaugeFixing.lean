@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterG_exists_complete_gaugeFixing
 -- name    : BookProof.ChapterG.exists_complete_gaugeFixing
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:44:47.488075+00:00
 -- url     : https://prove2.me/theorems/227a712d-f54e-4755-8733-f924132f2a07

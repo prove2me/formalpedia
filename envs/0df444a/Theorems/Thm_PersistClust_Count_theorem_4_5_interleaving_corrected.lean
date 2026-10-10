@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_theorem_4_5_interleaving_corrected
 -- name    : PersistClust.Count.theorem_4_5_interleaving_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-09T11:29:20.76999+00:00
 -- url     : https://prove2.me/theorems/765c1ed6-f4cf-4784-b544-628642d8922a

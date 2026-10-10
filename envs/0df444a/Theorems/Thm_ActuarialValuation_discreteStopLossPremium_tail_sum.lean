@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPremium_tail_sum
 -- name    : ActuarialValuation.discreteStopLossPremium_tail_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:48:52.711974+00:00
 -- url     : https://prove2.me/theorems/22a719bd-a166-4892-b411-1cd3b92e7312

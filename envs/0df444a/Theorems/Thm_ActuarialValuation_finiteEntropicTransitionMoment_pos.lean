@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicTransitionMoment_pos
 -- name    : ActuarialValuation.finiteEntropicTransitionMoment_pos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:36:03.338987+00:00
 -- url     : https://prove2.me/theorems/c212b0b6-0e20-4b19-9b6c-a27c79228de0

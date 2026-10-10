@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskStrictMass_above
 -- name    : ActuarialValuation.tailRiskStrictMass_above
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:54:56.153731+00:00
 -- url     : https://prove2.me/theorems/a15b0ab7-bf81-4826-960a-78781bc72394

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteMortalityInnovation_secondMoment
 -- name    : ActuarialValuation.finiteMortalityInnovation_secondMoment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:23:23.744542+00:00
 -- url     : https://prove2.me/theorems/d188034f-f698-4f19-b1f8-12e8b74d8a9d

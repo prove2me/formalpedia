@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_preparedSlicedForecastChildSize_upper
 -- name    : OAI.Erdos3.VectorPolynomial.preparedSlicedForecastChildSize_upper
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T09:37:31.827978+00:00
 -- url     : https://prove2.me/theorems/3f98213c-6ccc-4e31-a53a-6297f852f467

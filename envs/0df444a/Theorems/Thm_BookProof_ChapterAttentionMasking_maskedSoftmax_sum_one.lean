@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_maskedSoftmax_sum_one
 -- name    : BookProof.ChapterAttentionMasking.maskedSoftmax_sum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:29:22.508984+00:00
 -- url     : https://prove2.me/theorems/6f348cbf-984d-46bb-a79c-b8d73ff6eca8

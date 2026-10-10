@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gaussMoment_step
 -- name    : BookProof.HermiteExpWall.gaussMoment_step
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:08:21.700389+00:00
 -- url     : https://prove2.me/theorems/5de14eb4-d30c-49d4-8bec-97ab5039888e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossTail_above_bound
 -- name    : ActuarialValuation.discreteStopLossTail_above_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:36:00.993971+00:00
 -- url     : https://prove2.me/theorems/f8b56fba-3319-437d-a466-d88fd522a35d

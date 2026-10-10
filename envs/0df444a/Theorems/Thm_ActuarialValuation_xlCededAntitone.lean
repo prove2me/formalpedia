@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlCededAntitone
 -- name    : ActuarialValuation.xlCededAntitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:01:40.940191+00:00
 -- url     : https://prove2.me/theorems/79010d48-57d9-40d7-bc94-809758f62a3e

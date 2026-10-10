@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultistageRUC_Equiv_theorem_1
 -- name    : MultistageRUC.Equiv.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:58.999458+00:00
 -- url     : https://prove2.me/theorems/7d7d8065-5f20-4c65-85f1-6efa7fea7b90

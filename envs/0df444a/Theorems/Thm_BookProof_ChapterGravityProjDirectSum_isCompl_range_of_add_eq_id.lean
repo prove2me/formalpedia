@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityProjDirectSum_isCompl_range_of_add_eq_id
 -- name    : BookProof.ChapterGravityProjDirectSum.isCompl_range_of_add_eq_id
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:48:49.785128+00:00
 -- url     : https://prove2.me/theorems/314e2c40-8a38-4fda-bad9-54a4f3fb8937

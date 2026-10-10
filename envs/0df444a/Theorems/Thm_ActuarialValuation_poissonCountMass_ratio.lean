@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonCountMass_ratio
 -- name    : ActuarialValuation.poissonCountMass_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:55:45.25153+00:00
 -- url     : https://prove2.me/theorems/fd0b6412-7735-4924-b55c-80f7b7df1143

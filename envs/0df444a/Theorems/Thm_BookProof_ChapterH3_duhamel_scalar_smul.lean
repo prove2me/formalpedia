@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH3_duhamel_scalar_smul
 -- name    : BookProof.ChapterH3.duhamel_scalar_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:53:14.704638+00:00
 -- url     : https://prove2.me/theorems/40fa57c1-451e-4c02-925b-25c9e7456b34

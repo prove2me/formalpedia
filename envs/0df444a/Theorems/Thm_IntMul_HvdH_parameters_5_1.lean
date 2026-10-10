@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_HvdH_parameters_5_1
 -- name    : IntMul.HvdH.parameters_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T01:44:22.765214+00:00
 -- url     : https://prove2.me/theorems/7914771b-6037-4809-a62d-a3343cc28e21

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_GroupAverage_UnitaryRep_avgProj_apply
 -- name    : BookProof.GroupAverage.UnitaryRep.avgProj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:58:19.451981+00:00
 -- url     : https://prove2.me/theorems/04ba135e-ab9e-499d-9b68-323456b8e1c5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_retainedExcessLoss_mono_limit
 -- name    : ActuarialValuation.retainedExcessLoss_mono_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:18:36.783641+00:00
 -- url     : https://prove2.me/theorems/0c6c0f02-444a-4139-89f2-a2a99f634c68

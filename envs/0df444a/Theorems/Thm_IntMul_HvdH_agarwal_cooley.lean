@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_HvdH_agarwal_cooley
 -- name    : IntMul.HvdH.agarwal_cooley
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T01:44:17.129978+00:00
 -- url     : https://prove2.me/theorems/dcee2eb8-8b5e-4767-af4a-38d12e938a08

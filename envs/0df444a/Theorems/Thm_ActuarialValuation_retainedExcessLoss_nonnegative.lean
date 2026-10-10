@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_retainedExcessLoss_nonnegative
 -- name    : ActuarialValuation.retainedExcessLoss_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:13:54.987019+00:00
 -- url     : https://prove2.me/theorems/d00004c6-eb95-4bed-be7b-c4bed6afd639

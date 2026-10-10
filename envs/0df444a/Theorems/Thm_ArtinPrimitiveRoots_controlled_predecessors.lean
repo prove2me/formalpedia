@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_controlled_predecessors
 -- name    : ArtinPrimitiveRoots.controlled_predecessors
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T08:48:54.20975+00:00
 -- url     : https://prove2.me/theorems/d17b9cd2-c649-4466-b78d-db09ed653f58

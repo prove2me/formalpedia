@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonSeverityPower_one
 -- name    : ActuarialValuation.compoundPoissonSeverityPower_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:28:12.661294+00:00
 -- url     : https://prove2.me/theorems/f760ad1f-b727-45ef-a63a-daa42a171b18

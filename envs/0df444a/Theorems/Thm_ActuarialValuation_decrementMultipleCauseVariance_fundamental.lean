@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementMultipleCauseVariance_fundamental
 -- name    : ActuarialValuation.decrementMultipleCauseVariance_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:15:19.825987+00:00
 -- url     : https://prove2.me/theorems/2f5b6227-e2c1-4679-ab96-ddf1f53314e1

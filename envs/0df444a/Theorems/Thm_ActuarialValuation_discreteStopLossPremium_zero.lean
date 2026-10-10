@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_discreteStopLossPremium_zero
 -- name    : ActuarialValuation.discreteStopLossPremium_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:34:06.022203+00:00
 -- url     : https://prove2.me/theorems/11cf260f-dd25-4d94-adca-03ac76ee259d

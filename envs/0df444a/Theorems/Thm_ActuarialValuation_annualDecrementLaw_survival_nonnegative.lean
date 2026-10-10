@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_annualDecrementLaw_survival_nonnegative
 -- name    : ActuarialValuation.annualDecrementLaw_survival_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:23:03.932004+00:00
 -- url     : https://prove2.me/theorems/04ea62fb-4845-4cb6-8ca7-90207055b97a

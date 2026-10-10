@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareCapitalObjective_expand
 -- name    : ActuarialValuation.quotaShareCapitalObjective_expand
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:06:29.121665+00:00
 -- url     : https://prove2.me/theorems/d32991f3-5900-45fd-8615-5cc9e9fba113

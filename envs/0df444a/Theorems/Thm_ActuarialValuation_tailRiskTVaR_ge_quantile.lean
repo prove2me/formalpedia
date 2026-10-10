@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskTVaR_ge_quantile
 -- name    : ActuarialValuation.tailRiskTVaR_ge_quantile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:26:22.481855+00:00
 -- url     : https://prove2.me/theorems/5fa3909b-30e8-44c1-9ece-5c4364cdd9b5

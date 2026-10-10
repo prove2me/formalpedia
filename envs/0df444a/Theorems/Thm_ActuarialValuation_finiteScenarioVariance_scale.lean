@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteScenarioVariance_scale
 -- name    : ActuarialValuation.finiteScenarioVariance_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:13:45.911697+00:00
 -- url     : https://prove2.me/theorems/1eb54000-00f4-475b-8dd2-beb20768edd3

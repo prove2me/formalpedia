@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurTransfer_order13_actual_quadratic_extension_field_points
 -- name    : MazurTransfer.order13_actual_quadratic_extension_field_points
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-09T11:58:50.355075+00:00
 -- url     : https://prove2.me/theorems/52a0052d-2eb9-41e4-a65b-fe0a12398b7d

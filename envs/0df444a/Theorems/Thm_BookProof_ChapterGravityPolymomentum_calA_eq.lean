@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_calA_eq
 -- name    : BookProof.ChapterGravityPolymomentum.calA_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:47:11.773156+00:00
 -- url     : https://prove2.me/theorems/205408db-36f4-4976-964a-ba3bda50c0a9

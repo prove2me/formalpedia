@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_smooth_prime_ideal_estimate
 -- name    : ArtinPrimitiveRoots.smooth_prime_ideal_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T09:01:52.465102+00:00
 -- url     : https://prove2.me/theorems/c05a3f40-367f-42f3-81b0-d5b4d796d5fb

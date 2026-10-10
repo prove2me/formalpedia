@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityScaledMSE_nonneg
 -- name    : ActuarialValuation.credibilityScaledMSE_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:13:56.414568+00:00
 -- url     : https://prove2.me/theorems/2c70d1f9-93f9-4b14-9fde-e312a059cdba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravitySplit_parts_orthogonal
 -- name    : BookProof.ChapterGravitySplit.parts_orthogonal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:51:42.813762+00:00
 -- url     : https://prove2.me/theorems/38ff997a-448c-4e80-8030-9e0023b4a13c

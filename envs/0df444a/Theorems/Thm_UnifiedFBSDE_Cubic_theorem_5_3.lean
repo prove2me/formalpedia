@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnifiedFBSDE_Cubic_theorem_5_3
 -- name    : UnifiedFBSDE.Cubic.theorem_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:47.134837+00:00
 -- url     : https://prove2.me/theorems/9dd7ec8d-6bee-43c3-b44c-54860adfab60

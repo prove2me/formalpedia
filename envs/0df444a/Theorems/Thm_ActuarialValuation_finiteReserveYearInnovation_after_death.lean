@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteReserveYearInnovation_after_death
 -- name    : ActuarialValuation.finiteReserveYearInnovation_after_death
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T08:59:45.449979+00:00
 -- url     : https://prove2.me/theorems/683d491e-bc76-435d-a27b-c11078fd1fea

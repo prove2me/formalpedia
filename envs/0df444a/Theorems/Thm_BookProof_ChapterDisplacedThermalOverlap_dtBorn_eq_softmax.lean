@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDisplacedThermalOverlap_dtBorn_eq_softmax
 -- name    : BookProof.ChapterDisplacedThermalOverlap.dtBorn_eq_softmax
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:06:40.048189+00:00
 -- url     : https://prove2.me/theorems/4c4335d6-0156-4858-b867-82f67bea89b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_retentionOneStepCost_eq
 -- name    : ActuarialValuation.retentionOneStepCost_eq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:20:43.321564+00:00
 -- url     : https://prove2.me/theorems/4461bdd2-5840-4153-bcc6-22507865f5c9

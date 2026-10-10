@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteExponentialMoment_nonnegative
 -- name    : ActuarialValuation.finiteExponentialMoment_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T08:55:40.480818+00:00
 -- url     : https://prove2.me/theorems/d01547fd-87f4-43e7-83f5-70dc2938f32e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_HvdH_proposition_5_4_step3
 -- name    : IntMul.HvdH.proposition_5_4_step3
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T01:44:16.830768+00:00
 -- url     : https://prove2.me/theorems/b0a122c8-f203-40d8-958b-5dbe3ecb78fa

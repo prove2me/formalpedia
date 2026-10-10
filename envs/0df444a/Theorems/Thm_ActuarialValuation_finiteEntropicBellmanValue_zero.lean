@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteEntropicBellmanValue_zero
 -- name    : ActuarialValuation.finiteEntropicBellmanValue_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:47:11.351418+00:00
 -- url     : https://prove2.me/theorems/bdea897a-b6d8-4b92-bc3b-9b22525a50cc

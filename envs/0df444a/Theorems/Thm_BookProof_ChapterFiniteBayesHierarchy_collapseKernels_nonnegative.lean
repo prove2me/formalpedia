@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterFiniteBayesHierarchy_collapseKernels_nonnegative
 -- name    : BookProof.ChapterFiniteBayesHierarchy.collapseKernels_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:20:24.81799+00:00
 -- url     : https://prove2.me/theorems/5211cd6e-b4f6-42eb-ad09-cab0029c6ac4

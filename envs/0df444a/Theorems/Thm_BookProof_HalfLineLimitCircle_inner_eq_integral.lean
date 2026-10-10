@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HalfLineLimitCircle_inner_eq_integral
 -- name    : BookProof.HalfLineLimitCircle.inner_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:57:55.139269+00:00
 -- url     : https://prove2.me/theorems/b35579b7-5107-4891-9974-d3653f5cd3b6

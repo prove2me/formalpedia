@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlRetainedLeRetention
 -- name    : ActuarialValuation.xlRetainedLeRetention
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:00:46.00402+00:00
 -- url     : https://prove2.me/theorems/428dc9d2-2380-4309-a8d0-f43aa5cc9ff5

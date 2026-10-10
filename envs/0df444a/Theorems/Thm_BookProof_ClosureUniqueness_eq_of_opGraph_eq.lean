@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_eq_of_opGraph_eq
 -- name    : BookProof.ClosureUniqueness.eq_of_opGraph_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:41:51.824037+00:00
 -- url     : https://prove2.me/theorems/09012883-0fab-4528-9609-a9c0c8cfee47

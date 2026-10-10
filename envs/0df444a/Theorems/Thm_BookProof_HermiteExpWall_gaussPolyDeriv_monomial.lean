@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gaussPolyDeriv_monomial
 -- name    : BookProof.HermiteExpWall.gaussPolyDeriv_monomial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:12:24.037224+00:00
 -- url     : https://prove2.me/theorems/dca658ba-83b2-4baa-8bf1-35616358deb7

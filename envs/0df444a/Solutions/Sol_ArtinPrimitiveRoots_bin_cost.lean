@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ArtinPrimitiveRoots.bin_cost
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:20:16.777478+00:00
 -- url     : https://prove2.me/submissions/85ed079b-c606-4f5b-b779-766f947e266b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ArtinSieve

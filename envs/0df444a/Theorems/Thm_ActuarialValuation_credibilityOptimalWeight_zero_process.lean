@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityOptimalWeight_zero_process
 -- name    : ActuarialValuation.credibilityOptimalWeight_zero_process
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:58:12.455031+00:00
 -- url     : https://prove2.me/theorems/97a9e28a-00a1-4a57-bac1-c523a9081ac3

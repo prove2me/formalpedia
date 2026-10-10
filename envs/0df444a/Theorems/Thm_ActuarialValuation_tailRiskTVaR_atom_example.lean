@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskTVaR_atom_example
 -- name    : ActuarialValuation.tailRiskTVaR_atom_example
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:28:28.059086+00:00
 -- url     : https://prove2.me/theorems/49398b9e-c238-4016-95a7-5adc2424cdd8

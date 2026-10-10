@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonPanjerStep_one
 -- name    : ActuarialValuation.compoundPoissonPanjerStep_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:33:16.4696+00:00
 -- url     : https://prove2.me/theorems/2d78bef1-7e34-4bf6-8b76-ba6ae1fedb87

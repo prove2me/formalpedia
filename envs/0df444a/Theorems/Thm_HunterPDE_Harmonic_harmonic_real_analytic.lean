@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Harmonic_harmonic_real_analytic
 -- name    : HunterPDE.Harmonic.harmonic_real_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:08:06.364419+00:00
 -- url     : https://prove2.me/theorems/87676516-39b7-454a-92b9-140974ce2972

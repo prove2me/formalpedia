@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_compress_inv_transfer_apply
 -- name    : BookProof.ChapterH8.compress_inv_transfer_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:30:20.126916+00:00
 -- url     : https://prove2.me/theorems/1c135c0f-0e6d-4fcc-b79b-8845c01f8ce6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_poissonCountConvolution_superposition
 -- name    : ActuarialValuation.poissonCountConvolution_superposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:10:22.780994+00:00
 -- url     : https://prove2.me/theorems/a867425c-7441-473a-a134-7213c2d9b15e

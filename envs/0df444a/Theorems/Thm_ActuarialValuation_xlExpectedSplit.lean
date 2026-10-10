@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlExpectedSplit
 -- name    : ActuarialValuation.xlExpectedSplit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:03:30.233768+00:00
 -- url     : https://prove2.me/theorems/b64ed6b6-ae5c-45fa-a66e-1d2b4fba6738

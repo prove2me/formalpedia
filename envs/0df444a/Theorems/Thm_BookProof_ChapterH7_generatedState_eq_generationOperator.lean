@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH7_generatedState_eq_generationOperator
 -- name    : BookProof.ChapterH7.generatedState_eq_generationOperator
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:54:17.8102+00:00
 -- url     : https://prove2.me/theorems/f0c62b7b-835f-43c7-b44d-6bafb3489058

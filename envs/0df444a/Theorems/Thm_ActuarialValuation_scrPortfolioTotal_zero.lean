@@ -1,0 +1,28 @@
+-- Prove2me | Theorems.Thm_ActuarialValuation_scrPortfolioTotal_zero
+-- name    : ActuarialValuation.scrPortfolioTotal_zero
+-- status  : Open
+-- author  : @WillR
+-- created : 2026-10-10T10:17:51.922172+00:00
+-- url     : https://prove2.me/theorems/efdf75db-372b-4b58-84f5-bb51167e4c78
+-- title:
+--   Finite-dimensional standard formula quadratic aggregation: scrPortfolioTotal_zero
+-- statement:
+--   Empty module universe has zero undiversified capital sum. The full Lean declaration specifies the finite boundaries, exact units and any positivity, independence or regularity assumptions. This is an original derived Actuarial mathematical statement, not a claim of a numbered previously published theorem.
+--
+--   Mathematical relation:
+--
+--   $$
+--   S_0=0
+--   $$
+-- source:
+--   Original derived actuarial mathematics, published source page 3. European Union (2009), Solvency II Directive 2009/138/EC, Article 104 and Annex IV, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0138; Bank of England Prudential Regulation Authority (2024), Standard Formula Annexes, https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2024/november/ps1524app7.pdf. Parent topic: Correlation-based insurance capital aggregation, systematic cross terms, quadratic risk charges and diversification benefits. The particular Lean formula is a new finite/real-algebraic formalisation and remains an unproved theorem target if labelled theorem. Relevant published actuarial derivation: https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/policy-statement/2024/november/ps1524app7.pdf
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Definitions.Def_actuarial_scrPortfolioTotal
+
+namespace ActuarialValuation
+
+theorem scrPortfolioTotal_zero (c : ℕ → ℝ) : scrPortfolioTotal c 0 = 0 := by sorry
+
+end ActuarialValuation

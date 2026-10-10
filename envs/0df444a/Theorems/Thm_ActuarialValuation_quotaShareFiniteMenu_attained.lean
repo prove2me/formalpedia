@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareFiniteMenu_attained
 -- name    : ActuarialValuation.quotaShareFiniteMenu_attained
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:19:00.243974+00:00
 -- url     : https://prove2.me/theorems/c1824064-4abc-4e8f-822d-367adf5aada4

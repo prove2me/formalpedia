@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_decrementExpectedBenefit_scale
 -- name    : ActuarialValuation.decrementExpectedBenefit_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:29:00.229548+00:00
 -- url     : https://prove2.me/theorems/59121d99-5c03-4560-8f15-0503718de669

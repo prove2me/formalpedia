@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HlawkaSchatten_DiagonalCutoff_cutoff70
 -- name    : HlawkaSchatten.DiagonalCutoff.cutoff70
--- status  : Open
+-- status  : Proved
 -- author  : @savarin
 -- created : 2026-10-08T04:01:03.786692+00:00
 -- url     : https://prove2.me/theorems/6a1646a7-c95c-425f-b2a5-27906fc6dbfc

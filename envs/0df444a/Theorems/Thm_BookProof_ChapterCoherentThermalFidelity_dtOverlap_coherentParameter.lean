@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentThermalFidelity_dtOverlap_coherentParameter
 -- name    : BookProof.ChapterCoherentThermalFidelity.dtOverlap_coherentParameter
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:14:21.987999+00:00
 -- url     : https://prove2.me/theorems/012c2f98-e7c8-471f-94b4-62c23361db0b

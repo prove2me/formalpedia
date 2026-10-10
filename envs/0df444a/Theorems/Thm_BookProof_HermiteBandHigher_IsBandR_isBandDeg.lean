@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteBandHigher_IsBandR_isBandDeg
 -- name    : BookProof.HermiteBandHigher.IsBandR.isBandDeg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:01:48.193977+00:00
 -- url     : https://prove2.me/theorems/122987e8-2565-43de-bb62-dd050781ec55

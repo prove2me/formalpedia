@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.PermSector.signRep_mem_sectorDom
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:37:18.59526+00:00
 -- url     : https://prove2.me/submissions/df64db81-8ddc-4c38-8948-d5a67bd37ce3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterPermutationSectorEsa.lean — solution of BookProof.PermSector.signRep_mem_sectorDom
 import Mathlib

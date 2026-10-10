@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BayesRouting_VOI_relative_value_sign_and_monotone
 -- name    : BayesRouting.VOI.relative_value_sign_and_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T15:11:46.22993+00:00
 -- url     : https://prove2.me/theorems/834270c7-7baf-42be-9fc2-f7894a8bbfe6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_xlExpectedCostAntitone
 -- name    : ActuarialValuation.xlExpectedCostAntitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:12:13.838433+00:00
 -- url     : https://prove2.me/theorems/7b535af9-b4d2-4afa-9909-12b1efcdd286

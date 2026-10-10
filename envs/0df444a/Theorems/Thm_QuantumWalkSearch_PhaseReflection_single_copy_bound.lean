@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuantumWalkSearch_PhaseReflection_single_copy_bound
 -- name    : QuantumWalkSearch.PhaseReflection.single_copy_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T08:46:42.260967+00:00
 -- url     : https://prove2.me/theorems/c36ee784-b7f2-40f9-9229-60dd5b11e5a4

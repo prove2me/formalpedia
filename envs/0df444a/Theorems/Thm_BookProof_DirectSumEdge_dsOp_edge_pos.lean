@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEdge_dsOp_edge_pos
 -- name    : BookProof.DirectSumEdge.dsOp_edge_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:58:43.009989+00:00
 -- url     : https://prove2.me/theorems/6796a794-1922-40df-b7f6-3eea2cb25db5

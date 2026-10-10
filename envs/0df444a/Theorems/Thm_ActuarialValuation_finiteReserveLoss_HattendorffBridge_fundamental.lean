@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteReserveLoss_HattendorffBridge_fundamental
 -- name    : ActuarialValuation.finiteReserveLoss_HattendorffBridge_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:16:20.904247+00:00
 -- url     : https://prove2.me/theorems/424d49d1-611f-4c29-b634-726ed25a0402

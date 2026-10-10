@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_memLp_scalaron_psi
 -- name    : BookProof.HermiteExpWall.memLp_scalaron_psi
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:10:47.032967+00:00
 -- url     : https://prove2.me/theorems/ca1231f8-2b39-4c7b-a50f-476880f8b74d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteExponentialMoment_shift
 -- name    : ActuarialValuation.finiteExponentialMoment_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T09:02:25.976487+00:00
 -- url     : https://prove2.me/theorems/fc56fb7b-9fb6-4191-8a4a-439dbc917544

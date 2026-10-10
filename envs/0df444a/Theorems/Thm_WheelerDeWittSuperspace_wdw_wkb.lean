@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WheelerDeWittSuperspace_wdw_wkb
 -- name    : WheelerDeWittSuperspace.wdw_wkb
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-05T22:30:20.137264+00:00
 -- url     : https://prove2.me/theorems/d9572b15-e263-408f-8ff0-4ba48c5fb74e

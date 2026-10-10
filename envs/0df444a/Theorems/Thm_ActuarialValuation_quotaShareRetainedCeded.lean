@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_quotaShareRetainedCeded
 -- name    : ActuarialValuation.quotaShareRetainedCeded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:01:42.44351+00:00
 -- url     : https://prove2.me/theorems/e04ccb30-e208-4a70-bb7a-2b4910923265

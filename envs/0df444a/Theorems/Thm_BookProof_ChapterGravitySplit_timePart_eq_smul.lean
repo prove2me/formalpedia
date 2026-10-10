@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravitySplit_timePart_eq_smul
 -- name    : BookProof.ChapterGravitySplit.timePart_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:51:11.512182+00:00
 -- url     : https://prove2.me/theorems/f864417a-82c1-4275-9059-bca23ecfb8c9

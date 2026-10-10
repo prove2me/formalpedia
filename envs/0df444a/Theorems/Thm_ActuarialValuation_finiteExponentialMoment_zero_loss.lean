@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteExponentialMoment_zero_loss
 -- name    : ActuarialValuation.finiteExponentialMoment_zero_loss
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T08:58:13.241983+00:00
 -- url     : https://prove2.me/theorems/30b58084-7d01-47cd-a155-1b7502d04625

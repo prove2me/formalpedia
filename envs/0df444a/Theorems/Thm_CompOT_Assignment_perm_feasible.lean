@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Assignment_perm_feasible
 -- name    : CompOT.Assignment.perm_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:25:23.48481+00:00
 -- url     : https://prove2.me/theorems/d3ee9abb-ae82-4a14-b6e6-daad8abc7887

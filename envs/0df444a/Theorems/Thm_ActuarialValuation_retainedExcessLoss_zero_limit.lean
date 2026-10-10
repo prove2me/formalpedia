@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_retainedExcessLoss_zero_limit
 -- name    : ActuarialValuation.retainedExcessLoss_zero_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:16:08.440449+00:00
 -- url     : https://prove2.me/theorems/b7999665-7fa2-4860-9914-5a039a2638a7

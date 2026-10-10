@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_excessLoss_split
 -- name    : ActuarialValuation.excessLoss_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T06:15:39.82577+00:00
 -- url     : https://prove2.me/theorems/6bc582ad-21c9-4e99-98e1-c830197812c9

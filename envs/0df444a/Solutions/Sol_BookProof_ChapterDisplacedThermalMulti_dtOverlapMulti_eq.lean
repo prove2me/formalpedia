@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterDisplacedThermalMulti.dtOverlapMulti_eq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:55:50.254882+00:00
 -- url     : https://prove2.me/submissions/9ca322ae-e74e-4d20-977d-d8a56141d604
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterDisplacedThermalMulti.lean — solution of BookProof.ChapterDisplacedThermalMulti.dtOverlapMulti_eq
 import Mathlib

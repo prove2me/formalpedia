@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_credibilityPremium_translation
 -- name    : ActuarialValuation.credibilityPremium_translation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:10:55.817933+00:00
 -- url     : https://prove2.me/theorems/986d0599-d9f2-48c9-acd1-482400c8ac28

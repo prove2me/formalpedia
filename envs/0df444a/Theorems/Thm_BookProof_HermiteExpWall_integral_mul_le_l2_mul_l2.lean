@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_integral_mul_le_l2_mul_l2
 -- name    : BookProof.HermiteExpWall.integral_mul_le_l2_mul_l2
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:10:38.956979+00:00
 -- url     : https://prove2.me/theorems/29be8f2f-1501-40ba-b415-0b4bce8ad637

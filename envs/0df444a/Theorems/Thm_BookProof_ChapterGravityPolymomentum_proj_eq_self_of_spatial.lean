@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGravityPolymomentum_proj_eq_self_of_spatial
 -- name    : BookProof.ChapterGravityPolymomentum.proj_eq_self_of_spatial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:45:30.936657+00:00
 -- url     : https://prove2.me/theorems/5275873a-e35e-4653-9350-f019e2a6e009

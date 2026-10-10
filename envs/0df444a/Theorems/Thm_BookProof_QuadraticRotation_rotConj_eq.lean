@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_rotConj_eq
 -- name    : BookProof.QuadraticRotation.rotConj_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:23:37.257984+00:00
 -- url     : https://prove2.me/theorems/d5ad5baa-e338-4e83-812a-89bd3185cd7e

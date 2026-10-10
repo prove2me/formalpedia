@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArtinPrimitiveRoots_bin_cost
 -- name    : ArtinPrimitiveRoots.bin_cost
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:20:04.964142+00:00
 -- url     : https://prove2.me/theorems/2e494b3c-95b9-46c1-b5f9-1abe7ced2705

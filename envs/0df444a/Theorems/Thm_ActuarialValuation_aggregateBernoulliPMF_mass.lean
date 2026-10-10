@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_aggregateBernoulliPMF_mass
 -- name    : ActuarialValuation.aggregateBernoulliPMF_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:31:55.192644+00:00
 -- url     : https://prove2.me/theorems/e62228ce-9b6f-4ed1-b569-fd0d7870eecb

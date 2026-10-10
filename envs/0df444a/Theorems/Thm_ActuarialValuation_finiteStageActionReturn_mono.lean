@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteStageActionReturn_mono
 -- name    : ActuarialValuation.finiteStageActionReturn_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:10:46.833704+00:00
 -- url     : https://prove2.me/theorems/ec945e20-a890-4c53-a148-4763717702b9

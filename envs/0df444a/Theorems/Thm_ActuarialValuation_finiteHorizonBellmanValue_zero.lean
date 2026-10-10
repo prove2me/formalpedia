@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_finiteHorizonBellmanValue_zero
 -- name    : ActuarialValuation.finiteHorizonBellmanValue_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T07:15:11.467826+00:00
 -- url     : https://prove2.me/theorems/da055a10-4681-48ad-a7bb-727609de7f84

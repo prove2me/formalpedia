@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_annualReserveGain_discounted_telescope
 -- name    : ActuarialValuation.annualReserveGain_discounted_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-08T23:35:34.891981+00:00
 -- url     : https://prove2.me/theorems/2e44bd78-c946-4b5e-aede-650bffee1d9b

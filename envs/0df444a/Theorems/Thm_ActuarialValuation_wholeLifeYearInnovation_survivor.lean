@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_wholeLifeYearInnovation_survivor
 -- name    : ActuarialValuation.wholeLifeYearInnovation_survivor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T10:07:20.449786+00:00
 -- url     : https://prove2.me/theorems/962de78f-4538-4222-8498-5d6e04941bd8

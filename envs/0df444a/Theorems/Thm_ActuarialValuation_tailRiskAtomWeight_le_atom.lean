@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailRiskAtomWeight_le_atom
 -- name    : ActuarialValuation.tailRiskAtomWeight_le_atom
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T11:09:54.232703+00:00
 -- url     : https://prove2.me/theorems/ba08ffac-8308-4c36-9fde-f7b70f197ef6
