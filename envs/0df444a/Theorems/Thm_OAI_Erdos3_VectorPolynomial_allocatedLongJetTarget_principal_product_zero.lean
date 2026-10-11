@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedLongJetTarget_principal_product_zero
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_principal_product_zero
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:21:28.399982+00:00
 -- url     : https://prove2.me/theorems/7e2752e2-f31a-4ae2-a8c5-8dffb8363ad8

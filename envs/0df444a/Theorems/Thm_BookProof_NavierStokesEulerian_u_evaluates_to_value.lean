@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_u_evaluates_to_value
 -- name    : BookProof.NavierStokesEulerian.u_evaluates_to_value
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:38:53.977985+00:00
 -- url     : https://prove2.me/theorems/2071ff4f-bd0b-4a24-8b6d-9f444be3c4b1

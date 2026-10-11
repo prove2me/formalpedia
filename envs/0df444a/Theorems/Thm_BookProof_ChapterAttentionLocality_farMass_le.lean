@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionLocality_farMass_le
 -- name    : BookProof.ChapterAttentionLocality.farMass_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:28:56.917675+00:00
 -- url     : https://prove2.me/theorems/df2062ae-4b71-4028-b8d2-d9e8906c01b0

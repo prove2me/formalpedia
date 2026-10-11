@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_eulerian_divergence_constraint
 -- name    : BookProof.NavierStokesEulerian.eulerian_divergence_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:42:02.103505+00:00
 -- url     : https://prove2.me/theorems/2d0513b0-3551-480c-8ddd-678840f32239

@@ -10,6 +10,8 @@
 --   For every original smooth test $g$ supported strictly in $(-t,t)$, and every natural $N>\exp(2t)$, the original prime summand of $g\star g^*$ has HasSum equal to its finite sum over $0\le n<N$. The same cutoff works for every such test. The convolution vanishes also at the doubled support boundary. This proves convergence and exact evaluation, not positivity, a zero-tail estimate or RH.
 -- source:
 --   monocap-tech/weil, CompactPrimeArithmetic.lean; original Connes convolution, involution, von Mangoldt normalization and supported test predicate. Companion native lemmas retain the actual complementary negative actor energy in the finite arithmetic expression.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 53bb1dd5e45cb6e6909d375148b655cdf5eebe3d, WeilDefect/Connes/CompactPrimeArithmetic.lean, SHA256 360335c5205876921a23cc7305f32e647a4ceccb7efec3623052d332dc80b761. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_canonical_model
 open Complex MeasureTheory ConnesRZ ConnesRZFrontier

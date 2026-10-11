@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_PredCorr_theorem_5_1
 -- name    : NAGFlow.PredCorr.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:30:22.632112+00:00
 -- url     : https://prove2.me/theorems/867efe85-93ad-4993-92e5-f38deb921e8a

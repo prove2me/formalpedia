@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPairSquared_first_zero
 -- name    : ActuarialValuation.scrPairSquared_first_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:58.396545+00:00
 -- url     : https://prove2.me/theorems/36e91c31-fa09-448d-92c4-ce1e533b7c83

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for complex_posSemidef_det_le_prod_diag_re
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:51:47.88967+00:00
 -- url     : https://prove2.me/submissions/294562aa-895b-4fa6-801b-427fd71033cc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_complex_posSemidef_eq_gram
 import Theorems.Thm_complex_gram_det_le_prod_col_sq

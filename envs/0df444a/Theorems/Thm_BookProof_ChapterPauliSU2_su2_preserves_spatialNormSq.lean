@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliSU2_su2_preserves_spatialNormSq
 -- name    : BookProof.ChapterPauliSU2.su2_preserves_spatialNormSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:33:15.75568+00:00
 -- url     : https://prove2.me/theorems/35605679-7776-44a6-a8e8-990ea78ef5c7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WassMMSE_FW_theorem_6_2
 -- name    : WassMMSE.FW.theorem_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:20:24.455602+00:00
 -- url     : https://prove2.me/theorems/0fe1d1be-396f-431a-8012-dd3080f4bc49

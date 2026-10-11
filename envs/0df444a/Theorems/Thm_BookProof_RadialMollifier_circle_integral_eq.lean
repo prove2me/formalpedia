@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_circle_integral_eq
 -- name    : BookProof.RadialMollifier.circle_integral_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:02:30.060924+00:00
 -- url     : https://prove2.me/theorems/30e7b81b-d0f4-4179-8740-2806aff302d9

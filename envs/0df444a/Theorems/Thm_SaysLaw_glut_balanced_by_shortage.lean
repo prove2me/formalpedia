@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaysLaw_glut_balanced_by_shortage
 -- name    : SaysLaw.glut_balanced_by_shortage
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:41.512965+00:00
 -- url     : https://prove2.me/theorems/36bb046c-ec01-4c58-9e22-2d8b29296e92

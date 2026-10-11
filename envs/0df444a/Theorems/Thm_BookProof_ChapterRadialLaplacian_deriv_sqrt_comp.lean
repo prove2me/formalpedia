@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_deriv_sqrt_comp
 -- name    : BookProof.ChapterRadialLaplacian.deriv_sqrt_comp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:58:58.256978+00:00
 -- url     : https://prove2.me/theorems/bdf79cd1-a956-40d6-83a4-ad9e01171a8b

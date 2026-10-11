@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_MultHull_theorem_7
 -- name    : QCQPTightness.MultHull.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:21:54.448966+00:00
 -- url     : https://prove2.me/theorems/3c5fdef4-e41e-4630-85a7-90ca9d23f49e

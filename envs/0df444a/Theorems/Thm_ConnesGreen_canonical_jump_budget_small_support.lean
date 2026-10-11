@@ -10,6 +10,8 @@
 --   For every 0<c<R, where R is the original positiveSupportRadius, and every unchanged finite actual-zero packet S, the original drop from the inner Picard marker to the prescribed support-right marker is at most the inner marker minus one half the identity. This is the exact original operator jump-budget inequality on the certified interval. It does not establish that inequality at an unidentified critical endpoint.
 -- source:
 --   monocap-tech/weil at bbeb665deaea9c6798298d0cf6261db6e8f6519d. Original CriticalWindowBoundary.lean criterion and exact SmallSupportPositivity.lean endpoint half-bound. New bounded-interval corollary, independently checked against native implementations.
+--
+--   Literature/source audit addendum (2026-10-11): This graph export is assembled from ConnesGreen.canonical_endpoint_half_iff_original_jump_budget and ConnesGreen.canonical_endpoint_half_small_support. The graph name is a recovered named export, rather than a literal native declaration in the cited modules. The exact graph type was independently checked in Lean; the small-support hypotheses remain unchanged.
 
 import Definitions.Def_ConnesGreen_small_support_constants
 import Definitions.Def_ConnesGreen_RG0_original_support_right_marker

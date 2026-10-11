@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliSU2_spinorAction_isHermitian
 -- name    : BookProof.ChapterPauliSU2.spinorAction_isHermitian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:33:48.325366+00:00
 -- url     : https://prove2.me/theorems/f37ae271-e83e-4ed7-a783-65b2d887e2e9

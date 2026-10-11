@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCrossEntropyGradient_deriv_crossEntropyLoss_score
 -- name    : BookProof.ChapterCrossEntropyGradient.deriv_crossEntropyLoss_score
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:25:03.936339+00:00
 -- url     : https://prove2.me/theorems/732287d9-f958-4b8d-9f31-45a145de0ca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svExp_start
 -- name    : ActuarialValuation.svExp_start
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:33.758979+00:00
 -- url     : https://prove2.me/theorems/5e287876-0c59-41ab-b463-913cf49e339e

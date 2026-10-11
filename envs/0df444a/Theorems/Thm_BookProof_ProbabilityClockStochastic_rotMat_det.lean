@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_rotMat_det
 -- name    : BookProof.ProbabilityClockStochastic.rotMat_det
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:56:50.079984+00:00
 -- url     : https://prove2.me/theorems/11bcc8e1-252a-4104-9a9a-ba5c76130708

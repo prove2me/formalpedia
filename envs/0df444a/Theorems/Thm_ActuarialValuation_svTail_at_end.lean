@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svTail_at_end
 -- name    : ActuarialValuation.svTail_at_end
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:45.792861+00:00
 -- url     : https://prove2.me/theorems/ae466745-e48d-4112-a5e6-49d1769b2115

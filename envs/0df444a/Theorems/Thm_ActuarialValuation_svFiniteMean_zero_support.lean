@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svFiniteMean_zero_support
 -- name    : ActuarialValuation.svFiniteMean_zero_support
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:17.021435+00:00
 -- url     : https://prove2.me/theorems/f30f5e85-066f-4ef1-bf89-b378f287f623

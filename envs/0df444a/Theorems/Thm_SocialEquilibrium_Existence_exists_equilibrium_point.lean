@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialEquilibrium_Existence_exists_equilibrium_point
 -- name    : SocialEquilibrium.Existence.exists_equilibrium_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:44:45.519378+00:00
 -- url     : https://prove2.me/theorems/8a4ee18f-4584-4467-9f7b-88fb242f6a2d

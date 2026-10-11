@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svSurvival_from_hazard_positive
 -- name    : ActuarialValuation.svSurvival_from_hazard_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:25:49.150699+00:00
 -- url     : https://prove2.me/theorems/7218bfec-8235-40a0-9f80-7e47b4460b01

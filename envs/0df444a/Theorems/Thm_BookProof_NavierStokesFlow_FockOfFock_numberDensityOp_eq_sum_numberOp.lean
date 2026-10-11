@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_numberDensityOp_eq_sum_numberOp
 -- name    : BookProof.NavierStokesFlow.FockOfFock.numberDensityOp_eq_sum_numberOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:10:33.110445+00:00
 -- url     : https://prove2.me/theorems/9500ee65-52f0-4d74-99d0-531646d7c6df

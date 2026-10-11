@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRotaryPosition_coherentOverlapC_rotaryEncode
 -- name    : BookProof.ChapterRotaryPosition.coherentOverlapC_rotaryEncode
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:19:31.250993+00:00
 -- url     : https://prove2.me/theorems/3cf3ca43-0247-4c2d-86a9-0fb49122693e

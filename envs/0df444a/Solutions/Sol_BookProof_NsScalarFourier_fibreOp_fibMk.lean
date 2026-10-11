@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.NsScalarFourier.fibreOp_fibMk
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:20:05.74525+00:00
 -- url     : https://prove2.me/submissions/75d3c1ea-3593-4cc9-963c-a19f66b9433d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterNsScalarFourier.lean — solution of BookProof.NsScalarFourier.fibreOp_fibMk
 import Mathlib

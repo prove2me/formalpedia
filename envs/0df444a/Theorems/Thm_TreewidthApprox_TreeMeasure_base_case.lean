@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_TreeMeasure_base_case
 -- name    : TreewidthApprox.TreeMeasure.base_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:39.445951+00:00
 -- url     : https://prove2.me/theorems/757dc863-d84c-42cc-a80a-2167f5f743f9

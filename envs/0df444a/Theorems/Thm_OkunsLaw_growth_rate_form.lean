@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OkunsLaw_growth_rate_form
 -- name    : OkunsLaw.growth_rate_form
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:42.17149+00:00
 -- url     : https://prove2.me/theorems/271b150e-fe65-40a9-861f-b903774909ab

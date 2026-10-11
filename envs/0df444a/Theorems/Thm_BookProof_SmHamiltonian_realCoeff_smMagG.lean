@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmHamiltonian_realCoeff_smMagG
 -- name    : BookProof.SmHamiltonian.realCoeff_smMagG
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:49:47.62169+00:00
 -- url     : https://prove2.me/theorems/4f3284fe-1211-41fc-9952-c5cf80f88e0a

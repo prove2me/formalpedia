@@ -10,6 +10,8 @@
 --   For 0<a<=1 and |t|>=1/2, the absolute difference between Re digamma(a+i t) and log(|t|) is at most 5/t^2. This is precisely the native primed adapter used by the original Connes positive gamma cutoff. The current-toolchain accepted unprimed vertical Stirling theorem has center (1/2)log(a^2+t^2) and error 4/t^2. Their center difference is (1/2)log(1+a^2/t^2), bounded by 1/t^2 using log(1+x)<=x and a^2<=1. The triangle inequality gives the original 5/t^2 bound. No asymptotic axiom, assumed gamma positivity or RH premise is introduced.
 -- source:
 --   monocap-tech/weil at 5ba603ccaacf5ea1172c6cf087b8c5f33f029bb5; ArchimedeanEnergy.lean and original GammaFacts/StirlingVert.lean. Original native declarations unchanged. Independent Mathlib-only platform proof audit recovers the original HasSum digamma series.
+--
+--   Literature/source audit addendum (2026-10-11): This graph export has the exact type of Zeta23.StirlingVert.re_digamma_stirling'. The graph name is a recovered named export, rather than a literal native declaration in the cited source. The unchanged native type was independently checked in Lean.
 
 import Mathlib
 import Theorems.Thm_Zeta23_StirlingVert_re_digamma_stirling

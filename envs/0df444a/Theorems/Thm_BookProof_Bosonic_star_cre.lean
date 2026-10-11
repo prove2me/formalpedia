@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_star_cre
 -- name    : BookProof.Bosonic.star_cre
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:09:02.392729+00:00
 -- url     : https://prove2.me/theorems/9b55b94e-da6e-49e3-977f-37582f47ea62

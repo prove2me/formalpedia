@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_renyi2_scoreSoftmax_le_shannonEntropy
 -- name    : BookProof.ChapterAttentionCollision.renyi2_scoreSoftmax_le_shannonEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:23:37.735979+00:00
 -- url     : https://prove2.me/theorems/d023ec31-efd7-4e8e-8a6f-028bb6c6c6e4

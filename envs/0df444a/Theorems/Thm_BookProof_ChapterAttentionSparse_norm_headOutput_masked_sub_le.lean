@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_norm_headOutput_masked_sub_le
 -- name    : BookProof.ChapterAttentionSparse.norm_headOutput_masked_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T09:49:13.268119+00:00
 -- url     : https://prove2.me/theorems/f297b8ff-ff8f-43e2-bfdf-d00e16013b79

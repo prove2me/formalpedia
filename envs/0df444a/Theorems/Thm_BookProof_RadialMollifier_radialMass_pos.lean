@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_radialMass_pos
 -- name    : BookProof.RadialMollifier.radialMass_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:00:24.585979+00:00
 -- url     : https://prove2.me/theorems/4c167f29-ddbb-4ad2-83ef-886bea289a9d

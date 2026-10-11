@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_zeta_ne_zero_strip_im_two_to_fourteen
 -- name    : TaoFivePrimes.zeta_ne_zero_strip_im_two_to_fourteen
--- status  : Open
+-- status  : Proved
 -- author  : @Gabewhigham
 -- created : 2026-09-30T14:23:36.467906+00:00
 -- url     : https://prove2.me/theorems/ac5b0112-ba7e-4990-90ee-e14ca8d1ef91

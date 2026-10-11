@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedFixedPath_sliced_principal_geometry
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedFixedPath_sliced_principal_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T16:52:18.660554+00:00
 -- url     : https://prove2.me/theorems/865f96a8-0ad2-4b5a-bcc3-3792244b3d91

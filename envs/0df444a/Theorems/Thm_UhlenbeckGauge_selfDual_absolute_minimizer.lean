@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UhlenbeckGauge_selfDual_absolute_minimizer
 -- name    : UhlenbeckGauge.selfDual_absolute_minimizer
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T22:03:52.67899+00:00
 -- url     : https://prove2.me/theorems/540bade1-d585-4bf6-9c68-b022fabf478a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_complex_posSemidef_det_le_prod_diag_re
 -- name    : complex_posSemidef_det_le_prod_diag_re
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:33:51.431717+00:00
 -- url     : https://prove2.me/theorems/7a2d4bae-9246-4eb2-b88a-52c9e5a5fe75

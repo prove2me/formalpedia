@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_lintegral_comp_mob
 -- name    : BookProof.OdeUnitaryFlow.lintegral_comp_mob
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:43:00.958202+00:00
 -- url     : https://prove2.me/theorems/277042aa-7863-4bf2-84eb-910b1253d82b

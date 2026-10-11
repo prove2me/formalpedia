@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_GSSpectrum_theorem_2_1
 -- name    : NAGFlow.GSSpectrum.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:55.07078+00:00
 -- url     : https://prove2.me/theorems/2313a840-b93d-443a-ac3d-f00deddaf68a

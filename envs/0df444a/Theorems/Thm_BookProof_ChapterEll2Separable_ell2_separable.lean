@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEll2Separable_ell2_separable
 -- name    : BookProof.ChapterEll2Separable.ell2_separable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:44:09.219087+00:00
 -- url     : https://prove2.me/theorems/9a4b17e8-ed90-4870-a49b-da2f8f1006df

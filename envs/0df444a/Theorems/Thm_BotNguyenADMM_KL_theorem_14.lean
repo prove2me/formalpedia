@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BotNguyenADMM_KL_theorem_14
 -- name    : BotNguyenADMM.KL.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T20:07:14.348546+00:00
 -- url     : https://prove2.me/theorems/1701232f-2bdd-413b-9f13-30e747cc0d3d

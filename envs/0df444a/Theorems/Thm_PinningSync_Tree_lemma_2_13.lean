@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PinningSync_Tree_lemma_2_13
 -- name    : PinningSync.Tree.lemma_2_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:18:45.492994+00:00
 -- url     : https://prove2.me/theorems/8f00c275-e57a-4a3e-96f1-14bee00567e2

@@ -1,12 +1,14 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_addendum_converse
 -- name    : PhilipponMultiplicity.addendum_converse
--- status  : Open
+-- status  : Disproved
 -- author  : @tomasz
 -- created : 2026-09-23T21:10:56.752072+00:00
 -- url     : https://prove2.me/theorems/c86d0506-9d9d-4203-8b03-416dd74a15e2
 -- title:
 --   1987 addendum — converse construction (positive dimension)
 -- statement:
+--   **Current formulation disproved (10 October 2026).** The transported affine three-space example with shear $F(u,v,w)=(u,v,w+u^{401}v)$ satisfies every hypothesis at $T=D=400$, but every polynomial with the required contact is zero. Submission 7a9364a8-06b7-493f-913f-8aafd961a744 proves the negation of the complete formal statement. The referenced interpolation proof uses Serre embeddings to control translation degrees. An explicit geometric hypothesis and proof of a corrected statement remain required. The original formal statement below is preserved.
+--
 --   For an embedded commutative group of positive dimension $n$, suppose $D_i\ge\mathcal H(G;1,\ldots,1)$ and an algebraic subgroup $H$ satisfies
 --   $$
 --   \binom{T+s}{s}|(\Sigma+H)/H|\mathcal H(H;D)

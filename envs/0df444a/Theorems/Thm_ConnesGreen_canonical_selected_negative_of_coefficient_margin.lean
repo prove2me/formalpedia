@@ -14,6 +14,8 @@
 --   The assumed coefficient/Weil margin consequently makes the selected value negative. The premise is the concrete quantitative coefficient margin; negative physical value and the background attachment are proved conclusions, not assumed.
 -- source:
 --   monocap-tech/weil at 68011f0aa80779d1735ecbe344b0314d03cd3de5; WeilDefect/Connes/CoefficientPhysicalWitness.lean (new additive margin and witness declarations); original CanonicalGreenBackground, CanonicalGreenMarkerLimit and CriticalWindowBoundary declarations retained.
+--
+--   Literature/source audit addendum (2026-10-11; COR-10): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 5813d3576adfea3fd4d9319495125180db6e3d95, WeilDefect/Connes/CoefficientPhysicalWitness.lean, SHA256 1a395200b4c29c80c59a5852ffe632525d8c9cc3a462266254cfec424cf63b24. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker
 import Definitions.Def_ConnesGreen_small_support_constants

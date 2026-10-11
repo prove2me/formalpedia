@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_wron_eq_sum
 -- name    : BookProof.NavierStokesFlow.Carleman.wron_eq_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:35.692207+00:00
 -- url     : https://prove2.me/theorems/f7232522-6329-430b-a2d3-c40d7d17048e

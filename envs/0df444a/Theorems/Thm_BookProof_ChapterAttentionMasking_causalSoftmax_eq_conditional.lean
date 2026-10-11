@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMasking_causalSoftmax_eq_conditional
 -- name    : BookProof.ChapterAttentionMasking.causalSoftmax_eq_conditional
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:30:37.142984+00:00
 -- url     : https://prove2.me/theorems/52451b6e-6997-423e-9673-2f3e4e544698

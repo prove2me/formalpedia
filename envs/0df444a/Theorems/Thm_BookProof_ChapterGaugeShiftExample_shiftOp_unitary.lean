@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeShiftExample_shiftOp_unitary
 -- name    : BookProof.ChapterGaugeShiftExample.shiftOp_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:17:09.9158+00:00
 -- url     : https://prove2.me/theorems/afac8f3a-af6c-47cb-8513-0843ecb177df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_intervalTwoLevel_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FockOfFock.intervalTwoLevel_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:23:07.686988+00:00
 -- url     : https://prove2.me/theorems/fecffc7a-dac2-4377-9836-36521eff4924

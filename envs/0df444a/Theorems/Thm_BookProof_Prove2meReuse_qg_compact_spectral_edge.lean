@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Prove2meReuse_qg_compact_spectral_edge
 -- name    : BookProof.Prove2meReuse.qg_compact_spectral_edge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:15:52.688978+00:00
 -- url     : https://prove2.me/theorems/378a0917-475a-4af9-b8ab-5018c9d712a8

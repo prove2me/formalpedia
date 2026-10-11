@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRieszFischer_geomVec_not_mem_finSupport
 -- name    : BookProof.ChapterRieszFischer.geomVec_not_mem_finSupport
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:18:58.884984+00:00
 -- url     : https://prove2.me/theorems/fcaf5b0e-799c-470e-b80e-274bc871f705

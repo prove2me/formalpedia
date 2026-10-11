@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymPolyOpt_PowerSumLB_theorem_6_6
 -- name    : SymPolyOpt.PowerSumLB.theorem_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:30.146978+00:00
 -- url     : https://prove2.me/theorems/5ff49c12-9c1e-462d-9bbc-e426cc21fd58

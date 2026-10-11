@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_occEnergy_nonneg
 -- name    : BookProof.QgCouplingDGammaSum.occEnergy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:18:13.460208+00:00
 -- url     : https://prove2.me/theorems/9b487e4a-1dda-4466-89fb-cd0532eb225a

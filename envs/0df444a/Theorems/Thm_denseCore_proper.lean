@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_denseCore_proper
 -- name    : denseCore_proper
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:04:26.804554+00:00
 -- url     : https://prove2.me/theorems/2c8d3ae6-2950-4bf2-8627-1ef181448807

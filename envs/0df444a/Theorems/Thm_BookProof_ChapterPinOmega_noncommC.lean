@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPinOmega_noncommC
 -- name    : BookProof.ChapterPinOmega.noncommC
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:55:07.15135+00:00
 -- url     : https://prove2.me/theorems/5db1c6cf-95e8-423f-ab29-e3e251256563

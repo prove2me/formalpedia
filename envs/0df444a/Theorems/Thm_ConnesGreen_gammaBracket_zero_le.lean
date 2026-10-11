@@ -10,6 +10,8 @@
 --   For every real r, gammaBracket(0) <= gammaBracket(r), where the unchanged original symbol is Re digamma(1/4+i r/2)-log(pi). The public statement unfolds precisely this native definition, with the same r/2 scale and subtraction. A native Lean normalization check verifies that this statement is exactly the existing gammaBracket_zero_le result. It follows from the accepted open-strip vertical minimum at a=1/4. No positivity of the minimum or archimedean integral bound is assumed or proved.
 -- source:
 --   monocap-tech/weil at 5ba603ccaacf5ea1172c6cf087b8c5f33f029bb5; ArchimedeanEnergy.lean. Original native declarations unchanged. Independent Mathlib-only platform proof audit recovers the original HasSum digamma series.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 2f1e1920ae4ce206766c437e7f8838864fc03d80, WeilDefect/Connes/ArchimedeanEnergy.lean, SHA256 79960551f3412700bbf2f1a1e509f3fe41e017d10a0bd45c5a92e378561a9f49. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Mathlib
 import Theorems.Thm_ConnesGreen_digamma_re_vertical_minimum

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_hartree_fock_energy
 -- name    : KochHF.hartree_fock_energy
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:35.854987+00:00
 -- url     : https://prove2.me/theorems/12a031e9-80d1-4c56-916a-da683cc68cd8

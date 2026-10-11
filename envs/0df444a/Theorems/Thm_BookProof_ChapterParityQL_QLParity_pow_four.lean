@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityQL_QLParity_pow_four
 -- name    : BookProof.ChapterParityQL.QLParity_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:07:49.984313+00:00
 -- url     : https://prove2.me/theorems/f9443ae8-63c5-4d09-b2ce-cee83a1c0a2d

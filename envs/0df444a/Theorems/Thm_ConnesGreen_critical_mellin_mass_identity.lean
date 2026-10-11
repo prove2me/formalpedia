@@ -10,6 +10,8 @@
 --   For every original smooth compactly supported Connes test $g:\mathbb R\to\mathbb C$, let $\widehat g(z)=\int_{\mathbb R}g(t)e^{(z-1/2)t}\,dt$. Then $$\int_{\mathbb R}|\widehat g(\tfrac12+ir)|^2\,dr=2\pi\int_{\mathbb R}|g(t)|^2\,dt.$$ The factor is exact for the original positive-exponent transform. Smooth compact support supplies Fourier integrability; there is no extra convergence or positivity premise. This mass normalization supports a lower bound for the original gamma/digamma archimedean term and does not establish Weil positivity or RH.
 -- source:
 --   monocap-tech/weil, Connes/ArchimedeanEnergy.lean. Native proof uses existing Fourier inversion on the original convolution test. The standalone export independently uses Mathlib Schwartz Plancherel and the exact original Mellin/Fourier dictionary. Native companion results prove a uniform semibound for the full original Weil form and its original completed physical carrier, retaining the full actual-zero actor background.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 2f1e1920ae4ce206766c437e7f8838864fc03d80, WeilDefect/Connes/ArchimedeanEnergy.lean, SHA256 79960551f3412700bbf2f1a1e509f3fe41e017d10a0bd45c5a92e378561a9f49. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesRZ_weil_defs
 import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier

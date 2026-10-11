@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_parker_probe_correction
 -- name    : MassEnergyEquivalence.parker_probe_correction
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:17:32.88746+00:00
 -- url     : https://prove2.me/theorems/6d48ca0d-9151-4b9a-aff2-86043f0982e7

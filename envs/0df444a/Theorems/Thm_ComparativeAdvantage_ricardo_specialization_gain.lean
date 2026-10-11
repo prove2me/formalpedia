@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_ricardo_specialization_gain
 -- name    : ComparativeAdvantage.ricardo_specialization_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:48.124089+00:00
 -- url     : https://prove2.me/theorems/03e40305-02e5-496a-9337-984a997d0de9

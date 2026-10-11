@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_gap_ratio_weak_coupling
 -- name    : BCSTheory.gap_ratio_weak_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:24.235051+00:00
 -- url     : https://prove2.me/theorems/6384aa91-3151-4e47-9d11-9a397a1fb066

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KingmanSubadditive_Ergodic_theorem_1
 -- name    : KingmanSubadditive.Ergodic.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:42:23.718087+00:00
 -- url     : https://prove2.me/theorems/0cb9c162-6665-41f2-845b-9e3393ee635a

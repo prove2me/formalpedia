@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_effectiveSupport_scoreSoftmax_mem_Icc
 -- name    : BookProof.ChapterAttentionCollision.effectiveSupport_scoreSoftmax_mem_Icc
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:23:52.697739+00:00
 -- url     : https://prove2.me/theorems/e336b329-e21d-46de-953c-8939b7a53457

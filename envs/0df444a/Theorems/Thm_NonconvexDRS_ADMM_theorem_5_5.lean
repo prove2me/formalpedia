@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexDRS_ADMM_theorem_5_5
 -- name    : NonconvexDRS.ADMM.theorem_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:32:57.675704+00:00
 -- url     : https://prove2.me/theorems/216106eb-065d-42cc-8e94-8fc9b7a12657

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionLocality.farMass_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T16:43:14.578586+00:00
 -- url     : https://prove2.me/submissions/d98eb1cf-6e90-406f-a315-eb5a52e655ca
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionLocality.lean — solution of BookProof.ChapterAttentionLocality.farMass_le
 import Mathlib

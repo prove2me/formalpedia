@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svGompertz_start
 -- name    : ActuarialValuation.svGompertz_start
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:24:08.310548+00:00
 -- url     : https://prove2.me/theorems/22e9a938-e562-4142-8e82-450b30d80779

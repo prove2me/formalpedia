@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HomogLCP_Embed_lemma_4_4
 -- name    : HomogLCP.Embed.lemma_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:43:23.094717+00:00
 -- url     : https://prove2.me/theorems/84599bf3-7940-4b7f-9b47-373fd11f56fe

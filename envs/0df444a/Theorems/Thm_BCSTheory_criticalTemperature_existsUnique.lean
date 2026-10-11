@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_criticalTemperature_existsUnique
 -- name    : BCSTheory.criticalTemperature_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:25:12.135575+00:00
 -- url     : https://prove2.me/theorems/39968ffc-e94a-468f-8a07-89e2e086579f

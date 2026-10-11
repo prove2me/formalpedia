@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for matrix_det_norm_le_prod_row_sum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:06:45.953524+00:00
 -- url     : https://prove2.me/submissions/d30c54b5-dd34-47b2-a8ef-b66778263150
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_matrix_det_norm_le_prod_row_l2
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_affF_jacobi
 -- name    : BookProof.QuantumGravityBrstCharge.affF_jacobi
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:38:51.6415+00:00
 -- url     : https://prove2.me/theorems/63b96508-b5a1-4d9b-8514-9a11e4a77dc7

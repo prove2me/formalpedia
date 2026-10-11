@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_nsBrst_symmetrization_hermitian
 -- name    : BookProof.NavierStokesEulerian.nsBrst_symmetrization_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:40:47.36199+00:00
 -- url     : https://prove2.me/theorems/6754d1d4-62dc-4e1c-931a-7e4de60b3474

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gint_X_pow
 -- name    : BookProof.HermiteExpWall.gint_X_pow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:12:15.379276+00:00
 -- url     : https://prove2.me/theorems/08fb594d-d5f0-4c8c-9bc4-ec5f3444a617

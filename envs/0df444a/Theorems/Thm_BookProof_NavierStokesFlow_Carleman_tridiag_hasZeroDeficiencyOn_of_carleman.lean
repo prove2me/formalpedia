@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_tridiag_hasZeroDeficiencyOn_of_carleman
 -- name    : BookProof.NavierStokesFlow.Carleman.tridiag_hasZeroDeficiencyOn_of_carleman
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:43.676566+00:00
 -- url     : https://prove2.me/theorems/0a3267f0-834f-4fdc-857b-459b147dbb29

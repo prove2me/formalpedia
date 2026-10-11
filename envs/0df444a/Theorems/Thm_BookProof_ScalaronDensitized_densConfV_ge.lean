@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_densConfV_ge
 -- name    : BookProof.ScalaronDensitized.densConfV_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:20:14.63156+00:00
 -- url     : https://prove2.me/theorems/a1d7a855-a64e-4b86-9c95-9ccd8ae7e212

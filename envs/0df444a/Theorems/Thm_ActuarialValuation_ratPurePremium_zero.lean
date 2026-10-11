@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratPurePremium_zero
 -- name    : ActuarialValuation.ratPurePremium_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:29:39.356044+00:00
 -- url     : https://prove2.me/theorems/2804a20e-667c-437f-9ace-34ca5e412391

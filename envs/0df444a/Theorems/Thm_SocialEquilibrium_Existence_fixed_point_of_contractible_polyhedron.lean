@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SocialEquilibrium_Existence_fixed_point_of_contractible_polyhedron
 -- name    : SocialEquilibrium.Existence.fixed_point_of_contractible_polyhedron
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T20:42:35.091458+00:00
 -- url     : https://prove2.me/theorems/fd58b687-6c22-454b-9a7e-c686f4a2db2f

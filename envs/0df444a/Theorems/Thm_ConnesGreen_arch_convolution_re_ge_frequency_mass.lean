@@ -10,6 +10,8 @@
 --   For B,T>=0 and an unchanged original admissible test g supported in (-T,T), the original archimedean convolution term is at least [gammaBracket(B)-(gammaBracket(B)-gammaBracket(0))*(2 B T/pi)] times the global squared-norm mass of g. This is exactly the existing native theorem with its original gamma definition unfolded in the public signature. Genuine weighted convergence, the exact archimedean identity, gamma order bounds, full Mellin mass and the accepted original low-frequency fraction bound justify every integral comparison. Original convolution/involution and test closure are retained. No endpoint inequality, Weil positivity, surrogate zero set or RH premise is introduced.
 -- source:
 --   monocap-tech/weil at 6365e9fa26ba7faf91910d5a8270cb3f2cc34551; ArchimedeanEnergy.lean. Original native declarations unchanged. Exact native definition normalization checks accompany both ports.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 1a32f7de3442feb804b4962bb6766304a56b5be8, WeilDefect/Connes/ArchimedeanFrequency.lean, SHA256 d675876ba3d129cadd9eec7611e56d39dd96323b8e74421b8c7b8d4c0902a05b. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_canonical_model
 open Complex MeasureTheory ConnesRZ ConnesRZFrontier ConnesGreen WeilDefect.ConnesNative Set

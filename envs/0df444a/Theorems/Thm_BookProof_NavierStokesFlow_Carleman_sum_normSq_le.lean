@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_sum_normSq_le
 -- name    : BookProof.NavierStokesFlow.Carleman.sum_normSq_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:34.636816+00:00
 -- url     : https://prove2.me/theorems/0ec266d1-ac6c-40f3-9870-daafc4c6898a

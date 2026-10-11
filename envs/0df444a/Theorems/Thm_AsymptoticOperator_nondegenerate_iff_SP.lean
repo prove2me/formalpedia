@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_nondegenerate_iff_SP
 -- name    : AsymptoticOperator.nondegenerate_iff_SP
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:35:18.028105+00:00
 -- url     : https://prove2.me/theorems/e2cac0af-9e10-45c4-8a1e-318d6b7638d9

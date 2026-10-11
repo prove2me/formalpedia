@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clReserve_zero_paid
 -- name    : ActuarialValuation.clReserve_zero_paid
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:04.557677+00:00
 -- url     : https://prove2.me/theorems/2788ce15-149a-447c-b392-0d250a1f02d9

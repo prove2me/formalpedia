@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBesselHarmonic_hasDerivAt_quot
 -- name    : BookProof.ChapterBesselHarmonic.hasDerivAt_quot
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:54:46.03899+00:00
 -- url     : https://prove2.me/theorems/df9dbfc3-4a75-419d-8b5a-1a0002c7142a

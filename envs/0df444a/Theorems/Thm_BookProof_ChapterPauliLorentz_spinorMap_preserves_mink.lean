@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliLorentz_spinorMap_preserves_mink
 -- name    : BookProof.ChapterPauliLorentz.spinorMap_preserves_mink
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:32:57.60373+00:00
 -- url     : https://prove2.me/theorems/6be61e33-f056-4535-af32-5a3c555d58f3

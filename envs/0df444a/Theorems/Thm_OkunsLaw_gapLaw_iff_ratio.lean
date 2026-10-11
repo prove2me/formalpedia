@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OkunsLaw_gapLaw_iff_ratio
 -- name    : OkunsLaw.gapLaw_iff_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:20.76435+00:00
 -- url     : https://prove2.me/theorems/e2ecdcbf-deb6-47f8-9a0d-cbefaab5ffcb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_brillouin_theorem
 -- name    : KochHF.brillouin_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:58.190036+00:00
 -- url     : https://prove2.me/theorems/5d3d5760-1d93-4c6c-940b-4bd7cf539b18

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRieszFischer_finSupport_dense
 -- name    : BookProof.ChapterRieszFischer.finSupport_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:18:07.747925+00:00
 -- url     : https://prove2.me/theorems/2405f1af-7b63-4166-ae13-c4323d564b5d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChinesePostman_Mixed_mixed_euler_tour
 -- name    : ChinesePostman.Mixed.mixed_euler_tour
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:52:09.771094+00:00
 -- url     : https://prove2.me/theorems/15ad3fc5-791a-4642-93d3-ded0e94b4613

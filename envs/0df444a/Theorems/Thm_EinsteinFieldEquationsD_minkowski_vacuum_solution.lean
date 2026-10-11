@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_minkowski_vacuum_solution
 -- name    : EinsteinFieldEquationsD.minkowski_vacuum_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:20:08.735991+00:00
 -- url     : https://prove2.me/theorems/435f5181-d7b7-4cde-80a6-42ff458feac0

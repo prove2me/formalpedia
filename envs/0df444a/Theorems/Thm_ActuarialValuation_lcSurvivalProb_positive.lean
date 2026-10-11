@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcSurvivalProb_positive
 -- name    : ActuarialValuation.lcSurvivalProb_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:50:10.411637+00:00
 -- url     : https://prove2.me/theorems/7b7e94d9-2782-41ab-9d5b-b5187506963f

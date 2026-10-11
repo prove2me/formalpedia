@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSE2_se2_P_sq
 -- name    : BookProof.ChapterSE2.se2_P_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:20:56.654+00:00
 -- url     : https://prove2.me/theorems/b515e894-f1c5-4592-aec1-976ce0110b15

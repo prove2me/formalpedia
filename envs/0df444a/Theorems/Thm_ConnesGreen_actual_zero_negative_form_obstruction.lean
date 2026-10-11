@@ -14,6 +14,8 @@
 --   This is the exact obstruction consequence of a negative physical form and the already proved finite-restoration equivalence. The repository's original actual off-line quartet separator supplies such a direction at its existentially chosen support window; that support is not a prescribed critical endpoint. No unconditional arithmetic half-bound, neutral-shell persistence, endpoint transfer, or RH is concluded.
 -- source:
 --   monocap-tech/weil at native base b019d40205680f9761a4b0a80cbcad56ee1b606b, new WeilDefect/Screening/MarkerThreshold.lean and WeilDefect/Connes/CanonicalGreenMarkerObstruction.lean; exact checked new source in Connes_Weil_Quartet_Marker_Obstruction.zip. Original inverse and selected actor definitions are unchanged. This is a new formally verified reduction, not an unconditional arithmetic half-bound theorem.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Connes/CanonicalGreenMarkerObstruction.lean, SHA256 66c5cf3cd2be9bbaa8615ece1f396a30c9d39615bd426919ec14aa35d6dfecea. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_actual_pair_columns
 import Definitions.Def_WeilMarker_regularized_cost

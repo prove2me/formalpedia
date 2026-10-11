@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Uniform_theorem_3
 -- name    : PriceQualityService.Uniform.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:17:35.489331+00:00
 -- url     : https://prove2.me/theorems/9a9f8ff3-55ae-4445-977a-8e7c438607dc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TitiusBode_ratio_to_previous
 -- name    : TitiusBode.ratio_to_previous
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:03.750204+00:00
 -- url     : https://prove2.me/theorems/83b47605-ddb6-4af7-9d31-4253b617efa1

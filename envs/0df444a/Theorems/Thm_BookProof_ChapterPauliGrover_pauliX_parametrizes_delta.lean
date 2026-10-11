@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliGrover_pauliX_parametrizes_delta
 -- name    : BookProof.ChapterPauliGrover.pauliX_parametrizes_delta
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:34:30.706986+00:00
 -- url     : https://prove2.me/theorems/b1d2ae64-6f99-4d6b-99e0-4bb2ec78467b

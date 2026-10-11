@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_fundamentalSolution_existsUnique
 -- name    : AsymptoticOperator.fundamentalSolution_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:34:18.845461+00:00
 -- url     : https://prove2.me/theorems/833f4006-586e-48d2-89ef-99d4d75ebf10

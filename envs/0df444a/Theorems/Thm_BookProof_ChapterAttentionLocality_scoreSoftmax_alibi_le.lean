@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionLocality_scoreSoftmax_alibi_le
 -- name    : BookProof.ChapterAttentionLocality.scoreSoftmax_alibi_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:26:18.97098+00:00
 -- url     : https://prove2.me/theorems/173ffbcc-4e04-4937-88e4-883b038d71ba

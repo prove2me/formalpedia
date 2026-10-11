@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_mixed_green_identity_annulus
 -- name    : MeasureTheory.mixed_green_identity_annulus
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T10:56:59.296222+00:00
 -- url     : https://prove2.me/theorems/3b11ef73-ba7d-49cb-89ef-8dab4a34bbd2

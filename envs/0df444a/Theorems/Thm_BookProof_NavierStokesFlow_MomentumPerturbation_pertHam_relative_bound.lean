@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_pertHam_relative_bound
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.pertHam_relative_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:45:42.074975+00:00
 -- url     : https://prove2.me/theorems/824f8ef0-b1da-4692-80d8-c52a47d7448b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_radialBump_eq_zero_of_one_le
 -- name    : BookProof.RadialMollifier.radialBump_eq_zero_of_one_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:59:50.301982+00:00
 -- url     : https://prove2.me/theorems/0eb526b6-da98-423c-adc1-3f291e9985fd

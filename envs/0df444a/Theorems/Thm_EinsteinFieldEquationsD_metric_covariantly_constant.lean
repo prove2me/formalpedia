@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_metric_covariantly_constant
 -- name    : EinsteinFieldEquationsD.metric_covariantly_constant
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:11:59.826232+00:00
 -- url     : https://prove2.me/theorems/cc19a183-cf08-4c7f-bddc-008dc4ef531f

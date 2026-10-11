@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_Prox_one_step_15
 -- name    : KarimiPL.Prox.one_step_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:54:46.959984+00:00
 -- url     : https://prove2.me/theorems/f7e4cf9e-f5a9-45b2-b71d-5e42466d4a09

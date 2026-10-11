@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorCore_exists_ne_zero_mem_sectorCore_one
 -- name    : BookProof.TensorCore.exists_ne_zero_mem_sectorCore_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:51:55.071099+00:00
 -- url     : https://prove2.me/theorems/039f1c17-f003-4431-af85-47f19e2ffef4

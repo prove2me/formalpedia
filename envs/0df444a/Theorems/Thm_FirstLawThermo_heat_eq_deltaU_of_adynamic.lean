@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_heat_eq_deltaU_of_adynamic
 -- name    : FirstLawThermo.heat_eq_deltaU_of_adynamic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:52:27.068626+00:00
 -- url     : https://prove2.me/theorems/713a41e8-7df2-4645-a8a3-27bcce756f9b

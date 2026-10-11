@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityZ4_combinedParity_sq
 -- name    : BookProof.ChapterParityZ4.combinedParity_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:08:11.419423+00:00
 -- url     : https://prove2.me/theorems/4cc0e028-05e3-4e28-9832-d5014d760e2d

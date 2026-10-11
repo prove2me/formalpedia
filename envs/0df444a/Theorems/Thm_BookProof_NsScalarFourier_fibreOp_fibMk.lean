@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsScalarFourier_fibreOp_fibMk
 -- name    : BookProof.NsScalarFourier.fibreOp_fibMk
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:12:23.570488+00:00
 -- url     : https://prove2.me/theorems/32e9f55a-4016-4050-be76-067916e27261

@@ -10,6 +10,8 @@
 --   On the original completed Dirichlet energy carrier at window t, define D = δI + sum of positive rank-one columns over F minus sum of negative rank-one columns over the unchanged selected packet S. The finite index is the tagged union of positive F and negative S columns. The certificate matrix has entries inner(u_i,D u_j). Actual zeta zeros, multiplicities and Green-source normalization are inherited without modification. Dependent and repeated columns are allowed; no inverse or basis is defined. This is an auxiliary finite compression, not a replacement for the original full actors.
 -- source:
 --   monocap-tech/weil, WeilDefect/Connes/FiniteCertificateGram.lean at df7cd5371e1778aa18f13856f32247a971f62d6b
+--
+--   Literature/source audit addendum (2026-10-11; COR-19): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil df7cd5371e1778aa18f13856f32247a971f62d6b, WeilDefect/Connes/FiniteCertificateGram.lean, SHA256 d91cdc289ef38252ddeedb92bde07040b6362cb7f444f50a5cfaa6f6438cbdfc. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry. The unchanged graph RHS values were checked against native definitions by Lean rfl. This is source/value custody, not an assertion that contextual literature supplies the whole definition bundle.
 
 import Definitions.Def_ConnesGreen_RG0_original_actors
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker

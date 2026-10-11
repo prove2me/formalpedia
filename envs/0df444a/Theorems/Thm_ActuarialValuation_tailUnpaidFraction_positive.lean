@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailUnpaidFraction_positive
 -- name    : ActuarialValuation.tailUnpaidFraction_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:43:12.531837+00:00
 -- url     : https://prove2.me/theorems/2a754110-a565-49bf-aff0-cdd8a2476226

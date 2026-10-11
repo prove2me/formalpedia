@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_derivativeField_consistency
 -- name    : BookProof.NavierStokesEulerian.derivativeField_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:40:31.957815+00:00
 -- url     : https://prove2.me/theorems/eb3d7f0a-66df-4061-96a7-c074d6f9e9d9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_attendedMass_le_one
 -- name    : BookProof.ChapterAttentionSparse.attendedMass_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:49:02.898401+00:00
 -- url     : https://prove2.me/theorems/77660cda-1755-4dca-9b35-29a4194c32be

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_EuclidDist_corollary_3_5
 -- name    : GeometryOfGraphs.EuclidDist.corollary_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:39:08.146378+00:00
 -- url     : https://prove2.me/theorems/381835f4-fbd3-47e5-962f-468dc47cf3b1

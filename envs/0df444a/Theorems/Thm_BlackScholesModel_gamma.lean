@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_gamma
 -- name    : BlackScholesModel.gamma
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:05.166895+00:00
 -- url     : https://prove2.me/theorems/35b4af86-6ee3-42ec-bfc4-cc27ba5c7a83

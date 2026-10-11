@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_Linear_theorem_2_9
 -- name    : FRBSplitting.Linear.theorem_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:14.309717+00:00
 -- url     : https://prove2.me/theorems/ca296cd8-380c-4918-b626-2454708a4132

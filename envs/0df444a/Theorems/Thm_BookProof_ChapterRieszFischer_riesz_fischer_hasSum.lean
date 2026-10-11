@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRieszFischer_riesz_fischer_hasSum
 -- name    : BookProof.ChapterRieszFischer.riesz_fischer_hasSum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:17:48.079964+00:00
 -- url     : https://prove2.me/theorems/17cbe36d-9966-478f-a047-cf02efd0ff9f

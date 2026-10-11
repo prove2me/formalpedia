@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionCapacity.exists_beta_forall_retrieval
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T16:38:31.435815+00:00
 -- url     : https://prove2.me/submissions/7647b357-f042-4fd0-a8f7-7801f1bb12e0
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionCapacity.lean — solution of BookProof.ChapterAttentionCapacity.exists_beta_forall_retrieval
 import Mathlib

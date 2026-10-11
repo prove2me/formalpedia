@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TitiusBode_within_deviation_band
 -- name    : TitiusBode.within_deviation_band
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:14.624631+00:00
 -- url     : https://prove2.me/theorems/6b222948-7d23-4905-83bc-71bbc6226d29

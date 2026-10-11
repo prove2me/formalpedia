@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_callPrice_eq_risk_neutral_expectation
 -- name    : BlackScholesModel.callPrice_eq_risk_neutral_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:35:58.296996+00:00
 -- url     : https://prove2.me/theorems/cbd02530-704b-4861-9a2c-fc27a5acab5c

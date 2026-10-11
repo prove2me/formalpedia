@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterBesselHarmonic.reduced_from_radial
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T19:28:05.100302+00:00
 -- url     : https://prove2.me/submissions/d972ce4d-bc89-42f4-9b56-a02efddda4f7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterBesselHarmonic.lean — solution of BookProof.ChapterBesselHarmonic.reduced_from_radial
 import Mathlib

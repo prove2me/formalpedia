@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_nbody_momentum_and_energy_conservation
 -- name    : ConservationLaws.nbody_momentum_and_energy_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:25:30.282744+00:00
 -- url     : https://prove2.me/theorems/f1dd1af3-4825-4e88-b716-f68ad44452c1

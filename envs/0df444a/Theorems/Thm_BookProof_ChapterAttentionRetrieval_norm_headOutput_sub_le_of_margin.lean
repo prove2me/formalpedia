@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_norm_headOutput_sub_le_of_margin
 -- name    : BookProof.ChapterAttentionRetrieval.norm_headOutput_sub_le_of_margin
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:43:52.229301+00:00
 -- url     : https://prove2.me/theorems/fc15570a-a32c-464d-b568-daa1726fe80b

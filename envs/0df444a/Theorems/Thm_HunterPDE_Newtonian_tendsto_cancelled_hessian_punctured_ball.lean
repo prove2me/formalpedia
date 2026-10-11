@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Newtonian_tendsto_cancelled_hessian_punctured_ball
 -- name    : HunterPDE.Newtonian.tendsto_cancelled_hessian_punctured_ball
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T10:11:45.111142+00:00
 -- url     : https://prove2.me/theorems/bfb99e3e-757b-4dcf-88e0-2b0545230135

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_norm_nsCoupling_linear
 -- name    : BookProof.NavierStokesFlow.Carleman.norm_nsCoupling_linear
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:39:05.990013+00:00
 -- url     : https://prove2.me/theorems/f66f589d-a8cb-4dc4-bee7-7a945de54f7f

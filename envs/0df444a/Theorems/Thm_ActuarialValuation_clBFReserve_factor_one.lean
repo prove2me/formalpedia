@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clBFReserve_factor_one
 -- name    : ActuarialValuation.clBFReserve_factor_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:44:16.012781+00:00
 -- url     : https://prove2.me/theorems/9fce1094-2a6d-43c3-8d08-7ae6b6d237bc

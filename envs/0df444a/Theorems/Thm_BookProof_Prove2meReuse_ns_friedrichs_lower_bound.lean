@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Prove2meReuse_ns_friedrichs_lower_bound
 -- name    : BookProof.Prove2meReuse.ns_friedrichs_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:15:52.259994+00:00
 -- url     : https://prove2.me/theorems/ab504f78-259c-4f72-a65f-06cf8a0021b3

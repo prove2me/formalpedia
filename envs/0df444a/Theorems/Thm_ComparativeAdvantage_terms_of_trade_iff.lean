@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_terms_of_trade_iff
 -- name    : ComparativeAdvantage.terms_of_trade_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:36.236755+00:00
 -- url     : https://prove2.me/theorems/8d3b681e-bb36-470a-b45d-5eef3335f7bc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_massless_energy_eq_pc
 -- name    : MassEnergyEquivalence.massless_energy_eq_pc
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:12:39.907346+00:00
 -- url     : https://prove2.me/theorems/ad4ffbb2-929e-43db-a31d-23564aa7eff0

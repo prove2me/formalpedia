@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionMixing.tendsto_l1dist_pushIter_attentionMatrix
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T17:09:02.109936+00:00
 -- url     : https://prove2.me/submissions/d5a4590e-bc68-4db2-bca0-bc2bda0273c7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionMixing.lean — solution of BookProof.ChapterAttentionMixing.tendsto_l1dist_pushIter_attentionMatrix
 import Mathlib

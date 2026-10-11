@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_matrix_det_norm_le_prod_row_l2
 -- name    : matrix_det_norm_le_prod_row_l2
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:02:57.74432+00:00
 -- url     : https://prove2.me/theorems/417e9b4d-dd45-46dc-a98c-480d75b268fb

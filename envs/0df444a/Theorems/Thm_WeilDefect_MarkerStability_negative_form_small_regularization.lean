@@ -12,6 +12,8 @@
 --   The negative physical margin therefore prevents a marker half-bound on an entire positive interval of Picard scales. No bounded selected-cost hypothesis, range-inclusion premise, arithmetic positivity claim, or endpoint-limit interchange is needed. This is a reduction from a negative form, not an assertion that an arbitrary given physical system has such a direction.
 -- source:
 --   monocap-tech/weil at native base b019d40205680f9761a4b0a80cbcad56ee1b606b, new WeilDefect/Screening/MarkerThreshold.lean and WeilDefect/Connes/CanonicalGreenMarkerObstruction.lean; exact checked new source in Connes_Weil_Quartet_Marker_Obstruction.zip. Original inverse and selected actor definitions are unchanged. This is a new formally verified reduction, not an unconditional arithmetic half-bound theorem.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Screening/MarkerThreshold.lean, SHA256 884aa068426538ecaaa0eb9f7850319bda3ebe312c289ed662d8cf546e469468. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_WeilMarker_regularized_cost
 open scoped InnerProductSpace ComplexOrder

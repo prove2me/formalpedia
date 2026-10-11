@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_l2_gaussPoly_le_of_gint_le
 -- name    : BookProof.HermiteExpWall.l2_gaussPoly_le_of_gint_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:11:50.811261+00:00
 -- url     : https://prove2.me/theorems/5c19b2d6-62c7-4df8-b505-6c41fb716bd5

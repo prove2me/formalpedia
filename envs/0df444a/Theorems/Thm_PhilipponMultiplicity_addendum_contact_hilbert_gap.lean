@@ -1,12 +1,14 @@
 -- Prove2me | Theorems.Thm_PhilipponMultiplicity_addendum_contact_hilbert_gap
 -- name    : PhilipponMultiplicity.addendum_contact_hilbert_gap
--- status  : Open
+-- status  : Disproved
 -- author  : @tomasz
 -- created : 2026-10-01T12:19:54.935193+00:00
 -- url     : https://prove2.me/theorems/05d2413e-b689-4aac-913c-d368f113c785
 -- title:
 --   Strict contact Hilbert-function gap for the converse addendum
 -- statement:
+--   **Disproved auxiliary (10 October 2026).** The transported additive three-space example with shear $F(u,v,w)=(u,v,w+u^{401}v)$, axis subgroup, $\Sigma=\{0\}$, and $T=D=400$ satisfies the numerical bound, but every homogeneous degree-400 polynomial with the prescribed contact is zero. Taking $J=(0)=I(G)$ contradicts the proposed strict Hilbert-function inequality. The disproof checks all geometric, analytic, and degree hypotheses in the existing definitions. A restriction on embeddings or an embedding-dependent bound requires a separately reviewed corrected statement. The dependent interpolation sketch has been retired.
+--
 --   Let $K$ be a Philippon base field, $G$ an embedded product of commutative algebraic groups of dimension $n>0$, $A$ an analytic subgroup, and $\Sigma\subset G$ a finite set containing $0$. Let $T\ge0$, let $D$ be a vector of nonnegative integer block degrees, and let $H\subseteq G$ be an algebraic subgroup, not necessarily connected. Put $s=\operatorname{codim}_A(A\cap H)$. Assume
 --   $$
 --   D_i\ge\mathcal H(G;1,\ldots,1)\quad\text{for every }i,

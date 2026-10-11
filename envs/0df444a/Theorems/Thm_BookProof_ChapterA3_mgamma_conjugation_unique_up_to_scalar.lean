@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma_conjugation_unique_up_to_scalar
 -- name    : BookProof.ChapterA3.mgamma_conjugation_unique_up_to_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:09:59.318209+00:00
 -- url     : https://prove2.me/theorems/837ad01c-e21c-4d24-999e-63e9079708e9

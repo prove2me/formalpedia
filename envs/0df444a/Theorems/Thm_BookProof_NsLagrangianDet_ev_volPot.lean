@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_ev_volPot
 -- name    : BookProof.NsLagrangianDet.ev_volPot
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:56:02.373991+00:00
 -- url     : https://prove2.me/theorems/6f8e2057-2175-4bc4-915f-a1df4d81aaae

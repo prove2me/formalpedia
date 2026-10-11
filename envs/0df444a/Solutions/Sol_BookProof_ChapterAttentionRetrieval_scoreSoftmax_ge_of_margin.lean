@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionRetrieval.scoreSoftmax_ge_of_margin
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T18:38:07.585521+00:00
 -- url     : https://prove2.me/submissions/fddf87d6-5474-4499-bf27-86c60258d530
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionRetrieval.lean — solution of BookProof.ChapterAttentionRetrieval.scoreSoftmax_ge_of_margin
 import Mathlib

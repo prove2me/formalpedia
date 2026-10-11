@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurkholderDFI_Gundy_theorem_4_1
 -- name    : BurkholderDFI.Gundy.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:10:53.316543+00:00
 -- url     : https://prove2.me/theorems/777e0a9c-2124-4b78-8c67-fdabb57b57be

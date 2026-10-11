@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_attentionMatrix_isStochastic
 -- name    : BookProof.ChapterAttentionMarkov.attentionMatrix_isStochastic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:27:14.576643+00:00
 -- url     : https://prove2.me/theorems/884a417a-21d7-44d4-b497-b5b133140c4e

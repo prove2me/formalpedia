@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ShortestGCS_Relax_lemma_7_4
 -- name    : ShortestGCS.Relax.lemma_7_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:58:02.560406+00:00
 -- url     : https://prove2.me/theorems/d0fc60df-3052-49d1-b343-aa1a723bae01

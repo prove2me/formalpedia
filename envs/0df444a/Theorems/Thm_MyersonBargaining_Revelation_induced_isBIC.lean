@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_Revelation_induced_isBIC
 -- name    : MyersonBargaining.Revelation.induced_isBIC
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:44:26.159983+00:00
 -- url     : https://prove2.me/theorems/b4bfdea1-c38d-4e2d-800c-8a1600480772

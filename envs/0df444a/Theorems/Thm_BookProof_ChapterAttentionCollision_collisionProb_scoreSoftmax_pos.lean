@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_collisionProb_scoreSoftmax_pos
 -- name    : BookProof.ChapterAttentionCollision.collisionProb_scoreSoftmax_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:23:00.418227+00:00
 -- url     : https://prove2.me/theorems/81f0ecae-9c86-4924-8c9e-0448d1651f05

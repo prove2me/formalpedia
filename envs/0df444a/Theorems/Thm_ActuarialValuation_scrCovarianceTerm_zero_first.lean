@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrCovarianceTerm_zero_first
 -- name    : ActuarialValuation.scrCovarianceTerm_zero_first
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:12:50.89198+00:00
 -- url     : https://prove2.me/theorems/4dbf3e3a-a38c-4e99-97a5-dbace2234872

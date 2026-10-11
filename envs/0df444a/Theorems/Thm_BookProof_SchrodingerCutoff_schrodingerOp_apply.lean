@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_schrodingerOp_apply
 -- name    : BookProof.SchrodingerCutoff.schrodingerOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:31:23.025647+00:00
 -- url     : https://prove2.me/theorems/53e04928-4dbc-4ef6-b35f-fb55383d6dcc

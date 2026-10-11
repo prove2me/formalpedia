@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_zerothLaw_iff_zerothLawPlanck_of_refl
 -- name    : ZerothLawThermo.zerothLaw_iff_zerothLawPlanck_of_refl
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:26:29.52331+00:00
 -- url     : https://prove2.me/theorems/f7ede297-5e84-49a9-97fe-5afceb06b544

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_trans_of_refl_zerothLaw
 -- name    : ZerothLawThermo.trans_of_refl_zerothLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:45.630552+00:00
 -- url     : https://prove2.me/theorems/41ddf758-9d90-4307-a1ba-4088c5283856

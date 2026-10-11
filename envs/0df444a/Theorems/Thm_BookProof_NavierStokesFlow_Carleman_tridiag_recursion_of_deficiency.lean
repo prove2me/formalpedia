@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_tridiag_recursion_of_deficiency
 -- name    : BookProof.NavierStokesFlow.Carleman.tridiag_recursion_of_deficiency
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:36:05.742776+00:00
 -- url     : https://prove2.me/theorems/3928fded-93a3-40f1-848e-f6b2c7b63e30

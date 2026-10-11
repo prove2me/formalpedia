@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterProbabilityInterface_transportMeasure_isProbability
 -- name    : BookProof.ChapterProbabilityInterface.transportMeasure_isProbability
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:16:32.358979+00:00
 -- url     : https://prove2.me/theorems/d4ce1594-a43f-4770-aa77-998ec3916290

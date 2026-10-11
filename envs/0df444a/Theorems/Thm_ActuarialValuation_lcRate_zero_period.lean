@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcRate_zero_period
 -- name    : ActuarialValuation.lcRate_zero_period
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:40:06.126902+00:00
 -- url     : https://prove2.me/theorems/95ef84aa-c0c7-48a9-8285-e47df06bdf6e

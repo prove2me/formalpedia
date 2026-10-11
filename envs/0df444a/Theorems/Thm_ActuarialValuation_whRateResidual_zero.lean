@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whRateResidual_zero
 -- name    : ActuarialValuation.whRateResidual_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:13:54.335978+00:00
 -- url     : https://prove2.me/theorems/0bdd1a8f-d498-4c7d-9e08-6ca213a66192

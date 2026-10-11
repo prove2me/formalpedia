@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_vacuumStressEnergy_eq_perfectFluid
 -- name    : EinsteinFieldEquationsD.vacuumStressEnergy_eq_perfectFluid
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:19:13.092584+00:00
 -- url     : https://prove2.me/theorems/8b4b8ce8-104a-463b-bd8f-d92c06110506

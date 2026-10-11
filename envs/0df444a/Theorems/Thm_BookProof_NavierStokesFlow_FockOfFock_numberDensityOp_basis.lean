@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_numberDensityOp_basis
 -- name    : BookProof.NavierStokesFlow.FockOfFock.numberDensityOp_basis
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:09:51.782573+00:00
 -- url     : https://prove2.me/theorems/19d98bb5-3e37-42a7-b759-ca4474680c02

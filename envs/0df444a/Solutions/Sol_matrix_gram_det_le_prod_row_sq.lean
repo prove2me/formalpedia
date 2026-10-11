@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for matrix_gram_det_le_prod_row_sq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:40:28.222022+00:00
 -- url     : https://prove2.me/submissions/1725b7cb-26c3-45fa-a5dc-40a6e1c3b311
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_complex_posSemidef_det_le_prod_diag_re
 import Mathlib.Analysis.Complex.Basic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexDRS_Tight_theorem_4_7
 -- name    : NonconvexDRS.Tight.theorem_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:36:50.604327+00:00
 -- url     : https://prove2.me/theorems/ae746252-f829-40a1-ad51-6954d66c927f

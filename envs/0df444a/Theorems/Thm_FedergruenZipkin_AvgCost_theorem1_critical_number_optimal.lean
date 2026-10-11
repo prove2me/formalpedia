@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedergruenZipkin_AvgCost_theorem1_critical_number_optimal
 -- name    : FedergruenZipkin.AvgCost.theorem1_critical_number_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:38:28.891021+00:00
 -- url     : https://prove2.me/theorems/9acfd5eb-5883-469a-b9f1-1c2a6b7929ed

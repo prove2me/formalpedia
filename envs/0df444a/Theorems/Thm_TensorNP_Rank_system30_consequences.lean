@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Rank_system30_consequences
 -- name    : TensorNP.Rank.system30_consequences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:54.003006+00:00
 -- url     : https://prove2.me/theorems/c8d82f1f-df7c-472f-871b-602db738cc9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_reciprocal_primes_theta_tail_identity
 -- name    : TaoFivePrimes.reciprocal_primes_theta_tail_identity
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T22:42:25.865695+00:00
 -- url     : https://prove2.me/theorems/42cfb683-0b1f-4c44-aa63-035298f9dd7f

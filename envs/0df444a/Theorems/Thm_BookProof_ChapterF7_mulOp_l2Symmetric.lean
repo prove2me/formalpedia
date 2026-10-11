@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_mulOp_l2Symmetric
 -- name    : BookProof.ChapterF7.mulOp_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:05:42.71846+00:00
 -- url     : https://prove2.me/theorems/1f068a83-64fe-49ae-8761-c7632e7b0397

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_isFredholm_iff_finiteDimensional
 -- name    : FredholmBanach.isFredholm_iff_finiteDimensional
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:38:22.241343+00:00
 -- url     : https://prove2.me/theorems/b635e960-921a-469a-8672-2110dc32c1a0

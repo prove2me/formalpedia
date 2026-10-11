@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KVVMatching_Ranking_ranking_guarantee
 -- name    : KVVMatching.Ranking.ranking_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:52:35.499332+00:00
 -- url     : https://prove2.me/theorems/e373f321-9afd-4335-8472-5b2f6f72eeb4

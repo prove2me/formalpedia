@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Static_eps_nash_bound
 -- name    : RobustPoA.Static.eps_nash_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:41:34.700405+00:00
 -- url     : https://prove2.me/theorems/f8e69c1c-269f-4472-a6b4-6f0433433cae

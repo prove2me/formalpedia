@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_marginalUtility_strictAntiOn
 -- name    : MarginalUtility.marginalUtility_strictAntiOn
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:50.78722+00:00
 -- url     : https://prove2.me/theorems/e2339d75-b2b9-4427-8c1c-265789762b80

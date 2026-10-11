@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_elastic_collision_1d
 -- name    : ConservationLaws.elastic_collision_1d
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:05.015065+00:00
 -- url     : https://prove2.me/theorems/c931c920-cf39-4911-b104-7667607ebf23

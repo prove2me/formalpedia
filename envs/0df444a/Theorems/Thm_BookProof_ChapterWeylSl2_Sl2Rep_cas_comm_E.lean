@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_cas_comm_E
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.cas_comm_E
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:51:57.519019+00:00
 -- url     : https://prove2.me/theorems/c8d38c96-e8f6-4fbf-9a91-ca0b14403e7d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_matrix_gram_det_le_prod_row_sq
 -- name    : matrix_gram_det_le_prod_row_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:15:56.049985+00:00
 -- url     : https://prove2.me/theorems/b3e2d023-7cee-46f2-9cac-c969d7f658a1

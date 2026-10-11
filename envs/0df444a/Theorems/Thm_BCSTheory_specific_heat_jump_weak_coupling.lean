@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_specific_heat_jump_weak_coupling
 -- name    : BCSTheory.specific_heat_jump_weak_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:33.78676+00:00
 -- url     : https://prove2.me/theorems/d477901a-1a99-439d-a49d-2e941d6aab29

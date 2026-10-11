@@ -10,6 +10,8 @@
 --   For every positive window T, original supported smooth compact test g and actual zeta zero rho, the inner product of the original physical source at rho with the embedded original source Lg equals the Mellin transform of g at rho. The reflection in the original source frequency accounts exactly for conjugate linearity. Original completion, load Lg and analytic zero carrier are retained.
 -- source:
 --   monocap-tech/weil at 28829dbeeee2ba23d6c0f3cedaf22952174099c2; WeilDefect/Connes/SmallSupportPositivity.lean. Original native declarations and exact constant definition bodies unchanged.
+--
+--   Literature/source audit addendum (2026-10-11): This graph export is assembled from ConnesGreen.canonical_source_pairing_analysis and WeilDefect.ConnesNative.actualDirichletAnalysis_eq_mellin. The graph name is a recovered named export, rather than a literal native declaration in the cited modules. The exact graph type was independently checked in Lean, preserving the original source pairing and Mellin normalization.
 
 import Definitions.Def_ConnesGreen_RG0_original_actors
 open Complex MeasureTheory ConnesRZ ConnesRZFrontier ConnesGreen WeilDefect WeilDefect.ConnesNative Set

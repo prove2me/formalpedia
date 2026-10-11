@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaysLaw_mill_no_glut_with_excess_money
 -- name    : SaysLaw.mill_no_glut_with_excess_money
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:07.727536+00:00
 -- url     : https://prove2.me/theorems/b34f520c-a455-4dc2-bcfb-44a70dda04be

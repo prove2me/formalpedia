@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Rank_real_decomposition
 -- name    : TensorNP.Rank.real_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:43.896118+00:00
 -- url     : https://prove2.me/theorems/d78da198-4776-42fa-8ad9-a479ef89df59

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_field_comp_selfAdjoint
 -- name    : BookProof.Bosonic.field_comp_selfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:08:46.555+00:00
 -- url     : https://prove2.me/theorems/23573532-0c85-44d6-bbcc-9e8b08453f2b

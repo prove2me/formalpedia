@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Newtonian_holder_estimate
 -- name    : HunterPDE.Newtonian.holder_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:30:50.302862+00:00
 -- url     : https://prove2.me/theorems/a84c578c-16ea-4e67-8a4b-f3c20ee834ba

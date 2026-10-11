@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_coeFn_cut
 -- name    : BookProof.NsFieldMomentumInverse.coeFn_cut
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:53:34.447528+00:00
 -- url     : https://prove2.me/theorems/f1806b72-1314-4304-b103-f75909858a95

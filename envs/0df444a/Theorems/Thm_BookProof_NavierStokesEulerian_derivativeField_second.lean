@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_derivativeField_second
 -- name    : BookProof.NavierStokesEulerian.derivativeField_second
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:41:36.105168+00:00
 -- url     : https://prove2.me/theorems/ee1f0697-9059-4919-a4d1-a7d4f7427cb7

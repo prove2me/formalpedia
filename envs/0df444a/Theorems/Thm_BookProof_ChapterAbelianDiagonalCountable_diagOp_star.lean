@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianDiagonalCountable_diagOp_star
 -- name    : BookProof.ChapterAbelianDiagonalCountable.diagOp_star
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:17:46.946228+00:00
 -- url     : https://prove2.me/theorems/d7d0f99d-590b-4bd8-a64a-7175e59933bd

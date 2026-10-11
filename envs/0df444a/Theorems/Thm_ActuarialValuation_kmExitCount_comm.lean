@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmExitCount_comm
 -- name    : ActuarialValuation.kmExitCount_comm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:27:21.237574+00:00
 -- url     : https://prove2.me/theorems/7453e57f-e2a0-47ac-8b63-292b2789618e

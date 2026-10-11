@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_heat_eq_zero_of_adiabatic
 -- name    : FirstLawThermo.heat_eq_zero_of_adiabatic
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:51:12.531479+00:00
 -- url     : https://prove2.me/theorems/664fd409-e9f1-492c-b244-079e516d707d

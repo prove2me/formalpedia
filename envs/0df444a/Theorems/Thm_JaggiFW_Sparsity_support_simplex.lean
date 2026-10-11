@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JaggiFW_Sparsity_support_simplex
 -- name    : JaggiFW.Sparsity.support_simplex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:04.240368+00:00
 -- url     : https://prove2.me/theorems/9c410a03-aac9-4201-b734-ce03ac5ec7cb

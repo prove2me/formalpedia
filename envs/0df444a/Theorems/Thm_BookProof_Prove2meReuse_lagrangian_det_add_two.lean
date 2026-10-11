@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Prove2meReuse_lagrangian_det_add_two
 -- name    : BookProof.Prove2meReuse.lagrangian_det_add_two
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:16:15.46865+00:00
 -- url     : https://prove2.me/theorems/a6ad26cd-9c92-4be9-87d6-20f642b8aca2

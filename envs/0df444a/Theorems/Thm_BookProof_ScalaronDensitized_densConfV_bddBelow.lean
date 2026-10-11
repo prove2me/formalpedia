@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_densConfV_bddBelow
 -- name    : BookProof.ScalaronDensitized.densConfV_bddBelow
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:21:07.332979+00:00
 -- url     : https://prove2.me/theorems/85cf717b-5353-4913-864d-b9ff516b6cd2

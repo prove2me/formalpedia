@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Newtonian.tendsto_cancelled_hessian_punctured_ball
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-10T10:36:15.719535+00:00
 -- url     : https://prove2.me/submissions/0517efbe-1b73-427c-b0df-91d40896a584
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HunterPDE_Newtonian_cancelled_hessian_annulus_identity
 import Theorems.Thm_HunterPDE_Newtonian_cancelled_hessian_inner_error_bound

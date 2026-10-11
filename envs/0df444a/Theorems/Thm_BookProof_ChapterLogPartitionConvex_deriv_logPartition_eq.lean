@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLogPartitionConvex_deriv_logPartition_eq
 -- name    : BookProof.ChapterLogPartitionConvex.deriv_logPartition_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:32:55.523669+00:00
 -- url     : https://prove2.me/theorems/4add3090-f20e-4dcf-9155-7eb9945061f9

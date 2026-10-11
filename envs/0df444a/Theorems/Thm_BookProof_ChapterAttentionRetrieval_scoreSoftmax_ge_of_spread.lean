@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_scoreSoftmax_ge_of_spread
 -- name    : BookProof.ChapterAttentionRetrieval.scoreSoftmax_ge_of_spread
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:44:06.301188+00:00
 -- url     : https://prove2.me/theorems/0816ed51-0a31-44c3-b762-ed3ae16d28e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnsagerReciprocal_conjugate_fluctuation_average
 -- name    : OnsagerReciprocal.conjugate_fluctuation_average
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T22:01:52.741832+00:00
 -- url     : https://prove2.me/theorems/89bc7b68-a660-4287-b343-914c0082d0db

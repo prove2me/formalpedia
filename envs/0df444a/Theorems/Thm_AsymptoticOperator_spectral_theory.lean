@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_spectral_theory
 -- name    : AsymptoticOperator.spectral_theory
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:35:34.39352+00:00
 -- url     : https://prove2.me/theorems/af70d731-03d5-49ce-8cab-6fb42b53b6ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsPartialFourier_fibreOp_apply
 -- name    : BookProof.NsPartialFourier.fibreOp_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:10:40.566652+00:00
 -- url     : https://prove2.me/theorems/cdac6029-6dd6-46fb-8c7a-600f77f12d64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_graph_existsUnique
 -- name    : AsymptoticOperator.graph_existsUnique
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:31:34.610239+00:00
 -- url     : https://prove2.me/theorems/2797ec85-9017-407a-b780-c5e3a0b8ff65

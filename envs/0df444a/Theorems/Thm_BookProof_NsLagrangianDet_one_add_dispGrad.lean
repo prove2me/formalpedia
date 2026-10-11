@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_one_add_dispGrad
 -- name    : BookProof.NsLagrangianDet.one_add_dispGrad
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:55:15.874211+00:00
 -- url     : https://prove2.me/theorems/898d4d67-80cc-4003-b3e1-26323291eb1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochFictPlay_ZeroSumESS_sfp_converges_ess_zeroSum
 -- name    : StochFictPlay.ZeroSumESS.sfp_converges_ess_zeroSum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T10:06:41.167989+00:00
 -- url     : https://prove2.me/theorems/22aa6906-ed2f-4b95-8581-0f09d3f116ce

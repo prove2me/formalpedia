@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_ConvHull_theorem_1
 -- name    : QCQPTightness.ConvHull.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:31:23.295586+00:00
 -- url     : https://prove2.me/theorems/5e500d27-f682-4d52-b634-9dce3eff6670

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratClassIndicated_zero
 -- name    : ActuarialValuation.ratClassIndicated_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:31:11.448021+00:00
 -- url     : https://prove2.me/theorems/f73d4df8-da0b-46be-b5da-a341dccc7dba

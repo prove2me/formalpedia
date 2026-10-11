@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcRate_positive
 -- name    : ActuarialValuation.lcRate_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:39:48.933221+00:00
 -- url     : https://prove2.me/theorems/2c38647a-c79b-420a-a964-a5ca6c57dc0b

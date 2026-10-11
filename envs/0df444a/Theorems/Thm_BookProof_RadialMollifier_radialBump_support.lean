@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_radialBump_support
 -- name    : BookProof.RadialMollifier.radialBump_support
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:00:22.411648+00:00
 -- url     : https://prove2.me/theorems/aaf00b56-ed82-47da-822f-a589c62243f0

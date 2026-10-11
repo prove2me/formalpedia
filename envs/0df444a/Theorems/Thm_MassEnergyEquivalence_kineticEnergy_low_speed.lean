@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_kineticEnergy_low_speed
 -- name    : MassEnergyEquivalence.kineticEnergy_low_speed
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:14:54.688992+00:00
 -- url     : https://prove2.me/theorems/bff8f47f-1fdd-478b-b076-e9783521f41a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_isHermCol_diagCol
 -- name    : BookProof.QgCouplingDGammaSum.isHermCol_diagCol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:19:45.755988+00:00
 -- url     : https://prove2.me/theorems/ce587164-1d9d-41ce-aa65-9c50be0ab948

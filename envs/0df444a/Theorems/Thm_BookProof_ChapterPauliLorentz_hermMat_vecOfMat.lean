@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliLorentz_hermMat_vecOfMat
 -- name    : BookProof.ChapterPauliLorentz.hermMat_vecOfMat
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:31:58.706835+00:00
 -- url     : https://prove2.me/theorems/02a5d792-121c-4cad-936c-6a18d3a63b70

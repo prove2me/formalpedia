@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LubyMIS_Derandomized_algorithmD_rounds
 -- name    : LubyMIS.Derandomized.algorithmD_rounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T23:01:06.399984+00:00
 -- url     : https://prove2.me/theorems/117f9efd-e5b6-4185-b871-108f3ffa8039

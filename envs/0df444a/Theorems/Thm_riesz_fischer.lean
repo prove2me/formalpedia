@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_riesz_fischer
 -- name    : riesz_fischer
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:04:15.030252+00:00
 -- url     : https://prove2.me/theorems/0a54fbf5-af40-4ebe-b542-16e7cbb4a48a

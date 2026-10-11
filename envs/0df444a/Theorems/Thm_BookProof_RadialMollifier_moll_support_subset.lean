@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_moll_support_subset
 -- name    : BookProof.RadialMollifier.moll_support_subset
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:01:29.107377+00:00
 -- url     : https://prove2.me/theorems/16df7564-6fdd-49bf-a196-3a0a0c9244ce

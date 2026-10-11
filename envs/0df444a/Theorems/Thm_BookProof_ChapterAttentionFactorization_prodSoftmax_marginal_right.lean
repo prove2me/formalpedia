@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionFactorization_prodSoftmax_marginal_right
 -- name    : BookProof.ChapterAttentionFactorization.prodSoftmax_marginal_right
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:23:31.477223+00:00
 -- url     : https://prove2.me/theorems/9871d0c3-d66e-427f-9dce-c7cf85929929

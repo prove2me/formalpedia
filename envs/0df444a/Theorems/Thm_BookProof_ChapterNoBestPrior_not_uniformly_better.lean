@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterNoBestPrior_not_uniformly_better
 -- name    : BookProof.ChapterNoBestPrior.not_uniformly_better
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:31.946978+00:00
 -- url     : https://prove2.me/theorems/06fd6dfc-1680-4bdf-bf47-8b74a906f802

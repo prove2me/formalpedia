@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnsagerReciprocal_kinetic_coefficients_relation
 -- name    : OnsagerReciprocal.kinetic_coefficients_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:58:37.625786+00:00
 -- url     : https://prove2.me/theorems/ac2bfe13-a6a6-4c07-955e-efbefa67fcc1

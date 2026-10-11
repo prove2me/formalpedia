@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_existence_of_temperature
 -- name    : ZerothLawThermo.existence_of_temperature
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:42.436108+00:00
 -- url     : https://prove2.me/theorems/26524481-6a9b-403c-80ff-9935c0b8c649

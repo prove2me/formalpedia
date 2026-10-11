@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_vega
 -- name    : BlackScholesModel.vega
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:46.527509+00:00
 -- url     : https://prove2.me/theorems/01767874-b18e-44f8-b79c-2e1d528fb0c8

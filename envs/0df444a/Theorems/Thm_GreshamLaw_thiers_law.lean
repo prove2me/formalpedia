@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreshamLaw_thiers_law
 -- name    : GreshamLaw.thiers_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:52.766974+00:00
 -- url     : https://prove2.me/theorems/cdc9e3bb-9b31-49bb-94ea-63751b78bec1

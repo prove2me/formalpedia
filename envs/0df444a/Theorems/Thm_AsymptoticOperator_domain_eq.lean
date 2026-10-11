@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_domain_eq
 -- name    : AsymptoticOperator.domain_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:31:52.761986+00:00
 -- url     : https://prove2.me/theorems/fd81522e-706f-49a9-84b1-9a069bdaf962

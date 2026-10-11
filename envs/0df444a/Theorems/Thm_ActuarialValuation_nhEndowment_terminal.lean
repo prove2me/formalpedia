@@ -1,0 +1,31 @@
+-- Prove2me | Theorems.Thm_ActuarialValuation_nhEndowment_terminal
+-- name    : ActuarialValuation.nhEndowment_terminal
+-- status  : Open
+-- author  : @WillR
+-- created : 2026-10-10T18:18:07.691266+00:00
+-- url     : https://prove2.me/theorems/62f399bf-45c2-4093-b4d3-a36da9390705
+-- title:
+--   Cause-contingent insurance and integral Thiele reserves: nhEndowment_terminal
+-- statement:
+--   A surviving member receives the contractual endowment at maturity. This original derived actuarial relation uses the parameter restrictions, endpoints and units stated in the separate formal theorem or definition.
+--
+--   Mathematical relation:
+--
+--   $$
+--   V'(t)=(\delta+\lambda(t))V(t)-\lambda(t)\bigl(pB_1+(1-p)B_2\bigr)
+--   $$
+-- source:
+--   Original derived actuarial mathematics, published source page 30. S. David Promislow (2015), Fundamentals of Actuarial Mathematics, chapter 19, https://www.oreilly.com/library/view/fundamentals-of-actuarial/9781118782521/ftoc.xhtml; Frederik Møller and colleagues, Multi-state modeling in the mathematics of life insurance, https://www.math.ku.dk/bibliotek/arkivet/phd-theses/phd20cf.pdf; Buchardt, Møller and Schmidt (2015), https://doi.org/10.1080/03461238.2013.879919. Parent topic: Nonstationary linear hazard, competing exits, absorbing three-state transition laws and differentiable integral prospective reserves. The particular Lean formula is a new finite/real-algebraic formalisation and remains an unproved theorem target if labelled theorem. Relevant published actuarial derivation: https://www.math.ku.dk/bibliotek/arkivet/phd-theses/phd20cf.pdf
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Analysis.SpecialFunctions.ExpDeriv
+import Mathlib.MeasureTheory.Integral.IntervalIntegral.Basic
+import Definitions.Def_actuarial_nhEndowment
+
+namespace ActuarialValuation
+
+theorem nhEndowment_terminal (a b δ T B : ℝ) : nhEndowment a b δ T B T=B := by sorry
+
+end ActuarialValuation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_dGamma_eq_sum_numberOp
 -- name    : BookProof.NavierStokesFlow.FockOfFock.dGamma_eq_sum_numberOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:42:26.555961+00:00
 -- url     : https://prove2.me/theorems/bd04f0ba-a848-4f16-a7d5-9a7b3289837d

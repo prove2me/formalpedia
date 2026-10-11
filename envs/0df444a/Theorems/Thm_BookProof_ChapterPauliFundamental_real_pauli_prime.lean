@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliFundamental_real_pauli_prime
 -- name    : BookProof.ChapterPauliFundamental.real_pauli_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:30:45.825881+00:00
 -- url     : https://prove2.me/theorems/70bb06de-a23c-43c0-86c7-c5c9856c5555

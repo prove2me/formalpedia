@@ -10,6 +10,8 @@
 --   On the original completed physical carrier, let $P$ and $N$ be the original full positive and full negative Green syntheses. If $\|P^*x\|^2-\|N^*x\|^2\ge-k\|x\|^2$ for every physical vector and $k\le\varepsilon$, then $$NN^*\le PP^*+\varepsilon I.$$ Both actors are constructed from RG-0 with their actual-zero columns, analytic multiplicities and reflected pair normalization. The quadratic shift is an explicit premise. The theorem does not establish the native arithmetic value of that shift or unshifted positivity.
 -- source:
 --   monocap-tech/weil: WeilDefect/Connes/RG0DependencyIntegration.lean, original actor and metric adapters at 4ba3a3a569d72a0d5af2ba6ea320f948030dcca5; proof and statement boundaries recovered with Lean elaborator metadata.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 85efc7ebf14b48f57653974640a9b77ec91f18e6, WeilDefect/Connes/RG0DependencyIntegration.lean, SHA256 1eb8d44c8d4b24bf6c94b53e3223e282d8710c1acc0523aed629c0dbafc63ccb. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Theorems.Thm_WeilDefect_MarkerStability_covariance_le_regularized_of_quadratic_shift
 import Definitions.Def_ConnesGreen_RG0_original_actors

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_continuityHamiltonian_l2Symmetric
 -- name    : BookProof.ChapterF7.continuityHamiltonian_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:07:25.439623+00:00
 -- url     : https://prove2.me/theorems/18776e07-e0b1-49c2-b0e3-0f618c1bbe35

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TamingMonster_Regret_iloveToConBandits_regret_le
 -- name    : TamingMonster.Regret.iloveToConBandits_regret_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T09:04:02.319136+00:00
 -- url     : https://prove2.me/theorems/2c7e1df6-7dec-427c-b169-b55aa21ea3ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterScaledDotProduct_rademacherMean_dot_sq
 -- name    : BookProof.ChapterScaledDotProduct.rademacherMean_dot_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:47:27.682977+00:00
 -- url     : https://prove2.me/theorems/b09891ad-3402-47fd-ad66-b8740a5e3d96

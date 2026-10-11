@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_densConfV_zero_alpha_tendsto_atBot
 -- name    : BookProof.ScalaronDensitized.densConfV_zero_alpha_tendsto_atBot
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:20:30.814553+00:00
 -- url     : https://prove2.me/theorems/b40e11c5-ed89-4d07-8c84-1bbbbd9ec2e4

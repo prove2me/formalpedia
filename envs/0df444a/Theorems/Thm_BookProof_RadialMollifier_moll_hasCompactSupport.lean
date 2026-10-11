@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_moll_hasCompactSupport
 -- name    : BookProof.RadialMollifier.moll_hasCompactSupport
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:01:44.000925+00:00
 -- url     : https://prove2.me/theorems/fed79736-7baa-48c8-a99e-bfab75a92617

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_one_sub_attendedMass_eq
 -- name    : BookProof.ChapterAttentionSparse.one_sub_attendedMass_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:49:18.26341+00:00
 -- url     : https://prove2.me/theorems/b696bd4c-97ff-4c0e-943b-70e8037f599b

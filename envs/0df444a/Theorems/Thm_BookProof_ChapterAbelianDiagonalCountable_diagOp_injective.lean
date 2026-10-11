@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianDiagonalCountable_diagOp_injective
 -- name    : BookProof.ChapterAbelianDiagonalCountable.diagOp_injective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:17:48.123308+00:00
 -- url     : https://prove2.me/theorems/c23bd13f-657b-4c28-9764-996c4373865f

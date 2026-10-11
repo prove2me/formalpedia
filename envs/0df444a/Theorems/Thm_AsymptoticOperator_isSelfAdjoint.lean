@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_isSelfAdjoint
 -- name    : AsymptoticOperator.isSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:32:31.536004+00:00
 -- url     : https://prove2.me/theorems/692683ce-e806-4241-ae55-3006d4b54d78

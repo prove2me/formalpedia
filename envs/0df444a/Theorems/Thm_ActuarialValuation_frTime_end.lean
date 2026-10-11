@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frTime_end
 -- name    : ActuarialValuation.frTime_end
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:31.249267+00:00
 -- url     : https://prove2.me/theorems/a96f7460-6c9a-45b3-bce0-6362a56b4da7

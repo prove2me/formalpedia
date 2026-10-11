@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_Comparison_isPositiveSelfAdjointExtension
 -- name    : BookProof.QgOuterFockFL.Comparison.isPositiveSelfAdjointExtension
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:20:39.505327+00:00
 -- url     : https://prove2.me/theorems/d8530239-3ada-4b6e-b7d4-d03bf2ca8f20

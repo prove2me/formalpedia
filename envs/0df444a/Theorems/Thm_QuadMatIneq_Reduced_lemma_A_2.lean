@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Reduced_lemma_A_2
 -- name    : QuadMatIneq.Reduced.lemma_A_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:59:08.536976+00:00
 -- url     : https://prove2.me/theorems/538e95eb-6d71-43cf-a9d5-feaf4247c98a

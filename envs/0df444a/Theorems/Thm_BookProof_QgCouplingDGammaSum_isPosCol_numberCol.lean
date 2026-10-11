@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_isPosCol_numberCol
 -- name    : BookProof.QgCouplingDGammaSum.isPosCol_numberCol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:19:10.545877+00:00
 -- url     : https://prove2.me/theorems/a8caa320-15ec-4985-b194-ebcdaec2cdba

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Static_chain_16_21
 -- name    : RobustPoA.Static.chain_16_21
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:42:02.323647+00:00
 -- url     : https://prove2.me/theorems/430f103b-a45d-431d-a831-cd10c26be90f

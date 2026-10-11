@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whFitPenalty_zero
 -- name    : ActuarialValuation.whFitPenalty_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:35.527983+00:00
 -- url     : https://prove2.me/theorems/98fc0604-5ae0-4cfe-a549-e3aef72c607f

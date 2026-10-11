@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerPoissonZero_zero
 -- name    : ActuarialValuation.panjerPoissonZero_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:23.727306+00:00
 -- url     : https://prove2.me/theorems/784e3be8-fc26-4267-a27f-3d52d90d0700

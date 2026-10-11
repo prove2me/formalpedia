@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailCDF_zero_range
 -- name    : ActuarialValuation.tailCDF_zero_range
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:44:27.150622+00:00
 -- url     : https://prove2.me/theorems/b3f970b3-64ce-4a79-874a-dc77855218cc

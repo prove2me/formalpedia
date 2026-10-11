@@ -10,6 +10,8 @@
 --   For 0<a<1 and every real r, Re digamma(a) <= Re digamma(a+i r). This is exactly the existing native theorem, proved using the existing convergent digamma series and termwise reciprocal real-part comparison. The current-toolchain community series theorem is reused rather than republished. No positivity, gamma lower-bound, zero-tail or RH assumption is introduced.
 -- source:
 --   monocap-tech/weil at 5ba603ccaacf5ea1172c6cf087b8c5f33f029bb5; ArchimedeanEnergy.lean. Original native declarations unchanged. Independent Mathlib-only platform proof audit recovers the original HasSum digamma series.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 2f1e1920ae4ce206766c437e7f8838864fc03d80, WeilDefect/Connes/ArchimedeanEnergy.lean, SHA256 79960551f3412700bbf2f1a1e509f3fe41e017d10a0bd45c5a92e378561a9f49. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Mathlib
 import Theorems.Thm_Zeta23_DigammaSeries_hasSum_digamma_series

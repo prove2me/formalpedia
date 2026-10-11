@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCrossEntropyGradient_crossEntropyLoss_eq_neg_log
 -- name    : BookProof.ChapterCrossEntropyGradient.crossEntropyLoss_eq_neg_log
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:24:47.000003+00:00
 -- url     : https://prove2.me/theorems/c7ce1252-4e92-4d98-8fc3-213f08fca1c3

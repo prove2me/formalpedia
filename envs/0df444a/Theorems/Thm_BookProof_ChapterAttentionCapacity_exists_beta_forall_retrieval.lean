@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCapacity_exists_beta_forall_retrieval
 -- name    : BookProof.ChapterAttentionCapacity.exists_beta_forall_retrieval
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:20:21.746817+00:00
 -- url     : https://prove2.me/theorems/cc8a0957-3332-4160-8d9e-c06dc0cdbf49

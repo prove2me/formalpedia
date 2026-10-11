@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_AffineFiber_le_amp
 -- name    : BookProof.NavierStokesFlow.AffineFiber.le_amp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T16:49:55.473974+00:00
 -- url     : https://prove2.me/theorems/43765124-b81e-432e-b199-5a4627df271e

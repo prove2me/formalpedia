@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_fundamentalSolution_symplectic
 -- name    : AsymptoticOperator.fundamentalSolution_symplectic
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:34:34.186135+00:00
 -- url     : https://prove2.me/theorems/23c1826b-0310-4706-a473-f150e5e2770b

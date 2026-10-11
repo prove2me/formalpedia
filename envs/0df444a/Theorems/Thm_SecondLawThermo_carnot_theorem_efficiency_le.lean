@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_carnot_theorem_efficiency_le
 -- name    : SecondLawThermo.carnot_theorem_efficiency_le
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:00.71599+00:00
 -- url     : https://prove2.me/theorems/a6668366-9713-4490-abc3-4784ed1126b3

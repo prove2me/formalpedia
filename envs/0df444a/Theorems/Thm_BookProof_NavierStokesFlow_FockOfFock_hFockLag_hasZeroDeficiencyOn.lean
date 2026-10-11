@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_hFockLag_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FockOfFock.hFockLag_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:10:55.449956+00:00
 -- url     : https://prove2.me/theorems/764cc0b3-af4f-4e74-9074-c438ed582019

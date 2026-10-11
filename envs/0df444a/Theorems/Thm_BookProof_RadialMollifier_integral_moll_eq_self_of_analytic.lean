@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_integral_moll_eq_self_of_analytic
 -- name    : BookProof.RadialMollifier.integral_moll_eq_self_of_analytic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:02:39.004985+00:00
 -- url     : https://prove2.me/theorems/b13cbf3a-3327-4631-a4a2-a7d4e6e8d2d3

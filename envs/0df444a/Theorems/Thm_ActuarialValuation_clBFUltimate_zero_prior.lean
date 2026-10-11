@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clBFUltimate_zero_prior
 -- name    : ActuarialValuation.clBFUltimate_zero_prior
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:49:42.972982+00:00
 -- url     : https://prove2.me/theorems/d291ef6d-42dc-47de-9818-aaf0728af1e0

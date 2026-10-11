@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubSuperStoch_SubSpec_theorem_2_2
 -- name    : SubSuperStoch.SubSpec.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:31.61706+00:00
 -- url     : https://prove2.me/theorems/ab0e344c-40fe-440e-9dff-6162f975fcea

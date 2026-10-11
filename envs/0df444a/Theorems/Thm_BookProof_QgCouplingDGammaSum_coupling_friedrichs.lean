@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_coupling_friedrichs
 -- name    : BookProof.QgCouplingDGammaSum.coupling_friedrichs
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:17:47.474304+00:00
 -- url     : https://prove2.me/theorems/0aaee36b-76d2-4a02-8bc0-f2546f0ed5c1

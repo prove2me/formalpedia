@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterNumericalRangeSemigroup_norm_exp_le_one
 -- name    : BookProof.ChapterNumericalRangeSemigroup.norm_exp_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:17:07.747175+00:00
 -- url     : https://prove2.me/theorems/2a609d5e-6be9-411b-bc49-3e40844203ee

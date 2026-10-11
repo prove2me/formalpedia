@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_radialBump_contDiff
 -- name    : BookProof.RadialMollifier.radialBump_contDiff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:59:33.879978+00:00
 -- url     : https://prove2.me/theorems/b6964e9c-3ffd-465c-a7b9-6f115f1d8634

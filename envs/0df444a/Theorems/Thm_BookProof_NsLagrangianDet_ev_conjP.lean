@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_ev_conjP
 -- name    : BookProof.NsLagrangianDet.ev_conjP
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:55:42.362755+00:00
 -- url     : https://prove2.me/theorems/162fe425-fde4-442f-8864-57359384d48b

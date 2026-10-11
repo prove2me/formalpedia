@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whWeightedFit_zero_weight
 -- name    : ActuarialValuation.whWeightedFit_zero_weight
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:02.793999+00:00
 -- url     : https://prove2.me/theorems/09d19aff-1439-4040-9905-15fd6cdb5d73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_mertens_constant_theta_integral
 -- name    : TaoFivePrimes.mertens_constant_theta_integral
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-09-27T22:48:09.639426+00:00
 -- url     : https://prove2.me/theorems/e63c5cbb-0d82-44b1-8430-97f986e5b232

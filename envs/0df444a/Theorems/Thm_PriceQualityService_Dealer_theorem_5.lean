@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Dealer_theorem_5
 -- name    : PriceQualityService.Dealer.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:33:15.159883+00:00
 -- url     : https://prove2.me/theorems/b96d27fa-4307-4bde-8752-ef1b390764ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_isColumnStochastic_eq_Mab
 -- name    : BookProof.ProbabilityClockStochastic.isColumnStochastic_eq_Mab
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:56:04.762579+00:00
 -- url     : https://prove2.me/theorems/502a1c1c-a99d-4219-8911-037cc636b344

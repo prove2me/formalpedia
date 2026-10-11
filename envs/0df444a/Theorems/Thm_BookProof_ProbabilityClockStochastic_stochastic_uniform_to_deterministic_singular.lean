@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_stochastic_uniform_to_deterministic_singular
 -- name    : BookProof.ProbabilityClockStochastic.stochastic_uniform_to_deterministic_singular
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:56:39.570394+00:00
 -- url     : https://prove2.me/theorems/458bbc4c-110a-4228-8487-479d0a6e65db

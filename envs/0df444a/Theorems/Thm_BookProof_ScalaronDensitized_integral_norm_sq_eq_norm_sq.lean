@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_integral_norm_sq_eq_norm_sq
 -- name    : BookProof.ScalaronDensitized.integral_norm_sq_eq_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:21:45.162175+00:00
 -- url     : https://prove2.me/theorems/738161b9-a6d7-430b-88fd-0492eba483bd

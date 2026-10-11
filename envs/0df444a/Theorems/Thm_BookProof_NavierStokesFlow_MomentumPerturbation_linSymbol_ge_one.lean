@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_linSymbol_ge_one
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.linSymbol_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:19.075181+00:00
 -- url     : https://prove2.me/theorems/108957a9-41ba-41d2-9bcc-813675e6dc3f

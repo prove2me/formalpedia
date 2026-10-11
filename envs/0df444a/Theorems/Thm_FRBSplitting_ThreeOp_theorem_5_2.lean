@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_ThreeOp_theorem_5_2
 -- name    : FRBSplitting.ThreeOp.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:45:00.046004+00:00
 -- url     : https://prove2.me/theorems/1fd98c63-bc68-40da-9997-1c0babfc6d39

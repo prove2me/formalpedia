@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailExcess_nonneg
 -- name    : ActuarialValuation.tailExcess_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:31:08.766841+00:00
 -- url     : https://prove2.me/theorems/af26f2ab-37d0-4aab-8192-1bf5d2d255a6

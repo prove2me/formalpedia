@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JaggiFW_Sparsity_lemma_4
 -- name    : JaggiFW.Sparsity.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:47.111463+00:00
 -- url     : https://prove2.me/theorems/05548f16-3beb-48c5-aec8-d520f4819907

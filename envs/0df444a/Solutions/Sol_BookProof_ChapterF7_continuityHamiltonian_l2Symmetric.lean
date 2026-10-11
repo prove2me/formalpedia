@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterF7.continuityHamiltonian_l2Symmetric
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T07:09:03.046998+00:00
 -- url     : https://prove2.me/submissions/32ecf311-46cd-4eb5-b653-c9fd81194db9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterF7.lean — solution of BookProof.ChapterF7.continuityHamiltonian_l2Symmetric
 import Mathlib

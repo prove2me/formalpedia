@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_MultTight_theorem_8
 -- name    : QCQPTightness.MultTight.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:10.520788+00:00
 -- url     : https://prove2.me/theorems/cc902ff4-bb2d-41a9-84e9-34b112306cd4

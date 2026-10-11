@@ -12,6 +12,8 @@
 --   The full-positive synthesis retains all actual zeros. Finite dimensionality is established for the original selected coefficient space by its coordinate injection. No original actor, zero set or physical metric is replaced, and no arithmetic endpoint lower bound or RH is assumed.
 -- source:
 --   monocap-tech/weil at native base b019d40205680f9761a4b0a80cbcad56ee1b606b; new Screening/MarkerLimit.lean and Connes/CanonicalGreenMarkerLimit.lean. Exact certified sources in Connes_Weil_Original_Picard_Limit.zip. The inner norm limit is proved; critical support location, outer endpoint transfer and unconditional RH are not asserted.
+--
+--   Literature/source audit addendum (2026-10-11; COR-06): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 7c5b1bc48d1cd2dd7385b1e634cd33a1e95550c7, WeilDefect/Connes/CanonicalGreenMarkerLimit.lean, SHA256 038aadad3b382956e6a4af63cb0ba379e37966f4bdd0088c478c3edf01df35e8. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_actual_pair_columns
 import Definitions.Def_WeilMarker_regularized_cost

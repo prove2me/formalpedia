@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_Sharp_proposition_2
 -- name    : QCQPTightness.Sharp.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:23:30.441199+00:00
 -- url     : https://prove2.me/theorems/73a47975-df97-41c5-9731-9deb1b26d27b

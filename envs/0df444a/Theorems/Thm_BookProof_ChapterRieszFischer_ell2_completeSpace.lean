@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRieszFischer_ell2_completeSpace
 -- name    : BookProof.ChapterRieszFischer.ell2_completeSpace
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:17:37.599712+00:00
 -- url     : https://prove2.me/theorems/1a4374eb-6a5b-4c5b-b787-cb08828a93a5

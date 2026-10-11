@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EinsteinFieldEquationsD_vacuum_field_equations_iff
 -- name    : EinsteinFieldEquationsD.vacuum_field_equations_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:15:14.514773+00:00
 -- url     : https://prove2.me/theorems/09b144de-7744-4ddb-baac-65bdc52db925

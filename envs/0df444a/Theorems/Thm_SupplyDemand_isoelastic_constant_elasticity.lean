@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_isoelastic_constant_elasticity
 -- name    : SupplyDemand.isoelastic_constant_elasticity
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:15.311859+00:00
 -- url     : https://prove2.me/theorems/dad1850d-ecdb-4b8c-8d2d-8f75aabdd496

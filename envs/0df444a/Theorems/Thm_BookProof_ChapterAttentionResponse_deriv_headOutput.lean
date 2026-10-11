@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionResponse_deriv_headOutput
 -- name    : BookProof.ChapterAttentionResponse.deriv_headOutput
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:42:13.896142+00:00
 -- url     : https://prove2.me/theorems/1aec5429-29d4-465f-b2bd-e2894d3ffeab

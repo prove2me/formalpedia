@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_cash_or_nothing_value
 -- name    : BlackScholesModel.cash_or_nothing_value
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:38:11.776594+00:00
 -- url     : https://prove2.me/theorems/075c92a7-57d4-44a3-b0d6-31a03d6f8ac2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_efficiency_eq_one_sub_abs_ratio
 -- name    : SecondLawThermo.efficiency_eq_one_sub_abs_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:25:35.090062+00:00
 -- url     : https://prove2.me/theorems/73582d4e-31c1-45c4-a946-8732a9ab3c59

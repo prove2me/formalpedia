@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMixedPrior_isProbabilityMeasure_normalizedContinuousPart
 -- name    : BookProof.ChapterMixedPrior.isProbabilityMeasure_normalizedContinuousPart
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:10:18.89215+00:00
 -- url     : https://prove2.me/theorems/c99ad6d0-1a59-4e52-b854-04fbd6a35e95

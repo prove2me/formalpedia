@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Grunbaum2003_compact_convex_nonpolytope_infinite_extreme
 -- name    : Grunbaum2003.compact_convex_nonpolytope_infinite_extreme
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-10T00:06:35.809483+00:00
 -- url     : https://prove2.me/theorems/224054d5-0471-4884-9f01-38fd1c0d574d

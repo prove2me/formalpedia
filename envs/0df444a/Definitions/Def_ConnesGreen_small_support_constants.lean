@@ -10,6 +10,8 @@
 --   Exact unchanged native positiveGammaCutoff, smallSupportCost and positiveSupportRadius. Uses the original gammaBracket definition. No positivity or RH premise.
 -- source:
 --   WeilDefect/Connes/SmallSupportPositivity.lean at f02a526d7c7fb8a43356376a2389d6f8afc08e2a; unchanged exact native definition bodies.
+--
+--   Literature/source audit addendum (2026-10-11; COR-19): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 1a32f7de3442feb804b4962bb6766304a56b5be8, WeilDefect/Connes/SmallSupportPositivity.lean, SHA256 a0e4ad5424f8aff8d42aab5683747cdd0c9a3e8249ee8a44942ae1b3ecadf8c2. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry. The unchanged graph RHS values were checked against native definitions by Lean rfl. This is source/value custody, not an assertion that contextual literature supplies the whole definition bundle.
 
 import Definitions.Def_Zeta23_ExplicitFormula
 noncomputable section

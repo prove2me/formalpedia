@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaysLaw_hoarding_permits_general_glut
 -- name    : SaysLaw.hoarding_permits_general_glut
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:42.46247+00:00
 -- url     : https://prove2.me/theorems/9c0c36d1-6969-4f16-9193-11a86d3e257a

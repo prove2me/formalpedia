@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterLayerNorm.scoreSoftmax_layerNorm_ge
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:21:10.317069+00:00
 -- url     : https://prove2.me/submissions/a3808831-0cee-4a8b-a860-44e01d012134
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterLayerNorm.lean — solution of BookProof.ChapterLayerNorm.scoreSoftmax_layerNorm_ge
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_det_eq_one_of_volPot_eq_zero
 -- name    : BookProof.NsLagrangianDet.det_eq_one_of_volPot_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:56:08.825046+00:00
 -- url     : https://prove2.me/theorems/a8a79005-6614-4ef4-9630-2427e2df61d6

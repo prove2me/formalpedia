@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JaggiFW_Sparsity_support_convexHull
 -- name    : JaggiFW.Sparsity.support_convexHull
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:23.539354+00:00
 -- url     : https://prove2.me/theorems/d1d379d5-bff9-47e4-8c0e-b16ef25783b8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_conservativeHamiltonian_l2Symmetric
 -- name    : BookProof.ChapterF7.conservativeHamiltonian_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:07:36.912454+00:00
 -- url     : https://prove2.me/theorems/5448226a-6277-45c2-9bca-8e17801deecc

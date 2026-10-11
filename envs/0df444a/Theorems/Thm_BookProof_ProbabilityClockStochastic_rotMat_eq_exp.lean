@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_rotMat_eq_exp
 -- name    : BookProof.ProbabilityClockStochastic.rotMat_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:15:16.112984+00:00
 -- url     : https://prove2.me/theorems/1db0cbe7-53d2-43d3-99e6-ef63f20c615c

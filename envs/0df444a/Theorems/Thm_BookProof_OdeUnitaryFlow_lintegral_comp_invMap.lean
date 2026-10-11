@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_lintegral_comp_invMap
 -- name    : BookProof.OdeUnitaryFlow.lintegral_comp_invMap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:03:42.707788+00:00
 -- url     : https://prove2.me/theorems/54abc2bb-e133-411e-a1a9-2fefa13f7bed

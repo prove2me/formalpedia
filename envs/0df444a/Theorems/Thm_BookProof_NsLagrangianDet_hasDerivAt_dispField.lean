@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_hasDerivAt_dispField
 -- name    : BookProof.NsLagrangianDet.hasDerivAt_dispField
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:55:25.733205+00:00
 -- url     : https://prove2.me/theorems/5dc8fa3d-7d7c-4db9-9981-bc4ac4d71c6d

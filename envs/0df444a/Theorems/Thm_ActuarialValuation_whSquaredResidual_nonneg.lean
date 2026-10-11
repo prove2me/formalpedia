@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whSquaredResidual_nonneg
 -- name    : ActuarialValuation.whSquaredResidual_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:14:19.471553+00:00
 -- url     : https://prove2.me/theorems/98103162-e2f3-46fd-a7a4-39ef3323ec77

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutput_tendsto_headOutput
 -- name    : BookProof.ChapterAttentionOutput.tendsto_headOutput
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:33:52.163949+00:00
 -- url     : https://prove2.me/theorems/2594386d-0fda-4a68-9d7c-ebfe7feac87e

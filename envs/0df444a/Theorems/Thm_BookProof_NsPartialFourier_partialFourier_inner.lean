@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsPartialFourier_partialFourier_inner
 -- name    : BookProof.NsPartialFourier.partialFourier_inner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:56:33.304046+00:00
 -- url     : https://prove2.me/theorems/b13d4127-4061-4ad8-ac17-4e90e7ca44f1

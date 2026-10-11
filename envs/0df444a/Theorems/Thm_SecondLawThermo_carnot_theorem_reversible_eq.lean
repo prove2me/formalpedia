@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_carnot_theorem_reversible_eq
 -- name    : SecondLawThermo.carnot_theorem_reversible_eq
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:23.432036+00:00
 -- url     : https://prove2.me/theorems/97574aca-2d93-4030-9987-de9c48a99c9e

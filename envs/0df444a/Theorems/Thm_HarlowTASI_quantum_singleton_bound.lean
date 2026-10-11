@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_quantum_singleton_bound
 -- name    : HarlowTASI.quantum_singleton_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:12:31.383129+00:00
 -- url     : https://prove2.me/theorems/55b34047-7f59-4cda-966d-842b17602d7c

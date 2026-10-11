@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_classicalSol_tendsto_atTop
 -- name    : BookProof.OdeUnitaryFlow.classicalSol_tendsto_atTop
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:43:37.471046+00:00
 -- url     : https://prove2.me/theorems/0532f680-b2ea-4ad6-aef4-5ff771b1c190

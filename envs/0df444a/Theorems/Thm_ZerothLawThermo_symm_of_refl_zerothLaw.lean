@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_symm_of_refl_zerothLaw
 -- name    : ZerothLawThermo.symm_of_refl_zerothLaw
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:09.158422+00:00
 -- url     : https://prove2.me/theorems/b3d11956-598c-471e-875f-ed9076f123a5

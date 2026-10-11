@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravityNonRenorm_flat_bh_entropy_eq32
 -- name    : GravityNonRenorm.flat_bh_entropy_eq32
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:35.378345+00:00
 -- url     : https://prove2.me/theorems/063259c1-fd02-4876-b7fa-b8448f1fdf8b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighResODE_NAGSCODE_theorem_1
 -- name    : HighResODE.NAGSCODE.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T15:36:32.257273+00:00
 -- url     : https://prove2.me/theorems/214614be-3797-48cd-b05f-196a904a2825

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMarkov_attentionMatrix_pos
 -- name    : BookProof.ChapterAttentionMarkov.attentionMatrix_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:27:06.456548+00:00
 -- url     : https://prove2.me/theorems/c5105abf-72b2-4e97-bc7f-70c897b84244

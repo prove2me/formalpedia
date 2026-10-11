@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityHypercharge_hyperPhase_zero
 -- name    : BookProof.ChapterParityHypercharge.hyperPhase_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:08:30.124628+00:00
 -- url     : https://prove2.me/theorems/2638412d-f8c7-4b1b-849c-904319f9a059

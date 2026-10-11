@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_hasDiscreteEigenbasis
 -- name    : AsymptoticOperator.hasDiscreteEigenbasis
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:32:44.426967+00:00
 -- url     : https://prove2.me/theorems/c71b1fa7-53d0-44d6-9539-899ae33a1fd4

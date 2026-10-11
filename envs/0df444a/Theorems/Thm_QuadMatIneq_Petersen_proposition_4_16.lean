@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Petersen_proposition_4_16
 -- name    : QuadMatIneq.Petersen.proposition_4_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:55.467044+00:00
 -- url     : https://prove2.me/theorems/5cbd3e8a-326d-4d04-8bff-ab08f2226e8e

@@ -10,6 +10,8 @@
 --   For $t>0$ and an original smooth test $g$ supported inside $(-t,t)$, the original source representative of $Lg$ satisfies $\|\operatorname{sourceEmbed}_t(Lg)\|^2=\int_{\mathbb R}|g^\prime(x)|^2\,dx+\tfrac14\int_{\mathbb R}|g(x)|^2\,dx$. Thus its physical norm is independent of any enclosing support window. This is the certified original Green quotient carrier and original Dirichlet metric, with no new metric, carrier replacement or extra norm premise.
 -- source:
 --   monocap-tech/weil native base b019d40205680f9761a4b0a80cbcad56ee1b606b; exact new sources Screening/MarkerMargin.lean and Connes/CanonicalGreenMarkerMargin.lean in Connes_Weil_Uniform_Marker_Margin.zip. Explicit reductions, not unconditional arithmetic marker positivity or RH.
+--
+--   Literature/source audit addendum (2026-10-11; COR-11): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 5999649ed66d79a903f2d0dceca4a8c37093fe71, WeilDefect/Connes/CanonicalGreenMarkerMargin.lean, SHA256 d7f3262eb5f2c58a0c587c40ad95a0f0296ad6001deca01996795dc386df6b4a. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_canonical_model
 open Complex MeasureTheory ConnesRZ ConnesRZFrontier ConnesGreen WeilDefect WeilDefect.ConnesNative

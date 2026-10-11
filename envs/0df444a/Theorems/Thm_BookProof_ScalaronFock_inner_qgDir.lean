@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_inner_qgDir
 -- name    : BookProof.ScalaronFock.inner_qgDir
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:23:27.076462+00:00
 -- url     : https://prove2.me/theorems/70c2711c-a475-49fa-bbfb-deead2d8f5f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvLoading_zero
 -- name    : ActuarialValuation.pvLoading_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:09.303237+00:00
 -- url     : https://prove2.me/theorems/d23279c4-32fa-4601-b1e6-a146f1b3a19b

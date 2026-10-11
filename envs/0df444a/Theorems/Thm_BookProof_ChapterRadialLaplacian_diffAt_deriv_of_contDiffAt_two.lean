@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRadialLaplacian_diffAt_deriv_of_contDiffAt_two
 -- name    : BookProof.ChapterRadialLaplacian.diffAt_deriv_of_contDiffAt_two
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:58:48.238982+00:00
 -- url     : https://prove2.me/theorems/b6c63c3f-6a7a-4e3b-b5e3-4f156af7c660

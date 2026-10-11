@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_Revelation_induced_V_eq_W
 -- name    : MyersonBargaining.Revelation.induced_V_eq_W
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:44:20.7895+00:00
 -- url     : https://prove2.me/theorems/2a8bf5a4-13c6-4163-a829-92200d7c11bb

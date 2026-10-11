@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_eq_div_of_mul_eq_ae
 -- name    : BookProof.NsFieldMomentumInverse.eq_div_of_mul_eq_ae
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:54:22.377129+00:00
 -- url     : https://prove2.me/theorems/354a5da7-32ff-4c85-b707-fa6b3628a1d5

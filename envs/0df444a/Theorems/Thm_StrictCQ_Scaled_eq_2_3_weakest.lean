@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_Scaled_eq_2_3_weakest
 -- name    : StrictCQ.Scaled.eq_2_3_weakest
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:58:01.128893+00:00
 -- url     : https://prove2.me/theorems/14ae9d9a-77cb-4610-b1e2-73599178380d

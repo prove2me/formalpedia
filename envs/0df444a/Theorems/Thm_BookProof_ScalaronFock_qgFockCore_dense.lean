@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_qgFockCore_dense
 -- name    : BookProof.ScalaronFock.qgFockCore_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:24:38.000556+00:00
 -- url     : https://prove2.me/theorems/22794e46-8999-470e-9c57-dc864643bbbf

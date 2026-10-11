@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_summable_mul_shift
 -- name    : BookProof.NavierStokesFlow.Carleman.summable_mul_shift
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:36:35.831348+00:00
 -- url     : https://prove2.me/theorems/16572e59-193a-45c7-843d-54bdfebbf3fa

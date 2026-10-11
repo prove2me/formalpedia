@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_relMass_properties
 -- name    : MassEnergyEquivalence.relMass_properties
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:13:19.417923+00:00
 -- url     : https://prove2.me/theorems/1dd3c770-f6fb-49ad-b67c-0218179deaee

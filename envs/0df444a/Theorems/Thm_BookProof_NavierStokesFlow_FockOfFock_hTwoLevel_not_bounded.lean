@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_hTwoLevel_not_bounded
 -- name    : BookProof.NavierStokesFlow.FockOfFock.hTwoLevel_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:10:42.095976+00:00
 -- url     : https://prove2.me/theorems/709e4827-61f3-4ace-a0b4-3c9d30996fd6

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoFivePrimes.reciprocal_primes_theta_tail_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-09-27T22:53:57.180509+00:00
 -- url     : https://prove2.me/submissions/53056fb5-05da-40d1-b00d-32aa3565e0ad
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_TaoFivePrimes_reciprocal_primes_theta_partial_summation
 import Theorems.Thm_TaoFivePrimes_mertens_constant_theta_integral

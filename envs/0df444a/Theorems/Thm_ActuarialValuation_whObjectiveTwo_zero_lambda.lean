@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whObjectiveTwo_zero_lambda
 -- name    : ActuarialValuation.whObjectiveTwo_zero_lambda
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:54.042296+00:00
 -- url     : https://prove2.me/theorems/da63a75f-e60c-4914-93d9-ef64c6c74ef4

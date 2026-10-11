@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_momentum_conservation_of_third_law
 -- name    : ConservationLaws.momentum_conservation_of_third_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:25:50.616339+00:00
 -- url     : https://prove2.me/theorems/b7eb62c2-f5f5-44e2-b480-c9b5cd9e1966

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCayleyInverse_invCayleyDomain_cayley
 -- name    : BookProof.ChapterCayleyInverse.invCayleyDomain_cayley
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:37:53.611566+00:00
 -- url     : https://prove2.me/theorems/0dae802e-f778-4d06-ba53-85f5fe5f0651

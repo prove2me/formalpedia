@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionLocality.norm_headOutput_window_sub_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T16:43:15.575712+00:00
 -- url     : https://prove2.me/submissions/bae5716a-58f9-4876-a168-790cd47c361a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionLocality.lean — solution of BookProof.ChapterAttentionLocality.norm_headOutput_window_sub_le
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_PermSector_tensor_triple_induction
 -- name    : BookProof.PermSector.tensor_triple_induction
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:33:23.082267+00:00
 -- url     : https://prove2.me/theorems/547405ce-1153-4c61-ae0a-3cfab3cfbafb

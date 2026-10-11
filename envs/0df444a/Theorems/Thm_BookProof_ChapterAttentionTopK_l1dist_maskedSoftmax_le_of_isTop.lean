@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionTopK_l1dist_maskedSoftmax_le_of_isTop
 -- name    : BookProof.ChapterAttentionTopK.l1dist_maskedSoftmax_le_of_isTop
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T09:48:27.205351+00:00
 -- url     : https://prove2.me/theorems/9f73fb5e-030a-4746-bcdb-f5f7a7b49288

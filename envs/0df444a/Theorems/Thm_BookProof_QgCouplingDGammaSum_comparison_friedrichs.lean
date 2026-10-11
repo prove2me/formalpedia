@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_comparison_friedrichs
 -- name    : BookProof.QgCouplingDGammaSum.comparison_friedrichs
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:20:07.237601+00:00
 -- url     : https://prove2.me/theorems/fb3bb4ab-126e-47f9-bdea-ffd29b54ee52

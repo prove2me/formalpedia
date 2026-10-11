@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Auction_properties_b_c
 -- name    : CompOT.Auction.properties_b_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:05.819474+00:00
 -- url     : https://prove2.me/theorems/229adf5f-b75e-426a-b29e-d88bb7078fb4

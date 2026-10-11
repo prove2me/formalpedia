@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_qgGhostCar
 -- name    : BookProof.QuantumGravityBrstCharge.qgGhostCar
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:38:03.401681+00:00
 -- url     : https://prove2.me/theorems/3adea652-c6eb-4077-a295-e383a82da317

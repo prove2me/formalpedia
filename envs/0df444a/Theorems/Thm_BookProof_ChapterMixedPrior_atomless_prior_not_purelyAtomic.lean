@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMixedPrior_atomless_prior_not_purelyAtomic
 -- name    : BookProof.ChapterMixedPrior.atomless_prior_not_purelyAtomic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:08:59.967149+00:00
 -- url     : https://prove2.me/theorems/84019c7a-a91a-4e0e-9025-fbecac3cc949

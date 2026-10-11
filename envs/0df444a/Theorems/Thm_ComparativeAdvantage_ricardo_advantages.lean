@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_ricardo_advantages
 -- name    : ComparativeAdvantage.ricardo_advantages
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:12.394033+00:00
 -- url     : https://prove2.me/theorems/9cf014d4-a749-4d8f-a944-f2eaaefeec88

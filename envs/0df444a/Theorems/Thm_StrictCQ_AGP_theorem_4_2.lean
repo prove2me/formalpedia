@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_AGP_theorem_4_2
 -- name    : StrictCQ.AGP.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T22:38:20.31505+00:00
 -- url     : https://prove2.me/theorems/b753028e-1d85-4eab-82ee-6427ea859a74

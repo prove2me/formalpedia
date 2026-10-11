@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionSparse.l1dist_maskedSoftmax_le_of_mass
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T18:41:22.790038+00:00
 -- url     : https://prove2.me/submissions/c543e4cb-b8a2-40ef-98a5-1a4d3a3cf3bd
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionSparse.lean — solution of BookProof.ChapterAttentionSparse.l1dist_maskedSoftmax_le_of_mass
 import Mathlib

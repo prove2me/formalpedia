@@ -10,6 +10,8 @@
 --   For an original smooth test supported in $(-t,t)$, with $t>0$ and an integer $N>e^{2t}$, the entire prime term of its self-convolution satisfies $$|\operatorname{primeSum}(g*\widetilde g)|\le4\|\operatorname{sourceEmbed}_t(Lg)\|^2\sum_{n<N}\frac{\Lambda(n)}{\sqrt n}\max(2t-|\log n|,0).$$ The finite cutoff follows from the original prime HasSum theorem, and the bound uses the accepted overlap estimate and exact original physical norm. All natural-number terms are retained; the terms at zero and one vanish by the original von Mangoldt function, with no index convention change.
 -- source:
 --   monocap-tech/weil: WeilDefect/Connes/RG0DependencyIntegration.lean, original actor and metric adapters at 4ba3a3a569d72a0d5af2ba6ea320f948030dcca5; proof and statement boundaries recovered with Lean elaborator metadata.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 85efc7ebf14b48f57653974640a9b77ec91f18e6, WeilDefect/Connes/RG0DependencyIntegration.lean, SHA256 1eb8d44c8d4b24bf6c94b53e3223e282d8710c1acc0523aed629c0dbafc63ccb. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Theorems.Thm_ConnesGreen_prime_convolution_hasSum_exp_cutoff
 import Theorems.Thm_ConnesGreen_convolution_overlap_dirichlet_energy_bound

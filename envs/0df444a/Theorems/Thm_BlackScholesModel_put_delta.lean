@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_put_delta
 -- name    : BlackScholesModel.put_delta
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:57.457069+00:00
 -- url     : https://prove2.me/theorems/1e9106b9-d588-4514-852f-d48e66b0b80c

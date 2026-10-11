@@ -10,6 +10,8 @@
 --   For every unchanged smooth compactly supported original test g, the real function r -> |mellinHat(g,1/2+i r)|^2 is integrable over the full real line. The proof uses the original test as a Schwartz function, the Mathlib Fourier transform, and the exact frequency dictionary with rescaling -r/(2 pi). It establishes genuine full-line integrability without relying on total-integral defaults or an assumed convergence premise.
 -- source:
 --   monocap-tech/weil at 81bd36c79198ad2c58167b3ef2421d1c1e4439e2; ArchimedeanEnergy.lean. Original native declarations unchanged. Exact native definition normalization checks accompany both ports.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 2f1e1920ae4ce206766c437e7f8838864fc03d80, WeilDefect/Connes/ArchimedeanEnergy.lean, SHA256 79960551f3412700bbf2f1a1e509f3fe41e017d10a0bd45c5a92e378561a9f49. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesRZ_weil_defs
 import Mathlib.Analysis.Distribution.SchwartzSpace.Fourier

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerWeightedSeverity_zero
 -- name    : ActuarialValuation.panjerWeightedSeverity_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:34:26.900642+00:00
 -- url     : https://prove2.me/theorems/cbf3d82c-c533-4332-97fd-f6a33a94cdd6

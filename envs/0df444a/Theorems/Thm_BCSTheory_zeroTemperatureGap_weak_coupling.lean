@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_zeroTemperatureGap_weak_coupling
 -- name    : BCSTheory.zeroTemperatureGap_weak_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:23:42.879995+00:00
 -- url     : https://prove2.me/theorems/be832b61-a1ba-440b-a77e-082c21750429

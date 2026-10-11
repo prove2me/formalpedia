@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvExpected_zero
 -- name    : ActuarialValuation.pvExpected_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:38.077464+00:00
 -- url     : https://prove2.me/theorems/ff1a5887-f89c-440c-96cf-d4da64fa98f4

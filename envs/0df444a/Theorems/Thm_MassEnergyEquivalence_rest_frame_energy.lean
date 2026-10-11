@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_rest_frame_energy
 -- name    : MassEnergyEquivalence.rest_frame_energy
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:11:34.058455+00:00
 -- url     : https://prove2.me/theorems/b68df813-945b-40de-bcff-50486d0ead25

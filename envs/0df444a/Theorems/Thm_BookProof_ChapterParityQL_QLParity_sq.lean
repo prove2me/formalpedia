@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityQL_QLParity_sq
 -- name    : BookProof.ChapterParityQL.QLParity_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:07:47.706828+00:00
 -- url     : https://prove2.me/theorems/dd70c657-c3d5-4a9d-8b92-f91d67e1a8bd

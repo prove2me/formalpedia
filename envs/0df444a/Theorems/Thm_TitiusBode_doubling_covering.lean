@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TitiusBode_doubling_covering
 -- name    : TitiusBode.doubling_covering
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:31.872925+00:00
 -- url     : https://prove2.me/theorems/00d0c99a-5b68-4364-a0dd-57a0be556e92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_rankTwo_norm_le
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.rankTwo_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:51:48.666974+00:00
 -- url     : https://prove2.me/theorems/63dcebe2-7735-4a59-a121-49dba6c2814e

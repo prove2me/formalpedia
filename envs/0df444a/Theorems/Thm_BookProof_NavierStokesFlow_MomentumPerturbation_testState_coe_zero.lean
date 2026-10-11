@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_testState_coe_zero
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.testState_coe_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:13.907982+00:00
 -- url     : https://prove2.me/theorems/14f4a51d-d718-41b3-80e4-675a1de66c84

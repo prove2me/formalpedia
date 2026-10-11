@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravityNonRenorm_cft_entropy_exponent_eq30
 -- name    : GravityNonRenorm.cft_entropy_exponent_eq30
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:20.768673+00:00
 -- url     : https://prove2.me/theorems/91483301-0c34-483e-9762-54a988bc6afd

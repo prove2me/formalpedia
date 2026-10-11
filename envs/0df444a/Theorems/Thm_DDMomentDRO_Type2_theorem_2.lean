@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DDMomentDRO_Type2_theorem_2
 -- name    : DDMomentDRO.Type2.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:45:13.875973+00:00
 -- url     : https://prove2.me/theorems/5a300bb3-ad7e-403b-9ea5-a7309ee40332

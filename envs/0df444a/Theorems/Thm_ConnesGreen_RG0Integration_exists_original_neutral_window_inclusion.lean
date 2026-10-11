@@ -10,6 +10,8 @@
 --   For positive nested original windows and the unchanged selected actual-zero packet, if the larger original signed covariance is nonnegative, there exists an original physical isometric inclusion preserving every supported-test source representative and carrying its neutral kernel exactly to the larger neutral kernel. The accepted window inclusion and exact original source-column compression construct the inclusion and actor custody; the accepted signed compression and nonnegative-kernel theorem prove the equivalence. Larger-window positivity is explicit. No neutral attainment at the critical endpoint or unconditional persistence there is asserted.
 -- source:
 --   WeilDefect/Connes/RG0DependencyIntegration.lean; CanonicalGreenNeutralShell.lean native original window custody, unchanged actual zeros and selected packet.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 85efc7ebf14b48f57653974640a9b77ec91f18e6, WeilDefect/Connes/RG0DependencyIntegration.lean, SHA256 1eb8d44c8d4b24bf6c94b53e3223e282d8710c1acc0523aed629c0dbafc63ccb. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Theorems.Thm_ConnesGreen_RG0Integration_window_inclusion_original_source_adjoint
 import Theorems.Thm_ConnesGreen_RG0Integration_original_neutral_kernel_persists_of_source_compression

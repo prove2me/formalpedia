@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityZ4_combinedParity_sq_ne_one
 -- name    : BookProof.ChapterParityZ4.combinedParity_sq_ne_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:09:14.390951+00:00
 -- url     : https://prove2.me/theorems/61402cc2-f130-498b-a737-974b91dd366b

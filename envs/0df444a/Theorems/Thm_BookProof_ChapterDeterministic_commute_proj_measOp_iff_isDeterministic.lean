@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeterministic_commute_proj_measOp_iff_isDeterministic
 -- name    : BookProof.ChapterDeterministic.commute_proj_measOp_iff_isDeterministic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:21:31.7496+00:00
 -- url     : https://prove2.me/theorems/a9b280ba-1d79-4d43-82c1-f87798e1355c

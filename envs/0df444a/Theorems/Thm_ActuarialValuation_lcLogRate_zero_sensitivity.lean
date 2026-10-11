@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcLogRate_zero_sensitivity
 -- name    : ActuarialValuation.lcLogRate_zero_sensitivity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:29:45.061479+00:00
 -- url     : https://prove2.me/theorems/2b283ed6-0940-4704-b8d8-6077e39b064d

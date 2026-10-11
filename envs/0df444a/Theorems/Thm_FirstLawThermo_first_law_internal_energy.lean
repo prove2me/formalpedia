@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_first_law_internal_energy
 -- name    : FirstLawThermo.first_law_internal_energy
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:54:59.923983+00:00
 -- url     : https://prove2.me/theorems/01f0e9d3-2deb-48db-b906-52570c7f0128

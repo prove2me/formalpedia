@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_kernel_equiv
 -- name    : AsymptoticOperator.kernel_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:35:00.660931+00:00
 -- url     : https://prove2.me/theorems/9461b9a0-c938-4593-9c0a-6e72fdb4cd10

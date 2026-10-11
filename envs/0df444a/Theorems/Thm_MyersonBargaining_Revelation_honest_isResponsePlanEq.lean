@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_Revelation_honest_isResponsePlanEq
 -- name    : MyersonBargaining.Revelation.honest_isResponsePlanEq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:46:40.550209+00:00
 -- url     : https://prove2.me/theorems/d0f81fa1-8016-4f0a-87cf-35400008259a

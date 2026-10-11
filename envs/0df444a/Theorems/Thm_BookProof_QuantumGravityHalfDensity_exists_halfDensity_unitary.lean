@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityHalfDensity_exists_halfDensity_unitary
 -- name    : BookProof.QuantumGravityHalfDensity.exists_halfDensity_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:58:07.695753+00:00
 -- url     : https://prove2.me/theorems/d0cb000f-783c-4f26-a278-d9c3383ef2d9

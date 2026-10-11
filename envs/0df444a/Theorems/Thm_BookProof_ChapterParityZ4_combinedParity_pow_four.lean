@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityZ4_combinedParity_pow_four
 -- name    : BookProof.ChapterParityZ4.combinedParity_pow_four
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:08:52.554992+00:00
 -- url     : https://prove2.me/theorems/5d487a24-9eb7-49cf-8f64-5d89af702e34

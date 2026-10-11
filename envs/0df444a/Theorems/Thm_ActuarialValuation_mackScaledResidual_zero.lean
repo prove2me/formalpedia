@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackScaledResidual_zero
 -- name    : ActuarialValuation.mackScaledResidual_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:28:45.348977+00:00
 -- url     : https://prove2.me/theorems/f3c085bb-4b97-4424-bdc8-74a050181dd4

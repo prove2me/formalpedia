@@ -1,0 +1,400 @@
+-- Prove2me | Theorems.Thm_CLRS_FibonacciDijkstra_correctness_and_running_time
+-- name    : CLRS.FibonacciDijkstra.correctness_and_running_time
+-- status  : Proved
+-- author  : @lunjia
+-- created : 2026-10-11T00:08:28.553985+00:00
+-- url     : https://prove2.me/theorems/c14fdbba-cb59-411a-8d49-181b6e79fc8a
+-- title:
+--   CLRS Chapter 22, §22.3: Dijkstra with a Fibonacci Heap — Correctness and Running Time
+-- statement:
+--   This is a capstone of the [Algo2Lean](https://www.algo2lean.com/) formalization series for *Introduction to Algorithms* (CLRS), fourth edition: Chapter 22, §22.3, Theorem 22.6, using the Fibonacci-heap supplement.
+--
+--   There exists a universal positive constant C such that every represented directed graph with V vertices, E adjacency entries, nonnegative integer weights and a valid source has a terminating compiled Call with correct shortest distances and
+--
+--   $$T \le C\bigl(E+V(\lfloor\log_2 V\rfloor+1)\bigr).$$
+--
+--   The positive constant is quantified before every heap, graph and input; it cannot be chosen separately for each execution. The earlier exact-constant theorem remains available as an auxiliary reusable result.
+--
+--   The published Lean statement includes an additional constant $1$ in its `runtimeScale`. A valid source requires $V\ge1$, so the displayed bound absorbs that term into the unspecified constant, at most doubling it.
+--
+--   The same final heap preserves the graph and all pre-existing caller sequences, objects and typed collections, provides fresh valid output storage, and satisfies the operation-count specification. Unreachable distances are -1. T is the sum of the thirteen named source-clock increments; it excludes graph construction and uninstrumented machine operations. Alternative proofs may establish any uniform positive constant while proving exactly this same statement.
+--
+--   The `.algo` code closely follows the textbook pseudocode: initialization,
+--   minimum extraction, and adjacency relaxation appear as explicit source loops
+--   and operations. Representation choices are made explicit: `-1` denotes
+--   infinity, flags record settled vertices, and only discovered vertices enter
+--   the queue. The routine returns distances without a predecessor tree. Thus it
+--   preserves the textbook's shortest-distance algorithm for nonnegative weights,
+--   while differing from its all-vertices initial queue and literal notation.
+--
+--   ## Algorithm source
+--
+--   Project import root: `examples`. Entry file: `dijkstra/dijkstra_fibonacci.algo`.
+--
+--   ### `graph.algo`
+--
+--   ```python
+--   # A directed graph with mutable adjacency lists, bounded vertices, and
+--   # nonnegative integer weights. Each successful add_edge adds one directed edge;
+--   # parallel edges and self-loops are allowed. For an undirected edge, add both
+--   # directions. Each heads entry begins a singly linked list of outgoing edges.
+--   # Shared by the binary-heap and Fibonacci-heap Dijkstra examples.
+--
+--   class Edge:
+--       target: Int
+--       weight: Int
+--       next: Edge | None
+--
+--       def __init__(self, target: Int, weight: Int, next: Edge | None) -> None:
+--           self.target = target
+--           self.weight = weight
+--           self.next = next
+--
+--
+--   class Graph:
+--       size: Int
+--       heads: Seq[Edge | None]
+--
+--       def __init__(self, size: Int) -> None:
+--           self.size = size
+--           if size < 0:
+--               self.size = 0
+--           self.heads = const(None)
+--
+--       def add_edge(self, source: Int, target: Int, weight: Int) -> Bool:
+--           if source < 0 or source >= self.size or target < 0 or target >= self.size or weight < 0:
+--               return False
+--           self.heads[source] = Edge(target, weight, self.heads[source])
+--           return True
+--   ```
+--
+--   ### `fibonacci_heap.algo`
+--
+--   ```python
+--   # An indexed Fibonacci heap. Nonnegative vertex identifiers are stable handles.
+--   # The active forest uses circular doubly linked sibling rings. A -1 parent
+--   # means root; a -1 child/minimum means empty. Present and mark entries are 0/1.
+--   # A nonroot is marked after losing one child and cut after losing another.
+--   # const allocates a constant-valued mathematical sequence. Allocation has no
+--   # heap-event tick; the cost model counts the explicit ticks below. Consolidation
+--   # reuses its table and clears every visited bucket between public operations.
+--   # The operations follow the CLRS Fibonacci-heap supplement, using integer
+--   # handles in place of node pointers and an iterative cascading cut.
+--
+--   class FibonacciHeap:
+--       keys: Seq
+--       parents: Seq
+--       children: Seq
+--       left: Seq
+--       right: Seq
+--       degrees: Seq
+--       marks: Seq
+--       present: Seq
+--       table: Seq
+--       minimum: Int
+--       size: Int
+--
+--       def __init__(self) -> None:
+--           self.keys = const(0)
+--           self.parents = const(-1)
+--           self.children = const(-1)
+--           self.left = const(0)
+--           self.right = const(0)
+--           self.degrees = const(0)
+--           self.marks = const(0)
+--           self.present = const(0)
+--           self.table = const(-1)
+--           self.minimum = -1
+--           self.size = 0
+--
+--       # Internal ring helpers receive a present vertex, detached or in its ring.
+--       def remove_from_ring(self, vertex: Int) -> None:
+--           before = self.left[vertex]
+--           after = self.right[vertex]
+--           self.right[before] = after
+--           self.left[after] = before
+--           self.left[vertex] = vertex
+--           self.right[vertex] = vertex
+--
+--       def add_root(self, vertex: Int) -> None:
+--           self.parents[vertex] = -1
+--           self.marks[vertex] = 0
+--           if self.minimum < 0:
+--               self.left[vertex] = vertex
+--               self.right[vertex] = vertex
+--               self.minimum = vertex
+--           else:
+--               first = self.minimum
+--               after = self.right[first]
+--               self.left[vertex] = first
+--               self.right[vertex] = after
+--               self.right[first] = vertex
+--               self.left[after] = vertex
+--               tick("heap_comparisons")
+--               if self.keys[vertex] < self.keys[first]:
+--                   self.minimum = vertex
+--
+--       def link(self, child: Int, parent: Int) -> None:
+--           # FIB-HEAP-LINK: both roots have already been detached from the root ring.
+--           # @link_child
+--           self.parents[child] = parent
+--           self.marks[child] = 0
+--           first = self.children[parent]
+--           if first < 0:
+--               self.left[child] = child
+--               self.right[child] = child
+--           else:
+--               before = self.left[first]
+--               self.left[child] = before
+--               self.right[child] = first
+--               self.right[before] = child
+--               self.left[first] = child
+--           # Children are traversed from most recently linked to oldest.
+--           self.children[parent] = child
+--           self.degrees[parent] = self.degrees[parent] + 1
+--           tick("heap_links")
+--
+--       def consolidate(self) -> None:
+--           table = self.table
+--           maximum_degree = -1
+--           # Remove roots one at a time. Table entries are detached roots, so
+--           # linking a collision cannot invalidate traversal of the remaining ring.
+--           # @consume_roots
+--           while self.minimum >= 0:
+--               vertex = self.minimum
+--               if self.right[vertex] == vertex:
+--                   self.minimum = -1
+--               else:
+--                   self.minimum = self.right[vertex]
+--               self.remove_from_ring(vertex)
+--               tick("heap_root_scans")
+--               degree = self.degrees[vertex]
+--               # @equal_degree
+--               while table[degree] >= 0:
+--                   other = table[degree]
+--                   table[degree] = -1
+--                   tick("heap_comparisons")
+--                   if self.keys[other] < self.keys[vertex]:
+--                       temporary = vertex
+--                       vertex = other
+--                       other = temporary
+--                   self.link(other, vertex)
+--                   degree += 1
+--               table[degree] = vertex
+--               if degree > maximum_degree:
+--                   maximum_degree = degree
+--           degree = 0
+--           # @rebuild_roots
+--           while degree <= maximum_degree:
+--               tick("heap_degree_scans")
+--               vertex = table[degree]
+--               table[degree] = -1
+--               if vertex >= 0:
+--                   self.add_root(vertex)
+--               degree += 1
+--
+--       def cut(self, vertex: Int, parent: Int) -> None:
+--           if self.children[parent] == vertex:
+--               if self.right[vertex] == vertex:
+--                   self.children[parent] = -1
+--               else:
+--                   self.children[parent] = self.right[vertex]
+--           self.degrees[parent] = self.degrees[parent] - 1
+--           self.remove_from_ring(vertex)
+--           # @cut_to_root
+--           self.add_root(vertex)
+--           tick("heap_cuts")
+--
+--       def cascading_cut(self, vertex: Int) -> None:
+--           # CASCADING-CUT: follow parents until a root or the first unmarked node.
+--           parent = self.parents[vertex]
+--           # @cascade
+--           while parent >= 0:
+--               if self.marks[vertex] == 0:
+--                   self.marks[vertex] = 1
+--                   return
+--               self.cut(vertex, parent)
+--               vertex = parent
+--               parent = self.parents[vertex]
+--
+--       def push_or_decrease(self, vertex: Int, key: Int) -> None:
+--           # FIB-HEAP-INSERT for an absent handle; FIB-HEAP-DECREASE-KEY otherwise.
+--           # This combined API ignores equal or larger keys for a present handle.
+--           tick("heap_operations")
+--           if self.present[vertex] == 0:
+--               self.keys[vertex] = key
+--               self.children[vertex] = -1
+--               self.degrees[vertex] = 0
+--               self.present[vertex] = 1
+--               self.size += 1
+--               # @insert_root
+--               self.add_root(vertex)
+--               return
+--           tick("heap_comparisons")
+--           if key >= self.keys[vertex]:
+--               return
+--           self.keys[vertex] = key
+--           parent = self.parents[vertex]
+--           if parent >= 0:
+--               tick("heap_comparisons")
+--               if key < self.keys[parent]:
+--                   self.cut(vertex, parent)
+--                   self.cascading_cut(parent)
+--           tick("heap_comparisons")
+--           if self.keys[vertex] < self.keys[self.minimum]:
+--               self.minimum = vertex
+--
+--       def pop_min(self) -> Int:
+--           # FIB-HEAP-EXTRACT-MIN, returning a handle or -1 for an empty heap.
+--           tick("heap_operations")
+--           vertex = self.minimum
+--           if vertex < 0:
+--               return -1
+--           # @promote_children
+--           while self.children[vertex] >= 0:
+--               child = self.children[vertex]
+--               if self.right[child] == child:
+--                   self.children[vertex] = -1
+--               else:
+--                   self.children[vertex] = self.right[child]
+--               self.degrees[vertex] = self.degrees[vertex] - 1
+--               self.remove_from_ring(child)
+--               self.add_root(child)
+--               tick("heap_promotions")
+--           after = self.right[vertex]
+--           self.remove_from_ring(vertex)
+--           self.present[vertex] = 0
+--           self.size -= 1
+--           if after == vertex:
+--               self.minimum = -1
+--           else:
+--               self.minimum = after
+--               self.consolidate()
+--           return vertex
+--
+--       def is_empty(self) -> Bool:
+--           return self.size <= 0
+--   ```
+--
+--   ### `dijkstra/priority_queue.algo`
+--
+--   ```python
+--   from algo2lean import Interface
+--
+--   # Behavior, framing, and cost laws live in analysis/priority_queue.lean.
+--   # Construction is separate: clients receive an initialized queue.
+--   class PriorityQueue(Interface):
+--       def push_or_decrease(self, vertex: Int, key: Int) -> None: ...
+--       def pop_min(self) -> Int: ...
+--       def is_empty(self) -> Bool: ...
+--   ```
+--
+--   ### `dijkstra/dijkstra.algo`
+--
+--   ```python
+--   from graph import Graph, Edge
+--   from dijkstra.priority_queue import PriorityQueue
+--
+--   # Dijkstra's main loop extracts a minimum and relaxes its outgoing edges.
+--   # distance stores d, and settled marks the set S of finalized vertices.
+--   # The queue contains discovered, unsettled vertices; -1 represents infinity.
+--   # The caller supplies an empty queue, distance filled with -1, and settled
+--   # filled with 0. Queue storage is separate from the graph and both sequences.
+--
+--   def scan_edges(queue: PriorityQueue, distance: Seq, settled: Seq,
+--                  vertex: Int, edge: Edge | None) -> None:
+--       # Traverse Adj[vertex], relaxing each edge to an unsettled target.
+--       # @scan
+--       while edge is not None:
+--           tick("edges")
+--           target = edge.target
+--           if settled[target] == 0:
+--               candidate = distance[vertex] + edge.weight
+--               if distance[target] < 0 or candidate < distance[target]:
+--                   # @improve
+--                   distance[target] = candidate
+--                   tick("queue_updates")
+--                   queue.push_or_decrease(target, candidate)
+--                   tick("improvements")
+--           edge = edge.next
+--
+--
+--   def dijkstra(graph: Graph, source: Int, queue: PriorityQueue,
+--                distance: Seq, settled: Seq) -> Seq:
+--       distance[source] = 0
+--       tick("queue_updates")
+--       queue.push_or_decrease(source, 0)
+--       tick("queue_empty_checks")
+--       # Repeatedly extract the minimum, add it to S, and relax its adjacency list.
+--       # @extract
+--       while not queue.is_empty():
+--           tick("queue_pops")
+--           vertex = queue.pop_min()
+--           settled[vertex] = 1
+--           tick("settlements")
+--           scan_edges(queue, distance, settled, vertex, graph.heads[vertex])
+--           tick("queue_empty_checks")
+--       return distance
+--   ```
+--
+--   ### `dijkstra/dijkstra_fibonacci.algo`
+--
+--   ```python
+--   from graph import Graph
+--   from fibonacci_heap import FibonacciHeap
+--   from dijkstra.dijkstra import dijkstra as search
+--
+--   # Construct a Fibonacci heap and bind its operations to generic Dijkstra.
+--   def dijkstra_fibonacci(graph: Graph, source: Int) -> Seq:
+--       distance = const(-1)
+--       if source < 0 or source >= graph.size:
+--           return distance
+--       settled = const(0)
+--       queue = FibonacciHeap()
+--       return search(graph, source, queue, distance, settled)
+--   ```
+--
+--   <!-- algo2lean-supplemental-source -->
+--   This supplemental handwritten analysis is separate from the released compiler source. Its additional analysis archive location is [here](https://github.com/lunjiah/algo2lean/releases/download/v0.1.4/algo2lean-clrs-analysis.zip), file `SubmissionAnalysis/FibonacciDijkstra.lean` (SHA-256 `0f0948f6ed2b4e461ca95bea606aa06eff534af028a0f893f42468e93dd9950d`). Publication and archive verification are tracked separately; the source is not raw compiler output.
+--
+--   <!-- algo2lean-provenance-v0.1.4 -->
+--   **[Algo2Lean](https://www.algo2lean.com/) provenance and reproduction.** These definitions target [Algo2Lean](https://www.algo2lean.com/) v0.1.4, using the compiler source at [public commit `0f79d5e4242e6477531c9ee4410409f5b1c92f76`](https://github.com/lunjiah/algo2lean/tree/0f79d5e4242e6477531c9ee4410409f5b1c92f76), and Lean 4.33.1. The versioned compiler location is [Algo2Lean v0.1.4](https://www.algo2lean.com/versions/v0.1.4/). Compile all supplied `.algo` files and imports to reproduce the raw generated definitions. Release publication and exact website parity require their separately recorded checks; this metadata alone does not assert them. Prove2Me imports and declaration packaging are mechanically adapted, with original hashes, compiler-reported source ranges, and adaptations recorded in transplant provenance. Exact reproduction does not prove the compiler correct.
+-- source:
+--   https://github.com/lunjiah/algo2lean/releases/download/v0.1.4/algo2lean-clrs-analysis.zip
+
+import Definitions.Def_SubmissionAnalysis_FibonacciDijkstra
+import Theorems.Thm_FibonacciDijkstraAnalysis_summary
+
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency false
+set_option backward.defeqAttrib.useBackward true
+
+set_option autoImplicit false
+
+theorem CLRS.FibonacciDijkstra.correctness_and_running_time :
+    Exists.{1} fun C =>
+      LT.lt.{0} (0 : Nat) C ∧
+        ∀ (heap : Algo2LeanGenerated.Heap) (graph : Algo.graph.Algo2LeanGenerated.Ref_Graph)
+          (size source : Int) (heads : Algo2LeanGenerated.CollectionRef)
+          (adjacency : Algo2Lean.Dijkstra.Adjacency),
+          ComposableDijkstraAnalysis.GraphRep heap graph size heads adjacency →
+            LE.le.{0} (0 : Int) source →
+              LT.lt.{0} source size →
+                Exists.{1} fun after =>
+                  Algo.dijkstra.dijkstra_fibonacci.dijkstra_fibonacci.Call heap
+                      (Prod.mk.{0, 0} graph source) after heap.nextRef ∧
+                    ComposableDijkstraAnalysis.GraphRep after graph size heads adjacency ∧
+                      Algo2Lean.Dijkstra.ShortestDistances
+                          (Algo2Lean.Dijkstra.representedEdges size adjacency) source
+                          (after.read heap.nextRef) ∧
+                        ComposableDijkstraAnalysis.OperationCounts heap after size.toNat
+                            (Algo2Lean.Dijkstra.edgeBudget adjacency
+                              (Algo2Lean.Dijkstra.vertexRange size)) ∧
+                          LE.le.{0} (FibonacciDijkstraAnalysis.clockWork (heap.cost after))
+                              (HMul.hMul.{0, 0, 0} C
+                                (CLRS.FibonacciDijkstra.runtimeScale size.toNat
+                                  (Algo2Lean.Dijkstra.edgeBudget adjacency
+                                    (Algo2Lean.Dijkstra.vertexRange size)))) ∧
+                            LT.lt.{0} heap.nextRef after.nextRef ∧
+                              heap.Footprint after List.nil.{0} List.nil.{0} List.nil.{0} := by
+  sorry

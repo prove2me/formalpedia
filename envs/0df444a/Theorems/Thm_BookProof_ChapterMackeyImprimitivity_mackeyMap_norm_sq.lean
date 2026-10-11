@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyImprimitivity_mackeyMap_norm_sq
 -- name    : BookProof.ChapterMackeyImprimitivity.mackeyMap_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:50:52.296212+00:00
 -- url     : https://prove2.me/theorems/1904a7f0-5483-438e-85b4-5f88095c63cc

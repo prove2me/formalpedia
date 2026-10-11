@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMixedPrior_exists_continuous_prior_beyond_atomic
 -- name    : BookProof.ChapterMixedPrior.exists_continuous_prior_beyond_atomic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:09:35.377967+00:00
 -- url     : https://prove2.me/theorems/fdf70108-4ed5-40f7-b4e4-700109a4b555

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_confEnergy_eq_integral
 -- name    : BookProof.NavierStokesFlow.FockOfFock.confEnergy_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:43:07.944138+00:00
 -- url     : https://prove2.me/theorems/210f64d5-00bf-4bd0-b1cd-2292b68b6d13

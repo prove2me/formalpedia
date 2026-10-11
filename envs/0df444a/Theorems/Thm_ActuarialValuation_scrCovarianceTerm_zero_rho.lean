@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrCovarianceTerm_zero_rho
 -- name    : ActuarialValuation.scrCovarianceTerm_zero_rho
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:12:40.35346+00:00
 -- url     : https://prove2.me/theorems/63cb12ca-41ac-411c-8cb0-c057355bbad3

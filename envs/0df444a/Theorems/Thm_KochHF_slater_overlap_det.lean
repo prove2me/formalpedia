@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_slater_overlap_det
 -- name    : KochHF.slater_overlap_det
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:24:12.34748+00:00
 -- url     : https://prove2.me/theorems/b2718ad6-be09-44b6-b551-c082f4993394

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clUltimate_zero
 -- name    : ActuarialValuation.clUltimate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:46.48505+00:00
 -- url     : https://prove2.me/theorems/3dace064-b24c-4aec-bbe6-e1efce5fe5a9

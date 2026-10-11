@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_Weak_theorem_2_5
 -- name    : FRBSplitting.Weak.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T12:42:40.44293+00:00
 -- url     : https://prove2.me/theorems/3721ce8c-bacb-46ac-b78a-7be6f5b91e9c

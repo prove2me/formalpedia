@@ -10,6 +10,8 @@
 --   Let $K,H$ be complex Hilbert spaces, let $B:K\to H$ be a bounded linear operator, and let $\alpha\ge0$. Then $$\bigl(\forall\varepsilon>0,\;\|BB^*\|\le\alpha\varepsilon\bigr)\quad\Longleftrightarrow\quad B=0.$$ In the companion native Connes development this applies to the existing actual-zero background actor at a fixed support and cutoff. Thus a fixed cutoff controlling every positive regularization would require every omitted original negative column to vanish. Support-uniform absolute tail smallness permits scale-dependent cutoffs and does not by itself establish a bound uniform in all regularizations at one fixed cutoff. No endpoint half-bound or RH is asserted.
 -- source:
 --   monocap-tech/weil, Screening/FixedTailRegularization.lean, actual background and two-sided actual-zero application in Connes/TwoSidedTailControl.lean. The native application retains actual zeros, multiplicities, original pair normalization, unchanged selected packet, full complement and completed physical carrier. This is a general Hilbert-space supporting theorem, not a surrogate zero model.
+--
+--   Literature/source audit addendum (2026-10-11; COR-12): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil c73eedb5a6fca3cffcae4b7dbd14affaa3b4dbed, WeilDefect/Screening/FixedTailRegularization.lean, SHA256 399f26c999d2859826187da07e0deaa6714c2452b4b339ad7fef44f3b98fa0e3. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Mathlib
 set_option autoImplicit false

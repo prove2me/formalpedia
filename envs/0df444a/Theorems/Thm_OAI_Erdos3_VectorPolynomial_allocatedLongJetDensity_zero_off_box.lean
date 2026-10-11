@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedLongJetDensity_zero_off_box
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedLongJetDensity_zero_off_box
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T22:16:22.303121+00:00
 -- url     : https://prove2.me/theorems/8a4319bb-c9a7-4054-b58a-10051d9e3ffe

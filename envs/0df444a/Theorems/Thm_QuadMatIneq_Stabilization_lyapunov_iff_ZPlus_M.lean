@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Stabilization_lyapunov_iff_ZPlus_M
 -- name    : QuadMatIneq.Stabilization.lyapunov_iff_ZPlus_M
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:25.794881+00:00
 -- url     : https://prove2.me/theorems/c97595ea-e110-4de5-b457-21ba20f3f3f8

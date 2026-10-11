@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSE2_se2_coef_22
 -- name    : BookProof.ChapterSE2.se2_coef_22
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:20:10.371665+00:00
 -- url     : https://prove2.me/theorems/f85d30fd-1084-434f-99fb-bf92792d4ffc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_creA_annA_apply
 -- name    : BookProof.QgCouplingDGammaSum.creA_annA_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:18:39.345564+00:00
 -- url     : https://prove2.me/theorems/bfe3c822-ebaa-4e13-878c-74341f196a85

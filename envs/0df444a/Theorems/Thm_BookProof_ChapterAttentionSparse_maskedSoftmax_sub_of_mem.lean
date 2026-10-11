@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_maskedSoftmax_sub_of_mem
 -- name    : BookProof.ChapterAttentionSparse.maskedSoftmax_sub_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:49:35.390778+00:00
 -- url     : https://prove2.me/theorems/fa85325e-e0a8-478f-9520-9a5879205ea3

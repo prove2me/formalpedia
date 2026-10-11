@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_isPosCol_finsetSum
 -- name    : BookProof.QgCouplingDGammaSum.isPosCol_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:17:34.319078+00:00
 -- url     : https://prove2.me/theorems/a7b3b67e-7923-402b-8168-b096408a0e2e

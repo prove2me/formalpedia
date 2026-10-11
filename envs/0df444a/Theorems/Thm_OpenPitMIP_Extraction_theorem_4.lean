@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_Extraction_theorem_4
 -- name    : OpenPitMIP.Extraction.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:44:44.337489+00:00
 -- url     : https://prove2.me/theorems/5291d9b7-0149-4020-9c0d-44e8c3dcbc41

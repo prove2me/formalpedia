@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frDiscount_positive
 -- name    : ActuarialValuation.frDiscount_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:00.158609+00:00
 -- url     : https://prove2.me/theorems/7f7e4218-963d-42d0-ae4c-3a3fc0370d3c

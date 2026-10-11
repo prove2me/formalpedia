@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_inclPow_swapDom
 -- name    : BookProof.TwoParticleSector.inclPow_swapDom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:58:10.3927+00:00
 -- url     : https://prove2.me/theorems/91c6f06b-4a8c-4601-967d-6042b7d7df19

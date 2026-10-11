@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_isFredholm_iff_exists_compact_quasiInverse
 -- name    : FredholmBanach.isFredholm_iff_exists_compact_quasiInverse
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:41:17.160717+00:00
 -- url     : https://prove2.me/theorems/470abbf0-eed0-421b-99f8-c82405a64d24

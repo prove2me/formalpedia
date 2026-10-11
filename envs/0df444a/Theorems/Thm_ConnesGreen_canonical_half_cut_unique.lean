@@ -13,6 +13,8 @@
 --   then $c=d$. Positivity of the original $R$ makes both endpoints positive. The first characterization gives success at $c$ and the second therefore gives $c\le d$. Reversing their roles gives $d\le c$. Antisymmetry proves uniqueness. This is uniqueness of the inner half-bound cutoff; it does not identify that cutoff with a separately prescribed critical endpoint.
 -- source:
 --   monocap-tech/weil at e6d17e3f8533cdffc6af82283874365e7d869f8e; WeilDefect/Connes/HalfWindowClassification.lean (new additive module), using unchanged original CriticalWindowBoundary and actor definitions.
+--
+--   Literature/source audit addendum (2026-10-11; COR-08): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 85e4b8c3ed3f67e549834b0640d490c1f6537295, WeilDefect/Connes/HalfWindowClassification.lean, SHA256 2e44a66fcccc9c884cb844b53320f17add08b2a2847b877e1e05595f69ee5152. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_small_support_constants
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker

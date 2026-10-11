@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_rotMat_mulVec_clockPsi
 -- name    : BookProof.ProbabilityClockStochastic.rotMat_mulVec_clockPsi
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:14:47.377109+00:00
 -- url     : https://prove2.me/theorems/ab3df68f-c86d-45df-b6a9-0f5b38be522f

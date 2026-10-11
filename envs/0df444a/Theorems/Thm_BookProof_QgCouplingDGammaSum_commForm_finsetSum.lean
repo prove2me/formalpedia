@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_commForm_finsetSum
 -- name    : BookProof.QgCouplingDGammaSum.commForm_finsetSum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:18:14.728359+00:00
 -- url     : https://prove2.me/theorems/d1cdf092-3eae-486e-89fa-b11118ddb85f

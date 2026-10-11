@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_perfectly_inelastic_collision_1d
 -- name    : ConservationLaws.perfectly_inelastic_collision_1d
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:23.395279+00:00
 -- url     : https://prove2.me/theorems/a333ca2a-4641-4a94-8f51-582983022cbb

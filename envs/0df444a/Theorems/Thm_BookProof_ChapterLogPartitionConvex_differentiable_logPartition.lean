@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLogPartitionConvex_differentiable_logPartition
 -- name    : BookProof.ChapterLogPartitionConvex.differentiable_logPartition
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:32:46.62301+00:00
 -- url     : https://prove2.me/theorems/0c952577-12d2-4985-b67d-dda475354f77

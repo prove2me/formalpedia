@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_nsBrst_not_hermitian
 -- name    : BookProof.NavierStokesEulerian.nsBrst_not_hermitian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:40:13.103977+00:00
 -- url     : https://prove2.me/theorems/55f46e1d-a6d1-4720-acdb-5c0b9fca1c39

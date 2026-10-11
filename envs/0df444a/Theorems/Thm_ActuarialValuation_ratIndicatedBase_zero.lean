@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratIndicatedBase_zero
 -- name    : ActuarialValuation.ratIndicatedBase_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:44:10.325993+00:00
 -- url     : https://prove2.me/theorems/f39fdf80-a724-48a3-b59e-f853114a2026

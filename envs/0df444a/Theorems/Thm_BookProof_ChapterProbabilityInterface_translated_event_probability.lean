@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterProbabilityInterface_translated_event_probability
 -- name    : BookProof.ChapterProbabilityInterface.translated_event_probability
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:15:34.934915+00:00
 -- url     : https://prove2.me/theorems/25be3eee-d623-4fda-b5b2-3d53b6787d02

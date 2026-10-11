@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathsTreesFlowers_Duality_matching_duality_theorem
 -- name    : PathsTreesFlowers.Duality.matching_duality_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:32:22.444181+00:00
 -- url     : https://prove2.me/theorems/7f40fed4-a91a-48ba-80bc-a255b73639ec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBesselHarmonic_reduced_from_radial
 -- name    : BookProof.ChapterBesselHarmonic.reduced_from_radial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:54:58.722853+00:00
 -- url     : https://prove2.me/theorems/1655fffd-6ddc-4e4c-b436-3d6303437ff9

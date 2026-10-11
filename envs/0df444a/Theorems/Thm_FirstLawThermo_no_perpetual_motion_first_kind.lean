@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_no_perpetual_motion_first_kind
 -- name    : FirstLawThermo.no_perpetual_motion_first_kind
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:54:40.689779+00:00
 -- url     : https://prove2.me/theorems/0aad5dc2-9211-4bb7-bcd9-56d2a7015903

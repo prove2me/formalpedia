@@ -10,6 +10,8 @@
 --   Let $K$ be a complex Hilbert space, let $F_i$ be bounded operators converging in operator norm along a nontrivial filter to a self-adjoint operator $A$, and suppose $F_i$ are eventually self-adjoint. If $bI\nleq F_i$ eventually, then for every $a>b$, $$aI\nleq A.$$ The threshold $bI\le A$ itself may still hold. In the companion native Connes development this applies to the existing ordered support-right limit on the unchanged actual-quartet coefficient space, ruling out a strict margin above one half at the last inner half-bound window. It does not prove the endpoint half-bound or RH.
 -- source:
 --   monocap-tech/weil, Screening/MarkerThresholdBoundary.lean, with actual-quartet application in Connes/EndpointHalfBoundary.lean. This operator-topology support theorem changes no native zero configuration, test class, selected packet or physical carrier. The existing scalar norm-close helper is reproduced as a private complete lemma for independent checking.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 14bb429bb5c8ee5334894650650c3cae7eeab191, WeilDefect/Screening/MarkerThresholdBoundary.lean, SHA256 a047d72d281d8df548dc671c142ec34dd9f2b83fed21ac3ce9426d234f201f7e. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Mathlib
 set_option autoImplicit false

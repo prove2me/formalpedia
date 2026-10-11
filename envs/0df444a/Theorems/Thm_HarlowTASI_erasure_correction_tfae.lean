@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarlowTASI_erasure_correction_tfae
 -- name    : HarlowTASI.erasure_correction_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:12:01.089126+00:00
 -- url     : https://prove2.me/theorems/e7ee5d33-2dd9-455d-80e3-fc3635ef34db

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_SOCP_dsocp_subset_dsdp
 -- name    : QCQPTightness.SOCP.dsocp_subset_dsdp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:23:29.50319+00:00
 -- url     : https://prove2.me/theorems/68036d3f-ba4f-4e86-8f55-71a98fc953fd

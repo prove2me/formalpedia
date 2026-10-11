@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianAtomicCondensation_atomProj_idem
 -- name    : BookProof.ChapterAbelianAtomicCondensation.atomProj_idem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:16:23.234242+00:00
 -- url     : https://prove2.me/theorems/ec51ab8b-a4b0-4b81-8431-e65269a516d6

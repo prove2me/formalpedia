@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_attendedMass_univ
 -- name    : BookProof.ChapterAttentionSparse.attendedMass_univ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:48:46.322977+00:00
 -- url     : https://prove2.me/theorems/e5f5d8eb-e736-4eb1-82fc-77917bbfd2d9

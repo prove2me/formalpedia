@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlODE_SturmLiouville_eigenfunction_expansion
 -- name    : TeschlODE.SturmLiouville.eigenfunction_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T11:42:05.106617+00:00
 -- url     : https://prove2.me/theorems/d46bcd5b-fe6c-4a43-a3c2-b60e77c3dd40

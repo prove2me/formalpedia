@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_nsSymbol_nonneg
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.nsSymbol_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:50:46.885699+00:00
 -- url     : https://prove2.me/theorems/0c6631c8-9803-4e43-9998-4b08dd37ea31

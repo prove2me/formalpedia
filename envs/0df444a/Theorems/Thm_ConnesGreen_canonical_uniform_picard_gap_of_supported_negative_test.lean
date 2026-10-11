@@ -12,6 +12,8 @@
 --   The complete proof first constructs, using a closed scalar-margin helper, a uniform regularized gap for the same unchanged packet and all larger windows. Original test energy and actor analysis norms are independent of those larger windows, giving constants $\beta,\delta$ chosen once. If the original Picard marker admitted the $\beta$ lower bound, the accepted exact canonicalPicardMarker_lower_iff_all_regularized would transfer that bound to every positive regularization scale. Choosing $\varepsilon=\delta/2$ contradicts the regularized gap. The existing positive regularization limit is retained; no existence premise is added and no limit order is exchanged. The public negative-test premise remains explicit.
 -- source:
 --   monocap-tech/weil at 85e4b8c3ed3f67e549834b0640d490c1f6537295; WeilDefect/Connes/SupportedNegativeUniformGap.lean (new additive module), retaining original actor, carrier, marker and source definitions.
+--
+--   Literature/source audit addendum (2026-10-11; COR-09): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 68011f0aa80779d1735ecbe344b0314d03cd3de5, WeilDefect/Connes/SupportedNegativeUniformGap.lean, SHA256 2c60f2c304df544779b2b47bbfda958793807d4dc85940a3e323584bdb092935. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_small_support_constants
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker

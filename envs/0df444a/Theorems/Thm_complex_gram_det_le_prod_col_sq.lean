@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_complex_gram_det_le_prod_col_sq
 -- name    : complex_gram_det_le_prod_col_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:50:44.602806+00:00
 -- url     : https://prove2.me/theorems/6ae14207-b366-4778-9acd-336fb2667392

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_isSymmetric
 -- name    : AsymptoticOperator.isSymmetric
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:32:13.426216+00:00
 -- url     : https://prove2.me/theorems/81472ca9-2f51-4a94-84f7-8662e5831cba

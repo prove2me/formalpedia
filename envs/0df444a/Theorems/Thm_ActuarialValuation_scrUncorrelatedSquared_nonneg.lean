@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrUncorrelatedSquared_nonneg
 -- name    : ActuarialValuation.scrUncorrelatedSquared_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:14:38.760976+00:00
 -- url     : https://prove2.me/theorems/e746efbc-07bf-4ce6-aa7a-eb232933b7f5

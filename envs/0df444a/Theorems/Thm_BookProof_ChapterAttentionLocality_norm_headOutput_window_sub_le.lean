@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionLocality_norm_headOutput_window_sub_le
 -- name    : BookProof.ChapterAttentionLocality.norm_headOutput_window_sub_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T09:47:53.298246+00:00
 -- url     : https://prove2.me/theorems/656e9d0e-238d-4890-85c5-3f71e0f64a8d

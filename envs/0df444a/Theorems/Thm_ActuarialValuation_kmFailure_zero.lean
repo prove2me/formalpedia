@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmFailure_zero
 -- name    : ActuarialValuation.kmFailure_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:40:49.956682+00:00
 -- url     : https://prove2.me/theorems/05fa11bb-58ee-4ab3-bfbc-b561f9f93ae3

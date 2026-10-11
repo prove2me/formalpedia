@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRieszFischer_core_proper_and_dense
 -- name    : BookProof.ChapterRieszFischer.core_proper_and_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:19:00.297976+00:00
 -- url     : https://prove2.me/theorems/7c359c1e-4bd8-4221-8139-356ee4f68cac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_confEnergy_zero
 -- name    : BookProof.NavierStokesFlow.FockOfFock.confEnergy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:44:03.642974+00:00
 -- url     : https://prove2.me/theorems/6dabc2b2-212a-4901-af3c-c365e866e1cc

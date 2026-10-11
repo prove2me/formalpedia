@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_phase_sum
 -- name    : BookProof.NsLagrangianDet.phase_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:54:50.259228+00:00
 -- url     : https://prove2.me/theorems/89cf3eeb-927c-448e-8f15-0c71ff1f25aa

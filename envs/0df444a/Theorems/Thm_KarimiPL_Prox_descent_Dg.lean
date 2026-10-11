@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_Prox_descent_Dg
 -- name    : KarimiPL.Prox.descent_Dg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:54:54.141691+00:00
 -- url     : https://prove2.me/theorems/aaa44204-f596-4d95-a6a4-0f44b17bb553

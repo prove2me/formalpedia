@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailMass_zero
 -- name    : ActuarialValuation.tailMass_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:29:04.545352+00:00
 -- url     : https://prove2.me/theorems/6080df2b-7a12-40fc-a7bb-86342af05172

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_injOn_invMap
 -- name    : BookProof.OdeUnitaryFlow.injOn_invMap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:45:49.368857+00:00
 -- url     : https://prove2.me/theorems/3f36769d-ccc0-4faf-9e15-1a892417ef01

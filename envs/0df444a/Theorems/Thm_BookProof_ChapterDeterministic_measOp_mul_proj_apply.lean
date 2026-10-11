@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDeterministic_measOp_mul_proj_apply
 -- name    : BookProof.ChapterDeterministic.measOp_mul_proj_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T13:21:07.021071+00:00
 -- url     : https://prove2.me/theorems/2470a289-cfbc-4815-afe3-fcf9bcd2a555

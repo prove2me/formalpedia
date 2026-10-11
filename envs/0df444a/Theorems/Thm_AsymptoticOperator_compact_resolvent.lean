@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_compact_resolvent
 -- name    : AsymptoticOperator.compact_resolvent
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:33:05.234857+00:00
 -- url     : https://prove2.me/theorems/eaba7a1f-3b87-4dd3-90e5-b3bf832e19aa

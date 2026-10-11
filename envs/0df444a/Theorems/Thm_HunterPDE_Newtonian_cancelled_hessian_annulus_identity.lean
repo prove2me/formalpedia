@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Newtonian_cancelled_hessian_annulus_identity
 -- name    : HunterPDE.Newtonian.cancelled_hessian_annulus_identity
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T10:31:55.611514+00:00
 -- url     : https://prove2.me/theorems/648fbba6-c1c9-4d48-8d9c-5d3457c0eb01

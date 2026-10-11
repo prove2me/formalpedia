@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityZ4_combinedParity_orderOf
 -- name    : BookProof.ChapterParityZ4.combinedParity_orderOf
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:09:07.955529+00:00
 -- url     : https://prove2.me/theorems/2d184a0a-0964-4159-b646-fb0823e45f8f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpValue_zero
 -- name    : ActuarialValuation.alterationPaidUpValue_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:16:20.658094+00:00
 -- url     : https://prove2.me/theorems/70b14456-a0c6-401d-bb96-34c017aa8044

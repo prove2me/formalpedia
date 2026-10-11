@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_affF_antisymm
 -- name    : BookProof.QuantumGravityBrstCharge.affF_antisymm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:38:35.88193+00:00
 -- url     : https://prove2.me/theorems/998c0a7d-bc35-434f-8b2f-53fed8731587

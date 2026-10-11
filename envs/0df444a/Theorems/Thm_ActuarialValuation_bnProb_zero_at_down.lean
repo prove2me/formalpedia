@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnProb_zero_at_down
 -- name    : ActuarialValuation.bnProb_zero_at_down
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:12.053222+00:00
 -- url     : https://prove2.me/theorems/b00ebb4b-5a86-46d4-81b5-6dd74c5b1221

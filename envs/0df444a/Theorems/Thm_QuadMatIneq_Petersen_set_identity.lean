@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Petersen_set_identity
 -- name    : QuadMatIneq.Petersen.set_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:16:49.854677+00:00
 -- url     : https://prove2.me/theorems/63a2a013-bb97-44f7-96ec-26264767fa71

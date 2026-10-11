@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_quadForm_scalaron_ge
 -- name    : BookProof.HermiteExpWall.quadForm_scalaron_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:11:21.013985+00:00
 -- url     : https://prove2.me/theorems/174d0f80-b5ad-4ae5-8af7-063eff069288

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_gramWeyl_eq
 -- name    : BookProof.YangMillsAbelianEsa.gramWeyl_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:52:41.657046+00:00
 -- url     : https://prove2.me/theorems/f9237788-c6ea-4579-a3a4-1e9ff2e456d5

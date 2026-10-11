@@ -14,6 +14,8 @@
 --   This is a conservative marker recovery estimate for finite negative-background restoration. It is not the sharper scalar-optimal constant stated in the arithmetic notes, and it proves no half-threshold bound or endpoint-limit interchange. Instantiation on the original actual-zero Green carrier is supplied by a separate theorem.
 -- source:
 --   monocap-tech/weil, WeilDefect/Screening/ShortedCovariance.lean (operatorInverse), WeilDefect/Screening/MarkerStability.lean (selectedCost, marker), and provenance/rh/checkpoints/RH_ZERO_PROV_4_INFINITE_NBR_DIAGONAL_MARKER_STABILITY_20260920.md, equations (3)-(8). Native base commit b019d40205680f9761a4b0a80cbcad56ee1b606b; exact new source is in Connes_Weil_Green_Marker_Recovery.zip.
+--
+--   Literature/source audit addendum (2026-10-11; COR-12): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Screening/MarkerStability.lean, SHA256 e6dc1688e5576e682510174da81ff772aaea9ea6b2a0a4beea9e1de405d8fa53. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_WeilMarker_regularized_cost
 open scoped InnerProduct ComplexOrder

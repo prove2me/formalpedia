@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_koopmans_theorem
 -- name    : KochHF.koopmans_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:09.430048+00:00
 -- url     : https://prove2.me/theorems/88dd7fbe-e797-4306-ad32-8fdeda007fc4

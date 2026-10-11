@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_eulerian_momentum_dual
 -- name    : BookProof.NavierStokesEulerian.eulerian_momentum_dual
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:40:33.318979+00:00
 -- url     : https://prove2.me/theorems/0c20baab-5cdc-4403-a756-0c377422c780

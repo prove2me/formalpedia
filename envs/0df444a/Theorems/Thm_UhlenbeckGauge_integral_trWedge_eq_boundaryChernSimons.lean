@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UhlenbeckGauge_integral_trWedge_eq_boundaryChernSimons
 -- name    : UhlenbeckGauge.integral_trWedge_eq_boundaryChernSimons
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:25:24.898491+00:00
 -- url     : https://prove2.me/theorems/acc2ac5a-db6d-48cb-86e5-869481e15e8a

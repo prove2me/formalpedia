@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_carnot_theorem_irreversible_lt
 -- name    : SecondLawThermo.carnot_theorem_irreversible_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:38.479468+00:00
 -- url     : https://prove2.me/theorems/fbfdfdcf-af2e-46cc-adf6-541cd24b2afb

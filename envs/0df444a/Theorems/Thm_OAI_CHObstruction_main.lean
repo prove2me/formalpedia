@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CHObstruction_main
 -- name    : OAI.CHObstruction.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:25.403791+00:00
 -- url     : https://prove2.me/theorems/33e21b39-03fe-4e17-8ce5-d6f61b6b3d10

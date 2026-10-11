@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clUltimate_unit
 -- name    : ActuarialValuation.clUltimate_unit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:34:29.58825+00:00
 -- url     : https://prove2.me/theorems/be3b9d49-a043-4701-8840-9fa2dab9c35e

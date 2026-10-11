@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_odeKoop_lintegral_normSq
 -- name    : BookProof.OdeUnitaryFlow.odeKoop_lintegral_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:42:09.848976+00:00
 -- url     : https://prove2.me/theorems/8ef7794c-db32-4775-92d0-63d93c884321

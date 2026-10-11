@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_StreamCarryStep_stream_carry_step
 -- name    : IntMul.StreamCarryStep.stream_carry_step
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-10T11:05:21.772856+00:00
 -- url     : https://prove2.me/theorems/dafd37e1-efa2-4419-a569-177c05fa22dc

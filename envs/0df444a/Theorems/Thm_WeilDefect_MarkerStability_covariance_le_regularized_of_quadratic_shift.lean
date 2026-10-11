@@ -10,6 +10,8 @@
 --   On the same complete complex Hilbert spaces, a self-adjoint covariance A and synthesis N satisfying Re⟨Ax,x⟩−‖N* x‖² ≥ −k‖x‖² on every vector obey NN* ≤ A+ε I whenever ε≥k. This does not give control for smaller regularizations.
 -- source:
 --   monocap-tech/weil, Screening/ArithmeticShift.lean; native Connes/ArithmeticRegularization.lean supplies the premise from the proved original archimedean, pole and prime bound, with the complete actual-zero negative synthesis and original physical metric. It proves the unchanged selected marker half-bound above K(R), actual finite restoration, and the exact all-positive-regularizations/unshifted-covariance boundary.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 33c2ccf18575bed29f503a6bdc1b580f6ec957d7, WeilDefect/Screening/ArithmeticShift.lean, SHA256 fdb186c2e0f1c2d1d4b1fa9dd66ed684ae1c72ea3ed42cff3ec01a719ec17849. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Mathlib.Analysis.InnerProductSpace.Positive
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TitiusBode_dermott_geometric_spacing
 -- name    : TitiusBode.dermott_geometric_spacing
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:31.111001+00:00
 -- url     : https://prove2.me/theorems/23d61ad9-3e3e-43a7-9c77-fc51d6fdc205

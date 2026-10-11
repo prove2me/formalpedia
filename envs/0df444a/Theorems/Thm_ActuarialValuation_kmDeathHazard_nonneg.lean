@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmDeathHazard_nonneg
 -- name    : ActuarialValuation.kmDeathHazard_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:13.412311+00:00
 -- url     : https://prove2.me/theorems/d60d200a-b765-43fc-98cb-0dd74f4cee59

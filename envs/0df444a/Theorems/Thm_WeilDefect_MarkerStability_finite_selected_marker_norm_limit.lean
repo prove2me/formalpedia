@@ -12,6 +12,8 @@
 --   The original inverse cost, coefficient carrier and norm are retained. The inverse cost need not stay bounded as $\varepsilon\downarrow0$; no range-inclusion, tail-rate or arithmetic positivity premise is needed.
 -- source:
 --   monocap-tech/weil at native base b019d40205680f9761a4b0a80cbcad56ee1b606b; new Screening/MarkerLimit.lean and Connes/CanonicalGreenMarkerLimit.lean. Exact certified sources in Connes_Weil_Original_Picard_Limit.zip. The inner norm limit is proved; critical support location, outer endpoint transfer and unconditional RH are not asserted.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Screening/MarkerLimit.lean, SHA256 7b092878929fd6db78207fedbf9a710351d2a8bc1803ddec7e887548fb093f8a. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_WeilMarker_regularized_cost
 import Mathlib.Topology.Order.Monotone

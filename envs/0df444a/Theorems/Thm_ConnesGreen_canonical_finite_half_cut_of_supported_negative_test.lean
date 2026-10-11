@@ -12,6 +12,8 @@
 --   where $R$ is the existing positiveSupportRadius. The accepted exact original marker-half/original-test equivalence shows that the half-bound fails at the witness window $t$. Apply the accepted unconditional finite-packet half-window dichotomy. Its all-windows branch contradicts failure at $t$, so the finite closed-cutoff branch holds. Its characterization and failure at $t$ force $c<t$. This proof uses no prescribed critical-endpoint identification or right-endpoint continuity. It closes the cutoff reduction from a concrete original negative test; deriving such a test from the actual off-line quartet is a separate dependency.
 -- source:
 --   monocap-tech/weil at 85e4b8c3ed3f67e549834b0640d490c1f6537295; WeilDefect/Connes/SupportedNegativeUniformGap.lean (new additive module), retaining original actor, carrier, marker and source definitions.
+--
+--   Literature/source audit addendum (2026-10-11; COR-09): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 68011f0aa80779d1735ecbe344b0314d03cd3de5, WeilDefect/Connes/SupportedNegativeUniformGap.lean, SHA256 2c60f2c304df544779b2b47bbfda958793807d4dc85940a3e323584bdb092935. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_small_support_constants
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker

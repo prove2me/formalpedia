@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_heat_add_const
 -- name    : FirstLawThermo.heat_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:53:04.143997+00:00
 -- url     : https://prove2.me/theorems/0fb6a2cb-85d6-4a8b-bb99-e2053083aa3c

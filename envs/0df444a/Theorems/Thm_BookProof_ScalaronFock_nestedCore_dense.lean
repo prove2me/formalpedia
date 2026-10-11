@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_nestedCore_dense
 -- name    : BookProof.ScalaronFock.nestedCore_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:22:42.575829+00:00
 -- url     : https://prove2.me/theorems/a07b9794-16f8-46c1-9d79-933244069bdd

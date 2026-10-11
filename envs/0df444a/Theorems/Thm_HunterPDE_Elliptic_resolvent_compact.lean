@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Elliptic_resolvent_compact
 -- name    : HunterPDE.Elliptic.resolvent_compact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:51:20.406993+00:00
 -- url     : https://prove2.me/theorems/6f5c98e8-9587-49fb-b921-06ff8eea9343

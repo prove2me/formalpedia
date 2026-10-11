@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Bosonic_commutator_antiSelfAdjoint
 -- name    : BookProof.Bosonic.commutator_antiSelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:09:12.988381+00:00
 -- url     : https://prove2.me/theorems/bef27509-1031-43ec-ae1f-a53a885d8ad5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_invariantMass_zero_momentum
 -- name    : MassEnergyEquivalence.invariantMass_zero_momentum
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:20:46.402827+00:00
 -- url     : https://prove2.me/theorems/1ee133ea-c050-4c2f-8b46-4adf8e35b7d3

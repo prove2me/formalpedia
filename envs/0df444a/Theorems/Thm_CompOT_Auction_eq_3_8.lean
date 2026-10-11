@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Auction_eq_3_8
 -- name    : CompOT.Auction.eq_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:01.456443+00:00
 -- url     : https://prove2.me/theorems/0d9ef10f-6fd5-4029-981a-bc136d7af2d6

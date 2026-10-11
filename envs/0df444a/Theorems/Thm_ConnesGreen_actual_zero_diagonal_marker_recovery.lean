@@ -16,6 +16,8 @@
 --   The cutoff may depend on $t,\Pi,\varepsilon,\alpha$. This proves finite recovery at each regularization scale and remains valid when the selected inverse cost is large. It does not claim one fixed finite cutoff for all scales, uniformity over moving support windows, an explicit ordinate-cutoff rate, a marker half-threshold bound, or RH.
 -- source:
 --   monocap-tech/weil, WeilDefect/Screening/ShortedCovariance.lean (operatorInverse), WeilDefect/Screening/MarkerStability.lean (selectedCost, marker), and provenance/rh/checkpoints/RH_ZERO_PROV_4_INFINITE_NBR_DIAGONAL_MARKER_STABILITY_20260920.md, equations (3)-(8). Native base commit b019d40205680f9761a4b0a80cbcad56ee1b606b; exact new source is in Connes_Weil_Green_Marker_Recovery.zip. Native exact instantiation: WeilDefect/Connes/CanonicalGreenMarker.lean, actual_zero_diagonal_marker_recovery.
+--
+--   Literature/source audit addendum (2026-10-11; COR-12): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Connes/CanonicalGreenMarker.lean, SHA256 cb38f6de94e8f5c299b73617bbf309df3cd605abee13ce1ce9ecb5a9c7c4408b. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_actual_pair_columns
 import Definitions.Def_WeilMarker_regularized_cost

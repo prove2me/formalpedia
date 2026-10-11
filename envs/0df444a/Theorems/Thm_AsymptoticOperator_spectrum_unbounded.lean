@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_spectrum_unbounded
 -- name    : AsymptoticOperator.spectrum_unbounded
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:33:22.609429+00:00
 -- url     : https://prove2.me/theorems/045d852d-8662-4329-a12c-1b794cb909db

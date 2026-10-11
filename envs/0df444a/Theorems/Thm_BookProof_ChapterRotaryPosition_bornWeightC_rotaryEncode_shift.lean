@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRotaryPosition_bornWeightC_rotaryEncode_shift
 -- name    : BookProof.ChapterRotaryPosition.bornWeightC_rotaryEncode_shift
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:19:53.364982+00:00
 -- url     : https://prove2.me/theorems/90c1c702-ef81-4f5a-bda7-96d21dbf8640

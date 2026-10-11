@@ -10,6 +10,8 @@
 --   For every positive window and original supported test, the squared norm of the complete positive actor analysis minus the squared norm of the complete negative actor analysis equals the real part of the full original Weil distribution on its convolution square. The sum runs over actual zeta zeros with analytic multiplicities; original reflected pair columns retain their factor one half. Both norm-square series genuinely converge. No positivity or RH premise is used.
 -- source:
 --   monocap-tech/weil at 28829dbeeee2ba23d6c0f3cedaf22952174099c2; WeilDefect/Connes/SmallSupportPositivity.lean. Original native declarations and exact constant definition bodies unchanged.
+--
+--   Literature/source audit addendum (2026-10-11): This graph export is assembled from ConnesGreen.canonical_full_arithmetic and ConnesGreen.canonical_negative_analysis_partition at empty selection. The graph name is a recovered named export, rather than a literal native declaration in the cited source. The exact graph type was independently checked in Lean.
 
 import Definitions.Def_ConnesGreen_RG0_original_actors
 open Complex MeasureTheory ConnesRZ ConnesRZFrontier ConnesGreen WeilDefect WeilDefect.ConnesNative Set

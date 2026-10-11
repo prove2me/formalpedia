@@ -10,6 +10,8 @@
 --   For every original smooth test $g$ supported strictly inside $(-T,T)$, write $E(g)=\int|g\prime|^2+\tfrac14\int|g|^2$. For every real $x$, $$|(g\star g^*)(x)|\le2E(g)\max(2T-|x|,0).$$ This is the original Dirichlet energy, independently identified with the physical source norm squared in the native Green development. The estimate is uniform over moving tests and includes equality at the support boundary. It controls the prime-threshold overlap contribution, not the complete Weil quadratic form or actual-zero neutral-shell persistence.
 -- source:
 --   monocap-tech/weil, Connes/PrimeThresholdEnergy.lean. Original Connes supported-test, convolution and involution definitions. Native companion theorems prove a uniform relative-energy bound for the entire nearby prime-threshold remainder, preserving actual zero actors and selected packet.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 475cc0a33fcc47f1e5f7d6d52108064cae6a32b8, WeilDefect/Connes/PrimeThresholdEnergy.lean, SHA256 d8979d93cb54db2734606034e45ca0e6299853988be57482f78e4024d233cd84. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_canonical_model
 import Mathlib.MeasureTheory.Integral.IntervalIntegral.DistLEIntegral

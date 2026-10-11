@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravityNonRenorm_ads_entropy_matches_cft_one_dim_lower
 -- name    : GravityNonRenorm.ads_entropy_matches_cft_one_dim_lower
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:14.680995+00:00
 -- url     : https://prove2.me/theorems/ef7e5ff0-84da-4f03-b26b-8867e2826131

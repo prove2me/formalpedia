@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clPaidFraction_nonneg
 -- name    : ActuarialValuation.clPaidFraction_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:38:34.491981+00:00
 -- url     : https://prove2.me/theorems/d5069b52-195f-4be1-a0bf-da1e7503b20f

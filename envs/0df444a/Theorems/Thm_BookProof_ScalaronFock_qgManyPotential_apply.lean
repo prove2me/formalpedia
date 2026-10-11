@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_qgManyPotential_apply
 -- name    : BookProof.ScalaronFock.qgManyPotential_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:23:46.30598+00:00
 -- url     : https://prove2.me/theorems/a76f0913-4fad-468d-bcb4-6b001a354a0c

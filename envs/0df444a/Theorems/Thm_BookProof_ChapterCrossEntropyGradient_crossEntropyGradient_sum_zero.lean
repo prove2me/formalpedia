@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCrossEntropyGradient_crossEntropyGradient_sum_zero
 -- name    : BookProof.ChapterCrossEntropyGradient.crossEntropyGradient_sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:24:55.35105+00:00
 -- url     : https://prove2.me/theorems/f5714004-f9f7-4dd5-b07f-60c7c48e9efd

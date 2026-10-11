@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailScaledExcess_zero
 -- name    : ActuarialValuation.tailScaledExcess_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:44:06.143882+00:00
 -- url     : https://prove2.me/theorems/6205c3a2-2475-4fea-bb1a-a427e09cfeb3

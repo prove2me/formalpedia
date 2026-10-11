@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_moll_congr_norm
 -- name    : BookProof.RadialMollifier.moll_congr_norm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:00:57.700206+00:00
 -- url     : https://prove2.me/theorems/f54e5507-3c93-415b-8fc6-15234660af50

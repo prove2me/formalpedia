@@ -10,6 +10,8 @@
 --   Exact unchanged native conjugateZero, quartet and packetValues bodies. Analytic conjugation proof uses existing certified Zeta23 Schwarz reflection; subtype proof terms are proof-irrelevant. The actual zeta-zero carrier, native reflectedZero and orbit are preserved. No separation or RH premise.
 -- source:
 --   WeilDefect/Connes/QuartetSeparation.lean at 68011f0aa80779d1735ecbe344b0314d03cd3de5; exact definition bodies.
+--
+--   Literature/source audit addendum (2026-10-11; COR-19): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Connes/QuartetSeparation.lean, SHA256 bf7e8ac9978b7797a37feb7db034e268fc4d90f5d9deec1f82566b64ec62e585. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry. The unchanged graph RHS values were checked against native definitions by Lean rfl. This is source/value custody, not an assertion that contextual literature supplies the whole definition bundle.
 
 import Definitions.Def_ConnesGreen_RG0_original_actors
 set_option autoImplicit false

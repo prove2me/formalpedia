@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_intervalDens_mul_extField_eq
 -- name    : BookProof.NavierStokesFlow.FockOfFock.intervalDens_mul_extField_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:11:59.632761+00:00
 -- url     : https://prove2.me/theorems/9131ddd5-d0a4-4982-8ce0-fdae9d6ba633

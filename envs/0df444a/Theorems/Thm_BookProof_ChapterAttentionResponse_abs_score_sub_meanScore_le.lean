@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionResponse_abs_score_sub_meanScore_le
 -- name    : BookProof.ChapterAttentionResponse.abs_score_sub_meanScore_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:42:33.837987+00:00
 -- url     : https://prove2.me/theorems/21a5e3b9-cf06-477a-9bc4-6421e9389d44

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_nsSymbol_ge_one
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.nsSymbol_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:54:10.716812+00:00
 -- url     : https://prove2.me/theorems/3eb06544-c9b3-4681-ac86-0904ba5add3e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_isPosCol_diagCol
 -- name    : BookProof.QgCouplingDGammaSum.isPosCol_diagCol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:20:27.751441+00:00
 -- url     : https://prove2.me/theorems/27f23b88-b8ce-4149-8fb9-3c59e4cf5111

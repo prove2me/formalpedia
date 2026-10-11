@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatrixTail_Azuma_display2_6
 -- name    : MatrixTail.Azuma.display2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:24:51.684857+00:00
 -- url     : https://prove2.me/theorems/fbf0bf9c-b620-4b40-9917-310549eccda9

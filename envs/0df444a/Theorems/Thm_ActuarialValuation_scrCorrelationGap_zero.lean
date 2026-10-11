@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrCorrelationGap_zero
 -- name    : ActuarialValuation.scrCorrelationGap_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:38.349367+00:00
 -- url     : https://prove2.me/theorems/5c51c7b5-411e-440e-8613-a6970f925039

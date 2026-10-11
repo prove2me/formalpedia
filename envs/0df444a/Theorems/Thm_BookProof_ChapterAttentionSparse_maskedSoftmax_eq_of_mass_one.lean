@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_maskedSoftmax_eq_of_mass_one
 -- name    : BookProof.ChapterAttentionSparse.maskedSoftmax_eq_of_mass_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:49:28.514138+00:00
 -- url     : https://prove2.me/theorems/13b1d647-4467-4746-97af-8c5e70fd5c16

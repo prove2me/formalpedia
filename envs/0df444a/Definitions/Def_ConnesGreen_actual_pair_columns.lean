@@ -12,6 +12,8 @@
 --   Here $m_\rho$ is the analytic multiplicity of the actual zeta zero. The factor $1/2$ and the reflection duplication are preserved from the native Connes–Weil actor infrastructure. These definitions make no assumption about RH, positivity, separation, or a marker inequality. The reflection proof reuses the existing analytic zeta seam and does not replace zeta zeros by an abstract zero configuration.
 -- source:
 --   monocap-tech/weil, WeilDefect/Connes/CanonicalGreenBackground.lean, based on repository commit b019d40205680f9761a4b0a80cbcad56ee1b606b. Exact incremental source and native audit are delivered in Connes_Weil_Green_Background_Custody.zip; the P2M proof reuses the existing canonical model and proved canonical Green realization.
+--
+--   Literature/source audit addendum (2026-10-11; COR-19): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Connes/ActualZeroPair.lean, SHA256 3e78ddfe538c4cff6a787b09fa51801641d7d0792c278b6a1c48551b09060cb1; monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Connes/GreenSynthesis.lean, SHA256 c061b6976f1ff7442201fce9c78558ff2a46922a5d32695765a81cfc592dbd4b. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry. The unchanged graph RHS values were checked against native definitions by Lean rfl. This is source/value custody, not an assertion that contextual literature supplies the whole definition bundle.
 
 import Definitions.Def_ConnesGreen_canonical_model
 import Definitions.Def_Zeta23_ZetaReflect

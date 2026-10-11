@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OpenPitMIP_Vrhs_theorem_7
 -- name    : OpenPitMIP.Vrhs.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:18.043975+00:00
 -- url     : https://prove2.me/theorems/2ed1fb5e-3c13-4e63-a256-3ef252768594

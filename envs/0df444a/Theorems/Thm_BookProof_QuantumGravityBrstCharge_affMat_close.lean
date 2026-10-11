@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_affMat_close
 -- name    : BookProof.QuantumGravityBrstCharge.affMat_close
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:39:10.102335+00:00
 -- url     : https://prove2.me/theorems/c6d0ebb9-85b9-4b5c-b9e5-37ea9ef26f7e

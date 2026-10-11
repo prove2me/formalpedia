@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionTopK_isTopWeight_of_isTopScore
 -- name    : BookProof.ChapterAttentionTopK.isTopWeight_of_isTopScore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:51:36.877992+00:00
 -- url     : https://prove2.me/theorems/cefe875d-4ba3-44b8-b9d3-4c5eeaced114

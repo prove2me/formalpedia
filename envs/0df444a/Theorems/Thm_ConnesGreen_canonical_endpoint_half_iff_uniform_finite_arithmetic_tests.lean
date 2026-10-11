@@ -16,6 +16,8 @@
 --   This is an exact criterion for an arbitrary nonnegative parameter $c$, including $c=0$ and empty selected packets. It does not establish the displayed arithmetic condition at the intended critical endpoint, identify that endpoint, or prove a neutral-shell bound or RH. Positive regularization tends to zero first; support tends to the endpoint from the right second. No limit or quantifier order is exchanged.
 -- source:
 --   Existing native Connes–Weil development, WeilDefect/Connes/CanonicalGreenQuadraticEndpoint.lean, theorem ConnesGreen.canonical_endpoint_half_iff_uniform_finite_arithmetic_tests; exact source SHA256 a8f1724cb60c29fc5c8c599f9bfb98ecb7ec0c466ddf171ff8c8d7ae62604e90. Recovered checkpoint Connes_Weil_RG0_Finite_Arithmetic_Tests.zip SHA256 be34a9178df35e6cb4fe9704b22cbdbdaed99beb0374b7dd4367e11658cdc553. Public signature unfolds only physicalTestEnergy; independent native signature and complete proof assembly checked. Separate RPB108 original-form attachments remain future work.
+--
+--   Literature/source audit addendum (2026-10-11; COR-07): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 7c5b1bc48d1cd2dd7385b1e634cd33a1e95550c7, WeilDefect/Connes/CanonicalGreenQuadraticEndpoint.lean, SHA256 a8f1724cb60c29fc5c8c599f9bfb98ecb7ec0c466ddf171ff8c8d7ae62604e90. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_support_right_marker
 import Definitions.Def_WeilMarker_regularized_cost

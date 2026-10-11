@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_AffineFiber_basisState_coe
 -- name    : BookProof.NavierStokesFlow.AffineFiber.basisState_coe
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T16:49:08.470869+00:00
 -- url     : https://prove2.me/theorems/86d94b17-2562-454b-9f1e-b98630861347

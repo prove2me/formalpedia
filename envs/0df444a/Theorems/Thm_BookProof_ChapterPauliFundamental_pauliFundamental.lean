@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliFundamental_pauliFundamental
 -- name    : BookProof.ChapterPauliFundamental.pauliFundamental
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:31:43.802972+00:00
 -- url     : https://prove2.me/theorems/ec5b357a-494a-415a-a9d4-65895b7c5ff8

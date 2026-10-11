@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionResponse_norm_scoreValueCovariance_le
 -- name    : BookProof.ChapterAttentionResponse.norm_scoreValueCovariance_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:42:30.77599+00:00
 -- url     : https://prove2.me/theorems/166e8150-415b-4092-a595-871847550cd0

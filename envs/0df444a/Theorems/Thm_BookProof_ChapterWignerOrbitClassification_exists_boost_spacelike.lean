@@ -1,0 +1,35 @@
+-- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_exists_boost_spacelike
+-- name    : BookProof.ChapterWignerOrbitClassification.exists_boost_spacelike
+-- status  : Open
+-- author  : @leonardopedro
+-- created : 2026-10-10T18:15:37.114977+00:00
+-- url     : https://prove2.me/theorems/dce2b585-4297-4af4-9390-e94103864588
+-- title:
+--   `BookProof.ChapterWignerOrbitClassification.exists_boost_spacelike` {m : ℝ} (hm : 0 < m) (p : Fin 4 → ℝ) (hshell : minkSq p = -m ^ 2) : ∃ A : Matrix (Fin 2) (Fin 2) ℂ, A.det = 1 ∧
+-- statement:
+--   Prove the following Lean 4 theorem from `ChapterWignerOrbitClassification`.
+--
+--   `BookProof.ChapterWignerOrbitClassification.exists_boost_spacelike` {m : ℝ} (hm : 0 < m) (p : Fin 4 → ℝ) (hshell : minkSq p = -m ^ 2) : ∃ A : Matrix (Fin 2) (Fin 2) ℂ, A.det = 1 ∧ act A (hermOfMom (spaceRefMom m)) = hermOfMom p
+--
+--   Formalization note: Lean 4 identifier `BookProof.ChapterWignerOrbitClassification.exists_boost_spacelike`.
+
+-- Generated from ChapterWignerOrbitClassification.lean — theorem BookProof.ChapterWignerOrbitClassification.exists_boost_spacelike
+import Definitions.Def_ChapterWignerLittleGroupOrbits
+import Mathlib
+import Definitions.Def_ChapterWignerOrbitClassification
+import Definitions.Def_ChapterGravityProjector
+import Definitions.Def_ChapterWignerLittleGroup
+open BookProof.ChapterGravityProjector
+open BookProof.ChapterWignerLittleGroup
+open BookProof.ChapterWignerOrbitClassification
+
+
+open Matrix Complex
+
+
+open BookProof.ChapterWignerLittleGroup BookProof.ChapterWignerLittleGroupOrbits
+
+theorem BookProof.ChapterWignerOrbitClassification.exists_boost_spacelike {m : ℝ} (hm : 0 < m) (p : Fin 4 → ℝ)
+    (hshell : minkSq p = -m ^ 2) :
+    ∃ A : Matrix (Fin 2) (Fin 2) ℂ, A.det = 1 ∧
+      act A (hermOfMom (spaceRefMom m)) = hermOfMom p := by sorry

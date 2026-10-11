@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Static_theorem_4_1
 -- name    : RobustPoA.Static.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:42:11.821172+00:00
 -- url     : https://prove2.me/theorems/8e486cce-12cf-4a18-b381-a126a70b4cf2

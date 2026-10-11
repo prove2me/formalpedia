@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedIntegerKernelDensity_exp_bounds
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedIntegerKernelDensity_exp_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:18:40.491246+00:00
 -- url     : https://prove2.me/theorems/02d500fd-6e7f-4b4f-ae5a-4d44be142389

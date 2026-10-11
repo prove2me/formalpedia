@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whSquaredResidual_symm
 -- name    : ActuarialValuation.whSquaredResidual_symm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:14:49.120795+00:00
 -- url     : https://prove2.me/theorems/6c8a725d-8afe-416b-aa96-a080acc0855f

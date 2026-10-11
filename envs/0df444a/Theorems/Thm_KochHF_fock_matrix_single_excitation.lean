@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_fock_matrix_single_excitation
 -- name    : KochHF.fock_matrix_single_excitation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:47.470422+00:00
 -- url     : https://prove2.me/theorems/03ea7fbf-e4cb-4937-a7cc-3bd0d552436b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackEstimationVariance_zero
 -- name    : ActuarialValuation.mackEstimationVariance_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:30:51.998608+00:00
 -- url     : https://prove2.me/theorems/12e241ad-e0e3-4989-abb7-4820959e9f16

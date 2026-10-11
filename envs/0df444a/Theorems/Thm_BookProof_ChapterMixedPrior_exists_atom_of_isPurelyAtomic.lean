@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMixedPrior_exists_atom_of_isPurelyAtomic
 -- name    : BookProof.ChapterMixedPrior.exists_atom_of_isPurelyAtomic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:09:38.179668+00:00
 -- url     : https://prove2.me/theorems/33f6322a-daf8-4602-bc2c-8f19a9560530

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whFirstRoughness_zero
 -- name    : ActuarialValuation.whFirstRoughness_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:43.365626+00:00
 -- url     : https://prove2.me/theorems/c0295799-d632-4871-afaa-318beab6f216

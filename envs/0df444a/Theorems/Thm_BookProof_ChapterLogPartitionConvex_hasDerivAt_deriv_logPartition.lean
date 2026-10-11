@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLogPartitionConvex_hasDerivAt_deriv_logPartition
 -- name    : BookProof.ChapterLogPartitionConvex.hasDerivAt_deriv_logPartition
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:32:54.636404+00:00
 -- url     : https://prove2.me/theorems/6dfb3acd-ccfb-43c5-8fc3-49898051f236

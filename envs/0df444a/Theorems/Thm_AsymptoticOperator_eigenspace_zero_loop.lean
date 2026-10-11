@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticOperator_eigenspace_zero_loop
 -- name    : AsymptoticOperator.eigenspace_zero_loop
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T14:33:51.477625+00:00
 -- url     : https://prove2.me/theorems/2a158964-4dcd-4ed3-9aa6-6194bcd44983

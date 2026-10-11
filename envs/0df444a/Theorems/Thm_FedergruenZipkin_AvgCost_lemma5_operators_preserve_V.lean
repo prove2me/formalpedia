@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FedergruenZipkin_AvgCost_lemma5_operators_preserve_V
 -- name    : FedergruenZipkin.AvgCost.lemma5_operators_preserve_V
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T14:38:31.860821+00:00
 -- url     : https://prove2.me/theorems/7c287321-d018-4a26-b225-a21bb83bc38e

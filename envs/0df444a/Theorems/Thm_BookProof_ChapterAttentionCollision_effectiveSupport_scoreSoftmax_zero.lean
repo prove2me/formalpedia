@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCollision_effectiveSupport_scoreSoftmax_zero
 -- name    : BookProof.ChapterAttentionCollision.effectiveSupport_scoreSoftmax_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:23:10.131984+00:00
 -- url     : https://prove2.me/theorems/ce974fcd-98ed-4b0a-8633-574a58f173ef

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_equivalence_of_refl_zerothLawPlanck
 -- name    : ZerothLawThermo.equivalence_of_refl_zerothLawPlanck
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:25:42.346356+00:00
 -- url     : https://prove2.me/theorems/83da3446-cd61-4fe1-9db1-b7b8d2cc7896

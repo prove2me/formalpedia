@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_momentum_l2Symmetric
 -- name    : BookProof.ChapterF7.momentum_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:06:37.771244+00:00
 -- url     : https://prove2.me/theorems/a3892078-f253-41b8-9b1f-ecf2646300a1

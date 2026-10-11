@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for SocialEquilibrium.Existence.exists_equilibrium_point
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-09T05:24:52.156951+00:00
 -- url     : https://prove2.me/submissions/78120ad6-aaf6-4a06-98ec-6c5345bcbe27
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_SocialEquilibrium_Existence_IsPolyhedron

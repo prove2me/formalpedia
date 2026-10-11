@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_lagrangianFock_not_bounded
 -- name    : BookProof.NavierStokesFlow.FockOfFock.lagrangianFock_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:11:07.183989+00:00
 -- url     : https://prove2.me/theorems/3432643a-74aa-4787-8efb-a196d7089ce9

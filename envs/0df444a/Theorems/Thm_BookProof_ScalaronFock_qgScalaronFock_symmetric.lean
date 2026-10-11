@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_qgScalaronFock_symmetric
 -- name    : BookProof.ScalaronFock.qgScalaronFock_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:24:39.021754+00:00
 -- url     : https://prove2.me/theorems/05b0ac59-dd0b-400a-b380-9b20068bb34d

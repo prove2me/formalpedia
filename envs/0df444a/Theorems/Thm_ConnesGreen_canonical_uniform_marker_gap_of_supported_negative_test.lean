@@ -15,6 +15,8 @@
 --   Set $\beta=(\kappa+1)^{-1}<1/2$. The same original test remains supported in every larger window. Accepted original analysis-norm independence keeps $p,b$ unchanged, and accepted actual_physical_test_norm identifies its source norm squared with the same global $E$. The accepted negative_margin_forbids_marker_lower excludes the displayed marker lower bound. All original carriers, source embeddings, actors, actual zeros and reflected-pair normalization remain unchanged. Existence of the negative test is an explicit premise of this reduction, not a conclusion of it.
 -- source:
 --   monocap-tech/weil at 85e4b8c3ed3f67e549834b0640d490c1f6537295; WeilDefect/Connes/SupportedNegativeUniformGap.lean (new additive module), retaining original actor, carrier, marker and source definitions.
+--
+--   Literature/source audit addendum (2026-10-11; COR-09): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 68011f0aa80779d1735ecbe344b0314d03cd3de5, WeilDefect/Connes/SupportedNegativeUniformGap.lean, SHA256 2c60f2c304df544779b2b47bbfda958793807d4dc85940a3e323584bdb092935. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_small_support_constants
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker

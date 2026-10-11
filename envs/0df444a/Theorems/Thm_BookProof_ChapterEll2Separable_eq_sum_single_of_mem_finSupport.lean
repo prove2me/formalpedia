@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEll2Separable_eq_sum_single_of_mem_finSupport
 -- name    : BookProof.ChapterEll2Separable.eq_sum_single_of_mem_finSupport
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:43:39.808766+00:00
 -- url     : https://prove2.me/theorems/3bd4c8f8-f058-4651-92db-e958a8aa448b

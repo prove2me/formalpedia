@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_GMQuasi_theorem_11
 -- name    : NecoaraNG.GMQuasi.theorem_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:40:50.473979+00:00
 -- url     : https://prove2.me/theorems/8d6140fd-c41f-4293-832a-b9a26bbfb933

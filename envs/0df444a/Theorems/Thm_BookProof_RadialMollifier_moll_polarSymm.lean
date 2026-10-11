@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_moll_polarSymm
 -- name    : BookProof.RadialMollifier.moll_polarSymm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:02:46.267535+00:00
 -- url     : https://prove2.me/theorems/93f5a06c-f1cb-497a-945a-0d824915ec4d

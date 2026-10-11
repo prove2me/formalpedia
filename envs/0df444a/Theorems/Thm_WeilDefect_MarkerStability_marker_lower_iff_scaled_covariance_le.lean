@@ -12,6 +12,8 @@
 --   The accepted marker/cost equivalence identifies a lower marker threshold with selectedCost(A,N)<= (beta inverse minus one) I. Specializing it at one half and using the accepted original half-bound/covariance equivalence gives cost<=I iff NN*<=A. A closed positive-scalar inverse identity proves inverse(c A)=c inverse times inverse(A), using the same native canonical ring inverse and strict positivity. It gives the exact cost scaling. Applying the cost-one equivalence to the positively scaled denominator and rescaling operator order gives the general cost/covariance equivalence. Here beta<1 makes the scale positive. No finite-dimensional surrogate, inverse bound or new operator axiom is assumed.
 -- source:
 --   monocap-tech/weil native head a1a3c6481eb9bc50bc7e92aa694f6ae530c7e359; unchanged MarkerQuadratic.lean and CanonicalGreenQuadraticEndpoint.lean declarations; explicit native definitional unfoldings only
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 97fbba88f251e0511880b2919a7e4af02fce5b9e, WeilDefect/Screening/MarkerQuadratic.lean, SHA256 efba25a3183c76bb6aeff5490c24ac3c8a1f84fd86a898c3c5749420578b7523. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_actors
 import Definitions.Def_WeilMarker_regularized_cost

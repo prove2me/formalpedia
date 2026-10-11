@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_GradCorr_theorem_5_2
 -- name    : NAGFlow.GradCorr.theorem_5_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:32:01.181378+00:00
 -- url     : https://prove2.me/theorems/b0b8ed23-95a6-480c-b620-5ad2694b36a9

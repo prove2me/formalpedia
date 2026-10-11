@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_ghostOp_one
 -- name    : BookProof.QuantumGravityBrstCharge.ghostOp_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:37:44.433003+00:00
 -- url     : https://prove2.me/theorems/87186a2f-bc5d-4f6d-9c82-5f1b3d9c1272

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackSigmaSquared_zero
 -- name    : ActuarialValuation.mackSigmaSquared_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:30:17.654985+00:00
 -- url     : https://prove2.me/theorems/51c7d9d9-8431-4e4a-976b-33aefc8154a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_asset_or_nothing_value
 -- name    : BlackScholesModel.asset_or_nothing_value
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:38:56.455588+00:00
 -- url     : https://prove2.me/theorems/8c2cb5e6-be8a-46b4-bcf8-b0f47f6bed94

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrictCQ_SAKKT_theorem_4_5
 -- name    : StrictCQ.SAKKT.theorem_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T23:32:55.689734+00:00
 -- url     : https://prove2.me/theorems/17070617-0755-4bf9-bb1e-821511b74df7

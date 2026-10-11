@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronDensitized_halfDensityUnitary_densConfCore_surjective
 -- name    : BookProof.ScalaronDensitized.halfDensityUnitary_densConfCore_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:21:16.068418+00:00
 -- url     : https://prove2.me/theorems/c256322a-d8fe-4a5e-87de-f8555298c61a

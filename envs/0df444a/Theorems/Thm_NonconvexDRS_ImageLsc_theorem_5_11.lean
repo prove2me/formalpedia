@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NonconvexDRS_ImageLsc_theorem_5_11
 -- name    : NonconvexDRS.ImageLsc.theorem_5_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:27:08.74239+00:00
 -- url     : https://prove2.me/theorems/ba4478ec-63e8-475d-b6f7-ed34baf7b894

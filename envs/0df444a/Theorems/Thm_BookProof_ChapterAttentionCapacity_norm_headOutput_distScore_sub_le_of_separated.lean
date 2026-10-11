@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionCapacity_norm_headOutput_distScore_sub_le_of_separated
 -- name    : BookProof.ChapterAttentionCapacity.norm_headOutput_distScore_sub_le_of_separated
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:20:05.924095+00:00
 -- url     : https://prove2.me/theorems/dcfd3495-f759-4995-be8d-77d2085073ed

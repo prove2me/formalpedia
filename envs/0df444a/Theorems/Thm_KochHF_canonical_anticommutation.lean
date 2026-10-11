@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_canonical_anticommutation
 -- name    : KochHF.canonical_anticommutation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:23:39.539173+00:00
 -- url     : https://prove2.me/theorems/96537681-edc9-48f6-8fb0-6b06cdf7f60b

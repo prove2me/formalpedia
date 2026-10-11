@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionSparse.maskedSoftmax_eq_of_mass_one
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T18:41:41.440635+00:00
 -- url     : https://prove2.me/submissions/ce3a5b89-25ab-472e-bd5d-01ade12eb899
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionSparse.lean — solution of BookProof.ChapterAttentionSparse.maskedSoftmax_eq_of_mass_one
 import Mathlib

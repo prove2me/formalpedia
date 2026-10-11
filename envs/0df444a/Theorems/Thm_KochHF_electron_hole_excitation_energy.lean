@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_electron_hole_excitation_energy
 -- name    : KochHF.electron_hole_excitation_energy
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:29.576182+00:00
 -- url     : https://prove2.me/theorems/5db90538-7337-476b-b323-383dd540d288

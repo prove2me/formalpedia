@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TeschlQM_Dynamics_rage
 -- name    : TeschlQM.Dynamics.rage
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T07:08:22.887295+00:00
 -- url     : https://prove2.me/theorems/35eaff73-928c-4501-ad0b-784580061f1d

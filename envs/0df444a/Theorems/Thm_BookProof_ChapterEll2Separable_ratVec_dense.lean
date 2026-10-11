@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEll2Separable_ratVec_dense
 -- name    : BookProof.ChapterEll2Separable.ratVec_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:47:25.000188+00:00
 -- url     : https://prove2.me/theorems/f8966a23-2f81-43d3-9dc1-f122c5161e26

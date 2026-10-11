@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_isFredholm_restrict_iff
 -- name    : FredholmBanach.isFredholm_restrict_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:39:25.21241+00:00
 -- url     : https://prove2.me/theorems/d019cd3a-49e7-41eb-b3ea-d462e0c635d0

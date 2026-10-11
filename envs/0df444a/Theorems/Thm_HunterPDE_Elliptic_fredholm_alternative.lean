@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Elliptic_fredholm_alternative
 -- name    : HunterPDE.Elliptic.fredholm_alternative
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:52:58.506326+00:00
 -- url     : https://prove2.me/theorems/92b83027-77c6-44bb-a3a8-b0f0e22f5b7d

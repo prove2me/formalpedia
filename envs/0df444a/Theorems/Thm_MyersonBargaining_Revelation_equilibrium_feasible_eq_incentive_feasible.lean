@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MyersonBargaining_Revelation_equilibrium_feasible_eq_incentive_feasible
 -- name    : MyersonBargaining.Revelation.equilibrium_feasible_eq_incentive_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:44:46.907276+00:00
 -- url     : https://prove2.me/theorems/bd85b57e-2882-47ae-8266-c88d96af5e72

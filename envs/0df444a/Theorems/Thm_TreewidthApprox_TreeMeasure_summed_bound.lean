@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_TreeMeasure_summed_bound
 -- name    : TreewidthApprox.TreeMeasure.summed_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:47.929869+00:00
 -- url     : https://prove2.me/theorems/462bf229-54cc-478f-b1ce-d19cc185dde3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_intervalSymbol_eq
 -- name    : BookProof.NavierStokesFlow.FockOfFock.intervalSymbol_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:11:00.53701+00:00
 -- url     : https://prove2.me/theorems/279292dd-2ed0-4135-9f96-0887f9b5d732

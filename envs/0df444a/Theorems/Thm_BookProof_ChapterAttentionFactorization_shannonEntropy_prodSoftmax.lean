@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionFactorization_shannonEntropy_prodSoftmax
 -- name    : BookProof.ChapterAttentionFactorization.shannonEntropy_prodSoftmax
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:23:46.499269+00:00
 -- url     : https://prove2.me/theorems/5f53ebb0-4b4d-4762-b22d-0475bffcdfc5

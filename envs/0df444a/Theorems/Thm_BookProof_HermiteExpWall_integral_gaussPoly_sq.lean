@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_integral_gaussPoly_sq
 -- name    : BookProof.HermiteExpWall.integral_gaussPoly_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:11:14.2853+00:00
 -- url     : https://prove2.me/theorems/bdf0881e-bc0c-4208-9fce-d31fd9185858

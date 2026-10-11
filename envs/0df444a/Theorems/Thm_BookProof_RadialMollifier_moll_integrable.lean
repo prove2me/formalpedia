@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_moll_integrable
 -- name    : BookProof.RadialMollifier.moll_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:01:30.4744+00:00
 -- url     : https://prove2.me/theorems/d51f3907-a613-47d3-a28b-010b9d141a7a

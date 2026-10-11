@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Rank_rankQ_tensorA_gt_two
 -- name    : TensorNP.Rank.rankQ_tensorA_gt_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:40.305498+00:00
 -- url     : https://prove2.me/theorems/6e8809dd-6f2a-4044-a695-401277f393a1

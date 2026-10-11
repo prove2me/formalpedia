@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterProbabilityInterface_transportMeasure_symm
 -- name    : BookProof.ChapterProbabilityInterface.transportMeasure_symm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:14:57.055976+00:00
 -- url     : https://prove2.me/theorems/969d6770-b584-4b79-aae0-cf64bb3dad3d

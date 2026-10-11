@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TensorCore_derPow_symm_tmul
 -- name    : BookProof.TensorCore.derPow_symm_tmul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:51:20.702539+00:00
 -- url     : https://prove2.me/theorems/bef7c972-3f22-485d-ad76-57e2ef53bbda

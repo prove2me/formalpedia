@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Newtonian_secondPartial_newtonianPotential_ball
 -- name    : HunterPDE.Newtonian.secondPartial_newtonianPotential_ball
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T23:26:01.731843+00:00
 -- url     : https://prove2.me/theorems/a36744c1-fc4b-4e7b-bb16-8a855be93ea3

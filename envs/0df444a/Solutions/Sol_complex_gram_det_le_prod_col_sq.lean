@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for complex_gram_det_le_prod_col_sq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-07T21:41:34.766957+00:00
 -- url     : https://prove2.me/submissions/2d87049a-ed88-431b-b2c3-6eb8072be180
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Matrix.PosDef
 import Theorems.Thm_complex_psd_det_le_prod_diag

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionMixture_multiHead_isProb
 -- name    : BookProof.ChapterAttentionMixture.multiHead_isProb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:31:54.08183+00:00
 -- url     : https://prove2.me/theorems/ece6cfd3-8a22-48ee-8485-9965e446d12e

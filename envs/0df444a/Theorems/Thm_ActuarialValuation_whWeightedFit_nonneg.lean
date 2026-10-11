@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whWeightedFit_nonneg
 -- name    : ActuarialValuation.whWeightedFit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:19.887039+00:00
 -- url     : https://prove2.me/theorems/41545c33-71fd-4685-b0e7-c0215f8a99c4

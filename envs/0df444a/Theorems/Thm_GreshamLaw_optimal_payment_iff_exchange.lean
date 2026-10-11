@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreshamLaw_optimal_payment_iff_exchange
 -- name    : GreshamLaw.optimal_payment_iff_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:40.826593+00:00
 -- url     : https://prove2.me/theorems/4088c5fd-3268-40af-98c0-55213c41f6de

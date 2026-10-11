@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OkunsLaw_common_denominator_form
 -- name    : OkunsLaw.common_denominator_form
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:48.728472+00:00
 -- url     : https://prove2.me/theorems/7f9930cd-f080-4253-975e-eef5b988d194

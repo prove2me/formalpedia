@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_energy_variation_first_order
 -- name    : KochHF.energy_variation_first_order
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:09.735316+00:00
 -- url     : https://prove2.me/theorems/258a1c92-71a8-4e32-ba1f-76217e757d43

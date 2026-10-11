@@ -10,6 +10,8 @@
 --   Let $A$ be a bounded self-adjoint operator on a complex Hilbert space $K$, and let $U:H\to K$ be a linear isometry from a complex Hilbert space. Write $q(v)=\operatorname{Re}\langle Av,v\rangle$, and suppose $q(Ux)\ge0$ for every $x\in H$. Then $$A\ge0\iff\left[\begin{array}{l}q(z)\ge0\quad\text{for every }z\in\ker U^*,\\ |\langle AUx,z\rangle|^2\le q(Ux)q(z)\quad\text{for every }x\in H,\ z\in\ker U^*.\end{array}\right]$$ No invertibility or positive spectral gap is required on the core. The companion native Connes development applies this to the unchanged original relative covariance and constructed original support inclusion, isolating the exact two remaining shell estimates at the certified inner cut. Those arithmetic estimates and the endpoint half-bound are not asserted here.
 -- source:
 --   monocap-tech/weil, Screening/RelativeShell.lean, with actual original-actor endpoint reduction in Connes/RelativeShellEndpoint.lean. Complete private positive-form Cauchy-Schwarz and quadratic-expansion lemmas are included for independent checking. This generic Hilbert-space support theorem is applied to the original physical carrier; it does not replace actual zeros or their original actors by a surrogate.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 4ba3a3a569d72a0d5af2ba6ea320f948030dcca5, WeilDefect/Screening/RelativeShell.lean, SHA256 cf02d8205f711730248dd74a7882c3a5119283ba729ebe043ef71b2f33a8d8ba. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Mathlib
 set_option autoImplicit false

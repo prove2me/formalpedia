@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_rest_energy_one_kilogram
 -- name    : MassEnergyEquivalence.rest_energy_one_kilogram
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:17:52.501503+00:00
 -- url     : https://prove2.me/theorems/fb58fe73-ce45-425e-ab9b-64979c978043

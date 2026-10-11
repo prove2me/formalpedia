@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerFrequencyPremium_zero
 -- name    : ActuarialValuation.panjerFrequencyPremium_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:44:07.064699+00:00
 -- url     : https://prove2.me/theorems/4d864083-d60c-4a93-b879-c997ab4eb7f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BlackScholesModel_put_call_parity_fwd
 -- name    : BlackScholesModel.put_call_parity_fwd
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:55.728916+00:00
 -- url     : https://prove2.me/theorems/5118ded6-01cb-40ff-86a2-85d54bc9c244

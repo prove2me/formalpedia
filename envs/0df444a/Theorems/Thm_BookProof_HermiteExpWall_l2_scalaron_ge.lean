@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_l2_scalaron_ge
 -- name    : BookProof.HermiteExpWall.l2_scalaron_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:11:12.435811+00:00
 -- url     : https://prove2.me/theorems/e2118347-95f4-4423-adb8-de175dfb9b26

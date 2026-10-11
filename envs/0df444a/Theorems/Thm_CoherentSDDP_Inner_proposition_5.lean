@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CoherentSDDP_Inner_proposition_5
 -- name    : CoherentSDDP.Inner.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:12:17.022864+00:00
 -- url     : https://prove2.me/theorems/b46ab824-9cde-4da9-a16f-22d2345ce84f

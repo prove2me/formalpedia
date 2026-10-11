@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_isFredholm_add_compact
 -- name    : FredholmBanach.isFredholm_add_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:40:41.535349+00:00
 -- url     : https://prove2.me/theorems/ec20b8e9-8d2f-4e2c-a868-9c495cace274

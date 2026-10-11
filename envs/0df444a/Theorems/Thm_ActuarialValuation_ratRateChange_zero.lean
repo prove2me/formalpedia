@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratRateChange_zero
 -- name    : ActuarialValuation.ratRateChange_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:47:48.339572+00:00
 -- url     : https://prove2.me/theorems/7c6f5621-868e-40b8-8a36-d0d444c8719e

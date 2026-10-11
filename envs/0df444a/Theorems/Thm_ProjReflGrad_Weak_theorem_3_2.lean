@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjReflGrad_Weak_theorem_3_2
 -- name    : ProjReflGrad.Weak.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:16:16.891281+00:00
 -- url     : https://prove2.me/theorems/8f60fb64-98cf-4114-87ca-5a782a9f1ca0

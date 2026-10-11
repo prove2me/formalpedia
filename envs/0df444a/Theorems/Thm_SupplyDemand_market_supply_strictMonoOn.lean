@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SupplyDemand_market_supply_strictMonoOn
 -- name    : SupplyDemand.market_supply_strictMonoOn
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:01.433779+00:00
 -- url     : https://prove2.me/theorems/8547df93-62ea-4483-87a2-d449d2581bc9

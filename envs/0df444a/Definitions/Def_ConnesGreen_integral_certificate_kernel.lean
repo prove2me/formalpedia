@@ -10,6 +10,8 @@
 --   For the unchanged actual zeta-zero subtype and original Dirichlet Green columns, define the source kernel J(t,ρ,σ) as the interval integral of conjugate(actualGreenSource ρ) times greenColumn t σ. The signed pair kernel combines its four reflected entries with the exact square-root multiplicities and factor 1/4. Tagged positive F and selected negative S columns give a finite matrix H of these kernels. The integral certificate is δH + H E H, where E is diagonal with positive tags +1 and negative tags −1. The error is δH because the original columns need not be orthonormal. These are exact auxiliary formulas, with no new carrier, zero set, inverse, or positivity premise.
 -- source:
 --   monocap-tech/weil, WeilDefect/Connes/FiniteIntegralGram.lean at d81aa3cc2a387fa9f51ee06fee978b868cbc6b85
+--
+--   Literature/source audit addendum (2026-10-11; COR-19): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d81aa3cc2a387fa9f51ee06fee978b868cbc6b85, WeilDefect/Connes/FiniteIntegralGram.lean, SHA256 dc7d2d259e66e927f80e2ce259971322fe5966b53166dcb2531fdbf4e172842f. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry. The unchanged graph RHS values were checked against native definitions by Lean rfl. This is source/value custody, not an assertion that contextual literature supplies the whole definition bundle.
 
 import Definitions.Def_ConnesGreen_finite_certificate_gram
 set_option autoImplicit false

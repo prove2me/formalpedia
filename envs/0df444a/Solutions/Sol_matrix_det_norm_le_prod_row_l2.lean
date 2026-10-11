@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for matrix_det_norm_le_prod_row_l2
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-07T20:16:13.331337+00:00
 -- url     : https://prove2.me/submissions/0479df67-2038-4d61-9e38-b08a03242162
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_matrix_gram_det_le_prod_row_sq
 import Mathlib.Analysis.Complex.Basic

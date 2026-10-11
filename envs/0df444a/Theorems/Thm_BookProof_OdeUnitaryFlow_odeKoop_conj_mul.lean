@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_odeKoop_conj_mul
 -- name    : BookProof.OdeUnitaryFlow.odeKoop_conj_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:43:03.488973+00:00
 -- url     : https://prove2.me/theorems/587ccbe3-a365-44cd-a59f-337639e512b8

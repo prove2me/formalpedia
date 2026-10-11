@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_utility_monotone_of_marginal_sign
 -- name    : MarginalUtility.utility_monotone_of_marginal_sign
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:30:18.030986+00:00
 -- url     : https://prove2.me/theorems/3d8cddcf-f4be-4367-a8a5-2dcf1b29eb61

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_compact_perturbation_coker
 -- name    : FredholmBanach.compact_perturbation_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:40:28.631847+00:00
 -- url     : https://prove2.me/theorems/4f04abf9-e1b6-4b46-a43e-b3358061ea3c

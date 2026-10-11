@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLayerNorm_scoreSoftmax_layerNorm_ge
 -- name    : BookProof.ChapterLayerNorm.scoreSoftmax_layerNorm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:26:22.828009+00:00
 -- url     : https://prove2.me/theorems/a0163835-41de-4efa-92e1-d95c82bd918b

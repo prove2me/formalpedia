@@ -10,6 +10,8 @@
 --   Retain the original derivative probe in the two-component restricted-window ambient Hilbert space and the finite-window measure instance. The probe is the native vector with first coordinate the original restricted $L^2$ representative of a function and second coordinate twice the original representative of its derivative. No source identity, positivity or arithmetic bound is postulated; the source normalization theorem proves the required orthogonality and Riesz identity separately.
 -- source:
 --   Exact declaration spans from the accepted RG-3 proof, reconciled with native ConnesGreen/CanonicalGreenAnalysis: derivativeProbe and windowMeasure_finite; skeleton subtraction uses Lean elaborator declaration metadata.
+--
+--   Literature/source audit addendum (2026-10-11; COR-19): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Connes/CanonicalGreenClosability.lean, SHA256 e36ca798b68b0f95dca195cd05cc0c2e2263f0989d5bea76a761da1baf7145dd. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry. The unchanged graph RHS values were checked against native definitions by Lean rfl. This is source/value custody, not an assertion that contextual literature supplies the whole definition bundle. derivativeProbe and windowMeasure_finite occur in CanonicalGreenClosability.lean; the earlier CanonicalGreenAnalysis label describes ancestry.
 
 import Definitions.Def_ConnesGreen_canonical_model
 import Mathlib.Analysis.Distribution.SchwartzSpace.Basic

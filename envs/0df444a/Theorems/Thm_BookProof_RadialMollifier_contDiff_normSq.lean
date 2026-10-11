@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_contDiff_normSq
 -- name    : BookProof.RadialMollifier.contDiff_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:58:59.727495+00:00
 -- url     : https://prove2.me/theorems/78282b5d-832f-43b9-955c-0afd8c8b36ec

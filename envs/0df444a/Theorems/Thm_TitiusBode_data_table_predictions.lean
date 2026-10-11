@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TitiusBode_data_table_predictions
 -- name    : TitiusBode.data_table_predictions
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:45.785982+00:00
 -- url     : https://prove2.me/theorems/02b4c7a6-b69f-4682-aa90-0e2f1326d3fa

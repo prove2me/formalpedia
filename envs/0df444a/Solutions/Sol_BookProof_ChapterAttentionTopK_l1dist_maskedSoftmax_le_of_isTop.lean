@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterAttentionTopK.l1dist_maskedSoftmax_le_of_isTop
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T18:45:09.809481+00:00
 -- url     : https://prove2.me/submissions/a83a9198-f341-4bf7-ae38-db562a715aeb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterAttentionTopK.lean — solution of BookProof.ChapterAttentionTopK.l1dist_maskedSoftmax_le_of_isTop
 import Mathlib

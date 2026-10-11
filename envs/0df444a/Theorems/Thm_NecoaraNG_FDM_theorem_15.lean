@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NecoaraNG_FDM_theorem_15
 -- name    : NecoaraNG.FDM.theorem_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:46:27.175796+00:00
 -- url     : https://prove2.me/theorems/33a6a9b5-6fcb-4d21-8232-a24ee6ee6f2c

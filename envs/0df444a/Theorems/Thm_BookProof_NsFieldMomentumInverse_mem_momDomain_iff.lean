@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_mem_momDomain_iff
 -- name    : BookProof.NsFieldMomentumInverse.mem_momDomain_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:53:29.754604+00:00
 -- url     : https://prove2.me/theorems/56350c21-cd2a-44a8-9071-579d35f23da5

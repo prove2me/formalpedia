@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ComparativeAdvantage_ricardo_terms_of_trade
 -- name    : ComparativeAdvantage.ricardo_terms_of_trade
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:35:27.494325+00:00
 -- url     : https://prove2.me/theorems/c03c0b3c-94c0-44b9-998d-22617b2087e3

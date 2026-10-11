@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCrossEntropyGradient_crossEntropyGradient_target_nonpos
 -- name    : BookProof.ChapterCrossEntropyGradient.crossEntropyGradient_target_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:24:57.976067+00:00
 -- url     : https://prove2.me/theorems/d99c5175-9c0a-4b0f-8413-7ca18f443ec7

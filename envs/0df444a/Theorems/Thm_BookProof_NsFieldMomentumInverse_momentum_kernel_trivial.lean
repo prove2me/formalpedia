@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_momentum_kernel_trivial
 -- name    : BookProof.NsFieldMomentumInverse.momentum_kernel_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:53:13.043547+00:00
 -- url     : https://prove2.me/theorems/2909860f-7f60-4272-a2d9-6e0d65b377a3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_radialBump_pos_of_lt_one
 -- name    : BookProof.RadialMollifier.radialBump_pos_of_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:59:56.601505+00:00
 -- url     : https://prove2.me/theorems/778e8dff-c7df-4332-9a8a-77d944962bd0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_exists_equiv_of_index_eq_zero
 -- name    : FredholmBanach.exists_equiv_of_index_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:39:39.283243+00:00
 -- url     : https://prove2.me/theorems/56591899-7687-488c-96de-1e899abcf640

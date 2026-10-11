@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Rank_eq29_iff_system30
 -- name    : TensorNP.Rank.eq29_iff_system30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:08:03.93099+00:00
 -- url     : https://prove2.me/theorems/e34d6ade-1c62-4c97-a63c-3bce29e57dda

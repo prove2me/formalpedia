@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_tridiagOp_sum
 -- name    : BookProof.NavierStokesFlow.Carleman.tridiagOp_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:36:48.572412+00:00
 -- url     : https://prove2.me/theorems/ad94a828-1f02-42e1-b338-d9bd520b8db8

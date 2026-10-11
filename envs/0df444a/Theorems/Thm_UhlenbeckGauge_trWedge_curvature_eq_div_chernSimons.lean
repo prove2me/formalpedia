@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UhlenbeckGauge_trWedge_curvature_eq_div_chernSimons
 -- name    : UhlenbeckGauge.trWedge_curvature_eq_div_chernSimons
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:24:37.186984+00:00
 -- url     : https://prove2.me/theorems/6f8d127a-5279-42e1-af64-cfb5a48cca04

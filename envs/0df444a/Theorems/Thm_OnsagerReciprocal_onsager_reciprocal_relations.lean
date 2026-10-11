@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnsagerReciprocal_onsager_reciprocal_relations
 -- name    : OnsagerReciprocal.onsager_reciprocal_relations
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T22:02:47.483437+00:00
 -- url     : https://prove2.me/theorems/74b42420-96f0-47e5-bbaf-099798fe41e2

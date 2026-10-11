@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliFundamental_exists_intertwiner
 -- name    : BookProof.ChapterPauliFundamental.exists_intertwiner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:32:42.634477+00:00
 -- url     : https://prove2.me/theorems/5a346025-6fac-4059-b9a6-20166ac6b160

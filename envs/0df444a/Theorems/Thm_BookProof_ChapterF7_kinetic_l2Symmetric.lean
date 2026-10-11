@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterF7_kinetic_l2Symmetric
 -- name    : BookProof.ChapterF7.kinetic_l2Symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T05:07:33.255295+00:00
 -- url     : https://prove2.me/theorems/76ab71fe-c117-4725-8655-ec66f744525a

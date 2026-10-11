@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_affF_contract
 -- name    : BookProof.QuantumGravityBrstCharge.affF_contract
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:39:04.055094+00:00
 -- url     : https://prove2.me/theorems/70d15386-2694-4eaf-87bd-9101c934a927

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GravityNonRenorm_gravity_not_renormalizable
 -- name    : GravityNonRenorm.gravity_not_renormalizable
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:35:04.313854+00:00
 -- url     : https://prove2.me/theorems/1fa3bc8c-21e0-4b01-9654-d131bfd0b077

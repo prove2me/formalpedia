@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_quasiStatic_adiabatic_work_eq_neg_deltaU
 -- name    : FirstLawThermo.quasiStatic_adiabatic_work_eq_neg_deltaU
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:25:34.756738+00:00
 -- url     : https://prove2.me/theorems/166a75f3-b4f6-4d5b-8f4a-abe01f927ed3

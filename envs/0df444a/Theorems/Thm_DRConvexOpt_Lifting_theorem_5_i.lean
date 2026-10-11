@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Lifting_theorem_5_i
 -- name    : DRConvexOpt.Lifting.theorem_5_i
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:32:59.468918+00:00
 -- url     : https://prove2.me/theorems/ea51db4e-59f9-4019-a165-a7a83e77542d

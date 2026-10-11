@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucFundingSurplus_zero
 -- name    : ActuarialValuation.pucFundingSurplus_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:14:38.417144+00:00
 -- url     : https://prove2.me/theorems/1ff62f80-5d84-49f0-9ad9-dc505550e752

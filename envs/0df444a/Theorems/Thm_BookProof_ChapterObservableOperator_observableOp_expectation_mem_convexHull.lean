@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterObservableOperator_observableOp_expectation_mem_convexHull
 -- name    : BookProof.ChapterObservableOperator.observableOp_expectation_mem_convexHull
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:43:36.158901+00:00
 -- url     : https://prove2.me/theorems/2302528e-9c48-4704-abb8-883d18911f8d

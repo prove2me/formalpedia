@@ -10,6 +10,8 @@
 --   For a positive original support endpoint c and unchanged actual-zero packet, suppose every larger original window fails the inner Picard half-bound. Then the CONSTRUCTED original prescribed support-right marker admits no scalar lower bound aI for any a>1/2. Its norm-limit existence is now proved and is not a hypothesis. The earlier accepted boundary implication is specialized using the exact constructed original endpoint specification. Larger-window failure remains explicit; the endpoint half-bound, critical-endpoint identification, unconditional neutral attainment and RH are not established.
 -- source:
 --   monocap-tech/weil, checked native CanonicalGreenWindowInclusion.lean and CanonicalGreenSupportLimit.lean at dfaa61225f3d5a1d5b94a14884b96a18ae82816b; exact original declarations recovered with Lean elaborator proof boundaries and transported to Lean4.33.1.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil aa426544b8747056afca5edbdc701fb950768141, WeilDefect/Connes/RG0OrderedEndpointIntegration.lean, SHA256 8e6e8bed59be927d7785cf0008ad2bec5e219cf75f3ea6f416bd18c2a22008f7. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Theorems.Thm_ConnesGreen_RG0Integration_original_picard_outer_no_strict_half_margin
 import Definitions.Def_ConnesGreen_RG0_original_support_right_marker

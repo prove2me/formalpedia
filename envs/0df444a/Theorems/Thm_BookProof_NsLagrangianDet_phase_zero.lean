@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_phase_zero
 -- name    : BookProof.NsLagrangianDet.phase_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:54:24.876735+00:00
 -- url     : https://prove2.me/theorems/cc0d4fbc-5380-460b-b3a0-915d88a9b56d

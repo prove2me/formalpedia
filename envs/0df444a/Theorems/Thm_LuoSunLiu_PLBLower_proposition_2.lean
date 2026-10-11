@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LuoSunLiu_PLBLower_proposition_2
 -- name    : LuoSunLiu.PLBLower.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:14:59.435174+00:00
 -- url     : https://prove2.me/theorems/dad995c0-adc1-481d-ba71-446f7a41fe19

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma_irreducible
 -- name    : BookProof.ChapterA3.mgamma_irreducible
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:27:36.824975+00:00
 -- url     : https://prove2.me/theorems/527c9f2c-cdad-44e5-9abd-6df707ff8914

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_volume_momSymbol_zero
 -- name    : BookProof.NsFieldMomentumInverse.volume_momSymbol_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:55:31.797981+00:00
 -- url     : https://prove2.me/theorems/2e7fd0e8-f231-400e-945a-9bf99688263c

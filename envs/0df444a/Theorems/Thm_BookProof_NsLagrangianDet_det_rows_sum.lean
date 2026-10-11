@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsLagrangianDet_det_rows_sum
 -- name    : BookProof.NsLagrangianDet.det_rows_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:55:25.016994+00:00
 -- url     : https://prove2.me/theorems/c64e8233-a415-45d7-9d28-3486ea5388e1

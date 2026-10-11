@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_index_eq_zero_tfae
 -- name    : FredholmBanach.index_eq_zero_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:40:59.549224+00:00
 -- url     : https://prove2.me/theorems/764cb104-f3b4-4181-99ae-d157fafdd364

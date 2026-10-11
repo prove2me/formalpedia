@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_SOCP_schur_diag_ge
 -- name    : QCQPTightness.SOCP.schur_diag_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:22:56.218466+00:00
 -- url     : https://prove2.me/theorems/e66a5ba0-f1f3-48e7-b299-0009d007e5d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerAggregateCDF_zero
 -- name    : ActuarialValuation.panjerAggregateCDF_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:51:15.157985+00:00
 -- url     : https://prove2.me/theorems/911b17c8-7c50-4a90-8b5a-19146cbe99f8

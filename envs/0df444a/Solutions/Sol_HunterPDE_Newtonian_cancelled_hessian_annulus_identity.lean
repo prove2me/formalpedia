@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Newtonian.cancelled_hessian_annulus_identity
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-10T10:58:18.981993+00:00
 -- url     : https://prove2.me/submissions/46748c81-b050-4ae0-baec-a31136deb564
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_MeasureTheory_mixed_green_identity_annulus
 import Theorems.Thm_HunterPDE_Newtonian_fundamentalSolution_partial

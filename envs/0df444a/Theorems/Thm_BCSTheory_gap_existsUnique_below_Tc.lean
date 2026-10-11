@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_gap_existsUnique_below_Tc
 -- name    : BCSTheory.gap_existsUnique_below_Tc
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:07.650315+00:00
 -- url     : https://prove2.me/theorems/b7d03e6d-625a-4da8-9803-9656906a5bc0

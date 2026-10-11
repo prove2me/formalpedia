@@ -13,6 +13,8 @@
 --   All vectors range over the ORIGINAL completed Physical(t) carrier, not merely supported test vectors. A closed local proof of the exact original core-and-shell equivalence uses accepted source-adjoint custody and signed-covariance compression. Persistence implies shell vanishing by its forward implication and that equivalence. Conversely the shell-zero property and core neutrality give larger neutrality; larger neutrality always gives core neutrality by exact compression. This identifies the entire remaining obstruction for this specified original inclusion as the displayed concrete operator shell on the smaller kernel. It does not supply that shell estimate unconditionally and does not replace a separately prescribed ordered endpoint with a finite larger window.
 -- source:
 --   monocap-tech/weil parent b7df0270c344b8721001f902d0955d977d7afccc; recovered exact CanonicalGreenNeutralShell.lean core/shell theorem and additive NeutralShellObstruction.lean reductions
+--
+--   Literature/source audit addendum (2026-10-11; COR-11): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 44f7e38ec554b54547a64cf3c464b9986101a4fb, WeilDefect/Connes/NeutralShellObstruction.lean, SHA256 c62c25ceba0eca29d02708204d6c1149c71fe43410429ab7065249d572439880. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker
 open Complex MeasureTheory ConnesRZ ConnesRZFrontier ConnesGreen WeilDefect WeilDefect.ConnesNative

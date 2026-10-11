@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Nesterov_theorem_6_1
 -- name    : NAGFlow.Nesterov.theorem_6_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:29.466794+00:00
 -- url     : https://prove2.me/theorems/d2c1b328-7c73-4518-b539-e55237a05bcf

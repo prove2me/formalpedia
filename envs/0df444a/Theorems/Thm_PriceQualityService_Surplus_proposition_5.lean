@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_Surplus_proposition_5
 -- name    : PriceQualityService.Surplus.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T19:18:58.35207+00:00
 -- url     : https://prove2.me/theorems/3487f76d-747d-4f98-8a09-5a90999e80cb

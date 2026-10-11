@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FirstLawThermo_isInternalEnergy_add_const
 -- name    : FirstLawThermo.isInternalEnergy_add_const
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:49:24.886154+00:00
 -- url     : https://prove2.me/theorems/41a75d07-6c44-4b1b-bdca-e9758a7795b5

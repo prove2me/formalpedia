@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_moll_eq_zero_of_le
 -- name    : BookProof.RadialMollifier.moll_eq_zero_of_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:01:30.444568+00:00
 -- url     : https://prove2.me/theorems/ff81d977-5faf-4163-8d43-8b8647043279

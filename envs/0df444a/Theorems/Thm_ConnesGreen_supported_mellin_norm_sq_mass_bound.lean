@@ -10,6 +10,8 @@
 --   Let $T\ge0$, let $g:\mathbb R\to\mathbb C$ be smooth and compactly supported with $\operatorname{tsupport}(g)\subset(-T,T)$, and define $\widehat g(z)=\int g(t)e^{(z-1/2)t}\,dt$. Then, for every $z\in\mathbb C$, $$|\widehat g(z)|^2\le2T e^{2|\operatorname{Re}z-1/2|T}\int_{\mathbb R}|g(t)|^2\,dt.$$ This estimate is uniform in the imaginary part and supplies the original Fourier concentration and pole estimates for an explicit small-support Weil positivity interval. The integral mass is an auxiliary arithmetic quantity; no physical metric is replaced.
 -- source:
 --   monocap-tech/weil, Connes/ArchimedeanFrequency.lean, supported_mellin_norm_sq_mass_bound. The public test predicate explicitly unfolds WeilDefect.ConnesNative.SupportedTest; the original IsTest and mellinHat definitions are independently checked in native and platform toolchains. Companion native SmallSupportPositivity.lean proves actual full Weil positivity and all-positive-regularization marker bounds on an explicit small support interval; this export does not claim positivity at an identified critical endpoint or RH.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 1a32f7de3442feb804b4962bb6766304a56b5be8, WeilDefect/Connes/ArchimedeanFrequency.lean, SHA256 d675876ba3d129cadd9eec7611e56d39dd96323b8e74421b8c7b8d4c0902a05b. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesRZ_weil_defs
 set_option autoImplicit false

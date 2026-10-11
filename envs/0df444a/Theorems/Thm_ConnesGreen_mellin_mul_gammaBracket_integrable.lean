@@ -10,6 +10,8 @@
 --   For every unchanged original smooth compactly supported test k, mellinHat(k,1/2+i r) times Re digamma(1/4+i r/2)-log(pi) is integrable over the full real line. The public signature unfolds exactly the native gammaBracket definition. Accepted digamma strip growth bounds the symbol by a constant times 1+|r|; the original test gives a Schwartz Fourier transform, whose zeroth and first norm moments are integrable. The exact -r/(2 pi) frequency rescaling supplies a full integrable majorant. Gamma analyticity on the right half-plane supplies continuity. No weighted-convergence hypothesis, positivity premise or RH assumption is introduced.
 -- source:
 --   monocap-tech/weil at 6365e9fa26ba7faf91910d5a8270cb3f2cc34551; ArchimedeanEnergy.lean. Original native declarations unchanged. Exact native definition normalization checks accompany both ports.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 2f1e1920ae4ce206766c437e7f8838864fc03d80, WeilDefect/Connes/ArchimedeanEnergy.lean, SHA256 79960551f3412700bbf2f1a1e509f3fe41e017d10a0bd45c5a92e378561a9f49. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesRZ_weil_defs
 import Theorems.Thm_Zeta23_WeilEF_digamma_growth_strip

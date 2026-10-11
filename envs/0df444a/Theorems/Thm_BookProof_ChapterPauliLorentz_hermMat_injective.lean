@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliLorentz_hermMat_injective
 -- name    : BookProof.ChapterPauliLorentz.hermMat_injective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:32:17.401874+00:00
 -- url     : https://prove2.me/theorems/998bc50b-d40e-4cdf-95ee-4c6747f8b954

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_clockPsi_eq_exp
 -- name    : BookProof.ProbabilityClockStochastic.clockPsi_eq_exp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:15:49.094992+00:00
 -- url     : https://prove2.me/theorems/8d7bd144-ec6f-4920-a6c6-1e36aa4ae861

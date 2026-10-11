@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TamingMonster_Regret_ips_deviation
 -- name    : TamingMonster.Regret.ips_deviation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T08:40:45.124704+00:00
 -- url     : https://prove2.me/theorems/dba768ce-cc87-482a-8450-ffdac20a280a

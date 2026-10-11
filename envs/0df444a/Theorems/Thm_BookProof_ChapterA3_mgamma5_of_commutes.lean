@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma5_of_commutes
 -- name    : BookProof.ChapterA3.mgamma5_of_commutes
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:09:24.557239+00:00
 -- url     : https://prove2.me/theorems/702ad6d7-1151-4eb0-9e6b-c3fd42d06527

@@ -10,6 +10,8 @@
 --   Let $c>0$. If the original Weil value of $g*\widetilde g$ is nonnegative for every admissible test in every positive window $t<c$, then it is nonnegative for every admissible test in the window $c$. The load-bearing compact-support lemma places each unchanged test inside a smaller positive window. Positivity at smaller windows is an explicit premise, not asserted globally. This is a conditional boundary reduction for the original Weil form; it is not RH or a separation result.
 -- source:
 --   monocap-tech/weil: WeilDefect/Connes/RG0DependencyIntegration.lean, original actor and metric adapters at 4ba3a3a569d72a0d5af2ba6ea320f948030dcca5; proof and statement boundaries recovered with Lean elaborator metadata.
+--
+--   Literature/source audit addendum (2026-10-11; COR-13): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 85efc7ebf14b48f57653974640a9b77ec91f18e6, WeilDefect/Connes/RG0DependencyIntegration.lean, SHA256 1eb8d44c8d4b24bf6c94b53e3223e282d8710c1acc0523aed629c0dbafc63ccb. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Theorems.Thm_ConnesGreen_supported_test_fits_smaller_window
 import Definitions.Def_ConnesGreen_canonical_model

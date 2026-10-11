@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_relEnergy_eq_sqrt
 -- name    : MassEnergyEquivalence.relEnergy_eq_sqrt
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:12:14.351013+00:00
 -- url     : https://prove2.me/theorems/e04a5440-a388-4157-a52e-7722668f81e1

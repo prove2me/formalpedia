@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Balinski61_Connectivity_graph_n_tuply_connected
 -- name    : Balinski61.Connectivity.graph_n_tuply_connected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:51:03.212912+00:00
 -- url     : https://prove2.me/theorems/dbeb9f07-5696-4aae-bc58-8eec3bddc656

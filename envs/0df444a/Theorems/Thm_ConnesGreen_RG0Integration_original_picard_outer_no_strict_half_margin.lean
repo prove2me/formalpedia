@@ -10,6 +10,8 @@
 --   Let $S$ be the unchanged finite actual-zero packet and $c>0$. Suppose the original Picard markers tend in operator norm to $R$ as the support radius tends to $c$ from above, and every larger original window fails the half-bound. Then $$\forall a>\tfrac12,\quad aI\not\le R.$$ The inner Picard markers and their original pair actors are constructed, not postulated. The outer norm limit and larger-window failure are explicit premises. The theorem does not identify $c$ with a prescribed critical endpoint or decide whether the half-bound holds at $c$.
 -- source:
 --   monocap-tech/weil, original native companion and RG0DependencyIntegration.lean. Source/proof cuts and declarations are extracted with the Lean elaborator. Original carrier, actual zeros, multiplicities and reflected /2 custody retained.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 85efc7ebf14b48f57653974640a9b77ec91f18e6, WeilDefect/Connes/RG0DependencyIntegration.lean, SHA256 1eb8d44c8d4b24bf6c94b53e3223e282d8710c1acc0523aed629c0dbafc63ccb. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker
 import Theorems.Thm_WeilDefect_MarkerStability_no_strict_scalar_lower_bound_of_eventual_failure

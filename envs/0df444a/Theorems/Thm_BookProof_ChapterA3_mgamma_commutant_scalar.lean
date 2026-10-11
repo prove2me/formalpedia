@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma_commutant_scalar
 -- name    : BookProof.ChapterA3.mgamma_commutant_scalar
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:09:23.573634+00:00
 -- url     : https://prove2.me/theorems/a19e8450-4887-42a6-b50d-f64e55085955

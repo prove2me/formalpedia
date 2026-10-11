@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_image_invMap
 -- name    : BookProof.OdeUnitaryFlow.image_invMap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:43:42.153948+00:00
 -- url     : https://prove2.me/theorems/62fadf88-38a2-454b-9a47-6c5b837a26f9

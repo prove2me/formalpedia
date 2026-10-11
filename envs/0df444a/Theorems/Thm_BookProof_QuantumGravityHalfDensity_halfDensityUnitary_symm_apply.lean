@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityHalfDensity_halfDensityUnitary_symm_apply
 -- name    : BookProof.QuantumGravityHalfDensity.halfDensityUnitary_symm_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:58:34.400337+00:00
 -- url     : https://prove2.me/theorems/9829421f-d1b4-45c3-b7c4-a629f9e05c07

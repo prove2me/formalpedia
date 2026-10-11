@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_Auction_proposition_3_7
 -- name    : CompOT.Auction.proposition_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:13:58.885625+00:00
 -- url     : https://prove2.me/theorems/5f5afa8a-b77a-48d8-92f9-a03ff64ea249

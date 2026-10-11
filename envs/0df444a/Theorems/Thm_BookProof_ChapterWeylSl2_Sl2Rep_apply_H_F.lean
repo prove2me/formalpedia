@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_apply_H_F
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.apply_H_F
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:53:02.089913+00:00
 -- url     : https://prove2.me/theorems/3688a4fa-4245-4109-b57d-65f4eb6e6f00

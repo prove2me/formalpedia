@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_l1dist_maskedSoftmax_le_of_mass
 -- name    : BookProof.ChapterAttentionSparse.l1dist_maskedSoftmax_le_of_mass
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T09:48:29.668691+00:00
 -- url     : https://prove2.me/theorems/a907aba8-a127-4827-9345-24bdc42158d4

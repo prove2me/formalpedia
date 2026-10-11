@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_dGamma_basis
 -- name    : BookProof.NavierStokesFlow.FockOfFock.dGamma_basis
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:42:07.354569+00:00
 -- url     : https://prove2.me/theorems/27fe4923-9866-4a5e-a360-c5947d6baa54

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_compact_perturbation_ker_range
 -- name    : FredholmBanach.compact_perturbation_ker_range
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:40:13.066982+00:00
 -- url     : https://prove2.me/theorems/694eee02-b39b-482b-9758-6f1f75466a6c

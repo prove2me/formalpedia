@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_qgManyPotential_esa
 -- name    : BookProof.ScalaronFock.qgManyPotential_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:24:35.040075+00:00
 -- url     : https://prove2.me/theorems/243096ab-8ffc-4d3f-bba5-9d9f17ce5a54

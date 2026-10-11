@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_dGamma_hasZeroDeficiencyOn
 -- name    : BookProof.NavierStokesFlow.FockOfFock.dGamma_hasZeroDeficiencyOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:41:53.144848+00:00
 -- url     : https://prove2.me/theorems/2a0592f1-6c54-40ee-84b1-78597b333965

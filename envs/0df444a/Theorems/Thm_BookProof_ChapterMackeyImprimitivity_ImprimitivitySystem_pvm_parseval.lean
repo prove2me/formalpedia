@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyImprimitivity_ImprimitivitySystem_pvm_parseval
 -- name    : BookProof.ChapterMackeyImprimitivity.ImprimitivitySystem.pvm_parseval
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:49:47.856518+00:00
 -- url     : https://prove2.me/theorems/b8032741-990e-49cc-9234-07af3e0fcddf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackProjection_zero
 -- name    : ActuarialValuation.mackProjection_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:27:20.778144+00:00
 -- url     : https://prove2.me/theorems/650dd9aa-60a5-4310-9c4e-581a47d31f73

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clUnpaidFraction_one
 -- name    : ActuarialValuation.clUnpaidFraction_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:40:43.171992+00:00
 -- url     : https://prove2.me/theorems/d41791c1-1047-4824-976e-738d921ac962

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QCQPTightness_SOCP_proposition_1
 -- name    : QCQPTightness.SOCP.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T18:23:36.855015+00:00
 -- url     : https://prove2.me/theorems/c412d1fd-e62a-44e6-a2eb-8606a6c0257c

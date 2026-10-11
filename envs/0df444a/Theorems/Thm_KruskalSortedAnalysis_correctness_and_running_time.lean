@@ -1,0 +1,503 @@
+-- Prove2me | Theorems.Thm_KruskalSortedAnalysis_correctness_and_running_time
+-- name    : KruskalSortedAnalysis.correctness_and_running_time
+-- status  : Proved
+-- author  : @lunjia
+-- created : 2026-10-11T02:03:01.4314+00:00
+-- url     : https://prove2.me/theorems/336020a3-adff-4f23-bca2-e37b24b288d0
+-- title:
+--   CLRS Chapter 21, §21.2: Kruskal After Sorting — Correctness and Inverse-Ackermann Running Time
+-- statement:
+--   This target is the **post-sorting result** below: a reusable call to `kruskal_sorted` has running time O(V + 1 + E alpha(V)). The supplied order is already a sorted edge permutation; this call performs no sorting.
+--
+--   Prove2Me mission category: **Textbook**.
+--
+--   ## Reusable minimum spanning forest algorithms
+--
+--   Kruskal builds a cheapest connecting forest by considering edges in weight
+--   order and selecting those that join different components. A caller may already
+--   have that order, so the cost of sorting should be distinguished from the work
+--   that remains. This development provides two callable entry points and two
+--   running-time results: the complete algorithm, and the algorithm after sorting.
+--
+--   This mission belongs to the formalization series for *Introduction to
+--   Algorithms* (CLRS), fourth edition: **Chapter 21, §21.2** for Kruskal,
+--   **Theorem 21.1 in §21.1** for safe edges, and **Theorem 19.14 in §19.4** for
+--   union by rank with path compression. These are established textbook results;
+--   the contribution here is their connection to executable-looking source and
+--   reusable Lean call contracts.
+--   [CLRS, fourth edition](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/).
+--
+--   ## Graph, supplied edge order, and measured work
+--
+--   An **undirected weighted graph** has vertices `0, …, V−1` and edge identifiers
+--   `0, …, E−1`. Three integer sequences give each edge's source, target, and
+--   weight. Counts are nonnegative, and endpoints lie in the declared vertex
+--   range. Edge identifiers distinguish parallel edges. Weights may be negative,
+--   and self-loops are permitted.
+--
+--   A **minimum spanning forest** is an acyclic selection that connects exactly
+--   the original graph's connected components and minimizes total weight among
+--   all such forests. The returned sequence marks selected identifiers with `1`
+--   and every other integer index with `0`. For a nonempty connected graph the
+--   result is a minimum spanning tree.
+--
+--   The complete entry point is `kruskal(size, sources, targets, weights, count)`.
+--   The post-sorting entry point is
+--   `kruskal_sorted(size, sources, targets, weights, count, order)`. Its additional
+--   **sorted order** is a permutation of all edge identifiers, in nondecreasing
+--   weight order. Equal-weight identifiers may occur in either order; the arrays
+--   and output flags retain the original identifiers. The predicate
+--   `SortIndicesAnalysis.SortedPermutation` states this precondition.
+--
+--   A **heap** stores mutable sequences, objects, collections, and named counters.
+--   A **Call contract** supplies a finite returning execution that can be invoked
+--   from another program with its existing heap and counters. Input sequence
+--   references must be allocated and may alias. Both entry points preserve all
+--   previously allocated caller storage.
+--
+--   Runtime `T` is the sum of increments of eight natural-number clocks:
+--   `sort_steps`, `heap_comparisons`, `heap_swaps`, `uf_init`, `uf_find`,
+--   `uf_compress`, `uf_union`, and `kruskal`. Each has unit weight. The post-sorting
+--   call has zero increments on the three sorting clocks. Let
+--   $L(E)=\lfloor\log_2(E+1)\rfloor$ and let $\alpha$ denote the
+--   **inverse Ackermann function** with convention
+--   $A_0(r)=r+1$, $A_{k+1}(r)=A_k^{\circ(r+1)}(r)$, and
+--   $\alpha(n)=\min\{k>0:A_k(1)>n\}$, where the superscript denotes repeated composition. Its
+--   [published definition](https://prove2.me/theorems/3a3c8483-4a01-4929-88f7-8409df0a5043)
+--   is shared with the data-structure analysis.
+--
+--   ## Formalization targets
+--
+--   Both main results provide termination, minimum spanning forest correctness,
+--   fresh output storage, preservation of caller storage, and a bound on the
+--   same call's additional work. Each quantifies one positive constant before
+--   all graph inputs and initial heaps.
+--
+--   ### Entire algorithm, including sorting
+--
+--   $$
+--   \exists C>0,\qquad T\le C\bigl(V+1+E L(E)\bigr)
+--   \quad\text{for every well-formed graph input.}
+--   $$
+--
+--   This is `KruskalAnalysis.correctness_and_running_time`, with scale
+--   `KruskalAnalysis.runtimeScale`. It gives the conventional total
+--   $O(V+E\log(E+1)+1)$ bound; sorting remains charged. The proof absorbs the inverse-Ackermann contribution
+--   into the vertex and sorting terms, without requiring connectedness or a density
+--   assumption. Thus the total bound has no redundant inverse-Ackermann factor.
+--
+--   ### After sorting
+--
+--   $$
+--   \exists C>0,\qquad T\le C\bigl(V+1+E\alpha(V)\bigr)
+--   \quad\text{for every well-formed input and supplied sorted order.}
+--   $$
+--
+--   This is `KruskalSortedAnalysis.correctness_and_running_time`, with scale
+--   `KruskalSortedAnalysis.runtimeScale`. It describes an actual call that skips
+--   sorting, including singleton initialization and the entire edge scan. It
+--   is not obtained by supplying sorted data to a function that sorts again.
+--   The additive unit in both statements covers the empty graph.
+--
+--   The explicit supporting `call_contract` results retain the budgets
+--
+--   $$
+--   T_{\mathrm{sorted}}\le V+2+E\bigl(10\alpha(V)+14\bigr),
+--   $$
+--
+--   $$
+--   T_{\mathrm{total}}\le 2E\bigl(3L(E)+2\bigr)
+--                          +V+2+E\bigl(10\alpha(V)+14\bigr).
+--   $$
+--
+--   These expressions are the respective `runtimeBound` definitions. Main
+--   statements leave the constant unspecified so improved constants do not
+--   change their propositions. The component milestones are independent
+--   union-find method contracts, the sorter's permutation/order contract, the
+--   post-sorting call contract, and the complete composition.
+--
+--   ## What callers can reuse
+--
+--   **The union-find implementation and its published correctness and
+--   inverse-Ackermann analysis are reused unchanged.** Its
+--   [find contract](https://prove2.me/theorems/3dae1d37-dcea-4fe6-a531-f644a9168cbf),
+--   [union contract](https://prove2.me/theorems/150f3189-665b-4c46-b0e2-5d13d13c54e9),
+--   and [constructor contract](https://prove2.me/theorems/75986ca5-05f4-4a23-9362-774c68a27675)
+--   apply independently of graphs. They account for the same evolving object's
+--   state and amortized potential across calls. Future algorithms can import
+--   them without repeating the rank or path-compression analysis. The
+--   [indexed-heap sorting contract](https://prove2.me/theorems/67476c98-cb75-466b-bdf8-6eb449ba7184)
+--   is also reused unchanged.
+--
+--   A caller with its own verified sorted order can invoke `kruskal_sorted` and
+--   receive an allocated, fresh output, its mathematical specification, unchanged
+--   caller storage, and the smaller runtime bound. The complete algorithm invokes
+--   that same verified entry point after sorting; the two results share the scan
+--   and data-structure proofs. Initial counters need not be zero. Ordinary
+--   `Returns` and `ReturnsWithCost` theorems are convenient views of these
+--   reusable `Call` results.
+--
+--   The revised source analyses have been checked under Lean 4.33.1.
+--   The revised Kruskal theorem nodes and linked union-find and sorting components
+--   have accepted Prove2Me proofs. This is a formalization of known algorithms,
+--   not a claim of a new mathematical bound.
+--
+--   ## Where the formalization is demanding
+--
+--   Union by rank bounds an individual parent path logarithmically. Applying that
+--   bound independently to every operation does not establish the sharper
+--   accumulated inverse-Ackermann bound. Path compression changes future costs,
+--   so a usable method contract must describe the actual returned state and the
+--   same object's remaining amortized potential.
+--
+--   The component partition must also agree with the concrete selected flags.
+--   An abstract forest theorem alone does not show what the source returned.
+--   A cost theorem must include the two finds on each edge, the finds inside
+--   accepted unions, initialization, and any sorting the entry point performs.
+--   These obligations connect the graph result, mutable implementation, and
+--   measured work.
+--
+--   ## Formalization scope and source
+--
+--   The `.algo` code closely matches textbook MST-KRUSKAL: sort edges, create
+--   singleton components, compare endpoint representatives, and mark and join
+--   accepted edges. The sorting and following initialization/scan are separate
+--   callable functions. Sorting precedes singleton initialization here; neither
+--   stage changes the graph arrays. Integer identifiers and zero/one flags
+--   represent edge sets, and the constructor performs the MAKE-SET loop. The
+--   source retains full path compression, union by rank, and the explicit finds
+--   inside `union`.
+--
+--   Inputs use unbounded mathematical integers and mutable sequences defined at
+--   every integer index; finite prefixes describe the graph. Empty and
+--   disconnected graphs, negative weights, parallel edges, and self-loops are
+--   covered. Invalid counts, out-of-range endpoints, or an invalid supplied order
+--   are outside the main contracts. No contract assumes a preexisting successful
+--   transcript, an already minimal answer, or unverified data-structure behavior.
+--
+--   The runtime counts the eight named tick events, including imported calls.
+--   It does not measure elapsed time, integer bit complexity, or every arithmetic
+--   operation, access, allocation, or generated transition. Constructing input
+--   arrays and a caller-supplied sorted order is outside `kruskal_sorted`; the
+--   complete entry point includes sorting. The amortized bound does not assert
+--   inverse-Ackermann worst-case time for each individual operation.
+--
+--   Definitions and proofs cover the Ackermann hierarchy, rank/partition model,
+--   amortized union-find, mutable method contracts, sorting, graph exchange
+--   mathematics, and generated call composition. These components support further
+--   clients and sharper explicit bounds independently of Kruskal.
+--
+--   The compiler is [Algo2Lean v0.1.4](https://www.algo2lean.com/versions/v0.1.4/),
+--   with immutable release commit
+--   [`0f79d5e`](https://github.com/lunjiah/algo2lean/tree/0f79d5e4242e6477531c9ee4410409f5b1c92f76).
+--   The examples and analyses are frozen separately at public commit
+--   `9755b41d188977ae1aafdaf9eccdac0b0edb0420`; the compiler version is unchanged. The [source and proof guide](https://github.com/lunjiah/algo2lean/blob/9755b41d188977ae1aafdaf9eccdac0b0edb0420/examples/kruskal/README.md)
+--   locates both entry points and their theorems.
+--   Raw generated Lean and Prove2Me packaging are distinct: platform packaging
+--   adapts module imports and declaration layout. The compiler itself does not
+--   yet have a formal semantics-preservation proof, so the source and generated
+--   semantics remain part of the reviewable development.
+--
+--   The import root is `examples/kruskal`. All five source files are shown below,
+--   including every imported module.
+--
+--   ### `kruskal.algo`
+--
+--   ```python
+--   # CLRS MST-KRUSKAL (fourth edition, Section 21.2): sort edge identifiers,
+--   # then scan them using union by rank and path compression.
+--   # The separate kruskal_sorted entry point reuses an order supplied by a caller.
+--   from sort_indices import sort_indices
+--   from kruskal_sorted import kruskal_sorted
+--
+--
+--   def kruskal(size: Int, sources: Seq, targets: Seq, weights: Seq, count: Int) -> Seq:
+--       order = sort_indices(weights, count)
+--       return kruskal_sorted(size, sources, targets, weights, count, order)
+--   ```
+--
+--   ### `kruskal_sorted.algo`
+--
+--   ```python
+--   # The post-sorting phase of CLRS MST-KRUSKAL (fourth edition, Section 21.2).
+--   # order lists every edge identifier once, in nondecreasing weight order.
+--   # Edge identifiers are 0, ..., count - 1; endpoint arrays contain vertices
+--   # in 0, ..., size - 1. The zero/one flag sequence represents the edge set A.
+--   from union_find import UnionFind
+--
+--
+--   def kruskal_sorted(size: Int, sources: Seq, targets: Seq, weights: Seq, count: Int, order: Seq) -> Seq:
+--       chosen = const(0)
+--       # Construct one singleton set for each vertex (the textbook MAKE-SET loop).
+--       sets = UnionFind(size)
+--       index = 0
+--       tick("kruskal")
+--       # @scan
+--       while index < count:
+--           edge = order[index]
+--           a = sources[edge]
+--           b = targets[edge]
+--           tick("kruskal")
+--           left = sets.find(a)
+--           right = sets.find(b)
+--           # @test
+--           if left != right:
+--               # @select
+--               chosen[edge] = 1
+--               # @join
+--               sets.union(a, b)
+--           index += 1
+--       return chosen
+--   ```
+--
+--   ### `union_find.algo`
+--
+--   ```python
+--   # Disjoint sets over the integer elements 0, ..., size - 1.
+--   # Each root names one component. Union by rank bounds parent paths, and
+--   # find compresses every visited path directly to its root.
+--   # Clients must pass in-range elements. The representation is independent
+--   # of graphs, edge weights, or any particular client algorithm.
+--
+--   class UnionFind:
+--       parent: Seq
+--       rank: Seq
+--       size: Int
+--
+--       def __init__(self, size: Int) -> None:
+--           # Batch the CLRS MAKE-SET operation for all elements in [0, size).
+--           self.parent = const(0)
+--           self.rank = const(0)
+--           self.size = size
+--           vertex = 0
+--           tick("uf_init")
+--           # @initialize
+--           while vertex < size:
+--               self.parent[vertex] = vertex
+--               vertex += 1
+--               tick("uf_init")
+--
+--       def find(self, vertex: Int) -> Int:
+--           # CLRS FIND-SET: recursion finds the root, then rewrites every parent
+--           # along the return path. This is full path compression, not path halving.
+--           parent = self.parent
+--           tick("uf_find")
+--           # @follow
+--           if parent[vertex] == vertex:
+--               return vertex
+--           root = self.find(parent[vertex])
+--           # @compress
+--           parent[vertex] = root
+--           tick("uf_compress")
+--           return root
+--
+--       def union(self, a: Int, b: Int) -> Bool:
+--           # CLRS UNION: find both roots, then apply union by rank (LINK).
+--           # The Boolean result reports whether two components were joined.
+--           left = self.find(a)
+--           right = self.find(b)
+--           tick("uf_union")
+--           if left == right:
+--               return False
+--           # @link
+--           if self.rank[left] < self.rank[right]:
+--               self.parent[left] = right
+--           elif self.rank[right] < self.rank[left]:
+--               self.parent[right] = left
+--           else:
+--               # Equal ranks may choose either root; here the left root wins.
+--               self.parent[right] = left
+--               self.rank[left] = self.rank[left] + 1
+--           return True
+--   ```
+--
+--   ### `sort_indices.algo`
+--
+--   ```python
+--   # Order the identifiers [0, count) by their keys using a reusable binary heap.
+--   # This supplies Kruskal's sort-by-weight step: insert every identifier, then
+--   # extract minima. It is not the in-place HEAPSORT procedure from CLRS Chapter 6.
+--   # Only identifiers are reordered; keys are unchanged. Equal-key identifiers
+--   # may appear in either order.
+--   from indexed_heap import MinHeap
+--
+--
+--   def sort_indices(keys: Seq, count: Int) -> Seq:
+--       queue = MinHeap()
+--       result = const(0)
+--       index = 0
+--       # @insert
+--       while index < count:
+--           tick("sort_steps")
+--           queue.push_or_decrease(index, keys[index])
+--           index += 1
+--       index = 0
+--       # @extract
+--       while index < count:
+--           tick("sort_steps")
+--           result[index] = queue.pop_min()
+--           index += 1
+--       return result
+--   ```
+--
+--   ### `indexed_heap.algo`
+--
+--   ```python
+--   # An indexed binary min-heap for Dijkstra's priority queue.
+--   # vertices[position] and positions[vertex] are inverse on the active prefix.
+--   # keys is indexed by vertex; position -1 means the vertex is not in the heap.
+--   # Clients use nonnegative vertex identifiers, so pop_min can use -1 for empty.
+--
+--   class MinHeap:
+--       vertices: Seq
+--       positions: Seq
+--       keys: Seq
+--       size: Int
+--
+--       def __init__(self) -> None:
+--           self.vertices = const(0)
+--           self.positions = const(-1)
+--           self.keys = const(0)
+--           self.size = 0
+--
+--       def swap(self, i: Int, j: Int) -> None:
+--           a = self.vertices[i]
+--           b = self.vertices[j]
+--           # @exchange
+--           self.vertices[i] = b
+--           self.vertices[j] = a
+--           self.positions[a] = j
+--           self.positions[b] = i
+--           tick("heap_swaps")
+--
+--       def sift_up(self, i: Int) -> None:
+--           # @up_loop
+--           while i > 0:
+--               parent = (i - 1) // 2
+--               tick("heap_comparisons")
+--               if self.keys[self.vertices[parent]] <= self.keys[self.vertices[i]]:
+--                   return
+--               self.swap(i, parent)
+--               i = parent
+--
+--       def sift_down(self, i: Int) -> None:
+--           # @down_loop
+--           while 2 * i + 1 < self.size:
+--               child = 2 * i + 1
+--               right = child + 1
+--               if right < self.size:
+--                   tick("heap_comparisons")
+--                   if self.keys[self.vertices[right]] < self.keys[self.vertices[child]]:
+--                       child = right
+--               # @compare_child
+--               tick("heap_comparisons")
+--               if self.keys[self.vertices[i]] <= self.keys[self.vertices[child]]:
+--                   return
+--               self.swap(i, child)
+--               i = child
+--
+--       def push_or_decrease(self, vertex: Int, key: Int) -> None:
+--           i = self.positions[vertex]
+--           if i < 0:
+--               self.keys[vertex] = key
+--               i = self.size
+--               self.vertices[i] = vertex
+--               self.positions[vertex] = i
+--               self.size += 1
+--               self.sift_up(i)
+--           else:
+--               tick("heap_comparisons")
+--               if key < self.keys[vertex]:
+--                   self.keys[vertex] = key
+--                   self.sift_up(i)
+--
+--       def pop_min(self) -> Int:
+--           if self.size <= 0:
+--               return -1
+--           vertex = self.vertices[0]
+--           last = self.size - 1
+--           self.swap(0, last)
+--           self.size = last
+--           self.positions[vertex] = -1
+--           if last > 0:
+--               self.sift_down(0)
+--           return vertex
+--
+--       def is_empty(self) -> Bool:
+--           return self.size <= 0
+--   ```
+--
+--   ## Selected references
+--
+--   - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein,
+--     *Introduction to Algorithms*, fourth edition, MIT Press, 2022: Chapter 21,
+--     §§21.1–21.2, Theorem 21.1; Chapter 19, §§19.3–19.4, Theorem 19.14; and
+--     Chapter 6, §§6.1–6.2 and §6.5.
+--     [Publisher](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/).
+--   - [Algo2Lean](https://www.algo2lean.com/), version 0.1.4, Lean-targeting compiler and source examples.
+--     [Compiler](https://www.algo2lean.com/versions/v0.1.4/) and
+--     [source repository](https://github.com/lunjiah/algo2lean).
+--   - `UnionFindAnalysis.find_amortized` and `UnionFindAnalysis.union_amortized`,
+--     independently verified mutable union-find correctness and amortized work.
+--     [Find](https://prove2.me/theorems/3dae1d37-dcea-4fe6-a531-f644a9168cbf) and
+--     [union](https://prove2.me/theorems/150f3189-665b-4c46-b0e2-5d13d13c54e9).
+--   - `SortIndicesAnalysis.call`, independently verified indexed-heap sorting
+--     with a permutation, nondecreasing keys, preserved caller storage, and work budget.
+--     [Published theorem](https://prove2.me/theorems/67476c98-cb75-466b-bdf8-6eb449ba7184).
+--
+--   <!-- algo2lean-provenance-v0.1.4 -->
+--   **[Algo2Lean](https://www.algo2lean.com/) provenance and reproduction.** These definitions target [Algo2Lean](https://www.algo2lean.com/) v0.1.4, using the compiler source at [public commit `0f79d5e4242e6477531c9ee4410409f5b1c92f76`](https://github.com/lunjiah/algo2lean/tree/0f79d5e4242e6477531c9ee4410409f5b1c92f76), and Lean 4.33.1. The versioned compiler location is [Algo2Lean v0.1.4](https://www.algo2lean.com/versions/v0.1.4/). Compile all supplied `.algo` files and imports to reproduce the raw generated definitions. Release publication and exact website parity require their separately recorded checks; this metadata alone does not assert them. Prove2Me imports and declaration packaging are mechanically adapted, with original hashes, compiler-reported source ranges, and adaptations recorded in transplant provenance. Exact reproduction does not prove the compiler correct.
+-- source:
+--   https://github.com/lunjiah/algo2lean/blob/9755b41d188977ae1aafdaf9eccdac0b0edb0420/examples/kruskal/analysis/kruskal_sorted.lean#L188-L212
+
+import Definitions.Def_Algo_kruskal_sorted_Analysis
+import Theorems.Thm_KruskalSortedAnalysis_call_contract
+
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency false
+set_option backward.defeqAttrib.useBackward true
+
+set_option autoImplicit false
+
+theorem KruskalSortedAnalysis.correctness_and_running_time :
+    Exists.{1} fun C =>
+      LT.lt.{0} (0 : Nat) C ∧
+        ∀ (heap : Algo2LeanGenerated.Heap) (size count : Int)
+          (sources targets weights order : Algo2LeanGenerated.SeqRef),
+          Algo.kruskal_sorted.kruskal_sorted.ValidInput heap
+              (Prod.mk.{0, 0} size
+                (Prod.mk.{0, 0} sources
+                  (Prod.mk.{0, 0} targets (Prod.mk.{0, 0} weights (Prod.mk.{0, 0} count order))))) →
+            KruskalInput.WellFormed size count (heap.read sources) (heap.read targets) →
+              SortIndicesAnalysis.SortedPermutation (heap.read weights) count (heap.read order) →
+                Exists.{1} fun final =>
+                  Exists.{1} fun chosen =>
+                    Exists.{1} fun selected =>
+                      Algo.kruskal_sorted.kruskal_sorted.Call heap
+                          (Prod.mk.{0, 0} size
+                            (Prod.mk.{0, 0} sources
+                              (Prod.mk.{0, 0} targets
+                                (Prod.mk.{0, 0} weights (Prod.mk.{0, 0} count order)))))
+                          final chosen ∧
+                        Algo2Lean.Kruskal.MinimumSpanningForest
+                            (KruskalInput.edges (heap.read sources) (heap.read targets)
+                              (heap.read weights) count)
+                            selected ∧
+                          KruskalAnalysis.Flags (final.read chosen) selected ∧
+                            heap.Footprint final List.nil.{0} List.nil.{0} List.nil.{0} ∧
+                              LE.le.{0} heap.nextRef chosen ∧
+                                LT.lt.{0} chosen final.nextRef ∧
+                                  heap.Increments final (heap.cost final) ∧
+                                    LE.le.{0} (KruskalSortedAnalysis.runtime (heap.cost final))
+                                        (HMul.hMul.{0, 0, 0} C
+                                          (KruskalSortedAnalysis.runtimeScale size.toNat count.toNat)) ∧
+                                      ∀ (clock : String),
+                                        ¬Membership.mem.{0, 0}
+                                              (List.cons.{0} "uf_init"
+                                                (List.cons.{0} "uf_find"
+                                                  (List.cons.{0} "uf_compress"
+                                                    (List.cons.{0} "uf_union"
+                                                      (List.cons.{0} "kruskal" List.nil.{0})))))
+                                              clock →
+                                          Eq.{1} (heap.cost final clock) (0 : Nat) := by
+  sorry

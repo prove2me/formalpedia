@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_fermiBilin_sum
 -- name    : BookProof.SmBrstGhost.fermiBilin_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:47:59.679652+00:00
 -- url     : https://prove2.me/theorems/77482c4c-8269-470f-a65d-078fee1c1797

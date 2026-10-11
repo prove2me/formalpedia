@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterRieszFischer_sum_single_mem_finSupport
 -- name    : BookProof.ChapterRieszFischer.sum_single_mem_finSupport
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:19:01.444248+00:00
 -- url     : https://prove2.me/theorems/9703a0ab-e8ce-4172-86c5-0bd921a2e113

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPinOmega_qjC_qiC
 -- name    : BookProof.ChapterPinOmega.qjC_qiC
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:55:46.990116+00:00
 -- url     : https://prove2.me/theorems/af5c1e3e-c599-4ac7-8685-1870b9319e41

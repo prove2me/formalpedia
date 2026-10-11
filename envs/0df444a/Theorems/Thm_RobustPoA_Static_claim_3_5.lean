@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Static_claim_3_5
 -- name    : RobustPoA.Static.claim_3_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:41:37.582888+00:00
 -- url     : https://prove2.me/theorems/9f572313-b9b1-4b34-ad1c-b8a1e8cb6c9f

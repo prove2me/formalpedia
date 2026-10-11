@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FRBSplitting_Inertial_theorem_4_3
 -- name    : FRBSplitting.Inertial.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T13:43:50.983055+00:00
 -- url     : https://prove2.me/theorems/5550e972-dafc-49f1-bd88-600dcd9b98d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_gap_near_Tc_weak_coupling
 -- name    : BCSTheory.gap_near_Tc_weak_coupling
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:57.704222+00:00
 -- url     : https://prove2.me/theorems/67621f87-8893-4fe9-a465-a708a4ae6b0e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMixedPrior_atoms_eq_empty_of_noAtoms
 -- name    : BookProof.ChapterMixedPrior.atoms_eq_empty_of_noAtoms
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:10:04.192994+00:00
 -- url     : https://prove2.me/theorems/290a55dd-3acc-4440-a0d7-39301de96da3

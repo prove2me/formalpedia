@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_preserves_prob_iff_isColumnStochastic
 -- name    : BookProof.ProbabilityClockStochastic.preserves_prob_iff_isColumnStochastic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:55:54.215264+00:00
 -- url     : https://prove2.me/theorems/1b7811d5-3f7e-4019-8b47-d9d0698dafb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmGreenwoodSum_zero
 -- name    : ActuarialValuation.kmGreenwoodSum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:47:01.385891+00:00
 -- url     : https://prove2.me/theorems/72f9be95-d140-4d56-8c0d-251f6c5d0342

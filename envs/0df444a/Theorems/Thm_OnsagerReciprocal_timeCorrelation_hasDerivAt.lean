@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnsagerReciprocal_timeCorrelation_hasDerivAt
 -- name    : OnsagerReciprocal.timeCorrelation_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:59:52.159827+00:00
 -- url     : https://prove2.me/theorems/7d528fbd-ee21-4819-8caf-73252c29d06c

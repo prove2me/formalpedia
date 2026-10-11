@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_marginalUtility_eq_limit_of_ratio
 -- name    : MarginalUtility.marginalUtility_eq_limit_of_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:47.597297+00:00
 -- url     : https://prove2.me/theorems/a8999763-c6aa-44cb-846e-ed22455e1d01

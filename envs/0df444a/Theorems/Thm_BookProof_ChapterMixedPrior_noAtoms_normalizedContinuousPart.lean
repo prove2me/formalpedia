@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMixedPrior_noAtoms_normalizedContinuousPart
 -- name    : BookProof.ChapterMixedPrior.noAtoms_normalizedContinuousPart
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:09:35.280683+00:00
 -- url     : https://prove2.me/theorems/6a2dada1-cc0f-40f0-9618-63ada1b2691e

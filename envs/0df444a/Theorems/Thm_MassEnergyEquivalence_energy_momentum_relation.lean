@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MassEnergyEquivalence_energy_momentum_relation
 -- name    : MassEnergyEquivalence.energy_momentum_relation
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:21:50.18239+00:00
 -- url     : https://prove2.me/theorems/0b8a418c-bb69-4697-81ea-92fc031331d0

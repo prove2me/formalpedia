@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCrossEntropyGradient_crossEntropyLoss_eq_zero_iff
 -- name    : BookProof.ChapterCrossEntropyGradient.crossEntropyLoss_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:24:25.316054+00:00
 -- url     : https://prove2.me/theorems/d8778e84-2edf-4980-9a9f-c7ae6839b823

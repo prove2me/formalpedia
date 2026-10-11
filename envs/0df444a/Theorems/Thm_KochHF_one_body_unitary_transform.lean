@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KochHF_one_body_unitary_transform
 -- name    : KochHF.one_body_unitary_transform
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:26:29.396985+00:00
 -- url     : https://prove2.me/theorems/12aef6d9-3da8-4a7e-945d-3f64056a253c

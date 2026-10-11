@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPvmMeasure_pvmMeasure_eq_zero_iff
 -- name    : BookProof.ChapterPvmMeasure.pvmMeasure_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:59:34.780979+00:00
 -- url     : https://prove2.me/theorems/62e90887-42bf-4df4-89c0-7baf5961fbb4

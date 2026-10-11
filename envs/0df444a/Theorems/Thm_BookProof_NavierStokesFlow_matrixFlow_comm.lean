@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_matrixFlow_comm
 -- name    : BookProof.NavierStokesFlow.matrixFlow_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:38:32.693116+00:00
 -- url     : https://prove2.me/theorems/39e90562-9f5f-4e87-8e8f-d29386eed6e6

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Elliptic.fredholm_alternative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-09T14:03:13.367997+00:00
 -- url     : https://prove2.me/submissions/452f879b-3e9b-45e3-bf23-3b5e00064d0c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_HunterPDE_Elliptic_EllipticOperator

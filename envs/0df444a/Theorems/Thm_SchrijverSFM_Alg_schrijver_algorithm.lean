@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchrijverSFM_Alg_schrijver_algorithm
 -- name    : SchrijverSFM.Alg.schrijver_algorithm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:06:42.278979+00:00
 -- url     : https://prove2.me/theorems/20f6593f-2a7c-4ae3-b21d-83fa49dd416b

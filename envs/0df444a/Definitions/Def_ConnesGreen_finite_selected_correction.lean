@@ -10,6 +10,8 @@
 --   For finite actual-zero packet F, define P_F by the existing column-synthesis constructor applied to exactly the original positive F columns on the original physical carrier. Keep N as the original selected negative synthesis for packet S. With C=P_F* N and B=P_F* P_F + δI, define the selected coefficient correction D_S=δI−N* N+C* Ring.inverse(B) C on the ORIGINAL selected coefficient space. The inverse is the existing ring inverse; for δ>0 its coefficient covariance is proved strictly positive in subsequent theorems. No full positive actor, negative packet, zero subtype, multiplicity, carrier, or test predicate is replaced. No positivity assertion is embedded in this definition bundle.
 -- source:
 --   monocap-tech/weil, WeilDefect/Connes/FiniteSelectedCertificates.lean at d28908eb3d61a4a81d7b4a5aff70ea26b6680897
+--
+--   Literature/source audit addendum (2026-10-11; COR-19): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d28908eb3d61a4a81d7b4a5aff70ea26b6680897, WeilDefect/Connes/FiniteSelectedCertificates.lean, SHA256 c2672521233eea07694186624f6ad1d7dc1f1586ac426b7a9784a6d96a52f1c8. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry. The unchanged graph RHS values were checked against native definitions by Lean rfl. This is source/value custody, not an assertion that contextual literature supplies the whole definition bundle.
 
 import Definitions.Def_ConnesGreen_integral_certificate_kernel
 set_option autoImplicit false

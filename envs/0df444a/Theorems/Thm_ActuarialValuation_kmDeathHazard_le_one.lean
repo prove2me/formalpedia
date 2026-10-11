@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmDeathHazard_le_one
 -- name    : ActuarialValuation.kmDeathHazard_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:26.828179+00:00
 -- url     : https://prove2.me/theorems/31c52fe0-b264-4732-9f3e-82a427dbfcd5

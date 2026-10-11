@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_TreeMeasure_lemma_4_3
 -- name    : TreewidthApprox.TreeMeasure.lemma_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:30:57.141988+00:00
 -- url     : https://prove2.me/theorems/29b9211f-5b1d-4584-8e19-ff758326eb98

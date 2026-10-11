@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_criticalTemperature_isotope_effect
 -- name    : BCSTheory.criticalTemperature_isotope_effect
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:16.832012+00:00
 -- url     : https://prove2.me/theorems/d83d202b-e3aa-45f0-acba-41e11ccda602

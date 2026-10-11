@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KAdaptability_ObjMILP_theorem_2
 -- name    : KAdaptability.ObjMILP.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:01:19.135986+00:00
 -- url     : https://prove2.me/theorems/e9020b67-9011-4e83-9845-b851065b73a0

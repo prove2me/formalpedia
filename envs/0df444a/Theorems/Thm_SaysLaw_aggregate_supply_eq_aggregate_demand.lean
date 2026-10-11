@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SaysLaw_aggregate_supply_eq_aggregate_demand
 -- name    : SaysLaw.aggregate_supply_eq_aggregate_demand
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:10.805739+00:00
 -- url     : https://prove2.me/theorems/3fbc547b-4a9d-4810-9a31-8444f0f528b9

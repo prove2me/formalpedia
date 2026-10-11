@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConservationLaws_work_energy_theorem
 -- name    : ConservationLaws.work_energy_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:26:45.760974+00:00
 -- url     : https://prove2.me/theorems/e00dce01-2bca-4c46-b70c-42beaabc896c

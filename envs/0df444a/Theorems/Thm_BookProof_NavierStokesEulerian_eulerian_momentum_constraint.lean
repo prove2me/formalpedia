@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_eulerian_momentum_constraint
 -- name    : BookProof.NavierStokesEulerian.eulerian_momentum_constraint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:39:00.028864+00:00
 -- url     : https://prove2.me/theorems/d172211f-a1f6-45ca-a8e9-cf538f2bff89

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UhlenbeckGauge_norm_add_hodgeStar_sq
 -- name    : UhlenbeckGauge.norm_add_hodgeStar_sq
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:23:53.532087+00:00
 -- url     : https://prove2.me/theorems/63e321f5-9fdb-4035-8835-90d2ea8c52ef

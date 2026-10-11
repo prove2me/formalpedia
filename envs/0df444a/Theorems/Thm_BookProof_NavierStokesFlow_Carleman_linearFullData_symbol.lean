@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_linearFullData_symbol
 -- name    : BookProof.NavierStokesFlow.Carleman.linearFullData_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:49.720777+00:00
 -- url     : https://prove2.me/theorems/ce8ca77f-83c4-4a98-9537-c0b07aca5f72

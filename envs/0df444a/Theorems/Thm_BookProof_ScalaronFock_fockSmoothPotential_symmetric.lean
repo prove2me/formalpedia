@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_fockSmoothPotential_symmetric
 -- name    : BookProof.ScalaronFock.fockSmoothPotential_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:22:45.735979+00:00
 -- url     : https://prove2.me/theorems/532861bb-5b07-4752-ac8e-51c7efaa8bb4

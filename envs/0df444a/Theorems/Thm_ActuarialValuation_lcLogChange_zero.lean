@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcLogChange_zero
 -- name    : ActuarialValuation.lcLogChange_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:32:58.697961+00:00
 -- url     : https://prove2.me/theorems/22825d96-8695-4e25-9c91-1c193e7c1e5e

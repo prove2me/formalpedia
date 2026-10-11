@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgCouplingDGammaSum_dGamma_diagCol_apply
 -- name    : BookProof.QgCouplingDGammaSum.dGamma_diagCol_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:18:35.689968+00:00
 -- url     : https://prove2.me/theorems/04d3b8f1-ade5-4767-83fe-c5d23e2510d3

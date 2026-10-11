@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterReconstruct_isDeterministicCol_of_offDiag
 -- name    : BookProof.ChapterReconstruct.isDeterministicCol_of_offDiag
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:02:52.26598+00:00
 -- url     : https://prove2.me/theorems/d1f62cbc-c913-44af-a34a-fcebc6b88f81

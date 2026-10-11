@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_RadialMollifier_moll_continuous
 -- name    : BookProof.RadialMollifier.moll_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:00:45.621481+00:00
 -- url     : https://prove2.me/theorems/a5c38377-2572-40be-92a1-90f0ec41f6cf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ProbabilityClockStochastic_stochastic_uniform_to_deterministic_not_isUnit
 -- name    : BookProof.ProbabilityClockStochastic.stochastic_uniform_to_deterministic_not_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:56:37.070008+00:00
 -- url     : https://prove2.me/theorems/00618dcd-e79c-4f2d-b125-66bc12f9cedc

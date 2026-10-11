@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_complex_psd_det_le_prod_diag
 -- name    : complex_psd_det_le_prod_diag
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T21:40:42.971238+00:00
 -- url     : https://prove2.me/theorems/77ff8c8c-b142-4c28-90de-3c949a05bd48

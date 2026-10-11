@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterNumericalRangeSemigroup_hasDerivAt_normSq
 -- name    : BookProof.ChapterNumericalRangeSemigroup.hasDerivAt_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:17:02.960219+00:00
 -- url     : https://prove2.me/theorems/b20945d2-25e2-4d30-876a-6e172e9305c3

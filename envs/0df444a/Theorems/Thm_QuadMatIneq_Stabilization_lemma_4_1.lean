@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QuadMatIneq_Stabilization_lemma_4_1
 -- name    : QuadMatIneq.Stabilization.lemma_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T20:14:32.05177+00:00
 -- url     : https://prove2.me/theorems/05a48648-c30f-4a05-9649-d28b1fea74b0

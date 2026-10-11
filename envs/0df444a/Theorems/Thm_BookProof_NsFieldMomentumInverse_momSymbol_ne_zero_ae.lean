@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_momSymbol_ne_zero_ae
 -- name    : BookProof.NsFieldMomentumInverse.momSymbol_ne_zero_ae
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:57.417209+00:00
 -- url     : https://prove2.me/theorems/72d1b90c-6ba9-4497-b47b-3bc09c203388

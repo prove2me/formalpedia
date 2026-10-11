@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Prove2meReuse_ns_convolution_symmetric
 -- name    : BookProof.Prove2meReuse.ns_convolution_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:15:37.972989+00:00
 -- url     : https://prove2.me/theorems/6f82cf1d-93bc-4b20-8926-8663263e83bd

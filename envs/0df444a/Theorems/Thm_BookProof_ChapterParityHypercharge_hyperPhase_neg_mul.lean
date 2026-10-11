@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterParityHypercharge_hyperPhase_neg_mul
 -- name    : BookProof.ChapterParityHypercharge.hyperPhase_neg_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:07:37.134329+00:00
 -- url     : https://prove2.me/theorems/f6e7d910-9289-4127-b185-1e86dd8cb66b

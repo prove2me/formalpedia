@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrDiagonal_zero
 -- name    : ActuarialValuation.scrDiagonal_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:12:26.613543+00:00
 -- url     : https://prove2.me/theorems/04507909-047b-45ba-9f4f-f4da42c25164

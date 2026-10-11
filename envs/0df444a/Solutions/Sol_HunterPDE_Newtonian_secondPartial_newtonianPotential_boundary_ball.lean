@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Newtonian.secondPartial_newtonianPotential_boundary_ball
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-10T10:13:14.159689+00:00
 -- url     : https://prove2.me/submissions/c09bbdfd-3ff4-4ed1-a14f-15b98e26c5bb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_MeasureTheory_fderiv_convolution_right_apply_twice
 import Theorems.Thm_HunterPDE_Newtonian_tendsto_cancelled_hessian_punctured_ball

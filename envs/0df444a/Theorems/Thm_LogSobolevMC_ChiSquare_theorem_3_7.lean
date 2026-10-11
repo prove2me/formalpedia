@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogSobolevMC_ChiSquare_theorem_3_7
 -- name    : LogSobolevMC.ChiSquare.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:02:32.427782+00:00
 -- url     : https://prove2.me/theorems/aba7fa93-5119-42a6-8b97-b5367a36d0d1

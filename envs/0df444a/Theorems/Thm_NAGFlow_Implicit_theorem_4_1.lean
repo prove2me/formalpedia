@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_Implicit_theorem_4_1
 -- name    : NAGFlow.Implicit.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T16:31:57.23612+00:00
 -- url     : https://prove2.me/theorems/bf3c6d25-c44d-4aa0-8a6b-8f1be313c09b

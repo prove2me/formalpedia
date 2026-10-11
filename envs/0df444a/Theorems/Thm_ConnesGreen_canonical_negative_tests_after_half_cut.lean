@@ -18,6 +18,8 @@
 --   This proves the asserted strict full-background balance. The cutoff characterization is an explicit premise of this reduction and is the finite branch supplied by the separate unconditional dichotomy. All original actor, carrier, actual-zero, analytic multiplicity and reflected-pair normalizations are retained. The result is not an unconditional proof that a given packet has a finite cutoff, nor a critical-endpoint jump budget or RH proof.
 -- source:
 --   monocap-tech/weil at e6d17e3f8533cdffc6af82283874365e7d869f8e; WeilDefect/Connes/HalfWindowClassification.lean (new additive module), using unchanged original CriticalWindowBoundary and actor definitions.
+--
+--   Literature/source audit addendum (2026-10-11; COR-08): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 85e4b8c3ed3f67e549834b0640d490c1f6537295, WeilDefect/Connes/HalfWindowClassification.lean, SHA256 2e44a66fcccc9c884cb844b53320f17add08b2a2847b877e1e05595f69ee5152. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_small_support_constants
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker

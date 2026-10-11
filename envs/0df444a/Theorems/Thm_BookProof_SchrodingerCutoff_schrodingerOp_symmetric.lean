@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SchrodingerCutoff_schrodingerOp_symmetric
 -- name    : BookProof.SchrodingerCutoff.schrodingerOp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:33:57.627884+00:00
 -- url     : https://prove2.me/theorems/98fde57e-247b-4f8e-9fe8-c26d10e934db

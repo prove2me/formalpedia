@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterA3_mgamma_conj_eq_self_iff
 -- name    : BookProof.ChapterA3.mgamma_conj_eq_self_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:09:44.244883+00:00
 -- url     : https://prove2.me/theorems/c5250d04-ecc2-4520-a05b-5b07188f4294

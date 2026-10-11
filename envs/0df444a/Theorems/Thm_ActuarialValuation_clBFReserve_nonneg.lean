@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clBFReserve_nonneg
 -- name    : ActuarialValuation.clBFReserve_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:46:46.070654+00:00
 -- url     : https://prove2.me/theorems/aa443feb-c81f-43aa-9ab1-8651fb5ec359

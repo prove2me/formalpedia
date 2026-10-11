@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_exists_partition_of_equivalence
 -- name    : ZerothLawThermo.exists_partition_of_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:44.267566+00:00
 -- url     : https://prove2.me/theorems/fac87ea2-d728-4c07-9416-85e509ec1d01

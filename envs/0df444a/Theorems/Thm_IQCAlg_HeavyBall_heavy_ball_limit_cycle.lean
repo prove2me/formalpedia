@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IQCAlg_HeavyBall_heavy_ball_limit_cycle
 -- name    : IQCAlg.HeavyBall.heavy_ball_limit_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T07:21:13.124813+00:00
 -- url     : https://prove2.me/theorems/c274f09f-d639-4c36-9a7f-ee161a4654bb

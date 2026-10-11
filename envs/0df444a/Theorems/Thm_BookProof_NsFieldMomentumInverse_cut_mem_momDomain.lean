@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_cut_mem_momDomain
 -- name    : BookProof.NsFieldMomentumInverse.cut_mem_momDomain
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:53:31.552033+00:00
 -- url     : https://prove2.me/theorems/025c9bee-8b29-413e-a276-092739c95776

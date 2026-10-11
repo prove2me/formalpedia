@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratRelativity_unit
 -- name    : ActuarialValuation.ratRelativity_unit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:32:53.845307+00:00
 -- url     : https://prove2.me/theorems/ec08ca76-1179-4480-9dd5-1bfc7715d145

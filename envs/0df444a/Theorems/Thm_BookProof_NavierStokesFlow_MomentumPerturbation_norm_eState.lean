@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_norm_eState
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.norm_eState
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:53.870981+00:00
 -- url     : https://prove2.me/theorems/4ff28975-8fd2-4984-b61f-0ba41c14a155

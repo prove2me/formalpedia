@@ -12,6 +12,8 @@
 --   The source metrics and coefficient carrier are unchanged. This is the operator bridge for comparing the original Green actors on nested physical support windows; no range inclusion, inverse-cost bound or arithmetic positivity premise is needed.
 -- source:
 --   monocap-tech/weil native base b019d40205680f9761a4b0a80cbcad56ee1b606b; exact new source modules Connes/CanonicalGreenWindowInclusion.lean, Screening/MarkerCompression.lean and Connes/CanonicalGreenSupportLimit.lean in Connes_Weil_Original_Support_Limit.zip. Both ordered norm limits are proved natively; prescribed critical endpoint identification, support containment, arithmetic lower bounds and RH are not assumed or asserted.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Screening/MarkerCompression.lean, SHA256 690f5406173739c343de426a3a99e37e4d698883eb8ebfe12f71ea3259fc9b88. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_WeilMarker_regularized_cost
 open scoped InnerProductSpace ComplexOrder Topology

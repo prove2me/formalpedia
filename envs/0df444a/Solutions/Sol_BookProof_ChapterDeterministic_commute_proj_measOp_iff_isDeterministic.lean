@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterDeterministic.commute_proj_measOp_iff_isDeterministic
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:42:23.554906+00:00
 -- url     : https://prove2.me/submissions/0c16ae13-1f19-4401-bffd-b96c4928d1dc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterDeterministic.lean — solution of BookProof.ChapterDeterministic.commute_proj_measOp_iff_isDeterministic
 import Mathlib

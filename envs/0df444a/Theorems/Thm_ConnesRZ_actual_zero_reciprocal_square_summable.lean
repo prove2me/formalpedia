@@ -14,6 +14,10 @@
 --   This is the summable majorant used by the independently checked Connes–Weil Green-column frontier to control all high-ordinate actual Green reciprocals. The proof uses the already proved actual-zeta unit-window count, while the physical Green metric realization remains a separate obligation.
 -- source:
 --   Anthropic formal-math e1a4e6508154ea59f030480661590a9fe3018011, zeta23/Zeta23/WeilEF/ZeroSummability.lean, zero_sum_inv_sq_gen and zero_sum_inv_sq; reused with license and exact carrier/multiplicities in monocap-tech/weil, WeilDefect/Connes/ActualGreenSummability.lean, actual_zero_reciprocal_square_summable. Local-count prerequisite: https://prove2.me/theorems/2abaa392-a81f-480c-8c0f-d476f67838ae .
+--
+--   Literature/source audit addendum (2026-10-11): The exact unchanged native theorem is WeilDefect.ConnesNative.actual_zero_reciprocal_square_summable. The ConnesRZ graph name is a recovered named export, rather than a literal declaration in ActualGreenSummability.lean. The exact graph type was independently checked in Lean, preserving the actual zeta-zero carrier and multiplicities.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Connes/ActualGreenSummability.lean, SHA256 0d1e244e5579f71293661e2d83f397f44faafcb11348a0ad15583ac407b9b8c0. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Mathlib
 import Definitions.Def_ConnesRZ_weil_defs

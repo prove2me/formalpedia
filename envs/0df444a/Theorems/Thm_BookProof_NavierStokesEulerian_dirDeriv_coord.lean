@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_dirDeriv_coord
 -- name    : BookProof.NavierStokesEulerian.dirDeriv_coord
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:40:38.215287+00:00
 -- url     : https://prove2.me/theorems/5ca30c41-8c4d-4674-9867-2e11e6c312ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityHalfDensity_qgSrcMeasure_density_eq_halfDensity_sq
 -- name    : BookProof.QuantumGravityHalfDensity.qgSrcMeasure_density_eq_halfDensity_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:39:11.800023+00:00
 -- url     : https://prove2.me/theorems/07d14412-c0d9-44b3-9a8e-fdd86acac2e9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_one_sub_scoreSoftmax_le_of_margin
 -- name    : BookProof.ChapterAttentionRetrieval.one_sub_scoreSoftmax_le_of_margin
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:43:12.398903+00:00
 -- url     : https://prove2.me/theorems/7581214b-1ab6-422e-a291-158085e565a7

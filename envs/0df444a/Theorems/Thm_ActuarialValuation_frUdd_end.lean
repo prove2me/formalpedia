@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frUdd_end
 -- name    : ActuarialValuation.frUdd_end
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:47.910988+00:00
 -- url     : https://prove2.me/theorems/138e8050-ef79-4c70-bdac-2c8c50d86372

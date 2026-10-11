@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucTotalBenefit_zero
 -- name    : ActuarialValuation.pucTotalBenefit_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:13:57.232705+00:00
 -- url     : https://prove2.me/theorems/9cac67d4-0fdc-469f-88d0-a2528f120ee8

@@ -10,6 +10,8 @@
 --   For an original positive window, unchanged finite actual-zero cutoff $F$, and $\alpha\ge0$, $$[\forall\varepsilon>0,\ \|B_FB_F^*\|\le\alpha\varepsilon]\iff[\forall\rho\notin F,\ b_\rho=0].$$ Here $B_F$ is the complete original complementary-negative synthesis and $b_\rho$ is its actual reflected pair column with analytic multiplicity. The accepted covariance-scale theorem gives $B_F=0$, and original basis custody and uniqueness give the column equivalence. This is a fixed-cutoff obstruction; accuracy-dependent cutoffs remain permitted. It does not supply the endpoint relative inverse-cost estimate.
 -- source:
 --   monocap-tech/weil, original native companion and RG0DependencyIntegration.lean. Source/proof cuts and declarations are extracted with the Lean elaborator. Original carrier, actual zeros, multiplicities and reflected /2 custody retained.
+--
+--   Literature/source audit addendum (2026-10-11; COR-12): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil c73eedb5a6fca3cffcae4b7dbd14affaa3b4dbed, WeilDefect/Connes/TwoSidedTailControl.lean, SHA256 ec528ed7a11b9575f590bbc6053eedd3061d72d83c62f8322d72c0cb7272b871. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_actors
 import Theorems.Thm_WeilDefect_MarkerStability_covariance_relative_bound_all_regularizations_iff_zero

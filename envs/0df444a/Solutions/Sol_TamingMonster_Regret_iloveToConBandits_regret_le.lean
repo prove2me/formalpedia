@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TamingMonster.Regret.iloveToConBandits_regret_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-09T09:49:57.5+00:00
 -- url     : https://prove2.me/submissions/e9b45374-b05d-4e20-abe5-de65a82e076a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_TamingMonster_Regret_Setting

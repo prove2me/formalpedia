@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_dGamma_not_bounded
 -- name    : BookProof.NavierStokesFlow.FockOfFock.dGamma_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:42:43.707745+00:00
 -- url     : https://prove2.me/theorems/9aedd385-150f-43b5-bb28-c34a26d2ec52

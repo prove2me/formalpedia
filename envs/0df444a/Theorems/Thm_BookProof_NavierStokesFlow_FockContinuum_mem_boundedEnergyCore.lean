@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockContinuum_mem_boundedEnergyCore
 -- name    : BookProof.NavierStokesFlow.FockContinuum.mem_boundedEnergyCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:40:38.485509+00:00
 -- url     : https://prove2.me/theorems/7dbc9255-21bf-4b32-baa5-de7e8bad2831

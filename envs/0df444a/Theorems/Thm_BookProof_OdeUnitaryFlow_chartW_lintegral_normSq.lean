@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_OdeUnitaryFlow_chartW_lintegral_normSq
 -- name    : BookProof.OdeUnitaryFlow.chartW_lintegral_normSq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:03:40.91195+00:00
 -- url     : https://prove2.me/theorems/7c7f538c-41dd-44cd-b76c-2de63f97894e

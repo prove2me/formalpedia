@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterLogPartitionConvex_logPartition_convex_comb
 -- name    : BookProof.ChapterLogPartitionConvex.logPartition_convex_comb
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:33:27.410274+00:00
 -- url     : https://prove2.me/theorems/b56a9db3-65ed-4a44-b92a-35827a1550e6

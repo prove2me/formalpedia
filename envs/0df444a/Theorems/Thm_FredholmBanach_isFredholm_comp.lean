@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_isFredholm_comp
 -- name    : FredholmBanach.isFredholm_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:38:38.283296+00:00
 -- url     : https://prove2.me/theorems/72f7cc95-e086-4383-b411-5d149906f8dc

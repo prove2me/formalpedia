@@ -10,6 +10,8 @@
 --   For complex Hilbert spaces $H,K$, a strictly positive bounded operator $A$ on $H$, a bounded synthesis $N:K\to H$ and $\beta>0$, let $S=N^*A^{-1}N$ and $\Gamma=(I+S)^{-1}$. Then $$\beta I\preceq\Gamma\quad\Longleftrightarrow\quad S\preceq(\beta^{-1}-1)I.$$ These are the original regularized-cost and marker definitions, using their canonical ring inverse. This equivalence converts approximate endpoint marker lower bounds into exact selected inverse-cost estimates without supplying an arithmetic estimate or assuming a range condition.
 -- source:
 --   monocap-tech/weil; WeilDefect/Screening/MarkerEndpoint.lean, extending the certified original support-limit checkpoint. Exact threshold equivalence for the original marker and selected inverse cost, used by the original actual-zero arithmetic endpoint reduction. No endpoint lower bound, critical-window localization, neutral-shell persistence or RH is assumed or asserted. Existing Green proposal remains in review.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil d73d0e7f1477c934a3a8f8b01012852128b977bb, WeilDefect/Screening/MarkerEndpoint.lean, SHA256 191dea460459217aa016d79d073f60f291002420b1143bfa5acb15e973c85093. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_WeilMarker_regularized_cost
 open scoped InnerProductSpace ComplexOrder

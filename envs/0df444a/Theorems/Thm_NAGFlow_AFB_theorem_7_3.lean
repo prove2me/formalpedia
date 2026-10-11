@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NAGFlow_AFB_theorem_7_3
 -- name    : NAGFlow.AFB.theorem_7_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T14:41:13.881792+00:00
 -- url     : https://prove2.me/theorems/b2dd9c0d-3d5c-41bb-b15a-073ed45d756e

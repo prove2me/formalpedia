@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliSU2_spinorAction_comp
 -- name    : BookProof.ChapterPauliSU2.spinorAction_comp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:32:42.763385+00:00
 -- url     : https://prove2.me/theorems/74475453-464a-425b-9be6-76f730cb612b

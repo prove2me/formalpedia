@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterScaledDotProduct_rademacherMean_dot_sq_of_unit_entries
 -- name    : BookProof.ChapterScaledDotProduct.rademacherMean_dot_sq_of_unit_entries
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:48:14.571749+00:00
 -- url     : https://prove2.me/theorems/458f8695-17bb-49b3-a208-046c2e74642e

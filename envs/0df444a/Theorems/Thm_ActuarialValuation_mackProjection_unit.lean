@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackProjection_unit
 -- name    : ActuarialValuation.mackProjection_unit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:27:31.269363+00:00
 -- url     : https://prove2.me/theorems/302cd97f-0b55-4064-a6c6-c72576237aad

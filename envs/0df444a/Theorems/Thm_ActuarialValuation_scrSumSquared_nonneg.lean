@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrSumSquared_nonneg
 -- name    : ActuarialValuation.scrSumSquared_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:14:52.721947+00:00
 -- url     : https://prove2.me/theorems/a9626d4f-c2ec-47f1-b986-08f4a6625d1b

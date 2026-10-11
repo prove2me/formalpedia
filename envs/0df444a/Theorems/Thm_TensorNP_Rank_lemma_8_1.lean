@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Rank_lemma_8_1
 -- name    : TensorNP.Rank.lemma_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:07:48.116718+00:00
 -- url     : https://prove2.me/theorems/8e4d3e13-a158-44ac-8335-3c4009bcd0a3

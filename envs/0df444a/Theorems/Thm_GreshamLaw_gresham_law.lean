@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GreshamLaw_gresham_law
 -- name    : GreshamLaw.gresham_law
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:24.63724+00:00
 -- url     : https://prove2.me/theorems/40dbcbb4-01c0-40db-bafe-b258bbe31c63

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_FockOfFock_hFull_eq_hFock_oneParticle
 -- name    : BookProof.NavierStokesFlow.FockOfFock.hFull_eq_hFock_oneParticle
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:11:57.139547+00:00
 -- url     : https://prove2.me/theorems/b4bc4940-0ec5-4859-9521-3e23fbd6274c

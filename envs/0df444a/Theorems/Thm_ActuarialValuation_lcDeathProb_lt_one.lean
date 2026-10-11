@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcDeathProb_lt_one
 -- name    : ActuarialValuation.lcDeathProb_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:52:53.765707+00:00
 -- url     : https://prove2.me/theorems/2505ec23-9699-4819-9745-397fe74ff276

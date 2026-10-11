@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_index_comp
 -- name    : FredholmBanach.index_comp
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:38:52.69886+00:00
 -- url     : https://prove2.me/theorems/d8c52057-f6ba-462d-bd82-8693c490ce59

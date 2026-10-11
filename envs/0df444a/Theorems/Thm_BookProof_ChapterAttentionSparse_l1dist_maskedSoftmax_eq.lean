@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionSparse_l1dist_maskedSoftmax_eq
 -- name    : BookProof.ChapterAttentionSparse.l1dist_maskedSoftmax_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:29:17.557986+00:00
 -- url     : https://prove2.me/theorems/83362aed-db55-4516-86f4-a6f2b9aceece

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrCorrelationGap_nonneg
 -- name    : ActuarialValuation.scrCorrelationGap_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:49.068756+00:00
 -- url     : https://prove2.me/theorems/7e4d92fb-a1ad-433b-949f-5c6b18840d74

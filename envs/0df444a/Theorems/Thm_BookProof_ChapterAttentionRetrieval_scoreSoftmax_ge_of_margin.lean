@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionRetrieval_scoreSoftmax_ge_of_margin
 -- name    : BookProof.ChapterAttentionRetrieval.scoreSoftmax_ge_of_margin
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:43:32.673573+00:00
 -- url     : https://prove2.me/theorems/0bbb322a-b735-4695-bc6a-b1360c8e54f5

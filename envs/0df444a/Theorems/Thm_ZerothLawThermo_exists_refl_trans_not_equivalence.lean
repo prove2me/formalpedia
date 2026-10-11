@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZerothLawThermo_exists_refl_trans_not_equivalence
 -- name    : ZerothLawThermo.exists_refl_trans_not_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:08.796418+00:00
 -- url     : https://prove2.me/theorems/cd0e6a8e-2f54-4a0d-97d2-9e79f2c13cd3

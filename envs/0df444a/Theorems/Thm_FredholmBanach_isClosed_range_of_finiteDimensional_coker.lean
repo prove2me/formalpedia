@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_isClosed_range_of_finiteDimensional_coker
 -- name    : FredholmBanach.isClosed_range_of_finiteDimensional_coker
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:37:56.104827+00:00
 -- url     : https://prove2.me/theorems/16b3d31b-fe6c-47fb-94cb-35bd7fa73022

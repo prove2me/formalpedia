@@ -12,6 +12,8 @@
 --   The accepted exact original kernel-persistence theorem discharges larger signed-covariance nonnegativity from its original inner half-bound and gives $C_{T,S}Ux=0$. Applying the original orthogonal-shell operator to zero proves the conclusion. No full Weil positivity or neutral-shell estimate is added as a premise. In particular, the already certified exact off-line quartet cutoff supplies this half-bound for every positive larger window at or below that finite INNER cutoff, including the cutoff itself. The result is conditional on the displayed concrete larger-window half-bound and supplies no unconditional right-support endpoint control beyond it.
 -- source:
 --   monocap-tech/weil parent b7df0270c344b8721001f902d0955d977d7afccc; recovered exact CanonicalGreenNeutralShell.lean core/shell theorem and additive NeutralShellObstruction.lean reductions
+--
+--   Literature/source audit addendum (2026-10-11; COR-11): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 44f7e38ec554b54547a64cf3c464b9986101a4fb, WeilDefect/Connes/NeutralShellObstruction.lean, SHA256 c62c25ceba0eca29d02708204d6c1149c71fe43410429ab7065249d572439880. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker
 open Complex MeasureTheory ConnesRZ ConnesRZFrontier ConnesGreen WeilDefect WeilDefect.ConnesNative

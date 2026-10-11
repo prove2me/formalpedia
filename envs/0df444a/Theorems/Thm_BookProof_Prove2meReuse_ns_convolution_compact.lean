@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Prove2meReuse_ns_convolution_compact
 -- name    : BookProof.Prove2meReuse.ns_convolution_compact
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:15:49.779633+00:00
 -- url     : https://prove2.me/theorems/a5c14752-93f4-4caa-b3ba-416cb25965a0

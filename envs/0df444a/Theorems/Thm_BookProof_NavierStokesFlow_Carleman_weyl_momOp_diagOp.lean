@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_weyl_momOp_diagOp
 -- name    : BookProof.NavierStokesFlow.Carleman.weyl_momOp_diagOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:34.31898+00:00
 -- url     : https://prove2.me/theorems/e0f14a55-8f61-406f-ae04-25063a595adb

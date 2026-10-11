@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PriceQualityService_NestedLogit_theorem_4
 -- name    : PriceQualityService.NestedLogit.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T17:29:12.794422+00:00
 -- url     : https://prove2.me/theorems/b6a00cae-e6c5-43de-afd0-dba814b90134

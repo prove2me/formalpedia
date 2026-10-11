@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_strictConcaveOn_of_diminishing
 -- name    : MarginalUtility.strictConcaveOn_of_diminishing
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:20.214203+00:00
 -- url     : https://prove2.me/theorems/e0a0b52b-7450-4981-bf24-25250f056be5

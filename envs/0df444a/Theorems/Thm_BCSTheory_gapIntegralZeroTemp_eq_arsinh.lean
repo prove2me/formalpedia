@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCSTheory_gapIntegralZeroTemp_eq_arsinh
 -- name    : BCSTheory.gapIntegralZeroTemp_eq_arsinh
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:22:35.673105+00:00
 -- url     : https://prove2.me/theorems/6eb48ae4-01e6-4583-aa4d-bfb4ac6713e9

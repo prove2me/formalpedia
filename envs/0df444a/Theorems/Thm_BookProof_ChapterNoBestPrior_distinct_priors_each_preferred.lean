@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterNoBestPrior_distinct_priors_each_preferred
 -- name    : BookProof.ChapterNoBestPrior.distinct_priors_each_preferred
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:52:30.386613+00:00
 -- url     : https://prove2.me/theorems/0de09d20-f192-4af3-aafa-13c5fa371c22

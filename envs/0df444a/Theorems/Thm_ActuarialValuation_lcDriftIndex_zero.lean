@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcDriftIndex_zero
 -- name    : ActuarialValuation.lcDriftIndex_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:30:42.171726+00:00
 -- url     : https://prove2.me/theorems/fea37c83-a9f8-4b09-a384-9eb680fe3f7a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FredholmBanach_isOpen_isFredholm_index_locallyConstant
 -- name    : FredholmBanach.isOpen_isFredholm_index_locallyConstant
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-09T15:39:58.460601+00:00
 -- url     : https://prove2.me/theorems/7add8fea-6932-421a-8ad2-45eefcd6463b

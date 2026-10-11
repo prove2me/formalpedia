@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TensorNP_Rank_theorem_1_14
 -- name    : TensorNP.Rank.theorem_1_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:06:49.650984+00:00
 -- url     : https://prove2.me/theorems/42b47b56-a0c6-485a-97e3-7953539b4c53

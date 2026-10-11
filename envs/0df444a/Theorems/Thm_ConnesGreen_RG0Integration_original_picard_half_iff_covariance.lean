@@ -10,6 +10,8 @@
 --   Fix a positive original window $t$ and an unchanged finite actual-zero packet $S$. Let $C_t$ be its constructed Picard marker, $N_t$ its original selected synthesis, and $A_t$ its full original positive covariance. Then $$\tfrac12 I\le C_t\quad\Longleftrightarrow\quad N_tN_t^*\le A_t.$$ First use the accepted original all-positive-regularizations equivalence. For every $\varepsilon>0$, the accepted Schur half-bound theorem applies to $A_t+\varepsilon I$, which is strictly positive. Operator order is closed under the limit $\varepsilon\downarrow0$, giving the unregularized covariance inequality. The reverse direction uses $A_t\le A_t+\varepsilon I$. The original physical carrier and actual-zero actors are unchanged; $A_t$ itself may be singular, and no inverse of $A_t$ is used. Neither inequality is asserted true.
 -- source:
 --   monocap-tech/weil; original CanonicalGreenFiniteOffline.lean and RG0QuartetCutEndpoint.lean. Original carrier, covariance, selected packet and constructed Picard marker preserved.
+--
+--   Literature/source audit addendum (2026-10-11; COR-15): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 7c5b1bc48d1cd2dd7385b1e634cd33a1e95550c7, WeilDefect/Connes/RG0QuartetCutEndpoint.lean, SHA256 baca9128ba17cb0c8d727a64e7b24b36cf359eced9c6a0890715540b47cd8485. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_ConnesGreen_RG0_original_inner_marker
 open ConnesRZ ConnesRZFrontier ConnesGreen WeilDefect.MarkerStability

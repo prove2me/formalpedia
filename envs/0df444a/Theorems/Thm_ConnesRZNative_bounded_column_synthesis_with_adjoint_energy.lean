@@ -14,6 +14,8 @@
 --   This is the functional-analytic construction used in the Connes–Weil Green-column frontier: it derives bounded synthesis, exact adjoint norms, and uniqueness from square-summable supplied columns. Its hypothesis is square summability of those columns; it does not construct a physical Green metric, prove a zeta-zero counting bound, or prove RH. Identification with an existing native operator requires the same coefficient carrier and the same basis columns.
 -- source:
 --   Repository monocap-tech/weil, WeilDefect/Connes/ColumnSynthesis.lean: columnSynthesis_apply, columnSynthesis_single, columnSynthesis_adjoint_coordinate, columnSynthesis_adjoint_norm_sq, columnSynthesis_norm_sq_le, columnSynthesis_unique. Cauchy–Schwarz synthesis construction and Parseval identity; supporting generic analytic result for the actual-zero Green frontier.
+--
+--   Literature/source audit addendum (2026-10-11): This graph export is assembled from WeilDefect.ConnesNative.columnSynthesis_apply, columnSynthesis_single, columnSynthesis_adjoint_coordinate, columnSynthesis_adjoint_norm_sq, columnSynthesis_norm_sq_le, and columnSynthesis_unique. The graph name is a recovered named export, rather than a literal native declaration in ColumnSynthesis.lean. The exact graph type was independently checked in Lean.
 
 import Mathlib
 open scoped BigOperators InnerProductSpace lp ENNReal Classical

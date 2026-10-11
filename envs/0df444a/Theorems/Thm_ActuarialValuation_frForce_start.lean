@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frForce_start
 -- name    : ActuarialValuation.frForce_start
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:38.86998+00:00
 -- url     : https://prove2.me/theorems/2eec87a8-e2a1-4da3-be1a-609f560becb1

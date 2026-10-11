@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliSU2_su2_preserves_time
 -- name    : BookProof.ChapterPauliSU2.su2_preserves_time
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:34:13.351074+00:00
 -- url     : https://prove2.me/theorems/3361c216-878e-4b30-bc20-c2fff9c7567e

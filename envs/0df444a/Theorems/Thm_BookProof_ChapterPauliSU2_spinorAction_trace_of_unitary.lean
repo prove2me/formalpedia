@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPauliSU2_spinorAction_trace_of_unitary
 -- name    : BookProof.ChapterPauliSU2.spinorAction_trace_of_unitary
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T09:34:58.857572+00:00
 -- url     : https://prove2.me/theorems/b4f0141b-10bf-433a-a41c-a94fe96fb1e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesEulerian_cyclicShear_divergence_free
 -- name    : BookProof.NavierStokesEulerian.cyclicShear_divergence_free
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:40:14.843984+00:00
 -- url     : https://prove2.me/theorems/e82d694b-f208-4b03-bba2-467237ab1a07

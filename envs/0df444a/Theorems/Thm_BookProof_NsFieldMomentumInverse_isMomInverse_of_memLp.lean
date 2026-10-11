@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsFieldMomentumInverse_isMomInverse_of_memLp
 -- name    : BookProof.NsFieldMomentumInverse.isMomInverse_of_memLp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:53:16.208353+00:00
 -- url     : https://prove2.me/theorems/772716c2-d025-47cd-83f2-b6e3f78961a6

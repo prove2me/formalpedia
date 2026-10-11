@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailUpperMass_zero_range
 -- name    : ActuarialValuation.tailUpperMass_zero_range
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:46:48.186406+00:00
 -- url     : https://prove2.me/theorems/82638762-9fcf-48d1-8543-81032478875d

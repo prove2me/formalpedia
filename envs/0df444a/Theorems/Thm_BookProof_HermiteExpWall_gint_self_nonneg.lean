@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteExpWall_gint_self_nonneg
 -- name    : BookProof.HermiteExpWall.gint_self_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:11:25.119982+00:00
 -- url     : https://prove2.me/theorems/f4817739-1713-452a-8be8-b2204a1ce411

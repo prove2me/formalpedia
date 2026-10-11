@@ -10,6 +10,8 @@
 --   For original bounded syntheses $P,N$ between complete complex Hilbert spaces, if $\kappa>0$, $\varepsilon>0$ and $\kappa(\|P^*x\|^2+\varepsilon\|x\|^2)<\|N^*x\|^2$, then the original marker $\Gamma(PP^*+\varepsilon I,N)$ fails the lower bound $(\kappa+1)^{-1}I$. This retains the original covariance and metric. The native actual-zero quartet corollary chooses $\kappa>1$ uniformly before selecting any larger support window or sufficiently small regularization.
 -- source:
 --   monocap-tech/weil native base b019d40205680f9761a4b0a80cbcad56ee1b606b; exact new sources Screening/MarkerMargin.lean and Connes/CanonicalGreenMarkerMargin.lean in Connes_Weil_Uniform_Marker_Margin.zip. Explicit reductions, not unconditional arithmetic marker positivity or RH.
+--
+--   Literature/source audit addendum (2026-10-11; COR-11): Exact native software custody, independently verified from retained local Git objects: monocap-tech/weil 5999649ed66d79a903f2d0dceca4a8c37093fe71, WeilDefect/Screening/MarkerMargin.lean, SHA256 5691b0f5d96b2a12d22a0a6b1a43d9636cc93df18ba34793b1ab0eaf352b29a9. Public availability of these historical pins has not been checked; this addendum verifies local source bytes and preserves the original source ancestry.
 
 import Definitions.Def_WeilMarker_regularized_cost
 open scoped InnerProductSpace ComplexOrder Topology

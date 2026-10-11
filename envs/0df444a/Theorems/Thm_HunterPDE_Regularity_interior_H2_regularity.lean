@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Regularity_interior_H2_regularity
 -- name    : HunterPDE.Regularity.interior_H2_regularity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T19:38:17.545624+00:00
 -- url     : https://prove2.me/theorems/13300b40-c9bb-4c66-b1b1-22f4017c0539

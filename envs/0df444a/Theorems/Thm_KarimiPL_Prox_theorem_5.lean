@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarimiPL_Prox_theorem_5
 -- name    : KarimiPL.Prox.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:54:52.013017+00:00
 -- url     : https://prove2.me/theorems/0f60a0a5-06f3-46cd-988a-425560d98c48

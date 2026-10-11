@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commEffectiveDiscount_nonneg
 -- name    : ActuarialValuation.commEffectiveDiscount_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:38.451895+00:00
 -- url     : https://prove2.me/theorems/7f4ded37-0514-499c-9b6b-35db88d36c86
