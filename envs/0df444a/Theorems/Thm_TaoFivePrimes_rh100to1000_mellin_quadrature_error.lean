@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh100to1000_mellin_quadrature_error
 -- name    : TaoFivePrimes.rh100to1000_mellin_quadrature_error
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-14T04:35:36.700086+00:00
 -- url     : https://prove2.me/theorems/15624b5c-7043-4fd6-a4ff-47a4f5e21c26
