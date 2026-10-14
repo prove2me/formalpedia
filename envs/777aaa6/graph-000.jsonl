@@ -23965,3 +23965,52 @@
 {"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_rank_bridge", "via": ["solution"]}
 {"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_tensor_bridge", "via": ["solution"]}
 {"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_tensor_quotient", "via": ["solution"]}
+{"parent": "Thurston23.isFundamentalDomain_halfBox", "child": "Thurston23_picard", "via": ["solution", "statement"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "child": "Thurston23_bundle", "via": ["solution", "statement"]}
+{"parent": "Thurston23.isKleinian_gammaTwoI", "child": "Thurston23_picard", "via": ["solution", "statement"]}
+{"parent": "Thurston23.thurston_question_23", "child": "Thurston23_bundle", "via": ["solution", "statement"]}
+{"parent": "Thurston23.hyperbolicVolumes_nonempty", "child": "Thurston23_bundle", "via": ["solution", "statement"]}
+{"parent": "Thurston23_mobius", "child": "Thurston23_bundle", "via": ["statement"]}
+{"parent": "Thurston23_eisenstein", "child": "Thurston23_bundle", "via": ["statement"]}
+{"parent": "Thurston23_eisenstein", "child": "Thurston23_mobius", "via": ["statement"]}
+{"parent": "Thurston23_picard", "child": "Thurston23_bundle", "via": ["statement"]}
+{"parent": "Thurston23_picard", "child": "Thurston23_mobius", "via": ["statement"]}
+{"parent": "Thurston23.hvol_halfBox_eq_ofReal_integral", "child": "Thurston23_picard", "via": ["solution", "statement"]}
+{"parent": "Thurston23.isKleinian_gammaSeven", "child": "Thurston23_eisenstein", "via": ["solution", "statement"]}
+{"parent": "Thurston23.isFundamentalDomain_eisBox", "child": "Thurston23_eisenstein", "via": ["solution", "statement"]}
+{"parent": "Thurston23.hvol_eisBox_eq_ofReal_integral", "child": "Thurston23_eisenstein", "via": ["solution", "statement"]}
+{"parent": "Thurston23.index_gammaTwoIEff", "child": "Thurston23_picard", "via": ["solution", "statement"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "Thurston23_bundle", "via": ["solution", "statement"]}
+{"parent": "Thurston23.volume_of_finite_index", "child": "Thurston23_bundle", "via": ["solution", "statement"]}
+{"parent": "Thurston23.isFundamentalDomain_halfBox", "child": "Thurston23_bundle", "via": ["solution"]}
+{"parent": "Thurston23.isFundamentalDomain_halfBox", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "CatalanLogSin.integral_log_one_sub_inv_four_cos_sq", "child": "CatalanLogSin.integral_log_one_sub_inv_four_cos_sq_eq_neg_catalan_div_three", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "child": "Thurston23.hvol_eisBox_eq_ofReal_integral", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "child": "Thurston23.isKleinian_gammaSeven", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "child": "Thurston23.isFundamentalDomain_eisBox", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "child": "Thurston23_eisenstein", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "child": "EisensteinLogSin.integral_log_one_sub_inv_four_cos_sq_pi_div_six", "via": ["solution"]}
+{"parent": "Thurston23.isKleinian_gammaTwoI", "child": "Thurston23_bundle", "via": ["solution"]}
+{"parent": "Thurston23.isKleinian_gammaTwoI", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.thurston_question_23", "child": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "via": ["solution"]}
+{"parent": "Thurston23.thurston_question_23", "child": "catalan_ne_rat_mul_sqrt_three_LChiMinusThree", "via": ["solution"]}
+{"parent": "Thurston23.thurston_question_23", "child": "Thurston23.exists_hyperbolicVolume_rat_mul_LChiMinusThree", "via": ["solution"]}
+{"parent": "Thurston23.hvol_halfBox_eq_ofReal_integral", "child": "Thurston23_bundle", "via": ["solution"]}
+{"parent": "Thurston23.hvol_halfBox_eq_ofReal_integral", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.isKleinian_gammaSeven", "child": "Thurston23_bundle", "via": ["solution"]}
+{"parent": "Thurston23.isKleinian_gammaSeven", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.isFundamentalDomain_eisBox", "child": "Thurston23_bundle", "via": ["solution"]}
+{"parent": "Thurston23.isFundamentalDomain_eisBox", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.hvol_eisBox_eq_ofReal_integral", "child": "Thurston23_bundle", "via": ["solution"]}
+{"parent": "Thurston23.hvol_eisBox_eq_ofReal_integral", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.index_gammaTwoIEff", "child": "Thurston23_bundle", "via": ["solution"]}
+{"parent": "Thurston23.index_gammaTwoIEff", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "CatalanLogSin.integral_log_one_sub_inv_four_cos_sq", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "Thurston23.isKleinian_gammaTwoI", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "Thurston23.hvol_halfBox_eq_ofReal_integral", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "Thurston23.index_gammaTwoIEff", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "CatalanLogSin.integral_log_one_sub_inv_four_cos_sq_eq_neg_catalan_div_three", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "Thurston23_mobius", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "Thurston23_picard", "via": ["solution"]}
+{"parent": "Thurston23.exists_hyperbolicVolume_rat_mul_catalan", "child": "Thurston23.isFundamentalDomain_halfBox", "via": ["solution"]}

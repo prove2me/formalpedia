@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NewtonGravitation_gravField_at_origin_eq_zero
 -- name    : NewtonGravitation.gravField_at_origin_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T18:51:51.814839+00:00
 -- url     : https://prove2.me/theorems/ee0d5b4e-3a05-49f5-8e1b-fd3e3c3ae0ff

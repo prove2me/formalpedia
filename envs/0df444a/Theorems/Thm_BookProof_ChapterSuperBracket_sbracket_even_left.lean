@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSuperBracket_sbracket_even_left
 -- name    : BookProof.ChapterSuperBracket.sbracket_even_left
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:12:59.608981+00:00
 -- url     : https://prove2.me/theorems/34228c96-ba5d-46e9-93c7-b46fdcd8d24d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_continuous_terminal_partition
 -- name    : actuarial_c_cont_continuous_terminal_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:32:26.736929+00:00
 -- url     : https://prove2.me/theorems/742f3c0f-d179-4068-a194-4af1aed9f595

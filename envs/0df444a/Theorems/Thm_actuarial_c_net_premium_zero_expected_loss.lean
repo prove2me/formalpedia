@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_net_premium_zero_expected_loss
 -- name    : actuarial_c_net_premium_zero_expected_loss
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:31:23.834981+00:00
 -- url     : https://prove2.me/theorems/c1d0a58c-fdae-49ab-9d3a-cc1517606d5e

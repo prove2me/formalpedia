@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_mass_to_public_commutation_M
 -- name    : actuarial_c_mass_to_public_commutation_M
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:32:12.197413+00:00
 -- url     : https://prove2.me/theorems/fa98c5dc-c25f-4e4c-b300-437377fc5836

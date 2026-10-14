@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_endow_mass
 -- name    : actuarial_c_endow_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:21:10.244516+00:00
 -- url     : https://prove2.me/theorems/20acdf21-0fe2-441c-b92f-d8d25779844b

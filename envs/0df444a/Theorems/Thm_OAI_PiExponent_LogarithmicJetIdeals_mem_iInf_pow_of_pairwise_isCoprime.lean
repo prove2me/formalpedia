@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_mem_iInf_pow_of_pairwise_isCoprime
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.mem_iInf_pow_of_pairwise_isCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T22:57:19.649896+00:00
 -- url     : https://prove2.me/theorems/47a95248-0096-474a-b66a-ac725ce78df2

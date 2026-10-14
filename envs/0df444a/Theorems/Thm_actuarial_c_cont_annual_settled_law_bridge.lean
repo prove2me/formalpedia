@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_annual_settled_law_bridge
 -- name    : actuarial_c_cont_annual_settled_law_bridge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:39:02.222347+00:00
 -- url     : https://prove2.me/theorems/5a1f8f71-1471-4bf2-ad95-e55db4db0b8f

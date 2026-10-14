@@ -23536,10 +23536,10 @@
 {"parent": "OddPerfectNumber.geom_ratio_lower_three_ge_four", "child": "OddPerfectNumber.geom_mul_sub_one", "via": ["solution", "statement"]}
 {"parent": "OddPerfectNumber.geom_ratio_lower_three_ge_six", "child": "OddPerfectNumber.geom_mul_sub_one", "via": ["solution", "statement"]}
 {"parent": "OddPerfectNumber.geom_ratio_lower_three_ge_ten", "child": "OddPerfectNumber.geom_mul_sub_one", "via": ["solution", "statement"]}
-{"parent": "OddPerfectNumber.geom_ratio_lower_three_terms_exact_v1", "child": "OddPerfectNumber.geom_sum_last_three_terms_le", "via": ["statement"]}
+{"parent": "OddPerfectNumber.geom_ratio_lower_three_terms_exact_v1", "child": "OddPerfectNumber.geom_sum_last_three_terms_le", "via": ["solution", "statement"]}
 {"parent": "OddPerfectNumber.geom_ratio_lower_three_terms_exact_v2", "child": "OddPerfectNumber.geom_sum_last_three_terms_le", "via": ["solution", "statement"]}
-{"parent": "OddPerfectNumber.geom_ratio_lower_three_terms_exact_v3", "child": "OddPerfectNumber.geom_sum_last_three_terms_le", "via": ["statement"]}
-{"parent": "OddPerfectNumber.geom_ratio_lower_three_terms_exact_v4", "child": "OddPerfectNumber.geom_sum_last_three_terms_le", "via": ["statement"]}
+{"parent": "OddPerfectNumber.geom_ratio_lower_three_terms_exact_v3", "child": "OddPerfectNumber.geom_sum_last_three_terms_le", "via": ["solution", "statement"]}
+{"parent": "OddPerfectNumber.geom_ratio_lower_three_terms_exact_v4", "child": "OddPerfectNumber.geom_sum_last_three_terms_le", "via": ["solution", "statement"]}
 {"parent": "OddPerfectNumber.geom_sum_cross_lt_of_le", "child": "OddPerfectNumber.prime_power_sigma_euler_upper_bound", "via": ["solution", "statement"]}
 {"parent": "OddPerfectNumber.geom_sum_dvd_implies_order_dvd", "child": "OddPerfectNumber.geom_sum_dvd_implies_zmod_pow_eq_one", "via": ["solution", "statement"]}
 {"parent": "OddPerfectNumber.geom_sum_first_three_terms_le", "child": "OddPerfectNumber.geom_sum_last_term_le", "via": ["solution", "statement"]}

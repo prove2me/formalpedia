@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_geometric_assurance_discount_composition
 -- name    : actuarial_c_geometric_assurance_discount_composition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:38:45.188015+00:00
 -- url     : https://prove2.me/theorems/5fb1914a-eb87-4550-b591-a3c91ab2d652

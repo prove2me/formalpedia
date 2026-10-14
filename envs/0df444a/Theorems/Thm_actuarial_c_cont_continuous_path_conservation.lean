@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_continuous_path_conservation
 -- name    : actuarial_c_cont_continuous_path_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:32:44.495896+00:00
 -- url     : https://prove2.me/theorems/417dc93b-3fdf-4161-9ebc-623d73f7e4bc

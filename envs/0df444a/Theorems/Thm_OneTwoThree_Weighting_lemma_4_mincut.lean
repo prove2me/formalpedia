@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OneTwoThree_Weighting_lemma_4_mincut
 -- name    : OneTwoThree.Weighting.lemma_4_mincut
--- status  : Open
+-- status  : Proved
 -- author  : @junyihjy
 -- created : 2026-10-13T09:18:54.23711+00:00
 -- url     : https://prove2.me/theorems/18cc1a56-24f8-444b-9d34-dcbae71beb20

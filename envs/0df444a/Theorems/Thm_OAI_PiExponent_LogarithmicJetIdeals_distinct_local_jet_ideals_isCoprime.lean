@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_distinct_local_jet_ideals_isCoprime
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.distinct_local_jet_ideals_isCoprime
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T22:57:08.208989+00:00
 -- url     : https://prove2.me/theorems/044f26e6-fa7e-415f-9986-1b8c3cd81e3b

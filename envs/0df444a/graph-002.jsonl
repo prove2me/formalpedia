@@ -2979,7 +2979,7 @@
 {"parent": "Freiman.background_constant_order", "child": "Freiman_wordRealization", "via": ["statement"]}
 {"parent": "Freiman.background_drop_two_constraints", "child": "Freiman_backgroundWords", "via": ["statement"]}
 {"parent": "Freiman.background_first_difference_candidate", "child": "Freiman_backgroundWords", "via": ["solution", "statement"]}
-{"parent": "Freiman.background_large_neighbor", "child": "Freiman_backgroundWords", "via": ["statement"]}
+{"parent": "Freiman.background_large_neighbor", "child": "Freiman_backgroundWords", "via": ["solution", "statement"]}
 {"parent": "Freiman.background_outward_admissible", "child": "Freiman.background_automaton_correct", "via": ["solution"]}
 {"parent": "Freiman.background_outward_admissible", "child": "Freiman.background_outward_constraints", "via": ["solution"]}
 {"parent": "Freiman.background_outward_admissible", "child": "Freiman_backgroundWords", "via": ["statement"]}
@@ -3018,7 +3018,7 @@
 {"parent": "Freiman.background_short_tail_bound", "child": "Freiman.background_reference_greatest", "via": ["solution"]}
 {"parent": "Freiman.background_short_tail_bound", "child": "Freiman.cf_convergence", "via": ["solution"]}
 {"parent": "Freiman.background_short_tail_bound", "child": "Freiman_backgroundWords", "via": ["statement"]}
-{"parent": "Freiman.background_small_digit", "child": "Freiman_backgroundWords", "via": ["statement"]}
+{"parent": "Freiman.background_small_digit", "child": "Freiman_backgroundWords", "via": ["solution", "statement"]}
 {"parent": "Freiman.background_three_avoids_four_pairs", "child": "Freiman_backgroundWords", "via": ["statement"]}
 {"parent": "Freiman.background_two_away_small", "child": "Freiman_backgroundWords", "via": ["statement"]}
 {"parent": "Freiman.background_unrestricted", "child": "Freiman.background_unrestricted_tail", "via": ["solution"]}
@@ -3291,7 +3291,7 @@
 {"parent": "Freiman.gap_endpoint_B_value", "child": "Freiman_gapModel", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_eventually_periodic_value", "child": "Freiman.cfValue_prefix", "via": ["solution"]}
 {"parent": "Freiman.gap_eventually_periodic_value", "child": "Freiman_gapModel", "via": ["solution", "statement"]}
-{"parent": "Freiman.gap_extremizer_A_data", "child": "Freiman_gapModel", "via": ["statement"]}
+{"parent": "Freiman.gap_extremizer_A_data", "child": "Freiman_gapModel", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_extremizer_A_global", "child": "Freiman.gap_endpoint_A_value", "via": ["solution"]}
 {"parent": "Freiman.gap_extremizer_A_global", "child": "Freiman.gap_extremizer_A_noncentral", "via": ["solution"]}
 {"parent": "Freiman.gap_extremizer_A_global", "child": "Freiman.gap_threshold_enclosures", "via": ["solution"]}
@@ -3303,7 +3303,7 @@
 {"parent": "Freiman.gap_extremizer_A_noncentral", "child": "Freiman_gapModel", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_extremizer_A_window_checks", "child": "Freiman_gapModel", "via": ["statement"]}
 {"parent": "Freiman.gap_extremizer_A_window_coverage", "child": "Freiman_gapModel", "via": ["statement"]}
-{"parent": "Freiman.gap_extremizer_B_data", "child": "Freiman_gapModel", "via": ["statement"]}
+{"parent": "Freiman.gap_extremizer_B_data", "child": "Freiman_gapModel", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_extremizer_B_global", "child": "Freiman.gap_endpoint_B_value", "via": ["solution"]}
 {"parent": "Freiman.gap_extremizer_B_global", "child": "Freiman.gap_extremizer_B_noncentral", "via": ["solution"]}
 {"parent": "Freiman.gap_extremizer_B_global", "child": "Freiman.gap_threshold_enclosures", "via": ["solution"]}
@@ -3328,8 +3328,8 @@
 {"parent": "Freiman.gap_forcing_application", "child": "Freiman.cf_convergence", "via": ["solution"]}
 {"parent": "Freiman.gap_forcing_application", "child": "Freiman.gap_capped_digits", "via": ["solution"]}
 {"parent": "Freiman.gap_forcing_application", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
-{"parent": "Freiman.gap_forcing_checks_3", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_forcing_checks_4", "child": "Freiman_gapCertificateData", "via": ["statement"]}
+{"parent": "Freiman.gap_forcing_checks_3", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
+{"parent": "Freiman.gap_forcing_checks_4", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_forcing_coverage_3", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_forcing_coverage_4", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_join_centre", "child": "Freiman_gapModel", "via": ["statement"]}
@@ -3355,10 +3355,10 @@
 {"parent": "Freiman.gap_lower_checks", "child": "Freiman.gap_lower_checks_2_6", "via": ["solution"]}
 {"parent": "Freiman.gap_lower_checks", "child": "Freiman.gap_lower_checks_7_11", "via": ["solution"]}
 {"parent": "Freiman.gap_lower_checks", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
-{"parent": "Freiman.gap_lower_checks_12_16", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_lower_checks_17_20", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_lower_checks_2_6", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_lower_checks_7_11", "child": "Freiman_gapCertificateData", "via": ["statement"]}
+{"parent": "Freiman.gap_lower_checks_12_16", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
+{"parent": "Freiman.gap_lower_checks_17_20", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
+{"parent": "Freiman.gap_lower_checks_2_6", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
+{"parent": "Freiman.gap_lower_checks_7_11", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_lower_coverage", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_lower_table", "child": "Freiman.gap_capped_digits", "via": ["solution"]}
 {"parent": "Freiman.gap_lower_table", "child": "Freiman.gap_certificate_soundness", "via": ["solution"]}
@@ -3453,7 +3453,7 @@
 {"parent": "Freiman.gap_reflect_capped", "child": "Freiman_gapModel", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_reflect_match", "child": "Freiman_gapModel", "via": ["statement"]}
 {"parent": "Freiman.gap_reflection", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_seed_centre", "child": "Freiman_gapModel", "via": ["statement"]}
+{"parent": "Freiman.gap_seed_centre", "child": "Freiman_gapModel", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_symbolic_exact", "child": "Freiman.gap_endpoint_A_membership", "via": ["solution"]}
 {"parent": "Freiman.gap_symbolic_exact", "child": "Freiman.gap_endpoint_B_membership", "via": ["solution"]}
 {"parent": "Freiman.gap_symbolic_exact", "child": "Freiman.gap_finite_reduction", "via": ["solution"]}
@@ -3477,10 +3477,10 @@
 {"parent": "Freiman.gap_upper_checks", "child": "Freiman.gap_upper_checks_25_28", "via": ["solution"]}
 {"parent": "Freiman.gap_upper_checks", "child": "Freiman.gap_upper_checks_29_31", "via": ["solution"]}
 {"parent": "Freiman.gap_upper_checks", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
-{"parent": "Freiman.gap_upper_checks_21_24", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_upper_checks_25_28", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_upper_checks_29_31", "child": "Freiman_gapCertificateData", "via": ["statement"]}
-{"parent": "Freiman.gap_upper_coverage", "child": "Freiman_gapCertificateData", "via": ["statement"]}
+{"parent": "Freiman.gap_upper_checks_21_24", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
+{"parent": "Freiman.gap_upper_checks_25_28", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
+{"parent": "Freiman.gap_upper_checks_29_31", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
+{"parent": "Freiman.gap_upper_coverage", "child": "Freiman_gapCertificateData", "via": ["solution", "statement"]}
 {"parent": "Freiman.gap_upper_table", "child": "Freiman.gap_capped_digits", "via": ["solution"]}
 {"parent": "Freiman.gap_upper_table", "child": "Freiman.gap_certificate_soundness", "via": ["solution"]}
 {"parent": "Freiman.gap_upper_table", "child": "Freiman.gap_upper_application", "via": ["solution"]}
@@ -7308,7 +7308,7 @@
 {"parent": "Freiman.middle_normalization_domain", "child": "Freiman_middleRoots", "via": ["statement"]}
 {"parent": "Freiman.middle_parameter_rectangle", "child": "Freiman_middleRoots", "via": ["statement"]}
 {"parent": "Freiman.middle_parameter_update", "child": "Freiman_middleRoots", "via": ["statement"]}
-{"parent": "Freiman.middle_row_exhaustive", "child": "Freiman_middleRoots", "via": ["statement"]}
+{"parent": "Freiman.middle_row_exhaustive", "child": "Freiman_middleRoots", "via": ["solution", "statement"]}
 {"parent": "Freiman.middle_secondary_four_bound", "child": "Freiman.cf_convergence", "via": ["solution"]}
 {"parent": "Freiman.middle_secondary_four_bound", "child": "Freiman_middleRoots", "via": ["solution", "statement"]}
 {"parent": "Freiman.middle_secondary_four_separations", "child": "Freiman.gap_tail_first_difference", "via": ["solution"]}

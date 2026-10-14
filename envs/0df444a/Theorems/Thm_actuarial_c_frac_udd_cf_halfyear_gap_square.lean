@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_frac_udd_cf_halfyear_gap_square
 -- name    : actuarial_c_frac_udd_cf_halfyear_gap_square
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:39:24.23941+00:00
 -- url     : https://prove2.me/theorems/6901e63c-e7e2-42e0-857b-3cb7985287c8

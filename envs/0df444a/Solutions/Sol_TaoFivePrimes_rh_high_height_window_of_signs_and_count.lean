@@ -1,0 +1,63 @@
+-- Prove2me | solution 1 for TaoFivePrimes.rh_high_height_window_of_signs_and_count
+-- status  : ACCEPTED   (prove)
+-- author  : @raresbuhai
+-- created : 2026-10-14T10:34:43.513911+00:00
+-- url     : https://prove2.me/submissions/8c3e976e-5f97-459f-834a-0df77c765a50
+
+import Definitions.Def_TaoFivePrimes_RHHighHeightBracketInterface
+import Theorems.Thm_TaoFivePrimes_rh_high_height_bracket_tree_sound
+import Theorems.Thm_TaoFivePrimes_rh_high_height_sign_count_bridge
+import Theorems.Thm_TaoFivePrimes_rh_high_height_window_finite
+import Mathlib
+set_option autoImplicit false
+set_option maxHeartbeats 0
+attribute [local irreducible] RHHighHeightBracketInterface.leaves
+namespace RHHighHeightSignClosureProof
+open RHHighHeightBracketData RHHighHeightBracketInterface
+lemma closure {l r n : Nat} (t : Tree l r n)
+    (hsigns : ∀ p ∈ leaves t,
+      RHHighHeight.normalized (point p.l)*RHHighHeight.normalized (point p.r)<0)
+    (hcount : (RHHighHeight.windowZeros 3289999872 3290000000).ncard ≤ n) :
+    ∀ s ∈ RHHighHeight.windowZeros 3289999872 3290000000, s.re=1/2 := by
+  classical
+  have ht := TaoFivePrimes.rh_high_height_bracket_tree_sound t
+  let p : Fin n → Bracket := fun i => (leaves t).get (Fin.cast ht.1.symm i)
+  have hmem (i : Fin n) : p i ∈ leaves t := List.get_mem _ _
+  let L : Fin n → ℝ := fun i => point (p i).l
+  let R : Fin n → ℝ := fun i => point (p i).r
+  have hpoint {i j : Nat} (hij : i≤j) : point i≤point j := by
+    have h : (i:ℝ)≤(j:ℝ) := by exact_mod_cast hij
+    unfold point
+    linarith
+  have hb : ∀ i, (3289999872:ℝ)≤L i ∧ L i<R i ∧ R i≤3290000000 := by
+    intro i
+    have hli : 0≤((p i).l:ℝ) := Nat.cast_nonneg _
+    have hlt : ((p i).l:ℝ)<((p i).r:ℝ) := by exact_mod_cast (p i).bound.1
+    have hr : ((p i).r:ℝ)≤4096 := by exact_mod_cast (p i).bound.2
+    dsimp [L,R,point]
+    constructor
+    · linarith
+    constructor <;> linarith
+  have hd : ∀ i j, i≠j → Disjoint (Set.Ioo (L i) (R i)) (Set.Ioo (L j) (R j)) := by
+    intro i j hij
+    have hs := List.pairwise_iff_get.mp ht.2.1
+    rcases lt_or_gt_of_ne hij with hlt | hlt
+    · have ho : (p i).r≤(p j).l := hs (Fin.cast ht.1.symm i) (Fin.cast ht.1.symm j) hlt
+      have hv : R i≤L j := hpoint ho
+      exact Set.disjoint_left.mpr (fun x hi hj => by linarith [hi.2,hj.1])
+    · have ho : (p j).r≤(p i).l := hs (Fin.cast ht.1.symm j) (Fin.cast ht.1.symm i) hlt
+      have hv : R j≤L i := hpoint ho
+      exact Set.disjoint_left.mpr (fun x hi hj => by linarith [hi.1,hj.2])
+  have hs : ∀ i, RHHighHeight.normalized (L i)*RHHighHeight.normalized (R i)<0 :=
+    fun i => hsigns (p i) (hmem i)
+  exact TaoFivePrimes.rh_high_height_sign_count_bridge L R hb hd hs
+    (TaoFivePrimes.rh_high_height_window_finite _ _) hcount
+end RHHighHeightSignClosureProof
+
+theorem solution
+    (hsigns : ∀ p ∈ RHHighHeightBracketInterface.leaves RHHighHeightBracketData.certificate,
+      RHHighHeight.normalized (RHHighHeightBracketInterface.point p.l)*
+      RHHighHeight.normalized (RHHighHeightBracketInterface.point p.r)<0)
+    (hcount : (RHHighHeight.windowZeros 3289999872 3290000000).ncard ≤ 409) :
+    ∀ s ∈ RHHighHeight.windowZeros 3289999872 3290000000, s.re=1/2 :=
+  RHHighHeightSignClosureProof.closure RHHighHeightBracketData.certificate hsigns hcount

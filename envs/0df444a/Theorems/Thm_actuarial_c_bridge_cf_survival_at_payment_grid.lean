@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_bridge_cf_survival_at_payment_grid
 -- name    : actuarial_c_bridge_cf_survival_at_payment_grid
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:22:30.546986+00:00
 -- url     : https://prove2.me/theorems/2f9413b0-f7d5-40df-8584-f01f460ecaae

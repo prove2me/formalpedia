@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_zeta_zero_free_rectangle_104_105
 -- name    : TaoFivePrimes.zeta_zero_free_rectangle_104_105
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-14T04:14:09.06877+00:00
 -- url     : https://prove2.me/theorems/4e66dfba-8399-4827-8d0a-cd498a206326

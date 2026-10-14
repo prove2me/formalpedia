@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_frac_cf_half_agrees_with_time_model
 -- name    : actuarial_c_frac_cf_half_agrees_with_time_model
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:42:10.939988+00:00
 -- url     : https://prove2.me/theorems/7edde699-f076-45a1-9766-1f53719975a1

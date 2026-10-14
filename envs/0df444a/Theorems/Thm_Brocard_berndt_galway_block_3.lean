@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Brocard_berndt_galway_block_3
 -- name    : Brocard.berndt_galway_block_3
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-01T01:37:06.291884+00:00
 -- url     : https://prove2.me/theorems/21ef3ac9-9ad9-47e7-a5bd-c036561f0b32

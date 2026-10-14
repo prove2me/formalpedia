@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_frac_constant_force_survival_antitone
 -- name    : actuarial_c_frac_constant_force_survival_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:41:32.063989+00:00
 -- url     : https://prove2.me/theorems/2e2939bf-b736-425e-9d39-3edc60f1908d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_verified_slice_101_102
 -- name    : TaoFivePrimes.rh_verified_slice_101_102
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-14T04:02:57.492731+00:00
 -- url     : https://prove2.me/theorems/cab7bea1-0010-4f40-a836-0555306d9624

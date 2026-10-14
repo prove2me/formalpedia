@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_deferred_split
 -- name    : actuarial_c_deferred_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:19:07.163984+00:00
 -- url     : https://prove2.me/theorems/a73f279b-fc78-48e6-811c-41e5992db0d3

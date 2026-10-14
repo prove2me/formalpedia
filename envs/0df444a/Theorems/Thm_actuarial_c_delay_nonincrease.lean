@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_delay_nonincrease
 -- name    : actuarial_c_delay_nonincrease
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:28:10.853195+00:00
 -- url     : https://prove2.me/theorems/d4d0e0a7-177e-4a1a-815a-d80c01c2781d

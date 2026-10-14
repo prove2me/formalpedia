@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_jetCoordinate_powers_isCoprime_of_ne
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.jetCoordinate_powers_isCoprime_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T00:21:34.892748+00:00
 -- url     : https://prove2.me/theorems/9493bf8a-c113-4518-a160-06d448a2ef37

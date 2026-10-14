@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_localJetIdeal_isCoprime_of_ne
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.localJetIdeal_isCoprime_of_ne
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T23:41:38.768493+00:00
 -- url     : https://prove2.me/theorems/826547b8-8ee1-4004-8f8a-833a3f846dd3

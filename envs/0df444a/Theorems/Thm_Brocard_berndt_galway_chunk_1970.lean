@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Brocard_berndt_galway_chunk_1970
 -- name    : Brocard.berndt_galway_chunk_1970
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-14T04:56:52.039609+00:00
 -- url     : https://prove2.me/theorems/2950a14e-f41b-42ee-afd5-5ed143e5245d

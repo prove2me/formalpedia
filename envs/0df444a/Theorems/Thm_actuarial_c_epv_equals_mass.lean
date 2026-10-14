@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_epv_equals_mass
 -- name    : actuarial_c_epv_equals_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:16:32.027353+00:00
 -- url     : https://prove2.me/theorems/0eda5096-ed34-4373-b297-7b367aab4a02

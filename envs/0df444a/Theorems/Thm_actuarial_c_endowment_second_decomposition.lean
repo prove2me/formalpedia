@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_endowment_second_decomposition
 -- name    : actuarial_c_endowment_second_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:28:53.948112+00:00
 -- url     : https://prove2.me/theorems/723bca6a-5920-4d44-967f-c8e4f9d063bd

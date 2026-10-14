@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_immediate_death_second_moment
 -- name    : actuarial_c_cont_immediate_death_second_moment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:38:11.760231+00:00
 -- url     : https://prove2.me/theorems/5acd018c-ee25-4bcb-8dc8-b2604f9d0e5c
