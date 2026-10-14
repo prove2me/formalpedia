@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_sum_pairCoord
 -- name    : BookProof.ChapterWignerSymmetry.sum_pairCoord
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:19:25.657546+00:00
 -- url     : https://prove2.me/theorems/411c201d-67ae-46ea-9b4c-1f09a83f4279

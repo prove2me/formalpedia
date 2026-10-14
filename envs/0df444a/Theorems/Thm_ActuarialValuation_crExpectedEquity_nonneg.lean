@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crExpectedEquity_nonneg
 -- name    : ActuarialValuation.crExpectedEquity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:55.231387+00:00
 -- url     : https://prove2.me/theorems/cb88c21b-a900-4567-a336-9a0622978aa2

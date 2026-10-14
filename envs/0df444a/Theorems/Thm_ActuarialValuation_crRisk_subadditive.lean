@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_subadditive
 -- name    : ActuarialValuation.crRisk_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:40.712968+00:00
 -- url     : https://prove2.me/theorems/ebcd2ebc-dbe4-48cb-abac-74b116e82e53

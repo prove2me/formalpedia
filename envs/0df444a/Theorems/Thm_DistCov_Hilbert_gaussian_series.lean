@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_gaussian_series
 -- name    : DistCov.Hilbert.gaussian_series
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:52.440323+00:00
 -- url     : https://prove2.me/theorems/85ce166a-d50d-4bc1-b776-1055acb99010

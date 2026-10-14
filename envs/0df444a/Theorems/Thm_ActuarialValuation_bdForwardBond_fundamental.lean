@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdForwardBond_fundamental
 -- name    : ActuarialValuation.bdForwardBond_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:52.405995+00:00
 -- url     : https://prove2.me/theorems/a1a07db8-a0de-42fe-8af1-81f4f2e4127b

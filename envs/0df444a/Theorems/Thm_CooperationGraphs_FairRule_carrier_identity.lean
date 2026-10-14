@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_carrier_identity
 -- name    : CooperationGraphs.FairRule.carrier_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:10.590982+00:00
 -- url     : https://prove2.me/theorems/475e1694-6046-47dc-8e4e-94e0a5ac2420

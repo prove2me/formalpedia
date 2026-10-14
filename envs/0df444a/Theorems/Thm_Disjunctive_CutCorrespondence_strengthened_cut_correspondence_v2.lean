@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_CutCorrespondence_strengthened_cut_correspondence_v2
 -- name    : Disjunctive.CutCorrespondence.strengthened_cut_correspondence_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:08:09.920153+00:00
 -- url     : https://prove2.me/theorems/4f1e93f9-5ed6-4e7d-91e1-f4210673f7fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFixedAccum_add
 -- name    : ActuarialValuation.siFixedAccum_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:02:39.393974+00:00
 -- url     : https://prove2.me/theorems/13a7b59c-9f31-4fbf-b384-c523cd37d647

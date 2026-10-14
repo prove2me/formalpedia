@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruBoundedOptionalStopping
 -- name    : ActuarialValuation.ruBoundedOptionalStopping
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:03.468211+00:00
 -- url     : https://prove2.me/theorems/08b546f2-c950-4de1-b467-4d83780190d2

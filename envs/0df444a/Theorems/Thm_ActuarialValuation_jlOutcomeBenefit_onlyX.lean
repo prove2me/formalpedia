@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlOutcomeBenefit_onlyX
 -- name    : ActuarialValuation.jlOutcomeBenefit_onlyX
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:32.399762+00:00
 -- url     : https://prove2.me/theorems/b66b6922-d4f4-4c0d-ae7f-4fcdc0d7c524

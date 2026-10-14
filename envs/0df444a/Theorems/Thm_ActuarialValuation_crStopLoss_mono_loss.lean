@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLoss_mono_loss
 -- name    : ActuarialValuation.crStopLoss_mono_loss
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:00.642245+00:00
 -- url     : https://prove2.me/theorems/8821d90b-26c3-49d3-ae61-01b555eb66c6

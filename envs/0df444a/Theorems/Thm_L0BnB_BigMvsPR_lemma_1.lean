@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_BigMvsPR_lemma_1
 -- name    : L0BnB.BigMvsPR.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:30:17.685409+00:00
 -- url     : https://prove2.me/theorems/21321c86-0bf5-425b-867a-7b07bda7b117

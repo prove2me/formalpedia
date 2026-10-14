@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irRealReserve_balance
 -- name    : ActuarialValuation.irRealReserve_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:54.262255+00:00
 -- url     : https://prove2.me/theorems/09ff227c-7fef-4de0-b271-9b98baeb6d45

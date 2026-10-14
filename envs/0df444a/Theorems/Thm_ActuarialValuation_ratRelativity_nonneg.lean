@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratRelativity_nonneg
 -- name    : ActuarialValuation.ratRelativity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:33:17.267928+00:00
 -- url     : https://prove2.me/theorems/8a2c60b8-c7c3-4bda-9865-fc6103d77d47

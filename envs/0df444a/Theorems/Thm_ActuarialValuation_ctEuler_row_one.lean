@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctEuler_row_one
 -- name    : ActuarialValuation.ctEuler_row_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:50:58.561087+00:00
 -- url     : https://prove2.me/theorems/07167fcc-edce-47b6-87f1-2beaca1e357f

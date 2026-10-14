@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PLCMarkets.ExactCover.exactCover_iff_equilibrium
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T02:57:25.991632+00:00
 -- url     : https://prove2.me/submissions/5d090ea5-2021-4e84-8781-5958e17609c9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PLCMarkets_ExactCover_X3C

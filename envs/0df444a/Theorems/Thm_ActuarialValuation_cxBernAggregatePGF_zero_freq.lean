@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxBernAggregatePGF_zero_freq
 -- name    : ActuarialValuation.cxBernAggregatePGF_zero_freq
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:58:22.826342+00:00
 -- url     : https://prove2.me/theorems/5c8341f7-7372-4432-a47c-965997a15b22

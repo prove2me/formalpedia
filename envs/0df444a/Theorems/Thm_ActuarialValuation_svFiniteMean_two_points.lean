@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svFiniteMean_two_points
 -- name    : ActuarialValuation.svFiniteMean_two_points
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:33.983226+00:00
 -- url     : https://prove2.me/theorems/e49d5324-f7aa-442a-acc0-56f28c69b931

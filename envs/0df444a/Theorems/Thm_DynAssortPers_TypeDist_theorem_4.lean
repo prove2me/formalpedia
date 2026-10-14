@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynAssortPers_TypeDist_theorem_4
 -- name    : DynAssortPers.TypeDist.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:15:49.909484+00:00
 -- url     : https://prove2.me/theorems/9a619b69-1de8-439c-b218-bfa7b9b3a122

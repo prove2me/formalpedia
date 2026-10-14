@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_ClassTeacher_figure_1_example
 -- name    : Timetabling85.ClassTeacher.figure_1_example
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:18.400046+00:00
 -- url     : https://prove2.me/theorems/f2679d3c-a75e-4176-a747-8d25ccaf2162

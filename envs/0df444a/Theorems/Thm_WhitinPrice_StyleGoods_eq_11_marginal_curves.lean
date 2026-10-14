@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitinPrice_StyleGoods_eq_11_marginal_curves
 -- name    : WhitinPrice.StyleGoods.eq_11_marginal_curves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:57:48.429464+00:00
 -- url     : https://prove2.me/theorems/d7c10f9a-61cf-4b9d-b3d0-2582eeb06bd5

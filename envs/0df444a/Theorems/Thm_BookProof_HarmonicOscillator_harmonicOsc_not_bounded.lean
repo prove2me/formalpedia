@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HarmonicOscillator_harmonicOsc_not_bounded
 -- name    : BookProof.HarmonicOscillator.harmonicOsc_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:00:00.037388+00:00
 -- url     : https://prove2.me/theorems/6ef4528a-2bd1-4a02-bb7e-cbea1aa78351

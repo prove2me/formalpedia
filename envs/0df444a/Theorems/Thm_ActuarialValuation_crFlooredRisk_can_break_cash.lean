@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crFlooredRisk_can_break_cash
 -- name    : ActuarialValuation.crFlooredRisk_can_break_cash
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:03.308565+00:00
 -- url     : https://prove2.me/theorems/9d478ce4-99e4-4080-bdf4-c22be2aed255

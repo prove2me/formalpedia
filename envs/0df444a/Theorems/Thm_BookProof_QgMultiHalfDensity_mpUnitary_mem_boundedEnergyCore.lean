@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgMultiHalfDensity_mpUnitary_mem_boundedEnergyCore
 -- name    : BookProof.QgMultiHalfDensity.mpUnitary_mem_boundedEnergyCore
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:36:40.195011+00:00
 -- url     : https://prove2.me/theorems/fb91c040-3bcd-4cff-a6f4-30fb4a3ff06d

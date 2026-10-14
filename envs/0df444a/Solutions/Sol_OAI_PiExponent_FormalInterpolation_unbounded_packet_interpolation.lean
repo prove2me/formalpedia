@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.unbounded_packet_interpolation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:12:14.715556+00:00
 -- url     : https://prove2.me/submissions/aa97bf13-5588-4fc3-8c02-bef69de4b07a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_local_logarithmic_interpolation
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_logarithmic_jet_gluing

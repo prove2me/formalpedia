@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BarvinokCount_ShortFormula_latticeCount_eq_short_signed_sum
 -- name    : BarvinokCount.ShortFormula.latticeCount_eq_short_signed_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T06:30:17.96831+00:00
 -- url     : https://prove2.me/theorems/1a3825f6-2572-4d30-82ff-57a7dc42a92f

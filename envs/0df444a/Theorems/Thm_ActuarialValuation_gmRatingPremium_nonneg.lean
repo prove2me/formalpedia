@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmRatingPremium_nonneg
 -- name    : ActuarialValuation.gmRatingPremium_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:12:25.000608+00:00
 -- url     : https://prove2.me/theorems/a71c1992-850c-4563-ae39-21634bc2fb9d

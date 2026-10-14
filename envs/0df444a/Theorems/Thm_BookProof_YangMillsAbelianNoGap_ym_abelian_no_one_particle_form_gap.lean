@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_ym_abelian_no_one_particle_form_gap
 -- name    : BookProof.YangMillsAbelianNoGap.ym_abelian_no_one_particle_form_gap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:37:27.582981+00:00
 -- url     : https://prove2.me/theorems/02156b53-0220-4f7c-a738-a3ae2ea3cd17

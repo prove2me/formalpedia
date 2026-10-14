@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmSurvivalStep_exact
 -- name    : ActuarialValuation.kmSurvivalStep_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:44:14.475889+00:00
 -- url     : https://prove2.me/theorems/5e24b7ca-1677-4a5a-8a30-cea31fef5c4e

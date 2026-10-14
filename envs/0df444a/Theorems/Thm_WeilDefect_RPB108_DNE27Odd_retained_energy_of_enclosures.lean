@@ -12,8 +12,12 @@
 --   $$R\sum_{i=1}^3|z_i|^2\le Q_V((s_i z_{i+1})_{i=0}^2).$$
 --
 --   This reusable interface discharges the retained-energy hypothesis of the preceding conditional physical-gap theorem.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27RetainedEnergy.lean#L156-L160; exact native theorem WeilDefect.RPB108.DNE27Odd.retained_energy_of_enclosures. SHA256 4a41ee4590c3cb7fb2d0ee15498dbafc45b1c6256b633b0d0bdb527587dd145b. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_DNE27Gram_Odd

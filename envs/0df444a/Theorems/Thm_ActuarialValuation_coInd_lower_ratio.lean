@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coInd_lower_ratio
 -- name    : ActuarialValuation.coInd_lower_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:28.803107+00:00
 -- url     : https://prove2.me/theorems/e5ea921d-479e-4b97-be2f-fa2c94df708d

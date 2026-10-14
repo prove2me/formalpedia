@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpsonInv_Vertex_vertices_model
 -- name    : SimpsonInv.Vertex.vertices_model
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:04.887568+00:00
 -- url     : https://prove2.me/theorems/0f836c66-8e05-4e0f-a509-1470b73ec837

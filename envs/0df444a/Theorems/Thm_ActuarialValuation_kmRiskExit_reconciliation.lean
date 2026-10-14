@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmRiskExit_reconciliation
 -- name    : ActuarialValuation.kmRiskExit_reconciliation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:51.386006+00:00
 -- url     : https://prove2.me/theorems/6a7a577f-9f58-4f63-bd3f-e36ab5b835af

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterWeylSL2Group.rho_mem_of_isInv
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:40:42.922458+00:00
 -- url     : https://prove2.me/submissions/a30c52ba-dc12-4b7b-b20a-13e2580d0ea7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWeylSL2Group.lean — solution of BookProof.ChapterWeylSL2Group.rho_mem_of_isInv
 import Mathlib

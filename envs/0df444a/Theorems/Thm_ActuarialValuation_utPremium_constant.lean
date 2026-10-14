@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utPremium_constant
 -- name    : ActuarialValuation.utPremium_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:27.923264+00:00
 -- url     : https://prove2.me/theorems/0ab7b4e4-5373-4edc-b12e-9f075828af58

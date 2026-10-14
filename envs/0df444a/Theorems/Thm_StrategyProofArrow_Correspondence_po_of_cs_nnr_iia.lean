@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Correspondence_po_of_cs_nnr_iia
 -- name    : StrategyProofArrow.Correspondence.po_of_cs_nnr_iia
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:50:23.484844+00:00
 -- url     : https://prove2.me/theorems/6b46fca5-824a-48c2-9493-d9fa1001e2ef

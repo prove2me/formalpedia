@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsScalarVectorCurry_isSliceOf_curryLI
 -- name    : BookProof.NsScalarVectorCurry.isSliceOf_curryLI
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:45:45.154554+00:00
 -- url     : https://prove2.me/theorems/d747c3fb-7e96-45bd-8a37-23b0cbe5b92b

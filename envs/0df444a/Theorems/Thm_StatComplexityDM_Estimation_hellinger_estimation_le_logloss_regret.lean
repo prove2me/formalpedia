@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_Estimation_hellinger_estimation_le_logloss_regret
 -- name    : StatComplexityDM.Estimation.hellinger_estimation_le_logloss_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:20.909695+00:00
 -- url     : https://prove2.me/theorems/35662b0d-eb04-428d-92a1-4277c78089e6

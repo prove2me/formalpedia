@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratPortfolioPremium_factor
 -- name    : ActuarialValuation.ratPortfolioPremium_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:43:58.181619+00:00
 -- url     : https://prove2.me/theorems/253f316f-5196-472f-955d-98b829ee0016

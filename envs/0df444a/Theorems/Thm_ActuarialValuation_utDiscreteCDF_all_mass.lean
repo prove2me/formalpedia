@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utDiscreteCDF_all_mass
 -- name    : ActuarialValuation.utDiscreteCDF_all_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:35.78172+00:00
 -- url     : https://prove2.me/theorems/b68541bb-b42f-4e47-a1f2-41e3f83c754c

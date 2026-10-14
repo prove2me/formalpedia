@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedSurplus_net_profit
 -- name    : ActuarialValuation.erExpectedSurplus_net_profit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:54:18.092343+00:00
 -- url     : https://prove2.me/theorems/2dee9027-71cc-40e0-b83f-163c2737449b

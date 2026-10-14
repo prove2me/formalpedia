@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitPNT_kadiri_zero_free_region_569693
 -- name    : ExplicitPNT.kadiri_zero_free_region_569693
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-10-09T14:30:17.501648+00:00
 -- url     : https://prove2.me/theorems/c1dc19b4-cc34-4987-a509-85f0593704cc

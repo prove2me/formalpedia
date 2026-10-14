@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpsonInv_Vertex_theorem_II
 -- name    : SimpsonInv.Vertex.theorem_II
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:00.176206+00:00
 -- url     : https://prove2.me/theorems/1661bcac-197e-40ba-b942-5c4514213ba1

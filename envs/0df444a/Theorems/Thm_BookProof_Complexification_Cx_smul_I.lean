@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Complexification_Cx_smul_I
 -- name    : BookProof.Complexification.Cx.smul_I
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:39:27.742161+00:00
 -- url     : https://prove2.me/theorems/6e0e2557-43f7-450d-aa02-2b3577e81f19

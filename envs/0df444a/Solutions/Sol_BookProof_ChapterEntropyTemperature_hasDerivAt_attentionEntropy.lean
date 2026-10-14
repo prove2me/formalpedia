@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterEntropyTemperature.hasDerivAt_attentionEntropy
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:03:35.379584+00:00
 -- url     : https://prove2.me/submissions/04cfbf24-164f-4ee2-91ce-dcd4126949d8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterEntropyTemperature.lean — solution of BookProof.ChapterEntropyTemperature.hasDerivAt_attentionEntropy
 import Mathlib

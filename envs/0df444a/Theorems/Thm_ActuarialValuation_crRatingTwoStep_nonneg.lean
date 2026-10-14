@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRatingTwoStep_nonneg
 -- name    : ActuarialValuation.crRatingTwoStep_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:33.423003+00:00
 -- url     : https://prove2.me/theorems/dff823dc-06cd-4b1c-aa83-5525d741637a

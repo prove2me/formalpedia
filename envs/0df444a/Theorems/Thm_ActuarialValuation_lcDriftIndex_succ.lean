@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcDriftIndex_succ
 -- name    : ActuarialValuation.lcDriftIndex_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:30:57.535335+00:00
 -- url     : https://prove2.me/theorems/77dc9f0c-5967-49a6-bed8-aa57e1b70642

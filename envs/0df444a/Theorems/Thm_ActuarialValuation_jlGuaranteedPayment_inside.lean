@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlGuaranteedPayment_inside
 -- name    : ActuarialValuation.jlGuaranteedPayment_inside
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:37.036581+00:00
 -- url     : https://prove2.me/theorems/25773cd6-5fdc-4241-8320-52f2b38e2848

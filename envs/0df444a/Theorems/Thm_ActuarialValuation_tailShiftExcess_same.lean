@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailShiftExcess_same
 -- name    : ActuarialValuation.tailShiftExcess_same
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:47:35.657236+00:00
 -- url     : https://prove2.me/theorems/9b075935-5070-45ed-a1ef-2240eb26f449

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_WeakApprox_sum_mul_gain_eq_zero
 -- name    : FixpNash.WeakApprox.sum_mul_gain_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:23.857429+00:00
 -- url     : https://prove2.me/theorems/3cba2f79-b4e3-443d-9b24-a87ecdcf90f8

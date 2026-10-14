@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coInd_tail_factor
 -- name    : ActuarialValuation.coInd_tail_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:02.483605+00:00
 -- url     : https://prove2.me/theorems/79b16e38-d1f4-4278-80a6-ecd253cbe7a1

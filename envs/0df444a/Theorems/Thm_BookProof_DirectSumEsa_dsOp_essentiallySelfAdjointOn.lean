@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_dsOp_essentiallySelfAdjointOn
 -- name    : BookProof.DirectSumEsa.dsOp_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:59:11.249472+00:00
 -- url     : https://prove2.me/theorems/8774e01f-0c98-4b04-af70-087df10c8989

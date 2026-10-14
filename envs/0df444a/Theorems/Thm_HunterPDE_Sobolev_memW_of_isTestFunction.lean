@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_memW_of_isTestFunction
 -- name    : HunterPDE.Sobolev.memW_of_isTestFunction
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T22:34:19.431233+00:00
 -- url     : https://prove2.me/theorems/3bcd6ef6-9b41-4070-b1c0-92e86cdffb55

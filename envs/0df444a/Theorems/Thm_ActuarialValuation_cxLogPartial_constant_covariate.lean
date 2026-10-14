@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxLogPartial_constant_covariate
 -- name    : ActuarialValuation.cxLogPartial_constant_covariate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:50.249993+00:00
 -- url     : https://prove2.me/theorems/b9d57ac0-0aa5-41db-8dad-6b70f23f1aea

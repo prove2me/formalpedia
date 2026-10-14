@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationSurrenderValue_le_reserve
 -- name    : ActuarialValuation.alterationSurrenderValue_le_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:09:07.201053+00:00
 -- url     : https://prove2.me/theorems/af735252-a541-4552-8607-cd4409ea45e6

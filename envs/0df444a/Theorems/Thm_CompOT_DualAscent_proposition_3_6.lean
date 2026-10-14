@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_DualAscent_proposition_3_6
 -- name    : CompOT.DualAscent.proposition_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:32:49.336238+00:00
 -- url     : https://prove2.me/theorems/35948e71-13a9-4477-b4b0-06ada785abc5

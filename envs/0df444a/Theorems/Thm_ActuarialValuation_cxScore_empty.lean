@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxScore_empty
 -- name    : ActuarialValuation.cxScore_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:18:33.072276+00:00
 -- url     : https://prove2.me/theorems/a117b44d-100b-4726-8ddc-17850ee0abee

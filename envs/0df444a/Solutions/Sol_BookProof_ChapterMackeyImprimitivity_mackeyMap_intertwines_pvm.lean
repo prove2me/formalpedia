@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterMackeyImprimitivity.mackeyMap_intertwines_pvm
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:03:43.750209+00:00
 -- url     : https://prove2.me/submissions/956ee884-02a8-442f-aebd-2603434f6e51
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMackeyImprimitivity.lean — solution of BookProof.ChapterMackeyImprimitivity.mackeyMap_intertwines_pvm
 import Mathlib

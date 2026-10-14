@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_potentialOp_deficiencyTrivial
 -- name    : BookProof.StrichartzWave.potentialOp_deficiencyTrivial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:52:40.530924+00:00
 -- url     : https://prove2.me/theorems/c00bea1d-1409-48b1-87f3-692b5629cb51

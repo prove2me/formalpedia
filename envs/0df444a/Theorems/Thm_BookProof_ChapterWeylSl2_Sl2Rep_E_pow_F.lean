@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_E_pow_F
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.E_pow_F
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:50:22.181994+00:00
 -- url     : https://prove2.me/theorems/f6a8830e-4a70-43b7-a1df-b6a4514faf98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerStopLoss_zero_weights
 -- name    : ActuarialValuation.panjerStopLoss_zero_weights
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T08:01:28.353283+00:00
 -- url     : https://prove2.me/theorems/664d77fc-2363-43f2-97b1-fa2641ca154c

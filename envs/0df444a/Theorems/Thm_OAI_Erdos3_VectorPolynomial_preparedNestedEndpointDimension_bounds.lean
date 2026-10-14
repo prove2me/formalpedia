@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_preparedNestedEndpointDimension_bounds
 -- name    : OAI.Erdos3.VectorPolynomial.preparedNestedEndpointDimension_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T07:49:49.939859+00:00
 -- url     : https://prove2.me/theorems/c658223e-839c-4225-967c-cc5e6033c2a1

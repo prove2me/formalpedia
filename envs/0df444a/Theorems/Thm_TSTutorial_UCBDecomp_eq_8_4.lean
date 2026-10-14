@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSTutorial_UCBDecomp_eq_8_4
 -- name    : TSTutorial.UCBDecomp.eq_8_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:25.162314+00:00
 -- url     : https://prove2.me/theorems/72fd0fc2-46ba-4f7c-9293-bd07e87ee917

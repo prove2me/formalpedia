@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msReserveOne_zero_future
 -- name    : ActuarialValuation.msReserveOne_zero_future
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:30.117581+00:00
 -- url     : https://prove2.me/theorems/ef6be359-aa7e-4b5d-91c8-6d73eea49fa3

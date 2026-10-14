@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9RequiredDCRate_funds
 -- name    : ActuarialValuation.pen9RequiredDCRate_funds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:03.952881+00:00
 -- url     : https://prove2.me/theorems/030b80ee-d7f0-4f49-81ca-4f5387d0934f

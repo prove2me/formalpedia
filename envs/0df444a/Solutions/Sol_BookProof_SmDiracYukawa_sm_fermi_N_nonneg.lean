@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmDiracYukawa.sm_fermi_N_nonneg
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:07:03.026642+00:00
 -- url     : https://prove2.me/submissions/aa74b5ab-a05f-4ceb-92da-5e730d56b508
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmDiracYukawa.lean — solution of BookProof.SmDiracYukawa.sm_fermi_N_nonneg
 import Mathlib

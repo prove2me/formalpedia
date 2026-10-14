@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msReserveOne_split
 -- name    : ActuarialValuation.msReserveOne_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:44.768599+00:00
 -- url     : https://prove2.me/theorems/e0ba7000-6520-4615-9cd5-fbaed75220ac

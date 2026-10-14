@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalancedPrices_ClosureMax_optVal_mono
 -- name    : BalancedPrices.ClosureMax.optVal_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:56:17.470266+00:00
 -- url     : https://prove2.me/theorems/7b127417-bffd-4fa3-9b8a-3236ab000418

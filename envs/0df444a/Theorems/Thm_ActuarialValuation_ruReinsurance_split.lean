@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruReinsurance_split
 -- name    : ActuarialValuation.ruReinsurance_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:37.481716+00:00
 -- url     : https://prove2.me/theorems/1e611014-32d3-4165-b2e9-f2ff11178bca

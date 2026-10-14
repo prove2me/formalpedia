@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioExact_PartOne_subset_Stilde
 -- name    : ScenarioExact.PartOne.subset_Stilde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:23:44.312643+00:00
 -- url     : https://prove2.me/theorems/41b552e7-f875-45a8-9e4e-e3785557245c

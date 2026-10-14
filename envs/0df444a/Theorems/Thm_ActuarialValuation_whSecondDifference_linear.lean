@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whSecondDifference_linear
 -- name    : ActuarialValuation.whSecondDifference_linear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:05.69776+00:00
 -- url     : https://prove2.me/theorems/b18589bb-aa8b-4f8e-a24c-533d33b3c437

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterObservableExpectation_attention_eq_expectation
 -- name    : BookProof.ChapterObservableExpectation.attention_eq_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:39:08.236025+00:00
 -- url     : https://prove2.me/theorems/bce43855-3663-43b2-a239-b105df429e4f

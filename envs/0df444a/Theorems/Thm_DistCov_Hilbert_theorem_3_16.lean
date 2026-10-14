@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_theorem_3_16
 -- name    : DistCov.Hilbert.theorem_3_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:16.692618+00:00
 -- url     : https://prove2.me/theorems/fc2f6b07-f565-460e-ac61-3897b4b28393

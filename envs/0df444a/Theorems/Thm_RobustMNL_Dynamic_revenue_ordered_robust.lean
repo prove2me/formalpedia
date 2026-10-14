@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_revenue_ordered_robust
 -- name    : RobustMNL.Dynamic.revenue_ordered_robust
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:21:23.085987+00:00
 -- url     : https://prove2.me/theorems/492cc33a-dcf2-4d8a-b967-868a44d0b7fa

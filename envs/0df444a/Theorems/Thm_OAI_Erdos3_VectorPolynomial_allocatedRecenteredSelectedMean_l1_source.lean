@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedRecenteredSelectedMean_l1_source
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedRecenteredSelectedMean_l1_source
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T09:49:26.197814+00:00
 -- url     : https://prove2.me/theorems/07bcece5-f366-440e-8805-e64eb3118c0a

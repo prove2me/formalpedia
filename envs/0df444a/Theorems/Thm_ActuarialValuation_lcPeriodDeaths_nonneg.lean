@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcPeriodDeaths_nonneg
 -- name    : ActuarialValuation.lcPeriodDeaths_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:02:39.806165+00:00
 -- url     : https://prove2.me/theorems/fbd193f2-134b-430e-a08a-9e53e3b0e9d9

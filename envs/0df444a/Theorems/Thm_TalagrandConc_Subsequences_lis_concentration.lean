@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc_Subsequences_lis_concentration
 -- name    : TalagrandConc.Subsequences.lis_concentration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:45:25.612155+00:00
 -- url     : https://prove2.me/theorems/7a286268-6daf-4e73-940f-10b715dd78f0

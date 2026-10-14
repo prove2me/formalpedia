@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmScore_zero_claims
 -- name    : ActuarialValuation.gmScore_zero_claims
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:10.016991+00:00
 -- url     : https://prove2.me/theorems/fac4b042-f5eb-477b-adb0-4abc3b7a47f5

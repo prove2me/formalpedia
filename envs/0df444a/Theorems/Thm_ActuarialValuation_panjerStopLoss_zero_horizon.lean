@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerStopLoss_zero_horizon
 -- name    : ActuarialValuation.panjerStopLoss_zero_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T08:01:15.979669+00:00
 -- url     : https://prove2.me/theorems/60c9e1c8-3871-4145-baa7-64a48b215286

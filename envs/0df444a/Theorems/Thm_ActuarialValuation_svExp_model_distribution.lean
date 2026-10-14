@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svExp_model_distribution
 -- name    : ActuarialValuation.svExp_model_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:40.95978+00:00
 -- url     : https://prove2.me/theorems/9cce4e54-5815-4dab-bfa9-fcdabc14958a

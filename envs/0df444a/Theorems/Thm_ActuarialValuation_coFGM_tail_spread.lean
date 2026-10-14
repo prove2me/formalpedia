@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coFGM_tail_spread
 -- name    : ActuarialValuation.coFGM_tail_spread
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:07.465456+00:00
 -- url     : https://prove2.me/theorems/3ddb626d-90e1-490b-9f3c-de4432ab2432

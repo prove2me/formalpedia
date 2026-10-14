@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irACPCReserve_nonneg
 -- name    : ActuarialValuation.irACPCReserve_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:56.286593+00:00
 -- url     : https://prove2.me/theorems/5cf6e858-0873-4633-bfe5-1798ffd667c7

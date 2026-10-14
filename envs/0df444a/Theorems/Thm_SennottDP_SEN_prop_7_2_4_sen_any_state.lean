@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_SEN_prop_7_2_4_sen_any_state
 -- name    : SennottDP.SEN.prop_7_2_4_sen_any_state
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T10:29:11.403347+00:00
 -- url     : https://prove2.me/theorems/f2a7b7b9-a755-4965-ae78-b59679d95b41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackSigmaSquared_nonneg
 -- name    : ActuarialValuation.mackSigmaSquared_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:29:51.989323+00:00
 -- url     : https://prove2.me/theorems/8e5967f5-6968-4611-8d25-904411ba995a

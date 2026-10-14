@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmHamiltonian.realCoeff_smFormPoly
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:19:15.267631+00:00
 -- url     : https://prove2.me/submissions/7cad37d4-157d-497c-9a35-1449c1543f2b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmHamiltonian.lean — solution of BookProof.SmHamiltonian.realCoeff_smFormPoly
 import Mathlib

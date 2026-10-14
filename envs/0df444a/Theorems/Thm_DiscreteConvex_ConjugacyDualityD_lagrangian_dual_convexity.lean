@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityD_lagrangian_dual_convexity
 -- name    : DiscreteConvex.ConjugacyDualityD.lagrangian_dual_convexity
--- status  : Open
+-- status  : Disproved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T02:03:49.707885+00:00
 -- url     : https://prove2.me/theorems/b8f0a7db-b9dc-4075-930d-abd06d8feaba

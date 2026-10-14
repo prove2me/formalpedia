@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_forecastInactive_sliced_fixed_grid_mass_le
 -- name    : OAI.Erdos3.VectorPolynomial.forecastInactive_sliced_fixed_grid_mass_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T22:39:11.065284+00:00
 -- url     : https://prove2.me/theorems/d2409c37-25d3-4a33-b54a-c2f87cc6ea68

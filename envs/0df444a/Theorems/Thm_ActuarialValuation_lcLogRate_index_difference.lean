@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcLogRate_index_difference
 -- name    : ActuarialValuation.lcLogRate_index_difference
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:30:27.30531+00:00
 -- url     : https://prove2.me/theorems/2decb4ea-c151-472b-b95e-b666d9eb148e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AzumaWeightedSums_StrongLaw_eq_4_15_maximal
 -- name    : AzumaWeightedSums.StrongLaw.eq_4_15_maximal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:06:32.469691+00:00
 -- url     : https://prove2.me/theorems/b1982cee-421e-4dcc-8e2e-8ee8badf9926

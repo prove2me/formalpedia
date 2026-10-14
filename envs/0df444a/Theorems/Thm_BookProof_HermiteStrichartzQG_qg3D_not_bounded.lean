@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteStrichartzQG_qg3D_not_bounded
 -- name    : BookProof.HermiteStrichartzQG.qg3D_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:01:50.852959+00:00
 -- url     : https://prove2.me/theorems/fb19cbf6-d631-48a6-b744-c2d97c3d960d

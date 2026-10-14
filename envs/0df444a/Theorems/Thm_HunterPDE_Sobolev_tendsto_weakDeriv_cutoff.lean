@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_tendsto_weakDeriv_cutoff
 -- name    : HunterPDE.Sobolev.tendsto_weakDeriv_cutoff
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T22:34:18.860639+00:00
 -- url     : https://prove2.me/theorems/bde41a5f-9c10-41e0-8bd2-b25dd806fff0

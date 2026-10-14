@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhTransition_absorb_two
 -- name    : ActuarialValuation.nhTransition_absorb_two
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:51.93536+00:00
 -- url     : https://prove2.me/theorems/7bc8eab9-360e-42cb-8435-88e4c15939ce

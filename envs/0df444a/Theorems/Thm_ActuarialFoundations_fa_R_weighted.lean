@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_R_weighted
 -- name    : ActuarialFoundations.fa_R_weighted
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T23:34:18.557956+00:00
 -- url     : https://prove2.me/theorems/63bf3e3f-9b04-4d8c-9528-bd2ce92bfcf3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_formalJet_polynomial_approximation
 -- name    : OAI.PiExponent.FormalInterpolation.finite_formalJet_polynomial_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:29:41.63768+00:00
 -- url     : https://prove2.me/theorems/b97b0872-ab33-4165-a625-75a778f23fe1

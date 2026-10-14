@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_CoagFrag_theorem_12
 -- name    : LambdaCoalescent.CoagFrag.theorem_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:27.10847+00:00
 -- url     : https://prove2.me/theorems/f4117037-c0f2-4493-9f07-3a804e034d48

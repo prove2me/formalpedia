@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_IntervalReduction_claim_3
 -- name    : SingleMachinePrec.IntervalReduction.claim_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:31:49.80098+00:00
 -- url     : https://prove2.me/theorems/a39872be-56c4-4c80-957e-be4c2b800f00

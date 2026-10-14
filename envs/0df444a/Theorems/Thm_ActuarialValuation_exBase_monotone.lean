@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exBase_monotone
 -- name    : ActuarialValuation.exBase_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:59.981064+00:00
 -- url     : https://prove2.me/theorems/07921339-7195-4491-8e11-9ff79da5cf11

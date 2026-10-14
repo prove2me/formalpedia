@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_strichartz_esa_of_finiteSpeed
 -- name    : BookProof.QuantumGravityDensitized.strichartz_esa_of_finiteSpeed
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:23:55.1077+00:00
 -- url     : https://prove2.me/theorems/b084dfab-5931-45f4-b8d9-9634abfef59f

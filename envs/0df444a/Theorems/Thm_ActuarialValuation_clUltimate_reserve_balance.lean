@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clUltimate_reserve_balance
 -- name    : ActuarialValuation.clUltimate_reserve_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:33.550162+00:00
 -- url     : https://prove2.me/theorems/2913e0ad-a917-4624-82e6-866221b8122f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctGenerator_diag
 -- name    : ActuarialValuation.ctGenerator_diag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:48:21.902709+00:00
 -- url     : https://prove2.me/theorems/46d0aec8-4a86-4f18-ab63-3de73ad3d1bb

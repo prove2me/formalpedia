@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utLossMoment_nonneg
 -- name    : ActuarialValuation.utLossMoment_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:34.442723+00:00
 -- url     : https://prove2.me/theorems/cf2c3faa-67f8-41ec-92a5-658150405b20

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhCauseBenefit_equal
 -- name    : ActuarialValuation.nhCauseBenefit_equal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:17:19.286617+00:00
 -- url     : https://prove2.me/theorems/6baf9c08-8360-4b3c-82df-5f70e2693185

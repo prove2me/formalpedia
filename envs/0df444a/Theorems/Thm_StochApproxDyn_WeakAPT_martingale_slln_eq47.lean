@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_WeakAPT_martingale_slln_eq47
 -- name    : StochApproxDyn.WeakAPT.martingale_slln_eq47
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:23:05.234279+00:00
 -- url     : https://prove2.me/theorems/24625982-308f-4b8f-8586-1933286abd3a

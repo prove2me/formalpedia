@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxBernAggregatePGF_compose
 -- name    : ActuarialValuation.cxBernAggregatePGF_compose
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:58:37.750906+00:00
 -- url     : https://prove2.me/theorems/6449d64f-5f3c-44b8-b0fa-c1272deadcf7

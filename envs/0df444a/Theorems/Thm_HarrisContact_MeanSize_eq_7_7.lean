@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisContact_MeanSize_eq_7_7
 -- name    : HarrisContact.MeanSize.eq_7_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:26:50.740681+00:00
 -- url     : https://prove2.me/theorems/e31c7b17-069b-4196-a7a0-bdeff9c097a6

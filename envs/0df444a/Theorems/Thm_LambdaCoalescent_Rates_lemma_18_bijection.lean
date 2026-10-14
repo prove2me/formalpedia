@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_Rates_lemma_18_bijection
 -- name    : LambdaCoalescent.Rates.lemma_18_bijection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:38:02.709012+00:00
 -- url     : https://prove2.me/theorems/924d5403-2dbb-4f2a-8bb0-761b8026b993

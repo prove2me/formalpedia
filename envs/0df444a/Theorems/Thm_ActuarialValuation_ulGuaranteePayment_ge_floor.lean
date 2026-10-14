@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulGuaranteePayment_ge_floor
 -- name    : ActuarialValuation.ulGuaranteePayment_ge_floor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:52.140563+00:00
 -- url     : https://prove2.me/theorems/bd0bd5fd-0fe6-4f3b-ab1a-3752aa6a9d7f

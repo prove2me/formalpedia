@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_OralAlgorithm_record_of_nonfaulty
 -- name    : InteractiveConsistency.OralAlgorithm.record_of_nonfaulty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:36:20.713778+00:00
 -- url     : https://prove2.me/theorems/79cd7f29-153a-42e4-add6-1ba5e7790322

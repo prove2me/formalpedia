@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crDebtPayoff_default
 -- name    : ActuarialValuation.crDebtPayoff_default
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:58.042873+00:00
 -- url     : https://prove2.me/theorems/5c852551-b49b-414f-a3ca-3d0d72c8355d

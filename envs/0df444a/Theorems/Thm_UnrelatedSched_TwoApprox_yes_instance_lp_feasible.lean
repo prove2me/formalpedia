@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoApprox_yes_instance_lp_feasible
 -- name    : UnrelatedSched.TwoApprox.yes_instance_lp_feasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:17:10.07398+00:00
 -- url     : https://prove2.me/theorems/1bde3fd7-d9f2-4dbb-b30e-7bd5438e5385

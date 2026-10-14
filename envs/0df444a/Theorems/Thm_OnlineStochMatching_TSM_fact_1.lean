@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_TSM_fact_1
 -- name    : OnlineStochMatching.TSM.fact_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:35:20.424595+00:00
 -- url     : https://prove2.me/theorems/485abf0f-9f7b-4c4b-b754-113594f54e3c

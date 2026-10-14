@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Dictatorship_lemma_5
 -- name    : StrategyProofArrow.Dictatorship.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:16.320859+00:00
 -- url     : https://prove2.me/theorems/8dcf7e60-d284-489d-8cd8-75a89b4f9c91

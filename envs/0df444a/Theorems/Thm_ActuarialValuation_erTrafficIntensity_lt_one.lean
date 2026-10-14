@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erTrafficIntensity_lt_one
 -- name    : ActuarialValuation.erTrafficIntensity_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:53:54.944988+00:00
 -- url     : https://prove2.me/theorems/3c8a7464-64e0-4986-bd5c-32d9ad5848a3

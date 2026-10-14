@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Complexification_Cx_cxConj_comm_cxMap
 -- name    : BookProof.Complexification.Cx.cxConj_comm_cxMap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:39:23.670988+00:00
 -- url     : https://prove2.me/theorems/027b91ee-e0ea-4a1d-bd22-5a38645fe2bb

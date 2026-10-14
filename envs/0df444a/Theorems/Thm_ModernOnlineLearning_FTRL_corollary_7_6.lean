@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_FTRL_corollary_7_6
 -- name    : ModernOnlineLearning.FTRL.corollary_7_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:37:08.211095+00:00
 -- url     : https://prove2.me/theorems/506a762d-28df-4126-8d82-cbd1cdde8335

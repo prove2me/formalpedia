@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9UnitNormalCost_difference
 -- name    : ActuarialValuation.pen9UnitNormalCost_difference
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:18.983996+00:00
 -- url     : https://prove2.me/theorems/d9733afc-fcbc-4486-8fd6-6329169092fb

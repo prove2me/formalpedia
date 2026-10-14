@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctRiskRate_pos
 -- name    : ActuarialValuation.ctRiskRate_pos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:18.910978+00:00
 -- url     : https://prove2.me/theorems/8af9991e-43f3-46ca-9a1a-67ab83e2cdbd

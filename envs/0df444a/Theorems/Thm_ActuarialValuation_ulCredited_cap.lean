@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulCredited_cap
 -- name    : ActuarialValuation.ulCredited_cap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:18.818148+00:00
 -- url     : https://prove2.me/theorems/259fe4c0-647d-4875-818d-c428ee6706d3

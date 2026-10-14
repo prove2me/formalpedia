@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_smFermiN_symmetricOn
 -- name    : BookProof.SmDiracYukawa.smFermiN_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:52:47.350895+00:00
 -- url     : https://prove2.me/theorems/3ce9daa6-d901-4112-b8e9-d1523d129a7f

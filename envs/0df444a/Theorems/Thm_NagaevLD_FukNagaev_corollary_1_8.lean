@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_FukNagaev_corollary_1_8
 -- name    : NagaevLD.FukNagaev.corollary_1_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:33:43.355631+00:00
 -- url     : https://prove2.me/theorems/66398bd3-e97f-4b0c-bfba-888862054da2

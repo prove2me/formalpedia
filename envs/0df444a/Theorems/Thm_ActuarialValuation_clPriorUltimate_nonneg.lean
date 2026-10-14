@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clPriorUltimate_nonneg
 -- name    : ActuarialValuation.clPriorUltimate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:44.178838+00:00
 -- url     : https://prove2.me/theorems/e2dd12ea-dd65-4772-a283-8991722fb487

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdZeroPrice_nonneg
 -- name    : ActuarialValuation.bdZeroPrice_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:35.900518+00:00
 -- url     : https://prove2.me/theorems/d62ab649-b6c3-4054-8880-ac3aafcdcfbf

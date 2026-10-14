@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerConvolution_add_left
 -- name    : ActuarialValuation.panjerConvolution_add_left
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:49.533489+00:00
 -- url     : https://prove2.me/theorems/b19e9395-e2cd-411f-af0b-f8810847937e

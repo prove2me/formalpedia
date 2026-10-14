@@ -8,8 +8,12 @@
 --   RPB108 odd exact retained-energy enclosure data
 -- statement:
 --   Defines the retained native-matrix off-diagonal bounds, published margins and diagonal lower entries after column scaling. All data are exact. Original matrices satisfying these intervals are supplied separately; no realization attachment is proved by these definitions.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27RetainedEnergy.lean#L106-L109; source SHA256 4a41ee4590c3cb7fb2d0ee15498dbafc45b1c6256b633b0d0bdb527587dd145b. Native definitions preserved verbatim by compiler-derived skeleton subtraction.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

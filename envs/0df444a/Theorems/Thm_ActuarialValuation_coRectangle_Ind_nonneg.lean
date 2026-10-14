@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coRectangle_Ind_nonneg
 -- name    : ActuarialValuation.coRectangle_Ind_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:32.491984+00:00
 -- url     : https://prove2.me/theorems/3c09107d-c189-4bb2-afea-911c9a1ffe12

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumPerturbation_pertHam_symmetricOn
 -- name    : BookProof.NavierStokesFlow.MomentumPerturbation.pertHam_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:45:20.101587+00:00
 -- url     : https://prove2.me/theorems/5dfced01-bb45-4697-b13c-7598f4a60166

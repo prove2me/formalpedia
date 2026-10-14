@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRuinCapital_monotone
 -- name    : ActuarialValuation.ruRuinCapital_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:34.20898+00:00
 -- url     : https://prove2.me/theorems/3076426a-f507-4a4c-8f4c-d9323320cdd1

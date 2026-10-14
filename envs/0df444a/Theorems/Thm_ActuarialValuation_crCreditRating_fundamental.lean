@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crCreditRating_fundamental
 -- name    : ActuarialValuation.crCreditRating_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:13:14.305271+00:00
 -- url     : https://prove2.me/theorems/32a406b5-4431-4840-a0a1-688d6264c364

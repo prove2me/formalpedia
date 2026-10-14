@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_TwoPeriod_autarky
 -- name    : Timetabling85.TwoPeriod.autarky
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:08.027781+00:00
 -- url     : https://prove2.me/theorems/1c4d09be-5432-4991-b5e7-cc2e0ec30202

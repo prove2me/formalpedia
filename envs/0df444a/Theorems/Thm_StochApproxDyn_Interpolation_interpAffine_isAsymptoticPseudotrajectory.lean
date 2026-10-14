@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Interpolation_interpAffine_isAsymptoticPseudotrajectory
 -- name    : StochApproxDyn.Interpolation.interpAffine_isAsymptoticPseudotrajectory
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:10:21.812409+00:00
 -- url     : https://prove2.me/theorems/5575f7f5-6858-4b4f-81ab-f23d0341e81e

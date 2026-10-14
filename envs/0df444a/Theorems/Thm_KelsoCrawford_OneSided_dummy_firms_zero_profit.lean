@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_OneSided_dummy_firms_zero_profit
 -- name    : KelsoCrawford.OneSided.dummy_firms_zero_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:38.473632+00:00
 -- url     : https://prove2.me/theorems/97fa1876-cde9-4712-b762-f4cdc4285bc8

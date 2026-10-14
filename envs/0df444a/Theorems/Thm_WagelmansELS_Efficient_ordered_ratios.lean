@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_Efficient_ordered_ratios
 -- name    : WagelmansELS.Efficient.ordered_ratios
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:59:52.054707+00:00
 -- url     : https://prove2.me/theorems/8fb5afde-3772-4606-8589-9df331f25e1c

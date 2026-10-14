@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_concave_sandwich
 -- name    : SendSplit.Existence.concave_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:12:50.130029+00:00
 -- url     : https://prove2.me/theorems/5547a088-380b-4518-8702-4fb78824dfa6

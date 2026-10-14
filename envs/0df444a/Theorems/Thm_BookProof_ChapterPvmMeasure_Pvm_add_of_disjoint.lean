@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPvmMeasure_Pvm_add_of_disjoint
 -- name    : BookProof.ChapterPvmMeasure.Pvm.add_of_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:57:58.144+00:00
 -- url     : https://prove2.me/theorems/6dd82ee9-303f-40fb-9215-727dd90928eb

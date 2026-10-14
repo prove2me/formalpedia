@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_VariableCost_theorem_8_1
 -- name    : SingleMachinePrec.VariableCost.theorem_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:31:06.517792+00:00
 -- url     : https://prove2.me/theorems/d37c99cb-a774-4a5c-8585-32df4e839122

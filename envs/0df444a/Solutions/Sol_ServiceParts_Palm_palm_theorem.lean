@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ServiceParts.Palm.palm_theorem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-10T15:54:04.038009+00:00
 -- url     : https://prove2.me/submissions/4bb3db6a-8d61-4f81-b101-36041a29cdf5
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ServiceParts_Palm_ResupplySystem

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_UDPmin_uniform_pricing_log_ratio_bound
 -- name    : RevenueOrdered.UDPmin.uniform_pricing_log_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:56:43.658955+00:00
 -- url     : https://prove2.me/theorems/8a8408c9-940e-4673-b316-b2aa1b9dee1e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_forecastLawDensityPhysicalApproximation
 -- name    : OAI.Erdos3.VectorPolynomial.forecastLawDensityPhysicalApproximation
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T05:49:58.287176+00:00
 -- url     : https://prove2.me/theorems/471610e8-e534-496f-ac83-aaa7ea09891b

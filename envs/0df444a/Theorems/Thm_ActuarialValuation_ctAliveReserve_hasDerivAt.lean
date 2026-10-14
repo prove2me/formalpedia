@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAliveReserve_hasDerivAt
 -- name    : ActuarialValuation.ctAliveReserve_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:58:52.050086+00:00
 -- url     : https://prove2.me/theorems/38c1dfda-3fad-480c-80e2-3210c10f67f3

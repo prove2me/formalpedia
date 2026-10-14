@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9Service_salary_decomposition
 -- name    : ActuarialValuation.pen9Service_salary_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:34.31947+00:00
 -- url     : https://prove2.me/theorems/b2133c97-c364-4a8a-8cd7-703fbde98bf7

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ScalaronFock.fockSmoothPotential_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:18:12.311837+00:00
 -- url     : https://prove2.me/submissions/7b5469a9-d7d6-4846-b47d-617d3710d784
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterScalaronFockEsa.lean — solution of BookProof.ScalaronFock.fockSmoothPotential_esa
 import Mathlib

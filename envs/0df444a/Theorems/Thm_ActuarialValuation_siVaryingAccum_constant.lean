@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siVaryingAccum_constant
 -- name    : ActuarialValuation.siVaryingAccum_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:19.029981+00:00
 -- url     : https://prove2.me/theorems/ca960a10-966b-4e9f-8224-9d1d8ec4960e

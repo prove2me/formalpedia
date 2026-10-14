@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulNonUnitProfit_balance
 -- name    : ActuarialValuation.ulNonUnitProfit_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:29.452005+00:00
 -- url     : https://prove2.me/theorems/15ae9697-a295-40ba-8b6a-fe9075a9e883

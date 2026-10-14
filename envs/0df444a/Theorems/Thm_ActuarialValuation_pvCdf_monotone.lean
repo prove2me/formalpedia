@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvCdf_monotone
 -- name    : ActuarialValuation.pvCdf_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:54.505976+00:00
 -- url     : https://prove2.me/theorems/0c008698-943b-407a-8886-457ce5643161

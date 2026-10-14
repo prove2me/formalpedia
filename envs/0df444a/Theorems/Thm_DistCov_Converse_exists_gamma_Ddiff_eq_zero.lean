@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Converse_exists_gamma_Ddiff_eq_zero
 -- name    : DistCov.Converse.exists_gamma_Ddiff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:24.199027+00:00
 -- url     : https://prove2.me/theorems/ef959458-ba21-4ba6-96ca-b9da485f83e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csCauseInsurancePV_add
 -- name    : ActuarialValuation.csCauseInsurancePV_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:52.976016+00:00
 -- url     : https://prove2.me/theorems/5972d955-6f24-49f0-9260-24df599a9498

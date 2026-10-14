@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfEntryLiability_zero_payroll
 -- name    : ActuarialValuation.pfEntryLiability_zero_payroll
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:00:10.473974+00:00
 -- url     : https://prove2.me/theorems/fa04652f-c7ce-4b7e-8f44-3473e764b772

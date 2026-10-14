@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoApprox_pseudoforest_job_matching
 -- name    : UnrelatedSched.TwoApprox.pseudoforest_job_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:16:59.127687+00:00
 -- url     : https://prove2.me/theorems/99b1c202-28b6-4a0c-8061-d4fab1b368f7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsitsiklisGittins_IndexTheorem_reduction_step_values
 -- name    : TsitsiklisGittins.IndexTheorem.reduction_step_values
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:03.948788+00:00
 -- url     : https://prove2.me/theorems/abdc9c5b-4dc7-48db-a19b-bbf3aa3e7d7b

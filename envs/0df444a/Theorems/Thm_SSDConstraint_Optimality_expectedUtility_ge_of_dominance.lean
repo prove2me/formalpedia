@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSDConstraint_Optimality_expectedUtility_ge_of_dominance
 -- name    : SSDConstraint.Optimality.expectedUtility_ge_of_dominance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:09:11.728034+00:00
 -- url     : https://prove2.me/theorems/ec24e124-924a-440b-8742-23bd9a5e85de

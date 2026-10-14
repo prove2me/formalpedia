@@ -12,8 +12,12 @@
 --   $$\sum_i m(d,u)_i x_i^2\le R_A(x).$$
 --
 --   All six directed off-diagonal entries are controlled. Strict positivity of the margins is not required for this lower bound.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/ThreeGram.lean#L23-L48; exact native theorem WeilDefect.RPB108.real_gram_lower. SHA256 a442815ca3343f4cfad3b84e0834871dd329630111b0d35a9d569431a00eb5d8. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoysterInexactLP_Auxiliary_le_Abar_of_mem_M
 -- name    : SoysterInexactLP.Auxiliary.le_Abar_of_mem_M
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:37:26.479885+00:00
 -- url     : https://prove2.me/theorems/e0d1eb42-cd62-4cdc-99be-3ef732c3f450

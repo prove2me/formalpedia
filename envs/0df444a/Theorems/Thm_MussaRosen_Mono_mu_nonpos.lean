@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_mu_nonpos
 -- name    : MussaRosen.Mono.mu_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:14:48.740073+00:00
 -- url     : https://prove2.me/theorems/fcf87400-393b-42a1-b9fd-fd42e4e5a1c2

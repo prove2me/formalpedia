@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svConditional_zero
 -- name    : ActuarialValuation.svConditional_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:56.351567+00:00
 -- url     : https://prove2.me/theorems/0d6b4f52-7e92-46e7-851d-249182326045

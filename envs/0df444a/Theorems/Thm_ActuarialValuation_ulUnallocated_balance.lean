@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulUnallocated_balance
 -- name    : ActuarialValuation.ulUnallocated_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:02:59.506471+00:00
 -- url     : https://prove2.me/theorems/947b0313-d399-44da-a8c0-5017308a1a54

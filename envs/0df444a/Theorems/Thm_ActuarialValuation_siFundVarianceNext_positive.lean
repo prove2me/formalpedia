@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFundVarianceNext_positive
 -- name    : ActuarialValuation.siFundVarianceNext_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:52.97557+00:00
 -- url     : https://prove2.me/theorems/09706ee0-0377-44be-bc44-72438e15666c

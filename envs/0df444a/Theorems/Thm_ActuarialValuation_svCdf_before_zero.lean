@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svCdf_before_zero
 -- name    : ActuarialValuation.svCdf_before_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:32.338224+00:00
 -- url     : https://prove2.me/theorems/20cfa436-3fe1-487c-9188-ced38890ef35

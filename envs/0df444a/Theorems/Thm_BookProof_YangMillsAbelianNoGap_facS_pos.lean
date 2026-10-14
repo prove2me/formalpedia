@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_facS_pos
 -- name    : BookProof.YangMillsAbelianNoGap.facS_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:35:36.132583+00:00
 -- url     : https://prove2.me/theorems/445a1654-4fce-4099-9866-9ddbc3b9a3ff

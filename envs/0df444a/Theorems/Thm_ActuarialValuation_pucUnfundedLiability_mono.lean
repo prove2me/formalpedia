@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucUnfundedLiability_mono
 -- name    : ActuarialValuation.pucUnfundedLiability_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:09:16.957985+00:00
 -- url     : https://prove2.me/theorems/b540d924-0889-441b-90ff-20d9c18b7462

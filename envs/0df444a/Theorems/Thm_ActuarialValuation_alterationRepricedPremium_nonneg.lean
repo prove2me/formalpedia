@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationRepricedPremium_nonneg
 -- name    : ActuarialValuation.alterationRepricedPremium_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:12:19.233904+00:00
 -- url     : https://prove2.me/theorems/fded91d5-91a2-4bb5-8cd1-020d3317c3be

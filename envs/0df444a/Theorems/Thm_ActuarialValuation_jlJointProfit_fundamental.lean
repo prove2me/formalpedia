@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlJointProfit_fundamental
 -- name    : ActuarialValuation.jlJointProfit_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:12:07.379624+00:00
 -- url     : https://prove2.me/theorems/2ab7bc44-48b4-44c5-b8a1-49eba412bcf4

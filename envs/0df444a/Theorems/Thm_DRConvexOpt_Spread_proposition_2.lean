@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_Spread_proposition_2
 -- name    : DRConvexOpt.Spread.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:39:38.74969+00:00
 -- url     : https://prove2.me/theorems/c9f55aea-870f-4a03-a543-b41c46eed15a

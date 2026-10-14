@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AlternatingNS_alternating
 -- name    : OAI.AlternatingNS.alternating
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:20.910487+00:00
 -- url     : https://prove2.me/theorems/804471fd-16fd-4be3-bd33-c5c557c4db71

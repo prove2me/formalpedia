@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamareSaouter2003_prime_interval_nat_ladder_c01841
 -- name    : RamareSaouter2003.prime_interval_nat_ladder_c01841
--- status  : Open
+-- status  : Proved
 -- author  : @Nickrobbins95
 -- created : 2026-10-11T11:05:13.173145+00:00
 -- url     : https://prove2.me/theorems/da5a9608-1c43-455b-adda-ab1ccb2427d6

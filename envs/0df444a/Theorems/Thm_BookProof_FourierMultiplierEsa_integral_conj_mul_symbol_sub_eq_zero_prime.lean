@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_integral_conj_mul_symbol_sub_eq_zero_prime
 -- name    : BookProof.FourierMultiplierEsa.integral_conj_mul_symbol_sub_eq_zero_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:22:26.414865+00:00
 -- url     : https://prove2.me/theorems/9a37a0d2-b573-42aa-bd6b-6d10cca79308

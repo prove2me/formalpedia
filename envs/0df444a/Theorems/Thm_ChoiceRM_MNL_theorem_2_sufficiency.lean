@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_MNL_theorem_2_sufficiency
 -- name    : ChoiceRM.MNL.theorem_2_sufficiency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:47:58.485905+00:00
 -- url     : https://prove2.me/theorems/433d6b06-02ed-4d4b-a6e0-464f18b0869b

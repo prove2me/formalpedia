@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFundSecondNext_expand
 -- name    : ActuarialValuation.siFundSecondNext_expand
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:08.302295+00:00
 -- url     : https://prove2.me/theorems/bd8a5540-8e19-41ac-aac8-ab950bf22e80

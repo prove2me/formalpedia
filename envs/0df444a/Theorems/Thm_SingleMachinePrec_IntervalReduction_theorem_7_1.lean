@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_IntervalReduction_theorem_7_1
 -- name    : SingleMachinePrec.IntervalReduction.theorem_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:32:18.888813+00:00
 -- url     : https://prove2.me/theorems/cdff96cf-40a5-43ec-894c-5c189c8edfe3

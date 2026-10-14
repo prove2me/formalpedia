@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crCreditLossPV_zero
 -- name    : ActuarialValuation.crCreditLossPV_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:12.584348+00:00
 -- url     : https://prove2.me/theorems/7e222499-f3d8-4218-bb99-132284cc6116

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmGreenwoodVariance_zero_survival
 -- name    : ActuarialValuation.kmGreenwoodVariance_zero_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:51:10.549965+00:00
 -- url     : https://prove2.me/theorems/16509a0c-4ab1-485b-962e-058ac2727743

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_DualAscent_prop_3_6_objective_change
 -- name    : CompOT.DualAscent.prop_3_6_objective_change
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:32:39.359461+00:00
 -- url     : https://prove2.me/theorems/5c1e3cf8-e129-4014-9256-d009018c1760

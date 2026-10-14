@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhIntensity_affine
 -- name    : ActuarialValuation.nhIntensity_affine
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:13.375271+00:00
 -- url     : https://prove2.me/theorems/dcd04893-802d-441b-af32-6bfb4f1cd87d

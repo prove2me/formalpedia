@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srNetLoss_succ
 -- name    : ActuarialValuation.srNetLoss_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:21.092137+00:00
 -- url     : https://prove2.me/theorems/cdbbc355-dfdd-4c27-bf53-9d0d4a91afa0

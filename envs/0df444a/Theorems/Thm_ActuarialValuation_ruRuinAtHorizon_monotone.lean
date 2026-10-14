@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRuinAtHorizon_monotone
 -- name    : ActuarialValuation.ruRuinAtHorizon_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:15.964465+00:00
 -- url     : https://prove2.me/theorems/f8536de1-e9fe-4b17-aa5e-c6c328d6b081

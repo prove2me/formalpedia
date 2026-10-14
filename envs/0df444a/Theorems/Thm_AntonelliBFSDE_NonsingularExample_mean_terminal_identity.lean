@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_NonsingularExample_mean_terminal_identity
 -- name    : AntonelliBFSDE.NonsingularExample.mean_terminal_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:01:00.746661+00:00
 -- url     : https://prove2.me/theorems/0e9273dd-38fb-4b45-a32d-facf4991ade4

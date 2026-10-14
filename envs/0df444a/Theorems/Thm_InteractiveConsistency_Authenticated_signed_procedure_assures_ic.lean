@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_Authenticated_signed_procedure_assures_ic
 -- name    : InteractiveConsistency.Authenticated.signed_procedure_assures_ic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:40:22.478888+00:00
 -- url     : https://prove2.me/theorems/ae344342-0625-4e08-9473-922039f4ae2b

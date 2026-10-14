@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointSurvival_zero
 -- name    : ActuarialValuation.csJointSurvival_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:53.000776+00:00
 -- url     : https://prove2.me/theorems/75ee43f0-13a4-4114-8225-8127ea5dcd1f

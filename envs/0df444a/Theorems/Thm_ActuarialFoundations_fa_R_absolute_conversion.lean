@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_R_absolute_conversion
 -- name    : ActuarialFoundations.fa_R_absolute_conversion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T23:34:46.958312+00:00
 -- url     : https://prove2.me/theorems/64bdbf20-a946-4758-b16f-841522f931a2

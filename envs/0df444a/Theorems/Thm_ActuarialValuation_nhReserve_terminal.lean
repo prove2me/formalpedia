@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhReserve_terminal
 -- name    : ActuarialValuation.nhReserve_terminal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:22:04.505251+00:00
 -- url     : https://prove2.me/theorems/0d6450c0-048f-4e54-9f58-e9b13a02b1b7

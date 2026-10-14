@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_ClassTeacher_prop_2_2
 -- name    : Timetabling85.ClassTeacher.prop_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:59.194994+00:00
 -- url     : https://prove2.me/theorems/555343bd-4785-427d-938d-5348bd8e2b45

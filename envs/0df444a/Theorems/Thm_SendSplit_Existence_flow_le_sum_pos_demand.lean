@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_flow_le_sum_pos_demand
 -- name    : SendSplit.Existence.flow_le_sum_pos_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:24:27.93372+00:00
 -- url     : https://prove2.me/theorems/77449f42-d29c-475f-b410-373f66192f0d

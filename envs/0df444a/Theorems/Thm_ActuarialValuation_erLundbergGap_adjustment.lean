@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erLundbergGap_adjustment
 -- name    : ActuarialValuation.erLundbergGap_adjustment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:06.133532+00:00
 -- url     : https://prove2.me/theorems/fbb112ee-3b69-4dc1-bb86-29de649f87b9

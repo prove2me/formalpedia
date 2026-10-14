@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_AnalyticSelection_analytic_universallyMeasurable
 -- name    : BertsekasShreve.AnalyticSelection.analytic_universallyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T00:50:44.801981+00:00
 -- url     : https://prove2.me/theorems/1f43e1d4-cf00-45f7-a9c8-87e0c2059555

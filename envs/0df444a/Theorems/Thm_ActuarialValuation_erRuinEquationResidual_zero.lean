@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRuinEquationResidual_zero
 -- name    : ActuarialValuation.erRuinEquationResidual_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T16:03:04.59562+00:00
 -- url     : https://prove2.me/theorems/64ae1d4c-cf37-46bc-a375-70bb93937cf9

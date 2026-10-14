@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipfPMF_sum_eq_one
 -- name    : ZipfLaw.zipfPMF_sum_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:28.345312+00:00
 -- url     : https://prove2.me/theorems/9f1f191e-020e-45cb-9765-0221bed168dd

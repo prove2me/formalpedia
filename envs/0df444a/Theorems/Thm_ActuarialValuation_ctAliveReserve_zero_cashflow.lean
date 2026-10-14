@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAliveReserve_zero_cashflow
 -- name    : ActuarialValuation.ctAliveReserve_zero_cashflow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:58:35.970996+00:00
 -- url     : https://prove2.me/theorems/6a7a03ea-02f7-46d3-8c4a-054cc4b86ba0

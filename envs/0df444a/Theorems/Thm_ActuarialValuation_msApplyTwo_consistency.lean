@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msApplyTwo_consistency
 -- name    : ActuarialValuation.msApplyTwo_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:56:32.397981+00:00
 -- url     : https://prove2.me/theorems/dc2fd50f-369c-4f1f-b315-a2e5d3c0c0fb

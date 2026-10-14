@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoritaEquiv_thm52_categorical
 -- name    : MoritaEquiv.thm52_categorical
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:00:39.469333+00:00
 -- url     : https://prove2.me/theorems/51475789-bd45-4284-8875-d99cb5fe9a54

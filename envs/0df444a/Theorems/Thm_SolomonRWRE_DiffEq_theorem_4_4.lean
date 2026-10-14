@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SolomonRWRE_DiffEq_theorem_4_4
 -- name    : SolomonRWRE.DiffEq.theorem_4_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:58.3469+00:00
 -- url     : https://prove2.me/theorems/9a10e694-36c5-4ceb-ac93-f2b6aa323de9

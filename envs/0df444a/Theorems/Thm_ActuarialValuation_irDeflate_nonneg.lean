@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irDeflate_nonneg
 -- name    : ActuarialValuation.irDeflate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:02:13.308328+00:00
 -- url     : https://prove2.me/theorems/9cc3d4dd-2909-48cd-9404-8462c5514f97

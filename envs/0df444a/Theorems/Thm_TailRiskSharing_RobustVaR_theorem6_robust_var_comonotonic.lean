@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TailRiskSharing_RobustVaR_theorem6_robust_var_comonotonic
 -- name    : TailRiskSharing.RobustVaR.theorem6_robust_var_comonotonic
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-09T21:02:55.494719+00:00
 -- url     : https://prove2.me/theorems/834542f4-b99e-426c-9a96-0d6a1e818d86

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_MonoidalStrengthening_monoidal_strengthening_validity_v2
 -- name    : Disjunctive.MonoidalStrengthening.monoidal_strengthening_validity_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:37.44099+00:00
 -- url     : https://prove2.me/theorems/2fe329c6-abfc-4d07-b53f-159f8e7c85d3

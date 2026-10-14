@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_einsteinMaxwell
 -- name    : NoHair.kerrNewman_einsteinMaxwell
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-04T21:36:32.803051+00:00
 -- url     : https://prove2.me/theorems/35932774-6f3d-4986-915d-e2e8baec247a

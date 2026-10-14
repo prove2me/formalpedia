@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_IndivRegret_corollary_12
 -- name    : RegLearnGames.IndivRegret.corollary_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:37:36.269627+00:00
 -- url     : https://prove2.me/theorems/c636c263-d121-413d-bf11-1d23ebba7448

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_signedOp_symmetricOn
 -- name    : BookProof.QuantumGravity3DGauge.signedOp_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:57:38.490678+00:00
 -- url     : https://prove2.me/theorems/fe45d9aa-618a-44f4-b9d3-ca102434b4cc

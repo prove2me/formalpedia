@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PHLowerBound_TwoStage_price_invariant
 -- name    : PHLowerBound.TwoStage.price_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:23.769113+00:00
 -- url     : https://prove2.me/theorems/0053c599-839b-4eaa-a66a-ddfa99916236

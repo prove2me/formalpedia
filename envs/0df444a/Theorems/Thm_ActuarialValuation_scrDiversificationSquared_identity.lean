@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrDiversificationSquared_identity
 -- name    : ActuarialValuation.scrDiversificationSquared_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:15.106996+00:00
 -- url     : https://prove2.me/theorems/a9b4c7d2-05f6-4746-b7af-b42bf4ce567d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipCDF_successor
 -- name    : ActuarialValuation.ipCDF_successor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:17:55.265984+00:00
 -- url     : https://prove2.me/theorems/f42e10df-56e6-44ae-bbcf-34f003fbaf2c

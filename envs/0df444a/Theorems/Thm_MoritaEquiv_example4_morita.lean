@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoritaEquiv_example4_morita
 -- name    : MoritaEquiv.example4_morita
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T12:59:58.256686+00:00
 -- url     : https://prove2.me/theorems/112a351f-fe4a-401f-a4b1-8b1da1c634d8

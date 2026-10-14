@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoysterInexactLP_Auxiliary_feasibleI_iff_forall_choice
 -- name    : SoysterInexactLP.Auxiliary.feasibleI_iff_forall_choice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:37:07.628585+00:00
 -- url     : https://prove2.me/theorems/af88a43c-e34c-41cc-8ec7-d6ada8bd9490

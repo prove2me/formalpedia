@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GagieRIndex_Kmers_sampled_character
 -- name    : GagieRIndex.Kmers.sampled_character
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:23:59.638212+00:00
 -- url     : https://prove2.me/theorems/a1d8af5f-1d36-4035-b79e-3c42c10fcf8d

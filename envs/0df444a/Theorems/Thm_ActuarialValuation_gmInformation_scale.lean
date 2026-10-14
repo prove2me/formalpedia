@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmInformation_scale
 -- name    : ActuarialValuation.gmInformation_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:06.984402+00:00
 -- url     : https://prove2.me/theorems/f36e3e7d-bf11-4390-a29d-5c93f47faf8e

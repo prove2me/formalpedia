@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_CoagFrag_epf_identity
 -- name    : LambdaCoalescent.CoagFrag.epf_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:20:56.150994+00:00
 -- url     : https://prove2.me/theorems/b5d55e36-1504-4545-8c19-e88d1d20d4ab

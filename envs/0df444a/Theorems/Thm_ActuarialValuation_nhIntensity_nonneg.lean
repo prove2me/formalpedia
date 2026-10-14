@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhIntensity_nonneg
 -- name    : ActuarialValuation.nhIntensity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:28.647008+00:00
 -- url     : https://prove2.me/theorems/da7dd141-0db2-4319-a9eb-de67dd335a9e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdConvexity_nonneg
 -- name    : ActuarialValuation.bdConvexity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:10.173991+00:00
 -- url     : https://prove2.me/theorems/b918166f-179d-47f6-bcb6-3173441a7da8

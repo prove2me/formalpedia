@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAssetsNext_investment_add
 -- name    : ActuarialValuation.pfAssetsNext_investment_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:44.779815+00:00
 -- url     : https://prove2.me/theorems/b42901ed-7148-4742-b54f-40ed3b58572e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_momTPoly_eq_smul
 -- name    : BookProof.ShiftedQuadratic.momTPoly_eq_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:43:34.534287+00:00
 -- url     : https://prove2.me/theorems/409f4b46-c3ab-4de8-8a4a-8a03628953ff

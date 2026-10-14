@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulClosingUnits_nonneg
 -- name    : ActuarialValuation.ulClosingUnits_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:30.3748+00:00
 -- url     : https://prove2.me/theorems/a663c761-92a2-4e7c-b25b-6ddffd54aa1e

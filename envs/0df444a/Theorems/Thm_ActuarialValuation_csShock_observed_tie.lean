@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csShock_observed_tie
 -- name    : ActuarialValuation.csShock_observed_tie
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:44.766996+00:00
 -- url     : https://prove2.me/theorems/2f53ae13-cff8-4b52-b063-bca17d6c7caa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MaxLatticeFree_Geometry_maxLambdaFree_in_W_iff
 -- name    : MaxLatticeFree.Geometry.maxLambdaFree_in_W_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T18:23:01.858994+00:00
 -- url     : https://prove2.me/theorems/30501371-1d31-4527-ab62-c969477d7128

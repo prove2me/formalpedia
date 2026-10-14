@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_eLpNorm_weakDeriv_sub_normed_convolution
 -- name    : HunterPDE.Sobolev.eLpNorm_weakDeriv_sub_normed_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T22:37:36.388166+00:00
 -- url     : https://prove2.me/theorems/ce156632-17b8-4a9d-bf7f-be69fa0ef265

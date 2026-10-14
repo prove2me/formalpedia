@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_WeakApprox_isEpsApproxNash_iff_pure
 -- name    : FixpNash.WeakApprox.isEpsApproxNash_iff_pure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:43:32.706719+00:00
 -- url     : https://prove2.me/theorems/d4de883c-690f-47a9-933a-33755be530f9

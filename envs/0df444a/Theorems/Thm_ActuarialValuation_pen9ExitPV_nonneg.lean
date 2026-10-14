@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9ExitPV_nonneg
 -- name    : ActuarialValuation.pen9ExitPV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:18.514983+00:00
 -- url     : https://prove2.me/theorems/08673ff1-bdb8-45b8-adca-d041badcea93

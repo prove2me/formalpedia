@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_firstVariation_nonpos
 -- name    : MussaRosen.Mono.firstVariation_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:14:40.916733+00:00
 -- url     : https://prove2.me/theorems/9de2c086-9620-4e9c-90ae-a143cf1fdc05

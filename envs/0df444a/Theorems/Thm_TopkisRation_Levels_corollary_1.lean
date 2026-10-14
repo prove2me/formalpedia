@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Levels_corollary_1
 -- name    : TopkisRation.Levels.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:43.864976+00:00
 -- url     : https://prove2.me/theorems/efe4759e-b177-4594-b876-595c00dbc809

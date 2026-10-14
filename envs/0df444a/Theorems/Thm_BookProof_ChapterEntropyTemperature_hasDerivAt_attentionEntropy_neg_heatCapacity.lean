@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropyTemperature_hasDerivAt_attentionEntropy_neg_heatCapacity
 -- name    : BookProof.ChapterEntropyTemperature.hasDerivAt_attentionEntropy_neg_heatCapacity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:49:26.272311+00:00
 -- url     : https://prove2.me/theorems/5292d695-2268-4747-be4e-74febef1ea27

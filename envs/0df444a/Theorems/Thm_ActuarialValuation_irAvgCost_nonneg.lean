@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irAvgCost_nonneg
 -- name    : ActuarialValuation.irAvgCost_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:32.288948+00:00
 -- url     : https://prove2.me/theorems/4f40b028-432e-4bd5-a9e0-584c79c43831

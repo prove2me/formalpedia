@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exCdf_le_one
 -- name    : ActuarialValuation.exCdf_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:51.323405+00:00
 -- url     : https://prove2.me/theorems/4c67f915-52b0-48e6-8c94-d9480a751430

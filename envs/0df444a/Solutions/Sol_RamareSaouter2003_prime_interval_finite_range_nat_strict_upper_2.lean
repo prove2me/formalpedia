@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for RamareSaouter2003.prime_interval_finite_range_nat_strict_upper
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-09-25T14:04:18.645749+00:00
 -- url     : https://prove2.me/submissions/58aceacc-6264-463a-bab2-d5bbe3a751e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_RamareSaouter2003_prime_interval_finite_range
 import Mathlib.Data.Real.Basic

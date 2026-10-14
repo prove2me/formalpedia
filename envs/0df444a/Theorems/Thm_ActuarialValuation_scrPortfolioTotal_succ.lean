@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPortfolioTotal_succ
 -- name    : ActuarialValuation.scrPortfolioTotal_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:19.026143+00:00
 -- url     : https://prove2.me/theorems/8a4836b6-bddd-4eb3-bba2-69e657111199

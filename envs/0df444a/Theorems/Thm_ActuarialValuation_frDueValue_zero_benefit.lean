@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frDueValue_zero_benefit
 -- name    : ActuarialValuation.frDueValue_zero_benefit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:06.062194+00:00
 -- url     : https://prove2.me/theorems/b5c25cfb-5af1-4522-998a-a3e276fd1451

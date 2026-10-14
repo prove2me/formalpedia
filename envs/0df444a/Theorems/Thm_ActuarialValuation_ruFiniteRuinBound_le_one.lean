@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruFiniteRuinBound_le_one
 -- name    : ActuarialValuation.ruFiniteRuinBound_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:40.503337+00:00
 -- url     : https://prove2.me/theorems/73ee83b0-7203-4411-8b76-27e8c6167bb0

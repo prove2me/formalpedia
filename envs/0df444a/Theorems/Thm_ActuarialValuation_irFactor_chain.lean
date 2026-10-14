@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irFactor_chain
 -- name    : ActuarialValuation.irFactor_chain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:02.735+00:00
 -- url     : https://prove2.me/theorems/6639b7eb-7835-44f8-b418-07ef8b729c55

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLoss_shift
 -- name    : ActuarialValuation.crStopLoss_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:14.626174+00:00
 -- url     : https://prove2.me/theorems/b3aa7019-d4bb-44b0-9209-2779a109f0b7

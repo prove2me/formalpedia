@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_FixedMachines_relaxed_procedure
 -- name    : UnrelatedSched.FixedMachines.relaxed_procedure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:28.007323+00:00
 -- url     : https://prove2.me/theorems/ed629cca-9398-4ac4-a1bd-f648af91f041

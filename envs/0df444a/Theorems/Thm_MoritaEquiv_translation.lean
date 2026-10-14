@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoritaEquiv_translation
 -- name    : MoritaEquiv.translation
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T12:59:41.272765+00:00
 -- url     : https://prove2.me/theorems/936ea020-8ce9-41e1-a85d-a8994f3b708d

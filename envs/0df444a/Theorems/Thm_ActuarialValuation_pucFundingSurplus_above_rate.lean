@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucFundingSurplus_above_rate
 -- name    : ActuarialValuation.pucFundingSurplus_above_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:16.597078+00:00
 -- url     : https://prove2.me/theorems/cf30c7bd-b7d2-4bdd-bff1-112677ee3214

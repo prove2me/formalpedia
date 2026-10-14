@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exConditionalSurvival_nonneg
 -- name    : ActuarialValuation.exConditionalSurvival_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:32.619578+00:00
 -- url     : https://prove2.me/theorems/3310e8f7-6788-4f5c-86c5-87c58b3dcc34

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erAdjustment_beta_gap
 -- name    : ActuarialValuation.erAdjustment_beta_gap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:55:19.816523+00:00
 -- url     : https://prove2.me/theorems/ba0f4906-cb0d-4197-9c18-b49a47785293

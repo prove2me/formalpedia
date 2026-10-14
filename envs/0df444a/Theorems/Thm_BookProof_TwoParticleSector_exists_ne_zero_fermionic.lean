@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_exists_ne_zero_fermionic
 -- name    : BookProof.TwoParticleSector.exists_ne_zero_fermionic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:28:45.555977+00:00
 -- url     : https://prove2.me/theorems/b7e92d22-a2e3-466c-a0d4-f1dfd6e38dc8

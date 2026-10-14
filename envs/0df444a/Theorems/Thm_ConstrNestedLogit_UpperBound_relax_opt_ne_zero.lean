@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_UpperBound_relax_opt_ne_zero
 -- name    : ConstrNestedLogit.UpperBound.relax_opt_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:38.57883+00:00
 -- url     : https://prove2.me/theorems/6e200e14-31e6-4336-9c1c-cf8607c9e57f

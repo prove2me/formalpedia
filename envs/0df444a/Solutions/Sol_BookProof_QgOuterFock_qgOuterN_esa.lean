@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFock.qgOuterN_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-08T14:50:27.265405+00:00
 -- url     : https://prove2.me/submissions/6ef773a4-7cdf-4439-8631-5027e8c192e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgOuterFockEsa.lean — solution of BookProof.QgOuterFock.qgOuterN_esa
 import Mathlib

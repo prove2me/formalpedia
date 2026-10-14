@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucFutureNormalCost_zero
 -- name    : ActuarialValuation.pucFutureNormalCost_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:05:52.829002+00:00
 -- url     : https://prove2.me/theorems/5156de3a-37f0-4499-b7af-bac54ccda39a

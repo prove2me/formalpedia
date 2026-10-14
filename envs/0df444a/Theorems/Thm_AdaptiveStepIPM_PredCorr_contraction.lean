@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_PredCorr_contraction
 -- name    : AdaptiveStepIPM.PredCorr.contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:30:49.614987+00:00
 -- url     : https://prove2.me/theorems/3036d11a-6852-475c-90c6-cc3d891d9f38

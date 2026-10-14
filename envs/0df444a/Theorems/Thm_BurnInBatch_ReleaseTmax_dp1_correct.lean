@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_ReleaseTmax_dp1_correct
 -- name    : BurnInBatch.ReleaseTmax.dp1_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:09:00.667367+00:00
 -- url     : https://prove2.me/theorems/cefa3def-1614-4117-810a-6ef0915f521e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixInv_identity_2_6
 -- name    : PoissonDepTrials.MixInv.identity_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:39:48.794755+00:00
 -- url     : https://prove2.me/theorems/5a387108-aa23-4bc5-acce-4cd78b205d29

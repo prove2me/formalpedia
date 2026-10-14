@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_HvdH_corollary_5_5
 -- name    : IntMul.HvdH.corollary_5_5
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T00:11:36.564505+00:00
 -- url     : https://prove2.me/theorems/d6324285-9226-45cc-9555-a7ffbfa4fcf7

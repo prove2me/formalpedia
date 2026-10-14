@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BoundedNV_Pooling_lemma2_additive_invariance
 -- name    : BoundedNV.Pooling.lemma2_additive_invariance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:54:06.770959+00:00
 -- url     : https://prove2.me/theorems/8fba5d4c-3f2a-411c-af2c-fe10964b150f

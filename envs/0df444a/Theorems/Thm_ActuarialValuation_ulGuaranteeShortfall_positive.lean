@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulGuaranteeShortfall_positive
 -- name    : ActuarialValuation.ulGuaranteeShortfall_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:21.37859+00:00
 -- url     : https://prove2.me/theorems/040f8e07-955c-4d02-ac9b-92d3446e53b2

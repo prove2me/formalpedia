@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HordijkKallenbergLP_SingleLP_theorem_7
 -- name    : HordijkKallenbergLP.SingleLP.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T10:06:43.556735+00:00
 -- url     : https://prove2.me/theorems/8037fa31-d46f-490a-8234-4dd92947724f

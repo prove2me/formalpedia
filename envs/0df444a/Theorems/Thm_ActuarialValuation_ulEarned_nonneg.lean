@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulEarned_nonneg
 -- name    : ActuarialValuation.ulEarned_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:53.505352+00:00
 -- url     : https://prove2.me/theorems/ae1e3e86-d576-46f7-9a5a-6368e2ac4ca8

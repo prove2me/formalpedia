@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erAdjustment_pos
 -- name    : ActuarialValuation.erAdjustment_pos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:54:39.597978+00:00
 -- url     : https://prove2.me/theorems/77982f84-6243-4b1c-b088-45e33698031a

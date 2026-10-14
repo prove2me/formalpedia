@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_ClassTeacher_min_days
 -- name    : Timetabling85.ClassTeacher.min_days
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:58.168829+00:00
 -- url     : https://prove2.me/theorems/8769f0fe-fd23-4ef2-ac36-afed1719f616

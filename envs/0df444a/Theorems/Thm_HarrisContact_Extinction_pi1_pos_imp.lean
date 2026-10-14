@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisContact_Extinction_pi1_pos_imp
 -- name    : HarrisContact.Extinction.pi1_pos_imp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:55:13.662318+00:00
 -- url     : https://prove2.me/theorems/36ca7fb0-a788-4978-b640-3ff88eaa4add

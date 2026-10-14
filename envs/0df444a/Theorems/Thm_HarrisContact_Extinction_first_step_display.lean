@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisContact_Extinction_first_step_display
 -- name    : HarrisContact.Extinction.first_step_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:53:50.536286+00:00
 -- url     : https://prove2.me/theorems/3a50b52f-a0fd-4f0b-aafa-65fc22cfe1f4

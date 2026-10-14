@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irCostUltimate_nonneg
 -- name    : ActuarialValuation.irCostUltimate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:01.303513+00:00
 -- url     : https://prove2.me/theorems/5d5ab7b4-65a1-4592-b2be-35dee0a06d0c

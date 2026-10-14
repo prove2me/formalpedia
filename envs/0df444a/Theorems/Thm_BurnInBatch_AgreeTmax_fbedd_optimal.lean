@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_AgreeTmax_fbedd_optimal
 -- name    : BurnInBatch.AgreeTmax.fbedd_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:29:59.09692+00:00
 -- url     : https://prove2.me/theorems/3010cb3d-4bdd-48b7-8a58-aabe3ed8849d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvAdequacy_zero_benefit
 -- name    : ActuarialValuation.pvAdequacy_zero_benefit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:13.097982+00:00
 -- url     : https://prove2.me/theorems/c4e18bb7-291c-4777-bc1c-e06161aba493

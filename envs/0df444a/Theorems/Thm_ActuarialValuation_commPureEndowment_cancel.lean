@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commPureEndowment_cancel
 -- name    : ActuarialValuation.commPureEndowment_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:18:43.400084+00:00
 -- url     : https://prove2.me/theorems/aabbbdab-9dfb-424d-8c15-124b6f1b63aa

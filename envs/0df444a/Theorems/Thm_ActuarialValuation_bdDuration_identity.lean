@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdDuration_identity
 -- name    : ActuarialValuation.bdDuration_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:54.492508+00:00
 -- url     : https://prove2.me/theorems/82c34751-743e-46e4-83b8-8a38cc042774

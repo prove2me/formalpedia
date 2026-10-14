@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_AnalyticSelection_lower_semianalytic_selection
 -- name    : BertsekasShreve.AnalyticSelection.lower_semianalytic_selection
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T00:51:56.925592+00:00
 -- url     : https://prove2.me/theorems/52ea95ac-8e68-4689-903d-784d7e399f36

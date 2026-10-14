@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DEpenoux_LinearProgram_bellman_fixed_iff_A_and_B
 -- name    : DEpenoux.LinearProgram.bellman_fixed_iff_A_and_B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:22:11.794771+00:00
 -- url     : https://prove2.me/theorems/e2cf5a0c-d498-4f11-b4fd-e20e956daf9a

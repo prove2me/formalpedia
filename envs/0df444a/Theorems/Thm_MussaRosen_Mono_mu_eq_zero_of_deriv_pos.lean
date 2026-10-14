@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_mu_eq_zero_of_deriv_pos
 -- name    : MussaRosen.Mono.mu_eq_zero_of_deriv_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:14:57.360982+00:00
 -- url     : https://prove2.me/theorems/37a92ccd-b4e7-44e4-937b-0cf1d8a612d8

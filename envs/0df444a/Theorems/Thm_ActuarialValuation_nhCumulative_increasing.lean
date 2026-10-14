@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhCumulative_increasing
 -- name    : ActuarialValuation.nhCumulative_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:12.608396+00:00
 -- url     : https://prove2.me/theorems/fdd573bd-61c3-426c-86a4-345ce379984a

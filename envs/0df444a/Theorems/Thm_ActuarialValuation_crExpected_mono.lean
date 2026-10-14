@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crExpected_mono
 -- name    : ActuarialValuation.crExpected_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:12.435283+00:00
 -- url     : https://prove2.me/theorems/4f595b07-f61c-463f-8ea2-eb923609dde5

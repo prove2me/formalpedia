@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRelativeRisk_add
 -- name    : ActuarialValuation.cxRelativeRisk_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:57.862428+00:00
 -- url     : https://prove2.me/theorems/18c782a3-01ba-43d2-bdc2-c6ae0aee173b

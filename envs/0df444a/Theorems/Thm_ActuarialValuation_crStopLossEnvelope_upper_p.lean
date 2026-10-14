@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLossEnvelope_upper_p
 -- name    : ActuarialValuation.crStopLossEnvelope_upper_p
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:20.266978+00:00
 -- url     : https://prove2.me/theorems/8f67fe9a-b7a7-4e0f-b962-70159b5b90d6

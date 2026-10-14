@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRuin_candidate_fundamental
 -- name    : ActuarialValuation.erRuin_candidate_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T16:03:31.957012+00:00
 -- url     : https://prove2.me/theorems/e4f60681-9b6d-4a8e-8440-38cea9cf34a4

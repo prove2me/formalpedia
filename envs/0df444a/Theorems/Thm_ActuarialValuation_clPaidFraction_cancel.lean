@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clPaidFraction_cancel
 -- name    : ActuarialValuation.clPaidFraction_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:55.104231+00:00
 -- url     : https://prove2.me/theorems/6d89bc69-0474-4eea-9fed-698912647443

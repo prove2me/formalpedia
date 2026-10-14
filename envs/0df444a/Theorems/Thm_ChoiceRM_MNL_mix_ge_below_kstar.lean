@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_MNL_mix_ge_below_kstar
 -- name    : ChoiceRM.MNL.mix_ge_below_kstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:51:37.339992+00:00
 -- url     : https://prove2.me/theorems/d2d67085-9dfe-45e6-b221-7fb2617e86d3

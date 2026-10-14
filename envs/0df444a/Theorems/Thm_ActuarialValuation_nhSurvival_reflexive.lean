@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhSurvival_reflexive
 -- name    : ActuarialValuation.nhSurvival_reflexive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:24.249971+00:00
 -- url     : https://prove2.me/theorems/2943f74e-99a8-4b9b-b56c-e84fcc64d1b0

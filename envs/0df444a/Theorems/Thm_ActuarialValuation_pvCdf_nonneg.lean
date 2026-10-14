@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvCdf_nonneg
 -- name    : ActuarialValuation.pvCdf_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:42.081598+00:00
 -- url     : https://prove2.me/theorems/bec29187-5a6d-49e7-97fe-674427837496

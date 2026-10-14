@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctGenerator_offdiag
 -- name    : ActuarialValuation.ctGenerator_offdiag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:48:49.990276+00:00
 -- url     : https://prove2.me/theorems/0bfc6543-a1dc-4001-925a-1473c7838118

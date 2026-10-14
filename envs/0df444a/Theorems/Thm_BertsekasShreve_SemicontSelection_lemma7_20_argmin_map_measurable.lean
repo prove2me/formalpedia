@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_SemicontSelection_lemma7_20_argmin_map_measurable
 -- name    : BertsekasShreve.SemicontSelection.lemma7_20_argmin_map_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:49:30.523905+00:00
 -- url     : https://prove2.me/theorems/82ea2636-bbe8-459b-ae72-860f992fe826

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_LowerBound_ld1_lower_bound
 -- name    : TwoEchelonCVRP.LowerBound.ld1_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:14:23.292095+00:00
 -- url     : https://prove2.me/theorems/0e7f4960-ff16-4dd4-8bcb-4b8d575d1a24

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhExit_partition
 -- name    : ActuarialValuation.nhExit_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:33.589588+00:00
 -- url     : https://prove2.me/theorems/7905a5dc-61fc-4701-b41f-5e7c02eea6e7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msSemiReserve_duration_change
 -- name    : ActuarialValuation.msSemiReserve_duration_change
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:09.744976+00:00
 -- url     : https://prove2.me/theorems/b902a10d-eedd-4d74-b590-0e6c57d00793

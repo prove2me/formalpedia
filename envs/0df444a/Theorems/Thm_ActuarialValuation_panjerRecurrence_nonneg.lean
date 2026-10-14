@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerRecurrence_nonneg
 -- name    : ActuarialValuation.panjerRecurrence_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:50:37.725815+00:00
 -- url     : https://prove2.me/theorems/2db97f4f-d69b-4049-b5de-4d5479c03ba6

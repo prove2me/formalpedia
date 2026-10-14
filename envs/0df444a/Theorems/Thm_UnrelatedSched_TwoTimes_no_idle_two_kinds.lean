@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoTimes_no_idle_two_kinds
 -- name    : UnrelatedSched.TwoTimes.no_idle_two_kinds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:20:36.706756+00:00
 -- url     : https://prove2.me/theorems/caba38a7-2e48-411e-a8d5-da6ba81e4243

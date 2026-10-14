@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svSurvivalHazardInsurance_fundamental
 -- name    : ActuarialValuation.svSurvivalHazardInsurance_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:26:48.768018+00:00
 -- url     : https://prove2.me/theorems/61b7450e-0169-4459-8af9-b84c0875c302

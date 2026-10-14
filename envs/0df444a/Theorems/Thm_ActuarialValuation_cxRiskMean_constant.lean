@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRiskMean_constant
 -- name    : ActuarialValuation.cxRiskMean_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:17:43.854726+00:00
 -- url     : https://prove2.me/theorems/96f64c2c-1c70-4344-a1e2-ccf4f6775e74

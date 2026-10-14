@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterObservableExpectation_attention_eq_softmax_expectation
 -- name    : BookProof.ChapterObservableExpectation.attention_eq_softmax_expectation
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:39:21.466357+00:00
 -- url     : https://prove2.me/theorems/0225d2b0-eb16-487b-88c7-7b98e4e37fb5

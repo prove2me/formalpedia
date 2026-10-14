@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clVolumeFactor_cancel
 -- name    : ActuarialValuation.clVolumeFactor_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:28:08.106994+00:00
 -- url     : https://prove2.me/theorems/1d4ce8a2-f407-4810-8a47-7e6f073b5b45

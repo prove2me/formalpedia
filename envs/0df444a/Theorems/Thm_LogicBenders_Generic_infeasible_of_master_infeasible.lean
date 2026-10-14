@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogicBenders_Generic_infeasible_of_master_infeasible
 -- name    : LogicBenders.Generic.infeasible_of_master_infeasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:27.960457+00:00
 -- url     : https://prove2.me/theorems/94c0287f-21eb-49c3-837a-e8f8f24fd3a2

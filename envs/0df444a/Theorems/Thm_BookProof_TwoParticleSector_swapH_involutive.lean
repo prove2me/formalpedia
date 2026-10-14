@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_swapH_involutive
 -- name    : BookProof.TwoParticleSector.swapH_involutive
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:57:48.144975+00:00
 -- url     : https://prove2.me/theorems/11065a9f-431c-4c25-ad5d-5345a7b3a441

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_minkSq_eq_of_sameOrbit
 -- name    : BookProof.ChapterWignerOrbitClassification.minkSq_eq_of_sameOrbit
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:14:38.321018+00:00
 -- url     : https://prove2.me/theorems/eec8b2ba-1bed-4d2c-b8d4-fae6ca039917

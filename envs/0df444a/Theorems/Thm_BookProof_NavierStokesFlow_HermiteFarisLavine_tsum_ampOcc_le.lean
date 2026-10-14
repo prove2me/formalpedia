@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_HermiteFarisLavine_tsum_ampOcc_le
 -- name    : BookProof.NavierStokesFlow.HermiteFarisLavine.tsum_ampOcc_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:28:38.739577+00:00
 -- url     : https://prove2.me/theorems/fc34726b-e06a-4a99-826f-30a5da2918d0

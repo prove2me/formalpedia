@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_DualDecomp_stationarity
 -- name    : ALADIN.DualDecomp.stationarity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:37.258585+00:00
 -- url     : https://prove2.me/theorems/da3933a3-ec34-46ab-a1a3-b8001b605d71

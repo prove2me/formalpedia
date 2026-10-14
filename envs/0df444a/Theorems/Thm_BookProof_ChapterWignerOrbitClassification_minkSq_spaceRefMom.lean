@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_minkSq_spaceRefMom
 -- name    : BookProof.ChapterWignerOrbitClassification.minkSq_spaceRefMom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:14:42.593302+00:00
 -- url     : https://prove2.me/theorems/6ff12b12-9573-4bc9-97f7-8f38de935c2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_comprehensive_finite_valuation
 -- name    : ActuarialFoundations.fa_comprehensive_finite_valuation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-11T06:56:04.218962+00:00
 -- url     : https://prove2.me/theorems/3d1540d9-7194-490d-a0e2-de68c8167f04

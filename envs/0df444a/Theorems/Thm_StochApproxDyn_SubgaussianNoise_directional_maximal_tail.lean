@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_SubgaussianNoise_directional_maximal_tail
 -- name    : StochApproxDyn.SubgaussianNoise.directional_maximal_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:09:43.036167+00:00
 -- url     : https://prove2.me/theorems/94df008f-5edb-4cbd-9b5f-43f4789f45a7

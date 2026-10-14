@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_DivFree_isMixedNash_iff_purePayoff_le
 -- name    : FixpNash.DivFree.isMixedNash_iff_purePayoff_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:06.662153+00:00
 -- url     : https://prove2.me/theorems/d9b9773e-e625-442d-ab7d-a2697f515c53

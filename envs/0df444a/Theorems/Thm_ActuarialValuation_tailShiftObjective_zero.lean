@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailShiftObjective_zero
 -- name    : ActuarialValuation.tailShiftObjective_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:48:03.191651+00:00
 -- url     : https://prove2.me/theorems/6221477e-0845-4f68-afdd-39fd57f93cd2

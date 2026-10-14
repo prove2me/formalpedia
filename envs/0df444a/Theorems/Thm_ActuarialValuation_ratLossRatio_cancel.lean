@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratLossRatio_cancel
 -- name    : ActuarialValuation.ratLossRatio_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:48:23.880463+00:00
 -- url     : https://prove2.me/theorems/ec9571a4-695e-4666-8149-40dad7d72c46

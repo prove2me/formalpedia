@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_BatchLPT_proposition_2
 -- name    : BurnInBatch.BatchLPT.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:33.902904+00:00
 -- url     : https://prove2.me/theorems/2596e977-bd32-4904-9845-5c45e988c6b6

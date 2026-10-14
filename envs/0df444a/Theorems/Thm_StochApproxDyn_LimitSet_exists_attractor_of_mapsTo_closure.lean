@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_LimitSet_exists_attractor_of_mapsTo_closure
 -- name    : StochApproxDyn.LimitSet.exists_attractor_of_mapsTo_closure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:19:56.156193+00:00
 -- url     : https://prove2.me/theorems/e7a8bc7a-05a6-4c22-a29e-b4906f7d57ac

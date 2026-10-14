@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for PathFindingLP.WeightFunction.properties_of_weight_function
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-09T02:04:54.953558+00:00
 -- url     : https://prove2.me/submissions/aaf21aa4-4989-49cc-9cd2-bdbc210c8a41
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PathFindingLP_WeightFunction_RegularizedObjective

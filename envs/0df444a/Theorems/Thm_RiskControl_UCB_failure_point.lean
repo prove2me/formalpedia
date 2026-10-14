@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_UCB_failure_point
 -- name    : RiskControl.UCB.failure_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:34:51.127648+00:00
 -- url     : https://prove2.me/theorems/e2fda4a2-8b5a-42bf-832b-07d586dce057

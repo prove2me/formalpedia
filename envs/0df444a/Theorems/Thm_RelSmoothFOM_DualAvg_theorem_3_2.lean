@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_DualAvg_theorem_3_2
 -- name    : RelSmoothFOM.DualAvg.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:34:34.608975+00:00
 -- url     : https://prove2.me/theorems/e45d32d6-e3ad-4bea-bca5-8c1d9d423c42

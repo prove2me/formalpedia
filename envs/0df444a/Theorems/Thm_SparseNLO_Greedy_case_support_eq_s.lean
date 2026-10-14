@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_Greedy_case_support_eq_s
 -- name    : SparseNLO.Greedy.case_support_eq_s
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:56.597234+00:00
 -- url     : https://prove2.me/theorems/202b11f5-45f6-4820-9a7c-7b40676893d5

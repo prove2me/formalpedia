@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdParCoupon_price_balance
 -- name    : ActuarialValuation.bdParCoupon_price_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:24.320019+00:00
 -- url     : https://prove2.me/theorems/5a98e68c-569e-4ad8-9fe1-b09337c3f48b

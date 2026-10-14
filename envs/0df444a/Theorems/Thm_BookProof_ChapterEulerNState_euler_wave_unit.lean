@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerNState_euler_wave_unit
 -- name    : BookProof.ChapterEulerNState.euler_wave_unit
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:32:30.134212+00:00
 -- url     : https://prove2.me/theorems/7adbc387-9230-47b9-bc5f-779176c272d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_SuggestedMatching_opt_bound
 -- name    : OnlineStochMatching.SuggestedMatching.opt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:03:41.974761+00:00
 -- url     : https://prove2.me/theorems/cc802405-ee4a-451c-9da1-057a31b2d73c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgSeverityPGF_succ
 -- name    : ActuarialValuation.pgSeverityPGF_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:53:13.629819+00:00
 -- url     : https://prove2.me/theorems/3d2c8f9b-1929-48fe-b08a-aedbea28351f

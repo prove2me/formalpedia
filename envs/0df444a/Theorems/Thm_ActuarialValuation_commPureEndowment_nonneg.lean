@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commPureEndowment_nonneg
 -- name    : ActuarialValuation.commPureEndowment_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:17:01.660019+00:00
 -- url     : https://prove2.me/theorems/7368161f-faf3-4520-bac6-07e77881e7f3

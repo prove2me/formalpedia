@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_fockSmoothPotential_deficiencyTrivialAt
 -- name    : BookProof.ScalaronFock.fockSmoothPotential_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:22:51.319981+00:00
 -- url     : https://prove2.me/theorems/49ced272-2e6d-40f3-9582-bd0db0661622

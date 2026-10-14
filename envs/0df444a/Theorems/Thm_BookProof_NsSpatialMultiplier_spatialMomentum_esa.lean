@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsSpatialMultiplier_spatialMomentum_esa
 -- name    : BookProof.NsSpatialMultiplier.spatialMomentum_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:13:40.062981+00:00
 -- url     : https://prove2.me/theorems/4ba9beeb-d110-4e2c-bc7a-4c2ddd1c9538

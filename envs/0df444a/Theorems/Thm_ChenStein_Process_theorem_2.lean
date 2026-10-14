@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenStein_Process_theorem_2
 -- name    : ChenStein.Process.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:33:19.665978+00:00
 -- url     : https://prove2.me/theorems/aa879d51-5742-4bf0-88ab-f0bec81850a9

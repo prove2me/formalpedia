@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPvmMeasure_Pvm_idem
 -- name    : BookProof.ChapterPvmMeasure.Pvm.idem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:58:26.057986+00:00
 -- url     : https://prove2.me/theorems/2f4eecab-9d27-42b3-bc15-54052b71b44e

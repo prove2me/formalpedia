@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeightonRao_Uniform_theorem_2
 -- name    : LeightonRao.Uniform.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:27:50.808353+00:00
 -- url     : https://prove2.me/theorems/ead20ec4-3bee-456c-9caf-28096266eb90

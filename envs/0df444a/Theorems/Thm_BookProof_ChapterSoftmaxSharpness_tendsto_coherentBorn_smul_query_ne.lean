@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterSoftmaxSharpness_tendsto_coherentBorn_smul_query_ne
 -- name    : BookProof.ChapterSoftmaxSharpness.tendsto_coherentBorn_smul_query_ne
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:37:32.172063+00:00
 -- url     : https://prove2.me/theorems/0384c91f-c44a-49bc-9d19-c9c9de8a3dc6

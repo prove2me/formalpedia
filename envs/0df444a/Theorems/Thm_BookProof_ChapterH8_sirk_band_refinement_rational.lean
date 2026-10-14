@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_sirk_band_refinement_rational
 -- name    : BookProof.ChapterH8.sirk_band_refinement_rational
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:32:36.211408+00:00
 -- url     : https://prove2.me/theorems/f855b0e4-9f29-44b3-8774-6eda47c09bf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcCohortSurvival_nonneg
 -- name    : ActuarialValuation.lcCohortSurvival_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:56:42.290187+00:00
 -- url     : https://prove2.me/theorems/7eab9374-06db-4ee6-85c6-6b8156e8ddbd

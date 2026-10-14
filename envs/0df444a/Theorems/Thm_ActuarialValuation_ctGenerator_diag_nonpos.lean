@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctGenerator_diag_nonpos
 -- name    : ActuarialValuation.ctGenerator_diag_nonpos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:49:23.266558+00:00
 -- url     : https://prove2.me/theorems/a61ea757-7bee-4a58-b19d-5ee817e9a2e6

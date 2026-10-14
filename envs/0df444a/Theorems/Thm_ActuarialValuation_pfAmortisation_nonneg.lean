@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAmortisation_nonneg
 -- name    : ActuarialValuation.pfAmortisation_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:18.138428+00:00
 -- url     : https://prove2.me/theorems/4b48bf9e-ca90-4311-ba4a-be13d171e273

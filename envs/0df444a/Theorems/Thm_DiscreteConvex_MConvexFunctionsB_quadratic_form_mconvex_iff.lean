@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_quadratic_form_mconvex_iff
 -- name    : DiscreteConvex.MConvexFunctionsB.quadratic_form_mconvex_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:11:21.263223+00:00
 -- url     : https://prove2.me/theorems/c956555b-df64-4135-aa06-e1a95d4db8d2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irAvgCost_cancel
 -- name    : ActuarialValuation.irAvgCost_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:21.738032+00:00
 -- url     : https://prove2.me/theorems/87b35e86-1642-4530-9f1a-c299a9ab5946

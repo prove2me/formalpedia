@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxMass_succ
 -- name    : ActuarialValuation.cxMass_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:54:45.897987+00:00
 -- url     : https://prove2.me/theorems/70de4c1b-870e-468d-92a8-1cbbbaee4abd

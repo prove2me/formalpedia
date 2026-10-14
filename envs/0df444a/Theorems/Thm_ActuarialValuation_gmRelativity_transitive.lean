@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmRelativity_transitive
 -- name    : ActuarialValuation.gmRelativity_transitive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:50.792266+00:00
 -- url     : https://prove2.me/theorems/0eee809d-e039-47b3-b496-6e282d328dc1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflectedBSDE_Existence_proposition_3_6
 -- name    : ReflectedBSDE.Existence.proposition_3_6
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:14:22.646977+00:00
 -- url     : https://prove2.me/theorems/fc3f7417-a60b-4ca3-9ee5-dbf2eafde0fd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_temporary_annuity_cashflow
 -- name    : ActuarialFoundations.fa_temporary_annuity_cashflow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-11T06:49:36.703854+00:00
 -- url     : https://prove2.me/theorems/ba29d9e0-3ca7-4edb-b07b-aed74facc849

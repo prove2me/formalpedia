@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcExpectedDeathCost_nonneg
 -- name    : ActuarialValuation.lcExpectedDeathCost_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:02:57.40628+00:00
 -- url     : https://prove2.me/theorems/a3611080-6037-4b88-bac4-5b9788c1c9e6

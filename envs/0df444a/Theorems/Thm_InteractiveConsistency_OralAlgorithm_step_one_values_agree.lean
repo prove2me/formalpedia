@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_OralAlgorithm_step_one_values_agree
 -- name    : InteractiveConsistency.OralAlgorithm.step_one_values_agree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:10.783986+00:00
 -- url     : https://prove2.me/theorems/3c72f4a9-e64f-4369-8583-8c4f4ca4c673

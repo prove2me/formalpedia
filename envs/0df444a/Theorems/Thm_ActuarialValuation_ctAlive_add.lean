@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAlive_add
 -- name    : ActuarialValuation.ctAlive_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:53:57.748024+00:00
 -- url     : https://prove2.me/theorems/12151e15-1645-4633-ac42-9a944b791341

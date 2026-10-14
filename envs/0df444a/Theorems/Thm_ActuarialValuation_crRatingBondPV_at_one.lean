@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRatingBondPV_at_one
 -- name    : ActuarialValuation.crRatingBondPV_at_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:12:22.534978+00:00
 -- url     : https://prove2.me/theorems/c4c37f5a-dd35-4507-b8b5-e854ecd900fa

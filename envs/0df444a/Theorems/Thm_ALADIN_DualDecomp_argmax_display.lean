@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_DualDecomp_argmax_display
 -- name    : ALADIN.DualDecomp.argmax_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:09.527448+00:00
 -- url     : https://prove2.me/theorems/f16d7e97-ee5b-4cd3-ae1c-480c94fdfc9a

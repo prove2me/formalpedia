@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedAffineLongJetProxy_zero_off_ball
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_zero_off_ball
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:04:43.461223+00:00
 -- url     : https://prove2.me/theorems/bac7ff00-ba2b-43ca-a28a-bd83bf4feaec

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackReserve_nonneg
 -- name    : ActuarialValuation.mackReserve_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:07.79485+00:00
 -- url     : https://prove2.me/theorems/0b309ccf-429f-4297-8c34-255725dfa646

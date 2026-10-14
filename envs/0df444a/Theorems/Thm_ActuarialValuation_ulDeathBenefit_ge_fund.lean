@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulDeathBenefit_ge_fund
 -- name    : ActuarialValuation.ulDeathBenefit_ge_fund
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:40.130865+00:00
 -- url     : https://prove2.me/theorems/2d104cd9-7f88-41a2-95cd-a82fe2608497

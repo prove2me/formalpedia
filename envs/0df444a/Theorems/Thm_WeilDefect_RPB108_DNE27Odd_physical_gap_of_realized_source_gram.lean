@@ -12,8 +12,12 @@
 --   $$\delta\left\|\sum_{i=0}^3z_i(x_i-T\sigma_i)+h\right\|^2\le e.$$
 --
 --   Both mixed pairing-square estimates are proved from row enclosures and the actual source Gram identity. Operator, vector norm, matrix/row enclosures, Gram realization and completion attachments for the original Weil form remain unproved caller obligations.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27SourcePairing.lean#L116-L139; exact native theorem WeilDefect.RPB108.DNE27Odd.physical_gap_of_realized_source_gram. SHA256 498d343d111ed242d24172da2d719cf493eb78251dc2d20676f79374bbe10800. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_DNE27Gram_Odd

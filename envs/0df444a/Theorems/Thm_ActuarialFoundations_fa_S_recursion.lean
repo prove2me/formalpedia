@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_S_recursion
 -- name    : ActuarialFoundations.fa_S_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T23:32:16.456183+00:00
 -- url     : https://prove2.me/theorems/e52f81eb-281b-4f78-a9c6-6bce2b6648fe

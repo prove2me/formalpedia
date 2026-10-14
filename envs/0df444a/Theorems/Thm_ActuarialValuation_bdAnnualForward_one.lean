@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdAnnualForward_one
 -- name    : ActuarialValuation.bdAnnualForward_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:16.013371+00:00
 -- url     : https://prove2.me/theorems/bcd3c8c7-0365-4b96-8c6a-e3e21c8aac70

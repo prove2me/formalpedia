@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_MNL_lemma_5
 -- name    : ChoiceRM.MNL.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:45:17.769951+00:00
 -- url     : https://prove2.me/theorems/dc50fa19-2661-4b4f-9802-a65900421a51

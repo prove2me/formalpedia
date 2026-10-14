@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_SemicontSelection_prop7_30_continuous_integral
 -- name    : BertsekasShreve.SemicontSelection.prop7_30_continuous_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:49:46.349895+00:00
 -- url     : https://prove2.me/theorems/7e52a23d-0a93-459b-946e-93553b36efdb

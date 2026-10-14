@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailCVaRObjective_decomposition
 -- name    : ActuarialValuation.tailCVaRObjective_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:42:59.251978+00:00
 -- url     : https://prove2.me/theorems/de260e89-d550-4124-a74b-b1318eb57e55

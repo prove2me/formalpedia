@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnPutCall_terminal_parity
 -- name    : ActuarialValuation.bnPutCall_terminal_parity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:04.851977+00:00
 -- url     : https://prove2.me/theorems/18bf269c-0172-4a6e-85a1-4ab5d49bb623

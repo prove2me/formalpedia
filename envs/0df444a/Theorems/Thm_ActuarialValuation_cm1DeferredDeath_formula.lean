@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cm1DeferredDeath_formula
 -- name    : ActuarialValuation.cm1DeferredDeath_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T21:56:37.842123+00:00
 -- url     : https://prove2.me/theorems/f5c2c204-5366-4e62-9b96-ae10ef77fa6f

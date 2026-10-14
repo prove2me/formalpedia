@@ -8,8 +8,12 @@
 --   DNE27 odd mixed-energy rational inputs
 -- statement:
 --   Exact rational input data for the odd DNE27 conditional physical-gap certificates. This defines the paid Young parameter, mixed coupling bound, dual and high source-square data, retained lower weight, and the retained energy of the last three coordinates. These constants do not establish the norm, operator or energy bounds for the original Weil form; those remain explicit hypotheses of subsequent theorems.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   Exact definitions in monocap-tech/weil at immutable head ada7948cb459fd21d400cd8f2a92e87672e31f2d, WeilDefect/RPB108/DNE27MixedEnergy.lean; SHA256 45cb5b8d112c5975566df7932641b62a5eef54da1f9915fb26c1b5f5f4902360. Generated rational inputs, not a replay of the original analytic producer or interval validator. Exact module source: https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27MixedEnergy.lean#L89-L122. Only the definitions in this parity namespace are included.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Definitions.Def_RPB108_DNE27Numerics_Odd
 open scoped BigOperators

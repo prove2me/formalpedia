@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedSurplus_issue
 -- name    : ActuarialValuation.erExpectedSurplus_issue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:01.462977+00:00
 -- url     : https://prove2.me/theorems/e0392e63-b58c-4353-9bd8-ad21e3bcadc9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irACPCReserve_balance
 -- name    : ActuarialValuation.irACPCReserve_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:41.053077+00:00
 -- url     : https://prove2.me/theorems/21799c0a-4f03-4a45-8acb-d5cfbb5f253f

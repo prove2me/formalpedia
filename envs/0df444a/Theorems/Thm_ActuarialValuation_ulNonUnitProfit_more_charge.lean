@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulNonUnitProfit_more_charge
 -- name    : ActuarialValuation.ulNonUnitProfit_more_charge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:17.029762+00:00
 -- url     : https://prove2.me/theorems/d411206b-e17d-4db6-8a47-aa9f832e11e8

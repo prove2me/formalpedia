@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MonotoneCompStatics_LinearPerturb_theorem10_first_sentence
 -- name    : MonotoneCompStatics.LinearPerturb.theorem10_first_sentence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:14:18.287813+00:00
 -- url     : https://prove2.me/theorems/83f18d51-9869-4a3d-b56d-e7f0679c92b7

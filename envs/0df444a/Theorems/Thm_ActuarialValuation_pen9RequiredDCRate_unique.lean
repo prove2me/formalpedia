@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9RequiredDCRate_unique
 -- name    : ActuarialValuation.pen9RequiredDCRate_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:18.817248+00:00
 -- url     : https://prove2.me/theorems/d7a094b0-f502-48d5-ace1-dac97a5314d3

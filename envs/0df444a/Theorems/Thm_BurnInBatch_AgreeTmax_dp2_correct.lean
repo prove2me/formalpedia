@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_AgreeTmax_dp2_correct
 -- name    : BurnInBatch.AgreeTmax.dp2_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:29:59.481418+00:00
 -- url     : https://prove2.me/theorems/995cdf2b-86ca-4967-a3c0-15ba630f291e

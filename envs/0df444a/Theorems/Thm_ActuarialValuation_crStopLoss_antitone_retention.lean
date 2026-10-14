@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLoss_antitone_retention
 -- name    : ActuarialValuation.crStopLoss_antitone_retention
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:43.157451+00:00
 -- url     : https://prove2.me/theorems/162aa9c6-b5e8-41d7-9f6d-d757e153e5bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_backorder_differences
 -- name    : ServiceParts.StockLevels.backorder_differences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:15:07.466985+00:00
 -- url     : https://prove2.me/theorems/a1704eda-f990-4402-800f-aa53d5d78252

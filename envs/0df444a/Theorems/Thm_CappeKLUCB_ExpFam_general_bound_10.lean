@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_ExpFam_general_bound_10
 -- name    : CappeKLUCB.ExpFam.general_bound_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:20:33.134216+00:00
 -- url     : https://prove2.me/theorems/cd6598b7-823d-488f-9453-71e23625503c

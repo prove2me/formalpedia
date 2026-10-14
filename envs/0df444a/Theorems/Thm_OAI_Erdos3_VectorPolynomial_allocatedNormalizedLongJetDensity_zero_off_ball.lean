@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedNormalizedLongJetDensity_zero_off_ball
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_zero_off_ball
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:17:21.430922+00:00
 -- url     : https://prove2.me/theorems/efc70694-e901-4314-b9bb-362cc55d65fe

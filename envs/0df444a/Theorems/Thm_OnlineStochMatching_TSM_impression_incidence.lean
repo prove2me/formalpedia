@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_TSM_impression_incidence
 -- name    : OnlineStochMatching.TSM.impression_incidence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:34:23.632807+00:00
 -- url     : https://prove2.me/theorems/37ff5835-d50e-46c9-a4de-a33aaa2598e7

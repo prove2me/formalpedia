@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crExpectedAssets_split
 -- name    : ActuarialValuation.crExpectedAssets_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:15.631159+00:00
 -- url     : https://prove2.me/theorems/89e2fded-2baf-406d-b2f3-60b68ca4548a

@@ -1,0 +1,25 @@
+-- Prove2me | solution 1 for ActuarialValuation.ruSurplus_succ
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-10-12T16:29:09.357542+00:00
+-- url     : https://prove2.me/submissions/8e57bf91-c622-46a9-82e6-0906efa591e9
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Tactic.Ring
+import Definitions.Def_actuarial_ruPathSurplus
+import Definitions.Def_actuarial_ruClaimTotal
+import Definitions.Def_actuarial_ruPremiumTotal
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open ActuarialValuation
+
+theorem solution (u c : ℝ) (x : ℕ → ℝ) (n : ℕ) :
+    ruPathSurplus u c x (n+1) =
+      ruPathSurplus u c x n + c - x n := by
+  simp only [ruPathSurplus, ruPremiumTotal, ruClaimTotal,
+    Finset.sum_range_succ, Nat.cast_add, Nat.cast_one]
+  ring

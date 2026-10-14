@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_GenMoment_convexity_step
 -- name    : NagaevLD.GenMoment.convexity_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:17:25.392267+00:00
 -- url     : https://prove2.me/theorems/816f42e9-3865-4387-af03-55b821ecff74

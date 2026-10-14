@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BalancedPrices_ClosureMax_closure_max_a
 -- name    : BalancedPrices.ClosureMax.closure_max_a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:56:19.746999+00:00
 -- url     : https://prove2.me/theorems/6957e921-6ae9-4348-b6df-7f5774176509

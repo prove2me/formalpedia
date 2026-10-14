@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_le_of_sq_le
 -- name    : BookProof.YangMillsAbelianNoGap.le_of_sq_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:37:07.750007+00:00
 -- url     : https://prove2.me/theorems/658ca043-eb4e-4f77-a914-144af8e4a79f

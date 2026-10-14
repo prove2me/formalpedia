@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRuinProb_le_one
 -- name    : ActuarialValuation.ruRuinProb_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:14.156411+00:00
 -- url     : https://prove2.me/theorems/16d5974c-2e13-4968-b0c4-b2637119f3ab

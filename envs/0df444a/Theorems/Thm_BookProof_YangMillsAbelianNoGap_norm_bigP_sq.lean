@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_norm_bigP_sq
 -- name    : BookProof.YangMillsAbelianNoGap.norm_bigP_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:36:17.07899+00:00
 -- url     : https://prove2.me/theorems/38e97b42-8429-4037-b071-e5fd8e7dbf44

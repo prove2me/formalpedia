@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_TwoPeriod_limited_backtracking_correct
 -- name    : Timetabling85.TwoPeriod.limited_backtracking_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:54:58.285167+00:00
 -- url     : https://prove2.me/theorems/c00aa90b-82e0-4e6d-9eee-430404055bfd

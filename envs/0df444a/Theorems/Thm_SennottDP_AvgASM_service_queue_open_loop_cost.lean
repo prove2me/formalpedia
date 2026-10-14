@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_AvgASM_service_queue_open_loop_cost
 -- name    : SennottDP.AvgASM.service_queue_open_loop_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T09:56:04.181207+00:00
 -- url     : https://prove2.me/theorems/b6da2be9-ef67-44ed-9e45-d7dde232e4f2

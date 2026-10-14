@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9MidSalary_between
 -- name    : ActuarialValuation.pen9MidSalary_between
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:05.032989+00:00
 -- url     : https://prove2.me/theorems/06ff0ad1-07ab-4bc2-a9a7-9ff1e17d4681

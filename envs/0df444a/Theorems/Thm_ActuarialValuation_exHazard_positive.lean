@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exHazard_positive
 -- name    : ActuarialValuation.exHazard_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:23.542676+00:00
 -- url     : https://prove2.me/theorems/d4993598-f8e1-4f8e-ad7d-4f962e80f8f5

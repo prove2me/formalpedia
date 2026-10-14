@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflectedBSDE_Existence_rbsde_exists_unique
 -- name    : ReflectedBSDE.Existence.rbsde_exists_unique
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:14:17.555704+00:00
 -- url     : https://prove2.me/theorems/8c996a58-f39b-44bd-9655-90232a7fd3c3

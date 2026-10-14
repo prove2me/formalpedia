@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationAssetShare_antitone_outgo
 -- name    : ActuarialValuation.alterationAssetShare_antitone_outgo
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:26.376215+00:00
 -- url     : https://prove2.me/theorems/c79e253c-8488-4a68-a729-e944b4ce43b8

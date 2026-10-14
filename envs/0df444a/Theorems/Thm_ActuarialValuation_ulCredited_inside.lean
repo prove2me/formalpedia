@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulCredited_inside
 -- name    : ActuarialValuation.ulCredited_inside
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:29.162982+00:00
 -- url     : https://prove2.me/theorems/15684a00-5818-49d3-92b2-067739192156

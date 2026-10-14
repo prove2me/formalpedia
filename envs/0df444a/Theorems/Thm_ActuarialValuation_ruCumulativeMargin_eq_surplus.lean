@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruCumulativeMargin_eq_surplus
 -- name    : ActuarialValuation.ruCumulativeMargin_eq_surplus
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:01:06.801467+00:00
 -- url     : https://prove2.me/theorems/95382b92-368d-413c-895e-4d20526162eb

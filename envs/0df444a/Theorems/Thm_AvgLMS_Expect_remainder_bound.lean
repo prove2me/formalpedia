@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgLMS_Expect_remainder_bound
 -- name    : AvgLMS.Expect.remainder_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:06:22.558447+00:00
 -- url     : https://prove2.me/theorems/608147f3-1abd-48fa-b5ac-656abab6beb4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLCMarkets_ExactCover_exactCover_iff_equilibrium
 -- name    : PLCMarkets.ExactCover.exactCover_iff_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:13:35.861298+00:00
 -- url     : https://prove2.me/theorems/c578ead5-90da-4125-afa5-523e4953298a

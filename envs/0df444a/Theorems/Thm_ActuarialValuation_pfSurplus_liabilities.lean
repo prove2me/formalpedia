@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfSurplus_liabilities
 -- name    : ActuarialValuation.pfSurplus_liabilities
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:05.668899+00:00
 -- url     : https://prove2.me/theorems/0ebd79d5-84a1-446f-945d-b912f42f30de

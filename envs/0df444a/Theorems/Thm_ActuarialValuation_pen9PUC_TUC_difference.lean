@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9PUC_TUC_difference
 -- name    : ActuarialValuation.pen9PUC_TUC_difference
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:49.564985+00:00
 -- url     : https://prove2.me/theorems/1b9b0a4f-1619-4862-9919-7082104a6f7c

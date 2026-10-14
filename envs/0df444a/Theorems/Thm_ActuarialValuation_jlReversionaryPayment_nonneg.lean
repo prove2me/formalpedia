@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlReversionaryPayment_nonneg
 -- name    : ActuarialValuation.jlReversionaryPayment_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:49.633664+00:00
 -- url     : https://prove2.me/theorems/5220259f-7bbe-4beb-8e07-bb1cf8cab96c

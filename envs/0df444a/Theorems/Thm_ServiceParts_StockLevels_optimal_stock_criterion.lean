@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_optimal_stock_criterion
 -- name    : ServiceParts.StockLevels.optimal_stock_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:28:22.109803+00:00
 -- url     : https://prove2.me/theorems/1ce6fab1-af89-473e-a4a9-20cca7b36de5

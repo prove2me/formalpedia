@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmRelativity_reflexive
 -- name    : ActuarialValuation.gmRelativity_reflexive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:22.482724+00:00
 -- url     : https://prove2.me/theorems/da3a828e-75dd-4a91-9f74-247ff9cad0b0

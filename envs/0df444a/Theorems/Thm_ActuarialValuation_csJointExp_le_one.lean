@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointExp_le_one
 -- name    : ActuarialValuation.csJointExp_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:55.309893+00:00
 -- url     : https://prove2.me/theorems/cac5cfb6-8b5e-4f3a-ba7a-11cda41d1faf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerLittleGroupOrbits_energy_pos_of_act
 -- name    : BookProof.ChapterWignerLittleGroupOrbits.energy_pos_of_act
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:55:30.981321+00:00
 -- url     : https://prove2.me/theorems/c0b1ecaa-e9c2-4912-a356-a782c993bfa6

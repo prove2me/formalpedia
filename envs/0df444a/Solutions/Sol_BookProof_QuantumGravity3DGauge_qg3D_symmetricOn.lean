@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QuantumGravity3DGauge.qg3D_symmetricOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T09:47:55.497343+00:00
 -- url     : https://prove2.me/submissions/2e8376ab-0394-4938-8a0c-a3e37f0d86f7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQuantumGravity3DGauge.lean — solution of BookProof.QuantumGravity3DGauge.qg3D_symmetricOn
 import Mathlib

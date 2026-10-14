@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clFactorToUltimate_succ
 -- name    : ActuarialValuation.clFactorToUltimate_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:11.172081+00:00
 -- url     : https://prove2.me/theorems/6a1c97ae-510a-4007-8995-ac5cc2074c82

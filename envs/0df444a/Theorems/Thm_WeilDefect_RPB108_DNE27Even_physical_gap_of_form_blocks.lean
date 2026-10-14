@@ -12,8 +12,12 @@
 --   Parity: even.
 --
 --   Exact native statement, definitions and coordinate order are preserved. Original-form realization attachments are unproved future formalization; complete 1.06 positivity, global continuation and RH are not established.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27FormCompletion.lean#L9-L51; exact native theorem WeilDefect.RPB108.DNE27Even.physical_gap_of_form_blocks. SHA256 35aa8eb199869cf6ed3fbfb6b051b5e1345c5dda5a330db2525d4e0a9f273ddc. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_DNE27Gram_Even

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruSurplus_issue
 -- name    : ActuarialValuation.ruSurplus_issue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:41.940406+00:00
 -- url     : https://prove2.me/theorems/792f592d-06ad-4964-b7d0-2af1415b0dec

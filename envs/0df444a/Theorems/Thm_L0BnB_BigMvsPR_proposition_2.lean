@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_BigMvsPR_proposition_2
 -- name    : L0BnB.BigMvsPR.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:28:55.413666+00:00
 -- url     : https://prove2.me/theorems/d1c347b8-c74a-4016-a8bf-e93b4667cc4d

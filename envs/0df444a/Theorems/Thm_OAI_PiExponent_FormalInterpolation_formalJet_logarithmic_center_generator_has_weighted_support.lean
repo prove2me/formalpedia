@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_formalJet_logarithmic_center_generator_has_weighted_support
 -- name    : OAI.PiExponent.FormalInterpolation.formalJet_logarithmic_center_generator_has_weighted_support
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T18:32:12.512846+00:00
 -- url     : https://prove2.me/theorems/2e74afe7-a31a-4bb2-ab26-676ea22e64aa

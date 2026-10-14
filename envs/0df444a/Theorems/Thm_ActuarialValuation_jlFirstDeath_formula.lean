@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlFirstDeath_formula
 -- name    : ActuarialValuation.jlFirstDeath_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:06.528621+00:00
 -- url     : https://prove2.me/theorems/dd870f27-e4d9-46e2-bcf5-f6b73b54dccb

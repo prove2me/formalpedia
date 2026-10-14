@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterTimeTranslation_trace_eq_iff_isDeterministic
 -- name    : BookProof.ChapterTimeTranslation.trace_eq_iff_isDeterministic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:25:53.763977+00:00
 -- url     : https://prove2.me/theorems/dc19c4f2-8c73-4c74-8a12-41a169085064

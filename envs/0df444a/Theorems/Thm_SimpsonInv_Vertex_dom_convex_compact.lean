@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpsonInv_Vertex_dom_convex_compact
 -- name    : SimpsonInv.Vertex.dom_convex_compact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:26:37.952286+00:00
 -- url     : https://prove2.me/theorems/fa23770b-b5af-484f-a70f-cc3f95baa332

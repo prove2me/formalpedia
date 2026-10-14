@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossQC_Regions_optimality_equation
 -- name    : RossQC.Regions.optimality_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:17:20.752712+00:00
 -- url     : https://prove2.me/theorems/d1c239a8-0538-43a4-bcd5-14a9166d1a79

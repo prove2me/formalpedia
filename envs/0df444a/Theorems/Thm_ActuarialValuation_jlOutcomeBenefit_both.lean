@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlOutcomeBenefit_both
 -- name    : ActuarialValuation.jlOutcomeBenefit_both
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:18.846747+00:00
 -- url     : https://prove2.me/theorems/a0619e20-0ac8-4049-b668-fa6fc62baaf3

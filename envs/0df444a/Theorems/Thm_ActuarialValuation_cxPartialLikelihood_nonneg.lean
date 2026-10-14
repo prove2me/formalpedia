@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPartialLikelihood_nonneg
 -- name    : ActuarialValuation.cxPartialLikelihood_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:48.700417+00:00
 -- url     : https://prove2.me/theorems/efd89990-c88d-4e61-91dc-63ff4f5a0281

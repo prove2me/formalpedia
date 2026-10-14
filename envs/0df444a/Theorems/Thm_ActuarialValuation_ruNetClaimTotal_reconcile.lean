@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruNetClaimTotal_reconcile
 -- name    : ActuarialValuation.ruNetClaimTotal_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:57:04.406418+00:00
 -- url     : https://prove2.me/theorems/05782138-6b4a-4a6f-acab-afc9d1464c5a

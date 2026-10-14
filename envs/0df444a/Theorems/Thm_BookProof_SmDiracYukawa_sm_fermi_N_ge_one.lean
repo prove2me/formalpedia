@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_sm_fermi_N_ge_one
 -- name    : BookProof.SmDiracYukawa.sm_fermi_N_ge_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:47:47.464871+00:00
 -- url     : https://prove2.me/theorems/bee7f65a-79e5-4ae3-8590-213fb2f0dfa0

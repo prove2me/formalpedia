@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Palm_compound_palm_theorem
 -- name    : ServiceParts.Palm.compound_palm_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:39:59.59+00:00
 -- url     : https://prove2.me/theorems/a1bccf21-eabb-4ab0-98b6-669a5fabcc98

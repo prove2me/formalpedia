@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msDurationNext_exit
 -- name    : ActuarialValuation.msDurationNext_exit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:51.993981+00:00
 -- url     : https://prove2.me/theorems/03f4ab4c-1789-45aa-98b2-0b7a24562b3d

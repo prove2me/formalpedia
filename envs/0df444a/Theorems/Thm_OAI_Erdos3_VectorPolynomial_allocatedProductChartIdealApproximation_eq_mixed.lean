@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedProductChartIdealApproximation_eq_mixed
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedProductChartIdealApproximation_eq_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T09:18:54.322256+00:00
 -- url     : https://prove2.me/theorems/7e9f2168-597b-474e-94dd-f6affbb15bc2

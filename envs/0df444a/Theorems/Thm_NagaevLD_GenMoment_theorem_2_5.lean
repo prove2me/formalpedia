@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_GenMoment_theorem_2_5
 -- name    : NagaevLD.GenMoment.theorem_2_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:17:47.303582+00:00
 -- url     : https://prove2.me/theorems/4ca0307f-2ab2-4f68-a6b5-0243546b2672

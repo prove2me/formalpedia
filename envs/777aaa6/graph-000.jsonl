@@ -680,7 +680,7 @@
 {"parent": "WeakGoldbach.three_odd_primes_ge_10pow27", "child": "WeakGoldbach.three_odd_primes_ge_exp3100", "via": ["solution"]}
 {"parent": "WeakGoldbach.verified_three_odd_primes_to_8875e30", "child": "WeakGoldbach.prime_in_4e18_window_to_8875e30", "via": ["solution"]}
 {"parent": "WeakGoldbach.verified_three_odd_primes_to_8875e30", "child": "WeakGoldbach.verified_two_odd_primes_to_4e18", "via": ["solution"]}
-{"parent": "YogeshwaranDM.hall_iff", "child": "YogeshwaranDM_CompleteMatching", "via": ["statement"]}
+{"parent": "YogeshwaranDM.hall_iff", "child": "YogeshwaranDM_CompleteMatching", "via": ["solution", "statement"]}
 {"parent": "almost_surjective_of_insert_index", "child": "OAI429_FixedPointTheorems_cubical_sperner_prep", "via": ["solution", "statement"]}
 {"parent": "almost_surjective_of_insert_index", "child": "mme_omega", "via": ["solution", "statement"]}
 {"parent": "bernstein_unit", "child": "cheb_compare_outer", "via": ["solution"]}
@@ -1634,11 +1634,11 @@
 {"parent": "mme_CW_q6_explicit_behrend_half_modulus_strong_witness", "child": "mme_CW_q6_half_modulus_behrend_density_eventually_ge_eighty", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_explicit_behrend_half_modulus_strong_witness", "child": "mme_behrend_explicit_threeAP_free", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_finite_affine_hash_isolated_residual_mass", "child": "mme_3AP_free_no_collision", "via": ["statement"]}
-{"parent": "mme_CW_q6_finite_affine_hash_isolated_residual_mass", "child": "mme_CW_q6_exact_address_incidence", "via": ["statement"]}
+{"parent": "mme_CW_q6_finite_affine_hash_isolated_residual_mass", "child": "mme_CW_q6_exact_address_incidence", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_finite_affine_hash_isolated_residual_mass", "child": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "via": ["solution"]}
 {"parent": "mme_CW_q6_finite_affine_hash_isolated_residual_mass", "child": "mme_finset_prune_two_mode_collisions_isolated", "via": ["solution"]}
 {"parent": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "child": "mme_3AP_free_no_collision", "via": ["statement"]}
-{"parent": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "child": "mme_CW_q6_exact_address_incidence", "via": ["statement"]}
+{"parent": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "child": "mme_CW_q6_exact_address_incidence", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "child": "mme_CW_q6_primary_hash_bucket_collision_budget_averaging", "via": ["solution"]}
 {"parent": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "child": "mme_CW_q6_primary_hash_bucket_structure", "via": ["solution"]}
 {"parent": "mme_CW_q6_finite_hash_isolated_lower_bounded_fibers", "child": "mme_3AP_free_no_collision", "via": ["statement"]}
@@ -1737,7 +1737,7 @@
 {"parent": "mme_CW_q6_primary_hash_bucket", "child": "mme_CW_q6_doubled_hash_arithmetic", "via": ["statement"]}
 {"parent": "mme_CW_q6_primary_hash_bucket", "child": "mme_CW_q6_exact_address_incidence", "via": ["statement"]}
 {"parent": "mme_CW_q6_primary_hash_bucket_collision_budget_averaging", "child": "mme_3AP_free_no_collision", "via": ["statement"]}
-{"parent": "mme_CW_q6_primary_hash_bucket_collision_budget_averaging", "child": "mme_CW_q6_primary_hash_bucket", "via": ["statement"]}
+{"parent": "mme_CW_q6_primary_hash_bucket_collision_budget_averaging", "child": "mme_CW_q6_primary_hash_bucket", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_primary_hash_bucket_fixed_z_membership", "child": "mme_CW_q6_doubled_hash_AP_identity", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_primary_hash_bucket_fixed_z_membership", "child": "mme_CW_q6_primary_hash_bucket", "via": ["solution", "statement"]}
 {"parent": "mme_CW_q6_primary_hash_bucket_structure", "child": "mme_CW_q6_hash_bucket_coherence", "via": ["solution", "statement"]}
@@ -2033,9 +2033,9 @@
 {"parent": "mme_CW_square_tensor_eq_sum_literal_terms", "child": "mme_CWTensor_eq_sum_literal_terms", "via": ["solution"]}
 {"parent": "mme_CW_square_tensor_eq_sum_literal_terms", "child": "mme_CW_fourth_literal_support_words", "via": ["solution", "statement"]}
 {"parent": "mme_CW_subrank_capacity_lower", "child": "mme_CW_laser_witness", "via": ["solution"]}
-{"parent": "mme_CW_subrank_capacity_lower", "child": "mme_CW_tensor", "via": ["statement"]}
+{"parent": "mme_CW_subrank_capacity_lower", "child": "mme_CW_tensor", "via": ["solution", "statement"]}
 {"parent": "mme_CW_subrank_capacity_lower", "child": "mme_laser_value_lower_bound", "via": ["solution"]}
-{"parent": "mme_CW_subrank_capacity_lower", "child": "mme_subrank_capacity", "via": ["statement"]}
+{"parent": "mme_CW_subrank_capacity_lower", "child": "mme_subrank_capacity", "via": ["solution", "statement"]}
 {"parent": "mme_CW_subrank_capacity_poly_lower", "child": "mme_CW_laser_witness", "via": ["solution"]}
 {"parent": "mme_CW_subrank_capacity_poly_lower", "child": "mme_CW_laser_witness_wz", "via": ["solution"]}
 {"parent": "mme_CW_subrank_capacity_poly_lower", "child": "mme_CW_tensor", "via": ["solution", "statement"]}
@@ -7325,14 +7325,14 @@
 {"parent": "mme_hash_extraction_rate_of_log_bounds", "child": "mme_hash_extraction_certificate", "via": ["solution", "statement"]}
 {"parent": "mme_hash_selected_bound_log", "child": "mme_recursive_profiled_CW_data", "via": ["solution", "statement"]}
 {"parent": "mme_hash_selected_bound_log", "child": "mme_recursive_profiled_CW_exact_step", "via": ["solution", "statement"]}
-{"parent": "mme_independent_blocks_form_direct_sum_restrict_aligned", "child": "mme_block_subtensor", "via": ["statement"]}
-{"parent": "mme_independent_blocks_form_direct_sum_restrict_aligned", "child": "mme_tensor_rank", "via": ["statement"]}
+{"parent": "mme_independent_blocks_form_direct_sum_restrict_aligned", "child": "mme_block_subtensor", "via": ["solution", "statement"]}
+{"parent": "mme_independent_blocks_form_direct_sum_restrict_aligned", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
 {"parent": "mme_independent_blocks_form_direct_sum_restrict_enum", "child": "mme_block_subtensor", "via": ["solution", "statement"]}
 {"parent": "mme_independent_blocks_form_direct_sum_restrict_enum", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
 {"parent": "mme_independent_blocks_form_direct_sum_restrict_enum_genDim", "child": "mme_block_subtensor", "via": ["solution", "statement"]}
 {"parent": "mme_independent_blocks_form_direct_sum_restrict_enum_genDim", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
-{"parent": "mme_independent_blocks_form_direct_sum_restrict_refined", "child": "mme_block_subtensor", "via": ["statement"]}
-{"parent": "mme_independent_blocks_form_direct_sum_restrict_refined", "child": "mme_tensor_rank", "via": ["statement"]}
+{"parent": "mme_independent_blocks_form_direct_sum_restrict_refined", "child": "mme_block_subtensor", "via": ["solution", "statement"]}
+{"parent": "mme_independent_blocks_form_direct_sum_restrict_refined", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
 {"parent": "mme_induced_graded_address_blocks_restrict", "child": "mme_induced_word_zeroing", "via": ["solution", "statement"]}
 {"parent": "mme_induced_mode_choice_certificate", "child": "mme_tensor", "via": ["statement"]}
 {"parent": "mme_induced_mode_choice_certificate_basisZAllowed_descent", "child": "mme_basisZAllowed_blockSubtensor_inclusion_tensor", "via": ["solution", "statement"]}
@@ -7529,17 +7529,17 @@
 {"parent": "mme_laser_value_lower_bound", "child": "mme_laser_pattern", "via": ["solution", "statement"]}
 {"parent": "mme_laser_value_lower_bound", "child": "mme_salem_spencer_eps_form", "via": ["solution"]}
 {"parent": "mme_laser_value_lower_bound", "child": "mme_subrank_capacity", "via": ["solution", "statement"]}
-{"parent": "mme_laser_value_lower_bound_wz", "child": "mme_laser_pattern", "via": ["statement"]}
-{"parent": "mme_laser_value_lower_bound_wz", "child": "mme_laser_value_formula_wz", "via": ["statement"]}
-{"parent": "mme_laser_value_lower_bound_wz", "child": "mme_subrank_capacity", "via": ["statement"]}
+{"parent": "mme_laser_value_lower_bound_wz", "child": "mme_laser_pattern", "via": ["solution", "statement"]}
+{"parent": "mme_laser_value_lower_bound_wz", "child": "mme_laser_value_formula_wz", "via": ["solution", "statement"]}
+{"parent": "mme_laser_value_lower_bound_wz", "child": "mme_subrank_capacity", "via": ["solution", "statement"]}
 {"parent": "mme_laser_value_lower_bound_wz_poly", "child": "mme_laser_pattern", "via": ["solution", "statement"]}
 {"parent": "mme_laser_value_lower_bound_wz_poly", "child": "mme_laser_value_formula_wz", "via": ["solution", "statement"]}
 {"parent": "mme_laser_value_lower_bound_wz_poly", "child": "mme_laser_witness_at_prob_dist", "via": ["solution"]}
 {"parent": "mme_laser_value_lower_bound_wz_poly", "child": "mme_subrank_capacity_poly", "via": ["solution", "statement"]}
-{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_laser_pattern", "via": ["statement"]}
-{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_subrank_capacity_poly", "via": ["statement"]}
-{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_tensor_rank", "via": ["statement"]}
-{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_tensor_type_grading", "via": ["statement"]}
+{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_laser_pattern", "via": ["solution", "statement"]}
+{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_subrank_capacity_poly", "via": ["solution", "statement"]}
+{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_tensor_rank", "via": ["solution", "statement"]}
+{"parent": "mme_laser_witness_at_prob_dist", "child": "mme_tensor_type_grading", "via": ["solution", "statement"]}
 {"parent": "mme_little_endian_MM_coordinate_router", "child": "mme_little_endian_kron_coordinate", "via": ["statement"]}
 {"parent": "mme_little_endian_MM_coordinate_router", "child": "mme_tensor_rank", "via": ["statement"]}
 {"parent": "mme_little_endian_MM_kronPow_tensor", "child": "mme_little_endian_MM_kron_tensor", "via": ["solution"]}
@@ -7893,8 +7893,8 @@
 {"parent": "mme_omega_le_225", "child": "MMEBridge.matMulExp_le_exactRankExponent", "via": ["solution"]}
 {"parent": "mme_omega_le_225", "child": "OAI.MatrixMultiplication.AuxiliarySeparation.exactRankExponent_le_nine_quarters_allFields", "via": ["solution"]}
 {"parent": "mme_omega_le_225", "child": "mme_omega", "via": ["solution", "statement"]}
-{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_omega_strassen", "via": ["statement"]}
-{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_subrank_capacity", "via": ["statement"]}
+{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_omega_strassen", "via": ["solution", "statement"]}
+{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_subrank_capacity", "via": ["solution", "statement"]}
 {"parent": "mme_omega_le_of_subrank_capacity_poly", "child": "mme_asymptotic_sum_inequality", "via": ["solution"]}
 {"parent": "mme_omega_le_of_subrank_capacity_poly", "child": "mme_borderRank_kronPow_le", "via": ["solution"]}
 {"parent": "mme_omega_le_of_subrank_capacity_poly", "child": "mme_degenerates_asymptoticRank_le", "via": ["solution"]}
@@ -22965,9 +22965,9 @@
 {"parent": "mme_stothers_phi125_cyclic_value", "child": "mme_stothers_phi125_cyclic_cofinal_finite_extraction", "via": ["solution"]}
 {"parent": "mme_stothers_phi125_distinct_mode_code_difference_has_nonzero_coefficient", "child": "mme_stothers_phi125_cyclic_hash_data", "via": ["statement"]}
 {"parent": "mme_stothers_phi125_distinct_mode_code_difference_has_nonzero_coefficient", "child": "mme_stothers_phi125_cyclic_hash_mode_code_injective", "via": ["statement"]}
-{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_stothers_fourth_data", "via": ["statement"]}
-{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_stothers_phi125_profile_data", "via": ["statement"]}
-{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_tau_value", "via": ["statement"]}
+{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_stothers_fourth_data", "via": ["solution", "statement"]}
+{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_stothers_phi125_profile_data", "via": ["solution", "statement"]}
+{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_tau_value", "via": ["solution", "statement"]}
 {"parent": "mme_stothers_phi125_exact_iff_marginal_profile", "child": "mme_stothers_phi125_profile_data", "via": ["solution", "statement"]}
 {"parent": "mme_stothers_phi125_exact_profile_card", "child": "mme_fintype_prescribed_fiber_function_card", "via": ["solution"]}
 {"parent": "mme_stothers_phi125_exact_profile_card", "child": "mme_stothers_phi125_profile_data", "via": ["solution", "statement"]}
@@ -23942,3 +23942,26 @@
 {"parent": "zeta_ne_zero_of_strip_of_two_lt_abs_im", "child": "zeta_ne_zero_of_strip_of_two_lt_im", "via": ["solution"]}
 {"parent": "zeta_ne_zero_of_strip_of_two_lt_im", "child": "zeta_ne_zero_of_mem_strip_of_abs_im_le_five", "via": ["solution"]}
 {"parent": "zeta_ne_zero_of_strip_of_two_lt_im", "child": "zeta_ne_zero_of_strip_of_five_lt_im", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_even_power_finite_extractions_below_raw", "child": "mme_cyclicSymmetrization_mono_restrict", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_even_power_finite_extractions_below_raw", "child": "mme_MMObj_cyclicSymmetrization_iso", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_even_power_finite_extractions_below_raw", "child": "mme_tensor_bridge", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_even_power_finite_extractions_below_raw", "child": "mme_CW_coupled_low_block_restrict", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_even_power_finite_extractions_below_raw", "child": "mme_CW_q6_coupled_raw_cyclic_value_below", "via": ["solution"]}
+{"parent": "mme_CW_q6_coupled_even_power_finite_extractions_below_raw", "child": "mme_HasTauValueAtLeast_multiple_extractions_below", "via": ["solution"]}
+{"parent": "mme_CW_q6_finite_affine_hash_isolated_residual_mass", "child": "mme_CW_q6_primary_hash_bucket", "via": ["solution"]}
+{"parent": "mme_CW_q6_finite_affine_hash_isolated_residual_mass", "child": "mme_CW_q6_doubled_hash_arithmetic", "via": ["solution"]}
+{"parent": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "child": "mme_CW_q6_primary_hash_bucket", "via": ["solution"]}
+{"parent": "mme_CW_q6_finite_affine_hash_raw_collision_budget", "child": "mme_CW_q6_doubled_hash_arithmetic", "via": ["solution"]}
+{"parent": "mme_CW_q6_primary_hash_bucket_collision_budget_averaging", "child": "mme_CW_q6_doubled_hash_arithmetic", "via": ["solution"]}
+{"parent": "mme_CW_q6_primary_hash_bucket_collision_budget_averaging", "child": "mme_CW_q6_exact_address_incidence", "via": ["solution"]}
+{"parent": "mme_CW_subrank_capacity_lower", "child": "mme_tau_value_le_of_asymptoticRank_le", "via": ["solution"]}
+{"parent": "mme_CW_subrank_capacity_lower", "child": "mme_tensor_bridge", "via": ["solution"]}
+{"parent": "mme_CW_subrank_capacity_lower", "child": "mme_HasTauValueAtLeast_mono_tau", "via": ["solution"]}
+{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_duality", "via": ["solution"]}
+{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_rank_bridge", "via": ["solution"]}
+{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_tensor_bridge", "via": ["solution"]}
+{"parent": "mme_omega_le_of_subrank_capacity", "child": "mme_omega_pos", "via": ["solution"]}
+{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_duality", "via": ["solution"]}
+{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_rank_bridge", "via": ["solution"]}
+{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_tensor_bridge", "via": ["solution"]}
+{"parent": "mme_stothers_phi125_edge_tensor_realization", "child": "mme_tensor_quotient", "via": ["solution"]}

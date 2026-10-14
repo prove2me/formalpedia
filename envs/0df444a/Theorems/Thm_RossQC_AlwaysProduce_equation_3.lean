@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossQC_AlwaysProduce_equation_3
 -- name    : RossQC.AlwaysProduce.equation_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:41:07.894329+00:00
 -- url     : https://prove2.me/theorems/43097963-acb4-4d7d-8ebf-8553f37ac9f6

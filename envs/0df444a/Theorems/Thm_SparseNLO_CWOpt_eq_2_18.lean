@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_CWOpt_eq_2_18
 -- name    : SparseNLO.CWOpt.eq_2_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:12:25.304882+00:00
 -- url     : https://prove2.me/theorems/e11d2523-b98f-453b-89f6-e016d6c38c48

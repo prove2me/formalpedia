@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clPaidIncrement_add
 -- name    : ActuarialValuation.clPaidIncrement_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:25:27.279982+00:00
 -- url     : https://prove2.me/theorems/e11fba0c-0ca0-4f56-8e6e-f739128aba37

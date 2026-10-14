@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_preparedModularGeneralDetector_late_ambient_bounds
 -- name    : OAI.Erdos3.VectorPolynomial.preparedModularGeneralDetector_late_ambient_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T12:54:16.959717+00:00
 -- url     : https://prove2.me/theorems/0a098bd2-1c62-4560-afec-880145ae8a41

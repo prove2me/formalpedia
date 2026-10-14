@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoritaEquiv_thm52_not_morita
 -- name    : MoritaEquiv.thm52_not_morita
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:00:55.658592+00:00
 -- url     : https://prove2.me/theorems/f1aba8fa-ce68-444b-aa4a-9fd04abb094f

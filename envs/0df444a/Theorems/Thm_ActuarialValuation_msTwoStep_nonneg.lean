@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msTwoStep_nonneg
 -- name    : ActuarialValuation.msTwoStep_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:56:20.116104+00:00
 -- url     : https://prove2.me/theorems/50bfe144-4f30-44cb-9804-d6ef2a82663b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svConditional_balance
 -- name    : ActuarialValuation.svConditional_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:38.151982+00:00
 -- url     : https://prove2.me/theorems/5cf2fca2-1f4b-4bdc-8a66-52ffc49b746e

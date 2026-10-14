@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_DualGreedy_weak_duality
 -- name    : WagelmansELS.DualGreedy.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:56:16.646224+00:00
 -- url     : https://prove2.me/theorems/778a292f-13f5-4f49-8513-ef4e02a81bc1

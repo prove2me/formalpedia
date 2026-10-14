@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ApproxCliqueWidth_Certificate_rwd_le_cwd_le
 -- name    : ApproxCliqueWidth.Certificate.rwd_le_cwd_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T15:35:14.32154+00:00
 -- url     : https://prove2.me/theorems/f5be0766-81c9-4871-88af-e6d313948e03

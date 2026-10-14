@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulProfitNPV_add
 -- name    : ActuarialValuation.ulProfitNPV_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:18.458898+00:00
 -- url     : https://prove2.me/theorems/a752445b-4e7e-4256-9daa-381730dc6cc5

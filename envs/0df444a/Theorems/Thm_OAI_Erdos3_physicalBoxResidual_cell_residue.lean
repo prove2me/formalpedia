@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_physicalBoxResidual_cell_residue
 -- name    : OAI.Erdos3.physicalBoxResidual_cell_residue
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T18:10:24.461672+00:00
 -- url     : https://prove2.me/theorems/5b6406e3-f9dc-461b-9e7a-df6f6203cf52

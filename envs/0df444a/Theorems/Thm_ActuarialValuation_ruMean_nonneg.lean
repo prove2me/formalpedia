@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruMean_nonneg
 -- name    : ActuarialValuation.ruMean_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:29.429869+00:00
 -- url     : https://prove2.me/theorems/85f70322-0242-45c8-a7d4-e38fcd5e455d

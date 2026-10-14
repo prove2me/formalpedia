@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9RequiredContribution_no_future
 -- name    : ActuarialValuation.pen9RequiredContribution_no_future
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:11.837886+00:00
 -- url     : https://prove2.me/theorems/062160e5-8ead-4816-a48b-8855a879554e

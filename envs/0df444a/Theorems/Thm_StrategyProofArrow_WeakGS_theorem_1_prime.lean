@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_WeakGS_theorem_1_prime
 -- name    : StrategyProofArrow.WeakGS.theorem_1_prime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:20.403927+00:00
 -- url     : https://prove2.me/theorems/8d3d1d28-37cf-43bd-ac01-0db21280589c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdCouponPV_succ
 -- name    : ActuarialValuation.bdCouponPV_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:40.286759+00:00
 -- url     : https://prove2.me/theorems/aac559be-026b-4d41-bbc8-c5e8a76864fc

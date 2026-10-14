@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Monotone_prop5_14_multiplicative_assumptions
 -- name    : BertsekasShreve.Monotone.prop5_14_multiplicative_assumptions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:20:20.611678+00:00
 -- url     : https://prove2.me/theorems/440de10b-9062-46a4-be4e-e0d6bd89b974

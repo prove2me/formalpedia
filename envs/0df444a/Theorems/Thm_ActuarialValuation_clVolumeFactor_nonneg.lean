@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clVolumeFactor_nonneg
 -- name    : ActuarialValuation.clVolumeFactor_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:28:20.836008+00:00
 -- url     : https://prove2.me/theorems/7286a202-d58e-4e5c-8ee1-3e69402517b8

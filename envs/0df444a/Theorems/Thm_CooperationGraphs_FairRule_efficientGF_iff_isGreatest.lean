@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_efficientGF_iff_isGreatest
 -- name    : CooperationGraphs.FairRule.efficientGF_iff_isGreatest
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:01.010993+00:00
 -- url     : https://prove2.me/theorems/0dc92357-8f87-4127-b9d6-1baf53d8c76a

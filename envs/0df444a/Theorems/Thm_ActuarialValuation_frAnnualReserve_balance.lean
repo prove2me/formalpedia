@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frAnnualReserve_balance
 -- name    : ActuarialValuation.frAnnualReserve_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:25:29.560373+00:00
 -- url     : https://prove2.me/theorems/1d7a0531-99f9-47d0-bc8c-330c97f8ba01

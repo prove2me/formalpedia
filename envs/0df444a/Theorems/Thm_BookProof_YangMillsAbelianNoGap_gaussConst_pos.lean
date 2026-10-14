@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_gaussConst_pos
 -- name    : BookProof.YangMillsAbelianNoGap.gaussConst_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:34:47.862266+00:00
 -- url     : https://prove2.me/theorems/ad882a53-f5fa-4be4-84e8-5e025388e182

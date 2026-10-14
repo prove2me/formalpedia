@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesGaugeY2_genY2_uField2_perturbed_ne_zero
 -- name    : BookProof.NavierStokesGaugeY2.genY2_uField2_perturbed_ne_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:44:34.571435+00:00
 -- url     : https://prove2.me/theorems/302f5617-4e22-4bcb-acb6-7e8d7998ffeb

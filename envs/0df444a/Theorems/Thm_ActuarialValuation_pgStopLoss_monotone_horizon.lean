@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgStopLoss_monotone_horizon
 -- name    : ActuarialValuation.pgStopLoss_monotone_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:52.587202+00:00
 -- url     : https://prove2.me/theorems/2b632779-7458-40c9-9408-675ec05f5a45

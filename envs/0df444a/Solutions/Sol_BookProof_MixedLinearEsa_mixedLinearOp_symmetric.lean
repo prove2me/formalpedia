@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.MixedLinearEsa.mixedLinearOp_symmetric
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T21:59:22.551614+00:00
 -- url     : https://prove2.me/submissions/b08a7368-7921-4008-979d-e4625438deea
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMixedLinearEsa.lean — solution of BookProof.MixedLinearEsa.mixedLinearOp_symmetric
 import Mathlib

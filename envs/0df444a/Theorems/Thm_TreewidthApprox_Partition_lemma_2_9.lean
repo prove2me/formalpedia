@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Partition_lemma_2_9
 -- name    : TreewidthApprox.Partition.lemma_2_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:29.53478+00:00
 -- url     : https://prove2.me/theorems/1a635182-8a89-449e-beb3-98ef5e835c8c

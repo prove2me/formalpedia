@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulUnitsBidValue_nonneg
 -- name    : ActuarialValuation.ulUnitsBidValue_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:35.329565+00:00
 -- url     : https://prove2.me/theorems/516d7b93-a3ae-4ddb-ad44-d171ca2dde62

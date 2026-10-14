@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_TardyJobs_dp3_correct
 -- name    : BurnInBatch.TardyJobs.dp3_correct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:39:30.84805+00:00
 -- url     : https://prove2.me/theorems/c6d4f792-a9b6-4e40-b15a-6bd53eb0b8e2

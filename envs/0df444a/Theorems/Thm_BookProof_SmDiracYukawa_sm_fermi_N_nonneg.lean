@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_sm_fermi_N_nonneg
 -- name    : BookProof.SmDiracYukawa.sm_fermi_N_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:53:01.92879+00:00
 -- url     : https://prove2.me/theorems/59d51c55-9591-467d-b257-22974e4f1a84

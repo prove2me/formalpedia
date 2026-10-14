@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_Coherent_represents_singleton
 -- name    : BookProof.ChapterDutchBook.Coherent.represents_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:10:01.227682+00:00
 -- url     : https://prove2.me/theorems/dfd7da11-7533-49db-87c6-a64b851a4291

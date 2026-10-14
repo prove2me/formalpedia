@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_UCB_risk_antitone
 -- name    : RiskControl.UCB.risk_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:35:49.095748+00:00
 -- url     : https://prove2.me/theorems/9c0a7770-20b8-4e9c-bf33-2c64fba7c703

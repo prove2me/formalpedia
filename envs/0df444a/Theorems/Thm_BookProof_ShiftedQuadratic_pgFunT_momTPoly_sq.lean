@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_pgFunT_momTPoly_sq
 -- name    : BookProof.ShiftedQuadratic.pgFunT_momTPoly_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:43:57.982266+00:00
 -- url     : https://prove2.me/theorems/672ac10a-2827-488b-b397-a4397649b055

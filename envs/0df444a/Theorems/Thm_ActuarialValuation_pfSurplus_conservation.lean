@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfSurplus_conservation
 -- name    : ActuarialValuation.pfSurplus_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:03.446619+00:00
 -- url     : https://prove2.me/theorems/12638a4d-f25d-4b47-a8b8-051aa30b8f5e

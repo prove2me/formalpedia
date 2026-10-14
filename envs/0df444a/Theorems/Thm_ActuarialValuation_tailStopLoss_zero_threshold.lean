@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailStopLoss_zero_threshold
 -- name    : ActuarialValuation.tailStopLoss_zero_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:48:16.2299+00:00
 -- url     : https://prove2.me/theorems/5b7c41da-2018-4e7d-8a75-3f236a839c18

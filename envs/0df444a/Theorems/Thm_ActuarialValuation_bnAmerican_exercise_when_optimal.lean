@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnAmerican_exercise_when_optimal
 -- name    : ActuarialValuation.bnAmerican_exercise_when_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:38.472846+00:00
 -- url     : https://prove2.me/theorems/c26e99b2-7427-4ef6-9b88-a3bcab57d1db

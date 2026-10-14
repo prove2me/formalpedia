@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailCDF_nonneg
 -- name    : ActuarialValuation.tailCDF_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:47:10.962819+00:00
 -- url     : https://prove2.me/theorems/ec6766ce-274e-4881-8eb4-d1c3d9fd1026

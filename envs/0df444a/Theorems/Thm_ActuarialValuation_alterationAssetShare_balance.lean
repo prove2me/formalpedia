@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationAssetShare_balance
 -- name    : ActuarialValuation.alterationAssetShare_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:14:54.196192+00:00
 -- url     : https://prove2.me/theorems/addaafe2-68e0-49f7-a3b7-77f168263bae

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoApprox_vertex_support_pseudoforest
 -- name    : UnrelatedSched.TwoApprox.vertex_support_pseudoforest
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:16:45.075755+00:00
 -- url     : https://prove2.me/theorems/3b6fa3be-aab6-4c66-ae47-0456cc619728

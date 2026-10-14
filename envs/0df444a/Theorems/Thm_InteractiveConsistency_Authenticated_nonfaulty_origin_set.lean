@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_Authenticated_nonfaulty_origin_set
 -- name    : InteractiveConsistency.Authenticated.nonfaulty_origin_set
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:40:06.934254+00:00
 -- url     : https://prove2.me/theorems/02e17596-2567-430d-9719-5bd314af173f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationReserve_monotone_benefits
 -- name    : ActuarialValuation.alterationReserve_monotone_benefits
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:07:54.824709+00:00
 -- url     : https://prove2.me/theorems/04baf46f-a440-41c3-91df-cbf2f4e559c7

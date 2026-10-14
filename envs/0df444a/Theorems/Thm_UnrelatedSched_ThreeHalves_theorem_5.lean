@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_ThreeHalves_theorem_5
 -- name    : UnrelatedSched.ThreeHalves.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:36:23.0757+00:00
 -- url     : https://prove2.me/theorems/6fc2b1c1-20a3-4aef-8ae2-5af3fd6de38a

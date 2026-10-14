@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_SEN_prop_7_1_1_average_cost_tail
 -- name    : SennottDP.SEN.prop_7_1_1_average_cost_tail
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T10:17:50.517007+00:00
 -- url     : https://prove2.me/theorems/4830f086-8825-4128-b720-655eed6a7466

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_yuleSimon_tail
 -- name    : ZipfLaw.yuleSimon_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:58.141217+00:00
 -- url     : https://prove2.me/theorems/2765d49b-7d9c-4669-a8fa-ff678ed2e2c1

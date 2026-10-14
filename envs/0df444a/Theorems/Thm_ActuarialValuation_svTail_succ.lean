@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svTail_succ
 -- name    : ActuarialValuation.svTail_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:05.165255+00:00
 -- url     : https://prove2.me/theorems/1ba1d785-c223-4cb4-815d-8effaa3d0156

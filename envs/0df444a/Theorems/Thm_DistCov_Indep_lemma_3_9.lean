@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Indep_lemma_3_9
 -- name    : DistCov.Indep.lemma_3_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:07.987012+00:00
 -- url     : https://prove2.me/theorems/64cf0376-eb3a-411e-ad27-4cb1a7343d2d

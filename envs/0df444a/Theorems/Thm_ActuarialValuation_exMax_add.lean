@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exMax_add
 -- name    : ActuarialValuation.exMax_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:50.863461+00:00
 -- url     : https://prove2.me/theorems/4c929254-8845-46f8-bf9f-a77cac42d5ed

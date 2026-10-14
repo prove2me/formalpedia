@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedPremium_add_time
 -- name    : ActuarialValuation.erExpectedPremium_add_time
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:51:40.107978+00:00
 -- url     : https://prove2.me/theorems/12ea4fd8-a7d8-44d0-b455-109d2266a3bd

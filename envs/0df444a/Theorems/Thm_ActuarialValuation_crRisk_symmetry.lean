@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_symmetry
 -- name    : ActuarialValuation.crRisk_symmetry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:25.492198+00:00
 -- url     : https://prove2.me/theorems/f4977b14-3b3a-412d-a920-03b089aac1d6

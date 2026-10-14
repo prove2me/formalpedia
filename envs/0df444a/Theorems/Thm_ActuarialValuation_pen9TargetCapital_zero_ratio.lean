@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9TargetCapital_zero_ratio
 -- name    : ActuarialValuation.pen9TargetCapital_zero_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:51.212437+00:00
 -- url     : https://prove2.me/theorems/302c31a5-2c25-445b-9457-3bf6a062fe99

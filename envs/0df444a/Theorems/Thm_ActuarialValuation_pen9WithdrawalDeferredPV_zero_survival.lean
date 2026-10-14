@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9WithdrawalDeferredPV_zero_survival
 -- name    : ActuarialValuation.pen9WithdrawalDeferredPV_zero_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:31.759984+00:00
 -- url     : https://prove2.me/theorems/e7dc0767-8533-438f-9a5c-1b1a2fdbb027

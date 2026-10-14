@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_mu_eq_integral_MR_sub_MC
 -- name    : MussaRosen.Mono.mu_eq_integral_MR_sub_MC
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:11:17.232259+00:00
 -- url     : https://prove2.me/theorems/1e4300b8-05df-44c1-84c2-4733c882d009

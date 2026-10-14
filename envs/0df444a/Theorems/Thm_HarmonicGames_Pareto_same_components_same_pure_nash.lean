@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_Pareto_same_components_same_pure_nash
 -- name    : HarmonicGames.Pareto.same_components_same_pure_nash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:17.305303+00:00
 -- url     : https://prove2.me/theorems/613db658-a2a1-4402-870e-bdf7015b295e

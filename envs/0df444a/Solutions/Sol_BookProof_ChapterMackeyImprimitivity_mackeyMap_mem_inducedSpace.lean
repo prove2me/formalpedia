@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterMackeyImprimitivity.mackeyMap_mem_inducedSpace
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:03:42.619886+00:00
 -- url     : https://prove2.me/submissions/392dcd34-bb0f-473f-b2ea-a893593fc146
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterMackeyImprimitivity.lean — solution of BookProof.ChapterMackeyImprimitivity.mackeyMap_mem_inducedSpace
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenStein_OneVar_theorem_1
 -- name    : ChenStein.OneVar.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:31:55.026968+00:00
 -- url     : https://prove2.me/theorems/c3d05764-8c11-4f4e-92d5-d0b8c192294f

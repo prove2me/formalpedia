@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9DeathServicePV_zero_death
 -- name    : ActuarialValuation.pen9DeathServicePV_zero_death
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:47.771039+00:00
 -- url     : https://prove2.me/theorems/b2412420-c050-40de-8677-ee89a30a9a8f

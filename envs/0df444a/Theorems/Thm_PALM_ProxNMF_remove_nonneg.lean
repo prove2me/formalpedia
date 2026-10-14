@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PALM_ProxNMF_remove_nonneg
 -- name    : PALM.ProxNMF.remove_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:08:49.303433+00:00
 -- url     : https://prove2.me/theorems/81b630d4-f747-497c-9b68-5888e387f98a

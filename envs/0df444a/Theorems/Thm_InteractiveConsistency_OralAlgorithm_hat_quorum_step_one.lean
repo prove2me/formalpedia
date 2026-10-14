@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_OralAlgorithm_hat_quorum_step_one
 -- name    : InteractiveConsistency.OralAlgorithm.hat_quorum_step_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:25.519772+00:00
 -- url     : https://prove2.me/theorems/f05f8b36-3900-43a3-b694-0a31755246d3

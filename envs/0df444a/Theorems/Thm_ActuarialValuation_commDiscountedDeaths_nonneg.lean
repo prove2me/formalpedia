@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commDiscountedDeaths_nonneg
 -- name    : ActuarialValuation.commDiscountedDeaths_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:27.220512+00:00
 -- url     : https://prove2.me/theorems/f4991b46-5b40-4968-a959-e8e63b5c408d

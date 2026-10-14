@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_BackwardForward_contraction
 -- name    : AntonelliBFSDE.BackwardForward.contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:28.34001+00:00
 -- url     : https://prove2.me/theorems/a52d3c4f-1fca-44da-a5e1-79fb51f4da04

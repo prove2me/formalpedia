@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_MartingaleNoise_robbinsMonro_A1_ae
 -- name    : StochApproxDyn.MartingaleNoise.robbinsMonro_A1_ae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:28:58.642982+00:00
 -- url     : https://prove2.me/theorems/d6aa6b11-341a-403a-9ece-34dc3d504393

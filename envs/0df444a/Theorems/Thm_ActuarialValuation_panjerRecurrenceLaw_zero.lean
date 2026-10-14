@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerRecurrenceLaw_zero
 -- name    : ActuarialValuation.panjerRecurrenceLaw_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:38:57.992983+00:00
 -- url     : https://prove2.me/theorems/6a14cb86-1fdb-44c3-9671-02f4ef8d87a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationReserve_zero_benefits
 -- name    : ActuarialValuation.alterationReserve_zero_benefits
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:06:11.662928+00:00
 -- url     : https://prove2.me/theorems/7f8cfdf9-e566-436f-a673-4d531830ba56

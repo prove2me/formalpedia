@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulTypeB_mortality_cost_nonnegative
 -- name    : ActuarialValuation.ulTypeB_mortality_cost_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:28.216086+00:00
 -- url     : https://prove2.me/theorems/6d7c89e3-98ae-4115-a4f6-93ebdeb34027

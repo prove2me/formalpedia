@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAmortisation_clears
 -- name    : ActuarialValuation.pfAmortisation_clears
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:39.419196+00:00
 -- url     : https://prove2.me/theorems/563bade0-6e87-40a7-937d-8fb37507e7c6

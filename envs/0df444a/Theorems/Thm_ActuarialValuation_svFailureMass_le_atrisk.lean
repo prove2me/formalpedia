@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svFailureMass_le_atrisk
 -- name    : ActuarialValuation.svFailureMass_le_atrisk
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:15.508312+00:00
 -- url     : https://prove2.me/theorems/ed57bb98-b041-44ed-9bd1-6913140b2e4c

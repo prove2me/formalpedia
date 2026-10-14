@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_highestWeight_nat
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.highestWeight_nat
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:51:43.371731+00:00
 -- url     : https://prove2.me/theorems/8479927b-4ea8-4c4d-adcc-58f1ffee3979

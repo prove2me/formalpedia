@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRatingExpectedPay_add
 -- name    : ActuarialValuation.crRatingExpectedPay_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:31.441903+00:00
 -- url     : https://prove2.me/theorems/43bf1c5d-ea9a-46f9-babd-079f53aaef26

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_ImperfectInfo_lemma_10_1
 -- name    : BertsekasShreve.ImperfectInfo.lemma_10_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-05T06:41:33.088412+00:00
 -- url     : https://prove2.me/theorems/5c73bd50-7af1-4aa7-96b2-9c7b86eaa3be

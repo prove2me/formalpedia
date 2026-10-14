@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroMatrixConc_Sampling_summand_bound
 -- name    : IntroMatrixConc.Sampling.summand_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:39.688915+00:00
 -- url     : https://prove2.me/theorems/85f7bd35-2f29-413d-87d0-e7c90c67c2c7

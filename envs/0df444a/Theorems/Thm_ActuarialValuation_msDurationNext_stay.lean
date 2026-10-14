@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msDurationNext_stay
 -- name    : ActuarialValuation.msDurationNext_stay
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:35.632985+00:00
 -- url     : https://prove2.me/theorems/59ac090c-2e1b-45c2-917f-4c2411b39940

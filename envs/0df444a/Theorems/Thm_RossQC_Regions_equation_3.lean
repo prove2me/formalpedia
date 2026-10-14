@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossQC_Regions_equation_3
 -- name    : RossQC.Regions.equation_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:22:32.593875+00:00
 -- url     : https://prove2.me/theorems/b2710fb2-82d2-467a-ab72-5476e32715f9

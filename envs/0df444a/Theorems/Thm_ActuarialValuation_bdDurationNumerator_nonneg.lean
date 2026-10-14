@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdDurationNumerator_nonneg
 -- name    : ActuarialValuation.bdDurationNumerator_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:35.812771+00:00
 -- url     : https://prove2.me/theorems/a38ef3ae-f21c-46a3-8038-d3a97c26615e

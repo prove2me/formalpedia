@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_numerator_monotone
 -- name    : AssortSearch.MNLQC.numerator_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:37.989973+00:00
 -- url     : https://prove2.me/theorems/6c9a1ef8-a148-4943-86e4-5062f17abd22

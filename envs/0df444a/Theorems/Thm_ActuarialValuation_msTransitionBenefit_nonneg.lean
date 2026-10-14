@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msTransitionBenefit_nonneg
 -- name    : ActuarialValuation.msTransitionBenefit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:58:08.205586+00:00
 -- url     : https://prove2.me/theorems/6dd9027a-b439-46b7-8f43-d5caf600e380

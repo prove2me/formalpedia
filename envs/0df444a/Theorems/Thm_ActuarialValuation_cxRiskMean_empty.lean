@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRiskMean_empty
 -- name    : ActuarialValuation.cxRiskMean_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:17:24.434179+00:00
 -- url     : https://prove2.me/theorems/8c91a1cf-76b3-48c5-aadf-fb59f3539985

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPGF_one_mass
 -- name    : ActuarialValuation.cxPGF_one_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:54:15.762985+00:00
 -- url     : https://prove2.me/theorems/c59fb7c5-e629-4b64-acec-5e5f62a56c0e

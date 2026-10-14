@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_LowerBound_clear_step
 -- name    : NagaevLD.LowerBound.clear_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:18:25.038671+00:00
 -- url     : https://prove2.me/theorems/0c84da3b-1903-4426-9b87-6a36a2ed7922

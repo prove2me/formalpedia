@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frPremiumPV_balance
 -- name    : ActuarialValuation.frPremiumPV_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:24:06.652544+00:00
 -- url     : https://prove2.me/theorems/368dccf5-c3a3-489f-94cc-6e281d85922c

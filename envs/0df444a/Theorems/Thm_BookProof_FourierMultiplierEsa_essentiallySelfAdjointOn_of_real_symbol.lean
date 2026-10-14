@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_essentiallySelfAdjointOn_of_real_symbol
 -- name    : BookProof.FourierMultiplierEsa.essentiallySelfAdjointOn_of_real_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:22:42.504897+00:00
 -- url     : https://prove2.me/theorems/72e6ad06-d868-4431-a164-552b8d177044

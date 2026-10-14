@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvTerm_within_cover
 -- name    : ActuarialValuation.pvTerm_within_cover
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:56.10516+00:00
 -- url     : https://prove2.me/theorems/b5f74e71-37c8-4d4b-9ea8-6ddc0c9d57ab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_exists_retained_epoch_from_records
 -- name    : OAI.Erdos3.exists_retained_epoch_from_records
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T14:45:49.725788+00:00
 -- url     : https://prove2.me/theorems/cb20fc91-16bd-484d-8f41-8971d90480d0

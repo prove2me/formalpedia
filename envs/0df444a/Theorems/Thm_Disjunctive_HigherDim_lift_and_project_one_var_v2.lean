@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_HigherDim_lift_and_project_one_var_v2
 -- name    : Disjunctive.HigherDim.lift_and_project_one_var_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:06.584719+00:00
 -- url     : https://prove2.me/theorems/6254dfdf-81c7-428d-9146-2b58e00a61ad

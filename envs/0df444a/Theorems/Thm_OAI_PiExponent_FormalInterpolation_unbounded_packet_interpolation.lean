@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_unbounded_packet_interpolation
 -- name    : OAI.PiExponent.FormalInterpolation.unbounded_packet_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T04:49:28.767121+00:00
 -- url     : https://prove2.me/theorems/77135f94-b700-497a-9598-1304d5238120

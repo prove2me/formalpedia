@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_Empirical_expected_draws_split
 -- name    : CappeKLUCB.Empirical.expected_draws_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:08:25.240915+00:00
 -- url     : https://prove2.me/theorems/28b61470-833b-44a0-9978-5fd842757333

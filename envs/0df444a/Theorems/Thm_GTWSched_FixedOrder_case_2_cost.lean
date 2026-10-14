@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_FixedOrder_case_2_cost
 -- name    : GTWSched.FixedOrder.case_2_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:39:58.036348+00:00
 -- url     : https://prove2.me/theorems/93453e9f-714a-42ac-a733-205896f5ee25

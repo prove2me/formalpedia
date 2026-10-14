@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coRectangle_blend
 -- name    : ActuarialValuation.coRectangle_blend
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:43.926783+00:00
 -- url     : https://prove2.me/theorems/55c4495c-55f3-4bf0-8433-c59c50ec8609

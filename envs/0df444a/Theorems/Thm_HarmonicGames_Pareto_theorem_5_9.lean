@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarmonicGames_Pareto_theorem_5_9
 -- name    : HarmonicGames.Pareto.theorem_5_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T06:47:15.201007+00:00
 -- url     : https://prove2.me/theorems/1c122f98-5637-41c9-8fec-6c100c842502

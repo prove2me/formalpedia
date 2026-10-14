@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrDiversificationSquared_zero_first
 -- name    : ActuarialValuation.scrDiversificationSquared_zero_first
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:30.835321+00:00
 -- url     : https://prove2.me/theorems/c295a4a7-6e77-446c-b229-04a84e7c248a

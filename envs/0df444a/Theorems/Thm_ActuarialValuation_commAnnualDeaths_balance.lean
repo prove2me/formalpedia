@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commAnnualDeaths_balance
 -- name    : ActuarialValuation.commAnnualDeaths_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:14.750282+00:00
 -- url     : https://prove2.me/theorems/d28f7b82-ffa7-4122-a1dc-4ed4c06fb6a9

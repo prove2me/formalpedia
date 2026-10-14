@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruStoppedIncrement_mean_balance
 -- name    : ActuarialValuation.ruStoppedIncrement_mean_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:58.266305+00:00
 -- url     : https://prove2.me/theorems/5866b4b7-9385-4372-aeb1-43ff12babf7a

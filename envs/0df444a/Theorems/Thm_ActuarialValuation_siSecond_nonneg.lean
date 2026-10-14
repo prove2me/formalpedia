@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siSecond_nonneg
 -- name    : ActuarialValuation.siSecond_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:22.057213+00:00
 -- url     : https://prove2.me/theorems/1c38d120-b7bb-44bb-9580-59a362fa66d3

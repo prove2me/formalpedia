@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crEquityPayoff_zero_if_default
 -- name    : ActuarialValuation.crEquityPayoff_zero_if_default
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:19.927274+00:00
 -- url     : https://prove2.me/theorems/a3b731d6-e9b4-4aab-ba77-8f2690a16496

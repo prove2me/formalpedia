@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmDiracYukawa_diagOp_symmetric
 -- name    : BookProof.SmDiracYukawa.diagOp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:00:51.96059+00:00
 -- url     : https://prove2.me/theorems/254d29b8-6dd0-4f74-8b7c-c44542664631

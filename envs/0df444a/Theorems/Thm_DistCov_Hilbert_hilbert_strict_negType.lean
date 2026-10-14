@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_hilbert_strict_negType
 -- name    : DistCov.Hilbert.hilbert_strict_negType
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:31.633384+00:00
 -- url     : https://prove2.me/theorems/98164fd0-c3b0-4d16-8e93-964298127a04

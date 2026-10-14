@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msResetReserve_zero_future
 -- name    : ActuarialValuation.msResetReserve_zero_future
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:03:21.086472+00:00
 -- url     : https://prove2.me/theorems/9c03038d-bf9a-47ec-8a6a-085a9108a089

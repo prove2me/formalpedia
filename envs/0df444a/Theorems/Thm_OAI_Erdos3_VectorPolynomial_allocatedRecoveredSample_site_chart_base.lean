@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedRecoveredSample_site_chart_base
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedRecoveredSample_site_chart_base
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:48:15.411918+00:00
 -- url     : https://prove2.me/theorems/73c931ef-148c-4b34-831e-826ce13bb42e

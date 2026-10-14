@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9AnnualExitPV_succ
 -- name    : ActuarialValuation.pen9AnnualExitPV_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:19.011088+00:00
 -- url     : https://prove2.me/theorems/6691135d-8907-4f22-ba5c-bb96b336819c

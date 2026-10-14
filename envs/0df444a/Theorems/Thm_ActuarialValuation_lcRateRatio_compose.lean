@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcRateRatio_compose
 -- name    : ActuarialValuation.lcRateRatio_compose
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:43:50.987025+00:00
 -- url     : https://prove2.me/theorems/3db2987e-7ebe-4019-870a-c32a78e2730a

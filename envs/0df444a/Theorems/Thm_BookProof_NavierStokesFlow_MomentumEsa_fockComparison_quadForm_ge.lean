@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_fockComparison_quadForm_ge
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.fockComparison_quadForm_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:51:35.260223+00:00
 -- url     : https://prove2.me/theorems/a635a3d6-4c3d-4428-bbde-a0f76886ffb3

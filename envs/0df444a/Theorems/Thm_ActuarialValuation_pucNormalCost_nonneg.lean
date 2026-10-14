@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucNormalCost_nonneg
 -- name    : ActuarialValuation.pucNormalCost_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:05:43.378511+00:00
 -- url     : https://prove2.me/theorems/007f2dd5-db59-490f-90a2-f126df78f005

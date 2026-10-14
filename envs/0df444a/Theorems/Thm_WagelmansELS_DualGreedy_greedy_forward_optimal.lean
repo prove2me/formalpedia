@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_DualGreedy_greedy_forward_optimal
 -- name    : WagelmansELS.DualGreedy.greedy_forward_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:58:04.514147+00:00
 -- url     : https://prove2.me/theorems/a9b34dde-82f2-45f1-ab8c-9dd5585403dd

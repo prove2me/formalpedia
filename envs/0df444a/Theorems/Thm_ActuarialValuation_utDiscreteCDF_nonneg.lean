@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utDiscreteCDF_nonneg
 -- name    : ActuarialValuation.utDiscreteCDF_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:13.28335+00:00
 -- url     : https://prove2.me/theorems/d5532cf6-65de-4011-bdd9-d0d6182ec9ce

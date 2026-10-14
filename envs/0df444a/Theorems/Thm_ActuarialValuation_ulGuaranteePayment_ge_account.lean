@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulGuaranteePayment_ge_account
 -- name    : ActuarialValuation.ulGuaranteePayment_ge_account
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:38.190979+00:00
 -- url     : https://prove2.me/theorems/11977769-2045-4a94-98f0-4a9c441ed6e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRConvexOpt_InfConv_theorem_3
 -- name    : DRConvexOpt.InfConv.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:39:30.165276+00:00
 -- url     : https://prove2.me/theorems/c68ba35a-a0c1-4cc5-bf22-d65336f0cef9

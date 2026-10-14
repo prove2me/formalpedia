@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSL2Group_rho_mem_of_unipotent_inv
 -- name    : BookProof.ChapterWeylSL2Group.rho_mem_of_unipotent_inv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:37:48.562991+00:00
 -- url     : https://prove2.me/theorems/f6e30fe2-86fe-4878-b980-1a373f007131

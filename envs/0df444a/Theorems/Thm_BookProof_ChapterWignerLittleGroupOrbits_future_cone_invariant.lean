@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerLittleGroupOrbits_future_cone_invariant
 -- name    : BookProof.ChapterWignerLittleGroupOrbits.future_cone_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:55:14.990562+00:00
 -- url     : https://prove2.me/theorems/be4aea55-0d18-45f4-94b8-64cd6ceeca49

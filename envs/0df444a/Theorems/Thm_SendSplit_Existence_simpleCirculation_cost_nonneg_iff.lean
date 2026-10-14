@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_simpleCirculation_cost_nonneg_iff
 -- name    : SendSplit.Existence.simpleCirculation_cost_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:24:09.480471+00:00
 -- url     : https://prove2.me/theorems/2c7f9aac-5b8b-4cd6-bcc4-c94e1862a654

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoysterInexactLP_Auxiliary_hyperBall_lp
 -- name    : SoysterInexactLP.Auxiliary.hyperBall_lp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:37:32.297033+00:00
 -- url     : https://prove2.me/theorems/f9b82c62-130f-471c-8441-c0eda784a54a

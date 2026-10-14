@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whRateResidual_reverse
 -- name    : ActuarialValuation.whRateResidual_reverse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:14:06.682232+00:00
 -- url     : https://prove2.me/theorems/e55db723-ac37-4493-bac4-2353d783ebf6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msSemiStep_zero
 -- name    : ActuarialValuation.msSemiStep_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:01:16.173596+00:00
 -- url     : https://prove2.me/theorems/d8fb7de5-ea2f-46eb-a009-c6263fd76eb1

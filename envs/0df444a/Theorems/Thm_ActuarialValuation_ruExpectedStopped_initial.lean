@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruExpectedStopped_initial
 -- name    : ActuarialValuation.ruExpectedStopped_initial
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:40.883346+00:00
 -- url     : https://prove2.me/theorems/3f1428bb-ce6d-4186-b79f-a13e65dd6d88

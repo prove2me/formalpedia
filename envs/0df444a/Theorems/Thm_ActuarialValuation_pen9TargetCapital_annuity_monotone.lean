@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9TargetCapital_annuity_monotone
 -- name    : ActuarialValuation.pen9TargetCapital_annuity_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:07.968532+00:00
 -- url     : https://prove2.me/theorems/3b3323e3-18f8-4f3c-a07d-05676657bbeb

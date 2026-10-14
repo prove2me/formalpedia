@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_expected_on_hand
 -- name    : ServiceParts.StockLevels.expected_on_hand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:15:33.79801+00:00
 -- url     : https://prove2.me/theorems/58d3f6d7-a853-4b90-870e-746aa255ea92

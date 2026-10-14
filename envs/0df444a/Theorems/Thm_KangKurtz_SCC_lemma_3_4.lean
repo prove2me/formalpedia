@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KangKurtz_SCC_lemma_3_4
 -- name    : KangKurtz.SCC.lemma_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:47:51.352106+00:00
 -- url     : https://prove2.me/theorems/3410c440-8e57-4b25-aebc-4c9f06081efa

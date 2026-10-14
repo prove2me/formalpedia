@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratClassIndicated_nonneg
 -- name    : ActuarialValuation.ratClassIndicated_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:30:57.964298+00:00
 -- url     : https://prove2.me/theorems/838decdf-00d8-44ed-87d7-7974467bc6b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DLSConsensus_BasicRound_decision_round_bound
 -- name    : DLSConsensus.BasicRound.decision_round_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:43:45.546985+00:00
 -- url     : https://prove2.me/theorems/da2957a4-c7e2-497a-a802-059c0c96584d

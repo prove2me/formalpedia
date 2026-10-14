@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commPureEndowment_zero
 -- name    : ActuarialValuation.commPureEndowment_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:16:24.950737+00:00
 -- url     : https://prove2.me/theorems/d0ab09f8-9609-4afa-b5d1-a03980ab07a6

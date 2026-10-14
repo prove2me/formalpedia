@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_DualDecomp_explicit_min_dy
 -- name    : ALADIN.DualDecomp.explicit_min_dy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:04.348996+00:00
 -- url     : https://prove2.me/theorems/833e9fec-a2d8-43b1-9132-94464184cd68

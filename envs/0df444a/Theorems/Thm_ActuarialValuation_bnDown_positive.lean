@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnDown_positive
 -- name    : ActuarialValuation.bnDown_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:02.105984+00:00
 -- url     : https://prove2.me/theorems/ee8af358-0c43-49bf-9ffd-8f0f551fec9b

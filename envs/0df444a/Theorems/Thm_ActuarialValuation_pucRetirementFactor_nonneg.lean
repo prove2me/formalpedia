@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucRetirementFactor_nonneg
 -- name    : ActuarialValuation.pucRetirementFactor_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:16:05.116984+00:00
 -- url     : https://prove2.me/theorems/db21542a-6b33-4f5f-9bfd-0c1f02956723

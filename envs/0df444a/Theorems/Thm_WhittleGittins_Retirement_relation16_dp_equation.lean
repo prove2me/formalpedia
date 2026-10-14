@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittleGittins_Retirement_relation16_dp_equation
 -- name    : WhittleGittins.Retirement.relation16_dp_equation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:55.081748+00:00
 -- url     : https://prove2.me/theorems/28d66305-50cf-4149-adcf-6dd88b7832ba

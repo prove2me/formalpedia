@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FdVersusFdSucc_depth_frege_complete
 -- name    : FdVersusFdSucc.depth_frege_complete
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T10:13:19.426318+00:00
 -- url     : https://prove2.me/theorems/e4cf4db7-ee51-490c-becf-ee1c0792cea1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPartialLikelihood_empty
 -- name    : ActuarialValuation.cxPartialLikelihood_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:25.615192+00:00
 -- url     : https://prove2.me/theorems/b8315bcf-e568-4fd3-8e61-3c9243c6f57d

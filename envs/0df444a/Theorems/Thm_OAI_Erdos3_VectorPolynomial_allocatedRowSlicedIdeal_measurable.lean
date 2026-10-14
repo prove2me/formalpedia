@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedRowSlicedIdeal_measurable
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedRowSlicedIdeal_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:16:36.443334+00:00
 -- url     : https://prove2.me/theorems/c45db777-8ab1-4a35-8a2c-317390b938d6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csFirstSurvival_product
 -- name    : ActuarialValuation.csFirstSurvival_product
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:08.772629+00:00
 -- url     : https://prove2.me/theorems/e3484d0c-f579-4c51-8fed-44529d8bbc00

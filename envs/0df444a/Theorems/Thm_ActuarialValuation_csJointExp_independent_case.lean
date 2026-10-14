@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointExp_independent_case
 -- name    : ActuarialValuation.csJointExp_independent_case
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:24.479122+00:00
 -- url     : https://prove2.me/theorems/76ca8825-21c8-40ee-a030-0e799f2ea133

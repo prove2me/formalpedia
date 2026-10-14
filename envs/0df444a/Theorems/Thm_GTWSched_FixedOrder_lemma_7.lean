@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_FixedOrder_lemma_7
 -- name    : GTWSched.FixedOrder.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:40:04.773515+00:00
 -- url     : https://prove2.me/theorems/b1f8b849-65da-4a19-9a4b-0e1c998b44a4

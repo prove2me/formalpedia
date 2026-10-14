@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulDiscountedProfit_nonneg
 -- name    : ActuarialValuation.ulDiscountedProfit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:32.711599+00:00
 -- url     : https://prove2.me/theorems/3fd6e12a-3281-43fb-82dd-0faf02c954d2

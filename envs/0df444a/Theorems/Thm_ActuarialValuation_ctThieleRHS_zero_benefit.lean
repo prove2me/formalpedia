@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctThieleRHS_zero_benefit
 -- name    : ActuarialValuation.ctThieleRHS_zero_benefit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:32.194155+00:00
 -- url     : https://prove2.me/theorems/d52c8b18-cef6-46db-b938-92f3f0863043

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crSpread_symmetry
 -- name    : ActuarialValuation.crSpread_symmetry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:12.651981+00:00
 -- url     : https://prove2.me/theorems/b064f972-e120-4ff3-92bf-f4c03f345cbd

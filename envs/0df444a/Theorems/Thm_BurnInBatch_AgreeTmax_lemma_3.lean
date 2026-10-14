@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_AgreeTmax_lemma_3
 -- name    : BurnInBatch.AgreeTmax.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:29:41.188121+00:00
 -- url     : https://prove2.me/theorems/c18088b1-93dc-47ea-9795-a3fe4b96b62f

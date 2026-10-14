@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srStoppedExp_nonneg
 -- name    : ActuarialValuation.srStoppedExp_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:23:11.731693+00:00
 -- url     : https://prove2.me/theorems/6bfc015c-da5c-4e44-ad05-e01cbbaa9041

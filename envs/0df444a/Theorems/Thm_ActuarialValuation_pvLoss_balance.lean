@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvLoss_balance
 -- name    : ActuarialValuation.pvLoss_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:16.602978+00:00
 -- url     : https://prove2.me/theorems/17a6ae1f-9c2b-44f6-a669-5a4d8bd79356

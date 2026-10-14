@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FourierMultiplierEsa.mixedOp_essentiallySelfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T07:16:34.78513+00:00
 -- url     : https://prove2.me/submissions/12589b78-d8b4-479c-b36e-b2d3e7c0a173
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFourierMultiplierEsa.lean — solution of BookProof.FourierMultiplierEsa.mixedOp_essentiallySelfAdjoint
 import Mathlib

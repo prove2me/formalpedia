@@ -10,8 +10,12 @@
 --   For a complex normed space E, a continuous complex-linear map T, four vectors x_i and σ_i, complex coordinates z_i and h in E, Σ_i z_i(x_i−Tσ_i)+h = Σ_i z_i x_i +(h−T(Σ_i z_i σ_i)).
 --
 --   Exact native statement, definitions and coordinate order are preserved. Original-form realization attachments are unproved future formalization; complete 1.06 positivity, global continuation and RH are not established.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/FormCompletion.lean#L21-L28; exact native theorem WeilDefect.RPB108.completed_column_identity. SHA256 9d83ac9a57bec7771c1b9d156306326c08b8e3b9f013f38b02f37c875a13301c. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

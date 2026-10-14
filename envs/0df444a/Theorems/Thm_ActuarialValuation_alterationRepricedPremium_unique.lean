@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationRepricedPremium_unique
 -- name    : ActuarialValuation.alterationRepricedPremium_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:12:34.547038+00:00
 -- url     : https://prove2.me/theorems/2838e978-f354-4c30-b39c-48ac9298e661

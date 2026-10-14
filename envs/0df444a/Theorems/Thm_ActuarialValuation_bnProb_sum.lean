@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnProb_sum
 -- name    : ActuarialValuation.bnProb_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:21.820987+00:00
 -- url     : https://prove2.me/theorems/95f9cde7-7aa6-4fb4-8036-27418f227e74

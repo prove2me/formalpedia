@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_at_least_p
 -- name    : ActuarialValuation.crRisk_at_least_p
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:52.999815+00:00
 -- url     : https://prove2.me/theorems/9bac9c22-4f39-4699-9237-d908de6430d3

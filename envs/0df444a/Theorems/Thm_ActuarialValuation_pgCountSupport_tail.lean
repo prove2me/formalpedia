@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgCountSupport_tail
 -- name    : ActuarialValuation.pgCountSupport_tail
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:55:27.700414+00:00
 -- url     : https://prove2.me/theorems/952ad136-33ec-44e6-95c6-63d15f127cad

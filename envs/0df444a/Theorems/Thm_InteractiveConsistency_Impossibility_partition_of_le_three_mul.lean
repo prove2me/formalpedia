@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_Impossibility_partition_of_le_three_mul
 -- name    : InteractiveConsistency.Impossibility.partition_of_le_three_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:11.781787+00:00
 -- url     : https://prove2.me/theorems/9464dde9-574c-4f4c-981b-10ff23c54e13

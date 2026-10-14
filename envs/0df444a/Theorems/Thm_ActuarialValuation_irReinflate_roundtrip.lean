@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irReinflate_roundtrip
 -- name    : ActuarialValuation.irReinflate_roundtrip
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:02:01.164881+00:00
 -- url     : https://prove2.me/theorems/dfa13003-b76c-45ab-b056-479186317362

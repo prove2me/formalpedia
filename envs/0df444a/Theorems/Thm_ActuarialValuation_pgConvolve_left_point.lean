@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgConvolve_left_point
 -- name    : ActuarialValuation.pgConvolve_left_point
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:48:51.474922+00:00
 -- url     : https://prove2.me/theorems/fef15717-439e-4c8d-b5fc-4401c82932b8

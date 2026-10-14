@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailCDF_partition
 -- name    : ActuarialValuation.tailCDF_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:46:59.067737+00:00
 -- url     : https://prove2.me/theorems/f21fe9c5-d206-4dfb-9304-a6e81e7645aa

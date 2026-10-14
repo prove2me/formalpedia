@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioExact_PartOne_violationLaw_Iic_eq_pow
 -- name    : ScenarioExact.PartOne.violationLaw_Iic_eq_pow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:24:36.226921+00:00
 -- url     : https://prove2.me/theorems/5886a9e0-6270-4a73-bb13-dde187b37f51

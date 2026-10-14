@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Repeated_theorem_3_3
 -- name    : RobustPoA.Repeated.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:03.878535+00:00
 -- url     : https://prove2.me/theorems/b7a7c58b-ba3f-48b4-8b78-a55d987f747d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_everett
 -- name    : ServiceParts.StockLevels.everett
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T06:40:12.116458+00:00
 -- url     : https://prove2.me/theorems/ebe8bf63-5331-4cef-bb13-1a94bdb6bc29

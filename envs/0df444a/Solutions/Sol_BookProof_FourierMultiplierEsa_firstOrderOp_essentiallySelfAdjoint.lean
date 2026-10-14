@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FourierMultiplierEsa.firstOrderOp_essentiallySelfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T07:15:18.37073+00:00
 -- url     : https://prove2.me/submissions/40943cbc-a85c-439f-bc45-dbd15d483afc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFourierMultiplierEsa.lean — solution of BookProof.FourierMultiplierEsa.firstOrderOp_essentiallySelfAdjoint
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_ops_zero_of_trivial
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.ops_zero_of_trivial
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:51:07.575347+00:00
 -- url     : https://prove2.me/theorems/22d188f1-2730-4387-8e80-7d8e59c685a9

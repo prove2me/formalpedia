@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctEuler_offdiag
 -- name    : ActuarialValuation.ctEuler_offdiag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:50:29.604988+00:00
 -- url     : https://prove2.me/theorems/8a3aa18d-5be3-45c6-b3a7-6af51d7b50ee

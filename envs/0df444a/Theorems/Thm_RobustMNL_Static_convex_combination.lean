@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Static_convex_combination
 -- name    : RobustMNL.Static.convex_combination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:22.071456+00:00
 -- url     : https://prove2.me/theorems/acfbd52e-6875-4548-bb7e-156d035c43b5

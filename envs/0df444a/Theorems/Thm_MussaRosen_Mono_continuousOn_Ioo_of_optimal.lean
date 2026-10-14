@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_continuousOn_Ioo_of_optimal
 -- name    : MussaRosen.Mono.continuousOn_Ioo_of_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:32:09.933002+00:00
 -- url     : https://prove2.me/theorems/7726c23e-5b46-4ce8-8ab3-951360eebc51

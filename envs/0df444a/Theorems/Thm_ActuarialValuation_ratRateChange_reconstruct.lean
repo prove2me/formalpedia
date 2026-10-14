@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratRateChange_reconstruct
 -- name    : ActuarialValuation.ratRateChange_reconstruct
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:48:00.126489+00:00
 -- url     : https://prove2.me/theorems/f75f945c-da67-455a-82b5-e0ddd6e0105f

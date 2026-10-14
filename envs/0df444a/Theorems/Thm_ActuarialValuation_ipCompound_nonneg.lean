@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipCompound_nonneg
 -- name    : ActuarialValuation.ipCompound_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:44.675864+00:00
 -- url     : https://prove2.me/theorems/50a2f671-1a7f-4c3a-b7c5-ae1420150f24

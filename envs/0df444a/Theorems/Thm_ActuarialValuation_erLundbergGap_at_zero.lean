@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erLundbergGap_at_zero
 -- name    : ActuarialValuation.erLundbergGap_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:44.006974+00:00
 -- url     : https://prove2.me/theorems/a87e0752-8eb1-417d-870f-ad6fcd84b1f7

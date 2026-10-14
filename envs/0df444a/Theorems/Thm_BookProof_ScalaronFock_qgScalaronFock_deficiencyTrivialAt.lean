@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_qgScalaronFock_deficiencyTrivialAt
 -- name    : BookProof.ScalaronFock.qgScalaronFock_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:24:43.383914+00:00
 -- url     : https://prove2.me/theorems/0a2677c0-e791-4c4d-a04f-8e748dfd1197

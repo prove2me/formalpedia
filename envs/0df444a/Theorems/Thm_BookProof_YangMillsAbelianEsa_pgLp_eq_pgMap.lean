@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_pgLp_eq_pgMap
 -- name    : BookProof.YangMillsAbelianEsa.pgLp_eq_pgMap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:33:09.692487+00:00
 -- url     : https://prove2.me/theorems/63d85d71-930a-4c95-be98-9683b087362f

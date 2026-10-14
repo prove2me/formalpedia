@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_Backward_iterated_integral_relation
 -- name    : AntonelliBFSDE.Backward.iterated_integral_relation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:22:01.823732+00:00
 -- url     : https://prove2.me/theorems/7343a440-246d-4006-ae6d-ac4620f4f2b0

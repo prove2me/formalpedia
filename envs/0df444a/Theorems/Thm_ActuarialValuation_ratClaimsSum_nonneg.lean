@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratClaimsSum_nonneg
 -- name    : ActuarialValuation.ratClaimsSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:29:26.327671+00:00
 -- url     : https://prove2.me/theorems/58a00a65-0ed3-4155-be18-94bb2c843fbc

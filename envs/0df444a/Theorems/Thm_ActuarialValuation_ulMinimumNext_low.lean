@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulMinimumNext_low
 -- name    : ActuarialValuation.ulMinimumNext_low
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:21.66398+00:00
 -- url     : https://prove2.me/theorems/1c8423a6-0fbb-4ce3-9e7d-06d26487e2aa

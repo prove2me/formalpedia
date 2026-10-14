@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerRecurrence_unique
 -- name    : ActuarialValuation.panjerRecurrence_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:49:42.173675+00:00
 -- url     : https://prove2.me/theorems/6058e4f6-d291-45ed-b250-ab734b31ba67

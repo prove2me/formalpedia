@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExponentialMGF_positive
 -- name    : ActuarialValuation.erExponentialMGF_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:26.127162+00:00
 -- url     : https://prove2.me/theorems/d5c469fa-7df5-4b34-b42d-c63740bd4f9c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_factorGraph_eq_of_isCoreOf
 -- name    : BookProof.ClosureUniqueness.factorGraph_eq_of_isCoreOf
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:43:08.09816+00:00
 -- url     : https://prove2.me/theorems/97259a89-4f46-49d7-be3a-8298b9f7ee62

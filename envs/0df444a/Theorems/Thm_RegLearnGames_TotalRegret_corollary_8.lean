@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_TotalRegret_corollary_8
 -- name    : RegLearnGames.TotalRegret.corollary_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:04.426388+00:00
 -- url     : https://prove2.me/theorems/a9a7b4f7-6a39-4aae-b713-26a3b1f87ca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_WeakGS_lemma_9_ii
 -- name    : StrategyProofArrow.WeakGS.lemma_9_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:51:03.540545+00:00
 -- url     : https://prove2.me/theorems/ca38481f-c005-44a1-8b7b-018ddfbc2132

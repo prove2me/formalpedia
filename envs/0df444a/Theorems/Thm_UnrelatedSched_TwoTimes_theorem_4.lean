@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoTimes_theorem_4
 -- name    : UnrelatedSched.TwoTimes.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:20:14.388283+00:00
 -- url     : https://prove2.me/theorems/a33ab285-d9de-4f9a-bec1-79190f116345

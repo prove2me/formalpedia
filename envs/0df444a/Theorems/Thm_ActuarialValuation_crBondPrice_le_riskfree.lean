@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crBondPrice_le_riskfree
 -- name    : ActuarialValuation.crBondPrice_le_riskfree
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:54.995982+00:00
 -- url     : https://prove2.me/theorems/66fde805-1943-4413-ae4c-733393bfeb42

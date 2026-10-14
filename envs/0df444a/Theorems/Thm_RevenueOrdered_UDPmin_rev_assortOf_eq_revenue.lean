@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_UDPmin_rev_assortOf_eq_revenue
 -- name    : RevenueOrdered.UDPmin.rev_assortOf_eq_revenue
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:58:36.500777+00:00
 -- url     : https://prove2.me/theorems/94130490-b020-4310-abcf-0956431064bc

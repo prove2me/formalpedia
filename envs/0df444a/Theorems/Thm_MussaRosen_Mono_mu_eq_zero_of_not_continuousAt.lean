@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_mu_eq_zero_of_not_continuousAt
 -- name    : MussaRosen.Mono.mu_eq_zero_of_not_continuousAt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:15:01.612358+00:00
 -- url     : https://prove2.me/theorems/a682577f-7539-43c2-b226-89cadcdc6c13

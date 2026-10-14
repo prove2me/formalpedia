@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_quot_removeLink_refines
 -- name    : CooperationGraphs.FairRule.quot_removeLink_refines
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:33.443156+00:00
 -- url     : https://prove2.me/theorems/5dfb00be-4976-4cbf-8f72-8b59f6129285

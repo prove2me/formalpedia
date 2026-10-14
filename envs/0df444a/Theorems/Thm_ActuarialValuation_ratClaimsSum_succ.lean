@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratClaimsSum_succ
 -- name    : ActuarialValuation.ratClaimsSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:29:16.091879+00:00
 -- url     : https://prove2.me/theorems/3b4585d8-3f39-468e-aec9-a1b7ffd5a674

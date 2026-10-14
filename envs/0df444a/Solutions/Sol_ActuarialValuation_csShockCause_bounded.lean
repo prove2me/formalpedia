@@ -1,0 +1,28 @@
+-- Prove2me | solution 1 for ActuarialValuation.csShockCause_bounded
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-10-12T12:16:37.949803+00:00
+-- url     : https://prove2.me/submissions/a6da6f55-aa5b-43d4-8532-1c793df8fa1d
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Analysis.SpecialFunctions.Exp
+import Mathlib.MeasureTheory.Measure.Typeclasses.Probability
+import Mathlib.MeasureTheory.Integral.Bochner.Basic
+import Definitions.Def_actuarial_csShockCause
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open ActuarialValuation MeasureTheory
+
+theorem solution {Ω : Type*} [MeasurableSpace Ω]
+    (μ : MeasureTheory.Measure Ω) (U V Z : Ω → ℝ)
+    [MeasureTheory.IsProbabilityMeasure μ] :
+    csShockCause μ U V Z ≤ 1 := by
+  unfold csShockCause
+  calc
+    μ {ω | Z ω < U ω ∧ Z ω < V ω} ≤ μ Set.univ :=
+      measure_mono (Set.subset_univ _)
+    _ = 1 := by simp

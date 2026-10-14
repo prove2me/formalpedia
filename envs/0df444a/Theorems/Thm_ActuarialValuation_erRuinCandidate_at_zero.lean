@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRuinCandidate_at_zero
 -- name    : ActuarialValuation.erRuinCandidate_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:59:50.483684+00:00
 -- url     : https://prove2.me/theorems/c6df163f-e96a-488c-b8dc-2c6433980708

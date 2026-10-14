@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_sum_pair_prime
 -- name    : BookProof.ChapterWignerSymmetry.sum_pair_prime
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:17:52.611984+00:00
 -- url     : https://prove2.me/theorems/03136e4d-6c38-4fab-aec8-17405fda08be

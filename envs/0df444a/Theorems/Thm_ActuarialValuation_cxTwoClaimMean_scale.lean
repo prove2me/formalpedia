@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxTwoClaimMean_scale
 -- name    : ActuarialValuation.cxTwoClaimMean_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:30.589552+00:00
 -- url     : https://prove2.me/theorems/752c270c-9117-409b-bfc8-7164f6a8cb97

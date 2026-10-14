@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerLittleGroupOrbits_orbit_iff_massSq_eq
 -- name    : BookProof.ChapterWignerLittleGroupOrbits.orbit_iff_massSq_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:55:39.878648+00:00
 -- url     : https://prove2.me/theorems/3132e41f-6243-43e8-907b-911f36a58b03

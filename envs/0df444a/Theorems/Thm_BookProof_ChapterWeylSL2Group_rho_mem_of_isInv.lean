@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSL2Group_rho_mem_of_isInv
 -- name    : BookProof.ChapterWeylSL2Group.rho_mem_of_isInv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:36:45.915458+00:00
 -- url     : https://prove2.me/theorems/6197cae3-204f-45ff-b97c-8b24711792c7

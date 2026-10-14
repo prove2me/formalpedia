@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathFindingLP_WeightFunction_properties_of_weight_function
 -- name    : PathFindingLP.WeightFunction.properties_of_weight_function
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:49:12.701235+00:00
 -- url     : https://prove2.me/theorems/531dfc47-e201-4018-abc5-2bc34261eeb1

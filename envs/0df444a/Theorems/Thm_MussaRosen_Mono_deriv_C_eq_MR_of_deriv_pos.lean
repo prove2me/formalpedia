@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_deriv_C_eq_MR_of_deriv_pos
 -- name    : MussaRosen.Mono.deriv_C_eq_MR_of_deriv_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:31:50.67028+00:00
 -- url     : https://prove2.me/theorems/2dbad080-b049-437f-a137-09d012c4ca8b

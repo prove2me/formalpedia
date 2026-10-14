@@ -1,0 +1,246 @@
+-- Prove2me | solution 1 for IntMul.HvdH.expBits_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @xuanji
+-- created : 2026-10-11T22:01:18.692191+00:00
+-- url     : https://prove2.me/submissions/86013f5d-5f45-45ea-ad7f-74a9b3e1b322
+
+import Definitions.Def_IntMul_HvdH_ExpApprox
+
+open Finset Complex
+
+namespace IntMul.HvdH.ExpPf
+open IntMul.HvdH
+
+/-- A pair of integers as a Gaussian integer in `ℂ`. -/
+def toC (p : ℤ × ℤ) : ℂ := (p.1 : ℂ) + (p.2 : ℂ) * I
+
+@[simp] lemma toC_re (p : ℤ × ℤ) : (toC p).re = p.1 := by simp [toC]
+@[simp] lemma toC_im (p : ℤ × ℤ) : (toC p).im = p.2 := by simp [toC]
+
+lemma norm_le_of_re_im {z : ℂ} {c : ℝ} (hre : |z.re| ≤ c) (him : |z.im| ≤ c) :
+    ‖z‖ ≤ 3 / 2 * c := by
+  have hc : 0 ≤ c := (abs_nonneg _).trans hre
+  have h1 : z.re ^ 2 ≤ c ^ 2 := by rw [← sq_abs]; exact pow_le_pow_left₀ (abs_nonneg _) hre 2
+  have h2 : z.im ^ 2 ≤ c ^ 2 := by rw [← sq_abs]; exact pow_le_pow_left₀ (abs_nonneg _) him 2
+  have hn : ‖z‖ ^ 2 = z.re ^ 2 + z.im ^ 2 := by rw [Complex.sq_norm, Complex.normSq_apply]; ring
+  have : ‖z‖ ^ 2 ≤ (3 / 2 * c) ^ 2 := by nlinarith
+  exact (pow_le_pow_iff_left₀ (norm_nonneg _) (by positivity) (by norm_num)).1 this
+
+lemma int_div_err (m D : ℤ) (hD : 0 < D) :
+    |(((m / D : ℤ) : ℝ)) - (m : ℝ) / D| ≤ 1 := by
+  have hD' : (0 : ℝ) < D := by exact_mod_cast hD
+  have h1 : (m / D) * D ≤ m := Int.ediv_mul_le _ hD.ne'
+  have h2 : m < (m / D + 1) * D := Int.lt_ediv_add_one_mul_self m hD
+  have h1' : ((m / D : ℤ) : ℝ) * D ≤ m := by exact_mod_cast h1
+  have h2' : (m : ℝ) < ((m / D : ℤ) + 1) * D := by exact_mod_cast h2
+  have e : ((m / D : ℤ) : ℝ) - (m : ℝ) / D = (((m / D : ℤ) : ℝ) * D - m) / D := by field_simp
+  rw [e, abs_div, abs_of_pos hD', div_le_iff₀ hD', abs_le]
+  constructor <;> nlinarith
+
+lemma int_round_err (m : ℤ) (s : ℕ) :
+    |(((m + 2 ^ s) / 2 ^ (s + 1) : ℤ) : ℝ) - (m : ℝ) / 2 ^ (s + 1)| ≤ 1 / 2 := by
+  set q := (m + 2 ^ s) / 2 ^ (s + 1)
+  have hd : (0 : ℤ) < 2 ^ (s + 1) := by positivity
+  have h1 : q * 2 ^ (s + 1) ≤ m + 2 ^ s := Int.ediv_mul_le _ hd.ne'
+  have h2 : m + 2 ^ s < (q + 1) * 2 ^ (s + 1) := by
+    have := Int.lt_ediv_add_one_mul_self (m + 2 ^ s) hd; linarith
+  have h1' : (q : ℝ) * 2 ^ (s + 1) ≤ m + 2 ^ s := by exact_mod_cast h1
+  have h2' : (m : ℝ) + 2 ^ s < (q + 1) * 2 ^ (s + 1) := by exact_mod_cast h2
+  have hp : (0 : ℝ) < 2 ^ (s + 1) := by positivity
+  have hs : (2 : ℝ) ^ (s + 1) = 2 * 2 ^ s := by ring
+  have e : (q : ℝ) - m / 2 ^ (s + 1) = ((q : ℝ) * 2 ^ (s + 1) - m) / 2 ^ (s + 1) := by
+    field_simp
+  rw [e, abs_div, abs_of_pos hp, div_le_iff₀ hp, abs_le]
+  constructor <;> nlinarith
+
+lemma toC_mul (a b x y : ℤ) : toC (a * x - b * y, a * y + b * x) = toC (a, b) * toC (x, y) := by
+  apply Complex.ext <;> simp
+
+lemma expTerm_succ_err (N : ℕ) (x y : ℤ) (j : ℕ) :
+    ‖toC (expTerm N x y (j + 1)) - toC (expTerm N x y j) * toC (x, y) / ((j + 1) * 2 ^ N)‖ ≤ 2 := by
+  set t := expTerm N x y j
+  set D : ℤ := ((j : ℤ) + 1) * 2 ^ N
+  have hD : 0 < D := by positivity
+  have hDc : ((j : ℂ) + 1) * 2 ^ N = ((D : ℤ) : ℂ) := by simp [D]
+  have hnext : expTerm N x y (j + 1) = ((t.1 * x - t.2 * y) / D, (t.1 * y + t.2 * x) / D) := by
+    simp [expTerm, t, D]
+  rw [hnext, hDc, show toC t = toC (t.1, t.2) from rfl, ← toC_mul]
+  have := norm_le_of_re_im (c := 1)
+    (z := toC ((t.1 * x - t.2 * y) / D, (t.1 * y + t.2 * x) / D) -
+      toC (t.1 * x - t.2 * y, t.1 * y + t.2 * x) / ((D : ℤ) : ℂ)) ?_ ?_
+  · linarith
+  · have h := int_div_err (t.1 * x - t.2 * y) D hD
+    have hD0 : (D : ℝ) ≠ 0 := by positivity
+    simp only [Complex.sub_re, Complex.sub_im, Complex.div_re, Complex.normSq_apply, toC_re, toC_im,
+      Complex.intCast_re, Complex.intCast_im] at h ⊢
+    convert h using 3; push_cast; field_simp; ring
+  · have h := int_div_err (t.1 * y + t.2 * x) D hD
+    have hD0 : (D : ℝ) ≠ 0 := by positivity
+    simp only [Complex.sub_re, Complex.sub_im, Complex.div_im, Complex.normSq_apply, toC_re, toC_im,
+      Complex.intCast_re, Complex.intCast_im] at h ⊢
+    convert h using 3; push_cast; field_simp; ring
+
+lemma rec_alg (a b z P : ℂ) (j : ℕ) (hP : P ≠ 0) :
+    a - P * (z / P) ^ (j + 1) / ((j + 1).factorial : ℂ)
+      = (a - b * z / ((j + 1) * P)) + (b - P * (z / P) ^ j / (j.factorial : ℂ)) * (z / P) / (j + 1) := by
+  generalize hw : z / P = w
+  have hz : z = w * P := by rw [← hw]; field_simp
+  subst hz
+  rw [Nat.factorial_succ]; push_cast
+  have h1 : (j.factorial : ℂ) ≠ 0 := by exact_mod_cast (Nat.factorial_pos j).ne'
+  have h2 : ((j : ℂ) + 1) ≠ 0 := by exact_mod_cast (Nat.succ_ne_zero j)
+  field_simp; ring
+
+lemma expTerm_err_rec (N : ℕ) (x y : ℤ) (j : ℕ) :
+    toC (expTerm N x y (j + 1)) - 2 ^ N * (toC (x, y) / 2 ^ N) ^ (j + 1) / ((j + 1).factorial : ℂ)
+      = (toC (expTerm N x y (j + 1)) - toC (expTerm N x y j) * toC (x, y) / ((j + 1) * 2 ^ N))
+        + (toC (expTerm N x y j) - 2 ^ N * (toC (x, y) / 2 ^ N) ^ j / (j.factorial : ℂ))
+          * (toC (x, y) / 2 ^ N) / (j + 1) :=
+  rec_alg _ _ _ _ j (pow_ne_zero _ two_ne_zero)
+
+lemma expTerm_zero_err (N : ℕ) (x y : ℤ) :
+    toC (expTerm N x y 0) - 2 ^ N * (toC (x, y) / 2 ^ N) ^ 0 / ((0 : ℕ).factorial : ℂ) = 0 := by
+  simp [expTerm, toC]
+
+lemma expTerm_err (N : ℕ) (x y : ℤ) (hw : ‖toC (x, y) / 2 ^ N‖ ≤ 1) (j : ℕ) :
+    ‖toC (expTerm N x y j) - 2 ^ N * (toC (x, y) / 2 ^ N) ^ j / (j.factorial : ℂ)‖ ≤ 4 := by
+  induction j with
+  | zero => rw [expTerm_zero_err]; simp
+  | succ j ih =>
+    rw [expTerm_err_rec]
+    refine (norm_add_le _ _).trans ?_
+    have h1 := expTerm_succ_err N x y j
+    have hj : (0 : ℝ) < (j : ℝ) + 1 := by positivity
+    have hn : ‖((j : ℂ) + 1)‖ = (j : ℝ) + 1 := by
+      rw [show ((j : ℂ) + 1) = (((j + 1 : ℕ) : ℝ) : ℂ) by push_cast; rfl, Complex.norm_real,
+        Real.norm_eq_abs, abs_of_pos (by positivity)]; push_cast; ring
+    rw [norm_div, norm_mul, hn]
+    rcases Nat.eq_zero_or_pos j with rfl | hjpos
+    · rw [expTerm_zero_err]; simp at h1 ⊢; linarith
+    · have hj1 : (1 : ℝ) ≤ j := by exact_mod_cast hjpos
+      have : ‖toC (expTerm N x y j) - 2 ^ N * (toC (x, y) / 2 ^ N) ^ j / (j.factorial : ℂ)‖ *
+          ‖toC (x, y) / 2 ^ N‖ ≤ 4 :=
+        (mul_le_mul ih hw (norm_nonneg _) (by norm_num)).trans (by norm_num)
+      have : ‖toC (expTerm N x y j) - 2 ^ N * (toC (x, y) / 2 ^ N) ^ j / (j.factorial : ℂ)‖ *
+          ‖toC (x, y) / 2 ^ N‖ / ((j : ℝ) + 1) ≤ 2 := by
+        rw [div_le_iff₀ hj]; nlinarith
+      linarith
+
+lemma two_pow_le_factorial (N : ℕ) : (2 : ℝ) ^ N ≤ ((N + 4).factorial : ℝ) := by
+  induction N with
+  | zero => norm_num [Nat.factorial]
+  | succ k ih =>
+    rw [show k + 1 + 4 = (k + 4) + 1 by ring, Nat.factorial_succ]; push_cast
+    rw [pow_succ]; nlinarith [Nat.cast_nonneg (α := ℝ) k]
+
+theorem expApprox_bound (N : ℕ) (x y : ℤ) (hw : ‖toC (x, y) / 2 ^ N‖ ≤ 1) :
+    ‖toC (expApprox N (N + 4) x y) - 2 ^ N * Complex.exp (toC (x, y) / 2 ^ N)‖
+      ≤ 4 * (N + 4) + 2 := by
+  set w := toC (x, y) / 2 ^ N
+  set K := N + 4
+  have hK : 0 < K := by omega
+  have hsum : toC (expApprox N K x y) = ∑ j ∈ range K, toC (expTerm N x y j) := by
+    simp only [expApprox, toC]; push_cast; rw [Finset.sum_add_distrib, Finset.sum_mul]
+  have htay := Complex.exp_bound hw hK
+  have e : toC (expApprox N K x y) - 2 ^ N * Complex.exp w =
+      ∑ j ∈ range K, (toC (expTerm N x y j) - 2 ^ N * w ^ j / (j.factorial : ℂ))
+        - 2 ^ N * (Complex.exp w - ∑ m ∈ range K, w ^ m / (m.factorial : ℂ)) := by
+    rw [hsum, Finset.sum_sub_distrib, mul_sub, Finset.mul_sum]
+    simp only [mul_div_assoc]; ring
+  rw [e]
+  refine (norm_sub_le _ _).trans ?_
+  have h1 : ‖∑ j ∈ range K, (toC (expTerm N x y j) - 2 ^ N * w ^ j / (j.factorial : ℂ))‖
+      ≤ 4 * K := by
+    refine (norm_sum_le _ _).trans ?_
+    calc ∑ j ∈ range K, ‖toC (expTerm N x y j) - 2 ^ N * w ^ j / (j.factorial : ℂ)‖
+        ≤ ∑ _j ∈ range K, (4 : ℝ) := Finset.sum_le_sum (fun j _ => expTerm_err N x y hw j)
+      _ = 4 * K := by simp; ring
+  have h2 : ‖(2 : ℂ) ^ N * (Complex.exp w - ∑ m ∈ range K, w ^ m / (m.factorial : ℂ))‖ ≤ 2 := by
+    rw [norm_mul, norm_pow, Complex.norm_two]
+    have hf := two_pow_le_factorial N
+    have hKf : (0 : ℝ) < (K.factorial : ℝ) := by exact_mod_cast Nat.factorial_pos K
+    have hw' : ‖w‖ ^ K ≤ 1 := pow_le_one₀ (norm_nonneg _) hw
+    have hK1 : (1 : ℝ) ≤ K := by exact_mod_cast hK
+    have hr : ((K.succ : ℝ) * ((K.factorial : ℝ) * K)⁻¹) ≤ 2 / K.factorial := by
+      have hK0 : (0 : ℝ) < K := by linarith
+      have e1 : ((K.succ : ℝ) * ((K.factorial : ℝ) * K)⁻¹) = ((K + 1) / K) * (1 / K.factorial) := by
+        push_cast; field_simp
+      rw [e1, div_eq_mul_one_div (2 : ℝ)]
+      refine mul_le_mul_of_nonneg_right ?_ (by positivity)
+      rw [div_le_iff₀ hK0]; linarith
+    calc (2 : ℝ) ^ N * ‖Complex.exp w - ∑ m ∈ range K, w ^ m / (m.factorial : ℂ)‖
+        ≤ 2 ^ N * (‖w‖ ^ K * ((K.succ : ℝ) * ((K.factorial : ℝ) * K)⁻¹)) :=
+          mul_le_mul_of_nonneg_left htay (by positivity)
+      _ ≤ 2 ^ N * (1 * (2 / K.factorial)) := by
+          refine mul_le_mul_of_nonneg_left (mul_le_mul hw' hr (by positivity) zero_le_one)
+            (by positivity)
+      _ ≤ 2 := by
+          rw [one_mul, ← mul_div_assoc, div_le_iff₀ hKf]; nlinarith
+  have : (K : ℝ) = N + 4 := by simp [K]
+  rw [this] at h1
+  linarith
+
+lemma lin_le_pow (n : ℕ) : (8 * n + 54 : ℝ) ≤ 128 * 2 ^ n := by
+  induction n with
+  | zero => norm_num
+  | succ k ih =>
+    push_cast
+    have : (1 : ℝ) ≤ 2 ^ k := one_le_pow₀ (by norm_num)
+    rw [pow_succ]; nlinarith
+
+theorem expBits_bound (n : ℕ) (x y : ℤ) (h : ‖toC (x, y)‖ ≤ 2 ^ n) :
+    ‖toC (expBits n x y) - 2 ^ n * Complex.exp (toC (x, y) / 2 ^ n)‖ ≤ 1 := by
+  set N := 2 * n + 9
+  set X : ℤ := x * 2 ^ (n + 9)
+  set Y : ℤ := y * 2 ^ (n + 9)
+  have hpn : (0 : ℝ) < 2 ^ n := by positivity
+  have hXY : toC (X, Y) / 2 ^ N = toC (x, y) / 2 ^ n := by
+    have : (2 : ℂ) ^ N = 2 ^ (n + 9) * 2 ^ n := by rw [← pow_add]; congr 1; omega
+    rw [this]; simp only [toC, X, Y]; push_cast
+    have h1 : (2 : ℂ) ^ n ≠ 0 := pow_ne_zero _ two_ne_zero
+    have h2 : (2 : ℂ) ^ (n + 9) ≠ 0 := pow_ne_zero _ two_ne_zero
+    field_simp
+  have hw : ‖toC (X, Y) / 2 ^ N‖ ≤ 1 := by
+    rw [hXY, norm_div, norm_pow, Complex.norm_two, div_le_one hpn]; exact h
+  have hb := expApprox_bound N X Y hw
+  rw [hXY] at hb
+  set e := expApprox N (N + 4) X Y with he
+  have hexp : expBits n x y = ((e.1 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1),
+      (e.2 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1)) := by
+    simp only [expBits, he, N, X, Y]
+  rw [hexp]
+  have hs : (0 : ℝ) < 2 ^ (n + 8 + 1) := by positivity
+  have hsC : (((2 ^ (n + 8 + 1) : ℕ) : ℂ)) = (2 : ℂ) ^ (n + 8 + 1) := by push_cast; rfl
+  have hr : ‖toC ((e.1 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1), (e.2 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1))
+      - toC e / 2 ^ (n + 8 + 1)‖ ≤ 3 / 4 := by
+    have := norm_le_of_re_im (c := 1 / 2)
+      (z := toC ((e.1 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1), (e.2 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1))
+        - toC e / 2 ^ (n + 8 + 1)) ?_ ?_
+    · linarith
+    · rw [← hsC, Complex.sub_re, Complex.div_natCast_re, toC_re, toC_re]
+      simpa using int_round_err e.1 (n + 8)
+    · rw [← hsC, Complex.sub_im, Complex.div_natCast_im, toC_im, toC_im]
+      simpa using int_round_err e.2 (n + 8)
+  have ht : ‖toC e / 2 ^ (n + 8 + 1) - 2 ^ n * Complex.exp (toC (x, y) / 2 ^ n)‖ ≤ 1 / 4 := by
+    have hN : (2 : ℂ) ^ N = 2 ^ (n + 8 + 1) * 2 ^ n := by rw [← pow_add]; congr 1; omega
+    have eq : toC e / 2 ^ (n + 8 + 1) - 2 ^ n * Complex.exp (toC (x, y) / 2 ^ n)
+        = (toC e - 2 ^ N * Complex.exp (toC (x, y) / 2 ^ n)) / 2 ^ (n + 8 + 1) := by
+      rw [hN]; field_simp
+    rw [eq, norm_div, norm_pow, Complex.norm_two, div_le_iff₀ hs]
+    refine hb.trans ?_
+    have hl := lin_le_pow n
+    have : (2 : ℝ) ^ (n + 8 + 1) = 512 * 2 ^ n := by ring
+    rw [this]; simp only [N]; push_cast; linarith
+  calc _ = ‖(toC ((e.1 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1), (e.2 + 2 ^ (n + 8)) / 2 ^ (n + 8 + 1))
+        - toC e / 2 ^ (n + 8 + 1)) + (toC e / 2 ^ (n + 8 + 1)
+        - 2 ^ n * Complex.exp (toC (x, y) / 2 ^ n))‖ := by ring_nf
+    _ ≤ _ := norm_add_le _ _
+    _ ≤ 1 := by linarith
+
+end IntMul.HvdH.ExpPf
+
+open IntMul.HvdH in
+theorem solution (n : ℕ) (x y : ℤ) (h : ‖(x : ℂ) + (y : ℂ) * Complex.I‖ ≤ 2 ^ n) :
+    ‖((expBits n x y).1 : ℂ) + ((expBits n x y).2 : ℂ) * Complex.I -
+      2 ^ n * Complex.exp (((x : ℂ) + (y : ℂ) * Complex.I) / 2 ^ n)‖ ≤ 1 :=
+  IntMul.HvdH.ExpPf.expBits_bound n x y h

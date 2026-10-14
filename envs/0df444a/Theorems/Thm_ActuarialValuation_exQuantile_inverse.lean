@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exQuantile_inverse
 -- name    : ActuarialValuation.exQuantile_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:40.809247+00:00
 -- url     : https://prove2.me/theorems/76cdee9a-7d85-4037-868d-f1000a78847d

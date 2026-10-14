@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPairSquared_swap
 -- name    : ActuarialValuation.scrPairSquared_swap
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:14:28.131269+00:00
 -- url     : https://prove2.me/theorems/0094e01e-0223-432d-93b3-dc4d29bf61ed

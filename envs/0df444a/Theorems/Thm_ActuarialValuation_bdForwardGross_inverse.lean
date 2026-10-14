@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdForwardGross_inverse
 -- name    : ActuarialValuation.bdForwardGross_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:27.738163+00:00
 -- url     : https://prove2.me/theorems/4050997e-d2c1-4654-a057-1714a09c8bdd

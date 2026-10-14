@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_hanneke_learner_pac
 -- name    : OptimalPAC.SampleComplexity.hanneke_learner_pac
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:31:09.153984+00:00
 -- url     : https://prove2.me/theorems/b1bc7e99-aa81-429c-89d8-331eb0070a0d

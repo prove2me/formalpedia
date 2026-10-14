@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_UpperBound_proposition_7
 -- name    : ConstrNestedLogit.UpperBound.proposition_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:51.027229+00:00
 -- url     : https://prove2.me/theorems/a2101762-0cd9-438a-a1ba-f15293326320

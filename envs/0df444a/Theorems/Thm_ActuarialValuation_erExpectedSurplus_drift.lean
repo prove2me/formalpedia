@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedSurplus_drift
 -- name    : ActuarialValuation.erExpectedSurplus_drift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:50.077833+00:00
 -- url     : https://prove2.me/theorems/14bbf1c7-4382-4a08-8ee1-f332ba5b80f5

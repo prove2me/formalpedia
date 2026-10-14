@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msStep_add
 -- name    : ActuarialValuation.msStep_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:54:42.169818+00:00
 -- url     : https://prove2.me/theorems/b1d3b6f2-9542-42e3-8541-44864b16b2db

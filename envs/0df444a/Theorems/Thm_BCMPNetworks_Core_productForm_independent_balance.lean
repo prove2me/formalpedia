@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCMPNetworks_Core_productForm_independent_balance
 -- name    : BCMPNetworks.Core.productForm_independent_balance
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:43:27.932697+00:00
 -- url     : https://prove2.me/theorems/54b1421e-f94b-4c1c-9538-e2a4fd7e3e77

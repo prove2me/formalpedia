@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctTwoState_semigroup
 -- name    : ActuarialValuation.ctTwoState_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:05.460815+00:00
 -- url     : https://prove2.me/theorems/727b65d6-f77e-4c09-bf76-07931271fe0f

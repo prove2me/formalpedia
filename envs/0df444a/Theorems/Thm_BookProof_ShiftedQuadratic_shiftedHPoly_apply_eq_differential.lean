@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadratic_shiftedHPoly_apply_eq_differential
 -- name    : BookProof.ShiftedQuadratic.shiftedHPoly_apply_eq_differential
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T12:44:25.721838+00:00
 -- url     : https://prove2.me/theorems/da5ded48-1a34-425c-8d7d-13eeae867f18

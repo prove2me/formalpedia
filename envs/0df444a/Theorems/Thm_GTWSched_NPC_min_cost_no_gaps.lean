@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_min_cost_no_gaps
 -- name    : GTWSched.NPC.min_cost_no_gaps
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:35:13.027965+00:00
 -- url     : https://prove2.me/theorems/f953e1d3-ab5c-4b31-99de-6eb964232d07

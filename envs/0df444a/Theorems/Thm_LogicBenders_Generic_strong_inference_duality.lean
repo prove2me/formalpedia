@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogicBenders_Generic_strong_inference_duality
 -- name    : LogicBenders.Generic.strong_inference_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:21.815359+00:00
 -- url     : https://prove2.me/theorems/343f638f-5866-4b72-afad-38ddec1b36b7

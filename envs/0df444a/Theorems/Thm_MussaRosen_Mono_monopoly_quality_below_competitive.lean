@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_monopoly_quality_below_competitive
 -- name    : MussaRosen.Mono.monopoly_quality_below_competitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:36:00.493002+00:00
 -- url     : https://prove2.me/theorems/925822a2-608d-49da-b3fd-e77fa04cb534

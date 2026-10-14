@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_HermiteStrichartzQG_hermiteCoreOp_not_bounded
 -- name    : BookProof.HermiteStrichartzQG.hermiteCoreOp_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T15:48:21.803986+00:00
 -- url     : https://prove2.me/theorems/e88bd29a-989a-4e86-b8df-6b0812b06d2f

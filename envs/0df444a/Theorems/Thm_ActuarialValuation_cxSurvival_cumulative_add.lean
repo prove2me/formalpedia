@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxSurvival_cumulative_add
 -- name    : ActuarialValuation.cxSurvival_cumulative_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:08.202345+00:00
 -- url     : https://prove2.me/theorems/239f5cff-4b1f-4b41-bf9d-ffef44f123fd

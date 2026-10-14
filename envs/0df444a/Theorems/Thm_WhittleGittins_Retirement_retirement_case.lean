@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittleGittins_Retirement_retirement_case
 -- name    : WhittleGittins.Retirement.retirement_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:39.991993+00:00
 -- url     : https://prove2.me/theorems/30e4c66d-087a-432b-ad01-df44222b87e8

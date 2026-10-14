@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csBenefit_nonneg
 -- name    : ActuarialValuation.csBenefit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:24.868974+00:00
 -- url     : https://prove2.me/theorems/9e52380e-af66-40db-b9a6-2497fc38a63b

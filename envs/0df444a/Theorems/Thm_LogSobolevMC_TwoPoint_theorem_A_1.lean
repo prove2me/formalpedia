@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogSobolevMC_TwoPoint_theorem_A_1
 -- name    : LogSobolevMC.TwoPoint.theorem_A_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:57:58.437699+00:00
 -- url     : https://prove2.me/theorems/cc5fb154-7243-40f7-8c71-0a9b4feb6c5e

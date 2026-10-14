@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_WideNbhd_theorem_2
 -- name    : AdaptiveStepIPM.WideNbhd.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:45:06.557987+00:00
 -- url     : https://prove2.me/theorems/cbb31241-b1dd-4f8c-88b2-643349224ceb

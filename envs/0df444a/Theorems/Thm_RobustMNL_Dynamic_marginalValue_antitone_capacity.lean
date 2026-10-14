@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_marginalValue_antitone_capacity
 -- name    : RobustMNL.Dynamic.marginalValue_antitone_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:09.956791+00:00
 -- url     : https://prove2.me/theorems/b19b7565-f661-4b90-b4a5-9c0e5bd87cae

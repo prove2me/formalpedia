@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_UDPmin_udpmin_reduction
 -- name    : RevenueOrdered.UDPmin.udpmin_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:58:46.894413+00:00
 -- url     : https://prove2.me/theorems/a2d01eff-fba0-4ee1-8b6b-03287c5f3ac9

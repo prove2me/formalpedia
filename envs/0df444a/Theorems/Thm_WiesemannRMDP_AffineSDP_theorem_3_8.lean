@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiesemannRMDP_AffineSDP_theorem_3_8
 -- name    : WiesemannRMDP.AffineSDP.theorem_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:41:06.439591+00:00
 -- url     : https://prove2.me/theorems/7016b79c-1263-4560-85cc-23bffc54e6d4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_consistent_error_bound
 -- name    : OptimalPAC.SampleComplexity.consistent_error_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:27:04.793924+00:00
 -- url     : https://prove2.me/theorems/39b66463-b8a8-4d6b-9212-a8e0684e805f

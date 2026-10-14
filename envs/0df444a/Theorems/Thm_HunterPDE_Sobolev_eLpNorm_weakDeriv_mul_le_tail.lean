@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_eLpNorm_weakDeriv_mul_le_tail
 -- name    : HunterPDE.Sobolev.eLpNorm_weakDeriv_mul_le_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T23:12:18.944461+00:00
 -- url     : https://prove2.me/theorems/9ff5f499-f2ff-41a2-805b-d028fa793a3a

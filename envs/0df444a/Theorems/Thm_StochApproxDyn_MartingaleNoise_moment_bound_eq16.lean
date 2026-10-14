@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_MartingaleNoise_moment_bound_eq16
 -- name    : StochApproxDyn.MartingaleNoise.moment_bound_eq16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:28:10.791446+00:00
 -- url     : https://prove2.me/theorems/cbdc60ad-093a-4a2a-af41-ff14a773e9f8

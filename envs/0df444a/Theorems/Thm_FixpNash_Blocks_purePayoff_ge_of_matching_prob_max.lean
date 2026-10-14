@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Blocks_purePayoff_ge_of_matching_prob_max
 -- name    : FixpNash.Blocks.purePayoff_ge_of_matching_prob_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:00.72056+00:00
 -- url     : https://prove2.me/theorems/3498e101-bfcb-4869-8dbf-032142ff8ec2

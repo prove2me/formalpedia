@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgPanjerFinite_fundamental
 -- name    : ActuarialValuation.pgPanjerFinite_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:58:42.746313+00:00
 -- url     : https://prove2.me/theorems/3d71a1ec-ce68-4250-a8bd-b58847098ed1

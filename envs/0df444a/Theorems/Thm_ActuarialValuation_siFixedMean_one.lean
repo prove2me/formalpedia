@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFixedMean_one
 -- name    : ActuarialValuation.siFixedMean_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:07.292068+00:00
 -- url     : https://prove2.me/theorems/7fdaf1f1-27b7-482b-bfbe-ca5b1538e7f1

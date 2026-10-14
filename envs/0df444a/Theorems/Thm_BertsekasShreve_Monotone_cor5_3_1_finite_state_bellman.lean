@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Monotone_cor5_3_1_finite_state_bellman
 -- name    : BertsekasShreve.Monotone.cor5_3_1_finite_state_bellman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:19:59.946225+00:00
 -- url     : https://prove2.me/theorems/19cf06dc-77f2-4e1b-8598-6c1239c8427c

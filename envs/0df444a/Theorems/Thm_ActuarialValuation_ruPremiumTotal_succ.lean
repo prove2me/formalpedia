@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruPremiumTotal_succ
 -- name    : ActuarialValuation.ruPremiumTotal_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:54:52.354749+00:00
 -- url     : https://prove2.me/theorems/21924398-a202-4ce0-bd16-7e10df1e0785

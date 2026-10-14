@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfFundingExperience_fundamental
 -- name    : ActuarialValuation.pfFundingExperience_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:18.490473+00:00
 -- url     : https://prove2.me/theorems/6f4fa6cf-52ac-4dda-bd77-68274becab78

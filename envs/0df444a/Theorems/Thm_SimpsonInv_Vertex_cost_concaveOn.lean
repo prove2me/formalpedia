@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpsonInv_Vertex_cost_concaveOn
 -- name    : SimpsonInv.Vertex.cost_concaveOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:26:37.263988+00:00
 -- url     : https://prove2.me/theorems/cf373044-fb2b-47b6-a9a9-7c0f274f0b44

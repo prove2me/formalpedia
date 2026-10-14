@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_LowerBounds_theorem_5_1
 -- name    : ModernOnlineLearning.LowerBounds.theorem_5_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:36:33.564815+00:00
 -- url     : https://prove2.me/theorems/5f9cbe9e-a9a3-4cb5-8597-9f1a8356d3e7

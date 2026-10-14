@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crCreditSpread_nonneg
 -- name    : ActuarialValuation.crCreditSpread_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:50.413194+00:00
 -- url     : https://prove2.me/theorems/1d3523fd-5a6d-4cc9-ba3b-ae81801cfaa7

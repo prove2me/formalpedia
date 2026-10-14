@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedProductSiteCutoff_fixes_source
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedProductSiteCutoff_fixes_source
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T01:46:24.74118+00:00
 -- url     : https://prove2.me/theorems/32ab6b96-67aa-4c04-a32e-18062d8b95c8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipPoi_normalized
 -- name    : ActuarialValuation.ipPoi_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:46.986293+00:00
 -- url     : https://prove2.me/theorems/65e09f16-489d-4142-997a-36ce7e1e2d7d

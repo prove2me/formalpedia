@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctGeneratorThiele_fundamental
 -- name    : ActuarialValuation.ctGeneratorThiele_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:59:53.270758+00:00
 -- url     : https://prove2.me/theorems/194ac070-b25a-409e-8900-85d4776877cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustOdds_Tradeoff_theorem_2_1
 -- name    : RobustOdds.Tradeoff.theorem_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:38:09.854069+00:00
 -- url     : https://prove2.me/theorems/85f62a6f-4e12-4431-9b85-77dfdc17d140

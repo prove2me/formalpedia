@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPremiumDifference_equivalent_reserve
 -- name    : ActuarialValuation.alterationPremiumDifference_equivalent_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:13:59.249351+00:00
 -- url     : https://prove2.me/theorems/51c514f5-8226-4b5c-82de-b67c91cf93ad

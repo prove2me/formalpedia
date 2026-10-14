@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msTwoStep_row_mass
 -- name    : ActuarialValuation.msTwoStep_row_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:56:05.799986+00:00
 -- url     : https://prove2.me/theorems/d6b479cf-7aff-4d24-9c6d-a349703b57c8

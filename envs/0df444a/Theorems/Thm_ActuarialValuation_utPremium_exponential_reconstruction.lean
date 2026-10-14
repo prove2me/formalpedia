@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utPremium_exponential_reconstruction
 -- name    : ActuarialValuation.utPremium_exponential_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:02.720152+00:00
 -- url     : https://prove2.me/theorems/b17d0cda-c99a-48a4-bb76-2d3da62bdb56

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svCdf_le_one
 -- name    : ActuarialValuation.svCdf_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:16.546096+00:00
 -- url     : https://prove2.me/theorems/0d2bd287-c312-490f-9a16-d325a388de06

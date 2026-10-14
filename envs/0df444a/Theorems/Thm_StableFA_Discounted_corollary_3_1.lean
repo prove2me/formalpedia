@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_Discounted_corollary_3_1
 -- name    : StableFA.Discounted.corollary_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:40:35.069352+00:00
 -- url     : https://prove2.me/theorems/e0531067-3b00-4b28-b323-f7013439e94d

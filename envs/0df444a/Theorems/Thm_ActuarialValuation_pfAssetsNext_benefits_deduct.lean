@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAssetsNext_benefits_deduct
 -- name    : ActuarialValuation.pfAssetsNext_benefits_deduct
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:08.171733+00:00
 -- url     : https://prove2.me/theorems/92a965a9-be59-4979-947e-1ea5a497afb1

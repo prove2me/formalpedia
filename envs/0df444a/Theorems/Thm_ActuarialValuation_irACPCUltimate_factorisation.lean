@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irACPCUltimate_factorisation
 -- name    : ActuarialValuation.irACPCUltimate_factorisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:27.766901+00:00
 -- url     : https://prove2.me/theorems/d14ee190-2ce7-40db-9a72-640a1f65baa7

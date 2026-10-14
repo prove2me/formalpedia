@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.HermiteStrichartzQG.qg3D_not_bounded
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:12:09.301194+00:00
 -- url     : https://prove2.me/submissions/046b87cf-b692-484a-b32a-bdc9d9848f86
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterStrichartzHermiteQG.lean — solution of BookProof.HermiteStrichartzQG.qg3D_not_bounded
 import Mathlib

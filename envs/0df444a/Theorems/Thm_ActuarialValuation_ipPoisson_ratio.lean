@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipPoisson_ratio
 -- name    : ActuarialValuation.ipPoisson_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:58.252586+00:00
 -- url     : https://prove2.me/theorems/6a9bc222-254f-454c-b725-fa96c0d10371

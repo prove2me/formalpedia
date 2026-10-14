@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlOutcomeBenefit_none
 -- name    : ActuarialValuation.jlOutcomeBenefit_none
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:55.576443+00:00
 -- url     : https://prove2.me/theorems/e2b69ee0-a178-4e5d-8d49-c6cc3bea487f

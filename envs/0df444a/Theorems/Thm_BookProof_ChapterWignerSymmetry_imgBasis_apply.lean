@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_imgBasis_apply
 -- name    : BookProof.ChapterWignerSymmetry.imgBasis_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:19:35.159349+00:00
 -- url     : https://prove2.me/theorems/035fb041-c74b-46db-806d-0dcecbf8fe0f

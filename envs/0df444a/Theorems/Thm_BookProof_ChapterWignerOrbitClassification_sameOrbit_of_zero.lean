@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_sameOrbit_of_zero
 -- name    : BookProof.ChapterWignerOrbitClassification.sameOrbit_of_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:16:25.156111+00:00
 -- url     : https://prove2.me/theorems/aa8bc61e-14b1-4247-b8f9-be91f66589d2

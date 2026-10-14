@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Converse_Ddiff_dirac_neg
 -- name    : DistCov.Converse.Ddiff_dirac_neg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:29:50.417497+00:00
 -- url     : https://prove2.me/theorems/cbb48586-82aa-48ba-8413-fe1172ca0a5a

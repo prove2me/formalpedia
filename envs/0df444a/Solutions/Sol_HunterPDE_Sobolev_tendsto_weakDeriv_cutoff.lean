@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Sobolev.tendsto_weakDeriv_cutoff
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-10T23:14:55.370313+00:00
 -- url     : https://prove2.me/submissions/f964c4a1-a91b-4e7c-a725-75334bfd120f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HunterPDE_Sobolev_eLpNorm_weakDeriv_mul_le_tail
 import Theorems.Thm_HunterPDE_Sobolev_uniform_cutoff_jet_bound

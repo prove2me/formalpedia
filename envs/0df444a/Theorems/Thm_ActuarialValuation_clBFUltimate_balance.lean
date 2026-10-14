@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clBFUltimate_balance
 -- name    : ActuarialValuation.clBFUltimate_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:49:21.341112+00:00
 -- url     : https://prove2.me/theorems/ced78a3e-8060-48fc-b959-df272a72fc90

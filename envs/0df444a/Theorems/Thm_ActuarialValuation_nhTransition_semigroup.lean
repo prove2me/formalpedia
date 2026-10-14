@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhTransition_semigroup
 -- name    : ActuarialValuation.nhTransition_semigroup
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:44.701986+00:00
 -- url     : https://prove2.me/theorems/857d2a66-c395-426e-9a21-fec2af812f67

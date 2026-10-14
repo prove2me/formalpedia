@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulPremiumAlloc_nonneg
 -- name    : ActuarialValuation.ulPremiumAlloc_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:02:41.012264+00:00
 -- url     : https://prove2.me/theorems/f8123678-eb55-4f7f-a58d-4b5e6f69cd33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarpPapadimitriou_SmallFacial_zero_one_vertices
 -- name    : KarpPapadimitriou.SmallFacial.zero_one_vertices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:40:24.404138+00:00
 -- url     : https://prove2.me/theorems/1f095ffd-a980-4288-8a43-8a7139c64fe4

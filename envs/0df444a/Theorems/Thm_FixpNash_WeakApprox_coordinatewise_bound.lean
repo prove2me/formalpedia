@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_WeakApprox_coordinatewise_bound
 -- name    : FixpNash.WeakApprox.coordinatewise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:12.247993+00:00
 -- url     : https://prove2.me/theorems/07ed89fb-f28f-4e3d-ae8a-e4d4bdcddd0a

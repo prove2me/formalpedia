@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_wignerCoord_coordMap
 -- name    : BookProof.ChapterWignerSymmetry.wignerCoord_coordMap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:19:40.338023+00:00
 -- url     : https://prove2.me/theorems/797cf535-78f0-4cb9-9013-55e96c780038

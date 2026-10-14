@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_StrongCvx_theorem_8
 -- name    : NesterovODE.StrongCvx.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:37:07.685442+00:00
 -- url     : https://prove2.me/theorems/f32fc615-a476-4831-a02a-d0edc39e49ab

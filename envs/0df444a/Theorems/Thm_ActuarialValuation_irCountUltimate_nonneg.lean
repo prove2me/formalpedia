@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irCountUltimate_nonneg
 -- name    : ActuarialValuation.irCountUltimate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:49.232615+00:00
 -- url     : https://prove2.me/theorems/7844ad72-1613-4f05-814a-0bec80ddb644

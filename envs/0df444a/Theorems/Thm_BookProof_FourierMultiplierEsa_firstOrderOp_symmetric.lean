@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_firstOrderOp_symmetric
 -- name    : BookProof.FourierMultiplierEsa.firstOrderOp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:23:15.724384+00:00
 -- url     : https://prove2.me/theorems/08e2adf5-93c8-4400-ac9f-da17193de708

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_realCoeff_bigP
 -- name    : BookProof.YangMillsAbelianNoGap.realCoeff_bigP
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:35:00.789308+00:00
 -- url     : https://prove2.me/theorems/2f15e185-d4a8-4b76-b4ca-869e2d0cb7ab

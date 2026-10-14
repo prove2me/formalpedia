@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmMean_add_exposure
 -- name    : ActuarialValuation.gmMean_add_exposure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:42.13007+00:00
 -- url     : https://prove2.me/theorems/41070e99-43e1-4e84-8b7c-ccd2bb7d390c

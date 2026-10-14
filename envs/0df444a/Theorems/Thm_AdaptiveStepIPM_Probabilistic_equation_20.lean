@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Probabilistic_equation_20
 -- name    : AdaptiveStepIPM.Probabilistic.equation_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:22:53.902986+00:00
 -- url     : https://prove2.me/theorems/6d556519-341f-48dd-87ae-bcac1351ec6d

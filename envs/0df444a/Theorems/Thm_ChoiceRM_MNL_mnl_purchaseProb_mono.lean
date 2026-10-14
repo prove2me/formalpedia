@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_MNL_mnl_purchaseProb_mono
 -- name    : ChoiceRM.MNL.mnl_purchaseProb_mono
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:51:56.809985+00:00
 -- url     : https://prove2.me/theorems/e9dab7e2-d36f-4ec5-98be-cbe56f388525

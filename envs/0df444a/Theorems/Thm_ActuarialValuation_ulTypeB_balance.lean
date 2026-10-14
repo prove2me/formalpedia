@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulTypeB_balance
 -- name    : ActuarialValuation.ulTypeB_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:45.311834+00:00
 -- url     : https://prove2.me/theorems/a0331398-0946-4b6f-bd4f-02063fc20d34

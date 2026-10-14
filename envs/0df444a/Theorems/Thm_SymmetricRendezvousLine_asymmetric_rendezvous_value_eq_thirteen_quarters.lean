@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SymmetricRendezvousLine_asymmetric_rendezvous_value_eq_thirteen_quarters
 -- name    : SymmetricRendezvousLine.asymmetric_rendezvous_value_eq_thirteen_quarters
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T09:52:51.766361+00:00
 -- url     : https://prove2.me/theorems/847f191c-8acc-4089-871c-44a7abc41ca5

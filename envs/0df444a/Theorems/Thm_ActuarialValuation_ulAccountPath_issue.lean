@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAccountPath_issue
 -- name    : ActuarialValuation.ulAccountPath_issue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:39.603036+00:00
 -- url     : https://prove2.me/theorems/b119ada2-985a-42c6-85b5-49f3399c671e

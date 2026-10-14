@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crMixture_nonnegative
 -- name    : ActuarialValuation.crMixture_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:53.666054+00:00
 -- url     : https://prove2.me/theorems/2d210c66-7584-48c5-b6d3-6224fcb15395

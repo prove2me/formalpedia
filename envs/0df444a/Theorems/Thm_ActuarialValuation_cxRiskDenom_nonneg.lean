@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRiskDenom_nonneg
 -- name    : ActuarialValuation.cxRiskDenom_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:58.082994+00:00
 -- url     : https://prove2.me/theorems/101be53d-0e4e-4083-8c69-5e82eda145a7

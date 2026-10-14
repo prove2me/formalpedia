@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_WeakAPT_block_average_tendsto_eq53
 -- name    : StochApproxDyn.WeakAPT.block_average_tendsto_eq53
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:22:58.116979+00:00
 -- url     : https://prove2.me/theorems/ab792d21-1c3a-43b4-be70-93a28a39d196

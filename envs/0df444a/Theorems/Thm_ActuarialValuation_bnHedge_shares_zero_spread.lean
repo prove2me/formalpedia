@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnHedge_shares_zero_spread
 -- name    : ActuarialValuation.bnHedge_shares_zero_spread
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:43.791391+00:00
 -- url     : https://prove2.me/theorems/aa854024-5334-495a-abae-2a568fb5b681

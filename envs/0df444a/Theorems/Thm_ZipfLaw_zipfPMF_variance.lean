@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipfPMF_variance
 -- name    : ZipfLaw.zipfPMF_variance
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:24.07398+00:00
 -- url     : https://prove2.me/theorems/fd2d814e-cf40-467b-a87f-4b217ac1803e

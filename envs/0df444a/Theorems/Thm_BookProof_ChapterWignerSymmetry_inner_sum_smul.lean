@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_inner_sum_smul
 -- name    : BookProof.ChapterWignerSymmetry.inner_sum_smul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:18:26.999403+00:00
 -- url     : https://prove2.me/theorems/291f617e-f729-41c8-b6f2-8dd6d1549872

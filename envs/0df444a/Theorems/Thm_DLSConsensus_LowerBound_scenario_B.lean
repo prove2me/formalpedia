@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DLSConsensus_LowerBound_scenario_B
 -- name    : DLSConsensus.LowerBound.scenario_B
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:47:06.923167+00:00
 -- url     : https://prove2.me/theorems/dac9e593-8563-40cf-a699-6d6010116fdb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exGumbel_shift
 -- name    : ActuarialValuation.exGumbel_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:57.873982+00:00
 -- url     : https://prove2.me/theorems/e87afe68-9cdf-4621-a00f-fe50ebf6f74f

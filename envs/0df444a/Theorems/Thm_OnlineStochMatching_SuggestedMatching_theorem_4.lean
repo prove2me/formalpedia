@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_SuggestedMatching_theorem_4
 -- name    : OnlineStochMatching.SuggestedMatching.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:03:29.968309+00:00
 -- url     : https://prove2.me/theorems/5e29c5a0-4f2d-4e42-9569-850790269495

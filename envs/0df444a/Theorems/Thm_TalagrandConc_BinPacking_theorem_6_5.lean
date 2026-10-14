@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc_BinPacking_theorem_6_5
 -- name    : TalagrandConc.BinPacking.theorem_6_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:43:55.85871+00:00
 -- url     : https://prove2.me/theorems/4a9f1b08-bcd3-44d2-8c92-2abf137dae69

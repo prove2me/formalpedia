@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_weylProd_self_apply
 -- name    : BookProof.YangMillsAbelianEsa.weylProd_self_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:19:46.707726+00:00
 -- url     : https://prove2.me/theorems/7cb8ea69-2684-4bd7-abe1-5b18672432b7

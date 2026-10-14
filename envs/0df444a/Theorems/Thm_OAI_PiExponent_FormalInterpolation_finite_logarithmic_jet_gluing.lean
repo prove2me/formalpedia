@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_logarithmic_jet_gluing
 -- name    : OAI.PiExponent.FormalInterpolation.finite_logarithmic_jet_gluing
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:11:38.550394+00:00
 -- url     : https://prove2.me/theorems/d4f8b883-ecf8-4c29-a1cd-a56d4999d670

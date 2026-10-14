@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_adjGraph_eq_of_clGraph_eq
 -- name    : BookProof.ClosureUniqueness.adjGraph_eq_of_clGraph_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:42:37.18223+00:00
 -- url     : https://prove2.me/theorems/f3a7b127-f29d-41f7-95ea-71d531a6461e

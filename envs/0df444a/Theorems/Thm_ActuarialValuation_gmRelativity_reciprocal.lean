@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmRelativity_reciprocal
 -- name    : ActuarialValuation.gmRelativity_reciprocal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:35.049605+00:00
 -- url     : https://prove2.me/theorems/9104f6f2-a057-4d94-b0b5-2b1a88e04081

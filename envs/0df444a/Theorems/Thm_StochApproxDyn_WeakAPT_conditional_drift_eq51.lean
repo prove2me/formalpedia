@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_WeakAPT_conditional_drift_eq51
 -- name    : StochApproxDyn.WeakAPT.conditional_drift_eq51
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:23:28.349823+00:00
 -- url     : https://prove2.me/theorems/04a03a64-c8e5-4fd8-a4a9-f2e716a79adf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exCdf_nonneg
 -- name    : ActuarialValuation.exCdf_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:39.664206+00:00
 -- url     : https://prove2.me/theorems/8ffb1bf4-49fc-491c-a9aa-b0e6aac4623c

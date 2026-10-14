@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RubinsteinNash_WeakNash_lemma_8_1
 -- name    : RubinsteinNash.WeakNash.lemma_8_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:49:59.066185+00:00
 -- url     : https://prove2.me/theorems/578e4130-d54b-40b5-9850-966d4f419dbe

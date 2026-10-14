@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Potential_psi_rewrite_lower_bound
 -- name    : AdaptiveStepIPM.Potential.psi_rewrite_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:45:27.139282+00:00
 -- url     : https://prove2.me/theorems/4890716f-6e25-4f66-aa21-cab61d2834f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commTemporaryAnnuity_cancel
 -- name    : ActuarialValuation.commTemporaryAnnuity_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:17:21.371728+00:00
 -- url     : https://prove2.me/theorems/0f6e75e0-3b8d-4ecd-96af-4af90d5c6930

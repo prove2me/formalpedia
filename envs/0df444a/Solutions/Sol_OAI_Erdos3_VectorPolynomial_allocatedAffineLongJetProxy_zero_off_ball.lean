@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_zero_off_ball
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:04:56.461342+00:00
 -- url     : https://prove2.me/submissions/a34c9403-c0cf-43d5-9bc4-b490e1bd1e27
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ErdosReciprocal

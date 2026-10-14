@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpFraction_equivalence
 -- name    : ActuarialValuation.alterationPaidUpFraction_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:58.287266+00:00
 -- url     : https://prove2.me/theorems/6051d488-4feb-4cdf-986f-3638b3ff6824

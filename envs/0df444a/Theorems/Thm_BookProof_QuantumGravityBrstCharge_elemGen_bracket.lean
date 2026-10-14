@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityBrstCharge_elemGen_bracket
 -- name    : BookProof.QuantumGravityBrstCharge.elemGen_bracket
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:46:27.181118+00:00
 -- url     : https://prove2.me/theorems/690d2515-0b0d-45e8-8b7a-d8eed80cc7ac

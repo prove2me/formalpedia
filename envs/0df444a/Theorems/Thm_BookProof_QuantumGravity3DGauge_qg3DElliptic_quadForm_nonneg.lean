@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qg3DElliptic_quadForm_nonneg
 -- name    : BookProof.QuantumGravity3DGauge.qg3DElliptic_quadForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:57:09.112468+00:00
 -- url     : https://prove2.me/theorems/06de1b87-3a0f-4581-8d3c-9981e51e0047

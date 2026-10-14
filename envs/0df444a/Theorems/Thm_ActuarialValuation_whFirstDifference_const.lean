@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whFirstDifference_const
 -- name    : ActuarialValuation.whFirstDifference_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:38.68134+00:00
 -- url     : https://prove2.me/theorems/5f423a65-28e8-4472-954f-23a7ff9eae33

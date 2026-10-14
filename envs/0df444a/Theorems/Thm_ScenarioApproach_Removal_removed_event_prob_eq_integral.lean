@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Removal_removed_event_prob_eq_integral
 -- name    : ScenarioApproach.Removal.removed_event_prob_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T05:55:13.662524+00:00
 -- url     : https://prove2.me/theorems/beb74ff2-aa9b-4bf4-9652-492e55163792

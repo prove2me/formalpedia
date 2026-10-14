@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvAdequacy_cdf_unit_annuity
 -- name    : ActuarialValuation.pvAdequacy_cdf_unit_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:51.858677+00:00
 -- url     : https://prove2.me/theorems/1d9850cc-f480-473b-bfeb-ad9e622454e9

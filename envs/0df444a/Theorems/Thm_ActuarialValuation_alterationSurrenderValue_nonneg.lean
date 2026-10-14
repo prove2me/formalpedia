@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationSurrenderValue_nonneg
 -- name    : ActuarialValuation.alterationSurrenderValue_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:09:23.176816+00:00
 -- url     : https://prove2.me/theorems/0d1b8e33-94fb-43dd-8d84-c7541c88ffbe

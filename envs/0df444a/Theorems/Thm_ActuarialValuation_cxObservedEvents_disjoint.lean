@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxObservedEvents_disjoint
 -- name    : ActuarialValuation.cxObservedEvents_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:12:22.398153+00:00
 -- url     : https://prove2.me/theorems/192d6d6b-6466-4e0e-a09e-9898eaafb2d5

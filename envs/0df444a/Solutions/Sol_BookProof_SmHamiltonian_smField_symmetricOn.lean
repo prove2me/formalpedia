@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmHamiltonian.smField_symmetricOn
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T10:19:17.14598+00:00
 -- url     : https://prove2.me/submissions/a51babfb-ce49-4d4f-8dd1-fa680cd77ebf
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmHamiltonian.lean — solution of BookProof.SmHamiltonian.smField_symmetricOn
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPanjer_first_nonneg
 -- name    : ActuarialValuation.cxPanjer_first_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:01:58.070749+00:00
 -- url     : https://prove2.me/theorems/21a04c3a-852b-4a6e-b6cc-6344112e5a11

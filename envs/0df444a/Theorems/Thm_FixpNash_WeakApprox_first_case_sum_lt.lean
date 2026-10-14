@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_WeakApprox_first_case_sum_lt
 -- name    : FixpNash.WeakApprox.first_case_sum_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:12.795842+00:00
 -- url     : https://prove2.me/theorems/36b00c24-b247-45e0-ab8a-d6788c65cd69

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_conforming_steady_state_avg_cost
 -- name    : SennottDP.ChainASM.conforming_steady_state_avg_cost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:51:45.936482+00:00
 -- url     : https://prove2.me/theorems/bfd6b150-43de-41ba-84d9-973058d9ad90

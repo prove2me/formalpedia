@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_aut_equiv_centralizer
 -- name    : GaugeFunctor.aut_equiv_centralizer
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T09:57:08.547408+00:00
 -- url     : https://prove2.me/theorems/457aed2a-71ab-4455-a46d-0288c82ecfa6

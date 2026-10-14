@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmSurvivalFactor_le_one
 -- name    : ActuarialValuation.kmSurvivalFactor_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:16.159982+00:00
 -- url     : https://prove2.me/theorems/b364a70d-1d29-425a-b4de-707769b75d04

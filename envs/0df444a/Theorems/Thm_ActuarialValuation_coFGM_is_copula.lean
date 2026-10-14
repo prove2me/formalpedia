@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coFGM_is_copula
 -- name    : ActuarialValuation.coFGM_is_copula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:50.247992+00:00
 -- url     : https://prove2.me/theorems/0a1ea9b0-6cf2-4b88-83dd-1065a4f90f8d

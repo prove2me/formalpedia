@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PolyhedralSOC_LowerBound_polyhedral_approx_lower_bound
 -- name    : PolyhedralSOC.LowerBound.polyhedral_approx_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T20:50:29.336847+00:00
 -- url     : https://prove2.me/theorems/467f1995-0e42-4e98-be02-fe69ed54d623

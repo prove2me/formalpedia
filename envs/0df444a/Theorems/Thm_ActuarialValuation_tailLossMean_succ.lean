@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailLossMean_succ
 -- name    : ActuarialValuation.tailLossMean_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:30:30.419736+00:00
 -- url     : https://prove2.me/theorems/afc6b4f7-cd38-4852-8190-57f62bfaaea5

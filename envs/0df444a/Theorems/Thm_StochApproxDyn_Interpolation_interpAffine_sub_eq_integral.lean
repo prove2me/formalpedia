@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Interpolation_interpAffine_sub_eq_integral
 -- name    : StochApproxDyn.Interpolation.interpAffine_sub_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:08:03.626141+00:00
 -- url     : https://prove2.me/theorems/31f63780-99e4-446a-bc1f-7394b96a2e92

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_BOR_relValue_le_passageCost
 -- name    : SennottDP.BOR.relValue_le_passageCost
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T11:29:38.424817+00:00
 -- url     : https://prove2.me/theorems/f1f342b8-ad88-4feb-ae42-451ac3eca203

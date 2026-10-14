@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Probabilistic_gaussian_maximum
 -- name    : AdaptiveStepIPM.Probabilistic.gaussian_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:20.280692+00:00
 -- url     : https://prove2.me/theorems/a7851e10-511e-42f0-8103-fb204b45c2f3

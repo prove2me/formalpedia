@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterWeylSL2Group.pow_mem_of_mem
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:40:41.948744+00:00
 -- url     : https://prove2.me/submissions/db76fa4b-907e-4a2e-bc0d-25a411d67b95
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterWeylSL2Group.lean — solution of BookProof.ChapterWeylSL2Group.pow_mem_of_mem
 import Mathlib

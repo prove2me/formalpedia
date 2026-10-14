@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulMixed_equal_basis
 -- name    : ActuarialValuation.ulMixed_equal_basis
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:49.128985+00:00
 -- url     : https://prove2.me/theorems/4b1cd172-4171-452f-be30-743821f7b822

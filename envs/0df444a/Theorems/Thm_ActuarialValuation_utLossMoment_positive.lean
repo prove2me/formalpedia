@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utLossMoment_positive
 -- name    : ActuarialValuation.utLossMoment_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:52.896831+00:00
 -- url     : https://prove2.me/theorems/00ed450c-424e-4838-a1f0-ab0a1f0a5bfb

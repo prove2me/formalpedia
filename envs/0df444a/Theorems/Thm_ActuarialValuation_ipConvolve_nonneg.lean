@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipConvolve_nonneg
 -- name    : ActuarialValuation.ipConvolve_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:57.488534+00:00
 -- url     : https://prove2.me/theorems/20b3312d-27a1-4b63-983e-a09d26341d6e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoysterInexactLP_Auxiliary_feasibleLP_of_feasibleIb
 -- name    : SoysterInexactLP.Auxiliary.feasibleLP_of_feasibleIb
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:37:44.910468+00:00
 -- url     : https://prove2.me/theorems/2ee68b1e-ca9f-4bc2-b304-cc633bd94bad

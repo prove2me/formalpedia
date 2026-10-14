@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utUtilityInsurance_fundamental
 -- name    : ActuarialValuation.utUtilityInsurance_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:12:34.304824+00:00
 -- url     : https://prove2.me/theorems/570bcc42-ea59-4429-adad-b2cbaa761f75

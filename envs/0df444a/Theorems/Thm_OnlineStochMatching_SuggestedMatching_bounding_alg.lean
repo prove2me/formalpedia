@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_SuggestedMatching_bounding_alg
 -- name    : OnlineStochMatching.SuggestedMatching.bounding_alg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:03:01.374986+00:00
 -- url     : https://prove2.me/theorems/9c26890b-adde-4887-afa7-746833e8f3e3

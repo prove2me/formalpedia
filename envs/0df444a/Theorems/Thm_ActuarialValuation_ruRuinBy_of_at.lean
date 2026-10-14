@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRuinBy_of_at
 -- name    : ActuarialValuation.ruRuinBy_of_at
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:57:41.275905+00:00
 -- url     : https://prove2.me/theorems/7766d204-da27-4403-bcad-0abdabe5101a

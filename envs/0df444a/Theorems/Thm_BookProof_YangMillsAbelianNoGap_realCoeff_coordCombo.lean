@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_realCoeff_coordCombo
 -- name    : BookProof.YangMillsAbelianNoGap.realCoeff_coordCombo
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:33:41.834756+00:00
 -- url     : https://prove2.me/theorems/0ab2be12-8d06-4b5f-a00f-a4266cdd19e7

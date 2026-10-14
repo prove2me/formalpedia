@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svInsurancePV_zero_interest
 -- name    : ActuarialValuation.svInsurancePV_zero_interest
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:26:11.411972+00:00
 -- url     : https://prove2.me/theorems/ee63fa07-4ebf-464c-b93a-ffd66221d19f

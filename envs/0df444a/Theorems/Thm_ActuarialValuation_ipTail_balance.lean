@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipTail_balance
 -- name    : ActuarialValuation.ipTail_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:18:36.892275+00:00
 -- url     : https://prove2.me/theorems/15190e45-f5b5-42db-b53e-f946e40da41f

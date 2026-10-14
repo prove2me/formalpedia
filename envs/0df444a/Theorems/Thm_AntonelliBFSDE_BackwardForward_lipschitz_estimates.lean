@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_BackwardForward_lipschitz_estimates
 -- name    : AntonelliBFSDE.BackwardForward.lipschitz_estimates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:16.000311+00:00
 -- url     : https://prove2.me/theorems/3696f3bc-7f36-4283-aed1-b576508965d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irReinflate_equal_index
 -- name    : ActuarialValuation.irReinflate_equal_index
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:01:26.376585+00:00
 -- url     : https://prove2.me/theorems/b50dc74b-c666-4ce5-b491-98ca84726e1f

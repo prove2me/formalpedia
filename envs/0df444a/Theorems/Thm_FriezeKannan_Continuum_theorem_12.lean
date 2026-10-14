@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_Continuum_theorem_12
 -- name    : FriezeKannan.Continuum.theorem_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:08:08.854979+00:00
 -- url     : https://prove2.me/theorems/20aed3dd-598e-4906-9801-ae49021f2139

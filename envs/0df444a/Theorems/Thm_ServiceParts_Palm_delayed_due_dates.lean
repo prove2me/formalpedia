@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Palm_delayed_due_dates
 -- name    : ServiceParts.Palm.delayed_due_dates
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:45:50.543261+00:00
 -- url     : https://prove2.me/theorems/ef2fc3ae-8460-4a44-8755-ecd382cd1cd9

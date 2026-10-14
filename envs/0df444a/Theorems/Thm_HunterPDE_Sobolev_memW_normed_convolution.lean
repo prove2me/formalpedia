@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_memW_normed_convolution
 -- name    : HunterPDE.Sobolev.memW_normed_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T22:36:54.714982+00:00
 -- url     : https://prove2.me/theorems/4a47e72f-0e45-4467-81d2-af8157bd3226

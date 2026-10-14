@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_LowerBound_chebyshev_max
 -- name    : NagaevLD.LowerBound.chebyshev_max
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:18:38.688382+00:00
 -- url     : https://prove2.me/theorems/9a8d73f9-c801-43fe-8afa-62ce90aaa672

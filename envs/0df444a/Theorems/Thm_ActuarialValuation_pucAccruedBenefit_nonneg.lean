@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucAccruedBenefit_nonneg
 -- name    : ActuarialValuation.pucAccruedBenefit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:06:13.079228+00:00
 -- url     : https://prove2.me/theorems/1344cb6f-38ca-4231-82e7-716705637570

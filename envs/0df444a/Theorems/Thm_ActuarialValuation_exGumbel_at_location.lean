@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exGumbel_at_location
 -- name    : ActuarialValuation.exGumbel_at_location
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:43.587778+00:00
 -- url     : https://prove2.me/theorems/2bf3ddbe-8e9d-46f4-ae1b-4ad3024894f5

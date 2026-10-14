@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_MaxDisc_theorem_4
 -- name    : GTWSched.MaxDisc.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:48:43.377979+00:00
 -- url     : https://prove2.me/theorems/4eec9309-0675-49ab-949f-ab887fa269e0

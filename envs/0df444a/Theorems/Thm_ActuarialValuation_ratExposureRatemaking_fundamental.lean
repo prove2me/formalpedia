@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratExposureRatemaking_fundamental
 -- name    : ActuarialValuation.ratExposureRatemaking_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:48:33.771167+00:00
 -- url     : https://prove2.me/theorems/1fe778c0-1dfc-43d6-bed3-1c607226a6eb

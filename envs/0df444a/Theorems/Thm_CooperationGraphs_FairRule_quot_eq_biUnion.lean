@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_quot_eq_biUnion
 -- name    : CooperationGraphs.FairRule.quot_eq_biUnion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:28:06.747099+00:00
 -- url     : https://prove2.me/theorems/4e54f519-c24c-436d-9677-a18e5eab0f8a

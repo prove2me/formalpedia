@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coCopula_lower_bound
 -- name    : ActuarialValuation.coCopula_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:30.843118+00:00
 -- url     : https://prove2.me/theorems/d3b47947-624b-4d9a-97ec-7459210dd68c

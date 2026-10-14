@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnHedge_cash_const
 -- name    : ActuarialValuation.bnHedge_cash_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:54.857381+00:00
 -- url     : https://prove2.me/theorems/6d3661dc-eba9-48d2-9249-f1a6f99e1f74

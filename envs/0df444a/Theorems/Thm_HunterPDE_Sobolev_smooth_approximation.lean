@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_smooth_approximation
 -- name    : HunterPDE.Sobolev.smooth_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T22:16:43.439132+00:00
 -- url     : https://prove2.me/theorems/d9607d15-38d8-4836-af57-fc16d4f008f5

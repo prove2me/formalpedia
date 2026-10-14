@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_as_steady_state_limits
 -- name    : SennottDP.ChainASM.as_steady_state_limits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:35:32.851835+00:00
 -- url     : https://prove2.me/theorems/984e8333-7e77-4b78-83f0-951b9c337cb0

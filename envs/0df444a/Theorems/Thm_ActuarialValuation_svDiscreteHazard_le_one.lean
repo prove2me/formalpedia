@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svDiscreteHazard_le_one
 -- name    : ActuarialValuation.svDiscreteHazard_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:55.525978+00:00
 -- url     : https://prove2.me/theorems/b8216037-e756-45f1-9900-efba65682b5b

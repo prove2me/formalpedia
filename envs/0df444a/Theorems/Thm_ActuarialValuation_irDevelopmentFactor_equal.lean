@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irDevelopmentFactor_equal
 -- name    : ActuarialValuation.irDevelopmentFactor_equal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:45.625735+00:00
 -- url     : https://prove2.me/theorems/8786b9f0-ba70-4aa3-b654-172899cae1f6

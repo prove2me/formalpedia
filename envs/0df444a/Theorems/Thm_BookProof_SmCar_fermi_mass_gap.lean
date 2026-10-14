@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_fermi_mass_gap
 -- name    : BookProof.SmCar.fermi_mass_gap
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:28:12.072367+00:00
 -- url     : https://prove2.me/theorems/c15dea39-93b5-4f9c-b00d-061348529d06

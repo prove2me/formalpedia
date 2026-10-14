@@ -54889,3 +54889,71 @@
 {"parent": "xpos_of_uIcc", "child": "ResidueCalcOnRectangles_defs", "via": ["solution", "statement"]}
 {"parent": "xpos_of_uIcc", "child": "ZetaBounds_defs", "via": ["solution", "statement"]}
 {"parent": "zeta_function", "child": "Novelty_CharacterClassContradiction", "via": ["solution", "statement"]}
+{"parent": "KServer.finite_horizon_uniform_bound", "child": "KServer_model", "via": ["statement"]}
+{"parent": "KServer.workFnU_sharp_potential", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "KServer.finite_game_bound_of_work_potential", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "KServer.finite_game_bound_of_work_potential", "child": "KServer_finite_game", "via": ["statement"]}
+{"parent": "KServer.workFnU_growth_sharp_coalesced_finite", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "KServer.workFnU_initial_stability", "child": "KServer_workfunctionU", "via": ["solution", "statement"]}
+{"parent": "KServer.workFnU_growth_sharp_large", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "KServer.finite_game_uniform_value_bound", "child": "KServer_finite_game", "via": ["statement"]}
+{"parent": "KServer_finite_game", "child": "KServer_model", "via": ["statement"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "KServer.online_cost_compactness", "child": "KServer_model", "via": ["statement"]}
+{"parent": "KServer.workFnU_isometry_embedding", "child": "KServer_workfunctionU", "via": ["solution", "statement"]}
+{"parent": "KServer.workFnU_coalesced_reset", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "KServer.finite_game_characterization", "child": "KServer_finite_game", "via": ["solution", "statement"]}
+{"parent": "MomentAngleSurgery.cokernel_equiv_blocks", "child": "MomentAngle_surgery_blocks", "via": ["solution", "statement"]}
+{"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "KServer.growth_bound_of_uniform_finite_subspaces", "child": "KServer_workfunctionU", "via": ["statement"]}
+{"parent": "Beal_Conjecture", "child": "Beal.primitive_reduced_exponents", "via": ["solution"]}
+{"parent": "Beal_Conjecture", "child": "Beal.primitive_exponent_normalization", "via": ["solution"]}
+{"parent": "Congruent_Number_Tunnell_Even_Converse", "child": "CongruentNumber.rational_triangle_iff_curve_point", "via": ["solution"]}
+{"parent": "Congruent_Number_Tunnell_Even_Converse", "child": "Tunnell.even_count_implies_curve_point", "via": ["solution"]}
+{"parent": "Congruent_Number_Tunnell_Odd_Converse", "child": "Tunnell.odd_count_implies_curve_point", "via": ["solution"]}
+{"parent": "Congruent_Number_Tunnell_Odd_Converse", "child": "CongruentNumber.rational_triangle_iff_curve_point", "via": ["solution"]}
+{"parent": "Hadamard_Conjecture", "child": "Hadamard.tensor_product_exists", "via": ["solution"]}
+{"parent": "Hadamard_Conjecture", "child": "Hadamard.odd_multiplier_exists", "via": ["solution"]}
+{"parent": "KServer.kserver_conjecture", "child": "KServer.finite_horizon_uniform_bound", "via": ["solution"]}
+{"parent": "KServer.kserver_conjecture", "child": "KServer.online_cost_compactness", "via": ["solution"]}
+{"parent": "SIC_POVM_Conjecture", "child": "WeylHeisenbergSIC.fiducial_exists", "via": ["solution"]}
+{"parent": "SIC_POVM_Conjecture", "child": "WeylHeisenbergSIC.exists_of_fiducial", "via": ["solution"]}
+{"parent": "KServer.finite_horizon_uniform_bound", "child": "KServer.finite_game_characterization", "via": ["solution"]}
+{"parent": "KServer.finite_horizon_uniform_bound", "child": "KServer.finite_game_uniform_value_bound", "via": ["solution"]}
+{"parent": "Hadamard.odd_multiplier_exists", "child": "Hadamard.exists_orthogonal_pm_one", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential", "child": "KServer.workFnU_growth_sharp_large", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential", "child": "HistoryPotential.pathwise_bound_iff", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential", "child": "KServer.workFnU_sharp_potential_known_cases", "via": ["solution"]}
+{"parent": "KServer.finite_game_bound_of_work_potential", "child": "KServer.extended_cost_lemma_injective", "via": ["solution"]}
+{"parent": "KServer.finite_game_bound_of_work_potential", "child": "KServer.finite_game_characterization", "via": ["solution"]}
+{"parent": "KServer.finite_game_bound_of_work_potential", "child": "KServer.injective_or_covering", "via": ["solution"]}
+{"parent": "KServer.finite_game_bound_of_work_potential", "child": "KServer.competitive_of_covering_config", "via": ["solution"]}
+{"parent": "KServer.workFnU_initial_stability", "child": "KServer.workFn_nil", "via": ["solution"]}
+{"parent": "KServer.workFnU_initial_stability", "child": "KServer.workFn_approx_offlineCost", "via": ["solution"]}
+{"parent": "KServer.workFnU_initial_stability", "child": "KServer.workFn_rec_ge", "via": ["solution"]}
+{"parent": "KServer.workFnU_initial_stability", "child": "KServer.workFn_rec_le", "via": ["solution"]}
+{"parent": "KServer.workFnU_initial_stability", "child": "KServer.offlineCost_le_workFn", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_large", "child": "KServer.workFnU_growth_sharp_finite_subspaces", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_large", "child": "KServer.growth_bound_of_uniform_finite_subspaces", "via": ["solution"]}
+{"parent": "KServer.finite_game_uniform_value_bound", "child": "KServer.finite_game_bound_of_work_potential", "via": ["solution"]}
+{"parent": "KServer.finite_game_uniform_value_bound", "child": "KServer.workFnU_sharp_potential", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFnU_growth_sharp_coalesced_finite", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFn_approx_offlineCost", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFnU_isometry_embedding", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFnU_initial_stability", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFnU_coalesced_reset", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFnU_resolves", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFnU_step_le", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.workFnU_mono", "via": ["solution"]}
+{"parent": "KServer.workFnU_growth_sharp_finite_subspaces", "child": "KServer.offlineCost_le_workFn", "via": ["solution"]}
+{"parent": "KServer.online_cost_compactness", "child": "KServer.exists_lazy_algorithm", "via": ["solution"]}
+{"parent": "KServer.workFnU_isometry_embedding", "child": "KServer.workFn_rec_ge", "via": ["solution"]}
+{"parent": "KServer.workFnU_isometry_embedding", "child": "KServer.workFn_rec_le", "via": ["solution"]}
+{"parent": "KServer.finite_game_characterization", "child": "KServer.exists_lazy_algorithm", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer.workFnU_growth_card_add_two_inj", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer.workFnU_growth_2k_inj", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "HistoryPotential.pathwise_bound_iff", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer.workFnU_growth_two_server_inj", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer.workFnU_growth_card_succ_inj", "via": ["solution"]}
+{"parent": "KServer.workFnU_sharp_potential_known_cases", "child": "KServer.workFnU_step_le", "via": ["solution"]}
+{"parent": "KServer.growth_bound_of_uniform_finite_subspaces", "child": "KServer.workFnU_isometry_embedding", "via": ["solution"]}

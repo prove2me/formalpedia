@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvEndowment_death
 -- name    : ActuarialValuation.pvEndowment_death
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:12.082988+00:00
 -- url     : https://prove2.me/theorems/34d28229-3af2-42db-aa57-23f86d360aed

@@ -10,8 +10,12 @@
 --   For continuous complex-linear T, r,v in a complex inner-product space, z,p in ℂ and real N,d,b, assume ⟨v,Tr⟩=conj(⟨r,Tv⟩) and N=d|z|²+2 Re(conj(z)p)+b. Then N−Re⟨zr+v,T(zr+v)⟩=(d−Re⟨r,Tr⟩)|z|²+2 Re(conj(z)(p−⟨r,Tv⟩))+(b−Re⟨v,Tv⟩).
 --
 --   Exact native statements and definitions are preserved. Constructing the realization attachments for the original Weil form remains unproved future formalization. Complete 1.06 positivity, global continuation and RH are not established.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/FiniteSchur.lean#L33-L46; exact native theorem WeilDefect.RPB108.finite_schur_split. SHA256 110ee29c91511f622c2ea9fee4242f7f9dda9dc25857bf8c0e76a8c9536165b7. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

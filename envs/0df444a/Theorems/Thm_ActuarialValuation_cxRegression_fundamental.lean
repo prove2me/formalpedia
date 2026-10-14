@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRegression_fundamental
 -- name    : ActuarialValuation.cxRegression_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:20:32.734978+00:00
 -- url     : https://prove2.me/theorems/09d328a4-e574-4317-90d1-1756ca9fb82f

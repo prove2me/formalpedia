@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_reducedFlowCost_eq
 -- name    : SendSplit.Existence.reducedFlowCost_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:24:06.961406+00:00
 -- url     : https://prove2.me/theorems/1febf7a7-62b2-4910-87ca-b5c4289b3249

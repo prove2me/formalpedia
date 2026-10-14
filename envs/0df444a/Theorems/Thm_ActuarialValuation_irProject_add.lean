@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irProject_add
 -- name    : ActuarialValuation.irProject_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:13.99626+00:00
 -- url     : https://prove2.me/theorems/6352c86f-117d-49ec-b333-2424db343c42

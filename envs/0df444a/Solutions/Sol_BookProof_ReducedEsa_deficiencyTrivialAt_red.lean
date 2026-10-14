@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ReducedEsa.deficiencyTrivialAt_red
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T08:51:55.505833+00:00
 -- url     : https://prove2.me/submissions/40bf82df-8d04-44d2-af7a-dbd8b3db53a9
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterReducingSubspaceEsa.lean — solution of BookProof.ReducedEsa.deficiencyTrivialAt_red
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAllocated_positive
 -- name    : ActuarialValuation.ulAllocated_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:27.885341+00:00
 -- url     : https://prove2.me/theorems/94284152-897a-420c-a543-6ff0294f2a40

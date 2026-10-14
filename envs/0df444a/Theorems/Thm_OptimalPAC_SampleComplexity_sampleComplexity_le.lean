@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OptimalPAC_SampleComplexity_sampleComplexity_le
 -- name    : OptimalPAC.SampleComplexity.sampleComplexity_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:31:41.742982+00:00
 -- url     : https://prove2.me/theorems/1b0af15c-c3a7-4446-a41e-d7c037caa0a5

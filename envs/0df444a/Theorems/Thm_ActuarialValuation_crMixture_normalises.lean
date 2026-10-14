@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crMixture_normalises
 -- name    : ActuarialValuation.crMixture_normalises
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:40.059557+00:00
 -- url     : https://prove2.me/theorems/4cda676b-bf06-421b-869b-14659a2be3a8

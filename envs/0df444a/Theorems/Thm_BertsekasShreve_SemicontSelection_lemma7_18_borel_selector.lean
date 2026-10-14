@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_SemicontSelection_lemma7_18_borel_selector
 -- name    : BertsekasShreve.SemicontSelection.lemma7_18_borel_selector
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:49:23.862361+00:00
 -- url     : https://prove2.me/theorems/0651ab90-2dc8-4b51-a04a-99e08c32fbbe

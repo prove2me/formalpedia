@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clBFReserve_difference
 -- name    : ActuarialValuation.clBFReserve_difference
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:50:30.818251+00:00
 -- url     : https://prove2.me/theorems/c517b8e8-037f-4068-a1c7-37759bbc0034

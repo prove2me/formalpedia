@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixInv_stein_solution
 -- name    : PoissonDepTrials.MixInv.stein_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:39:37.664392+00:00
 -- url     : https://prove2.me/theorems/19a5034b-b6ab-4e7e-b1b1-8d7cc02bac35

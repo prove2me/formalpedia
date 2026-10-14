@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_DivFree_fixedPoint_purePayoff
 -- name    : FixpNash.DivFree.fixedPoint_purePayoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:38.62935+00:00
 -- url     : https://prove2.me/theorems/a3c7e559-0079-46e2-815f-08b9524769d0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAccountPath_recursion
 -- name    : ActuarialValuation.ulAccountPath_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:56.3961+00:00
 -- url     : https://prove2.me/theorems/a59d6468-756c-4ce1-b9fe-f2637253335c

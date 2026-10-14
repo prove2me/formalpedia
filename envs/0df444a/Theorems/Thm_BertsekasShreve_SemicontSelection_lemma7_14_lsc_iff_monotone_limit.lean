@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_SemicontSelection_lemma7_14_lsc_iff_monotone_limit
 -- name    : BertsekasShreve.SemicontSelection.lemma7_14_lsc_iff_monotone_limit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:49:43.631204+00:00
 -- url     : https://prove2.me/theorems/6e993e65-d3e1-48d2-97b6-09288976aec5

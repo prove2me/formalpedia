@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_MNL_proposition_6
 -- name    : ChoiceRM.MNL.proposition_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:05.507309+00:00
 -- url     : https://prove2.me/theorems/5b20e2b3-e486-45d3-9764-78aa400c8d63

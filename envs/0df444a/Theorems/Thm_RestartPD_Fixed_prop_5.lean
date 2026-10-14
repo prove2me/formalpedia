@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestartPD_Fixed_prop_5
 -- name    : RestartPD.Fixed.prop_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:09.775863+00:00
 -- url     : https://prove2.me/theorems/8fcb1182-21c4-4c2d-bdca-3adbc6256980

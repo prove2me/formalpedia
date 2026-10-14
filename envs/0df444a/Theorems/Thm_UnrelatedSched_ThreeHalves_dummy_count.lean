@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_ThreeHalves_dummy_count
 -- name    : UnrelatedSched.ThreeHalves.dummy_count
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:36:09.416952+00:00
 -- url     : https://prove2.me/theorems/5cbc01cd-3b6e-4042-9db7-61f5d98ee4dd

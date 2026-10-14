@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_SemicontSelection_prop7_34_usc_epsilon_selector
 -- name    : BertsekasShreve.SemicontSelection.prop7_34_usc_epsilon_selector
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:49:56.348797+00:00
 -- url     : https://prove2.me/theorems/a260bea1-f88e-4407-856b-25effc6eaf46

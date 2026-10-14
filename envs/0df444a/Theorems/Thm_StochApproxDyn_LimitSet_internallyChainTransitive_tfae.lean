@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_LimitSet_internallyChainTransitive_tfae
 -- name    : StochApproxDyn.LimitSet.internallyChainTransitive_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:20:31.601977+00:00
 -- url     : https://prove2.me/theorems/3d76cb47-7f96-4b5d-82f1-71de611c89db

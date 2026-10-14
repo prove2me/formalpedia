@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_LimitSet_omegaLimitSet_isInternallyChainTransitive
 -- name    : StochApproxDyn.LimitSet.omegaLimitSet_isInternallyChainTransitive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:19:20.533457+00:00
 -- url     : https://prove2.me/theorems/5012ea2c-0eb3-4170-af0b-b0ac1ab7bc31

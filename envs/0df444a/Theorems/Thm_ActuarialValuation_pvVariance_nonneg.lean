@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvVariance_nonneg
 -- name    : ActuarialValuation.pvVariance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:11.808457+00:00
 -- url     : https://prove2.me/theorems/8f8a1908-f4c3-4a03-a534-624905fead78

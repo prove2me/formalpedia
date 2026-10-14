@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoApprox_lp_procedure_two_relaxed
 -- name    : UnrelatedSched.TwoApprox.lp_procedure_two_relaxed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:45:13.263437+00:00
 -- url     : https://prove2.me/theorems/7fee0d56-0d04-4679-bfdf-f8d7cd2b9d89

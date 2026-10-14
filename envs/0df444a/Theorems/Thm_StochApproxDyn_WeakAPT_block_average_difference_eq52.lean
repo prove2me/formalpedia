@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_WeakAPT_block_average_difference_eq52
 -- name    : StochApproxDyn.WeakAPT.block_average_difference_eq52
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:23:51.933604+00:00
 -- url     : https://prove2.me/theorems/5c4bf169-793a-4cdc-9005-0e0163a8f6a2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srFirstHit_disjoint
 -- name    : ActuarialValuation.srFirstHit_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:37.059382+00:00
 -- url     : https://prove2.me/theorems/42cfc8a8-0a8a-44ab-92d3-d84c09c9df90

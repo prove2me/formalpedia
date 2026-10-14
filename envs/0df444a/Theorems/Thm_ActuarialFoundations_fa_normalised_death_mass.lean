@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_normalised_death_mass
 -- name    : ActuarialFoundations.fa_normalised_death_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T23:36:26.787314+00:00
 -- url     : https://prove2.me/theorems/78576a2a-54b6-43ad-be61-f1c670a3f342

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailStopLoss_succ
 -- name    : ActuarialValuation.tailStopLoss_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:39:48.931097+00:00
 -- url     : https://prove2.me/theorems/73515227-959a-4c11-9dcd-2c1cc9dab803

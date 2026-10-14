@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixSqrt_basic_identity
 -- name    : PoissonDepTrials.MixSqrt.basic_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:37:39.191977+00:00
 -- url     : https://prove2.me/theorems/5c9d2a7d-210e-42ae-bb1a-901f1614eaf5

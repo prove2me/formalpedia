@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_OptEq_theorem52c
 -- name    : NegativeDP.OptEq.theorem52c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:34.657556+00:00
 -- url     : https://prove2.me/theorems/85a299b1-20b6-47da-bf8b-76d19de9407f

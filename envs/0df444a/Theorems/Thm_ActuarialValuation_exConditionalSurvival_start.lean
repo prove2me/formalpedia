@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exConditionalSurvival_start
 -- name    : ActuarialValuation.exConditionalSurvival_start
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:10.094988+00:00
 -- url     : https://prove2.me/theorems/2dc35c36-4706-4e33-a7d7-02c71292e3b5

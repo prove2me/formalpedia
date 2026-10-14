@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svTermInsurance_empty
 -- name    : ActuarialValuation.svTermInsurance_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:04.478326+00:00
 -- url     : https://prove2.me/theorems/861f66f7-cfef-4431-b5d9-b492a3818e17

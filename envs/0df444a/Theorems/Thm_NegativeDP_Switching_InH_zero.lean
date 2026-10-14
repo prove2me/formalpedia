@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NegativeDP_Switching_InH_zero
 -- name    : NegativeDP.Switching.InH_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:05.920685+00:00
 -- url     : https://prove2.me/theorems/c1f3a597-799e-4125-9efe-eae8c943799c

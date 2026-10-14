@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsitsiklisGittins_IndexTheorem_picked_before_iff_index_ge
 -- name    : TsitsiklisGittins.IndexTheorem.picked_before_iff_index_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:52:21.589987+00:00
 -- url     : https://prove2.me/theorems/a8aa2a6f-8dd6-4263-a495-e778d3c2e857

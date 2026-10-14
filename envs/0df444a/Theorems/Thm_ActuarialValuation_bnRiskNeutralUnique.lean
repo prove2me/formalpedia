@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnRiskNeutralUnique
 -- name    : ActuarialValuation.bnRiskNeutralUnique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:50.143722+00:00
 -- url     : https://prove2.me/theorems/4a282016-5c60-40a4-9716-641b0c61406e

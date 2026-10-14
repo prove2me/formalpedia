@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DEpenoux_LinearProgram_strict_vectorial_maximum
 -- name    : DEpenoux.LinearProgram.strict_vectorial_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:22:22.095047+00:00
 -- url     : https://prove2.me/theorems/739b8c18-2234-4f92-8494-57c8b93c6534

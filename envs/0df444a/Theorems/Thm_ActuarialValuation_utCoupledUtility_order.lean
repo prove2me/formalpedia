@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utCoupledUtility_order
 -- name    : ActuarialValuation.utCoupledUtility_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:59.45906+00:00
 -- url     : https://prove2.me/theorems/d8458eb8-679c-4401-9f7b-cf84c19101ed

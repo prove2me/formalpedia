@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_symmetricOn_of_real_symbol
 -- name    : BookProof.FourierMultiplierEsa.symmetricOn_of_real_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:22:08.814985+00:00
 -- url     : https://prove2.me/theorems/a09207e7-3a1c-4651-ad1b-f6b307d02475

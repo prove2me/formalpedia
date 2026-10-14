@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Monotone_cor5_7_1_finite_state_eps_optimal
 -- name    : BertsekasShreve.Monotone.cor5_7_1_finite_state_eps_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:20:10.927916+00:00
 -- url     : https://prove2.me/theorems/21552650-f4de-4f3a-8665-f6df69074577

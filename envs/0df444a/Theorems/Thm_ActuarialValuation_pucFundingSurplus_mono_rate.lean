@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucFundingSurplus_mono_rate
 -- name    : ActuarialValuation.pucFundingSurplus_mono_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:02.58299+00:00
 -- url     : https://prove2.me/theorems/258c40c7-fbcb-4bb1-810c-44d3df37eb68

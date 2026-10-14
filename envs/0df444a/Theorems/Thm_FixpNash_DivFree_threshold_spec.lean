@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_DivFree_threshold_spec
 -- name    : FixpNash.DivFree.threshold_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:37.868957+00:00
 -- url     : https://prove2.me/theorems/7d3d49ec-33a9-44b1-a8d6-029dd6d199b5

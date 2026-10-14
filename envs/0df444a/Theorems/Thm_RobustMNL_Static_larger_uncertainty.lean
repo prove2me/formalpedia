@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Static_larger_uncertainty
 -- name    : RobustMNL.Static.larger_uncertainty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:24.856354+00:00
 -- url     : https://prove2.me/theorems/a0c9eaf6-e6d5-45cd-bcca-ba4d253c72a1

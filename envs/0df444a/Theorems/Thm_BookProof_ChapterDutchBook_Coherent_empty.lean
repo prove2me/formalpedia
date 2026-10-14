@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_Coherent_empty
 -- name    : BookProof.ChapterDutchBook.Coherent.empty
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:08:12.027975+00:00
 -- url     : https://prove2.me/theorems/e73aa06b-a6f6-471e-807b-6cfb0f1e4c5e

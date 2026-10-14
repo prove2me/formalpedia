@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Interpolation_interpAffine_sub_interpConst_le
 -- name    : StochApproxDyn.Interpolation.interpAffine_sub_interpConst_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:09:11.450484+00:00
 -- url     : https://prove2.me/theorems/4e9a71c0-bec3-4d49-a120-440ceca839f1

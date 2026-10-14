@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedProductChartIdealApproximation_measurable
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedProductChartIdealApproximation_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T10:23:07.126232+00:00
 -- url     : https://prove2.me/theorems/ae872a73-6e7f-47da-aea6-505cc6f83548

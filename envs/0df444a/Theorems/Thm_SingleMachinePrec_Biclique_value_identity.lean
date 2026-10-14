@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_Biclique_value_identity
 -- name    : SingleMachinePrec.Biclique.value_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:22:55.447011+00:00
 -- url     : https://prove2.me/theorems/ae90fbac-d166-4ee7-ba98-a92b650a569f

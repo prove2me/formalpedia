@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRecoveryPayoff_le_face
 -- name    : ActuarialValuation.crRecoveryPayoff_le_face
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:12:51.586682+00:00
 -- url     : https://prove2.me/theorems/0d80a4d7-50be-4923-bf41-fbf90a7319c0

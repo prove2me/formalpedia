@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srAdjustment_positive
 -- name    : ActuarialValuation.srAdjustment_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:04.713981+00:00
 -- url     : https://prove2.me/theorems/69899790-4ad7-48c2-b567-faf32a651ca8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_gaussEmb_isometry
 -- name    : DistCov.Hilbert.gaussEmb_isometry
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:14.915416+00:00
 -- url     : https://prove2.me/theorems/c90597aa-5b18-4432-9f69-0d6594013951

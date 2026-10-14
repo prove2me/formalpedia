@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxMass_nonneg
 -- name    : ActuarialValuation.cxMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:54:55.942145+00:00
 -- url     : https://prove2.me/theorems/fac5fca8-fc78-4de6-b681-5654c759522f

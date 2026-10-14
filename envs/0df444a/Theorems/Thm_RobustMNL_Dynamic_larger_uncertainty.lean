@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_larger_uncertainty
 -- name    : RobustMNL.Dynamic.larger_uncertainty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:21:15.336538+00:00
 -- url     : https://prove2.me/theorems/0baafc7c-ad06-4726-a429-cb5fea9e55fe

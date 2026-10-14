@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Indep_schoenberg_embedding
 -- name    : DistCov.Indep.schoenberg_embedding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:32:10.139082+00:00
 -- url     : https://prove2.me/theorems/684b3c1a-1532-43bb-8526-1be7c9e76d40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipfPMF_ratio
 -- name    : ZipfLaw.zipfPMF_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:19.309428+00:00
 -- url     : https://prove2.me/theorems/1f2b24c3-2e4c-4979-b6dc-273061017e66

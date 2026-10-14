@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BCMPNetworks_Core_bcmp_product_form
 -- name    : BCMPNetworks.Core.bcmp_product_form
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T18:43:56.183072+00:00
 -- url     : https://prove2.me/theorems/9df4b691-cb8e-4038-b123-9a659ec00a84

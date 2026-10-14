@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_Biclique_prefix_biclique_bound
 -- name    : SingleMachinePrec.Biclique.prefix_biclique_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:23:20.48296+00:00
 -- url     : https://prove2.me/theorems/2c80c8d3-70ac-4998-ac6d-de6786347aed

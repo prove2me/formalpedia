@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msTransitionCost_zero
 -- name    : ActuarialValuation.msTransitionCost_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:54.918454+00:00
 -- url     : https://prove2.me/theorems/f364b429-27b1-4f94-baa5-6f49b4741e83

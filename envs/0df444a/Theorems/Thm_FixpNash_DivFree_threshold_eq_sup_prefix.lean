@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_DivFree_threshold_eq_sup_prefix
 -- name    : FixpNash.DivFree.threshold_eq_sup_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:42.303871+00:00
 -- url     : https://prove2.me/theorems/ae47cabe-6496-4214-abfb-e24bef9d93c9

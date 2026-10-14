@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfModifiedRate_above_normal
 -- name    : ActuarialValuation.pfModifiedRate_above_normal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:56.870279+00:00
 -- url     : https://prove2.me/theorems/eed76107-46b4-4f4b-9564-5a934b10f863

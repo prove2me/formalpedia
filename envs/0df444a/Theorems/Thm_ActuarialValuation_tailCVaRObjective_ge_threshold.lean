@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailCVaRObjective_ge_threshold
 -- name    : ActuarialValuation.tailCVaRObjective_ge_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:43:38.450568+00:00
 -- url     : https://prove2.me/theorems/d435d958-37ad-48d2-b9ef-21a6477ef0e5

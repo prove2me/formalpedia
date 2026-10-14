@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRuinProb_certain
 -- name    : ActuarialValuation.ruRuinProb_certain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:47.415966+00:00
 -- url     : https://prove2.me/theorems/216ff566-5540-443b-9daa-2065b67d4725

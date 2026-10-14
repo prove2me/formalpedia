@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhTransition_causeone_deriv
 -- name    : ActuarialValuation.nhTransition_causeone_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:12:39.810061+00:00
 -- url     : https://prove2.me/theorems/62696a1d-9ad1-43a2-a393-5a5f786ed8e9

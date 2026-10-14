@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_ExpFam_theorem_1
 -- name    : CappeKLUCB.ExpFam.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:21:15.806984+00:00
 -- url     : https://prove2.me/theorems/0c4f0d7e-dec2-4537-8a8a-a266d85570ac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_Value_theorem_3_1
 -- name    : CustAssort.Value.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:42:27.692975+00:00
 -- url     : https://prove2.me/theorems/bc8d13f9-bf83-42ae-8149-1acdeae6972f

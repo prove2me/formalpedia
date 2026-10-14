@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_DiagonalEsa_norm_basis
 -- name    : BookProof.NavierStokesFlow.DiagonalEsa.norm_basis
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:22:49.875411+00:00
 -- url     : https://prove2.me/theorems/303e8d02-5996-47e3-9a05-c1955bf21069

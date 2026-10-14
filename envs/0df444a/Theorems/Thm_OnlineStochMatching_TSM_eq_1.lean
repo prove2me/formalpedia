@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_TSM_eq_1
 -- name    : OnlineStochMatching.TSM.eq_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:35:00.894001+00:00
 -- url     : https://prove2.me/theorems/38157cac-a616-4c14-8cc7-d10b86c8f9c2

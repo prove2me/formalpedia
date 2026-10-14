@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FastCLO_ETO_theorem_8
 -- name    : FastCLO.ETO.theorem_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:17:00.773651+00:00
 -- url     : https://prove2.me/theorems/d7cbff02-576b-4c1c-8ac0-75923703ea0b

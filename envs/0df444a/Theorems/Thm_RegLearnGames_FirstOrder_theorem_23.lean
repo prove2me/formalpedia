@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RegLearnGames_FirstOrder_theorem_23
 -- name    : RegLearnGames.FirstOrder.theorem_23
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:44:42.597357+00:00
 -- url     : https://prove2.me/theorems/bd275669-dd66-4590-98c3-3e96baacd417

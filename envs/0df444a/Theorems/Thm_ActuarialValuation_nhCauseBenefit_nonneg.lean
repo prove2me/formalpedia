@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhCauseBenefit_nonneg
 -- name    : ActuarialValuation.nhCauseBenefit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:17:43.878332+00:00
 -- url     : https://prove2.me/theorems/fd97f1b3-b9dd-4ecf-948f-06f05e0fb36c

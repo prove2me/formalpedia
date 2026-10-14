@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucAccruedBenefit_succ
 -- name    : ActuarialValuation.pucAccruedBenefit_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:06:00.707689+00:00
 -- url     : https://prove2.me/theorems/30839be0-2095-4b11-b0f3-4804d3020c99

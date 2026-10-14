@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulTypeA_zero_mortality
 -- name    : ActuarialValuation.ulTypeA_zero_mortality
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:07.27408+00:00
 -- url     : https://prove2.me/theorems/e5198439-e94e-495d-bf87-fa55714f722a

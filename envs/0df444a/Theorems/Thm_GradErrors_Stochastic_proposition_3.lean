@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GradErrors_Stochastic_proposition_3
 -- name    : GradErrors.Stochastic.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:18:17.359002+00:00
 -- url     : https://prove2.me/theorems/d5d4aaf4-421b-41c2-9115-a7200c7b5a9e

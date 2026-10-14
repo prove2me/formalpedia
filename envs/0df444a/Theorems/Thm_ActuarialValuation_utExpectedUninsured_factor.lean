@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utExpectedUninsured_factor
 -- name    : ActuarialValuation.utExpectedUninsured_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:40.417514+00:00
 -- url     : https://prove2.me/theorems/3b542e94-396e-46fc-b685-697abf17f7ee

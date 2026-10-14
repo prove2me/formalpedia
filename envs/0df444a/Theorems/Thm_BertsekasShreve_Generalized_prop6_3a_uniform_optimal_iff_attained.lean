@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Generalized_prop6_3a_uniform_optimal_iff_attained
 -- name    : BertsekasShreve.Generalized.prop6_3a_uniform_optimal_iff_attained
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:55:29.822987+00:00
 -- url     : https://prove2.me/theorems/e34c021f-57f3-405a-8b77-f103b092ea1e

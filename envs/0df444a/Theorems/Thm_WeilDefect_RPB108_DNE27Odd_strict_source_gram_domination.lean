@@ -12,8 +12,12 @@
 --   $$Q_G((s_i z_i)_i)<\rho Q_V((s_i z_i)_i).$$
 --
 --   Positive published margins make the difference strict. The exact scalar certificate $\rho<1$ is also checked as an embedded companion lemma; it is not an extra premise of this theorem.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27Gram.lean#L148-L160; exact native theorem WeilDefect.RPB108.DNE27Odd.strict_source_gram_domination. SHA256 5a4a208bde5523e425bacd32d6077e0c32618162efd59bb6ab6628df50f1750a. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_DNE27Gram_Odd

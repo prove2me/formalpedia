@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvCdf_atom_jump
 -- name    : ActuarialValuation.pvCdf_atom_jump
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:00.91045+00:00
 -- url     : https://prove2.me/theorems/516618c5-39c1-4657-bb35-66c052597fd6

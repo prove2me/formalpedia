@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_FukNagaev_cond_1_4_iff
 -- name    : NagaevLD.FukNagaev.cond_1_4_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:23.575715+00:00
 -- url     : https://prove2.me/theorems/13ea37c8-13cf-47bf-8089-baa42653c57e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crExpected_add
 -- name    : ActuarialValuation.crExpected_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:31.581884+00:00
 -- url     : https://prove2.me/theorems/09b0ba98-f6c9-470e-87b6-ebda75cf8b1a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svTail_nonneg
 -- name    : ActuarialValuation.svTail_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:27.550043+00:00
 -- url     : https://prove2.me/theorems/8ceb978b-a7d4-4b29-9837-5d229165273c

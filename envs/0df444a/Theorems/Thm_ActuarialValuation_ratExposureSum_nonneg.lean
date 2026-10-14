@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratExposureSum_nonneg
 -- name    : ActuarialValuation.ratExposureSum_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:28:50.56177+00:00
 -- url     : https://prove2.me/theorems/83210714-ed17-4390-ad9c-64f72c0f9b23

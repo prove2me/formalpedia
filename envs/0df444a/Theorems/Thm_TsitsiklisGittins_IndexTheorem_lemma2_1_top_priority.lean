@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsitsiklisGittins_IndexTheorem_lemma2_1_top_priority
 -- name    : TsitsiklisGittins.IndexTheorem.lemma2_1_top_priority
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:30.058847+00:00
 -- url     : https://prove2.me/theorems/2d4e2fcd-742c-491b-ad07-6fa1a6e1d88e

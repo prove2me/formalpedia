@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_DualGreedy_equation_2
 -- name    : WagelmansELS.DualGreedy.equation_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:02:06.040736+00:00
 -- url     : https://prove2.me/theorems/aaad52a0-32f2-4e2c-8779-b6da78a04d01

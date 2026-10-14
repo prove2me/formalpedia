@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipGeometric_Panjer
 -- name    : ActuarialValuation.ipGeometric_Panjer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:16.864277+00:00
 -- url     : https://prove2.me/theorems/438b404a-0b5e-4bf4-80f9-88973b298aa3

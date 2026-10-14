@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_portfolio
 -- name    : ActuarialValuation.crRisk_portfolio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:26.560979+00:00
 -- url     : https://prove2.me/theorems/a17b6b97-c313-40a0-93a7-c6d136837baa

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_NLP_schur_eq_and_symm
 -- name    : RobinsonSR.NLP.schur_eq_and_symm
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:39:13.075601+00:00
 -- url     : https://prove2.me/theorems/b27104c7-5a67-4769-bd3b-a221e5e894ed

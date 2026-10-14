@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLossOrder_refl
 -- name    : ActuarialValuation.crStopLossOrder_refl
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:32.451304+00:00
 -- url     : https://prove2.me/theorems/02e5b240-b6ba-4b56-a2e3-dc67c4a827ab

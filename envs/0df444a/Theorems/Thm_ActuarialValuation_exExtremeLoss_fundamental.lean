@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exExtremeLoss_fundamental
 -- name    : ActuarialValuation.exExtremeLoss_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:12:52.732988+00:00
 -- url     : https://prove2.me/theorems/e2798938-f1b9-4f4e-bf3a-328057bd38b7

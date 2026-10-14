@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAggregateRate_zero
 -- name    : ActuarialValuation.pfAggregateRate_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:31.85925+00:00
 -- url     : https://prove2.me/theorems/309dd6af-d1f1-452c-972c-20046eecc293

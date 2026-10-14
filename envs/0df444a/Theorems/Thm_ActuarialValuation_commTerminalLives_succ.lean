@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commTerminalLives_succ
 -- name    : ActuarialValuation.commTerminalLives_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:14:41.320687+00:00
 -- url     : https://prove2.me/theorems/0d58e944-c776-4075-bf59-16c2c63ed195

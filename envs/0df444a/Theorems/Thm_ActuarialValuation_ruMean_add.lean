@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruMean_add
 -- name    : ActuarialValuation.ruMean_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:54.875992+00:00
 -- url     : https://prove2.me/theorems/8313af9e-9425-43fc-9fb0-a4a711393c35

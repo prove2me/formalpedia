@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucProjectedBenefitPV_partition
 -- name    : ActuarialValuation.pucProjectedBenefitPV_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:39.260963+00:00
 -- url     : https://prove2.me/theorems/3e18aa88-7665-4d2e-89a3-b623b90ac5fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_increasing_assurance_cashflow_comm
 -- name    : ActuarialFoundations.fa_increasing_assurance_cashflow_comm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T23:35:36.200981+00:00
 -- url     : https://prove2.me/theorems/82595b89-0e2e-4acf-97df-d71cebc99e87

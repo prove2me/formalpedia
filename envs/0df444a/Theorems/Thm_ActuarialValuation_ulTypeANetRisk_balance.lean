@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulTypeANetRisk_balance
 -- name    : ActuarialValuation.ulTypeANetRisk_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:17.238124+00:00
 -- url     : https://prove2.me/theorems/7984dc5a-f401-486a-954c-856f5118e399

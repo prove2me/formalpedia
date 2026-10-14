@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskControl_UCB_theorem_1
 -- name    : RiskControl.UCB.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T03:35:39.335059+00:00
 -- url     : https://prove2.me/theorems/193180f4-ef14-4ee5-9b77-ffdfad9e5e2d

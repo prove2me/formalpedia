@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TalagrandConc_LinearSuprema_theorem_8_1_1
 -- name    : TalagrandConc.LinearSuprema.theorem_8_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:46:38.81008+00:00
 -- url     : https://prove2.me/theorems/3d835d52-df1e-4df3-be75-1c6ba01f32b6

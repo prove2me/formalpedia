@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srRuinProbBy_Lundberg
 -- name    : ActuarialValuation.srRuinProbBy_Lundberg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:24:35.863609+00:00
 -- url     : https://prove2.me/theorems/92829596-b896-4127-a880-2d8dee9c1037

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_WeakApprox_proposition_3
 -- name    : FixpNash.WeakApprox.proposition_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:22.191026+00:00
 -- url     : https://prove2.me/theorems/d4c7beca-6cc5-42c3-89e7-542d35507881

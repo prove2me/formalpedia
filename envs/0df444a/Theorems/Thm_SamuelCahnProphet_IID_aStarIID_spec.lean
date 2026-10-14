@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_aStarIID_spec
 -- name    : SamuelCahnProphet.IID.aStarIID_spec
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:55.423775+00:00
 -- url     : https://prove2.me/theorems/044eb180-81f0-4602-9332-ebf63c7df73e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Strength_proposition_1
 -- name    : L0BnB.Strength.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:40.696867+00:00
 -- url     : https://prove2.me/theorems/cf96da42-bd15-44ef-9e66-935475c1aaa8

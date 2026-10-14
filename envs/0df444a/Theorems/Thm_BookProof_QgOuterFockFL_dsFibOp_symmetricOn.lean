@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_dsFibOp_symmetricOn
 -- name    : BookProof.QgOuterFockFL.dsFibOp_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:33:39.305541+00:00
 -- url     : https://prove2.me/theorems/8483e9cc-583c-4418-9977-1d47bf382542

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogicBenders_Generic_subVal_upper_bound
 -- name    : LogicBenders.Generic.subVal_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:36.766893+00:00
 -- url     : https://prove2.me/theorems/029b4abd-75e3-4b71-8382-99fe729dfd21

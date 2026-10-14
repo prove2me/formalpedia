@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for NoHair.kerrNewman_einsteinMaxwell
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @SamenHossain
 -- created : 2026-10-11T05:55:00.157568+00:00
 -- url     : https://prove2.me/submissions/072a91c6-5ab6-49f7-b76b-b766fa6733c3
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NoHair_kerrNewman

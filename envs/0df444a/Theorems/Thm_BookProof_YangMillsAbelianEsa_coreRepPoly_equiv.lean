@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_coreRepPoly_equiv
 -- name    : BookProof.YangMillsAbelianEsa.coreRepPoly_equiv
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:21:17.659605+00:00
 -- url     : https://prove2.me/theorems/b6ef028a-7707-460d-8084-db3939159d46

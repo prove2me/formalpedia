@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_BOR_sen12_of_standard
 -- name    : SennottDP.BOR.sen12_of_standard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T11:30:07.761613+00:00
 -- url     : https://prove2.me/theorems/e405b32a-a24b-44da-bf8b-b8c03eebbdd3

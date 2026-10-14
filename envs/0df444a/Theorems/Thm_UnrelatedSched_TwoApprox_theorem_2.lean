@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoApprox_theorem_2
 -- name    : UnrelatedSched.TwoApprox.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:45:32.240671+00:00
 -- url     : https://prove2.me/theorems/724f3059-99a8-4f5d-a0c2-d78baa169b61

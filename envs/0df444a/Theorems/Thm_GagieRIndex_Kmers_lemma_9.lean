@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GagieRIndex_Kmers_lemma_9
 -- name    : GagieRIndex.Kmers.lemma_9
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:24:36.952911+00:00
 -- url     : https://prove2.me/theorems/55912f56-48f1-4eda-911c-8518f2b52b3f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csObservedFirst
 -- name    : ActuarialValuation.csObservedFirst
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:37.454657+00:00
 -- url     : https://prove2.me/theorems/f620f6e5-a770-4270-b5fd-1f2f626e15da

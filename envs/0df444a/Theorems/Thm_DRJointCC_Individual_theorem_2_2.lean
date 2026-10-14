@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRJointCC_Individual_theorem_2_2
 -- name    : DRJointCC.Individual.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:36:33.540444+00:00
 -- url     : https://prove2.me/theorems/5356ec9e-8a53-47c3-ae71-a726c6878bf7

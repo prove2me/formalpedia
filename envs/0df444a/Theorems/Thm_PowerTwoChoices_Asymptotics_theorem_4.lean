@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PowerTwoChoices_Asymptotics_theorem_4
 -- name    : PowerTwoChoices.Asymptotics.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:05:05.727328+00:00
 -- url     : https://prove2.me/theorems/7114983a-27b8-45f2-baca-62da658ec22a

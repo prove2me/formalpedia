@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgets_MaximinShare_exists_cheap_parts
 -- name    : GenericBudgets.MaximinShare.exists_cheap_parts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:30:47.516991+00:00
 -- url     : https://prove2.me/theorems/77c2d50e-2a74-4b10-b5d5-1dd938936bf3

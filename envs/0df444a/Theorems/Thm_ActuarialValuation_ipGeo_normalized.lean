@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipGeo_normalized
 -- name    : ActuarialValuation.ipGeo_normalized
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:23.29198+00:00
 -- url     : https://prove2.me/theorems/14328c12-7c5a-47f5-8b64-b5ae50035fd7

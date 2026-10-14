@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clPaidIncrement_reconcile
 -- name    : ActuarialValuation.clPaidIncrement_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:25:11.90298+00:00
 -- url     : https://prove2.me/theorems/1e779ebd-547c-41c5-91df-2b39bae52a06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_LowerBound_lower_bound
 -- name    : NagaevLD.LowerBound.lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:18:53.385227+00:00
 -- url     : https://prove2.me/theorems/5615d2f7-edef-42e3-aee3-90f66c2e137d

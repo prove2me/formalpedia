@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctBackward_add
 -- name    : ActuarialValuation.ctBackward_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:17.730123+00:00
 -- url     : https://prove2.me/theorems/da60954b-3169-4c01-8aec-e8c85b245d5f

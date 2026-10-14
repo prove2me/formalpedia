@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSTutorial_UCBDecomp_pessimism_width_decomposition
 -- name    : TSTutorial.UCBDecomp.pessimism_width_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T05:28:56.438811+00:00
 -- url     : https://prove2.me/theorems/c68444aa-8315-4f14-904f-77bda41016a0

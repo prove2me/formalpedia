@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhSurvival_at_origin
 -- name    : ActuarialValuation.nhSurvival_at_origin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:05.203198+00:00
 -- url     : https://prove2.me/theorems/211934c3-b682-4f9a-a33e-38c92a8756fa

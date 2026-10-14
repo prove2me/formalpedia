@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_sameOrbit_spacelike
 -- name    : BookProof.ChapterWignerOrbitClassification.sameOrbit_spacelike
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:16:14.304428+00:00
 -- url     : https://prove2.me/theorems/d28669f7-b373-4c96-accb-ba699ad2f33c

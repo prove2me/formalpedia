@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PhaseCut_Tight_corollary_4_3
 -- name    : PhaseCut.Tight.corollary_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:38:59.883186+00:00
 -- url     : https://prove2.me/theorems/2dd37d9e-ceaf-4043-a273-ee631ad4ec0d

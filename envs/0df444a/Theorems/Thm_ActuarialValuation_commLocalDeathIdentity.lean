@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commLocalDeathIdentity
 -- name    : ActuarialValuation.commLocalDeathIdentity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:07:25.425924+00:00
 -- url     : https://prove2.me/theorems/7e444333-b20a-47bb-ba09-2c8142de25c8

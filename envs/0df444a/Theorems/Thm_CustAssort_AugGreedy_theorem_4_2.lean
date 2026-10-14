@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CustAssort_AugGreedy_theorem_4_2
 -- name    : CustAssort.AugGreedy.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:48:53.901917+00:00
 -- url     : https://prove2.me/theorems/ac8335ff-1a45-4f19-af42-39913a56c3e0

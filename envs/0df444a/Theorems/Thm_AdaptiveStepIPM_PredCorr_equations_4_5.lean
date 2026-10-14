@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_PredCorr_equations_4_5
 -- name    : AdaptiveStepIPM.PredCorr.equations_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:24:41.094439+00:00
 -- url     : https://prove2.me/theorems/50c6f551-806e-4e2d-afd2-fee57b19a656

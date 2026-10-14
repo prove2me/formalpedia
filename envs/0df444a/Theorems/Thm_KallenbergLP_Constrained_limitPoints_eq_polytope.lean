@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KallenbergLP_Constrained_limitPoints_eq_polytope
 -- name    : KallenbergLP.Constrained.limitPoints_eq_polytope
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:45.674981+00:00
 -- url     : https://prove2.me/theorems/fc4b412a-6137-4a94-b1ae-18995093220d

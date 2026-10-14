@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgAggregateCDF_succ
 -- name    : ActuarialValuation.pgAggregateCDF_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:09.34624+00:00
 -- url     : https://prove2.me/theorems/218a46ce-407c-4550-a7a1-f2459ee0153b

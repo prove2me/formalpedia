@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruStoppedIncrement_after_horizon
 -- name    : ActuarialValuation.ruStoppedIncrement_after_horizon
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:17.824042+00:00
 -- url     : https://prove2.me/theorems/f23d9606-0128-4e0a-9c1c-8f7805a1314c

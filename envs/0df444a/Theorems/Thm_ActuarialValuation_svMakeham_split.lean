@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svMakeham_split
 -- name    : ActuarialValuation.svMakeham_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:25:38.946502+00:00
 -- url     : https://prove2.me/theorems/a1dc2c5d-7009-4301-ab33-371a7b640deb

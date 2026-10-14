@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_Ddiff_eq_baryDiff
 -- name    : DistCov.Hilbert.Ddiff_eq_baryDiff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:02.184305+00:00
 -- url     : https://prove2.me/theorems/8ef9cead-b563-40bc-b40e-6b2736578f04

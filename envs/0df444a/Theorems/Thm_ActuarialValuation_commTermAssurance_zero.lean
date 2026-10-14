@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commTermAssurance_zero
 -- name    : ActuarialValuation.commTermAssurance_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:16:11.365395+00:00
 -- url     : https://prove2.me/theorems/1cdbc451-f506-4df8-9bf9-b7ffbdb8e77d

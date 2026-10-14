@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpScaledValue_add
 -- name    : ActuarialValuation.alterationPaidUpScaledValue_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:07:57.378495+00:00
 -- url     : https://prove2.me/theorems/df5beea6-d3ae-4172-8dd2-5acfce09ba41

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clBFUltimate_blend
 -- name    : ActuarialValuation.clBFUltimate_blend
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:50:04.204023+00:00
 -- url     : https://prove2.me/theorems/b6286b45-a807-4fe7-957b-2a28b1f6ebb5

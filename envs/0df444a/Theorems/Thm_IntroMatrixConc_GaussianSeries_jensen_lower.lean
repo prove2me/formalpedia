@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroMatrixConc_GaussianSeries_jensen_lower
 -- name    : IntroMatrixConc.GaussianSeries.jensen_lower
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:55.705254+00:00
 -- url     : https://prove2.me/theorems/5693fe26-c527-4d0c-9c22-206f99e851b2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CompOT_DualAscent_prop_3_6_labeling
 -- name    : CompOT.DualAscent.prop_3_6_labeling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T02:32:16.768515+00:00
 -- url     : https://prove2.me/theorems/5a063fcb-5207-4ee1-8e4a-bca3d4d47d6b

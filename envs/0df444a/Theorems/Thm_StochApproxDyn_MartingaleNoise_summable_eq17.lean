@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_MartingaleNoise_summable_eq17
 -- name    : StochApproxDyn.MartingaleNoise.summable_eq17
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:28:39.409624+00:00
 -- url     : https://prove2.me/theorems/af9e34c7-315f-4a96-b58e-9928446306c2

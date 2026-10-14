@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irIncrement_telescopes
 -- name    : ActuarialValuation.irIncrement_telescopes
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:34.059345+00:00
 -- url     : https://prove2.me/theorems/784aca6d-362e-4ea6-93fe-1edb8505521a

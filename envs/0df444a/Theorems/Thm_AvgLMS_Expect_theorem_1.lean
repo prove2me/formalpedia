@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgLMS_Expect_theorem_1
 -- name    : AvgLMS.Expect.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:06:29.685866+00:00
 -- url     : https://prove2.me/theorems/e16d2479-e879-40c6-b9a7-348f0bdc9875

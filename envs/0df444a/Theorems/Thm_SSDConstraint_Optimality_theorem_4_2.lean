@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SSDConstraint_Optimality_theorem_4_2
 -- name    : SSDConstraint.Optimality.theorem_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:09:15.890018+00:00
 -- url     : https://prove2.me/theorems/88717e1c-47bd-4107-9127-d6540fcc7f42

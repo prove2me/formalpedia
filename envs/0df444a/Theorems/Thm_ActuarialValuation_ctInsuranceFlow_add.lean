@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctInsuranceFlow_add
 -- name    : ActuarialValuation.ctInsuranceFlow_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:36.74398+00:00
 -- url     : https://prove2.me/theorems/c587257f-cc3d-4d6e-99b5-e6516d56808b

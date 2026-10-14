@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvVariance_const
 -- name    : ActuarialValuation.pvVariance_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:55.4946+00:00
 -- url     : https://prove2.me/theorems/3c684d36-a67c-464c-ba55-7e2222ed0203

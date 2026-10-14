@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Palm_units_binomial_given_orders
 -- name    : ServiceParts.Palm.units_binomial_given_orders
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:27:51.22374+00:00
 -- url     : https://prove2.me/theorems/0a33d0ab-a685-447d-a86d-da6c57c46efe

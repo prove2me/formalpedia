@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAliveReserve_nonneg
 -- name    : ActuarialValuation.ctAliveReserve_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:58:10.427582+00:00
 -- url     : https://prove2.me/theorems/30700be1-87c5-4113-aea6-64c9b1c01a1d

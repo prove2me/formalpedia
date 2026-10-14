@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_NonstatPalm_arrival_times_order_statistics
 -- name    : ServiceParts.NonstatPalm.arrival_times_order_statistics
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:56:54.925102+00:00
 -- url     : https://prove2.me/theorems/50219018-f7e3-414e-a493-1f212c836fe3

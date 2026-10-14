@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_finite_local_logarithmic_interpolation
 -- name    : OAI.PiExponent.FormalInterpolation.finite_local_logarithmic_interpolation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:11:44.508988+00:00
 -- url     : https://prove2.me/theorems/1d4716ba-85db-4492-a03a-63281efcffc2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSL2Group_pow_mem_of_mem
 -- name    : BookProof.ChapterWeylSL2Group.pow_mem_of_mem
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:37:55.874962+00:00
 -- url     : https://prove2.me/theorems/5292ada1-b29e-4e35-8977-4a04230a32a3

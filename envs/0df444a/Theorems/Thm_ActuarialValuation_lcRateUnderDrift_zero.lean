@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcRateUnderDrift_zero
 -- name    : ActuarialValuation.lcRateUnderDrift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:49:13.343357+00:00
 -- url     : https://prove2.me/theorems/f9e82734-094b-4f7d-886e-5e85cb1c794c

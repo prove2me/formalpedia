@@ -1,0 +1,142 @@
+-- Prove2me | solution 1 for IntMul.Kappa.moment_recurrence_bound
+-- status  : ACCEPTED   (prove)
+-- author  : @xuanji
+-- created : 2026-10-11T20:23:25.421993+00:00
+-- url     : https://prove2.me/submissions/6d6397fe-cd31-4b5c-8bb5-48ba931afd2a
+
+import Definitions.Def_IntMul_KappaFramework
+
+open IntMul.Kappa
+
+theorem moment_sum_rpow (h : List (ℕ × ℕ)) (m : ℕ) (hm : 0 < m) (τ A : ℝ) (f : ℕ)
+    (hw : ∀ p ∈ h, 0 < p.1 ∧ p.1 < m) :
+    (h.map fun p => (p.2 : ℝ) * (A * ((p.1 * f : ℕ) : ℝ) ^ τ)).sum
+      = A * ((m * f : ℕ) : ℝ) ^ τ * histMoment h m τ := by
+  unfold histMoment
+  induction h with
+  | nil => simp
+  | cons p t ih =>
+    simp only [List.map_cons, List.sum_cons]
+    rw [ih (fun q hq => hw q (by simp [hq])), mul_add]
+    congr 1
+    have hmR : (0 : ℝ) < m := by exact_mod_cast hm
+    have e : ((p.1 * f : ℕ) : ℝ) = ((p.1 : ℝ) / m) * ((m * f : ℕ) : ℝ) := by
+      push_cast; field_simp
+    rw [e, Real.mul_rpow (by positivity) (by positivity)]
+    ring
+
+theorem histMoment_nonneg (h : List (ℕ × ℕ)) (m : ℕ) (τ : ℝ) : 0 ≤ histMoment h m τ := by
+  unfold histMoment
+  apply List.sum_nonneg
+  intro x hx
+  simp only [List.mem_map] at hx
+  obtain ⟨p, _, rfl⟩ := hx
+  positivity
+
+theorem solution (h : List (ℕ × ℕ)) (m W : ℕ) (τ K : ℝ) (c : ℕ → ℝ)
+    (hm : 2 ≤ m) (hτ0 : 0 < τ) (hτ1 : τ ≤ 1)
+    (hw : ∀ p ∈ h, 0 < p.1 ∧ p.1 < m) (hW : 0 < W)
+    (hmom : histMoment h m τ < W) (hmono : Monotone c)
+    (hrec : ∀ f : ℕ, 1 ≤ f →
+      c (m * f) ≤ (h.map fun p => (p.2 : ℝ) * c (p.1 * f)).sum / W + K) :
+    ∃ A : ℝ, ∀ x : ℕ, 1 ≤ x → c x ≤ A * (x : ℝ) ^ τ := by
+  have hm0 : 0 < m := by omega
+  have hWR : (0 : ℝ) < W := by exact_mod_cast hW
+  set ρ := histMoment h m τ / W with hρ
+  have hρ0 : 0 ≤ ρ := div_nonneg (histMoment_nonneg h m τ) hWR.le
+  have hρ1 : ρ < 1 := by rw [hρ, div_lt_one hWR]; exact hmom
+  set X0 : ℕ := m * m + 1 + ⌈2 * m / (1 - ρ)⌉₊ with hX0
+  set B : ℝ := ∑ x ∈ Finset.range X0, |c x| with hB
+  set A : ℝ := max 0 (max (2 * K / (1 - ρ)) B) with hA
+  have hA0 : 0 ≤ A := le_max_left _ _
+  have hAK : 2 * K / (1 - ρ) ≤ A := le_trans (le_max_left _ _) (le_max_right _ _)
+  have hAB : B ≤ A := le_trans (le_max_right _ _) (le_max_right _ _)
+  refine ⟨A, fun x hx => ?_⟩
+  induction x using Nat.strong_induction_on with
+  | _ x ih =>
+  have hx1 : (1 : ℝ) ≤ (x : ℝ) ^ τ := Real.one_le_rpow (by exact_mod_cast hx) hτ0.le
+  by_cases hsmall : x < X0
+  · have h1 : c x ≤ |c x| := le_abs_self _
+    have h2 : |c x| ≤ B := by
+      rw [hB]
+      exact Finset.single_le_sum (f := fun x => |c x|) (fun i _ => abs_nonneg _)
+        (Finset.mem_range.mpr hsmall)
+    nlinarith
+  · push Not at hsmall
+    set f := (x + m - 1) / m with hf
+    have hmf1 : x ≤ m * f := by
+      rw [hf]; have := Nat.div_add_mod (x + m - 1) m; have := Nat.mod_lt (x + m - 1) hm0
+      nlinarith [Nat.sub_add_cancel (show 1 ≤ x + m by omega)]
+    have hmf2 : m * f < x + m := by
+      rw [hf]; have := Nat.div_mul_le_self (x + m - 1) m; rw [mul_comm]; omega
+    have hX0m : m * m + 1 ≤ X0 := by rw [hX0]; omega
+    have hfm : m < f + 1 := by
+      by_contra hc; push Not at hc
+      have : m * f ≤ m * (m - 1) := Nat.mul_le_mul_left _ (by omega)
+      have : m * (m - 1) < m * m + 1 := by
+        have := Nat.mul_le_mul_left m (Nat.sub_le m 1); omega
+      omega
+    have hf1 : 1 ≤ f := by omega
+    -- children are smaller
+    have hchild : ∀ p ∈ h, c (p.1 * f) ≤ A * ((p.1 * f : ℕ) : ℝ) ^ τ := by
+      intro p hp
+      obtain ⟨hp0, hpm⟩ := hw p hp
+      apply ih
+      · have : p.1 * f ≤ (m - 1) * f := Nat.mul_le_mul_right _ (by omega)
+        have : (m - 1) * f + f = m * f := by
+          rw [← Nat.succ_mul, Nat.succ_eq_add_one, Nat.sub_add_cancel (by omega)]
+        omega
+      · exact Nat.one_le_iff_ne_zero.mpr (Nat.mul_ne_zero (by omega) (by omega))
+    have hsum : (h.map fun p => (p.2 : ℝ) * c (p.1 * f)).sum
+        ≤ A * ((m * f : ℕ) : ℝ) ^ τ * histMoment h m τ := by
+      rw [← moment_sum_rpow h m hm0 τ A f hw]
+      apply List.sum_le_sum
+      intro p hp
+      exact mul_le_mul_of_nonneg_left (hchild p hp) (by positivity)
+    have hc1 : c x ≤ A * ((m * f : ℕ) : ℝ) ^ τ * ρ + K := by
+      have := hrec f hf1
+      calc c x ≤ c (m * f) := hmono hmf1
+        _ ≤ _ := this
+        _ ≤ A * ((m * f : ℕ) : ℝ) ^ τ * histMoment h m τ / W + K := by gcongr
+        _ = _ := by rw [hρ]; ring
+    -- growth of (m f)^τ
+    have hxR : (0 : ℝ) < x := by exact_mod_cast (show 0 < x by omega)
+    have hgrow : ((m * f : ℕ) : ℝ) ^ τ ≤ (x : ℝ) ^ τ * (1 + m / x) := by
+      have e1 : ((m * f : ℕ) : ℝ) ≤ (x : ℝ) * (1 + m / x) := by
+        have : ((m * f : ℕ) : ℝ) < x + m := by exact_mod_cast hmf2
+        rw [mul_add, mul_one, mul_div_cancel₀ _ hxR.ne']; linarith
+      calc ((m * f : ℕ) : ℝ) ^ τ ≤ ((x : ℝ) * (1 + m / x)) ^ τ :=
+            Real.rpow_le_rpow (by positivity) e1 hτ0.le
+        _ = (x : ℝ) ^ τ * (1 + m / x) ^ τ := Real.mul_rpow hxR.le (by positivity)
+        _ ≤ (x : ℝ) ^ τ * (1 + m / x) := by
+            apply mul_le_mul_of_nonneg_left _ (by positivity)
+            have h1 : (1 : ℝ) ≤ 1 + m / x := by
+              have : (0:ℝ) ≤ m / x := by positivity
+              linarith
+            calc (1 + (m : ℝ) / x) ^ τ ≤ (1 + (m : ℝ) / x) ^ (1 : ℝ) :=
+                  Real.rpow_le_rpow_of_exponent_le h1 hτ1
+              _ = _ := Real.rpow_one _
+    have hratio : ρ * (1 + m / x) ≤ (1 + ρ) / 2 := by
+      have hX : (2 * m / (1 - ρ)) ≤ (x : ℝ) := by
+        have : (⌈2 * m / (1 - ρ)⌉₊ : ℝ) ≤ x := by exact_mod_cast (show ⌈2 * (m:ℝ) / (1 - ρ)⌉₊ ≤ x by omega)
+        exact le_trans (Nat.le_ceil _) this
+      have h1ρ : 0 < 1 - ρ := by linarith
+      have : ρ * (m / x) ≤ (1 - ρ) / 2 := by
+        rw [div_le_iff₀ h1ρ] at hX
+        rw [mul_div_assoc']
+        rw [div_le_div_iff₀ hxR (by norm_num)]
+        nlinarith
+      nlinarith
+    have hKA : K ≤ A * ((1 - ρ) / 2) * (x : ℝ) ^ τ := by
+      have h1ρ : 0 < 1 - ρ := by linarith
+      have : K ≤ A * ((1 - ρ) / 2) := by
+        rw [div_le_iff₀ h1ρ] at hAK; nlinarith
+      have : A * ((1 - ρ) / 2) ≤ A * ((1 - ρ) / 2) * (x : ℝ) ^ τ := by
+        have : 0 ≤ A * ((1 - ρ) / 2) := by apply mul_nonneg hA0; linarith
+        nlinarith
+      linarith
+    have : A * ((m * f : ℕ) : ℝ) ^ τ * ρ ≤ A * (x : ℝ) ^ τ * ((1 + ρ) / 2) := by
+      calc A * ((m * f : ℕ) : ℝ) ^ τ * ρ ≤ A * ((x : ℝ) ^ τ * (1 + m / x)) * ρ := by gcongr
+        _ = A * (x : ℝ) ^ τ * (ρ * (1 + m / x)) := by ring
+        _ ≤ _ := by gcongr
+    nlinarith

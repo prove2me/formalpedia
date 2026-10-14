@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAttentionOutputVariance_outputVariance_scoreSoftmax_nonneg
 -- name    : BookProof.ChapterAttentionOutputVariance.outputVariance_scoreSoftmax_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:38:23.591321+00:00
 -- url     : https://prove2.me/theorems/e84a42ec-c079-4d46-996a-2e7cb5d7d9eb

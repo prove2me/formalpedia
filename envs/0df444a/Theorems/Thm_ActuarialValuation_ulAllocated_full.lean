@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAllocated_full
 -- name    : ActuarialValuation.ulAllocated_full
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:14.116272+00:00
 -- url     : https://prove2.me/theorems/503eefd0-ab04-47a8-b02f-c8bb5ba0859c

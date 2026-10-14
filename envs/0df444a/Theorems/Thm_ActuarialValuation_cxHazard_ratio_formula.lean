@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxHazard_ratio_formula
 -- name    : ActuarialValuation.cxHazard_ratio_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:32.789801+00:00
 -- url     : https://prove2.me/theorems/dbe4c120-36d3-49af-87d5-625a4756eea6

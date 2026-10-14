@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_Rates_eq_24_iff_eq_25
 -- name    : LambdaCoalescent.Rates.eq_24_iff_eq_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:55.738973+00:00
 -- url     : https://prove2.me/theorems/ca7c1076-bde2-4149-b26b-76dadb6ce7d7

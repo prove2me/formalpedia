@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exExcessScale_add
 -- name    : ActuarialValuation.exExcessScale_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:51.930876+00:00
 -- url     : https://prove2.me/theorems/f50460bf-4cef-4133-b67c-1febef530aeb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgCountSupport_zero
 -- name    : ActuarialValuation.pgCountSupport_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:55:39.48843+00:00
 -- url     : https://prove2.me/theorems/9765bdff-8f00-43d5-9f9a-eaa7834ae198

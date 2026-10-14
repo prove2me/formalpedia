@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgUpperTail_antitone
 -- name    : ActuarialValuation.pgUpperTail_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:16.011711+00:00
 -- url     : https://prove2.me/theorems/bee57ed0-971b-4357-886a-07d0b47885e7

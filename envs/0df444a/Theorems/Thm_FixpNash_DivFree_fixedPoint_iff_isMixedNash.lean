@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_DivFree_fixedPoint_iff_isMixedNash
 -- name    : FixpNash.DivFree.fixedPoint_iff_isMixedNash
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:39.373019+00:00
 -- url     : https://prove2.me/theorems/5f4b683c-307b-403d-be8c-ed8ae474e118

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixSqrt_bound_4_8
 -- name    : PoissonDepTrials.MixSqrt.bound_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:38:25.950865+00:00
 -- url     : https://prove2.me/theorems/2c862c9f-3bbb-41f4-b622-7cb9b9a089df

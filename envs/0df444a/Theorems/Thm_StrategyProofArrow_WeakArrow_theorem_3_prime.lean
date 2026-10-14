@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_WeakArrow_theorem_3_prime
 -- name    : StrategyProofArrow.WeakArrow.theorem_3_prime
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:44.711027+00:00
 -- url     : https://prove2.me/theorems/c38313c3-de6a-4e9d-ae45-a23361b9116d

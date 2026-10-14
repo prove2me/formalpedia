@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NsScalarVectorCurry_isSliceOf_fibTensor
 -- name    : BookProof.NsScalarVectorCurry.isSliceOf_fibTensor
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:05:32.344562+00:00
 -- url     : https://prove2.me/theorems/ba467ca6-ed67-45a9-b493-dcfc6328cbaa

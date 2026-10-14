@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossQC_Regions_lemma_3_1
 -- name    : RossQC.Regions.lemma_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:22:27.011975+00:00
 -- url     : https://prove2.me/theorems/5a914f42-b6d3-4117-af29-67869d6e01d1

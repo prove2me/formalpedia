@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csShockDependenceValuation_fundamental
 -- name    : ActuarialValuation.csShockDependenceValuation_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:52:06.704136+00:00
 -- url     : https://prove2.me/theorems/2f160053-e5c0-4502-9f38-352c3d26dff8

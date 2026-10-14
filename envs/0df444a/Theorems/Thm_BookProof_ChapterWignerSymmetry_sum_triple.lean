@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_sum_triple
 -- name    : BookProof.ChapterWignerSymmetry.sum_triple
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:21:18.873911+00:00
 -- url     : https://prove2.me/theorems/da73c4d2-0368-4840-85b3-8dc80dcf0589

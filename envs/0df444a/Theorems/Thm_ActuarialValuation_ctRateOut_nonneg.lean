@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctRateOut_nonneg
 -- name    : ActuarialValuation.ctRateOut_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:47:41.713649+00:00
 -- url     : https://prove2.me/theorems/34886a6c-5296-47f6-be35-9900539ce21a

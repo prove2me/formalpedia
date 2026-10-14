@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utInsuranceUtility_indifference
 -- name    : ActuarialValuation.utInsuranceUtility_indifference
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:03.543499+00:00
 -- url     : https://prove2.me/theorems/9c9e37a1-9d55-4a98-b8d1-d4396c4edf51

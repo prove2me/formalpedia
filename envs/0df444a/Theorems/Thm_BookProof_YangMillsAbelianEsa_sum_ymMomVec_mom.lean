@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_sum_ymMomVec_mom
 -- name    : BookProof.YangMillsAbelianEsa.sum_ymMomVec_mom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:20:18.161625+00:00
 -- url     : https://prove2.me/theorems/8fca99f8-7b5a-4154-a815-ccba39f5a8bc

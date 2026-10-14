@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_LiftProject_cglp_lifting_from_restricted_v2
 -- name    : Disjunctive.LiftProject.cglp_lifting_from_restricted_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:21.771424+00:00
 -- url     : https://prove2.me/theorems/ff07960b-7754-463f-85ff-ed881df3db88

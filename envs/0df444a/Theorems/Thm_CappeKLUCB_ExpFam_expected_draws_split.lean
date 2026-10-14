@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_ExpFam_expected_draws_split
 -- name    : CappeKLUCB.ExpFam.expected_draws_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:19:54.061993+00:00
 -- url     : https://prove2.me/theorems/2666341b-ba21-4e39-88e7-3eb1d0cd8daa

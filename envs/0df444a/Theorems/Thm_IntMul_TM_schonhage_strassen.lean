@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_TM_schonhage_strassen
 -- name    : IntMul.TM.schonhage_strassen
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T02:11:24.698532+00:00
 -- url     : https://prove2.me/theorems/c02939f1-fab9-47dd-9229-99cc9b1e1686

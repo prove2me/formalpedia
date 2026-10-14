@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_Empirical_general_bound_10
 -- name    : CappeKLUCB.Empirical.general_bound_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:08:35.43526+00:00
 -- url     : https://prove2.me/theorems/1c4279d7-193b-463f-b364-7b25bc416bf7

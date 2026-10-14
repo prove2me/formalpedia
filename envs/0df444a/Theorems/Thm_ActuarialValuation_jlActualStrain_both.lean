@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlActualStrain_both
 -- name    : ActuarialValuation.jlActualStrain_both
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:34.895989+00:00
 -- url     : https://prove2.me/theorems/56d3223b-962c-4dc0-87e3-afbd2c77574b

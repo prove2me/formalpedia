@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlReversionaryPayment_zero_spouse
 -- name    : ActuarialValuation.jlReversionaryPayment_zero_spouse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:20.778248+00:00
 -- url     : https://prove2.me/theorems/6f0ea9d3-582b-44a1-9e84-bc9bb8d83494

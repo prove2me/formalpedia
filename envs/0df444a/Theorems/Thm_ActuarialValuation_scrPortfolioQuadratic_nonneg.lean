@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPortfolioQuadratic_nonneg
 -- name    : ActuarialValuation.scrPortfolioQuadratic_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:42.567782+00:00
 -- url     : https://prove2.me/theorems/c707840e-b496-4073-bc84-f72d296d73a2

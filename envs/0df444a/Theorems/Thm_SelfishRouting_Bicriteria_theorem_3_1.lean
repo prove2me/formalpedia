@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SelfishRouting_Bicriteria_theorem_3_1
 -- name    : SelfishRouting.Bicriteria.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T01:11:26.498622+00:00
 -- url     : https://prove2.me/theorems/3e571773-338e-4fe1-9787-06ed80e86a8f

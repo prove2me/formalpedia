@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcCohortLives_zero
 -- name    : ActuarialValuation.lcCohortLives_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:01:09.846576+00:00
 -- url     : https://prove2.me/theorems/e15d3da8-4023-46b9-93cd-b58a72499c61

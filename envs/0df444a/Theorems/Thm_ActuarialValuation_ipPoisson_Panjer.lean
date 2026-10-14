@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipPoisson_Panjer
 -- name    : ActuarialValuation.ipPoisson_Panjer
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:32.450694+00:00
 -- url     : https://prove2.me/theorems/c4c80689-1127-4ac5-a736-1c5a62256c74

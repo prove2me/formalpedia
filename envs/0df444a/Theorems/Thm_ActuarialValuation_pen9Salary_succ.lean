@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9Salary_succ
 -- name    : ActuarialValuation.pen9Salary_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:54.383984+00:00
 -- url     : https://prove2.me/theorems/36e36f28-9289-4604-8c24-98e0164c9910

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittleGittins_Retirement_theorem1_index_rule
 -- name    : WhittleGittins.Retirement.theorem1_index_rule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:33.270917+00:00
 -- url     : https://prove2.me/theorems/7fb5a716-e78e-44e5-8ff4-0f1ce823621a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAttainedLiability_identity
 -- name    : ActuarialValuation.pfAttainedLiability_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:00:45.598755+00:00
 -- url     : https://prove2.me/theorems/31a4aec7-b2e1-4c9e-9822-2e86b8a39077

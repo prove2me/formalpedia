@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointExp_product_relation
 -- name    : ActuarialValuation.csJointExp_product_relation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:37.314273+00:00
 -- url     : https://prove2.me/theorems/5945731d-7132-4f35-8dea-16d64a2e3827

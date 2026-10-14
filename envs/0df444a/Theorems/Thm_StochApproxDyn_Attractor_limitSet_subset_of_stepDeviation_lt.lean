@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Attractor_limitSet_subset_of_stepDeviation_lt
 -- name    : StochApproxDyn.Attractor.limitSet_subset_of_stepDeviation_lt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:25:22.465052+00:00
 -- url     : https://prove2.me/theorems/dfa0393d-33af-4475-b4ac-74787e916262

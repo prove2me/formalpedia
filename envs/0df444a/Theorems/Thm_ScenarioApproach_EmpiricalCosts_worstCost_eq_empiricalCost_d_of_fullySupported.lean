@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_EmpiricalCosts_worstCost_eq_empiricalCost_d_of_fullySupported
 -- name    : ScenarioApproach.EmpiricalCosts.worstCost_eq_empiricalCost_d_of_fullySupported
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T18:25:59.348536+00:00
 -- url     : https://prove2.me/theorems/da6cbf0c-8073-4780-9a47-25df9c7ed8e3

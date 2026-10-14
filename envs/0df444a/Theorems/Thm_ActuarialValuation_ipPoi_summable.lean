@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipPoi_summable
 -- name    : ActuarialValuation.ipPoi_summable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:35.002982+00:00
 -- url     : https://prove2.me/theorems/c094bf2e-688c-42a7-b852-1506d8de6315

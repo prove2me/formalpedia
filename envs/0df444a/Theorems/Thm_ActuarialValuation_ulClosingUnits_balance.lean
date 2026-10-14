@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulClosingUnits_balance
 -- name    : ActuarialValuation.ulClosingUnits_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:18.416685+00:00
 -- url     : https://prove2.me/theorems/0c4182ee-f01c-4eef-9a40-b94f776a733f

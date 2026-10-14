@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvExpected_nonneg
 -- name    : ActuarialValuation.pvExpected_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:29.720375+00:00
 -- url     : https://prove2.me/theorems/f2da6b5e-331f-4689-9009-f02b4aa1a26b

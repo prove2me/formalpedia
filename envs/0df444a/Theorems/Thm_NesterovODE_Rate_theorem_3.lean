@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_Rate_theorem_3
 -- name    : NesterovODE.Rate.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:48:54.053149+00:00
 -- url     : https://prove2.me/theorems/b07c1a43-f043-453d-bb3d-397324391ffb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipCountPGF_one
 -- name    : ActuarialValuation.ipCountPGF_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:54.069973+00:00
 -- url     : https://prove2.me/theorems/cd3d9074-cc58-4ff4-aee6-550b4a74d233

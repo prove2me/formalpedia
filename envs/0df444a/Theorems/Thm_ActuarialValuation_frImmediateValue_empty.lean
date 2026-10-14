@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frImmediateValue_empty
 -- name    : ActuarialValuation.frImmediateValue_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:11.240033+00:00
 -- url     : https://prove2.me/theorems/e6ce39ca-cc42-4835-99e2-259c4893a0ee

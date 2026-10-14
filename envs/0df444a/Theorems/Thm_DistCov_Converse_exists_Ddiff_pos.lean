@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Converse_exists_Ddiff_pos
 -- name    : DistCov.Converse.exists_Ddiff_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:31.444033+00:00
 -- url     : https://prove2.me/theorems/54ab6f72-4476-403b-86b0-acb74dbe3399

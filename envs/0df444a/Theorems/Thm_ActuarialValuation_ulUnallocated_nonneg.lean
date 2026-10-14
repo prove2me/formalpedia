@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulUnallocated_nonneg
 -- name    : ActuarialValuation.ulUnallocated_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:13.561913+00:00
 -- url     : https://prove2.me/theorems/de1c0fd3-b0e0-4f30-9fd7-6d085f06152f

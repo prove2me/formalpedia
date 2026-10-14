@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmGammaVariance_scale
 -- name    : ActuarialValuation.gmGammaVariance_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:10:13.13198+00:00
 -- url     : https://prove2.me/theorems/ccf103ce-0bdd-4c67-8496-f8c3a684b1d6

@@ -1,4 +1,5 @@
 .dump-state.jsonl
+.dump-staging/
 *.lean.tmp
 scripts/
 __pycache__/

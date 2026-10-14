@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siGrossMean_zero_rates
 -- name    : ActuarialValuation.siGrossMean_zero_rates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:37.643206+00:00
 -- url     : https://prove2.me/theorems/1d826d30-e64c-44bf-83d6-25a753b85160

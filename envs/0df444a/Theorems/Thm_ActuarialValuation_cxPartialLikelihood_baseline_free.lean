@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPartialLikelihood_baseline_free
 -- name    : ActuarialValuation.cxPartialLikelihood_baseline_free
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:20:11.353159+00:00
 -- url     : https://prove2.me/theorems/c6574a1f-8f5d-4826-9c17-0fdabb7dfff8

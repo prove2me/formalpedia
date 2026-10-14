@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRuinDeficit_fundamental
 -- name    : ActuarialValuation.ruRuinDeficit_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:04:48.851988+00:00
 -- url     : https://prove2.me/theorems/4f1937bc-ea9a-41ae-a7ee-6affaa3d9a34

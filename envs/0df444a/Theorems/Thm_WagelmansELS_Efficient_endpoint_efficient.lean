@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_Efficient_endpoint_efficient
 -- name    : WagelmansELS.Efficient.endpoint_efficient
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:57:47.119357+00:00
 -- url     : https://prove2.me/theorems/4e147ebe-4857-4fa3-bfcf-7a12af00a0ff

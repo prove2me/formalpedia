@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_full_rank_face_dimension_preserved
 -- name    : Disjunctive.Polarity.full_rank_face_dimension_preserved
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:18:48.489364+00:00
 -- url     : https://prove2.me/theorems/831eea04-c8b5-4e30-bdba-7db3906ed5e9

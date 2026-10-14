@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srRuinProbBy_nonneg
 -- name    : ActuarialValuation.srRuinProbBy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:17:58.682704+00:00
 -- url     : https://prove2.me/theorems/a6117db9-556a-4239-8c51-b9e5fd2e2534

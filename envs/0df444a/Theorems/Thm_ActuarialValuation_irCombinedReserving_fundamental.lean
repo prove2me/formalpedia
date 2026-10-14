@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irCombinedReserving_fundamental
 -- name    : ActuarialValuation.irCombinedReserving_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:50.320264+00:00
 -- url     : https://prove2.me/theorems/615428d8-338f-404e-a638-b9cb223420fd

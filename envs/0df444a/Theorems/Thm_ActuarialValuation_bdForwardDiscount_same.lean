@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdForwardDiscount_same
 -- name    : ActuarialValuation.bdForwardDiscount_same
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:26.00922+00:00
 -- url     : https://prove2.me/theorems/c11a1240-838c-4003-afb6-a1a7fe20b981

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commTermAssurance_nonneg
 -- name    : ActuarialValuation.commTermAssurance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:16:49.674685+00:00
 -- url     : https://prove2.me/theorems/76c3a5b9-e09e-4e01-a73d-59d9ef53e5fb

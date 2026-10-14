@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmSurvivalFactor_nonneg
 -- name    : ActuarialValuation.kmSurvivalFactor_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:04.23243+00:00
 -- url     : https://prove2.me/theorems/16f9f8c5-728f-4693-9122-d0991a481976

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_idxD_ge
 -- name    : BookProof.YangMillsAbelianNoGap.idxD_ge
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:36:37.623993+00:00
 -- url     : https://prove2.me/theorems/701c4871-6ef1-4eaa-90b5-40bd9f61c07e

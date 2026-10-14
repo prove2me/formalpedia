@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioExact_PartOne_moment_uniqueness
 -- name    : ScenarioExact.PartOne.moment_uniqueness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:24:51.093786+00:00
 -- url     : https://prove2.me/theorems/ba1bc0a1-d6b9-4ccb-b351-24b38ad3aba6

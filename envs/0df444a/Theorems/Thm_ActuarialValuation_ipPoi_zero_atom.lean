@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipPoi_zero_atom
 -- name    : ActuarialValuation.ipPoi_zero_atom
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:07.000983+00:00
 -- url     : https://prove2.me/theorems/60d49aff-014b-4f31-a2d5-0da09973952c

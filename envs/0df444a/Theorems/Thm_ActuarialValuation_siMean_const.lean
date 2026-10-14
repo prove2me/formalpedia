@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siMean_const
 -- name    : ActuarialValuation.siMean_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:01.665995+00:00
 -- url     : https://prove2.me/theorems/623ba331-1801-46c2-9a7c-ea87d4e544a7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_integral_conj_mul_potential_sub_eq_zero
 -- name    : BookProof.StrichartzWave.integral_conj_mul_potential_sub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:19:12.222837+00:00
 -- url     : https://prove2.me/theorems/8aedcc51-be8b-4d6e-8151-0ce7ac28a89d

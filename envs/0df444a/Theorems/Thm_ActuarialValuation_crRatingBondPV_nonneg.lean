@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRatingBondPV_nonneg
 -- name    : ActuarialValuation.crRatingBondPV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:12:04.319105+00:00
 -- url     : https://prove2.me/theorems/769f30ee-3995-40a7-b2bc-426fa671bd78

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msMass_scale
 -- name    : ActuarialValuation.msMass_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:53:51.48738+00:00
 -- url     : https://prove2.me/theorems/ffd45567-bb9b-46e0-972e-54b3966784e0

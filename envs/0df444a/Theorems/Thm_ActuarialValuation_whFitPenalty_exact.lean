@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whFitPenalty_exact
 -- name    : ActuarialValuation.whFitPenalty_exact
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:26.819672+00:00
 -- url     : https://prove2.me/theorems/79aac8d7-1997-4a9c-b257-859f8fa6e204

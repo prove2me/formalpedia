@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crExpected_portfolio
 -- name    : ActuarialValuation.crExpected_portfolio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:20.187634+00:00
 -- url     : https://prove2.me/theorems/3315ea84-4f98-4402-8f25-3e488c99156f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siGrossSecond_nonneg
 -- name    : ActuarialValuation.siGrossSecond_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:09.75245+00:00
 -- url     : https://prove2.me/theorems/b788ddbb-97cf-4f86-a4b7-fe29671b72b6

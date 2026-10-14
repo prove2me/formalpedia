@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Probabilistic_lemma_7
 -- name    : AdaptiveStepIPM.Probabilistic.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:21:19.595522+00:00
 -- url     : https://prove2.me/theorems/e911cd14-7621-4125-bf45-58165ca2a1b9

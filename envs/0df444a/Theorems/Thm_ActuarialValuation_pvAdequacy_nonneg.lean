@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvAdequacy_nonneg
 -- name    : ActuarialValuation.pvAdequacy_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:24.959768+00:00
 -- url     : https://prove2.me/theorems/584f37bf-87f3-47a0-b05c-7fb978be64d1

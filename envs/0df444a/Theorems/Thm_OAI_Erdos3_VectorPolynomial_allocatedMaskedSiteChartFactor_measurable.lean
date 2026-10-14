@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedMaskedSiteChartFactor_measurable
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedMaskedSiteChartFactor_measurable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T02:05:32.646799+00:00
 -- url     : https://prove2.me/theorems/dd8be4a9-d11c-4bbd-a24a-b8f4654133ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdSimpleForward_balance
 -- name    : ActuarialValuation.bdSimpleForward_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:47.726538+00:00
 -- url     : https://prove2.me/theorems/94983130-20b6-4253-a888-d96909cd030b

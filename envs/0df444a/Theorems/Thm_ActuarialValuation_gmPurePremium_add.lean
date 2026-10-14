@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmPurePremium_add
 -- name    : ActuarialValuation.gmPurePremium_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:33.527446+00:00
 -- url     : https://prove2.me/theorems/b86baf21-3f52-42d5-80ef-cc22d227ebba

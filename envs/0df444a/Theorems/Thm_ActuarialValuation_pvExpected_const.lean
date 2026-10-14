@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvExpected_const
 -- name    : ActuarialValuation.pvExpected_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:49.517505+00:00
 -- url     : https://prove2.me/theorems/c604cf08-c845-4eef-9a23-e5153c0e01f2

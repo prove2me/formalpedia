@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvAdequacy_above_threshold
 -- name    : ActuarialValuation.pvAdequacy_above_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:24:29.041867+00:00
 -- url     : https://prove2.me/theorems/dccc7e2a-db9d-4d47-99d5-7aab4157bc8d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coCopulaRisk_fundamental
 -- name    : ActuarialValuation.coCopulaRisk_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:22.717989+00:00
 -- url     : https://prove2.me/theorems/c72b09ea-5859-4d66-a174-0d50d51cb651

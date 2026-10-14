@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9Salary_increasing
 -- name    : ActuarialValuation.pen9Salary_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:38.136506+00:00
 -- url     : https://prove2.me/theorems/3fce8530-6c87-4330-b33c-2d83ab4af826

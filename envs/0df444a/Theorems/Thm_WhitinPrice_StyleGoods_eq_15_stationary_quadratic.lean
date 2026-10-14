@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitinPrice_StyleGoods_eq_15_stationary_quadratic
 -- name    : WhitinPrice.StyleGoods.eq_15_stationary_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:58:23.103083+00:00
 -- url     : https://prove2.me/theorems/ff6e4696-ed02-4724-aa05-931208a46fce

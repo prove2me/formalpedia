@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointSurvival_antitone_left
 -- name    : ActuarialValuation.csJointSurvival_antitone_left
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:18.591028+00:00
 -- url     : https://prove2.me/theorems/d7781405-b15a-475e-8c0b-da5a154bfbac

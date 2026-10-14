@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_Framework_prop_3_2
 -- name    : SingleMachinePrec.Framework.prop_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:29:08.426738+00:00
 -- url     : https://prove2.me/theorems/8ab022c5-26f0-4b92-8357-c775b91323b6

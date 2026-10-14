@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_Palm_units_in_resupply_poisson_finite_time
 -- name    : ServiceParts.Palm.units_in_resupply_poisson_finite_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T22:32:28.085467+00:00
 -- url     : https://prove2.me/theorems/a520679d-c5a0-4d2e-a4ed-7bb807f64ffe

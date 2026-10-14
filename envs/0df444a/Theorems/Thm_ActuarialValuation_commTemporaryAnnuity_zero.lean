@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commTemporaryAnnuity_zero
 -- name    : ActuarialValuation.commTemporaryAnnuity_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:56.050744+00:00
 -- url     : https://prove2.me/theorems/3acc0154-168a-43b6-b563-1062190be668

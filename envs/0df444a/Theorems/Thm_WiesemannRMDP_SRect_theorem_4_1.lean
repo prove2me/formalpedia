@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WiesemannRMDP_SRect_theorem_4_1
 -- name    : WiesemannRMDP.SRect.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:39:27.147112+00:00
 -- url     : https://prove2.me/theorems/85ed668e-cc16-46dc-b5cb-da102f6fce07

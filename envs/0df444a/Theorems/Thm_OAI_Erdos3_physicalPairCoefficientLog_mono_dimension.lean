@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_physicalPairCoefficientLog_mono_dimension
 -- name    : OAI.Erdos3.physicalPairCoefficientLog_mono_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T03:53:36.223502+00:00
 -- url     : https://prove2.me/theorems/a050b4cc-fefa-4c83-bbc9-f2fc3f661539

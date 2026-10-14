@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irCumulative_succ
 -- name    : ActuarialValuation.irCumulative_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:54.468102+00:00
 -- url     : https://prove2.me/theorems/0131b817-b017-4cfb-a269-7e5df21d137c

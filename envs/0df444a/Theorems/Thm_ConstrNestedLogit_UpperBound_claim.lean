@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_UpperBound_claim
 -- name    : ConstrNestedLogit.UpperBound.claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:31.377975+00:00
 -- url     : https://prove2.me/theorems/dca04f0d-faf4-411f-aed9-634e3ce6e598

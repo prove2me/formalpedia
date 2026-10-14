@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_fockSmoothPotential_esa
 -- name    : BookProof.ScalaronFock.fockSmoothPotential_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:23:16.274144+00:00
 -- url     : https://prove2.me/theorems/4e48730f-fba5-4118-98b5-c3aab90d10ad

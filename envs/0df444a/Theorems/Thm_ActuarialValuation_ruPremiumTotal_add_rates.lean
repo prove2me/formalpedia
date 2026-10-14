@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruPremiumTotal_add_rates
 -- name    : ActuarialValuation.ruPremiumTotal_add_rates
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:55:02.696993+00:00
 -- url     : https://prove2.me/theorems/976a1b57-12f4-473f-9919-ebcd98ad8e1c

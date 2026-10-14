@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointSurvival_bounded
 -- name    : ActuarialValuation.csJointSurvival_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:07.464971+00:00
 -- url     : https://prove2.me/theorems/62adbc9e-4df6-4171-837f-7b2d2bff7866

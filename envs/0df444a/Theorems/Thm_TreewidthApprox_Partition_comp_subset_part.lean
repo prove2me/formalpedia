@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Partition_comp_subset_part
 -- name    : TreewidthApprox.Partition.comp_subset_part
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:44:24.123856+00:00
 -- url     : https://prove2.me/theorems/dbd6fc0a-ec61-4724-a3b4-da7863a2ea5b

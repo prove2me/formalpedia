@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9RequiredContribution_balance
 -- name    : ActuarialValuation.pen9RequiredContribution_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:48.054984+00:00
 -- url     : https://prove2.me/theorems/0e71cc39-c987-488f-aecd-1473e2fa8b6d

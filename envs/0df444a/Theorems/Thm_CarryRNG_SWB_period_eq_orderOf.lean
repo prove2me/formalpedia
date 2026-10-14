@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CarryRNG_SWB_period_eq_orderOf
 -- name    : CarryRNG.SWB.period_eq_orderOf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:43:17.130908+00:00
 -- url     : https://prove2.me/theorems/ed647a41-29d8-4fc0-8d6f-37f87adfafac

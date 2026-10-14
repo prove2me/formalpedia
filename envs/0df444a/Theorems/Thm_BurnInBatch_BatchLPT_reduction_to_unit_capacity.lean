@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_BatchLPT_reduction_to_unit_capacity
 -- name    : BurnInBatch.BatchLPT.reduction_to_unit_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:28.056794+00:00
 -- url     : https://prove2.me/theorems/32c02ed0-ae62-4ece-aa99-5c6e6ffaf0fd

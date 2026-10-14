@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedPremium_zero
 -- name    : ActuarialValuation.erExpectedPremium_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:51:22.431905+00:00
 -- url     : https://prove2.me/theorems/d9611352-2e64-4ccc-b2f3-e1b13955263e

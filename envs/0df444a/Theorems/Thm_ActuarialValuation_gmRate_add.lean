@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmRate_add
 -- name    : ActuarialValuation.gmRate_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:24.401601+00:00
 -- url     : https://prove2.me/theorems/8fecd76d-25cf-4815-8602-05e125e7b8dc

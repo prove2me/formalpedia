@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whObjectiveTwo_nonneg
 -- name    : ActuarialValuation.whObjectiveTwo_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:35.073977+00:00
 -- url     : https://prove2.me/theorems/2932b015-ccb2-4373-87bf-1fc0cdd0bcae

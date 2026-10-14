@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MeasureTheory_tendsto_eLpNorm_sub_normed_convolution
 -- name    : MeasureTheory.tendsto_eLpNorm_sub_normed_convolution
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T22:39:41.284948+00:00
 -- url     : https://prove2.me/theorems/d1892d7f-352a-4460-a5cf-6dd506f365f3

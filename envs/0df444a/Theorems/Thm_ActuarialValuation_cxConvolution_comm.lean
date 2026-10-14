@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxConvolution_comm
 -- name    : ActuarialValuation.cxConvolution_comm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:55:26.627702+00:00
 -- url     : https://prove2.me/theorems/54a7bc9e-344e-4bb9-8a09-6c7faa8b17e6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedAggregate_nonneg
 -- name    : ActuarialValuation.erExpectedAggregate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:50:26.254371+00:00
 -- url     : https://prove2.me/theorems/e56db027-12f8-4f56-82d2-d43fda396342

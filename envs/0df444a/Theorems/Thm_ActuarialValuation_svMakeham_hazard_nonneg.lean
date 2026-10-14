@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svMakeham_hazard_nonneg
 -- name    : ActuarialValuation.svMakeham_hazard_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:24:43.431988+00:00
 -- url     : https://prove2.me/theorems/1fe5163a-4f65-4955-9ac2-220dff5304e8

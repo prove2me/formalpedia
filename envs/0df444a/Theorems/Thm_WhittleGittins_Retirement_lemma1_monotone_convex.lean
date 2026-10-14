@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittleGittins_Retirement_lemma1_monotone_convex
 -- name    : WhittleGittins.Retirement.lemma1_monotone_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:28.820757+00:00
 -- url     : https://prove2.me/theorems/ccc7f897-0d6a-405c-b09c-f3a2bb83681c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhSurvival_chain
 -- name    : ActuarialValuation.nhSurvival_chain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:50.828321+00:00
 -- url     : https://prove2.me/theorems/c83dc9ed-b315-49b3-b68b-70f9120d80a1

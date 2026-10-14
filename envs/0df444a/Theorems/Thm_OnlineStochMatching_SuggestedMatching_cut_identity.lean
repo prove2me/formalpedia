@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_SuggestedMatching_cut_identity
 -- name    : OnlineStochMatching.SuggestedMatching.cut_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:03:31.26998+00:00
 -- url     : https://prove2.me/theorems/527aecaf-a2fa-428e-95a9-7b8d05ac382e

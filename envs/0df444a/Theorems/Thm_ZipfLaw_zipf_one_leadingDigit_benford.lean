@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipf_one_leadingDigit_benford
 -- name    : ZipfLaw.zipf_one_leadingDigit_benford
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:34:50.356089+00:00
 -- url     : https://prove2.me/theorems/93d4cca7-9afc-4fe0-9461-cd45c00698df

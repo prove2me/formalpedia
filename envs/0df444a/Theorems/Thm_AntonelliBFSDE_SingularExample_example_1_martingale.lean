@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_SingularExample_example_1_martingale
 -- name    : AntonelliBFSDE.SingularExample.example_1_martingale
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:24.700515+00:00
 -- url     : https://prove2.me/theorems/b41ed4cc-1513-48f7-a793-4888bb1e49d9

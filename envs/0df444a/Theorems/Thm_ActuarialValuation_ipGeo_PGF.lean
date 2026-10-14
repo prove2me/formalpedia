@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipGeo_PGF
 -- name    : ActuarialValuation.ipGeo_PGF
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:33.708992+00:00
 -- url     : https://prove2.me/theorems/dd57a725-b0df-419d-b368-4d58133b1328

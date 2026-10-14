@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulBuyUnits_reconstruct
 -- name    : ActuarialValuation.ulBuyUnits_reconstruct
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:24.372489+00:00
 -- url     : https://prove2.me/theorems/7cdfe595-3627-460a-a36d-11615832c8ac

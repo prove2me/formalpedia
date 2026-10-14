@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_finite_projections_agree
 -- name    : DistCov.Hilbert.finite_projections_agree
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:04.777466+00:00
 -- url     : https://prove2.me/theorems/949b28af-f0f8-414e-a417-ab59640b8b8d

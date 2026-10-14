@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAggregateRate_fund_increases
 -- name    : ActuarialValuation.pfAggregateRate_fund_increases
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:51.694005+00:00
 -- url     : https://prove2.me/theorems/408c102c-565e-4dad-bd42-123f37d41044

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Generalized_prop6_4_contraction_fixed_point
 -- name    : BertsekasShreve.Generalized.prop6_4_contraction_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:55:56.208998+00:00
 -- url     : https://prove2.me/theorems/cf305d42-fe8b-477d-ac36-e0816564f60d

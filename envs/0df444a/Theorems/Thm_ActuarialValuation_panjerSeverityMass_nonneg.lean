@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerSeverityMass_nonneg
 -- name    : ActuarialValuation.panjerSeverityMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:27:27.337261+00:00
 -- url     : https://prove2.me/theorems/36c306e1-b5ff-4d91-8e6a-39f673b94e7e

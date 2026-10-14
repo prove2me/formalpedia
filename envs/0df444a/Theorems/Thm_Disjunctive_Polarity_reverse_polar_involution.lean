@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_reverse_polar_involution
 -- name    : Disjunctive.Polarity.reverse_polar_involution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:20:53.14562+00:00
 -- url     : https://prove2.me/theorems/91abbb78-471f-4b21-87af-ebbe53dace17

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ErlangA_Abandonment_theorem_1
 -- name    : ErlangA.Abandonment.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:02:42.556247+00:00
 -- url     : https://prove2.me/theorems/d49c0df4-522a-479e-84f6-74f03e57703e

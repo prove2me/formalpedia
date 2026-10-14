@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropyTemperature_attentionEntropy_le_log_card
 -- name    : BookProof.ChapterEntropyTemperature.attentionEntropy_le_log_card
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:50:49.322411+00:00
 -- url     : https://prove2.me/theorems/e44f0503-8862-4b33-828f-b8566ef284b3

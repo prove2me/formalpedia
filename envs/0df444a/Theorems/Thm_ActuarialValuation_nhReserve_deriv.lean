@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhReserve_deriv
 -- name    : ActuarialValuation.nhReserve_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:23:04.809138+00:00
 -- url     : https://prove2.me/theorems/2c2fa39a-9297-4f1b-bfcd-476040d27a18

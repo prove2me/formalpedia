@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csShockCause_bounded
 -- name    : ActuarialValuation.csShockCause_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:04.188997+00:00
 -- url     : https://prove2.me/theorems/7e59696f-3dcf-400c-b3c9-eaff909caa65

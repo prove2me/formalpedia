@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossQC_Regions_theorem_2_2
 -- name    : RossQC.Regions.theorem_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:17:18.539058+00:00
 -- url     : https://prove2.me/theorems/131b8d35-eb83-4237-83d6-52fb22edb3ba

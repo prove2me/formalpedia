@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Generalization_expected_violation_le
 -- name    : ScenarioApproach.Generalization.expected_violation_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T17:46:43.48645+00:00
 -- url     : https://prove2.me/theorems/f4f7ddfc-0e38-48fa-ba78-041ebc41ed98

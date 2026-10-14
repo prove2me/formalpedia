@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulUniversalGuarantee_fundamental
 -- name    : ActuarialValuation.ulUniversalGuarantee_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:23.719456+00:00
 -- url     : https://prove2.me/theorems/7b69a45d-ee9a-4961-ae29-b7c7ebece011

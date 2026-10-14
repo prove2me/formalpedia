@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commAssuranceAnnuity_fundamental
 -- name    : ActuarialValuation.commAssuranceAnnuity_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:33:28.477092+00:00
 -- url     : https://prove2.me/theorems/d35ecbf9-d236-47d6-a74c-d6dd0d2a0dac

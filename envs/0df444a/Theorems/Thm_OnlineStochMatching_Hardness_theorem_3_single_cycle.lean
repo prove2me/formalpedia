@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_Hardness_theorem_3_single_cycle
 -- name    : OnlineStochMatching.Hardness.theorem_3_single_cycle
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:01:11.006069+00:00
 -- url     : https://prove2.me/theorems/774c4841-c044-462d-ad84-c7ddb590c145

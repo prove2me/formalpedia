@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whObjectiveOne_lambda_mono
 -- name    : ActuarialValuation.whObjectiveOne_lambda_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:10.034381+00:00
 -- url     : https://prove2.me/theorems/818915a7-0b68-43d5-9ccd-19ae8170be07

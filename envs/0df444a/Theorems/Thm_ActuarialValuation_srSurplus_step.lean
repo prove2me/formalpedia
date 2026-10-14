@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srSurplus_step
 -- name    : ActuarialValuation.srSurplus_step
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:57.344566+00:00
 -- url     : https://prove2.me/theorems/99e671d5-185e-4f03-9582-c94acd6950c6

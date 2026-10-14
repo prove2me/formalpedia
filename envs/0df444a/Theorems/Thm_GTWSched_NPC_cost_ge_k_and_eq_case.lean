@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_cost_ge_k_and_eq_case
 -- name    : GTWSched.NPC.cost_ge_k_and_eq_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:49:31.853593+00:00
 -- url     : https://prove2.me/theorems/727dd607-6732-4306-92c4-38e79e3e52d1

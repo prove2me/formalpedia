@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_Process_lemma3_individually_rational
 -- name    : KelsoCrawford.Process.lemma3_individually_rational
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:46:18.488027+00:00
 -- url     : https://prove2.me/theorems/663dbd39-ddf0-4631-9ba7-5d1734bf5b80

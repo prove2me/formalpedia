@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_BOR_cav_of_irreducible_standard
 -- name    : SennottDP.BOR.cav_of_irreducible_standard
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T11:30:26.245031+00:00
 -- url     : https://prove2.me/theorems/174d7ae3-781b-4370-9651-aebbb2cf8f7e

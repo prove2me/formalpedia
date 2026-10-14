@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerFrequencyPremium_add
 -- name    : ActuarialValuation.panjerFrequencyPremium_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:46:48.227989+00:00
 -- url     : https://prove2.me/theorems/b2ef3db5-96af-431a-9677-0b9527fc682f

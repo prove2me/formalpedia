@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Static_largest_optimal_robust
 -- name    : RobustMNL.Static.largest_optimal_robust
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:48.56696+00:00
 -- url     : https://prove2.me/theorems/377131a6-3262-4189-9862-d1a94297114e

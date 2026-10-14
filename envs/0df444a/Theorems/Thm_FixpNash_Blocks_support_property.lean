@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Blocks_support_property
 -- name    : FixpNash.Blocks.support_property
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:36.192378+00:00
 -- url     : https://prove2.me/theorems/500f72c1-64a9-403f-a777-3e6e8a6d07f3

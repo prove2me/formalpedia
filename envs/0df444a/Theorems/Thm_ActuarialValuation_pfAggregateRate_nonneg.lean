@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAggregateRate_nonneg
 -- name    : ActuarialValuation.pfAggregateRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:39.364635+00:00
 -- url     : https://prove2.me/theorems/796c80e0-7281-4cd4-8096-e62a00ed0f48

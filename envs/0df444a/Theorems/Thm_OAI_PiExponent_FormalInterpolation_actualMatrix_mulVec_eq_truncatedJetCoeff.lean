@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_actualMatrix_mulVec_eq_truncatedJetCoeff
 -- name    : OAI.PiExponent.FormalInterpolation.actualMatrix_mulVec_eq_truncatedJetCoeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:35:46.227325+00:00
 -- url     : https://prove2.me/theorems/41ad03fb-e224-4cbd-9e92-f864df11005d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_ListSched_lateness_lower_bound
 -- name    : BurnInBatch.ListSched.lateness_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:08:01.237631+00:00
 -- url     : https://prove2.me/theorems/62baecde-8a7f-4392-83a0-4c1d7f0e5e6e

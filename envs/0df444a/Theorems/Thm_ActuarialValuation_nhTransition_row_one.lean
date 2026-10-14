@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhTransition_row_one
 -- name    : ActuarialValuation.nhTransition_row_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:24.181833+00:00
 -- url     : https://prove2.me/theorems/89482a66-fab0-4f9a-86b7-20360dfa556a

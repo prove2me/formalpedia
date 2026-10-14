@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRiskDenom_pos
 -- name    : ActuarialValuation.cxRiskDenom_pos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:16.204685+00:00
 -- url     : https://prove2.me/theorems/03633da7-280c-43bf-90c4-78d6281a9cd6

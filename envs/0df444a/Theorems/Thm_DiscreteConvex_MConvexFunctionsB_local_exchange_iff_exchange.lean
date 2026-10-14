@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexFunctionsB_local_exchange_iff_exchange
 -- name    : DiscreteConvex.MConvexFunctionsB.local_exchange_iff_exchange
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:10:06.396712+00:00
 -- url     : https://prove2.me/theorems/e637fa60-bf9a-47e5-940f-5ac81dfd1acb

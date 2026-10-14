@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Blocks_purePayoff_le_of_matching_prob_zero
 -- name    : FixpNash.Blocks.purePayoff_le_of_matching_prob_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:03.169427+00:00
 -- url     : https://prove2.me/theorems/bddcaef3-dc1c-4f0c-a385-f75748682714

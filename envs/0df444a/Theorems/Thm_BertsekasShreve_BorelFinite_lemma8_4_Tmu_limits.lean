@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_BorelFinite_lemma8_4_Tmu_limits
 -- name    : BertsekasShreve.BorelFinite.lemma8_4_Tmu_limits
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T04:18:06.158188+00:00
 -- url     : https://prove2.me/theorems/59fbdb4d-17fe-4344-a387-0ffcf0733a34

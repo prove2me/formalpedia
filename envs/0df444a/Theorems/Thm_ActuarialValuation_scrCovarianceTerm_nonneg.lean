@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrCovarianceTerm_nonneg
 -- name    : ActuarialValuation.scrCovarianceTerm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:13:05.162459+00:00
 -- url     : https://prove2.me/theorems/5b407a33-e6ff-4327-bae3-b6c521789e26

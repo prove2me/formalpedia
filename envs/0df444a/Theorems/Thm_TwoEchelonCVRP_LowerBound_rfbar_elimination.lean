@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_LowerBound_rfbar_elimination
 -- name    : TwoEchelonCVRP.LowerBound.rfbar_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:15:17.791783+00:00
 -- url     : https://prove2.me/theorems/5f0ec4fd-4642-48ca-a117-5a5d1ba2b1c0

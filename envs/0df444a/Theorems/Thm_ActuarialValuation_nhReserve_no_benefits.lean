@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhReserve_no_benefits
 -- name    : ActuarialValuation.nhReserve_no_benefits
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:22:45.522395+00:00
 -- url     : https://prove2.me/theorems/5e4ca1ad-b385-4b55-8070-f2c3eab4c9ee

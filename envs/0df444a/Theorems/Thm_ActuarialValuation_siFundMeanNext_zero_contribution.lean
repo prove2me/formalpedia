@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFundMeanNext_zero_contribution
 -- name    : ActuarialValuation.siFundMeanNext_zero_contribution
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:31.054438+00:00
 -- url     : https://prove2.me/theorems/85faa323-6e35-4789-b4fa-d60222d6a7f2

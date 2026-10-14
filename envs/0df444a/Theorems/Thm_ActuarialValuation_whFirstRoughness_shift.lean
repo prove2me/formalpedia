@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whFirstRoughness_shift
 -- name    : ActuarialValuation.whFirstRoughness_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:38.336286+00:00
 -- url     : https://prove2.me/theorems/25a0943c-c86b-4b79-a506-1915ccf1c564

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanditGD_Regret_lemma_1
 -- name    : BanditGD.Regret.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:05:04.353987+00:00
 -- url     : https://prove2.me/theorems/cb16ba7f-ec5a-4521-b96e-a2db5f3cd66e

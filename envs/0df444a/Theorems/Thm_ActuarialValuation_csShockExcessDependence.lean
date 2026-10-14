@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csShockExcessDependence
 -- name    : ActuarialValuation.csShockExcessDependence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:40.248112+00:00
 -- url     : https://prove2.me/theorems/429a3b17-e229-4397-a189-7748e3e5e2b1

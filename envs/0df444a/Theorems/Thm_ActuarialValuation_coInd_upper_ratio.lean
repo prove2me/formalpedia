@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coInd_upper_ratio
 -- name    : ActuarialValuation.coInd_upper_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:51.887982+00:00
 -- url     : https://prove2.me/theorems/3c59e375-6041-4a62-a44c-297c0f829ef0

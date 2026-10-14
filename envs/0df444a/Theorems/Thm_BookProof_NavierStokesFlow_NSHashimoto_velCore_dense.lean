@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_NSHashimoto_velCore_dense
 -- name    : BookProof.NavierStokesFlow.NSHashimoto.velCore_dense
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:59:03.48548+00:00
 -- url     : https://prove2.me/theorems/7f9b401d-f470-42ea-a1e9-8160029514c0

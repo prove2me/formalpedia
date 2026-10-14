@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irNominalOutstanding_nonneg
 -- name    : ActuarialValuation.irNominalOutstanding_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:12.075864+00:00
 -- url     : https://prove2.me/theorems/4561c1c3-0a81-4e03-82d9-ca3d3707d88d

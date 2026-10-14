@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utCARA_marginal
 -- name    : ActuarialValuation.utCARA_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:02:53.91325+00:00
 -- url     : https://prove2.me/theorems/55945074-6fbe-4e12-aaf6-9e5d5950e827

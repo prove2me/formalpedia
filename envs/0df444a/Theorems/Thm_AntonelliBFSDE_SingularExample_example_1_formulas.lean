@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_SingularExample_example_1_formulas
 -- name    : AntonelliBFSDE.SingularExample.example_1_formulas
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:15:00.371643+00:00
 -- url     : https://prove2.me/theorems/bb313ad2-7169-4c5f-bba4-a2ef598c030e

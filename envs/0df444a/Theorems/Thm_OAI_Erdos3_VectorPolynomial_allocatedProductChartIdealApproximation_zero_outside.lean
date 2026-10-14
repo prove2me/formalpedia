@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedProductChartIdealApproximation_zero_outside
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedProductChartIdealApproximation_zero_outside
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T09:23:20.384394+00:00
 -- url     : https://prove2.me/theorems/05f8d13c-dff9-4ef8-96e9-79ef1b090fe3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPairShift_zero
 -- name    : ActuarialValuation.scrPairShift_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:14.67301+00:00
 -- url     : https://prove2.me/theorems/61291b74-3ab9-4523-90c8-4c3e148bda82

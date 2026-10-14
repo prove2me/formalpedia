@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_UDPmin_rev_eq_revenue_priceOf
 -- name    : RevenueOrdered.UDPmin.rev_eq_revenue_priceOf
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:58:27.525197+00:00
 -- url     : https://prove2.me/theorems/e634e5f5-d25a-47c0-990d-ba7e3fb3aaa3

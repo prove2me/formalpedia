@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAttainedRate_clears
 -- name    : ActuarialValuation.pfAttainedRate_clears
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:10.508322+00:00
 -- url     : https://prove2.me/theorems/81d0fb8d-20be-4087-b307-518dcfbc6552

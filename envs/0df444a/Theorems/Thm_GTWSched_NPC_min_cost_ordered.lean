@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_min_cost_ordered
 -- name    : GTWSched.NPC.min_cost_ordered
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:35:40.15399+00:00
 -- url     : https://prove2.me/theorems/1f839715-8886-46d0-af57-bdb426b90787

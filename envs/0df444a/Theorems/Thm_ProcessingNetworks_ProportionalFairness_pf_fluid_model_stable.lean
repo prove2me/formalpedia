@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProcessingNetworks_ProportionalFairness_pf_fluid_model_stable
 -- name    : ProcessingNetworks.ProportionalFairness.pf_fluid_model_stable
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T19:22:46.539116+00:00
 -- url     : https://prove2.me/theorems/58d98c8c-b3d5-4ed5-9681-254db7dc8204

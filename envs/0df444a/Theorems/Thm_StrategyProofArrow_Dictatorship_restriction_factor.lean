@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Dictatorship_restriction_factor
 -- name    : StrategyProofArrow.Dictatorship.restriction_factor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:14.201644+00:00
 -- url     : https://prove2.me/theorems/4c844c46-9f33-4271-b3a6-cd4ed8138ab1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_DPEquations_eq4_subadditive
 -- name    : SendSplit.DPEquations.eq4_subadditive
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:25:37.814901+00:00
 -- url     : https://prove2.me/theorems/eb93bf01-b5fc-4949-913c-445a33d8ce46

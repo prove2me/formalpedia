@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csLifeBeforeShock
 -- name    : ActuarialValuation.csLifeBeforeShock
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:04.113805+00:00
 -- url     : https://prove2.me/theorems/c7a41593-766f-4ce9-9ff2-f175ec88f38b

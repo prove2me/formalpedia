@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxLogPartial_deriv
 -- name    : ActuarialValuation.cxLogPartial_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:36.876701+00:00
 -- url     : https://prove2.me/theorems/799b39cf-c234-4091-bab6-10a4f4977ec1

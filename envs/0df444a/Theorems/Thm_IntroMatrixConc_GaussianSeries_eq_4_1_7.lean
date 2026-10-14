@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroMatrixConc_GaussianSeries_eq_4_1_7
 -- name    : IntroMatrixConc.GaussianSeries.eq_4_1_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:51.172286+00:00
 -- url     : https://prove2.me/theorems/b354fada-cfc9-43e9-8117-b2c3c418976e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvPortfolioMean_succ
 -- name    : ActuarialValuation.pvPortfolioMean_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:48.894563+00:00
 -- url     : https://prove2.me/theorems/09b27507-f98e-40c9-8c41-695903995b9b

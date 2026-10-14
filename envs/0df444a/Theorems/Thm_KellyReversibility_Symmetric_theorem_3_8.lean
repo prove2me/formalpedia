@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyReversibility_Symmetric_theorem_3_8
 -- name    : KellyReversibility.Symmetric.theorem_3_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:51:45.423891+00:00
 -- url     : https://prove2.me/theorems/0cff1bd7-b70c-48c9-aa66-bc768f299294

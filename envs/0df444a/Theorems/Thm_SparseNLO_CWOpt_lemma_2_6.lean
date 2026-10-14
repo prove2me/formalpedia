@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_CWOpt_lemma_2_6
 -- name    : SparseNLO.CWOpt.lemma_2_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:12:31.839626+00:00
 -- url     : https://prove2.me/theorems/51aba99e-8998-4b28-8ed0-e19f31a173ac

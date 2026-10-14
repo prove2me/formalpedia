@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgPanjerLHS_no_a
 -- name    : ActuarialValuation.pgPanjerLHS_no_a
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:54:32.038798+00:00
 -- url     : https://prove2.me/theorems/5b5ddc55-0851-4256-a29d-1c6d4dc59dc5

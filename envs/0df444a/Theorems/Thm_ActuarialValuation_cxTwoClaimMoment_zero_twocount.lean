@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxTwoClaimMoment_zero_twocount
 -- name    : ActuarialValuation.cxTwoClaimMoment_zero_twocount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:45.384988+00:00
 -- url     : https://prove2.me/theorems/693be21a-ef68-4c8c-bb7b-b80d6cec4bfd

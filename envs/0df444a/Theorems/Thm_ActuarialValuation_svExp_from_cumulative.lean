@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svExp_from_cumulative
 -- name    : ActuarialValuation.svExp_from_cumulative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:22.474995+00:00
 -- url     : https://prove2.me/theorems/be459e04-2952-4c52-b01b-c077cae2dda2

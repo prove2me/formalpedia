@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_forecastLawDensityPhysicalChartSource_integrable
 -- name    : OAI.Erdos3.VectorPolynomial.forecastLawDensityPhysicalChartSource_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T02:51:03.952365+00:00
 -- url     : https://prove2.me/theorems/a76cd17d-ee49-4fee-b8ef-53f51446ebaa

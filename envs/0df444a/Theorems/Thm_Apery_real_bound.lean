@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_real_bound
 -- name    : Apery.real_bound
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T11:09:44.385696+00:00
 -- url     : https://prove2.me/theorems/35bd2c2c-ff9a-4220-a70d-3b4cc8d015b0

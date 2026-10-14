@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utArrowPratt_constant
 -- name    : ActuarialValuation.utArrowPratt_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:59.049473+00:00
 -- url     : https://prove2.me/theorems/cb53ed91-c063-4358-8eb5-e9a4e3d843f4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_sum_ymMagVec_X
 -- name    : BookProof.YangMillsAbelianEsa.sum_ymMagVec_X
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:20:30.769661+00:00
 -- url     : https://prove2.me/theorems/d76bd2ba-2d71-4f7c-bc9e-03740ae1d442

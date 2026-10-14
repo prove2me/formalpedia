@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterObservableExpectation_attention_mem_convexHull
 -- name    : BookProof.ChapterObservableExpectation.attention_mem_convexHull
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T08:39:19.522676+00:00
 -- url     : https://prove2.me/theorems/992b732f-d063-49b2-9ed7-525a6fca0031

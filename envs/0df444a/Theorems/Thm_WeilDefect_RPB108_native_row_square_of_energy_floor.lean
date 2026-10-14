@@ -12,8 +12,12 @@
 --   $$\left|\sum_i a_i z_i\right|^2\le dU.$$
 --
 --   A checked scalar budget and supplied energy floor imply the row-square estimate. Neither positivity of $g$ nor nonnegativity of $U$ is added as a premise.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/NativePairing.lean#L26-L40; exact native theorem WeilDefect.RPB108.native_row_square_of_energy_floor. SHA256 a7d507bfe099ea300b03c469d6f2fadf9c979d23799375364721dd2eb3c304c1. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

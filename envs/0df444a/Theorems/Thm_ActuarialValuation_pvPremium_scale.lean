@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvPremium_scale
 -- name    : ActuarialValuation.pvPremium_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:05.02399+00:00
 -- url     : https://prove2.me/theorems/b22944ba-2d09-4601-8a09-692f50150cf0

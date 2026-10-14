@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlMortalityProfit_zero_mean
 -- name    : ActuarialValuation.jlMortalityProfit_zero_mean
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:17.311586+00:00
 -- url     : https://prove2.me/theorems/d1fdd39c-66a5-4ad9-92aa-1f20bfc878ad

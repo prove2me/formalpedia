@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_LowerBound_eq_1_57
 -- name    : NagaevLD.LowerBound.eq_1_57
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:17:58.18496+00:00
 -- url     : https://prove2.me/theorems/dea4dc37-2287-4937-81b3-cced95ce1211

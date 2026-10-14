@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfEntryCost_linear
 -- name    : ActuarialValuation.pfEntryCost_linear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:00:33.091987+00:00
 -- url     : https://prove2.me/theorems/4dd055eb-aa6e-441e-89da-945aac0bfeda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_mixedOp_essentiallySelfAdjoint
 -- name    : BookProof.FourierMultiplierEsa.mixedOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:14.172537+00:00
 -- url     : https://prove2.me/theorems/d0c2be63-c080-4cf6-9502-a97cb0c1aa6d

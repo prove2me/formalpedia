@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgPanjerRecLaw_one
 -- name    : ActuarialValuation.pgPanjerRecLaw_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:55:15.972294+00:00
 -- url     : https://prove2.me/theorems/765a75bc-427c-4989-b246-38bbf689a8f9

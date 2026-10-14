@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRuinCandidate_capital_shift
 -- name    : ActuarialValuation.erRuinCandidate_capital_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T16:01:02.760901+00:00
 -- url     : https://prove2.me/theorems/53025c4a-1423-4d3e-a5dd-ab3260a24d3d

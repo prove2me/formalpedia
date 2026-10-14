@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_signedOp_quadForm_nonneg
 -- name    : BookProof.QuantumGravity3DGauge.signedOp_quadForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:59:35.481748+00:00
 -- url     : https://prove2.me/theorems/a1186eb6-8721-475d-8ae3-454be4edcc47

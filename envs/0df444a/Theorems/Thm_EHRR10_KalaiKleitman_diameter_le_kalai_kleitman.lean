@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EHRR10_KalaiKleitman_diameter_le_kalai_kleitman
 -- name    : EHRR10.KalaiKleitman.diameter_le_kalai_kleitman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:46:27.939448+00:00
 -- url     : https://prove2.me/theorems/917d1476-469c-4975-be93-051dad974735

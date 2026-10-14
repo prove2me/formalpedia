@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irCumulative_nonneg
 -- name    : ActuarialValuation.irCumulative_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:34.773474+00:00
 -- url     : https://prove2.me/theorems/cb2b4cb8-359a-4bfa-81a4-2e7853a15217

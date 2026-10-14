@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_Discounted_theorem_6_2
 -- name    : StableFA.Discounted.theorem_6_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:40:53.52298+00:00
 -- url     : https://prove2.me/theorems/7ac740ce-84cf-4a9f-8f4b-9744f6a822c9

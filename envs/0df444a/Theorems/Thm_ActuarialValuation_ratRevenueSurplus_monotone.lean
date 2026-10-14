@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratRevenueSurplus_monotone
 -- name    : ActuarialValuation.ratRevenueSurplus_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:47:35.186975+00:00
 -- url     : https://prove2.me/theorems/a3bab3b7-11ca-46c1-9ca6-32ecb7165fd5

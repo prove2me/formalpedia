@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Indep_lemma_2_1
 -- name    : DistCov.Indep.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:00.395999+00:00
 -- url     : https://prove2.me/theorems/0d01b838-1af8-4797-9349-0965c8a5488b

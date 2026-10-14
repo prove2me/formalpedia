@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crDebtPayoff_le_face
 -- name    : ActuarialValuation.crDebtPayoff_le_face
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:37.369214+00:00
 -- url     : https://prove2.me/theorems/dcbaacaa-1eb8-47d0-a9c8-5facb8cf119a

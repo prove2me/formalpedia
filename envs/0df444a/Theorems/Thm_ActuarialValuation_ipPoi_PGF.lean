@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipPoi_PGF
 -- name    : ActuarialValuation.ipPoi_PGF
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:48.328991+00:00
 -- url     : https://prove2.me/theorems/f2be889f-5f28-46b2-8ca6-b32670f3a8da

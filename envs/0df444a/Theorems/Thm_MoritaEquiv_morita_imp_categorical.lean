@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoritaEquiv_morita_imp_categorical
 -- name    : MoritaEquiv.morita_imp_categorical
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T13:02:54.954887+00:00
 -- url     : https://prove2.me/theorems/8f7681ff-fa0c-48d1-814b-c133b37c23db

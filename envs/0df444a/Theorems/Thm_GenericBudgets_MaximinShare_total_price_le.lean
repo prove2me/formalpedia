@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgets_MaximinShare_total_price_le
 -- name    : GenericBudgets.MaximinShare.total_price_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:31:12.504694+00:00
 -- url     : https://prove2.me/theorems/3f2716a4-ce20-420a-b240-4677b9bf839f

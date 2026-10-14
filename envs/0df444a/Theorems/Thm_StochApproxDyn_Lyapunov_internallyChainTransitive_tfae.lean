@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Lyapunov_internallyChainTransitive_tfae
 -- name    : StochApproxDyn.Lyapunov.internallyChainTransitive_tfae
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T15:49:35.260988+00:00
 -- url     : https://prove2.me/theorems/a76bb2b6-c0aa-4b16-a44f-5c98af1c93e7

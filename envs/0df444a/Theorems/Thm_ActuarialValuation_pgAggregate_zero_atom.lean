@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgAggregate_zero_atom
 -- name    : ActuarialValuation.pgAggregate_zero_atom
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:06.188681+00:00
 -- url     : https://prove2.me/theorems/8190d6ad-293f-433a-a411-103f3760325d

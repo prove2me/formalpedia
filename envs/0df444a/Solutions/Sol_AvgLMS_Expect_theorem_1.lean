@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for AvgLMS.Expect.theorem_1
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T13:31:22.826984+00:00
 -- url     : https://prove2.me/submissions/878892e1-ceb1-4190-bfb5-d1e65089b859
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_AvgLMS_Expect_Model

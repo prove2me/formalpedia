@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_DualDecomp_lemma_5
 -- name    : ALADIN.DualDecomp.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:47:32.83466+00:00
 -- url     : https://prove2.me/theorems/134120e8-97b6-4008-9c48-4b054caf9479

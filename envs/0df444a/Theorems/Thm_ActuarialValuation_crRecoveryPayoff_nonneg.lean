@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRecoveryPayoff_nonneg
 -- name    : ActuarialValuation.crRecoveryPayoff_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:12:37.590463+00:00
 -- url     : https://prove2.me/theorems/c8b1c089-0bc0-44db-82c4-4fe04424ed86

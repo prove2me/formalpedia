@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_errata_x_continuity
 -- name    : DistCov.Hilbert.errata_x_continuity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:03.650464+00:00
 -- url     : https://prove2.me/theorems/de2ca4cf-f3d2-4b75-b491-92c49d503e81

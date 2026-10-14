@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitinPrice_StyleGoods_optimal_unit_profit
 -- name    : WhitinPrice.StyleGoods.optimal_unit_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:58:27.767154+00:00
 -- url     : https://prove2.me/theorems/f27217a8-50c2-49ac-8d02-dec903a89f7f

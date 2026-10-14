@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_posOp_deficiencyTrivialAt
 -- name    : BookProof.MixedLinearEsa.posOp_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:03:29.540506+00:00
 -- url     : https://prove2.me/theorems/d8060b86-f0cf-4f59-bfbf-fc208670f1d1

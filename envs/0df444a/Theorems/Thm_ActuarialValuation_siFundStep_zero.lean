@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFundStep_zero
 -- name    : ActuarialValuation.siFundStep_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:30.958243+00:00
 -- url     : https://prove2.me/theorems/5d7dc342-a92e-42d3-8faa-dde841ffb978

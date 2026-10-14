@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Static_incremental_value_bounds
 -- name    : RobustMNL.Static.incremental_value_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:45.157572+00:00
 -- url     : https://prove2.me/theorems/14483ac6-50ed-4927-bbe4-731d25ba03b1

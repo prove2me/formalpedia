@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucProjectedBenefitPV_nonneg
 -- name    : ActuarialValuation.pucProjectedBenefitPV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:59.599456+00:00
 -- url     : https://prove2.me/theorems/c2d0ebce-ec56-48c4-afb8-fead9f6cef85

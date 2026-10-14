@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_exists_core_state_small_energy
 -- name    : BookProof.YangMillsAbelianNoGap.exists_core_state_small_energy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:37:29.163702+00:00
 -- url     : https://prove2.me/theorems/4fd1d761-e7c1-4701-88d0-6fdfb4523c65

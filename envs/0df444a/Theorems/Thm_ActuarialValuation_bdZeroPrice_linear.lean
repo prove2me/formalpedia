@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdZeroPrice_linear
 -- name    : ActuarialValuation.bdZeroPrice_linear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:20.004252+00:00
 -- url     : https://prove2.me/theorems/14358944-cf40-494d-89c4-dac3af895fa8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdForwardState_zero
 -- name    : ActuarialValuation.bdForwardState_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:12.127815+00:00
 -- url     : https://prove2.me/theorems/3608ffc6-523b-4f21-b87f-5209bae848da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfExperienceAttribution_chain
 -- name    : ActuarialValuation.pfExperienceAttribution_chain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:32.006175+00:00
 -- url     : https://prove2.me/theorems/1d91cfd9-7c57-4c55-8c04-f50a76d4e3e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_LimitSet_isAsymptoticPseudotrajectory_characterization
 -- name    : StochApproxDyn.LimitSet.isAsymptoticPseudotrajectory_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:03:17.47223+00:00
 -- url     : https://prove2.me/theorems/5a161b7e-faf4-4830-a196-2a7db1552d49

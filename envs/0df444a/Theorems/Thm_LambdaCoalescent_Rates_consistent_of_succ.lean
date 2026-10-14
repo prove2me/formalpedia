@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_Rates_consistent_of_succ
 -- name    : LambdaCoalescent.Rates.consistent_of_succ
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:45.09108+00:00
 -- url     : https://prove2.me/theorems/e4d75a7b-7531-4bba-95ec-63cab337d5e0

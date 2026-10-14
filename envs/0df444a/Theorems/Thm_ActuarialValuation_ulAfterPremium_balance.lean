@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAfterPremium_balance
 -- name    : ActuarialValuation.ulAfterPremium_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:52.838979+00:00
 -- url     : https://prove2.me/theorems/7d7aa609-d39e-4098-97f7-7af85bcf2214

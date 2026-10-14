@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_BigMvsPR_ineq_41
 -- name    : L0BnB.BigMvsPR.ineq_41
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:28:45.00599+00:00
 -- url     : https://prove2.me/theorems/4810bf07-11f2-45e0-b08e-88afae361b60

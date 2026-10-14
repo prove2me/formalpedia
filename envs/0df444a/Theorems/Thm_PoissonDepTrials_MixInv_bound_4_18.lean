@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixInv_bound_4_18
 -- name    : PoissonDepTrials.MixInv.bound_4_18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:08:38.235083+00:00
 -- url     : https://prove2.me/theorems/5dec7e0a-cd36-4ac1-b9b7-a767a5610b49

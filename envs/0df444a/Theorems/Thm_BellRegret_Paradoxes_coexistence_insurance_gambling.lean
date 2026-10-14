@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BellRegret_Paradoxes_coexistence_insurance_gambling
 -- name    : BellRegret.Paradoxes.coexistence_insurance_gambling
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:22:37.864396+00:00
 -- url     : https://prove2.me/theorems/c5d777aa-4855-4315-b3d5-aad8b531f7c3

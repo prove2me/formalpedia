@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MatroidProphetKW_RankOne_half_mean_threshold
 -- name    : MatroidProphetKW.RankOne.half_mean_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T11:24:41.122162+00:00
 -- url     : https://prove2.me/theorems/19b6f84f-0476-4df2-a621-a4b99aaf975c

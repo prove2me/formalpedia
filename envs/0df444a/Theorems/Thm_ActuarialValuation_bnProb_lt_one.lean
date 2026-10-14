@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnProb_lt_one
 -- name    : ActuarialValuation.bnProb_lt_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:47.393324+00:00
 -- url     : https://prove2.me/theorems/73553781-e6a3-474b-8766-f9bc9bce8d09

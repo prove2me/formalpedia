@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhThieleRHS_zero
 -- name    : ActuarialValuation.nhThieleRHS_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:23:25.117191+00:00
 -- url     : https://prove2.me/theorems/268d112a-265a-409f-870b-f6096f37d96f

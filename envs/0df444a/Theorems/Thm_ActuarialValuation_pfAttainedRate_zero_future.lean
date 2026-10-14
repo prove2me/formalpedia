@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAttainedRate_zero_future
 -- name    : ActuarialValuation.pfAttainedRate_zero_future
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:31.15646+00:00
 -- url     : https://prove2.me/theorems/75835203-ee75-4d85-852a-f297a423f55a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitinPrice_StyleGoods_eq_9_12_optimal_stock
 -- name    : WhitinPrice.StyleGoods.eq_9_12_optimal_stock
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:01:10.967394+00:00
 -- url     : https://prove2.me/theorems/c8d6c8ff-501c-4661-b618-565b23d674d0

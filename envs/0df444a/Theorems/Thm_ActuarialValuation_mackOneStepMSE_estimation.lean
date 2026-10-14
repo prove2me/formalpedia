@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackOneStepMSE_estimation
 -- name    : ActuarialValuation.mackOneStepMSE_estimation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:38.737124+00:00
 -- url     : https://prove2.me/theorems/d3328c39-46d0-4a37-a012-bbd819a4d0f2

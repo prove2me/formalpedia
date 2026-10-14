@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_VariableCost_light_vertices_weight
 -- name    : SingleMachinePrec.VariableCost.light_vertices_weight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:30:31.6765+00:00
 -- url     : https://prove2.me/theorems/4292986a-1700-4352-b98a-981d542b548a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdStatePV_positive_unit
 -- name    : ActuarialValuation.bdStatePV_positive_unit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:53.269885+00:00
 -- url     : https://prove2.me/theorems/872357f2-f00f-465e-8277-4ab87696bcf0

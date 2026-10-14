@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipCompound_PGF_composition
 -- name    : ActuarialValuation.ipCompound_PGF_composition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:10:30.098811+00:00
 -- url     : https://prove2.me/theorems/48e083fc-655b-4683-9225-dc3492b7400d

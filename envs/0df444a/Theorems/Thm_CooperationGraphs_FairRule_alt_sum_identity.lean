@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_alt_sum_identity
 -- name    : CooperationGraphs.FairRule.alt_sum_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:26:53.274462+00:00
 -- url     : https://prove2.me/theorems/d067a656-8fdf-491f-9d4b-112d6badef49

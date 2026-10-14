@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixInv_lemma_4_2
 -- name    : PoissonDepTrials.MixInv.lemma_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:05:10.782913+00:00
 -- url     : https://prove2.me/theorems/f4d4ac57-9698-482e-839c-e605b84383ca

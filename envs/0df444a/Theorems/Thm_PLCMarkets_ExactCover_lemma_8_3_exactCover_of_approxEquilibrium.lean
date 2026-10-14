@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PLCMarkets_ExactCover_lemma_8_3_exactCover_of_approxEquilibrium
 -- name    : PLCMarkets.ExactCover.lemma_8_3_exactCover_of_approxEquilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T01:12:57.351308+00:00
 -- url     : https://prove2.me/theorems/cadc30cb-0110-47ae-8aa1-f1b16451bdc5

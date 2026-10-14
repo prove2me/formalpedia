@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Correspondence_gibbard_claim
 -- name    : StrategyProofArrow.Correspondence.gibbard_claim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:49.904272+00:00
 -- url     : https://prove2.me/theorems/3a1d8f87-fce6-456b-b7ba-b09390c42f88

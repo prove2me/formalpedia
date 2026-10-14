@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NesterovODE_GenScheme_theorem_6
 -- name    : NesterovODE.GenScheme.theorem_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:51:08.542357+00:00
 -- url     : https://prove2.me/theorems/f8489995-e70b-4010-8402-d994fe4ab95c

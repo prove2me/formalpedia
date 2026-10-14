@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_derivative_sign
 -- name    : AssortSearch.MNLQC.derivative_sign
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:41.855895+00:00
 -- url     : https://prove2.me/theorems/776a4e3a-e652-40c6-a3ac-7ad4c53d45a6

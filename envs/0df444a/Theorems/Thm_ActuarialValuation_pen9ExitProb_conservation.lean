@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9ExitProb_conservation
 -- name    : ActuarialValuation.pen9ExitProb_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:31.294583+00:00
 -- url     : https://prove2.me/theorems/7d441728-1563-4ce4-af6a-93fcf5420726

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvTerm_after_expiry
 -- name    : ActuarialValuation.pvTerm_after_expiry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:42.530987+00:00
 -- url     : https://prove2.me/theorems/11a51b37-5fda-424d-8352-704ae100934e

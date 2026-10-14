@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucAmortisationRate_cancel
 -- name    : ActuarialValuation.pucAmortisationRate_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:11:16.135191+00:00
 -- url     : https://prove2.me/theorems/1967120c-9261-4644-8fe6-2730d4a59b38

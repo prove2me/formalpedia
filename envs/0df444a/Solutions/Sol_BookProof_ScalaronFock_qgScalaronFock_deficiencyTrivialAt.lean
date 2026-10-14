@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ScalaronFock.qgScalaronFock_deficiencyTrivialAt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:18:20.486492+00:00
 -- url     : https://prove2.me/submissions/cf5faa0a-b4e9-4f6d-9893-bce20cef7465
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterScalaronFockEsa.lean — solution of BookProof.ScalaronFock.qgScalaronFock_deficiencyTrivialAt
 import Mathlib

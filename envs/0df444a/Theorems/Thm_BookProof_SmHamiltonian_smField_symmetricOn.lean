@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmHamiltonian_smField_symmetricOn
 -- name    : BookProof.SmHamiltonian.smField_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T14:13:19.70299+00:00
 -- url     : https://prove2.me/theorems/b724e1b5-dbd9-4965-9377-2d9fb282927e

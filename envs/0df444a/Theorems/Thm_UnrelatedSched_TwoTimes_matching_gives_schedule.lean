@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoTimes_matching_gives_schedule
 -- name    : UnrelatedSched.TwoTimes.matching_gives_schedule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:20:31.714766+00:00
 -- url     : https://prove2.me/theorems/31a05a0f-7de0-4da4-8f77-4b9eae779560

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_fundamental_identity
 -- name    : ActuarialFoundations.fa_fundamental_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T23:33:37.544003+00:00
 -- url     : https://prove2.me/theorems/810e94bf-3a59-4485-b995-7ceb8e70ef02

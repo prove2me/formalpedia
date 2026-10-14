@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_BOR_bor_of_cav
 -- name    : SennottDP.BOR.bor_of_cav
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T11:30:15.520005+00:00
 -- url     : https://prove2.me/theorems/85655de5-7cdd-4b5a-afe0-d698598e0d2c

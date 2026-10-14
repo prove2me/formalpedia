@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnHedge_down_replication
 -- name    : ActuarialValuation.bnHedge_down_replication
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:17.932986+00:00
 -- url     : https://prove2.me/theorems/77c72f34-a983-43a9-8589-1ff4ad77eebf

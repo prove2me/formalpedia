@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgAggregate_nonneg
 -- name    : ActuarialValuation.pgAggregate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:19.80999+00:00
 -- url     : https://prove2.me/theorems/b1d28493-ec65-4fdc-83b6-a39fe03e2149

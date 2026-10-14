@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_Hardness_xyy_scenario
 -- name    : OnlineStochMatching.Hardness.xyy_scenario
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:00:46.476445+00:00
 -- url     : https://prove2.me/theorems/0f69bc86-b24c-4995-a40e-3308ea9d0ebb

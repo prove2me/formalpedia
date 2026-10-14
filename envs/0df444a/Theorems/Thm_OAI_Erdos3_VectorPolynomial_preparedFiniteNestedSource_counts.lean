@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_preparedFiniteNestedSource_counts
 -- name    : OAI.Erdos3.VectorPolynomial.preparedFiniteNestedSource_counts
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T08:03:58.904808+00:00
 -- url     : https://prove2.me/theorems/93674629-e033-4797-9f08-7eaeefaf3ff5

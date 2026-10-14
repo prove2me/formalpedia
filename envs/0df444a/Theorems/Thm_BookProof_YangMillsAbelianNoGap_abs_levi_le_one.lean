@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_abs_levi_le_one
 -- name    : BookProof.YangMillsAbelianNoGap.abs_levi_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:37:16.40862+00:00
 -- url     : https://prove2.me/theorems/33d2f47c-ee65-41ec-9582-1a19ed42a443

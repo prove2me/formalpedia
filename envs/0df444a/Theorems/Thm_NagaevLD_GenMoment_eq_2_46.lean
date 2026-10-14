@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_GenMoment_eq_2_46
 -- name    : NagaevLD.GenMoment.eq_2_46
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:17:31.316998+00:00
 -- url     : https://prove2.me/theorems/623ac2e8-9a45-4cee-948b-45757981a597

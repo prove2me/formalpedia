@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_eq_6
 -- name    : AssortSearch.MNLQC.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:34.31988+00:00
 -- url     : https://prove2.me/theorems/cd3361c0-671e-48db-8e6e-810fa9ff6bfd

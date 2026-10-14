@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRiskDenom_monotone
 -- name    : ActuarialValuation.cxRiskDenom_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:00.653783+00:00
 -- url     : https://prove2.me/theorems/7715f60e-af64-40ab-93a6-521245c5a6de

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_clGraph_eq_of_isCoreOf
 -- name    : BookProof.ClosureUniqueness.clGraph_eq_of_isCoreOf
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:42:07.904839+00:00
 -- url     : https://prove2.me/theorems/f9986bb2-3a7a-487f-a676-869cd3a93f6f

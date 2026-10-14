@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackScaledResidual_nonneg
 -- name    : ActuarialValuation.mackScaledResidual_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:28:34.331038+00:00
 -- url     : https://prove2.me/theorems/bf75817b-6042-48f9-a511-7729f339de17

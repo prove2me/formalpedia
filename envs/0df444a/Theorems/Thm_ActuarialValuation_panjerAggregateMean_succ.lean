@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerAggregateMean_succ
 -- name    : ActuarialValuation.panjerAggregateMean_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T08:00:57.401983+00:00
 -- url     : https://prove2.me/theorems/fb774d04-fd59-4ac9-824e-3871f4a3e068

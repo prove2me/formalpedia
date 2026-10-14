@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFockFL.dsFibOp_commForm_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:42:10.272506+00:00
 -- url     : https://prove2.me/submissions/e56e2199-bf32-462a-bd13-abce5eda4dc7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgOuterFockFarisLavine.lean — solution of BookProof.QgOuterFockFL.dsFibOp_commForm_le
 import Mathlib

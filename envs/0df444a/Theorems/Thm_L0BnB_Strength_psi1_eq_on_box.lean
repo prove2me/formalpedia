@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Strength_psi1_eq_on_box
 -- name    : L0BnB.Strength.psi1_eq_on_box
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:29.877223+00:00
 -- url     : https://prove2.me/theorems/951a2d73-f89a-48ee-a3e7-0c9125a5b21f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_shapley_restrict_removeLink_le
 -- name    : CooperationGraphs.FairRule.shapley_restrict_removeLink_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:34.835706+00:00
 -- url     : https://prove2.me/theorems/288c95f8-a2ba-475f-87e8-4891dd01fe5f

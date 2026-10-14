@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxBernAggregateMass_zero
 -- name    : ActuarialValuation.cxBernAggregateMass_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:57:42.637794+00:00
 -- url     : https://prove2.me/theorems/59a81450-de8a-4ae7-9e4e-5396d9a45d7d

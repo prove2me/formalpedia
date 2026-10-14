@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestartPD_Fixed_thm1_partial_sum
 -- name    : RestartPD.Fixed.thm1_partial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:55:48.540006+00:00
 -- url     : https://prove2.me/theorems/839b2655-a4ef-436c-81e9-03db05982794

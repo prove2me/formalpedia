@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcExpectedDeathCost_factor
 -- name    : ActuarialValuation.lcExpectedDeathCost_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:03:18.024736+00:00
 -- url     : https://prove2.me/theorems/20985a82-19d6-42cd-b57d-2791ea5c8ca9

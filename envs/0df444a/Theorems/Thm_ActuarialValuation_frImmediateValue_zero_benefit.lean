@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frImmediateValue_zero_benefit
 -- name    : ActuarialValuation.frImmediateValue_zero_benefit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:26.486976+00:00
 -- url     : https://prove2.me/theorems/241f67a4-653d-4b18-a687-1ed9f83aa5fc

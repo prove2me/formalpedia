@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siMean_add
 -- name    : ActuarialValuation.siMean_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:47.551859+00:00
 -- url     : https://prove2.me/theorems/c70faf0f-f063-4aba-87d7-5229c3244056

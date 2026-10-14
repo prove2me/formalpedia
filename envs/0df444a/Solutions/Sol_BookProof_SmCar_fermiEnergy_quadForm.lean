@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmCar.fermiEnergy_quadForm
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:35:08.533094+00:00
 -- url     : https://prove2.me/submissions/1ee26754-a3ae-45d7-aca4-845b73410895
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmCarAlgebra.lean — solution of BookProof.SmCar.fermiEnergy_quadForm
 import Mathlib

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clFactorToUltimate_single
 -- name    : ActuarialValuation.clFactorToUltimate_single
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:35.552288+00:00
 -- url     : https://prove2.me/theorems/895cfd4c-591d-4909-a8c7-d2000e5f17cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_equitable_iff_componentwise
 -- name    : CooperationGraphs.FairRule.equitable_iff_componentwise
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:24.852542+00:00
 -- url     : https://prove2.me/theorems/27686400-ca5b-4e2f-8cbf-0582d2a94274

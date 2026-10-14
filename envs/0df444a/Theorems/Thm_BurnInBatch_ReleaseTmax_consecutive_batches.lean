@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_ReleaseTmax_consecutive_batches
 -- name    : BurnInBatch.ReleaseTmax.consecutive_batches
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:28:49.622185+00:00
 -- url     : https://prove2.me/theorems/2cd89510-08c0-4642-a2d7-79ffd80244e2

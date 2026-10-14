@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_TM_merge_sort
 -- name    : IntMul.TM.merge_sort
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T02:09:24.388783+00:00
 -- url     : https://prove2.me/theorems/97769b99-51e5-4bb5-8a49-d7dc210a12f3

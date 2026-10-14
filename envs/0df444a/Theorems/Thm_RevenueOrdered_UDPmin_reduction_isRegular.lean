@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_UDPmin_reduction_isRegular
 -- name    : RevenueOrdered.UDPmin.reduction_isRegular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:58:16.545647+00:00
 -- url     : https://prove2.me/theorems/44a1461b-365d-48cc-8354-385592315713

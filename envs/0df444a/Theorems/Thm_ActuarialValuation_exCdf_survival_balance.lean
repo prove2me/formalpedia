@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exCdf_survival_balance
 -- name    : ActuarialValuation.exCdf_survival_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:11.850982+00:00
 -- url     : https://prove2.me/theorems/b2896d15-4514-4b66-8a2a-529fe9b32bcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_eq_clExt_of_isClosureOf
 -- name    : BookProof.ClosureUniqueness.eq_clExt_of_isClosureOf
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:38:13.251525+00:00
 -- url     : https://prove2.me/theorems/4f68ffe9-50d9-4850-9848-d2f0b4aa8ed2

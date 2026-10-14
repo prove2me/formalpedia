@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Potential_potential_decrease_per_iteration
 -- name    : AdaptiveStepIPM.Potential.potential_decrease_per_iteration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:18.948853+00:00
 -- url     : https://prove2.me/theorems/53ba75e8-d6cb-436d-a4c0-199e065c6a06

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpBenefit_mono_reserve
 -- name    : ActuarialValuation.alterationPaidUpBenefit_mono_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:19.491259+00:00
 -- url     : https://prove2.me/theorems/299a0594-dac9-4482-89ab-f78e5bd7e967

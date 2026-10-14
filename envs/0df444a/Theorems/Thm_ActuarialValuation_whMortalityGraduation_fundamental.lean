@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whMortalityGraduation_fundamental
 -- name    : ActuarialValuation.whMortalityGraduation_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:20.877204+00:00
 -- url     : https://prove2.me/theorems/ec03b716-0aae-4c43-8c65-7fb65ec61dd0

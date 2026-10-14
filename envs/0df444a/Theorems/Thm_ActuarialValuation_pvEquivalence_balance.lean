@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvEquivalence_balance
 -- name    : ActuarialValuation.pvEquivalence_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:40.464489+00:00
 -- url     : https://prove2.me/theorems/dc2cc4cb-8349-40ce-a6eb-a2413b8ffc30

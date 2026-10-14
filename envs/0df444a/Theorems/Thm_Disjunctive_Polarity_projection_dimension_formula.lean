@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_projection_dimension_formula
 -- name    : Disjunctive.Polarity.projection_dimension_formula
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:17:08.086006+00:00
 -- url     : https://prove2.me/theorems/3f65c1ac-0ff9-4a62-8fa9-9b2bde7ba43d

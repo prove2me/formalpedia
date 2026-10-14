@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coTailJoint_monotone_v
 -- name    : ActuarialValuation.coTailJoint_monotone_v
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:05.264484+00:00
 -- url     : https://prove2.me/theorems/7af7a1a9-c6ce-4f23-82ee-97fa87921365

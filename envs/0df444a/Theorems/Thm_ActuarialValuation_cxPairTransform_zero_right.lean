@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPairTransform_zero_right
 -- name    : ActuarialValuation.cxPairTransform_zero_right
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:56:10.4047+00:00
 -- url     : https://prove2.me/theorems/518845a2-1963-4332-bcd8-206d9feba947

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_Carleman_tridiagOp_not_bounded
 -- name    : BookProof.NavierStokesFlow.Carleman.tridiagOp_not_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T06:37:51.020975+00:00
 -- url     : https://prove2.me/theorems/325d7df0-61e8-44ea-8357-64e080368277

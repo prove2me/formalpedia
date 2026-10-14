@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_TwoApprox_rounding_load_bound
 -- name    : UnrelatedSched.TwoApprox.rounding_load_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:17:03.902752+00:00
 -- url     : https://prove2.me/theorems/630ae928-e6e4-4512-8ed0-39119d15fa40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhExitOne_nonneg
 -- name    : ActuarialValuation.nhExitOne_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:57.174755+00:00
 -- url     : https://prove2.me/theorems/1e8eeafb-76d1-4896-8f88-73c773ad71a8

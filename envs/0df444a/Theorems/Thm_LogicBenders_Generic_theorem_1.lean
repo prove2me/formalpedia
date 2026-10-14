@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogicBenders_Generic_theorem_1
 -- name    : LogicBenders.Generic.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:23.545018+00:00
 -- url     : https://prove2.me/theorems/b927c8fb-95ea-48fc-887f-3ea29f177a2f

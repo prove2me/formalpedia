@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruBoundedRuinSupermartingale
 -- name    : ActuarialValuation.ruBoundedRuinSupermartingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:14.977693+00:00
 -- url     : https://prove2.me/theorems/412e1572-6635-4f63-bce5-1c6e947d1110

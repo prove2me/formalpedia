@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FriezeKannan_CutDecomp_theorem_7
 -- name    : FriezeKannan.CutDecomp.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:06:59.863654+00:00
 -- url     : https://prove2.me/theorems/d53aa5fa-2fb9-408b-b1a7-f7344ed0f8ac

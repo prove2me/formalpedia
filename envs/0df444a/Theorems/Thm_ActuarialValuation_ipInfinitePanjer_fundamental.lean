@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipInfinitePanjer_fundamental
 -- name    : ActuarialValuation.ipInfinitePanjer_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:50.678974+00:00
 -- url     : https://prove2.me/theorems/79c11231-7b28-485f-99a5-2ac02c4c8018

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frFractionalValuation_fundamental
 -- name    : ActuarialValuation.frFractionalValuation_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:26:01.080633+00:00
 -- url     : https://prove2.me/theorems/1577db68-c37f-47e1-b1d7-e95be0dfa0ea

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Lyapunov_exists_attractor_of_mapsTo_closure
 -- name    : StochApproxDyn.Lyapunov.exists_attractor_of_mapsTo_closure
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T15:49:15.677455+00:00
 -- url     : https://prove2.me/theorems/2b7c5574-27a5-402d-b46d-15c81194edc2

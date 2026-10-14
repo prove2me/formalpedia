@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_gaussInt_op_bigP
 -- name    : BookProof.YangMillsAbelianNoGap.gaussInt_op_bigP
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:35:39.296988+00:00
 -- url     : https://prove2.me/theorems/33f15c1a-138c-4fc3-b440-54f6f4eb7883

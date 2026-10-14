@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_ConjugacyDualityB_supermodular_pair_conjugate_submodular
 -- name    : DiscreteConvex.ConjugacyDualityB.supermodular_pair_conjugate_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-28T01:34:14.808381+00:00
 -- url     : https://prove2.me/theorems/148e491f-ae3a-4a92-9d97-765da5311bc8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerSeverityMass_succ
 -- name    : ActuarialValuation.panjerSeverityMass_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:27:16.674475+00:00
 -- url     : https://prove2.me/theorems/a905e399-7697-4096-af8c-ce7cdefd750b

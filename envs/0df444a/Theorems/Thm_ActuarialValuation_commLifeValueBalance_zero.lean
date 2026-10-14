@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commLifeValueBalance_zero
 -- name    : ActuarialValuation.commLifeValueBalance_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:20:23.915984+00:00
 -- url     : https://prove2.me/theorems/e449a321-9d53-4d8b-bc6b-270a3a4781f5

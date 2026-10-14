@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_dynamic_robust_rewrite
 -- name    : RobustMNL.Dynamic.dynamic_robust_rewrite
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:33.792004+00:00
 -- url     : https://prove2.me/theorems/2939791e-b3c9-4acd-b8e0-4778e75f0fa3

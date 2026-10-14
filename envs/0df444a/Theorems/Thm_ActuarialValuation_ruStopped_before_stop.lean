@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruStopped_before_stop
 -- name    : ActuarialValuation.ruStopped_before_stop
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:22.754982+00:00
 -- url     : https://prove2.me/theorems/13ccdbe1-37db-40f4-ab58-09e356a705ee

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgStopLoss_zero_claims
 -- name    : ActuarialValuation.pgStopLoss_zero_claims
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:58:03.632544+00:00
 -- url     : https://prove2.me/theorems/1f21e8ce-a515-48ba-9b04-8d694fb8b5e5

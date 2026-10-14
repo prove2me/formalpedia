@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFundStep_add_contribution
 -- name    : ActuarialValuation.siFundStep_add_contribution
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:19.236932+00:00
 -- url     : https://prove2.me/theorems/bc73e791-838c-4519-8aa8-613280721685

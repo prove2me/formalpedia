@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_Dynamic_theorem_14_2
 -- name    : ModernOnlineLearning.Dynamic.theorem_14_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:44.886487+00:00
 -- url     : https://prove2.me/theorems/04386faf-1e5d-4387-b252-f60d220b5455

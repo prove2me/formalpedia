@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogicBenders_Generic_unbounded_of_dual_infeasible
 -- name    : LogicBenders.Generic.unbounded_of_dual_infeasible
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:16.729113+00:00
 -- url     : https://prove2.me/theorems/492b8194-c0d3-4225-ad7b-3e23cf26aa78

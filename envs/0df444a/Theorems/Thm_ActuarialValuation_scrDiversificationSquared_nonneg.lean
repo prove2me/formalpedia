@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrDiversificationSquared_nonneg
 -- name    : ActuarialValuation.scrDiversificationSquared_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:18.015597+00:00
 -- url     : https://prove2.me/theorems/1bbc7b21-6948-4a5f-a301-406879540575

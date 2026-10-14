@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ReducedEsa_essentiallySelfAdjointOn_red
 -- name    : BookProof.ReducedEsa.essentiallySelfAdjointOn_red
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:31:54.018321+00:00
 -- url     : https://prove2.me/theorems/509e7820-3d4a-4a13-b3b1-1b04e740b27f

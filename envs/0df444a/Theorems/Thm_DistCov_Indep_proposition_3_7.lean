@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Indep_proposition_3_7
 -- name    : DistCov.Indep.proposition_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:31.669195+00:00
 -- url     : https://prove2.me/theorems/3a0437f0-b0ec-44a4-9977-8dae04b9bdf3

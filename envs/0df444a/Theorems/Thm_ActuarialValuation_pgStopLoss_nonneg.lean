@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgStopLoss_nonneg
 -- name    : ActuarialValuation.pgStopLoss_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:31.177586+00:00
 -- url     : https://prove2.me/theorems/7f0159ff-b130-4462-8a88-da2191b1f91f

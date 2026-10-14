@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsitsiklisGittins_IndexTheorem_eq2_2_interchange_inequality
 -- name    : TsitsiklisGittins.IndexTheorem.eq2_2_interchange_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:48:02.523739+00:00
 -- url     : https://prove2.me/theorems/9aa2a703-c8fb-433d-9faa-707bfe9f4a25

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Correspondence_theorem_2
 -- name    : StrategyProofArrow.Correspondence.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:22.082663+00:00
 -- url     : https://prove2.me/theorems/1021a8cd-bc96-4cb3-b0cf-bed6d7f4dbde

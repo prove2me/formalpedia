@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_barrett_representation
 -- name    : GaugeFunctor.barrett_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T09:56:37.967441+00:00
 -- url     : https://prove2.me/theorems/b29e41ab-64d1-47aa-940e-e3ba3f56353d

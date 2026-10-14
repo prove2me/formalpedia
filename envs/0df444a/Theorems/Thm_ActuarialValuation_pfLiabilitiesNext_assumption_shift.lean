@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfLiabilitiesNext_assumption_shift
 -- name    : ActuarialValuation.pfLiabilitiesNext_assumption_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:31.918169+00:00
 -- url     : https://prove2.me/theorems/a6368f39-dcff-4962-a792-b4837c259c10

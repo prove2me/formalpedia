@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srRuinProbBy_horizon_monotone
 -- name    : ActuarialValuation.srRuinProbBy_horizon_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:18:47.39213+00:00
 -- url     : https://prove2.me/theorems/ac748ce0-9156-468a-a71b-310ed5573839

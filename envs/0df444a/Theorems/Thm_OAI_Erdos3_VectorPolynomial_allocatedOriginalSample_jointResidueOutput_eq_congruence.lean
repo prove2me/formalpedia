@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedOriginalSample_jointResidueOutput_eq_congruence
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedOriginalSample_jointResidueOutput_eq_congruence
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:47:50.579307+00:00
 -- url     : https://prove2.me/theorems/fb2f0739-cc54-4dba-a58b-09cb969dcb05

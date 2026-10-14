@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Complexification_Cx_cxConj_inner
 -- name    : BookProof.Complexification.Cx.cxConj_inner
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:38:01.590253+00:00
 -- url     : https://prove2.me/theorems/8d9b0d4b-9188-47df-a9ad-23a0326ade41

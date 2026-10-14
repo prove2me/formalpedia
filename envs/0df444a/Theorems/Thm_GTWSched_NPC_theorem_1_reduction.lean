@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_NPC_theorem_1_reduction
 -- name    : GTWSched.NPC.theorem_1_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:50:22.179617+00:00
 -- url     : https://prove2.me/theorems/957c0c5e-5dda-44d7-ad1c-87e7ce993c0e

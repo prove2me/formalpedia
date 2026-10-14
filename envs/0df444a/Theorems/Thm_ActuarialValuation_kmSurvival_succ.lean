@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmSurvival_succ
 -- name    : ActuarialValuation.kmSurvival_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:45.645988+00:00
 -- url     : https://prove2.me/theorems/37a5a97c-89c7-4648-a82a-c78350f675e8

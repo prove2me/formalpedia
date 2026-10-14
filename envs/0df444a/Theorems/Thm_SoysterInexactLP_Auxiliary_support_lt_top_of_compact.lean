@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoysterInexactLP_Auxiliary_support_lt_top_of_compact
 -- name    : SoysterInexactLP.Auxiliary.support_lt_top_of_compact
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:37:13.272666+00:00
 -- url     : https://prove2.me/theorems/472128cd-c7aa-4ac5-a2a4-9c47ec3f75eb

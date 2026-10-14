@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpBenefit_nonneg
 -- name    : ActuarialValuation.alterationPaidUpBenefit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:17:14.463423+00:00
 -- url     : https://prove2.me/theorems/4948290d-2856-40dd-810a-396c0d6c183c

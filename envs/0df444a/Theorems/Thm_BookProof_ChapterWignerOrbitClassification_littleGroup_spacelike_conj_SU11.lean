@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_littleGroup_spacelike_conj_SU11
 -- name    : BookProof.ChapterWignerOrbitClassification.littleGroup_spacelike_conj_SU11
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:15:41.834362+00:00
 -- url     : https://prove2.me/theorems/f9811ff8-3e17-435f-b5c3-48bc75ef7ec3

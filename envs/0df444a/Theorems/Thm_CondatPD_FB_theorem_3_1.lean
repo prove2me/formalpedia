@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondatPD_FB_theorem_3_1
 -- name    : CondatPD.FB.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:56:59.374989+00:00
 -- url     : https://prove2.me/theorems/0af16f42-d4f6-41f5-a0ac-9e2f9d1d5e1a

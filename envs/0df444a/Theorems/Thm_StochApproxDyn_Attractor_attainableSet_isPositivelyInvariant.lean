@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Attractor_attainableSet_isPositivelyInvariant
 -- name    : StochApproxDyn.Attractor.attainableSet_isPositivelyInvariant
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:46:18.864614+00:00
 -- url     : https://prove2.me/theorems/ddcc0aa6-3274-4627-aa0a-e212ea4afb43

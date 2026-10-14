@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frDue_annual_frequency
 -- name    : ActuarialValuation.frDue_annual_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:29.77902+00:00
 -- url     : https://prove2.me/theorems/e3f6ad99-1843-41cf-a2d2-4e807c1a124d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLossOrder_pointwise
 -- name    : ActuarialValuation.crStopLossOrder_pointwise
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:04.392186+00:00
 -- url     : https://prove2.me/theorems/4cc51625-548f-4987-a905-aaec98294e0f

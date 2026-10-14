@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipSevGeo_ratio
 -- name    : ActuarialValuation.ipSevGeo_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:12.278569+00:00
 -- url     : https://prove2.me/theorems/6a1ef8c3-6e29-4a47-92b5-c0d50fb0ce16

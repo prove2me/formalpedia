@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.VielbeinFock.vielbeinFock_deficiencyTrivialAt
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T11:25:53.365903+00:00
 -- url     : https://prove2.me/submissions/5e7234e2-2970-4f9a-a7d7-87de75f5d091
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterVielbeinFiberFock.lean — solution of BookProof.VielbeinFock.vielbeinFock_deficiencyTrivialAt
 import Mathlib

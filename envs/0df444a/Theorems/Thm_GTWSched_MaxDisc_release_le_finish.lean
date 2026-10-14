@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_MaxDisc_release_le_finish
 -- name    : GTWSched.MaxDisc.release_le_finish
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:50:11.833862+00:00
 -- url     : https://prove2.me/theorems/4626c235-16d3-4b91-9cb6-639ac4fc64e3

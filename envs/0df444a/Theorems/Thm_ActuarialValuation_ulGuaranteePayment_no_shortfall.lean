@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulGuaranteePayment_no_shortfall
 -- name    : ActuarialValuation.ulGuaranteePayment_no_shortfall
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:03.892003+00:00
 -- url     : https://prove2.me/theorems/93d7356b-00b0-424d-b5f8-0e213e0274cd

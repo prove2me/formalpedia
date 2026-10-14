@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_BOR_sen_of_monotone_value
 -- name    : SennottDP.BOR.sen_of_monotone_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T11:30:01.882197+00:00
 -- url     : https://prove2.me/theorems/92b593bf-82f3-45fe-9f6a-ec2832f03e2d

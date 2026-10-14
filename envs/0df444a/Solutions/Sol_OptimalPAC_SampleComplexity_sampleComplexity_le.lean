@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OptimalPAC.SampleComplexity.sampleComplexity_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T04:36:13.763786+00:00
 -- url     : https://prove2.me/submissions/5737755f-a11d-486c-9166-db6f49f17cf8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_OptimalPAC_SampleComplexity_Model

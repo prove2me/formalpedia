@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRatingTwoStep_mass
 -- name    : ActuarialValuation.crRatingTwoStep_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:47.678917+00:00
 -- url     : https://prove2.me/theorems/87159ee1-9835-4b22-b776-5f47a0ee82f7

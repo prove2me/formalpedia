@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_eq_norm_of_re_eq_norm
 -- name    : BookProof.ChapterWignerSymmetry.eq_norm_of_re_eq_norm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:17:11.908978+00:00
 -- url     : https://prove2.me/theorems/355f5161-b47f-4c1b-b801-27e2e408c72b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9TUC_succ
 -- name    : ActuarialValuation.pen9TUC_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:25.639436+00:00
 -- url     : https://prove2.me/theorems/3109c052-24ce-4c60-a87e-297797186b49

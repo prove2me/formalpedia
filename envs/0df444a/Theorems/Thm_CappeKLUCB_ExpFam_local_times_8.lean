@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_ExpFam_local_times_8
 -- name    : CappeKLUCB.ExpFam.local_times_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T07:20:19.585675+00:00
 -- url     : https://prove2.me/theorems/b3eb74cc-71f3-4025-aad6-194b8d767669

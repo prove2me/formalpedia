@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ApproxCliqueWidth.Certificate.clique_width_certificate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-10T15:48:37.610309+00:00
 -- url     : https://prove2.me/submissions/0cb41cd9-550d-4d57-81f2-e990a4821d81
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ApproxCliqueWidth_Certificate_SetFunction

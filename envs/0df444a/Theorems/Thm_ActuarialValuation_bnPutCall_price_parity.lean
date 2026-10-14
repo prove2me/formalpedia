@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnPutCall_price_parity
 -- name    : ActuarialValuation.bnPutCall_price_parity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:21.145172+00:00
 -- url     : https://prove2.me/theorems/93b425aa-0ea1-43cb-b121-7057da7e078a

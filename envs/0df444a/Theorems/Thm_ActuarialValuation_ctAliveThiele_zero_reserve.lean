@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAliveThiele_zero_reserve
 -- name    : ActuarialValuation.ctAliveThiele_zero_reserve
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:59:07.419393+00:00
 -- url     : https://prove2.me/theorems/2ceafdcf-9598-4ed0-86c8-8a1f7949ca20

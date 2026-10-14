@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmLogLikeEta_maximum
 -- name    : ActuarialValuation.gmLogLikeEta_maximum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:45.955336+00:00
 -- url     : https://prove2.me/theorems/75e71231-8133-454e-9230-d3b3341d8aac

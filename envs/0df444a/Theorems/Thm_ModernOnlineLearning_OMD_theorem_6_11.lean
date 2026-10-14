@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_OMD_theorem_6_11
 -- name    : ModernOnlineLearning.OMD.theorem_6_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:38:00.374651+00:00
 -- url     : https://prove2.me/theorems/ad70e6e3-37c8-43d5-ad1f-6639570a5be0

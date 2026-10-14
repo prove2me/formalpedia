@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srFirstHit_is_ruin
 -- name    : ActuarialValuation.srFirstHit_is_ruin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:03.875751+00:00
 -- url     : https://prove2.me/theorems/fead336a-5dd0-4610-a130-3a8ba020ccdd

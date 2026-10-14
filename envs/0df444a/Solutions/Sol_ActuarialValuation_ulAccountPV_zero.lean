@@ -1,0 +1,19 @@
+-- Prove2me | solution 1 for ActuarialValuation.ulAccountPV_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-10-12T13:53:38.994583+00:00
+-- url     : https://prove2.me/submissions/b9e736db-9c85-4822-ae25-aa43bc253fe2
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.Fintype.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Definitions.Def_actuarial_ulAccountPV
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open ActuarialValuation
+
+theorem solution {m : ℕ} (prob discount : Fin m → ℝ) : ulAccountPV prob discount (fun _ => 0) = 0 := by
+  simp [ulAccountPV]

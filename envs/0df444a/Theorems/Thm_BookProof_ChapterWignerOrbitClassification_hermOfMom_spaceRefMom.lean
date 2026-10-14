@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_hermOfMom_spaceRefMom
 -- name    : BookProof.ChapterWignerOrbitClassification.hermOfMom_spaceRefMom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:14:39.65599+00:00
 -- url     : https://prove2.me/theorems/82be4c4e-d35a-4429-9a3c-b056278ad372

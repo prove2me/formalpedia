@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AzumaWeightedSums_StrongLaw_theorem3_strong_law
 -- name    : AzumaWeightedSums.StrongLaw.theorem3_strong_law
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:06:35.097475+00:00
 -- url     : https://prove2.me/theorems/0bb8376a-7917-49b1-8127-4e8aa0532ccc

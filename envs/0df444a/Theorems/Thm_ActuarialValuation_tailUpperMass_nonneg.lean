@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailUpperMass_nonneg
 -- name    : ActuarialValuation.tailUpperMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:47:21.351975+00:00
 -- url     : https://prove2.me/theorems/853642b2-0e9e-47e9-92ab-c1cfe0a9a2e9

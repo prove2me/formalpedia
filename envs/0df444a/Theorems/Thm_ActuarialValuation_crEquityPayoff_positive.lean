@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crEquityPayoff_positive
 -- name    : ActuarialValuation.crEquityPayoff_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:32.407971+00:00
 -- url     : https://prove2.me/theorems/a4b2ee2f-0a83-4763-ba17-eb04692456b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioExact_PartOne_choose_mul_integral_eq_one
 -- name    : ScenarioExact.PartOne.choose_mul_integral_eq_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:24:05.875875+00:00
 -- url     : https://prove2.me/theorems/00825a3d-2a47-4e4e-8a29-707594ea3e2a

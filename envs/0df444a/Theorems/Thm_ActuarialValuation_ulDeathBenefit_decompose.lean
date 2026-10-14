@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulDeathBenefit_decompose
 -- name    : ActuarialValuation.ulDeathBenefit_decompose
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:41.990606+00:00
 -- url     : https://prove2.me/theorems/5f5a395f-fb2b-470f-a728-e78b4f28c1ff

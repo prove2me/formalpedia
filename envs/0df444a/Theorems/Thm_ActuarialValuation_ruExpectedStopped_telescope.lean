@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruExpectedStopped_telescope
 -- name    : ActuarialValuation.ruExpectedStopped_telescope
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:32.544537+00:00
 -- url     : https://prove2.me/theorems/f1166353-74b6-4c64-bc5d-c6504218a611

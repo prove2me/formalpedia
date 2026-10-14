@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctTwoState_nonneg
 -- name    : ActuarialValuation.ctTwoState_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:23.389412+00:00
 -- url     : https://prove2.me/theorems/b2314095-5b6b-4527-9052-ec8b6d1ede14

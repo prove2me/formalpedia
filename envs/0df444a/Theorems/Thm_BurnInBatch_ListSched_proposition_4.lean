@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_ListSched_proposition_4
 -- name    : BurnInBatch.ListSched.proposition_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:07:37.718784+00:00
 -- url     : https://prove2.me/theorems/0984a4b4-1f14-4367-b5f7-434c3a4a4227

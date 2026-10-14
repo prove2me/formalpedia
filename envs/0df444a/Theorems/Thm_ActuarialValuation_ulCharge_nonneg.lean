@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulCharge_nonneg
 -- name    : ActuarialValuation.ulCharge_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:36.872661+00:00
 -- url     : https://prove2.me/theorems/5fd9ccbf-528f-4b6a-b4db-4d4ce52f7f2f

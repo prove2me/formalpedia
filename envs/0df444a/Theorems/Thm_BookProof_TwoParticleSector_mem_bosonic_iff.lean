@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_mem_bosonic_iff
 -- name    : BookProof.TwoParticleSector.mem_bosonic_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:29:02.87971+00:00
 -- url     : https://prove2.me/theorems/11431ac1-7d04-42de-83ff-03dd1459883e

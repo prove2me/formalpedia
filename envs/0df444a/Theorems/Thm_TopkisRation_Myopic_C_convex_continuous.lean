@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Myopic_C_convex_continuous
 -- name    : TopkisRation.Myopic.C_convex_continuous
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:37.417825+00:00
 -- url     : https://prove2.me/theorems/dd68dc50-3475-4ccf-99a0-b87072195bb9

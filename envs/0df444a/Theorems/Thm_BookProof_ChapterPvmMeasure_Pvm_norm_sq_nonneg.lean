@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterPvmMeasure_Pvm_norm_sq_nonneg
 -- name    : BookProof.ChapterPvmMeasure.Pvm.norm_sq_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:59:05.118989+00:00
 -- url     : https://prove2.me/theorems/35dc2b3f-d7c2-4c8a-a3b0-9f693b0a00b5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csFirstExp_nonincreasing
 -- name    : ActuarialValuation.csFirstExp_nonincreasing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:09.643347+00:00
 -- url     : https://prove2.me/theorems/19c4ee8d-9183-41a4-b16f-405cc23fd8ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianDiagonalCountable_vonNeumann_abelian_class_countable
 -- name    : BookProof.ChapterAbelianDiagonalCountable.vonNeumann_abelian_class_countable
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:18:46.034977+00:00
 -- url     : https://prove2.me/theorems/4beae014-955d-402d-b6dc-73be59d0f8ef

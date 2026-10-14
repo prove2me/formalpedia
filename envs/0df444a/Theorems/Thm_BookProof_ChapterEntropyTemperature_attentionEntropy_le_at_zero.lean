@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropyTemperature_attentionEntropy_le_at_zero
 -- name    : BookProof.ChapterEntropyTemperature.attentionEntropy_le_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:49:46.021367+00:00
 -- url     : https://prove2.me/theorems/ef262e5a-b985-4ee9-9629-93efe77b16a1

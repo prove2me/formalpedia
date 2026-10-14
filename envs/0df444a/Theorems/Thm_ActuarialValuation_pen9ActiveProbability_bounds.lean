@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9ActiveProbability_bounds
 -- name    : ActuarialValuation.pen9ActiveProbability_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:45.670976+00:00
 -- url     : https://prove2.me/theorems/b54b03ad-d094-4b71-a733-cc52f66ca398

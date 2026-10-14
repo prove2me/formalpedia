@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulGuaranteedRisk_below
 -- name    : ActuarialValuation.ulGuaranteedRisk_below
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:00.751557+00:00
 -- url     : https://prove2.me/theorems/d23cab02-00d6-468f-8a61-7be45d9f2d5d

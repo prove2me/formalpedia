@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_inner_basis_sum
 -- name    : BookProof.ChapterWignerSymmetry.inner_basis_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:18:09.539185+00:00
 -- url     : https://prove2.me/theorems/f63562be-ff9b-4797-a0a7-b2e1d46c4970

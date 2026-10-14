@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgConvolve_add
 -- name    : ActuarialValuation.pgConvolve_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:49:44.811208+00:00
 -- url     : https://prove2.me/theorems/32463609-d10b-4cff-9014-1adb11af38f0

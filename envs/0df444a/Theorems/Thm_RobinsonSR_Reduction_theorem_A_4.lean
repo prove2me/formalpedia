@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_Reduction_theorem_A_4
 -- name    : RobinsonSR.Reduction.theorem_A_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:10:56.340332+00:00
 -- url     : https://prove2.me/theorems/98addd8a-133c-4650-899e-e45629184a64

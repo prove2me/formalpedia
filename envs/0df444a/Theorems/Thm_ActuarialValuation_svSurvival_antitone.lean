@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svSurvival_antitone
 -- name    : ActuarialValuation.svSurvival_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:59.514602+00:00
 -- url     : https://prove2.me/theorems/0ee2c7ea-22c7-4514-a233-faf93759cc12

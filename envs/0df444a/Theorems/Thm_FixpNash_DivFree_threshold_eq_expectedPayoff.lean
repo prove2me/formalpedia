@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_DivFree_threshold_eq_expectedPayoff
 -- name    : FixpNash.DivFree.threshold_eq_expectedPayoff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:35.027837+00:00
 -- url     : https://prove2.me/theorems/92b9bdbe-d15e-48c5-b0b8-8463dce68ff2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_MartingaleNoise_burkholder_eq13
 -- name    : StochApproxDyn.MartingaleNoise.burkholder_eq13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:27:48.253849+00:00
 -- url     : https://prove2.me/theorems/1f67b176-f83b-4034-83de-2e1c40cf679b

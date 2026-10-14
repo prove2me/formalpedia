@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_fill_rate_differences
 -- name    : ServiceParts.StockLevels.fill_rate_differences
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T06:54:53.977779+00:00
 -- url     : https://prove2.me/theorems/d0bc4a84-4842-43b7-b3db-31f5cb7fa6af

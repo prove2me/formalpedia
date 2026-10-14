@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Static_adding_product_iff
 -- name    : RobustMNL.Static.adding_product_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T13:23:27.2988+00:00
 -- url     : https://prove2.me/theorems/2bba46ee-7d25-4c70-88cc-82330c1eb630

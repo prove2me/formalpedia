@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRenewalIntegral_at_zero
 -- name    : ActuarialValuation.erRenewalIntegral_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T16:02:03.580851+00:00
 -- url     : https://prove2.me/theorems/8f4b76b3-eda4-41bf-970e-d593770a08e6

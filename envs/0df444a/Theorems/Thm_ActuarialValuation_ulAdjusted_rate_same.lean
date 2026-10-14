@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAdjusted_rate_same
 -- name    : ActuarialValuation.ulAdjusted_rate_same
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:35.02529+00:00
 -- url     : https://prove2.me/theorems/7cd8845a-c95e-4d99-906d-5b07acbbcfa1

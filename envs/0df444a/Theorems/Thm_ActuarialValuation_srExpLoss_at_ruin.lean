@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srExpLoss_at_ruin
 -- name    : ActuarialValuation.srExpLoss_at_ruin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:22:38.78799+00:00
 -- url     : https://prove2.me/theorems/23c3d59e-caa5-4b52-a5e5-82f93f80cc0c

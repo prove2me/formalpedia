@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvEndowment_maturity
 -- name    : ActuarialValuation.pvEndowment_maturity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:25.728979+00:00
 -- url     : https://prove2.me/theorems/bd432db5-539c-413d-b2f0-e7bdf0945f2f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmPoissonLogLike_equal
 -- name    : ActuarialValuation.gmPoissonLogLike_equal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:02.613179+00:00
 -- url     : https://prove2.me/theorems/735cfd5a-72d8-452a-a24a-b06b643d4ec9

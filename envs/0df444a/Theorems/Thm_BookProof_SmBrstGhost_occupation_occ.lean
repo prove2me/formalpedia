@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmBrstGhost_occupation_occ
 -- name    : BookProof.SmBrstGhost.occupation_occ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:08:26.921134+00:00
 -- url     : https://prove2.me/theorems/2f6f20f4-f011-4147-878c-f7723a9e5864

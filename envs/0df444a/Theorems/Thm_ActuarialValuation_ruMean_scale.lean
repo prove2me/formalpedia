@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruMean_scale
 -- name    : ActuarialValuation.ruMean_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:11.062343+00:00
 -- url     : https://prove2.me/theorems/58fb383a-702c-4ab1-9c53-d6fb5fef93e1

@@ -8,8 +8,12 @@
 --   DNE27 odd actual inverse-source pairing
 -- statement:
 --   For a complex inner-product space, a continuous complex-linear map T, four actual source vectors and four complex coordinates, the inverse-source pairing is the inner product of source zero with T applied to the retained source combination. The same T is used in the completed columns in later theorems. Native definitions and exact data are preserved. Realization, row enclosures and inverse bounds for the original Weil form remain explicit caller obligations.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27SourcePairing.lean#L94-L97; source SHA256 498d343d111ed242d24172da2d719cf493eb78251dc2d20676f79374bbe10800. Compiler-derived skeleton subtraction; definitions unchanged.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_DNE27RetainedEnergy_Odd

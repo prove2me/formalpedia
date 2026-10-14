@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixSqrt_stein_solution
 -- name    : PoissonDepTrials.MixSqrt.stein_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:37:38.735899+00:00
 -- url     : https://prove2.me/theorems/729605bb-d00a-4a6f-a2f0-d9a1475532b5

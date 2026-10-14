@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanditGD_Regret_eq_10
 -- name    : BanditGD.Regret.eq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:28:36.618819+00:00
 -- url     : https://prove2.me/theorems/9918f561-950e-4dbd-842a-4e1029908717

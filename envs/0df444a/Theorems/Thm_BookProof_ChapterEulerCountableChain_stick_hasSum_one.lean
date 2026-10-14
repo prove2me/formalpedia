@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerCountableChain_stick_hasSum_one
 -- name    : BookProof.ChapterEulerCountableChain.stick_hasSum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:26:39.937447+00:00
 -- url     : https://prove2.me/theorems/7695fcce-557e-4cd0-ad2a-7089325eed6b

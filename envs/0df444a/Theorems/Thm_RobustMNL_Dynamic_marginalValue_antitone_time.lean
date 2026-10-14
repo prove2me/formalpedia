@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_marginalValue_antitone_time
 -- name    : RobustMNL.Dynamic.marginalValue_antitone_time
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:43.264656+00:00
 -- url     : https://prove2.me/theorems/ddda93dd-3b5e-4550-acf8-ef95bd030ccc

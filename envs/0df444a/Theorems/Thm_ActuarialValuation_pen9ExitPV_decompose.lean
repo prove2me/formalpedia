@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9ExitPV_decompose
 -- name    : ActuarialValuation.pen9ExitPV_decompose
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:09.180089+00:00
 -- url     : https://prove2.me/theorems/abe518f7-a98c-41d8-8ed2-5f1e31cc92fe

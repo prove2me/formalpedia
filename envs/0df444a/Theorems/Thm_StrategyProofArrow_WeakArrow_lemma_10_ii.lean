@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_WeakArrow_lemma_10_ii
 -- name    : StrategyProofArrow.WeakArrow.lemma_10_ii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:37.776136+00:00
 -- url     : https://prove2.me/theorems/bb162e50-81f9-46ad-bc04-d4e8e60004e6

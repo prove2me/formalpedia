@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_MonoidalStrengthening_lopsided_cut_weak_form_v2
 -- name    : Disjunctive.MonoidalStrengthening.lopsided_cut_weak_form_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:56.796868+00:00
 -- url     : https://prove2.me/theorems/5cb02b49-eabb-4541-bb36-d0239e75441b

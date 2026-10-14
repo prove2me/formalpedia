@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPremiumDifference_zero
 -- name    : ActuarialValuation.alterationPremiumDifference_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:13:44.463365+00:00
 -- url     : https://prove2.me/theorems/58223516-a345-4d42-ac26-fbd50eb9c281

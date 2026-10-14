@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ShiftedQuadraticDegenerate_exists_equilibrium
 -- name    : BookProof.ShiftedQuadraticDegenerate.exists_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T22:59:30.772793+00:00
 -- url     : https://prove2.me/theorems/65f1eb36-daba-449c-986a-4973b59ecea2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frDueValue_nonneg
 -- name    : ActuarialValuation.frDueValue_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:55.886993+00:00
 -- url     : https://prove2.me/theorems/a4bb8ef6-455f-4bd4-8e62-7646490987b2

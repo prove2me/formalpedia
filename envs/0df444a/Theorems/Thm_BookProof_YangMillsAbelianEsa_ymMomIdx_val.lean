@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianEsa_ymMomIdx_val
 -- name    : BookProof.YangMillsAbelianEsa.ymMomIdx_val
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:19:52.46897+00:00
 -- url     : https://prove2.me/theorems/b93059c5-ce46-46ed-8c31-e6174bc7b5f5

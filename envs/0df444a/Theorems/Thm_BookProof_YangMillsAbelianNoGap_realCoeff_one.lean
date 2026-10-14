@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_realCoeff_one
 -- name    : BookProof.YangMillsAbelianNoGap.realCoeff_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:33:59.045604+00:00
 -- url     : https://prove2.me/theorems/ab7f7374-9ee7-4ce5-8861-b4a8df16d8d3

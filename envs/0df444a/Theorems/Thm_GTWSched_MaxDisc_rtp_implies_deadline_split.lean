@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_MaxDisc_rtp_implies_deadline_split
 -- name    : GTWSched.MaxDisc.rtp_implies_deadline_split
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:49:45.951477+00:00
 -- url     : https://prove2.me/theorems/adec58e6-246c-4d89-8857-570fb785df42

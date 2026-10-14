@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrSolvencyDiversification_fundamental
 -- name    : ActuarialValuation.scrSolvencyDiversification_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:18.586976+00:00
 -- url     : https://prove2.me/theorems/0a344b3f-3e01-43d8-9d2b-72c87bb1e137

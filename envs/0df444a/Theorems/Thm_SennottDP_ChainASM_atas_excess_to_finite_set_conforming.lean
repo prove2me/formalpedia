@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_ChainASM_atas_excess_to_finite_set_conforming
 -- name    : SennottDP.ChainASM.atas_excess_to_finite_set_conforming
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-01T14:55:17.232978+00:00
 -- url     : https://prove2.me/theorems/74f9b02c-6830-42cf-9f23-ca414530feb2

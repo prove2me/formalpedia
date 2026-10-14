@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgLMS_Expect_noise_bound
 -- name    : AvgLMS.Expect.noise_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:06:18.694653+00:00
 -- url     : https://prove2.me/theorems/e23460a9-f5ce-49c0-bbef-363a56cc4352

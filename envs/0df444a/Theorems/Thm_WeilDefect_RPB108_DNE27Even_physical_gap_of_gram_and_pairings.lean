@@ -12,8 +12,12 @@
 --   $$\delta\left\|\sum_{i=0}^3 z_i(x_i-T\sigma_i)+h\right\|^2\le e.$$
 --
 --   This conditional theorem retains the actual retained-energy premise as well as all original-form norm, operator, pairing and completion attachments.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27ActualEnergy.lean#L32-L72; exact native theorem WeilDefect.RPB108.DNE27Even.physical_gap_of_gram_and_pairings. SHA256 f34d9946fe9000422ac90511b5df464891310b9591a7c05eed61c408d096ea5e. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_DNE27Gram_Even

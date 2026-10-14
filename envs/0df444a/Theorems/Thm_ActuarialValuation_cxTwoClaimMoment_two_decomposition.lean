@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxTwoClaimMoment_two_decomposition
 -- name    : ActuarialValuation.cxTwoClaimMoment_two_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:58.425035+00:00
 -- url     : https://prove2.me/theorems/37422cf7-c982-459a-982b-85ae3ae3ba53

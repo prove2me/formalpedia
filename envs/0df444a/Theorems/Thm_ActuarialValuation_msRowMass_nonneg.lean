@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msRowMass_nonneg
 -- name    : ActuarialValuation.msRowMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:54:16.091786+00:00
 -- url     : https://prove2.me/theorems/788d2a76-8a96-40ee-9514-1cf58bb9dc35

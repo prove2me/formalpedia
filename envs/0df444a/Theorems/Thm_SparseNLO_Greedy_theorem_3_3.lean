@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_Greedy_theorem_3_3
 -- name    : SparseNLO.Greedy.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:43.143474+00:00
 -- url     : https://prove2.me/theorems/47d7d223-f33f-4f78-afba-3460122cd940

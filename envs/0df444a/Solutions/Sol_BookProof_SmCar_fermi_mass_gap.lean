@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmCar.fermi_mass_gap
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:35:10.05959+00:00
 -- url     : https://prove2.me/submissions/ef90582f-7940-49b4-bdb1-6e775b32989f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmCarAlgebra.lean — solution of BookProof.SmCar.fermi_mass_gap
 import Mathlib

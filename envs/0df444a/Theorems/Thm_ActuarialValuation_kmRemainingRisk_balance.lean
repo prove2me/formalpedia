@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmRemainingRisk_balance
 -- name    : ActuarialValuation.kmRemainingRisk_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:28:17.764373+00:00
 -- url     : https://prove2.me/theorems/11a6c6c1-4266-4eda-8d54-b5f240748e1f

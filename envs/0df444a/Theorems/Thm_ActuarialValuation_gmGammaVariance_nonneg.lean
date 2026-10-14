@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmGammaVariance_nonneg
 -- name    : ActuarialValuation.gmGammaVariance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:56.088623+00:00
 -- url     : https://prove2.me/theorems/6fa042fa-61e1-4a38-afbf-b4217b7ddbf9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_projection_extreme_rays
 -- name    : Disjunctive.Polarity.projection_extreme_rays
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:15:57.994037+00:00
 -- url     : https://prove2.me/theorems/041a1bdb-9ddc-42f2-9ab2-27c4992ad981

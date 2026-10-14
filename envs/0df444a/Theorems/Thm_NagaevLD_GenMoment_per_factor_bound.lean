@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_GenMoment_per_factor_bound
 -- name    : NagaevLD.GenMoment.per_factor_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:17:32.281511+00:00
 -- url     : https://prove2.me/theorems/58e8a061-5774-4849-9ea5-66267d3e21a4

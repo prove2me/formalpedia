@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruClaimTotal_add
 -- name    : ActuarialValuation.ruClaimTotal_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:54:19.931483+00:00
 -- url     : https://prove2.me/theorems/7201d8f5-243e-4aea-951a-859dbfa35c42

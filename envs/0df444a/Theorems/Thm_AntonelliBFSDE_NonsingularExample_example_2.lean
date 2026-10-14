@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_NonsingularExample_example_2
 -- name    : AntonelliBFSDE.NonsingularExample.example_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T20:01:44.160987+00:00
 -- url     : https://prove2.me/theorems/89b95d0d-4ea8-49d1-af7b-be7b722c0567

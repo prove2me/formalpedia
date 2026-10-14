@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9PensionFunding_fundamental
 -- name    : ActuarialValuation.pen9PensionFunding_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:33.334838+00:00
 -- url     : https://prove2.me/theorems/40a80617-34ea-4e27-9d90-6acf5afde4cd

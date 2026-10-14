@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamareSaouter2003_prime_interval_finite_range
 -- name    : RamareSaouter2003.prime_interval_finite_range
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-25T12:04:13.730393+00:00
 -- url     : https://prove2.me/theorems/bd3e60ec-3dbe-4c9b-a1d2-fdfee7f1a7b7

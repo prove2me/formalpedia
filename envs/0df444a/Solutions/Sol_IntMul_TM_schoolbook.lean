@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.TM.schoolbook
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @avi
 -- created : 2026-10-09T17:37:29.808451+00:00
 -- url     : https://prove2.me/submissions/0b9fc29d-1182-4c18-badd-c2e9cec9632a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_IntMul_TM_karatsuba

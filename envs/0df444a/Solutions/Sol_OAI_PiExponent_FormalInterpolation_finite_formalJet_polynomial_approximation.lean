@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.finite_formalJet_polynomial_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-08T17:10:41.756139+00:00
 -- url     : https://prove2.me/submissions/7d40e918-74c8-4407-b81e-e5c6f26d686a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_FormalInterpolationPackets
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_formalJet_box_coefficients

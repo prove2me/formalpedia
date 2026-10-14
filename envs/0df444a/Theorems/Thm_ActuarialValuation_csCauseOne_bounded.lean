@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csCauseOne_bounded
 -- name    : ActuarialValuation.csCauseOne_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:25.992984+00:00
 -- url     : https://prove2.me/theorems/0957bec4-ac2a-4293-b3b0-fb14ce45153d

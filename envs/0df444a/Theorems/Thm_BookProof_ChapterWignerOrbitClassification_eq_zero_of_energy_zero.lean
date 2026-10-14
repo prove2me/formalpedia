@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_eq_zero_of_energy_zero
 -- name    : BookProof.ChapterWignerOrbitClassification.eq_zero_of_energy_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:17:57.250184+00:00
 -- url     : https://prove2.me/theorems/8c8eca65-0b31-4e12-942a-9a303bf57e7c

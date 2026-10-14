@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvPortfolioMean_empty
 -- name    : ActuarialValuation.pvPortfolioMean_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:33.027756+00:00
 -- url     : https://prove2.me/theorems/5c417732-53cf-4052-b804-889fe596a8e7

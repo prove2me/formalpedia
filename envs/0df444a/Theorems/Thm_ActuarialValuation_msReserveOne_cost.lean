@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msReserveOne_cost
 -- name    : ActuarialValuation.msReserveOne_cost
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:00:26.066402+00:00
 -- url     : https://prove2.me/theorems/9812add7-8adc-42ef-94c2-c59cbaf0825c

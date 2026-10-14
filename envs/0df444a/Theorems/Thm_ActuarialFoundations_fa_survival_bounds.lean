@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_survival_bounds
 -- name    : ActuarialFoundations.fa_survival_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T23:36:08.125991+00:00
 -- url     : https://prove2.me/theorems/c64e886a-b852-4b78-b374-a1c94a745d27

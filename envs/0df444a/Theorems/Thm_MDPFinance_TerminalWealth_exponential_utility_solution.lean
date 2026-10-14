@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_exponential_utility_solution
 -- name    : MDPFinance.TerminalWealth.exponential_utility_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:57:28.877728+00:00
 -- url     : https://prove2.me/theorems/2f09ed7e-b9f1-4480-bdb4-b2728f1922a9

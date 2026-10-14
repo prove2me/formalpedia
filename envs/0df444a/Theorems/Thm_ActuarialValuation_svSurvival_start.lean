@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svSurvival_start
 -- name    : ActuarialValuation.svSurvival_start
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:57.434494+00:00
 -- url     : https://prove2.me/theorems/2939a172-b125-4e38-940c-3189c40a6dab

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_potentialOp_symmetric
 -- name    : BookProof.StrichartzWave.potentialOp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:53:23.803984+00:00
 -- url     : https://prove2.me/theorems/06eb16b6-ec92-44b6-a954-6becc7f903b4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_incremental_revenue_larger
 -- name    : RobustMNL.Dynamic.incremental_revenue_larger
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:21:25.017977+00:00
 -- url     : https://prove2.me/theorems/2b8df15c-3b87-4756-a4ea-9efcfcc47ea3

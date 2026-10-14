@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SkutellaCQP_NoRel_three_halves_rounding
 -- name    : SkutellaCQP.NoRel.three_halves_rounding
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T00:06:04.49698+00:00
 -- url     : https://prove2.me/theorems/bc6d28fe-5503-4a38-a833-73ac8e020ee0

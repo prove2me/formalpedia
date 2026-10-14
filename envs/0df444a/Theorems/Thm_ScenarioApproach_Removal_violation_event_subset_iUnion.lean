@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Removal_violation_event_subset_iUnion
 -- name    : ScenarioApproach.Removal.violation_event_subset_iUnion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T05:55:17.897074+00:00
 -- url     : https://prove2.me/theorems/3831e510-fab4-47fa-8cf2-cf26bb0f5d44

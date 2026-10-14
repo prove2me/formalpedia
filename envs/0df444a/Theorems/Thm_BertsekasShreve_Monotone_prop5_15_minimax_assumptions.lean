@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Monotone_prop5_15_minimax_assumptions
 -- name    : BertsekasShreve.Monotone.prop5_15_minimax_assumptions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:20:29.88342+00:00
 -- url     : https://prove2.me/theorems/677414f9-bcd6-4d86-ba39-0ccd7cd039fd

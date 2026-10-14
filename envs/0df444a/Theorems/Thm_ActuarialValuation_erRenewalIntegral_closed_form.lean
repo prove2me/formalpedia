@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRenewalIntegral_closed_form
 -- name    : ActuarialValuation.erRenewalIntegral_closed_form
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T16:02:28.251521+00:00
 -- url     : https://prove2.me/theorems/f52a0879-d7f6-4f06-891e-1f73540265c1

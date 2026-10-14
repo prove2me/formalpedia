@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_WeakApprox_eps_nash_is_weak_fixed_point
 -- name    : FixpNash.WeakApprox.eps_nash_is_weak_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:44:09.787818+00:00
 -- url     : https://prove2.me/theorems/512661e6-6991-4a16-a08e-360141c8b5d3

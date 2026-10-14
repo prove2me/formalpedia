@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_PredCorr_lemma_2b
 -- name    : AdaptiveStepIPM.PredCorr.lemma_2b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:24:30.685832+00:00
 -- url     : https://prove2.me/theorems/61ef618f-921b-4335-be20-c6d62ff0ea1f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_HellingerChain_hellinger_subadditivity
 -- name    : StatComplexityDM.HellingerChain.hellinger_subadditivity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T19:22:33.980006+00:00
 -- url     : https://prove2.me/theorems/504abd6d-8d9d-4538-bc49-2aeda291e6db

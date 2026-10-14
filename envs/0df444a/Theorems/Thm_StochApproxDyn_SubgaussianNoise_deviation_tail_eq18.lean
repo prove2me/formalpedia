@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_SubgaussianNoise_deviation_tail_eq18
 -- name    : StochApproxDyn.SubgaussianNoise.deviation_tail_eq18
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T01:09:53.367547+00:00
 -- url     : https://prove2.me/theorems/337c0353-1094-4fc2-9646-ab1b45027cdb

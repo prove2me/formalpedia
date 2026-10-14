@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_uniform_cutoff_jet_bound
 -- name    : HunterPDE.Sobolev.uniform_cutoff_jet_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T23:12:48.738399+00:00
 -- url     : https://prove2.me/theorems/ac2ff3e6-47c1-49bb-8b12-58298ebe7ebc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRetained_le_limit
 -- name    : ActuarialValuation.ruRetained_le_limit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:25.032775+00:00
 -- url     : https://prove2.me/theorems/229d47a0-1656-4cea-af98-ce19b3171df2

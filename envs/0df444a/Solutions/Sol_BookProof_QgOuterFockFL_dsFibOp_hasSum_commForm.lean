@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QgOuterFockFL.dsFibOp_hasSum_commForm
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:42:09.006583+00:00
 -- url     : https://prove2.me/submissions/b102fdba-f654-4d74-9d3a-a0051dd72b32
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQgOuterFockFarisLavine.lean — solution of BookProof.QgOuterFockFL.dsFibOp_hasSum_commForm
 import Mathlib

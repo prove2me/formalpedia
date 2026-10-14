@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Strength_eq_37
 -- name    : L0BnB.Strength.eq_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:33.252331+00:00
 -- url     : https://prove2.me/theorems/5899a8b6-5ae8-4cde-8dab-0cadb4d8d6ee

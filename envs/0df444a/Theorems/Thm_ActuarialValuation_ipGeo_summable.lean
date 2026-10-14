@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipGeo_summable
 -- name    : ActuarialValuation.ipGeo_summable
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:07.320816+00:00
 -- url     : https://prove2.me/theorems/e47e7e63-a71a-49d7-9f29-175e0c97d451

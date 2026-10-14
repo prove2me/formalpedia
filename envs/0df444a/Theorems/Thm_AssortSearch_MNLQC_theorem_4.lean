@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AssortSearch_MNLQC_theorem_4
 -- name    : AssortSearch.MNLQC.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:31:57.766258+00:00
 -- url     : https://prove2.me/theorems/5e157dd9-a8da-49bb-b3d8-6b0c998af4de

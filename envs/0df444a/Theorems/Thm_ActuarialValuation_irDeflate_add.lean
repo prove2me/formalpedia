@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irDeflate_add
 -- name    : ActuarialValuation.irDeflate_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:02:35.744234+00:00
 -- url     : https://prove2.me/theorems/88093759-2633-4813-bda4-1ef9ad3fe8d5

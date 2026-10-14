@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9AverageSalary_zero
 -- name    : ActuarialValuation.pen9AverageSalary_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:16.790748+00:00
 -- url     : https://prove2.me/theorems/f3bb6523-5541-4fe7-838f-c54665bf6758

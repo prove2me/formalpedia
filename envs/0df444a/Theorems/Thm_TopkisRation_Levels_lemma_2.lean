@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Levels_lemma_2
 -- name    : TopkisRation.Levels.lemma_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:14.510447+00:00
 -- url     : https://prove2.me/theorems/ab08c9c1-2c18-4935-9ae4-3a1dbd03275a

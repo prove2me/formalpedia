@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_MNL_exists_kstar_theta
 -- name    : ChoiceRM.MNL.exists_kstar_theta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:50:21.691401+00:00
 -- url     : https://prove2.me/theorems/79e4ed14-4b68-4452-ae06-2af518d1d7ae

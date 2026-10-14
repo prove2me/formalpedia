@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_TM_transpose
 -- name    : IntMul.TM.transpose
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T02:10:47.466024+00:00
 -- url     : https://prove2.me/theorems/8ec1fb82-1287-444e-a229-2eda81fecaaf

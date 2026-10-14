@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerSymmetry_sum_supported
 -- name    : BookProof.ChapterWignerSymmetry.sum_supported
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:17:23.902974+00:00
 -- url     : https://prove2.me/theorems/ba25ccd2-10f4-47dc-b0e2-7d91b6cbf882

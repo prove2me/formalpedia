@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPGF_succ
 -- name    : ActuarialValuation.cxPGF_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:53:40.546986+00:00
 -- url     : https://prove2.me/theorems/6480d569-6074-4aa9-8fc2-bb3273eb54ab

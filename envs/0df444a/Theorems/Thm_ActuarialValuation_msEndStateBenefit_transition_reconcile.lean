@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msEndStateBenefit_transition_reconcile
 -- name    : ActuarialValuation.msEndStateBenefit_transition_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:07.878078+00:00
 -- url     : https://prove2.me/theorems/f31742bc-cb9f-4034-b6fc-00426cd2760d

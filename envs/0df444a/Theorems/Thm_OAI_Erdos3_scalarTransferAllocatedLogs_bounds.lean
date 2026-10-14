@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_scalarTransferAllocatedLogs_bounds
 -- name    : OAI.Erdos3.scalarTransferAllocatedLogs_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T03:43:14.816204+00:00
 -- url     : https://prove2.me/theorems/4eb871de-c8f2-4a10-b967-a1eae2c0eb57

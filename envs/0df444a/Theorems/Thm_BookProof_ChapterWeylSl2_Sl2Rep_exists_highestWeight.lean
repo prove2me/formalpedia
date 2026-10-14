@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWeylSl2_Sl2Rep_exists_highestWeight
 -- name    : BookProof.ChapterWeylSl2.Sl2Rep.exists_highestWeight
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:50:16.534993+00:00
 -- url     : https://prove2.me/theorems/e8d732d6-fad8-4a1f-861a-d9e8978725cf

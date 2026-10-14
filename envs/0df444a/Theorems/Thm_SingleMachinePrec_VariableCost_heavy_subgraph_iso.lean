@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_VariableCost_heavy_subgraph_iso
 -- name    : SingleMachinePrec.VariableCost.heavy_subgraph_iso
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:30:39.743793+00:00
 -- url     : https://prove2.me/theorems/a5c82f44-2ddd-43b3-8b2a-5c6b660dca01

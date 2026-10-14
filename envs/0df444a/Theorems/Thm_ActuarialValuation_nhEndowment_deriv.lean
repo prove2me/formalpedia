@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhEndowment_deriv
 -- name    : ActuarialValuation.nhEndowment_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:18.53901+00:00
 -- url     : https://prove2.me/theorems/0dcefda4-ca02-4db7-ad5d-dc0204711c3a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisContact_MeanSize_lemma_4_7
 -- name    : HarrisContact.MeanSize.lemma_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:24:36.938751+00:00
 -- url     : https://prove2.me/theorems/265295dc-9105-4e48-ae86-bbb06f13c914

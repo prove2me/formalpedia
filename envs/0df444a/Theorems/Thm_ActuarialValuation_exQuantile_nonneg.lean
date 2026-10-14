@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exQuantile_nonneg
 -- name    : ActuarialValuation.exQuantile_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:24.837992+00:00
 -- url     : https://prove2.me/theorems/0583eba4-9316-41fe-9173-01b90bf222f7

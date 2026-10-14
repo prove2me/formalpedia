@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_optAssort_iff_static
 -- name    : RobustMNL.Dynamic.optAssort_iff_static
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:22:16.32099+00:00
 -- url     : https://prove2.me/theorems/23af033b-d401-4721-851e-89ae10588c9f

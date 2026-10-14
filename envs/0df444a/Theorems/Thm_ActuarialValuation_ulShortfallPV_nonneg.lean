@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulShortfallPV_nonneg
 -- name    : ActuarialValuation.ulShortfallPV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:40.173985+00:00
 -- url     : https://prove2.me/theorems/bda064f0-36fe-4229-b123-47b1ab2f8d5b

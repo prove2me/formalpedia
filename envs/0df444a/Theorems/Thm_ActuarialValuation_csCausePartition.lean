@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csCausePartition
 -- name    : ActuarialValuation.csCausePartition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:29.051391+00:00
 -- url     : https://prove2.me/theorems/2a12743f-d665-4ff1-8af2-3e14480551a9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDutchBook_coherent_iff_exists_prob
 -- name    : BookProof.ChapterDutchBook.coherent_iff_exists_prob
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T23:09:12.014821+00:00
 -- url     : https://prove2.me/theorems/4f079baa-cf48-4b7a-878a-7f7d138b4aad

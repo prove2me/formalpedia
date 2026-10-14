@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_bunch_conditions
 -- name    : MussaRosen.Mono.bunch_conditions
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:33:12.358346+00:00
 -- url     : https://prove2.me/theorems/fd526685-83e1-4145-bff7-0d3a768af84f

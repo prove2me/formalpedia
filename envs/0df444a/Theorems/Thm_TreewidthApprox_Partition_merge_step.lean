@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TreewidthApprox_Partition_merge_step
 -- name    : TreewidthApprox.Partition.merge_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:42:56.805766+00:00
 -- url     : https://prove2.me/theorems/c3f6efff-d1ed-4faf-8201-d4c9c4f61e14

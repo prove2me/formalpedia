@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msExpectedBenefit_add
 -- name    : ActuarialValuation.msExpectedBenefit_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:57:09.283994+00:00
 -- url     : https://prove2.me/theorems/20991c16-4e7d-4726-abc0-757267009221

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedProductPrefactor_masked_density_error
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedProductPrefactor_masked_density_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T08:54:33.784383+00:00
 -- url     : https://prove2.me/theorems/c1f56c39-7bd9-4dcc-bda8-413fbae01b09

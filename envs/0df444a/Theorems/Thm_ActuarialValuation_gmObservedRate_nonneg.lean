@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmObservedRate_nonneg
 -- name    : ActuarialValuation.gmObservedRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:37.977984+00:00
 -- url     : https://prove2.me/theorems/a3445241-afdf-444d-8988-1ee646e19b49

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhGenerator_diag
 -- name    : ActuarialValuation.nhGenerator_diag
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:07.948486+00:00
 -- url     : https://prove2.me/theorems/a2c25736-6060-4b5e-b75f-6d51fe1b61f9

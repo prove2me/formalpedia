@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_fermiEnergy_quadForm
 -- name    : BookProof.SmCar.fermiEnergy_quadForm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:28:23.251658+00:00
 -- url     : https://prove2.me/theorems/38a4d32a-165e-4a52-a485-935670245c2a

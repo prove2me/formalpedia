@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svCdf_survival_partition
 -- name    : ActuarialValuation.svCdf_survival_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:39.624826+00:00
 -- url     : https://prove2.me/theorems/6d424c36-840b-4f53-8350-4b946c4da5e5

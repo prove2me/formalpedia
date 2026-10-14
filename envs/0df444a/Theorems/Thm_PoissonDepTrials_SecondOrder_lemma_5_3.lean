@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_SecondOrder_lemma_5_3
 -- name    : PoissonDepTrials.SecondOrder.lemma_5_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:52:23.734144+00:00
 -- url     : https://prove2.me/theorems/7abb3a07-85be-4abb-805b-593f4f9faec4

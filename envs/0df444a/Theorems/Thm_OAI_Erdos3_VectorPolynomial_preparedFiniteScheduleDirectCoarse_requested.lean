@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_preparedFiniteScheduleDirectCoarse_requested
 -- name    : OAI.Erdos3.VectorPolynomial.preparedFiniteScheduleDirectCoarse_requested
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T08:03:00.779008+00:00
 -- url     : https://prove2.me/theorems/eb5ebae9-3ebb-44aa-b6e3-7036b9d9ee79

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srBound_monotone
 -- name    : ActuarialValuation.srBound_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:20:31.721839+00:00
 -- url     : https://prove2.me/theorems/20797dc4-5922-4a4d-9e5a-2c654e642f42

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctTwoState_death_row
 -- name    : ActuarialValuation.ctTwoState_death_row
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:55:40.252278+00:00
 -- url     : https://prove2.me/theorems/13be3d6a-d8d1-4e82-9a5f-063c9a8a3466

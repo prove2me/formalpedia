@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_fermiEnergy_occ
 -- name    : BookProof.SmCar.fermiEnergy_occ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:27:59.487703+00:00
 -- url     : https://prove2.me/theorems/e526eab4-63d9-4efe-9ad8-ca99220bb898

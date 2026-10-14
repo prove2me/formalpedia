@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedSurplus_add_capital
 -- name    : ActuarialValuation.erExpectedSurplus_add_capital
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:29.618974+00:00
 -- url     : https://prove2.me/theorems/cdd5118a-22a3-4af1-937b-d6ba80963fbb

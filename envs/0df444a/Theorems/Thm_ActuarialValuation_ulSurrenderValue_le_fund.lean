@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulSurrenderValue_le_fund
 -- name    : ActuarialValuation.ulSurrenderValue_le_fund
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:02.232832+00:00
 -- url     : https://prove2.me/theorems/e447e58c-8cf1-4c17-8f85-725bd3525c6a

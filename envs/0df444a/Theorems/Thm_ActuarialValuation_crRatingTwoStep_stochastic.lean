@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRatingTwoStep_stochastic
 -- name    : ActuarialValuation.crRatingTwoStep_stochastic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:02.938461+00:00
 -- url     : https://prove2.me/theorems/9c9007df-07c3-4f77-bde7-b1c7125aeaf8

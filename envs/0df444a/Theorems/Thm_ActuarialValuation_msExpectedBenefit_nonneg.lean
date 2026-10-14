@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msExpectedBenefit_nonneg
 -- name    : ActuarialValuation.msExpectedBenefit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:57:32.202275+00:00
 -- url     : https://prove2.me/theorems/61d6a878-5738-407f-b371-9d10af8115aa

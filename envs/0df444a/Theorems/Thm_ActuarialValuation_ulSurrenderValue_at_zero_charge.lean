@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulSurrenderValue_at_zero_charge
 -- name    : ActuarialValuation.ulSurrenderValue_at_zero_charge
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:49.105103+00:00
 -- url     : https://prove2.me/theorems/dc47e388-8106-4c16-9f4b-92e84b8fe21d

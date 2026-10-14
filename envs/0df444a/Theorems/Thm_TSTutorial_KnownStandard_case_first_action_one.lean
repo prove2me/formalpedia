@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSTutorial_KnownStandard_case_first_action_one
 -- name    : TSTutorial.KnownStandard.case_first_action_one
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:15:33.015151+00:00
 -- url     : https://prove2.me/theorems/df201cf4-8d52-43f2-8218-2fbae002b0b7

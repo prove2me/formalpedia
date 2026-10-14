@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_delta_pos
 -- name    : Apery.delta_pos
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T11:04:14.692982+00:00
 -- url     : https://prove2.me/theorems/86c4c96e-7649-4d17-8374-90c79dd96428

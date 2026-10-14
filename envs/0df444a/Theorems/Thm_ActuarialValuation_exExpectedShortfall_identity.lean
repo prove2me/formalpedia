@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exExpectedShortfall_identity
 -- name    : ActuarialValuation.exExpectedShortfall_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:58.199513+00:00
 -- url     : https://prove2.me/theorems/3fff0d88-d4f5-406b-be79-5fec7b12216b

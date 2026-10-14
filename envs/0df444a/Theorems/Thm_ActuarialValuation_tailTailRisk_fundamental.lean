@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailTailRisk_fundamental
 -- name    : ActuarialValuation.tailTailRisk_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:48:33.256447+00:00
 -- url     : https://prove2.me/theorems/4d55a2d8-b255-4812-9e82-ca170ebca467

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvExpectedLoss_equivalence
 -- name    : ActuarialValuation.pvExpectedLoss_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:54.149801+00:00
 -- url     : https://prove2.me/theorems/eb18600b-3017-4f5d-b28d-207caa326fc2

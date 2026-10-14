@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroMatrixConc_Submatrix_eq_5_2_3
 -- name    : IntroMatrixConc.Submatrix.eq_5_2_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:38:27.654651+00:00
 -- url     : https://prove2.me/theorems/d07c5496-3404-40dd-a1e6-c814256529df

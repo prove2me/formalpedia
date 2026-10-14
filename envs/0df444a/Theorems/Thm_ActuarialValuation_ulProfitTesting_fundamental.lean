@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulProfitTesting_fundamental
 -- name    : ActuarialValuation.ulProfitTesting_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:50.909653+00:00
 -- url     : https://prove2.me/theorems/07ced394-48a3-4126-95f3-d51cfeba3782

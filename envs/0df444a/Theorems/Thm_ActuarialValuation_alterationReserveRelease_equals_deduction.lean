@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationReserveRelease_equals_deduction
 -- name    : ActuarialValuation.alterationReserveRelease_equals_deduction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:11:18.348905+00:00
 -- url     : https://prove2.me/theorems/313af355-8444-47f8-a345-9066352a5e11

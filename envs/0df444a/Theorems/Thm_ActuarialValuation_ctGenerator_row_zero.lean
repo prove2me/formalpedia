@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctGenerator_row_zero
 -- name    : ActuarialValuation.ctGenerator_row_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:49:08.296877+00:00
 -- url     : https://prove2.me/theorems/d12fd004-c736-49ea-b8eb-3fac9bd06130

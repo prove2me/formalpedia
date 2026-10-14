@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.HvdH.corollary_5_5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @avi
 -- created : 2026-10-09T00:41:43.244985+00:00
 -- url     : https://prove2.me/submissions/2b390472-21ed-48ba-9fc7-ba21930163b1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_IntMul_HvdH_proposition_5_4

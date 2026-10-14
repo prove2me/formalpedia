@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_dsFibOp_essentiallySelfAdjointOn
 -- name    : BookProof.QgOuterFockFL.dsFibOp_essentiallySelfAdjointOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:33:32.848554+00:00
 -- url     : https://prove2.me/theorems/42f0ed42-547f-4e7a-a5dc-eeea0500d524

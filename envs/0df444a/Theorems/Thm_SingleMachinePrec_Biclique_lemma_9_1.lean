@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_Biclique_lemma_9_1
 -- name    : SingleMachinePrec.Biclique.lemma_9_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:23:46.769424+00:00
 -- url     : https://prove2.me/theorems/55ef7071-62b7-459a-a534-3f56e4eca7b5

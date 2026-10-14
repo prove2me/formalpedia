@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_qg3DElliptic_eq_weylOp
 -- name    : BookProof.QuantumGravity3DGauge.qg3DElliptic_eq_weylOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T18:30:45.391845+00:00
 -- url     : https://prove2.me/theorems/00aca4f3-cfa8-46e0-9697-b86b5af6cde9

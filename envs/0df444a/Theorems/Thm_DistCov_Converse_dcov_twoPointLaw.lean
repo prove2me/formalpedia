@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Converse_dcov_twoPointLaw
 -- name    : DistCov.Converse.dcov_twoPointLaw
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:27:22.837626+00:00
 -- url     : https://prove2.me/theorems/d5f4bf18-5d91-43a4-a4eb-de73905933de

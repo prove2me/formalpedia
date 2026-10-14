@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgets_MaximinShare_proposition_3_2
 -- name    : GenericBudgets.MaximinShare.proposition_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:30:54.56409+00:00
 -- url     : https://prove2.me/theorems/008cfeff-9286-4372-871e-29c6c2a598e1

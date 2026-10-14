@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpFraction_nonneg
 -- name    : ActuarialValuation.alterationPaidUpFraction_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:30.909144+00:00
 -- url     : https://prove2.me/theorems/9121628d-c7d3-41a8-9c67-aac16453470f

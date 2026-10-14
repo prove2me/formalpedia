@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for IntMul.HvdH.theorem_1_1_kappa_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @abcdefg
 -- created : 2026-10-09T08:49:40.88899+00:00
 -- url     : https://prove2.me/submissions/7f6f05be-0649-4cbc-8447-3e0a000f7673
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Analysis.Complex.ExponentialBounds
 import Mathlib.Analysis.SpecialFunctions.Pow.Real

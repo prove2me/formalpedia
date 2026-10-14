@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitinPrice_StyleGoods_eq_13_expected_profit
 -- name    : WhitinPrice.StyleGoods.eq_13_expected_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:57:46.134495+00:00
 -- url     : https://prove2.me/theorems/703dd757-3c4d-46dd-820b-a4a9a55b27b2

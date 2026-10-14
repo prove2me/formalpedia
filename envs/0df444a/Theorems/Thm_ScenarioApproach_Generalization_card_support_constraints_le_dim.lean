@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Generalization_card_support_constraints_le_dim
 -- name    : ScenarioApproach.Generalization.card_support_constraints_le_dim
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-30T17:27:11.164116+00:00
 -- url     : https://prove2.me/theorems/f70e8aa3-c51d-4c41-95da-a00af7115dd9

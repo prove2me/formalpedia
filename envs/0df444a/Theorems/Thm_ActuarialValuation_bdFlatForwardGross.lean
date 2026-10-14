@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdFlatForwardGross
 -- name    : ActuarialValuation.bdFlatForwardGross
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:06.337362+00:00
 -- url     : https://prove2.me/theorems/82681396-80b2-4346-8e1b-9f46f40421e1

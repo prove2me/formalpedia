@@ -8,8 +8,12 @@
 --   DNE27 even actual Schur-block data
 -- statement:
 --   Exact low native threshold, inverse-corrected low diagonal, retained native energy and actual retained Schur block, using the existing four-column source frame, column scales and high floor. Definitions and rational data are unchanged. No raw-block realization or inverse equation is asserted.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27SchurBounds.lean#L11-L28; source SHA256 3565e26e8ff2272bd4092d03e9f5786009a91127fe867a754238fbd334606891
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_DNE27SourcePairing_Even

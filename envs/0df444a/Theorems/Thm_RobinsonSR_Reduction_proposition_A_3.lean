@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_Reduction_proposition_A_3
 -- name    : RobinsonSR.Reduction.proposition_A_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:11:31.985025+00:00
 -- url     : https://prove2.me/theorems/09302300-f112-4371-a313-1d79d9b4ce75

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackProcessVariance_nonneg
 -- name    : ActuarialValuation.mackProcessVariance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:30:41.32299+00:00
 -- url     : https://prove2.me/theorems/0fa19be8-5018-47f0-8d71-ba11b128c205

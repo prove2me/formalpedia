@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedPhysicalMixedJet_test_mean
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedPhysicalMixedJet_test_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:19:52.312474+00:00
 -- url     : https://prove2.me/theorems/ae5ce1c8-2884-4c61-81a3-f8d188e1154b

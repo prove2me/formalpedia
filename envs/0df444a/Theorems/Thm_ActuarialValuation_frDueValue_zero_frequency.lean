@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frDueValue_zero_frequency
 -- name    : ActuarialValuation.frDueValue_zero_frequency
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:52.161365+00:00
 -- url     : https://prove2.me/theorems/9b7722f6-53c8-4d01-aae8-57622a402eed

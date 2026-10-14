@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlExpectedStrain_add_payments
 -- name    : ActuarialValuation.jlExpectedStrain_add_payments
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:12.772382+00:00
 -- url     : https://prove2.me/theorems/f27afa98-9487-4115-a944-0761016b7451

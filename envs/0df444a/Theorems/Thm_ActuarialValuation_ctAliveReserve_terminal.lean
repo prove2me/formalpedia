@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAliveReserve_terminal
 -- name    : ActuarialValuation.ctAliveReserve_terminal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:52.642933+00:00
 -- url     : https://prove2.me/theorems/6fa47bce-1948-401e-8f6b-6807a694d01c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcRate_ratio_reconstruction
 -- name    : ActuarialValuation.lcRate_ratio_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:44:24.263229+00:00
 -- url     : https://prove2.me/theorems/4711baee-aa0f-4d69-a083-b1fdf3e46bc6

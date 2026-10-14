@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_exists_ne_zero_bosonic
 -- name    : BookProof.TwoParticleSector.exists_ne_zero_bosonic
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:29:00.989167+00:00
 -- url     : https://prove2.me/theorems/42791fde-ef13-41eb-bc27-06307d3ce3c5

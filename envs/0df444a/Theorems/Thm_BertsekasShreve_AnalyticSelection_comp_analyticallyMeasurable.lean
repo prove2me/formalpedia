@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_AnalyticSelection_comp_analyticallyMeasurable
 -- name    : BertsekasShreve.AnalyticSelection.comp_analyticallyMeasurable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T00:50:54.156157+00:00
 -- url     : https://prove2.me/theorems/053de957-a9ba-4027-b1fc-c8f878bb539b

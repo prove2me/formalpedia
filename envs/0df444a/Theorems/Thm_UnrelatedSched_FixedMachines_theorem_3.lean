@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_FixedMachines_theorem_3
 -- name    : UnrelatedSched.FixedMachines.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:34.563069+00:00
 -- url     : https://prove2.me/theorems/c40f9a9f-62e5-45f8-8086-e28ecf8e3cbd

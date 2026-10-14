@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erSafetyLoading_pos
 -- name    : ActuarialValuation.erSafetyLoading_pos
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:53:08.731438+00:00
 -- url     : https://prove2.me/theorems/1f8faa1b-16b8-4424-b512-5c150f570be3

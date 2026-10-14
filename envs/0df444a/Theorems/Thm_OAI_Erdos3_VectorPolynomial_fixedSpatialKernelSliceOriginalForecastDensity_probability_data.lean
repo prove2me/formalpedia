@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_fixedSpatialKernelSliceOriginalForecastDensity_probability_data
 -- name    : OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_probability_data
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:56:22.902829+00:00
 -- url     : https://prove2.me/theorems/b5673728-1e15-438d-8809-c4bfc7471383

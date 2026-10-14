@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravityDensitized_mulHamiltonian_mulBasis
 -- name    : BookProof.QuantumGravityDensitized.mulHamiltonian_mulBasis
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:05:14.444915+00:00
 -- url     : https://prove2.me/theorems/087f38b0-bc93-4d70-9ab8-22c10143c6ea

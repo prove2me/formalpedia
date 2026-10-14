@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Blocks_lemma_6
 -- name    : FixpNash.Blocks.lemma_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:16.173541+00:00
 -- url     : https://prove2.me/theorems/ed70586f-ed83-46e0-8f31-e27812e7cac3

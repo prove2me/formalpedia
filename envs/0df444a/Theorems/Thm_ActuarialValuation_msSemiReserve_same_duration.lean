@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msSemiReserve_same_duration
 -- name    : ActuarialValuation.msSemiReserve_same_duration
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:24.05297+00:00
 -- url     : https://prove2.me/theorems/b8410217-7c97-4824-839f-962b1cc104a6

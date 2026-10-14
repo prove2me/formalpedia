@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogicBenders_Generic_beta_star_eq_zbar
 -- name    : LogicBenders.Generic.beta_star_eq_zbar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:13.070336+00:00
 -- url     : https://prove2.me/theorems/3b4822a3-04c8-4832-a2d6-286061e26eba

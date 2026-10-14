@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhDeathPV_deriv
 -- name    : ActuarialValuation.nhDeathPV_deriv
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:21:30.603024+00:00
 -- url     : https://prove2.me/theorems/da989501-5cc5-4183-9c59-1db9e3dfe206

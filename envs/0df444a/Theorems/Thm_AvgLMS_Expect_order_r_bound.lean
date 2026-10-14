@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvgLMS_Expect_order_r_bound
 -- name    : AvgLMS.Expect.order_r_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:06:15.871827+00:00
 -- url     : https://prove2.me/theorems/a6811367-7a33-4022-af50-48173d78e9e1

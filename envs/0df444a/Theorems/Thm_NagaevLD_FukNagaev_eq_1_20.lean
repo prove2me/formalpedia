@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_FukNagaev_eq_1_20
 -- name    : NagaevLD.FukNagaev.eq_1_20
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:58.901518+00:00
 -- url     : https://prove2.me/theorems/b70e9a76-0f80-4dcb-a253-c4e0573b62b8

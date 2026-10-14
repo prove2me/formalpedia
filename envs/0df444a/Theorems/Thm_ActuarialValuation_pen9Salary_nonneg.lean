@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9Salary_nonneg
 -- name    : ActuarialValuation.pen9Salary_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:23.557706+00:00
 -- url     : https://prove2.me/theorems/1c7c007e-ece5-468f-805c-30c97001e58a

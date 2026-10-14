@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctTwoState_alive_row
 -- name    : ActuarialValuation.ctTwoState_alive_row
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:55:17.598261+00:00
 -- url     : https://prove2.me/theorems/db88b9ff-44d6-47a0-80f8-7d697e39c8e4

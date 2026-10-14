@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commAnnualDeaths_nonneg
 -- name    : ActuarialValuation.commAnnualDeaths_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:05.730834+00:00
 -- url     : https://prove2.me/theorems/fc1ad096-6613-4c2c-9d2d-13cfeb2d2cde

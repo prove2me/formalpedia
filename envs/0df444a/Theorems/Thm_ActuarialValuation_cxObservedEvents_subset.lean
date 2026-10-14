@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxObservedEvents_subset
 -- name    : ActuarialValuation.cxObservedEvents_subset
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:12:05.843792+00:00
 -- url     : https://prove2.me/theorems/a1d0cfe6-5a61-4f93-9d48-cb34370ff09c

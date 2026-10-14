@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoritaEquiv_conservative
 -- name    : MoritaEquiv.conservative
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T12:58:54.934617+00:00
 -- url     : https://prove2.me/theorems/477e96ff-7e9b-4c01-ab4b-859dc268c078

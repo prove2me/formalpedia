@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAttainedCost_relation
 -- name    : ActuarialValuation.pfAttainedCost_relation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:06.06032+00:00
 -- url     : https://prove2.me/theorems/35f4eae7-1651-4861-81b9-1eee38b72736

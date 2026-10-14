@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_facet_projection_dimension
 -- name    : Disjunctive.Polarity.facet_projection_dimension
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:17:50.540808+00:00
 -- url     : https://prove2.me/theorems/9d84c797-1f10-4b24-a89b-e0d1bc4b3050

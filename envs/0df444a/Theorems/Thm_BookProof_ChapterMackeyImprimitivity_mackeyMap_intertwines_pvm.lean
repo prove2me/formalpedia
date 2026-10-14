@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyImprimitivity_mackeyMap_intertwines_pvm
 -- name    : BookProof.ChapterMackeyImprimitivity.mackeyMap_intertwines_pvm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:51:46.583096+00:00
 -- url     : https://prove2.me/theorems/7deb4bfc-12bb-4e26-a751-019c35c31821

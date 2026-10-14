@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFundMeanNonnegative
 -- name    : ActuarialValuation.siFundMeanNonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:03.985667+00:00
 -- url     : https://prove2.me/theorems/5bd8fe8e-0fe5-45a4-aaec-8ce735c8ada9

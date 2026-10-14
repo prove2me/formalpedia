@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxRiskMean_zero
 -- name    : ActuarialValuation.cxRiskMean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:58.548442+00:00
 -- url     : https://prove2.me/theorems/2cf2f3b2-6425-4ff2-ab63-3534dbaea18c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxEventShare_le_one
 -- name    : ActuarialValuation.cxEventShare_le_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:10:42.382289+00:00
 -- url     : https://prove2.me/theorems/4b25c234-124d-4a86-a580-2be6f0bcfda7

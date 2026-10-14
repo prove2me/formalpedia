@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnAmerican_ge_continue
 -- name    : ActuarialValuation.bnAmerican_ge_continue
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:24.081985+00:00
 -- url     : https://prove2.me/theorems/431184c7-afb7-4f4c-93ae-b10e8c38aec9

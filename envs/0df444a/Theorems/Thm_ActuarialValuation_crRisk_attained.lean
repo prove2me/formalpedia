@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_attained
 -- name    : ActuarialValuation.crRisk_attained
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:08.643975+00:00
 -- url     : https://prove2.me/theorems/ea66b65c-8d33-43d1-81d5-6c81ad1e884f

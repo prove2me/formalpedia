@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_shapley_restrict_sum_component
 -- name    : CooperationGraphs.FairRule.shapley_restrict_sum_component
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:29.917378+00:00
 -- url     : https://prove2.me/theorems/117dcb5d-600a-476c-a912-e3084f01a0f9

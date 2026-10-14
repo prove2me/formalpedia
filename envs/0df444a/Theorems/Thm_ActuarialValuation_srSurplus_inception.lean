@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srSurplus_inception
 -- name    : ActuarialValuation.srSurplus_inception
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:40.156577+00:00
 -- url     : https://prove2.me/theorems/ab84b493-4459-4071-95a3-944f0c6cf993

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAliveThiele_linear
 -- name    : ActuarialValuation.ctAliveThiele_linear
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:59:24.656625+00:00
 -- url     : https://prove2.me/theorems/e678b07f-09c0-4f07-b357-985fb0d0c03f

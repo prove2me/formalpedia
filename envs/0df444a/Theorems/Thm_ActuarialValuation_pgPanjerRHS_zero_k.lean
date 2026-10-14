@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgPanjerRHS_zero_k
 -- name    : ActuarialValuation.pgPanjerRHS_zero_k
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:54:46.254868+00:00
 -- url     : https://prove2.me/theorems/60a178d4-1256-4a98-b91e-4e39ab8ca048

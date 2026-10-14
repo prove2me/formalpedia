@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ALADIN_DualDecomp_slack_elimination
 -- name    : ALADIN.DualDecomp.slack_elimination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:46:04.507987+00:00
 -- url     : https://prove2.me/theorems/8f7d1f88-76de-452a-9094-6bd15a19ef0a

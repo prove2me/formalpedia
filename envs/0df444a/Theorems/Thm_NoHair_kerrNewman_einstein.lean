@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NoHair_kerrNewman_einstein
 -- name    : NoHair.kerrNewman_einstein
--- status  : Open
+-- status  : Proved
 -- author  : @SamenHossain
 -- created : 2026-10-11T05:54:19.815691+00:00
 -- url     : https://prove2.me/theorems/29511860-2b59-4995-a0aa-33f3e4ef6f27

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DLSConsensus_BasicRound_theorem_3_1
 -- name    : DLSConsensus.BasicRound.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:44:08.225459+00:00
 -- url     : https://prove2.me/theorems/55cd61fe-3e22-44be-8aa8-04a5cc1a63d3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRuinCandidate_nonincreasing
 -- name    : ActuarialValuation.erRuinCandidate_nonincreasing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T16:00:44.04079+00:00
 -- url     : https://prove2.me/theorems/73d875b7-758e-4782-858b-eddc319f962f

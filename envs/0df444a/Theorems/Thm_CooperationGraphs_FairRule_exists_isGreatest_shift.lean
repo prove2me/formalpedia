@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_exists_isGreatest_shift
 -- name    : CooperationGraphs.FairRule.exists_isGreatest_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:26:59.742189+00:00
 -- url     : https://prove2.me/theorems/4ed84564-4487-4d6b-b979-ae89ea01fbbb

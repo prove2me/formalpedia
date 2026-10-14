@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coTailJoint_bounds
 -- name    : ActuarialValuation.coTailJoint_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:42.719716+00:00
 -- url     : https://prove2.me/theorems/3102c88e-08c5-4e7d-bf6f-0ef1b065f03a

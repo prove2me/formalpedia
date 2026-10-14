@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdStatePV_nonneg
 -- name    : ActuarialValuation.bdStatePV_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:38.645828+00:00
 -- url     : https://prove2.me/theorems/62418231-924e-4a2d-8905-1dc39833099b

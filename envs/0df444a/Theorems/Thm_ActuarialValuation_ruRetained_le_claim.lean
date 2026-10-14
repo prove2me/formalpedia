@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRetained_le_claim
 -- name    : ActuarialValuation.ruRetained_le_claim
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:11.830397+00:00
 -- url     : https://prove2.me/theorems/afe4ee50-9ea4-4779-95e5-f25f26eade33

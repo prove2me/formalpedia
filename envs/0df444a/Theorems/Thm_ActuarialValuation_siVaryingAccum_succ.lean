@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siVaryingAccum_succ
 -- name    : ActuarialValuation.siVaryingAccum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:05.65466+00:00
 -- url     : https://prove2.me/theorems/e39da2a2-79a1-4191-b6ea-808865f8fb74

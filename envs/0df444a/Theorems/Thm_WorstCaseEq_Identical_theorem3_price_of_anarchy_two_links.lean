@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorstCaseEq_Identical_theorem3_price_of_anarchy_two_links
 -- name    : WorstCaseEq.Identical.theorem3_price_of_anarchy_two_links
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:18:59.84466+00:00
 -- url     : https://prove2.me/theorems/ae2b52c8-8b29-4c40-ac58-e19e29946a82

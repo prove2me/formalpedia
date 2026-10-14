@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_survival_antitone_finite
 -- name    : ActuarialFoundations.fa_survival_antitone_finite
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-11T06:48:14.529981+00:00
 -- url     : https://prove2.me/theorems/77253782-6810-4f79-8690-3b8e35c415fa

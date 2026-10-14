@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxHazard_ratio_reflexive
 -- name    : ActuarialValuation.cxHazard_ratio_reflexive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:56.056659+00:00
 -- url     : https://prove2.me/theorems/adb64d41-a98c-4a6b-95b5-d7cf32b88d06

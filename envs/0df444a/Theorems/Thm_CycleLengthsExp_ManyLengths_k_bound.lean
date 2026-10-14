@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_ManyLengths_k_bound
 -- name    : CycleLengthsExp.ManyLengths.k_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:25:37.627054+00:00
 -- url     : https://prove2.me/theorems/d92ae2e8-db36-4f12-874d-170104fdea9f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_Complexification_Cx_cxMap_mul
 -- name    : BookProof.Complexification.Cx.cxMap_mul
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:38:56.80695+00:00
 -- url     : https://prove2.me/theorems/7fc14862-439d-413c-aa12-7fbafbdef0f1

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratRelativity_cancel
 -- name    : ActuarialValuation.ratRelativity_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:33:03.367814+00:00
 -- url     : https://prove2.me/theorems/222beaca-f694-4f1b-bfd3-e2d11728c0e0

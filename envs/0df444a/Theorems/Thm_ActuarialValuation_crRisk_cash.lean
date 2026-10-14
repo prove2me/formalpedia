@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_cash
 -- name    : ActuarialValuation.crRisk_cash
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:54.6893+00:00
 -- url     : https://prove2.me/theorems/b72798ae-c92d-49a7-ad35-3dc95704267a

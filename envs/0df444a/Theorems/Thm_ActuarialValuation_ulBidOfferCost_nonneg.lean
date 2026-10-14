@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulBidOfferCost_nonneg
 -- name    : ActuarialValuation.ulBidOfferCost_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:08.293086+00:00
 -- url     : https://prove2.me/theorems/65dc7125-8652-4998-b9e1-1b67016d03ee

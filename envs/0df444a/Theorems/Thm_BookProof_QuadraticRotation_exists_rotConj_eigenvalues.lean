@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuadraticRotation_exists_rotConj_eigenvalues
 -- name    : BookProof.QuadraticRotation.exists_rotConj_eigenvalues
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:23:36.369979+00:00
 -- url     : https://prove2.me/theorems/d56dce1b-7e07-4baf-a493-25d5bced37ba

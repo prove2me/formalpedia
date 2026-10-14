@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmSurvivalGreenwood_fundamental
 -- name    : ActuarialValuation.kmSurvivalGreenwood_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:52:17.887238+00:00
 -- url     : https://prove2.me/theorems/54264f03-f9f8-43ec-9c7d-674eb67152e0

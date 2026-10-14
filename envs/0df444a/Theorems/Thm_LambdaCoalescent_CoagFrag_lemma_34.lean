@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_CoagFrag_lemma_34
 -- name    : LambdaCoalescent.CoagFrag.lemma_34
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:03.686572+00:00
 -- url     : https://prove2.me/theorems/aebea741-7084-4e1d-9d8a-11ec81c99134

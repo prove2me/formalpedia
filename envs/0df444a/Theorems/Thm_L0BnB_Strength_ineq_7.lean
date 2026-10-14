@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Strength_ineq_7
 -- name    : L0BnB.Strength.ineq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:44.053562+00:00
 -- url     : https://prove2.me/theorems/d68fb855-9d50-4e1c-8eea-c3fa16b69948

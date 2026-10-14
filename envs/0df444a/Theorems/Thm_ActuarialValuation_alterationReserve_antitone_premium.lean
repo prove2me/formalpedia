@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationReserve_antitone_premium
 -- name    : ActuarialValuation.alterationReserve_antitone_premium
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:11:12.717234+00:00
 -- url     : https://prove2.me/theorems/ae223128-b2dc-41b5-92fa-060a1d28820a

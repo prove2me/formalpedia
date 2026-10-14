@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whSecondRoughness_succ
 -- name    : ActuarialValuation.whSecondRoughness_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:21.825122+00:00
 -- url     : https://prove2.me/theorems/bd99d9a4-4ba1-4df3-a769-1a41e1332bc8

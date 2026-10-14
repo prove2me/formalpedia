@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterMackeyImprimitivity_mackey_imprimitivity
 -- name    : BookProof.ChapterMackeyImprimitivity.mackey_imprimitivity
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T12:51:25.701236+00:00
 -- url     : https://prove2.me/theorems/f5ceb351-0465-46d6-b864-f199d2e8db49

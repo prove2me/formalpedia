@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FdVersusFdSucc_depth_frege_sound
 -- name    : FdVersusFdSucc.depth_frege_sound
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T10:12:40.018976+00:00
 -- url     : https://prove2.me/theorems/1675a988-8de8-404c-92f6-82e4b0c7729f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srRuinProbBy_le_ultimate
 -- name    : ActuarialValuation.srRuinProbBy_le_ultimate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:18:28.410039+00:00
 -- url     : https://prove2.me/theorems/99734377-6294-4493-a3eb-45055363c093

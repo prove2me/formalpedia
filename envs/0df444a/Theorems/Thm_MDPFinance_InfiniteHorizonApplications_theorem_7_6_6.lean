@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_InfiniteHorizonApplications_theorem_7_6_6
 -- name    : MDPFinance.InfiniteHorizonApplications.theorem_7_6_6
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T23:01:11.94438+00:00
 -- url     : https://prove2.me/theorems/6d1663a2-25f6-44f5-9dff-fa9ee77e11ae

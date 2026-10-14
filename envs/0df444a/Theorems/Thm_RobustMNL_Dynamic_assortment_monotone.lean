@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustMNL_Dynamic_assortment_monotone
 -- name    : RobustMNL.Dynamic.assortment_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T14:23:13.815976+00:00
 -- url     : https://prove2.me/theorems/0a514d5c-bc89-42bb-8d51-bb6f74fe28f4

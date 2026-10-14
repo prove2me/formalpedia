@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_holF_faithful
 -- name    : GaugeFunctor.holF_faithful
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-09T23:03:33.341013+00:00
 -- url     : https://prove2.me/theorems/965d2849-f9e6-47d9-bc7d-2186b5a08019

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ReducedEsa.essentiallySelfAdjointOn_red
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T08:46:25.64441+00:00
 -- url     : https://prove2.me/submissions/95000977-1fa2-490f-a94e-6d7af3f5daa2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterReducingSubspaceEsa.lean — solution of BookProof.ReducedEsa.essentiallySelfAdjointOn_red
 import Mathlib

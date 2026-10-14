@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_LimitSet_chainRecurrentSet_isInternallyChainRecurrent
 -- name    : StochApproxDyn.LimitSet.chainRecurrentSet_isInternallyChainRecurrent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:19:04.454977+00:00
 -- url     : https://prove2.me/theorems/fca37b4e-dff1-4510-b76f-a9b4fc21b7ca

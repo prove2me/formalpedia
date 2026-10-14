@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucProjectedBenefitPV_add_future
 -- name    : ActuarialValuation.pucProjectedBenefitPV_add_future
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:07:12.910827+00:00
 -- url     : https://prove2.me/theorems/fe8168ed-935d-4e6f-9cba-bcf69e22c59a

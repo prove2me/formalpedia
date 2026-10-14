@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9ReversionaryAnnuity_zero
 -- name    : ActuarialValuation.pen9ReversionaryAnnuity_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:17.486538+00:00
 -- url     : https://prove2.me/theorems/322c4a60-9960-474a-99f0-6284d1271905

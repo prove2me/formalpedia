@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DRJointCC_Joint_theorem_3_6
 -- name    : DRJointCC.Joint.theorem_3_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:32:22.283542+00:00
 -- url     : https://prove2.me/theorems/f9a46eae-122d-4f2c-8e9c-fded18e961a5

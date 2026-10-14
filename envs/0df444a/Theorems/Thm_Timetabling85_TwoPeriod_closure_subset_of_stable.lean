@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_TwoPeriod_closure_subset_of_stable
 -- name    : Timetabling85.TwoPeriod.closure_subset_of_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:01.061947+00:00
 -- url     : https://prove2.me/theorems/b9763ba4-57fa-4ea7-9d9f-bb62760b1199

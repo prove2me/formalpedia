@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Indep_eq_3_4
 -- name    : DistCov.Indep.eq_3_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:11.224892+00:00
 -- url     : https://prove2.me/theorems/a5e6f42b-737f-4669-a2a0-911e9ca86c42

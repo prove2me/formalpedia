@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipGeo_zero_atom
 -- name    : ActuarialValuation.ipGeo_zero_atom
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:10:51.292465+00:00
 -- url     : https://prove2.me/theorems/0b70ab9e-fb97-4b90-8e4a-ed5732f33b95

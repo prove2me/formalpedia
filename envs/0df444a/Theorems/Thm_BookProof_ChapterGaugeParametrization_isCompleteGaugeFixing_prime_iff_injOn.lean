@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeParametrization_isCompleteGaugeFixing_prime_iff_injOn
 -- name    : BookProof.ChapterGaugeParametrization.isCompleteGaugeFixing_prime_iff_injOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:16:04.364171+00:00
 -- url     : https://prove2.me/theorems/a9a45512-8cb7-4e19-b1e0-4b7b7b8a93eb

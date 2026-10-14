@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucActuarialLiability_succ
 -- name    : ActuarialValuation.pucActuarialLiability_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:17:09.286375+00:00
 -- url     : https://prove2.me/theorems/7808ae61-6a88-4455-aa2a-22149d07be36

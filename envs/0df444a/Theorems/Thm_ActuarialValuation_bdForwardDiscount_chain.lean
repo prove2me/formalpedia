@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdForwardDiscount_chain
 -- name    : ActuarialValuation.bdForwardDiscount_chain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:57.731003+00:00
 -- url     : https://prove2.me/theorems/5deb2255-7aea-4fcc-8a62-9cfc259fd644

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_UpperBound_key_inequality
 -- name    : ConstrNestedLogit.UpperBound.key_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:17.204108+00:00
 -- url     : https://prove2.me/theorems/eea3ff4f-64de-4422-b535-d7ce3aa0ae30

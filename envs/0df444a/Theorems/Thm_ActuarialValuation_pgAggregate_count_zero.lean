@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgAggregate_count_zero
 -- name    : ActuarialValuation.pgAggregate_count_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:51:50.438604+00:00
 -- url     : https://prove2.me/theorems/4425ec69-2679-4b12-ba40-84365a94815a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_ReleaseTmax_lemma_1
 -- name    : BurnInBatch.ReleaseTmax.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:28:54.425233+00:00
 -- url     : https://prove2.me/theorems/932d9617-9007-435c-b364-1a795a2847e3

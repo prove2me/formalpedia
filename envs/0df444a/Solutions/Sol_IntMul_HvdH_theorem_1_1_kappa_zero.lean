@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.HvdH.theorem_1_1_kappa_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @avi
 -- created : 2026-10-09T00:47:19.929028+00:00
 -- url     : https://prove2.me/submissions/1aae896c-f796-4e85-8890-a1b56be76887
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_IntMul_HvdH_theorem_1_1

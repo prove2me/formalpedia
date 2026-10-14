@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9AverageSalary_one
 -- name    : ActuarialValuation.pen9AverageSalary_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:30.692154+00:00
 -- url     : https://prove2.me/theorems/70077ba4-aa19-464b-be8c-1a446d93135b

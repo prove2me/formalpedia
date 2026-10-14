@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_LowerBound_chebyshev_Sj
 -- name    : NagaevLD.LowerBound.chebyshev_Sj
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:19:02.542253+00:00
 -- url     : https://prove2.me/theorems/41242bf3-aa74-4325-a347-ccfdf91bdba2

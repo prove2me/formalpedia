@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucProjectedUnit_nonneg
 -- name    : ActuarialValuation.pucProjectedUnit_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:13:44.085379+00:00
 -- url     : https://prove2.me/theorems/fe56ac25-f3fa-4e2a-a2ad-2812eced7c9d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmHamiltonian_realCoeff_smWall
 -- name    : BookProof.SmHamiltonian.realCoeff_smWall
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:50:09.171224+00:00
 -- url     : https://prove2.me/theorems/f7f53b54-50c9-41d6-8816-c1ec4bb60d07

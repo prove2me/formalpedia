@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulGuaranteePV_decomposition
 -- name    : ActuarialValuation.ulGuaranteePV_decomposition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:53.073986+00:00
 -- url     : https://prove2.me/theorems/34d236e2-fe3d-4364-af8e-b076d4e84ed5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_LowerBound_Pj_ge_prod
 -- name    : NagaevLD.LowerBound.Pj_ge_prod
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:18:52.274713+00:00
 -- url     : https://prove2.me/theorems/43e99aa8-8a84-438c-b3a1-f36c5463874b

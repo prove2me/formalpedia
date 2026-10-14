@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAccountPath_zero_noperiod
 -- name    : ActuarialValuation.ulAccountPath_zero_noperiod
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:15.158813+00:00
 -- url     : https://prove2.me/theorems/2052a902-8900-4c5b-932f-cb055b22ea09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflectedBSDE_StoppingControl_conjugate_representation
 -- name    : ReflectedBSDE.StoppingControl.conjugate_representation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:13:19.062986+00:00
 -- url     : https://prove2.me/theorems/0dbc9cf4-5e46-438c-b9e2-2f04d24ccd08

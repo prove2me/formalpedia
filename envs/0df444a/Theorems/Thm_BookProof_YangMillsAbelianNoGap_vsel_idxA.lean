@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_vsel_idxA
 -- name    : BookProof.YangMillsAbelianNoGap.vsel_idxA
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:36:46.181574+00:00
 -- url     : https://prove2.me/theorems/8f3f7370-7fa5-4d1e-bf17-8f3f2f55d1a4

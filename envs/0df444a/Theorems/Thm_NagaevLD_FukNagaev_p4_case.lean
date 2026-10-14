@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_FukNagaev_p4_case
 -- name    : NagaevLD.FukNagaev.p4_case
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:35.43672+00:00
 -- url     : https://prove2.me/theorems/0e0a40aa-f148-4f44-8c24-60752a7fc320

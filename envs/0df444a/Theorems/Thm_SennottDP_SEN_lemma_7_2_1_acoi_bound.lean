@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_SEN_lemma_7_2_1_acoi_bound
 -- name    : SennottDP.SEN.lemma_7_2_1_acoi_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T10:17:52.947434+00:00
 -- url     : https://prove2.me/theorems/02ff76b9-7fea-45d7-a68f-06b871e10fa8

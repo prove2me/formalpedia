@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedAggregate_add_time
 -- name    : ActuarialValuation.erExpectedAggregate_add_time
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:50:44.226118+00:00
 -- url     : https://prove2.me/theorems/c4e17b59-8ca1-480c-a74b-b00a95dc269f

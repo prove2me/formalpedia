@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruExponentialRuinEventBound
 -- name    : ActuarialValuation.ruExponentialRuinEventBound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:58.576974+00:00
 -- url     : https://prove2.me/theorems/2395481a-8cc8-42b9-9fbb-59353e29a4e5

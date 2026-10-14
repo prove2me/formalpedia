@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterGaugeParametrization_isPhysicalObservable_iff_factors_through
 -- name    : BookProof.ChapterGaugeParametrization.isPhysicalObservable_iff_factors_through
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T11:16:06.460092+00:00
 -- url     : https://prove2.me/theorems/e521b89e-80c7-4067-bf2e-a98d981a277d

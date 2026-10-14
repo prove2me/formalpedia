@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmInformation_positive
 -- name    : ActuarialValuation.gmInformation_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:48.499243+00:00
 -- url     : https://prove2.me/theorems/f6003e4c-2718-439f-ba56-e4bc49520cbc

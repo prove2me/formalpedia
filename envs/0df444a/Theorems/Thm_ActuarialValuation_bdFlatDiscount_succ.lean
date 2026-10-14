@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bdFlatDiscount_succ
 -- name    : ActuarialValuation.bdFlatDiscount_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:46.170506+00:00
 -- url     : https://prove2.me/theorems/08ab890b-102d-48d0-9efa-d6f5a5a4b15e

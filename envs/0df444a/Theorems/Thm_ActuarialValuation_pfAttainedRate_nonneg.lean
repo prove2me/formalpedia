@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAttainedRate_nonneg
 -- name    : ActuarialValuation.pfAttainedRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:42.306883+00:00
 -- url     : https://prove2.me/theorems/a476583d-c3f2-4661-9d27-fcfb923535f3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utCARA_increasing
 -- name    : ActuarialValuation.utCARA_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:22.166267+00:00
 -- url     : https://prove2.me/theorems/0fdb08db-e264-44a1-bad3-5994d1cb0dbb

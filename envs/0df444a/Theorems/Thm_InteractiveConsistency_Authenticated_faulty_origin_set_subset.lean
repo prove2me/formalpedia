@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_Authenticated_faulty_origin_set_subset
 -- name    : InteractiveConsistency.Authenticated.faulty_origin_set_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:40:26.559007+00:00
 -- url     : https://prove2.me/theorems/4d3dac37-a9dd-420a-8620-7ba17614a0ad

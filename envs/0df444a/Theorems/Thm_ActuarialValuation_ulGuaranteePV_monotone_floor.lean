@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulGuaranteePV_monotone_floor
 -- name    : ActuarialValuation.ulGuaranteePV_monotone_floor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:06.394983+00:00
 -- url     : https://prove2.me/theorems/49319e34-dc11-465d-a2ff-7b21b16dbe81

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_OGD_theorem_2_13
 -- name    : ModernOnlineLearning.OGD.theorem_2_13
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:36:51.186131+00:00
 -- url     : https://prove2.me/theorems/29fbf0eb-0839-40a2-9e14-af0dd289d810

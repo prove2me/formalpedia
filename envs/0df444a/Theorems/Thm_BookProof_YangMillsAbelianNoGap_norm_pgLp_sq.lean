@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_norm_pgLp_sq
 -- name    : BookProof.YangMillsAbelianNoGap.norm_pgLp_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:34:33.272913+00:00
 -- url     : https://prove2.me/theorems/e2e546ae-a69b-4a40-9761-c6aed8ebd1fe

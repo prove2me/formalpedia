@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterDutchBook.coherent_exists_prob
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T06:25:29.382297+00:00
 -- url     : https://prove2.me/submissions/bbb28db2-5b20-4bd1-9417-3ebe6f662b63
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterDutchBook.lean — solution of BookProof.ChapterDutchBook.coherent_exists_prob
 import Mathlib

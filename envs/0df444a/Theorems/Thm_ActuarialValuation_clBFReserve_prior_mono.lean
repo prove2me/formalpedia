@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clBFReserve_prior_mono
 -- name    : ActuarialValuation.clBFReserve_prior_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:51:17.083325+00:00
 -- url     : https://prove2.me/theorems/9a684758-3fed-49ff-b0d0-3df275c36a64

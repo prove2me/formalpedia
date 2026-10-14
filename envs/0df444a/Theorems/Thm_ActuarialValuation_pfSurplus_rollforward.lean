@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfSurplus_rollforward
 -- name    : ActuarialValuation.pfSurplus_rollforward
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:49.046491+00:00
 -- url     : https://prove2.me/theorems/aee29796-c5eb-432e-a5a5-836bd1013754

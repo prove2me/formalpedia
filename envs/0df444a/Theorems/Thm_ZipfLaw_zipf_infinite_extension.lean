@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipf_infinite_extension
 -- name    : ZipfLaw.zipf_infinite_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:35:43.121933+00:00
 -- url     : https://prove2.me/theorems/3db55d74-324f-4340-aed9-9dbf6411b23f

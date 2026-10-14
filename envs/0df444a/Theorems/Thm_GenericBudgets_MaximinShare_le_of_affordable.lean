@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GenericBudgets_MaximinShare_le_of_affordable
 -- name    : GenericBudgets.MaximinShare.le_of_affordable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T04:30:58.561367+00:00
 -- url     : https://prove2.me/theorems/015d4408-fe9a-48c0-8cb5-75b47161f06a

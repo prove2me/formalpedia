@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobinsonSR_NLP_theorem_4_1
 -- name    : RobinsonSR.NLP.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:39:26.88977+00:00
 -- url     : https://prove2.me/theorems/771aa74c-64f6-49f2-a341-f85e209b808e

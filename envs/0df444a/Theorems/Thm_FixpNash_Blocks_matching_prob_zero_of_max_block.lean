@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_Blocks_matching_prob_zero_of_max_block
 -- name    : FixpNash.Blocks.matching_prob_zero_of_max_block
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:43.175494+00:00
 -- url     : https://prove2.me/theorems/e165ca30-e346-4630-98ef-5dd14d8e7832

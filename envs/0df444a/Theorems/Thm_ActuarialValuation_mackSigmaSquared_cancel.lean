@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackSigmaSquared_cancel
 -- name    : ActuarialValuation.mackSigmaSquared_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:30:06.731333+00:00
 -- url     : https://prove2.me/theorems/3ac308a8-fd61-4804-a38e-b4b1a0d16883

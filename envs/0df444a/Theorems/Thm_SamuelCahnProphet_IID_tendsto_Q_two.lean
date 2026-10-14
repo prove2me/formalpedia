@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SamuelCahnProphet_IID_tendsto_Q_two
 -- name    : SamuelCahnProphet.IID.tendsto_Q_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:22:04.289977+00:00
 -- url     : https://prove2.me/theorems/63886903-8497-4d06-b146-389a8d5355bd

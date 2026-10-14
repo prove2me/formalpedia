@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedLogitVariants_General_xh_nonneg
 -- name    : NestedLogitVariants.General.xh_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T21:42:15.143045+00:00
 -- url     : https://prove2.me/theorems/06f59bd4-3acf-4b34-a178-2eda1a76c2cc

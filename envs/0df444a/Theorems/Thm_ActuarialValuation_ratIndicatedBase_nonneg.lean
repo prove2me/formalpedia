@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratIndicatedBase_nonneg
 -- name    : ActuarialValuation.ratIndicatedBase_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:46:52.364278+00:00
 -- url     : https://prove2.me/theorems/94c5b72f-773b-4a1d-b3c9-c30f45c11cb9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfEntryRate_clears
 -- name    : ActuarialValuation.pfEntryRate_clears
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T17:59:44.270165+00:00
 -- url     : https://prove2.me/theorems/69dac66f-6281-4520-8e72-d93235795b3d

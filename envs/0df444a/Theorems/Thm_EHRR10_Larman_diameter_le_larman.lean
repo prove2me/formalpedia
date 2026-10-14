@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EHRR10_Larman_diameter_le_larman
 -- name    : EHRR10.Larman.diameter_le_larman
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:46:43.005486+00:00
 -- url     : https://prove2.me/theorems/2472a3f5-f804-4f87-a903-8b1a33281ee9

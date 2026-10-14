@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitinPrice_StyleGoods_fn7_optimal_elasticity
 -- name    : WhitinPrice.StyleGoods.fn7_optimal_elasticity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:58:01.268088+00:00
 -- url     : https://prove2.me/theorems/02508707-d8f1-472f-aa4a-7ae5906cbddd

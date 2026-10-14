@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPairSquared_rho_mono
 -- name    : ActuarialValuation.scrPairSquared_rho_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:40.556986+00:00
 -- url     : https://prove2.me/theorems/3d013b41-4dcc-4c49-bc45-17aee6f7019a

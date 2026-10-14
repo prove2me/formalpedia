@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSTutorial_UCBDecomp_ts_prob_matching
 -- name    : TSTutorial.UCBDecomp.ts_prob_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:51.846478+00:00
 -- url     : https://prove2.me/theorems/de85f62d-687c-412a-b3a2-9531e7323270

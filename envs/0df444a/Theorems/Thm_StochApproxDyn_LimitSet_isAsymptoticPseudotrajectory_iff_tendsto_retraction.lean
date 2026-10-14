@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_LimitSet_isAsymptoticPseudotrajectory_iff_tendsto_retraction
 -- name    : StochApproxDyn.LimitSet.isAsymptoticPseudotrajectory_iff_tendsto_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:02:58.565794+00:00
 -- url     : https://prove2.me/theorems/9613a809-b7c4-4abf-9cd6-8ed77f684405

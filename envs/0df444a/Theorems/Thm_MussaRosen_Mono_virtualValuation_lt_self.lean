@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_virtualValuation_lt_self
 -- name    : MussaRosen.Mono.virtualValuation_lt_self
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:11:42.388839+00:00
 -- url     : https://prove2.me/theorems/749e89c7-b632-4e55-864b-114c9ee43a7f

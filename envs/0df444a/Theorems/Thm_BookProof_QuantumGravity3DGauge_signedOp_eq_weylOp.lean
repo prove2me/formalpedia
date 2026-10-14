@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_signedOp_eq_weylOp
 -- name    : BookProof.QuantumGravity3DGauge.signedOp_eq_weylOp
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:59:13.58945+00:00
 -- url     : https://prove2.me/theorems/123fd2e9-f4a2-47e5-b105-4d7ba489a5d2

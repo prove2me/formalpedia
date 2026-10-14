@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9ReversionaryAnnuity_monotone
 -- name    : ActuarialValuation.pen9ReversionaryAnnuity_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:33.098972+00:00
 -- url     : https://prove2.me/theorems/2a7e55a0-014b-4318-a130-632a4cb1e47e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctDead_hasDerivAt
 -- name    : ActuarialValuation.ctDead_hasDerivAt
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:55.395723+00:00
 -- url     : https://prove2.me/theorems/481dcc78-bd6c-44ae-a451-0904cd679536

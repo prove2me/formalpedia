@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frReserve_zero_mortality
 -- name    : ActuarialValuation.frReserve_zero_mortality
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:24:44.044112+00:00
 -- url     : https://prove2.me/theorems/09de3156-4bea-45ad-8d54-e9d1ab90a38e

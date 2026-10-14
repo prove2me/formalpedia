@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msEndStateBenefit_zero
 -- name    : ActuarialValuation.msEndStateBenefit_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:58:36.602975+00:00
 -- url     : https://prove2.me/theorems/ce2457e8-d87d-4851-9607-5feea0147810

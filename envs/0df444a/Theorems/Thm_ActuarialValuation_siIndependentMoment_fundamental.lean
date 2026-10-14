@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siIndependentMoment_fundamental
 -- name    : ActuarialValuation.siIndependentMoment_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:14.287039+00:00
 -- url     : https://prove2.me/theorems/ddf6c3c6-9a52-4ea7-88b6-202f961ea019

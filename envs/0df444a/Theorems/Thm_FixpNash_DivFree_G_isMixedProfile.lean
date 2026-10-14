@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FixpNash_DivFree_G_isMixedProfile
 -- name    : FixpNash.DivFree.G_isMixedProfile
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:45:57.984211+00:00
 -- url     : https://prove2.me/theorems/0bb4369b-63c9-4316-99a6-202693e1b9dc

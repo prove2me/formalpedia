@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnBinomialReplication_fundamental
 -- name    : ActuarialValuation.bnBinomialReplication_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:23.196256+00:00
 -- url     : https://prove2.me/theorems/c8bf17de-d266-4d4c-9ecf-689ce03b3434

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulNonUnitProfit_more_expense
 -- name    : ActuarialValuation.ulNonUnitProfit_more_expense
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:56.873386+00:00
 -- url     : https://prove2.me/theorems/60af8535-85a4-4279-aa28-2a6e03c5b31d

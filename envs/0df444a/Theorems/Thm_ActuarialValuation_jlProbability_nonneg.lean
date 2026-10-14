@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlProbability_nonneg
 -- name    : ActuarialValuation.jlProbability_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:16.111456+00:00
 -- url     : https://prove2.me/theorems/caf5fb18-7693-4ad1-97b9-f3739a55a228

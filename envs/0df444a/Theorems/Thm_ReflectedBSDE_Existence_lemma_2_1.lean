@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ReflectedBSDE_Existence_lemma_2_1
 -- name    : ReflectedBSDE.Existence.lemma_2_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:11:49.31893+00:00
 -- url     : https://prove2.me/theorems/30d71f51-1272-47ee-ac02-11eba198694a

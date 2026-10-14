@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruExponential_decreasing
 -- name    : ActuarialValuation.ruExponential_decreasing
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:05.922013+00:00
 -- url     : https://prove2.me/theorems/8f0d0663-5ff1-43a6-bb83-de24e7038f5f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Dictatorship_lemma_1
 -- name    : StrategyProofArrow.Dictatorship.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:04.880325+00:00
 -- url     : https://prove2.me/theorems/bedaa81e-07cd-4017-bddd-6022cace7a8f

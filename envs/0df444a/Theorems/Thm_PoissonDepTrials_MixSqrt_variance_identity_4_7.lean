@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixSqrt_variance_identity_4_7
 -- name    : PoissonDepTrials.MixSqrt.variance_identity_4_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:38:15.204027+00:00
 -- url     : https://prove2.me/theorems/a5ab1431-96b8-4815-ba90-757ffc74dc1b

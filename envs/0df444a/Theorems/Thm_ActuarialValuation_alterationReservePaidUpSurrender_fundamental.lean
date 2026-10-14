@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationReservePaidUpSurrender_fundamental
 -- name    : ActuarialValuation.alterationReservePaidUpSurrender_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:39.932331+00:00
 -- url     : https://prove2.me/theorems/21a2089e-f753-48c4-92f5-71edba9128a7

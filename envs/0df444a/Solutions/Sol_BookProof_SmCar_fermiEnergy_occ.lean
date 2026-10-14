@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.SmCar.fermiEnergy_occ
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:35:06.803877+00:00
 -- url     : https://prove2.me/submissions/28134731-35ee-4975-8c73-94e9a8fee4f8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterSmCarAlgebra.lean — solution of BookProof.SmCar.fermiEnergy_occ
 import Mathlib

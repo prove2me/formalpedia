@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfModifiedRate_zero_deficit
 -- name    : ActuarialValuation.pfModifiedRate_zero_deficit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:27.920617+00:00
 -- url     : https://prove2.me/theorems/ccc8b0b1-0816-49bc-af10-e551d3038cb5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnTwoStep_symmetry
 -- name    : ActuarialValuation.bnTwoStep_symmetry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:33.062376+00:00
 -- url     : https://prove2.me/theorems/f9c52093-59a1-456c-b0c1-35084a335b45

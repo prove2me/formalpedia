@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_Potential_eq_16
 -- name    : AdaptiveStepIPM.Potential.eq_16
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:50:27.524007+00:00
 -- url     : https://prove2.me/theorems/d64ca740-6f0c-47c2-ba2c-0ed6282e00e2

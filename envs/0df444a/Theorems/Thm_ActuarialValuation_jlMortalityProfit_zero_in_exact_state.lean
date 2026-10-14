@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlMortalityProfit_zero_in_exact_state
 -- name    : ActuarialValuation.jlMortalityProfit_zero_in_exact_state
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:09:57.202172+00:00
 -- url     : https://prove2.me/theorems/d73f54e7-3276-4296-9bb9-397720345ff5

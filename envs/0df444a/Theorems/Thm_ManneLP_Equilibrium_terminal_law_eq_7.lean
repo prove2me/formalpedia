@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_terminal_law_eq_7
 -- name    : ManneLP.Equilibrium.terminal_law_eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:09:22.122828+00:00
 -- url     : https://prove2.me/theorems/2c089901-2db3-4338-8c1f-6fdda8710aac

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_DualGreedy_greedy_forward_monotone
 -- name    : WagelmansELS.DualGreedy.greedy_forward_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:57:54.458242+00:00
 -- url     : https://prove2.me/theorems/a7dc2af5-bb74-4652-8bef-4e8c014c7ae8

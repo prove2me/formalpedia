@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProxAlg_FixedPoint_forward_backward_fixed_point
 -- name    : ProxAlg.FixedPoint.forward_backward_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:03.824982+00:00
 -- url     : https://prove2.me/theorems/cdcb1ab6-a580-4fba-8cf4-bcfda131b294

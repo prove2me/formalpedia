@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoysterInexactLP_Auxiliary_lemma_X_convex
 -- name    : SoysterInexactLP.Auxiliary.lemma_X_convex
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:37:08.277014+00:00
 -- url     : https://prove2.me/theorems/b146b8f2-6798-4d2d-8107-d255d97c6942

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnAmerican_wait_when_optimal
 -- name    : ActuarialValuation.bnAmerican_wait_when_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:48.754051+00:00
 -- url     : https://prove2.me/theorems/507deb0e-6997-40c9-b66b-2b0a05ac8320

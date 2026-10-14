@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_Strength_ineq_8
 -- name    : L0BnB.Strength.ineq_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T00:22:47.49033+00:00
 -- url     : https://prove2.me/theorems/f46c436c-8782-4b1c-a91e-2c03716cb621

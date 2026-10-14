@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnHedge_cost_riskneutral
 -- name    : ActuarialValuation.bnHedge_cost_riskneutral
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:30.871984+00:00
 -- url     : https://prove2.me/theorems/332aed64-9e44-40d5-852f-f5393abb4a3b

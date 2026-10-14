@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GoldieRenewal_Implicit_lemma_2_2
 -- name    : GoldieRenewal.Implicit.lemma_2_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:57.815975+00:00
 -- url     : https://prove2.me/theorems/6d6fb73c-5e9f-46ce-9c1f-65e5ed067bd4

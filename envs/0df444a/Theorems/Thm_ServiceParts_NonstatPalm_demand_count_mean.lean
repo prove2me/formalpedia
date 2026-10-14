@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_NonstatPalm_demand_count_mean
 -- name    : ServiceParts.NonstatPalm.demand_count_mean
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:56:34.205271+00:00
 -- url     : https://prove2.me/theorems/76dbb29d-6bbc-401a-8b45-b2d0487a1565

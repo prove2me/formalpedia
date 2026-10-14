@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucAmortisationRate_nonneg
 -- name    : ActuarialValuation.pucAmortisationRate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:11:05.540665+00:00
 -- url     : https://prove2.me/theorems/850eeaf1-19dc-4aa1-9d24-778ce90475c3

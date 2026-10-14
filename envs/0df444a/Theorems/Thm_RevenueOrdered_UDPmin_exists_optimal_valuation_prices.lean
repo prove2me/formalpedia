@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_UDPmin_exists_optimal_valuation_prices
 -- name    : RevenueOrdered.UDPmin.exists_optimal_valuation_prices
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:56:09.955648+00:00
 -- url     : https://prove2.me/theorems/df0c083b-1741-4199-bc67-f38ee8aa831d

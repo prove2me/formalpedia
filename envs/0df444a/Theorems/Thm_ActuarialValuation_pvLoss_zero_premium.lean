@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvLoss_zero_premium
 -- name    : ActuarialValuation.pvLoss_zero_premium
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:28.330979+00:00
 -- url     : https://prove2.me/theorems/6f522210-fd5d-4487-9bf4-674c611cd61d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratIndicatedBase_cancel
 -- name    : ActuarialValuation.ratIndicatedBase_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:44:21.549359+00:00
 -- url     : https://prove2.me/theorems/9e8d2128-b084-4a0f-af76-53ba7af6dbf0

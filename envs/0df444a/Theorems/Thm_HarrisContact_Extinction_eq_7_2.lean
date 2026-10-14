@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisContact_Extinction_eq_7_2
 -- name    : HarrisContact.Extinction.eq_7_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T11:56:14.541777+00:00
 -- url     : https://prove2.me/theorems/e1966829-0558-4d36-8a6c-30403459b109

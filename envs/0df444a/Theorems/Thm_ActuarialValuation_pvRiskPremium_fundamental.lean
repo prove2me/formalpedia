@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvRiskPremium_fundamental
 -- name    : ActuarialValuation.pvRiskPremium_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:24:51.116233+00:00
 -- url     : https://prove2.me/theorems/ccdc6d8d-7956-4156-aaff-2ecc03f4b1b9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedProductSiteCutoff_sites_quarter
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedProductSiteCutoff_sites_quarter
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:41:09.696988+00:00
 -- url     : https://prove2.me/theorems/b12376d2-0435-41b0-bda3-827197046e05

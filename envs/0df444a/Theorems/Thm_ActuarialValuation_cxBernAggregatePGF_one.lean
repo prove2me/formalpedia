@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxBernAggregatePGF_one
 -- name    : ActuarialValuation.cxBernAggregatePGF_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:58:51.994112+00:00
 -- url     : https://prove2.me/theorems/f58abf49-0997-4e03-9ffd-d78747ea3ce5

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_singleton
 -- name    : ActuarialValuation.crRisk_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:39.569456+00:00
 -- url     : https://prove2.me/theorems/b4ae0ecb-2375-4e35-bf84-ae25908f296f

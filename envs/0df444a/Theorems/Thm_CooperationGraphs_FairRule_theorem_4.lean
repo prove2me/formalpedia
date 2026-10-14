@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_theorem_4
 -- name    : CooperationGraphs.FairRule.theorem_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:10.009554+00:00
 -- url     : https://prove2.me/theorems/19193641-5b56-4e49-a497-7d2e1cb9c43e

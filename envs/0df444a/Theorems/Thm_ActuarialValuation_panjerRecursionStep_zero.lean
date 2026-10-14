@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerRecursionStep_zero
 -- name    : ActuarialValuation.panjerRecursionStep_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:37:41.820072+00:00
 -- url     : https://prove2.me/theorems/c68fe3ae-538e-46d0-83d6-241990279b57

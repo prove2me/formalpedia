@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerCountableChain_stick_tsum_one
 -- name    : BookProof.ChapterEulerCountableChain.stick_tsum_one
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:26:26.611429+00:00
 -- url     : https://prove2.me/theorems/0c738c4e-62e2-4882-9e59-3ecce110bcc4

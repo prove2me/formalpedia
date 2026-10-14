@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frNetPremium_balance
 -- name    : ActuarialValuation.frNetPremium_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:23:38.953245+00:00
 -- url     : https://prove2.me/theorems/f5528391-1ea7-48ac-bd3f-4a83f3a35a7e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erSeverityTail_add
 -- name    : ActuarialValuation.erSeverityTail_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:59:06.787905+00:00
 -- url     : https://prove2.me/theorems/c1636c30-6912-48a9-a95a-57ef46fcdde7

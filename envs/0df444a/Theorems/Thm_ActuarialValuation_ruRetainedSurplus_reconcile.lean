@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRetainedSurplus_reconcile
 -- name    : ActuarialValuation.ruRetainedSurplus_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:03:20.428348+00:00
 -- url     : https://prove2.me/theorems/82498719-a234-4284-9ac6-45fc64e22464

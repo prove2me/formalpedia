@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_positive_homogeneous
 -- name    : ActuarialValuation.crRisk_positive_homogeneous
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:08.964018+00:00
 -- url     : https://prove2.me/theorems/68d79942-82a2-4943-baa5-cdb320741876

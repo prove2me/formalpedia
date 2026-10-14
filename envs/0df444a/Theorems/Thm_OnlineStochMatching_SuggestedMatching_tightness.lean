@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OnlineStochMatching_SuggestedMatching_tightness
 -- name    : OnlineStochMatching.SuggestedMatching.tightness
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T22:03:17.299003+00:00
 -- url     : https://prove2.me/theorems/9926fae1-414b-4f41-bb94-c8239db9d043

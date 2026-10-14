@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siIndependentTwoMean_zero
 -- name    : ActuarialValuation.siIndependentTwoMean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:47.878717+00:00
 -- url     : https://prove2.me/theorems/690e6d8b-8fa0-4693-9791-3b0f5ede6061

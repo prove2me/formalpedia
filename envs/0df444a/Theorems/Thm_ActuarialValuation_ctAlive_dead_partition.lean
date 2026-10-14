@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ctAlive_dead_partition
 -- name    : ActuarialValuation.ctAlive_dead_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:54:33.737064+00:00
 -- url     : https://prove2.me/theorems/4cae0ba9-fe14-4141-9232-35fbb8ea75b7

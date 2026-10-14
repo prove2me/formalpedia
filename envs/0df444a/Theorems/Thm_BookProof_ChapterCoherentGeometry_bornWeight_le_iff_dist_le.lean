@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterCoherentGeometry_bornWeight_le_iff_dist_le
 -- name    : BookProof.ChapterCoherentGeometry.bornWeight_le_iff_dist_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T21:52:29.50498+00:00
 -- url     : https://prove2.me/theorems/943a8042-cc54-4ed8-8a61-1cd9af2194d8

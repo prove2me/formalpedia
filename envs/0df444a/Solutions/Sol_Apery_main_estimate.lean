@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for Apery.main_estimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @shivm
 -- created : 2026-10-04T18:46:14.367183+00:00
 -- url     : https://prove2.me/submissions/7f2f1b9d-9466-4230-9510-d4574ef700cc
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HankelIrrationality_decay_of_normalized_family
 import Theorems.Thm_Apery_natDegree_F

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commTemporaryAnnuity_nonneg
 -- name    : ActuarialValuation.commTemporaryAnnuity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:16:37.330847+00:00
 -- url     : https://prove2.me/theorems/1b454ae9-70f0-4c59-9568-b4e103f2c196

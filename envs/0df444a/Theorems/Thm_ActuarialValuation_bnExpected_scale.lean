@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnExpected_scale
 -- name    : ActuarialValuation.bnExpected_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:06.246979+00:00
 -- url     : https://prove2.me/theorems/582746a1-acf9-4d41-a4a6-2e8592fa2d9e

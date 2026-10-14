@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_hull_eq_polar_inter_reverse_polar
 -- name    : Disjunctive.Polarity.hull_eq_polar_inter_reverse_polar
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:21:47.038711+00:00
 -- url     : https://prove2.me/theorems/0efbbab5-b889-44e6-b3a4-5103af885c91

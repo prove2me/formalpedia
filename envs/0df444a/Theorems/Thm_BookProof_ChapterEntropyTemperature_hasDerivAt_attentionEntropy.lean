@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropyTemperature_hasDerivAt_attentionEntropy
 -- name    : BookProof.ChapterEntropyTemperature.hasDerivAt_attentionEntropy
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:49:54.49999+00:00
 -- url     : https://prove2.me/theorems/12c6ad32-ec81-4062-9831-f7f9ba3bcf63

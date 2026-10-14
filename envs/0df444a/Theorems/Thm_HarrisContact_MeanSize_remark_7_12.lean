@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HarrisContact_MeanSize_remark_7_12
 -- name    : HarrisContact.MeanSize.remark_7_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:27:17.033986+00:00
 -- url     : https://prove2.me/theorems/5e79887a-9477-490a-b2da-40816b962d5e

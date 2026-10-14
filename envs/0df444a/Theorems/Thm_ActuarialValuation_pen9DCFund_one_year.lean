@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9DCFund_one_year
 -- name    : ActuarialValuation.pen9DCFund_one_year
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:07.186024+00:00
 -- url     : https://prove2.me/theorems/0393035e-e6f0-4eee-9ca7-12235014e6aa

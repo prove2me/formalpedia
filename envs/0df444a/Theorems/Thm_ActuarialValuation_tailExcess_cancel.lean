@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailExcess_cancel
 -- name    : ActuarialValuation.tailExcess_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:31:20.00798+00:00
 -- url     : https://prove2.me/theorems/42287784-a863-4d18-b98a-eb8e787c266a

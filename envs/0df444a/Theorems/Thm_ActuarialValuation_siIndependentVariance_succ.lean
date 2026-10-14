@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siIndependentVariance_succ
 -- name    : ActuarialValuation.siIndependentVariance_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:56.889865+00:00
 -- url     : https://prove2.me/theorems/12264536-d0dd-4e1f-b49b-a886af9477b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RadGauss_LipschitzGaussian_theorem_14
 -- name    : RadGauss.LipschitzGaussian.theorem_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T09:06:12.193562+00:00
 -- url     : https://prove2.me/theorems/6a51fd00-7195-4332-9286-26d55749da16

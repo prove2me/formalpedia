@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_FixedOrder_shift_cost_eq
 -- name    : GTWSched.FixedOrder.shift_cost_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:39:43.108599+00:00
 -- url     : https://prove2.me/theorems/9c0ed9b0-f6e2-4b2c-9125-764b9882e178

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulCredited_floor
 -- name    : ActuarialValuation.ulCredited_floor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:02.558789+00:00
 -- url     : https://prove2.me/theorems/782863fc-eb49-46cc-b2fe-8818aa6ea78e

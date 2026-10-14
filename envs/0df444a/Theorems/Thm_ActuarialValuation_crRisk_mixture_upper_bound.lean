@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_mixture_upper_bound
 -- name    : ActuarialValuation.crRisk_mixture_upper_bound
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:57.167973+00:00
 -- url     : https://prove2.me/theorems/90da4562-296e-4058-98be-a900f9f2bb97

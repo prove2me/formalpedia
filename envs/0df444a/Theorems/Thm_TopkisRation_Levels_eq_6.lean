@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Levels_eq_6
 -- name    : TopkisRation.Levels.eq_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:41.804597+00:00
 -- url     : https://prove2.me/theorems/09f786f7-367f-44fa-8320-2ff44dfb9d02

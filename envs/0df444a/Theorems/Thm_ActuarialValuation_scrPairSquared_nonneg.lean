@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPairSquared_nonneg
 -- name    : ActuarialValuation.scrPairSquared_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:13:58.251162+00:00
 -- url     : https://prove2.me/theorems/195c9307-755a-45e1-ae35-06d75ce30544

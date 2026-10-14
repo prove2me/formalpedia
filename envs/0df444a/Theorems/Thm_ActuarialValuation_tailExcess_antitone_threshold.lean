@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailExcess_antitone_threshold
 -- name    : ActuarialValuation.tailExcess_antitone_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:33:02.003755+00:00
 -- url     : https://prove2.me/theorems/89fa2129-c609-4fa9-8896-1992a96c9608

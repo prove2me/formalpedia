@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_Biclique_upper_bound_schedule
 -- name    : SingleMachinePrec.Biclique.upper_bound_schedule
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:22:26.888984+00:00
 -- url     : https://prove2.me/theorems/e208faf5-7971-4619-a0b4-55eb47936c0c

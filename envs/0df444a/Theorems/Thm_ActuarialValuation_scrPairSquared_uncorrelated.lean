@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPairSquared_uncorrelated
 -- name    : ActuarialValuation.scrPairSquared_uncorrelated
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:13:33.237238+00:00
 -- url     : https://prove2.me/theorems/ae03febd-9aa0-47e4-80f8-81948d808ed0

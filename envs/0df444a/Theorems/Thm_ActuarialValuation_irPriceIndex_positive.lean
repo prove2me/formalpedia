@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irPriceIndex_positive
 -- name    : ActuarialValuation.irPriceIndex_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:18.075445+00:00
 -- url     : https://prove2.me/theorems/057a710c-44c7-4cc5-9285-52cf2ac56591

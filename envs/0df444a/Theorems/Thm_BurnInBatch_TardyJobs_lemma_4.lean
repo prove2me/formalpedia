@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_TardyJobs_lemma_4
 -- name    : BurnInBatch.TardyJobs.lemma_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:10.866981+00:00
 -- url     : https://prove2.me/theorems/74030ce4-4498-4788-a0c5-b550cdfb9e49

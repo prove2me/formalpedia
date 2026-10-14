@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgOuterFockFL_dsFibOp_commForm_le
 -- name    : BookProof.QgOuterFockFL.dsFibOp_commForm_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T10:33:49.769465+00:00
 -- url     : https://prove2.me/theorems/2c597deb-8510-47ec-aaf8-2c65ab8353ca

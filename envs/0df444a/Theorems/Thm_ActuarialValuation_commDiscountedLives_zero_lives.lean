@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commDiscountedLives_zero_lives
 -- name    : ActuarialValuation.commDiscountedLives_zero_lives
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:17:12.016138+00:00
 -- url     : https://prove2.me/theorems/26f89733-5a3f-4863-bf69-8f8c57d21650

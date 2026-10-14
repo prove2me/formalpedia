@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_DirectSumEsa_dsOp_deficiencyTrivialAt
 -- name    : BookProof.DirectSumEsa.dsOp_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:58:59.253154+00:00
 -- url     : https://prove2.me/theorems/60c6f1f5-00b3-4861-80cb-6c7fea0c88ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_SemicontSelection_prop7_31_semicontinuous_integral
 -- name    : BertsekasShreve.SemicontSelection.prop7_31_semicontinuous_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:49:58.557192+00:00
 -- url     : https://prove2.me/theorems/bb37965c-f0c9-45fd-9ee2-542c452e28e7

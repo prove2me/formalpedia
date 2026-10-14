@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_MomentumEsa_fockComparison_add_one_surjective
 -- name    : BookProof.NavierStokesFlow.MomentumEsa.fockComparison_add_one_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T07:54:09.531989+00:00
 -- url     : https://prove2.me/theorems/2a9f1d36-80e4-4629-9b95-25f895e47bcb

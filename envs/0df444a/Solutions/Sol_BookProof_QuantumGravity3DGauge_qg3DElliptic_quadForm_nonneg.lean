@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.QuantumGravity3DGauge.qg3DElliptic_quadForm_nonneg
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T09:47:57.424024+00:00
 -- url     : https://prove2.me/submissions/b20803a9-bcfd-4279-b986-1c00f33c5e24
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterQuantumGravity3DGauge.lean — solution of BookProof.QuantumGravity3DGauge.qg3DElliptic_quadForm_nonneg
 import Mathlib

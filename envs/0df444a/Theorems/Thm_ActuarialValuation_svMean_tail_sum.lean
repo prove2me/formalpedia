@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svMean_tail_sum
 -- name    : ActuarialValuation.svMean_tail_sum
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:21:46.223699+00:00
 -- url     : https://prove2.me/theorems/aeb9c163-d222-49a7-abc4-1608a4a36248

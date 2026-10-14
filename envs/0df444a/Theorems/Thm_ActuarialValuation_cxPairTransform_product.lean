@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPairTransform_product
 -- name    : ActuarialValuation.cxPairTransform_product
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:56:22.209975+00:00
 -- url     : https://prove2.me/theorems/baeda216-9db3-4b38-8fe6-17777dd528a3

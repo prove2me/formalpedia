@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlStateStrain_balance
 -- name    : ActuarialValuation.jlStateStrain_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:32.692313+00:00
 -- url     : https://prove2.me/theorems/912f6c05-b48a-496b-9ac7-5b0a2ee4812c

@@ -10,8 +10,12 @@
 --   Let E be a complex inner-product space, T a continuous complex-linear map, and B a complex-valued form satisfying subtraction in both arguments and symmetry of its real part. The weak inverse equation is B(TR,u)=⟨R,u⟩ for every u. No boundedness of B is assumed. For R,h in E satisfying that weak inverse equation, Re B(h−TR,h−TR)+2 Re⟨R,h−TR⟩ = Re B(h,h)−Re⟨R,TR⟩.
 --
 --   Exact native statement, definitions and coordinate order are preserved. Original-form realization attachments are unproved future formalization; complete 1.06 positivity, global continuation and RH are not established.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/FormCompletion.lean#L5-L19; exact native theorem WeilDefect.RPB108.high_form_square_completion. SHA256 9d83ac9a57bec7771c1b9d156306326c08b8e3b9f013f38b02f37c875a13301c. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialFoundations_fa_endowment_assurance_cashflow
 -- name    : ActuarialFoundations.fa_endowment_assurance_cashflow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-11T06:50:34.591604+00:00
 -- url     : https://prove2.me/theorems/910eb0d1-6fc8-4b36-a0d6-075b841c8e9a

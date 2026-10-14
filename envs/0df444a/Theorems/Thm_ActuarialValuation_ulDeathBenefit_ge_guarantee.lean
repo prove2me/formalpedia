@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulDeathBenefit_ge_guarantee
 -- name    : ActuarialValuation.ulDeathBenefit_ge_guarantee
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:49.338956+00:00
 -- url     : https://prove2.me/theorems/5e418e51-c035-41f6-82b9-22d218f78293

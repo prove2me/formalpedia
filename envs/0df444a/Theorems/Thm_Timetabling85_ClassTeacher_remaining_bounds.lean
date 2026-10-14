@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_ClassTeacher_remaining_bounds
 -- name    : Timetabling85.ClassTeacher.remaining_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:09.356572+00:00
 -- url     : https://prove2.me/theorems/df30f219-cad1-4536-a11c-77cbf536a9f1

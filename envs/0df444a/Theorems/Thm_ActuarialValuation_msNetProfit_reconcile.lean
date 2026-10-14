@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msNetProfit_reconcile
 -- name    : ActuarialValuation.msNetProfit_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:00:57.213883+00:00
 -- url     : https://prove2.me/theorems/17abfe1e-49bf-427a-ba8b-d739fc7bf58d

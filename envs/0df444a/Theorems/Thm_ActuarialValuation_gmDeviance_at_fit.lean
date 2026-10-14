@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmDeviance_at_fit
 -- name    : ActuarialValuation.gmDeviance_at_fit
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:09:07.040534+00:00
 -- url     : https://prove2.me/theorems/d92aa061-4301-49e1-b892-66abf76e98c4

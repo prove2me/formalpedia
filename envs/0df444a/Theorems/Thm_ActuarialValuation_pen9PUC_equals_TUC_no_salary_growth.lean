@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9PUC_equals_TUC_no_salary_growth
 -- name    : ActuarialValuation.pen9PUC_equals_TUC_no_salary_growth
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:36.673582+00:00
 -- url     : https://prove2.me/theorems/bb21d32b-7755-40a5-965a-2fef0b9fe75e

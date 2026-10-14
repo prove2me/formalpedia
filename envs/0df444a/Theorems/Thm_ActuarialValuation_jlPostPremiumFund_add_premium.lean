@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlPostPremiumFund_add_premium
 -- name    : ActuarialValuation.jlPostPremiumFund_add_premium
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:19.890974+00:00
 -- url     : https://prove2.me/theorems/78ebae4c-b291-4331-b9f4-3dae975eaf6a

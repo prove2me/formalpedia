@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exSurvival_derivative
 -- name    : ActuarialValuation.exSurvival_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:09.948935+00:00
 -- url     : https://prove2.me/theorems/e44f3672-246c-475f-bb25-ffdc364f8582

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailStopLoss_zero_weights
 -- name    : ActuarialValuation.tailStopLoss_zero_weights
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:40:09.534771+00:00
 -- url     : https://prove2.me/theorems/f110ac22-5ba7-489a-b420-82b23ffa7d95

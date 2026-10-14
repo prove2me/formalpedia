@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_FirstFit_ratio_limit_eq
 -- name    : BinPacking.FirstFit.ratio_limit_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:09:19.234984+00:00
 -- url     : https://prove2.me/theorems/740b072f-5904-4c56-99df-302b8f5c2354

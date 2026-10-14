@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_barrett_reconstruction
 -- name    : GaugeFunctor.barrett_reconstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T09:55:53.296142+00:00
 -- url     : https://prove2.me/theorems/14d726a2-6262-4093-b852-79cb62bdef44

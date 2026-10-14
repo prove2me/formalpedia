@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhEndowment_no_payment
 -- name    : ActuarialValuation.nhEndowment_no_payment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:18:24.762593+00:00
 -- url     : https://prove2.me/theorems/79eb2f5a-0d65-4abd-9d66-27afa69a1a5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_NSHashimoto_velCore_esa
 -- name    : BookProof.NavierStokesFlow.NSHashimoto.velCore_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T04:59:30.837151+00:00
 -- url     : https://prove2.me/theorems/387bc96a-9fff-4c09-b69b-7c81455f9d70

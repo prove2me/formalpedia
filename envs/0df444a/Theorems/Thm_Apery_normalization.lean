@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_normalization
 -- name    : Apery.normalization
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T11:16:56.969094+00:00
 -- url     : https://prove2.me/theorems/1a043aaa-ca26-4a90-9ca2-aac4b03428c3

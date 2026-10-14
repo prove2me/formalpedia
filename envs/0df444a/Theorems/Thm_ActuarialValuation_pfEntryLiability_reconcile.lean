@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfEntryLiability_reconcile
 -- name    : ActuarialValuation.pfEntryLiability_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T17:59:54.763872+00:00
 -- url     : https://prove2.me/theorems/a4aec1f6-7afd-4bdd-9ea0-77e6a11c7cdd

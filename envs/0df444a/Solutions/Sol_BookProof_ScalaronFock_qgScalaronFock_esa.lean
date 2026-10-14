@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ScalaronFock.qgScalaronFock_esa
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:18:21.788464+00:00
 -- url     : https://prove2.me/submissions/150eb297-c075-4d30-ad6f-0a9d1f4f235f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterScalaronFockEsa.lean — solution of BookProof.ScalaronFock.qgScalaronFock_esa
 import Mathlib

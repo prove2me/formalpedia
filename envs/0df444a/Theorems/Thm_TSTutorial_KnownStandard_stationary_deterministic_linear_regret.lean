@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TSTutorial_KnownStandard_stationary_deterministic_linear_regret
 -- name    : TSTutorial.KnownStandard.stationary_deterministic_linear_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T23:14:51.214522+00:00
 -- url     : https://prove2.me/theorems/dfd866d6-9f82-40b7-a25d-0e136a54202d

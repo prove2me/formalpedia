@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruDeficit_zero_if_nonnegative
 -- name    : ActuarialValuation.ruDeficit_zero_if_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:00:44.643995+00:00
 -- url     : https://prove2.me/theorems/6e6b4b7a-89f4-4278-ad28-4ef1d600776f

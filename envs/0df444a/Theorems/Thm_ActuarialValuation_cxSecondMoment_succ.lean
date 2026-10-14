@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxSecondMoment_succ
 -- name    : ActuarialValuation.cxSecondMoment_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:57:30.326011+00:00
 -- url     : https://prove2.me/theorems/8d0ec756-9d7a-4782-8408-4d1b304807b9

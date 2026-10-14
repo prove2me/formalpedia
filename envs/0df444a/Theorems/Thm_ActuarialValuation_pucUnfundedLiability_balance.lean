@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucUnfundedLiability_balance
 -- name    : ActuarialValuation.pucUnfundedLiability_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:08:09.660901+00:00
 -- url     : https://prove2.me/theorems/cbc8e138-6261-43ed-bfef-6cc4eb9ab2d1

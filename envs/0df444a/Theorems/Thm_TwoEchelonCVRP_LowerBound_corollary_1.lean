@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoEchelonCVRP_LowerBound_corollary_1
 -- name    : TwoEchelonCVRP.LowerBound.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T15:13:30.397221+00:00
 -- url     : https://prove2.me/theorems/59305019-6c9a-4b85-8158-fd03b9bbc14f

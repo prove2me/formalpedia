@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_MaxDisc_normalize_after
 -- name    : GTWSched.MaxDisc.normalize_after
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:50:23.423769+00:00
 -- url     : https://prove2.me/theorems/0102d78a-6598-48ca-ac25-e635d1ff350b

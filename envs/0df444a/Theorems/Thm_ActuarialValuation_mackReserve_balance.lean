@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackReserve_balance
 -- name    : ActuarialValuation.mackReserve_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:53.118214+00:00
 -- url     : https://prove2.me/theorems/c3b02685-5b14-490e-97e1-4d77690c6a45

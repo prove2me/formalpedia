@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcRateRatio_inverse
 -- name    : ActuarialValuation.lcRateRatio_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:44:06.365797+00:00
 -- url     : https://prove2.me/theorems/c6c661f2-f3e7-4267-a92b-e31ee2c056ea

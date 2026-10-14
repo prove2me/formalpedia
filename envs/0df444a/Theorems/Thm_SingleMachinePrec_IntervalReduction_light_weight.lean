@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_IntervalReduction_light_weight
 -- name    : SingleMachinePrec.IntervalReduction.light_weight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:32:07.940253+00:00
 -- url     : https://prove2.me/theorems/9967b9ce-2e3a-40db-bb50-2ccdfe603c08

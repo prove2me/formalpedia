@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmScore_derivative
 -- name    : ActuarialValuation.gmScore_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:30.000667+00:00
 -- url     : https://prove2.me/theorems/c27ceb9e-d581-4125-bdb6-7c6299dc3621

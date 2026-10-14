@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_six_implies_seven_bounds
 -- name    : SendSplit.Existence.six_implies_seven_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:24:22.694945+00:00
 -- url     : https://prove2.me/theorems/397eea1a-6833-4252-b049-154d8331bdf0

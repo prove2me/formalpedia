@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_firstOrderOp_essentiallySelfAdjoint
 -- name    : BookProof.FourierMultiplierEsa.firstOrderOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:23:31.918919+00:00
 -- url     : https://prove2.me/theorems/2b6905b8-cac7-4f05-871d-eb7c38d741eb

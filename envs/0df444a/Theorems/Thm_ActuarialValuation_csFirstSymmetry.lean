@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csFirstSymmetry
 -- name    : ActuarialValuation.csFirstSymmetry
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:21.724131+00:00
 -- url     : https://prove2.me/theorems/97ad8b1e-6d60-415e-bfdc-5a9e866599e3

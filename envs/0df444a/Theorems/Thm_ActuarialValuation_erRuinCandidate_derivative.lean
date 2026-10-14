@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erRuinCandidate_derivative
 -- name    : ActuarialValuation.erRuinCandidate_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T16:01:30.567838+00:00
 -- url     : https://prove2.me/theorems/3ad9fc4e-8dc2-4a48-8f3d-48065e12175a

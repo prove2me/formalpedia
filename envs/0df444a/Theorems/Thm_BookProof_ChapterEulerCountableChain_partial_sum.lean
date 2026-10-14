@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEulerCountableChain_partial_sum
 -- name    : BookProof.ChapterEulerCountableChain.partial_sum
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T03:26:30.090638+00:00
 -- url     : https://prove2.me/theorems/4ccc010e-cdb6-4dfa-aa00-2c9f0fd58005

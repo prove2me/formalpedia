@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRetainedSurplus_ge_gross
 -- name    : ActuarialValuation.ruRetainedSurplus_ge_gross
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:03:37.512893+00:00
 -- url     : https://prove2.me/theorems/d55a74fd-df91-4901-b8e3-90346c54bf6d

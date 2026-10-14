@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PHLowerBound_TwoStage_pha_lower_bound
 -- name    : PHLowerBound.TwoStage.pha_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:03.913299+00:00
 -- url     : https://prove2.me/theorems/505435ac-6c52-4d0d-ba53-fe5454d82e6e

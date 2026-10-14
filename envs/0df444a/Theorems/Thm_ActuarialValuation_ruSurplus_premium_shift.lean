@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruSurplus_premium_shift
 -- name    : ActuarialValuation.ruSurplus_premium_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:56:07.866028+00:00
 -- url     : https://prove2.me/theorems/a12eaf33-3483-49fc-bf88-d4bceb3c7ae8

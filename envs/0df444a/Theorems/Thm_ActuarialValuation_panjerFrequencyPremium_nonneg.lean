@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerFrequencyPremium_nonneg
 -- name    : ActuarialValuation.panjerFrequencyPremium_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:44:24.545766+00:00
 -- url     : https://prove2.me/theorems/c4bd87ed-2b05-4bde-9ede-1103f09492c2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srStochasticRuin_fundamental
 -- name    : ActuarialValuation.srStochasticRuin_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:25:22.055234+00:00
 -- url     : https://prove2.me/theorems/81821acb-0ca6-4adb-a99b-f8fdb2a4eb81

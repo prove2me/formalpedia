@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmCar_occupation_apply
 -- name    : BookProof.SmCar.occupation_apply
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T23:00:29.928219+00:00
 -- url     : https://prove2.me/theorems/aa060857-1033-4f1f-821d-e6b0e0289e0f

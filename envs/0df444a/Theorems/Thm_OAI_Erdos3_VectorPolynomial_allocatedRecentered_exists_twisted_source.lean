@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedRecentered_exists_twisted_source
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedRecentered_exists_twisted_source
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T02:30:29.242261+00:00
 -- url     : https://prove2.me/theorems/0229eeb9-1d3f-4088-b5da-8ae4e3b506d3

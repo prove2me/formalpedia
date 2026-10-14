@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipfPMF_mean
 -- name    : ZipfLaw.zipfPMF_mean
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:28:43.198065+00:00
 -- url     : https://prove2.me/theorems/2433609e-8cc9-4d45-aa7c-8a19848af3c3

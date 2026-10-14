@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRisk_two_scenario_nonlaw_invariant
 -- name    : ActuarialValuation.crRisk_two_scenario_nonlaw_invariant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:38:37.852024+00:00
 -- url     : https://prove2.me/theorems/bc726820-760e-4142-97d2-e085bf33e893

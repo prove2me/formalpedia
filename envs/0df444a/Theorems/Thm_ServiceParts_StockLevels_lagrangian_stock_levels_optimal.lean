@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_lagrangian_stock_levels_optimal
 -- name    : ServiceParts.StockLevels.lagrangian_stock_levels_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:29:14.969097+00:00
 -- url     : https://prove2.me/theorems/c1faea29-dfda-4e9f-8647-90c23daf2328

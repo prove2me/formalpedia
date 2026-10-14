@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittleGittins_Retirement_relation21_L_le
 -- name    : WhittleGittins.Retirement.relation21_L_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:32.983005+00:00
 -- url     : https://prove2.me/theorems/6fdd3548-21ff-45d3-8e29-ca941959bff0

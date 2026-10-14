@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfModifiedRate_clears
 -- name    : ActuarialValuation.pfModifiedRate_clears
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:39.594705+00:00
 -- url     : https://prove2.me/theorems/de086216-6dce-43b3-b27e-d2210f6226b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_HvdH_theorem_1_1_kappa_zero
 -- name    : IntMul.HvdH.theorem_1_1_kappa_zero
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-08T17:36:22.246265+00:00
 -- url     : https://prove2.me/theorems/18b79a4a-90d3-4c7b-9181-4cb193d4a7d4

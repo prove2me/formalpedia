@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coUpper_tail_joint
 -- name    : ActuarialValuation.coUpper_tail_joint
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:14.860203+00:00
 -- url     : https://prove2.me/theorems/cd272ace-4e25-4e1e-bc33-2ea5fb4f45fb

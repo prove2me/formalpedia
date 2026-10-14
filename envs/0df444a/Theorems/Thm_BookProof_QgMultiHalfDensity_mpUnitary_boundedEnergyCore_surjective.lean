@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QgMultiHalfDensity_mpUnitary_boundedEnergyCore_surjective
 -- name    : BookProof.QgMultiHalfDensity.mpUnitary_boundedEnergyCore_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T17:36:35.157981+00:00
 -- url     : https://prove2.me/theorems/47292d32-2cb2-46b8-aeee-d87b57c264aa

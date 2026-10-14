@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srStoppedMoment_nonneg
 -- name    : ActuarialValuation.srStoppedMoment_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:24:05.553977+00:00
 -- url     : https://prove2.me/theorems/084202e8-c1f2-43b7-8454-6a43a6d94fda

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_ListSched_volume_lower_bound
 -- name    : BurnInBatch.ListSched.volume_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T14:06:46.630008+00:00
 -- url     : https://prove2.me/theorems/419b23b5-7175-4863-99e7-69e507aedfee

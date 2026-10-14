@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_Suboptimality_greatest_prevailing_charge_ge_gittins
 -- name    : WeberGittins.Suboptimality.greatest_prevailing_charge_ge_gittins
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:14.994966+00:00
 -- url     : https://prove2.me/theorems/9d50b950-f8e7-4d65-9c54-bea745c1a22e

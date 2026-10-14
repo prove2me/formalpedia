@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exDensity_nonneg
 -- name    : ActuarialValuation.exDensity_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:04:40.391763+00:00
 -- url     : https://prove2.me/theorems/99a43873-de3a-428c-b5ae-4176ef237cea

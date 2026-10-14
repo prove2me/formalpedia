@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srEverRuin_capital_antitone
 -- name    : ActuarialValuation.srEverRuin_capital_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:11:28.108956+00:00
 -- url     : https://prove2.me/theorems/787430ad-4678-45ad-8c29-f58fa26a56c3

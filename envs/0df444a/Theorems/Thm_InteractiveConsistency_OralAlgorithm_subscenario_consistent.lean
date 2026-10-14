@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_OralAlgorithm_subscenario_consistent
 -- name    : InteractiveConsistency.OralAlgorithm.subscenario_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:31:36.629459+00:00
 -- url     : https://prove2.me/theorems/62c998db-378d-4958-9ea8-e5327f4f15fb

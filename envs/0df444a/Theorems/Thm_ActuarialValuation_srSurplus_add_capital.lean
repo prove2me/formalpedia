@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srSurplus_add_capital
 -- name    : ActuarialValuation.srSurplus_add_capital
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:09.338597+00:00
 -- url     : https://prove2.me/theorems/f5f87785-8509-4fc0-af02-b7bf61431917

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExactSDPDuality_ELSD_duality_theorem
 -- name    : ExactSDPDuality.ELSD.duality_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T00:20:42.910553+00:00
 -- url     : https://prove2.me/theorems/d2c9489c-2240-4ca0-a8f6-a86ba9fc13d4

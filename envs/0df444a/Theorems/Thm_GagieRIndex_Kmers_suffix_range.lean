@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GagieRIndex_Kmers_suffix_range
 -- name    : GagieRIndex.Kmers.suffix_range
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:24:05.497999+00:00
 -- url     : https://prove2.me/theorems/248f46af-bac8-456f-b393-7cc3b360d778

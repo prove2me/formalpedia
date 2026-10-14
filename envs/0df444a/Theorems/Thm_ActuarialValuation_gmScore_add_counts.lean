@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmScore_add_counts
 -- name    : ActuarialValuation.gmScore_add_counts
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:30.279987+00:00
 -- url     : https://prove2.me/theorems/c4ad6db5-2de9-4bc4-b40d-92c8993cc963

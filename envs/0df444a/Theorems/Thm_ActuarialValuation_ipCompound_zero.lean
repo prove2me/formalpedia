@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipCompound_zero
 -- name    : ActuarialValuation.ipCompound_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:10:14.142995+00:00
 -- url     : https://prove2.me/theorems/3d928b23-6aed-49ab-b304-8af9fc9eade2

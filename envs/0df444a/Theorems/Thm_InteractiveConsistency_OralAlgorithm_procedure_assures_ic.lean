@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_OralAlgorithm_procedure_assures_ic
 -- name    : InteractiveConsistency.OralAlgorithm.procedure_assures_ic
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:36:27.023976+00:00
 -- url     : https://prove2.me/theorems/453707fe-d31d-4039-826a-51bc2a57d6a5

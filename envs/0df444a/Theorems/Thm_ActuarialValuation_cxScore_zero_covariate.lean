@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxScore_zero_covariate
 -- name    : ActuarialValuation.cxScore_zero_covariate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:18:54.122017+00:00
 -- url     : https://prove2.me/theorems/5e507e5e-e540-436f-b134-99223c55cfbb

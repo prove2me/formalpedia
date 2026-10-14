@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Hilbert_ext_of_finite_projections
 -- name    : DistCov.Hilbert.ext_of_finite_projections
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:39.756521+00:00
 -- url     : https://prove2.me/theorems/41c87de1-c36b-4f30-ac00-3ae8d2bed589

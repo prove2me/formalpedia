@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SennottDP_SEN_prop_B_6_bounded_subsequence
 -- name    : SennottDP.SEN.prop_B_6_bounded_subsequence
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T09:45:42.277249+00:00
 -- url     : https://prove2.me/theorems/36076d27-9f63-47ca-9375-2e336be25df7

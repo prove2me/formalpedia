@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_diagMax_add_one_surjective
 -- name    : BookProof.NavierStokesFlow.IkebeKato.diagMax_add_one_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:21:47.940979+00:00
 -- url     : https://prove2.me/theorems/99058db8-b2ca-48bc-a9cc-41616303cb40

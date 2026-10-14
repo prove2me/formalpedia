@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ShiftedQuadraticDegenerate.exists_equilibrium
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T09:33:09.233986+00:00
 -- url     : https://prove2.me/submissions/ea72b90f-7018-4678-9963-f5e3fd0aeebb
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterShiftedQuadraticDegenerate.lean — solution of BookProof.ShiftedQuadraticDegenerate.exists_equilibrium
 import Mathlib

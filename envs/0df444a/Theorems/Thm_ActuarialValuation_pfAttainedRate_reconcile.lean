@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAttainedRate_reconcile
 -- name    : ActuarialValuation.pfAttainedRate_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:20.480701+00:00
 -- url     : https://prove2.me/theorems/c2e2110e-7313-45c5-b7fc-7270837882e0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedOriginalSampleFullSliceMap_supported_lipschitzOn
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedOriginalSampleFullSliceMap_supported_lipschitzOn
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:09:43.329844+00:00
 -- url     : https://prove2.me/theorems/ad7722f7-7129-46ae-a59d-e14b57ee4f19

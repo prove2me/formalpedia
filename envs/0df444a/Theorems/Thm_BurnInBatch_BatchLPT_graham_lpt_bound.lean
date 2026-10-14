@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_BatchLPT_graham_lpt_bound
 -- name    : BurnInBatch.BatchLPT.graham_lpt_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:36:23.370855+00:00
 -- url     : https://prove2.me/theorems/262a8c96-13b4-4316-b651-6e4c112aa3cd

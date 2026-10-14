@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_Empirical_local_times_8
 -- name    : CappeKLUCB.Empirical.local_times_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:08:25.983963+00:00
 -- url     : https://prove2.me/theorems/024e5ab7-6a44-4bdf-9128-22a7c894e640

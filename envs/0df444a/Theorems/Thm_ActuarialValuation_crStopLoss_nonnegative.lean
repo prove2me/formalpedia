@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLoss_nonnegative
 -- name    : ActuarialValuation.crStopLoss_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:33.428319+00:00
 -- url     : https://prove2.me/theorems/ddd468bd-4287-4908-8d20-b5d57a37e0b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailLossMean_nonneg
 -- name    : ActuarialValuation.tailLossMean_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:30:42.639602+00:00
 -- url     : https://prove2.me/theorems/8bdc89b2-0b0b-4b61-b1d7-75df0d2a3d56

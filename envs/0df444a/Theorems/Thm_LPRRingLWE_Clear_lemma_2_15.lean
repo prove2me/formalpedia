@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LPRRingLWE_Clear_lemma_2_15
 -- name    : LPRRingLWE.Clear.lemma_2_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T04:33:51.469111+00:00
 -- url     : https://prove2.me/theorems/9e52e001-17b8-4441-b60c-1b99b3a9303b

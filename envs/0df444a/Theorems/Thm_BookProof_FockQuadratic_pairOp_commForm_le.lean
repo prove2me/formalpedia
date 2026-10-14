@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FockQuadratic_pairOp_commForm_le
 -- name    : BookProof.FockQuadratic.pairOp_commForm_le
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-05T21:01:50.00559+00:00
 -- url     : https://prove2.me/theorems/83e6c4a7-4300-4aa0-a7f8-5fe652aee3ab

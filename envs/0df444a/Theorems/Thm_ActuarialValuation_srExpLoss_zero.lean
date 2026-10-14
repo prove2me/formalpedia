@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srExpLoss_zero
 -- name    : ActuarialValuation.srExpLoss_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:21:59.574282+00:00
 -- url     : https://prove2.me/theorems/78dab6a4-75fa-4ae5-80a9-f592e89026cc

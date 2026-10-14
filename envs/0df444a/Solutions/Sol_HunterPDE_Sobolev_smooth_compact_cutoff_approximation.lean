@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Sobolev.smooth_compact_cutoff_approximation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-10T22:36:01.529311+00:00
 -- url     : https://prove2.me/submissions/d5257394-e9b1-4d96-8957-99ea8b140d99
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HunterPDE_Sobolev_memW_of_isTestFunction
 import Theorems.Thm_HunterPDE_Sobolev_tendsto_weakDeriv_cutoff

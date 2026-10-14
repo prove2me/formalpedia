@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationReserve_balance
 -- name    : ActuarialValuation.alterationReserve_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:06:24.875884+00:00
 -- url     : https://prove2.me/theorems/0c018dcf-afe5-42e6-8574-030e8ebfebf0

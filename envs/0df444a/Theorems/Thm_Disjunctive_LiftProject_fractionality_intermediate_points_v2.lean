@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_LiftProject_fractionality_intermediate_points_v2
 -- name    : Disjunctive.LiftProject.fractionality_intermediate_points_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:27.563576+00:00
 -- url     : https://prove2.me/theorems/6cc2b91a-b259-4a03-a3c2-703913c0f56a

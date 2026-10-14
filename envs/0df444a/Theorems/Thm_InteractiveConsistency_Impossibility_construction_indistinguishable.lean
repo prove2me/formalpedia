@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_Impossibility_construction_indistinguishable
 -- name    : InteractiveConsistency.Impossibility.construction_indistinguishable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:53.117977+00:00
 -- url     : https://prove2.me/theorems/a53229e7-a8ac-4ecd-b790-f5efb7aa8d20

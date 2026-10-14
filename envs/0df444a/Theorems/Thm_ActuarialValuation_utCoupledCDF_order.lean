@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utCoupledCDF_order
 -- name    : ActuarialValuation.utCoupledCDF_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:49.532303+00:00
 -- url     : https://prove2.me/theorems/062f8b33-b62a-4582-b61f-39291fe20c01

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_UDPmin_revenue_ordered_ratio_bound
 -- name    : RevenueOrdered.UDPmin.revenue_ordered_ratio_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T16:56:31.526307+00:00
 -- url     : https://prove2.me/theorems/d16a6001-6cdd-47f3-b6b1-cb3ff0673c40

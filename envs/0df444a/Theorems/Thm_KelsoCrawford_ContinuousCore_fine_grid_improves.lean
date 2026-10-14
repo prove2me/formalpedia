@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KelsoCrawford_ContinuousCore_fine_grid_improves
 -- name    : KelsoCrawford.ContinuousCore.fine_grid_improves
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:51.040187+00:00
 -- url     : https://prove2.me/theorems/56ed537b-3edc-4706-9867-0cb13bd4038b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxCompoundRisk_fundamental
 -- name    : ActuarialValuation.cxCompoundRisk_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:02:15.834553+00:00
 -- url     : https://prove2.me/theorems/a5ba01a9-b30f-46a0-967a-26db7bbc785a

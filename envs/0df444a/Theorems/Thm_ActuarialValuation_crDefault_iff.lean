@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crDefault_iff
 -- name    : ActuarialValuation.crDefault_iff
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:00.448103+00:00
 -- url     : https://prove2.me/theorems/f4098576-fc5e-4a73-98b3-3ca35379e99d

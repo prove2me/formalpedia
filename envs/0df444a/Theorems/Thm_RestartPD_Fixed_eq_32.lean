@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RestartPD_Fixed_eq_32
 -- name    : RestartPD.Fixed.eq_32
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:56:02.431578+00:00
 -- url     : https://prove2.me/theorems/6b5b4724-fca8-4ebf-966e-bc2ba189f294

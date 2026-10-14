@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KellyReversibility_Symmetric_eq_3_18_equilibrium
 -- name    : KellyReversibility.Symmetric.eq_3_18_equilibrium
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:51:18.134508+00:00
 -- url     : https://prove2.me/theorems/35b3b08a-e561-419d-bc14-1ffea366fd99

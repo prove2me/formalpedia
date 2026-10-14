@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svExp_multiplicative
 -- name    : ActuarialValuation.svExp_multiplicative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:53.050977+00:00
 -- url     : https://prove2.me/theorems/745a9a16-2fbe-4e35-9bda-7b0016f8d633

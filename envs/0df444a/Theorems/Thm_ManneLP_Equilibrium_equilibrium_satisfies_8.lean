@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ManneLP_Equilibrium_equilibrium_satisfies_8
 -- name    : ManneLP.Equilibrium.equilibrium_satisfies_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:09:26.159221+00:00
 -- url     : https://prove2.me/theorems/eb43eea1-def5-4026-a658-3f98c220feaf

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MoritaEquiv_expansion_exists_unique
 -- name    : MoritaEquiv.expansion_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T12:57:15.945081+00:00
 -- url     : https://prove2.me/theorems/7dfb9b4e-9ba9-4bde-bbec-7a726fc09a8d

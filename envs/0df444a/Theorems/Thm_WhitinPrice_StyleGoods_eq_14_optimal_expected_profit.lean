@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhitinPrice_StyleGoods_eq_14_optimal_expected_profit
 -- name    : WhitinPrice.StyleGoods.eq_14_optimal_expected_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:57:53.075991+00:00
 -- url     : https://prove2.me/theorems/88dc3898-ac3d-4df9-b3e0-3fbaab51b257

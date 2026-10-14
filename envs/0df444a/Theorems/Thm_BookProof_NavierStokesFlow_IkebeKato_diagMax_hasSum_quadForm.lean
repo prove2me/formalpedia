@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_diagMax_hasSum_quadForm
 -- name    : BookProof.NavierStokesFlow.IkebeKato.diagMax_hasSum_quadForm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:22:36.644038+00:00
 -- url     : https://prove2.me/theorems/50d0b0b6-6563-4171-857d-5b2847f6e4f5

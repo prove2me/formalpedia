@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_GeneralDisjunctions_completeness_via_domination_v2
 -- name    : Disjunctive.GeneralDisjunctions.completeness_via_domination_v2
--- status  : Open
+-- status  : Disproved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:07:37.103927+00:00
 -- url     : https://prove2.me/theorems/cee44cfb-e77b-41d6-9bc9-ceb16302f03b

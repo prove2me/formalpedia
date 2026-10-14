@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_VielbeinFock_vielbeinFock_deficiencyTrivialAt
 -- name    : BookProof.VielbeinFock.vielbeinFock_deficiencyTrivialAt
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:51:49.615614+00:00
 -- url     : https://prove2.me/theorems/37d8eefb-ff35-4199-a835-9c198c5085b0

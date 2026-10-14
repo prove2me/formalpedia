@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_VPolyhedral_v_polyhedral_validity_v2
 -- name    : Disjunctive.VPolyhedral.v_polyhedral_validity_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:06:49.132079+00:00
 -- url     : https://prove2.me/theorems/59967de6-5f2d-4649-b0f0-96392cb2a955

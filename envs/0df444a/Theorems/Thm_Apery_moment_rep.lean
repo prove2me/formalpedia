@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_moment_rep
 -- name    : Apery.moment_rep
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T10:56:49.715985+00:00
 -- url     : https://prove2.me/theorems/01f33564-aa3f-452d-a4c9-7c244c6f83c8

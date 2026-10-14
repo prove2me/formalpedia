@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siVar_nonneg
 -- name    : ActuarialValuation.siVar_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:48.785703+00:00
 -- url     : https://prove2.me/theorems/44549d8a-c435-4de7-8cef-2462df382e70

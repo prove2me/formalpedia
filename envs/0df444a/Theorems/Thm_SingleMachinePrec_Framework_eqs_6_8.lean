@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_Framework_eqs_6_8
 -- name    : SingleMachinePrec.Framework.eqs_6_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:49:27.430115+00:00
 -- url     : https://prove2.me/theorems/414d74fe-b92a-40a0-8067-973f1fc5c958

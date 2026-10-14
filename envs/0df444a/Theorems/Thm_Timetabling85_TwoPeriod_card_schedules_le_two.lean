@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_TwoPeriod_card_schedules_le_two
 -- name    : Timetabling85.TwoPeriod.card_schedules_le_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:00.180618+00:00
 -- url     : https://prove2.me/theorems/4116f704-b36b-49b5-9bce-b937a78f9a0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ModernOnlineLearning_ToX_corollary_16_7
 -- name    : ModernOnlineLearning.ToX.corollary_16_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:39:53.501857+00:00
 -- url     : https://prove2.me/theorems/761fdc11-2140-45cd-b421-ec1f69df6956

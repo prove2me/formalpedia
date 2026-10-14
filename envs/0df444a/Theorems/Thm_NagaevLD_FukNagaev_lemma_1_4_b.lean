@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NagaevLD_FukNagaev_lemma_1_4_b
 -- name    : NagaevLD.FukNagaev.lemma_1_4_b
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:32:44.187048+00:00
 -- url     : https://prove2.me/theorems/c2f60a45-11b7-4b43-9212-b51944a04d1c

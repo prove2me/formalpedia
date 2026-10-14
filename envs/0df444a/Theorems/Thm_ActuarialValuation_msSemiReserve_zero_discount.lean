@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msSemiReserve_zero_discount
 -- name    : ActuarialValuation.msSemiReserve_zero_discount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:01:30.478284+00:00
 -- url     : https://prove2.me/theorems/0f9c177b-8bd4-46e8-a844-4e8b7be16b39

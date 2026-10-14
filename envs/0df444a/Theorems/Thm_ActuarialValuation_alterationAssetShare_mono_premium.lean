@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationAssetShare_mono_premium
 -- name    : ActuarialValuation.alterationAssetShare_mono_premium
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:09.263363+00:00
 -- url     : https://prove2.me/theorems/2ce613c2-ec03-4bc9-8522-993e2f28f901

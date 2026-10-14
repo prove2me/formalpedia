@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frUdd_split
 -- name    : ActuarialValuation.frUdd_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:16:42.453483+00:00
 -- url     : https://prove2.me/theorems/8d91a483-1bbe-4766-a7f8-7d587c67b57e

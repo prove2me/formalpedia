@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Timetabling85_TwoPeriod_timetable_iff_stable
 -- name    : Timetabling85.TwoPeriod.timetable_iff_stable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:10.94244+00:00
 -- url     : https://prove2.me/theorems/8fceee55-427f-496c-bf62-4b1c0e0a1e00

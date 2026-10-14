@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Removal_choose_le_pow
 -- name    : ScenarioApproach.Removal.choose_le_pow
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T05:39:43.416984+00:00
 -- url     : https://prove2.me/theorems/330c5f49-df80-4a0b-9ef3-ba72e5e31688

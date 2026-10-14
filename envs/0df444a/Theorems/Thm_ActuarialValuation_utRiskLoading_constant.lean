@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utRiskLoading_constant
 -- name    : ActuarialValuation.utRiskLoading_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:19.66704+00:00
 -- url     : https://prove2.me/theorems/a7d54caf-6744-4bf9-b4e1-30720800e394

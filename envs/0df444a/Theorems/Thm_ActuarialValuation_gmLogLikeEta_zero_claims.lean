@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmLogLikeEta_zero_claims
 -- name    : ActuarialValuation.gmLogLikeEta_zero_claims
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:19.002985+00:00
 -- url     : https://prove2.me/theorems/d7f21f23-1da7-4203-98c1-921cc682b21e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9Salary_no_growth
 -- name    : ActuarialValuation.pen9Salary_no_growth
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:08.456072+00:00
 -- url     : https://prove2.me/theorems/11e268e2-c3b3-40c4-a487-715cb0eeb826

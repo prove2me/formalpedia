@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_TwoParticleSector_mem_fermionic_iff
 -- name    : BookProof.TwoParticleSector.mem_fermionic_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:29:08.591193+00:00
 -- url     : https://prove2.me/theorems/9b99999a-0343-4edc-90c3-78c4ec18e303

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPanjer_first_mass
 -- name    : ActuarialValuation.cxPanjer_first_mass
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:01:30.272803+00:00
 -- url     : https://prove2.me/theorems/7cfdc8e8-2c5c-4408-9475-41ae97339680

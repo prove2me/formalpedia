@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_TM_karatsuba
 -- name    : IntMul.TM.karatsuba
--- status  : Open
+-- status  : Proved
 -- author  : @avi
 -- created : 2026-10-09T02:07:57.608232+00:00
 -- url     : https://prove2.me/theorems/20e14722-d831-42ed-b103-0aeafc07f8f5

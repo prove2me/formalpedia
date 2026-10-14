@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgCountPGF_succ
 -- name    : ActuarialValuation.pgCountPGF_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:52:59.694461+00:00
 -- url     : https://prove2.me/theorems/51282af0-5323-4723-adf3-a18f9b8ac739

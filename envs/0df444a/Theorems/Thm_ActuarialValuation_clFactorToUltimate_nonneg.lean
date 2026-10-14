@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clFactorToUltimate_nonneg
 -- name    : ActuarialValuation.clFactorToUltimate_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:23.02254+00:00
 -- url     : https://prove2.me/theorems/d2b041f7-b9f0-49fd-ba1e-24e3d134c7ca

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_formalJet_finite_coefficients
 -- name    : OAI.PiExponent.FormalInterpolation.formalJet_finite_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T18:34:10.657987+00:00
 -- url     : https://prove2.me/theorems/1027046a-0a51-4ae3-9923-9e838545f3a3

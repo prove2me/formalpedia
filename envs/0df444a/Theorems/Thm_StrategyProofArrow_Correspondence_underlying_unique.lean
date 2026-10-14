@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Correspondence_underlying_unique
 -- name    : StrategyProofArrow.Correspondence.underlying_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:00.101531+00:00
 -- url     : https://prove2.me/theorems/840c4587-c15f-4b5d-906b-a4b0ca3f3701

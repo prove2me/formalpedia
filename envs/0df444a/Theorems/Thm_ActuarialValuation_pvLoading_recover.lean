@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvLoading_recover
 -- name    : ActuarialValuation.pvLoading_recover
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:23.144073+00:00
 -- url     : https://prove2.me/theorems/e21cf7c2-76aa-4e49-a3db-9074bcbaedac

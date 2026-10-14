@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdaptiveStepIPM_WideNbhd_theta2_lower_bound
 -- name    : AdaptiveStepIPM.WideNbhd.theta2_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:45:09.351885+00:00
 -- url     : https://prove2.me/theorems/3ae1af8e-4e30-42e8-b5d6-10e42818ac60

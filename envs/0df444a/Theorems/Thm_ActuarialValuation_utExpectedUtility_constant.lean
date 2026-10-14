@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utExpectedUtility_constant
 -- name    : ActuarialValuation.utExpectedUtility_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:18.960517+00:00
 -- url     : https://prove2.me/theorems/2dd686e9-7bc1-4436-8b8b-19da7cbdd2e1

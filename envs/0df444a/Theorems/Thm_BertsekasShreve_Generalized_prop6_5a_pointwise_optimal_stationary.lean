@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Generalized_prop6_5a_pointwise_optimal_stationary
 -- name    : BertsekasShreve.Generalized.prop6_5a_pointwise_optimal_stationary
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:55:51.260476+00:00
 -- url     : https://prove2.me/theorems/1004dfe9-dbb6-453b-b863-2b4923b025a5

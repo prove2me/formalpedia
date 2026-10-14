@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clLinkDenominator_succ
 -- name    : ActuarialValuation.clLinkDenominator_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:27:18.690811+00:00
 -- url     : https://prove2.me/theorems/cca0b24e-6757-4933-a557-7adf2cc16830

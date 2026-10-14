@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRatingExpectedPay_constant
 -- name    : ActuarialValuation.crRatingExpectedPay_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:47.546533+00:00
 -- url     : https://prove2.me/theorems/91e87cc1-28df-4d3c-9450-3a61633c5be7

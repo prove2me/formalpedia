@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruExponential_factor
 -- name    : ActuarialValuation.ruExponential_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:52.274265+00:00
 -- url     : https://prove2.me/theorems/41543d40-fbeb-4652-8f53-8dba3a5adba8

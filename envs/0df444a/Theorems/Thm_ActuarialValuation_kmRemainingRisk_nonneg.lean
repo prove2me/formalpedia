@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmRemainingRisk_nonneg
 -- name    : ActuarialValuation.kmRemainingRisk_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:28:30.935544+00:00
 -- url     : https://prove2.me/theorems/e5295190-3960-46d1-930e-4956e35a5049

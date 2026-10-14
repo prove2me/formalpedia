@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmRatingPremium_exposure
 -- name    : ActuarialValuation.gmRatingPremium_exposure
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:12:09.899526+00:00
 -- url     : https://prove2.me/theorems/f00d3fa3-eb18-49ec-91c7-ee9837ee7599

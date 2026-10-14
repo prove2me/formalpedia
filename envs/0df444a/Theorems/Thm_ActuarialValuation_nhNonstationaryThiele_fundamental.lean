@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_nhNonstationaryThiele_fundamental
 -- name    : ActuarialValuation.nhNonstationaryThiele_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:23:54.175456+00:00
 -- url     : https://prove2.me/theorems/c566fe0e-7636-4e83-9eee-b2c347d93aff

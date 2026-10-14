@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Interpolation_shadowing_estimate
 -- name    : StochApproxDyn.Interpolation.shadowing_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:10:04.521953+00:00
 -- url     : https://prove2.me/theorems/c6cc1787-c09a-402e-8925-397db9e29905

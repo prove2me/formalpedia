@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointExp_strict_dependence
 -- name    : ActuarialValuation.csJointExp_strict_dependence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:12.870128+00:00
 -- url     : https://prove2.me/theorems/c07b39be-926e-447f-84df-aedbaf17aa46

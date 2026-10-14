@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erAdjustment_lt_beta
 -- name    : ActuarialValuation.erAdjustment_lt_beta
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:55:02.348375+00:00
 -- url     : https://prove2.me/theorems/dfead2c3-d4c3-40a3-96fd-b7cca0c9d5ed

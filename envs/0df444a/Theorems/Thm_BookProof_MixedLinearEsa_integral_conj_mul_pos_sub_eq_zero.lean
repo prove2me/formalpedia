@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_integral_conj_mul_pos_sub_eq_zero
 -- name    : BookProof.MixedLinearEsa.integral_conj_mul_pos_sub_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:03:32.347289+00:00
 -- url     : https://prove2.me/theorems/2f04f4ee-7a15-427b-88f4-85e00a17a525

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RamareSaouter2003_prime_interval_finite_range_nat_strict_upper
 -- name    : RamareSaouter2003.prime_interval_finite_range_nat_strict_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-09-25T13:00:04.937224+00:00
 -- url     : https://prove2.me/theorems/e04af572-e44a-42cc-bed1-1165bb70ac37

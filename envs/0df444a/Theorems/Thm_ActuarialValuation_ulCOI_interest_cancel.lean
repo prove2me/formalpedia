@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulCOI_interest_cancel
 -- name    : ActuarialValuation.ulCOI_interest_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:23.005178+00:00
 -- url     : https://prove2.me/theorems/18659941-c514-466b-8a52-638f2ba63b0c

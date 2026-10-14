@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruStoppedSupermartingale
 -- name    : ActuarialValuation.ruStoppedSupermartingale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:35:30.742483+00:00
 -- url     : https://prove2.me/theorems/984ff614-de76-4665-8451-c1c7bd45d16f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_diagMax_quadForm_nonneg
 -- name    : BookProof.NavierStokesFlow.IkebeKato.diagMax_quadForm_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:21:36.998354+00:00
 -- url     : https://prove2.me/theorems/ff325936-99a2-45b4-b175-842cf2b78080

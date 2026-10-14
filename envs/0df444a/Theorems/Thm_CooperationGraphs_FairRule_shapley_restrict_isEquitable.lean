@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CooperationGraphs_FairRule_shapley_restrict_isEquitable
 -- name    : CooperationGraphs.FairRule.shapley_restrict_isEquitable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:27:19.886112+00:00
 -- url     : https://prove2.me/theorems/16979dd6-5c0a-4a1e-83f4-dd5b2f23d639

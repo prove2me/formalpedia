@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationReserve_zero_premium
 -- name    : ActuarialValuation.alterationReserve_zero_premium
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:06:02.433876+00:00
 -- url     : https://prove2.me/theorems/ad141beb-26e7-4faa-a7db-f9d22cfdc0d0

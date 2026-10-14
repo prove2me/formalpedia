@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_StrichartzWave_polynomialPotential_essentiallySelfAdjoint
 -- name    : BookProof.StrichartzWave.polynomialPotential_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:52:25.150996+00:00
 -- url     : https://prove2.me/theorems/f9e8c237-8358-4567-b4e6-c32cb27274b0

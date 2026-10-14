@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailCVaRObjective_zero_weights
 -- name    : ActuarialValuation.tailCVaRObjective_zero_weights
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:43:54.877438+00:00
 -- url     : https://prove2.me/theorems/008e7791-29fb-4a54-9431-e9b8b059cc10

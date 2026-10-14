@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utRiskLoading_nonneg
 -- name    : ActuarialValuation.utRiskLoading_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:52.366417+00:00
 -- url     : https://prove2.me/theorems/bd03bc3e-f20f-4d43-bd7e-85e76c5a49b2

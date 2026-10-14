@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruExponentialSurplus_recursion
 -- name    : ActuarialValuation.ruExponentialSurplus_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:38.714535+00:00
 -- url     : https://prove2.me/theorems/7db2cea0-56ec-4322-ad20-79f3691f201a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Correspondence_nnr_of_underlies
 -- name    : StrategyProofArrow.Correspondence.nnr_of_underlies
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:04.466827+00:00
 -- url     : https://prove2.me/theorems/9a27edc1-0327-44c2-81ca-65074ebf3148

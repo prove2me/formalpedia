@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PALM_ProxNMF_eq_4_1_eq_4_2
 -- name    : PALM.ProxNMF.eq_4_1_eq_4_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:09:06.460295+00:00
 -- url     : https://prove2.me/theorems/3fce7995-8c48-471e-848e-891e967b4fd7

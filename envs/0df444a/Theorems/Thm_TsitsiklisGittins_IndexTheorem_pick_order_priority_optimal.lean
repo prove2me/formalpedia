@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsitsiklisGittins_IndexTheorem_pick_order_priority_optimal
 -- name    : TsitsiklisGittins.IndexTheorem.pick_order_priority_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:53:23.209175+00:00
 -- url     : https://prove2.me/theorems/35912e1b-0cc4-44d8-a5bc-614b9e5f8b22

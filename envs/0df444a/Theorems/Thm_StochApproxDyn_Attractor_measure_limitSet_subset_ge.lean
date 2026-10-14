@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Attractor_measure_limitSet_subset_ge
 -- name    : StochApproxDyn.Attractor.measure_limitSet_subset_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T16:46:24.883659+00:00
 -- url     : https://prove2.me/theorems/9f0a2eea-02aa-43bd-bd77-07a884cdf586

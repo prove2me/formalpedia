@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationSurrenderValue_zero_deduction
 -- name    : ActuarialValuation.alterationSurrenderValue_zero_deduction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:08:09.470528+00:00
 -- url     : https://prove2.me/theorems/4d33ce45-e518-4b4e-a584-76857989579d

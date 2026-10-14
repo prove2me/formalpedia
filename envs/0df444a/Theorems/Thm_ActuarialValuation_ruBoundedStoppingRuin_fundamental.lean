@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruBoundedStoppingRuin_fundamental
 -- name    : ActuarialValuation.ruBoundedStoppingRuin_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:41:36.154406+00:00
 -- url     : https://prove2.me/theorems/65f4d38b-adc9-4b83-ad71-d175696e6f2d

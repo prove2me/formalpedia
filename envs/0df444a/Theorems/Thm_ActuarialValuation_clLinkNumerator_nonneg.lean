@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_clLinkNumerator_nonneg
 -- name    : ActuarialValuation.clLinkNumerator_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:27:29.939982+00:00
 -- url     : https://prove2.me/theorems/1b3d5a19-cb77-4b69-8476-00e1e01a1e48

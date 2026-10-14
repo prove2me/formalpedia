@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_log_zipfPMF_affine
 -- name    : ZipfLaw.log_zipfPMF_affine
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:51.71368+00:00
 -- url     : https://prove2.me/theorems/51ed4521-43d5-49f9-9eff-95300c416e5c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvAdequacy_loss_cdf
 -- name    : ActuarialValuation.pvAdequacy_loss_cdf
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:24:05.996035+00:00
 -- url     : https://prove2.me/theorems/5d7a0895-1d37-4b33-95ff-5252e2ecc141

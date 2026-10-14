@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utPositiveStoploss_zero
 -- name    : ActuarialValuation.utPositiveStoploss_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:28.480511+00:00
 -- url     : https://prove2.me/theorems/fa5b1353-22a6-4879-a2b1-804d80607ef7

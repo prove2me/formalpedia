@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_theta_max_zero_stock
 -- name    : ServiceParts.StockLevels.theta_max_zero_stock
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:28:45.818958+00:00
 -- url     : https://prove2.me/theorems/52ee5603-9d79-4c86-9b23-a51ec7dc53eb

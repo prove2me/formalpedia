@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_Envelope_theorem_1
 -- name    : SDDiP.Envelope.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:45:04.050157+00:00
 -- url     : https://prove2.me/theorems/363b3cc0-acd9-4ed4-9d63-a4449e413a8a

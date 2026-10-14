@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_Rates_lemma_18_consistent_iff
 -- name    : LambdaCoalescent.Rates.lemma_18_consistent_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:37:59.746029+00:00
 -- url     : https://prove2.me/theorems/7a8cdaf0-400f-4a28-ab3f-86658ace14ec

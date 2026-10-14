@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svInsurancePV_const
 -- name    : ActuarialValuation.svInsurancePV_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:26:30.596688+00:00
 -- url     : https://prove2.me/theorems/6c7505c2-e7a5-4f4d-a0ba-2d9fb24bee2b

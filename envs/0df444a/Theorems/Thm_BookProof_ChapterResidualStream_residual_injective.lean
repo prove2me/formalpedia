@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterResidualStream_residual_injective
 -- name    : BookProof.ChapterResidualStream.residual_injective
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:04:00.960454+00:00
 -- url     : https://prove2.me/theorems/3e7d6f01-3e3a-4be5-9b56-2d751cc29a6f

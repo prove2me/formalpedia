@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EmpiricalDRO_Consistency_theorem3_consistency
 -- name    : EmpiricalDRO.Consistency.theorem3_consistency
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T16:07:06.64095+00:00
 -- url     : https://prove2.me/theorems/87e70f64-12ef-4d26-8cb8-cd91409d4c22

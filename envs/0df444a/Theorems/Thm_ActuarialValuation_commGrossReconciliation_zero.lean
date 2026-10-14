@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commGrossReconciliation_zero
 -- name    : ActuarialValuation.commGrossReconciliation_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:14:57.054386+00:00
 -- url     : https://prove2.me/theorems/bfab731f-f3db-4302-98c3-3ebb7bc12c26

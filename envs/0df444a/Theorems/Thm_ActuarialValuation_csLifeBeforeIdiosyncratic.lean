@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csLifeBeforeIdiosyncratic
 -- name    : ActuarialValuation.csLifeBeforeIdiosyncratic
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:31:12.210919+00:00
 -- url     : https://prove2.me/theorems/0d5fec99-02c5-4ef1-9e5e-d149369978c7

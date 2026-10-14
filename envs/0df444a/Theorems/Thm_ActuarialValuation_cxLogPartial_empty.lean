@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxLogPartial_empty
 -- name    : ActuarialValuation.cxLogPartial_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:18:03.245991+00:00
 -- url     : https://prove2.me/theorems/f01f23b5-a3e7-41c4-801f-96b94e61925d

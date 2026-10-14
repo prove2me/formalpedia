@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SparseNLO_Greedy_eq_4_5
 -- name    : SparseNLO.Greedy.eq_4_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:07:53.287999+00:00
 -- url     : https://prove2.me/theorems/bdb2289e-fd8c-4e22-b281-0e1ffe0489ed

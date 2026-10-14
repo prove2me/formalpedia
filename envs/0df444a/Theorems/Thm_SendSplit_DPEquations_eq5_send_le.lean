@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_DPEquations_eq5_send_le
 -- name    : SendSplit.DPEquations.eq5_send_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:39:43.92283+00:00
 -- url     : https://prove2.me/theorems/17522dd9-d631-458e-82b9-e1f08f293a1a

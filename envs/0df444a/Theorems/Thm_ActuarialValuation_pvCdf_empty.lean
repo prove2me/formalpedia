@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvCdf_empty
 -- name    : ActuarialValuation.pvCdf_empty
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:20.328818+00:00
 -- url     : https://prove2.me/theorems/1f07f75b-231a-4e93-a41e-4326d8b58918

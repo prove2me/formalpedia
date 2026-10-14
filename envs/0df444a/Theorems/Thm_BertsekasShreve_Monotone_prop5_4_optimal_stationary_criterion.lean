@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_Monotone_prop5_4_optimal_stationary_criterion
 -- name    : BertsekasShreve.Monotone.prop5_4_optimal_stationary_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:19:36.973353+00:00
 -- url     : https://prove2.me/theorems/1490b8bb-a847-4555-a001-77ae31477032

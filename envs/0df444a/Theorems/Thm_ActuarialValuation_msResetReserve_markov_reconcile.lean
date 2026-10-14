@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msResetReserve_markov_reconcile
 -- name    : ActuarialValuation.msResetReserve_markov_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:03:38.633247+00:00
 -- url     : https://prove2.me/theorems/d892c34e-e7fb-4bfb-b41f-9b6a630db0ff

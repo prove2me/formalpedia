@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterDiffuseUnitaryModel_diffuse_multiplication_model_uniform
 -- name    : BookProof.ChapterDiffuseUnitaryModel.diffuse_multiplication_model_uniform
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T22:57:13.63527+00:00
 -- url     : https://prove2.me/theorems/322df768-8fb0-4c99-abab-4037904ea824

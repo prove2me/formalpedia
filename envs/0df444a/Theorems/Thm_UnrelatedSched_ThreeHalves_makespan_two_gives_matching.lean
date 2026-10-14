@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_ThreeHalves_makespan_two_gives_matching
 -- name    : UnrelatedSched.ThreeHalves.makespan_two_gives_matching
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:36:16.545831+00:00
 -- url     : https://prove2.me/theorems/6fe3a542-9a89-4af5-b55f-548db4a8ae4f

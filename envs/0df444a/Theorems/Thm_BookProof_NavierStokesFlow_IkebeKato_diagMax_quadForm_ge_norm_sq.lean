@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_diagMax_quadForm_ge_norm_sq
 -- name    : BookProof.NavierStokesFlow.IkebeKato.diagMax_quadForm_ge_norm_sq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:22:45.746439+00:00
 -- url     : https://prove2.me/theorems/685ba43e-69a1-4c58-848d-ab41c0199c29

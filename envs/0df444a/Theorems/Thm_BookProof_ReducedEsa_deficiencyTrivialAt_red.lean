@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ReducedEsa_deficiencyTrivialAt_red
 -- name    : BookProof.ReducedEsa.deficiencyTrivialAt_red
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T10:31:05.840855+00:00
 -- url     : https://prove2.me/theorems/f0322682-9d38-4251-8e90-b7f7fc010a09

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exBase_positive
 -- name    : ActuarialValuation.exBase_positive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:47.249678+00:00
 -- url     : https://prove2.me/theorems/53f64243-e272-425c-a0ad-59a36edbef7d

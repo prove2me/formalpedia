@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erNetLossMGF_add_time
 -- name    : ActuarialValuation.erNetLossMGF_add_time
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:58:21.997157+00:00
 -- url     : https://prove2.me/theorems/3ffd7483-3bbc-4ede-a31e-0b41272e3e50

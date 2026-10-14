@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_orbitF_forgets_only_stuff
 -- name    : GaugeFunctor.orbitF_forgets_only_stuff
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T09:57:30.699674+00:00
 -- url     : https://prove2.me/theorems/c24c30b1-1064-4136-9412-f1073394fe85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_scalarInitialReferenceInput_bounds
 -- name    : OAI.Erdos3.scalarInitialReferenceInput_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T04:16:01.21651+00:00
 -- url     : https://prove2.me/theorems/922a75a0-11d6-4c0e-a358-93aa4335b997

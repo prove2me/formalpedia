@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msMultiStateReserves_fundamental
 -- name    : ActuarialValuation.msMultiStateReserves_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:04:21.864817+00:00
 -- url     : https://prove2.me/theorems/1425cad3-ba09-461f-9ab8-128d9e975d89

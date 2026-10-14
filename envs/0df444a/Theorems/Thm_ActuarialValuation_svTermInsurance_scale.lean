@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svTermInsurance_scale
 -- name    : ActuarialValuation.svTermInsurance_scale
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:19.407306+00:00
 -- url     : https://prove2.me/theorems/8d1143c8-5f71-4339-adcc-2cd318bee572

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WeberGittins_Submodular_eq10_partial_sums_submodular
 -- name    : WeberGittins.Submodular.eq10_partial_sums_submodular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:55:57.298618+00:00
 -- url     : https://prove2.me/theorems/5075ed23-78f6-4a78-b11b-193341aecf82

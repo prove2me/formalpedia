@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_BigMvsPR_ineq_10
 -- name    : L0BnB.BigMvsPR.ineq_10
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:28:49.427307+00:00
 -- url     : https://prove2.me/theorems/650a29ad-8278-4e6d-9e78-3cd77d03e57f

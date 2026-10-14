@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_exExpectedShortfall_exceeds_quantile
 -- name    : ActuarialValuation.exExpectedShortfall_exceeds_quantile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:43.809613+00:00
 -- url     : https://prove2.me/theorems/206ca865-20be-4128-93bc-be24d26ed391

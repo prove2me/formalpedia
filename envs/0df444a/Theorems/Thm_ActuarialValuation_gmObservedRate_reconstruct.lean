@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmObservedRate_reconstruct
 -- name    : ActuarialValuation.gmObservedRate_reconstruct
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:11.671211+00:00
 -- url     : https://prove2.me/theorems/ed1a82f9-17ad-49b1-869a-31d0ac7a551e

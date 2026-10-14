@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erExpectedAggregate_scale_intensity
 -- name    : ActuarialValuation.erExpectedAggregate_scale_intensity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:51:03.467985+00:00
 -- url     : https://prove2.me/theorems/76cad005-1ee4-4abc-83d6-2a18549618a6

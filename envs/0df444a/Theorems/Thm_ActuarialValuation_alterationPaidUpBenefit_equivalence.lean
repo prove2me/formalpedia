@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpBenefit_equivalence
 -- name    : ActuarialValuation.alterationPaidUpBenefit_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:05:54.473844+00:00
 -- url     : https://prove2.me/theorems/b1d7d965-8cf2-45ed-80b9-c05fc55582c0

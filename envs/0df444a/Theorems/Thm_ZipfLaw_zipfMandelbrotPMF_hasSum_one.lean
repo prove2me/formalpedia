@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ZipfLaw_zipfMandelbrotPMF_hasSum_one
 -- name    : ZipfLaw.zipfMandelbrotPMF_hasSum_one
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:33:33.147511+00:00
 -- url     : https://prove2.me/theorems/a37de8e9-9899-4058-9357-6e3c24db13e4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FourRow_robust_permanent
 -- name    : OAI.FourRow.robust_permanent
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:41.549346+00:00
 -- url     : https://prove2.me/theorems/48c42c2d-0304-400d-a822-51ba8ad24af4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_NavierStokesFlow_IkebeKato_diagMax_symmetricOn
 -- name    : BookProof.NavierStokesFlow.IkebeKato.diagMax_symmetricOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T23:21:30.422301+00:00
 -- url     : https://prove2.me/theorems/9fbfbcd4-5fad-48fb-80db-0153534b59bd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvMass_nonneg
 -- name    : ActuarialValuation.pvMass_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:20:58.812983+00:00
 -- url     : https://prove2.me/theorems/2e1d0d0e-d80f-4589-8163-df59ea1aee32

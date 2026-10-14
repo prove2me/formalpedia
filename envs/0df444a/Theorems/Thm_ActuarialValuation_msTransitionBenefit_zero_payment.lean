@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msTransitionBenefit_zero_payment
 -- name    : ActuarialValuation.msTransitionBenefit_zero_payment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:57:56.175143+00:00
 -- url     : https://prove2.me/theorems/93ae2c4c-5c7e-437a-a8bf-9b028fb0d363

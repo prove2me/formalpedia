@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterReconstruct_offDiag_eq_zero_iff
 -- name    : BookProof.ChapterReconstruct.offDiag_eq_zero_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:02:59.006731+00:00
 -- url     : https://prove2.me/theorems/41a3be0b-541b-442d-8fe2-5394661dadde

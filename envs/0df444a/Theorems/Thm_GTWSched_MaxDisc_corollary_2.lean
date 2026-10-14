@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_MaxDisc_corollary_2
 -- name    : GTWSched.MaxDisc.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:04:44.675026+00:00
 -- url     : https://prove2.me/theorems/f7ae7ffd-004e-40a8-ac06-0fb874d5602f

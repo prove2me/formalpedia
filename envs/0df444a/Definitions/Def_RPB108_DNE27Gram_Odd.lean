@@ -8,8 +8,12 @@
 --   RPB108 odd exact Gram enclosure data
 -- statement:
 --   Defines the complete lower/upper rational intervals for the native and source 3 by 3 matrices, column scales, scaled difference intervals, off-diagonal bounds and positive row-margin data. All data are exact. Original matrices satisfying these intervals are supplied separately; no realization attachment is proved by these definitions.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/DNE27Gram.lean#L92-L103; source SHA256 5a4a208bde5523e425bacd32d6077e0c32618162efd59bb6ab6628df50f1750a. Native definitions preserved verbatim by compiler-derived skeleton subtraction.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

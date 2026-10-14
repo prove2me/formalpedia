@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_erNetLossMGF_at_zero
 -- name    : ActuarialValuation.erNetLossMGF_at_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:57:28.750993+00:00
 -- url     : https://prove2.me/theorems/7198478d-ae74-4cc9-942b-f1bcf7a6338e

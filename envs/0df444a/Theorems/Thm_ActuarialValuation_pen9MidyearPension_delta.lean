@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9MidyearPension_delta
 -- name    : ActuarialValuation.pen9MidyearPension_delta
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:56.404363+00:00
 -- url     : https://prove2.me/theorems/e2eeac28-3c42-4fa6-b08f-25f463313db5

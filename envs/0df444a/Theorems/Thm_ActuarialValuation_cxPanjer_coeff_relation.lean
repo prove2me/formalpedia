@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxPanjer_coeff_relation
 -- name    : ActuarialValuation.cxPanjer_coeff_relation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:00:42.116985+00:00
 -- url     : https://prove2.me/theorems/1fc3c7cf-c097-4bb7-a6ec-cf1b2c0c74ef

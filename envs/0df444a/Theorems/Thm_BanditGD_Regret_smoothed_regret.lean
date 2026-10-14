@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BanditGD_Regret_smoothed_regret
 -- name    : BanditGD.Regret.smoothed_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T08:28:31.878323+00:00
 -- url     : https://prove2.me/theorems/aba088bf-67b5-4baa-9e6d-2949bcef5ff8

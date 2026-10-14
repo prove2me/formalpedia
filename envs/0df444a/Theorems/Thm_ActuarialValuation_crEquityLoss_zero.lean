@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crEquityLoss_zero
 -- name    : ActuarialValuation.crEquityLoss_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:42.61256+00:00
 -- url     : https://prove2.me/theorems/eadcfcec-bd2b-4988-a26c-b7761637a05d

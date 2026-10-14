@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_WeakAPT_occupationLimitPoints_subset_invariantMeasures
 -- name    : StochApproxDyn.WeakAPT.occupationLimitPoints_subset_invariantMeasures
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:23:59.028008+00:00
 -- url     : https://prove2.me/theorems/25498b0b-bc5a-4b5b-be7f-df8983940dc7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointExp_marginal_two
 -- name    : ActuarialValuation.csJointExp_marginal_two
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:36.751674+00:00
 -- url     : https://prove2.me/theorems/6e6ca773-eae3-4514-bd14-d9b9bd1b1654

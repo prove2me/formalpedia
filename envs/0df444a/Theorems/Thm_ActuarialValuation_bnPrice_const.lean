@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnPrice_const
 -- name    : ActuarialValuation.bnPrice_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:04.459057+00:00
 -- url     : https://prove2.me/theorems/6b266295-7845-4414-9139-31668a3bbed5

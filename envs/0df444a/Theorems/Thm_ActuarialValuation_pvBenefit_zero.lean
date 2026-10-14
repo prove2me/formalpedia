@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvBenefit_zero
 -- name    : ActuarialValuation.pvBenefit_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:26.50445+00:00
 -- url     : https://prove2.me/theorems/d563fc22-ef6a-44fa-970a-7901e35a1d89

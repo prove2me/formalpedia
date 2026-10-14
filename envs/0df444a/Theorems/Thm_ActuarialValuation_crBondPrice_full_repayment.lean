@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crBondPrice_full_repayment
 -- name    : ActuarialValuation.crBondPrice_full_repayment
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:51.031006+00:00
 -- url     : https://prove2.me/theorems/e1f876cf-45fd-408a-ab72-faa2d0826f9a

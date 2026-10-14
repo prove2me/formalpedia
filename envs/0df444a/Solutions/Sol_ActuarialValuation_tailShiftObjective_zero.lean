@@ -1,0 +1,30 @@
+-- Prove2me | solution 1 for ActuarialValuation.tailShiftObjective_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-10-12T11:39:27.91462+00:00
+-- url     : https://prove2.me/submissions/5679001c-5a23-46d8-8b76-53470145240c
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Tactic
+import Definitions.Def_actuarial_tailCVaRObjective
+import Definitions.Def_actuarial_tailShiftObjective
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open ActuarialValuation
+
+theorem solution (p : ℕ → ℝ) (n : ℕ) (a t : ℝ) :
+    tailShiftObjective p n a t 0 = tailCVaRObjective p n a t := by
+  have hsum : (∑ k ∈ Finset.range (n+1), tailShiftExcess (k : ℝ) 0 t * p k)
+      = ∑ k ∈ Finset.range (n+1), tailExcess (k : ℝ) t * p k := by
+    apply Finset.sum_congr rfl
+    intro k hk
+    congr 1
+    unfold tailShiftExcess tailExcess
+    congr 1
+    ring
+  unfold tailShiftObjective tailCVaRObjective tailStopLoss
+  rw [hsum, add_zero]

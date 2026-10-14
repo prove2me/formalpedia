@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PALM_ProxNMF_facts_i_ii_iii
 -- name    : PALM.ProxNMF.facts_i_ii_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T16:08:55.394915+00:00
 -- url     : https://prove2.me/theorems/880d254f-3479-405d-a930-aeb75f39ab8d

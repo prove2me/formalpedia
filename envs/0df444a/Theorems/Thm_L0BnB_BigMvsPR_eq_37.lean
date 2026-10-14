@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_L0BnB_BigMvsPR_eq_37
 -- name    : L0BnB.BigMvsPR.eq_37
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T01:28:48.870344+00:00
 -- url     : https://prove2.me/theorems/6efb6923-e1ce-48a8-80cb-5a76a89941fb

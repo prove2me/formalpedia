@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KarpPapadimitriou_SmallFacial_cramer_bound
 -- name    : KarpPapadimitriou.SmallFacial.cramer_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:40:39.231141+00:00
 -- url     : https://prove2.me/theorems/f7ca0bf0-d651-4b4c-b7e1-11865631aadb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_svShifted_survival
 -- name    : ActuarialValuation.svShifted_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:18:12.750564+00:00
 -- url     : https://prove2.me/theorems/3606958f-f949-4246-8098-6ffe83dee1ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_coordFactor_facW
 -- name    : BookProof.YangMillsAbelianNoGap.coordFactor_facW
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:34:51.977958+00:00
 -- url     : https://prove2.me/theorems/a4ec1a7b-0c8c-497e-bb5a-cb639d598a99

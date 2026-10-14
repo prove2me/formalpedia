@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucPensionFunding_fundamental
 -- name    : ActuarialValuation.pucPensionFunding_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:33.760158+00:00
 -- url     : https://prove2.me/theorems/d18fa93b-b643-4e16-98cd-6ed071e1a503

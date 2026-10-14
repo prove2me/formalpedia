@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9ExitPV_zero_discount
 -- name    : ActuarialValuation.pen9ExitPV_zero_discount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:57.335041+00:00
 -- url     : https://prove2.me/theorems/7ff818ab-6541-40dc-8e1d-2528cac8e240

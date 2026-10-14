@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StrategyProofArrow_Correspondence_lemma_7
 -- name    : StrategyProofArrow.Correspondence.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:48:45.830618+00:00
 -- url     : https://prove2.me/theorems/07c11314-3a04-452b-823f-49641d35eef3

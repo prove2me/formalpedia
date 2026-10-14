@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerStopLoss_mono_truncation
 -- name    : ActuarialValuation.panjerStopLoss_mono_truncation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T08:02:24.579263+00:00
 -- url     : https://prove2.me/theorems/70957981-e538-4a2f-9111-01f376dcf8aa

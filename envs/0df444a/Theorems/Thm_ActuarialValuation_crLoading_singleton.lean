@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crLoading_singleton
 -- name    : ActuarialValuation.crLoading_singleton
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:37.321548+00:00
 -- url     : https://prove2.me/theorems/14b1c067-91f3-46d9-b963-d3e332a3773e

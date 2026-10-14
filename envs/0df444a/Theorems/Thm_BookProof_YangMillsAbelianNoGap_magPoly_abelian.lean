@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_magPoly_abelian
 -- name    : BookProof.YangMillsAbelianNoGap.magPoly_abelian
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:36:03.921228+00:00
 -- url     : https://prove2.me/theorems/94155b9a-23e3-4cef-9372-1331f2d570af

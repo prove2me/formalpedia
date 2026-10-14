@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Sobolev.smooth_compact_dense
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-10T22:19:36.956612+00:00
 -- url     : https://prove2.me/submissions/2595b2b0-c313-4283-aed8-fe5e4b0f1963
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HunterPDE_Sobolev_smooth_approximation
 import Theorems.Thm_HunterPDE_Sobolev_smooth_compact_cutoff_approximation

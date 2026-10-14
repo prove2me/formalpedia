@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerSeverityMean_succ
 -- name    : ActuarialValuation.panjerSeverityMean_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:28:18.339892+00:00
 -- url     : https://prove2.me/theorems/9096ee7f-adf4-43ec-85e6-b816edb5b331

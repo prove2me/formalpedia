@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ScalaronFock_qgScalaronFock_esa
 -- name    : BookProof.ScalaronFock.qgScalaronFock_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T11:40:34.669005+00:00
 -- url     : https://prove2.me/theorems/64225ca5-35db-4cd1-bc3e-7723be2e81c1

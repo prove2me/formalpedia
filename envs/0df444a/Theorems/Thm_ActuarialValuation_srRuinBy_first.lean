@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srRuinBy_first
 -- name    : ActuarialValuation.srRuinBy_first
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:59.102567+00:00
 -- url     : https://prove2.me/theorems/ff534555-b2ea-41ba-9d0d-451c0822d400

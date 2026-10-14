@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_exists_boost_spacelike
 -- name    : BookProof.ChapterWignerOrbitClassification.exists_boost_spacelike
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:15:37.114977+00:00
 -- url     : https://prove2.me/theorems/dce2b585-4297-4af4-9390-e94103864588

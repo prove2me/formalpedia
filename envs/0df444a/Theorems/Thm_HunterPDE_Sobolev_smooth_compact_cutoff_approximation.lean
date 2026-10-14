@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_smooth_compact_cutoff_approximation
 -- name    : HunterPDE.Sobolev.smooth_compact_cutoff_approximation
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-10T22:16:52.500591+00:00
 -- url     : https://prove2.me/theorems/019940cc-0bac-4576-a96f-999dd4b0a81b

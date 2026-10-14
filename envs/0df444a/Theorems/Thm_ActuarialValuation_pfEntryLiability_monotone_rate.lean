@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfEntryLiability_monotone_rate
 -- name    : ActuarialValuation.pfEntryLiability_monotone_rate
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:01:54.46296+00:00
 -- url     : https://prove2.me/theorems/9142bf6e-655c-4432-bc0e-3d0cf99a9eaa

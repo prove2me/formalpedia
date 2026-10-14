@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coRectangle_add_u
 -- name    : ActuarialValuation.coRectangle_add_u
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:01.338525+00:00
 -- url     : https://prove2.me/theorems/50652831-bc83-4063-b0a8-b8ad907b8f10

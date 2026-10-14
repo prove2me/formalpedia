@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratPurePremium_cancel
 -- name    : ActuarialValuation.ratPurePremium_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:30:26.316617+00:00
 -- url     : https://prove2.me/theorems/e9b03c25-09e1-403e-ad00-82df38e3e3ad

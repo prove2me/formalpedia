@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_Impossibility_no_interactive_consistency_of_le_three_mul
 -- name    : InteractiveConsistency.Impossibility.no_interactive_consistency_of_le_three_mul
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:36:52.174708+00:00
 -- url     : https://prove2.me/theorems/684e502f-53f8-4dae-82d7-1ee74affc19b

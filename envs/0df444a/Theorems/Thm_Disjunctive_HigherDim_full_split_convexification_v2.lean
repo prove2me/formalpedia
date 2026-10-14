@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_HigherDim_full_split_convexification_v2
 -- name    : Disjunctive.HigherDim.full_split_convexification_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T22:07:01.325994+00:00
 -- url     : https://prove2.me/theorems/ff1dd025-d6fc-492e-a4dd-e685feb11706

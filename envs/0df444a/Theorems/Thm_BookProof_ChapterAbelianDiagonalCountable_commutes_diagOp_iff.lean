@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianDiagonalCountable_commutes_diagOp_iff
 -- name    : BookProof.ChapterAbelianDiagonalCountable.commutes_diagOp_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:18:40.858396+00:00
 -- url     : https://prove2.me/theorems/48bc84f3-fdd6-4f55-9bb8-789160be1eae

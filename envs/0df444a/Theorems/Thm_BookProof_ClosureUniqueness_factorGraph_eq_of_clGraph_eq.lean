@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ClosureUniqueness_factorGraph_eq_of_clGraph_eq
 -- name    : BookProof.ClosureUniqueness.factorGraph_eq_of_clGraph_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T11:42:52.061359+00:00
 -- url     : https://prove2.me/theorems/8529a9e1-8b51-44b8-b1f4-3e95cafd808b

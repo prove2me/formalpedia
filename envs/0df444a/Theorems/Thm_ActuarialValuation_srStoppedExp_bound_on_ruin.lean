@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srStoppedExp_bound_on_ruin
 -- name    : ActuarialValuation.srStoppedExp_bound_on_ruin
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:23:30.421581+00:00
 -- url     : https://prove2.me/theorems/5ca7adb5-669c-42f9-b65f-ed8d4190740a

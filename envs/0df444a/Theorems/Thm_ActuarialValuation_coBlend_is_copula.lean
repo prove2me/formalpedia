@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_coBlend_is_copula
 -- name    : ActuarialValuation.coBlend_is_copula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:02.686979+00:00
 -- url     : https://prove2.me/theorems/110bc0ed-ed71-4611-8ba1-784fb8e77091

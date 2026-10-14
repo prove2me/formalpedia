@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_RandomMatrices_thresholded_covariance_estimation_bound_v2
 -- name    : HighDimStat.RandomMatrices.thresholded_covariance_estimation_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:20:32.844988+00:00
 -- url     : https://prove2.me/theorems/fc689528-bde4-44f1-b7ec-403f226fe1c8

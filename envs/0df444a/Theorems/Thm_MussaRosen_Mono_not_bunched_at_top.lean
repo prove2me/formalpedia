@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MussaRosen_Mono_not_bunched_at_top
 -- name    : MussaRosen.Mono.not_bunched_at_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:33:58.342098+00:00
 -- url     : https://prove2.me/theorems/ef3defdd-1c6b-449d-b253-735f1f1e09b7

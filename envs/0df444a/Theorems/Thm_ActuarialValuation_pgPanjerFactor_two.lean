@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgPanjerFactor_two
 -- name    : ActuarialValuation.pgPanjerFactor_two
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:53:55.295286+00:00
 -- url     : https://prove2.me/theorems/fb4bd49e-68d5-47ca-9f81-e207aee3c688

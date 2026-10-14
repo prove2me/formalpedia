@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DLSConsensus_LowerBound_theorem_4_3
 -- name    : DLSConsensus.LowerBound.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:47:16.122731+00:00
 -- url     : https://prove2.me/theorems/0da974da-94d8-4e7a-b934-5226e3fb3586

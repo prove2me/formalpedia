@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulDeathBenefit_equal_fund
 -- name    : ActuarialValuation.ulDeathBenefit_equal_fund
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:01.937478+00:00
 -- url     : https://prove2.me/theorems/1794246c-53af-4046-8fda-e0fff23ea922

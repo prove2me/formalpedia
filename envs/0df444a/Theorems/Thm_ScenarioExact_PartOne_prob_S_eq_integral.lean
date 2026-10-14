@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioExact_PartOne_prob_S_eq_integral
 -- name    : ScenarioExact.PartOne.prob_S_eq_integral
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T19:24:10.630485+00:00
 -- url     : https://prove2.me/theorems/baf5af1f-d415-4275-aa19-d5b01e3397fc

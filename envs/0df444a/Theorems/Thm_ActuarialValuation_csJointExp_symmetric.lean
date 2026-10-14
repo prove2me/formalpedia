@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointExp_symmetric
 -- name    : ActuarialValuation.csJointExp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:52.511049+00:00
 -- url     : https://prove2.me/theorems/a60dc392-7fef-4a34-8579-612e3e7660ae

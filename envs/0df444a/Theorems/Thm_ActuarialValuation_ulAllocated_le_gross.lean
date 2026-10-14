@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulAllocated_le_gross
 -- name    : ActuarialValuation.ulAllocated_le_gross
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:39.059544+00:00
 -- url     : https://prove2.me/theorems/8547c6ca-f5db-46ba-b0e1-6cf51ca2a084

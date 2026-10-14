@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_realCoeff_hermiteFactor
 -- name    : BookProof.YangMillsAbelianNoGap.realCoeff_hermiteFactor
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:33:21.727774+00:00
 -- url     : https://prove2.me/theorems/07603a3f-e354-409c-a0ef-c19f87fd0f1c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_DPEquations_eq1_zero_demand
 -- name    : SendSplit.DPEquations.eq1_zero_demand
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:25:27.043619+00:00
 -- url     : https://prove2.me/theorems/56112ed0-8a80-40d9-a95a-d7dd96d0e91d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurkholderDFI_ConvexPhi_theorem_15_1
 -- name    : BurkholderDFI.ConvexPhi.theorem_15_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:12:25.782047+00:00
 -- url     : https://prove2.me/theorems/6cf055bd-4068-4f3d-8dd0-a3672a7b88d2

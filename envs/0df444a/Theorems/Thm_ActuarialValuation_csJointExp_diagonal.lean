@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csJointExp_diagonal
 -- name    : ActuarialValuation.csJointExp_diagonal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:36:51.870985+00:00
 -- url     : https://prove2.me/theorems/93d0d737-f011-4705-bf7b-b82f68767b0a

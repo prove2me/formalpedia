@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crPositivePart_negative
 -- name    : ActuarialValuation.crPositivePart_negative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:18.95507+00:00
 -- url     : https://prove2.me/theorems/e24132be-f151-4e62-9a68-a04ae44895e3

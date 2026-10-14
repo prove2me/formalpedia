@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DEpenoux_LinearProgram_setA_le_setB
 -- name    : DEpenoux.LinearProgram.setA_le_setB
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:22:15.468303+00:00
 -- url     : https://prove2.me/theorems/675d0fda-6fef-461c-9bca-09f86502e48e

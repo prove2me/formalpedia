@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchrageSRPT_Opt_srpt_optimal
 -- name    : SchrageSRPT.Opt.srpt_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:22:43.764106+00:00
 -- url     : https://prove2.me/theorems/bcee4e75-8807-40f9-b3d1-8c3eb0f6f0ce

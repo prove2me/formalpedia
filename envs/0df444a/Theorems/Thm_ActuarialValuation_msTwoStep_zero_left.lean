@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msTwoStep_zero_left
 -- name    : ActuarialValuation.msTwoStep_zero_left
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:55:36.87399+00:00
 -- url     : https://prove2.me/theorems/49ac3501-2fa1-40a8-83cd-86416d7745db

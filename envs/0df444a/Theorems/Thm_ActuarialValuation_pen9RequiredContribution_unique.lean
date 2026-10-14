@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pen9RequiredContribution_unique
 -- name    : ActuarialValuation.pen9RequiredContribution_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:00.210841+00:00
 -- url     : https://prove2.me/theorems/120f49cb-2917-41c2-ad4e-f56871418604

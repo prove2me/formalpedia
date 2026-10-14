@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srRuinBy_monotone
 -- name    : ActuarialValuation.srRuinBy_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:38.538206+00:00
 -- url     : https://prove2.me/theorems/3274dbc9-cb2c-4966-9d93-83b5caefe19b

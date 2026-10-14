@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StableFA_Discounted_theorem_2_2_contraction
 -- name    : StableFA.Discounted.theorem_2_2_contraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:39:53.640094+00:00
 -- url     : https://prove2.me/theorems/5581d6c4-b17c-42e4-b526-84cdf514cdd3

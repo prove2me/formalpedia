@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfDeficit_add_assets
 -- name    : ActuarialValuation.pfDeficit_add_assets
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:03:19.03748+00:00
 -- url     : https://prove2.me/theorems/ca17aba4-8fcb-44e2-bc58-63cf737e288c

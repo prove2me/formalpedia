@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_sameOrbit_negMom
 -- name    : BookProof.ChapterWignerOrbitClassification.sameOrbit_negMom
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:16:44.393815+00:00
 -- url     : https://prove2.me/theorems/cd3df0b9-26f7-4037-b729-8197847172c0

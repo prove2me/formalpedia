@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratExposureSum_succ
 -- name    : ActuarialValuation.ratExposureSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:22:47.991112+00:00
 -- url     : https://prove2.me/theorems/7ab0a87c-2b79-473a-9a6a-91ad38097b9a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TopkisRation_Levels_criticalLevel_exists
 -- name    : TopkisRation.Levels.criticalLevel_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:49:11.22226+00:00
 -- url     : https://prove2.me/theorems/3cecdc8c-f708-4afe-a570-eb4adf9feac0

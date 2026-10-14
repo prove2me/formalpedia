@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_QuantumGravity3DGauge_derOp_comm
 -- name    : BookProof.QuantumGravity3DGauge.derOp_comm
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T05:02:26.997386+00:00
 -- url     : https://prove2.me/theorems/0f80cfeb-82fd-4b67-ba1e-b5586aa004d3

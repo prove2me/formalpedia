@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irDevelopmentFactor_cancel
 -- name    : ActuarialValuation.irDevelopmentFactor_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:01.958058+00:00
 -- url     : https://prove2.me/theorems/4ea84342-1535-434a-87bb-b0274fd87d1f

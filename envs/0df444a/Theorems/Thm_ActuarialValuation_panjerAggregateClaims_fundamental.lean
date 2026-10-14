@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerAggregateClaims_fundamental
 -- name    : ActuarialValuation.panjerAggregateClaims_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T08:02:55.399642+00:00
 -- url     : https://prove2.me/theorems/b7a89ffa-8add-4065-8ec3-d3b6d9688629

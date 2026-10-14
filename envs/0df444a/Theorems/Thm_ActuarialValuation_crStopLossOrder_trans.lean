@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crStopLossOrder_trans
 -- name    : ActuarialValuation.crStopLossOrder_trans
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:40:46.639+00:00
 -- url     : https://prove2.me/theorems/d8e1e046-37b4-4817-8d28-ce76e7cdb80b

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TsitsiklisGittins_IndexTheorem_theorem2_1_priority_rule_optimal
 -- name    : TsitsiklisGittins.IndexTheorem.theorem2_1_priority_rule_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:49:22.286978+00:00
 -- url     : https://prove2.me/theorems/fe831772-527d-4693-8c9c-1a098d760cbf

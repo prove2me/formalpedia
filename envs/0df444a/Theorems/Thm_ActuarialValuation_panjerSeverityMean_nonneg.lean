@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_panjerSeverityMean_nonneg
 -- name    : ActuarialValuation.panjerSeverityMean_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:29:06.343698+00:00
 -- url     : https://prove2.me/theorems/1e7c8915-c967-4074-93a9-267ab9665184

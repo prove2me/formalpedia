@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Converse_twoPointLaw_not_isProduct
 -- name    : DistCov.Converse.twoPointLaw_not_isProduct
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:29:30.289761+00:00
 -- url     : https://prove2.me/theorems/ce567468-32f7-4918-865d-004b0828a132

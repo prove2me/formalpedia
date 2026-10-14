@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmLogLikeEta_derivative
 -- name    : ActuarialValuation.gmLogLikeEta_derivative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:07:48.914699+00:00
 -- url     : https://prove2.me/theorems/a7335760-df4e-4977-a8f4-2368104fab2e

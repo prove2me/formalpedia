@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PHLowerBound_TwoStage_proposition_1
 -- name    : PHLowerBound.TwoStage.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:33:10.359422+00:00
 -- url     : https://prove2.me/theorems/8f933a55-23c3-4a08-b0a8-0deb7ff03021

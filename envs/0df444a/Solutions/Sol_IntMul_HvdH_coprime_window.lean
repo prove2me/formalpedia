@@ -1,0 +1,188 @@
+-- Prove2me | solution 1 for IntMul.HvdH.coprime_window
+-- status  : ACCEPTED   (prove)
+-- author  : @xuanji
+-- created : 2026-10-11T21:32:58.519984+00:00
+-- url     : https://prove2.me/submissions/8fa2f3fe-787f-4d87-90f6-e4081d08847b
+
+import Mathlib
+
+namespace IntMul.HvdH.Cop
+
+/-- Numbers `1 + Q m` whose indices `m` lie in a window of width `D` are pairwise coprime as soon
+as every prime `≤ D` divides `Q` (e.g. `D! ∣ Q`). -/
+theorem coprime_window (D Q m m' : ℕ) (hQ : D.factorial ∣ Q) (hne : m ≠ m')
+    (hw : m ≤ m' + D) (hw' : m' ≤ m + D) : Nat.Coprime (1 + Q * m) (1 + Q * m') := by
+  wlog h : m < m' generalizing m m'
+  · exact (this m' m (Ne.symm hne) hw' hw (by omega)).symm
+  rw [Nat.coprime_iff_gcd_eq_one]
+  by_contra hg
+  obtain ⟨p, hp, hpg⟩ := Nat.exists_prime_and_dvd hg
+  have h1 : p ∣ 1 + Q * m := hpg.trans (Nat.gcd_dvd_left _ _)
+  have h2 : p ∣ 1 + Q * m' := hpg.trans (Nat.gcd_dvd_right _ _)
+  have hdiff : p ∣ Q * (m' - m) := by
+    have : 1 + Q * m' = (1 + Q * m) + Q * (m' - m) := by
+      rw [Nat.mul_sub, ← Nat.add_sub_assoc (Nat.mul_le_mul_left Q h.le)]; omega
+    rw [this] at h2
+    exact (Nat.dvd_add_right h1).1 h2
+  have hpQ : ¬ p ∣ Q := by
+    intro hq
+    have : p ∣ 1 := by
+      have := (Nat.dvd_add_right (dvd_mul_of_dvd_left hq m)).1 (by rwa [add_comm] at h1)
+      exact this
+    exact hp.one_lt.ne' (Nat.dvd_one.1 this)
+  have hpm : p ∣ m' - m := (hp.dvd_mul.1 hdiff).resolve_left hpQ
+  have hle : p ≤ D := (Nat.le_of_dvd (by omega) hpm).trans (by omega)
+  exact hpQ ((Nat.dvd_factorial hp.pos hle).trans hQ)
+
+/-- One group of the parameter choice: below `(1-η) t` with `η = 1/(4d)` there are `d` numbers
+`1 + Q (m₀ - i)` in `((1-2η) t, (1-η) t]`. -/
+lemma group_choice (d t Q : ℕ) (hd : 1 ≤ d) (hQ : 0 < Q) (ht : 4 * d * d * Q + 4 * d ≤ t) :
+    d ≤ ((4 * d - 1) * t - 4 * d) / (4 * d * Q) ∧ ∀ i < d,
+      (4 * d - 2) * t < 4 * d * (1 + Q * (((4 * d - 1) * t - 4 * d) / (4 * d * Q) - i)) ∧
+      4 * d * (1 + Q * (((4 * d - 1) * t - 4 * d) / (4 * d * Q) - i)) ≤ (4 * d - 1) * t := by
+  set N := 4 * d * Q with hN
+  have hN0 : 0 < N := by positivity
+  set a := (4 * d - 1) * t - 4 * d with ha
+  set m0 := a / N with hm0
+  have h1 : N * m0 ≤ a := Nat.mul_div_le a N
+  have h2 : a < N * (m0 + 1) := Nat.lt_mul_div_succ a hN0
+  have h4d : 4 ≤ 4 * d := by omega
+  have hta : (4 * d - 1) * t = a + 4 * d := by
+    have : 4 * d ≤ (4 * d - 1) * t := by
+      calc 4 * d ≤ t := by nlinarith
+        _ ≤ (4 * d - 1) * t := Nat.le_mul_of_pos_left t (by omega)
+    omega
+  have hNd : N * d ≤ t := by
+    have : N * d = 4 * d * d * Q := by rw [hN]; ring
+    omega
+  have hm0d : d ≤ m0 := by
+    by_contra hc
+    push Not at hc
+    have : N * (m0 + 1) ≤ N * d := Nat.mul_le_mul_left N hc
+    -- a < N d ≤ t but a = (4d-1) t - 4d ≥ 3t - 4d ≥ t
+    have h3 : 3 * t ≤ (4 * d - 1) * t := Nat.mul_le_mul_right t (by omega)
+    omega
+  refine ⟨hm0d, fun i hi => ?_⟩
+  have hsub : Q * (m0 - i) = Q * m0 - Q * i := Nat.mul_sub _ _ _
+  have hNi : N * i ≤ N * m0 := Nat.mul_le_mul_left N (by omega)
+  have hNi' : N * i + N ≤ N * d := by
+    have := Nat.mul_le_mul_left N (show i + 1 ≤ d by omega); rwa [mul_add, mul_one] at this
+  have hA : 4 * d * (Q * m0) = N * m0 := by rw [hN]; ring
+  have hB : 4 * d * (Q * i) = N * i := by rw [hN]; ring
+  have e1 : 4 * d * (1 + Q * (m0 - i)) = 4 * d + (N * m0 - N * i) := by
+    rw [Nat.mul_sub, mul_add, mul_one, Nat.mul_sub, hA, hB]
+  have h3 : (4 * d - 2) * t + t = (4 * d - 1) * t := by
+    rw [← Nat.succ_mul]; congr 1; omega
+  rw [e1]
+  rw [mul_add, mul_one] at h2
+  generalize N * m0 = P at *
+  generalize N * i = Pi at *
+  generalize N * d = Pd at *
+  constructor
+  · omega
+  · omega
+
+/-- **Parameter choice replacing Lemma 5.1 of Harvey–van der Hoeven.** For `η = 1/(4d)` and `r`
+large, there are pairwise coprime odd `s_i` with `(1 - 2η) t_i < s_i ≤ (1 - η) t_i`, where
+`t_i = r/2` for `i < d'` and `t_i = r` otherwise. -/
+theorem coprime_params (d d' r : ℕ) (hd : 1 ≤ d) (hd' : d' ≤ d) (hr : 2 ∣ r)
+    (hbig : 64 * d ^ 2 * (256 * d ^ 2).factorial ≤ r) :
+    ∃ s : Fin d → ℕ, (∀ i, Odd (s i)) ∧ (∀ i j, i ≠ j → Nat.Coprime (s i) (s j)) ∧
+      ∀ i : Fin d, (4 * d - 2) * (if (i : ℕ) < d' then r / 2 else r) < 4 * d * s i ∧
+        4 * d * s i ≤ (4 * d - 1) * (if (i : ℕ) < d' then r / 2 else r) := by
+  set D := 256 * d ^ 2 with hD
+  set F := D.factorial with hF
+  have hF0 : 0 < F := Nat.factorial_pos D
+  set Q := 2 * F * (r / (2 * F * D) + 1) with hQ
+  have hQ0 : 0 < Q := by positivity
+  have hD0 : 0 < D := by positivity
+  -- `Q D > r` and `Q ≤ r / D + 2F`
+  have hQD : r < Q * D := by
+    have := Nat.lt_div_mul_add (a := r) (show 0 < 2 * F * D by positivity)
+    rw [hQ]; nlinarith
+  have hQle : Q * D ≤ r + 2 * F * D := by
+    rw [hQ, mul_add, mul_one, add_mul]
+    have := Nat.div_mul_le_self r (2 * F * D)
+    nlinarith
+  -- both groups satisfy the size hypothesis
+  have hbig' : 64 * d ^ 2 * F ≤ r := hbig
+  have hsize : ∀ t, r ≤ 2 * t → 4 * d * d * Q + 4 * d ≤ t := by
+    intro t ht
+    -- 4 d² Q * 64 = Q * D / 4 * ... : 256 d² Q = Q D ≤ r + 2 F D
+    have e : 256 * (4 * d * d * Q) = 4 * (Q * D) := by rw [hD]; ring
+    have hFD : 2 * F * D = 512 * d ^ 2 * F := by rw [hD]; ring
+    have h4d : 64 * 4 * d ≤ r := by
+      have hDF : D ≤ F := Nat.self_le_factorial D
+      have hd2 : d ≤ d ^ 2 := by nlinarith
+      have : 64 * 4 * d ≤ 64 * d ^ 2 * D := by
+        rw [hD]
+        have : 1 ≤ d ^ 2 := by nlinarith
+        nlinarith
+      have : 64 * d ^ 2 * D ≤ 64 * d ^ 2 * F := Nat.mul_le_mul_left _ hDF
+      omega
+    nlinarith
+  obtain ⟨g1d, g1⟩ := group_choice d (r / 2) Q hd hQ0 (hsize _ (by omega))
+  obtain ⟨g2d, g2⟩ := group_choice d r Q hd hQ0 (hsize _ (by omega))
+  set m1 := ((4 * d - 1) * (r / 2) - 4 * d) / (4 * d * Q)
+  set m2 := ((4 * d - 1) * r - 4 * d) / (4 * d * Q)
+  let m : Fin d → ℕ := fun i => if (i : ℕ) < d' then m1 - i else m2 - (i - d')
+  refine ⟨fun i => 1 + Q * m i, fun i => ?_, fun i j hij => ?_, fun i => ?_⟩
+  · have hE : Even Q := even_iff_two_dvd.2 ⟨F * (r / (2 * F * D) + 1), by rw [hQ]; ring⟩
+    exact (hE.mul_right (m i)).one_add
+  · -- coprimality via the window lemma: all indices are ≤ D
+    have hmD : ∀ k, m k ≤ D := by
+      intro k
+      have hm2 : m2 ≤ D := by
+        apply Nat.div_le_of_le_mul
+        have h2 : (4 * d - 1) * r - 4 * d ≤ 4 * d * r := by
+          have : (4 * d - 1) * r ≤ 4 * d * r := Nat.mul_le_mul_right r (by omega)
+          omega
+        calc (4 * d - 1) * r - 4 * d ≤ 4 * d * r := h2
+          _ ≤ 4 * d * (Q * D) := Nat.mul_le_mul_left _ hQD.le
+          _ = 4 * d * Q * D := by ring
+      have h12 : m1 ≤ m2 := Nat.div_le_div_right (by
+        have : (4 * d - 1) * (r / 2) ≤ (4 * d - 1) * r := Nat.mul_le_mul_left _ (by omega)
+        omega)
+      simp only [m]; split_ifs
+      · exact ((Nat.sub_le _ _).trans h12).trans hm2
+      · exact (Nat.sub_le _ _).trans hm2
+    have hval : ∀ k, 4 * d * (1 + Q * m k) ≤ (4 * d - 1) * (if (k : ℕ) < d' then r / 2 else r) ∧
+        (4 * d - 2) * (if (k : ℕ) < d' then r / 2 else r) < 4 * d * (1 + Q * m k) := by
+      intro k
+      simp only [m]
+      split_ifs with hk
+      · exact ⟨(g1 k (by omega)).2, (g1 k (by omega)).1⟩
+      · exact ⟨(g2 (k - d') (by omega)).2, (g2 (k - d') (by omega)).1⟩
+    have hlt : (4 * d - 1) * (r / 2) < (4 * d - 2) * r := by
+      have e2 : (4 * d - 1) * (r / 2) * 2 = (4 * d - 1) * r := by
+        rw [mul_assoc, Nat.div_mul_cancel hr]
+      have hr0 : 0 < r := by
+        have : 0 < 64 * d ^ 2 * F := by positivity
+        omega
+      have : (4 * d - 1) * r < 2 * ((4 * d - 2) * r) := by
+        rw [← mul_assoc]; exact Nat.mul_lt_mul_of_pos_right (by omega) hr0
+      omega
+    have hne : m i ≠ m j := by
+      intro heq
+      have hi := hval i
+      have hj := hval j
+      rw [heq] at hi
+      by_cases hi' : (i : ℕ) < d' <;> by_cases hj' : (j : ℕ) < d'
+      · dsimp only [m] at heq; rw [if_pos hi', if_pos hj'] at heq
+        exact hij (Fin.ext (by omega))
+      · rw [if_pos hi'] at hi; rw [if_neg hj'] at hj; omega
+      · rw [if_neg hi'] at hi; rw [if_pos hj'] at hj; omega
+      · dsimp only [m] at heq; rw [if_neg hi', if_neg hj'] at heq
+        exact hij (Fin.ext (by omega))
+    exact coprime_window D Q (m i) (m j) (dvd_mul_of_dvd_left (dvd_mul_left _ _) _) hne
+      (by have := hmD i; omega) (by have := hmD j; omega)
+  · simp only [m]
+    split_ifs with hk
+    · exact g1 i (by omega)
+    · exact g2 (i - d') (by omega)
+
+end IntMul.HvdH.Cop
+
+theorem solution (D Q m m' : ℕ) (hQ : D.factorial ∣ Q) (hne : m ≠ m')
+    (hw : m ≤ m' + D) (hw' : m' ≤ m + D) : Nat.Coprime (1 + Q * m) (1 + Q * m') :=
+  IntMul.HvdH.Cop.coprime_window D Q m m' hQ hne hw hw'

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_kmRestrictedLife_nonneg
 -- name    : ActuarialValuation.kmRestrictedLife_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T07:51:57.883628+00:00
 -- url     : https://prove2.me/theorems/060dc0cb-f679-431e-ab5f-c7a0ceb69700

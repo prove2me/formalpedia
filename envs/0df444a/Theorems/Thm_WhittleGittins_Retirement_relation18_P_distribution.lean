@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittleGittins_Retirement_relation18_P_distribution
 -- name    : WhittleGittins.Retirement.relation18_P_distribution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:35.988564+00:00
 -- url     : https://prove2.me/theorems/897d67d9-9a06-4678-ba28-3735c927d471

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedLongReference_l1_comparison
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedLongReference_l1_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:35:06.767968+00:00
 -- url     : https://prove2.me/theorems/b1d9a735-eb03-474c-8b44-f3a8e776d90c

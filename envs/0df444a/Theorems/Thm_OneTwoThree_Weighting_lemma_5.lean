@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OneTwoThree_Weighting_lemma_5
 -- name    : OneTwoThree.Weighting.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T23:55:30.545162+00:00
 -- url     : https://prove2.me/theorems/18cd221d-d23a-4ae5-97c8-ca2db074a231

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BertsekasShreve_AnalyticSelection_jankov_von_neumann
 -- name    : BertsekasShreve.AnalyticSelection.jankov_von_neumann
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T00:51:42.156207+00:00
 -- url     : https://prove2.me/theorems/7e43bf53-07c9-4635-8b06-49baad8597e6

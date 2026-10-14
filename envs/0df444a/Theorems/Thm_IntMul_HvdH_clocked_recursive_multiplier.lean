@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntMul_HvdH_clocked_recursive_multiplier
 -- name    : IntMul.HvdH.clocked_recursive_multiplier
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-10-09T14:34:46.164164+00:00
 -- url     : https://prove2.me/theorems/c92140cc-be98-41c7-98f0-a01968ec5e42

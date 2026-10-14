@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Removal_binomial_sum_le_exp
 -- name    : ScenarioApproach.Removal.binomial_sum_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T05:39:47.876689+00:00
 -- url     : https://prove2.me/theorems/3c352328-2b84-4c20-a39e-751c39680cbb

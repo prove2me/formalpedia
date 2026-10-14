@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrBasicPlusOperational_add
 -- name    : ActuarialValuation.scrBasicPlusOperational_add
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:19:01.086053+00:00
 -- url     : https://prove2.me/theorems/fee9a6cc-4f53-4cbe-ac0f-72fe956af416

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationPaidUpBenefit_unique
 -- name    : ActuarialValuation.alterationPaidUpBenefit_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:06:05.353502+00:00
 -- url     : https://prove2.me/theorems/cb37c210-e268-496e-b818-4565689a797a

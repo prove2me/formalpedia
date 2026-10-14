@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucAmortisationRate_unique
 -- name    : ActuarialValuation.pucAmortisationRate_unique
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:12:02.076404+00:00
 -- url     : https://prove2.me/theorems/d63e8742-afd6-4330-b582-6ba802bbdef9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ScenarioApproach_Removal_removal_bound_at_epsK_le
 -- name    : ScenarioApproach.Removal.removal_bound_at_epsK_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T05:55:57.282806+00:00
 -- url     : https://prove2.me/theorems/1ceb02a1-2855-4e81-b9ed-df7d8a792fc9

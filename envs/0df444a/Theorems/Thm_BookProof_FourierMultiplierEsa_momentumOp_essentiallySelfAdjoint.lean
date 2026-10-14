@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_momentumOp_essentiallySelfAdjoint
 -- name    : BookProof.FourierMultiplierEsa.momentumOp_essentiallySelfAdjoint
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:23:37.236282+00:00
 -- url     : https://prove2.me/theorems/ce8cff7c-6a60-4e99-8805-424947bec65f

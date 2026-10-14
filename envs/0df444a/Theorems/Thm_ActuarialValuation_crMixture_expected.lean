@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crMixture_expected
 -- name    : ActuarialValuation.crMixture_expected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:34:08.217988+00:00
 -- url     : https://prove2.me/theorems/9f176420-65b1-412c-ad58-9e7d85c1550d

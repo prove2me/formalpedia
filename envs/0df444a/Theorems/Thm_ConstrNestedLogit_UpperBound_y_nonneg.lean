@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ConstrNestedLogit_UpperBound_y_nonneg
 -- name    : ConstrNestedLogit.UpperBound.y_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:04:37.944494+00:00
 -- url     : https://prove2.me/theorems/9a213fa6-004a-44da-bca5-ed6ad9eeaef4

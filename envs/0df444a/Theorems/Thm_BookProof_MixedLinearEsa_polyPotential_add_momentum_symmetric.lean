@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_MixedLinearEsa_polyPotential_add_momentum_symmetric
 -- name    : BookProof.MixedLinearEsa.polyPotential_add_momentum_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T13:08:23.459978+00:00
 -- url     : https://prove2.me/theorems/7ffa1191-b567-494c-964d-cf341cd65f3b

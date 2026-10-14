@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulEarned_zero_interest
 -- name    : ActuarialValuation.ulEarned_zero_interest
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:11.51309+00:00
 -- url     : https://prove2.me/theorems/06fe478c-80fc-4e5d-8c68-79f6eca04a40

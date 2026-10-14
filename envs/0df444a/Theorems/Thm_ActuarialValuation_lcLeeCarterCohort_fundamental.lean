@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_lcLeeCarterCohort_fundamental
 -- name    : ActuarialValuation.lcLeeCarterCohort_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:03:37.264981+00:00
 -- url     : https://prove2.me/theorems/966ba589-6170-4a94-9f61-29bc96ba73e0

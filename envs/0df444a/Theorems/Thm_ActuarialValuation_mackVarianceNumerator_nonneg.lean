@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackVarianceNumerator_nonneg
 -- name    : ActuarialValuation.mackVarianceNumerator_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:29:40.641875+00:00
 -- url     : https://prove2.me/theorems/ce1c6ffb-45f7-40d7-9a67-365e2baf48b1

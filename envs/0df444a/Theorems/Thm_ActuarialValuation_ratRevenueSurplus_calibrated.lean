@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ratRevenueSurplus_calibrated
 -- name    : ActuarialValuation.ratRevenueSurplus_calibrated
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:47:13.46028+00:00
 -- url     : https://prove2.me/theorems/43fc730b-8f00-431a-8368-c953a907950e

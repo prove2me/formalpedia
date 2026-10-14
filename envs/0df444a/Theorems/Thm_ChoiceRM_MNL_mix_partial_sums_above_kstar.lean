@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChoiceRM_MNL_mix_partial_sums_above_kstar
 -- name    : ChoiceRM.MNL.mix_partial_sums_above_kstar
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:52:02.670611+00:00
 -- url     : https://prove2.me/theorems/fb8a0de8-20f1-4f44-a3ab-81161c0608b9

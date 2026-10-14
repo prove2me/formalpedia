@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropyTemperature_attentionEntropy_eq
 -- name    : BookProof.ChapterEntropyTemperature.attentionEntropy_eq
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:48:58.932018+00:00
 -- url     : https://prove2.me/theorems/9e8cff0f-8df8-4dfb-9e2a-ae59052033ce

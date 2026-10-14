@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackSquaredResidual_symm
 -- name    : ActuarialValuation.mackSquaredResidual_symm
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:28:20.660091+00:00
 -- url     : https://prove2.me/theorems/29e53b1b-ed2c-457c-82a9-4a8795457ea8

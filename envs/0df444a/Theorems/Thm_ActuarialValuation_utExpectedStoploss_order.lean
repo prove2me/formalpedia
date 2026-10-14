@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_utExpectedStoploss_order
 -- name    : ActuarialValuation.utExpectedStoploss_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:59.042484+00:00
 -- url     : https://prove2.me/theorems/9f8831b5-0841-45fb-a675-7757e44dbc42

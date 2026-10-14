@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msResetReserve_duration_sensitive
 -- name    : ActuarialValuation.msResetReserve_duration_sensitive
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:03:48.768508+00:00
 -- url     : https://prove2.me/theorems/47b88a88-8c15-4498-a395-5b9e6b74ccb0

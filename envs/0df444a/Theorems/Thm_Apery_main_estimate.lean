@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Apery_main_estimate
 -- name    : Apery.main_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @tomasz
 -- created : 2026-10-01T11:24:42.914894+00:00
 -- url     : https://prove2.me/theorems/f58426e7-d5fc-4010-97d0-6c44ec0af19e

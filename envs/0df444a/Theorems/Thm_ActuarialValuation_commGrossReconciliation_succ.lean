@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commGrossReconciliation_succ
 -- name    : ActuarialValuation.commGrossReconciliation_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:15:16.126161+00:00
 -- url     : https://prove2.me/theorems/a736c005-600a-41dd-9743-1997c19629e2

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RelSmoothFOM_PrimalGrad_theorem_3_1
 -- name    : RelSmoothFOM.PrimalGrad.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T03:34:37.567583+00:00
 -- url     : https://prove2.me/theorems/edda1c61-fade-4d9b-ac3e-fab885e01169

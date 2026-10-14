@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LambdaCoalescent_CoagFrag_lemma_9_exists
 -- name    : LambdaCoalescent.CoagFrag.lemma_9_exists
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:21:05.782417+00:00
 -- url     : https://prove2.me/theorems/0bf703f4-ee0a-4ce4-97c0-bf73f0acc6e8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crRobustCapital_fundamental
 -- name    : ActuarialValuation.crRobustCapital_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:42:19.798978+00:00
 -- url     : https://prove2.me/theorems/7c23e4fe-a23c-4386-a287-1491024caae6

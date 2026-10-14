@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msReserveOne_zero_discount
 -- name    : ActuarialValuation.msReserveOne_zero_discount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:59:19.954074+00:00
 -- url     : https://prove2.me/theorems/607ec1b0-5bf5-4c83-bbf0-12c3e03370cd

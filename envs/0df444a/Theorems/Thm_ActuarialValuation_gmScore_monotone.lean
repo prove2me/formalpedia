@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmScore_monotone
 -- name    : ActuarialValuation.gmScore_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:08:16.228929+00:00
 -- url     : https://prove2.me/theorems/c19386c0-6fd8-44b1-845b-2a68631e4b0c

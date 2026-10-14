@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MDPFinance_TerminalWealth_power_utility_solution
 -- name    : MDPFinance.TerminalWealth.power_utility_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T21:57:26.035973+00:00
 -- url     : https://prove2.me/theorems/2e27fc85-aad5-4145-bbea-76d8dd63822e

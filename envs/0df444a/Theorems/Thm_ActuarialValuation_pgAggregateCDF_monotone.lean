@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgAggregateCDF_monotone
 -- name    : ActuarialValuation.pgAggregateCDF_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:29.829761+00:00
 -- url     : https://prove2.me/theorems/9409656c-ffc9-455b-8065-687f62e833fe

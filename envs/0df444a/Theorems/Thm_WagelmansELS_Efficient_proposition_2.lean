@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WagelmansELS_Efficient_proposition_2
 -- name    : WagelmansELS.Efficient.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:59:07.778226+00:00
 -- url     : https://prove2.me/theorems/5f25c973-fb16-4203-b4f6-b39ea09f090d

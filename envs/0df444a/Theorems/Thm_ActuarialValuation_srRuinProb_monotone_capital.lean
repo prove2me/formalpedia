@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_srRuinProb_monotone_capital
 -- name    : ActuarialValuation.srRuinProb_monotone_capital
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:17:34.296428+00:00
 -- url     : https://prove2.me/theorems/648fd4b5-fad3-45d8-a34a-c86aaa1e2cf3

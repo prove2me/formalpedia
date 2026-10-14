@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_SmHamiltonian_realCoeff_smFormPoly
 -- name    : BookProof.SmHamiltonian.realCoeff_smFormPoly
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T13:58:19.232881+00:00
 -- url     : https://prove2.me/theorems/e9284609-9558-478c-ae6e-0501c2c7d134

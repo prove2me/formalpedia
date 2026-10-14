@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PathFindingLP_WeightFunction_slack_sensitivity_bound
 -- name    : PathFindingLP.WeightFunction.slack_sensitivity_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:48:05.464982+00:00
 -- url     : https://prove2.me/theorems/ee3107e7-3fec-4e0e-9643-bd9f853230b7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SimpsonInv_Vertex_exists_isMinOn
 -- name    : SimpsonInv.Vertex.exists_isMinOn
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:26:45.785741+00:00
 -- url     : https://prove2.me/theorems/c849835a-d001-4f34-b28d-1e3b1eea59b4

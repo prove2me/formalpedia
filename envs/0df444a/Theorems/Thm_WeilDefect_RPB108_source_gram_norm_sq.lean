@@ -12,8 +12,12 @@
 --   $$\left\|\sum_i z_i r_i\right\|^2=Q_G(z).$$
 --
 --   This is an exact identity for actual vectors, with reality of all inner products explicitly assumed; no enumeration or abstract substitute is used.
+--
+--   Approval/restoration note (2026-10-11): The user confirmed approval and merger of Weil PRs #1 and #2. The published source is now included in approved Weil/main at d2b758dfdd01b40887a3cb97524f29013c74c7ba. All 23 RPB108 component modules were checked byte-for-byte against the publication source. The record is restored within its existing conditional/exact-data scope; no original-form attachment or RH claim is added.
 -- source:
 --   https://github.com/monocap-tech/weil/blob/ada7948cb459fd21d400cd8f2a92e87672e31f2d/WeilDefect/RPB108/SourcePairing.lean#L6-L22; exact native theorem WeilDefect.RPB108.source_gram_norm_sq. SHA256 ba90c8b11465f83dc965c1ed4c7657c17689a1ac3a9e74b76eb6f40f7f80bfaa. Rational certificates are distinct from original-form realization attachments and analytic/interval-producer replay.
+--
+--   Approved source promotion: Weil PR #2 was merged into main at d2b758dfdd01b40887a3cb97524f29013c74c7ba after user approval; source bytes match the original publication pin.
 
 import Mathlib
 import Definitions.Def_RPB108_ThreeGram

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_formalJet_box_coefficients
 -- name    : OAI.PiExponent.FormalInterpolation.formalJet_box_coefficients
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T17:10:30.512375+00:00
 -- url     : https://prove2.me/theorems/877e9fd5-fde0-4071-bf2c-ae2b6977e30f

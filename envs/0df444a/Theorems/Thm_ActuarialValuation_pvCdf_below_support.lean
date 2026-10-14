@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pvCdf_below_support
 -- name    : ActuarialValuation.pvCdf_below_support
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:22:45.807799+00:00
 -- url     : https://prove2.me/theorems/490f7e42-c87e-477d-a3c3-0a3cc1e6e0e9

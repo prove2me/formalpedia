@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pucAccruedFuture_partition
 -- name    : ActuarialValuation.pucAccruedFuture_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T23:12:33.935978+00:00
 -- url     : https://prove2.me/theorems/42fab839-23aa-46ef-8810-43de7f3af8e5

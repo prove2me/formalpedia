@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_IntroMatrixConc_GaussianSeries_tail_integration
 -- name    : IntroMatrixConc.GaussianSeries.tail_integration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T02:40:48.991988+00:00
 -- url     : https://prove2.me/theorems/cb733b0f-7e2c-43a9-a26b-39c2d88b7803

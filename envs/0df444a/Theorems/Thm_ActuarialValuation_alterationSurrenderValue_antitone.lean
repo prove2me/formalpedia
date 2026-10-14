@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_alterationSurrenderValue_antitone
 -- name    : ActuarialValuation.alterationSurrenderValue_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:11:02.068394+00:00
 -- url     : https://prove2.me/theorems/5c9242c1-5cb5-4b2a-a255-c008283b4bf7

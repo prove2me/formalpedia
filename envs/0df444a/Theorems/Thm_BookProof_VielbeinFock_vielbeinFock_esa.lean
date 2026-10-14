@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_VielbeinFock_vielbeinFock_esa
 -- name    : BookProof.VielbeinFock.vielbeinFock_esa
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T16:51:06.15364+00:00
 -- url     : https://prove2.me/theorems/e95ec1d7-bb85-40f5-9246-0b8e82c4ad64

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_greedy_fill_rate_optimal
 -- name    : ServiceParts.StockLevels.greedy_fill_rate_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:29:10.428044+00:00
 -- url     : https://prove2.me/theorems/9acb6127-248e-4635-9ad0-c39a25a113bb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfLiabilitiesNext_zero_flow
 -- name    : ActuarialValuation.pfLiabilitiesNext_zero_flow
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:06:20.848119+00:00
 -- url     : https://prove2.me/theorems/dd5f0aae-cd3a-49f5-815f-46d8279917bb

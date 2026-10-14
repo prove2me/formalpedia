@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlReversionaryPayment_zero_no_death
 -- name    : ActuarialValuation.jlReversionaryPayment_zero_no_death
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:11:00.033935+00:00
 -- url     : https://prove2.me/theorems/aeac6022-503b-4fc6-b4c4-e0fd1a7c6706

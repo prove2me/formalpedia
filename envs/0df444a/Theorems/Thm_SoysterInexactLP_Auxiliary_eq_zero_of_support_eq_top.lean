@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SoysterInexactLP_Auxiliary_eq_zero_of_support_eq_top
 -- name    : SoysterInexactLP.Auxiliary.eq_zero_of_support_eq_top
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:37:21.210407+00:00
 -- url     : https://prove2.me/theorems/1960ff5c-e508-482d-8612-93c8516baf15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Converse_proposition_3_15
 -- name    : DistCov.Converse.proposition_3_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T06:28:58.705763+00:00
 -- url     : https://prove2.me/theorems/b5f1cb2a-0eef-4341-bdde-461c53093793

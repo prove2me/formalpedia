@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAggregateRate_clears
 -- name    : ActuarialValuation.pfAggregateRate_clears
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:18.072144+00:00
 -- url     : https://prove2.me/theorems/12489663-4d44-4c41-8fa3-bc2274bfb12a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_frUdd_nonneg
 -- name    : ActuarialValuation.frUdd_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:15:57.698124+00:00
 -- url     : https://prove2.me/theorems/13ecc264-8036-47f2-b2b4-fa3f1fdbe871

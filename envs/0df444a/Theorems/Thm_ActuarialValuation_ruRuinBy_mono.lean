@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruRuinBy_mono
 -- name    : ActuarialValuation.ruRuinBy_mono
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:58:22.207438+00:00
 -- url     : https://prove2.me/theorems/5fad8ab9-0a5a-42c4-a768-a88cd86b741f

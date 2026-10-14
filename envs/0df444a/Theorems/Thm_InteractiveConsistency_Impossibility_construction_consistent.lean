@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_InteractiveConsistency_Impossibility_construction_consistent
 -- name    : InteractiveConsistency.Impossibility.construction_consistent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:39:56.586535+00:00
 -- url     : https://prove2.me/theorems/e1796bec-2425-4376-ae78-7b607132bf8e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_UnrelatedSched_ThreeHalves_corollary_2
 -- name    : UnrelatedSched.ThreeHalves.corollary_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:36:33.321332+00:00
 -- url     : https://prove2.me/theorems/0827226d-1ee7-4cc2-a8ac-5ffcc15d8e38

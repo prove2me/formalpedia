@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siIndependentVariance_nonneg
 -- name    : ActuarialValuation.siIndependentVariance_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:26.927979+00:00
 -- url     : https://prove2.me/theorems/9c86c4a9-383b-491d-9f04-c11945b9b930

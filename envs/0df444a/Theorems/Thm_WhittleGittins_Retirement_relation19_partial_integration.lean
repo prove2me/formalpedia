@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WhittleGittins_Retirement_relation19_partial_integration
 -- name    : WhittleGittins.Retirement.relation19_partial_integration
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:55:39.196061+00:00
 -- url     : https://prove2.me/theorems/b7403f10-e812-4be8-95c6-706eefd19cad

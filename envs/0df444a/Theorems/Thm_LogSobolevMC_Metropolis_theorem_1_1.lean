@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogSobolevMC_Metropolis_theorem_1_1
 -- name    : LogSobolevMC.Metropolis.theorem_1_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T19:58:31.52063+00:00
 -- url     : https://prove2.me/theorems/9b1b6138-8d24-45bd-85eb-f14d51127c8f

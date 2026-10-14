@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ipTail_monotone
 -- name    : ActuarialValuation.ipTail_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:19:00.3587+00:00
 -- url     : https://prove2.me/theorems/a9eead60-e56a-4abc-8fb1-a29a5c3426fb

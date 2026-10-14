@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlOutcomeSum_one
 -- name    : ActuarialValuation.jlOutcomeSum_one
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:18.613916+00:00
 -- url     : https://prove2.me/theorems/29f09921-3ecf-4e42-baee-542173c94982

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmLogMean_identity
 -- name    : ActuarialValuation.gmLogMean_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:02:59.868004+00:00
 -- url     : https://prove2.me/theorems/be6efd20-7049-41f2-8c75-3182f15f699e

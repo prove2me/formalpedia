@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnTwoStep_const
 -- name    : ActuarialValuation.bnTwoStep_const
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:57.936716+00:00
 -- url     : https://prove2.me/theorems/2c0fae8e-24d3-4c40-a9f2-3290123d047f

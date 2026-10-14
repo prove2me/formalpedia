@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_DPEquations_bellman_greatest_solution
 -- name    : SendSplit.DPEquations.bellman_greatest_solution
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:13:43.852005+00:00
 -- url     : https://prove2.me/theorems/48eafad7-cdf4-4db8-84a1-bfdeb6fc8c3b

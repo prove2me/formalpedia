@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crDebtPayoff_nonneg
 -- name    : ActuarialValuation.crDebtPayoff_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:04:50.689542+00:00
 -- url     : https://prove2.me/theorems/5cc6071e-a845-4d1b-82aa-2ea53585ba62

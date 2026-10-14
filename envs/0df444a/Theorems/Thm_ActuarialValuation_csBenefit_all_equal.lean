@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_csBenefit_all_equal
 -- name    : ActuarialValuation.csBenefit_all_equal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:51:43.944372+00:00
 -- url     : https://prove2.me/theorems/2c2ca9f6-c216-41c5-9607-5f3063b1c3e0

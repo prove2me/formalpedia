@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.FourierMultiplierEsa.momentumOp_essentiallySelfAdjoint
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T07:15:31.433845+00:00
 -- url     : https://prove2.me/submissions/80002125-5dbf-42e7-bf50-5177e712954f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterFourierMultiplierEsa.lean — solution of BookProof.FourierMultiplierEsa.momentumOp_essentiallySelfAdjoint
 import Mathlib

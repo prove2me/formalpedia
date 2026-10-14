@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_KleinbergHITS_Conv_theorem_3_2
 -- name    : KleinbergHITS.Conv.theorem_3_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:19:32.133987+00:00
 -- url     : https://prove2.me/theorems/795da435-853a-49c8-8e92-c494f87b6abb

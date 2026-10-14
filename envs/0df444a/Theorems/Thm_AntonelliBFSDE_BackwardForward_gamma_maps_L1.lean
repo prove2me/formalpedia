@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_BackwardForward_gamma_maps_L1
 -- name    : AntonelliBFSDE.BackwardForward.gamma_maps_L1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:09:08.69885+00:00
 -- url     : https://prove2.me/theorems/a2a33782-3e3c-49df-9503-b5cc9180fe22

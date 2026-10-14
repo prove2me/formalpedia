@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AntonelliBFSDE_Backward_iterIntMinus_le_pow_div_factorial
 -- name    : AntonelliBFSDE.Backward.iterIntMinus_le_pow_div_factorial
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:22:25.066776+00:00
 -- url     : https://prove2.me/theorems/4985befd-ad3e-47f7-8709-d7e7daf5d345

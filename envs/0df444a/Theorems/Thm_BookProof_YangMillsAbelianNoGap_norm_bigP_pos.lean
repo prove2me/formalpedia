@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsAbelianNoGap_norm_bigP_pos
 -- name    : BookProof.YangMillsAbelianNoGap.norm_bigP_pos
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:35:25.890278+00:00
 -- url     : https://prove2.me/theorems/3feeaf57-13ce-4096-ac08-45b92facbdb7

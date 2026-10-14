@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ClausiusDuhem_dissipation_nonneg_iff
 -- name    : ClausiusDuhem.dissipation_nonneg_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:37:09.868998+00:00
 -- url     : https://prove2.me/theorems/309de149-d7e6-4e8d-a05d-97c664c598d9

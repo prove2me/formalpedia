@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_deficiencyTrivialAt_of_real_symbol
 -- name    : BookProof.FourierMultiplierEsa.deficiencyTrivialAt_of_real_symbol
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:23.3491+00:00
 -- url     : https://prove2.me/theorems/3eefcdcd-85b5-41d7-8f3e-21bb585f3e7a

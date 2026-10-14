@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whSecondDifference_expand
 -- name    : ActuarialValuation.whSecondDifference_expand
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:03.998623+00:00
 -- url     : https://prove2.me/theorems/6fab0a0c-9194-4ce1-850a-3bb2270b6b0f

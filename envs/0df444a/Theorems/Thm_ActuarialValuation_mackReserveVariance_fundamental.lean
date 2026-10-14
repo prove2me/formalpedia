@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackReserveVariance_fundamental
 -- name    : ActuarialValuation.mackReserveVariance_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:32:45.217586+00:00
 -- url     : https://prove2.me/theorems/d4127d51-e4ee-4105-ae2f-a85eaa6799bc

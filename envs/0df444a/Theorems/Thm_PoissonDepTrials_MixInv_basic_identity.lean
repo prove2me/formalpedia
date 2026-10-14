@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PoissonDepTrials_MixInv_basic_identity
 -- name    : PoissonDepTrials.MixInv.basic_identity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T05:39:02.842059+00:00
 -- url     : https://prove2.me/theorems/11507414-64b7-4611-bf3e-50d5c16d05b8

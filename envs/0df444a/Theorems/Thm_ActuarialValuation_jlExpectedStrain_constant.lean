@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlExpectedStrain_constant
 -- name    : ActuarialValuation.jlExpectedStrain_constant
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:07:54.728035+00:00
 -- url     : https://prove2.me/theorems/0a5b793d-4688-4f68-8b5b-fb9a6bfa70c0

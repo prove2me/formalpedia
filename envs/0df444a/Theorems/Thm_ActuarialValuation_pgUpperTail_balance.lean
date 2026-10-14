@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pgUpperTail_balance
 -- name    : ActuarialValuation.pgUpperTail_balance
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T15:56:48.973256+00:00
 -- url     : https://prove2.me/theorems/7f97506b-9c8b-43fa-aba9-2014368dce7e

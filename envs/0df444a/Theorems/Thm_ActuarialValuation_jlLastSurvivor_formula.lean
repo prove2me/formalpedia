@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlLastSurvivor_formula
 -- name    : ActuarialValuation.jlLastSurvivor_formula
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:03:34.440118+00:00
 -- url     : https://prove2.me/theorems/c2fe5050-bd29-4a53-8766-e725fd954b3f

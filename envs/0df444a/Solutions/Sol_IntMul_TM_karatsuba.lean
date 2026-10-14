@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for IntMul.TM.karatsuba
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @avi
 -- created : 2026-10-09T17:33:53.512979+00:00
 -- url     : https://prove2.me/submissions/96d65dd4-f7cf-4b58-8cc1-41be46121497
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_IntMul_TM_schonhage_strassen

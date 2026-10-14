@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_smooth_compact_dense
 -- name    : HunterPDE.Sobolev.smooth_compact_dense
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:07:41.722795+00:00
 -- url     : https://prove2.me/theorems/78e2b9e8-e5a1-43fa-bc55-861ee508488a

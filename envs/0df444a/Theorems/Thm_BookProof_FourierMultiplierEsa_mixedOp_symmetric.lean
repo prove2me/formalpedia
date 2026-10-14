@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_FourierMultiplierEsa_mixedOp_symmetric
 -- name    : BookProof.FourierMultiplierEsa.mixedOp_symmetric
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T10:24:07.032226+00:00
 -- url     : https://prove2.me/theorems/0fea3c34-5ea6-443a-a5ee-f89862f37342

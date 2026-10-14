@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_gmInsuranceGLM_fundamental
 -- name    : ActuarialValuation.gmInsuranceGLM_fundamental
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:12:43.512657+00:00
 -- url     : https://prove2.me/theorems/88af500e-01aa-4616-a707-a703a99fc2e8

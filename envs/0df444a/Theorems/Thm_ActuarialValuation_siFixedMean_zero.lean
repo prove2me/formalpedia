@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_siFixedMean_zero
 -- name    : ActuarialValuation.siFixedMean_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:05:23.39233+00:00
 -- url     : https://prove2.me/theorems/d31009bc-b591-4008-b87e-298bf33679b8

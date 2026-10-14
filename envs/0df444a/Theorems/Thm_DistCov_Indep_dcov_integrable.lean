@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DistCov_Indep_dcov_integrable
 -- name    : DistCov.Indep.dcov_integrable
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T05:31:01.134358+00:00
 -- url     : https://prove2.me/theorems/d470305d-d3b6-49cf-a68c-d645588e3108

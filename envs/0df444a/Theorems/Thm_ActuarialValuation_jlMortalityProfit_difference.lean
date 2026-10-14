@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_jlMortalityProfit_difference
 -- name    : ActuarialValuation.jlMortalityProfit_difference
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:10:36.195202+00:00
 -- url     : https://prove2.me/theorems/3c2618bd-1f54-400f-9a8f-fd2b4ff09cf0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_pfAggregate_no_payroll
 -- name    : ActuarialValuation.pfAggregate_no_payroll
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T18:05:11.901872+00:00
 -- url     : https://prove2.me/theorems/2bb07661-4dea-44f5-8015-d96882a16398

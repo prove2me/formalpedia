@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Disjunctive_Polarity_facet_projects_to_facet_iff
 -- name    : Disjunctive.Polarity.facet_projects_to_facet_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T16:18:25.378781+00:00
 -- url     : https://prove2.me/theorems/8c70fa44-d98d-4567-b80d-423d2dde5cc4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_scrPortfolioQuadratic_zero
 -- name    : ActuarialValuation.scrPortfolioQuadratic_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:26.431194+00:00
 -- url     : https://prove2.me/theorems/f61c3be7-c44b-446e-a71d-b149a66f8354

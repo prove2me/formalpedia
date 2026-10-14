@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crExpected_nonneg
 -- name    : ActuarialValuation.crExpected_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:33:22.632347+00:00
 -- url     : https://prove2.me/theorems/0c4273dc-e2dd-40e2-bc5a-ad3fa41ee421

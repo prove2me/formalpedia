@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnAmerican_two_step_dominate_european
 -- name    : ActuarialValuation.bnAmerican_two_step_dominate_european
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:39:06.712162+00:00
 -- url     : https://prove2.me/theorems/4e6650f9-7f1f-4a11-aebd-6d4aea93e684

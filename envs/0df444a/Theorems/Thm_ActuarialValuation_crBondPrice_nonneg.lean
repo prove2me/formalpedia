@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_crBondPrice_nonneg
 -- name    : ActuarialValuation.crBondPrice_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:08:19.026984+00:00
 -- url     : https://prove2.me/theorems/a0bde7f2-d2ac-44d5-98fc-7f35282dc22a

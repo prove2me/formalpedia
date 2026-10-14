@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StochApproxDyn_Interpolation_a1At_iff_tendsto_delta
 -- name    : StochApproxDyn.Interpolation.a1At_iff_tendsto_delta
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T07:08:20.365141+00:00
 -- url     : https://prove2.me/theorems/4628f111-25ba-4d57-a142-cba1cf14a7cc

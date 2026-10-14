@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ruTwoScenarioRuin_all
 -- name    : ActuarialValuation.ruTwoScenarioRuin_all
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:04:11.209405+00:00
 -- url     : https://prove2.me/theorems/e68d952b-e7e0-4f20-aa8d-21029aeaadc8

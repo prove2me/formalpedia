@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulNetAmountAtRisk_zero
 -- name    : ActuarialValuation.ulNetAmountAtRisk_zero
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:28.715881+00:00
 -- url     : https://prove2.me/theorems/28ba9cc9-8cf5-4a68-a766-bc277e54a235

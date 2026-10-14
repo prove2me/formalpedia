@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_commDeathSum_succ
 -- name    : ActuarialValuation.commDeathSum_succ
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T06:11:05.44585+00:00
 -- url     : https://prove2.me/theorems/b4bead46-67d2-4137-b37e-49662506546f

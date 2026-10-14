@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerOrbitClassification_orbit_classification
 -- name    : BookProof.ChapterWignerOrbitClassification.orbit_classification
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T18:16:52.426055+00:00
 -- url     : https://prove2.me/theorems/ccd54c2a-59ac-45f9-8a26-72ee67fca177

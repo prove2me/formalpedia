@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_mackFactor_cancel
 -- name    : ActuarialValuation.mackFactor_cancel
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:26:47.374526+00:00
 -- url     : https://prove2.me/theorems/9551f287-d232-4fb2-add4-5c16c7ddedb4

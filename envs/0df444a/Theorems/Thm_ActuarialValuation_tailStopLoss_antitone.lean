@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_tailStopLoss_antitone
 -- name    : ActuarialValuation.tailStopLoss_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T09:39:58.434531+00:00
 -- url     : https://prove2.me/theorems/5b47f4a6-d2f3-4ff1-9a13-9bfac4b5b1f2

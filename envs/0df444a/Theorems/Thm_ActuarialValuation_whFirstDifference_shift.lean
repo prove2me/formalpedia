@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_whFirstDifference_shift
 -- name    : ActuarialValuation.whFirstDifference_shift
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T10:17:15.5575+00:00
 -- url     : https://prove2.me/theorems/94d5ac57-0bf0-44ef-8baf-a62e2608e479

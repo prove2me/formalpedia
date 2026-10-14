@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SendSplit_Existence_extreme_circulation_iff_eq_zero
 -- name    : SendSplit.Existence.extreme_circulation_iff_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:12:38.118924+00:00
 -- url     : https://prove2.me/theorems/e00e8c72-2e7d-4d80-bdf4-c0f0237748e6

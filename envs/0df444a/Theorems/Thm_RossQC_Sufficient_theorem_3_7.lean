@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RossQC_Sufficient_theorem_3_7
 -- name    : RossQC.Sufficient.theorem_3_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T17:40:52.488997+00:00
 -- url     : https://prove2.me/theorems/5fb6be5f-b092-4737-a819-92bb14943415

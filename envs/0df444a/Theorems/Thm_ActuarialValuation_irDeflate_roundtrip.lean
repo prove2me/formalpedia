@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_irDeflate_roundtrip
 -- name    : ActuarialValuation.irDeflate_roundtrip
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:01:39.094988+00:00
 -- url     : https://prove2.me/theorems/ff665542-9556-40b3-8e01-a44c97d8eb8f

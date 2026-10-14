@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_bnTwoStep_backwards
 -- name    : ActuarialValuation.bnTwoStep_backwards
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T11:37:47.739334+00:00
 -- url     : https://prove2.me/theorems/225b7cbf-ad6d-4463-979a-0898b3263fdd

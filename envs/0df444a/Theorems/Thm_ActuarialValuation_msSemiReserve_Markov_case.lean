@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_msSemiReserve_Markov_case
 -- name    : ActuarialValuation.msSemiReserve_Markov_case
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T14:01:47.827596+00:00
 -- url     : https://prove2.me/theorems/0c33417e-651d-40ba-ba2a-870ad72d68fa

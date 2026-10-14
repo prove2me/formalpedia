@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_forecastLawDensityPhysicalTarget_cutoff_of_active_support
 -- name    : OAI.Erdos3.VectorPolynomial.forecastLawDensityPhysicalTarget_cutoff_of_active_support
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T02:43:24.582837+00:00
 -- url     : https://prove2.me/theorems/5cf21522-7c00-4141-ad62-37a1e2cf105c

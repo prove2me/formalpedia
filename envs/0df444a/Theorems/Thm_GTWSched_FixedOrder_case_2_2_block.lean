@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GTWSched_FixedOrder_case_2_2_block
 -- name    : GTWSched.FixedOrder.case_2_2_block
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T07:40:24.986437+00:00
 -- url     : https://prove2.me/theorems/bb0b0e97-0994-4b7d-9888-76c4fa5f6689

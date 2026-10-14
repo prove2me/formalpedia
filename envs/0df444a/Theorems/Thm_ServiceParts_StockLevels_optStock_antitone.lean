@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ServiceParts_StockLevels_optStock_antitone
 -- name    : ServiceParts.StockLevels.optStock_antitone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-02T07:28:52.193967+00:00
 -- url     : https://prove2.me/theorems/ed6fea8b-423b-49d3-bdb7-fd3997b7edca

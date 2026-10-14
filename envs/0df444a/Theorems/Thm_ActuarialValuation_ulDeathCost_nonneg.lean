@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_ulDeathCost_nonneg
 -- name    : ActuarialValuation.ulDeathCost_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T19:06:58.137698+00:00
 -- url     : https://prove2.me/theorems/d76998b0-c274-42b0-8037-7078bcc68b61

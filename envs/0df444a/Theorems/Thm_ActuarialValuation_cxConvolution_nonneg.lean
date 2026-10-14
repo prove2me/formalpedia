@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_cxConvolution_nonneg
 -- name    : ActuarialValuation.cxConvolution_nonneg
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-10T13:55:41.865966+00:00
 -- url     : https://prove2.me/theorems/308d3b1f-8366-426f-900b-6651b90e25e6

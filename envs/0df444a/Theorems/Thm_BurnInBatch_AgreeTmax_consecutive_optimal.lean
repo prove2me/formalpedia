@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BurnInBatch_AgreeTmax_consecutive_optimal
 -- name    : BurnInBatch.AgreeTmax.consecutive_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T13:29:44.215521+00:00
 -- url     : https://prove2.me/theorems/8d9c0654-bbb6-4090-b927-c2f23daff984

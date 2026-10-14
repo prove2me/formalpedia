@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SDDiP_LagCut_theorem_3
 -- name    : SDDiP.LagCut.theorem_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-10T03:46:56.06701+00:00
 -- url     : https://prove2.me/theorems/7578126c-d8be-46e2-ac13-00b729287f61

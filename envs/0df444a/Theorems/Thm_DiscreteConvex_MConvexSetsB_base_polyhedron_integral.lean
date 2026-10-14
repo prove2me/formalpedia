@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DiscreteConvex_MConvexSetsB_base_polyhedron_integral
 -- name    : DiscreteConvex.MConvexSetsB.base_polyhedron_integral
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-09-27T22:29:02.84323+00:00
 -- url     : https://prove2.me/theorems/e908b807-4e87-4362-8bc8-fa3fabf43508

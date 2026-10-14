@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterWignerLittleGroupOrbits_littleGroup_spacelike
 -- name    : BookProof.ChapterWignerLittleGroupOrbits.littleGroup_spacelike
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-10T17:55:49.927456+00:00
 -- url     : https://prove2.me/theorems/f539ea10-1f78-4806-b2e3-73b6938672c9
