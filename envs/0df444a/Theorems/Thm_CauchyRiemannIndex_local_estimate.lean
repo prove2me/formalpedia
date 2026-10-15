@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_local_estimate
 -- name    : CauchyRiemannIndex.local_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:01:10.166302+00:00
 -- url     : https://prove2.me/theorems/83cff4e0-71c9-4d18-a232-f02522ea767c

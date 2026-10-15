@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LeanBlast_GotsmanLinial_gotsmanLinialStatement
 -- name    : OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:52.732422+00:00
 -- url     : https://prove2.me/theorems/163a6ea9-7b10-45c6-a310-01d97c43ca71

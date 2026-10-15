@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightBandRawAColor_tables_keep
 -- name    : ThreeSum.LightBandRawAColor.tables_keep
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:40.041232+00:00
 -- url     : https://prove2.me/theorems/585ab271-9bf8-40ec-96c8-7a9695bfec3a

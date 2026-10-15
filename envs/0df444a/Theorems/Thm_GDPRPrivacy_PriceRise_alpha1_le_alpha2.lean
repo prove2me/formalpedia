@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GDPRPrivacy_PriceRise_alpha1_le_alpha2
 -- name    : GDPRPrivacy.PriceRise.alpha1_le_alpha2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T23:29:21.000192+00:00
 -- url     : https://prove2.me/theorems/db2bb6c7-94f7-4e1b-8916-9f6902e9b10d

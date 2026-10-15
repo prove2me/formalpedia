@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LLLFactor_RedBasis_prop_1_12
 -- name    : LLLFactor.RedBasis.prop_1_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T12:19:59.628811+00:00
 -- url     : https://prove2.me/theorems/8fc0ed95-f76a-4feb-983c-b0adb77f7b50

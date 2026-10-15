@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum1960614_fixed_model_lower_bound
 -- name    : ThreeSum1960614.fixed_model_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-14T05:09:31.049867+00:00
 -- url     : https://prove2.me/theorems/9319378a-d6f7-45f7-b66b-35f91d017f2e

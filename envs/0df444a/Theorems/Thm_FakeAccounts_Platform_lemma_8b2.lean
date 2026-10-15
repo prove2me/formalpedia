@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Platform_lemma_8b2
 -- name    : FakeAccounts.Platform.lemma_8b2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:10.384997+00:00
 -- url     : https://prove2.me/theorems/d250dbf4-7415-4e20-a612-4c535b96128e

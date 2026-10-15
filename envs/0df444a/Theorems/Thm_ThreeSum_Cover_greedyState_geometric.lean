@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Cover_greedyState_geometric
 -- name    : ThreeSum.Cover.greedyState_geometric
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:39:07.138335+00:00
 -- url     : https://prove2.me/theorems/0e9671a5-2e0e-4e49-afab-647e0840e241

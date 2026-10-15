@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_TwoIID_symmetrization
 -- name    : MultiItemRev.TwoIID.symmetrization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:30:32.669979+00:00
 -- url     : https://prove2.me/theorems/4e6e01d9-5e73-4d5b-b6e0-798c23cf7ce2

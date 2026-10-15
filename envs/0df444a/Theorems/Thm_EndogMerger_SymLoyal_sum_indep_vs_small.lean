@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_sum_indep_vs_small
 -- name    : EndogMerger.SymLoyal.sum_indep_vs_small
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:53.961726+00:00
 -- url     : https://prove2.me/theorems/18eb0a28-dbf8-4f47-bbdf-752cbee2e3f2

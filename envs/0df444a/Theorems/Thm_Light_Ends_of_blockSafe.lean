@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Light_Ends_of_blockSafe
 -- name    : Light.Ends.of_blockSafe
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:48.631298+00:00
 -- url     : https://prove2.me/theorems/859e8a72-f984-4030-8bbf-2e070d2c9e0f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_log_actualRowCount_div_tendsto
 -- name    : OAI.PiExponent.LiteralAnalytic.log_actualRowCount_div_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T15:25:01.619085+00:00
 -- url     : https://prove2.me/theorems/28386080-9725-4478-9c04-c897763fb2da

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Platform_uninformed_jensen
 -- name    : FakeAccounts.Platform.uninformed_jensen
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:41.822049+00:00
 -- url     : https://prove2.me/theorems/9c329e56-d5eb-4a9a-8b28-ddfc0ff1d07d

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CauchyRiemannIndex.translationInvariant_bijective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-13T22:12:20.190994+00:00
 -- url     : https://prove2.me/submissions/f8855ebc-7c2f-4efa-b87a-9c43af0c7f00
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CauchyRiemannIndex_Setting
 import Mathlib.Analysis.Calculus.ContDiff.Basic

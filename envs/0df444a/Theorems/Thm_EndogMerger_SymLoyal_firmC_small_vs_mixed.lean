@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_firmC_small_vs_mixed
 -- name    : EndogMerger.SymLoyal.firmC_small_vs_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:59.226349+00:00
 -- url     : https://prove2.me/theorems/c56e2510-6f3a-4c4b-9a5c-50a16b68a773

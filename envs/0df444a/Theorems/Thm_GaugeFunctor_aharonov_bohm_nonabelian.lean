@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_aharonov_bohm_nonabelian
 -- name    : GaugeFunctor.aharonov_bohm_nonabelian
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T09:58:56.440599+00:00
 -- url     : https://prove2.me/theorems/2d1dd372-8246-457e-a08e-35f9d461fff0

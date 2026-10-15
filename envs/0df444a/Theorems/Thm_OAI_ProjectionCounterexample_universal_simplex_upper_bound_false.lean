@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ProjectionCounterexample_universal_simplex_upper_bound_false
 -- name    : OAI.ProjectionCounterexample.universal_simplex_upper_bound_false
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:11.819418+00:00
 -- url     : https://prove2.me/theorems/d6310adc-8190-4f4b-a5ff-19de7d8afc16

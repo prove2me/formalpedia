@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_MaskErase_eraseMask_maskOf
 -- name    : ThreeSum.MaskErase.eraseMask_maskOf
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:28.253904+00:00
 -- url     : https://prove2.me/theorems/61ef08a4-eac5-4462-b6ac-5a44b3df6a0b

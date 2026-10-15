@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ArrowDebreu_ThmII_competitive_of_price_floor_slack
 -- name    : ArrowDebreu.ThmII.competitive_of_price_floor_slack
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-27T22:26:01.024363+00:00
 -- url     : https://prove2.me/theorems/3b6b90f3-71f8-4ab1-b73d-370bc19516d2

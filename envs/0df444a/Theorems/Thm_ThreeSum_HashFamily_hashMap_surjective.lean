@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_HashFamily_hashMap_surjective
 -- name    : ThreeSum.HashFamily.hashMap_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:52.182845+00:00
 -- url     : https://prove2.me/theorems/717ba377-2ba9-4999-8e06-8dd2c5755c28

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SchedSurvey_O2_two_machine_open_shop_optimal
 -- name    : SchedSurvey.O2.two_machine_open_shop_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T08:49:52.072087+00:00
 -- url     : https://prove2.me/theorems/f797c325-1087-4713-bcde-fc078c7b475e

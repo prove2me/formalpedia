@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AsymptoticNumberTheory_logarithmicIntegral_isEquivalent
 -- name    : AsymptoticNumberTheory.logarithmicIntegral_isEquivalent
--- status  : Open
+-- status  : Proved
 -- author  : @elem
 -- created : 2026-10-12T03:21:48.303273+00:00
 -- url     : https://prove2.me/theorems/e4ff8034-453f-4c91-8e9f-2b533cad4641

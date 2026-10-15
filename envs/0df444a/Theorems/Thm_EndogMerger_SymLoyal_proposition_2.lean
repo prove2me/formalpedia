@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_proposition_2
 -- name    : EndogMerger.SymLoyal.proposition_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:55.071166+00:00
 -- url     : https://prove2.me/theorems/ce9530d7-0140-45fc-aba5-fff6ec4e008e

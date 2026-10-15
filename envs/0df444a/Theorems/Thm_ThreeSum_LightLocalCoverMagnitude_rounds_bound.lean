@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightLocalCoverMagnitude_rounds_bound
 -- name    : ThreeSum.LightLocalCoverMagnitude.rounds_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:18.797015+00:00
 -- url     : https://prove2.me/theorems/02ca442c-a85f-4fd0-9a16-8f3760cad9a9

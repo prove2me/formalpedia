@@ -21,7 +21,7 @@
 --
 --   one has $n\le A s^5$. This is a reusable exact-arithmetic compressor for the five branches of the deficiency bootstrap.
 -- source:
---   Exact arithmetic in Section N15-F6 of https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/plans/esgk-n15-formalization-plan-2026-08-25.md
+--   Exact arithmetic in the one-fifth formalization plan, arithmetic branch, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/plans/esgk-n15-formalization-plan-2026-08-25.md
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

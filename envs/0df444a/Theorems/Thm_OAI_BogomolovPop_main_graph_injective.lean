@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BogomolovPop_main_graph_injective
 -- name    : OAI.BogomolovPop.main_graph_injective
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:23.552667+00:00
 -- url     : https://prove2.me/theorems/db738fd7-0f33-4cf3-8063-db62aa87bceb

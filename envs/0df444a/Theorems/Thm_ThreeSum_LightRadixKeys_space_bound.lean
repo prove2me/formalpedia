@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightRadixKeys_space_bound
 -- name    : ThreeSum.LightRadixKeys.space_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:17.780168+00:00
 -- url     : https://prove2.me/theorems/adbe19a2-c4b8-4b96-9941-b0f91fb3b6a7

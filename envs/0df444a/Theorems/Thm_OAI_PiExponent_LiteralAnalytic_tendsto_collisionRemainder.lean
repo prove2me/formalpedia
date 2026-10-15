@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_tendsto_collisionRemainder
 -- name    : OAI.PiExponent.LiteralAnalytic.tendsto_collisionRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T15:14:21.002223+00:00
 -- url     : https://prove2.me/theorems/834ff833-2d37-45d4-89aa-0b6d08cd1c82

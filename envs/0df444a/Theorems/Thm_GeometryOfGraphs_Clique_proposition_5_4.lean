@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GeometryOfGraphs_Clique_proposition_5_4
 -- name    : GeometryOfGraphs.Clique.proposition_5_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T15:10:18.109228+00:00
 -- url     : https://prove2.me/theorems/b20b25e4-94d1-4001-9033-37e56c8cc5fc

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.balanced_center_amplification
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:06:50.10658+00:00
 -- url     : https://prove2.me/submissions/57db8948-bcd8-4336-b675-99cb67fd0642
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Real.Basic
 import Mathlib.Data.Rat.Cast.Order

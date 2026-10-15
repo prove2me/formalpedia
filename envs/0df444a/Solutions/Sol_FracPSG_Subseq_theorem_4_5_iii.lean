@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for FracPSG.Subseq.theorem_4_5_iii
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T22:37:25.343141+00:00
 -- url     : https://prove2.me/submissions/b6eca921-ef97-4ea9-8bbf-7dc081b0a960
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_NonconvexSplitting_Shared_LimitingSubdiff

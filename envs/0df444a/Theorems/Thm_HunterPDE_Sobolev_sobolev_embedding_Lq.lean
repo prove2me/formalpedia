@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_sobolev_embedding_Lq
 -- name    : HunterPDE.Sobolev.sobolev_embedding_Lq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:14:47.972461+00:00
 -- url     : https://prove2.me/theorems/513d3fcc-e5ba-4f2b-bd7b-76a85e79a1fb

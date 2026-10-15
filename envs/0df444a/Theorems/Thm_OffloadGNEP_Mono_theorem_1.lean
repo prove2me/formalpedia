@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OffloadGNEP_Mono_theorem_1
 -- name    : OffloadGNEP.Mono.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T07:46:44.339966+00:00
 -- url     : https://prove2.me/theorems/f3c65b56-3d42-42b5-b69f-4be7246c4f3f

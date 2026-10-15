@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeveragedPayouts_Unregulated_ic_effort
 -- name    : LeveragedPayouts.Unregulated.ic_effort
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:25:06.759829+00:00
 -- url     : https://prove2.me/theorems/0442b5b6-1993-4f5c-8dc5-5f43d94e9b99

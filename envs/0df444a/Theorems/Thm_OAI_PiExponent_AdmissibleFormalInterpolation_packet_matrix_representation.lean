@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_packet_matrix_representation
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.packet_matrix_representation
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-12T20:27:20.953346+00:00
 -- url     : https://prove2.me/theorems/54baace5-ae79-4d4f-a1fc-6fb436eda073

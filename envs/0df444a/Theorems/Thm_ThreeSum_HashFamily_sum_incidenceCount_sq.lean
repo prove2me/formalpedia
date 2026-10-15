@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_HashFamily_sum_incidenceCount_sq
 -- name    : ThreeSum.HashFamily.sum_incidenceCount_sq
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:02.368291+00:00
 -- url     : https://prove2.me/theorems/748e0b02-33c0-46eb-a40f-b4aef9a4969f

@@ -2768,18 +2768,18 @@
 {"parent": "FracPSG.Subseq.lemma_4_3", "child": "FracPSG_Subseq_EPSG", "via": ["statement"]}
 {"parent": "FracPSG.Subseq.lemma_4_3", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
 {"parent": "FracPSG.Subseq.lemma_4_3", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.limit_inequality", "child": "FracPSG_Subseq_Basic", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.limit_inequality", "child": "FracPSG_Subseq_EPSG", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.limit_inequality", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.limit_inequality", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "FracPSG_Subseq_Basic", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "FracPSG_Subseq_EPSG", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "FracPSG_Subseq_Basic", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "FracPSG_Subseq_EPSG", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["statement"]}
-{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["statement"]}
+{"parent": "FracPSG.Subseq.limit_inequality", "child": "FracPSG_Subseq_Basic", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.limit_inequality", "child": "FracPSG_Subseq_EPSG", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.limit_inequality", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.limit_inequality", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "FracPSG_Subseq_Basic", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "FracPSG_Subseq_EPSG", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_i", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "FracPSG_Subseq_Basic", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "FracPSG_Subseq_EPSG", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "NonconvexSplitting_Shared_LimitingSubdiff", "via": ["solution", "statement"]}
+{"parent": "FracPSG.Subseq.theorem_4_5_ii", "child": "NonconvexSplitting_Shared_StandingAssumptions", "via": ["solution", "statement"]}
 {"parent": "FracPSG.Subseq.theorem_4_5_iii", "child": "FracPSG.Subseq.limit_inequality", "via": ["solution"]}
 {"parent": "FracPSG.Subseq.theorem_4_5_iii", "child": "FracPSG.Subseq.theorem_4_5_i", "via": ["solution"]}
 {"parent": "FracPSG.Subseq.theorem_4_5_iii", "child": "FracPSG.Subseq.theorem_4_5_ii", "via": ["solution"]}
@@ -19825,13 +19825,13 @@
 {"parent": "GassSaaty.ParametricPivot.summary4_closed_connected", "child": "GassSaaty_ParametricPivot_Parametric", "via": ["solution", "statement"]}
 {"parent": "GassSaaty.ParametricPivot.theorem_new_basis_interval_starts_at_lambdaBar", "child": "GassSaaty_ParametricPivot_Parametric", "via": ["solution", "statement"]}
 {"parent": "GassSaaty_ParametricPivot_Parametric", "child": "LinearOptimization_SimplexPivot", "via": ["statement"]}
-{"parent": "GaugeFunctor.aharonov_bohm_nonabelian", "child": "GaugeFunctor_defs", "via": ["statement"]}
+{"parent": "GaugeFunctor.aharonov_bohm_nonabelian", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
 {"parent": "GaugeFunctor.aut_equiv_centralizer", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
 {"parent": "GaugeFunctor.barrett_reconstruction", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
 {"parent": "GaugeFunctor.barrett_representation", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
 {"parent": "GaugeFunctor.holF_faithful", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
 {"parent": "GaugeFunctor.holF_full", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
-{"parent": "GaugeFunctor.holonomy_equivalence", "child": "GaugeFunctor_defs", "via": ["statement"]}
+{"parent": "GaugeFunctor.holonomy_equivalence", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
 {"parent": "GaugeFunctor.orbitF_forgets_only_stuff", "child": "GaugeFunctor_defs", "via": ["solution", "statement"]}
 {"parent": "GaussMagnetism.curl_add_grad", "child": "GaussMagnetism_box_flux", "via": ["statement"]}
 {"parent": "GaussMagnetism.curl_add_grad", "child": "TongEM_wave_ops", "via": ["solution"]}
@@ -30715,7 +30715,7 @@
 {"parent": "GeometryOfGraphs.Clique.difference_body", "child": "GeometryOfGraphs_Clique_isoDim", "via": ["statement"]}
 {"parent": "GeometryOfGraphs.Clique.disjoint_interiors", "child": "GeometryOfGraphs_Clique_isoDim", "via": ["statement"]}
 {"parent": "GeometryOfGraphs.Clique.lemma_5_1", "child": "GeometryOfGraphs_Clique_isoDim", "via": ["statement"]}
-{"parent": "GeometryOfGraphs.Clique.proposition_5_4", "child": "GeometryOfGraphs_Clique_isoDim", "via": ["statement"]}
+{"parent": "GeometryOfGraphs.Clique.proposition_5_4", "child": "GeometryOfGraphs_Clique_isoDim", "via": ["solution", "statement"]}
 {"parent": "GeometryOfGraphs.Clique.volume_count", "child": "GeometryOfGraphs_Clique_isoDim", "via": ["statement"]}
 {"parent": "GeometryOfGraphs.Cube.corollary_5_12", "child": "GeometryOfGraphs_Cube_Hypercube", "via": ["solution", "statement"]}
 {"parent": "GeometryOfGraphs.Cube.corollary_5_12", "child": "GeometryOfGraphs_Cube_IsometricDimension", "via": ["solution", "statement"]}
@@ -44673,7 +44673,7 @@
 {"parent": "HunterPDE.Sobolev.gagliardo_nirenberg_sobolev", "child": "HunterPDE_Sobolev_SobolevConjugate", "via": ["solution", "statement"]}
 {"parent": "HunterPDE.Sobolev.memW_normed_convolution", "child": "HunterPDE_Sobolev_SobolevSpace", "via": ["statement"]}
 {"parent": "HunterPDE.Sobolev.memW_of_isTestFunction", "child": "HunterPDE_Sobolev_SobolevSpace", "via": ["statement"]}
-{"parent": "HunterPDE.Sobolev.morrey", "child": "HunterPDE_Shared_HolderSeminorm", "via": ["statement"]}
+{"parent": "HunterPDE.Sobolev.morrey", "child": "HunterPDE_Shared_HolderSeminorm", "via": ["solution", "statement"]}
 {"parent": "HunterPDE.Sobolev.morrey", "child": "HunterPDE_Sobolev_SobolevSpace", "via": ["statement"]}
 {"parent": "HunterPDE.Sobolev.smooth_approximation", "child": "HunterPDE.Sobolev.eLpNorm_weakDeriv_sub_normed_convolution", "via": ["solution"]}
 {"parent": "HunterPDE.Sobolev.smooth_approximation", "child": "HunterPDE.Sobolev.memW_normed_convolution", "via": ["solution"]}
@@ -51538,7 +51538,7 @@
 {"parent": "LLLFactor.RedBasis.norm_sq_ge_gs_of_last", "child": "LLLFactor_RedBasis_Setting", "via": ["statement"]}
 {"parent": "LLLFactor.RedBasis.norm_sq_le_pow_gs", "child": "LLLFactor_RedBasis_Setting", "via": ["statement"]}
 {"parent": "LLLFactor.RedBasis.prop_1_11", "child": "LLLFactor_RedBasis_Setting", "via": ["statement"]}
-{"parent": "LLLFactor.RedBasis.prop_1_12", "child": "LLLFactor_RedBasis_Setting", "via": ["statement"]}
+{"parent": "LLLFactor.RedBasis.prop_1_12", "child": "LLLFactor_RedBasis_Setting", "via": ["solution", "statement"]}
 {"parent": "LLLFactor.Reduction.algorithm_terminates", "child": "LLLFactor_Reduction_Algorithm", "via": ["solution", "statement"]}
 {"parent": "LLLFactor.Reduction.case2_count_le", "child": "LLLFactor_Reduction_Algorithm", "via": ["solution", "statement"]}
 {"parent": "LLLFactor.Reduction.gram_eq_prod_gs", "child": "LLLFactor_Reduction_Algorithm", "via": ["solution", "statement"]}
@@ -73532,9 +73532,9 @@
 {"parent": "LinearMDPRL.Linear.lemma_B_6", "child": "LinearMDPRL_Linear_Model", "via": ["statement"]}
 {"parent": "LinearMDPRL.Linear.lemma_B_6", "child": "LinearMDPRL_Linear_ProofObjects", "via": ["statement"]}
 {"parent": "LinearMDPRL.Linear.lemma_D_6", "child": "LinearMDPRL_Linear_ProofObjects", "via": ["statement"]}
-{"parent": "LinearMDPRL.Linear.lsvi_ucb_regret", "child": "LinearMDPRL_Linear_LSVIUCB", "via": ["statement"]}
-{"parent": "LinearMDPRL.Linear.lsvi_ucb_regret", "child": "LinearMDPRL_Linear_LinearMDP", "via": ["statement"]}
-{"parent": "LinearMDPRL.Linear.lsvi_ucb_regret", "child": "LinearMDPRL_Linear_Model", "via": ["statement"]}
+{"parent": "LinearMDPRL.Linear.lsvi_ucb_regret", "child": "LinearMDPRL_Linear_LSVIUCB", "via": ["solution", "statement"]}
+{"parent": "LinearMDPRL.Linear.lsvi_ucb_regret", "child": "LinearMDPRL_Linear_LinearMDP", "via": ["solution", "statement"]}
+{"parent": "LinearMDPRL.Linear.lsvi_ucb_regret", "child": "LinearMDPRL_Linear_Model", "via": ["solution", "statement"]}
 {"parent": "LinearMDPRL.Linear.proposition_2_3", "child": "LinearMDPRL_Linear_LinearMDP", "via": ["statement"]}
 {"parent": "LinearMDPRL.Linear.proposition_2_3", "child": "LinearMDPRL_Linear_Model", "via": ["statement"]}
 {"parent": "LinearMDPRL.Misspec.lemma_C_1", "child": "LinearMDPRL_Linear_Model", "via": ["statement"]}

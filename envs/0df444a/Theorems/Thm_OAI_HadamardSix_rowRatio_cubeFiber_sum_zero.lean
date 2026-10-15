@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HadamardSix_rowRatio_cubeFiber_sum_zero
 -- name    : OAI.HadamardSix.rowRatio_cubeFiber_sum_zero
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:43.368013+00:00
 -- url     : https://prove2.me/theorems/25b73e9f-4389-4ed3-b08b-1ad3f7949044

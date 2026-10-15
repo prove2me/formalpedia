@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AbhyankarSathaye_exists_noncoordinate_polynomial
 -- name    : OAI.AbhyankarSathaye.exists_noncoordinate_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:20.381414+00:00
 -- url     : https://prove2.me/theorems/2d385ca8-5074-4681-8bf0-87f7c3c71495

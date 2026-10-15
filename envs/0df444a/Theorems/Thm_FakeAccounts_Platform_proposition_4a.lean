@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Platform_proposition_4a
 -- name    : FakeAccounts.Platform.proposition_4a
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:15.375867+00:00
 -- url     : https://prove2.me/theorems/6a5a8671-8e99-4591-9e8b-f3d959d56e86

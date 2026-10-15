@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BoxStages_partialZeta_eq_boxSum
 -- name    : ThreeSum.BoxStages.partialZeta_eq_boxSum
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:38:33.151191+00:00
 -- url     : https://prove2.me/theorems/dde1876a-b33e-4f91-95fd-2c35e64241e8

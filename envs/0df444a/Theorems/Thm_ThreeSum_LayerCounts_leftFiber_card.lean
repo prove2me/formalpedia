@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LayerCounts_leftFiber_card
 -- name    : ThreeSum.LayerCounts.leftFiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:16.798832+00:00
 -- url     : https://prove2.me/theorems/3cb3f5bd-d760-40b5-b90b-39246826c053

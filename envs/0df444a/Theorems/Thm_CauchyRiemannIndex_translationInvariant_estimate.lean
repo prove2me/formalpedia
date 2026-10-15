@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_translationInvariant_estimate
 -- name    : CauchyRiemannIndex.translationInvariant_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:53:12.964612+00:00
 -- url     : https://prove2.me/theorems/f8bf33ce-4109-4a01-b876-2dfb5f980de3

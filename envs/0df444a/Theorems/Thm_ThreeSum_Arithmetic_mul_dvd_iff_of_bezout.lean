@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Arithmetic_mul_dvd_iff_of_bezout
 -- name    : ThreeSum.Arithmetic.mul_dvd_iff_of_bezout
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:21.76989+00:00
 -- url     : https://prove2.me/theorems/b874b50a-f9a8-4568-90c2-ce2b931d7384

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonPanjerStep_unique_sequences
 -- name    : ActuarialValuation.compoundPoissonPanjerStep_unique_sequences
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T16:30:52.127784+00:00
 -- url     : https://prove2.me/theorems/b360cf96-ffb7-4737-9ef4-1721b4aa8078

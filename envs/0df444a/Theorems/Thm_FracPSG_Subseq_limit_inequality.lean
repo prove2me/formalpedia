@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPSG_Subseq_limit_inequality
 -- name    : FracPSG.Subseq.limit_inequality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:09:21.465285+00:00
 -- url     : https://prove2.me/theorems/e6a0c9be-38f7-4722-be4a-4a56354d3e0e

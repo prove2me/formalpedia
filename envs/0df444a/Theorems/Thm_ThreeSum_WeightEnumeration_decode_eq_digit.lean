@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_WeightEnumeration_decode_eq_digit
 -- name    : ThreeSum.WeightEnumeration.decode_eq_digit
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:20.464974+00:00
 -- url     : https://prove2.me/theorems/c7404bb2-f9e2-4966-a224-02983fdb8ea5

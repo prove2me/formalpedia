@@ -1,0 +1,366 @@
+-- Prove2me | solution 1 for ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal.Procs.meets
+-- status  : ACCEPTED   (prove)
+-- author  : @Yuxuan Xu
+-- created : 2026-10-15T06:56:20.72714+00:00
+-- url     : https://prove2.me/submissions/78f05e4c-5da5-4148-9707-de03638a5757
+
+/-
+Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+SPDX-License-Identifier: Apache-2.0
+-/
+
+import Definitions.Def_APSPSource_RemainingDefinitions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Regions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Syntax
+import Definitions.Def_APSPSource_ThreeSumApsp_Util_Index
+import Definitions.Def_APSPSource_ThreeSumApsp_Util_List
+import Definitions.Def_ThreeSum1960614_Machine_Bundle003
+import Definitions.Def_ThreeSum1960614_Machine_Bundle004
+import Definitions.Def_ThreeSum1960614_Machine_Bundle005
+import Definitions.Def_ThreeSum1960614_Machine_Bundle006
+import Definitions.Def_ThreeSum1960614_Machine_Bundle007
+import Definitions.Def_ThreeSum1960614_Machine_Bundle008
+import Definitions.Def_ThreeSum1960614_Machine_Bundle009
+import Definitions.Def_ThreeSum1960614_Machine_Bundle010
+import Definitions.Def_ThreeSum1960614_Machine_Bundle012
+import Definitions.Def_ThreeSum1960614_Machine_Bundle013
+import Definitions.Def_ThreeSum1960614_Machine_Bundle014
+import Definitions.Def_ThreeSum1960614_Machine_Bundle015
+import Definitions.Def_ThreeSum1960614_Machine_Bundle017
+import Definitions.Def_ThreeSum1962Source_Bundle01
+import Definitions.Def_ThreeSum1962Source_Bundle02
+import Definitions.Def_ThreeSum1962Source_Bundle03
+import Definitions.Def_ThreeSum1962Source_Bundle04
+import Definitions.Def_ThreeSum1962Source_Bundle05
+import Definitions.Def_ThreeSum1962Source_Bundle06
+import Definitions.Def_ThreeSum1962Source_Bundle07
+import Definitions.Def_ThreeSum1962Source_Bundle09
+import Lean
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.Group.Int.Defs
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.Group.Multiset
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Int
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Range
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Int.Notation
+import Mathlib.Data.List.GetD
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.Nat.Count
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Size
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.Logic.Function.Basic
+import Mathlib.Order.ConditionallyCompleteLattice.Basic
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Int
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Theorems.Thm_ThreeSum1960614_Machine_ThreeSum_LightSourceBucketFromHistogram_Procs_meets
+import Theorems.Thm_ThreeSum1960614_Machine_ThreeSum_LightSourceHistogram_Procs_meets
+
+namespace Light
+end Light
+namespace ThreeSum
+end ThreeSum
+namespace ThreeSum.LightHistogram
+end ThreeSum.LightHistogram
+namespace ThreeSum.LightSourceBucketOriginal
+end ThreeSum.LightSourceBucketOriginal
+namespace ThreeSum.LightSourceResidues
+end ThreeSum.LightSourceResidues
+namespace ThreeSum.SourceBuckets
+end ThreeSum.SourceBuckets
+namespace ThreeSum1960614.Machine.Light
+end ThreeSum1960614.Machine.Light
+namespace ThreeSum1960614.Machine.ThreeSum
+end ThreeSum1960614.Machine.ThreeSum
+namespace ThreeSum1960614.Machine.ThreeSum.LightHistogram
+end ThreeSum1960614.Machine.ThreeSum.LightHistogram
+namespace ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal
+end ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal
+namespace ThreeSum1960614.Machine.ThreeSum.LightSourceResidues
+end ThreeSum1960614.Machine.ThreeSum.LightSourceResidues
+namespace ThreeSum1960614.Machine.ThreeSum.SourceBuckets
+end ThreeSum1960614.Machine.ThreeSum.SourceBuckets
+
+namespace ThreeSum1960614.Machine
+
+/-!
+# Calls
+
+Meets lim P p d vals μ T R is the specification of a procedure: procedure number p of the program P,
+run at depth d on the arguments vals in the memory μ, ends within T steps with a result and a memory
+that satisfy R. A routine is proved to meet such a specification (Meets.of_body), and a caller uses
+the specification only, so that the proof of a caller does not depend on the body of a callee.
+
+The specification of a routine x, as its callers assume it, has the form
+`∀ (data) μ, hypotheses → ∀ d, d + k ≤ lim.depth → Meets lim P p d vals μ T R`.  Here k is the
+number of levels of calls that x needs below itself, and d, the depth at which the body of x runs,
+comes last.
+
+There is one rule for calls, in four forms.  It is told the fact about the callee, from which it
+reads the values of the arguments, the time and what holds afterwards, and it asks for what follows
+the call.  Three side goals have default proofs: the arguments are safe and have these values, one
+more level of calls is allowed, and the time suffices.  Ends.callTo and Ends.callToThen are the rule
+for a state ⟨frame l, μ⟩; Ends.callLast and Ends.callThen are the same for local variables that are
+not given as a list.
+-/
+
+@[expose] public section
+
+namespace Light
+open _root_.Light
+
+
+variable {lim : _root_.ThreeSum1960614.Machine.Light.Limits} {P : _root_.ThreeSum1960614.Machine.Light.Program} {d : ℕ}
+
+/-! ## Specifications of procedures -/
+
+
+
+section
+variable {p : ℕ} {vals : List ℤ} {μ : ℕ → ℤ} {T T' : ℕ} {R R' : ℤ → (ℕ → ℤ) → Prop}
+
+/-- From a theorem about a body to the specification. -/
+theorem Meets.of_body {args : List ℤ} {Q : ℤ → (ℕ → ℤ) → Prop} {body : _root_.ThreeSum1960614.Machine.Light.Stmt}
+    (hp : P[p]? = some body)
+    (h : _root_.ThreeSum1960614.Machine.Light.Ends lim P d body ⟨_root_.Light.frame args, μ⟩ T fun σ' => Q (σ'.loc 0) σ'.mem) :
+    _root_.ThreeSum1960614.Machine.Light.Meets lim P p d args μ T Q :=
+  ⟨body, hp, h⟩
+
+
+
+
+
+
+
+
+
+end
+
+/-! ## The rule for calls -/
+
+section
+variable {loc μ : ℕ → ℤ} {l : List ℤ} {T T' p x : ℕ} {args : List _root_.ThreeSum1960614.Machine.Light.Expr} {vals : List ℤ}
+  {R : ℤ → (ℕ → ℤ) → Prop} {Q : _root_.ThreeSum1960614.Machine.Light.State → Prop} {s : _root_.ThreeSum1960614.Machine.Light.Stmt}
+
+
+
+
+
+
+
+
+
+end
+
+end Light
+
+end
+
+end ThreeSum1960614.Machine
+
+namespace ThreeSum1960614.Machine
+
+/-!
+# Original-input residue keys with a carry offset
+
+The source histogram uses `(x % p + shift) % m`, with two independently
+chosen moduli. This procedure computes both remainders from each original
+signed input and retains every incidence, including duplicate values.
+-/
+
+namespace ThreeSum.LightSourceResidues
+open _root_.ThreeSum.LightSourceResidues
+
+
+open _root_.Light
+open _root_.ThreeSum1960614.Machine.Light
+
+set_option maxHeartbeats 1200000
+set_option maxRecDepth 10000
+
+
+
+theorem key_cast {p m : ℕ} (hm : 0 < m) (shift x : ℤ) :
+    (_root_.ThreeSum.LightSourceResidues.key p m shift x : ℤ) = (x % (p : ℤ) + shift) % (m : ℤ) := by
+  exact Int.toNat_of_nonneg (Int.emod_nonneg _ (by exact_mod_cast hm.ne'))
+
+theorem key_lt {p m : ℕ} (hm : 0 < m) (shift x : ℤ) : _root_.ThreeSum.LightSourceResidues.key p m shift x < m := by
+  have h := Int.emod_lt_of_pos (x % (p : ℤ) + shift)
+    (by exact_mod_cast hm : (0 : ℤ) < m)
+  rw [← _root_.ThreeSum1960614.Machine.ThreeSum.LightSourceResidues.key_cast hm] at h
+  exact_mod_cast h
+
+
+
+
+
+
+
+
+
+
+
+variable {lim : _root_.ThreeSum1960614.Machine.Light.Limits} {P : _root_.ThreeSum1960614.Machine.Light.Program} {d : ℕ}
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.LightSourceResidues
+
+end ThreeSum1960614.Machine
+
+section
+open _root_.ThreeSum
+open _root_.ThreeSum1960614.Machine.ThreeSum
+
+open _root_.ThreeSum.LightSourceBucketOriginal
+open _root_.ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal
+
+open _root_.Light
+open _root_.ThreeSum1960614.Machine.Light
+open _root_.ThreeSum.SourceBuckets
+open _root_.ThreeSum1960614.Machine.ThreeSum.SourceBuckets
+open _root_.ThreeSum.LightHistogram
+open _root_.ThreeSum1960614.Machine.ThreeSum.LightHistogram
+set_option maxHeartbeats 1800000
+set_option maxRecDepth 10000
+variable {lim : _root_.ThreeSum1960614.Machine.Light.Limits} {P : _root_.ThreeSum1960614.Machine.Light.Program} {d : ℕ}
+section
+
+
+theorem ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal.Procs.meets__implementation_0b81a1514b {pMain : ℕ} (C : _root_.ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal.Procs P pMain)
+    {μ : ℕ → ℤ} {src N p m hist codes offsets cursor flat work U D : ℕ} {shift : ℤ}
+    (hw : (lim.space : ℤ) ≤ lim.word) (hd : d+2 < lim.depth)
+    (hp : 0 < p) (hm : 0 < m)
+    (hsrc : src+N ≤ hist) (hhist : hist+m ≤ codes) (hcodes : codes+N ≤ offsets)
+    (hoffsets : offsets+m+1 ≤ cursor) (hcursor : cursor+m ≤ flat) (hflat : flat+N ≤ work)
+    (hspace : _root_.ThreeSum.LightSourceResidues.space work p U D ≤ lim.space)
+    (hshift : |shift| ≤ (D : ℤ))
+    (hword : (_root_.ThreeSum.LightSourceResidues.word p m U D : ℤ) ≤ lim.word)
+    (hvalues : ∀ i < N, |μ (src+i)| ≤ (U : ℤ)) :
+    _root_.ThreeSum1960614.Machine.Light.Meets lim P pMain d
+      [(src : ℤ),(N : ℤ),(p : ℤ),(m : ℤ),shift,(hist : ℤ),(codes : ℤ),
+        (offsets : ℤ),(cursor : ℤ),(flat : ℤ),(work : ℤ)]
+      μ (_root_.ThreeSum.LightSourceBucketOriginal.time N p m U D) (fun _ ν =>
+        _root_.ThreeSum1960614.Machine.ThreeSum.SourceBuckets.Stored ν (fun i => _root_.ThreeSum.LightSourceResidues.key p m shift (μ (src+i))) N m offsets flat ∧
+        (∀ r < m, ν (hist+r) = (_root_.ThreeSum.LightHistogram.count
+          (fun i => _root_.ThreeSum.LightSourceResidues.key p m shift (μ (src+i))) r N : ℤ)) ∧
+        (∀ i < N, ν (codes+i) = (_root_.ThreeSum.LightSourceResidues.key p m shift (μ (src+i)) : ℤ)) ∧
+        _root_.ThreeSum1960614.Machine.Light.Kept μ ν hist) := by
+  have hwork : work ≤ lim.space := by
+    unfold _root_.ThreeSum.LightSourceResidues.space at hspace
+    omega
+  apply _root_.ThreeSum1960614.Machine.Light.Meets.of_body C.main
+  unfold _root_.ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal.body _root_.ThreeSum.LightSourceBucketOriginal.time
+  have hs := C.sourceProcs.meets (d := d+1) (μ := μ) (src := src) (hist := hist)
+    (n := N) (p := p) (m := m) (codes := codes) (work := work) (U := U) (D := D)
+    (shift := shift) hw (by omega) hp hm (by omega) hhist (by omega) hspace hshift hword hvalues
+  (focus
+     ((first
+         | refine _root_.ThreeSum1960614.Machine.Light.Ends.seqSelf ?_
+         | refine _root_.ThreeSum1960614.Machine.Light.Ends.skipLast ?_);
+       repeat
+         with_unfolding_none
+           first
+           | refine _root_.ThreeSum1960614.Machine.Light.Ends.seqAssoc ?_
+           | refine _root_.ThreeSum1960614.Machine.Light.Ends.skipThen ?_)
+     first
+     | refine _root_.ThreeSum1960614.Machine.Light.Ends.callToThen (hs _ (by omega)) ?_ ?_ ?_ ?_
+     | refine _root_.ThreeSum1960614.Machine.Light.Ends.callToThen hs ?_ ?_ ?_ ?_
+     on_goal -1 =>
+       first
+       | ( simp only [_root_.ThreeSum1960614.Machine.Light.Stmt.blockCost, _root_.ThreeSum1960614.Machine.Light.Cond.cost, _root_.ThreeSum1960614.Machine.Light.Expr.cost, _root_.List.map_cons, _root_.List.map_nil, _root_.List.sum_cons, _root_.List.sum_nil, _root_.ThreeSum.LightSourceHistogram.time, _root_.ThreeSum.LightSourceResidues.time, _root_.ThreeSum.LightSourceBucketFromHistogram.time, _root_.ThreeSum.LightSourceBucketOffsets.time, _root_.ThreeSum.LightSourceBucketScatter.time]
+           first
+           | omega
+           | (ring_nf; omega))
+       | omega
+       |
+         (simp [_root_.ThreeSum.LightSourceHistogram.time, _root_.ThreeSum.LightSourceResidues.time, _root_.ThreeSum.LightSourceBucketFromHistogram.time, _root_.ThreeSum.LightSourceBucketOffsets.time, _root_.ThreeSum.LightSourceBucketScatter.time] <;>
+             first
+             | omega
+             | (ring_nf; omega))
+     on_goal -1 => omega
+     on_goal -1 =>
+       ( (try have := _root_.ThreeSum1960614.Machine.Light.Std.space_le (by assumption))
+         (try have := _root_.ThreeSum1960614.Machine.Light.Std.const_le (by assumption))
+         simp [_root_.ThreeSum1960614.Machine.Light.Limits.Addr, _root_.abs_le, -_root_.abs_mul, _root_.ThreeSum.LightSourceHistogram.time, _root_.ThreeSum.LightSourceResidues.time, _root_.ThreeSum.LightSourceBucketFromHistogram.time, _root_.ThreeSum.LightSourceBucketOffsets.time, _root_.ThreeSum.LightSourceBucketScatter.time] <;> omega)
+     on_goal -1 => (rintro r ν₁ ⟨keys, counts, kept₁⟩; try with_unfolding_none refine _root_.ThreeSum1960614.Machine.Light.Ends.skip ?_))
+  have hb := C.buckets.meets (d := d+1) (μ := ν₁) (keys := codes) (hist := hist)
+    (offsets := offsets) (cursor := cursor) (flat := flat) (N := N) (M := m)
+    (fun i => _root_.ThreeSum.LightSourceResidues.key p m shift (μ (src+i))) hw (by omega) hcodes (by omega)
+    hoffsets hcursor (by omega) (fun i _ => _root_.ThreeSum1960614.Machine.ThreeSum.LightSourceResidues.key_lt hm shift (μ (src+i)))
+    keys counts
+  (focus
+     ((first
+         | refine _root_.ThreeSum1960614.Machine.Light.Ends.seqSelf ?_
+         | refine _root_.ThreeSum1960614.Machine.Light.Ends.skipLast ?_);
+       repeat
+         with_unfolding_none
+           first
+           | refine _root_.ThreeSum1960614.Machine.Light.Ends.seqAssoc ?_
+           | refine _root_.ThreeSum1960614.Machine.Light.Ends.skipThen ?_)
+     first
+     | refine _root_.ThreeSum1960614.Machine.Light.Ends.callToThen (hb _ (by omega)) ?_ ?_ ?_ ?_
+     | refine _root_.ThreeSum1960614.Machine.Light.Ends.callToThen hb ?_ ?_ ?_ ?_
+     on_goal -1 =>
+       first
+       | ( simp only [_root_.ThreeSum1960614.Machine.Light.Stmt.blockCost, _root_.ThreeSum1960614.Machine.Light.Cond.cost, _root_.ThreeSum1960614.Machine.Light.Expr.cost, _root_.List.map_cons, _root_.List.map_nil, _root_.List.sum_cons, _root_.List.sum_nil, _root_.ThreeSum.LightSourceHistogram.time, _root_.ThreeSum.LightSourceResidues.time, _root_.ThreeSum.LightSourceBucketFromHistogram.time, _root_.ThreeSum.LightSourceBucketOffsets.time, _root_.ThreeSum.LightSourceBucketScatter.time]
+           first
+           | omega
+           | (ring_nf; omega))
+       | omega
+       |
+         (simp [_root_.ThreeSum.LightSourceHistogram.time, _root_.ThreeSum.LightSourceResidues.time, _root_.ThreeSum.LightSourceBucketFromHistogram.time, _root_.ThreeSum.LightSourceBucketOffsets.time, _root_.ThreeSum.LightSourceBucketScatter.time] <;>
+             first
+             | omega
+             | (ring_nf; omega))
+     on_goal -1 => omega
+     on_goal -1 =>
+       ( (try have := _root_.ThreeSum1960614.Machine.Light.Std.space_le (by assumption))
+         (try have := _root_.ThreeSum1960614.Machine.Light.Std.const_le (by assumption))
+         simp [_root_.ThreeSum1960614.Machine.Light.Limits.Addr, _root_.abs_le, -_root_.abs_mul, _root_.ThreeSum.LightSourceHistogram.time, _root_.ThreeSum.LightSourceResidues.time, _root_.ThreeSum.LightSourceBucketFromHistogram.time, _root_.ThreeSum.LightSourceBucketOffsets.time, _root_.ThreeSum.LightSourceBucketScatter.time] <;> omega)
+     on_goal -1 => (rintro r ν₂ ⟨stored, kept₂, _⟩; try with_unfolding_none refine _root_.ThreeSum1960614.Machine.Light.Ends.skip ?_))
+  refine ⟨stored,?_,?_,?_⟩
+  · intro r hr
+    exact (kept₂ _ (by omega)).trans (counts r hr)
+  · intro i hi
+    exact (kept₂ _ (by omega)).trans (keys i hi)
+  · intro a ha
+    exact (kept₂ a (by omega)).trans (kept₁ a ⟨by omega,Or.inl ha⟩)
+end
+
+end
+
+theorem solution : type_of% (@ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal.Procs.meets__implementation_0b81a1514b) := (@ThreeSum1960614.Machine.ThreeSum.LightSourceBucketOriginal.Procs.meets__implementation_0b81a1514b)
+
+#print axioms solution

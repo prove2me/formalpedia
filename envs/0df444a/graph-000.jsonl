@@ -1605,12 +1605,12 @@
 {"parent": "ActuarialValuation.compoundPoissonAggregatePMF_zero", "child": "actuarial_compoundPoissonAggregatePMF", "via": ["solution", "statement"]}
 {"parent": "ActuarialValuation.compoundPoissonAggregatePMF_zero", "child": "actuarial_compoundPoissonCountWeight", "via": ["solution", "statement"]}
 {"parent": "ActuarialValuation.compoundPoissonAggregatePMF_zero", "child": "actuarial_compoundPoissonSeverityPower", "via": ["solution", "statement"]}
-{"parent": "ActuarialValuation.compoundPoissonConvolution_weightedLeibniz", "child": "actuarial_compoundPoissonConvolution", "via": ["statement"]}
+{"parent": "ActuarialValuation.compoundPoissonConvolution_weightedLeibniz", "child": "actuarial_compoundPoissonConvolution", "via": ["solution", "statement"]}
 {"parent": "ActuarialValuation.compoundPoissonCountWeight_ratio", "child": "actuarial_compoundPoissonCountWeight", "via": ["solution", "statement"]}
 {"parent": "ActuarialValuation.compoundPoissonCountWeight_zero", "child": "actuarial_compoundPoissonCountWeight", "via": ["solution", "statement"]}
 {"parent": "ActuarialValuation.compoundPoissonPanjerStep_nonneg", "child": "actuarial_compoundPoissonPanjerStep", "via": ["solution", "statement"]}
 {"parent": "ActuarialValuation.compoundPoissonPanjerStep_one", "child": "actuarial_compoundPoissonPanjerStep", "via": ["solution", "statement"]}
-{"parent": "ActuarialValuation.compoundPoissonPanjerStep_unique_sequences", "child": "actuarial_compoundPoissonPanjerStep", "via": ["statement"]}
+{"parent": "ActuarialValuation.compoundPoissonPanjerStep_unique_sequences", "child": "actuarial_compoundPoissonPanjerStep", "via": ["solution", "statement"]}
 {"parent": "ActuarialValuation.compoundPoissonPanjer_fundamental", "child": "ActuarialValuation.compoundPoissonAggregatePMF_panjer", "via": ["solution"]}
 {"parent": "ActuarialValuation.compoundPoissonPanjer_fundamental", "child": "ActuarialValuation.compoundPoissonAggregatePMF_zero", "via": ["solution"]}
 {"parent": "ActuarialValuation.compoundPoissonPanjer_fundamental", "child": "actuarial_compoundPoissonAggregatePMF", "via": ["solution", "statement"]}
@@ -41780,11 +41780,11 @@
 {"parent": "ArrowDebreu.ThmII.budget_slack_on_Peps", "child": "ArrowDebreu_Shared_IsCompetitiveEquilibrium", "via": ["solution", "statement"]}
 {"parent": "ArrowDebreu.ThmII.budget_slack_on_Peps", "child": "ArrowDebreu_ThmII_AssumptionsII", "via": ["solution", "statement"]}
 {"parent": "ArrowDebreu.ThmII.budget_slack_on_Peps", "child": "ArrowDebreu_ThmII_economyEeps", "via": ["solution", "statement"]}
-{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_Shared_AbstractEconomy", "via": ["statement"]}
-{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_Shared_Economy", "via": ["statement"]}
-{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_Shared_IsCompetitiveEquilibrium", "via": ["statement"]}
-{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_ThmII_AssumptionsII", "via": ["statement"]}
-{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_ThmII_economyEeps", "via": ["statement"]}
+{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_Shared_AbstractEconomy", "via": ["solution", "statement"]}
+{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_Shared_Economy", "via": ["solution", "statement"]}
+{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_Shared_IsCompetitiveEquilibrium", "via": ["solution", "statement"]}
+{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_ThmII_AssumptionsII", "via": ["solution", "statement"]}
+{"parent": "ArrowDebreu.ThmII.competitive_of_price_floor_slack", "child": "ArrowDebreu_ThmII_economyEeps", "via": ["solution", "statement"]}
 {"parent": "ArrowDebreu.ThmII.eqPoint_Eeps_le_zetaPrime", "child": "ArrowDebreu_Shared_AbstractEconomy", "via": ["statement"]}
 {"parent": "ArrowDebreu.ThmII.eqPoint_Eeps_le_zetaPrime", "child": "ArrowDebreu_Shared_Economy", "via": ["statement"]}
 {"parent": "ArrowDebreu.ThmII.eqPoint_Eeps_le_zetaPrime", "child": "ArrowDebreu_Shared_IsCompetitiveEquilibrium", "via": ["statement"]}
@@ -77661,7 +77661,7 @@
 {"parent": "BinPacking.BoundedItems.ratio_limit_eq", "child": "BinPacking.BoundedItems.lower_bound", "via": ["solution"]}
 {"parent": "BinPacking.BoundedItems.ratio_limit_eq", "child": "BinPacking_BoundedItems_Model", "via": ["statement"]}
 {"parent": "BinPacking.Decreasing.bfd_follows_ffd_large_items", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
-{"parent": "BinPacking.Decreasing.bfd_le_ffd", "child": "BinPacking_Decreasing_Model", "via": ["statement"]}
+{"parent": "BinPacking.Decreasing.bfd_le_ffd", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
 {"parent": "BinPacking.Decreasing.delete_small_items", "child": "BinPacking_Decreasing_Model", "via": ["solution", "statement"]}
 {"parent": "BinPacking.Decreasing.ffd_bfd_le_eleven_ninths", "child": "BinPacking.Decreasing.bfd_le_ffd", "via": ["solution"]}
 {"parent": "BinPacking.Decreasing.ffd_bfd_le_eleven_ninths", "child": "BinPacking.Decreasing.delete_small_items", "via": ["solution"]}

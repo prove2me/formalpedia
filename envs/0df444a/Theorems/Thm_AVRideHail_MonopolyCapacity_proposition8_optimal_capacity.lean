@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AVRideHail_MonopolyCapacity_proposition8_optimal_capacity
 -- name    : AVRideHail.MonopolyCapacity.proposition8_optimal_capacity
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:10:46.132564+00:00
 -- url     : https://prove2.me/theorems/c148082b-7e84-4cef-ab71-5b2d8c32b3df

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_real_geometric_window_eventually
 -- name    : OAI.PiExponent.real_geometric_window_eventually
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:36:55.731532+00:00
 -- url     : https://prove2.me/theorems/8d18804a-7259-4232-bb95-c187cb30d121

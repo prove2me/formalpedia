@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_ArithmeticStageBounds_powerBound_of_fifth
 -- name    : ThreeSum.ArithmeticStageBounds.powerBound_of_fifth
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:34:12.774444+00:00
 -- url     : https://prove2.me/theorems/a269756c-57de-453d-bac4-7cbf753e6eb1

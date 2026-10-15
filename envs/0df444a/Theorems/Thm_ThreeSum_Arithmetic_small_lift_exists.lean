@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Arithmetic_small_lift_exists
 -- name    : ThreeSum.Arithmetic.small_lift_exists
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:57.894473+00:00
 -- url     : https://prove2.me/theorems/633f6586-bf30-4344-b8b4-134c5324bf83

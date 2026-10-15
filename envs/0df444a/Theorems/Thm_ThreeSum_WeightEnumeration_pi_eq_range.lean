@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_WeightEnumeration_pi_eq_range
 -- name    : ThreeSum.WeightEnumeration.pi_eq_range
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:17.650602+00:00
 -- url     : https://prove2.me/theorems/53803279-c960-449c-aa20-7a67687706d1

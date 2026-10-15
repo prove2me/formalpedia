@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_translationInvariant_annihilator_eq_zero
 -- name    : CauchyRiemannIndex.translationInvariant_annihilator_eq_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T23:12:51.902177+00:00
 -- url     : https://prove2.me/theorems/65c4af56-85a7-45a1-9fa4-b6ede0deb9a9

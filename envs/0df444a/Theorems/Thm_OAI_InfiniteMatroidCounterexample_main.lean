@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InfiniteMatroidCounterexample_main
 -- name    : OAI.InfiniteMatroidCounterexample.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:46.501238+00:00
 -- url     : https://prove2.me/theorems/2b25ecdb-8bf6-41b2-af1e-cb638b390390

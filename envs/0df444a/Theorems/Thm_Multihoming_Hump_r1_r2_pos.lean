@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Hump_r1_r2_pos
 -- name    : Multihoming.Hump.r1_r2_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:33.316187+00:00
 -- url     : https://prove2.me/theorems/eddaed9a-27db-4a4d-8f6e-37f6e73d4853

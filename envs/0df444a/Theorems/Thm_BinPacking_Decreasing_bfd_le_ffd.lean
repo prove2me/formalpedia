@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BinPacking_Decreasing_bfd_le_ffd
 -- name    : BinPacking.Decreasing.bfd_le_ffd
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T22:16:26.405119+00:00
 -- url     : https://prove2.me/theorems/ccbc83ae-d642-4478-ba12-c0c8cb82b24f

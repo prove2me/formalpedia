@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Light_neg_emod_nat
 -- name    : Light.neg_emod_nat
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:54.346979+00:00
 -- url     : https://prove2.me/theorems/bb15e5a9-ad71-4208-9077-d67624a20de8

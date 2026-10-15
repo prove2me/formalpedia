@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_balanced_center_window_ratio
 -- name    : OAI.PiExponent.balanced_center_window_ratio
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:06:13.374535+00:00
 -- url     : https://prove2.me/theorems/01cfa28a-23ac-46ad-ba52-de1b6bd8c9d3

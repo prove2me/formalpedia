@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HilbertCrouzeix_numericalClosure_geometry
 -- name    : OAI.HilbertCrouzeix.numericalClosure_geometry
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:45.08499+00:00
 -- url     : https://prove2.me/theorems/6702b653-335f-479b-8181-0973a6ac7ba9

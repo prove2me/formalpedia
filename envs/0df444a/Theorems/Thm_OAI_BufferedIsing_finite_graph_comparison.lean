@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BufferedIsing_finite_graph_comparison
 -- name    : OAI.BufferedIsing.finite_graph_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:24.893694+00:00
 -- url     : https://prove2.me/theorems/837997cc-0593-4a17-8f60-8bb69bc38401

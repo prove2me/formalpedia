@@ -1,0 +1,52 @@
+-- Prove2me | Theorems.Thm_TaoFivePrimes_rh_high_height_global_binning
+-- name    : TaoFivePrimes.rh_high_height_global_binning
+-- status  : Proved
+-- author  : @raresbuhai
+-- created : 2026-10-15T04:40:47.465267+00:00
+-- url     : https://prove2.me/theorems/f767c089-aa58-4554-9b16-94dc34a4e12a
+-- title:
+--   TaoFivePrimes.rh_high_height_global_binning
+-- statement:
+--   Exact componentwise merge of the33 proposed binned coefficient packets into the604 nonempty frequency bins in the global929-bin table, simultaneously for all24 complex Taylor orders. Separate binning and input-accuracy proofs connect these proposed integer coefficients to the original50000 Dirichlet terms. This arithmetic theorem makes no analytic accuracy, sign, count or RH claim.
+-- source:
+--   Platt DOI10.1090/mcom/3198, binned Taylor/Fourier reconstruction. Original surrounding attribution sometik179 c9908072-d99a-4431-aad8-a72c6352619a and Gabewhigham.
+
+import Mathlib
+import Definitions.Def_TaoFivePrimes_RHHighBinningMerge
+import Definitions.Def_TaoFivePrimes_RHHighGlobalDirichletBins
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins00
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins01
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins02
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins03
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins04
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins05
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins06
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins07
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins08
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins09
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins10
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins11
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins12
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins13
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins14
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins15
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins16
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins17
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins18
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins19
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins20
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins21
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins22
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins23
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins24
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins25
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins26
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins27
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins28
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins29
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins30
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins31
+import Definitions.Def_TaoFivePrimes_RHHighDirichletBins32
+
+theorem TaoFivePrimes.rh_high_height_global_binning :
+  RHHighBinningMerge.merge ([RHHighDirichletBins00.values.map RHHighDirichletBinning.decode,RHHighDirichletBins01.values.map RHHighDirichletBinning.decode,RHHighDirichletBins02.values.map RHHighDirichletBinning.decode,RHHighDirichletBins03.values.map RHHighDirichletBinning.decode,RHHighDirichletBins04.values.map RHHighDirichletBinning.decode,RHHighDirichletBins05.values.map RHHighDirichletBinning.decode,RHHighDirichletBins06.values.map RHHighDirichletBinning.decode,RHHighDirichletBins07.values.map RHHighDirichletBinning.decode,RHHighDirichletBins08.values.map RHHighDirichletBinning.decode,RHHighDirichletBins09.values.map RHHighDirichletBinning.decode,RHHighDirichletBins10.values.map RHHighDirichletBinning.decode,RHHighDirichletBins11.values.map RHHighDirichletBinning.decode,RHHighDirichletBins12.values.map RHHighDirichletBinning.decode,RHHighDirichletBins13.values.map RHHighDirichletBinning.decode,RHHighDirichletBins14.values.map RHHighDirichletBinning.decode,RHHighDirichletBins15.values.map RHHighDirichletBinning.decode,RHHighDirichletBins16.values.map RHHighDirichletBinning.decode,RHHighDirichletBins17.values.map RHHighDirichletBinning.decode,RHHighDirichletBins18.values.map RHHighDirichletBinning.decode,RHHighDirichletBins19.values.map RHHighDirichletBinning.decode,RHHighDirichletBins20.values.map RHHighDirichletBinning.decode,RHHighDirichletBins21.values.map RHHighDirichletBinning.decode,RHHighDirichletBins22.values.map RHHighDirichletBinning.decode,RHHighDirichletBins23.values.map RHHighDirichletBinning.decode,RHHighDirichletBins24.values.map RHHighDirichletBinning.decode,RHHighDirichletBins25.values.map RHHighDirichletBinning.decode,RHHighDirichletBins26.values.map RHHighDirichletBinning.decode,RHHighDirichletBins27.values.map RHHighDirichletBinning.decode,RHHighDirichletBins28.values.map RHHighDirichletBinning.decode,RHHighDirichletBins29.values.map RHHighDirichletBinning.decode,RHHighDirichletBins30.values.map RHHighDirichletBinning.decode,RHHighDirichletBins31.values.map RHHighDirichletBinning.decode,RHHighDirichletBins32.values.map RHHighDirichletBinning.decode].flatten)=RHHighGlobalDirichletBins.groups := by sorry

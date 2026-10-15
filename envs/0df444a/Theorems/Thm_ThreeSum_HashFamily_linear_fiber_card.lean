@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_HashFamily_linear_fiber_card
 -- name    : ThreeSum.HashFamily.linear_fiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:33.999475+00:00
 -- url     : https://prove2.me/theorems/d725b305-a7ea-4b41-8d8b-bf0916303a33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_ReportingHostMasks_prefixRows_append
 -- name    : ThreeSum.ReportingHostMasks.prefixRows_append
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:12.022919+00:00
 -- url     : https://prove2.me/theorems/48e4176d-fbb8-4b94-85c3-16a4f5ffc73f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FixedClauseThreshold_main
 -- name    : OAI.FixedClauseThreshold.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:41.258608+00:00
 -- url     : https://prove2.me/theorems/b7959368-6215-4b67-846e-fb8a93f6cd03

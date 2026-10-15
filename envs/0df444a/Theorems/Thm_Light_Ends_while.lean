@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Light_Ends_while
 -- name    : Light.Ends.while
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:36.72329+00:00
 -- url     : https://prove2.me/theorems/e80bb672-49c9-4d40-ae8b-a4a4d86a8ba5

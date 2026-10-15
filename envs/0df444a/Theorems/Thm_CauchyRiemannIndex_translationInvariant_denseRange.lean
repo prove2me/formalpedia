@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_translationInvariant_denseRange
 -- name    : CauchyRiemannIndex.translationInvariant_denseRange
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:53:08.920776+00:00
 -- url     : https://prove2.me/theorems/e826490d-b095-4606-b140-f8066b12f25f

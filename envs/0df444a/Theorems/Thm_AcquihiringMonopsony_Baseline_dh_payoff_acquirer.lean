@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_Baseline_dh_payoff_acquirer
 -- name    : AcquihiringMonopsony.Baseline.dh_payoff_acquirer
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:08:50.665834+00:00
 -- url     : https://prove2.me/theorems/6790e457-c1a8-4f37-860f-e98c510df2ff

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_translationInvariant_Lp_bound
 -- name    : CauchyRiemannIndex.translationInvariant_Lp_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T22:33:09.761646+00:00
 -- url     : https://prove2.me/theorems/e4cd9a95-370c-4697-95fc-0dcff128fbbc

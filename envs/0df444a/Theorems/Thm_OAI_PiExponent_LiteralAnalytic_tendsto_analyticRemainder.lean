@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_tendsto_analyticRemainder
 -- name    : OAI.PiExponent.LiteralAnalytic.tendsto_analyticRemainder
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-11T20:24:08.843317+00:00
 -- url     : https://prove2.me/theorems/3e3f6c16-7b23-4a33-be85-b7748629724e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightBandWeightedScoreSlice_meets
 -- name    : ThreeSum.LightBandWeightedScoreSlice.meets
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:44.613198+00:00
 -- url     : https://prove2.me/theorems/11ddddfd-1cda-4d8c-aba8-775edf54855a

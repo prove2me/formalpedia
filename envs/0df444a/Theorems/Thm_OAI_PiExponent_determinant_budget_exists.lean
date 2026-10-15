@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_determinant_budget_exists
 -- name    : OAI.PiExponent.determinant_budget_exists
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T07:53:28.507975+00:00
 -- url     : https://prove2.me/theorems/e695d43e-82bb-47d4-a237-72ebabefd131

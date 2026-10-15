@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ForestSpace_main_theorem
 -- name    : OAI.ForestSpace.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:41.418923+00:00
 -- url     : https://prove2.me/theorems/b74987e6-05fb-4848-a4d7-c347f62e4460

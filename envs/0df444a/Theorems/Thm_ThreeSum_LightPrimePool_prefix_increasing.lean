@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightPrimePool_prefix_increasing
 -- name    : ThreeSum.LightPrimePool.prefix_increasing
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:34:30.961756+00:00
 -- url     : https://prove2.me/theorems/a758dc56-db89-4a9e-a92a-139c785c7d4c

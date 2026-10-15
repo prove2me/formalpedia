@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_GlobalKeyEnumeration_rawOutput_abs_le
 -- name    : ThreeSum.GlobalKeyEnumeration.rawOutput_abs_le
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:40.272207+00:00
 -- url     : https://prove2.me/theorems/8d50bf41-0874-4406-abe0-9793b2e02177

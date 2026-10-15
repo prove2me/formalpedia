@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_EncodedColorCoverData_source_controls
 -- name    : ThreeSum.EncodedColorCoverData.source_controls
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:10.974213+00:00
 -- url     : https://prove2.me/theorems/52bb9a70-5895-4f78-b313-0c989ecde60a

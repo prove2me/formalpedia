@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_lemma_5
 -- name    : EndogMerger.SymLoyal.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:18.758727+00:00
 -- url     : https://prove2.me/theorems/dda34353-3272-49f0-ab97-ea98ed9efb60

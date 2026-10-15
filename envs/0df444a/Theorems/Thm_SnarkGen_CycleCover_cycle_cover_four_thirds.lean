@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SnarkGen_CycleCover_cycle_cover_four_thirds
 -- name    : SnarkGen.CycleCover.cycle_cover_four_thirds
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T18:07:30.17002+00:00
 -- url     : https://prove2.me/theorems/ab705b03-c69b-4764-b52a-36a134257358

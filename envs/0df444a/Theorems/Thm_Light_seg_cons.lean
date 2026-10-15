@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Light_seg_cons
 -- name    : Light.seg_cons
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:39.454093+00:00
 -- url     : https://prove2.me/theorems/67ee68f5-e63c-40d4-935d-03250600ef2d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightLocalCoverResources_word_polynomial
 -- name    : ThreeSum.LightLocalCoverResources.word_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:40:47.187163+00:00
 -- url     : https://prove2.me/theorems/e793cdff-b6e1-4d75-a15a-b5b8091b1bb3

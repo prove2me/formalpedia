@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_firmC_indep_vs_mixed
 -- name    : EndogMerger.SymLoyal.firmC_indep_vs_mixed
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:02.440206+00:00
 -- url     : https://prove2.me/theorems/bb71df46-c338-4c55-9438-ae6f2374287b

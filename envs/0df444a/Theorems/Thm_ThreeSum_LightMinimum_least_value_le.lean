@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightMinimum_least_value_le
 -- name    : ThreeSum.LightMinimum.least_value_le
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:33:17.527388+00:00
 -- url     : https://prove2.me/theorems/ae1716ea-bea3-4cf9-87cc-49927a680551

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SuttonTD_Convergence_expected_visits_eq
 -- name    : SuttonTD.Convergence.expected_visits_eq
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T06:50:11.164567+00:00
 -- url     : https://prove2.me/theorems/ba842610-5fe7-47fb-a5ed-487533455daf

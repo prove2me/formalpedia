@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_ReportingHostMasks_querySet_step
 -- name    : ThreeSum.ReportingHostMasks.querySet_step
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:08.054787+00:00
 -- url     : https://prove2.me/theorems/796d8ae9-4d63-4cee-ad74-e33f69341d94

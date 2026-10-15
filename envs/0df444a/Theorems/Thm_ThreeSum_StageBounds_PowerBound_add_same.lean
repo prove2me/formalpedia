@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_StageBounds_PowerBound_add_same
 -- name    : ThreeSum.StageBounds.PowerBound.add_same
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:54.152394+00:00
 -- url     : https://prove2.me/theorems/c5be299e-3538-45e1-9ba5-ce5da321d5ac

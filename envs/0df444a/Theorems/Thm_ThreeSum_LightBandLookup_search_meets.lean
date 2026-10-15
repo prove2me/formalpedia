@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightBandLookup_search_meets
 -- name    : ThreeSum.LightBandLookup.search_meets
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:29.56612+00:00
 -- url     : https://prove2.me/theorems/162b8e46-7869-48cb-ba6a-61a62a82b382

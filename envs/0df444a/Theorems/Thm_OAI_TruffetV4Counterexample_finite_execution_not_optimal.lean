@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TruffetV4Counterexample_finite_execution_not_optimal
 -- name    : OAI.TruffetV4Counterexample.finite_execution_not_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:35.35829+00:00
 -- url     : https://prove2.me/theorems/897a7f95-0f96-4a91-b101-b4b3c8711114

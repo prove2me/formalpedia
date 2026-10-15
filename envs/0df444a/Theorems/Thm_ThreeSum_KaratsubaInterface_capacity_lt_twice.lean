@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_KaratsubaInterface_capacity_lt_twice
 -- name    : ThreeSum.KaratsubaInterface.capacity_lt_twice
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:40:50.466895+00:00
 -- url     : https://prove2.me/theorems/3e825ca0-5791-4e87-b62a-e0c6c6ff71bb

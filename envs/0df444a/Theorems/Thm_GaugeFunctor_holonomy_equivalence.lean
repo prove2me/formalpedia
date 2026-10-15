@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_holonomy_equivalence
 -- name    : GaugeFunctor.holonomy_equivalence
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-10T09:59:30.003455+00:00
 -- url     : https://prove2.me/theorems/156ef29a-829a-49d5-b0c1-9407c5fb08fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BlockSourceCatalogCosts_catalogCells_le_encoderCount
 -- name    : ThreeSum.BlockSourceCatalogCosts.catalogCells_le_encoderCount
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:39:07.367426+00:00
 -- url     : https://prove2.me/theorems/4c1108e7-3c7a-4eb6-9e8c-3f188a1232f2

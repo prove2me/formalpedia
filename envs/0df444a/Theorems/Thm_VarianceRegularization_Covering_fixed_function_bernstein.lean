@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_VarianceRegularization_Covering_fixed_function_bernstein
 -- name    : VarianceRegularization.Covering.fixed_function_bernstein
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T19:41:00.414979+00:00
 -- url     : https://prove2.me/theorems/ea2e1ee1-2d3c-42ec-beff-5744b43e3af9

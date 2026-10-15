@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SegmentLenses_midpoint_lens_main
 -- name    : OAI.SegmentLenses.midpoint_lens_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:19.254933+00:00
 -- url     : https://prove2.me/theorems/ac9e3323-df7d-4665-bd48-ca6f2c7a1357

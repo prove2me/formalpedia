@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_Competition_gChar_three_sub_two
 -- name    : NetFeePlatform.Competition.gChar_three_sub_two
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:49.579984+00:00
 -- url     : https://prove2.me/theorems/9733ba24-0108-46f2-a840-1eee0873bddc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_quadratic_gap_window
 -- name    : OAI.PiExponent.quadratic_gap_window
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T08:40:41.387909+00:00
 -- url     : https://prove2.me/theorems/8f53717a-aa05-4597-b076-12d426ee28b8

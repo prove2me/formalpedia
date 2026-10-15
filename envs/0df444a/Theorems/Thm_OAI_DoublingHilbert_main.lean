@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DoublingHilbert_main
 -- name    : OAI.DoublingHilbert.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:36.218965+00:00
 -- url     : https://prove2.me/theorems/4778ec00-09e9-49b9-a209-dd902e56c0f8

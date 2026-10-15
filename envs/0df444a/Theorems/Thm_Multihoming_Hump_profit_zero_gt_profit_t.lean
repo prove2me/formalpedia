@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Hump_profit_zero_gt_profit_t
 -- name    : Multihoming.Hump.profit_zero_gt_profit_t
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T08:31:31.538147+00:00
 -- url     : https://prove2.me/theorems/16cf8ddc-6cad-45f0-8c25-b9faa27f9687

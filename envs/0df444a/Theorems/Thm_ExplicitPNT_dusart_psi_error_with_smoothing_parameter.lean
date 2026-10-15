@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitPNT_dusart_psi_error_with_smoothing_parameter
 -- name    : ExplicitPNT.dusart_psi_error_with_smoothing_parameter
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-10-09T15:48:03.058579+00:00
 -- url     : https://prove2.me/theorems/0db4615e-792f-4664-bb94-2960c2249121

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BinarySearch_upperSearch_correct
 -- name    : ThreeSum.BinarySearch.upperSearch_correct
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:36:18.676745+00:00
 -- url     : https://prove2.me/theorems/dcb60f13-8ca0-40b7-a933-193bdf70112d

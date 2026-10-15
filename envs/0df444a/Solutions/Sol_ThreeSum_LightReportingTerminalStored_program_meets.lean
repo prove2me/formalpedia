@@ -1,0 +1,3308 @@
+-- Prove2me | solution 1 for ThreeSum.LightReportingTerminalStored.program_meets
+-- status  : ACCEPTED   (prove)
+-- author  : @wurtle
+-- created : 2026-10-14T17:08:47.662179+00:00
+-- url     : https://prove2.me/submissions/c8942672-de91-42ad-a7c1-197bdda27048
+
+/-
+Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+SPDX-License-Identifier: Apache-2.0
+-/
+
+import Aesop
+import Definitions.Def_APSPSource_RemainingDefinitions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Logic
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Regions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Syntax
+import Definitions.Def_ThreeSum1962Source_Bundle01
+import Definitions.Def_ThreeSum1962Source_Bundle04
+import Definitions.Def_ThreeSum1962Source_Bundle05
+import Definitions.Def_ThreeSum1962Source_Bundle07
+import Definitions.Def_ThreeSum1962Source_Bundle08
+import Definitions.Def_ThreeSum1962Source_Bundle09
+import Definitions.Def_ThreeSum1962Source_Bundle10
+import Definitions.Def_ThreeSum1962Source_Bundle11
+import Definitions.Def_ThreeSum1962Source_Bundle12
+import Definitions.Def_ThreeSum1962Source_Bundle13
+import Definitions.Def_ThreeSum1962Source_Bundle14
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Powerset
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Group.Equiv.Basic
+import Mathlib.Algebra.Group.Int.Defs
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.Group.Multiset
+import Mathlib.Algebra.Order.Chebyshev
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Div
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Int
+import Mathlib.Algebra.Order.Ring.Nat
+import Mathlib.Algebra.Order.Ring.Pow
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.Coeff
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Combinatorics.Colex
+import Mathlib.Data.Bool.Basic
+import Mathlib.Data.Fin.Embedding
+import Mathlib.Data.Fin.VecNotation
+import Mathlib.Data.Finset.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Max
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Range
+import Mathlib.Data.Finset.Sigma
+import Mathlib.Data.Finset.Sort
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.EquivFin
+import Mathlib.Data.Fintype.Fin
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.Int.ModEq
+import Mathlib.Data.Int.Notation
+import Mathlib.Data.Int.SuccPred
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.GetD
+import Mathlib.Data.List.MinMax
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Pi
+import Mathlib.Data.List.ProdSigma
+import Mathlib.Data.List.Range
+import Mathlib.Data.List.Sublists
+import Mathlib.Data.List.TakeDrop
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Choose.Bounds
+import Mathlib.Data.Nat.Choose.Central
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Data.Nat.Count
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Size
+import Mathlib.Data.Nat.Sqrt
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.ZMod.Basic
+import Mathlib.GroupTheory.Index
+import Mathlib.LinearAlgebra.Dual.Lemmas
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.Dual
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Logic.Function.Basic
+import Mathlib.NumberTheory.Bertrand
+import Mathlib.Order.ConditionallyCompleteLattice.Basic
+import Mathlib.RingTheory.Coprime.Lemmas
+import Mathlib.Tactic
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.ByContra
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.SplitIfs
+import Mathlib.Tactic.Tauto
+import Theorems.Thm_ThreeSum_LightReportingTerminalFrontier_program_meets
+import Theorems.Thm_ThreeSum_RawReporting_partitionWord_length
+import Theorems.Thm_ThreeSum_RawReporting_word_children
+import Theorems.Thm_ThreeSum_ReportingHostMasks_blockSet_localRow
+import Theorems.Thm_ThreeSum_ReportingHostMasks_localChildren_mem
+import Theorems.Thm_ThreeSum_Reporting_frontier_length_le_mass
+
+
+set_option autoImplicit false
+set_option relaxedAutoImplicit false
+set_option Elab.async false
+namespace Light
+end Light
+namespace ThreeSum.BlockCoefficientRows
+end ThreeSum.BlockCoefficientRows
+namespace ThreeSum.BlockEncoding
+end ThreeSum.BlockEncoding
+namespace ThreeSum.BlockForced
+end ThreeSum.BlockForced
+namespace ThreeSum.BlockIndex
+end ThreeSum.BlockIndex
+namespace ThreeSum.BlockIndexedQuery
+end ThreeSum.BlockIndexedQuery
+namespace ThreeSum.BlockMaskLayout
+end ThreeSum.BlockMaskLayout
+namespace ThreeSum.BlockRows
+end ThreeSum.BlockRows
+namespace ThreeSum.BlockSourceEncoding
+end ThreeSum.BlockSourceEncoding
+namespace ThreeSum.GlobalEncoding
+end ThreeSum.GlobalEncoding
+namespace ThreeSum.LightBlockQuery
+end ThreeSum.LightBlockQuery
+namespace ThreeSum.LightBlockSourceBuild
+end ThreeSum.LightBlockSourceBuild
+namespace ThreeSum.LightReportingTerminalMasks
+end ThreeSum.LightReportingTerminalMasks
+namespace ThreeSum.LightSourceResidues
+end ThreeSum.LightSourceResidues
+namespace ThreeSum.LocalCoverBounds
+end ThreeSum.LocalCoverBounds
+namespace ThreeSum.RawIncidences
+end ThreeSum.RawIncidences
+namespace ThreeSum.RawPrefixCounts
+end ThreeSum.RawPrefixCounts
+namespace ThreeSum.RawReporting
+end ThreeSum.RawReporting
+namespace ThreeSum.ReportingHostFrontierLayout
+end ThreeSum.ReportingHostFrontierLayout
+namespace ThreeSum.ReportingHostMasks
+end ThreeSum.ReportingHostMasks
+namespace ThreeSum.ReportingHostTerminalFrontier
+end ThreeSum.ReportingHostTerminalFrontier
+namespace ThreeSum.SourceBuckets
+end ThreeSum.SourceBuckets
+namespace ThreeSum.StoredReporting
+end ThreeSum.StoredReporting
+namespace ThreeSum.SubsetAddress
+end ThreeSum.SubsetAddress
+namespace ThreeSumApsp
+end ThreeSumApsp
+
+section
+
+
+/-!
+# Proof rules for the light language
+
+Ends lim P d s σ T Q says: the statement s, started in σ, ends within T steps in a state that
+satisfies Q.  There is one rule for each construct; a rule turns a goal about a statement into goals
+about its parts, so a proof follows the text of the program from top to bottom.  Recursion needs no
+rule: a statement about a recursive procedure is proved by induction (in Lean) on a measure, and the
+rule for calls unfolds the body.
+
+There are three rules for loops: with an invariant indexed by the number of the round and a cost for
+each round (Ends.while), the same with one cost for all rounds (Ends.whileConst), and, for a loop
+whose number of rounds depends on the data, with a quantity that every round decreases
+(Ends.whileVariant).
+
+The file also has the basic facts about runs (a run stays a run when procedures are appended to the
+program), notation for writing programs, the simplification set
+`light_norm`, and the standing assumptions `Std` about the limits.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## Runs -/
+
+/-- A procedure of a program is a procedure, with the same number, of the program with more
+procedures appended. -/
+theorem getElem?_append_of_eq_some {P : Program} {p : ℕ} {body : Stmt} (h : P[p]? = some body)
+    (R : Program) : (P ++ R)[p]? = some body := by
+  rw [List.getElem?_append_left (List.getElem?_eq_some_iff.1 h).1]
+  exact h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- A run stays a run when procedures are appended to the program. -/
+theorem Exec.append {s : Stmt} {σ σ' : State} {c : ℕ} (h : Exec lim P d s σ σ' c) (R : Program) :
+    Exec lim (P ++ R) d s σ σ' c := by
+  induction h with
+  | skip => exact .skip
+  | set h => exact .set h
+  | store h₁ h₂ h₃ => exact .store h₁ h₂ h₃
+  | seq _ _ ih₁ ih₂ => exact .seq ih₁ ih₂
+  | iteTrue h₁ h₂ _ ih => exact .iteTrue h₁ h₂ ih
+  | iteFalse h₁ h₂ _ ih => exact .iteFalse h₁ h₂ ih
+  | whileFalse h₁ h₂ => exact .whileFalse h₁ h₂
+  | whileTrue h₁ h₂ _ _ ih₁ ih₂ => exact .whileTrue h₁ h₂ ih₁ ih₂
+  | call h₁ h₂ h₃ _ ih => exact .call h₁ (getElem?_append_of_eq_some h₂ R) h₃ ih
+
+/-! ## The rules -/
+
+
+
+
+
+
+/-- More time and a weaker conclusion. -/
+theorem Ends.mono {s σ T T' Q Q'} (h : Ends lim P d s σ T Q) (hT : T ≤ T')
+    (hQ : ∀ σ', Q σ' → Q' σ') : Ends lim P d s σ T' Q' := by
+  obtain ⟨σ', c, he, hc, hq⟩ := h
+  exact ⟨σ', c, he, hc.trans hT, hQ _ hq⟩
+
+/-- What is proved about a program holds for the program with more procedures appended. -/
+theorem Ends.append {s σ T Q} (h : Ends lim P d s σ T Q) (R : Program) :
+    Ends lim (P ++ R) d s σ T Q := by
+  obtain ⟨σ', c, he, hc, hq⟩ := h
+  exact ⟨σ', c, he.append R, hc, hq⟩
+
+theorem Ends.skip {σ T} {Q : State → Prop} (h : Q σ) : Ends lim P d .skip σ T Q :=
+  ⟨σ, 0, .skip, Nat.zero_le _, h⟩
+
+theorem Ends.set {σ T x e} {Q : State → Prop} (hs : e.Safe lim σ) (hT : e.cost + 1 ≤ T)
+    (h : Q { σ with loc := Function.update σ.loc x (e.val σ) }) : Ends lim P d (.set x e) σ T Q :=
+  ⟨_, _, .set hs, hT, h⟩
+
+
+
+
+
+
+
+theorem Ends.seq {σ T s₁ s₂} {Q : State → Prop} (T₁ T₂ : ℕ)
+    (h : Ends lim P d s₁ σ T₁ fun σ' => Ends lim P d s₂ σ' T₂ Q) (hT : T₁ + T₂ ≤ T) :
+    Ends lim P d (.seq s₁ s₂) σ T Q := by
+  obtain ⟨σ', c₁, he₁, hc₁, σ'', c₂, he₂, hc₂, hq⟩ := h
+  exact ⟨σ'', _, .seq he₁ he₂, by omega, hq⟩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- Calls: verify the body from the frame made of the arguments. -/
+theorem Ends.call {σ T p args x body} {Q : State → Prop} (T' : ℕ) (ha : ∀ e ∈ args, e.Safe lim σ)
+    (hp : P[p]? = some body) (hd : d < lim.depth)
+    (h : Ends lim P (d + 1) body ⟨frame (args.map (·.val σ)), σ.mem⟩ T'
+      fun σ' => Q ⟨Function.update σ.loc x (σ'.loc 0), σ'.mem⟩)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T) : Ends lim P d (.call p args x) σ T Q := by
+  obtain ⟨σ', k, he, hk, hq⟩ := h
+  exact ⟨_, _, .call ha hp hd he, by omega, hq⟩
+
+/-! ## Notation for writing programs
+
+Not trusted: a theorem about a program does not depend on how the program was typed in. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Simplification -/
+
+attribute [simp] Expr.val Expr.cost Expr.Safe Op.eval Cond.Holds Cond.cost Cond.Safe frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The limits -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Segments of the memory
+
+Seg μ a l says that the cells a, a + 1, …, a + l.length - 1 of the memory μ hold the list l.
+SegN is Seg for a list of natural numbers, MatAt for a matrix written row by row, VecAt for a vector
+of indices.  The file has the lemmas for reading a cell of a segment, writing into it, writing
+elsewhere, and for cutting and joining segments.  Each of the four predicates has its lemma `keep`,
+which carries it to a later memory.
+-/
+
+@[expose] public section
+
+namespace Light
+
+open ThreeSumApsp
+
+
+
+
+
+
+
+variable {μ μ' μ'' : ℕ → ℤ} {a b n : ℕ} {l l₁ l₂ : List ℤ} {x : ℤ}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- Reading a cell of a segment of natural numbers, with the proof that the index is in range. -/
+theorem SegN.getElem {l : List ℕ} (h : SegN μ a l) {i : ℕ} (hi : i < l.length) :
+    μ (a + i) = (l[i] : ℕ) := by
+  rw [h i (by simpa using hi), List.getElem_map]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Derived rules: time that is not typed, blocks, counting loops
+
+The rules of this file spare the typing of step counts.  Ends.next gives the first statement its
+time and the rest of the program what is left; Ends.setThen, Ends.storeThen and Ends.iteThen do the
+same for one assignment, store or branch, and Ends.setLast, Ends.storeLast and Ends.iteLast treat
+the last statement of a program.  `Ends.pieceThen` and `Ends.pieceLast` are the two forms for a
+piece of the program that has a lemma of its own.  In every rule the main premises come first, then
+the side conditions, and last the comparison of times.  The comparison has the default proof
+`light_time`, safety conditions have the default proof `light_side`.
+
+A block is a statement without loops and calls.  s.Runs lim σ R says that the block s runs safely
+from σ and ends in a state that satisfies R; Ends.block turns this into a fact about time, with the
+cost computed. Ends.whileBlock is the rule for a loop whose body is a block.
+
+Stmt.for i hi body is the loop "for i = 0, …, hi - 1 do body".  The rule Ends.for owns the counter:
+the safety of the test and of the increment and the number of steps of the loop are settled here,
+once. Ends.forMem is the common case in which the body changes no local variable, so that the
+invariant speaks about the memory only.  The three parts of every loop rule are called start, round
+and done.  A loop rule is told a bound b on the steps of a round; for a round that is a block with
+a name, say xRound, this is xRound.blockCost.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## Blocks -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The default proofs -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Rules for blocks -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Sequencing: what is left of the time goes to the rest of the program -/
+
+/-- The first statement gets T₁ steps, the rest of the program what is left of T. -/
+theorem Ends.next {σ : State} {T : ℕ} {s₁ s₂ : Stmt} {Q : State → Prop} (T₁ : ℕ)
+    (h : Ends lim P d s₁ σ T₁ fun σ' => Ends lim P d s₂ σ' (T - T₁) Q)
+    (hT : T₁ ≤ T := by first
+                           |
+                             ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                   List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                               (first
+                                 | omega
+                                 | ((ring_nf); (omega))))
+                           | omega
+                           |
+                             (simp [] <;>
+                                 first
+                                 | omega
+                                 | ((ring_nf); (omega)))) : Ends lim P d ((Light.Stmt.seq s₁ s₂)) σ T Q :=
+  Ends.seq T₁ (T - T₁) h (by omega)
+
+/-- Brackets do not matter: a piece of several statements, followed by the rest of the program, is
+run statement by statement. -/
+theorem Ends.seqAssoc {σ : State} {T : ℕ} {s₁ s₂ s₃ : Stmt} {Q : State → Prop}
+    (h : Ends lim P d ((Light.Stmt.seq s₁ (Light.Stmt.seq s₂ s₃))) σ T Q) : Ends lim P d ((Light.Stmt.seq (Light.Stmt.seq s₁ s₂) s₃)) σ T Q := by
+  obtain ⟨σ', _, he, hc, hq⟩ := h
+  cases he with
+  | seq he₁ he₂₃ =>
+    cases he₂₃ with
+    | seq he₂ he₃ => exact ⟨σ', _, .seq (.seq he₁ he₂) he₃, by omega, hq⟩
+
+/-- A `skip` before the rest of the program takes no step. -/
+theorem Ends.skipThen {σ : State} {T : ℕ} {s : Stmt} {Q : State → Prop} (h : Ends lim P d s σ T Q) :
+    Ends lim P d ((Light.Stmt.seq .skip s)) σ T Q :=
+  Ends.seq 0 T (Ends.skip h) (by omega)
+
+/-- A `skip` may be put behind a statement. -/
+theorem Ends.skipLast {σ : State} {T : ℕ} {s : Stmt} {Q : State → Prop}
+    (h : Ends lim P d ((Light.Stmt.seq s .skip)) σ T Q) : Ends lim P d s σ T Q := by
+  obtain ⟨σ', _, he, hc, hq⟩ := h
+  cases he with
+  | seq he₁ he₂ =>
+    cases he₂
+    exact ⟨σ', _, he₁, by omega, hq⟩
+
+/-- A program that is defined as a sequence may be treated as the sequence. -/
+theorem Ends.seqSelf {σ : State} {T : ℕ} {s₁ s₂ : Stmt} {Q : State → Prop}
+    (h : Ends lim P d ((Light.Stmt.seq s₁ s₂)) σ T Q) : Ends lim P d ((Light.Stmt.seq s₁ s₂)) σ T Q :=
+  h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Loops whose body is a block -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Counting loops -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Local variables as a list
+
+In the proof of a procedure body the state is written out as ⟨frame [a, b, …], μ⟩: the list
+holds the local variables 0, 1, …, and all further ones are 0.  An assignment to local x replaces
+entry x of the list (setLocal).  The rules of this file treat one statement each.  They are told the
+value that is assigned or stored, and they ask for one fact about each expression: that its
+evaluation stays within the limits and gives this value (Expr.Gives).  This fact and the comparison
+of the costs are proved by default from the hypotheses in the context.  Ends.forFrame and
+Ends.forShape are the rules for counting loops in this form.  In the names of the rules, To says
+that the state is ⟨frame l, μ⟩.
+
+Locals by name, and locals whose values do not matter:
+
+* `setLocals l [(x, a), (y, b), …]` is the list `l` after the assignments `x := a`, `y := b`, ….
+  With the names of the locals for `x`, `y`, … it describes the locals of a procedure by name:
+  `setLocals [] [(Size, n), (Bound, U), …]`.
+* `updateLocals loc [(x, a), (y, b), …]` is the same for locals that are not given as a list.  A
+  lemma about a piece of text that several procedures share is stated for arbitrary locals `loc`.
+* `refreshLocals l loc xs` is the list `l` with the entries `xs` read from `loc`.
+* `LocalsBut xs l loc` says that `loc` agrees with `frame l` except perhaps at the locals `xs`.  In
+  an invariant, `xs` are the scratch variables.  `Ends.asFrame` goes from such locals to a list, and
+  `LocalsBut.of_eq` comes back.
+* `Ends.pieceTo` and `Ends.pieceToThen` use a lemma about a piece of text that assigns only the
+  locals `xs`: afterwards the locals are `refreshLocals l loc' xs`, where `loc'` are the locals of
+  which the lemma speaks.  The lemma need not mention the locals that the piece does not assign.
+* `Ends.forScratch` is the rule for a counting loop whose body may change the scratch variables
+  `xs`: the round says nothing about the locals.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## The list of the locals -/
+
+
+
+
+
+
+
+
+
+/-- Reading a local after an assignment. -/
+theorem frame_setLocal : ∀ (l : List ℤ) (x : ℕ) (z : ℤ) (y : ℕ),
+    frame (setLocal l x z) y = if y = x then z else frame l y
+  | [], 0, z, 0 => by simp
+  | [], 0, z, y + 1 => by simp
+  | [], x + 1, z, 0 => by simp
+  | [], x + 1, z, y + 1 => by simpa using frame_setLocal [] x z y
+  | a :: l, 0, z, 0 => by simp
+  | a :: l, 0, z, y + 1 => by simp
+  | a :: l, x + 1, z, 0 => by simp
+  | a :: l, x + 1, z, y + 1 => by simpa using frame_setLocal l x z y
+
+/-- An assignment to a local, in terms of the list. -/
+theorem update_frame_setLocal (l : List ℤ) (x : ℕ) (z : ℤ) :
+    Function.update (frame l) x z = frame (setLocal l x z) := by
+  funext y
+  rw [frame_setLocal, Function.update_apply]
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The value of an expression -/
+
+
+
+
+
+/-! ## One statement -/
+
+section rules
+
+variable {l : List ℤ} {μ : ℕ → ℤ} {T : ℕ} {Q : State → Prop}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- `x := e`, where e gives z. -/
+theorem Ends.setTo {x : ℕ} {e : Expr} (z : ℤ) (h : Q ⟨frame (setLocal l x z), μ⟩)
+    (he : e.Gives lim ⟨frame l, μ⟩ z := by (((try have := Light.Std.space_le (by assumption)));
+                                                  ((try have := Light.Std.const_le (by assumption)));
+                                                  (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hT : e.cost + 1 ≤ T := by first
+                                 |
+                                   ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                         List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                     (first
+                                       | omega
+                                       | ((ring_nf); (omega))))
+                                 | omega
+                                 |
+                                   (simp [] <;>
+                                       first
+                                       | omega
+                                       | ((ring_nf); (omega)))) :
+    Ends lim P d (.set x e) ⟨frame l, μ⟩ T Q := by
+  refine Ends.set he.1 hT ?_
+  rw [he.2]
+  simp only [update_frame_setLocal]
+  exact h
+
+/-- `x := e ; s`, where e gives z.  The rest s of the text gets the steps that are left. -/
+theorem Ends.setToThen {x : ℕ} {e : Expr} {s : Stmt} (z : ℤ)
+    (h : Ends lim P d s ⟨frame (setLocal l x z), μ⟩ (T - (e.cost + 1)) Q)
+    (he : e.Gives lim ⟨frame l, μ⟩ z := by (((try have := Light.Std.space_le (by assumption)));
+                                                  ((try have := Light.Std.const_le (by assumption)));
+                                                  (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hT : e.cost + 1 ≤ T := by first
+                                 |
+                                   ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                         List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                     (first
+                                       | omega
+                                       | ((ring_nf); (omega))))
+                                 | omega
+                                 |
+                                   (simp [] <;>
+                                       first
+                                       | omega
+                                       | ((ring_nf); (omega)))) :
+    Ends lim P d ((Light.Stmt.seq (.set x e) s)) ⟨frame l, μ⟩ T Q :=
+  Ends.next _ (Ends.setTo z h he le_rfl) hT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end rules
+
+/-! ## Locals by name, and locals whose values do not matter -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section
+variable {xs : List ℕ} {l l' : List ℤ} {loc μ : ℕ → ℤ}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## A piece of program text with a lemma of its own -/
+
+variable {T T₁ : ℕ} {s s₁ s₂ : Stmt} {Q R : State → Prop}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Counting loops with scratch variables -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Calls
+
+Meets lim P p d vals μ T R is the specification of a procedure: procedure number p of the program P,
+run at depth d on the arguments vals in the memory μ, ends within T steps with a result and a memory
+that satisfy R. A routine is proved to meet such a specification (Meets.of_body), and a caller uses
+the specification only, so that the proof of a caller does not depend on the body of a callee.
+
+The specification of a routine x, as its callers assume it, has the form
+`∀ (data) μ, hypotheses → ∀ d, d + k ≤ lim.depth → Meets lim P p d vals μ T R`.  Here k is the
+number of levels of calls that x needs below itself, and d, the depth at which the body of x runs,
+comes last.
+
+There is one rule for calls, in four forms.  It is told the fact about the callee, from which it
+reads the values of the arguments, the time and what holds afterwards, and it asks for what follows
+the call.  Three side goals have default proofs: the arguments are safe and have these values, one
+more level of calls is allowed, and the time suffices.  Ends.callTo and Ends.callToThen are the rule
+for a state ⟨frame l, μ⟩; Ends.callLast and Ends.callThen are the same for local variables that are
+not given as a list.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## Specifications of procedures -/
+
+
+
+
+
+
+
+section
+variable {p : ℕ} {vals : List ℤ} {μ : ℕ → ℤ} {T T' : ℕ} {R R' : ℤ → (ℕ → ℤ) → Prop}
+
+/-- From a theorem about a body to the specification. -/
+theorem Meets.of_body {args : List ℤ} {Q : ℤ → (ℕ → ℤ) → Prop} {body : Stmt}
+    (hp : P[p]? = some body)
+    (h : Ends lim P d body ⟨frame args, μ⟩ T fun σ' => Q (σ'.loc 0) σ'.mem) :
+    Meets lim P p d args μ T Q :=
+  ⟨body, hp, h⟩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- A specification holds for the program with more procedures appended. -/
+theorem Meets.append (h : Meets lim P p d vals μ T R) (P' : Program) :
+    Meets lim (P ++ P') p d vals μ T R := by
+  obtain ⟨body, hp, he⟩ := h
+  exact ⟨body, getElem?_append_of_eq_some hp P', he.append P'⟩
+
+end
+
+/-! ## The rule for calls -/
+
+section
+variable {loc μ : ℕ → ℤ} {l : List ℤ} {T T' p x : ℕ} {args : List Expr} {vals : List ℤ}
+  {R : ℤ → (ℕ → ℤ) → Prop} {Q : State → Prop} {s : Stmt}
+
+/-- `x := p(args)`, where the arguments give vals.  The procedure runs at depth d + 1. -/
+theorem Ends.callLast (hp : Meets lim P p (d + 1) vals μ T' R)
+    (h : ∀ r μ', R r μ' → Q ⟨Function.update loc x r, μ'⟩)
+    (ha : (∀ e ∈ args, e.Safe lim ⟨loc, μ⟩) ∧ args.map (·.val ⟨loc, μ⟩) = vals := by (((try have := Light.Std.space_le (by assumption)));
+                                                                                                        ((try have := Light.Std.const_le (by assumption)));
+                                                                                                        (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hd : d < lim.depth := by omega)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T := by first
+                                                        |
+                                                          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                                                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                                            (first
+                                                              | omega
+                                                              | ((ring_nf); (omega))))
+                                                        | omega
+                                                        |
+                                                          (simp [] <;>
+                                                              first
+                                                              | omega
+                                                              | ((ring_nf); (omega)))) :
+    Ends lim P d (.call p args x) ⟨loc, μ⟩ T Q := by
+  obtain ⟨body, hb, he⟩ := hp
+  obtain ⟨hs, rfl⟩ := ha
+  exact Ends.call T' hs hb hd (he.mono le_rfl fun _ hR => h _ _ hR) hT
+
+
+
+
+
+
+
+
+
+
+
+/-- `x := p(args)`, with the local variables as a list.  The procedure runs at depth d + 1. -/
+theorem Ends.callTo (hp : Meets lim P p (d + 1) vals μ T' R)
+    (h : ∀ r μ', R r μ' → Q ⟨frame (setLocal l x r), μ'⟩)
+    (ha : (∀ e ∈ args, e.Safe lim ⟨frame l, μ⟩) ∧ args.map (·.val ⟨frame l, μ⟩) = vals := by
+      (((try have := Light.Std.space_le (by assumption)));
+        ((try have := Light.Std.const_le (by assumption)));
+        (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hd : d < lim.depth := by omega)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T := by first
+                                                        |
+                                                          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                                                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                                            (first
+                                                              | omega
+                                                              | ((ring_nf); (omega))))
+                                                        | omega
+                                                        |
+                                                          (simp [] <;>
+                                                              first
+                                                              | omega
+                                                              | ((ring_nf); (omega)))) :
+    Ends lim P d (.call p args x) ⟨frame l, μ⟩ T Q :=
+  Ends.callLast hp (fun r μ' hR => update_frame_setLocal l x r ▸ h r μ' hR) ha hd hT
+
+/-- `x := p(args) ; s`, with the local variables as a list.  The procedure runs at depth d + 1. -/
+theorem Ends.callToThen (hp : Meets lim P p (d + 1) vals μ T' R)
+    (h : ∀ r μ', R r μ' → Ends lim P d s ⟨frame (setLocal l x r), μ'⟩
+      (T - ((args.map Expr.cost).sum + 2 + T')) Q)
+    (ha : (∀ e ∈ args, e.Safe lim ⟨frame l, μ⟩) ∧ args.map (·.val ⟨frame l, μ⟩) = vals := by
+      (((try have := Light.Std.space_le (by assumption)));
+        ((try have := Light.Std.const_le (by assumption)));
+        (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hd : d < lim.depth := by omega)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T := by first
+                                                        |
+                                                          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                                                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                                            (first
+                                                              | omega
+                                                              | ((ring_nf); (omega))))
+                                                        | omega
+                                                        |
+                                                          (simp [] <;>
+                                                              first
+                                                              | omega
+                                                              | ((ring_nf); (omega)))) :
+    Ends lim P d ((Light.Stmt.seq (.call p args x) s)) ⟨frame l, μ⟩ T Q :=
+  Ends.next _ (Ends.callTo hp h ha hd le_rfl) hT
+
+end
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Original-input histograms give the exact independently trimmed sources
+
+The histogram keys retain the first modular reduction and the signed carry
+offset. Looking up the endpoint's final residue therefore counts precisely
+the original divisibility condition in `BlockEncoding`. An explicit finite
+enumeration accounts for every original input incidence once.
+-/
+
+namespace ThreeSum.BlockSourceEncoding
+
+open Finset BlockEncoding GlobalEncoding LocalCoverBounds LightSourceResidues
+open scoped BigOperators
+
+set_option maxHeartbeats 1000000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@[simp] theorem modulus_cast (h J : ℕ) : (modulus h J : ℤ) = globalModulus h J := by
+  simp only [modulus,globalModulus,Nat.cast_pow]
+
+section OriginalSources
+
+variable {β : Type*} [DecidableEq β]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end OriginalSources
+
+end ThreeSum.BlockSourceEncoding
+
+end
+
+section
+
+
+/-!
+# Query-coordinate lists and weighted subset semantics
+
+The coordinate list has one entry per set bit of the query. Its powers
+form a compact weight table for the output-sensitive enumeration routine.
+-/
+
+namespace ThreeSum.QueryCoordinates
+
+open Finset ThreeSum.SubsetAddress
+open scoped BigOperators
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem setLayer_nodup (xs : List ℕ) (hn : xs.Nodup) (k : ℕ) :
+    (setLayer xs k).Nodup := by
+  apply (List.nodup_sublistsLen k hn).map_on
+  intro a ha b hb he
+  have ha' := (List.mem_sublistsLen.mp ha).1
+  have hb' := (List.mem_sublistsLen.mp hb).1
+  apply (hn.perm_iff_eq_of_sublist ha' hb').mp
+  exact List.perm_of_nodup_nodup_toFinset_eq (hn.sublist ha') (hn.sublist hb') he
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem missingSets_nodup {W : ℕ} (Q : Finset (Fin W)) (k : ℕ) :
+    (missingSets Q k).Nodup := by
+  unfold missingSets
+  apply (setLayer_nodup _ (List.nodup_reverse.mpr (positions_nodup Q W)) k).map_on
+  intro a ha b hb he
+  have has := (mem_setLayer _ (List.nodup_reverse.mpr (positions_nodup Q W)) _ _).mp ha
+  have hbs := (mem_setLayer _ (List.nodup_reverse.mpr (positions_nodup Q W)) _ _).mp hb
+  rw [List.toFinset_reverse,positions_toFinset] at has hbs
+  have h := congrArg natPositions he
+  rw [decode_maskOf (has.1.trans (natPositions_subset Q)),
+      decode_maskOf (hbs.1.trans (natPositions_subset Q))] at h
+  exact h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.QueryCoordinates
+
+end
+
+section
+
+
+/-!
+# Exact next-block masks for the reporting host
+
+The machine enumerates subsets directly in the global row-major ground set.
+This file identifies those subsets with the balanced next-row children of
+the original reporting tree, and proves the arithmetic mask transitions.
+-/
+
+namespace ThreeSum.ReportingHostMasks
+
+open Finset BlockRows BlockIndex BlockIndexedQuery BlockMaskLayout
+open ThreeSum.SubsetAddress StoredReporting BlockForced
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem globalChildren_nodup {J L : ℕ} (i : Fin J) (Q : Finset (Fin L)) (h : ℕ) :
+    (globalChildren i Q h).Nodup := QueryCoordinates.missingSets_nodup _ _
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem localChildren_nodup {J L : ℕ} (i : Fin J) (Q : Finset (Fin L)) (h : ℕ) :
+    (localChildren i Q h).Nodup := by
+  apply (globalChildren_nodup i Q h).map_on
+  intro S hS T hT he
+  have hs := (QueryCoordinates.missingSets_mem _ _ _).mp hS
+  have ht := (QueryCoordinates.missingSets_mem _ _ _).mp hT
+  rw [← blockSet_localRow i Q hs.1,← blockSet_localRow i Q ht.1,he]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.ReportingHostMasks
+
+end
+
+section
+
+
+/-!
+# Coverage and raw-mass charging in the machine's actual child order
+
+The output-sensitive enumerator uses its recursive coordinate order. The
+reporting tree is instantiated with that exact order here; its positive
+frontiers retain the original incidences and their multiplicities.
+-/
+
+namespace ThreeSum.ReportingHostFrontier
+
+open Finset GlobalEncoding LocalCoverBounds RawIncidences RawReporting
+open ReportingHostMasks BlockForced
+open scoped BigOperators
+
+
+
+
+theorem mem_children_iff {h J : ℕ} (q : GlobalOutput h J) (k : ℕ)
+    (S : Finset (Fin (512*h))) : S ∈ children q k ↔ S ∈ RawReporting.children q k := by
+  unfold children RawReporting.children
+  split
+  · exact localChildren_mem _ _ _ _
+  · rfl
+
+theorem children_nodup {h J : ℕ} (q : GlobalOutput h J) (k : ℕ) :
+    (children q k).Nodup := by
+  unfold children
+  split
+  · exact localChildren_nodup _ _ _
+  · exact List.nodup_nil
+
+
+
+
+
+
+
+
+
+section Indices
+
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+  [DecidableEq α] [DecidableEq β] [DecidableEq γ]
+
+
+
+
+theorem word_children {h J : ℕ} (I : Finset (RawItem h J α β γ)) (w : Wanted h J α)
+    (r : RawItem h J α β γ) (hr : r ∈ domain I w) (j : ℕ) (hj : j < J) :
+    (word r)[j]'(by rw [word,partitionWord_length]; exact hj) ∈ children w.2.2 j :=
+  (mem_children_iff _ _ _).mpr (RawReporting.word_children I w r hr j hj)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem frontier_length_le_domain {h J k : ℕ} (I : Finset (RawItem h J α β γ))
+    (w : Wanted h J α) (hk : k ≤ J) : (frontier I w k).length ≤ (domain I w).card := by
+  have h := Reporting.frontier_length_le_mass (domain I w) word (fun _ => 1)
+    (children w.2.2) (prefixQuery I w) J k
+    (fun r _ => partitionWord_length r.2.1) (word_children I w)
+    (fun _ _ _ => rfl) (children_nodup w.2.2) hk
+  simpa only [frontier,Finset.sum_const,smul_eq_mul,mul_one] using h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Indices
+
+end ThreeSum.ReportingHostFrontier
+
+end
+
+section
+
+
+/-!
+# Exact terminal-prefix order, summed cost, and original completeness
+
+The prefix batch consumes the actual retained frontier order. Every local
+scan keeps its own selected-pair charge; their sum is bounded by the exact
+original raw mass at the partial depth.
+-/
+
+namespace ThreeSum.ReportingHostTerminalFrontier
+
+open Finset BlockRows BlockEncoding GlobalEncoding RawIncidences RawReporting RawPrefixCounts
+open StoredReporting LightBlockSourceBuild
+open scoped BigOperators
+
+set_option maxHeartbeats 2400000
+set_option maxRecDepth 10000
+
+
+
+
+theorem prefixAt_eq_get {h i : ℕ} (pres : List (List (Finset (Fin (512*h))))) (hi : i<pres.length) :
+    prefixAt pres i=pres[i] := by simp only [prefixAt,List.getElem?_eq_getElem hi,Option.getD_some]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem hit_all {h J : ℕ} (av : ℤ) (p : ℕ) (shift : ℤ) (left right : ℕ→ℤ) (NL NR : ℕ)
+    (q : GlobalOutput h J) (k : ℕ) (pres : List (List (Finset (Fin (512*h))))) :
+    Hit av p shift left right NL NR q k pres pres.length ↔
+      ∃ pre∈pres, ReportingHostTerminalBatch.Hit av p shift left right NL NR q k pre := by
+  constructor
+  · rintro ⟨i,hi,hh⟩
+    exact ⟨pres[i],List.getElem_mem hi,(prefixAt_eq_get pres hi) ▸ hh⟩
+  · rintro ⟨pre,hpre,hh⟩
+    obtain ⟨i,hi,he⟩ := List.mem_iff_getElem.mp hpre
+    exact ⟨i,hi,by simpa only [prefixAt_eq_get pres hi,he] using hh⟩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+  [DecidableEq α] [DecidableEq β] [DecidableEq γ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.ReportingHostTerminalFrontier
+
+end
+
+section
+
+
+/-! # Exact physical frontier slots and a capacity computed from root raw mass -/
+
+namespace ThreeSum.ReportingHostFrontierLayout
+
+open Light Finset ThreeSum.SubsetAddress
+open BlockRows BlockIndex BlockIndexedQuery BlockForced StoredReporting GlobalEncoding LocalCoverBounds
+open RawIncidences RawReporting LightBlockQuery ReportingHostMasks
+
+set_option maxHeartbeats 1500000
+set_option maxRecDepth 10000
+set_option linter.unusedSectionVars false
+
+
+
+
+
+
+theorem slot_succ (base cap k : ℕ) : slot base cap (k+1)=slot base cap k+4+2*cap := by
+  unfold slot; ring
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+  [DecidableEq α] [DecidableEq β] [DecidableEq γ]
+
+
+
+
+theorem rootMass_eq {h J : ℕ} (I : Finset (RawItem h J α β γ)) (w : Wanted h J α) :
+    rootMass I w=(domain I w).card := by
+  simp [rootMass,prefixQuery,Reporting.mass,Subset.fiberMass]
+
+
+
+
+theorem group_pos (h : ℕ) : 0<groupSize h := Nat.choose_pos (by omega)
+
+
+
+
+theorem mass_lt_capacity {h J : ℕ} (I : Finset (RawItem h J α β γ)) (w : Wanted h J α) :
+    rootMass I w<capacity I w :=
+  (Nat.lt_succ_self _).trans_le (Nat.le_mul_of_pos_right _ (group_pos h))
+
+theorem frontier_capacity {h J k : ℕ} (I : Finset (RawItem h J α β γ)) (w : Wanted h J α)
+    (hk : k≤J) : (ReportingHostFrontier.frontier I w k).length≤capacity I w := by
+  have hh := ReportingHostFrontier.frontier_length_le_domain I w hk
+  rw [← rootMass_eq I w] at hh
+  exact hh.trans (mass_lt_capacity I w).le
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@[simp] theorem leftMasks_length {h J : ℕ} (I : Finset (RawItem h J α β γ)) (w : Wanted h J α) (k : ℕ) :
+    (leftMasks I w k).length=(ReportingHostFrontier.frontier I w k).length := by simp [leftMasks]
+@[simp] theorem rightMasks_length {h J : ℕ} (I : Finset (RawItem h J α β γ)) (w : Wanted h J α) (k : ℕ) :
+    (rightMasks I w k).length=(ReportingHostFrontier.frontier I w k).length := by simp [rightMasks]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.ReportingHostFrontierLayout
+
+end
+
+section
+
+
+/-!
+# Terminal scanning from the actual frontier header
+
+This adapter reads the capacity produced by root initialization and the
+terminal level's retained count, query mask, and two prefix-array pointers.
+It then executes the complete terminal scan in the unchanged frontier order.
+-/
+
+namespace ThreeSum.LightReportingTerminalStored
+
+open Light Finset BlockRows BlockIndex BlockEncoding BlockCoefficientRows
+open GlobalEncoding LocalCoverBounds BlockSourceEncoding LightSourceResidues SourceBuckets
+open BlockIndexedQuery BlockForced StoredReporting LightBlockQuery
+open LightReportingTerminalMasks LightBlockSourceBuild ReportingHostTerminalFrontier
+open RawIncidences RawReporting ReportingHostFrontierLayout
+
+set_option maxHeartbeats 3800000
+set_option maxRecDepth 14000
+set_option linter.unusedSectionVars false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable {lim : Limits}
+variable {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ]
+  [DecidableEq α] [DecidableEq β] [DecidableEq γ]
+
+
+
+
+
+
+theorem program_meets_sourceProof {μ : ℕ→ℤ}
+    {h J k srcL srcR offsetsL offsetsR flatL flatR NL NR occ maps candidates histL histR root
+      masks masksL masksR base bitBase rowOut work d : ℕ}
+    (av : ℤ) (p : ℕ) (shift : ℤ) (left right : ℕ→ℤ)
+    (I : Finset (RawItem h J α β γ)) (w : Wanted h J α) (hk : k≤J)
+    (HF : At μ I w root (capacity I w) k) (hcap : μ (root+3)=(capacity I w : ℤ))
+    (HL : Stored μ (fun i => key p (modulus h J) 0 (left i)) NL (modulus h J) offsetsL flatL)
+    (HR : Stored μ (fun i => key p (modulus h J) shift (right i)) NR (modulus h J) offsetsR flatR)
+    (hw : (lim.space : ℤ)≤lim.word)
+    (hd : d+(ReportingHostFrontier.frontier I w k).length+count h J k+J*(512*h)+11≤lim.depth)
+    (hsrcL : srcL+NL≤masks) (hsrcR : srcR+NR≤masks)
+    (hoffsetsL : offsetsL+modulus h J+1≤masks) (hoffsetsR : offsetsR+modulus h J+1≤masks)
+    (hflatL : flatL+NL≤masks) (hflatR : flatR+NR≤masks)
+    (hocc : occ+J≤masks) (hmaps : maps+2*(512*h)*scheduleSize h≤masks)
+    (hcandidates : candidates+scheduleSize h≤masks)
+    (hleft : histL+LightLocalCoverSchedule.rows h*localPrime h≤masks)
+    (hright : histR+LightLocalCoverSchedule.rows h*localPrime h≤masks)
+    (hslot : slot root (capacity I w) (k+1)≤masks)
+    (hmasks : masks+count h J k≤masksL) (hmasksL : masksL+count h J k≤masksR)
+    (hmasksR : masksR+count h J k≤base)
+    (hstop : LightReportingTerminalPreparation.stop base (J*(512*h)) (count h J k)≤bitBase)
+    (hbits : bitBase+J*(512*h)≤rowOut) (hrowOut : rowOut+2≤work)
+    (hspace : LightReportingTerminal.space work h J≤lim.space)
+    (hword : (LightReportingTerminal.word h J : ℤ)≤lim.word)
+    (hoccRead : ∀ j<J, μ (occ+j)=(occurrenceIndices (outputOccurrences w.2.2) j : ℤ))
+    (hcover : BlockSourceCoverInput.Input μ h maps candidates histL histR)
+    (hreadL : ∀ i<NL, μ (srcL+i)=left i) (hreadR : ∀ j<NR, μ (srcR+j)=right j)
+    (hvaluesL : ∀ i<NL, |left i|≤lim.word) (hvaluesR : ∀ j<NR, |right j|≤lim.word)
+    (ha : |av|≤lim.word) (htarget : ∀ i<NL, |av+left i|≤lim.word)
+    (hcountWord : ((NL*NR : ℕ) : ℤ)≤lim.word) :
+    Meets lim program 40 d
+      [av,srcL,srcR,offsetsL,flatL,offsetsR,flatR,NL,NR,modulus h J,J,512*h,h,localPrime h,localBucketCap h,
+        occ,maps,candidates,histL,histR,k,root,masks,masksL,masksR,base,bitBase,rowOut,work]
+      μ (time p shift left right NL NR I w k)
+      (fun r ν => (r=0 ∨ r=1) ∧
+        (r=1 ↔ ∃ pre∈ReportingHostFrontier.frontier I w k,
+          ReportingHostTerminalBatch.Hit av p shift left right NL NR w.2.2 k pre) ∧ Kept μ ν masks) := by
+  let cap := capacity I w
+  let pres := ReportingHostFrontier.frontier I w k
+  have hscanDepth : d+1+pres.length+count h J k+J*(512*h)+10≤lim.depth := by
+    dsimp only [pres]
+    omega
+  have hn : pres.length≤cap := frontier_capacity I w hk
+  have hsOther := (le_max_right _ _).trans hspace
+  have hsWork : work≤lim.space := by have hh := (le_max_right _ _).trans hsOther; omega
+  have hstop' : base+2*(2*(J*(512*h))+4*count h J k+2)≤bitBase := hstop
+  have hmaskSpace : masks≤lim.space := by omega
+  have hslot' : slot root cap k+4+2*cap≤masks := by simpa only [slot_succ] using hslot
+  have hroot : root≤slot root cap k := Nat.le_add_right _ _
+  have hleftEnd : ReportingHostFrontierLayout.left root cap k+pres.length≤masks := by
+    unfold ReportingHostFrontierLayout.left
+    omega
+  have hrightEnd : ReportingHostFrontierLayout.right root cap k+pres.length≤masks := by
+    unfold ReportingHostFrontierLayout.right ReportingHostFrontierLayout.left
+    omega
+  have hreadInL (i : ℕ) (hi : i<pres.length) :
+      μ (ReportingHostFrontierLayout.left root cap k+i)=
+        (SubsetAddress.subsetMask (leftPrefix k (prefixRows (J := J) (prefixAt pres i))) : ℤ) := by
+    have hh := HF.left.getElem (i := i) (by simpa only [leftMasks_length] using hi)
+    simpa only [leftMasks,List.getElem_map,prefixAt_eq_get pres hi] using hh
+  have hreadInR (i : ℕ) (hi : i<pres.length) :
+      μ (ReportingHostFrontierLayout.right root cap k+i)=
+        (SubsetAddress.subsetMask (rightPrefix k (outputRows w.2.2) (prefixRows (J := J) (prefixAt pres i))) : ℤ) := by
+    have hh := HF.right.getElem (i := i) (by simpa only [rightMasks_length] using hi)
+    simpa only [rightMasks,List.getElem_map,prefixAt_eq_get pres hi] using hh
+  have hQword : |(SubsetAddress.subsetMask (querySet k (outputRows w.2.2)) : ℤ)|≤lim.word := by
+    rw [Int.abs_natCast]
+    have hpWord : ((2^(J*(512*h)+1) : ℕ) : ℤ)≤lim.word :=
+      (Int.ofNat_le.mpr (Nat.le_add_left _ _)).trans hword
+    exact (Int.ofNat_le.mpr ((SubsetAddress.subsetMask_isMask _).1.le.trans
+      (Nat.pow_le_pow_right (by decide) (by omega)))).trans hpWord
+  have hQbounds := abs_le.mp hQword
+  have hslotZ : (root : ℤ)+(k : ℤ)*(4+2*(cap : ℤ))=(slot root cap k : ℤ) := by
+    simp only [slot,Nat.cast_add,Nat.cast_mul,Nat.cast_ofNat]
+  have hcount : μ (slot root cap k)=(pres.length : ℤ) := HF.count
+  have hquery : μ (slot root cap k+1)=
+      (SubsetAddress.subsetMask (querySet k (outputRows w.2.2)) : ℤ) := HF.query
+  have hcapZ : μ (((root : ℤ)+3).toNat)=(cap : ℤ) := by
+    rw [show ((root : ℤ)+3).toNat=root+3 by omega]
+    exact hcap
+  apply Meets.of_body (p := 40) (by rfl : program[40]?=some (body 39))
+  unfold body time
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine Light.Ends.setToThen (cap : ℕ) ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, hcap,
+                hcapZ]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [hcap, hcapZ] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, hcap, hcapZ] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine Light.Ends.setToThen (slot root cap k : ℕ) ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                hslotZ]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [hslotZ] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, hslotZ] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine Light.Ends.setToThen (pres.length : ℕ) ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                hcount]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [hcount] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, hcount] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine
+        Light.Ends.setToThen
+          (SubsetAddress.subsetMask (querySet k (outputRows w.2.2)) : ℕ) ?_ ?_
+          ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                hquery]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [hquery] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, hquery] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine
+        Light.Ends.setToThen (ReportingHostFrontierLayout.left root cap k : ℕ) ?_
+          ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                ReportingHostFrontierLayout.left]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [ReportingHostFrontierLayout.left] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul,
+                ReportingHostFrontierLayout.left] <;>
+              omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine
+        Light.Ends.setToThen (ReportingHostFrontierLayout.right root cap k : ℕ) ?_
+          ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                ReportingHostFrontierLayout.left,
+                ReportingHostFrontierLayout.right]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [ReportingHostFrontierLayout.left,
+                ReportingHostFrontierLayout.right] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul,
+                ReportingHostFrontierLayout.left,
+                ReportingHostFrontierLayout.right] <;>
+              omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  have hrun := (LightReportingTerminalFrontier.program_meets (μ := μ) (d := d+1)
+    (srcL := srcL) (srcR := srcR) (occ := occ) (maps := maps) (candidates := candidates)
+    (histL := histL) (histR := histR) (inL := ReportingHostFrontierLayout.left root cap k)
+    (inR := ReportingHostFrontierLayout.right root cap k) (masks := masks) (masksL := masksL) (masksR := masksR)
+    (base := base) (bitBase := bitBase) (rowOut := rowOut) (work := work)
+    av p shift left right w.2.2 pres hk le_rfl HL HR hw hscanDepth
+    hsrcL hsrcR hoffsetsL hoffsetsR hflatL hflatR hocc hmaps hcandidates hleft hright hleftEnd hrightEnd
+    hmasks hmasksL hmasksR hstop hbits hrowOut hspace hword hoccRead hcover hreadL hreadR hreadInL hreadInR
+    hvaluesL hvaluesR ha htarget hcountWord).append [body 39]
+  change Meets lim program 39 (d+1) _ μ
+    (ReportingHostTerminalFrontier.time p shift left right NL NR w.2.2 k
+      (ReportingHostFrontier.frontier I w k) (ReportingHostFrontier.frontier I w k).length) _ at hrun
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (first
+      | refine Light.Ends.callToThen (hrun _ (by omega)) ?_ ?_ ?_ ?_
+      | refine Light.Ends.callToThen hrun ?_ ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 => omega);
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)));
+    (on_goal -1 =>
+        ((rintro found ν ⟨hbool, hhit, hkeep⟩);
+          (try with_unfolding_none refine Light.Ends.skip ?_)))
+  exact ⟨hbool,hhit.trans (hit_all av p shift left right NL NR w.2.2 k pres),hkeep⟩
+
+end ThreeSum.LightReportingTerminalStored
+
+end
+
+universe u_1 u_2 u_3
+
+theorem solution : ∀ {lim : Light.Limits} {α : Type u_1} {β : Type u_2} {γ : Type u_3} [Fintype.{u_1} α] [Fintype.{u_2} β]
+  [Fintype.{u_3} γ] [inst : DecidableEq.{u_1 + 1} α] [DecidableEq.{u_2 + 1} β] [DecidableEq.{u_3 + 1} γ] {μ : Nat → Int}
+  {h J k srcL srcR offsetsL offsetsR flatL flatR NL NR occ maps candidates histL histR root masks masksL masksR base
+    bitBase rowOut work d : Nat}
+  (av : Int) (p : Nat) (shift : Int) (left right : Nat → Int)
+  (I : Finset.{max (max u_3 u_2) u_1} (ThreeSum.RawIncidences.RawItem.{u_1, u_2, u_3} h J α β γ))
+  (w : ThreeSum.RawReporting.Wanted.{u_1} h J α) (hk : @LE.le.{0} Nat instLENat k J)
+  (HF :
+    @ThreeSum.ReportingHostFrontierLayout.At.{u_1, u_2, u_3} α β γ inst h J μ I w root
+      (@ThreeSum.ReportingHostFrontierLayout.capacity.{u_1, u_2, u_3} α β γ inst h J I w) k)
+  (hcap :
+    @Eq.{1} Int
+      (μ
+        (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) root
+          (@OfNat.ofNat.{0} Nat (nat_lit 3) (instOfNatNat (nat_lit 3)))))
+      (@Nat.cast.{0} Int instNatCastInt
+        (@ThreeSum.ReportingHostFrontierLayout.capacity.{u_1, u_2, u_3} α β γ inst h J I w)))
+  (HL :
+    ThreeSum.SourceBuckets.Stored μ
+      (fun (i : Nat) =>
+        ThreeSum.LightSourceResidues.key p (ThreeSum.BlockSourceEncoding.modulus h J)
+          (@OfNat.ofNat.{0} Int (nat_lit 0) (@instOfNat (nat_lit 0))) (left i))
+      NL (ThreeSum.BlockSourceEncoding.modulus h J) offsetsL flatL)
+  (HR :
+    ThreeSum.SourceBuckets.Stored μ
+      (fun (i : Nat) => ThreeSum.LightSourceResidues.key p (ThreeSum.BlockSourceEncoding.modulus h J) shift (right i))
+      NR (ThreeSum.BlockSourceEncoding.modulus h J) offsetsR flatR)
+  (hw : @LE.le.{0} Int Int.instLEInt (@Nat.cast.{0} Int instNatCastInt lim.space) lim.word)
+  (hd :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat)
+        (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat)
+          (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat)
+            (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) d
+              (@List.length.{0}
+                (List.{0}
+                  (Finset.{0}
+                    (Fin
+                      (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+                        (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h))))
+                (@ThreeSum.ReportingHostFrontier.frontier.{u_1, u_2, u_3} α β γ inst h J I w k)))
+            (ThreeSum.LightReportingTerminalMasks.count h J k))
+          (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) J
+            (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+              (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h)))
+        (@OfNat.ofNat.{0} Nat (nat_lit 11) (instOfNatNat (nat_lit 11))))
+      lim.depth)
+  (hsrcL : @LE.le.{0} Nat instLENat (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) srcL NL) masks)
+  (hsrcR : @LE.le.{0} Nat instLENat (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) srcR NR) masks)
+  (hoffsetsL :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat)
+        (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) offsetsL
+          (ThreeSum.BlockSourceEncoding.modulus h J))
+        (@OfNat.ofNat.{0} Nat (nat_lit 1) (instOfNatNat (nat_lit 1))))
+      masks)
+  (hoffsetsR :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat)
+        (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) offsetsR
+          (ThreeSum.BlockSourceEncoding.modulus h J))
+        (@OfNat.ofNat.{0} Nat (nat_lit 1) (instOfNatNat (nat_lit 1))))
+      masks)
+  (hflatL : @LE.le.{0} Nat instLENat (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) flatL NL) masks)
+  (hflatR : @LE.le.{0} Nat instLENat (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) flatR NR) masks)
+  (hocc : @LE.le.{0} Nat instLENat (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) occ J) masks)
+  (hmaps :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) maps
+        (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+          (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+            (@OfNat.ofNat.{0} Nat (nat_lit 2) (instOfNatNat (nat_lit 2)))
+            (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+              (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h))
+          (ThreeSum.GlobalEncoding.scheduleSize h)))
+      masks)
+  (hcandidates :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) candidates
+        (ThreeSum.GlobalEncoding.scheduleSize h))
+      masks)
+  (hleft :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) histL
+        (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) (ThreeSum.LightLocalCoverSchedule.rows h)
+          (ThreeSum.LocalCoverBounds.localPrime h)))
+      masks)
+  (hright :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) histR
+        (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) (ThreeSum.LightLocalCoverSchedule.rows h)
+          (ThreeSum.LocalCoverBounds.localPrime h)))
+      masks)
+  (hslot :
+    @LE.le.{0} Nat instLENat
+      (ThreeSum.ReportingHostFrontierLayout.slot root
+        (@ThreeSum.ReportingHostFrontierLayout.capacity.{u_1, u_2, u_3} α β γ inst h J I w)
+        (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) k
+          (@OfNat.ofNat.{0} Nat (nat_lit 1) (instOfNatNat (nat_lit 1)))))
+      masks)
+  (hmasks :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) masks
+        (ThreeSum.LightReportingTerminalMasks.count h J k))
+      masksL)
+  (hmasksL :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) masksL
+        (ThreeSum.LightReportingTerminalMasks.count h J k))
+      masksR)
+  (hmasksR :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) masksR
+        (ThreeSum.LightReportingTerminalMasks.count h J k))
+      base)
+  (hstop :
+    @LE.le.{0} Nat instLENat
+      (ThreeSum.LightReportingTerminalPreparation.stop base
+        (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) J
+          (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+            (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h))
+        (ThreeSum.LightReportingTerminalMasks.count h J k))
+      bitBase)
+  (hbits :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) bitBase
+        (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) J
+          (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+            (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h)))
+      rowOut)
+  (hrowOut :
+    @LE.le.{0} Nat instLENat
+      (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) rowOut
+        (@OfNat.ofNat.{0} Nat (nat_lit 2) (instOfNatNat (nat_lit 2))))
+      work)
+  (hspace : @LE.le.{0} Nat instLENat (ThreeSum.LightReportingTerminal.space work h J) lim.space)
+  (hword :
+    @LE.le.{0} Int Int.instLEInt (@Nat.cast.{0} Int instNatCastInt (ThreeSum.LightReportingTerminal.word h J)) lim.word)
+  (hoccRead :
+    ∀ (j : Nat),
+      @LT.lt.{0} Nat instLTNat j J →
+        @Eq.{1} Int (μ (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) occ j))
+          (@Nat.cast.{0} Int instNatCastInt
+            (@ThreeSum.BlockCoefficientRows.occurrenceIndices h J
+              (@ThreeSum.BlockEncoding.outputOccurrences h J
+                (@Prod.snd.{0, 0} (Fin (@OfNat.ofNat.{0} Nat (nat_lit 3) (instOfNatNat (nat_lit 3))))
+                  (ThreeSum.GlobalEncoding.GlobalOutput h J)
+                  (@Prod.snd.{u_1, 0} α
+                    (Prod.{0, 0} (Fin (@OfNat.ofNat.{0} Nat (nat_lit 3) (instOfNatNat (nat_lit 3))))
+                      (ThreeSum.GlobalEncoding.GlobalOutput h J))
+                    w)))
+              j)))
+  (hcover : ThreeSum.BlockSourceCoverInput.Input μ h maps candidates histL histR)
+  (hreadL :
+    ∀ (i : Nat),
+      @LT.lt.{0} Nat instLTNat i NL →
+        @Eq.{1} Int (μ (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) srcL i)) (left i))
+  (hreadR :
+    ∀ (j : Nat),
+      @LT.lt.{0} Nat instLTNat j NR →
+        @Eq.{1} Int (μ (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) srcR j)) (right j))
+  (hvaluesL :
+    ∀ (i : Nat),
+      @LT.lt.{0} Nat instLTNat i NL →
+        @LE.le.{0} Int Int.instLEInt (@abs.{0} Int instLatticeInt Int.instAddGroup (left i)) lim.word)
+  (hvaluesR :
+    ∀ (j : Nat),
+      @LT.lt.{0} Nat instLTNat j NR →
+        @LE.le.{0} Int Int.instLEInt (@abs.{0} Int instLatticeInt Int.instAddGroup (right j)) lim.word)
+  (ha : @LE.le.{0} Int Int.instLEInt (@abs.{0} Int instLatticeInt Int.instAddGroup av) lim.word)
+  (htarget :
+    ∀ (i : Nat),
+      @LT.lt.{0} Nat instLTNat i NL →
+        @LE.le.{0} Int Int.instLEInt
+          (@abs.{0} Int instLatticeInt Int.instAddGroup
+            (@HAdd.hAdd.{0, 0, 0} Int Int Int (@instHAdd.{0} Int Int.instAdd) av (left i)))
+          lim.word)
+  (hcountWord :
+    @LE.le.{0} Int Int.instLEInt
+      (@Nat.cast.{0} Int instNatCastInt (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat) NL NR))
+      lim.word),
+  Light.Meets lim ThreeSum.LightReportingTerminalStored.program
+    (@OfNat.ofNat.{0} Nat (nat_lit 40) (instOfNatNat (nat_lit 40))) d
+    (@List.cons.{0} Int av
+      (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt srcL)
+        (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt srcR)
+          (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt offsetsL)
+            (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt flatL)
+              (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt offsetsR)
+                (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt flatR)
+                  (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt NL)
+                    (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt NR)
+                      (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt (ThreeSum.BlockSourceEncoding.modulus h J))
+                        (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt J)
+                          (@List.cons.{0} Int
+                            (@HMul.hMul.{0, 0, 0} Int Int Int (@instHMul.{0} Int Int.instMul)
+                              (@OfNat.ofNat.{0} Int (nat_lit 512) (@instOfNat (nat_lit 512)))
+                              (@Nat.cast.{0} Int instNatCastInt h))
+                            (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt h)
+                              (@List.cons.{0} Int
+                                (@Nat.cast.{0} Int instNatCastInt (ThreeSum.LocalCoverBounds.localPrime h))
+                                (@List.cons.{0} Int
+                                  (@Nat.cast.{0} Int instNatCastInt (ThreeSum.LocalCoverBounds.localBucketCap h))
+                                  (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt occ)
+                                    (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt maps)
+                                      (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt candidates)
+                                        (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt histL)
+                                          (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt histR)
+                                            (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt k)
+                                              (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt root)
+                                                (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt masks)
+                                                  (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt masksL)
+                                                    (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt masksR)
+                                                      (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt base)
+                                                        (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt bitBase)
+                                                          (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt rowOut)
+                                                            (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt work)
+                                                              (@List.nil.{0} Int))))))))))))))))))))))))))))))
+    μ (@ThreeSum.LightReportingTerminalStored.time.{u_1, u_2, u_3} α β γ inst h J p shift left right NL NR I w k)
+    fun (r : Int) (ν : Nat → Int) =>
+    And
+      (Or (@Eq.{1} Int r (@OfNat.ofNat.{0} Int (nat_lit 0) (@instOfNat (nat_lit 0))))
+        (@Eq.{1} Int r (@OfNat.ofNat.{0} Int (nat_lit 1) (@instOfNat (nat_lit 1)))))
+      (And
+        (Iff (@Eq.{1} Int r (@OfNat.ofNat.{0} Int (nat_lit 1) (@instOfNat (nat_lit 1))))
+          (∃ (pre :
+            List.{0}
+              (Finset.{0}
+                (Fin
+                  (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+                    (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h)))),
+            And
+              (@Membership.mem.{0, 0}
+                (List.{0}
+                  (Finset.{0}
+                    (Fin
+                      (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+                        (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h))))
+                (List.{0}
+                  (List.{0}
+                    (Finset.{0}
+                      (Fin
+                        (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+                          (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h)))))
+                (@List.instMembership.{0}
+                  (List.{0}
+                    (Finset.{0}
+                      (Fin
+                        (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+                          (@OfNat.ofNat.{0} Nat (nat_lit 512) (instOfNatNat (nat_lit 512))) h)))))
+                (@ThreeSum.ReportingHostFrontier.frontier.{u_1, u_2, u_3} α β γ inst h J I w k) pre)
+              (@ThreeSum.ReportingHostTerminalBatch.Hit h J av p shift left right NL NR
+                (@Prod.snd.{0, 0} (Fin (@OfNat.ofNat.{0} Nat (nat_lit 3) (instOfNatNat (nat_lit 3))))
+                  (ThreeSum.GlobalEncoding.GlobalOutput h J)
+                  (@Prod.snd.{u_1, 0} α
+                    (Prod.{0, 0} (Fin (@OfNat.ofNat.{0} Nat (nat_lit 3) (instOfNatNat (nat_lit 3))))
+                      (ThreeSum.GlobalEncoding.GlobalOutput h J))
+                    w))
+                k pre)))
+        (Light.Kept μ ν masks)) := by
+  exact @ThreeSum.LightReportingTerminalStored.program_meets_sourceProof
+
+#print axioms solution

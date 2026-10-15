@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_window_lower_ratio_of_scaled_power
 -- name    : OAI.PiExponent.window_lower_ratio_of_scaled_power
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:26:03.652827+00:00
 -- url     : https://prove2.me/theorems/2151fabc-a4e5-493e-8d75-4ce85b45633b

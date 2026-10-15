@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_HierarchyScales_hierarchyEnvelope_log_rate
 -- name    : ThreeSum.HierarchyScales.hierarchyEnvelope_log_rate
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:09.568216+00:00
 -- url     : https://prove2.me/theorems/2044a268-4c74-458c-bca9-e72f7991b384

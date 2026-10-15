@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Local_price_fixed_point
 -- name    : Multihoming.Local.price_fixed_point
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:23.039986+00:00
 -- url     : https://prove2.me/theorems/c3c4cda9-a224-4bf7-8a90-f1dbf0dbfc5e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_strict_scale_integer_row_weights
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.strict_scale_integer_row_weights
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T22:14:07.637678+00:00
 -- url     : https://prove2.me/theorems/55787f63-63b8-4e52-8c44-68851e6d6c49

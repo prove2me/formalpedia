@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Light_MergeSort_clog_split
 -- name    : Light.MergeSort.clog_split
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:36.451779+00:00
 -- url     : https://prove2.me/theorems/bb12248d-9647-4a93-8f7d-ecc7a3ade999

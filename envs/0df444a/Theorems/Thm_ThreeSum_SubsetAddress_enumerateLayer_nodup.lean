@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_SubsetAddress_enumerateLayer_nodup
 -- name    : ThreeSum.SubsetAddress.enumerateLayer_nodup
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:24.976219+00:00
 -- url     : https://prove2.me/theorems/b8a29053-fea2-4f3e-84b4-9ba632287f44

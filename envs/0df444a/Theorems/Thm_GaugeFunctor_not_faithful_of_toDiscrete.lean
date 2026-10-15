@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GaugeFunctor_not_faithful_of_toDiscrete
 -- name    : GaugeFunctor.not_faithful_of_toDiscrete
--- status  : Open
+-- status  : Proved
 -- author  : @Alien60
 -- created : 2026-10-14T00:40:48.573932+00:00
 -- url     : https://prove2.me/theorems/27bd3c64-0efc-4854-aac9-af2d48636a61

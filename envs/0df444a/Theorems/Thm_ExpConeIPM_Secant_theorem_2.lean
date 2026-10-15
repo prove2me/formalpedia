@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExpConeIPM_Secant_theorem_2
 -- name    : ExpConeIPM.Secant.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T17:06:31.213235+00:00
 -- url     : https://prove2.me/theorems/1a305245-a94f-41cb-a085-06f7b476dbe9

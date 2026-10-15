@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_HashFamily_three_relation
 -- name    : ThreeSum.HashFamily.three_relation
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:15.821522+00:00
 -- url     : https://prove2.me/theorems/88594fcb-8eed-40f3-87e8-f796529eda74

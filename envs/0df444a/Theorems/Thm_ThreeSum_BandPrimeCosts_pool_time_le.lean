@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BandPrimeCosts_pool_time_le
 -- name    : ThreeSum.BandPrimeCosts.pool_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:33:04.968262+00:00
 -- url     : https://prove2.me/theorems/d4095859-5c98-4b5f-bcf1-d1af561534e4

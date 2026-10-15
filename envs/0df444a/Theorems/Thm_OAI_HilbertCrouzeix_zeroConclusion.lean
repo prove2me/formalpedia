@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HilbertCrouzeix_zeroConclusion
 -- name    : OAI.HilbertCrouzeix.zeroConclusion
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:45.402985+00:00
 -- url     : https://prove2.me/theorems/4b1c2f46-8ffe-4207-8771-7e78be73c764

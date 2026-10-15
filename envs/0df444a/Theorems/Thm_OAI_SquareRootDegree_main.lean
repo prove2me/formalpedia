@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_SquareRootDegree_main
 -- name    : OAI.SquareRootDegree.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:25.816251+00:00
 -- url     : https://prove2.me/theorems/def3ded1-5e48-43e5-916a-3ea8409ae4d7

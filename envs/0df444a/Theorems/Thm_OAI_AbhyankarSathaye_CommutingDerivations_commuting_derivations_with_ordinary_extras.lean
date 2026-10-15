@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_AbhyankarSathaye_CommutingDerivations_commuting_derivations_with_ordinary_extras
 -- name    : OAI.AbhyankarSathaye.CommutingDerivations.commuting_derivations_with_ordinary_extras
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:20.254238+00:00
 -- url     : https://prove2.me/theorems/d995dd33-a729-456b-b6a9-d45e738bf592

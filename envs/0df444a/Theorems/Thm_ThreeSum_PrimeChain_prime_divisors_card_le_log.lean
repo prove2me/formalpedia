@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_PrimeChain_prime_divisors_card_le_log
 -- name    : ThreeSum.PrimeChain.prime_divisors_card_le_log
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:36.769559+00:00
 -- url     : https://prove2.me/theorems/59767948-68ef-4e7f-adf8-b4809dd7f854

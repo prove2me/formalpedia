@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Scales_natSqrt_ratio_tendsto_zero
 -- name    : ThreeSum.Scales.natSqrt_ratio_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:46.50298+00:00
 -- url     : https://prove2.me/theorems/06d273a5-d1c6-4e7d-a984-2d610b341c6f

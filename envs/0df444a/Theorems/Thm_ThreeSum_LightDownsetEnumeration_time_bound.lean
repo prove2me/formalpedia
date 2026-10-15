@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightDownsetEnumeration_time_bound
 -- name    : ThreeSum.LightDownsetEnumeration.time_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:51.565549+00:00
 -- url     : https://prove2.me/theorems/4cd640da-1ffc-44e2-90a1-fd10ed0f3e4b

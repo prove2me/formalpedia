@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BandRawA_firstRows_getD
 -- name    : ThreeSum.BandRawA.firstRows_getD
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:35:33.972317+00:00
 -- url     : https://prove2.me/theorems/fc0b9621-b480-4e29-9b4c-f9997bc4ce3d

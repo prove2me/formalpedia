@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightLocalCoverSchedule_target_injective
 -- name    : ThreeSum.LightLocalCoverSchedule.target_injective
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:21.569694+00:00
 -- url     : https://prove2.me/theorems/e16257c9-8c58-4c0f-ab85-64c75a885912

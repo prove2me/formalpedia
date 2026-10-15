@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_CyclicFold_cyclic_correlation
 -- name    : ThreeSum.CyclicFold.cyclic_correlation
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:39:21.142517+00:00
 -- url     : https://prove2.me/theorems/ab37ceb7-ca35-4499-8849-5b8a627b2d98

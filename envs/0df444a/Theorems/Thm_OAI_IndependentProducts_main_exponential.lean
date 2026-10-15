@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IndependentProducts_main_exponential
 -- name    : OAI.IndependentProducts.main_exponential
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:45.950022+00:00
 -- url     : https://prove2.me/theorems/4efc49e4-1bed-4e57-a6db-1ff3ea4c9c6e

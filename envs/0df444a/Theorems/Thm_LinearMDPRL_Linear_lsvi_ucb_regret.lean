@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LinearMDPRL_Linear_lsvi_ucb_regret
 -- name    : LinearMDPRL.Linear.lsvi_ucb_regret
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T01:45:08.801412+00:00
 -- url     : https://prove2.me/theorems/3406357c-5b6d-4fa5-b2a5-aeaaf39d00be

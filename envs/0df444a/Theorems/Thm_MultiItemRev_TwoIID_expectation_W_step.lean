@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MultiItemRev_TwoIID_expectation_W_step
 -- name    : MultiItemRev.TwoIID.expectation_W_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:29:33.12684+00:00
 -- url     : https://prove2.me/theorems/beda0c3f-e4b3-40d5-bd49-c0cd880e5ba8

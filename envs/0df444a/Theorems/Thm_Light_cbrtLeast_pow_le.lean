@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Light_cbrtLeast_pow_le
 -- name    : Light.cbrtLeast_pow_le
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:34:39.34585+00:00
 -- url     : https://prove2.me/theorems/548181dd-770f-404c-af5b-ea4f98871788

@@ -49835,7 +49835,7 @@
 {"parent": "CappeKLUCB.Empirical.kinf_pos_finite", "child": "CappeKLUCB_Empirical_Setting", "via": ["statement"]}
 {"parent": "CappeKLUCB.Empirical.local_times_8", "child": "CappeKLUCB_Empirical_Setting", "via": ["solution", "statement"]}
 {"parent": "CappeKLUCB.Empirical.proposition_1", "child": "CappeKLUCB_Empirical_Setting", "via": ["statement"]}
-{"parent": "CappeKLUCB.Empirical.theorem_2", "child": "CappeKLUCB_Empirical_Setting", "via": ["statement"]}
+{"parent": "CappeKLUCB.Empirical.theorem_2", "child": "CappeKLUCB_Empirical_Setting", "via": ["solution", "statement"]}
 {"parent": "CappeKLUCB.ExpFam.decomposition_5", "child": "CappeKLUCB_ExpFam_Setting", "via": ["solution", "statement"]}
 {"parent": "CappeKLUCB.ExpFam.deviation_13", "child": "CappeKLUCB_ExpFam_Setting", "via": ["statement"]}
 {"parent": "CappeKLUCB.ExpFam.expected_draws_split", "child": "CappeKLUCB_ExpFam_Setting", "via": ["solution", "statement"]}
@@ -77535,7 +77535,7 @@
 {"parent": "CohenLeeSongLP.StochCentralPath.classical_step_probability_bound", "child": "CohenLeeSongLP.StochCentralPath.success_probability", "via": ["solution"]}
 {"parent": "CohenLeeSongLP.StochCentralPath.classical_step_probability_bound", "child": "CohenLeeSongLP_StochCentralPath_Main", "via": ["solution", "statement"]}
 {"parent": "CohenLeeSongLP.StochCentralPath.mu_new_bounds", "child": "CohenLeeSongLP_StochCentralPath_StochasticStep", "via": ["statement"]}
-{"parent": "CohenLeeSongLP.StochCentralPath.potential_basic_properties", "child": "CohenLeeSongLP_StochCentralPath_Basic", "via": ["statement"]}
+{"parent": "CohenLeeSongLP.StochCentralPath.potential_basic_properties", "child": "CohenLeeSongLP_StochCentralPath_Basic", "via": ["solution", "statement"]}
 {"parent": "CohenLeeSongLP.StochCentralPath.potential_expected_decrease", "child": "CohenLeeSongLP.StochCentralPath.mu_new_bounds", "via": ["solution"]}
 {"parent": "CohenLeeSongLP.StochCentralPath.potential_expected_decrease", "child": "CohenLeeSongLP.StochCentralPath.potential_basic_properties", "via": ["solution"]}
 {"parent": "CohenLeeSongLP.StochCentralPath.potential_expected_decrease", "child": "CohenLeeSongLP.StochCentralPath.success_probability", "via": ["solution"]}
@@ -89751,8 +89751,8 @@
 {"parent": "CycleLengthsExp.BetaGraph.theorem_3", "child": "CycleLengthsExp_BetaGraph_Setting", "via": ["statement"]}
 {"parent": "CycleLengthsExp.BetaGraph.theorem_4_1", "child": "CycleLengthsExp_BetaGraph_Setting", "via": ["statement"]}
 {"parent": "CycleLengthsExp.ManyLengths.k_bound", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["solution", "statement"]}
-{"parent": "CycleLengthsExp.ManyLengths.lemma_2_5", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["statement"]}
-{"parent": "CycleLengthsExp.ManyLengths.path_after_deletion", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["statement"]}
+{"parent": "CycleLengthsExp.ManyLengths.lemma_2_5", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["solution", "statement"]}
+{"parent": "CycleLengthsExp.ManyLengths.path_after_deletion", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["solution", "statement"]}
 {"parent": "CycleLengthsExp.ManyLengths.theorem_2", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["statement"]}
 {"parent": "CycleLengthsExp.ManyLengths.x0_large", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["statement"]}
 {"parent": "CycleLengthsExp.WellSpread.ball_growth", "child": "CycleLengthsExp_WellSpread_Setting", "via": ["statement"]}
@@ -90367,7 +90367,7 @@
 {"parent": "DavidonVM.Termination.eigen_one_persists", "child": "DavidonVM_Termination_Method", "via": ["statement"]}
 {"parent": "DavidonVM.Termination.grad_quad", "child": "DavidonVM_Termination_Method", "via": ["statement"]}
 {"parent": "DavidonVM.Termination.hereditary", "child": "DavidonVM_Termination_Method", "via": ["statement"]}
-{"parent": "DavidonVM.Termination.quadratic_termination", "child": "DavidonVM_Termination_Method", "via": ["statement"]}
+{"parent": "DavidonVM.Termination.quadratic_termination", "child": "DavidonVM_Termination_Method", "via": ["solution", "statement"]}
 {"parent": "DavidonVM.Termination.secant_of_delta_zero", "child": "DavidonVM_Termination_Method", "via": ["statement"]}
 {"parent": "DavidonVM_Termination_Delta", "child": "DavidonVM_Termination_Method", "via": ["statement"]}
 {"parent": "DeBruijnNewman.Dobner.gammaFactor_local_linearization", "child": "DeBruijnNewman_Dobner_Saddle", "via": ["solution", "statement"]}
@@ -99554,7 +99554,7 @@
 {"parent": "ExpConeIPM.Secant.expansion_27", "child": "ExpConeIPM_Secant_Recursion", "via": ["statement"]}
 {"parent": "ExpConeIPM.Secant.psi_posDef", "child": "ExpConeIPM_Secant_Recursion", "via": ["statement"]}
 {"parent": "ExpConeIPM.Secant.sparsity", "child": "ExpConeIPM_Secant_Recursion", "via": ["statement"]}
-{"parent": "ExpConeIPM.Secant.theorem_2", "child": "ExpConeIPM_Secant_Recursion", "via": ["statement"]}
+{"parent": "ExpConeIPM.Secant.theorem_2", "child": "ExpConeIPM_Secant_Recursion", "via": ["solution", "statement"]}
 {"parent": "ExpConeIPM_Corrector_HomogeneousModel", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["statement"]}
 {"parent": "ExpConeIPM_Corrector_SearchDirections", "child": "ExpConeIPM_Corrector_HomogeneousModel", "via": ["statement"]}
 {"parent": "ExpConeIPM_Corrector_SearchDirections", "child": "SelfScaledIPM_ShortStep_Setting", "via": ["statement"]}

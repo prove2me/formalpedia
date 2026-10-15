@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BlockSourceCoverInput_Input_of_kept
 -- name    : ThreeSum.BlockSourceCoverInput.Input.of_kept
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:37:46.755998+00:00
 -- url     : https://prove2.me/theorems/c0d6ac3e-b95e-4f58-aace-71242e8ae015

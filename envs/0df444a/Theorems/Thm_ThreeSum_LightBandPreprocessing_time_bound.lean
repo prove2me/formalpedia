@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightBandPreprocessing_time_bound
 -- name    : ThreeSum.LightBandPreprocessing.time_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:46.985305+00:00
 -- url     : https://prove2.me/theorems/96864334-55d0-41d5-899c-a271a56b9315

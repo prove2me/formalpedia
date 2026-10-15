@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightBruteThreeSum_poly_need
 -- name    : ThreeSum.LightBruteThreeSum.poly_need
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:37.789599+00:00
 -- url     : https://prove2.me/theorems/2815632b-30e3-42b9-8ffa-0772f10a4969

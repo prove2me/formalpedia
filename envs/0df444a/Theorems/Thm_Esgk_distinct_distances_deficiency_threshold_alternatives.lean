@@ -21,9 +21,9 @@
 --   4. $n^2<128T s^7$;
 --   5. $n\le32C s^5$.
 --
---   The same $T,C,N$ work for every qualifying configuration. These are the exact circle, nonabsolute, small-deficiency, threshold-failure, and threshold-success branches of the N15 distance--Newton bootstrap.
+--   The same $T,C,N$ work for every qualifying configuration. These are the exact circle, nonabsolute, small-deficiency, threshold-failure, and threshold-success branches of the distance--Newton bootstrap.
 -- source:
---   Certified ESGK n^(1/5) pen-and-paper proof, Sections 2 and 15--16, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/results/esgk-n15-authoritative-consolidated-proof-audit-corrected-v2-2026-08-25.md; independent 43-obligation audit, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/audits/esgk-n15-full-proof-skeptic-2026-09-13.md
+--   n^(1/5) distance--Newton argument, Sections 2 and 15--16, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/results/esgk-n15-authoritative-consolidated-proof-audit-corrected-v2-2026-08-25.md; internal AI-assisted 43-obligation audit, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/audits/esgk-n15-full-proof-skeptic-2026-09-13.md
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

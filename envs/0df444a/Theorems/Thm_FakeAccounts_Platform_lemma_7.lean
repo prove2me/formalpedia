@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Platform_lemma_7
 -- name    : FakeAccounts.Platform.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:42.177986+00:00
 -- url     : https://prove2.me/theorems/71013698-edfc-441a-8b7b-3466721719b1

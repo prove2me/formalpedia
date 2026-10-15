@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BandRawA_mem_row
 -- name    : ThreeSum.BandRawA.mem_row
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:35:50.126784+00:00
 -- url     : https://prove2.me/theorems/18fc1228-5ce2-4b22-be6e-d75124031be2

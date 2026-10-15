@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.determinant_budget_exists
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T08:44:15.691862+00:00
 -- url     : https://prove2.me/submissions/5ffe0661-a0bf-4e2a-9970-c0d2625e7928
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_PiExponent_DeterminantSetup
 import Theorems.Thm_OAI_PiExponent_quadratic_gap_window

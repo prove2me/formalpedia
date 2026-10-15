@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_balanced_center_amplification
 -- name    : OAI.PiExponent.balanced_center_amplification
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T08:40:48.899075+00:00
 -- url     : https://prove2.me/theorems/f4a608b6-f318-4bdb-8943-379558e2de68

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_ColorParameters_index_lt
 -- name    : ThreeSum.ColorParameters.index_lt
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:39:18.392826+00:00
 -- url     : https://prove2.me/theorems/d385a2a1-53f1-4eb3-bf67-ead91f124b38

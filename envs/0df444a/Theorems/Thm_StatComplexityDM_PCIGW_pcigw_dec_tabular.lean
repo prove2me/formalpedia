@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_PCIGW_pcigw_dec_tabular
 -- name    : StatComplexityDM.PCIGW.pcigw_dec_tabular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T22:13:59.323122+00:00
 -- url     : https://prove2.me/theorems/54a8d1a2-1745-4194-b1d6-2a267e6490e5

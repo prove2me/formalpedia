@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DavidonVM_Termination_quadratic_termination
 -- name    : DavidonVM.Termination.quadratic_termination
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T06:42:40.243995+00:00
 -- url     : https://prove2.me/theorems/993a4d76-5679-4a01-81d5-c4ef6743865c

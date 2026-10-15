@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CommonOwnership_Governance_proposition3_monotone
 -- name    : CommonOwnership.Governance.proposition3_monotone
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:50.092988+00:00
 -- url     : https://prove2.me/theorems/3b98fd05-8d56-4907-92e2-f9f7561dcca2

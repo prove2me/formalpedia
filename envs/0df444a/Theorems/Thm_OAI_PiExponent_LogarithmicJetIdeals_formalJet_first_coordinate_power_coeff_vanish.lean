@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_first_coordinate_power_coeff_vanish
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_first_coordinate_power_coeff_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:59:38.17398+00:00
 -- url     : https://prove2.me/theorems/71018b2f-831f-4dfa-a3c7-0465adab6534

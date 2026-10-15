@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LocalParameterBounds_count_word_bound
 -- name    : ThreeSum.LocalParameterBounds.count_word_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:16.01348+00:00
 -- url     : https://prove2.me/theorems/aaa73c13-37fb-415a-ad45-67cb653d50e0

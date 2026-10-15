@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Coloring_two_coordinates_separate
 -- name    : ThreeSum.Coloring.two_coordinates_separate
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:38:41.381985+00:00
 -- url     : https://prove2.me/theorems/44480efe-b709-4747-a1a4-7f2841142723

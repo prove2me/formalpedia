@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingularCardinals_sch_of_sch_countable_cofinality
 -- name    : SingularCardinals.sch_of_sch_countable_cofinality
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-11T14:53:49.387+00:00
 -- url     : https://prove2.me/theorems/6811b664-eb39-4ed1-b97b-60d376321496

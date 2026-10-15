@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightSourceOccurrenceArray_time_bound
 -- name    : ThreeSum.LightSourceOccurrenceArray.time_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:17.297976+00:00
 -- url     : https://prove2.me/theorems/94a94eef-7038-40b4-a208-eb2e98326216

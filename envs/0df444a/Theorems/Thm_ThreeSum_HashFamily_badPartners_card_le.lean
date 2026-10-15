@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_HashFamily_badPartners_card_le
 -- name    : ThreeSum.HashFamily.badPartners_card_le
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:41.67582+00:00
 -- url     : https://prove2.me/theorems/417a513f-c732-4acd-bb8a-a21091937d2b

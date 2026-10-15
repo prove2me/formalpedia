@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_cond1a_threshold
 -- name    : EndogMerger.SymLoyal.cond1a_threshold
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:12:00.151677+00:00
 -- url     : https://prove2.me/theorems/c8a7d5d3-5448-4236-9235-3861e78ca1cb

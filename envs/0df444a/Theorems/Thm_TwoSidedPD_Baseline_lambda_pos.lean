@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedPD_Baseline_lambda_pos
 -- name    : TwoSidedPD.Baseline.lambda_pos
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:08:19.363269+00:00
 -- url     : https://prove2.me/theorems/8201906a-3db2-459a-ac4b-4787365609d9

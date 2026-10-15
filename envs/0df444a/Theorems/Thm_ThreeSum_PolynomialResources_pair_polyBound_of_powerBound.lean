@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_PolynomialResources_pair_polyBound_of_powerBound
 -- name    : ThreeSum.PolynomialResources.pair_polyBound_of_powerBound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:25.686294+00:00
 -- url     : https://prove2.me/theorems/97f1d606-8684-42f4-b6be-a30c52f48d0c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightKaratsuba_joined_product
 -- name    : ThreeSum.LightKaratsuba.joined_product
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:14.395403+00:00
 -- url     : https://prove2.me/theorems/289e3b39-c82f-4645-898a-62bbb461fb12

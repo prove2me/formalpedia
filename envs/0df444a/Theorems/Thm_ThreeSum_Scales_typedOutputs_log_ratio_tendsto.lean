@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Scales_typedOutputs_log_ratio_tendsto
 -- name    : ThreeSum.Scales.typedOutputs_log_ratio_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:37:11.061988+00:00
 -- url     : https://prove2.me/theorems/dc19ecc5-debe-4145-963d-a53e077f3906

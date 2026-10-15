@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LayerCounts_unionFiber_card
 -- name    : ThreeSum.LayerCounts.unionFiber_card
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:31.94424+00:00
 -- url     : https://prove2.me/theorems/02677c92-3ba5-4b6c-8406-f1aefa3fd622

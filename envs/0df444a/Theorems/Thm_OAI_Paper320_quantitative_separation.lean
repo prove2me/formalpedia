@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Paper320_quantitative_separation
 -- name    : OAI.Paper320.quantitative_separation
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:00.367315+00:00
 -- url     : https://prove2.me/theorems/8d7692f3-0a27-4381-9a3f-20e7abf5d972

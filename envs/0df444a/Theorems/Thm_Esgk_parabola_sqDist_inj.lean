@@ -9,7 +9,7 @@
 -- statement:
 --   For $b < a$ and $d < c$ in $\mathbb{N}$, if $(a-b)^2(1+(a+b)^2) = (c-d)^2(1+(c+d)^2)$ then $a = c$ and $b = d$. Hence distinct nonnegative integer points $(t,t^2)$ have pairwise distinct distances: an $n$-point set of this form is in general position and determines exactly $\binom{n}{2}$ distances. Supporting construction fact for exact distinct-distance bounds; proves no lower bound by itself.
 -- source:
---   esgk-on3 lean/Esgk/Parabola.lean (Esgk.parabola_sqDist_inj), kernel-checked 2026-09-16; skeptic audit docs/skeptic-parabola-sqdist-2026-09-16.md
+--   Integer parabola squared-distance injectivity; Lean source artifact: esgk-on3 lean/Esgk/Parabola.lean (Esgk.parabola_sqDist_inj), kernel-checked 2026-09-16; skeptic audit artifact: docs/skeptic-parabola-sqdist-2026-09-16.md.
 
 import Mathlib
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThorpCompatibility_weightedCompatibility_main
 -- name    : OAI.ThorpCompatibility.weightedCompatibility_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:29.979983+00:00
 -- url     : https://prove2.me/theorems/8e7b44d9-af3e-48f4-af4d-54da2378daad

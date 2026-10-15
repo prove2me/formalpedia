@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HilbertCrouzeix_exists_finite_compression
 -- name    : OAI.HilbertCrouzeix.exists_finite_compression
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:44.937693+00:00
 -- url     : https://prove2.me/theorems/db6ac979-f844-4765-9969-054291c0437c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_QAC_parity_lower_bound
 -- name    : OAI.QAC.parity_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:12.470994+00:00
 -- url     : https://prove2.me/theorems/40a0f85d-beb7-492a-8b59-12a13d9eac47

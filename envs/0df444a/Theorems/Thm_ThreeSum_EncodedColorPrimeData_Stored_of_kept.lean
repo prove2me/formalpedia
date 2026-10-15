@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_EncodedColorPrimeData_Stored_of_kept
 -- name    : ThreeSum.EncodedColorPrimeData.Stored.of_kept
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:41:01.205058+00:00
 -- url     : https://prove2.me/theorems/78815d06-d662-4287-8013-8aaf0a6b9a32

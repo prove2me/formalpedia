@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Scales_primeDepth_log_ratio_tendsto_zero
 -- name    : ThreeSum.Scales.primeDepth_log_ratio_tendsto_zero
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:34:56.392402+00:00
 -- url     : https://prove2.me/theorems/c2b29f33-0e6b-498e-8777-698527610573

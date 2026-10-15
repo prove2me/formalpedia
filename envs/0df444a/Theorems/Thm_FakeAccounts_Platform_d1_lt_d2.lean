@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Platform_d1_lt_d2
 -- name    : FakeAccounts.Platform.d1_lt_d2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:10:40.742336+00:00
 -- url     : https://prove2.me/theorems/e3ab674f-ddb6-45e6-8a8c-c2abf2544825

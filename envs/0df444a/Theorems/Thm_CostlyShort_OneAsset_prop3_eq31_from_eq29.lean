@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CostlyShort_OneAsset_prop3_eq31_from_eq29
 -- name    : CostlyShort.OneAsset.prop3_eq31_from_eq29
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:35:36.845874+00:00
 -- url     : https://prove2.me/theorems/9281c69c-1fbd-4996-b864-ae1a83555d26

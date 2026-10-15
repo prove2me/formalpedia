@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum1960614_threeSum_1960614
 -- name    : ThreeSum1960614.threeSum_1960614
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-14T05:10:16.03444+00:00
 -- url     : https://prove2.me/theorems/a53b364e-57a0-4d2c-adc6-983a74218a4b

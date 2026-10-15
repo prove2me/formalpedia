@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_OneHotMask_eval_le
 -- name    : ThreeSum.OneHotMask.eval_le
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:30.261884+00:00
 -- url     : https://prove2.me/theorems/142f49d2-9ad1-4479-a470-a9fd7336489e

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_ManyLengths_path_after_deletion
 -- name    : CycleLengthsExp.ManyLengths.path_after_deletion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:25:33.992744+00:00
 -- url     : https://prove2.me/theorems/6e6aa419-221a-4cd6-ad30-5fc6855cf494

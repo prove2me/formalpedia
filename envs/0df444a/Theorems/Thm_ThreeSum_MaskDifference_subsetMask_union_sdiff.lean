@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_MaskDifference_subsetMask_union_sdiff
 -- name    : ThreeSum.MaskDifference.subsetMask_union_sdiff
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:01.222058+00:00
 -- url     : https://prove2.me/theorems/589fe215-a739-42a5-87d1-1a05080c76d4

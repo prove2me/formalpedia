@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Arithmetic_early_yes
 -- name    : ThreeSum.Arithmetic.early_yes
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:33:14.825983+00:00
 -- url     : https://prove2.me/theorems/640c7715-1d87-4e7e-bd2f-d316793ea652

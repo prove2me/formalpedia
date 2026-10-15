@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_IndexedGreedy_argmax_range
 -- name    : ThreeSum.IndexedGreedy.argmax_range
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:38:10.388537+00:00
 -- url     : https://prove2.me/theorems/52becf05-286a-460e-a5d1-945005506e59

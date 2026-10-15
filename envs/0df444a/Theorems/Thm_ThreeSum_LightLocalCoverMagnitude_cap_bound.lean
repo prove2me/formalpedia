@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightLocalCoverMagnitude_cap_bound
 -- name    : ThreeSum.LightLocalCoverMagnitude.cap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:17.809696+00:00
 -- url     : https://prove2.me/theorems/8f299005-2853-4e29-8940-64306a04d8a8

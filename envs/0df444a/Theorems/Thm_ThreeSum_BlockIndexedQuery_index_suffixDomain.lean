@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BlockIndexedQuery_index_suffixDomain
 -- name    : ThreeSum.BlockIndexedQuery.index_suffixDomain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:37:46.735312+00:00
 -- url     : https://prove2.me/theorems/b85cfb42-8730-477f-9b00-325c57504b76

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ReverseLogKodaira_SmoothProjectiveVariety_veryGenerally_fiber_negative_branch
 -- name    : OAI.ReverseLogKodaira.SmoothProjectiveVariety.veryGenerally_fiber_negative_branch
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:16.280289+00:00
 -- url     : https://prove2.me/theorems/73c8a3cb-3317-4759-bec4-be0d32078398

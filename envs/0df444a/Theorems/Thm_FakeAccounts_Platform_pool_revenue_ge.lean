@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FakeAccounts_Platform_pool_revenue_ge
 -- name    : FakeAccounts.Platform.pool_revenue_ge
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:11:03.636916+00:00
 -- url     : https://prove2.me/theorems/ab17ecd2-e1d1-4744-a6d4-f57c0495efdd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum1960614_costs_solve_3sum
 -- name    : ThreeSum1960614.costs_solve_3sum
--- status  : Open
+-- status  : Proved
 -- author  : @Yuxuan Xu
 -- created : 2026-10-14T05:09:50.156568+00:00
 -- url     : https://prove2.me/theorems/7c23d3cb-c4a0-4bc1-975a-ca2e5849adc6

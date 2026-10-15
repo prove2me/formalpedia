@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoFivePrimes.dusart_theta_exponential_error
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @abcdefg
 -- created : 2026-10-09T14:32:37.573187+00:00
 -- url     : https://prove2.me/submissions/a71f9d31-f2e1-433f-b2ed-c196eb49c9c1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /-
 Copyright (c) 2026. Released under Apache 2.0 license.

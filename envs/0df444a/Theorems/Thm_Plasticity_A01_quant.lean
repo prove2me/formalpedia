@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Plasticity_A01_quant
 -- name    : Plasticity.A01_quant
--- status  : Open
+-- status  : Proved
 -- author  : @scanstone
 -- created : 2026-10-14T07:40:14.443127+00:00
 -- url     : https://prove2.me/theorems/c93402b5-174f-4a0d-921d-6576eca38227

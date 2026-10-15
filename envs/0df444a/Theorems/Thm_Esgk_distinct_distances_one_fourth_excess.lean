@@ -11,7 +11,7 @@
 --
 --   $$D(P)\ge \frac n3+c n^{1/4}.$$
 --
---   Here $P$ is the image of the configuration and $D(P)$ counts the distinct values of `dist x y` for different $x,y\in P$. The same $c$ and $N$ work for every such configuration. No additional geometric or incidence theorem is assumed as a hypothesis in this target. The cited project source proves the statement at pen-and-paper level; the Lean target remains open.
+--   Here $P$ is the image of the configuration and $D(P)$ counts the distinct values of `dist x y` for different $x,y\in P$. The same $c$ and $N$ work for every such configuration. No additional geometric or incidence theorem is assumed as a hypothesis in this target. The cited manuscript establishes the statement at paper level; the Lean target remains open.
 -- source:
 --   Adam McKenna, Atomic proof of the ESGK n^(1/4) additive bound, revision 2026-09-14, Theorem 1.1 and equations (16.7)--(16.9): https://github.com/flound1129/esgk-on3/blob/9e63c1648017becfc717d7e0e4f2877925ace28d/docs/results/esgk-n14-atomic-proof-2026-09-13.md
 

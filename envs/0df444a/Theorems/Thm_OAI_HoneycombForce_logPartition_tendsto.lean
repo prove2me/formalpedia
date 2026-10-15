@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HoneycombForce_logPartition_tendsto
 -- name    : OAI.HoneycombForce.logPartition_tendsto
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:45.541269+00:00
 -- url     : https://prove2.me/theorems/5d99d8ab-1666-46f6-8fb4-087223a42563

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ImperfectTargeting_CostlessAds_footnote36_alpha_hat2_lt_alpha_hat1
 -- name    : ImperfectTargeting.CostlessAds.footnote36_alpha_hat2_lt_alpha_hat1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-13T22:37:45.610444+00:00
 -- url     : https://prove2.me/theorems/e447e8f1-55ca-46be-892f-e7686b3ac4cc

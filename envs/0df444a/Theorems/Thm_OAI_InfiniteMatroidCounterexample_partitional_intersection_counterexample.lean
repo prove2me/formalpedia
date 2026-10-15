@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InfiniteMatroidCounterexample_partitional_intersection_counterexample
 -- name    : OAI.InfiniteMatroidCounterexample.partitional_intersection_counterexample
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:46.63159+00:00
 -- url     : https://prove2.me/theorems/2069702c-86c5-48b1-a57d-01734dbfc7db

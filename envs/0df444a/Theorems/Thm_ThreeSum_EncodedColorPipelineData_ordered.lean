@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_EncodedColorPipelineData_ordered
 -- name    : ThreeSum.EncodedColorPipelineData.ordered
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:05.91098+00:00
 -- url     : https://prove2.me/theorems/2ace0934-09c6-46e5-9b60-9a42da8d519c

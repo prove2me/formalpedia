@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.balanced_center_window_ratio
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:26:16.112514+00:00
 -- url     : https://prove2.me/submissions/f323450c-2522-4535-bcb1-3d67c5702636
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Real.Basic
 import Mathlib.Data.Rat.Cast.Order

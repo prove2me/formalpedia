@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_memW1p_of_weak_solution
 -- name    : CauchyRiemannIndex.memW1p_of_weak_solution
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:00:55.018711+00:00
 -- url     : https://prove2.me/theorems/9d70c664-74b5-483c-8be6-f66bb14ca463

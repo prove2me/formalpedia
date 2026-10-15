@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_EncodedColorParameterData_reads
 -- name    : ThreeSum.EncodedColorParameterData.reads
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:40:17.775241+00:00
 -- url     : https://prove2.me/theorems/35a25b7f-a313-47be-860e-0fdeb7bd3c07

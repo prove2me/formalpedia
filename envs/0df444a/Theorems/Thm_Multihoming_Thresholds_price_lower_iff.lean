@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Thresholds_price_lower_iff
 -- name    : Multihoming.Thresholds.price_lower_iff
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:41.074984+00:00
 -- url     : https://prove2.me/theorems/b7ad45cd-5bd2-4b8d-80d6-84008015e32b

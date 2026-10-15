@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RiskExposure_Complementarity_proposition_1
 -- name    : RiskExposure.Complementarity.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:12:54.382277+00:00
 -- url     : https://prove2.me/theorems/31677c53-a40e-4c51-9e35-33f55793a7f4

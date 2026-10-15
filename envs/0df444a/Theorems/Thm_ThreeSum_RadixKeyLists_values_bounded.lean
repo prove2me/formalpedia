@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_RadixKeyLists_values_bounded
 -- name    : ThreeSum.RadixKeyLists.values_bounded
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:05.853373+00:00
 -- url     : https://prove2.me/theorems/e7a64dfc-c9d2-4c66-a8b4-81d603165bae

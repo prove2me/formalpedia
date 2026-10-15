@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightLocalCoverTables_Data_of_kept
 -- name    : ThreeSum.LightLocalCoverTables.Data.of_kept
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:50.757739+00:00
 -- url     : https://prove2.me/theorems/cd88b94d-a3ca-4887-a1b6-7d5b6783bbc1

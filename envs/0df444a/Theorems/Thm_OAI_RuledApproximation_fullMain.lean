@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RuledApproximation_fullMain
 -- name    : OAI.RuledApproximation.fullMain
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:17.262142+00:00
 -- url     : https://prove2.me/theorems/e3187037-5a55-4d75-9211-83431767db46

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Intersectionality_Generic_lemma_1_c
 -- name    : Intersectionality.Generic.lemma_1_c
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:08.254725+00:00
 -- url     : https://prove2.me/theorems/a2aa323e-f702-488c-8000-b4bdb9b32a1e

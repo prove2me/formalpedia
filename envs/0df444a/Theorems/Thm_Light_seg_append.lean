@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Light_seg_append
 -- name    : Light.seg_append
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:32:56.575147+00:00
 -- url     : https://prove2.me/theorems/d25274d7-03e8-45dc-bcf7-1b443f3d15d9

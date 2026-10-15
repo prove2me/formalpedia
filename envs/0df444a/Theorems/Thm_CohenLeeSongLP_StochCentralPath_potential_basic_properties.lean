@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CohenLeeSongLP_StochCentralPath_potential_basic_properties
 -- name    : CohenLeeSongLP.StochCentralPath.potential_basic_properties
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T03:08:04.810082+00:00
 -- url     : https://prove2.me/theorems/68223400-ebc0-490e-bf74-2b692cbd9395

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Dixmier_main_theorem_all_universes
 -- name    : OAI.Dixmier.main_theorem_all_universes
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:36.100612+00:00
 -- url     : https://prove2.me/theorems/d6a263ae-62d1-439f-9809-06849a44bcc9

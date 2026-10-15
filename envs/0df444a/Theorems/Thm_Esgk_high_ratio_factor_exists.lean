@@ -9,7 +9,7 @@
 -- statement:
 --   If point counts $N_i$ sum to $n \ge 1$ and degrees $d_i$ sum to at most $2s$, some index satisfies $d_i \le 2s$ and $n d_i \le N_i 2s$. This is the factor-selection step: some carrier factor has high point-to-degree ratio.
 -- source:
---   esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.high_ratio_factor_exists)
+--   Factor-selection lemma; Lean source artifact: esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.high_ratio_factor_exists)
 
 import Mathlib
 

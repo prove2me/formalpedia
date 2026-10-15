@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PlanarAnderson_anderson_spectrum_ae
 -- name    : OAI.PlanarAnderson.anderson_spectrum_ae
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:03.975575+00:00
 -- url     : https://prove2.me/theorems/f200242a-79f4-4088-bea2-fb00b9d95659

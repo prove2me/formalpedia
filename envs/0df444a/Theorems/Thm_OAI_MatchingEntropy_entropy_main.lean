@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_MatchingEntropy_entropy_main
 -- name    : OAI.MatchingEntropy.entropy_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:55.04602+00:00
 -- url     : https://prove2.me/theorems/e6852eb2-f9b2-4015-806a-58acab4b5f4a

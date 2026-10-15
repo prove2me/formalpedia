@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightBlockChildrenIndexed_childPrefixes_length
 -- name    : ThreeSum.LightBlockChildrenIndexed.childPrefixes_length
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:11.0182+00:00
 -- url     : https://prove2.me/theorems/928e7164-e5ab-4168-8e38-a0f19e1b2bcc

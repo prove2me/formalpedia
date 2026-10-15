@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BandRawA_Stored_keep_before_append
 -- name    : ThreeSum.BandRawA.Stored.keep_before_append
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:36:04.621226+00:00
 -- url     : https://prove2.me/theorems/bd73c43b-d964-4e18-9154-2cd274e815fa

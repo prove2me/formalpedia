@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_OneWayLiveness_main_theorem
 -- name    : OAI.OneWayLiveness.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:58.466934+00:00
 -- url     : https://prove2.me/theorems/c489910a-b34a-444c-a7ab-5af36d80d38a

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_WeightEnumeration_coordinates_idxOf
 -- name    : ThreeSum.WeightEnumeration.coordinates_idxOf
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:28.54206+00:00
 -- url     : https://prove2.me/theorems/89854158-f59e-47b6-9d00-52f4c8bc30e4

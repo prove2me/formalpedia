@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LiteralAnalytic_actualRowCount_eventually_polynomial_bound
 -- name    : OAI.PiExponent.LiteralAnalytic.actualRowCount_eventually_polynomial_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-13T15:31:44.336766+00:00
 -- url     : https://prove2.me/theorems/c6d62ae0-0b77-4601-a990-06e32752eb22

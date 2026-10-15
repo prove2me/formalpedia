@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Thresholds_eLow_lt_eP
 -- name    : Multihoming.Thresholds.eLow_lt_eP
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T06:26:51.426528+00:00
 -- url     : https://prove2.me/theorems/9aecd7f1-f760-4942-b897-ed16dab5f71c

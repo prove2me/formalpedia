@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BlockForced_forced_union
 -- name    : ThreeSum.BlockForced.forced_union
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:36:52.286811+00:00
 -- url     : https://prove2.me/theorems/2002a2a9-7b81-45d0-ab64-4ea8d3830b61

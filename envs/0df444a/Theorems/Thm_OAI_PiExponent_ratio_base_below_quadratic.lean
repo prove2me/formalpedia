@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_ratio_base_below_quadratic
 -- name    : OAI.PiExponent.ratio_base_below_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:05:52.224995+00:00
 -- url     : https://prove2.me/theorems/07ef9cc7-408d-4dbe-987f-d726a248c2ac

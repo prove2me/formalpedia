@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CappeKLUCB_Empirical_theorem_2
 -- name    : CappeKLUCB.Empirical.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:08:52.097125+00:00
 -- url     : https://prove2.me/theorems/15b4eb12-a253-40bc-8502-f2f75a29a6e1

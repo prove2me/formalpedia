@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.eventually_integer_geometric_window
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:37:17.339245+00:00
 -- url     : https://prove2.me/submissions/950a3538-65bf-4a6e-84f2-607df5d06a2c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Real.Basic
 import Theorems.Thm_OAI_PiExponent_real_geometric_window_eventually

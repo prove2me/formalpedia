@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_sigma_step
 -- name    : EndogMerger.SymLoyal.sigma_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:56.200294+00:00
 -- url     : https://prove2.me/theorems/4335dbf4-8fa5-477e-81e0-ae6b013ee5b4

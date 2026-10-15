@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_YuanDGD_Linear_corollary_1
 -- name    : YuanDGD.Linear.corollary_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T08:20:06.686972+00:00
 -- url     : https://prove2.me/theorems/eabfb7f8-5e63-42a8-8fda-27a2b8c50711

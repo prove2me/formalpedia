@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightBandPreprocessing_Represents_keep
 -- name    : ThreeSum.LightBandPreprocessing.Represents.keep
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:38.685708+00:00
 -- url     : https://prove2.me/theorems/b9440ac4-e11b-464f-a4c0-9eadee22e18e

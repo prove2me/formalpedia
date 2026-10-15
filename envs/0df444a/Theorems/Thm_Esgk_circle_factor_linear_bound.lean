@@ -9,7 +9,7 @@
 -- statement:
 --   If $N \le 3$ and $2n \le N 2s$ then $n \le 3s$. A degree-2 carrier factor holds few points, so the deficiency is linear in this branch.
 -- source:
---   esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.circle_factor_linear_bound)
+--   Circle linear-bound proof; Lean source artifact: esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.circle_factor_linear_bound)
 
 import Mathlib
 

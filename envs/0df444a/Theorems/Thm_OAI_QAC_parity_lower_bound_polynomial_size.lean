@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_QAC_parity_lower_bound_polynomial_size
 -- name    : OAI.QAC.parity_lower_bound_polynomial_size
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:12.743991+00:00
 -- url     : https://prove2.me/theorems/6faa7fa7-d334-44cf-8819-ee227f1a876b

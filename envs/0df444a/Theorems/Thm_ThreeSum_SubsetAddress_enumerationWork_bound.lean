@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_SubsetAddress_enumerationWork_bound
 -- name    : ThreeSum.SubsetAddress.enumerationWork_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:41.742605+00:00
 -- url     : https://prove2.me/theorems/7194ca78-7064-44ab-b5cb-f8881a12d50a

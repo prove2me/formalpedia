@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CompactBanach_main
 -- name    : OAI.CompactBanach.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:27.343732+00:00
 -- url     : https://prove2.me/theorems/c937bfb2-0c76-4c91-b574-831abacb85b4

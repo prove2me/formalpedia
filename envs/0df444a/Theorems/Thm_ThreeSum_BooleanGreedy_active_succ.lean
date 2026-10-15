@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BooleanGreedy_active_succ
 -- name    : ThreeSum.BooleanGreedy.active_succ
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:38:07.420703+00:00
 -- url     : https://prove2.me/theorems/ce06d894-0490-4557-abc7-fcd6eb9bdb77

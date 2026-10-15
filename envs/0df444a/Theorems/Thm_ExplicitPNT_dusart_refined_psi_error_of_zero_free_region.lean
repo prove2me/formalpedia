@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ExplicitPNT_dusart_refined_psi_error_of_zero_free_region
 -- name    : ExplicitPNT.dusart_refined_psi_error_of_zero_free_region
--- status  : Open
+-- status  : Proved
 -- author  : @abcdefg
 -- created : 2026-10-09T14:30:14.498028+00:00
 -- url     : https://prove2.me/theorems/ca6e6537-f735-46a4-bcc2-5d26b8e72abe

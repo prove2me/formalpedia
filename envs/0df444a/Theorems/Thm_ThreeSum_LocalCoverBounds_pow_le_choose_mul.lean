@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LocalCoverBounds_pow_le_choose_mul
 -- name    : ThreeSum.LocalCoverBounds.pow_le_choose_mul
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:40:14.055819+00:00
 -- url     : https://prove2.me/theorems/9a5d3b13-d43c-4671-ba32-cf0022a29bba

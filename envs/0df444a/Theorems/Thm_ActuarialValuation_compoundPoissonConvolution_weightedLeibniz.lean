@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialValuation_compoundPoissonConvolution_weightedLeibniz
 -- name    : ActuarialValuation.compoundPoissonConvolution_weightedLeibniz
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-09T16:21:29.76673+00:00
 -- url     : https://prove2.me/theorems/35d075ef-ec1b-44c9-89c4-84aa1af087d0

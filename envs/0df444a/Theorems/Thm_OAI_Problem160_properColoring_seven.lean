@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem160_properColoring_seven
 -- name    : OAI.Problem160.properColoring_seven
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:06.755254+00:00
 -- url     : https://prove2.me/theorems/5809c449-9b9d-4835-8c2e-0a78e7cf70b6

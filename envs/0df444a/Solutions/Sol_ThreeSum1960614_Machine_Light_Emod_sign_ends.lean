@@ -1,0 +1,371 @@
+-- Prove2me | solution 1 for ThreeSum1960614.Machine.Light.Emod.sign_ends
+-- status  : ACCEPTED   (prove)
+-- author  : @Yuxuan Xu
+-- created : 2026-10-15T06:08:37.83677+00:00
+-- url     : https://prove2.me/submissions/6c3cd6f3-b997-4751-bc3a-b6393e59196a
+
+/-
+Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+SPDX-License-Identifier: Apache-2.0
+-/
+
+import Definitions.Def_APSPSource_RemainingDefinitions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Regions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Syntax
+import Definitions.Def_APSPSource_ThreeSumApsp_Util_Index
+import Definitions.Def_APSPSource_ThreeSumApsp_Util_List
+import Definitions.Def_ThreeSum1960614_Machine_Bundle003
+import Definitions.Def_ThreeSum1960614_Machine_Bundle004
+import Definitions.Def_ThreeSum1960614_Machine_Bundle005
+import Definitions.Def_ThreeSum1960614_Machine_Bundle006
+import Definitions.Def_ThreeSum1960614_Machine_Bundle007
+import Definitions.Def_ThreeSum1960614_Machine_Bundle008
+import Definitions.Def_ThreeSum1960614_Machine_Bundle009
+import Definitions.Def_ThreeSum1962Source_Bundle01
+import Definitions.Def_ThreeSum1962Source_Bundle04
+import Lean
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.Group.Int.Defs
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.Group.Multiset
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Int
+import Mathlib.Data.Int.Notation
+import Mathlib.Data.List.GetD
+import Mathlib.Data.Nat.Count
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Size
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.Logic.Function.Basic
+import Mathlib.Order.ConditionallyCompleteLattice.Basic
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Int
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Ring
+import Theorems.Thm_Light_neg_emod_nat
+
+namespace Light
+end Light
+namespace Light.Emod
+end Light.Emod
+namespace ThreeSum1960614.Machine.Light
+end ThreeSum1960614.Machine.Light
+namespace ThreeSum1960614.Machine.Light.Emod
+end ThreeSum1960614.Machine.Light.Emod
+
+namespace ThreeSum1960614.Machine
+
+/-!
+# Proof rules for the light language
+
+Ends lim P d s σ T Q says: the statement s, started in σ, ends within T steps in a state that
+satisfies Q.  There is one rule for each construct; a rule turns a goal about a statement into goals
+about its parts, so a proof follows the text of the program from top to bottom.  Recursion needs no
+rule: a statement about a recursive procedure is proved by induction (in Lean) on a measure, and the
+rule for calls unfolds the body.
+
+There are three rules for loops: with an invariant indexed by the number of the round and a cost for
+each round (Ends.while), the same with one cost for all rounds (Ends.whileConst), and, for a loop
+whose number of rounds depends on the data, with a quantity that every round decreases
+(Ends.whileVariant).
+
+The file also has the basic facts about runs (a run stays a run when procedures are appended to the
+program), notation for writing programs, the simplification set
+`light_norm`, and the standing assumptions `Std` about the limits.
+-/
+
+@[expose] public section
+
+namespace Light
+open _root_.Light
+
+
+variable {lim : _root_.ThreeSum1960614.Machine.Light.Limits} {P : _root_.ThreeSum1960614.Machine.Light.Program} {d : ℕ}
+
+/-! ## Runs -/
+
+
+
+
+
+
+
+
+
+/-! ## The rules -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem Ends.ite {σ T c s₁ s₂} {Q : _root_.ThreeSum1960614.Machine.Light.State → Prop} (T' : ℕ) (hs : c.Safe lim σ)
+    (h₁ : c.Holds σ → _root_.ThreeSum1960614.Machine.Light.Ends lim P d s₁ σ T' Q) (h₂ : ¬ c.Holds σ → _root_.ThreeSum1960614.Machine.Light.Ends lim P d s₂ σ T' Q)
+    (hT : c.cost + 1 + T' ≤ T) : _root_.ThreeSum1960614.Machine.Light.Ends lim P d (_root_.ThreeSum1960614.Machine.Light.Stmt.ite c s₁ s₂) σ T Q := by
+  by_cases hv : c.Holds σ
+  · obtain ⟨σ', k, he, hk, hq⟩ := h₁ hv
+    exact ⟨σ', _, _root_.ThreeSum1960614.Machine.Light.Exec.iteTrue hs hv he, by omega, hq⟩
+  · obtain ⟨σ', k, he, hk, hq⟩ := h₂ hv
+    exact ⟨σ', _, _root_.ThreeSum1960614.Machine.Light.Exec.iteFalse hs hv he, by omega, hq⟩
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Notation for writing programs
+
+Not trusted: a theorem about a program does not depend on how the program was typed in. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Simplification -/
+
+attribute [simp] _root_.ThreeSum1960614.Machine.Light.Expr.val _root_.ThreeSum1960614.Machine.Light.Expr.cost _root_.ThreeSum1960614.Machine.Light.Expr.Safe _root_.Light.Op.eval _root_.ThreeSum1960614.Machine.Light.Cond.Holds _root_.ThreeSum1960614.Machine.Light.Cond.cost _root_.ThreeSum1960614.Machine.Light.Cond.Safe _root_.Light.frame
+
+
+
+
+
+
+
+/-! ## The limits -/
+
+
+
+
+
+
+
+
+
+end Light
+
+end
+
+end ThreeSum1960614.Machine
+
+namespace ThreeSum1960614.Machine
+
+/-!
+# Derived rules: time that is not typed, blocks, counting loops
+
+The rules of this file spare the typing of step counts.  Ends.next gives the first statement its
+time and the rest of the program what is left; Ends.setThen, Ends.storeThen and Ends.iteThen do the
+same for one assignment, store or branch, and Ends.setLast, Ends.storeLast and Ends.iteLast treat
+the last statement of a program.  `Ends.pieceThen` and `Ends.pieceLast` are the two forms for a
+piece of the program that has a lemma of its own.  In every rule the main premises come first, then
+the side conditions, and last the comparison of times.  The comparison has the default proof
+`light_time`, safety conditions have the default proof `light_side`.
+
+A block is a statement without loops and calls.  s.Runs lim σ R says that the block s runs safely
+from σ and ends in a state that satisfies R; Ends.block turns this into a fact about time, with the
+cost computed. Ends.whileBlock is the rule for a loop whose body is a block.
+
+Stmt.for i hi body is the loop "for i = 0, …, hi - 1 do body".  The rule Ends.for owns the counter:
+the safety of the test and of the increment and the number of steps of the loop are settled here,
+once. Ends.forMem is the common case in which the body changes no local variable, so that the
+invariant speaks about the memory only.  The three parts of every loop rule are called start, round
+and done.  A loop rule is told a bound b on the steps of a round; for a round that is a block with
+a name, say xRound, this is xRound.blockCost.
+-/
+
+@[expose] public section
+
+namespace Light
+open _root_.Light
+
+
+variable {lim : _root_.ThreeSum1960614.Machine.Light.Limits} {P : _root_.ThreeSum1960614.Machine.Light.Program} {d : ℕ}
+
+/-! ## Blocks -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The default proofs -/
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Rules for blocks -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Sequencing: what is left of the time goes to the rest of the program -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- A branch at the end of the program: both sides get the steps that the test leaves. -/
+theorem Ends.iteLast {σ : _root_.ThreeSum1960614.Machine.Light.State} {T : ℕ} {c : _root_.ThreeSum1960614.Machine.Light.Cond} {s₁ s₂ : _root_.ThreeSum1960614.Machine.Light.Stmt} {Q : _root_.ThreeSum1960614.Machine.Light.State → Prop}
+    (h₁ : c.Holds σ → _root_.ThreeSum1960614.Machine.Light.Ends lim P d s₁ σ (T - (c.cost + 1)) Q)
+    (h₂ : ¬ c.Holds σ → _root_.ThreeSum1960614.Machine.Light.Ends lim P d s₂ σ (T - (c.cost + 1)) Q)
+    (hs : c.Safe lim σ := by (( (try have := _root_.ThreeSum1960614.Machine.Light.Std.space_le (by assumption))
+                                (try have := _root_.ThreeSum1960614.Machine.Light.Std.const_le (by assumption))
+                                simp [_root_.ThreeSum1960614.Machine.Light.Limits.Addr, _root_.abs_le, -_root_.abs_mul, ] <;> omega))) (hT : c.cost + 1 ≤ T := by (first
+                                                                     | ( simp only [_root_.ThreeSum1960614.Machine.Light.Stmt.blockCost, _root_.ThreeSum1960614.Machine.Light.Cond.cost, _root_.ThreeSum1960614.Machine.Light.Expr.cost, _root_.List.map_cons, _root_.List.map_nil, _root_.List.sum_cons, _root_.List.sum_nil, ]
+                                                                         first
+                                                                         | omega
+                                                                         | (ring_nf; omega))
+                                                                     | omega
+                                                                     |
+                                                                       (simp [] <;>
+                                                                           first
+                                                                           | omega
+                                                                           | (ring_nf; omega)))) :
+    _root_.ThreeSum1960614.Machine.Light.Ends lim P d (_root_.ThreeSum1960614.Machine.Light.Stmt.ite c s₁ s₂) σ T Q :=
+  _root_.ThreeSum1960614.Machine.Light.Ends.ite _ hs h₁ h₂ (by omega)
+
+
+
+
+
+/-! ## Loops whose body is a block -/
+
+
+
+/-! ## Counting loops -/
+
+
+
+
+
+
+
+end Light
+
+end
+
+end ThreeSum1960614.Machine
+
+section
+open _root_.Light
+open _root_.ThreeSum1960614.Machine.Light
+
+variable {lim : _root_.ThreeSum1960614.Machine.Light.Limits} {P : _root_.ThreeSum1960614.Machine.Light.Program} {d : ℕ}
+open _root_.Light.Emod
+open _root_.ThreeSum1960614.Machine.Light.Emod
+
+variable {μ : ℕ → ℤ} {x : ℤ} {Mo V fr a : ℕ}
+section
+
+/-- **The sign.** -/
+theorem ThreeSum1960614.Machine.Light.Emod.sign_ends__implementation_aba8b604b6 (F : _root_.ThreeSum1960614.Machine.Light.Emod.Pre lim Mo V fr) (hax : (a : ℤ) = |x|) {μ' : ℕ → ℤ} {t : ℤ} :
+    _root_.ThreeSum1960614.Machine.Light.Ends lim P d _root_.ThreeSum1960614.Machine.Light.emodSign ⟨_root_.Light.frame [x, Mo, fr, (a % Mo : ℕ), 0, t], μ'⟩ 12 fun σ' =>
+      σ'.loc 0 = x % (Mo : ℤ) ∧ σ'.mem = μ' := by
+  have hword := F.word
+  have hr : a % Mo < Mo := Nat.mod_lt _ F.mod_pos
+  generalize hrem : a % Mo = r at hr
+  refine _root_.ThreeSum1960614.Machine.Light.Ends.iteLast (fun hneg => ?_) (fun hpos => ?_)
+  · have hneg : x < 0 := by simpa using hneg
+    have hmod := _root_.Light.neg_emod_nat a Mo F.mod_pos
+    rw [hrem, show -(a : ℤ) = x by rw [hax, abs_of_neg hneg]; ring] at hmod
+    refine _root_.ThreeSum1960614.Machine.Light.Ends.iteLast (fun hz => ?_) (fun hz => ?_)
+    · have hz : r = 0 := by simpa using hz
+      exact _root_.ThreeSum1960614.Machine.Light.Ends.setTo 0 ⟨by rw [hmod, if_pos hz]; rfl, rfl⟩
+    · have hz : ¬ r = 0 := by simpa using hz
+      exact _root_.ThreeSum1960614.Machine.Light.Ends.setTo ((Mo : ℤ) - r) ⟨by rw [hmod, if_neg hz]; rfl, rfl⟩
+  · have hpos : 0 ≤ x := by simpa using hpos
+    refine _root_.ThreeSum1960614.Machine.Light.Ends.setTo (r : ℤ) ⟨?_, rfl⟩
+    rw [← abs_of_nonneg hpos, ← hax, ← hrem]
+    exact (Int.natCast_mod a Mo)
+end
+
+end
+
+theorem solution : type_of% (@ThreeSum1960614.Machine.Light.Emod.sign_ends__implementation_aba8b604b6) := (@ThreeSum1960614.Machine.Light.Emod.sign_ends__implementation_aba8b604b6)
+
+#print axioms solution

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CauchyRiemannIndex.translationInvariant_estimate
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-13T22:45:30.699147+00:00
 -- url     : https://prove2.me/submissions/33bbccae-4827-4f73-a8fa-4c48b3fab342
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CauchyRiemannIndex_Setting
 import Mathlib.Analysis.Calculus.ContDiff.Basic

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightSortedBands_Prepared_transfer
 -- name    : ThreeSum.LightSortedBands.Prepared.transfer
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:37.419265+00:00
 -- url     : https://prove2.me/theorems/4ef71fa7-e0ff-4f02-b583-30da7b032c2a

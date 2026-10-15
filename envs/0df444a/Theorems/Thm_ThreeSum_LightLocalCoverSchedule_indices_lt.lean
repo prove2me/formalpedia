@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightLocalCoverSchedule_indices_lt
 -- name    : ThreeSum.LightLocalCoverSchedule.indices_lt
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:35.668277+00:00
 -- url     : https://prove2.me/theorems/072aad94-3f2d-43fb-80d4-7fccf144fc1b

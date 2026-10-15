@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_EndogMerger_SymLoyal_piAB_vs_sum_small
 -- name    : EndogMerger.SymLoyal.piAB_vs_sum_small
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:58.288037+00:00
 -- url     : https://prove2.me/theorems/641b3f57-8a8f-40f4-b551-306efaa31ccf

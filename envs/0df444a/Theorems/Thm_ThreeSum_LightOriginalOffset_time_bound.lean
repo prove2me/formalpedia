@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightOriginalOffset_time_bound
 -- name    : ThreeSum.LightOriginalOffset.time_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:39.730192+00:00
 -- url     : https://prove2.me/theorems/3c21bc92-284b-43c1-ae9b-d530b240f3af

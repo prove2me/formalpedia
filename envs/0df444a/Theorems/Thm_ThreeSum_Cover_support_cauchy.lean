@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Cover_support_cauchy
 -- name    : ThreeSum.Cover.support_cauchy
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:38:53.673464+00:00
 -- url     : https://prove2.me/theorems/790921a1-7299-426b-8439-9da5f9c08eb2

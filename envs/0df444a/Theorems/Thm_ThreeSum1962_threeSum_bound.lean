@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum1962_threeSum_bound
 -- name    : ThreeSum1962.threeSum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-13T19:37:33.280915+00:00
 -- url     : https://prove2.me/theorems/faf3da56-8bce-41db-b7fb-332e1861ada2

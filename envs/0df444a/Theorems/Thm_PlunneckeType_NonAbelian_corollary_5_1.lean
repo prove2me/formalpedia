@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_NonAbelian_corollary_5_1
 -- name    : PlunneckeType.NonAbelian.corollary_5_1
--- status  : Open
+-- status  : Disproved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:36.271072+00:00
 -- url     : https://prove2.me/theorems/032db2de-adb9-4373-bb10-9babf63f58ab

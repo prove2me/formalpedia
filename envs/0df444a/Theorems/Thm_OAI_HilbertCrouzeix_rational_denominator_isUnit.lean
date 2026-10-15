@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_HilbertCrouzeix_rational_denominator_isUnit
 -- name    : OAI.HilbertCrouzeix.rational_denominator_isUnit
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:45.239693+00:00
 -- url     : https://prove2.me/theorems/abffe1ae-6d25-4672-b1d8-6894c40bf134

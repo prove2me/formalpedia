@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for ExplicitPNT.dusart_refined_psi_error_of_zero_free_region
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @abcdefg
 -- created : 2026-10-09T15:53:34.796499+00:00
 -- url     : https://prove2.me/submissions/203799a1-46a0-496f-bafa-a26a9ec50558
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 /- Proof sketch: the numerical comparison is proved separately; the analytic
    smoothing estimate is an explicit Open dependency. -/

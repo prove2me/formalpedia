@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ParityWL_parity_reduction
 -- name    : OAI.ParityWL.parity_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:00.591177+00:00
 -- url     : https://prove2.me/theorems/c4cc264c-7937-4f2e-bfc2-32ce8f2f23a1

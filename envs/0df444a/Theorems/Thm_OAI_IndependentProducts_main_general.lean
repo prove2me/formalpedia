@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IndependentProducts_main_general
 -- name    : OAI.IndependentProducts.main_general
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:46.344333+00:00
 -- url     : https://prove2.me/theorems/c0a5f0ec-5c02-4108-85ea-94901505da54

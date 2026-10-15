@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_ModuloCosts_time_bound
 -- name    : ThreeSum.ModuloCosts.time_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:34:27.564226+00:00
 -- url     : https://prove2.me/theorems/64e99eb8-ceb6-4d16-be00-78885d2e480e

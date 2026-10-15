@@ -9,7 +9,7 @@
 -- statement:
 --   If $N^2 < C^2 d^5$ with $s \ge 1$, $nd \le N 2s$ and $d \le 2s$, then $n^2 < 32 C^2 s^5$. Below-threshold points force large deficiency; the published fractional-power form raised to the fifth power keeps everything in naturals.
 -- source:
---   esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.threshold_failure_fifth_power_bound)
+--   Threshold-failure proof; Lean source artifact: esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.threshold_failure_fifth_power_bound)
 
 import Mathlib
 

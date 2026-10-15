@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetFeePlatform_InteropDominance_zeta_sub
 -- name    : NetFeePlatform.InteropDominance.zeta_sub
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T10:13:05.095334+00:00
 -- url     : https://prove2.me/theorems/628b1321-f490-4004-8308-b6509053cd8f

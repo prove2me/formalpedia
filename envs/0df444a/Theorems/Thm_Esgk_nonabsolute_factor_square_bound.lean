@@ -9,7 +9,7 @@
 -- statement:
 --   If $4N \le d^2$, $nd \le N 2s$ and $d \le 2s$ then $n \le s^2$. A B\u00e9zout bound on the nonabsolute factor forces a square-root lower bound.
 -- source:
---   esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.nonabsolute_factor_square_bound)
+--   Nonabsolute square-bound proof; Lean source artifact: esgk-on3 lean/Esgk/AdditiveExcessArithmetic.lean (Esgk.nonabsolute_factor_square_bound)
 
 import Mathlib
 

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_SubsetAddress_layerRank_lt
 -- name    : ThreeSum.SubsetAddress.layerRank_lt
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:07.490747+00:00
 -- url     : https://prove2.me/theorems/e50e39f1-9ead-4eea-bec8-dc12db3f7f67

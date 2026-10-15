@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightEncodedColorResult_meets
 -- name    : ThreeSum.LightEncodedColorResult.meets
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:44:01.471021+00:00
 -- url     : https://prove2.me/theorems/1456d007-4da4-4ccb-ae13-e42474e84ecc

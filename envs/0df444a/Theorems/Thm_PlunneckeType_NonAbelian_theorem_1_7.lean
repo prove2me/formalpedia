@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlunneckeType_NonAbelian_theorem_1_7
 -- name    : PlunneckeType.NonAbelian.theorem_1_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T12:23:45.903964+00:00
 -- url     : https://prove2.me/theorems/417f877c-ab96-472c-a4d3-0fa9350ac225

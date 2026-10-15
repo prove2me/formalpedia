@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FracPSG_Subseq_theorem_4_5_iii
 -- name    : FracPSG.Subseq.theorem_4_5_iii
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-07T21:08:58.459974+00:00
 -- url     : https://prove2.me/theorems/6afaa6e2-0d31-42c2-80a7-25894d8460da

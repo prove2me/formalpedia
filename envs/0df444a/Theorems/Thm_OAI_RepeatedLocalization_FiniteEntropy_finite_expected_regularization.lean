@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RepeatedLocalization_FiniteEntropy_finite_expected_regularization
 -- name    : OAI.RepeatedLocalization.FiniteEntropy.finite_expected_regularization
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:15.986478+00:00
 -- url     : https://prove2.me/theorems/aecdf0fa-bfb3-41a7-a5b0-b2728e9ade31

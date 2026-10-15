@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_InfiniteMatroidCounterexample_separate_covering_packing_counterexamples
 -- name    : OAI.InfiniteMatroidCounterexample.separate_covering_packing_counterexamples
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:46.755662+00:00
 -- url     : https://prove2.me/theorems/662a1d3e-950f-40d2-8d87-0dc9f4538cf4

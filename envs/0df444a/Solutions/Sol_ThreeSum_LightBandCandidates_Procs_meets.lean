@@ -1,0 +1,2649 @@
+-- Prove2me | solution 1 for ThreeSum.LightBandCandidates.Procs.meets
+-- status  : ACCEPTED   (prove)
+-- author  : @wurtle
+-- created : 2026-10-14T16:15:24.937639+00:00
+-- url     : https://prove2.me/submissions/72d285dd-525c-4ecd-b9f6-03afe95dcf9e
+
+/-
+Copyright (c) 2026 Anthropic, PBC. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+SPDX-License-Identifier: Apache-2.0
+-/
+
+import Aesop
+import Definitions.Def_APSPSource_RemainingDefinitions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Logic
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Regions
+import Definitions.Def_APSPSource_ThreeSumApsp_Lang_Syntax
+import Definitions.Def_ThreeSum1962Source_Bundle01
+import Definitions.Def_ThreeSum1962Source_Bundle04
+import Definitions.Def_ThreeSum1962Source_Bundle05
+import Definitions.Def_ThreeSum1962Source_Bundle06
+import Definitions.Def_ThreeSum1962Source_Bundle08
+import Definitions.Def_ThreeSum1962Source_Bundle09
+import Definitions.Def_ThreeSum1962Source_Bundle10
+import Lean.Elab.Tactic.Omega
+import Mathlib.Algebra.BigOperators.Fin
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Piecewise
+import Mathlib.Algebra.BigOperators.Group.Finset.Powerset
+import Mathlib.Algebra.BigOperators.Group.Finset.Sigma
+import Mathlib.Algebra.BigOperators.Ring.Finset
+import Mathlib.Algebra.Field.ZMod
+import Mathlib.Algebra.Group.Equiv.Basic
+import Mathlib.Algebra.Group.Int.Defs
+import Mathlib.Algebra.GroupWithZero.Nat
+import Mathlib.Algebra.Order.BigOperators.Group.Finset
+import Mathlib.Algebra.Order.BigOperators.Group.List
+import Mathlib.Algebra.Order.BigOperators.Group.Multiset
+import Mathlib.Algebra.Order.Chebyshev
+import Mathlib.Algebra.Order.Field.Basic
+import Mathlib.Algebra.Order.Floor.Div
+import Mathlib.Algebra.Order.Group.Abs
+import Mathlib.Algebra.Order.Group.Int
+import Mathlib.Algebra.Order.Group.Nat
+import Mathlib.Algebra.Order.Group.Unbundled.Abs
+import Mathlib.Algebra.Order.Ring.Abs
+import Mathlib.Algebra.Order.Ring.Int
+import Mathlib.Algebra.Order.Ring.Pow
+import Mathlib.Algebra.Polynomial.Basic
+import Mathlib.Algebra.Polynomial.Coeff
+import Mathlib.Algebra.Ring.Nat
+import Mathlib.Combinatorics.Colex
+import Mathlib.Data.Bool.Basic
+import Mathlib.Data.Fin.Embedding
+import Mathlib.Data.Fin.VecNotation
+import Mathlib.Data.Finset.Basic
+import Mathlib.Data.Finset.Card
+import Mathlib.Data.Finset.Powerset
+import Mathlib.Data.Finset.Prod
+import Mathlib.Data.Finset.Sigma
+import Mathlib.Data.Finset.Sort
+import Mathlib.Data.Fintype.BigOperators
+import Mathlib.Data.Fintype.Card
+import Mathlib.Data.Fintype.Pi
+import Mathlib.Data.Fintype.Prod
+import Mathlib.Data.Fintype.Sets
+import Mathlib.Data.Fintype.Sum
+import Mathlib.Data.Int.Cast.Lemmas
+import Mathlib.Data.Int.ModEq
+import Mathlib.Data.Int.Notation
+import Mathlib.Data.Int.SuccPred
+import Mathlib.Data.List.Basic
+import Mathlib.Data.List.FinRange
+import Mathlib.Data.List.GetD
+import Mathlib.Data.List.MinMax
+import Mathlib.Data.List.Nodup
+import Mathlib.Data.List.OfFn
+import Mathlib.Data.List.Pi
+import Mathlib.Data.List.ProdSigma
+import Mathlib.Data.List.TakeDrop
+import Mathlib.Data.Nat.Cast.Order.Ring
+import Mathlib.Data.Nat.Choose.Basic
+import Mathlib.Data.Nat.Choose.Bounds
+import Mathlib.Data.Nat.Choose.Central
+import Mathlib.Data.Nat.Choose.Sum
+import Mathlib.Data.Nat.Count
+import Mathlib.Data.Nat.Log
+import Mathlib.Data.Nat.Notation
+import Mathlib.Data.Nat.Sqrt
+import Mathlib.Data.Nat.SuccPred
+import Mathlib.Data.Real.Basic
+import Mathlib.Data.ZMod.Basic
+import Mathlib.GroupTheory.Index
+import Mathlib.LinearAlgebra.Dual.Lemmas
+import Mathlib.LinearAlgebra.Matrix.Defs
+import Mathlib.LinearAlgebra.Matrix.Dual
+import Mathlib.LinearAlgebra.Matrix.ToLin
+import Mathlib.Logic.Equiv.Fin.Basic
+import Mathlib.Logic.Function.Basic
+import Mathlib.NumberTheory.Bertrand
+import Mathlib.Order.ConditionallyCompleteLattice.Basic
+import Mathlib.RingTheory.Coprime.Lemmas
+import Mathlib.Tactic.Abel
+import Mathlib.Tactic.ByContra
+import Mathlib.Tactic.FieldSimp
+import Mathlib.Tactic.FinCases
+import Mathlib.Tactic.GCongr
+import Mathlib.Tactic.Linarith
+import Mathlib.Tactic.NormNum
+import Mathlib.Tactic.Positivity
+import Mathlib.Tactic.Push
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.SplitIfs
+import Mathlib.Tactic.Tauto
+import Theorems.Thm_Light_seg_append
+import Theorems.Thm_ThreeSum_BandCandidateRows_seg_rect
+import Theorems.Thm_ThreeSum_BinarySearch_locate_sound
+import Theorems.Thm_ThreeSum_LightBandCandidatesTable_meets
+
+
+set_option autoImplicit false
+set_option relaxedAutoImplicit false
+set_option Elab.async false
+namespace Light
+end Light
+namespace ThreeSum.BandCandidateRows
+end ThreeSum.BandCandidateRows
+namespace ThreeSum.BandEnumeration
+end ThreeSum.BandEnumeration
+namespace ThreeSum.LightSubsetAddress
+end ThreeSum.LightSubsetAddress
+namespace ThreeSumApsp
+end ThreeSumApsp
+
+section
+
+
+/-!
+# Proof rules for the light language
+
+Ends lim P d s σ T Q says: the statement s, started in σ, ends within T steps in a state that
+satisfies Q.  There is one rule for each construct; a rule turns a goal about a statement into goals
+about its parts, so a proof follows the text of the program from top to bottom.  Recursion needs no
+rule: a statement about a recursive procedure is proved by induction (in Lean) on a measure, and the
+rule for calls unfolds the body.
+
+There are three rules for loops: with an invariant indexed by the number of the round and a cost for
+each round (Ends.while), the same with one cost for all rounds (Ends.whileConst), and, for a loop
+whose number of rounds depends on the data, with a quantity that every round decreases
+(Ends.whileVariant).
+
+The file also has the basic facts about runs (a run stays a run when procedures are appended to the
+program), notation for writing programs, the simplification set
+`light_norm`, and the standing assumptions `Std` about the limits.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## Runs -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The rules -/
+
+
+
+
+
+
+/-- More time and a weaker conclusion. -/
+theorem Ends.mono {s σ T T' Q Q'} (h : Ends lim P d s σ T Q) (hT : T ≤ T')
+    (hQ : ∀ σ', Q σ' → Q' σ') : Ends lim P d s σ T' Q' := by
+  obtain ⟨σ', c, he, hc, hq⟩ := h
+  exact ⟨σ', c, he, hc.trans hT, hQ _ hq⟩
+
+
+
+
+
+
+
+theorem Ends.skip {σ T} {Q : State → Prop} (h : Q σ) : Ends lim P d .skip σ T Q :=
+  ⟨σ, 0, .skip, Nat.zero_le _, h⟩
+
+theorem Ends.set {σ T x e} {Q : State → Prop} (hs : e.Safe lim σ) (hT : e.cost + 1 ≤ T)
+    (h : Q { σ with loc := Function.update σ.loc x (e.val σ) }) : Ends lim P d (.set x e) σ T Q :=
+  ⟨_, _, .set hs, hT, h⟩
+
+
+
+
+
+
+
+theorem Ends.seq {σ T s₁ s₂} {Q : State → Prop} (T₁ T₂ : ℕ)
+    (h : Ends lim P d s₁ σ T₁ fun σ' => Ends lim P d s₂ σ' T₂ Q) (hT : T₁ + T₂ ≤ T) :
+    Ends lim P d (.seq s₁ s₂) σ T Q := by
+  obtain ⟨σ', c₁, he₁, hc₁, σ'', c₂, he₂, hc₂, hq⟩ := h
+  exact ⟨σ'', _, .seq he₁ he₂, by omega, hq⟩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- Calls: verify the body from the frame made of the arguments. -/
+theorem Ends.call {σ T p args x body} {Q : State → Prop} (T' : ℕ) (ha : ∀ e ∈ args, e.Safe lim σ)
+    (hp : P[p]? = some body) (hd : d < lim.depth)
+    (h : Ends lim P (d + 1) body ⟨frame (args.map (·.val σ)), σ.mem⟩ T'
+      fun σ' => Q ⟨Function.update σ.loc x (σ'.loc 0), σ'.mem⟩)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T) : Ends lim P d (.call p args x) σ T Q := by
+  obtain ⟨σ', k, he, hk, hq⟩ := h
+  exact ⟨_, _, .call ha hp hd he, by omega, hq⟩
+
+/-! ## Notation for writing programs
+
+Not trusted: a theorem about a program does not depend on how the program was typed in. -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Simplification -/
+
+attribute [simp] Expr.val Expr.cost Expr.Safe Op.eval Cond.Holds Cond.cost Cond.Safe frame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The limits -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Derived rules: time that is not typed, blocks, counting loops
+
+The rules of this file spare the typing of step counts.  Ends.next gives the first statement its
+time and the rest of the program what is left; Ends.setThen, Ends.storeThen and Ends.iteThen do the
+same for one assignment, store or branch, and Ends.setLast, Ends.storeLast and Ends.iteLast treat
+the last statement of a program.  `Ends.pieceThen` and `Ends.pieceLast` are the two forms for a
+piece of the program that has a lemma of its own.  In every rule the main premises come first, then
+the side conditions, and last the comparison of times.  The comparison has the default proof
+`light_time`, safety conditions have the default proof `light_side`.
+
+A block is a statement without loops and calls.  s.Runs lim σ R says that the block s runs safely
+from σ and ends in a state that satisfies R; Ends.block turns this into a fact about time, with the
+cost computed. Ends.whileBlock is the rule for a loop whose body is a block.
+
+Stmt.for i hi body is the loop "for i = 0, …, hi - 1 do body".  The rule Ends.for owns the counter:
+the safety of the test and of the increment and the number of steps of the loop are settled here,
+once. Ends.forMem is the common case in which the body changes no local variable, so that the
+invariant speaks about the memory only.  The three parts of every loop rule are called start, round
+and done.  A loop rule is told a bound b on the steps of a round; for a round that is a block with
+a name, say xRound, this is xRound.blockCost.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## Blocks -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The default proofs -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Rules for blocks -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Sequencing: what is left of the time goes to the rest of the program -/
+
+/-- The first statement gets T₁ steps, the rest of the program what is left of T. -/
+theorem Ends.next {σ : State} {T : ℕ} {s₁ s₂ : Stmt} {Q : State → Prop} (T₁ : ℕ)
+    (h : Ends lim P d s₁ σ T₁ fun σ' => Ends lim P d s₂ σ' (T - T₁) Q)
+    (hT : T₁ ≤ T := by first
+                           |
+                             ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                   List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                               (first
+                                 | omega
+                                 | ((ring_nf); (omega))))
+                           | omega
+                           |
+                             (simp [] <;>
+                                 first
+                                 | omega
+                                 | ((ring_nf); (omega)))) : Ends lim P d ((Light.Stmt.seq s₁ s₂)) σ T Q :=
+  Ends.seq T₁ (T - T₁) h (by omega)
+
+/-- Brackets do not matter: a piece of several statements, followed by the rest of the program, is
+run statement by statement. -/
+theorem Ends.seqAssoc {σ : State} {T : ℕ} {s₁ s₂ s₃ : Stmt} {Q : State → Prop}
+    (h : Ends lim P d ((Light.Stmt.seq s₁ (Light.Stmt.seq s₂ s₃))) σ T Q) : Ends lim P d ((Light.Stmt.seq (Light.Stmt.seq s₁ s₂) s₃)) σ T Q := by
+  obtain ⟨σ', _, he, hc, hq⟩ := h
+  cases he with
+  | seq he₁ he₂₃ =>
+    cases he₂₃ with
+    | seq he₂ he₃ => exact ⟨σ', _, .seq (.seq he₁ he₂) he₃, by omega, hq⟩
+
+/-- A `skip` before the rest of the program takes no step. -/
+theorem Ends.skipThen {σ : State} {T : ℕ} {s : Stmt} {Q : State → Prop} (h : Ends lim P d s σ T Q) :
+    Ends lim P d ((Light.Stmt.seq .skip s)) σ T Q :=
+  Ends.seq 0 T (Ends.skip h) (by omega)
+
+/-- A `skip` may be put behind a statement. -/
+theorem Ends.skipLast {σ : State} {T : ℕ} {s : Stmt} {Q : State → Prop}
+    (h : Ends lim P d ((Light.Stmt.seq s .skip)) σ T Q) : Ends lim P d s σ T Q := by
+  obtain ⟨σ', _, he, hc, hq⟩ := h
+  cases he with
+  | seq he₁ he₂ =>
+    cases he₂
+    exact ⟨σ', _, he₁, by omega, hq⟩
+
+/-- A program that is defined as a sequence may be treated as the sequence. -/
+theorem Ends.seqSelf {σ : State} {T : ℕ} {s₁ s₂ : Stmt} {Q : State → Prop}
+    (h : Ends lim P d ((Light.Stmt.seq s₁ s₂)) σ T Q) : Ends lim P d ((Light.Stmt.seq s₁ s₂)) σ T Q :=
+  h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Loops whose body is a block -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Counting loops -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Local variables as a list
+
+In the proof of a procedure body the state is written out as ⟨frame [a, b, …], μ⟩: the list
+holds the local variables 0, 1, …, and all further ones are 0.  An assignment to local x replaces
+entry x of the list (setLocal).  The rules of this file treat one statement each.  They are told the
+value that is assigned or stored, and they ask for one fact about each expression: that its
+evaluation stays within the limits and gives this value (Expr.Gives).  This fact and the comparison
+of the costs are proved by default from the hypotheses in the context.  Ends.forFrame and
+Ends.forShape are the rules for counting loops in this form.  In the names of the rules, To says
+that the state is ⟨frame l, μ⟩.
+
+Locals by name, and locals whose values do not matter:
+
+* `setLocals l [(x, a), (y, b), …]` is the list `l` after the assignments `x := a`, `y := b`, ….
+  With the names of the locals for `x`, `y`, … it describes the locals of a procedure by name:
+  `setLocals [] [(Size, n), (Bound, U), …]`.
+* `updateLocals loc [(x, a), (y, b), …]` is the same for locals that are not given as a list.  A
+  lemma about a piece of text that several procedures share is stated for arbitrary locals `loc`.
+* `refreshLocals l loc xs` is the list `l` with the entries `xs` read from `loc`.
+* `LocalsBut xs l loc` says that `loc` agrees with `frame l` except perhaps at the locals `xs`.  In
+  an invariant, `xs` are the scratch variables.  `Ends.asFrame` goes from such locals to a list, and
+  `LocalsBut.of_eq` comes back.
+* `Ends.pieceTo` and `Ends.pieceToThen` use a lemma about a piece of text that assigns only the
+  locals `xs`: afterwards the locals are `refreshLocals l loc' xs`, where `loc'` are the locals of
+  which the lemma speaks.  The lemma need not mention the locals that the piece does not assign.
+* `Ends.forScratch` is the rule for a counting loop whose body may change the scratch variables
+  `xs`: the round says nothing about the locals.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## The list of the locals -/
+
+
+
+
+
+
+
+
+
+/-- Reading a local after an assignment. -/
+theorem frame_setLocal : ∀ (l : List ℤ) (x : ℕ) (z : ℤ) (y : ℕ),
+    frame (setLocal l x z) y = if y = x then z else frame l y
+  | [], 0, z, 0 => by simp
+  | [], 0, z, y + 1 => by simp
+  | [], x + 1, z, 0 => by simp
+  | [], x + 1, z, y + 1 => by simpa using frame_setLocal [] x z y
+  | a :: l, 0, z, 0 => by simp
+  | a :: l, 0, z, y + 1 => by simp
+  | a :: l, x + 1, z, 0 => by simp
+  | a :: l, x + 1, z, y + 1 => by simpa using frame_setLocal l x z y
+
+/-- An assignment to a local, in terms of the list. -/
+theorem update_frame_setLocal (l : List ℤ) (x : ℕ) (z : ℤ) :
+    Function.update (frame l) x z = frame (setLocal l x z) := by
+  funext y
+  rw [frame_setLocal, Function.update_apply]
+
+
+
+
+
+
+
+
+
+
+
+/-! ## The value of an expression -/
+
+
+
+
+
+/-! ## One statement -/
+
+section rules
+
+variable {l : List ℤ} {μ : ℕ → ℤ} {T : ℕ} {Q : State → Prop}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- `x := e`, where e gives z. -/
+theorem Ends.setTo {x : ℕ} {e : Expr} (z : ℤ) (h : Q ⟨frame (setLocal l x z), μ⟩)
+    (he : e.Gives lim ⟨frame l, μ⟩ z := by (((try have := Light.Std.space_le (by assumption)));
+                                                  ((try have := Light.Std.const_le (by assumption)));
+                                                  (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hT : e.cost + 1 ≤ T := by first
+                                 |
+                                   ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                         List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                     (first
+                                       | omega
+                                       | ((ring_nf); (omega))))
+                                 | omega
+                                 |
+                                   (simp [] <;>
+                                       first
+                                       | omega
+                                       | ((ring_nf); (omega)))) :
+    Ends lim P d (.set x e) ⟨frame l, μ⟩ T Q := by
+  refine Ends.set he.1 hT ?_
+  rw [he.2]
+  simp only [update_frame_setLocal]
+  exact h
+
+/-- `x := e ; s`, where e gives z.  The rest s of the text gets the steps that are left. -/
+theorem Ends.setToThen {x : ℕ} {e : Expr} {s : Stmt} (z : ℤ)
+    (h : Ends lim P d s ⟨frame (setLocal l x z), μ⟩ (T - (e.cost + 1)) Q)
+    (he : e.Gives lim ⟨frame l, μ⟩ z := by (((try have := Light.Std.space_le (by assumption)));
+                                                  ((try have := Light.Std.const_le (by assumption)));
+                                                  (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hT : e.cost + 1 ≤ T := by first
+                                 |
+                                   ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                         List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                     (first
+                                       | omega
+                                       | ((ring_nf); (omega))))
+                                 | omega
+                                 |
+                                   (simp [] <;>
+                                       first
+                                       | omega
+                                       | ((ring_nf); (omega)))) :
+    Ends lim P d ((Light.Stmt.seq (.set x e) s)) ⟨frame l, μ⟩ T Q :=
+  Ends.next _ (Ends.setTo z h he le_rfl) hT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end rules
+
+/-! ## Locals by name, and locals whose values do not matter -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section
+variable {xs : List ℕ} {l l' : List ℤ} {loc μ : ℕ → ℤ}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## A piece of program text with a lemma of its own -/
+
+variable {T T₁ : ℕ} {s s₁ s₂ : Stmt} {Q R : State → Prop}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-! ## Counting loops with scratch variables -/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Calls
+
+Meets lim P p d vals μ T R is the specification of a procedure: procedure number p of the program P,
+run at depth d on the arguments vals in the memory μ, ends within T steps with a result and a memory
+that satisfy R. A routine is proved to meet such a specification (Meets.of_body), and a caller uses
+the specification only, so that the proof of a caller does not depend on the body of a callee.
+
+The specification of a routine x, as its callers assume it, has the form
+`∀ (data) μ, hypotheses → ∀ d, d + k ≤ lim.depth → Meets lim P p d vals μ T R`.  Here k is the
+number of levels of calls that x needs below itself, and d, the depth at which the body of x runs,
+comes last.
+
+There is one rule for calls, in four forms.  It is told the fact about the callee, from which it
+reads the values of the arguments, the time and what holds afterwards, and it asks for what follows
+the call.  Three side goals have default proofs: the arguments are safe and have these values, one
+more level of calls is allowed, and the time suffices.  Ends.callTo and Ends.callToThen are the rule
+for a state ⟨frame l, μ⟩; Ends.callLast and Ends.callThen are the same for local variables that are
+not given as a list.
+-/
+
+@[expose] public section
+
+namespace Light
+
+variable {lim : Limits} {P : Program} {d : ℕ}
+
+/-! ## Specifications of procedures -/
+
+
+
+
+
+
+
+section
+variable {p : ℕ} {vals : List ℤ} {μ : ℕ → ℤ} {T T' : ℕ} {R R' : ℤ → (ℕ → ℤ) → Prop}
+
+/-- From a theorem about a body to the specification. -/
+theorem Meets.of_body {args : List ℤ} {Q : ℤ → (ℕ → ℤ) → Prop} {body : Stmt}
+    (hp : P[p]? = some body)
+    (h : Ends lim P d body ⟨frame args, μ⟩ T fun σ' => Q (σ'.loc 0) σ'.mem) :
+    Meets lim P p d args μ T Q :=
+  ⟨body, hp, h⟩
+
+/-- More time and a weaker conclusion. -/
+theorem Meets.mono (h : Meets lim P p d vals μ T R) (hT : T ≤ T') (hR : ∀ r μ', R r μ' → R' r μ') :
+    Meets lim P p d vals μ T' R' := by
+  obtain ⟨body, hp, he⟩ := h
+  exact ⟨body, hp, he.mono hT fun _ => hR _ _⟩
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
+
+/-! ## The rule for calls -/
+
+section
+variable {loc μ : ℕ → ℤ} {l : List ℤ} {T T' p x : ℕ} {args : List Expr} {vals : List ℤ}
+  {R : ℤ → (ℕ → ℤ) → Prop} {Q : State → Prop} {s : Stmt}
+
+/-- `x := p(args)`, where the arguments give vals.  The procedure runs at depth d + 1. -/
+theorem Ends.callLast (hp : Meets lim P p (d + 1) vals μ T' R)
+    (h : ∀ r μ', R r μ' → Q ⟨Function.update loc x r, μ'⟩)
+    (ha : (∀ e ∈ args, e.Safe lim ⟨loc, μ⟩) ∧ args.map (·.val ⟨loc, μ⟩) = vals := by (((try have := Light.Std.space_le (by assumption)));
+                                                                                                        ((try have := Light.Std.const_le (by assumption)));
+                                                                                                        (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hd : d < lim.depth := by omega)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T := by first
+                                                        |
+                                                          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                                                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                                            (first
+                                                              | omega
+                                                              | ((ring_nf); (omega))))
+                                                        | omega
+                                                        |
+                                                          (simp [] <;>
+                                                              first
+                                                              | omega
+                                                              | ((ring_nf); (omega)))) :
+    Ends lim P d (.call p args x) ⟨loc, μ⟩ T Q := by
+  obtain ⟨body, hb, he⟩ := hp
+  obtain ⟨hs, rfl⟩ := ha
+  exact Ends.call T' hs hb hd (he.mono le_rfl fun _ hR => h _ _ hR) hT
+
+
+
+
+
+
+
+
+
+
+
+/-- `x := p(args)`, with the local variables as a list.  The procedure runs at depth d + 1. -/
+theorem Ends.callTo (hp : Meets lim P p (d + 1) vals μ T' R)
+    (h : ∀ r μ', R r μ' → Q ⟨frame (setLocal l x r), μ'⟩)
+    (ha : (∀ e ∈ args, e.Safe lim ⟨frame l, μ⟩) ∧ args.map (·.val ⟨frame l, μ⟩) = vals := by
+      (((try have := Light.Std.space_le (by assumption)));
+        ((try have := Light.Std.const_le (by assumption)));
+        (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hd : d < lim.depth := by omega)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T := by first
+                                                        |
+                                                          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                                                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                                            (first
+                                                              | omega
+                                                              | ((ring_nf); (omega))))
+                                                        | omega
+                                                        |
+                                                          (simp [] <;>
+                                                              first
+                                                              | omega
+                                                              | ((ring_nf); (omega)))) :
+    Ends lim P d (.call p args x) ⟨frame l, μ⟩ T Q :=
+  Ends.callLast hp (fun r μ' hR => update_frame_setLocal l x r ▸ h r μ' hR) ha hd hT
+
+/-- `x := p(args) ; s`, with the local variables as a list.  The procedure runs at depth d + 1. -/
+theorem Ends.callToThen (hp : Meets lim P p (d + 1) vals μ T' R)
+    (h : ∀ r μ', R r μ' → Ends lim P d s ⟨frame (setLocal l x r), μ'⟩
+      (T - ((args.map Expr.cost).sum + 2 + T')) Q)
+    (ha : (∀ e ∈ args, e.Safe lim ⟨frame l, μ⟩) ∧ args.map (·.val ⟨frame l, μ⟩) = vals := by
+      (((try have := Light.Std.space_le (by assumption)));
+        ((try have := Light.Std.const_le (by assumption)));
+        (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)))
+    (hd : d < lim.depth := by omega)
+    (hT : (args.map Expr.cost).sum + 2 + T' ≤ T := by first
+                                                        |
+                                                          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                                                                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+                                                            (first
+                                                              | omega
+                                                              | ((ring_nf); (omega))))
+                                                        | omega
+                                                        |
+                                                          (simp [] <;>
+                                                              first
+                                                              | omega
+                                                              | ((ring_nf); (omega)))) :
+    Ends lim P d ((Light.Stmt.seq (.call p args x) s)) ⟨frame l, μ⟩ T Q :=
+  Ends.next _ (Ends.callTo hp h ha hd le_rfl) hT
+
+end
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Segments of the memory
+
+Seg μ a l says that the cells a, a + 1, …, a + l.length - 1 of the memory μ hold the list l.
+SegN is Seg for a list of natural numbers, MatAt for a matrix written row by row, VecAt for a vector
+of indices.  The file has the lemmas for reading a cell of a segment, writing into it, writing
+elsewhere, and for cutting and joining segments.  Each of the four predicates has its lemma `keep`,
+which carries it to a later memory.
+-/
+
+@[expose] public section
+
+namespace Light
+
+open ThreeSumApsp
+
+
+
+
+
+
+
+variable {μ μ' μ'' : ℕ → ℤ} {a b n : ℕ} {l l₁ l₂ : List ℤ} {x : ℤ}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- A segment only depends on its own cells. -/
+theorem Seg.congr (h : Seg μ a l) (he : ∀ i < l.length, μ' (a + i) = μ (a + i)) : Seg μ' a l :=
+  fun i hi => by rw [he i hi, h i hi]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/-- A segment that does not meet the region is kept. -/
+theorem Seg.of_sameOutside (h : Seg μ b l) (hs : SameOutside μ μ' a n)
+    (hd : b + l.length ≤ a ∨ a + n ≤ b) : Seg μ' b l :=
+  h.congr fun i hi => hs _ (by omega)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end Light
+
+end
+end
+
+section
+
+
+/-!
+# Division-free binary interval lookup in actual machine syntax
+
+The search descends a constructed powers-of-two table and extends a known
+prefix by one power at a time. Every tested endpoint is an explicit bounded
+memory load. Neither natural-number division nor a function-valued memory
+oracle is a machine operation. `search_meets` identifies its returned prefix
+with any valid sorted partition, and hence with `BinarySearch.upperBound`.
+-/
+
+namespace ThreeSum.LightBandLookup
+
+open Light ThreeSum.LightSubsetAddress
+
+variable {lim : Limits} {P : Program}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem result_le (lo hi : ℕ → ℤ) (n : ℕ) (x : ℤ)
+    (hsorted : ∀ i j, i ≤ j → j < n → lo i ≤ lo j) : result lo hi n x ≤ n := by
+  unfold result
+  cases h : BinarySearch.locate lo hi n x with
+  | none => simp
+  | some i =>
+      have hh := BinarySearch.locate_sound lo hi n x hsorted h
+      simp only [Option.map_some,Option.getD_some]
+      omega
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.LightBandLookup
+
+end
+
+section
+
+
+/-!
+# The exact physical band-owner record order
+
+There is one four-cell record for every owner-table cell, in BC, AB, AC
+rectangle order. A zero flag is a lookup miss. Successful records retain
+their physical owner slot even when several owners produce the same triple.
+-/
+
+namespace ThreeSum.BandCandidateRows
+
+open BandEnumeration
+
+set_option maxHeartbeats 1400000
+set_option maxRecDepth 7000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem rect_length (m n : ℕ) (F : ℕ → ℕ → Record) : (rect m n F).length=m*n := by
+  simp [rect,List.length_flatMap]
+
+
+
+
+
+
+theorem cells_length (rs : List Record) : (cells rs).length=4*rs.length := by
+  induction rs with
+  | nil => simp [cells]
+  | cons r rs ih => simp only [cells,List.flatMap_cons,List.length_append,Record.cells,
+      List.length_cons,List.length_nil] at *; omega
+
+theorem index_lt {i j m n : ℕ} (hi : i < m) (hj : j < n) : i*n+j < m*n := by
+  have hh := Nat.mul_le_mul_right n (show i+1 ≤ m by omega)
+  simp only [Nat.add_mul,Nat.one_mul] at hh
+  omega
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.BandCandidateRows
+
+end
+
+section
+
+
+/-! # Actual rectangular owner records with two nested loops -/
+
+namespace ThreeSum.LightBandCandidatesTable
+
+open Light BandCandidateRows
+
+set_option maxHeartbeats 1800000
+set_option maxRecDepth 7000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable {lim : Limits} {P : Program} {d : ℕ} {μ : ℕ → ℤ}
+    {src dst m n U : ℕ} {f : ℕ → ℕ → ℕ}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theorem meets_segment {pMain pRow pCell : ℕ} (mode : Mode)
+    (hmain : P[pMain]?=some (body pRow))
+    (hrow : P[pRow]?=some (LightBandCandidatesRow.body pCell))
+    (hcell : P[pCell]?=some (LightBandCandidatesCell.body mode))
+    (hw : (lim.space : ℤ) ≤ lim.word) (hd : d+1 < lim.depth)
+    (hsrc : src+m*n ≤ dst) (hspace : dst+4*(m*n) ≤ lim.space)
+    (hword : ((U+10 : ℕ) : ℤ) ≤ lim.word) (hm : m ≤ U) (hn : n ≤ U)
+    (hf : ∀ i < m, ∀ j < n, f i j ≤ U)
+    (hread : ∀ i < m, ∀ j < n, μ (src+i*n+j)=(f i j : ℤ)) :
+    Meets lim P pMain d [src,dst,m,n] μ (time m n)
+      (fun _ ν => Seg ν dst (cells (rect m n (fun i j => make mode i j (f i j)))) ∧
+        SameOutside μ ν dst (4*(m*n))) :=
+  (meets mode hmain hrow hcell hw hd hsrc hspace hword hm hn hf hread).mono le_rfl
+    (fun _ _ h => ⟨seg_rect _ h.1,h.2⟩)
+
+
+
+
+end ThreeSum.LightBandCandidatesTable
+
+end
+
+section
+
+
+/-!
+# All actual flagged band-owner records
+
+The fixed program reads the three retained rectangular lookup tables and
+writes one four-cell record for each cell, in the same BC, AB, AC order.
+The record position is its permanent owner-slot identity.
+-/
+
+namespace ThreeSum.LightBandCandidates
+
+open Light BandEnumeration BandCandidateRows
+
+set_option maxHeartbeats 2000000
+set_option maxRecDepth 8000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+variable {lim : Limits} {P : Program} {d : ℕ} {μ : ℕ → ℤ}
+    {src dst : ℕ}
+
+theorem Procs.meets_sourceProof {pMain : ℕ} (S : Procs P pMain) (A B C : Family)
+    (hw : (lim.space : ℤ) ≤ lim.word) (hd : d+2 < lim.depth)
+    (hsrc : src+LightBandEnumeration.count A.size B.size C.size ≤ dst)
+    (hspace : space dst A.size B.size C.size ≤ lim.space)
+    (hword : (word A.size B.size C.size : ℤ) ≤ lim.word)
+    (htables : LightBandEnumeration.Tables μ src A B C) :
+    Meets lim P pMain d [src,dst,A.size,B.size,C.size] μ (time A.size B.size C.size)
+      (fun r ν => r=(LightBandEnumeration.count A.size B.size C.size : ℤ) ∧
+        Seg ν dst (cells (records A B C)) ∧
+        SameOutside μ ν dst (4*LightBandEnumeration.count A.size B.size C.size)) := by
+  let U := A.size+B.size+C.size
+  let bcN := B.size*C.size
+  let abN := A.size*B.size
+  let acN := A.size*C.size
+  have hcount : LightBandEnumeration.count A.size B.size C.size=bcN+abN+acN := rfl
+  have hsrc' : src+bcN+abN+acN ≤ dst := by simpa only [hcount,Nat.add_assoc] using hsrc
+  have hspace' : dst+4*(bcN+abN+acN) ≤ lim.space := hspace
+  have hAU : A.size ≤ U := by unfold U; omega
+  have hBU : B.size ≤ U := by unfold U; omega
+  have hCU : C.size ≤ U := by unfold U; omega
+  have hwordU : ((U+10 : ℕ) : ℤ) ≤ lim.word := hword
+  have hAWord : (A.size : ℤ) ≤ lim.word := (Int.ofNat_le.mpr (by omega : A.size ≤ U+10)).trans hwordU
+  have hBWord : (B.size : ℤ) ≤ lim.word := (Int.ofNat_le.mpr (by omega : B.size ≤ U+10)).trans hwordU
+  have hCWord : (C.size : ℤ) ≤ lim.word := (Int.ofNat_le.mpr (by omega : C.size ≤ U+10)).trans hwordU
+  have hbcWord : (B.size : ℤ)*(C.size : ℤ) ≤ lim.word :=
+    (by exact_mod_cast (show bcN ≤ lim.space by omega) :
+      (B.size : ℤ)*(C.size : ℤ) ≤ (lim.space : ℤ)).trans hw
+  have habWord : (A.size : ℤ)*(B.size : ℤ) ≤ lim.word :=
+    (by exact_mod_cast (show abN ≤ lim.space by omega) :
+      (A.size : ℤ)*(B.size : ℤ) ≤ (lim.space : ℤ)).trans hw
+  have hacWord : (A.size : ℤ)*(C.size : ℤ) ≤ lim.word :=
+    (by exact_mod_cast (show acN ≤ lim.space by omega) :
+      (A.size : ℤ)*(C.size : ℤ) ≤ (lim.space : ℤ)).trans hw
+  have hbcNonneg : (0 : ℤ) ≤ (B.size : ℤ)*(C.size : ℤ) := by positivity
+  have habNonneg : (0 : ℤ) ≤ (A.size : ℤ)*(B.size : ℤ) := by positivity
+  have hacNonneg : (0 : ℤ) ≤ (A.size : ℤ)*(C.size : ℤ) := by positivity
+  have hbcBound : ∀ j < B.size, ∀ k < C.size,
+      LightBandLookup.result A.lower A.upper A.size (C.lower k-B.upper j) ≤ U := by
+    intro j _ k _
+    exact (LightBandLookup.result_le _ _ _ _ A.sorted).trans hAU
+  have habBound : ∀ i < A.size, ∀ j < B.size,
+      LightBandLookup.result C.lower C.upper C.size (A.lower i+B.lower j) ≤ U := by
+    intro i _ j _
+    exact (LightBandLookup.result_le _ _ _ _ C.sorted).trans hCU
+  have hacBound : ∀ i < A.size, ∀ k < C.size,
+      LightBandLookup.result B.lower B.upper B.size (C.lower k-A.lower i) ≤ U := by
+    intro i _ k _
+    exact (LightBandLookup.result_le _ _ _ _ B.sorted).trans hBU
+  apply Meets.of_body S.main
+  unfold body time
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine Light.Ends.setToThen (bcN : ℕ) ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, bcN]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [bcN] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, bcN] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine Light.Ends.setToThen (abN : ℕ) ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, abN]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [abN] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, abN] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine Light.Ends.setToThen (acN : ℕ) ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, acN]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [acN] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, acN] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine Light.Ends.setToThen (bcN + abN + acN : ℕ) ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil, ]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, ] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  have hcBC := LightBandCandidatesTable.meets_segment (d := d+1) (μ := μ)
+    (src := src) (dst := dst) .bc S.bc S.rowBC S.cellBC hw (by omega)
+    (by change src+bcN ≤ dst; omega) (by change dst+4*bcN ≤ lim.space; omega)
+    hwordU hBU hCU hbcBound htables.1
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (first
+      | refine Light.Ends.callToThen (hcBC _ (by omega)) ?_ ?_ ?_ ?_
+      | refine Light.Ends.callToThen hcBC ?_ ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 => omega);
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul,
+                LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time] <;>
+              omega)));
+    (on_goal -1 =>
+        ((rintro unused ν₁ ⟨hbc, hkeepBC⟩);
+          (try with_unfolding_none refine Light.Ends.skip ?_)))
+  have habRead : ∀ i < A.size, ∀ j < B.size,
+      ν₁ (src+bcN+i*B.size+j)=
+        (LightBandLookup.result C.lower C.upper C.size (A.lower i+B.lower j) : ℤ) := by
+    intro i hi j hj
+    have hh := index_lt hi hj
+    rw [hkeepBC _ (Or.inl (by change i*B.size+j < abN at hh; omega))]
+    exact htables.2.1 i hi j hj
+  have hcAB := LightBandCandidatesTable.meets_segment (d := d+1) (μ := ν₁)
+    (src := src+bcN) (dst := dst+4*bcN) .ab S.ab S.rowAB S.cellAB hw (by omega)
+    (by change src+bcN+abN ≤ dst+4*bcN; omega)
+    (by change dst+4*bcN+4*abN ≤ lim.space; omega)
+    hwordU hAU hBU habBound habRead
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (first
+      | refine Light.Ends.callToThen (hcAB _ (by omega)) ?_ ?_ ?_ ?_
+      | refine Light.Ends.callToThen hcAB ?_ ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 => omega);
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul,
+                LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time] <;>
+              omega)));
+    (on_goal -1 =>
+        ((rintro unused ν₂ ⟨hab, hkeepAB⟩);
+          (try with_unfolding_none refine Light.Ends.skip ?_)))
+  have hacRead : ∀ i < A.size, ∀ k < C.size,
+      ν₂ (src+bcN+abN+i*C.size+k)=
+        (LightBandLookup.result B.lower B.upper B.size (C.lower k-A.lower i) : ℤ) := by
+    intro i hi k hk
+    have hh := index_lt hi hk
+    rw [hkeepAB _ (Or.inl (by change i*C.size+k < acN at hh; omega)),
+      hkeepBC _ (Or.inl (by change i*C.size+k < acN at hh; omega))]
+    exact htables.2.2 i hi k hk
+  have hcAC := LightBandCandidatesTable.meets_segment (d := d+1) (μ := ν₂)
+    (src := src+bcN+abN) (dst := dst+4*(bcN+abN)) .ac S.ac S.rowAC S.cellAC hw (by omega)
+    (by change src+bcN+abN+acN ≤ dst+4*(bcN+abN); omega)
+    (by change dst+4*(bcN+abN)+4*acN ≤ lim.space; omega)
+    hwordU hAU hCU hacBound hacRead
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (first
+      | refine Light.Ends.callToThen (hcAC _ (by omega)) ?_ ?_ ?_ ?_
+      | refine Light.Ends.callToThen hcAC ?_ ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 => omega);
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul,
+                LightBandCandidatesTable.time, LightBandCandidatesRow.time,
+                LightBandCandidatesCell.time] <;>
+              omega)));
+    (on_goal -1 =>
+        ((rintro unused ν₃ ⟨hac, hkeepAC⟩);
+          (try with_unfolding_none refine Light.Ends.skip ?_)))
+  have hbc' : Seg ν₃ dst (cells (rect B.size C.size (BandCandidateRows.bc A B C))) := by
+    apply (hbc.of_sameOutside hkeepAB (Or.inl (by rw [cells_length,rect_length]))).of_sameOutside
+      hkeepAC (Or.inl (by rw [cells_length,rect_length]; change dst+4*bcN ≤ dst+4*(bcN+abN); omega))
+  have hab' : Seg ν₃ (dst+4*bcN) (cells (rect A.size B.size (BandCandidateRows.ab A B C))) :=
+    hab.of_sameOutside hkeepAC (Or.inl (by
+      rw [cells_length,rect_length]
+      change dst+4*bcN+4*abN ≤ dst+4*(bcN+abN)
+      omega))
+  focus
+    ((((first
+            | refine Light.Ends.seqSelf ?_
+            | refine Light.Ends.skipLast ?_));
+        (repeat
+            with_unfolding_none
+              first
+              | refine Light.Ends.seqAssoc ?_
+              | refine Light.Ends.skipThen ?_)));
+    (refine
+        Light.Ends.setToThen (LightBandEnumeration.count A.size B.size C.size : ℕ)
+          ?_ ?_ ?_);
+    (on_goal -1 =>
+        first
+        |
+          ((simp only [Light.Stmt.blockCost, Light.Cond.cost, Light.Expr.cost,
+                List.map_cons, List.map_nil, List.sum_cons, List.sum_nil,
+                hcount]);
+            (first
+              | omega
+              | ((ring_nf); (omega))))
+        | omega
+        |
+          (simp [hcount] <;>
+              first
+              | omega
+              | ((ring_nf); (omega))));
+    (on_goal -1 =>
+        (((try have := Light.Std.space_le (by assumption)));
+          ((try have := Light.Std.const_le (by assumption)));
+          (simp [Light.Limits.Addr, abs_le, -abs_mul, hcount] <;> omega)));
+    (try with_unfolding_none refine Light.Ends.skip ?_)
+  refine ⟨rfl,?_,?_⟩
+  · rw [records,cells,List.flatMap_append,List.flatMap_append]
+    change Seg ν₃ dst (cells (rect B.size C.size (BandCandidateRows.bc A B C)) ++
+      (cells (rect A.size B.size (BandCandidateRows.ab A B C)) ++ cells (rect A.size C.size (BandCandidateRows.ac A B C))))
+    apply seg_append.mpr
+    refine ⟨hbc',?_⟩
+    rw [cells_length,rect_length]
+    apply seg_append.mpr
+    refine ⟨hab',?_⟩
+    rw [cells_length,rect_length]
+    change Seg ν₃ (dst+4*bcN+4*abN)
+      (cells (rect A.size C.size (fun i k => make .ac i k
+        (LightBandLookup.result B.lower B.upper B.size (C.lower k-A.lower i)))))
+    rw [show dst+4*bcN+4*abN=dst+4*(bcN+abN) by ring]
+    exact hac
+  · intro a ha
+    change ν₃ a=μ a
+    unfold Outside at ha
+    rw [hkeepAC a (by unfold Outside; rw [hcount] at ha; omega),
+      hkeepAB a (by unfold Outside; rw [hcount] at ha; omega),
+      hkeepBC a (by unfold Outside; rw [hcount] at ha; omega)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end ThreeSum.LightBandCandidates
+
+end
+
+
+theorem solution : ∀ {lim : Light.Limits} {P : Light.Program} {d : Nat} {μ : Nat → Int} {src dst pMain : Nat}
+  (S : ThreeSum.LightBandCandidates.Procs P pMain) (A B C : ThreeSum.BandEnumeration.Family),
+  @LE.le.{0} Int Int.instLEInt (@Nat.cast.{0} Int instNatCastInt lim.space) lim.word →
+    @LT.lt.{0} Nat instLTNat
+        (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) d
+          (@OfNat.ofNat.{0} Nat (nat_lit 2) (instOfNatNat (nat_lit 2))))
+        lim.depth →
+      @LE.le.{0} Nat instLENat
+          (@HAdd.hAdd.{0, 0, 0} Nat Nat Nat (@instHAdd.{0} Nat instAddNat) src
+            (ThreeSum.LightBandEnumeration.count A.size B.size C.size))
+          dst →
+        @LE.le.{0} Nat instLENat (ThreeSum.LightBandCandidates.space dst A.size B.size C.size) lim.space →
+          @LE.le.{0} Int Int.instLEInt
+              (@Nat.cast.{0} Int instNatCastInt (ThreeSum.LightBandCandidates.word A.size B.size C.size)) lim.word →
+            ThreeSum.LightBandEnumeration.Tables μ src A B C →
+              Light.Meets lim P pMain d
+                (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt src)
+                  (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt dst)
+                    (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt A.size)
+                      (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt B.size)
+                        (@List.cons.{0} Int (@Nat.cast.{0} Int instNatCastInt C.size) (@List.nil.{0} Int))))))
+                μ (ThreeSum.LightBandCandidates.time A.size B.size C.size) fun (r : Int) (ν : Nat → Int) =>
+                And
+                  (@Eq.{1} Int r
+                    (@Nat.cast.{0} Int instNatCastInt (ThreeSum.LightBandEnumeration.count A.size B.size C.size)))
+                  (And (Light.Seg ν dst (ThreeSum.BandCandidateRows.cells (ThreeSum.BandCandidateRows.records A B C)))
+                    (Light.SameOutside μ ν dst
+                      (@HMul.hMul.{0, 0, 0} Nat Nat Nat (@instHMul.{0} Nat instMulNat)
+                        (@OfNat.ofNat.{0} Nat (nat_lit 4) (instOfNatNat (nat_lit 4)))
+                        (ThreeSum.LightBandEnumeration.count A.size B.size C.size)))) := by
+  exact @ThreeSum.LightBandCandidates.Procs.meets_sourceProof
+
+#print axioms solution

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_round_nat_in_strict_window
 -- name    : OAI.PiExponent.round_nat_in_strict_window
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T09:37:04.750314+00:00
 -- url     : https://prove2.me/theorems/861db3aa-3a1b-4a56-bb3c-4ca565b9e6c3

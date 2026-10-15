@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StatComplexityDM_TabularPS_posterior_sampling_dual_dec_tabular
 -- name    : StatComplexityDM.TabularPS.posterior_sampling_dual_dec_tabular
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:25:09.163798+00:00
 -- url     : https://prove2.me/theorems/56b31e3c-793b-4a48-b32e-564820765e00

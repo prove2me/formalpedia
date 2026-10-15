@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Dixmier_current_main_theorem
 -- name    : OAI.Dixmier.current_main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:35.943568+00:00
 -- url     : https://prove2.me/theorems/7cebdde2-81d2-4a40-a81b-016946285e8c

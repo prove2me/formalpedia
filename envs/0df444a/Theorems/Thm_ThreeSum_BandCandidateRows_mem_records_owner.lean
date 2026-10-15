@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BandCandidateRows_mem_records_owner
 -- name    : ThreeSum.BandCandidateRows.mem_records_owner
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:33:17.344649+00:00
 -- url     : https://prove2.me/theorems/43533523-470e-4a7e-b563-45af59cb2f49

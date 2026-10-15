@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BandPrimeCosts_aggregate_time_le
 -- name    : ThreeSum.BandPrimeCosts.aggregate_time_le
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:35:08.237028+00:00
 -- url     : https://prove2.me/theorems/43b6966c-1d87-4346-adb9-4a094849b706

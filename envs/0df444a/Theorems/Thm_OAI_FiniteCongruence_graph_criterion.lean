@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_FiniteCongruence_graph_criterion
 -- name    : OAI.FiniteCongruence.graph_criterion
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:40.449272+00:00
 -- url     : https://prove2.me/theorems/3a6b2c5a-c9e5-4198-ae45-0179bf28ead4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BlockForced_forced_disjoint
 -- name    : ThreeSum.BlockForced.forced_disjoint
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:37:10.588305+00:00
 -- url     : https://prove2.me/theorems/c7152ff1-29f6-4139-95ef-d2f0b53f7cd3

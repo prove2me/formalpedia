@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_ReportingHostMasks_blockSet_localRow
 -- name    : ThreeSum.ReportingHostMasks.blockSet_localRow
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:10.171933+00:00
 -- url     : https://prove2.me/theorems/1f5881ea-145c-4836-9964-5bc85f7cb364

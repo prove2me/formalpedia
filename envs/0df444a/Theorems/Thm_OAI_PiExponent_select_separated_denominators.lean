@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_select_separated_denominators
 -- name    : OAI.PiExponent.select_separated_denominators
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T07:53:54.881405+00:00
 -- url     : https://prove2.me/theorems/2f0fed5f-dba5-43d7-9172-9dc496ab1bd9

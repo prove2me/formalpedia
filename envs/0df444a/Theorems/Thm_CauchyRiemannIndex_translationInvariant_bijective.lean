@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_translationInvariant_bijective
 -- name    : CauchyRiemannIndex.translationInvariant_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:00:35.242801+00:00
 -- url     : https://prove2.me/theorems/58e43b4d-dbfd-4919-a125-4c0244819d19

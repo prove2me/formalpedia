@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Subset_partialZeta_insert
 -- name    : ThreeSum.Subset.partialZeta_insert
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:38:43.619021+00:00
 -- url     : https://prove2.me/theorems/a68b093f-7901-4612-9f94-8775329f2020

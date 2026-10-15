@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LightZetaPass_time_bound
 -- name    : ThreeSum.LightZetaPass.time_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:43:38.598333+00:00
 -- url     : https://prove2.me/theorems/c76e25e3-69fc-4564-981a-ebb0852b9a67

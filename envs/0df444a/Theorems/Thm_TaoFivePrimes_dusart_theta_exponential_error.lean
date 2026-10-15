@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_dusart_theta_exponential_error
 -- name    : TaoFivePrimes.dusart_theta_exponential_error
--- status  : Open
+-- status  : Proved
 -- author  : @xuanji
 -- created : 2026-10-02T15:55:45.176189+00:00
 -- url     : https://prove2.me/theorems/8b054cf2-daad-4b17-b1af-2c842d4b5f87

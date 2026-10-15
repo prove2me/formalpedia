@@ -1,0 +1,69 @@
+-- Prove2me | Theorems.Thm_TaoFivePrimes_rh_high_height_gamma_fft_array_bounds
+-- name    : TaoFivePrimes.rh_high_height_gamma_fft_array_bounds
+-- status  : Open
+-- author  : @raresbuhai
+-- created : 2026-10-15T06:22:07.496442+00:00
+-- url     : https://prove2.me/theorems/9769019e-80dc-45b8-98d1-1dde01e1c169
+-- title:
+--   TaoFivePrimes.rh_high_height_gamma_fft_array_bounds
+-- statement:
+--   Exact ordinary-kernel shape and magnitude bounds for all52 proposed gamma-FFT input matrices:16384 entries,512-entry rows, and every biased natural input at most2^167. Linear traversals supply shared hypotheses for generic FFT soundness without changing the separately checked actual-moment input identities. This is no analytic accuracy, sign, count or RH claim.
+-- source:
+--   Existing Platt Fourier construction and Bluestein convolution, DOI10.1090/mcom/3198. Original surrounding attribution sometik179 c9908072-d99a-4431-aad8-a72c6352619a and Gabewhigham.
+
+import Mathlib
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR00
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI00
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR01
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI01
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR02
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI02
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR03
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI03
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR04
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI04
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR05
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI05
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR06
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI06
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR07
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI07
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR08
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI08
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR09
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI09
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR10
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI10
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR11
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI11
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR12
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI12
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR13
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI13
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR14
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI14
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR15
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI15
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR16
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI16
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR17
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI17
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR18
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI18
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR19
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI19
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR20
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI20
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR21
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI21
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR22
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI22
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR23
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI23
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR24
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI24
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputR25
+import Definitions.Def_TaoFivePrimes_RHHighFFTInputI25
+
+theorem TaoFivePrimes.rh_high_height_gamma_fft_array_bounds :
+  ∀ rows ∈ [RHHighFFTInputR00.rows,RHHighFFTInputI00.rows,RHHighFFTInputR01.rows,RHHighFFTInputI01.rows,RHHighFFTInputR02.rows,RHHighFFTInputI02.rows,RHHighFFTInputR03.rows,RHHighFFTInputI03.rows,RHHighFFTInputR04.rows,RHHighFFTInputI04.rows,RHHighFFTInputR05.rows,RHHighFFTInputI05.rows,RHHighFFTInputR06.rows,RHHighFFTInputI06.rows,RHHighFFTInputR07.rows,RHHighFFTInputI07.rows,RHHighFFTInputR08.rows,RHHighFFTInputI08.rows,RHHighFFTInputR09.rows,RHHighFFTInputI09.rows,RHHighFFTInputR10.rows,RHHighFFTInputI10.rows,RHHighFFTInputR11.rows,RHHighFFTInputI11.rows,RHHighFFTInputR12.rows,RHHighFFTInputI12.rows,RHHighFFTInputR13.rows,RHHighFFTInputI13.rows,RHHighFFTInputR14.rows,RHHighFFTInputI14.rows,RHHighFFTInputR15.rows,RHHighFFTInputI15.rows,RHHighFFTInputR16.rows,RHHighFFTInputI16.rows,RHHighFFTInputR17.rows,RHHighFFTInputI17.rows,RHHighFFTInputR18.rows,RHHighFFTInputI18.rows,RHHighFFTInputR19.rows,RHHighFFTInputI19.rows,RHHighFFTInputR20.rows,RHHighFFTInputI20.rows,RHHighFFTInputR21.rows,RHHighFFTInputI21.rows,RHHighFFTInputR22.rows,RHHighFFTInputI22.rows,RHHighFFTInputR23.rows,RHHighFFTInputI23.rows,RHHighFFTInputR24.rows,RHHighFFTInputI24.rows,RHHighFFTInputR25.rows,RHHighFFTInputI25.rows],rows.flatten.length=16384 ∧ rows.all (fun row=>decide (row.length=512) && row.all (fun x=>decide (x≤2^167)))=true := by sorry

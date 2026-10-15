@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PlatformEntry_Regimes_prop2_num_factorization
 -- name    : PlatformEntry.Regimes.prop2_num_factorization
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T01:22:50.502217+00:00
 -- url     : https://prove2.me/theorems/8ac36eba-1cab-49fb-85ff-f31ac38d7726

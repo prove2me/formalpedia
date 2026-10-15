@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_DenseGuardWanted_pair_indices_injective
 -- name    : ThreeSum.DenseGuardWanted.pair_indices_injective
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:40:25.047437+00:00
 -- url     : https://prove2.me/theorems/c5d07951-1053-45a5-bf23-b85c9b3679c4

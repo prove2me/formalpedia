@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BlockCoefficientRows_rows_flat
 -- name    : ThreeSum.BlockCoefficientRows.rows_flat
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:37:15.269371+00:00
 -- url     : https://prove2.me/theorems/dc29e49e-30f0-46c4-beb4-b888c3d1d326

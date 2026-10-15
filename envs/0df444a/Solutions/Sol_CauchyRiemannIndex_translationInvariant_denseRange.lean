@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for CauchyRiemannIndex.translationInvariant_denseRange
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-13T23:17:04.212155+00:00
 -- url     : https://prove2.me/submissions/adfbb485-cbd0-491e-adb9-1d47f30d10c1
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_CauchyRiemannIndex_Setting
 import Mathlib.Analysis.Calculus.ContDiff.Basic

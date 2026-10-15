@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Karatsuba_product_coeff_bound
 -- name    : ThreeSum.Karatsuba.product_coeff_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:05.479378+00:00
 -- url     : https://prove2.me/theorems/4f3df174-db42-4e71-ab03-ad6cf001b13d

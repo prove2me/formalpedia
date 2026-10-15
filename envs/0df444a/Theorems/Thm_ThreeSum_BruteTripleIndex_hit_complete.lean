@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_BruteTripleIndex_hit_complete
 -- name    : ThreeSum.BruteTripleIndex.hit_complete
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:38:38.112023+00:00
 -- url     : https://prove2.me/theorems/2ad4c1b5-23e0-4e01-b83e-649a64681bef

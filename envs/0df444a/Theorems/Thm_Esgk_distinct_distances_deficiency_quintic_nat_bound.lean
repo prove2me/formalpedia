@@ -21,7 +21,7 @@
 --
 --   The same $A,N$ work for every qualifying configuration. This is the exact natural-number endpoint consumed by the real fifth-root wrapper.
 -- source:
---   Certified ESGK n^(1/5) pen-and-paper proof, Sections 2 and 16.3, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/results/esgk-n15-authoritative-consolidated-proof-audit-corrected-v2-2026-08-25.md
+--   n^(1/5) distance--Newton argument, Sections 2 and 16.3, https://github.com/flound1129/esgk-on3/blob/8a4c11ac6083f1c5e354b1a2556eae086f4b3ee5/docs/results/esgk-n15-authoritative-consolidated-proof-audit-corrected-v2-2026-08-25.md
 
 /-
 Copyright (c) 2026 Adam McKenna. All rights reserved.

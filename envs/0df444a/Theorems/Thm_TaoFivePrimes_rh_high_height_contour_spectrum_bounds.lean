@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_TaoFivePrimes_rh_high_height_contour_spectrum_bounds
+-- name    : TaoFivePrimes.rh_high_height_contour_spectrum_bounds
+-- status  : Proved
+-- author  : @raresbuhai
+-- created : 2026-10-15T05:46:22.403088+00:00
+-- url     : https://prove2.me/theorems/6c911da0-26e6-4bfc-adca-e64c06cddcd5
+-- title:
+--   TaoFivePrimes.rh_high_height_contour_spectrum_bounds
+-- statement:
+--   Ordinary kernel bounds for all24 proposed contour spectra: every packed80-bit complex coefficient has total absolute real/imaginary component mass at most1 after scaling. Twenty-four linear data traversals avoid indexed reductions. This bound supports the analytic FFT magnitude hypotheses but asserts no approximation, sign, winding, count, or RH.
+-- source:
+--   Existing Platt Fourier construction, DOI10.1090/mcom/3198. Original surrounding attribution sometik179 c9908072-d99a-4431-aad8-a72c6352619a and Gabewhigham.
+
+import Mathlib
+import Definitions.Def_TaoFivePrimes_RHHighContourCoefficient
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K00
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K01
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K02
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K03
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K04
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K05
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K06
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperNeg64K07
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK00
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK01
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK02
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK03
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK04
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK05
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK06
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperZeroK07
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K00
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K01
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K02
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K03
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K04
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K05
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K06
+import Definitions.Def_TaoFivePrimes_RHHighContourSpectrumUpperPos64K07
+
+theorem TaoFivePrimes.rh_high_height_contour_spectrum_bounds :
+  ∀ v ∈ [RHHighContourSpectrumUpperNeg64K00.rows.flatten,RHHighContourSpectrumUpperNeg64K01.rows.flatten,RHHighContourSpectrumUpperNeg64K02.rows.flatten,RHHighContourSpectrumUpperNeg64K03.rows.flatten,RHHighContourSpectrumUpperNeg64K04.rows.flatten,RHHighContourSpectrumUpperNeg64K05.rows.flatten,RHHighContourSpectrumUpperNeg64K06.rows.flatten,RHHighContourSpectrumUpperNeg64K07.rows.flatten,RHHighContourSpectrumUpperZeroK00.rows.flatten,RHHighContourSpectrumUpperZeroK01.rows.flatten,RHHighContourSpectrumUpperZeroK02.rows.flatten,RHHighContourSpectrumUpperZeroK03.rows.flatten,RHHighContourSpectrumUpperZeroK04.rows.flatten,RHHighContourSpectrumUpperZeroK05.rows.flatten,RHHighContourSpectrumUpperZeroK06.rows.flatten,RHHighContourSpectrumUpperZeroK07.rows.flatten,RHHighContourSpectrumUpperPos64K00.rows.flatten,RHHighContourSpectrumUpperPos64K01.rows.flatten,RHHighContourSpectrumUpperPos64K02.rows.flatten,RHHighContourSpectrumUpperPos64K03.rows.flatten,RHHighContourSpectrumUpperPos64K04.rows.flatten,RHHighContourSpectrumUpperPos64K05.rows.flatten,RHHighContourSpectrumUpperPos64K06.rows.flatten,RHHighContourSpectrumUpperPos64K07.rows.flatten],v.all (fun p=>let z:=RHHighContourCoefficientData.decode p;decide (|z.1|+|z.2|≤(2:Int)^80))=true := by sorry

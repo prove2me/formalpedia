@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for TaoFivePrimes.dusart_theta_error_log_four_tail
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @xuanji
 -- created : 2026-10-03T02:53:40.901168+00:00
 -- url     : https://prove2.me/submissions/f9a68552-71a0-4b9b-8f6e-dd4d65076535
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Theorems.Thm_TaoFivePrimes_dusart_theta_exponential_error

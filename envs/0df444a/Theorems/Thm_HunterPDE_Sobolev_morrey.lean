@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Sobolev_morrey
 -- name    : HunterPDE.Sobolev.morrey
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T07:23:03.848988+00:00
 -- url     : https://prove2.me/theorems/5fbc452a-1a5d-4811-a2f1-c3f25ecba1d1

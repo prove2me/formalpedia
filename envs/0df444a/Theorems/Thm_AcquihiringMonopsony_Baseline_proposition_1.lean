@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_Baseline_proposition_1
 -- name    : AcquihiringMonopsony.Baseline.proposition_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:08:43.961122+00:00
 -- url     : https://prove2.me/theorems/300e7207-67fd-4806-8431-5c0d618ccce1

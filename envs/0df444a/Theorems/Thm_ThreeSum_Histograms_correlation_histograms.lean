@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_Histograms_correlation_histograms
 -- name    : ThreeSum.Histograms.correlation_histograms
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:40:51.894363+00:00
 -- url     : https://prove2.me/theorems/e5b86f2e-eb1f-487b-82c9-3de0a20b7473

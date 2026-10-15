@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_IndependentProducts_main_gaussian_12
 -- name    : OAI.IndependentProducts.main_gaussian_12
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:46.08165+00:00
 -- url     : https://prove2.me/theorems/23d1d15d-301e-4672-8c84-afd201c02f40

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_dusart_theta_error_log_four_tail
 -- name    : TaoFivePrimes.dusart_theta_error_log_four_tail
--- status  : Open
+-- status  : Proved
 -- author  : @Creamycream
 -- created : 2026-09-29T17:48:06.061479+00:00
 -- url     : https://prove2.me/theorems/bf882dbf-bff9-496e-b39f-16e2be21e218

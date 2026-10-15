@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ThreeSum_LocalParameterBounds_space_bound
 -- name    : ThreeSum.LocalParameterBounds.space_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-14T06:42:09.108103+00:00
 -- url     : https://prove2.me/theorems/1303c193-11af-49bf-9ec4-0ad7e5e3d830
