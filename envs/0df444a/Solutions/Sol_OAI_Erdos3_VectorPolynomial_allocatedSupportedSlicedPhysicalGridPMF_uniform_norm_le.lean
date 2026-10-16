@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedPhysicalGridPMF_uniform_norm_le
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-09T17:40:16.579688+00:00
 -- url     : https://prove2.me/submissions/0aae2d6e-c566-4a86-b772-6229b1c9d45a
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ErdosReciprocal

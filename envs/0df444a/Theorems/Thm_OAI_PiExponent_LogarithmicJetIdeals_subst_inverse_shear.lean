@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_subst_inverse_shear
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.subst_inverse_shear
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-14T23:14:17.238371+00:00
 -- url     : https://prove2.me/theorems/f5631337-fed6-4eb3-ab44-27db0596d28a

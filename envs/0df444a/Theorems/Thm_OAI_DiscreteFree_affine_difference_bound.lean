@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_affine_difference_bound
 -- name    : OAI.DiscreteFree.affine_difference_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:01:04.163292+00:00
 -- url     : https://prove2.me/theorems/c8a160ef-7692-40c4-a40e-325dada372d1

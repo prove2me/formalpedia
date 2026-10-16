@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_route_cap_bound
 -- name    : OAI.NoiselessRegression.route_cap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:43:43.361112+00:00
 -- url     : https://prove2.me/theorems/b26afe00-d8f2-46e2-a169-8276f6363c04

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DirichletCharacter_LFunction_ne_zero_of_seven_eighths_lt_re
 -- name    : OAI.DirichletCharacter.LFunction_ne_zero_of_seven_eighths_lt_re
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:35.540907+00:00
 -- url     : https://prove2.me/theorems/77c6c64d-585b-40cd-b84d-d41ebe9a2fe6

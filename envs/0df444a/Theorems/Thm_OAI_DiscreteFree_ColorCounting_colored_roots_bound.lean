@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_ColorCounting_colored_roots_bound
 -- name    : OAI.DiscreteFree.ColorCounting.colored_roots_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:10:06.180504+00:00
 -- url     : https://prove2.me/theorems/4f4120ca-3c9a-42ce-9a3b-8ec414674991

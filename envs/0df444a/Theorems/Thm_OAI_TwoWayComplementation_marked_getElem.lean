@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_marked_getElem
 -- name    : OAI.TwoWayComplementation.marked_getElem
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:08:04.305755+00:00
 -- url     : https://prove2.me/theorems/06316b4d-9761-4689-add4-04c2474a1bb4

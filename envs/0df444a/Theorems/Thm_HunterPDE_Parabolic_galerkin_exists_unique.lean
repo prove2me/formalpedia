@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Parabolic_galerkin_exists_unique
 -- name    : HunterPDE.Parabolic.galerkin_exists_unique
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T00:20:47.656202+00:00
 -- url     : https://prove2.me/theorems/6525923f-2fbe-42ab-b05a-ddc6a3afac2c

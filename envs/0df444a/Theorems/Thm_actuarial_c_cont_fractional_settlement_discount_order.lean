@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_fractional_settlement_discount_order
 -- name    : actuarial_c_cont_fractional_settlement_discount_order
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:37:14.539872+00:00
 -- url     : https://prove2.me/theorems/29b64f05-35b5-4d86-bc83-3dd8067a4061

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_exists_allocated_physical_certified_rank_witness_law
 -- name    : OAI.Erdos3.VectorPolynomial.exists_allocated_physical_certified_rank_witness_law
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T01:52:49.613584+00:00
 -- url     : https://prove2.me/theorems/4d412409-f0c9-4775-960f-d99a1e6bbf0e

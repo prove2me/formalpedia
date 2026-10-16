@@ -1,0 +1,30 @@
+-- Prove2me | Theorems.Thm_ExactVacuumAtlas_Schwarzschild_Iso_giIso_mul_gIso
+-- name    : ExactVacuumAtlas.Schwarzschild.Iso.giIso_mul_gIso
+-- status  : Proved
+-- author  : @He Wang
+-- created : 2026-10-15T21:50:29.371844+00:00
+-- url     : https://prove2.me/theorems/0456d72c-da5b-4788-b477-1ab656e7b96a
+-- title:
+--   giIso is a genuine left inverse of gIso on domIso
+-- statement:
+--   For every real M ≥ 0 and x ∈ domIso M: giIso M (x) · gIso M (x) = I (needs ρ > 0, ρ ≠ M/2 for A ≠ 0 and B ≠ 0, sin θ ≠ 0).
+-- source:
+--   He Wang, Exact Vacuum Atlas II, local source snapshot (public Git repository not yet available), commit 11fb317259353b71a41d6daed466c495cffd7db4; Atlas/Isotropic/Relation.lean#L256-L270; SHA-256 7da94260c91052d64d731cd40ce965798ffa54f3a09bf2d8d615e3c5c657d5ad. Mathematical background: See mission/PHYSICS_BOUNDARY.md §A-F for registered definitions and literature references (Wald, Müller-Grave arXiv:0904.4184, Visser arXiv:0706.0622, Martel-Poisson gr-qc/0001069).
+
+import Mathlib
+import Definitions.Def_Atlas_Core_Basic
+import Definitions.Def_Atlas_Core_Relation
+import Definitions.Def_Atlas_Isotropic_Defs
+import Definitions.Def_Atlas_Schwarzschild_Defs
+import Definitions.Def_Atlas_Schwarzschild_Domain
+open Real Matrix
+open scoped ContDiff
+open ExactVacuumAtlas ExactVacuumAtlas.Schwarzschild
+open ExactVacuumAtlas
+open ExactVacuumAtlas.Schwarzschild
+open ExactVacuumAtlas.Schwarzschild.Iso
+set_option maxHeartbeats 4000000
+variable (M : ℝ)
+
+theorem ExactVacuumAtlas.Schwarzschild.Iso.giIso_mul_gIso (hM : 0 ≤ M) {x : Pt 4} (hx : x ∈ domIso M) :
+    metricMatrix (giIso M) x * metricMatrix (gIso M) x = 1 := by sorry

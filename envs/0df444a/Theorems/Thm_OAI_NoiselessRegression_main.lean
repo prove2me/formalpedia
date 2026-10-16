@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_main
 -- name    : OAI.NoiselessRegression.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:57.948665+00:00
 -- url     : https://prove2.me/theorems/427d1ba2-990c-40f7-9c9a-a9993c634ba6

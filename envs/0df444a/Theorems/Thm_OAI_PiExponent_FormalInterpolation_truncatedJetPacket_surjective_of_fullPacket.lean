@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncatedJetPacket_surjective_of_fullPacket
 -- name    : OAI.PiExponent.FormalInterpolation.truncatedJetPacket_surjective_of_fullPacket
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:35:55.733626+00:00
 -- url     : https://prove2.me/theorems/d0d1afad-8cdf-4969-ad45-60f9f32d35e6

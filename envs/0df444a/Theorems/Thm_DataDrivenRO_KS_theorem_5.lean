@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DataDrivenRO_KS_theorem_5
 -- name    : DataDrivenRO.KS.theorem_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:45:46.564322+00:00
 -- url     : https://prove2.me/theorems/3059d6fb-9072-477b-92e6-294156db2b05

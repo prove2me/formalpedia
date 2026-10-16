@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_mvPowerSeries_span_weighted_coeff_vanish
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.mvPowerSeries_span_weighted_coeff_vanish
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T06:55:29.947401+00:00
 -- url     : https://prove2.me/theorems/cf456a17-70c4-485d-b4d5-a27ba9bfb695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_member_spouse_last
 -- name    : actuarial_d_member_spouse_last
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:01:04.271171+00:00
 -- url     : https://prove2.me/theorems/9eb96695-4498-46ae-8f04-9da171a9427f

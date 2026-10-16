@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Tight_weak_duality
 -- name    : RobustPoA.Tight.weak_duality
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:49:45.108548+00:00
 -- url     : https://prove2.me/theorems/f59f497c-d13a-45e9-8faa-2cc0f3e140a7

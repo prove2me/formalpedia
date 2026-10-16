@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Outerplanar_outerplanar_facts
 -- name    : TaitTobin.Outerplanar.outerplanar_facts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:10.950617+00:00
 -- url     : https://prove2.me/theorems/f06f268e-c260-4c4a-b231-87613a480bd4

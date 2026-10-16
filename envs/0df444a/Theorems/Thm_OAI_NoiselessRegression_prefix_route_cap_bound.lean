@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_prefix_route_cap_bound
 -- name    : OAI.NoiselessRegression.prefix_route_cap_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:45:04.54663+00:00
 -- url     : https://prove2.me/theorems/6442cb56-2ca6-4c4b-a048-06b3dd08438c

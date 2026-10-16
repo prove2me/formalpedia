@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_member_spouse_full
 -- name    : actuarial_d_member_spouse_full
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:01:47.985881+00:00
 -- url     : https://prove2.me/theorems/bce2e922-197a-4194-974c-a3c39f2d12e1

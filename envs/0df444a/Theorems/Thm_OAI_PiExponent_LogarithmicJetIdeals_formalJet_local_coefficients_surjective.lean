@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_local_coefficients_surjective
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_local_coefficients_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:00:33.627514+00:00
 -- url     : https://prove2.me/theorems/9352af23-4740-4a57-9d63-a78552e87cbe

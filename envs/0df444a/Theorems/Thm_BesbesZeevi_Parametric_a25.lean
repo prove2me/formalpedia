@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_Parametric_a25
 -- name    : BesbesZeevi.Parametric.a25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:19:02.215401+00:00
 -- url     : https://prove2.me/theorems/b2c9a327-98ee-48ab-a7f5-f7922f20f9e5

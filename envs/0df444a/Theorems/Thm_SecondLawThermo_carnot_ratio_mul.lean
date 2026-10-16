@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_carnot_ratio_mul
 -- name    : SecondLawThermo.carnot_ratio_mul
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:29:56.348248+00:00
 -- url     : https://prove2.me/theorems/4dbf97e8-5e63-4b52-a433-eb10a21058cb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_General_lemma_5_d
 -- name    : ChenSimchiLevi.General.lemma_5_d
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:11:34.650712+00:00
 -- url     : https://prove2.me/theorems/59148577-aac4-4151-83ee-86c1af943a5a

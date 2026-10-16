@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_finiteDimensional_ker_isClosed_range_of_estimate
 -- name    : CauchyRiemannIndex.finiteDimensional_ker_isClosed_range_of_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:01:38.356875+00:00
 -- url     : https://prove2.me/theorems/98a6da73-a5ad-4ab9-936a-20bcdc461d9e

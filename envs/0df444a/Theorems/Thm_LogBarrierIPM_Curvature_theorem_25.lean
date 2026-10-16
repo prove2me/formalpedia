@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogBarrierIPM_Curvature_theorem_25
 -- name    : LogBarrierIPM.Curvature.theorem_25
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:21:40.730726+00:00
 -- url     : https://prove2.me/theorems/7aedf070-f185-41f8-b407-57168b46e1f0

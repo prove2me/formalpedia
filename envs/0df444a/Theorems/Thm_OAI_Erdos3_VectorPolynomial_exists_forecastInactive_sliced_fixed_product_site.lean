@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_exists_forecastInactive_sliced_fixed_product_site
 -- name    : OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_product_site
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T05:41:01.38974+00:00
 -- url     : https://prove2.me/theorems/53f0b058-714e-497a-890b-69453d86260a

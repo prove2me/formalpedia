@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PartialPermutation_complementaryCosets_finite
 -- name    : OAI.PartialPermutation.complementaryCosets_finite
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:00.821549+00:00
 -- url     : https://prove2.me/theorems/0a5528b2-daf1-456f-87ae-0c5a347954da

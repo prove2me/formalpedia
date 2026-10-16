@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Erdos3.VectorPolynomial.forecastLawDensityPhysicalChartSource_haar_integral_unrestricted
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-13T03:08:27.48585+00:00
 -- url     : https://prove2.me/submissions/1ef7a450-c000-4656-98d4-86baf79c9861
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ErdosReciprocal

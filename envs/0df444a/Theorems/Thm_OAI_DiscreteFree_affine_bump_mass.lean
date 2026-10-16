@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_affine_bump_mass
 -- name    : OAI.DiscreteFree.affine_bump_mass
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:04:56.935376+00:00
 -- url     : https://prove2.me/theorems/4b87be9f-4d98-418d-afba-2074f506bedc

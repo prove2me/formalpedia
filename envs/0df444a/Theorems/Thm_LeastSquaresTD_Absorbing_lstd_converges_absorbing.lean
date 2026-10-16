@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LeastSquaresTD_Absorbing_lstd_converges_absorbing
 -- name    : LeastSquaresTD.Absorbing.lstd_converges_absorbing
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:03:02.188013+00:00
 -- url     : https://prove2.me/theorems/73d41edf-05f7-417c-86cc-ddbef346ef64

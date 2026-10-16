@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_chainStep_exitEquiv
 -- name    : OAI.TwoWayComplementation.chainStep_exitEquiv
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:08:55.245876+00:00
 -- url     : https://prove2.me/theorems/26deb4ac-0d7d-4e40-acc5-b7ab46a184c6

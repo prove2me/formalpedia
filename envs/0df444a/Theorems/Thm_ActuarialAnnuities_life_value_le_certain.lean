@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_life_value_le_certain
 -- name    : ActuarialAnnuities.life_value_le_certain
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:10:29.042997+00:00
 -- url     : https://prove2.me/theorems/600c08a8-31a1-4600-80a7-3f23c7c8d9f4

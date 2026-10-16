@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_complementation_lower_bound
 -- name    : OAI.TwoWayComplementation.complementation_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:11:45.782164+00:00
 -- url     : https://prove2.me/theorems/53525802-d51a-4919-9505-c556d451d8af

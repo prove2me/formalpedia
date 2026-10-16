@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ThreeManifold_main_theorem
 -- name    : OAI.ThreeManifold.main_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:31.150211+00:00
 -- url     : https://prove2.me/theorems/ba30d4d5-1e09-4801-bfd8-ece7d427f511

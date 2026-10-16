@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_finite_assurance_annuity
 -- name    : actuarial_c_finite_assurance_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:25:59.151295+00:00
 -- url     : https://prove2.me/theorems/72f053d8-196f-4b59-bfd1-2ccf2f0fb6d6

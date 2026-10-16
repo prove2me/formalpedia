@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_arrears_last_identity
 -- name    : actuarial_d_arrears_last_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:07:37.657985+00:00
 -- url     : https://prove2.me/theorems/42cd870a-8da3-43a7-be45-b5289028e4e4

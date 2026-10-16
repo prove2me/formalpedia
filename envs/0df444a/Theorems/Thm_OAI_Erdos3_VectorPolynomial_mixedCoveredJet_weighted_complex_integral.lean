@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_mixedCoveredJet_weighted_complex_integral
 -- name    : OAI.Erdos3.VectorPolynomial.mixedCoveredJet_weighted_complex_integral
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T07:30:53.67991+00:00
 -- url     : https://prove2.me/theorems/81346fac-39f4-41fd-b74e-5b44bf9b4fd1

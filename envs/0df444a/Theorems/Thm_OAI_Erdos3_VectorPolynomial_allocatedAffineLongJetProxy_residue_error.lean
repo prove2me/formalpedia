@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedAffineLongJetProxy_residue_error
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_residue_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:35:43.035795+00:00
 -- url     : https://prove2.me/theorems/04b12c98-9df5-4e49-b73b-9f28d97c47e5

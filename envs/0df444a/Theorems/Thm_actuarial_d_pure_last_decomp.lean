@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_pure_last_decomp
 -- name    : actuarial_d_pure_last_decomp
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:03:56.921023+00:00
 -- url     : https://prove2.me/theorems/e78e03fb-5898-423a-bfdb-43ac0f3ecb45

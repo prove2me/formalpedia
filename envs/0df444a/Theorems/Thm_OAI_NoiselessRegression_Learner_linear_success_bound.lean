@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_Learner_linear_success_bound
 -- name    : OAI.NoiselessRegression.Learner.linear_success_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:47:04.078843+00:00
 -- url     : https://prove2.me/theorems/f27a7f58-452a-4d2e-848c-27e5694efe33

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_MetricWedge_separated
 -- name    : OAI.DiscreteFree.MetricWedge.separated
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:15:32.030025+00:00
 -- url     : https://prove2.me/theorems/0fb93763-9da8-4944-8a21-844a0cd25929

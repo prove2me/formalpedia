@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_MetricWedge_hasAP
 -- name    : OAI.DiscreteFree.MetricWedge.hasAP
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:22:04.768898+00:00
 -- url     : https://prove2.me/theorems/c3bfec24-c301-47d6-bea4-fd9348a920e8

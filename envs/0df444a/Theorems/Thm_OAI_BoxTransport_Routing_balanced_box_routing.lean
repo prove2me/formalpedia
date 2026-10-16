@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_BoxTransport_Routing_balanced_box_routing
 -- name    : OAI.BoxTransport.Routing.balanced_box_routing
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:24.446516+00:00
 -- url     : https://prove2.me/theorems/0d095288-e129-4ccf-abfe-8a21ae40aff4

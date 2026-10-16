@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_mixedCoveredJet_normalized_complex_integral
 -- name    : OAI.Erdos3.VectorPolynomial.mixedCoveredJet_normalized_complex_integral
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T07:42:31.785682+00:00
 -- url     : https://prove2.me/theorems/e8c09b63-df24-4c9e-b5c8-f97aaf38a7a2

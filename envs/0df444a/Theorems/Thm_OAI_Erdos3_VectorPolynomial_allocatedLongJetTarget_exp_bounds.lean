@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedLongJetTarget_exp_bounds
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_exp_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:22:01.842017+00:00
 -- url     : https://prove2.me/theorems/56258e8a-c70c-4b94-9be4-0179413106f4

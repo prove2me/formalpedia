@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_continuous_guarantee_partition
 -- name    : ActuarialAnnuitiesContinuous.bc_continuous_guarantee_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:16:15.516312+00:00
 -- url     : https://prove2.me/theorems/c27b3fe1-bcc0-4067-bbe8-dbdd8d38c8bc

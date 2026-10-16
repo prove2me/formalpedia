@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_halfSpace_extension
 -- name    : HunterPDE.Compactness.halfSpace_extension
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-28T08:02:49.191651+00:00
 -- url     : https://prove2.me/theorems/4d881484-d5d9-4f52-9873-74d01637e6d0

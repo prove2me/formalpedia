@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_pure_reconcile
 -- name    : actuarial_c_pure_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:19:58.936789+00:00
 -- url     : https://prove2.me/theorems/5d44c185-c8aa-4ab9-9973-e88f5b1950b1

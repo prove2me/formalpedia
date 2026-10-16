@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_chainNetwork_edges
 -- name    : OAI.TwoWayComplementation.chainNetwork_edges
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:06:22.220624+00:00
 -- url     : https://prove2.me/theorems/0f86fbe3-d9e7-4b59-88ff-d40b7224c0b6

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_semiFredholm
 -- name    : CauchyRiemannIndex.semiFredholm
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:02:32.745097+00:00
 -- url     : https://prove2.me/theorems/8ba5b34d-cc0c-46cf-9e2b-03a9170e4568

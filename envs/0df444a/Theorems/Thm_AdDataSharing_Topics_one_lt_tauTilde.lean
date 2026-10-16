@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdDataSharing_Topics_one_lt_tauTilde
 -- name    : AdDataSharing.Topics.one_lt_tauTilde
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:36.40439+00:00
 -- url     : https://prove2.me/theorems/5a7c5819-a8aa-44c3-a8e5-963457ee5214

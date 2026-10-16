@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Planar_theorem_15
 -- name    : TaitTobin.Planar.theorem_15
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:47:42.736226+00:00
 -- url     : https://prove2.me/theorems/804f70e6-789e-4b20-9add-3fb76b790c68

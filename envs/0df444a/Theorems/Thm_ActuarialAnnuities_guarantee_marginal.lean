@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_guarantee_marginal
 -- name    : ActuarialAnnuities.guarantee_marginal
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:09:26.893973+00:00
 -- url     : https://prove2.me/theorems/d7a53a71-bfd4-4574-9ada-a89f20c4bd3f

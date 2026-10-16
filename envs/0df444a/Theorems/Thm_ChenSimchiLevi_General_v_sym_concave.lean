@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_General_v_sym_concave
 -- name    : ChenSimchiLevi.General.v_sym_concave
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:29:48.72221+00:00
 -- url     : https://prove2.me/theorems/9d2ce5b0-b006-47ce-8b81-82d3fda99bee

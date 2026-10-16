@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_micro_survival_udd
 -- name    : ActuarialAnnuities.micro_survival_udd
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:11:30.052726+00:00
 -- url     : https://prove2.me/theorems/6ebc5f93-7795-425b-8414-0174af891aff

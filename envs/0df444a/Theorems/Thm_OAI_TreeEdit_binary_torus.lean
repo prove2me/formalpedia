@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TreeEdit_binary_torus
 -- name    : OAI.TreeEdit.binary_torus
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:34.400076+00:00
 -- url     : https://prove2.me/theorems/cdd957de-5ed6-4212-8c7a-480252ad8a77

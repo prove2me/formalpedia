@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_prod_null_set_bound
 -- name    : OAI.NoiselessRegression.prod_null_set_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:45:35.465289+00:00
 -- url     : https://prove2.me/theorems/cece7d67-a128-4a7a-87a6-4c0e26d4c19d

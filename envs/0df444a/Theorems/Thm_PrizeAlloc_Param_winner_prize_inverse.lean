@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_Param_winner_prize_inverse
 -- name    : PrizeAlloc.Param.winner_prize_inverse
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T04:33:52.933773+00:00
 -- url     : https://prove2.me/theorems/607ee7d2-eb38-4514-a012-763443ea2418

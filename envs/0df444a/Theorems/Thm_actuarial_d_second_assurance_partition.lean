@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_second_assurance_partition
 -- name    : actuarial_d_second_assurance_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:03:02.648215+00:00
 -- url     : https://prove2.me/theorems/36aae19d-2f77-4c5a-8a48-e361d7bf216c

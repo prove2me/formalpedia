@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_riemannZeta_ne_zero_of_seven_eighths_lt_re
 -- name    : OAI.riemannZeta_ne_zero_of_seven_eighths_lt_re
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:41.410609+00:00
 -- url     : https://prove2.me/theorems/c6d6edcd-c882-47b6-a737-d3207e44d1b0

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AnalyticGeometry_zLaurentGT_isPrincipalIdealRing
 -- name    : AnalyticGeometry.zLaurentGT_isPrincipalIdealRing
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-19T15:10:07.032752+00:00
 -- url     : https://prove2.me/theorems/4ef01bdb-a805-45b1-ab9b-ed803dc687c2

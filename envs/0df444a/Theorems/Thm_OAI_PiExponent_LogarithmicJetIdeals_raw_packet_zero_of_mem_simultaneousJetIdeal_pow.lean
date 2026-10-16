@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_raw_packet_zero_of_mem_simultaneousJetIdeal_pow
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.raw_packet_zero_of_mem_simultaneousJetIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T00:13:55.064698+00:00
 -- url     : https://prove2.me/theorems/6ff6cd46-435e-4b4f-93a7-a11288f47a72

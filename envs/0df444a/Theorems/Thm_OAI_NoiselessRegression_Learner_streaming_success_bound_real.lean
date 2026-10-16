@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_Learner_streaming_success_bound_real
 -- name    : OAI.NoiselessRegression.Learner.streaming_success_bound_real
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:49:14.764076+00:00
 -- url     : https://prove2.me/theorems/d2d32a85-255f-4e61-8848-cbaf8c525ae2

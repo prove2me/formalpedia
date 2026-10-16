@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PermanentBorder_smooth_initial_form_lower_bound
 -- name    : OAI.PermanentBorder.smooth_initial_form_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:03.006364+00:00
 -- url     : https://prove2.me/theorems/67355e9f-c33a-429d-b121-92775d59b558

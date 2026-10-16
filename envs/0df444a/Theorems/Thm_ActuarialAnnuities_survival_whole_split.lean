@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_survival_whole_split
 -- name    : ActuarialAnnuities.survival_whole_split
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:04:36.313249+00:00
 -- url     : https://prove2.me/theorems/c5604485-1237-4459-8e24-7ea7731d3446

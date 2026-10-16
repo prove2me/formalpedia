@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_sphere_observation_quasi
 -- name    : OAI.NoiselessRegression.sphere_observation_quasi
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:36:29.815372+00:00
 -- url     : https://prove2.me/theorems/14735ba9-0829-4e76-8846-8f0dcc300be7

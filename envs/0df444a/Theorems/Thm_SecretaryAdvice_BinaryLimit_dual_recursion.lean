@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_BinaryLimit_dual_recursion
 -- name    : SecretaryAdvice.BinaryLimit.dual_recursion
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:18.376084+00:00
 -- url     : https://prove2.me/theorems/ee331e42-99b4-440a-a228-16d5a32a2a15

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_General_theorem_4_1
 -- name    : ChenSimchiLevi.General.theorem_4_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:12:00.500982+00:00
 -- url     : https://prove2.me/theorems/b892ec00-bc4b-4844-9950-2e2b05224962

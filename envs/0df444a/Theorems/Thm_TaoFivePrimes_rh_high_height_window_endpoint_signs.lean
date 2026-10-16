@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_high_height_window_endpoint_signs
 -- name    : TaoFivePrimes.rh_high_height_window_endpoint_signs
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-14T10:31:15.430856+00:00
 -- url     : https://prove2.me/theorems/1d76315c-1647-4002-954e-8ae68a71bbc5

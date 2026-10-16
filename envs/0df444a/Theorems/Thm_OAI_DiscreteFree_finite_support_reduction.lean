@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_finite_support_reduction
 -- name    : OAI.DiscreteFree.finite_support_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:59:01.621209+00:00
 -- url     : https://prove2.me/theorems/2849de46-56ae-4b08-afbb-51e7d9074991

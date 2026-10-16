@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_GraphProducer_prefixes_injective
 -- name    : OAI.DiscreteFree.GraphProducer.prefixes_injective
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:07:33.931496+00:00
 -- url     : https://prove2.me/theorems/cdfc7625-2287-4fdd-9988-f51d3d377c73

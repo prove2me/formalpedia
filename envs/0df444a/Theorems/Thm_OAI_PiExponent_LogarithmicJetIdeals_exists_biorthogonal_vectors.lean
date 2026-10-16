@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_exists_biorthogonal_vectors
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.exists_biorthogonal_vectors
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T07:49:20.611135+00:00
 -- url     : https://prove2.me/theorems/80635e34-22a1-4d7a-b248-9ace449b57e3

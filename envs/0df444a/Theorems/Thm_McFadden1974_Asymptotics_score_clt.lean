@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McFadden1974_Asymptotics_score_clt
 -- name    : McFadden1974.Asymptotics.score_clt
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:48:23.147502+00:00
 -- url     : https://prove2.me/theorems/b3d348fc-744f-49d6-a97b-97d94ba71bcd

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Periodic_exists_small_divisor
 -- name    : JRPHard.Periodic.exists_small_divisor
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:08:01.963883+00:00
 -- url     : https://prove2.me/theorems/3c77e230-7785-45e6-aa29-5ddeffd5c5bd

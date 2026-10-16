@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_rawPacketMap_zero_of_ideal_power_generator_order
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.rawPacketMap_zero_of_ideal_power_generator_order
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T11:18:06.472381+00:00
 -- url     : https://prove2.me/theorems/dbe107fd-8d10-4824-92a1-ef35aebd88e1

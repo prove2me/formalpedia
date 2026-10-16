@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicyOpt_OneDim_lemma_4_8
 -- name    : AffinePolicyOpt.OneDim.lemma_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:08:07.067107+00:00
 -- url     : https://prove2.me/theorems/14acbeb4-c851-4b52-b224-dfb218a04c0c

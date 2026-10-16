@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedNormalizedLongJetDensity_parameter_bounds
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_parameter_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:23:29.560772+00:00
 -- url     : https://prove2.me/theorems/ee15a48c-1e1e-4a1b-a2ad-f530a48a4ff8

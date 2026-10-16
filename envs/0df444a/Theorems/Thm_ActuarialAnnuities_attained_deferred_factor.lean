@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_attained_deferred_factor
 -- name    : ActuarialAnnuities.attained_deferred_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:10:43.600982+00:00
 -- url     : https://prove2.me/theorems/14e9c336-e034-4e88-97a5-deda89076997

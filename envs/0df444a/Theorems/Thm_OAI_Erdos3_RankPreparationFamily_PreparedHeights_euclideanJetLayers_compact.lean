@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_RankPreparationFamily_PreparedHeights_euclideanJetLayers_compact
 -- name    : OAI.Erdos3.RankPreparationFamily.PreparedHeights.euclideanJetLayers_compact
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T08:12:52.029751+00:00
 -- url     : https://prove2.me/theorems/c038fab4-7f60-472a-8ee6-29fad137d4e6

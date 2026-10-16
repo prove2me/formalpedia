@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Periodic_eoq_gap
 -- name    : JRPHard.Periodic.eoq_gap
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:32.173624+00:00
 -- url     : https://prove2.me/theorems/f14b9820-ca33-4be3-9632-c736d4e2a748

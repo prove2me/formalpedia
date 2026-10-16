@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for HunterPDE.Compactness.halfSpace_extension
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Mazecto
 -- created : 2026-10-15T08:37:28.258565+00:00
 -- url     : https://prove2.me/submissions/58af37db-5f54-487c-b7f0-32406e35ac1f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_HunterPDE_Compactness_memW_evenReflection
 import Theorems.Thm_HunterPDE_Compactness_eLpNorm_weakDeriv_evenReflection_le

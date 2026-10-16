@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_PortGraph_Matched_exists_based
 -- name    : OAI.DiscreteFree.PortGraph.Matched.exists_based
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:57:21.348933+00:00
 -- url     : https://prove2.me/theorems/75cd1631-2d7d-4977-afb6-96ccbc4fdbae

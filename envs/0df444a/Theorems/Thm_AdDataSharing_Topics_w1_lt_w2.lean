@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AdDataSharing_Topics_w1_lt_w2
 -- name    : AdDataSharing.Topics.w1_lt_w2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:04:53.25675+00:00
 -- url     : https://prove2.me/theorems/21428638-046f-44e4-8341-5967e80c4fbe

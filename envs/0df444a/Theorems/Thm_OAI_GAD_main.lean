@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GAD_main
 -- name    : OAI.GAD.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:41.844853+00:00
 -- url     : https://prove2.me/theorems/c4b758e9-2fc8-47c1-bc09-760760a07f8e

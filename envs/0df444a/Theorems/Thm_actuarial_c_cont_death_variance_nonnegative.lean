@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_death_variance_nonnegative
 -- name    : actuarial_c_cont_death_variance_nonnegative
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:38:31.10599+00:00
 -- url     : https://prove2.me/theorems/4a6aad11-f4a9-411c-b91f-dff702e90f06

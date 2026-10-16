@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_chainNetwork_exits
 -- name    : OAI.TwoWayComplementation.chainNetwork_exits
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:04:19.069846+00:00
 -- url     : https://prove2.me/theorems/653982d2-4aba-4d32-8a7e-28a1b3d5afde

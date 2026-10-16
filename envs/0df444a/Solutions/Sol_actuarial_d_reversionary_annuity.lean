@@ -1,0 +1,93 @@
+-- Prove2me | solution 1 for actuarial_d_reversionary_annuity
+-- status  : ACCEPTED   (prove)
+-- author  : @WillR
+-- created : 2026-10-15T19:16:09.729678+00:00
+-- url     : https://prove2.me/submissions/e6394ae4-d1f3-4a2b-a7e8-9b6bde341f8c
+
+import Mathlib.Data.Real.Basic
+import Mathlib.Algebra.BigOperators.Group.Finset.Basic
+import Mathlib.Tactic.Ring
+import Mathlib.Tactic.LinearCombination
+import Definitions.Def_actuarial_d_expect
+import Definitions.Def_actuarial_d_annPath
+import Definitions.Def_actuarial_d_annValue
+import Definitions.Def_actuarial_d_annY
+import Definitions.Def_actuarial_d_annJoint
+import Definitions.Def_actuarial_d_annRev
+import Definitions.Def_actuarial_d_alive
+import Definitions.Def_actuarial_d_both
+import Definitions.Def_actuarial_d_onlyY
+import Definitions.Def_actuarial_d_py
+import Definitions.Def_actuarial_d_pxy
+import Definitions.Def_actuarial_d_prev
+import Definitions.Def_actuarial_cm1SingleLifeAnnuity
+import Definitions.Def_actuarial_cm1JointLifeAnnuity
+import Definitions.Def_actuarial_cm1ReversionaryAnnuity
+import Theorems.Thm_actuarial_d_reversion_prob
+import Theorems.Thm_ActuarialValuation_cm1ReversionaryAnnuity_partition
+
+set_option pp.explicit true
+set_option pp.fullNames true
+set_option pp.universes true
+
+open ActuarialJointD
+
+private theorem annValue_fubini (h n : ℕ) (p : ℕ → ℕ → ℝ)
+    (d b : ℕ → ℝ) (s : ℕ → ℕ → ℕ → ℝ) :
+    annValue h n p d b s =
+      ∑ t ∈ Finset.range n, (d t * b t) * expect h p (fun i j => s i j t) := by
+  unfold annValue annPath expect
+  calc
+    (∑ i ∈ Finset.range (h+1), ∑ j ∈ Finset.range (h+1),
+        p i j * (∑ t ∈ Finset.range n, d t * b t * s i j t)) =
+      ∑ i ∈ Finset.range (h+1), ∑ j ∈ Finset.range (h+1),
+        ∑ t ∈ Finset.range n, p i j * (d t * b t * s i j t) := by
+          simp_rw [Finset.mul_sum]
+    _ = ∑ i ∈ Finset.range (h+1), ∑ t ∈ Finset.range n,
+          ∑ j ∈ Finset.range (h+1), p i j * (d t * b t * s i j t) := by
+          apply Finset.sum_congr rfl
+          intro i hi
+          rw [Finset.sum_comm]
+    _ = ∑ t ∈ Finset.range n, ∑ i ∈ Finset.range (h+1),
+          ∑ j ∈ Finset.range (h+1), p i j * (d t * b t * s i j t) := by
+          rw [Finset.sum_comm]
+    _ = ∑ t ∈ Finset.range n, (d t * b t) *
+          (∑ i ∈ Finset.range (h+1), ∑ j ∈ Finset.range (h+1),
+             p i j * s i j t) := by
+          apply Finset.sum_congr rfl
+          intro t ht
+          rw [Finset.mul_sum]
+          apply Finset.sum_congr rfl
+          intro i hi
+          rw [Finset.mul_sum]
+          apply Finset.sum_congr rfl
+          intro j hj
+          ring
+
+theorem solution (h n : ℕ) (p : ℕ → ℕ → ℝ) (d b : ℕ → ℝ) :
+    annRev h n p d b = annY h n p d b - annJoint h n p d b := by
+  let w : ℕ → ℝ := fun t => d t * b t
+  have hY : annY h n p d b =
+      ActuarialValuation.cm1SingleLifeAnnuity w (py h p) n := by
+    unfold annY
+    rw [annValue_fubini]
+    rfl
+  have hJoint : annJoint h n p d b =
+      ActuarialValuation.cm1JointLifeAnnuity w (pxy h p) n := by
+    unfold annJoint
+    rw [annValue_fubini]
+    rfl
+  have hRev : annRev h n p d b =
+      ActuarialValuation.cm1ReversionaryAnnuity w (py h p) (pxy h p) n := by
+    unfold annRev
+    rw [annValue_fubini]
+    unfold ActuarialValuation.cm1ReversionaryAnnuity
+    apply Finset.sum_congr rfl
+    intro t ht
+    change (d t * b t) * prev h p t =
+      (d t * b t) * (py h p t - pxy h p t)
+    rw [actuarial_d_reversion_prob h t p]
+  rw [hRev, hY, hJoint]
+  have hxlv := ActuarialValuation.cm1ReversionaryAnnuity_partition
+    w (py h p) (pxy h p) n
+  linear_combination hxlv

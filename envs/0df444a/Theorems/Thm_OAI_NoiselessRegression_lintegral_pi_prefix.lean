@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_lintegral_pi_prefix
 -- name    : OAI.NoiselessRegression.lintegral_pi_prefix
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:42:11.29077+00:00
 -- url     : https://prove2.me/theorems/06fedc8c-b30a-411b-93e3-d556cb1e5512

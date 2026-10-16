@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Planar_lemma_12
 -- name    : TaitTobin.Planar.lemma_12
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:47:33.801063+00:00
 -- url     : https://prove2.me/theorems/c7318f26-d7f5-42f4-9f53-70420b7cd9a9

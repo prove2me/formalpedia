@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_General_vstar_display
 -- name    : ChenSimchiLevi.General.vstar_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:29:47.379106+00:00
 -- url     : https://prove2.me/theorems/a91eb586-7525-434a-a700-4bbed8196959

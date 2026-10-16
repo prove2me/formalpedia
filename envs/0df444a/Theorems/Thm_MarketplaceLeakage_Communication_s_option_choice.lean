@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarketplaceLeakage_Communication_s_option_choice
 -- name    : MarketplaceLeakage.Communication.s_option_choice
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:46:32.373034+00:00
 -- url     : https://prove2.me/theorems/4428847b-7c9d-4a98-a6f4-839ccaf4bf4f

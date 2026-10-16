@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_AllocatedSourceNumerics_shared_width_canonical_spatial_choices
 -- name    : OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T01:03:11.518362+00:00
 -- url     : https://prove2.me/theorems/0834e457-45d0-4ab8-bbea-90f4f71cfddd

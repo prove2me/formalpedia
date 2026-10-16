@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PrizeAlloc_Interval_lemma_3
 -- name    : PrizeAlloc.Interval.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:29:35.093626+00:00
 -- url     : https://prove2.me/theorems/25ee2fa6-909c-406d-b826-9571805f1f5d

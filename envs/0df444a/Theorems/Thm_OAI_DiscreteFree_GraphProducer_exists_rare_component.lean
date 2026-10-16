@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_GraphProducer_exists_rare_component
 -- name    : OAI.DiscreteFree.GraphProducer.exists_rare_component
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:14:09.288386+00:00
 -- url     : https://prove2.me/theorems/3c37ca29-83f4-4667-a8b8-0c174a6898db

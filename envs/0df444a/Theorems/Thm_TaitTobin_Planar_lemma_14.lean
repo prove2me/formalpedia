@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Planar_lemma_14
 -- name    : TaitTobin.Planar.lemma_14
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:48:22.45915+00:00
 -- url     : https://prove2.me/theorems/59acb78d-d771-488c-9b27-db3c45d30212

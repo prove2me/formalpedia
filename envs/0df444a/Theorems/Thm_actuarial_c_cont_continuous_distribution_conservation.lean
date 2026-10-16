@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_cont_continuous_distribution_conservation
 -- name    : actuarial_c_cont_continuous_distribution_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:33:09.52898+00:00
 -- url     : https://prove2.me/theorems/574964c9-c812-486b-967f-e0abb7224b2b

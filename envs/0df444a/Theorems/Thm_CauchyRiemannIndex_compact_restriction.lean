@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_compact_restriction
 -- name    : CauchyRiemannIndex.compact_restriction
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:02:15.728563+00:00
 -- url     : https://prove2.me/theorems/4c0640bd-be9d-4105-8d88-ef7b2b46d35a

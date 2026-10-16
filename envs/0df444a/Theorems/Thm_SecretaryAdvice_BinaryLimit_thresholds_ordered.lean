@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_BinaryLimit_thresholds_ordered
 -- name    : SecretaryAdvice.BinaryLimit.thresholds_ordered
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:25.200422+00:00
 -- url     : https://prove2.me/theorems/5bbc5034-69fd-41d2-a903-0a9ad74f3a99

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_bridge_integer_survival
 -- name    : ActuarialAnnuitiesBridge.bridge_integer_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:35:57.773777+00:00
 -- url     : https://prove2.me/theorems/f0a40953-ad81-4d39-9c96-fd5790ecdc85

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CliqueFreeLog_logarithmic_independence_bound
 -- name    : OAI.CliqueFreeLog.logarithmic_independence_bound
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:26.683835+00:00
 -- url     : https://prove2.me/theorems/cfaffa5c-40cf-429d-9f01-2985fd4a3281

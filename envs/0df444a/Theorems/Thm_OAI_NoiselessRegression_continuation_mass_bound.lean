@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_continuation_mass_bound
 -- name    : OAI.NoiselessRegression.continuation_mass_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:41:18.217581+00:00
 -- url     : https://prove2.me/theorems/7528c18e-5727-4e29-b991-c60579ab6ec3

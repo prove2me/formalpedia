@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_GraphProducer_rare_matched_bound
 -- name    : OAI.DiscreteFree.GraphProducer.rare_matched_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:13:07.004987+00:00
 -- url     : https://prove2.me/theorems/c3b7607f-8faa-4ca1-94de-af9ba1535e8d

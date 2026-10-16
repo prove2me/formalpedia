@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_opposing_scalar_extension
 -- name    : OAI.DiscreteFree.opposing_scalar_extension
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:54:07.362219+00:00
 -- url     : https://prove2.me/theorems/d15c8ee2-8bdc-4ea6-9f21-8e0a72ab1259

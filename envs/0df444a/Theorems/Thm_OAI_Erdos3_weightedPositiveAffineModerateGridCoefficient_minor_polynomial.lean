@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_weightedPositiveAffineModerateGridCoefficient_minor_polynomial
 -- name    : OAI.Erdos3.weightedPositiveAffineModerateGridCoefficient_minor_polynomial
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T11:15:01.008445+00:00
 -- url     : https://prove2.me/theorems/0837e045-0d10-4e38-9594-4bb7ad2a34d7

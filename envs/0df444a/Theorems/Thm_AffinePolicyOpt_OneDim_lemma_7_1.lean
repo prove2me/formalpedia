@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicyOpt_OneDim_lemma_7_1
 -- name    : AffinePolicyOpt.OneDim.lemma_7_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:07:25.071595+00:00
 -- url     : https://prove2.me/theorems/e488bacb-458a-4136-aaeb-20e48c94d396

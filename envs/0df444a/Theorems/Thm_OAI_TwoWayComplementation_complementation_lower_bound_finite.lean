@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_complementation_lower_bound_finite
 -- name    : OAI.TwoWayComplementation.complementation_lower_bound_finite
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:35.724315+00:00
 -- url     : https://prove2.me/theorems/71d04e96-02f4-442d-a9c3-de535288a73f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_product_site
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-13T00:11:13.063634+00:00
 -- url     : https://prove2.me/submissions/2f13312b-d91f-49f2-8e99-81c907f64efa
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ErdosReciprocal

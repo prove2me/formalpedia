@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_defer_member_spouse_identity
 -- name    : actuarial_d_defer_member_spouse_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:06:59.366983+00:00
 -- url     : https://prove2.me/theorems/986c456d-dc1f-496b-bcde-592ee6822ff8

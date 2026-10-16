@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_SingleParam_single_parameter_regret_bound
 -- name    : BesbesZeevi.SingleParam.single_parameter_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:38:15.413269+00:00
 -- url     : https://prove2.me/theorems/635d1a37-4a0d-49fc-91d3-7e6db24fa336

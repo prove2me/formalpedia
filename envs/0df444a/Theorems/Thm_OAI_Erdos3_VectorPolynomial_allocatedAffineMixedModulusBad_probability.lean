@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedAffineMixedModulusBad_probability
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedAffineMixedModulusBad_probability
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T01:11:23.327975+00:00
 -- url     : https://prove2.me/theorems/557d1ef1-d34c-4722-9b32-5c27ca95bdd1

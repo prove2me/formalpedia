@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_projection_compact
 -- name    : OAI.DiscreteFree.projection_compact
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:58:26.729188+00:00
 -- url     : https://prove2.me/theorems/82b3b8be-141d-4dae-9cd7-d190e1f61636

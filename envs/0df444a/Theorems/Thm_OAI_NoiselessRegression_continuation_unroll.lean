@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_continuation_unroll
 -- name    : OAI.NoiselessRegression.continuation_unroll
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:38:53.044978+00:00
 -- url     : https://prove2.me/theorems/c5e85e39-e5c9-46ae-b133-56d3a16d485f

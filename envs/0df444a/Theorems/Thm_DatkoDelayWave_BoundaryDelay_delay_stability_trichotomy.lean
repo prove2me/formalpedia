@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DatkoDelayWave_BoundaryDelay_delay_stability_trichotomy
 -- name    : DatkoDelayWave.BoundaryDelay.delay_stability_trichotomy
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T03:01:03.043027+00:00
 -- url     : https://prove2.me/theorems/3730200e-c116-4f9e-b2ac-0bfda981c5a7

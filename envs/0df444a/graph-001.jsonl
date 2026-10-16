@@ -74993,17 +74993,17 @@
 {"parent": "ChenSimchiLevi.Additive.vt_display", "child": "ChenSimchiLevi_Additive_Model", "via": ["statement"]}
 {"parent": "ChenSimchiLevi.General.kconvex_implies_sym", "child": "BertsekasKConvex", "via": ["solution", "statement"]}
 {"parent": "ChenSimchiLevi.General.kconvex_implies_sym", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["solution", "statement"]}
-{"parent": "ChenSimchiLevi.General.lemma_5_d", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.sym_gstar_step", "child": "ChenSimchiLevi_General_Model", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.sym_gstar_step", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.theorem_4_1", "child": "ChenSimchiLevi_General_Model", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.theorem_4_1", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.theorem_4_1_a", "child": "ChenSimchiLevi_General_Model", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.theorem_4_1_b", "child": "ChenSimchiLevi_General_Model", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.v_sym_concave", "child": "ChenSimchiLevi_General_OrderEnvelope", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.v_sym_concave", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.vstar_display", "child": "ChenSimchiLevi_General_OrderEnvelope", "via": ["statement"]}
-{"parent": "ChenSimchiLevi.General.vstar_display", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["statement"]}
+{"parent": "ChenSimchiLevi.General.lemma_5_d", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.sym_gstar_step", "child": "ChenSimchiLevi_General_Model", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.sym_gstar_step", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.theorem_4_1", "child": "ChenSimchiLevi_General_Model", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.theorem_4_1", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.theorem_4_1_a", "child": "ChenSimchiLevi_General_Model", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.theorem_4_1_b", "child": "ChenSimchiLevi_General_Model", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.v_sym_concave", "child": "ChenSimchiLevi_General_OrderEnvelope", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.v_sym_concave", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.vstar_display", "child": "ChenSimchiLevi_General_OrderEnvelope", "via": ["solution", "statement"]}
+{"parent": "ChenSimchiLevi.General.vstar_display", "child": "ChenSimchiLevi_General_SymKConvex", "via": ["solution", "statement"]}
 {"parent": "ChenSimchiLevi_General_OrderEnvelope", "child": "ChenSimchiLevi_General_Model", "via": ["statement"]}
 {"parent": "ChenStein.OneVar.T_comp_S", "child": "ChenStein_OneVar_Setting", "via": ["solution", "statement"]}
 {"parent": "ChenStein.OneVar.eq_11", "child": "ChenStein_OneVar_Setting", "via": ["statement"]}
@@ -78102,7 +78102,7 @@
 {"parent": "CondatPD.FinDim.solution_of_opP_stepT_eq", "child": "CondatPD_FinDim_Setting", "via": ["statement"]}
 {"parent": "CondatPD.FinDim.stepT_continuous", "child": "CondatPD_FinDim_Setting", "via": ["statement"]}
 {"parent": "CondatPD.FinDim.stepT_factors_through_P", "child": "CondatPD_FinDim_Setting", "via": ["solution", "statement"]}
-{"parent": "CondatPD.FinDim.theorem_3_3", "child": "CondatPD_FinDim_Setting", "via": ["statement"]}
+{"parent": "CondatPD.FinDim.theorem_3_3", "child": "CondatPD_FinDim_Setting", "via": ["solution", "statement"]}
 {"parent": "CondatPD.PPA.A_maximal_monotone", "child": "CondatPD_PPA_Setting", "via": ["statement"]}
 {"parent": "CondatPD.PPA.A_maximal_monotone", "child": "ThreeOpSplitting_Convergence_MonotoneOperators", "via": ["statement"]}
 {"parent": "CondatPD.PPA.A_maximal_monotone", "child": "ThreeOpSplitting_ConvexRates_Problem", "via": ["statement"]}
@@ -89738,8 +89738,8 @@
 {"parent": "CycleCanceling.MinMean.minCost_iff_exists_price", "child": "CycleCanceling_MinMean_EpsOptimal", "via": ["solution", "statement"]}
 {"parent": "CycleCanceling.MinMean.minCost_iff_exists_price", "child": "CycleCanceling_MinMean_Network", "via": ["solution", "statement"]}
 {"parent": "CycleCanceling.MinMean.minCost_iff_no_negative_cycle", "child": "CycleCanceling_MinMean_Network", "via": ["solution", "statement"]}
-{"parent": "CycleCanceling.MinMean.minMean_run_length_le", "child": "CycleCanceling_MinMean_Algorithm", "via": ["statement"]}
-{"parent": "CycleCanceling.MinMean.minMean_run_length_le", "child": "CycleCanceling_MinMean_Network", "via": ["statement"]}
+{"parent": "CycleCanceling.MinMean.minMean_run_length_le", "child": "CycleCanceling_MinMean_Algorithm", "via": ["solution", "statement"]}
+{"parent": "CycleCanceling.MinMean.minMean_run_length_le", "child": "CycleCanceling_MinMean_Network", "via": ["solution", "statement"]}
 {"parent": "CycleCanceling_MinMean_Algorithm", "child": "CycleCanceling_MinMean_Network", "via": ["statement"]}
 {"parent": "CycleCanceling_MinMean_EpsOptimal", "child": "CycleCanceling_MinMean_Network", "via": ["statement"]}
 {"parent": "CycleLengthsExp.BetaGraph.arithmetic_p17", "child": "CycleLengthsExp_BetaGraph_Setting", "via": ["statement"]}
@@ -89754,7 +89754,7 @@
 {"parent": "CycleLengthsExp.ManyLengths.lemma_2_5", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["solution", "statement"]}
 {"parent": "CycleLengthsExp.ManyLengths.path_after_deletion", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["solution", "statement"]}
 {"parent": "CycleLengthsExp.ManyLengths.theorem_2", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["statement"]}
-{"parent": "CycleLengthsExp.ManyLengths.x0_large", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["statement"]}
+{"parent": "CycleLengthsExp.ManyLengths.x0_large", "child": "CycleLengthsExp_ManyLengths_Setting", "via": ["solution", "statement"]}
 {"parent": "CycleLengthsExp.WellSpread.ball_growth", "child": "CycleLengthsExp_WellSpread_Setting", "via": ["statement"]}
 {"parent": "CycleLengthsExp.WellSpread.lemma_2_1", "child": "CycleLengthsExp_WellSpread_Setting", "via": ["statement"]}
 {"parent": "CycleLengthsExp.WellSpread.lemma_2_2", "child": "CycleLengthsExp_WellSpread_Setting", "via": ["statement"]}
@@ -90321,7 +90321,7 @@
 {"parent": "DataDrivenRO.KS.nemirovski_shapiro", "child": "DataDrivenRO_KS_Setting", "via": ["solution", "statement"]}
 {"parent": "DataDrivenRO.KS.qL_qR_mem_ksRegion", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
 {"parent": "DataDrivenRO.KS.support_lagrangian", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
-{"parent": "DataDrivenRO.KS.theorem_5", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
+{"parent": "DataDrivenRO.KS.theorem_5", "child": "DataDrivenRO_KS_Setting", "via": ["solution", "statement"]}
 {"parent": "DataDrivenRO.KS.theorem_EC_2", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
 {"parent": "DataDrivenRO.KS.theta_endpoint", "child": "DataDrivenRO_KS_Setting", "via": ["solution", "statement"]}
 {"parent": "DataDrivenRO.KS.var_le_worst_case_bound", "child": "DataDrivenRO_KS_Setting", "via": ["statement"]}
@@ -90349,7 +90349,7 @@
 {"parent": "DataDrivenRO_Marginal_Setting", "child": "RobustMDP_Shared_supportFunction", "via": ["statement"]}
 {"parent": "DataDrivenRO_Moment_Setting", "child": "MultistageStochastic_RiskFunctional", "via": ["statement"]}
 {"parent": "DataDrivenRO_Moment_Setting", "child": "RobustMDP_Shared_supportFunction", "via": ["statement"]}
-{"parent": "DatkoDelayWave.BoundaryDelay.delay_stability_trichotomy", "child": "DatkoDelayWave_BoundaryDelay_DelayedWave", "via": ["statement"]}
+{"parent": "DatkoDelayWave.BoundaryDelay.delay_stability_trichotomy", "child": "DatkoDelayWave_BoundaryDelay_DelayedWave", "via": ["solution", "statement"]}
 {"parent": "DatkoDelayWave.BoundaryDelay.eq12_15_root_above_threshold", "child": "DatkoDelayWave_BoundaryDelay_DelayedWave", "via": ["statement"]}
 {"parent": "DatkoDelayWave.BoundaryDelay.eq15_delays_dense", "child": "DatkoDelayWave_BoundaryDelay_DelayedWave", "via": ["solution", "statement"]}
 {"parent": "DatkoDelayWave.BoundaryDelay.eq16_characteristic_equation", "child": "DatkoDelayWave_BoundaryDelay_DelayedWave", "via": ["statement"]}

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedPhysicalGridApproximation_error
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @dbenbenn
 -- created : 2026-10-09T17:16:39.593085+00:00
 -- url     : https://prove2.me/submissions/c3819130-a713-44d7-90ff-9884fe1d0d02
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_ErdosReciprocal

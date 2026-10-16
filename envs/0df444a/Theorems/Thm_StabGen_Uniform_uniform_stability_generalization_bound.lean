@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_StabGen_Uniform_uniform_stability_generalization_bound
 -- name    : StabGen.Uniform.uniform_stability_generalization_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T17:11:08.701986+00:00
 -- url     : https://prove2.me/theorems/4459232e-6f13-4b7f-8949-76d3e3391a0f

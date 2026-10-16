@@ -13,9 +13,9 @@
 --
 --   **Proof.** $\bar F$ and $F$ are exchanged by conjugation, so the span is conjugation-stable (induction on the span). With $x = (1, u^2)$ and $y = (\bar u, u + s, \bar F)$ the six products are $\bar u$, $u + s$, $\bar F$, $s^2u$, $s^3F$ and $s\bar u + s^2$; they give back $1, u, \bar u, F, \bar F$, so they span $W_1$, and both families are free by `DiazModulus.laurent_cubic_space_excludes_squares_and_reciprocals`. Invisibility is Theorem B (`DiazModulus.circle_point_extension_two_by_three_configuration_iff`) and exchange against the same node's exclusions.
 --
---   **Novelty.** Not found in the sources read; it is short.
+--   **Novelty.** The configuration is printed: rescaled by $u^{\mp 1}$, it is the configuration $(v, \bar v) \otimes (1, w, \bar w)$ of Diaz (2007, Th. 7(1)) at $v = u$, $w = u^2 + su$ (credited here on 16 October 2026). That no four-dimensional extension of $H_0$ inside $W_1$ carries a configuration was not found in the sources read; it is routine.
 -- source:
---   Not found in the sources read. Uses DiazModulus.circle_point_extension_two_by_three_configuration_iff (Theorem B of the Diaz modulus mission). R14 of the Diaz modulus mission. Formal proof: Diaz modulus mission, 14 October 2026 (C. Perassi).
+--   The configuration is that of G. Diaz, Produits et quotients de combinaisons linéaires de logarithmes de nombres algébriques : conjectures et résultats partiels, J. Théor. Nombres Bordeaux 19 (2007), 373–391, Th. 7(1) (p. 390), at v = u, w = u² + su. That no four-dimensional extension inside W₁ carries one was not found in the sources read. Uses DiazModulus.circle_point_extension_two_by_three_configuration_iff (Theorem B of the Diaz modulus mission). R14 of the Diaz modulus mission. Formal proof: Diaz modulus mission, 14 October 2026 (C. Perassi).
 
 import Definitions.Def_DiazModulus
 

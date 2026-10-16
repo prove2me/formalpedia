@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_liftLogSeries_coeff_truncation
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.liftLogSeries_coeff_truncation
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:41:32.656142+00:00
 -- url     : https://prove2.me/theorems/d49230b8-4c14-40e6-ab28-9b39557a0bff

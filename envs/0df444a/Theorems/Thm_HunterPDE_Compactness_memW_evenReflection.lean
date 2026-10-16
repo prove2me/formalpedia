@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_memW_evenReflection
 -- name    : HunterPDE.Compactness.memW_evenReflection
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-15T08:36:28.680345+00:00
 -- url     : https://prove2.me/theorems/7cc95f3e-8fe7-4997-b1d3-255ac9827bf2

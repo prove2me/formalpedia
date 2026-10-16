@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_jetCoordinate_pow_coeff_zero_of_weight_lt
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_jetCoordinate_pow_coeff_zero_of_weight_lt
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T11:17:39.971793+00:00
 -- url     : https://prove2.me/theorems/50cc4330-0cfa-4a8f-a51d-d9e4975b8f5a

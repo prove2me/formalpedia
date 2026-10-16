@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_exists_allocated_spatial_chart_event_comparison
 -- name    : OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_chart_event_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:51:49.761968+00:00
 -- url     : https://prove2.me/theorems/33ad3f00-caee-4a92-ac16-1341b7246823

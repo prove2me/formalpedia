@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HunterPDE_Compactness_eLpNorm_weakDeriv_evenReflection_le
 -- name    : HunterPDE.Compactness.eLpNorm_weakDeriv_evenReflection_le
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-15T08:36:32.145914+00:00
 -- url     : https://prove2.me/theorems/aaaa6d73-2add-421c-a483-929202c4ddf3

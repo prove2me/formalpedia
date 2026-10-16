@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_finite_family_linear_functional_interpolation_over_field
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.finite_family_linear_functional_interpolation_over_field
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T07:04:46.14698+00:00
 -- url     : https://prove2.me/theorems/328963de-ee6b-4ad7-8a04-6fdd4910bb5c

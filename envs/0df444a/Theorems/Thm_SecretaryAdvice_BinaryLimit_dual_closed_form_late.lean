@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecretaryAdvice_BinaryLimit_dual_closed_form_late
 -- name    : SecretaryAdvice.BinaryLimit.dual_closed_form_late
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T00:43:28.48998+00:00
 -- url     : https://prove2.me/theorems/33798ebc-fecd-443d-8f9f-b5736693d048

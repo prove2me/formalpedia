@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_high_height_window_count_le
 -- name    : TaoFivePrimes.rh_high_height_window_count_le
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-14T10:27:50.92598+00:00
 -- url     : https://prove2.me/theorems/42dd7826-1092-43d5-91cb-66c95209a26d

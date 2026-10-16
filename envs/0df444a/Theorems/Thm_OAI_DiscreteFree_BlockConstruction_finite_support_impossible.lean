@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_BlockConstruction_finite_support_impossible
 -- name    : OAI.DiscreteFree.BlockConstruction.finite_support_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:14:40.929256+00:00
 -- url     : https://prove2.me/theorems/08d04ec3-19aa-4c8b-8f90-c6f14de7898b

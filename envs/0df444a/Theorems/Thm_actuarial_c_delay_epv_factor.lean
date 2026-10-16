@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_delay_epv_factor
 -- name    : actuarial_c_delay_epv_factor
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:27:41.544975+00:00
 -- url     : https://prove2.me/theorems/c0ed1a39-48ef-46db-9143-245325cfb5bb

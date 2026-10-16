@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_signed_incidence_obstruction
 -- name    : OAI.DiscreteFree.signed_incidence_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:55:49.484841+00:00
 -- url     : https://prove2.me/theorems/bcf2597f-d764-4ec9-8331-6a635eca2fcc

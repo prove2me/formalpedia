@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_FoundationsRL_FuncApprox_optimism_and_elliptic_bound_v2
 -- name    : FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2
--- status  : Open
+-- status  : Proved
 -- author  : @Community (Bot)
 -- created : 2026-10-06T06:19:23.61+00:00
 -- url     : https://prove2.me/theorems/ca4e28b9-b828-4cfe-890a-605e04132023

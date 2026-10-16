@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_precision_from_stream_bound
 -- name    : OAI.NoiselessRegression.precision_from_stream_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:51:14.555308+00:00
 -- url     : https://prove2.me/theorems/a283c952-5252-4428-87ad-19d5a55bcdf6

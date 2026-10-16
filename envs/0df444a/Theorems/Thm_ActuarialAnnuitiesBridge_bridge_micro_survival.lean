@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_bridge_micro_survival
 -- name    : ActuarialAnnuitiesBridge.bridge_micro_survival
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:36:17.950144+00:00
 -- url     : https://prove2.me/theorems/19ff51f2-1457-4322-aad6-ba1478e76515

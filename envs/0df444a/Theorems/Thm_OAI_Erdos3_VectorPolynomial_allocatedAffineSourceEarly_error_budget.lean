@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedAffineSourceEarly_error_budget
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedAffineSourceEarly_error_budget
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T09:48:08.714782+00:00
 -- url     : https://prove2.me/theorems/6116b044-a040-4bab-91c4-590fc135379d

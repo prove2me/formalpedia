@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SingleMachinePrec_IntervalChromatic_theorem_4_3
 -- name    : SingleMachinePrec.IntervalChromatic.theorem_4_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T01:29:51.993415+00:00
 -- url     : https://prove2.me/theorems/c972fddb-6208-45e2-9059-888826ab7461

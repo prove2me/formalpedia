@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem346_canonical_foulkes_howe_surjective
 -- name    : OAI.Problem346.canonical_foulkes_howe_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:10.490217+00:00
 -- url     : https://prove2.me/theorems/84954022-825d-4d39-b112-081887d21f62

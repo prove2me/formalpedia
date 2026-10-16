@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedSupportedSlicedGridDensity_approximation_on_cover
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedGridDensity_approximation_on_cover
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T16:01:00.799083+00:00
 -- url     : https://prove2.me/theorems/34b271bb-b8bd-4151-9f35-b93712ddd775

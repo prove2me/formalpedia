@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_source_endpoints
 -- name    : OAI.DiscreteFree.source_endpoints
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:35.804655+00:00
 -- url     : https://prove2.me/theorems/6b486d37-32f3-418d-9b5c-88de626d0fb6

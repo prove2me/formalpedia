@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_labelBump_sub
 -- name    : OAI.DiscreteFree.labelBump_sub
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:02:04.547934+00:00
 -- url     : https://prove2.me/theorems/98396ee7-e6d5-4180-9bc7-cd3d52a1fe14

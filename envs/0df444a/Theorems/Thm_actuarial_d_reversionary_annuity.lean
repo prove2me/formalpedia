@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_reversionary_annuity
 -- name    : actuarial_d_reversionary_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:00:30.097983+00:00
 -- url     : https://prove2.me/theorems/f7bc1cea-a526-4f94-9541-bdea1de324cc

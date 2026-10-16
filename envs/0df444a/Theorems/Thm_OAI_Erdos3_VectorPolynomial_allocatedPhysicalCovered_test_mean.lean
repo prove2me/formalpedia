@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedPhysicalCovered_test_mean
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedPhysicalCovered_test_mean
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:19:14.816254+00:00
 -- url     : https://prove2.me/theorems/1ddd5daa-d2c5-4554-89c7-8efc7b139096

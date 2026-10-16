@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleCanceling_MinMean_minMean_run_length_le
 -- name    : CycleCanceling.MinMean.minMean_run_length_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-26T21:15:42.190349+00:00
 -- url     : https://prove2.me/theorems/57904148-e4aa-4438-b606-48df7a6fe5f9

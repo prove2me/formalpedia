@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_thermodynamic_temperature
 -- name    : SecondLawThermo.thermodynamic_temperature
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:32:07.96743+00:00
 -- url     : https://prove2.me/theorems/79732920-55bf-49dd-87f8-bc20491793e2

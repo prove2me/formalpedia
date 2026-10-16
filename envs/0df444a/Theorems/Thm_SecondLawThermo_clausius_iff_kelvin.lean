@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SecondLawThermo_clausius_iff_kelvin
 -- name    : SecondLawThermo.clausius_iff_kelvin
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:27:31.220718+00:00
 -- url     : https://prove2.me/theorems/96f62a61-873c-447d-9f1a-87f81aa7df28

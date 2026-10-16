@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_jointSlicedProfileValue_unit_comparison
 -- name    : OAI.Erdos3.jointSlicedProfileValue_unit_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:18:59.281305+00:00
 -- url     : https://prove2.me/theorems/caa8a864-8a0b-4869-aeb0-55bc2aecc4cc

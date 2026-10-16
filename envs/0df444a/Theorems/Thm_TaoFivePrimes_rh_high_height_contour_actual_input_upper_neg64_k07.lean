@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaoFivePrimes_rh_high_height_contour_actual_input_upper_neg64_k07
 -- name    : TaoFivePrimes.rh_high_height_contour_actual_input_upper_neg64_k07
--- status  : Open
+-- status  : Proved
 -- author  : @raresbuhai
 -- created : 2026-10-15T07:54:21.836989+00:00
 -- url     : https://prove2.me/theorems/f60f60ae-508d-4d08-8383-f4d30c023a81

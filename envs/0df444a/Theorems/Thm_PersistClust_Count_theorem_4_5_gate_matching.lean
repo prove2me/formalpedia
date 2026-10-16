@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_theorem_4_5_gate_matching
 -- name    : PersistClust.Count.theorem_4_5_gate_matching
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-12T05:57:48.17218+00:00
 -- url     : https://prove2.me/theorems/ff828e65-33b6-4791-b71e-6ccb08c9be0e

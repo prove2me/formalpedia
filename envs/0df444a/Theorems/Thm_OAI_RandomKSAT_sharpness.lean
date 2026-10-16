@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_RandomKSAT_sharpness
 -- name    : OAI.RandomKSAT.sharpness
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:14.520457+00:00
 -- url     : https://prove2.me/theorems/525931ab-6241-48f7-b498-acd4a188cf28

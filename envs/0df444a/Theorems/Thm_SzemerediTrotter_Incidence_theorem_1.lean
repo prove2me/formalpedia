@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SzemerediTrotter_Incidence_theorem_1
 -- name    : SzemerediTrotter.Incidence.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-09-29T11:20:04.420105+00:00
 -- url     : https://prove2.me/theorems/16b72252-3a40-4101-9932-b0a184530042

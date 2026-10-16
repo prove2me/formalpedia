@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_increasing_insurance_annuity
 -- name    : actuarial_c_increasing_insurance_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:29:37.914118+00:00
 -- url     : https://prove2.me/theorems/56c1cb8a-c7e2-45bf-9323-fca02425f985

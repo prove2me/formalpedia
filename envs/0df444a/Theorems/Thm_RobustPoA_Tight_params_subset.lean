@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RobustPoA_Tight_params_subset
 -- name    : RobustPoA.Tight.params_subset
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T00:49:48.612581+00:00
 -- url     : https://prove2.me/theorems/83535a41-bd37-49ae-8bf0-93df0eac020d

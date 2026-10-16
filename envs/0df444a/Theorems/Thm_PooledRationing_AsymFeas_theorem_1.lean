@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledRationing_AsymFeas_theorem_1
 -- name    : PooledRationing.AsymFeas.theorem_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:31:37.418385+00:00
 -- url     : https://prove2.me/theorems/83d5563b-6b64-4e3b-886d-75e8cf3284fc

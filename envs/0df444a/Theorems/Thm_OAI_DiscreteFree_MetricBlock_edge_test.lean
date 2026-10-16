@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_MetricBlock_edge_test
 -- name    : OAI.DiscreteFree.MetricBlock.edge_test
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:06:09.61663+00:00
 -- url     : https://prove2.me/theorems/35f716f3-3caf-4c9d-a1ba-c063c2778687

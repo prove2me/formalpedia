@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AffinePolicyOpt_OneDim_theorem_3_1
 -- name    : AffinePolicyOpt.OneDim.theorem_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T13:07:34.734158+00:00
 -- url     : https://prove2.me/theorems/172ae934-b5a3-4dbd-bbea-6895449b21da

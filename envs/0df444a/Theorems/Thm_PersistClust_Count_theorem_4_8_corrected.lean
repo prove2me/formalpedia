@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_theorem_4_8_corrected
 -- name    : PersistClust.Count.theorem_4_8_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @fabianroll
 -- created : 2026-10-12T14:27:19.552322+00:00
 -- url     : https://prove2.me/theorems/6b9ad4c5-ed11-4695-b810-2a1269327d27

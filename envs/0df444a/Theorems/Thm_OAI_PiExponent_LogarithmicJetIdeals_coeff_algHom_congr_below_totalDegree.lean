@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_coeff_algHom_congr_below_totalDegree
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.coeff_algHom_congr_below_totalDegree
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:41:07.022728+00:00
 -- url     : https://prove2.me/theorems/4ac9d6bd-b061-4d0c-997c-c19129e934a2

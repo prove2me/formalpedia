@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_last_prob_inclusion
 -- name    : actuarial_d_last_prob_inclusion
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:03:18.631284+00:00
 -- url     : https://prove2.me/theorems/b5504409-fadd-4859-9ad6-0b38fde67695

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PooledRationing_AsymFeas_minimax_display
 -- name    : PooledRationing.AsymFeas.minimax_display
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T02:31:35.363617+00:00
 -- url     : https://prove2.me/theorems/2485c118-78c2-4801-bd70-7bbd16f894bc

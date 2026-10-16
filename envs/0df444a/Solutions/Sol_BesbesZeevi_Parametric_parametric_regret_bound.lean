@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BesbesZeevi.Parametric.parametric_regret_bound
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Nickrobbins95
 -- created : 2026-10-08T13:38:21.176344+00:00
 -- url     : https://prove2.me/submissions/8d1e89a3-7d8e-40b9-b468-2d9669e4b178
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_BesbesZeevi_Parametric_Algorithm

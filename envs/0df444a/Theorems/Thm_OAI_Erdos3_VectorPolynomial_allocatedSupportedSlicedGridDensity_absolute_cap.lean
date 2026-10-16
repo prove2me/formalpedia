@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedSupportedSlicedGridDensity_absolute_cap
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedGridDensity_absolute_cap
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T16:11:57.447807+00:00
 -- url     : https://prove2.me/theorems/1c6154a7-4de7-429f-9914-d08c3528b4d8

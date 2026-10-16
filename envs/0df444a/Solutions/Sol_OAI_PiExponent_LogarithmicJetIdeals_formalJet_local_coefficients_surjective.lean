@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.formalJet_local_coefficients_surjective
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:23:44.558685+00:00
 -- url     : https://prove2.me/submissions/8f59c59a-6706-48cb-95cf-8def52e0b05f
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_finite_coefficients_surjective
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation

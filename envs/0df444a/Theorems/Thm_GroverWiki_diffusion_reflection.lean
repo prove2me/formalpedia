@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroverWiki_diffusion_reflection
 -- name    : GroverWiki.diffusion_reflection
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:37:33.219338+00:00
 -- url     : https://prove2.me/theorems/97f99844-14b8-4a03-9294-49864a19b7de

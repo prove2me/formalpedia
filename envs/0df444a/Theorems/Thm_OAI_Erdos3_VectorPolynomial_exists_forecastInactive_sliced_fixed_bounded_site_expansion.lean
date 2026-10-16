@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_exists_forecastInactive_sliced_fixed_bounded_site_expansion
 -- name    : OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_bounded_site_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T05:59:43.750354+00:00
 -- url     : https://prove2.me/theorems/e4dd2b54-a59e-4ee1-9a7a-4d0f89a509dd

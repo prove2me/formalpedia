@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroverWiki_phaseOracle_reflection_perp
 -- name    : GroverWiki.phaseOracle_reflection_perp
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:36:25.441982+00:00
 -- url     : https://prove2.me/theorems/a3ccf7b7-e841-4be4-9f1e-0d3a94f47903

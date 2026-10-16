@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_TwoNFA_diagram_representation
 -- name    : OAI.TwoWayComplementation.TwoNFA.diagram_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:10:53.955493+00:00
 -- url     : https://prove2.me/theorems/37a1ef19-06c2-49e1-9926-62dec08c7e98

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Aperiodic_reduction_to_2
 -- name    : JRPHard.Aperiodic.reduction_to_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:13.171247+00:00
 -- url     : https://prove2.me/theorems/f254a9b5-2b88-4895-b74c-38a52470d1cc

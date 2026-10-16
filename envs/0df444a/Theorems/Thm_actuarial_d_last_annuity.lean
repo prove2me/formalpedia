@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_last_annuity
 -- name    : actuarial_d_last_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:59:53.350683+00:00
 -- url     : https://prove2.me/theorems/c076cf34-b2dd-4711-979b-808dd9e00727

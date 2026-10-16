@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_McFadden1974_Asymptotics_mle_consistent_asymptotically_normal
 -- name    : McFadden1974.Asymptotics.mle_consistent_asymptotically_normal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-04T18:48:32.433198+00:00
 -- url     : https://prove2.me/theorems/65b64d64-6c3c-485c-8e30-ff91f61766e6

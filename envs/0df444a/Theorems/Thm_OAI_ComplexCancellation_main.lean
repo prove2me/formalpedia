@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ComplexCancellation_main
 -- name    : OAI.ComplexCancellation.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:28.080626+00:00
 -- url     : https://prove2.me/theorems/2e35d076-2214-429e-ae89-f02ba353cfb0

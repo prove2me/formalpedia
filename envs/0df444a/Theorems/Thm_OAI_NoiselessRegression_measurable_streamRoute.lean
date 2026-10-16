@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_NoiselessRegression_measurable_streamRoute
 -- name    : OAI.NoiselessRegression.measurable_streamRoute
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:37:35.477126+00:00
 -- url     : https://prove2.me/theorems/648a8044-ec3e-4044-b787-23d96e119261

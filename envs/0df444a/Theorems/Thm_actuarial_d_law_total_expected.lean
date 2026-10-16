@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_law_total_expected
 -- name    : actuarial_d_law_total_expected
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:04:27.365469+00:00
 -- url     : https://prove2.me/theorems/ef0b302f-fc51-4faa-ab82-4d2616171344

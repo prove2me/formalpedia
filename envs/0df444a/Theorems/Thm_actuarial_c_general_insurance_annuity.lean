@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_general_insurance_annuity
 -- name    : actuarial_c_general_insurance_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:29:26.072982+00:00
 -- url     : https://prove2.me/theorems/81a1acc0-1e27-485a-9bbc-f63e2a7322f0

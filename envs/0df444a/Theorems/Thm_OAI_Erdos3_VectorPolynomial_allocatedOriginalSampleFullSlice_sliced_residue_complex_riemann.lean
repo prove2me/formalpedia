@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedOriginalSampleFullSlice_sliced_residue_complex_riemann
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedOriginalSampleFullSlice_sliced_residue_complex_riemann
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T23:39:45.045651+00:00
 -- url     : https://prove2.me/theorems/1356b4d2-1857-4546-beac-bdbc519b64f7

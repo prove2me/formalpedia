@@ -18035,7 +18035,7 @@
 {"parent": "OAI.BoundedRecovery.bounded_recovery", "child": "BoundedRecovery", "via": ["statement"]}
 {"parent": "OAI.BoundedTreePotentials.TreeCalculus.main_counterexample", "child": "BoundedTreePotentials", "via": ["statement"]}
 {"parent": "OAI.BoundedTreewidthL1.main_theorem", "child": "BoundedTreewidthL1", "via": ["statement"]}
-{"parent": "OAI.BoxTransport.Routing.balanced_box_routing", "child": "BalancedBoxRouting", "via": ["statement"]}
+{"parent": "OAI.BoxTransport.Routing.balanced_box_routing", "child": "BalancedBoxRouting", "via": ["solution", "statement"]}
 {"parent": "OAI.Brennan.Sharp.sharp_endpoints", "child": "BrennanSharp", "via": ["statement"]}
 {"parent": "OAI.Brennan.main_theorem", "child": "Brennan", "via": ["statement"]}
 {"parent": "OAI.BufferedIsing.finite_graph_comparison", "child": "BufferedIsing", "via": ["solution", "statement"]}
@@ -18062,7 +18062,7 @@
 {"parent": "OAI.CirculantHadamard.Barker.even_length_eq_two_or_four", "child": "EvenBarker", "via": ["statement"]}
 {"parent": "OAI.CirculantHadamard.exists_iff_order_one_or_four", "child": "CirculantHadamard", "via": ["statement"]}
 {"parent": "OAI.ClassicalON.main", "child": "ClassicalON", "via": ["statement"]}
-{"parent": "OAI.CliqueFreeLog.logarithmic_independence_bound", "child": "CliqueFreeLog", "via": ["statement"]}
+{"parent": "OAI.CliqueFreeLog.logarithmic_independence_bound", "child": "CliqueFreeLog", "via": ["solution", "statement"]}
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.smooth_isometric_immersion", "child": "SurfaceImmersion", "via": ["statement"]}
 {"parent": "OAI.CoarseAssembly.bounded_geometry_graph_counterexample_unconditional", "child": "CoarseAssembly", "via": ["statement"]}
 {"parent": "OAI.CoboundaryExpanders.main", "child": "CoboundaryExpanders", "via": ["statement"]}
@@ -18070,7 +18070,7 @@
 {"parent": "OAI.ComparatorModel.CurrentMain.main", "child": "UniformGamma", "via": ["statement"]}
 {"parent": "OAI.ComparatorModel.RecursivePotentials.main", "child": "RecursivePotentials", "via": ["statement"]}
 {"parent": "OAI.CompleteCrouzeix.main", "child": "CompleteCrouzeix", "via": ["statement"]}
-{"parent": "OAI.ComplexCancellation.main", "child": "ComplexCancellation", "via": ["statement"]}
+{"parent": "OAI.ComplexCancellation.main", "child": "ComplexCancellation", "via": ["solution", "statement"]}
 {"parent": "OAI.ContingencyTables.boundedSampling", "child": "ContingencyTables", "via": ["statement"]}
 {"parent": "OAI.ContingencyTables.counting", "child": "ContingencyTables", "via": ["statement"]}
 {"parent": "OAI.ContingencyTables.exactSampling", "child": "ContingencyTables", "via": ["statement"]}
@@ -18182,8 +18182,8 @@
 {"parent": "OAI.DirectionalTransience.directional_transience_implies_ballisticity", "child": "DirectionalBallisticity", "via": ["statement"]}
 {"parent": "OAI.DirectionalTransience.positive_probability_transience_velocity_hemisphere", "child": "VelocityHemisphere", "via": ["solution", "statement"]}
 {"parent": "OAI.DirectionalZeroOne.directional_zero_one", "child": "DirectionalWalk", "via": ["statement"]}
-{"parent": "OAI.DiscreteFree.real_l1_quantitative_renorming", "child": "RealL1Renorming", "via": ["statement"]}
-{"parent": "OAI.DiscreteFree.source_endpoints", "child": "DiscreteLipschitzFree", "via": ["statement"]}
+{"parent": "OAI.DiscreteFree.real_l1_quantitative_renorming", "child": "RealL1Renorming", "via": ["solution", "statement"]}
+{"parent": "OAI.DiscreteFree.source_endpoints", "child": "DiscreteLipschitzFree", "via": ["solution", "statement"]}
 {"parent": "OAI.Dixmier.current_main_theorem", "child": "DixmierAllDiscrete", "via": ["solution", "statement"]}
 {"parent": "OAI.Dixmier.main_theorem_all_universes", "child": "Dixmier", "via": ["solution", "statement"]}
 {"parent": "OAI.DoublingHilbert.main", "child": "DoublingHilbert", "via": ["solution", "statement"]}
@@ -18192,7 +18192,7 @@
 {"parent": "OAI.EditApproximation.almostLinearEditDistanceRawBand", "child": "EditApproximation", "via": ["statement"]}
 {"parent": "OAI.EilenbergGanea.source_main", "child": "EilenbergGanea", "via": ["statement"]}
 {"parent": "OAI.Elasticity.global_uniqueness", "child": "ElasticityUniqueness", "via": ["statement"]}
-{"parent": "OAI.EntropyPhotonNumber.entropy_photon_number_inequality", "child": "EntropyPhotonNumber", "via": ["statement"]}
+{"parent": "OAI.EntropyPhotonNumber.entropy_photon_number_inequality", "child": "EntropyPhotonNumber", "via": ["solution", "statement"]}
 {"parent": "OAI.EntropyRateDimension.Extensions.homogeneous_dimension_direct", "child": "SelfSimilarCorollaries", "via": ["statement"]}
 {"parent": "OAI.EntropyRateDimension.entropy_rate_dimension", "child": "SelfSimilar", "via": ["statement"]}
 {"parent": "OAI.Erdos3.BooleanCubeKernel.referenceJetEnvelopeWidths_trimmed", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
@@ -18232,14 +18232,14 @@
 {"parent": "OAI.Erdos3.LocalConvolution.exists_unbalanced_bohr_second_moment_at_scale", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.LocalConvolution.exists_unbalanced_bohr_second_moment_at_scale", "child": "OAI.Erdos3.LocalConvolution.exists_sifted_almostPeriods", "via": ["solution"]}
 {"parent": "OAI.Erdos3.LocalConvolution.exists_unbalanced_bohr_second_moment_at_scale", "child": "OAIErdos3B090", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.PolynomialIntervalPowerBound.lattice_recurrence", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.PolynomialIntervalPowerBound.lattice_recurrence", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.PolynomialIntervalPowerBound.lattice_recurrence", "child": "OAIErdos3B039", "via": ["statement"]}
-{"parent": "OAI.Erdos3.PositiveShiftBasis.exists_native_detector_contradiction", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.PositiveShiftBasis.exists_native_detector_contradiction", "child": "OAIErdos3B202", "via": ["statement"]}
+{"parent": "OAI.Erdos3.PositiveShiftBasis.exists_native_detector_contradiction", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.PositiveShiftBasis.exists_native_detector_contradiction", "child": "OAIErdos3B202", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.PositiveShiftBasis.exists_prescribed_common_factorization", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.PositiveShiftBasis.exists_prescribed_common_factorization", "child": "OAIErdos3B202", "via": ["statement"]}
-{"parent": "OAI.Erdos3.RankPreparationFamily.PreparedHeights.euclideanJetLayers_compact", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.RankPreparationFamily.PreparedHeights.euclideanJetLayers_compact", "child": "OAIErdos3B129", "via": ["statement"]}
+{"parent": "OAI.Erdos3.RankPreparationFamily.PreparedHeights.euclideanJetLayers_compact", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.RankPreparationFamily.PreparedHeights.euclideanJetLayers_compact", "child": "OAIErdos3B129", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_controlled_lower_refiltered_reconstruction", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_controlled_lower_refiltered_reconstruction", "child": "OAIErdos3B042", "via": ["statement"]}
 {"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_controlled_lower_refiltered_reconstruction", "child": "OAIErdos3B056", "via": ["solution"]}
@@ -18255,7 +18255,7 @@
 {"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_prescribed_square_image_partition", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_prescribed_square_image_partition", "child": "OAIErdos3B042", "via": ["solution"]}
 {"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_prescribed_square_image_partition", "child": "OAIErdos3B107", "via": ["statement"]}
-{"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_scored_native_chart", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_scored_native_chart", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.RationalFilteredNilmanifold.exists_scored_native_chart", "child": "OAIErdos3B034", "via": ["statement"]}
 {"parent": "OAI.Erdos3.RelativePatchSliceConclusion.congr_input", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.RelativePatchSliceConclusion.congr_input", "child": "OAIErdos3B100", "via": ["solution", "statement"]}
@@ -18265,10 +18265,10 @@
 {"parent": "OAI.Erdos3.RepresentativeWindow.crtPatch_value_residues", "child": "OAIErdos3B011", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.ResidueBoxSlice.fiberKernelProgression_contained", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.ResidueBoxSlice.fiberKernelProgression_contained", "child": "OAIErdos3B147", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices", "child": "OAIErdos3B054", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices", "child": "OAIErdos3B131", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices", "child": "OAIErdos3B171", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices", "child": "OAIErdos3B171", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.AllocatedSourceNumerics.shared_width_canonical_spatial_choices", "child": "OAIErdos3B172", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.NormalizedPolynomialTwist.forecastShortGridTest_originalSample_eq_eval", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.NormalizedPolynomialTwist.forecastShortGridTest_originalSample_eq_eval", "child": "OAIErdos3B167", "via": ["solution", "statement"]}
@@ -18280,14 +18280,14 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoefficientComparison_of_reference", "child": "OAIErdos3B136", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredComparison_of_coefficient", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredComparison_of_coefficient", "child": "OAIErdos3B136", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_mean_test_integral", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_mean_test_integral", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_mean_test_integral", "child": "OAIErdos3B169", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_mean_test_integral", "child": "OAIErdos3B170", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_mean_test_integral", "child": "OAIErdos3B170", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_mean_test_integral", "child": "OAIErdos3B176", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "OAIErdos3B140", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "OAIErdos3B169", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "OAIErdos3B170", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "OAIErdos3B140", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "OAIErdos3B169", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineCoveredProfile_test_integral", "child": "OAIErdos3B170", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineIdeal_l1", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineIdeal_l1", "child": "OAIErdos3B136", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineIdeal_l1", "child": "OAIErdos3B143", "via": ["statement"]}
@@ -18306,20 +18306,20 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLength_slice_ready", "child": "OAIErdos3B133", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_image_law", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_image_law", "child": "OAIErdos3B136", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_residue_error", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_residue_error", "child": "OAIErdos3B136", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_residue_error", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_residue_error", "child": "OAIErdos3B136", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_zero_off_ball", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_zero_off_ball", "child": "OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_zero_off_ball", "via": ["solution"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineLongJetProxy_zero_off_ball", "child": "OAIErdos3B136", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineMixedModulusBad_probability", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineMixedModulusBad_probability", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineMixedModulusBad_probability", "child": "OAIErdos3B130", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineMixedModulusBad_probability", "child": "OAIErdos3B147", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineMixedModulusBad_probability", "child": "OAIErdos3B147", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineRowIdeal_cutoff_fixes_mean", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineRowIdeal_cutoff_fixes_mean", "child": "OAIErdos3B143", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineRowIdeal_cutoff_fixes_mean", "child": "OAIErdos3B171", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineRowIdeal_cutoff_fixes_mean", "child": "OAIErdos3B172", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineSourceEarly_error_budget", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineSourceEarly_error_budget", "child": "OAIErdos3B198", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineSourceEarly_error_budget", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineSourceEarly_error_budget", "child": "OAIErdos3B198", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineWholeCovered_comparison", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedAffineWholeCovered_comparison", "child": "OAIErdos3B136", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedBufferedRowDensityProduct_error", "child": "ErdosReciprocal", "via": ["statement"]}
@@ -18328,9 +18328,9 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedBufferedTorusCutoff_eq_siteChart", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedBufferedTorusCutoff_eq_siteChart", "child": "OAIErdos3B054", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedBufferedTorusCutoff_eq_siteChart", "child": "OAIErdos3B150", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_constructed_model_source", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_constructed_model_source", "child": "OAIErdos3B162", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_constructed_model_source", "child": "OAIErdos3B200", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_constructed_model_source", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_constructed_model_source", "child": "OAIErdos3B162", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_constructed_model_source", "child": "OAIErdos3B200", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_model_source_of_length", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_model_source_of_length", "child": "OAIErdos3B162", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedCanonicalSlice_model_source_of_length", "child": "OAIErdos3B200", "via": ["statement"]}
@@ -18388,8 +18388,8 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedIntegerKernel_residue_family", "child": "OAIErdos3B134", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetDensity_zero_off_box", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetDensity_zero_off_box", "child": "OAIErdos3B132", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_exp_bounds", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_exp_bounds", "child": "OAIErdos3B169", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_exp_bounds", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_exp_bounds", "child": "OAIErdos3B169", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_principal_product_zero", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJetTarget_principal_product_zero", "child": "OAIErdos3B169", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedLongJet_residue_coefficient_comparison", "child": "ErdosReciprocal", "via": ["statement"]}
@@ -18414,18 +18414,18 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedNarrowTrimmed_shifted_vector_site_error", "child": "OAI.Erdos3.canonicalVectorSpatialSiteApprox_shift_error", "via": ["solution"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedNarrowTrimmed_shifted_vector_site_error", "child": "OAI.Erdos3.goodScalarKernelTuple_anisotropic_error", "via": ["solution"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedNarrowTrimmed_shifted_vector_site_error", "child": "OAIErdos3B054", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_parameter_bounds", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_parameter_bounds", "child": "OAIErdos3B169", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_parameter_bounds", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_parameter_bounds", "child": "OAIErdos3B169", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_zero_off_ball", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedNormalizedLongJetDensity_zero_off_ball", "child": "OAIErdos3B169", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSampleFullSliceMap_supported_lipschitzOn", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSampleFullSliceMap_supported_lipschitzOn", "child": "OAIErdos3B172", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSampleFullSlice_sliced_residue_complex_riemann", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSampleFullSlice_sliced_residue_complex_riemann", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSampleFullSlice_sliced_residue_complex_riemann", "child": "OAIErdos3B172", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSample_jointResidueOutput_eq_congruence", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSample_jointResidueOutput_eq_congruence", "child": "OAIErdos3B171", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedOriginalSample_jointResidueOutput_eq_congruence", "child": "OAIErdos3B173", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedPhysicalCovered_test_mean", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedPhysicalCovered_test_mean", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedPhysicalCovered_test_mean", "child": "OAIErdos3B169", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedPhysicalMixedJet_test_mean", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedPhysicalMixedJet_test_mean", "child": "OAIErdos3B169", "via": ["solution", "statement"]}
@@ -18458,8 +18458,8 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedRecoveredSample_site_chart_base", "child": "OAIErdos3B173", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedRowSlicedIdeal_measurable", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedRowSlicedIdeal_measurable", "child": "OAIErdos3B171", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedSlicedSourceEarlyPrefactor_le_exp", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedSlicedSourceEarlyPrefactor_le_exp", "child": "OAIErdos3B198", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedSlicedSourceEarlyPrefactor_le_exp", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedSlicedSourceEarlyPrefactor_le_exp", "child": "OAIErdos3B198", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedDeck_density_constant", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedDeck_density_constant", "child": "OAIErdos3B135", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedGridDensity_absolute_cap", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
@@ -18481,7 +18481,7 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedInactivePointApproximation_error", "child": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedInactiveGridDensity_approximation", "via": ["solution"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedInactivePointApproximation_error", "child": "OAI.Erdos3.containedSupportedProgressionLaw_axis_integer_law", "via": ["solution"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedInactivePointApproximation_error", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedMaskedCoveredFactor_mean", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedMaskedCoveredFactor_mean", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedMaskedCoveredFactor_mean", "child": "OAIErdos3B177", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedPhysicalGridApproximation_error", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedPhysicalGridApproximation_error", "child": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedGridDensity_approximation_on_cover", "via": ["solution"]}
@@ -18498,28 +18498,28 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedResidueJetPMF_source", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedResidueJetPMF_source", "child": "OAI.Erdos3.containedSupportedProgressionLaw_axis_integer_law", "via": ["solution"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedResidueJetPMF_source", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedWholeMaskedCoveredProfile_mean_measurable", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.allocatedWholeMaskedCoveredProfile_mean_measurable", "child": "OAIErdos3B143", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedWholeMaskedCoveredProfile_mean_measurable", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.allocatedWholeMaskedCoveredProfile_mean_measurable", "child": "OAIErdos3B143", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedWholeMaskedCoveredProfile_measurable", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedWholeMaskedCoveredProfile_measurable", "child": "OAIErdos3B143", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedCanonicalSlice_bounded_ambient", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedCanonicalSlice_bounded_ambient", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedCanonicalSlice_bounded_ambient", "child": "OAIErdos3B198", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_bounded_grid_site_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_bounded_grid_site_expansion", "child": "OAIErdos3B055", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_bounded_grid_site_expansion", "child": "OAIErdos3B145", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_full_grid_site_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_full_grid_site_expansion", "child": "OAIErdos3B177", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_grid_site_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_bounded_grid_site_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_bounded_grid_site_expansion", "child": "OAIErdos3B055", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_bounded_grid_site_expansion", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_full_grid_site_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_full_grid_site_expansion", "child": "OAIErdos3B177", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_grid_site_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_grid_site_expansion", "child": "OAIErdos3B055", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_grid_site_expansion", "child": "OAIErdos3B145", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_mixed_grid_site_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_mixed_grid_site_expansion", "child": "OAIErdos3B055", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_mixed_grid_site_expansion", "child": "OAIErdos3B145", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_natural_grid_site_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_natural_grid_site_expansion", "child": "OAIErdos3B055", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_natural_grid_site_expansion", "child": "OAIErdos3B145", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_finite_model_uniform_physical_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_finite_model_uniform_physical_expansion", "child": "OAIErdos3B198", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_grid_site_expansion", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_mixed_grid_site_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_mixed_grid_site_expansion", "child": "OAIErdos3B055", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_mixed_grid_site_expansion", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_natural_grid_site_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_natural_grid_site_expansion", "child": "OAIErdos3B055", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_natural_grid_site_expansion", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_finite_model_uniform_physical_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_finite_model_uniform_physical_expansion", "child": "OAIErdos3B198", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_global_masked_affine_ideal_approximation", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_global_masked_affine_ideal_approximation", "child": "OAIErdos3B198", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_grid_physical_expansion_identity", "child": "ErdosReciprocal", "via": ["statement"]}
@@ -18527,9 +18527,9 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_masked_ambient_lift", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_masked_ambient_lift", "child": "OAIErdos3B054", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_masked_ambient_lift", "child": "OAIErdos3B152", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_certified_rank_witness_law", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_certified_rank_witness_law", "child": "OAIErdos3B050", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_certified_rank_witness_law", "child": "OAIErdos3B158", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_certified_rank_witness_law", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_certified_rank_witness_law", "child": "OAIErdos3B050", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_certified_rank_witness_law", "child": "OAIErdos3B158", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_masked_factor", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_masked_factor", "child": "OAIErdos3B054", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_physical_masked_factor", "child": "OAIErdos3B152", "via": ["statement"]}
@@ -18539,18 +18539,18 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_short_physical_certified_bad_product", "child": "OAIErdos3B050", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_short_physical_certified_bad_product", "child": "OAIErdos3B147", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_short_physical_certified_bad_product", "child": "OAIErdos3B161", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_chart_event_comparison", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_chart_event_comparison", "child": "OAIErdos3B050", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_chart_event_comparison", "child": "OAIErdos3B161", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_witness_comparison", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_witness_comparison", "child": "OAIErdos3B050", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_witness_comparison", "child": "OAIErdos3B161", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_chart_event_comparison", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_chart_event_comparison", "child": "OAIErdos3B050", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_chart_event_comparison", "child": "OAIErdos3B161", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_witness_comparison", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_witness_comparison", "child": "OAIErdos3B050", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_spatial_witness_comparison", "child": "OAIErdos3B161", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_ambient_surrogate", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_ambient_surrogate", "child": "OAIErdos3B198", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_bounded_ambient", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_bounded_ambient", "child": "OAIErdos3B198", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_good_kernel_source", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_good_kernel_source", "child": "OAIErdos3B198", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_good_kernel_source", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_good_kernel_source", "child": "OAIErdos3B198", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_ideal_model", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_ideal_model", "child": "OAIErdos3B198", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_affine_source_model", "child": "ErdosReciprocal", "via": ["statement"]}
@@ -18561,12 +18561,12 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_allocated_supported_sliced_ambient_grid", "child": "OAIErdos3B177", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_covered_source", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_covered_source", "child": "OAIErdos3B136", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_l1_scales", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_l1_scales", "child": "OAIErdos3B129", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_l1_scales", "child": "OAIErdos3B136", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_proxy_l1_with_scales", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_proxy_l1_with_scales", "child": "OAIErdos3B136", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_residue_source_with_scales", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_l1_scales", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_l1_scales", "child": "OAIErdos3B129", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_l1_scales", "child": "OAIErdos3B136", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_proxy_l1_with_scales", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_proxy_l1_with_scales", "child": "OAIErdos3B136", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_residue_source_with_scales", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_early_allocated_affine_residue_source_with_scales", "child": "OAIErdos3B136", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastDensityBufferedNativeExpansion", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastDensityBufferedNativeExpansion", "child": "OAIErdos3B178", "via": ["statement"]}
@@ -18574,18 +18574,18 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastDensityBufferedTwist", "child": "OAIErdos3B055", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastDensityBufferedTwist", "child": "OAIErdos3B151", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastDensityBufferedTwist", "child": "OAIErdos3B152", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_bounded_site_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_bounded_site_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_bounded_site_expansion", "child": "OAIErdos3B055", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_bounded_site_expansion", "child": "OAIErdos3B145", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_bounded_site_expansion", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_product_site", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_product_site", "child": "OAIErdos3B055", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_product_site", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_site_expansion", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_site_expansion", "child": "OAIErdos3B055", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_site_expansion", "child": "OAIErdos3B145", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_site_expansion", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_site_expansion", "child": "OAIErdos3B055", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.exists_forecastInactive_sliced_fixed_site_expansion", "child": "OAIErdos3B145", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_probability_data", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_probability_data", "child": "OAIErdos3B152", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_zero_of_active_norm_gt_two", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_zero_of_active_norm_gt_two", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_zero_of_active_norm_gt_two", "child": "OAIErdos3B152", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_zero_of_norm_gt_two", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_zero_of_norm_gt_two", "child": "OAIErdos3B152", "via": ["statement"]}
@@ -18613,12 +18613,12 @@
 {"parent": "OAI.Erdos3.VectorPolynomial.forecastLawNativeRawSum_eq_jointMean", "child": "OAIErdos3B167", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.forecastLawNativeRawSum_eq_jointMean", "child": "OAIErdos3B173", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.forecastLawNativeRawSum_eq_jointMean", "child": "OAIErdos3B185", "via": ["statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_normalized_complex_integral", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_normalized_complex_integral", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_normalized_complex_integral", "child": "OAIErdos3B128", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_normalized_lintegral", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_normalized_lintegral", "child": "OAIErdos3B114", "via": ["solution"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_normalized_lintegral", "child": "OAIErdos3B128", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_weighted_complex_integral", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_weighted_complex_integral", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.mixedCoveredJet_weighted_complex_integral", "child": "OAIErdos3B128", "via": ["statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.preparedFiniteForward_endpoint_scalar_bounds", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.preparedFiniteForward_endpoint_scalar_bounds", "child": "OAIErdos3B015", "via": ["solution", "statement"]}
@@ -18760,7 +18760,7 @@
 {"parent": "OAI.Erdos3.exists_canonical_joint_affine_good_mass", "child": "OAIErdos3B011", "via": ["statement"]}
 {"parent": "OAI.Erdos3.exists_canonical_joint_affine_good_mass", "child": "OAIErdos3B109", "via": ["solution"]}
 {"parent": "OAI.Erdos3.exists_canonical_joint_affine_good_mass", "child": "OAIErdos3B120", "via": ["solution"]}
-{"parent": "OAI.Erdos3.exists_crt_counting_contradiction", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.exists_crt_counting_contradiction", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.exists_crt_counting_contradiction", "child": "OAIErdos3B034", "via": ["statement"]}
 {"parent": "OAI.Erdos3.exists_degree_one_cyclicShiftComparison", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.exists_degree_one_cyclicShiftComparison", "child": "OAI.Erdos3.CellRefinement.exists_refinement_matching_geometry", "via": ["solution"]}
@@ -18796,9 +18796,9 @@
 {"parent": "OAI.Erdos3.exists_schmidt_dilated_mean_transfer", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.exists_schmidt_dilated_mean_transfer", "child": "OAIErdos3B110", "via": ["solution"]}
 {"parent": "OAI.Erdos3.exists_schmidt_dilated_mean_transfer", "child": "OAIErdos3B122", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.exists_scored_windowed_crt_patch", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.exists_scored_windowed_crt_patch", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.exists_scored_windowed_crt_patch", "child": "OAIErdos3B034", "via": ["statement"]}
-{"parent": "OAI.Erdos3.exists_uniform_coordinate_partition_bound", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.exists_uniform_coordinate_partition_bound", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.exists_uniform_coordinate_partition_bound", "child": "OAIErdos3B100", "via": ["statement"]}
 {"parent": "OAI.Erdos3.exists_uniform_joint_affine_polynomial_source_with_scales", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.exists_uniform_joint_affine_polynomial_source_with_scales", "child": "OAIErdos3B033", "via": ["statement"]}
@@ -18830,11 +18830,11 @@
 {"parent": "OAI.Erdos3.jointAffineBooleanGoodWeight_derivative_budget", "child": "OAIErdos3B109", "via": ["solution"]}
 {"parent": "OAI.Erdos3.jointAffineBoolean_translation_bound", "child": "ErdosReciprocal", "via": ["statement"]}
 {"parent": "OAI.Erdos3.jointAffineBoolean_translation_bound", "child": "OAIErdos3B033", "via": ["statement"]}
-{"parent": "OAI.Erdos3.jointSlicedProfileValue_unit_comparison", "child": "ErdosReciprocal", "via": ["statement"]}
-{"parent": "OAI.Erdos3.jointSlicedProfileValue_unit_comparison", "child": "OAIErdos3B174", "via": ["statement"]}
+{"parent": "OAI.Erdos3.jointSlicedProfileValue_unit_comparison", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
+{"parent": "OAI.Erdos3.jointSlicedProfileValue_unit_comparison", "child": "OAIErdos3B174", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.largeCokernel_reciprocal_probability_le_of_card_le", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.largeCokernel_reciprocal_probability_le_of_card_le", "child": "OAIErdos3B014", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.manuscriptQuantitativeDensityTheorem", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.manuscriptQuantitativeDensityTheorem", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.manuscriptQuantitativeDensityTheorem", "child": "OAIErdos3B000", "via": ["statement"]}
 {"parent": "OAI.Erdos3.manuscriptReciprocalProgressionTheorem", "child": "Erdos142Basic", "via": ["solution"]}
 {"parent": "OAI.Erdos3.manuscriptReciprocalProgressionTheorem", "child": "Erdos3.erdos_3", "via": ["solution"]}
@@ -18997,7 +18997,7 @@
 {"parent": "OAI.Erdos3.smooth_window_weighted_sampled_error", "child": "OAIErdos3B016", "via": ["solution"]}
 {"parent": "OAI.Erdos3.translatedIntegerBox_eq_piFinset", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.translatedIntegerBox_eq_piFinset", "child": "OAIErdos3B008", "via": ["solution", "statement"]}
-{"parent": "OAI.Erdos3.weightedPositiveAffineModerateGridCoefficient_minor_polynomial", "child": "ErdosReciprocal", "via": ["statement"]}
+{"parent": "OAI.Erdos3.weightedPositiveAffineModerateGridCoefficient_minor_polynomial", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.weightedPositiveAffineModerateGridCoefficient_minor_polynomial", "child": "OAIErdos3B012", "via": ["statement"]}
 {"parent": "OAI.Erdos3.weightedReplacementTolerance_pos", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.weightedReplacementTolerance_pos", "child": "OAIErdos3B090", "via": ["solution", "statement"]}
@@ -19034,7 +19034,7 @@
 {"parent": "OAI.ForestSpace.main_theorem", "child": "ForestSpace", "via": ["solution", "statement"]}
 {"parent": "OAI.FourRow.robust_permanent", "child": "FourRowPermanent", "via": ["solution", "statement"]}
 {"parent": "OAI.FreeGroupFactorMain.Interpolation.allInterpolatedIsomorphic", "child": "InterpolatedFactors", "via": ["statement"]}
-{"parent": "OAI.GAD.main", "child": "AmplitudeDamping", "via": ["statement"]}
+{"parent": "OAI.GAD.main", "child": "AmplitudeDamping", "via": ["solution", "statement"]}
 {"parent": "OAI.GammaFPP.gamma_differentiability", "child": "GammaPassage", "via": ["statement"]}
 {"parent": "OAI.GaussianMoat.fullMain", "child": "GaussianMoat", "via": ["statement"]}
 {"parent": "OAI.GaussianPropeller.all_partitions", "child": "GaussianPropeller", "via": ["statement"]}
@@ -19268,7 +19268,7 @@
 {"parent": "OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment", "child": "GeneralCK.mostInformativeBooleanFunction", "via": ["solution"]}
 {"parent": "OAI.LeanBlast.CourtadeKumar.courtadeKumarAndAttainment", "child": "GeneralCK_statement", "via": ["solution"]}
 {"parent": "OAI.LeanBlast.GotsmanLinial.gotsmanLinialStatement", "child": "GotsmanLinial", "via": ["solution", "statement"]}
-{"parent": "OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds", "child": "SecondKahnKalai", "via": ["statement"]}
+{"parent": "OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds", "child": "SecondKahnKalai", "via": ["solution", "statement"]}
 {"parent": "OAI.Lech.dutta_domain", "child": "DuttaDomain", "via": ["statement"]}
 {"parent": "OAI.LinearListHadwiger.main_theorem", "child": "ListHadwiger", "via": ["statement"]}
 {"parent": "OAI.LipschitzCounterexample.main", "child": "LipschitzEquivalence", "via": ["statement"]}
@@ -19306,7 +19306,7 @@
 {"parent": "OAI.Nagata.Workers.W30.exists_positive_degree_equation_of_homogeneous_cycle", "child": "Nagata", "via": ["statement"]}
 {"parent": "OAI.NaimarkZFC.main", "child": "Naimark", "via": ["statement"]}
 {"parent": "OAI.NeutralAtom.generalized_outer_radii", "child": "CoulombRadii", "via": ["statement"]}
-{"parent": "OAI.NoiselessRegression.main", "child": "NoiselessRegression", "via": ["statement"]}
+{"parent": "OAI.NoiselessRegression.main", "child": "NoiselessRegression", "via": ["solution", "statement"]}
 {"parent": "OAI.NuclearUltrapower.main_no_embedding", "child": "NuclearUltrapower", "via": ["statement"]}
 {"parent": "OAI.OddKaplansky.main_theorem", "child": "OddKaplansky", "via": ["solution", "statement"]}
 {"parent": "OAI.OneWayLiveness.main_theorem", "child": "OneWayLiveness", "via": ["solution", "statement"]}
@@ -19341,10 +19341,10 @@
 {"parent": "OAI.Ostmann.twoInfiniteSummandsImpossible", "child": "OstmannComplete", "via": ["statement"]}
 {"parent": "OAI.Paper092.product_counterexample", "child": "ProjectionVolume", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper170.complete_graph_crossing_number", "child": "CompleteCrossing", "via": ["statement"]}
-{"parent": "OAI.Paper256.main_result", "child": "HyperbolicCones", "via": ["statement"]}
+{"parent": "OAI.Paper256.main_result", "child": "HyperbolicCones", "via": ["solution", "statement"]}
 {"parent": "OAI.Paper320.quantitative_separation", "child": "SensitivitySeparation", "via": ["solution", "statement"]}
 {"parent": "OAI.ParityWL.parity_reduction", "child": "ParityLifts", "via": ["solution", "statement"]}
-{"parent": "OAI.PartialPermutation.complementaryCosets_finite", "child": "PartialPermutation", "via": ["statement"]}
+{"parent": "OAI.PartialPermutation.complementaryCosets_finite", "child": "PartialPermutation", "via": ["solution", "statement"]}
 {"parent": "OAI.PartitionConsistency.main_consistency", "child": "PartitionConsistency", "via": ["statement"]}
 {"parent": "OAI.PartitionPilot.Forcing.TransitiveGround.exists_model_partitionPrinciple_without_choice", "child": "PartitionPrinciple", "via": ["statement"]}
 {"parent": "OAI.Percolation.BenjaminiSchramm.cayley_main", "child": "BenjaminiSchramm", "via": ["statement"]}
@@ -19356,7 +19356,7 @@
 {"parent": "OAI.PerfectMatchingPSD.main", "child": "MatchingPSD", "via": ["statement"]}
 {"parent": "OAI.PeriodicTilingThree.periodic_tiling_counterexample_and_minimality", "child": "PeriodicTilingThree", "via": ["statement"]}
 {"parent": "OAI.PermanentBorder.permanent_cubic_lower_bounds", "child": "PermanentCubic", "via": ["statement"]}
-{"parent": "OAI.PermanentBorder.smooth_initial_form_lower_bound", "child": "SmoothInitialForm", "via": ["statement"]}
+{"parent": "OAI.PermanentBorder.smooth_initial_form_lower_bound", "child": "SmoothInitialForm", "via": ["solution", "statement"]}
 {"parent": "OAI.PettyProjection.petty_projection_volume", "child": "PettyProjectionVolume", "via": ["statement"]}
 {"parent": "OAI.PiExponent.DeterminantContradiction.actual_matrix_entry_low_index_exp_bound", "child": "OAI.PiExponent.DeterminantContradiction.actual_truncated_log_entry_low_index_exp_bound", "via": ["solution"]}
 {"parent": "OAI.PiExponent.DeterminantContradiction.actual_matrix_entry_low_index_exp_bound", "child": "OAI_PiExponent_AnalyticRemainder", "via": ["statement"]}
@@ -19434,8 +19434,8 @@
 {"parent": "OAI.PiExponent.FormalInterpolation.formalJet_finite_coefficients", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.formalJet_logarithmic_center_generator_has_weighted_support", "child": "OAI_PiExponent_LogarithmicCenterIdeals", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.formalJet_logarithmic_center_generator_has_weighted_support", "child": "OAI_PiExponent_WeightedSupport", "via": ["solution", "statement"]}
-{"parent": "OAI.PiExponent.FormalInterpolation.ideal_power_has_weighted_support_of_generators", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["statement"]}
-{"parent": "OAI.PiExponent.FormalInterpolation.ideal_power_has_weighted_support_of_generators", "child": "OAI_PiExponent_WeightedSupport", "via": ["statement"]}
+{"parent": "OAI.PiExponent.FormalInterpolation.ideal_power_has_weighted_support_of_generators", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["solution", "statement"]}
+{"parent": "OAI.PiExponent.FormalInterpolation.ideal_power_has_weighted_support_of_generators", "child": "OAI_PiExponent_WeightedSupport", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmicCentersIdeal_power_of_packet_agreement", "child": "OAI.PiExponent.DeterminantContradiction.actual_minor_arithmetic_lower_bound", "via": ["solution"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmicCentersIdeal_power_of_packet_agreement", "child": "OAI.PiExponent.DeterminantContradiction.analytic_aggregate", "via": ["solution"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmicCentersIdeal_power_of_packet_agreement", "child": "OAI.PiExponent.DeterminantContradiction.global_interpolation", "via": ["solution"]}
@@ -19448,7 +19448,7 @@
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_has_weighted_support_core", "child": "OAI.PiExponent.FormalInterpolation.formalJet_logarithmic_center_generator_has_weighted_support", "via": ["solution"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_has_weighted_support_core", "child": "OAI.PiExponent.FormalInterpolation.ideal_power_has_weighted_support_of_generators", "via": ["solution"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_has_weighted_support_core", "child": "OAI_PiExponent_LogarithmicCenterIdeals", "via": ["solution", "statement"]}
-{"parent": "OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_has_weighted_support_core", "child": "OAI_PiExponent_WeightedSupport", "via": ["statement"]}
+{"parent": "OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_has_weighted_support_core", "child": "OAI_PiExponent_WeightedSupport", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmic_ideal_power_annihilates_strict_jets", "child": "OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_annihilates_strict_jets", "via": ["solution"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.logarithmic_ideal_power_annihilates_strict_jets", "child": "OAI_PiExponent_LogarithmicCenterIdeals", "via": ["statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.matrix_surjective_of_packets", "child": "OAI.PiExponent.FormalInterpolation.actualMatrix_mulVec_eq_packetMap", "via": ["solution"]}
@@ -19457,7 +19457,7 @@
 {"parent": "OAI.PiExponent.FormalInterpolation.matrix_surjective_of_packets", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.truncatedJetPacket_surjective_of_fullPacket", "child": "OAI.PiExponent.FormalInterpolation.actualMatrix_mulVec_eq_packetMap_of_cutoff_explicit_coefficients", "via": ["solution"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.truncatedJetPacket_surjective_of_fullPacket", "child": "OAI.PiExponent.FormalInterpolation.actualMatrix_mulVec_eq_truncatedJetCoeff", "via": ["solution"]}
-{"parent": "OAI.PiExponent.FormalInterpolation.truncatedJetPacket_surjective_of_fullPacket", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["statement"]}
+{"parent": "OAI.PiExponent.FormalInterpolation.truncatedJetPacket_surjective_of_fullPacket", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.truncatedLogMatrix_mulVec_eq_formalJet_of_cutoff", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.truncatedLogMatrix_mulVec_eq_truncatedJetCoeff", "child": "OAI_PiExponent_FormalInterpolationPackets", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.FormalInterpolation.unbounded_packet_interpolation", "child": "OAI.PiExponent.FormalInterpolation.finite_local_logarithmic_interpolation", "via": ["solution"]}
@@ -19562,7 +19562,7 @@
 {"parent": "OAI.Problem047.koebe_circle_domain", "child": "KoebeCircleDomains", "via": ["statement"]}
 {"parent": "OAI.Problem047.removability_implies_rigidity", "child": "KoebeCircleDomains", "via": ["statement"]}
 {"parent": "OAI.Problem160.properColoring_seven", "child": "PlaneColoring", "via": ["solution", "statement"]}
-{"parent": "OAI.Problem310.dyadic_affine_avoidance", "child": "DyadicAvoidance", "via": ["statement"]}
+{"parent": "OAI.Problem310.dyadic_affine_avoidance", "child": "DyadicAvoidance", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem313.sharp_threshold_width", "child": "SharpThreshold", "via": ["statement"]}
 {"parent": "OAI.Problem315.switch_chain_main", "child": "SwitchChain", "via": ["statement"]}
 {"parent": "OAI.Problem315.switch_chain_tv_bound", "child": "SwitchChain", "via": ["statement"]}
@@ -19588,7 +19588,7 @@
 {"parent": "OAI.Problem337.quantitative_marked_length", "child": "EgyptianFractions", "via": ["statement"]}
 {"parent": "OAI.Problem340.exists_C1_entropy_counterexample", "child": "C1EntropyCounterexample", "via": ["statement"]}
 {"parent": "OAI.Problem344.large_gaps_and_ratio_density", "child": "PrimeGaps", "via": ["statement"]}
-{"parent": "OAI.Problem346.canonical_foulkes_howe_surjective", "child": "FoulkesHowe", "via": ["statement"]}
+{"parent": "OAI.Problem346.canonical_foulkes_howe_surjective", "child": "FoulkesHowe", "via": ["solution", "statement"]}
 {"parent": "OAI.Problem348.no_polynomial_removal_bound", "child": "MatrixRemoval", "via": ["statement"]}
 {"parent": "OAI.Problem355.almost_n_minus_two_refuted", "child": "HeilbronnTriangle", "via": ["statement"]}
 {"parent": "OAI.Problem355.heilbronn_power_lower_bound", "child": "HeilbronnTriangle", "via": ["statement"]}
@@ -19608,8 +19608,8 @@
 {"parent": "OAI.RVM.global_classical_solution", "child": "VlasovMaxwell", "via": ["statement"]}
 {"parent": "OAI.RadialTransition.densityInterval", "child": "RadialDensityInterval", "via": ["statement"]}
 {"parent": "OAI.RadialTransition.main", "child": "RadialTransition", "via": ["statement"]}
-{"parent": "OAI.RandomKSAT.sharpness", "child": "SATSharpness", "via": ["statement"]}
-{"parent": "OAI.RandomKSAT.variance_main", "child": "SATVariance", "via": ["statement"]}
+{"parent": "OAI.RandomKSAT.sharpness", "child": "SATSharpness", "via": ["solution", "statement"]}
+{"parent": "OAI.RandomKSAT.variance_main", "child": "SATVariance", "via": ["solution", "statement"]}
 {"parent": "OAI.RationalHitting.main", "child": "RationalHitting", "via": ["statement"]}
 {"parent": "OAI.RealDeligneDrinfeld.BraidInsertionSum.pentagon", "child": "DeligneDrinfeld", "via": ["solution"]}
 {"parent": "OAI.RealDeligneDrinfeld.BraidInsertionSum.pentagon", "child": "DeligneDrinfeldBraid", "via": ["solution", "statement"]}
@@ -21137,7 +21137,7 @@
 {"parent": "OAI.SharpNodal.Main", "child": "NodalLength", "via": ["statement"]}
 {"parent": "OAI.SharpRamseyFive.main", "child": "RamseyFive", "via": ["statement"]}
 {"parent": "OAI.SharpTerminalLeave.sharp_terminal_leave", "child": "TriangleRemoval", "via": ["statement"]}
-{"parent": "OAI.ShortEgyptian.main", "child": "ShortEgyptianFractions", "via": ["statement"]}
+{"parent": "OAI.ShortEgyptian.main", "child": "ShortEgyptianFractions", "via": ["solution", "statement"]}
 {"parent": "OAI.SidorenkoCounterexample.finite_geometry_batch_01", "child": "SidorenkoFiniteGeometryCertificates01", "via": ["solution", "statement"]}
 {"parent": "OAI.SidorenkoCounterexample.finite_geometry_batch_02", "child": "SidorenkoFiniteGeometryCertificates02", "via": ["solution", "statement"]}
 {"parent": "OAI.SidorenkoCounterexample.finite_geometry_batch_03", "child": "SidorenkoFiniteGeometryCertificates03", "via": ["solution", "statement"]}
@@ -22169,7 +22169,7 @@
 {"parent": "OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states", "child": "OAI.Snaky21.force_extract", "via": ["solution"]}
 {"parent": "OAI.SnakyPrototype.snaky_winning_strategy_21_with_legal_states", "child": "SnakyTwentyOne", "via": ["solution", "statement"]}
 {"parent": "OAI.SoftChannel204.fullMain", "child": "SoftChannel204", "via": ["statement"]}
-{"parent": "OAI.Solenoidal.sheet_theorem", "child": "SolenoidalSheetPrograms", "via": ["statement"]}
+{"parent": "OAI.Solenoidal.sheet_theorem", "child": "SolenoidalSheetPrograms", "via": ["solution", "statement"]}
 {"parent": "OAI.SourceBurnside.thm_main", "child": "PeriodicGroup", "via": ["statement"]}
 {"parent": "OAI.SphericalPerceptron.spherical_linear_field_formula", "child": "SphericalField", "via": ["statement"]}
 {"parent": "OAI.SphericalPerceptronFreeEnergy.main", "child": "PerceptronFreeEnergy", "via": ["statement"]}
@@ -22202,13 +22202,13 @@
 {"parent": "OAI.ThompsonNonamenability.thompson_F_nonamenable_composition", "child": "Garrido_Amenability", "via": ["solution"]}
 {"parent": "OAI.ThompsonNonamenability.thompson_F_nonamenable_composition", "child": "ThompsonAmenability.not_isAmenable_F", "via": ["solution"]}
 {"parent": "OAI.ThompsonNonamenability.thompson_F_nonamenable_composition", "child": "ThompsonNonamenability", "via": ["solution", "statement"]}
-{"parent": "OAI.Thorp.Current.first_reciprocal_main", "child": "ThorpFirstReciprocal", "via": ["statement"]}
+{"parent": "OAI.Thorp.Current.first_reciprocal_main", "child": "ThorpFirstReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.ThorpCompatibility.weightedCompatibility_main", "child": "ThorpWeightedCompatibility", "via": ["solution", "statement"]}
 {"parent": "OAI.ThorpNine.Harmonic.Thorp.LowPlanes.regular_trace_smoothing", "child": "CoordinateTrace", "via": ["statement"]}
 {"parent": "OAI.ThorpNine.main", "child": "ThorpRouting", "via": ["statement"]}
 {"parent": "OAI.ThorpResults.remaining_main", "child": "ThorpRemaining", "via": ["statement"]}
 {"parent": "OAI.ThreeMachine.main_theorem", "child": "ThreeMachine", "via": ["statement"]}
-{"parent": "OAI.ThreeManifold.main_theorem", "child": "ConjugatePoints", "via": ["statement"]}
+{"parent": "OAI.ThreeManifold.main_theorem", "child": "ConjugatePoints", "via": ["solution", "statement"]}
 {"parent": "OAI.ThreeState.TreeClauses.Tree.poisson_reconstructs_above_KS", "child": "ThreeStateTreeClauses", "via": ["statement"]}
 {"parent": "OAI.ThreeState.TreeClauses.Tree.regular_reconstructs_above_KS", "child": "ThreeStateTreeClauses", "via": ["statement"]}
 {"parent": "OAI.ThreeState.poisson_supercritical", "child": "ThreeStateSupercritical", "via": ["statement"]}
@@ -22252,7 +22252,7 @@
 {"parent": "OAI.TraceReconstruction.superpolynomial_one_trace", "child": "TraceReconstruction", "via": ["statement"]}
 {"parent": "OAI.TraceReconstruction.superpolynomial_sample_complexity", "child": "TraceReconstruction", "via": ["statement"]}
 {"parent": "OAI.TreeEdit.binary_lower_bound", "child": "BinaryEditLower", "via": ["statement"]}
-{"parent": "OAI.TreeEdit.binary_torus", "child": "TreeEdit", "via": ["statement"]}
+{"parent": "OAI.TreeEdit.binary_torus", "child": "TreeEdit", "via": ["solution", "statement"]}
 {"parent": "OAI.TriangleFace198.triangle_expansion_face", "child": "TriangleFace", "via": ["statement"]}
 {"parent": "OAI.TriangularBilliards.irrational_triangle_billiard", "child": "IrrationalTriangleBilliard", "via": ["statement"]}
 {"parent": "OAI.TriangularCovering.main", "child": "TriangularCovering", "via": ["solution", "statement"]}
@@ -22578,8 +22578,8 @@
 {"parent": "OAI.TwoPointCorrelations.sieve_prime_additive_energy", "child": "OAI.TwoPointCorrelations.sieve_goldbach_pairs_finite", "via": ["solution"]}
 {"parent": "OAI.TwoPointCorrelations.sieve_prime_additive_energy", "child": "OAIChowlaTwoPointDefs", "via": ["solution", "statement"]}
 {"parent": "OAI.TwoPointCorrelations.tuple_column_array_cover", "child": "OAIChowlaTwoPointDefs", "via": ["solution", "statement"]}
-{"parent": "OAI.TwoWayComplementation.complementation_lower_bound_finite", "child": "TwoWayComplementation", "via": ["statement"]}
-{"parent": "OAI.TwoWayComplementation.explicit_family_main", "child": "TwoWayDeterminization", "via": ["statement"]}
+{"parent": "OAI.TwoWayComplementation.complementation_lower_bound_finite", "child": "TwoWayComplementation", "via": ["solution", "statement"]}
+{"parent": "OAI.TwoWayComplementation.explicit_family_main", "child": "TwoWayDeterminization", "via": ["solution", "statement"]}
 {"parent": "OAI.UniformKServer.uniform_squared_logarithmic_main", "child": "UniformKServer", "via": ["statement"]}
 {"parent": "OAI.UniformSparsestCut.mainGap", "child": "UniformSparsestCut", "via": ["statement"]}
 {"parent": "OAI.UniqueGamesTheorem.theorem11", "child": "UniqueGamesTheorem", "via": ["statement"]}
@@ -29549,10 +29549,10 @@
 {"parent": "PersistClust.Count.theorem_4_5_lemma_4_6_corrected_surgery_qtame", "child": "PersistClust_Count_Diagram", "via": ["solution", "statement"]}
 {"parent": "PersistClust.Count.theorem_4_5_lemma_4_6_corrected_surgery_qtame", "child": "PersistClust_Count_FiltrationLaw", "via": ["solution", "statement"]}
 {"parent": "PersistClust.Count.theorem_4_5_lemma_4_6_corrected_surgery_qtame", "child": "PersistClust_Count_TruncRank", "via": ["solution", "statement"]}
-{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Algorithm", "via": ["statement"]}
-{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Diagram", "via": ["statement"]}
-{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Rips", "via": ["statement"]}
-{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Setting", "via": ["statement"]}
+{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Algorithm", "via": ["solution", "statement"]}
+{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Diagram", "via": ["solution", "statement"]}
+{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Rips", "via": ["solution", "statement"]}
+{"parent": "PersistClust.Count.theorem_4_8", "child": "PersistClust_Count_Setting", "via": ["solution", "statement"]}
 {"parent": "PersistClust_Count_AlgBarcode", "child": "PersistClust_Count_Algorithm", "via": ["statement"]}
 {"parent": "PersistClust_Count_AlgBarcode", "child": "PersistClust_Count_Diagram", "via": ["statement"]}
 {"parent": "PersistClust_Count_AlgBarcode", "child": "PersistClust_Count_Rips", "via": ["statement"]}
@@ -33433,10 +33433,10 @@
 {"parent": "ProjLikeRetr.Projective.optimality_3_2", "child": "ProjLikeRetr_Retractor_IsSubmanifold", "via": ["solution", "statement"]}
 {"parent": "ProjLikeRetr.Projective.optimality_3_2", "child": "ProjLikeRetr_Retractor_tangentBundle", "via": ["solution", "statement"]}
 {"parent": "ProjLikeRetr.Projective.optimality_3_2", "child": "RandomGradFree_Nonsmooth_IsMetricProjection", "via": ["solution", "statement"]}
-{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "ProjLikeRetr_Projective_IsRetractionAt", "via": ["statement"]}
-{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "ProjLikeRetr_Retractor_IsSubmanifold", "via": ["statement"]}
-{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "ProjLikeRetr_Retractor_tangentBundle", "via": ["statement"]}
-{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "RandomGradFree_Nonsmooth_IsMetricProjection", "via": ["statement"]}
+{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "ProjLikeRetr_Projective_IsRetractionAt", "via": ["solution", "statement"]}
+{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "ProjLikeRetr_Retractor_IsSubmanifold", "via": ["solution", "statement"]}
+{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "ProjLikeRetr_Retractor_tangentBundle", "via": ["solution", "statement"]}
+{"parent": "ProjLikeRetr.Projective.projective_retraction", "child": "RandomGradFree_Nonsmooth_IsMetricProjection", "via": ["solution", "statement"]}
 {"parent": "ProjLikeRetr.Projective.tangent_normalBundle", "child": "ProjLikeRetr_Retractor_IsSubmanifold", "via": ["statement"]}
 {"parent": "ProjLikeRetr.Projective.tangent_normalBundle", "child": "ProjLikeRetr_Retractor_tangentBundle", "via": ["statement"]}
 {"parent": "ProjLikeRetr.Projective.tangent_normalBundle", "child": "RandomGradFree_Nonsmooth_IsMetricProjection", "via": ["statement"]}
@@ -48734,9 +48734,9 @@
 {"parent": "RevenueOrdered.Stackelberg.stackelberg_matroid_is_assortment", "child": "RevenueOrdered_Stackelberg_Greedy", "via": ["statement"]}
 {"parent": "RevenueOrdered.Stackelberg.stackelberg_matroid_is_assortment", "child": "RevenueOrdered_Stackelberg_Instance", "via": ["statement"]}
 {"parent": "RevenueOrdered.Stackelberg.stackelberg_matroid_is_assortment", "child": "RevenueOrdered_Stackelberg_Model", "via": ["statement"]}
-{"parent": "RevenueOrdered.Tightness.revenue_ordered_bounds_tight", "child": "RevenueOrdered_Tightness_ChoiceModel", "via": ["statement"]}
-{"parent": "RevenueOrdered.Tightness.revenue_ordered_bounds_tight", "child": "RevenueOrdered_Tightness_RevenueOrdered", "via": ["statement"]}
-{"parent": "RevenueOrdered.Tightness.revenue_ordered_bounds_tight", "child": "RevenueOrdered_Tightness_TightInstance", "via": ["statement"]}
+{"parent": "RevenueOrdered.Tightness.revenue_ordered_bounds_tight", "child": "RevenueOrdered_Tightness_ChoiceModel", "via": ["solution", "statement"]}
+{"parent": "RevenueOrdered.Tightness.revenue_ordered_bounds_tight", "child": "RevenueOrdered_Tightness_RevenueOrdered", "via": ["solution", "statement"]}
+{"parent": "RevenueOrdered.Tightness.revenue_ordered_bounds_tight", "child": "RevenueOrdered_Tightness_TightInstance", "via": ["solution", "statement"]}
 {"parent": "RevenueOrdered.Tightness.tightInstance_regular", "child": "RevenueOrdered_Tightness_ChoiceModel", "via": ["statement"]}
 {"parent": "RevenueOrdered.Tightness.tightInstance_regular", "child": "RevenueOrdered_Tightness_RevenueOrdered", "via": ["statement"]}
 {"parent": "RevenueOrdered.Tightness.tightInstance_regular", "child": "RevenueOrdered_Tightness_TightInstance", "via": ["statement"]}
@@ -52293,14 +52293,14 @@
 {"parent": "RobustPoA.Static.theorem_4_1", "child": "RobustPoA_Static_Smoothness", "via": ["solution", "statement"]}
 {"parent": "RobustPoA.Tight.countable_case", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
 {"parent": "RobustPoA.Tight.infinite_poa_of_zero", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
-{"parent": "RobustPoA.Tight.lemma_5_1", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
+{"parent": "RobustPoA.Tight.lemma_5_1", "child": "RobustPoA_Tight_Classes", "via": ["solution", "statement"]}
 {"parent": "RobustPoA.Tight.lemma_5_3", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
 {"parent": "RobustPoA.Tight.lemma_5_5", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
-{"parent": "RobustPoA.Tight.params_subset", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
+{"parent": "RobustPoA.Tight.params_subset", "child": "RobustPoA_Tight_Classes", "via": ["solution", "statement"]}
 {"parent": "RobustPoA.Tight.proposition_5_2", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
 {"parent": "RobustPoA.Tight.theorem_5_6", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
 {"parent": "RobustPoA.Tight.theorem_5_8", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
-{"parent": "RobustPoA.Tight.weak_duality", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
+{"parent": "RobustPoA.Tight.weak_duality", "child": "RobustPoA_Tight_Classes", "via": ["solution", "statement"]}
 {"parent": "RobustPoA.Tight.worst_eq_gamma", "child": "RobustPoA_Tight_Classes", "via": ["statement"]}
 {"parent": "RobustPoA_Repeated_Regret", "child": "RobustPoA_Static_Game", "via": ["statement"]}
 {"parent": "RobustPoA_Static_Distribution", "child": "RobustPoA_Static_Game", "via": ["statement"]}
@@ -54808,16 +54808,16 @@
 {"parent": "SeatInventory_Distinct_MarginalAllocation", "child": "SeatInventory_Distinct_DemandModel", "via": ["statement"]}
 {"parent": "SecondLawThermo.carnot_efficiency_eq_one_sub_temp_ratio", "child": "SecondLawThermo.efficiency_eq_one_sub_abs_ratio", "via": ["solution"]}
 {"parent": "SecondLawThermo.carnot_efficiency_eq_one_sub_temp_ratio", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
-{"parent": "SecondLawThermo.carnot_ratio_mul", "child": "SecondLawThermo_Defs", "via": ["statement"]}
+{"parent": "SecondLawThermo.carnot_ratio_mul", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecondLawThermo.carnot_theorem_efficiency_le", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecondLawThermo.carnot_theorem_irreversible_lt", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecondLawThermo.carnot_theorem_reversible_eq", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
-{"parent": "SecondLawThermo.clausius_iff_kelvin", "child": "SecondLawThermo_Defs", "via": ["statement"]}
+{"parent": "SecondLawThermo.clausius_iff_kelvin", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecondLawThermo.clausius_of_kelvin", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecondLawThermo.efficiency_eq_one_sub_abs_ratio", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecondLawThermo.exists_temperature_scale_of_mul", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecondLawThermo.kelvin_of_clausius", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
-{"parent": "SecondLawThermo.thermodynamic_temperature", "child": "SecondLawThermo_Defs", "via": ["statement"]}
+{"parent": "SecondLawThermo.thermodynamic_temperature", "child": "SecondLawThermo_Defs", "via": ["solution", "statement"]}
 {"parent": "SecretaryWD.DiscLower.competitive_stopByProb_ge", "child": "SecretaryWD_DiscLower_DiscountedSecretary", "via": ["solution", "statement"]}
 {"parent": "SecretaryWD.DiscLower.competitive_stopByProb_ge", "child": "SecretaryWD_DiscLower_HardInstances", "via": ["solution", "statement"]}
 {"parent": "SecretaryWD.DiscLower.discounted_secretary_lower_bound", "child": "SecretaryWD_DiscLower_DiscountedSecretary", "via": ["solution", "statement"]}
@@ -56571,7 +56571,7 @@
 {"parent": "SingleMachinePrec.Framework.theorem_5_1", "child": "SingleMachinePrec_Framework_CSLP", "via": ["solution", "statement"]}
 {"parent": "SingleMachinePrec.IntervalChromatic.adjacent_four", "child": "SingleMachinePrec_IntervalChromatic_CanonicalOrder", "via": ["solution", "statement"]}
 {"parent": "SingleMachinePrec.IntervalChromatic.monotonicity", "child": "SingleMachinePrec_IntervalChromatic_CanonicalOrder", "via": ["statement"]}
-{"parent": "SingleMachinePrec.IntervalChromatic.theorem_4_3", "child": "SingleMachinePrec_IntervalChromatic_CanonicalOrder", "via": ["statement"]}
+{"parent": "SingleMachinePrec.IntervalChromatic.theorem_4_3", "child": "SingleMachinePrec_IntervalChromatic_CanonicalOrder", "via": ["solution", "statement"]}
 {"parent": "SingleMachinePrec.IntervalReduction.claim_1", "child": "SingleMachinePrec_IntervalReduction_TreeLayout", "via": ["solution", "statement"]}
 {"parent": "SingleMachinePrec.IntervalReduction.claim_2", "child": "SingleMachinePrec_IntervalReduction_Instance", "via": ["solution", "statement"]}
 {"parent": "SingleMachinePrec.IntervalReduction.claim_3", "child": "SingleMachinePrec_IntervalReduction_Instance", "via": ["solution", "statement"]}
@@ -58116,11 +58116,11 @@
 {"parent": "StabGen.Uniform.tail_bounds", "child": "FoundationsML_Stability_Loss", "via": ["statement"]}
 {"parent": "StabGen.Uniform.tail_bounds", "child": "StabGen_Hypothesis_Setting", "via": ["statement"]}
 {"parent": "StabGen.Uniform.tail_bounds", "child": "StabGen_Uniform_Stability", "via": ["statement"]}
-{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "FoundationsML_Stability_EmpiricalError", "via": ["statement"]}
-{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "FoundationsML_Stability_GeneralizationError", "via": ["statement"]}
-{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "FoundationsML_Stability_Loss", "via": ["statement"]}
-{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "StabGen_Hypothesis_Setting", "via": ["statement"]}
-{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "StabGen_Uniform_Stability", "via": ["statement"]}
+{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "FoundationsML_Stability_EmpiricalError", "via": ["solution", "statement"]}
+{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "FoundationsML_Stability_GeneralizationError", "via": ["solution", "statement"]}
+{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "FoundationsML_Stability_Loss", "via": ["solution", "statement"]}
+{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "StabGen_Hypothesis_Setting", "via": ["solution", "statement"]}
+{"parent": "StabGen.Uniform.uniform_stability_generalization_bound", "child": "StabGen_Uniform_Stability", "via": ["solution", "statement"]}
 {"parent": "StabGen.Uniform.uniform_stability_replace_one", "child": "FoundationsML_Stability_Loss", "via": ["solution", "statement"]}
 {"parent": "StabGen.Uniform.uniform_stability_replace_one", "child": "StabGen_Hypothesis_Setting", "via": ["solution", "statement"]}
 {"parent": "StabGen.Uniform.uniform_stability_replace_one", "child": "StabGen_Uniform_Stability", "via": ["solution", "statement"]}
@@ -59126,7 +59126,7 @@
 {"parent": "StochasticLinearBandit", "child": "StochasticBandit", "via": ["statement"]}
 {"parent": "StochasticOrders.Convex.convex_order_abs_iff", "child": "StochasticOrders_Convex_ConvexOrder", "via": ["solution", "statement"]}
 {"parent": "StochasticOrders.Convex.convex_order_convolution", "child": "StochasticOrders_Convex_ConvexOrder", "via": ["solution", "statement"]}
-{"parent": "StochasticOrders.Convex.convex_order_martingale_coupling_iff_v2", "child": "StochasticOrders_Convex_ConvexOrder", "via": ["statement"]}
+{"parent": "StochasticOrders.Convex.convex_order_martingale_coupling_iff_v2", "child": "StochasticOrders_Convex_ConvexOrder", "via": ["solution", "statement"]}
 {"parent": "StochasticOrders.Convex.convex_order_tail_integral_iff", "child": "StochasticOrders_Convex_ConvexOrder", "via": ["solution", "statement"]}
 {"parent": "StochasticOrders.LaplaceTransform.laplace_order_apply_completely_monotone_deriv_v2", "child": "StochasticOrders_LaplaceTransform_CompletelyMonotone_v2", "via": ["statement"]}
 {"parent": "StochasticOrders.LaplaceTransform.laplace_order_apply_completely_monotone_deriv_v2", "child": "StochasticOrders_LaplaceTransform_LaplaceOrder", "via": ["statement"]}
@@ -60664,7 +60664,7 @@
 {"parent": "SzemerediTrotter.Incidence.covering_lemma", "child": "SzemerediTrotter_Incidence_incidences", "via": ["statement"]}
 {"parent": "SzemerediTrotter.Incidence.covering_lemma", "child": "SzemerediTrotter_Incidence_squares", "via": ["statement"]}
 {"parent": "SzemerediTrotter.Incidence.good_intersections_bound", "child": "SzemerediTrotter_Incidence_incidences", "via": ["solution", "statement"]}
-{"parent": "SzemerediTrotter.Incidence.theorem_1", "child": "SzemerediTrotter_Incidence_incidences", "via": ["statement"]}
+{"parent": "SzemerediTrotter.Incidence.theorem_1", "child": "SzemerediTrotter_Incidence_incidences", "via": ["solution", "statement"]}
 {"parent": "SzemerediTrotter_Incidence_squares", "child": "SzemerediTrotter_Incidence_incidences", "via": ["statement"]}
 {"parent": "TDApprox.Conv.lemma_1", "child": "TDApprox_Conv_Model", "via": ["statement"]}
 {"parent": "TDApprox.Conv.lemma_2", "child": "TDApprox_Conv_Model", "via": ["statement"]}
@@ -60877,27 +60877,27 @@
 {"parent": "TaitTobin.Irregularity.pineapple_lower_bound", "child": "TaitTobin_Irregularity_Setting", "via": ["statement"]}
 {"parent": "TaitTobin.Irregularity.proposition_20", "child": "TaitTobin_Irregularity_Setting", "via": ["statement"]}
 {"parent": "TaitTobin.Irregularity.theorem_21", "child": "TaitTobin_Irregularity_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Outerplanar.B_empty", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
+{"parent": "TaitTobin.Outerplanar.B_empty", "child": "TaitTobin_Outerplanar_Setting", "via": ["solution", "statement"]}
 {"parent": "TaitTobin.Outerplanar.lemma_3", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
 {"parent": "TaitTobin.Outerplanar.lemma_4", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
 {"parent": "TaitTobin.Outerplanar.lemma_5", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
 {"parent": "TaitTobin.Outerplanar.lemma_6", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Outerplanar.outerplanar_facts", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Outerplanar.subgraph_fan_of_universal", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Outerplanar.theorem_7", "child": "TaitTobin_Outerplanar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.LS_counts", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.eq_7", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.lemma_10", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.lemma_11", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.lemma_12", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.lemma_13", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.lemma_14", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.lemma_8", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.lemma_9", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
+{"parent": "TaitTobin.Outerplanar.outerplanar_facts", "child": "TaitTobin_Outerplanar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Outerplanar.subgraph_fan_of_universal", "child": "TaitTobin_Outerplanar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Outerplanar.theorem_7", "child": "TaitTobin_Outerplanar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.LS_counts", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.eq_7", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.lemma_10", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.lemma_11", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.lemma_12", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.lemma_13", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.lemma_14", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.lemma_8", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.lemma_9", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
 {"parent": "TaitTobin.Planar.nonneighbors_x_card", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.planar_facts", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.subgraph_bookPath_of_universal", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
-{"parent": "TaitTobin.Planar.theorem_15", "child": "TaitTobin_Planar_Setting", "via": ["statement"]}
+{"parent": "TaitTobin.Planar.planar_facts", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.subgraph_bookPath_of_universal", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
+{"parent": "TaitTobin.Planar.theorem_15", "child": "TaitTobin_Planar_Setting", "via": ["solution", "statement"]}
 {"parent": "TaitTobin_Irregularity_Setting", "child": "WangKangXue_SpectralTuran_specRad", "via": ["statement"]}
 {"parent": "TaitTobin_Outerplanar_Setting", "child": "RobertsonSeymour1986_GM5_PlaneDrawing", "via": ["statement"]}
 {"parent": "TaitTobin_Outerplanar_Setting", "child": "WangKangXue_SpectralTuran_specRad", "via": ["statement"]}
@@ -68468,7 +68468,7 @@
 {"parent": "TwoSidedMatching.Guarantee.lemma_S5", "child": "TwoSidedMatching_Guarantee_Market", "via": ["statement"]}
 {"parent": "TwoSidedMatching.Guarantee.profit_identity", "child": "TwoSidedMatching_Guarantee_Market", "via": ["statement"]}
 {"parent": "TwoSidedMatching.Guarantee.proposition_1", "child": "TwoSidedMatching_Guarantee_Market", "via": ["statement"]}
-{"parent": "TwoSidedMatching.Guarantee.theorem_2", "child": "TwoSidedMatching_Guarantee_Market", "via": ["statement"]}
+{"parent": "TwoSidedMatching.Guarantee.theorem_2", "child": "TwoSidedMatching_Guarantee_Market", "via": ["solution", "statement"]}
 {"parent": "TwoSidedMatching.Guarantee.thinning", "child": "TwoSidedMatching_Guarantee_Market", "via": ["statement"]}
 {"parent": "TwoSidedMatching.MechBound.lemma_1_mechanism_bound", "child": "TwoSidedMatching_MechBound_Mechanism", "via": ["statement"]}
 {"parent": "TwoSidedMatching.MechBound.lemma_S1", "child": "TwoSidedMatching_MechBound_Mechanism", "via": ["statement"]}

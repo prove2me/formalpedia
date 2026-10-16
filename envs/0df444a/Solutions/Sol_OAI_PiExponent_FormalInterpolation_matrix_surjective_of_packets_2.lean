@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.FormalInterpolation.matrix_surjective_of_packets
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:36:13.088114+00:00
 -- url     : https://prove2.me/submissions/aff010c6-1343-4caf-b42c-62ed9c3eadf8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_actualMatrix_mulVec_eq_truncatedJetCoeff
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_truncatedJetPacket_surjective_of_fullPacket

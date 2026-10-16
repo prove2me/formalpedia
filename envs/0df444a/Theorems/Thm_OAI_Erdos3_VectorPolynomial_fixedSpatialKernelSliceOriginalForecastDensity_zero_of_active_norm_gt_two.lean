@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_fixedSpatialKernelSliceOriginalForecastDensity_zero_of_active_norm_gt_two
 -- name    : OAI.Erdos3.VectorPolynomial.fixedSpatialKernelSliceOriginalForecastDensity_zero_of_active_norm_gt_two
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:52:38.940108+00:00
 -- url     : https://prove2.me/theorems/b1d3b858-adfd-4a88-a049-6c449aab6934

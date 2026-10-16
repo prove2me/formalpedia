@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_member_spouse_annuity
 -- name    : actuarial_d_member_spouse_annuity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:00:47.375693+00:00
 -- url     : https://prove2.me/theorems/d196a6e9-4c0b-4298-8eb1-2bf4fd617c09

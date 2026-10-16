@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ProjLikeRetr_Projective_projective_retraction
 -- name    : ProjLikeRetr.Projective.projective_retraction
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T02:52:35.784239+00:00
 -- url     : https://prove2.me/theorems/80850f38-5f59-4eb4-b6f3-eafb1fbca1ed

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_RevenueOrdered_Tightness_revenue_ordered_bounds_tight
 -- name    : RevenueOrdered.Tightness.revenue_ordered_bounds_tight
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-06T04:19:17.591726+00:00
 -- url     : https://prove2.me/theorems/be4977f1-75c4-4710-9f78-d8d02d498716

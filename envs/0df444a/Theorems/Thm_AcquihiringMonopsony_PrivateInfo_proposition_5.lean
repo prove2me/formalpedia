@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AcquihiringMonopsony_PrivateInfo_proposition_5
 -- name    : AcquihiringMonopsony.PrivateInfo.proposition_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:08:56.73105+00:00
 -- url     : https://prove2.me/theorems/b47db36f-54bf-4212-a5e9-5b1b27dee80e

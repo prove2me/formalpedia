@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesBridge_bridge_interest_discount
 -- name    : ActuarialAnnuitiesBridge.bridge_interest_discount
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:36:26.184774+00:00
 -- url     : https://prove2.me/theorems/4f348e70-45b0-4365-9017-cc5d1a71e166

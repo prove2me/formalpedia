@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuitiesContinuous_bc_continuous_reconciliation
 -- name    : ActuarialAnnuitiesContinuous.bc_continuous_reconciliation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:15:52.410975+00:00
 -- url     : https://prove2.me/theorems/b989cc7d-7d35-4fd1-aea7-6aef38bd5649

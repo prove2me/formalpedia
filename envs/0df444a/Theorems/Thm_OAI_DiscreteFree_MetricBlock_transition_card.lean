@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_MetricBlock_transition_card
 -- name    : OAI.DiscreteFree.MetricBlock.transition_card
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:05:30.60508+00:00
 -- url     : https://prove2.me/theorems/9bb31e5f-a32f-4510-8b31-7f3f890b2136

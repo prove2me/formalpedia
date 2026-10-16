@@ -1,10 +1,8 @@
 -- Prove2me | solution 3 for PersistClust.Count.theorem_4_5
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fabianroll
 -- created : 2026-10-12T06:23:51.313459+00:00
 -- url     : https://prove2.me/submissions/030c9ae2-a59e-4883-b11a-76d384c60003
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib
 import Definitions.Def_PersistClust_Count_Setting

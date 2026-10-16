@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_truncation_surjective
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_truncation_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:27:30.899795+00:00
 -- url     : https://prove2.me/theorems/e2a8e5ab-922c-4b6b-83dd-ace8b0d84fc0

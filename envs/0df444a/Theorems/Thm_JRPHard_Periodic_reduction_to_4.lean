@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Periodic_reduction_to_4
 -- name    : JRPHard.Periodic.reduction_to_4
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:30.44529+00:00
 -- url     : https://prove2.me/theorems/950673cd-ca55-47c0-a430-6a4034121904

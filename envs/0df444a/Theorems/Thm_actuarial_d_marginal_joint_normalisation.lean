@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_marginal_joint_normalisation
 -- name    : actuarial_d_marginal_joint_normalisation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:04:13.157977+00:00
 -- url     : https://prove2.me/theorems/1d7e4552-8727-44c4-9705-9c934dce8070

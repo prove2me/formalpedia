@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_ShortEgyptian_main
 -- name    : OAI.ShortEgyptian.main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:21.058103+00:00
 -- url     : https://prove2.me/theorems/d229c134-4750-4cb8-9146-c7db216d1e93

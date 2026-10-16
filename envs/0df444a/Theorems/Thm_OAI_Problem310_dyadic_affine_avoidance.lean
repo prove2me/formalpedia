@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Problem310_dyadic_affine_avoidance
 -- name    : OAI.Problem310.dyadic_affine_avoidance
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:06.880479+00:00
 -- url     : https://prove2.me/theorems/7585f097-60e3-46d0-8b03-d55e35c412e2

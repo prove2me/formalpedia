@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Thorp_Current_first_reciprocal_main
 -- name    : OAI.Thorp.Current.first_reciprocal_main
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:30.814998+00:00
 -- url     : https://prove2.me/theorems/16d7d50d-a327-4588-a311-91d91eadec19

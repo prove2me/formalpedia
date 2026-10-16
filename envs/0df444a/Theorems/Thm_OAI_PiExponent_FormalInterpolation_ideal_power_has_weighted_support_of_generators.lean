@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_ideal_power_has_weighted_support_of_generators
 -- name    : OAI.PiExponent.FormalInterpolation.ideal_power_has_weighted_support_of_generators
--- status  : Open
+-- status  : Disproved
 -- author  : @Eyal1990
 -- created : 2026-10-08T18:33:01.472988+00:00
 -- url     : https://prove2.me/theorems/c5aa216b-e0a1-49b1-ade2-ebf15e93e487

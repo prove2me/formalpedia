@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.rawPacketMap_zero_of_ideal_power_generator_order
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T17:12:33.953613+00:00
 -- url     : https://prove2.me/submissions/016b8732-e444-44af-ab17-f2d2a0cdcab2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation

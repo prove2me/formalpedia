@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ChenSimchiLevi_General_sym_gstar_step
 -- name    : ChenSimchiLevi.General.sym_gstar_step
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T20:11:39.415483+00:00
 -- url     : https://prove2.me/theorems/7858b1ed-6d41-4e85-9337-ceb264da2cfa

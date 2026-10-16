@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BesbesZeevi_Parametric_parametric_regret_bound
 -- name    : BesbesZeevi.Parametric.parametric_regret_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T15:19:18.887997+00:00
 -- url     : https://prove2.me/theorems/c2f30c67-f5c2-47df-9fa0-1307a802137f

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.LogarithmicJetIdeals.finite_family_linear_functional_interpolation
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-14T07:15:39.014593+00:00
 -- url     : https://prove2.me/submissions/a1adf88e-f456-4b55-acc9-c89644efb39d
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Mathlib.Data.Complex.Basic
 import Mathlib.LinearAlgebra.LinearIndependent.Basic

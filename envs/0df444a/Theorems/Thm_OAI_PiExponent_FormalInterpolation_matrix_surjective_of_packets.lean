@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_matrix_surjective_of_packets
 -- name    : OAI.PiExponent.FormalInterpolation.matrix_surjective_of_packets
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-07T19:41:15.394894+00:00
 -- url     : https://prove2.me/theorems/4b414961-3af3-45a7-b5fa-d217d37922d3

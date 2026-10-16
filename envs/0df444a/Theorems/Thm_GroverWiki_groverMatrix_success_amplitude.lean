@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroverWiki_groverMatrix_success_amplitude
 -- name    : GroverWiki.groverMatrix_success_amplitude
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:41:48.638728+00:00
 -- url     : https://prove2.me/theorems/cffc4011-a5f4-4ad4-82ca-3a48aa1d73ee

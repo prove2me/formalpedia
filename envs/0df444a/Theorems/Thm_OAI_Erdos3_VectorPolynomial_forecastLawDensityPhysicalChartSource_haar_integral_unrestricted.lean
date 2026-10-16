@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_forecastLawDensityPhysicalChartSource_haar_integral_unrestricted
 -- name    : OAI.Erdos3.VectorPolynomial.forecastLawDensityPhysicalChartSource_haar_integral_unrestricted
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T02:09:27.038224+00:00
 -- url     : https://prove2.me/theorems/bd865ac9-56b1-4511-b94b-62a862438416

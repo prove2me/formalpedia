@@ -1,0 +1,187 @@
+-- Prove2me | solution 1 for OAI.Thorp.Fourier.Family.integrated_kernel
+-- status  : ACCEPTED   (prove)
+-- author  : @Shuze Chen
+-- created : 2026-10-16T05:20:57.300709+00:00
+-- url     : https://prove2.me/submissions/838d144e-3bee-4645-a372-d36052447c0c
+
+-- Generated from openai/math@1581d4c lean/OAI/Probability/ThorpShuffle/FourierFamilies.lean:L81-L101
+-- (upload_full_project.md Phase 4): solution for node OAI.Thorp.Fourier.Family.integrated_kernel. The node keeps its source
+-- declaration (inside its namespace, so name resolution is unchanged) next to the proof-only
+-- helpers it needs; the top-level `theorem solution` has its type (`type_of%`) and is proved by it.
+import Mathlib
+import Definitions.Def_ThorpFirstReciprocal
+import Definitions.Def_OAI_Probability_ThorpShuffle_Model
+import Definitions.Def_OAI_Probability_ThorpShuffle_PairAveraging
+import Definitions.Def_OAI_Probability_ThorpShuffle_Walsh
+import Definitions.Def_OAI_Probability_ThorpShuffle_Support
+import Definitions.Def_OAI_Probability_ThorpShuffle_ConditionalFlow
+import Definitions.Def_OAI_Probability_ThorpShuffle_FiniteExpectation
+import Definitions.Def_OAI_Probability_ThorpShuffle_WalshFlow
+import Definitions.Def_OAI_Probability_ThorpShuffle_FreshCoins
+import Definitions.Def_OAI_Probability_ThorpShuffle_HalfHistories
+import Definitions.Def_OAI_Probability_ThorpShuffle_NoiseEnergy
+import Definitions.Def_OAI_Probability_ThorpShuffle_EnergyDecay
+import Definitions.Def_OAI_Probability_ThorpShuffle_MarginalEnergy
+import Definitions.Def_OAI_Probability_ThorpShuffle_ConditionalLaw
+import Definitions.Def_OAI_Probability_ThorpShuffle_TaggedCompletion
+import Definitions.Def_OAI_Probability_ThorpShuffle_Reachability
+import Definitions.Def_OAI_Probability_ThorpShuffle_Cyclic
+import Definitions.Def_OAI_Probability_ThorpShuffle_Tableaux
+import Definitions.Def_OAI_Probability_ThorpShuffle_Specht
+import Definitions.Def_OAI_Probability_ThorpShuffle_Polytabloids
+import Definitions.Def_OAI_Probability_ThorpShuffle_Irreducibility
+import Definitions.Def_OAI_Probability_ThorpShuffle_Classification
+import Definitions.Def_OAI_Probability_ThorpShuffle_LinearExtensions
+import Definitions.Def_OAI_Probability_ThorpShuffle_ExtensionBounds
+import Definitions.Def_OAI_Probability_ThorpShuffle_PartitionBounds
+import Definitions.Def_OAI_Probability_ThorpShuffle_DegreeBounds
+import Definitions.Def_OAI_Probability_ThorpShuffle_FirstMoment
+import Definitions.Def_OAI_Probability_ThorpShuffle_Reynolds
+import Definitions.Def_OAI_Probability_ThorpShuffle_FourierFamilies
+
+-- ---- from OAI.Probability.ThorpShuffle.Reynolds ----
+namespace OAI
+
+universe uG uV uW uE uI
+
+noncomputable section
+
+open scoped BigOperators ComplexConjugate InnerProductSpace
+open Filter Topology
+
+open scoped BigOperators ComplexConjugate InnerProductSpace
+
+namespace Thorp.Fourier
+open scoped Classical
+variable {G : Type uG} [Group G] [Fintype G]
+variable {V : Type uV} {W : Type uW} [AddCommGroup V] [Module ℂ V] [AddCommGroup W] [Module ℂ W]
+
+section Unitary
+variable {E : Type uE} [NormedAddCommGroup E] [InnerProductSpace ℂ E]
+  [FiniteDimensional ℂ E]
+
+end Unitary
+end Thorp.Fourier
+
+namespace Thorp.Fourier
+open scoped Classical
+variable {G : Type uG} [Group G] [Fintype G]
+variable {V : Type uV} [AddCommGroup V] [Module ℂ V]
+
+lemma integrated_central (ρ : Representation ℂ G V) (f : G → ℂ)
+    (hf : ∀ g h, f (h * g * h⁻¹) = f g) (h : G) :
+    integrated ρ f * ρ h = ρ h * integrated ρ f := by
+  rw [integrated, Finset.sum_mul, Finset.mul_sum]
+  have he := Equiv.sum_comp (Equiv.mulLeft h |>.trans (Equiv.mulRight h⁻¹))
+    (fun g => (f g • ρ g) * ρ h)
+  rw [← he]
+  apply Finset.sum_congr rfl
+  intro g _
+  simp only [Equiv.trans_apply, Equiv.coe_mulLeft, Equiv.coe_mulRight, hf,
+    smul_mul_assoc, mul_smul_comm, ← map_mul, inv_mul_cancel_right]
+
+lemma central_scalar (ρ : Representation ℂ G V) [Representation.IsIrreducible ρ]
+    [FiniteDimensional ℂ V] (f : G → ℂ) (hf : ∀ g h, f (h * g * h⁻¹) = f g) :
+    ∃ c : ℂ, integrated ρ f = c • LinearMap.id := by
+  let A : Representation.IntertwiningMap ρ ρ :=
+    (integrated ρ f).intertwiningMap_of_isIntertwiningMap ρ ρ (by
+      intro g v
+      exact congrArg (fun A : Module.End ℂ V => A v) (integrated_central ρ f hf g))
+  obtain ⟨c, hc⟩ := (Representation.IsIrreducible.algebraMap_intertwiningMap_bijective_of_isAlgClosed
+    (ρ := ρ)).surjective A
+  exact ⟨c, (congrArg Representation.IntertwiningMap.toLinearMap hc).symm⟩
+
+lemma trace_integrated (ρ : Representation ℂ G V) (f : G → ℂ) :
+    LinearMap.trace ℂ V (integrated ρ f) = ∑ g, f g * ρ.character g := by
+  simp only [integrated, map_sum, map_smul, smul_eq_mul, Representation.character]
+
+end Thorp.Fourier
+
+end
+
+end OAI
+
+-- ---- from OAI.Probability.ThorpShuffle.FourierFamilies ----
+-- Lean 4.33.1 equivalents of the upstream Lean 4.34 theorem names.
+private theorem ite_eq_right.{u} {c : Prop} {h : Decidable c} (hc : ¬c) {α : Sort u} {t e : α} : (ite c t e) = e := @if_neg c h hc α t e
+
+namespace OAI
+
+universe uG uE uV
+
+noncomputable section
+
+open scoped BigOperators ComplexConjugate InnerProductSpace
+open Filter Topology
+
+namespace Thorp.Fourier
+open scoped Classical
+
+attribute [instance] Family.finiteIndex Family.normed Family.innerSpace Family.finiteDim Family.irreducible
+
+namespace Family
+variable {G : Type} [Group G] [Fintype G] (F : Family G)
+
+lemma orthogonal (i j : F.Index) :
+    (Fintype.card G : ℂ)⁻¹ * ∑ g, (F.rep i).character g * (F.rep j).character g⁻¹ =
+      if i = j then 1 else 0 := by
+  let : Invertible (Nat.card G : ℂ) := invertibleOfNonzero (NeZero.ne _)
+  rw [Fintype.card_eq_nat_card, Representation.char_orthonormal]
+  congr 1
+  apply propext
+  exact ⟨fun h => (F.distinct j i h).symm, fun h => by subst j; exact ⟨Representation.Equiv.refl _⟩⟩
+
+lemma kernel_central (i : F.Index) (g h : G) : F.kernel i (h * g * h⁻¹) = F.kernel i g := by
+  simp only [kernel, mul_inv_rev, inv_inv]
+  rw [← mul_assoc, Representation.char_conj]
+
+lemma integrated_kernel (i j : F.Index) : integrated (F.rep j) (F.kernel i) = if i = j then 1 else 0 := by
+  obtain ⟨c, hc⟩ := central_scalar (F.rep j) (F.kernel i) (F.kernel_central i)
+  have ht := congrArg (LinearMap.trace ℂ (F.Space j)) hc
+  rw [trace_integrated, map_smul, LinearMap.trace_id, smul_eq_mul] at ht
+  have hh : ∑ g, F.kernel i g * (F.rep j).character g =
+      (F.degree i : ℂ) * (if j = i then 1 else 0) := by
+    rw [← F.orthogonal j i]
+    simp only [kernel, Finset.mul_sum]
+    apply Finset.sum_congr rfl
+    intro g _
+    ring
+  rw [hh] at ht
+  have hd : (F.degree j : ℂ) ≠ 0 := by exact_mod_cast (F.positive j).ne'
+  by_cases hij : i = j
+  · subst j
+    simp only [↓reduceIte, mul_one] at ht ⊢
+    have he : c = 1 := (mul_right_cancel₀ hd (ht.symm.trans (one_mul _).symm))
+    simpa only [he, one_smul, Module.End.one_eq_id] using hc
+  · simp only [ite_eq_right (Ne.symm hij), mul_zero] at ht
+    have he : c = 0 := (mul_eq_zero.mp ht.symm).resolve_right hd
+    simp only [ite_eq_right hij, hc, he, zero_smul]
+
+end Family
+end Thorp.Fourier
+
+namespace Thorp.Fourier
+open scoped Classical
+variable {G : Type uG} [Group G] [Fintype G]
+variable {E : Type uE} [NormedAddCommGroup E] [InnerProductSpace ℂ E] [FiniteDimensional ℂ E]
+
+namespace Family
+variable {G : Type} [Group G] [Fintype G] (F : Family G)
+
+variable {V : Type uV} [AddCommGroup V] [Module ℂ V]
+
+end Family
+end Thorp.Fourier
+
+end
+
+end OAI
+
+-- ---- platform node ----
+open OAI OAI.Thorp OAI.Thorp.Fourier OAI.Thorp.Fourier.Family
+open scoped BigOperators ComplexConjugate InnerProductSpace
+open Filter Topology
+open scoped Classical
+
+
+theorem solution : type_of% @_root_.OAI.Thorp.Fourier.Family.integrated_kernel := @_root_.OAI.Thorp.Fourier.Family.integrated_kernel

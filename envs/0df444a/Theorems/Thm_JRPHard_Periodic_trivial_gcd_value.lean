@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Periodic_trivial_gcd_value
 -- name    : JRPHard.Periodic.trivial_gcd_value
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:34.205282+00:00
 -- url     : https://prove2.me/theorems/9a660da6-ae08-488e-840d-73a28342d9d9

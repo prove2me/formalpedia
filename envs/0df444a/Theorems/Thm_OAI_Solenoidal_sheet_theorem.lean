@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Solenoidal_sheet_theorem
 -- name    : OAI.Solenoidal.sheet_theorem
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:24.319981+00:00
 -- url     : https://prove2.me/theorems/c10e2bb3-9888-42e7-b815-6ef88c1d48fc

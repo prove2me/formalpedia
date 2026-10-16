@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_coeff_zero_of_simultaneousJetIdeal_pow
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_coeff_zero_of_simultaneousJetIdeal_pow
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-14T17:07:31.347983+00:00
 -- url     : https://prove2.me/theorems/255bbf85-d5a0-45af-91ed-a8a39f09b28d

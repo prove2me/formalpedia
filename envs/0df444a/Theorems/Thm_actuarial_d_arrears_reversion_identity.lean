@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_arrears_reversion_identity
 -- name    : actuarial_d_arrears_reversion_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:07:52.889265+00:00
 -- url     : https://prove2.me/theorems/464e9f10-cd45-4c81-9a5b-24415011b0e2

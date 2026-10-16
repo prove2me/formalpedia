@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_LeanBlast_SecondKahnKalai_secondKahnKalaiBounds
 -- name    : OAI.LeanBlast.SecondKahnKalai.secondKahnKalaiBounds
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:52.96496+00:00
 -- url     : https://prove2.me/theorems/0e677e57-e912-4f70-b949-99117d4e58d6

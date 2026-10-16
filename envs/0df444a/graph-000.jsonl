@@ -5603,14 +5603,14 @@
 {"parent": "AffinePolicies_SqrtBound_Setting", "child": "AffinePolicies_Simplex_Setting", "via": ["statement"]}
 {"parent": "AffinePolicies_TwoGap_Setting", "child": "AffinePolicies_Simplex_Setting", "via": ["statement"]}
 {"parent": "AffinePolicyOpt.OneDim.corollary_4_1", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["statement"]}
-{"parent": "AffinePolicyOpt.OneDim.lemma_4_1", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["statement"]}
+{"parent": "AffinePolicyOpt.OneDim.lemma_4_1", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["solution", "statement"]}
 {"parent": "AffinePolicyOpt.OneDim.lemma_4_2", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["statement"]}
 {"parent": "AffinePolicyOpt.OneDim.lemma_4_4", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["statement"]}
-{"parent": "AffinePolicyOpt.OneDim.lemma_4_8", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["statement"]}
-{"parent": "AffinePolicyOpt.OneDim.lemma_4_9", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["statement"]}
-{"parent": "AffinePolicyOpt.OneDim.lemma_7_1", "child": "AffinePolicyOpt_OneDim_Setting", "via": ["statement"]}
+{"parent": "AffinePolicyOpt.OneDim.lemma_4_8", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["solution", "statement"]}
+{"parent": "AffinePolicyOpt.OneDim.lemma_4_9", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["solution", "statement"]}
+{"parent": "AffinePolicyOpt.OneDim.lemma_7_1", "child": "AffinePolicyOpt_OneDim_Setting", "via": ["solution", "statement"]}
 {"parent": "AffinePolicyOpt.OneDim.property_P3", "child": "AffinePolicyOpt_OneDim_Zonogon", "via": ["solution", "statement"]}
-{"parent": "AffinePolicyOpt.OneDim.theorem_3_1", "child": "AffinePolicyOpt_OneDim_Setting", "via": ["statement"]}
+{"parent": "AffinePolicyOpt.OneDim.theorem_3_1", "child": "AffinePolicyOpt_OneDim_Setting", "via": ["solution", "statement"]}
 {"parent": "AffineVolterra.Existence.lemma_3_1", "child": "AffineVolterra_Existence_Setting", "via": ["statement"]}
 {"parent": "AffineVolterra.Existence.theorem_3_3", "child": "AffineVolterra_Existence_Setting", "via": ["statement"]}
 {"parent": "AffineVolterra.Existence.theorem_3_4", "child": "AffineVolterra_Existence_Setting", "via": ["statement"]}
@@ -41052,12 +41052,12 @@
 {"parent": "AnaliseDeFourier.parseval", "child": "analise_de_fourier_core", "via": ["solution", "statement"]}
 {"parent": "AnaliseDeFourier.summable_normSq_coeffC", "child": "analise_de_fourier_core", "via": ["solution", "statement"]}
 {"parent": "AnalyticGeometry.evalPadic_surjective", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
-{"parent": "AnalyticGeometry.evalR_ker_principal", "child": "AnalyticGeometry_ZLaurentGT", "via": ["statement"]}
+{"parent": "AnalyticGeometry.evalR_ker_principal", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
 {"parent": "AnalyticGeometry.evalR_surjective", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
 {"parent": "AnalyticGeometry.exists_poly_unique_zero", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
 {"parent": "AnalyticGeometry.isUnit_of_no_zeros", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
 {"parent": "AnalyticGeometry.reduction_mod_p", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
-{"parent": "AnalyticGeometry.zLaurentGT_isPrincipalIdealRing", "child": "AnalyticGeometry_ZLaurentGT", "via": ["statement"]}
+{"parent": "AnalyticGeometry.zLaurentGT_isPrincipalIdealRing", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
 {"parent": "AnalyticGeometry.zLaurentGT_isSubring", "child": "AnalyticGeometry_ZLaurentGT", "via": ["solution", "statement"]}
 {"parent": "AnalyticNT.Vaughan.vaughan_weighted_sum", "child": "AnalyticNT_Vaughan", "via": ["solution", "statement"]}
 {"parent": "AnalyticOn.norm_le_of_norm_le_on_sphere", "child": "Zeta23_FromPNTPlus_StrongPNTPrefix", "via": ["solution", "statement"]}
@@ -77444,7 +77444,7 @@
 {"parent": "BesbesZeevi.Parametric.a19", "child": "BesbesZeevi_Parametric_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BesbesZeevi.Parametric.a22", "child": "BesbesZeevi_Parametric_Algorithm", "via": ["statement"]}
 {"parent": "BesbesZeevi.Parametric.a23", "child": "BesbesZeevi_Parametric_Algorithm", "via": ["statement"]}
-{"parent": "BesbesZeevi.Parametric.a25", "child": "BesbesZeevi_Parametric_Algorithm", "via": ["statement"]}
+{"parent": "BesbesZeevi.Parametric.a25", "child": "BesbesZeevi_Parametric_Algorithm", "via": ["solution", "statement"]}
 {"parent": "BesbesZeevi.Parametric.fact1", "child": "BesbesZeevi_Parametric_Model", "via": ["solution", "statement"]}
 {"parent": "BesbesZeevi.Parametric.lemma1", "child": "BesbesZeevi_Parametric_Algorithm", "via": ["statement"]}
 {"parent": "BesbesZeevi.Parametric.lemma2", "child": "BesbesZeevi_Parametric_Model", "via": ["statement"]}
@@ -77474,11 +77474,11 @@
 {"parent": "BesbesZeevi.SingleParam.revenue_ratio_A31", "child": "BesbesZeevi_SingleParam_Model", "via": ["statement"]}
 {"parent": "BesbesZeevi.SingleParam.revenue_ratio_A31", "child": "BesbesZeevi_SingleParam_PoissonProcess", "via": ["statement"]}
 {"parent": "BesbesZeevi.SingleParam.revenue_ratio_A31", "child": "BesbesZeevi_SingleParam_Tuning", "via": ["statement"]}
-{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Algorithm", "via": ["statement"]}
-{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Family", "via": ["statement"]}
-{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Model", "via": ["statement"]}
-{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_PoissonProcess", "via": ["statement"]}
-{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Tuning", "via": ["statement"]}
+{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Algorithm", "via": ["solution", "statement"]}
+{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Family", "via": ["solution", "statement"]}
+{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Model", "via": ["solution", "statement"]}
+{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_PoissonProcess", "via": ["solution", "statement"]}
+{"parent": "BesbesZeevi.SingleParam.single_parameter_regret_bound", "child": "BesbesZeevi_SingleParam_Tuning", "via": ["solution", "statement"]}
 {"parent": "BesbesZeevi.SingleParam.stage_revenue_gap", "child": "BesbesZeevi_SingleParam_Algorithm", "via": ["statement"]}
 {"parent": "BesbesZeevi.SingleParam.stage_revenue_gap", "child": "BesbesZeevi_SingleParam_Family", "via": ["statement"]}
 {"parent": "BesbesZeevi.SingleParam.stage_revenue_gap", "child": "BesbesZeevi_SingleParam_Model", "via": ["statement"]}

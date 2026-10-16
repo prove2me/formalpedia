@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LogBarrierIPM_Iterations_theorem_30
 -- name    : LogBarrierIPM.Iterations.theorem_30
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T14:27:48.76993+00:00
 -- url     : https://prove2.me/theorems/39e31def-f36d-446c-99f3-4428cac23ffe

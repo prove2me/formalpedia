@@ -13,9 +13,9 @@
 --
 --   **Proof.** Substitute $\bar u = s^2/u$, $\bar a = s^2/a$, $\bar b = s^2/b$ and $\bar\beta = \beta\bar\alpha/\alpha$, $\bar\delta = \delta\bar\gamma/\gamma$. Then $\bar g_1 = a(\bar\beta - \bar\alpha)/s^2 - (a^2\bar\alpha/(s^2\alpha))\,g_1$ and similarly for $g_2$, while $\bar u = s^2u^{-1}$ and $\overline{u^{-1}} = s^{-2}u$; conjugation of \overline{\mathbb{Q}}-scalars stays in \overline{\mathbb{Q}}, and induction on the span finishes.
 --
---   **Novelty.** Not found in the sources read; it is short.
+--   **Novelty.** Not found in the sources read; it is routine. With it, the configuration of `DiazModulus.two_orbit_configuration_invisible_to_four_dimensional_extensions` is printed: rescaled by $u^{\mp 1}$, it is the configuration $(v, \bar v) \otimes (1, w, \bar w)$ of Diaz (2007, Th. 7(1)) at $v = u$, for any $w$ with $\overline{\mathbb{Q}} + \overline{\mathbb{Q}}w + \overline{\mathbb{Q}}\bar w = u\,(\overline{\mathbb{Q}}u^{-1} + \overline{\mathbb{Q}}g_1 + \overline{\mathbb{Q}}g_2)$ (credited here on 16 October 2026).
 -- source:
---   Not found in the sources read. R14 of the Diaz modulus mission. Formal proof: Diaz modulus mission, 14 October 2026 (C. Perassi).
+--   Not found in the sources read. With it, the configuration of DiazModulus.two_orbit_configuration_invisible_to_four_dimensional_extensions is that of G. Diaz, Produits et quotients de combinaisons linéaires de logarithmes de nombres algébriques : conjectures et résultats partiels, J. Théor. Nombres Bordeaux 19 (2007), 373–391, Th. 7(1) (p. 390), at v = u. R14 of the Diaz modulus mission. Formal proof: Diaz modulus mission, 14 October 2026 (C. Perassi).
 
 import Definitions.Def_DiazModulus
 

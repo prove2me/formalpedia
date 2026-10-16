@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Planar_eq_7
 -- name    : TaitTobin.Planar.eq_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:47:43.702732+00:00
 -- url     : https://prove2.me/theorems/307956d2-18ce-4311-b034-06689a5350fb

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TwoSidedMatching_Guarantee_theorem_2
 -- name    : TwoSidedMatching.Guarantee.theorem_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T10:19:28.082068+00:00
 -- url     : https://prove2.me/theorems/8f6b3f98-53a9-497d-a174-456d335e291e

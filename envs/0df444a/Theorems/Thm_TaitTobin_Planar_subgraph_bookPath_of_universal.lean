@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Planar_subgraph_bookPath_of_universal
 -- name    : TaitTobin.Planar.subgraph_bookPath_of_universal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:47:51.800005+00:00
 -- url     : https://prove2.me/theorems/1edbc1e8-70b6-4f76-b331-174f8ffa3880

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_asymptotic_estimate
 -- name    : CauchyRiemannIndex.asymptotic_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:01:21.885958+00:00
 -- url     : https://prove2.me/theorems/e7a7f80b-6161-4980-b7b2-6034452d56da

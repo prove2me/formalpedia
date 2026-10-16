@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_defer_last_identity
 -- name    : actuarial_d_defer_last_identity
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:06:17.040307+00:00
 -- url     : https://prove2.me/theorems/93c4117b-b32b-4b2c-ac4f-9e72e2168c10

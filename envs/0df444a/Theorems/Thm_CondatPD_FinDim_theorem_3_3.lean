@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondatPD_FinDim_theorem_3_3
 -- name    : CondatPD.FinDim.theorem_3_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T04:40:54.189813+00:00
 -- url     : https://prove2.me/theorems/252b993a-882a-4b56-b210-948cbe7a637f

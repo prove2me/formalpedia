@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Outerplanar_B_empty
 -- name    : TaitTobin.Outerplanar.B_empty
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:20.482683+00:00
 -- url     : https://prove2.me/theorems/edfd2194-5b47-40b8-9432-d05ad428412b

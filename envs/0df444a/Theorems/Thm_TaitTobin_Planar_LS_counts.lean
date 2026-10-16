@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Planar_LS_counts
 -- name    : TaitTobin.Planar.LS_counts
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T11:47:40.113563+00:00
 -- url     : https://prove2.me/theorems/a62fdd35-7cf6-4353-af5e-ecbb5ab31870

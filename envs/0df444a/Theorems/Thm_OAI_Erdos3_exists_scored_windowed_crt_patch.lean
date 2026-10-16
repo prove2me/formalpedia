@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_exists_scored_windowed_crt_patch
 -- name    : OAI.Erdos3.exists_scored_windowed_crt_patch
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T00:25:19.428677+00:00
 -- url     : https://prove2.me/theorems/a7317a23-cd15-40c1-b233-ce2a8376791a

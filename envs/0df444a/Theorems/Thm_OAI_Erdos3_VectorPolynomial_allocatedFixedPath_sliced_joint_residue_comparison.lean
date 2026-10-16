@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedFixedPath_sliced_joint_residue_comparison
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedFixedPath_sliced_joint_residue_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T00:08:44.859561+00:00
 -- url     : https://prove2.me/theorems/162c8234-0fdd-4713-8814-bcf1712169d3

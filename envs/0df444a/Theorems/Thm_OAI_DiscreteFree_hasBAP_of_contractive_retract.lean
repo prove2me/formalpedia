@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_hasBAP_of_contractive_retract
 -- name    : OAI.DiscreteFree.hasBAP_of_contractive_retract
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:19:09.001054+00:00
 -- url     : https://prove2.me/theorems/d75ac89e-6bbd-41aa-9e33-9022d620d220

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedSupportedSlicedPhysicalGridApproximation_error
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedPhysicalGridApproximation_error
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T16:26:29.409786+00:00
 -- url     : https://prove2.me/theorems/2dfc85fc-ad27-42ff-8c35-8f5ccde7cf6a

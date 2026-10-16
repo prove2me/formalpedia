@@ -11,7 +11,7 @@
 --
 --   $$D(P)\ge \frac n3+c n^{1/5}.$$
 --
---   Here $P$ is the image of the configuration and $D(P)$ counts the distinct values of `dist x y` for different $x,y\in P$. The same $c$ and $N$ must work for all such configurations. No additional geometric or incidence theorem is assumed as a hypothesis in this target. Status: CONJECTURED.
+--   Here $P$ is the image of the configuration and $D(P)$ counts the distinct values of `dist x y` for different $x,y\in P$. The same $c$ and $N$ must work for all such configurations. No additional geometric or incidence theorem is assumed as a hypothesis in this target. This theorem record does not yet have an accepted proof.
 -- source:
 --   Self-contained formal statement prepared for this mission.
 

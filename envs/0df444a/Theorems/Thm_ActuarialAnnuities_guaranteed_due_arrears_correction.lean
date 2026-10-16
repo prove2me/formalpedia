@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_guaranteed_due_arrears_correction
 -- name    : ActuarialAnnuities.guaranteed_due_arrears_correction
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:13:26.726286+00:00
 -- url     : https://prove2.me/theorems/8d6f8889-03d0-47f1-ab68-747bb75aaf2a

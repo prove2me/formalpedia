@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NetworkQuality_PotentialMax_eq_11
 -- name    : NetworkQuality.PotentialMax.eq_11
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:43:00.401749+00:00
 -- url     : https://prove2.me/theorems/2ed276d2-5bfe-4e50-962d-ec521ec63cf8

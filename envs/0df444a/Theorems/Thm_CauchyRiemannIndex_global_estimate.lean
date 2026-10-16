@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_global_estimate
 -- name    : CauchyRiemannIndex.global_estimate
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:01:58.045437+00:00
 -- url     : https://prove2.me/theorems/6547bd5d-a57a-4144-8558-c8185a1448c3

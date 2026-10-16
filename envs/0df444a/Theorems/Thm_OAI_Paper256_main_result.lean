@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Paper256_main_result
 -- name    : OAI.Paper256.main_result
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:33:00.154146+00:00
 -- url     : https://prove2.me/theorems/158a4fd6-d817-4ef3-8579-e7df43a33eec

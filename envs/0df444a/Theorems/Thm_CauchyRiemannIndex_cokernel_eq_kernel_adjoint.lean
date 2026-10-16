@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CauchyRiemannIndex_cokernel_eq_kernel_adjoint
 -- name    : CauchyRiemannIndex.cokernel_eq_kernel_adjoint
--- status  : Open
+-- status  : Proved
 -- author  : @Mazecto
 -- created : 2026-10-13T21:02:49.526477+00:00
 -- url     : https://prove2.me/theorems/f9c081e7-ba16-4bac-b408-351cc1b3fecf

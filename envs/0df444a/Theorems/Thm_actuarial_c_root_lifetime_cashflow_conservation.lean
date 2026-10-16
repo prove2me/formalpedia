@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_root_lifetime_cashflow_conservation
 -- name    : actuarial_c_root_lifetime_cashflow_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T06:23:48.465639+00:00
 -- url     : https://prove2.me/theorems/f7f0b2c3-1131-4e99-9a02-826626be073d

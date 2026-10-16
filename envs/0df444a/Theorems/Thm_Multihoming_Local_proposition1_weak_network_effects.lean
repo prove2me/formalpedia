@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_Multihoming_Local_proposition1_weak_network_effects
 -- name    : Multihoming.Local.proposition1_weak_network_effects
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T04:09:29.419423+00:00
 -- url     : https://prove2.me/theorems/e7083034-2a71-48d5-ad36-7ee980cab611

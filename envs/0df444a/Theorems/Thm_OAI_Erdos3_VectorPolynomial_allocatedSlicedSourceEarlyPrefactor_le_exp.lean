@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedSlicedSourceEarlyPrefactor_le_exp
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedSlicedSourceEarlyPrefactor_le_exp
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T09:18:37.780973+00:00
 -- url     : https://prove2.me/theorems/2620ca6e-e368-4c46-81f6-74d4ded3782d

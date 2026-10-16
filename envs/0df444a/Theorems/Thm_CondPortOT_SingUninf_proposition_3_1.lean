@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CondPortOT_SingUninf_proposition_3_1
 -- name    : CondPortOT.SingUninf.proposition_3_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-14T03:11:20.074357+00:00
 -- url     : https://prove2.me/theorems/bc2e8a35-3ed1-4952-b0cb-a711ddd8fdd3

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_RationalFilteredNilmanifold_exists_scored_native_chart
 -- name    : OAI.Erdos3.RationalFilteredNilmanifold.exists_scored_native_chart
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T00:39:15.135084+00:00
 -- url     : https://prove2.me/theorems/5c41c78b-18f9-40de-85aa-3feeecb85831

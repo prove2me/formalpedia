@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Periodic_item2_pinned
 -- name    : JRPHard.Periodic.item2_pinned
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T09:07:44.314054+00:00
 -- url     : https://prove2.me/theorems/d7c1fc23-9e18-4c25-86d2-3db31702e918

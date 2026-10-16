@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_supportProjection_bound
 -- name    : OAI.DiscreteFree.supportProjection_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:58:03.244716+00:00
 -- url     : https://prove2.me/theorems/e60dba14-2065-44d7-b7b9-d57a0cb06eaa

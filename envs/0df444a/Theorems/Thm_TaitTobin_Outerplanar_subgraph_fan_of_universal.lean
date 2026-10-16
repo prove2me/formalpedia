@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Outerplanar_subgraph_fan_of_universal
 -- name    : TaitTobin.Outerplanar.subgraph_fan_of_universal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:16.90199+00:00
 -- url     : https://prove2.me/theorems/97942d5f-9de0-4f03-81b5-146724647628

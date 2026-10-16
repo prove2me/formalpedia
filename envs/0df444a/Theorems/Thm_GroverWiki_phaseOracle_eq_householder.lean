@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroverWiki_phaseOracle_eq_householder
 -- name    : GroverWiki.phaseOracle_eq_householder
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:36:50.346484+00:00
 -- url     : https://prove2.me/theorems/abdf5418-cfd4-4147-be18-45ae16b3981e

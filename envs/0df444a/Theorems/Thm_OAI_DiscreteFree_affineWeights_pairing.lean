@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_affineWeights_pairing
 -- name    : OAI.DiscreteFree.affineWeights_pairing
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T10:00:31.196996+00:00
 -- url     : https://prove2.me/theorems/4e6fa9b4-d280-4417-95d2-19f4c86654ac

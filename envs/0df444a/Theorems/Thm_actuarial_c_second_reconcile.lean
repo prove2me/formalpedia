@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_c_second_reconcile
 -- name    : actuarial_c_second_reconcile
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T21:23:52.112976+00:00
 -- url     : https://prove2.me/theorems/a49543ac-ea9d-477b-8827-5fa4c1fe139a

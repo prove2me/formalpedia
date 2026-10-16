@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_LogarithmicJetIdeals_formalJet_finite_coefficients_surjective
 -- name    : OAI.PiExponent.LogarithmicJetIdeals.formalJet_finite_coefficients_surjective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-15T05:16:35.804823+00:00
 -- url     : https://prove2.me/theorems/b68ab187-b1fb-4f72-a4a2-f61fb13c2ee2

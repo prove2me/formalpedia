@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_LocalRademacher_StarHull_theorem_3_3_part_2
 -- name    : LocalRademacher.StarHull.theorem_3_3_part_2
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-05T11:28:44.617178+00:00
 -- url     : https://prove2.me/theorems/857d107e-9670-4345-abc9-c453ad06e14b

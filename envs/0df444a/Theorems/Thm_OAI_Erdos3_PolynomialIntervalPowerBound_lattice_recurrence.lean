@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_PolynomialIntervalPowerBound_lattice_recurrence
 -- name    : OAI.Erdos3.PolynomialIntervalPowerBound.lattice_recurrence
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T04:21:31.801032+00:00
 -- url     : https://prove2.me/theorems/59c816fb-55f9-42df-a0d0-bcf6a3038898

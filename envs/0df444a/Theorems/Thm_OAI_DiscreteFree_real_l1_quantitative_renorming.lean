@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_DiscreteFree_real_l1_quantitative_renorming
 -- name    : OAI.DiscreteFree.real_l1_quantitative_renorming
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:35.671499+00:00
 -- url     : https://prove2.me/theorems/a6b6d006-ee1f-454a-9989-c4d3141dafc0

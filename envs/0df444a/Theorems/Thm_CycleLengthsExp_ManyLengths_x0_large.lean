@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_CycleLengthsExp_ManyLengths_x0_large
 -- name    : CycleLengthsExp.ManyLengths.x0_large
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T21:25:51.40347+00:00
 -- url     : https://prove2.me/theorems/56a4bc6f-3dc0-4220-84e1-df0b16d8e26b

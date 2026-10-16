@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_TwoWayComplementation_chainStep_recognition
 -- name    : OAI.TwoWayComplementation.chainStep_recognition
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-15T09:09:50.586059+00:00
 -- url     : https://prove2.me/theorems/c587095a-5d57-4f0f-b129-2b990cdcb024

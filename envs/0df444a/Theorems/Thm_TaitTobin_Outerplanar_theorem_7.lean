@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TaitTobin_Outerplanar_theorem_7
 -- name    : TaitTobin.Outerplanar.theorem_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-09T10:57:13.338387+00:00
 -- url     : https://prove2.me/theorems/db58bfc9-32c8-43f6-9a92-18b986e69ef8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GroverWiki_standardOracle_tensor_minus
 -- name    : GroverWiki.standardOracle_tensor_minus
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-13T14:34:17.72602+00:00
 -- url     : https://prove2.me/theorems/f521aafb-4404-4b04-afe5-7828c0032296

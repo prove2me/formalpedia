@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_ActuarialAnnuities_term_fully_guaranteed
 -- name    : ActuarialAnnuities.term_fully_guaranteed
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-12T20:02:23.558989+00:00
 -- url     : https://prove2.me/theorems/dcc6b732-c2af-4a43-9af1-38ae1c2ef4e4

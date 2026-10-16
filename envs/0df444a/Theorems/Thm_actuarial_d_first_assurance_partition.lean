@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_actuarial_d_first_assurance_partition
 -- name    : actuarial_d_first_assurance_partition
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-13T07:02:50.624502+00:00
 -- url     : https://prove2.me/theorems/2b62acbe-7554-4aa2-8af4-d3218d4ea3ff

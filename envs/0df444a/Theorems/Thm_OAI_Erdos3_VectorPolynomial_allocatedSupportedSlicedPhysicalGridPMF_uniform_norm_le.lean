@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_allocatedSupportedSlicedPhysicalGridPMF_uniform_norm_le
 -- name    : OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedPhysicalGridPMF_uniform_norm_le
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-09T17:28:19.959094+00:00
 -- url     : https://prove2.me/theorems/cf69681f-ee27-45f5-bd6c-6b43848d6ac9

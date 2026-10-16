@@ -2498,10 +2498,10 @@
 {"parent": "FoundationsRL.FuncApprox.confidence_set_validity_v2", "child": "FoundationsRL_FuncApprox_Normalization", "via": ["statement"]}
 {"parent": "FoundationsRL.FuncApprox.confidence_set_validity_v2", "child": "FoundationsRL_RLBasics_Core", "via": ["statement"]}
 {"parent": "FoundationsRL.FuncApprox.confidence_set_validity_v2", "child": "FoundationsRL_RLBasics_UCBVI", "via": ["statement"]}
-{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_FuncApprox_BiLinUCB", "via": ["statement"]}
-{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_FuncApprox_Core", "via": ["statement"]}
-{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_RLBasics_Core", "via": ["statement"]}
-{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_RLBasics_UCBVI", "via": ["statement"]}
+{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_FuncApprox_BiLinUCB", "via": ["solution", "statement"]}
+{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_FuncApprox_Core", "via": ["solution", "statement"]}
+{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_RLBasics_Core", "via": ["solution", "statement"]}
+{"parent": "FoundationsRL.FuncApprox.optimism_and_elliptic_bound_v2", "child": "FoundationsRL_RLBasics_UCBVI", "via": ["solution", "statement"]}
 {"parent": "FoundationsRL.GeneralDM.dec_lower_bound", "child": "FoundationsRL_GeneralDM_ConstrainedDEC", "via": ["solution", "statement"]}
 {"parent": "FoundationsRL.GeneralDM.dec_lower_bound", "child": "FoundationsRL_GeneralDM_Divergences", "via": ["solution", "statement"]}
 {"parent": "FoundationsRL.GeneralDM.dec_lower_bound", "child": "FoundationsRL_GeneralDM_Protocol", "via": ["solution", "statement"]}
@@ -17408,14 +17408,14 @@
 {"parent": "GCT.mignon_ressayre_dc_lower_bound", "child": "GCT_determinantal_complexity", "via": ["statement"]}
 {"parent": "GCT.valiant_conjecture", "child": "GCT_determinantal_complexity", "via": ["statement"]}
 {"parent": "GCTOcc.gct_hardness_hypothesis", "child": "GCTOcc_occurrence", "via": ["statement"]}
-{"parent": "GCTOcc.hwv_nonvanishing_on_orbit_closure", "child": "GCTOcc_occurrence", "via": ["statement"]}
+{"parent": "GCTOcc.hwv_nonvanishing_on_orbit_closure", "child": "GCTOcc_occurrence", "via": ["solution", "statement"]}
 {"parent": "GCTOcc.kadish_landsberg_shape_restriction", "child": "GCTOcc_occurrence", "via": ["solution", "statement"]}
 {"parent": "GCTOcc.no_occurrence_obstructions", "child": "GCTOcc_occurrence", "via": ["statement"]}
 {"parent": "GCTOcc.occurs_add_of_occurs", "child": "GCTOcc_occurrence", "via": ["solution", "statement"]}
 {"parent": "GCTOcc.orbit_closure_det_two_eq_forms", "child": "GCTOcc_occurrence", "via": ["solution", "statement"]}
 {"parent": "GCTOcc.padded_permanent_mem_orbit_closure_of_symbolicDet", "child": "GCTOcc_occurrence", "via": ["solution", "statement"]}
 {"parent": "GCTOcc.padded_power_sum_mem_orbit_closure", "child": "GCTOcc_occurrence", "via": ["solution", "statement"]}
-{"parent": "GCTOcc.row_extended_rectangle_occurs", "child": "GCTOcc_occurrence", "via": ["statement"]}
+{"parent": "GCTOcc.row_extended_rectangle_occurs", "child": "GCTOcc_occurrence", "via": ["solution", "statement"]}
 {"parent": "GCTOcc_occurrence", "child": "GCTOcc_forms", "via": ["statement"]}
 {"parent": "GFactorPhysics.classical_gyromagnetic_ratio", "child": "GFactorPhysics_Defs", "via": ["solution", "statement"]}
 {"parent": "GFactorPhysics.gfactor_conventions_coincide_proton", "child": "GFactorPhysics_Defs", "via": ["solution", "statement"]}
@@ -44613,9 +44613,9 @@
 {"parent": "HunterPDE.Parabolic.galerkin_energy_estimate", "child": "HunterPDE_Parabolic_H10", "via": ["statement"]}
 {"parent": "HunterPDE.Parabolic.galerkin_energy_estimate", "child": "HunterPDE_Parabolic_WeakSolution", "via": ["statement"]}
 {"parent": "HunterPDE.Parabolic.galerkin_energy_estimate", "child": "HunterPDE_Parabolic_WeakTimeDeriv", "via": ["statement"]}
-{"parent": "HunterPDE.Parabolic.galerkin_exists_unique", "child": "HunterPDE_Parabolic_H10", "via": ["statement"]}
-{"parent": "HunterPDE.Parabolic.galerkin_exists_unique", "child": "HunterPDE_Parabolic_WeakSolution", "via": ["statement"]}
-{"parent": "HunterPDE.Parabolic.galerkin_exists_unique", "child": "HunterPDE_Parabolic_WeakTimeDeriv", "via": ["statement"]}
+{"parent": "HunterPDE.Parabolic.galerkin_exists_unique", "child": "HunterPDE_Parabolic_H10", "via": ["solution", "statement"]}
+{"parent": "HunterPDE.Parabolic.galerkin_exists_unique", "child": "HunterPDE_Parabolic_WeakSolution", "via": ["solution", "statement"]}
+{"parent": "HunterPDE.Parabolic.galerkin_exists_unique", "child": "HunterPDE_Parabolic_WeakTimeDeriv", "via": ["solution", "statement"]}
 {"parent": "HunterPDE.Parabolic.galerkin_limit", "child": "HunterPDE_Parabolic_H10", "via": ["statement"]}
 {"parent": "HunterPDE.Parabolic.galerkin_limit", "child": "HunterPDE_Parabolic_WeakSolution", "via": ["statement"]}
 {"parent": "HunterPDE.Parabolic.galerkin_limit", "child": "HunterPDE_Parabolic_WeakTimeDeriv", "via": ["statement"]}
@@ -71929,7 +71929,7 @@
 {"parent": "LearnStability_ERMLOO_RuleProperties", "child": "LearnStability_ERMLOO_Setting", "via": ["statement"]}
 {"parent": "LeastSquaresTD.Absorbing.lemma5_lstd_limit", "child": "LeastSquaresTD_Absorbing_Estimator", "via": ["statement"]}
 {"parent": "LeastSquaresTD.Absorbing.limit_matrix_invertible", "child": "LeastSquaresTD_Absorbing_Estimator", "via": ["solution", "statement"]}
-{"parent": "LeastSquaresTD.Absorbing.lstd_converges_absorbing", "child": "LeastSquaresTD_Absorbing_Estimator", "via": ["statement"]}
+{"parent": "LeastSquaresTD.Absorbing.lstd_converges_absorbing", "child": "LeastSquaresTD_Absorbing_Estimator", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Absorbing.transient_matrix_invertible", "child": "LeastSquaresTD_Absorbing_Chain", "via": ["solution", "statement"]}
 {"parent": "LeastSquaresTD.Absorbing.value_consistency", "child": "LeastSquaresTD_Absorbing_Estimator", "via": ["statement"]}
 {"parent": "LeastSquaresTD.Absorbing.visit_frequencies", "child": "LeastSquaresTD_Absorbing_Estimator", "via": ["statement"]}
@@ -80461,9 +80461,9 @@
 {"parent": "LocalRademacher.StarHull.subroot_growth", "child": "LocalRademacher_StarHull_Classes", "via": ["solution", "statement"]}
 {"parent": "LocalRademacher.StarHull.subroot_growth", "child": "VarianceRegularization_Localized_LocalizedComplexity", "via": ["solution", "statement"]}
 {"parent": "LocalRademacher.StarHull.subroot_growth", "child": "VarianceRegularization_Localized_RobustRisk", "via": ["solution", "statement"]}
-{"parent": "LocalRademacher.StarHull.theorem_3_3_part_2", "child": "LocalRademacher_StarHull_Classes", "via": ["statement"]}
-{"parent": "LocalRademacher.StarHull.theorem_3_3_part_2", "child": "VarianceRegularization_Localized_LocalizedComplexity", "via": ["statement"]}
-{"parent": "LocalRademacher.StarHull.theorem_3_3_part_2", "child": "VarianceRegularization_Localized_RobustRisk", "via": ["statement"]}
+{"parent": "LocalRademacher.StarHull.theorem_3_3_part_2", "child": "LocalRademacher_StarHull_Classes", "via": ["solution", "statement"]}
+{"parent": "LocalRademacher.StarHull.theorem_3_3_part_2", "child": "VarianceRegularization_Localized_LocalizedComplexity", "via": ["solution", "statement"]}
+{"parent": "LocalRademacher.StarHull.theorem_3_3_part_2", "child": "VarianceRegularization_Localized_RobustRisk", "via": ["solution", "statement"]}
 {"parent": "LocalRademacher.StarHull.tildeG_rademacher_le", "child": "LocalRademacher_StarHull_Classes", "via": ["solution", "statement"]}
 {"parent": "LocalRademacher.StarHull.tildeG_rademacher_le", "child": "VarianceRegularization_Localized_LocalizedComplexity", "via": ["solution", "statement"]}
 {"parent": "LocalRademacher.StarHull.tildeG_rademacher_le", "child": "VarianceRegularization_Localized_RobustRisk", "via": ["solution", "statement"]}
@@ -80653,9 +80653,9 @@
 {"parent": "LogBarrierIPM.Curvature.proposition_24", "child": "LogBarrierIPM_Curvature_TotalCurvature", "via": ["statement"]}
 {"parent": "LogBarrierIPM.Curvature.proposition_24", "child": "LogBarrierIPM_Curvature_TropicalAngle", "via": ["statement"]}
 {"parent": "LogBarrierIPM.Curvature.table_1", "child": "LogBarrierIPM_Curvature_TropicalCentralPathLW", "via": ["statement"]}
-{"parent": "LogBarrierIPM.Curvature.theorem_25", "child": "LogBarrierIPM_Curvature_SlackCentralPath", "via": ["statement"]}
-{"parent": "LogBarrierIPM.Curvature.theorem_25", "child": "LogBarrierIPM_Curvature_TotalCurvature", "via": ["statement"]}
-{"parent": "LogBarrierIPM.Curvature.theorem_25", "child": "LogBarrierIPM_Iterations_LW", "via": ["statement"]}
+{"parent": "LogBarrierIPM.Curvature.theorem_25", "child": "LogBarrierIPM_Curvature_SlackCentralPath", "via": ["solution", "statement"]}
+{"parent": "LogBarrierIPM.Curvature.theorem_25", "child": "LogBarrierIPM_Curvature_TotalCurvature", "via": ["solution", "statement"]}
+{"parent": "LogBarrierIPM.Curvature.theorem_25", "child": "LogBarrierIPM_Iterations_LW", "via": ["solution", "statement"]}
 {"parent": "LogBarrierIPM.Curvature.weak_angle_right", "child": "LogBarrierIPM_Curvature_TropicalAngle", "via": ["statement"]}
 {"parent": "LogBarrierIPM.Curvature.weak_angle_right", "child": "LogBarrierIPM_Curvature_TropicalCentralPathLW", "via": ["statement"]}
 {"parent": "LogBarrierIPM.Iterations.lemma_11", "child": "LogBarrierIPM_Iterations_LogMetrics", "via": ["statement"]}
@@ -80665,8 +80665,8 @@
 {"parent": "LogBarrierIPM.Iterations.lemma_8", "child": "LogBarrierIPM_Iterations_TropicalSegment", "via": ["statement"]}
 {"parent": "LogBarrierIPM.Iterations.proposition_1", "child": "LogBarrierIPM_Iterations_SlackLP", "via": ["solution", "statement"]}
 {"parent": "LogBarrierIPM.Iterations.proposition_20", "child": "LogBarrierIPM_Iterations_TropicalLW", "via": ["statement"]}
-{"parent": "LogBarrierIPM.Iterations.theorem_30", "child": "LogBarrierIPM_Iterations_LW", "via": ["statement"]}
-{"parent": "LogBarrierIPM.Iterations.theorem_30", "child": "LogBarrierIPM_Iterations_SlackLP", "via": ["statement"]}
+{"parent": "LogBarrierIPM.Iterations.theorem_30", "child": "LogBarrierIPM_Iterations_LW", "via": ["solution", "statement"]}
+{"parent": "LogBarrierIPM.Iterations.theorem_30", "child": "LogBarrierIPM_Iterations_SlackLP", "via": ["solution", "statement"]}
 {"parent": "LogBarrierIPM_Curvature_PuiseuxLP", "child": "LogBarrierIPM_Curvature_Puiseux", "via": ["statement"]}
 {"parent": "LogBarrierIPM_Curvature_PuiseuxLP", "child": "LogBarrierIPM_Curvature_SlackCentralPath", "via": ["statement"]}
 {"parent": "LogBarrierIPM_Curvature_SlackCentralPath", "child": "VanderbeiLP_CentralPath_BarrierProblem", "via": ["statement"]}
@@ -98245,10 +98245,10 @@
 {"parent": "McFadden1974.Asymptotics.expected_hessian_eq", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["solution", "statement"]}
 {"parent": "McFadden1974.Asymptotics.expected_score_eq_zero", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["statement"]}
 {"parent": "McFadden1974.Asymptotics.logProb_deriv_bounds", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["statement"]}
-{"parent": "McFadden1974.Asymptotics.mle_consistent", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["statement"]}
-{"parent": "McFadden1974.Asymptotics.mle_consistent_asymptotically_normal", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["statement"]}
+{"parent": "McFadden1974.Asymptotics.mle_consistent", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["solution", "statement"]}
+{"parent": "McFadden1974.Asymptotics.mle_consistent_asymptotically_normal", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["solution", "statement"]}
 {"parent": "McFadden1974.Asymptotics.prob_lower_bound", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["solution", "statement"]}
-{"parent": "McFadden1974.Asymptotics.score_clt", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["statement"]}
+{"parent": "McFadden1974.Asymptotics.score_clt", "child": "McFadden1974_Asymptotics_LogitSample", "via": ["solution", "statement"]}
 {"parent": "McFadden1974.IIA.binary_odds_eq", "child": "McFadden1974_IIA_ChoiceModel", "via": ["solution", "statement"]}
 {"parent": "McFadden1974.IIA.logit_of_benchmark_mem", "child": "McFadden1974_IIA_ChoiceModel", "via": ["solution", "statement"]}
 {"parent": "McFadden1974.IIA.logit_of_universal_benchmark", "child": "McFadden1974_IIA_ChoiceModel", "via": ["solution", "statement"]}

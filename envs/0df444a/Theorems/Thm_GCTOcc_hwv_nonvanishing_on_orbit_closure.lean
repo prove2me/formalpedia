@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_GCTOcc_hwv_nonvanishing_on_orbit_closure
 -- name    : GCTOcc.hwv_nonvanishing_on_orbit_closure
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-09-14T17:46:12.368025+00:00
 -- url     : https://prove2.me/theorems/9df98c42-873a-49b0-991c-d128c855fbe8

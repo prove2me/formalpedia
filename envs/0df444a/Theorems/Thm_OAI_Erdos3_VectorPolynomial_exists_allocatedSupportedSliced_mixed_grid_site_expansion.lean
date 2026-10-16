@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_VectorPolynomial_exists_allocatedSupportedSliced_mixed_grid_site_expansion
 -- name    : OAI.Erdos3.VectorPolynomial.exists_allocatedSupportedSliced_mixed_grid_site_expansion
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-10T05:50:19.10233+00:00
 -- url     : https://prove2.me/theorems/8e066945-d696-4c35-a666-0c05278040c9

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_PersistClust_Count_theorem_4_8
 -- name    : PersistClust.Count.theorem_4_8
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-08T08:40:39.920178+00:00
 -- url     : https://prove2.me/theorems/8f14d99e-9520-4f95-a91a-167ff27ea090

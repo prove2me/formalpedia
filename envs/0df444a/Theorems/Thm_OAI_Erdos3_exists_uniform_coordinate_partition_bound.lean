@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Erdos3_exists_uniform_coordinate_partition_bound
 -- name    : OAI.Erdos3.exists_uniform_coordinate_partition_bound
--- status  : Open
+-- status  : Proved
 -- author  : @dbenbenn
 -- created : 2026-10-08T23:21:19.295002+00:00
 -- url     : https://prove2.me/theorems/340e9f10-ecc6-4e0f-b14f-5e621cb3e638
