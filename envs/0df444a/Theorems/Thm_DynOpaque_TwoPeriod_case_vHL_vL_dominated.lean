@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOpaque_TwoPeriod_case_vHL_vL_dominated
 -- name    : DynOpaque.TwoPeriod.case_vHL_vL_dominated
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:21.705385+00:00
 -- url     : https://prove2.me/theorems/3c8b5dec-00dd-4f0e-b0ca-ecd2e3e5b0ea

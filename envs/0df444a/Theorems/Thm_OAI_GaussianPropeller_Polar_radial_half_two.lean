@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Polar_radial_half_two
 -- name    : OAI.GaussianPropeller.Polar.radial_half_two
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:38:14.966966+00:00
 -- url     : https://prove2.me/theorems/2658cb80-f75a-4e37-a81d-0f9b404ea3a4

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Aperiodic_multiple_of_M
 -- name    : JRPHard.Aperiodic.multiple_of_M
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:26.532165+00:00
 -- url     : https://prove2.me/theorems/0320f0d1-4316-4a4c-bcd4-ae19754809a0

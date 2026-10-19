@@ -1,0 +1,56 @@
+-- Prove2me | solution 1 for PermanentFormulaLowerBound.Formula.matching_block_four_leaves_of_coefficientTranscendenceDegree
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-19T11:37:13.787743+00:00
+-- url     : https://prove2.me/submissions/58080bab-95b7-4e9d-b66e-1bef03d13af3
+
+import Mathlib
+import Definitions.Def_Permanent
+import Theorems.Thm_PermanentFormulaLowerBound_Formula_blockLeaves_pos_of_eval_eq_permanent
+import Theorems.Thm_PermanentFormulaLowerBound_Formula_formula_skeleton
+import Theorems.Thm_PermanentFormulaLowerBound_Formula_yLeafCount_rename_matchingVariableEquiv
+import Theorems.Thm_PermanentFormulaLowerBound_Formula_eval_rename_eq_matchingMarkedPermanent
+import Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_yLeafCount_rename_matchingVariableEquiv
+import Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_eval_rename_eq_matchingMarkedPermanent
+import Theorems.Thm_PermanentFormulaLowerBound_RationalFormula_blockLeaves_pos_of_eval_eq_permanent
+
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option synthInstance.maxHeartbeats 100000
+open PermanentFormulaLowerBound
+universe u v w
+open scoped BigOperators Kronecker Matrix IntermediateField.algebraAdjoinAdjoin
+open PermanentFormulaLowerBound.Formula
+namespace PermanentFormulaLowerBound.Formula
+theorem _root_.solution
+    {n m : ℕ} {Y : Type*} [Fintype Y] [Nonempty Y]
+    (d : Y ↪ Fin n × Fin n)
+    (f : Formula (Fin n × Fin n) ℂ)
+    (hf : eval f = permanentPolynomial n)
+    (htd : ((m * m : ℕ) : Cardinal) ≤
+      coefficientTranscendenceDegree (matchingMarkedPermanent d)) :
+    m * m ≤ 4 * blockLeaves (matchingMarkedFinset d) f := by
+  classical
+  let y : Y := Classical.choice (inferInstance : Nonempty Y)
+  have hymem : d y ∈ matchingMarkedFinset d :=
+    (mem_matchingMarkedFinset d (d y)).2 ⟨y, rfl⟩
+  have hpos : 0 < blockLeaves (matchingMarkedFinset d) f :=
+    blockLeaves_pos_of_eval_eq_permanent f hf
+      (matchingMarkedFinset d) (d y).1 (d y).2 hymem
+  let g : Formula (Y ⊕ matchingOutside d) ℂ :=
+    rename (matchingVariableEquiv d).symm f
+  have hmarked : 0 < yLeafCount g := by
+    simpa [g, yLeafCount_rename_matchingVariableEquiv] using hpos
+  have hupper := formula_skeleton g hmarked
+  dsimp [g] at hupper
+  rw [eval_rename_eq_matchingMarkedPermanent d f hf,
+    yLeafCount_rename_matchingVariableEquiv d f] at hupper
+  have hcard :
+      ((m * m : ℕ) : Cardinal) ≤
+        ((4 * blockLeaves (matchingMarkedFinset d) f - 2 : ℕ) : Cardinal) :=
+    htd.trans hupper
+  have hnat :
+      m * m ≤ 4 * blockLeaves (matchingMarkedFinset d) f - 2 := by
+    exact_mod_cast hcard
+  omega
+end PermanentFormulaLowerBound.Formula

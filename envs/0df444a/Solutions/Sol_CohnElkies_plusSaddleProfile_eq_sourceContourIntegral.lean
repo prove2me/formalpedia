@@ -1,0 +1,44 @@
+-- Prove2me | solution 1 for CohnElkies.plusSaddleProfile_eq_sourceContourIntegral
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-19T11:37:28.839589+00:00
+-- url     : https://prove2.me/submissions/abe7a710-3f35-4640-8f04-004eff62f211
+
+import Mathlib
+import Definitions.Def_SpherePacking
+import Theorems.Thm_CohnElkies_saddleSourceMellinContour_integral_change
+
+set_option autoImplicit true
+open CohnElkies
+set_option backward.isDefEq.respectTransparency false
+set_option backward.defeqAttrib.useBackward true
+set_option maxHeartbeats 800000
+noncomputable section
+open Filter Set MeasureTheory intervalIntegral
+open scoped ContDiff FourierTransform Interval RealInnerProductSpace
+  SchwartzMap Topology
+namespace CohnElkies
+theorem _root_.solution
+    {ε ℓ r u : ℝ}
+    (hε : 0 < ε) (hℓ : 0 < ℓ)
+    (horder : shortCutoff ε ≤ shortEndpoint ε)
+    (hr : 0 < r) (hu : -1 < u) :
+    plusSaddleProfile ε ℓ r =
+      ((ℓ / (2 * Real.pi) : ℝ) : ℂ) *
+        (∫ T : ℝ,
+          saddleMellinInversePower r
+              (saddleSourceMellinContour ℓ u T) *
+            plusSaddleMellinData ε ℓ
+              (saddleSourceMellinContour ℓ u T)) := by
+  have ha : 0 < ℓ * (1 + u) := by
+    have hη : 0 < 1 + u := by linarith
+    positivity
+  rw [plusSaddleProfile_eq_positive_contour
+    (a := ℓ * (1 + u)) hε hℓ horder hr ha]
+  rw [saddleSourceMellinContour_integral_change
+    hℓ u (fun z : ℂ =>
+      saddleMellinInversePower r z *
+        plusSaddleMellinData ε ℓ z)]
+  push_cast
+  ring
+end CohnElkies

@@ -1,0 +1,26 @@
+-- Prove2me | Theorems.Thm_SoficGroups_KunGuardedCanonicalMatchedDensity_matchedRadiusBad_mono_bad
+-- name    : SoficGroups.KunGuardedCanonicalMatchedDensity.matchedRadiusBad_mono_bad
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:56:33.785013+00:00
+-- url     : https://prove2.me/theorems/b2cacd42-b569-410c-b689-22c022a0ba9b
+-- title:
+--   SoficGroups.KunGuardedCanonicalMatchedDensity.matchedRadiusBad_mono_bad
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | NonSoficGroup | external Lean 4.33.1 validation; bundle SHA256 e4e7c115f408742b878c14f4769b505077b1d17e709feeb80a84df8bd512b1c7
+
+import Mathlib
+import Definitions.Def_NonSoficGroup
+set_option autoImplicit true
+noncomputable section
+open SoficGroups
+open SoficGroups.KunGuardedCanonicalMatchedDensity
+open Filter Topology
+
+theorem SoficGroups.KunGuardedCanonicalMatchedDensity.matchedRadiusBad_mono_bad
+    {V ι : Type*} [DecidableEq V]
+    {U : Finset V} (P : Finpartition U)
+    (I : Finset ι) (w : ι → Equiv.Perm V)
+    {B B' : Finset V} (hB : B ⊆ B') :
+    SoficGroups.matchedRadiusBad P I w B ⊆
+      SoficGroups.matchedRadiusBad P I w B' := by sorry

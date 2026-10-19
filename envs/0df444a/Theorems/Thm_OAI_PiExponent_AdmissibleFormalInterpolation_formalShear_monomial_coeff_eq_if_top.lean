@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalShear_monomial_coeff_eq_if_top
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_monomial_coeff_eq_if_top
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:06:27.188688+00:00
 -- url     : https://prove2.me/theorems/7b37d6ea-7a20-4a32-975c-59a1fab95cb8

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_YangMillsFriedrichsLimit_memLp_one_div_succ
 -- name    : BookProof.YangMillsFriedrichsLimit.memLp_one_div_succ
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T08:25:25.308001+00:00
 -- url     : https://prove2.me/theorems/cebdb547-505b-40d3-9917-1180705aad45

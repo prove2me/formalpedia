@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Coding_ae_radial_sequence
 -- name    : OAI.EntropyRateDimension.Coding.ae_radial_sequence
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T04:53:07.523856+00:00
 -- url     : https://prove2.me/theorems/dbe1f680-4d82-4f39-a39e-c14e22e32962

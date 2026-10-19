@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_odd_norm_impossible
 -- name    : OAI.CirculantHadamard.odd_norm_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:29:44.968485+00:00
 -- url     : https://prove2.me/theorems/052c1596-b63c-4b98-90eb-8cc019bbc2b5

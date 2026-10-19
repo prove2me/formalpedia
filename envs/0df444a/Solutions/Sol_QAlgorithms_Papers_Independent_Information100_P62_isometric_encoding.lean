@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Information100.P62.isometric_encoding
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-19T09:43:11.29587+00:00
 -- url     : https://prove2.me/submissions/64e64aea-c8d6-4f07-a6ca-983365e8e900
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_orthogonal_codes
 import Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_output_representation

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_sirk_band_refinement_krylov
 -- name    : BookProof.ChapterH8.sirk_band_refinement_krylov
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-11T20:42:16.560995+00:00
 -- url     : https://prove2.me/theorems/79dc4cd0-c94e-4e16-abec-228759fb47d6

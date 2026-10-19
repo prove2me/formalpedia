@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_configuration_determinants
 -- name    : OAI.GaussianPropeller.Reduction.configuration_determinants
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:51:09.634528+00:00
 -- url     : https://prove2.me/theorems/2db0d2f4-7a76-4a23-bd2f-33e0b6968b5a

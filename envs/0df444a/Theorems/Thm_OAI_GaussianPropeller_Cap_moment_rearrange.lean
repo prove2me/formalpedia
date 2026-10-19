@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Cap_moment_rearrange
 -- name    : OAI.GaussianPropeller.Cap.moment_rearrange
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:43:42.409602+00:00
 -- url     : https://prove2.me/theorems/0ad622e5-a0bc-4e68-a086-951a8848d652

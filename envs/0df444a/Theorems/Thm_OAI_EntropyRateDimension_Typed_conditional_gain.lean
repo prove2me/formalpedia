@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Typed_conditional_gain
 -- name    : OAI.EntropyRateDimension.Typed.conditional_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T05:16:26.984442+00:00
 -- url     : https://prove2.me/theorems/a57fe61c-ea9e-4c92-beba-490365387bde

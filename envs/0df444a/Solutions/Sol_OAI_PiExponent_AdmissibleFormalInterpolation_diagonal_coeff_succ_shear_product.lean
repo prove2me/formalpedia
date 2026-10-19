@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.diagonal_coeff_succ_shear_product
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:38:16.706002+00:00
 -- url     : https://prove2.me/submissions/7ac71ed8-87c8-4eb5-927f-6428f627df97
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation

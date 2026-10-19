@@ -81064,13 +81064,13 @@
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_abelian_maximal_eq_diagonal", "child": "ChapterAbelianDiagonalCountable", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_abelian_subset_diagonal", "child": "BookProof.ChapterAbelianAtomicCondensation.commutes_atomProj_iff", "via": ["solution"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_abelian_subset_diagonal", "child": "ChapterAbelianAtomicCondensation", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_abelian_subset_diagonal", "child": "ChapterAbelianDiagonalCountable", "via": ["statement"]}
+{"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_abelian_subset_diagonal", "child": "ChapterAbelianDiagonalCountable", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_measure_index_dichotomy", "child": "BookProof.ChapterAtomicDecomposition.atoms_countable", "via": ["solution"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_measure_index_dichotomy", "child": "ChapterAbelianAtomicCondensation", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_measure_index_dichotomy", "child": "ChapterAbelianDiagonalCountable", "via": ["statement"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.atomic_measure_index_dichotomy", "child": "ChapterAtomicDecomposition", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterAbelianAtomicCondensation.commutes_atomProj_iff", "child": "ChapterAbelianAtomicCondensation", "via": ["statement"]}
-{"parent": "BookProof.ChapterAbelianAtomicCondensation.commutes_atomProj_iff", "child": "ChapterAbelianDiagonalCountable", "via": ["statement"]}
+{"parent": "BookProof.ChapterAbelianAtomicCondensation.commutes_atomProj_iff", "child": "ChapterAbelianAtomicCondensation", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterAbelianAtomicCondensation.commutes_atomProj_iff", "child": "ChapterAbelianDiagonalCountable", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.diagonal_starAlgebra_package", "child": "ChapterAbelianAtomicCondensation", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterAbelianAtomicCondensation.diagonal_starAlgebra_package", "child": "ChapterAbelianDiagonalCountable", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterAbelianDiagonalCountable.commutes_diagOp_iff", "child": "ChapterAbelianDiagonalCountable", "via": ["solution", "statement"]}
@@ -81994,7 +81994,7 @@
 {"parent": "BookProof.ChapterBaryonAsymmetry.radiation_satisfies_continuity", "child": "ChapterBaryonAsymmetry", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterBayesInference.evidence_eq_marginal", "child": "ChapterBayesInference", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterBayesInference.evidence_nonneg", "child": "ChapterBayesInference", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterBayesInference.exists_unitary_reproduces_posterior", "child": "ChapterBayesInference", "via": ["statement"]}
+{"parent": "BookProof.ChapterBayesInference.exists_unitary_reproduces_posterior", "child": "ChapterBayesInference", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterBayesInference.joint_nonneg", "child": "ChapterBayesInference", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterBayesInference.joint_sum_one", "child": "ChapterBayesInference", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterBayesInference.posterior_eq_born_conditional", "child": "BookProof.ChapterBayesInference.posterior_eq_joint_div_evidence", "via": ["solution"]}
@@ -83044,8 +83044,8 @@
 {"parent": "BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol_sub_evol_le", "child": "BookProof.ChapterEnergyBoundedEvolution.norm_evol_sub_evol_le_ae", "via": ["solution"]}
 {"parent": "BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol_sub_evol_le", "child": "ChapterEnergyBandDecomposition", "via": ["statement"]}
 {"parent": "BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol_sub_evol_le", "child": "ChapterEnergyBoundedEvolution", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol_sub_self_le", "child": "ChapterEnergyBandDecomposition", "via": ["statement"]}
-{"parent": "BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol_sub_self_le", "child": "ChapterEnergyBoundedEvolution", "via": ["statement"]}
+{"parent": "BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol_sub_self_le", "child": "ChapterEnergyBandDecomposition", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterEnergyBoundedEvolution.eLpNorm_evol_sub_self_le", "child": "ChapterEnergyBoundedEvolution", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterEnergyBoundedEvolution.energyLimited_evol", "child": "ChapterEnergyBandDecomposition", "via": ["statement"]}
 {"parent": "BookProof.ChapterEnergyBoundedEvolution.energyLimited_evol", "child": "ChapterEnergyBoundedEvolution", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterEnergyBoundedEvolution.norm_evol_apply", "child": "ChapterEnergyBandDecomposition", "via": ["statement"]}
@@ -83069,9 +83069,9 @@
 {"parent": "BookProof.ChapterEntropy.invertibleProb_nonneg", "child": "ChapterEntropy", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterEntropy.invertibleProb_tendsto_zero", "child": "BookProof.ChapterEntropy.invertibleProb_eq", "via": ["solution"]}
 {"parent": "BookProof.ChapterEntropy.invertibleProb_tendsto_zero", "child": "ChapterEntropy", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_antitoneOn", "child": "ChapterAttentionEntropy", "via": ["statement"]}
-{"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_antitoneOn", "child": "ChapterEntropyTemperature", "via": ["statement"]}
-{"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_antitoneOn", "child": "ChapterSoftmaxSharpness", "via": ["statement"]}
+{"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_antitoneOn", "child": "ChapterAttentionEntropy", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_antitoneOn", "child": "ChapterEntropyTemperature", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_antitoneOn", "child": "ChapterSoftmaxSharpness", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_eq", "child": "ChapterAttentionEntropy", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_eq", "child": "ChapterEntropyTemperature", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterEntropyTemperature.attentionEntropy_eq", "child": "ChapterSoftmaxFluctuation", "via": ["solution", "statement"]}
@@ -84518,10 +84518,10 @@
 {"parent": "BookProof.ChapterH8.sirk_approx_projection", "child": "ChapterH5", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterH8.sirk_approx_projection", "child": "ChapterH6", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterH8.sirk_approx_projection", "child": "ChapterH8", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH4", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH5", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH6", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH8", "via": ["statement"]}
+{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH4", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH5", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH6", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.sirk_approx_projection_poly", "child": "ChapterH8", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterH8.sirk_approx_projection_rational", "child": "BookProof.ChapterH8.adjoint_comp_nested", "via": ["solution"]}
 {"parent": "BookProof.ChapterH8.sirk_approx_projection_rational", "child": "BookProof.ChapterH8.compress_adjoint_intertwine", "via": ["solution"]}
 {"parent": "BookProof.ChapterH8.sirk_approx_projection_rational", "child": "BookProof.ChapterH8.compress_adjoint_intertwine_poly", "via": ["solution"]}
@@ -84547,11 +84547,11 @@
 {"parent": "BookProof.ChapterH8.sirk_band_refinement", "child": "ChapterH5", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterH8.sirk_band_refinement", "child": "ChapterH6", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterH8.sirk_band_refinement", "child": "ChapterH8", "via": ["solution", "statement"]}
-{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH4", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH5", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH6", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH8", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH8Bases", "via": ["statement"]}
+{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH4", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH5", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH6", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH8", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.sirk_band_refinement_of_orthonormal", "child": "ChapterH8Bases", "via": ["solution", "statement"]}
 {"parent": "BookProof.ChapterH8.sirk_band_refinement_poly", "child": "BookProof.ChapterH8.adjoint_comp_self_of_nested", "via": ["solution"]}
 {"parent": "BookProof.ChapterH8.sirk_band_refinement_poly", "child": "BookProof.ChapterH8.compress_aeval_transfer", "via": ["solution"]}
 {"parent": "BookProof.ChapterH8.sirk_band_refinement_poly", "child": "BookProof.ChapterH8.fine_range_of_coarse", "via": ["solution"]}

@@ -1,0 +1,42 @@
+-- Prove2me | Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_RectangularVertices_tendsto_log_dimensionSum_div_log_two
+-- name    : MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_log_dimensionSum_div_log_two
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:55:55.676703+00:00
+-- url     : https://prove2.me/theorems/c1391465-5c15-4c77-80c9-43c4c6a989fd
+-- title:
+--   MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_log_dimensionSum_div_log_two
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | MetricCodes | external Lean 4.33.1 validation; bundle SHA256 71efd718b78c759bacc3930a694e994b71f3298c205f9195221b6370cac788b3
+
+import Definitions.Def_SpherePacking
+import Definitions.Def_MetricCodes
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option linter.unusedVariables false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unnecessarySimpa false
+set_option autoImplicit false
+open MetricCodes
+open MetricCodes.Spherical
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology
+open MetricCodes.Spherical.HigherHierarchy MetricCodes.Spherical.HigherHierarchy.RectangularVertices
+open MetricCodes.Spherical.HigherChannel
+
+theorem MetricCodes.Spherical.HigherHierarchy.RectangularVertices.tendsto_log_dimensionSum_div_log_two {r m : ℕ}
+    (a : Fin (r + 1) → ℝ)
+    (ha : ∀ i, 0 < a i) (hanti : StrictAnti a) :
+    Tendsto
+      (fun n : ℕ =>
+        (Real.log (dimensionSum (m := m) a n) / (n : ℝ)) / Real.log 2)
+      atTop
+      (𝓝 (∑ i : Fin (r + 1), MetricCodes.sphericalEntropy (a i))) := by sorry

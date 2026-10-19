@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Path_integral_form_quadratic
 -- name    : OAI.Release075.Discrete.Path.integral_form_quadratic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:29:16.446335+00:00
 -- url     : https://prove2.me/theorems/0ee46d9a-36d8-4ad7-ba46-d6076c498163

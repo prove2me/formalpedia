@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_lemma_5
 -- name    : TokenFinance.MoralHazard.lemma_5
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:50.614101+00:00
 -- url     : https://prove2.me/theorems/f342a7d7-4b21-4057-b071-7417ca156ae7

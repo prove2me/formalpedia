@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_FreeChain_cyclic_chain_obstruction
 -- name    : OAI.Release075.FreeChain.cyclic_chain_obstruction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:23:10.913256+00:00
 -- url     : https://prove2.me/theorems/854332c5-206d-472f-bdbf-79176d783e79

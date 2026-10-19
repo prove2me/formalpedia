@@ -1,0 +1,31 @@
+-- Prove2me | solution 1 for Ehrhart.BergmanJetPartitionEndpoint.measurable_momentBodyTorusWeight
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-19T11:36:19.434976+00:00
+-- url     : https://prove2.me/submissions/2864325c-4d15-455a-a82e-fbda6c926a40
+
+import Mathlib
+import Definitions.Def_EhrhartVolumeInequality
+
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+attribute [local instance] _p2m_local_instance_3610026555_5
+noncomputable section
+open Ehrhart
+open Set MeasureTheory
+open scoped BigOperators ENNReal
+open Ehrhart.BergmanJetPartitionEndpoint
+open Set Function Filter MeasureTheory
+open TorusCharacters WeightedTorusHilbert MomentOptimizer MomentTargetGeodesic MomentTargetDanskin
+open MomentFirstVariation MomentRegularity BergmanJetTorusEnvelope BergmanJetTorusCoercivity
+open JetEnvelopeSlopeConvergence JetEnvelopeRightDerivative LogPartitionConvexity
+open scoped BigOperators ENNReal Topology
+namespace Ehrhart.BergmanJetPartitionEndpoint
+theorem _root_.solution
+    {n : ℕ} (K : CenteredBody n)
+    (p : LogSpace n) (t : ℝ) :
+    Measurable (momentBodyTorusWeight K p t) := by
+  exact measurable_momentTorusEnvelopeTimeSlice
+    K (momentBodyOptimizer K)
+    (momentBodyOptimizer_transport K) p t
+end Ehrhart.BergmanJetPartitionEndpoint

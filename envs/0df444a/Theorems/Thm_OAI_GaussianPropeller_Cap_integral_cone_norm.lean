@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Cap_integral_cone_norm
 -- name    : OAI.GaussianPropeller.Cap.integral_cone_norm
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:43:09.137453+00:00
 -- url     : https://prove2.me/theorems/74fbd55e-aff7-4be2-b557-2e31f43715f8

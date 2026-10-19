@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_binary_sign_norm_impossible
 -- name    : OAI.CirculantHadamard.binary_sign_norm_impossible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T10:10:38.0434+00:00
 -- url     : https://prove2.me/theorems/890ee32f-e8dc-4252-968c-fcc7dae7af2f

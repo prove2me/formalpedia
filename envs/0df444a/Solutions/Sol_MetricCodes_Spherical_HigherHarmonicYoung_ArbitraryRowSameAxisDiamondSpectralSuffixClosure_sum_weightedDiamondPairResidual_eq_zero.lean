@@ -1,0 +1,66 @@
+-- Prove2me | solution 1 for MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralSuffixClosure.sum_weightedDiamondPairResidual_eq_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-19T11:36:43.40114+00:00
+-- url     : https://prove2.me/submissions/2d8c9cf1-d26a-4596-aca4-4daf348b4e15
+
+import Definitions.Def_SpherePacking
+import Definitions.Def_MetricCodes
+import Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondSpectralRTT_spectralPathOperator_rtt
+import Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondSpectralRTT_spectralPathOperator_same_target_commute
+import Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_ArbitraryRowSameAxisDiamondSpectralSuffixClosure_sum_weightedDiamondPairResidual_eq_zero_of_spectral_rtt
+
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option linter.unusedVariables false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unnecessarySimpa false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+open MetricCodes
+open MetricCodes.Spherical
+open MetricCodes.Spherical.HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralSuffixClosure
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondFullCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralRTT
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixCoefficientFactor
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixSummation
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondUniversalPluckerCancellation
+namespace MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralSuffixClosure
+theorem _root_.solution
+    {r n : ℕ} (lam : Fin (r + 1) → ℕ) (hdom : Antitone lam)
+    (target pivot : Fin (r + 1)) (hpivot : pivot < target)
+    (k : Fin n) :
+    (∑ S ∈ ((precedingRows target).erase pivot).powerset,
+      polarizationPathCoefficient lam target (insert pivot S) •
+        diamondPairResidual lam target pivot k S) = 0 := by
+  apply sum_weightedDiamondPairResidual_eq_zero_of_spectral_rtt
+    lam hdom target pivot hpivot k
+  · intro u v
+    exact spectralPathOperator_same_target_commute
+      lam hdom pivot pivot le_rfl k u v
+  · intro s t hs ht u v
+    exact spectralPathOperator_rtt lam hdom pivot s t hs ht k u v
+end MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralSuffixClosure

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.logarithmic_ideal_power_annihilates_strict_jets
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:30:55.482519+00:00
 -- url     : https://prove2.me/submissions/663963d0-c016-43c2-9d2d-9837352ad5a7
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_center_ideal_power_annihilates_strict_jets
 

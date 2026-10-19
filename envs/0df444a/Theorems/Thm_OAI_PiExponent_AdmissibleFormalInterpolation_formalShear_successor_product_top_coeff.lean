@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalShear_successor_product_top_coeff
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_successor_product_top_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:40:14.609989+00:00
 -- url     : https://prove2.me/theorems/53673a04-a7f2-40c4-b366-d7aa4327be78

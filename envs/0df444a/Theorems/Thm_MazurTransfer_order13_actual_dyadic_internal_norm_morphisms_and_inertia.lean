@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MazurTransfer_order13_actual_dyadic_internal_norm_morphisms_and_inertia
 -- name    : MazurTransfer.order13_actual_dyadic_internal_norm_morphisms_and_inertia
--- status  : Open
+-- status  : Proved
 -- author  : @Vas
 -- created : 2026-10-19T10:48:19.017242+00:00
 -- url     : https://prove2.me/theorems/7e476e58-dd8e-4599-adaa-b7e1365753cc

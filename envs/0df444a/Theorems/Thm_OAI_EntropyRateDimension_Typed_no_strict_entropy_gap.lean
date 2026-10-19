@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Typed_no_strict_entropy_gap
 -- name    : OAI.EntropyRateDimension.Typed.no_strict_entropy_gap
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T05:23:06.657822+00:00
 -- url     : https://prove2.me/theorems/fd1ced55-72f2-4932-9f91-5a3eca87ec91

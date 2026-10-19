@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Path_shortBypass_center
 -- name    : OAI.Release075.Discrete.Path.shortBypass_center
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:32:59.555986+00:00
 -- url     : https://prove2.me/theorems/1ed68b9a-03da-4cdc-857d-d7f05266f1f6

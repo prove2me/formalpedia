@@ -1,10 +1,8 @@
 -- Prove2me | solution 2 for OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_has_weighted_support_core
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:42:58.863513+00:00
 -- url     : https://prove2.me/submissions/4fc9116f-c0d2-4a17-90d6-f0fb03ef58f2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_LogarithmicCenterIdeals
 import Definitions.Def_OAI_PiExponent_WeightedSupport

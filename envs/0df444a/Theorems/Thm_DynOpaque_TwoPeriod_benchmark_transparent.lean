@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOpaque_TwoPeriod_benchmark_transparent
 -- name    : DynOpaque.TwoPeriod.benchmark_transparent
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:24.191761+00:00
 -- url     : https://prove2.me/theorems/fe2d9d00-2075-43f4-892d-36fd864300eb

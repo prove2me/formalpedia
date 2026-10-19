@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Typed_count_pair_budget_le
 -- name    : OAI.EntropyRateDimension.Typed.count_pair_budget_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T05:20:43.034026+00:00
 -- url     : https://prove2.me/theorems/547f256f-fc68-4068-a15d-9b37ce7e2021

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Cap_capP_three_sphere
 -- name    : OAI.GaussianPropeller.Cap.capP_three_sphere
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:46:12.335631+00:00
 -- url     : https://prove2.me/theorems/1990989a-457d-48a7-a7cc-636d4413e686

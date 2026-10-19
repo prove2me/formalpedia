@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Geometry_row_two_le
 -- name    : OAI.GaussianPropeller.Geometry.row_two_le
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:49:42.998284+00:00
 -- url     : https://prove2.me/theorems/53723da5-bb25-4022-84c3-9b457170d401

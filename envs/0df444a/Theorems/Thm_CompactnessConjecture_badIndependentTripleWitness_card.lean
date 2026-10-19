@@ -1,0 +1,26 @@
+-- Prove2me | Theorems.Thm_CompactnessConjecture_badIndependentTripleWitness_card
+-- name    : CompactnessConjecture.badIndependentTripleWitness_card
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:54:37.072441+00:00
+-- url     : https://prove2.me/theorems/2705296d-c277-49a9-9466-572af58e6eb5
+-- title:
+--   CompactnessConjecture.badIndependentTripleWitness_card
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | CompactnessAndDegeneracy | external Lean 4.33.1 validation; bundle SHA256 86bc545d4a19897e327d6a4e4f158eea1a7dff6ffc50a29b8e2a28c393e047b3
+
+import Mathlib
+import Definitions.Def_CompactnessAndDegeneracy
+set_option autoImplicit true
+open CompactnessConjecture
+noncomputable section
+open Finset SimpleGraph
+variable {V : Type*} [Fintype V] [DecidableEq V]
+
+theorem CompactnessConjecture.badIndependentTripleWitness_card
+    (G : SimpleGraph V) :
+    Fintype.card (BadIndependentTripleWitness G) =
+      finiteBadFiberMass
+        (fun triple : IndependentThetaTriple G =>
+          commonCenterFinset G triple.val)
+        (GammaGood G) := by sorry

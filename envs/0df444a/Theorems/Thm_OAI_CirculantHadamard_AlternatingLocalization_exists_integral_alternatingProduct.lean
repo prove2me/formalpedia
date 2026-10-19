@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_AlternatingLocalization_exists_integral_alternatingProduct
 -- name    : OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T10:05:01.648153+00:00
 -- url     : https://prove2.me/theorems/b9a4bcbf-7643-4fe0-a7c8-c38b7ef0007b

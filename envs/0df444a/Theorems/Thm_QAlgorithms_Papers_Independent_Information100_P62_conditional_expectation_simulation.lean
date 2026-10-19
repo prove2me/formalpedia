@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_conditional_expectation_simulation
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.conditional_expectation_simulation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T21:34:49.07304+00:00
 -- url     : https://prove2.me/theorems/36c841d6-26e2-43f2-80bb-e6cc08951483

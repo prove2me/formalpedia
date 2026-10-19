@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_finitePacketShearMatrix_entry_structure
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.finitePacketShearMatrix_entry_structure
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T12:08:45.783+00:00
 -- url     : https://prove2.me/theorems/52e435d8-3fab-4046-80e0-fa470ae61fba

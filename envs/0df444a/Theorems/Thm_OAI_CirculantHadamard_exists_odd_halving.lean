@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_exists_odd_halving
 -- name    : OAI.CirculantHadamard.exists_odd_halving
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:28:24.650976+00:00
 -- url     : https://prove2.me/theorems/894f606d-634d-44c5-a09f-060103202592

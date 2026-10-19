@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_diagonal_coeff_succ_shear_product
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.diagonal_coeff_succ_shear_product
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:32:34.890737+00:00
 -- url     : https://prove2.me/theorems/7bf8a948-4125-4373-9be2-b5a1975372ae

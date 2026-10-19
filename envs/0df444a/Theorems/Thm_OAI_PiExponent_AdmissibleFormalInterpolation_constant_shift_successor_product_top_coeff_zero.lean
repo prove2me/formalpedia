@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_constant_shift_successor_product_top_coeff_zero
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.constant_shift_successor_product_top_coeff_zero
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:55:50.472131+00:00
 -- url     : https://prove2.me/theorems/9f89872e-b1b3-4d25-bab1-4a7f8966d2dd

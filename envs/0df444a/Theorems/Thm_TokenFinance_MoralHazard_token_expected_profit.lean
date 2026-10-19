@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_token_expected_profit
 -- name    : TokenFinance.MoralHazard.token_expected_profit
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:42.243876+00:00
 -- url     : https://prove2.me/theorems/54234c27-2d13-44a6-a7f5-ab83423cde2f

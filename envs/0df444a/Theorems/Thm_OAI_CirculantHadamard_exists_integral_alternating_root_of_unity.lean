@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_exists_integral_alternating_root_of_unity
 -- name    : OAI.CirculantHadamard.exists_integral_alternating_root_of_unity
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T10:07:46.003993+00:00
 -- url     : https://prove2.me/theorems/a69400c6-2885-4319-a046-b6fe46a167c8

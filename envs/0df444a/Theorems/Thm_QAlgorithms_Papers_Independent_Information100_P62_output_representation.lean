@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_output_representation
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.output_representation
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T21:33:34.163507+00:00
 -- url     : https://prove2.me/theorems/4f047e37-372c-4e95-b23b-dff01359cd09

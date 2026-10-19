@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalShear_coeff_eq_top_sum
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_coeff_eq_top_sum
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:01:18.206774+00:00
 -- url     : https://prove2.me/theorems/30de46fa-cd5e-48d4-a0ce-28680ffc25cc

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Path_mem_append_iff
 -- name    : OAI.Release075.Discrete.Path.mem_append_iff
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:24:34.525136+00:00
 -- url     : https://prove2.me/theorems/3c2fabee-22d8-40ea-87a5-b3402b31cb3c

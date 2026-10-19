@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalShear_coeff_sum_support_monomials
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_coeff_sum_support_monomials
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:06:00.863163+00:00
 -- url     : https://prove2.me/theorems/45fecfe4-0bc3-4d25-906d-68c87ef8fb1d

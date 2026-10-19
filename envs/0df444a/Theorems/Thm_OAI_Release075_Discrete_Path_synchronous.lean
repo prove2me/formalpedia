@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Path_synchronous
 -- name    : OAI.Release075.Discrete.Path.synchronous
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:27:22.655339+00:00
 -- url     : https://prove2.me/theorems/6714c5c6-850e-4912-ac48-a5ca4486e75f

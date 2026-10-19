@@ -84211,7 +84211,7 @@
 {"parent": "MarginalUtility.marginalUtility_strictAntiOn", "child": "MarginalUtility_Model", "via": ["solution", "statement"]}
 {"parent": "MarginalUtility.satiation_point_is_maximum", "child": "MarginalUtility_Model", "via": ["statement"]}
 {"parent": "MarginalUtility.strictConcaveOn_of_diminishing", "child": "MarginalUtility_Model", "via": ["solution", "statement"]}
-{"parent": "MarginalUtility.successive_gains_decrease_of_strictConcaveOn", "child": "MarginalUtility_Model", "via": ["statement"]}
+{"parent": "MarginalUtility.successive_gains_decrease_of_strictConcaveOn", "child": "MarginalUtility_Model", "via": ["solution", "statement"]}
 {"parent": "MarginalUtility.utility_monotone_of_marginal_sign", "child": "MarginalUtility_Model", "via": ["solution", "statement"]}
 {"parent": "MarkmanSecant.exists_rational_similarity_of_secant", "child": "MarkmanSecant", "via": ["statement"]}
 {"parent": "MarkmanSecant.expS_isEvenPureSpinor_annih", "child": "MarkmanSecant", "via": ["solution", "statement"]}

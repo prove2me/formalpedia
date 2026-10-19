@@ -1,0 +1,24 @@
+-- Prove2me | Theorems.Thm_PermanentRollout_partitionMobius_mul_neg_one_pow
+-- name    : PermanentRollout.partitionMobius_mul_neg_one_pow
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:56:39.173076+00:00
+-- url     : https://prove2.me/theorems/add3e41b-cf8a-4c51-b9a8-4dfa9e4f6951
+-- title:
+--   PermanentRollout.partitionMobius_mul_neg_one_pow
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | Permanent | external Lean 4.33.1 validation; bundle SHA256 8a836240c656ca1eb46e7ecec147014a94283bee53230c4428d90fa24026d93c
+
+import Mathlib
+import Definitions.Def_Permanent
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option synthInstance.maxHeartbeats 100000
+open PermanentRollout
+open scoped BigOperators
+
+theorem PermanentRollout.partitionMobius_mul_neg_one_pow {t : ℕ} {rows : Finset (Fin t)}
+    (partition : Finpartition rows) :
+    partitionMobius partition * (-1 : ℂ) ^ partition.parts.card =
+      (-1 : ℂ) ^ rows.card *
+        ∏ block ∈ partition.parts, ((block.card - 1).factorial : ℂ) := by sorry

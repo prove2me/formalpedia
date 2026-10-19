@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_small_dimension_nondomination
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.small_dimension_nondomination
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T21:30:14.825986+00:00
 -- url     : https://prove2.me/theorems/abe3bc0a-6905-4955-8a3a-1f493c91eb24

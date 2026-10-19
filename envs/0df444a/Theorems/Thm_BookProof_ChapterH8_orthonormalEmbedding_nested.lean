@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_orthonormalEmbedding_nested
 -- name    : BookProof.ChapterH8.orthonormalEmbedding_nested
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-12T13:29:34.744118+00:00
 -- url     : https://prove2.me/theorems/1ff6cd03-3f5b-4a3e-89f7-65b08f19c582

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalShear_monomial_diagonal_coeff
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_monomial_diagonal_coeff
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:38:03.225986+00:00
 -- url     : https://prove2.me/theorems/6f02c30a-1f68-4ec0-98c9-fce3ada38d00

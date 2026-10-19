@@ -1,0 +1,38 @@
+-- Prove2me | solution 1 for MetricCodes.Spherical.HigherHierarchy.levelRate_antitone_level
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-19T11:36:38.99809+00:00
+-- url     : https://prove2.me/submissions/0c50e8a8-cfb1-4dab-a0e1-f1190e492fea
+
+import Definitions.Def_SpherePacking
+import Definitions.Def_MetricCodes
+import Theorems.Thm_MetricCodes_Spherical_HigherHierarchy_levelRate_succ_le
+
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option linter.unusedVariables false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unnecessarySimpa false
+set_option autoImplicit false
+open MetricCodes
+open MetricCodes.Spherical
+open MetricCodes.Spherical.HigherHierarchy
+noncomputable section
+open Filter Topology
+open scoped Topology
+namespace MetricCodes.Spherical.HigherHierarchy
+theorem _root_.solution
+    {s : ℝ} (hs : 0 < s) (hs' : s < 1)
+    {j k : ℕ} (hjk : j ≤ k) :
+    levelRate k s ≤ levelRate j s := by
+  induction k, hjk using Nat.le_induction with
+  | base => exact le_rfl
+  | succ k hle hind =>
+      exact (levelRate_succ_le hs hs').trans hind
+end MetricCodes.Spherical.HigherHierarchy

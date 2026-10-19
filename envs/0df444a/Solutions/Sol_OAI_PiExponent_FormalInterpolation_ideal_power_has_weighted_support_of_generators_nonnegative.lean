@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.FormalInterpolation.ideal_power_has_weighted_support_of_generators_nonnegative
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:48:13.512482+00:00
 -- url     : https://prove2.me/submissions/be6fab4b-75d5-42a5-8ef3-202eda339279
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_WeightedSupport
 import Mathlib.RingTheory.Ideal.Operations

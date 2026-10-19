@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_FullFilling_trace_cyclic
 -- name    : OAI.Release075.FullFilling.trace_cyclic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:21:59.449551+00:00
 -- url     : https://prove2.me/theorems/2801f615-fa46-47b2-9745-0fb0c1fa48fb

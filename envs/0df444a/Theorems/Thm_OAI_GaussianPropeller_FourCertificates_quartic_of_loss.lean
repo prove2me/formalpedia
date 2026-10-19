@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_FourCertificates_quartic_of_loss
 -- name    : OAI.GaussianPropeller.FourCertificates.quartic_of_loss
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:54:51.163295+00:00
 -- url     : https://prove2.me/theorems/3f36e37a-beac-47ea-bafb-8c5a83be0484

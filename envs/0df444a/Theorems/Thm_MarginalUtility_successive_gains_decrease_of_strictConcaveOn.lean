@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_MarginalUtility_successive_gains_decrease_of_strictConcaveOn
 -- name    : MarginalUtility.successive_gains_decrease_of_strictConcaveOn
--- status  : Open
+-- status  : Proved
 -- author  : @Lucas
 -- created : 2026-10-09T21:31:59.528987+00:00
 -- url     : https://prove2.me/theorems/b298012f-3f43-47a6-903a-5529d68607ad

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Path_shortBypass_triangle
 -- name    : OAI.Release075.Discrete.Path.shortBypass_triangle
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:33:37.808929+00:00
 -- url     : https://prove2.me/theorems/c988a27c-0250-4b02-8387-1fb15ea24e11

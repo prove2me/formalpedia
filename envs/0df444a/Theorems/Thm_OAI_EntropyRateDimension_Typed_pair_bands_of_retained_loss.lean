@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Typed_pair_bands_of_retained_loss
 -- name    : OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T05:13:48.595896+00:00
 -- url     : https://prove2.me/theorems/e24eff71-d9bd-4519-86ea-4119029a4e99

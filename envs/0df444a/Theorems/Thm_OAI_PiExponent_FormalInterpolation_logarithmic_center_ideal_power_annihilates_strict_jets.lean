@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_center_ideal_power_annihilates_strict_jets
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_annihilates_strict_jets
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T06:30:15.905703+00:00
 -- url     : https://prove2.me/theorems/5efbbbb5-420a-479d-ab4a-7b2217a55b50

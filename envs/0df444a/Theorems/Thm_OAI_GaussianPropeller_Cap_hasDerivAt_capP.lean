@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Cap_hasDerivAt_capP
 -- name    : OAI.GaussianPropeller.Cap.hasDerivAt_capP
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:40:48.50958+00:00
 -- url     : https://prove2.me/theorems/db1d4ed7-e641-4252-8188-e0b9e2d6b8c5

@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterEntropyTemperature.attentionEntropy_le_at_zero
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-09T06:40:59.00159+00:00
 -- url     : https://prove2.me/submissions/d8269f5b-621d-47e0-b356-2678c6fa8448
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterEntropyTemperature.lean — solution of BookProof.ChapterEntropyTemperature.attentionEntropy_le_at_zero
 import Mathlib

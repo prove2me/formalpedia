@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_CyclotomicLocalBase_formallyUnramified
 -- name    : OAI.CirculantHadamard.CyclotomicLocalBase.formallyUnramified
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:47:59.880991+00:00
 -- url     : https://prove2.me/theorems/cfff39b9-9e26-43ae-ae5b-95a00038faf4

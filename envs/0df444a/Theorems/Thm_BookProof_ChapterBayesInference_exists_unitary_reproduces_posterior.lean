@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterBayesInference_exists_unitary_reproduces_posterior
 -- name    : BookProof.ChapterBayesInference.exists_unitary_reproduces_posterior
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:53:38.412827+00:00
 -- url     : https://prove2.me/theorems/a245869f-2b56-4b9f-9c89-90d5c9f99649

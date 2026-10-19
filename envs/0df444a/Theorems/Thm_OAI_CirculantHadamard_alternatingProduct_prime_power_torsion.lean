@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_alternatingProduct_prime_power_torsion
 -- name    : OAI.CirculantHadamard.alternatingProduct_prime_power_torsion
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T10:08:37.432901+00:00
 -- url     : https://prove2.me/theorems/744c6dfb-36a7-46b2-965a-5c809de34cbe

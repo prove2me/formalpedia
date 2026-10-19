@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_monomial_coeff_eq_at_succ_eq
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:28:52.625984+00:00
 -- url     : https://prove2.me/submissions/ee28e4d4-e453-444a-a810-6c8b83c98e7e
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_PiExponent_FormalJetShear
 import Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalShear_monomial_eq_successor_product

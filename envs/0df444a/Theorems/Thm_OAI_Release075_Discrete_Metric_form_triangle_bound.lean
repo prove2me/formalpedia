@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Metric_form_triangle_bound
 -- name    : OAI.Release075.Discrete.Metric.form_triangle_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:26:01.905493+00:00
 -- url     : https://prove2.me/theorems/ec0cbb83-257d-4a82-8065-272dcdb8ade7

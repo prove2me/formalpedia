@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_coeff_eq_top_sum
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:09:51.530992+00:00
 -- url     : https://prove2.me/submissions/fa28fcae-da5e-4a6e-8d53-2980d9df84e2
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation

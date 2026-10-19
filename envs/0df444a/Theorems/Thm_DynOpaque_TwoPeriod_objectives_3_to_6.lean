@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOpaque_TwoPeriod_objectives_3_to_6
 -- name    : DynOpaque.TwoPeriod.objectives_3_to_6
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:15.7634+00:00
 -- url     : https://prove2.me/theorems/13a91190-6df4-4be6-8d5c-26986461c7ab

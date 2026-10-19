@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Aperiodic_eoq_shift
 -- name    : JRPHard.Aperiodic.eoq_shift
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:15.925758+00:00
 -- url     : https://prove2.me/theorems/cd32b30f-4bd6-42b8-b354-4fd2f5e7657c

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_formalShear_monomial_coeff_reduce_to_zero_coordinate
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_monomial_coeff_reduce_to_zero_coordinate
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T16:43:42.526988+00:00
 -- url     : https://prove2.me/theorems/63fb6daa-80c2-4cac-b5f5-424721ec674e

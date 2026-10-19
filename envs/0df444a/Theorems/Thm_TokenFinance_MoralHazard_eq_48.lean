@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_eq_48
 -- name    : TokenFinance.MoralHazard.eq_48
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:18:59.5721+00:00
 -- url     : https://prove2.me/theorems/a33b285b-eda6-4bb7-bded-73eb1f7ff259

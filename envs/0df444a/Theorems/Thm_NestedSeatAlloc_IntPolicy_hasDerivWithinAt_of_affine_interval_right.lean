@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NestedSeatAlloc_IntPolicy_hasDerivWithinAt_of_affine_interval_right
 -- name    : NestedSeatAlloc.IntPolicy.hasDerivWithinAt_of_affine_interval_right
--- status  : Open
+-- status  : Disproved
 -- author  : @WillR
 -- created : 2026-10-06T15:21:02.41599+00:00
 -- url     : https://prove2.me/theorems/b184a71f-b0fa-4810-acef-8cce39923059

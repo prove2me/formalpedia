@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_TokenFinance_MoralHazard_lemma_7
 -- name    : TokenFinance.MoralHazard.lemma_7
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T06:19:00.876833+00:00
 -- url     : https://prove2.me/theorems/a8ae7ddb-97b9-4f0b-b6b9-2f46c1f2ff36

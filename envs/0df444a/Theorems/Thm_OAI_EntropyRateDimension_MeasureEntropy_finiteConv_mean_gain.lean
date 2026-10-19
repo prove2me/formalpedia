@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_MeasureEntropy_finiteConv_mean_gain
 -- name    : OAI.EntropyRateDimension.MeasureEntropy.finiteConv_mean_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T04:55:40.39671+00:00
 -- url     : https://prove2.me/theorems/ef78adcf-1e0a-4fc2-85d7-6b593027535c

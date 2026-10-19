@@ -1,0 +1,26 @@
+-- Prove2me | Theorems.Thm_MetricCodes_Johnson_correlation_le_threshold_of_code
+-- name    : MetricCodes.Johnson.correlation_le_threshold_of_code
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:55:23.310643+00:00
+-- url     : https://prove2.me/theorems/af2ccc8d-35c5-4591-ac76-157b15045271
+-- title:
+--   MetricCodes.Johnson.correlation_le_threshold_of_code
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | MetricCodes | external Lean 4.33.1 validation; bundle SHA256 71efd718b78c759bacc3930a694e994b71f3298c205f9195221b6370cac788b3
+
+import Definitions.Def_SpherePacking
+import Definitions.Def_MetricCodes
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+open MetricCodes
+open MetricCodes.Johnson
+noncomputable section
+open scoped BigOperators InnerProductSpace Matrix
+
+theorem MetricCodes.Johnson.correlation_le_threshold_of_code {n w d : ℕ}
+    (hw : 0 < w) (hwn : w < n)
+    {C : Finset (JohnsonSphere n w)} (hC : IsCode d C)
+    {x y : JohnsonSphere n w}
+    (hx : x ∈ C) (hy : y ∈ C) (hxy : x ≠ y) :
+    correlation x y ≤ threshold n w d := by sorry

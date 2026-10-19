@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_LocalComparison_projected_factor_divisible
 -- name    : OAI.CirculantHadamard.LocalComparison.projected_factor_divisible
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:56:04.6782+00:00
 -- url     : https://prove2.me/theorems/d73062a6-17c2-418e-aaf4-d74757a4bab7

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_LocalComparison_local_character_comparison
 -- name    : OAI.CirculantHadamard.LocalComparison.local_character_comparison
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:56:46.38174+00:00
 -- url     : https://prove2.me/theorems/2686d5d5-fc11-47c6-895e-8131c5da0689

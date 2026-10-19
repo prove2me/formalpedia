@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for OAI.PiExponent.AdmissibleFormalInterpolation.formalShear_coeff_of_successor_top_support
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @Eyal1990
 -- created : 2026-10-16T17:02:07.143166+00:00
 -- url     : https://prove2.me/submissions/8146b087-549c-4e58-b612-eafdf9f5d90c
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Definitions.Def_OAI_NumberTheory_PiExponent_Approximation_DeterminantContradiction_CoreData
 import Definitions.Def_OAI_PiExponent_AdmissibleFormalInterpolation

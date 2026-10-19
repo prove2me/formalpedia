@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Cap_cone_four
 -- name    : OAI.GaussianPropeller.Cap.cone_four
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:46:48.322189+00:00
 -- url     : https://prove2.me/theorems/ca3565ec-ee42-4195-b48f-dd210b006798

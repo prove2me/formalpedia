@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_AlternatingLocalization_actual_local_character_association
 -- name    : OAI.CirculantHadamard.AlternatingLocalization.actual_local_character_association
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T10:01:52.863998+00:00
 -- url     : https://prove2.me/theorems/ca6e68f3-310c-4da8-8184-3a40b766b13f

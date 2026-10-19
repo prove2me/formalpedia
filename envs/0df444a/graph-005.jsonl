@@ -9708,11 +9708,11 @@
 {"parent": "PM.star2_13", "child": "PM_core_statement_formulas", "via": ["solution", "statement"]}
 {"parent": "PM.star2_13", "child": "PM_core_star1_system", "via": ["solution", "statement"]}
 {"parent": "actuarial_d_neither", "child": "actuarial_d_dead", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH6", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH8Bases", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH8", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH5", "via": ["statement"]}
-{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH4", "via": ["statement"]}
+{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH6", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH8Bases", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH8", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH5", "via": ["solution", "statement"]}
+{"parent": "BookProof.ChapterH8.orthonormalEmbedding_nested", "child": "ChapterH4", "via": ["solution", "statement"]}
 {"parent": "AcquihiringMonopsony.Baseline.lemma_1", "child": "AcquihiringMonopsony_Baseline_Model", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.choiceMatrix_permutation_term_collision_bound", "child": "OAI_NumberTheory_PiExponent_Approximation_RowTranslation_CoreData", "via": ["solution", "statement"]}
 {"parent": "OAI.PiExponent.LiteralAnalytic.choiceMatrix_permutation_term_collision_bound", "child": "OAI_NumberTheory_PiExponent_Analysis_CollisionCombinatorics_Multiplicity", "via": ["solution", "statement"]}
@@ -38374,7 +38374,7 @@
 {"parent": "TaoFivePrimes.rh_high_height_gamma_fourier_enclosure00", "child": "TaoFivePrimes_RHHighZetaCorrelation", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_contour_reference_upper_neg64_k00", "child": "TaoFivePrimes_RHHighContourCoefficient", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_contour_reference_upper_neg64_k00", "child": "TaoFivePrimes_RHHighContourSpectrumUpperNeg64K00", "via": ["solution", "statement"]}
-{"parent": "JRPHard.Aperiodic.multiple_of_M", "child": "JRPHard_Aperiodic_Setting", "via": ["statement"]}
+{"parent": "JRPHard.Aperiodic.multiple_of_M", "child": "JRPHard_Aperiodic_Setting", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPairFlags.meets", "child": "Light.Ends.for", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPairFlags.meets", "child": "ThreeSum.LightBooleanDot.meets", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightPairFlags.meets", "child": "APSPSource_ThreeSumApsp_Lang_Regions", "via": ["solution", "statement"]}
@@ -39848,7 +39848,7 @@
 {"parent": "OAI_Analysis_ForestSpace_Distortion", "child": "OAI_Analysis_ForestSpace_FiniteGeometry", "via": ["statement"]}
 {"parent": "OAI_Analysis_ForestSpace_Distortion", "child": "OAI_Analysis_ForestSpace_Components", "via": ["statement"]}
 {"parent": "OAI_Analysis_ForestSpace_Distortion", "child": "OAI_Analysis_ForestSpace_Paired", "via": ["statement"]}
-{"parent": "JRPHard.Aperiodic.lemma_1", "child": "JRPHard_Aperiodic_Setting", "via": ["statement"]}
+{"parent": "JRPHard.Aperiodic.lemma_1", "child": "JRPHard_Aperiodic_Setting", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Machine.univTProg_runs", "child": "MIPRE_Foundations_Cost_Interpreter", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Machine.univTProg_runs", "child": "MIPRE_Foundations_Cost_Loops", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Cost.Machine.univTProg_runs", "child": "MIPRE_Foundations_Cost_Machine", "via": ["solution", "statement"]}
@@ -43691,7 +43691,7 @@
 {"parent": "TaoFivePrimes.rh_high_height_real_fft_neg64", "child": "TaoFivePrimes_RHHighFFTChirpS", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_real_fft_neg64", "child": "TaoFivePrimes_RHHighContourOutputRealNeg64", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_high_height_real_fft_neg64", "child": "TaoFivePrimes_RHHighFFTChirpR", "via": ["solution", "statement"]}
-{"parent": "JRPHard.Aperiodic.coprime_lower_bound", "child": "JRPHard_Aperiodic_Setting", "via": ["statement"]}
+{"parent": "JRPHard.Aperiodic.coprime_lower_bound", "child": "JRPHard_Aperiodic_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes_RHHighGammaPacket06", "child": "TaoFivePrimes_RHHighGammaArithmetic", "via": ["statement"]}
 {"parent": "OAI_Analysis_ForestSpace_Diamonds", "child": "ForestSpace", "via": ["statement"]}
 {"parent": "OAI_Analysis_ForestSpace_Diamonds", "child": "OAI_Analysis_ForestSpace_Moduli", "via": ["statement"]}
@@ -44123,7 +44123,7 @@
 {"parent": "ThreeSum.LightZetaStages.time_bound", "child": "APSPSource_ThreeSumApsp_Lang_Logic", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightZetaStages.time_bound", "child": "ThreeSum1962Source_Bundle01", "via": ["solution", "statement"]}
 {"parent": "ThreeSum.LightZetaStages.time_bound", "child": "ThreeSum1962Source_Bundle03", "via": ["solution", "statement"]}
-{"parent": "JRPHard.Aperiodic.item2_pinned", "child": "JRPHard_Aperiodic_Setting", "via": ["statement"]}
+{"parent": "JRPHard.Aperiodic.item2_pinned", "child": "JRPHard_Aperiodic_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes_RHHighGammaPacket16", "child": "TaoFivePrimes_RHHighGammaArithmetic", "via": ["statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightThreeSumHybrid.solves", "child": "ThreeSum1960614_Machine_Bundle029", "via": ["solution", "statement"]}
 {"parent": "ThreeSum1960614.Machine.ThreeSum.LightThreeSumHybrid.solves", "child": "ThreeSum1960614_Analysis", "via": ["solution", "statement"]}
@@ -77050,7 +77050,7 @@
 {"parent": "OAI.TwoWayComplementation.bipartite_relation_comp", "child": "TwoWayComplementation", "via": ["solution", "statement"]}
 {"parent": "OAI.TwoWayComplementation.bipartite_relation_comp", "child": "OAI_Combinatorics_TwoWayAutomata_Amplification", "via": ["solution", "statement"]}
 {"parent": "OAI.TwoWayComplementation.bipartite_relation_comp", "child": "OAI_Combinatorics_TwoWayAutomata_Diagram", "via": ["solution", "statement"]}
-{"parent": "JRPHard.Aperiodic.eoq_shift", "child": "JRPHard_Aperiodic_Setting", "via": ["statement"]}
+{"parent": "JRPHard.Aperiodic.eoq_shift", "child": "JRPHard_Aperiodic_Setting", "via": ["solution", "statement"]}
 {"parent": "OAI_Combinatorics_PerfectMatching_Calculus", "child": "OAI_Combinatorics_PerfectMatching_Duality", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_PerfectMatching_Calculus", "child": "OAI_Combinatorics_PerfectMatching_Model", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_PerfectMatching_Calculus", "child": "MatchingEntropy", "via": ["statement"]}
@@ -89503,7 +89503,7 @@
 {"parent": "OAI_RepresentationTheory_PartialPermutation_ConjugacyCounts", "child": "OAI_RepresentationTheory_PartialPermutation_StandardTableaux", "via": ["statement"]}
 {"parent": "OAI_RepresentationTheory_PartialPermutation_ConjugacyCounts", "child": "OAI_RepresentationTheory_PartialPermutation_CentralKernels", "via": ["statement"]}
 {"parent": "OAI_RepresentationTheory_PartialPermutation_ConjugacyCounts", "child": "OAI_RepresentationTheory_PartialPermutation_ConvolutionKernels", "via": ["statement"]}
-{"parent": "TokenFinance.MoralHazard.token_expected_profit", "child": "TokenFinance_Debt_Setting", "via": ["statement"]}
+{"parent": "TokenFinance.MoralHazard.token_expected_profit", "child": "TokenFinance_Debt_Setting", "via": ["solution", "statement"]}
 {"parent": "TaoFivePrimes.rh_batch01_height_window_of_signs_and_count", "child": "TaoFivePrimes_RHBatch01HeightBracketInterface", "via": ["solution", "statement"]}
 {"parent": "CompetitiveChores_IndivisibleRounding_Graphs", "child": "CompetitiveChores_IndivisibleRounding_Setting", "via": ["statement"]}
 {"parent": "CompetitiveChores_IndivisibleRounding_Graphs", "child": "CompetitiveChores_RichFamily_Graphs", "via": ["statement"]}
@@ -89966,7 +89966,7 @@
 {"parent": "ExactVacuumAtlas.Schwarzschild.PG.chr_1_0_0", "child": "Atlas_Core_Lift", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.Schwarzschild.PG.chr_1_0_0", "child": "Atlas_Schwarzschild_Defs", "via": ["solution", "statement"]}
 {"parent": "ExactVacuumAtlas.Schwarzschild.PG.chr_1_0_0", "child": "Atlas_Core_Basic", "via": ["solution", "statement"]}
-{"parent": "TokenFinance.MoralHazard.lemma_6", "child": "TokenFinance_Debt_Setting", "via": ["statement"]}
+{"parent": "TokenFinance.MoralHazard.lemma_6", "child": "TokenFinance_Debt_Setting", "via": ["solution", "statement"]}
 {"parent": "BreakingSample.PolicyEval.lemma_1", "child": "BreakingSample_Perturbed_Model", "via": ["statement"]}
 {"parent": "BreakingSample.PolicyEval.lemma_1", "child": "BreakingSample_Perturbed_Sampling", "via": ["statement"]}
 {"parent": "OAI.BoxTransport.Routing.Computation.value_bound", "child": "OAI_Analysis_BoxTransport_Expressions", "via": ["solution", "statement"]}

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOpaque_TwoPeriod_lemma_3
 -- name    : DynOpaque.TwoPeriod.lemma_3
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:22.74955+00:00
 -- url     : https://prove2.me/theorems/411de37d-3774-40db-af90-602e71e541b1

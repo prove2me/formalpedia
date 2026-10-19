@@ -2013,9 +2013,9 @@
 {"parent": "BookProof.YangMillsFriedrichsLimit.friedrichs_bounded_proper_domain_example", "child": "ChapterYangMillsFriedrichsLimit", "via": ["solution", "statement"]}
 {"parent": "BookProof.YangMillsFriedrichsLimit.friedrichs_of_bounded", "child": "ChapterYangMillsFriedrichsLimit", "via": ["solution", "statement"]}
 {"parent": "BookProof.YangMillsFriedrichsLimit.krylov_starProjection_tendsto", "child": "ChapterYangMillsFriedrichsLimit", "via": ["statement"]}
-{"parent": "BookProof.YangMillsFriedrichsLimit.memLp_one_div_succ", "child": "ChapterFarisLavine", "via": ["statement"]}
-{"parent": "BookProof.YangMillsFriedrichsLimit.memLp_one_div_succ", "child": "ChapterYangMillsFriedrichs", "via": ["statement"]}
-{"parent": "BookProof.YangMillsFriedrichsLimit.memLp_one_div_succ", "child": "ChapterYangMillsFriedrichsLimit", "via": ["statement"]}
+{"parent": "BookProof.YangMillsFriedrichsLimit.memLp_one_div_succ", "child": "ChapterFarisLavine", "via": ["solution", "statement"]}
+{"parent": "BookProof.YangMillsFriedrichsLimit.memLp_one_div_succ", "child": "ChapterYangMillsFriedrichs", "via": ["solution", "statement"]}
+{"parent": "BookProof.YangMillsFriedrichsLimit.memLp_one_div_succ", "child": "ChapterYangMillsFriedrichsLimit", "via": ["solution", "statement"]}
 {"parent": "BookProof.YangMillsFriedrichsLimit.not_mem_span_of_repr_ne_zero", "child": "ChapterYangMillsFriedrichsLimit", "via": ["statement"]}
 {"parent": "BookProof.YangMillsFriedrichsLimit.quadForm_top_nonneg_of_dense", "child": "ChapterYangMillsFriedrichsLimit", "via": ["statement"]}
 {"parent": "BookProof.YangMillsFriedrichsLimit.sirk_compression_tendsto", "child": "BookProof.YangMillsFriedrichsLimit.krylov_starProjection_tendsto", "via": ["solution"]}

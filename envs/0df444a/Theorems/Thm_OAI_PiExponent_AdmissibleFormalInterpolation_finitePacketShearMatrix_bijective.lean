@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_finitePacketShearMatrix_bijective
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.finitePacketShearMatrix_bijective
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T11:58:25.926842+00:00
 -- url     : https://prove2.me/theorems/9a704310-1684-4b91-886a-039cbda361f8

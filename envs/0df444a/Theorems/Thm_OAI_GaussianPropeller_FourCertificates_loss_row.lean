@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_FourCertificates_loss_row
 -- name    : OAI.GaussianPropeller.FourCertificates.loss_row
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:52:56.01326+00:00
 -- url     : https://prove2.me/theorems/c8642296-1925-4167-a995-ac50eb298b3d

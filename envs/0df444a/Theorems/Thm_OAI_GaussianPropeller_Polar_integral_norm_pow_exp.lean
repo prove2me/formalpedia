@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Polar_integral_norm_pow_exp
 -- name    : OAI.GaussianPropeller.Polar.integral_norm_pow_exp
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:39:56.687991+00:00
 -- url     : https://prove2.me/theorems/8170af55-efcb-4bbf-951a-af9b9b2e30dc

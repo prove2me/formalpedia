@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_order_reduction
 -- name    : OAI.CirculantHadamard.order_reduction
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:30:38.253992+00:00
 -- url     : https://prove2.me/theorems/da195d0f-b16c-4921-bed0-778d9ed2e65c

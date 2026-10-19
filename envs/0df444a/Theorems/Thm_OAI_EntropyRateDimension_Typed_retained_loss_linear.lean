@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Typed_retained_loss_linear
 -- name    : OAI.EntropyRateDimension.Typed.retained_loss_linear
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T05:10:35.140224+00:00
 -- url     : https://prove2.me/theorems/2908815c-508f-433a-a1b3-a8eeee0ac435

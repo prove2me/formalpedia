@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for BookProof.ChapterH8.sirk_band_refinement_krylov
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @leonardopedro
 -- created : 2026-10-11T23:04:51.294334+00:00
 -- url     : https://prove2.me/submissions/3d3dde40-515e-4514-b763-630a8f318bd8
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 -- Generated from ChapterH8Bases.lean — solution of BookProof.ChapterH8.sirk_band_refinement_krylov
 import Mathlib

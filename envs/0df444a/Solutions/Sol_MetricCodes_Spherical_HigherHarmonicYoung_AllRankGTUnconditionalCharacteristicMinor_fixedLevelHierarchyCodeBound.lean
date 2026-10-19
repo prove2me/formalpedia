@@ -1,0 +1,89 @@
+-- Prove2me | solution 1 for MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTUnconditionalCharacteristicMinor.fixedLevelHierarchyCodeBound
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-19T11:36:49.631419+00:00
+-- url     : https://prove2.me/submissions/47be6155-abd7-43b1-9106-fe3a04cbfd8d
+
+import Definitions.Def_SpherePacking
+import Definitions.Def_MetricCodes
+import Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankActualProjectedAxisCompletion_fixedLevelHierarchyCodeBound_of_actualCharacteristicMinor
+import Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTUnconditionalCharacteristicMinor_gtAxisCompressedCharacteristicMinor_eq_channelNumerator
+
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option linter.unusedVariables false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unnecessarySimpa false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+open MetricCodes
+open MetricCodes.Spherical
+open MetricCodes.Spherical.HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+open scoped BigOperators InnerProductSpace TensorProduct
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTUnconditionalCharacteristicMinor
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAbsentWallCharacteristicFactor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAdjacentCommonInterlacing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCharacteristicMinorOfValidRoots
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseCharacteristicAnnihilation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseSector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedWallCharacteristicAnnihilation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPresentWallSignedNodeSeparation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalWallAdditiveColumn
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCrossBlock
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseEigenNodeSeparation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseRetainedTwoBlockClosure
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseMinorRoots
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseSectorFamily
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankActualProjectedAxisCompletion
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+namespace MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTUnconditionalCharacteristicMinor
+theorem _root_.solution : FixedLevelHierarchyCodeBound := by
+  apply fixedLevelHierarchyCodeBound_of_actualCharacteristicMinor
+  intro r m n a b _ _ hn hstable low p q
+  exact gtAxisCompressedCharacteristicMinor_eq_channelNumerator
+    (boxSignature (m := m) a (n + 1) low)
+    (Weyl.flooredWeight b (n + 1))
+    (boxSignature_interlaces a b hstable low)
+    (canonicalBoxPositiveFischerGram a b hstable low)
+    (hstable
+      ((Fintype.equivFin (RectangularVertices.Vertex (r + 1) m)).symm low))
+    hn p q
+end MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTUnconditionalCharacteristicMinor

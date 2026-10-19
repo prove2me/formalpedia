@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_MarkedLineData_presentation_wordHyperbolic
 -- name    : OAI.Release075.MarkedLineData.presentation_wordHyperbolic
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:37:34.828985+00:00
 -- url     : https://prove2.me/theorems/65f0b86b-8d27-499b-be0e-bdcef10b7634

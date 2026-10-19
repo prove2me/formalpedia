@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_vcstar_monotone_of_positive_real_cstar
 -- name    : AvramDividend.Classical.vcstar_monotone_of_positive_real_cstar
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T10:23:45.828557+00:00
 -- url     : https://prove2.me/theorems/d9b236d2-77d2-4838-b312-ed0e035175dd

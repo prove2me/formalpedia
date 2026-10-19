@@ -18060,7 +18060,7 @@
 {"parent": "OAI.CanonicalQuadraticSieve.originalPairLow_squarefree_tsum", "child": "OAIHecke78B006", "via": ["solution", "statement"]}
 {"parent": "OAI.CenteredDiskEndpoint.main_endpoint", "child": "DiskMaximal", "via": ["statement"]}
 {"parent": "OAI.CirculantHadamard.Barker.even_length_eq_two_or_four", "child": "EvenBarker", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_iff_order_one_or_four", "child": "CirculantHadamard", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.exists_iff_order_one_or_four", "child": "CirculantHadamard", "via": ["solution", "statement"]}
 {"parent": "OAI.ClassicalON.main", "child": "ClassicalON", "via": ["solution", "statement"]}
 {"parent": "OAI.CliqueFreeLog.logarithmic_independence_bound", "child": "CliqueFreeLog", "via": ["solution", "statement"]}
 {"parent": "OAI.ClosedSurfaceR4.FiniteOrderSmoothing.smooth_isometric_immersion", "child": "SurfaceImmersion", "via": ["statement"]}

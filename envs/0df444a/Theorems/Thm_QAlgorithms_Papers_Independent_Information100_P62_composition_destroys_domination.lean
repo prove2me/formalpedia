@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_composition_destroys_domination
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.composition_destroys_domination
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T22:02:59.374343+00:00
 -- url     : https://prove2.me/theorems/4cff6790-6503-4c13-847c-14258d77a52a

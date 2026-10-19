@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_CyclotomicLocalBase_maximalIdeal_eq_span
 -- name    : OAI.CirculantHadamard.CyclotomicLocalBase.maximalIdeal_eq_span
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:50:32.859486+00:00
 -- url     : https://prove2.me/theorems/a2bc470f-43be-492d-ac1e-7cfc5eb33b2e

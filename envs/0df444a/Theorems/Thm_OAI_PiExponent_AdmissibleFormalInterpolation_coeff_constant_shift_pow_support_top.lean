@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_coeff_constant_shift_pow_support_top
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.coeff_constant_shift_pow_support_top
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:26:26.480344+00:00
 -- url     : https://prove2.me/theorems/8d024f33-91b0-4281-8a9a-e978319e4b1d

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterH8_sirk_band_refinement_of_orthonormal
 -- name    : BookProof.ChapterH8.sirk_band_refinement_of_orthonormal
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-09T17:52:47.323183+00:00
 -- url     : https://prove2.me/theorems/a23c992f-e207-4f78-8902-547bb7af95ee

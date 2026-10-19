@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_coeff_product_constant_shift_top_of_injective_coordinates
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.coeff_product_constant_shift_top_of_injective_coordinates
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:06:12.428633+00:00
 -- url     : https://prove2.me/theorems/87552a1a-f33b-47af-9531-0236261d2cbc

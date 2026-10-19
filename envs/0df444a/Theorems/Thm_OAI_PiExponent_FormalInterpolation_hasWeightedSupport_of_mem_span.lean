@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_hasWeightedSupport_of_mem_span
 -- name    : OAI.PiExponent.FormalInterpolation.hasWeightedSupport_of_mem_span
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T05:47:52.305454+00:00
 -- url     : https://prove2.me/theorems/b8351ad6-0b00-4d65-940a-ea17b01ccb3d

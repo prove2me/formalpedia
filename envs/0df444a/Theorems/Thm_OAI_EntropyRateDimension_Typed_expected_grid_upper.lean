@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Typed_expected_grid_upper
 -- name    : OAI.EntropyRateDimension.Typed.expected_grid_upper
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T05:05:56.386981+00:00
 -- url     : https://prove2.me/theorems/b8d9fd77-520d-4be4-a671-282344caa881

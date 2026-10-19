@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Shor_two_rpow_neg_le
 -- name    : JRPHard.Shor.two_rpow_neg_le
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T12:37:37.976979+00:00
 -- url     : https://prove2.me/theorems/d52acdb3-4ef8-4a9b-9de9-50c85dae444f

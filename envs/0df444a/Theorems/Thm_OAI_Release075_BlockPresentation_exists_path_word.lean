@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_BlockPresentation_exists_path_word
 -- name    : OAI.Release075.BlockPresentation.exists_path_word
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:36:52.495257+00:00
 -- url     : https://prove2.me/theorems/14f6dc96-9db1-4f5a-9237-bc7f1d7209f8

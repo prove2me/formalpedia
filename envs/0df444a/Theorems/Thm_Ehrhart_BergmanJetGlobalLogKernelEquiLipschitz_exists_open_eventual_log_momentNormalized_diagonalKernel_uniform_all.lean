@@ -1,0 +1,44 @@
+-- Prove2me | Theorems.Thm_Ehrhart_BergmanJetGlobalLogKernelEquiLipschitz_exists_open_eventual_log_momentNormalized_diagonalKernel_uniform_all
+-- name    : Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.exists_open_eventual_log_momentNormalized_diagonalKernel_uniform_all
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:55:12.329469+00:00
+-- url     : https://prove2.me/theorems/bd0340ac-196a-482f-bf25-9a2ee713f32d
+-- title:
+--   Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.exists_open_eventual_log_momentNormalized_diagonalKernel_uniform_all
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | EhrhartVolumeInequality | external Lean 4.33.1 validation; bundle SHA256 7150ea60aef8441515028279454832b05d0f964f3966505d147b2c1d8afe9763
+
+import Mathlib
+import Definitions.Def_EhrhartVolumeInequality
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+attribute [local instance] _p2m_local_instance_3610026555_5
+noncomputable section
+open Ehrhart
+open Set MeasureTheory
+open scoped BigOperators ENNReal
+open Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz
+open Set Function Filter MeasureTheory Metric
+open SupportFunction LaplaceAsymptotics BergmanMonomials LatticeAsymptotics LaurentJetSeparatedness
+open GlobalBergmanKernelBound MomentMinimizer MomentOptimizer MomentTargetGeodesic
+open MomentFirstVariation MomentRegularity BergmanJetBasis MomentWeakGlobalKernel
+open BergmanJetPointwiseLogKernel
+open scoped BigOperators ENNReal NNReal Topology
+
+theorem Ehrhart.BergmanJetGlobalLogKernelEquiLipschitz.exists_open_eventual_log_momentNormalized_diagonalKernel_uniform_all
+    {n : ℕ} (K : CenteredBody n)
+    (F : SourceFiniteEnergyPotential K)
+    (htransport : finiteEnergySourceGradientPushforward F =
+      normalizedTargetBodyMeasure K)
+    (x : Space n)
+    {ε : ℝ} (hε : 0 < ε) :
+    ∃ U : Set (Space n),
+      IsOpen U ∧ x ∈ U ∧
+        ∀ᶠ k : ℕ in atTop, ∀ y ∈ U,
+          dist
+            (Real.log
+              (diagonalKernel K k
+                (momentNormalizedPotential F) y) /
+                  (k : ℝ))
+            (momentNormalizedPotential F y) < ε := by sorry

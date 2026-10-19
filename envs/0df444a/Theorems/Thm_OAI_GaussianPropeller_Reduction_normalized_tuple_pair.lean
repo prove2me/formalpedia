@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_normalized_tuple_pair
 -- name    : OAI.GaussianPropeller.Reduction.normalized_tuple_pair
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:50:33.482196+00:00
 -- url     : https://prove2.me/theorems/7816cc79-ac9b-4e3f-8750-218f4794e3ea

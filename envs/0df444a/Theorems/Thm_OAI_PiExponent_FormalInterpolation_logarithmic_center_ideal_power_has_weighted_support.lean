@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_FormalInterpolation_logarithmic_center_ideal_power_has_weighted_support
 -- name    : OAI.PiExponent.FormalInterpolation.logarithmic_center_ideal_power_has_weighted_support
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-08T17:10:19.35723+00:00
 -- url     : https://prove2.me/theorems/f8010464-5a8a-490d-b9e0-f1ad45f211b2

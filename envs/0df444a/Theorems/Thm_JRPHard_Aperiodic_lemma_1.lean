@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Aperiodic_lemma_1
 -- name    : JRPHard.Aperiodic.lemma_1
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:17.816918+00:00
 -- url     : https://prove2.me/theorems/14f78d2d-486a-4438-92ef-e148c8fd910f

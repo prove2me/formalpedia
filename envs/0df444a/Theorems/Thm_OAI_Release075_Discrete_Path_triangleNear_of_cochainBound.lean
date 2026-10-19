@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Path_triangleNear_of_cochainBound
 -- name    : OAI.Release075.Discrete.Path.triangleNear_of_cochainBound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:34:16.324988+00:00
 -- url     : https://prove2.me/theorems/ee998cbf-6875-46e9-9400-3ee3197366fe

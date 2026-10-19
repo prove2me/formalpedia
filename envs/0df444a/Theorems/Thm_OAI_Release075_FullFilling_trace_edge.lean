@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_FullFilling_trace_edge
 -- name    : OAI.Release075.FullFilling.trace_edge
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:22:29.990166+00:00
 -- url     : https://prove2.me/theorems/a8e64b2d-f151-4c55-8af7-16e5a743cb07

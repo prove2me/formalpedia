@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_BinaryLocalFamily_contradiction_of_evaluated_data
 -- name    : OAI.CirculantHadamard.BinaryLocalFamily.contradiction_of_evaluated_data
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T09:47:03.318079+00:00
 -- url     : https://prove2.me/theorems/2c98434b-12e3-45c8-8454-585c518a55b0

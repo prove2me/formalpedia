@@ -1,0 +1,24 @@
+-- Prove2me | Theorems.Thm_PermanentRollout_superquadratic_of_logarithmic_degree_bounds
+-- name    : PermanentRollout.superquadratic_of_logarithmic_degree_bounds
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:56:38.420988+00:00
+-- url     : https://prove2.me/theorems/a1539017-32a5-4783-8171-ab76e484c937
+-- title:
+--   PermanentRollout.superquadratic_of_logarithmic_degree_bounds
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | Permanent | external Lean 4.33.1 validation; bundle SHA256 8a836240c656ca1eb46e7ecec147014a94283bee53230c4428d90fa24026d93c
+
+import Mathlib
+import Definitions.Def_Permanent
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option synthInstance.maxHeartbeats 100000
+open PermanentRollout
+
+theorem PermanentRollout.superquadratic_of_logarithmic_degree_bounds
+    (complexity : ℕ → ℕ)
+    (bound : ∀ d : ℕ, 3 ≤ d → ∃ N : ℕ, ∀ n : ℕ, N ≤ n →
+      (n : ℝ) ^ 2 * Real.logb 2 ((d : ℝ) - 1) / 144 ≤ complexity n) :
+    ∀ C : ℝ, 0 < C → ∃ N : ℕ, ∀ n : ℕ, N ≤ n →
+      C * (n : ℝ) ^ 2 ≤ complexity n := by sorry

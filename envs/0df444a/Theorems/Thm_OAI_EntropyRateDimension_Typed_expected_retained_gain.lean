@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Typed_expected_retained_gain
 -- name    : OAI.EntropyRateDimension.Typed.expected_retained_gain
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T05:18:04.0339+00:00
 -- url     : https://prove2.me/theorems/3f767b8d-07df-46cb-87fb-77059b16cbe4

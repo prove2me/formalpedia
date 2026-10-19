@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Polar_radial_scale
 -- name    : OAI.GaussianPropeller.Polar.radial_scale
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:37:46.372296+00:00
 -- url     : https://prove2.me/theorems/d773a1ce-9ca8-40b6-94e8-5ab0edc62225

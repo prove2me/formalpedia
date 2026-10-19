@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_SubsetShrink_Events_prob_G_corrected
 -- name    : SubsetShrink.Events.prob_G_corrected
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T19:31:30.889004+00:00
 -- url     : https://prove2.me/theorems/ee53bbda-0dac-4c4f-8f65-23414897e20f

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_NeedPersuasion_Homog_betaFi_lower_bound
 -- name    : NeedPersuasion.Homog.betaFi_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-16T01:04:21.684015+00:00
 -- url     : https://prove2.me/theorems/90d00166-b5ad-4111-9794-6f9055170ac3

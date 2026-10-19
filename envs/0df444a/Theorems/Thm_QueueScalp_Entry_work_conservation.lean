@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QueueScalp_Entry_work_conservation
 -- name    : QueueScalp.Entry.work_conservation
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:26:00.243359+00:00
 -- url     : https://prove2.me/theorems/6401820f-ca87-46d9-8b06-ecfab741e672

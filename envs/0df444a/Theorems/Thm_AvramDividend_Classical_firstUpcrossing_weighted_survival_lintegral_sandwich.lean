@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_AvramDividend_Classical_firstUpcrossing_weighted_survival_lintegral_sandwich
 -- name    : AvramDividend.Classical.firstUpcrossing_weighted_survival_lintegral_sandwich
--- status  : Open
+-- status  : Proved
 -- author  : @WillR
 -- created : 2026-10-19T10:34:00.999976+00:00
 -- url     : https://prove2.me/theorems/d1873558-56ba-4629-9f4d-1bda87c58620

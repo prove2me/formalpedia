@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Cap_capP_two
 -- name    : OAI.GaussianPropeller.Cap.capP_two
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:41:30.346348+00:00
 -- url     : https://prove2.me/theorems/7792f528-a7fe-4f20-80d6-b79fe72972d4

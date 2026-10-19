@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_GaussianPropeller_Reduction_exists_span_cone
 -- name    : OAI.GaussianPropeller.Reduction.exists_span_cone
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T06:48:43.320004+00:00
 -- url     : https://prove2.me/theorems/451f0694-4ffe-497a-8ed4-08bb788d1c5c

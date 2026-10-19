@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_appendix_dominating_example
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.appendix_dominating_example
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T22:01:21.203944+00:00
 -- url     : https://prove2.me/theorems/68d718c4-4685-4309-a253-03b1109931e6

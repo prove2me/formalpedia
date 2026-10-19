@@ -1,0 +1,28 @@
+-- Prove2me | Theorems.Thm_TwoDegenerateGraphs_empiricalChildMarginal_entropy_error
+-- name    : TwoDegenerateGraphs.empiricalChildMarginal_entropy_error
+-- status  : Open
+-- author  : @marwahaha
+-- created : 2026-10-19T10:54:40.940432+00:00
+-- url     : https://prove2.me/theorems/fbe8d597-06f5-4566-abd3-0cfb8335f9b3
+-- title:
+--   TwoDegenerateGraphs.empiricalChildMarginal_entropy_error
+-- source:
+--   https://github.com/openai/ten-proofs/tree/94bc0feb6a9ff12c7d31d6de640a725c9d43d2b6 | CompactnessAndDegeneracy | external Lean 4.33.1 validation; bundle SHA256 86bc545d4a19897e327d6a4e4f158eea1a7dff6ffc50a29b8e2a28c393e047b3
+
+import Mathlib
+import Definitions.Def_CompactnessAndDegeneracy
+set_option autoImplicit true
+open TwoDegenerateGraphs
+open Filter Finset SimpleGraph
+open scoped Topology
+
+theorem TwoDegenerateGraphs.empiricalChildMarginal_entropy_error
+    (parentCount oneCount : ℕ)
+    (hparents : 4 ≤ parentCount) (hones : oneCount ≤ parentCount)
+    (kernel : BinaryPairKernel)
+    (hparameter :
+      kernel.parentProbability =
+        (oneCount : ℝ) / (parentCount : ℝ)) :
+    |binaryEntropy (empiricalChildMarginal parentCount oneCount kernel) -
+      binaryEntropy kernel.childMarginal| ≤
+        binaryEntropy (1 / (parentCount : ℝ)) := by sorry

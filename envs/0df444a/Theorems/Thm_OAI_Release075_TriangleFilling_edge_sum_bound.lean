@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_TriangleFilling_edge_sum_bound
 -- name    : OAI.Release075.TriangleFilling.edge_sum_bound
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:35:52.49411+00:00
 -- url     : https://prove2.me/theorems/ae82d9cf-3bf0-4a9a-8f08-c3882e6d7180

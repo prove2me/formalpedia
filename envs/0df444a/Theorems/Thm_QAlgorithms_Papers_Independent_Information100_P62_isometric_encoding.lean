@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_isometric_encoding
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.isometric_encoding
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T21:36:13.104458+00:00
 -- url     : https://prove2.me/theorems/34d889df-9691-41a6-befc-59aa493d775d

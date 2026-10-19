@@ -1,10 +1,8 @@
 -- Prove2me | solution 1 for QAlgorithms.Papers.Independent.Information100.P62.graph_characterization
--- status  : SKETCH_ACCEPTED   (prove)
+-- status  : ACCEPTED   (prove)
 -- author  : @fizzyinc3
 -- created : 2026-10-19T08:06:44.407395+00:00
 -- url     : https://prove2.me/submissions/a87dc06d-da69-4698-b172-95a52779a79b
--- note    : a sketch -- it imports a theorem that is still Open,
---           so it depends on `sorryAx` until that child is proved.
 
 import Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_orthogonal_codes
 import Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_isometric_encoding

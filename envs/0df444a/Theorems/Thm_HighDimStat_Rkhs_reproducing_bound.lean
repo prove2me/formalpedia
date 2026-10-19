@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_HighDimStat_Rkhs_reproducing_bound
 -- name    : HighDimStat.Rkhs.reproducing_bound
--- status  : Open
+-- status  : Disproved
 -- author  : @junyihjy
 -- created : 2026-09-30T14:39:53.547594+00:00
 -- url     : https://prove2.me/theorems/54a56a6b-4b2f-4761-9f85-de89c48c83f2

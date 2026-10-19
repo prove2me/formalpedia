@@ -3333,48 +3333,48 @@
 {"parent": "MIPRE.CL.Detyping.numbered_selected_prefix", "child": "MIPRE_Foundations_Cost_PolyTime", "via": ["solution", "statement"]}
 {"parent": "MIPRE.CL.Detyping.numbered_selected_prefix", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["solution", "statement"]}
 {"parent": "MIPRE.CL.Detyping.numbered_selected_prefix", "child": "MIPRE_Foundations_CL_Detyping", "via": ["solution", "statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingTorsion", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAdjoin", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CoefficientEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingTorsion", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAdjoin", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CoefficientEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_integral_alternating_root_of_unity", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
 {"parent": "OAI_Probability_GaussianPropeller_Scalar", "child": "OAI_Probability_GaussianPropeller_Moments", "via": ["statement"]}
 {"parent": "OAI_Probability_GaussianPropeller_Scalar", "child": "OAI_Probability_GaussianPropeller_Taylor", "via": ["statement"]}
 {"parent": "OAI_Probability_GaussianPropeller_Scalar", "child": "OAI_Probability_GaussianPropeller_ResidualBounds", "via": ["statement"]}
@@ -8460,31 +8460,31 @@
 {"parent": "MIPRE_Foundations_LowDegree_BinaryMatrixInverse", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["statement"]}
 {"parent": "QAlgorithms_Defs_LocalPauliShadows", "child": "QAlgorithms_Defs_Measurement", "via": ["statement"]}
 {"parent": "QAlgorithms_Defs_LocalPauliShadows", "child": "QAlgorithms_Defs_LocalGroundStateFamilies", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Moments", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Taylor", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_ResidualBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_OneCell", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_ConeConcavity", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_CapBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_ProbabilityBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_QuantileCalculus", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_PairIntegral", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Geometry", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_HeatConvolution", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Translation", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Quantile", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_CapIntegral", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Mills", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Deletion", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "GaussianPropeller", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Coordinates", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Dual", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Attainment", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_SoftMinimum", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Polar", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_SmoothedConcavity", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_CapNumeric", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_HeatMaximum", "via": ["statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Moments", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Taylor", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_ResidualBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_OneCell", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_ConeConcavity", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_CapBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_ProbabilityBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_QuantileCalculus", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_PairIntegral", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Geometry", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_HeatConvolution", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Translation", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Quantile", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_CapIntegral", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Mills", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Deletion", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "GaussianPropeller", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Coordinates", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Dual", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Attainment", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_SoftMinimum", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_Polar", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_SmoothedConcavity", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_CapNumeric", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Reduction.normalized_tuple_pair", "child": "OAI_Probability_GaussianPropeller_HeatMaximum", "via": ["solution", "statement"]}
 {"parent": "dusart_theta_mesh_generic_group580", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "OAI.CHObstruction.Arrays.Map.surjective", "child": "OAI_ModelTheory_Categoricity_TailBound", "via": ["solution", "statement"]}
 {"parent": "OAI.CHObstruction.Arrays.Map.surjective", "child": "OAI_ModelTheory_Categoricity_Partition", "via": ["solution", "statement"]}
@@ -8582,33 +8582,33 @@
 {"parent": "OAI.DiamondDistortion.Forest.full_dual_approximation", "child": "OAI_Analysis_DiamondDistortion_Ancestry", "via": ["solution", "statement"]}
 {"parent": "OAI.DiamondDistortion.Forest.full_dual_approximation", "child": "OAI_Analysis_DiamondDistortion_ForestModels", "via": ["solution", "statement"]}
 {"parent": "OAI.DiamondDistortion.Forest.full_dual_approximation", "child": "OAI_Analysis_DiamondDistortion_Orthogonality", "via": ["solution", "statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.card_even_subsets_eq_card_odd_subsets", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group577_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "MIPStarRE.LDT.SelfImprovement.helper_linearized_completeness_quantity_eq_fiber_sum", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.SelfImprovement.helper_linearized_completeness_quantity_eq_fiber_sum", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Test_StrategyRole_Algebra", "via": ["solution", "statement"]}
@@ -13862,48 +13862,48 @@
 {"parent": "OAI_GroupTheory_Kervaire_RegularOperators", "child": "OAI_GroupTheory_Kervaire_TraceCalculus", "via": ["statement"]}
 {"parent": "OAI_GroupTheory_Kervaire_RegularOperators", "child": "OAI_GroupTheory_Kervaire_PhaseGrids", "via": ["statement"]}
 {"parent": "OAI_GroupTheory_Kervaire_RegularOperators", "child": "OAI_GroupTheory_Kervaire_Suppression", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingTorsion", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAdjoin", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CoefficientEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingTorsion", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAdjoin", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CoefficientEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.binary_sign_norm_impossible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution", "child": "MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_BlockDiagonal", "via": ["statement"]}
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution", "child": "MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Order", "via": ["statement"]}
 {"parent": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_Distribution", "child": "MIPRE_Background_LIDT_MIPStarRE_Quantum_FiniteMatrix_Basic", "via": ["statement"]}
@@ -20675,23 +20675,23 @@
 {"parent": "MIPRE.SeededGame.sum_oDist_mul", "child": "MIPRE_Foundations_OracularSound", "via": ["solution", "statement"]}
 {"parent": "MIPRE.SeededGame.sum_oDist_mul", "child": "MIPRE_Foundations_GameDouble", "via": ["solution", "statement"]}
 {"parent": "MIPRE.SeededGame.sum_oDist_mul", "child": "MIPRE_Foundations_GameTransport", "via": ["solution", "statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_WordPaths", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_FullGluing", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Words", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_FullFilling", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_LiftedFilling", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Links", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "TorsionFreeHyperbolic", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_MatrixRank", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Planarity", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Incidence", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Spheres", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_RePairing", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Dipoles", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_PermutationCycles", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Ribbons", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Presentation", "via": ["statement"]}
-{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_TriangleFilling", "via": ["statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_WordPaths", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_FullGluing", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Words", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_FullFilling", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_LiftedFilling", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Links", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "TorsionFreeHyperbolic", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_MatrixRank", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Planarity", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Incidence", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Spheres", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_RePairing", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Dipoles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_PermutationCycles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Ribbons", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_Presentation", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.FullFilling.trace_edge", "child": "OAI_GroupTheory_Hyperbolic_TriangleFilling", "via": ["solution", "statement"]}
 {"parent": "StaticQuote.Clairvoyant.eq_15", "child": "StaticQuote_Clairvoyant_Setting", "via": ["statement"]}
 {"parent": "MIPStarRE.LDT.Pasting.qBipartiteConsDefect_averageIdxSubMeas_left_le", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_Switcheroo", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.Pasting.qBipartiteConsDefect_averageIdxSubMeas_left_le", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Pasting_Sandwich_GHatSandwich", "via": ["solution", "statement"]}
@@ -20825,23 +20825,23 @@
 {"parent": "QAlgorithms_Defs_ExactChannelCircuits", "child": "QAlgorithms_Defs_SingleQubitCert", "via": ["statement"]}
 {"parent": "QAlgorithms_Defs_ExactChannelCircuits", "child": "QAlgorithms_Defs_FiniteRegisters", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group164_part08", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.exists_odd_halving", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
 {"parent": "BookProof.CoreBounds.coreExt_symmetricOn_inc", "child": "ChapterCoreBoundsEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.CoreBounds.coreExt_symmetricOn_inc", "child": "ChapterNavierStokesIkebeKato", "via": ["solution", "statement"]}
 {"parent": "BookProof.CoreBounds.coreExt_symmetricOn_inc", "child": "ChapterOperatorSeriesEsa", "via": ["solution", "statement"]}
@@ -27749,41 +27749,41 @@
 {"parent": "TypeDensity.scaled_linear_image_index", "child": "TypeDensity_Formula_StateCombinatorics", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.scaled_linear_image_index", "child": "TypeDensity_Algebra_AlgebraType", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.scaled_linear_image_index", "child": "TypeDensity_Unramified_Extension", "via": ["solution", "statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_ExactDimension", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_RadiusGrowth", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteRefinement", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_ErgodicAverages", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteVariance", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_BallIntegrability", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "SelfSimilar", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Coding", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_CodingIntegrals", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_SumsetBound", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Basic", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_PairGain", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Bernoulli", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_SuffixLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_InvariantLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Conditioning", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Boundary", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteEntropy", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_DigitSumset", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_WordTypes", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_BallRatios", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_RadialLimit", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_MeasureEntropy", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_BallLimits", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteDistribution", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_UpperBound", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TailConvolution", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_ProductLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_RandomGrid", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FairPairs", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_GridCoupling", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TranslationGain", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TriangularAverages", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TypedLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_WordAverage", "via": ["statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_ExactDimension", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_RadiusGrowth", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteRefinement", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_ErgodicAverages", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteVariance", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_BallIntegrability", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "SelfSimilar", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Coding", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_CodingIntegrals", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_SumsetBound", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_PairGain", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Bernoulli", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_SuffixLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_InvariantLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Conditioning", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_Boundary", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteEntropy", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_DigitSumset", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_WordTypes", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_BallRatios", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_RadialLimit", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_MeasureEntropy", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_BallLimits", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FiniteDistribution", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_UpperBound", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TailConvolution", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_ProductLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_RandomGrid", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_FairPairs", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_GridCoupling", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TranslationGain", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TriangularAverages", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_TypedLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.expected_grid_upper", "child": "OAI_MeasureTheory_SelfSimilar_WordAverage", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group452_part06", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "MazurTransfer.Order13PellActualInfinityValuations.pellFunction_ord_at_positive", "child": "MazurTransfer_Order13PellInfinityLocalOrders", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.Order13PellActualInfinityValuations.pellFunction_ord_at_positive", "child": "MazurTransfer_Order13ActualInfinityValuationData", "via": ["solution", "statement"]}
@@ -30669,46 +30669,46 @@
 {"parent": "MIPRE.Introspection.CLChecks.outputPrefix_eq_of_agree", "child": "MIPRE_Foundations_Pasting", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.CLChecks.outputPrefix_eq_of_agree", "child": "MIPRE_Foundations_GameDouble", "via": ["solution", "statement"]}
 {"parent": "MIPRE.Introspection.CLChecks.outputPrefix_eq_of_agree", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["solution", "statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CoefficientEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CoefficientEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalComparison", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.AlternatingLocalization.exists_integral_alternatingProduct", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.constantCoeff_expSer", "child": "TypeDensity_Basic", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.constantCoeff_expSer", "child": "TypeDensity_Reciprocity_Defs", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group436_part00", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
@@ -34761,24 +34761,24 @@
 {"parent": "MIPRE.TM.CookLevin.Pad.fixedCircuit_inputs", "child": "MIPRE_Foundations_LowDegree_BinaryMatrixSolve", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Pad.fixedCircuit_inputs", "child": "MIPRE_Foundations_SAT_PcpFieldTests", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Pad.fixedCircuit_inputs", "child": "MIPRE_Foundations_LowDegree_BinaryCirculantProg", "via": ["solution", "statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.BinaryBlocks.fourthRoot_character_star", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group446_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group568_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "BookProof.ChapterSpectralDirectSum.inner_eq_zero_of_orthogonalCyclicFamily", "child": "ChapterCyclicDecomposition", "via": ["solution", "statement"]}
@@ -36962,23 +36962,23 @@
 {"parent": "OAI_Analysis_Nonexpansive_AdaptiveParentReturn", "child": "ReflexiveFixedPoints", "via": ["statement"]}
 {"parent": "OAI_Analysis_Nonexpansive_AdaptiveParentReturn", "child": "OAI_Analysis_Nonexpansive_AdaptiveConvexPrefix", "via": ["statement"]}
 {"parent": "OAI_Analysis_Nonexpansive_AdaptiveParentReturn", "child": "OAI_Analysis_Nonexpansive_Resolvents", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.sum_odd_sq_mod_eight", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group069_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "OAI.BalancedTransport.Recorder.Checkpoint.rationalInitial_cast", "child": "OAI_MathematicalPhysics_NavierStokes_BalancedTransport_MachineRecursion", "via": ["solution", "statement"]}
 {"parent": "OAI.BalancedTransport.Recorder.Checkpoint.rationalInitial_cast", "child": "OAI_MathematicalPhysics_NavierStokes_BalancedTransport_TimeRegularity", "via": ["solution", "statement"]}
@@ -50080,7 +50080,7 @@
 {"parent": "UnifErgHW.Diffusion.eq_2_34", "child": "EthierKurtz_SDEState", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group375_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "SkillData.GoldRush.proposition_3", "child": "SkillData_GoldRush_Model", "via": ["statement"]}
-{"parent": "MazurTransfer.order13_actual_dyadic_internal_norm_morphisms_and_inertia", "child": "MazurTransfer_Order13DyadicOriginalNormInertiaScopedGroupProvidersV220261019", "via": ["statement"]}
+{"parent": "MazurTransfer.order13_actual_dyadic_internal_norm_morphisms_and_inertia", "child": "MazurTransfer_Order13DyadicOriginalNormInertiaScopedGroupProvidersV220261019", "via": ["solution", "statement"]}
 {"parent": "MazurTransfer.order13_actual_dyadic_internal_norm_morphisms_and_inertia", "child": "FLTPrelim_Ramification", "via": ["statement"]}
 {"parent": "MIPStarRE.LDT.SelfImprovement.helper_mass_eq_avg_pointwise_sandwich_sum", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_LinePolynomials", "via": ["solution", "statement"]}
 {"parent": "MIPStarRE.LDT.SelfImprovement.helper_mass_eq_avg_pointwise_sandwich_sum", "child": "MIPRE_Background_LIDT_MIPStarRE_LDT_Basic_ParametersFiniteAnswers", "via": ["solution", "statement"]}
@@ -68530,30 +68530,30 @@
 {"parent": "dusart_mesh_upper_group126", "child": "dusart_mesh_upper_group126_part00", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group126", "child": "dusart_mesh_upper_group126_part02", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group580_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_WordPaths", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_FullGluing", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_DiscreteMetric", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_ThinTriangles", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_FullChains", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Words", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_FullFilling", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_CyclicAction", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_LiftedFilling", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Chains", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Links", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_CayleyMetric", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "TorsionFreeHyperbolic", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_MatrixRank", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Planarity", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_BasedWords", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Incidence", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Spheres", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_RePairing", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Dipoles", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_PermutationCycles", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Ribbons", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Presentation", "via": ["statement"]}
-{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_TriangleFilling", "via": ["statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_WordPaths", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_FullGluing", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_DiscreteMetric", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_ThinTriangles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_FullChains", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Words", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_FullFilling", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_CyclicAction", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_LiftedFilling", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Chains", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Links", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_CayleyMetric", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "TorsionFreeHyperbolic", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_MatrixRank", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Planarity", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_BasedWords", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Incidence", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Spheres", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_RePairing", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Dipoles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_PermutationCycles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Ribbons", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_Presentation", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.TriangleFilling.edge_sum_bound", "child": "OAI_GroupTheory_Hyperbolic_TriangleFilling", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.BilinearEsa.bilH_not_bounded", "child": "ChapterNavierStokesBilinearEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.BilinearEsa.bilH_not_bounded", "child": "ChapterNavierStokesHermiteFarisLavine", "via": ["solution", "statement"]}
 {"parent": "BookProof.NavierStokesFlow.BilinearEsa.bilH_not_bounded", "child": "ChapterNavierStokesIkebeKato", "via": ["solution", "statement"]}
@@ -78526,29 +78526,29 @@
 {"parent": "FairRandomObject.Bads.bh_antimonotone", "child": "FairRandomObject_Bads_Setting", "via": ["statement"]}
 {"parent": "FairRandomObject.Bads.bh_antimonotone", "child": "FairRandomObject_Bads_BottomHeavy", "via": ["statement"]}
 {"parent": "OAI_Probability_GaussianPropeller_Moments", "child": "GaussianPropeller", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_WordPaths", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_FullGluing", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_DiscreteMetric", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_ThinTriangles", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_FullChains", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Words", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_FullFilling", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_CyclicAction", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_LiftedFilling", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Chains", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Links", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "TorsionFreeHyperbolic", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_MatrixRank", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Planarity", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_BasedWords", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Incidence", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Spheres", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_RePairing", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Dipoles", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_PermutationCycles", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Ribbons", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Presentation", "via": ["statement"]}
-{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_TriangleFilling", "via": ["statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_WordPaths", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_FullGluing", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_DiscreteMetric", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_ThinTriangles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_FullChains", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Words", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_FullFilling", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_CyclicAction", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_LiftedFilling", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Chains", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Links", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "TorsionFreeHyperbolic", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_MatrixRank", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Planarity", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_BasedWords", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Incidence", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Spheres", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_RePairing", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Dipoles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_PermutationCycles", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Ribbons", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_Presentation", "via": ["solution", "statement"]}
+{"parent": "OAI.Release075.Discrete.Path.shortBypass_arm", "child": "OAI_GroupTheory_Hyperbolic_TriangleFilling", "via": ["solution", "statement"]}
 {"parent": "OAI_Combinatorics_EuclideanRamsey_SmoothingMatrix", "child": "OAI_Combinatorics_EuclideanRamsey_SmoothingKernel", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_EuclideanRamsey_SmoothingMatrix", "child": "OAI_Combinatorics_EuclideanRamsey_DifferentialSplitting", "via": ["statement"]}
 {"parent": "OAI_Combinatorics_EuclideanRamsey_SmoothingMatrix", "child": "OAI_Combinatorics_EuclideanRamsey_TensorDescent", "via": ["statement"]}
@@ -80451,9 +80451,9 @@
 {"parent": "MIPRE.TM.CookLevin.Pad.innerDim_isPow", "child": "MIPRE_TM_Interp_Step", "via": ["solution", "statement"]}
 {"parent": "MIPRE.TM.CookLevin.Pad.innerDim_isPow", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group356_part03", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.firstUpcrossing_weighted_survival_lintegral_sandwich", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.firstUpcrossing_weighted_survival_lintegral_sandwich", "child": "AvramDividend.Classical.firstUpcrossing_drawdown_survival_sandwich", "via": ["statement"]}
-{"parent": "AvramDividend.Classical.firstUpcrossing_weighted_survival_lintegral_sandwich", "child": "AvramDividend_Classical_Reflection", "via": ["statement"]}
+{"parent": "AvramDividend.Classical.firstUpcrossing_weighted_survival_lintegral_sandwich", "child": "AvramDividend_Classical_SpectrallyNegativeLevy", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.firstUpcrossing_weighted_survival_lintegral_sandwich", "child": "AvramDividend.Classical.firstUpcrossing_drawdown_survival_sandwich", "via": ["solution", "statement"]}
+{"parent": "AvramDividend.Classical.firstUpcrossing_weighted_survival_lintegral_sandwich", "child": "AvramDividend_Classical_Reflection", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group429_part07", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "NLogN.KFM.src_facts", "child": "IntMul_Kappa_K_Defs33", "via": ["solution", "statement"]}
 {"parent": "MCSustain.WinWin.impact_Hup_vs_Hu", "child": "MCSustain_WinWin_Model", "via": ["statement"]}
@@ -83483,45 +83483,45 @@
 {"parent": "HlawkaSchatten.DiagonalCutoff21.certified_piece21_02", "child": "HlawkaSchatten_GapComparison", "via": ["statement"]}
 {"parent": "HlawkaSchatten.DiagonalCutoff21.certified_piece21_02", "child": "HlawkaSchatten_DiagonalConstruction_Basic", "via": ["statement"]}
 {"parent": "dusart_mesh_upper_group265_part04", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_ExactDimension", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RadiusGrowth", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteRefinement", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_ErgodicAverages", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteVariance", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BallIntegrability", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "SelfSimilar", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Coding", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_PairBands", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_CodingIntegrals", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_SumsetBound", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Basic", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_PairGain", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Bernoulli", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_SuffixLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_InvariantLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Conditioning", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Boundary", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteEntropy", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_DigitSumset", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_WordTypes", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BallRatios", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RadialLimit", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_MeasureEntropy", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RetainedLoss", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_EntropyBudget", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BallLimits", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteDistribution", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_UpperBound", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TailConvolution", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BlockWords", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_ProductLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RandomGrid", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FairPairs", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_GridCoupling", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TranslationGain", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TriangularAverages", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TypedLaw", "via": ["statement"]}
-{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_WordAverage", "via": ["statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_ExactDimension", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RadiusGrowth", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteRefinement", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_ErgodicAverages", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteVariance", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BallIntegrability", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "SelfSimilar", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Coding", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_PairBands", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_CodingIntegrals", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_SumsetBound", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_PairGain", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Bernoulli", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_SuffixLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_InvariantLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Conditioning", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_Boundary", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteEntropy", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_DigitSumset", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_WordTypes", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BallRatios", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RadialLimit", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_MeasureEntropy", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RetainedLoss", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_EntropyBudget", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BallLimits", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FiniteDistribution", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_UpperBound", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TailConvolution", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_BlockWords", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_ProductLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_RandomGrid", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_FairPairs", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_GridCoupling", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TranslationGain", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TriangularAverages", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_TypedLaw", "via": ["solution", "statement"]}
+{"parent": "OAI.EntropyRateDimension.Typed.pair_bands_of_retained_loss", "child": "OAI_MeasureTheory_SelfSimilar_WordAverage", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.forms_linear_injective", "child": "TypeDensity_Basic", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.forms_linear_injective", "child": "TypeDensity_Measure_AdicCylinders", "via": ["solution", "statement"]}
 {"parent": "TypeDensity.forms_linear_injective", "child": "TypeDensity_Measure_HenselProducts", "via": ["solution", "statement"]}
@@ -91716,32 +91716,32 @@
 {"parent": "MIPRE.AnswerReduction.Pcp.comps_marginal", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedInactiveResidueJetPMF_norm_le_s2", "child": "ErdosReciprocal", "via": ["solution", "statement"]}
 {"parent": "OAI.Erdos3.VectorPolynomial.allocatedSupportedSlicedInactiveResidueJetPMF_norm_le_s2", "child": "OAIE3v2B196", "via": ["solution", "statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Moments", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Taylor", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_ResidualBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_OneCell", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_ConeConcavity", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_CapBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_ProbabilityBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_QuantileCalculus", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_PairIntegral", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Geometry", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_HeatConvolution", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Translation", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Quantile", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_CapIntegral", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Mills", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Deletion", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_QuarticCertificates", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "GaussianPropeller", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Coordinates", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Dual", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Attainment", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_SoftMinimum", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Polar", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_SmoothedConcavity", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_CapNumeric", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_HeatMaximum", "via": ["statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Moments", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Taylor", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_ResidualBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_OneCell", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_ConeConcavity", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_CapBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_ProbabilityBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_QuantileCalculus", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_PairIntegral", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Geometry", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_HeatConvolution", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Translation", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Quantile", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_CapIntegral", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Mills", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Deletion", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_QuarticCertificates", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "GaussianPropeller", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Coordinates", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Dual", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Attainment", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_SoftMinimum", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_Polar", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_SmoothedConcavity", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_CapNumeric", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.FourCertificates.large_2", "child": "OAI_Probability_GaussianPropeller_HeatMaximum", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group302_part03", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "BookProof.WallEsaBddBelow.wallHam_essentiallySelfAdjoint_of_bddBelow", "child": "ChapterScalaronCoreEsa", "via": ["solution", "statement"]}
 {"parent": "BookProof.WallEsaBddBelow.wallHam_essentiallySelfAdjoint_of_bddBelow", "child": "ChapterWallEsaBddBelow", "via": ["solution", "statement"]}
@@ -99494,43 +99494,43 @@
 {"parent": "MIPRE.LowDegree.BinaryLinear.IsPivotBasis.append_reduced", "child": "MIPRE_Foundations_SAT_Flatten", "via": ["solution", "statement"]}
 {"parent": "MIPRE.LowDegree.BinaryLinear.IsPivotBasis.append_reduced", "child": "MIPRE_Foundations_Cost_Binary", "via": ["solution", "statement"]}
 {"parent": "MIPRE.LowDegree.BinaryLinear.IsPivotBasis.append_reduced", "child": "MIPRE_Foundations_Cost_Basic_B", "via": ["solution", "statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "CirculantHadamard", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["statement"]}
-{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_Witnesses", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_DyadicRemainder", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_Basic", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_AlternatingProducts", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeComponents", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryCoefficients", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicAwayLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicLocalBase", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicIntegerEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalDVR", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_LocalizationMaps", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_IntegerTwoLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalFamily", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjection", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_FirstOrderResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryProductTransport", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicProjectionPolynomial", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclotomicRings", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalization", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryLocalRing", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryResidue", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_MatrixBridge", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_BinaryBlocks", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "CirculantHadamard", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedConjugation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicEvaluationAt", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_ResidueOneAssociation", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_OrderHalving", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedLocal", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_PrimeCharacterEvaluations", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_CyclicNorm", "via": ["solution", "statement"]}
+{"parent": "OAI.CirculantHadamard.LocalComparison.projected_factor_divisible", "child": "OAI_LinearAlgebra_CirculantHadamard_RamifiedEisenstein", "via": ["solution", "statement"]}
 {"parent": "actuarial_e_qualifiedContractEPV", "child": "actuarial_e_spousePayment", "via": ["statement"]}
 {"parent": "actuarial_e_qualifiedContractEPV", "child": "actuarial_e_deathPV", "via": ["statement"]}
 {"parent": "actuarial_e_qualifiedContractEPV", "child": "actuarial_d_onlyY", "via": ["statement"]}
@@ -99973,26 +99973,26 @@
 {"parent": "MazurTransfer_Order13ActualOrderedCharacterContinuousH1OriginalChosenQuotientsAndKummerDataFixedKernelActionsAndContinuousNamespacesV320261019", "child": "MazurTransfer_Order13ActualNormCharacterKummerKernelControlData", "via": ["statement"]}
 {"parent": "MazurTransfer_Order13ActualOrderedCharacterContinuousH1OriginalChosenQuotientsAndKummerDataFixedKernelActionsAndContinuousNamespacesV320261019", "child": "MazurTransfer_Order13ActualNormKernelCyclotomicQuotientOriginalPredicateData20261018", "via": ["statement"]}
 {"parent": "QAlgorithms_Defs_QuantumInformation", "child": "QAlgorithms_Defs_AdaptiveQuery", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Moments", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Taylor", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_ResidualBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_OneCell", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_ConeConcavity", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_QuantileCalculus", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_ProbabilityBounds", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_PairIntegral", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_HeatConvolution", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Translation", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Quantile", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Mills", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Deletion", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "GaussianPropeller", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Dual", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Attainment", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_SoftMinimum", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Polar", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_SmoothedConcavity", "via": ["statement"]}
-{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_HeatMaximum", "via": ["statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Moments", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Taylor", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_ResidualBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_OneCell", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_ConeConcavity", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_QuantileCalculus", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_ProbabilityBounds", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_PairIntegral", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_HeatConvolution", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Translation", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Quantile", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Mills", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Deletion", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "GaussianPropeller", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Dual", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Attainment", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_SoftMinimum", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_Polar", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_SmoothedConcavity", "via": ["solution", "statement"]}
+{"parent": "OAI.GaussianPropeller.Polar.radial_scale", "child": "OAI_Probability_GaussianPropeller_HeatMaximum", "via": ["solution", "statement"]}
 {"parent": "dusart_mesh_upper_group479_part01", "child": "dusart_theta_mesh_numeric", "via": ["statement"]}
 {"parent": "ChapterPvmFibreInducedSystem", "child": "ChapterHilbertSumIntertwine", "via": ["statement"]}
 {"parent": "ChapterPvmFibreInducedSystem", "child": "ChapterPvmCyclicUnitary", "via": ["statement"]}

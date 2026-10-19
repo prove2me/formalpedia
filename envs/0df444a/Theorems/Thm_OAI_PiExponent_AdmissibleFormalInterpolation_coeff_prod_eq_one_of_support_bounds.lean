@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_coeff_prod_eq_one_of_support_bounds
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.coeff_prod_eq_one_of_support_bounds
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:26:41.476814+00:00
 -- url     : https://prove2.me/theorems/c6dedc29-f79f-494e-96e1-9781f57fcf88

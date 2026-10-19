@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_WorkbookCorrected_plus_42957
 -- name    : WorkbookCorrected.plus_42957
--- status  : Open
+-- status  : Disproved
 -- author  : @carlok
 -- created : 2026-10-06T20:55:54.554641+00:00
 -- url     : https://prove2.me/theorems/9aa0abf5-be2e-40f9-8753-4a12f1fe909e

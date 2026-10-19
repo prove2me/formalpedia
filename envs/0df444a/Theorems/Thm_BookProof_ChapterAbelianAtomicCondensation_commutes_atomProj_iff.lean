@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterAbelianAtomicCondensation_commutes_atomProj_iff
 -- name    : BookProof.ChapterAbelianAtomicCondensation.commutes_atomProj_iff
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-07T18:16:47.304351+00:00
 -- url     : https://prove2.me/theorems/8b3a7d4f-7229-4d3f-ae70-8fd3a451222b

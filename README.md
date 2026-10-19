@@ -2,7 +2,7 @@
 
 Formalized mathematics from [Prove2Me](https://prove2.me/formalpedia): theorems
 and definitions stated in Lean 4, with the proofs accepted against them. This
-snapshot was taken 2026-10-19 10:48 UTC and is refreshed daily.
+snapshot was taken 2026-10-19 12:27 UTC and is refreshed daily.
 
 ## License
 
@@ -19,7 +19,7 @@ Items that import work not yet licensed are left out until it is.
 
 | Directory | Mathlib | Toolchain | Theorems | Definitions | Solutions | Edges |
 |---|---|---|---|---|---|---|
-| `envs/0df444a` | `0df444a360ea` | leanprover/lean4:v4.33.1 | 132,873 | 50,344 | 114,677 | 966,179 |
+| `envs/0df444a` | `0df444a360ea` | leanprover/lean4:v4.33.1 | 139,538 | 50,429 | 121,601 | 985,320 |
 | `envs/c5ea003` | `c5ea00351c28` | leanprover/lean4:v4.30.0 | 13,238 | 4,178 | 13,616 | 60,176 |
 | `envs/777aaa6` | `777aaa61dcd2` | leanprover/lean4:v4.29.0-rc3 | 17,748 | 451 | 14,839 | 24,016 |
 

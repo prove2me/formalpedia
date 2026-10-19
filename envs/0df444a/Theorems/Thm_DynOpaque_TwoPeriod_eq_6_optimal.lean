@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_DynOpaque_TwoPeriod_eq_6_optimal
 -- name    : DynOpaque.TwoPeriod.eq_6_optimal
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-19T01:22:23.496685+00:00
 -- url     : https://prove2.me/theorems/740117d7-2659-4cfb-bf24-4a24d3d1ae3a

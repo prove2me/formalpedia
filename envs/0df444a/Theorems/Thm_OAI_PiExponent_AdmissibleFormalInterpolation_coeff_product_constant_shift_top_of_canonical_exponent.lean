@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_PiExponent_AdmissibleFormalInterpolation_coeff_product_constant_shift_top_of_canonical_exponent
 -- name    : OAI.PiExponent.AdmissibleFormalInterpolation.coeff_product_constant_shift_top_of_canonical_exponent
--- status  : Open
+-- status  : Proved
 -- author  : @Eyal1990
 -- created : 2026-10-16T18:20:48.029369+00:00
 -- url     : https://prove2.me/theorems/3df64b96-8f5e-4533-8c58-56a2fee37a43

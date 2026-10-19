@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_JRPHard_Aperiodic_coprime_lower_bound
 -- name    : JRPHard.Aperiodic.coprime_lower_bound
--- status  : Open
+-- status  : Proved
 -- author  : @mikedeng1
 -- created : 2026-10-15T06:49:22.491661+00:00
 -- url     : https://prove2.me/theorems/570a0e05-9ed3-44ef-ab5d-4ef57278ca57

@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_Release075_Discrete_Path_shortBypass_arm
 -- name    : OAI.Release075.Discrete.Path.shortBypass_arm
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T08:30:42.91612+00:00
 -- url     : https://prove2.me/theorems/e22d6e60-9a42-41a5-b603-0b80ce9b5069

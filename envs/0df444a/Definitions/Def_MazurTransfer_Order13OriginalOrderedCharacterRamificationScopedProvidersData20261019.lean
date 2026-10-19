@@ -1,0 +1,131 @@
+-- Prove2me | Definitions.Def_MazurTransfer_Order13OriginalOrderedCharacterRamificationScopedProvidersData20261019
+-- name    : MazurTransfer_Order13OriginalOrderedCharacterRamificationScopedProvidersData20261019
+-- status  : Definition
+-- author  : @Vas
+-- created : 2026-10-19T12:19:35.7579+00:00
+-- url     : https://prove2.me/theorems/49281f3e-b63e-4553-a8d3-55ea4f3833ca
+-- title:
+--   Original selected ordered-character ramification constructors
+-- statement:
+--   Retain the original group, finite norm kernels, F19 module structures and Galois actions used by the two previously fixed ordered character Kummer maps. No quotient intertwiner is reselected. Named downstream consumer: the same two selected character maps have zero genuine valuation-inertia restriction away from 13 and 19, including 2.
+-- source:
+--   MazurTheorem original mixed single-section parameter algebras and reciprocal recovery, by Vas and contributors; exact official Anthropic FLT quotient/base-change bridge at pin 6e837e75355538c7f80bab5b956861e86c4eacc2; Apache-2.0. Original per-file attribution retained.
+
+/-
+Copyright (c) 2026 Vas and contributors. Released under Apache-2.0.
+Design boundary: preserve original scoped topology, group actions and modules for the same chosen actual norm and character maps. All substantial ramification proofs belong to separate theorem submissions.
+Named downstream consumer: actual all-prime character local conditions and selected-character Selmer bounds.
+-/
+import Definitions.Def_MazurTransfer_Order13OriginalAllPrimeNormKummerTopologyAndInertiaNormalClosureData20261019
+import Definitions.Def_MazurTransfer_Order13ActualNormCharacterKummerKernelControlData
+import Definitions.Def_MazurTransfer_Order13OriginalCharacterLocalConditionScopedTopologyAndModuleData20261019
+import Definitions.Def_MazurTransfer_Order13ActualOrderedCharacterContinuousH1OriginalChosenQuotientsAndKummerDataFixedKernelActionsAndContinuousNamespacesV320261019
+/-
+Copyright (c) 2026 Vas and contributors. Released under Apache-2.0.
+Design boundary: the TWO PREVIOUSLY FIXED actual ordered character Kummer
+homomorphisms have zero valuation-inertia restriction at every prime
+except thirteen and nineteen, including two. Preserve their selected
+quotient intertwiners; do not assert a separately chosen inclusion has
+the kernel of either selected quotient without proof.
+Named downstream consumer: actual ordered character Selmer images.
+-/
+
+noncomputable section
+namespace MazurTransfer.Order13ActualOrderedCharacterRamificationConditions
+open CategoryTheory AlgebraicGeometry AlgebraicGeometry.RelPicard
+open GoodReductionJacobian NeronModelInfra
+open MazurTorsion.XOneThirteenProjectiveCurve
+open Order13ActualPicardDiamondSchemeEndomorphism
+open Order13ActualPicardSchemeNineteenNorm Order13ActualPicardSchemeNormGroupHom
+open Order13ActualPicardGeometricNormPreimages
+open Order13ActualPicardNormKummerCocycles
+open scoped CategoryTheory.MonObj
+local instance instGrpObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualOrderedCharacterRamificationConditions : GrpObj (Over.mk actualPicard.toBase) :=
+  (show RepresentsRelSubPic (curveToBase ℚ) infinitySection
+    (algEquivZeroGroupCut (curveToBase ℚ) infinitySection).toSubPicCondition actualPicard
+    from actualRepresentation).grpObj
+local instance instIsCommMonObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualOrderedCharacterRamificationConditions : IsCommMonObj (Over.mk actualPicard.toBase) :=
+  (show RepresentsRelSubPic (curveToBase ℚ) infinitySection
+    (algEquivZeroGroupCut (curveToBase ℚ) infinitySection).toSubPicCondition actualPicard
+    from actualRepresentation).isCommMonObj
+local instance instIsMonHomOverSchemeSpecOfRatSchemePi_order13ActualOrderedCharacterRamificationConditions : IsMonHom schemePi := schemePi_isMonHom
+local instance instIsMonHomOverSchemeSpecOfRatSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions : IsMonHom schemePiConjugate := schemePiConjugate_isMonHom
+
+open Order13ActualPicardNormKernelGaloisAction
+open Order13ActualPicardGaloisFixedPointDescent
+variable (K : Type) [Field K] [CharZero K] [IsGalois ℚ K]
+open Order13ActualNormKernelF19Representation Order13ActualNormFixedKernelEquivalence
+open Order13ActualNormKernelFiniteModule
+local instance instFactPrimeOfNatNat_order13ActualOrderedCharacterRamificationConditions : Fact (Nat.Prime 19) := ⟨by decide⟩
+
+open Order13ActualPicardSchemeNineteenNorm Order13ActualNormKernelFiniteModule
+local instance instIsFiniteLeftSchemeSchemePi_order13ActualOrderedCharacterRamificationConditions : IsFinite schemePi.left := Order13ActualPicardNormFiniteEtaleIsogenies.actual_norm_factors_are_finite_etale_surjective.1.1
+local instance instIsFiniteLeftSchemeSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions : IsFinite schemePiConjugate.left := Order13ActualPicardNormFiniteEtaleIsogenies.actual_norm_factors_are_finite_etale_surjective.2.1
+local instance instFactForallEqSubtypePointsMemSubgroupKernelSchemePiHPowOfNat_order13ActualOrderedCharacterRamificationConditions : Fact (∀ z : Kernel K schemePi, z ^ 19 = 1) := ⟨pi_kernel_exponent_nineteen K⟩
+local instance instFactForallEqSubtypePointsMemSubgroupKernelSchemePiConjugateHPowOfNat_order13ActualOrderedCharacterRamificationConditions : Fact (∀ z : Kernel K schemePiConjugate, z ^ 19 = 1) := ⟨piConjugate_kernel_exponent_nineteen K⟩
+local instance instModuleZModOfNatNatAdditiveSubtypePointsMemSubgroupKernelSchemePi_order13ActualOrderedCharacterRamificationConditions : Module (ZMod 19) (Additive (Kernel K schemePi)) := kernelZModModule K schemePi
+local instance instModuleZModOfNatNatAdditiveSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions : Module (ZMod 19) (Additive (Kernel K schemePiConjugate)) := kernelZModModule K schemePiConjugate
+local instance instFactNeRatOfNat_order13ActualOrderedCharacterRamificationConditions : Fact ((104 : ℚ) ≠ 0) := ⟨by norm_num⟩
+
+
+local instance instFiniteSubtypePointsMemSubgroupKernelSchemePi_order13ActualOrderedCharacterRamificationConditions : Finite (Kernel K schemePi) := kernel_finite K schemePi
+local instance instFiniteSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions : Finite (Kernel K schemePiConjugate) := kernel_finite K schemePiConjugate
+
+
+variable [IsAlgClosed K]
+open Order13ActualNormKernelCyclotomicCharacter Order13ActualNormKernelCrossPairing
+open NineteenRootsGaloisRepresentation Order13ActualNineteenTorsionNormPairingAdjoint
+local instance instModuleZModOfNatNatAdditiveSubtypeUnitsMemSubgroupRoots_order13ActualOrderedCharacterRamificationConditions : Module (ZMod 19) (Additive (Roots K)) := rootsZModModule K
+
+
+open Order13ActualNormKernelInvariantDimensions Order13ActualComplementaryCharacterExactSequence
+open Order13ActualArithmeticCharacterExactSequence Order13ActualCyclotomicThirteenKernelCharacter
+
+open Order13ActualNormCharacterContinuousH1 Order13ActualNormCharacterKummerUnramified
+open RepresentationDiscreteCoefficients ContinuousCoefficientExponentAndContinuity
+open Order13ActualPicardNormContinuousCohomology
+open Order13ActualPicardNormAlgebraicKummerInjection
+open RepresentationCharacterTwist
+local instance instTopologicalSpacePoints_order13ActualOrderedCharacterRamificationConditions : TopologicalSpace (Points K) := ⊥
+local instance instDiscreteTopologyPoints_order13ActualOrderedCharacterRamificationConditions : DiscreteTopology (Points K) := ⟨rfl⟩
+local instance instMulActionAlgEquivRatPoints_order13ActualOrderedCharacterRamificationConditions : MulAction (K ≃ₐ[ℚ] K) (Points K) :=
+  Order13DyadicMixedUnramifiedKummer.instMulActionAlgEquivRatPoints_order13DyadicMixedUnramifiedKummer K
+local instance instMulDistribMulActionAlgEquivRatSubtypePointsMemSubgroupKernelSchemePi_order13ActualOrderedCharacterRamificationConditions : MulDistribMulAction (K ≃ₐ[ℚ] K) (Kernel K schemePi) := kernelAction K schemePi
+local instance instMulDistribMulActionAlgEquivRatSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions : MulDistribMulAction (K ≃ₐ[ℚ] K) (Kernel K schemePiConjugate) :=
+  kernelAction K schemePiConjugate
+variable (z : K) (hz : IsPrimitiveRoot z 13) (𝒱 : (curveScheme ℚ).TwoAffineOpenCover)
+
+open Order13ActualOrderedCharacterContinuousH1
+variable (q : ℕ) [Fact q.Prime] (h13 : q ≠ 13) (h19 : q ≠ 19)
+variable (A : ValuationSubring K) (hA : A.LiesOverPrime q)
+include h13 h19 hA
+
+
+
+
+
+end MazurTransfer.Order13ActualOrderedCharacterRamificationConditions
+
+end
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instGrpObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instIsCommMonObjOverSchemeSpecOfRatMkToBaseActualPicard_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instIsMonHomOverSchemeSpecOfRatSchemePi_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instIsMonHomOverSchemeSpecOfRatSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instFactPrimeOfNatNat_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instIsFiniteLeftSchemeSchemePi_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instIsFiniteLeftSchemeSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instFactForallEqSubtypePointsMemSubgroupKernelSchemePiHPowOfNat_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instFactForallEqSubtypePointsMemSubgroupKernelSchemePiConjugateHPowOfNat_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instModuleZModOfNatNatAdditiveSubtypePointsMemSubgroupKernelSchemePi_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instModuleZModOfNatNatAdditiveSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instFactNeRatOfNat_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instFiniteSubtypePointsMemSubgroupKernelSchemePi_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instFiniteSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instModuleZModOfNatNatAdditiveSubtypeUnitsMemSubgroupRoots_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instTopologicalSpacePoints_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instDiscreteTopologyPoints_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instMulActionAlgEquivRatPoints_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instMulDistribMulActionAlgEquivRatSubtypePointsMemSubgroupKernelSchemePi_order13ActualOrderedCharacterRamificationConditions
+#print axioms MazurTransfer.Order13ActualOrderedCharacterRamificationConditions.instMulDistribMulActionAlgEquivRatSubtypePointsMemSubgroupKernelSchemePiConjugate_order13ActualOrderedCharacterRamificationConditions
+
+

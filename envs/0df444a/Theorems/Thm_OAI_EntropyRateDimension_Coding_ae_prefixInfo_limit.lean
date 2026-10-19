@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_EntropyRateDimension_Coding_ae_prefixInfo_limit
 -- name    : OAI.EntropyRateDimension.Coding.ae_prefixInfo_limit
--- status  : Open
+-- status  : Proved
 -- author  : @Shuze Chen
 -- created : 2026-10-19T04:51:39.771265+00:00
 -- url     : https://prove2.me/theorems/cdd1fff4-9bed-4e97-b6de-f4f4cee4951f

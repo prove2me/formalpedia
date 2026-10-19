@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_BookProof_ChapterEntropyTemperature_attentionEntropy_antitoneOn
 -- name    : BookProof.ChapterEntropyTemperature.attentionEntropy_antitoneOn
--- status  : Open
+-- status  : Proved
 -- author  : @leonardopedro
 -- created : 2026-10-08T02:50:34.965346+00:00
 -- url     : https://prove2.me/theorems/4f00d864-8114-4672-b082-28e598bcca03

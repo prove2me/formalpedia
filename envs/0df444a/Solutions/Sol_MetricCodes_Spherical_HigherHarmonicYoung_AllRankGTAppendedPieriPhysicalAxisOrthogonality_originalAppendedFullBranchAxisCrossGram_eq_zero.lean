@@ -1,0 +1,5951 @@
+-- Prove2me | solution 1 for MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality.originalAppendedFullBranchAxisCrossGram_eq_zero
+-- status  : ACCEPTED   (prove)
+-- author  : @marwahaha
+-- created : 2026-10-19T11:36:46.872997+00:00
+-- url     : https://prove2.me/submissions/7cc03ef0-20fc-48ec-abeb-9dbeb56cbb92
+
+import Definitions.Def_SpherePacking
+import Definitions.Def_MetricCodes
+import Theorems.Thm_MetricCodes_Spherical_HigherYoungAllRankDistinctSignatureStabilizerIntertwiner_youngRotationIntertwiner_eq_zero_of_signature_ne
+import Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAppendedRowExclusion_appendedRowFullBranchSignature_ne_appendZero
+import Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAppendedClebschOrthogonality_appendedFullBranchPieriLower_rotation_intertwine
+import Theorems.Thm_MetricCodes_Spherical_HigherHarmonicYoung_AllRankGTAppendedPieriPhysicalAxisOrthogonality_originalPaddedSelectedAxisTensor_rotation_intertwine
+set_option backward.isDefEq.respectTransparency.types false
+namespace MetricCodes
+noncomputable section
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+open scoped BigOperators
+namespace Boolean
+variable {n : ℕ}
+end Boolean
+end
+noncomputable section
+open scoped BigOperators Matrix InnerProductSpace
+namespace ProjectionFamily
+variable {X : Type*} {D d : ℕ}
+end ProjectionFamily
+section Gram
+variable {X E : Type*}
+variable [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+end Gram
+section Certificate
+variable {X E : Type*}
+variable [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+variable {D d : ℕ}
+end Certificate
+end
+noncomputable section
+open scoped BigOperators Matrix
+namespace Boolean
+variable {n : ℕ}
+end Boolean
+end
+section
+open scoped BigOperators
+open Finset
+end
+end MetricCodes
+namespace SpherePacking
+noncomputable section
+set_option autoImplicit false
+open Filter MeasureTheory Metric
+open scoped ENNReal InnerProductSpace Topology
+attribute [-instance]
+  CohnElkies.numeralTwoAtLeast
+  CohnElkies.euclideanFiniteDimensional
+  CohnElkies.euclideanBorelSpace
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Real
+open scoped Nat Topology
+end
+end SpherePacking
+namespace MetricCodes
+noncomputable section
+set_option autoImplicit false
+open Filter Metric Topology
+open scoped BigOperators InnerProductSpace Topology
+namespace Hamming
+end Hamming
+end
+namespace Johnson
+noncomputable section
+open scoped BigOperators InnerProductSpace Matrix
+namespace AsymptoticParameters
+variable {δ α β γ u : ℝ}
+end AsymptoticParameters
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped Topology
+namespace Asymptotics
+end Asymptotics
+end
+noncomputable section
+open scoped BigOperators InnerProductSpace Matrix
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace Matrix
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+end Johnson
+namespace MRRW
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped Topology
+end
+end MRRW
+namespace Johnson
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace Matrix
+end
+namespace SpectralAsymptotics
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology
+open MetricCodes.Johnson.Asymptotics
+end
+end SpectralAsymptotics
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped Topology
+namespace Rate
+open MetricCodes.Johnson.Asymptotics
+open MetricCodes.Johnson.SpectralAsymptotics
+end Rate
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped Topology
+open MetricCodes.Johnson.Asymptotics
+end
+end Johnson
+noncomputable section
+open scoped BigOperators
+namespace Numerics
+end Numerics
+end
+namespace Spherical
+noncomputable section
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+end Spherical
+end MetricCodes
+noncomputable section
+open Filter MeasureTheory Metric
+open scoped ENNReal Pointwise
+namespace SpherePacking
+end SpherePacking
+end
+namespace MetricCodes
+namespace Spherical
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+open scoped BigOperators
+namespace HigherHierarchy
+end HigherHierarchy
+end
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+namespace MetricCodes
+namespace Spherical
+namespace HigherHierarchy
+noncomputable section
+open MeasureTheory ProbabilityTheory Real Set
+open scoped ENNReal Interval
+namespace Arcsine
+end Arcsine
+end
+noncomputable section
+open MeasureTheory Real Set
+open scoped Interval
+namespace ArcsineIntegral
+end ArcsineIntegral
+end
+noncomputable section
+open MeasureTheory ProbabilityTheory Real Set Filter
+open scoped ENNReal Interval Topology
+namespace ArcsineTransform
+end ArcsineTransform
+end
+end HigherHierarchy
+noncomputable section
+open scoped BigOperators
+namespace HigherHierarchyChebyshev
+end HigherHierarchyChebyshev
+end
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+namespace MetricCodes
+namespace Spherical
+noncomputable section
+open MeasureTheory ProbabilityTheory Real
+open scoped ENNReal
+namespace HigherHierarchy.Entropy
+end HigherHierarchy.Entropy
+end
+noncomputable section
+open Filter
+open scoped Topology BigOperators Interval
+namespace HigherHierarchyChebyshev.Asymptotic
+end HigherHierarchyChebyshev.Asymptotic
+end
+noncomputable section
+open Filter Set
+open scoped Topology BigOperators
+namespace HigherHierarchy.MidpointQuadrature
+end HigherHierarchy.MidpointQuadrature
+end
+noncomputable section
+open Filter
+open MetricCodes.Spherical.HigherHierarchy.MidpointQuadrature
+open scoped BigOperators Topology Interval
+namespace HigherHierarchyChebyshev.Asymptotic
+end HigherHierarchyChebyshev.Asymptotic
+end
+end Spherical
+end MetricCodes
+noncomputable section
+open scoped Interval
+namespace MetricCodes.Spherical.HigherHierarchyChebyshev
+end MetricCodes.Spherical.HigherHierarchyChebyshev
+open Filter
+open scoped Topology BigOperators
+namespace MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic
+end MetricCodes.Spherical.HigherHierarchyChebyshev.Asymptotic
+end
+namespace MetricCodes
+namespace Spherical
+namespace HigherHierarchyChebyshev
+namespace Asymptotic
+noncomputable section
+open Filter
+open scoped Topology
+end
+noncomputable section
+open Filter
+open scoped BigOperators Topology
+end
+noncomputable section
+end
+end Asymptotic
+end HigherHierarchyChebyshev
+namespace HigherHierarchy
+noncomputable section
+open scoped BigOperators
+namespace Numerics
+end Numerics
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open MeasureTheory
+open scoped BigOperators Interval
+end
+noncomputable section
+open MeasureTheory ProbabilityTheory
+open scoped ENNReal BigOperators
+end
+noncomputable section
+end
+end HigherHierarchy
+end Spherical
+end MetricCodes
+set_option linter.unusedVariables false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unnecessarySimpa false
+noncomputable section
+open scoped BigOperators InnerProductSpace
+namespace MetricCodes
+end MetricCodes
+end
+namespace SpherePacking
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open Polynomial
+open scoped BigOperators
+namespace Gegenbauer
+end Gegenbauer
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace Fischer
+end Fischer
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace NumericalCertificate
+end NumericalCertificate
+end
+end SpherePacking
+namespace MetricCodes
+noncomputable section
+open scoped BigOperators InnerProductSpace Matrix
+namespace Johnson
+end Johnson
+end
+namespace Spherical
+noncomputable section
+end
+noncomputable section
+open scoped BigOperators
+namespace HigherHierarchy
+end HigherHierarchy
+end
+end Spherical
+end MetricCodes
+namespace SpherePacking
+noncomputable section
+set_option autoImplicit false
+open Filter Real
+open scoped Nat Topology
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Real
+open scoped BigOperators Nat Topology
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace Jacobi
+end Jacobi
+end
+noncomputable section
+set_option autoImplicit false
+open Metric
+open scoped BigOperators InnerProductSpace
+namespace Perron
+end Perron
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology InnerProductSpace
+namespace SpectralAsymptotics
+open SpherePacking.NumericalCertificate
+end SpectralAsymptotics
+end
+noncomputable section
+set_option autoImplicit false
+open Filter
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HarmonicCertificateAssembly
+end HarmonicCertificateAssembly
+end
+noncomputable section
+set_option autoImplicit false
+namespace JacobiSymmetrization
+open SpherePacking.Gegenbauer
+end JacobiSymmetrization
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace SourceJacobiWeights
+end SourceJacobiWeights
+end
+noncomputable section
+set_option autoImplicit false
+namespace HarmonicPerronPositivity
+open HarmonicCertificateAssembly
+end HarmonicPerronPositivity
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HarmonicCoordinateChannels
+end HarmonicCoordinateChannels
+namespace HarmonicCoordinateOperators
+end HarmonicCoordinateOperators
+namespace HarmonicSourceProjection
+open SpherePacking.HarmonicCoordinateOperators
+end HarmonicSourceProjection
+namespace HarmonicAdjacentChannelTransport
+open HarmonicCertificateAssembly
+open HarmonicCoordinateChannels
+open HarmonicCoordinateOperators
+end HarmonicAdjacentChannelTransport
+end
+end SpherePacking
+namespace MetricCodes
+namespace Spherical
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Nat Topology InnerProductSpace
+namespace GeneralSpectral
+end GeneralSpectral
+end
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+noncomputable section
+open scoped InnerProductSpace
+namespace SpherePacking
+end SpherePacking
+end
+namespace MetricCodes
+namespace Spherical
+noncomputable section
+open Filter Topology
+namespace MaximalCodeBounds
+end MaximalCodeBounds
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+namespace HigherHierarchy
+end HigherHierarchy
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+open scoped InnerProductSpace Topology
+namespace SidelnikovLocalization
+end SidelnikovLocalization
+end
+namespace HigherHierarchy
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+end
+noncomputable section
+open Set Filter Topology
+end
+noncomputable section
+open Filter
+open scoped BigOperators Topology
+namespace CompactificationEntropy
+end CompactificationEntropy
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Set Filter Topology
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open scoped BigOperators
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open MeasureTheory
+open scoped BigOperators Interval
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Set Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+open Set Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open scoped BigOperators
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Filter MeasureTheory ProbabilityTheory Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+end
+noncomputable section
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+noncomputable section
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+namespace CompactificationEntropy
+end CompactificationEntropy
+end
+noncomputable section
+open Set Filter Topology
+open scoped Topology
+end
+noncomputable section
+open Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+set_option autoImplicit false
+end
+noncomputable section
+set_option autoImplicit false
+open Set Filter Topology
+open scoped BigOperators Topology
+end
+noncomputable section
+set_option autoImplicit false
+end
+noncomputable section
+end
+noncomputable section
+set_option autoImplicit false
+end
+noncomputable section
+open Filter Topology
+open scoped Topology
+end
+end HigherHierarchy
+noncomputable section
+open Polynomial Function Module
+open scoped BigOperators Nat
+namespace AssociatedGegenbauer
+end AssociatedGegenbauer
+end
+noncomputable section
+open scoped BigOperators InnerProductSpace
+namespace FirstFibreContractions
+variable {E : Type*} [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+end FirstFibreContractions
+namespace AssociatedOverlap
+open SpherePacking
+end AssociatedOverlap
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace AssociatedAxisTransport
+end AssociatedAxisTransport
+end
+noncomputable section
+open scoped BigOperators InnerProductSpace
+namespace OrthogonalPolynomialTransport
+end OrthogonalPolynomialTransport
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Nat Topology
+namespace HigherHierarchy.Weyl
+end HigherHierarchy.Weyl
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherRepresentationGraph
+end HigherRepresentationGraph
+end
+noncomputable section
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace MixedTensorRepresentations
+open SpherePacking.HarmonicCoordinateOperators
+end MixedTensorRepresentations
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace TwoRowYoungBidegreeDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung
+end TwoRowYoungBidegreeDecomposition
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.TwoRowYoungBidegreeDecomposition
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+end HigherHarmonicYoung
+end Spherical
+noncomputable section
+open scoped BigOperators Matrix InnerProductSpace
+namespace HigherProjectionGraph
+variable {I X : Type*} [Fintype I] [DecidableEq I]
+namespace Data
+variable {D d Q : ℕ} (A : Data I X D d Q)
+end Data
+end HigherProjectionGraph
+end
+namespace Spherical
+noncomputable section
+open scoped BigOperators InnerProductSpace Matrix
+namespace HigherProjectionInstantiation
+namespace RealizedHilbertGraph
+variable {I X E V F : Type*} [Fintype I] [DecidableEq I]
+variable [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+  [FiniteDimensional ℝ E]
+variable [NormedAddCommGroup V] [InnerProductSpace ℝ V]
+  [FiniteDimensional ℝ V]
+variable [NormedAddCommGroup F] [InnerProductSpace ℝ F]
+  [FiniteDimensional ℝ F]
+end RealizedHilbertGraph
+end HigherProjectionInstantiation
+end
+noncomputable section
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungGraphAssembly
+variable {I : Type*} [Fintype I] [DecidableEq I]
+variable (V : I → Type*)
+  [∀ i, NormedAddCommGroup (V i)]
+  [∀ i, InnerProductSpace ℝ (V i)]
+  [∀ i, FiniteDimensional ℝ (V i)]
+end HigherYoungGraphAssembly
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungMovingFibres
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungGraphAssembly
+open MetricCodes.Spherical.HigherProjectionInstantiation
+end HigherYoungMovingFibres
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherHarmonicYoung.GelfandTsetlin
+end HigherHarmonicYoung.GelfandTsetlin
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungBranchingFibres
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungMovingFibres
+variable {E V : Type*}
+  [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+  [FiniteDimensional ℝ E]
+  [NormedAddCommGroup V] [InnerProductSpace ℝ V]
+  [FiniteDimensional ℝ V]
+end HigherYoungBranchingFibres
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.TwoRowYoungBidegreeDecomposition
+open SpherePacking.HarmonicCoordinateOperators
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace
+open MetricCodes.Spherical.HigherHierarchy
+namespace YoungPolynomialFrame
+variable {r n : ℕ} {lam : Fin (r + 1) → ℕ} {ι : Type*}
+end YoungPolynomialFrame
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace Tableaux
+end Tableaux
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+section DoubleQuadraticRoots
+open Polynomial Module
+variable {R : Type*} [CommRing R]
+variable [IsDomain R]
+end DoubleQuadraticRoots
+end
+noncomputable section
+set_option autoImplicit false
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace BranchingDimension
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherYoungGraphAssembly
+open MetricCodes.Spherical.MixedTensorRepresentations
+end BranchingDimension
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace DeterminantVectors
+end DeterminantVectors
+end
+end HigherHarmonicYoung
+noncomputable section
+open scoped BigOperators
+namespace HigherChannel
+end HigherChannel
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ThreeRowYoungBranching
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end ThreeRowYoungBranching
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankBranching
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankBranching
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace FullRankClebsch
+end FullRankClebsch
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungSameAxisTraceIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung
+end HigherYoungSameAxisTraceIdeal
+namespace HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherYoungBranchingFibres
+open MetricCodes.Spherical.HigherYoungSameAxisTraceIdeal
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungProjectedRaiseInjectivity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end HigherYoungProjectedRaiseInjectivity
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherYoungProjectedRaiseInjectivity
+end ArbitraryRankLowerRowBranching
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace MultiplicityFreeClebsch
+end MultiplicityFreeClebsch
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherYoungProjectedRaiseInjectivity
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherHarmonicYoung.MultiplicityFreeClebsch
+end FullRankClebschProbabilities
+end
+end HigherHarmonicYoung
+namespace HigherChannel
+noncomputable section
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology
+open MetricCodes.Spherical.HigherHierarchy
+end
+end HigherChannel
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Matrix Topology
+namespace HigherHierarchyBoxSpectral
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherChannel
+end HigherHierarchyBoxSpectral
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology
+namespace HigherHierarchy.RectangularVertices
+open MetricCodes.Spherical.HigherChannel
+end HigherHierarchy.RectangularVertices
+end
+noncomputable section
+set_option autoImplicit false
+open Metric
+open scoped BigOperators InnerProductSpace Matrix
+namespace HigherHierarchyFinitePerron
+variable {I : Type*} [Fintype I] [DecidableEq I] [Nonempty I]
+end HigherHierarchyFinitePerron
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open Filter Topology
+open scoped BigOperators InnerProductSpace Matrix Topology
+namespace HigherHierarchyTrueGridAdjacency
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyBoxSpectral
+end HigherHierarchyTrueGridAdjacency
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators Matrix
+namespace HigherHierarchyBoxChannels
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyBoxSpectral
+open MetricCodes.Spherical.HigherHierarchyTrueGridAdjacency
+end HigherHierarchyBoxChannels
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators InnerProductSpace Matrix Topology
+namespace HigherHierarchyBoxPerron
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyBoxSpectral
+end HigherHierarchyBoxPerron
+end
+namespace HigherHierarchy
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators Topology
+open MetricCodes.Spherical.HigherChannel
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators InnerProductSpace Matrix Topology
+open MetricCodes.Spherical.HigherProjectionInstantiation
+end
+end HigherHierarchy
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungGraphAssembly
+open MetricCodes.Spherical.HigherYoungMovingFibres
+open MetricCodes.Spherical.HigherProjectionInstantiation
+end HigherYoungActualGraphAssembly
+end
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators InnerProductSpace Matrix TensorProduct Topology
+namespace HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyBoxSpectral
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end HigherHierarchyActualBoxSufficiency
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankClebschBranchCoherence
+open MetricCodes.Spherical.HigherHarmonicYoung.FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherYoungMovingFibres
+variable {E : Type*}
+  [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+end AllRankClebschBranchCoherence
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherYoungProjectedRaiseInjectivity
+end AllRankArbitraryRowBranchingOperator
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.ThreeRowYoungBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+end HigherYoungArbitraryRankInterlacingGapSchedule
+namespace HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungArbitraryRankInterlacingLegalSchedule
+namespace HigherYoungSameAxisCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end HigherYoungSameAxisCoefficient
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRankMixedTraceRegularity
+open MetricCodes.Spherical.HigherHarmonicYoung
+end ArbitraryRankMixedTraceRegularity
+end
+noncomputable section
+set_option autoImplicit false
+open Finsupp
+open scoped MonomialOrder
+namespace YoungWeightedLex
+variable {σ : Type*} (w : σ → ℕ)
+section LinearOrder
+variable [LinearOrder σ]
+variable [WellFoundedGT σ]
+end LinearOrder
+end YoungWeightedLex
+namespace ArbitraryRankMixedTraceRegularity
+end ArbitraryRankMixedTraceRegularity
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators MonomialOrder
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators MonomialOrder
+namespace HigherYoungCoprimeLeadingBuchberger
+open MvPolynomial
+open MetricCodes.Spherical.HigherHarmonicYoung
+end HigherYoungCoprimeLeadingBuchberger
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators MonomialOrder
+namespace HigherYoungCoprimeLeadingRegularSequence
+open MvPolynomial
+end HigherYoungCoprimeLeadingRegularSequence
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherHarmonicYoung
+open ArbitraryRankMixedTraceRegularity
+open MetricCodes.Spherical.HigherYoungCoprimeLeadingRegularSequence
+end HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungMixedGapBranching
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end HigherYoungMixedGapBranching
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherYoungMixedGapBranching
+open MetricCodes.Spherical.HigherChannel
+end ArbitraryRowMickelssonGramIdeal
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option maxRecDepth 4096
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end ArbitraryRowMickelssonWeightHomogeneity
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowSameAxisSchedule
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRowSameAxisSchedule
+namespace ArbitraryRankInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankInterlacingPolynomialSeed
+namespace ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankReverseInterlacingPolynomialSeed
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2400000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonHighest
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+end ArbitraryRowMickelssonHighest
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonSimpleRoot
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+end ArbitraryRowMickelssonSimpleRoot
+end
+end HigherHarmonicYoung
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+namespace MetricCodes
+namespace Spherical
+namespace HigherHarmonicYoung
+noncomputable section
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+end ArbitraryRowMickelssonPathCommutator
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonPathRecurrence
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+end ArbitraryRowMickelssonPathRecurrence
+namespace ArbitraryRowFourStateSubsetSorting
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+end ArbitraryRowFourStateSubsetSorting
+end
+end HigherHarmonicYoung
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+noncomputable section
+open scoped BigOperators InnerProductSpace
+namespace MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathToggle
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonSimpleRoot
+end MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathToggle
+end
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+namespace MetricCodes
+namespace Spherical
+namespace HigherHarmonicYoung
+noncomputable section
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonPathToggleCoordinate
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonSimpleRoot
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathToggle
+end ArbitraryRowMickelssonPathToggleCoordinate
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonFourStatePathExtraction
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonSimpleRoot
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowFourStateSubsetSorting
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathToggleCoordinate
+end ArbitraryRowMickelssonFourStatePathExtraction
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2400000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowMickelssonLastRoot
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathRecurrence
+end ArbitraryRowMickelssonLastRoot
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowSimpleRootPathCancellation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonFourStatePathExtraction
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonHighest
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonLastRoot
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathRecurrence
+end ArbitraryRowSimpleRootPathCancellation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankInterlacingHighestWeightSeed
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisSchedule
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSimpleRootPathCancellation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankInterlacingHighestWeightSeed
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungArbitraryRowAxialFiltrationIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+end HigherYoungArbitraryRowAxialFiltrationIdeal
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowAxialLeadingOrder
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherYoungArbitraryRowAxialFiltrationIdeal
+end ArbitraryRowAxialLeadingOrder
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankGelfandTsetlinTriangularNormalForm
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialLeadingOrder
+open MetricCodes.Spherical.HigherYoungArbitraryRowAxialFiltrationIdeal
+end ArbitraryRankGelfandTsetlinTriangularNormalForm
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators MonomialOrder
+namespace ArbitraryRowMickelssonGramQuotient
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankMixedTraceRegularity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherYoungCoprimeLeadingBuchberger
+open MetricCodes.Spherical.HigherYoungCoprimeLeadingRegularSequence
+end ArbitraryRowMickelssonGramQuotient
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators MonomialOrder
+namespace HigherYoungArbitraryRankAxialAssociatedGraded
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankMixedTraceRegularity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramQuotient
+open MetricCodes.Spherical.HigherYoungArbitraryRowAxialFiltrationIdeal
+open MetricCodes.Spherical.HigherYoungCoprimeLeadingBuchberger
+open MetricCodes.Spherical.HigherYoungCoprimeLeadingRegularSequence
+end HigherYoungArbitraryRankAxialAssociatedGraded
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungIteratedAxialProjectionSemigroup
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungMixedGapBranching
+open MetricCodes.Spherical.HigherYoungSameAxisTraceIdeal
+end HigherYoungIteratedAxialProjectionSemigroup
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankAxialTransverseRetraction
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherYoungArbitraryRowAxialFiltrationIdeal
+open MetricCodes.Spherical.HigherYoungIteratedAxialProjectionSemigroup
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankAxialTransverseRetraction
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+namespace ArbitraryRankAxialRetractionGramImage
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAxialTransverseRetraction
+end ArbitraryRankAxialRetractionGramImage
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankAxialRetractionLowerIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAxialTransverseRetraction
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAxialRetractionGramImage
+open MetricCodes.Spherical.HigherYoungArbitraryRowAxialFiltrationIdeal
+end ArbitraryRankAxialRetractionLowerIdeal
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankAxialTransverseSeedNonvanishing
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAxialTransverseRetraction
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAxialRetractionLowerIdeal
+open MetricCodes.Spherical.HigherYoungArbitraryRowAxialFiltrationIdeal
+open MetricCodes.Spherical.HigherYoungIteratedAxialProjectionSemigroup
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankAxialTransverseSeedNonvanishing
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankInterlacingTriangularCoefficient
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinTriangularNormalForm
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAxialTransverseSeedNonvanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherYoungArbitraryRankAxialAssociatedGraded
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankInterlacingTriangularCoefficient
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungBranchingFibres
+end ArbitraryRankHarmonicBranch
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingHighestWeightSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingTriangularCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherRepresentationGraph
+end ArbitraryRankGelfandTsetlinHarmonicIsometry
+end
+noncomputable section
+set_option autoImplicit false
+set_option synthInstance.maxHeartbeats 80000
+open scoped BigOperators InnerProductSpace
+namespace AllRankGelfandTsetlinFibreNormalization
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherRepresentationGraph
+open SpherePacking.HarmonicCoordinateOperators
+end AllRankGelfandTsetlinFibreNormalization
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungMixedGapAxisProbability
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherChannel
+end HigherYoungMixedGapAxisProbability
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace MixedSignature
+end MixedSignature
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+end ClebschRotation
+namespace TwoRowAxisChannelCoherence
+open MetricCodes.Spherical.HigherHarmonicYoung.FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankClebschBranchCoherence
+open MetricCodes.Spherical.HigherYoungMixedGapAxisProbability
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end TwoRowAxisChannelCoherence
+end
+namespace MixedSignature
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+end MixedSignature
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace CrossGram
+end CrossGram
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+open MixedSignature
+end
+namespace MixedSignature
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace TensorProduct
+open MetricCodes.Spherical.HigherChannel
+end
+end MixedSignature
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankBoxSignatureNeighbors
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+end HigherYoungAllRankBoxSignatureNeighbors
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungAllRankBoxChannelOrthogonality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankBoxSignatureNeighbors
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end HigherYoungAllRankBoxChannelOrthogonality
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankClebschBranchCoherence
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankBoxChannelOrthogonality
+open MetricCodes.Spherical.HigherYoungMovingFibres
+open MetricCodes.Spherical.HigherHarmonicYoung.TwoRowAxisChannelCoherence
+end HigherYoungAllRankActualBoxInstantiation
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGelfandTsetlinAdjacentFibrePhase
+open SpherePacking.HarmonicCoordinateOperators
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankClebschBranchCoherence
+open MetricCodes.Spherical.HigherHarmonicYoung.FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungMovingFibres
+open MetricCodes.Spherical.HigherHarmonicYoung.TwoRowAxisChannelCoherence
+variable {E : Type*}
+  [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+end AllRankGelfandTsetlinAdjacentFibrePhase
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungMixedGapStabilizerRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherYoungMixedGapBranching
+end HigherYoungMixedGapStabilizerRotationIntertwining
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungArbitraryRankReverseInterlacingRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherYoungMixedGapStabilizerRotationIntertwining
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungArbitraryRankReverseInterlacingRotationIntertwining
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1000000
+set_option synthInstance.maxHeartbeats 100000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungMixedGapBranching
+end HigherYoungMixedGapLieGram
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankGelfandTsetlinGramRotationCommutation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherYoungArbitraryRankReverseInterlacingRotationIntertwining
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherRepresentationGraph
+end HigherYoungAllRankGelfandTsetlinGramRotationCommutation
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankHarmonicBranchRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherYoungArbitraryRankReverseInterlacingRotationIntertwining
+open MetricCodes.Spherical.HigherRepresentationGraph
+end ArbitraryRankHarmonicBranchRotationIntertwining
+end
+noncomputable section
+set_option autoImplicit false
+set_option synthInstance.maxHeartbeats 80000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranchRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinAdjacentFibrePhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinFibreNormalization
+open MetricCodes.Spherical.HigherHarmonicYoung.FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankGelfandTsetlinGramRotationCommutation
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end AllRankGelfandTsetlinCanonicalFibre
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace AllRankReverseProjectedFibreCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinFibreNormalization
+open MetricCodes.Spherical.HigherRepresentationGraph
+variable {E : Type*}
+  [NormedAddCommGroup E] [InnerProductSpace ℝ E]
+end AllRankReverseProjectedFibreCoefficient
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+namespace BGGRootComplex
+open MetricCodes.Spherical.HigherHarmonicYoung
+open scoped BigOperators
+end BGGRootComplex
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungInternalRowPolarizationDescent
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+end HigherYoungInternalRowPolarizationDescent
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+open MetricCodes.Spherical.HigherYoungInternalRowPolarizationDescent
+end HigherYoungPenultimateRowProjectedLower
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2200000
+open scoped BigOperators
+namespace HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end HigherYoungArbitraryRowDownstreamCorrection
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungInternalRowPolarizationDescent
+end ArbitraryRankInternalRowLowerGram
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowProjectedLowerOperator
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+end ArbitraryRowProjectedLowerOperator
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungArbitraryRowDownstreamPathPairing
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowProjectedLowerOperator
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherYoungInternalRowPolarizationDescent
+end HigherYoungArbitraryRowDownstreamPathPairing
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3200000
+open scoped BigOperators
+namespace HigherYoungArbitraryRowDownstreamMembership
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+end HigherYoungArbitraryRowDownstreamMembership
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungArbitraryRowDownstreamHarmonicMembership
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamMembership
+end HigherYoungArbitraryRowDownstreamHarmonicMembership
+namespace HigherHarmonicYoung.ArbitraryRowDownstreamScalarTelescoping
+end HigherHarmonicYoung.ArbitraryRowDownstreamScalarTelescoping
+end
+section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungDownstreamFiniteIntervalSums
+end HigherYoungDownstreamFiniteIntervalSums
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators
+namespace HigherHarmonicYoung.ArbitraryRowDownstreamRecurrenceClosedForm
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamScalarTelescoping
+open MetricCodes.Spherical.HigherYoungDownstreamFiniteIntervalSums
+end HigherHarmonicYoung.ArbitraryRowDownstreamRecurrenceClosedForm
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungArbitraryRowDownstreamGram
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamPathPairing
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamHarmonicMembership
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamRecurrenceClosedForm
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+end HigherYoungArbitraryRowDownstreamGram
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators
+namespace HigherYoungDownstreamSimpleRootInvariant
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamMembership
+open MetricCodes.Spherical.HigherYoungDownstreamFiniteIntervalSums
+end HigherYoungDownstreamSimpleRootInvariant
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungDownstreamAdjacentCancellationAlgebra
+end HigherYoungDownstreamAdjacentCancellationAlgebra
+namespace HigherYoungDownstreamAdjacentSumHelpers
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungInternalRowPolarizationDescent
+open MetricCodes.Spherical.HigherYoungDownstreamFiniteIntervalSums
+end HigherYoungDownstreamAdjacentSumHelpers
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators
+namespace HigherYoungDownstreamSimpleRootInvariant
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamMembership
+open MetricCodes.Spherical.HigherYoungDownstreamAdjacentCancellationAlgebra
+open MetricCodes.Spherical.HigherYoungDownstreamAdjacentSumHelpers
+open MetricCodes.Spherical.HigherYoungDownstreamFiniteIntervalSums
+end HigherYoungDownstreamSimpleRootInvariant
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamCorrection
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamHarmonicMembership
+open MetricCodes.Spherical.HigherYoungArbitraryRowDownstreamGram
+open MetricCodes.Spherical.HigherYoungDownstreamSimpleRootInvariant
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+end HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungArbitraryRowLoweringProjectedAxisWitness
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungMovingFibres
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end HigherYoungArbitraryRowLoweringProjectedAxisWitness
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungArbitraryRowRaisingProjectedAxisWitness
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end HigherYoungArbitraryRowRaisingProjectedAxisWitness
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungAllRankGTFibreReverseProbability
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungMovingFibres
+open MetricCodes.Spherical.HigherYoungArbitraryRowRaisingProjectedAxisWitness
+end HigherYoungAllRankGTFibreReverseProbability
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option synthInstance.maxHeartbeats 80000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankCanonicalBoxProjectedAxisWitness
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankReverseProjectedFibreCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankBoxSignatureNeighbors
+open MetricCodes.Spherical.HigherYoungAllRankGTFibreReverseProbability
+open MetricCodes.Spherical.HigherYoungArbitraryRowLoweringProjectedAxisWitness
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end AllRankCanonicalBoxProjectedAxisWitness
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowTransverseYoungBranch
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonHighest
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end ArbitraryRowTransverseYoungBranch
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowUnconditionalBranch
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSimpleRootPathCancellation
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowTransverseYoungBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end ArbitraryRowUnconditionalBranch
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowProjectedLowerOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowTransverseYoungBranch
+end ArbitraryRowAxialAdjointGram
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace AllRankRawForwardAxisRange
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherYoungIteratedAxialProjectionSemigroup
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankRawForwardAxisRange
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowBaseAxisChannel
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowProjectedLowerOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowUnconditionalBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherYoungProjectedRaiseInjectivity
+end ArbitraryRowBaseAxisChannel
+namespace AllRankRawProjectedRaiseMickelsson
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowBaseAxisChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowUnconditionalBranch
+end AllRankRawProjectedRaiseMickelsson
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace
+namespace AllRankCanonicalForwardAxisRange
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankRawForwardAxisRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankRawProjectedRaiseMickelsson
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowBaseAxisChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowUnconditionalBranch
+open MetricCodes.Spherical.HigherYoungIteratedAxialProjectionSemigroup
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankCanonicalForwardAxisRange
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace AllRankCanonicalFibreAxisTransfer
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinFibreNormalization
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankCanonicalFibreAxisTransfer
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungArbitraryRankAdjacentInterlacingSchedule
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingTriangularCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungArbitraryRankAdjacentInterlacingSchedule
+end
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+namespace MetricCodes
+namespace Spherical
+namespace HigherHarmonicYoung
+noncomputable section
+open scoped BigOperators
+namespace ArbitraryRowFirstAxisIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathRecurrence
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+end ArbitraryRowFirstAxisIntertwining
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondGapShift
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathRecurrence
+end ArbitraryRowSameAxisDiamondGapShift
+namespace ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowFirstAxisIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondGapShift
+end ArbitraryRowSameAxisDiamondPathCommutator
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowSameAxisDiamond
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowFirstAxisIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonHighest
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+end ArbitraryRowSameAxisDiamond
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRankInterlacingAdjacentPathExchange
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamond
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungArbitraryRankAdjacentInterlacingSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end ArbitraryRankInterlacingAdjacentPathExchange
+namespace AllRankGelfandTsetlinAdjacentProjectedCoefficient
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalFibreAxisTransfer
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalForwardAxisRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinAdjacentFibrePhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingAdjacentPathExchange
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowBaseAxisChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowUnconditionalBranch
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankGelfandTsetlinAdjacentProjectedCoefficient
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondFullCommutator
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowFirstAxisIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathRecurrence
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+end ArbitraryRowSameAxisDiamondFullCommutator
+namespace ArbitraryRowSameAxisDiamondGapDifference
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathRecurrence
+end ArbitraryRowSameAxisDiamondGapDifference
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace ArbitraryRowSameAxisDiamondRootCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+end ArbitraryRowSameAxisDiamondRootCommutator
+namespace ArbitraryRowSameAxisDiamondSuffixRootCommute
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondRootCommutator
+end ArbitraryRowSameAxisDiamondSuffixRootCommute
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondResidualSuffixPartition
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondFullCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondRootCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixRootCommute
+end ArbitraryRowSameAxisDiamondResidualSuffixPartition
+namespace ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonLastRoot
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondGapDifference
+end ArbitraryRowSameAxisDiamondSpectralPath
+namespace ArbitraryRowSameAxisDiamondSuffixCoefficientFactor
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondGapDifference
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondResidualSuffixPartition
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+end ArbitraryRowSameAxisDiamondSuffixCoefficientFactor
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondSuffixSummation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondFullCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondResidualSuffixPartition
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondRootCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixCoefficientFactor
+end ArbitraryRowSameAxisDiamondSuffixSummation
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondSpectralRootTransport
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondRootCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+end ArbitraryRowSameAxisDiamondSpectralRootTransport
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondUniversalPluckerCancellation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonHighest
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondFullCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondGapDifference
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondResidualSuffixPartition
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralRootTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixCoefficientFactor
+end ArbitraryRowSameAxisDiamondUniversalPluckerCancellation
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondSpectralAbstractRTT
+open MetricCodes.Spherical.HigherHarmonicYoung
+end ArbitraryRowSameAxisDiamondSpectralAbstractRTT
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondSpectralRTTStep
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralRootTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralAbstractRTT
+end ArbitraryRowSameAxisDiamondSpectralRTTStep
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondSpectralAbstractSelfCommute
+open MetricCodes.Spherical.HigherHarmonicYoung
+end ArbitraryRowSameAxisDiamondSpectralAbstractSelfCommute
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondSpectralSelfCommuteStep
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralRootTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralAbstractSelfCommute
+end ArbitraryRowSameAxisDiamondSpectralSelfCommuteStep
+namespace ArbitraryRowSameAxisDiamondSpectralRTT
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankLowerRowBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralRootTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralAbstractRTT
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralRTTStep
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralSelfCommuteStep
+end ArbitraryRowSameAxisDiamondSpectralRTT
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+open scoped BigOperators
+namespace ArbitraryRowSameAxisDiamondSpectralSuffixClosure
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondFullCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondPathCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralPath
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralRTT
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixCoefficientFactor
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSuffixSummation
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondUniversalPluckerCancellation
+end ArbitraryRowSameAxisDiamondSpectralSuffixClosure
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option synthInstance.maxHeartbeats 80000
+open scoped BigOperators InnerProductSpace
+namespace AllRankCanonicalBoxActualForward
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxProjectedAxisWitness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinAdjacentFibrePhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinAdjacentProjectedCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingAdjacentPathExchange
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamond
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralSuffixClosure
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonHighest
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.FullRankClebschProbabilities
+open MetricCodes.Spherical.HigherHarmonicYoung.GelfandTsetlin
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungArbitraryRowLoweringProjectedAxisWitness
+open MetricCodes.Spherical.HigherYoungMovingFibres
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingGapSchedule
+open MetricCodes.Spherical.HigherYoungArbitraryRankInterlacingLegalSchedule
+open MetricCodes.Spherical.ThreeRowYoungBranching
+open SpherePacking.HarmonicCoordinateOperators
+end AllRankCanonicalBoxActualForward
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace BideterminantHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.TwoRowYoungBidegreeDecomposition
+end BideterminantHighestLine
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+end HigherYoungTwoRowLieIrreducibility
+namespace HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungCyclicHighestSchur
+end
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+namespace MetricCodes
+namespace Spherical
+namespace HigherHarmonicYoung
+noncomputable section
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace ArbitraryRowRaisingSchurTraceGram
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end ArbitraryRowRaisingSchurTraceGram
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+namespace IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+end IsotropicAmbientHighestLine
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators
+namespace HigherYoungAllRankSourceHighestKernel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+end HigherYoungAllRankSourceHighestKernel
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+namespace HigherYoungAllRankSourceDiagonalBalance
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+end HigherYoungAllRankSourceDiagonalBalance
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+open scoped BigOperators
+namespace HigherYoungAllRankSourceCoefficientStraightening
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherYoungAllRankSourceHighestKernel
+open MetricCodes.Spherical.HigherYoungAllRankSourceDiagonalBalance
+end HigherYoungAllRankSourceCoefficientStraightening
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators
+namespace HigherYoungAllRankIsotropicHighestMultiplicityOne
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherYoungAllRankSourceHighestKernel
+open MetricCodes.Spherical.HigherYoungAllRankSourceCoefficientStraightening
+open MetricCodes.Spherical.HigherYoungAllRankSourceDiagonalBalance
+end HigherYoungAllRankIsotropicHighestMultiplicityOne
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1500000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungArbitraryRankGelfandTsetlinHighestEigenpair
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankIsotropicHighestMultiplicityOne
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungArbitraryRankGelfandTsetlinHighestEigenpair
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherHarmonicYoung.ArbitraryRowRaiseLowerTensorTrace
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end HigherHarmonicYoung.ArbitraryRowRaiseLowerTensorTrace
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators
+namespace HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+end HigherYoungAmbientCartanIsotropicEigenvalues
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1000000
+open scoped BigOperators
+namespace HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungAmbientRootRotationDecomposition
+end
+namespace HigherYoungAmbientRootNilpotence
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+end
+end HigherYoungAmbientRootNilpotence
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+namespace HigherYoungAmbientPositiveRootGeneratorAction
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+end HigherYoungAmbientPositiveRootGeneratorAction
+namespace HigherYoungAmbientPositiveRootUnusedGeneratorAction
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungAmbientPositiveRootGeneratorAction
+end HigherYoungAmbientPositiveRootUnusedGeneratorAction
+namespace HigherYoungIsotropicCoordinateHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+end HigherYoungIsotropicCoordinateHomogeneity
+end
+end Spherical
+end MetricCodes
+section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+noncomputable section
+open scoped BigOperators
+namespace MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungAmbientPositiveRootGeneratorAction
+open MetricCodes.Spherical.HigherYoungAmbientPositiveRootUnusedGeneratorAction
+open MetricCodes.Spherical.HigherYoungIsotropicCoordinateHomogeneity
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+end
+namespace MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+section
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungAmbientPositiveRootGeneratorAction
+open MetricCodes.Spherical.HigherYoungAmbientPositiveRootUnusedGeneratorAction
+open MetricCodes.Spherical.HigherYoungIsotropicCoordinateHomogeneity
+end
+section
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungIsotropicCoordinateHomogeneity
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end
+end MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+end
+namespace MetricCodes
+namespace Spherical
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungIsotropicAdjoinRange
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+end HigherYoungIsotropicAdjoinRange
+namespace HigherYoungEvenCoordinateHolomorphicAdjoin
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+end HigherYoungEvenCoordinateHolomorphicAdjoin
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators
+namespace HigherYoungMaximalCartanNullSubstitutionRange
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungIsotropicAdjoinRange
+open MetricCodes.Spherical.HigherYoungIsotropicCoordinateHomogeneity
+open MetricCodes.Spherical.HigherYoungEvenCoordinateHolomorphicAdjoin
+end HigherYoungMaximalCartanNullSubstitutionRange
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungArbitraryRankDominantHighestLinePreservation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGelfandTsetlinGramRotationCommutation
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungArbitraryRankGelfandTsetlinHighestEigenpair
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungMaximalCartanNullSubstitutionRange
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungArbitraryRankDominantHighestLinePreservation
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace ArbitraryRowRaiseTensorGram
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowRaiseLowerTensorTrace
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowRaisingSchurTraceGram
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherYoungArbitraryRankGelfandTsetlinHighestEigenpair
+open MetricCodes.Spherical.HigherYoungArbitraryRankDominantHighestLinePreservation
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end ArbitraryRowRaiseTensorGram
+end
+namespace UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+variable {α : Type*} [LinearOrder α]
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+end UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+open scoped BigOperators
+open ArbitraryRankMixedTraceRegularity
+attribute [local instance] MvPolynomial.weightedGradedAlgebra
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open ArbitraryRankMixedTraceRegularity
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 800000
+set_option synthInstance.maxHeartbeats 200000
+open scoped BigOperators
+open scoped InnerProductSpace
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open scoped InnerProductSpace
+end
+namespace UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option synthInstance.maxHeartbeats 300000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+end UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace OrthogonalDenominator
+end OrthogonalDenominator
+end
+namespace UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open MetricCodes.Spherical.HigherHarmonicYoung
+attribute [local instance 100] LieRing.ofAssociativeRing
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 600000
+set_option backward.isDefEq.respectTransparency false
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+end UniversalBGGRootComplex
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungRootFamilyEulerGrouping
+end HigherYoungRootFamilyEulerGrouping
+end
+namespace HigherHarmonicYoung
+namespace UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.HigherYoungRootFamilyEulerGrouping
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2400000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2200000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+end UniversalBGGRootComplex
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherWeylBinomialDeterminant
+end HigherWeylBinomialDeterminant
+namespace HigherWeylGramAlternantCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankMixedTraceRegularity
+end HigherWeylGramAlternantCoefficient
+namespace HigherWeylReversedAlternantCoefficient
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankMixedTraceRegularity
+open MetricCodes.Spherical.HigherWeylGramAlternantCoefficient
+end HigherWeylReversedAlternantCoefficient
+namespace HigherWeylQuadraticDeterminantCoefficient
+open MetricCodes.Spherical.HigherWeylGramAlternantCoefficient
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankMixedTraceRegularity
+end HigherWeylQuadraticDeterminantCoefficient
+namespace HigherWeylGramOrthogonalJacobiTrudi
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.OrthogonalDenominator
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherWeylGramAlternantCoefficient
+open MetricCodes.Spherical.HigherWeylReversedAlternantCoefficient
+open MetricCodes.Spherical.HigherWeylQuadraticDeterminantCoefficient
+end HigherWeylGramOrthogonalJacobiTrudi
+namespace HigherWeylGeneralRowNormalization
+end HigherWeylGeneralRowNormalization
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherWeylGeneralRowFactor
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherWeylGeneralRowNormalization
+end HigherWeylGeneralRowFactor
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherWeylDescendingRowFactors
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherWeylGeneralRowNormalization
+end HigherWeylDescendingRowFactors
+end
+section
+set_option autoImplicit false
+namespace HigherWeylShiftedSquarePairNormalization
+open MetricCodes.Spherical.HigherHierarchy
+end HigherWeylShiftedSquarePairNormalization
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherWeylAllRankCommonInvariantPolynomial
+open Polynomial
+end HigherWeylAllRankCommonInvariantPolynomial
+namespace HigherWeylMiddleProductClosedForm
+end HigherWeylMiddleProductClosedForm
+namespace HigherWeylAllRankReflectedPrefixSuffixFactor
+open MetricCodes.Spherical.HigherWeylAllRankCommonInvariantPolynomial
+open MetricCodes.Spherical.HigherWeylMiddleProductClosedForm
+end HigherWeylAllRankReflectedPrefixSuffixFactor
+namespace HigherWeylAllRankJacobiTrudiWeylEvaluation
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherWeylShiftedSquarePairNormalization
+open MetricCodes.Spherical.HigherWeylGeneralRowFactor
+open MetricCodes.Spherical.HigherWeylGeneralRowNormalization
+open MetricCodes.Spherical.HigherWeylDescendingRowFactors
+open MetricCodes.Spherical.HigherWeylAllRankCommonInvariantPolynomial
+open MetricCodes.Spherical.HigherWeylAllRankReflectedPrefixSuffixFactor
+open MetricCodes.Spherical.HigherWeylMiddleProductClosedForm
+open MetricCodes.Spherical.HigherHierarchy
+end HigherWeylAllRankJacobiTrudiWeylEvaluation
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherWeylAllRankAlternatingCharacter
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherWeylGramOrthogonalJacobiTrudi
+open MetricCodes.Spherical.HigherWeylAllRankJacobiTrudiWeylEvaluation
+end HigherWeylAllRankAlternatingCharacter
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherWeylAllRankAlternatingCharacter
+open MetricCodes.Spherical.HigherHarmonicYoung.UniversalBGGRootComplex
+end
+namespace UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BGGRootComplex
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option synthInstance.maxHeartbeats 400000
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators InnerProductSpace
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators InnerProductSpace
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+variable {ι M : Type*} [LinearOrder ι]
+variable [AddCommGroup M] [Module ℝ M]
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 9000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+variable {ι M : Type*} [LinearOrder ι]
+variable [AddCommGroup M] [Module ℝ M]
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3200000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+variable {M : Type*} [AddCommGroup M] [Module ℝ M]
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+set_option synthInstance.maxHeartbeats 400000
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+section LowerStructureAtom
+end LowerStructureAtom
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+variable {ι M : Type*} [LinearOrder ι]
+variable [AddCommGroup M] [Module ℝ M]
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+open scoped BigOperators
+attribute [local instance] Classical.propDecidable
+variable {M : Type*} [AddCommGroup M] [Module ℝ M]
+end
+noncomputable section
+set_option autoImplicit false
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 9000000
+set_option maxRecDepth 4000
+open scoped BigOperators
+attribute [local instance] Classical.propDecidable
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 12000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 16000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 16000000
+open scoped BigOperators
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 9000000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 12000000
+set_option maxRecDepth 4000
+set_option synthInstance.maxHeartbeats 800000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+section ExteriorTranspose
+end ExteriorTranspose
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option maxRecDepth 3000
+open scoped BigOperators
+variable {ι M : Type*} [LinearOrder ι]
+variable [AddCommGroup M] [Module ℝ M]
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+open scoped BigOperators
+attribute [local instance] Classical.propDecidable
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+set_option synthInstance.maxHeartbeats 400000
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 9000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+attribute [local instance] Classical.propDecidable
+end
+noncomputable section
+set_option autoImplicit false
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+end UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+end
+namespace UniversalBGGRootComplex
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 12000000
+set_option maxRecDepth 4000
+set_option synthInstance.maxHeartbeats 500000
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+set_option synthInstance.maxHeartbeats 400000
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+noncomputable section
+set_option autoImplicit false
+open MetricCodes.Spherical.HigherHarmonicYoung
+end
+end UniversalBGGRootComplex
+end HigherHarmonicYoung
+end Spherical
+end MetricCodes
+noncomputable section
+set_option autoImplicit false
+namespace MetricCodes.Spherical.HigherHarmonicYoung.UniversalBGGRootComplex
+open MetricCodes.Spherical.HigherHarmonicYoung
+end MetricCodes.Spherical.HigherHarmonicYoung.UniversalBGGRootComplex
+namespace MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHarmonicYoung.UniversalBGGRootComplex
+end MetricCodes.Spherical.HigherHarmonicYoung
+end
+namespace MetricCodes
+namespace Spherical
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherHarmonicYoung.AllRankFischerGramWeylRecurrence
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowRaiseLowerTensorTrace
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end HigherHarmonicYoung.AllRankFischerGramWeylRecurrence
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2500000
+open scoped BigOperators
+namespace HigherYoungArbitraryRankColumnHighestCoefficientDescent
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherYoungAllRankSourceCoefficientStraightening
+end HigherYoungArbitraryRankColumnHighestCoefficientDescent
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungArbitraryRankTriangularMarginDominance
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+end HigherYoungArbitraryRankTriangularMarginDominance
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace ArbitraryRankColumnWeightProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+end ArbitraryRankColumnWeightProjection
+end
+noncomputable section
+set_option autoImplicit false
+namespace ArbitraryRankColumnWeightCartan
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankColumnWeightProjection
+end ArbitraryRankColumnWeightCartan
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators
+namespace ArbitraryRankColumnWeightRowRoot
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankColumnWeightProjection
+open MetricCodes.Spherical.TwoRowYoungBidegreeDecomposition
+end ArbitraryRankColumnWeightRowRoot
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2400000
+open scoped BigOperators
+namespace ArbitraryRankColumnWeightRootShift
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankColumnWeightProjection
+end ArbitraryRankColumnWeightRootShift
+namespace ArbitraryRankIsotropicSupportCartanWeight
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherYoungAllRankSourceCoefficientStraightening
+open MetricCodes.Spherical.HigherYoungArbitraryRankColumnHighestCoefficientDescent
+open MetricCodes.Spherical.HigherYoungArbitraryRankTriangularMarginDominance
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankColumnWeightProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankColumnWeightCartan
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankColumnWeightRowRoot
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankColumnWeightRootShift
+end ArbitraryRankIsotropicSupportCartanWeight
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+namespace HigherYoungFullComplexSpanRowEquations
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungFullComplexSpanRowEquations
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungFullComplexSpanTraceFree
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungFullComplexSpanTraceFree
+namespace HigherYoungFullComplexSpanHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungFullComplexSpanHomogeneity
+namespace HigherYoungOrthogonalPositiveRootKernelIsotropicSupport
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherYoungFullComplexSpanHomogeneity
+open MetricCodes.Spherical.HigherYoungMaximalCartanNullSubstitutionRange
+end HigherYoungOrthogonalPositiveRootKernelIsotropicSupport
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators
+namespace HigherYoungArbitraryRankHarmonicHoweHighestRigidity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.BideterminantHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankIsotropicSupportCartanWeight
+open MetricCodes.Spherical.HigherYoungAllRankIsotropicHighestMultiplicityOne
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungFullComplexSpanRowEquations
+open MetricCodes.Spherical.HigherYoungOrthogonalPositiveRootKernelIsotropicSupport
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungArbitraryRankHarmonicHoweHighestRigidity
+namespace HigherYoungAllRankHarmonicHighestCartanEulerIdentity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+end HigherYoungAllRankHarmonicHighestCartanEulerIdentity
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungAllRankHarmonicHighestUnusedDerivativeVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+end HigherYoungAllRankHarmonicHighestUnusedDerivativeVanishing
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators
+namespace HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+end HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+end
+namespace HigherYoungIsotropicComplexTraceDecomposition
+noncomputable section
+set_option autoImplicit false
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+open MetricCodes.Spherical.HigherYoungFullComplexSpanTraceFree
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end
+end HigherYoungIsotropicComplexTraceDecomposition
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+namespace HigherYoungAllRankAntiHolomorphicRootCommutators
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+end HigherYoungAllRankAntiHolomorphicRootCommutators
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+open scoped BigOperators
+namespace HigherYoungAllRankShortRootAntiHolomorphicMixedTraceCancellation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+open MetricCodes.Spherical.HigherYoungIsotropicComplexTraceDecomposition
+open MetricCodes.Spherical.HigherYoungAllRankAntiHolomorphicRootCommutators
+end HigherYoungAllRankShortRootAntiHolomorphicMixedTraceCancellation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators
+namespace HigherYoungAllRankHarmonicRootEnergyTraceRowCancellation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+open MetricCodes.Spherical.HigherYoungIsotropicComplexTraceDecomposition
+open MetricCodes.Spherical.HigherYoungAllRankShortRootAntiHolomorphicMixedTraceCancellation
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungAllRankHarmonicRootEnergyTraceRowCancellation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators
+namespace HigherYoungAmbientDifferenceRootAntiHolomorphicDerivativeCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+end HigherYoungAmbientDifferenceRootAntiHolomorphicDerivativeCommutator
+namespace HigherYoungAmbientSumRootHolomorphicDerivativeCommutator
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungAmbientPositiveRootGeneratorAction
+open MetricCodes.Spherical.HigherYoungIsotropicComplexTraceDecomposition
+attribute [-simp] antiholomorphicDerivative_apply holomorphicDerivative_apply
+end HigherYoungAmbientSumRootHolomorphicDerivativeCommutator
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungAmbientSumRootAllHighestHolomorphicEvaluation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungIsotropicComplexTraceDecomposition
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungAmbientSumRootHolomorphicDerivativeCommutator
+end HigherYoungAmbientSumRootAllHighestHolomorphicEvaluation
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankHarmonicHighestRootCoercivity
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+end HigherYoungAllRankHarmonicHighestRootCoercivity
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungAllRankHarmonicHighestTriangularScalarBookkeeping
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootCoercivity
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+end HigherYoungAllRankHarmonicHighestTriangularScalarBookkeeping
+namespace HigherYoungAllRankAntiHolomorphicTriangularSums
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherYoungFullComplexSpanRowEquations
+open MetricCodes.Spherical.HigherYoungAllRankAntiHolomorphicRootCommutators
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestTriangularScalarBookkeeping
+end HigherYoungAllRankAntiHolomorphicTriangularSums
+namespace HigherYoungAllRankActualHighestCasimirRigidity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientDifferenceRootAntiHolomorphicDerivativeCommutator
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestTriangularScalarBookkeeping
+end HigherYoungAllRankActualHighestCasimirRigidity
+end
+section
+set_option autoImplicit false
+namespace HigherYoungFiniteDescendingAscendingInduction
+end HigherYoungFiniteDescendingAscendingInduction
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3200000
+open scoped BigOperators
+namespace HigherYoungAllRankActualHighestAntiHolomorphicRecurrence
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherYoungIsotropicComplexTraceDecomposition
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungAmbientSumRootHolomorphicDerivativeCommutator
+open MetricCodes.Spherical.HigherYoungAmbientDifferenceRootAntiHolomorphicDerivativeCommutator
+open MetricCodes.Spherical.HigherYoungAmbientSumRootAllHighestHolomorphicEvaluation
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootEnergyIdentity
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestRootCoercivity
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestTriangularScalarBookkeeping
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicRootEnergyTraceRowCancellation
+open MetricCodes.Spherical.HigherYoungAllRankAntiHolomorphicTriangularSums
+open MetricCodes.Spherical.HigherYoungAllRankActualHighestCasimirRigidity
+open MetricCodes.Spherical.HigherYoungFiniteDescendingAscendingInduction
+end HigherYoungAllRankActualHighestAntiHolomorphicRecurrence
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankShortNegativeRootNilpotence
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungAllRankShortNegativeRootNilpotence
+end
+namespace HigherYoungAllRankHighestShortRootWeightNonnegative
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungArbitraryRankDominantHighestLinePreservation
+open MetricCodes.Spherical.HigherYoungAllRankShortNegativeRootNilpotence
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungArbitraryRankDominantHighestLinePreservation
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungAllRankShortNegativeRootNilpotence
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end
+end HigherYoungAllRankHighestShortRootWeightNonnegative
+noncomputable section
+set_option autoImplicit false
+namespace HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+end HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+namespace HigherYoungArbitraryRankAmbientSignedWeightGeneratorCartan
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+end HigherYoungArbitraryRankAmbientSignedWeightGeneratorCartan
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1400000
+open scoped BigOperators
+namespace HigherYoungArbitraryRankSignedDiagonalDerivation
+open MetricCodes.Spherical.HigherYoungMaximalCartanNullSubstitutionRange
+end HigherYoungArbitraryRankSignedDiagonalDerivation
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankActualSignedWeightCartanEigen
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungArbitraryRankAmbientSignedWeightGeneratorCartan
+open MetricCodes.Spherical.HigherYoungArbitraryRankSignedDiagonalDerivation
+end HigherYoungAllRankActualSignedWeightCartanEigen
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightYoungPreservation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+end HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightYoungPreservation
+namespace HigherYoungFiniteJointWeightProjectorInvariant
+end HigherYoungFiniteJointWeightProjectorInvariant
+namespace HigherYoungAllRankActualSignedWeightYoungPreservation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightYoungPreservation
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherYoungFiniteJointWeightProjectorInvariant
+open MetricCodes.Spherical.HigherYoungAllRankActualSignedWeightCartanEigen
+end HigherYoungAllRankActualSignedWeightYoungPreservation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2400000
+open scoped BigOperators
+namespace HigherYoungArbitraryRankAmbientSignedWeightRootShift
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+end HigherYoungArbitraryRankAmbientSignedWeightRootShift
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungArbitraryRankActualSignedWeightRootPreservation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungArbitraryRankAmbientSignedWeightRootShift
+end HigherYoungArbitraryRankActualSignedWeightRootPreservation
+namespace HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherYoungAmbientRootNilpotence
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+end HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightDecomposition
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators
+namespace HigherYoungAllRankActualHighestAntiHolomorphicVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankAmbientSignedWeightDecomposition
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherYoungAllRankActualHighestAntiHolomorphicRecurrence
+open MetricCodes.Spherical.HigherYoungAllRankHighestShortRootWeightNonnegative
+open MetricCodes.Spherical.HigherYoungAllRankActualSignedWeightCartanEigen
+open MetricCodes.Spherical.HigherYoungAllRankActualSignedWeightYoungPreservation
+open MetricCodes.Spherical.HigherYoungArbitraryRankActualSignedWeightRootPreservation
+end HigherYoungAllRankActualHighestAntiHolomorphicVanishing
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungAllRankActualHighestKernelRigidity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherYoungAmbientCartanIsotropicEigenvalues
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungArbitraryRankHarmonicHoweHighestRigidity
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestCartanEulerIdentity
+open MetricCodes.Spherical.HigherYoungAllRankHarmonicHighestUnusedDerivativeVanishing
+open MetricCodes.Spherical.HigherYoungAllRankActualHighestAntiHolomorphicVanishing
+open MetricCodes.Spherical.HigherYoungFullComplexSpanRowEquations
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungAllRankActualHighestKernelRigidity
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankInvariantPositiveRootKernel
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungAllRankInvariantPositiveRootKernel
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungFullComplexSpanHomogeneous
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungFullComplexSpanHomogeneous
+namespace HigherYoungRotationInvariantComplexRootStability
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+end HigherYoungRotationInvariantComplexRootStability
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1500000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankStabilizerHighestCyclicity
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherYoungAllRankInvariantPositiveRootKernel
+open MetricCodes.Spherical.HigherYoungAllRankIsotropicHighestMultiplicityOne
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungFullComplexSpanHomogeneous
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungRotationInvariantComplexRootStability
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungAllRankStabilizerHighestCyclicity
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankCanonicalEdgeRaisingGram
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankFischerGramWeylRecurrence
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowRaiseLowerTensorTrace
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowRaiseTensorGram
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherYoungAllRankActualHighestKernelRigidity
+open MetricCodes.Spherical.HigherYoungAllRankStabilizerHighestCyclicity
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankCanonicalEdgeRaisingGram
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankActualHighestKernelRigidity
+open MetricCodes.Spherical.HigherYoungAllRankStabilizerHighestCyclicity
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end AllRankGelfandTsetlinCanonicalFibre
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankActualProjectedAxisAssembly
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxProjectedAxisWitness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalEdgeRaisingGram
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingAdjacentPathExchange
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamond
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowSameAxisDiamondSpectralSuffixClosure
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungArbitraryRowLoweringProjectedAxisWitness
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end HigherYoungAllRankActualProjectedAxisAssembly
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherHarmonicYoung.AllRankActualBranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHierarchy
+end HigherHarmonicYoung.AllRankActualBranchingDimension
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option maxRecDepth 4096
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.IsotropicAmbientHighestLine
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAmbientRootRotationDecomposition
+open MetricCodes.Spherical.HigherYoungAllRankActualHighestKernelRigidity
+open MetricCodes.Spherical.HigherYoungAllRankStabilizerHighestCyclicity
+open MetricCodes.Spherical.HigherYoungArbitraryRankDominantHighestLinePreservation
+open MetricCodes.Spherical.HigherYoungArbitraryRankOrthogonalRootHighestKernel
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+end HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+variable {ι : Type*} [Fintype ι]
+variable {V : Type*} [NormedAddCommGroup V] [InnerProductSpace ℝ V]
+  [FiniteDimensional ℝ V]
+variable {E : ι → Type*}
+  [∀ i, NormedAddCommGroup (E i)]
+  [∀ i, InnerProductSpace ℝ (E i)]
+  [∀ i, FiniteDimensional ℝ (E i)]
+end HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+end
+section
+set_option autoImplicit false
+namespace HigherYoungAllRankWeylBranchingRowDifference
+end HigherYoungAllRankWeylBranchingRowDifference
+namespace HigherHarmonicYoung.BranchingDimension
+end HigherHarmonicYoung.BranchingDimension
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungAllRankWeylBranchingDeterminantSum
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherYoungAllRankWeylBranchingRowDifference
+end HigherYoungAllRankWeylBranchingDeterminantSum
+namespace HigherYoungOrthogonalBranchCompleteCoefficient
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+end HigherYoungOrthogonalBranchCompleteCoefficient
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherHarmonicYoung.AllRankWeylBranchingRecurrence
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherYoungAllRankWeylBranchingDeterminantSum
+open MetricCodes.Spherical.HigherYoungAllRankWeylBranchingRowDifference
+open MetricCodes.Spherical.HigherYoungOrthogonalBranchCompleteCoefficient
+open MetricCodes.Spherical.HigherWeylAllRankJacobiTrudiWeylEvaluation
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherHierarchy
+end HigherHarmonicYoung.AllRankWeylBranchingRecurrence
+namespace HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungAllRankZeroRowRotationEquivariance
+namespace HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankActualBranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankWeylBranchingRecurrence
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankGTProjectedLowerRange
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankHarmonicBranchRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungCyclicHighestSchur
+open MetricCodes.Spherical.HigherYoungMixedGapLieGram
+open MetricCodes.Spherical.HigherYoungTwoRowLieIrreducibility
+open MetricCodes.Spherical.HigherRepresentationGraph
+end HigherYoungAllRankGTProjectedLowerRange
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankSelectedBranchSignature
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungAllRankSelectedBranchSignature
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankCanonicalBranchProjectedLowerCrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankGTProjectedLowerRange
+open MetricCodes.Spherical.HigherYoungAllRankSelectedBranchSignature
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungAllRankCanonicalBranchProjectedLowerCrossGram
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankCanonicalGTFullCrossOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankSelectedBranchSignature
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungAllRankCanonicalGTFullCrossOrthogonality
+namespace HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGTFullCrossOrthogonality
+open MetricCodes.Spherical.ThreeRowYoungBranching
+variable {ι : Type*} [Fintype ι]
+variable {V : Type*} [NormedAddCommGroup V] [InnerProductSpace ℝ V]
+  [FiniteDimensional ℝ V]
+variable {E : ι → Type*}
+  [∀ i, NormedAddCommGroup (E i)]
+  [∀ i, InnerProductSpace ℝ (E i)]
+  [∀ i, FiniteDimensional ℝ (E i)]
+variable {F : Type*} [NormedAddCommGroup F] [InnerProductSpace ℝ F]
+end HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+namespace HigherYoungAllRankCanonicalBoxReverseRange
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankActualProjectedAxisAssembly
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalBranchProjectedLowerCrossGram
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+end HigherYoungAllRankCanonicalBoxReverseRange
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace HigherHarmonicYoung.AllRankActualFischerGramRecurrence
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankArbitraryRowBranchingOperator
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalForwardAxisRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankRawProjectedRaiseMickelsson
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowBaseAxisChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowUnconditionalBranch
+open MetricCodes.Spherical.HigherHarmonicYoung.DeterminantVectors
+open MetricCodes.Spherical.HigherRepresentationGraph
+end HigherHarmonicYoung.AllRankActualFischerGramRecurrence
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+namespace HigherYoungAllRankGTCharacteristicResidue
+open MetricCodes.Spherical.HigherChannel
+end HigherYoungAllRankGTCharacteristicResidue
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators
+namespace AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankCartanCharacteristicInterpolation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators TensorProduct
+namespace AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+end AllRankGTRelativeCasimirProjector
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTCompressedResolvent
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators TensorProduct
+namespace AllRankGTRelativeCasimirPureAxis
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+end AllRankGTRelativeCasimirPureAxis
+namespace AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+end AllRankCartanCharacteristicProjector
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 700000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTAxisCompressedCharacteristicMinor
+namespace AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankRawProjectedRaiseMickelsson
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowBaseAxisChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.UniversalBGGRootComplex
+open MetricCodes.Spherical.HigherYoungArbitraryRowLoweringProjectedAxisWitness
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankGTCartanHodgeSelector
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTSelectedProjectorCompression
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankRawProjectedRaiseMickelsson
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTSelectedProjectorCompression
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace AllRankGTSelectedPhysicalAxisRange
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalForwardAxisRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedProjectorCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankRawProjectedRaiseMickelsson
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInterlacingAdjacentPathExchange
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankReverseInterlacingPolynomialSeed
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowAxialAdjointGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalBranchProjectedLowerCrossGram
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTSelectedPhysicalAxisRange
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankCanonicalBoxFischerRecurrenceOfCharacteristicMinor
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedPhysicalAxisRange
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankGelfandTsetlinHarmonicIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonGramIdeal
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankActualProjectedAxisAssembly
+end AllRankCanonicalBoxFischerRecurrenceOfCharacteristicMinor
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankOrthogonalTensorPieriCoefficient
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+end HigherYoungAllRankOrthogonalTensorPieriCoefficient
+namespace HigherYoungAllRankOrthogonalTensorPieriInvalidRows
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriCoefficient
+end HigherYoungAllRankOrthogonalTensorPieriInvalidRows
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace HigherYoungAllRankOrthogonalTensorPieriRowFiltering
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriCoefficient
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriInvalidRows
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end HigherYoungAllRankOrthogonalTensorPieriRowFiltering
+end
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungArbitraryRowLoweringProjectedAxisWitness
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungAllRankGTAppendedRowLegality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungAllRankGTAppendedRowLegality
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+namespace AllRankGTAppendedRowExclusion
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTAppendedRowExclusion
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankTensorClebschCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+end AllRankTensorClebschCompleteness
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedRowExclusion
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTCompressedResolventSpectral
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+namespace HigherYoungAllRankOrthogonalTensorPieriBoundaryColumn
+end HigherYoungAllRankOrthogonalTensorPieriBoundaryColumn
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace AllRankOrthogonalTensorPieriDimension
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherWeylAllRankJacobiTrudiWeylEvaluation
+open MetricCodes.Spherical.HigherWeylBinomialDeterminant
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriCoefficient
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriBoundaryColumn
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriRowFiltering
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankOrthogonalTensorPieriDimension
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTensorPieriNormalizedChannels
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalEdgeRaisingGram
+open MetricCodes.Spherical.HigherYoungAllRankActualProjectedAxisAssembly
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTTensorPieriNormalizedChannels
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalTensorPieriDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTensorPieriNormalizedChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+end HigherYoungAllRankOrthogonalTensorPieriActualChannels
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankZeroRowTensorCasimirConjugacy
+namespace AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTRelativeCasimirZeroRowTransport
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators
+namespace HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherChannel
+end HigherYoungAllRankGTArrowheadSchurComplement
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2400000
+open scoped BigOperators InnerProductSpace
+namespace AllRankGTInvalidRowCharacteristicMinorVanishing
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTInvalidRowCharacteristicMinorVanishing
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 400000
+open scoped BigOperators InnerProductSpace
+namespace AllRankTensorClebschSpectralProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+end AllRankTensorClebschSpectralProjection
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTAbsentSignedProjectorOnRetainedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschSpectralProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherChannel
+end AllRankGTAbsentSignedProjectorOnRetainedSpan
+end
+noncomputable section
+set_option autoImplicit false
+namespace AllRankGTInvalidFullBranchExclusion
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidRowCharacteristicMinorVanishing
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTInvalidFullBranchExclusion
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace
+namespace AllRankGTIllegalStabilizerIntertwiner
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidFullBranchExclusion
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTIllegalStabilizerIntertwiner
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungAllRankGTAxisTensorRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end HigherYoungAllRankGTAxisTensorRotationIntertwining
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTNoninterlacingTensorChannelAxisOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTIllegalStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTNoninterlacingTensorChannelAxisOrthogonality
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTInvalidNonterminalProjectorVanishing
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAbsentSignedProjectorOnRetainedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidRowCharacteristicMinorVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNoninterlacingTensorChannelAxisOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTInvalidNonterminalProjectorVanishing
+namespace AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+end AllRankGTRelativeCasimirCompressedResolvent
+namespace AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransportedPieriOrthogonality
+namespace AllRankGTTransverseWignerEckartHighest
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransverseWignerEckartHighest
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankOrthogonalEigenchannelEigenspace
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschSpectralProjection
+end HigherYoungAllRankOrthogonalEigenchannelEigenspace
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTSelectedPhysicalChannelRange
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidNonterminalProjectorVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartHighest
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankGTAppendedRowLegality
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalEigenchannelEigenspace
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungArbitraryRowLoweringProjectedAxisWitness
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTSelectedPhysicalChannelRange
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTSelectedRestrictedProjectorEquality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankGTSelectedRestrictedProjectorEquality
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTAppendedClebschOrthogonality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedRowExclusion
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTAppendedClebschOrthogonality
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTAppendedPieriPhysicalAxisOrthogonality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedClebschOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedRowExclusion
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+private theorem appendZeroWeight_antitone_metriccodes2_17c0be6a {r : ℕ}
+    (lam : Fin (r + 1) → ℕ) (hdom : Antitone lam) :
+    Antitone (appendZeroWeight lam) := by
+  intro i j hij
+  induction i using Fin.lastCases with
+  | last =>
+      have hj : j = Fin.last (r + 1) := by
+        apply Fin.ext
+        have hbound := j.isLt
+        change r + 1 ≤ j.val at hij
+        change j.val = r + 1
+        omega
+      subst j
+      exact le_rfl
+  | cast i =>
+      induction j using Fin.lastCases with
+      | last => simp
+      | cast j =>
+          have hle : i ≤ j := by simpa using hij
+          simpa using hdom hle
+end AllRankGTAppendedPieriPhysicalAxisOrthogonality
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTPhysicalPaddedPieriSignedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTPhysicalPaddedPieriSignedSpan
+end
+noncomputable section
+set_option autoImplicit false
+open scoped InnerProductSpace TensorProduct
+namespace AllRankGTTransverseOrthogonalCompleteness
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalPaddedPieriSignedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransverseOrthogonalCompleteness
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTCanonicalPhysicalSignedSpan
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedPhysicalChannelRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedRestrictedProjectorEquality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseOrthogonalCompleteness
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankGTCanonicalPhysicalSignedSpan
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open Filter Topology
+open scoped BigOperators InnerProductSpace Topology
+namespace HigherYoungAllRankStrongStableActualBoxSufficiency
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungMovingFibres
+end HigherYoungAllRankStrongStableActualBoxSufficiency
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open scoped BigOperators InnerProductSpace
+namespace HigherYoungAllRankActualProjectedAxisCompletion
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxActualForward
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxFischerRecurrenceOfCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalBoxProjectedAxisWitness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCanonicalPhysicalSignedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanHodgeSelector
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherHierarchyActualBoxSufficiency
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankActualProjectedAxisAssembly
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalBoxReverseRange
+open MetricCodes.Spherical.HigherYoungAllRankStrongStableActualBoxSufficiency
+end HigherYoungAllRankActualProjectedAxisCompletion
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3500000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTerminalNegativeProjectorVanishing
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+end AllRankGTTerminalNegativeProjectorVanishing
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped InnerProductSpace
+namespace AllRankGTAbsentWallCharacteristicFactor
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTerminalNegativeProjectorVanishing
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTAbsentWallCharacteristicFactor
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTPhysicalInvalidRowProjectorVanishing
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCartanCharacteristicInterpolation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAbsentSignedProjectorOnRetainedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTIllegalStabilizerIntertwiner
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidNonterminalProjectorVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidRowCharacteristicMinorVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNoninterlacingTensorChannelAxisOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTAppendedRowLegality
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankTensorClebschCompleteness
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTPhysicalInvalidRowProjectorVanishing
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace
+namespace AllRankGTTransverseCharacteristicDeterminant
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+end AllRankGTTransverseCharacteristicDeterminant
+end
+noncomputable section
+set_option autoImplicit false
+open scoped InnerProductSpace
+namespace AllRankGTCharacteristicMinorOfValidRoots
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalInvalidRowProjectorVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCharacteristicDeterminant
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTCharacteristicMinorOfValidRoots
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2500000
+open scoped BigOperators TensorProduct
+namespace AllRankGTStabilizerCasimirShift
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+end AllRankGTStabilizerCasimirShift
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2400000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTStabilizerCasimirShift
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+end AllRankGTTransverseCasimirEmbedding
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 500000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseTangentialCompression
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirPureAxis
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankGTTransverseTangentialCompression
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseTensorRelativeCompression
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirPureAxis
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTStabilizerCasimirShift
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTangentialCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+end AllRankGTTransverseTensorRelativeCompression
+namespace AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalEdgeRaisingGram
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowDownstreamActualChannels
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTTransverseWignerEckartPhase
+namespace AllRankGTNormalizedTransverseSector
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTensorRelativeCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+end AllRankGTNormalizedTransverseSector
+namespace AllRankGTNormalizedTransverseRotationIntertwining
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTangentialCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+end AllRankGTNormalizedTransverseRotationIntertwining
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseAppendedChannelOrthogonality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedClebschOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedRowExclusion
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransverseAppendedChannelOrthogonality
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseSectorSignedSpan
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalPaddedPieriSignedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseAppendedChannelOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransverseSectorSignedSpan
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTNormalizedTransverseCharacteristicAnnihilation
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseAppendedChannelOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseSectorSignedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTAppendedRowLegality
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTNormalizedTransverseCharacteristicAnnihilation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2500000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTWallTransverseCompression
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTWallSectorGram
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalEdgeRaisingGram
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTWallSectorGram
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirPureAxis
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTStabilizerCasimirShift
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTangentialCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTensorRelativeCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTWallTransverseCompression
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorGram
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungMixedGapAxisProbability
+end AllRankGTWallSectorIsometry
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTNormalizedWallCharacteristicAnnihilation
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseSectorSignedSpan
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTangentialCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTNormalizedWallCharacteristicAnnihilation
+end
+noncomputable section
+set_option autoImplicit false
+namespace AllRankGTPresentWallSignedNodeSeparation
+open MetricCodes.Spherical.HigherChannel
+end AllRankGTPresentWallSignedNodeSeparation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+end AllRankGTTransverseFullBranchDecomposition
+namespace AllRankGTActualAxisTransverseDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+end AllRankGTActualAxisTransverseDecomposition
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 1600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTPhysicalCompleteBlockReconstruction
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTActualAxisTransverseDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+end AllRankGTPhysicalCompleteBlockReconstruction
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+end AllRankGTValidTransverseArrowheadRow
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTPhysicalRetainedAdditiveColumn
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTActualAxisTransverseDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalCompleteBlockReconstruction
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+end AllRankGTPhysicalRetainedAdditiveColumn
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTRelativeCasimirCrossBlock
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+end AllRankGTRelativeCasimirCrossBlock
+end
+noncomputable section
+set_option autoImplicit false
+open scoped TensorProduct
+namespace AllRankGTPhysicalPaddedPieriFullEigen
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidNonterminalProjectorVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTPhysicalPaddedPieriFullEigen
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTSelectedMuAxisProjectionVanishing
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTActualAxisTransverseDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTInvalidNonterminalProjectorVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalPaddedPieriFullEigen
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransportedPieriOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankOrthogonalBranchCompleteness
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTSelectedMuAxisProjectionVanishing
+end
+end HigherHarmonicYoung
+end Spherical
+end MetricCodes
+set_option autoImplicit false
+set_option maxHeartbeats 8000000
+namespace MetricCodes
+namespace Spherical
+namespace HigherHarmonicYoung
+noncomputable section
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTFullTransverseSameSignatureRow
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseSector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTensorRelativeCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankSelectedBranchSignature
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTFullTransverseSameSignatureRow
+end
+noncomputable section
+set_option autoImplicit false
+open scoped InnerProductSpace TensorProduct
+namespace AllRankGTWallFullTransverseFactorization
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTWallFullTransverseFactorization
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransversePhysicalDiagonalColumn
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTFullTransverseSameSignatureRow
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallFullTransverseFactorization
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorGram
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransversePhysicalDiagonalColumn
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseWrongBranchCompression
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirPureAxis
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTangentialCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseTensorRelativeCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGTFullCrossOrthogonality
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransverseWrongBranchCompression
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTWallTransverseCrossOrthogonality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWrongBranchCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTWallTransverseCrossOrthogonality
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4500000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTPhysicalWallAdditiveColumn
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTActualAxisTransverseDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedWallCharacteristicAnnihilation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalRetainedAdditiveColumn
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCrossBlock
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedMuAxisProjectionVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransversePhysicalDiagonalColumn
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallFullTransverseFactorization
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallTransverseCrossOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTPhysicalWallAdditiveColumn
+end
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace AllRankGTTransverseEigenNodeSeparation
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+end AllRankGTTransverseEigenNodeSeparation
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTFullySelectedTransverseBranchProjection
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankCanonicalSelectedBranchRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankSelectedBranchSignature
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTFullySelectedTransverseBranchProjection
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 4000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTPhysicalSelectedTwoBlockClosure
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTActualAxisTransverseDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalCompleteBlockReconstruction
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+end AllRankGTPhysicalSelectedTwoBlockClosure
+end
+noncomputable section
+set_option autoImplicit false
+open scoped InnerProductSpace TensorProduct
+namespace AllRankGTTransverseSelectedClebschRange
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartHighest
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherYoungAllRankGTAppendedRowLegality
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransverseSelectedClebschRange
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTTransverseRetainedTwoBlockClosure
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTActualAxisTransverseDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTFullySelectedTransverseBranchProjection
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTFullTransverseSameSignatureRow
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseRotationIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalSelectedTwoBlockClosure
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTSelectedMuAxisProjectionVanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseFullBranchDecomposition
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseSelectedClebschRange
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWrongBranchCompression
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRowMickelssonWeightHomogeneity
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankSelectedBranchSignature
+open MetricCodes.Spherical.ThreeRowYoungBranching
+end AllRankGTTransverseRetainedTwoBlockClosure
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 700000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTAxisCompressedValidNodeRoot
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTAxisCompressedValidNodeRoot
+end
+end HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace HigherYoungAllRankGTCanonicalAxisSignedCharacteristic
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolventSpectral
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseOrthogonalCompleteness
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end HigherYoungAllRankGTCanonicalAxisSignedCharacteristic
+end
+namespace HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+open scoped BigOperators
+namespace AllRankGTAmbientCharacteristicAtTransverseNode
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTAmbientCharacteristicAtTransverseNode
+end
+noncomputable section
+set_option autoImplicit false
+open scoped InnerProductSpace
+namespace AllRankGTTransverseCouplingNonzero
+end AllRankGTTransverseCouplingNonzero
+end
+noncomputable section
+set_option autoImplicit false
+open scoped InnerProductSpace TensorProduct
+namespace AllRankGTCartanSpectralCouplingNonvanishing
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAmbientCharacteristicAtTransverseNode
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCouplingNonzero
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTCartanSpectralCouplingNonvanishing
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 3000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTValidTransverseMinorRoots
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedValidNodeRoot
+open MetricCodes.Spherical.HigherYoungAllRankGTCanonicalAxisSignedCharacteristic
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCartanSpectralCouplingNonvanishing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankGTCharacteristicResidue
+end AllRankGTValidTransverseMinorRoots
+end
+section
+set_option autoImplicit false
+namespace AllRankGTAdjacentCommonInterlacing
+open MetricCodes.Spherical.HigherChannel
+end AllRankGTAdjacentCommonInterlacing
+end
+noncomputable section
+set_option autoImplicit false
+namespace AllRankGTValidTransverseSignedIndex
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTValidTransverseSignedIndex
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 5000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTValidTransverseSectorFamily
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAdjacentCommonInterlacing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseSector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseCasimirEmbedding
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseMinorRoots
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseSignedIndex
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankInternalRowLowerGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungMixedGapAxisProbability
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTValidTransverseSectorFamily
+end
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+open scoped BigOperators InnerProductSpace TensorProduct
+namespace AllRankGTUnconditionalCharacteristicMinor
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAxisCompressedCharacteristicMinor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAbsentWallCharacteristicFactor
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAdjacentCommonInterlacing
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCharacteristicMinorOfValidRoots
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseCharacteristicAnnihilation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedTransverseSector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTNormalizedWallCharacteristicAnnihilation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPresentWallSignedNodeSeparation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTPhysicalWallAdditiveColumn
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirCrossBlock
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirProjector
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseEigenNodeSeparation
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseRetainedTwoBlockClosure
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTTransverseWignerEckartPhase
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseArrowheadRow
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseMinorRoots
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTValidTransverseSectorFamily
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTWallSectorIsometry
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherHierarchy
+open MetricCodes.Spherical.HigherProjectionInstantiation
+open MetricCodes.Spherical.HigherRepresentationGraph (Interlaces)
+open MetricCodes.Spherical.HigherYoungActualGraphAssembly
+open MetricCodes.Spherical.HigherYoungAllRankActualBoxInstantiation
+open MetricCodes.Spherical.HigherYoungAllRankActualProjectedAxisCompletion
+open MetricCodes.Spherical.HigherYoungAllRankGTArrowheadSchurComplement
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungPenultimateRowProjectedLower
+end AllRankGTUnconditionalCharacteristicMinor
+end
+end HigherHarmonicYoung
+noncomputable section
+open Filter Topology
+open scoped Topology
+namespace HigherHierarchy
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTUnconditionalCharacteristicMinor
+end HigherHierarchy
+end
+end Spherical
+end MetricCodes
+noncomputable section
+open Filter Topology
+open scoped Topology
+namespace SpherePacking
+end SpherePacking
+namespace MetricCodes.Johnson
+end MetricCodes.Johnson
+namespace MetricCodes.Spherical.HigherHierarchy.NumericalMaximum
+end MetricCodes.Spherical.HigherHierarchy.NumericalMaximum
+end
+set_option autoImplicit true
+set_option backward.isDefEq.respectTransparency.types false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option linter.unusedVariables false
+set_option linter.unusedSectionVars false
+set_option linter.unusedSimpArgs false
+set_option linter.unusedTactic false
+set_option linter.unreachableTactic false
+set_option linter.unnecessarySeqFocus false
+set_option linter.unnecessarySimpa false
+set_option autoImplicit false
+set_option autoImplicit false
+set_option maxHeartbeats 1200000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+set_option autoImplicit false
+set_option maxHeartbeats 2000000
+set_option autoImplicit false
+set_option maxHeartbeats 1800000
+open MetricCodes
+open MetricCodes.Spherical
+open MetricCodes.Spherical.HigherHarmonicYoung
+noncomputable section
+set_option autoImplicit false
+set_option maxHeartbeats 6000000
+set_option synthInstance.maxHeartbeats 600000
+open scoped BigOperators InnerProductSpace TensorProduct
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality
+open MetricCodes.Spherical.HigherChannel
+open MetricCodes.Spherical.HigherHarmonicYoung
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGelfandTsetlinCanonicalFibre
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedClebschOrthogonality
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedRowExclusion
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTCompressedResolvent
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTRelativeCasimirZeroRowTransport
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankPaddedLowerClebschIntertwining
+open MetricCodes.Spherical.HigherHarmonicYoung.AllRankZeroRowTensorCasimirConjugacy
+open MetricCodes.Spherical.HigherHarmonicYoung.ArbitraryRankBranching
+open MetricCodes.Spherical.HigherHarmonicYoung.BranchingDimension
+open MetricCodes.Spherical.HigherHarmonicYoung.ClebschRotation
+open MetricCodes.Spherical.HigherHarmonicYoung.CrossGram
+open MetricCodes.Spherical.HigherHarmonicYoung.MixedSignature
+open MetricCodes.Spherical.HigherRepresentationGraph
+open MetricCodes.Spherical.HigherYoungAllRankCanonicalGelfandTsetlinCompleteness
+open MetricCodes.Spherical.HigherYoungAllRankDistinctSignatureStabilizerIntertwiner
+open MetricCodes.Spherical.HigherYoungAllRankGTAxisTensorRotationIntertwining
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriActualChannels
+open MetricCodes.Spherical.HigherYoungAllRankOrthogonalTensorPieriSourceSignatureInjectivity
+open MetricCodes.Spherical.HigherYoungAllRankZeroRowRotationEquivariance
+open MetricCodes.Spherical.ThreeRowYoungBranching
+namespace MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality
+theorem _root_.solution
+    {r n : ℕ} (lam : Fin (r + 2) → ℕ)
+    (mu : Fin (r + 1) → ℕ) (h : Interlaces lam mu)
+    (hgram : PositiveGelfandTsetlinFischerGram (n := n) lam mu h)
+    (hdominant : Antitone (appendZeroWeight lam))
+    (hsource : Antitone
+      (raiseWeight (appendZeroWeight lam) (Fin.last (r + 2))))
+    (hn : 2 * (r + 2) + 5 ≤ n + 1)
+    (nu : FullBranchWeight
+      (raiseWeight (appendZeroWeight lam) (Fin.last (r + 2)))) :
+    originalAppendedFullBranchAxisCrossGram
+      lam mu h hgram hdominant hsource hn nu = 0 := by
+  have hmu : Antitone (appendZeroWeight (appendZeroWeight mu)) :=
+    appendZeroWeight_antitone_metriccodes2_17c0be6a (appendZeroWeight mu)
+      (appendZeroWeight_antitone_metriccodes2_17c0be6a mu
+        (interlaces_antitone_stabilizer h))
+  apply youngRotationIntertwiner_eq_zero_of_signature_ne
+    (by omega)
+    (appendZeroWeight (appendZeroWeight mu)) (fullBranchSignature nu)
+    hmu (Ne.symm (appendedRowFullBranchSignature_ne_appendZero lam mu nu))
+  intro a b
+  exact crossGram_intertwines_of_skew
+    (appendedFullBranchPieriLower lam hdominant hsource hn nu)
+    (originalPaddedSelectedAxisTensor lam mu h hgram)
+    (youngAmbientRotation (fullBranchSignature nu) a b)
+    (youngAmbientRotation (appendZeroWeight (appendZeroWeight mu)) a b)
+    (tensorAmbientRotation (appendZeroWeight lam) a.castSucc b.castSucc)
+    (youngAmbientRotation_adjoint (fullBranchSignature nu) a b)
+    (tensorAmbientRotation_adjoint (appendZeroWeight lam)
+      a.castSucc b.castSucc)
+    (appendedFullBranchPieriLower_rotation_intertwine
+      lam hdominant hsource hn nu a b)
+    (originalPaddedSelectedAxisTensor_rotation_intertwine
+      lam mu h hgram a b)
+end MetricCodes.Spherical.HigherHarmonicYoung.AllRankGTAppendedPieriPhysicalAxisOrthogonality

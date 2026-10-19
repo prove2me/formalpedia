@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_OAI_CirculantHadamard_exists_iff_order_one_or_four
 -- name    : OAI.CirculantHadamard.exists_iff_order_one_or_four
--- status  : Open
+-- status  : Proved
 -- author  : @wurtle
 -- created : 2026-10-07T04:32:26.448693+00:00
 -- url     : https://prove2.me/theorems/0e12bbf7-f1ef-4a88-9793-d0854fa9d14f

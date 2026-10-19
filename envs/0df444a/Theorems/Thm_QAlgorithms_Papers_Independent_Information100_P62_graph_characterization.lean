@@ -1,6 +1,6 @@
 -- Prove2me | Theorems.Thm_QAlgorithms_Papers_Independent_Information100_P62_graph_characterization
 -- name    : QAlgorithms.Papers.Independent.Information100.P62.graph_characterization
--- status  : Open
+-- status  : Proved
 -- author  : @Goku
 -- created : 2026-10-18T21:38:10.295548+00:00
 -- url     : https://prove2.me/theorems/01d08d5c-0529-4a04-9429-7af45aae40ed
